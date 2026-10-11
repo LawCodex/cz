@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 63/2025 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 196/2001 Sb., o odměnách a náhradách notářů, správců pozůstalosti a Notářské komory České republiky (notářský tarif), ve znění pozdějších předpisů"
+identifier: "63/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/63/2025-03-14"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-03-06
+effective: 2025-03-14
+last_amended: 2025-03-14
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/63"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 63/2025 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 196/2001 Sb., o odměnách a náhradách notářů, správců pozůstalosti a Notářské komory České republiky (notářský tarif), ve znění pozdějších předpisů
+
+63
+
+VYHLÁŠKA
+
+ze dne 6. března 2025,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 196/2001 Sb., o odměnách a náhradách notářů, správců pozůstalosti a Notářské komory České republiky (notářský tarif), ve znění pozdějších předpisů
+
+Ministerstvo spravedlnosti stanoví podle § 35o odst. 3 zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění zákona č. 300/2021 Sb., takto:
+
+## Čl. I
+
+V § 24a odst. 4 vyhlášky č. 196/2001 Sb., o odměnách a náhradách notářů, správců pozůstalosti a Notářské komory České republiky (notářský tarif), ve znění vyhlášky č. 403/2005 Sb., vyhlášky č. 432/2013 Sb., vyhlášky č. 338/2016 Sb. a vyhlášky č. 318/2021 Sb., se částka „300 Kč“ nahrazuje částkou „600 Kč“.
+
+## Čl. II – Přechodné ustanovení
+
+Za činnost Komory podle § 35o notářského řádu, o kterou žadatel požádal přede dnem nabytí účinnosti této vyhlášky, náleží Komoře odměna podle vyhlášky č. 196/2001 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení.
+
+Ministr spravedlnosti:
+
+JUDr. Blažek, Ph.D., v. r.

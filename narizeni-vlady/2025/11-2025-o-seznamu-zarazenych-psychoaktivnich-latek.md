@@ -1,0 +1,210 @@
+---
+title: "Nařízení vlády č. 11/2025 Sb., o seznamu zařazených psychoaktivních látek"
+identifier: "11/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/11/2026-06-25"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-12-18
+effective: 2025-01-17
+last_amended: 2026-06-25
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/11"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 11/2025 Sb., o seznamu zařazených psychoaktivních látek ve znění nařízení vlády č. 534/2025 Sb., nařízení vlády č. 50/2026 Sb. a nařízení vlády č. 107/2026 Sb."
+---
+
+# Nařízení vlády č. 11/2025 Sb., o seznamu zařazených psychoaktivních látek
+
+11
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 18. prosince 2024
+
+o seznamu zařazených psychoaktivních látek
+
+Vláda nařizuje podle § 44c odst. 3 písm. b) k provedení § 33k odst. 6 zákona č. 167/1998 Sb., o návykových látkách a o změně některých dalších zákonů, ve znění zákona č. 321/2024 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení stanoví seznam zařazených psychoaktivních látek, který je uveden v příloze k tomuto nařízení.
+
+## § 2 – Oznámení technického předpisu
+
+Toto nařízení bylo oznámeno v souladu se směrnicí Evropského parlamentu a Rady (EU) 2015/1535 ze dne 9. září 2015 o postupu při poskytování informací v oblasti norem a technických předpisů a předpisů pro služby informační společnosti.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Místopředseda vlády a ministr zdravotnictví:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.
+
+### Příloha
+
+#### Seznam zařazených psychoaktivních látek
+
+| Mezinárodní nechráněný název (INN) v českém jazyce | Další mezinárodní nechráněný název nebo obecný název | Chemický název podle IUPAC | Popis | Poznámka |
+|---|---|---|---|---|
+| Hexahydrokanabiforol | HHCP | 6,6,9-trimethyl-3-heptyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol | | |
+| Hexahydrokanabihexol | HHCH; HHC-C6 | 6,6,9-trimethyl-3-hexyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol | | |
+| Hexahydrokanabioktyl | HHC-C8 | 6,6,9-trimethyl-3-oktyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol | | |
+| Hexahydrokanabutol | HHCB; HHC-C4 | 6,6,9-trimethyl-3-butyl-6a,7,8,9,10,10a-hexahydrobenzo[c]chromen-1-ol | | |
+| Tetrahydrokanabiforol | THCP | (6aR,10aR)-3-heptyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-ol | | Včetně delta-8 izomeru. S výjimkou látky THCP, pokud je obsažena v rostlině technického konopí, technickém konopí, konopí extrakt a tinktura a přípravku z technického konopí v nevyhnutelně se vyskytujícím přirozeném stopovém množství. Tato výjimka se nevztahuje na potraviny. |
+| Tetrahydrokanabihexol | THCH; THC-H6 | (6aR,10aR)-3-hexyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-ol | | Včetně delta-8 izomeru.<br> S výjimkou látky THCH, pokud je obsažena v rostlině technického konopí, technickém konopí, konopí extrakt a tinktura a přípravku z technického konopí v nevyhnutelně se vyskytujícím přirozeném stopovém množství. Tato výjimka se nevztahuje na potraviny. |
+| Tetrahydrokanabioktyl | THC-C8 | (6aR,10aR)-3-oktyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-ol | | Včetně delta-8 izomeru. |
+| Tetrahydrokanabutol | THCB; THC-C4 | (6aR,10aR)-3-butyl-6,6,9-trimethyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-ol | | Včetně delta-8 izomeru.<br> S výjimkou látky THCB, pokud je obsažena v rostlině technického konopí, technickém konopí, konopí extrakt a tinktura a přípravku z technického konopí v nevyhnutelně se vyskytujícím přirozeném stopovém množství. Tato výjimka se nevztahuje na potraviny. |
+| 5-Methylthiopropamin | | 1-(5-methylthiofen-2-yl)propan-2-amin | | |
+| BOH-PHP | | 1-fenyl-2-(pyrrolidin-1-yl)hexan-1-ol | | |
+| M-ALPHA-HCMA | | 3-(2*H*-1,3-benzodioxol-5-yl)-2-hydroxy-*N*,2-dimethyl-3-(methylamino)propanamid | | |
+| Mefedren | | *N*-methyl-1-(5-methyl-2-thienyl)propan-2-amin | | |
+| 2-Fluor-deschlor-N-ethylketamin | | 2-(ethylamino)-2-(2-fluorfenyl)cyklohexanon | | |
+| 3-Cl-PCP | | 1-[1-(3-chlorfenyl)cyklohexyl]piperidin | | |
+| 3F-PCP | | 1-[1-(3-fluorfenyl)cyklohexyl]piperidin | | |
+| 3-Me-PCP | | 1-[1-(3-methylfenyl)cyklohexyl]piperidin | | |
+| 3-Me-PCPy | | 1-[1-(3-methylfenyl)cyklohexyl]pyrrolidin | | |
+| Deoxymethoxetamin | | 2-(ethylamino)-2-(3-methylfenyl)-cyklohexanon | | |
+| Fluorexetamin | | 2-(ethylamino)-2-(3-fluorfenyl)cyklohexan-1-on | | |
+| Hydroxetamin | | 2-(ethylamino)-2-(3-hydroxyfenyl)-cyklohexanon | | |
+| Methoxisopropamin | | 2-(isopropylamino)-2-(3-methoxyfenyl)cyklohexanon | | |
+| 4'-Chlordeschloralprazolam | | 6-(4-chlorfenyl)-1-methyl-4*H*-[1,2,4]triazolo[4,3-a][1,4] benzodiazepin | | |
+| Bretazenil | | 1,1-dimethylethyl 8-brom-11,12,13,13a-tetrahydro-9-oxo-9*H*-imidazo[1,5-a]pyrrolo[2,1-c][1,4]benzodiazepin-1-karboxylát | | |
+| Desalkylgidazepam | | 7-brom-5-fenyl-1,3-dihydro-2*H*-1,4-benzodiazepin-2-on | | |
+| Deschlorklotizolam | | 2-chlor-9-methyl-4-fenyl-6*H*-thieno[3,2-f][1,2,4]triazol[4,3-a][1,4]diazepin | | |
+| Flubrotizolam | | 2-brom-4-(2-fluorfenyl)-9-methyl-6*H*-thieno[3,2-f][1,2,4] triazolo [4,3-a][1,4]diazepin | | |
+| Fluetizolam | | 2-ethyl-4-(2-fluorfenyl)-9-methyl-6*H*-thieno[3,2-f][1,2,4] triazolo[4,3-a][1,4]diazepin | | |
+| 6-BR-DMPEA | | 2-brom-4,5-dimethoxyfenethylamin | | |
+| N-pyrrolidinyl-3,4-DMA | | 1-[2-(3,4-dimethoxyfenyl)-1-methylethyl]-pyrrolidin | | |
+| PEAP | | *N*-ethyl-1-fenylpentan-2-amin | | |
+| 2-(4-Methylpiperazin-1-yl)-1-fenyl propan-1-on | | 2-(4-methylpiperazin-1-yl)-1-fenylpropan-1-on | | |
+| 2-MEB | | 2-(ethylamino)-1-(2-methylfenyl)butan-1-on | | |
+| 2'-Me-PVP | | 1-(2-methylfenyl)-2-(pyrrolidin-1-yl)pentan-1-on | | |
+| 2-Methyl-α-PHiP | | 4-methyl-1-(2-methylfenyl)-2-(pyrrolidin-1-yl) pentan-1-on | | |
+| 3,4-Pr-PipVP | | 1-(2,3-dihydro-1*H*-inden-5-yl)-2-(piperidin-1-yl) pentan-1-on | | |
+| 3F-NEB | | 2-(ethylamino)-1-(3-fluorfenyl)butan-1-on | | |
+| 3F-N-ethylhexedron | | 2-(ethylamino)-1-(3-fluorfenyl)hexan-1-on | | |
+| 3F-α-PHP | | 1-(3-fluorfenyl)-2-(pyrrolidin-1-yl)hexan-1-on | | |
+| 3-Chlorkathinon | | 2-amino-1-(3-chlorfenyl)propan-1-on | | |
+| 3'-Me-PVP | | 1-(3-methylfenyl)-2-(pyrrolidin-1-yl)pentan-1-on | | |
+| 3-Methyl-N-propyl-kathinon | | 2-(propylamino)-1-(3-methylfenyl)-1-propanon | | |
+| 4’-Methylhexedron | | 2-(methylamino)-1-(4-methylfenyl)-1-hexanon | | |
+| 4-Cl-3-MMC | | 1-(4-chlor-3-methylfenyl)-2-(methylamino)propan-1-on | | |
+| 4F-3-methyl-α-PHP | | 1-(4-fluor-3-methylfenyl)-2-pyrrolidin-1-yl-hexan-1-on | | |
+| 4F-3-methyl-α-PVP | | 1-(4-fluor-3-methylfenyl)-2-(pyrrolidin-1-yl)pentan-1-on | | |
+| MDPEP | | 1-(1,3-benzodioxol-5-yl)-2-(pyrrolidin-1-yl)heptan-1-on | | |
+| MDPHiP | | 1-(1,3-benzodioxol-5-yl)-4-methyl-2-pyrrolidin-1-yl-pentan-1-on | | |
+| N,N-diethylpentylon | | 1-(1,3-benzodioxol-5-yl)-2-(diethylamino)pentan-1-on | | |
+| N-butylbutylon | | 1-(2*H*-1,3-benzodioxol-5-yl)-2-(butylamino)butan-1-on | | |
+| N-cyklohexyl butylon | | 1-(1,3-benzodioxol-5-yl)-2-(cyklohexylamino)butan-1-on | | |
+| N-cyklohexyl methylon | | 1-(1,3-benzodioxol-5-yl)-2-(cyklohexylamino)propan-1-on | | |
+| N-ethylheptylon | | 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)heptan-1-on | | |
+| N-ethylhexylon | | 1-(1,3-benzodioxol-5-yl)-2-(ethylamino)hexan-1-on | | |
+| N-sec-butyl-pentedron | | 2-[(butan-2-yl)amino]-1-fenylpentan-1-on | | |
+| α-D2PV | | 1,2-difenyl-2-(pyrrolidin-1-yl)ethan-1-on | | |
+| α-PCYP | | 2-cyklohexyl-1-fenyl-2-(pyrrolidin-1-yl)ethan-1-on | | |
+| 3-Chlorfenmetrazin | | 2-(3-chlorfenyl)-3-methylmorfolin | | |
+| 3-Methoxyfenmetrazin | | 2-(3-methoxyfenyl)-3-methylmorfolin | | |
+| 4Br-MAR | | 5-(4-bromfenyl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amin | | |
+| 4Cl-MAR | | 5-(4-chlorfenyl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amin | | |
+| 4-Fluorfenibut | | 4-amino-3-(4-fluorfenyl)butanoát | | |
+| Dichlormetakvalon | | 5-chlor-3-(4-chlor-2-methylfenyl)-2-methyl-4(3*H*)-chinazolinon | | |
+| Ephinazon | | 2-ethyl-3-fenylchinazolin-4(3H)-on | | |
+| Fenozolon | | 2-(ethylamino)-5-fenyl-4(5H)-oxazolon | | |
+| Iso-(meta-methyl-propkathinon) | | 1-(3-methylfenyl)-1-(propylamino)propan-2-on | | |
+| Iso-3-CMC | | 1-(3-chlorfenyl)-1-(methylamino)propan-2-on | | |
+| Iso-3-MMC | | 1-(methylamino)-1-(3-methylfenyl)propan-2-on | | |
+| N-ethyl zolpidem | | *N*-ethyl-2-[6-methyl-2-(4-methylfenyl)imidazo[1,2-a]pyridin-3-yl]acetamid | | |
+| Nitrometakvalon | | 3-(2-methoxy-4-nitrofenyl)-2-methylchinazolin-4-on | | |
+| Pagoklon | | 2-(7-chlor-1,8-naftyridin-2-yl)-2,3-dihydro-3-(5-methyl-2-oxohexyl)-1*H*-isoindol-1-on | | |
+| Rilmazafon | | 5-[[(2-aminoacetyl)amino]methyl]-1-[4-chlor-2-(2-chlorbenzoyl)fenyl]-N,N-dimethyl-1*H*-1,2,4-triazol-3-karboxamid | | |
+| 3,4-CFP | | 1-(3-chlor-4-fluorfenyl)piperazin | | |
+| 4F-MBZP | | 1-[(4-fluorfenyl)methyl]-4-methylpiperazin | | |
+| pBPP | | 1-(4-bromfenyl)piperazin | | |
+| 4,4-Dimethyl-1-fenyl-1-pyrrolidin-1-yl-pentan-3-on | | 4,4-dimethyl-1-fenyl-1-pyrrolidin-1-yl-pentan-3-on | | |
+| Methyl 2-fenyl-2-(pyrrolidin-1-yl) acetát | | methyl 2-fenyl-2-(pyrrolidin-1-yl)acetát | | |
+| 3,5-ADB-4en-PFUPPYCA | | N-(1-karbamoyl-2,2-dimethyl-propyl)-5-(4-fluorfenyl)-2-pent-4-enyl-pyrazol-3-karboxamid | | |
+| 4en-PDMB-4en-PINACA | | pent-4-en-1-yl 3,3-dimethyl-2-(1-(pent-4-en-1-yl)-1H-indazol-3-karboxamido)-butanoát | | |
+| 4F-ABINACA | | *N*-(adamantan-1-yl)-1-(4-fluorbutyl)-1*H*-indazol-3-karboxamid | | |
+| 5,3-AB-CHMFUPPYCA | | *N*-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyklohexylmethyl)-5-(4-fluorfenyl)-1*H*-pyrazol-3-karboxamid | | |
+| 5,3-ADB-4en-PFUPPYCA | | *N*-(1-karbamoyl-2,2-dimethyl-propyl)-5-(4-fluorfenyl)-1-pent-4-enyl-pyrazol-3-karboxamid | | |
+| 5B-AKB48 | | *N*-(1-adamantyl)-1-(5-brompentyl)indazol-3-karboxamid | | |
+| 5F-BZO-POXIZID | | *N*-[(Z)-[1-(5-fluorpentyl)-2-oxo-indolin-3-yliden]amino] benzamid | | |
+| 5F-EDMB-PICA | | ethyl 2-(1-(5-fluorpentyl)-1*H*-indol-3-karboxamido)-3,3-dimethylbutanoát | | |
+| 5F-EMB-PICA | | ethyl 2-[[1-(5-fluorpentyl)indol-3-karbonyl]amino]-3-methyl-butanoát | | |
+| ABO-4en-PINACA | | *N*-(1-amino-1-oxobutan-2-yl)-1-(pent-4-en-1-yl)-1*H*-indazol-3-karboxamid | | |
+| ADB-3en-BUTINACA | | N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-but-3-enyl-1H-indazol-3-karboxamid | | |
+| ADB-4en-P-5Br-INACA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-5-brom-1-(pent-4-en-1-yl)-1*H*-indazol-3-karboxamid | | |
+| ADB-4en-PINACA | | *N*-(1-amino-1-oxobutan-2-yl)-1-(pent-4-en-1-yl)-1*H*-indazol-3-karboxamid | | |
+| ADB-5Br-INACA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-5-brom-1*H*-indazol-3-karboxamid | | |
+| ADB-5en-HEXINACA | | N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-hex-5-enyl-1H-indazol-3-karboxamid | | |
+| ADB-B-5Br-INACA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-5-brom-1-butyl-1*H*-indazol-3-karboxamid | | |
+| ADB-D-5Br-INACA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-5-brom-1-decyl-1*H*-indazol-3-karboxamid | | |
+| ADB-FUBHQUCA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorfenyl)methyl-1,4-dihydrochinolin-3-karboxamid | | |
+| ADB-FUBIACA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorbenzyl)-1*H*-indol-3-acetamid | | |
+| ADB-HEXINACA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-hexyl-1*H*-indazol-3-karboxamid | | |
+| ADB-IACA | | 2-[2-(1*H*-indol-3-yl)acetamido]-3,3-dimethylbutanamid | | |
+| ADB-P-5Br-INACA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-5-brom-1-pentyl-1*H*-indazol-3-karboxamid | | |
+| ADMB-3TMS-PRINACA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(3-(trimethylsilyl)propyl)-1*H*-indazol-3-karboxamid | | |
+| ADMB-INACA | | *N*-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1*H*-indazol-3-karboxamid | | |
+| A-FUBIACA | | *N*-(1-adamantyl)-2-[1-[(4-fluorfenyl)methyl]indol-3-yl]acetamid | | |
+| A-PBITMO | | (adamantan-1-yl)(3-pentyl-2-thioxo-2,3-dihydro-1*H*-benzo[d]imidazol-1-yl)methanon | | |
+| A-PONASA | | *N*-adamantyl-4-(pentyloxy)naftalen-1-sulfonamid | | |
+| BENZYL-4CN-BINACA | | *N*-benzyl-1-(4-kyanobutyl)-1*H*-indazol-3-karboxamid | | |
+| BZO-4en-POXIZID | | *N*-[(Z)-(2-oxo-1-pent-4-enyl-indolin-3-yliden)amino]benzamid | | |
+| BZO-POXIZID | | *N*-[(Z)-(2-oxo-1-pentyl-indolin-3-yliden)amino]benzamid | | |
+| CUMYL-1Cl-CHSINACA | | 1-(1-chlorcyklohexyl)sulfonyl-*N*-(1-methyl-1-fenyl-ethyl)indazol-3-karboxamid | | |
+| CUMYL-3TMS-PRINACA | | *N*-(2-fenylpropan-2-yl)-1-(3-(trimethylsilyl)propyl)-1*H*-indazol-3-karboxamid | | |
+| Cumyl-BC-HpMeGaClone-221 | | (5-(bicyklo[2.2.1]hept-2-yl)methyl)-2-(2-fenylpropan-2-yl)-2,5-dihydro-1*H*-pyrido[4,3-b]indol-1-on | | |
+| Cumyl-CB-MeGaClone | | 5-(cyklobutylmethyl)-2-(1-methyl-1-fenyl-ethyl)pyrido [4,3-b]indol-1-on | | |
+| CUMYL-CBMICA | | 1-(cyclobutylmethyl)-*N*-(2-fenylpropan-2-yl)-1*H*-indol-3-karboxamid | | |
+| CUMYL-CBMINACA | | 1-(cyklobutylmethyl)-*N*-(2-fenylpropan-2-yl)-1*H*-indazol-3-karboxamid | | |
+| CUMYL-CHSINACA | | 1-(cyklohexylsulfonyl)-*N*-(2-fenylpropan-2-yl)-1*H*-indazol-3-karboxamid | | |
+| CUMYL-INACA | | *N*-(2-fenylpropan-2-yl)-1*H*-indazol-3-karboxamid | | |
+| CUMYL-NBMICA | | 1-(bicyklo[2.2.1]heptan-2-ylmethyl)-*N*-(2-fenylpropan-2-yl)-1*H*-indol-3-karboxamid | | |
+| CUMYL-NBMINACA | | (1-(bicyklo[2.2.1]heptan-2-yl)methyl)-*N*-(2-fenylpropan-2-yl)-1*H*-indazol-3-karboxamid | | |
+| CUMYL-TsINACA | | *N*-(2-fenylpropan-2-yl)-1-tosyl-1*H*-indazol-3-karboxamid | | |
+| EDMB-PINACA | | ethyl 3,3-dimethyl-2-[(1-pentylindazol-3-karbonyl)amino] butanoát | | |
+| EDMB-4en-PINACA | | ethyl 3,3-dimethyl-2-[(1-pent-4-enylindazol-3-karbonyl)amino]butanoát | | |
+| FUBIAT | | 1-[(4-fluorfenyl)methyl]-1*H*-indol-3-acetát | | |
+| 10-hydroxy-HHC | | (6aR,10R,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1,10-diol | | |
+| 10-hydroxy-THC | | (6aR,10R,10aR)-6,6,9-trimethyl-3-pentyl-6a,7,10,10a-tetrahydro- benzo[c]chromen-1,10-diol | | |
+| CH-FUBBMPDORA | | *N*-{5-brom-1-[(4-fluorfenyl)methyl]-4-methyl-2-oxo-1,2-dihydropyridin-3-yl}cyklohexankarboxamid | | |
+| CH-FUBIACA | | *N*-cyklohexyl-2-(1-(4-fluorbenzyl)-1*H*-indol-3-yl)acetamid | | |
+| CH-IACA | | *N*-cyklohexyl-2-(1*H*-indol-3-yl)acetamid | | |
+| CHM-MDA-19<br> (BZO-CHMOXIZID) | | *N*-[(Z)-[1-(cyklohexylmethyl)-2-oxo-indolin-3-yliden] amino]benzamid | | |
+| CHM-MDMB-CHMINACA | | cyklohexylmethyl 2-(1-(cyklohexylmethyl)-1*H*-indazol-3-karboxamido)-3,3-dimethyl butanoát | | |
+| CH-PIACA | | *N*-cyklohexyl-2-(1-pentyl-1*H*-indol-3-yl)acetamid | | |
+| MDMB-5Br-INACA | | methyl 2-(5-brom-1*H*-indazol-3-karboxamido)-3,3-dimethylbutanoát | | |
+| MDMB-7Br-INACA | | methyl 2-(7-brom-1*H*-indazol-3-karboxamido)-3,3-dimethylbutanoát | | |
+| MDMB-BINACA | | methyl 2-(1-butyl-1*H*-indazol-3-karboxamido)-3,3-dimethylbutanoát | | |
+| MDMB-CHMINACA | | methyl 2-[1-(cyklohexylmethyl)-1*H*-indazol-3-karboxamido]-3,3-dimethylbutanoát | | |
+| MDMB-INACA | | methyl 2-(1*H*-indazol-3-karboxamido)-3,3-dimethylbutanoát | | |
+| MDMB-PINACA | | methyl 3,3-dimethyl-2-[(1-pentyl-1H-indazol-3-karbonyl)amino]butanoát | | |
+| Muscimol | | 5-(aminomethyl)-3(2H)-isoxazolon | | S výjimkou nezpracovaných hub, v nichž se muscimol vyskytuje přirozeně. |
+| NMDMSB | | 1-naftyl 4-methyl-3-(dimethylsulfamoyl)-benzoát | | |
+| PTI-3 | | *N*-({2-[1-(5-fluorpentyl)-1*H*-indol-3-yl]-1,3-thiazol-4-yl}methyl)-2-methoxy-*N*-methyl ethanamin | | |
+| Rostliny rodu Mitragyna | | | | S výjimkou rostliny Mitragyna speciosa a výrobků z ní vyrobených. |
+| 2-Cl-HHC | | 2-chlor-6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-ol | | |
+| 4'-allyl-iso-HHC | | 2-methyl-9-pentyl-5-(propan-2-yl)-8-(prop-2-en-1-yl)-3,4,5,6-tetrahydro-2H-2,6-methan-1-benzoxocin-7-ol | | |
+| 2-allyl-delta-8-THC-methylkarbonát | | methyl 6,6,9-trimethyl-3-pentyl-2-(prop-2-en-1-yl)-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl karbonát | | |
+| 1'-ethyl-HHC | | 3-(heptan-3-yl)-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-ol | | |
+| HHC-C9 | | 3-nonyl-6a,7,8,9,10,10a-hexahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol | | |
+| Delta-9-THC-methylkarbonát | | methyl 6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl karbonát | | |
+| 2-allyl-delta-8-THC-O-acetát | | 6,6,9-trimethyl-3-pentyl-2-(prop-2-en-1-yl)-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-yl acetát | | |
+| 2-formyl-delta-9-THCP | | 6,6,9-trimethyl-3-heptyl-2-formyl-6a,7,8,10a-tetrahydro-6H-dibenzo[b,d]pyran-1-ol | | |
+| 2-Br-HHC-O-acetát | | 2-brom-6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1-yl acetát | | |
+| 10-hydroxy-hexahydrokanabiforol | 10-OH-HHCP | 3-heptyl-6,6,9-trimethyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran-1,10-diol | | |
+| Delta-8-THCM | | 1-methoxy-6,6,9-trimethyl-3-pentyl-6a,7,10,10a-tetrahydro-6H-dibenzo[b,d]pyran | | |
+| MGM-16 | | methyl(E)-2-[(2S,3S,7aS,12aR,12bS)-3-ethyl-9-fluor-7a-hydroxy-8-methoxy-2,3,4,6,7,12,12a,12b-oktahydro-1H-indol[2,3-a]chinolizin-2-yl]-3-methoxyprop-2-enoát | | |
+| MGM-15 (dihydro-7-hydroxymitragynin) | | methyl (E)-2-[(2S,3S,7aS,12aR,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12,12a,12b-oktahydro-1H-indol[2,3-a]chinolizin-2-yl]-3-methoxyprop-2-enoát | | |
+| HHCP methyl ether | 9(R,S)-hexahydrokanabiforol methyl ether | 1-methoxy-6,6,9-trimethyl-3-heptyl-6a,7,8,9,10,10a-hexahydro-6H-dibenzo[b,d]pyran | | |
+| 2-fluordeschlorketamin | 2-FDCK | 2-(2-fluorfenyl)-2-methylamino-cyklohexanon | | |
+| 4-APB | | 1-(1-benzofuran-4-yl)propan-2-amin | | |
+
+Včetně stereoizomerů psychoaktivních látek, až na výslovné výjimky, uvedených v tomto seznamu ve všech případech, kdy tyto stereoizomery mohou existovat podle zvláštního chemického označení a solí a esterů psychoaktivních látek uvedených v tomto seznamu ve všech případech, kdy mohou existovat.

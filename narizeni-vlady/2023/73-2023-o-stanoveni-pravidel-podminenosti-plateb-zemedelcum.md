@@ -1,0 +1,1218 @@
+---
+title: "Nařízení vlády č. 73/2023 Sb., o stanovení pravidel podmíněnosti plateb zemědělcům"
+identifier: "73/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/73/2026-10-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2023-03-15
+effective: 2023-04-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/73"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 73/2023 Sb., o stanovení pravidel podmíněnosti plateb zemědělcům
+
+73
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 15. března 2023
+
+o stanovení pravidel podmíněnosti plateb zemědělcům
+
+Vláda nařizuje podle § 2c odst. 5 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 85/2004 Sb., zákona č. 291/2009 Sb., zákona č. 179/2014 Sb. a zákona č. 382/2022 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb., zákona č. 291/2009 Sb. a zákona č. 179/2014 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení v návaznosti na přímo použitelné předpisy Evropské unie (dále jen „předpis Evropské unie“)<sup>1</sup>) a v souladu se Strategickým plánem Společné zemědělské politiky Evropské unie v České republice stanovuje
+
+a) povinné požadavky na hospodaření (dále jen „požadavek“) vymezené předpisem Evropské unie<sup>2</sup>), standardy dobrého zemědělského a environmentálního stavu půdy (dále jen „standard“), jejich podmínky pro oblasti pravidel podmíněnosti<sup>3</sup>) a důsledky jejich porušení pro poskytování dotací podle předpisu Evropské unie<sup>4</sup>) (dále jen „dotace“),
+
+b) minimální požadavky, které se týkají používání hnojiv a přípravků na ochranu rostlin (dále jen „minimální požadavek“), a důsledky jejich porušení pro poskytování dotací podle předpisu Evropské unie<sup>5</sup>) a
+
+c) požadavky sociální podmíněnosti vymezené předpisem Evropské unie<sup>20</sup>) a důsledky jejich porušení pro poskytování dotací podle předpisu Evropské unie<sup>4</sup>).
+
+## § 2 – Vymezení pojmů
+
+(1) Pro účely tohoto nařízení se rozumí
+
+a) hlavní plodinou plodina různých rodů rostlin podle definice botanického systému klasifikace plodin nebo kultura kteréhokoliv druhu brukvovitých, lilkovitých nebo tykvovitých, která je na ploše dílu půdního bloku evidovaná v evidenci půdy, pěstovaná v příslušném roce podání jednotné žádosti ve vegetačním období od 1. června do 31. srpna, která je určená ke sklizni a kterou žadatel uvede v jednotné žádosti; přičemž pokud se druhy plodin obsažené v různých směsích od sebe navzájem liší, jsou tyto různé směsi samostatnou jedinou plodinou,
+
+b) environmentálně citlivou plochou plocha dílu půdního bloku nebo jeho části s trvalým travním porostem, která se nachází k 1. lednu příslušného roku v oblastech podle § 5 odst. 1 tohoto nařízení, a
+
+c) rozhodným datem datum podání jednotné žádosti; pokud jsou při kontrole na místě nebo kontrolou prostřednictvím monitorování ploch zjištěny údaje odlišné od údajů uvedených v jednotné žádosti, je rozhodným datem datum provedení této kontroly.
+
+(2) Neprodukční plochou je pro splnění podmínek § 23 a 24 nařízení vlády upravujícího poskytování přímých plateb zemědělcům
+
+a) krajinný prvek nebo jeho část, která se nachází na dílu půdního bloku s druhem zemědělské kultury standardní orná půda, travní porost nebo úhor evidované v evidenci využití půdy podle uživatelských vztahů (dále jen „evidence využití půdy“) na žadatele,
+
+b) nektarodárný úhor podle nařízení vlády upravujícího poskytování přímých plateb zemědělcům,
+
+c) zelený úhor podle nařízení vlády upravujícího poskytování přímých plateb zemědělcům,
+
+d) ochranný pás kolem evidovaného krajinného prvku, který se nachází na dílu půdního bloku nebo s ním má společnou hranici, s druhem zemědělské kultury standardní orná půda, o minimální šířce 1 metr od hranice evidovaného krajinného prvku a o maximální započitatelné šířce pásu 30 metrů od hranice evidovaného krajinného prvku,
+
+e) ozeleněný kolejový řádek, jehož plocha odpovídá kolejovým řádkům mechanizace a je založen na části plochy dílu půdního bloku s druhem zemědělské kultury standardní orná půda o minimální šířce 3 metry a o maximální započitatelné šířce pásu 6 metrů,
+
+f) ochranný pás typu souvrať, jehož plocha je vymezená na části plochy dílu půdního bloku s druhem zemědělské kultury standardní orná půda a je založen od okraje dílu půdního bloku o minimální šířce 3 metrů a o maximální započitatelné šířce pásu 30 metrů,
+
+g) ochranný pás podél vody typu základní podle nařízení vlády upravujícího poskytování přímých plateb zemědělcům o maximální započitatelné šířce pásu 30 metrů,
+
+h) ochranný pás podél vody typu prémiový podle nařízení vlády upravujícího poskytování přímých plateb zemědělcům o maximální započitatelné šířce pásu 30 metrů,
+
+i) ochranný pás o maximální započitatelné šířce pásu 30 metrů založený půdoochrannou technologií č. 1 podle příloh č. 1, 3, 20 a 21 k tomuto nařízení s plodinami podle přílohy č. 19 k tomuto nařízení vyjma obilnin ječmen, oves, proso seté, pšenice, tritikale, žito a jejich směsí s jinými plodinami, řepky a plodin podle přílohy č. 5 k tomuto nařízení, jejich směsí nebo směsí těchto plodin s trávami čeledi lipnicovitých, pokud poměr plodin podle přílohy č. 5 k tomuto nařízení ve směsi je více než 50 %,
+
+j) ochranný pás podle § 11 odst. 1 písm. a) o maximální započitatelné šířce pásu 30 metrů, s výjimkou plodin podle přílohy č. 5 k tomuto nařízení, jejich směsí nebo jejich směsí s jinými plodinami nebo směsí těchto plodin s trávami čeledi lipnicovitých, pokud poměr plodin podle přílohy č. 5 k tomuto nařízení ve směsi je více než 50 %,
+
+k) ochranný pás podle nařízení vlády upravujícího opatření agrolesnictví,
+
+l) biopás podle podopatření biopásy podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření,
+
+m) plocha zařazená v podopatření ochrana čejky chocholaté podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření,
+
+n) plocha, na kterou byla podána žádost v podopatření druhově bohaté pokrytí orné půdy podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření,
+
+o) plocha s meziplodinami evidovaná v evidenci využití půdy jako druh zemědělské kultury standardní orná půda, na které se nachází porost meziplodiny minimálně 8 týdnů včetně plochy, na kterou byla podána žádost v podopatření pěstování meziplodin podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření, nebo
+
+p) plocha s plodinami vázajícími dusík evidovaná v evidenci využití půdy jako druh zemědělské kultury standardní orná půda, na které se nachází porost s plodinami vázajícími dusík.
+
+## § 3 – Požadavky
+
+Seznam požadavků je uveden v příloze č. 6 k tomuto nařízení.
+
+## § 4 – Standardy
+
+Seznam standardů je uveden v příloze č. 7 k tomuto nařízení.
+
+## § 5 – Standard zachování trvalých travních porostů na základě poměru trvalých travních porostů k zemědělské ploše
+
+(1) Žadatel nezmění v evidenci využití půdy zemědělskou kulturu trvalý travní porost na některý z ostatních druhů zemědělské kultury na ploše jím užívaného dílu půdního bloku evidovaného v evidenci využití půdy, která se nenachází v oblastech Natura 2000
+
+a) v první a druhé zóně chráněných krajinných oblastí a na území národních parků,
+
+b) v národních přírodních památkách, národních přírodních rezervacích, přírodních rezervacích a přírodních památkách,
+
+c) ve vzdálenosti do 12 metrů od vodního útvaru,
+
+d) jako silně erozně ohrožené,
+
+e) jako podmáčené a rašelinné louky, nebo
+
+f) ve třetím aplikačním pásmu zranitelných oblastí<sup>6</sup>).
+
+(2) O porušení podmínky podle odstavce 1 se nejedná, pokud je zemědělská kultura trvalý travní porost na environmentálně citlivé ploše změněna
+
+a) v souvislosti s ukončením pozemkových úprav podle zákona o pozemkových úpravách a pokud došlo po vydání rozhodnutí o výměně nebo přechodu vlastnických práv k zemědělským pozemkům na dílu půdního bloku ke změně evidence druhu zemědělské kultury trvalý travní porost na jiný druh zemědělské kultury,
+
+b) na trvalou zemědělskou kulturu ovocný sad,
+
+c) na trvalou zemědělskou kulturu vinice, pokud je založena na ploše podle odstavce 1 písm. c), d) nebo f) a nejedná se zároveň o plochu podle odstavce 1 písm. a), b) nebo e),
+
+d) na trvalou kulturu rychle rostoucí dřeviny ve výmladkových plantážích, pokud je založena na ploše podle odstavce 1 písm. c), d) nebo f) a nejedná se zároveň o plochu podle odstavce 1 písm. a), b) nebo e),
+
+e) na jinou trvalou kulturu,
+
+f) na plochu podle nařízení vlády upravujícího opatření zalesňování zemědělské půdy,
+
+g) na krajinný prvek,
+
+h) na plochu v režimu agrolesnictví podle nařízení vlády upravujícího opatření agrolesnictví, nebo
+
+i) na plochu se zemědělskou kulturou jiná.
+
+(3) O porušení podmínky podle odstavce 1 se dále nejedná
+
+a) u jednotlivé plochy o výměře nejvýše 0,1 hektaru, nebo
+
+b) v případě, kdy se celá plocha nebo její část o výměře větší než 0,1 hektaru nachází v oblastech Natura 2000.
+
+(4) Odstavec 1 se nevztahuje na plochu evidovanou v evidenci využití půdy jako půda bohatá na uhlík o výměře větší než 0,1 hektaru, na které došlo k přeměně kultury trvalý travní porost.
+
+## § 5a – Standard ochrana půd bohatých na uhlík
+
+(1) Žadatel nezmění v evidenci využití půdy zemědělskou kulturu trvalý travní porost na některý z ostatních druhů zemědělské kultury na ploše evidované v evidenci využití půdy jako půda bohatá na uhlík, která se nachází na jím užívaném dílu půdního bloku.
+
+(2) O porušení podmínky podle odstavce 1 se nejedná v případě, že
+
+a) plocha půdy bohaté na uhlík nepřesahuje výměru 0,1 hektaru,
+
+b) se celá plocha nebo její část o výměře jednotlivé plochy větší než 0,1 hektaru nachází v oblastech Natura 2000, nebo
+
+c) je zemědělská kultura trvalý travní porost změněna
+
+1\. v souvislosti s ukončením pozemkových úprav podle zákona o pozemkových úpravách, a pokud došlo po vydání rozhodnutí o výměně nebo přechodu vlastnických práv k zemědělským pozemkům na dílu půdního bloku ke změně evidence druhu zemědělské kultury trvalý travní porost na jiný druh zemědělské kultury, nebo
+
+2\. na krajinný prvek.
+
+(3) Žadatel na ploše evidované v evidenci využití půdy jako půda bohatá na uhlík, která se nachází na jím užívaném dílu půdního bloku s druhem zemědělské kultury standardní orná půda evidovaným v evidenci využití půdy na žadatele k datu podání žádosti, zajistí
+
+a) v období po sklizni hlavní plodiny alespoň do 31. prosince příslušného roku pokryv
+
+1\. založením porostu ozimé plodiny nebo víceleté plodiny,
+
+2\. osetím dílu půdního bloku meziplodinou,
+
+3\. ponecháním strniště sklizené plodiny na dílu půdního bloku, případně posklizňových zbytků po pěstování brambor a cukrové řepy,
+
+4\. podmítnutím strniště sklizené plodiny a jeho ponecháním bez orby, nebo
+
+5\. ponecháním půdy po pásovém zpracování,
+
+b) v průběhu celého kalendářního roku, aby nedocházelo k celoplošnému zpracování půdy obracením.
+
+(4) Žadatel zároveň nevybuduje na ploše evidované v evidenci využití půdy jako půda bohatá na uhlík, která se nachází na jím užívaném dílu půdního bloku, novou odvodňovací soustavu.
+
+(5) O porušení podmínek podle
+
+a) odstavce 3 se nejedná v případě
+
+1\. jednotlivé plochy o výměře nejvýše 2 hektary, nebo
+
+2\. plochy, na kterou byla podána žádost o poskytnutí dotace na podopatření biopásy, podopatření ochrana čejky chocholaté nebo podopatření druhově bohaté pokrytí orné půdy podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření, a
+
+b) odstavce 4 se nejedná v případě jednotlivé plochy o výměře nejvýše 0,1 hektaru.
+
+## § 6 – Standard zákaz vypalování strnišť na orné půdě vyjma případů odůvodněných zdravím rostlin
+
+Žadatel nepálí na jím užívaném dílu půdního bloku s druhem zemědělské kultury standardní orná půda, travní porost nebo úhor rostlinné zbytky s výjimkou postupu podle mimořádných rostlinolékařských opatření, která se vztahují na
+
+a) všechny karanténní škodlivé organismy podle prováděcího nařízení Komise (EU) 2019/2072 ze dne 28. listopadu 2019, kterým se stanoví jednotné podmínky pro provádění nařízení Evropského parlamentu a Rady (EU) 2016/2031, pokud jde o ochranná opatření proti škodlivým organismům rostlin, a kterým se zrušuje nařízení Komise (ES) č. 690/2008 a mění prováděcí nařízení Komise (EU) 2018/2019, v platném znění, a
+
+b) další škodlivé organismy podle čl. 30 nařízení Evropského parlamentu a Rady (EU) 2016/2031 ze dne 26. října 2016 o ochranných opatřeních proti škodlivým organismům rostlin, o změně nařízení Evropského parlamentu a Rady (EU) č. 228/2013, (EU) č. 52/2014 a (EU) č. 1143/2014 a o zrušení směrnic Rady 69/464/EHS, 74/647/EHS, 93/85/EHS, 98/57/ES, 2000/29/ES, 2006/91/ES a 2007/33/ES, v platném znění.
+
+## § 7 – Standard zřízení ochranných pásů u útvarů povrchových vod
+
+Žadatel na jím užívaném dílu půdního bloku sousedícím s útvarem povrchových vod splňuje podmínky pro použití přípravků na ochranu rostlin a hnojiv s výjimkou ponechaných skliditelných rostlinných zbytků, výkalů a moči zanechaných hospodářskými zvířaty při pastvě nebo při jejich jiném pobytu na zemědělském pozemku v ochranném pásu u útvarů povrchových vod tím, že
+
+a) zachová ochranný pás nehnojené půdy o šířce nejméně 3 metry od břehové čáry,
+
+b) zachová u dílu půdního bloku s průměrnou sklonitostí převyšující 7 ° ochranný pás o šířce nejméně 25 metrů od břehové čáry, přičemž na ploše pásu nejsou užita hnojiva s rychle uvolnitelným dusíkem, s výjimkou tuhých hnojiv, a
+
+c) zachová ochranný pás bez použití přípravků na ochranu rostlin o šířce nejméně 3 metry od břehové čáry.
+
+## § 8 – Standard obhospodařování půdy způsobem, který snižuje riziko degradace půdy a eroze, včetně zohlednění sklonu svahu, pro silně erozně ohroženou půdu
+
+(1) Žadatel zajistí, že se na ploše dílu půdního bloku nebo jeho části se zemědělskou kulturou standardní orná půda stanovené jako silně erozně ohrožená podle přílohy č. 17 k tomuto nařízení pěstuje
+
+a) bob, obilniny, s výjimkou kukuřice a čiroku, nebo řepka (dále jen „plodina se středním stupněm ochranného vlivu vegetace“), pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny se středním stupněm ochranného vlivu vegetace v roce podání žádosti a předcházejících 5 letech dosahuje alespoň 50 % šestinásobku výměry plodiny se středním stupněm ochranného vlivu vegetace pěstované v roce podání žádosti, nebo
+
+b) plodina se středním stupněm ochranného vlivu vegetace, pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny se středním stupněm ochranného vlivu vegetace v roce podání žádosti a v předcházejících 5 letech dosahuje alespoň 33 % šestinásobku výměry plodiny se středním stupněm ochranného vlivu vegetace pěstované v roce podání žádosti, přičemž při výpočtu souhrnné výměry zlepšujících plodin se vychází z výměry plodin evidovaných v evidenci půdy, a zároveň se v roce podání žádosti a předcházejících 5 letech provede nejméně jedna aplikace
+
+1\. tuhých statkových nebo organických hnojiv v dávce nejméně 25 tun na hektar, s výjimkou hnojiv pocházejících z chovů drůbeže aplikovaných samostatně, nebo
+
+2\. kejdy nebo digestátu v dávce nejméně 15 tun na hektar v kombinaci se slámou nebo zeleným hnojením.
+
+(2) Pokud není splněn postup pěstování podle odstavce 1, žadatel zajistí, že se na ploše dílu půdního bloku nebo jeho části se zemědělskou kulturou standardní orná půda stanovené jako silně erozně ohrožená podle přílohy č. 18 k tomuto nařízení
+
+a) nepěstuje čirok, brambor, kukuřice, řepa, slunečnice nebo sója (dále jen „plodina s nízkým stupněm ochranného vlivu vegetace“) na souvislé ploše větší než 2 hektary a
+
+b) pěstuje plodina se středním stupněm ochranného vlivu vegetace na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v příloze č. 1 k tomuto nařízení.
+
+## § 8a – Standard obhospodařování půdy způsobem, který snižuje riziko degradace půdy a eroze, včetně zohlednění sklonu svahu, pro mírně erozně ohroženou půdu s vyšším rizikem
+
+(1) Žadatel zajistí, že se na ploše dílu půdního bloku nebo jeho části se zemědělskou kulturou standardní orná půda stanovené jako mírně erozně ohrožené s vyšším rizikem podle přílohy č. 18 k tomuto nařízení pěstuje
+
+a) plodina se středním stupněm ochranného vlivu vegetace, s výjimkou ozimých obilnin, pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny se středním stupněm ochranného vlivu vegetace v roce podání žádosti a v předcházejících 5 letech dosahuje alespoň 33 % šestinásobku výměry plodiny se středním stupněm ochranného vlivu vegetace pěstované v roce podání žádosti, přičemž při výpočtu souhrnné výměry zlepšujících plodin se vychází z výměry plodin evidovaných v evidenci půdy, nebo
+
+b) plodina s nízkým stupněm ochranného vlivu vegetace, pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny s nízkým stupněm ochranného vlivu vegetace v roce podání žádosti a v předcházejících 5 letech dosahuje alespoň 50 % šestinásobku výměry plodiny s nízkým stupněm ochranného vlivu vegetace pěstované v roce podání žádosti, přičemž při výpočtu souhrnné výměry zlepšujících plodin se vychází z výměry plodin evidovaných v evidenci půdy, a zároveň se v roce podání žádosti a předcházejících 5 letech provede nejméně jedna aplikace
+
+1\. tuhých statkových nebo organických hnojiv v dávce nejméně 25 tun na hektar, s výjimkou hnojiv pocházejících z chovů drůbeže aplikovaných samostatně, nebo
+
+2\. kejdy nebo digestátu v dávce nejméně 15 tun na hektar v kombinaci se slámou nebo zeleným hnojením.
+
+(2) Pokud není splněn postup pěstování podle odstavce 1, žadatel zajistí, že se na ploše dílu půdního bloku nebo jeho části se zemědělskou kulturou standardní orná půda stanovené jako mírně erozně ohrožená s vyšším rizikem podle přílohy č. 18 k tomuto nařízení pěstuje
+
+a) plodina se středním stupněm ochranného vlivu vegetace, s výjimkou ozimých obilnin, na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v příloze č. 3 k tomuto nařízení a
+
+b) plodina s nízkým stupněm ochranného vlivu vegetace na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v příloze č. 20 k tomuto nařízení.
+
+## § 8b – Standard obhospodařování půdy způsobem, který snižuje riziko degradace půdy a eroze, včetně zohlednění sklonu svahu, pro mírně erozně ohroženou půdu s nižším rizikem
+
+(1) Žadatel zajistí, že se na ploše dílu půdního bloku nebo jeho části se zemědělskou kulturou standardní orná půda stanovené jako mírně erozně ohrožené s nižším rizikem podle přílohy č. 17 k tomuto nařízení pěstuje plodina s nízkým stupněm ochranného vlivu vegetace, pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny s nízkým stupněm ochranného vlivu vegetace v roce podání žádosti a v předcházejících 5 letech dosahuje alespoň 33 % šestinásobku výměry plodiny s nízkým stupněm ochranného vlivu vegetace pěstované v roce podání žádosti, přičemž při výpočtu souhrnné výměry zlepšujících plodin se vychází z výměry plodin evidovaných v evidenci půdy.
+
+(2) Pokud není splněn postup pěstování podle odstavce 1, žadatel zajistí, že se na ploše dílu půdního bloku nebo jeho části se zemědělskou kulturou standardní orná půda stanovené jako mírně erozně ohrožená s nižším rizikem podle přílohy č. 18 k tomuto nařízení pěstují plodiny s nízkým stupněm ochranného vlivu vegetace na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v příloze č. 21 k tomuto nařízení.
+
+## § 8c – Společné ustanovení k § 8 až 8b
+
+Podmínky podle § 8 až 8b se nevztahují na
+
+a) plodinu s nízkým nebo středním stupněm ochranného vlivu vegetace, pokud je založena ve směsi a podíl žádné z plodin ve směsi nepřekročí 20 %,
+
+b) díl půdního bloku, u kterého je předložen plán opatření ke snížení erozního ohrožení přijatého podle § 6 a 7 vyhlášky č. 240/2021 Sb., o ochraně zemědělské půdy před erozí,
+
+c) díl půdního bloku, na který byla podána žádost o poskytnutí ekoplatby na podporu pásového střídání plodin podle nařízení vlády upravujícího poskytování přímých plateb zemědělcům,
+
+d) díl půdního bloku, na který byla podána žádost o poskytnutí dotace na opatření agrolesnictví podle nařízení vlády upravujícího opatření agrolesnictví,
+
+e) plochu, na kterou byla podána žádost o poskytnutí dotace na podopatření druhově bohaté pokrytí orné půdy podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření, a
+
+f) díl půdního bloku, na který byla podána žádost o poskytnutí dotace na opatření ochrana čejky chocholaté podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření.
+
+## § 9 – Standard minimální pokryv půdy pro zamezení vzniku holé půdy v nejcitlivějších obdobích
+
+(1) Žadatel na jím užívaném dílu půdního bloku s druhem zemědělské kultury standardní orná půda zajistí v období po sklizni hlavní plodiny alespoň do 31. října příslušného roku pokryv na minimálně 80 % výměry standardní orné půdy evidované v evidenci využití půdy na žadatele k rozhodnému datu
+
+a) založením porostu ozimé plodiny nebo víceleté plodiny,
+
+b) osetím dílu půdního bloku meziplodinou,
+
+c) ponecháním strniště sklizené plodiny na dílu půdního bloku, případně posklizňových zbytků po pěstování brambor a cukrové řepy,
+
+d) podmítnutím strniště sklizené plodiny a jeho ponecháním bez orby, nebo
+
+e) ponecháním půdy po pásovém zpracování.
+
+(2) Žadatel na jím užívaném dílu půdního bloku s druhem zemědělské kultury trvalá kultura vinice zajistí v období alespoň od 1. června do 31. října příslušného roku pokryv manipulačního prostoru a každého čtvrtého meziřadí, s výjimkou nově vysazené nebo dosazené vinice po dobu do 3 let, nebo pokryv alespoň jednoho meziřadí v případě vinice o počtu meziřadí menším než 4,
+
+a) travním pokryvem,
+
+b) založením porostu víceleté plodiny, nebo
+
+c) výskytem osevní směsi v podopatření integrovaná produkce révy vinné podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření.
+
+(3) Žadatel na jím užívaném dílu půdního bloku s druhem zemědělské kultury trvalá kultura ovocný sad zajistí v období alespoň od 1. června do 31. října příslušného roku pokryv manipulačního prostoru a každého druhého meziřadí, s výjimkou nově vysazeného nebo dosazeného ovocného sadu po dobu do 3 let,
+
+a) travním pokryvem, včetně směsí s dvouděložnými bylinami,
+
+b) založením porostu víceleté plodiny, nebo
+
+c) bylinnou směsí jednoletých druhů.
+
+(4) Žadatel na jím užívaném dílu půdního bloku s druhem zemědělské kultury úhor zajistí, že v období alespoň od 1. června do 31. října příslušného roku nebude tato plocha bez pokryvu, přičemž v případě ukončení zemědělské kultury úhor a převodu na jinou zemědělskou kulturu se postupuje podle podmínek nové zemědělské kultury. Pokryvem se rozumí porost plodiny vyseté pro podmínky úhoru, strniště nebo podmítnuté strniště bez orby.
+
+(5) Podmínky podle odstavců 1 až 4 se nevztahují na díl půdního bloku, na kterém je pěstována mrkev, cibule, ředkvička, zelí, kapusta, salát, kedlubna, hrách, květák nebo brokolice.
+
+(6) Odstavec 1 se nevztahuje na plochu se zemědělskou kulturou standardní orná půda, která se nachází na ploše evidované v evidenci využití půdy jako půda bohatá na uhlík o výměře větší než 1 hektar.
+
+## § 10 – Standard střídání plodin na orné půdě
+
+(1) Žadatel zajistí v období od 1. června do 31. srpna příslušného roku alespoň na 40 % plochy s druhem zemědělské kultury standardní orná půda evidované v evidenci využití půdy na žadatele k rozhodnému datu, že v příslušném roce podání jednotné žádosti je na stejné ploše příslušného dílu půdního bloku nebo jeho části pěstována jiná hlavní plodina než hlavní plodina v kalendářním roce předcházejícím podání jednotné žádosti.
+
+(2) Pokud informace o hlavní plodině pěstované v kalendářním roce předcházejícím podání jednotné žádosti není v evidenci půdy k dispozici, má se za to, že podmínka podle odstavce 1 nebyla na této ploše splněna.
+
+(3) Podmínka podle odstavce 1 je splněna i zařazením meziplodiny mezi stejné hlavní plodiny po sobě jdoucí, pokud tato meziplodina bude zaseta po sklizni hlavní plodiny pěstované v roce předcházejícím podání jednotné žádosti a zůstane ponechána na pozemku do zasetí hlavní plodiny v roce podání jednotné žádosti. Do období pěstování meziplodiny podle věty první se zahrnují období předseťové přípravy před založením meziplodiny a následné hlavní plodiny.
+
+(4) Žadatel zajistí, že na veškeré ploše žadatele s druhem zemědělské kultury standardní orná půda je nejméně jednou v období 4 let po sobě jdoucích vystřídána hlavní plodina evidovaná v evidenci půdy.
+
+(5) Podmínky podle odstavců 1 a 4 se nevztahují na žadatele,
+
+a) u něhož více než 75 % plochy orné půdy evidované v evidenci využití půdy na žadatele k rozhodnému datu představuje
+
+1\. druh zemědělské kultury travní porost,
+
+2\. druh zemědělské kultury úhor,
+
+3\. plochu využívanou k pěstování plodin vázajících dusík uvedených v příloze č. 5 k tomuto nařízení nebo jejich směsí nebo směsí těchto plodin s jinými plodinami, pokud poměr plodin podle přílohy č. 5 k tomuto nařízení ve směsi je více než 50 %,
+
+4\. plochu využívanou k pěstování plodin podle přílohy č. 8 k tomuto nařízení, nebo
+
+5\. plochu, na níž jsou tyto způsoby využití podle bodů 1 až 4 kombinovány,
+
+b) u něhož více než 75 % zemědělské plochy evidované v evidenci využití půdy na žadatele k rozhodnému datu představuje
+
+1\. druh zemědělské kultury trvalý travní porost,
+
+2\. druh zemědělské kultury travní porost,
+
+3\. plochu využívanou k pěstování plodin uvedených v příloze č. 5 k tomuto nařízení, jejich směsí nebo směsí těchto plodin s jinými plodinami,
+
+4\. plochu využívanou k pěstování plodin podle přílohy č. 8 k tomuto nařízení,
+
+5\. plochu, na níž jsou tyto způsoby využití podle bodů 1 až 4 kombinovány, nebo
+
+c) s výměrou orné půdy do 10 hektarů evidované v evidenci využití půdy na žadatele k rozhodnému datu.
+
+(6) Podmínky podle odstavců 1 a 4 se nevztahují na
+
+a) neprodukční plochu, nebo
+
+b) jednotlivé plochy plodiny o výměře nejvýše 0,1 hektaru.
+
+(7) O porušení podmínek podle odstavců 1 a 4 se nejedná v případě, že
+
+a) je plocha dílu půdního bloku nebo jeho části oseta víceletými plodinami, nebo
+
+b) jsou tyto podmínky splněny nejméně na 90 % výměry plochy plodiny.
+
+## § 11 – Standard omezení plochy jedné plodiny
+
+(1) Žadatel zajistí, že v období od 1. června do 31. srpna příslušného roku se na dílu půdního bloku s druhem zemědělské kultury standardní orná půda nevyskytuje plocha jedné plodiny na výměře vyšší než 30 hektarů, pokud tuto plochu zcela nerozdělí
+
+a) ochranným pásem o minimální šířce 22 metrů osetým porostem plodiny podle přílohy č. 5 nebo 9 k tomuto nařízení, jejich směsi, nebo směsi trávy čeledi lipnicovité s plodinami podle přílohy č. 5 k tomuto nařízení,
+
+b) plochou jiné plodiny o minimální souvislé šířce 110 metrů,
+
+c) krajinným prvkem, nebo
+
+d) kombinací opatření podle písmen a) a c).
+
+(2) Za porušení podmínky podle odstavce 1 se nepovažuje
+
+a) překročení nebo nedodržení výměry zákresu maximálně do 10 % plochy plodiny,
+
+b) nedodržení šířky nebo plochy ochranného pásu nebo plochy jiné plodiny maximálně do 10 %, nebo
+
+c) jestliže v šíři pásu jiné plodiny nebo v šíři ochranného pásu je umístěna dočasně nezpůsobilá plocha.
+
+(3) Podmínka podle odstavce 1 se nevztahuje na plochu dílu půdního bloku nebo jeho části,
+
+a) na níž jsou pěstovány trávy na semeno,
+
+b) na níž jsou pěstovány plodiny vázající dusík podle přílohy č. 5 k tomuto nařízení, jejich směsi, směsi trávy čeledi lipnicovité s plodinami podle přílohy č. 5 k tomuto nařízení nebo plodiny podle přílohy č. 9 k tomuto nařízení,
+
+c) která je využívaná jako neprodukční plocha, nebo
+
+d) která je využívaná v souladu s ekoplatbou na podporu pásového střídání plodin podle nařízení vlády upravujícího poskytování přímých plateb zemědělcům.
+
+(4) Podmínka podle odstavce 1 se dále nevztahuje na díl půdního bloku o velikosti
+
+a) do 40 hektarů, na který byla podána žádost o poskytnutí dotace na podopatření biopásy nebo podopatření ochrana čejky chocholaté podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření nebo na opatření agrolesnictví podle nařízení vlády upravujícího opatření agrolesnictví a na kterém byly ve vegetačním období od 1. června do 31. srpna příslušného roku splněny podmínky předepsané pro tato podopatření a opatření, nebo
+
+b) nad 40 hektarů, na který byla podána žádost o poskytnutí dotace na podopatření biopásy nebo podopatření ochrana čejky chocholaté podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření nebo na opatření agrolesnictví podle nařízení vlády upravujícího opatření agrolesnictví a na kterém byly ve vegetačním období od 1. června do 31. srpna příslušného roku splněny podmínky předepsané pro tato podopatření a opatření, přičemž výměra plochy uvedených podopatření činí nejméně 5 % výměry dílu půdního bloku.
+
+(5) Propojení ploch jedné plodiny o výměře do 30 hektarů podle odstavce 1 manipulačním prostorem o maximální šířce 12 metrů podél hranice dílu půdního bloku, bez ohledu na pěstovanou plodinu v tomto prostoru, se nepovažuje za souvislou plochu jedné plodiny. Mimo plochu manipulačního prostoru musí být u ploch se stejnou plodinou dodržena podmínka rozdělení podle odstavce 1.
+
+(6) Do výpočtu plochy jedné plodiny podle odstavce 1 se nezapočte výměra plochy krajinného prvku evidovaného v evidenci využití půdy, který je součástí dílu půdního bloku.
+
+(7) Do výpočtu plochy jedné plodiny stejného rodu rostlin podle definice botanického systému klasifikace plodin nebo kultury stejného druhu brukvovitých, lilkovitých nebo tykvovitých se započtou plochy se shodnou plodinou, které jsou odděleny dílem půdního bloku téhož uživatele evidovaného se zemědělskou kulturou úhor nebo travní porost o šířce menší než 6 metrů, s tolerancí nedodržení šířky nebo výměry této plochy do 20 %.
+
+## § 12 – Minimální podíl výměry zemědělské plochy vyhrazený pro neprodukční plochy podle § 2 odst. 2
+
+(1) Žadatel na neprodukční ploše zajistí od 1. června do 15. července příslušného roku, pokud není stanoveno jinak, dodržení zákazu
+
+a) produkce, pastvy nebo seče s odklizením biomasy z plochy dílu půdního bloku, s výjimkou ploch podle § 2 odst. 2 písm. p), a
+
+b) aplikace přípravků na ochranu rostlin, hnojiv a upravených kalů.
+
+(2) Žadatel na ochranném pásu kolem krajinného prvku zajistí
+
+a) založení porostu plodiny podle přílohy č. 9 k tomuto nařízení, trávy čeledi lipnicovité, jejich směsi nebo směsi trávy čeledi lipnicovité s plodinami podle přílohy č. 5 k tomuto nařízení, přičemž podíl plodin podle přílohy č. 5 k tomuto nařízení v porostu nepřesáhne 50 % a tato plodina nebo směsi musí být odlišné od hlavní plodiny pěstované na části dílu půdního bloku sousedící s tímto pásem a souvislý porost se na ploše nachází nejpozději od 1. června do 30. listopadu příslušného roku; při víceletém ponechání porostu se součástí ochranného pásu kolem krajinného prvku může stát i přirozená bylinná vegetace,
+
+b) provedení seče od 1. září příslušného roku a
+
+c) dodržení zákazu aplikace přípravků na ochranu rostlin, upravených kalů a hnojiv v období od 1. ledna do 30. listopadu příslušného roku.
+
+(3) Žadatel na pásu ozeleněného kolejového řádku zajistí
+
+a) založení porostu plodiny podle přílohy č. 9 k tomuto nařízení, trávy čeledi lipnicovité, jejich směsi nebo směsi trávy čeledi lipnicovité s plodinami podle přílohy č. 5 k tomuto nařízení, přičemž podíl plodin podle přílohy č. 5 k tomuto nařízení v porostu nepřesáhne 50 % a tato plodina nebo směs plodin musí být odlišná od hlavní plodiny pěstované na části dílu půdního bloku sousedící s tímto pásem a souvislý porost se na ploše nachází nejpozději od 1. června do 15. srpna příslušného roku, a
+
+b) dodržení zákazu aplikace přípravků na ochranu rostlin, upravených kalů a hnojiv v období od 1. června do 15. srpna příslušného roku.
+
+(4) Žadatel na ochranném pásu typu souvrať zajistí
+
+a) zemědělskou údržbu alespoň od doby založení porostu hlavní plodiny uvnitř dílu půdního bloku do 15. července příslušného roku, přičemž do doby údržby se zahrnuje i předseťová příprava,
+
+b) založení porostu plodiny podle přílohy č. 9 k tomuto nařízení, trávy čeledi lipnicovité, jejich směsi nebo směsi trávy čeledi lipnicovité s plodinami podle přílohy č. 5 k tomuto nařízení, přičemž podíl plodin podle přílohy č. 5 k tomuto nařízení v porostu nepřesáhne 50 % a tato plodina nebo směs plodin musí být odlišná od hlavní plodiny pěstované na části dílu půdního bloku sousedící s tímto pásem a souvislý porost se na ploše nachází nejpozději od 1. června do 15. července příslušného roku, a
+
+c) dodržení zákazu aplikace přípravků na ochranu rostlin, upravených kalů a hnojiv v období od 1. června do 15. července příslušného roku.
+
+(5) Žadatel na ploše s meziplodinami zajistí
+
+a) nejpozději do 30. září příslušného roku založení porostu směsi meziplodin různých druhů uvedených v příloze č. 11 k tomuto nařízení výsevem nebo podsev druhu trávy nebo luskoviny uvedených v příloze č. 12 k tomuto nařízení do hlavní plodiny za předpokladu, že porost směsi meziplodin obsahuje nejvýše 90 % jedné plodiny,
+
+b) ponechání meziplodiny minimálně po dobu 8 týdnů, přičemž pro meziplodiny založené podsevem je počátek období počítán od sklizně hlavní plodiny, a
+
+c) dodržení zákazu aplikace přípravků na ochranu rostlin, upravených kalů, hnojiv a omezování v růstu, mechanické nebo chemické likvidace porostu po dobu 8 týdnů;
+
+dále uvede údaje o názvu meziplodiny, datu výsevu a datu sklizně nebo zapravení meziplodiny a hlavní plodiny nejdéle do 30 dnů od provedení operace v evidenci o použití hnojiv, pomocných půdních látek, rostlinných biostimulantů, substrátů a upravených kalů v souladu s vyhláškou upravující skladování a způsob používání hnojiv.
+
+(6) Žadatel na ploše s plodinami vázajícími dusík zajistí
+
+a) souvislý pokryv půdy plodinami uvedenými v příloze č. 5 k tomuto nařízení, jejich směsí nebo směsí těchto plodin s jinými plodinami, pokud poměr plodin podle přílohy č. 5 k tomuto nařízení ve směsi je více než 50 %, nebo prokazatelný výskyt posklizňových zbytků nejpozději od 1. června do 15. července příslušného roku a
+
+b) dodržení zákazu aplikace přípravků na ochranu rostlin, upravených kalů a hnojiv v době od vysetí do sklizně, přičemž pro víceleté porosty platí zákaz až do poslední sklizně.
+
+(7) Na neprodukční plochu vyčleněnou v jednotné žádosti jako zelený úhor se nevztahuje postup pro převod na zemědělskou kulturu trvalý travní porost.
+
+## § 13 – Standard zachování krajinných prvků
+
+(1) Žadatel zajistí ochranu krajinného prvku nebo krajinného prvku neevidovaného v evidenci využití půdy před zrušením a poškozením tak, aby nedošlo
+
+a) ke snížení výměry nebo poškození vegetačního, skalnatého nebo kamenného krytu krajinného prvku,
+
+b) k provádění odvodňovacích operací,
+
+c) k provádění navážky zeminy nebo uskladňování organického materiálu,
+
+d) k mechanickému poškození nadzemní nebo podzemní části dřevin kromě postupů, které jsou v souladu s vyhláškou o ochraně dřevin a povolování jejich kácení,
+
+e) k aplikaci hnojiv, s výjimkou pobytu zvířat, aplikaci přípravků na ochranu rostlin a upravených kalů, nebo
+
+f) ke vzniku cesty.
+
+(2) Běžné obhospodařování a využívání plochy krajinného prvku se nepovažuje za zrušení, poškození nebo využití k produkci, přičemž za běžné obhospodařování a využívání, které probíhá v souladu s podmínkami stanovenými v odstavci 1, se považuje
+
+a) zpřístupnění pro průchod či odpočinek hospodářských zvířat včetně extenzivní pastvy a ponechání nedopasků, které jsou v případě krajinných prvků mokřad a skalka podmíněny souhlasem orgánu ochrany přírody,
+
+b) pohyb osob, včetně výskytu pěšin,
+
+c) přejezd techniky,
+
+d) seč, pokud je provedena nejvýše jednou ročně a posečená biomasa je odklizena, nestanoví-li orgán ochrany přírody jinak, přičemž seč je v případě krajinných prvků mokřad a skalka podmíněna souhlasem orgánu ochrany přírody, a
+
+e) další zásahy se souhlasem orgánu ochrany přírody.
+
+(3) Za zrušení nebo poškození krajinného prvku se nepovažuje postup v rámci stanovené údržby krajinného prvku v souladu s § 24d nařízení vlády upravujícího poskytování přímých plateb zemědělcům.
+
+## § 14 – Standard zákaz ořezu dřevin v období hnízdění a odchovu mláďat
+
+(1) Žadatel dodrží zákaz ořezu dřevin v době od 1. dubna do 31. října příslušného roku.
+
+(2) Za porušení podmínky podle odstavce 1 se nepovažuje postup v rámci údržby krajinného prvku podle § 24d nařízení vlády upravujícího poskytování přímých plateb zemědělcům.
+
+## § 15 – Standard zákaz přeměny nebo orby trvalých travních porostů označených jako environmentálně citlivé oblasti s trvalými travními porosty v lokalitách sítě Natura 2000
+
+(1) Žadatel na ploše trvalého travního porostu, který se nachází ve vymezené oblasti Natura 2000, u jím užívaného dílu půdního bloku nezmění v evidenci využití půdy zemědělskou kulturu trvalý travní porost na některou z jiných druhů zemědělské kultury, ani neprovede na této ploše orbu.
+
+(2) O porušení podmínky podle odstavce 1 se nejedná v případě
+
+a) jednotlivé plochy o výměře nejvýše 0,1 hektaru,
+
+b) ukončení pozemkových úprav podle zákona o pozemkových úpravách a pokud došlo po vydání rozhodnutí o výměně nebo přechodu vlastnických práv k zemědělským pozemkům na dílu půdního bloku ke změně evidence druhu zemědělské kultury trvalý travní porost na jiný druh zemědělské kultury,
+
+c) změny na jinou trvalou kulturu, pokud v případě nové výsadby dřevin je vydáno vyjádření podle písmene d), nebo
+
+d) vydání vyjádření<sup>21</sup>) místně příslušného orgánu ochrany přírody, na základě kterého bude zjevné, že změnou zemědělské kultury trvalý travní porost na některou z jiných druhů zemědělské kultury nebo orbou nejsou dotčena evropská stanoviště<sup>22</sup>) a záměr nemůže samostatně nebo ve spojení s jinými významně ovlivnit předmět ochrany nebo celistvost evropsky významné lokality nebo ptačí oblasti, a nepodléhá tak postupu podle § 45h a 45i zákona č. 114/1992 Sb.
+
+## § 15a – Nepoužití některých standardů
+
+Standardy podle § 5 a 6 až 11 se nevztahují na díl půdního bloku evidovaného v evidenci využití půdy v režimu ekologického zemědělství.
+
+## § 16 – Minimální požadavky
+
+(1) Žadatel zajistí na jím užívaných dílech půdních bloků vedených v evidenci využití půdy
+
+a) dodržení zákazu použití dusíkatých hnojivých látek v období zákazu hnojení podle § 6 nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů,
+
+b) dodržení zákazu pěstování kukuřice, bramboru, řepy cukrové, řepy krmné, bobu polního, sóji, slunečnice nebo čiroku na zemědělských pozemcích se sklonitostí převyšující 7 °, jejichž jakákoliv část se nachází ve vzdálenosti menší než 25 metrů od útvaru povrchových vod nebo od hranice ochranného pásma vodního zdroje I. stupně podle § 11 odst. 1 nařízení vlády č. 262/2012 Sb., ve znění pozdějších předpisů,
+
+c) dodržení zákazu používání na zemědělských pozemcích dusíkatých hnojivých látek na půdu zaplavenou, přesycenou vodou, promrzlou nebo pokrytou sněhem podle § 7 odst. 12 nařízení vlády č. 262/2012 Sb., ve znění pozdějších předpisů,
+
+d) rovnoměrné pokrytí pozemku při hnojení podle § 7 odst. 14 nařízení vlády č. 262/2012 Sb., ve znění pozdějších předpisů,
+
+e) dodržení zákazu použití dusíkatých hnojivých látek na zemědělských pozemcích s ornou půdou se sklonitostí převyšující 10 ° nebo na zemědělských pozemcích s trvalým travním porostem se sklonitostí převyšující 12 °, s výjimkou tuhých statkových hnojiv a tuhých organických hnojiv, v případě orné půdy bez porostu zapravených do 24 hodin po jejich použití podle § 11 odst. 2 nařízení vlády č. 262/2012 Sb., ve znění pozdějších předpisů, a
+
+f) použití přípravku na ochranu rostlin pro profesionální uživatele, který získal od registrovaného distributora, nebo u něhož je držitelem povolení podle § 49 odst. 1 věty druhé zákona č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+(2) Žadatel zajistí podle § 46 odst. 2 zákona č. 326/2004 Sb., ve znění pozdějších předpisů, skladování pouze přípravku pro profesionální uživatele, který obdržel od registrovaného distributora, nebo u něhož je držitelem povolení.
+
+## § 16a – Požadavky sociální podmíněnosti
+
+Seznam požadavků sociální podmíněnosti je uveden v příloze č. 16 k tomuto nařízení.
+
+## § 17 – Hodnocení porušení
+
+(1) Příslušný kontrolní orgán hodnotí porušení každého jednotlivého požadavku, podmínky standardu nebo minimálního požadavku na základě kritérií<sup>7</sup>) uvedených v přílohách č. 13 až 15 k tomuto nařízení.
+
+(2) Jako malé porušení hodnotí příslušný kontrolní orgán porušení v rozsahu
+
+a) malém, závažnosti malé a odstranitelné,
+
+b) malém, závažnosti malé a neodstranitelné,
+
+c) malém, závažnosti střední a odstranitelné, nebo
+
+d) středním, závažnosti malé a odstranitelné.
+
+(3) Jako střední porušení hodnotí příslušný kontrolní orgán porušení v rozsahu
+
+a) malém, závažnosti střední a neodstranitelné,
+
+b) malém, závažnosti velké a odstranitelné,
+
+c) malém, závažnosti velké a neodstranitelné,
+
+d) středním, závažnosti malé a neodstranitelné,
+
+e) středním, závažnosti střední a odstranitelné,
+
+f) středním, závažnosti střední a neodstranitelné,
+
+g) středním, závažnosti velké a odstranitelné,
+
+h) velkém, závažnosti malé a odstranitelné,
+
+i) velkém, závažnosti malé a neodstranitelné, nebo
+
+j) velkém, závažnosti střední a odstranitelné.
+
+(4) Jako velké porušení hodnotí příslušný kontrolní orgán porušení v rozsahu
+
+a) středním, závažnosti velké a neodstranitelné,
+
+b) velkém, závažnosti střední a neodstranitelné,
+
+c) velkém, závažnosti velké a odstranitelné, nebo
+
+d) velkém, závažnosti velké a neodstranitelné.
+
+## § 18 – Stanovení míry snížení dotace při zjištění porušení požadavku nebo podmínky standardu nebo neposkytnutí dotace
+
+(1) Fond na základě hodnocení porušení požadavku nebo podmínky standardu podle § 17 způsobeného úmyslně stanoví míru snížení dotace podle předpisu Evropské unie<sup>8</sup>)
+
+a) 15 % v případě hodnocení podle § 17 odst. 2,
+
+b) 40 % v případě hodnocení podle § 17 odst. 3, nebo
+
+c) 60 % v případě hodnocení podle § 17 odst. 4 písm. a) až c).
+
+(2) Fond neposkytne dotaci v případě hodnocení porušení požadavku nebo podmínky standardu podle § 17 odst. 4 písm. d) způsobeného úmyslně.
+
+(3) Pokud se nejedná o nevýznamné porušení<sup>9</sup>) podle § 17 odst. 2 písm. a), první porušení bez dopadu na plnění cíle standardu podle § 17 odst. 2 písm. b), opakující se nebo přetrvávající porušení podle předpisu Evropské unie<sup>10</sup>) nebo úmyslné porušení<sup>11</sup>), Fond na základě hodnocení porušení požadavku nebo podmínky standardu podle § 17 stanoví míru snížení dotace podle předpisu Evropské unie<sup>12</sup>)
+
+a) 1 % v případě hodnocení podle § 17 odst. 2,
+
+b) 3 % v případě hodnocení podle § 17 odst. 3, nebo
+
+c) 5 % v případě hodnocení podle § 17 odst. 4 nebo pokud porušení požadavku představuje přímé nebezpečí pro zdraví lidí nebo zvířat<sup>13</sup>).
+
+(4) V případě prvního opakovaného nebo přetrvávajícího porušení podle předpisu Evropské unie<sup>14</sup>), o jehož nedodržení byl žadatel již informován, stanoví Fond míru snížení dotace 10 %<sup>15</sup>).
+
+(5) V dalším případě opakovaného nedodržení nebo opakovaného úmyslného porušení stejného požadavku nebo podmínky standardu stanoví Fond míru snížení dotace podle odstavce 1<sup>16</sup>).
+
+(6) Jestliže protokol o kontrole obsahuje údaj o nedodržení téhož požadavku nebo podmínky standardu po dobu více kalendářních let, Fond stanoví míru snížení dotace za každý kalendářní rok podle odstavce 3 postupem podle předpisu Evropské unie<sup>17</sup>).
+
+(7) Pokud je v kalendářním roce zjištěno několik případů nedodržení požadavku nebo podmínky standardu, Fond stanoví míru snížení dotace podle předpisu Evropské unie<sup>18</sup>).
+
+## § 19 – Stanovení míry snížení dotace v případě porušení minimálních požadavků
+
+(1) Fond na základě hodnocení porušení minimálního požadavku podle § 17 stanoví míru snížení dotace
+
+a) 1 % v případě hodnocení podle § 17 odst. 2,
+
+b) 3 % v případě hodnocení podle § 17 odst. 3, nebo
+
+c) 5 % v případě hodnocení podle § 17 odst. 4.
+
+(2) Pokud v témže kalendářním roce dojde k více než jednomu zjištěnému nedodržení minimálního požadavku, Fond stanoví míru snížení individuálně u každého nedodržení a výsledné procentní podíly sečte. Celkové snížení však nesmí překročit 5 % z celkové částky plateb podle článku 31 nebo 70 nařízení Evropského parlamentu a Rady 2021/2115.
+
+## § 19a – Stanovení míry snížení dotace v případě porušení ustanovení právních předpisů, která vymezují požadavky sociální podmíněnosti
+
+(1) Fond na základě oznámení porušení ustanovení právního předpisu podle přílohy č. 16 k tomuto nařízení, na jehož základě byla žadateli pravomocným rozhodnutím<sup>23</sup>) uložena sankce, stanoví míru snížení dotace podle předpisu Evropské unie<sup>24</sup>)
+
+a) 3 % v případě pravomocně uložené sankce více než 100 000 Kč, ale méně než 300 000 Kč, nebo
+
+b) 5 % v případě pravomocně uložené sankce nejméně 300 000 Kč.
+
+(2) V případě více oznámení porušení u téhož žadatele v jednom roce Fond při postupu podle odstavce 1 vychází z oznámení s nejvyšší pravomocně uloženou sankcí.
+
+(3) V případě oznámení opakovaného nebo přetrvávajícího porušení právních předpisů podle přílohy č. 16 k tomuto nařízení stanoví Fond míru snížení dotace 10 %.
+
+(4) V případě oznámení dalšího opakovaného porušení ustanovení právních předpisů podle přílohy č. 16 k tomuto nařízení stanoví Fond míru snížení dotace
+
+a) 15 %, pokud další opakovaná pravomocně uložená sankce činí více než 100 000 Kč, ale méně než 300 000 Kč, nebo
+
+b) 40 %, pokud další opakovaná pravomocně uložená sankce činí nejméně 300 000 Kč.
+
+(5) V případě souběhu porušení požadavků sociální podmíněnosti nebo požadavků nebo standardů podle tohoto nařízení Fond uplatní snížení<sup>25</sup>) samostatně postupem podle § 12bc odst. 1 písm. f) zákona o Státním zemědělském intervenčním fondu.
+
+## § 20 – Neuplatnění snížení dotace
+
+(1) Fond nestanoví snížení dotace, jestliže
+
+a) se jedná o nevýznamné porušení<sup>13</sup>) požadavku nebo podmínky standardu podle § 17 odst. 2 písm. a) nebo první nevýznamné porušení bez dopadu na plnění cíle standardu podle § 17 odst. 2 písm. b) a porušení není hodnoceno jako úmyslné, nebo
+
+b) nedodržení požadavků podle § 3 a 16a a podmínek standardů podle § 5 až 15 je způsobeno rozhodnutím orgánu veřejné moci<sup>19</sup>).
+
+(2) V případě porušení podmínky standardu podle § 17 odst. 2 písm. b) v roce následujícím po roce, kdy Fond uplatnil nestanovení snížení dotace podle odstavce 1 písm. a), Fond uplatní snížení dotace podle § 18.
+
+## § 21 – Postupy pro rok 2023
+
+(1) Pro rok 2023 se za začátek lhůty podle § 2 odst. 2 písm. b) a § 12 odst. 4 písm. a) považuje termín podání jednotné žádosti.
+
+(2) V roce 2023 nelze na ploše podle § 12 odst. 4 pěstovat plodiny sója a kukuřice.
+
+(3) Žadatel v jednotné žádosti pro rok 2023 uvede skutečnost, že byla plocha podle § 11 odst. 2 oseta před 1. dubnem 2023.
+
+(4) Na plodiny podle přílohy č. 5 k tomuto nařízení založené před 1. dubnem 2023 na plochách podle § 2 odst. 2 písm. j) a k) se nevztahuje povinnost pěstování ve směsi.
+
+## § 22 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. dubna 2023, s výjimkou ustanovení § 2 odst. 2 písm. l), § 10 odst. 1 a § 12 odst. 4 písm. b) až d), která nabývají účinnosti dnem 1. ledna 2024.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr zemědělství:
+
+v z. Ing. Jurečka v. r.
+
+místopředseda vlády a ministr práce a sociálních věcí
+
+### Příloha č. 1
+
+#### Půdoochranné technologie pro plodiny se středním stupněm ochranného vlivu vegetace na silně erozně ohrožené ploše
+
+| Číslo půdoochranné technologie | Půdoochranná technologie | Základní podmínky půdoochranné technologie |
+|---|---|---|
+| 1. | Půdoochranná technologie založená na prostorovém dělení pozemku - Vytvoření zasakovacích, ochranných, předělovacích pásů, případně obsevů, osetých plodinou s vysokým stupněm ochranného vlivu vegetace | Maximální plocha plodiny 4 hektary, strojově obhospodařovatelná šíře pásu minimálně 3 metry, plodina s vysokým stupněm ochranného vlivu vegetace |
+| 2. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Zakládání do ochranné plodiny nebo rostlinných zbytků (přímé setí nebo provedení podmítky bez následné orby) | Vizuálně prokazatelné. Před založením hlavní plodiny není provedena orba |
+| 3. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Pásové zpracování půdy | Vizuálně prokazatelné |
+| 4. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Zakládání porostu s pomocnou plodinou | Deklarace pomocné plodiny v jednotné žádosti, vizuálně prokazatelné, ověření v terénu |
+| 5. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Podsev | Deklarace plodiny v podsevu v jednotné žádosti, vizuálně prokazatelné, ověření v terénu |
+| 6. | Půdoochranná technologie založená na zlepšení struktury půdy - Hloubkové kypření (pro řepku, bob, obilniny) | Minimálně 0,25 metru, hlášení v evidenci půdy |
+| 7. | Osevní sled | § 8 |
+| 8. | Půdoochranná technologie individuálně zvolená pro určitý pozemek nebo celofaremní plán - Specifická půdoochranná technologie | |
+
+### Příloha č. 3
+
+#### Půdoochranné technologie pro plodiny se středním stupněm ochranného vlivu vegetace na mírně erozně ohrožené ploše s vyšším rizikem
+
+| Číslo půdoochranné technologie | Půdoochranná technologie | Základní podmínky půdoochranné technologie |
+|---|---|---|
+| 1. | Půdoochranná technologie založená na prostorovém dělení pozemku - Vytvoření zasakovacích, ochranných, předělovacích pásů, případně obsevů, osetých plodinou s vysokým stupněm ochranného vlivu vegetace | Maximální plocha plodiny 15 hektarů, strojově obhospodařovatelná šíře pásu minimálně 3 metry, plodina s vysokým stupněm ochranného vlivu vegetace |
+| 2. | Půdoochranná technologie založené na zajištění pokryvnosti půdy - Zakládání do ochranné plodiny nebo rostlinných zbytků (přímé setí nebo provedení podmítky bez následné orby) | Vizuálně prokazatelné. Před založením hlavní plodiny není provedena orba |
+| 3. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Pásové zpracování půdy | Vizuálně prokazatelné |
+| 4. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Zakládání porostu s pomocnou plodinou | Deklarace pomocné plodiny v jednotné žádosti, vizuálně prokazatelné, ověření v terénu |
+| 5. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Podsev | Deklarace plodiny v podsevu v jednotné žádosti, vizuálně prokazatelné, ověření v terénu |
+| 6. | Půdoochranná technologie založená na zlepšení struktury půdy - Hloubkové kypření (pro řepku, bob, obilniny) | Minimálně 0,25 metru, hlášení v evidenci využití půdy |
+| 7. | Osevní sled | § 8a |
+| 8. | Půdoochranná technologie individuálně zvolená pro určitý pozemek nebo celofaremní plán - Specifická Půdoochranná technologie | |
+| 9. | Půdoochranná technologie založená na zlepšení struktury půdy - Aplikace organické hmoty do půdy | Aplikace v hospodářském roce k hlavní plodině nebo meziplodině bezprostředně předcházející hlavní plodině tuhých statkových hnojiv (kromě hnojiv pocházejících z chovů drůbeže, aplikovaných samostatně) nebo tuhých organických hnojiv v dávce minimálně 25 tun na hektar nebo aplikace kejdy nebo digestátu v dávce minimálně 15 tun na hektar, v kombinaci se slámou nebo zeleným hnojením |
+| 10. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Pěstování obilnin ve směsi s luskovinami | Minimální podíl luskoviny 50 % v porostu |
+
+### Příloha č. 5 k nařízení vlády č. 73/2023 Sb.
+
+#### Druhy plodin vázajících dusík pro výjimku podle § 10 odst. 5 písm. a), § 11 odst. 1 písm. a) a § 11 odst. 3 písm. b) a plnění podmínek standardu podle § 12 odst. 2 až 4 a 6
+
+| 1. | bob |
+|---|---|
+| 2. | cizrna |
+| 3. | čičorka |
+| 4. | čočka |
+| 5. | fazol |
+| 6. | hrách |
+| 7. | hrachor |
+| 8. | jestřabina |
+| 9. | jetel |
+| 10. | komonice |
+| 11. | kozinec |
+| 12. | lupina bílá, úzkolistá, žlutá |
+| 13. | peluška |
+| 14. | pískavice |
+| 15. | ptačí noha |
+| 16. | sója |
+| 17. | štírovník |
+| 18. | tolice |
+| 19. | úročník |
+| 20. | vičenec |
+| 21. | vikev |
+| 22. | vojtěška |
+
+### Příloha č. 6 k nařízení vlády č. 73/2023 Sb.
+
+#### Seznam požadavků podle § 3
+
+| Číslo požadavku | Požadavek | Vymezení požadavku v právním předpisu |
+|---|---|---|
+| 1.1. | Dodržování podmínek povolení pro nakládání s povrchovými nebo podzemními vodami | § 8 odst. 1 písm. a) bod 1 a § 8 odst. 1 písm. b) bod 1 zákona č. 254/2001 Sb. |
+| 1.2. | Dodržování podmínek povolení pro vypouštění odpadních vod s obsahem fosforečnanů do povrchových a podzemních vod | § 8 odst. 1, písm. c) a § 38 zákona č. 254/2001 Sb. |
+| 1.3. | Dodržování pravidel ochrany povrchových a podzemních vod a životního prostředí při zacházení a manipulaci se závadnými látkami, pokud jde o povinné omezování difúzních zdrojů znečištění fosforečnany | § 39 odst. 1 a 2 zákona č. 254/2001 Sb. |
+| 1.4. | Dodržování podmínek zacházení se závadnými látkami obsahujícími fosforečnany a jejich uložení na zemědělské půdě podle zákona o hnojivech | § 8 odst. 4 a 5 a § 9 odst. 1 a § 9 odst. 2 písm. d) zákona č. 156/1998 Sb. a § 6 odst. 5 vyhlášky č. 377/2013 Sb. |
+| 1.5. | Dodržování podmínek nakládání s upravenými kaly a jejich uložení na zemědělské půdě | § 9 odst. 3 zákona č. 156/1998 Sb. a § 69 odst. 3 zákona č. 541/2020 Sb. a § 58 odst. 1 písm. a), c) a d), § 58 odst. 2 písm. a), b) a c), § 59 odst. 1 písm. c), f) a g), § 59 odst. 2 písm. c), d), h) a i) vyhlášky č. 273/2021 Sb. |
+| 1.6. | Dodržování kvalitativních požadavků na skladovací prostory pro závadné látky obsahující fosforečnany z hlediska ochrany vod | § 8 odst. 2 a 4 zákona č. 156/1998 Sb. a § 4 odst. 1, § 5 odst. 1 a 2, § 6 odst. 1 a 2 vyhlášky č. 377/2013 Sb. |
+| 1.7. | Dodržování podmínek pro skladování upravených kalů ve skladech | § 58 odst. 1 písm. a), b) a d) a § 58 odst. 2 písm. a) vyhlášky č. 273/2021 Sb. |
+| 1.8. | Dodržování podmínek pro skladování závadných látek obsahujících fosforečnany | § 39 odst. 4 písm. c) zákona č. 254/2001 Sb. |
+| 1.9. | Provádění zkoušky těsnosti potrubí a nádrží určených pro skladování závadných látek obsahujících fosforečnany | § 39 odst. 4 písm. d) zákona č. 254/2001 Sb. |
+| 1.10. | Dodržování kontrolního systému pro zjišťování úniku skladovaných závadných látek obsahujících fosforečnany | § 39 odst. 4 písm. e) zákona č. 254/2001 Sb. |
+| 2.1. | Dodržování období zákazu hnojení | § 6 nařízení vlády č. 262/2012 Sb. |
+| 2.2. | Dodržování limitů hnojení plodin | § 7 odst. 1 a příloha č. 3 k nařízení vlády č. 262/2012 Sb. |
+| 2.3. | Dodržení maximálního limitu 170 kg N/hektar/ hospodářský rok, který se uzavře v kalendářním roce podání jednotné žádosti v použitých organických, organominerálních a statkových hnojivech v průměru zemědělského podniku | § 8 nařízení vlády č. 262/2012 Sb. |
+| 2.4. | Dodržování podmínek pro skladování dusíkatých hnojivých látek ve zranitelných oblastech, zajištění skladování v průběhu nejdelšího vyžadovaného období zákazu | § 9 odst. 1 a 2 nařízení vlády č. 262/2012 Sb. |
+| 2.5. | Dodržení zákazu pěstování erozně nebezpečných plodin na pozemcích s vysokou sklonitostí | § 11 odst. 1 nařízení vlády č. 262/2012 Sb. |
+| 2.6. | Dodržení podmínek pro ochranné pásy nehnojené půdy podél útvaru povrchových vod | § 12 odst. 1 nařízení vlády č. 262/2012 Sb. |
+| 2.7. | Dodržení zákazu používání dusíkatých hnojivých látek na půdu zaplavenou, přesycenou vodou, promrzlou nebo pokrytou sněhem | § 7 odst. 12 nařízení vlády č. 262/2012 Sb. |
+| 2.8. | Dodržení kvalitativních požadavků na skladovací prostory pro statková hnojiva z hlediska ochrany vod | § 9 odst. 1 a 2 nařízení vlády č. 262/2012 Sb. a § 39 odst. 4 písm. b) a c) zákona č. 254/2001 Sb. |
+| 3.1. | Zajištění ochrany významných krajinných prvků vodní tok a údolní niva a registrovaných významných krajinných prvků | § 4 odst. 2, § 87 odst. 2 písm. f) a § 88 odst. 1 písm. i) zákona č. 114/1992 Sb. |
+| 3.2. | Zajištění ochrany dřevin rostoucích mimo les | § 8, § 87 odst. 2 písm. e), § 87 odst. 3 písm. d) a § 88 odst. 1 písm. c) zákona č. 114/1992 Sb. |
+| 3.3. | Zajištění obecné ochrany ptáků | § 5a, § 87 odst. 1 písm. c), § 87 odst. 2 písm. c) a § 88 odst. 1 písm. e) zákona č. 114/1992 Sb. |
+| 4.1. | Zajištění ochrany evropsky významných lokalit | § 45b, § 45c, § 87 odst. 3 písm. n) a § 88 odst. 2 písm. n) zákona č. 114/1992 Sb. |
+| 5.1. | Splnění limitů na obsah cizorodých látek a reziduí pesticidů u potravin | Čl. 14 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 v návaznosti na čl. 2 nařízení Komise (ES) 2023/915 nebo na čl. 18 nařízení Evropského parlamentu a Rady (ES) č. 396/2005 |
+| 5.2. | Splnění požadavku na potraviny, aby byly prosté škůdců a bez známek mikrobiálního kažení nebo plísně viditelné pouhým okem | Čl. 14 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 v návaznosti na čl. 3 odst. 1 nařízení Komise (ES) č. 2073/2005 a na čl. 2 nařízení Komise (ES) 2023/915 |
+| 5.3. | Zabránění kontaminaci potraviny cizorodými a jinými látkami a kontaminaci způsobené zvířaty a škůdci | Čl. 14 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a příloha I část A oddíl II bod 5 a oddíl III bod 9 nařízení (ES) č. 852/2004 |
+| 5.4. | Splnění povinnosti provozovatele potravinářského podniku identifikovat každého dodavatele surovin a látek určených k přimísení do potravin | Čl. 18 odst. 2 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 |
+| 5.5. | Splnění povinnosti provozovatele potravinářského podniku identifikovat každého odběratele svých produktů | Čl. 18 odst. 3 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 |
+| 5.6. | Zajištění takového označení nebo identifikace produktu, které umožňuje jeho sledovatelnost | Čl. 18 odst. 4 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 |
+| 5.7. | Splnění povinnosti provozovatele potravinářského podniku informovat všechny své odběratele a příslušné dozorové orgány o tom, že jím vyprodukovaná a dodaná potravina nebo surovina nebyla bezpečná, a zajistit stažení nebezpečné potraviny z trhu | Čl. 19 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a příloha I část A oddíl II bod 6 nařízení (ES) č. 852/2004 |
+| 5.8. | Zajištění bezpečnosti krmiv, určených ke krmení zvířat nebo k uvedení na trh, při výrobě, zpracovaní a distribuci | Čl. 15 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 |
+| 5.9. | Používání jen povolené formy krmiv při míchání krmné dávky pro výhradní požadavky svých vlastních hospodářství a dodržení pokynů stanovených pro jejich používání | Čl. 15 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a čl. 4 odst. 1 a přílohy I část A oddíl II bod 4 písm. j) nařízení (ES) č. 852/2004 a čl. 5 odst. 1 nařízení (ES) č. 183/2005 |
+| 5.10. | Vedení záznamů o druhu, zdroji a množství krmiva podávaného identifikovaným zvířatům tak, aby byl zachován princip dohledatelnosti použitého krmiva | Čl. 15 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a čl. 4 odst. 1 a přílohy I část A oddíl III bod 8 písm. a) nařízení (ES) č. 852/2004 a čl. 5 odst. 1 a přílohy I část A II bod 2 písm. e) nařízení (ES) č. 183/2005 a čl. 18 nařízení (ES) č. 396/2005 |
+| 5.11. | Dodržení podmínek pro skladování krmiv odděleně od bezpečně uložených odpadů, chemických nebo jiných nebezpečných látek a materiálů zakázaných ke krmení tak, aby se předcházelo riziku kontaminace krmiv | Čl. 15 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a čl. 5 odst. 1 a přílohy I část A I bod 4 písm. e) a čl. 5 odst. 5 a přílohy III bod 1 nařízení (ES) č. 183/2005 |
+| 5.12. | Zohledňování výsledků analýz vzorků primárních produktů, které jsou významné z hlediska bezpečnosti krmiv, v případě potřeby | Čl. 15 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a čl. 5 odst. 1 a přílohy I část A I bod 4 písm. g) nařízení (ES) č. 183/2005 |
+| 5.13. | Vedení záznamů o každém použití přípravků na ochranu rostlin, biocidních produktů, geneticky modifikovaného osiva | Čl. 15 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a čl. 5 odst. 1 a přílohy I část A II bod 2 písm. a) a b) nařízení (ES) č. 183/2005 |
+| 5.14. | Eliminování rizika křížové kontaminace jiných krmiv při zacházení s medikovaným krmivem | Čl. 15 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a čl. 5 odst. 5 a přílohy III bod 1 nařízení (ES) č. 183/2005 |
+| 5.15. | Odebírání a používání krmiv pouze od provozu s platnou registrací nebo schválením | Čl. 15 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a čl. 5 odst. 6 nařízení (ES) č. 183/2005 |
+| 5.16. | Dodržování ochranné lhůty použitých pesticidů při sklizni a skladování plodin | Čl. 15 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a čl. 18 nařízení (ES) č. 396/2005 |
+| 5.17. | Neprodlené přijetí vhodného opatření provozovatelem odpovědným za používání nebo uvedení na trh krmiva, které nesplňuje požadavky na bezpečnost, a zabránění jeho dalšímu zkrmování a informování všech odběratelů | Čl. 15, čl. 17 odst. 1 a čl. 20 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 |
+| 5.18. | Použití léčivých přípravků a dalších látek v souladu s právními předpisy a pravidly pro jejich používání, požadavky na stanovení a dodržení ochranné lhůty a uvádění živočišných produktů do oběhu, úplnost vedených záznamů o podaných léčivých přípravcích | Čl. 14 a 17 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a bod III.8 písm. b) části A přílohy I nařízení (ES) č. 852/2004 a čl. 108 a 115 nařízení Evropského parlamentu a Rady (ES) 2019/6 a čl. 14 nařízení Evropského parlamentu a Rady (EU) č. 470/2009 a přílohy nařízení Komise (EU) č. 37/2010 a § 5 odst. 1 písm. d), e) a i) zákona č. 166/1999 Sb. a § 9 odst. 11 zákona č. 378/2007 Sb. |
+| 5.19. | Dodržování podmínek pro původ a/nebo použití syrového mléka s ohledem na brucelózu a/ nebo tuberkulózu | Čl. 14 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a příloha III oddíl IX kapitola I část I bod 2 písm. a) a b) a bod 3 nařízení (ES) č. 853/2004 |
+| 5.20. | Dodržení podmínek pro zdravotní způsobilost zvířat vybraných pro dodávku mléka na trh | Čl. 14 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a příloha III oddíl IX kapitola I část I bod I písm. a), b) a c) a část 5 nařízení (ES) č. 853/2004 |
+| 5.21. | Dodržení požadavků na prostory a zařízení pro získávání a skladování mléka za účelem zabránit kontaminaci mléka | Čl. 14 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a příloha III oddíl IX kapitola I část II písmeno A body 1 a 2 nařízení (ES) č. 853/2004 |
+| 5.22. | Dodržení požadavků na čištění a dezinfekci zařízení přicházejícího do styku s mlékem | Čl. 14 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a příloha III oddíl IX kapitola I část II písmeno A body 3 a 4 nařízení (ES) č. 853/2004 |
+| 5.23. | Dodržení hygienických postupů při dojení, vyloučení nevyhovujícího mléka z dodávky | Čl. 14 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a příloha III oddíl IX kapitola I část II písmeno B bod 1 nařízení (ES) č. 853/2004 |
+| 5.24. | Zajištění mléka před kontaminací bezprostředně po nadojení, chlazení | Čl. 14 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a příloha III oddíl IX kapitola I část II písmeno B body 2, 3 a 4 nařízení (ES) č. 853/2004 |
+| 5.25. | Zajištění zdravotní nezávadnosti a jakosti vajec | Čl. 14 a čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 178/2002 a příloha III oddíl X kapitola I body 1 a 2 nařízení (ES) č. 853/2004 |
+| 6.1. | Dodržení zákazu podávání zakázaných látek hospodářským zvířatům a zákazu přechovávání těchto látek na hospodářství | § 5 odst. 1 písm. d), e) a i) a § 19 odst. 3 zákona č. 166/1999 Sb. a § 3 písm. a) a b) a § 5 odst. 5 vyhlášky č. 291/2003 Sb. |
+| 6.2. | Dodržování ochranných lhůt při použití přípravků se zakázanými látkami | § 19 odst. 2 zákona č. 166/1999 Sb. a § 8 vyhlášky č. 291/2003 Sb. |
+| 6.3. | Dodržování pravidel pro zacházení se zakázanými látkami | § 19 odst. 3 zákona č. 166/1999 Sb. a § 5 a 6 vyhlášky č. 291/2003 Sb. |
+| 7.1. | Dodržení požadavků pro použití přípravku na ochranu rostlin z hlediska ochrany podzemní vody | § 49 odst. 1 písm. a) zákona č. 326/2004 Sb. |
+| 7.2. | Provádění aplikace přípravku na ochranu rostlin v souladu s účelem jeho povoleného použití na zemědělské půdě | § 49 odst. 1 věta první zákona č. 326/2004 Sb. |
+| 7.3. | Provádění aplikace přípravku na ochranu rostlin v souladu s účelem jeho povoleného použití mimo půdu | § 49 odst. 1 věta první zákona č. 326/2004 Sb. |
+| 7.4. | Nepřekročení maximální povolené dávky přípravku na ochranu rostlin | § 49 odst. 1 věta první zákona č. 326/2004 Sb. |
+| 7.5. | Dodržení omezení pro použití přípravku na ochranu rostlin v pásmu ochrany zdrojů podzemních vod nebo vodárenských nádrží | § 49 odst. 1 písm. a) zákona č. 326/2004 Sb. |
+| 7.6. | Dodržení požadavků pro použití přípravku na ochranu rostlin z hlediska ochrany včel | § 49 odst. 1 písm. a) a § 49 odst. 6, § 51 odst. 3 a 4 a § 51 odst. 7 písm. c) zákona č. 326/2004 Sb. a § 3 až 5a vyhlášky č. 327/2012 Sb. |
+| 7.7. | Dodržení požadavků pro použití přípravku na ochranu rostlin z hlediska ochrany suchozemských obratlovců | § 49 odst. 1 písm. a) a § 49 odst. 6, § 51 odst. 7 písm. c) zákona č. 326/2004 Sb. a § 11 vyhlášky č. 327/2012 Sb. |
+| 7.8. | Dodržení zákazu nezasáhnout při aplikaci přípravků na ochranu rostlin rostliny mimo pozemek, na němž se prováděla aplikace | § 49 odst. 1 písm. b) zákona č. 326/2004 Sb. |
+| 7.9. | Dodržení požadavků pro použití přípravku na ochranu rostlin z hlediska ochrany vodních organismů | § 49 odst. 1 písm. a) a § 49 odst. 6 zákona č. 326/2004 Sb. a § 13 odst. 1 a 4 až 6 vyhlášky č. 327/2012 Sb. |
+| 7.10. | Použití přípravku povoleného v souladu s nařízením Evropského parlamentu a Rady (ES) č. 1107/2009 | § 3 odst. 1 písm. b) zákona č. 326/2004 Sb. |
+| 7.11. | Dodržování ochranné vzdálenosti od oblastí využívaných širokou veřejností a/nebo zranitelnými skupinami obyvatel při použití přípravku na ochranu rostlin | § 49 odst. 1 věta první zákona č. 326/2004 Sb. |
+| 7.12. | Dodržení ochranné lhůty v návaznosti na použitý přípravek na ochranu rostlin | § 49 odst. 1 věta první zákona č. 326/2004 Sb. |
+| 7.13. | Dodržení maximálního počtu ošetření v plodině | § 49 odst. 1 věta první zákona č. 326/2004 Sb. |
+| 8.1. | Splnění požadavků na odbornou způsobilost pro nakládání s přípravky na ochranu rostlin | § 86 zákona č. 326/2004 Sb. |
+| 8.2. | Dodržení kontrolního testování profesionálního zařízení pro aplikaci přípravků | § 61 odst. 1 a § 64 odst. 4 písm. a) zákona č. 326/2004 Sb. v provedení podle § 4 vyhlášky č. 207/2012 Sb. |
+| 8.3. | Dodržení pravidelné technické kontroly a kalibrace používaných profesionálních zařízení | § 61 odst. 3 a § 61 odst. 7 písm. a) zákona č. 326/2004 Sb. v provedení podle § 2 odst. 1 vyhlášky č. 207/2012 Sb. |
+| 8.4. | Dodržení postupů pro přípravu postřikové kapaliny před aplikací a čištění profesionálního zařízení po aplikaci přípravků na ochranu rostlin | § 61 odst. 5 a § 61 odst. 7 písm. c) zákona č. 326/2004 Sb. v provedení podle § 2 odst. 3 a přílohy č. 3 vyhlášky č. 207/2012 Sb. |
+| 8.5. | Dodržení podmínek na vedení dokladové evidence o příjmu a výdeji při skladování přípravků na ochranu rostlin nebo pomocných prostředků | § 46 odst. 1 písm. a) bod 3 zákona č. 326/2004 Sb. |
+| 8.6. | Zajištění nakládání s přípravky na ochranu rostlin a pomocnými prostředky takovým způsobem, aby byly splněny technické požadavky na skladování přípravků na ochranu rostlin a pomocných prostředků stanovené jiným právním předpisem | § 46 odst. 1 písm. a) bod 4 zákona č. 326/2004 Sb. |
+| 8.7. | Dodržení podmínek uskladnění podle druhů, odděleně od jiných výrobků a přípravků nebo pomocných prostředků určených k likvidaci jako odpad a mimo dosah látek, které by mohly ovlivnit vlastnosti skladovaných přípravků nebo pomocných prostředků při skladování přípravků na ochranu rostlin nebo pomocných prostředků | § 46 odst. 1 písm. a) bod 1 zákona č. 326/2004 Sb. |
+| 8.8. | Zajištění odděleného skladování přípravků nebo pomocných prostředků s prošlou dobou použitelnosti, nebo určených k vrácení dodavateli nebo nepovolených od ostatních skladovaných přípravků na ochranu rostlin nebo pomocných prostředků | § 46 odst. 1 písm. a) bod 2 zákona č. 326/2004 Sb. |
+| 8.9. | Skladování přípravků na ochranu rostlin nebo pomocných prostředků určených k použití v originálních obalech označených údaji v souladu s jiným právním předpisem | § 46 odst. 1 písm. a) bod 5 zákona č. 326/2004 Sb. |
+| 8.10. | Zajištění nakládání s odpady, jako jsou obaly od přípravků na ochranu rostlin a pomocných prostředků včetně nespotřebovaných přípravků na ochranu rostlin a pomocných prostředků, v souladu se zákonem o odpadech | § 13 odst. 1 písm. c) až e) zákona č. 541/2020 Sb. |
+| 9.1. | Zajištění kontroly zdravotního stavu telat a včasný zásah v případě jejich onemocnění nebo poranění | § 4 odst. 1 písm. b) zákona č. 166/1999 Sb. a § 11 odst. 1 a 2, § 12 odst. 4, § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 9.2. | Dodržení zákazu a podmínek pro uvazování telat a zákazu pro použití náhubku | § 12a odst. 1 a 2 a § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 9.3. | Dodržení podmínek konstrukce individuálního kotce pro telata mladší 8 týdnů | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 9.4. | Dodržení podmínek na ustájení telat starších 8 týdnů ve skupinách | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 9.5. | Dodržení požadavků na vhodné řešení podlah, prostoru na ležení a podestýlku | § 12a odst. 1 a § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 9.6. | Zajištění ošetření telat po porodu a podání mleziva | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 9.7. | Dodržení požadavků na krmení telat | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 9.8. | Dodržení požadavků na napájení telat | § 4 odst. 1 písm. c) bod 1, § 12b písm. b) a § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 10.1. | Dodržení podmínek pro užití izolačních kotců u prasat | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 10.2. | Dodržení parametrů využitelné volné podlahové plochy pro prasata | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 10.3. | Umožnění etologických aktivit prasatům | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 10.4. | Dodržení požadavků na krmení a napájení prasat včetně prasnic a prasniček | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. a § 4 odst. 1 písm. c) body 1 a 2 a § 12b písm. a) až c) zákona č. 246/1992 Sb. |
+| 10.5. | Dodržení zákazu uvazování prasnic nebo prasniček | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 10.6. | Dodržení podmínek pro skupinové ustájení prasnic a prasniček | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 10.7. | Dodržení požadavků na hladinu hluku a intenzitu světla v chovech prasat | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 10.8. | Dodržení parametrů konstrukce podlah ve stájích prasat | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 10.9. | Dodržení požadavků na ustájení prasat, prostor pro ležení a vizuální kontakt | § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 10.10. | Dodržení podmínek pro provádění zákroků a postupů pro jiné než terapeutické a diagnostické účely | § 4 odst. 1 písm. g), j) a k), § 7 odst. 3 a 4 a § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 11.1. | Zajištění odborné způsobilosti a počtu zaměstnanců | § 5 odst. 3 písm. a) zákona č. 166/1999 Sb. a § 12 odst. 2, § 12d odst. 7 a § 12f zákona č. 246/1992 Sb. |
+| 11.2. | Provádění kontroly zdravotního stavu zvířat a včasného zásahu v případě jejich onemocnění nebo zranění a zajištění dostupnosti osvětlení ke kontrole zvířat | § 4 odst. 1 písm. b) zákona č. 166/1999 Sb. a § 11 odst. 1 a 2, § 12 odst. 4, § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 11.3. | Vedení a uchovávání záznamů o veterinárních léčivých přípravcích podaných zvířatům nebo o jiném jejich ošetření a o počtu uhynulých zvířat | § 5 odst. 1 písm. i) a § 40 odst. 1 písm. c) zákona č. 166/1999 Sb. a § 9 odst. 11 zákona č. 378/2007 Sb. |
+| 11.4. | Zajištění volnosti pohybu zvířat | § 4 odst. 1 písm. c) bod 3 a § 4 odst. 1 písm. o), § 12a odst. 1 a 2 a § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 11.5. | Dodržení podmínek na úpravu vzhledu nebo jiných vlastností zvířete, provádění zákroků a zakázaných způsobů nebo postupů plemenitby | § 4 odst. 1 písm. e) a g), § 7 odst. 3 a 4 a § 9 odst. 1 písm. d) a e) zákona č. 246/1992 Sb. |
+| 11.6. | Dodržení mikroklimatických podmínek ve stájích včetně stájí pro telata | § 12c odst. 1 a 2 a § 12d odst. 1 písm. a) zákona č. 246/1992 Sb. |
+| 11.7. | Dodržení požadavků na osvětlení v chovech včetně chovů telat | § 9 odst. 1 písm. c) a § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 11.8. | Dodržení požadavků na materiál použitý k ustájení zvířat včetně telat, jeho čištění a údržbu prostor | § 4 odst. 1 písm. l), § 12a odst. 1 a § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 11.9. | Zajištění ochrany před nepříznivými vlivy při chovu mimo budovy | § 4 odst. 1 písm. k) a I), § 12a odst. 4 a § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+| 11.10. | Zajištění kontroly dispozičního, technického a provozního řešení stájí včetně stájí pro telata, automatického větracího systému a včasného odstranění závad | § 11 odst. 1, § 12a odst. 3 a § 12c odst. 1 a 2 zákona č.246/1992 Sb. |
+| 11.11. | Dodržení požadavků na krmení a napájení zvířat | § 4 odst. 1 písm. c) body 1 a 2 a § 4 odst. 1 písm. e) a § 12b písm. a) a b) zákona č. 246/1992 Sb. |
+| 11.12. | Omezení znečištění napájecích a krmných zařízení a zápolení o zdroje včetně u chovů telat | § 12b písm. c) a § 12c odst. 1 a 2 zákona č. 246/1992 Sb. |
+
+### Příloha č. 7 k nařízení vlády č. 73/2023 Sb.
+
+#### Seznam standardů podle § 4
+
+| **Číslo standardu** | **Standard** |
+|---|---|
+| 1. | Zachování trvalých travních porostů na základě poměru trvalých travních porostů k zemědělské ploše |
+| 2. | Ochrana mokřadů a rašelinišť |
+| 3. | Zákaz vypalování strnišť na orné půdě vyjma případů odůvodněných zdravím rostlin |
+| 4. | Zřízení ochranných pásů u útvarů povrchových vod |
+| 5. | Obhospodařování půdy způsobem, který snižuje riziko degradace půdy a eroze, včetně zohlednění sklonu svahu |
+| 6. | Minimální půdní pokryv půdy pro zamezení vzniku holé půdy v nejcitlivějších obdobích |
+| 7. | Střídání plodin na orné půdě, s výjimkou plodin pěstovaných ve vodě |
+| 7 A. | Střídání plodin na orné půdě |
+| 7 B. | Omezení plochy jedné plodiny |
+| 8. | Zachování krajinných prvků, Zákaz ořezu keřů a stromů v období hnízdění a odchovu mláďat a jako možnost opatření proti invazním druhům rostlin |
+| 8 B. | Zachování krajinných prvků |
+| 8 C. | Zákaz ořezu dřevin v období hnízdění a odchovu mláďat |
+| 9. | Zákaz přeměny nebo orby trvalých travních porostů označených jako environmentálně citlivé oblasti s trvalými travními porosty v lokalitách sítě Natura 2000 |
+
+### Příloha č. 8 k nařízení vlády č. 73/2023 Sb.
+
+#### Druhy plodin pro výjimku podle § 10 odst. 5 písm. b)
+
+| 1. | trávy čeledi lipnicovité a jejich směsi |
+|---|---|
+| 2. | směsi pro podopatření druhově bohaté pokrytí orné půdy podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření |
+| 3. | směsi pro podopatření biopásy podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření |
+| 4. | směs krmná a směs pro opylovače podle podopatření ochrana čejky chocholaté podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření |
+
+### Příloha č. 9
+
+#### Druhy plodin podle § 11 odst. 1 písm. a) a § 12 odst. 2 až 4
+
+| 1. | aksamitník |
+|---|---|
+| 2. | bér vlašský |
+| 3. | hořčice |
+| 4. | kapusta krmná |
+| 5. | kmín |
+| 6. | kopr |
+| 7. | koriandr |
+| 8. | krambe |
+| 9. | laskavec |
+| 10. | len |
+| 11. | lesknice kanárská |
+| 12. | lnička |
+| 13. | mastňák |
+| 14. | mrkev |
+| 15. | oves hřebílkatý |
+| 16. | pastinák |
+| 17. | pískavice |
+| 18. | pohanka |
+| 19. | proso seté |
+| 20. | ptačí noha |
+| 21. | ředkev |
+| 22. | řepice |
+| 23. | řeřicha |
+| 24. | sléz |
+| 25. | slunečnice (s výjimkou slunečnice hlíznaté) |
+| 26. | svazenka |
+| 27. | světlice |
+| 28. | šalvěj hispánská |
+| 29. | šťovík |
+| 30. | trávy čeledi lipnicovité a jejich směsi |
+| 31. | vodnice |
+| 32. | žito trsnaté (lesní) |
+| 33. | směs výše uvedených plodin |
+
+### Příloha č. 11 k nařízení vlády č. 73/2023 Sb.
+
+#### Druhy meziplodin podle § 12 odst. 5 písm. a)
+
+| 1. | bér vlašský |
+|---|---|
+| 2. | bob polní, obecný |
+| 3. | bojínek luční |
+| 4. | cizrna |
+| 5. | čirok |
+| 6. | fazol |
+| 7. | festulolium |
+| 8. | hořčice |
+| 9. | hrachor |
+| 10. | hrách |
+| 11. | jetel |
+| 12. | jílek vyjma hybridního |
+| 13. | komonice |
+| 14. | koriandr |
+| 15. | kostřava červená, luční |
+| 16. | krambe |
+| 17. | len setý přadný |
+| 18. | lesknice kanárská |
+| 19. | lnička |
+| 20. | lupina |
+| 21. | mastňák |
+| 22. | ostropestřec |
+| 23. | oves hřebílkatý |
+| 24. | peluška |
+| 25. | pískavice |
+| 26. | pohanka |
+| 27. | proso seté |
+| 28. | ředkev olejná |
+| 29. | řeřicha |
+| 30. | sléz krmný |
+| 31. | slunečnice |
+| 32. | srha laločnatá |
+| 33. | svazenka |
+| 34. | světlice |
+| 35. | šalvěj hispánská |
+| 36. | tolice |
+| 37. | úročník |
+| 38. | vičenec |
+| 39. | vikev |
+| 40. | žito trsnaté (lesní) |
+
+### Příloha č. 12 k nařízení vlády č. 73/2023 Sb.
+
+#### Druhy plodin pro podsev podle § 12 odst. 5 písm. a)
+
+| 1. | bojínek luční |
+|---|---|
+| 2. | festulolium |
+| 3. | jetel luční |
+| 4. | jílek vyjma hybridního |
+| 5. | kmín |
+| 6. | komonice |
+| 7. | kostřava červená, luční |
+| 8. | kozinec |
+| 9. | lupina bílá, úzkolistá, žlutá |
+| 10. | pískavice |
+| 11. | ptačí noha |
+| 12. | srha laločnatá (říznačka) |
+| 13. | štírovník růžkatý |
+
+### Příloha č. 13 k nařízení vlády č. 73/2023 Sb.
+
+#### Hodnocení porušení požadavků podle § 3
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">1.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Došlo k nakládání s povrchovými nebo podzemními vodami bez povolení nebo v rozporu s podmínkami uvedenými v povolení.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Došlo k nakládání s povrchovými nebo podzemními vodami bez povolení nebo v rozporu s podmínkami uvedenými v povolení.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 2</td></tr><tr><td rowspan="10">1.2.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Došlo k vypouštění odpadních vod do povrchových nebo podzemních vod bez povolení.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Došlo k vypouštění odpadních vod do povrchových nebo podzemních vod bez povolení.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 3 písm. b)</td></tr><tr><td rowspan="10">1.3.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Žadatel nepředložil schválený aktuální havarijní plán nebo neprováděl záznamy o provedených opatřeních a tyto neuchoval po stanovenou dobu 5 let.</td></tr><tr><td>Střední</td><td>Došlo k porušení podmínek v jednom případě.</td></tr><tr><td>Velký</td><td>Došlo k porušení podmínek ve dvou a více případech.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Žadatel nepředložil schválený aktuální havarijní plán nebo neprováděl záznamy o provedených opatřeních a tyto neuchoval po stanovenou dobu 5 let.</td></tr><tr><td>Střední</td><td>Došlo k ohrožení povrchových nebo podzemních vod nebo okolí, které není viditelné.</td></tr><tr><td>Velká</td><td>Došlo k viditelnému ohrožení nebo znečištění povrchových nebo podzemních vod nebo okolí.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 3 písm. a)</td></tr><tr><td rowspan="10">1.4.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Došlo k porušení podmínek v jednom případě anebo došlo k aplikaci závadných látek na ploše do 5 hektarů včetně.</td></tr><tr><td>Střední</td><td>Došlo k porušení podmínek ve dvou případech anebo došlo k aplikaci závadných látek na ploše od 5 do 10 hektarů včetně.</td></tr><tr><td>Velký</td><td>Došlo k porušení podmínek ve třech a více případech anebo došlo k aplikaci závadných látek na ploše nad 10 hektarů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Došlo k porušení podmínky § 8 odst. 5 zákona č. 156/1998 Sb. nebo § 6 odst. 5 vyhlášky č. 377/2013 Sb.</td></tr><tr><td>Střední</td><td>Došlo k ohrožení povrchových nebo podzemních vod nebo okolí, které není viditelné.</td></tr><tr><td>Velká</td><td>Došlo k viditelnému ohrožení nebo znečištění povrchových nebo podzemních vod nebo okolí.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 3 písm. a)</td></tr><tr><td rowspan="10">1.5.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nebyl předložen aktuální schválený havarijní plán nebo nebyl předložen program použití kalů, případně nebyl aktuální anebo nebyl uchováván po stanovenou dobu.</td></tr><tr><td>Střední</td><td>Došlo k porušení podmínek v jednom případě nebo došlo k aplikaci závadných látek na ploše do 10 hektarů včetně.</td></tr><tr><td>Velký</td><td>Došlo k porušení podmínek ve dvou a více případech nebo došlo k aplikaci závadných látek na ploše nad 10 hektarů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Nebyl předložen aktuální schválený havarijní plán nebo nebyl předložen program použití kalů, případně nebyl aktuální anebo nebyl uchováván po stanovenou dobu.</td></tr><tr><td>Střední</td><td>Došlo k ohrožení povrchových nebo podzemních vod nebo okolí, které není viditelné.</td></tr><tr><td>Velká</td><td>Došlo k viditelnému ohrožení nebo znečištění povrchových nebo podzemních vod nebo okolí.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">1.6.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Technické zabezpečení 1 skladovacího prostoru pro skladování závadných látek obsahujících fosforečnany nebo jejich použitých obalů neodpovídá požadavkům zákona o hnojivech a související vyhlášky.</td></tr><tr><td>Střední</td><td>Technické zabezpečení 2 skladovacích prostorů pro skladování závadných látek obsahujících fosforečnany nebo jejich použitých obalů neodpovídá požadavkům zákona o hnojivech a související vyhlášky.</td></tr><tr><td>Velký</td><td>Technické zabezpečení 3 a více skladovacích prostorů pro skladování závadných látek obsahujících fosforečnany nebo jejich použitých obalů neodpovídá požadavkům zákona o hnojivech a souvisejících vyhlášky.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Skladovací prostory vykazují nedostatky, ale nedošlo k úniku skladovaných závadných látek.</td></tr><tr><td>Střední</td><td>Došlo k úniku skladovaných závadných látek do okolí bez viditelného nebo prokázaného ohrožení nebo znečištění povrchových nebo podzemních vod.</td></tr><tr><td>Velká</td><td>Došlo k úniku skladovaných závadných látek do vodního zdroje a bylo konstatováno viditelné nebo prokazatelné znečištění povrchových nebo podzemních vod.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">1.7.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Technické zabezpečení 1 skladovacího prostoru pro skladování závadných látek obsahujících fosforečnany nebo jejich použitých obalů neodpovídá požadavkům vyhlášky č. 273/2021 Sb.</td></tr><tr><td>Střední</td><td>Technické zabezpečení 2 skladovacích prostorů pro skladování závadných látek obsahujících fosforečnany nebo jejich použitých obalů neodpovídá požadavkům vyhlášky č. 273/2021 Sb.</td></tr><tr><td>Velký</td><td>Technické zabezpečení 3 a více skladovacích prostorů pro skladování závadných látek obsahujících fosforečnany nebo jejich použitých obalů neodpovídá požadavkům vyhlášky č. 273/2021 Sb.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Skladovací prostory vykazují nedostatky, ale nedošlo k úniku skladovaných závadných látek.</td></tr><tr><td>Střední</td><td>Došlo k úniku skladovaných závadných látek do okolí bez viditelného nebo prokázaného ohrožení nebo znečištění povrchových nebo podzemních vod.</td></tr><tr><td>Velká</td><td>Došlo k úniku skladovaných závadných látek do vodního zdroje a bylo konstatováno viditelné nebo prokazatelné znečištění povrchových nebo podzemních vod.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">1.8.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Technické zabezpečení 1 skladovacího prostoru pro skladování závadných látek obsahujících fosforečnany nebo jejich použitých obalů neodpovídá požadavkům vodního zákona.</td></tr><tr><td>Střední</td><td>Technické zabezpečení 2 skladovacích prostorů pro skladování závadných látek obsahujících fosforečnany nebo jejich použitých obalů neodpovídá požadavkům vodního zákona.</td></tr><tr><td>Velký</td><td>Technické zabezpečení 3 a více skladovacích prostorů pro skladování závadných látek obsahujících fosforečnany nebo jejich použitých obalů neodpovídá požadavkům vodního zákona.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Skladovací prostory vykazují nedostatky, ale nedošlo k úniku skladovaných závadných látek.</td></tr><tr><td>Střední</td><td>Došlo k úniku skladovaných závadných látek do okolí bez viditelného nebo prokázaného ohrožení nebo znečištění povrchových nebo podzemních vod.</td></tr><tr><td>Velká</td><td>Došlo k úniku skladovaných závadných látek do vodního zdroje a bylo konstatováno viditelné nebo prokazatelné znečištění povrchových nebo podzemních vod.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 3 písm. c)</td></tr><tr><td rowspan="10">1.9.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zkoušky těsnosti nebyly provedeny v požadovaných intervalech.</td></tr><tr><td>Střední</td><td>Nebyly provedeny žádné zkoušky těsnosti.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Zkoušky těsnosti nebyly provedeny v požadovaných intervalech.</td></tr><tr><td>Střední</td><td>Nebyly provedeny žádné zkoušky těsnosti.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td></td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">1.10.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Kontrolní systém není vybudován nebo provozován u 1 skladu.</td></tr><tr><td>Střední</td><td>Kontrolní systém není vybudován nebo provozován u 2 skladů.</td></tr><tr><td>Velký</td><td>Kontrolní systém není vybudován nebo provozován u 3 a více skladů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Kontrolní systém je vybudován, ale není provozován nebo není funkční.</td></tr><tr><td>Střední</td><td>Kontrolní systém není vybudován.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">2.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 5 hektarů včetně, pro kterou platí období zákazu hnojení.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 5 do10 hektarů včetně, pro kterou platí období zákazu hnojení.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 10 hektarů, pro kterou platí období zákazu hnojení.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Použití dusíkatých hnojivých látek do 20 kg N/hektar včetně.</td></tr><tr><td>Střední</td><td>Použití dusíkatých hnojivých látek od 20 do 40 kg N/hektar včetně.</td></tr><tr><td>Velká</td><td>Použití dusíkatých hnojivých látek nad 40 kg N/hektar.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 1, poř. číslo požadavku 1</td></tr><tr><td rowspan="10">2.2.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Limit nebyl dodržen na ploše do 20 hektarů včetně.</td></tr><tr><td>Střední</td><td>Limit nebyl dodržen na ploše od 20 do 50 hektarů včetně.</td></tr><tr><td>Velký</td><td>Limit nebyl dodržen na ploše nad 50 hektarů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Překročení limitu do 20 kg N/hektar včetně</td></tr><tr><td>Střední</td><td>Překročení limitu od 20 do 40 kg N/hektar včetně.</td></tr><tr><td>Velká</td><td>Překročení limitu nad 40 kg N/hektar.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 1, poř. číslo požadavku 2</td></tr><tr><td rowspan="10">2.3.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Limit nebyl dodržen na ploše do 20 hektarů včetně.</td></tr><tr><td>Střední</td><td>Limit nebyl dodržen na ploše od 20 do 50 hektarů včetně.</td></tr><tr><td>Velký</td><td>Limit nebyl dodržen na ploše nad 50 hektarů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Překročení limitu do 20 kg N/hektar včetně.</td></tr><tr><td>Střední</td><td>Překročení limitu od 20 do 40 kg N/hektar včetně.</td></tr><tr><td>Velká</td><td>Překročení limitu nad 40 kg N/hektar.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 1, poř. číslo požadavku 3</td></tr><tr><td rowspan="10">2.4.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Kapacita skladovacích prostor neodpovídá požadavkům stanoveným v právních předpisech.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Chybí do 10 % skladovacích prostor včetně.</td></tr><tr><td>Střední</td><td>Chybí od 10 do 20 % skladovacích prostor včetně.</td></tr><tr><td>Velká</td><td>Chybí nad 20 % skladovacích prostor.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 1, poř. číslo požadavku 4</td></tr><tr><td rowspan="10">2.5.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 5 hektarů pozemků včetně se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo<br>s ochranným pásmem vodního zdroje 1. stupně.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 5 do 10 hektarů pozemků včetně se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 10 hektarů pozemků se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně, v délce do 25 metrů včetně.</td></tr><tr><td>Střední</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně, v délce 26 až 50 metrů včetně.</td></tr><tr><td>Velká</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně, v délce nad 50 metrů.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 1, poř. číslo požadavku 5</td></tr><tr><td rowspan="10">2.6.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Hnojení bylo provedeno na ploše ochranného pásu 3 metrů od břehové čáry.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Hnojení bylo provedeno na ploše ochranného pásu 3 metrů od břehové čáry.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 1, poř. číslo požadavku 6</td></tr><tr><td rowspan="10">2.7.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Zákaz používání dusíkatých hnojivých látek na půdu zaplavenou, přesycenou vodou, promrzlou nebo pokrytou sněhem nebyl dodržen.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Zákaz používání dusíkatých hnojivých látek na půdu zaplavenou, přesycenou vodou, promrzlou nebo pokrytou sněhem nebyl dodržen.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 1, poř. číslo požadavku 7</td></tr><tr><td rowspan="10">2.8.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Technické zabezpečení 1 skladovacího prostoru pro skladování statkových hnojiv neodpovídá požadavkům vodního zákona.</td></tr><tr><td>Střední</td><td>Technické zabezpečení 2 skladovacích prostorů pro skladování statkových hnojiv neodpovídá požadavkům vodního zákona.</td></tr><tr><td>Velký</td><td>Technické zabezpečení 3 a více skladovacích prostorů pro skladování statkových hnojiv neodpovídá požadavkům vodního zákona.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Skladovací prostory vykazují nedostatky, ale nedošlo k úniku závadných látek ze skladovaných statkových hnojiv.</td></tr><tr><td>Střední</td><td>Došlo k úniku závadných látek ze skladovaných statkových hnojiv do okolí bez viditelného nebo prokázaného ohrožení nebo znečištění povrchových nebo podzemních vod.</td></tr><tr><td>Velká</td><td>Došlo k úniku závadných látek ze skladovaných statkových hnojiv do vodního zdroje a bylo konstatováno viditelné nebo prokazatelné znečištění povrchových nebo podzemních vod.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 1, poř. číslo požadavku 8</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">3.1.</td><td>Rozsah</td><td>Malý</td><td>Nedovolený škodlivý zásah na ploše do 20 % rozlohy včetně, která mohla být na kontrolovaném úseku dotčena.</td></tr><tr><td rowspan="2"></td><td>Střední</td><td>Nedovolený škodlivý zásah na ploše od 20 % do 50 % rozlohy včetně, která mohla být na kontrolovaném úseku dotčena.</td></tr><tr><td>Velký</td><td>Nedovolený škodlivý zásah na ploše nad 50 % rozlohy, která mohla být na kontrolovaném úseku dotčena.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Zásah, u kterého lze očekávat návrat do původního stavu samovolným vývojem.</td></tr><tr><td>Střední</td><td>Zásah, u kterého je návrat do původního stavu možný pouze po provedení opatření, směřujících ke zmírnění následků.</td></tr><tr><td>Velká</td><td>Zásah, u kterého ani provedení zmírňujících opatření nepovede k návratu do původního stavu.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 2, poř. číslo požadavku 1</td></tr><tr><td rowspan="10">3.2.</td><td>Rozsah</td><td>Malý</td><td>Závažné poškození nebo zničení maximálně 2 kusů stromů ze skupiny dřevin nebo likvidace maximálně 10 % zapojeného porostu dřevin.</td></tr><tr><td rowspan="2"></td><td>Střední</td><td>Závažné poškození nebo zničení 3 až 10 kusů stromů a zároveň maximálně 1/3 jejich počtu ze skupiny dřevin, nebo maximálně 3 kusů solitérních stromů nebo likvidace maximálně 50 % plochy zapojeného porostu dřevin.</td></tr><tr><td>Velký</td><td>Závažné poškození nebo zničení více než 10 kusů stromů nebo více než 1/3 jejich počtu ze skupiny dřevin nebo více než 3 kusů solitérních stromů nebo likvidace více než 50 % plochy zapojeného porostu dřevin.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Poškození nebo zničení dřevin mimo vegetační období dřevin.</td></tr><tr><td>Střední</td><td>Poškození nebo zničení dřevin ve vegetačním období dřevin, ale nikoliv v době předpokládaného hnízdění ptactva.</td></tr><tr><td>Velká</td><td>Poškození nebo zničení dřevin ve vegetačním období dřevin a v době předpokládaného hnízdění ptactva.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 2, poř. číslo požadavku 2</td></tr><tr><td rowspan="10">3.3.</td><td>Rozsah</td><td>Malý</td><td>Porušení se týká jednotlivého hnízda, jedince nebo území o velikosti do 30 % rozlohy hnízdiště včetně, které mohlo být dotčeno.</td></tr><tr><td rowspan="2"></td><td>Střední</td><td>Porušení se týká většího množství hnízd, jedinců nebo území o velikosti nad 30 % rozlohy hnízdiště, které mohlo být dotčeno.</td></tr><tr><td>Velký</td><td>Zničení hnízdní kolonie nebo usmrcení velkého počtu jedinců nebo zničení hnízdiště, které mohlo být dotčeno.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Zničení užívaného hnízda mimo hnízdní období nebo rušení nebo jiný škodlivý zásah do přirozeného vývoje, při němž ale není ohrožena hnízdní sezóna cílového druhu.</td></tr><tr><td>Střední</td><td>Zničení užívaného hnízda v hnízdním období, usmrcení jedince nebo takový škodlivý zásah do přirozeného vývoje, při němž je ohrožena hnízdní sezóna, zároveň ale nedojde k ohrožení místní populace cílového druhu.</td></tr><tr><td>Velká</td><td>Záměrné zničení obsazeného hnízda, nebo takový škodlivý zásah do přirozeného vývoje, při němž je ohrožena místní populace cílového druhu.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 2, poř. číslo požadavku 3</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">4.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Porušení na území o velikosti do 30 % rozlohy předpokládaného výskytu předmětu ochrany včetně.</td></tr><tr><td>Střední</td><td>Porušení na území o velikosti nad 30 % rozlohy předpokládaného výskytu předmětu ochrany, ale nevylučující jeho výskyt.</td></tr><tr><td>Velký</td><td>Porušení vylučující výskyt předmětu ochrany na příslušném území.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Zásah, po kterém lze očekávat návrat do původního stavu samovolným vývojem.</td></tr><tr><td>Střední</td><td>Zásah, po kterém je návrat do původního stavu možný pouze po provedení opatření, směřujících ke zmírnění následků.</td></tr><tr><td>Velká</td><td>Zásah, po kterém ani provedení zmírňujících opatření nepovede k návratu do původního stavu.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 3, poř. číslo požadavku 1</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">5.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Potravina nesplňující limity byla zjištěna u provozovatele potravinářského podniku s místní působností, nebo v šarži do 100 kg nebo do 100 litrů nebo do 500 kusů včetně.</td></tr><tr><td>Střední</td><td>Potravina nesplňující limity byla zjištěna u provozovatele potravinářského podniku s regionální působností, nebo v šarži do 1000 kg nebo do 1000 litrů nebo do 2000 kusů včetně.</td></tr><tr><td>Velký</td><td>Potravina nesplňující limity byla zjištěna u provozovatele potravinářského podniku s celostátní nebo nadnárodní působností, nebo v šarži nad 1000 kg nebo nad 1000 litrů nebo nad 2000 kusů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Provozovatel potravinářského podniku uvedl na trh potravinu nevhodnou k lidské spotřebě.</td></tr><tr><td>Velká</td><td>Provozovatel potravinářského podniku uvedl na trh potravinu škodlivou pro zdraví.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 1</td></tr><tr><td rowspan="10">5.2.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nevyhovující potravina byla zjištěna u provozovatele potravinářského podniku s místní působností, nebo v šarži do 100 kg nebo do 100 litrů nebo do 500 kusů včetně.</td></tr><tr><td>Střední</td><td>Nevyhovující potravina byla zjištěna u provozovatele potravinářského podniku s regionální působností, nebo v šarži do 1000 kg nebo do 1000 litrů nebo do 2000 kusů včetně.</td></tr><tr><td>Velký</td><td>Nevyhovující potravina byla zjištěna u provozovatele potravinářského podniku s celostátní nebo nadnárodní působností, nebo v šarži nad 1000 kg nebo nad 1000 litrů nebo nad 2000 kusů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Provozovatel potravinářského podniku uvedl na trh potravinu nevhodnou k lidské spotřebě.</td></tr><tr><td>Velká</td><td>Provozovatel potravinářského podniku uvedl na trh potravinu škodlivou pro zdraví.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 2</td></tr><tr><td rowspan="10">5.3.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nebylo zabráněno kontaminaci u provozovatele potravinářského podniku s místní působností, nebo v šarži u potraviny do 100 kg nebo do 100 litrů nebo do 500 kusů včetně.</td></tr><tr><td>Střední</td><td>Nebylo zabráněno kontaminaci u provozovatele potravinářského podniku s regionální působností, nebo v šarži u potraviny do 1000 kg nebo do 1000 litrů nebo do 2000 kusů včetně.</td></tr><tr><td>Velký</td><td>Nebylo zabráněno kontaminaci u provozovatele potravinářského podniku s celostátní nebo nadnárodní působností, nebo v šarži u potraviny nad 1000 kg nebo nad 1000 litrů nebo nad 2000 kusů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Provozovatel potravinářského podniku splňuje požadavky potravinového práva, ale neprovádí pravidelnou kontrolu tohoto plnění.</td></tr><tr><td>Střední</td><td>Provozovatel potravinářského podniku nedodržuje všechny požadavky potravinového práva, ale tato porušení nemají vliv na bezpečnost potravin.</td></tr><tr><td>Velká</td><td>Nedodržováním požadavků potravinového práva je přímo ohrožena bezpečnost potravin.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 3</td></tr><tr><td rowspan="10">5.4.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nelze identifikovat dodavatele, který dodal suroviny a látky v množství do 1 % hmotnosti vyrobené šarže včetně.</td></tr><tr><td>Střední</td><td>Nelze identifikovat dodavatele, který dodal suroviny a látky v množství od 1 % do 25 % hmotnosti vyrobené šarže včetně.</td></tr><tr><td>Velký</td><td>Nelze identifikovat dodavatele, který dodal suroviny a látky v množství nad 25 % hmotnosti vyrobené šarže.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Provozovatel potravinářského podniku uvedl na trh potraviny, z jejichž podstaty nebo způsobu použití nevyplývá riziko poškození zdraví spotřebitelů, potravina je vhodná k lidské spotřebě.</td></tr><tr><td>Střední</td><td>Provozovatel potravinářského podniku uvedl na trh potraviny nevhodné k lidské spotřebě.</td></tr><tr><td>Velká</td><td>Provozovatel potravinářského podniku uvedl na trh potraviny škodlivé pro zdraví.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 4</td></tr><tr><td rowspan="10">5.5.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nelze identifikovat odběratele, který odebral množství do 1 % hmotnosti vyrobené šarže produktu včetně.</td></tr><tr><td>Střední</td><td>Nelze identifikovat odběratele, který odebral množství od 1 % do 25 % hmotnosti vyrobené šarže produktu včetně.</td></tr><tr><td>Velký</td><td>Nelze identifikovat odběratele, který odebral množství nad 25 % hmotnosti vyrobené šarže produktu.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Provozovatel potravinářského podniku uvedl na trh potraviny, z jejichž podstaty nebo způsobu použití nevyplývá riziko poškození zdraví spotřebitelů, potravina je vhodná k lidské spotřebě.</td></tr><tr><td>Střední</td><td>Provozovatel potravinářského podniku uvedl na trh potraviny nevhodné k lidské spotřebě.</td></tr><tr><td>Velká</td><td>Provozovatel potravinářského podniku uvedl na trh potraviny škodlivé pro zdraví.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 5</td></tr><tr><td rowspan="10">5.6.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nelze identifikovat do 10 % hmotnosti vyrobené šarže produktu včetně.</td></tr><tr><td>Střední</td><td>Nelze identifikovat od 10 do 50 % hmotnosti vyrobené šarže produktu včetně.</td></tr><tr><td>Velký</td><td>Nelze identifikovat nad 50 % hmotnosti vyrobené šarže produktu.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Provozovatel potravinářského podniku uvedl na trh potraviny, z jejichž podstaty nebo způsobu použití nevyplývá riziko poškození zdraví spotřebitelů, potravina je vhodná k lidské spotřebě.</td></tr><tr><td>Střední</td><td>Provozovatel potravinářského podniku uvedl na trh potraviny nevhodné k lidské spotřebě.</td></tr><tr><td>Velká</td><td>Provozovatel potravinářského podniku uvedl na trh potraviny škodlivé pro zdraví.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 6</td></tr><tr><td rowspan="10">5.7.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Prodleva od zjištění do splnění informačních povinností je 1 až 2 kalendářní dny.</td></tr><tr><td>Střední</td><td>Prodleva od zjištění do splnění informačních povinností je 3 až 7 kalendářních dní.</td></tr><tr><td>Velký</td><td>Prodleva od zjištění do splnění informačních povinností je více než 7 kalendářních dní.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Provozovatel potravinářského podniku uvedl na trh potravinu nevhodnou k lidské spotřebě.</td></tr><tr><td>Velká</td><td>Provozovatel potravinářského podniku uvedl na trh potravinu škodlivou pro zdraví.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 7</td></tr><tr><td rowspan="10">5.8.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Během výroby, zpracování nebo distribuce krmiv nebyly dodrženy požadavky na bezpečnost krmiv.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Nebezpečné krmivo bylo zkrmováno nebo uvedeno na trh.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">5.9.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nebyly dodrženy pokyny při používání povolených forem krmiv.</td></tr><tr><td>Střední</td><td>Byly použity nepovolené formy krmiv, ale byly dodrženy pokyny jejich použití.</td></tr><tr><td>Velký</td><td>Byly použity nepovolené formy krmiv a nebyly dodrženy pokyny jejich použití.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Krmivo nebylo zkrmováno.</td></tr><tr><td>Velká</td><td>Krmivo bylo zkrmováno.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">5.10.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedostatky v 1 záznamu.</td></tr><tr><td>Střední</td><td>Nedostatky ve 2 a více záznamech.</td></tr><tr><td>Velký</td><td>Záznamy nevedeny.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Nedostatky v záznamech nebrání dohledatelnosti krmiva.</td></tr><tr><td>Střední</td><td>Nedostatky v záznamech neumožňují dohledatelnost krmiva.</td></tr><tr><td>Velká</td><td>Nedostatky v záznamech neumožňují identifikaci krmiva.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 8</td></tr><tr><td rowspan="10">5.11.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Závadné skladování krmiva o hmotnosti do 1 tuny včetně.</td></tr><tr><td>Střední</td><td>Závadné skladování krmiva o hmotnosti 1 až 10 tun včetně.</td></tr><tr><td>Velký</td><td>Závadné skladování krmiva o hmotnosti nad 10 tun.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Ve skladu krmiv jsou přítomny nebezpečné látky nebo materiály, riziku kontaminace krmiv tak není předcházeno.</td></tr><tr><td>Střední</td><td>Krmivo ve skladu krmiv je kontaminováno nebezpečnými látkami nebo materiály.</td></tr><tr><td>Velká</td><td>Kontaminované krmivo je používáno ke krmení zvířat nebo je uváděno na trh.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 9</td></tr><tr><td rowspan="10">5.12.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Výsledky analýz nebyly zohledňovány v jednom případě.</td></tr><tr><td>Velký</td><td>Výsledky analýz nebyly zohledňovány opakovaně.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Nejsou zohledněny výsledky analýz vzorků krmiv.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 9</td></tr><tr><td rowspan="10">5.13.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedostatky v 1 záznamu.</td></tr><tr><td>Střední</td><td>Nedostatky ve 2 a více záznamech.</td></tr><tr><td>Velký</td><td>Záznamy nevedeny.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Záznamy nevedeny, případně nebyly dostatečné.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 10</td></tr><tr><td rowspan="10">5.14.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nevyčištěné zařízení nebo pomůcky použité pro přípravu nebo zkrmení medikovaného krmiva ohrozily bezpečnost jiného, necílového krmiva.</td></tr><tr><td>Střední</td><td>Nevhodné skladování nebo zacházení s medikovaným krmivem ohrozilo bezpečnost jiného, necílového krmiva.</td></tr><tr><td>Velký</td><td>V provozu je zjištěno krmivo s rizikem kontaminace léčivem, určené ke krmení zvířat nebo k uvedení na trh.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Krmivo s rizikem kontaminace léčivem nebylo zkrmováno.</td></tr><tr><td>Velká</td><td>Krmivo s rizikem kontaminace léčivem bylo zkrmováno.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 11</td></tr><tr><td rowspan="10">5.15.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Byl zjištěn jednorázový odběr krmiva z neregistrovaného provozu.</td></tr><tr><td>Střední</td><td>Provozovatel opakovaně odebral krmiva z neregistrovaného provozu.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Krmivo z neregistrovaného provozu bylo použito výhradně pro potřeby svých vlastních hospodářství.</td></tr><tr><td>Velká</td><td>Krmivo z neregistrovaného provozu bylo použito za účelem výroby krmiv uváděných na trh.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 11</td></tr><tr><td rowspan="10">5.16.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Ochranná lhůta nebyla dodržena v jednom případě.</td></tr><tr><td>Velký</td><td>Ochranná lhůta nebyla dodržována opakovaně ve dvou a více případech.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Jedná se o porušení střední závažnosti.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">5.17.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Provozovatel přijal opatření ve svém provozu nebo předal informace odběratelům závadné šarže krmiva s neodůvodněným prodlením.</td></tr><tr><td>Střední</td><td>Provozovatel nepředal informace odběratelům závadné šarže krmiva.</td></tr><tr><td>Velký</td><td>Provozovatel neučinil žádné opatření k zabránění šíření nebo zkrmování nebezpečného krmiva.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Zkrmování nebezpečného krmiva bezprostředně neohrozilo zdraví zvířat.</td></tr><tr><td>Střední</td><td>Zkrmování nebezpečného krmiva mohlo ohrozit zdravotní stav zvířat.</td></tr><tr><td>Velká</td><td>Nebezpečné krmivo mohlo ohrozit zdraví jatečných zvířat nebo bezpečnost získaných potravin.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">5.18.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Záznamy o léčbě nejsou vedeny v rozsahu stanoveném právními předpisy.</td></tr><tr><td>Velký</td><td>Na jatka byla dodána zvířata nebo byly do oběhu uvedeny produkty pocházející ze zvířat, kterým nebyly podány léčivé přípravky v souladu s platnými právními předpisy anebo nebyly dodrženy ochranné lhůty. Veterinární léčivé přípravky nebyly použity v souladu s platnými právními předpisy a pravidly pro jejich používání.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Záznamy o léčbě nejsou vedeny v rozsahu stanoveném právními předpisy.</td></tr><tr><td>Velká</td><td>Na jatka byla dodána zvířata nebo byly do oběhu uvedeny produkty pocházející ze zvířat, kterým nebyly podány léčivé přípravky v souladu s platnými právními předpisy anebo nebyly dodrženy ochranné lhůty. Veterinární léčivé přípravky nebyly použity v souladu s platnými právními předpisy a pravidly pro jejich používání.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelná porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 13</td></tr><tr><td rowspan="10">5.19.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Mléko bylo dodáno bez souhlasu krajské veterinární správy v době, kdy mělo hospodářství pozastavený nebo odebraný status.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Veškeré mléko je dodáváno k mlékárenskému ošetření.</td></tr><tr><td>Velká</td><td>Mléko je dodáváno přímo konečnému spotřebiteli.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelná porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 15</td></tr><tr><td rowspan="10">5.20.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Záznamy o zvířatech vyřazených z dojení jsou vedeny, ale kontrolou byly zjištěny nesrovnalosti.</td></tr><tr><td>Velký</td><td>Záznamy o zvířatech vyřazených z dojení nejsou vedeny a je dodáváno mléko od zvířat, která ze zdravotního hlediska nesplňují podmínky pro dodávku mléka.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Veškeré mléko je dodáváno k mlékárenskému ošetření.</td></tr><tr><td>Velká</td><td>Mléko je dodáváno přímo konečnému spotřebiteli.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelná porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 16</td></tr><tr><td rowspan="10">5.21.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zařízení k dojení a prostory pro skladování nejsou dostatečně chráněny proti škůdcům, nejsou odděleny od prostor se zvířaty; konstrukce zařízení k dojení a prostory pro skladování dostatečně nezajistí omezení rizika kontaminace, zařízení k dojení a prostory k získávání a skladování mléka jsou nedostatečně čištěny a sanitovány; jsou zjišťovány drobné nedostatky v čištění a sanitaci.</td></tr><tr><td>Střední</td><td>Zařízení k dojení a prostory nejsou vůbec chráněny proti škůdcům a nejsou dostatečně čištěny a sanitovány.</td></tr><tr><td>Velký</td><td>x.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Veškeré mléko je dodáváno k mlékárenskému ošetření.</td></tr><tr><td>Velká</td><td>Mléko je dodáváno přímo konečnému spotřebiteli.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelná porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 17</td></tr><tr><td rowspan="10">5.22.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Povrchy zařízení vykazují mírné poškození; zařízení jsou nedostatečně čištěna a sanitována. Jsou zjišťovány drobné nedostatky v čištění a sanitaci zařízení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Zařízení vykazuje rozsáhlé poškození vylučující jeho řádnou sanitaci; je zjištěno nedostatečné čištění a sanitace zařízení přicházející do styku s mlékem.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Veškeré mléko je dodáváno k mlékárenskému ošetření.</td></tr><tr><td>Velká</td><td>Mléko je dodáváno přímo konečnému spotřebiteli.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelná porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 17</td></tr><tr><td rowspan="10">5.23.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Před dojením nejsou vhodným způsobem očištěny struky. U personálu jsou zjištěny drobné nedostatky v hygieně.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Vemena jsou špinavá, nebo jsou pro strukové koupele nebo postřiky použity látky neschválené nebo neregistrované, k lidské spotřebě bylo použito mléko nebo mlezivo od zvířat v ochranné lhůtě; u personálu jsou zjištěna hrubá porušení v osobní hygieně. Mléko nebylo před dojením, v jiné než automatické dojírně, organolepticky zkontrolováno, mlezivo bylo smícháno se syrovým mlékem.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Veškeré mléko je dodáváno k mlékárenskému ošetření.</td></tr><tr><td>Velká</td><td>Mléko je dodáváno přímo konečnému spotřebiteli.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelná porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 17</td></tr><tr><td rowspan="10">5.24.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>V prostorech pro skladování mléka není dostatečné chladící zařízení.</td></tr><tr><td>Střední</td><td>Mléko a mlezivo není uchováváno na čistém místě a v mléce jsou zjištěny nežádoucí příměsi. Mléko není chlazeno, přestože není zpracováno do 2 hodin ani nebyl tento postup z technologických důvodů povolen krajskou veterinární správou. Během přepravy není zachován chladící řetězec.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Kravské mléko v množství do 500 litrů, kozí mléko v množství do 100 litrů nebo ovčí mléko v množství do 50 litrů nebylo ihned po nadojení zchlazeno na teplotu 8 °C, resp. 6 °C při obdenním svozu, pokud nebylo zpracováno do 2 hodin nebo pokud krajská veterinární správa nepovolila výjimku z technologických důvodů.</td></tr><tr><td>Velká</td><td>Kravské mléko v množství nad 500 litrů, kozí mléko v množství nad 100 litrů nebo ovčí mléko v množství nad 50 litrů nebylo ihned po nadojení zchlazeno na teplotu 8 °C, resp. 6 °C při obdenním svozu, pokud nebylo zpracováno do 2 hodin nebo pokud krajská veterinární správa nepovolila výjimku z technologických důvodů.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelná porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 17</td></tr><tr><td rowspan="10">5.25.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>V kontrolovaném množství se vyskytují vejce mírně znečištěná a při manipulaci nejsou chráněna proti otřesům a přímému slunečnímu světlu; zakázané látky byly podány jedinému zvířeti v chovu.</td></tr><tr><td>Střední</td><td>V kontrolovaném množství se vyskytují vejce silně znečištěná nebo vejce na povrchu vlhkánebo zapáchající, z důvodu nesprávného skladování například kolísání skladovací teploty; zakázané látky byly podány do 5 % ošetřených zvířat v chovu včetně.</td></tr><tr><td>Velký</td><td>V kontrolovaném množství se vyskytují vejce zkažená, plesnivá nebo rozbitá; zakázané látky byly podány nad 5 % ošetřených zvířat v chovu.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>V kontrolovaném množství je znečištění vajec zjištěno pouze ojediněle.</td></tr><tr><td>Střední</td><td>V kontrolovaném množství vajec je znečištění zjištěno u více než 20 % vajec.</td></tr><tr><td>Velká</td><td>V kontrolovaném množství jsou zjištěna vejce silně znečištěná a vlhká nebo více než 5 % vajec je zkažených nebo plesnivých nebo rozbitých; zvířatům chovaným k potravinářským účelům byly podány zakázané látky.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelná porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelná porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 4, poř. číslo požadavku 18</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">6.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zakázané látky byly podány jedinému zvířeti v chovu. Množství přípravků s obsahem látek s estrogenním, gestagenním nebo androgenním účinkem, v chovech zvířat, u kterých mohou být takové přípravky podávány, převyšuje dávky pro ošetření daných zvířat v příslušné léčebné kúře doložené úplnými záznamy.</td></tr><tr><td>Střední</td><td>Zakázané látky byly podány do 5 % ošetřených zvířat v chovu včetně.<br>Množství přípravků s obsahem látek s estrogenním, gestagenním nebo androgenním účinkem, v chovech zvířat, u kterých mohou být takové přípravky podávány, více než dvojnásobně převyšuje dávky pro ošetření daných zvířat v příslušné léčebné kúře doložené úplnými záznamy.</td></tr><tr><td>Velký</td><td>Zakázané látky byly podány nad 5 % ošetřených zvířat v chovu. Přítomnost thyreostatik nebo stilbenů v hospodářství a přítomnost přípravků s obsahem 17-beta estradiolu, beta agonistů, látek s androgenním, gestagenním nebo estrogenním působením v hospodářství, kde není povoleno jejich použití.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Zvířatům chovaným k potravinářským účelům byly podány zakázané látky. V hospodářství bylo zjištěno přechovávání zakázaných látek nebo přípravků.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 5, poř. číslo požadavku 1</td></tr><tr><td rowspan="10">6.2.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení ochranné lhůty do 1 % ošetřených zvířat v chovu včetně.</td></tr><tr><td>Střední</td><td>Nedodržení ochranné lhůty od 1 % do 10 % ošetřených zvířat v chovu včetně.</td></tr><tr><td>Velký</td><td>Nedodržení ochranné lhůty nad 10 % ošetřených zvířat v chovu.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Ochranné lhůty nebyly dodrženy.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 5, poř. číslo požadavku 3</td></tr><tr><td rowspan="10">6.3.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Pravidla pro zacházení se zakázanými látkami nebyla dodržena u 1 % zvířat v chovu včetně.</td></tr><tr><td>Střední</td><td>Pravidla pro zacházení se zakázanými látkami nebyla dodržena od 1 % do 10 % zvířat v chovu včetně.</td></tr><tr><td>Velký</td><td>Pravidla pro zacházení se zakázanými látkami nebyla dodržena u více než 10 % zvířat v chovu.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Bylo zjištěno neúplné vedení záznamů nebo záznamy nejsou dostupné na místě.</td></tr><tr><td>Střední</td><td>Přípravek, který měl aplikovat veterinární lékař, nebyl jím aplikován nebo zvířata nejsou dostatečně identifikována. Přípravek byl podán užitkovým zvířatům.</td></tr><tr><td>Velká</td><td>Ošetření bylo provedeno bez vědomí veterinárního lékaře, nebo chybí záznamy nebo nejsou úplné. Přípravek byl podán užitkovým zvířatům, jejichž produkty byly uvedeny do oběhu.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 5, poř. číslo požadavku 4</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">7.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Počet přípravků, které byly použity v rozporu s požadavky na ochranu podzemní vody, je 1 nebo 2.</td></tr><tr><td>Střední</td><td>Počet přípravků, které byly použity v rozporu s požadavky na ochranu podzemní vody, je 3 až 9.</td></tr><tr><td>Velký</td><td>Počet přípravků, které byly použity v rozporu s požadavky na ochranu podzemní vody, je 10 a více.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Aplikace přípravku nebyla provedena v souladu s požadavky na ochranu podzemní vody.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 1</td></tr><tr><td rowspan="10">7.2.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Na zemědělské půdě byl použit přípravek v rozporu s účelem jeho povoleného použití.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Na zemědělské půdě byl použit přípravek v rozporu s účelem jeho povoleného použití.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 2</td></tr><tr><td rowspan="10">7.3.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Mimo zemědělskou půdu došlo k použití přípravku v rozporu s účelem jeho povoleného použití, avšak v souvislosti se zemědělskou výrobou.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Mimo zemědělskou půdu došlo k použití přípravku v rozporu s účelem jeho povoleného použití, avšak v souvislosti se zemědělskou výrobou.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 2</td></tr><tr><td rowspan="10">7.4.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Při aplikaci přípravku došlo k překročení nejvyšší povolené dávky.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Při aplikaci přípravku došlo k překročení nejvyšší povolené dávky.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 3</td></tr><tr><td rowspan="10">7.5.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Přípravek byl použit v ochranném pásmu vodního zdroje v rozporu s pokyny k ochraně vod.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Přípravek byl použit v ochranném pásmu vodního zdroje v rozporu s pokyny k ochraně vod.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 4</td></tr><tr><td rowspan="10">7.6.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Počet přípravků, popř. směsi přípravků, směsi přípravku s hnojivem, nebo směsi přípravku s pomocným prostředkem nebo hnojivem, které byly použity v rozporu s požadavky na ochranu včel, je 1 nebo 2.</td></tr><tr><td>Střední</td><td>Počet přípravků, popř. směsi přípravků, směsi přípravku s hnojivem, nebo směsi přípravku s pomocným prostředkem nebo hnojivem, které byly použity v rozporu s požadavky na ochranu včel, je 3 až 9.</td></tr><tr><td>Velký</td><td>Počet přípravků, popř. směsi přípravků, směsi přípravku s hnojivem, nebo směsi přípravku s pomocným prostředkem nebo hnojivem, které byly použity v rozporu s požadavky na ochranu včel, je 10 a více.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Při aplikaci přípravku nebylo postupováno v souladu s požadavky na ochranu včel.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 5</td></tr><tr><td rowspan="10">7.7.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Při aplikaci přípravku nebylo postupováno v souladu s požadavky na ochranu suchozemských obratlovců.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Při aplikaci přípravku nebylo postupováno v souladu s požadavky na ochranu suchozemských obratlovců.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 5</td></tr><tr><td rowspan="10">7.8.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Došlo k zasažení pozemku mimo cílovou plochu, na které se prováděla aplikace přípravku.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Došlo k zasažení pozemku mimo cílovou plochu, na které se prováděla aplikace přípravku.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 6</td></tr><tr><td rowspan="10">7.9.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Počet přípravků, které byly použity v rozporu s požadavky na ochranu povrchové vody, je 1 nebo 2.</td></tr><tr><td>Střední</td><td>Počet přípravků, které byly použity v rozporu s požadavky na ochranu povrchové vody, je 3 až 9.</td></tr><tr><td>Velký</td><td>Počet přípravků, které byly použity v rozporu s požadavky na ochranu povrchové vody, je 10 a více.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Při aplikaci přípravku nebylo postupováno v souladu s požadavky na ochranu vodních organismů z hlediska ochranné vzdálenosti od povrchové vody.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 7</td></tr><tr><td rowspan="10">7.10.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Byl aplikován přípravek bez platného rozhodnutí o povolení.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Byl aplikován přípravek bez platného rozhodnutí o povolení.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 10, poř. číslo požadavku 8</td></tr><tr><td rowspan="10">7.11.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Při aplikaci přípravku nebylo postupováno v souladu s požadavky na ochranu zdraví lidí.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Při aplikaci přípravku nebylo postupováno v souladu s požadavky na ochranu zdraví lidí.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">7.12.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Po použití přípravku nebyla dodržena ochranná lhůta.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Po použití přípravku nebyla dodržena ochranná lhůta.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">7.13.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Počet přípravků na ochranu rostlin, u nichž došlo k překročení maximálního počtu ošetření v plodině, je 1 nebo 2.</td></tr><tr><td>Střední</td><td>Počet přípravků na ochranu rostlin, u nichž došlo k překročení maximálního počtu ošetření v plodině, je 3 až 9.</td></tr><tr><td>Velký</td><td>Počet přípravků na ochranu rostlin, u nichž došlo k překročení maximálního počtu ošetření v plodině, je 10 a více.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Došlo k překročení maximálního počtu ošetření v plodině.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">8.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Počet přípravků, které byly použity osobou bez odborné způsobilosti nebo po ukončení platnosti osvědčení o odborné způsobilosti pro nakládání s přípravky, je 1 nebo 2.</td></tr><tr><td>Střední</td><td>Počet přípravků, které byly použity osobou bez odborné způsobilosti nebo po ukončení platnosti osvědčení o odborné způsobilosti pro nakládání s přípravky, je 3 až 9.</td></tr><tr><td>Velký</td><td>Počet přípravků, které byly použity osobou bez odborné způsobilosti nebo po ukončení platnosti osvědčení o odborné způsobilosti pro nakládání s přípravky, je 10 a více.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Došlo k nakládání s přípravky osobou po ukončení platnosti osvědčení.</td></tr><tr><td>Velká</td><td>Došlo k nakládání s přípravky osobou bez odborné způsobilosti.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">8.2.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Počet přípravků, které byly použity zařízením pro aplikaci přípravků na ochranu rostlin bez kontrolního testování nebo po ukončení platnosti osvědčení o funkční způsobilosti zařízení pro aplikaci přípravků, je 1 nebo 2.</td></tr><tr><td>Střední</td><td>Počet přípravků, které byly použity zařízením pro aplikaci přípravků na ochranu rostlin bez kontrolního testování nebo po ukončení platnosti osvědčení o funkční způsobilosti zařízení pro aplikaci přípravků, je 3 až 9.</td></tr><tr><td>Velký</td><td>Počet přípravků, které byly použity zařízením pro aplikaci přípravků na ochranu rostlin bez kontrolního testování nebo po ukončení platnosti osvědčení o funkční způsobilosti zařízení pro aplikaci přípravků, je 10 a více.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Došlo k použití přípravku zařízením pro aplikaci přípravků na ochranu rostlin po ukončení platnosti osvědčení o funkční způsobilosti.</td></tr><tr><td>Velká</td><td>Došlo k použití přípravku zařízením pro aplikaci přípravků na ochranu rostlin bez kontrolního testování.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">8.3.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>V období mezi kontrolním testováním bylo použito zařízení pro aplikaci přípravků na ochranu rostlin bez předchozí technické kontroly a seřízení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x.</td></tr><tr><td>Střední</td><td>Došlo k použití zařízení pro aplikaci přípravků na ochranu rostlin bez předchozí technické kontroly a seřízení.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">8.4.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nebyly dodrženy postupy při přípravě aplikační kapaliny nebo čištění zařízení pro aplikaci přípravků na ochranu rostlin.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Při přípravě aplikační kapaliny nebo čištění zařízení pro aplikaci přípravků na ochranu rostlin nebyly dodrženy stanovené postupy.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">8.5.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nebyla vedena dokladová evidence o všech skladovaných přípravcích na ochranu rostlin a pomocných prostředcích.</td></tr><tr><td>Střední</td><td>Nebyla vedena žádná dokladová evidence o skladovaných přípravcích na ochranu rostlin a pomocných prostředcích.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Nebylo zajištěno při skladování přípravků na ochranu rostlin a pomocných prostředků průběžné vedení dokladové evidence o jejich příjmu a výdeji nebo o skladování přípravků na ochranu rostlin s prošlou dobou použitelnosti.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">8.6.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nebylo zabezpečeno skladování přípravků na ochranu rostlin a pomocných prostředků ve skladu s odpovídajícími technickými požadavky podle právních předpisů.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Sklad, kde byly skladovány přípravky na ochranu rostlin a pomocné prostředky, nesplňoval technické požadavky podle právních předpisů.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">8.7.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Povolené přípravky na ochranu rostlin a pomocné prostředky nebyly uskladněny odděleně v souladu s požadavky stanovenými právním předpisem, a to v rozsahu do 30 % včetně z celkového počtu skladovaných přípravků na ochranu rostlin a pomocných prostředků.</td></tr><tr><td>Střední</td><td>Povolené přípravky na ochranu rostlin a pomocné prostředky nebyly uskladněny odděleně v souladu s požadavky stanovenými právním předpisem, a to v rozsahu nad 30 % z celkového počtu skladovaných přípravků na ochranu rostlin a pomocných prostředků.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Povolené přípravky na ochranu rostlin a pomocné prostředky nebyly uskladněny odděleně v souladu s požadavky stanovenými právním předpisem.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">8.8.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nebylo zabezpečeno oddělené skladování přípravků na ochranu rostlin a pomocných prostředků s prošlou dobou použitelnosti nebo určených k vrácení dodavateli nebo nepovolených, a to v rozsahu do 30 % včetně z celkového počtu skladovaných přípravků na ochranu rostlin a pomocných prostředků.</td></tr><tr><td>Střední</td><td>Nebylo zabezpečeno oddělené skladování přípravků na ochranu rostlin a pomocných prostředků s prošlou dobou použitelnosti nebo určených k vrácení dodavateli nebo nepovolených, a to v rozsahu nad 30 % z celkového počtu skladovaných přípravků na ochranu rostlin a pomocných prostředků.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Skladované přípravky na ochranu rostlin a pomocné prostředky s prošlou dobou použitelnosti nebo určené k vrácení dodavateli nebo nepovolené nebyly uskladněny odděleně od ostatních skladovaných přípravků na ochranu rostlin a pomocných prostředků.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">8.9.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Ve skladu bylo skladováno v neoriginálním obalu s označením neodpovídajícím požadavkům právních předpisů do 30 % včetně z celkového počtu skladovaných přípravků na ochranu rostlin a pomocných prostředků.</td></tr><tr><td>Střední</td><td>Ve skladu bylo skladováno v neoriginálním obalu s označením neodpovídajícím požadavkům právních předpisů nad 30 % z celkového počtu skladovaných přípravků na ochranu rostlin a pomocných prostředků.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Byly skladovány přípravky na ochranu rostlin a pomocné prostředky určené k použití v neoriginálním obalu s označením neodpovídajícím požadavkům právních předpisů.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10">8.10</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>S odpady nebylo nakládáno v souladu se zákonem o odpadech.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Odpad nebyl uskladněn odděleně, nebyl zabezpečen před odcizením nebo únikem do doby předání osobě oprávněné k nakládání s odpady.</td></tr><tr><td>Střední</td><td>Odpad nebyl předán osobě oprávněné k nakládání s odpady.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">9.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zjištění se týká pouze jednoho telete.</td></tr><tr><td>Střední</td><td>V chovu bylo zjištěno do 10 % nemocných nebo poraněných telat včetně.</td></tr><tr><td>Velký</td><td>V chovu bylo zjištěno nad 10 % nemocných nebo poraněných telat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Kontrola není prováděna ve stanovené míře. Telata nebyla v případě potřeby umístěna do izolace. Nemocným nebo poraněným telatům nebyla chovatelem poskytnuta péče nebo nebyl přivolán veterinární lékař. Onemocnění nebo poranění neohrožuje telata na životě.</td></tr><tr><td>Velká</td><td>Kontrola není prováděna ve stanovené míře. Nemocným nebo poraněným telatům nebyla poskytnuta péče chovatelem nebo nebyl přivolán veterinární lékař. Onemocnění nebo poranění ohrožuje telata na životě anebo může vést k trvalému poškození zdraví anebo již k trvalému poškození zdraví nebo k úhynu v důsledku neposkytnutí péče došlo.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 11, poř. číslo požadavku 1</td></tr><tr><td rowspan="10">9.2.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>V chovu bylo zjištěno do 20 % telat včetně s náhubkem nebo dlouhodobě uvázaných.</td></tr><tr><td>Střední</td><td>V chovu bylo zjištěno od 20 % do 50 % telat včetně s náhubkem nebo dlouhodobě uvázaných.</td></tr><tr><td>Velký</td><td>V chovu bylo zjištěno nad 50 % telat s náhubkem nebo dlouhodobě uvázaných.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Není dodržován zákaz uvazování telat nebo zákaz používání náhubku u telat.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 11, poř. číslo požadavku 2</td></tr><tr><td rowspan="10">9.3.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Počet telat v nevyhovujících kotcích je do 20 % včetně.</td></tr><tr><td>Střední</td><td>Počet telat v nevyhovujících kotcích je od 20 do 50 % včetně.</td></tr><tr><td>Velký</td><td>Počet telat v nevyhovujících kotcích je nad 50 %.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Rozměry kotce neodpovídají požadavkům stanoveným právními předpisy nebo kotce neumožňují vizuální a hmatový kontakt mezi telaty.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 11, poř. číslo požadavku 3</td></tr><tr><td rowspan="10">9.4.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>V nevyhovujícím držení bylo zjištěno do 20 % telat včetně.</td></tr><tr><td>Střední</td><td>V nevyhovujícím držení bylo zjištěno od 20 % do 50 % telat včetně.</td></tr><tr><td>Velký</td><td>V nevyhovujícím držení bylo zjištěno nad 50 % telat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Ustájení telat neodpovídá požadavkům stanoveným právními předpisy.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 11, poř. číslo požadavku 4</td></tr><tr><td rowspan="10">9.5.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Podlahy nesplňují parametry stanovené právními předpisy nebo telata mladší dvou týdnů nemají vhodnou podestýlku. Prostor pro ležení není čistý a pohodlný. Čištění materiálu použitého k ustájení a údržba prostor, včetně řešení odtoku tekutin, nejsou zajištěny.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Podlahy nesplňují parametry stanovené právními předpisy nebo telata mladší dvou týdnů nemají vhodnou podestýlku. Prostor pro ležení není čistý a pohodlný. Čištění materiálu použitého k ustájení a údržba prostor, včetně řešení odtoku tekutin, nejsou zajištěny.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 11, poř. číslo požadavku 5</td></tr><tr><td rowspan="10">9.6.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Mlezivo nebylo podáno do 6 hodin, tele nebylo po porodu ošetřeno.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Mlezivo nebylo podáno do 6 hodin, tele nebylo po porodu ošetřeno.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 11, poř. číslo požadavku 6</td></tr><tr><td rowspan="10">9.7.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Požadavky na krmení telat nebyly dodrženy.</td></tr><tr><td>Velký</td><td>Telata jsou ve špatném výživovém stavu nebo došlo k úhynu telat v důsledku jejich podvýživy.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Požadavky na krmení telat nebyly dodrženy.</td></tr><tr><td>Velká</td><td>Telata jsou ve špatném výživovém stavu nebo došlo k úhynu telat v důsledku jejich podvýživy.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 11, poř. číslo požadavku 7</td></tr><tr><td rowspan="10">9.8.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Požadavky na napájení telat nebyly dodrženy.</td></tr><tr><td>Velký</td><td>U telat se projevují známky dehydratace nebo byly zjištěny úhyny v důsledku dehydratace.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Požadavky na napájení telat nebyly dodrženy.</td></tr><tr><td>Velká</td><td>U telat se projevují známky dehydratace nebo byly zjištěny úhyny v důsledku dehydratace.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 11, poř. číslo požadavku 8</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">10.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Požadavky na užití samostatných kotců u prasat nejsou dodrženy.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Požadavky na užití samostatných kotců u prasat nejsou dodrženy.</td></tr><tr><td>Velká</td><td>Požadavky na užití samostatných kotců u prasat nebyly dodrženy a důsledkem toho došlo ke zhoršení zdravotního stavu u prasat nemocných nebo<br>zraněných, k ohrožení prasat na životě nebo byla v důsledku včasného neoddělení agresora poraněna další prasata v kotci.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 1</td></tr><tr><td rowspan="10">10.2.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Na volné podlahové ploše nebo roštové podlaze, která neodpovídá požadavkům stanoveným právními předpisy, je chováno do 20 % prasat včetně.</td></tr><tr><td>Střední</td><td>Na volné podlahové ploše nebo roštové podlaze, která neodpovídá požadavkům stanoveným právními předpisy, je chováno od 20 % do 50 % prasat včetně.</td></tr><tr><td>Velký</td><td>Na volné podlahové ploše nebo roštové podlaze, která neodpovídá požadavkům stanoveným právními předpisy, je chováno nad 50 % prasat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Volná podlahová plocha nebo roštová podlaha neodpovídá požadavkům stanoveným právními předpisy.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 2</td></tr><tr><td rowspan="10">10.3.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>V chovu bylo zjištěno do 20 % prasat bez přístupu k dostatečnému množství materiálu pro etologické aktivity včetně.</td></tr><tr><td>Střední</td><td>V chovu bylo zjištěno od 20 % do 50 % prasat bez přístupu k dostatečnému množství materiálu pro etologické aktivity včetně.</td></tr><tr><td>Velký</td><td>V chovu bylo zjištěno více než 50 % prasat bez přístupu k dostatečnému množství materiálu pro etologické aktivity.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Etologické aktivity nejsou umožněny.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 3</td></tr><tr><td rowspan="10">10.4.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Požadavky na krmení a napájení nejsou dodrženy.</td></tr><tr><td>Velký</td><td>Prasata jeví známky dehydratace nebo jsou ve špatném výživovém stavu nebo na hospodářství došlo k úhynu prasat v důsledku dehydratace nebo špatného výživového stavu.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Požadavky na krmení a napájení nejsou dodrženy.</td></tr><tr><td>Velká</td><td>Prasata jeví známky dehydratace nebo jsou ve špatném výživovém stavu nebo na hospodářství došlo k úhynu prasat v důsledku dehydratace nebo špatného výživového stavu.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 4</td></tr><tr><td rowspan="10">10.5.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Vazné ustájení nebo postroje jsou používány do 20 % prasat včetně.</td></tr><tr><td>Střední</td><td>Vazné ustájení nebo postroje jsou používány od 20 do 50 % prasat včetně.</td></tr><tr><td>Velký</td><td>Vazné ustájení nebo postroje jsou používány nad 50 % prasat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Nedovolené vazné ustájení je používáno.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 5</td></tr><tr><td rowspan="10">10.6.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Způsobem, který neodpovídá požadavkům stanoveným právními předpisy, nebo v kotci, který nesplňuje požadavky stanovené právními předpisy, je chováno do 20 % prasnic a prasniček včetně.</td></tr><tr><td>Střední</td><td>Způsobem, který neodpovídá požadavkům stanoveným právními předpisy, nebo v kotci, který nesplňuje požadavky stanovené právními předpisy, je chováno od 20 % do 50 % prasat a prasniček včetně.</td></tr><tr><td>Velký</td><td>Způsobem, který neodpovídá požadavkům stanoveným právními předpisy, nebo v kotci, který nesplňuje požadavky stanovené právními předpisy, je chováno nad 50 % prasnic a prasniček.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Požadavky na ustájení prasnic a prasniček stanovené právními předpisy nejsou dodrženy.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 6</td></tr><tr><td rowspan="10">10.7.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Požadavky na hladinu hluku nebo intenzitu světla nejsou dodrženy.</td></tr><tr><td>Střední</td><td>Požadavky na hladinu hluku a zároveň i na intenzitu světla nejsou dodrženy.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Hladina hluku nebo intenzita světla neodpovídají požadavkům stanoveným právními předpisy.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 7</td></tr><tr><td rowspan="10">10.8.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Podlahy nesplňují parametry stanovené právními předpisy.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Podlahy nesplňují parametry stanovené právními předpisy.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 8</td></tr><tr><td rowspan="10">10.9.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Prostor pro ležení nesplňuje podmínky stanovené právními předpisy. Prasatům není umožněno vidět na jiná prasata.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Prostor pro ležení nesplňuje podmínky stanovené právními předpisy. Prasatům není umožněno vidět na jiná prasata.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 9</td></tr><tr><td rowspan="10">10.10.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zjištění se týkalo do 20 % zvířat včetně.</td></tr><tr><td>Střední</td><td>Zjištění se týkalo od 20 % do 50 % zvířat včetně.</td></tr><tr><td>Velký</td><td>Zjištění se týkalo nad 50 % zvířat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Zákroky a postupy nejsou prováděny odborně způsobilou osobou. Jsou prováděny i v případech, kdy toto zákon neumožňuje, případně jsou prováděny bez znecitlivění i v případech, kdy užití znecitlivění zákon ukládá.</td></tr><tr><td>Velká</td><td>Zákroky a postupy nebyly provedeny odborně způsobilou osobou nebo byly provedeny způsobem, který zákon neumožňuje, a v důsledku toho došlo k negativnímu vlivu na zdraví takto ošetřených zvířat.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 12, poř. číslo požadavku 10</td></tr></tbody></table>
+
+<table><thead><tr><th>Číslo<br>požad.</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10">11.1.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Péče o zvířata není zajištěna odborně způsobilými zaměstnanci nebo není zajištěna odborně způsobilými zaměstnanci v dostatečném počtu.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Péče o zvířata není zajištěna odborně způsobilými zaměstnanci nebo není zajištěna odborně způsobilými zaměstnanci v dostatečném počtu.</td></tr><tr><td>Střední</td><td>Péče o zvířata není zajištěna odborně způsobilými zaměstnanci a zároveň není zaměstnanců dostatečný počet.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 1</td></tr><tr><td rowspan="10">11.2.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zjištění se týká pouze jednoho zvířete.</td></tr><tr><td>Střední</td><td>V chovu bylo zjištěno do 10 % nemocných nebo poraněných zvířat včetně.</td></tr><tr><td>Velký</td><td>V chovu bylo zjištěno nad 10 % nemocných nebo poraněných zvířat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Kontrola je prováděna jedenkrát denně, ale zdroj osvětlení sloužící ke kontrole zvířat není dostupný.</td></tr><tr><td>Střední</td><td>Kontrola není prováděna nejméně jedenkrát denně. Nemocným nebo poraněným zvířatům nebyla chovatelem poskytnuta péče, ani k nim nebyl přivolán veterinární lékař, nebo nebyla zvířata v případě potřeby umístěna do izolace. Onemocnění nebo poranění neohrožuje zvířata na životě a nevede k trvalému poškození jejich zdraví. Nejsou dostupné nástroje k poskytnutí první pomoci zvířatům.</td></tr><tr><td>Velká</td><td>Kontrola není prováděna nejméně jedenkrát denně. Nemocným nebo poraněným zvířatům nebyla chovatelem poskytnuta péče, ani k nim nebyl přivolán veterinární lékař, nebo nebyla zvířata v případě potřeby umístěna do izolace. Onemocnění nebo poranění ohrožuje zvířata na životě nebo jim může přivodit trvalé následky anebo již k trvalému poškození zdraví nebo k úhynu došlo.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 2</td></tr><tr><td rowspan="10">11.3.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zjištění se týká pouze jednoho zvířete.</td></tr><tr><td>Střední</td><td>Zjištění se týká do 10 % zvířat včetně.</td></tr><tr><td>Velký</td><td>Zjištění se týká nad 10 % zvířat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Chovatel nevede nebo neuchovává záznamy o lékařských ošetřeních nebo o počtu uhynulých zvířat.</td></tr><tr><td>Střední</td><td>Chovatel nevede nebo neuchovává záznamy o lékařských ošetřeních a zároveň nevede nebo neuchovává záznamy o počtu uhynulých zvířat.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 3</td></tr><tr><td rowspan="10">11.4.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zjištění se týká pouze jednoho zvířete.</td></tr><tr><td>Střední</td><td>Zjištění se týká do 20 % zvířat včetně.</td></tr><tr><td>Velký</td><td>Zjištění se týká nad 20 % zvířat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Volnost pohybu zvířat je omezena způsobem, který vede k poškození zdraví zvířat nebo k jejich zbytečnému utrpení. Zvířatům není umožněno bez obtíží uléhat, odpočívat, vstávat a pečovat o povrch svého těla.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 4</td></tr><tr><td rowspan="10">11.5.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Zákroky jsou prováděny osobou odborně nezpůsobilou. V chovu jsou používány způsoby plemenitby, které zvířeti mohou způsobit utrpení nebo poškození zdraví nebo jsou prováděny úpravy vzhledu zvířat v rozporu s právními předpisy.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Zákroky jsou prováděny osobou odborně nezpůsobilou. V chovu jsou používány způsoby plemenitby, které zvířeti mohou způsobit utrpení nebo poškození zdraví nebo jsou prováděny úpravy vzhledu zvířat v rozporu s právními předpisy.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 5</td></tr><tr><td rowspan="10">11.6.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Mikroklimatické podmínky nejsou vyhovující pro daný druh a kategorii zvířete.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Mikroklimatické podmínky nejsou vyhovující pro daný druh a kategorii zvířete.</td></tr><tr><td>Velká</td><td>V důsledku nevyhovujících mikroklimatických podmínek panujících ve stáji došlo k úhynu zvířat.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 6</td></tr><tr><td rowspan="10">11.7.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Osvětlení neodpovídá požadavkům stanoveným právními předpisy.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Osvětlení neodpovídá požadavkům stanoveným právními předpisy.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 7</td></tr><tr><td rowspan="10">11.8.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Materiál použitý k ustájení zvířat není snadno čistitelný a dezinfikovatelný nebo se o něj mohou zvířata poranit nebo v prostorech, kde jsou chována telata, není zabezpečeno dostatečné odklízení trusu, moči a zbytků krmiva. Ustájovací prostory nejsou koncipovány nebo udržovány tak, aby poskytovaly zvířatům vhodné podmínky k chovu.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Materiál použitý k ustájení zvířat není snadno čistitelný a dezinfikovatelný nebo se o něj mohou zvířata poranit nebo v prostorech, kde jsou chována telata, není zabezpečeno dostatečné odklízení trusu, moči a zbytků krmiva. Ustájovací prostory nejsou koncipovány nebo udržovány tak, aby poskytovaly zvířatům vhodné podmínky k chovu.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 8</td></tr><tr><td rowspan="10">11.9.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zjištění se týká do 20 % zvířat včetně.</td></tr><tr><td>Střední</td><td>Zjištění se týká od 20 % do 50 % zvířat včetně.</td></tr><tr><td>Velký</td><td>Zjištění se týká nad 50 % zvířat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Zvířatům není poskytována přiměřená ochrana před povětrnostními podmínkami, predátory nebo riziky ohrožujícími jejich zdraví.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 9</td></tr><tr><td rowspan="10">11.10.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Kontrola není prováděna nebo není zabezpečeno včasné odstranění závady, případně není zajištěna péče o zdraví a dobré životní podmínky zvířat do doby odstranění závady. V případě užití automatického větracího systému není zajištěn poplašný systém varující při jeho selhání a není zajištěn ani pomocný systém, který zaručí obnovení větrání.</td></tr><tr><td>Velký</td><td>V důsledku nedostatečné kontroly, nezajištění včasného odstranění závady, nezajištění péče o zdraví a dobré životní podmínky zvířat do doby odstranění závady nebo nezajištění vhodného řešení pro případ selhání automatického větracího systému, došlo k úhynu zvířat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Kontrola není prováděna nebo není zabezpečeno včasné odstranění závady, případně není zajištěna péče o zdraví a dobré životní podmínky zvířat do doby odstranění závady. V případě užití automatického větracího systému není zajištěn poplašný systém varující při jeho selhání a není zajištěn ani pomocný systém, který zaručí obnovení větrání. Poplašný systém není pravidelně přezkušován.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 10</td></tr><tr><td rowspan="10">11.11.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Zjištění se týká do 20 % zvířat včetně.</td></tr><tr><td>Střední</td><td>Zjištění se týká od 20 % do 50 % zvířat včetně.</td></tr><tr><td>Velký</td><td>Zjištění se týká nad 50 % zvířat.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Systém napájení není vhodný.</td></tr><tr><td>Střední</td><td>Zvířatům není zabezpečen přístup k vodě nebo krmivu ve stanovených intervalech pro jednotlivé druhy a kategorie. V době kontroly byly zjištěny nefunkční napáječky. Zvířata jsou bez příznaků dehydratace. Zvířatům není podávána zdravotně nezávadná potrava nebo podávaná potrava není vhodná pro daný druh a stáří. V případě nedostatečného přístupu ke krmivu jsou zvířata ve zhoršeném výživovém stavu. Zvířatům jsou podávány látky a materiály, které mohou mít škodlivý vliv na jejich zdraví nebo pohodu, nebo k nim mají přístup.</td></tr><tr><td>Velká</td><td>Zvířata jsou vyhublá nebo jeví známky dehydratace nebo na hospodářství došlo k úhynu zvířat v důsledku dehydratace nebo podvýživy, podání nebo požití látek a materiálu škodlivých pro jejich zdraví.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 11</td></tr><tr><td rowspan="10">11.12.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>Není zabezpečeno omezení znečištění vody nebo krmiv nebo dochází k zápolení o krmivo a vodu mezi zvířaty.</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Není zabezpečeno omezení znečištění vody nebo krmiv nebo dochází k zápolení o krmivo a vodu mezi zvířaty.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>Odstranitelné porušení.</td></tr><tr><td>Neodstranitelná</td><td>x</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 13, poř. číslo požadavku 12</td></tr></tbody></table>
+
+### Příloha č. 14
+
+#### Hodnocení porušení podmínek standardů podle § 5 až 15
+
+<table><thead><tr><th>Podmínky standardů</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="10"><b>Standard 1. podle § 5</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch s porušením je do 1 hektaru včetně.</td></tr><tr><td>Střední</td><td>Součet ploch s porušením je od 1 do 2 hektarů včetně.</td></tr><tr><td>Velký</td><td>Součet ploch s porušením je nad 2 hektary.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je 1.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 2.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 3 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="9"><b>Standard 2. podle § 5a</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík došlo ke změně zemědělské kultury T anebo k ponechání půdy bez pokryvu po sklizni hlavní plodiny alespoň do 31. prosince anebo k porušení podmínky zákazu celoplošného zpracování půdy obracením v rozsahu od 0,1 do 10 hektarů na zemědělských kulturách jiných než R a v rozsahu od 2 do 10 hektarů na zemědělské kultuře R.</td></tr><tr><td>Střední</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík došlo ke změně zemědělské kultury T anebo k ponechání půdy bez pokryvu po sklizni hlavní plodiny alespoň do 31. prosince anebo k porušení podmínky zákazu celoplošného zpracování půdy obracením v rozsahu nad 10 hektarů včetně.</td></tr><tr><td>Velký</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík bylo provedeno odvodnění.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík došlo ke změně zemědělské kultury T anebo k ponechání půdy bez pokryvu po sklizni hlavní plodiny alespoň do 31. prosince anebo k porušení podmínky zákazu celoplošného zpracování půdy obracením v rozsahu od 0,1 do 10 hektarů na zemědělských kulturách jiných než R a v rozsahu od 2 do 10 hektarů na zemědělské kultuře R.</td></tr><tr><td>Střední</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík došlo ke změně zemědělské kultury T anebo k ponechání půdy bez pokryvu po sklizni hlavní plodiny alespoň do 31. prosince anebo k porušení podmínky zákazu celoplošného zpracování půdy obracením v rozsahu nad 10 hektarů včetně.</td></tr><tr><td>Velká</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík bylo provedeno odvodnění.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Ne</td></tr><tr><td rowspan="10"><b>Standard 3. podle § 6</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch, kde došlo k pálení, je do 1 hektaru včetně.</td></tr><tr><td>Střední</td><td>Součet ploch, kde došlo k pálení, je od 1 do 2 hektarů včetně.</td></tr><tr><td>Velký</td><td>Součet ploch, kde došlo k pálení, je nad 2 hektary.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Pálení bylo prováděno pouze bodově.</td></tr><tr><td>Velká</td><td>Pálení bylo prováděno plošně.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 6 písm. a)</td></tr><tr><td rowspan="10"><b>Standard 4. podle § 7 odst. 1 písm. a)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Hnojení bylo provedeno na ploše ochranného pásu 3 metrů od břehové čáry.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Hnojení bylo provedeno na ploše ochranného pásu 3 metrů od břehové čáry.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 1 písm. a)</td></tr><tr><td rowspan="10"><b>Standard 4. podle § 7 odst. 1 písm. b)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Hnojení bylo provedeno na ploše ochranného pásu do 25 metrů od břehové čáry u dílu půdního bloku s průměrnou sklonitostí převyšující 7°.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Hnojení bylo provedeno na ploše ochranného pásu do 25 metrů od břehové čáry u dílu půdního bloku s průměrnou sklonitostí převyšující 7°.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 1 písm. b)</td></tr><tr><td rowspan="10"><b>Standard 4. podle § 7 odst. 1 písm. c)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Přípravek byl aplikován ve třímetrovém ochranném pásu od břehové čáry.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Přípravek byl aplikován ve třímetrovém ochranném pásu od břehové čáry.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10"><b>Standard 5. podle § 8 až 8b</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch s porušením tvoří nejvýše 15 hektarů nebo součet ploch s porušením tvoří více než 15 hektarů, pokud podíl plochy s porušením je nejvýše 15 % součtu ploch žadatelem užívaných dílů půdních bloků se zemědělskou kulturou standardní orná půda vedených v evidenci využití půdy jako erozně ohrožené a silně erozně ohrožené.</td></tr><tr><td>Střední</td><td>Součet ploch s porušením tvoří více než 15 hektarů, pokud podíl plochy s porušením tvoří 15,01 až 30 % součtu ploch žadatelem užívaných dílů půdních bloků se zemědělskou kulturou standardní orná půda vedených v evidenci využití půdy jako erozně ohrožené a silně erozně ohrožené.</td></tr><tr><td>Velký</td><td>Součet ploch s porušením tvoří více než 15 hektarů, pokud podíl plochy s porušením tvoří více než 30 % součtu ploch žadatelem užívaných dílů půdních bloků se zemědělskou kulturou standardní orná půda vedených v evidenci využití půdy jako erozně ohrožené a silně erozně ohrožené.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Díl půdního bloku s porušením, které bylo způsobeno neprovedením půdoochranné technologie, je nejvýše 1, nebo počet dílů půdních bloků s porušením, které bylo způsobeno nedostatečným provedením půdoochranné technologie, je nejvýše 2.</td></tr><tr><td>Střední</td><td>Počet dílů půdních bloků s porušením, které bylo způsobeno nedostatečným provedením půdoochranné technologie, je 3 nebo 4.</td></tr><tr><td>Velká</td><td>Počet dílů půdních bloků s porušením, které bylo způsobeno neprovedením půdoochranné technologie, je více než 1, počet dílů půdních bloků s porušením, které bylo způsobeno nedostatečným provedením půdoochranné technologie, je 5 a více, nebo porušení bylo způsobeno pěstováním kukuřice, brambor, řepy cukrové, řepy krmné, sóji, slunečnice a čiroku na silně erozně ohrožené půdě na ploše přesahující 2 hektary pro plodiny se stejným stupněm ochranného vlivu vegetace.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 5 písm. a) až f)</td></tr><tr><td rowspan="10"><b>Standard 6. podle § 9</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch, kde nebyl zajištěn pokryv včetně výjimky, je více než 20 % a nejvýše 30 %.</td></tr><tr><td>Střední</td><td>Součet ploch, kde nebyl zajištěn pokryv včetně výjimky, je více než 30 % a nejvýše 40 %.</td></tr><tr><td>Velký</td><td>Součet ploch, kde nebyl zajištěn pokryv včetně výjimky, je více než 40 %.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Z celkového počtu dílů půdních bloků s porušením je více jak 50 % kategorizováno v evidenci půdy jako erozně neohrožená plocha.</td></tr><tr><td>Střední</td><td>Z celkového počtu dílů půdních bloků s porušením je více jak 50 % včetně kategorizováno v evidenci půdy jako erozně ohrožená plocha.</td></tr><tr><td>Velká</td><td>Z celkového počtu dílů půdních bloků s porušením je více jak 50 % kategorizováno v evidenci půdy jako silně erozně ohrožená plocha.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 4</td></tr><tr><td rowspan="10"><b>Standard 7A. podle § 10 odst. 1</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch, kde došlo k porušení, je do 65 % výměry standardní orné půdy žadatele včetně.</td></tr><tr><td>Střední</td><td>Součet ploch, kde došlo k porušení je do 70 % výměry standardní orné půdy žadatele včetně.</td></tr><tr><td>Velký</td><td>Součet ploch, kde došlo k porušení je nad 70 % výměry standardní orné půdy žadatele.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je 1.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 2.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 3 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10"><b>Standard 7A. podle § 10 odst. 4</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch, kde došlo k porušení, je do 20 % výměry standardní orné půdy žadatele včetně.</td></tr><tr><td>Střední</td><td>Součet ploch, kde došlo k porušení, je od 20 % do 30 % výměry standardní orné půdy žadatele včetně.</td></tr><tr><td>Velký</td><td>Součet ploch, kde došlo k porušení, je více než 30 % výměry standardní orné půdy žadatele.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je do 2 včetně.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 3 až 5.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 6 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10"><b>Standard 7B. podle § 11 odst. 1</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Velikost plochy pěstované plodiny je větší než 33 hektarů a je nejvýše 70 hektarů.</td></tr><tr><td>Střední</td><td>Velikost plochy pěstované plodiny je větší než 70 hektarů a je nejvýše 84 hektarů.</td></tr><tr><td>Velký</td><td>Velikost plochy pěstované plodiny je větší než 84 hektarů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je nejvýše 2.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 3 až 5.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 6 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 5 písm. g)</td></tr><tr><td rowspan="9"><b>Standard 8B. podle § 13</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Došlo k poškození nebo zrušení krajinného prvku skalka nebo terasa.</td></tr><tr><td>Střední</td><td>Došlo k poškození nebo zrušení krajinného prvku solitér nebo skupina dřevin.</td></tr><tr><td>Velký</td><td>Došlo k poškození nebo zrušení krajinného prvku mokřad, příkop, travnatá údolnice, mez nebo stromořadí.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>X</td></tr><tr><td>Střední</td><td>Došlo k poškození nebo zrušení výhradně dřevinné vegetace na krajinných prvcích mez, terasa nebo travnatá údolnice.</td></tr><tr><td>Velká</td><td>Došlo k poškození nebo zrušení krajinných prvků solitér, skupina dřevin, stromořadí, popřípadě došlo k poškození nebo zrušení krajinných prvků mez, terasa, travnatá údolnice, příkop, skalka nebo mokřad a nejedná se o případ střední závažnosti.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>X</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td></td><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 7 písm. a)</td></tr><tr><td rowspan="10"><b>Standard 8C. podle § 14</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Řez dřevin v době od 1. 4. do 31. 10. byl proveden u 1 krajinného prvku.</td></tr><tr><td>Střední</td><td>Řez dřevin v době od 1. 4. do 31. 10. byl proveden u 2 krajinných prvků.</td></tr><tr><td>Velký</td><td>Řez dřevin v době od 1. 4. do 31. 10. byl proveden u 3 a více krajinných prvků.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Řez dřevin byl proveden v době od 1. 4. do 31. 10. osobou bez osvědčení.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 7 písm. b)</td></tr><tr><td rowspan="10"><b>Standard 9 podle § 15</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch s porušením je do 1 hektaru včetně.</td></tr><tr><td>Střední</td><td>Součet ploch s porušením je od 1 do 2 hektarů včetně.</td></tr><tr><td>Velký</td><td>Součet ploch s porušením je nad 2 hektary.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je 1.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 2.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 3 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr></tbody></table>
+
+### Příloha č. 15
+
+#### Hodnocení porušení minimálních požadavků podle § 16
+
+<table><thead><tr><th>Minimální požadavek</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr></thead><tbody><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. a)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 5 hektarů včetně, pro kterou platí období zákazu hnojení.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 5 do 10 hektarů včetně, pro kterou platí období zákazu hnojení.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 10 hektarů, pro kterou platí období zákazu hnojení.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Použití dusíkatých hnojivých látek do 20 kg N/hektar včetně.</td></tr><tr><td>Střední</td><td>Použití dusíkatých hnojivých látek od 20 do 40 kg N/hektar včetně.</td></tr><tr><td>Velká</td><td>Použití dusíkatých hnojivých látek nad 40 kg N/hektar.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. b)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 5 hektarů pozemků včetně se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo ochranným pásmem vodního zdroje I. stupně.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 5 hektarů do 10 hektarů pozemků včetně se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo ochranným pásmem vodního zdroje I. stupně.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 10 hektarů pozemků se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo ochranným pásmem vodního zdroje I. stupně.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo ochranným pásmem vodního zdroje I. stupně, v délce do 25 metrů včetně.</td></tr><tr><td>Střední</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo ochranným pásmem vodního zdroje I. stupně, v délce od 26 do 50 metrů včetně.</td></tr><tr><td>Velká</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo ochranným pásmem vodního zdroje I. stupně, v délce nad 50 metrů.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. c)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení zákazu na ploše do 5 hektarů včetně.</td></tr><tr><td>Střední</td><td>Nedodržení zákazu na ploše od 5 do 10 hektarů včetně.</td></tr><tr><td>Velký</td><td>Nedodržení zákazu na ploše nad 10 hektarů</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Použití hnojivých látek do 20 kg N/hektar včetně.</td></tr><tr><td>Střední</td><td>Použití hnojivých látek od 20 do 40 kg N/hektar včetně.</td></tr><tr><td>Velká</td><td>Použití hnojivých látek nad 40 kg N/hektar.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. d)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 10 hektarů včetně.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 10 do 20 hektarů včetně.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 20 hektarů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Při hnojení nebylo zajištěno rovnoměrné pokrytí pozemku.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. e)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 5 hektarů včetně.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 5 do 10 hektarů včetně.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 10 hektarů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Použití do 20 kg N/hektar včetně</td></tr><tr><td>Střední</td><td>Použití od 20 do 40 kg N/hektar včetně</td></tr><tr><td>Velká</td><td>Použití nad 40 kg N/hektar.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. f)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Byl použit přípravek pro profesionální uživatele, který nebyl získán od registrovaného distributora, nebo u něhož nebyl držitelem povolení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Byl použit přípravek pro profesionální uživatele, který nebyl získán od registrovaného distributora, nebo u něhož nebyl držitelem povolení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 2</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Ve skladu byl skladován přípravek pro profesionální uživatele, který nebyl získán od registrovaného distributora, nebo u něhož nebyl držitelem povolení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Ve skladu byl skladován přípravek pro profesionální uživatele, který nebyl získán od registrovaného distributora, nebo u něhož nebyl držitelem povolení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr></tbody></table>
+
+### Příloha č. 16
+
+#### Seznam ustanovení právních předpisů, která stanoví požadavky sociální podmíněnosti, podle § 16a
+
+<table><thead><tr><th>Oblasti</th><th>Požadavky</th><th>Vymezení požadavků v právním předpisu</th></tr></thead><tbody><tr><td>Zaměstnanost</td><td>Transparentní a předvídatelné pracovní podmínky</td><td>§ 35, § 37 odst. 1 až 4, § 77a a 228 až 230 zákona č. 262/2006 Sb.</td></tr><tr><td rowspan="2">Ochrana zdraví a bezpečnost</td><td>Opatření na podporu zlepšení bezpečnosti a ochrany zdraví pracovníků</td><td>§ 101 odst. 1, 3 a 4, § 102 odst. 3 až 7, § 103 odst. 1 písm. a), g) a j), § 103 odst. 2 a 3, § 105 odst. 3 věta první, § 105 odst. 4, § 108 odst. 1, 2, § 108 odst. 3 písm. a) a § 108 odst. 6 a 7 zákona č. 262/2006 Sb., a § 9 odst. 2, § 9 odst. 4 písm. a), b) a § 9 odst. 4 písm. c) bod 1 zákona č. 309/2006 Sb.</td></tr><tr><td>Minimální požadavky na bezpečnost a ochranu zdraví při používání pracovního zařízení zaměstnanci</td><td>§ 101 odst. 1, § 102 odst. 1, § 102 odst. 4 věta první, § 102 odst. 5, § 103 odst. 1 písm. f) a § 103 odst. 2 zákona č. 262/2006 Sb., a § 4 odst. 1 věta první, § 4 odst. 1 písm. b) a c) a § 11 odst. 1 zákona č. 309/2006 Sb., a § 7 odst. 2 a § 20 odst. 2 písm. a) zákona č. 250/2021 Sb., a § 3 a 4 nařízení vlády č. 378/2001 Sb.</td></tr></tbody></table>
+
+### Příloha č. 17
+
+#### Stanovení druhu erozně ohrožených ploch podle § 8 odst. 1 a § 8b odst. 1
+
+#### Tabulka č. 1 – souvislá plocha plodiny 0,01 – 2 hektary (včetně)\*
+
+| Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 50 % souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+|---|---|---|---|
+| Plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+| Plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+| Plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+\*) Souvislé plochy plodiny do 0,01 hektaru nejsou zařazeny do žádné z kategorií erozně ohrožené plochy
+
+#### Tabulka č. 2 – souvislá plocha plodiny 2,01 – 4 hektary (včetně)\*
+
+| Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 2 hektary souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+|---|---|---|---|
+| Plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+| Plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+| Plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+\*) Souvislé plochy plodiny do 0,01 hektaru nejsou zařazeny do žádné z kategorií erozně ohrožené plochy
+
+#### Tabulka č. 3 – souvislá plocha plodiny větší než 4,01 hektary
+
+| Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 2 hektary nebo 50 % souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+|---|---|---|---|
+| Plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+| Plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+| Plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+### Příloha č. 18
+
+#### Stanovení druhu erozně ohrožených ploch podle § 8 odst. 2 a § 8a odst. 2
+
+#### Tabulka č. 1 – souvislá plocha plodiny 2,01 – 4 hektarů (včetně)\*)
+
+| Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 2 hektary souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+|---|---|---|---|
+| plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+| plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+| plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+\*) Souvislé plochy plodiny o velikosti 0,01 – 2 hektary (včetně) nejsou zařazeny do žádné z kategorií erozně ohrožené plochy.
+
+#### Tabulka č. 2 – souvislá plocha plodiny větší než 4 ha
+
+| Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 2 hektary nebo 50 % souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+|---|---|---|---|
+| plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+| plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+| plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+### Příloha č. 19
+
+#### Druhy zlepšujících plodin podle § 8 až 8b
+
+| Plodina | Použití pro půdoochrannou technologii obsetí a ochranné pásy |
+|---|---|
+| Cizrna | ne |
+| Čočka | ne |
+| Fazol | ne |
+| Hořčice | ano |
+| Hrách | ano |
+| Jeteloviny a jetelovinotrávy | ano |
+| Kapusta krmná | ano |
+| Kmín | ano |
+| Kopr vonný | ne |
+| Koriandr | ano |
+| Krambe | ano |
+| Laskavec | ano |
+| Len | ano |
+| Lnička | ano |
+| Lupina bílá, žlutá, úzkolistá | ano |
+| Luskoobilní směs bez podsevu | ano |
+| Luskoobilní směs s podsevem PVN | ano |
+| Mastňák | ano |
+| Merlík | ano |
+| Ostropestřec | ne |
+| Oves hřebílkatý | ano |
+| Peluška | ano |
+| Pohanka | ano |
+| Ředkev olejná | ano |
+| Řepice | ano |
+| Řeřicha | ano |
+| Sléz | ano |
+| Směs bílkovinných plodin (PVN) jednoletých | ano |
+| Směs bílkovinných plodin (PVN) jednoletých s ostatními plodinami do 50 % | ano |
+| Směs bílkovinných plodin (PVN) víceletých | ano |
+| Směs bílkovinných plodin (PVN) víceletých s jednoletými plodinami do 50 % | ano |
+| Směs krmná (čejka) | ne |
+| Směs pro dělicí pás | ano |
+| Směs pro dělicí pás (prémiová) | ano |
+| Směs pro druhově bohaté pokrytí orné půdy | ne |
+| Směs pro erozní pás | ano |
+| Směs pro erozní pás (prémiová) | ano |
+| Směs pro krmný biopás | ano |
+| Směs pro meziplodiny | ne |
+| Směs pro meziplodiny pro zlepšení struktury půdy | ne |
+| Směs pro meziplodiny proti utužení půdy | ano |
+| Směs pro nektarodárný biopás | ne |
+| Směs pro opylovače (čejka) | ne |
+| Směs pro ozeleněný kolejový řádek | ne |
+| Směs pro ozeleněný kolejový řádek (prémiová) | ne |
+| Směs pro souvrať | ano |
+| Směs pro souvrať (prémiová) | ano |
+| Směs PVN neprodukčních jednoletých | ano |
+| Směs PVN neprodukčních jednoletých s ostatními plodinami do 50 % | ano |
+| Směs PVN neprodukčních víceletých | ano |
+| Směs PVN neprodukčních víceletých s ostatními plodinami do 50 % | ano |
+| Směsky luskovin | ano |
+| Svazenka | ano |
+| Světlice | ne |
+| Šalvěj hispánská | ano |
+| Trávy čeledi lipnicovité a jejich směsi nebo ve směsi s PVN | ano |
+| Vikev | ano |
+| Vodnice | ano |
+| Žito trsnaté (lesní) | ano |
+| Poznámka: Za zlepšující plodinu se dále považuje kultura G a kultura U s porostem | |
+
+### Příloha č. 20
+
+#### Půdoochranné technologie pro plodiny s nízkým stupněm ochranného vlivu vegetace na mírně erozně ohrožené ploše s vyšším rizikem
+
+| Číslo půdoochranné technologie | Půdoochranná technologie | Základní podmínky půdoochranné technologie |
+|---|---|---|
+| 1. | Půdoochranná technologie založená na prostorovém dělení pozemku - Vytvoření zasakovacích, ochranných, předělovacích pásů, případně obsevů, osetých plodinou s vysokým stupněm ochranného vlivu vegetace nebo ozimou obilninou | Maximální plocha plodiny 15 hektarů, strojově obhospodařovatelná šíře pásu minimálně 3 metry, plodina s vysokým stupněm ochranného vlivu vegetace nebo ozimá obilnina |
+| 2. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Zakládání do ochranné plodiny nebo rostlinných zbytků (přímé setí nebo provedení podmítky bez následné orby) | Vizuálně prokazatelné. Před založením hlavní plodiny není provedena orba |
+| 3. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Pásové zpracování půdy | Vizuálně prokazatelné |
+| 4. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Zakládání porostu s pomocnou plodinou | Deklarace pomocné plodiny v jednotné žádosti, vizuálně prokazatelné, ověření v terénu |
+| 5. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Podsev | Deklarace plodiny v podsevu v jednotné žádosti, vizuálně prokazatelné, ověření v terénu |
+| 6. | Půdoochranná technologie založená na zlepšení struktury půdy - Hloubkové kypření pro krmnou řepu a cukrovou řepu | Minimálně 0,25 metru, hlášení v evidenci využití půdy |
+| 7. | Osevní sled | § 8a |
+| 8. | Půdoochranná technologie individuálně zvolená pro určitý pozemek nebo celofaremní plán - Specifická půdoochranná technologie | |
+| 9. | Půdoochranná technologie založená na zlepšení struktury půdy - Aplikace organické hmoty 25 tun na hektar na maximálně 20 hektarech plochy plodiny | Aplikace organické hmoty na maximální ploše plodiny 20 hektarů v hospodářském roce k hlavní plodině nebo meziplodině bezprostředně předcházející hlavní plodině tuhých statkových hnojiv (kromě hnojiv pocházejících z chovů drůbeže, aplikovaných samostatně) nebo tuhých organických hnojiv v dávce minimálně 25 tun na hektar nebo aplikace kejdy nebo digestátu v dávce minimálně 15 tun na hektar, v kombinaci se slámou nebo zeleným hnojením |
+| 10. | Půdoochranná technologie založená na zlepšení struktury půdy - Odkameňování, hrázkování, důlkování u brambor | Odkameňování: vizuálně prokazatelné. Hrázkování, důlkování: geotagovaná fotografie obsahující data o poloze a času, povinnost předložit při kontrole na místě Fondu |
+
+### Příloha č. 21
+
+#### Půdoochranné technologie pro plodiny s nízkým stupněm ochranného vlivu vegetace na mírně erozně ohrožené ploše s nižším rizikem
+
+| Číslo půdoochranné technologie | Půdoochranná technologie | Základní podmínky půdoochranné technologie |
+|---|---|---|
+| 1. | Půdoochranná technologie založená na prostorovém dělení pozemku - Vytvoření zasakovacích, ochranných, předělovacích pásů, případně obsevů, osetých plodinou s vysokým/středním stupněm ochranného vlivu vegetace | Maximální plocha plodiny 15 hektarů, strojově obhospodařovatelná šíře pásu minimálně 3 metry, plodina s vysokým/středním stupněm ochranného vlivu vegetace |
+| 2. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Zakládání do ochranné plodiny nebo rostlinných zbytků (přímé setí nebo provedení podmítky bez následné orby) | Vizuálně prokazatelné. Před založením hlavní plodiny není provedena orba |
+| 3. | Půdoochranná technologie založená na zajištění pokryvnosti půdy – Pásové zpracování půdy | Vizuálně prokazatelné |
+| 4. | Půdoochranná technologie založená na zajištění pokryvnosti půdy – Zakládání porostu s pomocnou plodinou | Deklarace pomocné plodiny v jednotné žádosti, vizuálně prokazatelné, ověření v terénu |
+| 5. | Půdoochranná technologie založená na zajištění pokryvnosti půdy - Podsev | Deklarace plodiny v podsevu v jednotné žádosti, vizuálně prokazatelné, ověření v terénu |
+| 6. | Půdoochranná technologie založená na zlepšení struktury půdy - Hloubkové kypření pro krmnou řepu a cukrovou řepu | Minimálně 0,25 metru, hlášení v evidenci půdy |
+| 7. | Osevní sled | § 8b |
+| 8. | Půdoochranná technologie individuálně zvolená pro určitý pozemek nebo celofaremní plán – Specifická půdoochranná technologie | |
+| 9. | Půdoochranná technologie založená na zlepšení struktury půdy – Aplikace organické hmoty 25 tun na hektar | Aplikace tuhých statkových hnojiv (kromě hnojiv pocházejících z chovů drůbeže, aplikovaných samostatně) nebo tuhých organických hnojiv v dávce minimálně 25 tun na hektar nebo aplikace kejdy nebo digestátu v dávce minimálně 15 tun na hektar, v kombinaci se slámou nebo zeleným hnojením |
+| 10. | Půdoochranná technologie založená na zlepšení struktury půdy – Odkameňování, hrázkování, důlkování u brambor | Odkameňování: vizuálně prokazatelné. Hrázkování, důlkování: geotagovaná fotografie obsahující data o poloze a času, povinnost předložit při kontrole na místě Fondu |
+| 11. | Půdoochranná technologie založená na zajištění pokryvnosti půdy – Ozelenění kolejových řádků | Minimální šířka kolejového řádku 3 metry, plodina s vysokým/středním stupněm ochranného vlivu vegetace |
+| 12. | Půdoochranná technologie založená na zajištění pokryvnosti půdy – Zakládání porostu do úzkých řádků pro kukuřici a čirok | Úzké řádky maximálně 0,5 metru pro kukuřici a čirok |
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) 2021/2115 ze dne 2. prosince 2021, kterým se stanoví pravidla podpory pro strategické plány, jež mají být vypracovány členskými státy v rámci společné zemědělské politiky (strategické plány SZP) a financovány Evropským zemědělským záručním fondem (EZZF) a Evropským zemědělským fondem pro rozvoj venkova (EZFRV), a kterým se zrušují nařízení (EU) č. 1305/2013 a (EU) č. 1307/2013, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (EU) 2021/2116 ze dne 2. prosince 2021 o financování, řízení a monitorování společné zemědělské politiky a zrušení nařízení (EU) č. 1306/2013, v platném znění. 
+ Nařízení Komise v přenesené pravomoci (EU) 2022/1172 ze dne 4. května 2022, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) 2021/2116, pokud jde o integrovaný administrativní a kontrolní systém v oblasti společné zemědělské politiky a uplatňování a výpočet správních sankcí v souvislosti s podmíněností. 
+ Prováděcí nařízení Komise (EU) 2022/1317 ze dne 27. července 2022, kterým se stanoví odchylky od nařízení Evropského parlamentu a Rady (EU) 2021/2115, pokud jde o uplatňování standardů dobrého zemědělského a environmentálního stavu půdy (standardů DZES) 7 a 8 pro rok podání žádosti 2023.
+
+<sup>2</sup>) Čl. 12 odst. 4 nařízení Evropského parlamentu a Rady (EU) 2021/2115. 
+ Čl. 83 odst. 5 písm. a) nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Příloha III nařízení Evropského parlamentu a Rady (EU) 2021/2115.
+
+<sup>3</sup>) Čl. 12 a 13 a příloha III nařízení Evropského parlamentu a Rady (EU) 2021/2115. 
+ Čl. 6 písm. b) a d) nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>4</sup>) Čl. 12 a 13 nařízení Evropského parlamentu a Rady (EU) 2021/2115. 
+ Čl. 83 až 85 nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 88 a 89 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 6 až 12 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>5</sup>) Čl. 31 odst. 5 písm. b) a čl. 70 odst. 3 písm. b) nařízení Evropského parlamentu a Rady (EU) 2021/2115.
+
+<sup>6</sup>) Nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů.
+
+<sup>7</sup>) Čl. 85 odst. 1 druhý pododstavec nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 7 odst. 2 až 4 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>8</sup>) Čl. 85 odst. 6 druhý pododstavec nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 10 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>9</sup>) Čl. 85 odst. 3 nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 9 odst. 4 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>10</sup>) Čl. 83 odst. 5 písm. c) a čl. 85 odst. 6 první pododstavec nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 9 odst. 3 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>11</sup>) Čl. 85 odst. 6 druhý pododstavec nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 10 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>12</sup>) Čl. 85 odst. 2 a 5 nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 9 odst. 1 a 2 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>13</sup>) Čl. 85 odst. 5 nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 9 odst. 2 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>14</sup>) Čl. 83 odst. 5 písm. c) a čl. 85 odst. 6 první pododstavec věta první nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+ Čl. 9 odst. 3 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>15</sup>) Čl. 85 odst. 6 první pododstavec věta první nařízení Evropského parlamentu a Rady (EU) 2021/2116.
+
+<sup>16</sup>) Čl. 85 odst. 6 věta druhá a čl. 85 odst. 6 druhý pododstavec nařízení Evropského parlamentu a Rady (EU) 2021/2116.
+
+<sup>17</sup>) Čl. 8 odst. 2 a 3 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>18</sup>) Čl. 11 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+<sup>19</sup>) Čl. 84 odst. 2 písm. c) bod ii) nařízení Evropského parlamentu a Rady (EU) 2021/2116.
+
+<sup>20</sup>) Čl. 14 a příloha č. IV nařízení Evropského parlamentu a Rady (EU) 2021/2115.
+
+<sup>21</sup>) § 77a odst. 7 a § 78 odst. 1 a 2 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.
+
+<sup>22</sup>) § 3 odst. 1 písm. o) zákona č. 114/1992 Sb.
+
+<sup>23</sup>) Čl. 88 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/2116.
+
+<sup>24</sup>) Čl. 85 odst. 2 a 5 a čl. 89 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/2116.
+
+<sup>25</sup>) Čl. 85 odst. 1 a čl. 89 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/2116.

@@ -1,0 +1,341 @@
+---
+title: "Vyhláška č. 55/2022 Sb., kterou se mění vyhláška č. 315/2018 Sb., o strategickém hlukovém mapování"
+identifier: "55/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/55/2022-03-19"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-03-10
+effective: 2022-03-19
+last_amended: 2022-03-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/55"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 55/2022 Sb., kterou se mění vyhláška č. 315/2018 Sb., o strategickém hlukovém mapování
+
+55
+
+VYHLÁŠKA
+
+ze dne 10. března 2022,
+
+kterou se mění vyhláška č. 315/2018 Sb., o strategickém hlukovém mapování
+
+Ministerstvo zdravotnictví stanoví podle § 108 odst. 1 k provedení § 80 odst. 1 písm. s) zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změnách některých souvisejících zákonů, ve znění zákona č. 274/2001 Sb., zákona č. 320/2002 Sb., zákona č. 392/2005 Sb., zákona č. 222/2006 Sb., zákona č. 151/2011 Sb., zákona č. 223/2013 Sb., zákona č. 267/2015 Sb., zákona č. 202/2017 Sb., zákona č. 205/2020 Sb. a zákona č. 544/2020 Sb.:
+
+## Čl. I
+
+Vyhláška č. 315/2018 Sb., o strategickém hlukovém mapování, se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se na samostatném řádku doplňují věty:
+
+> „Směrnice Komise (EU) 2020/367 ze dne 4. března 2020, kterou se mění příloha III směrnice Evropského parlamentu a Rady 2002/49/ES, pokud jde o stanovení metod hodnocení škodlivých účinků hluku ve venkovním prostředí.
+
+> Směrnice Komise v přenesené pravomoci (EU) 2021/1226 ze dne 21. prosince 2020, kterou se pro účely přizpůsobení vědeckému a technickému pokroku mění příloha II směrnice Evropského parlamentu a Rady 2002/49/ES, pokud jde o společné metody hodnocení hluku.“.
+
+2\. V § 1 se za text „unie<sup>1</sup>)“ vkládají slova „ , zároveň navazuje na přímo použitelný předpis Evropské unie<sup>6</sup>)“.
+
+Poznámka pod čarou č. 6 zní:
+
+> „<sup>6</sup>) Nařízení Evropského parlamentu a Rady (EU) 2019/1010 ze dne 5. června 2019 o sladění povinností podávání zpráv v oblasti právních předpisů souvisejících s politikou životního prostředí a o změně nařízení Evropského parlamentu a Rady (ES) č. 166/2006 a (EU) č. 995/2010, směrnic Evropského parlamentu a Rady 2002/49/ES, 2004/35/ES, 2007/2/ES, 2009/147/ES a 2010/63/EU, nařízení Rady (ES) č. 338/97 a (ES) č. 2173/2005 a směrnice Rady 86/278/EHS.“.
+
+3\. V § 2 se vkládá nový odstavec 1, který zní:
+
+> „(1) Škodlivými účinky hluku se rozumí účinky nepříznivé pro lidské zdraví, obtěžování hlukem a pocit nepohody vznikající působením hluku na osoby vystavené hodnotám hlukového ukazatele stanoveným v příloze č. 4 k této vyhlášce.“.
+
+Dosavadní odstavce 1 až 4 se označují jako odstavce 2 až 5.
+
+4\. V § 3 odst. 1 se slova „příloze č. 2“ nahrazují slovy „příloze č. 1“.
+
+5\. § 4 a 5 včetně nadpisů a poznámky pod čarou č. 7 znějí:
+
+> **„§ 4 – Způsob informování veřejnosti o strategických hlukových mapách**
+
+> Strategické hlukové mapy zpřístupňuje Ministerstvo zdravotnictví veřejnosti na svých internetových stránkách ve formě otevřených dat umožňujících prohlížení a stahování dat<sup>6</sup>)<sup>,</sup><sup>7</sup>).
+
+> **§ 5 – Akční plány snižování škodlivých účinků hluku**
+
+> (1) Akční plán obsahuje mapovou, tabulkovou a textovou část.
+
+> (2) Základní požadavky na obsah akčních plánů jsou upraveny v příloze č. 3 k této vyhlášce.
+
+> <sup>7</sup>) Směrnice Evropského parlamentu a Rady 2002/49/ES ze dne 25. června 2002 o hodnocení a řízení hluku ve venkovním prostředí.“.
+
+6\. V příloze č. 1 bod 3. zní:
+
+> „3. hodnota hlukového ukazatele pro den-večer-noc (L<sub>dvn</sub>) v decibelech (dB) je definována vzorcem
+
+> L<sub>dvn</sub>=10\*lg(1)/(24)12\*10<sup>(L<sub>d</sub>)/(10)</sup>+4\*10<sup>(L<sub>v</sub>+5)/(10)</sup>+8\*10<sup>(L<sub>n+10</sub>)/(10)</sup>
+
+> kde
+
+> L<sub>d</sub> je dlouhodobý průměr hladiny akustického tlaku vážené funkcí A podle české technické normy<sup>4</sup>) určený za všechna denní období jednoho roku,
+
+> L<sub>v</sub> je dlouhodobý průměr hladiny akustického tlaku vážené funkcí A podle české technické normy<sup>4</sup>) určený za všechna večerní období jednoho roku,
+
+> L<sub>n</sub> je dlouhodobý průměr hladiny akustického tlaku vážené funkcí A podle české technické normy<sup>4</sup>) určený za všechna noční období jednoho roku
+
+> a kde
+
+> den je 12 hodin v rozmezí od 6:00 hodin do 18:00 hodin; večer jsou 4 hodiny v rozmezí od 18:00 hodin do 22:00 hodin; noc je 8 hodin v rozmezí od 22:00 hodin do 6:00 hodin a rok je příslušný kalendářní rok, pokud jde o imise hluku, a průměrný rok, pokud jde o meteorologické podmínky.“.
+
+7\. V příloze č. 1 bod 5. včetně poznámky pod čarou č. 8 zní:
+
+> „5. V případě výpočtu pro účely strategického hlukového mapování z hlediska vystavení osob hluku v budovách a v jejich blízkosti musí být hodnotící bod ve výšce 4,0 m nad terénem, a to podle výpočtových metod stanovených přílohou II směrnice Evropského parlamentu a Rady 2002/49/ES o hodnocení a řízení hluku ve venkovním prostředí, v platném znění<sup>8</sup>), (dále jen „stanovené výpočtové metody“).
+
+> <sup>8</sup>) Příloha II směrnice Evropského parlamentu a Rady 2002/49/ES o hodnocení a řízení hluku ve venkovním prostředí, ve znění směrnice 2015/996 a směrnice 2021/1226.“.
+
+8\. V příloze č. 1 bod 7. zní:
+
+> „7. Pro výpočet hodnot hlukových ukazatelů L<sub>dvn</sub> a L<sub>n</sub> se použijí pro hluk ze silniční, železniční a letecké dopravy a pro průmyslový hluk stanovené výpočtové metody.
+
+> Pro tento výpočet se použijí pouze taková programová vybavení, která obsahují deklaraci o průkazné shodě tohoto programového vybavení se stanovenými výpočtovými metodami.“.
+
+Poznámka pod čarou č. 5 se zrušuje.
+
+9\. V příloze č. 2 bod 1. Obecná část zní:
+
+> 1\. Obecná část
+
+> Strategická hluková mapa představuje hlukovou situaci v 5dB pásmech (dále jen „příslušná 5dB pásma“), a to:
+
+> a) pro hlukový ukazatel L<sub>dvn</sub> hodnoty 50,0–54,9; 55,0–59,9; 60,0–64,9; 65,0–69,9; 70,0–74,9; &gt; 75,0 dB;
+
+> b) pro hlukový ukazatel L<sub>n</sub> hodnoty 40,0–44,9; 45,0–49,9; 50,0–54,9; 55,0–59,9; 60,0–64,9; 65,0–69,9; &gt; 70,0 dB.
+
+> Mapová část se pořizuje zvlášť pro hlukový ukazatel L<sub>dvn</sub> a pro hlukový ukazatel L<sub>n</sub>.
+
+> 1.1. Mapová část obsahuje alespoň následující údaje:
+
+> 1.1.1. Izofony hlukového ukazatele L<sub>dvn</sub> v 5dB pásmech.
+
+> 1.1.2. Izofony hlukového ukazatele L<sub>n</sub> v 5dB pásmech.
+
+> 1.1.3. Zobrazení hranic obcí a jejich název v okolí zdroje hluku.
+
+> 1.1.4. Zobrazení zdrojů hluku, které jsou předmětem výpočtu.
+
+> 1.1.5. Zobrazení budov v okolí zdrojů hluku.
+
+> 1.1.6. Zobrazení kritických míst.
+
+> 1.2. Tabulková část obsahuje alespoň následující údaje:
+
+> 1.2.1. Odhadovaný počet hlukem ovlivněných osob v příslušných 5dB pásmech.
+
+> 1.2.2. Odhadovaný počet hlukem ovlivněných staveb pro bydlení v příslušných 5dB pásmech.
+
+> 1.2.3. Odhadovaný počet hlukem ovlivněných staveb pro bydlení s tichou fasádou v příslušných 5dB pásmech, pokud jsou takové údaje k dispozici; tichou fasádou se rozumí fasáda, u které hodnota L<sub>dvn</sub> ve výšce 4 m nad zemí a 0,1 m před fasádou je pro hluk ze specifického zdroje o více než 20dB nižší než u fasády, která má nejvyšší hodnotu L<sub>dvn</sub> a současně L<sub>dvn</sub> tiché fasády je menší než 55dB.
+
+> 1.2.4. Odhadovaný počet hlukem ovlivněných staveb pro bydlení se speciálními protihlukovými opatřeními v příslušných 5dB pásmech, pokud jsou takové údaje k dispozici; speciálním protihlukovým opatřením se rozumí ochrana proti jednomu nebo více typům hluku v životním prostředí, v kombinaci s takovými ventilačními nebo klimatizačními zařízeními, aby bylo možné zachovat vysoké hodnoty protihlukové ochrany.
+
+> 1.2.5. Odhadovaný počet hlukem ovlivněných staveb škol v příslušných 5dB pásmech.
+
+> 1.2.6. Odhadovaný počet hlukem ovlivněných staveb lůžkových zdravotnických zařízení v příslušných 5dB pásmech.
+
+> 1.2.7. V případech uvedených pod body 1.2.1. až 1.2.6. počty osob a staveb pro bydlení, u nichž dochází k překročení mezních hodnot hlukových ukazatelů.
+
+> 1.2.8. Celkovou plochu území v km<sup>2</sup> vystavenou hodnotám L<sub>dvn</sub> &gt; 55 dB, L<sub>dvn</sub> &gt; 65 dB, L<sub>dvn</sub> &gt; 75 dB.
+
+> 1.2.9. Celkový počet osob vystavených hodnotám L<sub>dvn</sub> &gt; 55 dB, L<sub>dvn</sub> &gt; 65 dB, L<sub>dvn</sub> &gt; 75 dB.
+
+> 1.2.10. Celkový počet staveb pro bydlení vystavených hodnotám L<sub>dvn</sub> &gt; 55 dB, L<sub>dvn</sub> &gt; 65 dB, L<sub>dvn</sub> &gt; 75 dB.
+
+> Údaje podle bodů 1.2.1. až 1.2.6. této přílohy se pro jednotlivé zdroje strukturují po krajích, dále po obcích s uvedením kódu obce a názvu obce podle Číselníku obcí Českého statistického úřadu a případně po úsecích, včetně uvedení součtu za celou Českou republiku.
+
+> 1.3. Textová část obsahuje alespoň následující údaje:
+
+> 1.3.1. Identifikační údaje pořizovatele a zpracovatele (název, adresa, IČO).
+
+> 1.3.2. Stručný popis posuzovaného území.
+
+> 1.3.3. Popis podkladů pro zpracování strategické hlukové mapy a jejich zdroj.
+
+> 1.3.4. Popis metodiky zpracování strategické hlukové mapy.
+
+> 1.3.5. Vyhodnocení nejistot výpočtu.
+
+> 1.3.6. Určení kritických míst na základě překročení mezních hodnot hlukových ukazatelů. Při kumulaci hluku stejné kategorie zdrojů různých provozovatelů se na základě dostupných dat stanoví jejich podíl a vliv jednotlivých zdrojů jako podklad pro zpracování akčních plánů protihlukových opatření. Kritická místa se pak určí na základě příspěvků všech zdrojů hluku stejných kategorií.“.
+
+10\. V příloze č. 2 bodu 2. úvodní části se slovo „zařízení“ nahrazuje slovem „zařízení<sup>2</sup>)“ a věta druhá se zrušuje.
+
+11\. V příloze č. 3 se na konci bodu 1.5. doplňuje věta „V případě hluku z dopravy je součástí také identifikace úseků komunikace, pro které je akční plán pořízen.“.
+
+12\. V příloze č. 3 se za bod 1.14. vkládá nový bod 1.15., který zní:
+
+> „1.15. Prostorové vymezení území tichých oblastí v aglomeraci.“.
+
+Dosavadní bod 1.15. se označuje jako bod 1.16.
+
+13\. Příloha č. 4 včetně nadpisu zní:
+
+> **„Příloha č. 4 k vyhlášce č. 315/2018 Sb.**
+
+> **Metody hodnocení škodlivých účinků**
+
+> 1\. Soubor škodlivých účinků
+
+> V rámci hodnocení škodlivých účinků se zohlední:
+
+> 1.1. Ischemická choroba srdeční odpovídající kódům BA40 až BA6Z Mezinárodní statistické klasifikace nemocí a přidružených zdravotních problémů (MKN-11),
+
+> 1.2. Vysoké obtěžování hlukem,
+
+> 1.3. Vysoké rušení spánku.
+
+> 2\. Výpočet škodlivých účinků:
+
+> 2.1. Relativní riziko škodlivého účinku definované jako
+
+> RR=(Pravděpodobnost výskytu škodlivého účinku v populaci vystavené konkrétní hladině hluku ve venkovním prostředí)/(Pravděpodobnost výskytu škodlivého účinku v populaci nevystavené hluku ve venkovním prostředí)
+
+> kde
+
+> RR je relativní riziko.
+
+> 2.2. Absolutní riziko škodlivého účinku definované jako
+
+> AR = (Výskyt škodlivého účinku v populaci vystavené konkrétní hladině hluku ve venkovním prostředí)
+
+> kde
+
+> AR je absolutní riziko vyjádřené absolutním číslem nebo procentem.
+
+> 2.3. Ischemická choroba srdeční
+
+> Pro výpočet relativního rizika pro hluk, pokud jde o škodlivý účinek ischemické choroby srdeční a míru incidence, se použijí tyto vztahy mezi dávkou a účinkem:
+
+> | RR<sub>IHD,i,road</sub>={e(ln1,08)/(10)\*L<sub>dvn</sub>-531 | pro L<sub>dvn</sub> &gt; 53 dB<br> <br> pro L<sub>dvn</sub> ≤ 53 dB |
+> |---|---|
+
+> pro hluk ze silniční dopravy
+
+> kde
+
+> RR<sub>IHD,i,road</sub> je relativní riziko škodlivého účinku ischemické choroby srdeční pro hluk ze silniční dopravy,
+
+> L<sub>dvn</sub> je hlukový ukazatel pro celodenní obtěžování hlukem ze silniční dopravy a
+
+> i je míra incidence pro hluk ze silniční dopravy.
+
+> 2.4. Vysoké obtěžování hlukem
+
+> 2.4.1. Pro výpočet absolutního rizika (AR) pro hluk ze silniční dopravy, pokud jde o škodlivý účinek vysokého obtěžování hlukem, se použijí tyto vztahy mezi dávkou a účinkem:
+
+> AR<sub>HA,road</sub> = (78,9270 - 3,1162 \* L<sub>dvn</sub> + 0,0342 \* L<sup>2</sup><sub>dvn</sub>) / 100
+
+> kde
+
+> AR<sub>HA,road</sub> je absolutní riziko škodlivého účinku vysokého obtěžování hlukem pro hluk ze silniční dopravy a
+
+> L<sub>dvn</sub> je hlukový ukazatel pro celodenní obtěžování hlukem ze silniční dopravy.
+
+> 2.4.2. Pro výpočet absolutního rizika pro hluk z železniční dopravy, pokud jde o škodlivý účinek vysokého obtěžování hlukem, se použijí tyto vztahy mezi dávkou a účinkem:
+
+> AR<sub>HA,rail</sub> = (38,1596 - 2,05538 \* L<sub>dvn</sub> + 0,0285 \* L<sup>2</sup><sub>dvn</sub>) / 100
+
+> kde
+
+> AR<sub>HA,rail</sub> je absolutní riziko škodlivého účinku vysokého obtěžování hlukem pro hluk ze železniční dopravy a
+
+> L<sub>dvn</sub> je hlukový ukazatel pro celodenní obtěžování hlukem ze železniční dopravy.
+
+> 2.4.3. Pro výpočet absolutního rizika pro hluk z letecké dopravy, pokud jde o škodlivý účinek vysokého obtěžování hlukem, se použijí tyto vztahy mezi dávkou a účinkem:
+
+> AR<sub>HA,air</sub> = (-50,9693 + 1,0168 \* L<sub>dvn</sub> + 0,0072 \* L<sup>2</sup><sub>dvn</sub>) / 100
+
+> kde
+
+> AR<sub>HA,air</sub> je absolutní riziko škodlivého účinku vysokého obtěžování hlukem pro hluk z letecké dopravy a
+
+> L<sub>dvn</sub> je hlukový ukazatel pro celodenní obtěžování hlukem z letecké dopravy.
+
+> 2.5. Vysoké rušení spánku
+
+> Pro výpočet absolutního rizika (AR), pokud jde o škodlivý účinek vysokého rušení spánku, se použijí tyto vztahy mezi dávkou a účinkem:
+
+> 2.5.1. Pro hluk ze silniční dopravy:
+
+> AR<sub>HSD,road</sub> = (19,4312 - 0,9336 \* L<sub>n</sub> + 0,0126 \* L<sup>2</sup><sub>n</sub>) / 100
+
+> kde
+
+> AR<sub>HSD,road</sub> je absolutní riziko škodlivého účinku vysokého rušení spánku pro hluk ze silniční dopravy a
+
+> L<sub>n</sub> je hlukový ukazatel pro rušení spánku hlukem ze silniční dopravy.
+
+> 2.5.2. Pro hluk z železniční dopravy:
+
+> AR<sub>HSD,rail</sub> = (67,5406 - 3,1852 \* L<sub>n</sub> + 0,0391 \* L<sup>2</sup><sub>n</sub>) / 100
+
+> kde
+
+> AR<sub>HSD,rail</sub> je absolutní riziko škodlivého účinku vysokého rušení spánku pro hluk z železniční dopravy a
+
+> L<sub>n</sub> je hlukový ukazatel pro rušení spánku hlukem ze železniční dopravy.
+
+> 2.5.3. Pro hluk z letecké dopravy:
+
+> AR<sub>HSD,air</sub> = (16,7885 - 0,9293 \* L<sub>n</sub> + 0,0198 \* L<sup>2</sup><sub>n</sub>) / 100
+
+> kde
+
+> AR<sub>HSD,air</sub> je absolutní riziko škodlivého účinku vysokého rušení spánku pro hluk z letecké dopravy a
+
+> L<sub>n</sub> je hlukový ukazatel pro rušení spánku hlukem z letecké dopravy.
+
+> 3\. Hodnocení škodlivých účinků
+
+> Expozice obyvatelstva se hodnotí pro každý zdroj hluku a škodlivý účinek zvlášť. Pokud jsou tytéž osoby současně vystaveny různým zdrojům hluku, nelze tyto škodlivé účinky kumulovat. Účinky však mohou být porovnávány za účelem zhodnocení relativního významu každého hluku.
+
+> 3.1. Hodnocení pro ischemickou chorobu srdeční
+
+> 3.1.1. U ischemické choroby srdeční v případě hluku ze silniční dopravy se podíl případů konkrétního škodlivého účinku v populaci vystavené relativnímu riziku, u něhož se vychází z toho, že je způsobeno hlukem ve venkovním prostředí, vypočítá pro zdroj hluku x (silniční dopravu), škodlivý účinek y (ischemickou chorobu srdeční) a incidenci i pomocí vzorce:
+
+> PAF<sub>x,y</sub>=(∑jp<sub>j</sub>\*RR<sub>j,x,y</sub>-1)/(∑jp<sub>j</sub>\*RR<sub>j,x,y</sub>-1+1)
+
+> kde
+
+> *x* je silniční doprava,
+
+> y je ischemická choroba srdeční,
+
+> PAF<sub>x,y</sub> je podíl přiřaditelný populaci,
+
+> j je soubor hlukových pásem, který je tvořen jednotlivými 5 dB pásmy podle přílohy č. 2 k této vyhlášce a
+
+> p<sub>j</sub> je podíl celkové populace P v hodnocené oblasti, která je vystavena expozičnímu pásmu j, jež je spojováno s daným relativním rizikem konkrétního škodlivého účinku RR<sub>j,x,y</sub>. RR<sub>j,x,y</sub> se vypočítá pomocí vzorců uvedených v bodě 2 této přílohy pro prostřední hodnotu každého hlukového pásma.
+
+> 3.1.2. U ischemické choroby srdeční v případě hluku ze silniční dopravy se celkový počet *N* případů ischemické choroby srdeční (osob postižených škodlivým účinkem *y*; počet přiřaditelných případů) v důsledku působení zdroje x rovná:
+
+> N<sub>x,y</sub> = PAF<sub>x,y,i</sub> \* I<sub>y</sub> \* P
+
+> kde
+
+> PAF<sub>x,y,i</sub> se vypočítá pro incidenci i,
+
+> I<sub>y</sub> je míra incidence ischemické choroby srdeční v hodnocené oblasti, kterou lze získat ze statistik o zdraví v regionu nebo zemi, kde se daná oblast nachází, a
+
+> P je celkový počet obyvatel v hodnocené oblasti (součet obyvatel v různých hlukových pásmech).
+
+> 3.2. Hodnocení pro vysoké obtěžování a vysoké rušení spánku
+
+> U vysokého obtěžování a vysokého rušení spánku hlukem ze silniční, železniční a letecké dopravy se celkový počet *N* osob postižených škodlivým účinkem *y* (počet přiřaditelných případů) z důvodu působení zdroje *x* pro každou kombinaci zdroje hluku (silniční, železniční nebo letecké dopravy) a škodlivého účinku *y* (vysokého obtěžování hlukem, vysokého rušení spánku) rovná:
+
+> N<sub>x,y</sub>=∑jn<sub>j</sub>\*AR<sub>j,x,y</sub>
+
+> kde
+
+> AR<sub>x,y</sub> je absolutní riziko relevantního škodlivého účinku (vysokého obtěžování hlukem, vysokého rušení spánku), které se vypočítá pomocí vzorců uvedených v bodě 2 této přílohy pro prostřední hodnotu každého hlukového pásma, a
+
+> n<sub>j</sub> je počet osob, které jsou vystaveny expozičnímu pásmu j.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení.
+
+Ministr:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.

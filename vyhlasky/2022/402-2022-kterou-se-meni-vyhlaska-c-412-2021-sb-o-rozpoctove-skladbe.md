@@ -1,0 +1,38 @@
+---
+title: "Vyhláška č. 402/2022 Sb., kterou se mění vyhláška č. 412/2021 Sb., o rozpočtové skladbě"
+identifier: "402/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/402/2023-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-12-07
+effective: 2023-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/402"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 402/2022 Sb., kterou se mění vyhláška č. 412/2021 Sb., o rozpočtové skladbě
+
+402
+
+VYHLÁŠKA
+
+ze dne 7. prosince 2022,
+
+kterou se mění vyhláška č. 412/2021 Sb., o rozpočtové skladbě
+
+Ministerstvo financí stanoví podle § 2a odst. 4 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 484/2020 Sb., a podle § 2 odst. 3 zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění zákona č. 484/2020 Sb.:
+
+## Čl. I
+
+V příloze č. 1 k vyhlášce č. 412/2021 Sb., o rozpočtové skladbě, se za řádek se slovy „Kapitola 363 Nejvyšší stavební úřad“ vkládá nový řádek se slovy „Kapitola 364 Digitální a informační agentura“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2023.
+
+Ministr financí:
+
+Ing. Stanjura v. r.

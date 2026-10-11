@@ -1,0 +1,50 @@
+---
+title: "Nařízení vlády č. 284/2024 Sb., o zvýšení zvláštního příspěvku k důchodu"
+identifier: "284/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/284/2025-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-09-18
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/284"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 284/2024 Sb., o zvýšení zvláštního příspěvku k důchodu
+
+284
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 18. září 2024
+
+o zvýšení zvláštního příspěvku k důchodu
+
+Vláda nařizuje podle § 6 odst. 4 zákona č. 357/2005 Sb., o ocenění účastníků národního boje za vznik a osvobození Československa a některých pozůstalých po nich, o zvláštním příspěvku k důchodu některým osobám, o jednorázové peněžní částce některým účastníkům národního boje za osvobození v letech 1939 až 1945 a o změně některých zákonů, (dále jen „zákon“):
+
+## § 1
+
+Výše zvláštního příspěvku k důchodu činí
+
+a) u oprávněného uvedeného v § 5 odst. 1 písm. a) a c) zákona částku 2 985 Kč měsíčně,
+
+b) u oprávněného uvedeného v § 5 odst. 1 písm. b) zákona a vdovy nebo vdovce uvedených v § 5 odst. 2 zákona částku 1 493 Kč měsíčně.
+
+## § 2
+
+Zvláštní příspěvek k důchodu, který byl přiznán ode dne spadajícího do období před 1. lednem 2025, se vyplácí ve výši podle § 1 od splátky důchodu, s níž se vyplácí, splatné po 31. prosinci 2024.
+
+## § 3
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2025.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.

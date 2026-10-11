@@ -1,0 +1,79 @@
+---
+title: "Nařízení vlády č. 63/2024 Sb., o některých podrobnostech poskytování ubytování a souvisejících služeb osobám s udělenou dočasnou ochranou"
+identifier: "63/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/63/2025-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-03-06
+effective: 2024-04-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/63"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 63/2024 Sb., o některých podrobnostech poskytování ubytování a souvisejících služeb osobám s udělenou dočasnou ochranou ve znění nařízení vlády č. 408/2024 Sb."
+---
+
+# Nařízení vlády č. 63/2024 Sb., o některých podrobnostech poskytování ubytování a souvisejících služeb osobám s udělenou dočasnou ochranou
+
+63
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 6. března 2024
+
+o některých podrobnostech poskytování ubytování a souvisejících služeb osobám s udělenou dočasnou ochranou
+
+Vláda nařizuje podle § 6b odst. 1 a § 6e odst. 2 zákona č. 65/2022 Sb., o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění zákona č. 198/2022 Sb. a zákona č. 75/2023 Sb.:
+
+## § 1 – Služby související s poskytováním ubytování
+
+(1) Při poskytování ubytování zajišťuje provozovatel ubytovaným osobám možnost stravování nebo přípravy stravy.
+
+(2) V případě ubytování v zařízeních provozovaných organizační složkou státu zřízenou Ministerstvem vnitra a pověřenou plněním úkolů podle § 92c zákona o azylu lze ubytovaným osobám poskytnout stravu a základní prostředky osobní hygieny.
+
+## § 2 – Rozložení ubytovacích kapacit
+
+Rozložení potřebných kapacit ubytování na území České republiky podle krajů stanoví příloha k tomuto nařízení.
+
+## § 3 – Výše paušální náhrady
+
+Výše paušální náhrady nákladů na ubytování za ubytovanou osobu za 1 noc činí
+
+a) 300 Kč při zajištění ubytování v zařízení, jehož provozovatelem je územní samosprávný celek nebo jím zřízená nebo založená právnická osoba, nebo při zajištění ubytování v účelových zařízeních pro ubytování podle § 22 odst. 1 písm. d) zákona o vysokých školách, nebo
+
+b) 350 Kč při zajištění ubytování v případech neuvedených v písmenu a).
+
+## § 4 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. dubna 2024.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Mgr. Bc. Rakušan v. r.
+
+### Příloha
+
+#### Rozložení ubytovacích kapacit v České republice
+
+| **Název kraje** | **Ubytovací kapacita** |
+|---|---|
+| Hlavní město Praha | 3 676 |
+| Středočeský kraj | 2 343 |
+| Jihočeský kraj | 1 179 |
+| Plzeňský kraj | 1 150 |
+| Karlovarský kraj | 526 |
+| Ústecký kraj | 1 379 |
+| Liberecký kraj | 753 |
+| Královéhradecký kraj | 962 |
+| Pardubický kraj | 893 |
+| Kraj Vysočina | 943 |
+| Jihomoravský kraj | 2 121 |
+| Olomoucký kraj | 1 071 |
+| Zlínský kraj | 943 |
+| Moravskoslezský kraj | 2 061 |
+| **Celkem** | **20 000** |

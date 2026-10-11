@@ -1,0 +1,142 @@
+---
+title: "Nařízení vlády č. 445/2021 Sb., kterým se mění nařízení vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech"
+identifier: "445/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/445/2022-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2021-11-12
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/445"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 445/2021 Sb., kterým se mění nařízení vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech
+
+445
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 12. listopadu 2021,
+
+kterým se mění nařízení vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech
+
+Vláda nařizuje podle § 38 odst. 10 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb., zákona č. 150/2010 Sb. a zákona č. 113/2018 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech, se mění takto:
+
+1\. V § 6 odst. 2 větě poslední, § 8 odst. 2, § 11 odst. 4 větě první a v příloze č. 3 části B poznámce 1) k tabulce 3 větě druhé se za slovo „nebezpečné“ vkládá slovo „závadné“.
+
+2\. V § 8 odst. 1 se slova „látek nebo zvlášť nebezpečných látek neuvedených v příloze č. 1 k tomuto nařízení“ nahrazují slovy „závadných látek“.
+
+3\. V § 9 odst. 4, § 11 odst. 4 větě první, § 12 odst. 2 větách první a poslední a v příloze č. 1 části B poznámce 7) k tabulce 2 se za slovo „nebezpečných“ vkládá slovo „závadných“.
+
+4\. V § 11 odst. 4 větě poslední se za slovo „nebezpečnými“ vkládá slovo „závadnými“.
+
+5\. V § 12 odst. 3 větě první se slova „s obsahem zvlášť nebezpečných látek neuvedených v tabulce 3 přílohy č. 1 k tomuto nařízení a odpadních vod“ zrušují a za slovo „nebezpečných“ se vkládá slovo „závadných“.
+
+6\. V § 12 odst. 4 se slovo „látek“ nahrazuje slovy „závadných látek nebo prioritních nebezpečných látek“.
+
+7\. V příloze č. 1 části A tabulce 1a se v prvním řádku tabulky za text „P<sub>celk</sub>“ vkládá „\*“.
+
+8\. V příloze č. 1 části A poznámce 1) k tabulce 1a větě šesté se za slovem „tabulce“ číslo „1“ zrušuje.
+
+9\. V příloze č. 1 části A poznámkách 3) a 5) k tabulce 1a větách posledních a v příloze č. 1 části A poznámce 2) k tabulce 1b větě poslední se slova „3) k tabulce 1“ nahrazují slovy „2) k tabulce“.
+
+10\. V příloze č. 1 části B tabulce 2 bod č. 20.12 zní:
+
+> „
+>
+> <table><tbody><tr><td rowspan="27">20.12</td><td colspan="7">Výroba barviv a pigmentů <sup>5</sup>)</td></tr><tr><td colspan="5">pH</td><td>-</td><td>6-9</td></tr><tr><td colspan="5">CHSK<sub>Cr</sub></td><td>mg/l</td><td>40</td></tr><tr><td colspan="5">BSK<sub>5</sub></td><td>mg/l</td><td>15</td></tr><tr><td colspan="5">RL</td><td>mg/l</td><td>4000</td></tr><tr><td colspan="5">RAS</td><td>mg/l</td><td>3500</td></tr><tr><td colspan="5">NL</td><td>mg/l</td><td>30</td></tr><tr><td colspan="5">N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>4</td></tr><tr><td colspan="5">Fluoridy</td><td>mg/l</td><td>9</td></tr><tr><td colspan="5">Sírany</td><td>mg/l</td><td>3000</td></tr><tr><td colspan="5">Železo</td><td>mg/l</td><td>8</td></tr><tr><td colspan="5">Výroba organických barviv:</td><td colspan="2"></td></tr><tr><td colspan="5">BSK<sub>5</sub></td><td>%</td><td>40</td></tr><tr><td colspan="5">CHSK<sub>Cr</sub></td><td>%</td><td>80</td></tr><tr><td colspan="5">RAS</td><td>kg/t</td><td>1250</td></tr><tr><td colspan="5">Výroba oxidu titaničitého sulfátovým procesem:</td><td></td><td></td></tr><tr><td colspan="5">pH</td><td>-</td><td>7-10</td></tr><tr><td colspan="5">NL</td><td>mg/l</td><td>30</td></tr><tr><td colspan="5">Železo</td><td>mg/l</td><td>8</td></tr><tr><td colspan="5">Sírany</td><td>kg/t</td><td>550</td></tr><tr><td colspan="5">Výroba oxidu titaničitého chloridovým způsobem<sup>27a</sup>)</td><td colspan="2"></td></tr><tr><td colspan="5">pH</td><td>mg/l</td><td>7-10</td></tr><tr><td colspan="5">NL</td><td>mg/l</td><td>30</td></tr><tr><td colspan="5">železo</td><td>mg/l</td><td>8</td></tr><tr><td colspan="5">chloridy</td><td>kg/t</td><td>130<sup>27b</sup>)</td></tr><tr><td colspan="5">chloridy</td><td>kg/t</td><td>228<sup>27c</sup>)</td></tr><tr><td colspan="5">chloridy</td><td>kg/t</td><td>330<sup>27d</sup>)</td></tr></tbody></table> “.
+>
+> “.
+
+11\. V příloze č. 1 části B tabulce 2 se bod „38.32“ nahrazuje bodem „38.20“, který zní:
+
+> „
+>
+> <table><tbody><tr><td>38.20</td><td colspan="7">Odstraňování odpadů </td></tr><tr><td rowspan="13"></td><td colspan="7">Spalování odpadů a spoluspalování odpadů:<sup>14</sup>)</td></tr><tr><td colspan="5">pH</td><td>-</td><td>6,5-8,5</td></tr><tr><td colspan="5">NL</td><td>mg/l</td><td>30</td></tr><tr><td colspan="5">Rtuť</td><td>mg/l</td><td>0,03</td></tr><tr><td colspan="5">Kadmium</td><td>mg/l</td><td>0,05</td></tr><tr><td colspan="5">Thallium</td><td>mg/l</td><td>0,05</td></tr><tr><td colspan="5">Arsen</td><td>mg/l</td><td>0,15</td></tr><tr><td colspan="5">Olovo</td><td>mg/l</td><td>0,2</td></tr><tr><td colspan="5">Chrom</td><td>mg/l</td><td>0,5</td></tr><tr><td colspan="5">Měď</td><td>mg/l</td><td>0,5</td></tr><tr><td colspan="5">Nikl</td><td>mg/l</td><td>0,5</td></tr><tr><td colspan="5">Zinek</td><td>mg/l</td><td>1,5</td></tr><tr><td colspan="5">Součet dioxinů a furanů <sup>15</sup>)</td><td>ng/l</td><td>0,3</td></tr></tbody></table> “.
+>
+> “.
+
+12\. V příloze č. 1 části B tabulce 2 se v bodě 75.00 odkaz na poznámku 16) zrušuje.
+
+13\. V příloze č. 1 části B poznámce a) k tabulce 2 se na konci textu věty první doplňují slova „ , pokud není dále uvedeno jinak“.
+
+14\. V příloze č. 1 části B poznámce a) k tabulce 2 větě poslední se slova „A nebo B nebo C“ zrušují a slova „3) k tabulce 1“ se nahrazují slovy „2) k tabulce“.
+
+15\. V příloze č. 1 části B poznámka 14) k tabulce 2 zní:
+
+> „<sup>14</sup>) U spaloven odpadů a zařízení na spoluspalování odpadů jde o odpadní vody z čištění plynů. Limitní hodnoty koncentrací budou pokládány za splněné, pokud
+
+> a) pro nerozpuštěné látky 95 % denně (bodově) měřených hodnot nebo měření reprezentativních vzorků úměrných průtoku za 24 hodin nepřekročí limitní hodnotu 30 mg/l a žádná hodnota nepřekročí 45 mg/l,
+
+> b) pro těžké kovy a arsen žádná hodnota v reprezentativních vzorcích úměrných průtoku za 24 hodin odebíraných s četností nejméně jednou za měsíc nepřekročí limitní hodnotu koncentrace a
+
+> c) pro dioxiny a furany měřené každých 6 měsíců, první rok provozu každé 3 měsíce, nepřekročí žádná měřená hodnota limitní hodnotu koncentrace.
+
+> Limitní hodnoty musejí být dodrženy v místě, ve kterém jsou odpadní vody ze zařízení na čištění spalin obsahující uvedené látky vypouštěny ze spalovacího nebo spoluspalovacího zařízení do vodního prostředí. Pokud jsou odpadní vody z čištění spalin čištěny mimo spalovací nebo spoluspalovací zařízení v čistírně odpadních vod určené k čištění pouze tohoto druhu odpadních vod, limitní hodnoty se uplatňují na odtoku z této čistírny odpadních vod. Pokud jsou odpadní vody z čištění odpadních plynů čištěny v místě svého vzniku společně s odpadními vodami z jiných zdrojů ve spalovacím zařízení, provádí provozovatel měření
+
+> a) v toku odpadních vod z procesů čištění odpadních plynů před příjmem do společného zařízení na čištění odpadních vod,
+
+> b) v toku či tocích ostatních odpadních vod před jejich příjmem do společného zařízení na čištění odpadních vod, nebo
+
+> c) v bodě konečného vypouštění odpadních vod po čištění ze zařízení na spalování odpadu nebo zařízení na spoluspalování odpadu.
+
+> Pokud jsou odpadní vody z čištění spalin čištěny v místě nebo mimo místo svého vzniku společně s jinými odpadními vodami, musejí být limitní hodnoty bilančně přepočteny.
+
+> V povolení se stanoví provozní kontinuální kontrolní měření odpadních vod, a to alespoň pH, teploty a průtoku.“.
+
+16\. V příloze č. 1 části B se za poznámku 27) k tabulce 2 vkládají nové poznámky 27a) až 27d), které znějí:
+
+> „<sup>27a</sup>) V případě použití více než 1 druhu rudy se uvedené mezní hodnoty emisí uplatní úměrně k používanému množství těchto rud.
+
+> <sup>27b</sup>) Při užívání neutrálního rutilu.
+
+> <sup>27c</sup>) Při užívání syntetického rutilu.
+
+> <sup>27d</sup>) Při užívání strusky.“.
+
+17\. V příloze č. 1 nadpisu části C, příloze č. 1 části C názvu tabulky 3 a v příloze č. 3 části B názvu tabulky 3 se za slovo „nebezpečných“ vkládá slovo „závadných“.
+
+18\. V příloze č. 3 části A se poznámky č. 1 až 16 k tabulce 1a zrušují, a to včetně odkazů na poznámky.
+
+19\. V příloze č. 3 části A poznámce F) k tabulce 1a se slova „vyhlášky č. 307/2002 Sb., ve znění pozdějších předpisů“ nahrazují slovy „vyhlášky č. 422/2016 Sb., o radiační ochraně a zabezpečení radionuklidového zdroje“.
+
+20\. V příloze č. 3 části A tabulce 1b se ve sloupci NEK-NPK u ukazatelů benzo[b]fluoranthen a benzo[k]fluoranthen číslo „0,17“ nahrazuje číslem „0,017“.
+
+21\. V příloze č. 3 části A poznámce k tabulce 1b se slova „Prioritní látky“ nahrazují slovem „Látky“ a na konci textu poznámky se doplňují slova „nebo prioritní nebezpečné látky“.
+
+22\. V příloze č. 3 části A poznámce 10) k tabulce 1b se slovo „polyaromatické“ nahrazuje slovy „polycyklické aromatické“.
+
+23\. V příloze č. 3 části A tabulce 1c se řádek s ukazatelem 3,4-dichloranilin, řádek s ukazatelem perfluoroktansulfonová kyselina a její deriváty a řádek s ukazatelem terbutryn zrušují.
+
+24\. V příloze č. 3 části A tabulce 1c se ve sloupci Značka, zkratka nebo číslo CASA u ukazatele MCPA text „26544-20-7“ nahrazuje textem „94-74-6“.
+
+25\. V příloze č. 3 části A se poznámky č. 17 až 27 k tabulce 1c zrušují, a to včetně odkazů na poznámky.
+
+26\. V příloze č. 3 části A poznámce G) k tabulce 1c se slova „vyhlášky č. 307/2002 Sb., ve znění pozdějších předpisů“ nahrazují slovy „vyhlášky č. 422/2016 Sb.“.
+
+27\. V příloze č. 3 části A tabulce 1c se věta „Pozn.: Prioritní látky označené symbolem „\*“ jsou zvlášť nebezpečné závadné látky.“ zrušuje.
+
+28\. V příloze č. 3 části A se poznámka 3) k tabulce 1c zrušuje.
+
+29\. V příloze č. 6 řádku 28 se slovo „polyaromatické“ nahrazuje slovy „polycyklické aromatické“.
+
+30\. V příloze č. 7 nadpisu tabulky se slova „uvedené pod tabulkami 1a a 1b“ nahrazují slovy „k tabulkám 1a a 1b“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2022.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr životního prostředí:
+
+Mgr. Brabec v. r.

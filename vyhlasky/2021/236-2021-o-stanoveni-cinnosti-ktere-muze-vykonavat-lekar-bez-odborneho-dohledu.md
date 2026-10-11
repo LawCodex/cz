@@ -1,0 +1,70 @@
+---
+title: "Vyhláška č. 236/2021 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene hygienicko-epidemiologického"
+identifier: "236/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/236/2021-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-06-14
+effective: 2021-07-01
+last_amended: 2021-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/236"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 236/2021 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene hygienicko-epidemiologického
+
+236
+
+VYHLÁŠKA
+
+ze dne 14. června 2021
+
+o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene hygienicko-epidemiologického
+
+Ministerstvo zdravotnictví stanoví podle § 37 odst. 1 písm. k) k provedení § 4 odst. 4 písm. a) zákona č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění zákona č. 67/2017 Sb.:
+
+## § 1
+
+Lékař může po získání certifikátu o absolvování základního kmene hygienicko-epidemiologického bez odborného dohledu
+
+a) provádět a kontrolovat šetření v ohnisku nákazy, stanovit nezbytná protiepidemická opatření,
+
+b) zpracovat a vyhodnocovat nálezy, spisovou a zdravotnickou dokumentaci z epidemiologických a hygienických šetření z hlediska vlivu na zdraví,
+
+c) zpracovávat výsledky měření fyzikálních, chemických a biologických faktorů, zejména hluku, vibrací, osvětlení, neionizujícího záření, mikroklimatických podmínek z hlediska vlivu na zdraví a vyhodnocovat je,
+
+d) hodnotit zdravotní riziko a provádět opatření v oblasti výživy, bezpečnosti potravin a předmětů běžného užívání,
+
+e) hodnotit zdravotní riziko a provádět opatření ve školách, školských zařízeních a na zotavovacích akcích pro děti,
+
+f) hodnotit zdravotní riziko a provádět opatření v problematice pitné vody, teplé vody, vody jiné jakosti a vody ke koupání,
+
+g) hodnotit zdravotní riziko a provádět opatření na pracovištích, posuzovat riziko pro šetření chorob z povolání,
+
+h) hodnotit zdravotní riziko a provádět opatření v oblasti prevence nákaz spojených s poskytováním zdravotních služeb,
+
+i) hodnotit zdravotní riziko v rámci preventivního dozoru,
+
+j) podílet se na šetření v rámci státního zdravotního dozoru,
+
+k) provádět šetření zdravotního stavu vybraných skupin populace, včetně růstu a vývoje dětí,
+
+l) provádět šetření nutričního stavu vybraných skupin populace,
+
+m) navrhovat a provádět intervenční opatření ke zlepšení zdravotního stavu populace,
+
+n) podílet se na realizaci epidemiologických studií v oblasti ochrany a podpory veřejného zdraví,
+
+o) sledovat proočkovanost populace, zejména prostřednictvím sběru a vyhodnocení dat v rámci činnosti příslušného orgánu ochrany veřejného zdraví nebo zdravotního ústavu nebo Státního zdravotního ústavu,
+
+p) provádět činnosti v rámci systému epidemiologické bdělosti u infekčních a neinfekčních onemocnění.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2021.
+
+Ministr:
+
+Mgr. et Mgr. Vojtěch, MHA, v. r.

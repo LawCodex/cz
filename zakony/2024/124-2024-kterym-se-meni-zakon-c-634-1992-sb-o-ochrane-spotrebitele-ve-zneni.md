@@ -1,0 +1,46 @@
+---
+title: "Zákon č. 124/2024 Sb., kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů"
+identifier: "124/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/124/2024-05-22"
+type: act
+jurisdiction: cz
+language: cs
+date: 2024-04-17
+effective: 2024-05-22
+last_amended: 2024-05-22
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/124"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 124/2024 Sb., kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů
+
+124
+
+ZÁKON
+
+ze dne 17. dubna 2024,
+
+kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+V § 24b odst. 1 zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění zákona č. 36/2008 Sb., zákona č. 281/2009 Sb., zákona č. 378/2015 Sb., zákona č. 183/2017 Sb. a zákona č. 238/2020 Sb., se slova „podle § 23“ nahrazují slovy „podle § 23, 23a, 23b, 23c nebo 23d“ a slova „jež byla spácháním přestupku porušena“ se nahrazují slovy „jejímž porušením došlo ke spáchání přestupku“.
+
+## Čl. II – Přechodné ustanovení
+
+Řízení zahájené orgány provádějícími dozor nad ochranou spotřebitele přede dnem nabytí účinnosti tohoto zákona se dokončí podle zákona č. 634/1992 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+
+## Čl. III – Účinnost
+
+Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Pekarová Adamová v. r.
+
+Pavel v. r.
+
+Fiala v. r.
+
+---

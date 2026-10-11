@@ -1,0 +1,61 @@
+---
+title: "Vyhláška č. 113/2024 Sb., o vydání pamětní stříbrné pětisetkoruny s dílčím pokovením „Tramvaj ČKD Tatra T3“"
+identifier: "113/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/113/2024-06-18"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-04-22
+effective: 2024-06-18
+last_amended: 2024-06-18
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/113"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 113/2024 Sb., o vydání pamětní stříbrné pětisetkoruny s dílčím pokovením „Tramvaj ČKD Tatra T3“
+
+113
+
+VYHLÁŠKA
+
+ze dne 22. dubna 2024
+
+o vydání pamětní stříbrné pětisetkoruny s dílčím pokovením „Tramvaj ČKD Tatra T3“
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb. a zákona č. 89/2018 Sb.:
+
+## § 1
+
+(1) Dnem 18. června 2024 se vydává pamětní stříbrná mince s dílčím pokovením „Tramvaj ČKD Tatra T3“ po 500 Kč (dále jen „pětisetkoruna“).
+
+(2) Pětisetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem.
+
+(3) Korpus pětisetkoruny se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost pětisetkoruny je 25 g, její průměr 40 mm a síla 2,6 mm. Při ražbě korpusu pětisetkoruny je přípustná odchylka v obsahu stříbra nahoru 1 %, odchylka v hmotnosti nahoru 0,50 g, odchylka v průměru 0,1 mm a odchylka v síle 0,15 mm. Hrana pětisetkoruny v běžném provedení je vroubkovaná, hrana pětisetkoruny ve zvláštním provedení je hladká s vlysem „ČNB \* TRAMVAJ \* T3 \*“.
+
+## § 2
+
+(1) Na lícní straně pětisetkoruny je v horní části mince kompozice části bočního a čelního pohledu na tramvaj ČKD Tatra T3. V dolní části mince je zobrazen detail části podvozku. Při horním okraji mince je text „ČESKÁ REPUBLIKA“. Označení nominální hodnoty mince se zkratkou peněžní jednotky „500 Kč“ je při spodním okraji mince. Značka České mincovny, která je tvořena kompozicí písmen „Č“ a „M“, je při pravém okraji mince.
+
+(2) Na rubové straně pětisetkoruny je tramvaj ČKD Tatra T3 ze šikmého pohledu včetně trolejového vedení a kolejnic. Zjednodušená barevnost tramvaje je na minci naznačena dílčím pokovením žlutým a červeným zlatem. Při spodním okraji mince je text „ČKD TATRA T3“ a při pravém okraji mince text „2024“ a kompozice iniciál autora mince, akademického sochaře Zbyňka Fojtů, která je tvořena písmeny „F“ a „Z“. Jednotlivé části textu a kompozice iniciál jsou ohraničeny tečkami.
+
+(3) Vyobrazení pětisetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 18. června 2024.
+
+Guvernér:
+
+Ing. Michl, Ph.D., v. r.
+
+### Příloha
+
+#### Vyobrazení pamětní stříbrné pětisetkoruny s dílčím pokovením „Tramvaj ČKD Tatra T3“
+
+(lícní a rubová strana)
+
+| ![sbcr2024c113z0113o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1025391/NAHLED/ZOBRAZ/sbcr2024c113z0113o001) | ![sbcr2024c113z0113o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1025393/NAHLED/ZOBRAZ/sbcr2024c113z0113o002) |
+|---|---|
+
+---

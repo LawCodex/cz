@@ -1,0 +1,90 @@
+---
+title: "Vyhláška č. 134/2026 Sb., kterou se mění vyhláška č. 328/2015 Sb., kterou se provádí zákon o azylu a zákon o dočasné ochraně cizinců, ve znění pozdějších předpisů"
+identifier: "134/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/134/2026-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2026-07-13
+effective: 2026-08-01
+last_amended: 2026-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/134"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 134/2026 Sb., kterou se mění vyhláška č. 328/2015 Sb., kterou se provádí zákon o azylu a zákon o dočasné ochraně cizinců, ve znění pozdějších předpisů
+
+134
+
+VYHLÁŠKA
+
+ze dne 13. července 2026,
+
+kterou se mění vyhláška č. 328/2015 Sb., kterou se provádí zákon o azylu a zákon o dočasné ochraně cizinců, ve znění pozdějších předpisů
+
+Ministerstvo vnitra stanoví podle § 57 odst. 3 a § 86 odst. 4 zákona č. 325/1999 Sb., o azylu, ve znění zákona č. 314/2015 Sb. a zákona č. 314/2025 Sb.:
+
+## Čl. I
+
+Vyhláška č. 328/2015 Sb., kterou se provádí zákon o azylu a zákon o dočasné ochraně cizinců, ve znění vyhlášky č. 68/2019 Sb. a vyhlášky č. 289/2023 Sb., se mění takto:
+
+1\. V § 1 odstavec 1 zní:
+
+> „(1) Tato vyhláška navazuje na přímo použitelný předpis Evropské unie<sup>1</sup>) a upravuje národní seznam zemí, které Česká republika považuje za bezpečné země původu<sup>3</sup>).“.
+
+Poznámka pod čarou č. 1 zní:
+
+> „<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) 2024/1348 ze dne 14. května 2024 o zavedení společného řízení o mezinárodní ochraně v Unii a o zrušení směrnice 2013/32/EU, v platném znění.“.
+
+Doplňuje se poznámka pod čarou č. 3, která zní:
+
+> „<sup>3</sup>) Čl. 64 nařízení Evropského parlamentu a Rady (EU) 2024/1348.“.
+
+2\. § 2 zní:
+
+> **„§ 2**
+
+> Česká republika považuje za bezpečnou zemi původu
+
+> a) Alžírsko,
+
+> b) Arménii,
+
+> c) Austrálii,
+
+> d) Ghanu,
+
+> e) Island,
+
+> f) Kanadu,
+
+> g) Lichtenštejnsko,
+
+> h) Mongolsko,
+
+> i) Norsko,
+
+> j) Nový Zéland,
+
+> k) Senegal,
+
+> l) Spojené státy americké,
+
+> m) Švýcarsko,
+
+> n) Velkou Británii a Severní Irsko.“.
+
+3\. § 3 a 4 se zrušují.
+
+4\. Poznámka pod čarou č. 2 zní:
+
+> „<sup>2</sup>) Směrnice Evropského parlamentu a Rady (EU) 2024/1346 ze dne 14. května 2024, kterou se stanoví normy pro přijímání žadatelů o mezinárodní ochranu (přepracované znění).“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jejího vyhlášení.
+
+Ministr:
+
+Mgr. Metnar v. r.

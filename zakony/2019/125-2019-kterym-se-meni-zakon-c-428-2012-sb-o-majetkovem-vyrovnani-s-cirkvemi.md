@@ -1,0 +1,50 @@
+---
+title: "Zákon č. 125/2019 Sb., kterým se mění zákon č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi) a zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů"
+identifier: "125/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/125/2020-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2019-04-23
+effective: 2020-01-01
+last_amended: 2020-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/125"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 125/2019 Sb., kterým se mění zákon č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi) a zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů
+
+125
+
+ZÁKON
+
+ze dne 23. dubna 2019,
+
+kterým se mění zákon č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi) a zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o majetkovém vyrovnání s církvemi a náboženskými společnostmi
+
+### Čl. I
+
+V § 15 zákona č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi), se odstavec 6 zrušuje.
+
+## ČÁST DRUHÁ – Změna zákona o daních z příjmů
+
+### Čl. II
+
+V § 18a zákona č. 586/1992 Sb., o daních z příjmů, ve znění zákonného opatření Senátu č. 344/2013 Sb., se v odstavci 1 písm. f) za slovem „věci“ doplňují slova „s výjimkou finanční náhrady“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. III
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2020.
+
+Vondráček v. r.
+
+Zeman v. r.
+
+Babiš v. r.

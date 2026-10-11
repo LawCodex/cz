@@ -1,0 +1,48 @@
+---
+title: "Vyhláška č. 145/2024 Sb., kterou se mění vyhláška č. 520/2005 Sb., o rozsahu hotových výdajů a ušlého výdělku, které správní orgán hradí jiným osobám, a o výši paušální částky nákladů řízení, ve znění vyhlášky č. 112/2017 Sb."
+identifier: "145/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/145/2024-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-05-28
+effective: 2024-07-01
+last_amended: 2024-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/145"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 145/2024 Sb., kterou se mění vyhláška č. 520/2005 Sb., o rozsahu hotových výdajů a ušlého výdělku, které správní orgán hradí jiným osobám, a o výši paušální částky nákladů řízení, ve znění vyhlášky č. 112/2017 Sb.
+
+145
+
+VYHLÁŠKA
+
+ze dne 28. května 2024,
+
+kterou se mění vyhláška č. 520/2005 Sb., o rozsahu hotových výdajů a ušlého výdělku, které správní orgán hradí jiným osobám, a o výši paušální částky nákladů řízení, ve znění vyhlášky č. 112/2017 Sb.
+
+Ministerstvo vnitra stanoví podle § 176 zákona č. 500/2004 Sb., správní řád:
+
+## Čl. I
+
+Vyhláška č. 520/2005 Sb., o rozsahu hotových výdajů a ušlého výdělku, které správní orgán hradí jiným osobám, a o výši paušální částky nákladů řízení, ve znění vyhlášky č. 112/2017 Sb., se mění takto:
+
+1\. V § 2 odst. 3 a v § 4 se slova „zákona o cestovních náhradách<sup>5</sup>)“ nahrazují slovy „zákoníku práce“.
+
+Poznámka pod čarou č. 5 se zrušuje.
+
+2\. V § 6 odst. 1 se částka „1 000 Kč“ nahrazuje částkou „2 500 Kč“.
+
+## Čl. II – Přechodné ustanovení
+
+Náklady řízení zahájených a pravomocně neskončených přede dnem nabytí účinnosti této vyhlášky se stanoví podle dosavadních právních předpisů.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2024.
+
+Ministr:
+
+Mgr. Bc. Rakušan v. r.

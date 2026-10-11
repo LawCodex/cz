@@ -1,0 +1,82 @@
+---
+title: "Nařízení vlády č. 427/2025 Sb., o koeficientech, kterými se násobí počty dětí, žáků a studentů pro účely stanovení podílu krajů a obcí na daňových příjmech"
+identifier: "427/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/427/2026-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-09-10
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/427"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 427/2025 Sb., o koeficientech, kterými se násobí počty dětí, žáků a studentů pro účely stanovení podílu krajů a obcí na daňových příjmech
+
+427
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 10. září 2025
+
+o koeficientech, kterými se násobí počty dětí, žáků a studentů pro účely stanovení podílu krajů a obcí na daňových příjmech
+
+Vláda nařizuje podle § 3 odst. 4 a § 4 odst. 10 zákona č. 243/2000 Sb., o rozpočtovém určení výnosů některých daní územním samosprávným celkům a některým státním fondům (zákon o rozpočtovém určení daní), ve znění zákona č. 267/2025 Sb., a čl. VI bodu 4 zákona č. 267/2025 Sb., kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů, a některé další zákony:
+
+## § 1 – Koeficienty
+
+Koeficient, kterým se pro účely § 3 odst. 2 a § 4 odst. 2 a 5 zákona o rozpočtovém určení daní násobí počty dětí, žáků a studentů, činí
+
+a) 1,2 v případě dětí v mateřské škole,
+
+b) 2 v případě dětí v mateřské škole zřízené podle § 16 odst. 9 školského zákona a dětí v mateřské škole ve třídě zřízené podle § 16 odst. 9 školského zákona,
+
+c) 1 v případě dětí zařazených do přípravné třídy,
+
+d) 2 v případě dětí zařazených do přípravného stupně základní školy speciální,
+
+e) 1 v případě žáků základní školy zřízené krajem nebo obcí,
+
+f) 1,2 v případě žáků základní školy zřízené dobrovolným svazkem obcí,
+
+g) 1,2 v případě žáků základní školy zřízené jako školská právnická osoba, jsou-li jejími zřizovateli alespoň 2 obce,
+
+h) 2 v případě žáků základní školy zřízené podle § 16 odst. 9 školského zákona a žáků základní školy ve třídě zřízené podle § 16 odst. 9 školského zákona,
+
+i) 1 v případě žáků střední školy,
+
+j) 2 v případě žáků střední školy zřízené podle § 16 odst. 9 školského zákona a žáků střední školy ve třídě zřízené podle § 16 odst. 9 školského zákona,
+
+k) 1 v případě žáků konzervatoře,
+
+l) 1 v případě studentů vyšší odborné školy,
+
+m) 0,1 v případě žáků základní umělecké školy,
+
+n) 9 v případě dětí v dětském domově,
+
+o) 1 v případě žáků a studentů ubytovaných v domově mládeže,
+
+p) 2 v případě dětí a žáků ubytovaných v internátu a
+
+q) 0,1 v případě dětí, žáků a studentů přihlášených k pravidelné činnosti ve středisku volného času.
+
+## § 2 – Mimořádné zvýšení souhrnné hodnoty získané násobením počtů dětí, žáků a studentů koeficienty podle § 1
+
+Nepřesáhne-li počet dětí, žáků a studentů ve školách zřizovaných obcí, školských výchovných a ubytovacích zařízeních zajišťujících celodenní výchovu, ubytování a stravování zřizovaných obcí a střediscích volného času zřizovaných obcí a dětí v dětských domovech zřizovaných obcí v souhrnu za obec 500, navýší se souhrnná hodnota získaná násobením počtů těchto dětí, žáků a studentů koeficienty podle § 1 o 10.
+
+## § 3 – Účinnost
+
+(1) Toto nařízení nabývá účinnosti dnem 1. ledna 2026.
+
+(2) Ustanovení § 2 pozbývá platnosti uplynutím dne 31. prosince 2026.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr školství, mládeže a tělovýchovy:
+
+doc. PhDr. Bek, Ph.D., v. r.

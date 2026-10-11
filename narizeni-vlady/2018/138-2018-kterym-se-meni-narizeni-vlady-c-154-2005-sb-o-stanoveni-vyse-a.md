@@ -1,0 +1,214 @@
+---
+title: "Nařízení vlády č. 138/2018 Sb., kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů"
+identifier: "138/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/138/2018-09-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2018-06-13
+effective: 2018-09-01
+last_amended: 2018-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/138"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 138/2018 Sb., kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů
+
+138
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 13. června 2018,
+
+kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 150 odst. 1 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 261/2007 Sb., zákona č. 304/2007 Sb., zákona č. 468/2011 Sb. a zákona č. 252/2017 Sb., k provedení § 24 odst. 5 a § 37 odst. 2 zákona o elektronických komunikacích, ve znění zákona č. 304/2007 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění nařízení vlády č. 288/2007 Sb., nařízení vlády č. 162/2008 Sb., nařízení vlády č. 228/2009 Sb., nařízení vlády č. 156/2011 Sb., nařízení vlády č. 175/2012 Sb., nařízení vlády č. 284/2015 Sb. a nařízení vlády č. 43/2017 Sb., se mění takto:
+
+1\. V § 1 se doplňuje odstavec 4, který zní:
+
+> „(4) V případě, že by výše ročního poplatku za využívání rádiových kmitočtů a čísel určená způsobem podle sazebníku poplatků byla nižší nebo vyšší než meze stanovené v § 24 odst. 2 nebo § 37 odst. 2 zákona, odpovídá výše poplatku výši meze, které nedosahuje nebo kterou překračuje.“.
+
+2\. V příloze v položce 1 odst. 1 se na konci textu písmene a) doplňují slova „, a o jedné polarizaci, není-li v tomto nařízení vlády uvedeno jinak“.
+
+3\. V příloze v položce 1 část A.1 zní:
+
+> „A. 1. Celoplošné rádiové sítě
+
+> Kč ročně dle výpočtu
+
+> Celoplošnými rádiovými sítěmi se pro účely zpoplatnění rozumí sítě, ve kterých rádiové kmitočty mohou být využívány rádiovými zařízeními na celém území České republiky. Mezi celoplošné rádiové sítě pozemní pohyblivé služby nepatří rádiové sítě s celostátně využívaným rádiovým kmitočtem pouze pro pohyblivá rádiová zařízení. Celoplošnými rádiovými sítěmi se dále rozumí i rádiové sítě, jejichž prostřednictvím jsou zajišťovány důležité zájmy státu.
+
+> Výpočet:
+
+> C = S1 x K1 x K16
+
+> kde je
+
+> C Poplatek za využívání 1 rádiového kmitočtu
+
+> S1 Sazba za 1 kHz využívané šířky kmitočtového pásma
+
+> S1 = 1600 Kč
+
+> K1 Koeficient využívané šířky kmitočtového pásma
+
+> Tento koeficient se vypočte z šířky (v kHz) 1 kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+> K1 = 1 x šířka [v kHz]
+
+> pro kmitočty mimo kmitočtové pásmo 380-385/390-395 MHz
+
+> K1 = 0,25 x šířka [v kHz]
+
+> pro kmitočty v kmitočtovém pásmu 380-385/390-395 MHz
+
+> K16 Koeficient kmitočtového pásma
+
+> K16 = 1 pro f &lt; 1 GHz
+
+> K16 = 0,7 pro 1 GHz ≤ f &lt; 2,2 GHz
+
+> K16 = 0,2 pro f ≥ 2,2 GHz“.
+
+4\. V příloze v položce 1 části A.2 bod A 2.1 zní:
+
+> **„A 2.1 Regionální a lokální rádiové sítě**
+
+> Regionálními a lokálními rádiovými sítěmi se pro účely zpoplatnění rozumí rádiové sítě, ve kterých rádiové kmitočty mohou být využívány rádiovými zařízeními na vymezeném území České republiky podle podmínek přídělu rádiových kmitočtů, za účelem poskytování veřejně dostupných služeb elektronických komunikací.
+
+> Výpočet:
+
+> C = S1 x K1 x K16 x Kr
+
+> kde je
+
+> C Poplatek za využívání 1 rádiového kmitočtu
+
+> S1 Sazba za 1 kHz využívané šířky kmitočtového pásma
+
+> S1 = 1600 Kč
+
+> K1 Koeficient využívané šířky kmitočtového pásma
+
+> Tento koeficient se vypočte z šířky (v kHz) 1 kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+> K1 = 1 x šířka [v kHz]
+
+> K16 Koeficient kmitočtového pásma
+
+> K16 = 1 pro f &lt; 1 GHz
+
+> K16 = 0,7 pro 1 GHz ≤ f &lt; 2,2 GHz
+
+> K16 = 0,2 pro f ≥ 2,2 GHz
+
+> Kr Koeficient regionálního rozsahu sítě
+
+> Výše koeficientu se vypočte na základě vzorce:
+
+> **Kr=(POP<sub>reg</sub>)/(POP<sub>ČR</sub>)**
+
+> kde je
+
+> POP<sub>reg</sub> počet obyvatel regionu nebo lokality, která je určena v podmínkách přídělu
+
+> POP<sub>ČR</sub> počet obyvatel České republiky“.
+
+5\. V příloze v položce 1 část B zní:
+
+> „B. PEVNÁ SLUŽBA
+
+> Kč ročně dle výpočtu
+
+> Výpočet:
+
+> C = S3 x K9 x K10 x K15
+
+> kde je
+
+> C Poplatek za využívání 1 rádiového kmitočtu
+
+> S3 Sazba za 1 rádiový kmitočet podle druhu radioreléového spoje, kmitočtového pásma (f) a zabrané šířky kmitočtového pásma (šp)
+
+> a) Radioreléový spoj bod-bod
+
+> | Sazba za rádiový kmitočet v Kč | 0 MHz &lt; šp ≤ 5 MHz | 5 MHz &lt; šp ≤ 10 MHz | 10 MHz &lt; šp ≤ 20 MHz | 20 MHz &lt; šp ≤ 30 MHz | 30 MHz &lt; šp ≤ 60 MHz | šp &gt; 60 MHz |
+> |---|---|---|---|---|---|---|
+> | f ≤ 1 GHz | 500 | 1 000 | 2 000 | 3000 | 3 500 | 5 600 |
+> | 1 GHz &lt; f ≤ 3 GHz | 5 000 | 10 000 | 20 000 | 30 000 | 35 000 | 56 000 |
+> | 3 GHz &lt; f ≤ 16 GHz | 4 000 | 8 000 | 16 000 | 24 000 | 28 000 | 44 800 |
+> | 16 GHz &lt; f ≤ 24 GHz | 3 000 | 6 000 | 12 000 | 18 000 | 21 000 | 33 600 |
+> | 24 GHz &lt; f ≤ 35 GHz | 2 500 | 5 000 | 10 000 | 15 000 | 17 500 | 28 000 |
+> | 35 GHz &lt; f ≤ 40 GHz | 2 000 | 4 000 | 8 000 | 12 000 | 14 000 | 22 400 |
+> | 40 GHz &lt; f ≤ 47 GHz | 1 000 | 2 000 | 4 000 | 6 000 | 10 000 | 16 000 |
+> | 47 GHz &lt; f ≤ 55 GHz | 600 | 1 300 | 2 500 | 3 800 | 6 300 | 10 000 |
+> | 55 GHz &lt; f ≤ 66 GHz | 100 | 300 | 500 | 800 | 1 300 | 2 000 |
+> | f &gt; 66 GHz | 600 | 1 300 | 2 500 | 3 800 | 6 300 | 10 000 |
+
+> b) Radioreléový spoj bod-multibod (1 řídící stanice)
+
+> | Sazba za rádiový kmitočet v Kč | 0 MHz &lt; šp ≤ 5 MHz | 5 MHz &lt; šp ≤ 10 MHz | 10 MHz &lt; šp ≤ 20 MHz | 20 MHz &lt; šp ≤ 30 MHz | 30 MHz &lt; šp ≤ 60 MHz | šp &gt; 60 MHz |
+> |---|---|---|---|---|---|---|
+> | f ≤ 1 GHz | 1 250 | 2 500 | 5 000 | 7 500 | 8 750 | 14 000 |
+> | 1 GHz &lt; f ≤ 3 GHz | 12 500 | 25 000 | 50 000 | 75 000 | 87 500 | 140 000 |
+> | 3 GHz &lt; f ≤ 16 GHz | 10 000 | 20 000 | 40 000 | 60 000 | 70 000 | 112 000 |
+> | 16 GHz &lt; f ≤ 24 GHz | 7 500 | 15 000 | 30 000 | 45 000 | 52 500 | 84 000 |
+> | 24 GHz &lt; f ≤ 35 GHz | 6 250 | 12 500 | 25 000 | 37 500 | 43 750 | 70 000 |
+> | 35 GHz &lt; f ≤ 40 GHz | 5 000 | 10 000 | 20 000 | 30 000 | 35 000 | 56 000 |
+> | 40 GHz &lt; f ≤ 47 GHz | 2 500 | 5 000 | 10 000 | 15 000 | 25 000 | 40 000 |
+> | 47 GHz &lt; f ≤ 55 GHz | 1 500 | 3 250 | 6 250 | 9 500 | 15 750 | 25 000 |
+> | 55 GHz &lt; f ≤ 66 GHz | 250 | 750 | 1 250 | 2 000 | 3 250 | 5 000 |
+> | f &gt; 66 GHz | 1 500 | 3 250 | 6 250 | 9 500 | 15 750 | 25 000 |
+
+> <table><tbody><tr><td>K9</td><td colspan="3">Koeficient výstupního výkonu Q použitého zařízení:</td></tr><tr><td></td><td>K9 = 0,25 </td><td></td><td>Q ≤ 0 dBm</td></tr><tr><td></td><td>K9 = 0,4 </td><td>0 dBm &lt; </td><td>Q ≤ 10dBm</td></tr><tr><td></td><td>K9 = 0,6 </td><td>10 dBm &lt; </td><td>Q ≤ 20dBm</td></tr><tr><td></td><td>K9 = 0,8 </td><td>20 dBm &lt; </td><td>Q ≤ 30dBm</td></tr><tr><td></td><td>K9 = 1 </td><td>30 dBm &lt; </td><td>Q ≤ 40dBm</td></tr><tr><td></td><td>K9 = 1,5 </td><td></td><td>Q &gt; 40 dBm</td></tr><tr><td>K10</td><td colspan="3">Koeficient řízení výstupního výkonu použitého rádiového zařízení:</td></tr><tr><td></td><td>K10 = 0,8 </td><td colspan="2">systém řízení výstupního výkonu použit</td></tr><tr><td></td><td>K10 = 1</td><td colspan="2">systém řízení výstupního výkonu nepoužit</td></tr><tr><td>K15</td><td colspan="3">Koeficient křížové polarizace</td></tr><tr><td></td><td>K15 = 1,25 </td><td colspan="2">křížová polarizace použita</td></tr><tr><td></td><td>K15 = 1 </td><td colspan="2">křížová polarizace nepoužita</td></tr></tbody></table>
+
+> Poznámka:
+
+> Pro systémy MWS (multimediální bezdrátové systémy) typu uspořádání bod-multibod v případě obousměrného rádiového provozu tohoto systému se poplatky vyměřují v kategorii pevná služba i v případě, že část poskytované služby má charakter rozhlasové služby. Poplatky za využívání kmitočtů rádiovými zařízeními pevné služby s kmitočty do 1 GHz včetně (s výjimkou rádiových směrových pevných spojů bod-bod v kmitočtovém pásmu 405-425 MHz) se vyměří výpočtem pro pozemní pohyblivou službu.“.
+
+6\. V příloze v položce 1 část D zní:
+
+> „D. DRUŽICOVÁ SLUŽBA
+
+> Kč ročně dle výpočtu
+
+> Výpočet:
+
+> C = S5 x K12 x K13
+
+> kde je
+
+> C Poplatek za využívání 1 rádiového kmitočtu pozemskou stanicí
+
+> S5 Sazba za 1 MHz šířky kmitočtového pásma zabrané vysíláním
+
+> S5 = 2500 Kč
+
+> K12 Koeficient šířky kmitočtového pásma zabrané vysíláním
+
+> K12 = 4 pro šířku pásma ≤ 4 MHz
+
+> K12 pro šířku pásma &gt; 4 MHz se rovná počtu MHz, odpovídajícímu šířce kmitočtového pásma zabraného vysíláním
+
+> K13 Koeficient použití technologie s mnohonásobným přístupem ke kanálu
+
+> K13 = 0,1 při použití technologie s mnohonásobným přístupem ke kanálu
+
+> K13 = 1 není-li použita technologie s mnohonásobným přístupem ke kanálu“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. září 2018.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Hüner v. r.

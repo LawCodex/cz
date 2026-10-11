@@ -1,0 +1,40 @@
+---
+title: "Vyhláška č. 78/2026 Sb., kterou se mění vyhláška č. 573/2025 Sb., o změně sazby základní náhrady za používání silničních motorových vozidel a stravného a o stanovení průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad pro rok 2026"
+identifier: "78/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/78/2026-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2026-05-26
+effective: 2026-06-01
+last_amended: 2026-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/78"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 78/2026 Sb., kterou se mění vyhláška č. 573/2025 Sb., o změně sazby základní náhrady za používání silničních motorových vozidel a stravného a o stanovení průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad pro rok 2026
+
+78
+
+VYHLÁŠKA
+
+ze dne 26. května 2026,
+
+kterou se mění vyhláška č. 573/2025 Sb., o změně sazby základní náhrady za používání silničních motorových vozidel a stravného a o stanovení průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad pro rok 2026
+
+Ministerstvo práce a sociálních věcí stanoví podle § 189 odst. 2 zákona č. 262/2006 Sb., zákoník práce:
+
+## Čl. I
+
+Vyhláška č. 573/2025 Sb., o změně sazby základní náhrady za používání silničních motorových vozidel a stravného a o stanovení průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad pro rok 2026, se mění takto:
+
+V § 4 písm. c) se číslo „34,10“ nahrazuje číslem „44,50“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. června 2026.
+
+Ministr:
+
+Ing. Juchelka v. r.

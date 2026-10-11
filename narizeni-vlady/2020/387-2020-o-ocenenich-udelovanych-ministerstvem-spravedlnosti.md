@@ -1,0 +1,58 @@
+---
+title: "Nařízení vlády č. 387/2020 Sb., o oceněních udělovaných Ministerstvem spravedlnosti"
+identifier: "387/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/387/2021-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2020-09-14
+effective: 2021-01-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/387"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 387/2020 Sb., o oceněních udělovaných Ministerstvem spravedlnosti
+
+387
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. září 2020
+
+o oceněních udělovaných Ministerstvem spravedlnosti
+
+Vláda nařizuje podle § 49 odst. 6 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 26/2008 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje ocenění udělovaná Ministerstvem spravedlnosti (dále jen „ministerstvo“) a podmínky pro jejich udělování.
+
+## § 2 – Udělení ocenění
+
+(1) Ministerstvo může udělovat tato ocenění:
+
+a) ocenění fyzické nebo právnické osobě za zásluhy o rozvoj justice a práva,
+
+b) ocenění fyzické osobě za projevení talentu představujícího příslib pro rozvoj práva a jeho řádné aplikace.
+
+(2) Udělení ocenění podle odstavce 1 písm. a) musí být odůvodněno konkrétními skutečnostmi svědčícími o mimořádném nebo dlouhodobém přínosu pro českou justici a právo.
+
+(3) Udělení ocenění podle odstavce 1 písm. b) musí být odůvodněno prokázáním výjimečných schopností v oblasti práva.
+
+## § 3 – Formy ocenění
+
+Ocenění podle § 2 odst. 1 tvoří diplom a případně též ocenění v peněžní, nebo věcné formě, nebo jejich kombinace. Součet hodnot všech ocenění udělených ministerstvem v jednom kalendářním roce nesmí přesáhnout 200 000 Kč.
+
+## § 4 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2021.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministryně spravedlnosti:
+
+Mgr. Benešová v. r.

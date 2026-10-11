@@ -1,0 +1,414 @@
+---
+title: "Vyhláška č. 296/2024 Sb., kterou se mění vyhláška č. 61/2011 Sb., o požadavcích na odběr vzorků, postupy a metody zkoušení osiva a sadby, ve znění pozdějších předpisů"
+identifier: "296/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/296/2025-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-10-03
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/296"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 296/2024 Sb., kterou se mění vyhláška č. 61/2011 Sb., o požadavcích na odběr vzorků, postupy a metody zkoušení osiva a sadby, ve znění pozdějších předpisů
+
+296
+
+VYHLÁŠKA
+
+ze dne 3. října 2024,
+
+kterou se mění vyhláška č. 61/2011 Sb., o požadavcích na odběr vzorků, postupy a metody zkoušení osiva a sadby, ve znění pozdějších předpisů
+
+Ministerstvo zemědělství stanoví podle § 3a odst. 11, § 4 odst. 15 písm. a), b) a e), § 5 odst. 8 písm. f), § 6 odst. 8 písm. c) a d), § 19 odst. 17 písm. l) a § 22 odst. 11 písm. b) zákona č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění zákona č. 178/2006 Sb., zákona č. 299/2007 Sb., zákona č. 96/2009 Sb., zákona č. 281/2009 Sb., zákona č. 300/2009 Sb., zákona č. 331/2010 Sb., zákona č. 54/2012 Sb., zákona č. 279/2013 Sb., zákona č. 243/2016 Sb., zákona č. 183/2017 Sb., zákona č. 295/2017 Sb., zákona č. 334/2020 Sb. a zákona č. 277/2023 Sb.:
+
+## Čl. I
+
+Vyhláška č. 61/2011 Sb., o požadavcích na odběr vzorků, postupy a metody zkoušení osiva a sadby, ve znění vyhlášky č. 410/2013 Sb., vyhlášky č. 3/2018 Sb., vyhlášky č. 156/2021 Sb. a vyhlášky č. 505/2021 Sb., se mění takto:
+
+1\. § 2 včetně nadpisu zní:
+
+> **„§ 2 – Postup při kontrole průvodních dokladů partie rozmnožovacího materiálu**
+
+> [K § 4 odst. 15 písm. b) a e) a § 19 odst. 17 písm. l) zákona]
+
+> (1) Před vzorkováním dodavatel vzorkovateli předloží tyto doklady:
+
+> a) žádost o uznání rozmnožovacího materiálu,
+
+> b) doklad o uznání množitelského porostu,
+
+> c) záznamy podle § 7 odst. 1 zákona,
+
+> d) evidenci přijatých, vydaných a skartovaných návěsek podle jednotlivých kategorií a generací rozmnožovacího materiálu vedenou podle § 19 odst. 5 zákona, která obsahuje alespoň údaje uvedené v odstavci 2, a protokol o likvidaci návěsek, které byly zlikvidovány, a to na formulářích, jejichž vzory jsou zveřejněny na internetových stránkách Ústavu; evidenci přijatých, vydaných a skartovaných návěsek lze předložit v elektronické podobě,
+
+> e) vyplněné údaje na vzorkovnici podle vzoru potisku vzorkovnice uvedeného v příloze č. 2 k této vyhlášce a
+
+> f) u sadby brambor vyplněnou návěsku vzorku pro stanovení zdravotního stavu sadby brambor, která obsahuje údaje podle odstavce 5.
+
+> (2) Evidence přijatých, vydaných a skartovaných návěsek podle odstavce 1 písm. d) obsahuje alespoň následující údaje:
+
+> a) datum přijetí návěsek nebo datum tisku návěsek, v případě skartace návěsek datum skartace,
+
+> b) druh a odrůda,
+
+> c) kategorie a generace,
+
+> d) číslo partie,
+
+> e) počet a rozmezí sériových čísel přijatých, vydaných a skartovaných návěsek,
+
+> f) subjekt, pro který jsou návěsky určeny, a
+
+> g) razítko a podpis vzorkovatele, který provedl kontrolu údajů v evidenci.
+
+> (3) Provozovna, kde probíhá vzorkování pro účely uznání osiva, musí být vybavena knihou s pevnou vazbou se záznamy o všech vzorkovaných partiích. Vzorkovatel při vzorkování potvrzuje záznamy v této knize svým podpisem a razítkem. Kniha záznamů o vzorkovaných partiích může být nahrazena výrobní evidencí osiv a obsahuje alespoň následující údaje:
+
+> a) datum vzorkování,
+
+> b) číslo partie,
+
+> c) identifikace množitele,
+
+> d) druh a odrůda,
+
+> e) kategorie a generace,
+
+> f) velikost partie a
+
+> g) rozmezí sériových čísel návěsek.
+
+> (4) Návěsky z neuznaného osiva se z obalů odstraní při expedici ze skladu. Likvidace návěsek se provádí v místě odstranění návěsek z obalů. Likvidaci návěsek provádí výhradně vzorkovatel nebo přehlížitel, který je zaměstnancem Ústavu, a potvrzuje ji na protokolu o likvidaci návěsek.
+
+> (5) Návěska vzorku pro stanovení zdravotního stavu sadby brambor obsahuje alespoň název odrůdy, kategorii a generaci, výměru množitelského porostu, číslo množitelského porostu, razítko dodavatele, identifikaci množitele, označení regionu a okresu, ve kterém je množitelský porost umístěn. Po vlastním odběru vzorku je doplněno datum odběru vzorku a podpis a razítko vzorkovatele, který odběr vzorku provedl.“.
+
+2\. V § 3 se na konci odstavce 3 doplňuje věta „Maximální hmotnost partie osiva trav lze zvýšit na 25 000 kg, pokud dodavatel obdržel povolení od Ústavu.“.
+
+3\. V § 4 se na konci odstavce 5 doplňuje věta „V případě hybridního osiva zelenin lze upravit velikost vzorku na vegetační zkoušku po dohodě se zkušební stanicí pro vegetační zkoušky zelenin.“.
+
+4\. V § 6 se na začátek odstavce 2 vkládají věty „Každá uskladněná partie osiva nebo její část musí být nepřetržitě označena připevněným partiovým štítkem. Všechny obaly partie osiva musí být neporušené.“.
+
+5\. V textu pod skupinovým nadpisem nad § 11 se text „h)“ nahrazuje textem „f)“ a číslo „10“ se nahrazuje číslem „11“.
+
+6\. V § 11 odst. 3 písm. d) se slova „cukrovky a krmné řepy“ nahrazují slovy „řepy cukrové a řepy krmné“.
+
+7\. V § 11 odst. 4 se věta poslední zrušuje.
+
+8\. V příloze č. 1 části 2 bodě 2.1 podbodě 2.1.5. části 2.1.5.1 odst. 2 se na konci textu písmene a) doplňují slova „v rámci osiva jedné partie“.
+
+9\. V příloze č. 1 části 2 bodě 2.1 podbodě 2.1.5. části 2.1.5.1 odst. 7 se za větu první vkládá věta „Evidence vzorkovaných partií je v knize automatického vzorkovadla vedena v tom pořadí, v jakém jednotlivé partie procházejí automatickým vzorkovadlem.“.
+
+10\. V příloze č. 1 části 2 bodě 2.1 podbodě 2.1.5. části 2.1.5.3 se doplňuje odstavec 4, který zní:
+
+> „(4) Za datum vzorkování se v případě použití automatického vzorkovadla považuje datum, kdy vzorkovatel odebere všechny požadované vzorky ze skříně automatického vzorkovadla a zároveň zkontroluje obaly příslušných partií osiva ve skladu.“.
+
+11\. V příloze č. 1 části 4 se v odstavci 4 slova „s výjimkou olejnin a přadných rostlin, u nichž se předepisuje hmotnost 250 g“ zrušují.
+
+12\. V příloze č. 1 části 5 odst. 3 písm. a) bodě 5 se text „± 3 %“ nahrazuje textem „± 2 %“.
+
+13\. V příloze č. 1 části 9 se za bod 9.3 vkládá nadpis, který zní „9.4 Tabulky k bodu 9.2.4“.
+
+14\. V příloze č. 1 části 9 bodě 9.4 tabulka 11 část 1. zní:
+
+> **„Tabulka 11 Část 1.**
+
+> <table><tbody><tr><th rowspan="2">Průměrný počet semen jiného rostlinného druhu</th><th colspan="3">Tolerovaný rozsah pro počet nezávislých vzorků (N)</th><th rowspan="2">Průměrný počet semen jiného rostlinného druhu</th><th colspan="3">Tolerovaný rozsah pro počet nezávislých vzorků (N)</th><th rowspan="2">Průměrný počet semen jiného rostlinného druhu</th><th colspan="3">Tolerovaný rozsah pro počet nezávislých vzorků (N)</th></tr><tr><th>5-9</th><th>10-19</th><th>20</th><th>5-9</th><th>10-19</th><th>20</th><th>5-9</th><th>10-19</th><th>20</th></tr><tr><td>1</td><td>6</td><td>7</td><td>7</td><td>47</td><td>38</td><td>42</td><td>46</td><td>93</td><td>53</td><td>59</td><td>65</td></tr><tr><td>2</td><td>8</td><td>9</td><td>10</td><td>48</td><td>38</td><td>43</td><td>47</td><td>94</td><td>53</td><td>60</td><td>65</td></tr><tr><td>3</td><td>10</td><td>11</td><td>12</td><td>49</td><td>39</td><td>43</td><td>47</td><td>95</td><td>54</td><td>60</td><td>66</td></tr><tr><td>4</td><td>11</td><td>13</td><td>14</td><td>50</td><td>39</td><td>44</td><td>48</td><td>96</td><td>54</td><td>60</td><td>66</td></tr><tr><td>5</td><td>13</td><td>14</td><td>15</td><td>51</td><td>39</td><td>44</td><td>48</td><td>97</td><td>54</td><td>61</td><td>66</td></tr><tr><td>6</td><td>14</td><td>15</td><td>17</td><td>52</td><td>40</td><td>45</td><td>49</td><td>98</td><td>54</td><td>61</td><td>67</td></tr><tr><td>7</td><td>15</td><td>17</td><td>18</td><td>53</td><td>40</td><td>45</td><td>49</td><td>99</td><td>55</td><td>61</td><td>67</td></tr><tr><td>8</td><td>16</td><td>18</td><td>19</td><td>54</td><td>40</td><td>45</td><td>50</td><td>100</td><td>55</td><td>62</td><td>67</td></tr><tr><td>9</td><td>17</td><td>19</td><td>21</td><td>55</td><td>41</td><td>46</td><td>50</td><td>101</td><td>55</td><td>62</td><td>68</td></tr><tr><td>10</td><td>18</td><td>20</td><td>22</td><td>56</td><td>41</td><td>46</td><td>51</td><td>102</td><td>55</td><td>62</td><td>68</td></tr><tr><td>11</td><td>19</td><td>21</td><td>23</td><td>57</td><td>42</td><td>47</td><td>51</td><td>103</td><td>56</td><td>62</td><td>68</td></tr><tr><td>12</td><td>19</td><td>22</td><td>24</td><td>58</td><td>42</td><td>47</td><td>51</td><td>104</td><td>56</td><td>63</td><td>69</td></tr><tr><td>13</td><td>20</td><td>23</td><td>25</td><td>59</td><td>42</td><td>47</td><td>52</td><td>105</td><td>56</td><td>63</td><td>69</td></tr><tr><td>14</td><td>21</td><td>23</td><td>26</td><td>60</td><td>43</td><td>48</td><td>52</td><td>106</td><td>57</td><td>63</td><td>69</td></tr><tr><td>15</td><td>22</td><td>24</td><td>26</td><td>61</td><td>43</td><td>48</td><td>53</td><td>107</td><td>57</td><td>64</td><td>70</td></tr><tr><td>16</td><td>22</td><td>25</td><td>27</td><td>62</td><td>43</td><td>49</td><td>53</td><td>108</td><td>57</td><td>64</td><td>70</td></tr><tr><td>17</td><td>23</td><td>26</td><td>28</td><td>63</td><td>44</td><td>49</td><td>54</td><td>109</td><td>57</td><td>64</td><td>70</td></tr><tr><td>18</td><td>24</td><td>26</td><td>29</td><td>64</td><td>44</td><td>49</td><td>54</td><td>110</td><td>58</td><td>65</td><td>71</td></tr><tr><td>19</td><td>24</td><td>27</td><td>30</td><td>65</td><td>44</td><td>50</td><td>54</td><td>111</td><td>58</td><td>65</td><td>71</td></tr><tr><td>20</td><td>25</td><td>28</td><td>30</td><td>66</td><td>45</td><td>50</td><td>55</td><td>112</td><td>58</td><td>65</td><td>71</td></tr><tr><td>21</td><td>25</td><td>28</td><td>31</td><td>67</td><td>45</td><td>50</td><td>55</td><td>113</td><td>58</td><td>65</td><td>72</td></tr><tr><td>22</td><td>26</td><td>29</td><td>32</td><td>68</td><td>45</td><td>51</td><td>56</td><td>114</td><td>59</td><td>66</td><td>72</td></tr><tr><td>23</td><td>27</td><td>30</td><td>33</td><td>69</td><td>46</td><td>51</td><td>56</td><td>115</td><td>59</td><td>66</td><td>72</td></tr><tr><td>24</td><td>27</td><td>30</td><td>33</td><td>70</td><td>46</td><td>52</td><td>56</td><td>116</td><td>59</td><td>66</td><td>73</td></tr><tr><td>25</td><td>28</td><td>31</td><td>34</td><td>71</td><td>46</td><td>52</td><td>57</td><td>117</td><td>59</td><td>67</td><td>73</td></tr><tr><td>26</td><td>28</td><td>32</td><td>35</td><td>72</td><td>47</td><td>52</td><td>57</td><td>118</td><td>60</td><td>67</td><td>73</td></tr><tr><td>27</td><td>29</td><td>32</td><td>35</td><td>73</td><td>47</td><td>53</td><td>58</td><td>119</td><td>60</td><td>67</td><td>73</td></tr><tr><td>28</td><td>29</td><td>33</td><td>36</td><td>74</td><td>47</td><td>53</td><td>58</td><td>120</td><td>60</td><td>67</td><td>74</td></tr><tr><td>29</td><td>30</td><td>33</td><td>37</td><td>75</td><td>48</td><td>53</td><td>58</td><td>121</td><td>60</td><td>68</td><td>74</td></tr><tr><td>30</td><td>30</td><td>34</td><td>37</td><td>76</td><td>48</td><td>54</td><td>59</td><td>122</td><td>61</td><td>68</td><td>74</td></tr><tr><td>31</td><td>31</td><td>34</td><td>38</td><td>77</td><td>48</td><td>54</td><td>59</td><td>123</td><td>61</td><td>68</td><td>75</td></tr><tr><td>32</td><td>31</td><td>35</td><td>38</td><td>78</td><td>49</td><td>54</td><td>60</td><td>124</td><td>61</td><td>68</td><td>75</td></tr><tr><td>33</td><td>32</td><td>36</td><td>39</td><td>79</td><td>49</td><td>55</td><td>60</td><td>125</td><td>61</td><td>69</td><td>75</td></tr><tr><td>34</td><td>32</td><td>36</td><td>39</td><td>80</td><td>49</td><td>55</td><td>60</td><td>126</td><td>62</td><td>69</td><td>76</td></tr><tr><td>35</td><td>33</td><td>37</td><td>40</td><td>81</td><td>49</td><td>55</td><td>61</td><td>127</td><td>62</td><td>69</td><td>76</td></tr><tr><td>36</td><td>33</td><td>37</td><td>41</td><td>82</td><td>50</td><td>56</td><td>61</td><td>128</td><td>62</td><td>70</td><td>76</td></tr><tr><td>37</td><td>34</td><td>38</td><td>41</td><td>83</td><td>50</td><td>56</td><td>61</td><td>129</td><td>62</td><td>70</td><td>76</td></tr><tr><td>38</td><td>34</td><td>38</td><td>42</td><td>84</td><td>50</td><td>56</td><td>62</td><td>130</td><td>63</td><td>70</td><td>77</td></tr><tr><td>39</td><td>34</td><td>39</td><td>42</td><td>85</td><td>51</td><td>57</td><td>62</td><td>131</td><td>63</td><td>70</td><td>77</td></tr><tr><td>40</td><td>35</td><td>39</td><td>43</td><td>86</td><td>51</td><td>57</td><td>62</td><td>132</td><td>63</td><td>71</td><td>77</td></tr><tr><td>41</td><td>35</td><td>40</td><td>43</td><td>87</td><td>51</td><td>57</td><td>63</td><td>133</td><td>63</td><td>71</td><td>78</td></tr><tr><td>42</td><td>36</td><td>40</td><td>44</td><td>88</td><td>52</td><td>58</td><td>63</td><td>134</td><td>64</td><td>71</td><td>78</td></tr><tr><td>43</td><td>36</td><td>41</td><td>44</td><td>89</td><td>52</td><td>58</td><td>64</td><td>135</td><td>64</td><td>71</td><td>78</td></tr><tr><td>44</td><td>37</td><td>41</td><td>45</td><td>90</td><td>52</td><td>58</td><td>64</td><td>136</td><td>64</td><td>72</td><td>78</td></tr><tr><td>45</td><td>37</td><td>41</td><td>45</td><td>91</td><td>52</td><td>59</td><td>64</td><td>137</td><td>64</td><td>72</td><td>79</td></tr><tr><td>46</td><td>37</td><td>42</td><td>46</td><td>92</td><td>53</td><td>59</td><td>65</td><td>138</td><td>64</td><td>72</td><td>79</td></tr></tbody></table>
+
+> Pro průměrné počty semen jiného rostlinného druhu (JRD) vyšší než 138 se tolerovaný rozsah vypočítá podle následujícího vzorce a zaokrouhlí směrem nahoru na další celé číslo:
+
+> Pro N = 5 – 9: R = √((průměrný počet semen JRD)) x 5,44
+
+> Pro N = 10 – 19: R = √((průměrný počet semen JRD)) x 6,11
+
+> Pro N = 20: R = √((průměrný počet semen JRD)) x 6,69“.
+
+15\. Příloha č. 2 zní:
+
+> **„Příloha č. 2**
+
+> **![sbcr2024c296z0296u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026367/NAHLED/ZOBRAZ/sbcr2024c296z0296u001)“.**
+
+16\. V příloze č. 3 části 2 odstavci 1 se slovo „prostřectvím“ nahrazuje slovem „prostřednictvím“.
+
+17\. V příloze č. 3 části 3 bodě 3.3 odstavec 2 zní:
+
+> „(2) Přehlížitel uvede popis jednotlivých odchylných rostlin a jejich počet u porostu všech kategorií. Celkový součet odchylných rostlin bude uveden číselně na záznamu a v závorce počet a popis jednotlivých odchylných rostlin.“.
+
+18\. V příloze č. 4 části 2 nadpisu bodu 2.5 se slova „cukrovky a krmné řepy“ nahrazují slovy „řepy cukrové a řepy krmné“.
+
+19\. V příloze č. 4 části 2 bodě 2.5 se slova „cukrovky a krmné řepy“ nahrazují slovy „řepy cukrové a řepy krmné“.
+
+20\. V příloze č. 4 části 3 bodě 3.1 tabulce č. 2 se slova „cukrovka, cukrovka“ nahrazují slovy „řepa cukrová, řepa cukrová“ a slova „krmná řepa“ se nahrazují slovy „řepa krmná“.
+
+21\. V příloze č. 4 části 3 bodě 3.3 tabulce č. 3 se slova „cukrovka, krmná řepa“ nahrazují slovy „řepa cukrová, řepa krmná“.
+
+22\. V příloze č. 4 části 4 bodě 4.1 tabulka č. 4 zní:
+
+> **„Tabulka č. 4 - Hraniční hodnoty odrůdové čistoty u jednotlivých druhů plodin**
+
+> <table><tbody><tr><th>Druh</th><th>SE, E</th><th>C1</th><th>C2</th></tr><tr><th colspan="4">LUSKOVINY A JETELOVINY</th></tr><tr><td>Hrách, peluška, bob</td><td>99,7 %</td><td>99,0 %</td><td>98,0 %</td></tr><tr><td>Sója</td><td>99,5 %</td><td>99,0 %</td><td>99,0 %</td></tr><tr><td>Všechny ostatní druhy luskovin a jetelovin, kromě hrachu, pelušky, bobu a sóji</td><td>1 na 30 m<sup>2</sup></td><td>1 na 10 m<sup>2</sup></td><td> 1 na 10 m<sup>2</sup></td></tr><tr><td><b>Hybridní odrůdy:</b> hrách, peluška, bob</td><td>99,7 %</td><td>99,0 %</td><td>98,0 %</td></tr><tr><th colspan="4">KRMNÉ PLODINY A OLEJNINY</th></tr><tr><td>Řepka a řepice</td><td>99,9 %</td><td>99,7 %</td><td>99,7 %</td></tr><tr><td>Krmná kapusta, tuřín, hořčice bílá, slunečnice</td><td>99,7 %</td><td>99,0 %</td><td>98,0 %</td></tr><tr><td>Len</td><td>99,7 %</td><td>98,0 %</td><td>97,5 %</td></tr><tr><td>Mák</td><td>99,0 %</td><td>98,0 %</td><td>98,0 %</td></tr><tr><td>Ostatní druhy</td><td>1 na 30 m<sup>2</sup></td><td>1 na 10 m<sup>2</sup></td><td> 1 na 10 m<sup>2</sup></td></tr><tr><td><b>Rodiče k hybridům</b></td><td></td><td></td><td></td></tr><tr><td>Řepice - odrůdová čistota</td><td>99,9 %</td><td></td><td></td></tr><tr><td>Řepice - sterilita</td><td>98,0 %</td><td></td><td></td></tr><tr><td>Řepka - sterilita - ozimá forma</td><td>99,0 %</td><td></td><td></td></tr><tr><td>Řepka - sterilita - jarní forma</td><td>98,0 %</td><td></td><td></td></tr><tr><td>Linie s pylem a samoopylené linie</td><td>99,9 %</td><td></td><td></td></tr><tr><td><b>Osivo linií hybridních odrůd (certifikované)</b></td><td></td><td></td><td></td></tr><tr><td>Linie - odrůdová čistota</td><td>99,0 %</td><td></td><td></td></tr><tr><td>Linie - sterilita</td><td>98,0 %</td><td></td><td></td></tr><tr><td>Řepice - linie s pylem</td><td>99,5 %</td><td></td><td></td></tr><tr><td>Řepka - linie s pylem</td><td>99,7 %</td><td></td><td></td></tr><tr><td>Linie samoopylené</td><td>99,5 %</td><td></td><td></td></tr><tr><td>Vegetační zkouška hybridů</td><td></td><td>90,0 %</td><td></td></tr><tr><th colspan="4">OBILNINY</th></tr><tr><td>Pšenice, ječmen, oves</td><td>99,9 %</td><td>99,7 %</td><td>99,0 %</td></tr><tr><td>Tritikale</td><td>99,7 %</td><td>99,0 %</td><td>98,0 %</td></tr><tr><td>Žito</td><td>1 na 30 m<sup>2</sup></td><td>1 na 10 m<sup>2</sup></td><td></td></tr><tr><td>Všechny ostatní druhy obilovin kromě pšenice, ječmene, ovsa, žita, tritikale a kukuřice</td><td>1 na 30 m<sup>2</sup></td><td>1 na 10 m<sup>2</sup></td><td> 1 na 10 m<sup>2</sup></td></tr><tr><td><b>Hybridní odrůdy:</b></td><td></td><td></td><td></td></tr><tr><td>Pšenice, ječmen, oves, žito - rodiče</td><td>99,9 %</td><td></td><td></td></tr><tr><td>Vegetační zkouška hybridů</td><td></td><td>90,0 %</td><td></td></tr><tr><th colspan="4">TRÁVY</th></tr><tr><td>Lipnice luční (kromě apomiktických jednoklonových odrůd)</td><td>1 na 20 m<sup>2</sup></td><td>4 na 10 m<sup>2</sup></td><td></td></tr><tr><td>Lipnice luční (apomiktické jednoklonové odrůdy)</td><td>1 na 20 m<sup>2</sup></td><td>6 na 10 m<sup>2</sup></td><td></td></tr><tr><td>Všechny druhy lipnic, kromě Lipnice luční</td><td>1 na 30 m<sup>2</sup></td><td>1 na 10 m<sup>2</sup></td><td></td></tr><tr><td>Všechny druhy, kromě jílků</td><td>1 na 30 m<sup>2</sup></td><td>1 na 10 m<sup>2</sup></td><td></td></tr><tr><td>Pouze jílky</td><td>1 na 50 m<sup>2</sup></td><td>1 na 10 m<sup>2</sup></td><td></td></tr></tbody></table> “.
+>
+> “.
+
+23\. V příloze č. 4 části 4 se v nadpisu bodu 4.7 slova „cukrovky a krmné řepy“ nahrazují slovy „řepy cukrové a řepy krmné“.
+
+24\. Příloha č. 5 zní:
+
+> **„Příloha č. 5**
+
+> **Maximální hmotnost partie, minimální hmotnost nebo velikost laboratorních vzorků, zkušebních vzorků a vzorků na vegetační zkoušky**
+
+> **Zemědělské druhy a zeleniny**
+
+> **Tabulka 1**
+
+> | Druh – česky | Druh – latinsky | Maximální hmotnost partie <sup>1)</sup><br> <br> <br> (kg) | Minimální hmotnost laboratorního nebo rezervního<br> vzorku<br> (g) | Minimální hmotnost základního zkušebního vzorku<br> (g) | Minimální hmotnost zkušebního vzorku<br> <br> (g) | Minimální hmotnost vzorku na vegetační zkoušku <sup>3)</sup> (g/ks) |
+> |---|---|---|---|---|---|---|
+> | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+> | **Anýz vonný** | *Pimpinella anisum* | 10 000 | 70 | 7 | 70 | 50 |
+> | **Artyčok** | *Cynara cardunculus* | 10 000 | 900 | 90 | 900 | 50 |
+> | **Bér italský**<br> (čumíza, mohár) | *Setaria italica* | 10 000 | 90 | 9 | 90 | 150 |
+> | **Bob polní** | *Vicia faba* | 30 000 | 1000 | 1000 | 1000 | 2000 |
+> | **Bob zahradní** | *Vicia faba* | 30 000 | 1000 | 1000 | 1000 | 2000 |
+> | **Bojínek hlíznatý <sup>2)</sup>** | *Phleum nodosum* | 10 000 | 50 | 1 | 10 | 75 |
+> | **Bojínek luční**<sup>**2)**</sup> | *Phleum pratense* | 10 000 | 50 | 1 | 10 | 75 |
+> | **Brokolice** | *Brassica oleracea* | 10 000 | 100 | 10 | 100 | 20 |
+> | **Celer bulvový <br> Celer řapíkatý** | *Apium graveolens* | 10 000 | 10 | 1 | 10 | 5 |
+> | **Cibule** | *Allium cepa* | 10 000 | 80 | 8 | 80 | 70 |
+> | **Cibule sečka** | *Allium fistulosum* | 10 000 | 50 | 5 | 50 | 70 |
+> | **Cizrna beraní** | *Cicer arietinum* | 30 000 | 1000 | 1000 | 1000 | 1000 |
+> | **Řepa cukrová** <br> (víceklíčkové odrůdy) | *Beta vulgaris* | 20 000 | 500 | 50 | 500 | 200 |
+> | **Řepa cukrová** (jednoklíčkové odrůdy) | *Beta vulgaris* | 20 000 | 500 | 30 | 300 | 200 |
+> | **Čekanka hlávková Čekanka pro puky** | *Cichorium intybus* | 10 000 | 50 | 5 | 50 | 25 |
+> | **Čekanka kořenová** | *Cichorium intybus* | 10 000 | 50 | 5 | 50 | 100 |
+> | **Černý kořen** | *Scorzonera hispanica* | 10 000 | 300 | 30 | 300 | 30 |
+> | **Česnek** | *Allium sativum* | 10 000 | 20 | 2 | 20 | 20 |
+> | **Čičorka pestrá** | *Securigera varia* | 10 000 | 100 | 10 | 100 | 100 |
+> | **Čirok** | *Sorghum bicolor subsp. bicolor* | 30 000 | 900 | 90 | 900 | 200 |
+> | **Čirok x čirok súdánská tráva** | *Sorghum bicolor subsp. bicolor x Sorghum bicolor subsp. drummondii* | 30 000 | 300 | 30 | 300 | 200 |
+> | **Čirok súdánská tráva** | *Sorghum bicolor subsp. drummondii* | 10 000 | 250 | 25 | 250 | 200 |
+> | **Čočka jedlá** | *Lens culinaris* | 30 000 | 600 | 60 | 600 | 500 |
+> | **Čtyřboč** <br> (špenát novozélandský) | *Tetragonia tetragonoides* | 20 000 | 1000 | 200 | 1000 | 150 |
+> | **Echalion** | *Allium cepa* | 10 000 | 80 | 8 | 80 | 70 |
+> | **Endivie** | *Cichorium endivia* | 10 000 | 40 | 4 | 40 | 10 |
+> | **Fazol obecný keříčkový <br> Fazol obecný pnoucí** | *Phaseolus vulgaris* | 30 000 | 1000 | 700 | 1000 | 500 |
+> | **Fazol šarlatový** | *Phaseolus coccineus* | 30 000 | 1000 | 1000 | 1000 | 500 |
+> | **Fenykl** | *Foeniculum vulgare* | 10 000 | 180 | 18 | 180 | 70 |
+> | **Festulolium <sup>2)</sup>** | *X Festulolium* | 10 000 | 100 | 6 | 60 | 200 |
+> | **Heřmánek pravý** | *Matricaria recutita* | 5 000 | 5 | 0,5 | 5 | 5 |
+> | **Hořčice bílá** | *Sinapis alba* | 10 000 | 400 | 20 | 200 | 250 |
+> | **Hořčice černá** | *Brassica nigra* | 10 000 | 100 | 4 | 40 | 250 |
+> | **Hořčice sareptská** | *Brassica juncea* | 10 000 | 100 | 4 | 40 | 250 |
+> | **Hrách polní** <br> (včetně pelušky) | *Pisum sativum* | 30 000 | 1000 | 900 | 1000 | 1000 |
+> | **Hrách cukrový <br> Hrách dřeňový <br> Hrách kulatosemenný** | *Pisum sativum* | 30 000 | 1000 | 900 | 1000 | 1000 |
+> | **Chilli** | *Capsicum annuum* | 10 000 | 150 | 15 | 150 | 10 |
+> | **Chřest** | *Asparagus officinalis* | 20 000 | 1000 | 100 | 1000 | 100 |
+> | **Ječmen** | *Hordeum vulgare* | 30 000 | 1000 | 120 | 1000 | 1000 |
+> | **Jestřabina východní** | *Galega orientalis* | 10 000 | 250 | 20 | 200 | 200 |
+> | **Jetel alexandrijský** | *Trifolium alexandrinum* | 10 000 | 400 | 6 | 60 | 300 |
+> | **Jetel luční** | *Trifolium pratense* | 10 000 | 300 | 5 | 50 | 300 |
+> | **Jetel luční x jetel prostřední** | *Trifolium pratense x Trifolium medium* | 10 000 | 300 | 5 | 50 | 300 |
+> | **Jetel nachový** | *Trifolium incarnatum* | 10 000 | 500 | 8 | 80 | 300 |
+> | **Jetel plazivý** | *Trifolium repens* | 10 000 | 200 | 2 | 20 | 200 |
+> | **Jetel prostřední** | *Trifolium medium* | 10 000 | 300 | 5 | 50 | 300 |
+> | **Jetel zvrácený** (perský) | *Trifolium resupinatum* | 10 000 | 200 | 2 | 20 | 300 |
+> | **Jetel zvrhlý** (švédský) | *Trifolium hybridum* | 10 000 | 200 | 2 | 20 | 300 |
+> | **Jílek hybridní**<sup>**2)**</sup> | *Lolium x hybridum* | 10 000 | 200 | 6 | 60 | 350 |
+> | **Jílek mnohokvětý <sup>2)</sup>** | *Lolium multiflorum* | 10 000 | 200 | 6 | 60 | 350 |
+> | **Jílek vytrvalý <sup>2)</sup>** | *Lolium perenne* | 10 000 | 200 | 6 | 60 | 350 |
+> | **Kadeřávek** | *Brassica oleracea* | 10 000 | 100 | 10 | 100 | 20 |
+> | **Kapusta hlávková** | *Brassica oleracea* | 10 000 | 100 | 10 | 100 | 20 |
+> | **Kapusta krmná** | *Brassica oleracea* | 10 000 | 200 | 10 | 100 | 250 |
+> | **Kapusta listová** | *Brassica oleracea* | 10 000 | 100 | 10 | 100 | 20 |
+> | **Kapusta růžičková** | *Brassica oleracea* | 10 000 | 100 | 10 | 100 | 20 |
+> | **Karda** | *Cynara cardunculus* | 10 000 | 900 | 90 | 900 | 50 |
+> | **Kedluben** | *Brassica oleracea* | 10 000 | 100 | 10 | 100 | 20 |
+> | **Kerblík** | *Anthriscus cerefolium* | 10 000 | 60 | 6 | 60 | 20 |
+> | **Kmín** | *Carum carvi* | 10 000 | 200 | 8 | 80 | 200 |
+> | **Komonice bílá** | *Melilotus albus* | 10 000 | 300 | 5 | 50 | 300 |
+> | **Konopí seté** | *Cannabis sativa* | 10 000 | 600 | 60 | 600 | 500 |
+> | **Kopr vonný** | *Anethum graveolens* | 10 000 | 40 | 4 | 40 | 40 |
+> | **Kopyšník** (plod) | *Hedysarum coronarium* | 10 000 | 1000 | 30 | 300 | 1000 |
+> | **Kopyšník** (semeno) | *Hedysarum coronarium* | 10 000 | 400 | 12 | 120 | 400 |
+> | **Koriandr setý** | *Coriandrum sativum* | 10 000 | 400 | 40 | 400 | 40 |
+> | **Kostřava červená <sup>2)</sup>** | *Festuca rubra* | 10 000 | 100 | 3 | 30 | 200 |
+> | **Kostřava drsnolistá <sup>2)</sup>** | *Festuca trachyphylla* | 10 000 | 100 | 2,5 | 30 | 200 |
+> | **Kostřava luční <sup>2)</sup>** | *Festuca pratensis* | 10 000 | 100 | 5 | 50 | 200 |
+> | **Kostřava ovčí <sup>2)</sup>** | *Festuca ovina* | 10 000 | 100 | 2,5 | 30 | 200 |
+> | **Kostřava rákosovitá** **<sup>2)</sup>** | *Festuca arundinacea* | 10 000 | 100 | 5 | 50 | 200 |
+> | **Kostřava vláskovitá** <sup>**2)**</sup> | *Festuca filiformis* | 10 000 | 100 | 2,5 | 30 | 200 |
+> | **Kozlíček polniček** | *Valerianella locusta* | 10 000 | 70 | 7 | 70 | 25 |
+> | **Kukuřice** (mimo cukrové a pukancové) | *Zea mays* | 40 000 | 1000 | 900 | 1000 | 1000 |
+> | **Kukuřice cukrová Kukuřice pukancová** | *Zea mays* | 20 000<br> (40 000) | 1000 | 900 | 1000 | 1000 |
+> | **Květák** | *Brassica oleracea* | 10 000 | 100 | 10 | 100 | 20 |
+> | **Len** | *Linum usitatissimum* | 10 000 | 300 | 15 | 150 | 150 |
+> | **Lesknice kanárská** | *Phalaris canariensis* | 10 000 | 400 | 20 | 200 | 200 |
+> | **Lesknice menší** | *Phalaris minor* | 10 000 | 200 | 20 | 200 | 200 |
+> | **Lesknice rákosovitá** | *Phalaris arundinacea* | 10 000 | 30 | 3 | 30 | 200 |
+> | **Lesknice vodní <sup>2)</sup>** | *Phalaris aquatica* | 10 000 | 100 | 4 | 50 | 200 |
+> | **Lilek vejcoplodý** | *Solanum melongena* | 10 000 | 150 | 15 | 150 | 10 |
+> | **Lipnice bahenní <sup>2)</sup>** | *Poa palustris* | 10 000 | 50 | 0,5 | 5 | 150 |
+> | **Lipnice hajní <sup>2)</sup>** | *Poa nemoralis* | 10 000 | 50 | 0,5 | 5 | 150 |
+> | **Lipnice luční <sup>2)</sup>** | *Poa pratensis* | 10 000 | 50 | 1 | 5 | 150 |
+> | **Lipnice obecná <sup>2)</sup>** | *Poa trivialis* | 10 000 | 50 | 1 | 5 | 150 |
+> | **Lipnice roční <sup>2)</sup>** | *Poa annua* | 10 000 | 50 | 1 | 10 | 150 |
+> | **Lipnice smáčknutá** | *Poa compressa* | 10 000 | 5 | 0,5 | 5 | 150 |
+> | **Lnička setá** | *Camelina sativa* | 10 000 | 40 | 4 | 40 | 100 |
+> | **Lupina bílá** | *Lupinus albus* | 30 000 | 1000 | 450 | 1000 | 1000 |
+> | **Lupina úzkolistá** | *Lupinus angustifolius* | 30 000 | 1000 | 450 | 1000 | 1000 |
+> | **Lupina žlutá** | *Lupinus luteus* | 30 000 | 1000 | 450 | 1000 | 1000 |
+> | **Majoránka zahradní** | *Origanum majorana* | 10 000 | 5 | 0,5 | 5 | 0,5 |
+> | **Mák setý** | *Papaver somniferum* | 10 000 | 50 | 1 | 10 | 100 |
+> | **Mangold**<br> (víceklíčkové odrůdy) | *Beta vulgaris* | 20 000 | 500 | 50 | 500 | 300 |
+> | **Mangold** <br> (jednoklíčkové odrůdy) | *Beta vulgaris* | 20 000 | 500 | 30 | 300 | 300 |
+> | **Medyněk vlnatý** | *Holcus lanatus* | 10 000 | 10 | 1 | 10 | 75 |
+> | **Meloun cukrový** | *Cucumis melo* | 10 000 | 150 | 70 | - | 100 ks |
+> | **Meloun vodní** | *Citrullus lanatus* | 20 000 | 1000 | 250 | 1000 | 100 ks |
+> | **Metlice trsnatá** | *Deschampsia cespitosa* | 10 000 | 10 | 1 | 10 | 150 |
+> | **Mrkev a mrkev krmná** | *Daucus carota* | 10 000 | 30 | 3 | 30 | 80 |
+> | **Okurka nakládačka Okurka salátová** | *Cucumis sativus* | 10 000 | 150 | 70 | - | 400 ks |
+> | **Ostropestřec mariánský** | *Silybum marianum* | 5 000 | 200 | 50 | 200 | 200 |
+> | **Oves hřebílkatý** | *Avena strigosa* | 30 000 | 1000 | 50 | 500 | 1000 |
+> | **Oves nahý** | *Avena nuda* | 30 000 | 1000 | 120 | 1000 | 1000 |
+> | **Oves setý** | *Avena sativa* | 30 000 | 1000 | 120 | 1000 | 1000 |
+> | **Ovsík vyvýšený**<sup>**2)**</sup> | *Arrhenatherum elatius* | 10 000 | 200 | 8 | 80 | 75 |
+> | **Paprika** | *Capsicum annuum* | 10 000 | 150 | 15 | 150 | 10 |
+> | **Pastinák setý** | *Pastinaca sativa* | 10 000 | 100 | 10 | 100 | 10 |
+> | **Pažitka** | *Allium schoenoprasum* | 10 000 | 30 | 3 | 30 | 20 |
+> | **Petržel** | *Petroselinum crispum* | 10 000 | 40 | 4 | 40 | 60 |
+> | **Pískavice řecké seno** | *Trigonella foenum-graecum* | 10 000 | 500 | 45 | 450 | 300 |
+> | **Poháňka hřebenitá** | *Cynosurus cristatus* | 10 000 | 20 | 2 | 20 | 150 |
+> | **Pohanka obecná** | *Fagopyrum esculentum* | 10 000 | 600 | 60 | 600 | 500 |
+> | **Portugalské zelí** | *Brassica oleracea* | 10 000 | 100 | 10 | 100 | 20 |
+> | **Pór** | *Allium porrum* | 10 000 | 70 | 7 | 70 | 80 |
+> | **Proso seté** | *Panicum miliaceum* | 10 000 | 150 | 15 | 150 | 500 |
+> | **Psárka luční <sup>2)</sup>** | *Alopecurus pratensis* | 10 000 | 100 | 3 | 30 | 150 |
+> | **Psineček psí <sup>2)</sup>** | *Agrostis canina* | 10 000 | 50 | 0,25 | 5 | 150 |
+> | **Psineček tenký <sup>2)</sup>** | *Agrostis capillaris* | 10 000 | 50 | 0,25 | 5 | 150 |
+> | **Psineček veliký <sup>2)</sup>** | *Agrostis gigantea* | 10 000 | 50 | 0,25 | 5 | 150 |
+> | **Psineček výběžkatý <sup>2)</sup>** | *Agrostis stolonifera* | 10 000 | 50 | 0,25 | 5 | 150 |
+> | **Pšenice setá** | *Triticum aestivum* subsp. *aestivum* | 30 000 | 1000 | 120 | 1000 | 1000 |
+> | **Pšenice špalda** | *Triticum aestivum* subsp. *spelta* | 30 000 | 1000 | 270 | 1000 | 1000 |
+> | **Pšenice tvrdá** | *Triticum turgidum* subsp. *durum* | 30 000 | 1000 | 120 | 1000 | 1000 |
+> | **Pýr hřebenitý** | *Agropyron cristatum* | 10 000 | 40 | 4 | 40 | 200 |
+> | **Pýr prostřední** | *Elytrigia intermedia* | 10 000 | 150 | 15 | 150 | 150 |
+> | **Rajče** | *Solanum lycopersicum* | 10 000 | 20 | 7 | - | 5 |
+> | **Reveň** | *Rheum rhabarbarum* | 10 000 | 450 | 45 | 450 | 135 |
+> | **Ředkev olejná** | *Raphanus sativus var. oleiformis* | 10 000 | 300 | 30 | 300 | 250 |
+> | **Ředkvička <br> Ředkev** | *Raphanus sativus* | 10 000 | 300 | 30 | 300 | 50 |
+> | **Řepa krmná** (víceklíčkové odrůdy) | *Beta vulgaris* | 20 000 | 500 | 50 | 500 | 200 |
+> | **Řepa krmná** (jednoklíčkové odrůdy) | *Beta vulgaris* | 20 000 | 500 | 30 | 300 | 200 |
+> | **Řepa salátová**<br> (víceklíčkové odrůdy) | *Beta vulgaris* | 20 000 | 500 | 50 | 500 | 300 |
+> | **Řepa salátová** (jednoklíčkové odrůdy) | *Beta vulgaris* | 20 000 | 500 | 30 | 300 | 300 |
+> | **Řepice** | *Brassica rapa* | 10 000 | 200 | 7 | 70 | 250 |
+> | **Řepka** | *Brassica napus* | 10 000 | 200 | 10 | 100 | 250 |
+> | **Řeřicha setá** | *Lepidium sativum* | 10 000 | 60 | 6 | 60 | 10 |
+> | **Salát** | *Lactuca sativa* | 10 000 | 30 | 3 | 30 | 15 |
+> | **Sléz přeslenitý** | *Malva verticillata* | 10 000 | 50 | 5 | 50 | 5 |
+> | **Slunečnice** | *Helianthus annuus* | 25 000 | 1000 | 200 | 1000 | 250 |
+> | **Sója** | *Glycine max* | 30 000 | 1000 | 500 | 1000 | 1000 |
+> | **Srha hajní** | *Dactylis polygama* | 10 000 | 100 | 3 | 30 | 200 |
+> | **Srha laločnatá <sup>2)</sup>** | *Dactylis glomerata* | 10 000 | 100 | 3 | 30 | 200 |
+> | **Svazenka** | *Phacelia tanacetifolia* | 10 000 | 300 | 5 | 50 | 100 |
+> | **Sveřep bezbranný** | *Bromus inermis* | 10 000 | 90 | 9 | 90 | 75 |
+> | **Sveřep horský** | *Bromus marginatus* | 10 000 | 200 | 20 | 200 | 200 |
+> | **Sveřep <br> samužníkovitý <sup>2)</sup>** | *Bromus catharticus* | 10 000 | 200 | 20 | 200 | 200 |
+> | **Sveřep sitecký <sup>2)</sup>** | *Bromus sitchensis* | 10 000 | 200 | 20 | 200 | 200 |
+> | **Světlice barvířská** | *Carthamus tinctorius* | 25 000 | 900 | 90 | 900 | 100 |
+> | **Šalotka** | *Allium cepa* | 10 000 | 80 | 8 | 80 | 70 |
+> | **Špenát** | *Spinacia oleracea* | 10 000 | 250 | 25 | 250 | 150 |
+> | **Štírovník jednoletý** | *Lotus ornithopodioides* | 10 000 | 30 | 3 | 30 | 300 |
+> | **Štírovník růžkatý** | *Lotus corniculatus* | 10 000 | 200 | 3 | 30 | 300 |
+> | **Tolice dětelová** | *Medicago lupulina* | 10 000 | 300 | 5 | 50 | 300 |
+> | **Tomka vonná** | *Anthoxanthum odoratum* | 10 000 | 20 | 2 | 20 | 150 |
+> | **Tritikale** | *x Triticosecale* | 30 000 | 1000 | 120 | 1000 | 1000 |
+> | **Trojštět žlutavý <sup>2)</sup>** | *Trisetum flavescens* | 10 000 | 50 | 0,5 | 5 | 50 |
+> | **Troskut prstnatý <sup>2)</sup>** | *Cynodon dactylon* | 10 000 | 50 | 1 | 10 | 50 |
+> | **Tuřín** | *Brassica napus var. napobrassica* | 10 000 | 200 | 10 | 100 | 10 |
+> | **Tykev fíkolistá** | *Cucurbita ficifolia* | 10 000 | 350 | 180 | 350 | 100 ks |
+> | **Tykev obecná včetně cukety a patizonu** | *Cucurbita pepo* | 20 000 | 1000 | 700 | 1000 | 100 ks |
+> | **Tykev velkoplodá** | *Cucurbita maxima* | 20 000 | 1000 | 700 | 1000 | 100 ks |
+> | **Úročník bolhoj** | *Anthyllis vulneraria* | 10 000 | 60 | 6 | 60 | 300 |
+> | **Vičenec ligrus** (plod) | *Onobrychis viciifolia* | 10 000 | 600 | 60 | 600 | 300 |
+> | **Vičenec ligrus**(semeno) | *Onobrychis viciifolia* | 10 000 | 400 | 40 | 400 | 300 |
+> | **Vikev huňatá** | *Vicia villosa* | 30 000 | 1000 | 100 | 1000 | 1000 |
+> | **Vikev panonská** | *Vicia pannonica* | 30 000 | 1000 | 120 | 1000 | 1000 |
+> | **Vikev setá** | *Vicia sativa* | 30 000 | 1000 | 140 | 1000 | 1000 |
+> | **Vodnice** | *Brassica rapa* | 10 000 | 70 | 7 | 70 | 50 |
+> | **Vojtěška proměnlivá** | *Medicago x varia* | 10 000 | 300 | 5 | 50 | 300 |
+> | **Vojtěška setá** | *Medicago sativa* | 10 000 | 300 | 5 | 50 | 300 |
+> | **Zelí hlávkové bílé a zelí hlávkové červené** | *Brassica oleracea* | 10 000 | 100 | 10 | 100 | 20 |
+> | **Zelí čínské** | *Brassica rapa* | 10 000 | 70 | 7 | 70 | 20 |
+> | **Zelí pekingské** | *Brassica rapa* | 10 000 | 70 | 7 | 70 | 50 |
+> | **Žito** | *Secale cereale* | 30 000 | 1000 | 120 | 1000 | 1000 |
+
+> <sup>1)</sup> V závorkách jsou uvedeny hmotnosti podle pravidel ISTA, jsou-li odlišné od hmotností podle předpisů EU.
+
+> <sup>2)</sup> Maximální hmotnost partie lze zvýšit na 25 000 kg, pokud dodavatel obdržel povolení od Ústavu.
+
+> <sup>3)</sup> V případě hybridního osiva zelenin lze upravit velikost vzorku na vegetační zkoušku po dohodě se zkušební stanicí pro vegetační zkoušky zelenin.
+
+> **Maximální hmotnost partie, minimální hmotnost nebo velikost laboratorních vzorků a vzorků na vegetační zkoušky sadby**
+
+> **Tabulka 2**
+
+> <table><tbody><tr><th rowspan="2">Druh latinsky</th><th rowspan="2">Druh sadby</th><th>Maximální hmotnost partie</th><th>Minimální hmotnost nebo velikost<br> laboratorního vzorku</th><th>Minimální hmotnost vzorku na vegetační zkoušku</th></tr><tr><th>kg</th><th>kg nebo kusy</th><th>kusy</th></tr><tr><td><i>Solanum tuberosum</i></td><td>Sadba brambor – mechanický rozbor</td><td>50 000</td><td>25 kg</td><td>110 hlíz</td></tr><tr><td><i>Allium cepa</i></td><td>Sazečka cibule, šalotky</td><td>5 000</td><td>1 kg</td><td>80 cibulí</td></tr><tr><td><i>Allium sativum</i></td><td>Česnek</td><td>2 500</td><td>50 cibulí</td><td>80 cibulí</td></tr></tbody></table>
+
+> **Minimální velikosti vzorků pro peletované, inkrustované a granulované osivo**
+
+> **Tabulka 3**
+
+> | Typ stanovení | Laboratorní vzorek nejméně (počet jednotek) | Zkušební vzorek nejméně (počet jednotek) |
+> |---|---|---|
+> | Zkoušení čistoty (včetně zkoušení pravosti druhu) | 2 500 | 2 500 |
+> | Stanovení hmotnosti tisíce semen | 2 500 | podíl čistých pelet |
+> | Zkoušení klíčivosti | 2 500 | 400 |
+> | Početní stanovení semen jiných rostlinných druhů a choroboplodných útvarů | 10 000 | 7 500 |
+> | Početní stanovení semen jiných rostlinných druhů a choroboplodných útvarů (inkrustované a granulované osivo) | 25 000 | 25 000 |
+> | Velikostní třídění | 5 000 | 1 000 |
+
+> **Minimální velikosti vzorků pro osivové pásy a rohože**
+
+> **Tabulka 4**
+
+> | Typ stanovení | Laboratorní vzorek nejméně (počet semen) | Zkušební vzorek nejméně (počet semen) |
+> |---|---|---|
+> | Zkoušení pravosti druhu | 300 | 100 |
+> | Zkoušení klíčivosti | 2 000 | 400 |
+> | Zkoušení čistoty (pokud je vyžadováno) | 2 500 | 2 500 |
+> | Početní stanovení semen jiných rostlinných druhů a choroboplodných útvarů | 10 000 | 7 500 |
+
+> **Nejvyšší povolená velikost partie pro peletované a granulované osivo, osivové pásy a rohože:**
+
+> Maximální počet semen, který může obsahovat partie peletovaného nebo granulovaného osiva, osivových pásů nebo rohoží, je 1 000 000 000 (10 000 jednotek po 100 000 kusech), přičemž hmotnost takové partie včetně obalovacího materiálu nesmí přesáhnout 40 000 kg s tolerancí 5 % (42 000 kg).
+
+> **Nejvyšší povolená hmotnost partie pro inkrustované a ošetřené osivo:**
+
+> Hodnoty uvedené v tabulce 1 platí pro hmotnost osiva bez obalovacích látek.
+
+> **Minimální velikosti vzorků pro zkoušení odrůdové pravosti a čistoty elektroforézou**
+
+> **Tabulka 5**
+
+> <table><tbody><tr><th>Typ zkoušky</th><th>Minimální velikost vzorku</th></tr><tr><td colspan="2"><b>Vzorky odebírané ze sklizeného osiva nebo sadby brambor:</b></td></tr><tr><td>odrůdová pravost osiva - určení odrůdy (záměna)</td><td>100 g</td></tr><tr><td>odrůdová čistota partie osiva</td><td>hmotnost laboratorního vzorku uvedená v tabulce 1 sloupci 4 v příloze č. 5</td></tr><tr><td>odrůdová pravost u sadby brambor - určení odrůdy (záměna)</td><td>10 hlíz</td></tr><tr><td>odrůdová čistota partie u sadby brambor</td><td>100 hlíz</td></tr><tr><td colspan="2"><b>Vzorky odebírané z porostů osiva obilnin nebo sadby brambor:</b></td></tr><tr><td>odrůdová pravost osiva - určení odrůdy (záměna)</td><td>20 klasů (vždy 1 klas / 1 rostlina) z 20 míst v porostu</td></tr><tr><td>odrůdová čistota partie osiva - odchylné typy</td><td>100 klasů (vždy 1 klas / 1 rostlina) ze 100 míst v porostu</td></tr><tr><td>porovnání vzorků osiva obilnin vůči sobě - jisté odchylné typy</td><td>vzorek č. 1 – 20 klasů odchylného typu (vždy 1 klas /1 rostlina) z 20 míst v porostu<br><br> vzorek č. 2 – 20 klasů typu odrůdy (vždy 1 klas / 1 rostlina) z 20 míst v porostu</td></tr><tr><td>odrůdová pravost u sadby brambor - určení odrůdy (záměna)</td><td>10 hlíz</td></tr><tr><td>odrůdová čistota partie u sadby brambor</td><td>100 hlíz</td></tr></tbody></table>
+
+> **Minimální velikosti vzorků pro zjišťování výskytu genetických modifikací**
+
+> **Tabulka 6**
+
+> | Druh | Minimální velikost vzorku |
+> |---|---|
+> | osivo všech druhů | hmotnost laboratorního vzorku uvedená v tabulce 1 sloupci 4 v příloze č. 5 |
+>
+> “.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2025.
+
+Ministr zemědělství:
+
+Mgr. Výborný v. r.

@@ -1,0 +1,66 @@
+---
+title: "Vyhláška č. 580/2025 Sb., o náležitostech formuláře žádosti o náhradu škody způsobené rozhodnutím o vazbě, trestu nebo ochranném opatření"
+identifier: "580/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/580/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-12-19
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/580"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 580/2025 Sb., o náležitostech formuláře žádosti o náhradu škody způsobené rozhodnutím o vazbě, trestu nebo ochranném opatření
+
+580
+
+VYHLÁŠKA
+
+ze dne 19. prosince 2025
+
+o náležitostech formuláře žádosti o náhradu škody způsobené rozhodnutím o vazbě, trestu nebo ochranném opatření
+
+Ministerstvo spravedlnosti stanoví podle § 14 odst. 6 zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění zákona č. 270/2025 Sb., (dále jen „zákon“):
+
+## § 1
+
+(1) Tato vyhláška stanoví náležitosti formuláře žádosti o náhradu škody nebo nemajetkové újmy způsobené rozhodnutím o vazbě, trestu nebo ochranném opatření podle § 9 až 11 zákona, kterými jsou
+
+a) označení „Žádost o náhradu škody nebo nemajetkové újmy způsobené rozhodnutím o vazbě, trestu nebo ochranném opatření podle § 9 až 11 zákona o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem“,
+
+b) označení úřadu, kterému je žádost adresována, tj. Ministerstvo spravedlnosti,
+
+c) údaje o poškozeném:
+
+1\. jméno, popřípadě jména, příjmení, datum narození, rodné číslo, je-li přiděleno, státní příslušnost, adresa místa trvalého pobytu, popřípadě jiného pobytu nebo bydliště na území České republiky, nemá-li trvalý pobyt na území České republiky, adresa pro doručování, pokud je odlišná od adresy místa trvalého nebo jiného pobytu, nebo identifikátor datové schránky, byla-li zřízena, popřípadě další kontaktní údaje, týká-li se žádost fyzické osoby,
+
+2\. název nebo obchodní firma, identifikační číslo, je-li přiděleno, adresa sídla, adresa pro doručování, pokud je odlišná od adresy sídla, nebo identifikátor datové schránky, byla-li zřízena, popřípadě další kontaktní údaje, týká-li se žádost fyzické podnikající osoby nebo právnické osoby,
+
+d) označení soudu, jehož rozhodnutí způsobilo škodu nebo nemajetkovou újmu,
+
+e) spisová značka řízení, kterého se věc týká,
+
+f) označení druhu škodní události,
+
+g) označení rozhodnutí,
+
+h) popis škody nebo nemajetkové újmy a způsob jejího vyčíslení,
+
+i) výše požadované náhrady a způsob jejího poskytnutí,
+
+j) seznam příloh,
+
+k) datum a podpis žadatele.
+
+(2) Podává-li formulář zástupce poškozeného, obsahuje formulář také údaje o zástupci, kterými jsou jméno, příjmení nebo název či obchodní firma, identifikační číslo, je-li přiděleno, adresa místa trvalého pobytu nebo sídla, identifikátor datové schránky, byla-li zřízena, popřípadě další kontaktní údaje a označení typu zastoupení.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr:
+
+JUDr. Tejc v. r.

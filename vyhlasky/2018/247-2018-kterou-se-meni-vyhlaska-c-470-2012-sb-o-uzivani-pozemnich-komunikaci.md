@@ -1,0 +1,75 @@
+---
+title: "Vyhláška č. 247/2018 Sb., kterou se mění vyhláška č. 470/2012 Sb., o užívání pozemních komunikací zpoplatněných mýtným, ve znění pozdějších předpisů"
+identifier: "247/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/247/2019-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2018-10-18
+effective: 2019-01-01
+last_amended: 2019-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/247"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 247/2018 Sb., kterou se mění vyhláška č. 470/2012 Sb., o užívání pozemních komunikací zpoplatněných mýtným, ve znění pozdějších předpisů
+
+247
+
+VYHLÁŠKA
+
+ze dne 18. října 2018,
+
+kterou se mění vyhláška č. 470/2012 Sb., o užívání pozemních komunikací zpoplatněných mýtným, ve znění pozdějších předpisů
+
+Ministerstvo dopravy stanoví podle § 46 odst. 2 k provedení § 20 odst. 1 zákona č. 13/1997 Sb., o pozemních komunikacích, ve znění zákona č. 102/2000 Sb., zákona č. 80/2006 Sb., zákona č. 97/2009 Sb., zákona č. 347/2009 Sb., zákona č. 152/2011 Sb., zákona č. 196/2012 Sb., zákona č. 64/2014 Sb., zákona č. 268/2015 Sb. a zákona č. 225/2017 Sb.:
+
+## Čl. I
+
+Příloha č. 1 k vyhlášce č. 470/2012 Sb., o užívání pozemních komunikací zpoplatněných mýtným, ve znění vyhlášky č. 307/2015 Sb., vyhlášky č. 434/2016 Sb. a vyhlášky č. 458/2017 Sb., včetně nadpisu zní:
+
+> **„Příloha č. 1 k vyhlášce č. 470/2012 Sb.**
+
+> **Seznam dálnic, jejichž užití podléhá mýtnému**
+
+> | Označení | Úsek | Délka (km) |
+> |---|---|---|
+> | D0 | Praha, Satalice-Praha, Běchovice (exity 58-62) | 4,8 |
+> | D0 | Modletice (D1)-Praha, Ruzyně-staré letiště (exity 76-28) | 35,4 |
+> | D1 | Praha, Spořilov-Říkovice (exity 1-272) | 271,9 |
+> | D1 | Lipník nad Bečvou-státní hranice (km 298 až km 377) | 79,5 |
+> | D2 | Brno, jih-státní hranice (exit 1 až km 61) | 61,0 |
+> | D3 | Mezno-Veselí nad Lužnicí, jih (exity 62-107) | 45,9 |
+> | D3 | Borek-Úsilné (km 128-131) | 2,7 |
+> | D4 | Jíloviště-Háje (exity 9-45) | 36,4 |
+> | D4 | Radobytce-Nová Hospoda (exity 77-84) | 6,8 |
+> | D5 | Praha, Třebonice-státní hranice (exit 1 až km 151) | 150,9 |
+> | D6 | Praha, Řepy-Nové Strašecí (exity 1-32) | 31,7 |
+> | D6 | Lubenec-Bošov (km 80 až exit 83) | 3,8 |
+> | D6 | Jenišov-Cheb, sever (exity 131-169) | 37,5 |
+> | D7 | Praha, Ruzyně-letiště-Knovíz (exity 2-18) | 16,6 |
+> | D7 | Postoloprty-Spořice (exity 56-78) | 22,1 |
+> | D8 | Praha, Březiněves-státní hranice (km -2,2 až km 92) | 95,9 |
+> | D10 | Praha, Satalice-Ohrazenice (exity 1-71) | 71,0 |
+> | D11 | Praha, Horní Počernice-Hradec Králové, Kukleny (exity 1-90) | 90,7 |
+> | D35 | Sedlice-Opatovice (exity 126-129) | 4,1 |
+> | D35 | Mohelnice, jih-Křelov (exity 235-261) | 25,8 |
+> | D35 | Olomouc, Topolany-Lipník nad Bečvou (km 264 až exit 296) | 33,0 |
+> | D46 | Vyškov, východ-Olomouc, Slavonín (exit 1 až km 39) | 39,2 |
+> | D48 | Bělotín-Bělotín, východ (exity 1-3) | 3,5 |
+> | D48 | Rychaltice-Frýdek-Místek, západ (exit 38-45) | 6,7 |
+> | D48 | Frýdek-Místek-Žukov (km 47 až exit 70) | 19,4 |
+> | D52 | Rajhrad-Pohořelice, jih (exity 10-26) | 16,9 |
+> | D55 | Hulín-Otrokovice (exity 16-32) | 16,4 |
+> | D56 | Ostrava, Hrabová-Frýdek-Místek (exity 39-51) | 12,2 |
+>
+> “.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2019.
+
+Ministr:
+
+Ing. Ťok v. r.

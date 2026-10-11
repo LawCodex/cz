@@ -1,0 +1,66 @@
+---
+title: "Vyhláška č. 320/2021 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene psychiatrického"
+identifier: "320/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/320/2021-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-08-20
+effective: 2021-09-01
+last_amended: 2021-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/320"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 320/2021 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene psychiatrického
+
+320
+
+VYHLÁŠKA
+
+ze dne 20. srpna 2021
+
+o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene psychiatrického
+
+Ministerstvo zdravotnictví stanoví podle § 37 odst. 1 písm. k) k provedení § 4 odst. 4 písm. a) zákona č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění zákona č. 67/2017 Sb.:
+
+## § 1
+
+Lékař může po získání certifikátu o absolvování základního kmene psychiatrického bez odborného dohledu
+
+a) indikovat a interpretovat základní zobrazovací metody a laboratorní vyšetření,
+
+b) indikovat léčivé přípravky a zdravotnické prostředky s výjimkou radiofarmak a cytostatik,
+
+c) diagnostikovat duševní poruchu,
+
+d) indikovat formu péče,
+
+e) stanovit terapeutický plán a režimová opatření,
+
+f) vést farmakoterapii,
+
+g) indikovat psychoterapii,
+
+h) provádět elektrokonvulzní péči,
+
+i) provádět podpůrnou psychoterapii,
+
+j) vyhodnotit riziko suicidálního jednání a agrese, indikovat a provést opatření k jejich prevenci a zvládání,
+
+k) posoudit a indikovat hospitalizaci a léčbu bez souhlasu pacienta,
+
+l) posoudit, indikovat a použít omezovací prostředky k omezení volného pohybu pacienta podle zákona o zdravotních službách,
+
+m) indikovat lázeňskou léčebně rehabilitační péči,
+
+n) provést akutní diagnostické zhodnocení a akutní terapeutický zásah u dětských psychiatrických pacientů.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2021.
+
+Ministr:
+
+Mgr. et Mgr. Vojtěch, MHA, v. r.

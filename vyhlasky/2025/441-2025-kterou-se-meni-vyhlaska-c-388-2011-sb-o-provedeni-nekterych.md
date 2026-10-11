@@ -1,0 +1,110 @@
+---
+title: "Vyhláška č. 441/2025 Sb., kterou se mění vyhláška č. 388/2011 Sb., o provedení některých ustanovení zákona o poskytování dávek osobám se zdravotním postižením, ve znění pozdějších předpisů"
+identifier: "441/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/441/2026-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-10-15
+effective: 2026-07-01
+last_amended: 2026-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/441"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 441/2025 Sb., kterou se mění vyhláška č. 388/2011 Sb., o provedení některých ustanovení zákona o poskytování dávek osobám se zdravotním postižením, ve znění pozdějších předpisů
+
+441
+
+VYHLÁŠKA
+
+ze dne 15. října 2025,
+
+kterou se mění vyhláška č. 388/2011 Sb., o provedení některých ustanovení zákona o poskytování dávek osobám se zdravotním postižením, ve znění pozdějších předpisů
+
+Ministerstvo práce a sociálních věcí stanoví podle § 37 zákona č. 329/2011 Sb., o poskytování dávek osobám se zdravotním postižením a o změně souvisejících zákonů, ve znění zákona č. 331/2012 Sb., zákona č. 313/2013 Sb. a zákona č. 300/2025 Sb., k provedení § 34a odst. 7 tohoto zákona:
+
+## Čl. I
+
+Vyhláška č. 388/2011 Sb., o provedení některých ustanovení zákona o poskytování dávek osobám se zdravotním postižením, ve znění vyhlášky č. 356/2012 Sb., vyhlášky č. 409/2012 Sb., vyhlášky č. 333/2013 Sb., vyhlášky č. 388/2013 Sb., vyhlášky č. 116/2014 Sb., vyhlášky č. 337/2014 Sb., vyhlášky č. 408/2017 Sb., vyhlášky č. 57/2020 Sb. a vyhlášky č. 442/2021 Sb., se mění takto:
+
+1\. § 2a se zrušuje.
+
+2\. V § 2c odst. 3 písm. a) se slova „krajské pobočky Úřadu práce“ nahrazují slovy „územní správy sociálního zabezpečení“.
+
+3\. V § 2c odst. 3 se na konci písmene b) čárka nahrazuje tečkou a písmeno c) se zrušuje.
+
+4\. V § 2c odst. 4 se za slovo „předložená“ vkládá slovo „žadatelem“ a slova „pro vydání občanského průkazu<sup>1</sup>)“ se nahrazují slovy „stanoveným v příloze č. 6 k této vyhlášce“.
+
+Poznámka pod čarou č. 1 se zrušuje.
+
+5\. V příloze č. 1 části I bodě 2 se za slova „ovládání počítače“ vkládá slovo „hlasem,“.
+
+6\. Příloha č. 3 se zrušuje.
+
+7\. V příloze č. 5 část A zní:
+
+> „A. Vzor průkazu
+
+> 1\. Vzor průkazu TP
+
+> Přední strana
+
+> **![sbcr2025c441z0441o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1651703/NAHLED/ZOBRAZ/sbcr2025c441z0441o001)**
+
+> Zadní strana
+
+> **![sbcr2025c441z0441o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1651701/NAHLED/ZOBRAZ/sbcr2025c441z0441o002)**
+
+> 2\. Vzor průkazu ZTP
+
+> Přední strana
+
+> **![sbcr2025c441z0441o003.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1651699/NAHLED/ZOBRAZ/sbcr2025c441z0441o003)**
+
+> Zadní strana
+
+> **![sbcr2025c441z0441o004.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1651697/NAHLED/ZOBRAZ/sbcr2025c441z0441o004)**
+
+> 3\. Vzor průkazu ZTP/P
+
+> Přední strana
+
+> **![sbcr2025c441z0441o005.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1651695/NAHLED/ZOBRAZ/sbcr2025c441z0441o005)**
+
+> Zadní strana
+
+> **![sbcr2025c441z0441o006.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1651693/NAHLED/ZOBRAZ/sbcr2025c441z0441o006)“.**
+
+8\. Doplňuje se příloha č. 6, která zní:
+
+> **„Příloha č. 6**
+
+> **Technické požadavky na fotografii předloženou žadatelem pro vydání průkazu**
+
+> 1\. Z fotografie musí být rozpoznatelná podoba osoby v době předání fotografie územní správě sociálního zabezpečení.
+
+> 2\. Fotografie má hladký povrch a je v černobílém nebo barevném provedení.
+
+> 3\. Fotografie je obdélníkového tvaru o rozměrech 35 mm x 45 mm a je orientovaná na výšku. Fotografie má rovné nebo zaoblené rohy s poloměrem 3 mm, s povolenou odchylkou 0,5 mm. Tloušťka fotografie je v rozmezí od 0,13 mm do 0,27 mm.
+
+> 4\. Mezi horním okrajem hlavy zobrazované osoby a horním okrajem fotografie je vzdálenost minimálně 2 mm. Výška obličejové části hlavy, která je tvořena vzdáleností od očí k bradě, je minimálně 13 mm.
+
+> 5\. Fotografie zobrazuje hlavu a horní část ramen zobrazované osoby v předním čelném pohledu a pohled osoby směřuje do objektivu. Pohled přes rameno nebo pootočená anebo nakloněná hlava nejsou přípustné.
+
+> 6\. Brýle osoby nesmí na fotografii zakrývat oči a vytvářet odlesky. S výjimkou osob nevidomých nejsou přípustné brýle s tmavými skly.
+
+> 7\. Osoba musí mít neutrální výraz, zavřená ústa a otevřené oči, které nesmí být zakryté vlasy. Pokrývka hlavy je přípustná pouze z náboženských nebo zdravotních důvodů. Tato pokrývka nesmí zakrývat obličejovou část nebo na obličeji vytvářet stíny.
+
+> 8\. Pozadí za osobou musí být jednobarevné, a to bílé nebo světle šedé.
+
+> 9\. Provádění retuší nebo jiných úprav pořízeného obrazového záznamu není přípustné.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2026.
+
+Ministr:
+
+Ing. Jurečka v. r.

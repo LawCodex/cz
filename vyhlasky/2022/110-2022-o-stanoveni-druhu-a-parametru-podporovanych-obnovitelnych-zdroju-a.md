@@ -1,0 +1,490 @@
+---
+title: "Vyhláška č. 110/2022 Sb., o stanovení druhů a parametrů podporovaných obnovitelných zdrojů a kritérií udržitelnosti a úspory emisí skleníkových plynů pro biokapaliny a paliva z biomasy"
+identifier: "110/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/110/2026-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-04-29
+effective: 2022-05-15
+last_amended: 2026-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/110"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 110/2022 Sb., o stanovení druhů a parametrů podporovaných obnovitelných zdrojů a kritérií udržitelnosti a úspory emisí skleníkových plynů pro biokapaliny a paliva z biomasy ve znění vyhlášky č. 567/2025 Sb."
+---
+
+# Vyhláška č. 110/2022 Sb., o stanovení druhů a parametrů podporovaných obnovitelných zdrojů a kritérií udržitelnosti a úspory emisí skleníkových plynů pro biokapaliny a paliva z biomasy
+
+110
+
+VYHLÁŠKA
+
+ze dne 29. dubna 2022
+
+o stanovení druhů a parametrů podporovaných obnovitelných zdrojů, vykazování paliv a kritérií udržitelnosti a úspory emisí skleníkových plynů
+
+Ministerstvo průmyslu a obchodu stanoví podle § 53 odst. 1 písm. a), e), i), k), ak) a al) zákona č. 165/2012 Sb., o podporovaných zdrojích energie a o změně některých zákonů, ve znění zákona č. 131/2015 Sb., zákona č. 382/2021 Sb., zákona č. 19/2023 Sb., zákona č. 469/2023 Sb., zákona č. 87/2025 Sb. a zákona č. 223/2025 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška zapracovává příslušný předpis Evropské unie<sup>1</sup>) a upravuje
+
+a) druhy a parametry podporovaných obnovitelných zdrojů využívajících biomasu a biokapaliny,
+
+b) způsoby využití podporovaných obnovitelných zdrojů pro výrobu elektřiny, tepla a biometanu,
+
+c) rozsah uchovávaných dokumentů a záznamů o použitém palivu při výrobě elektřiny a tepla a biometanu a o způsobu výroby tohoto paliva,
+
+d) podíl biologicky rozložitelné a nerozložitelné části nevytříděného komunálního odpadu na energetickém obsahu komunálního odpadu,
+
+e) pro oblast kritérií udržitelnosti a úspor emisí skleníkových plynů
+
+1\. kritéria udržitelnosti a úspor emisí skleníkových plynů pro biokapaliny a paliva z biomasy a kritéria úspor emisí skleníkových plynů obnovitelných paliv nebiologického původu, obnovitelného vodíku nebiologického původu a recyklovaných paliv s obsahem uhlíku,
+
+2\. rozsah a termíny dokládání splnění kritérií udržitelnosti a úspor emisí skleníkových plynů nebo splnění pouze úspor emisí skleníkových plynů,
+
+3\. rozsah dokladu o provedeném auditu a o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů a termíny zadání dokladu o provedeném auditu a o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů do systému operátora trhu,
+
+4\. rozsah auditu a dokladu o provedeném auditu, rozsah a vzor prohlášení o původu lesní biomasy a plnění úspor emisí skleníkových plynů u vnitrostátního režimu prokazování kritérií udržitelnosti a úspor emisí skleníkových plynů z lesní biomasy,
+
+f) seznam surovin vymezujících pokročilý a vyspělý biometan,
+
+g) určení jiného dokladu o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů pro povinnost zajistit minimální množství pokročilého biometanu a obnovitelných paliv nebiologického původu a povinnost snižování emisí skleníkových plynů z plynných pohonných hmot.
+
+## § 2 – Druhy a parametry podporovaných obnovitelných zdrojů využívajících biomasu a biokapaliny
+
+Druhy a parametry podporovaných obnovitelných zdrojů využívajících biomasu a biokapaliny pro výrobu elektřiny z obnovitelných zdrojů, výrobu tepla z obnovitelných zdrojů nebo výrobu biometanu stanoví příloha č. 1 k této vyhlášce.
+
+## § 3 – Suroviny pro výrobu pokročilého a vyspělého biometanu
+
+(1) Seznam surovin pro výrobu pokročilého biometanu je uveden v části A tabulky č. 2 přílohy č. 1 k této vyhlášce.
+
+(2) Seznam surovin pro výrobu vyspělého biometanu je uveden v části B tabulky č. 2 přílohy č. 1 k této vyhlášce.
+
+## § 4 – Způsoby využití podporovaných obnovitelných zdrojů pro výrobu elektřiny, tepla a biometanu z biomasy a biokapalin
+
+(1) Při výrobě podporované elektřiny je
+
+a) biomasa využívána
+
+1\. v procesu samostatného spalování nebo zplyňování pevné biomasy, nebo
+
+2\. spalováním bioplynu vzniklého v procesu anaerobní fermentace,
+
+b) biokapalina využívána v procesu spalování,
+
+c) kalový plyn nebo skládkový plyn využíván v procesu spalování.
+
+(2) Při výrobě podporovaného tepla je
+
+a) biomasa využívána
+
+1\. v procesu samostatného spalování nebo zplyňování pevné biomasy,
+
+2\. spalováním bioplynu vzniklého v procesu anaerobní fermentace, nebo
+
+3\. v procesu současného spalování obnovitelného zdroje a neobnovitelného zdroje (dále jen „společné spalování“); za společné spalování se nepovažují případy, kdy je výroba tepla možná jen prostřednictvím iniciačního zažehnutí nezbytného množství jiného paliva a spalování nevytříděného komunálního odpadu,
+
+b) biokapalina využívána v procesu spalování.
+
+(3) Podle toho, zda se palivo spaluje v jednom kotli nebo v samostatných kotlích, se společné spalování podle odstavce 2 rozlišuje na
+
+a) společné spalování v zařízeních, kde dochází k mísení různých druhů paliva v jednom topeništi, nebo před vstupem do topeniště, přičemž fyzikálně je možné rozlišit energii vzniklou spálením směsi pouze na základě parametrů jednotlivých složek paliva, jakými jsou například hmotnostní podíl, vlhkost, výhřevnost, obsah popelovin, poměr uhlíku a dusíku (dále jen „spoluspalování“), nebo
+
+b) společné spalování v zařízeních, kde dochází ke spalování různých druhů paliv odděleně v samostatných kotlích nebo jiných zařízeních, dodávajících vyrobené teplo do společné parní sběrnice, ze které se uskutečňuje odběr tepla pro výrobu elektřiny a tepla v jednom nebo více parních turbosoustrojích (dále jen „paralelní spalování“).
+
+(4) Při výrobě podporovaného biometanu je
+
+a) biomasa využívána v procesu úpravy bioplynu vzniklého v procesu anaerobní fermentace na kvalitu a čistotu splňující kvalitativní parametry zemního plynu, nebo
+
+b) kalový plyn nebo skládkový plyn využíván v procesu úpravy na kvalitu a čistotu splňující kvalitativní parametry zemního plynu.
+
+## § 5 – Kritéria udržitelnosti a úspory emisí skleníkových plynů pro biokapaliny
+
+(1) Biokapaliny splňují kritéria udržitelnosti a úspory emisí skleníkových plynů, pokud
+
+a) vykazují úsporu emisí skleníkových plynů podle odstavce 2 a
+
+b) biomasa použitá k jejich výrobě splňuje kritéria udržitelnosti podle
+
+1\. § 6a, jde-li o zemědělskou biomasu, nebo
+
+2\. § 6b, jde-li o lesní biomasu.
+
+(2) Úspora emisí skleníkových plynů vzniklých během úplného životního cyklu biokapaliny oproti emisím skleníkových plynů vzniklých během úplného životního cyklu referenčního fosilního paliva musí činit nejméně
+
+a) 50 % v případě biokapalin vyráběných v zařízení, které bylo uvedeno do provozu 5. října 2015 nebo dříve,
+
+b) 60 % v případě biokapalin vyráběných v zařízení, které bylo uvedeno do provozu od 6. října 2015 do 31. prosince 2020,
+
+c) 65 % v případě biokapalin vyráběných v zařízení, které bylo uvedeno do provozu od 1. ledna 2021.
+
+## § 6 – Kritéria udržitelnosti a úspory emisí skleníkových plynů pro paliva z biomasy
+
+(1) Paliva z biomasy splňují kritéria udržitelnosti a úspory emisí skleníkových plynů, pokud
+
+a) vykazují úsporu emisí skleníkových plynů podle odstavce 3 a
+
+b) biomasa použitá k jejich výrobě splňuje kritéria udržitelnosti podle
+
+1\. § 6a, jde-li o zemědělskou biomasu, nebo
+
+2\. § 6b, jde-li o lesní biomasu.
+
+(2) Paliva z biomasy vyrobená z odpadů nebo zbytků, které nepocházejí ze zemědělství, akvakultury, rybolovu nebo lesnictví, splňují kritéria udržitelnosti a úspory emisí skleníkových plynů, pokud vykazují úsporu emisí skleníkových plynů podle odstavce 3. Paliva z biomasy vyrobená z odpadů nebo zbytků ze zemědělství splňují kritéria udržitelnosti a úspory emisí skleníkových plynů, pokud vedle úspory emisí skleníkových plynů podle odstavce 3 má původce biomasy zavedeno systematické monitorování s cílem zabránit negativním dopadům získávání odpadů nebo zbytků na kvalitu půdy a uhlík v půdě.
+
+(3) Úspora emisí skleníkových plynů vzniklých během úplného životního cyklu paliva z biomasy oproti emisím skleníkových plynů vzniklých během úplného životního cyklu referenčního fosilního paliva musí činit nejméně
+
+a) 50 % v případě výrobny biometanu, která byla uvedena do provozu 5. října 2015 nebo dříve, pokud je vyrobený biometan spotřebovaný v odvětví dopravy,
+
+b) 60 % v případě výrobny biometanu, která byla uvedena do provozu od 6. října 2015 do 31. prosince 2020, pokud je vyrobený biometan spotřebovaný v odvětví dopravy,
+
+c) 65 % v případě výrobny biometanu, která byla uvedena do provozu od 1. ledna 2021, pokud je vyrobený biometan spotřebovaný v odvětví dopravy,
+
+d) 80 % v případě výrobny elektřiny, tepla nebo chladu s celkovým jmenovitým tepelným příkonem 7,5 MW a vyšším v případě pevné biomasy nebo s celkovým jmenovitým tepelným příkonem 2 MW a vyšším v případě bioplynu nebo biometanu, která byla uvedena do provozu postupem podle jiného právního předpisu<sup>2</sup>) od 21. listopadu 2023,
+
+e) 70 % do 31. prosince 2029 a alespoň 80 % od 1. ledna 2030 v případě výrobny elektřiny, tepla nebo chladu s celkovým jmenovitým tepelným příkonem vyšším než 10 MW, která byla uvedena do provozu postupem podle jiného právního předpisu<sup>2</sup>) od 1. ledna 2021 do 20. listopadu 2023,
+
+f) 70 % v případě výrobny elektřiny, tepla nebo chladu, využívající energii bioplynu nebo biometanu, s celkovým jmenovitým tepelným příkonem od 2 MW do 10 MW, která byla uvedena do provozu od 1. ledna 2021 do 20. listopadu 2023 postupem podle jiného právního předpisu<sup>2</sup>), a to po dobu 15 let od uvedení do provozu,
+
+g) 80 % v případě výrobny elektřiny, tepla nebo chladu, využívající energii bioplynu nebo biometanu, s celkovým jmenovitým tepelným příkonem od 2 MW do 10 MW, která byla uvedena do provozu od 1. ledna 2021 do 20. listopadu 2023 postupem podle jiného právního předpisu<sup>2</sup>), a to po uplynutí doby 15 let od uvedení do provozu,
+
+h) 80 % v případě výrobny elektřiny, tepla nebo chladu s celkovým jmenovitým tepelným příkonem vyšším než 10 MW, která byla uvedena do provozu do 31. prosince 2020 postupem podle jiného právního předpisu<sup>2</sup>), a to po uplynutí doby 15 let od uvedení do provozu; pokud u výrobny elektřiny, tepla nebo chladu s celkovým jmenovitým tepelným příkonem vyšším než 10 MW uplynula doba 15 let od uvedení do provozu přede dnem 1. ledna 2028, vztahuje se hodnota úspory emisí skleníkových plynů nejméně 80 % na tuto výrobnu od 1. ledna 2028; bez ohledu na uplynutí nebo neuplynutí doby 15 let od uvedení výrobny elektřiny, tepla nebo chladu do provozu se hodnota úspory emisí skleníkových plynů nejméně 80 % vztahuje od 31. prosince 2029 na všechny výrobny elektřiny, tepla nebo chladu s celkovým jmenovitým tepelným příkonem vyšším než 10 MW, které byly uvedeny do provozu do 31. prosince 2020,
+
+i) 80 % v případě výrobny elektřiny, tepla nebo chladu, využívající energii bioplynu nebo biometanu, s celkovým jmenovitým tepelným příkonem od 2 MW do 10 MW, která byla uvedena do provozu do 31. prosince 2020 postupem podle jiného právního předpisu<sup>2</sup>), a to po uplynutí doby 15 let od uvedení do provozu; pokud u výrobny elektřiny, tepla nebo chladu s celkovým jmenovitým tepelným příkonem od 2 MW do 10 MW uplynula doba 15 let od uvedení do provozu přede dnem 1. ledna 2028, vztahuje se hodnota úspory emisí skleníkových plynů nejméně 80 % na tuto výrobnu od 1. ledna 2028.
+
+## § 6a – Kritéria udržitelnosti zemědělské biomasy
+
+(1) Zemědělská biomasa splňuje kritéria udržitelnosti, pokud nepochází z půdy, která měla ke dni 1. ledna 2008 nebo později jeden z uvedených statusů:
+
+a) původní les a jiná zalesněná plocha s původními druhy, kde nejsou žádné viditelné známky lidské činnosti a kde nejsou významně narušeny ekologické procesy, a prales, jak je definován v zemi, kde se prales nachází,
+
+b) vysoce biologicky rozmanitý les a jiná zalesněná plocha, která je druhově bohatá a neznehodnocená a byla příslušným orgánem daného státu označena jako vysoce biologicky rozmanitá, pokud není prokázáno, že získávání biomasy nezasahovalo do ochrany přírody,
+
+c) oblast stanovená
+
+1\. právním předpisem<sup>3</sup>) nebo příslušným orgánem v daném státě k účelu ochrany přírody, pokud pěstování biomasy zasahuje do tohoto účelu, ledaže se prokáže, že produkce této suroviny nezasahovala do ochrany přírody, nebo
+
+2\. rozhodnutím Evropské komise podle čl. 30 odst. 4 ve spojení s čl. 29 odst. 3 písm. c) bodem ii) směrnice Evropského parlamentu a Rady (EU) 2018/2001 ze dne 11. prosince 2018 o podpoře využívání energie z obnovitelných zdrojů (dále jen „směrnice o podpoře využívání energie z obnovitelných zdrojů“), za účelem ochrany vzácného nebo ohroženého ekosystému nebo druhu, pokud pěstování biomasy zasahuje do uvedeného účelu ochrany přírody,
+
+d) vysoce biologicky rozmanitý travní porost určený podle přímo použitelného předpisu Evropské unie stanovujícího kritéria a zeměpisné oblasti k určení vysoce biologicky rozmanitých travních porostů<sup>4</sup>) o rozloze větší než 1 hektar, a to
+
+1\. původní travní porost, který by bez lidského zásahu zůstal zachován jako takový a který stále vykazuje přirozené složení druhů a ekologické charakteristiky a procesy, nebo
+
+2\. travní porost, který by bez lidského zásahu nezůstal zachován jako travní porost a který je druhově bohatý a neznehodnocený a považuje se za vysoce biologicky rozmanitý podle odstavce 2, pokud není prokázáno, že získávání biomasy je nezbytné k uchování statusu vysoce biologicky rozmanitého travního porostu, nebo
+
+e) vřesoviště.
+
+(2) Travní porost podle odstavce 1 písm. d) bodu 2 nacházející se
+
+a) na území České republiky se považuje za vysoce biologicky rozmanitý v případě, že je předmětem písemné dohody o provádění péče o pozemky z důvodů ochrany přírody podle zákona o ochraně přírody a krajiny<sup>5</sup>) nebo je na něm vymezen nadstavbový titul podopatření ošetřování travních porostů v rámci agroenvironmentálně-klimatických opatření nebo navazujících opatření<sup>6</sup>), nebo
+
+b) mimo území České republiky se považuje za vysoce biologicky rozmanitý v případě, že je příslušným orgánem v daném státě nebo právním předpisem daného státu označen jako vysoce biologicky rozmanitý.
+
+(3) Zemědělská biomasa splňující kritéria udržitelnosti nesmí pocházet z půdy, která byla ke dni 1. ledna 2008
+
+a) půdou pokrytou nebo nasycenou vodou trvale nebo po významnou část roku,
+
+b) plochou o rozloze větší než 1 hektar se stromy vyššími než 5 metrů a pokryvem koruny tvořícím více než 30 % nebo se stromy schopnými dosáhnout těchto limitů v daném místě, nebo
+
+c) plochou o rozloze větší než 1 hektar se stromy vyššími než 5 metrů a pokryvem koruny tvořícím 10 až 30 % nebo se stromy schopnými dosáhnout těchto limitů v daném místě, pokud není prokázáno, že při uplatnění způsobu výpočtu podle § 6c je zásoba uhlíku v oblasti předtím, než došlo k přeměně půdy, a po její přeměně taková, že by podmínky podle § 6 byly splněny.
+
+(4) Ustanovení odstavce 3 se nepoužije, má-li půda stále status uvedený v odstavci 3 písm. a), b) nebo c) nebo jej měla v době, kdy byla biomasa získána.
+
+(5) Zemědělská biomasa splňující kritéria udržitelnosti nesmí pocházet z půdy, která byla ke dni 1. ledna 2008 rašeliništěm, pokud není prokázáno, že její pěstování a získávání nezahrnuje odvodňování dříve neodvodňované půdy.
+
+## § 6b – Kritéria udržitelnosti lesní biomasy
+
+(1) Lesní biomasa splňující kritéria udržitelnosti musí být vytěžena na území státu, jehož právní předpisy zajišťují
+
+a) legalitu provádění těžby a její vymáhání,
+
+b) obnovu lesa ve vytěžených oblastech,
+
+c) ochranu oblastí, které jsou mezinárodní smlouvou, vnitrostátním právním předpisem nebo příslušným orgánem daného státu určeny pro účely ochrany přírody, včetně mokřadů, travních porostů, vřesovišť a rašelinišť, v zájmu zachování biologické rozmanitosti a s cílem zabránit ničení stanovišť,
+
+d) provádění těžby způsobem, který zohledňuje zachování kvality půdy a biologické rozmanitosti podle zásad udržitelného obhospodařování lesů s cílem předejít nepříznivému dopadu tak, aby se zabránilo těžbě pařezů a kořenů, degradaci původních lesů a pralesů, jak jsou definovány v zemi, kde se les nachází, nebo jejich přeměně na pěstované lesy a těžbě na citlivých půdách; při těžbě se dodržují mezní hodnoty, které jsou stanoveny v zemi, kde se les nachází, pro rozsáhlé holoseče a místně a ekologicky vhodné prahové hodnoty pro těžbu mrtvé dřevní hmoty, a těžba splňuje požadavky na používání systémů těžby dřeva, které minimalizují nepříznivý dopad na kvalitu půdy, včetně zhutňování půdy, a na prvky biologické rozmanitosti a stanoviště,
+
+e) provádění těžby způsobem, který zachovává nebo zlepšuje dlouhodobou produkční kapacitu lesa,
+
+f) stanovení lesů, v nichž se těží lesní biomasa a které nerostou na půdě, která má status uvedený v § 6a odst. 1 písm. a), b), d) a e), § 6a odst. 3 písm. a) a § 6a odst. 5, přičemž pro určení statusu půdy platí stejná pravidla, která jsou uvedena v těchto ustanoveních.
+
+(2) Provozovatel zařízení vyrábějící biokapaliny a paliva z biomasy na bázi lesní biomasy a původce lesní biomasy vydávají na základě používání vlastních interních postupů prohlášení, jímž pro účely auditů prováděných podle čl. 30 odst. 3 směrnice o podpoře využívání energie z obnovitelných zdrojů prokazují, že lesní biomasa není získávána z půdy uvedené v odstavci 1 písm. f) nebo není smíchávána s jinou biomasou, přičemž první sběrné místo je určeno podle čl. 2 bodu 12 prováděcího nařízení Komise (EU) 2022/996 o pravidlech pro ověřování kritérií udržitelnosti a úspory emisí skleníkových plynů a kritérií nízkého rizika nepřímé změny ve využívání půdy<sup>7</sup>).
+
+(3) Nelze-li prokázat splnění kritérií udržitelnosti podle odstavců 1 a 2, považuje se lesní biomasa za splňující kritéria udržitelnosti, pokud je v dané oblasti těžby zaveden systém lesního hospodaření, který zajišťuje plnění požadavků uvedených v odstavci 1. Splnění požadavku podle odstavce 1 písm. c) lze nahradit prokázáním skutečnosti, že těžba není v rozporu s účely ochrany přírody, včetně ochrany mokřadů, travních porostů, vřesovišť a rašelinišť, v zájmu zachování biologické rozmanitosti a s cílem zabránit ničení stanovišť.
+
+(4) Vedle plnění požadavků podle odstavce 1 a 2 nebo 3 musí být stát, na jehož území byla lesní biomasa vytěžena, smluvní stranou Pařížské dohody<sup>8</sup>) a současně
+
+a) předložil sekretariátu Rámcové úmluvy Organizace spojených národů o změně klimatu<sup>9</sup>) vnitrostátně stanovený příspěvek zahrnující emise a pohlcování emisí ze zemědělství, lesnictví a využívání půdy, jenž zaručuje, že změny v zásobě uhlíku spojené s těžbou biomasy jsou započteny do závazku daného státu ke snížení nebo omezení emisí skleníkových plynů, jak je uvedeno ve vnitrostátně stanoveném příspěvku, nebo
+
+b) přijal v souladu s čl. 5 Pařížské dohody<sup>8</sup>) na celostátní nebo nižší úrovni právní předpisy použitelné v oblasti těžby lesní biomasy, jejichž cílem je zachovat a posílit zásoby uhlíku a propady, a poskytl důkaz o tom, že vykazované emise odvětví využívání půdy, změn ve využívání půdy a lesnictví nepřekračují pohlcení.
+
+(5) Nelze-li prokázat splnění kritérií udržitelnosti podle odstavce 4, považuje se lesní biomasa za splňující kritéria udržitelnosti, pokud je v dané oblasti těžby zaveden systém lesního hospodaření zajišťující, že jsou dlouhodobě zachovány nebo dlouhodobě posíleny zásoby uhlíku nebo úrovně propadů v daném lese.
+
+(6) Paliva z lesní biomasy nesmí být získávána z půdy, která má status uvedený v § 6a odst.1 písm. a), b), d) a e), § 6a odst. 3 písm. a) a v § 6a odst. 5. Podmínka podle věty první je v České republice splněna.
+
+## § 6c – Výpočet úspory emisí skleníkových plynů pro biokapaliny, paliva z biomasy, obnovitelná paliva nebiologického původu a recyklovaná paliva s obsahem uhlíku
+
+(1) Výpočet úspory skleníkových plynů vzniklých během úplného životního cyklu biokapaliny, paliva z biomasy, obnovitelného paliva nebiologického původu a recyklovaného paliva s obsahem uhlíku oproti emisím skleníkových plynů vzniklých během úplného životního cyklu referenčního fosilního paliva se stanoví podle příloh III, V, VI a VIII směrnice o podpoře využívání energie z obnovitelných zdrojů a podle nařízení Komise v přenesené pravomoci (EU) k tomuto stanovených<sup>7</sup>)’<sup>10</sup>).
+
+(2) Pro výpočet úspory emisí skleníkových plynů se jako hodnota emisí skleníkových plynů vzniklých během úplného životního cyklu referenčního fosilního paliva EC<sub>F</sub> použije
+
+a) k výrobě elektřiny hodnota EC<sub>F(el)</sub> ve výši 183 g CO<sub>2</sub>eq/MJ elektřiny, nebo ve výši 212 g CO<sub>2</sub>eq/MJ elektřiny pro nejvzdálenější regiony podle čl. 349 Smlouvy o fungování Evropské unie,
+
+b) k výrobě užitečného tepla, jakožto i k výrobě tepla nebo chlazení hodnota EC<sub>F(h)</sub> ve výši 80 g CO<sub>2</sub>eq/MJ tepla,
+
+c) k výrobě tepla, u níž lze prokázat přímou fyzickou náhradu uhlí, hodnota EC<sub>F</sub><sub>(h)</sub> ve výši 124 g CO<sub>2</sub>eq/MJ tepla,
+
+d) v odvětví dopravy hodnota EC<sub>F</sub><sub>(t)</sub> ve výši 94 g CO<sub>2</sub>eq/MJ; v případě biometanu používaného jako stlačený biometan coby palivo využívané v odvětví dopravy se přičte k typizovaným hodnotám hodnota 3,3 g CO<sub>2</sub>eq/MJ biometanu a ke standardizovaným hodnotám hodnota 4,6 g CO<sub>2</sub>eq/MJ biometanu.
+
+## § 6d – Rozsah auditu a vzor prohlášení o původu lesní biomasy a plnění úspor emisí skleníkových plynů u vnitrostátního režimu
+
+(1) Audit ověřující původ paliv z lesní biomasy a plnění úspor emisí skleníkových plynů u vnitrostátního režimu prokazování kritérií udržitelnosti a úspor emisí skleníkových plynů z lesní biomasy prověřuje a uvádí
+
+a) posouzení souladu s kritérii těžby podle čl. 3 prováděcího nařízení Komise (EU) 2022/2448 o stanovení operativních pokynů ohledně důkazů pro prokázání souladu s kritérii udržitelnosti pro lesní biomasu uvedenými v čl. 29 směrnice o podpoře využívání energie z obnovitelných zdrojů,
+
+b) posouzení souladu s kritérii, která se týkají využívání půdy, změn ve využívání půdy a lesnictví (LULUCF) podle čl. 5 prováděcího nařízení Komise (EU) 2022/2448 o stanovení operativních pokynů ohledně důkazů pro prokázání souladu s kritérii udržitelnosti pro lesní biomasu uvedenými v čl. 29 směrnice o podpoře využívání energie z obnovitelných zdrojů,
+
+c) posouzení používání systému hmotnostní bilance uvedeného v čl. 30 odst. 1 směrnice o podpoře využívání energie z obnovitelných zdrojů podle čl. 7 prováděcího nařízení Komise (EU) 2022/2448 o stanovení operativních pokynů ohledně důkazů pro prokázání souladu s kritérii udržitelnosti pro lesní biomasu uvedenými v čl. 29 směrnice o podpoře využívání energie z obnovitelných zdrojů,
+
+d) posouzení zajištění míry transparentnosti s ohledem na potřebu veřejné kontroly přístupu k auditu podle čl. 7 prováděcího nařízení Komise (EU) 2022/2448 o stanovení operativních pokynů ohledně důkazů pro prokázání souladu s kritérii udržitelnosti pro lesní biomasu uvedenými v čl. 29 směrnice o podpoře využívání energie z obnovitelných zdrojů,
+
+e) vyhodnocení četnosti a metodiky odebírání vzorků a obsáhlosti údajů a ověření přesnosti, spolehlivosti a zabezpečení předložených informací proti podvodu,
+
+f) identifikaci subjektu provádějícího audit.
+
+(2) Zpráva o auditu kromě uvedení informací podle odstavce 1 musí být provedena minimálně v rozsahu přílohy II prováděcího nařízení Komise (EU) 2022/996 o pravidlech pro ověřování kritérií udržitelnosti a úspor emisí skleníkových plynů a kritérií nízkého rizika nepřímé změny ve využívání půdy<sup>7</sup>).
+
+(3) Vzor prohlášení o původu lesní biomasy a plnění úspor emisí skleníkových plynů je uveden v části A.1 přílohy č. 3 k této vyhlášce.
+
+## § 7 – Stanovení podílu biologicky rozložitelné části nevytříděného komunálního odpadu
+
+Pokud výrobce nebo výrobce tepla neprokáže skutečný podíl biologicky rozložitelné části nevytříděného komunálního odpadu na jeho celkovém energetickém obsahu, má se za to, že podíl biologicky rozložitelné části nevytříděného komunálního odpadu na jeho celkovém energetickém obsahu je 60 %. Zbývající podíl 40 % tvoří biologicky nerozložitelná část.
+
+**Dokumenty a záznamy k prokazování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů**
+
+## § 8
+
+(1) Výrobce, dovozce, prodejce nebo dodavatel biokapalin a vstupních surovin pro jejich výrobu využitých pro výrobu elektřiny nebo tepla uchovává vyhotovené dokumenty a záznamy pro každou fakturovanou dodávku alespoň v rozsahu podle prováděcího nařízení Komise (EU) 2022/996 o pravidlech pro ověřování kritérií udržitelnosti a úspor emisí skleníkových plynů a kritérií nízkého rizika nepřímé změny ve využívání půdy<sup>7</sup>) a podle pravidel nepovinného mezinárodního režimu používaného pro ověřování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle rozhodnutí Evropské komise podle čl. 30 odst. 5 směrnice o podpoře využívání energie z obnovitelných zdrojů.
+
+(2) Výrobce, dovozce, prodejce nebo dodavatel pevného paliva z biomasy a vstupních surovin pro jeho výrobu využitého pro výrobu elektřiny nebo tepla uchovává vyhotovené dokumenty a záznamy pro každou fakturovanou dodávku alespoň v rozsahu podle prováděcího nařízení Komise (EU) 2022/996 o pravidlech pro ověřování kritérií udržitelnosti a úspor emisí skleníkových plynů a kritérií nízkého rizika nepřímé změny ve využívání půdy<sup>7</sup>) a podle pravidel nepovinného mezinárodního režimu používaného pro ověřování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle rozhodnutí Evropské komise podle čl. 30 odst. 5 směrnice o podpoře využívání energie z obnovitelných zdrojů.
+
+(3) V případě, kdy výrobce, dodavatel nebo prodejce paliva z lesní biomasy a vstupní suroviny pro jeho výrobu využité pro výrobu elektřiny nebo tepla využívá vnitrostátní režim prokazování kritérií udržitelnosti a úspor emisí skleníkových plynů, uchovává vyhotovené dokumenty a záznamy pro každou fakturovanou dodávku v rozsahu části A.1 přílohy č. 3 k této vyhlášce.
+
+(4) Je-li výrobce, prodejce nebo dodavatel paliva z lesní biomasy a vstupní suroviny pro jeho výrobu současně výrobcem energie, uchovává k jím vyrobenému množství paliva z lesní biomasy pro výrobu elektřiny nebo tepla vyhotovené dokumenty a záznamy v rozsahu části A.2 přílohy č. 3 k této vyhlášce souhrnně za kalendářní měsíc.
+
+(5) Výrobce, dovozce, prodejce nebo dodavatel plynného paliva z biomasy a vstupních surovin pro jeho výrobu využitých pro výrobu elektřiny, tepla nebo biometanu uchovává vyhotovené dokumenty a záznamy pro každou fakturovanou dodávku alespoň v rozsahu podle prováděcího nařízení Komise (EU) 2022/996 o pravidlech pro ověřování kritérií udržitelnosti a úspor emisí skleníkových plynů a kritérií nízkého rizika nepřímé změny ve využívání půdy<sup>7</sup>) a podle pravidel nepovinného mezinárodního režimu používaného pro ověřování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle rozhodnutí Evropské komise podle čl. 30 odst. 5 směrnice o podpoře využívání energie z obnovitelných zdrojů.
+
+## § 8a
+
+(1) Výrobce energie uchovává při příjmu dodávky biokapalin, paliv z biomasy a vstupních surovin pro jejich výrobu vyhotovené dokumenty a záznamy o přijatých dodávkách od dodavatele biokapalin, paliv z biomasy a vstupních surovin pro jejich výrobu podle § 8.
+
+(2) Výrobce energie vykazuje záznamy o spotřebovaných biokapalinách, palivech z biomasy a vstupních surovinách pro jejich výrobu využitých pro výrobu elektřiny, tepla nebo biometanu v rozsahu a v termínech podle vyhlášky č. 166/2022 Sb., o vykazování energie z podporovaných zdrojů, ve znění pozdějších předpisů.
+
+## § 8b
+
+(1) Prokázání splnění kritérií úspor emisí skleníkových plynů pro povinnost zajistit minimální množství pokročilého biometanu a obnovitelných paliv nebiologického původu a povinnost snižování emisí skleníkových plynů z plynných pohonných hmot dodávaných prostřednictvím propojené plynárenské soustavy se provádí uplatněním záruky původu energie, která obsahuje informace o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů.
+
+(2) Neobsahuje-li záruka původu energie podle odstavce 1 informace o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů, výrobce plynu nebo obchodník s plynem s uplatněnou zárukou původu energie, postupem podle jiného právního předpisu<sup>11</sup>), doloží jiný doklad o splnění kritérii udržitelnosti a úspor emisí skleníkových plynů podle odstavce 3.
+
+(3) Jiným dokladem o splnění kritérii udržitelnosti a úspor emisí skleníkových plynů je prohlášení o splnění kritérií udržitelnosti a úspor emisí skleníkových plynů alespoň v rozsahu podle prováděcího nařízení Komise (EU) 2022/996 o pravidlech pro ověřování kritérií udržitelnosti a úspor emisí skleníkových plynů a kritérií nízkého rizika nepřímé změny ve využívání půdy<sup>7</sup>) a podle pravidel nepovinného mezinárodního režimu používaného pro ověřování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů podle rozhodnutí Evropské komise podle čl. 30 odst. 5 směrnice o podpoře využívání energie z obnovitelných zdrojů, které se váže ke stejné 1 MWh vyrobeného biometanu, na kterou byla vydána záruka původu energie.
+
+(4) U jednotky vyrobené energie, která byla dodána zákazníkovi přímým plynovodem, nebo bez použití plynárenské soustavy, dokládá splnění kritérií udržitelnosti a úspory emisí skleníkových plynů výrobce plynu nebo dodavatel plynných paliv dokladem podle odstavce 3.
+
+## § 9 – Zrušovací ustanovení
+
+Vyhláška č. 477/2012 Sb., o stanovení druhů a parametrů podporovaných obnovitelných zdrojů pro výrobu elektřiny, tepla nebo biometanu a o stanovení a uchovávání dokumentů, se zrušuje.
+
+## § 10 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 15. května 2022.
+
+Ministr průmyslu a obchodu:
+
+Ing. Síkela v. r.
+
+### Příloha č. 1
+
+#### Druhy a parametry podporovaných obnovitelných zdrojů využívajících biomasu a biokapaliny a suroviny vymezující vyspělý a pokročilý biometan
+
+#### Tabulka č. 1 - Procesy uvedené v § 4 odst. 1 písm. a) bodě 1, § 4 odst. 1 písm. b), § 4 odst. 2 písm. a) bodech 1 a 3 a § 4 odst. 2 písm. b)
+
+<table><tbody><tr><th colspan="2"></th><th>Výroba elektřiny</th><th>Výroba tepla</th></tr><tr><th colspan="2">Druhy podporované biomasy a biokapalin</th><th>Proces<sup>4</sup></th><th>Proces<sup>4</sup></th></tr><tr><td colspan="4"><u><i>Kategorie 1</i></u></td></tr><tr><td>a)</td><td>cíleně pěstované plodiny<sup>1</sup>, které jsou primárně určeny k energetickému využití, jejichž hmota nadzemní části je využita k energetickým účelům, případně upravené pro přepravu ke konečnému spotřebiteli biomasy<sup>2</sup></td><td>O</td><td>O, S, P</td></tr><tr><td>b)</td><td>cíleně pěstované energetické dřeviny<sup>1</sup>, tj. dřeviny vypěstované mimo lesní půdu, jejichž hmota nadzemní části je využita k energetickým účelům, případně upravené pro přepravu ke konečnému spotřebiteli biomasy<sup>2</sup></td><td>O</td><td>O, S, P</td></tr><tr><td>c)</td><td>ušlechtilá paliva<sup>3</sup> vyrobená z biomasy kategorie 1 této tabulky uvedená pod písmenem a)</td><td>O</td><td>O, S, P</td></tr><tr><td>d)</td><td>ušlechtilá paliva<sup>3</sup> vyrobená z biomasy kategorie 1 této tabulky uvedená pod písmenem b)</td><td>O</td><td>O</td></tr><tr><td colspan="4"><i><u>Kategorie 2</u></i></td></tr><tr><td>a)</td><td>sláma obilovin a olejnin, sláma kukuřice na zrno, včetně vedlejších a zbytkových produktů z jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O</td><td>O, S, P</td></tr><tr><td>b)</td><td>znehodnocené zrno potravinářských obilovin a semeno olejnin, včetně vedlejších a zbytkových produktů z jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O</td><td>O, S, P</td></tr><tr><td>c)</td><td>ostatní rostlinná pletiva, celé rostliny a části rostlin včetně sena, včetně vedlejších a zbytkových produktů z jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O</td><td>O, S, P</td></tr><tr><td>d)</td><td>rostliny uvedené v nařízení Komise (EU) 2016/1141 ze dne 13. července 2016, kterým se přijímá seznam invazních nepůvodních druhů s významným dopadem na Unii podle nařízení Evropského parlamentu a Rady (EU) č. 1143/2014, v platném znění, avšak pouze v případě, pokud se jedná výlučně o využití biomasy vzniklé odstraněním těchto rostlin na jejich stávajících stanovištích, včetně vedlejších a zbytkových produktů z jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O</td><td>O, S, P</td></tr><tr><td>e)</td><td>travní hmota z údržby trvalých porostů, z údržby veřejné i soukromé zeleně, včetně údržby vodních vodotečí, ochranných pásem apod. a včetně jejích úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O</td><td>O, S, P</td></tr><tr><td>f)</td><td>kaly z čistíren odpadních vod, vzniklé v aeračních nádržích při biologickém zpracování odpadních vod nebo při biologickém procesu čištění, a separovaných sedimentací nebo flotací, s vyloučením ostatních kalů a usazenin z vodních těles</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>g)</td><td>kaly z mechanického oddělování obsahující vlákna, včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>h)</td><td>zbytkový jedlý olej a tuk, směs tuků a olejů z odlučovače tuků obsahující pouze jedlé oleje a jedlé tuky, včetně vedlejších a zbytkových produktů jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>i)</td><td>zbytkové produkty z destilace lihu, výpalky a obdobné rostlinné zbytky a vedlejší produkty z rostlin, včetně vedlejších a zbytkových produktů jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>j)</td><td>rostlinné oleje a živočišné tuky s výjimkou živočišných tuků podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009 ze dne 21. října 2009 o hygienických pravidlech pro vedlejší produkty živočišného původu a získané produkty, které nejsou určeny k lidské spotřebě, a o zrušení nařízení (ES) č. 1774/2002 (nařízení o vedlejších produktech živočišného původu), v platném znění včetně vedlejších a zbytkových produktů jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>k)</td><td>alkoholy vyráběné z biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>l)</td><td>kompost nevyhovující jakostí nebo určený k energetickému využití a vyplozené substráty z pěstování hub v podobě energetického kompostu včetně vedlejších a zbytkových produktů jeho zpracování a včetně jeho úprav pro přepravu ke konečnému spotřebiteli biomasy, zbytkový digestát z bioplynových stanic</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>m)</td><td>biologicky rozložitelné zbytky z kuchyní a stravoven</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>n)</td><td>biologicky rozložitelná část komunálního odpadu včetně vedlejších a zbytkových produktů jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O</td><td>O</td></tr><tr><td>o)</td><td>zbytková hmota z lesa, zbytkové produkty ze zpracování zbytkové hmoty z lesa, biomasa vzniklá v lese z probírek a prořezávek, dřevní hmota z údržby veřejné a soukromé zeleně včetně tratí, vodotečí, rozvodů elektřiny apod. a zbytkové produkty ze zpracování včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy; nezahrnuje pilařské dřevo, dýhařské dřevo, průmyslovou kulatinu<sup>5</sup>, pařezy a kořeny<sup>6</sup></td><td>O</td><td>O, S, P</td></tr><tr><td>p)</td><td>dřevní biomasa pocházející z nahodilé těžby po zdokumentovaných přírodních škodlivých činitelích, za které jsou považováni zejména hmyzí škůdci a klimatické kalamity způsobené suchem, větrem nebo požárem, kterou s ohledem na rozsah kalamity nelze jinak zpracovat</td><td>O</td><td>O, S, P</td></tr><tr><td>q)</td><td>ostatní zbytková biomasa v podobě kalů z praní, čištění, extrakce, loupání, odstřeďování a separace, včetně zbytkové biomasy ze zpracování ovoce, zeleniny, obilovin, jedlých olejů, kakaa, kávy a tabáku, z mlékárenského, konzervárenského, cukrovarnického, pivovarnického a tabákového průmyslu, z výroby droždí a kvasničného extraktu, z přípravy a kvašení melasy, z pekáren a výroby cukrovinek, výroby alkoholických a nealkoholických nápojů a další obdobná biomasa, která je nevhodná ke spotřebě nebo pro další zpracování, včetně vedlejších a zbytkových produktů jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>r)</td><td>zbytky z použitého dřeva, použitých výrobků vyrobených ze dřeva a dřevěných materiálů, zbytky dřevěných obalů včetně vedlejších produktů jejich zpracování včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O</td><td>O, S, P</td></tr><tr><td>s)</td><td>ušlechtilá paliva<sup>3</sup> vyrobená z biomasy kategorie 2 této tabulky uvedená pod písmeny a) až e), l) až n) a p)</td><td>O</td><td>O, S, P</td></tr><tr><td colspan="4"><u><i>Kategorie 3:</i></u></td></tr><tr><td>a)</td><td>vlákninové kaly vznikající v sedimentačních nádržích při čištění odpadních vod z produkce papíru a celulózy separované sedimentací nebo flotací, výplně a povrchové vrstvy z mechanického třídění, včetně vedlejších a zbytkových produktů jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>b)</td><td>deinkingové kaly, včetně vedlejších a zbytkových produktů jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>c)</td><td>zbytková biomasa z kožedělného a textilního průmyslu, včetně vedlejších a zbytkových produktů jejího zpracování a včetně její úpravy pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>d)</td><td>druhotně nevyužitý papír a lepenka, včetně vedlejších a zbytkových produktů jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>e)</td><td>výmět z rozvlákňování odpadního papíru a lepenky, výměnová vlákna, včetně vedlejších a zbytkových produktů jeho zpracování a včetně jeho úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>f)</td><td>sulfátový, sulfitový výluh, surové tálové mýdlo, včetně vedlejších a zbytkových produktů jejich zpracování a včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O, B</td><td>O, S, P, B</td></tr><tr><td>g)</td><td>zbytková dřevní hmota vznikající při výrobě celulózy včetně kůry, včetně vedlejších produktů z jejího zpracování a včetně jejích úprav pro přepravu ke konečnému spotřebiteli biomasy</td><td>O</td><td>O, S, P</td></tr><tr><td>h)</td><td>odřezky ze dřeva včetně vedlejších a zbytkových produktů jejich zpracování včetně jejich úprav pro přepravu ke konečnému spotřebiteli biomasy; nezahrnuje pilařské dřevo, dýhařské dřevo, průmyslovou kulatinu<sup>5</sup>, pařezy a kořeny<sup>6</sup></td><td>O</td><td>O, S, P</td></tr><tr><td>i)</td><td>zbytky z průmyslové produkce a zpracování odkorněného a neodkorněného dřeva, které jsou svými vlastnostmi nevhodné pro další materiálové využití; nezahrnuje pilařské dřevo, dýhařské dřevo, průmyslovou kulatinu<sup>5</sup>, pařezy a kořeny<sup>6</sup></td><td>O</td><td>O, S, P</td></tr><tr><td>j)</td><td>ušlechtilá paliva<sup>3</sup> vyrobená z biomasy kategorie 3 této tabulky uvedená pod písmeny a) a c) až h)</td><td>O</td><td>O, S, P</td></tr></tbody></table>
+
+Vysvětlivky:
+
+<sup>1</sup> Cíleně pěstovanými plodinami nebo dřevinami se rozumí rychle rostoucí plodiny a dřeviny určené pro energetické využití.
+
+<sup>2</sup> Úpravou pro přepravu ke konečnému spotřebiteli biomasy se rozumí např. balíkování, štěpkování, řezání a mletí biomasy.
+
+<sup>3</sup> Ušlechtilým palivem se rozumí pelety a brikety.
+
+<sup>4</sup> Kategorie v procesu:
+
+O1, O2 a O3 – kategorie v procesu spalování nebo zplyňování pouze paliva z biomasy,
+
+S1, S2 a S3 - kategorie v procesu spoluspalování paliva z biomasy a neobnovitelného zdroje,
+
+P1, P2 a P3 - kategorie v procesu paralelního spalování biomasy a neobnovitelného zdroje,
+
+B1, B2 a B3 - kategorie v procesu spalování biokapalin.
+
+<sup>5</sup> Průmyslovou kulatinou se rozumí pilařské dřevo, dýhařské dřevo, vlákninové dřevo kulaté či řezané, jakož i další kulatina, které jsou vhodné pro průmyslové účely, kromě kulatiny, jež je z důvodu svých vlastností, jako jsou druhy dřeviny, rozměry, přímost a hustota suků, nevhodná pro průmyslové využití.
+
+<sup>6</sup> Jedná se o pařezy a kořeny pocházející z udržitelného obhospodařování lesů. Za pařezy a kořeny pocházející z udržitelného obhospodařování lesů se nepovažují pařezy a kořeny na pozemcích zemědělského půdního fondu získané při povinné rekultivaci zemědělského půdního fondu nebo při rušení zemědělských kultur vinice, ovocný sad a rychle rostoucí dřeviny pěstované ve výmladkových plantážích (podle nařízení vlády č. 307/2014 Sb. nebo při rušení agrolesnických systémů (podle nařízení vlády č. 140/2023 Sb.) a pařezy a kořeny z čistění ploch při výstavbě nebo opravě dopravní infrastruktury nebo staveb podle stavebního zákona.
+
+#### Tabulka č. 2 - Procesy uvedené v § 4 odst. 1 písm. a) bodě 2, § 4 odst. 2 písm. a) bodě 2 a § 4 odst. 4 písm. a) a b).
+
+<table><tbody><tr><th colspan="4"></th><th>Výroba elektřiny, tepla a biometanu</th></tr><tr><th colspan="4">Druhy podporované biomasy</th><th>Proces<sup>4</sup></th></tr><tr><td colspan="4"><u>Část A</u></td><td></td></tr><tr><td colspan="4" rowspan="2"><u>Vstupní suroviny pro výrobu pokročilého bioplynu a biometanu</u></td><td rowspan="2"></td></tr><tr></tr><tr><td>a)</td><td colspan="3">řasy pěstované na pevnině ve vodních nádržích nebo fotobioreaktorech</td><td>AF</td></tr><tr><td>b)</td><td colspan="3">biomasa obsažená ve směsném komunálním odpadu, nikoli však tříděný domácí odpad, na který se vztahují cíle recyklace podle čl. 11 odst. 2 písm. a) směrnice Evropského parlamentu a Rady 2008/98/ES ze dne 19. listopadu 2008 o odpadech a o zrušení některých směrnic, ve znění nařízení Komise (EU) č. 1357/2014, směrnice Komise (EU) 2015/1127, nařízení Rady (EU) 2017/997 a směrnice Evropského parlamentu a Rady (EU) 2018/851</td><td>AF, U<sup>5</sup></td></tr><tr><td>c)</td><td colspan="3">biologický odpad z domácností, na který se vztahuje oddělené soustřeďování odpadu podle § 11 odst. 1 písm. e) zákona o odpadech</td><td>AF</td></tr><tr><td>d)</td><td colspan="3">biomasa obsažená v průmyslovém odpadu, který není vhodný pro využití v potravinovém nebo krmivovém řetězci, včetně materiálů pocházejících z maloobchodu a velkoobchodu a zemědělsko-potravinářského průmyslu, jakož i odvětví rybolovu a akvakultury, nikoliv však suroviny uvedené v části B této tabulky</td><td>AF</td></tr><tr><td></td><td colspan="2">1.</td><td>zbytky/odpady a zbytkové vody z rafinace rostlinných olejů<sup>1</sup></td><td>AF</td></tr><tr><td></td><td colspan="2">2.</td><td>zbytky/odpady z výroby lihu<sup>1</sup></td><td>AF</td></tr><tr><td></td><td colspan="2">3.</td><td>zbytky/odpady ze zpracování brambor<sup>1</sup></td><td>AF</td></tr><tr><td></td><td colspan="2">4.</td><td>zbytky/odpady ze zpracování cukrové řepy<sup>1</sup></td><td>AF</td></tr><tr><td></td><td colspan="2">5.</td><td>zbytky/odpady z pekařské výroby<sup>1</sup></td><td>AF</td></tr><tr><td></td><td colspan="2">6.</td><td>zbytky/odpady z výroby piva<sup>1</sup></td><td>AF</td></tr><tr><td></td><td colspan="2">7.</td><td>zbytky/odpady ze zpracování obilí, ovoce a zeleniny<sup>1</sup></td><td>AF</td></tr><tr><td></td><td colspan="2">8.</td><td>zbytky/odpady ze zpracování živočišných produktů<sup>1</sup></td><td>AF</td></tr><tr><td></td><td colspan="2">9.</td><td>jiný biologicky rozložitelný odpad podle zákona o odpadech s výjimkou odpadů pod písmeny b) a c)</td><td>AF</td></tr><tr><td>e)</td><td colspan="3">sláma</td><td>AF</td></tr><tr><td>f)</td><td colspan="3">mrva</td><td></td></tr><tr><td></td><td colspan="2">1.</td><td>hnůj slamnatý hovězí</td><td>AF</td></tr><tr><td></td><td colspan="2">2.</td><td>hnůj slamnatý vepřový</td><td>AF</td></tr><tr><td></td><td colspan="2">3.</td><td>močůvka</td><td>AF</td></tr><tr><td></td><td colspan="2">4.</td><td>kejda hovězí</td><td>AF</td></tr><tr><td></td><td colspan="2">5.</td><td>kejda vepřová</td><td>AF</td></tr><tr><td></td><td colspan="2">6.</td><td>trus opeřenců</td><td>AF</td></tr><tr><td></td><td colspan="2">7.</td><td>trus opeřenců včetně podestýlky</td><td>AF</td></tr><tr><td>g)</td><td colspan="3">kal z čistíren odpadních vod</td><td>AF, U<sup>6</sup></td></tr><tr><td>h)</td><td colspan="3">odpadní vody z lisovny palmového oleje a trsy prázdných palmových plodů</td><td>AF</td></tr><tr><td>i)</td><td colspan="3">dehet z tálového oleje</td><td>AF</td></tr><tr><td>j)</td><td colspan="3">surový glycerin</td><td>AF</td></tr><tr><td>k)</td><td colspan="3">bagasa</td><td>AF</td></tr><tr><td>l)</td><td colspan="3">matoliny a vinné kaly</td><td>AF</td></tr><tr><td>m)</td><td colspan="3"> ořechové skořápky</td><td>AF</td></tr><tr><td>n)</td><td colspan="3">plevy</td><td>AF</td></tr><tr><td>o)</td><td colspan="3">kukuřičné klasy zbavené zrn</td><td>AF</td></tr><tr><td>p)</td><td colspan="3">biomasa obsažená v odpadu a zbytcích z lesnictví a z dřevozpracujících odvětví, jako jsou kůra, větve, nekomerční pročistky, listí, jehličí, koruny stromů, piliny, hobliny, černý louh, hnědý louh, kal z vláknovin, lignin a tálový olej</td><td>AF</td></tr><tr><td>q)</td><td colspan="3">jiné nepotravinářské celulózové vláknoviny<sup>2</sup></td><td>AF</td></tr><tr><td>r)</td><td colspan="3">jiné lignocelulózové vláknoviny<sup>3</sup>, s výjimkou pilařského dřeva a dýhařského dřeva</td><td>AF</td></tr><tr><td colspan="4">s) přiboudliny z destilace alkoholu</td><td>AF</td></tr><tr><td colspan="4">t) surový methanol ze sulfátového procesu výroby dřevné buničiny</td><td>AF</td></tr><tr><td colspan="4">u) dočasné plodiny, jako jsou meziplodiny a krycí plodiny, které jsou pěstovány na plochách, kde je produkce potravinářských a krmných plodin v důsledku krátkého vegetačního období omezena na jednu sklizeň, a za předpokladu, že jejich využití nevyvolává poptávku po další půdě, jakož i za předpokladu, že je zachován obsah organické hmoty v půdě, pokud se používají k výrobě biopaliv pro odvětví letectví<sup>2</sup></td><td>AF</td></tr><tr><td colspan="4">v) plodiny pěstované na silně degradované půdě, s výjimkou potravinářských a krmných plodin, pokud se používají k výrobě biopaliv pro odvětví letectví</td><td>AF</td></tr><tr><td colspan="4">w) sinice</td><td>AF</td></tr><tr><td colspan="4">Část B</td><td></td></tr><tr><td colspan="4">Vstupní suroviny pro výrobu vyspělého bioplynu a biometanu</td><td></td></tr><tr><td colspan="4">a) použitý kuchyňský olej</td><td>AF</td></tr><tr><td colspan="4">b) živočišné tuky kategorií 1 a 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009, ze dne 21. října 2009 o hygienických pravidlech pro vedlejší produkty živočišného původu a získané produkty, které nejsou určeny k lidské spotřebě, a o zrušení nařízení (ES) č. 1774/2002 (nařízení o vedlejších produktech živočišného původu), v platném znění</td><td>AF</td></tr><tr><td colspan="4">c) poškozené plodiny, které nejsou vhodné pro použití v potravinovém nebo krmivovém řetězci, s výjimkou látek, které byly záměrně modifikovány nebo kontaminovány za účelem splnění této definice</td><td>AF</td></tr><tr><td colspan="4">d) komunální odpadní vody a jiné deriváty než kal z čistíren odpadních vod</td><td>AF</td></tr><tr><td colspan="4">e) plodiny pěstované na silně degradované půdě, s výjimkou potravinářských a krmných plodin a surovin uvedených v části A této přílohy, pokud se nepoužívají k výrobě biopaliv pro odvětví letectví</td><td>AF</td></tr><tr><td colspan="4">f) dočasné plodiny, jako jsou meziplodiny a krycí plodiny, a s výjimkou surovin uvedených v části A této přílohy, které jsou pěstovány na plochách, kde je produkce potravinářských a krmných plodin v důsledku krátkého vegetačního období omezena na jednu sklizeň, a za předpokladu, že jejich využití nevyvolává poptávku po další půdě, jakož i za předpokladu, že je zachován obsah organické hmoty v půdě, pokud se nepoužívají k výrobě biopaliv pro odvětví letectví</td><td>AF</td></tr></tbody></table>
+
+Vysvětlivky:
+
+<sup>1</sup> Nevyužitelné pro výrobu potravin nebo krmiv.
+
+<sup>2</sup> Nepotravinářskou celulózovou vláknovinou se rozumí suroviny složené především z celulózy a hemicelulózy, které mají nižší obsah ligninu než lignocelulózové vláknoviny, včetně zbytků potravinářských a krmných plodin, například slámy, kukuřičného šustí, plev a lusků; energetické traviny s nízkým obsahem škrobu, například jílek, proso prutnaté, ozdobnice, trsť rákosovitá; krycí plodiny vysévané před zasetím a po sklizení hlavních plodin; pícniny; průmyslové zbytky včetně zbytků potravinářských a krmných plodin po extrakci rostlinných olejů, cukrů, škrobů a bílkovin; a vláknovina z biologického odpadu, přičemž pícniny a krycí plodiny jsou chápány jako dočasné, krátkodobě oseté pastviny obsahující směs travin a luštěnin s nízkým obsahem škrobu za účelem zajištění píce pro hospodářská zvířata a zlepšení úrodnosti půdy k dosažení vyšších výnosů hlavních plodin na orné půdě.
+
+<sup>3</sup> Lignocelulózovou vláknovinou se rozumí vláknovina obsahující lignin, celulózu a hemicelulózu, například biomasa pocházející z lesů, energetické dřeviny a zbytky a odpady z lesnictví a dřevozpracujících odvětví.
+
+<sup>4</sup> Kategorie v procesu:
+
+AF - anaerobní fermentace, ze které vzniká bioplyn pro výrobu elektřiny, tepla nebo biometanu,
+
+U – úprava na kvalitu a čistotu splňující kvalitativní parametry zemního plynu.
+
+<sup>5</sup> Úprava skládkového plynu na kvalitu a čistotu splňující kvalitativní parametry zemního plynu (skládkový plyn může být využit pouze pro výrobu elektřiny nebo pro výrobu biometanu).
+
+<sup>6</sup> Úprava kalového plynu na kvalitu a čistotu splňující kvalitativní parametry zemního plynu (kalový plyn může být využit pouze pro výrobu elektřiny nebo pro výrobu biometanu).
+
+#### Tabulka č. 3 - Procesy uvedené v § 4 odst. 1 písm. a) bodě 2, § 4 odst. 2 písm. a) bodě 2 a § 4 odst. 4 písm. a) a b).
+
+<table><tbody><tr><th colspan="3"></th><th>Výroba elektřiny, tepla a biometanu</th></tr><tr><th colspan="3">Druhy podporované biomasy</th><th>Proces<sup>2</sup></th></tr><tr><td colspan="3">Vstupní suroviny pro výrobu ostatního bioplynu a biometanu</td><td></td></tr><tr><td>a)</td><td colspan="2">kukuřice a kukuřičná siláž</td><td>AF</td></tr><tr><td>b)</td><td colspan="2">jetel, vojtěška a jiné víceleté pícniny nebo jejich směsi</td><td>AF</td></tr><tr><td>c)</td><td colspan="2">ostatní plodiny pěstované na orné půdě kromě plodin uvedených pod písmeny a) a b)</td><td>AF</td></tr><tr><td>d)</td><td colspan="2">statková hnojiva vyjma vedlejších živočišných produktů nespadající do části A v tabulce č. 2</td><td>AF</td></tr><tr><td>e)</td><td colspan="2">kafilerní tuk pouze kategorie 3 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009 ze dne 21. října 2009 o hygienických pravidlech pro vedlejší produkty živočišného původu a získané produkty, které nejsou určeny k lidské spotřebě, a o zrušení nařízení (ES) č. 1774/2002 (nařízení o vedlejších produktech živočišného původu), v platném znění</td><td>AF</td></tr><tr><td>f)</td><td colspan="2">masokostní moučka pouze kategorie 3 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009 ze dne 21. října 2009 o hygienických pravidlech pro vedlejší produkty živočišného původu a získané produkty, které nejsou určeny k lidské spotřebě, a o zrušení nařízení (ES) č. 1774/2002 (nařízení o vedlejších produktech živočišného původu), v platném znění</td><td>AF</td></tr><tr><td>g)</td><td colspan="2">rostlinné oleje a živočišné tuky s výjimkou živočišných tuků kategorie 1 a 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009 ze dne 21. října 2009 o hygienických pravidlech pro vedlejší produkty živočišného původu a získané produkty, které nejsou určeny k lidské spotřebě, a o zrušení nařízení (ES) č. 1774/2002 (nařízení o vedlejších produktech živočišného původu), v platném znění</td><td>AF</td></tr><tr><td>h)</td><td colspan="2">zpracované produkty pocházející z živočišných materiálů kategorií 2 a 3 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009 ze dne 21. října 2009 o hygienických pravidlech pro vedlejší produkty živočišného původu a získané produkty, které nejsou určeny k lidské spotřebě, a o zrušení nařízení (ES) č. 1774/2002 (nařízení o vedlejších produktech živočišného původu), v platném znění,, nezpracovaných živočišných materiálů, kalů z praní a čištění živočišných tkání kategorie 3, podle uvedeného nařízení Evropského parlamentu a Rady , mléka, mleziva a obsahu trávicího traktu z něj vyjmutého, vše kategorie 3, podle uvedeného nařízení Evropského parlamentu a Rady, v případě těchto materiálů kategorie 2 podle uvedeného nařízení Evropského parlamentu a Rady, tj. pouze pokud jsou předem tepelně zpracovány</td><td>AF</td></tr><tr><td>i)</td><td colspan="2">zbytkový jedlý olej a tuk, směs tuků a olejů z odlučovače tuků obsahující pouze jedlé oleje a jedlé tuky</td><td>AF</td></tr><tr><td>j)</td><td colspan="2">zbytky z/ze nespadající do části A v tabulce č. 2<sup>1</sup></td><td></td></tr><tr><td></td><td>1.</td><td>rafinace rostlinných olejů</td><td>AF</td></tr><tr><td></td><td>2.</td><td>zpracování cukrové řepy</td><td>AF</td></tr><tr><td></td><td>3.</td><td>zpracování brambor</td><td>AF</td></tr><tr><td></td><td>4.</td><td>výroby lihu</td><td>AF</td></tr><tr><td></td><td>5.</td><td>pekařské výroby</td><td>AF</td></tr><tr><td></td><td>6.</td><td>výroby piva</td><td>AF</td></tr><tr><td></td><td>7.</td><td>zpracování ovoce a zeleniny</td><td>AF</td></tr></tbody></table>
+
+Vysvětlivky:
+
+<sup>1</sup> Využitelné pro výrobu potravin nebo krmiv.
+
+<sup>2</sup> Kategorie v procesu:
+
+AF - anaerobní fermentace, ze které vzniká bioplyn pro výrobu elektřiny, tepla nebo biometanu,
+
+U – úprava na kvalitu a čistotu splňující kvalitativní parametry zemního plynu.
+
+### Příloha č. 2 k vyhlášce č. 110/2022 Sb.
+
+#### Vypočet emisí skleníkových plynů pro biokapaliny
+
+Emise skleníkových plynů z výroby a použití biokapalin se vypočítají podle níže uvedeného vzorce (E), který je nutno dále rozšířit o přeměnu energie na vyráběnou elektřinu nebo na vyráběné teplo a chlazení podle části i) až iv):
+
+| E = e<sub>ec</sub> + e<sub>l</sub> + e<sub>p</sub> + e<sub>td</sub> + e<sub>u</sub>– e<sub>sca</sub>– e<sub>ccs</sub> – e<sub>ccr</sub>, | [g CO2eq/MJ] |
+|---|---|
+
+kde:
+
+E = celkové emise z výroby paliva před přeměnou energie;
+
+e<sub>ec</sub> = emise z těžby nebo pěstování surovin;
+
+e<sub>l</sub> = anualizované emise ze změn v zásobě uhlíku vyvolaných změnami ve využívání půdy;
+
+e<sub>p</sub> = emise ze zpracování;
+
+e<sub>td</sub> = emise z přepravy a distribuce;
+
+e<sub>u</sub> = emise z používání daného paliva;
+
+e<sub>sca</sub> = úspory emisí vyvolané nahromaděním uhlíku v půdě díky zdokonaleným zemědělským postupům;
+
+e<sub>ccs</sub> = úspory emisí v důsledku zachycování a geologického ukládání CO<sub>2</sub>; a
+
+eccr = úspory emisí v důsledku zachycování a náhrady CO<sub>2</sub>.
+
+Emise z výroby strojního a jiného vybavení se neberou v úvahu.
+
+i) zařízení na výrobu energie zajišťující pouze dodávky tepla:
+
+C<sub>h</sub>=(E)/(η<sub>h</sub>)
+
+ii) zařízení na výrobu energie zajišťující pouze dodávky elektřiny:
+
+EC<sub>el</sub>=(E)/(η<sub>el</sub>)
+
+kde
+
+EC<sub>h,el</sub> = celkové emise skleníkových plynů z konečné energetické komodity;
+
+E = celkové emise skleníkových plynů z biokapaliny před závěrečnou konverzí;
+
+η<sub>el</sub> = elektrická účinnost, definovaná jako roční výroba elektřiny děleno ročním vstupem biokapaliny na základě jejího energetického obsahu;
+
+η<sub>h</sub> = účinnost tepla, definovaná jako roční výroba užitečného tepla děleno ročním vstupem biokapaliny na základě jejího energetického obsahu;
+
+iii) v případě elektřiny nebo mechanické energie pocházející ze zařízení na výrobu energie, která zajišťují dodávky užitečného tepla společně s dodávkami elektřiny nebo mechanické energie:
+
+EC<sub>el</sub>=(E)/(η<sub>el</sub>)·(C<sub>el</sub>·η<sub>el</sub>)/(C<sub>el</sub>·η<sub>el</sub>+C<sub>h</sub>·η<sub>h</sub>)
+
+iv) v případě užitečného tepla pocházejícího ze zařízení na výrobu energie, která zajišťují dodávky tepla společně s dodávkami elektřiny nebo mechanické energie:
+
+EC<sub>h</sub>=(E)/(η<sub>h</sub>)·(C<sub>h</sub>·η<sub>h</sub>)/(C<sub>el</sub>·η<sub>el</sub>+C<sub>h</sub>·η<sub>h</sub>),
+
+kde
+
+EC<sub>h</sub> = celkové emise skleníkových plynů z konečné energetické komodity;
+
+E = celkové emise skleníkových plynů z biokapaliny před závěrečnou konverzí;
+
+η<sub>el</sub> = elektrická účinnost, definovaná jako roční výroba elektřiny děleno ročním vstupem biokapaliny na základě jejího energetického obsahu;
+
+η<sub>h</sub> = účinnost tepla, definovaná jako roční výroba užitečného tepla děleno ročním vstupem biokapaliny na základě jejího energetického obsahu;
+
+C<sub>el</sub> = podíl exergie na elektřině nebo mechanické energii, stanovený na 100 % (C<sub>el</sub> = 1).
+
+C<sub>h</sub> = účinnost Carnotova cyklu (podíl exergie na užitečném teple).
+
+Účinnost Carnotova cyklu (C<sub>h</sub>) pro užitečné teplo při rozdílných teplotách je definována jako:
+
+C<sub>h</sub>=(T<sub>h</sub>-T<sub>0</sub>)/(T<sub>h</sub>), kde
+
+T<sub>h</sub>= teplota měřená jako absolutní teplota (v kelvinech) užitečného tepla v místě dodání;
+
+T<sub>0</sub> = teplota okolí, stanovená na 273,15 kelvinů (rovná se 0 °C).
+
+Je-li přebytečné teplo vyváženo pro účely vytápění budov, při teplotě nižší než 150 °C (423,15 kelvinu), lze C<sub>h</sub> alternativně definovat takto:
+
+C<sub>h</sub> = účinnost Carnotova cyklu pro teplo při teplotě 150 °C (423,15 kelvinu), která činí: 0,3546.
+
+### Příloha č. 3
+
+#### Dokumenty a záznamy o použitém palivu při výrobě energie z podporovaných obnovitelných zdrojů a o způsobu výroby tohoto paliva
+
+A.1) Vzor prohlášení výrobce, dodavatele nebo prodejce paliva z lesní biomasy a vstupní suroviny pro jeho výrobu
+
+##### ![sbcr2022c054z0110_2025c567z0567u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1660575/NAHLED/ZOBRAZ/sbcr2022c054z0110_2025c567z0567u001)
+
+A.2) Prohlášení výrobce energie – při příjmu dodávky paliva z lesní biomasy nebo vstupních surovin pro jeho výrobu, pokud je výrobce energie současně dodavatelem paliva z lesní biomasy nebo vstupní suroviny pro jeho výrobu
+
+##### ![sbcr2022c054z0110_2025c567z0567u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1660573/NAHLED/ZOBRAZ/sbcr2022c054z0110_2025c567z0567u002)
+
+---
+
+<sup>1</sup>) Čl. 2 bod 1a, čl. 3 odst. 3c písm. a), čl. 29 až 31 a přílohy V, VI a IX směrnice Evropského parlamentu a Rady (EU) 2018/2001 ze dne 11. prosince 2018 o podpoře využívání energie z obnovitelných zdrojů (přepracované znění), ve znění směrnice Evropského parlamentu a Rady (EU) 2023/2413 a směrnice Komise v přenesené pravomoci (EU) 2024/1405.
+
+<sup>2</sup>) Vyhláška č. 166/2022 Sb., o vykazování energie z podporovaných zdrojů.
+
+<sup>3</sup>) Například § 4 odst. 1 a 2, § 6 odst. 1, § 13 až 15, § 45a a 45e zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Nařízení Komise (EU) č. 1307/2014 ze dne 8. prosince 2014, kterým se stanoví kritéria a zeměpisné oblasti k určení vysoce biologicky rozmanitých travních porostů pro účely čl. 7b odst. 3 písm. c) směrnice Evropského parlamentu a Rady 98/70/ES o jakosti benzinu a motorové nafty a čl. 17 odst. 3 písm. c) směrnice Evropského parlamentu a Rady 2009/28/ES o podpoře využívání energie z obnovitelných zdrojů.
+
+<sup>5</sup>) § 68 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb.
+
+<sup>6</sup>) Nařízení vlády č. 75/2015 Sb., o podmínkách provádění agroenvironmentálně-klimatických opatření a o změně nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů.
+
+<sup>7</sup>) Prováděcí nařízení Komise (EU) 2022/996 ze dne 14. června 2022 o pravidlech pro ověřování kritérií udržitelnosti a úspor emisí skleníkových plynů a kritérií nízkého rizika nepřímé změny ve využívání půdy, v platném znění.
+
+<sup>8</sup>) Rozhodnutí Rady (EU) 2016/1841 ze dne 5. října 2016 o uzavření Pařížské dohody přijaté v rámci Rámcové úmluvy Organizace spojených národů o změně klimatu jménem Evropské unie.
+
+<sup>9</sup>) Rámcová úmluva Organizace spojených národů o změně klimatu, vyhlášená pod č. 80/2005 Sb. m. s.
+
+<sup>10</sup>) Nařízení Komise (EU) 2023/1185 ze dne 10. února 2023, kterým se doplňuje směrnice Evropského parlamentu a Rady (EU) 2018/2001 stanovením minimální hodnoty pro úspory emisí skleníkových plynů z recyklovaných paliv s obsahem uhlíku a upřesněním metodiky pro posuzování úspor emisí skleníkových plynů z kapalných a plynných paliv z obnovitelných zdrojů nebiologického původu používaných v odvětví dopravy a z recyklovaných paliv s obsahem uhlíku.
+
+<sup>11</sup>) Vyhláška č. 328/2022 Sb., o zárukách původu energie.

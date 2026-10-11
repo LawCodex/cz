@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 225/2021 Sb., kterou se mění vyhláška č. 345/1999 Sb., kterou se vydává řád výkonu trestu odnětí svobody, ve znění pozdějších předpisů"
+identifier: "225/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/225/2024-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-05-26
+effective: 2021-07-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/225"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 225/2021 Sb., kterou se mění vyhláška č. 345/1999 Sb., kterou se vydává řád výkonu trestu odnětí svobody, ve znění pozdějších předpisů
+
+225
+
+VYHLÁŠKA
+
+ze dne 26. května 2021,
+
+kterou se mění vyhláška č. 345/1999 Sb., kterou se vydává řád výkonu trestu odnětí svobody, ve znění pozdějších předpisů
+
+Ministerstvo spravedlnosti stanoví podle § 81 zákona č. 169/1999 Sb., o výkonu trestu odnětí svobody a o změně některých souvisejících zákonů:
+
+## Čl. I
+
+Vyhláška č. 345/1999 Sb., kterou se vydává řád výkonu trestu odnětí svobody, ve znění vyhlášky č. 378/2004 Sb., vyhlášky č. 243/2006 Sb., vyhlášky č. 19/2015 Sb., vyhlášky č. 279/2017 Sb. a vyhlášky č. 362/2020 Sb., se mění takto:
+
+1\. V § 10 se odstavec 1 zrušuje a zároveň se zrušuje označení odstavce 2.
+
+2\. V § 10 se za slovo „přemísťován“ vkládají slova „na dobu nikoliv přechodnou“.
+
+3\. V § 17 odstavec 7 zní:
+
+> „(7) Do cely nebo ložnice, v níž na odsouzeného připadne ubytovací plocha menší než ubytovací plocha stanovená podle odstavce 6, nikoli však menší než 3 m<sup>2</sup>, lze umístit
+
+> a) odsouzeného nevykonávajícího trest ve specializovaném oddílu pouze tehdy, pokud celkový počet takových odsouzených vykonávajících trest ve věznicích téhož základního typu a stupně zabezpečení věznice s ostrahou neumožní z důvodu nedostatečné ubytovací kapacity dodržet ubytovací plochu stanovenou podle odstavce 6; do celkové plochy téhož základního typu a stupně zabezpečení věznice s ostrahou se nezapočítává ubytovací plocha specializovaných oddílů,
+
+> b) odsouzeného vykonávajícího trest v některém ze specializovaných oddílů pouze tehdy, pokud celkový počet odsouzených vykonávajících trest v takovém specializovaném oddílu ve věznicích téhož základního typu a stupně zabezpečení věznice s ostrahou neumožní z důvodu nedostatečné ubytovací kapacity dodržet ubytovací plochu stanovenou podle odstavce 6 nebo pokud by výkon trestu takového odsouzeného ve specializovaném oddílu v jiné věznici byl výrazně ztížen s ohledem na stavebně technické podmínky takové věznice, nebylo by možné odsouzenému poskytovat nebo zajišťovat potřebné zdravotní služby nebo by z jiných důležitých důvodů bylo ohroženo naplnění účelu zařazení odsouzeného do specializovaného oddílu.“.
+
+4\. V § 46 odst. 5 se věta druhá zrušuje.
+
+5\. V § 92 a v § 94 odst. 1 se slova „zřízených generálním ředitelem Vězeňské služby“ zrušují.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2021, s výjimkou ustanovení čl. I bodů 4 a 5, která nabývají účinnosti dnem 1. ledna 2022, a s výjimkou ustanovení čl. I bodu 3, které nabývá účinnosti dnem 1. ledna 2024.
+
+Ministryně spravedlnosti:
+
+Mgr. Benešová v. r.

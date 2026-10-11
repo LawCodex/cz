@@ -1,0 +1,42 @@
+---
+title: "Nařízení vlády č. 24/2018 Sb., o určení kompenzačního opatření ukládaného uchazeči pro regulovanou činnost insolvenčního správce"
+identifier: "24/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/24/2018-03-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2018-01-31
+effective: 2018-03-01
+last_amended: 2018-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/24"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 24/2018 Sb., o určení kompenzačního opatření ukládaného uchazeči pro regulovanou činnost insolvenčního správce
+
+24
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 31. ledna 2018
+
+o určení kompenzačního opatření ukládaného uchazeči pro regulovanou činnost insolvenčního správce
+
+Vláda nařizuje podle § 11 odst. 2 a § 38 odst. 4 zákona č. 18/2004 Sb., o uznávání odborné kvalifikace a jiné způsobilosti státních příslušníků členských států Evropské unie a některých příslušníků jiných států a o změně některých zákonů (zákon o uznávání odborné kvalifikace), ve znění zákona č. 588/2004 Sb., zákona č. 189/2008 Sb., zákona č. 52/2012 Sb. a zákona č. 126/2016 Sb.:
+
+## § 1
+
+Pro regulovanou činnost insolvenčního správce je vyloučena volba uchazeče mezi adaptačním obdobím a rozdílovou zkouškou a kompenzačním opatřením je rozdílová zkouška.
+
+## § 2
+
+Toto nařízení nabývá účinnosti dnem 1. března 2018.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr spravedlnosti:
+
+JUDr. Pelikán, Ph.D., v. r.

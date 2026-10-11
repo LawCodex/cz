@@ -1,0 +1,40 @@
+---
+title: "Zákon č. 80/2024 Sb., kterým se mění zákon č. 383/2012 Sb., o podmínkách obchodování s povolenkami na emise skleníkových plynů, ve znění pozdějších předpisů"
+identifier: "80/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/80/2024-04-10"
+type: act
+jurisdiction: cz
+language: cs
+date: 2024-03-06
+effective: 2024-04-10
+last_amended: 2024-04-10
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/80"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 80/2024 Sb., kterým se mění zákon č. 383/2012 Sb., o podmínkách obchodování s povolenkami na emise skleníkových plynů, ve znění pozdějších předpisů
+
+80
+
+ZÁKON
+
+ze dne 6. března 2024,
+
+kterým se mění zákon č. 383/2012 Sb., o podmínkách obchodování s povolenkami na emise skleníkových plynů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+V § 9 odst. 1 zákona č. 383/2012 Sb., o podmínkách obchodování s povolenkami na emise skleníkových plynů, ve znění zákona č. 257/2014 Sb., zákona č. 183/2017 Sb., zákona č. 1/2020 Sb. a zákona č. 261/2021 Sb., se slovo „dubna“ nahrazuje slovem „září“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Pekarová Adamová v. r.
+
+Pavel v. r.
+
+Fiala v. r.

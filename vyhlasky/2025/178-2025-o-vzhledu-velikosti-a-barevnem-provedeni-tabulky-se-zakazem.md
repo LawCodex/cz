@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 178/2025 Sb., o vzhledu, velikosti a barevném provedení tabulky se zákazem fotografování vojenských objektů, prostor a zařízení"
+identifier: "178/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/178/2025-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-06-12
+effective: 2025-07-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/178"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 178/2025 Sb., o vzhledu, velikosti a barevném provedení tabulky se zákazem fotografování vojenských objektů, prostor a zařízení
+
+178
+
+VYHLÁŠKA
+
+ze dne 12. června 2025
+
+o vzhledu, velikosti a barevném provedení tabulky se zákazem fotografování vojenských objektů, prostor a zařízení
+
+Ministerstvo obrany stanoví podle § 44b odst. 1 zákona č. 222/1999 Sb., o zajišťování obrany České republiky, ve znění zákona č. 173/2025 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška upravuje vzhled, velikost a barevné provedení tabulky „ZÁKAZ FOTOGRAFOVÁNÍ“ (dále jen „tabulka“).
+
+## § 2 – Podoba tabulky
+
+(1) Tabulka má velikost 210 x 297 mm.
+
+(2) V horní polovině tabulky je piktogram zobrazující fotoaparát v zákazové značce. Fotoaparát je v provedení černé barvy a zákazová značka v barvě červené.
+
+(3) V dolní polovině tabulky je nápis „ZÁKAZ FOTOGRAFOVÁNÍ“ v bílém provedení na červeném podkladu o velikosti písma 16 mm.
+
+(4) Podoba tabulky je uvedena v příloze k této vyhlášce.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2025.
+
+Ministryně obrany:
+
+Mgr. Černochová v. r.
+
+### Příloha
+
+#### Podoba tabulky
+
+#### ![sbcr2025c178z0178o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436103/NAHLED/ZOBRAZ/sbcr2025c178z0178o001)

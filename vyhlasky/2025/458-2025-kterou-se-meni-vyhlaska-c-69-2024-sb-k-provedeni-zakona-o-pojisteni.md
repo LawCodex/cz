@@ -1,0 +1,106 @@
+---
+title: "Vyhláška č. 458/2025 Sb., kterou se mění vyhláška č. 69/2024 Sb., k provedení zákona o pojištění odpovědnosti z provozu vozidla"
+identifier: "458/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/458/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-10-30
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/458"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 458/2025 Sb., kterou se mění vyhláška č. 69/2024 Sb., k provedení zákona o pojištění odpovědnosti z provozu vozidla
+
+458
+
+VYHLÁŠKA
+
+ze dne 30. října 2025,
+
+kterou se mění vyhláška č. 69/2024 Sb., k provedení zákona o pojištění odpovědnosti z provozu vozidla
+
+Ministerstvo financí stanoví podle § 45 odst. 4 zákona č. 30/2024 Sb., o pojištění odpovědnosti z provozu vozidla:
+
+## Čl. I
+
+Vyhláška č. 69/2024 Sb., k provedení zákona o pojištění odpovědnosti z provozu vozidla, se mění takto:
+
+§ 5 zní:
+
+> **„§ 5 – Výše denní sazby příspěvku**
+
+> (1) Denní sazba příspěvku za dobu bez pojištění odpovědnosti činí
+
+> a) 6 Kč, jde-li o motocykl se zdvihovým objemem válců motoru nepřesahujícím 50 cm<sup>3</sup>,
+
+> b) 13 Kč, jde-li o motocykl se zdvihovým objemem válců motoru přesahujícím 50 cm<sup>3</sup> a nepřesahujícím 350 cm<sup>3</sup>,
+
+> c) 26 Kč, jde-li o motocykl se zdvihovým objemem válců motoru přesahujícím 350 cm<sup>3</sup> a nepřesahujícím 500 cm<sup>3</sup>,
+
+> d) 32 Kč, jde-li o motocykl se zdvihovým objemem válců motoru přesahujícím 500 cm<sup>3</sup>,
+
+> e) 81 Kč, jde-li o osobní automobil se zdvihovým objemem válců motoru nepřesahujícím 1 000 cm<sup>3</sup>,
+
+> f) 51 Kč, jde-li o osobní automobil se zdvihovým objemem válců motoru přesahujícím 1 000 cm<sup>3</sup> a nepřesahujícím 1 350 cm<sup>3</sup>,
+
+> g) 61 Kč, jde-li o osobní automobil se zdvihovým objemem válců motoru přesahujícím 1 350 cm<sup>3</sup> a nepřesahujícím 1 850 cm<sup>3</sup>,
+
+> h) 83 Kč, jde-li o osobní automobil se zdvihovým objemem válců motoru přesahujícím 1 850 cm<sup>3</sup> a nepřesahujícím 2 500 cm<sup>3</sup>,
+
+> i) 109 Kč, jde-li o osobní automobil se zdvihovým objemem válců motoru přesahujícím 2 500 cm<sup>3</sup>,
+
+> j) 74 Kč, jde-li o obytný automobil,
+
+> k) 180 Kč, jde-li o sanitní automobil,
+
+> l) 209 Kč, jde-li o autobus s nejvyšší povolenou hmotností nepřesahující 5 000 kg,
+
+> m) 399 Kč, jde-li o autobus s nejvyšší povolenou hmotností přesahující 5 000 kg,
+
+> n) 107 Kč, jde-li o trolejbus,
+
+> o) 120 Kč, jde-li o nákladní automobil jiný než podle písmene r) s nejvyšší povolenou hmotností nepřesahující 3 500 kg,
+
+> p) 189 Kč, jde-li o nákladní automobil jiný než podle písmene r) s nejvyšší povolenou hmotností přesahující 3 500 kg a nepřesahující 12 000 kg,
+
+> q) 493 Kč, jde-li o nákladní automobil jiný než podle písmene r) s nejvyšší povolenou hmotností přesahující 12 000 kg,
+
+> r) 582 Kč, jde-li o nákladní automobil, který je nebo má být v registru silničních vozidel zapsán jako tahač návěsů, nebo tahač přívěsů,
+
+> s) 23 Kč, jde-li o traktor,
+
+> t) 5 Kč, jde-li o přípojné vozidlo s nejvyšší povolenou hmotností nepřesahující 750 kg,
+
+> u) 12 Kč, jde-li o přípojné vozidlo s nejvyšší povolenou hmotností přesahující 750 kg a nepřesahující 10 000 kg,
+
+> v) 83 Kč, jde-li o přípojné vozidlo s nejvyšší povolenou hmotností přesahující 10 000 kg,
+
+> w) 20 Kč, jde-li o vozidlo jiné než podle písmen a) až v).
+
+> (2) Má-li vozidlo výlučně elektrický pohon, činí denní sazba příspěvku za dobu bez pojištění odpovědnosti
+
+> a) 13 Kč, jde-li o vozidlo s výkonem nepřesahujícím 30 kW,
+
+> b) 81 Kč, jde-li o vozidlo s výkonem přesahujícím 30 kW a nepřesahujícím 40 kW,
+
+> c) 51 Kč, jde-li o vozidlo s výkonem přesahujícím 40 kW a nepřesahujícím 55 kW,
+
+> d) 61 Kč, jde-li o vozidlo s výkonem přesahujícím 55 kW a nepřesahujícím 80 kW,
+
+> e) 83 Kč, jde-li o vozidlo s výkonem přesahujícím 80 kW a nepřesahujícím 135 kW,
+
+> f) 109 Kč, jde-li o vozidlo s výkonem přesahujícím 135 kW.
+
+> (3) Jde-li o registrované vozidlo, postupuje Kancelář při určení druhu vozidla pro účely denní sazby příspěvku za dobu bez pojištění odpovědnosti podle údajů o vozidle, které jí poskytlo Ministerstvo dopravy.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr:
+
+Ing. Stanjura v. r.

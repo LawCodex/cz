@@ -1,0 +1,3565 @@
+---
+title: "Vyhláška č. 387/2025 Sb., o formulářových podáních pro daň z přidané hodnoty"
+identifier: "387/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/387/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-09-25
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/387"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 387/2025 Sb., o formulářových podáních pro daň z přidané hodnoty
+
+387
+
+VYHLÁŠKA
+
+ze dne 25. září 2025
+
+o formulářových podáních pro daň z přidané hodnoty
+
+Ministerstvo financí stanoví podle § 72 odst. 4 a 5 zákona č. 280/2009 Sb., daňový řád, ve znění zákona č. 283/2020 Sb. a zákona č. 218/2025 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví
+
+a) obsahovou strukturu listinných nebo elektronických formulářových podání pro daň z přidané hodnoty a
+
+b) formát elektronických formulářových podání pro daň z přidané hodnoty.
+
+## § 2 – Obsahové struktury formulářových podání
+
+(1) Obsahová struktura
+
+a) přiznání k dani z přidané hodnoty je uvedena v příloze č. 1 k této vyhlášce,
+
+b) přiznání pro vrácení daně z přidané hodnoty osobě požívající výsad a imunit a mezinárodní organizaci se sídlem mimo tuzemsko je uvedena v příloze č. 2 k této vyhlášce,
+
+c) přiznání pro vrácení bezdůvodně zaplacené daně z přidané hodnoty je uvedena v příloze č. 3 k této vyhlášce,
+
+d) přiznání pro vrácení daně z přidané hodnoty zahraniční osobě na základě principu vzájemnosti a zahraniční osobě při pořízení zboží z jiného členského státu nebo dovozu zboží je uvedena v příloze č. 4 k této vyhlášce,
+
+e) přiznání pro vrácení daně z přidané hodnoty ozbrojeným silám jiného státu a Ministerstvu obrany a příslušníkovi ozbrojených sil jiného státu a dalším osobám podle mezinárodní smlouvy je uvedena v příloze č. 5 k této vyhlášce,
+
+f) přiznání k dani z přidané hodnoty v režimu Evropské unie jednoho správního místa je uvedena v příloze č. 6 k této vyhlášce,
+
+g) přiznání k dani z přidané hodnoty v režimu mimo Evropskou unii jednoho správního místa je uvedena v příloze č. 7 k této vyhlášce,
+
+h) přiznání k dani z přidané hodnoty v dovozním režimu jednoho správního místa je uvedena v příloze č. 8 k této vyhlášce,
+
+i) hlášení o dodání nového dopravního prostředku do jiného členského státu Evropské unie je uvedena v příloze č. 9 k této vyhlášce,
+
+j) hlášení o pořízení nového dopravního prostředku z jiného členského státu Evropské unie je uvedena v příloze č. 10 k této vyhlášce,
+
+k) souhrnného hlášení k dani z přidané hodnoty je uvedena v příloze č. 11 k této vyhlášce,
+
+l) kontrolního hlášení k dani z přidané hodnoty je uvedena v příloze č. 12 k této vyhlášce,
+
+m) přihlášky k registraci k dani z přidané hodnoty je uvedena v příloze č. 13 k této vyhlášce,
+
+n) přihlášky k registraci k dani z přidané hodnoty pro skupiny, žádosti o přistoupení do skupiny, oznámení o přistoupení do skupiny a žádosti o přestoupení do skupiny je uvedena v příloze č. 14 k této vyhlášce,
+
+o) přihlášky k registraci do zvláštního režimu jednoho správního místa (režim Evropské unie) a žádosti o přístup na elektronický portál do aplikace jednoho správního místa je uvedena v příloze č. 15 k této vyhlášce,
+
+p) přihlášky k registraci do zvláštního režimu jednoho správního místa (režim mimo Evropskou unii) je uvedena v příloze č. 16 k této vyhlášce,
+
+q) žádosti o zrušení registrace skupiny, žádosti o vystoupení člena ze skupiny a oznámení nesplnění podmínek skupiny je uvedena v příloze č. 17 k této vyhlášce,
+
+r) přihlášky k registraci do zvláštního režimu jednoho správního místa (dovozní režim – dovozce) a žádosti o přístup na elektronický portál do aplikace jednoho správního místa je uvedena v příloze č. 18 k této vyhlášce,
+
+s) přihlášky k registraci do zvláštního režimu jednoho správního místa (dovozní režim – zprostředkovatel) a žádosti o přístup na elektronický portál do aplikace jednoho správního místa je uvedena v příloze č. 19 k této vyhlášce,
+
+t) žádosti o změnu registračních údajů zprostředkovatele ve zvláštním režimu jednoho správního místa spočívající v doplnění osoby uskutečňující vybraná plnění do jeho registrace je uvedena v příloze č. 20 k této vyhlášce,
+
+u) oznámení obsahující údaje z evidence o přeshraničních platbách a jejich příjemcích (oznámení CESOP) je uvedena v příloze č. 21 k této vyhlášce,
+
+v) žádosti o přidělení přístupu do Aplikace pro vracení daně z přidané hodnoty plátci v jiném členském státě je uvedena v příloze č. 22 k této vyhlášce,
+
+w) přihlášky k registraci do přeshraničního režimu daně z přidané hodnoty pro malé podniky (SME) je uvedena v příloze č. 23 k této vyhlášce,
+
+x) oznámení o změně registračních údajů v přeshraničním režimu daně z přidané hodnoty pro malé podniky (SME) je uvedena v příloze č. 24 k této vyhlášce,
+
+y) oznámení o výši obratů za kalendářní čtvrtletí v přeshraničním režimu daně z přidané hodnoty pro malé podniky (SME) je uvedena v příloze č. 25 k této vyhlášce,
+
+z) oznámení o překročení prahové hodnoty obratu v Evropské unii v přeshraničním režimu daně z přidané hodnoty pro malé podniky (SME) je uvedena v příloze č. 26 k této vyhlášce,
+
+za) oznámení údajů z dokladu o prodeji je uvedena v příloze č. 27 k této vyhlášce.
+
+(2) Obsahová struktura oznámení o změně registračních údajů k dani z přidané hodnoty a obsahová struktura žádosti o zrušení registrace k dani z přidané hodnoty jsou uvedeny ve vyhlášce o formulářových podáních pro daně z příjmů.
+
+(3) Obsahové struktury podle odstavce 1 jsou uvedeny včetně případných pokynů k jejich vyplnění.
+
+## § 3 – Formát formulářového podání
+
+Formulářové podání podle § 2 lze elektronicky podat pouze ve formátu XML, s výjimkou formulářového podání podle § 2 písm. c), d), e), i), j), n) a q), které lze elektronicky podat pouze ve formátu PDF.
+
+## § 4 – Společná ustanovení
+
+Tiskopis formulářového podání vydaný Ministerstvem financí nebo datová struktura formulářového podání zveřejněná správcem daně se považují za odpovídající obsahové struktuře podle § 2 také v případě, že
+
+a) textová část je v jiném než českém jazyce,
+
+b) obsahuje odlišný údaj o časovém období,
+
+c) obsahuje odchylky v části obsahu, jejímž předmětem není požadavek na uvedení povinně sdělovaných údajů,
+
+d) se od této obsahové struktury odchyluje v důsledku obvyklých technologických postupů výroby tiskopisu nebo
+
+e) se od této obsahové struktury v nezbytném rozsahu odchyluje v důsledku úpravy stanovené zákonem nebo přímo použitelným předpisem Evropské unie.
+
+## § 5 – Přechodné ustanovení
+
+Pro daňová tvrzení k dani z přidané hodnoty za zdaňovací období nebo jeho část, které započaly přede dnem nabytí účinnosti této vyhlášky, se použije vyhláška č. 457/2020 Sb., o formulářových podáních pro daň z přidané hodnoty, ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+## § 6 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Vyhláška č. 457/2020 Sb., o formulářových podáních pro daň z přidané hodnoty.
+
+2\. Část druhá vyhlášky č. 358/2021 Sb., kterou se mění některé vyhlášky v souvislosti s přijetím zákona, kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, a zákon č. 242/2016 Sb., celní zákon, ve znění pozdějších předpisů.
+
+3\. Část první vyhlášky č. 112/2023 Sb., kterou se mění vyhláška č. 457/2020 Sb., o formulářových podáních pro daň z přidané hodnoty, ve znění vyhlášky č. 358/2021 Sb., a vyhláška č. 525/2020 Sb., o formulářových podáních pro daně z příjmů, ve znění pozdějších předpisů.
+
+4\. Vyhláška č. 368/2023 Sb., kterou se mění některé vyhlášky o formulářových podáních při správě daní pro rok 2024.
+
+5\. Část třetí vyhlášky č. 391/2024 Sb., kterou se mění některé vyhlášky o formulářových podáních při správě daní pro rok 2025.
+
+## § 7 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr financí:
+
+Ing. Stanjura v. r.
+
+### Příloha č. 1
+
+<table><tbody><tr><td colspan="2"><b>Přiznání k dani z přidané hodnoty</b></td></tr><tr><td>25 5401 MFin 5401 <br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>A. ODDÍL</b></td></tr><tr><td></td><td>Finančnímu úřadu pro / Specializovanému finančnímu úřadu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td></td><td>Rodné číslo / IČ</td></tr><tr><td></td><td>Daňové přiznání</td></tr><tr><td></td><td>Důvody pro podání dodatečného daňového přiznání zjištěny dne</td></tr><tr><td></td><td>Počet příloh / listů</td></tr><tr><td></td><td>Za zdaňovací období / za období od - do</td></tr><tr><td></td><td>Plátce § 6 až § 6f</td></tr><tr><td></td><td>Identifikovaná osoba § 6g až § 6l</td></tr><tr><td></td><td>Skupina § 5a</td></tr><tr><td></td><td>Neplátce § 19b nebo § 19c nebo § 108</td></tr><tr><td></td><td>Neexistují-li údaje pro stranu 2, proškrtněte (X)</td></tr><tr><td></td><td>Kód zdaňovacího období následujícího roku</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Titul</td></tr><tr><td></td><td>Sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu:</td></tr><tr><td></td><td>a) obec</td></tr><tr><td></td><td>b) PSČ</td></tr><tr><td></td><td>c) telefon</td></tr><tr><td></td><td>d) ulice (nebo část obce)</td></tr><tr><td></td><td>e) číslo popisné / orientační</td></tr><tr><td></td><td>f) e-mail</td></tr><tr><td></td><td>g) stát</td></tr><tr><td></td><td>Hlavní ekonomická činnost</td></tr><tr><td colspan="2"><b>B. ODDÍL</b></td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(a) a příjmení / vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / Osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Otisk razítka</td></tr><tr><td></td><td>Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Kontaktní osoba</td></tr><tr><td></td><td>Telefon</td></tr><tr><td colspan="2"><b>C. ODDÍL </b>–<b> daň z přidané hodnoty</b></td></tr><tr><td colspan="2"><b>I. Zdanitelná plnění</b></td></tr><tr><td>1</td><td>Dodání zboží nebo poskytnutí služby s místem plnění v tuzemsku - základní sazba (Základ daně)</td></tr><tr><td>1</td><td>Dodání zboží nebo poskytnutí služby s místem plnění v tuzemsku - základní sazba (Daň na výstupu)</td></tr><tr><td>2</td><td>Dodání zboží nebo poskytnutí služby s místem plnění v tuzemsku - snížená sazba (Základ daně)</td></tr><tr><td>2</td><td>Dodání zboží nebo poskytnutí služby s místem plnění v tuzemsku - snížená sazba (Daň na výstupu)</td></tr><tr><td>3</td><td>Pořízení zboží z jiného členského státu (§ 16, § 19 odst. 1 i třístranný obchod podle § 17) - základní sazba (Základ daně)</td></tr><tr><td>3</td><td>Pořízení zboží z jiného členského státu (§ 16, § 19 odst. 1 i třístranný obchod podle § 17) - základní sazba (Daň na výstupu)</td></tr><tr><td>4</td><td>Pořízení zboží z jiného členského státu (§ 16, § 19 odst. 1 i třístranný obchod podle § 17) - snížená sazba (Základ daně)</td></tr><tr><td>4</td><td>Pořízení zboží z jiného členského státu (§ 16, § 19 odst. 1 i třístranný obchod podle § 17) - snížená sazba (Daň na výstupu)</td></tr><tr><td>5</td><td>Přijetí služby s místem plnění podle § 9 odst. 1 od osoby registrované k dani v jiném členském státě - základní sazba (Základ daně)</td></tr><tr><td>5</td><td>Přijetí služby s místem plnění podle § 9 odst. 1 od osoby registrované k dani v jiném členském státě - základní sazba (Daň na výstupu)</td></tr><tr><td>6</td><td>Přijetí služby s místem plnění podle § 9 odst. 1 od osoby registrované k dani v jiném členském státě - snížená sazba (Základ daně)</td></tr><tr><td>6</td><td>Přijetí služby s místem plnění podle § 9 odst. 1 od osoby registrované k dani v jiném členském státě - snížená sazba (Daň na výstupu)</td></tr><tr><td>7</td><td>Dovoz zboží (§ 23) - základní sazba (Základ daně)</td></tr><tr><td>7</td><td>Dovoz zboží (§ 23) - základní sazba (Daň na výstupu)</td></tr><tr><td>8</td><td>Dovoz zboží (§ 23) - snížená sazba (Základ daně)</td></tr><tr><td>8</td><td>Dovoz zboží (§ 23) - snížená sazba (Daň na výstupu)</td></tr><tr><td>9</td><td>Pořízení nového dopravního prostředku (§ 19c odst. 1 a odst. 2) (Základ daně)</td></tr><tr><td>9</td><td>Pořízení nového dopravního prostředku (§ 19c odst. 1 a odst. 2) (Daň na výstupu)</td></tr><tr><td>10</td><td>Režim přenesení daňové povinnosti (§ 92a) – odběratel zboží nebo příjemce služeb - základní sazba (Základ daně)</td></tr><tr><td>10</td><td>Režim přenesení daňové povinnosti (§ 92a) – odběratel zboží nebo příjemce služeb - základní sazba (Daň na výstupu)</td></tr><tr><td>11</td><td>Režim přenesení daňové povinnosti (§ 92a) – odběratel zboží nebo příjemce služeb - snížená sazba (Základ daně)</td></tr><tr><td>11</td><td>Režim přenesení daňové povinnosti (§ 92a) – odběratel zboží nebo příjemce služeb - snížená sazba (Daň na výstupu)</td></tr><tr><td>12</td><td>Ostatní zdanitelná plnění, u kterých je povinnost přiznat daň při jejich přijetí (§ 108) - základní sazba (Základ daně)</td></tr><tr><td>12</td><td>Ostatní zdanitelná plnění, u kterých je povinnost přiznat daň při jejich přijetí (§ 108) - základní sazba (Daň na výstupu)</td></tr><tr><td>13</td><td>Ostatní zdanitelná plnění, u kterých je povinnost přiznat daň při jejich přijetí (§ 108) - snížená sazba (Základ daně)</td></tr><tr><td>13</td><td>Ostatní zdanitelná plnění, u kterých je povinnost přiznat daň při jejich přijetí (§ 108) - snížená sazba (Daň na výstupu)</td></tr><tr><td>14</td><td>Oprava základu daně osobou povinnou k dani (Základ daně)</td></tr><tr><td>14</td><td>Oprava základu daně osobou povinnou k dani (Daň na výstupu)</td></tr><tr><td colspan="2"><b>II. Ostatní plnění a plnění s místem plnění mimo tuzemsko s nárokem na odpočet daně</b></td></tr><tr><td>20</td><td>Dodání zboží do jiného členského státu (§ 64) - hodnota</td></tr><tr><td>21</td><td>Poskytnutí služeb s místem plnění v jiném členském státě vymezených v § 102 odst. 1 písm. d) a odst. 3 písm. a) - hodnota</td></tr><tr><td>22</td><td>Vývoz zboží (§ 66) - hodnota</td></tr><tr><td>23</td><td>Dodání nového dopravního prostředku do jiného členského státu (§ 19a, § 19b odst. 3) - hodnota</td></tr><tr><td>24</td><td>Vybraná plnění (§ 110b odst. 2) - hodnota</td></tr><tr><td>25</td><td>Režim přenesení daňové povinnosti (§ 92a) – dodavatel zboží nebo poskytovatel služeb - hodnota</td></tr><tr><td>26</td><td>Ostatní uskutečněná plnění s nárokem na odpočet daně (např. § 24a, § 67, § 68, § 69, § 70, § 71h, § 71i, § 89, § 90, § 92) - hodnota</td></tr><tr><td colspan="2"><b>III. Doplňující údaje</b></td></tr><tr><td>30</td><td>Prostřední osoba při třístranném obchodu podle § 17 - Pořízení zboží</td></tr><tr><td>31</td><td>Prostřední osoba při třístranném obchodu podle § 17 - Dodání zboží</td></tr><tr><td>32</td><td>Dovoz zboží osvobozený podle § 71g</td></tr><tr><td>33</td><td>Oprava daně a oprava odpočtu daně v případě nedobytné pohledávky nebo pohledávky po splatnosti (§ 46 a násl., resp. § 74b) - Věřitel</td></tr><tr><td>34</td><td>Oprava daně a oprava odpočtu daně v případě nedobytné pohledávky nebo pohledávky po splatnosti (§ 46 a násl., resp. § 74b) - Dlužník</td></tr><tr><td colspan="2"><b>IV. Nárok na odpočet daně</b></td></tr><tr><td>40</td><td>Z přijatých zdanitelných plnění od plátců - základní sazba (Základ daně)</td></tr><tr><td>40</td><td>Z přijatých zdanitelných plnění od plátců - základní sazba (V plné výši)</td></tr><tr><td>40</td><td>Z přijatých zdanitelných plnění od plátců - základní sazba (Krácený odpočet)</td></tr><tr><td>41</td><td>Z přijatých zdanitelných plnění od plátců - snížená sazba (Základ daně)</td></tr><tr><td>41</td><td>Z přijatých zdanitelných plnění od plátců - snížená sazba (V plné výši)</td></tr><tr><td>41</td><td>Z přijatých zdanitelných plnění od plátců - snížená sazba (Krácený odpočet)</td></tr><tr><td>42</td><td>Při dovozu zboží, kdy je správcem daně celní úřad (Základ daně)</td></tr><tr><td>42</td><td>Při dovozu zboží, kdy je správcem daně celní úřad (V plné výši)</td></tr><tr><td>42</td><td>Při dovozu zboží, kdy je správcem daně celní úřad (Krácený odpočet)</td></tr><tr><td>43</td><td>Ze zdanitelných plnění vykázaných na řádcích 3 až 13 - základní sazba (Základ daně)</td></tr><tr><td>43</td><td>Ze zdanitelných plnění vykázaných na řádcích 3 až 13 - základní sazba (V plné výši)</td></tr><tr><td>43</td><td>Ze zdanitelných plnění vykázaných na řádcích 3 až 13 - základní sazba (Krácený odpočet)</td></tr><tr><td>44</td><td>Ze zdanitelných plnění vykázaných na řádcích 3 až 13 - snížená sazba (Základ daně)</td></tr><tr><td>44</td><td>Ze zdanitelných plnění vykázaných na řádcích 3 až 13 - snížená sazba (V plné výši)</td></tr><tr><td>44</td><td>Ze zdanitelných plnění vykázaných na řádcích 3 až 13 - snížená sazba (Krácený odpočet)</td></tr><tr><td>45</td><td>Korekce odpočtů daně podle § 75, § 77, § 77a, § 79 až § 79e (V plné výši)</td></tr><tr><td>45</td><td>Korekce odpočtů daně podle § 75, § 77, § 77a, § 79 až § 79e (Krácený odpočet)</td></tr><tr><td>46</td><td>Odpočet daně celkem (40 + 41 + 42 + 43 + 44 + 45) (V plné výši)</td></tr><tr><td>46</td><td>Odpočet daně celkem (40 + 41 + 42 + 43 + 44 + 45) (Krácený odpočet)</td></tr><tr><td>47</td><td>Hodnota pořízeného majetku vymezeného v § 4 odst. 4 písm. c (Základ daně)</td></tr><tr><td>47</td><td>Hodnota pořízeného majetku vymezeného v § 4 odst. 4 písm. c (V plné výši)</td></tr><tr><td>47</td><td>Hodnota pořízeného majetku vymezeného v § 4 odst. 4 písm. c (Krácený odpočet)</td></tr><tr><td>48</td><td>Korekce odpočtů daně podle § 74a (Základ daně)</td></tr><tr><td>48</td><td>Korekce odpočtů daně podle § 74a (V plné výši)</td></tr><tr><td>48</td><td>Korekce odpočtů daně podle § 74a (Krácený odpočet)</td></tr><tr><td colspan="2"><b>V. Krácení nároku na odpočet daně</b></td></tr><tr><td>50</td><td>Plnění osvobozená od daně bez nároku na odpočet daně</td></tr><tr><td>51</td><td>Hodnota plnění nezapočítávaných do výpočtu koeficientu (§ 76 odst. 4) - S nárokem na odpočet</td></tr><tr><td>51</td><td>Hodnota plnění nezapočítávaných do výpočtu koeficientu (§ 76 odst. 4) - Bez nároku na odpočet</td></tr><tr><td>52</td><td>Část odpočtu daně v krácené výši - Koeficient (%)</td></tr><tr><td>52</td><td>Část odpočtu daně v krácené výši - Odpočet</td></tr><tr><td>53</td><td>Vypořádání odpočtu daně (§ 76 odst. 7 až 10) - Vypořádací koeficient (%)</td></tr><tr><td>53</td><td>Vypořádání odpočtu daně (§ 76 odst. 7 až 10) - Změna odpočtu</td></tr><tr><td colspan="2"><b>VI. Výpočet daně</b></td></tr><tr><td>60</td><td>Úprava odpočtu daně (§ 78 a násl.)</td></tr><tr><td>61</td><td>Vrácení daně (§ 84)</td></tr><tr><td>62</td><td>Daň na výstupu (součet 1 až 13 – 61 + daň podle § 108 jinde neuvedená)</td></tr><tr><td>63</td><td>Odpočet daně (46 V plné výši + 52 Odpočet + 53 Změna odpočtu + 60)</td></tr><tr><td>64</td><td>Vlastní daň (62 – 63)</td></tr><tr><td>65</td><td>Nadměrný odpočet (63 – 62)</td></tr><tr><td>66</td><td>Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání (62 – 63)</td></tr></tbody></table>
+
+#### POKYNY k vyplnění přiznání k dani z přidané hodnoty
+
+25 5412 MFin 5412
+
+Pokud jsou v pokynech uvedeny odkazy na jednotlivá ustanovení (§) zákona, jedná se o zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, pokud není uvedeno jinak.
+
+Daňové přiznání k dani z přidané hodnoty (dále jen „přiznání“) je univerzálním tiskopisem, který podává plátce (§ 6 až § 6f), skupina (§ 5a), identifikovaná osoba (§ 6g až § 6l ) a neplátce (osoba, která není žádnou z uvedených osob).
+
+Každá z výše uvedených osob při vyplňování přiznání postupuje podle obecné a příslušné části pokynů k vyplnění přiznání.
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu pro / Specializovanému finančnímu úřadu** - doplní se zbývající část oficiálního názvu místně příslušného finančního úřadu (např. - hlavní město Prahu, - Jihočeský kraj, apod.). Bude-li subjekt vybraným subjektem podle § 11 odst. 2 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů (dále jen „zákon o Finanční správě České republiky"), doplní Specializovanému finančnímu úřadu. V poli „Územní pracoviště v, ve, pro“ bude uvedeno sídlo územního pracoviště, na němž je nebo bude umístěn spis daňového subjektu (§ 13 zákona o Finanční správě České republiky).
+
+#### Obecná část
+
+Údaje o podepisující osobě budou vyplňovány pouze v případech, kdy je podání zpracováváno a podáváno osobou odlišnou od daňového subjektu, tzn. v případech, kdy daňový subjekt činí podání sám za sebe, tuto část nevyplňujte. Pokyn k vyplňování údajů o podepisující osobě je zveřejněn na webových stránkách Finanční správy v nabídce Daňové tiskopisy na adrese http://www.financnisprava.cz.
+
+**Otisk razítka (uvádí se pouze v listinné podobě tohoto formuláře):** lze připojit otisk razítka.
+
+**Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu (uvádí se pouze v listinné podobě tohoto formuláře):** podání bude opatřeno vlastnoručním podpisem buď přímo daňovým subjektem – fyzickou osobou činící podání sama za sebe, nebo fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu. V případě podání v elektronické podobě se vlastnoruční podpis nahradí příslušným způsobem autorizace podání (např. identitou občana, uznávaným elektronickým podpisem apod.).
+
+Osoba, která podává přiznání, vyplňuje kolonky a řádky přiznání podbarvené bíle. Není-li v řádku uveden číselný údaj, pak je posouzen, jako kdyby se plnění neuskutečnilo. Ve vysvětlivkách se pro označení řádku používá zkratka „ř.“.
+
+Je-li před číslem řádku uveden text „základní“, jde o řádek, na kterém se uvádějí zdanitelná plnění se základní sazbou daně. Je-li zde uveden text „snížená“, jde o řádek, na kterém se uvádějí zdanitelná plnění se sníženou sazbou daně.
+
+Pokud se pokyn k řádku přiznání skládá z více než jedné odrážky (s popisem údaje, který se v řádku uvádí), uvede se v řádku součet hodnot údajů dle jednotlivých odrážek.
+
+#### Strana 1
+
+**Plátce** (§ 6 až § 6f) vyplní v příslušných kolonkách místně příslušného správce daně, daňové identifikační číslo (kód země CZ a kmenová část), křížkem vyznačí typ podávaného přiznání (řádné nebo dodatečné, zároveň případně opravné – § 138 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“)). V případě dodatečného přiznání uvede v příslušné kolonce den zjištění důvodů pro podání tohoto přiznání (§ 141 odst. 1 daňového řádu). Pokud má povinnost podat přílohy k přiznání, vyznačí jejich počet a celkový počet listů (§ 141 odst. 5 daňového řádu, § 19a, § 19c, § 46f odst. 2 a odst. 3, § 79e odst. 5, § 109ba odst. 7). Uvede zdaňovací období včetně kalendářního roku. Pokud je přiznání podáváno pouze za část zdaňovacího období, tj. např. v případě insolvenčního řízení (§ 244 daňového řádu), uvede za období od – do.
+
+Křížkem v kolonce „Plátce § 6 až § 6f“ potvrzuje, že přiznání podává plátce.
+
+Neexistují-li údaje pro C oddíl na straně 2 přiznání, plátce proškrtne (X).
+
+Kolonku „Kód zdaňovacího období následujícího roku“ vyplní plátce pouze v řádném přiznání za poslední zdaňovací období kalendářního roku následovně:
+
+Q uvede plátce, jehož zdaňovacím obdobím je kalendářní měsíc a který se rozhodl, že jeho zdaňovacím obdobím pro příslušný kalendářní rok bude kalendářní čtvrtletí (§ 99a odst. 1)
+
+M uvede plátce, jehož zdaňovacím obdobím je kalendářní čtvrtletí a který se rozhodl, že jeho zdaňovacím obdobím pro příslušný kalendářní rok bude kalendářní měsíc nebo již nesplňuje podmínky pro čtvrtletní zdaňovací období dle § 99a odst. 1.
+
+Plátci, jejichž zdaňovací období se v následujícím kalendářním roce nemění, kód zdaňovacího období nevyplňují.
+
+Uvedení kódu v přiznání za poslední zdaňovací období kalendářního roku nahrazuje oznámení o změně zdaňovacího období. Pokud není daňové přiznání podáno do 31. ledna příslušného kalendářního roku, plátce změnu zdaňovacího období oznámí správci daně jiným způsobem.
+
+Dále plátce vyplní údaje vztahující se k jeho identifikaci. Údaje „Titul“, „telefon“ a „e-mail“ jsou údaje nepovinné.
+
+V kolonce „Hlavní ekonomická činnost“ uvede převažující ekonomickou činnost podle uskutečněných plnění za příslušné zdaňovací období.
+
+V závěru první strany přiznání oprávněná osoba potvrdí správnost, úplnost a pravdivost údajů uvedených v oddílech A, B a C daňového přiznání, za které nese plnou právní odpovědnost. Osoba, která je oprávněná k podpisu za daňový subjekt, uvede jméno a příjmení a vztah k daňovému subjektu, není-li sama tímto daňovým subjektem.
+
+**Skupina** (§ 5a) postupuje při vyplňování přiznání obdobně jako plátce. Křížkem v kolonce „Skupina“ potvrzuje, že přiznání podává skupina.
+
+Daňové přiznání za skupinu podává zastupující člen skupiny. V kolonce „Daňové identifikační číslo“ uvede DIČ skupiny a dále údaje vztahující se k identifikaci zastupujícího člena skupiny.
+
+Podává-li zastupující člen skupiny za člena skupiny přiznání za zdaňovací období předcházející vzniku skupiny nebo přistoupení tohoto člena do skupiny, uvede v přiznání DIČ a identifikační údaje o členovi skupiny (za kterého přiznání podává). Osoba oprávněná k podpisu za zastupujícího člena skupiny je v tomto případě osobou oprávněnou k podpisu za daňový subjekt a takto vyplní část, kde potvrzuje správnost, úplnost a pravdivost údajů uvedených v celém přiznání.
+
+**Identifikovaná osoba** (§ 6g až § 6l) postupuje při vyplňování přiznání přiměřeně jako plátce. Křížkem v kolonce „Identifikovaná osoba“ potvrzuje, že přiznání podává identifikovaná osoba. Nevyplňuje kolonku „Kód zdaňovacího období následujícího roku“ aj.
+
+**Kolonku** „Rodné číslo / IČ“ **plátce, skupina a identifikovaná osoba nevyplňuje**.
+
+Osoba, která není plátcem, skupinou ani identifikovanou osobou (dále jen „neplátce“), vyplní kolonku „Rodné číslo / IČ“ (fyzická osoba uvede rodné číslo, právnická osoba uvede identifikační číslo), křížkem vyznačí kolonku „Neplátce § 19b nebo § 19c nebo § 108“. Nevyplňuje kolonku určenou k vyplnění DIČ, Kódu zdaňovacího období následujícího roku, Hlavní ekonomické činnosti aj. Identifikační údaje a ostatní kolonky vyplní přiměřeně jako plátce.
+
+#### Strana 2
+
+#### Pokyny pro plátce a skupinu
+
+**Tmavě zelenou barvou podbarvené řádky přiznání**
+
+**V tiskopisu přiznání jsou vizuálně zvýrazněny řádky** (řádky 1 a 2 pro povinnost přiznat daň, řádky 40, 41, 46 a 47 pro nárok na odpočet daně a řádky 62 až 65 pro výpočet daňové povinnosti) **vyplňované běžnými plátci, za účelem zjednodušení orientace v přiznání. Toto zjednodušení je určeno zejména pro plátce, kteří neuskutečňují osvobozená plnění bez nároku na odpočet daně (§ 51), ale uskutečňují pouze zdanitelná plnění s místem plnění v tuzemsku, a kterým zboží dodávají a služby poskytují tuzemské osoby**.
+
+**Řádné daňové přiznání:**
+
+Následující řádky přiznání vyplní plátce podle evidence pro účely DPH (§ 100 a § 100a) vztahující se k příslušnému zdaňovacímu období.
+
+I. **Zdanitelná plnění**
+
+*ř. 1 a 2 Dodání zboží nebo poskytnutí služby s místem plnění v tuzemsku*
+
+– uvede se údaj o základu daně a dani na výstupu dle sazby daně z uskutečněných zdanitelných plnění s místem plnění v tuzemsku podle § 13 (dodání zboží), § 14 (poskytnutí služby). Dále se uvede zdanitelné plnění podle § 4 odst. 9 (prodej zboží na dálku), § 4 odst. 10 (prodej dovezeného zboží na dálku) a § 13a (dodání zboží usnadněné provozovatelem el. rozhraní), pokud u těchto plnění je místo plnění v tuzemsku a není přiznána daň ve zvláštním režimu jednoho správního místa dle § 110a a násl.
+
+– uvádí se také přijatá úplata, která předchází uskutečnění zdanitelného plnění, vznikla-li jejím přijetím povinnost přiznat nebo zaplatit daň.
+
+– neuvádí se plnění s místem plnění v tuzemsku, u kterých je daň přiznána ve zvláštním režimu jednoho správního místa dle § 110a a násl.
+
+– uvede se údaj o základu daně a dani na výstupu dle sazby daně z ostatních uskutečněných zdanitelných plnění s místem plnění v tuzemsku, pro která není v daňovém přiznání samostatná kolonka (například základ daně a daň z přirážky dle § 89, § 90 a další zdanitelná plnění).
+
+– věřitel uvede se záporným znaménkem opravu základu daně a výše daně v případě nedobytné pohledávky podle § 46 a násl. S kladným znaménkem v případě nutnosti zvýšení základu daně z důvodu dalších oprav. Oprava dle § 46fa se uvede současně na ř. 14. V případě postupu dle § 46fa viz také pokyny k dodatečnému daňovému přiznání.
+
+– uvede se oprava základu daně a výše daně dle § 42, § 42a (oprava základu daně a výše daně podle § 42a se uvede rovněž na ř. 14) a § 43.
+
+*ř. 3 a 4 Pořízení zboží z jiného členského státu*
+
+– uvede se údaj o základu daně a dani na výstupu dle sazby daně z pořízení zboží z jiného členského státu dle § 16. Do tohoto řádku se uvede také údaj o základu daně a dani na výstupu při přemístění zboží z jiného členského státu dle § 16 odst. 4.
+
+– uvede se údaj o základu daně a dani na výstupu při koupi zboží od prostřední osoby kupujícím, který má povinnost přiznat daň podle § 108 odst. 4 písm. b).
+
+– uvede se údaj o základu daně a dani na výstupu z pořízení nového dopravního prostředku podle § 19 odst. 1 plátcem nebo identifikovanou osobou **od osoby podle § 16 odst. 2**.
+
+*ř. 5 a 6 Přijetí služby s místem plnění podle § 9 odst. 1 od osoby registrované k dani v jiném členském státě*
+
+– uvede se údaj o základu daně a dani na výstupu dle sazby daně ze služby přijaté (a případně z poskytnuté úplaty (zálohy) – § 24) od osoby registrované k dani v jiném členském státě s místem plnění v tuzemsku podle § 9 odst. 1, vznikla-li jejím přijetím povinnost přiznat a zaplatit daň podle § 108 odst. 3 písm. a).
+
+*ř. 7 a 8 Dovoz zboží (§ 23)*
+
+– uvede se údaj o základu daně a dani na výstupu dle sazby daně z dováženého zboží (§ 23).
+
+*ř. 9 Pořízení nového dopravního prostředku*
+
+– uvede se údaj o základu daně a dani na výstupu z pořízení nového dopravního prostředku podle § 19c plátcem nebo identifikovanou osobou od jiné osoby než osoby podle § 16 odst. 2. Zároveň se podá Hlášení o pořízení nového dopravního prostředku spolu s kopií daňového dokladu nebo dokladu o prodeji nového dopravního prostředku.
+
+*ř. 10 a 11 Režim přenesení daňové povinnosti (§ 92a) – odběratel zboží nebo příjemce služeb*
+
+– plátce, který je v tomto režimu příjemcem zdanitelného plnění, uvede údaj o základu daně a dani na výstupu.
+
+*ř. 12 a 13 Ostatní zdanitelná plnění, u kterých je povinnost přiznat daň při jejich přijetí*
+
+– uvede se údaj o základu daně a dani na výstupu z ostatních plnění poskytnutých **osobou neusazenou v tuzemsku** s místem plnění v tuzemsku, vznikla-li jejich přijetím, nebo poskytnutím úplaty (zálohy), povinnost přiznat nebo zaplatit daň podle § 108. Například:
+
+• služba podle § 10 až 10d,
+
+• zboží s montáží nebo instalací podle § 7 odst. 6,
+
+• plyn, elektřina, teplo nebo chlad podle § 7a odst. 1 nebo 3,
+
+• zboží od osoby neusazené v tuzemsku podle § 24, resp. § 108 odst. 3 písm. b),
+
+*ř. 14 Oprava základu daně osobou povinnou k dani, která přestala být plátcem nebo identifikovanou osobou*
+
+– uvede se údaj o základu daně a souhrnné výši daně bez rozdílu sazby daně v případě opravy podle § 42a a údaj o základu daně a souhrnné výši daně bez rozdílu sazby daně v případě opravy provedené věřitelem podle § 46fa.
+
+II. **Ostatní plnění a plnění s místem plnění mimo tuzemsko s nárokem na odpočet daně**
+
+*ř. 20 Dodání zboží do jiného členského státu*
+
+– uvede se údaj o hodnotě plnění při dodání zboží do jiného členského státu dle § 64 (dodání zboží do jiného členského státu osobě registrované k dani a přemístění obchodního majetku dle § 64 odst. 3).
+
+– prodávající dle § 17 odst. 2 uvede údaj o hodnotě plnění při dodání zboží z tuzemska do jiného členského státu při třístranném obchodu dle § 17.
+
+– uvede se údaj o hodnotě plnění při dodání nového dopravního prostředku dle § 64 odst. 1 do jiného členského státu, osobě **registrované** k dani v tomto členském státě (dodání nového dopravního prostředku do jiného členského státu osobě, která plátci nesdělila své daňové identifikační číslo pro účely daně z přidané hodnoty se v tomto řádku neuvede, ale uvede se v řádku 23).
+
+Hodnota plnění z řádku 20 se uvede v souhrnném hlášení s kódy 0 a 1.
+
+*ř. 21 Poskytnutí služeb s místem plnění v jiném členském státě vymezených v § 102 odst. 1 písm. d) a odst. 3 písm. a)*
+
+– uvede se údaj o hodnotě plnění při poskytnutí služeb s místem plnění v jiném členském státě podle § 9 odst. 1, s výjimkou poskytnutí služby, které je v jiném členském státě osvobozeno od daně, osobě registrované k dani v jiném členském státě, pokud je povinen přiznat a zaplatit daň příjemce služby, nebo údaj o hodnotě úplaty přijaté před uskutečněním této služby, byla-li tato služba ke dni přijetí úplaty známa dostatečně určitě. Hodnota plnění z řádku 21 se uvede v souhrnném hlášení s kódem 3. Pokud jde o identifikovanou osobu, které nevznikne podle § 101 odst. 5 povinnost podat přiznání, má přesto povinnost podat souhrnné hlášení.
+
+*ř. 22 Vývoz zboží*
+
+– uvede se údaj o hodnotě plnění pří vývozu dle § 66.
+
+*ř. 23 Dodání nového dopravního prostředku do jiného členského státu*
+
+– plátce uvede údaj o hodnotě plnění při dodání nového dopravního prostředku do jiného členského státu podle § 19a osobě, která mu nesdělila své daňové identifikační číslo pro účely daně z přidané hodnoty. Plátce je povinen přiložit k daňovému přiznání hlášení o dodání nového dopravního prostředku do jiného členského státu a kopii daňového dokladu. Identifikovaná osoba uvede údaj o hodnotě plnění při dodání nového dopravního prostředku do jiného členského státu podle § 19b odst. 3. Daňové přiznání, ke kterému přiloží hlášení o dodání nového dopravního prostředku, je identifikovaná osoba povinna podat do 10 dnů ode dne dodání nového dopravního prostředku. Údaj o hodnotě plnění se neuvede do souhrnného hlášení.
+
+*ř. 24 Vybraná plnění (§ 110b odst. 2)*
+
+– uvede se hodnota následujících uskutečněných vybraných plnění s nárokem na odpočet daně, na která je použit zvláštní režim jednoho správního místa, nebo na která by tento režim mohl být použit, pokud by osoba uskutečňující vybraná plnění byla v tomto režimu registrována, s výjimkou zdanitelných vybraných plnění uvedených na ř. 1 a 2:
+
+– poskytnutí služby osobě nepovinné k dani s místem plnění v členském státě odlišném od členského státu, ve kterém má osoba uskutečňující vybraná plnění sídlo nebo provozovnu;
+
+– prodej zboží na dálku s místem plnění podle § 8 odst. 1;
+
+– dodání zboží provozovatelem elektronického rozhraní podle § 13a odst. 2 písm. b);
+
+– prodej dovezeného zboží na dálku s místem plnění podle § 8a.
+
+*ř. 25 Režim přenesení daňové povinnosti (§ 92a) – dodavatel zboží nebo poskytovatel služeb*
+
+– plátce, který v tomto režimu uskutečnil zdanitelné plnění, uvede údaj o jeho hodnotě.
+
+*ř. 26 Ostatní uskutečněná plnění s nárokem na odpočet daně*
+
+– uvede se údaj o hodnotě veškerých ostatních plnění s nárokem na odpočet daně, která se neuvádí v předchozích řádcích přiznání, ani v řádku 31. Případně se uvede přijetí úplaty, která předchází uskutečnění plnění. Například:
+
+• Poskytnutí služby s místem plnění mimo tuzemsko (§ 24a), mimo plnění vykazovaných na ř. 21 a ř. 24.
+
+• Dodání zboží s instalací nebo montáží, dodání plynu, elektřiny, tepla nebo chladu soustavami nebo sítěmi s místem plnění mimo tuzemsko.
+
+• Uskutečnění plnění osvobozeného dle § 67, § 68, § 69, § 70, § 71h, § 71i.
+
+• Částka za uskutečněná plnění podle zvláštního režimu pro cestovní službu (§ 89) nebo pro obchodníky s použitým zbožím, uměleckými díly, sběratelskými předměty a starožitnostmi (§ 90), snížená o přirážku.
+
+• Zvláštní režim pro investiční zlato dle § 92 odst. 7 a 8.
+
+• Dodání zboží s místem plnění mimo tuzemsko (§ 24a) a další.
+
+III. **Doplňující údaje**
+
+*ř. 30 a 31 Prostřední osoba při třístranném obchodu podle § 17*
+
+– uvede se hodnota pořízeného zboží z jiného členského státu, resp. hodnota dodaného zboží do jiného členského státu prostřední osobou při třístranném obchodu dle § 17. Hodnota plnění z řádku 31 se uvede v souhrnném hlášení s kódem 2. Pokud jde o identifikovanou osobu, které nevznikne podle § 101 odst. 5 povinnost podat přiznání, má přesto povinnost podat souhrnné hlášení.
+
+*ř. 32 Dovoz zboží osvobozený podle § 71g*
+
+– uvede se hodnota dovezeného zboží, které je přepraveno ze třetí země, a ukončení odeslání nebo přepravy tohoto zboží je v jiném členském státě a dodání tohoto zboží do jiného členského státu je osvobozeno od daně.
+
+*ř. 33 a 34 Oprava daně a oprava odpočtu daně v případě nedobytné pohledávky nebo pohledávky po splatnosti (§ 46 a násl., resp. § 74b)*
+
+– věřitel uvede kladnou hodnotu opravy daně v případě nedobytné pohledávky podle § 46 a násl., zápornou hodnotu v případě nutnosti zvýšení základu daně z důvodu dalších oprav. Dlužník, který uplatnil odpočet daně z původního zdanitelného plnění, uvede kladnou hodnotu opravy odpočtu daně v případě nedobytné pohledávky podle § 74b odst. 1 a odst. 3, zápornou hodnotu v případě postupu podle § 74b odst. 2 a odst. 4.
+
+IV. **Nárok na odpočet daně**
+
+Do sloupce Základ daně se uvádí součet základů daně s nárokem na odpočet v plné a částečné výši (§ 72 odst. 8 a 9) z přijatých zdanitelných plnění s místem plnění v tuzemsku. Použije-li plátce přijaté zdanitelné plnění jak pro účely svých uskutečněných plnění, tak pro jiné účely, uvede v části IV. odpočet daně pouze v poměrné výši odpovídající rozsahu použití pro účely svých uskutečněných plnění (§ 75).
+
+Plnění, u kterých nemá plátce nárok na odpočet daně, se v přiznání nevykazují.
+
+V řádcích 40 až 47 se uvede ve sloupci „V plné výši“ daň na vstupu s plným nárokem na odpočet daně, **popř. nárok na odpočet daně v poměrné výši dle**§ 75, a ve sloupci „Krácený odpočet“ daň na vstupu s povinností krátit nárok na odpočet daně způsobem uvedeným v § 76.
+
+*ř. 40 a 41 Z přijatých zdanitelných plnění od plátců*
+
+– uvede se údaj o základu daně a dani na vstupu, která je obsažena v částce za přijatá zdanitelná plnění nebo v úplatě poskytnuté před uskutečněním zdanitelného plnění, vznikla-li jejím přijetím povinnost přiznat a zaplatit daň. V případě pořízení vybraného osobního automobilu podle § 72 odst. 3 a 4 se uvede základ daně v plné výši, i když daň na vstupu je omezena částkou 420 000 Kč.
+
+– uvede se oprava odpočtu daně dle § 74 a § 74a (oprava dle § 74a se uvede rovněž na ř. 48).
+
+– dlužník uvede se záporným znaménkem opravu odpočtu daně (základu daně a daně) v případě nedobytné pohledávky podle § 74b odst. 1 a odst. 3. S kladným znaménkem v případě postupu podle § 74b odst. 2 a odst. 4.
+
+*ř. 42 Při dovozu zboží, kdy je správcem daně celní úřad*
+
+– uvede se údaj o základu daně a dani na vstupu při dovozu zboží v případech, kdy je správcem daně při dovozu zboží celní úřad.
+
+*ř. 43 a 44 Ze zdanitelných plnění vykázaných na řádcích 3 až 13*
+
+– uvede se údaj o základu daně a dani na vstupu z přijatých zdanitelných plnění, u kterých má povinnost přiznat daň příjemce těchto zdanitelných plnění, a která se uvádí v řádcích 3 až 13 přiznání. V případě pořízení vybraného osobního automobilu podle § 72 odst. 3 a 4 se uvede základ daně v plné výši, i když daň na vstupu je omezena částkou 420 000 Kč.
+
+*ř. 45 Korekce odpočtů daně podle § 75, § 77, § 77a, § 79 až § 79e*
+
+– v daňovém přiznání za poslední zdaňovací období kalendářního roku se uvede korekce poměrného uplatnění odpočtu daně podle § 75. Plátce má nárok na odpočet daně pouze v poměrné výši odpovídající rozsahu použití pro účely svých uskutečněných plnění.
+
+– uvede se částka vyrovnání odpočtu daně podle § 77, a to za zdaňovací období, ve kterém byl obchodní majetek použit a ve kterém nastaly skutečnosti zakládající povinnost nebo možnost provést toto vyrovnání.
+
+– uvede se částka snížení odpočtu daně u vybraného osobního automobilu podle § 77a, a to za zdaňovací období, ve kterém se tento automobil stal dlouhodobým majetkem.
+
+– uvede se údaj o odpočtu daně při registraci a zrušení registrace dle § 79 až § 79c a § 79e. V případě uplatnění nároku na odpočet daně při registraci se tento údaj uvede s kladným znaménkem v přiznání za zdaňovací období, do něhož spadá den, kdy se osoba povinná k dani stala plátcem. V případě snížení odpočtu daně při zrušení registrace se uvede tento údaj se záporným znaménkem v přiznání za poslední zdaňovací období registrace.
+
+– uvede se údaj o odpočtu daně v případě jmění převáděného nebo přecházejícího při přeměně právnické osoby nabytého od osoby povinné k dani, která nebyla plátcem, dle § 79 odst. 5, a to za zdaňovací období, do něhož spadá den zápisu této přeměny do veřejného rejstříku.
+
+– v případě postupu podle § 79d nebo § 79e viz také pokyny k dodatečnému daňovému přiznání.
+
+– osoba povinná k dani, která přestala být plátcem a provedla opravu odpočtu daně podle § 74a, uvede v dodatečném daňovém přiznání za poslední zdaňovací období registrace částku opravy snížení uplatněného odpočtu daně, které měla povinnost provést při zrušení její registrace plátce.
+
+*ř. 46 Odpočet daně celkem*
+
+– je součtovým řádkem, ve kterém se uvede součet řádků 40 až 45 ve sloupci „V plné výši“ a řádků 40 až 45 ve sloupci „Krácený odpočet“.
+
+*ř. 47 Hodnota pořízeného majetku vymezeného v § 4 odst. 4 písm. c)*
+
+– uvede se údaj o základu daně a dani na vstupu u majetku pořízeného nebo vytvořeného vlastní činností, vymezeného v § 4 odst. 4 písm. c), a to najednou v daňovém přiznání za zdaňovací období, kdy byl převeden do užívání, nebo za první zdaňovací období registrace. Neuvádějí se zde zálohy nebo přijatá dílčí plnění při pořizování majetku vlastní činností. Pokud je nárok na odpočet daně uplatněn v poměrné výši podle § 75, uvede se zde také v poměrné výši. V případě pořízení vybraného osobního automobilu podle § 72 odst. 3 a 4 se uvede základ daně v plné výši, i když daň na vstupu je omezena částkou 420 000 Kč.
+
+*ř. 48 Korekce odpočtů daně podle**§ 74a*
+
+– v dodatečném daňovém přiznání za poslední zdaňovací období registrace se uvede oprava základu daně a odpočtu daně dle § 74a.
+
+V. **Krácení nároku na odpočet daně**
+
+*ř. 50 Plnění osvobozená od daně bez nároku na odpočet daně*
+
+– uvede se součet částek bez daně za veškerá uskutečněná plnění osvobozená od daně dle § 51 bez nároku na odpočet daně, včetně plnění osvobozených od daně bez nároku na odpočet daně s místem plnění mimo tuzemsko.
+
+– uvede se součet částek bez daně za veškerá ostatní uskutečněná plnění osvobozená od daně bez nároku na odpočet daně (např. zvláštní režim pro investiční zlato podle § 92 odst. 2 a 3).
+
+– uvede se součet částek bez daně za plnění uskutečněná v režimu pro malé podniky v jiných členských státech.
+
+– plátce, který byl bezprostředně předtím, než se stal plátcem, v režimu pro malé podniky, uvede v přiznání za zdaňovací období, do něhož spadá den, kdy se stal plátcem, hodnoty plnění podle § 76 odst. 1 písm. b), která uskutečnil v kalendářním roce, ve kterém byl registrován plátcem (§ 79 odst. 7).
+
+Povinnost přiznat uskutečnění těchto plnění vzniká ke dni jejich uskutečnění nebo ke dni přijetí úplaty, a to k tomu dni, který nastane dříve.
+
+*ř. 51 Hodnota plnění nezapočítávaných do výpočtu koeficientu*
+
+– ve sloupci „S nárokem na odpočet“ se uvede součet částek bez daně za uskutečněná plnění s nárokem na odpočet daně uvedená v ř. 1 a 2 (sloupec „Základ daně“) a ř. 20 až 26 (sloupec „Hodnota“), která se nezapočítávají do koeficientu podle § 76 odst. 4.
+
+– ve sloupci „Bez nároku na odpočet“ se uvede součet částek bez daně za uskutečněná plnění osvobozená od daně bez nároku na odpočet daně uvedená v ř. 50, která se nezapočítávají do výpočtu koeficientu dle § 76 odst. 4.
+
+– do výpočtu koeficientu podle § 76 odst. 4 se nezahrnují rovněž hodnoty plnění podle § 76 odst. 1 písm. b), která plátce, který byl bezprostředně předtím, než se stal plátcem, v režimu pro malé podniky, uskutečnil v kalendářním roce, ve kterém byl registrován plátcem, uvedené v ř. 50.
+
+*ř. 52 Část odpočtu daně v krácené výši*
+
+– ve sloupci „Koeficient (%)“ se uvede koeficient vypočtený z údajů za zdaňovací období předcházejícího kalendářního roku (**v procentním vyjádření**) při vypořádání odpočtu daně podle § 76 odst. 6. Pokud plnění pro výpočet koeficientu za předcházející kalendářní rok neexistují, stanoví výši tohoto koeficientu plátce kvalifikovaným odhadem.
+
+– ve sloupci „Odpočet“ se uvede vypočtená část nároku na odpočet daně v krácené výši podle § 76 odst. 1, která se vypočte jako součin ř. 46 – pravý sloupec „Krácený odpočet“ a koeficientu z řádku 52 – levý sloupec „Koeficient (%)“. Krácení odpočtu daně se provede ve zdaňovacích obdobích aktuálního kalendářního roku včetně posledního zdaňovacího období tohoto roku.
+
+*ř. 53 Vypořádání odpočtu daně (§ 76 odst. 7–10)*
+
+– ve sloupci „Vypořádací koeficient (%)“ se uvede hodnota vypořádacího koeficientu dle § 76 odst. 7.
+
+Vypořádací koeficient se vypočte dle § 76 odst. 3 jako **procentní** podíl, kdy čitatel = ř. 1 a 2 (levý sloupec „Základ daně“) – ř. 14 (levý sloupec „Základ daně") + ř. 20 až 26 (sloupec „Hodnota“) + ř. 31 – ř. 51 (sloupec „S nárokem na odpočet daně“) a jmenovatel = čitatel + ř. 50 – ř. 51 (sloupec „Bez nároku na odpočet“). Hodnoty jsou vypočteny z údajů za celé vypořádávané období.
+
+– ve sloupci „Změna odpočtu“ se uvede vypořádání odpočtu daně podle § 76 odst. 7 a 8. Vypořádání se vypočte jako rozdíl mezi celkovým nárokem na odpočet daně v krácené výši vypočteným z údajů za vypořádávané období a součtem uplatněných nároků na odpočet daně v krácené výši v jednotlivých zdaňovacích obdobích zahrnovaných do vypořádání z řádků 52 (pravý sloupec „Odpočet“). Nárok na odpočet daně za vypořádávané období se vypočte jako součin řádku 46 (pravý sloupec „Krácený odpočet“) z hodnot za celé vypořádávané období a vypořádacího koeficientu z řádku 53 (levý sloupec „Vypořádací koeficient“).
+
+V případě, že plátce uplatnil odpočet daně z úplaty (zálohy) poskytnuté v souvislosti s pořízením dlouhodobého majetku v jiném roce, než kdy došlo k pořízení tohoto majetku nebo ve kterém je plátce oprávněn uplatnit odpočet daně, pokud je oprávněn uplatnit odpočet daně nejdříve v kalendářním roce následujícím po kalendářním roce pořízení, zahrne do částky vypořádání rozdíl ve výši nároku na odpočet daně vyplývající z případného rozdílu mezi hodnotami vypořádacích koeficientů za příslušné roky. Obdobně postupuje i v případě uplatnění odpočtu daně u každého jednotlivého přijatého plnění, které se stalo součástí pořízeného dlouhodobého majetku (§ 76 odst. 10).
+
+Vypořádání odpočtu daně se uvede v přiznání za poslední zdaňovací období kalendářního roku, případně za poslední zdaňovací období před zrušením registrace k dani. Uvedená hodnota může být kladná či záporná.
+
+VI. **Výpočet daně**
+
+*ř. 60 Úprava odpočtu daně (§ 78 a násl.)*
+
+– uvede se součet vypočtených částek úprav odpočtu daně dle § 78 a násl. Úprava odpočtu daně se uvede v daňovém přiznání za poslední zdaňovací období kalendářního roku, s výjimkou jednorázových úprav podle § 78d, § 78da a § 78e, kdy se úprava odpočtu provede v příslušném zdaňovacím období. Uvedená částka může být kladná či záporná hodnota.
+
+*ř. 61 Vracení daně*
+
+– uvede se částka skutečně vrácené daně fyzickým osobám ze třetích zemí při vývozu zboží podle § 84.
+
+*ř. 62 Daň na výstupu*
+
+– je součtovým řádkem daně na výstupu konkrétně uvedených řádků přiznání a daně podle § 108 jinde neuvedené, (ř. 62 = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10+ 11 + 12 + 13 – 61+ daň podle § 108 odst. 4 písm. g) a h)
+
+*ř. 63 Odpočet daně*
+
+– je součtovým řádkem, ve kterém se uvádí uplatněný odpočet daně ve zdaňovacím období, popřípadě krácený odpočet daně podle § 76. (ř. 63 = 46 V plné výši + 52 Odpočet + 53 Změna odpočtu + 60)
+
+*ř. 64 Vlastní daň*
+
+– je rozdílovým řádkem daně na výstupu a odpočtu daně (ř. 62 – ř. 63) v případě, že daň na výstupu převyšuje odpočet daně.
+
+*ř. 65 Nadměrný odpočet*
+
+– je rozdílovým řádkem odpočtu daně a daně na výstupu (ř. 63 – ř. 62) v případě, že odpočet daně převyšuje daň na výstupu.
+
+*ř. 66 Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání (62 – 63)*
+
+– vyplňuje se pouze při podání dodatečného přiznání (kladná či záporná hodnota).
+
+**Dodatečné daňové přiznání:**
+
+Dodatečné přiznání se předkládá samostatně pouze za jedno zdaňovací období do konce měsíce následujícího po zjištění důvodu pro podání podle § 141 odst. 1 daňového řádu. Plátce je povinen předložit dodatečné přiznání, zjistí-li, že jeho daň má být vyšší.
+
+Plátce je oprávněn za podmínek stanovených v § 141 odst. 2 a 3 daňového řádu podat dodatečné přiznání na daň nižší, než je poslední známá daň, nebo podle § 141 odst. 4 daňového řádu dodatečné přiznání, kterým se nemění poslední známá daň, ale pouze údaje dříve tvrzené (v těchto dvou případech uvede v příloze důvody pro jeho podání podle § 141 odst. 5 daňového řádu).
+
+Dodatečné přiznání se podává na shodném tiskopise jako řádné přiznání, na jehož první straně se označí jako dodatečné a uvede se den, kdy byly zjištěny skutečnosti zakládající povinnost nebo možnost podat dodatečné přiznání.
+
+**V dodatečném přiznání se uvádí pouze rozdíly od údajů, ze kterých byla stanovena poslední známá daň příslušného zd. období.**
+
+Na **ř. 66** se vyznačí rozdíl oproti poslední známé dani. V případě kladné částky je plátce povinen ji uhradit v náhradní lhůtě splatnosti podle § 141 odst. 7 daňového řádu. V případě záporné částky může plátce podat žádost o vrácení případného přeplatku podle § 155 daňového řádu.
+
+V případě, že plátce je povinen **krátit nárok na odpočet** daně podle § 76, postupuje dále následovně:
+
+*ř. 52 Vypočtená část odpočtu daně v krácené výši*
+
+– do levého sloupce „Koeficient (%)“ se uvede příslušný koeficient.
+
+– v pravém sloupci „Odpočet“ se uvede vypočtená část odpočtu daně v krácené výši dle § 76 odst. 1, která se vypočte jako součin ř. 46
+
+– sloupec „Krácený odpočet“ a koeficientu (levý sloupec „Koeficient (%)“).
+
+• V případě opravy přijatých nebo uskutečněných plnění za zdaňovací období dosud nevypořádaného roku se provede krácení odpočtu daně koeficientem podle § 76 odst. 6 (uvede se do levého sloupce „Koeficient (%)“).
+
+• V případě opravy pouze přijatých zdanitelných plnění za zdaňovací období již vypořádaného roku se pro krácení odpočtu daně použije poslední vypočtený vypořádací koeficient (uvede se do levého sloupce „Koeficient (%)“).
+
+• V případě opravy uskutečněných plnění za některé ze zdaňovacích období již vypořádaného roku, výše nároku na odpočet daně v krácené výši se vypočte novým vypořádacím koeficientem vypočteným z údajů za celé vypořádávané období s prominutím všech oprav podle § 76 odst. 9 (uvede se do levého sloupce „Koeficient (%)“).
+
+*ř. 53 Vypořádání odpočtu daně*
+
+– uvede se promítnutí všech oprav podle § 76 odst. 9.
+
+**V případě postupu podle § 79d nebo § 79e** může osoba tam uvedená uplatnit odpočet daně podáním dodatečného daňového přiznání za zdaňovací období, v němž byla registrace zrušena (u **§ 79e** včetně povinné přílohy podle odst. 5), kde vyplní řádky 45, 46, 63 a 66. V příloze dále uvede podle § 141 odst. 5 daňového řádu důvody pro podání tohoto dodatečného daňového přiznání.
+
+**Osoba povinná k dani, která přestala být plátcem**, uvede opravu odpočtu daně dle § 74a odst. 1 v dodatečném daňovém přiznání za poslední zdaňovací období registrace (na ř. 40 a 41), a to do konce kalendářního měsíce následujícího po měsíci, ve kterém jsou splněny podmínky pro provedení opravy odpočtu daně. Současně je tato osoba povinna opravit snížení uplatněného odpočtu daně, které měla povinnost provést při zrušení její registrace plátce (na ř. 45).
+
+**Oprava základu daně osobou povinnou k dani, která přestala být plátcem nebo identifikovanou osobou** podle § 42a odst. 1 se uvede v dodatečném daňovém přiznání za poslední zdaňovací období registrace, a to do konce kalendářního měsíce následujícího po měsíci dle § 42a odst. 2. Oprava základu daně podle § 42a odst. 1 se nezahrne do výpočtu koeficientu podle § 76 odst. 2.
+
+**Oprava základu daně v případě nedobytné pohledávky, pokud věřitel přestal být plátcem** podle § 46fa se uvede v dodatečném daňovém přiznání za poslední zdaňovací období registrace, a to do konce kalendářního měsíce následujícího po měsíci, ve kterém se oprava, změna výše opravy nebo zrušení opravy považují za uskutečněné. Oprava základu daně podle § 46fa se nezahrne do výpočtu koeficientu podle § 76 odst. 2.
+
+**Opravné daňové přiznání:**
+
+Před uplynutím lhůty k podání daňového přiznání může daňový subjekt nahradit daňové přiznání, které již podal, opravným daňovým přiznáním (zaškrtne „řádné“ a zároveň „opravné“). V řízení se dále postupuje podle tohoto opravného daňového přiznání a k předchozímu daňovému přiznání se nepřihlíží. Takto lze nahradit i dodatečná daňová přiznání (zaškrtne „dodatečné“ a zároveň „opravné“) nebo již podaná opravná přiznání (§ 138 daňového řádu).
+
+#### Pokyny pro identifikovanou osobu
+
+Identifikovaná osoba (§ 6g až § 6l) je povinna podat přiznání do 25 dnů po skončení zdaňovacího období (kalendářní měsíc), ve kterém jí vznikla povinnost přiznat daň. V této lhůtě je též daň splatná. Při dodání nového dopravního prostředku do jiného členského státu podle § 19b odst. 3 je identifikovaná osoba povinna daňové přiznání, ke kterému přiloží hlášení o dodání nového dopravního prostředku, podat do 10 dnů ode dne dodání nového dopravního prostředku. Při vyplňování přiznání (řádného, popř. opravného nebo dodatečného) postupuje přiměřeně jako plátce. Pokud identifikovaná osoba poskytne službu s místem plnění v jiném členském státě, vymezenou v § 102 odst. 3 písm. a), nebo dodá zboží do jiného členského státu jako prostřední osoba při třístranném obchodu dle § 17, je povinna podat souhrnné hlášení, i když jí nevznikne podle § 101 odst. 5 povinnost podat přiznání.
+
+#### Pokyny pro neplátce (osobu, která není plátcem, skupinou ani identifikovanou osobou)
+
+Tento tiskopis použije neplátce jen v případě, vznikla-li mu povinnost přiznat a zaplatit daň nebo vznikl-li mu nárok na odpočet daně.
+
+1\. Neplátce, který pořídil v tuzemsku nový dopravní prostředek z jiného členského státu dle § 19c odst. 3, vyplní v C. oddílu v části VI. – Výpočet daňové povinnosti ř. 64. Daň se vypočte ze základu daně způsobem podle § 37 odst. 1.
+
+Vyplněné přiznání je povinen předložit příslušnému správci daně do 10 dnů ode dne pořízení nového dopravního prostředku a současně je povinen předložit kopii daňového dokladu nebo dokladu o prodeji nového dopravního prostředku a hlášení o pořízení nového dopravního prostředku; tuto lhůtu nelze prodloužit.
+
+Daň je povinen zaplatit místně příslušnému správci daně do 25 dnů ode dne, kdy daň byla správcem daně vyměřena.
+
+Před tímto dnem je podle § 19c odst. 4 oprávněn zaplatit zálohu ve výši daně z pořízení nového dopravního prostředku.
+
+2\. Neplátce, který dodal nový dopravní prostředek, který byl přemístěn do jiného členského státu dle § 19b odst. 1 a odst. 2, předloží přiznání s hlášením o dodání nového dopravního prostředku, ke kterému přiloží kopii daňového dokladu nebo dokladu o nákupu nového dopravního prostředku a dokladu o prodeji nového dopravního prostředku a vyplní v C. oddílu v části VI. – Výpočet daňové povinnosti ř. 65 jen v případě, uplatňuje-li nárok na odpočet daně zaplacené při nabytí nového dopravního prostředku ve sjednané ceně nebo při dovozu nebo při pořízení z jiného členského státu, a to maximálně do výše daně, kterou by byl povinen odvést plátce, pokud by dodání bylo zdanitelným plněním v tuzemsku.
+
+Vyplněné přiznání je povinen předložit správci daně do 10 dnů ode dne dodání nového dopravního prostředku do jiného členského státu; tuto lhůtu nelze prodloužit. Pokud nárok na odpočet daně neuplatní v tomto daňovém přiznání nebo na požádání správce daně neposkytne informace nutné ke správnému stanovení nároku na odpočet daně, nárok mu zaniká.
+
+3\. Neplátce, který vystavil doklad dle § 108 odst. 4 písm. g), vyplní v C. oddílu v části VI. – Výpočet daňové povinnosti ř. 62 a 64, kde uvede daňovou povinnost, která mu tímto vznikla. Přiznání je povinen podat do 25 dnů po skončení kalendářního měsíce, ve kterém vystavil doklad, na kterém uvedl daň. V této lhůtě je též daň splatná.
+
+4\. Neplátce – osoba registrovaná k dani v jiném členském státě, která pořídila zboží s místem plnění v tuzemsku od plátce, jestliže zboží do jiného členského státu nepřepravila nebo neodeslala dle § 108 odst. 4 písm. h), vyplní v C. oddílu v části VI. – Výpočet daňové povinnosti ř. 62 a 64, kde uvede daňovou povinnost, která mu tímto vznikla. Přiznání je povinen podat do 25 dnů po skončení kalendářního měsíce, ve kterém bylo plátcem deklarováno osvobozené dodání zboží do jiného členského státu. V této lhůtě je též daň splatná.
+
+Osoba, která pořizuje nový dopravní prostředek z jiného členského státu, který bude registrován v registru silničních vozidel, může před podáním daňového přiznání podat hlášení o pořízení nového dopravního prostředku a zaplatit zálohu ve výši daně z pořízení nového dopravního prostředku. Zaplacení zálohy správce daně na žádost pořizovatele potvrdí. Pro účely vydání potvrzení o zaplacení daně se záloha považuje za zaplacenou plátcem, pokud jsou splněny podmínky dle § 19c odst. 5.
+
+### Příloha č. 2
+
+<table><tbody><tr><td colspan="2"><b>Přiznání pro vrácení daně z přidané hodnoty podle § 80 a § 80a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td>25 5571 MFin 5571 <br> Řádek /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu v, ve, pro</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Číslo daňového subjektu</td></tr><tr><td></td><td>Daňové přiznání</td></tr><tr><td></td><td>Důvody pro podání dodatečného daňového přiznání zjištěny dne</td></tr><tr><td></td><td>Za období měsíc - čtvrtletí - rok</td></tr><tr><td colspan="2"><b>A. ODDÍL</b></td></tr><tr><td colspan="2"><b>Údaje o daňovém subjektu</b></td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td></td><td>Jméno a příjmení vedoucího</td></tr><tr><td></td><td>Vysílající stát</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>funkce pověřené osoby</td></tr><tr><td></td><td>vysílající stát</td></tr><tr><td></td><td>členem rodiny pracovníka mezinárodní organizace /zastoupení mezinárodní organizace</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>název právnické osoby, ke které je fyzická osoba příslušná</td></tr><tr><td></td><td>Sídlo právnické osoby / adresa místa pobytu fyzické osoby na území ČR</td></tr><tr><td></td><td>a) obec</td></tr><tr><td></td><td>b) PSČ</td></tr><tr><td></td><td>c) telefon</td></tr><tr><td></td><td>d) ulice (nebo část obce)</td></tr><tr><td></td><td>e) číslo popisné / orientační</td></tr><tr><td></td><td>f) e-mail</td></tr><tr><td></td><td>g) stát</td></tr><tr><td colspan="2"><b>Určení způsobu vrácení vratitelného přeplatku</b></td></tr><tr><td colspan="2"><b>Bezhotovostním převodem na účet vedený u poskytovatele platebních služeb</b></td></tr><tr><td></td><td>účet v ČR vedený v CZK:</td></tr><tr><td></td><td>číslo účtu / směrový (identifikační) kód</td></tr><tr><td></td><td>účet vedený v zahraničí nebo účet v cizí měně:</td></tr><tr><td></td><td>IBAN</td></tr><tr><td></td><td>typ ID banky</td></tr><tr><td></td><td>ID banky</td></tr><tr><td></td><td>měna, ve které je účet veden</td></tr><tr><td></td><td>název účtu</td></tr><tr><td></td><td>název banky</td></tr><tr><td></td><td>ulice banky</td></tr><tr><td></td><td>město banky</td></tr><tr><td></td><td>PSČ (ZIP-code) banky</td></tr><tr><td></td><td>stát</td></tr><tr><td colspan="2"><b>Poštovním poukazem</b></td></tr><tr><td></td><td>Na adresu</td></tr><tr><td colspan="2"><b>B. ODDÍL</b></td></tr><tr><td colspan="2"><b>Nárok na vrácení daně z přijatého zdanitelného plnění v tuzemsku na základě principu vzájemnosti</b></td></tr><tr><td></td><td>Daň, na kterou se aplikuje limit pro vrácení daně - CELKEM</td></tr><tr><td></td><td>Daň, na kterou se neaplikuje limit pro vrácení daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM</td></tr><tr><td></td><td>Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání</td></tr><tr><td colspan="2"><b>C. ODDÍL</b></td></tr><tr><td colspan="2"><b>Nárok na vrácení daně z přijatého zdanitelného plnění s místem plnění v tuzemsku na základě mezinárodní smlouvy, která je součástí českého právního řádu</b></td></tr><tr><td colspan="2"><b>Přijatá plnění, u kterých je uplatňován nárok na vrácení daně</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Datum uskutečnění zdanitelného plnění</td></tr><tr><td>sl. 4</td><td>DIČ dodavatele</td></tr><tr><td>sl. 5</td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 6</td><td>Předmět daně</td></tr><tr><td>sl. 7</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - nárok na vrácení daně - základní sazba daně</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - nárok na vrácení daně - snížená sazba daně</td></tr><tr><td></td><td>Nárok na vrácení daně - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM PŘÍLOHY</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM</td></tr><tr><td></td><td>Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání</td></tr><tr><td colspan="2"><b>D. ODDÍL</b></td></tr><tr><td colspan="2"><b>Hodnota plnění osvobozeného od daně podle § 71l zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td></td><td>Hodnota pořízení nového dopravního prostředku z jiného členského státu</td></tr><tr><td></td><td>Hodnota pořízení zboží, které je předmětem spotřební daně, z jiného členského státu</td></tr><tr><td colspan="2"><b>Přílohy daňového přiznání</b></td></tr><tr><td></td><td>Kopie daňového dokladu nebo dokladu o dodání zboží nebo poskytnutí služby</td></tr><tr><td></td><td>Kopie osvědčení o registraci vozidla (jde-li o vrácení daně při pořízení osobního automobilu)</td></tr><tr><td></td><td>Přehled nakoupeného zboží a přijatých služeb nezahrnovaných do ročního limitu pro vrácení daně (§ 80 odst. 5)</td></tr><tr><td></td><td>Přehled nakoupeného zboží a přijatých služeb zahrnovaných do ročního limitu pro vrácení daně (§ 80 odst. 3 písm. a) nebo písm. b))</td></tr><tr><td></td><td>C. ODDÍL - Přijatá plnění, u kterých je uplatňován nárok na vrácení daně</td></tr><tr><td></td><td>Potvrzení o splnění principu vzájemnosti uznané Českou republikou v případě nákupu, výstavby nebo změny nemovité věci (§ 80 odst. 5 písm. k))</td></tr><tr><td></td><td>Seznam členů rodiny, kteří tvoří součást domácnosti osoby dle § 80 odst. 1 písm. b) nebo d) a jsou uvedeni na dokladu o dodání zboží nebo poskytnutí služeb jako osoby, pro které se uskutečňuje zdanitelné plnění</td></tr><tr><td></td><td>Jiné</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(-a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(-a) a příjmení / Vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Razítko</td></tr><tr><td></td><td>Vlastnoruční podpis</td></tr><tr><td colspan="2"><b>POTVRZENÍ MINISTERSTVA ZAHRANIČNÍCH VĚCÍ ČESKÉ REPUBLIKY PODLE § 80 ODST. 11 ZÁKONA Č. 235/2004 SB., O DANI Z PŘIDANÉ HODNOTY, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ</b></td></tr><tr><td></td><td>Diplomatická nóta Ministerstva zahraničních věcí</td></tr><tr><td>1.</td><td>Osoba uplatňující nárok na vrácení daně v tomto přiznání je akreditována na území České republiky ode dne</td></tr><tr><td>2.</td><td>Princip vzájemnosti dle § 80 odst. 11 písm. a) výše uvedeného zákona</td></tr><tr><td>a)</td><td>V případě nákupu zboží nebo přijetí služby podle § 80 odst. 5 výše uvedeného zákona princip vzájemnosti je naplněn</td></tr><tr><td>b)</td><td>V případě nákupu zboží nebo přijetí služeb jiných než podle § 80 odst. 5 výše uvedeného zákona princip vzájemnosti je naplněn</td></tr><tr><td>3.</td><td>Osoby uvedené v příloze daňového přiznání <i>Seznam členů rodiny</i>... jsou členy rodiny osoby žádající o vrácení daně, kteří tvoří součást její domácnosti</td></tr><tr><td colspan="2"><b>Osoba oprávněná k podpisu za Ministerstvo zahraničních věcí</b></td></tr><tr><td></td><td>Jméno a příjmení pracovníka diplomatického protokolu ministerstva, který potvrzení vydává</td></tr><tr><td></td><td>datum</td></tr><tr><td></td><td>otisk úředního razítka</td></tr><tr><td></td><td>Vlastnoruční podpis</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2">25 5571/A MFin 5571/A</td></tr><tr><td colspan="2"><b>Příloha k daňovému přiznání pro vrácení daně podle </b><b>§ 80 a § 80a</b><b> zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td colspan="2"><b>C. ODDÍL</b></td></tr><tr><td colspan="2"><b>Nárok na vrácení daně z přijatého zdanitelného plnění s místem plnění v tuzemsku na základě mezinárodní smlouvy, která je součástí českého právního řádu</b></td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Pořadové číslo</td></tr><tr><td></td><td>Jméno a příjmení fyzické osoby / Název právnické osoby</td></tr><tr><td></td><td>Za období</td></tr><tr><td colspan="2"><b>Přijatá plnění, u kterých je uplatňován nárok na vrácení daně</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Datum uskutečnění zdanitelného plnění</td></tr><tr><td>sl. 4</td><td>DIČ dodavatele</td></tr><tr><td>sl. 5</td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 6</td><td>Předmět daně</td></tr><tr><td>sl. 7</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - nárok na vrácení daně - základní sazba daně</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - nárok na vrácení daně - snížená sazba daně</td></tr><tr><td></td><td>Nárok na vrácení daně - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM PŘÍLOHA</td></tr></tbody></table>
+
+#### POKYNY k vyplnění Přiznání pro vrácení daně z přidané hodnoty podle § 80 a § 80a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů
+
+25 5571/1 MFin 5571/1
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Obecně k vracení daně podle****§ 80****zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“) – osoby požívající výsad a imunit**
+
+V daňovém přiznání pro vrácení DPH uplatňují nárok na vrácení daně z přidané hodnoty z přijatého zdanitelného plnění s místem plnění v tuzemsku osoby požívající výsad a imunit vymezené v **§ 80** zákona o DPH.
+
+Nárok na vrácení daně může osoba požívající výsad a imunit (vyjma subjektu Evropské unie) uplatnit do konce prvního kalendářního měsíce (do 31. 1.) kalendářního roku bezprostředně následujícího po kalendářním roce, ve kterém se uskutečnilo zdanitelného plnění dodání zboží nebo poskytnutí služeb (§ 80 odst. 10 zákona o DPH). Subjekt Evropské unie může nárok na vrácení daně uplatnit do konce lhůty pro stanovení daně. Připadne-li poslední den lhůty na sobotu, neděli nebo svátek, je možné přiznání podat nejbližší následující pracovní den.
+
+Pokud ve stanovené lhůtě nebyl nárok na vrácení daně uplatněn, zaniká. K nároku uplatněnému mimo lhůtu pro jeho uplatnění se nepřihlíží (§ 86e zákona o DPH).
+
+Daňové přiznání ani dodatečné daňové přiznání nelze podat elektronicky (§ 86g odst. 1 písm. b) zákona o DPH).
+
+Na rozdíl od ostatních osob požívajících výsad a imunit, které podávají daňové přiznání přímo místně příslušnému správci daně (§ 86d odst. 2 zákona o DPH), podává subjekt Evropské unie se sídlem mimo tuzemsko daňové přiznání pro vrácení daně prostřednictvím Generálního finančního ředitelství.
+
+**Obecně k vracení daně podle****§ 80a****zákona**o DPH**– mezinárodní organizace se sídlem mimo tuzemsko**
+
+Podle ustanovení **§ 80a** zákona o DPH uplatňuje nárok na vrácení daně z přidané hodnoty z přijatého zdanitelného plnění mezinárodní organizace, jíž je Česká republika členem a která nemá sídlo ani zastoupení v tuzemsku.
+
+Nárok na vrácení daně může mezinárodní organizace se sídlem mimo tuzemsko uplatnit do konce prvního kalendářního měsíce (do 31. 1.) kalendářního roku bezprostředně následujícího po kalendářním roce, ve kterém se uskutečnilo zdanitelného plnění dodání zboží nebo poskytnutí služeb (§ 80a odst. 3 zákona o DPH). Připadne-li poslední den lhůty na sobotu, neděli nebo svátek, je možné přiznání podat nejbližší následující pracovní den.
+
+Pokud ve stanovené lhůtě nebyl nárok na vrácení daně uplatněn, zaniká (§ 86e zákona o DPH).
+
+**K náležitostem daňového přiznání**
+
+**Finančnímu úřadu:** Doplňte zbývající část oficiálního názvu místně příslušného finančního úřadu (např. - hlavní město Prahu, - Jihočeský kraj, apod.).
+
+Místní příslušnost pro vracení daně osobě požívající výsad a imunit je upravena v § 86d zákona o DPH.
+
+Místně příslušným správcem daně pro vracení daně mezinárodní organizaci se sídlem mimo tuzemsko je Finanční úřad pro hlavní město Prahu (§ 86d odst. 1 zákona o DPH).
+
+**Územní pracoviště:** Uveďte sídlo územního pracoviště, na němž je nebo bude umístěn spis daňového subjektu (§ 13 zákona o Finanční správě České republiky). Jedná se o územní pracoviště finančního úřadu, které bude daňové přiznání pro vrácení daně zpracovávat a o vrácení daně rozhodovat.
+
+**Číslo subjektu:** Uveďte číslo, pod kterým jste vedeni správcem daně, pokud je znáte.
+
+**Daňové přiznání:** Křížkem vyznačte typ podávaného přiznání (řádné nebo dodatečné). V případě dodatečného přiznání uveďte v kolonce **„Důvody pro podání dodatečného daňového přiznání zjištěny dne“** den zjištění důvodů pro podání tohoto přiznání (§ 141 odst. 1 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“)). Podání opravného daňového přiznání je vyloučeno (§ 86h zákona o DPH).
+
+**Za období:** Uveďte období (kalendářní měsíc / čtvrtletí / rok), za které daňové přiznání pro vrácení daně podáváte.
+
+Daňové přiznání mohou podat (§ 86f odst. 2 písm. a) zákona o DPH):
+
+Jednou za kalendářní měsíc:
+
+\- diplomatická mise
+
+\- konzulární úřad
+
+\- zastoupení veřejné instituce založené podle práva cizího státu
+
+\- zastoupení entity, která z hlediska mezinárodního práva není státem
+
+\- mezinárodní organizace se sídlem mimo tuzemsko
+
+\- mezinárodní organizace se sídlem v tuzemsku
+
+\- zastoupení mezinárodní organizace umístěné v tuzemsku
+
+Jednou za kalendářní čtvrtletí:
+
+\- člen diplomatické mise
+
+\- člen konzulárního úřadu
+
+\- člen zastoupení veřejné instituce založené podle práva cizího státu
+
+\- člen zastoupení entity, která z hlediska mezinárodního práva není státem
+
+\- úředník mezinárodní organizace se sídlem v tuzemsku nebo zastoupení mezinárodní organizace umístěného v tuzemsku
+
+\- člen rodiny úředníka mezinárodní organizace se sídlem v tuzemsku nebo zastoupení mezinárodní organizace umístěného v tuzemsku
+
+Jednou za kalendářní rok: subjekt Evropské unie.
+
+A. **ODDÍL**
+
+##### Údaje o daňovém subjektu:
+
+**Právnická osoba:**
+
+**Diplomatická mise, konzulární úřad, zastoupení veřejné instituce založené podle práva cizího státu, zastoupení entity, která z hlediska mezinárodního práva není státem:** Uveďte název, jméno a příjmení vedoucího úřadu, vysílající stát, adresu sídla. Telefonní číslo a e – mail jsou údaje nepovinné, přesto je doporučeno je uvést pro případnou neformální komunikaci pro potřeby správce daně.
+
+**Mezinárodní organizace se sídlem v tuzemsku**, zastoupení mezinárodní organizace umístěného v tuzemsku Uveďte název a adresu sídla. Telefonní číslo a e – mail jsou údaje nepovinné, přesto je doporučeno je uvést pro případnou neformální komunikaci pro potřeby správce daně.
+
+**Subjekt Evropské unie a Mezinárodní organizace se sídlem mimo tuzemsko:** Uveďte název a zahraniční adresu sídla včetně údaje „stát“. Telefonní číslo a e – mail jsou údaje nepovinné, přesto je doporučeno je uvést pro případnou neformální komunikaci pro potřeby správce daně.
+
+**Fyzická osoba:**
+
+**Člen diplomatické mise, konzulárního úřadu, zastoupení veřejné instituce založené podle práva cizího státu, nebo zastoupení entity, která z hlediska mezinárodního práva není státem – uveďte (vyplňte) tyto údaje:**
+
+**Příjmení:** Uveďte aktuálně používané (používaná) příjmení.
+
+**Jméno:** Uveďte jméno ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Funkce pověřené osoby:** Uveďte název svého pracovního zařazení.
+
+Současně uveďte vysílající stát a název právnické osoby, ke které příslušíte. Uvedení adresy místa pobytu na území České republiky je nepovinné. Rovněž telefonní číslo a e-mail jsou údaje nepovinné, přesto je doporučeno je uvést pro případnou neformální komunikaci pro potřeby správce daně.
+
+**Úředník mezinárodní organizace se sídlem v tuzemsku nebo zastoupení mezinárodní organizace umístěného v tuzemsku – uveďte (vyplňte) tyto údaje:**
+
+**Příjmení:** Uveďte aktuálně používané (používaná) příjmení.
+
+**Jméno:** Uveďte jméno ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Název právnické osoby, ke které je fyzická osoba příslušná: Uveďte** název příslušné mezinárodní organizace se sídlem v tuzemsku nebo zastoupení mezinárodní organizace umístěného v tuzemsku
+
+Současně uveďte adresu svého místa pobytu na území České republiky. Telefonní číslo a e-mail jsou údaje nepovinné, přesto je doporučeno je uvést pro případnou neformální komunikaci pro potřeby správce daně.
+
+**Člen rodiny úředníka mezinárodní organizace se sídlem v tuzemsku nebo zastoupení mezinárodní organizace umístěného v tuzemsku – uveďte (vyplňte) tyto údaje:**
+
+**Příjmení:** Uveďte aktuálně používané (používaná) příjmení.
+
+**Jméno:** Uveďte jméno ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Členem rodiny pracovníka mezinárodní organizace / zastoupení mezinárodní organizace.** Uveďte jméno a příjmení člena rodiny, který je pracovníkem mezinárodní organizace se sídlem v tuzemsku nebo zastoupení mezinárodní organizace umístěného v tuzemsku.
+
+**Název právnické osoby, ke které je fyzická osoba příslušná:** Uveďte název příslušné mezinárodní organizace se sídlem v tuzemsku nebo zastoupení mezinárodní organizace umístěného v tuzemsku.
+
+Dále uveďte adresu svého místa pobytu na území České republiky. Telefonní číslo a e-mail jsou údaje nepovinné, přesto je doporučeno je uvést pro případnou neformální komunikaci pro potřeby správce daně.
+
+**Určení způsobu vrácení vratitelného přeplatku:**
+
+Označte křížkem Vámi zvolený způsob vrácení daně (zaslání finančních prostředků).
+
+**Bezhotovostním převodem na účet vedený u poskytovatele platebních služeb:** Pokud požadujete, aby Vám byla daň vrácena bezhotovostním převodem, uveďte údaje k účtu se vztahující.
+
+Pokud se jedná o účty vedené u českých bank, není třeba vyplňovat údaje: Typ ID banky / ID banky / Název účtu / Název banky / Ulice banky / Město banky / PSČ banky / Stát.
+
+V položce „typ ID banky“ vyplňte typ identifikace banky, tj. např. BIC, FW, SC. V položce „Název účtu“ uveďte název nebo jméno vlastníka účtu.
+
+**Poštovním poukazem:** Pokud požadujete, aby Vám byla daň vrácena poštovním poukazem, uveďte adresu, na kterou má být zaslán.
+
+B. **ODDÍL**
+
+##### Nárok na vrácení daně z přijatého zdanitelného plnění s místem plnění v tuzemsku na základě principu vzájemnosti:
+
+Tuto část daňového přiznání pro vrácení daně vyplňují pouze:
+
+\- diplomatická mise
+
+\- konzulární úřad
+
+\- zastoupení veřejné instituce založené podle práva cizího státu
+
+\- zastoupení entity, která z hlediska mezinárodního práva není státem
+
+\- člen diplomatické mise
+
+\- člen konzulárního úřadu
+
+\- člen zastoupení veřejné instituce založené podle práva cizího státu
+
+\- člen zastoupení entity, která z hlediska mezinárodního práva není státem
+
+V daňovém přiznání pro vrácení daně lze uplatnit jeden nebo více nároků na vrácení daně, u nichž běží lhůta pro uplatnění nároku na vrácení daně (§ 86f odst. 1 zákona o DPH).
+
+**Daň, na kterou se aplikuje limit pro vrácení daně:** Uveďte celkový nárok na vrácení daně (součet jednotlivých nároků) uplatněný v tomto daňovém přiznání u zboží a služeb, jejichž nákup se započítává do maximálního ročního limitu (§ 80 odst. 3 písm. a) a b) zákona o DPH).
+
+**Daň, na kterou se neaplikuje limit pro vrácení daně:** Uveďte celkový nárok na vrácení daně (součet jednotlivých nároků) uplatněný v tomto daňovém přiznání u zboží a služeb, jejichž nákup se nezapočítává do maximálního ročního limitu (§ 80 odst. 5 zákona o DPH).
+
+**Nárok na vrácení daně – CELKEM:** Uveďte celkový Vámi uplatňovaný nárok na vrácení daně, tedy celkovou výši daně, kterou požadujete vrátit.
+
+C. **ODDÍL**
+
+##### Nárok na vrácení daně z přijatého zdanitelného plnění s místem plnění v tuzemsku na základě mezinárodní smlouvy, která je součástí českého právního řádu:
+
+Tuto část daňového přiznání pro vrácení daně vyplňují pouze:
+
+\- mezinárodní organizace se sídlem mimo tuzemsko
+
+\- mezinárodní organizace se sídlem v tuzemsku
+
+\- zastoupení mezinárodní organizace umístěné v tuzemsku
+
+\- subjekt Evropské unie
+
+\- úředník mezinárodní organizace se sídlem v tuzemsku nebo zastoupení mezinárodní organizace umístěného v tuzemsku
+
+\- člen rodiny úředníka mezinárodní organizace se sídlem v tuzemsku nebo zastoupení mezinárodní organizace umístěného v tuzemsku
+
+V daňovém přiznání pro vrácení daně lze uplatnit jeden nebo více nároků na vrácení daně, u nichž běží lhůta pro uplatnění nároku na vrácení daně (§ 86f odst. 1 zákona o DPH).
+
+Do řádků se uvádějí údaje převzaté z jednotlivých dokladů vystavených plátci daně z přidané hodnoty, kteří dodali zboží nebo poskytli službu.
+
+Pokud je větší počet dokladů než řádků, použijte zvláštní přílohu.
+
+V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte v jejím záhlaví pořadové číslo přílohy a jméno a příjmení fyzické osoby, resp. název právnické osoby, a období, za které daňové přiznání podáváte.
+
+**Evidenční číslo daňového dokladu:** Uveďte evidenční číslo daňového dokladu nebo dokladu o prodeji zboží nebo o poskytnutí služby, na základě kterého uplatňujete nárok na vrácení daně.
+
+**DIČ dodavatele:** Uveďte kmenovou část (tj. pouze číselná část) daňového identifikačního čísla osoby, která dodala zboží nebo uskutečnila službu.
+
+**Jméno, příjmení / obchodní jméno dodavatele:** Uveďte jméno, příjmení / obchodní jméno osoby, která dodala zboží nebo uskutečnila službu.
+
+**Datum uskutečnění zdanitelného plnění:** Uveďte datum uskutečnění přijatého plnění.
+
+**Předmět daně:** Uveďte předmět přijatého plnění, druh zboží nebo služeb.
+
+**Daň z přidané hodnoty – základ daně – základní sazba daně / Daň z přidané hodnoty – základ daně – snížená sazba daně:** Uveďte základ daně vyčíslený na dokladu v příslušné sazbě daně.
+
+**Daň z přidané hodnoty – nárok na vrácení daně – základní sazba daně / Daň z přidané hodnoty – nárok na vrácení daně – snížená sazba daně:** Uveďte částku daně, jejíž vrácení nárokujete dle příslušné sazby daně.
+
+**Nárok na vrácení daně – základní sazba daně – CELKEM / Nárok na vrácení daně – snížená sazba daně – CELKEM:** Uveďte celkový součet nároků na vrácení daně dle jednotlivých sazeb daně uvedených na předcházejících řádcích ve sloupci 9, resp. sloupci 10.
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHA:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte celkový součet nároků na vrácení daně uplatněný v příslušné příloze. Jde o součet řádků “Nárok na vrácení daně – základní sazba daně – CELKEM“ a “Nárok na vrácení daně – snížená sazba daně – CELKEM“.
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHY:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte celkový součet nároků na vrácení daně vyčíslený v jednotlivých přílohách. Jedná se o součet řádků “Nárok na vrácení daně – CELKEM PŘÍLOHA“ ze všech vkládaných příloh.
+
+**Nárok na vrácení daně – CELKEM:** Uveďte celkový nárok na vrácení daně (součet jednotlivých nároků) uplatněný v tomto daňovém přiznání. Jedná se o součet řádků “Nárok na vrácení daně – základní sazba daně – CELKEM“, “Nárok na vrácení daně – snížená sazba daně – CELKEM“ a “Nárok na vrácení daně – CELKEM PŘÍLOHY“. Celkový nárok na vrácení daně zaokrouhlete na celé Kč nahoru.
+
+D. ODDÍL
+
+##### Hodnota plnění osvobozeného od daně podle § 71l zákona o DPH
+
+**Hodnota pořízení nového dopravního prostředku z jiného členského státu / Hodnota pořízení zboží, které je předmětem spotřební daně, z jiného členského státu:** Uveďte hodnotu pořízení (kupní cenu) nového dopravního prostředku / zboží, které je předmětem spotřební daně, které je osvobozeno od daně podle § 71l zákona o DPH. Osoba požívající výsad a imunit je povinna uvést toto plnění v daňovém přiznání pro vrácení daně, ve kterém vy toto plnění mohla nejdříve uvést, pokud by žádala o vrácení daně podle **§ 80** zákona o DPH.
+
+Osvobozeno od daně je pořízení nového dopravního prostředku a zboží, které je předmětem spotřební daně, pokud by v případě jejich nákupu v tuzemsku byla daň zaplacená v jejich ceně osobě požívající výsad a imunit vrácena podle **§ 80** zákona o DPH.
+
+##### Přílohy daňového přiznání
+
+Uveďte celkový počet listů jednotlivých příloh daňového přiznání pro vrácení daně.
+
+**Osoby požívající výsad a imunit** jsou k daňovému přiznání pro vrácení daně povinny přiložit (§ 80 odst. 12 zákona o DPH):
+
+\- kopii daňového dokladu nebo dokladu o dodání zboží nebo poskytnutí služby. Doklad o dodání zboží nebo o poskytnutí služby je na žádost daňového subjektu povinen bezodkladně vystavit plátce, který plnění dodává / poskytuje (§ 86b zákona o DPH),
+
+\- kopii osvědčení o registraci vozidla, je-li daňovým přiznáním žádáno o vracení DPH z pořízení osobního automobilu.
+
+Osoby požívající výsad a imunit, které uplatňují nárok na vrácení daně na základě principu vzájemnosti, jsou dále k daňovému přiznání povinny přiložit:
+
+\- přehled nakoupeného zboží a přijatých služeb v členění na:
+
+1\. zboží a služby, jejichž nákup se nezapočítává do maximálního ročního limitu (§ 80 odst. 5 zákona o DPH),
+
+2\. zboží a služby, jejichž nákup se zahrnuje do maximálního ročního limitu (§ 80 odst. 3 zákona o DPH),
+
+\- potvrzení o splnění principu vzájemnosti uznané Českou republikou v případě nákupu zboží a služeb vztahujících se k nemovité věci ve vlastnictví vysílajícího státu nebo entity, která z hlediska mezinárodního práva není státem, na které nemá být použit maximální roční limit pro vrácení daně,
+
+\- seznam členů rodiny, kteří tvoří součást domácnosti člena diplomatické mise, konzulárního úřadu, zastoupení veřejné instituce založené podle práva cizího státu nebo zastoupení entity, která z hlediska mezinárodního práva a jsou na dokladu o dodání zboží nebo poskytnutí služby uvedeni jako osoby, pro které se uskutečňuje zdanitelné plnění (kterým je dodáváno zboží nebo poskytována služba).
+
+**Mezinárodní organizace se sídlem mimo tuzemsko** je k daňovému přiznání pro vrácení daně povinna přiložit kopii daňového dokladu nebo dokladu o dodání zboží nebo poskytnutí služby. Doklad o dodání zboží nebo o poskytnutí služby je na žádost daňového subjektu povinen bezodkladně vystavit plátce, který plnění dodává / poskytuje (§ 86b zákona o DPH).
+
+##### Údaje o podepisující osobě
+
+Tyto údaje budou vyplňovány pouze v případech, kdy je přiznání zpracováváno a podáváno osobou odlišnou od daňového subjektu, tzn. v případech, kdy daňový subjekt činí podání sám za sebe, tuto část nevyplňuje.
+
+**Kód podepisující osoby:** Vyplňte číselný kód podle níže uvedených typů podepisujících osob:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+Pozn. kódy 5b, 6b, 7b mají přednost před obecnými druhy zastoupení s nižšími čísly kódů.
+
+**Datum narození / Evidenční číslo osvědčení daňového poradce / IČO právnické osoby:** Vyplňte datum narození podepisující osoby odlišné od daňového subjektu – fyzické osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby, nebo identifikační číslo právnické osoby odlišné od daňového subjektu.
+
+**Fyzická osoba oprávněná k podpisu (je-li daňový subjekt či podepisující osoba právnickou osobou) s uvedením vztahu k právnické osobě (např. jednatel, pověřený pracovník apod.):** Tyto údaje vyplňte pouze v případech, kdy je podání podáváno právnickou osobou, včetně případů, kdy je právnická osoba v postavení podepisující osoby odlišné od daňového subjektu.
+
+**Otisk razítka** (uvádí se pouze v listinné podobě tohoto formuláře): lze připojit otisk razítka.
+
+**Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu:** podaní bude opatřeno vlastnoručním podpisem buď přímo daňovým subjektem – fyzickou osobou činící podání sama za sebe, nebo fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu.
+
+Je-li podepisující osobou fyzická osoba odlišná od daňového subjektu, podání podepisuje tato fyzická osoba; je-li podepisující osobou právnická osoba odlišná od daňového subjektu, podání podepisuje fyzická osoba oprávněná jednat jménem právnické osoby.
+
+**Potvrzení Ministerstva zahraničních věcí dle ustanovení § 80 odst. 11 zákona**o DPH**:**
+
+Ministerstvo zahraničních věcí v daňovém přiznání osoby požívající výsad a imunit, která uplatňuje nárok na vrácení daně na základě principu vzájemnosti, uvede číslo jednací příslušné diplomatické nóty, dle které se princip vzájemnosti uplatňuje, pokud vysílající stát uplatňuje vůči české diplomatické misi nižší částku maximálního ročního limitu. Číslo jednací příslušné diplomatické nóty Ministerstva zahraničních věcí se uvede také v případě, kdy vysílající stát poskytuje osvobození od placení nepřímých daní pouze za omezený okruh zboží.
+
+Ministerstvo zahraničních věcí potvrdí:
+
+1\. zda osoba uplatňující nárok na vrácení daně v tomto přiznání je akreditována na území České republiky, přičemž uvede datum akreditace.
+
+2\. zda je naplněn princip vzájemnosti dle § 80 odst. 11 písm. a) zákona o DPH a
+
+3\. zda osoby uvedené v příloze daňového přiznání Seznam členů rodiny, kteří tvoří součást domácnosti osoby dle § 80 odst. 1 písm. b) nebo d) zákona o DPH, jsou členy rodiny osoby žádající o vrácení daně, kteří tvoří součást její domácnosti.
+
+Osoba oprávněná k podpisu za Ministerstvo zahraničních věcí / pracovník Diplomatického protokolu Ministerstva zahraničních věcí uvede jméno, příjmení, a datum podpisu a přiznání opatří razítkem a vlastnoručním podpisem.
+
+##### Dodatečné daňové přiznání
+
+Dodatečné daňové přiznání pro vrácení daně se předkládá samostatně vždy ke konkrétnímu dříve podanému řádnému daňovému přiznání pro vrácení daně, a to do konce měsíce následujícího po zjištění důvodu pro jeho podání podle § 141 odst. 1 daňového řádu. Daňový subjekt je povinen dodatečné daňové přiznání podat, pokud zjistí, že daň má být vyšší než poslední známá daň. Ve lhůtě pro podání dodatečného daňového přiznání je daňový subjekt povinen rozdílnou částku rovněž uhradit. Tato povinnost trvá, pokud běží lhůta pro stanovení daně. Poslední známá daň je výsledná daň, jak byla správcem daně dosud pravomocně stanovena v dosavadním průběhu daňového řízení o této dani.
+
+Daňový subjekt je oprávněn za podmínek stanovených v § 141 odst. 2 a 3 daňového řádu podat dodatečné daňové přiznání pro vrácení daně na daň nižší, než je poslední známá daň, nebo podle § 141 odst. 4 daňového řádu dodatečné přiznání, kterým se nemění poslední známá daň, ale pouze údaje dříve tvrzené (v těchto dvou případech uvede v příloze důvody pro jeho podání podle § 141 odst. 5 daňového řádu).
+
+Dodatečné daňové přiznání pro vrácení daně se podává na shodném tiskopise jako řádné přiznání pro vrácení daně, na jehož první straně se označí jako dodatečné a uvede se den, kdy byly zjištěny skutečnosti zakládající povinnost nebo možnost podat dodatečné přiznání.
+
+V dodatečném přiznání se uvádí pouze rozdíly od údajů, ze kterých byla stanovena poslední známá daň.
+
+**Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání:** Vyplňte pouze při podání dodatečného přiznání (kladná či záporná hodnota). V případě záporné částky je daňový subjekt povinen ji uhradit ve lhůtě pro podání dodatečného daňového přiznání (náhradní lhůta splatnosti podle § 141 odst. 7 daňového řádu). V případě kladné částky může daňový subjekt podat žádost o vrácení případného přeplatku podle § 155 daňového řádu.
+
+### Příloha č. 3
+
+<table><tbody><tr><td colspan="2"><b>Přiznání pro vrácení daně z přidané hodnoty podle § 81 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td>25 5572 MFin 5572<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro / Specializovanému finančnímu úřadu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td></td><td>Daňové přiznání</td></tr><tr><td></td><td>Důvody pro podání dodatečného daňového přiznání zjištěny dne</td></tr><tr><td></td><td>Počet příloh / listů</td></tr><tr><td colspan="2"><b>Údaje o daňovém subjektu</b></td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Titul</td></tr><tr><td></td><td>Sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu:</td></tr><tr><td></td><td></td></tr><tr><td></td><td>a) obec</td></tr><tr><td></td><td>b) PSČ</td></tr><tr><td></td><td>c) telefon</td></tr><tr><td></td><td>d) ulice (nebo část obce)</td></tr><tr><td></td><td>e) číslo popisné / orientační</td></tr><tr><td></td><td>f) e-mail</td></tr><tr><td></td><td>g) stát</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(-a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(-a) a příjmení / Vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Razítko</td></tr><tr><td></td><td>Vlastnoruční podpis</td></tr><tr><td colspan="2"><b>Vyčíslení nároku na vrácení daně</b></td></tr><tr><td></td><td>Soudní rozhodnutí</td></tr><tr><td></td><td>DIČ dodavatele</td></tr><tr><td></td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Číslo dokladu</td></tr><tr><td>sl. 3</td><td>Den uskutečnění zdanitelného plnění / Den přijetí úplaty</td></tr><tr><td>sl. 4</td><td>Předmět daně</td></tr><tr><td>sl. 5</td><td>Datum zaplacení</td></tr><tr><td>sl. 6</td><td>Odpočet daně uplatněn za zdaňovací období</td></tr><tr><td>sl. 7</td><td>Dodatečné daňové přiznání bylo podáno dne</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně uvedený na dokladu</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - sazba daně uvedená na dokladu</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - výše daně uvedená na dokladu</td></tr><tr><td>sl. 11</td><td>Daň z přidané hodnoty - důvod nesprávného uvedení daně</td></tr><tr><td>sl. 12</td><td>Daň z přidané hodnoty - sazba daně dle zákona o DPH</td></tr><tr><td>sl. 13</td><td>Daň z přidané hodnoty - výše daně dle zákona o DPH</td></tr><tr><td>sl. 14</td><td>Daň z přidané hodnoty - nárok na vrácení daně</td></tr><tr><td></td><td>Nárok na vrácení daně - součet hodnot sl. 14 z předchozích řádků</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM PŘÍLOHY</td></tr><tr><td></td><td>Nárok na vrácení daně CELKEM</td></tr><tr><td></td><td>Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2">25 5572/A MFin 5572/A</td></tr><tr><td colspan="2"><b>Příloha k daňovému přiznání pro vrácení daně podle § 81 zákona č. 235/2004 Sb., o dani z přidané hodonty, ve znění pozdějších předpisů</b></td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Pořadové číslo</td></tr><tr><td></td><td>Jméno a příjmení fyzické osoby / Název právnické osoby</td></tr><tr><td colspan="2"><b>Vyčíslení nároku na vrácení daně</b></td></tr><tr><td></td><td>Soudní rozhodnutí</td></tr><tr><td></td><td>DIČ dodavatele</td></tr><tr><td></td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Číslo dokladu</td></tr><tr><td>sl. 3</td><td>Den uskutečnění zdanitelného plnění / Den přijetí úplaty</td></tr><tr><td>sl. 4</td><td>Předmět daně</td></tr><tr><td>sl. 5</td><td>Datum zaplacení</td></tr><tr><td>sl. 6</td><td>Odpočet daně uplatněn za zdaňovací období</td></tr><tr><td>sl. 7</td><td>Dodatečné daňové přiznání bylo podáno dne</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně uvedený na dokladu</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - sazba daně uvedená na dokladu</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - výše daně uvedená na dokladu</td></tr><tr><td>sl. 11</td><td>Daň z přidané hodnoty - důvod nesprávného uvedení daně</td></tr><tr><td>sl. 12</td><td>Daň z přidané hodnoty - sazba daně dle zákona o DPH</td></tr><tr><td>sl. 13</td><td>Daň z přidané hodnoty - výše daně dle zákona o DPH</td></tr><tr><td>sl. 14</td><td>Daň z přidané hodnoty - nárok na vrácení daně Nárok na vrácení daně - CELKEM PŘÍLOHA</td></tr></tbody></table>
+
+#### POKYNY k vyplnění Přiznání pro vrácení daně z přidané hodnoty podle § 81 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů
+
+25 5572/1 MFin 5572/1
+
+Podáním daňového přiznání pro vrácení daně uplatňuje příjemce plnění nárok na vrácení bezdůvodně zaplacené daně podle ustanovení § 81 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“). Přiznání lze podat ve lhůtě do konce čtvrtého kalendářního roku bezprostředně následujícího po kalendářním roce, ve kterém nastal den uskutečnění plnění. Lhůta neběží po dobu soudního řízení ve věci povinnosti osoby, která uskutečnila plnění, vydat příjemci plnění bezdůvodné obohacení vzniklé z bezdůvodně zaplacené daně. Lhůta dále neběží po dobu správního, soudního nebo rozhodčího řízení vedeného za účelem vrácení bezdůvodně zaplacené daně (§ 81 odst. 4 zákona o DPH). Pokud v této lhůtě nebyl nárok na vrácení daně uplatněn, zaniká; u této lhůty nelze povolit navrácení v předešlý stav.
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu / Specializovanému finančnímu úřadu:** Doplní se zbývající část oficiálního názvu místně příslušného finančního úřadu (např. - hlavní město Prahu, - Jihočeský kraj, apod.). Bude-li subjekt vybraným subjektem podle § 11 odst. 2 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů (dále jen „zákon o Finanční správě České republiky"), doplní Specializovanému finančnímu úřadu.
+
+**Územní pracoviště:** Uveďte sídlo územního pracoviště, na němž je nebo bude umístěn spis daňového subjektu (§ 13 zákona o Finanční správě České republiky).
+
+**Daňové identifikační číslo (DIČ):** Uveďte kmenovou část (pouze číselná část) daňového identifikačního čísla.
+
+**Daňové přiznání: řádné / dodatečné / opravné:** Křížkem vyznačte typ podávaného přiznání (řádné nebo dodatečné, případně opravné – § 138 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“)). V případě dodatečného přiznání uveďte v příslušné kolonce den zjištění důvodů pro podání tohoto přiznání (§ 141 odst. 1 daňového řádu). Více informací k dodatečnému a opravnému daňovému přiznání lze nalézt na konci těchto pokynů.
+
+**Počet příloh / listů:** Uveďte počet příloh daňového přiznání a celkový počet listů (§ 81 odst. 5 zákona o DPH, § 141 odst. 5 daňového řádu).
+
+#### Údaje o daňovém subjektu
+
+**Název právnické osoby:** Uveďte obchodní jméno tak, jak je zapsáno v obchodním rejstříku, živnostenském listu, koncesní listině apod. U právnických osob, které se nezapisují do obchodního rejstříku, uveďte název, pod kterým byly zřízeny, a u ostatních subjektů název, pod nímž vystupují vůči třetím osobám.
+
+**Příjmení:** Uveďte aktuálně používané (používaná) příjmení.
+
+**Jméno:** Uveďte jméno ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Titul:** Údaj „Titul“ je údaj nepovinný.
+
+**Sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu:** Vyplňte adresu sídla právnické osoby, která byla zapsána do obchodního rejstříku nebo do obdobného veřejného rejstříku. Právnické osoby, které se do těchto rejstříků nezapisují, uvedou adresu, kde právnická osoba sídlí skutečně.
+
+Místem pobytu fyzické osoby podle **§ 13 odst. 1** daňového řádu se rozumí adresa místa trvalého pobytu občana České republiky, nebo adresa hlášeného místa pobytu cizince, a nelze-li takto místo pobytu fyzické osoby určit, rozumí se jím místo na území České republiky, kde se fyzická osoba převážně zdržuje.
+
+Osoby, které nemají v České republice sídlo / místo pobytu, uvedou svoji zahraniční adresu a vyplní údaj „stát“.
+
+**Telefon, e-mail:** Uveďte telefonní číslo, na kterém jste k zastižení a adresu elektronické pošty. Jedná se o nepovinné údaje, přesto je doporučeno je uvést pro případnou neformální komunikaci pro potřeby správce daně.
+
+#### Údaje o podepisující osobě
+
+Tyto údaje budou vyplňovány pouze v případech, kdy je přiznání zpracováváno a podáváno osobou odlišnou od daňového subjektu, tzn. v případech, kdy daňový subjekt činí podání sám za sebe, tuto část nevyplňuje.
+
+**Kód podepisující osoby:** Vyplňte číselný kód podle níže uvedených typů podepisujících osob:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+Pozn. kódy 5b, 6b, 7b mají přednost před obecnými druhy zastoupení s nižšími čísly kódů.
+
+**Datum narození / Evidenční číslo osvědčení daňového poradce / IČO právnické osoby:** Vyplňte datum narození podepisující osoby odlišné od daňového subjektu – fyzické osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby, nebo identifikační číslo právnické osoby odlišné od daňového subjektu.
+
+**Fyzická osoba oprávněná k podpisu (je-li daňový subjekt či podepisující osoba právnickou osobou) s uvedením vztahu k právnické osobě (např. jednatel, pověřený pracovník apod.):** Tyto údaje vyplňte pouze v případech, kdy je podání podáváno právnickou osobou, včetně případů, kdy je právnická osoba v postavení podepisující osoby odlišné od daňového subjektu.
+
+**Otisk razítka (uvádí se pouze v listinné podobě tohoto formuláře):** lze připojit otisk razítka.
+
+**Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu (uvádí se pouze v listinné podobě tohoto formuláře):** Podání bude opatřeno vlastnoručním podpisem buď přímo daňovým subjektem – fyzickou osobou činící podání sama za sebe, nebo fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu. V případě podání v elektronické podobě se vlastnoruční podpis nahradí příslušným způsobem autorizace podání (např. identitou občana, uznávaným elektronickým podpisem apod.).
+
+Je-li podepisující osobou fyzická osoba odlišná od daňového subjektu, podání podepisuje tato fyzická osoba; je-li podepisující osobou právnická osoba odlišná od daňového subjektu, podání podepisuje fyzická osoba oprávněná jednat jménem právnické osoby.
+
+#### Vyčíslení nároku na vrácení daně
+
+Pokud je větší počet dokladů než řádků, použijte zvláštní přílohu. Přílohu použijte také v případě, kdy uplatňujete nárok na vrácení daně v souvislosti s vícero soudními rozhodnutími ve věci povinnosti osoby, která uskutečnila plnění, vydat příjemci plnění bezdůvodné obohacení (§ 81 odst. 1 písm. f) zákona o DPH). Tzn. ke každému soudnímu rozhodnutí bude vyplněna samostatná příloha (přílohy). V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte v jejím záhlaví pořadové číslo přílohy, jméno a příjmení fyzické osoby, resp. název právnické osoby.
+
+**Soudní rozhodnutí:** Uveďte údaje o pravomocném rozhodnutí soudu (název soudu, který rozhodnutí vydal, č. j., datum nabytí právní moci) ve věci povinnosti osoby, která uskutečnila plnění, vydat příjemci plnění bezdůvodné obohacení vzniklé z bezdůvodně zaplacené daně za toto plnění (§ 81 odst. 1 písm. f) zákona o DPH).
+
+**Jméno, příjmení / obchodní jméno dodavatele:** Uveďte jméno, příjmení / obchodní jméno osoby, která uskutečnila plnění.
+
+**DIČ dodavatele:** Uveďte kmenovou část (tj. pouze číselná část) daňového identifikačního čísla osoby, která uskutečnila plnění.
+
+**Číslo dokladu:** Uveďte číslo přijatého dokladu, u kterého uplatňujete nárok na vrácení bezdůvodně zaplacené daně. Číslo dokladu může být v jednotlivých řádcích uvedeno opakovaně.
+
+**Den uskutečnění zdanitelného plnění (DUZP) / Den přijetí úplaty (DPP):** Uveďte datum uskutečnění přijatého plnění. V případě, že byla daň přiznána z poskytnuté úplaty, uveďte den přijetí úplaty.
+
+**Předmět daně:** Uveďte předmět přijatého plnění, u kterého byla bezdůvodně zaplacena částka daně.
+
+**Datum zaplacení:** Uveďte datum, kdy byla částka uvedená na dokladu včetně daně za toto plnění osobě, která plnění uskutečnila, zaplacena. Pokud byla úhrada provedena několika platbami v různé dny, uveďte data všech těchto plateb (§ 81 odst. 1 písm. e) bod 1 zákona o DPH).
+
+**Odpočet daně uplatněn za zdaňovací období:** Uveďte zdaňovací období, ve kterém byl příjemcem plnění uplatněn odpočet daně.
+
+**Dodatečné daňové přiznání bylo podáno dne:** V případě, že příjemce plnění nepřiznal daň za toto plnění ve správné výši, uplatnil odpočet daně za toto plnění ve vyšší výši nebo jej uplatnil za pozdější zdaňovací období, než ve kterém jej mohl v souladu s § 73 odst. 4 zákona o DPH uplatnit, uvede datum podání dodatečného daňového přiznání, ve kterém přiznal daň u tohoto plnění, provedl opravu odpočtu daně na správnou výši.
+
+**Daň z přidané hodnoty – základ daně uvedený na dokladu:** Uveďte základ daně uvedený na přijatém dokladu u plnění, u kterého byla bezdůvodně zaplacena částka daně.
+
+**Daň z přidané hodnoty – sazba daně uvedená na dokladu:** Uveďte sazbu daně, která byla u plnění uvedena na přijatém dokladu.
+
+**Daň z přidané hodnoty – výše daně uvedená na dokladu:** Uveďte výši daně, která byla osobou uskutečňující plnění na dokladu uvedena.
+
+**Důvod nesprávného uvedení daně:** Dle předmětu plnění uveďte kód pochybení plátce daně, který plnění uskutečnil:
+
+1 - uplatnění nesprávné sazby daně
+
+2 - plnění není zdanitelným plněním
+
+3 - u plnění měl povinnost přiznat daň příjemce plnění.
+
+**Daň z přidané hodnoty – sazba daně dle zákona**o DPH**:** Dle předmětu plnění uveďte správnou sazbu daně, která měla být u plnění uplatněna. Pokud mělo být plnění osvobozeno od daně nebo měl povinnost přiznat daň příjemce plnění, nevyplňujte.
+
+**Daň z přidané hodnoty – výše daně dle zákona**o DPH**:** Dle předmětu plnění uveďte správnou výši daně, která měla být u plnění uplatněna v souladu se zákonem o DPH. Pokud mělo být plnění osvobozeno od daně nebo měl povinnost přiznat daň příjemce plnění, nevyplňujte.
+
+**Daň z přidané hodnoty – nárok na vrácení daně:** Uveďte výši Vámi uplatňovaného nároku na vrácení daně u předmětného plnění. Nárok na vrácení daně vzniká ve výši bezdůvodně zaplacené částky daně, která je bezdůvodným obohacením (§ 81 odst. 2 zákona o DPH).
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHA:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte celkový součet nároků na vrácení daně uplatněný v příslušné příloze.
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHY:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte součet řádků „Nárok na vrácení daně – CELKEM PŘÍLOHA“ z jednotlivých příloh.
+
+**Nárok na vrácení daně CELKEM:** Uveďte celkový nárok na vrácení daně (součet jednotlivých nároků) uplatněný v tomto daňovém přiznání. Jde o součet řádků „Nárok na vrácení daně – součet hodnot sl. 14 z předchozích řádků“ a „Nárok na vrácení daně – CELKEM PŘÍLOHY“.
+
+#### Dodatečné daňové přiznání
+
+Dodatečné daňové přiznání pro vrácení daně se předkládá samostatně vždy ke konkrétnímu dříve podanému řádnému daňovému přiznání pro vrácení daně, a to do konce měsíce následujícího po zjištění důvodu pro jeho podání podle § 141 odst. 1 daňového řádu. Daňový subjekt je povinen dodatečné daňové přiznání podat, pokud zjistí, že daň má být vyšší než poslední známá daň. Ve lhůtě pro podání dodatečného daňového přiznání je daňový subjekt povinen rozdílnou částku rovněž uhradit. Tato povinnost trvá, pokud běží lhůta pro stanovení daně. Poslední známá daň je výsledná daň, jak byla správcem daně dosud pravomocně stanovena v dosavadním průběhu daňového řízení o této dani.
+
+Daňový subjekt je oprávněn za podmínek stanovených v § 141 odst. 2 a 3 daňového řádu podat dodatečné daňové přiznání pro vrácení daně na daň nižší, než je poslední známá daň, nebo podle § 141 odst. 4 daňového řádu dodatečné přiznání, kterým se nemění poslední známá daň, ale pouze údaje dříve tvrzené (v těchto dvou případech uvede v příloze důvody pro jeho podání podle § 141 odst. 5 daňového řádu).
+
+Dodatečné daňové přiznání pro vrácení daně se podává na shodném tiskopise jako řádné přiznání pro vrácení daně, na jehož první straně se označí jako dodatečné a uvede se den, kdy byly zjištěny skutečnosti zakládající povinnost nebo možnost podat dodatečné přiznání.
+
+V dodatečném přiznání se uvádí pouze rozdíly od údajů, ze kterých byla stanovena poslední známá daň.
+
+**Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání:** Vyplňte pouze při podání dodatečného daňového přiznání (kladná či záporná hodnota). V případě záporné částky je daňový subjekt povinen ji uhradit ve lhůtě pro podání dodatečného daňového přiznání (náhradní lhůta splatnosti podle § 141 odst. 7 daňového řádu). V případě kladné částky může daňový subjekt podat žádost o vrácení případného přeplatku podle § 155 daňového řádu.
+
+**Opravné daňové přiznání:**
+
+Před uplynutím lhůty k podání daňového přiznání může daňový subjekt nahradit daňové přiznání, které již podal, opravným daňovým přiznáním (zaškrtne „řádné“ a zároveň „opravné“). V řízení se dále postupuje podle tohoto opravného daňového přiznání a k předchozímu daňovému přiznání se nepřihlíží. Takto lze nahradit i dodatečná daňová přiznání (zaškrtne „dodatečné“ a zároveň „opravné“) nebo již podaná opravná přiznání (§ 138 daňového řádu).
+
+### Příloha č. 4
+
+<table><tbody><tr><td colspan="2"><b>Přiznání pro vrácení daně z přidané hodnoty podle § 83 a § 83a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td>25 5573 MFin 5573<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro hlavní město Prahu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Číslo daňového subjektu</td></tr><tr><td></td><td>Daňové přiznání</td></tr><tr><td></td><td>Důvody pro podání dodatečného daňového přiznání zjištěny dne</td></tr><tr><td></td><td>Počet příloh / listů</td></tr><tr><td></td><td>Titul pro vrácení daně</td></tr><tr><td></td><td>Za období čtvrtletí - rok</td></tr><tr><td colspan="2"><b>A. ODDÍL</b></td></tr><tr><td colspan="2"><b>Údaje o daňovém subjektu</b></td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Sídlo právnické osoby / adresa místa pobytu fyzické osoby:</td></tr><tr><td></td><td>a) obec</td></tr><tr><td></td><td>b) PSČ</td></tr><tr><td></td><td>c) telefon</td></tr><tr><td></td><td>d) ulice (nebo část obce)</td></tr><tr><td></td><td>e) číslo popisné / orientační</td></tr><tr><td></td><td>f) adresa elektronické pošty</td></tr><tr><td></td><td>g) stát</td></tr><tr><td></td><td>Předmět činnosti</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Orgán daňové správy v zemi, kde má daňový subjekt sídlo / místo pobytu</td></tr><tr><td></td><td>Identifikační číslo pro DPH v zemi, kde má daňový subjekt sídlo / místo pobytu</td></tr><tr><td></td><td>Daňové evidenční číslo (DEČ) v případě, že je daňový subjekt registrován k zvláštnímu režimu</td></tr><tr><td></td><td>jednoho správního místa (OSS)</td></tr><tr><td colspan="2"><b>Účet u poskytovatele platebních služeb</b></td></tr><tr><td></td><td>účet v ČR vedený v CZK:</td></tr><tr><td></td><td>číslo účtu / směrový (identifikační) kód</td></tr><tr><td></td><td>účet vedený v zahraničí nebo účet v cizí měně:</td></tr><tr><td></td><td>IBAN</td></tr><tr><td></td><td>typ ID banky</td></tr><tr><td></td><td>ID banky</td></tr><tr><td></td><td>měna, ve které je účet veden</td></tr><tr><td></td><td>název účtu</td></tr><tr><td></td><td>název banky</td></tr><tr><td></td><td>ulice banky</td></tr><tr><td></td><td>město banky</td></tr><tr><td></td><td>PSČ (ZIP-code) banky</td></tr><tr><td></td><td>stát</td></tr><tr><td colspan="2"><b>B. ODDÍL</b></td></tr><tr><td colspan="2"><b>Nárok na vrácení daně z přijatého zdanitelného plnění v tuzemsku na základě principu vzájemnosti (</b><b>§ 83</b><b>)</b></td></tr><tr><td colspan="2"><b>Přijatá plnění, u kterých je uplatňován nárok na vrácení daně</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Den uskutečnění zdanitelného plnění / Den přijetí úplaty</td></tr><tr><td>sl. 4</td><td>DIČ dodavatele</td></tr><tr><td>sl. 5</td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 6</td><td>Předmět daně</td></tr><tr><td>sl. 7</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - nárok na vrácení daně - základní sazba daně</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - nárok na vrácení daně - snížená sazba daně</td></tr><tr><td>sl. 11</td><td>Daň z přidané hodnoty - nárok na vrácení daně vztahující se k OSS - základní sazba daně</td></tr><tr><td>sl. 12</td><td>Daň z přidané hodnoty - nárok na vrácení daně vztahující se k OSS - snížená sazba daně</td></tr><tr><td></td><td>Nárok na vrácení daně - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně vztahující se k OSS - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně vztahující se k OSS - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM PŘÍLOHY</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM</td></tr><tr><td></td><td>Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání</td></tr><tr><td colspan="2"><b>C. ODDÍL</b></td></tr><tr><td colspan="2"><b>Nárok na vrácení daně při pořízení zboží z jiného členského státu Evropské unie nebo dovozu zboží (§ 83a)</b></td></tr><tr><td colspan="2"><b>Uskutečněné (následné) zdanitelné plnění</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Den uskutečnění zdanitelného plnění / Den přijetí úplaty</td></tr><tr><td>sl. 4</td><td>DIČ odběratele</td></tr><tr><td>sl. 5</td><td>Jméno, příjmení / obchodní jméno odběratele</td></tr><tr><td>sl. 6</td><td>Předmět daně</td></tr><tr><td>sl. 7</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td colspan="2"><b>Zboží pořízené z jiného členského státu nebo dovezené zboží</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Pořízení zboží z jiného členského státu - Datum podání daňového přiznání</td></tr><tr><td>sl. 4</td><td>Pořízení zboží z jiného členského státu - Daňové přiznání podáno za zdaňovací období</td></tr><tr><td>sl. 5</td><td>Dovoz zboží - datum zaplacení daně</td></tr><tr><td>sl. 6</td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 7</td><td>Předmět daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - nárok na vrácení daně - základní sazba daně</td></tr><tr><td>sl. 11</td><td>Daň z přidané hodnoty - nárok na vrácení daně - snížená sazba daně</td></tr><tr><td></td><td>Nárok na vrácení daně - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM PŘÍLOHY</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM</td></tr><tr><td></td><td>Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(-a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td colspan="2"><b>Jméno(-a) a příjmení / Vztah k právnické osobě</b></td></tr><tr><td colspan="2"><b>Daňový subjekt / osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Razítko</td></tr><tr><td></td><td>Vlastnoruční podpis</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2">25 5573/A MFin 5573/A</td></tr><tr><td colspan="2"><b>Příloha k daňovému přiznání pro vrácení daně podle § 83a § 83a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td colspan="2"><b>B. ODDÍL</b></td></tr><tr><td colspan="2"><b>Nárok na vrácení daně z přijatého zdanitelného plnění v tuzemsku na základě principu vzájemnosti (</b><b>§ 83</b><b>)</b></td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Pořadové číslo</td></tr><tr><td></td><td>Jméno a příjmení fyzické osoby / Název právnické osoby</td></tr><tr><td></td><td>Za období</td></tr><tr><td colspan="2"><b>Přijatá plnění, u kterých je uplatňován nárok na vrácení daně</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Den uskutečnění zdanitelného plnění / Den přijetí úplaty</td></tr><tr><td>sl. 4</td><td>DIČ dodavatele</td></tr><tr><td>sl. 5</td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 6</td><td>Předmět daně</td></tr><tr><td>sl. 7</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - nárok na vrácení daně - základní sazba daně</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - nárok na vrácení daně - snížená sazba daně</td></tr><tr><td>sl. 11</td><td>Daň z přidané hodnoty - nárok na vrácení daně vztahující se k OSS - základní sazba daně</td></tr><tr><td>sl. 12</td><td>Daň z přidané hodnoty - nárok na vrácení daně vztahující se k OSS - snížená sazba daně</td></tr><tr><td></td><td>Nárok na vrácení daně - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně vztahující se k OSS - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně vztahující se k OSS - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM PŘÍLOHA</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2">25 5573/B MFin 5573/B</td></tr><tr><td colspan="2"><b>Příloha k daňovému přiznání pro vrácení daně podle </b><b>§ 83 a § 83a zákona č. 235/2004 Sb.</b><b>, o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td colspan="2"><b>C. ODDÍL</b></td></tr><tr><td colspan="2"><b>Nárok na vrácení daně při pořízení zboží z jiného členského státu Evropské unie nebo dovozu zboží (</b><b>§ 83a</b><b>)</b></td></tr><tr><td colspan="2"><b>Uskutečněné následné zdanitelné plnění</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Datum uskutečnění zdanitelného plnění</td></tr><tr><td>sl. 4</td><td>DIČ odběratele</td></tr><tr><td>sl. 5</td><td>Jméno, příjmení / obchodní jméno odběratele</td></tr><tr><td>sl. 6</td><td>Předmět daně</td></tr><tr><td>sl. 7</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td colspan="2"><b>Zboží pořízené z jiného členského státu nebo dovezené zboží</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Pořízení zboží z jiného členského státi - Datum podání daňového přiznání</td></tr><tr><td>sl. 4</td><td>Pořízení zboží z jiného členského státi - Daňové přiznání podáno za zdaňovací období</td></tr><tr><td>sl. 5</td><td>Dovoz zboží - datum zaplacení daně</td></tr><tr><td>sl. 6</td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 7</td><td>Předmět daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - nárok na vrácení daně - základní sazba daně</td></tr><tr><td>sl. 11</td><td>Daň z přidané hodnoty - nárok na vrácení daně - snížená sazba daně</td></tr><tr><td></td><td>Nárok na vrácení daně - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM PŘÍLOHA</td></tr></tbody></table>
+
+#### POKYNY k vyplnění Přiznání pro vrácení daně z přidané hodnoty podle § 83 a § 83a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů
+
+25 5573/1 MFin 5573/1
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+#### Obecně k vracení daně podle § 83 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“) – princip vzájemnosti
+
+V daňového přiznání pro vrácení daně uplatňují nárok na vrácení daně z přidané hodnoty z přijatého zdanitelného plnění s místem plnění v tuzemsku podle **§ 83** zákona o DPH, zahraniční osoby na základě principu vzájemnosti.
+
+Princip vzájemnosti je splněn, pokud jsou splněny dvě podmínky. První je skutečnost, že osobě povinné k dani se sídlem v tuzemsku je na základě mezinárodní smlouvy nebo jiného ujednání vracena daň z přidané hodnoty nebo obdobná všeobecná daň ze spotřeby ve státě, ve kterém má zahraniční osoba uplatňující nárok na vrácení daně sídlo. Druhou podmínkou je, že tento stát, ve kterém má zahraniční osoba sídlo, je uveden v seznamu států, u nichž je splněn princip vzájemnosti, který zveřejňuje Ministerstvo financí ve Finančním zpravodaji. S účinností od 1. ledna 2025 byl publikován ve Finančním zpravodaji č. 21/2024 tento seznam států: Bosna a Hercegovina, Norské království, Spojené království Velké Británie a Severního Irska, Švýcarská konfederace. Před podáním přiznání se doporučuje zkontrolovat, zda nedošlo k vydání nového seznamu ve Finančním zpravodaji.
+
+V případě vracení daně, vztahující se k uskutečněnému vybranému plnění, na které byl použit režim jednoho správního místa, se naplnění principu vzájemnosti neposuzuje.
+
+Nárok na vrácení daně na základě principu vzájemnosti může zahraniční osoba uplatnit do konce kalendářního roku bezprostředně následujícího po kalendářním roce, ve kterém se uskutečnilo zdanitelné plnění dodání zboží nebo poskytnutí služeb (§ 83 odst. 5 zákona o DPH). Pokud v uvedených lhůtách nebyl nárok na vrácení daně uplatněn, zaniká (§ 86e zákona o DPH).
+
+#### Obecně k vracení daně podle § 83a zákona o DPH – pořízení zboží z jiného členského státu/dovoz zboží zahraniční osobou
+
+Podle ustanovení **§ 83a** zákona o DPH uplatňuje nárok na vrácení daně z přidané hodnoty při pořízení zboží z jiného členského státu Evropské unie nebo dovozu zboží zahraniční osoba, která není plátcem a která pořízené nebo dovezené zboží použila pro uskutečnění zdanitelného plnění s místem plnění v tuzemsku, u kterého má povinnost přiznat daň osoba, která toto plnění přijala (§ 108 odst. 3 zákona o DPH).
+
+Pokud je nárok na vrácení daně uplatňován podle **§ 83a** zákona o DPH při pořízení zboží z jiného členského státu nebo dovozu zboží, začne lhůta pro jeho uplatnění běžet prvním dnem druhého kalendářního měsíce bezprostředně následujícího po kalendářním čtvrtletí, ve kterém došlo k uskutečnění následného zdanitelného plnění, u kterého má povinnost přiznat daň osoba, která toto plnění přijala. Tato lhůta skončí posledním dnem kalendářního roku, který následuje po kalendářním roce, ve kterém došlo k uskutečnění pořízení zboží z jiného členského státu nebo dovozu zboží (§ 83a odst. 5 zákona o DPH). Pokud v uvedených lhůtách nebyl nárok na vrácení daně uplatněn, zaniká (§ 86e zákona o DPH).
+
+#### Obecně k opravě vrácené daně
+
+Provádí-li zahraniční osoba opravu vrácené daně na základě skutečnosti, že u přijatého zdanitelného plnění nastaly skutečnosti rozhodné pro provedení opravy základu daně, uvede tuto opravu do daňového přiznání pro vrácení daně, které je povinna podat do konce kalendářního měsíce bezprostředně následujícího po kalendářním měsíci, ve kterém se dozvěděla nebo dozvědět měla a mohla, že nastaly skutečnosti rozhodné pro provedení opravy základu daně, na základě kterých je povinna vrácenou daň snížit. Toto přiznání lze podat nejdříve po obdržení opravného daňového dokladu (§ 83b odst. 3 zákona o DPH).
+
+#### K náležitostem daňového přiznání
+
+**Finančnímu úřadu:** Místně příslušným správcem daně pro vracení daně podle ustanovení § 83 a § 83a zákona o DPH je Finanční úřad pro hlavní město Prahu (§ 86d zákona o DPH).
+
+**Číslo daňového subjektu:** Uveďte číslo, pod kterým jste vedeni správcem daně, pokud je znáte. Případně uveďte kmenovou část (pouze číselná část) daňového identifikačního čísla, bylo-li Vám přiděleno.
+
+**Daňové přiznání řádné / dodatečné:** Křížkem vyznačte typ podávaného přiznání (řádné nebo dodatečné). V případě dodatečného přiznání uveďte v příslušné kolonce den zjištění důvodů pro podání tohoto přiznání (§ 141 odst. 1 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“)). Podání opravného daňového přiznání je vyloučeno (§ 86h zákona o DPH).
+
+**Počet příloh / listů:** Uveďte počet příloh daňového přiznání a celkový počet listů.
+
+K daňovému přiznání pro vrácení daně musí osoba, která uplatňuje nárok na vrácení daně na základě principu vzájemnosti podle § 83 zákona o DPH přiložit:
+
+\- kopii daňového dokladu nebo dokladu o zaplacení, jde-li o vrácení daně z dovezeného zboží, a
+
+\- potvrzení, že je osobou registrovanou k dani z přidané hodnoty nebo obdobné všeobecné dani ze spotřeby ve třetí zemi, které vystaví příslušný úřad ke správě daně v zemi, kde je zahraniční osoba registrována. Má-li však již Finanční úřad pro hlavní město Prahu toto potvrzení, nemusí daňový subjekt předkládat nové potvrzení po dobu jednoho roku ode dne vydání prvního potvrzení.
+
+Osoby registrované k zvláštnímu režimu jednoho správního místa, které v daňovém přiznání pro vrácení daně uvedly své daňové evidenční číslo a žádají o vrácení daně vztahující se pouze k vybranému plnění, na které byl použit zvláštní režim jednoho správního místa, nemusí předkládat potvrzení o tom, že jsou osobou povinnou k dani ve státě svého usazení.
+
+K daňovému přiznání pro vrácení daně musí osoba, která uplatňuje nárok na vrácení daně při pořízení zboží z jiného členského státu nebo dovozu zboží podle § 83a zákona o DPH přiložit:
+
+\- kopii daňového dokladu, který obdržela při pořízení zboží z jiného členského státu, nebo daňový doklad při dovozu zboží
+
+\- kopii daňového dokladu, který vystavila při uskutečnění následného zdanitelného plnění, u kterého má povinnost přiznat daň osoba, která toto plnění přijala (kupující)
+
+**Titul pro vrácení daně:** Křížkem vyznačte příslušné ustanovení zákona o DPH, podle kterého žádáte o vrácení daně.
+
+**Za období:** Uveďte období (kalendářní čtvrtletí a rok), za které se daňové přiznání pro vrácení daně podává. Daňové přiznání lze podat jednou za kalendářní čtvrtletí (§ 86f odst. 2 písm. a) zákona o DPH).
+
+A. **ODDÍL**
+
+##### Údaje o daňovém subjektu
+
+**Název právnické osoby:** Uveďte obchodní jméno tak, jak je zapsáno v obchodním rejstříku nebo obdobném veřejném rejstříku, případně název, pod kterým byla právnická osoba zřízena.
+
+**Příjmení:** Uveďte aktuálně používané (používaná) příjmení.
+
+**Jméno:** Uveďte jméno ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Sídlo právnické osoby / adresa místa pobytu fyzické osoby:** Uveďte zahraniční adresu sídla právnické osoby/ místa pobytu fyzické osoby včetně státu.
+
+**Telefon:** Uveďte telefonní číslo, na kterém jste k zastižení. Jedná se o nepovinný údaj, přesto je doporučeno ho uvést pro případnou neformální komunikaci pro potřeby správce daně.
+
+**Adresa elektronické pošty:** Uveďte e-mailovou adresu, na které Vás může tuzemský správce daně kontaktovat nebo na kterou Vám může doručovat písemnosti. Zahraniční osoba je v daňovém přiznání nebo dodatečném daňovém přiznání pro vrácení daně povinna uvést adresu elektronické pošty (e-mail) (§ 83b odst. 2 zákona o DPH).
+
+**Předmět činnosti:** Uveďte druh činnosti, pro jejíž účely bylo zboží nebo služby, u kterých je uplatňován nárok na vrácení daně, nakoupeny.
+
+**Orgán daňové správy v zemi, kde má daňový subjekt sídlo / místo pobytu:** Uveďte název a adresu příslušného úřadu pro správu daně v zemi, ve které máte sídlo / místo pobytu.
+
+**Identifikační číslo pro DPH v zemi, kde má daňový subjekt sídlo / místo pobytu:** Uveďte identifikační číslo (DIČ) pro DPH v zemi, ve které máte sídlo / místo pobytu.
+
+**Daňové evidenční číslo (DEČ):** Pokud jste registrováni ke zvláštnímu režimu jednoho správního místa (OSS), uveďte daňové evidenční číslo (DEČ), a to bez ohledu na to, v jakém členském státě jste ke zvláštnímu režimu registrováni.
+
+**Účet u poskytovatele platebních služeb:**
+
+Uveďte účet, na který chcete daň vrátit. Daň vám bude vrácena, pokud v důsledku vyměření nebo doměření vznikne tzv. vratitelný přeplatek (nebudou existovat nedoplatky). Vratitelný přeplatek se vrací vždy bezhotovostním převodem na účet vedený u poskytovatele platebních služeb, který určíte. V případě bezhotovostního převodu na účet vedený u poskytovatele platebních služeb mimo území Evropské unie jde úhrada nákladů na převod za žadatelem.
+
+**Účet u poskytovatele platebních služeb:** Uveďte údaje k účtu se vztahující.
+
+**Pokud se jedná o účty vedené u českých bank, není třeba vyplňovat údaje:** Typ ID banky / ID banky / Název účtu / Název banky / Ulice banky / Město banky / PSČ banky / Stát.
+
+V položce „typ ID banky“ vyplňte typ identifikace banky, tj. např. BIC, FW, SC. V položce „Název účtu“ uveďte název nebo jméno vlastníka účtu.
+
+B. **ODDÍL**
+
+##### Nárok na vrácení daně z přijatého zdanitelného plnění v tuzemsku na základě principu vzájemnosti (§ 83)
+
+Tento oddíl vyplňují pouze zahraniční osoby, které uplatňují nárok na vrácení daně na základě principu vzájemnosti podle § 83 zákona o DPH.
+
+V daňovém přiznání pro vrácení daně lze uplatnit jeden nebo více nároků na vrácení daně, u nichž běží lhůta pro uplatnění nároku na vrácení daně (§ 86f odst. 1 zákona o DPH). Celková výše daně, o jejíž vrácení je žádáno, musí činit nejméně 7 000 Kč. Je-li nárok na vrácení daně uplatněn pouze jednou za kalendářní rok, a to v posledním kalendářním čtvrtletí tohoto roku, musí činit celková výše daně, o jejíž vrácení je žádáno, částku nejméně 1 000 Kč.
+
+Do řádků se uvádějí údaje převzaté z jednotlivých dokladů vystavených plátci daně z přidané hodnoty, kteří dodali zboží nebo poskytli službu.
+
+Pokud je větší počet dokladů než řádků, použijte zvláštní přílohu.
+
+V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte v jejím záhlaví pořadové číslo přílohy, jméno a příjmení fyzické osoby, resp. název právnické osoby a období, za které daňové přiznání podáváte.
+
+##### Přijatá plnění, u kterých je uplatňován nárok na vrácení daně na základě principu vzájemnosti
+
+**Evidenční číslo daňového dokladu:** Uveďte evidenční číslo daňového dokladu nebo dokladu o prodeji zboží nebo o poskytnutí služby, na základě kterého uplatňujete nárok na vrácení daně.
+
+**Den uskutečnění zdanitelného plnění (DUZP) / Den přijetí úplaty (DPP):** Uveďte datum uskutečnění přijatého plnění. V případě, že byla daň přiznána z poskytnuté úplaty, uveďte den přijetí úplaty.
+
+**DIČ dodavatele:** Uveďte kmenovou část (tj. pouze číselná část) daňového identifikačního čísla osoby, která dodala zboží nebo uskutečnila službu.
+
+**Jméno, příjmení / obchodní jméno dodavatele:** Uveďte jméno, příjmení / obchodní jméno osoby, která dodala zboží nebo uskutečnila službu.
+
+**Předmět daně:** Uveďte předmět přijatého plnění, druh zboží nebo služeb.
+
+**Daň z přidané hodnoty – základ daně – základní sazba daně / Daň z přidané hodnoty – základ daně – snížená sazba daně:** Uveďte základ daně vyčíslený na dokladu v příslušné sazbě daně.
+
+**Daň z přidané hodnoty – nárok na vrácení daně – základní sazba daně / Daň z přidané hodnoty – nárok na vrácení daně – snížená sazba daně:** Uveďte částku daně, jejíž vrácení nárokujete, dle příslušné sazby daně. Pokud se přijaté plnění vztahuje k uskutečněnému vybranému plnění, na které byl použit režim jednoho správního místa, údaje uveďte v následujícím sloupci /následujících sloupcích, tj. sl. 11 nebo sl. 12.
+
+**Nárok na vrácení daně – základní sazba daně – CELKEM / Nárok na vrácení daně – snížená sazba daně – CELKEM:** Uveďte celkový součet nároků na vrácení daně dle jednotlivých sazeb daně uvedených na předcházejících řádcích ve sloupci 9, resp. sloupci 10.
+
+**Daň z přidané hodnoty – nárok na vrácení daně vztahující se k OSS – základní sazba daně / Daň z přidané hodnoty – nárok na vrácení daně vztahující se k OSS – snížená sazba daně:** Pokud se přijaté plnění vztahuje k uskutečněnému vybranému plnění, na které byl použit režim jednoho správního místa, uveďte částku daně, jejíž vrácení nárokujete, dle příslušné sazby daně.
+
+**Nárok na vrácení daně vztahující se k OSS – základní sazba daně – CELKEM / Nárok na vrácení daně vztahující se k OSS – snížená sazba daně – CELKEM:** Uveďte celkový součet nároků na vrácení daně dle jednotlivých sazeb daně uvedených na předcházejících řádcích ve sloupci 11, resp. sloupci 12
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHA:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte celkový součet nároků na vrácení daně uplatněný v příslušné příloze. Jde o součet řádků “Nárok na vrácení daně – základní sazba daně – CELKEM“, “Nárok na vrácení daně – snížená sazba daně – CELKEM“, “Nárok na vrácení daně vztahující se k OSS – základní sazba daně – CELKEM“ a “Nárok na vrácení daně vztahující se k OSS – snížená sazba daně – CELKEM“.
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHY:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte celkový součet nároků na vrácení daně vyčíslený v jednotlivých přílohách. Jedná se o součet řádků “Nárok na vrácení daně – CELKEM PŘÍLOHA“ ze všech vkládaných příloh.
+
+**Nárok na vrácení daně – CELKEM:** Uveďte celkový nárok na vrácení daně (součet jednotlivých nároků) uplatněný v B. ODDÍLU tohoto daňového přiznání. Jedná se o součet řádků “Nárok na vrácení daně – základní sazba daně – CELKEM“, “Nárok na vrácení daně – snížená sazba daně – CELKEM“, “Nárok na vrácení daně vztahující se k OSS – základní sazba daně – CELKEM“, “Nárok na vrácení daně vztahující se k OSS – snížená sazba daně – CELKEM“ a “Nárok na vrácení daně – CELKEM PŘÍLOHY“. Celkový nárok na vrácení daně zaokrouhlete na celé Kč nahoru.
+
+C. **ODDÍL**
+
+##### Nárok na vrácení daně při pořízení zboží z jiného členského státu EU nebo dovozu zboží (§ 83a)
+
+Tento oddíl vyplňují pouze zahraniční osoby, které uplatňují nárok na vrácení daně při pořízení zboží z jiného členského státu Evropské unie nebo dovozu zboží podle § 83a zákona o DPH.
+
+V daňovém přiznání pro vrácení daně lze uplatnit jeden nebo více nároků na vrácení daně, u nichž běží lhůta pro uplatnění nároku na vrácení daně (§ 86f odst. 1 zákona o DPH). Celková výše daně, o jejíž vrácení je žádáno, musí činit nejméně 7 000 Kč. Je-li nárok na vrácení daně uplatněn pouze jednou za kalendářní rok, a to v posledním kalendářním čtvrtletí tohoto roku, musí činit celková výše daně, o jejíž vrácení je žádáno, částku nejméně 1 000 Kč.
+
+Do řádků se uvádějí údaje převzaté z jednotlivých dokladů / rozhodnutí.
+
+Pokud je větší počet dokladů než řádků, použijte zvláštní přílohu.
+
+V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte v jejím záhlaví pořadové číslo přílohy, jméno a příjmení fyzické osoby, resp. název právnické osoby a období, za které daňové přiznání podáváte.
+
+##### Uskutečněné následné zdanitelné plnění
+
+**Evidenční číslo daňového dokladu:** Uveďte evidenční číslo daňového dokladu vystaveného při uskutečnění následného zdanitelného plnění, u kterého má povinnost přiznat daň osoba, která toto plnění přijala.
+
+**Den uskutečnění zdanitelného plnění (DUZP) / Den přijetí úplaty (DPP):** Uveďte datum uskutečnění přijatého plnění. V případě, že byla daň přiznána z poskytnuté úplaty, uveďte den přijetí úplaty.
+
+**DIČ odběratele:** Uveďte kmenovou část (tj. pouze číselná část) daňového identifikačního čísla osoby, které bylo zboží dodáno nebo služba poskytnuta.
+
+**Jméno, příjmení / obchodní jméno odběratele:** Uveďte jméno, příjmení / obchodní jméno osoby, které bylo dodáno zboží nebo poskytnuta služba.
+
+**Předmět daně:** Uveďte předmět uskutečněného následného plnění, druh zboží nebo služeb.
+
+**Daň z přidané hodnoty – základ daně – základní sazba daně / Daň z přidané hodnoty – základ daně – snížená sazba daně:** Uveďte základ daně vyčíslený na dokladu v příslušné sazbě daně.
+
+##### Zboží pořízené z jiného členského státu nebo dovezené zboží
+
+**Evidenční číslo daňového dokladu:** Uveďte evidenční číslo daňového dokladu při pořízení zboží z jiného členského státu. Při dovozu zboží uveďte číslo jednací rozhodnutí o propuštění zboží do celního režimu, ve kterém vznikla povinnost zaplatit daň, nebo číslo jednací jiného rozhodnutí o vyměřené dani vydaného celním úřadem, pokud byla daň zaplacena.
+
+**Pořízení zboží z jiného členského státu – Datum podání daňového přiznání:** V případě pořízení zboží z jiného členského státu uveďte datum podání daňového přiznání, ve kterém byla daň z tohoto pořízení přiznána.
+
+**Pořízení zboží z jiného členského státu – Daňové přiznání podáno za zdaňovací období:** V případě pořízení zboží z jiného členského státu uveďte zdaňovací období, za které bylo daňové přiznání podáno.
+
+**Dovoz zboží – datum zaplacení daně:** Uveďte datum zaplacení daně celnímu úřadu při dovozu zboží.
+
+**Jméno, příjmení / obchodní jméno dodavatele:** Uveďte jméno, příjmení / obchodní jméno osoby, která dodala zboží nebo uskutečnila službu.
+
+**Předmět daně:** Uveďte předmět přijatého plnění, druh zboží nebo služeb.
+
+**Daň z přidané hodnoty – základ daně – základní sazba daně / Daň z přidané hodnoty – základ daně – snížená sazba daně:** Uveďte základ daně vyčíslený na dokladu v příslušné sazbě daně.
+
+**Daň z přidané hodnoty – nárok na vrácení daně – základní sazba daně / Daň z přidané hodnoty – nárok na vrácení daně – snížená sazba daně:** Uveďte částku daně, jejíž vrácení nárokujete, dle příslušné sazby daně.
+
+**Nárok na vrácení daně – základní sazba daně – CELKEM / Nárok na vrácení daně – snížená sazba daně – CELKEM:** Uveďte celkový součet nároků na vrácení daně dle jednotlivých sazeb daně uvedených na předcházejících řádcích ve sloupci 10, resp. sloupci 11.
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHA:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte celkový součet nároků na vrácení daně uplatněný v příslušné příloze. Jde o součet řádků “Nárok na vrácení daně – základní sazba daně – CELKEM“ a „Nárok na vrácení daně – snížená sazba daně – CELKEM“.
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHY:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte celkový součet nároků na vrácení daně vyčíslený v jednotlivých přílohách. Jedná se o součet řádků “Nárok na vrácení daně – CELKEM PŘÍLOHA“ ze všech vkládaných příloh
+
+**Nárok na vrácení daně – CELKEM:** Uveďte celkový nárok na vrácení daně (součet jednotlivých nároků) uplatněný v C. ODDÍLU tohoto daňového přiznání. Jedná se o součet řádků “Nárok na vrácení daně – základní sazba daně – CELKEM“, „Nárok na vrácení daně – snížená sazba daně – CELKEM“ a „Nárok na vrácení daně – CELKEM PŘÍLOHY“. Celkový nárok na vrácení daně zaokrouhlete na celé Kč nahoru.
+
+##### Údaje o podepisující osobě
+
+Tyto údaje budou vyplňovány pouze v případech, kdy je přiznání zpracováváno a podáváno osobou odlišnou od daňového subjektu, tzn. v případech, kdy daňový subjekt činí podání sám za sebe, tuto část nevyplňuje.
+
+**Kód podepisující osoby:** Vyplňte číselný kód podle níže uvedených typů podepisujících osob:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+Pozn. kódy 5b, 6b, 7b mají přednost před obecnými druhy zastoupení s nižšími čísly kódů.
+
+**Datum narození / Evidenční číslo osvědčení daňového poradce / IČO právnické osoby:** Vyplňte datum narození podepisující osoby odlišné od daňového subjektu – fyzické osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby, nebo identifikační číslo právnické osoby odlišné od daňového subjektu.
+
+**Fyzická osoba oprávněná k podpisu (je-li daňový subjekt či podepisující osoba právnickou osobou) s uvedením vztahu k právnické osobě (např. jednatel, pověřený pracovník apod.):** Tyto údaje vyplňte pouze v případech, kdy je podání podáváno právnickou osobou, včetně případů, kdy je právnická osoba v postavení podepisující osoby odlišné od daňového subjektu.
+
+**Otisk razítka (uvádí se pouze v listinné podobě tohoto formuláře):** lze připojit otisk razítka.
+
+**Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu (uvádí se pouze v listinné podobě tohoto formuláře):** podání bude opatřeno vlastnoručním podpisem buď přímo daňovým subjektem – fyzickou osobou činící podání sama za sebe, nebo fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu. V případě podání v elektronické podobě se vlastnoruční podpis nahradí příslušným způsobem autorizace podání (např. identitou občana, uznávaným elektronickým podpisem apod.).
+
+Je-li podepisující osobou fyzická osoba odlišná od daňového subjektu, podání podepisuje tato fyzická osoba; je-li podepisující osobou právnická osoba odlišná od daňového subjektu, podání podepisuje fyzická osoba oprávněná jednat jménem právnické osoby.
+
+##### Dodatečné daňové přiznání
+
+Dodatečné daňové přiznání pro vrácení daně se předkládá samostatně vždy ke konkrétnímu dříve podanému řádnému daňovému přiznání pro vrácení daně, a to do konce měsíce následujícího po zjištění důvodu pro jeho podání podle § 141 odst. 1 daňového řádu. Daňový subjekt je povinen dodatečné daňové přiznání podat, pokud zjistí, že daň má být vyšší než poslední známá daň. Ve lhůtě pro podání dodatečného daňového přiznání je daňový subjekt povinen rozdílnou částku rovněž uhradit. Tato povinnost trvá, pokud běží lhůta pro stanovení daně. Poslední známá daň je výsledná daň, jak byla správcem daně dosud pravomocně stanovena v dosavadním průběhu daňového řízení o této dani.
+
+Daňový subjekt je oprávněn za podmínek stanovených v § 141 odst. 2 a 3 daňového řádu podat dodatečné daňové přiznání pro vrácení daně na daň nižší, než je poslední známá daň, nebo podle § 141 odst. 4 daňového řádu dodatečné přiznání, kterým se nemění poslední známá daň, ale pouze údaje dříve tvrzené (v těchto dvou případech uvede v příloze důvody pro jeho podání podle § 141 odst. 5 daňového řádu).
+
+Dodatečné daňové přiznání pro vrácení daně se podává na shodném tiskopise jako řádné přiznání pro vrácení daně, na jehož první straně se označí jako dodatečné a uvede se den, kdy byly zjištěny skutečnosti zakládající povinnost nebo možnost podat dodatečné přiznání.
+
+V dodatečném přiznání se uvádí pouze rozdíly od údajů, ze kterých byla stanovena poslední známá daň.
+
+**Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání:** Vyplňte pouze při podání dodatečného přiznání (kladná či záporná hodnota). V případě záporné částky je daňový subjekt povinen ji uhradit ve lhůtě pro podání dodatečného daňového přiznání (náhradní lhůta splatnosti podle § 141 odst. 7 daňového řádu). V případě kladné částky může daňový subjekt podat žádost o vrácení případného přeplatku podle § 155 daňového řádu.
+
+### Příloha č. 5
+
+<table><tbody><tr><td colspan="2"><b>Přiznání pro vrácení daně z přidané hodnoty podle § 86 a § 86a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td>25 5574 MFin 5574<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu</td></tr><tr><td></td><td>Číslo daňového subjektu</td></tr><tr><td></td><td>Daňové přiznání</td></tr><tr><td></td><td>Důvody pro podání dodatečného daňového přiznání zjištěny dne</td></tr><tr><td></td><td>Počet příloh / listů</td></tr><tr><td></td><td>Za období měsíc / rok</td></tr><tr><td colspan="2"><b>Údaje o daňovém subjektu</b></td></tr><tr><td colspan="2"><b>Ozbrojené síly jiného státu</b></td></tr><tr><td></td><td>Vojenský orgán ozbrojených sil vysílajícího státu</td></tr><tr><td></td><td>Adresa na území ČR</td></tr><tr><td colspan="2"><b>Ministerstvo obrany</b></td></tr><tr><td></td><td>telefon</td></tr><tr><td></td><td>e-mail</td></tr><tr><td colspan="2"><b>Fyzická osoba</b></td></tr><tr><td></td><td>Příslušník ozbrojených sil jiného státu / Jiná osoba, o které tak stanoví mezinárodní smlouva:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Adresa na území ČR</td></tr><tr><td></td><td>Vysílající stát</td></tr><tr><td></td><td>Člen rodiny příslušníka ozbrojených sil jiného státu:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Adresa na území ČR</td></tr><tr><td colspan="2"><b>Určení způsobu vrácení vratitelného přeplatku</b></td></tr><tr><td colspan="2"><b>Bezhotovostním převodem na účet vedený u poskytovatele platebních služeb</b></td></tr><tr><td></td><td>účet v ČR vedený v CZK:</td></tr><tr><td></td><td>číslo účtu / směrový (identifikační) kód</td></tr><tr><td></td><td>účet vedený v zahraničí nebo účet v cizí měně:</td></tr><tr><td></td><td>IBAN</td></tr><tr><td></td><td>typ ID banky</td></tr><tr><td></td><td>ID banky</td></tr><tr><td></td><td>měna, ve které je účet veden</td></tr><tr><td></td><td>název účtu</td></tr><tr><td></td><td>název banky</td></tr><tr><td></td><td>ulice banky</td></tr><tr><td></td><td>město banky</td></tr><tr><td></td><td>PSČ (ZIP-code) banky</td></tr><tr><td></td><td>stát</td></tr><tr><td colspan="2"><b>Poštovním poukazem</b></td></tr><tr><td></td><td>Na adresu</td></tr><tr><td colspan="2"><b>Přijatá plnění, u kterých je uplatňován nárok na vrácení daně</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Datum uskutečnění zdanitelného plnění</td></tr><tr><td>sl. 4</td><td>DIČ dodavatele</td></tr><tr><td>sl. 5</td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 6</td><td>Předmět daně</td></tr><tr><td>sl. 7</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - nárok na vrácení daně - základní sazba daně</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - nárok na vrácení daně - snížená sazba daně</td></tr><tr><td></td><td>Nárok na vrácení daně - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM PŘÍLOHY</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM</td></tr><tr><td></td><td>Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(-a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(-a) a příjmení / Vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Razítko</td></tr><tr><td></td><td>Vlastnoruční podpis</td></tr><tr><td colspan="2"><b>Daňové přiznání pro vrácení daně podávané prostřednictvím Ministerstva obrany</b></td></tr><tr><td colspan="2"><b>Údaje o účtu Ministerstva obrany vedeném u poskytovatele platebních služeb</b></td></tr><tr><td></td><td>Číslo účtu / směrový (identifikační) kód</td></tr><tr><td></td><td>Název a adresa banky</td></tr><tr><td colspan="2"><b>Osoba oprávněná k podpisu za Ministerstvo obrany</b></td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Funkce</td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Telefon</td></tr><tr><td></td><td>Razítko</td></tr><tr><td></td><td>Vlastnoruční podpis</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2">25 5574/A MFin 5574/A</td></tr><tr><td colspan="2"><b>Příloha k daňovému přiznání pro vrácení daně z přidané hodnoty podle § 86 a § 86a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Pořadové číslo</td></tr><tr><td></td><td>Jméno a příjmení fyzické osoby / Název právnické osoby</td></tr><tr><td></td><td>Za období</td></tr><tr><td colspan="2"><b>Přijatá plnění, u kterých je uplatňován nárok na vrácení daně</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 3</td><td>Datum uskutečnění zdanitelného plnění</td></tr><tr><td>sl. 4</td><td>DIČ dodavatele</td></tr><tr><td>sl. 5</td><td>Jméno, příjmení / obchodní jméno dodavatele</td></tr><tr><td>sl. 6</td><td>Předmět daně</td></tr><tr><td>sl. 7</td><td>Daň z přidané hodnoty - základ daně - základní sazba daně</td></tr><tr><td>sl. 8</td><td>Daň z přidané hodnoty - základ daně - snížená sazba daně</td></tr><tr><td>sl. 9</td><td>Daň z přidané hodnoty - nárok na vrácení daně - základní sazba daně</td></tr><tr><td>sl. 10</td><td>Daň z přidané hodnoty - nárok na vrácení daně - snížená sazba daně</td></tr><tr><td></td><td>Nárok na vrácení daně - základní sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - snížená sazba daně - CELKEM</td></tr><tr><td></td><td>Nárok na vrácení daně - CELKEM PŘÍLOHA</td></tr></tbody></table>
+
+#### POKYNY k vyplnění Přiznání pro vrácení daně z přidané hodnoty podle § 86 a § 86a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů
+
+25 5574/1 MFin 5574/1
+
+V daňovém přiznání pro vrácení daně uplatňují nárok na vrácení daně z přidané hodnoty z přijatého zdanitelného plnění s místem plnění v tuzemsku u vybraných druhů zboží nebo služeb podle § 86 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“) ozbrojené síly jiného státu a Ministerstvo obrany. Ozbrojené síly jiného státu podávají daňové přiznání pro vrácení daně prostřednictvím Ministerstva obrany.
+
+Podle ustanovení § 86a zákona o DPH uplatňuje nárok na vrácení daně z přidané hodnoty z přijatého zdanitelného plnění s místem plnění v tuzemsku příslušník ozbrojených sil jiného státu a další osoby podle mezinárodní smlouvy, která je součástí českého právního řádu (dále jen „mezinárodní smlouva“).
+
+Daňové přiznání lze podat v listinné podobě na adresu správce daně nebo elektronicky.
+
+Nárok na vrácení daně lze uplatnit ve lhůtě 1 roku od konce kalendářního měsíce, ve kterém se uskutečnilo zdanitelného plnění dodání zboží nebo poskytnutí služeb (§ 86 odst. 4, resp. § 86a odst. 2 zákona o DPH). Připadne-li poslední den lhůty na sobotu, neděli nebo svátek, je možné přiznání podat nejbližší následující pracovní den. Pokud nebyl nárok na vrácení daně ve stanovené lhůtě uplatněn, zaniká. K nároku uplatněnému mimo lhůtu pro jeho uplatnění se nepřihlíží (§ 86e zákona o DPH).
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu:** Místně příslušným správcem daně pro vracení daně podle ustanovení § 86 a § 86a zákona o DPH je Finanční úřad pro hlavní město Prahu (§ 86d odst. 1 zákona o DPH).
+
+**Číslo daňového subjektu:** Uveďte číslo, pod kterým jste vedeni správcem daně, pokud je znáte.
+
+**Daňové přiznání řádné / dodatečné:** Křížkem vyznačte typ podávaného přiznání (řádné nebo dodatečné). V případě dodatečného přiznání uveďte v kolonce **„Důvody pro podání dodatečného daňového přiznání zjištěny dne“** den zjištění důvodů pro podání tohoto přiznání (§ 141 odst. 1 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“)). Podání opravného daňového přiznání je vyloučeno (§ 86h zákona o DPH).
+
+**Počet příloh / listů:** Uveďte počet příloh daňového přiznání a celkový počet listů.
+
+K daňovému přiznání pro vrácení daně musí být přiloženy kopie daňových dokladů nebo dokladů o dodání zboží nebo poskytnutí služby (§ 86 odst. 5, resp. § 86a odst. 3 zákona o DPH). Doklad o dodání zboží nebo o poskytnutí služby je na žádost daňového subjektu povinen bezodkladně vystavit plátce, který plnění dodává / poskytuje (§ 86b zákona o DPH).
+
+K daňovému přiznání pro vrácení daně příslušníkovi ozbrojených sil jiného státu a dalším osobám podle mezinárodní smlouvy musí být dále přiloženy další písemnosti, stanoví-li tak mezinárodní smlouva, která je součástí českého právního řádu (§ 86a odst. 3 písm. b) zákona o DPH).
+
+**Za období:** Uveďte období (kalendářní měsíc a rok), za které se daňové přiznání pro vrácení daně podává. Daňové přiznání lze podat jednou za kalendářní měsíc (§ 86f odst. 2 písm. a) zákona o DPH).
+
+#### Údaje o daňovém subjektu
+
+**Ozbrojené síly jiného státu:** Pokud daňové přiznání podávají ozbrojené síly jiného státu, uvede se název příslušného orgánu ozbrojených sil vysílajícího státu a adresa na území ČR.
+
+**Ministerstvo obrany:** Pokud daňové přiznání podává Ministerstvo obrany jako daňový subjekt, vyznačte tuto skutečnost křížkem a uveďte telefon a e-mail kontaktní osoby. Jedná se o údaje nepovinné, přesto je doporučeno je uvést pro případnou neformální komunikaci pro potřeby správce daně.
+
+**Fyzická osoba:**
+
+**Příslušník ozbrojených sil jiného státu / Jiná osoba, o které tak stanoví mezinárodní smlouva:** Pokud daňové přiznání podává příslušník ozbrojených sil jiného státu nebo jiná osoba podle mezinárodní smlouvy, uvede své aktuálně používané (používaná) příjmení a jméno (jména), adresu místa pobytu na území České republiky a název vysílajícího státu.
+
+**Člen rodiny příslušníka ozbrojených sil jiného státu:** Pokud daňové přiznání podává člen rodiny příslušníka ozbrojených sil jiného státu, uvede své aktuálně používané (používaná) příjmení a jméno (jména) a adresu místa pobytu na území České republiky. Osoba, která je členem rodiny příslušníka ozbrojených sil jiného státu, vyplní současně také údaje týkající se tohoto příslušníka.
+
+**Určení způsobu vrácení vratitelného přeplatku:**
+
+Označte křížkem Vámi zvolený způsob vrácení daně (zaslání finančních prostředků).
+
+Při vracení daně ozbrojeným silám jiného státu bude daň vrácena na účet Ministerstva obrany vedený pro tyto účely (§ 86 odst. 6 písm. b) zákona o DPH).
+
+**Bezhotovostním převodem na účet u poskytovatele platebních služeb:** Pokud požadujete, aby Vám byla daň vrácena bezhotovostním převodem, uveďte údaje k účtu se vztahující.
+
+Pokud se jedná o účty vedené u českých bank, není třeba vyplňovat údaje: Typ ID banky / ID banky / Název účtu / Název banky / Ulice banky / Město banky / PSČ banky / Stát.
+
+V položce „typ ID banky“ vyplňte typ identifikace banky, tj. např. BIC, FW, SC. V položce „Název účtu“ uveďte název nebo jméno vlastníka účtu.
+
+**Poštovním poukazem:** Pokud požadujete, aby Vám byla daň vrácena poštovním poukazem, uveďte adresu, na kterou má být zaslán.
+
+#### Přijatá plnění, u kterých je uplatňován nárok na vrácení daně
+
+V daňovém přiznání pro vrácení daně lze uplatnit jeden nebo více nároků na vrácení daně, u nichž běží lhůta pro uplatnění nároku na vrácení daně (§ 86f odst. 1 zákona o DPH).
+
+Ozbrojené síly jiných států a Ministerstvo obrany mohou v daňovém přiznání pro vrácení daně uplatnit nárok na vrácení daně pouze u vybraných druhů zboží a služeb (§ 86 odst. 2 zákona o DPH).
+
+Do řádků se uvádějí údaje převzaté z jednotlivých dokladů vystavených plátci daně z přidané hodnoty, kteří dodali zboží nebo poskytli službu.
+
+Pokud je větší počet dokladů než řádků, použijte zvláštní přílohu.
+
+V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte v jejím záhlaví pořadové číslo přílohy, jméno a příjmení fyzické osoby, resp. název právnické osoby, a období, za které daňové přiznání podáváte.
+
+**Evidenční číslo daňového dokladu:** Uveďte evidenční číslo daňového dokladu nebo dokladu o prodeji zboží nebo o poskytnutí služby, na základě kterého uplatňujete nárok na vrácení daně.
+
+**DIČ dodavatele:** Uveďte kmenovou část (tj. pouze číselná část) daňového identifikačního čísla osoby, která dodala zboží nebo uskutečnila službu.
+
+**Jméno, příjmení / obchodní jméno dodavatele:** Uveďte jméno, příjmení / obchodní jméno osoby, která dodala zboží nebo uskutečnila službu.
+
+**Den uskutečnění zdanitelného plnění:** Uveďte datum, kdy došlo k dodání zboží nebo poskytnutí služby.
+
+**Předmět daně:** Uveďte předmět přijatého plnění, druh zboží nebo služeb.
+
+**Daň z přidané hodnoty – základ daně – základní sazba daně / Daň z přidané hodnoty – základ daně – snížená sazba daně:** Uveďte základ daně vyčíslený na dokladu v příslušné sazbě daně.
+
+**Daň z přidané hodnoty – nárok na vrácení daně – základní sazba daně / Daň z přidané hodnoty – nárok na vrácení daně – snížená sazba daně:** Uveďte částku daně, jejíž vrácení nárokujete dle příslušné sazby daně.
+
+**Nárok na vrácení daně – základní sazba daně – CELKEM / Nárok na vrácení daně – snížená sazba daně – CELKEM:** Uveďte celkový součet nároků na vrácení daně dle jednotlivých sazeb daně uvedených na předcházejících řádcích ve sloupci 9, resp. sloupci 10.
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHA:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte celkový součet nároků na vrácení daně uplatněný v příslušné příloze. Jde o součet řádků „Nárok na vrácení daně – základní sazba daně – CELKEM“ a „Nárok na vrácení daně – snížená sazba daně – CELKEM“.
+
+**Nárok na vrácení daně – CELKEM PŘÍLOHY:** V případě, že do daňového přiznání vkládáte přílohu (přílohy) s rozpisem přijatých plnění, u kterých je uplatňován nárok na vrácení daně, uveďte celkový součet nároků na vrácení daně vyčíslený v jednotlivých přílohách. Jedná se o součet řádků „Nárok na vrácení daně – CELKEM PŘÍLOHA“ ze všech vkládaných příloh.
+
+**Nárok na vrácení daně – CELKEM:** Uveďte celkový nárok na vrácení daně (součet jednotlivých nároků) uplatněný v tomto daňovém přiznání. Jedná se o součet řádků „Nárok na vrácení daně – základní sazba daně – CELKEM“, „Nárok na vrácení daně – snížená sazba daně – CELKEM“ a „Nárok na vrácení daně – CELKEM PŘÍLOHY“. Celkový nárok na vrácení daně zaokrouhlete na celé Kč nahoru.
+
+#### Údaje o podepisující osobě
+
+Tyto údaje budou vyplňovány pouze v případech, kdy je přiznání zpracováváno a podáváno osobou odlišnou od daňového subjektu, tzn. v případech, kdy daňový subjekt činí podání sám za sebe, tuto část nevyplňuje.
+
+**Kód podepisující osoby:** Vyplňte číselný kód podle níže uvedených typů podepisujících osob:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+Pozn. kódy 5b, 6b, 7b mají přednost před obecnými druhy zastoupení s nižšími čísly kódů.
+
+**Datum narození / Evidenční číslo osvědčení daňového poradce / IČO právnické osoby:** Vyplňte datum narození podepisující osoby odlišné od daňového subjektu – fyzické osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby, nebo identifikační číslo právnické osoby odlišné od daňového subjektu.
+
+**Fyzická osoba oprávněná k podpisu (je-li daňový subjekt či podepisující osoba právnickou osobou) s uvedením vztahu k právnické osobě (např. jednatel, pověřený pracovník apod.):** Tyto údaje vyplňte pouze v případech, kdy je podání podáváno právnickou osobou, včetně případů, kdy je právnická osoba v postavení podepisující osoby odlišné od daňového subjektu.
+
+**Otisk razítka (uvádí se pouze v listinné podobě tohoto formuláře):** lze připojit otisk razítka.
+
+**Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu (uvádí se pouze v listinné podobě tohoto formuláře):** podání bude opatřeno vlastnoručním podpisem buď přímo daňovým subjektem – fyzickou osobou činící podání sama za sebe, nebo fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu. V případě podání v elektronické podobě se vlastnoruční podpis nahradí příslušným způsobem autorizace podání (např. identitou občana, uznávaným elektronickým podpisem apod.).
+
+Je-li podepisující osobou fyzická osoba odlišná od daňového subjektu, podání podepisuje tato fyzická osoba; je-li podepisující osobou právnická osoba odlišná od daňového subjektu, podání podepisuje fyzická osoba oprávněná jednat jménem právnické osoby.
+
+**Daňové přiznání pro vrácení daně podávané prostřednictvím Ministerstva obrany:**
+
+Prostřednictvím Ministerstva obrany podávají daňové přiznání pro vrácení daně ozbrojené síly jiného státu (§ 86g odst. 3 písm. b) zákona o DPH).
+
+Ministerstvo obrany potvrdí, že je daňové přiznání pro vrácení daně podáno osobou k tomu oprávněnou, a uvede údaje o bankovním účtu Ministerstva obrany určeném k vracení daně ozbrojeným silám jiného státu (§ 86 odst. 6 písm. b) zákona o DPH).
+
+Osoba oprávněná k podpisu za Ministerstvo obrany uvede své identifikační údaje a přiznání opatří vlastnoručním podpisem.
+
+#### Dodatečné daňové přiznání
+
+Dodatečné daňové přiznání pro vrácení daně se předkládá samostatně vždy ke konkrétnímu dříve podanému řádnému daňovému přiznání pro vrácení daně, a to do konce měsíce následujícího po zjištění důvodu pro jeho podání podle § 141 odst. 1 daňového řádu. Daňový subjekt je povinen dodatečné daňové přiznání podat, pokud zjistí, že daň má být vyšší než poslední známá daň. Ve lhůtě pro podání dodatečného daňového přiznání je daňový subjekt povinen rozdílnou částku rovněž uhradit. Tato povinnost trvá, pokud běží lhůta pro stanovení daně. Poslední známá daň je výsledná daň, jak byla správcem daně dosud pravomocně stanovena v dosavadním průběhu daňového řízení o této dani.
+
+Daňový subjekt je oprávněn za podmínek stanovených v § 141 odst. 2 a 3 daňového řádu podat dodatečné daňové přiznání pro vrácení daně na daň nižší, než je poslední známá daň, nebo podle § 141 odst. 4 daňového řádu dodatečné přiznání, kterým se nemění poslední známá daň, ale pouze údaje dříve tvrzené (v těchto dvou případech uvede v příloze důvody pro jeho podání podle § 141 odst. 5 daňového řádu).
+
+Dodatečné daňové přiznání pro vrácení daně se podává na shodném tiskopise jako řádné přiznání pro vrácení daně, na jehož první straně se označí jako dodatečné a uvede se den, kdy byly zjištěny skutečnosti zakládající povinnost nebo možnost podat dodatečné přiznání.
+
+V dodatečném přiznání se uvádí pouze rozdíly od údajů, ze kterých byla stanovena poslední známá daň.
+
+**Rozdíl oproti poslední známé dani při podání dodatečného daňového přiznání:** Vyplňte pouze při podání dodatečného přiznání (kladná či záporná hodnota). V případě záporné částky je daňový subjekt povinen ji uhradit ve lhůtě pro podání dodatečného daňového přiznání (náhradní lhůta splatnosti podle § 141 odst. 7 daňového řádu). V případě kladné částky může daňový subjekt podat žádost o vrácení případného přeplatku podle § 155 daňového řádu.
+
+### Příloha č. 6
+
+<table><tbody><tr><td colspan="2"><b>Přiznání k dani z přidané hodnoty v režimu Evropské unie jednoho správního místa</b></td></tr><tr><td>25 5568 MFin 5568<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro Jihomoravský kraj</td></tr><tr><td></td><td>Územní pracoviště Brno I</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td></td><td>Název / Jméno a příjmení</td></tr><tr><td></td><td>Zdaňovací období</td></tr><tr><td></td><td>V daném zdaňovacím období nebyla uskutečněna žádná plnění ani opravy minulých zdaňovacích období.</td></tr><tr><td colspan="2"><b>Plnění uskutečněná v daném zdaňovacím období (pro každý stát spotřeby, druh plnění a sazbu daně samostatně)</b></td></tr><tr><td></td><td>Dodavatel (DIČ / kód státu)</td></tr><tr><td></td><td>Stát spotřeby</td></tr><tr><td></td><td>Druh plnění (dodání zboží / poskytnutí služby)</td></tr><tr><td></td><td>Sazba daně (základní / snížená)</td></tr><tr><td></td><td>Výše sazby daně (%)</td></tr><tr><td></td><td>Základ daně (EUR)</td></tr><tr><td></td><td>Daň (EUR)</td></tr><tr><td colspan="2"><b>Opravy plnění vykázaných v minulých zdaňovacích obdobích (pro každý stát spotřeby a období samostatně)</b></td></tr><tr><td></td><td>Čtvrtletí</td></tr><tr><td></td><td>Rok</td></tr><tr><td></td><td>Stát spotřeby</td></tr><tr><td></td><td>Oprava daně (+/- změna výše daně)</td></tr><tr><td colspan="2"><b>Rekapitulace (pro každý stát spotřeby samostatně)</b></td></tr><tr><td></td><td>Stát spotřeby</td></tr><tr><td></td><td>Daň z dodání zboží – součet</td></tr><tr><td></td><td>Daň z poskytnutí služeb – součet</td></tr><tr><td></td><td>Součet daně</td></tr><tr><td></td><td>Součet oprav daně</td></tr><tr><td></td><td>Součet daně a oprav daně</td></tr><tr><td></td><td>K úhradě (vyplní se, pokud je hodnota ve vedlejším sloupci &gt;0)</td></tr><tr><td></td><td>Celkem k úhradě</td></tr><tr><td colspan="2">Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.</td></tr></tbody></table>
+
+### Příloha č. 7
+
+<table><tbody><tr><td colspan="2"><b>Přiznání k dani z přidané hodnoty v režimu mimo Evropskou unii jednoho správního místa</b></td></tr><tr><td>25 5569 MFin 5569<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro Jihomoravský kraj</td></tr><tr><td></td><td>Územní pracoviště Brno I</td></tr><tr><td></td><td>Daňové evidenční číslo (EU …….)</td></tr><tr><td></td><td>Název / Jméno a příjmení</td></tr><tr><td></td><td>Zdaňovací období</td></tr><tr><td></td><td>V daném zdaňovacím období nebyla uskutečněna žádná plnění ani opravy minulých zdaňovacích období.</td></tr><tr><td colspan="2"><b>Plnění uskutečněná v daném zdaňovacím období (pro každý stát spotřeby a sazbu daně samostatně)</b></td></tr><tr><td></td><td>Stát spotřeby</td></tr><tr><td></td><td>Sazba daně (základní / snížená)</td></tr><tr><td></td><td>Výše sazby daně (%)</td></tr><tr><td></td><td>Základ daně (EUR)</td></tr><tr><td></td><td>Daň (EUR)</td></tr><tr><td colspan="2"><b>Opravy plnění vykázaných v minulých zdaňovacích (pro každý stát spotřeby a období samostatně)</b></td></tr><tr><td></td><td>Čtvrtletí</td></tr><tr><td></td><td>Rok</td></tr><tr><td></td><td>Stát spotřeby</td></tr><tr><td></td><td>Oprava daně (+/- změna výše daně)</td></tr><tr><td colspan="2"><b>Rekapitulace (pro každý stát spotřeby samostatně)</b></td></tr><tr><td></td><td>Stát spotřeby</td></tr><tr><td></td><td>Součet daně</td></tr><tr><td></td><td>Součet oprav daně</td></tr><tr><td></td><td>Součet daně a oprav daně</td></tr><tr><td></td><td>K úhradě (vyplní se, pokud je hodnota ve vedlejším sloupci &gt;0)</td></tr><tr><td></td><td>Celkem k úhradě</td></tr><tr><td colspan="2">Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.</td></tr></tbody></table>
+
+### Příloha č. 8
+
+<table><tbody><tr><td colspan="2"><b>Přiznání k dani z přidané hodnoty v dovozním režimu jednoho správního místa</b></td></tr><tr><td>25 5570 MFin 5570<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro Jihomoravský kraj</td></tr><tr><td></td><td>Územní pracoviště Brno I</td></tr><tr><td></td><td>Daňové evidenční číslo zprostředkovatele (IN........)</td></tr><tr><td></td><td>Daňové evidenční číslo dovozce (IM.......)</td></tr><tr><td></td><td>Název / Jméno a příjmení</td></tr><tr><td></td><td>Zdaňovací období</td></tr><tr><td></td><td>V daném zdaňovacím období nebyla uskutečněna žádná plnění ani opravy minulých zdaňovacích období.</td></tr><tr><td colspan="2"><b>Plnění uskutečněná v daném zdaňovacím období (pro každý stát spotřeby a sazbu daně samostatně)</b></td></tr><tr><td></td><td>Stát spotřeby</td></tr><tr><td></td><td>Sazba daně (základní / snížená)</td></tr><tr><td></td><td>Výše sazby daně (%)</td></tr><tr><td></td><td>Základ daně (EUR)</td></tr><tr><td></td><td>Daň (EUR)</td></tr><tr><td colspan="2"><b>Opravy plnění vykázaných v minulých zdaňovacích obdobích (pro každý stát spotřeba a období samostatně)</b></td></tr><tr><td></td><td>Měsíc</td></tr><tr><td></td><td>Rok</td></tr><tr><td></td><td>Stát spotřeby</td></tr><tr><td></td><td>Oprava daně (+/- změna výše daně)</td></tr><tr><td colspan="2"><b>Rekapitulace (pro každý stát spotřeby samostatně)</b></td></tr><tr><td></td><td>Stát spotřeby</td></tr><tr><td></td><td>Součet daně</td></tr><tr><td></td><td>Součet oprav daně</td></tr><tr><td></td><td>Součet daně a oprav daně</td></tr><tr><td></td><td>K úhradě (vyplní se, pokud je hodnota ve vedlejším sloupci &gt;0)</td></tr><tr><td></td><td>Celkem k úhradě</td></tr><tr><td colspan="2">Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.</td></tr></tbody></table>
+
+### Příloha č. 9
+
+<table><tbody><tr><td colspan="2"><b>Hlášení podle § 19a a § 19b zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, o dodání nového dopravního prostředku do jiného členského státu Evropské unie</b></td></tr><tr><td>25 5526 MFin 5526<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro / Specializovanému finančnímu úřadu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td colspan="2"><b>I. Dodavatel (prodávající) nového dopravního prostředku</b></td></tr><tr><td>1.</td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td>2.</td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Titul</td></tr><tr><td>3.</td><td>Sídlo právnické / fyzické osoby nebo adresa místa pobytu fyzické osoby:</td></tr><tr><td></td><td>a) obec</td></tr><tr><td></td><td>b) PSČ</td></tr><tr><td></td><td>c) telefon</td></tr><tr><td></td><td>d) ulice a č. orientační (nebo část obce a č. popisné)</td></tr><tr><td></td><td>e) e-mail</td></tr><tr><td></td><td>f) stát</td></tr><tr><td colspan="2"><b>II. Údaje o novém dopravním prostředku</b></td></tr><tr><td>1.</td><td>Identifikační údaje k novému dopravnímu prostředku</td></tr><tr><td></td><td>a) typ:</td></tr><tr><td></td><td>loď</td></tr><tr><td></td><td>letadlo</td></tr><tr><td></td><td>silniční motorové vozidlo</td></tr><tr><td></td><td>b) číslo:</td></tr><tr><td></td><td>podvozku nebo VIN u silničního motorového vozidla</td></tr><tr><td></td><td>motoru nebo trupu lodi</td></tr><tr><td></td><td>kostry letadla</td></tr><tr><td></td><td>c) jen u silničního motorového vozidla uveďte:</td></tr><tr><td></td><td>model</td></tr><tr><td></td><td>výkon motoru kW</td></tr><tr><td></td><td>počet ujetých km</td></tr><tr><td>2.</td><td>Den prvního uvedení do provozu</td></tr><tr><td>3.</td><td>Den dodání</td></tr><tr><td>4.</td><td>Evidenční číslo dokladu a datum jeho vystavení</td></tr><tr><td colspan="2"><b>III. Pořizovatel (kupující) nového dopravního prostředku:</b></td></tr><tr><td>1.</td><td>Právnická osoba:</td></tr><tr><td></td><td>Obchodní firma</td></tr><tr><td>2.</td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Titul</td></tr><tr><td>3.</td><td>Sídlo právnické / fyzické osoby nebo adresa místa pobytu fyzické osoby:</td></tr><tr><td></td><td>a) obec</td></tr><tr><td></td><td>b) PSČ</td></tr><tr><td></td><td>c) ulice a č. orientační (nebo část obce a č. popisné)</td></tr><tr><td></td><td>d) stát</td></tr><tr><td></td><td>Členský stát Evropské unie, kde bude daň z pořízení nového dopravního prostředku zaplacena</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Otisk razítka</td></tr><tr><td></td><td>Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu</td></tr></tbody></table>
+
+#### Pokyny k vyplnění hlášení o dodání nového dopravního prostředku
+
+25 5526 MFin 5526
+
+Hlášení podává plátce, který dodá nový dopravní prostředek do jiného členského státu EU za úplatu osobě, která mu nesdělila své daňové identifikační číslo pro účely daně z přidané hodnoty, nebo osoba, která není plátcem a dodá nový dopravní prostředek za úplatu do jiného členského státu EU.
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu pro / Specializovanému finančnímu úřadu** doplníte zbývající část oficiálního názvu svého místně příslušného finančního úřadu (např. – hlavní město Prahu, – Jihočeský kraj, apod.). Bude-li subjekt vybraným subjektem podle § 11 odst. 2 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů (dále jen „zákon o Finanční správě České republiky“), doplní údaj slovy Specializovanému finančnímu úřadu. V poli „Územní pracoviště v, ve, pro“ bude uvedeno sídlo územního pracoviště, na němž je nebo bude umístěn spis daňového subjektu (§ 13 zákona o Finanční správě České republiky).
+
+I. – Zde se uvádějí údaje vztahující se k dodavateli nového dopravního prostředku:
+
+2\. Údaj „Titul“ je údaj nepovinný.
+
+3\. Údaje „telefon“ a „e-mail“ jsou údaje nepovinné.
+
+II. – Zde se uvádějí údaje vztahující se k dodávanému novému dopravnímu prostředku:
+
+1\. Vyplní se požadované identifikační údaje k dodávanému novému dopravnímu prostředku podle typu, pokud je nový dopravní prostředek jejich nositelem. Pokud je za požadovaným údajem čtvereček, vyznačí se do něho křížkem údaj, o který se jedná, jinak se doplní na řádek požadovaná informace.
+
+2\. Uvede se údaj o prvním uvedení do provozu podle § 19 odst. 2 nebo odst. 3 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“) (nejde o datum výroby nového dopravního prostředku).
+
+3\. Uvede se datum dodání nového dopravního prostředku.
+
+4\. Uvede se evidenční číslo a datum vystavení daňového dokladu nebo dokladu o prodeji (pokud nový dopravní prostředek dodává neplátce daně, je vystavován doklad o prodeji).
+
+Údaje k novému dopravnímu prostředku se prokazují zejména dokumenty vydanými výrobcem.
+
+Při dodání nového dopravního prostředku do jiného členského státu musí být na daňovém dokladu uveden údaj, že se jedná o nový dopravní prostředek, a údaje podle § 19 odst. 1 tuto skutečnost potvrzující (§ 29 odst. 2 písm. d). Obdobné platí i pro doklad o prodeji nového dopravního prostředku, z kterého musí být patrné, že předmětem prodeje byl nový dopravní prostředek podle § 19 zákona o DPH.
+
+III. – Zde se uvádějí údaje o pořizovateli nového dopravního prostředku včetně údaje o členském státě, kde bude daň z pořízeného nového dopravního prostředku v jiném členském státě zaplacena.
+
+**Otisk razítka (uvádí se pouze v listinné podobě tohoto formuláře):** lze připojit otisk razítka.
+
+**Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu (uvádí se pouze v listinné podobě tohoto formuláře):** podání bude opatřeno vlastnoručním podpisem buď přímo daňovým subjektem – fyzickou osobou činící podání sama za sebe, nebo fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu. V případě podání v elektronické podobě se vlastnoruční podpis nahradí příslušným způsobem autorizace podání (např. identitou občana, uznávaným elektronickým podpisem apod.).
+
+### Příloha č. 10
+
+<table><tbody><tr><td colspan="2"><b>Hlášení podle § 19c zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, o pořízení nového dopravního prostředku z jiného členského státu Evropské unie</b></td></tr><tr><td>25 5527 MFin 5527<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro / Specializovanému finančnímu úřadu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td colspan="2"><b>l. Pořizovatel (kupující) nového dopravního prostředku:</b></td></tr><tr><td>1.</td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td>2.</td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Titul</td></tr><tr><td>3.</td><td>Sídlo právnické / fyzické osoby nebo adresa místa pobytu fyzické osoby:</td></tr><tr><td></td><td>a) obec</td></tr><tr><td></td><td>b) PSČ</td></tr><tr><td></td><td>c) telefon</td></tr><tr><td></td><td>d) ulice a č. orientační (nebo část obce a č. popisné)</td></tr><tr><td></td><td>e) e-mail</td></tr><tr><td></td><td>f) stát</td></tr><tr><td colspan="2"><b>II. Údaje o novém dopravním prostředku</b></td></tr><tr><td>1.</td><td>Datum pořízení</td></tr><tr><td>2.</td><td>Datum vstupu nového dopravního prostředku do tuzemska</td></tr><tr><td>3.</td><td>Účel použití nového dopravního prostředku</td></tr><tr><td></td><td>a) pro podnikání</td></tr><tr><td></td><td>b) pro soukromé účely</td></tr><tr><td>4.</td><td>Údaje pro účely vydání potvrzení o zaplacení zálohy na základě fikce podle § 19c odst. 5 výše uvedeného zákona</td></tr><tr><td></td><td>a) nový dopravní prostředek byl plně vložen do obchodního majetku</td></tr><tr><td></td><td>b) u pořízení nového dopravního prostředku vznikl nárok na odpočet v plné výši</td></tr><tr><td></td><td>c) jde o vybraný osobní automobil a daň na vstupu byla stanovena podle § 72 odst. 3 písm. b) výše uvedeného zákona</td></tr><tr><td>5.</td><td>Evidenční číslo dokladu</td></tr><tr><td></td><td>datum jeho vystavení</td></tr><tr><td>6.</td><td>Identifikační údaje k novému dopravnímu prostředku</td></tr><tr><td></td><td>a) typ:</td></tr><tr><td></td><td>loď</td></tr><tr><td></td><td>letadlo</td></tr><tr><td></td><td>silniční motorové vozidlo</td></tr><tr><td></td><td>b) číslo:</td></tr><tr><td></td><td>podvozku nebo VIN u silničního motorového vozidla</td></tr><tr><td></td><td>motoru nebo trupu lodi</td></tr><tr><td></td><td>kostry letadla</td></tr><tr><td></td><td>c) jen u silničního motorového vozidla uveďte:</td></tr><tr><td></td><td>model</td></tr><tr><td></td><td>výkon motoru kW</td></tr><tr><td></td><td>počet ujetých km</td></tr><tr><td>7.</td><td>Den prvního uvedení do provozu (stát výrobce)</td></tr><tr><td colspan="2"><b>III. Dodavatel (prodávající) nového dopravního prostředku:</b></td></tr><tr><td>1.</td><td>Právnická osoba:</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td></td><td>Obchodní firma</td></tr><tr><td>2.</td><td>Fyzická osoba:</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Titul</td></tr><tr><td>3.</td><td>Sídlo právnické / fyzické osoby nebo adresa místa pobytu fyzické osoby:</td></tr><tr><td></td><td>a) obec</td></tr><tr><td></td><td>b) PSČ</td></tr><tr><td></td><td>c) ulice a č. orientační (nebo část obce a č. popisné)</td></tr><tr><td></td><td>d) stát</td></tr><tr><td>4.</td><td>Stát, kde byl nový dopravní prostředek dodavatelem používán</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Otisk razítka</td></tr><tr><td></td><td>Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu</td></tr></tbody></table>
+
+#### Pokyny k vyplnění hlášení o pořízení nového dopravního prostředku
+
+25 5527 MFin 5527
+
+Hlášení podává osoba, která pořizuje nový dopravní prostředek z jiného členského státu EU a vzniká jí povinnost daň přiznat a zaplatit podle § 108 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“).
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu pro / Specializovanému finančnímu úřadu** doplníte zbývající část oficiálního názvu svého místně příslušného finančního úřadu (např. - hlavní město Prahu, - Jihočeský kraj, apod.). Bude-li subjekt vybraným subjektem podle § 11 odst. 2 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů (dále jen „zákon o Finanční správě České republiky“), doplní údaj slovy Specializovanému finančnímu úřadu. V poli „Územní pracoviště v, ve, pro“ bude uvedeno sídlo územního pracoviště, na němž je nebo bude umístěn spis daňového subjektu (§ 13 zákona o Finanční správě České republiky).
+
+I. – Zde se uvádějí údaje vztahující se k pořizovateli nového dopravního prostředku:
+
+2\. Údaj „Titul“ je údaj nepovinný.
+
+3\. Údaje „telefon“ a „e-mail“ jsou údaje nepovinné.
+
+II. – Zde se uvádějí údaje vztahující se k pořizovanému novému dopravnímu prostředku:
+
+1\. Uvede se datum pořízení, který vychází z uzavřené kupní smlouvy nebo jiného právně relevantního úkonu.
+
+2\. Uvede se datum, kdy nový dopravní prostředek vstoupil do tuzemska (datum přepravy do tuzemska přes státní hranici).
+
+3\. Pokud hlášení podává plátce, křížkem v příslušném čtverečku vyznačí účel použití nového dopravního prostředku v tuzemsku.
+
+4\. Údaje vyplní pouze plátce, který požaduje vydání potvrzení o zaplacení zálohy ve smyslu § 19c odst. 5 zákona o DPH.
+
+5\. Uvede se evidenční číslo a datum vystavení daňového dokladu nebo dokladu o prodeji nového dopravního prostředku vystaveného dodavatelem.
+
+6\. Vyplní se požadované identifikační údaje k dodávanému novému dopravnímu prostředku podle typu, pokud je nový dopravní prostředek jejich nositelem. Pokud je za požadovaným údajem čtvereček, vyznačí se do něho křížkem údaj, o který se jedná, jinak se doplní na řádek požadovaná informace.
+
+7\. Uvede se údaj o prvním uvedení do provozu dle ustanovení § 19 odst. 2 nebo 3 zákona o DPH, včetně státu výrobce.
+
+**Údaje k novému dopravnímu prostředku se prokazují zejména dokumenty vydanými výrobcem nebo státním orgánem.**
+
+III. – Zde se uvádějí údaje o dodavateli nového dopravního prostředku včetně údaje o členském státě, kde byl nový dopravní prostředek dodavatelem používán.
+
+**Otisk razítka (uvádí se pouze v listinné podobě tohoto formuláře):** lze připojit otisk razítka.
+
+**Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu (uvádí se pouze v listinné podobě tohoto formuláře):** podání bude opatřeno vlastnoručním podpisem buď přímo daňovým subjektem – fyzickou osobou činící podání sama za sebe, nebo fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu. V případě podání v elektronické podobě se vlastnoruční podpis nahradí příslušným způsobem autorizace podání (např. identitou občana, uznávaným elektronickým podpisem apod.).
+
+V případě, že pořizovatel zaplatí správci daně zálohu ve výši daně z pořízení nového dopravního prostředku, tu pak vypořádá v následně podaném daňovém přiznání.
+
+### Příloha č. 11
+
+<table><tbody><tr><td colspan="2"><b>Souhrnné hlášení k dani z přidané hodnoty podle § 102 zákona č. 235/2004 Sb., o dani z přidané hodnoty</b></td></tr><tr><td colspan="2">25 5521/a MFin 5521/a</td></tr><tr><td>Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>A. ODDÍL</b></td></tr><tr><td></td><td>Pořadové číslo strany / Celkový počet stran</td></tr><tr><td></td><td>Finančnímu úřadu pro / Specializovanému finančnímu úřadu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td></td><td>Souhrnné hlášení</td></tr><tr><td></td><td>Za kalendářní měsíc / kalendářní čtvrtletí / rok</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Obchodní jméno</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Titul</td></tr><tr><td></td><td>Trvalé bydliště fyzické osoby nebo sídlo právnické osoby:</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Ulice, část obce (číslo popisné / číslem orientačním)</td></tr><tr><td></td><td>Stát</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(a) a příjmení / vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / Osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Kontaktní osoba</td></tr><tr><td></td><td>Telefon</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Pořadové číslo strany / Celkový počet stran</td></tr><tr><td colspan="2"><b>B. ODDÍL</b></td></tr><tr><td>sl. 1 ř. 1 - 20</td><td>Storno řádek</td></tr><tr><td>sl. 2 ř. 1 - 20</td><td>Kód země</td></tr><tr><td>sl. 3 ř. 1 - 20</td><td>DIČ pořizovatele zboží</td></tr><tr><td>sl. 4 ř. 1 - 20</td><td>Kód plnění</td></tr><tr><td>sl. 5 ř. 1 - 20</td><td>Počet plnění</td></tr><tr><td>sl. 6 ř. 1 - 20</td><td>Celková hodnota plnění v Kč</td></tr><tr><td colspan="2">Kontrolní součet řádků 1–20 (Celková hodnota plnění v Kč):</td></tr><tr><td colspan="2"><b>C. ODDÍL</b></td></tr><tr><td>Sl. 1</td><td>Číslo řádku</td></tr><tr><td>Sl. 2</td><td>Kód země</td></tr><tr><td>Sl. 3</td><td>DIČ předpokládaného pořizovatele</td></tr><tr><td>Sl. 4</td><td>Kód záznamu</td></tr><tr><td>Sl. 5</td><td>DIČ původního předpokládaného pořizovatele</td></tr></tbody></table>
+
+#### POKYNY k vyplnění Souhrnného hlášení
+
+25 5525 MFin 5525
+
+Plátce vyplňuje jednotlivá políčka elektronického formuláře. Souhrnné hlášení se podává výhradně elektronicky ve stanoveném formátu a struktuře. Podání souhrnného hlášení, učiněné jiným způsobem, není přípustné.
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+#### ODDÍL A
+
+**Finančnímu úřadu pro (vyberte z číselníku v následujícím políčku):**
+
+Vyberte ze seznamu název místně příslušného finančního úřadu (automaticky se doplní jeho číslo, tj. cílové číslo finančního úřadu) nebo zadejte číslo FÚ (automaticky se doplní název FÚ) podle registrace k DPH.
+
+**Územní pracoviště v, ve, pro (vyberte z číselníku v následujícím políčku):**
+
+Uveďte územní pracoviště, kde je nebo bude umístěn spis daňového subjektu (podle § 13 zákona číslo 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů).
+
+**Daňové identifikační číslo (DIČ – pouze číselná část):**
+
+Vyplňte kmenovou část daňového identifikačního čísla (pouze číselná část), které Vám bylo přiděleno. Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Forma SH:**
+
+Označíte, zda se jedná o Souhrnné hlášení (hodnota „R“) nebo o Následné souhrnné hlášení (hodnota „N“). Označení jednoho z typů souhrnného hlášení je pro další zpracování nezbytné.
+
+Následným souhrnným hlášením se opravují údaje, které plátce uvedl v předchozích podáních (souhrnném hlášení nebo následném souhrnném hlášení) vztahujících se k danému kalendářnímu měsíci/čtvrtletí. Opravou údajů se rozumí vložení nového řádku (v případě, že předchozí podání tento řádek vůbec neobsahovalo), storno řádku z předchozích podání (v případě, že v předchozím podání tento řádek neměl být vůbec uveden) a oprava údajů řádku z předchozích podání.
+
+Oprava údajů se provádí:
+
+– vložením nového řádku vyplněním všech požadovaných údajů,
+
+– stornováním řádku z předchozích podání proškrtnutím křížkem ve sloupci označeném storno řádek.
+
+Do následného souhrnného hlášení se ve stornovaném řádku vyplní všechny údaje vyplněné v původním řádku,
+
+– opravou údajů řádku u předchozího podání stornováním původního řádku a vložením nového bezvadného řádku (viz příklad níže).
+
+1\. Plátce dodá zboží do jiného členského státu Evropské unie osobě registrované k dani v jiném členském státě (např. v Německu).
+
+V souhrnném hlášení uvede následující údaje:
+
+| Číslo řádku | Kód země | DIČ pořizovatele zboží | Kód plnění | Počet plnění | Celková hodnota plnění v Kč |
+|---|---|---|---|---|---|
+| 1 | DE | 123456789 | 0 | 3 | 500 000 |
+
+2\. Plátce později zjistí, že údaje, které uvedl, jsou chybné. Opravu chybných údajů provede tím, že v následném souhrnném hlášení stornuje původní řádek ze souhrnného hlášení a do dalšího řádku vloží nové správné údaje:
+
+| Číslo řádku | Storno řádek | Kód země | DIČ pořizovatele zboží | Kód plnění | Počet plnění | Celková hodnota plnění v Kč |
+|---|---|---|---|---|---|---|
+| 1 | X | DE | 123456789 | 0 | 3 | 500 000 |
+| 2 | | DE | 123456789 | 0 | 4 | 800 000 |
+
+**Za zdaňovací období:**
+
+**Měsíc:**
+
+Vyplňte měsíc, za který je podáváno souhrnné hlášení.
+
+Kalendářní měsíc uveďte číslicí v rozsahu 1 až 12, k vyplněné hodnotě nepřipisujte tečku. Vyplnění měsíce a roku zdaňovacího období nebo čtvrtletí a roku zdaňovacího období je povinné.
+
+**Čtvrtletí:**
+
+Vyplňte čtvrtletí, za které (příp. za jehož část) je podáváno souhrnné hlášení. Kalendářní čtvrtletí uveďte číslicí v rozsahu 1 až 4, k vyplněné hodnotě nepřipisujte tečku. Vyplnění měsíce a roku zdaňovacího období nebo čtvrtletí a roku zdaňovacího období je povinné.
+
+**Rok:**
+
+Vyplňte kalendářní rok, za který (příp. za jehož část) je podáváno souhrnné hlášení.
+
+**Datum (vyplnění hlášení):**
+
+Zadejte datum ve formátu „DD.MM.RRRR“.
+
+**Typ daňového subjektu:**
+
+Vyberte typ subjektu, pro který je písemnost vyplňována: F - fyzické osoby (živnost), P - právnické osoby (s.r.o., a.s., v.o.s.,...); v případě skupiny vyberte typ zastupujícího člena.
+
+**Příjmení:**
+
+Uveďte nyní používané příjmení.
+
+**Jméno:**
+
+Vyplňte jméno, příp. jména ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Titul:**
+
+Vložte příslušné akademické tituly osoby. Nepovinný údaj
+
+**Obchodní jméno právnické osoby:**
+
+Obchodní jméno uveďte tak, jak je zapsáno v obchodním rejstříku, živnostenském listu, koncesní listině apod. U právnických osob, které se nezapisují do obchodního rejstříku, uveďte název, pod kterým byly zřízeny, a u ostatních subjektů název, pod nímž vystupují vůči třetím osobám. Pokud obchodní jméno přesahuje povolený rozsah položky, uveďte do položky vhodně zkrácenou část a plné jméno do přílohy.
+
+**Dodatek obchodního jména:**
+
+Vyplňte právní formu organizace nebo organizační složku (odštěpný závod a dědic po podnikateli).
+
+**Sídlo právnické osoby/adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu:**
+
+**Ulice (nebo část obce):**
+
+Uveďte ulici nebo část obce trvalého bydliště nebo sídla zástupce.
+
+**Číslo popisné:**
+
+Vyplňte číslo popisné z adresy trvalého bydliště nebo sídla.
+
+**Číslo orientační:**
+
+Vyplňte číslo orientační z adresy trvalého bydliště nebo sídla.
+
+**Obec (vyberte z číselníku pomocí následujícího tlačítka):**
+
+Uveďte název obce adresy trvalého bydliště nebo sídla.
+
+**PSČ (vyberte z číselníku pomocí následujícího tlačítka):**
+
+Uveďte poštovní směrovací číslo adresy trvalého bydliště nebo sídla. PSČ v České republice musí mít délku 5 znaků bez mezer.
+
+**Stát (vyberte z číselníku v následujícím políčku):**
+
+Uveďte identifikaci státu trvalého bydliště nebo sídla.
+
+**Údaje o podepisující osobě (vyplňte jen v případě, kdy je osoba odlišná od daňového subjektu):**
+
+**Typ podepisující osoby:**
+
+Vyberte typ podepisující osoby: F - fyzická osoba (živnost) nebo P - právnická osoba (s.r.o., a.s., v.o.s.,...)
+
+**Kód podepisující osoby:**
+
+Vyberte číselný kód podle níže uvedených typů podepisující osoby:
+
+Fyzická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+**Právnická osoba:**
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+**Příjmení:**
+
+Vyplňte nyní používané příjmení podepisující osoby – fyzické osoby.
+
+**Jméno(a):**
+
+Vyplňte jméno, příp. jména, podepisující osoby – fyzické osoby.
+
+**Datum narození:**
+
+V případě, že podepisující osobou je fyzická osoba, bude vyplněno buď datum narození podepisující osoby nebo evidenční číslo osvědčení daňového poradce – fyzické osoby. Zadejte datum ve formátu „DD.MM.RRRR“.
+
+**Evidenční číslo osvědčení daňového poradce:**
+
+V případě, že podepisující osobou je fyzická osoba, bude vyplněno buď datum narození podepisující osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby.
+
+**Název právnické osoby:**
+
+Vyplňte obchodní jméno tak, jak je zapsáno v obchodním rejstříku, živnostenském listu, koncesní listině apod. U právnických osob, které se nezapisují do obchodního rejstříku, uveďte název, pod kterým byly zřízeny a u ostatních subjektů název, pod nímž vystupují vůči třetím osobám. Pokud obchodní jméno přesahuje povolený rozsah položky, uveďte do položky vhodně zkrácenou část a plné jméno do přílohy.
+
+**IČ právnické osoby:**
+
+Identifikační číslo právnické osoby, pokud je podepisující osobou.
+
+**Fyzická osoba oprávněná k podpisu (je-li daňový subjekt či podepisující osoba právnickou osobou) s uvedením vztahu k právnické osobě (např. jednatel, pověřený pracovník atd.):**
+
+**Příjmení:**
+
+Vyplňte příjmení oprávněné osoby.
+
+**Jméno(a):**
+
+Vyplňte jméno oprávněné osoby.
+
+**Vztah k právnické osobě:**
+
+Postavení oprávněné osoby k subjektu.
+
+**Sestavil:**
+
+**Příjmení:**
+
+Příjmení osoby, která sestavila podání.
+
+**Jméno:**
+
+Jméno osoby, která sestavila podání.
+
+**Telefon:**
+
+Vyplňte telefon osoby, která sestavila podání. Nepovinný údaj.
+
+#### ODDÍL B
+
+**Řádky SH:**
+
+**Storno řádek:**
+
+Vyplněná hodnota v tomto poli označuje, že se jedná o storno řádek.
+
+Tato hodnota nesmí být uvedena v souhrnném hlášení formy SH = R – souhrnné hlášení.
+
+Při zpracování na FÚ je v řádném, popř. ve všech předchozích následných souhrnných hlášeních, vyhledán shodný řádek (tj. kód země, DIČ pořizovatele zboží a kód způsobu plnění musí být stejné), a tento řádek bude označen jako zrušený.
+
+**Kód země:**
+
+Uveďte kód státu, který přidělil daňové identifikační číslo registrace k DPH pořizovatele.
+
+Seznam kódů zemí je uveden níže – viz tabulka Daňová identifikační čísla členských států EU. Tento údaj je povinný v řádku, který není označen jako storno řádek.
+
+**DIČ pořizovatele (pouze číselná část):**
+
+Uveďte daňové identifikační číslo registrace k DPH pořizovatele v jiném členském státu (bez kódu státu, pouze číselnou část).
+
+Údaj je povinný v řádku, který není označen jako storno řádek. Vyplňuje se bez mezer, čárek a teček. V dané aplikaci je realizována pouze základní kontrola formální správnosti této položky, konečná kontrola je prováděna až při zpracování Vámi podaného souhrnného hlášení (následného souhrnného hlášení) na FÚ.
+
+Žádné daňové identifikační číslo nesmí být v hlášení uvedeno více než jednou se stejným kódem plnění. Např. prostřední osoba v rámci zjednodušeného postupu uvádí odděleně dodání zboží uvnitř území Evropského společenství formou třístranného obchodu označené kódem „2“, a zároveň může vykázat dodání zboží stejnému pořizovateli označené kódem „0“ (viz pokyny pro vyplnění Kódu plnění).
+
+Daňová identifikační čísla členských států EU
+
+| Název země | Kód země | Formát DIČ pořizovatele zboží | Počet znaků | Poznámky |
+|---|---|---|---|---|
+| BELGIE | BE | 1234567890 | 10 | pouze číslice |
+| BULHARSKO | BG | 123456789<br> 1234567890 | 9 nebo 10 | pouze číslice |
+| DÁNSKO | DK | 12345678 | 8 | pouze číslice |
+| ESTONSKO | EE | 123456789 | 9 | pouze číslice |
+| FINSKO | FI | 12345678 | 8 | pouze číslice |
+| FRANCIE | FR | 12345678901<br> X1123456789<br> 1X123456789<br> XX123456789 | 11 | obsahuje buď jen číslice, nebo na prvním nebo druhém místě, nebo na prvním a druhém místě velké písmeno, s výjimkou písmen I a O |
+| CHORVATSKO | HR | 12345678901 | 11 | pouze číslice; pozn.: je možné použít od 1. 7. 2013 |
+| IRSKO | IE | 1234567X<br> 1X34567X<br> 1234567XX | 8 nebo 9 | obsahuje jedno nebo dvě velká písmena, a to na posledním místě nebo na druhém a posledním místě (pro délku 8), obsahuje dvě velká písmena, a to na posledním a předposledním místě (pro délku 9) |
+| ITÁLIE | IT | 12345678901 | 11 | pouze číslice |
+| KYPR | CY | 12345678X | 9 | obsahuje na posledním místě jedno velké písmeno |
+| LITVA | LT | 123456789<br> 123456789012 | 9 nebo 12 | pouze číslice |
+| LOTYŠSKO | LV | 12345678901 | 11 | pouze číslice |
+| LUCEMBURSKO | LU | 12345678 | 8 | pouze číslice |
+| MAĎARSKO | HU | 12345678 | 8 | pouze číslice |
+| MALTA | MT | 12345678 | 8 | pouze číslice |
+| NĚMECKO | DE | 123456789 | 9 | pouze číslice |
+| NIZOZEMSKO | NL | 123456789B01<br> nebo<br> ZZZZZZZZZZ12 | 12 | prvních devět znaků jsou číslice, poslední 3 znaky jsou vždy v rozsahu B01 až B99 nebo prvních deset znaků jsou číslice nebo velká písmena nebo „+“ nebo „\*“, poslední 2 znaky jsou vždy v rozsahu 02 až 98 |
+| POLSKO | PL | 1234567890 | 10 | pouze číslice |
+| PORTUGALSKO | PT | 123456789 | 9 | pouze číslice |
+| RAKOUSKO | AT | U12345678 | 9 | první znak je vždy U, zbývajících osm jsou číslice |
+| RUMUNSKO | RO | 1234567890 | 10a méně | pouze číslice<br> vzhledem k proměnlivé délce DIČ je i číslice „0“ na prvním, popřípadě dalších místech DIČ rozhodující, např. RO 019 a RO 0019 představují dvě rozdílná DIČ |
+| ŘECKO | EL | 123456789 | 9 | pouze číslice |
+| SLOVENSKO | SK | 1234567890 | 10 | pouze číslice |
+| SLOVINSKO | Sl | 12345678 | 8 | pouze číslice |
+| ŠPANĚLSKO | ES | X12345678<br> 12345678X<br> X1234567X | 9 | obsahuje jedno nebo dvě velká písmena, a to na prvním nebo posledním místě nebo na prvním a poledním místě |
+| ŠVÉDSKO | SE | 123456789012 | 12 | pouze číslice |
+| VELKÁ BRITÁNIE | GB | 123456789<br> nebo<br> 123456789012<br> nebo<br> GD123<br> nebo<br> HA123 | 9<br> nebo<br> 12<br> nebo<br> 5 | pouze číslice nebo na prvním a druhém místě písmena GD nebo HA<br> - v případě 12 číslic poslední tři představují identifikaci organizační složky pořizovatele zboží,<br> - písmena GD a tři následující číslice představují identifikaci vládní instituce,<br> - písmena HA a tři následující číslice představují identifikaci zdravotnické organizace |
+| SEVERNÍ IRSKO | XI | 123456789<br> nebo<br> 123456789012<br> nebo<br> GD123<br> nebo<br> HA123 | 9<br> nebo<br> 12<br> nebo<br> 5 | pouze číslice nebo na prvním a druhém místě písmena GD nebo HA<br> - v případě 12 číslic poslední tři představují identifikaci organizační složky pořizovatele zboží,<br> - písmena GD a tři následující číslice představují identifikaci vládní instituce,<br> - písmena HA a tři následující číslice představují identifikaci zdravotnické organizace |
+
+**Kód plnění:**
+
+Uveďte kód plnění dle následujících hodnot:
+
+0 – dodání zboží do jiného členského státu osobě registrované k dani v jiném členském státě (§ 13 odst. 1 a 2 zákona o DPH)
+
+1 – přemístění obchodního majetku plátcem do jiného členského státu (§ 13 odst. 6 zákona o DPH)
+
+2 – dodání zboží uvnitř území Evropského společenství formou třístranného obchodu (§ 17 zákona o DPH); tento kód vyplňuje pouze prostřední osoba
+
+3 – poskytnutí služby s místem plnění v jiném členském státu (§ 9 odst. 1 zákona o DPH), pokud je povinen přiznat a zaplatit daň příjemce služby, nebo pokud před uskutečněním této služby došlo k přijetí úplaty, byla-li tato služba ke dni přijetí úplaty známa dostatečně určitě.
+
+Tento údaj je povinné uvést v řádku, který není označen jako storno řádek.
+
+**Počet plnění:**
+
+Vyplňte počet poskytnutých dodání zboží a služeb pořizovateli.
+
+**Celková hodnota plnění v Kč:**
+
+Vyplňte celkovou hodnotu plnění v Kč. Tento údaj je povinný v řádku, který není označen jako storno řádek. Daňový doklad dobropis se do celkové částky započítává záporně.
+
+Celková hodnota plnění se zaokrouhlí na celé koruny nahoru.
+
+Celková hodnota plnění musí být vždy celé číslo.
+
+#### ODDÍL C
+
+**Řádky Dodání zboží s použitím přemístění zboží v režimu skladu uvnitř území Evropské unie (Call-off stock):**
+
+Pokud subjekt neužívá zjednodušený režim přemístění zboží v režimu skladu, tato stránka se nevyplňuje. V případě užití zjednodušeného režimu Dodání a pořízení zboží s použitím přemístění zboží v režimu skladu uvnitř území Evropské unie dle § 18 zákona č. 235/2004 Sb., o dani z přidané hodnoty (dále též v režimu „Call-off stock“, příp. zkratka „COS“), vykáže dodavatel přemístění zboží do skladu v jiném členském státě v souhrnném hlášení za zdaňovací období, kdy k přepravě došlo. V okamžiku převzetí zboží předpokládaným pořizovatelem dojde k dodání zboží a dodavatel jej vykáže standardním způsobem v Souhrnném hlášení jako intrakomunitární dodání. Na stránce „Dodání zboží s použitím přemístění zboží v režimu skladu uvnitř území Evropské unie (Call-off stock)“ se vykazuje kód země, DIČ předpokládaného pořizovatele a Kód záznamu. V případě užití kódu 3 (viz níže) se uvádí ještě DIČ původního předpokládaného pořizovatele.
+
+**Kód země:**
+
+Vyberte kód státu, který přidělil daňové identifikační číslo registrace k DPH pořizovatele.
+
+**DIČ předpokládaného pořizovatele (pouze číselná část):**
+
+Vyplňte daňové identifikační číslo registrace k DPH předpokládaného pořizovatele v jiném členském státu (bez kódu státu, pouze číselná část). Vyplňuje se bez mezer, čárek a teček. V dané aplikaci je realizována pouze základní kontrola formální správnosti této položky, konečná kontrola je prováděna až při pořízení Vámi podaného souhrnného hlášení (následného souhrnného hlášení) na FÚ.
+
+Hodnoty viz tabulku výše.
+
+**Kód záznamu:**
+
+Vyberte vhodnou hodnotu kódu záznamu z následujících:
+
+1 – přeprava zboží do skladu pro předpokládaného pořizovatele
+
+2 – úplné nebo částečné vrácení zboží dodavateli nebo oprava chyby
+
+3 – změna předpokládaného pořizovatele u části nebo veškerého zboží (DIČ původního předpokládaného pořizovatele musí být uvedeno spolu s DIČ nového předpokládaného pořizovatele)
+
+Kód 1 se užije v případě přepravy zboží do skladu, který je umístěn v jiném členském státě. V okamžiku přepravy musí být známo DIČ předpokládaného pořizovatele a musí být zde vykázáno.
+
+Kód 2 se užije v případě, kdy dojde k vrácení části nebo veškerého zboží dodavateli a jeho přepravě zpět do státu dodavatele.
+
+Kód 2 se rovněž užije v případě opravy chyby.
+
+Kód 3 se užije v případě změny předpokládaného pořizovatele u části nebo veškerého zboží. V takovém případě se vykáže země a DIČ původního i nového předpokládaného pořizovatele. Vzhledem k tomu, že stát nového a původního předpokládaného pořizovatele musí být stejný, kód státu se v řádku uvádí pouze jednou.
+
+Oprava chybně vykázaných údajů v režimu COS v některém z předchozích SH se neprovádí pomocí storno řádku, ale užitím kódu 2 v případě chybně vykázané přepravy zboží (původně s kódem 1).
+
+V údajích, které byly vykázány s kódem 2 a 3, nelze provést opravu chyby podáním následného souhrnného hlášení, proto kontaktujte svého správce daně.
+
+V případě nedodržení podmínek pro užití zjednodušeného režimu Dodání zboží s použitím přemístění zboží v režimu skladu uvnitř území Evropské unie, zejm. dle § 18, § 22, § 25, § 100a a § 102 zákona o DPH je dodavatel povinen se registrovat a splnit další daňové povinnosti ve státě, kde je umístěn sklad.
+
+**DIČ původního předpokládaného pořizovatele (pouze číselná část)**
+
+Vyplňte v případě užití kódu záznamu 3. Uveďte daňové identifikační číslo registrace k DPH původního předpokládaného pořizovatele v jiném členském státu (bez kódu státu, pouze číselná část). Vzhledem k tomu, že stát nového a původního předpokládaného pořizovatele musí být stejný, kód státu se v řádku uvádí pouze jednou. DIČ se vyplňuje bez mezer, čárek a teček. V dané aplikaci je realizována pouze základní kontrola formální správnosti této položky, konečná kontrola je prováděna až při zpracování Vámi podaného souhrnného hlášení (následného souhrnného hlášení) na FÚ. Hodnoty viz tabulku výše.
+
+### Příloha č. 12
+
+<table><tbody><tr><td colspan="2"><b>Kontrolní hlášení podle </b><b>§ 101c</b><b> a násl. zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td>25 5564 MFin 5564<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro / Specializovanému finančnímu úřadu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td></td><td>Kontrolní hlášení</td></tr><tr><td></td><td>Důvody pro podání následného kontrolního hlášení zjištěny dne</td></tr><tr><td></td><td>Číslo jednací výzvy</td></tr><tr><td></td><td>Rychlá odpověď na výzvu</td></tr><tr><td></td><td>Za období měsíc / čtvrtletí / rok</td></tr><tr><td></td><td>Za období od - do</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Titul</td></tr><tr><td></td><td>Sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu:</td></tr><tr><td></td><td>a) obec</td></tr><tr><td></td><td>b) PSČ</td></tr><tr><td></td><td>c) ulice (nebo část obce)</td></tr><tr><td></td><td>d) číslo popisné / orientační</td></tr><tr><td></td><td>e) stát</td></tr><tr><td></td><td>f) telefon</td></tr><tr><td></td><td>g) e-mail</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(-a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(-a) a příjmení / Vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / Osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Kontaktní osoba</td></tr><tr><td></td><td>Telefon</td></tr><tr><td colspan="2"><b>A. ODDÍL – Plnění, u kterých je plátce povinen přiznat daň a uskutečněná plnění v režimu přenesení daňové povinnosti</b></td></tr><tr><td colspan="2"><b>A. 1. – Uskutečněná zdanitelná plnění v režimu přenesení daňové povinnosti, u kterých je povinen přiznat daň příjemce plnění podle § 92a</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>DIČ odběratele</td></tr><tr><td>sl. 3</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 4</td><td>Datum uskutečnění zdanitelného plnění</td></tr><tr><td>sl. 5</td><td>Základ daně</td></tr><tr><td>sl. 6</td><td>Kód předmětu plnění</td></tr><tr><td colspan="2"><b>A. ODDÍL – Plnění, u kterých je plátce povinen přiznat daň a uskutečněná plnění v režimu přenesení daňové povinnosti</b></td></tr><tr><td colspan="2"><b>A. 2. – Přijatá zdanitelná plnění, u kterých je povinen přiznat daň příjemce dle § 108 odst. 2 a 3 (§ 24, § 25) (v případě plnění podle § 108 odst. 3 písm. b) jde o plnění přijatá od 29. 7. 2016)</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Identifikace dodavatele (VAT ID)</td></tr><tr><td>sl. 3</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 4</td><td>Datum povinnosti přiznat daň</td></tr><tr><td>sl. 5</td><td>Základ daně 1</td></tr><tr><td>sl. 6</td><td>Daň 1</td></tr><tr><td>sl. 7</td><td>Základ daně 2</td></tr><tr><td>sl. 8</td><td>Daň 2</td></tr><tr><td>sl. 9</td><td>Základ daně 3</td></tr><tr><td>sl. 10</td><td>Daň 3</td></tr><tr><td colspan="2" rowspan="2"><b>A. ODDÍL – Plnění, u kterých je plátce povinen přiznat daň a uskutečněná plnění v režimu přenesení daňové povinnosti</b></td></tr><tr></tr><tr><td colspan="2"><b>A. 3. – Uskutečněná plnění ve zvláštním režimu pro investiční zlato podle § 101c písm. c) bod 2</b></td></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>Identifikace odběratele (DIČ/VAT ID)</td></tr><tr><td>sl. 3</td><td>Odběratel bez DIČ/AT ID - Jméno, příjmení / obchodní jméno</td></tr><tr><td>sl. 4</td><td>Odběratel bez DIČ/AT ID - Datum narození</td></tr><tr><td>sl. 5</td><td>Odběratel bez DIČ/VAT ID - Místo pobytu / Sídlo</td></tr><tr><td>sl. 6</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 7</td><td>Datum uskutečnění plnění</td></tr><tr><td>sl. 8</td><td>Hodnota osvobozeného plnění</td></tr><tr><td colspan="2" rowspan="2"><b>A. ODDÍL – Plnění, u kterých je plátce povinen přiznat daň a uskutečněná plnění v režimu přenesení daňové povinnosti</b></td></tr><tr></tr><tr><td colspan="2" rowspan="3"><b>A. 4. – Uskutečněná zdanitelná plnění a přijaté úplaty s povinností přiznat daň dle § 108 odst. 1 s hodnotou nad 10.000 Kč včetně daně a všechny provedené opravy v souvislosti s nedobytnými pohledávkami bez ohledu na limit</b></td></tr><tr></tr><tr></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>DIČ odběratele</td></tr><tr><td>sl. 3</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 4</td><td>Datum povinnosti přiznat daň</td></tr><tr><td>sl. 5</td><td>Základ daně 1</td></tr><tr><td>sl. 6</td><td>Daň 1</td></tr><tr><td>sl. 7</td><td>Základ daně 2</td></tr><tr><td>sl. 8</td><td>Daň 2</td></tr><tr><td>sl. 9</td><td>Základ daně 3</td></tr><tr><td>sl. 10</td><td>Daň 3</td></tr><tr><td>sl. 11</td><td>Kód režimu plnění</td></tr><tr><td>sl. 12</td><td>Opravy nedobytných pohledávek</td></tr><tr><td colspan="2" rowspan="2"><b>A. ODDÍL – Plnění, u kterých je plátce povinen přiznat daň a uskutečněná plnění v režimu přenesení daňové povinnosti</b></td></tr><tr></tr><tr><td colspan="2" rowspan="3"><b>A. 5. – Ostatní uskutečněná zdanitelná plnění a přijaté úplaty s povinností přiznat daň dle </b><b>§ 108 odst. 1</b><b> s hodnotou do 10.000 Kč včetně daně, nebo plnění, u nichž nevznikla povinnost vystavit daňový doklad</b></td></tr><tr></tr><tr></tr><tr><td>sl. 1</td><td>Základ daně 1</td></tr><tr><td>sl. 2</td><td>Daň 1</td></tr><tr><td>sl. 3</td><td>Základ daně 2</td></tr><tr><td>sl. 4</td><td>Daň 2</td></tr><tr><td>sl. 5</td><td>Základ daně 3</td></tr><tr><td>sl. 6</td><td>Daň 3</td></tr><tr><td colspan="2"><b>B. ODDÍL – Přijatá zdanitelná plnění s místem plnění v tuzemsku</b></td></tr><tr><td colspan="2" rowspan="2"><b>B. 1. – Přijatá zdanitelná plnění v režimu přenesení daňové povinnosti, u kterých je povinen přiznat daň příjemce podle § 92a</b></td></tr><tr></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>DIČ dodavatele</td></tr><tr><td>sl. 3</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 4</td><td>Datum uskutečnění zdanitelného plnění</td></tr><tr><td>sl. 5</td><td>Základ daně 1</td></tr><tr><td>sl. 6</td><td>Daň 1</td></tr><tr><td>sl. 7</td><td>Základ daně 2</td></tr><tr><td>sl. 8</td><td>Daň 2</td></tr><tr><td>sl. 9</td><td>Základ daně 3</td></tr><tr><td>sl. 10</td><td>Daň 3</td></tr><tr><td>sl. 11</td><td>Kód předmětu plnění</td></tr><tr><td colspan="2"><b>B. ODDÍL – Přijatá zdanitelná plnění s místem plnění v tuzemsku</b></td></tr><tr><td colspan="2" rowspan="3"><b>B. 2. – Přijatá zdanitelná plnění a poskytnuté úplaty, u kterých příjemce uplatňuje nárok na odpočet daně dle § 73 odst. 1 písm. a) s hodnotou nad 10.000,- Kč včetně daně a všechny opravy odpočtu v souvislosti s nedobytnými pohledávkami bez ohledu na limit</b></td></tr><tr></tr><tr></tr><tr><td>sl. 1</td><td>Číslo řádku</td></tr><tr><td>sl. 2</td><td>DIČ dodavatele</td></tr><tr><td>sl. 3</td><td>Evidenční číslo daňového dokladu</td></tr><tr><td>sl. 4</td><td>Datum povinnosti přiznat daň</td></tr><tr><td>sl. 5</td><td>Základ daně 1</td></tr><tr><td>sl. 6</td><td>Daň 1</td></tr><tr><td>sl. 7</td><td>Základ daně 2</td></tr><tr><td>sl. 8</td><td>Daň 2</td></tr><tr><td>sl. 9</td><td>Základ daně 3</td></tr><tr><td>sl. 10</td><td>Daň 3</td></tr><tr><td>sl. 11</td><td>Použit poměr</td></tr><tr><td>sl. 12</td><td>Opravy nedobytných pohledávek</td></tr><tr><td colspan="2"><b>B. ODDÍL – Přijatá zdanitelná plnění s místem plnění v tuzemsku</b></td></tr><tr><td colspan="2" rowspan="2"><b>B. 3. – Přijatá zdanitelná plnění a poskytnuté úplaty, u kterých příjemce uplatňuje nárok na odpočet daně dle § 73 odst. 1 písm. a) s hodnotou do 10.000 Kč včetně daně</b></td></tr><tr></tr><tr><td>sl. 1</td><td>Základ daně 1</td></tr><tr><td>sl. 2</td><td>Daň 1</td></tr><tr><td>sl. 3</td><td>Základ daně 2</td></tr><tr><td>sl. 4</td><td>Daň 2</td></tr><tr><td>sl. 5</td><td>Základ daně 3</td></tr><tr><td>sl. 6</td><td>Daň 3</td></tr><tr><td colspan="2"><b>C. ODDÍL – Kontrolní řádky na Daňové přiznání k DPH (DaP)</b></td></tr><tr><td></td><td>A.4. + A.5. celkem základy daně u základní sazby DPH (řádek 1 DaP)</td></tr><tr><td></td><td>A.4. + A.5. celkem základy daně u snížené sazby DPH (řádek 2 DaP)</td></tr><tr><td></td><td>B.2. + B.3. celkem základy daně u základní sazby DPH (řádek 40 DaP)</td></tr><tr><td></td><td>B.2. + B.3. celkem základy daně u snížené sazby DPH (řádek 41 DaP)</td></tr><tr><td></td><td>A.1. celkem základy daně (řádek 25 DaP)</td></tr><tr><td></td><td>B.1. celkem základy daně u základní sazby DPH (řádek 10 DaP)</td></tr><tr><td></td><td>B.1. celkem základy daně u snížené sazby DPH (řádek 11 DaP)</td></tr><tr><td></td><td>A.2. celkem základy daně (řádky 3+4+5+6+9+12+13 DaP)</td></tr></tbody></table>
+
+#### POKYNY k vyplnění elektronického formuláře kontrolního hlášení DPH
+
+25 5564/1 MFin 5564/1
+
+Pokud jsou v pokynech uvedeny odkazy na jednotlivá ustanovení (§) zákona, jedná se o zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále též „zákon o DPH“), pokud není uvedeno jinak.
+
+Plátce (§ 6 až § 6f) a skupina (§ 5a) podávají kontrolní hlášení (dále též „KH“), pokud jim vznikne povinnost jej podat podle § 101c a následující. Kontrolní hlášení se podává výhradně elektronicky ve stanoveném formátu a struktuře zveřejněné na daňovém portále: www.mojedane.cz; popis struktury XML souborů: Dokumentace - Portál MOJE daně (mfcr.cz) / Kontrolní hlášení DPH. Podání kontrolního hlášení učiněné jiným způsobem je neúčinné.
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+#### Způsob vyplnění údajů do kontrolního hlášení
+
+Základ daně a daň (v české měně - CZK) se do kontrolního hlášení jako číselný údaj může uvádět v detailu (včetně haléřové položky), nebo zaokrouhleně na celé koruny (CZK), resp. dle daňových dokladů/evidence.
+
+V případě, že jsou na daňovém dokladu uvedena plnění spadající do různých režimů, je nutné tyto rozepsat do částí kontrolního hlášení, ke kterým přísluší (např. standardní režim, režim přenesení daňové povinnosti apod.).
+
+V případě splátkového kalendáře nebo platebního kalendáře se každé dílčí zdanitelné plnění/související úplata bude vykazovat samostatně do kontrolního hlášení za období, do kterého spadá podle data uskutečnění zdanitelného plnění/data přijetí úplaty (s opakováním evidenčního čísla dokladu – splátkového nebo platebního kalendáře).
+
+Blíže k vykazování údajů z daňových dokladů/evidence – viz jednotlivé části kontrolního hlášení.
+
+| **Upozornění k položce kontrolního hlášení: „Ev. číslo daňového dokladu“:<br> <br> Do položky „Evidenční číslo daňového dokladu“ („Ev. číslo daňového dokladu“) poskytovatel i příjemce plnění uvádějí shodné údaje, tj. číslo daňového dokladu uvedené poskytovatelem na daňovém dokladu při jeho vydání.<br> <br> Dodavatel vytvářející „Ev. číslo daňového dokladu“ používá především alfanumerické znaky, může však používat i speciální znaky (omezení znaků stanoveno v rámci popisu technické struktury formuláře kontrolního hlášení, dostupné na www.mojedane.cz).<br> <br> Odběratel přebírající daňový doklad v kontrolním hlášení zachytí „Ev. číslo daňového dokladu“ co nejpřesněji tak, jak je uvedeno na daňovém dokladu. Minimálně zachová alfanumerické znaky ve správném pořadí shodně, jak jsou uvedeny na daňovém dokladu.** |
+|---|
+
+1\. **Základní údaje o kontrolním hlášení DPH a informace o plátci:**
+
+**Finančnímu úřadu pro/Specializovanému finančnímu úřadu:** Uvede se zbývající část oficiálního názvu místně příslušného finančního úřadu (z číselníku; např. - hlavní město Prahu, - Jihočeský kraj, apod.). Bude-li plátce (či skupina) vybraným subjektem podle § 11 odst. 2 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů (dále jen „zákon o Finanční správě České republiky“), doplní Specializovanému finančnímu úřadu. Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Územní pracoviště v, ve, pro:** Uvede se sídlo územního pracoviště (z číselníku), na němž je nebo bude umístěn spis daňového subjektu (tj. plátce/skupiny), (§ 13 zákona o Finanční správě České republiky).
+
+**Daňové identifikační číslo (DIČ - pouze číselná část):** Uvádí se kmenová část daňového identifikačního čísla (pouze číselná část), které bylo přiděleno. Správné vyplnění tohoto údaje je pro další zpracování nezbytné, (textová reprezentace čísla – DIČ, nutno zachovat vodící nuly).
+
+**Druh kontrolního hlášení:** plátce vždy označí druh kontrolního hlášení z výběru, vyplnění tohoto údaje je pro další zpracování nezbytné:
+
+• **Řádné:** povinnost podat v zákonem stanovené lhůtě. Jedná se vždy o první podání za dané období, i když je podáváno po termínu pro podání.
+
+• **Řádné/opravné:** možnost nahradit již podané řádné kontrolní hlášení, a to pouze pokud neuplynula lhůta pro podání tohoto řádného kontrolního hlášení.
+
+K předchozímu kontrolnímu hlášení se nepřihlíží, tj. **plátce uvede znovu všechny údaje za předmětné období s promítnutím oprav**.
+
+• **Následné:** Povinnost podat následné kontrolní hlášení vzniká v případě, že plátce zjistí po uplynutí lhůty k podání řádného kontrolního hlášení, že v tomto kontrolním hlášení uvedl nesprávné nebo neúplné údaje. Následné kontrolní hlášení se podává do 5 pracovních dnů ode dne zjištění nesprávných nebo neúplných údajů. Povinnost podat následné kontrolní hlášení může vzniknout rovněž na základě výzvy správce daně. V takovém případě je povinnost jej podat do 17 dnů ode dne dodání této výzvy do datové schránky (nejedná se o doručení, ale o dodání) nebo do 5 pracovních dnů od oznámení této výzvy jiným způsobem než datovou schránkou. Následné kontrolní hlášení se nepodává jako rozdíl proti dříve podanému kontrolnímu hlášení, ale znovu – tedy jako **úplné se všemi údaji za předmětné období s promítnutím oprav**.
+
+• **Následné/opravné** se podává v případě, kdy plátce ve lhůtě pro podání následného kontrolního hlášení zjistí chybné údaje v tomto již podaném následném kontrolním hlášení – vždy budou znovu uvedeny všechny údaje za předmětné období s promítnutím oprav.
+
+**Důvody pro podání následného kontrolního hlášení zjištěny dne (datum):** Vyplní se tehdy, pokud bylo označeno podání následného kontrolního hlášení. V tomto případě je vyplnění dne, kdy byly zjištěny důvody pro podání následného kontrolního hlášení, pro další zpracování nezbytné. Vždy musí být vyplněna buď položka „Důvody pro podání následného kontrolního hlášení zjištěny dne“ anebo položka „č.j. výzvy“. Uvádí se datum ve formátu: „DD.MM.RRRR“.
+
+**Číslo jednací výzvy:** uvede se ve tvaru (včetně uvedených oddělovačů): 99999999/99/9999-99999-999999
+
+V případě použití volby „rychlá odpověď na výzvu“ je vyplnění položky pro další zpracování nezbytné.
+
+**Rychlá odpověď na vyzvu:** Vyplňuje se pouze ve specifických případech jako reakce na výzvu správce daně, kdy plátci nevznikla povinnost podat kontrolní hlášení za příslušné období nebo potvrzuje správnost naposledy podaného kontrolního hlášení (tj. nemění žádná data). V případě použití této volby nesmějí být vyplněny řádky v oddílech A, B i C kontrolního hlášení, ale vyplnění údajů o „Plátci“ (jeho identifikace) a „Záhlaví“ (základní údaje o kontrolním hlášení) je pro další zpracování nezbytné. Dále je nutné doplnit položku „č.j. výzvy“ (resp. celé číslo jednací správce daně z doručené výzvy). Tímto způsobem plátce odpovídá v uvedeném případě na výzvu správce daně.
+
+Volby:
+
+• Nemám povinnost podat KH.
+
+• Potvrzuji správnost naposledy podaného KH.
+
+**Období, za které se podává kontrolní hlášení:** Plátce uvede, za jaké období dle § 101e kontrolní hlášení podává. Uvede se období (příp. jeho část), včetně kalendářního roku. Vyplnění měsíce nebo čtvrtletí a také roku je pro další zpracování nezbytné.
+
+**Období – měsíc:** Období, za které se kontrolní hlášení podává. Plátce vyplní kalendářní měsíc, za který (příp. za jehož část) podává kontrolní hlášení. Kalendářní měsíc se uvede číslicí v rozsahu 1 až 12, k vyplněné hodnotě se nepřipisuje tečka.
+
+**Období – čtvrtletí:** Období, za které se kontrolní hlášení podává. Plátce vyplní kalendářní čtvrtletí, za které (příp. za jehož část) podává kontrolní hlášení. Kalendářní čtvrtletí se uvede číslicí v rozsahu 1 až 4, k vyplněné hodnotě se nepřipisuje tečka.
+
+**Období od – do:** Pouze pro fyzickou osobu (právnická osoba podává vždy za celý měsíc): Pokud je kontrolní hlášení podáváno pouze za část vyplněného období (např. v případě insolvenčního řízení), zadává se za období „od – do“. Datum se zadává ve formátu „DD.MM.RRRR“. Pokud je vyplněna pouze hodnota „od“, pak se předpokládá interval od zadaného data do konce zadaného období. Pokud je vyplněna pouze hodnota „do“, pak se předpokládá interval od počátku zadaného období do zadaného data.
+
+**Rok:** Vyplní se kalendářní rok, za který je podáváno kontrolní hlášení (číslo: „RRRR“).
+
+**Datum vyhotovení kontrolního hlášení:** Zadá se datum ve formátu „DD.MM.RRRR“.
+
+**Typ daňového subjektu** (v případě skupiny se uvede typ zastupujícího člena), vyplnění tohoto údaje je pro další zpracování nezbytné – zvolí se hodnota z výběru:
+
+F - fyzická osoba
+
+P - právnická osoba.
+
+**Název právnické osoby:** Vyplní se název právnické osoby - plátce, který podává kontrolní hlášení, (textová položka).
+
+**Příjmení a jméno fyzické osoby:** Vyplní se v případě, že kontrolní hlášení podává plátce – fyzická osoba. Případně se vyplní akademický titul – jako nepovinná položka, (textové položky).
+
+**Sídlo právnické osoby/adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu:** Vyplňují se následující položky: **Ulice (nebo část obce)**/textová položka; **Číslo popisné:** pouze číslo; **Číslo orientační**/textová položka; **Obec**/textová položka z číselníku; **PSČ:** PSČ v České republice musí mít délku 5 znaků bez mezer/textová položka; **Stát:** vybere se hodnota z číselníku (země)/textová položka.
+
+**Kontaktní informace** (nepovinné položky):
+
+**Telefon:** Vyplní se číslo telefonu, na kterém je možné kontaktovat daňový subjekt, (textová položka).
+
+**E-mail:** Adresa elektronické pošty, kterou plátce uvede v souladu s § 101g odst. 4 a je určena pro účely zasílání písemností vydaných správcem daně souvisejících s kontrolním hlášením (zejména případných výzev zasílaných podle § 101g odst. 4). K jinému účelu využita nebude. Formát položky: e-mail.
+
+**Údaje o podepisující osobě (vyplňuje se jen v případech, kdy je osoba odlišná od daňového subjektu, tj. zástupce):**
+
+**Typ podepisující osoby:** Zvolí se typ podepisující osoby: F - fyzická osoba (živnost) nebo P - právnická osoba (s.r.o., a.s., v.o.s.,....). Pokud podává podepisující osoba, je vyplnění pole povinné.
+
+**Kód podepisující osoby:** Vybere se číselný kód podle níže uvedených typů podepisující osoby (z výběru):
+
+Fyzická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti 7b – zástupce právního nástupce právnické osoby
+
+Právnická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+**Příjmení a Jméno podepisující osoby:** Pokud kontrolní hlášení podává fyzická podepisující osoba (je zvolen typ podepisující osoby „F“), je vyplnění polí povinné, (textové položky).
+
+**Datum narození podepisující osoby:** Pokud kontrolní hlášení podává fyzická podepisující osoba (je zvolen typ podepisující osoby „F“), je vyplnění data narození nebo evidenčního čísla osvědčení daňového poradce - fyzické osoby povinné. Datum je zadáno ve formátu „DD.MM.RRRR“.
+
+**Evidenční číslo osvědčení daňového poradce:** Pokud kontrolní hlášení podává fyzická podepisující osoba (je zvolen typ podepisující osoby „F“), je vyplnění data narození nebo evidenčního čísla osvědčení daňového poradce - fyzické osoby povinné, (textová položka).
+
+**Název právnické podepisující osoby:** Pokud kontrolní hlášení podává právnická podepisující osoba (je zvolen typ podepisující osoby „P“), je vyplnění pole povinné, (textová položka).
+
+**IČ podepisující právnické osoby:** Pokud kontrolní hlášení podává právnická podepisující osoba (je zvolen typ podepisující osoby „P“), je vyplnění pole povinné, (textová reprezentace čísla - IČ, nutno zachovat vodící nuly).
+
+**Fyzická osoba oprávněná k podpisu (je-li daňový subjekt či podepisující osoba právnickou osobou), s uvedením vztahu k právnické osobě (např. jednatel, pověřený pracovník atd.):** Vyplňuje se, je-li typ daňového subjektu nebo typ jeho podepisující osoby právnická osoba (textové položky):
+
+**Příjmení a Jméno fyzické osoby oprávněné k podpisu**
+
+**Vztah k právnické osobě - fyzické osoby oprávněné k podpisu:** Postavení oprávněné osoby k subjektu.
+
+**Kontaktní osoba:** Kontaktní osoba případně osoba, která sestavila podání/tvrzení, vyplní: **Příjmení a Jméno**, **Telefon** (nepovinné textové položky).
+
+2\. **Obsahová část kontrolního hlášení:**
+
+##### Oddíl A.:
+
+A. **Plnění, u kterých je plátce povinen přiznat daň a uskutečněná plnění v režimu přenesení daňové povinnosti**
+
+A.1. **Uskutečněná zdanitelná plnění v režimu přenesení daňové povinnosti, u kterých je povinen přiznat daň příjemce plnění podle § 92a**
+
+Plátce - poskytovatel uvede údaje za každé jednotlivé zdanitelné plnění uskutečněné v režimu přenesení daňové povinnosti. Souhrn těchto plnění za zdaňovací období odpovídá řádku 25 daňového přiznání k DPH.
+
+Plátce (poskytovatel plnění v režimu přenesení daňové povinnosti) uvede pro řádek kontrolního hlášení:
+
+**Číslo řádku:** Pokud je uvedeno, budou řádky ve formuláři uspořádány v zadaném pořadí, (číselná položka).
+
+**DIČ odběratele (pouze kmenová část):** Vyplní se kmenová část (tj. pouze číselná část) daňového identifikačního čísla odběratele. Vyplnění tohoto údaje je pro další zpracování nezbytné. Nesmí být uvedeno DIČ subjektu, za který je KH podáváno, (textová reprezentace čísla – DIČ, nutno zachovat vodící nuly).
+
+**Evidenční číslo daňového dokladu:** Nepodává-li kontrolní hlášení skupina, nesmí být duplicitní evidenční číslo daňového dokladu v řádcích se stejným kódem předmětu plnění. Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Datum uskutečnění zdanitelného plnění „DUZP“:** Plnění v režimu přenesení daňové povinnosti přiznává dodavatel ke dni uskutečnění zdanitelného plnění, nikoli z případných předcházejících přijatých plateb před uskutečněním zdanitelného plnění – uvede se datum ve tvaru: DD.MM.RRRR (tj. 10místná položka). Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Základ daně:** Uvede se základ daně (bez rozlišení sazby daně), číselná položka. Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Kód předmětu plnění:** Uvede se hodnota z číselníku (musí být použit číselník platný k období, za které se kontrolní hlášení podává). Pokud bude na jednom daňovém dokladu uvedeno více druhů plnění (spadajících pod různé kódy), je nutno rozepsat každý kód plnění na samostatný řádek (s uvedením stejného evidenčního čísla daňového dokladu). Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+Zvolí se hodnota z číselníku - platného k období, za které se kontrolní hlášení podává:
+
+**Pro období od 1. 7. 2017:**
+
+1 – Zlato
+
+1a – Zlato – zprostředkování dodání investičního zlata
+
+3 – Dodání nemovité věci
+
+3a – Dodání nemovité věci v nuceném prodeji
+
+4 – Stavební a montážní práce
+
+4a – Stavební a montážní práce – poskytnutí pracovníků
+
+5 – Zboží uvedené v příloze č. 5
+
+6 – Dodání zboží poskytnutého původně jako záruka
+
+7 – Dodání zboží po postoupení výhrady vlastnictví
+
+11 – Povolenky na emise skleníkových plynů
+
+12 – Obiloviny a technické plodiny
+
+13 – Kovy
+
+14 – Mobilní telefony
+
+15 – Integrované obvody
+
+16 – Přenosná zařízení pro automatizované zpracování dat
+
+17 – Videoherní konzole
+
+18 – Dodání certifikátů elektřiny
+
+19 – Dodání elektřiny soustavami nebo sítěmi obchodníkovi
+
+20 – Dodání plynu soustavami nebo sítěmi obchodníkovi
+
+21 – Poskytnutí vymezených služeb elektronických komunikací
+
+A.2. **Přijatá zdanitelná plnění, u kterých je povinen přiznat daň příjemce dle § 108 odst. 2 a 3 (§ 24, § 25), (v případě plnění podle § 108 odst. 3 písm. b) jde o plnění přijatá od 29. 7. 2016)**
+
+Část A.2. vyplní plátce, který pořizuje zboží v tuzemsku z jiného členského státu (§ 25), **tj. řádky daňového přiznání k DPH 3, 4 a 9****:**
+
+– Uvede se údaj o základu daně a dani na výstupu dle sazby daně z pořízení zboží z jiného členského státu dle § 16 a také údaj o základu daně a dani na výstupu při přemístění zboží z jiného členského státu dle § 16 odst. 4.
+
+– Kupující uvede údaj o základu daně a dani na výstupu u dodání zboží formou třístranného obchodu, u kterého mu vznikla povinnost přiznat daň podle § 108 odst. 4 písm. b).
+
+– Uvede se údaj o základu daně a dani na výstupu z pořízení nového dopravního prostředku podle § 19 odst. 1 plátcem od osoby podle § 16 odst. 2.
+
+– Uvede se údaj o základu daně a dani na výstupu z pořízení nového dopravního prostředku podle § 19 odst. 1 plátcem od jiné osoby než osoby podle § 16 odst. 2 dle § 19c odst. 2.
+
+Část A.2. také vyplní plátce, kterému je poskytnuto osobou neusazenou v tuzemsku plnění s místem plnění v tuzemsku (§ 24), pokud se jedná o dodání zboží, poskytnutí služby podle § 9 až 10d, dodání zboží s instalací a montáží nebo dodání zboží soustavami a sítěmi (plyn, elektřina, teplo nebo chlad) – **tj. řádky daňového přiznání 5 a 6, anebo řádky 12 nebo 13 daňového přiznání k DPH****:**
+
+**–** Uvede se údaj o základu daně a dani na výstupu dle sazby daně ze služby přijaté (a případně z poskytnuté úplaty: tj. pokud je v okamžiku poskytnutí úplaty zdanitelné plnění známo dostatečně určitě, § 20a a § 24) od osoby registrované k dani v jiném členském státě s místem plnění v tuzemsku podle § 9 odst. 1, vznikla-li jejím přijetím povinnost přiznat a zaplatit daň podle § 108 odst. 3 písm. a), (řádky 5 a 6 daňového přiznání k DPH).
+
+– Uvede se údaj o základu daně a dani na výstupu z plnění poskytnutých osobou neusazenou v tuzemsku s místem plnění v tuzemsku (uvedených na řádku 12 a 13 daňového přiznání k DPH), vznikla-li jejich přijetím, nebo poskytnutím úplaty (tj. pokud je v okamžiku poskytnutí úplaty zdanitelné plnění známo dostatečně určitě § 20a a § 24), - povinnost přiznat a zaplatit daň podle § 108.
+
+Plátce uvede přijatá zdanitelná plnění, u kterých je jako příjemce povinen přiznat daň podle § 108 odst. 2 a 3, do kontrolního hlášení (část A.2.) za období, ve kterém mu vznikla povinnost přiznat daň podle § 24 nebo § 25 (tj. podle data povinnosti přiznat daň – bez ohledu na to, zda má v daném okamžiku k dispozici daňový doklad). V případě, že na základě později obdrženého daňového dokladu zjistí plátce změny ohledně hodnoty základu daně (tj. i daně) z dotčeného plnění, uvede tuto změnu (pouze rozdíl oproti původně deklarovaným hodnotám, nebo storno původního řádku a uvedení nového obsahující celou správnou hodnotu dotčeného plnění) do řádného kontrolního hlášení za období, kdy obdržel daňový doklad (podle data vydání daňového dokladu). V případě, že žádné hodnotové změny nejsou později obdrženým daňovým dokladem prezentovány, plátce plnění již duplicitně do kontrolního hlášení neuvádí (tzn. nedoplňuje pouze číslo dokladu atd.).
+
+Pro řádek kontrolního hlášení část A.2. vyplňuje plátce:
+
+**Číslo řádku:** Pokud je uvedeno, budou řádky ve formuláři uspořádány v zadaném pořadí, (číselná položka).
+
+**Identifikace dodavatele:**
+
+**Kód státu:** Uvede se kód státu, který přidělil daňové identifikační číslo registrace k DPH dodavatele (např. z Německa „DE“).
+
+Seznam kódů zemí:
+
+| Název země | Kód země |
+|---|---|
+| BELGIE | BE |
+| BULHARSKO | BG |
+| ČESKÁ REPUBLIKA | CZ |
+| DÁNSKO | DK |
+| ESTONSKO | EE |
+| FINSKO | Fl |
+| FRANCIE | FR |
+| CHORVATSKO | HR |
+| IRSKO | IE |
+| ITÁLIE | IT |
+| KYPR | CY |
+| LITVA | LT |
+| LOTYŠSKO | LV |
+| LUCEMBURSKO | LU |
+| MAĎARSKO | HU |
+| MALTA | MT |
+| NĚMECKO | DE |
+| NIZOZEMSKO | NL |
+| POLSKO | PL |
+| PORTUGALSKO | PT |
+| RAKOUSKO | AT |
+| RUMUNSKO | RO |
+| ŘECKO | EL |
+| SEVERNÍ IRSKO | XI |
+| SLOVENSKO | SK |
+| SLOVINSKO | Sl |
+| ŠPANĚLSKO | ES |
+| ŠVÉDSKO | SE |
+| VELKÁ BRITÁNIE | GB |
+
+**DIČ DPH dodavatele z jiného členského státu, tj. tzv. VAT ID:** uvede se ve formátu bez mezer a bez kódu členského státu dodavatele – např. u Německa: „12345678“. V případě, že dodavatel nemá VAT ID, tj. EU DIČ DPH, (může se jednat např. o DIČ osoby povinné k dani z jiného členského státu nebo identifikaci zahraniční osoby povinné k dani, nebo ve vybraných případech přemístění zboží podle § 16 odst. 4) – tak v těchto případech pole „Identifikace dodavatele“ zůstává prázdné.
+
+**Daňová identifikační čísla členských států EU (včetně GB):**
+
+| Název země | Kód země | Formát DIČ dodavatele | Počet znaků | Poznámky |
+|---|---|---|---|---|
+| BELGIE | BE | 1234567890 | 10 | pouze číslice |
+| BULHARSKO | BG | 123456789<br> 1234567890 | 9<br> nebo 10 | pouze číslice |
+| ČESKÁ<br> REPUBLIKA | CZ | 12345678<br> 123456789<br> 1234567890 | 8 nebo<br> 9 nebo<br> 10 | pouze číslice |
+| DÁNSKO | DK | 12345678 | 8 | pouze číslice |
+| ESTONSKO | EE | 123456789 | 9 | pouze číslice |
+| FINSKO | FI | 12345678 | 8 | pouze číslice |
+| FRANCIE | FR | 12345678901<br> X1123456789<br> 1X123456789<br> XX123456789 | 11 | obsahuje buď jen číslice nebo na prvním nebo druhém místě nebo na prvním a druhém místě velké písmeno, s výjimkou písmen I a O |
+| CHORVATSKO | HR | 12345678901 | 11 | pouze číslice; Pozn.: je možné použít od 1.7.2013 |
+| IRSKO | IE | 1234567X<br> 1X34567X<br> 1234567XX | 8<br> nebo 9 | obsahuje jedno nebo dvě velká písmena, a to na posledním místě nebo na druhém a posledním místě (pro délku 8), obsahuje dvě velká písmena, a to na posledním a předposledním místě (pro délku 9) |
+| ITÁLIE | IT | 12345678901 | 11 | pouze číslice |
+| KYPR | CY | 12345678X | 9 | obsahuje na posledním místě jedno velké písmeno |
+| LITVA | LT | 123456789<br> 123456789012 | 9<br> nebo 12 | pouze číslice |
+| LOTYŠSKO | LV | 12345678901 | 11 | pouze číslice |
+| LUCEMBURSKO | LU | 12345678 | 8 | pouze číslice |
+| MAĎARSKO | HU | 12345678 | 8 | pouze číslice |
+| MALTA | MT | 12345678 | 8 | pouze číslice |
+| NĚMECKO | DE | 123456789 | 9 | pouze číslice |
+| NIZOZEMSKO | NL | 123456789B01<br> nebo<br> ZZZZZZZZZZ12 | 12 | prvních devět znaků jsou číslice, poslední 3 znaky jsou vždy v rozsahu B01 až B99 nebo prvních deset znaků jsou číslice nebo velká písmena nebo „+“ nebo „\*“, poslední 2 znaky jsou vždy v rozsahu 02 až 98 |
+| POLSKO | PL | 1234567890 | 10 | pouze číslice |
+| PORTUGALSKO | PT | 123456789 | 9 | pouze číslice |
+| RAKOUSKO | AT | U12345678 | 9 | první znak je vždy U, zbývajících osm jsou číslice |
+| RUMUNSKO | RO | 1234567890 | 10<br> a méně | pouze číslice<br> vzhledem k proměnlivé délce DIČ je i číslice „0“ na prvním popřípadě dalších místech DIČ rozhodující, např. RO 019 a RO 0019 představují dvě rozdílná DIČ |
+| ŘECKO | EL | 123456789 | 9 | pouze číslice |
+| SEVERNÍ IRSKO | XI | 123456789<br> nebo<br> 123456789012<br> nebo<br> GD123<br> nebo<br> HA123 | 9<br> nebo<br> 12<br> nebo<br> 5 | pouze číslice nebo na prvním a druhém místě písmena GD nebo HA<br> - v případě 12 číslic poslední tři představují identifikaci organizační složky pořizovatele zboží,<br> - písmena GD a tři následující číslice představují identifikaci vládní instituce,<br> - písmena HA a tři následující číslice představují identifikaci zdravotnické organizace |
+| SLOVENSKO | SK | 1234567890 | 10 | pouze číslice |
+| SLOVINSKO | Sl | 12345678 | 8 | pouze číslice |
+| ŠPANĚLSKO | ES | X12345678<br> 12345678X<br> X1234567X | 9 | obsahuje jedno nebo dvě velká písmena, a to na prvním nebo posledním místě nebo na prvním a posledním místě |
+| ŠVÉDSKO | SE | 123456789012 | 12 | pouze číslice |
+| VELKÁ BRITÁNIE | GB | 123456789<br> nebo<br> 123456789012<br> nebo<br> GD123<br> nebo<br> HA123 | 9<br> nebo<br> 12<br> nebo<br> 5 | pouze číslice nebo na prvním a druhém místě písmena GD nebo HA<br> - v případě 12 číslic poslední tři představují identifikaci organizační složky pořizovatele zboží,<br> - písmena GD a tři následující číslice představují identifikaci vládní instituce,<br> - písmena HA a tři následující číslice představují identifikaci zdravotnické organizace |
+
+**Evidenční číslo daňového dokladu:** uvedené na dokladu, pokud plátce nemá doklad k dispozici položku „Ev. číslo daňového dokladu“ ponechá prázdnou (nebo lze uvést číslo z interní databáze plátce).
+
+**Datum povinnosti přiznat daň („DPPD“):** ve tvaru DD.MM.RRRR, tj. 10místná položka - podle § 24 (tj. ke dni uskutečnění zdanitelného plnění nebo ke dni poskytnutí úplaty, pokud je zdanitelné plnění ke dni poskytnutí úplaty známo dostatečně určitě - § 20a), podle § 25 (k patnáctému dni v měsíci, který následuje po měsíci, v němž bylo zboží pořízeno. Pokud však byl daňový doklad vystaven před patnáctým dnem měsíce, který následuje po měsíci, v němž bylo zboží pořízeno, vzniká povinnost přiznat daň ke dni vystavení tohoto dokladu. V případě pořízení zboží z jiného čl. státu podle § 16 odst. 4, tj. přemístění zboží do tuzemska z jiného čl. státu, vzniká povinnost přiznat daň dnem přemístění do tuzemska). Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Základ daně a daň:** Číselné položky. Pokud je na daňovém dokladu více plnění v různých sazbách daně, jsou jednotlivé položky základu daně a příslušná daň připadající na konkrétní sazbu daně - rozepsány samostatně, avšak do jednoho řádku kontrolního hlášení (tj. k jednomu daňovému dokladu). Údaje se uvádí v české měně (CZK). Pro přepočet na CZK platí ustanovení zákona o DPH.
+
+**Základ daně 1:** základ daně pro základní sazbu DPH
+
+**Daň 1:** hodnota daně v základní sazbě DPH
+
+**Základ daně 2:** základ daně pro sníženou sazbu DPH (pro plnění s datem povinnosti přiznat daň/DPPD do 31. 12. 2023 se uvádí základ daně pro první sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Daň 2:** hodnota daně ve snížené sazbě DPH (pro plnění s DPPD do 31. 12. 2023 se uvádí hodnota daně v první snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Základ daně 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to základ daně pro druhou sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně
+
+**Daň 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to hodnota daně v druhé snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně.
+
+A.3. **Uskutečněná plnění ve zvláštním režimu pro investiční zlato podle § 101c písm. c) bod 2**
+
+Vyplní plátce, který ve zvláštním režimu pro investiční zlato (§ 92) uskutečnil s místem plnění v tuzemsku pro jiného plátce (nebo neplátce) dodání investičního zlata osvobozené od daně, u kterého má nárok na odpočet daně podle § 92 odst. 7 písm. b) a c). Vyplňují se údaje z daňového dokladu – jeden řádek = jeden daňový doklad. V případě vystavení souhrnného daňového dokladu, tj. dokladu za několik samostatných zdanitelných plnění, které plátce uskuteční pro stejnou osobu v rámci kalendářního měsíce, uvede plátce souhrnnou hodnotu plnění z tohoto dokladu na jednom řádku kontrolního hlášení a do pole datum uskutečnění osvobozeného plnění („DUP“) uvede poslední (kalendářní) datum uskutečnění uvedené na dokladu.
+
+Plátce uvede za každé jednotlivé plnění (řádek kontrolního hlášení):
+
+**Číslo řádku:** Pokud je uvedeno, budou řádky ve formuláři uspořádány v zadaném pořadí, (číselná položka).
+
+**Identifikaci odběratele:**
+
+**DIČ/VAT ID** (uvádí se zvlášť kód státu a zvlášť kmenová část DIČ/VAT ID):
+
+**Kód státu:** Uvede se kód státu, který přidělil daňové identifikační číslo registrace k DPH odběratele - např. u Německa „DE“.
+
+Seznam kódů zemí (nabídka) – viz část A.2.KH (identifikace dodavatele/kód státu).
+
+**DIČ/VAT ID:** DIČ DPH z jiného členského státu, tj. tzv. VAT ID, ve formátu bez mezer bez kódu členského státu odběratele – např. u Německa „123456789“. Daňová identifikační čísla členských států EU (včetně GB) – viz část A.2.KH (identifikace dodavatele/DIČ DPH/VAT ID).
+
+Pokud nemá odběratel DIČ (nebo tzv. „VAT ID“, resp. DIČ DPH EU – v případě osoby registrované k dani v jiném členském státě), položka zůstane prázdná (tj. např. fyzická osoba nepovinná k dani, nebo osoba povinná k dani nemající tuzemské DIČ pro daňové účely nebo VAT ID). V těchto případech je pak nutné uvést jinou identifikaci odběratele (viz další položky):
+
+**Jméno a příjmení nebo obchodní jméno (název):** Pokud má odběratel DIČ (kód státu a kmenová část DIČ nebo VAT ID), položka zůstane prázdná. Pokud odběratel nemá DIČ nebo VAT ID a je fyzická osoba nepovinná k dani, vyplní se zde jméno a příjmení. Pokud je odběratel právnická osoba, tak se zde vyplní obchodní jméno/název právnické osoby. Pokud nemá odběratel DIČ nebo VAT ID, je vyplnění této položky povinné, (textové položky).
+
+**Datum narození:** Pokud má odběratel DIČ (kód státu a kmenová část DIČ nebo VAT ID), položka zůstane prázdná. Pokud odběratel nemá DIČ nebo VAT ID a je fyzická osoba nepovinná k dani, vyplní se zde datum narození (ve tvaru DD.MM.RRRR, tj 10-místná položka). Pokud je odběratel právnická osoba, tak položka zůstane prázdná.
+
+**Místo pobytu nebo sídlo příjemce plnění:** uvedou se údaje za sebou oddělené čárkou: ulice a číslo popisné nebo číslo orientační, název obce, PSČ, stát. Pokud má odběratel DIČ (kód státu a kmenová část DIČ nebo VAT ID), položka zůstane prázdná. Pokud odběratel nemá DIČ nebo VAT ID a je fyzická osoba nepovinná k dani, vyplní se zde místo pobytu. Pokud je odběratel právnická osoba nepovinná k dani nebo osoba povinná k dani nemající tuzemské DIČ pro daňové účely nebo VAT ID, tak se zde vyplní sídlo právnické osoby. Pokud nemá odběratel DIČ nebo VAT ID, je vyplnění této položky povinné, (textová položka).
+
+**Evidenční číslo daňového dokladu:** Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Datum uskutečnění osvobozeného plnění („DUP“):** uvede se datum ve tvaru DD.MM.RRRR, tj. 10místná položka. Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Hodnotu osvobozeného plnění**, kterou je povinen uvést na kumulativním řádku 26 daňového přiznání k DPH. Vyplnění tohoto údaje je pro další zpracování nezbytné. Číselná položka.
+
+A.4. **Uskutečněná zdanitelná plnění a přijaté úplaty s povinností přiznat daň dle § 108 odst. 1 s hodnotou nad 10.000,- Kč včetně daně a všechny provedené opravy v souvislosti s nedobytnými pohledávkami bez ohledu na limit**
+
+Část A.4. vyplňuje plátce, který uskutečňuje zdanitelné plnění (nebo přijímá úplatu) dodání zboží či poskytnutí služby **s místem plnění v tuzemsku** (§ 13, § 14 - řádek daňového přiznání k DPH: 1, 2), kde součet hodnot všech plnění nebo přijatých úplat vykazovaných na daňovém dokladu **přesahuje hodnotu 10.000,- Kč včetně daně** (= celková hodnota daňového dokladu v součtu včetně daně přesahuje stanovený limit – bez ohledu na režim DPH dotčených plnění), a to včetně zvláštních režimů při splnění uvedeného limitu (zvláštní režim pro cestovní službu podle § 89, zvláštní režim pro použité zboží podle § 90 – pro posouzení limitu se uvažuje celá hodnota plnění) – pro osobu příjemce:
+
+– plátce,
+
+– osoby povinné k dani – neplátce,
+
+– právnické osoby nepovinné k dani (§ 28 odst. 1 písm. a).
+
+Vyplňují se údaje z daňového dokladu – jeden řádek = jeden daňový doklad. V případě zvláštních druhů daňových dokladů jako je **splátkový a platební kalendář**, pokud jednotlivá resp. dílčí plnění/přijaté úplaty svojí hodnotou nedosahují limitu 10.000.- Kč včetně daně, ale jsou z daňového dokladu, který v celkovém součtu tento limit překročí, vykáží se také na řádku A.4.KH.
+
+V případě vystavení **souhrnného daňového dokladu**, tj. dokladu za několik samostatných zdanitelných plnění (nebo přijatých úplat), které plátce uskuteční pro stejnou osobu v rámci kalendářního měsíce, uvede plátce souhrnnou hodnotu zdanitelných plnění z dokladu na jednom řádku kontrolního hlášení, a to v členění podle jednotlivých sazeb daně (základ daně a daň týkající se příslušné sazby) a do pole „datum povinnosti přiznat daň“ („DPPD“), tj. den uskutečnění plnění nebo den přijetí úplaty (pokud je zdanitelné plnění v okamžiku přijetí úplaty známo dostatečně určitě – § 20a), uvede poslední (kalendářní) datum uskutečnění zdanitelného plnění uvedené na dokladu týkající se období, za které je podáno kontrolní hlášení. Pro souhrnný daňový doklad uváděný v části A.4. KH musí být splněn níže uvedený limit (10.000,- Kč vč. daně) – hodnoty všech plnění (nebo přijatých úplat) se na souhrnném daňovém dokladu sčítají.
+
+U zvláštních režimů (§ 89, § 90) se do kontrolního hlášení uvádí základ daně (přirážka snížená o daň z přirážky) a daň vypočtená z přirážky (údaje z řádku č. 1,2 daňového přiznání zahrnující zmíněné zvláštní režimy). Tj. údaje, které má plátce ve své evidenci vedené pro účely daně z přidané hodnoty k předmětnému plnění.
+
+Do části A.4. KH se dále uvádějí všechny provedené opravy základu daně a související daně podle **§ 42a** (oprava základu daně osobou povinnou k dani, která přestala být plátcem nebo identifikovanou osobou), **§ 46** **a násl.** a opravy výše daně podle **§ 44 ve znění do 31. 3. 2019 - bez ohledu na jejich limit**.
+
+V případě oprav zdanitelných plnění podle **§ 42** vykazovaných v části A.4. – tyto se do části A.4. vykazují s ohledem na jejich limit, **tj. absolutní hodnotu opravy**.
+
+Do řádku části A.4. kontrolního hlášení plátce uvádí:
+
+**Číslo řádku:** Pokud je uvedeno, budou řádky ve formuláři uspořádány v zadaném pořadí, (číselná položka).
+
+**DIČ odběratele (kmenová část):** Uvede se pouze číselná část DIČ odběratele (bez kódu CZ). Vyplnění údaje je pro další zpracování nezbytné (povinná položka). Uvede se DIČ pro účely DPH, v případě neplátců nebo právnických osob nepovinných k dani - DIČ podle daňového řádu.
+
+*Pozn.: Ve speciálních případech, pokud nemá odběratel tuzemské DIČ, uvede se plnění do části A.5. kontrolního hlášení bez ohledu na limit (např. osoba povinná k dani neusazená v tuzemsku, zahraniční osoby: může jít o speciální případy kdy se místo plnění nachází v tuzemsku – např. služba přepravy osob po tuzemském území, dodání zboží bez přepravy na tuzemském území aj.). Nebo rovněž může jít o případy, kdy odběratel nesdělí své DIČ a má se za to, že vystupuje jako fyzická osoba nepovinná k dani. Nesmí být uvedeno vlastní DIČ (osoby podávající KH), (textová reprezentace čísla – DIČ, nutno zachovat vodící nuly).*
+
+**Evidenční číslo daňového dokladu:** Nepodává-li kontrolní hlášení skupina, nesmí být evidenční číslo dokladu uvedeno duplicitně v řádcích se stejným kódem režimu plnění nebo v řádcích se stejným datem povinnosti přiznat daň „DPPD“. Vyplnění údaje je nezbytné pro další zpracování.
+
+**Datum povinnosti přiznat daň („DPPD“):** Uvede se datum ve tvaru DD.MM.RRRR, tj. 10-místná položka. Vyplnění údaje je pro další zpracování nezbytné. Den uskutečnění zdanitelného plnění nebo den přijetí úplaty – tj. včetně případných přijatých plateb před uskutečněním plnění, pokud je zdanitelné plnění v okamžiku přijetí úplaty známo dostatečně určitě (§ 20a).
+
+**Základ daně** (vyjma případů oprav podle § 44 ve znění do 31. 3. 2019) a **daň**, které je povinen přiznat plátce na řádky 1 nebo 2 daňového přiznání k DPH. Pokud je na daňovém dokladu více plnění v různých sazbách daně, jsou jednotlivé položky základu daně a příslušná daň připadající na konkrétní sazbu daně rozepsány samostatně, avšak do jednoho řádku kontrolního hlášení (tj. k jednomu daňovému dokladu), (číselné položky).
+
+**Základ daně 1:** základ daně pro základní sazbu DPH
+
+**Daň 1:** hodnota daně v základní sazbě DPH
+
+**Základ daně 2:** základ daně pro sníženou sazbu DPH (pro plnění s datem povinnosti přiznat daň/DPPD do 31. 12. 2023 se uvádí základ daně pro první sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Daň 2:** hodnota daně ve snížené sazbě DPH (pro plnění s DPPD do 31. 12. 2023 se uvádí hodnota daně v první snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Základ daně 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to základ daně pro druhou sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně
+
+**Daň 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to hodnota daně v druhé snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně.
+
+**Specifikace kódu režimu plnění:** Vyplnění údaje je pro další zpracování nezbytné. Uvede se jeden z režimů (výběr):
+
+• 0 - běžné plnění
+
+• 1 - § 89 ZDPH (zvláštní režim pro cestovní službu)
+
+• 2 - § 90 ZDPH (zvláštní režim pro použité zboží).
+
+**Specifikace opravy u nedobytně pohledávky:** Jedná se o specifikaci opravy v případě nedobytné pohledávky podle § 46 a násl. (případně podle § 44 ve znění do 31. 3. 2019). Zvolí se hodnoty z výběru, přičemž vyplnění alespoň jednoho údaje z výběru je pro další zpracování nezbytné:
+
+• N – nejedná se o opravu nedobytné pohledávky
+
+• P – jedná se o opravu podle § 46 a násl.
+
+• A – jedná se o opravu podle § 44 ve znění do 31.3. 2019.
+
+A.5. **Ostatní uskutečněná zdanitelná plnění a přijaté úplaty s povinností přiznat daň dle § 108 odst. 1 s hodnotou do 10.000,- Kč včetně daně, nebo plnění, u nichž nevznikla povinnost vystavit daňový doklad**
+
+V části A.5. kontrolního hlášení se do jednoho řádku uvádí kumulativně za období, za které se podává kontrolní hlášení (tj. měsíc nebo čtvrtletí): - souhrn základu daně a daň z uskutečněných zdanitelných plnění (nebo přijatých úplat k) dodání zboží či poskytnutí služby **s místem plnění v tuzemsku** *(vyjma vybraných plnění, u kterých je daň přiznávána ve zvláštním režimu jednoho správního místa - § 110a a násl.)*, a to v členění podle jednotlivých sazeb, (číselné položky). Jedná se o plnění, na které plátce vystavil daňové doklady (§ 28) a zjednodušené daňové doklady (§ 30) a jde o:
+
+– plnění uskutečněná pro osoby povinné k dani – plátce a neplátce a právnické osoby nepovinné k dani **– s hodnotou do 10.000,- Kč včetně daně**;
+
+– plnění s místem plnění v tuzemsku pro osoby povinné nebo nepovinné k dani neusazené v tuzemsku nebo zahraniční osoby, které nemají tuzemské DIČ (zde bez ohledu na limit);
+
+– případy, kdy plátce není povinen vystavit daňový doklad na plnění (tj. fyzické osobě nepovinné k dani), ale je povinen přiznat daň;
+
+– případné vlastní doklady o použití (§ 32);
+
+– hodnotu přirážky u plnění uskutečněných (nebo z přijatých úplat) ve zvláštním režimu podle § 89 (zvláštní režim pro cestovní službu) a hodnotu přirážky u plnění uskutečněných podle § 90 (zvláštní režim pro použité zboží), která se neuvádí v oddíle A.4. (bez ohledu na osobu příjemce);
+
+– do oddílu A.5. plátce uvede rovněž přirážku stanovenou za zdaňovací období v souladu s ustanovením § 90 odst. 4 (v tomto případě bez ohledu na limit);
+
+– opravy příslušných zdanitelných plnění podle § 42 s absolutní hodnotou do 10.000,- Kč včetně daně, nebo na které nebyl vystaven daňový doklad (např. § 89 odst. 18).
+
+Jedná se o všechna plnění nebo přijaté úplaty s povinností přiznat daň podle § 108 odst. 1, která se neuvádí do části A.4. kontrolního hlášení, včetně dalších výše jmenovaných (rovněž vyplňované do řádků 1, 2 daňového přiznání k DPH).
+
+**Základ daně 1:** základ daně pro základní sazbu DPH
+
+**Daň 1:** hodnota daně v základní sazbě DPH
+
+**Základ daně 2:** základ daně pro sníženou sazbu DPH (pro plnění s datem povinnosti přiznat daň/DPPD do 31. 12. 2023 se uvádí základ daně pro první sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Daň 2:** hodnota daně ve snížené sazbě DPH (pro plnění s DPPD do 31. 12. 2023 se uvádí hodnota daně v první snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Základ daně 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to základ daně pro druhou sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně
+
+**Daň 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to hodnota daně v druhé snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně.
+
+##### Oddíl B.:
+
+B. **Přijatá zdanitelná plnění s místem plnění v tuzemsku**
+
+B.1. **Přijatá zdanitelná plnění v režimu přenesení daňové povinnosti, u kterých je povinen přiznat daň příjemce podle § 92a**
+
+Plátce uvede údaje za každé jednotlivé zdanitelné plnění přijaté v režimu přenesení daňové povinnosti, jejichž **souhrn uvádí na řádky 10 nebo 11 daňového přiznání k DPH**.
+
+Plátce (příjemce plnění v režimu přenesení daňové povinnosti) uvede do řádku kontrolního hlášení:
+
+**Číslo řádku:** Pokud je uvedeno, budou řádky ve formuláři uspořádány v zadaném pořadí, (číselná položka).
+
+**DIČ dodavatele (kmenová část):** Vyplní se kmenová část daňového identifikačního čísla dodavatele (pouze číselná část). Vyplnění tohoto údaje je pro další zpracování nezbytné. Nesmí být uvedeno DIČ subjektu, za který je KH podáváno, (textová reprezentace čísla - DIČ, nutno zachovat vodící nuly).
+
+**Evidenční číslo daňového dokladu:** Vyplní se evidenční číslo daňového dokladu uvedené na dokladu poskytovatelem plnění. Pokud není poskytovatelem plnění skupina, nesmí být uvedeno duplicitní číslo daňového dokladu a kódu předmětu plnění od jednoho poskytovatele plnění. Vyplnění údaje je pro další zpracování nezbytné.
+
+**Datum uskutečnění zdanitelného plnění:** Uvede se datum ve tvaru DD.MM.RRRR, tj. 10-místná položka. Vyplnění údaje je pro další zpracování nezbytné. V režimu přenesení daňové povinnosti je odběratel povinen přiznat daň ke dni uskutečnění zdanitelného plnění „DUZP“, nikoli z případných předcházejících plateb před uskutečněním zdanitelného plnění.
+
+**Základ daně a daň:** vyplní se základ daně a daň podle jednotlivých sazeb, (číselné položky).
+
+**Základ daně 1:** základ daně pro základní sazbu DPH
+
+**Daň 1:** hodnota daně v základní sazbě DPH
+
+**Základ daně 2:** základ daně pro sníženou sazbu DPH (pro plnění s datem uskutečnění zdanitelného plnění/DUZP do 31. 12. 2023 se uvádí základ daně pro první sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Daň 2:** hodnota daně ve snížené sazbě DPH (pro plnění s DUZP do 31. 12. 2023 se uvádí hodnota daně v první snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Základ daně 3:** vyplní se v případě plnění s DUZP do 31. 12. 2023, a to základ daně pro druhou sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně
+
+**Daň 3:** vyplní se v případě plnění s DUZP do 31. 12. 2023, a to hodnota daně v druhé snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně.
+
+**Kód předmětu plnění:** Uvede se hodnota z číselníku, platného k období, za které se kontrolní hlášení podává. Pokud bude na jednom daňovém dokladu uvedeno více druhů plnění (spadajících pod různé kódy), je nutno rozepsat každý kód plnění na samostatný řádek (s uvedením stejného evidenčního čísla daňového dokladu). Vyplnění tohoto údaje je pro další zpracování nezbytné. Číselník hodnot – viz část A.1. KH/kód předmětu plnění.
+
+B.2. **Přijatá zdanitelná plnění a poskytnuté úplaty, u kterých příjemce uplatňuje nárok na odpočet daně dle § 73 odst. 1 písm. a) s hodnotou nad 10.000,- Kč včetně daně a všechny opravy odpočtu v souvislosti s nedobytnými pohledávkami bez ohledu na limit**
+
+Uvádí se údaje za každé jednotlivé **zdanitelné plnění přijaté od plátce (nebo jemu poskytnuté úplaty**, vznikla-li poskytovateli zdanitelného plnění jejím přijetím povinnost přiznat a zaplatit daň), od kterého odběratel dotčené plnění přijal (nebo na ně poskytl úplatu) a obdržel daňový doklad s hodnotou plnění **nad 10.000,- Kč včetně daně** (= celkový součet hodnot plnění včetně daně z daňového dokladu bez ohledu na režim DPH těchto plnění a následně uplatňovanou hodnotu odpočtu příjemcem plnění; u zvláštních druhů daňových dokladů jako je **splátkový / platební kalendář**, či **souhrnný daňový doklad** se jedná o celkový součet hodnot všech plnění/ nebo úplat na těchto dokladech uváděných a platí obdoba jejich vyplnění definovaná v části A.4 kontrolního hlášení) a **u kterého si v daném zdaňovacím období uplatňuje nárok na odpočet v souvisejícím daňovém přiznání** (tj. nárok na odpočet **z řádků 40 nebo 41 daňového přiznání k DPH**). Včetně oprav vykazovaných na řádku 40 a 41 daňového přiznání k DPH. II oprav podle **§ 74** s ohledem na jejich limit, tj. **absolutní hodnotu** **opravy nad 10.000,- Kč** včetně daně a **dále bez ohledu na limit** - u přijatých oprav podle **§ 74a** (oprava odpočtu daně osobou povinnou k dani, která přestala být plátcem), **§ 74b** (resp. § 46 a násl.) a **§ 44 ve znění do 31. 3. 2019**.
+
+V případě kráceného nároku na odpočet daně podle § 76 (část V. daňového přiznání k DPH) se do kontrolního hlášení bude uvádět celá hodnota základu daně a daň uvedená na přijatém daňovém dokladu. U poměrného nároku na odpočet daně se však do kontrolního hlášení uvede pouze ta poměrná část základu daně a k tomu příslušná daň, ze které má plátce nárok na odpočet daně podle § 75, jak uvádí v daňovém přiznání k DPH. U poměrného odpočtu - při do-uplatnění zbytku ke konci roku – tato hodnota bude uváděna pouze v daňovém přiznání k DPH *(uvedené principy platí i pro část B.3. kontrolního hlášení)*. V případě pořízení vybraného osobního automobilu podle § 72 odst. 3 a 4 se uvede základ daně v plné výši, i když daň na vstupu je omezena částkou 420 000 Kč; *(v případě poměrného nároku na odpočet se postupuje v principu dle výše uvedeného k § 75 – od stanovené limitní částky daně na vstupu).*
+
+V části B.2. do řádku kontrolního hlášení uvede plátce (odběratel):
+
+**Číslo řádku:** Pokud je uvedeno, budou řádky ve formuláři uspořádány v zadaném pořadí, (číselná položka).
+
+**DIČ dodavatele (kmenová část):** Vyplní se kmenová část daňového identifikačního čísla dodavatele (pouze číselná část). Vyplnění tohoto údaje je pro další zpracování nezbytné. Nesmí být uvedeno DIČ subjektu, za který je KH podáváno, (textová reprezentace čísla – DIČ, nutno zachovat vodící nuly).
+
+**Evidenční číslo daňového dokladu:** Vyplní se evidenční číslo daňového dokladu uvedené na dokladu poskytovatelem plnění. Pokud není poskytovatelem plnění skupina, nesmí být uvedeno duplicitní číslo daňového dokladu od jednoho poskytovatele plnění v řádcích se stejným datem povinnosti přiznat daň „DPPD“ nebo v řádcích se shodně vyplněným polem „Použit poměr“. V případě opravy nedobytné pohledávky nebo pohledávky po splatnosti podle § 74b může být uvedeno stejné evidenční číslo daňového dokladu se stejným DPPD duplicitně, pokud je alespoň jeden z těchto záznamů označen příznakem „P“ ve sloupci „Opravy u nedobytné pohledávky“ (ONP). Uvedení tohoto údaje je pro další zpracování nezbytné.
+
+*Pozn.: Pokud není daňový doklad k dispozici (do uplynutí lhůty pro podání souvisejícího kontrolního hlášení - například v případě opravy odpočtu dle § 74 odst. 4, nebo § 74b odst. 1), uvádí se interní číslo, pod kterým je u příjemce oprava (změna) evidována. Poté, co je číslo opravného daňového dokladu a datum z tohoto dokladu příjemci plnění známo, tuto informaci doplní podáním následného kontrolního hlášení.*
+
+**Datum povinnosti přiznat daň („DPPD“):** Datum, kdy nastaly skutečnosti zakládající povinnost daň přiznat (dodavatelem), tj. datum vzniku nároku na odpočet daně podle § 72 odst. 5. Tímto datem je den uskutečnění zdanitelného plnění nebo den přijetí úplaty, pokud je v okamžiku přijetí úplaty zdanitelné plnění známo dostatečně určitě (§ 20a). Uvede se datum ve tvaru DD.MM.RRRR, tj. 10místná položka. Vyplní tohoto údaje je pro další zpracování nezbytné.
+
+**Základ daně** (vyjma případů oprav podle **§ 44** ve znění do 31. 3. 2019) a **daň** na vstupu, která je obsažena v částce za přijatá zdanitelná plnění nebo úplatě poskytnuté před uskutečněním zdanitelného plnění, vznikla-li jejím přijetím povinnost přiznat a zaplatit daň (u poskytovatele), **údaje k řádkům č. 40 a 41 daňového přiznání k DPH**. Pokud je na daňovém dokladu více plnění v různých sazbách daně, jsou jednotlivé položky základu daně a příslušná daň připadající na konkrétní sazbu daně - rozepsány samostatně, avšak do jednoho řádku kontrolního hlášení (tj. k jednomu daňovému dokladu), (číselné položky).
+
+**Základ daně 1:** základ daně pro základní sazbu DPH
+
+**Daň 1:** hodnota daně v základní sazbě DPH
+
+**Základ daně 2:** základ daně pro sníženou sazbu DPH (pro plnění s datem povinnosti přiznat daň/DPPD do 31. 12. 2023 se uvádí základ daně pro první sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Daň 2:** hodnota daně ve snížené sazbě DPH (pro plnění s DPPD do 31. 12. 2023 se uvádí hodnota daně v první snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Základ daně 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to základ daně pro druhou sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně
+
+**Daň 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to hodnota daně v druhé snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně.
+
+**Specifikace poměrného nároku na odpočet daně:** Pokud je takto vykazován podle § 75. Vyplní se možnost z výběru: ANO/NE. Je-li vybráno ANO, jedná se o poměrný nárok na odpočet daně. Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Specifikace opravy odpočtu v souvislosti s nedobytnými pohledávkami****:** Jedná se o opravu odpočtu daně na vstupu v případě nedobytné pohledávky podle § 74b, případně podle **§ 44** ve znění do 31. 3. 2019.
+
+Zvolí se hodnoty z výběru, přičemž vyplnění alespoň jednoho údaje z výběru je pro další zpracování nezbytné:
+
+• N – nejedná se o opravu nedobytné pohledávky
+
+• P – jedná se o opravu podle § 74b
+
+• A – jedná se o opravu podle **§ 44** ve znění do 31.3. 2019
+
+B.3. **Přijatá zdanitelná plnění a poskytnuté úplaty, u kterých příjemce uplatňuje nárok na odpočet daně dle § 73 odst. 1 písm. a) s hodnotou do 10.000,- Kč včetně daně**
+
+Vyplní plátce, který přijal zdanitelné plnění (nebo poskytl úplatu - vznikla-li poskytovateli zdanitelného plnění jejím přijetím povinnost přiznat a zaplatit daň) dodání zboží či poskytnutí služby s místem plnění v tuzemsku od plátců – s hodnotou zdanitelného plnění **do 10.000,- Kč včetně daně, u kterých uplatňuje nárok na odpočet v souvisejícím daňovém přiznání k DPH (na řádku č. 40 a 41**). Jedná se o zdanitelná plnění (nebo na ně poskytnuté úplaty):
+
+– přijatá od plátců s hodnotou do 10.000,- Kč včetně daně, u kterých si příjemce uplatňuje nárok na odpočet daně podle § 73 odst. 1 písm. a), tj. přijatá plnění, na které byly vystaveny daňové doklady (§ 28) a zjednodušené daňové doklady (§ 30),
+
+– opravy podle § 74 vykazované na řádku 40 a 41 daňového přiznání k DPH s absolutní hodnotou pod stanovený limit 10.000,- Kč včetně daně.
+
+Plátce uvede základ daně a daň, a to souhrnně celkovou hodnotu za kalendářní měsíc (nebo zdaňovací období) v členění podle jednotlivých sazeb daně rozepsaných do jednoho řádku části B.3. kontrolního hlášení, (číselné položky).
+
+**Základ daně 1:** základ daně pro základní sazbu DPH
+
+**Daň 1:** hodnota daně v základní sazbě DPH
+
+**Základ daně 2:** základ daně pro sníženou sazbu DPH (pro plnění s datem povinnosti přiznat daň/DPPD do 31. 12. 2023 se uvádí základ daně pro první sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Daň 2:** hodnota daně ve snížené sazbě DPH (pro plnění s DPPD do 31. 12. 2023 se uvádí hodnota daně v první snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně)
+
+**Základ daně 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to základ daně pro druhou sníženou sazbu DPH platnou do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně
+
+**Daň 3:** vyplní se v případě plnění s DPPD do 31. 12. 2023, a to hodnota daně v druhé snížené sazbě DPH platné do 31. 12. 2023 a také v případě pozdějších souvisejících oprav základu daně a výše daně.
+
+##### Oddíl C.:
+
+**Kontrolní řádky na daňové přiznání k DPH:**
+
+Část C kontrolního hlášení slouží pro orientační kontrolu souhrnu dat pro příslušné části souvisejícího daňového přiznání k DPH. Jedná se o část kontrolního hlášení, **kde jsou sečteny hodnoty z vložených dat jednotlivých částí A a B konkrétního jednoho kontrolního hlášení podávaného za jedno dotčené období** (číselné položky), a to následujícím způsobem:
+
+– Celková hodnota základu daně **A.1.** za zdaňovací období (nebo součet tří kontrolních hlášení u čtvrtletního plátce) odpovídá řádku **25** přiznání k DPH.
+
+– Celková hodnota základu daně **A.2.** za zdaňovací období (nebo součet tří kontrolních hlášení u čtvrtletního plátce) odpovídá řádkům: 3, 4, 5, 6, 9, 12 a 13 přiznání k DPH.
+
+– Celková hodnota základu daně **u základní sazby daně A.4. a A.5.** za období (nebo součet tří kontrolních hlášení u čtvrtletního plátce) odpovídá řádku **1** přiznání k DPH.
+
+– Celková hodnota základu daně **pro sníženou sazbu daně A.4. a A.5.** za období (nebo součet tří kontrolních hlášení u čtvrtletního plátce) odpovídá řádku **2** přiznání k DPH.
+
+– Celková hodnota základu daně **u základní sazby daně B.1.** za období (nebo součet tří kontrolních hlášení u čtvrtletního plátce) odpovídá součtu základů daně řádku **10** přiznání k DPH.
+
+– Celková hodnota základu daně **pro sníženou sazbu daně B.1.** za období (nebo součet tří kontrolních hlášení u čtvrtletního plátce) odpovídá součtu základů daně řádku **11** přiznání k DPH.
+
+– Celková hodnota základu daně **u základní sazby daně B.2. a B.3.** (nebo součet tří kontrolních hlášení u čtvrtletního plátce) odpovídá součtu řádku **40** přiznání k DPH.
+
+– Celková hodnota základu daně **pro sníženou sazbu daně B.2. a B.3.** (nebo součet tří kontrolních hlášení u čtvrtletního plátce) odpovídá součtu řádku **41** přiznání k DPH.
+
+### Příloha č. 13
+
+<table><tbody><tr><td colspan="2"><b>Přihláška k registraci k dani z přidané hodnoty</b></td></tr><tr><td>25 5104 MFin 5104<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro / Specializovanému finančnímu úřadu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td>01</td><td>Daňové identifikační číslo</td></tr><tr><td>03</td><td>Přihláška pro plátce / identifikovanou osobu</td></tr><tr><td></td><td>– nemá sídlo ani provozovnu v tuzemsku</td></tr><tr><td colspan="2"></td></tr><tr><td>04</td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby, včetně dodatku</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Rodné příjmení</td></tr><tr><td></td><td>Jméno(-a)</td></tr><tr><td></td><td>Titul</td></tr><tr><td></td><td>Rodné číslo / Datum nar. (není-li RČ přiděleno)</td></tr><tr><td></td><td>Sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu:</td></tr><tr><td></td><td>ulice a číslo orientační, část obce a číslo popisné</td></tr><tr><td></td><td>obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>stát</td></tr><tr><td></td><td>Skutečné sídlo:</td></tr><tr><td></td><td>ulice a číslo orientační, část obce a číslo popisné</td></tr><tr><td></td><td>obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>stát</td></tr><tr><td></td><td>ID datové schránky zahraniční osoby</td></tr><tr><td></td><td>e-mail</td></tr><tr><td></td><td>telefon</td></tr><tr><td></td><td>zmocněnec pro doručování</td></tr><tr><td colspan="2"></td></tr><tr><td>05</td><td>Datum rozhodného dne pro povinnost zákonné registrace</td></tr><tr><td>06</td><td>Důvod registrace podle konkrétního ustanovení zákona o DPH</td></tr><tr><td>07</td><td>Obrat</td></tr><tr><td>08</td><td>Datum zrušení předchozí registrace k DPH</td></tr><tr><td></td><td>Důvod zrušení</td></tr><tr><td>09</td><td>Důvod dobrovolné registrace plátce nebo identifikované osoby</td></tr><tr><td>09a</td><td>Předpokládaná částka ročního obratu při dobrovolné registraci plátce</td></tr><tr><td>10</td><td>Registrace v jiných členských státech EU – DIČ</td></tr><tr><td></td><td>Datum registrace</td></tr><tr><td></td><td>EORI</td></tr><tr><td></td><td>Identifikátor pro režim SME</td></tr><tr><td>11</td><td>Čísla účtů u poskytovatelů platebních služeb</td></tr><tr><td></td><td>účty v ČR vedené v CZK:</td></tr><tr><td></td><td>číslo účtu / směrový (identifikační) kód</td></tr><tr><td></td><td>určen ke zveřejnění</td></tr><tr><td></td><td>účet vedený v zahraničí nebo účet v cizí měně:</td></tr><tr><td></td><td>IBAN</td></tr><tr><td></td><td>typ ID banky</td></tr><tr><td></td><td>ID banky</td></tr><tr><td></td><td>měna, ve které je účet veden</td></tr><tr><td></td><td>určen ke zveřejnění</td></tr><tr><td></td><td>název účtu</td></tr><tr><td></td><td>název banky</td></tr><tr><td></td><td>ulice banky</td></tr><tr><td></td><td>město banky</td></tr><tr><td></td><td>PSČ (ZIP-code) banky</td></tr><tr><td></td><td>stát</td></tr><tr><td>11a</td><td>účet pro vracení přeplatků na DPH</td></tr><tr><td>12</td><td>Přílohy počet</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(a) a příjmení / vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / Osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr></tbody></table>
+
+#### POKYNY
+
+25 5104 MFin 5104
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+Pokud jsou v pokynech uvedeny odkazy na jednotlivá ustanovení (§) zákona, jedná se o zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, pokud není uvedeno jinak.
+
+**Finančnímu úřadu pro / Specializovanému finančnímu úřadu doplníte** zbývající část oficiálního názvu svého místně příslušného finančního úřadu (např. – hlavní město Prahu, – Jihočeský kraj apod.). Bude-li subjekt vybraným subjektem podle § 11 odst. 2 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů (dále jen „zákon o Finanční správě České republiky”), doplní údaj slovy Specializovanému finančnímu úřadu. V poli „Uzemní pracoviště v, ve, pro“ bude uvedeno sídlo územního pracoviště, na němž je nebo bude umístěn spis daňového subjektu (§ 13 zákona o Finanční správě České republiky).
+
+01 – Uveďte daňové identifikační číslo, pokud již bylo přiděleno přihlašující se osobě.
+
+03 – Vyznačte křížkem v příslušné kolonce, zda je přihláška podávána za plátce či identifikovanou osobu. Dále vyznačte, zda jste osobou, která nemá v tuzemsku sídlo ani provozovnu. Pokud v tuzemsku sídlo nebo provozovnu máte, nevyplňujte.
+
+04 – Uveďte požadované identifikační údaje osoby přihlašující se k registraci. Uvedení údajů “Rodné příjmení”, “Titul” a “telefon” není povinné.
+
+Údaj „e-mail” je povinný pro zahraniční osobu (§ 96 odst. 3).
+
+Zahraniční osoba je povinna si zvolit zmocněnce pro doručování, který má zpřístupněnu datovou schránku, která se zřizuje ze zákona; to neplatí, pokud má tato zahraniční osoba zpřístupněnu datovou schránku (§ 98b odst. 1).
+
+Zahraniční osobou je osoba povinná k dani, která nemá na území Evropské unie sídlo ani provozovnu (§ 4 odst. 1 písm. g)).
+
+Plátce nebo identifikovaná osoba, kteří mají zpřístupněnu datovou schránku, si mohou za podmínek uvedených v § 98a odst. 1 zvolit zmocněnce pro účely doručování písemností v oblasti daně z přidané hodnoty pouze, pokud má tento zmocněnec zpřístupněnu datovou schránku, která se zřizuje ze zákona.
+
+V případě, že máte zvoleného zmocněnce pro doručování (§ 98a nebo § 98b) a plná moc je již u správce daně uplatněna nebo bude přílohou této přihlášky, uvedete ANO. Doložte zároveň jako přílohu plnou moc, pokud tuto nemá dosud správce daně k dispozici.
+
+Sídlem právnické osoby podle § 13 odst. 1 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“), se rozumí adresa, pod kterou je právnická osoba zapsaná v obchodním rejstříku nebo obdobném veřejném rejstříku, nebo adresa, kde právnická osoba sídlí skutečně, pokud se tato osoba do těchto rejstříků nezapisuje. Místem pobytu fyzické osoby podle § 13 odst. 1 daňového řádu se rozumí adresa místa trvalého pobytu občana České republiky, nebo adresa hlášeného místa pobytu cizince, a nelze-li takto místo pobytu fyzické osoby určit, rozumí se jím místo na území České republiky, kde se fyzická osoba převážně zdržuje.
+
+Skutečným sídlem je adresa místa, kde jsou přijímána zásadní rozhodnutí týkající se řízení osoby a kde se schází její vedení, a adresa sídla, které je zapsáno ve veřejném rejstříku, s tím, že pokud nelze určit pouze jednu adresu, je sídlem adresa místa, kde jsou přijímána zásadní rozhodnutí týkající se řízení osoby; nelze-li v případě fyzické osoby takto sídlo určit, je jejím sídlem adresa místa jejího pobytu.
+
+05 – Pokud jste osoba, která se stává plátcem z titulu překročení obratu, uveďte datum překročení obratu. Pokud jste plátce z jiného titulu, resp. identifikovaná osoba podle § 6g až 6i, uveďte datum, kdy nastala skutečnost uvedená v konkrétním odstavci těchto ustanovení.
+
+06 – Uveďte konkrétní ustanovení zákona (odstavec), podle kterého se stáváte, nebo jste se stal plátcem nebo identifikovanou osobou. Pokud uvedete § 6 odst. 2 písm. a), popř. § 6 odst. 3 písm. b) bod 1, bude to považováno za sdělení, že se chcete stát plátcem dnem následujícím po dni překročení částky podle § 6 odst. 1, popř. podle § 6 odst. 3 písm. b).
+
+07 – Uveďte výši obratu za příslušný kalendářní rok nebo jeho část, ve kterém došlo k překročení obratu podle § 6 odst. 1 nebo § 6 odst. 2 písm. b), popř. uveďte obrat podle § 6 odst. 1 za bezprostředně předcházející kalendářní rok v souladu s § 6 odst. 3 písm. b) bod 3.
+
+08 – Uveďte datum zrušení předchozí registrace k DPH včetně důvodu zrušení.
+
+09 – Uveďte stručně důvod dobrovolné registrace.
+
+09a– Pokud žádáte o dobrovolnou registraci plátce, uveďte předpokládanou výši ročního obratu vymezeného § 4a. Uvedení tohoto údaje není povinné.
+
+10 – Uveďte DIČ a datum registrace v případě, že jste již registrováni k dani v jiném členském státě EU.
+
+Uveďte EORI číslo pro styk s orgány celní správy, pokud je odlišné od daňového identifikačního čísla (nebo daňové identifikační číslo ještě nebylo přiděleno).
+
+Uveďte identifikátor pro režim pro malé podniky (SME), pod kterým jste naposledy byli nebo nadále jste registrováni do režimu pro malé podniky (SME) pro tuzemsko (Česká republika – stát osvobození).
+
+11 – Uveďte čísla všech svých účtů u poskytovatelů platebních služeb, které jsou používány pro ekonomickou činnost, pokud vyplňujete přihlášku k registraci plátce. Vždy vyznačte, zda má být zveřejněn v registru plátců a identifikovaných osob.
+
+Upozorňujeme, že tato skutečnost souvisí s případným ručením (příjemce plnění ručí za daň nezaplacenou poskytovatelem plnění, pokud je úhrada provedena na jiný než zveřejněný účet – § 109 odst. 1 ve spojení s § 109 odst. 2 písm. c) bod 2.
+
+Pokud se jedná o účty vedené u českých bank, není třeba vyplňovat údaje: Typ ID banky / ID banky / Název účtu / Název banky / Ulice banky / Město banky / PSČ banky / Stát.
+
+V položce „typ ID banky“ vyplňte typ identifikace banky, tj. např. BIC, FW, SC. V položce „Název účtu“ uveďte název nebo jméno vlastníka účtu.
+
+11a– Do řádku H vyplňte účet pro vracení přeplatků na DPH.
+
+Pokud to má být účet vedený v zahraničí nebo v cizí měně, řádek H nevyplňujte (proškrtněte). Za účet určený pro vracení přeplatků na DPH bude v tom případě považován výše ve formuláři vyplněný účet vedený v zahraničí nebo v cizí měně – to v případě, že jde o účet vlastní, který je používán pro ekonomickou činnost. Pokud uvedené podmínky nesplňuje, uveďte tento účet na zvláštní příloze podle posledního odstavce pokynů. Pokud je účet určený pro vracení přeplatku vlastní a je používán pro ekonomickou činnost, bude uveden také mezi účty v položce 11.
+
+12 – Osoby, které nemají sídlo ani provozovnu v tuzemsku předkládají:
+
+\- osvědčení o registraci k DPH či obdobné dani v jiné zemi
+
+\- oprávnění k provozování činnosti
+
+\- výpis z obchodního rejstříku
+
+Všechny tyto přílohy musí být ověřené kopie originálních dokumentů a překlady do českého jazyka. Úředně ověřený překlad do českého jazyka není požadován, nicméně správce daně si jej může v případě potřeby vyžádat později (§ 76 odst. 2 daňového řádu). Přílohy musí dostatečně a hodnověrně doložit identifikaci žadatele.
+
+\- Ostatní přílohy – vyznačí se celkem počet příloh k přihlášce (např. při nedostatku místa v kolonce 11 – čísla účtů apod.).
+
+Údaje o podepisující osobě budou vyplňovány pouze v případech, kdy je podání zpracováváno a podáváno osobou odlišnou od daňového subjektu, tzn. v případech, kdy daňový subjekt činí podání sám za sebe, tuto část nevyplňujte. Pokyn k vyplňování údajů o podepisující osobě je zveřejněn na webových stránkách Finanční správy v nabídce Daňové tiskopisy na adrese http://www.financnisprava.cz.
+
+Všechny údaje, na něž jste neměli dostatek místa na formuláři, a veškeré další informace, které považujete za závažné, uveďte na zvláštní příloze. U jednotlivých údajů uveďte číslo položky původního formuláře, k níž se vztahují. Celkový počet příloh uveďte v položce 12.
+
+### Příloha č. 14
+
+<table><tbody><tr><td colspan="2"><b>Přihláška k registraci k DPH pro skupiny podle zákona </b><b>o DPH</b><b><br> Žádost / oznámení o přistoupení/přestoupení do skupiny podle zákona </b><b>o DPH</b></td></tr><tr><td>25 5125 MFin 5125</td><td></td></tr><tr><td></td><td>Počet listů člena skupiny</td></tr><tr><td>Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro / Specializovanému finančnímu úřadu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Daňové identifikační číslo skupiny</td></tr><tr><td></td><td>Počet listů člena skupiny</td></tr><tr><td colspan="2"><b>Údaje o zastupujícím členovi skupiny</b></td></tr><tr><td>01</td><td>Zastupující člen skupiny:</td></tr><tr><td></td><td>název a právní forma / jméno a příjmení</td></tr><tr><td></td><td>DIČ, IČ, RČ</td></tr><tr><td></td><td>sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu</td></tr><tr><td></td><td>skutečné sídlo</td></tr><tr><td>02</td><td>Daňová identifikační čísla zastupujícího člena skupiny přidělená v jiných členských státech</td></tr><tr><td>03</td><td>EORI</td></tr><tr><td>04</td><td>Spojení členů skupiny - počet příloh</td></tr><tr><td>05</td><td>Důvod přistoupení/přestoupení člena do skupiny dle konkrétního ustanovení zákona <b>o DPH</b></td></tr><tr><td colspan="2"></td></tr><tr><td>06</td><td>Čísla účtů u poskytovatelů platebních služeb</td></tr><tr><td></td><td>účty v ČR vedené v CZK:</td></tr><tr><td></td><td>číslo účtu / směrový (identifikační) kód</td></tr><tr><td></td><td>určen ke zveřejnění</td></tr><tr><td></td><td>účet vedený v zahraničí nebo účet v cizí měně:</td></tr><tr><td></td><td>IBAN</td></tr><tr><td></td><td>typ ID banky</td></tr><tr><td></td><td>ID banky</td></tr><tr><td></td><td>měna, ve které je účet veden</td></tr><tr><td></td><td>určen ke zveřejnění</td></tr><tr><td></td><td>název účtu</td></tr><tr><td></td><td>název banky</td></tr><tr><td></td><td>ulice banky</td></tr><tr><td></td><td>město banky</td></tr><tr><td></td><td>PSČ (ZIP-code) banky</td></tr><tr><td></td><td>stát</td></tr><tr><td>07</td><td>Účet pro vracení přeplatků na DPH</td></tr><tr><td></td><td>Počet požadovaných stejnopisů rozhodnutí o registraci</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(a) a příjmení / vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / Osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Otisk razítka</td></tr><tr><td></td><td>Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu</td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2"><b>List člena skupiny</b></td></tr><tr><td>25 5126 MFin 5126</td><td></td></tr><tr><td>Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Číslo listu</td></tr><tr><td></td><td>Přihláška k registraci k DPH pro skupiny podle zákona <b>o DPH</b></td></tr><tr><td></td><td>Žádost/Oznámení o přistoupení/přestoupení člena do skupiny podle zákona <b>o DPH</b></td></tr><tr><td></td><td>Daňové identifikační číslo skupiny</td></tr><tr><td colspan="2"><b>Údaje o zastupujícím členovi skupiny</b></td></tr><tr><td>00</td><td>Zastupující člen skupiny:</td></tr><tr><td></td><td>název a právní forma / jméno a příjmení</td></tr><tr><td></td><td>DIČ, IČ, RČ</td></tr><tr><td></td><td>sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu</td></tr><tr><td colspan="2"><b>Údaje o členovi skupiny</b></td></tr><tr><td>01</td><td>Člen skupiny:</td></tr><tr><td></td><td>název a právní forma / jméno a příjmení</td></tr><tr><td></td><td>DIČ, IČ, RČ</td></tr><tr><td></td><td>sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu</td></tr><tr><td>02</td><td>Daňová identifikační čísla přidělená v jiných členských státech</td></tr><tr><td>03</td><td>EORI</td></tr><tr><td colspan="2"></td></tr><tr><td>04</td><td>Čísla účtů u poskytovatelů platebních služeb</td></tr><tr><td></td><td>účty v ČR vedené v CZK:</td></tr><tr><td></td><td>číslo účtu / směrový (identifikační) kód</td></tr><tr><td></td><td>určen ke zveřejnění</td></tr><tr><td></td><td>účet vedený v zahraničí nebo účet v cizí měně:</td></tr><tr><td></td><td>IBAN</td></tr><tr><td></td><td>typ ID banky</td></tr><tr><td></td><td>ID banky</td></tr><tr><td></td><td>měna, ve které je účet veden</td></tr><tr><td></td><td>určen ke zveřejnění</td></tr><tr><td></td><td>název účtu</td></tr><tr><td></td><td>název banky</td></tr><tr><td></td><td>ulice banky</td></tr><tr><td></td><td>město banky</td></tr><tr><td></td><td>PSČ (ZIP-code) banky</td></tr><tr><td></td><td>stát</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(a) a příjmení / vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / Osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Otisk razítka</td></tr><tr><td></td><td>Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu</td></tr></tbody></table>
+
+#### POKYNY
+
+25 5125 MFin 5125
+
+Při registraci skupiny se postupuje podle § 95a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“) a podle § 125 až 131 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“).
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu pro / Specializovanému finančnímu úřadu** doplníte zbývající část oficiálního názvu svého místně příslušného finančního úřadu (např. – hlavní město Prahu, – Jihočeský kraj, apod.). Bude-li subjekt vybraným subjektem podle § 11 odst. 2 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů (dále jen „zákon o Finanční správě České republiky"), doplní údaj slovy Specializovanému finančnímu úřadu. V poli „Územní pracoviště v, ve, pro“ bude uvedeno sídlo územního pracoviště, na němž je nebo bude umístěn spis daňového subjektu (§ 13 zákona o Finanční správě České republiky).
+
+Nedílnou součástí Přihlášky k registraci skupiny nebo Žádosti/Oznámení o přistoupení/přestoupení do skupiny jsou Listy členů skupiny. V záhlaví vyplňte počet těchto listů. K Žádosti o přestoupení do skupiny přiložte i souhlas původní skupiny.
+
+Zaškrtněte, zda se jedná o Přihlášku k registraci skupiny (vyplňte celý tiskopis kromě řádku 05) nebo o Žádost, případně Oznámení o přistoupení/přestoupení člena do skupiny, a to plátce DPH nebo osoby, která není plátcem DPH (vyplňte řádky 01, 04 a 05).
+
+01 Uvede se identifikace zastupujícího člena skupiny (§ 5b odst. 1 zákona o DPH)
+
+– celý název včetně všech dodatků a právní forma u právnických osob nebo celé jméno a příjmení u fyzických osob,
+
+– daňové identifikační číslo, pokud zastupující člen je plátcem DPH, jinak IČO nebo rodné číslo,
+
+– Sídlem právnické osoby podle § 13 odst. 1 daňového řádu se rozumí adresa, pod kterou je právnická osoba zapsaná v obchodním rejstříku nebo obdobném veřejném rejstříku, nebo adresa, kde právnická osoba sídlí skutečně, pokud se tato osoba do těchto rejstříků nezapisuje. Místem pobytu fyzické osoby podle § 13 odst. 1 daňového řádu se rozumí adresa místa trvalého pobytu občana České republiky, nebo adresa hlášeného místa pobytu cizince, a nelze-li takto místo pobytu fyzické osoby určit, rozumí se jím místo na území České republiky, kde se fyzická osoba převážně zdržuje.
+
+Skutečným sídlem je adresa místa, kde jsou přijímána zásadní rozhodnutí týkající se řízení osoby a kde se schází její vedení, a adresa sídla, které je zapsáno ve veřejném rejstříku, s tím, že pokud nelze určit pouze jednu adresu, je sídlem adresa místa, kde jsou přijímána zásadní rozhodnutí týkající se řízení osoby; nelze-li v případě fyzické osoby takto sídlo určit, je jejím sídlem adresa místa jejího pobytu.
+
+02 Uveďte daňová identifikační čísla a datum registrace v případě, že jste již registrováni k DPH v jiném členském státě EU.
+
+03 Uveďte EORI číslo pro styk s orgány celní správy, pokud je odlišné od daňového identifikačního čísla (nebo daňové identifikační číslo ještě nebylo přiděleno).
+
+04 K přihlášce musí být přiložen popis skutečností, na základě kterých se členové skupiny považují za spojené osoby podle § 5a zákona o DPH, a současně důkazní prostředky prokazující skutečnosti uvedené v tomto popisu.
+
+Upozorňujeme, že každá osoba může být členem pouze jedné skupiny.
+
+05 Zaškrtněte konkrétní ustanovení zákona o DPH, podle kterého dochází k přistoupení/přestoupení člena do skupiny.
+
+§ 95a odst. 3 zákona o DPH: *Plátce se při splnění podmínek podle**§ 5a**stává členem skupiny od 1. ledna bezprostředně následujícího kalendářního roku, pokud skupina podá s jeho souhlasem žádost o přistoupení plátce do skupiny nejpozději do 31. října příslušného kalendářního roku. Žádost o přistoupení plátce do skupiny od 1. ledna bezprostředně následujícího kalendářního roku podaná po 31. říjnu příslušného kalendářního roku je neúčinná.*
+
+§ 95a odst. 4 zákona o DPH: *Osoba, která není plátcem, se při splnění podmínek stanovených v**§ 5a**stává členem skupiny od prvního dne druhého kalendářního měsíce bezprostředně následujícího po kalendářním měsíci, ve kterém skupina podá s jejím souhlasem žádost o přistoupení osoby do skupiny.*
+
+§ 95a odst. 5 zákona o DPH: *Osoba povinná k dani je členem skupiny ode dne zápisu přeměny právnické osoby do veřejného rejstříku, pokud na ni při této přeměně přechází nebo je převáděno jmění*
+
+a) *zanikajícího člena skupiny, pokud není v okamžiku zániku člena skupiny samostatnou osobou povinnou k dani, nebo*
+
+b) *rozdělovaného člena skupiny, pokud je v okamžiku přeměny nově vznikající osobou povinnou k dani.*
+
+§ 95b odst. 1 zákona o DPH: *Skupina může podat do 31. října příslušného kalendářního roku žádost o přestoupení člena skupiny z původní skupiny, které je členem, se souhlasem původní skupiny a přestupujícího člena.*
+
+06 Zastupující člen skupiny uvede čísla všech svých účtů u poskytovatelů platebních služeb, které jsou používány pro ekonomickou činnost. Vždy vyznačte, zda má být zveřejněn v registru DPH.
+
+Upozorňujeme, že tato skutečnost souvisí s případným ručením (příjemce plnění ručí za daň nezaplacenou poskytovatelem plnění, pokud je úhrada provedena na jiný než zveřejněný účet – § 109 odst. 1 ve spojení s odstavcem 2 písm. c) bod 2. zákona o DPH.
+
+Pokud se jedná o účty vedené u českých bank, není třeba vyplňovat údaje: Typ ID banky / ID banky / Název účtu / Název banky / Ulice banky / Město banky / PSČ banky / Stát.
+
+V položce „typ ID banky“ vyplňte typ identifikace banky, tj. např. BIC, FW, SC. V položce „Název účtu“ uveďte název nebo jméno vlastníka účtu.
+
+07 Do řádku H vyplňte účet pro vracení přeplatků skupiny na DPH.
+
+Pokud to má být účet vedený v zahraničí nebo v cizí měně, řádek H nevyplňujte (proškrtněte). Za účet určený pro vracení přeplatků na DPH bude v tom případě považován výše ve formuláři vyplněný účet vedený v zahraničí nebo v cizí měně – to v případě, že jde o účet vlastní, který je používán pro ekonomickou činnost. Pokud uvedené podmínky nesplňuje, uveďte tento účet na zvláštní příloze podle posledního odstavce pokynů. Pokud je účet určený pro vracení přeplatku vlastní a je používán pro ekonomickou činnost, bude uveden také mezi účty v položce 09.
+
+Údaje o podepisující osobě budou vyplňovány pouze v případech, kdy je podání zpracováváno a podáváno osobou odlišnou od daňového subjektu, tzn. v případech, kdy daňový subjekt činí podání sám za sebe, tuto část nevyplňujte. Pokyn k vyplňování údajů o podepisující osobě je zveřejněn na webových stránkách Finanční správy v nabídce Daňové tiskopisy na adrese http://www.financnisprava.cz.
+
+Otisk razítka (uvádí se pouze v listinné podobě tohoto formuláře): lze připojit otisk razítka.
+
+Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu (uvádí se pouze v listinné podobě tohoto formuláře): podání bude opatřeno vlastnoručním podpisem – fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu. V případě podání v elektronické podobě se vlastnoruční podpis nahradí příslušným způsobem autorizace podání (např. identitou občana, uznávaným elektronickým podpisem apod.).
+
+Uveďte, jaký počet stejnopisů rozhodnutí o registraci požadujete. Všechny stejnopisy budou zaslány zastupujícímu členovi skupiny.
+
+Všechny údaje, na něž jste neměli dostatek místa na formuláři, a veškeré další informace, které považujete za závažné, uveďte na zvláštní příloze. U jednotlivých údajů uveďte číslo položky původního formuláře, k níž se vztahují.
+
+#### POKYNY
+
+#### List člena skupiny
+
+25 5126 MFin 5126
+
+Při registraci skupiny se postupuje podle § 95a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“) a podle § 125 až 131 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“).
+
+Vyplňte pořadové číslo Listu člena skupiny.
+
+Tento tiskopis je nedílnou součástí Přihlášky k registraci skupiny nebo Žádosti/Oznámení o přistoupení/přestoupení do skupiny.
+
+Zaškrtněte, ke které z uvedených variant se tato příloha vztahuje.
+
+V případě Žádosti/Oznámení o přistoupení/přestoupení do skupiny uveďte DIČ skupiny.
+
+00 Uvede se identifikace zastupujícího člena skupiny (§ 5b odst. 1 zákona o DPH)
+
+– celý název včetně všech dodatků a právní forma u právnických osob nebo celé jméno a příjmení u fyzických osob,
+
+– daňové identifikační číslo, pokud zastupující člen je plátcem DPH, jinak IČ nebo rodné číslo (vyplňte pouze v případě, že tento List člena skupiny je přílohou Přihlášky, pokud je přílohou Žádosti/Oznámení o přistoupení/přestoupení, nevyplňujte),
+
+– sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu.
+
+01 Uvede se identifikace člena skupiny
+
+– celý název včetně všech dodatků a právní forma u právnických osob nebo celé jméno a příjmení u fyzických osob,
+
+– daňové identifikační číslo, pokud člen skupiny je plátcem DPH, jinak IČ nebo rodné číslo,
+
+– sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu.
+
+02 Uveďte daňová identifikační čísla a datum registrace v případě, že jste již registrováni k DPH v jiném členském státě EU.
+
+03 Uveďte EORI číslo pro styk s orgány celní správy, pokud je odlišné od daňového identifikačního čísla (nebo daňové identifikační číslo ještě nebylo přiděleno).
+
+04 Člen skupiny uvede čísla všech svých účtů u poskytovatelů platebních služeb, které jsou používány pro ekonomickou činnost.
+
+Vždy vyznačte, zda má být zveřejněn v registru DPH.
+
+Upozorňujeme, že tato skutečnost souvisí s případným ručením (příjemce plnění ručí za daň nezaplacenou poskytovatelem plnění, pokud je úhrada provedena na jiný než zveřejněný účet – § 109 odst. 1 ve spojení s odstavcem 2 písm. c) bod 2 zákona o DPH.
+
+Pokud se jedná o účty vedené u českých bank, není třeba vyplňovat údaje: Typ ID banky / ID banky / Název účtu / Název banky / Ulice banky / Město banky / PSČ banky / Stát.
+
+V položce „typ ID banky“ vyplňte typ identifikace banky, tj. např. BIC, FW, SC. V položce „Název účtu“ uveďte název nebo jméno vlastníka účtu.
+
+V případě, že je tento list člena skupiny přílohou přihlášky k registraci, označujete podpisem zastupujícího člena, který jedná za skupinu podle § 5b odst. 1 zákona o DPH.
+
+Údaje o podepisující osobě budou vyplňovány pouze v případech, kdy je podání zpracováváno a podáváno osobou odlišnou od daňového subjektu, tzn. v případech, kdy daňový subjekt činí podání sám za sebe, tuto část nevyplňujte. Pokyn k vyplňování údajů o podepisující osobě je zveřejněn na webových stránkách Finanční správy v nabídce Daňové tiskopisy na adrese http://www.financnisprava.cz.
+
+Otisk razítka (uvádí se pouze v listinné podobě tohoto formuláře): lze připojit otisk razítka.
+
+Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu (uvádí se pouze v listinné podobě tohoto formuláře): podání bude opatřeno vlastnoručním podpisem – fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu. V případě podání v elektronické podobě se vlastnoruční podpis nahradí příslušným způsobem autorizace podání (např. identitou občana, uznávaným elektronickým podpisem apod.).
+
+Všechny údaje, na něž jste neměli dostatek místa na formuláři, a veškeré další informace, které považujete za závažné, uveďte na zvláštní příloze. U jednotlivých údajů uveďte číslo položky původního formuláře, k níž se vztahují.
+
+### Příloha č. 15
+
+<table><tbody><tr><td colspan="2"><b>Přihláška k registraci do zvláštního režimu jednoho správního místa - OSS (režim Evropské unie)<br> Žádost o přístup na elektronický portál do aplikace jednoho správního místa</b></td></tr><tr><td>25 5130 MFin 5130<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro Jihomoravský kraj</td></tr><tr><td></td><td>Územní pracoviště pro Brno I</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td></td><td>Skupinová registrace</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Název/Jméno</td></tr><tr><td></td><td>Obchodní název (názvy) společnosti</td></tr><tr><td></td><td>Stát sídla ekonomické činnosti</td></tr><tr><td colspan="2"><b>Kontaktní údaje</b></td></tr><tr><td></td><td>Adresa usazení (sídlo nebo provozovna):</td></tr><tr><td></td><td>Ulice a číslo orientační, část obce a číslo popisné</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>Provozovatel elektronického rozhraní uvedený v čl. 14a odst. 2 směrnice 2006/112/ES</td></tr><tr><td></td><td>E-mail osoby povinné k dani</td></tr><tr><td></td><td>Webové stránky osoby povinné k dani, pokud existují</td></tr><tr><td></td><td>Jméno a příjmení kontaktní osoby</td></tr><tr><td></td><td>Telefonní číslo</td></tr><tr><td colspan="2"><b>Bankovní spojení</b></td></tr><tr><td></td><td>Vlastník účtu</td></tr><tr><td></td><td>IBAN</td></tr><tr><td></td><td>BIC (nepovinné)</td></tr><tr><td colspan="2"><b>Den zahájení používání režimu</b></td></tr><tr><td></td><td>Den uskutečnění prvního vybraného plnění</td></tr><tr><td colspan="2"><b>Další registrace k DPH přidělené jinými členskými státy jako neusazené osobě povinné k dani</b></td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>Identifikační číslo pro DPH</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Potvrzuji, že nejsem usazen(a) v rámci Evropské Unie (zaškrtne pouze osoba neusazená v EU)</td></tr><tr><td colspan="2"><b>Předchozí / současné registrace k ostatním zvláštním režimům jednoho správního místa - OSS (režim mimo EU, režim EU nebo dovozní režim)</b></td></tr><tr><td></td><td>Identifikace státu, který registraci přidělil</td></tr><tr><td></td><td>DIČ/DEČ/IM číslo/IN číslo předchozích nebo současných registrací</td></tr><tr><td colspan="2"><b>Provozovna v jiném členském státě</b></td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>Identifikační číslo pro DPH nebo daňové registrační číslo</td></tr><tr><td></td><td>Jedná se o stálou provozovnu daňového subjektu</td></tr><tr><td></td><td>Název provozovny</td></tr><tr><td colspan="2"><b>Adresa provozovny</b></td></tr><tr><td></td><td>Ulice a číslo (orientační, část obce a číslo popisné)</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>Okres</td></tr><tr><td></td><td>Část země</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td colspan="2"><b>Přístup do aplikace</b></td></tr><tr><td></td><td>Žádám o přidělení přístupu z titulu:</td></tr><tr><td></td><td>Číselný kód oprávnění:</td></tr><tr><td></td><td>1 – osoby povinné k dani – žadatel</td></tr><tr><td></td><td>2 – osoby jednající na základě pověření</td></tr><tr><td></td><td>3 – zástupce na základě plné moci</td></tr><tr><td></td><td>4 – nežádám o přístup</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>E-mail pro vyrozumění o přidělení přístupu</td></tr><tr><td></td><td>Datum vyhotovení</td></tr><tr><td colspan="2"><b>Podpis daňového subjektu / osoby oprávněné k podpisu</b></td></tr><tr><td></td><td>Odeslání prostřednictvím DIS+</td></tr><tr><td></td><td>Ověření identity přihlášením do datové schránky</td></tr><tr><td></td><td>Ověření identity s využitím NIA</td></tr><tr><td colspan="2">Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.</td></tr></tbody></table>
+
+### Příloha č. 16
+
+<table><tbody><tr><td colspan="2"><b>Přihláška k registraci do zvláštního režimu jednoho správního místa - OSS (režim mimo Evropskou unii)</b></td></tr><tr><td>25 5131 MFin 5131<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro Jihomoravský kraj</td></tr><tr><td></td><td>Územní pracoviště pro Brno I</td></tr><tr><td></td><td>Vnitrostátní daňové číslo</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Název/Jméno</td></tr><tr><td></td><td>Obchodní název (názvy) společnosti</td></tr><tr><td></td><td>Stát sídla ekonomické činnosti</td></tr><tr><td colspan="2"><b>Kontaktní údaje</b></td></tr><tr><td></td><td>Adresa místa pobytu / sídla mimo EU:</td></tr><tr><td></td><td>Ulice a číslo</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>Okres</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Část země</td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>E-mail osoby povinné k dani</td></tr><tr><td></td><td>Webové stránky osoby povinné k dani</td></tr><tr><td></td><td>Jméno a příjmení kontaktní osoby</td></tr><tr><td></td><td>Telefonní číslo</td></tr><tr><td colspan="2"><b>Bankovní spojení</b></td></tr><tr><td></td><td>Vlastník účtu</td></tr><tr><td></td><td>OBAN/IBAN</td></tr><tr><td></td><td>BIC (nepovinné)</td></tr><tr><td></td><td>Den uskutečnění prvního vybraného plnění</td></tr><tr><td colspan="2"><b>Předchozí / současné registrace k ostatním zvláštním režimům jednoho správního místa OSS (režim mimo EU, režim EU nebo dovozní režim)</b></td></tr><tr><td></td><td>Identifikace státu, který registraci přidělil</td></tr><tr><td></td><td>DIČ/DEČ/IM číslo/lN číslo předchozích nebo současných registrací</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Potvrzuji, že nejsem usazen v EU</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Datum vyhotovení</td></tr><tr><td></td><td>Elektronické podání se považuje za podepsané odesláním</td></tr><tr><td colspan="2">Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.</td></tr></tbody></table>
+
+### Příloha č. 17
+
+<table><tbody><tr><td colspan="2"><b>Žádost o zrušení registrace skupiny<br> Žádost o vystoupení člena ze skupiny<br> Oznámení nesplnění podmínek skupiny podle zákona o dani z přidané hodnoty</b></td></tr><tr><td>25 5127 MFin 5127<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro / Specializovanému finančnímu úřadu</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>Daňové identifikační číslo skupiny</td></tr><tr><td colspan="2"></td></tr><tr><td>01</td><td>Zastupující člen skupiny:</td></tr><tr><td></td><td>název a právní forma / jméno a příjmení</td></tr><tr><td></td><td>sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu</td></tr><tr><td>02</td><td>Skupina nesplňuje podmínky podle § 5a zákona o DPH</td></tr><tr><td>03</td><td>Člen skupiny, o jehož vystoupení se žádá:</td></tr><tr><td></td><td>název a právní forma / jméno a příjmení</td></tr><tr><td></td><td>sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu</td></tr><tr><td>04a</td><td>Člen nesplňuje podmínky pro členství ve skupině</td></tr><tr><td>04b</td><td>Bylo vydáno rozhodnutí o úpadku člena skupiny</td></tr><tr><td>04c</td><td>Člen přestupuje do jiné skupiny</td></tr><tr><td colspan="2"></td></tr><tr><td>05</td><td>Čísla účtů u poskytovatelů platebních služeb náležící vystupujícímu členu skupiny</td></tr><tr><td></td><td>účty v ČR vedené v CZK:</td></tr><tr><td></td><td>číslo účtu / směrový (identifikační) kód</td></tr><tr><td></td><td>účet vedený v zahraničí nebo účet v cizí měně:</td></tr><tr><td></td><td>IBAN</td></tr><tr><td colspan="2"><b>Údaje o podepisující osobě</b></td></tr><tr><td></td><td>Kód podepisující osoby</td></tr><tr><td></td><td>Jméno(a) a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu s uvedením vztahu k právnické osobě</b></td></tr><tr><td></td><td>Jméno(a) a příjmení / vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Daňový subjekt / Osoba oprávněná k podpisu</b></td></tr><tr><td></td><td>Datum</td></tr><tr><td></td><td>Otisk razítka</td></tr><tr><td></td><td>Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu</td></tr></tbody></table>
+
+#### POKYNY
+
+25 5127 MFin 5127
+
+Při rušení registrace skupiny nebo vystoupení člena ze skupiny se postupuje podle § 106e a § 106f zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“) a podle § 125 až 131 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“).
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Poučení:**
+
+Práva a povinnosti supiny přecházejí na osoby, které jsou členy skupiny ke dni zrušení registrace skupiny, dnem jejího zrušení. V případě vystoupení osoby dnem zrušení jejího členství ve skupině.
+
+**Finančnímu úřadu pro / Specializovanému finančnímu úřadu** doplníte zbývající část oficiálního názvu svého místně příslušného finančního úřadu (např. – hlavní město Prahu, – Jihočeský kraj, apod.). Bude-li subjekt vybraným subjektem podle § 11 odst. 2 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů (dále jen „zákon o Finanční správě České republiky"), doplní údaj slovy Specializovanému finančnímu úřadu. V poli „Územní pracoviště v, ve, pro“ bude uvedeno sídlo územního pracoviště, na němž je nebo bude umístěn spis daňového subjektu (§ 13 zákona o Finanční správě České republiky).
+
+Zaškrtněte, zda se jedná o Žádost o zrušení registrace skupiny (vyplňte řádek 01) nebo o Žádost o vystoupení člena ze skupiny (vyplňte řádky 01, 03 a 05) nebo Oznámení nesplnění podmínek skupiny (vyplňte řádky 01 až 05, pokud je dán důvod pro jejich vyplnění).
+
+01 Uvede se identifikace zastupujícího člena skupiny (§ 5b odst. 1 zákona o DPH).
+
+– celý název včetně všech dodatků a právní forma u právnických osob nebo celé jméno a příjmení u fyzických osob,
+
+– daňové identifikační číslo, pokud již bylo přiděleno,
+
+– sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu
+
+02 Vyplňte pouze v případě, kdy ve smyslu ustanovení § 106e odst. 2 zákona o DPH oznamujete, že skupina již nesplňuje podmínky podle § 5a zákona o DPH.
+
+Každý člen skupiny je po zrušení její registrace jako plátce daně povinen nahlásit svému správci daně všechny své účty u poskytovatelů platebních služeb, které jsou používány pro ekonomickou činnost, jejich zveřejnění a také účet pro vracení přeplatků na DPH. K tomu použije tiskopis Oznámení o změně registračních údajů.
+
+03 Uvede se identifikace vystupujícího člena skupiny.
+
+– celý název včetně všech dodatků a právní forma u právnických osob nebo celé jméno a příjmení u fyzických osob,
+
+– sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu.
+
+04a Zaškrtněte pouze v případě, že člen skupiny nesplňuje podmínky pro členství ve skupině.
+
+04b Zaškrtněte pouze, pokud bylo vydáno rozhodnutí o úpadku člena skupiny.
+
+Podle § 106f odst. 3 zákona o DPH: Pokud bylo vydáno rozhodnutí o úpadku člena skupiny, zaniká jeho členství dnem, kdy nastaly účinky tohoto rozhodnutí.
+
+04c Zaškrtněte pouze v případě, že člen přestupuje do jiné skupiny.
+
+Žádost o vystoupení člena, který přistoupil do skupiny podle § 95a odst. 4, může být podána, pokud ke dni zrušení jeho členství bude toto členství trvat alespoň 1 kalendářní rok. Vzhledem ke skutečnosti, že správce daně zruší členství k poslednímu dni kalendářního roku, je možné podat žádost o vystoupení takového člena skupiny pouze v případě, že se členem skupiny stal k 1. lednu daného kalendářního roku, nebo kdykoli dříve. Zároveň platí, že žádost o vystoupení musí být v souladu s § 106f odst. 1 podána do konce října.
+
+05 Uveďte čísla nahlášených účtů u poskytovatelů platebních služeb náležící vystupujícímu členu skupiny.
+
+Tento vystupující člen jako plátce daně je povinen nahlásit svému správci daně všechny své účty u poskytovatelů platebních služeb, které jsou používány pro ekonomickou činnost, jejich zveřejnění a také účet pro vracení přeplatků na DPH. K tomu použije tiskopis Oznámení o změně registračních údajů.
+
+Údaje o podepisující osobě budou vyplňovány pouze v případech, kdy je podání zpracováváno a podáváno osobou odlišnou od daňového subjektu, tzn. v případech, kdy daňový subjekt činí podání sám za sebe, tuto část nevyplňujte. Pokyn k vyplňování údajů o podepisující osobě je zveřejněn na webových stránkách Finanční správy v nabídce Daňové tiskopisy na adrese http://www.financnisprava.cz.
+
+Otisk razítka (uvádí se pouze v listinné podobě tohoto formuláře): lze připojit otisk razítka.
+
+Vlastnoruční podpis daňového subjektu / osoby oprávněné k podpisu (uvádí se pouze v listinné podobě tohoto formuláře): podání bude opatřeno vlastnoručním podpisem – fyzickou osobou oprávněnou podepsat podání za daňový subjekt – právnickou osobu. V případě podání v elektronické podobě se vlastnoruční podpis nahradí příslušným způsobem autorizace podání (např. identitou občana, uznávaným elektronickým podpisem apod.).
+
+Všechny údaje, na něž jste neměli dostatek místa na formuláři, a veškeré další informace, které považujete za závažné, uveďte na zvláštní příloze. U jednotlivých údajů uveďte číslo položky původního formuláře, k níž se vztahují.
+
+### Příloha č. 18
+
+<table><tbody><tr><td colspan="2"><b>Přihláška k registraci do zvláštního režimu jednoho správního místa - OSS (dovozní režim - dovozce)<br> Žádost o přístup na elektronický portál do aplikace jednoho správního místa</b></td></tr><tr><td>25 5133 MFin 5133<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro Jihomoravský kraj</td></tr><tr><td></td><td>Územní pracoviště pro Brno I</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Název/Jméno</td></tr><tr><td></td><td>Obchodní název (názvy) společnosti</td></tr><tr><td></td><td>Stát sídla ekonomické činnosti</td></tr><tr><td colspan="2"><b>Kontaktní údaje</b></td></tr><tr><td></td><td>Adresa usazení (sídlo nebo provozovna):</td></tr><tr><td></td><td>Ulice a číslo orientační, část obce a číslo popisné</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>E-mail osoby povinné k dani</td></tr><tr><td></td><td>Webové stránky osoby povinné k dani</td></tr><tr><td></td><td>Jméno a příjmení kontaktní osoby</td></tr><tr><td></td><td>Telefonní číslo</td></tr><tr><td colspan="2"><b>Bankovní spojení</b></td></tr><tr><td></td><td>Vlastník účtu</td></tr><tr><td></td><td>IBAN</td></tr><tr><td></td><td>BIC (nepovinné)</td></tr><tr><td colspan="2"><b>Předchozí / současné registrace k ostatním zvláštním režimům jednoho správního místa - OSS (režim mimo EU, režim EU nebo dovozní režim)</b></td></tr><tr><td></td><td>Identifikace státu, který registraci přidělil</td></tr><tr><td></td><td>DIČ/DEČ/IM číslo/lN číslo předchozích nebo současných registrací</td></tr><tr><td colspan="2"><b>Provozovny v jiném členském státě</b></td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>Identifikační číslo pro DPH nebo daňové registrační číslo</td></tr><tr><td></td><td>Název provozovny</td></tr><tr><td colspan="2"><b>Adresa provozovny</b></td></tr><tr><td></td><td>Ulice a číslo</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>Okres</td></tr><tr><td></td><td>Část země</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td colspan="2"><b>Přístup do aplikace</b></td></tr><tr><td></td><td>Žádám o přidělení přístupu z titulu:</td></tr><tr><td></td><td>Číselný kód oprávnění:</td></tr><tr><td></td><td>1 – osoby povinné k dani – žadatel</td></tr><tr><td></td><td>2 – osoby jednající na základě pověření</td></tr><tr><td></td><td>3 – zástupce na základě plné moci</td></tr><tr><td></td><td>4 – nežádám o přístup</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>E-mail pro vyrozumění o přidělení přístupu</td></tr><tr><td></td><td>Datum vyhotovení</td></tr><tr><td colspan="2"><b>Podpis daňového subjektu / osoby oprávněné k podpisu</b></td></tr><tr><td></td><td>Odeslání prostřednictvím DIS+</td></tr><tr><td></td><td>Ověření identity přihlášením do datové schránky</td></tr><tr><td></td><td>Ověření identity s využitím NIA</td></tr><tr><td colspan="2">Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.</td></tr></tbody></table>
+
+### Příloha č. 19
+
+<table><tbody><tr><td colspan="2"><b>Přihláška k registraci do zvláštního režimu jednoho správního místa - OSS (dovozní režim - zprostředkovatel)<br> Žádost o přístup na elektronický portál do aplikace jednoho správního místa</b></td></tr><tr><td>25 5134 MFin 5134<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro Jihomoravský kraj</td></tr><tr><td></td><td>Územní pracoviště pro Brno I</td></tr><tr><td></td><td>Daňové identifikační číslo</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Název /Jméno</td></tr><tr><td></td><td>Obchodní název (názvy) společnosti</td></tr><tr><td colspan="2"><b>Kontaktní údaje</b></td></tr><tr><td></td><td>Adresa v ČR:</td></tr><tr><td></td><td>Ulice a číslo orientační, část obce a číslo popisné</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>E-mail zprostředkovatele</td></tr><tr><td></td><td>Jméno a příjmení kontaktní osoby</td></tr><tr><td></td><td>Telefonní číslo</td></tr><tr><td colspan="2"><b>Bankovní spojení</b></td></tr><tr><td></td><td>Vlastník účtu</td></tr><tr><td></td><td>IBAN</td></tr><tr><td></td><td>BIC (nepovinné)</td></tr><tr><td colspan="2"><b>Předchozí / současné registrace jako zprostředkovatel ve zvláštním režimu jednoho správního místa - OSS</b></td></tr><tr><td></td><td>Identifikace státu, který registraci přidělil</td></tr><tr><td></td><td>IN číslo</td></tr><tr><td colspan="2"><b>Provozovny v jiném členském státě</b></td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>Identifikační číslo pro DPH nebo daňové registrační číslo</td></tr><tr><td></td><td>Název provozovny</td></tr><tr><td colspan="2"><b>Adresa provozovny</b></td></tr><tr><td></td><td>Ulice a číslo</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>Okres</td></tr><tr><td></td><td>Část země</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td colspan="2"><b>Přístup do aplikace</b></td></tr><tr><td></td><td>Žádám o přidělení přístupu z titulu:</td></tr><tr><td></td><td>Číselný kód oprávnění:</td></tr><tr><td></td><td>1 – osoby povinné k dani – žadatel</td></tr><tr><td></td><td>2 – osoby jednající na základě pověření</td></tr><tr><td></td><td>3 – zástupce na základě plné moci</td></tr><tr><td></td><td>4 – nežádám o přístup</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>E-mail pro vyrozumění o přidělení přístupu</td></tr><tr><td></td><td>Datum vyhotovení</td></tr><tr><td colspan="2"><b>Podpis daňového subjektu / osoby oprávněné k podpisu</b></td></tr><tr><td></td><td>Odeslání prostřednictvím DIS+</td></tr><tr><td></td><td>Ověření identity přihlášením do datové schránky</td></tr><tr><td></td><td>Ověření identity s využitím NIA</td></tr><tr><td colspan="2">Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.</td></tr></tbody></table>
+
+### Příloha č. 20
+
+<table><tbody><tr><td colspan="2"><b>Žádost o změnu registračních údajů zprostředkovatele ve zvláštním režimu jednoho správního místa – OSS, spočívající v doplnění osoby uskutečňující vybraná plnění do jeho registrace</b></td></tr><tr><td>25 5135 MFin 5135<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro Jihomoravský kraj</td></tr><tr><td></td><td>Územní pracoviště pro Brno I</td></tr><tr><td colspan="2"><b>Identifikace zastupované osoby povinné k dani</b></td></tr><tr><td></td><td>Daňové identifikační číslo pro DPH</td></tr><tr><td></td><td>Vnitrostátní daňové číslo (povinné, pokud není vyplněno DIČ pro DPH)</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Název /Jméno</td></tr><tr><td></td><td>Obchodní název (názvy) společnosti</td></tr><tr><td></td><td>Stát sídla ekonomické činnosti</td></tr><tr><td colspan="2"><b>Kontaktní údaje</b></td></tr><tr><td></td><td>Adresa usazení:</td></tr><tr><td></td><td>Ulice a číslo orientační, část obce a číslo popisné</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>E-mail osoby povinné k dani</td></tr><tr><td></td><td>Webové stránky osoby povinné k dani</td></tr><tr><td></td><td>Jméno a příjmení kontaktní osoby</td></tr><tr><td></td><td>Telefonní číslo</td></tr><tr><td colspan="2"><b>Předchozí / současné registrace k ostatním zvláštním režimům jednoho správního místa - OSS (režim mimo EU, režim EU nebo dovozní režim)</b></td></tr><tr><td></td><td>Identifikace státu, který registraci přidělil</td></tr><tr><td></td><td>DIČ/DEČ/IM číslo/lN číslo předchozích nebo současných registrací</td></tr><tr><td colspan="2"><b>Provozovny v jiném členském státě</b></td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>Identifikační číslo pro DPH nebo daňové registrační číslo</td></tr><tr><td></td><td>Název provozovny</td></tr><tr><td colspan="2"><b>Adresa provozovny</b></td></tr><tr><td></td><td>Ulice a číslo orientační, část obce a číslo popisné</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Okres</td></tr><tr><td></td><td>Část země</td></tr><tr><td></td><td>Stát</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Datum vyhotovení</td></tr><tr><td></td><td>Elektronické podání se považuje za podepsané odesláním z autentizované zóny OSS</td></tr><tr><td colspan="2">Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.</td></tr></tbody></table>
+
+### Příloha č. 21
+
+<table><tbody><tr><td colspan="2"><b>Oznámení CESOP / Disclosure CESOP</b></td></tr><tr><td>25 5262 MFin 5262<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Vstupní informace, Údaje o poskytovateli evidované platební služby<br> Input information, Data of the recorded payment service provider</b></td></tr><tr><td></td><td>Finančnímu úřadu / To the relevant office</td></tr><tr><td></td><td>Za období / For the period</td></tr><tr><td></td><td>Oznámení / Disclosure</td></tr><tr><td></td><td>důvody pro podání následného Oznámení zjištěny dne / reasons for submission of corrective Disclosure established on</td></tr><tr><td colspan="2"><b>Identifikace poskytovatele evidované platební služby<br> Identification of the recorded payment service provider</b></td></tr><tr><td></td><td>Daňové identifikační číslo / Tax identification number</td></tr><tr><td></td><td>Název / Name</td></tr><tr><td></td><td>Ulice / Street</td></tr><tr><td></td><td>Číslo / Number</td></tr><tr><td></td><td>Obec / City</td></tr><tr><td></td><td>PSČ / Post code</td></tr><tr><td></td><td>Stát / Country</td></tr><tr><td colspan="2"><b>Příloha oznámení CESOP / Attachment to the Disclosure CESOP</b></td></tr></tbody></table>
+
+#### POKYNY k vyplnění Oznámení CESOP
+
+25 5262/1 MFin 5262/1
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+Pokud jsou v pokynech uvedeny odkazy na jednotlivá ustanovení (§) zákona, jedná se o zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále též „zákon o DPH“), pokud není uvedeno jinak.
+
+Poskytovateli evidované platební služby vzniká v souladu s § 110zzf ve spojení s § 110zzc povinnost podat Oznámení CESOP s údaji z evidence o přeshraničních platbách a jejich příjemcích.
+
+Oznámení CESOP se podává podle § 110zzf za kalendářní čtvrtletí, vždy do konce měsíce následujícího (30. 4., 31. 7., 31. 10. a 31. 1.). Pokud se jedná o Oznámení CESOP, kterým se opravují údaje uvedené v již podaném Oznámení CESOP, podává se toto Oznámení CESOP do 5 pracovních dnů ode dne zjištění nesprávných nebo neúplných údajů.
+
+Oznámení CESOP se podává podle § 110zzh výhradně elektronicky jako formulářové podání prostřednictvím portálu Moje daně. Podání učiněné jiným způsobem je neúčinné.
+
+Poskytovatel evidované platební služby má v souladu s § 110zzi postavení daňového subjektu.
+
+1\. **Základní údaje**
+
+**Finančnímu úřadu pro**
+
+Protože je správcem daně podle § 110zzj Specializovaný finanční úřad, bude v Oznámení CESOP předvyplněno „4000 - SPECIALIZOVANÝ".
+
+##### Oznámení CESOP
+
+**Běžné**
+
+Zaškrtne se v případě, že jde o první podání Oznámení CESOP pro dané období. Oznámení CESOP se podává v souladu s § 110zzf odst. 1 a 2 do konce kalendářního měsíce bezprostředně následujícího po skončení kalendářního čtvrtletí. Tedy do 30. dubna za první čtvrtletí, do 31. července za druhé čtvrtletí, 31. října za třetí čtvrtletí a 31. ledna následujícího roku za čtvrté čtvrtletí, a to bez ohledu na to, zda posledním dnem lhůty je sobota, neděle nebo svátek (tato skutečnost lhůtu neprodlužuje).
+
+**Následné**
+
+Zaškrtne se v případě, že jde o podání Oznámení CESOP podle § 110zzf odst. 3.
+
+**Důvody pro podání následného Oznámení CESOP zjištěny dne**
+
+Uvede se datum (ve formátu „DDMMRRRR“), kdy poskytovatel evidované platební služby zjistil, že v běžném Oznámení CESOP uvedl nesprávné nebo neúplné údaje. Následné Oznámení CESOP se podává podle § 110zzf odst. 3 do 5 pracovních dnů od tohoto zjištění.
+
+**Za období**
+
+Poskytovatel evidované platební služby uvede podle § 110zzf kalendářní čtvrtletí a rok, za které podává Oznámení CESOP. Kalendářní období se uvede číslicí v rozsahu 1 až 4, k vyplněné hodnotě se nepřipisuje tečka. Kalendářní rok se uvede ve formátu „RRRR“.
+
+**Daňové identifikační číslo (DIČ – pouze číselná část)**
+
+Uvede se kmenová část daňového identifikačního čísla, které bylo poskytovateli evidované platební služby přiděleno. Vyplnění tohoto údaje je pro další zpracování nezbytné.
+
+**Název poskytovatele evidované platební služby**
+
+Uvede se název poskytovatele evidované platební služby – osoby, která Oznámení CESOP podává.
+
+**Sídlo poskytovatele evidované platební služby**
+
+Uvede se adresa sídla poskytovatele evidované platební služby. Ulice (textová položka), číslo (textová položka), obec (textová položka), PSČ (bez mezer, textová položka), stát (z číselníku).
+
+##### Příloha Oznámení CESOP
+
+Příloha Oznámení CESOP se podává právě jedna. Příloha Oznámení CESOP obsahuje údaje z evidence o přeshraničních platbách a jejich příjemcích, a to ve formátu XML jako ZIP soubor (maximální povolená velikost přílohy je uvedena na portále MOJE daně v aplikaci Elektronická podání pro finanční správu (EPO), oblast daně z přidané hodnoty - ve formuláři Oznámení CESOP). Údaje se člení podle jednotlivých řádků uvedených ve sloupci "Název datového prvku". Sloupec "Popis" obsahuje bližší popis, jaká informace se ke kterému datovému prvku uvádí. A sloupec "Povinné" informuje o tom, zda je poskytnutí daného údaje povinné, či nikoli, případně v jaké situaci. Struktura přílohy Oznámení CESOP musí být v souladu s aktuálním XSD User Guide zveřejněným na stránkách Evropské komise (https://taxation-customs.ec.europa.eu/taxation-1/central-electronic-system-payment-information-cesop_en).
+
+| Položka č. | Název datového prvku | Popis | Povinné |
+|---|---|---|---|
+| 1 | BIC/ID poskytovatele platebních služeb | Kód BIC ve smyslu čl. 2 bodu 16 nařízení Evropského parlamentu a Rady (EU) č. 260/2012 či jakýkoli jiný identifikační kód podniku, který jednoznačně označuje poskytovatele platebních služeb předávajícího údaje. | Ano |
+| 2 | Název příjemce | Veškerá jména příjemce, která jsou k dispozici v záznamech poskytovatelů platebních služeb, včetně oficiálního názvu a obchodního jména. | Ano |
+| 3 | DPH/DIČ příjemce | Identifikační číslo pro účely DPH a/nebo jakékoli jiné vnitrostátní daňové číslo příjemce | Povinné, pokud je údaj k dispozici |
+| 4 | Identifikační číslo účtu příjemce | IBAN ve smyslu čl. 2 bodu 15 nařízení (EU) č. 260/2012 nebo, není-li k dispozici, jakýkoli jiný identifikátor, který jednoznačně označuje příjemce, který se transakce účastní, a jeho místo usazení. | Ano, jsou-li peněžní prostředky převedeny na platební účet příjemce |
+| 5 | BIC/ID poskytovatele platebních služeb příjemce | Kód BIC či jiný identifikační kód podniku, který jednoznačně označuje poskytovatele platebních služeb jednajícího jménem příjemce, a jeho místo usazení, pokud příjemce přijímá peněžní prostředky, aniž by měl platební účet. | Pouze v případě, že příjemce obdrží peněžní prostředky, aniž by měl platební účet |
+| 6 | Adresa příjemce | Veškeré adresy příjemce, které jsou k dispozici v záznamech poskytovatelů platebních služeb (oficiální adresa, sídlo, adresa skladu). | Povinné, pokud je údaj k dispozici |
+| 7 | Vrácená platba | Jakýkoli odkaz na to, že transakce je vrácenou platbou a souvislost s předchozí vykázanou transakcí. | Je-li to relevantní |
+| 8 | Datum/čas | Datum a čas provedení platební transakce nebo vrácení platby. | Ano |
+| 9 | Částka | Částka platební transakce nebo vrácené platby. | Ano |
+| 10 | Měna | Měna platební transakce nebo vrácené platby. | Ano |
+| 11 | Členský stát původu platby | Členský stát původu platby, kterou obdržel příjemce. | Je-li transakce platbou |
+| 12 | Členský stát místa určení vracené platby | Členský stát určení vracené platby. | Je-li transakce vrácenou platbou podle kolonky 7 |
+| 13 | Informace o místě plátce | Údaj o informacích použitých k určení původu platby nebo místa určení vracené platby. Podrobné údaje o těchto informacích se nepředávají, aby se zabránilo zjištění totožnosti plátce. | Ano |
+| 14 | Identifikační kód transakce | Jakékoli údaje, které jednoznačně označují platební transakci | Ano |
+| 15 | Fyzická přítomnost | Jakýkoli odkaz, který uvádí přítomnost plátce ve fyzických prostorách obchodníka při iniciování platby. | Je-li to relevantní |
+
+### Příloha č. 22
+
+<table><tbody><tr><td colspan="2"><b>Žádost o přidělení přístupu do Aplikace pro vracení daně z přidané hodnoty plátci v jiném členském státě podle § 82 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů</b></td></tr><tr><td colspan="2">Žádost se podává výhradně elektronicky v aplikaci EPO podepsaná uznávaným elektronickým podpisem nebo s ověřenou identitou podatele způsobem, kterým se lze přihlásit do jeho datové schránky</td></tr><tr><td>25 5263 MFin 5263<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro</td></tr><tr><td></td><td>Územní pracoviště pro</td></tr><tr><td></td><td>Místo vyhotovení</td></tr><tr><td></td><td>Datum vyhotovení</td></tr><tr><td colspan="2"><b>Identifikace daňového subjektu</b></td></tr><tr><td></td><td>DIČ</td></tr><tr><td></td><td>Rodné číslo (identifikační číslo)</td></tr><tr><td></td><td>Typ daňového subjektu</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Rodné příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Titul</td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Obchodní jméno právnické osoby</td></tr><tr><td></td><td>Dodatek obchodního jména</td></tr><tr><td></td><td>Sídlo právnické osoby / adresa místa pobytu fyzické osoby podle § 13 odst. 1 daňového řádu</td></tr><tr><td></td><td>Ulice (nebo část obce)</td></tr><tr><td></td><td>Číslo popisné</td></tr><tr><td></td><td>Číslo orientační</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td colspan="2"><b>Osoba oprávněná podat žádost o přístup do Aplikace pro vracení DPH</b></td></tr><tr><td></td><td>Rodné číslo</td></tr><tr><td></td><td>Datum narození žadatele</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Ulice</td></tr><tr><td></td><td>Číslo popisné</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>Vztah oprávněné osoby k daňovému subjektu</td></tr><tr><td></td><td>Telefonní číslo pro zaslání SMS pro informaci o vyřízení žádosti (SMS zprávy jsou zasílány pouze na čísla tuzemských operátorů)</td></tr><tr><td colspan="2"><b>Podpis daňového subjektu / osoby oprávněné k podpisu</b></td></tr><tr><td></td><td>Ověření identity přihlášením do datové schránky</td></tr><tr><td></td><td>Podepsat v ePodpisFS pomocí kvalifikovaného certifikátu</td></tr><tr><td colspan="2" rowspan="2">Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.</td></tr><tr></tr></tbody></table>
+
+### Příloha č. 23
+
+<table><tbody><tr><td colspan="2"><b>Přihláška k registraci do přeshraničního režimu DPH pro malé podniky (SME)</b></td></tr><tr><td>25 5137 MFin 5137<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>DEČ SME</td></tr><tr><td></td><td>Daňové identifikační číslo (DIČ)</td></tr><tr><td colspan="2"><b>Údaje o osobě povinné k dani</b></td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td></td><td>Adresa sídla / místa pobytu:</td></tr><tr><td></td><td>Ulice (část obce)</td></tr><tr><td></td><td>Číslo popisné</td></tr><tr><td></td><td>Číslo orientační</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>Je adresa usazení shodná s adresou sídla / místa pobytu?</td></tr><tr><td></td><td>Adresa usazení:</td></tr><tr><td></td><td>Ulice (část obce)</td></tr><tr><td></td><td>Číslo popisné</td></tr><tr><td></td><td>Číslo orientační</td></tr><tr><td></td><td>Obec</td></tr><tr><td></td><td>PSČ</td></tr><tr><td></td><td>Stát</td></tr><tr><td></td><td>Telefon</td></tr><tr><td></td><td>E-mail</td></tr><tr><td></td><td>Webové stránky</td></tr><tr><td></td><td>Obor ekonomické činnosti</td></tr><tr><td></td><td>Identifikátor pro dovozní režim OSS</td></tr><tr><td></td><td>Identifikátory (EX ID) přidělené pro účely přeshraničního režimu SME v jiných členských státech</td></tr><tr><td colspan="2"><b>Podepisující osoba</b></td></tr><tr><td></td><td>Typ a kód podepisující osoby</td></tr><tr><td></td><td>Jméno a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu za zastupující právnickou osobu</b></td></tr><tr><td></td><td>Jméno a příjmení / Vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Členské státy, pro které je požadována registrace do režimu</b></td></tr><tr><td></td><td>Členský stát EU</td></tr><tr><td colspan="2"><b>Identifikátory vydané členskými státy, pro které je požadována registrace do režimu</b></td></tr><tr><td>sl. 1</td><td>Členský stát EU</td></tr><tr><td>sl. 2</td><td>Druh identifikátoru</td></tr><tr><td>sl. 3</td><td>Identifikátor</td></tr><tr><td colspan="2"><b>Údaje o dosažených obratech za kalendářní rok (EUR)</b></td></tr><tr><td></td><td>(AT) Rakousko - Rok</td></tr><tr><td></td><td>(AT) Rakousko - Stát celkem</td></tr><tr><td></td><td>(AT) Rakousko - Obrat (EUR)</td></tr><tr><td></td><td>(AT) Rakousko - Rok</td></tr><tr><td></td><td>(AT) Rakousko - Odvětví</td></tr><tr><td></td><td>(AT) Rakousko - Obrat (EUR)</td></tr><tr><td></td><td>(BE) Belgie - Rok</td></tr><tr><td></td><td>(BE) Belgie - Stát celkem</td></tr><tr><td></td><td>(BE) Belgie - Obrat (EUR)</td></tr><tr><td></td><td>(BE) Belgie - Rok</td></tr><tr><td></td><td>(BE) Belgie - Odvětví</td></tr><tr><td></td><td>(BE) Belgie - Obrat (EUR)</td></tr><tr><td></td><td>(BG) Bulharsko - Rok</td></tr><tr><td></td><td>(BG) Bulharsko - Stát celkem</td></tr><tr><td></td><td>(BG) Bulharsko - Obrat (EUR)</td></tr><tr><td></td><td>(BG) Bulharsko - Rok</td></tr><tr><td></td><td>(BG) Bulharsko - Odvětví</td></tr><tr><td></td><td>(BG) Bulharsko - Obrat (EUR)</td></tr><tr><td></td><td>(CY) Kypr - Rok</td></tr><tr><td></td><td>(CY) Kypr - Stát celkem</td></tr><tr><td></td><td>(CY) Kypr - Obrat (EUR)</td></tr><tr><td></td><td>(CY) Kypr - Rok</td></tr><tr><td></td><td>(CY) Kypr - Odvětví</td></tr><tr><td></td><td>(CY) Kypr - Obrat (EUR)</td></tr><tr><td></td><td>(CZ) Česká republika - Rok</td></tr><tr><td></td><td>(CZ) Česká republika - Stát celkem</td></tr><tr><td></td><td>(CZ) Česká republika - Obrat (EUR)</td></tr><tr><td></td><td>(CZ) Česká republika - Rok</td></tr><tr><td></td><td>(CZ) Česká republika - Odvětví</td></tr><tr><td></td><td>(CZ) Česká republika - Obrat (EUR)</td></tr><tr><td></td><td>(DE) Německo - Rok</td></tr><tr><td></td><td>(DE) Německo - Stát celkem</td></tr><tr><td></td><td>(DE) Německo - Obrat (EUR)</td></tr><tr><td></td><td>(DE) Německo - Rok</td></tr><tr><td></td><td>(DE) Německo - Odvětví</td></tr><tr><td></td><td>(DE) Německo - Obrat (EUR)</td></tr><tr><td></td><td>(DK) Dánsko - Rok</td></tr><tr><td></td><td>(DK) Dánsko - Stát celkem</td></tr><tr><td></td><td>(DK) Dánsko - Obrat (EUR)</td></tr><tr><td></td><td>(DK) Dánsko - Rok</td></tr><tr><td></td><td>(DK) Dánsko - Odvětví</td></tr><tr><td></td><td>(DK) Dánsko - Obrat (EUR)</td></tr><tr><td></td><td>(EE) Estonsko - Rok</td></tr><tr><td></td><td>(EE) Estonsko - Stát celkem</td></tr><tr><td></td><td>(EE) Estonsko - Obrat (EUR)</td></tr><tr><td></td><td>(EE) Estonsko - Rok</td></tr><tr><td></td><td>(EE) Estonsko - Odvětví</td></tr><tr><td></td><td>(EE) Estonsko - Obrat (EUR)</td></tr><tr><td></td><td>(EL) Řecko - Rok</td></tr><tr><td></td><td>(EL) Řecko - Stát celkem</td></tr><tr><td></td><td>(EL) Řecko - Obrat (EUR)</td></tr><tr><td></td><td>(EL) Řecko - Rok</td></tr><tr><td></td><td>(EL) Řecko - Odvětví</td></tr><tr><td></td><td>(EL) Řecko - Obrat (EUR)</td></tr><tr><td></td><td>(ES) Španělsko - Rok</td></tr><tr><td></td><td>(ES) Španělsko - Stát celkem</td></tr><tr><td></td><td>(ES) Španělsko - Obrat (EUR)</td></tr><tr><td></td><td>(ES) Španělsko - Rok</td></tr><tr><td></td><td>(ES) Španělsko - Odvětví</td></tr><tr><td></td><td>(ES) Španělsko - Obrat (EUR)</td></tr><tr><td></td><td>(Fl) Finsko - Rok</td></tr><tr><td></td><td>(Fl) Finsko - Stát celkem</td></tr><tr><td></td><td>(Fl) Finsko - Obrat (EUR)</td></tr><tr><td></td><td>(Fl) Finsko - Rok</td></tr><tr><td></td><td>(Fl) Finsko - Odvětví</td></tr><tr><td></td><td>(Fl) Finsko - Obrat (EUR)</td></tr><tr><td></td><td>(FR) Francie - Rok</td></tr><tr><td></td><td>(FR) Francie - Stát celkem</td></tr><tr><td></td><td>(FR) Francie - Obrat (EUR)</td></tr><tr><td></td><td>(FR) Francie - Rok</td></tr><tr><td></td><td>(FR) Francie - Odvětví</td></tr><tr><td></td><td>(FR) Francie - Obrat (EUR)</td></tr><tr><td></td><td>(HR) Chorvatsko - Rok</td></tr><tr><td></td><td>(HR) Chorvatsko - Stát celkem</td></tr><tr><td></td><td>(HR) Chorvatsko - Obrat (EUR)</td></tr><tr><td></td><td>(HR) Chorvatsko - Rok</td></tr><tr><td></td><td>(HR) Chorvatsko - Odvětví</td></tr><tr><td></td><td>(HR) Chorvatsko - Obrat (EUR)</td></tr><tr><td></td><td>(HU) Maďarsko - Rok</td></tr><tr><td></td><td>(HU) Maďarsko - Stát celkem</td></tr><tr><td></td><td>(HU) Maďarsko - Obrat (EUR)</td></tr><tr><td></td><td>(HU) Maďarsko - Rok</td></tr><tr><td></td><td>(HU) Maďarsko - Odvětví</td></tr><tr><td></td><td>(HU) Maďarsko - Obrat (EUR)</td></tr><tr><td></td><td>(IE) Irsko - Rok</td></tr><tr><td></td><td>(IE) Irsko - Stát celkem</td></tr><tr><td></td><td>(IE) Irsko - Obrat (EUR)</td></tr><tr><td></td><td>(IE) Irsko - Rok</td></tr><tr><td></td><td>(IE) Irsko - Odvětví</td></tr><tr><td></td><td>(IE) Irsko - Obrat (EUR)</td></tr><tr><td></td><td>(IT) Itálie - Rok</td></tr><tr><td></td><td>(IT) Itálie - Stát celkem</td></tr><tr><td></td><td>(IT) Itálie - Obrat (EUR)</td></tr><tr><td></td><td>(IT) Itálie - Rok</td></tr><tr><td></td><td>(IT) Itálie - Odvětví</td></tr><tr><td></td><td>(IT) Itálie - Obrat (EUR)</td></tr><tr><td></td><td>(LT) Litva - Rok</td></tr><tr><td></td><td>(LT) Litva - Stát celkem</td></tr><tr><td></td><td>(LT) Litva - Obrat (EUR)</td></tr><tr><td></td><td>(LT) Litva - Rok</td></tr><tr><td></td><td>(LT) Litva - Odvětví</td></tr><tr><td></td><td>(LT) Litva - Obrat (EUR)</td></tr><tr><td></td><td>(LU) Lucembursko - Rok</td></tr><tr><td></td><td>(LU) Lucembursko - Stát celkem</td></tr><tr><td></td><td>(LU) Lucembursko - Obrat (EUR)</td></tr><tr><td></td><td>(LU) Lucembursko - Rok</td></tr><tr><td></td><td>(LU) Lucembursko - Odvětví</td></tr><tr><td></td><td>(LU) Lucembursko - Obrat (EUR)</td></tr><tr><td></td><td>(LV) Lotyšsko - Rok</td></tr><tr><td></td><td>(LV) Lotyšsko - Stát celkem</td></tr><tr><td></td><td>(LV) Lotyšsko - Obrat (EUR)</td></tr><tr><td></td><td>(LV) Lotyšsko - Rok</td></tr><tr><td></td><td>(LV) Lotyšsko - Odvětví</td></tr><tr><td></td><td>(LV) Lotyšsko - Obrat (EUR)</td></tr><tr><td></td><td>(MT) Malta - Rok</td></tr><tr><td></td><td>(MT) Malta - Stát celkem</td></tr><tr><td></td><td>(MT) Malta - Obrat (EUR)</td></tr><tr><td></td><td>(MT) Malta - Rok</td></tr><tr><td></td><td>(MT) Malta - Odvětví</td></tr><tr><td></td><td>(MT) Malta - Obrat (EUR)</td></tr><tr><td></td><td>(NL) Nizozemsko - Rok</td></tr><tr><td></td><td>(NL) Nizozemsko - Stát celkem</td></tr><tr><td></td><td>(NL) Nizozemsko - Obrat (EUR)</td></tr><tr><td></td><td>(NL) Nizozemsko - Rok</td></tr><tr><td></td><td>(NL) Nizozemsko - Odvětví</td></tr><tr><td></td><td>(NL) Nizozemsko - Obrat (EUR)</td></tr><tr><td></td><td>(PL) Polsko - Rok</td></tr><tr><td></td><td>(PL) Polsko - Stát celkem</td></tr><tr><td></td><td>(PL) Polsko - Obrat (EUR)</td></tr><tr><td></td><td>(PL) Polsko - Rok</td></tr><tr><td></td><td>(PL) Polsko - Odvětví</td></tr><tr><td></td><td>(PL) Polsko - Obrat (EUR)</td></tr><tr><td></td><td>(PT) Portugalsko - Rok</td></tr><tr><td></td><td>(PT) Portugalsko - Stát celkem</td></tr><tr><td></td><td>(PT) Portugalsko - Obrat (EUR)</td></tr><tr><td></td><td>(PT) Portugalsko - Rok</td></tr><tr><td></td><td>(PT) Portugalsko - Odvětví</td></tr><tr><td></td><td>(PT) Portugalsko - Obrat (EUR)</td></tr><tr><td></td><td>(RO) Rumunsko - Rok</td></tr><tr><td></td><td>(RO) Rumunsko - Stát celkem</td></tr><tr><td></td><td>(RO) Rumunsko - Obrat (EUR)</td></tr><tr><td></td><td>(RO) Rumunsko - Rok</td></tr><tr><td></td><td>(RO) Rumunsko - Odvětví</td></tr><tr><td></td><td>(RO) Rumunsko - Obrat (EUR)</td></tr><tr><td></td><td>(SE) Švédsko - Rok</td></tr><tr><td></td><td>(SE) Švédsko - Stát celkem</td></tr><tr><td></td><td>(SE) Švédsko - Obrat (EUR)</td></tr><tr><td></td><td>(SE) Švédsko - Rok</td></tr><tr><td></td><td>(SE) Švédsko - Odvětví</td></tr><tr><td></td><td>(SE) Švédsko - Obrat (EUR)</td></tr><tr><td></td><td>(Sl) Slovinsko - Rok</td></tr><tr><td></td><td>(Sl) Slovinsko - Stát celkem</td></tr><tr><td></td><td>(Sl) Slovinsko - Obrat (EUR)</td></tr><tr><td></td><td>(Sl) Slovinsko - Rok</td></tr><tr><td></td><td>(Sl) Slovinsko - Odvětví</td></tr><tr><td></td><td>(Sl) Slovinsko - Obrat (EUR)</td></tr><tr><td></td><td>(SK) Slovensko - Rok</td></tr><tr><td></td><td>(SK) Slovensko - Stát celkem</td></tr><tr><td></td><td>(SK) Slovensko - Obrat (EUR)</td></tr><tr><td></td><td>(SK) Slovensko - Rok</td></tr><tr><td></td><td>(SK) Slovensko - Odvětví</td></tr><tr><td></td><td>(SK) Slovensko - Obrat (EUR)</td></tr><tr><td></td><td>(EU) Obrat za EU celkem - Rok</td></tr><tr><td></td><td>(EU) Obrat za EU celkem - Stát celkem</td></tr></tbody></table>
+
+#### POKYNY k vyplnění formuláře Přihláška k registraci do přeshraničního režimu DPH pro malé podniky (SME)
+
+25 5137 MFin 5137
+
+Přihlášku podává osoba povinná k dani usazená v České republice, která chce začít využívat režim osvobození od DPH pro malé podniky (SME) v jiném členském státě EU. Přihláška neslouží k rozšíření již platné registrace osoby povinné k dani do režimu pro malé podniky, k tomu slouží formulář Oznámení o změně registračních údajů v přeshraničním režimu DPH pro malé podniky (SME).
+
+Pro všechny členské státy je třeba uvést údaje o dosažených obratech za stát celkem za běžný a minulý kalendářní rok. U členských států, pro které požadujete registraci a u kterých to vyžaduje jejich legislativa, je třeba uvést též údaje za předminulý rok, případně pro každý z kalendářních roků též údaje za odvětví. Potřebné informace k požadavkům jednotlivých členských států jsou k dispozici např. na webových stránkách Evropské komise nebo členských států, ve kterých chcete využívat osvobození, případně na www.financnisprava.cz.
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu:** Vyberte ze seznamu zbývající část oficiálního názvu finančního úřadu Vám místně příslušného ke správě daně z přidané hodnoty.
+
+**Územní pracoviště:** Vyberte ze seznamu územní pracoviště finančního úřadu, kde je, nebo bude umístěn Váš daňový spis (podle § 13 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů). DEČ SME: Pokud jde o Vaši první registraci v tuzemsku do přeshraničního režimu DPH pro malé podniky (SME), údaj nevyplňujte, DEČ SME Vám teprve bude přiděleno. V případě, že se nejedná o první registraci do tohoto režimu v České republice, uveďte daňové evidenční číslo (DEČ SME), které Vám pro účely dřívější registrace do tohoto režimu přidělil tuzemský správce daně.
+
+**Daňové identifikační číslo (DIČ):** Pokud Vám bylo při správě daní přiděleno daňové identifikační číslo (DIČ), uveďte jeho kmenovou část (pouze číselná část). Fyzická osoba, které nebylo přiděleno DIČ, uvede rodné číslo (RČ), právnická osoba uvede identifikační číslo (IČ).
+
+#### Údaje o osobě povinné k dani
+
+**Fyzická osoba**
+
+**Příjmení:** Uveďte aktuálně používané (používaná) příjmení.
+
+**Jméno:** Uveďte jméno ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Právnická osoba**
+
+**Název právnické osoby:** Uveďte obchodní jméno tak, jak je zapsáno v obchodním rejstříku, živnostenském listu, koncesní listině apod. U právnických osob, které se nezapisují do obchodního rejstříku, uveďte název, pod kterým byly zřízeny, a u ostatních subjektů název, pod nímž vystupují vůči třetím osobám.
+
+**Adresa sídla / místa pobytu**
+
+**Místem pobytu fyzické osoby** se rozumí adresa místa trvalého pobytu občana České republiky nebo adresa hlášeného místa pobytu cizince; nelze-li takto místo pobytu fyzické osoby určit, rozumí se jím místo na území České republiky, kde se fyzická osoba převážně zdržuje.
+
+**Adresou sídla právnické osoby** se rozumí adresa, pod kterou je právnická osoba zapsaná v obchodním rejstříku nebo obdobném veřejném rejstříku, nebo adresa, kde právnická osoba sídlí skutečně, pokud se tato osoba do těchto rejstříků nezapisuje.
+
+**Ulice (část obce):** Uveďte ulici nebo část obce z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba). Číslo popisné: Uveďte číslo popisné z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba).
+
+**Číslo orientační:** Uveďte číslo orientační z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba).
+
+**Obec:** Uveďte obec z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba).
+
+**PSČ:** Uveďte poštovní směrovací číslo z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba).
+
+**Stát:** Zadejte kód státu místa pobytu (fyzická osoba) nebo sídla (právnická osoba), nebo vyberte jeho název ze seznamu zobrazeného po kliknutí na šipku.
+
+**Je adresa usazení shodná s adresou sídla / místa pobytu? – ANO / NE**
+
+Adresa usazení se v některých případech neshoduje s adresou sídla, resp. místa pobytu. Pokud je odlišná, je pro účely registrace do přeshraničního režimu pro malé podniky (SME) rozhodující adresa usazení.
+
+**Adresa usazení:** Vyplňuje se pouze v případě, že bylo v předchozím bodě vyplněno NE, tedy v situaci, kdy se adresa usazení liší od adresy sídla nebo místa pobytu.
+
+Adresou usazení se rozumí adresa sídla osoby povinné k dani podle § 4 odst. 1 písm. i) zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH”), tj. adresa místa, kde jsou přijímána zásadní rozhodnutí týkající se řízení osoby a kde se schází její vedení, a adresa sídla, které je zapsáno ve veřejném rejstříku, s tím, že pokud nelze určit pouze jednu adresu, je sídlem adresa místa, kde jsou přijímána zásadní rozhodnutí týkající se řízení osoby; nelze-li v případě fyzické osoby takto sídlo určit, je jejím sídlem adresa místa jejího pobytu.
+
+**Telefon:** Uveďte telefonní číslo v mezinárodním formátu, na kterém Vás může tuzemský správce daně nebo správce daně členského státu, ve kterém budete využívat osvobození od DPH v režimu pro malé podniky, kontaktovat. Uvedení tohoto údaje je pro účely přeshraničního režimu pro malé podniky povinné.
+
+**E-mail:** Uveďte e-mailovou adresu, na které Vás může tuzemský správce daně nebo správce daně státu osvobození v souladu s vnitrostátními předpisy daného státu kontaktovat nebo na kterou Vám může doručovat rozhodnutí nebo vyrozumění ve věci správy daně v režimu pro malé podniky. Uvedení tohoto údaje je pro účely přeshraničního režimu pro malé podniky povinné.
+
+**Webové stránky:** Uveďte URL adresu (adresy) webových stránek podniku.
+
+**Obor ekonomické činnosti:** Uveďte činnosti, které jsou součástí vaší ekonomické činnosti a které v současnosti skutečně vykonáváte. Začněte psát název činnosti a zobrazí se Vám nabídka k výběru. Např. napište „oprav“ a vyberte odpovídající název činnosti ze zobrazené nabídky. Každá činnost se uvádí na samostatném řádku. Uvedení vykonávaných činností je pro účely přeshraničního režimu pro malé podniky povinné.
+
+**Identifikátor pro dovozní režim OSS:** Máte-li platnou registraci pro dovozní režim OSS (iOSS – Import One Stop Shop), uveďte identifikátor, který byl Vám nebo pro Vás Vašemu zprostředkovateli pro účely tohoto režimu přidělen v České republice nebo v jiném členském státě.
+
+**Identifikátory přidělené pro účely režimu SME v jiných členských státech:** Uveďte identifikátory (tzv. EX ID - Exempt Identfication Number) Vám přidělené pro účely přeshraničního režimu DPH pro malé podniky (SME) v jiných členských státech (i deaktivované). Pokud Vám žádné přiděleny nebyly, ponechte pole prázdné.
+
+**Podepisující osoba:**
+
+Údaje o podepisující osobě budou vyplněny pouze v případě, kdy je přihláška zpracovávána a podávána osobou odlišnou od osoby povinné k dani. Ve formuláři nejdříve vyberte odpovídající Typ podepisující osoby (Fyzická osoba, Právnická osoba) a správný Kód podepisující osoby pro vztah k osobě povinné k dani.
+
+**Typ podepisující osoby**
+
+Vyberte typ podepisující osoby: F – fyzická osoba (živnost) nebo P – právnická osoba (např. s.r.o., a.s., v.o.s.).
+
+Pokud byl vybrán jako Typ podepisující osoby **F – fyzická osoba**, zadejte Jméno(-a) a Příjmení. Pokud máte evidenční číslo osvědčení daňového poradce, uveďte tento identifikátor, jinak uveďte rodné číslo.
+
+Pokud byl vybrán jako Typ podepisující osoby **P – právnická osoba**, zadejte název právnické osoby a evidenční číslo osvědčení daňového poradce, pokud Vám bylo přiděleno. U právnické osoby je nezbytné uvést též jméno(-a) a příjmení fyzické osoby s oprávněním podepisovat za právnickou osobu, a uvést vztah fyzické osoby k právnické osobě (např. jednatel, pověřený pracovník).
+
+**Kód podepisující osoby**
+
+Vyberte číselný kód podle níže uvedených typů podepisující osoby:
+
+Fyzická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+Právnická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+**Datum narození:** V případě, že podepisující osobou je fyzická osoba, bude vyplněno buď datum narození podepisující osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby.
+
+**Evidenční číslo daňového poradce:** V případě, že podepisující osobou je fyzická osoba, bude vyplněno buď datum narození podepisující osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby.
+
+**IČ právnické osoby:** Vyplňte identifikační číslo právnické osoby, pokud je podepisující osobou.
+
+**Fyzická osoba oprávněná k podpisu za zastupující právnickou osobu**
+
+**Jméno:** Vyplňte jméno oprávněné osoby.
+
+**Příjmení:** Vyplňte příjmení oprávněné osoby
+
+**Vztah k právnické osobě:** Vyplňte postavení oprávněné osoby k subjektu.
+
+**Členské státy, pro které je požadována registrace do režimu**
+
+Uveďte členské státy, v nichž nemáte sídlo ve smyslu § 4 odst. 1 písm. i) zákona o DPH a ve kterých chcete využívat osvobození od DPH v přeshraničním režimu DPH pro malé podniky (SME).
+
+**Identifikátory přidělené členskými státy, pro které je požadována registrace**
+
+Pro každý uvedený členský stát, ve kterém nemáte sídlo a ve kterém chcete využívat osvobození od DPH v přeshraničním režimu DPH pro malé podniky (SME), uveďte identifikátory přidělené správcem daně tohoto státu a jejich druh. Druhem identifikátoru se rozumí VAT ID, TIN nebo jiné identifikační číslo přidělené pro správu daní státem osvobození. Identifikátor uveďte, i když je už neplatný, resp. nepoužívaný. Pokud Vám bylo identifikátorů v daném státě přiděleno více, uveďte je všechny, každý na samostatný řádek.
+
+**Údaje o dosažených obratech za kalendářní rok (EUR)**
+
+Údaje o obratech se uvádějí za kalendářní rok; za běžný kalendářní rok se uvádí obrat do data podání této přihlášky. Uveďte hodnoty plnění bez DPH uskutečněných ve vymezeném období, která spadají do obratu v tuzemsku, resp. v jiných členských státech pro účely DPH, a to samostatně
+
+a) celkovou hodnotu za každý členský stát a rok (pro výpočet obratu za EU celkem) a
+
+b) hodnoty za odvětví a rok v případě členských států osvobození využívajících pro účely režimu pro malé podniky též prahové hodnoty obratu stanovené pro vymezená odvětví.
+
+Pokud žádné plnění uskutečněno nebylo, uveďte hodnotu „0“.
+
+Za Českou republiku se hodnota obratu stanoví podle § 4a zákona o DPH.
+
+**Členský stát EU**
+
+Členský stát, ve kterém bylo obratu dosaženo dle místa plnění.
+
+**Rok**
+
+Údaje se uvádí za běžný a za minulý kalendářní rok. Pro členské státy, jejichž legislativa to vyžaduje, je třeba uvést tyto údaje i za předminulý kalendářní rok. Potřebné informace jsou k dispozici např. na webových stránkách Evropské komise nebo členských států, ve kterých chcete využívat osvobození, případně na www.financnisprava.cz.
+
+**Stát celkem / Odvětví**
+
+Pro členské státy, jejichž legislativa to vyžaduje, je třeba uvést údaje za odvětví. Potřebné informace jsou k dispozici např. na webových stránkách Evropské komise nebo členských států, ve kterých chcete využívat osvobození, případně na www.financnisprava.cz.
+
+**Obrat (EUR)**
+
+Pro převod z jiných měn použijte směnný kurz zveřejněný Evropskou centrální bankou platný pro první den kalendářního roku, za který se údaje vykazují, nebo platný pro nejbližší následující den, není-li kurz pro první den kalendářního roku zveřejněn. Částky uveďte v EUR s přesností na 2 desetinná místa, bez zaokrouhlení.
+
+### Příloha č. 24
+
+<table><tbody><tr><td colspan="3"><b>Oznámení o změně registračních údajů v přeshraničním režimu DPH pro malé podniky (SME)</b></td></tr><tr><td rowspan="3">25 5138 MFin 5138<br> Řádek<br> /položka/sloupec</td><td colspan="2" rowspan="3">Specifikace položky/údaje</td></tr><tr></tr><tr></tr><tr><td colspan="3"><b>Záhlaví</b></td></tr><tr><td></td><td colspan="2">Finančnímu úřadu pro</td></tr><tr><td></td><td colspan="2">Územní pracoviště v, ve, pro</td></tr><tr><td></td><td colspan="2">DEČ SME</td></tr><tr><td></td><td colspan="2">Daňové identifikační číslo (DIČ)</td></tr><tr><td colspan="3"><b>Oznamované změny</b></td></tr><tr><td></td><td colspan="2">Údaje o osobě povinné k dani</td></tr><tr><td></td><td colspan="2">Rozšíření registrace</td></tr><tr><td></td><td colspan="2">Zúžení nebo ukončení registrace</td></tr><tr><td></td><td colspan="2">Oprava údajů</td></tr><tr><td colspan="3"><b>Údaje o osobě povinné k dani</b></td></tr><tr><td></td><td colspan="2">Fyzická osoba:</td></tr><tr><td></td><td colspan="2">Příjmení</td></tr><tr><td></td><td colspan="2">Jméno</td></tr><tr><td></td><td colspan="2">Právnická osoba:</td></tr><tr><td></td><td colspan="2">Název právnické osoby</td></tr><tr><td></td><td colspan="2">Adresa sídla / místa pobytu:</td></tr><tr><td></td><td colspan="2">Ulice (část obce)</td></tr><tr><td></td><td colspan="2">Číslo popisné</td></tr><tr><td></td><td colspan="2">Číslo orientační</td></tr><tr><td></td><td colspan="2">Obec</td></tr><tr><td></td><td colspan="2">PSČ</td></tr><tr><td></td><td colspan="2">Stát</td></tr><tr><td></td><td colspan="2">Adresa usazení:</td></tr><tr><td></td><td colspan="2">Ulice (část obce)</td></tr><tr><td></td><td colspan="2">Číslo popisné</td></tr><tr><td></td><td colspan="2">Číslo orientační</td></tr><tr><td></td><td colspan="2">Obec</td></tr><tr><td></td><td colspan="2">PSČ</td></tr><tr><td></td><td colspan="2">Stát</td></tr><tr><td></td><td colspan="2">Telefon</td></tr><tr><td></td><td colspan="2">E-mail</td></tr><tr><td></td><td colspan="2">Webové stránky</td></tr><tr><td></td><td colspan="2">Obor ekonomické činnosti</td></tr><tr><td></td><td colspan="2">Ukončení ekonomické činnosti ke dni</td></tr><tr><td></td><td colspan="2">Identifikátor pro dovozní režim OSS</td></tr><tr><td colspan="3"><b>Podepisující osoba</b></td></tr><tr><td></td><td colspan="2">Typ a kód podepisující osoby</td></tr><tr><td></td><td colspan="2">Jméno a příjmení / Název právnické osoby</td></tr><tr><td></td><td colspan="2">Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="3"><b>Fyzická osoba oprávněná k podpisu za zastupující právnickou osobu</b></td></tr><tr><td></td><td colspan="2">Jméno a příjmení / Vztah k právnické osobě</td></tr><tr><td colspan="3"><b>Rozšíření registrace</b></td></tr><tr><td></td><td colspan="2">Členský stát, pro který je požadováno rozšíření registrace do režimu</td></tr><tr><td colspan="3"><b>Identifikátory vydané členskými státy, pro které je požadováno rozšíření registrace do režimu</b></td></tr><tr><td>sl. 1</td><td colspan="2">Členský stát EU</td></tr><tr><td>sl. 2</td><td colspan="2">Druh identifikátoru</td></tr><tr><td>sl. 3</td><td colspan="2">Identifikátor</td></tr><tr><td colspan="3"><b>Údaje o dosažených obratech za kalendářní rok (EUR)</b></td></tr><tr><td></td><td colspan="2">(AT) Rakousko - Rok</td></tr><tr><td></td><td colspan="2">(AT) Rakousko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(AT) Rakousko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(BE) Belgie - Rok</td></tr><tr><td></td><td colspan="2">(BE) Belgie - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(BE) Belgie - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(BG) Bulharsko - Rok</td></tr><tr><td></td><td colspan="2">(BG) Bulharsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(BG) Bulharsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(CY) Kypr - Rok</td></tr><tr><td></td><td colspan="2">(CY) Kypr - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(CY) Kypr - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(CZ) Česká republika - Rok</td></tr><tr><td></td><td colspan="2">(CZ) Česká republika - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(CZ) Česká republika - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(DE) Německo - Rok</td></tr><tr><td></td><td colspan="2">(DE) Německo - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(DE) Německo - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(DK) Dánsko - Rok</td></tr><tr><td></td><td colspan="2">(DK) Dánsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(DK) Dánsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(EE) Estonsko - Rok</td></tr><tr><td></td><td colspan="2">(EE) Estonsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(EE) Estonsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(EL) Řecko - Rok</td></tr><tr><td></td><td colspan="2">(EL) Řecko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(EL) Řecko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(ES) Španělsko - Rok</td></tr><tr><td></td><td colspan="2">(ES) Španělsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(ES) Španělsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(Fl) Finsko - Rok</td></tr><tr><td></td><td colspan="2">(Fl) Finsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(Fl) Finsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(FR) Francie - Rok</td></tr><tr><td></td><td colspan="2">(FR) Francie - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(FR) Francie - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(HR) Chorvatsko - Rok</td></tr><tr><td></td><td colspan="2">(HR) Chorvatsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(HR) Chorvatsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(HU) Maďarsko - Rok</td></tr><tr><td></td><td colspan="2">(HU) Maďarsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(HU) Maďarsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(IE) Irsko - Rok</td></tr><tr><td></td><td colspan="2">(IE) Irsko - Stát celkem</td></tr><tr><td></td><td colspan="2">(IE) Irsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(IT) Itálie - Rok</td></tr><tr><td></td><td colspan="2">(IT) Itálie - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(IT) Itálie - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(LT) Litva - Rok</td></tr><tr><td></td><td colspan="2">(LT) Litva - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(LT) Litva - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(LU) Lucembursko - Rok</td></tr><tr><td></td><td colspan="2">(LU) Lucembursko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(LU) Lucembursko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(LV) Lotyšsko - Rok</td></tr><tr><td></td><td colspan="2">(LV) Lotyšsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(LV) Lotyšsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(MT) Malta - Rok</td></tr><tr><td></td><td colspan="2">(MT) Malta - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(MT) Malta - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(NL) Nizozemsko - Rok</td></tr><tr><td></td><td colspan="2">(NL) Nizozemsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(NL) Nizozemsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(PL) Polsko - Rok</td></tr><tr><td></td><td colspan="2">(PL) Polsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(PL) Polsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(PT) Portugalsko - Rok</td></tr><tr><td></td><td colspan="2">(PT) Portugalsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(PT) Portugalsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(RO) Rumunsko - Rok</td></tr><tr><td></td><td colspan="2">(RO) Rumunsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(RO) Rumunsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(SE) Švédsko - Rok</td></tr><tr><td></td><td colspan="2">(SE) Švédsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(SE) Švédsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(Sl) Slovinsko - Rok</td></tr><tr><td></td><td colspan="2">(Sl) Slovinsko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(Sl) Slovinsko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(SK) Slovensko - Rok</td></tr><tr><td></td><td colspan="2">(SK) Slovensko - Stát celkem / Odvětví</td></tr><tr><td></td><td colspan="2">(SK) Slovensko - Obrat (EUR)</td></tr><tr><td></td><td colspan="2">(EU) Obrat za EU celkem - Rok</td></tr><tr><td></td><td colspan="2">(EU) Obrat za EU celkem - Stát celkem</td></tr><tr><td colspan="3"><b>Zúžení nebo zrušení registrace</b></td></tr><tr><td colspan="2"></td><td>Členský stát, pro který je požadováno ukončení registrace</td></tr><tr><td colspan="2"></td><td>Požaduji úplné zrušení registrace v tuzemsku do přeshraničního režimu SME</td></tr><tr><td colspan="2"></td><td>Změna státu usazení od</td></tr><tr><td colspan="2"></td><td>Nový stát usazení</td></tr><tr><td colspan="2"></td><td>Oprava registračního podání ze dne</td></tr><tr><td colspan="3"><b>Údaje o dosažených obratech za kalendářní rok (EUR)</b></td></tr><tr><td colspan="2"></td><td>(AT) Rakousko - Rok</td></tr><tr><td colspan="2"></td><td>(AT) Rakousko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(AT) Rakousko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(AT) Rakousko - Rok</td></tr><tr><td colspan="2"></td><td>(AT) Rakousko - Odvětví</td></tr><tr><td colspan="2"></td><td>(AT) Rakousko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(BE) Belgie - Rok</td></tr><tr><td colspan="2"></td><td>(BE) Belgie - Stát celkem</td></tr><tr><td colspan="2"></td><td>(BE) Belgie - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(BE) Belgie - Rok</td></tr><tr><td colspan="2"></td><td>(BE) Belgie - Odvětví</td></tr><tr><td colspan="2"></td><td>(BE) Belgie - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(BG) Bulharsko - Rok</td></tr><tr><td colspan="2"></td><td>(BG) Bulharsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(BG) Bulharsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(BG) Bulharsko - Rok</td></tr><tr><td colspan="2"></td><td>(BG) Bulharsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(BG) Bulharsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(CY) Kypr - Rok</td></tr><tr><td colspan="2"></td><td>(CY) Kypr - Stát celkem</td></tr><tr><td colspan="2"></td><td>(CY) Kypr - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(CY) Kypr - Rok</td></tr><tr><td colspan="2"></td><td>(CY) Kypr - Odvětví</td></tr><tr><td colspan="2"></td><td>(CY) Kypr - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(CZ) Česká republika - Rok</td></tr><tr><td colspan="2"></td><td>(CZ) Česká republika - Stát celkem</td></tr><tr><td colspan="2"></td><td>(CZ) Česká republika - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(CZ) Česká republika - Rok</td></tr><tr><td colspan="2"></td><td>(CZ) Česká republika - Odvětví</td></tr><tr><td colspan="2"></td><td>(CZ) Česká republika - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(DE) Německo - Rok</td></tr><tr><td colspan="2"></td><td>(DE) Německo - Stát celkem</td></tr><tr><td colspan="2"></td><td>(DE) Německo - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(DE) Německo - Rok</td></tr><tr><td colspan="2"></td><td>(DE) Německo - Odvětví</td></tr><tr><td colspan="2"></td><td>(DE) Německo - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(DK) Dánsko - Rok</td></tr><tr><td colspan="2"></td><td>(DK) Dánsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(DK) Dánsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(DK) Dánsko - Rok</td></tr><tr><td colspan="2"></td><td>(DK) Dánsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(DK) Dánsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(EE) Estonsko - Rok</td></tr><tr><td colspan="2"></td><td>(EE) Estonsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(EE) Estonsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(EE) Estonsko - Rok</td></tr><tr><td colspan="2"></td><td>(EE) Estonsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(EE) Estonsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(EL) Řecko - Rok</td></tr><tr><td colspan="2"></td><td>(EL) Řecko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(EL) Řecko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(EL) Řecko - Rok</td></tr><tr><td colspan="2"></td><td>(EL) Řecko - Odvětví</td></tr><tr><td colspan="2"></td><td>(EL) Řecko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(ES) Španělsko - Rok</td></tr><tr><td colspan="2"></td><td>(ES) Španělsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(ES) Španělsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(ES) Španělsko - Rok</td></tr><tr><td colspan="2"></td><td>(ES) Španělsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(ES) Španělsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(Fl) Finsko - Rok</td></tr><tr><td colspan="2"></td><td>(Fl) Finsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(Fl) Finsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(Fl) Finsko - Rok</td></tr><tr><td colspan="2"></td><td>(Fl) Finsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(Fl) Finsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(FR) Francie - Rok</td></tr><tr><td colspan="2"></td><td>(FR) Francie - Stát celkem</td></tr><tr><td colspan="2"></td><td>(FR) Francie - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(FR) Francie - Rok</td></tr><tr><td colspan="2"></td><td>(FR) Francie - Odvětví</td></tr><tr><td colspan="2"></td><td>(FR) Francie - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(HR) Chorvatsko - Rok</td></tr><tr><td colspan="2"></td><td>(HR) Chorvatsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(HR) Chorvatsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(HR) Chorvatsko - Rok</td></tr><tr><td colspan="2"></td><td>(HR) Chorvatsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(HR) Chorvatsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(HU) Maďarsko - Rok</td></tr><tr><td colspan="2"></td><td>(HU) Maďarsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(HU) Maďarsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(HU) Maďarsko - Rok</td></tr><tr><td colspan="2"></td><td>(HU) Maďarsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(HU) Maďarsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(IE) Irsko - Rok</td></tr><tr><td colspan="2"></td><td>(IE) Irsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(IE) Irsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(IE) Irsko - Rok</td></tr><tr><td colspan="2"></td><td>(IE) Irsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(IE) Irsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(IT) Itálie - Rok</td></tr><tr><td colspan="2"></td><td>(IT) Itálie - Stát celkem</td></tr><tr><td colspan="2"></td><td>(IT) Itálie - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(IT) Itálie - Rok</td></tr><tr><td colspan="2"></td><td>(IT) Itálie - Odvětví</td></tr><tr><td colspan="2"></td><td>(IT) Itálie - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(LT) Litva - Rok</td></tr><tr><td colspan="2"></td><td>(LT) Litva - Stát celkem</td></tr><tr><td colspan="2"></td><td>(LT) Litva - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(LT) Litva - Rok</td></tr><tr><td colspan="2"></td><td>(LT) Litva - Odvětví</td></tr><tr><td colspan="2"></td><td>(LT) Litva - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(LU) Lucembursko - Rok</td></tr><tr><td colspan="2"></td><td>(LU) Lucembursko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(LU) Lucembursko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(LU) Lucembursko - Rok</td></tr><tr><td colspan="2"></td><td>(LU) Lucembursko - Odvětví</td></tr><tr><td colspan="2"></td><td>(LU) Lucembursko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(LV) Lotyšsko - Rok</td></tr><tr><td colspan="2"></td><td>(LV) Lotyšsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(LV) Lotyšsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(LV) Lotyšsko - Rok</td></tr><tr><td colspan="2"></td><td>(LV) Lotyšsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(LV) Lotyšsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(MT) Malta - Rok</td></tr><tr><td colspan="2"></td><td>(MT) Malta - Stát celke</td></tr><tr><td colspan="2"></td><td>(MT) Malta - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(MT) Malta - Rok</td></tr><tr><td colspan="2"></td><td>(MT) Malta - Odvětví</td></tr><tr><td colspan="2"></td><td>(MT) Malta - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(NL) Nizozemsko - Rok</td></tr><tr><td colspan="2"></td><td>(NL) Nizozemsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(NL) Nizozemsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(NL) Nizozemsko - Rok</td></tr><tr><td colspan="2"></td><td>(NL) Nizozemsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(NL) Nizozemsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(PL) Polsko - Rok</td></tr><tr><td colspan="2"></td><td>(PL) Polsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(PL) Polsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(PL) Polsko - Rok</td></tr><tr><td colspan="2"></td><td>(PL) Polsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(PL) Polsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(PT) Portugalsko - Rok</td></tr><tr><td colspan="2"></td><td>(PT) Portugalsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(PT) Portugalsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(PT) Portugalsko - Rok</td></tr><tr><td colspan="2"></td><td>(PT) Portugalsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(PT) Portugalsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(RO) Rumunsko - Rok</td></tr><tr><td colspan="2"></td><td>(RO) Rumunsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(RO) Rumunsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(RO) Rumunsko - Rok</td></tr><tr><td colspan="2"></td><td>(RO) Rumunsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(RO) Rumunsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(SE) Švédsko - Rok</td></tr><tr><td colspan="2"></td><td>(SE) Švédsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(SE) Švédsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(SE) Švédsko - Rok</td></tr><tr><td colspan="2"></td><td>(SE) Švédsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(SE) Švédsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(Sl) Slovinsko - Rok</td></tr><tr><td colspan="2"></td><td>(Sl) Slovinsko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(Sl) Slovinsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(Sl) Slovinsko - Rok</td></tr><tr><td colspan="2"></td><td>(Sl) Slovinsko - Odvětví</td></tr><tr><td colspan="2"></td><td>(Sl) Slovinsko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(SK) Slovensko - Rok</td></tr><tr><td colspan="2"></td><td>(SK) Slovensko - Stát celkem</td></tr><tr><td colspan="2"></td><td>(SK) Slovensko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(SK) Slovensko - Rok</td></tr><tr><td colspan="2"></td><td>(SK) Slovensko - Odvětví</td></tr><tr><td colspan="2"></td><td>(SK) Slovensko - Obrat (EUR)</td></tr><tr><td colspan="2"></td><td>(EU) Obrat za EU celkem - Rok</td></tr><tr><td colspan="2"></td><td>(EU) Obrat za EU celkem - Stát celkem</td></tr></tbody></table>
+
+#### POKYNY k vyplnění formuláře
+
+#### Oznámení o změně registračních údajů v přeshraničním režimu DPH pro malé podniky (SME)
+
+25 5138 MFin 5138
+
+Oznámení podává osoba povinná k dani, u které došlo ke změně údajů uvedených v přihlášce k registraci do přeshraničního režimu DPH pro malé podniky, která požaduje změnu rozsahu registrace (zúžení nebo rozšíření), případně úplné ukončení registrace. Toto oznámení se používá také pro opravu údajů o obratech uvedených v přihlášce k registraci nebo v dříve podaném oznámení o změně registračních údajů s požadavkem na rozšíření registrace. Oznámení nelze podat před zaregistrováním do režimu.
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu:** Vyberte ze seznamu zbývající část oficiálního názvu finančního úřadu Vám místně příslušného ke správě daně z přidané hodnoty.
+
+**Územní pracoviště:** Vyberte ze seznamu územní pracoviště finančního úřadu, kde je, nebo bude umístěn Váš daňový spis (podle § 13 zákona č. 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů). DEČ SME: Uveďte daňové evidenční číslo (DEČ SME), které Vám bylo přiděleno při registraci do přeshraničního režimu DPH pro malé podniky (SME) tuzemským správcem daně.
+
+**Daňové identifikační číslo (DIČ):** Pokud Vám bylo při správě daní přiděleno daňové identifikační číslo (DIČ), uveďte jeho kmenovou část (pouze číselná část). Fyzická osoba, které nebylo přiděleno DIČ, uvede rodné číslo (RČ), právnická osoba uvede identifikační číslo (IČ).
+
+#### Oznamované změny
+
+Zaškrtněte, jakou změnu oznamujete, a podle toho vyplňte příslušnou část formuláře.
+
+**Údaje o osobě povinné k dani** – Zaškrtněte, pokud oznamujete změnu v údajích týkajících se vaší osoby (např. jméno a příjmení/ název, adresa apod.).
+
+**Rozšíření registrace** – Zaškrtněte, pokud chcete využívat osvobození od DPH v přeshraničním režimu DPH pro malé podniky v jednom nebo více dalších členských státech.
+
+**Zúžení nebo ukončení registrace** – Zaškrtněte, pokud chcete přestat využívat osvobození od DPH v přeshraničním režimu DPH pro malé podniky v některém z členských států, případně zcela. Registrace bude na základě tohoto požadavku ukončena v závislosti na datu podání tohoto oznámení, a to od 1. dne bezprostředně následujícího čtvrtletí po datu podání přihlášky, nebo od 1. dne druhého měsíce bezprostředně následujícího čtvrtletí po datu podání přihlášky, pokud bylo toto oznámení podáno v posledním měsíci kalendářního čtvrtletí.
+
+**Oprava údajů** – Zaškrtněte, pokud opravujete údaje v přihlášce k registraci nebo v oznámení o změně registračních údajů s požadavkem na rozšíření registrace.
+
+#### Údaje o osobě povinné k dani
+
+**Fyzická osoba**
+
+**Příjmení:** Uveďte aktuálně používané (používaná) příjmení.
+
+**Jméno:** Uveďte jméno ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Právnická osoba**
+
+**Název / Obchodní jméno:** Uveďte obchodní jméno tak, jak je zapsáno v obchodním rejstříku, živnostenském listu, koncesní listině apod. U právnických osob, které se nezapisují do obchodního rejstříku, uveďte název, pod kterým byly zřízeny a u ostatních subjektů název, pod nímž vystupují vůči třetím osobám.
+
+**Adresa sídla / místa pobytu**
+
+**Místem pobytu fyzické osoby** se rozumí adresa místa trvalého pobytu občana České republiky, nebo adresa hlášeného místa pobytu cizince; nelze-li takto místo pobytu fyzické osoby určit, rozumí se jím místo na území České republiky, kde se fyzická osoba převážně zdržuje.
+
+**Adresou sídla právnické osoby** se rozumí adresa, pod kterou je právnická osoba zapsaná v obchodním rejstříku nebo obdobném veřejném rejstříku, nebo adresa, kde právnická osoba sídlí skutečně, pokud se tato osoba do těchto rejstříků nezapisuje.
+
+**Ulice (část obce):** Uveďte ulici nebo část obce z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba).
+
+**Číslo popisné:** Uveďte číslo popisné z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba).
+
+**Číslo orientační:** Uveďte číslo orientační z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba).
+
+**Obec:** Uveďte obec z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba).
+
+**PSČ:** Uveďte poštovní směrovací číslo z adresy místa pobytu (fyzická osoba) nebo sídla (právnická osoba).
+
+**Stát:** Zadejte kód státu místa pobytu (fyzická osoba) nebo sídla (právnická osoba) nebo vyberte jeho název ze seznamu zobrazeného po kliknutí na šipku.
+
+**Adresa usazení:** Adresou usazení se rozumí adresa sídla osoby povinné k dani podle § 4 odst. 1 písm. i) zákona č. 235/2004 Sb., zákona o dani z přidané hodnoty, ve znění pozdějších předpisů (dále jen „zákon o DPH“), tj. adresa místa, kde jsou přijímána zásadní rozhodnutí týkající se řízení osoby a kde se schází její vedení, a adresa sídla, které je zapsáno ve veřejném rejstříku, s tím, že pokud nelze určit pouze jednu adresu, je sídlem adresa místa, kde jsou přijímána zásadní rozhodnutí týkající se řízení osoby; nelze-li v případě fyzické osoby takto sídlo určit, je jejím sídlem adresa místa jejího pobytu.
+
+**Telefon:** Uveďte telefonní číslo v mezinárodním formátu, na kterém Vás může tuzemský správce daně nebo správce daně členského státu, ve kterém budete využívat osvobození od DPH v režimu pro malé podniky, kontaktovat. Uvedení tohoto údaje je pro účely přeshraničního režimu pro malé podniky povinné.
+
+**E-mailová adresa:** Uveďte emailovou adresu, na které Vás může tuzemský správce daně nebo správce daně státu osvobození v souladu s vnitrostátními předpisy daného státu kontaktovat nebo na kterou Vám může doručovat rozhodnutí nebo vyrozumění ve věci správy daně v režimu pro malé podniky. Uvedení tohoto údaje je pro účely přeshraničního režimu pro malé podniky povinné.
+
+**Webové stránky:** Uveďte URL adresu (adresy) webových stránek podniku.
+
+**Obor ekonomické činnosti:** Uveďte činnosti, které jsou součástí vaší ekonomické činnosti a které v současnosti skutečně vykonáváte. Začněte psát název činnosti a zobrazí se Vám nabídka k výběru. Např. napište „oprav“ a vyberte odpovídající název činnosti ze zobrazené nabídky. Každá činnost se uvádí na samostatném řádku. Uvedení vykonávaných činností je pro účely přeshraničního režimu pro malé podniky povinné.
+
+**Identifikátor pro dovozní režim OSS:** Máte-li platnou registraci pro dovozní režim OSS (iOSS – Import One Stop Shop), uveďte identifikátor, který byl Vám nebo pro Vás Vašemu zprostředkovateli pro účely tohoto režimu přidělen v České republice nebo v jiném členském státě.
+
+**Podepisující osoba:**
+
+Údaje o podepisující osobě budou vyplněny pouze v případě, kdy je oznámení zpracováváno a podáváno osobou odlišnou od osoby povinné k dani. Ve formuláři nejdříve vyberte odpovídající *Typ podepisující osoby* (Fyzická osoba, Právnická osoba) a správný *Kód podepisující osoby* pro vztah k osobě povinné k dani.
+
+**Typ podepisující osoby**
+
+Vyberte typ podepisující osoby: F – fyzická osoba (živnost) nebo P – právnická osoba (např. s.r.o., a.s., v.o.s.). Pokud byl vybrán jako *Typ podepisující osoby* **F – fyzická osoba**, zadejte Jméno(-a) a Příjmení. Pokud máte evidenční číslo osvědčení daňového poradce, uveďte tento identifikátor, jinak uveďte rodné číslo.
+
+Pokud byl vybrán jako *Typ podepisující osoby* **P – právnická osoba**, zadejte název právnické osoby a evidenční číslo osvědčení daňového poradce, pokud Vám bylo přiděleno. U právnické osoby je nezbytné uvést též jméno(-a) a příjmení fyzické osoby s oprávněním podepisovat za právnickou osobu, a uvést vztah fyzické osoby k právnické osobě (např. jednatel, pověřený pracovník).
+
+**Kód podepisující osoby**
+
+Vyberte číselný kód podle níže uvedených typů podepisující osoby:
+
+Fyzická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+Právnická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+**Datum narození:** V případě, že podepisující osobou je fyzická osoba, bude vyplněno buď datum narození podepisující osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby.
+
+**Evidenční číslo daňového poradce:** V případě, že podepisující osobou je fyzická osoba, bude vyplněno buď datum narození podepisující osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby.
+
+**IČ právnické osoby:** Vyplňte identifikační číslo právnické osoby, pokud je podepisující osobou.
+
+**Fyzická osoba oprávněná k podpisu za zastupující právnickou osobu**
+
+**Jméno:** Vyplňte jméno oprávněné osoby.
+
+**Příjmení:** Vyplňte příjmení oprávněné osoby
+
+**Vztah k právnické osobě:** Vyplňte postavení oprávněné osoby k subjektu.
+
+#### Rozšíření rozsahu registrace
+
+**Členské státy, pro které se požaduje rozšíření registrace:** Uveďte členské státy, ve kterých chcete začít využívat osvobození od DPH pro malé podniky jako neusazená osoba povinná k dani.
+
+**Identifikátory přidělené členskými státy, pro které je požadováno rozšíření registrace:** Pro každý uvedený **členský stát**, ve kterém nemáte sídlo a ve kterém chcete začít využívat osvobození od DPH v přeshraničním režimu DPH pro malé podniky (SME), uveďte identifikátory přidělené správcem daně tohoto státu a jejich druh. Druhem identifikátoru se rozumí VAT ID, TIN nebo jiné identifikační číslo přidělené pro správu daní státem osvobození. Identifikátor uveďte, i když je už neplatný, resp. nepoužívaný.
+
+**Údaje o dosažených obratech za kalendářní rok (EUR)**
+
+Údaje o obratech se uvádějí za kalendářní rok, v případě běžného kalendářního roku za jeho část do dne podání tohoto oznámení. U členských států, pro které požadujete rozšíření registrace a u kterých to vyžaduje jejich národní legislativa, je třeba uvést též údaje za předminulý rok, případně pro každý z kalendářních roků též údaje za odvětví. Údaje za kalendářní rok nemusíte uvádět, pokud byly již uvedeny v dříve podané přihlášce k registraci nebo ve čtvrtletních oznámeních o uskutečněných plněních (musí z nich být znám údaj za celý kalendářní rok). Potřebné informace o tom, jaké údaje státy vyžadují, jsou k dispozici např. na webových stránkách Evropské komise nebo členských států, ve kterých chcete využívat osvobození, případně na www.financnisprava.cz.
+
+Uveďte hodnoty plnění hodnoty plnění bez DPH uskutečněných ve vymezeném období, která spadají do obratu v tuzemsku resp. v jiných členských státech pro účely DPH, a to samostatně
+
+a) celkovou hodnotu za každý členský stát a rok (pro výpočet obratu za EU celkem) a
+
+b) hodnoty za odvětví a rok v případě členských států osvobození využívajících pro účely režimu pro malé podniky též prahové hodnoty obratu stanovené pro vymezená odvětví.
+
+Pokud žádné plnění uskutečněno nebylo, uveďte hodnotu „0“.
+
+Za Českou republiku se hodnota obratu stanoví podle § 4a zákona o DPH.
+
+**Členský stát EU:** Členský stát, ve kterém bylo obratu dosaženo dle místa plnění.
+
+**Rok:** Pro členské státy, jejichž legislativa to vyžaduje, je třeba uvést tyto údaje i za předminulý kalendářní rok.
+
+**Stát celkem / Odvětví:** Pro členské státy, jejichž legislativa to vyžaduje, je třeba uvést údaje za odvětví. Potřebné informace jsou k dispozici na webových stránkách Evropské komise nebo členských států, ve kterých chcete využívat osvobození, případně na www.financnisprava.cz.
+
+**Obrat (EUR):** Pro převod z jiných měn použijte směnný kurz zveřejněný Evropskou centrální bankou platný pro první den kalendářního roku, za který se údaje vykazují, nebo platný pro nejbližší následující den, není-li kurz pro první den kalendářního roku zveřejněn.
+
+Částky uveďte v EUR s přesností na 2 desetinná místa, bez zaokrouhlení.
+
+#### Zúžení nebo zrušení registrace
+
+**Členský stát, pro který je požadováno ukončení registrace:** Zadejte členské státy, ve kterých již nechcete osvobození pro malé podniky využívat.
+
+**Požadavek na úplné zrušení registrace do režimu:** Zaškrtněte, pokud už nechcete osvobození od DPH v přeshraničním režimu pro malé podniky využívat v žádném z jiných členských států.
+
+**Změna státu usazení od:** Pokud je důvodem požadavku na ukončení registrace změna státu usazení, zadejte datum, od kterého začnete být osobou povinnou k dani usazenou v jiném členském státě EU.
+
+**Nový stát usazení:** Zadejte členský stát EU, který bude pro účely režimu SME novým státem usazení osoby povinné k dani.
+
+#### Oprava údajů
+
+Určeno pouze pro opravu údajů o obratech uvedených v dříve podané registrační přihlášce do přeshraničního režimu DPH pro malé podniky (SME) nebo v dříve podaném oznámení změny registračních údajů v přeshraničním režimu DPH pro malé podniky (SME) s požadavkem na rozšíření registrace.
+
+**Oprava registračního podání ze dne:** Uveďte datum, kdy byla registrační přihláška do přeshraničního režimu DPH pro malé podniky (SME) nebo dříve podané oznámení změny registračních údajů v přeshraničním režimu DPH pro malé podniky (SME) s požadavkem na rozšíření registrace podáno.
+
+Do tabulky s údaji o dosažených obratech uveďte všechny údaje znovu se zohledněním dodatečných změn a oprav. Při vyplňování tabulky se řiďte pokyny k formuláři, ve kterém hodnoty obratů opravujete (přihláška k registraci do režimu SME, oznámení o změně registračních údajů s požadavkem na rozšíření registrace).
+
+### Příloha č. 25
+
+<table><tbody><tr><td colspan="2"><b>Oznámení o výši obratů za kalendářní čtvrtletí v přeshraničním režimu DPH pro malé podniky (SME)</b></td></tr><tr><td>25 5264 MFin 5264<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>DEČ SME</td></tr><tr><td></td><td>Daňové identifikační číslo (DIČ)</td></tr><tr><td></td><td>Oznámení</td></tr><tr><td></td><td>Období čtvrtletí / rok</td></tr><tr><td></td><td>Období od - do</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td colspan="2"><b>Podepisující osoba</b></td></tr><tr><td></td><td>Typ a kód podepisující osoby</td></tr><tr><td></td><td>Jméno a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu za zastupující právnickou osobu</b></td></tr><tr><td></td><td>Jméno a příjmení / Vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Údaje o dosažených obratech za kalendářní čtvrtletí (EUR)</b></td></tr><tr><td></td><td>(AT) Rakousko - Celkem / Odvětví</td></tr><tr><td></td><td>(AT) Rakousko - Obrat (EUR)</td></tr><tr><td></td><td>(BE) Belgie - Celkem / Odvětví</td></tr><tr><td></td><td>(BE) Belgie - Obrat (EUR)</td></tr><tr><td></td><td>(BG) Bulharsko - Celkem / Odvětví</td></tr><tr><td></td><td>(BG) Bulharsko - Obrat (EUR)</td></tr><tr><td></td><td>(CY) Kypr - Celkem / Odvětví</td></tr><tr><td></td><td>(CY) Kypr - Obrat (EUR)</td></tr><tr><td></td><td>(CZ) Česká republika - Celkem / Odvětví</td></tr><tr><td></td><td>(CZ) Česká republika - Obrat (EUR)</td></tr><tr><td></td><td>(DE) Německo - Celkem / Odvětví</td></tr><tr><td></td><td>(DE) Německo - Obrat (EUR)</td></tr><tr><td></td><td>(DK) Dánsko - Celkem / Odvětví</td></tr><tr><td></td><td>(DK) Dánsko - Obrat (EUR)</td></tr><tr><td></td><td>(EE) Estonsko - Celkem / Odvětví</td></tr><tr><td></td><td>(EE) Estonsko - Obrat (EUR)</td></tr><tr><td></td><td>(EL) Řecko - Celkem / Odvětví</td></tr><tr><td></td><td>(EL) Řecko - Obrat (EUR)</td></tr><tr><td></td><td>(ES) Španělsko - Celkem / Odvětví</td></tr><tr><td></td><td>(ES) Španělsko - Obrat (EUR)</td></tr><tr><td></td><td>(Fl) Finsko - Celkem / Odvětví</td></tr><tr><td></td><td>(Fl) Finsko - Obrat (EUR)</td></tr><tr><td></td><td>(FR) Francie - Celkem / Odvětví</td></tr><tr><td></td><td>(FR) Francie - Obrat (EUR)</td></tr><tr><td></td><td>(HR) Chorvatsko - Celkem / Odvětví</td></tr><tr><td></td><td>(HR) Chorvatsko - Obrat (EUR)</td></tr><tr><td></td><td>(HU) Maďarsko - Celkem / Odvětví</td></tr><tr><td></td><td>(HU) Maďarsko - Obrat (EUR)</td></tr><tr><td></td><td>(IE) Irsko - Celkem / Odvětví</td></tr><tr><td></td><td>(IE) Irsko - Obrat (EUR)</td></tr><tr><td></td><td>(IT) Itálie - Celkem / Odvětví</td></tr><tr><td></td><td>(IT) Itálie - Obrat (EUR)</td></tr><tr><td></td><td>(LT) Litva - Celkem / Odvětví</td></tr><tr><td></td><td>(LT) Litva - Obrat (EUR)</td></tr><tr><td></td><td>(LU) Lucembursko - Celkem / Odvětví</td></tr><tr><td></td><td>(LU) Lucembursko - Obrat (EUR)</td></tr><tr><td></td><td>(LV) Lotyšsko - Celkem / Odvětví</td></tr><tr><td></td><td>(LV) Lotyšsko - Obrat (EUR)</td></tr><tr><td></td><td>(MT) Malta - Celkem / Odvětví</td></tr><tr><td></td><td>(MT) Malta - Obrat (EUR)</td></tr><tr><td></td><td>(NL) Nizozemsko - Celkem / Odvětví</td></tr><tr><td></td><td>(NL) Nizozemsko - Obrat (EUR)</td></tr><tr><td></td><td>(PL) Polsko - Celkem / Odvětví</td></tr><tr><td></td><td>(PL) Polsko - Obrat (EUR)</td></tr><tr><td></td><td>(PT) Portugalsko - Celkem / Odvětví</td></tr><tr><td></td><td>(PT) Portugalsko - Obrat (EUR)</td></tr><tr><td></td><td>(RO) Rumunsko - Celkem / Odvětví</td></tr><tr><td></td><td>(RO) Rumunsko - Obrat (EUR)</td></tr><tr><td></td><td>(SE) Švédsko - Celkem / Odvětví</td></tr><tr><td></td><td>(SE) Švédsko - Obrat (EUR)</td></tr><tr><td></td><td>(SI) Slovinsko - Celkem / Odvětví</td></tr><tr><td></td><td>(SI) Slovinsko - Obrat (EUR)</td></tr><tr><td></td><td>(SK) Slovensko - Celkem / Odvětví</td></tr><tr><td></td><td>(SK) Slovensko - Obrat (EUR)</td></tr><tr><td></td><td>(EU) Součet za všechny členské státy EU celkem</td></tr></tbody></table>
+
+#### POKYNY k vyplnění formuláře Oznámení o výši obratů za kalendářní čtvrtletí v přeshraničním režimu DPH pro malé podniky (SME)
+
+25 5264/1 MFin 5264/1
+
+Oznámení o výši obratů v přeshraničním režimu DPH pro malé podniky (SME) podává osoba povinná k dani registrovaná v tuzemsku do tohoto režimu pro jiný členský stát. Toto oznámení je povinna podat za kalendářní čtvrtletí, i když žádná plnění zahrnovaná do obratu neuskutečnila. V takovém případě za daný stát, případně za odvětví, uvede hodnotu nula. Oznámení se podává **do konce kalendářního měsíce následujícího po daném čtvrtletí**. Posledním dnem lhůty pro podání oznámení je vždy poslední den kalendářního měsíce. To platí i v případě, že připadne na sobotu, neděli nebo svátek. Posledním dnem lhůty tedy je 30. 4. pro první čtvrtletí, 31. 7. pro druhé čtvrtletí, 31. 10. pro třetí čtvrtletí a 31. 1. následujícího kalendářního roku pro čtvrté čtvrtletí.
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu:** Vyberte z nabídky v seznamu zbývající část oficiálního názvu finančního úřadu Vám místně příslušného ke správě daně z přidané hodnoty.
+
+**Územní pracoviště:** Vyberte ze seznamu územní pracoviště finančního úřadu, kde je, nebo bude umístěn Váš daňový spis (podle § 13 zákona číslo 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů).
+
+**DEČ SME:** Uveďte daňové evidenční číslo (DEČ SME), které Vám bylo přiděleno při registraci pro účely přeshraničního režimu DPH pro malé podniky v tuzemsku.
+
+**Daňové identifikační číslo (DIČ):** Pokud Vám bylo při správě daní přiděleno daňové identifikační číslo (DIČ), uveďte jeho kmenovou část (pouze číselná část). Fyzická osoba, které nebylo přiděleno DIČ, uvede rodné číslo (RČ), právnická osoba uvede identifikační číslo (IČ).
+
+**Řádné / Následné oznámení:**
+
+**Řádné** – zaškrtněte, pokud jde o první oznámení za dané čtvrtletí (1. verze)
+
+**Následné** – zaškrtněte, pokud provádíte opravu dříve podaného oznámení za dané čtvrtletí (bez ohledu na lhůtu pro podání tohoto oznámení). Při opravě je nutné uvést všechny údaje, včetně těch, které nejsou opravovány.
+
+**Období:** Vždy je nutné uvést čtvrtletí a rok, za které se oznámení podává. Údaje **„od“** a **„do“** se vyplňují, jen když se neshodují s prvním, resp. posledním dnem kalendářního čtvrtletí, za které se oznámení podává.
+
+**Čtvrtletí:** Kalendářní čtvrtletí zadejte číslicí 1, 2, 3 nebo 4 bez tečky.
+
+**Rok:** Kalendářní rok uveďte ve formátu RRRR (např. 2025).
+
+**Od:** Vyplňuje se, pokud se oznámení podává za období kratší než kalendářní čtvrtletí. Při změně státu usazení (přistěhování do ČR) se uvádí datum, kdy osoba povinná k dani začala vykonávat ekonomickou činnost jako usazená v ČR. Musí být vyplněno, pokud je vyplněno **„do“**.
+
+**Do:** Vyplňuje se, pokud se oznámení podává za období kratší než kalendářní čtvrtletí. Při změně státu usazení (odstěhování z ČR) se uvádí den, do kterého osoba povinná k dani vykonávala ekonomickou činnost jako usazená v ČR. Musí být vyplněno, pokud je vyplněno **„od“**.
+
+**Název právnické osoby:** Uveďte obchodní jméno tak, jak je zapsáno v obchodním rejstříku, živnostenském listu, koncesní listině apod. U právnických osob, které se nezapisují do obchodního rejstříku, uveďte název, pod kterým byly zřízeny, a u ostatních subjektů název, pod nímž vystupují vůči třetím osobám.
+
+**Příjmení:** Uveďte aktuálně používané (používaná) příjmení.
+
+**Jméno:** Uveďte jméno ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Podepisující osoba:**
+
+Údaje o podepisující osobě budou vyplněny pouze v případě, kdy je oznámení zpracováváno a podáváno osobou odlišnou od osoby povinné k dani. Ve formuláři nejdříve vyberte odpovídající *Typ podepisující osoby* (Fyzická osoba, Právnická osoba) a správný *Kód podepisující osoby* pro vztah k osobě povinné k dani.
+
+Pokud byl vybrán jako *Typ podepisující osoby* Fyzická osoba, zadejte Jméno(-a) a Příjmení. Pokud máte evidenční číslo osvědčení daňového poradce, uveďte tento identifikátor, jinak uveďte rodné číslo.
+
+Pokud byl vybrán jako *Typ podepisující osoby* Právnická osoba, zadejte název právnické osoby a evidenční číslo osvědčení daňového poradce, pokud Vám bylo přiděleno. U právnické osoby je nezbytné uvést též jméno(-a) a příjmení fyzické osoby s oprávněním podepisovat za právnickou osobu, a uvést vztah fyzické osoby k právnické osobě (např. jednatel, pověřený pracovník).
+
+**Typ podepisující osoby:** Vyberte typ podepisující osoby: F – fyzická osoba (živnost) nebo P – právnická osoba (např. s.r.o., a.s., v.o.s.).
+
+**Kód podepisující osoby:** Vyberte číselný kód podle níže uvedených typů podepisující osoby:
+
+Fyzická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+Právnická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+**Datum narození:** Datum narození bude uvedeno v případě, že podepisující osobou je fyzická osoba a není uvedeno evidenční číslo osvědčení daňového poradce – fyzické osoby.
+
+**Evidenční číslo daňového poradce:** V případě, že podepisující osobou je fyzická osoba, bude vyplněno buď datum narození podepisující osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby.
+
+**IČ právnické osoby:** Uveďte identifikační číslo (IČ), pokud je podepisující osobou právnická osoba.
+
+**Fyzická osoba oprávněná k podpisu za zastupující právnickou osobu**
+
+**Jméno:** Uveďte jméno osoby oprávněné jednat za zastupující právnickou osobu.
+
+**Příjmení:** Vyplňte příjmení oprávněné osoby.
+
+**Vztah k právnické osobě:** Uveďte, v jakém vztahu je podepisující fyzická osoba k zastupující právnické osobě.
+
+**Údaje o dosažených obratech za kalendářní čtvrtletí (EUR)**
+
+Uveďte hodnoty plnění bez DPH uskutečněných v průběhu kalendářního čtvrtletí, které spadají do obratu v tuzemsku a v jiných členských státech pro účely DPH, a to samostatně
+
+a) celkovou hodnotu za každý členský stát a
+
+b) hodnoty za odvětví v případě členských států osvobození využívajících pro účely přeshraničního režimu pro malé podniky též prahové hodnoty obratu stanovené pro vymezená odvětví.
+
+Za Českou republiku se hodnota obratu stanoví podle § 4a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů.
+
+Obraty **v prvním oznámení po zaregistrování do režimu** pro malé podniky (SME)
+
+Pro ověření trvání nároku na osvobození od DPH v přeshraničním režimu SME jsou rozhodné údaje o obratech dosažených za kalendářní rok.
+
+Proto se
+
+a) v oznámení podávaném **za první kalendářní čtvrtletí registrace**, se do obratu za toto čtvrtletí nezahrnuje obrat za období od 1. dne čtvrtletí do data podání přihlášky k registraci do režimu uvedený v přihlášce (toto platí, pokud registrace nabyla účinnosti v kalendářním čtvrtletí, ve kterém byla přihláška do režimu podána);
+
+*Příklad:*
+
+*Přihláška k registraci do režimu byla podána 14. 4., osoba povinná k dani byla zaregistrována do režimu dne 11. 5. V přihlášce jsou uvedeny údaje o obratech za období od 1. 1. do 14. 4. Své první oznámení o obratech v režimu SME podává osoba povinná k dani za druhé čtvrtletí (4.–6. měsíc), do obratu za toto období se v oznámení nezapočítává obrat za období po podání přihlášky tj. od 1. 4. do 14. 4., protože už byl uvedený v přihlášce.*
+
+b) v oznámení podávaném **za první kalendářní čtvrtletí registrace** se do obratu za toto čtvrtletí zahrnují i údaje o dosažených obratech za období od data podání přihlášky do konce kalendářního čtvrtletí předcházejícího kalendářnímu čtvrtletí, za které se poprvé po registraci oznámení podává (to platí, pokud registrace nabyla účinnosti v kalendářním čtvrtletí pozdějším, než ve kterém byla přihláška podána).
+
+*Příklad:*
+
+*Přihláška k registraci do režimu byla podána 4. 3., osoba povinná k dani byla zaregistrována do režimu dne 11. 4. V registrační přihlášce jsou uvedeny údaje o obratech za období od 1. 1. do 4. 3. První oznámení o obratech v režimu SME podává osoba povinná k dani za druhé čtvrtletí (4.–6. měsíc). V tomto prvním oznámení uvede hodnotu odpovídající součtu obratu za období od 5.3. do 31.3. a obratu za druhé čtvrtletí.*
+
+**Členský stát EU:** Členský stát EU, za který údaje o obratu uvádíte.
+
+**Celkem / Odvětví:** Obrat za členský stát celkem musí být uveden vždy. Pokud žádné plnění uskutečněno nebylo, uveďte hodnotu „0“.
+
+Obrat za odvětví se uvádí jen u členských států, pro které máte platnou registraci a ve kterých se údaje za odvětví pro posouzení nároku na osvobození podle jejich národní legislativy vyžadují. Jestliže vyplňujete řádek s obratem za dané odvětví, uveďte označení odvětví, do kterého dodání zboží nebo poskytnutí služeb spadá způsobem vyžadovaných tímto státem. Potřebné informace jsou k dispozici např. na webových stránkách Evropské komise nebo členských států, ve kterých chcete využívat osvobození, případně na www.financnisprava.cz.
+
+**Obrat (EUR):** Částky uveďte v EUR s přesností na 2 desetinná místa, bez zaokrouhlení. Pro převod z jiných měn použijte směnný kurz zveřejněný Evropskou centrální bankou platný pro první den kalendářního roku, za který se údaje vykazují, nebo platný pro nejbližší následující den, není-li kurz pro první den kalendářního roku zveřejněn.
+
+### Příloha č. 26
+
+<table><tbody><tr><td colspan="2"><b>Oznámení o překročení prahové hodnoty obratu v EU v přeshraničním režimu DPH pro malé podniky (SME)</b></td></tr><tr><td>25 5265 MFin 5265<br> Řádek<br> /položka/sloupec</td><td>Specifikace položky/údaje</td></tr><tr><td colspan="2"><b>Záhlaví</b></td></tr><tr><td></td><td>Finančnímu úřadu pro</td></tr><tr><td></td><td>Územní pracoviště v, ve, pro</td></tr><tr><td></td><td>DEČ SME</td></tr><tr><td></td><td>Daňové identifikační číslo (DIČ)</td></tr><tr><td></td><td>Oznámení</td></tr><tr><td></td><td>Datum překročení prahové hodnoty</td></tr><tr><td></td><td>Období čtvrtletí / rok</td></tr><tr><td></td><td>Období od - do</td></tr><tr><td colspan="2"></td></tr><tr><td></td><td>Právnická osoba:</td></tr><tr><td></td><td>Název právnické osoby</td></tr><tr><td></td><td>Fyzická osoba:</td></tr><tr><td></td><td>Příjmení</td></tr><tr><td></td><td>Jméno</td></tr><tr><td colspan="2"><b>Podepisující osoba</b></td></tr><tr><td></td><td>Typ a kód podepisující osoby</td></tr><tr><td></td><td>Jméno a příjmení / Název právnické osoby</td></tr><tr><td></td><td>Datum narození / Evidenční číslo osvědčení daňového poradce / IČ právnické osoby</td></tr><tr><td colspan="2"><b>Fyzická osoba oprávněná k podpisu za zastupující právnickou osobu</b></td></tr><tr><td></td><td>Jméno a příjmení / Vztah k právnické osobě</td></tr><tr><td colspan="2"><b>Údaje o dosažených obratech (EUR) oznamované v přeshraničním režimu DPH pro malé podniky (SME) za část kalendářního čtvrtletí, a to do data překročení prahové hodnoty obratu v EU</b></td></tr><tr><td></td><td>(AT) Rakousko - Celkem / Odvětví</td></tr><tr><td></td><td>(AT) Rakousko - Obrat (EUR)</td></tr><tr><td></td><td>(BE) Belgie - Celkem / Odvětví</td></tr><tr><td></td><td>(BE) Belgie - Obrat (EUR)</td></tr><tr><td></td><td>(BG) Bulharsko - Celkem / Odvětví</td></tr><tr><td></td><td>(BG) Bulharsko - Obrat (EUR)</td></tr><tr><td></td><td>(CY) Kypr - Celkem / Odvětví</td></tr><tr><td></td><td>(CY) Kypr - Obrat (EUR)</td></tr><tr><td></td><td>(CZ) Česká republika - Celkem / Odvětví</td></tr><tr><td></td><td>(CZ) Česká republika - Obrat (EUR)</td></tr><tr><td></td><td>(DE) Německo - Celkem / Odvětví</td></tr><tr><td></td><td>(DE) Německo - Obrat (EUR)</td></tr><tr><td></td><td>(DK) Dánsko - Celkem / Odvětví</td></tr><tr><td></td><td>(DK) Dánsko - Obrat (EUR)</td></tr><tr><td></td><td>(EE) Estonsko - Celkem / Odvětví</td></tr><tr><td></td><td>(EE) Estonsko - Obrat (EUR)</td></tr><tr><td></td><td>(EL) Řecko - Celkem / Odvětví</td></tr><tr><td></td><td>(EL) Řecko - Obrat (EUR)</td></tr><tr><td></td><td>(ES) Španělsko - Celkem / Odvětví</td></tr><tr><td></td><td>(ES) Španělsko - Obrat (EUR)</td></tr><tr><td></td><td>(Fl) Finsko - Celkem / Odvětví</td></tr><tr><td></td><td>(Fl) Finsko - Obrat (EUR)</td></tr><tr><td></td><td>(FR) Francie - Celkem / Odvětví</td></tr><tr><td></td><td>(FR) Francie - Obrat (EUR)</td></tr><tr><td></td><td>(HR) Chorvatsko - Celkem / Odvětví</td></tr><tr><td></td><td>(HR) Chorvatsko - Obrat (EUR)</td></tr><tr><td></td><td>(HU) Maďarsko - Celkem / Odvětví</td></tr><tr><td></td><td>(HU) Maďarsko - Obrat (EUR)</td></tr><tr><td></td><td>(IE) Irsko - Celkem / Odvětví</td></tr><tr><td></td><td>(IE) Irsko - Obrat (EUR)</td></tr><tr><td></td><td>(IT) Itálie - Celkem / Odvětví</td></tr><tr><td></td><td>(IT) Itálie - Obrat (EUR)</td></tr><tr><td></td><td>(LT) Litva - Celkem / Odvětví</td></tr><tr><td></td><td>(LT) Litva - Obrat (EUR)</td></tr><tr><td></td><td>(LU) Lucembursko - Celkem / Odvětví</td></tr><tr><td></td><td>(LU) Lucembursko - Obrat (EUR)</td></tr><tr><td></td><td>(LV) Lotyšsko - Celkem / Odvětví</td></tr><tr><td></td><td>(LV) Lotyšsko - Obrat (EUR)</td></tr><tr><td></td><td>(MT) Malta - Celkem / Odvětví</td></tr><tr><td></td><td>(MT) Malta - Obrat (EUR)</td></tr><tr><td></td><td>(NL) Nizozemsko - Celkem / Odvětví</td></tr><tr><td></td><td>(NL) Nizozemsko - Obrat (EUR)</td></tr><tr><td></td><td>(PL) Polsko - Celkem / Odvětví</td></tr><tr><td></td><td>(PL) Polsko - Obrat (EUR)</td></tr><tr><td></td><td>(PT) Portugalsko - Celkem / Odvětví</td></tr><tr><td></td><td>(PT) Portugalsko - Obrat (EUR)</td></tr><tr><td></td><td>(RO) Rumunsko - Celkem / Odvětví</td></tr><tr><td></td><td>(RO) Rumunsko - Obrat (EUR)</td></tr><tr><td></td><td>(SE) Švédsko - Celkem / Odvětví</td></tr><tr><td></td><td>(SE) Švédsko - Obrat (EUR)</td></tr><tr><td></td><td>(SI) Slovinsko - Celkem / Odvětví</td></tr><tr><td></td><td>(SI) Slovinsko - Obrat (EUR)</td></tr><tr><td></td><td>(SK) Slovensko - Celkem / Odvětví</td></tr><tr><td></td><td>(SK) Slovensko - Obrat (EUR)</td></tr><tr><td></td><td>(EU) Součet za všechny členské státy EU celkem</td></tr></tbody></table>
+
+#### POKYNY k vyplnění formuláře Oznámení o překročení prahové hodnoty obratu v EU v přeshraničním režimu DPH pro malé podniky (SME)
+
+25 5265/1 MFin 5265/1
+
+Oznámení o překročení prahové hodnoty obratu v EU v přeshraničním režimu pro malé podniky (SME) podává osoba registrovaná do tohoto režimu v tuzemsku **do 15 pracovních dnů** ode dne jejího překročení. Tato prahová hodnota činí 100 000 EUR za kalendářní rok. Ode dne následujícího po dni jejího překročení osoba povinná k dani přestává být způsobilá využívat osvobození od DPH v režimu pro malé podniky v jiných členských státech, registrace do přeshraničního režimu pro malé podniky jí bude zrušena.
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+**Finančnímu úřadu:** Vyberte ze seznamu zbývající část oficiálního názvu finančního úřadu Vám místně příslušného ke správě daně z přidané hodnoty.
+
+**Územní pracoviště:** Vyberte ze seznamu územní pracoviště finančního úřadu, kde je nebo bude umístěn Váš daňový spis (podle § 13 zákona číslo 456/2011 Sb., o Finanční správě České republiky, ve znění pozdějších předpisů).
+
+**DEČ SME:** Uveďte daňové evidenční číslo (DEČ SME), které Vám bylo přiděleno tuzemským správcem daně při registraci pro účely přeshraničního režimu pro malé podniky pro jiný členský stát.
+
+**Daňové identifikační číslo (DIČ):** Pokud Vám bylo v tuzemsku při správě daní přiděleno daňové identifikační číslo (DIČ), uveďte jeho kmenovou část (pouze číselná část). Fyzická osoba, které nebylo přiděleno DIČ, uvede rodné číslo (RČ), právnická osoba uvede identifikační číslo (IČ).
+
+**Řádné / Následné oznámení:**
+
+**Řádné** – zaškrtněte, pokud oznamujete překročení prahové hodnoty obratu EU a nejde o opravu předchozího podání.
+
+**Následné** – zaškrtněte, pokud provádíte opravu dříve podaného oznámení. Při opravě je nutné uvést všechny údaje, včetně těch, které nejsou opravovány. I když oprava údaje nemůže vést ke zpětnému obnovení již zrušené registrace (k tomu je nutné podat novou přihlášku k registraci), může mít význam pro správu DPH v tuzemsku nebo v jiném členském státě.
+
+**Datum překročení prahové hodnoty obratu v EU:** Uveďte datum, kdy Váš obrat v EU za daný kalendářní rok překročil částku 100 000 EUR.
+
+**Období:** Vždy je nutné uvést čtvrtletí a rok, za které se oznámení podává. Údaje **„od“** a **„do“** se vyplňují, jen když se neshodují s prvním, resp. posledním dnem kalendářního čtvrtletí, za které se oznámení podává.
+
+**Čtvrtletí:** Kalendářní čtvrtletí zadejte číslicí 1, 2, 3 nebo 4 bez tečky.
+
+**Rok:** Kalendářní rok uveďte ve formátu RRRR (např. 2025).
+
+**Od:** Vyplňuje se, pokud se oznámení podává za období začínající jiným dnem, než prvním dnem kalendářního čtvrtletí. Při změně státu usazení (přistěhování do ČR) se uvádí datum, kdy osoba povinná k dani začala vykonávat ekonomickou činnost jako usazená v ČR. Musí být vyplněno, pokud je vyplněno **„do“**.
+
+**Do:** Vyplňuje se, pokud se datum překročení prahové hodnoty obratu v EU neshoduje s posledním dnem kalendářního čtvrtletí. Vyplňuje se také v případě, že je vyplněno **„od“**.
+
+**Název právnické osoby:** Uveďte obchodní jméno osoby povinné k dani tak, jak je zapsáno v obchodním rejstříku, živnostenském listu, koncesní listině apod. U právnických osob, které se nezapisují do obchodního rejstříku, uveďte název, pod kterým byly zřízeny, a u ostatních subjektů název, pod nímž vystupují vůči třetím osobám.
+
+**Příjmení:** Uveďte aktuálně používané (používaná) příjmení osoby povinné k dani.
+
+**Jméno:** Uveďte jméno osoby povinné k dani ve stejném tvaru, ve kterém je uvedeno ve Vašem rodném (křestním) listě.
+
+**Podepisující osoba:**
+
+Údaje o podepisující osobě budou vyplněny pouze v případě, kdy je oznámení zpracováváno a podáváno osobou odlišnou od osoby povinné k dani. Ve formuláři nejdříve vyberte odpovídající *Typ podepisující osoby* (Fyzická osoba, Právnická osoba) a správný *Kód podepisující osoby* pro vztah k osobě povinné k dani.
+
+**Typ podepisující osoby:** Vyberte typ podepisující osoby: F – fyzická osoba (živnost) nebo P – právnická osoba (např. s.r.o., a.s., v.o.s.).
+
+Pokud byl vybrán jako *Typ podepisující osoby* **F – fyzická osoba**, zadejte Jméno(-a) a Příjmení. Pokud máte evidenční číslo osvědčení daňového poradce, uveďte tento identifikátor, jinak uveďte rodné číslo.
+
+Pokud byl vybrán jako *Typ podepisující osoby* **P – právnická osoba**, zadejte název právnické osoby a evidenční číslo osvědčení daňového poradce, pokud Vám bylo přiděleno. U právnické osoby je nezbytné uvést též jméno(-a) a příjmení fyzické osoby s oprávněním podepisovat za právnickou osobu, a uvést vztah fyzické osoby k právnické osobě (např. jednatel, pověřený pracovník).
+
+**Kód podepisující osoby:** Vyberte číselný kód podle níže uvedených typů podepisující osoby:
+
+Fyzická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4b – fyzická osoba daňový poradce nebo advokát
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+Právnická osoba:
+
+1 – zákonný zástupce nebo opatrovník
+
+2 – ustanovený zástupce
+
+3 – společný zástupce, společný zmocněnec
+
+4a – obecný zmocněnec – fyzická osoba i právnická osoba
+
+4c – právnická osoba vykonávající daňové poradenství
+
+5a – osoba spravující pozůstalost
+
+5b – zástupce osoby spravující pozůstalost
+
+6a – dědic po skončení řízení o pozůstalosti
+
+6b – zástupce dědice po skončení řízení o pozůstalosti
+
+7a – právní nástupce právnické osoby
+
+7b – zástupce právního nástupce právnické osoby
+
+**Datum narození:** Datum narození uveďte v případě, že podepisující osobou je fyzická osoba a není uvedeno evidenční číslo osvědčení daňového poradce - fyzické osoby.
+
+**Evidenční číslo daňového poradce:** V případě, že podepisující osobou je fyzická osoba, vyplňte buď datum narození podepisující osoby, nebo evidenční číslo osvědčení daňového poradce – fyzické osoby.
+
+**IČ právnické osoby:** Uveďte identifikační číslo (IČ), pokud je podepisující osobou právnická osoba.
+
+***Fyzická osoba oprávněná k podpisu za zastupující právnickou osobu***
+
+**Jméno:** Uveďte jméno osoby oprávněné jednat za zastupující právnickou osobu.
+
+**Příjmení:** Vyplňte příjmení oprávněné osoby.
+
+**Vztah k právnické osobě:** Uveďte, v jakém vztahu je podepisující fyzická osoba k zastupující právnické osobě.
+
+**Údaje o dosažených obratech (EUR)**
+
+Údaje o obratech se uvádějí za část kalendářního čtvrtletí, a to do dne překročení prahové hodnoty pro obrat v EU (včetně).
+
+Uveďte hodnoty plnění bez DPH uskutečněných ve vymezeném období, která spadají do obratu v tuzemsku a v jiných členských státech pro účely DPH, a to samostatně
+
+a) celkovou hodnotu za každý členský stát a
+
+b) hodnoty za odvětví v případě členských států osvobození využívajících pro účely režimu pro malé podniky též prahové hodnoty obratu stanovené pro vymezená odvětví.
+
+Za Českou republiku se hodnota obratu stanoví podle § 4a zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů.
+
+Pro osvobození od DPH v přeshraničním režimu SME jsou rozhodné údaje o obratech dosažených za kalendářní rok. V případě, že k překročení prahové hodnoty obratu v EU došlo hned v kalendářním čtvrtletí, které je zároveň prvním kalendářním čtvrtletím registrace do režimu, potom se v závislosti na datu registrace do režimu postupuje takto:
+
+a) do obratu za toto čtvrtletí se nezahrnuje obrat za období od 1. dne čtvrtletí do data podání přihlášky k registraci do režimu SME (toto platí, když registrace nabyla účinnosti v kalendářním čtvrtletí, ve kterém byla přihláška do režimu podána);
+
+*Příklad:*
+
+*Přihláška k registraci do režimu byla podána 14. 4., osoba povinná k dani byla zaregistrována do režimu dne 11. 5. V přihlášce jsou uvedeny údaje o obratech za období od 1. 1. do 14. 4. První oznámení o obratech v režimu SME by měla osoba povinná k dani, pokud by u ní k překročení obratu v EU nedošlo, podat za druhé čtvrtletí (4.–6. měsíc), přičemž do obratu za toto období by se nezapočítával obrat za období po podání přihlášky, tj. od 1. 4. do 14. 4., protože už byl uvedený v přihlášce. Stejným způsobem se postupuje i v případě, když se už namísto prvního oznámení o obratech podává oznámení o překročení prahové hodnoty obratu v EU, tj. do tohoto oznámení se uvede obrat za období od 15.4. do data překročení prahové hodnoty obratu v EU.*
+
+b) k obratu za toto čtvrtletí se přičte i obrat za období od data podání přihlášky do posledního dne kalendářního čtvrtletí, které předchází čtvrtletí, za které se podává toto oznámení.
+
+*Příklad:*
+
+*Přihláška k registraci do režimu byla podána 4. 3., osoba povinná k dani byla zaregistrována do režimu dne 11. 4. V registrační přihlášce jsou uvedeny údaje o obratech za období od 1. 1. do 4. 3. První oznámení o obratech v režimu SME by měla osoba povinná k dani, pokud by u ní k překročení obratu v EU nedošlo, podávat za druhé čtvrtletí (4.–6. měsíc) a do něho by měla uvést obrat za druhé čtvrtletí navýšený o obrat za období od 5. 3. do 31.3. Stejným způsobem se postupuje i v případě, když se už namísto prvního oznámení o obratech podává oznámení o překročení prahové hodnoty obratu v EU, tj. do tohoto oznámení se uvede obrat za období od 5.3. do data překročení prahové hodnoty obratu v EU.*
+
+**Členský stát EU:** Členský stát EU, ve kterém bylo uvedeného obratu dosaženo.
+
+**Celkem / Odvětví:** Obrat za členský stát celkem musí být uveden vždy. Pokud žádné plnění uskutečněno nebylo, uveďte hodnotu „0“.
+
+Obrat za odvětví se uvádí jen u členských států, pro které máte platnou registraci a ve kterých se údaje za odvětví pro posouzení nároku na osvobození podle jejich národní legislativy vyžadují. Jestliže vyplňujete řádek s obratem za dané odvětví, uveďte označení odvětví, do kterého dodání zboží nebo poskytnutí služeb spadá způsobem vyžadovaných tímto státem. Potřebné informace jsou k dispozici např. na webových stránkách Evropské komise nebo členských států, ve kterých chcete využívat osvobození, případně na www.financnisprava.cz.
+
+**Obrat (EUR):** Částky uveďte v EUR s přesností na 2 desetinná místa, bez zaokrouhlení. Pro převod z jiných měn použijte směnný kurz zveřejněný Evropskou centrální bankou platný pro první den kalendářního roku, za který se údaje vykazují, nebo platný pro nejbližší následující den, není-li kurz pro první den kalendářního roku zveřejněn.
+
+### Příloha č. 27
+
+<table><tbody><tr><td colspan="4"><b>Oznámení údajů z dokladu o prodeji podle § 84 zákona </b><b>o DPH</b><b> (vrácení DPH při dodání zboží určeného k vývozu v osobním zavazadle cestujícím ze třetí země)</b></td></tr><tr><td colspan="4">VAT Refund/TAX FREE</td></tr><tr><td>1.</td><td colspan="3">DIČ obchodníka</td></tr><tr><td>2.</td><td colspan="3">Název obchodníka</td></tr><tr><td>3.</td><td colspan="3">Adresa obchodníka</td></tr><tr><td>4.</td><td colspan="3">Země obchodníka</td></tr><tr><td>5.</td><td colspan="3">Číslo účtenky</td></tr><tr><td>6.</td><td colspan="3">Datum nákupu</td></tr><tr><td>7.</td><td colspan="3">Položky účtenky</td></tr><tr><td></td><td></td><td>a)</td><td>název zboží/kategorie</td></tr><tr><td></td><td></td><td>b)</td><td>výrobní číslo (nepovinné)</td></tr><tr><td></td><td></td><td>c)</td><td>měrná jednotka</td></tr><tr><td></td><td></td><td>d)</td><td>počet měrných jednotek</td></tr><tr><td></td><td></td><td>e)</td><td>sazba DPH</td></tr><tr><td></td><td></td><td>f)</td><td>měna</td></tr><tr><td></td><td></td><td>g)</td><td>cena zboží (bez DPH)</td></tr><tr><td></td><td></td><td>h)</td><td>DPH</td></tr><tr><td></td><td></td><td>i)</td><td>cena celkem (s DPH)</td></tr><tr><td>8.</td><td colspan="3">Zahraniční fyzická osoba</td></tr><tr><td></td><td></td><td>a)</td><td>jméno (nepovinné, není-li v cestovním dokladu uvedeno)</td></tr><tr><td></td><td></td><td>b)</td><td>příjmení</td></tr><tr><td></td><td></td><td>c)</td><td>číslo cestovního dokladu</td></tr><tr><td></td><td></td><td>d)</td><td>kód země, která cestovní doklad vydala</td></tr><tr><td colspan="4" rowspan="2"><i><b>vyplnění všech údajů, vyjma údajů v bodě 7b a 8a, je pro další zpracování nezbytné, jde-li o podání učiněné elektronicky</b></i></td></tr><tr></tr></tbody></table>
+
+#### POKYNY k vyplnění oznámení údajů z dokladu o prodeji podle § 84 zákona o DPH (vrácení DPH při dodání zboží určeného k vývozu v osobním zavazadle cestujícím ze třetí země)
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+1\. Uveďte DIČ obchodníka (prodávajícího, resp. plátce, který dodává zboží).
+
+2\. Názvem obchodníka se rozumí obchodní firma v případě právnické osoby a jméno, včetně případného dodatku ke jménu, v případě fyzické osoby.
+
+3\. Uveďte adresu skutečného sídla obchodníka v souladu s § 4 odst. 1 písm. i) zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů.
+
+4\. Uveďte zemi obchodníka
+
+5\. Uveďte číslo účtenky
+
+6\. Uveďte datum uskutečnění nákupu.
+
+7\. Uveďte detaily nákupu (níže uvedené údaje se vyplňují za každou položku nákupu samostatně)
+
+a) uveďte název/kategorii zboží
+
+b) uveďte výrobní číslo zboží (nepovinné)
+
+c) uveďte druh měrné jednotky (například kusy)
+
+d) uveďte počet v měrných jednotkách
+
+e) uveďte, zda je dodání zboží podléhá základní sazbě DPH (21 %) nebo snížené sazbě DPH (12 %).
+
+f) uveďte, v jaké měně je účtenka
+
+g) uveďte cenu zboží bez DPH
+
+h) uveďte vyčíslené DPH
+
+i) uveďte celkovou cenu s DPH (cena zboží uvedená v písmeni g) + DPH uvedené v písmeni h))
+
+8\. Uveďte informace o zahraniční fyzické osobě
+
+a) uveďte jméno (nepovinné)
+
+b) uveďte příjmení
+
+c) uveďte číslo cestovního dokladu
+
+d) uveďte kód země vydávající cestovní doklad

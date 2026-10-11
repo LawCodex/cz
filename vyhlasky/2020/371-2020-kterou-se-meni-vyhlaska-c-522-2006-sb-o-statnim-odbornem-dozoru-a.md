@@ -1,0 +1,146 @@
+---
+title: "Vyhláška č. 371/2020 Sb., kterou se mění vyhláška č. 522/2006 Sb., o státním odborném dozoru a kontrolách v silniční dopravě, ve znění pozdějších předpisů"
+identifier: "371/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/371/2020-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-09-10
+effective: 2020-10-01
+last_amended: 2020-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/371"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 371/2020 Sb., kterou se mění vyhláška č. 522/2006 Sb., o státním odborném dozoru a kontrolách v silniční dopravě, ve znění pozdějších předpisů
+
+371
+
+VYHLÁŠKA
+
+ze dne 10. září 2020,
+
+kterou se mění vyhláška č. 522/2006 Sb., o státním odborném dozoru a kontrolách v silniční dopravě, ve znění pozdějších předpisů
+
+Ministerstvo dopravy stanoví podle § 41 odst. 2 zákona č. 111/1994 Sb., o silniční dopravě, ve znění zákona č. 304/1997 Sb., zákona č. 150/2000 Sb., zákona č. 103/2004 Sb., zákona č. 229/2005 Sb., zákona č. 226/2006 Sb., zákona č. 194/2010 Sb., zákona č. 119/2012 Sb., zákona č. 102/2013 Sb., zákona č. 64/2014 Sb., zákona č. 304/2017 Sb., zákona č. 115/2020 Sb. a zákona č. 337/2020 Sb., (dále jen „zákon“) k provedení § 34 odst. 3 a § 38a odst. 4 zákona:
+
+## Čl. I
+
+Vyhláška č. 522/2006 Sb., o státním odborném dozoru a kontrolách v silniční dopravě, ve znění vyhlášky č. 39/2010 Sb., vyhlášky č. 269/2012 Sb., vyhlášky č. 9/2015 Sb., vyhlášky č. 444/2016 Sb. a vyhlášky č. 462/2017 Sb., se mění takto:
+
+1\. V úvodní větě se text „§ 34 odst. 1 a § 38a odst. 3“ nahrazuje textem „§ 34 odst. 3 a § 38a odst. 4“.
+
+2\. § 1 včetně poznámky pod čarou č. 2a zní:
+
+> **„§ 1**
+
+> Tato vyhláška zapracovává příslušné předpisy Evropské unie<sup>2</sup>) a v návaznosti na přímo použitelný předpis Evropské unie<sup>2a</sup>) upravuje jednotné postupy, systém a předmět kontrol a státního odborného dozoru v silniční dopravě (dále jen „kontrola“).
+
+> <sup>2a</sup>) Prováděcí rozhodnutí Komise (EU) 2017/1013 ze dne 30. března 2017, kterým se stanoví jednotný formulář zprávy uvedený v článku 17 nařízení Evropského parlamentu a Rady (ES) č. 561/2006. 
+>  Nařízení Komise (EU) 2016/403 ze dne 18. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (ES) č. 1071/2009, pokud jde o klasifikaci závažných porušení pravidel Unie, která mohou vést ke ztrátě dobré pověsti podnikatele v silniční dopravě, a kterým se mění příloha III směrnice Evropského parlamentu a Rady 2006/22/ES.“.
+
+3\. V § 2 odstavec 2 včetně poznámky pod čarou č. 1 zní:
+
+> „(2) Při kontrole používá kontrolní orgán
+
+> a) v případě, že je kontrolované vozidlo vybaveno záznamovým zařízením podle čl. 2 odst. 2 písm. h) přímo použitelného předpisu Evropské unie upravujícího tachografy v silniční dopravě<sup>1</sup>) (dále jen „digitální tachograf“), kontrolní kartu, která umožňuje kontrolnímu orgánu zpřístupnění údajů z digitálního tachografu, a zařízení pro kontrolu digitálního podpisu podle přímo použitelného předpisu Evropské unie<sup>3a</sup>) připojeného k údajům spolu s programovým vybavením pro ověření a kontrolu digitálního podpisu, jakož i pro vyhotovení podrobného profilu rychlosti vozidel před kontrolou jejich záznamového zařízení, nebo
+
+> b) v případě, že je kontrolované vozidlo vybaveno záznamovým zařízením podle čl. 2 odst. 2 písm. g) přímo použitelného předpisu Evropské unie upravujícího tachografy v silniční dopravě<sup>1</sup>) (dále jen „analogový tachograf“), zařízení ke kontrole záznamových listů.
+
+> <sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 165/2014 ze dne 4. února 2014 o tachografech v silniční dopravě, o zrušení nařízení Rady (EHS) č. 3821/85 o záznamovém zařízení v silniční dopravě a o změně nařízení Evropského parlamentu a Rady (ES) č. 561/2006 o harmonizaci některých předpisů v sociální oblasti týkajících se silniční dopravy.“.
+
+4\. § 6 včetně nadpisu a poznámky pod čarou č. 6 zní:
+
+> **„§ 6 – Systém kontrol v oblasti dodržování dob řízení vozidla, bezpečnostních přestávek a dob odpočinku**
+
+> (1) Kontrolní orgán provádí kontroly v oblasti dodržování dob řízení vozidla, bezpečnostních přestávek a dob odpočinku tak, aby ve svém souhrnu zahrnovaly nejméně 3 % pracovních dnů řidičů vozidel, na něž se vztahují přímo použitelné předpisy Evropské unie<sup>6</sup>).
+
+> (2) Z počtu kontrol podle odstavce 1 zahrnují silniční kontroly nejméně 30 % ze všech kontrolovaných pracovních dnů řidičů vozidel a kontroly v provozovnách nejméně 50 % ze všech kontrolovaných pracovních dnů řidičů vozidel.
+
+> <sup>6</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 561/2006 ze dne 15. března 2006 o harmonizaci některých předpisů v sociální oblasti týkajících se silniční dopravy, o změně nařízení Rady (EHS) č. 3821/85 a (ES) č. 2135/98 a o zrušení nařízení (EHS) č. 3820/85, v platném znění. 
+>  Nařízení Evropského parlamentu a Rady (EU) č. 165/2014 ze dne 4. února 2014 o tachografech v silniční dopravě, o zrušení nařízení Rady (EHS) č. 3821/85 o záznamovém zařízení v silniční dopravě a o změně nařízení Evropského parlamentu a Rady (ES) č. 561/2006 o harmonizaci některých předpisů v sociální oblasti týkajících se silniční dopravy.“.
+
+5\. § 7a zní:
+
+> **„§ 7a**
+
+> (K § 38a odst. 4 zákona)
+
+> (1) Vzor potvrzení o zabránění v jízdě použitím technického prostředku nebo o zadržení dokladů k vozidlu a dokladů souvisejících s prováděnou přepravou vystaveného podle § 35d odst. 3 zákona je uveden v příloze č. 9 k této vyhlášce.
+
+> (2) Vzor potvrzení o zabránění v jízdě použitím technického prostředku nebo o zadržení dokladů k vozidlu a dokladů souvisejících s prováděnou přepravou vystaveného podle § 35j odst. 3 zákona je uveden v příloze č. 10 k této vyhlášce.
+
+> (3) Vzor potvrzení o převzetí kauce je uveden v příloze č. 11 k této vyhlášce.“.
+
+6\. § 8 se včetně nadpisu zrušuje.
+
+7\. Příloha č. 1 se zrušuje.
+
+8\. Příloha č. 2 zní:
+
+> **„Příloha č. 2 k vyhlášce č. 522/2006 Sb.**
+
+> **Porušení povinností zahraničními dopravci na území České republiky a vybrané kauce**
+
+> **![sbcr2020c150z0371p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/875405/NAHLED/ZOBRAZ/sbcr2020c150z0371p002u001)“.**
+
+9\. V příloze č. 3 bod 1.7. zní:
+
+> „1.7. Porušení - počet a druh porušení zjištěných na silnicích
+
+> (N - nařízení Evropského parlamentu a Rady, Z - zákon č. 111/1994 Sb.)
+
+> **![sbcr2020c150z0371p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/875407/NAHLED/ZOBRAZ/sbcr2020c150z0371p003u001)“.**
+
+10\. V příloze č. 3 bod 2.2. zní:
+
+> „2.2. Porušení - počet a druh zjištěných porušení v provozovnách dopravců
+
+> (N - nařízení Evropského parlamentu a Rady)
+
+> **![sbcr2020c150z0371p003u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/875409/NAHLED/ZOBRAZ/sbcr2020c150z0371p003u002)“.**
+
+11\. Příloha č. 5 zní:
+
+> **„Příloha č. 5 k vyhlášce č. 522/2006 Sb.**
+
+> **Opatření učiněná vůči tuzemským dopravcům, kteří porušili povinnosti v jiných členských státech**
+
+> **![sbcr2020c150z0371p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/875411/NAHLED/ZOBRAZ/sbcr2020c150z0371p005u001)“.**
+
+12\. Příloha č. 6 zní:
+
+> **„Příloha č. 6 k vyhlášce č. 522/2006 Sb.**
+
+> **Počet a výše pokut uložených dopravním úřadem pravomocným rozhodnutím ve správním řízení**
+
+> **![sbcr2020c150z0371p006u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/875413/NAHLED/ZOBRAZ/sbcr2020c150z0371p006u001)“.**
+
+13\. Nadpis přílohy č. 9 zní:
+
+> **„Potvrzení o zadržení dokladů k vozidlu a dokladů souvisejících s prováděnou přepravou/ o zabránění v jízdě použitím technického prostředku k zabránění odjezdu vozidla vystavené podle § 35d zákona“.**
+
+14\. Příloha č. 10 zní:
+
+> **„Příloha č. 10 k vyhlášce č. 522/2006 Sb.**
+
+> **Potvrzení o zadržení dokladů k vozidlu a dokladů souvisejících s prováděnou přepravou/ o zabránění v jízdě použitím technického prostředku k zabránění odjezdu vozidla vystavené podle § 35j zákona**
+
+> **![sbcr2020c150z0371p010u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/875415/NAHLED/ZOBRAZ/sbcr2020c150z0371p010u001)“.**
+
+15\. Doplňuje se příloha č. 11, která zní:
+
+> **„Příloha č. 11 k vyhlášce č. 522/2006 Sb.**
+
+> **Potvrzení o převzetí kauce**
+
+> **![sbcr2020c150z0371p011u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/875417/NAHLED/ZOBRAZ/sbcr2020c150z0371p011u001)“.**
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. října 2020.
+
+Ministr:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

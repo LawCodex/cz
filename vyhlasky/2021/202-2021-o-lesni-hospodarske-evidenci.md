@@ -1,0 +1,156 @@
+---
+title: "Vyhláška č. 202/2021 Sb., o lesní hospodářské evidenci"
+identifier: "202/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/202/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-05-17
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/202"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 202/2021 Sb., o lesní hospodářské evidenci
+
+202
+
+VYHLÁŠKA
+
+ze dne 17. května 2021
+
+o lesní hospodářské evidenci
+
+Ministerstvo zemědělství stanoví podle § 40 odst. 3 zákona č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění zákona č. 314/2019 Sb.:
+
+## § 1 – Předmět vyhlášky
+
+Tato vyhláška upravuje obsah lesní hospodářské evidence o plnění závazných ustanovení plánu (dále jen „evidence o plnění závazných ustanovení plánu“) a obsah lesní hospodářské evidence o provedené obnově lesa v jednotlivých porostech (dále jen „evidence o provedené obnově lesa“), způsob jejich vedení a předávání souhrnných údajů těchto evidencí místně příslušnému orgánu státní správy lesů.
+
+## § 2 – Obsah a způsob vedení evidence o plnění závazných ustanovení plánu a evidence o provedené obnově lesa
+
+(1) Vlastník lesa, který hospodaří podle lesního hospodářského plánu, vede evidenci o plnění závazných ustanovení plánu a evidenci o provedené obnově lesa v rozsahu údajů uvedených v příloze č. 1 k této vyhlášce, a to pro nejnižší jednotky prostorového rozdělení lesa vylišené v lesním hospodářském plánu.
+
+(2) Vlastník lesa, který nehospodaří podle lesního hospodářského plánu, vede evidenci o provedené obnově lesa v rozsahu údajů uvedených v příloze č. 2 k této vyhlášce, a to pro nejnižší jednotky prostorového rozdělení lesa vylišené v lesní hospodářské osnově.
+
+(3) V případě, že pro pozemky určené k plnění funkcí lesa není zpracována lesní hospodářská osnova nebo lesní hospodářský plán, vede vlastník lesa evidenci o provedené obnově lesa v rozsahu údajů uvedených v příloze č. 2 k této vyhlášce, k příslušné parcele katastru nemovitostí.
+
+(4) Vlastník lesa uchovává evidenci vedenou podle odstavců 1 až 3 nejméně po dobu 10 let ode dne vykázání evidované činnosti.
+
+## § 3 – Předávání souhrnných údajů evidence o plnění závazných ustanovení plánu a souhrnných údajů evidence o provedené obnově lesa
+
+(1) Vzor formuláře, na kterém vlastník lesa, který hospodaří podle lesního hospodářského plánu, předává souhrnné údaje evidence o plnění závazných ustanovení plánu a souhrnné údaje evidence o provedené obnově lesa (dále jen „souhrnné údaje“), je uveden v příloze č. 3 k této vyhlášce.
+
+(2) Vlastník lesa, který hospodaří podle lesního hospodářského plánu, předává souhrnné údaje obecnímu úřadu obce s rozšířenou působností, v jehož územní působnosti se nachází největší část jeho lesního hospodářského celku.
+
+(3) Pokud vlastník lesa předává souhrnné údaje v elektronické podobě, může tak učinit také prostřednictvím elektronické aplikace portálu Ministerstva zemědělství.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Ministr:
+
+Ing. Toman, CSc., v. r.
+
+### Příloha č. 1 k vyhlášce č. 202/2021 Sb.
+
+#### Obsah a způsob vedení evidence o plnění závazných ustanovení plánu a evidence o provedené obnově lesa pro vlastníky lesa hospodařící podle lesního hospodářského plánu
+
+Údaje evidence o plnění závazných ustanovení plánu vedené vlastníkem lesa hospodařícím podle lesního hospodářského plánu<sup>1</sup> pro nejnižší jednotky prostorového rozdělení lesa (etáž, případně pro porost, pokud není etáž vylišena), ke kterým se evidované údaje vztahují:
+
+| TĚŽBA DŘEVA: | datum ukončení výkonu<sup>2</sup>: | jednotky<sup>3</sup>: |
+|---|---|---|
+| Objem provedené těžby úmyslné<sup>4</sup> | MM.RRRR | m<sup>3</sup>b.k. |
+| Objem provedené těžby nahodilé | MM.RRRR | m<sup>3</sup>b.k. |
+| Objem provedené těžby mimořádné | MM.RRRR | m<sup>3</sup>b.k. |
+
+MINIMÁLNÍ PODÍL MELIORAČNÍCH A ZPEVŇUJÍCÍCH DŘEVIN PŘI OBNOVĚ POROSTU:
+
+<table><tbody><tr><td rowspan="2">Plocha obnovená melioračními a zpevňujícími dřevinami</td><th>datum ukončení výkonu<sup>2</sup>:</th><th>jednotky<sup>5</sup>:</th></tr><tr><td>MM.RRRR</td><td>ha</td></tr></tbody></table>
+
+MINIMÁLNÍ PLOŠNÝ ROZSAH VÝCHOVNÝCH ZÁSAHŮ V POROSTECH DO 40 LET VĚKU:
+
+<table><tbody><tr><td rowspan="2">Plocha provedeného naléhavého nebo opakovaného výchovného zásahu v porostech do 40 let věku</td><th>datum ukončeni výkonu<sup>2</sup>:</th><th>jednotky<sup>5</sup>:</th></tr><tr><td>MM.RRRR</td><td>ha</td></tr></tbody></table>
+
+Údaje evidence o provedené obnově lesa vedené vlastníkem lesa hospodařícím podle lesního hospodářského plánu pro nejnižší jednotky prostorového rozdělení lesa (etáž, případně pro porost, pokud není etáž vylišena), ke kterým se evidované údaje vztahují:
+
+| HOLINA: | datum vzniku holiny<sup>6</sup>: | jednotky<sup>5</sup>: |
+|---|---|---|
+| Plocha vzniklé holiny | MM.RRRR | ha |
+
+| UMĚLÁ OBNOVA<sup>7</sup>: | datum ukončení výkonu<sup>2</sup>: | jednotky<sup>5</sup>: |
+|---|---|---|
+| Plocha provedeného prvního zalesnění | MM.RRRR | ha |
+| Plocha provedeného opakovaného<sup>8</sup> zalesnění | MM.RRRR | ha |
+
+| PŘÍROZENÁ OBNOVA<sup>9</sup>: | datum ukončení procesu<sup>10</sup>: | jednotky<sup>5</sup>: |
+|---|---|---|
+| Plocha přirozené obnovy první | MM.RRRR | ha |
+| Plocha přirozené obnovy opakované | MM.RRRR | ha |
+
+Vysvětlivky:
+
+<sup>1</sup> Rozsah vlastníkem lesa povinně evidovaných údajů se liší s ohledem na jemu schválená závazná ustanovení LHP (§ 24 odst. 5 zákona č. 289/1995 Sb.).
+
+<sup>2</sup> Datum se uvádí ve formátu měsíc a rok (MM.RRRR), a to k poslednímu dni kalendářního měsíce, ve kterém byl výkon realizován.
+
+<sup>3</sup> Objem se eviduje v m<sup>3</sup> hroubí bez kůry (m<sup>3</sup>b.k.), zaokrouhlený na celé číslo směrem dolů.
+
+<sup>4</sup> Do těžby úmyslné se započítává i objem těžby prováděné výběrem jednotlivých stromů [§ 2 písm. m) zákona č. 289/1995 Sb.] a objem vytěženého dřeva z předčasného smýcení lesních porostů (rekonstrukce, přeměny, hospodářské nutnosti).
+
+<sup>5</sup> Plocha se eviduje v hektarech (ha) s přesností na setiny (tzv. „na 2 desetinná místa“).
+
+<sup>6</sup> Uvede se datum vzniku holiny ve formátu měsíc a rok (MM.RRRR), a to k poslednímu dni kalendářního měsíce, ve kterém holina vznikla.
+
+<sup>7</sup> Zahrnuje plochu provedené umělé obnovy na holině včetně síjí.
+
+<sup>8</sup> Zahrnuje plochu provedeného opakovaného zalesnění včetně síjí.
+
+<sup>9</sup> Zahrnuje plochu přirozené obnovy na holině.
+
+<sup>10</sup> Datum se uvádí ve formátu měsíc a rok (MM.RRRR), a to k poslednímu dni kalendářního měsíce, ve kterém bylo shledáno, že přirozená obnova naplňuje znaky zdárného odrůstání.
+
+### Příloha č. 2 k vyhlášce č. 202/2021 Sb.
+
+#### Obsah a způsob vedení evidence o provedené obnově lesa pro vlastníky lesa nehospodařící podle lesního hospodářského plánu
+
+Údaje evidence o provedené obnově lesa vedené vlastníkem lesa, který nehospodaří podle lesního hospodářského plánu<sup>1</sup> pro nejnižší jednotky prostorového rozdělení lesa (etáž), případně pro parcely katastru nemovitostí, ke kterým se evidované údaje vztahují:
+
+| HOLINA: | datum vzniku holiny<sup>2</sup>: | jednotky<sup>3</sup>: |
+|---|---|---|
+| Plocha vzniklé holiny | MM.RRRR | ha |
+
+| UMĚLÁ OBNOVA<sup>4</sup>: | datum ukončení výkonu<sup>5</sup>: | jednotky<sup>3</sup>: |
+|---|---|---|
+| Plocha provedeného prvního zalesnění | MM.RRRR | ha |
+| Plocha provedeného opakovaného<sup>6</sup> zalesnění | MM.RRRR | ha |
+
+| PŘÍROZENÁ OBNOVA<sup>7</sup>: | datum ukončení procesu<sup>8</sup>: | jednotky<sup>3</sup>: |
+|---|---|---|
+| Plocha přirozené obnovy první | MM.RRRR | ha |
+| Plocha přirozené obnovy opakované | MM.RRRR | ha |
+
+Vysvětlivky:
+
+<sup>1</sup> Všichni vlastníci lesů, pro které nebyly zpracovány lesní hospodářské plány.
+
+<sup>2</sup> Uvede se datum vzniku holiny k poslednímu dni kalendářního měsíce, ve kterém holina vznikla.
+
+<sup>3</sup> Plocha se eviduje v hektarech (ha) s přesností na setiny (tzv. „na 2 desetinná místa“).
+
+<sup>4</sup> Zahrnuje plochu provedené umělé obnovy na holině včetně síjí.
+
+<sup>5</sup> Datum se uvádí ve formátu měsíc a rok (MM.RRRR), a to k poslednímu dni kalendářního měsíce, ve kterém byl výkon realizován.
+
+<sup>6</sup> Zahrnuje plochu provedeného opakovaného zalesnění včetně síjí
+
+<sup>7</sup> Zahrnuje plochu přirozené obnovy na holině.
+
+<sup>8</sup> Datum se uvádí k poslednímu dni kalendářního měsíce, ve kterém bylo shledáno, že přirozená obnova naplňuje znaky zdárného odrůstání.
+
+### Příloha č. 3 k vyhlášce č. 202/2021 Sb.
+
+#### ![sbcr2021c085z0202p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834983/NAHLED/ZOBRAZ/sbcr2021c085z0202p003u001)

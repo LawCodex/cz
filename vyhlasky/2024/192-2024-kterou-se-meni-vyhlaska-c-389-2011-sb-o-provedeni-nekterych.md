@@ -1,0 +1,289 @@
+---
+title: "Vyhláška č. 192/2024 Sb., kterou se mění vyhláška č. 389/2011 Sb., o provedení některých ustanovení zákona o pomoci v hmotné nouzi, ve znění vyhlášky č. 277/2022 Sb., vyhláška č. 410/2023 Sb., o stanovení elektronické komunikace pro účely humanitární dávky, a vyhláška č. 411/2023 Sb., o stanovení elektronické komunikace v oblasti státní sociální podpory"
+identifier: "192/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/192/2025-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-06-20
+effective: 2024-07-01
+last_amended: 2025-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/192"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 192/2024 Sb., kterou se mění vyhláška č. 389/2011 Sb., o provedení některých ustanovení zákona o pomoci v hmotné nouzi, ve znění vyhlášky č. 277/2022 Sb., vyhláška č. 410/2023 Sb., o stanovení elektronické komunikace pro účely humanitární dávky, a vyhláška č. 411/2023 Sb., o stanovení elektronické komunikace v oblasti státní sociální podpory ve znění zákona č. 152/2025 Sb."
+---
+
+# Vyhláška č. 192/2024 Sb., kterou se mění vyhláška č. 389/2011 Sb., o provedení některých ustanovení zákona o pomoci v hmotné nouzi, ve znění vyhlášky č. 277/2022 Sb., vyhláška č. 410/2023 Sb., o stanovení elektronické komunikace pro účely humanitární dávky, a vyhláška č. 411/2023 Sb., o stanovení elektronické komunikace v oblasti státní sociální podpory
+
+192
+
+VYHLÁŠKA
+
+ze dne 20. června 2024,
+
+kterou se mění vyhláška č. 389/2011 Sb., o provedení některých ustanovení zákona o pomoci v hmotné nouzi, ve znění vyhlášky č. 277/2022 Sb., vyhláška č. 410/2023 Sb., o stanovení elektronické komunikace pro účely humanitární dávky, a vyhláška č. 411/2023 Sb., o stanovení elektronické komunikace v oblasti státní sociální podpory
+
+Ministerstvo práce a sociálních věcí stanoví podle § 80 zákona č. 111/2006 Sb., o pomoci v hmotné nouzi, ve znění zákona č. 382/2008 Sb., zákona č. 366/2011 Sb. a zákona č. 407/2023 Sb., podle § 7 odst. 1 a § 8aa odst. 2 zákona č. 66/2022 Sb., o opatřeních v oblasti zaměstnanosti a oblasti sociálního zabezpečení v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění zákona č. 75/2023 Sb. a zákona č. 407/2023 Sb., a podle § 63 odst. 2 a 3 zákona č. 117/1995 Sb., o státní sociální podpoře, ve znění zákona č. 242/1997 Sb., zákona č. 132/2000 Sb., zákona č. 271/2001 Sb., zákona č. 320/2002 Sb., zákona č. 453/2003 Sb., zákona č. 552/2005 Sb., zákona č. 269/2007 Sb., zákona č. 73/2011 Sb., zákona č. 366/2011 Sb., zákona č. 261/2021 Sb., zákona č. 456/2022 Sb. a zákona č. 407/2023 Sb.:
+
+## ČÁST DRUHÁ – Změna vyhlášky o stanovení elektronické komunikace pro účely humanitární dávky
+
+### Čl. II
+
+Vyhláška č. 410/2023 Sb., o stanovení elektronické komunikace pro účely humanitární dávky, se mění takto:
+
+1\. V § 1 se za slovo „příloze“ vkládá text „č. 1“.
+
+2\. Za § 1 se vkládá nový § 1a, který včetně nadpisu zní:
+
+> **„§ 1a – Specifikace komunikace mezi krajskou pobočkou Úřadu práce a peněžním ústavem a formát, obsah a struktura datové zprávy**
+
+> Specifikace komunikace mezi krajskou pobočkou Úřadu práce a bankou, pobočkou zahraniční banky, spořitelním a úvěrním družstvem, institucí elektronických peněz, pobočkou zahraniční instituce elektronických peněz, vydavatelem elektronických peněz malého rozsahu, platební institucí, pobočkou zahraniční platební instituce nebo poskytovatelem platebních služeb malého rozsahu (dále jen „peněžní ústav“) a formát, obsah a struktura datové zprávy jsou stanoveny v příloze č. 2 k této vyhlášce. Veškeré vyměňované XML soubory jsou zapečetěny kvalifikovanou elektronickou pečetí (dále jen „pečeť“).“.
+
+3\. V příloze se v bodu A odst. 2 písm. a) slova „Systému pro správu identit a pověření České správy sociálního zabezpečení“ nahrazují slovy „elektronické služby „Správa plných mocí“ ePortálu České správy sociálního zabezpečení“.
+
+4\. V příloze se v bodu A na konci odstavce 3 doplňují slova „ , nebo datovou schránkou osoby, kterou zaměstnavatel zmocní prostřednictvím elektronické služby „Správa plných mocí“ ePortálu České správy sociálního zabezpečení“.
+
+5\. Dosavadní příloha se označuje jako příloha č. 1 a doplňuje se příloha č. 2, která zní:
+
+> **„Příloha č. 2**
+
+> **Specifikace komunikace mezi krajskou pobočkou Úřadu práce a peněžním ústavem a formát, obsah a struktura datové zprávy**
+
+> A) **Specifikace komunikace mezi peněžním ústavem a krajskou pobočkou Úřadu práce**
+
+> 1\) Krajská pobočka Úřadu práce odešle písemnou žádost jako zprávu obsahující dokument výzvy a XML soubor z datové schránky krajské pobočky Úřadu práce do datové schránky peněžního ústavu. Krajská pobočka Úřadu práce do předmětu datové zprávy vloží pouze text “XMLOPHNSOUC”.
+
+> 2\) Peněžní ústav na písemnou žádost krajské pobočky Úřadu práce odešle zprávu s XML souborem s požadovanými daty do datové schránky krajské pobočky Úřadu práce z datové schránky peněžního ústavu. Pro vytvoření XML souboru odpovědi peněžní ústav využije vlastní technické prostředky. Peněžní ústav do předmětu datové zprávy vloží pouze text “XMLOPHNSOUC”.
+
+> B) **Formát a struktura datové zprávy**
+
+> Datová zpráva pro komunikaci mezi krajskou pobočkou Úřadu práce a peněžním ústavem je výhradně ve formátu XML. XML soubor je kódován v UTF-8. Jméno souboru je tvořeno kódem krajské pobočky Úřadu práce, kódem peněžního ústavu a unikátním identifikátorem vytvořeným krajskou pobočkou Úřadu práce při vytváření dotazu, a to podle následujících pravidel:
+
+> | **Pořadí** | **Část** | **Délka** | **Popis** |
+> |---|---|---|---|
+> | 1 | *KodKPUP* | 3 | Kód dotazující se krajské pobočky Úřadu práce. |
+> | 2 | „-„ | 1 | Oddělovač. |
+> | 3 | *KodBanky* | 4 | Kód dotazovaného peněžního ústavu. |
+> | 4 | - | 1 | Oddělovač. |
+> | 5 | *CisloDavky* | 10 | Jednoznačné identifikační číslo dávky. |
+> | 6 | „-„ | 1 | Oddělovač. |
+> | 7 | „dot“ nebo „odp“ | 3 | Identifikace, zda se jedná o dotaz („dot“) nebo odpověď („odp“). |
+> | 8 | „.xml“ | 4 | Přípona indikující typ souboru. |
+
+> 1\) Dotaz je zabalen do *SOAP* obálky s hlavičkou, která obsahuje metadata zprávy a pečeť. Má následující strukturu:
+
+> • *SOAP-Envelope*
+
+> ○ *SOAP-Header*
+
+> ■ *Zprava*
+
+> ■ *Signature*
+
+> ○ *SOAP-Body*
+
+> ■ *Davka*
+
+> • *Dotaz*(kolekce)
+
+> ○ *Dotazujici*
+
+> ○ *DSubjekt*
+
+> 2\) Odpověď je zabalena do *SOAP* obálky s hlavičkou, která obsahuje metadata zprávy a pečeť. Na každý dotaz je vytvořena právě jedna odpověď. Odpověď obsahuje tělo dotazu. Odpověď má následující strukturu:
+
+> • *SOAP-Envelope*
+
+> ○ *SOAP-Header*
+
+> ■ *Zprava*
+
+> ■ *Signature*
+
+> ○ *SOAP-Body*
+
+> ■ *Davka*
+
+> • *Odpoved*(kolekce)
+
+> ○ *Dotaz*
+
+> ■ *Dotazujici*
+
+> ■ *Dsubjekt*
+
+> ○ *Odpovidajici*
+
+> ○ *DSubjekt*
+
+> ○ *Ucet*(0..n)
+
+> ○ *Chyba*(místo *DSubjekt*a *Ucet*)
+
+> C) **Obsah datové zprávy**
+
+> 1\) Dotaz obsahuje prvky *Davka*, *Dotaz*, *Dotazujici*a *DSubjekt*ve struktuře podle části B. Každý prvek se skládá z atributů.
+
+> a) Prvek *Davka*
+
+> Jeden soubor může obsahovat dotaz na více subjektů. Prvek *Davka*obsahuje dotazy na jednotlivé subjekty.
+
+> | **Prvek** | **Atribut** | **Popis** |
+> |---|---|---|
+> | Davka | | identifikace dávky |
+> | | Id | Identifikátor pro podpis – musí být „Davka<sup>“</sup> |
+> | | CisloDavky | číslo dávky (dotazu) |
+> | | Pocet | počet dotazů/odpovědí v dávce |
+> | | KodFU | kód dotazující se krajské pobočky Úřadu práce |
+> | | JmenoFU | název dotazující se krajské pobočky Úřadu práce |
+> | | KodBanky | identifikační kód dotazovaného peněžního ústavu |
+> | | JmenoBanky | název dotazovaného peněžního ústavu |
+> | | DatumCasDotazu | datum a čas generování dotazu |
+> | | CisloDavkyOdpovedi | číslo odpovědi (pouze v odpovědi) |
+> | | DatumCasOdpovedi | datum a čas generování odpovědi (pouze v odpovědi) |
+
+> b) Prvek *Dotaz*
+
+> Prvek *Dotaz* obsahuje identifikaci osoby a identifikaci dotazujícího se.
+
+> Identifikace dotazu
+
+> | **Prvek** | **Atribut** | **Popis** |
+> |---|---|---|
+> | Dotaz | | |
+> | | TypDotazu | Uvede se "02" |
+> | | KodDotazu | Kód dotazu |
+
+> c) Prvek *Dotazujici*
+
+> Identifikace dotazující se osoby.
+
+> | **Prvek** | **Atribut** | **Popis** |
+> |---|---|---|
+> | Dotazujici | | |
+> | | Jmeno | Odpovědná osoba, jméno |
+> | | Cislo | Odpovědná osoba, identifikační číslo |
+
+> d) Prvek *DSubjekt*
+
+> Identifikace osoby, které se dotaz týká.
+
+> | **Prvek** | **Atribut** | **Popis** |
+> |---|---|---|
+> | DSubjekt | | |
+> | | RC | rodné číslo klienta |
+> | | Typ | Typ klienta |
+> | | Jmeno | Jméno |
+> | | Ulice | Ulice |
+> | | Obec | Obec |
+> | | PSC | Poštovní směrovací číslo |
+
+> 2\) Odpověď obsahuje prvky *Davka*, *Odpoved*, *Dotaz*, *Dotazujici*, *DSubjekt*, *Odpovidajici*, *Ucet*a *Chyba*. Prvky *Davka*, *Dotaz*, *Dotazujici*a *DSubjekt*jsou stejné jako v dotazu. Prvek *Dotaz*je kopií přijatého dotazu. Prvek *DSubjekt*v prvku *Odpoved* je tvořen z dat peněžního ústavu, ne kopií dotazu.
+
+> a) Prvek *Odpoved*
+
+> Prvek *Odpoved*obsahuje data o účtech osoby, které se dotaz týká, případně chybu, pokud peněžní ústav danou osobu nerozpozná.
+
+> | **Prvek** | **Atribut** | **Popis** |
+> |---|---|---|
+> | Odpoved | | Identifikace odpovědi |
+> | | KodDotazu | Kód dotazu |
+
+> b) Prvek *Odpovidajici*
+
+> Identifikace pracovníka odpovědného za správnost a úplnost odpovědi na straně peněžního ústavu.
+
+> | **Prvek** | **Atribut** | **Popis** |
+> |---|---|---|
+> | Odpovidajici | | |
+> | | Jmeno | Jméno |
+> | | Cislo | Číslo pracovníka |
+
+> c) Prvek *Ucet*
+
+> Identifikace účtu. Jeden záznam pro každý jeden nalezený účet.
+
+> | **Prvek** | **Atribut** | **Popis** |
+> |---|---|---|
+> | Ucet | | |
+> | | CisloUctu1 | 1. část čísla účtu |
+> | | CisloUctu2 | 2. část čísla účtu |
+> | | KodBanky | Kód peněžního ústavu |
+> | | SpecSymbolICS | Specifický symbol |
+> | | TypUctu | Typ účtu |
+> | | KodMeny | Měna |
+> | | Zustatek | Zůstatek |
+> | | Datum | Den stanoveného zůstatku |
+
+> d) Prvek *Chyba*
+
+> Prvek *Chyba*se vytváří v případě chyby vzniklé při zpracování odpovědi.
+
+> | **Prvek** | **Atribut** | **Popis** |
+> |---|---|---|
+> | Chyba | | |
+> | | Kod | Chybový kód (následující tabulka) |
+> | | Popis | Text chyby |
+
+> V komunikaci mezi krajskou pobočkou Úřadu práce a peněžním ústavem jsou rozpoznávány tyto chyby s těmito kódy:
+
+> | Chybový kód | Chybová zpráva | Komentář |
+> |---|---|---|
+> | -100 | Chybný kód banky | V headeru dotazu je chybný kód peněžního ústavu, který dotaz přijal. |
+> | -101 | Chybný autentikační kód | Došlo k chybě při kontrole autentikačního kódu, resp. podpisu. |
+> | -200 | Chybný typ dotazu | Typ dotazu je jiný než 01 / 02 / 03 / 04. |
+> | -201 | Chybí identifikace dotazujícího se subjektu | XML element dot:Dotazujici chybí nebo obsahuje některé prázdné atributy. |
+> | -300 | Chybí identifikace klienta | U dotazů typu 01 a 02 chybí element dot:DSubjekt nebo obsahuje pouze prázdné atributy. |
+> | -303 | Chybná identifikace klienta pomocí RČ | U dotazů typu 01 a 02 element dot:DSubjekt obsahuje chybnou hodnotu atributu rodného čísla. |
+> | -304 | Nejednoznačná identifikace klienta prostřednictvím RČ | U dotazů typu 01 a 02 je při generování odpovědi nalezeno více vlastníků (klientů) evidovaných pod jedním rodným číslem. |
+
+> 3\) Atributy prvků dotazu a odpovědi jsou vyplněny podle následujících pravidel:
+
+> | Prvek | Atribut | Max. <br> počet znaků | Popis pole |
+> |---|---|---|---|
+> | Dotaz | TypDotazu | 2 | Typ dotazu, vždy vyplněno hodnotou “02”. |
+> | Dotaz | KodDotazu | 10 | Jedinečný kód dotazu generovaný dotazující se krajskou pobočkou Úřadu práce. |
+> | Dotazujici,<br> Odpovidajici | Cislo | 8 | Identifikace odpovědné osoby, v dotazu číslo pracovníka krajské pobočky Úřadu práce, v odpovědi identifikace pracovníka peněžního ústavu. |
+> | Dotazujici,<br> Odpovidajici | Jmeno | 40 | Titul, jméno a příjmení dotazujícího se nebo odpovídajícího pracovníka. |
+> | DSubjekt | Typ | 1 | Vždy vyplněno jako “F”, fyzická osoba. |
+> | Dsubjekt | ICO | 10 | Není využíváno. |
+> | Dsubjekt | RC | 10 | Rodné číslo bez lomítka, devítimístné rodné číslo zůstává na 9 znaků. |
+> | Dsubjekt | Jmeno | 40 | Vyplněno pouze v odpovědi. |
+> | Dsubjekt | Ulice | 50 | Vyplněno pouze v odpovědi. |
+> | Dsubjekt | Obec | 50 | Vyplněno pouze v odpovědi. |
+> | Dsubjekt | PSC | 5 | Vyplněno pouze v odpovědi. |
+> | Ucet | CisloUctu1 | 6 | Nepovinné pole, je-li předčíslí rovno nule, není nutno jej uvádět. V předčíslí mohou být uvedeny úvodní nuly. Úvodní nuly jsou nevýznamové. Pole je variabilní délky. |
+> | Ucet | CisloUctu2 | 10 | Základní části čísla účtu. Mohou být uvedeny úvodní nuly. Úvodní nuly jsou nevýznamové. Pole je variabilní délky. |
+> | Ucet | KodBanky | 4 | Kód peněžního ústavu podle číselníku ČNB AP – 0001 s úvodními nulami. |
+> | Ucet | SpecSymbolCS | max. 10 znaků | Není využíváno. |
+> | Ucet | TypUctu | 1 | Vyplní se hodnotou “B” pro běžný účet, “V” pro vkladový účet, “J” pro jiný účet a “X” pro chráněný účet. |
+> | Ucet | KodMeny | 3 | ISO kód měny, ve které je veden účet. |
+> | Ucet | Zustatek | 15 | V jednotkách dané měny, přičemž poslední 2 místa oddělená desetinnou čárkou jsou desetinná místa příslušné měnové jednotky; bez úvodních nul, záporný zůstatek se znaménkem minus. |
+> | Ucet | Datum | 10 | Datum zůstatku na účtu. |
+>
+> .“.
+
+## ČÁST TŘETÍ – Změna vyhlášky o stanovení elektronické komunikace v oblasti státní sociální podpory
+
+### Čl. III
+
+Vyhláška č. 411/2023 Sb., o stanovení elektronické komunikace v oblasti státní sociální podpory, se mění takto:
+
+1\. V příloze č. 1 se v bodu A odst. 2 písm. a) slova „Systému pro správu identit a pověření České správy sociálního zabezpečení“ nahrazují slovy „elektronické služby „Správa plných mocí“ ePortálu České správy sociálního zabezpečení“.
+
+2\. V příloze č. 1 bodu A se na konci textu odstavce 3 doplňují slova „ , nebo datovou schránkou osoby, kterou zaměstnavatel zmocní prostřednictvím elektronické služby „Správa plných mocí“ ePortálu České správy sociálního zabezpečení“.
+
+3\. V příloze č. 2 bodu A odst. 2 písmeno a) zní:
+
+> „a) Pro odeslání JSON souboru s požadovanými daty se využije datová schránka dodavatele plynu nebo elektřiny.“.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. IV
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2024.
+
+Ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.

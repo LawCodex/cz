@@ -1,0 +1,100 @@
+---
+title: "Vyhláška č. 243/2025 Sb., o programech podpory zdraví"
+identifier: "243/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/243/2025-07-18"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-07-10
+effective: 2025-07-18
+last_amended: 2025-07-18
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/243"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 243/2025 Sb., o programech podpory zdraví
+
+243
+
+VYHLÁŠKA
+
+ze dne 10. července 2025
+
+o programech podpory zdraví
+
+Ministerstvo zdravotnictví stanoví podle § 95 odst. 1 zákona č. 373/2011 Sb., o specifických zdravotních službách, ve znění zákona č. 202/2017 Sb. a zákona č. 120/2025 Sb., (dále jen „zákon“) k provedení § 55a odst. 3 zákona:
+
+## § 1 – Úvodní ustanovení
+
+Tato vyhláška stanoví nástroje zdravotní prevence poskytované v rámci programu podpory zdraví, okruh osob, se kterými může zaměstnavatel spolupracovat při zajišťování programu podpory zdraví, a způsob vyhodnocování programu podpory zdraví.
+
+## § 2 – Nástroje zdravotní prevence
+
+(1) Nástroj zdravotní prevence poskytovaný zaměstnavatelem v rámci programu podpory zdraví směřuje k ochraně a podpoře zdraví zaměstnanců a vychází z poznatků o rizikových faktorech pracovních podmínek a vlivů pracovní činnosti na zdraví zaměstnanců a vlivu civilizačních chorob.
+
+(2) Nástrojem zdravotní prevence podle odstavce 1 je podpora
+
+a) preventivní péče,
+
+b) duševního zdraví a psychické odolnosti,
+
+c) snižování vlivu závislostí,
+
+d) rozvoje zdravotní gramotnosti,
+
+e) správné výživy a
+
+f) zlepšování kondice pohybového aparátu.
+
+## § 3 – Okruh osob spolupracujících při zajišťování programu podpory zdraví
+
+(1) Při zajišťování programu podpory zdraví, pokud jde o jeho zavedení, spolupracuje zaměstnavatel s osobami s prokazatelnou zkušeností v oblasti ochrany veřejného zdraví, kterými jsou
+
+a) lékař se specializovanou způsobilostí v oboru všeobecné praktické lékařství<sup>1</sup>),
+
+b) lékař se specializovanou způsobilostí v oboru pracovní lékařství<sup>1</sup>), nebo
+
+c) osoba s odbornou způsobilostí k výkonu povolání odborného pracovníka v ochraně a podpoře veřejného zdraví<sup>2</sup>).
+
+(2) Při zajišťování programu podpory zdraví, pokud jde o jeho realizaci, spolupracuje zaměstnavatel s osobami s odpovídající odbornou kvalifikací podle charakteru zvoleného nástroje pro realizaci opatření v rámci programu podpory zdraví, kterými jsou
+
+a) osoba se způsobilostí k výkonu zdravotnického povolání podle zákona o lékařských zdravotnických povoláních<sup>1</sup>),
+
+b) osoba se způsobilostí k výkonu zdravotnického povolání podle zákona o nelékařských zdravotnických povoláních<sup>2</sup>), nebo
+
+c) odborně způsobilá fyzická osoba k zajišťování úkolů v prevenci rizik podle zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci<sup>3</sup>).
+
+## § 4 – Způsob vyhodnocování programů podpory zdraví
+
+(1) Hodnocení programů podpory zdraví vychází zejména z
+
+a) porovnání výchozích a závěrečných souhrnných hodnot vývoje pracovní neschopnosti na pracovišti,
+
+b) využitelnosti programů podpory zdraví zaměstnanci,
+
+c) průběhu celkové organizace a realizace programů podpory zdraví,
+
+d) finanční efektivity programu podpory zdraví, je-li to účelné,
+
+e) přínosů z provedených programů podpory zdraví.
+
+(2) Na vyhodnocení programu podpory zdraví spolupracuje se zaměstnavatelem osoba s prokazatelnou zkušeností v oblasti ochrany veřejného zdraví, případně i další osoby, které spolupracovaly při zajišťování programů podpory zdraví; součástí vyhodnocení je návrh pro zefektivnění opatření v rámci programu podpory zdraví pro následující období.
+
+(3) Obdobím pro hodnocení programu podpory zdraví je dvanáct po sobě následujících měsíců kalendářního roku, ve kterých je program podpory zdraví uskutečňován a jsou sledovány jeho dopady.
+
+## § 5
+
+Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení.
+
+Ministr:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Zákon č. 96/2004 Sb., o podmínkách získávání a uznávání způsobilosti k výkonu nelékařských zdravotnických povolání a k výkonu činností souvisejících s poskytováním zdravotní péče a o změně některých souvisejících zákonů (zákon o nelékařských zdravotnických povoláních), ve znění pozdějších předpisů.
+
+<sup>3</sup>) Zákon č. 309/2006 Sb., kterým se upravují další požadavky bezpečnosti a ochrany zdraví při práci v pracovněprávních vztazích a o zajištění bezpečnosti a ochrany zdraví při činnosti nebo poskytování služeb mimo pracovněprávní vztahy (zákon o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci), ve znění pozdějších předpisů.

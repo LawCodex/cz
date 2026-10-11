@@ -1,0 +1,64 @@
+---
+title: "Vyhláška č. 398/2021 Sb., o ukončení platnosti bankovek po 100 Kč vzoru 1995 a vzoru 1997, bankovek po 200 Kč vzoru 1996 a vzoru 1998, bankovek po 500 Kč vzoru 1995 a vzoru 1997, bankovek po 1 000 Kč vzoru 1996 a bankovek po 2 000 Kč vzoru 1996 a vzoru 1999"
+identifier: "398/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/398/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-10-18
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/398"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 398/2021 Sb., o ukončení platnosti bankovek po 100 Kč vzoru 1995 a vzoru 1997, bankovek po 200 Kč vzoru 1996 a vzoru 1998, bankovek po 500 Kč vzoru 1995 a vzoru 1997, bankovek po 1 000 Kč vzoru 1996 a bankovek po 2 000 Kč vzoru 1996 a vzoru 1999
+
+398
+
+VYHLÁŠKA
+
+ze dne 18. října 2021
+
+o ukončení platnosti bankovek po 100 Kč vzoru 1995 a vzoru 1997, bankovek po 200 Kč vzoru 1996 a vzoru 1998, bankovek po 500 Kč vzoru 1995 a vzoru 1997, bankovek po 1 000 Kč vzoru 1996 a bankovek po 2 000 Kč vzoru 1996 a vzoru 1999
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. b) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 89/2018 Sb.:
+
+## § 1 – Ukončení platnosti bankovek
+
+Dnem 30. června 2022 se ukončuje platnost bankovek po 100 Kč vzoru 1995<sup>1</sup>), bankovek po 100 Kč vzoru 1997<sup>2</sup>), bankovek po 200 Kč vzoru 1996<sup>3</sup>), bankovek po 200 Kč vzoru 1998<sup>4</sup>), bankovek po 500 Kč vzoru 1995<sup>5</sup>), bankovek po 500 Kč vzoru 1997<sup>6</sup>), bankovek po 1 000 Kč vzoru 1996<sup>7</sup>), bankovek po 2 000 Kč vzoru 1996<sup>8</sup>) a bankovek po 2 000 Kč vzoru 1999<sup>9</sup>).
+
+## § 2 – Výměna bankovek
+
+Bankovky, jejichž platnost byla ukončena, vyměňují v době od 1. července 2022 do 30. června 2024 všechny úvěrové instituce provádějící pokladní operace<sup>10</sup>) a Česká národní banka a od 1. července 2024 pouze Česká národní banka, a to za podmínek stanovených zákonem o oběhu bankovek a mincí.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Guvernér:
+
+Ing. Rusnok v. r.
+
+---
+
+<sup>1</sup>) Vyhláška č. 65/1995 Sb., o vydání bankovek po 100 Kč vzoru 1995.
+
+<sup>2</sup>) Vyhláška č. 236/1997 Sb., o vydání bankovek po 100 Kč vzoru 1997.
+
+<sup>3</sup>) Vyhláška č. 198/1996 Sb., o vydání bankovek po 200 Kč vzoru 1996.
+
+<sup>4</sup>) Vyhláška č. 283/1998 Sb., o vydání bankovek po 200 Kč vzoru 1998.
+
+<sup>5</sup>) Vyhláška č. 268/1995 Sb., o vydání bankovek po 500 Kč vzoru 1995.
+
+<sup>6</sup>) Vyhláška č. 33/1998 Sb., o vydání bankovek po 500 Kč vzoru 1997.
+
+<sup>7</sup>) Vyhláška č. 279/1996 Sb., o vydání bankovek po 1 000 Kč vzoru 1996.
+
+<sup>8</sup>) Vyhláška č. 226/1996 Sb., o vydání bankovek po 2 000 Kč.
+
+<sup>9</sup>) Vyhláška č. 242/1999 Sb., o vydání bankovek po 2 000 Kč vzoru 1999.
+
+<sup>10</sup>) § 3 zákona č. 136/2011 Sb., o oběhu bankovek a mincí a o změně zákona č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů.

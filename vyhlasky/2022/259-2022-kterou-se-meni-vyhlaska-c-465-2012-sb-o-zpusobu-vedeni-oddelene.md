@@ -1,0 +1,38 @@
+---
+title: "Vyhláška č. 259/2022 Sb., kterou se mění vyhláška č. 465/2012 Sb., o způsobu vedení oddělené evidence nákladů a výnosů držitele poštovní licence, ve znění vyhlášky č. 404/2017 Sb."
+identifier: "259/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/259/2023-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-08-24
+effective: 2023-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/259"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 259/2022 Sb., kterou se mění vyhláška č. 465/2012 Sb., o způsobu vedení oddělené evidence nákladů a výnosů držitele poštovní licence, ve znění vyhlášky č. 404/2017 Sb.
+
+259
+
+VYHLÁŠKA
+
+ze dne 24. srpna 2022,
+
+kterou se mění vyhláška č. 465/2012 Sb., o způsobu vedení oddělené evidence nákladů a výnosů držitele poštovní licence, ve znění vyhlášky č. 404/2017 Sb.
+
+Český telekomunikační úřad stanoví podle § 41 odst. 1 zákona č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění zákona č. 221/2012 Sb., zákona č. 212/2013 Sb. a zákona č. 319/2015 Sb., k provedení § 33a odst. 2 zákona o poštovních službách:
+
+## Čl. I
+
+V § 4 vyhlášky č. 465/2012 Sb., o způsobu vedení oddělené evidence nákladů a výnosů držitele poštovní licence, ve znění vyhlášky č. 404/2017 Sb., se číslo „6,36“ nahrazuje číslem „5,25“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2023.
+
+Předsedkyně Rady Českého telekomunikačního úřadu:
+
+Mgr. Ing. Továrková v. r.

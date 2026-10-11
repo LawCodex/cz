@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 318/2022 Sb., o zrušení některých nařízení okresního úřadu Jičín spadajících do působnosti Ministerstva práce a sociálních věcí"
+identifier: "318/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/318/2023-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-10-14
+effective: 2023-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/318"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 318/2022 Sb., o zrušení některých nařízení okresního úřadu Jičín spadajících do působnosti Ministerstva práce a sociálních věcí
+
+318
+
+VYHLÁŠKA
+
+ze dne 14. října 2022
+
+o zrušení některých nařízení okresního úřadu Jičín spadajících do působnosti Ministerstva práce a sociálních věcí
+
+Ministerstvo práce a sociálních věcí stanoví podle § 9 odst. 1 a § 24 zákona č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění zákona č. 34/1970 Sb., zákona č. 203/1990 Sb., zákona č. 575/1990 Sb., zákona č. 474/1992 Sb., zákona č. 47/1994 Sb., zákona č. 272/1996 Sb., zákona č. 587/2004 Sb., zákona č. 189/2006 Sb. a zákona č. 250/2014 Sb., a podle čl. CXIX bodu 3 zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů:
+
+## § 1
+
+Zrušují se:
+
+1\. Nařízení okresního úřadu Jičín č. 2/2002 o převzetí přenesené působnosti (sociálně-právní ochrana dětí).
+
+2\. Nařízení okresního úřadu Jičín č. 3/2002 o převzetí přenesené působnosti (péče o těžce zdravotně postižené občany).
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2023.
+
+Ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.

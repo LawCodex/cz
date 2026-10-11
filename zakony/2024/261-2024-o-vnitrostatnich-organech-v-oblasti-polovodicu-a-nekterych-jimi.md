@@ -1,0 +1,66 @@
+---
+title: "Zákon č. 261/2024 Sb., o vnitrostátních orgánech v oblasti polovodičů a některých jimi vykonávaných činnostech"
+identifier: "261/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/261/2024-09-13"
+type: act
+jurisdiction: cz
+language: cs
+date: 2024-08-22
+effective: 2024-09-13
+last_amended: 2024-09-13
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/261"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 261/2024 Sb., o vnitrostátních orgánech v oblasti polovodičů a některých jimi vykonávaných činnostech
+
+261
+
+ZÁKON
+
+ze dne 22. srpna 2024
+
+o vnitrostátních orgánech v oblasti polovodičů a některých jimi vykonávaných činnostech
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1 – Předmět úpravy
+
+Tento zákon upravuje v návaznosti na přímo použitelný předpis Evropské unie<sup>1</sup>) působnost příslušných vnitrostátních orgánů v oblasti polovodičů a některé jimi vykonávané činnosti.
+
+## § 2 – Působnost v oblasti polovodičů
+
+(1) Ministerstvo průmyslu a obchodu je příslušným vnitrostátním orgánem podle nařízení Evropského parlamentu a Rady (EU) 2023/1781 a plní povinnosti a vykonává pravomoci stanovené členským státům Evropské unie a smluvním státům Dohody o Evropském hospodářském prostoru (dále jen „členský stát“) tímto nařízením, nestanoví-li odstavec 3 jinak.
+
+(2) Ministerstvo průmyslu a obchodu je jednotným kontaktním místem podle čl. 31 odst. 3 nařízení Evropského parlamentu a Rady (EU) 2023/1781.
+
+(3) Ministerstvo školství, mládeže a tělovýchovy (dále jen „ministerstvo“) je příslušným vnitrostátním orgánem podle nařízení Evropského parlamentu a Rady (EU) 2023/1781 a plní povinnosti a vykonává pravomoci stanovené členským státům tímto nařízením, jde-li o čl. 3 až 12 tohoto nařízení.
+
+## § 3 – Výběr kandidátských kompetenčních center
+
+(1) Ministerstvo vyhlásí proces výběru kandidátských kompetenčních center (dále jen „proces výběru“) na svých internetových stránkách. Ve vyhlášení stanoví podmínky procesu výběru, lhůtu, do které lze podat nabídku, a lhůtu pro oznámení vybraných nabídek.
+
+(2) Ministerstvo může v podmínkách procesu výběru určit, že nabídku uchazeče lze změnit nebo doplnit, a to ve lhůtě pro podání nabídek podle odstavce 1.
+
+(3) Ministerstvo může proces výběru podle odstavce 1 zrušit; zrušení procesu výběru uveřejní na svých internetových stránkách.
+
+(4) Ministerstvo zahrne nabídku uchazeče do procesu výběru, odpovídá-li její obsah podmínkám procesu výběru. Ministerstvo do procesu výběru nezahrne nabídku uchazeče předloženou po lhůtě pro podání nabídek podle odstavce 1.
+
+(5) Uchazeč nemá právo na náhradu nákladů spojených s účastí v procesu výběru.
+
+(6) Ministerstvo oznámí výsledek procesu výběru ve lhůtě pro oznámení vybraných nabídek podle odstavce 1.
+
+## § 4 – Účinnost
+
+Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Pekarová Adamová v. r.
+
+Pavel v. r.
+
+Fiala v. r.
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) 2023/1781 ze dne 13. září 2023, kterým se zřizuje rámec opatření pro posílení evropského ekosystému polovodičů a mění nařízení (EU) 2021/694 (akt o čipech).

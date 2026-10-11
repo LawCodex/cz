@@ -1,0 +1,98 @@
+---
+title: "Vyhláška č. 82/2026 Sb., o závazném postupu při monitoringu eroze zemědělské půdy"
+identifier: "82/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/82/2026-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2026-05-25
+effective: 2026-07-01
+last_amended: 2026-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/82"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 82/2026 Sb., o závazném postupu při monitoringu eroze zemědělské půdy
+
+82
+
+VYHLÁŠKA
+
+ze dne 25. května 2026
+
+o závazném postupu při monitoringu eroze zemědělské půdy
+
+Ministerstvo zemědělství stanoví podle § 1 odst. 8 zákona č. 503/2012 Sb., o Státním pozemkovém úřadu a o změně některých souvisejících zákonů, ve znění zákona č. 287/2025 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška upravuje závazný postup Státního pozemkového úřadu při monitoringu eroze zemědělské půdy (dále jen „monitoring eroze“).
+
+## § 2 – Vymezení pojmů
+
+Pro účely této vyhlášky se rozumí
+
+a) erozním projevem viditelný projev části nebo celého erozního procesu<sup>1</sup>),
+
+b) R faktorem průměrná hodnota faktoru erozní účinnosti deště, poskytnutá Českým hydrometeorologickým ústavem, vyjádřená v závislosti na kinetické energii a intenzitě erozně nebezpečných dešťů pro konkrétní místo a časové období, a
+
+c) R faktorem příčinné srážky hodnota R faktoru pro srážku, která vyvolala erozní událost, poskytnutá Českým hydrometeorologickým ústavem, vyjádřená v závislosti na kinetické energii a intenzitě této srážky pro dané místo.
+
+## § 3 – Monitoring eroze
+
+(1) Nejpozději do 6 pracovních dnů ode dne zjištění o vzniku erozní události provede Státní pozemkový úřad šetření na místě, při němž zaznamená zjištěné erozní projevy na dotčené zemědělské půdě a pořídí jejich fotodokumentaci.
+
+(2) Státní pozemkový úřad na základě šetření podle odstavce 1 pořizuje záznam erozní události, který obsahuje
+
+a) lokalizační údaje, jimiž se rozumí katastrální území, vymezení plochy vzniku erozních projevů, grafický zákres hlavních erozních projevů a seznam zasažených dílů půdních bloků,
+
+b) datum a časové rozmezí vzniku erozní události,
+
+c) datum zjištění z vlastní činnosti nebo obdržení hlášení,
+
+d) datum místního šetření,
+
+e) formu erozního projevu,
+
+f) fotodokumentaci erozního projevu v rámci celého erozně uzavřeného celku<sup>1</sup>),
+
+g) fotodokumentaci a slovní popis viditelných škod vzniklých v intravilánu, na dopravní infrastruktuře, porostech, půdě, technické infrastruktuře, prvcích vodohospodářské infrastruktury nebo na jiných objektech mimo zemědělskou půdu, pokud taková škoda vznikla,
+
+h) údaj o pěstovaných plodinách na zasažené zemědělské půdě, pokud je dostupný,
+
+i) údaj o realizovaných protierozních opatřeních na zasažené zemědělské půdě, pokud je dostupný<sup>2</sup>),
+
+j) určení, zda erozní projev překročil hranici dílu půdního bloku, na kterém erozní proces započal,
+
+k) hodnotu R faktoru a hodnotu R faktoru příčinné srážky v případě vodní eroze,
+
+l) přípustný součin faktoru ochranného vlivu vegetace a účinnosti protierozních opatření vzhledem k přípustné míře erozního ohrožení (C<sub>p</sub>.P<sub>p</sub>)<sup>1</sup>), a
+
+m) hodnotu součinu faktoru ochranného vlivu vegetace a faktoru účinnosti protierozních opatření (C.P) stanovený na základě výše zaznamenaných údajů.
+
+(3) Záznam erozní události Státní pozemkový úřad zaznamenává do monitoringu eroze<sup>3</sup>).
+
+(4) Do 15 kalendářních dnů od ukončení místního šetření podle odstavce 1 Státní pozemkový úřad zveřejní záznam erozní události na své úřední desce po dobu 30 kalendářních dnů.
+
+## § 4 – Zpřístupnění záznamu
+
+(1) Státní pozemkový úřad zpřístupňuje záznamy o erozních událostech v monitoringu eroze<sup>3</sup>).
+
+(2) Záznamy zpřístupněné podle odstavce 1 neobsahují osobní údaje.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2026.
+
+Ministr:
+
+Ing. Šebestyán, MBA, v. r.
+
+---
+
+<sup>1</sup>) Vyhláška č. 240/2021 Sb., o ochraně zemědělské půdy před erozí.
+
+<sup>2</sup>) § 7 vyhlášky č. 240/2021 Sb.
+
+<sup>3</sup>) § 2 písm. a) vyhlášky č. 240/2021 Sb.

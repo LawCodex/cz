@@ -1,0 +1,67 @@
+---
+title: "Nařízení vlády č. 420/2022 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů"
+identifier: "420/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/420/2023-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2022-12-07
+effective: 2023-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/420"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 420/2022 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+420
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 7. prosince 2022,
+
+kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 68 odst. 2 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 332/2014 Sb.:
+
+## Čl. I
+
+V § 2 nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění nařízení vlády č. 282/2015 Sb., nařízení vlády č. 346/2016 Sb., nařízení vlády č. 427/2016 Sb., nařízení vlády č. 175/2017 Sb., nařízení vlády č. 328/2017 Sb., nařízení vlády č. 305/2018 Sb., nařízení vlády č. 322/2019 Sb. a nařízení vlády č. 533/2021 Sb., odstavec 1 zní:
+
+> „(1) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 2 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | ve výši minimální mzdy |
+> | Svobodník | 30 310 |
+> | Desátník | 31 890 |
+> | Četař | 33 630 |
+> | Rotný | 38 810 |
+> | Rotmistr | 41 410 |
+> | Nadrotmistr | 44 030 |
+> | Praporčík | 46 910 |
+> | Nadpraporčík | 50 050 |
+> | Štábní praporčík | 64 490 |
+> | Poručík | 44 290 |
+> | Nadporučík | 50 050 |
+> | Kapitán | 57 280 |
+> | Major | 64 490 |
+> | Podplukovník | 71 710 |
+> | Plukovník | 86 150 |
+> | Brigádní generál | 100 580 |
+> | Generálmajor | 114 990 |
+> | Generálporučík | 129 430 |
+> | Armádní generál | 143 850.“. |
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2023.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministryně obrany:
+
+Mgr. Černochová v. r.

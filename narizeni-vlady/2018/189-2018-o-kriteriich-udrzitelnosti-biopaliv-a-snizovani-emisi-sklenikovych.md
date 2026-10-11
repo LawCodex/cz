@@ -1,0 +1,1108 @@
+---
+title: "Nařízení vlády č. 189/2018 Sb., o kritériích udržitelnosti biopaliv a snižování emisí skleníkových plynů z pohonných hmot"
+identifier: "189/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/189/2026-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2018-08-15
+effective: 2018-09-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/189"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 189/2018 Sb., o kritériích udržitelnosti biopaliv a snižování emisí skleníkových plynů z pohonných hmot
+
+189
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 15. srpna 2018
+
+o kritériích udržitelnosti biopaliv a snižování emisí skleníkových plynů z pohonných hmot
+
+Vláda nařizuje podle § 19 odst. 12, § 20a odst. 7, § 20b odst. 5 a § 21 odst. 13 zákona č. 201/2012 Sb., o ochraně ovzduší, ve znění zákona č. 172/2018 Sb., (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+Toto nařízení zapracovává příslušné předpisy Evropské unie<sup>1</sup>) a upravuje
+
+a) kritéria udržitelnosti a úspor emisí skleníkových plynů pro biopaliva,
+
+b) základní hodnotu produkce emisí skleníkových plynů pro fosilní pohonné hmoty,
+
+c) způsob výpočtu emisí skleníkových plynů z pohonných hmot,
+
+d) obsahové náležitosti zprávy o emisích,
+
+e) seznam surovin pro výrobu pokročilých biopaliv a seznam surovin pro výrobu vyspělých biopaliv,
+
+f) požadavky na systém kvality a systém hmotnostní bilance zabezpečující plnění kritérií udržitelnosti a úspor emisí skleníkových plynů pro biopaliva a náležitosti dokumentace pěstitele biomasy,
+
+g) náležitosti certifikátů podle § 21 odst. 1 až 3 zákona a
+
+h) náležitosti samostatného prohlášení pěstitele biomasy o splnění kritérií udržitelnosti, dílčího prohlášení o shodě s kritérii udržitelnosti a prohlášení o shodě s kritérii udržitelnosti.
+
+## § 2 – Vymezení pojmů
+
+Pro účely tohoto nařízení se rozumí
+
+a) odpadem odpad podle zákona o odpadech<sup>2</sup>) s výjimkou látek, které byly záměrně změněny nebo kontaminovány, aby se staly odpadem,
+
+b) biologickým odpadem biologický odpad podle zákona o odpadech<sup>2</sup>),
+
+c) lignocelulózovou vláknovinou vláknovina obsahující lignin, celulózu a hemicelulózu,
+
+d) nepotravinářskou celulózovou vláknovinou vstupní suroviny skládající se především z celulózy a hemicelulózy a mající nižší obsah ligninu než lignocelulózové vláknoviny, včetně zbytků potravinářských a krmných plodin,
+
+e) zbytkem ze zpracování látka, která není konečným produktem, jenž má být přímo vyroben v procesu výroby; nejedná se o primární cíl výrobního procesu a proces nebyl záměrně upraven pro jeho výrobu,
+
+f) zbytky ze zemědělství, akvakultury, rybolovu a lesnictví zbytky, které pocházejí přímo ze zemědělství, akvakultury, rybolovu a lesnictví; nezahrnují zbytky ze souvisejících odvětví nebo zpracování,
+
+g) trvalými kulturami víceleté plodiny, jejichž kmen se zpravidla nesklízí ročně,
+
+h) oblastí těžby lesní biomasy zeměpisně vymezená oblast, ve které
+
+1\. je získávána lesní biomasa,
+
+2\. jsou k dispozici důvěryhodné a nezávislé informace sloužící k ověření splnění kritérií udržitelnosti a
+
+3\. jsou podmínky dostatečně homogenní pro vyhodnocení, zda je lesní biomasa využívána udržitelně a legálně,
+
+i) obnovením lesa obnova lesního porostu, k níž dochází přirozenou či umělou cestou poté, co byl předchozí lesní porost odstraněn vykácením nebo v důsledku přirozených příčin včetně požáru nebo bouře.
+
+## § 3 – Kritéria udržitelnosti a úspor emisí skleníkových plynů pro biopaliva
+
+(1) Biopaliva splňují kritéria udržitelnosti a úspor emisí skleníkových plynů, pokud
+
+a) vykazují úsporu emisí skleníkových plynů podle odstavce 3 a
+
+b) biomasa použitá k jejich výrobě splňuje kritéria udržitelnosti a úspor emisí skleníkových plynů uvedená v § 4, jde-li o zemědělskou biomasu, nebo v § 4a, jde-li o lesní biomasu.
+
+(2) Biopaliva vyrobená z odpadu nebo zbytků, které nepocházejí ze zemědělství, akvakultury, rybolovu nebo lesnictví, splňují kritéria udržitelnosti, pokud vykazují úsporu emisí skleníkových plynů podle odstavce 3. Biopaliva vyrobená z odpadu nebo zbytků ze zemědělství splňují kritéria udržitelnosti, pokud vedle úspory emisí skleníkových plynů podle odstavce 3 a splnění kritérií udržitelnosti podle § 4 má pěstitel biomasy zavedeno systematické monitorování s cílem zabránit negativním dopadům získávání odpadů nebo zbytků na kvalitu půdy a uhlík v půdě.
+
+(3) Úspora emisí skleníkových plynů vzniklých během úplného životního cyklu biopaliva oproti základní hodnotě produkce emisí skleníkových plynů pro fosilní pohonné hmoty musí činit nejméně
+
+a) 50 % v případě biopaliv vyrobených ve zpracovatelském zařízení uvedeném do provozu nejpozději 5. října 2015,
+
+b) 60 % v případě biopaliv vyrobených ve zpracovatelském zařízení uvedeném do provozu od 6. října 2015 do 31. prosince 2020, nebo
+
+c) 65 % v případě biopaliv vyrobených ve zpracovatelském zařízení uvedeném do provozu 1. ledna 2021 nebo později.
+
+(4) Za den uvedení zpracovatelského zařízení do provozu se považuje den zahájení výroby biopaliva.
+
+(5) Úspora emisí skleníkových plynů vzniklých během úplného životního cyklu biopaliva oproti základní hodnotě produkce emisí skleníkových plynů pro fosilní pohonné hmoty se stanoví
+
+a) použitím standardních hodnot úspor emisí skleníkových plynů pro biopaliva uvedených v části A přílohy č. 1 k tomuto nařízení v případě, že hodnota e<sub>1</sub> vypočítaná podle bodu 1 části B. přílohy č. 1 k tomuto nařízení je rovna nule nebo je nižší,
+
+b) výpočtem ze skutečných hodnot emisí skleníkových plynů při používání biopaliv zjištěných způsobem uvedeným v části B přílohy č. 1 k tomuto nařízení, nebo
+
+c) výpočtem podle vzorců uvedených v bodech 1 a 3 části B přílohy č. 1 k tomuto nařízení za použití některých dílčích standardních hodnot emisí skleníkových plynů pro biopaliva uvedených v části C přílohy č. 1 k tomuto nařízení.
+
+## § 4 – Kritéria udržitelnosti zemědělské biomasy
+
+(1) Zemědělská biomasa splňující kritéria udržitelnosti nesmí pocházet z půdy, která měla ke dni 1. ledna 2008 nebo později jeden z uvedených statusů:
+
+a) les a jiná zalesněná plocha s původními druhy, kde nejsou žádné viditelné známky lidské činnosti a kde nejsou významně narušeny ekologické procesy, a prales, jak je definován v zemi, kde se les nachází,
+
+b) vysoce biologicky rozmanitý les a jiné zalesněné plochy, které jsou druhově bohaté a neznehodnocené nebo byly orgánem k tomu příslušným v daném státě označeny jako vysoce biologicky rozmanité, pokud není prokázáno, že získávání biomasy nezasahovalo do účelů ochrany přírody,
+
+c) oblast stanovená
+
+1\. právním předpisem<sup>4</sup>) nebo příslušným orgánem k účelům ochrany přírody, pokud pěstování biomasy zasahuje do tohoto účelu, nebo
+
+2\. rozhodnutím Evropské komise podle čl. 30 odst. 4 prvního pododstavce směrnice Evropského parlamentu a Rady (EU) 2018/2001, ve znění směrnice Evropského parlamentu a Rady (EU) 2023/2413 , za účelem ochrany vzácných nebo ohrožených ekosystémů nebo druhů, pokud pěstování biomasy zasahuje do uvedených účelů ochrany přírody, nebo
+
+d) vysoce biologicky rozmanitý travní porost určený podle přímo použitelného předpisu Evropské unie stanovujícího kritéria a zeměpisné oblasti k určení vysoce biologicky rozmanitých travních porostů<sup>5</sup>) o rozloze větší než 1 hektar, a to
+
+1\. původní travní porost, který by bez lidského zásahu zůstal zachován jako takový a který stále vykazuje přirozené složení druhů a ekologické charakteristiky a procesy, nebo
+
+2\. nepůvodní travní porost, který by bez lidského zásahu nezůstal zachován jako travní porost a který je druhově bohatý a neznehodnocený a lze jej považovat za vysoce biologicky rozmanitý podle odstavce 2, pokud není prokázáno, že získávání biomasy je nezbytné k uchování statusu vysoce biologicky rozmanitého travního porostu, nebo
+
+e) vřesoviště.
+
+(2) Travní porost podle odstavce 1 písm. d) bodu 2 nacházející se na území České republiky je považován za vysoce biologicky rozmanitý v případě, že je předmětem písemné dohody o provádění péče o pozemky z důvodů ochrany přírody podle zákona o ochraně přírody a krajiny<sup>7</sup>) anebo je na něm vymezen nadstavbový titul podopatření ošetřování travních porostů v rámci agroenvironmentálně-klimatických opatření nebo navazujících opatření<sup>8</sup>). Travní porost podle odstavce 1 písm. d) bodu 2 nacházející se mimo území České republiky je považován za vysoce biologicky rozmanitý v případě, že byl orgánem k tomu příslušným v daném státě nebo právním předpisem daného státu označen jako vysoce biologicky rozmanitý.
+
+(3) Zemědělská biomasa splňující kritéria udržitelnosti nesmí pocházet z půdy, která byla ke dni 1. ledna 2008
+
+a) půdou pokrytou nebo nasycenou vodou trvale nebo po významnou část roku,
+
+b) plochou o rozloze větší než 1 hektar se stromy vyššími než 5 metrů a pokryvem koruny tvořícím více než 30 % nebo se stromy schopnými dosáhnout těchto limitů v daném místě, nebo
+
+c) plochou o rozloze větší než 1 hektar se stromy vyššími než 5 metrů a pokryvem koruny tvořícím 10 až 30 % nebo se stromy schopnými dosáhnout těchto limitů v daném místě, pokud není prokázáno, že při uplatnění způsobu výpočtu stanoveného v části B přílohy č. 1 k tomuto nařízení je zásoba uhlíku v oblasti předtím, než došlo k přeměně půdy, a po její přeměně taková, že by podmínky stanovené v § 3 odst. 3 byly splněny.
+
+(4) Ustanovení odstavce 3 se nepoužije, má-li půda stále status podle odstavce 3 písm. a), b) nebo c) nebo jej měla v době, kdy byla biomasa získána.
+
+(5) Zemědělská biomasa splňující kritéria udržitelnosti nesmí pocházet z půdy, která byla ke dni 1. ledna 2008 rašeliništěm, pokud není prokázáno, že její pěstování a získávání nezahrnuje odvodňování dříve neodvodňované půdy.
+
+(6) Nejsou-li splněny podmínky podle § 4a odst. 1 písm. f) a g), použijí se podmínky podle odstavce 1 písm. a), b), d) a e), odstavce 3 písm. a) a odstavce 5 i na prokázání splnění kritérií udržitelnosti lesní biomasy podle § 4a.
+
+## § 4a – Kritéria udržitelnosti lesní biomasy
+
+(1) Lesní biomasa splňuje kritéria udržitelnosti, pokud je vytěžena na území státu, jehož právní předpisy zajišťují
+
+a) zákonnost provádění těžby lesní biomasy a její vymáhání,
+
+b) obnovení lesa ve vytěžených oblastech,
+
+c) ochranu oblastí, které jsou mezinárodní smlouvou, vnitrostátním právním předpisem nebo rozhodnutím příslušného orgánu určeny pro účely ochrany přírody, včetně mokřadů, travních porostů, vřesovišť a rašelinišť, v zájmu zachování biologické rozmanitosti a s cílem zabránit ničení stanovišť,
+
+d) provádění těžby lesní biomasy s ohledem na zachování kvality půdy a biologické rozmanitosti podle zásad udržitelného obhospodařování v lesích s cílem předejít jakýmkoli negativním dopadům, a to způsobem, který zabrání těžbě pařezů a kořenů, degradaci původních lesů a pralesů, jak jsou definovány v zemi, kde se les nachází, nebo jejich přeměně na pěstované lesy a těžbě lesní biomasy na zranitelných půdách; při těžbě lesní biomasy se dodržují mezní hodnoty pro výměru holoseče, která je stanovena v zemi, kde se les nachází, a dodržují se místně a ekologicky vhodné mezní hodnoty pro těžbu mrtvé dřevní hmoty a těžba lesní biomasy splňuje požadavky na používání systémů těžby dřeva, které minimalizují jakýkoli nepříznivý dopad na kvalitu půdy, včetně zhutňování půdy, a na prvky biologické rozmanitosti a stanoviště,
+
+e) provádění těžby lesní biomasy způsobem, který zachovává nebo zlepšuje dlouhodobou produkční kapacitu lesa,
+
+f) ve vztahu k lesům, v nichž se těží lesní biomasa, že tyto lesy nerostou na půdě, která má status uvedený v § 4 odst. 1 písm. a), b), d) a e), v § 4 odst. 3 písm. a) a v § 4 odst. 5, přičemž pro určení statusu půdy platí tatáž pravidla, která jsou uvedena v těchto odstavcích, a
+
+g) ve vztahu k osobě vyrábějící biopalivo z lesní biomasy, že tato osoba vydává na základě používání vlastních interních postupů prohlášení, jimiž pro účely ověřování plnění kritérií udržitelnosti a úspor emisí skleníkových plynů prokazuje, že lesní biomasa není získávána z půdy uvedené v písmenu f).
+
+(2) Nelze-li prokázat splnění kritérií udržitelnosti podle odstavce 1, splňuje lesní biomasa kritéria udržitelnosti, pokud je v dané oblasti těžby lesní biomasy zaveden systém lesního hospodaření, který zajišťuje alespoň plnění požadavků podle odstavce 1 písm. a) až e). Požadavek podle odstavce 1 písm. c) je splněn také tehdy, je-li prokázáno, že těžba lesní biomasy není v rozporu s uvedenými účely ochrany přírody, včetně ochrany mokřadů a rašelinišť.
+
+(3) Vedle plnění požadavků podle odstavce 1 nebo 2 musí být stát, na jehož území byla lesní biomasa vytěžena, smluvní stranou Pařížské dohody<sup>9</sup>) a současně
+
+a) předložil sekretariátu Rámcové úmluvy Organizace spojených národů o změně klimatu<sup>10</sup>) vnitrostátně stanovený příspěvek zahrnující emise a pohlcování emisí ze zemědělství, lesnictví a využívání půdy, jenž zaručuje, že změny v zásobě uhlíku spojené s těžbou biomasy jsou započteny do závazku daného státu ke snížení nebo omezení emisí skleníkových plynů, jak je uvedeno ve vnitrostátně stanoveném příspěvku, nebo
+
+b) má na celostátní nebo nižší úrovni v souladu s čl. 5 Pařížské dohody zavedeny právní předpisy použitelné v oblasti těžby, jejichž cílem je zachovat a posílit zásoby uhlíku a propady, a poskytl důkaz o tom, že vykazované emise odvětví využívání půdy, změn ve využívání půdy a lesnictví nepřekračují pohlcení.
+
+(4) Nelze-li prokázat splnění kritérií udržitelnosti podle odstavce 3, považuje se lesní biomasa za splňující kritéria udržitelnosti, pokud je v dané oblasti těžby lesní biomasy zaveden systém lesního hospodaření zajišťující, že jsou dlouhodobě zachovány nebo dlouhodobě posíleny zásoby uhlíku nebo úrovně propadů v daném lese.
+
+## § 5 – Základní hodnota produkce emisí skleníkových plynů pro fosilní pohonné hmoty a způsob výpočtu emisí skleníkových plynů z pohonných hmot
+
+(1) Základní hodnota produkce emisí skleníkových plynů pro fosilní pohonné hmoty činí 94 gCO<sub>2ekv</sub>/MJ.
+
+(2) Způsob výpočtu emisí skleníkových plynů z pohonných hmot je stanoven v příloze č. 2 k tomuto nařízení.
+
+## § 6 – Obsahové náležitosti zprávy o emisích
+
+(1) Zpráva o emisích musí obsahovat informace o
+
+a) celkovém množství každého druhu dodané vybrané pohonné hmoty,
+
+b) množství emisí skleníkových plynů na jednotku energie obsaženou v dodaných druzích pohonných hmot a pro informativní účely rovněž o množství předběžně odhadovaných emisí skleníkových plynů z biopaliv vyplývajících z nepřímé změny ve využívání půdy uvedeném v příloze č. 3 k tomuto nařízení,
+
+c) způsobech výroby dodaných biopaliv a biometanu,
+
+d) celkovém snížení emisí skleníkových plynů z dodaných vybraných pohonných hmot,
+
+e) celkovém množství dodaných pokročilých biopaliv, pokročilého biometanu, obnovitelných paliv nebiologického původu a recyklovaných paliv s obsahem uhlíku a jejich dosažené podíly,
+
+f) celkovém množství biopaliv vyrobených z potravinářských a krmných plodin a ze surovin pro výrobu vyspělých biopaliv a jejich dosažené podíly,
+
+g) převodu nadměrného snížení emisí skleníkových plynů nebo nadměrného množství pokročilého biometanu, pokročilých biopaliv nebo obnovitelných paliv nebiologického původu z plnění povinnosti předchozího nebo do plnění povinnosti následujícího roku,
+
+h) množství úspory emisí skleníkových plynů nebo části úspory emisí skleníkových plynů přenechané mezi dodavateli pohonných hmot,
+
+i) množství energie nebo části dodaného množství energie v pokročilých biopalivech, pokročilém biometanu nebo obnovitelných palivech nebiologického původu přenechané mezi dodavateli pohonných hmot.
+
+(2) V případě použití více druhů vstupních surovin se uvádí množství konečného produktu vyrobeného v příslušném zpracovatelském zařízení v předmětném roce, za který se podává zpráva o emisích, u každé z těchto vstupních surovin.
+
+## § 7 – Suroviny pro výrobu pokročilých biopaliv a vyspělých biopaliv
+
+(1) Seznam surovin pro výrobu pokročilých biopaliv je uveden v části A přílohy č. 4 k tomuto nařízení.
+
+(2) Seznam surovin pro výrobu vyspělých biopaliv je uveden v části B přílohy č. 4 k tomuto nařízení.
+
+## § 9 – Požadavky na systém kvality a systém hmotnostní bilance zabezpečující plnění kritérií udržitelnosti a úspor emisí skleníkových plynů pro biopaliva a náležitosti dokumentace pěstitele biomasy
+
+(1) Systém kvality musí v jakémkoliv okamžiku umožňovat prokázání původu biomasy, meziproduktů a samotných biopaliv a musí zahrnovat
+
+a) zavedení a vykazování systému hmotnostní bilance prokazujícího plně původ biomasy, meziproduktů nebo samotných biopaliv splňujících kritéria udržitelnosti a úspor emisí skleníkových plynů,
+
+b) vedení evidence příchozích a odchozích produktů a jejich evidenční provázání na přijatá samostatná prohlášení, přijatá a vydaná dílčí prohlášení o shodě a přijatá a vydaná prohlášení o shodě s kritérii udržitelnosti,
+
+c) vedení evidence vnitropodnikových procesů zajišťujících správnost a průkaznost postupů podle písmen a) a b) a
+
+d) uchovávání evidence podle písmen b) a c) po dobu nejméně 5 let od přijetí nebo odeslání dodávky.
+
+(2) Systém hmotnostní bilance musí umožňovat, aby dodávky biomasy, meziproduktů nebo biopaliv, které splňují kritéria udržitelnosti a úspor emisí skleníkových plynů, byly míseny, přestože vykazují rozdílné parametry udržitelnosti a úspor emisí skleníkových plynů. Systém hmotnostní bilance musí také umožňovat mísení dodávek surovin s různým energetickým obsahem pro účely dalšího zpracování za podmínky, že velikost dodávek je upravena podle jejich energetického obsahu, a dále musí zajistit, aby
+
+a) informace o velikosti dodávek a o parametrech udržitelnosti a úspor emisí skleníkových plynů u jednotlivých příchozích a odchozích dodávek biomasy, meziproduktů nebo biopaliv byly součástí dokumentace doprovázející směs a aby v případě, že na výrobu dodávky byla poskytnuta podpora, tato dokumentace zahrnovala též informaci, o jaký typ režimu podpory se jednalo,
+
+b) parametry udržitelnosti a úspor emisí skleníkových plynů všech dodávek splňujících kritéria udržitelnosti přidaných do směsi se rovnaly nebo byly větší než parametry udržitelnosti a úspor emisí skleníkových plynů dodávek splňujících kritéria udržitelnosti odebraných ze směsi; tyto bilance musí být uzavřeny vždy nejpozději k poslednímu dni platnosti certifikátu podle § 21 odst. 1 až 3 zákona, ne však dříve než 30 dní před koncem jeho platnosti; příchozí a odchozí dodávky biomasy, meziproduktů nebo biopaliv, které byly nakoupeny nebo prodány po dni uzavření bilancí do posledního dne platnosti certifikátu, se započítávají do následujícího bilančního období a
+
+c) v případě smíchání produktů splňujících kritéria udržitelnosti a úspor emisí skleníkových plynů s produkty, které tato kritéria nesplňují, množství produktů splňujících kritéria udržitelnosti a úspor emisí skleníkových plynů přidaných do směsi bylo zjištěno předem a množství produktů, které budou ze směsi odebrány a mají sloužit jako produkty splňující kritéria udržitelnosti a úspor emisí skleníkových plynů, nebylo vyšší než množství produktů splňujících kritéria udržitelnosti a úspor emisí skleníkových plynů do směsi přidaných.
+
+(3) Pokud je dodávka biomasy nebo meziproduktů zpracovávána, související informace o úsporách emisí skleníkových plynů a parametrech udržitelnosti se upraví a spojí s výstupem, přičemž
+
+a) je-li výsledkem zpracování dodávky biomasy nebo meziproduktů​ pouze jeden výstup určený pro výrobu biopaliv, velikost dodávky a související úspora emisí skleníkových plynů a parametry udržitelnosti se upraví použitím konverzního faktoru představujícího poměr mezi hmotností výstupu určeného pro tuto výrobu a hmotností suroviny vstupující do procesu, nebo
+
+b) je-li výsledkem zpracování dodávky biomasy nebo meziproduktů více než jeden výstup určený pro výrobu biopaliv, uplatní se na každý výstup samostatný konverzní faktor a použije se samostatná hmotnostní bilance.
+
+(4) Náležitosti evidence podle odstavce 1 písm. b) a d) jsou stanoveny v části A přílohy č. 5 k tomuto nařízení.
+
+(5) Náležitosti dokumentace pěstitele biomasy jsou stanoveny v části B přílohy č. 5 k tomuto nařízení.
+
+## § 10 – Náležitosti certifikátů podle § 21 odst. 1 až 3 zákona, samostatného prohlášení pěstitele biomasy o splnění kritérií udržitelnosti, dílčího prohlášení o shodě s kritérii udržitelnosti a prohlášení o shodě s kritérii udržitelnosti
+
+(1) Náležitosti certifikátů podle § 21 odst. 1 až 3 zákona jsou stanoveny v části A přílohy č. 6 k tomuto nařízení.
+
+(2) Náležitosti samostatného prohlášení pěstitele biomasy o splnění kritérií udržitelnosti, náležitosti dílčího prohlášení o shodě s kritérii udržitelnosti a náležitosti prohlášení o shodě s kritérii udržitelnosti jsou stanoveny v částech B až D přílohy č. 6 k tomuto nařízení.
+
+## § 11 – Přechodná ustanovení
+
+(1) Pro účely plnění povinnosti stanovené v § 20 odst. 1 zákona a pro účely výpočtu pokuty podle § 25 odst. 8 zákona se pro rok 2018 použije základní hodnota produkce emisí skleníkových plynů pro fosilní pohonné hmoty uvedená v § 4 nařízení vlády č. 351/2012 Sb., o kritériích udržitelnosti biopaliv, ve znění účinném přede dnem nabytí účinnosti tohoto nařízení. Tato hodnota se pro rok 2018 použije i pro váženou produkci emisí skleníkových plynů vzniklých během úplného životního cyklu motorového benzinu a motorové nafty namísto hodnot obsažených v tabulce v bodě 7 přílohy č. 2 k tomuto nařízení.
+
+(2) Součástí zprávy o emisích za rok 2018 je i vyhodnocení plnění povinnosti stanovené v § 20 odst. 1 zákona, a to pouze pro informativní účely; pro účely tohoto vyhodnocení se použije toto nařízení.
+
+## § 12 – Zrušovací ustanovení
+
+Nařízení vlády č. 351/2012 Sb., o kritériích udržitelnosti biopaliv, se zrušuje.
+
+## § 13 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. září 2018.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr životního prostředí:
+
+Mgr. Brabec v. r.
+
+### Příloha č. 1 k nařízení vlády č. 189/2018 Sb.
+
+#### STANOVENÍ ÚSPORY EMISÍ SKLENÍKOVÝCH PLYNŮ VZNIKLÝCH BĚHEM ÚPLNÉHO ŽIVOTNÍHO CYKLU BIOPALIV
+
+**A. Standardní hodnoty**
+
+<table><thead><tr><th></th><th>Způsob výroby biopaliva</th><th>Standardní hodnoty<br>úspor emisí skleníkových plynů</th><th>Standardní hodnoty<br>emisí skleníkových plynů<br>[gCO2ekv/MJ]</th></tr></thead><tbody><tr><td>1.</td><td>Etanol z řepy cukrové (bez bioplynu získaného z kalu, zemní plyn jako procesní palivo v konvenčním kotli)</td><td>59 %</td><td>38,2</td></tr><tr><td>2.</td><td>Etanol z řepy cukrové (s bioplynem získaným z kalu, zemní plyn jako procesní palivo v konvenčním kotli)</td><td>73 %</td><td>25,5</td></tr><tr><td>3.</td><td>Etanol z řepy cukrové (bez bioplynu získaného z kalu, zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny<sup>*</sup>)</td><td>68 %</td><td>30,4</td></tr><tr><td>4.</td><td>Etanol z řepy cukrové (s bioplynem získaným z kalu, zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny<sup>*</sup>)</td><td>76 %</td><td>22,5</td></tr><tr><td>5.</td><td>Etanol z řepy cukrové (bez bioplynu získaného z kalu, hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny<sup>*</sup>)</td><td>47 %</td><td>50,2</td></tr><tr><td>6.</td><td>Etanol z řepy cukrové (s bioplynem získaným z kalu, hnědé uhlí jako procesní palivo v zařízení kombinované výroby tepla a elektřiny<sup>*</sup>)</td><td>64 %</td><td>33,9</td></tr><tr><td>7.</td><td>Etanol z kukuřice (zemní plyn jako procesní palivo v konvenčním kotli)</td><td>40 %</td><td>56,8</td></tr><tr><td>8.</td><td>Etanol z kukuřice (zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny<sup>*</sup>)</td><td>48 %</td><td>48,5</td></tr><tr><td>9.</td><td>Etanol z kukuřice (hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny<sup>*</sup>)</td><td>28 %</td><td>67,8</td></tr><tr><td>10.</td><td>Etanol z kukuřice (zbytkový materiál z lesa jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny<sup>*</sup>)</td><td>68 %</td><td>30,3</td></tr><tr><td>11.</td><td>Etanol z obilovin jiných než kukuřice (zemní plyn jako procesní palivo v konvenčním kotli)</td><td>38 %</td><td>58,5</td></tr><tr><td>12.</td><td>Etanol z obilovin jiných než kukuřice (zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny<sup>*</sup>)</td><td>46 %</td><td>50,3</td></tr><tr><td>13.</td><td>Etanol z obilovin jiných než kukuřice (hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny<sup>*</sup>)</td><td>24 %</td><td>71,7</td></tr><tr><td>14.</td><td>Etanol z obilovin jiných než kukuřice (zbytkový materiál z lesa jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny<sup>*</sup>)</td><td>67 %</td><td>31,4</td></tr><tr><td>15.</td><td>Etanol z cukrové třtiny</td><td>70 %</td><td>28,6</td></tr><tr><td>16.</td><td>Podíl z obnovitelných zdrojů u ethyl terc-butyl etheru (ETBE)</td><td colspan="2">Stejné jako u výrobního<br>postupu použitého pro<br>ethanol</td></tr><tr><td>17.</td><td>Podíl z obnovitelných zdrojů u terc-amyl-ethyl-etheru (TAEE)</td><td colspan="2">Stejné jako u výrobního<br>postupu použitého pro<br>ethanol</td></tr><tr><td>18.</td><td>Bionafta z řepky</td><td>47 %</td><td>50,1</td></tr><tr><td>19.</td><td>Bionafta ze slunečnice</td><td>52 %</td><td>44,7</td></tr><tr><td>20.</td><td>Bionafta ze sójových bobů</td><td>50 %</td><td>47,0</td></tr><tr><td>21.</td><td>Bionafta z palmového oleje (nádrž odpadových vod s volným výtokem)</td><td>20 %</td><td>75,5</td></tr><tr><td>22.</td><td>Bionafta z palmového oleje (proces se zachycováním metanu v lisovně oleje)</td><td>45 %</td><td>51,4</td></tr><tr><td>23.</td><td>Bionafta z použitého kuchyňského oleje</td><td>84 %</td><td>14,9</td></tr><tr><td>24.</td><td>Živočišné tuky získané z produkce bionafty<sup>**</sup>)</td><td>78 %</td><td>20,7</td></tr><tr><td>25.</td><td>Hydrogenačně upravený rostlinný olej z řepky</td><td>47 %</td><td>50,1</td></tr><tr><td>26.</td><td>Hydrogenačně upravený rostlinný olej ze slunečnic</td><td>54 %</td><td>43,6</td></tr><tr><td>27.</td><td>Hydrogenačně upravený rostlinný olej ze sójových bobů</td><td>51 %</td><td>46,5</td></tr><tr><td>28.</td><td>Hydrogenačně upravený olej z palmového oleje (nádrž odpadových vod s volným výtokem)</td><td>22 %</td><td>73,2</td></tr><tr><td>29.</td><td>Hydrogenačně upravený rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje)</td><td>49 %</td><td>47,9</td></tr><tr><td>30.</td><td>Hydrogenačně upravený olej z použitého kuchyňského oleje</td><td>83 %</td><td>16,0</td></tr><tr><td>31.</td><td>Hydrogenačně upravený olej z živočišných tuků získaný ze škvaření<sup>**</sup>)</td><td>77 %</td><td>21,8</td></tr><tr><td>32.</td><td>Čistý rostlinný olej z řepky</td><td>57 %</td><td>40,0</td></tr><tr><td>33.</td><td>Čistý rostlinný olej ze slunečnic</td><td>64 %</td><td>34,3</td></tr><tr><td>34.</td><td>Čistý rostlinný olej ze sójových bobů</td><td>61 %</td><td>36,9</td></tr><tr><td>35.</td><td>Čistý rostlinný olej z palmového oleje (nádrž odpadových vod s volným výtokem)</td><td>30 %</td><td>65,5</td></tr><tr><td>36.</td><td>Čistý rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje)</td><td>57 %</td><td>40,3</td></tr><tr><td>37.</td><td>Čistý olej z použitého kuchyňského oleje</td><td>98 %</td><td>2,2</td></tr><tr><td>38.</td><td>Etanol z pšeničné slámy</td><td>83 %</td><td>15,7</td></tr><tr><td>39.</td><td>Nafta vyrobená z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení</td><td>83 %</td><td>15,6</td></tr><tr><td>40.</td><td>Motorová nafta vyrobená z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení</td><td>82 %</td><td>16,7</td></tr><tr><td>41.</td><td>Benzin vyrobený z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení</td><td>83 %</td><td>15,6</td></tr><tr><td>42.</td><td>Benzin vyrobený z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení</td><td>82 %</td><td>16,7</td></tr><tr><td>43.</td><td>Dimethylether (DME) z odpadního dřeva vyrobený v samostatném zařízení</td><td>84 %</td><td>15,2</td></tr><tr><td>44.</td><td>Dimethylether (DME) z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení</td><td>83 %</td><td>16,2</td></tr><tr><td>45.</td><td>Metanol z odpadního dřeva vyrobený v samostatném zařízení</td><td>84 %</td><td>15,2</td></tr><tr><td>46.</td><td>Metanol z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení</td><td>83 %</td><td>16,2</td></tr><tr><td>47.</td><td>Motorová nafta vyrobená Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy</td><td>89 %</td><td>10,2</td></tr><tr><td>48.</td><td>Benzin vyrobený Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy</td><td>89 %</td><td>10,4</td></tr><tr><td>49.</td><td>Dimethylether (DME) vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy</td><td>89 %</td><td>10,2</td></tr><tr><td>50.</td><td>Metanol vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy</td><td>89 %</td><td>10,4</td></tr><tr><td>51.</td><td>Podíl z obnovitelných zdrojů u methyl terc-butyl etheru (MTBE)</td><td colspan="2">Stejné jako u použitého způsobu výroby metanolu</td></tr></tbody></table>
+
+<sup>\*</sup>) Standardní hodnoty pro procesy využívající kogenerační jednotku platí pouze tehdy, pokud veškeré procesní teplo dodává kogenerační jednotka.
+
+<sup>\*\*</sup>) Týká se pouze biopaliv vyrobených z vedlejších živočišných produktů klasifikovaných jako materiál kategorie 1 a 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009 ze dne 21. října 2009 o hygienických pravidlech pro vedlejší produkty živočišného původu a získané produkty, které nejsou určeny k lidské spotřebě, a o zrušení nařízení (ES) č. 1774/2002 (nařízení o vedlejších produktech živočišného původu), v platném znění, pro které se nezohledňují emise týkající se hygienizace jako součásti škvaření.
+
+**B. Výpočet emisí skleníkových plynů vzniklých během úplného životního cyklu biopaliva ze skutečných hodnot**
+
+1\. Emise skleníkových plynů vzniklých během úplného životního cyklu biopaliva se vypočítají takto:
+
+E<sub>B</sub>=e<sub>ec</sub>+e<sub>l</sub>+e<sub>p</sub>+e<sub>td</sub>+e<sub>u</sub>-e<sub>sca</sub>-e<sub>ccs</sub>-e<sub>ccr,</sub>
+
+kde E<sub>B</sub> = emise skleníkových plynů vzniklé během úplného životního cyklu biopaliva nebo biomethanu;
+
+e<sub>ec</sub> = emise skleníkových plynů z těžby nebo pěstování;
+
+e<sub>l</sub> = roční emise skleníkových plynů ze změn v zásobě uhlíku vyvolaných změnou využití půdy;
+
+e<sub>p</sub> = emise skleníkových plynů ze zpracování;
+
+e<sub>td</sub> = emise skleníkových plynů z přepravy a distribuce;
+
+e<sub>u</sub> = emise skleníkových plynů ze spalování daného biopaliva;
+
+e<sub>sca</sub> = úspory emisí skleníkových plynů vyvolané nahromaděním uhlíku v půdě díky zdokonaleným zemědělským postupům;
+
+e<sub>ccs</sub> = úspory emisí skleníkových plynů vyvolané zachycením a geologickým ukládáním CO<sub>2</sub>;
+
+e<sub>ccr</sub> = úspory emisí skleníkových plynů v důsledku zachycení a náhrady CO<sub>2</sub>;
+
+Emise skleníkových plynů z výroby strojního a jiného zařízení se neberou v úvahu.
+
+2\. Emise skleníkových plynů vzniklých během úplného životního cyklu biopaliva, E<sub>B</sub>, se vyjadřují jako ekvivalent gramů CO<sub>2</sub> na 1 megajoule biopaliva [gCO<sub>2ekv</sub>/MJ].
+
+Pokud se emise skleníkových plynů z těžby nebo pěstování surovin, e<sub>ec</sub>, vyjadřují v gCO<sub>2ekv</sub>/na tunu suchých surovin, převod na gramy ekvivalentu CO<sub>2</sub> na MJ paliva, gCO<sub>2ekv</sub>/MJ, se vypočte pro palivo(a) a surovinu (a) takto:
+
+e<sub>ec,palivo(a)</sub>(gCO<sub>2ekv</sub>)/(MJ<sub>paliva</sub>)<sub>ec</sub>=(<sub>e<sub>ec,suroviny(a)</sub>(gCO<sub>2ekv</sub>)/(t<sub>suchých surovin</sub>)</sub>)/(Q<sub>(a)</sub>(MJ<sub>suroviny</sub>)/(t<sub>suchých surovin</sub>))×faktor surovin pro palivo<sub>(a)</sub>×faktor rozdělení paliva<sub>(a)</sub>,
+
+kde
+
+emise na suchou tunu surovin se vypočtou tímto způsobem:
+
+e<sub>ec,suroviny(a)</sub>(gCO<sub>2ekv</sub>)/(t<sub>suchých surovin</sub>)=(<sub>e<sub>ec,suroviny(a)</sub>(gCO<sub>2ekv</sub>)/(t<sub>vlhkých surovin</sub>)</sub>)/((1-obsah vlhkosti))
+
+faktor surovin pro palivo<sub>(a)</sub> = (podíl MJ surovin potřebný k výrobě 1 MJ paliva)
+
+faktor rozdělení paliva<sub>(a)</sub>=(energie v palivu)/(energie v palivu + energie v druhot. produktech)
+
+3\. Úspora emisí skleníkových plynů při použití biopaliva se vypočítá takto:
+
+ÚSPORA = (E<sub>Ft</sub> – E<sub>B</sub>)/E<sub>Ft</sub>,
+
+kde
+
+E<sub>B</sub> = celkové emise skleníkových plynů z biopaliva a
+
+E<sub>Ft</sub> = základní hodnota produkce emisí skleníkových plynů pro fosilní pohonné hmoty.
+
+4\. Skleníkovými plyny pro účely bodu 1 jsou oxid uhličitý (CO<sub>2</sub>), oxid dusný (N<sub>2</sub>O) a methan (CH<sub>4</sub>). Pro účely výpočtu ekvivalentu CO<sub>2</sub> se hmotnost těchto plynů násobí těmito faktory:
+
+CO<sub>2</sub>: 1
+
+N<sub>2</sub>O: 298
+
+CH<sub>4</sub>: 25
+
+5\. Emise skleníkových plynů z těžby nebo pěstování, e<sub>ec</sub>, zahrnují emise pocházející ze samotného procesu těžby nebo pěstování a získávání (sklízení) biomasy, z odpadu a z úniků (ztrát) a dále emise z výroby chemických látek nebo produktů použitých při těžbě nebo pěstování. Zachycování emisí CO<sub>2</sub> při pěstování biomasy není zahrnuto. Emise skleníkových plynů z pěstování jsou ovlivněny zejména druhem osiva, množstvím a druhem použitých hnojiv a pesticidů, spotřebou pohonných hmot, výnosem plodiny a emisemi N<sub>2</sub>O z půdy.
+
+6\. Jako alternativu skutečných hodnot emisí skleníkových plynů z pěstování biomasy lze použít hodnoty produkce emisí skleníkových plynů z biomasy obsažené ve zprávách podle čl. 31 odst. 4 směrnice Evropského parlamentu a Rady 2018/2001 nebo dílčí hodnoty emisí skleníkových plynů z pěstování uvedené v části C této přílohy. Jako alternativu skutečných hodnot emisí skleníkových plynů z pěstování lze při absenci příslušných informací v těchto zprávách vypočítat průměrné hodnoty založené na místních zemědělských postupech, které vycházejí například z údajů o skupinách zemědělských podniků.
+
+7\. Pro účely výpočtu uvedeného v bodu 1 se k úsporám emisí skleníkových plynů na základě zdokonalení zemědělských postupů e<sub>sca</sub>, například přechodu na minimální orbu nebo bezorebné setí, pěstování lepších plodin nebo jejich střídání, používání krycích plodin, včetně hospodaření se zbytky plodin, a používání organických pomocných půdních látek (například kompostu nebo digestátu z fermentace mrvy), přihlédne pouze tehdy, pokud nebude negativně ovlivněna biologická rozmanitost. Dále je nutné předložit spolehlivé a ověřitelné důkazy, že obsah uhlíku v půdě se zvyšuje, nebo se dá rozumně očekávat, že v období, kdy byly dotčené suroviny pěstovány, uvedený obsah vzrostl, přičemž se k emisím přihlédne v případě, kde tyto postupy vedou k vyššímu používání umělých hnojiv a herbicidů.
+
+8\. Roční hodnoty emisí skleníkových plynů pocházejících ze změn v zásobě uhlíku vyvolaných změnou využití půdy, e<sub>l</sub>, se vypočítají rozdělením celkových emisí rovnoměrně na 20 let. Pro výpočet těchto emisí se použije následující vzorec
+
+e<sub>l</sub>=CS<sub>R</sub>–CS<sub>A</sub>×3,664×1/20×1/P-e<sub>B,</sub>
+
+kde
+
+e<sub>l</sub> = roční emise skleníkových plynů ze změn v zásobě uhlíku vyvolaných změnou využití půdy vyjádřené jako hmotnost ekvivalentu CO<sub>2</sub> na jednotku energie vzniklé z biopaliva [gCO<sub>2ekv</sub>/MJ]; orná půda a trvalé kultury se považují za jeden způsob využívání půdy;
+
+CS<sub>R</sub>= zásoba uhlíku na jednotku plochy spojená s referenčním využíváním půdy vyjádřená jako hmotnost uhlíku v tunách na jednotku plochy, včetně půdy a vegetace. Za referenční využívání půdy se považuje využívání půdy v lednu roku 2008 nebo 20 let před získáním biomasy podle toho, který údaj je aktuálnější;
+
+CS<sub>A</sub>= zásoba uhlíku na jednotku plochy spojená s aktuálním využíváním půdy vyjádřená jako hmotnost uhlíku v tunách na jednotku plochy, včetně půdy a vegetace. V případech, kdy dochází k hromadění zásob uhlíku po dobu přesahující jeden rok, stanoví se hodnota činitele CS<sub>A</sub> jako odhad zásoby na jednotku plochy za období 20 let nebo v době zralosti plodiny, a to podle toho, která situace nastane dříve;
+
+P = produktivita plodiny vyjádřená jako energie obsažená v biopalivu v MJ vztažená na jednotku plochy za rok a
+
+e<sub>B</sub> = bonus ve výši 29 gCO<sub>2ekv</sub>/MJ biopaliva nebo biomethanu, pokud je biomasa získávána z obnovené znehodnocené půdy za podmínek stanovených v bodě 10.
+
+9\. Pokud je biomasa pěstována na orné půdě, která měla status orné půdy před 1. lednem 2008, jsou roční emise skleníkových plynů ze změn v zásobě uhlíku vyvolané změnou využití půdy považovány za nulové.
+
+10\. Bonus, e<sub>B</sub>, ve výši 29 gCO<sub>2ekv</sub>/MJ je přidělen, pokud je prokázáno, že daná půda
+
+a) nebyla v lednu roku 2008 využívána k zemědělským nebo jakýmkoli jiným činnostem a
+
+b) je závažným způsobem znehodnocená, včetně takové půdy dříve využívané k zemědělským účelům.
+
+Bonus ve výši 29 gCO<sub>2ekv</sub>/MJ se použije pro období maximálně 20 let od data přeměny půdy na zemědělsky využívanou půdu, a to za předpokladu, že je zajištěn pravidelný růst zásob uhlíku, jakož i značné snížení eroze závažným způsobem znehodnocených půd. Půdami závažným způsobem znehodnocenými se rozumí půdy, které byly po značnou dobu výrazně zasoleny nebo vykazují obzvláště nízký obsah organických látek, a které jsou závažným způsobem erodované.
+
+11\. Výpočet zásob uhlíku v půdě CS<sub>R</sub> a CS<sub>A</sub> se provádí podle pokynů uvedených v rozhodnutí Komise č. 2010/335 ze dne 10. června 2010 o pokynech pro výpočet zásob uhlíku v půdě pro účely přílohy V směrnice Evropského parlamentu a Rady 2009/28/ES ze dne 23. dubna 2009 o podpoře využívání energie z obnovitelných zdrojů a o změně a následném zrušení směrnice 2001/177/ES/ a 2003/30/ES, v platném znění.
+
+12\. Emise skleníkových plynů ze zpracování, e<sub>p</sub>, zahrnují emise zvláštního procesu zpracování, z odpadu a úniků a z výroby chemických látek nebo produktů použitých při zpracování, včetně emisí CO<sub>2</sub> odpovídajících obsahu uhlíku ve fosilních vstupech, bez ohledu na to, zda byl v příslušném postupu spálen nebo nikoli.
+
+13\. Při zohlednění spotřeby elektřiny, která není generována přímo v zařízení vyrábějícím příslušné biopalivo, se předpokládá, že intenzita emisí skleníkových plynů z výroby a distribuce této elektřiny se rovná průměrné intenzitě emisí při výrobě a distribuci elektřiny vdané oblasti. Odchylně od tohoto pravidla mohou výrobci pro elektřinu vyrobenou samostatným zařízením generujícím elektřinu použít průměrnou hodnotu platnou pro dané zařízení, pokud není připojeno k rozvodné síti.
+
+14\. Emise skleníkových plynů původem ze zpracování v příslušných případech zahrnují emise ze sušení prozatímních produktů a materiálů.
+
+15\. Emise skleníkových plynů z přepravy a distribuce, e<sub>td</sub>, zahrnují emise pocházející z přepravy surovin a polotovarů i ze skladování a distribuce konečného výrobku. Za emise skleníkových plynů z přepravy a distribuce se nepovažují emise z přepravy a distribuce zohledňované podle bodu 5 jako emise z pěstování.
+
+16\. Emise skleníkových plynů z používání daného biopaliva, e<sub>u</sub>, se pokládají za nulové. Emise skleníkových plynů jiných než CO<sub>2</sub> (CH<sub>4</sub> a N<sub>2</sub>O) z použitého paliva musí být zahrnuty do faktoru e<sub>u</sub>.
+
+17\. Úspory emisí skleníkových plynů vyvolané zachycením a geologickým ukládáním CO<sub>2</sub>, e<sub>ccs</sub>, které již nebyly započítány do emisí skleníkových plynů ze zpracování, e<sub>p</sub>se omezují na emise, ke kterým nedošlo v důsledku zachycení a ukládání emitovaného CO<sub>2</sub> v přímé souvislosti se získáváním, přepravou, zpracováním a distribucí paliva, pokud ukládání probíhalo v souladu se zákonem č. 85/2012 Sb., o ukládání oxidu uhličitého do přírodních horninových struktur a o změně některých zákonů.
+
+18\. Úspory emisí skleníkových plynů v důsledku zachycení a náhrady CO<sub>2</sub>, e<sub>ccr</sub>, přímo souvisejí s výrobou biopaliva, jíž jsou přiřazeny, a omezují se na emise, ke kterým nedošlo v důsledku zachycení CO<sub>2</sub>, jehož uhlík pochází z biomasy a používá se k nahrazení CO<sub>2</sub> z fosilních paliv při výrobě komerčních výrobků a služeb do 1. ledna 2036.
+
+19\. Pokud kogenerační jednotka - zajištující teplo nebo elektřinu v procesu výroby paliva, pro které se počítají emise - vyrobí přebytečnou elektřinu nebo přebytečné užitečné teplo, rozdělí se emise skleníkových plynů mezi elektřinu a užitečné teplo podle teploty tepla (jež odráží užitnost (užitek) tepla). Užitečná část tepla se zjistí vynásobením jeho energetického obsahu účinností Carnotova cyklu C<sub>h</sub>, použitím tohoto výpočtu:
+
+C<sub>h</sub>=(T<sub>h</sub>-T<sub>0</sub>)/(T<sub>h</sub>),
+
+kde
+
+T<sub>h</sub> = teplota měřená jako absolutní teplota (v kelvinech) užitečného tepla v místě dodání;
+
+T<sub>0</sub> = teplota okolí, stanovená na 273,15 kelvinu (rovná se 0 °C).
+
+Je-li přebytečné teplo vyváženo pro účely vytápění budov, při teplotě nižší než 150 °C (423,15 kelvinu), lze C<sub>h</sub> alternativně definovat takto:
+
+C<sub>h</sub> = účinnost Carnotova cyklu pro teplo při teplotě 150 °C (423,15 kelvinu), která činí: 0,3546
+
+Pro účely tohoto výpočtu se použijí skutečné účinnosti, definované jako vyrobená roční mechanická energie, elektřina, resp. teplo děleno ročním vstupem energie.
+
+Pro účely tohoto výpočtu se rozumí:
+
+a) „kombinovanou výrobou tepla a elektřiny“ současná výroba tepelné energie a elektrické nebo mechanické energie v jednom procesu;
+
+b) „užitečným teplem“ teplo vyrobené k uspokojení ekonomicky odůvodněné poptávky po teplu k vytápění nebo chlazení;
+
+c) „ekonomicky odůvodněnou poptávkou“ poptávka, která nepřekračuje potřeby tepla nebo chlazení a která by byla jinak uspokojována za tržních podmínek.
+
+20\. V případech, kdy v procesu výroby paliva vzniká kombinace paliva, pro které se počítají emise, a jednoho nebo několika dalších produktů (dále jen „druhotné produkty“), rozdělí se emise skleníkových plynů mezi palivo (nebo jeho odpovídající meziprodukty) a druhotné produkty v poměru k jejich energetickému obsahu (stanovenému u druhotných produktů s výjimkou elektřiny a tepla jako výhřevnost). Produkce emisí skleníkových plynů přebytečného užitečného tepla nebo přebytečné elektřiny se shoduje s produkcí skleníkových plynů tepla nebo elektřiny dodaných do procesu výroby paliva a určí se na základě výpočtu produkce skleníkových plynů všech vstupů a emisí, včetně surovin a emisí CH<sub>4</sub> a N<sub>2</sub>O, do a z kogenerační jednotky, kotle nebo jiného zařízení dodávajícího teplo nebo elektřinu do procesu výroby paliva. V případě kombinované výroby elektřiny a tepla se výpočet provádí podle bodu 19.
+
+21\. Pro účely výpočtu uvedeného v bodu 20 se takto rozdělované emise počítají jako: e<sub>ec</sub> + e<sub>l</sub> + e<sub>sca</sub> + ty podíly e<sub>p</sub>, e<sub>td</sub> a e<sub>ccs</sub> a e<sub>ccr</sub>, které vznikají během jednotlivých výrobních kroků předcházejících výrobnímu kroku, ve kterém vzniká druhotný produkt, i v rámci tohoto výrobního kroku. Došlo-li k přiřazení emisí druhotným produktům v některém z předchozích výrobních kroků životního cyklu, použije se pro předmětné účely místo těchto celkových emisí jen podíl těchto emisí přiřazený v posledním z těchto výrobních kroků meziproduktu vyráběného paliva.
+
+V případě biopaliv musí být pro účely tohoto výpočtu zohledněny všechny druhotné produkty, které nespadají do oblasti působnosti bodu 20. U druhotných produktů, jejichž energetický obsah je záporný, se energetický obsah pokládá pro účely výpočtu za nulový.
+
+Emise skleníkových plynů z odpadů a zbytků, včetně všech odpadů a zbytků uvedených v příloze č. 4 k tomuto nařízení, se považují v celém životním cyklu těchto odpadů a zbytků až do doby jejich získání za nulové bez ohledu na to, zda jsou uvedené odpady a zbytky před přeměnou na konečný produkt zpracovány na prozatímní produkty.
+
+V případě paliv z biomasy vyráběných v jiných rafinériích, než které jsou kombinací zpracovatelských zařízení a kotlů nebo kogeneračních jednotek zajišťujících dodávky tepla nebo elektřiny do zpracovatelského zařízení, je analyzovanou jednotkou pro účely výpočtu podle bodu 20 rafinérie.
+
+22\. Pro účely výpočtu emisí skleníkových plynů z pěstování (e<sub>ec</sub>), ze zpracování (e<sub>p</sub>), z přepravy a distribuce (e<sub>td</sub>) a roční emise skleníkových plynů ze změn v zásobě uhlíku vyvolaných změnou využití půdy (e<sub>1</sub>) se použije energetický obsah nejpoužívanějších biopaliv a fosilních pohonných hmot uvedený v části D.
+
+**C. Dílčí standardní hodnoty emisí skleníkových plynů pro biopaliva**
+
+**1. Dílčí standardní hodnoty emisí skleníkových plynů pro pěstování: „e<sub>ec</sub>“, včetně emisí N<sub>2</sub>O z půdy**
+
+| | Způsob výroby biopaliva | Standardní<br>hodnoty emisí skleníkových<br>plynů<br>[gCO<sub>2ekv</sub>/MJ] |
+|---|---|---|
+| 1. | Etanol z řepy cukrové | 9,6 |
+| 2. | Etanol z kukuřice | 25,5 |
+| 3. | Etanol z obilovin jiných než kukuřice | 27,0 |
+| 4. | Etanol z cukrové třtiny | 17,1 |
+| 5. | Podíl z obnovitelných zdrojů u ethyl terc-butyl etheru (ETBE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 6. | Podíl z obnovitelných zdrojů u terc-amyl ethyl etheru (TAEE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 7. | Bionafta z řepky | 32,0 |
+| 8. | Bionafta ze slunečnice | 26,1 |
+| 9. | Bionafta ze sójových bobů | 21,2 |
+| 10. | Bionafta z palmového oleje | 26,0 |
+| 11. | Bionafta z použitého kuchyňského oleje | 0 |
+| 12. | Živočišné tuky získané z produkce bionafty\*) | 0 |
+| 13. | Hydrogenačně upravený rostlinný olej z řepky | 33,4 |
+| 14. | Hydrogenačně upravený rostlinný olej ze slunečnic | 26,9 |
+| 15. | Hydrogenačně upravený rostlinný olej ze sójových bobů | 22,1 |
+| 16. | Hydrogenačně upravený rostlinný olej z palmového oleje | 27,3 |
+| 17. | Hydrogenačně upravený olej z použitého kuchyňského oleje | 0 |
+| 18. | Hydrogenačně upravený olej z živočišných tuků získaný ze škvaření\*) | 0 |
+| 19. | Čistý rostlinný olej z řepky | 33,4 |
+| 20. | Čistý rostlinný olej ze slunečnic | 27,2 |
+| 21. | Čistý rostlinný olej ze sójových bobů | 22,2 |
+| 22. | Čistý rostlinný olej z palmového oleje | 27,1 |
+| 23. | Čistý olej z použitého kuchyňského oleje | 0 |
+| 24. | Etanol z pšeničné slámy | 1,8 |
+| 25. | Nafta vyrobená z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 3,3 |
+| 26. | Motorová nafta vyrobená z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 8,2 |
+| 27. | Benzin vyrobený z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 3,3 |
+| 28. | Benzin vyrobený z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 8,2 |
+| 29. | Dimethylether (DME) z odpadního dřeva vyrobený v samostatném zařízení | 3,1 |
+| 30. | Dimethylether (DME) z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 7,6 |
+| 31. | Metanol z odpadního dřeva vyrobený v samostatném zařízení | 3,1 |
+| 32. | Metanol z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 7,6 |
+| 33. | Motorová nafta vyrobená Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 2,5 |
+| 34. | Benzin vyrobený Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 2,5 |
+| 35. | Dimethylether (DME) vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 2,5 |
+| 36. | Metanol vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 2,5 |
+| 37. | Podíl z obnovitelných zdrojů u methyl terc-butyl etheru (MTBE) | Stejné jako u použitého<br>způsobu<br>výroby<br>metanolu |
+
+\*) Týká se pouze biopaliv vyrobených z vedlejších živočišných produktů klasifikovaných jako materiál kategorie 1 a 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009, v platném znění, pro které se nezohledňují emise týkající se hygienizace jako součásti škvaření.
+
+**2. Dílčí standardní hodnoty emisí skleníkových plynů pro pěstování: „e<sub>ec</sub>“, pouze emise N<sub>2</sub>O z půdy (tyto emise jsou již zahrnuty v tabulce 1)**
+
+| | Způsob výroby biopaliva | Standardní<br>hodnoty emisí skleníkových<br>plynů<br>[gCO<sub>2ekv</sub>/MJ] |
+|---|---|---|
+| 1. | Etanol z řepy cukrové | 4,9 |
+| 2. | Etanol z kukuřice | 13,7 |
+| 3. | Etanol z obilovin jiných než kukuřice | 14,1 |
+| 4. | Etanol z cukrové třtiny | 2,1 |
+| 5. | Podíl z obnovitelných zdrojů u ethyl terc-butyl etheru (ETBE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 6. | Podíl z obnovitelných zdrojů u terc-amyl ethyl etheru (TAEE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 7. | Bionafta z řepky | 17,6 |
+| 8. | Bionafta ze slunečnice | 12,2 |
+| 9. | Bionafta ze sójových bobů | 13,4 |
+| 10. | Bionafta z palmového oleje | 16,5 |
+| 11. | Bionafta z použitého kuchyňského oleje | 0 |
+| 12. | Živočišné tuky získané z produkce bionafty\*) | 0 |
+| 13. | Hydrogenačně upravený rostlinný olej z řepky | 18,0 |
+| 14. | Hydrogenačně upravený rostlinný olej ze slunečnic | 12,5 |
+| 15. | Hydrogenačně upravený rostlinný olej ze sójových bobů | 13,7 |
+| 16. | Hydrogenačně upravený rostlinný olej z palmového oleje | 16,9 |
+| 17. | Hydrogenačně upravený olej z použitého kuchyňského oleje | 0 |
+| 18. | Hydrogenačně upravený olej z živočišných tuků získaný ze škvaření\*) | 0 |
+| 19. | Čistý rostlinný olej z řepky | 17,6 |
+| 20. | Čistý rostlinný olej ze slunečnic | 12,2 |
+| 21. | Čistý rostlinný olej ze sójových bobů | 13,4 |
+| 22. | Čistý rostlinný olej z palmového oleje | 16,5 |
+| 23. | Čistý olej z použitého kuchyňského oleje | 0 |
+| 24. | Etanol z pšeničné slámy | 0 |
+| 25. | Nafta vyrobená z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 0 |
+| 26. | Motorová nafta vyrobená z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 4,4 |
+| 27. | Benzin vyrobený z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 0 |
+| 28. | Benzin vyrobený z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 4,4 |
+| 29. | Dimethylether (DME) z odpadního dřeva vyrobený v samostatném zařízení | 0 |
+| 30. | Dimethylether (DME) z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 4,1 |
+| 31. | Metanol z odpadního dřeva vyrobený v samostatném zařízení | 0 |
+| 32. | Metanol z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 4,1 |
+| 33. | Motorová nafta vyrobená Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 0 |
+| 34. | Benzin vyrobený Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 0 |
+| 35. | Dimethylether (DME) vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 0 |
+| 36. | Metanol vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 0 |
+| 37. | Podíl z obnovitelných zdrojů u methyl terc-butyl etheru (MTBE) | Stejné jako u použitého<br>způsobu<br>výroby<br>metanolu |
+
+\*) Týká se pouze biopaliv vyrobených z vedlejších živočišných produktů klasifikovaných jako materiál kategorie 1 a 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009, v platném znění, pro které se nezohledňují emise týkající se hygienizace jako součásti škvaření.
+
+**3. Dílčí standardní hodnoty pro zpracování: „e<sub>p</sub>“**
+
+| | Způsob výroby biopaliva | Standardní<br>hodnoty emisí skleníkových<br>plynů<br>[gCO<sub>2ekv</sub>/MJ] |
+|---|---|---|
+| 1. | Etanol z řepy cukrové (bez bioplynu získaného z kalu, zemní plyn jako procesní palivo v konvenčním kotli) | 26,3 |
+| 2. | Etanol z řepy cukrové (s bioplynem získaným z kalu, zemní plyn jako procesní palivo v konvenčním kotli) | 13,6 |
+| 3. | Etanol z řepy cukrové (bez bioplynu získaného z kalu, zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 18,5 |
+| 4. | Etanol z řepy cukrové (s bioplynem získaným z kalu, zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 10,6 |
+| 5. | Etanol z řepy cukrové (bez bioplynu získaného z kalu, hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 38,3 |
+| 6. | Etanol z řepy cukrové (s bioplynem získaným z kalu, hnědé uhlí jako procesní palivo v zařízení kombinované výroby tepla a elektřiny\*) | 22,0 |
+| 7. | Etanol z kukuřice (zemní plyn jako procesní palivo v konvenčním kotli) | 29,1 |
+| 8. | Etanol z kukuřice (zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 20,8 |
+| 9. | Etanol z kukuřice (hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 40,1 |
+| 10. | Etanol z kukuřice (zbytkový materiál z lesa jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,6 |
+| 11. | Etanol z obilovin jiných než kukuřice (zemní plyn jako procesní palivo v konvenčním kotli) | 29,3 |
+| 12. | Etanol z obilovin jiných než kukuřice (zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 21,1 |
+| 13. | Etanol z obilovin jiných než kukuřice (hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 42,5 |
+| 14. | Etanol z obilovin jiných než kukuřice (zbytkový materiál z lesa jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,2 |
+| 15. | Etanol z cukrové třtiny | 1,8 |
+| 16. | Podíl z obnovitelných zdrojů u ethyl terc-butyl etheru (ETBE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 17. | Podíl z obnovitelných zdrojů u terc-amyl ethyl etheru (TAEE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 18. | Bionafta z řepky | 16,3 |
+| 19. | Bionafta ze slunečnice | 16,5 |
+| 20. | Bionafta ze sójových bobů | 16,9 |
+| 21. | Bionafta z palmového oleje (nádrž odpadových vod s volným výtokem) | 42,6 |
+| 22. | Bionafta z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 18,5 |
+| 23. | Bionafta z použitého kuchyňského oleje | 13,0 |
+| 24. | Živočišné tuky získané z produkce bionafty\*\*) | 19,1 |
+| 25. | Hydrogenačně upravený rostlinný olej z řepky | 15,0 |
+| 26. | Hydrogenačně upravený rostlinný olej ze slunečnic | 14,7 |
+| 27. | Hydrogenačně upravený rostlinný olej ze sójových bobů | 15,2 |
+| 28. | Hydrogenačně upravený olej z palmového oleje (nádrž odpadových vod s volným výtokem) | 38,9 |
+| 29. | Hydrogenačně upravený rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 13,6 |
+| 30. | Hydrogenačně upravený olej z odpadového použitého oleje | 14,3 |
+| 31. | Hydrogenačně upravený olej z živočišných tuků získaný ze škvaření\*\*) | 20,3 |
+| 32. | Čistý rostlinný olej z řepky | 5,2 |
+| 33. | Čistý rostlinný olej ze slunečnic | 5,4 |
+| 34. | Čistý rostlinný olej ze sójových bobů | 5,9 |
+| 35. | Čistý rostlinný olej z palmového oleje (nádrž odpadových vod s volným výtokem) | 31,7 |
+| 36. | Čistý rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 6,5 |
+| 37. | Čistý olej z použitého kuchyňského oleje | 0,8 |
+| 38. | Etanol z pšeničné slámy | 6,8 |
+| 39. | Nafta vyrobená z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 0,1 |
+| 40. | Motorová nafta vyrobená z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 0,1 |
+| 41. | Benzin vyrobený z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 0,1 |
+| 42. | Benzin vyrobený z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 0,1 |
+| 43. | Dimethylether (DME) z odpadního dřeva vyrobený v samostatném zařízení | 0 |
+| 44. | Dimethylether (DME) z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 0 |
+| 45. | Metanol z odpadního dřeva vyrobený v samostatném zařízení | 0 |
+| 46. | Metanol z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 0 |
+| 47. | Motorová nafta vyrobená Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 0 |
+| 48. | Benzin vyrobený Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 0 |
+| 49. | Dimethylether (DME) vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 0 |
+| 50. | Metanol vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 0 |
+| 51. | Podíl z obnovitelných zdrojů u methyl terc-butyl etheru (MTBE) | Stejné jako u použitého<br>způsobu<br>výroby<br>metanolu |
+
+\*) Standardizované hodnoty pro procesy využívající kogenerační jednotku platí pouze tehdy, pokud veškeré procesní teplo dodává kogenerační jednotka.
+
+\*\*) Týká se pouze biopaliv vyrobených z vedlejších živočišných produktů klasifikovaných jako materiál kategorie 1 a 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009, v platném znění, pro které se nezohledňují emise týkající se hygienizace jako součásti škvaření.
+
+**4. Dílčí standardní hodnoty pro zpracování: „e<sub>p</sub>“ (hodnoty pouze pro extrakci oleje - jsou již zahrnuty v bodě 3.**
+
+| | Způsob výroby biopaliva | Standardní<br>hodnoty emisí skleníkových<br>plynů<br>[gCO<sub>2ekv</sub>/MJ] |
+|---|---|---|
+| 1. | Bionafta z řepky | 4,2 |
+| 2. | Bionafta ze slunečnice | 4,0 |
+| 3. | Bionafta ze sójových bobů | 4,4 |
+| 4. | Bionafta z palmového oleje (nádrž odpadových vod s volným výtokem) | 29,2 |
+| 5. | Bionafta z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 5,1 |
+| 6. | Bionafta z použitého kuchyňského oleje | 0 |
+| 7. | Živočišné tuky získané z produkce bionafty\*\*) | 6,1 |
+| 8. | Hydrogenačně upravený rostlinný olej z řepky | 4,4 |
+| 9. | Hydrogenačně upravený rostlinný olej ze slunečnic | 4,1 |
+| 10. | Hydrogenačně upravený rostlinný olej ze sójových bobů | 4,6 |
+| 11. | Hydrogenačně upravený olej z palmového oleje (nádrž odpadových vod s volným výtokem) | 30,7 |
+| 12. | Hydrogenačně upravený rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 5,4 |
+| 13. | Hydrogenačně upravený olej z použitého kuchyňského oleje | 0 |
+| 14. | Hydrogenačně upravený olej z živočišných tuků získaný ze škvaření\*\*) | 6,0 |
+| 15. | Čistý rostlinný olej z řepky | 4,4 |
+| 16. | Čistý rostlinný olej ze slunečnic | 4,2 |
+| 17. | Čistý rostlinný olej ze sójových bobů | 4,7 |
+| 18. | Čistý rostlinný olej z palmového oleje (nádrž odpadových vod s volným výtokem) | 30,5 |
+| 19. | Čistý rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 5,3 |
+| 20. | Čistý olej z použitého kuchyňského oleje | 0 |
+
+<sup>\*\*</sup>) Týká se pouze biopaliv vyrobených z vedlejších živočišných produktů klasifikovaných jako materiál kategorie 1 a 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009, v platném znění, pro které se nezohledňují emise týkající se hygienizace jako součásti škvaření.
+
+**5. Dílčí standardní hodnoty emisí skleníkových plynů pro přepravu a distribuci: „e<sub>td</sub>“**
+
+| | Způsob výroby biopaliva | Standardní<br>hodnoty<br>emisí<br>skleníkových<br>plynů<br>[gCO<sub>2ekv</sub>/MJ] |
+|---|---|---|
+| 1. | Etanol z řepy cukrové (bez bioplynu získaného z kalu, zemní plyn jako procesní palivo v konvenčním kotli) | 2,3 |
+| 2. | Etanol z řepy cukrové (s bioplynem získaným z kalu, zemní plyn jako procesní palivo v konvenčním kotli) | 2,3 |
+| 3. | Etanol z řepy cukrové (bez bioplynu získaného z kalu, zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,3 |
+| 4. | Etanol z řepy cukrové (s bioplynem získaným z kalu, zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,3 |
+| 5. | Etanol z řepy cukrové (bez bioplynu získaného z kalu, hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,3 |
+| 6. | Etanol z řepy cukrové (s bioplynem získaným z kalu, hnědé uhlí jako procesní palivo v zařízení kombinované výroby tepla a elektřiny\*) | 2,3 |
+| 7. | Etanol z kukuřice (zemní plyn jako procesní palivo v konvenčním kotli) | 2,2 |
+| 8. | Etanol z kukuřice (zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,2 |
+| 9. | Etanol z kukuřice (hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,2 |
+| 10. | Etanol z kukuřice (zbytkový materiál z lesa jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,2 |
+| 11. | Etanol z obilovin jiných než kukuřice (zemní plyn jako procesní palivo v konvenčním kotli) | 2,2 |
+| 12. | Etanol z obilovin jiných než kukuřice (zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,2 |
+| 13. | Etanol z obilovin jiných než kukuřice (hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,2 |
+| 14. | Etanol z obilovin jiných než kukuřice (zbytkový materiál z lesa jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 2,2 |
+| 15. | Etanol z cukrové třtiny | 9,7 |
+| 16. | Podíl z obnovitelných zdrojů u ethyl terc-butyl etheru (ETBE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 17. | Podíl z obnovitelných zdrojů u terc-amyl ethyl etheru (TAEE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 18. | Bionafta z řepky | 1,8 |
+| 19. | Bionafta ze slunečnice | 2,1 |
+| 20. | Bionafta ze sójových bobů | 8,9 |
+| 21. | Bionafta z palmového oleje (nádrž odpadových vod s volným výtokem) | 6,9 |
+| 22. | Bionafta z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 6,9 |
+| 23. | Bionafta z použitého kuchyňského oleje | 1,9 |
+| 24. | Živočišné tuky získané z produkce bionafty\*\*) | 1,6 |
+| 25. | Hydrogenačně upravený rostlinný olej z řepky | 1,7 |
+| 26. | Hydrogenačně upravený rostlinný olej ze slunečnic | 2,0 |
+| 27. | Hydrogenačně upravený rostlinný olej ze sójových bobů | 9,2 |
+| 28. | Hydrogenačně upravený olej z palmového oleje (nádrž odpadových vod s volným výtokem) | 7,0 |
+| 29. | Hydrogenačně upravený rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 7,0 |
+| 30. | Hydrogenačně upravený olej z odpadového použitého oleje | 1,7 |
+| 31. | Hydrogenačně upravený olej z živočišných tuků získaný ze škvaření\*\*) | 1,5 |
+| 32. | Čistý rostlinný olej z řepky | 1,4 |
+| 33. | Čistý rostlinný olej ze slunečnic | 1,7 |
+| 34. | Čistý rostlinný olej ze sójových bobů | 8,8 |
+| 35. | Čistý rostlinný olej z palmového oleje (nádrž odpadových vod s volným výtokem) | 6,7 |
+| 36. | Čistý rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 6,7 |
+| 37. | Čistý olej z použitého kuchyňského oleje | 1,4 |
+| 38. | Etanol z pšeničné slámy | 7,1 |
+| 39. | Nafta vyrobená z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 12,2 |
+| 40. | Motorová nafta vyrobená z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 8,4 |
+| 41. | Benzin vyrobený z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 12,2 |
+| 42. | Benzin vyrobený z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 8,4 |
+| 43. | Dimethylether (DME) z odpadního dřeva vyrobený v samostatném zařízení | 12,1 |
+| 44. | Dimethylether (DME) z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 8,6 |
+| 45. | Metanol z odpadního dřeva vyrobený v samostatném zařízení | 12,1 |
+| 46. | Metanol z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 8,6 |
+| 47. | Motorová nafta vyrobená Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 7,7 |
+| 48. | Benzin vyrobený Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 7,9 |
+| 49. | Dimethylether (DME) vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 7,7 |
+| 50. | Metanol vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 7,9 |
+| 51. | Podíl z obnovitelných zdrojů u methyl terc-butyl etheru (MTBE) | Stejné jako u použitého<br>způsobu<br>výroby<br>metanolu |
+
+\*) Standardizované hodnoty pro procesy využívající kogenerační jednotku platí pouze tehdy, pokud veškeré procesní teplo dodává kogenerační jednotka.
+
+\*\*) Týká se pouze biopaliv vyrobených z vedlejších živočišných produktů klasifikovaných jako materiál kategorie 1 a 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009, v platném znění, pro které se nezohledňují emise týkající se hygienizace jako součásti škvaření.
+
+**6. Dílčí standardní hodnoty emisí skleníkových plynů pro přepravu a distribuci konečného produktu: „e<sub>td</sub>“ (stanovené zvlášť pro případ vykazování skutečných emisí z přepravy plodin a meziproduktů; v bodu 5 jsou tyto emise skleníkových plynů zahrnuty jako součást hodnoty pro přepravu a distribuci plodiny, meziproduktu i konečného produktu)**
+
+| | Způsob výroby biopaliva | Standardní<br>hodnoty<br>emisí<br>skleníkových<br>plynů<br>[gCO<sub>2ekv</sub>/MJ] |
+|---|---|---|
+| 1. | Etanol z řepy cukrové (bez bioplynu získaného z kalu, zemní plyn jako procesní palivo v konvenčním kotli) | 1,6 |
+| 2. | Etanol z řepy cukrové (s bioplynem získaným z kalu, zemní plyn jako procesní palivo v konvenčním kotli) | 1,6 |
+| 3. | Etanol z řepy cukrové (bez bioplynu získaného z kalu, zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 1,6 |
+| 4. | Etanol z řepy cukrové (s bioplynem získaným z kalu, zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 1,6 |
+| 5. | Etanol z řepy cukrové (bez bioplynu získaného z kalu, hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 1,6 |
+| 6. | Etanol z řepy cukrové (s bioplynem získaným z kalu, hnědé uhlí jako procesní palivo v zařízení kombinované výroby tepla a elektřiny\*) | 1,6 |
+| 7. | Etanol z kukuřice (zemní plyn jako procesní palivo v konvenčním kotli) | 1,6 |
+| 8. | Etanol z kukuřice (zemní plyn jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 1,6 |
+| 9. | Etanol z kukuřice (hnědé uhlí jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 1,6 |
+| 10. | Etanol z kukuřice (zbytkový materiál z lesa jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 1,6 |
+| 11. | Etanol z obilovin jiných než kukuřice (zemní plyn jako procesní palivo<br>v konvenčním kotli) | 1,6 |
+| 12. | Etanol z obilovin jiných než kukuřice (zemní plyn jako procesní palivo<br>v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 1,6 |
+| 13. | Etanol z obilovin jiných než kukuřice (hnědé uhlí jako procesní palivo<br>v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 1,6 |
+| 14. | Etanol z obilovin jiných než kukuřice (zbytkový materiál z lesa jako procesní palivo v zařízeních pro kombinovanou výrobu tepla a elektřiny\*) | 1,6 |
+| 15. | Etanol z cukrové třtiny | 6,0 |
+| 16. | Podíl z obnovitelných zdrojů u ethyl terc-butyl etheru (ETBE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 17. | Podíl z obnovitelných zdrojů u terc-amyl ethyl etheru (TAEE) | Stejné jako u použitého<br>způsobu<br>výroby etanolu |
+| 18. | Bionafta z řepky | 1,3 |
+| 19. | Bionafta ze slunečnice | 1,3 |
+| 20. | Bionafta ze sójových bobů | 1,3 |
+| 21. | Bionafta z palmového oleje (nádrž odpadových vod s volným výtokem) | 1,3 |
+| 22. | Bionafta z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 1,3 |
+| 23. | Bionafta z použitého kuchyňského oleje | 1,3 |
+| 24. | Živočišné tuky získané z produkce bionafty\*\*) | 1,3 |
+| 25. | Hydrogenačně upravený rostlinný olej z řepky | 1,2 |
+| 26. | Hydrogenačně upravený rostlinný olej ze slunečnic | 1,2 |
+| 27. | Hydrogenačně upravený rostlinný olej ze sójových bobů | 1,2 |
+| 28. | Hydrogenačně upravený olej z palmového oleje (nádrž odpadových vod s volným výtokem) | 1,2 |
+| 29. | Hydrogenačně upravený rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 1,2 |
+| 30. | Hydrogenačně upravený olej z odpadového použitého oleje | 1,2 |
+| 31. | Hydrogenačně upravený olej z živočišných tuků získaný ze škvaření\*\*) | 1,2 |
+| 32. | Čistý rostlinný olej z řepky | 0,8 |
+| 33. | Čistý rostlinný olej ze slunečnic | 0,8 |
+| 34. | Čistý rostlinný olej ze sójových bobů | 0,8 |
+| 35. | Čistý rostlinný olej z palmového oleje (nádrž odpadových vod s volným výtokem) | 0,8 |
+| 36. | Čistý rostlinný olej z palmového oleje (proces se zachycováním metanu v lisovně oleje) | 0,8 |
+| 37. | Čistý olej z použitého kuchyňského oleje | 0,8 |
+| 38. | Etanol z pšeničné slámy | 1,6 |
+| 39. | Nafta vyrobená z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 1,2 |
+| 40. | Motorová nafta vyrobená z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 1,2 |
+| 41. | Benzin vyrobený z odpadního dřeva Fischer-Tropschovou syntézou v samostatném zařízení | 1,2 |
+| 42. | Benzin vyrobený z cíleně pěstovaných energetických dřevin Fischer-Tropschovou syntézou v samostatném zařízení | 1,2 |
+| 43. | Dimethylether (DME) z odpadního dřeva vyrobený v samostatném zařízení | 2,0 |
+| 44. | Dimethylether (DME) z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 2,0 |
+| 45. | Metanol z odpadního dřeva vyrobený v samostatném zařízení | 2,0 |
+| 46. | Metanol z cíleně pěstovaných energetických dřevin vyrobený v samostatném zařízení | 2,0 |
+| 47. | Motorová nafta vyrobená Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 2,0 |
+| 48. | Benzin vyrobený Fischer-Tropschovou syntézou zplyňováním černého louhu integrovaným s výrobou celulózy | 2,0 |
+| 49. | Dimethylether (DME) vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 2,0 |
+| 50. | Metanol vyrobený zplyňováním černého louhu integrovaným s výrobou celulózy | 2,0 |
+| 51. | Podíl z obnovitelných zdrojů u methyl terc-butyl etheru (MTBE) | Stejné jako u použitého<br>způsobu<br>výroby metanolu |
+
+\*) Standardizované hodnoty pro procesy využívající kogenerační jednotku platí pouze tehdy, pokud veškeré procesní teplo dodává kogenerační jednotka.
+
+\*\*) Týká se pouze biopaliv vyrobených z vedlejších živočišných produktů klasifikovaných jako materiál kategorie 1 a 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009, v platném znění, pro které se nezohledňují emise týkající se hygienizace jako součásti škvaření.
+
+**D. Energetický obsah nejpoužívanějších biopaliv a fosilních pohonných hmot**
+
+| Energetický obsah pohonných hmot | Energetický obsah (výhřevnost)<br>[MJ/kg] | Energetický obsah (výhřevnost)<br>[MJ/l] |
+|---|---|---|
+| Biopropan | 46 | 24 |
+| Čistý rostlinný olej | 37 | 34 |
+| Bionafta – methylestery mastných kyselin | 37 | 33 |
+| Bionafta – ethylestery mastných kyselin | 38 | 34 |
+| Biomethan | 50 | – |
+| Hydrogenačně upravený olej pocházející z biomasy, který má být použit jako náhrada za naftu | 44 | 34 |
+| Hydrogenačně upravený olej pocházející z biomasy, který má být použit jako náhrada za benzin | 45 | 30 |
+| Hydrogenačně upravený olej pocházející z biomasy, který má být použit jako náhrada za tryskové palivo | 44 | 34 |
+| Hydrogenačně upravený olej (olej upravený pomocí vodíku za tepla) pocházející z biomasy, který má být použit jako náhrada za zkapalněný ropný plyn | 46 | 24 |
+| Společně zpracovaný olej (zpracovaný v rafinérii současně s fosilními palivy) pocházející z biomasy nebo pyrolyzované biomasy, který má být použit jako náhrada za naftu | 43 | 36 |
+| Společně zpracovaný olej (zpracovaný v rafinérii současně s fosilními palivy) pocházející z biomasy nebo pyrolyzované biomasy, který má být použit jako náhrada za benzín | 44 | 32 |
+| Společně zpracovaný olej (zpracovaný v rafinérii současně s fosilními palivy) pocházející z biomasy nebo pyrolyzované biomasy, který má být použit jako náhrada za tryskové palivo | 43 | 33 |
+| Společně zpracovaný olej (zpracovaný v rafinérii současně s fosilními palivy) pocházející z biomasy nebo pyrolyzované biomasy, který má být použit jako náhrada za zkapalněný ropný plyn | 46 | 23 |
+| Metanol | 20 | 16 |
+| Etanol | 27 | 21 |
+| Propanol | 31 | 25 |
+| Butanol | 33 | 27 |
+| Nafta vyrobená Fischerovou-Tropschovou syntézou | 44 | 34 |
+| Benzín vyrobený Fischerovou-Tropschovou syntézou | 44 | 33 |
+| Tryskové palivo vyrobené Fischerovou-Tropschovou syntézou | 44 | 33 |
+| Zkapalněný ropný plyn vyrobený Fischerovou-Tropschovou syntézou | 46 | 24 |
+| Dimethylether (DME) | 28 | 19 |
+| Vodík | 120 | – |
+| ETBE (ethyl terc-butyl ether vyrobený z etanolu)\*) | 36 | 27 |
+| MTBE (methyl terc-butyl ether vyrobený z metanolu)\*\*) | 35 | 26 |
+| TAEE (terc-amyl ethyl ether vyrobený z etanolu)\*\*\*) | 38 | 29 |
+| TAME (terc-amyl methyl ether vyrobený z metanolu)\*\*\*\*) | 36 | 28 |
+| THxEE (terc-hexyl ethyl ether vyrobený z etanolu)\*\*\*\*\*) | 38 | 30 |
+| THxME (terc-hexyl methyl ether vyrobený z metanolu)\*\*\*\*\*\*) | 38 | 30 |
+| Benzin | 43 | 32 |
+| Nafta | 43 | 36 |
+| Tryskové palivo | 43 | 34 |
+| Zkapalněný ropný plyn | 46 | 24 |
+
+\*) Při 33 % podílu z obnovitelných zdrojů.
+
+\*\*) Při 22 % podílu z obnovitelných zdrojů.
+
+\*\*\*) Při 29 % podílu z obnovitelných zdrojů.
+
+\*\*\*\*) Při 18 % podílu z obnovitelných zdrojů.
+
+\*\*\*\*\*) Při 25 % podílu z obnovitelných zdrojů.
+
+\*\*\*\*\*\*) Při 14 % podílu z obnovitelných zdrojů.
+
+### Příloha č. 2 k nařízení vlády č. 189/2018 Sb.
+
+#### ZPŮSOB VÝPOČTU EMISÍ SKLENÍKOVÝCH PLYNŮ Z POHONNÝCH HMOT
+
+1\. ​Základní úroveň produkce emisí skleníkových plynů z pohonných hmot a elektřiny z obnovitelných zdrojů se vypočte takto:
+
+Základní úroveň produkce emisí GHG =∑<sub>x</sub>(MJ<sub>x</sub>∗ EF<sub>t</sub>)
+
+[vzorec biopaliva](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/15576/ORIGINAL/STAHNI/vzorec biopaliva)
+
+kde:
+
+x = jednotlivé druhy dodaných pohonných hmot a elektřina z obnovitelných zdrojů;
+
+MJ<sub>x</sub> = celková energie z jednotlivých druhů dodaných pohonných hmot a elektřina z obnovitelných zdrojů vyjádřená v megajoulech [MJ];
+
+EF<sub>t</sub> = základní hodnota produkce emisí skleníkových plynů pro fosilní pohonné hmoty podle § 5 odst. 1 tohoto nařízení vlády.
+
+2\. Celková energie z jednotlivých druhů dodaných pohonných hmot se vypočítá jako součet energie z jednotlivých druhů dodaných pohonných hmot určená na základě množství jednotlivých druhů dodaných pohonných hmot a jejich výhřevností. V případě elektřiny z obnovitelných zdrojů je množství dodané energie stanoveno na základě kreditů vydaných a uplatněných podle zákona o podporovaných zdrojích energie.
+
+3\. Výhřevnost pohonných hmot je uvedena v části D přílohy č. 1 k tomuto nařízení.
+
+4\. Množství biopaliva vyrobeného při souběžném společném zpracování fosilních pohonných hmot a biopaliv je dáno množstvím biopaliva po zpracování. Výhřevnost biopaliva je dána energetickou bilancí a účinností procesu společného zpracování podle bodu 20 části B přílohy č. 1 k tomuto nařízení. Zpracování zahrnuje všechny úpravy během životního cyklu pohonné hmoty, které mají za následek změnu molekulární struktury daného produktu; za zpracování se nepovažuje přidávání denaturačních prostředků.
+
+5\. Celková úspora emisí skleníkových plynů z obnovitelných paliv, recyklovaných paliv s obsahem uhlíku a elektřiny vyrobené z obnovitelných zdrojů se vypočte takto:
+
+Celková úspora emisí GHG =∑<sub>x</sub>(MJ<sub>x</sub>∗ úspora emisí GHG<sub>x</sub>)
+
+[vzorec biopaliva 2](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/15594/ORIGINAL/STAHNI/vzorec biopaliva 2)
+
+kde:
+
+x = jednotlivé druhy obnovitelných pohonných hmot, recyklovaných paliv s obsahem uhlíku a elektřina vyrobená z obnovitelných zdrojů;
+
+MJ<sub>x</sub> = energie z jednotlivých druhů obnovitelných pohonných hmot, recyklovaných paliv s obsahem uhlíku a elektřiny vyrobené z obnovitelných zdrojů [MJ];
+
+úspora emisí GHG<sub>x</sub> = úspora emisí skleníkových plynů z jednotlivých druhů obnovitelných pohonných hmot, recyklovaných paliv s obsahem uhlíku a elektřiny z obnovitelných zdrojů [gCO<sub>2ekv</sub>/MJ].
+
+6\. Úspora emisí GHG<sub>x</sub> z jednotlivých druhů obnovitelných pohonných hmot, recyklovaných paliv s obsahem uhlíku a elektřiny vyrobené z obnovitelných zdrojů se v případě
+
+6.1. biopaliv stanoví postupem podle § 3 odst. 5 tohoto nařízení vlády,
+
+6.2. biometanu stanoví postupem podle vyhlášky č. 110/2022 Sb., o stanovení druhů a parametrů podporovaných obnovitelných zdrojů a kritérií udržitelnosti a úspory emisí skleníkových plynů pro biokapaliny a paliva z biomasy, ve znění pozdějších předpisů,
+
+6.3. obnovitelných paliv nebiologického původu a recyklovaných paliv s obsahem uhlíku stanoví postupem v souladu s akty v přenesené pravomoci přijatými podle čl. 29a odst. 3 směrnice 2018/2001/EU,
+
+6.4. elektřiny z obnovitelných zdrojů rovná 183 g CO<sub>2ekv</sub>/MJ,
+
+7\. Biopalivo a biometan, které nesplňují kritéria udržitelnosti a úspor emisí skleníkových plynů, a obnovitelné palivo nebiologického původu a recyklované palivo s obsahem uhlíku, které nesplňují úsporu emisí skleníkových plynů, se považují za fosilní pohonnou hmotu.
+
+8\. Snížení emisí skleníkových plynů se vypočte takto:
+
+Snížení emisí GHG = (Celková úspora emisí GHG)/(Základní úroveň produkce emisí GHG )
+
+[vzorec biopaliva 3](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/15604/ORIGINAL/STAHNI/vzorec biopaliva 3)
+
+kde:
+
+Celková úspora emisí GHG = celková úspora emisí GHG vypočítaná podle bodu 5 vyjádřená v [gCO<sub>2</sub>];
+
+Základní úroveň emisí GHG = základní úroveň emisí GHG vypočítaná podle bodu 1 vyjádřená v [gCO<sub>2</sub>].
+
+### Příloha č. 3 k nařízení vlády č. 189/2018 Sb.
+
+#### PŘEDBĚŽNĚ ODHADOVANÉ EMISE SKLENÍKOVÝCH PLYNŮ VYPLÝVAJÍCÍ Z NEPŘÍMÉ ZMĚNY VE VYUŽÍVÁNÍ PŮDY
+
+| Skupina vstupních surovin | Předběžně odhadované emise<br> skleníkových plynů z nepřímé <br> změny ve využívání půdy<br> [gCO<sub>2ekv</sub>/MJ] |
+|---|---|
+| Obiloviny<sup>\*)</sup> a jiné plodiny bohaté na škrob<sup>\*\*)</sup> | 12 |
+| Cukernaté plodiny | 13 |
+| Olejniny | 55 |
+
+<sup>\*)</sup> Bez ohledu na to, zda jsou využita pouze zrna nebo celá plodina, například v případě kukuřice na zelené krmení.
+
+<sup>\*\*)</sup> Především hlízy a okopaniny (například brambory, topinambury, batáty, maniok a jamy) a plodiny z oddenkovými hlízami (například kolokázie a xantosama).
+
+Předběžně odhadované emise skleníkových plynů vyplývající z nepřímé změny ve využívání půdy se považují za nulové u biopaliv vyrobených ze
+
+1\) vstupních surovin, které nejsou obsaženy v této příloze, nebo
+
+2\) vstupních surovin, jejichž produkce vedla k přímé změně ve využívání půdy; přímou změnou ve využívání půdy se rozumí změna kategorie půdního pokryvu lesní půda, travnatý porost, mokřad, osídlení nebo jiná půda vymezené Mezivládním panelem pro změnu klimatu (IPCC) na ornou půdu nebo trvalé kultury, vymezení kategorií půdního pokryvu je veřejně přístupné na internetových stránkách ministerstva.
+
+### Příloha č. 4
+
+#### SUROVINY PRO VÝROBU POKROČILÝCH A VYSPĚLÝCH BIOPALIV
+
+#### Část A – Seznam surovin pro výrobu pokročilých biopaliv
+
+a) Řasy pěstované na pevnině ve vodních nádržích nebo fotobioreaktorech.
+
+b) Biomasa obsažená ve směsném komunálním odpadu, nikoli však tříděný domácí odpad, který spadá pod cíle recyklace podle čl. 11 odst. 2 písm. a) směrnice Evropského parlamentu a Rady 2008/98/ES ze dne 19. listopadu 2008 o odpadech a o zrušení některých směrnic.
+
+c) Biologický odpad z domácností, na který se vztahuje oddělené soustřeďování odpadu podle § 11 odst. 1 písm. e) zákona o odpadech.
+
+d) Biomasa obsažená v průmyslovém odpadu, který není vhodný pro využití v potravinovém nebo krmivovém řetězci, včetně materiálů pocházejících z maloobchodu a velkoobchodu a zemědělsko-potravinářského průmyslu, jakož i odvětví rybolovu a akvakultury, ale ne použité kuchyňské oleje a živočišné tuky kategorie 1 nebo 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009, v platném znění.
+
+e) Sláma.
+
+f) Chlévská mrva a kal z čistíren odpadních vod.
+
+g) Odpadní vody z lisovny palmového oleje a trsy prázdných palmových plodů.
+
+h) Dehet z tálového oleje.
+
+i) Surový glycerin.
+
+j) Bagasa.
+
+k) Matoliny a vinné kaly.
+
+l) Ořechové skořápky.
+
+m) Plevy.
+
+n) Kukuřičné klasy zbavené zrn.
+
+o) Biomasa obsažená v odpadu a zbytcích z lesnictví a z dřevozpracujících odvětví, jako jsou kůra, větve, nekomerční pročistky, listí, jehličí, koruny stromů, piliny, hobliny, černý louh, hnědý louh, kal z vláknovin, lignin a tálový olej.
+
+p) Jiné nepotravinářské celulózové vláknoviny<sup>\*)</sup>.
+
+q) Jiné lignocelulózové vláknoviny<sup>\*\*)</sup>, s výjimkou pilařského dřeva a dýhařského dřeva.
+
+r) Přiboudliny z destilace alkoholu.
+
+s) Surový methanol ze sulfátového procesu výroby dřevné buničiny.
+
+t) Dočasné plodiny, jako jsou meziplodiny a krycí plodiny, které jsou pěstovány na plochách, kde je produkce potravinářských a krmných plodin v důsledku krátkého vegetačního období omezena na jednu sklizeň, a za předpokladu, že jejich využití nevyvolává poptávku po další půdě, jakož i za předpokladu, že je zachován obsah organické hmoty v půdě, pokud se používají k výrobě biopaliv pro odvětví letectví.
+
+u) Plodiny pěstované na silně degradované půdě, s výjimkou potravinářských a krmných plodin, pokud se používají k výrobě biopaliv pro odvětví letectví.
+
+v) Sinice.
+
+<sup>\*)</sup> Zahrnují zbytky potravinářských a krmných plodin (například sláma, kukuřičné šustí, plevy a lusky), energetické traviny s nízkým obsahem škrobu (například jílek, proso prutnaté, ozdobnice, trsť rákosovitá), pícniny a krycí plodiny vysévané před zasetím a po sklizení hlavních plodin, průmyslové zbytky (včetně zbytků potravinářských a krmných plodin po extrakci rostlinných olejů, cukrů, škrobů a bílkovin) a vláknovinu z biologického odpadu. Pícninami a krycími plodinami se rozumí směs travin a luštěnin s nízkým obsahem škrobu krátkodobě vysévaná na pastvinách za účelem zajištění píce pro hospodářská zvířata nebo na orné půdě pro zlepšení její úrodnosti k dosažení vyšších výnosů hlavních plodin.
+
+<sup>\*\*)</sup> Například biomasa pocházející z lesů, energetické dřeviny a zbytky a odpady z lesnictví a dřevozpracujících odvětví.
+
+### Část B – Seznam surovin pro výrobu vyspělých biopaliv
+
+a) Použitý kuchyňský olej.
+
+b) Živočišné tuky kategorie 1 nebo 2 podle nařízení Evropského parlamentu a Rady (ES) č. 1069/2009, v platném znění.
+
+c) Poškozené plodiny, které nejsou vhodné pro použití v potravinovém nebo krmivovém řetězci, s výjimkou látek, které byly záměrně modifikovány nebo kontaminovány za účelem splnění této definice.
+
+d) Komunální odpadní vody a jiné deriváty než kal z čistíren odpadních vod.
+
+e) Plodiny pěstované na silně degradované půdě, s výjimkou potravinářských a krmných plodin a surovin uvedených v části A této přílohy, pokud se nepoužívají k výrobě biopaliv pro odvětví letectví.
+
+f) Dočasné plodiny, jako jsou meziplodiny a krycí plodiny, a s výjimkou surovin uvedených v části A této přílohy, které jsou pěstovány na plochách, kde je produkce potravinářských a krmných plodin v důsledku krátkého vegetačního období omezena na jednu sklizeň, a za předpokladu, že jejich využití nevyvolává poptávku po další půdě, jakož i za předpokladu, že je zachován obsah organické hmoty v půdě, pokud se nepoužívají k výrobě biopaliv pro odvětví letectví.
+
+### Příloha č. 5 k nařízení vlády č. 189/2018 Sb.
+
+#### NÁLEŽITOSTI EVIDENCÍ V SYSTÉMU KVALITY PODLE § 9 A NÁLEŽITOSTI DOKUMENTACE PĚSTITELE BIOMASY
+
+A. Náležitosti evidence podle § 9 odst. 1 písm. b) a d)
+
+1\. Údaje o jednotlivých příchozích a odchozích dodávkách, a to
+
+a) samostatná prohlášení spolu s evidenčními údaji jednotlivých dodávek biomasy podle části B bodu 5 obdržená od pěstitelů biomasy, dodaná a vydaná dílčí prohlášení o shodě s kritérii udržitelnosti, dodaná a vydaná prohlášení o shodě s kritérii udržitelnosti a kopie certifikátů všech dodavatelů,
+
+b) dodací listy k příchozím a odchozím dodávkám,
+
+c) kupní smlouvy, popřípadě objednávky na příchozí a odchozí dodávky,
+
+d) identifikace dodavatele/odběratele a jedinečných identifikačních čísel příchozích a odchozích dodávek,
+
+e) druh příchozího/odchozího produktu splňujícího kritéria udržitelnosti,
+
+f) datum dodání/ odeslání produktu splňujícího kritéria udržitelnosti,
+
+g) množství,
+
+h) jednoznačná identifikace místa naskladnění a místa vyskladnění,
+
+i) stát původu biomasy,
+
+j) informace o způsobu určení hodnoty produkce emisí skleníkových plynů podle § 3 odst. 4,
+
+k) hodnota produkce emisí skleníkových plynů v gCO<sub>2ekv</sub>/kg nebo gCO<sub>2ekv</sub>/MJ včetně členění na jednotlivé operace související s výrobou biopaliv; v případě použití dílčích standardních hodnot emisí skleníkových plynů z pěstování uvedených v bodě 1 části C přílohy č. 1 k tomuto nařízení, popřípadě standardní hodnoty uvedené v části A přílohy č. 1 k tomuto nařízení, se nemusí produkce emisí skleníkových plynů evidovat,
+
+l) identifikace dodávek, u kterých byl použit bonus podle bodu 10 části B přílohy č. 1 k tomuto nařízení, popřípadě úspora emisí skleníkových plynů vyvolaná nahromaděním uhlíku v půdě díky zdokonaleným zemědělským postupům podle bodu 1 části B přílohy č. 1 k tomuto nařízení, ​
+
+m) identifikace dodávek, u kterých se uplatní § 3 odst. 2​ a
+
+n) informace, zda na výrobu produktu byla poskytnuta podpora, a pokud ano, jaký typ režimu podpory.
+
+2\. Údaje z výrobního procesu
+
+a) doklad o datu uvedení zpracovatelského zařízení do provozu,
+
+b) množství ztrát (změna hmotnosti) produktů vzniklých při vnitropodnikových procesech (úprava biomasy, meziproduktů nebo biopaliv na požadovanou jakost (sušení na požadovanou vlhkost, odstranění nežádoucích příměsí),
+
+c) v případě výrobců meziproduktů nebo výrobců biopaliv konverzní faktory nutné pro výpočet hmotnostní bilance (například množství spotřebované biomasy potřebné na výrobu 1 tuny meziproduktů nebo 1 tuny biopaliv) a
+
+d) v případě stanovení hodnoty produkce emisí skleníkových plynů použitím skutečných hodnot podle části B přílohy č. 1 k tomuto nařízení evidenci o všech energetických vstupech a výstupech výrobního procesu a účinnosti přeměny energie a další údaje z provozní evidence rozhodné pro stanovení produkce emisí skleníkových plynů; evidence může být nahrazena dlouhodobými průměrnými hodnotami všech energetických vstupů a výstupů.
+
+3\. Dokument stanovující závazek osoby uvedené v § 21 odst. 1, 2 nebo 3 zákona plnit kritéria udržitelnosti. Dokument musí obsahovat minimálně její organizační strukturu a odpovědnosti a pravomoci jednotlivých vedoucích osob ve vztahu k zajištění plnění kritérií udržitelnosti.
+
+B. Náležitosti dokumentace pěstitele biomasy
+
+1\. Rozloha půdy, na které je biomasa splňující kritéria udržitelnosti pěstována<sup>\*)</sup>,
+
+2\. Zemědělská kultura půd, na kterých je biomasa splňující kritéria udržitelnosti pěstována (orná půda, popřípadě jiné kultury umožňující pěstování biomasy splňující kritéria udržitelnosti)<sup>\*)</sup>,
+
+3\. Druhy pěstované biomasy<sup>\*)</sup> a výnosy za příslušný kalendářní rok,
+
+4\. Kopie jednotlivých vydaných samostatných prohlášení,
+
+5\. Evidence jednotlivých odchozích dodávek (například prostřednictvím dodacích listů nebo vážních listů), sestávající z těchto údajů
+
+a) jedinečné identifikační číslo samostatného prohlášení, které mu přidělil jeho vystavovatel,
+
+b) identifikační údaje odběratele,
+
+c) identifikační číslo každé odchozí dodávky (například číslo vážního listu nebo dodacího listu),
+
+d) množství a druh prodané biomasy,
+
+e) datum odeslání a
+
+f) hodnota produkce emisí skleníkových plynů v gCO<sub>2ekv</sub>/kg, pokud jsou k jejímu stanovení použity skutečné hodnoty produkce emisí skleníkových plynů podle části B přílohy č. 1 k tomuto nařízení, a dále identifikace přepravního prostředku a přepravní vzdálenost; při používání dílčích standardních hodnot emisí skleníkových plynů z pěstování uvedených v bodě 1 části C přílohy č. 1 k tomuto nařízení se nemusí produkce emisí skleníkových plynů uvádět,
+
+6\. V případě používání skutečných hodnot produkce emisí skleníkových plynů podle části B přílohy č. 1 k tomuto nařízení pěstitel biomasy eviduje údaje o použitých hnojivech podle zákona o hnojivech a údaje o spotřebě pohonných hmot, popřípadě další údaje, které podstatným způsobem ovlivní produkci emisí skleníkových plynů,
+
+7\. V případě, že byl při výpočtu ze skutečných hodnot emisí skleníkových plynů podle části B přílohy č. 1 k tomuto nařízení použit bonus podle bodu 10 části B přílohy č. 1 k tomuto nařízení, popřípadě úspora emisí skleníkových plynů vyvolaná nahromaděním uhlíku v půdě díky zdokonaleným zemědělským postupům podle bodu 1 části B přílohy č. 1 k tomuto nařízení, identifikovat dodávky, u kterých byl bonus nebo úspora použit.
+
+<sup>\*)</sup> Pro identifikaci rozlohy a druhu zemědělské kultury a druhu pěstované plodiny lze použít geografický informační systém pro evidenci využití zemědělské půdy - LPIS (číslo, popřípadě část půdního bloku), popřípadě katastrální mapy nebo jiné srovnatelně věrohodné zdroje.
+
+### Příloha č. 6 k nařízení vlády č. 189/2018 Sb.
+
+#### NÁLEŽITOSTI CERTIFIKÁTŮ PODLE § 21 ODST. 1 AŽ 3 ZÁKONA, SAMOSTATNÉHO PROHLÁŠENÍ PĚSTITELE BIOMASY O SPLNĚNÍ KRITÉRIÍ UDRŽITELNOSTI, DÍLČÍHO PROHLÁŠENÍ O SHODĚ S KRITÉRII UDRŽITELNOSTI A PROHLÁŠENÍ O SHODĚ S KRITÉRII UDRŽITELNOSTI
+
+A. Náležitosti certifikátů podle § 21 odst. 1 až 3 zákona
+
+1\. Identifikační údaje autorizované osoby (jméno, sídlo a identifikační číslo osoby, bylo-li přiděleno, u zahraniční osoby také umístění organizační složky podniku na území České republiky, pokud ji zřizuje, a číslo autorizované osoby přidělené ministerstvem v rozhodnutí o autorizaci).
+
+2\. Identifikační údaje příjemce certifikátu
+
+a) jde-li o fyzickou osobu, jméno, sídlo, nemá-li fyzická osoba sídlo, pak místo trvalého pobytu, identifikační číslo osoby; nebylo-li identifikační číslo osoby přiděleno, uvede se datum narození,
+
+b) jde-li o právnickou osobu, jméno, sídlo a identifikační číslo osoby, bylo-li přiděleno, u zahraniční osoby také umístění organizační složky podniku na území České republiky, pokud ji zřizuje.
+
+3\. Jedinečné registrační číslo certifikátu přidělené autorizovanou osobou, která certifikát vystavila.
+
+4\. Druh činnosti příjemce certifikátu podle § 21 odst. 1 až 3 zákona.
+
+5\. Datum vydání a doba platnosti certifikátu.
+
+6\. Seznam zemí, ze kterých držitel certifikátu může nakupovat biomasu.
+
+B. Náležitosti samostatného prohlášení pěstitele biomasy o splnění kritérií udržitelnosti
+
+1\. Jedinečné identifikační číslo samostatného prohlášení přidělené vystavovatelem.
+
+2\. Identifikační údaje vystavovatele a příjemce prohlášení
+
+a) jde-li o fyzickou osobu, jméno, sídlo, nemá-li fyzická osoba sídlo, pak místo trvalého pobytu, identifikační číslo osoby; nebylo-li identifikační číslo osoby přiděleno, uvede se datum narození,
+
+b) jde-li o právnickou osobu, jméno, sídlo a identifikační číslo osoby, bylo-li přiděleno, u zahraniční osoby také umístění organizační složky podniku na území České republiky, pokud ji zřizuje.
+
+3\. Prohlášení, že biomasa pochází z půdy, která byla ornou půdou přede dnem 1. ledna 2008.
+
+4\. Prohlášení, že biomasa nebyla vypěstována na plochách uvedených v § 4 nebo 4a.
+
+5\. Údaje o biomase zahrnující její druh (například cukrová řepa, pšenice, řepkové semeno), rok sklizně a místo nebo místa pěstování (v Evropské unii minimálně normalizovaná klasifikace územních celků NUTS II, mimo Evropskou unii minimálně název státu).
+
+6\. Informace o tom, zda se pro určení hodnoty produkce emisí skleníkových plynů má používat dílčí standardní hodnota emisí skleníkových plynů z pěstování uvedená v bodě 1 části C přílohy č. 1 k tomuto nařízení nebo skutečná hodnota zjištěná způsobem uvedeným v části B přílohy č. 1 k tomuto nařízení.
+
+7\. Prohlášení v tomto znění: „Prohlašuji, že všechny údaje uvedené v tomto samostatném prohlášení o splnění kritérii udržitelnosti jsou úplné, přesné a pravdivé.“.
+
+8\. Místo a datum vystavení a podpis oprávněné vystavující osoby.
+
+C. Náležitosti dílčího prohlášení o shodě s kritérii udržitelnosti
+
+1\. Jedinečné identifikační číslo dílčího prohlášení přidělené jeho vystavovatelem.
+
+2\. Identifikační údaje vystavovatele a příjemce dílčího dokladu
+
+a) jde-li o fyzickou osobu, jméno, sídlo, nemá-li fyzická osoba sídlo, pak místo trvalého pobytu, identifikační číslo osoby; nebylo-li identifikační číslo osoby přiděleno, uvede se datum narození,
+
+b) jde-li o právnickou osobu, jméno, sídlo a identifikační číslo osoby, bylo-li přiděleno, u zahraniční osoby také umístění organizační složky podniku na území České republiky, pokud ji zřizuje, a
+
+c) registrační číslo certifikátu a identifikační údaje autorizované osoby, která certifikát vystavovateli vydala.
+
+3\. Druh biomasy nebo meziproduktu (například cukrová řepa, pšenice, řepkové semeno, řepkový olej) a celkové množství (tuny); v případě, že je dodávka složena z více druhů biomasy nebo meziproduktů, údaje o podílech jednotlivých druhů biomasy nebo meziproduktů; v případě, že biomasa nebo meziprodukty pocházejí z odpadu nebo zbytků, které nepocházejí ze zemědělství, lesnictví, akvakultury nebo rybolovu, uvedení této skutečnosti.
+
+4\. Stát původu biomasy, v případě meziproduktů stát původu biomasy použité k jejich výrobě.
+
+5\. Informace o způsobu určení hodnoty produkce emisí skleníkových plynů podle § 3 odst. 4; v případě, že byl při výpočtu ze skutečných hodnot emisí použit bonus podle bodu 10 části B přílohy č. 1 k tomuto nařízení nebo úspora emisí skleníkových plynů vyvolaná nahromaděním uhlíku v půdě díky zdokonaleným zemědělským postupům podle bodu 1 části B přílohy č. 1 k tomuto nařízení, je třeba uvést informaci, že byl bonus nebo úspora použit; v případě používání skutečných hodnot produkce emisí skleníkových plynů je třeba také uvést použitý přepravní prostředek (například automobil, vlak) a přepravní vzdálenost.
+
+6\. Hodnota produkce emisí skleníkových plynů v gCO<sub>2ekv</sub>/kg, popřípadě gCO<sub>2ekv</sub>/MJ včetně členění na jednotlivé výrobní operace; při stanovení produkce emisí skleníkových plynů použitím standardních hodnot se nemusí výše produkce emisí skleníkových plynů uvádět.
+
+7\. Informace, zda na výrobu biomasy nebo meziproduktu byla poskytnuta podpora, a pokud ano, identifikace této podpory.
+
+8\. Místo a datum vystavení a podpis oprávněné vystavující osoby.
+
+D. Náležitosti prohlášení o shodě s kritérii udržitelnosti
+
+1\. Jedinečné identifikační číslo prohlášení přidělené jeho vystavovatelem.
+
+2\. Identifikační údaje vystavovatele a příjemce dokladu
+
+a) jde-li o fyzickou osobu, jméno, sídlo, nemá-li fyzická osoba sídlo, pak místo trvalého pobytu, identifikační číslo osoby; nebylo-li identifikační číslo osoby přiděleno, uvede se datum narození,
+
+b) jde-li o právnickou osobu, jméno, sídlo a identifikační číslo osoby, bylo-li přiděleno, u zahraniční osoby také umístění organizační složky podniku na území České republiky, pokud ji zřizuje, a
+
+c) registrační číslo certifikátu a identifikační údaje autorizované osoby, která certifikát vystavovateli vydala.
+
+3\. Druh biopaliva, včetně uvedení výchozí suroviny, a jeho celkové množství; v případě, že je dodávka složena z více druhů biopaliv, údaje o podílech jednotlivých druhů biopaliv; v případě, že biopalivo pochází z odpadu nebo zbytků, které nepocházejí ze zemědělství, lesnictví, akvakultury nebo rybolovu, uvedení této skutečnosti.
+
+4\. Prohlášení, zda bylo biopalivo vyrobeno ve zpracovatelském zařízení, které bylo v provozu přede dnem 5. října 2015; uvede se pouze v případě, že biopalivo nesplňuje požadovanou 60 % úsporu emisí skleníkových plynů.
+
+5\. Stát původu biomasy použité k výrobě biopaliva.
+
+6\. Informace o způsobu určení hodnoty produkce emisí skleníkových plynů podle § 3 odst. 4; v případě, že byl při výpočtu ze skutečných hodnot emisí použit bonus podle bodu 10 části B přílohy č. 1 k tomuto nařízení nebo úspora emisí skleníkových plynů vyvolaná nahromaděním uhlíku v půdě díky zdokonaleným zemědělským postupům podle bodu 1 části B přílohy č. 1 k tomuto nařízení, je třeba uvést informaci, že byl bonus nebo úspora použit; v případě používání skutečných hodnot produkce emisí skleníkových plynů je třeba také uvést použitý přepravní prostředek (například automobil, vlak) a přepravní vzdálenost.
+
+7\. Hodnota produkce emisí skleníkových plynů v gCO<sub>2ekv</sub>/MJ včetně členění na jednotlivé výrobní operace; dodává-li výrobce, prodejce nebo dovozce biopalivo přímo dodavateli pohonných hmot, zahrnuje produkce emisí skleníkových plynů také emise vzniklé přepravou k dodavateli pohonných hmot.
+
+8\. Informace, zda na výrobu biomasy nebo meziproduktu byla poskytnuta podpora, a pokud ano, identifikace této podpory.
+
+9\. Místo a datum vystavení a podpis oprávněné vystavující osoby.
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2009/30/ES ze dne 23. dubna 2009, kterou se mění směrnice 98/70/ES, pokud jde o specifikaci benzinu, motorové nafty a plynových olejů, zavedení mechanismu pro sledování a snížení emisí skleníkových plynů, a směrnice Rady 1999/32/ES, pokud jde o specifikaci paliva používaného plavidly vnitrozemské plavby, a kterou se ruší směrnice 93/12/EHS, ve znění směrnice Evropského parlamentu a Rady (EU) 2016/802. 
+Směrnice Evropského parlamentu a Rady (EU) 2015/1513 ze dne 9. září 2015, kterou se mění směrnice 98/70/ES o jakosti benzinu a motorové nafty a směrnice 2009/28/ES o podpoře využívání energie z obnovitelných zdrojů, ve znění směrnice Evropského parlamentu a Rady (EU) 2018/2001. 
+Směrnice Evropského parlamentu a Rady (EU) 2018/2001 ze dne 11. prosince 2018 o podpoře využívání energie z obnovitelných zdrojů, ve znění nařízení Komise v přenesené pravomoci (EU) 2022/759, směrnice Evropského parlamentu a Rady (EU) 2023/2413 a směrnice Komise v přenesené pravomoci (EU) 2024/1405.
+
+<sup>2</sup>) Zákon č. 541/2020 Sb., o odpadech, ve znění pozdějších přepisů.
+
+<sup>4</sup>) Například § 4 odst. 1 a 2, § 6 odst. 1, § 13 až 15, § 45a a 45e zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Nařízení Komise (EU) č. 1307/2014 ze dne 8. prosince 2014, kterým se stanoví kritéria a zeměpisné oblasti k určení vysoce biologicky rozmanitých travních porostů pro účely čl. 7b odst. 3 písm. c) směrnice Evropského parlamentu a Rady 98/70/ES o jakosti benzinu a motorové nafty a čl. 17 odst. 3 písm. c) směrnice Evropského parlamentu a Rady 2009/28/ES o podpoře využívání energie z obnovitelných zdrojů.
+
+<sup>7</sup>) § 68 zákona č. 114/1992 Sb., ve znění zákona č. 218/2004 Sb.
+
+<sup>8</sup>) Nařízení vlády č. 75/2015 Sb., o podmínkách provádění agroenvironmentálně-klimatických opatření a o změně nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů. 
+ Nařízení vlády č. 330/2019 Sb., o podmínkách provádění navazujících agroenvironmentálně-klimatických opatření, ve znění pozdějších předpisů.
+
+<sup>9</sup>) Rozhodnutí Rady (EU) 2016/1841 ze dne 5. října 2016 o uzavření Pařížské dohody přijaté v rámci Rámcové úmluvy Organizace spojených národů o změně klimatu jménem Evropské unie.
+
+<sup>10</sup>) Rámcová úmluva Organizace spojených národů o změně klimatu, vyhlášená pod č. 80/2005 Sb. m. s.

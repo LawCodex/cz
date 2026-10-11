@@ -1,0 +1,50 @@
+---
+title: "Vyhláška č. 161/2024 Sb., kterou se stanoví vzor průkazu žadatele o přiznání postavení osoby bez státní příslušnosti"
+identifier: "161/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/161/2024-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-06-11
+effective: 2024-07-01
+last_amended: 2024-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/161"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 161/2024 Sb., kterou se stanoví vzor průkazu žadatele o přiznání postavení osoby bez státní příslušnosti
+
+161
+
+VYHLÁŠKA
+
+ze dne 11. června 2024,
+
+kterou se stanoví vzor průkazu žadatele o přiznání postavení osoby bez státní příslušnosti
+
+Ministerstvo vnitra stanoví podle § 49a odst. 6 zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 173/2023 Sb.:
+
+## § 1 – Vzor průkazu
+
+Vzor průkazu žadatele o přiznání postavení osoby bez státní příslušnosti je uveden v příloze k této vyhlášce.
+
+## § 2 – Fotografie žadatele
+
+(1) Průkaz žadatele o přiznání postavení osoby bez státní příslušnosti obsahuje fotografii jeho držitele, pokud ji má Ministerstvo vnitra v době jeho vydání k dispozici v elektronické podobě.
+
+(2) Fotografie se umisťuje na pravou stranu průkazu v úrovni položek obsahujících osobní údaje.
+
+(3) V průkazu žadatele o přiznání postavení osoby bez státní příslušnosti, který v souladu s odstavcem 1 neobsahuje fotografii, se v místě pro umístění fotografie podle odstavce 2 uvede záznam „Tento průkaz neobsahuje fotografii žadatele.“.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2024.
+
+Ministr:
+
+Mgr. Bc. Rakušan v. r.
+
+### Příloha
+
+#### ![sbcr2024c161z0161u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026333/NAHLED/ZOBRAZ/sbcr2024c161z0161u001)

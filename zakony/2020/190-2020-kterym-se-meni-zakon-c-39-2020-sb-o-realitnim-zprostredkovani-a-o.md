@@ -1,0 +1,46 @@
+---
+title: "Zákon č. 190/2020 Sb., kterým se mění zákon č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování)"
+identifier: "190/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/190/2020-04-25"
+type: act
+jurisdiction: cz
+language: cs
+date: 2020-04-16
+effective: 2020-04-25
+last_amended: 2020-04-25
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/190"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 190/2020 Sb., kterým se mění zákon č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování)
+
+190
+
+ZÁKON
+
+ze dne 16. dubna 2020,
+
+kterým se mění zákon č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování)
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+V § 25 bodě 1 větě první zákona č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování), se číslo „6“ nahrazuje číslem „12“.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Podnikatel, který je fyzickou osobou, který po dni účinnosti tohoto zákona zahájí činnost realitního zprostředkování podle zákona č. 39/2020 Sb. a je oprávněn tuto činnost poskytovat na základě smlouvy uzavřené v písemné formě s osobou, jež je realitním zprostředkovatelem, pouze jménem takové osoby nebo svým jménem s nezaměnitelným užitím obchodního jména či obchodní značky takové osoby, může poskytovat realitní zprostředkování na základě živnosti ohlašovací volné „58. Nákup, prodej, správa a údržba nemovitostí“, avšak nejdéle 6 měsíců ode dne nabytí účinnosti tohoto zákona. Uplynutím této doby jeho oprávnění k poskytování realitního zprostředkování v rámci uvedené živnosti ohlašovací volné zaniká.
+
+2\. Podnikatel poskytující realitní zprostředkování podle bodu 1 není oprávněn poskytovat úschovu peněžních prostředků za účelem zajištění plnění z realitní smlouvy ani za podmínek uvedených v § 4 odst. 2 zákona č. 39/2020 Sb. Porušením této podmínky se dopustí přestupku, za který lze uložit pokutu až do výše dle § 21 odst. 2 písm. a) uvedeného zákona.
+
+## Čl. III – Účinnost
+
+Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Vondráček v. r.
+
+Zeman v. r.
+
+Babiš v. r.

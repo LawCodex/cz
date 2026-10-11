@@ -1,0 +1,46 @@
+---
+title: "Nařízení vlády č. 168/2023 Sb., kterým se mění nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku, veřejných rejstříků právnických a fyzických osob a evidence svěřenských fondů a evidence údajů o skutečných majitelích, ve znění pozdějších předpisů"
+identifier: "168/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/168/2023-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2023-05-24
+effective: 2023-07-01
+last_amended: 2023-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/168"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 168/2023 Sb., kterým se mění nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku, veřejných rejstříků právnických a fyzických osob a evidence svěřenských fondů a evidence údajů o skutečných majitelích, ve znění pozdějších předpisů
+
+168
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 24. května 2023,
+
+kterým se mění nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku, veřejných rejstříků právnických a fyzických osob a evidence svěřenských fondů a evidence údajů o skutečných majitelích, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 2 odst. 4 zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob a o evidenci svěřenských fondů, ve znění zákona č. 416/2022 Sb.:
+
+## Čl. I
+
+V § 16 nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku, veřejných rejstříků právnických a fyzických osob a evidence svěřenských fondů a evidence údajů o skutečných majitelích, se za odstavec 2 vkládá nový odstavec 3, který zní:
+
+> „(3) Údaje a listiny podle odstavce 1 se zveřejňují také ve strojově čitelném formátu. Není-li zveřejněná listina ve strojově čitelném formátu, správce informačního systému veřejných rejstříků zajistí její automatizovaný převod prostřednictvím aplikačního programového vybavení informačního systému veřejných rejstříků; listina vzniklá převodem se zveřejní spolu s původní listinou.“.
+
+Dosavadní odstavec 3 se označuje jako odstavec 4.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. července 2023.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr spravedlnosti:
+
+JUDr. Blažek, Ph.D., v. r.

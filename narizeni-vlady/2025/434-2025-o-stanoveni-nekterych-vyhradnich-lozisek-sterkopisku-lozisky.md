@@ -1,0 +1,92 @@
+---
+title: "Nařízení vlády č. 434/2025 Sb., o stanovení některých výhradních ložisek štěrkopísku ložisky strategického významu"
+identifier: "434/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/434/2025-11-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-10-15
+effective: 2025-11-01
+last_amended: 2025-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/434"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 434/2025 Sb., o stanovení některých výhradních ložisek štěrkopísku ložisky strategického významu
+
+434
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 15. října 2025
+
+o stanovení některých výhradních ložisek štěrkopísku ložisky strategického významu
+
+Vláda nařizuje podle § 6a odst. 2 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona č. 465/2023 Sb.:
+
+## § 1 – Předmět právní úpravy
+
+Toto nařízení stanovuje některá výhradní ložiska štěrkopísku ložisky strategického významu.
+
+## § 2 – Stanovení ložisek strategického významu
+
+Ložiskem strategického významu se stanovuje
+
+a) v Královéhradeckém kraji výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Smiřice a číslem 3046800,
+
+b) v Moravskoslezském kraji výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Kravaře-Kouty a číslem 3012500,
+
+c) v Olomouckém kraji
+
+1\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Tovačov 4 a číslem 3008500,
+
+2\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Unčovice-Náklo a číslem 3007900,
+
+3\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Žerotín-Liboš a číslem 3216800,
+
+d) v Pardubickém kraji výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Čeperka-Podůlšany a číslem 3205810,
+
+e) v Plzeňském kraji výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Petrovice nad Úhlavou a číslem 3016000,
+
+f) ve Středočeském kraji
+
+1\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Ledčice a číslem 3002300,
+
+2\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Nové Ouholice a číslem 3216500,
+
+3\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Horní Bousov a číslem 3003700,
+
+g) na území Hlavního města Prahy
+
+1\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Lahovice a číslem 3006700,
+
+2\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Lahovice I. a číslem 3006800,
+
+h) v Ústeckém kraji
+
+1\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Lukavec a číslem 3163501,
+
+2\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Straškov a číslem 3097002,
+
+3\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Cítov 2-Kostomlaty pod Řípem a číslem 3158300,
+
+i) v Zlínském kraji
+
+1\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Nedakonice-Polešovice a číslem 3011900,
+
+2\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Kvasice 2 a číslem 3011800,
+
+3\. výhradní ložisko kritických nerostů vedené ke dni 1. ledna 2025 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Plešovec-Chropyně a číslem 3008600.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. listopadu 2025.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Vlček v. r.

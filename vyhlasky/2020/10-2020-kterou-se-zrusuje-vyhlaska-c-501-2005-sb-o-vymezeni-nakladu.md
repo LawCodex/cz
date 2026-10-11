@@ -1,0 +1,38 @@
+---
+title: "Vyhláška č. 10/2020 Sb., kterou se zrušuje vyhláška č. 501/2005 Sb., o vymezení nákladů provozovatele dráhy spojených s provozováním a zajišťováním provozuschopnosti, modernizace a rozvoje železniční dopravní cesty"
+identifier: "10/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/10/2020-01-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-01-09
+effective: 2020-01-15
+last_amended: 2020-01-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/10"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 10/2020 Sb., kterou se zrušuje vyhláška č. 501/2005 Sb., o vymezení nákladů provozovatele dráhy spojených s provozováním a zajišťováním provozuschopnosti, modernizace a rozvoje železniční dopravní cesty
+
+10
+
+VYHLÁŠKA
+
+ze dne 9. ledna 2020,
+
+kterou se zrušuje vyhláška č. 501/2005 Sb., o vymezení nákladů provozovatele dráhy spojených s provozováním a zajišťováním provozuschopnosti, modernizace a rozvoje železniční dopravní cesty
+
+Ministerstvo dopravy stanoví podle § 38b zákona č. 77/2002 Sb., o akciové společnosti České dráhy, státní organizaci Správa železniční dopravní cesty a o změně zákona č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a zákona č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů, ve znění zákona č. 293/2004 Sb.:
+
+## § 1
+
+Vyhláška č. 501/2005 Sb., o vymezení nákladů provozovatele dráhy spojených s provozováním a zajišťováním provozuschopnosti, modernizace a rozvoje železniční dopravní cesty, se zrušuje.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 15. ledna 2020.
+
+Ministr:
+
+JUDr. Kremlík v. r.

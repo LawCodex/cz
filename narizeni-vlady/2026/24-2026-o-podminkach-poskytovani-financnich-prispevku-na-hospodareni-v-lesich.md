@@ -1,0 +1,1116 @@
+---
+title: "Nařízení vlády č. 24/2026 Sb., o podmínkách poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti a o změně souvisejících nařízení vlády"
+identifier: "24/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/24/2026-09-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2026-02-09
+effective: 2026-03-01
+last_amended: 2026-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/24"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 24/2026 Sb., o podmínkách poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti a o změně souvisejících nařízení vlády
+
+24
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 9. února 2026
+
+o podmínkách poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti a o změně souvisejících nařízení vlády
+
+Vláda nařizuje podle § 46 odst. 8 zákona č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění zákona č. 501/2012 Sb. a zákona č. 250/2025 Sb., a podle § 62 odst. 2 zákona č. 449/2001 Sb., o myslivosti, ve znění zákona č. 501/2012 Sb. :
+
+## ČÁST PRVNÍ – PODMÍNKY POSKYTOVÁNÍ FINANČNÍCH PŘÍSPĚVKŮ NA HOSPODAŘENÍ V LESÍCH A NA VYBRANÉ MYSLIVECKÉ ČINNOSTI
+
+### Hlava I – ÚVODNÍ USTANOVENÍ
+
+#### § 1
+
+Toto nařízení stanoví podmínky poskytování finančních příspěvků na hospodaření v lesích podle lesního zákona a na vybrané myslivecké činnosti podle zákona o myslivosti.
+
+#### § 2
+
+(1) Výši finančního příspěvku podací místo určí podle sazby na technickou jednotku nebo na základě vyúčtování skutečně vynaložených nákladů. Skutečně vynaložené náklady se u příspěvku poskytovaného podle sazby neprokazují. Výše finančního příspěvku se zaokrouhluje na celé koruny dolů.
+
+(2) S ohledem na objem prostředků státního rozpočtu podle schváleného zákona o státním rozpočtu může podací místo finanční příspěvek přiznat v poměrně nižší výši, než v jaké je požadován. Po vydání rozhodnutí o přiznání finančního příspěvku poukazuje finanční prostředky na bankovní účet žadatele Ministerstvo obrany, Ministerstvo životního prostředí nebo Ministerstvo zemědělství.
+
+(3) Je-li žadatelem o poskytnutí finančního příspěvku na hospodaření v lesích osoba pověřená správou společných věcí v rámci společnosti podle § 2716 občanského zákoníku nebo v rámci sdružení bez právní osobnosti, nebo svěřenský správce, přikládá k žádosti kopii zakladatelského dokumentu nebo smlouvy, nebo statut svěřenského fondu.
+
+(4) Je-li žadatelem o poskytnutí finančního příspěvku na hospodaření v lesích nájemce, pachtýř nebo vypůjčitel, přikládá k žádosti kopii nájemní nebo pachtovní smlouvy nebo smlouvy o výpůjčce a souhlas vlastníka pozemku s poskytnutím finančního příspěvku nájemci, pachtýři nebo vypůjčiteli.
+
+(5) Žadatel o poskytnutí finančního příspěvku na hospodaření v lesích podle hlavy II dílů 1 až 3, 5 nebo 7 před zahájením prací v rámci plnění předmětu finančního příspěvku podá podacímu místu ohlášení žadatele o poskytnutí finančního příspěvku na hospodaření v lesích (dále jen „ohlášení“), v němž prokáže motivační účinek podpory. Ohlášení je platné pro období ode dne podání, nejdříve však od začátku kalendářního roku, pro který je ohlášení podáváno, do konce kalendářního roku, pro který je ohlášení podáváno. Ohlášení žadatel podává souhrnně za všechny práce prováděné v období platnosti ohlášení.
+
+(6) Obsah ohlášení podávaného krajskému úřadu žadatel předá rovněž elektronicky způsobem zveřejněným Ministerstvem zemědělství na jeho internetových stránkách.
+
+(7) Změnu některé ze skutečností uvedených v ohlášení nebo žádosti, které se týkají údajů o žadateli, jeho adresy pro doručování nebo bankovního účtu, žadatel bez zbytečného odkladu oznámí podacímu místu a doloží ji příslušnými doklady.
+
+### Hlava II – FINANČNÍ PŘÍSPĚVKY NA HOSPODAŘENÍ V LESÍCH
+
+#### Díl 1 – Finanční příspěvek na ekologické a k přírodě šetrné technologie při hospodaření v lese
+
+##### § 3
+
+(1) Finanční příspěvek na ekologické a k přírodě šetrné technologie při hospodaření v lese lze poskytnout vlastníku lesa nebo osobě podle § 58 odst. 1 lesního zákona (dále jen „vlastník lesa“) anebo osobě podle § 2 odst. 3, pokud byli jednou z uvedených osob v době splnění předmětu finančního příspěvku, jsou právními nástupci takové osoby nebo osobami spravujícími pozůstalost po takové osobě.
+
+(2) Finanční příspěvek na ekologické a k přírodě šetrné technologie při hospodaření v lese se poskytuje, jde-li o vojenské lesy, lesy na území národních parků a jejich ochranných pásem. V případě ostatních lesů se tento příspěvek poskytuje pouze tehdy, není-li žadatelem státní podnik.
+
+(3) Předmětem finančního příspěvku, který lze poskytnout na ekologické a k přírodě šetrné technologie při hospodaření v lese, je
+
+a) soustřeďování dříví lanovkou v lesním porostu,
+
+b) soustřeďování dříví koněm v lesním porostu,
+
+c) soustřeďování dříví v lesním porostu vyvážením za podmínky, že největší technicky přípustná hmotnost na každou nápravu vyvážecího stroje není vyšší než 6 000 kg,
+
+d) likvidace klestu štěpkováním nebo drcením při obnově lesa s rozptýlením štěpky nebo drtě v obnovovaném porostu, nebo
+
+e) soustřeďování dříví železným koněm v lesním porostu.
+
+(4) Žádost o poskytnutí finančního příspěvku na ekologické a k přírodě šetrné technologie při hospodaření v lese žadatel podává podacímu místu do 3 měsíců bezprostředně následujících po měsíci, ve kterém byl splněn předmět finančního příspěvku. Obsah žádosti podávané krajskému úřadu žadatel předá rovněž elektronicky způsobem zveřejněným Ministerstvem zemědělství na jeho internetových stránkách.
+
+(5) Žadatel na výzvu orgánu státní správy lesů jako doklad o splnění předmětu finančního příspěvku předloží kopie faktur, výpis z lesní hospodářské evidence nebo jiné výrobně technické doklady obsahující údaje o druhu použitých technologií, počtu technických jednotek a označení porostních skupin, ve kterých byly technologie použity. V případě finančního příspěvku podle odstavce 3 písm. c) na výzvu předloží také kopie technického osvědčení, prohlášení o shodě nebo jiné veřejné listiny nebo technické dokumentace prokazující hodnotu stanovené největší technicky přípustné hmotnosti na každou z náprav vozidel použitých pro vyvážení dříví nebo, jde-li o vozidlo zapsané v registru silničních vozidel, kopie osvědčení o registraci vozidla. V případě, že bylo osvědčení o registraci vozidla k vyvážecímu stroji vydáno přede dnem 1. ledna 2024, předloží namísto kopie tohoto osvědčení kopie technického průkazu podle zákona č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění účinném přede dnem 1. ledna 2024.
+
+(6) Finanční příspěvek na ekologické a k přírodě šetrné technologie při hospodaření v lese lze poskytnout, jestliže kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem.
+
+(7) Sazby finančního příspěvku na ekologické a k přírodě šetrné technologie při hospodaření v lese jsou uvedeny v příloze č. 1 k tomuto nařízení. V případě kombinace několika ekologických a k přírodě šetrných technologií v rámci soustřeďování stejného dříví se použije sazba, která je pro žadatele výhodnější.
+
+(8) Výše finančního příspěvku na ekologické a k přírodě šetrné technologie při hospodaření v lese se stanoví jako součet součinů sazby a množství skutečně provedených technických jednotek.
+
+#### Díl 2 – Finanční příspěvky na obnovu, zajištění a výchovu lesních porostů do 40 let věku
+
+##### § 4 – Obecné podmínky pro poskytnutí finančních příspěvků na obnovu, zajištění a výchovu lesních porostů do 40 let věku
+
+(1) Finanční příspěvek na obnovu, zajištění a výchovu lesních porostů do 40 let věku lze poskytnout vlastníku lesa nebo osobě podle § 2 odst. 3, pokud byli jednou z uvedených osob v době splnění předmětu finančního příspěvku, jsou právními nástupci takové osoby nebo osobami spravujícími pozůstalost po takové osobě. Tento finanční příspěvek se poskytuje, jde-li o vojenské lesy nebo, není-li žadatelem státní podnik, o ostatní lesy mimo území národních parků a jejich ochranných pásem.
+
+(2) Předmětem finančního příspěvku, který lze poskytnout na obnovu, zajištění a výchovu lesních porostů do 40 let věku, je
+
+a) přirozená obnova,
+
+b) umělá obnova síjí,
+
+c) umělá obnova sadbou první,
+
+d) zajištění lesních porostů,
+
+e) výchova lesních porostů do 40 let věku,
+
+f) zřizování oplocenek,
+
+g) následná péče o výsadbu lesního porostu,
+
+h) mechanická příprava půdy před obnovou lesa, nebo
+
+i) ukládání klestu na hromady nebo valy s jeho ponecháním k zetlení v lesním porostu.
+
+(3) Žádost o poskytnutí finančního příspěvku na obnovu, zajištění a výchovu lesních porostů do 40 let věku žadatel podává podacímu místu do 3 měsíců bezprostředně následujících po měsíci, ve kterém byl splněn předmět finančního příspěvku. Obsah žádosti podávané krajskému úřadu žadatel předá rovněž elektronicky způsobem zveřejněným Ministerstvem zemědělství na jeho internetových stránkách.
+
+(4) Sazby finančního příspěvku na obnovu, zajištění a výchovu lesních porostů do 40 let věku jsou uvedeny v příloze č. 1 k tomuto nařízení.
+
+(5) Výše finančního příspěvku na obnovu, zajištění a výchovu lesních porostů do 40 let věku se stanoví jako součet součinů sazby a množství skutečně provedených technických jednotek.
+
+##### § 5 – Přirozená obnova
+
+(1) Žadatel o poskytnutí finančního příspěvku na přirozenou obnovu na výzvu orgánu státní správy lesů předloží lesnickou mapu s grafickým zákresem obnovních prvků.
+
+(2) Finanční příspěvek na přirozenou obnovu lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) byly dosaženy parametry semenáčků stanovené přílohami č. 2 až 6 k vyhlášce č. 29/2004 Sb., kterou se provádí zákon o obchodu s reprodukčním materiálem lesních dřevin, ve znění pozdějších předpisů, (dále jen „vyhláška č. 29/2024 Sb.“),
+
+c) se jedná o přirozenou obnovu dřeviny, která je pro příslušný soubor lesních typů stanovištně vhodná podle přílohy č. 2 k vyhlášce č. 298/2018 Sb., o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů, (dále jen „vyhláška č. 298/2018 Sb.“), přičemž smrk ztepilý se, s výjimkou pro soubory lesních typů 0G, 0T, 0Y, 2G, 2T, 3G, 3R, 3T, 4G, 4R a 4T, nepodporuje na stanovišti v lesním vegetačním stupni nižším než pátém, a
+
+d) na obnovované ploše je alespoň minimální počet jedinců na 1 hektar stanovený pro dřevinu přílohou č. 4 k vyhlášce č. 456/2021 Sb., o podrobnostech přenosu reprodukčního materiálu lesních dřevin, o evidenci o původu reprodukčního materiálu a podrobnostech o obnově lesních porostů a o zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa, ve znění vyhlášky č. 186/2022 Sb., (dále jen „vyhláška č. 456/2021 Sb.“).
+
+(3) Finanční příspěvek na přirozenou obnovu se poskytuje také na lesní pozemky, které jsou v lesním hospodářském plánu nebo v lesní hospodářské osnově označeny jako bezlesí.
+
+##### § 6 – Umělá obnova síjí
+
+(1) K žádosti o poskytnutí finančního příspěvku na umělou obnovu síjí žadatel přiloží průvodní list použitého semenného materiálu nebo čestné prohlášení vlastníka lesa o původu reprodukčního materiálu podle § 29 odst. 6 lesního zákona v případě použití reprodukčního materiálu z vlastních lesních porostů. Na výzvu orgánu státní správy lesů žadatel předloží také lesnickou mapu s grafickým zákresem obnovních prvků.
+
+(2) Finanční příspěvek na umělou obnovu síjí lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) byly dosaženy parametry semenáčků stanovené přílohami č. 2 až 6 k vyhlášce č. 29/2004 Sb.,
+
+c) byl použit semenný materiál dřeviny, která je pro příslušný soubor lesních typů stanovištně vhodná podle přílohy č. 2 k vyhlášce č. 298/2018 Sb., přičemž smrk ztepilý se, s výjimkou pro soubory lesních typů 0G, 0T, 0Y, 2G, 2T, 3G, 3R, 3T, 4G, 4R a 4T, nepodporuje na stanovišti v lesním vegetačním stupni nižším než pátém,
+
+d) byla dodržena pravidla přenosu reprodukčního materiálu lesních dřevin podle vyhlášky č. 456/2021 Sb. a podle přílohy č. 2 k tomuto nařízení, a
+
+e) na obnovované ploše je alespoň minimální počet jedinců na 1 hektar stanovený pro dřevinu přílohou č. 4 k vyhlášce č. 456/2021 Sb.​
+
+(3) Finanční příspěvek na umělou obnovu síjí se poskytuje také na lesní pozemky, které jsou v lesním hospodářském plánu nebo v lesní hospodářské osnově označeny jako bezlesí.
+
+##### § 7 – Umělá obnova sadbou první
+
+(1) K žádosti o poskytnutí finančního příspěvku na umělou obnovu sadbou první přiloží žadatel průvodní list použitého sadebního materiálu nebo čestné prohlášení vlastníka lesa o původu reprodukčního materiálu podle § 29 odst. 6 lesního zákona, byl-li použit reprodukční materiál z vlastních lesních porostů. Na výzvu orgánu státní správy lesů žadatel předloží také lesnickou mapu s grafickým zákresem obnovních prvků.
+
+(2) Finanční příspěvek na umělou obnovu sadbou první lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) byl použit výsadby schopný sadební materiál dřeviny, která je pro příslušný soubor lesních typů stanovištně vhodná podle přílohy č. 2 k vyhlášce č. 298/2018 Sb., přičemž smrk ztepilý se, s výjimkou pro soubory lesních typů 0G, 0T, 0Y, 2G, 2T, 3G, 3R, 3T, 4G, 4R a 4T, nepodporuje v lesním vegetačním stupni nižším než pátém,
+
+c) byla dodržena pravidla přenosu reprodukčního materiálu lesních dřevin podle vyhlášky č. 456/2021 Sb. a podle přílohy č. 2 k tomuto nařízení,
+
+d) na obnovované ploše je alespoň minimální počet jedinců na 1 hektar stanovený pro dřevinu vyhláškou č. 456/2021 Sb. a
+
+e) jsou dodrženy parametry vysazovaného sadebního materiálu stanovené přílohami č. 2 až 6 k vyhlášce č. 29/2004 Sb.​
+
+(3) Finanční příspěvek na umělou obnovu sadbou první se poskytuje nejvýše na 1,3násobek minimálního počtu jedinců na 1 hektar stanoveného pro dřevinu v příloze č. 4 k vyhlášce č. 456/2021 Sb.​
+
+(4) Finanční příspěvek na umělou obnovu sadbou první se poskytuje také na lesní pozemky, které jsou v lesním hospodářském plánu nebo v lesní hospodářské osnově označeny jako bezlesí, nebo na podsadbu zajištěných porostů.
+
+(5) Po dobu 3 let od výsadby nesmí počet životaschopných jedinců klesnout pod 80 % z počtu jedinců uvedeného v žádosti. Dřevina uvedená v žádosti může být nahrazena jinou dřevinou, pokud je pro daný soubor lesních typů podle přílohy č. 2 k vyhlášce č. 298/2018 Sb. rovněž stanovištně vhodná a plní stejnou funkci.
+
+##### § 8 – Zajištění lesních porostů
+
+(1) Žadatel o poskytnutí finančního příspěvku na zajištění lesních porostů na výzvu orgánu státní správy lesů předloží lesnickou mapu s grafickým zákresem zajištěných lesních porostů.
+
+(2) Finanční příspěvek na zajištění lesních porostů v souladu s požadavky podle § 2 odst. 7 vyhlášky č. 456/2021 Sb. ve lhůtě podle lesního zákona lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) se jedná o zajištěný porost dřeviny, která je pro daný soubor lesních typů stanovištně vhodná podle přílohy č. 2 k vyhlášce č. 298/2018 Sb., přičemž smrk ztepilý se, s výjimkou pro soubory lesních typů 0G, 0T, 0Y, 2G, 2T, 3G, 3R, 3T, 4G, 4R a 4T, nepodporuje v lesním vegetačním stupni nižším než pátém, a
+
+c) v případě lesního porostu obnoveného výsadbou je umělá obnova sadbou první provedena v roce 2018 nebo v letech předcházejících, nebo v roce 2027 nebo v letech následujících.
+
+(3) U zajištěného lesního porostu se vykazuje redukovaná plocha dřeviny v době jejího zajištění.
+
+##### § 9 – Výchova lesních porostů do 40 let věku
+
+(1) Finanční příspěvek na výchovu lesních porostů do 40 let věku lze poskytnout, jestliže kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem.
+
+(2) Finanční příspěvek na výchovu lesních porostů do 40 let věku se poskytuje pro lesní porosty, u nichž věk po připočtení počtu let od začátku platnosti hospodářského plánu nebo lesní hospodářské osnovy do doby provedení prací, na které je finanční příspěvek požadován, ke stáří uvedenému v lesním hospodářském plánu nebo lesní hospodářské osnově nepřekročí 40 let.
+
+(3) Finanční příspěvek na výchovu lesních porostů do 40 let věku se poskytuje nejvýše dvakrát za období platnosti lesního hospodářského plánu nebo lesní hospodářské osnovy.
+
+##### § 10 – Zřizování oplocenek
+
+(1) Žadatel o poskytnutí finančního příspěvku na zřizování oplocenek na výzvu orgánu státní správy lesů předloží lesnickou mapu s grafickým zákresem oplocenek.
+
+(2) Finanční příspěvek na zřizování oplocenek lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích a tímto nařízením jsou potvrzeny odborným lesním hospodářem,
+
+b) minimální výška oplocenky je 160 cm a
+
+c) zřízením oplocenky byl v rámci obnovy lesa ochráněn porost s alespoň 30% plošným zastoupením dřevin, které jsou pro příslušný soubor lesních typů podle přílohy č. 2 k vyhlášce č. 298/2018 Sb. dřevinami melioračními a zpevňujícími.
+
+(3) Splněním předmětu finančního příspěvku na zřizování oplocenek se rozumí dosažení parametrů obnovy podle § 5 odst. 2 písm. b) a d), § 6 odst. 2 písm. b) a e) nebo § 7 odst. 2 písm. d) a e) po zřízení oplocenky.
+
+(4) Do doby zajištění lesního porostu musí oplocenka zajišťovat ochranu oploceného lesního porostu proti zvěři.
+
+##### § 11 – Následná péče o výsadbu lesního porostu
+
+(1) Žadatel o poskytnutí finančního příspěvku na následnou péči o výsadbu lesního porostu na výzvu orgánu státní správy lesů předloží lesnickou mapu s grafickým zákresem výsadby lesního porostu.
+
+(2) Finanční příspěvek na následnou péči o výsadbu lesního porostu lze poskytnout, jestliže
+
+a) v příslušném kalendářním roce nebyla překročena zákonná lhůta pro zajištění lesního porostu,
+
+b) dřevina uvedená v žádosti je pro příslušný soubor lesních typů stanovištně vhodná podle přílohy č. 2 k vyhlášce č. 298/2018 Sb., přičemž smrk ztepilý se, s výjimkou pro soubory lesních typů 0G, 0T, 0Y, 2G, 2T, 3G, 3R, 3T, 4G, 4R a 4T, nepodporuje v lesním vegetačním stupni nižším než pátém,
+
+c) v průběhu kalendářního roku bylo v potřebném rozsahu provedeno doplnění výsadby tak, aby počet životaschopných jedinců činil alespoň minimální počet jedinců na 1 hektar stanovený pro dřevinu vyhláškou č. 456/2021 Sb.​,
+
+d) v průběhu příslušného kalendářního roku byla v potřebném rozsahu zajištěna ochrana výsadby alespoň proti buřeni a v případě neoplocené výsadby i proti okusu zvěří,
+
+e) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem a
+
+f) výsadba lesního porostu byla provedena umělou obnovou sadbou první v období od roku 2019 do roku 2026.
+
+(3) Splněním předmětu finančního příspěvku na následnou péči o výsadbu lesního porostu se rozumí dokončení následné péče o výsadbu lesního porostu v příslušném kalendářním roce, kterým je provedení ochrany neoplocené výsadby proti zimnímu okusu zvěří nebo kontrola a v potřebném rozsahu i oprava oplocení výsadby před koncem kalendářního roku.
+
+(4) Finanční příspěvek na následnou péči o výsadbu lesního porostu se poskytuje každoročně počínaje rokem výsadby lesního porostu do roku zajištění lesního porostu, nejvýše však po dobu bezprostředně po sobě následujících 5 let.
+
+(5) V případě smíšené výsadby lesního porostu se v žádosti vykazuje redukovaná plocha stanovištně vhodných dřevin k okamžiku splnění předmětu finančního příspěvku na následnou péči o výsadbu lesního porostu.
+
+##### § 12 – Mechanická příprava půdy před obnovou lesa
+
+(1) Finanční příspěvek na mechanickou přípravu půdy před obnovou lesa lze poskytnout, jestliže kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem.
+
+(2) Splněním předmětu finančního příspěvku na mechanickou přípravu půdy před obnovou lesa se rozumí odstranění nebo rozrušení drnu nebo hrabanky.
+
+(3) Finanční příspěvek na mechanickou přípravu půdy před obnovou lesa se neposkytne v případě provedení mechanické přípravy půdy frézováním, pokud je současně požadován příspěvek podle § 3 odst. 3 písm. d).
+
+##### § 13 – Ukládání klestu na hromady nebo valy s jeho ponecháním k zetlení v porostu
+
+(1) Finanční příspěvek na ukládání klestu na hromady nebo valy s jeho ponecháním k zetlení v porostu lze poskytnout, jestliže kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem.
+
+(2) Objem klestu odpovídá objemu vytěženého hroubí. Na výzvu orgánu státní správy lesů žadatel prokáže objem vytěženého hroubí fakturou, výpisem z lesní hospodářské evidence nebo jiným výrobně technickým dokladem.
+
+#### Díl 3 – Finanční příspěvky na zvyšování podílu melioračních a zpevňujících dřevin
+
+##### § 14 – Obecné podmínky pro poskytnutí finančních příspěvků na zvyšování podílu melioračních a zpevňujících dřevin
+
+(1) Finanční příspěvek na zvyšování podílu melioračních a zpevňujících dřevin lze poskytnout vlastníku lesa nebo osobě podle § 2 odst. 3, pokud byli jednou z uvedených osob v době splnění předmětu finančního příspěvku, jsou právními nástupci takové osoby nebo osobami spravujícími pozůstalost po takové osobě.
+
+(2) Finanční příspěvek na zvyšování podílu melioračních a zpevňujících dřevin se neposkytne, jedná-li se o modřín opadavý nebo douglasku tisolistou.
+
+(3) Finanční příspěvek na zvyšování podílu melioračních a zpevňujících dřevin se poskytuje, jen jde-li o lesy na území národních parků a jejich ochranných pásem.
+
+(4) Předmětem finančního příspěvku, který lze poskytnout na zvyšování podílu melioračních a zpevňujících dřevin, je
+
+a) přirozená obnova melioračních a zpevňujících dřevin,
+
+b) umělá obnova melioračních a zpevňujících dřevin síjí,
+
+c) umělá obnova melioračních a zpevňujících dřevin sadbou první,
+
+d) zajištění lesních porostů melioračních a zpevňujících dřevin,
+
+e) přeměna porostů s nevhodnou nebo náhradní dřevinnou skladbou nebo rekonstrukce porostů po škodách,
+
+f) výchova lesních porostů do 40 let věku,
+
+g) zřizování oplocenek,
+
+h) individuální ochrana výsadby melioračních a zpevňujících dřevin proti zvěři, nebo
+
+i) ukládání klestu na hromady nebo valy s jeho ponecháním k zetlení v lesním porostu.
+
+(5) Žádost o poskytnutí finančního příspěvku na zvyšování podílu melioračních a zpevňujících dřevin žadatel podává Ministerstvu životního prostředí do 3 měsíců bezprostředně následujících po měsíci, ve kterém byl splněn předmět finančního příspěvku.
+
+(6) Sazby finančního příspěvku na zvyšování podílu melioračních a zpevňujících dřevin jsou uvedeny v příloze č. 1 k tomuto nařízení.
+
+(7) Výše finančního příspěvku na zvyšování podílu melioračních a zpevňujících dřevin se stanoví jako součet součinů sazby a množství skutečně provedených technických jednotek.
+
+##### § 15 – Přirozená obnova melioračních a zpevňujících dřevin
+
+(1) Žadatel o poskytnutí příspěvku na přirozenou obnovu melioračních a zpevňujících dřevin na výzvu Ministerstva životního prostředí předloží lesnickou mapu s grafickým zákresem obnovních prvků.
+
+(2) Finanční příspěvek na přirozenou obnovu melioračních a zpevňujících dřevin lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) se jedná o přirozenou obnovu meliorační a zpevňující dřeviny, která je pro daný soubor lesních typů stanovištně vhodná podle přílohy č. 2 k vyhlášce č. 298/2018 Sb.,
+
+c) byly dosaženy parametry semenáčků stanovené přílohami č. 2 až 6 k vyhlášce č. 29/2004 Sb.,
+
+d) na obnovované ploše je alespoň minimální procentuální zastoupení melioračních a zpevňujících dřevin stanovené přílohou č. 2 k vyhlášce č. 298/2018 Sb. a
+
+e) na obnovované ploše je alespoň minimální počet jedinců na 1 hektar stanovený pro dřevinu v příloze č. 2 k vyhlášce č. 456/2021 Sb.​
+
+(3) Finanční příspěvek na přirozenou obnovu melioračních a zpevňujících dřevin se poskytuje pouze pro meliorační a zpevňující dřeviny. Pokud je základní dřevina na daném stanovišti zároveň dřevinou meliorační a zpevňující, pohlíží se na ni pro účely poskytování tohoto finančního příspěvku jako na dřevinu meliorační a zpevňující.
+
+(4) Finanční příspěvek na přirozenou obnovu melioračních a zpevňujících dřevin se poskytuje také na lesní pozemky, které jsou v lesním hospodářském plánu nebo v lesní hospodářské osnově označeny jako bezlesí.
+
+##### § 16 – Umělá obnova melioračních a zpevňujících dřevin síjí
+
+(1) K žádosti o poskytnutí finančního příspěvku na umělou obnovu melioračních a zpevňujících dřevin síjí žadatel přiloží průvodní list použitého semenného materiálu nebo čestné prohlášení vlastníka lesa o původu reprodukčního materiálu podle § 29 odst. 6 lesního zákona, byl-li použit reprodukční materiál z vlastních lesních porostů. Na výzvu Ministerstva životního prostředí žadatel předloží také lesnickou mapu s grafickým zákresem obnovních prvků.
+
+(2) Finanční příspěvek na umělou obnovu melioračních a zpevňujících dřevin síjí lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) byly dosaženy parametry semenáčků stanovené přílohami č. 2 až 6 k vyhlášce č. 29/2004 Sb.,
+
+c) byl použit semenný materiál meliorační a zpevňující dřeviny, která je pro příslušný soubor lesních typů stanovištně vhodná podle přílohy č. 2 k vyhlášce č. 298/2018 Sb.,
+
+d) byla dodržena pravidla přenosu reprodukčního materiálu lesních dřevin podle vyhlášky č. 456/2021 Sb. a podle přílohy č. 2 k tomuto nařízení,
+
+e) na obnovované ploše je alespoň minimální procentuální zastoupení melioračních a zpevňujících dřevin stanovené přílohou č. 2 k vyhlášce č. 298/2018 Sb. a
+
+f) na obnovované ploše je alespoň minimální počet jedinců na 1 hektar stanovený pro dřevinu v příloze č. 4 k vyhlášce č. 456/2021 Sb.​
+
+(3) Finanční příspěvek na umělou obnovu melioračních a zpevňujících dřevin síjí se poskytuje pouze pro meliorační a zpevňující dřeviny. Pokud je základní dřevina na daném stanovišti zároveň dřevinou meliorační a zpevňující, pohlíží se na ni pro účely poskytování tohoto finančního příspěvku jako na dřevinu meliorační a zpevňující.
+
+(4) Finanční příspěvek na umělou obnovu melioračních a zpevňujících dřevin síjí se poskytuje také na lesní pozemky, které jsou v lesním hospodářském plánu nebo v lesní hospodářské osnově označeny jako bezlesí.
+
+##### § 17 – Umělá obnova melioračních a zpevňujících dřevin sadbou první
+
+(1) K žádosti o poskytnutí finančního příspěvku na umělou obnovu melioračních a zpevňujících dřevin sadbou první žadatel přiloží průvodní list použitého sadebního materiálu nebo čestné prohlášení vlastníka lesa o původu reprodukčního materiálu podle § 29 odst. 6 lesního zákona, byl-li použit reprodukční materiál z vlastních lesních porostů. Na výzvu Ministerstva životního prostředí žadatel předloží také lesnickou mapu s grafickým zákresem obnovních prvků.
+
+(2) Finanční příspěvek na umělou obnovu melioračních a zpevňujících dřevin sadbou první lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) byl použit výsadby schopný sadební materiál meliorační a zpevňující dřeviny, která je pro příslušný soubor lesních typů stanovištně vhodná podle přílohy č. 2 k vyhlášce č. 298/2018 Sb.,
+
+c) byla dodržena pravidla přenosu reprodukčního materiálu lesních dřevin podle vyhlášky č. 456/2021 Sb. a podle přílohy č. 2 k tomuto nařízení,
+
+d) na obnovované ploše je alespoň minimální počet jedinců na 1 hektar stanovený pro dřevinu vyhláškou č. 456/2021 Sb. a
+
+e) jsou dodrženy parametry vysazovaného sadebního materiálu stanovené přílohami č. 2 až 6 k vyhlášce č. 29/2004 Sb.
+
+(3) Finanční příspěvek na umělou obnovu melioračních a zpevňujících dřevin sadbou první se poskytuje pouze pro meliorační a zpevňující dřeviny. Pokud je základní dřevina na daném stanovišti zároveň dřevinou meliorační a zpevňující, pohlíží se na ni pro účely poskytování tohoto finančního příspěvku jako na dřevinu meliorační a zpevňující.
+
+(4) Finanční příspěvek na umělou obnovu melioračních a zpevňujících dřevin sadbou první se poskytuje na skutečný počet sadebního materiálu, pokud dosáhne alespoň minimálního procentuálního zastoupení melioračních a zpevňujících dřevin stanoveného v příloze č. 2 k vyhlášce č. 298/2018 Sb., nejvýše však na 1,3násobek minimálního počtu jedinců na 1 hektar stanoveného pro dřevinu v příloze č. 4 k vyhlášce č. 456/2021 Sb.​
+
+(5) Finanční příspěvek na umělou obnovu melioračních a zpevňujících dřevin sadbou první se poskytuje také na lesní pozemky, které jsou v lesním hospodářském plánu nebo v lesní hospodářské osnově označeny jako bezlesí, nebo na podsadbu zajištěných porostů.
+
+(6) Po dobu 3 let od výsadby dřevin nesmí počet životaschopných jedinců klesnout pod 80 % z počtu jedinců uvedeného v žádosti. Dřevina uvedená v žádosti může být nahrazena jinou dřevinou, pokud je pro daný soubor lesních typů podle vyhlášky č. 298/2018 Sb. rovněž stanovištně vhodnou meliorační a zpevňující dřevinou.
+
+##### § 18 – Zajištění lesních porostů melioračních a zpevňujících dřevin
+
+(1) Žadatel o poskytnutí finančního příspěvku na zajištění lesních porostů melioračních a zpevňujících dřevin na výzvu Ministerstva životního prostředí předloží lesnickou mapu s grafickým zákresem zajištěných lesních porostů.
+
+(2) Finanční příspěvek na zajištění lesních porostů melioračních a zpevňujících dřevin v souladu s požadavky podle § 2 odst. 7 vyhlášky č. 456/2021 Sb. ve lhůtě podle lesního zákona lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) se jedná o zajištěný porost meliorační a zpevňující dřeviny, která je pro daný soubor lesních typů stanovištně vhodná podle přílohy č. 2 k vyhlášce č. 298/2018 Sb., a
+
+c) je dodrženo procento melioračních a zpevňujících dřevin podle přílohy č. 2 k vyhlášce č. 298/2018 Sb. i v době zajištění.
+
+(3) U zajištěného lesního porostu melioračních a zpevňujících dřevin se vykazuje redukovaná plocha dřeviny v době jejího zajištění.
+
+##### § 19 – Přeměna porostů s nevhodnou nebo náhradní dřevinnou skladbou nebo rekonstrukce porostů po škodách
+
+(1) Finanční příspěvek na přeměnu porostů s nevhodnou nebo náhradní dřevinnou skladbou nebo rekonstrukci porostů po škodách lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) orgán státní správy lesů pro porost povolil výjimku ze zákazu provádění mýtní úmyslné těžby v lesních porostech mladších 60 let,
+
+c) věk porostu po připočtení počtu let od začátku platnosti lesního hospodářského plánu nebo lesní hospodářské osnovy do doby provedení prací, na které je finanční příspěvek požadován, ke stáří uvedenému v lesním hospodářském plánu nebo v lesní hospodářské osnově nepřekročí 40 let a
+
+d) došlo ke změně dřevinné skladby z porostů nepůvodních nebo stanovištně nevhodných dřevin na porosty s alespoň minimálním zastoupením melioračních a zpevňujících dřevin podle přílohy č. 2 k vyhlášce č. 298/2018 Sb.​
+
+(2) Finanční příspěvek na přeměnu porostů s nevhodnou nebo náhradní dřevinnou skladbou nebo rekonstrukci porostů po škodách se poskytuje na plochu lesního porostu odstraněného v rámci jeho přeměny nebo rekonstrukce.
+
+##### § 20 – Výchova lesních porostů do 40 let věku
+
+(1) Finanční příspěvek na výchovu lesních porostů do 40 let věku lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem a
+
+b) zastoupení melioračních a zpevňujících dřevin při výchově lesního porostu nepokleslo oproti stavu před zásahem.
+
+(2) Finanční příspěvek na výchovu lesních porostů do 40 let věku se poskytuje pro lesní porosty, u nichž věk po připočtení počtu let od začátku platnosti hospodářského plánu nebo lesní hospodářské osnovy do doby provedení prací, na které je finanční příspěvek požadován, ke stáří uvedenému v lesním hospodářském plánu nebo lesní hospodářské osnově nepřekročí 40 let.
+
+(3) Finanční příspěvek na výchovu lesních porostů do 40 let věku se poskytuje nejvýše dvakrát za období platnosti lesního hospodářského plánu nebo lesní hospodářské osnovy.
+
+##### § 21 – Zřizování oplocenek
+
+(1) Žadatel o poskytnutí finančního příspěvku na zřizování oplocenek na výzvu Ministerstva životního prostředí předloží lesnickou mapu s grafickým zákresem oplocenek.
+
+(2) Finanční příspěvek na zřizování oplocenek lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem,
+
+b) minimální výška nově zřízených oplocenek je 160 cm a
+
+c) zřízením nových oplocenek byl ochráněn lesní porost nebo jeho část s plošným zastoupením melioračních a zpevňujících dřevin 50 % a vyšším.
+
+(3) Do doby zajištění lesního porostu musí oplocenka zajišťovat ochranu oploceného porostu proti zvěři.
+
+##### § 22 – Individuální ochrana výsadby melioračních a zpevňujících dřevin proti zvěři
+
+(1) Finanční příspěvek na individuální ochranu výsadby melioračních a zpevňujících dřevin proti zvěři lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem a
+
+b) individuální ochrana je provedena mechanickou zábranou kontaktu se zvěří o minimální výšce 1 m.
+
+(2) Finanční příspěvek na individuální ochranu výsadby melioračních a zpevňujících dřevin proti zvěři se poskytuje nejvýše na 100 kusů individuální ochrany na 1 ha plochy výsadby sadebního materiálu melioračních a zpevňujících dřevin.
+
+##### § 23 – Ukládání klestu na hromady nebo valy s jeho ponecháním k zetlení v porostu
+
+(1) Finanční příspěvek na ukládání klestu na hromady nebo valy s jeho ponecháním k zetlení v porostu lze poskytnout, jestliže kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem.
+
+(2) Objem klestu odpovídá objemu vytěženého hroubí. Na výzvu Ministerstva životního prostředí žadatel prokáže objem vytěženého hroubí fakturou, výpisem z lesní hospodářské evidence nebo jiným výrobně technickým dokladem.
+
+#### Díl 4 – Finanční příspěvky na podporu sdružování vlastníků lesů a podporu hospodaření ve sdružených lesích vlastníků malých výměr
+
+##### § 24 – Obecné podmínky pro poskytnutí finančních příspěvků na podporu sdružování vlastníků lesů a podporu hospodaření ve sdružených lesích vlastníků malých výměr
+
+(1) Finanční příspěvek na podporu sdružování vlastníků lesů a podporu hospodaření ve sdružených lesích vlastníků malých výměr lze poskytnout družstvu, spolku nebo dobrovolnému svazku obcí založeným za účelem správy sdruženého lesního majetku nebo společného prodeje dříví ze sdruženého lesního majetku. V případě družstva představují sdružený lesní majetek lesy vložené do družstva jeho členy jako členský vklad, v případě spolku představují sdružený lesní majetek lesy propachtované spolku jeho členy.
+
+(2) Předmětem finančního příspěvku, který lze poskytnout na podporu sdružování vlastníků lesů a podporu hospodaření ve sdružených lesích vlastníků malých výměr, je
+
+a) založení sdruženého lesního majetku,
+
+b) správa sdruženého lesního majetku, nebo
+
+c) společný prodej dříví ze sdruženého lesního majetku.
+
+(3) Obsah žádosti podávané krajskému úřadu žadatel předá rovněž elektronicky způsobem zveřejněným Ministerstvem zemědělství na jeho internetových stránkách.
+
+(4) Finanční příspěvek na podporu sdružování vlastníků lesů a podporu hospodaření ve sdružených lesích vlastníků malých výměr je poskytován v režimu podpory de minimis podle nařízení Komise (EU) 2023/2831 ze dne 13. prosince 2023 o použití článků 107 a 108 Smlouvy o fungování Evropské unie na podporu de minimis (dále jen „nařízení Komise (EU) 2023/2831“). K žádosti o poskytnutí finančního příspěvku žadatel přiloží čestné prohlášení žadatele o podporu v režimu de minimis.
+
+(5) Finanční příspěvek na podporu sdružování vlastníků lesů a podporu hospodaření ve sdružených lesích vlastníků malých výměr lze poskytnout, jestliže
+
+a) minimální výměra sdruženého lesního majetku činí 50 ha a
+
+b) sdružený lesní majetek má jednoho odborného lesního hospodáře.
+
+(6) Sazby finančního příspěvku na podporu sdružování vlastníků lesů a podporu hospodaření ve sdružených lesích vlastníků malých výměr jsou uvedeny v příloze č. 1 k tomuto nařízení.
+
+##### § 25 – Založení sdruženého lesního majetku
+
+Žádost o poskytnutí finančního příspěvku na založení sdruženého lesního majetku žadatel podává podacímu místu do 12 měsíců bezprostředně následujících po měsíci, ve kterém právnická osoba uvedená v § 24 odst. 1 vznikla.
+
+##### § 26 – Správa sdruženého lesního majetku
+
+(1) Výše finančního příspěvku na správu sdruženého lesního majetku se stanoví jako součet součinů sazby a výměry jednotlivých sdružených lesních majetků k 31. prosinci předchozího kalendářního roku zaokrouhlené na celé hektary nahoru, přičemž jednotlivé lesní majetky o výměře nad 300 ha se započítávají výměrou 300 ha. V případě spolku se výše finančního příspěvku snižuje o příslušnou náhradu podle § 37 odst. 9 lesního zákona.
+
+(2) Žádost o poskytnutí finančního příspěvku na správu sdruženého lesního majetku žadatel podává podacímu místu do 31. března za předchozí kalendářní rok.
+
+##### § 27 – Společný prodej dříví ze sdruženého lesního majetku
+
+(1) Výše finančního příspěvku na společný prodej dříví ze sdruženého lesního majetku se stanoví jako součet součinů sazby a objemu dříví prodaného žadatelem ze sdruženého lesního majetku v předchozím kalendářním roce.
+
+(2) Žádost o poskytnutí finančního příspěvku na společný prodej dříví ze sdruženého lesního majetku žadatel podává podacímu místu do 31. března za předchozí kalendářní rok.
+
+(3) Finanční příspěvek na společný prodej dříví ze sdruženého lesního majetku lze poskytnout, jestliže žadatel dosáhl objemu společného prodeje dříví alespoň 2,0 m³ za každý započatý hektar výměry sdruženého lesního majetku k 31. prosinci předchozího kalendářního roku.
+
+#### Díl 5 – Finanční příspěvek na vyhotovení lesních hospodářských plánů
+
+##### § 28
+
+(1) Finanční příspěvek na vyhotovení lesních hospodářských plánů lze poskytnout vlastníku lesa nebo osobě podle § 2 odst. 3, pokud byli jednou z uvedených osob v době splnění předmětu finančního příspěvku, jsou právními nástupci takové osoby nebo osobami spravujícími pozůstalost po takové osobě.
+
+(2) Finanční příspěvek na vyhotovení lesních hospodářských plánů se poskytuje, jde-li o vojenské lesy, lesy na území národních parků a jejich ochranných pásem. V případě ostatních lesů se tento příspěvek poskytuje pouze tehdy, není-li žadatelem státní podnik.
+
+(3) Předmětem finančního příspěvku na vyhotovení lesních hospodářských plánů je zpracovaný a schválený lesní hospodářský plán s pravomocně povolenými výjimkami z lesního zákona, jsou-li součástí lesního hospodářského plánu, v digitální formě odpovídající informačnímu standardu datové komunikace lesního hospodářství, předaný pro potřeby státní správy lesů do datového skladu Národního lesnického institutu.
+
+(4) Žádost o poskytnutí finančního příspěvku na vyhotovení lesních hospodářských plánů žadatel podává podacímu místu do 3 měsíců bezprostředně následujících po měsíci, ve kterém byl splněn předmět finančního příspěvku. Obsah žádosti podávané krajskému úřadu žadatel předá rovněž elektronicky způsobem zveřejněným Ministerstvem zemědělství na jeho internetových stránkách.
+
+(5) K žádosti žadatel přiloží průvodní list k lesnímu hospodářskému plánu a kopie faktur vztahujících se k vyhotovení lesního hospodářského plánu nebo kopie účetních dokladů o skutečně vynaložených přímých nákladech na vyhotovení lesního hospodářského plánu svépomocí.
+
+(6) Finanční příspěvek na vyhotovení lesních hospodářských plánů lze poskytnout, jestliže
+
+a) doba platnosti schváleného lesního hospodářského plánu není kratší než 10 let,
+
+b) při zpracovávání lesního hospodářského plánu byl dodržen soulad výstupů s informačním standardem datové komunikace lesního hospodářství vydávaným Ministerstvem zemědělství, v rozsahu povinných položek dat lesních hospodářských plánů a povinné kartografické prezentace dat lesního hospodářství pro vykreslení porostní mapy, a
+
+c) schválený lesní hospodářský plán byl v digitální formě odpovídající informačnímu standardu datové komunikace lesního hospodářství předán pro potřeby státní správy do datového skladu Národního lesnického institutu.
+
+(7) Výše finančního příspěvku na vyhotovení lesních hospodářských plánů se stanoví součinem plochy pozemků určených k plnění funkcí lesa v hektarech, které jsou uvedeny v průvodním listu ke schválenému lesnímu hospodářskému plánu, a částky skutečně vynaložených přímých nákladů na 1 hektar, nejvýše však 400 Kč na 1 hektar. Žadatel, který je plátcem daně z přidané hodnoty a uplatňuje nárok na odpočet daně z přidané hodnoty u přijatého plnění za vyhotovení lesního hospodářského plánu, uvádí výši nákladů bez daně z přidané hodnoty, u které uplatňuje nárok na odpočet daně z přidané hodnoty.
+
+#### Díl 6 – Finanční příspěvek na ztížené hospodaření ve vojenských lesích
+
+##### § 29
+
+(1) Finanční příspěvek na ztížené hospodaření ve vojenských lesích lze poskytnout vlastníku lesa nebo osobě podle § 2 odst. 3, pokud byli jednou z uvedených osob v době splnění předmětu finančního příspěvku, jsou právními nástupci takové osoby nebo osobami spravujícími pozůstalost po takové osobě.
+
+(2) Finanční příspěvek na ztížené hospodaření ve vojenských lesích se poskytuje, jde-li o vojenské lesy, které nejsou ve vlastnictví státu.
+
+(3) Předmětem finančního příspěvku na ztížené hospodaření ve vojenských lesích je přizpůsobení hospodaření ve vojenských lesích režimu objektů důležitých pro obranu státu.
+
+(4) Žádost o poskytnutí finančního příspěvku na ztížené hospodaření ve vojenských lesích žadatel podává Ministerstvu obrany do 31. srpna za období 12 kalendářních měsíců bezprostředně předcházejících uvedenému datu.
+
+(5) Finanční příspěvek na ztížené hospodaření ve vojenských lesích je poskytován v režimu podpory de minimis podle nařízení Komise (EU) 2023/2831. K žádosti o poskytnutí finančního příspěvku žadatel přikládá čestné prohlášení žadatele o podporu v režimu de minimis.
+
+(6) Výše finančního příspěvku na ztížené hospodaření ve vojenských lesích se stanoví součinem plochy pozemků určených k plnění funkcí lesa, které jsou objekty důležitými pro obranu státu a nejsou ve vlastnictví státu, v hektarech a sazby 5 000 Kč na 1 ha.
+
+#### Díl 7 – Finanční příspěvky na ochranu lesa
+
+##### § 30
+
+(1) Finanční příspěvek na ochranu lesa lze poskytnout vlastníku lesa nebo osobě podle § 2 odst. 3, pokud byli jednou z uvedených osob v době splnění předmětu finančního příspěvku, jsou právními nástupci takové osoby nebo osobami spravujícími pozůstalost po takové osobě, jde-li o
+
+a) vojenské lesy,
+
+b) lesy na území národních parků v zóně soustředěné péče o přírodu nebo v zóně kulturní krajiny a o lesy na území ochranných pásem národních parků, nebo
+
+c) ostatní lesy, není-li žadatelem státní podnik.
+
+(2) V lesích podle odstavce 1 písm. b) se poskytuje pouze finanční příspěvek podle odstavce 3 písm. b) a c).
+
+(3) Předmětem finančního příspěvku, který lze poskytnout na ochranu lesa, je
+
+a) včasná a účinná asanace vytěženého jehličnatého dříví jeho postřikem přípravkem proti lýkožroutům s přimíchaným barvivem,
+
+b) včasná a účinná asanace vytěženého jehličnatého dříví jeho odkorněním, nebo
+
+c) instalace feromonového odparníku.
+
+(4) Žádost o poskytnutí finančního příspěvku na ochranu lesa žadatel podává podacímu místu do 3 měsíců bezprostředně následujících po měsíci, ve kterém byl splněn předmět finančního příspěvku. Obsah žádosti podávané krajskému úřadu žadatel předá rovněž elektronicky způsobem zveřejněným Ministerstvem zemědělství na jeho internetových stránkách.
+
+(5) Na výzvu orgánu státní správy lesů žadatel předloží kopie účetních nebo výrobně technických dokladů prokazujících nákup příslušných přípravků na ochranu rostlin nebo provedení prací v rozsahu a druhu uvedeném v žádosti o poskytnutí finančního příspěvku na ochranu lesa.
+
+(6) Finanční příspěvek na ochranu lesa lze poskytnout, jestliže
+
+a) kvalita provedených prací a jejich soulad s právními předpisy upravujícími hospodaření v lesích jsou potvrzeny odborným lesním hospodářem a
+
+b) v případě finančního příspěvku podle odstavce 3 písm. a) a c) byl předmět finančního příspěvku splněn v období od dubna do září.
+
+(7) Sazby finančního příspěvku na ochranu lesa jsou uvedeny v příloze č. 1 k tomuto nařízení. V případě kombinace několika způsobů asanace stejného jehličnatého dříví se použije sazba, která je pro žadatele výhodnější.
+
+(8) Výše finančního příspěvku na ochranu lesa se stanoví jako součet součinů sazby a množství skutečně provedených technických jednotek.
+
+### Hlava III – FINANČNÍ PŘÍSPĚVKY NA VYBRANÉ MYSLIVECKÉ ČINNOSTI
+
+#### Díl 1 – Žádost o poskytnutí finančního příspěvku na vybrané myslivecké činnosti
+
+##### § 31
+
+(1) Žádost o poskytnutí finančního příspěvku na vybrané myslivecké činnosti se podává
+
+a) Ministerstvu životního prostředí, pokud byl předmět finančního příspěvku splněn na pozemcích v národních parcích,
+
+b) Ministerstvu zemědělství, pokud byl předmět finančního příspěvku splněn na pozemcích určených pro obranu státu, a
+
+c) krajskému úřadu, pokud byl předmět finančního příspěvku splněn na ostatních pozemcích.
+
+(2) Obsah žádosti o poskytnutí finančního příspěvku na vybrané myslivecké činnosti podávané krajskému úřadu žadatel předá rovněž elektronicky způsobem zveřejněným Ministerstvem zemědělství na jeho internetových stránkách.
+
+#### Díl 2 – Finanční příspěvky poskytované uživatelům honiteb
+
+##### § 32 – Obecné podmínky poskytnutí finančních příspěvků
+
+(1) Finanční příspěvky poskytované uživatelům honiteb lze poskytnout osobě, která byla uživatelem honitby v době splnění předmětu finančního příspěvku.
+
+(2) Žádost o poskytnutí finančních příspěvků poskytovaných uživatelům honiteb žadatel podává podacímu místu podle § 31 po splnění předmětu finančního příspěvku do 31. srpna za období 12 kalendářních měsíců bezprostředně předcházejících uvedenému datu. Žádost o poskytnutí finančního příspěvku na snižování početních stavů kormorána velkého a finančního příspěvku na snižování početních stavů prasete divokého žadatel podává po splnění předmětu finančního příspěvku do 31. srpna za bezprostředně předcházející hospodářský rok.
+
+(3) Žádost o poskytnutí finančních příspěvků poskytovaných uživatelům honiteb se podává za každou honitbu samostatně, a to stejným uživatelem honitby jen jednou za období podle odstavce 2.
+
+(4) Sazby finančních příspěvků poskytovaných uživatelům honiteb jsou uvedeny v příloze č. 1 k tomuto nařízení.
+
+(5) Výše finančních příspěvků poskytovaných uživatelům honiteb se stanoví jako součet součinů sazby a množství skutečně provedených technických jednotek. Výše finančního příspěvku na chladicí zařízení pro ulovenou zvěř se stanoví ve výši 50 % skutečně vynaložených přímých nákladů, nejvýše však může činit 40 000 Kč. Žadatel o finanční příspěvek na chladicí zařízení pro ulovenou zvěř, který je plátcem daně z přidané hodnoty a uplatňuje nárok na odpočet daně z přidané hodnoty u přijatého plnění za předmět finančního příspěvku, uvádí výši nákladů bez daně z přidané hodnoty, u které uplatňuje nárok na odpočet daně.
+
+##### § 33 – Finanční příspěvek na zlepšování životního prostředí zvěře
+
+(1) Předmětem finančního příspěvku na zlepšování životního prostředí zvěře je
+
+a) založení nebo údržba políček pro zvěř; políčkem pro zvěř se rozumí pozemek osetý nebo osázený minimálně dvěma plodinami, které jsou potravní složkou zvěře a nejsou předmětem zemědělské podnikatelské činnosti, na němž se hospodaří tak, aby složení porostu poskytovalo zvěři pastevní nebo krytové možnosti po většinu hospodářského roku,
+
+b) zřizování nových napajedel pro zvěř,
+
+c) pořízení a instalace nebo výroba a instalace nových umělých nor na lov lišek,
+
+d) pořízení a instalace nebo výroba a instalace nových lapacích zařízení splňujících podmínky stanovené § 46 zákona o myslivosti,
+
+e) pořízení a instalace nebo výroba a instalace nových hnízdních budek pro vodní ptáky, kteří jsou zvěří,
+
+f) pořízení a instalace nebo výroba a instalace nových stacionárních a mobilních odchytových zařízení na spárkatou zvěř,
+
+g) pořízení a instalace nebo výroba a instalace nových krmelců pro drobnou zvěř; krmelcem pro drobnou zvěř se rozumí jesle pro krmení zajíce polního objemnou pící a jadrným krmivem nebo zásyp pro pernatou zvěř,
+
+h) pořízení akusticko-světelných plašičů zvěře pro její ochranu při zemědělských činnostech, nebo
+
+i) zajištění vhodného krmiva pro jelena evropského, daňka skvrnitého nebo muflona (dále jen „vybrané druhy spárkaté zvěře“) v přezimovací obůrce na dobu nedostatku potravy v zimě.
+
+(2) K žádosti o poskytnutí finančního příspěvku na zlepšování životního prostředí zvěře žadatel přiloží
+
+a) v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) až g) zákres předmětu finančního příspěvku do mapy v měřítku 1 : 25 000 nebo 1 : 10 000; v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. b) až g) též se zřetelným označením jeho rozmístění v minulých letech, byl-li na něj poskytnut finanční příspěvek,
+
+b) v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) agrotechnickou dokumentaci obsahující zejména parcelní číslo pozemku, název katastrálního území, v němž se pozemek nachází, velikost plochy, skladbu kultur, agrotechnické údaje a období, ve kterém začalo políčko pro zvěř sloužit svému účelu,
+
+c) v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. b) až h) technickou dokumentaci a
+
+d) v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. i) sčítaný počet vybraných druhů spárkaté zvěře po jejím uzavření v přezimovací obůrce.
+
+(3) Finanční příspěvek na zlepšování životního prostředí zvěře lze poskytnout, jestliže
+
+a) výměra políček pro zvěř nepřevyšuje 2 ha na každých započatých 100 ha honitby, přičemž minimální výměra zakládaného políčka pro zvěř je 0,05 ha a maximální výměra 1 ha,
+
+b) četnost zřizovaných napajedel pro zvěř nepřevyšuje 1 kus na každých započatých 100 ha honitby,
+
+c) četnost umělých nor na lov lišek nepřevyšuje 1 kus na každých započatých 250 ha honitby,
+
+d) četnost lapacích zařízení nepřevyšuje 1 kus na každých započatých 100 ha honitby,
+
+e) četnost hnízdních budek pro vodní ptáky nepřevyšuje 2 kusy na každý započatý hektar vodní plochy v honitbě,
+
+f) četnost odchytových zařízení na spárkatou zvěř nepřevyšuje 1 kus na každých započatých 150 ha honitby a odchytové zařízení, pokud je konstruováno jako bedna nebo klec, je vybaveno samospouštěcím zařízením a zařízením pro přenos signálu o uzavření odchytového zařízení,
+
+g) četnost krmelců pro drobnou zvěř nepřevyšuje 1 kus na každých započatých 100 ha honitby,
+
+h) četnost akusticko-světelných plašičů zvěře nepřevyšuje 1 kus na každých započatých 150 ha zemědělské půdy v honitbě, umožňují nastavení doby provozu a vytvářejí alespoň 2 kombinace akusticko-světelných efektů a
+
+i) sčítání vybraných druhů spárkaté zvěře po jejím uzavření v přezimovací obůrce bylo provedeno za účasti zástupce podacího místa podle § 31 a o sčítání byl proveden zápis.
+
+(4) Finanční příspěvek na zlepšování životního prostředí zvěře se v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. b) až g) poskytuje jedenkrát za 10 let a v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. h) jedenkrát za 5 let.
+
+(5) Finanční příspěvek podle odstavce 1 písm. c) se neposkytuje na území národních parků.
+
+##### § 34 – Finanční příspěvek na podporu ohrožených druhů zvěře a zajíce polního
+
+(1) Předmětem finančního příspěvku na podporu ohrožených druhů zvěře a zajíce polního je
+
+a) vypuštění nakoupených nebo odchovaných jedinců ohrožených druhů zvěře, kterými jsou tetřev hlušec, tetřívek obecný a koroptev polní, v lokalitách odpovídajících jejich přirozenému prostředí v rámci honitby,
+
+b) vypuštění nakoupených nebo odchovaných jedinců zajíce polního v lokalitách odpovídajících jeho přirozenému prostředí v rámci honitby, nebo
+
+c) pořízení a umístění nebo výroba a umístění nových přenosných přístřešků pro koroptve polní.
+
+(2) K žádosti o poskytnutí finančního příspěvku na podporu ohrožených druhů zvěře a zajíce polního žadatel přiloží
+
+a) v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) a b) dlouhodobou koncepci podpory ohroženého druhu zvěře nebo zajíce polního,
+
+b) v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) a b) zpracovaný plán opatření péče o ohrožený druh zvěře nebo zajíce polního a způsob vypouštění ohroženého druhu zvěře nebo zajíce polního na daný hospodářský rok,
+
+c) v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) a b) pravomocně udělený souhlas s dovozem živé zvěře nebo jejích vývojových stadií,
+
+d) v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) pravomocně udělený souhlas k vypuštění do přírody nebo pravomocně povolenou výjimku ze zákazů podle § 54 odst. 3 nebo § 56 zákona o ochraně přírody a krajiny a
+
+e) v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. c) technickou dokumentaci a zákres předmětu finančního příspěvku do mapy v měřítku 1 : 25 000 nebo 1 : 10 000 se zřetelným označením jeho rozmístění v minulých 5 letech, byl-li na něj poskytnut finanční příspěvek.
+
+(3) Finanční příspěvek na podporu ohrožených druhů zvěře a zajíce polního lze poskytnout, jestliže
+
+a) nakoupení nebo odchovaní jedinci ohrožených druhů zvěře nebo zajíce polního byli vypuštěni v lokalitách odpovídajících jejich přirozenému prostředí,
+
+b) minimální počet vypouštěných jedinců do honitby byl 30 kusů koroptve polní nebo 10 kusů zajíce polního,
+
+c) četnost přenosných přístřešků pro koroptve polní nepřevyšuje 5 kusů na každých započatých 100 ha zemědělské a ostatní půdy,
+
+d) při vypouštění tetřeva hlušce a tetřívka obecného byl dodržen poměr pohlaví 1 : 1 až 3 : 5,
+
+e) chov a vypuštění zvěře splňuje podmínky stanovené v § 56 zákona o ochraně přírody a krajiny a § 5 zákona o myslivosti,
+
+f) všichni jedinci jsou trvale označeni značkami, které budou evidovány po dobu 5 let, a
+
+g) vypuštění jedinců do honitby bylo provedeno za účasti zástupce podacího místa podle § 31 a o provedeném vypuštění byl proveden zápis.
+
+(4) Finanční příspěvek na podporu ohrožených druhů zvěře a zajíce polního se v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) nevztahuje na vypuštění koroptve polní po zakomorování.
+
+(5) Finanční příspěvek na podporu ohrožených druhů zvěře a zajíce polního se v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) a b) poskytuje na ohrožené druhy zvěře a zajíce polního, kteří nejsou v dané honitbě předmětem podnikatelské činnosti ani lovu po dobu 5 let ode dne jejich vypuštění.
+
+(6) Finanční příspěvek na podporu ohrožených druhů zvěře a zajíce polního se v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. c) poskytuje nejvýše jedenkrát za 5 let.
+
+##### § 35 – Finanční příspěvek na oborní chovy zvěře se vzácnými druhy nebo poddruhy
+
+(1) Předmětem finančního příspěvku na oborní chovy zvěře se vzácnými druhy nebo poddruhy je podpora oborních chovů jelena bílého a kozy bezoárové.
+
+(2) K žádosti o poskytnutí finančního příspěvku na oborní chovy zvěře se vzácnými druhy nebo poddruhy žadatel přikládá dlouhodobou koncepci oborního chovu zvěře a plán mysliveckého hospodaření na daný hospodářský rok.
+
+(3) Finanční příspěvek na oborní chovy zvěře se vzácnými druhy nebo poddruhy lze poskytnout, jestliže žadatel hospodaří podle plánu mysliveckého hospodaření na daný hospodářský rok a v souladu s dlouhodobou koncepcí oborního chovu zvěře.
+
+(4) Při určování výše finančního příspěvku na oborní chovy zvěře se vzácnými druhy nebo poddruhy je rozhodující počet kusů k 31. březnu kalendářního roku, ve kterém byla žádost o poskytnutí finančního příspěvku na oborní chovy zvěře se vzácnými druhy nebo poddruhy podána, maximálně však do výše normovaného stavu stanoveného orgánem státní správy myslivosti.
+
+##### § 36 – Finanční příspěvek na použití dravců v ochraně rostlin
+
+(1) Předmětem finančního příspěvku na použití dravců v ochraně rostlin je
+
+a) pořízení a instalace nebo výroba a instalace nových hnízdních podložek nebo budek pro dravce, nebo
+
+b) rozmístění stanovišť pro dravce na zemědělské půdě.
+
+(2) K žádosti o poskytnutí finančního příspěvku na použití dravců v ochraně rostlin žadatel přiloží projekt ochrany konkrétních ploch dravci, včetně zakreslení hnízdních podložek, budek nebo loveckých stanovišť pro dravce do mapy v měřítku 1 : 25 000 nebo 1 : 10 000; v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) též se zřetelným označením jeho rozmístění v minulých 10 letech, byl-li na něj poskytnut finanční příspěvek.
+
+(3) Finanční příspěvek na použití dravců v ochraně rostlin lze poskytnout, jestliže četnost
+
+a) hnízdních podložek nebo budek pro dravce nepřevyšuje 1 kus na každých započatých 100 ha honitby, nebo
+
+b) loveckých stanovišť pro dravce nepřevyšuje 5 kusů na každý započatý hektar zemědělské půdy v honitbě.
+
+(4) Finanční příspěvek na použití dravců v ochraně rostlin se v případě předmětu finančního příspěvku uvedeného v odstavci 1 písm. a) poskytuje jedenkrát za 10 let.
+
+##### § 37 – Finanční příspěvek na snižování početních stavů kormorána velkého
+
+(1) Předmětem finančního příspěvku na snižování početních stavů kormorána velkého je ulovení kormorána velkého v souladu s ustanovením § 39 zákona o myslivosti a s ustanovením § 5b zákona o ochraně přírody a krajiny.
+
+(2) K žádosti o poskytnutí finančního příspěvku na snižování početních stavů kormorána velkého žadatel přiloží rozhodnutí orgánu státní správy myslivosti o povolení nebo uložení snížení početních stavů zvěře.
+
+(3) Finanční příspěvek na snižování početních stavů kormorána velkého lze poskytnout za každou horní část zobáku kormorána velkého oddělenou na úrovni ozobí, jejíž předání ke zničení je potvrzeno Státní veterinární správou.
+
+(4) Finanční příspěvek na snižování početních stavů kormorána velkého se poskytuje nejvýše na počet odlovených kormoránů velkých uvedený v příslušném ročním statistickém výkazu o stavu honitby.
+
+##### § 38 – Finanční příspěvek na snižování početních stavů prasete divokého
+
+(1) Předmětem finančního příspěvku na snižování početních stavů prasete divokého je ulovení prasete divokého v souladu se zákonem o myslivosti.
+
+(2) Finanční příspěvek na snižování početních stavů prasete divokého lze poskytnout na každý kus, kterým byl v příslušné honitbě v daném hospodářském roce překročen roční průměr odlovu prasat divokých ve stejné honitbě za 5 hospodářských roků bezprostředně předcházejících hospodářskému roku, za který je finanční příspěvek požadován. Pokud u nově uznaných honiteb chybí údaj o odlovu prasat divokých za některý z 5 předchozích hospodářských roků, použije se jako roční průměr odlovu prasat divokých za 5 předchozích hospodářských roků hodnota 3 kusy na každých 100 ha honitby, zaokrouhlená po výpočtu na celé číslo dolů.
+
+(3) Finanční příspěvek na snižování početních stavů prasete divokého lze poskytnout, jestliže u ulovených kusů uvedených do výpočtu příspěvku za hospodářský rok, za který je příspěvek poskytován,
+
+a) bylo uživatelem honitby zajištěno vyšetření vzorku z uloveného kusu na přítomnost svalovce, nebo byl ulovený kus uživatelem honitby dodán do zařízení, ve kterém probíhá úřední veterinární prohlídka, a není Státní veterinární správou evidováno předložení nevyšetřitelného vzorku nebo vzorku bez ocasu k vyšetření na přítomnost svalovce, nebo
+
+b) byl kus ulovený v oblasti zasažené africkým morem prasat uživatelem honitby dodán do asanačního podniku.
+
+(4) Na výzvu orgánu státní správy myslivosti žadatel předloží hlášenku z lístku o původu zvěře, protokol o výsledku laboratorního vyšetření vzorku z uloveného kusu na přítomnost svalovce nebo doklad o dodávce uloveného kusu do zařízení, ve kterém probíhá úřední veterinární prohlídka, přičemž tento doklad obsahuje označení plomby dodaného uloveného kusu a potvrzení, že byl ulovený kus dodán s ocasem, nebo doklad o dodávce kusu uloveného v oblasti zasažené africkým morem prasat uživatelem honitby do asanačního podniku, přičemž tento doklad obsahuje označení plomby dodaného uloveného kusu.
+
+(5) Místem splnění předmětu finančního příspěvku na snižování početních stavů prasete divokého se rozumí území honitby, ve které byly kusy uvedené do výpočtu příspěvku uloveny.
+
+(6) Finanční příspěvek na snižování početních stavů prasat divokých se poskytuje nejvýše na počet odlovených prasat divokých uvedený v příslušném ročním statistickém výkazu o stavu honitby.
+
+##### § 39 – Finanční příspěvek na ozeleňování krajiny včetně oplocování dřevin
+
+(1) Předmětem finančního příspěvku na ozeleňování krajiny včetně oplocování dřevin je
+
+a) založení nových remízků mimo pozemky určené k plnění funkcí lesa; remízkem se rozumí dřevinný porost vzniklý výsadbou vhodných druhů keřů a alespoň dvou druhů stromů odpovídajících stanovištním podmínkám a účelu remízku, jímž je zajištění přirozeného úkrytu pro drobnou zvěř ve volné krajině, nebo
+
+b) výsadba plodonosných dřevin mimo pozemky určené k plnění funkcí lesa; plodonosnými dřevinami se rozumí druhy dřevin v rámci rodů bez, brslen, dřín, dřišťál, hloh, hrušeň, jabloň, jeřáb, jírovec, kaštanovník, líska, morušovník, ořešák, ptačí zob, rakytník, růže, slivoň a srstka.
+
+(2) K žádosti o poskytnutí finančního příspěvku na ozeleňování krajiny včetně oplocování dřevin žadatel přiloží
+
+a) zákres předmětu finančního příspěvku do mapy v měřítku 1 : 25 000 nebo 1 : 10 000,
+
+b) kopii dokladu o nákupu sadebního materiálu dřevin obsahující zejména druh dřeviny, výšku nadzemní části a počet jedinců,
+
+c) fotografickou dokumentaci předmětu finančního příspěvku a
+
+d) projekt obsahující zejména parcelní číslo pozemku a název katastrálního území, na němž byl založen remízek nebo vysazeny plodonosné dřeviny, dřevinnou skladbu výsadby a v případě remízku i jeho plochu.
+
+(3) Finanční příspěvek na ozeleňování krajiny včetně oplocování dřevin lze poskytnout, jestliže
+
+a) pro výsadbu nebyly využity dřeviny ze seznamu invazních nepůvodních druhů v prováděcím nařízení Komise (EU) 2016/1141 ze dne 13. července 2016, kterým se přijímá seznam invazních nepůvodních druhů s významným dopadem na Unii podle nařízení Evropského parlamentu a Rady (EU) č. 1143/2014, v platném znění,
+
+b) výměra založených remízků nepřesahuje 2 ha na každých započatých 100 ha honitby, přičemž minimální výměra založeného remízku je 0,05 ha a maximální výměra založeného remízku je 1 ha, a
+
+c) pro výsadbu stromů v založeném remízku a pro výsadbu stromů plodonosných dřevin byly použity poloodrostky nebo odrostky opatřené mechanickou zábranou kontaktu se zvěří o minimální výšce 1 m; poloodrostkem se rozumí dřevina s nadzemní částí o výšce od 51 do 120 cm, odrostkem se rozumí dřevina s nadzemní částí o výšce od 121 do 250 cm.
+
+(4) Po dobu 3 let od výsadby nesmí počet životaschopných jedinců klesnout pod 80 % z počtu uvedeného v žádosti. Dřevina uvedená v žádosti může být nahrazena jinou dřevinou, pokud vyhovuje ustanovení odstavce 1. Na náhradu neživotaschopných jedinců se finanční příspěvek na ozeleňování krajiny včetně oplocování dřevin neposkytuje.
+
+##### § 40 – Finanční příspěvek na chladicí zařízení pro ulovenou zvěř
+
+(1) Předmětem finančního příspěvku na chladicí zařízení pro ulovenou zvěř je nákup a zprovoznění chladicího zařízení a jeho součástí pro uchování ulovené zvěře ve visu.
+
+(2) K žádosti o poskytnutí finančního příspěvku na chladicí zařízení pro ulovenou zvěř žadatel přiloží
+
+a) čestné prohlášení žadatele o podporu v režimu de minimis,
+
+b) kopii dokladu o registraci chladicího zařízení krajskou veterinární správou,
+
+c) kopii účetních nebo daňových dokladů vztahujících se k nákupu a zprovoznění chladicího zařízení a jeho součástí a
+
+d) fotodokumentaci chladicího zařízení nebo stavby obsahující chladicí zařízení s jejich zobrazením ze 3 stran a fotodokumentaci výrobního štítku chladicího zařízení.
+
+(3) Finanční příspěvek na chladicí zařízení pro ulovenou zvěř se v rámci jedné honitby stejnému uživateli honitby poskytuje jedenkrát za 5 let.
+
+(4) Finanční příspěvek na chladicí zařízení pro ulovenou zvěř je poskytován v režimu de minimis podle nařízení Komise (EU) 2023/2831.
+
+#### Díl 3 – Finanční příspěvky poskytované vlastníkům loveckých psů a loveckých dravců
+
+##### § 41 – Obecné podmínky poskytnutí finančních příspěvků poskytovaných vlastníkům loveckých psů a loveckých dravců
+
+(1) Sazby finančních příspěvků poskytovaných vlastníkům loveckých psů a loveckých dravců jsou uvedeny v příloze č. 1 k tomuto nařízení.
+
+(2) Výše finančních příspěvků poskytovaných vlastníkům loveckých psů a loveckých dravců se stanoví jako součet součinů sazby a počtu technických jednotek.
+
+##### § 42 – Finanční příspěvek na chov a výcvik národních plemen loveckých psů
+
+(1) Finanční příspěvek na chov a výcvik národních plemen loveckých psů lze poskytnout vlastníku loveckého psa.
+
+(2) Předmětem finančního příspěvku na chov a výcvik národních plemen loveckých psů je úspěšně vykonaná zkouška psa s přiznáním lovecké upotřebitelnosti u plemen psů český teriér nebo český fousek.
+
+(3) Žádost o poskytnutí finančního příspěvku na chov a výcvik národních plemen loveckých psů žadatel podává do 6 měsíců bezprostředně následujících po měsíci, ve kterém byl splněn předmět finančního příspěvku.
+
+(4) Součástí žádosti o poskytnutí finančního příspěvku na chov a výcvik národních plemen loveckých psů je potvrzení o úspěšně vykonané zkoušce psa s přiznáním lovecké upotřebitelnosti.
+
+(5) Finanční příspěvek na chov a výcvik národních plemen loveckých psů lze poskytnout za úspěšné vykonání jednotlivých druhů zkoušek jednou za život psa.
+
+(6) Finanční příspěvek na chov a výcvik národních plemen loveckých psů lze poskytnout pouze za předpokladu, že je lovecký pes označen elektronickým čipem.
+
+##### § 43 – Finanční příspěvek na chov a výcvik loveckých dravců
+
+(1) Finanční příspěvek na chov a výcvik loveckých dravců lze poskytnout vlastníku chovu loveckého dravce vyvedeného z umělého chovu.
+
+(2) Předmětem finančního příspěvku na chov a výcvik loveckých dravců je úspěšný odchov loveckého dravce vyvedeného z umělého chovu, a to jestřába lesního, sokola stěhovavého, raroha velkého nebo orla skalního.
+
+(3) Žádost o poskytnutí finančního příspěvku na chov a výcvik loveckých dravců žadatel podává do 6 měsíců bezprostředně následujících po měsíci, ve kterém byl pro úspěšně odchovaného loveckého dravce vydán doklad CITES podle § 21 zákona o obchodování s ohroženými druhy.
+
+(4) K žádosti o poskytnutí finančního příspěvku na chov a výcvik loveckých dravců žadatel přiloží
+
+a) doklad CITES vydaný podle § 21 zákona o obchodování s ohroženými druhy,
+
+b) potvrzení o složení sokolnické zkoušky a
+
+c) potvrzení o členství v sokolnické organizaci.
+
+(5) Finanční příspěvek na chov a výcvik loveckých dravců lze poskytnout pouze za předpokladu, že jsou lovečtí dravci trvale nezaměnitelně označeni kroužkem.
+
+### Hlava IV – PŘECHODNÉ USTANOVENÍ
+
+#### § 44
+
+Finanční příspěvek na podporu sdružování vlastníků lesů a podporu hospodaření ve sdružených lesích vlastníků malých výměr se neposkytne, pokud předmět finančního příspěvku byl splněn přede dnem nabytí účinnosti tohoto nařízení.
+
+## ČÁST DRUHÁ – Změna nařízení vlády o stanovení závazných pravidel poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti
+
+### § 45
+
+Nařízení vlády č. 30/2014 Sb., o stanovení závazných pravidel poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti, ve znění nařízení vlády č. 308/2014 Sb., nařízení vlády č. 51/2015 Sb., nařízení vlády č. 209/2016 Sb., nařízení vlády č. 245/2018 Sb., nařízení vlády č. 297/2020 Sb., nařízení vlády č. 455/2021 Sb. a nařízení vlády č. 451/2023 Sb., se mění takto:
+
+Za § 45 se vkládá nový § 45a, který zní:
+
+> **„§ 45a**
+
+> (1) Žádosti podle části druhé tohoto nařízení nelze podat pro období počínající ode dne nabytí účinnosti nařízení vlády č. 24/2026 Sb., o podmínkách poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti a o změně souvisejících nařízení vlády, a pro období následující.
+
+> (2) Žádosti podle části třetí tohoto nařízení nelze podat pro období počínající od 1. září 2026 a pro období následující.“.
+
+### § 46 – Přechodná ustanovení
+
+1\. Finanční příspěvek podle části první hlavy II tohoto nařízení, jehož předmět byl splněn přede dnem nabytí účinnosti tohoto nařízení, se poskytne podle nařízení vlády č. 30/2014 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení.
+
+2\. Finanční příspěvek podle části první hlavy III tohoto nařízení, jehož předmět byl splněn přede dnem 1. září 2026, se poskytne podle nařízení vlády č. 30/2014 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení.
+
+## ČÁST TŘETÍ – Změna nařízení vlády, kterým se mění některá nařízení vlády v souvislosti s přijetím nařízení vlády o stanovení důsledků porušení podmíněnosti poskytování některých zemědělských podpor a nařízení vlády o stanovení podrobností evidence využití půdy podle uživatelských vztahů
+
+## ČÁST ČTVRTÁ – Změna nařízení vlády, kterým se mění některá nařízení vlády v souvislosti se zrušením technických průkazů vozidel
+
+## ČÁST ŠESTÁ
+
+**ÚČINNOST**
+
+### § 50
+
+Toto nařízení nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení, s výjimkou
+
+a) ustanovení části první hlavy III, které nabývá účinnosti dnem 1. září 2026,
+
+b) ustanovení § 47, § 48 a části páté, která nabývají účinnosti dnem 1. ledna 2029.
+
+Předseda vlády:
+
+v z. doc. Ing. Havlíček, Ph.D., MBA, v. r.
+
+​1. místopředseda vlády a ministr průmyslu a obchodu
+
+Ministr zemědělství:
+
+Ing. Šebestyán, MBA, v. r.
+
+### Příloha č. 1
+
+#### SAZBY FINANČNÍCH PŘÍSPĚVKŮ NA HOSPODAŘENÍ V LESÍCH A NA VYBRANÉ MYSLIVECKÉ ČINNOSTI
+
+| 1. | *Zkrácený název příspěvku* | *Identifikace příspěvku​* | *Sazba příspěvku na technickou jednotku* |
+|---|---|---|---|
+| 2. | **Sazby finančního příspěvku na ekologické a k přírodě šetrné technologie při hospodaření v lese** | | |
+| 3. | Soustřeďování dříví lanovkou | D.a.1 | 200 Kč/m<sup>3</sup> |
+| 4. | Soustřeďování dříví koněm | D.b.1 | 120 Kč/m<sup>3</sup> |
+| 5. | Soustřeďování dříví vyvážením | D.c.1 | 50 Kč/m<sup>3</sup> |
+| 6. | Štěpkování/drcení klestu | D.d.1 | 25 000 Kč/ha |
+| 7. | Soustřeďování dříví železným koněm | D.e.1 | 80 Kč/m<sup>3</sup> |
+| 8. | **Sazby finančního příspěvku na obnovu, zajištění a výchovu lesních porostů do 40 let věku** | | |
+| 9. | Přirozená obnova - dřeviny meliorační a zpevňující | B.a.1 | 30 000 Kč/ha |
+| 10 | Přirozená obnova - dřeviny cílové a přípravné | B.a.2 | 20 000 Kč/ha |
+| 11. | Umělá obnova síjí - dřeviny meliorační a zpevňující | B.a.3 | 30 000 Kč/ha |
+| 12 | Umělá obnova síjí - dřeviny cílové a přípravné | B.a.4 | 20 000 Kč/ha |
+| 13. | Umělá obnova sadbou první - dřeviny meliorační a zpevňující - semenáčky, sazenice | B.b.1 | 15 Kč/ks |
+| 14. | Umělá obnova sadbou první - dřeviny cílové a přípravné - semenáčky, sazenice | B.b.2 | 9 Kč/ks |
+| 15. | Umělá obnova sadbou první - dřeviny meliorační a zpevňující - poloodrostky | B.b.3 | 30 Kč/ks |
+| 16. | Umělá obnova sadbou první - dřeviny meliorační a zpevňující - odrostky | B.b.4 | 50 Kč/ks |
+| 17. | Umělá obnova sadbou první - dřeviny cílové a přípravné - poloodrostky | B.b.5 | 30 Kč/ks |
+| 18. | Umělá obnova sadbou první - dřeviny cílové a přípravné - odrostky | B.b.6 | 50 Kč/ks |
+| 19. | Zajištění lesních porostů - dřeviny meliorační a zpevňující | B.d.1 | 50 000 Kč/ha |
+| 20. | Zajištění lesních porostů - dřeviny cílové a přípravné | B.d.2 | 20 000 Kč/ha |
+| 21. | Následná péče o výsadbu - dřeviny meliorační a zpevňující, cílové a přípravné | B.d.3 | 16 000 Kč/ha/rok |
+| 22. | Výchova lesních porostů | B.f.1 | 10 000 Kč/ha |
+| 23. | Oplocenky | B.o.1 | 70 000 Kč/km |
+| 24. | Mechanická příprava půdy | B.p.1 | 12 000 Kč/ha |
+| 25. | Ukládání klestu na hromady nebo valy | B.q.1 | 50 Kč/m<sup>3</sup> |
+| 26. | **Sazby finančního příspěvku na zvyšování podílu melioračních a zpevňujících dřevin** | | |
+| 27. | Přirozená obnova a umělá obnova síjí - meliorační a zpevňující dřeviny | B.g.1 | 35 000 Kč/ha |
+| 28. | Umělá obnova sadbou první - meliorační a zpevňující dřeviny – semenáčky a sazenice | B.h.1 | 16 Kč/ks |
+| 29. | Umělá obnova sadbou první - meliorační a zpevňující dřeviny – poloodrostky | B.h.2 | 35 Kč/ks |
+| 30. | Umělá obnova sadbou první - meliorační a zpevňující dřeviny – odrostky | B.h.3 | 55 Kč/ks |
+| 31. | Zajištění lesních porostů - meliorační a zpevňující dřeviny | B.j.1 | 60 000 Kč/ha |
+| 32. | Přeměny, rekonstrukce | B.k.1 | 20 000 Kč/ha |
+| 33. | Výchova lesních porostů | B.l.1 | 12 000 Kč/ha |
+| 34. | Oplocenky | B.m.1 | 70 000 Kč/km |
+| 35. | Individuální ochrana výsadby proti zvěři | B.n.2 | 60 Kč/ks |
+| 36. | Ukládání klestu na hromady nebo valy | B.r.1 | 50 Kč/m<sup>3</sup> |
+| 37. | **Sazby finančního příspěvku na podporu sdružování vlastníků lesů a podporu hospodaření ve sdružených lesích vlastníků malých výměr** | | |
+| 38. | Založení sdruženého majetku | C.a.1 | 200 000 Kč |
+| 39. | Správa sdruženého majetku | C.b.1 | 2 500 Kč/ha |
+| 40. | Společný prodej dříví | C.c.1 | 80 Kč/m<sup>3</sup> |
+| 41. | **Sazby finančního příspěvku na ochranu lesa** | | |
+| 42. | Asanace insekticidním postřikem | I.b.1 | 120 Kč/m<sup>3</sup> |
+| 43. | Asanace odkorněním - odkornění ruční nebo moto-manuální | I.c.1 | 350 Kč/m<sup>3</sup> |
+| 44. | Asanace odkorněním - odkornění strojní | I.c.2 | 150 Kč/m<sup>3</sup> |
+| 45. | Instalace feromonového odparníku | I.g.1 | 150 Kč/ks |
+| 46. | **Sazby finančních příspěvků poskytovaných uživatelům honiteb** | | |
+| 47. | Políčka pro zvěř | G.a.1 | 8 000 Kč/ha |
+| 48. | Napajedla pro zvěř | G.a.2 | 1 000 Kč/ks |
+| 49. | Umělé nory na lov lišek | G.a.3 | 2 000 Kč/ks |
+| 50. | Lapací zařízení | G.a.4 | 1 000 Kč/ks |
+| 51. | Hnízdní budky pro vodní ptáky | G.a.5 | 500 Kč/ks |
+| 52. | Odchytová zařízení na spárkatou zvěř | G.a.6 | 16 000 Kč/ks |
+| 53. | Krmelce pro drobnou zvěř | G.a.7 | 1 000 Kč/ks |
+| 54. | Akusticko-světelné plašiče zvěře | G.a.8 | 2 000 Kč/ks |
+| 55. | Přezimovací obůrky - jelen | G.a.9 | 1 000 Kč/ks |
+| 56. | Přezimovací obůrky - daněk, muflon | G.a.0 | 500 Kč/ks |
+| 57. | Vypuštění tetřeva hlušce | G.b.1 | 8 000 Kč/ks |
+| 58. | Vypuštění tetřívka obecného | G.b.2 | 5 000 Kč/ks |
+| 59. | Vypuštění koroptve polní | G.b.3 | 250 Kč/ks |
+| 60. | Vypuštění zajíce polního | G.b.4 | 1 500 Kč/ks |
+| 61. | Přenosné přístřešky pro koroptve | G.b.5 | 200 Kč/ks |
+| 62. | Oborní chovy - koza bezoárová | G.c.1 | 1 500 Kč/ks |
+| 63. | Oborní chovy - bílý jelen | G.c.2 | 1 500 Kč/ks |
+| 64. | Hnízdní podložky a budky pro dravce | G.d.1 | 150 Kč/ks |
+| 65. | Lovecká stanoviště (berličky) pro dravce | G.d.2 | 40 Kč/ks |
+| 66. | Ulovení kormorána velkého | G.f.1 | 500 Kč/ks |
+| 67. | Ulovení prasete divokého | G.g.1 | 2 000 Kč/ks |
+| 68. | Ozeleňování krajiny - výsadba keřů | G.h.1 | 50 Kč/ks |
+| 69. | Ozeleňování krajiny - výsadba a ochrana poloodrostků | G.h.2 | 80 Kč/ks |
+| 70. | Ozeleňování krajiny - výsadba a ochrana odrostků | G.h.3 | 100 Kč/ks |
+| 71. | **Sazby finančních příspěvků poskytovaných vlastníkům loveckých psů a loveckých dravců** | | |
+| 72. | Zkouška psa - český teriér | K.a.1 | 2 000 Kč/zkouška |
+| 73. | Zkouška psa - český fousek | K.a.2 | 2 000 Kč/zkouška |
+| 74. | Odchov dravce - jestřáb lesní | K.b.1 | 7 000 Kč/ks |
+| 75. | Odchov dravce - sokol stěhovavý | K.b.2 | 5 000 kč/ks |
+| 76. | Odchov dravce - raroh velký | K.b.3 | 5 000 kč/ks |
+| 77. | Odchov dravce - orel skalní | K.b.4 | 5 000 kč/ks |
+
+### Příloha č. 2
+
+#### PODPOROVANÉ PŘENOSY REPRODUKČNÍHO MATERIÁLU LESNÍCH DŘEVIN
+
+| 1. | DŘEVINA | DO PŘÍRODNÍ LESNÍ OBLASTI | JE MOŽNÉ PŘENÁŠET ZE STEJNÉ PŘÍRODNÍ LESNÍ OBLASTI A DÁLE Z PŘÍRODNÍ LESNÍ OBLASTI |
+|---|---|---|---|
+| 2. | smrk ztepilý | 1 | 2, 3, 4, 5, 11, 13, 19, 21, 22 |
+| 3. | smrk ztepilý | 2 | 1, 3, 4, 5, 9, 11, 17, 18 |
+| 4. | smrk ztepilý | 3 | 2, 4, 6, 7, 8, 9, 10, 11, 13, 15 |
+| 5. | smrk ztepilý | 4 | 1, 2, 3, 6, 7, 8, 9, 10, 15 |
+| 6. | smrk ztepilý | 5 | 1, 2, 17, 18, 19, 20 |
+| 7. | smrk ztepilý | 6 | 3, 4, 7, 8, 9, 10, 11, 12, 15 |
+| 8. | smrk ztepilý | 7 | 3, 4, 6, 8, 9, 10, 12, 13, 14, 15 |
+| 9. | smrk ztepilý | 8 | 3, 4, 6, 7, 9, 10, 15, 17 |
+| 10. | smrk ztepilý | 9 | 2, 3, 4, 6, 7, 8, 10, 15, 17 |
+| 11. | smrk ztepilý | 10 | 3, 4, 6, 7, 8, 9, 12, 15, 16, 17, 31 |
+| 12. | smrk ztepilý | 11 | 2, 3, 6, 12, 13, 14 |
+| 13. | smrk ztepilý | 12 | 6, 7, 10, 11, 13, 14, 15 |
+| 14. | smrk ztepilý | 13 | - |
+| 15. | smrk ztepilý | 14 | 11, 12, 13 |
+| 16. | smrk ztepilý | 15 | 3, 4, 6, 7, 8, 9, 10, 12, 16 |
+| 17. | smrk ztepilý | 16 | 10, 15, 30, 31, 33 |
+| 18. | smrk ztepilý | 17 | 2, 5, 8, 9, 10, 18, 23, 26, 31 |
+| 19. | smrk ztepilý | 18 | 5, 6, 17, 19, 20, 21, 23 |
+| 20. | smrk ztepilý | 19 | 1, 5, 18, 20, 21 |
+| 21. | smrk ztepilý | 20 | 5, 18, 19, 20, 21 |
+| 22. | smrk ztepilý | 21 | 18, 19, 20, 22, 23, 24 |
+| 23. | smrk ztepilý | 22 | 21, 23, 24 |
+| 24. | smrk ztepilý | 23 | 17, 18, 21, 22, 24, 26 |
+| 25. | smrk ztepilý | 24 | 21, 22, 23, 26 |
+| 26. | smrk ztepilý | 25 | 26, 27, 28, 29, 31, 32 |
+| 27. | smrk ztepilý | 26 | 17, 23, 24, 25, 27, 28, 29, 31, 32 |
+| 28. | smrk ztepilý | 27 | - |
+| 29. | smrk ztepilý | 28 | 25, 26, 27, 29, 31, 32, 34 |
+| 30. | smrk ztepilý | 29 | 25, 26, 27, 28, 32, 34, 39 |
+| 31. | smrk ztepilý | 30 | 16, 31, 33, 34, 35 |
+| 32. | smrk ztepilý | 31 | 10, 16, 17, 25, 26, 28, 30, 33, 34 |
+| 33. | smrk ztepilý | 32 | 25, 26, 27, 28, 29, 39 |
+| 34. | smrk ztepilý | 33 | 16, 30, 31, 35 |
+| 35. | smrk ztepilý | 34 | 28, 29, 30, 31, 35, 36, 37, 38, 39, 41 |
+| 36. | smrk ztepilý | 35 | 30, 33, 34, 36, 38 |
+| 37. | smrk ztepilý | 36 | 34, 35, 37, 38, 39, 40, 41 |
+| 38. | smrk ztepilý | 37 | 34, 36, 38, 39, 40, 41 |
+| 39. | smrk ztepilý | 38 | 34, 35, 36, 37, 39, 40, 41 |
+| 40. | smrk ztepilý | 39 | 29, 32, 34, 36, 37, 38, 40, 41 |
+| 41. | smrk ztepilý | 40 | - |
+| 42. | smrk ztepilý | 41 | 34, 36, 37, 38, 39, 40 |
+| 43. | borovice lesní | 1 | 2, 3, 4, 5, 6, 7, 8, 9, 11, 13, 19 |
+| 44. | borovice lesní | 2 | 1, 3, 4, 5, 6, 7, 8, 9, 11, 17, 18 |
+| 45. | borovice lesní | 3 | 1, 2, 4, 6, 7, 8, 9, 11 |
+| 46. | borovice lesní | 4 | 1, 2, 3, 6, 7, 8, 9, 11 |
+| 47. | borovice lesní | 5 | 1, 2, 17, 18, 19, 20, 21, 22, 23, 24 |
+| 48. | borovice lesní | 6 | 1, 2, 3, 4, 7, 8, 9, 11, 12 |
+| 49. | borovice lesní | 7 | 1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 13 |
+| 50. | borovice lesní | 8 | 1, 2, 3, 4, 6, 7, 9, 10, 11, 17 |
+| 51. | borovice lesní | 9 | 1, 2, 3, 4, 6, 7, 8, 11, 17 |
+| 52. | borovice lesní | 10 | 15 |
+| 53. | borovice lesní | 11 | 1, 2, 3, 4, 6, 7, 8, 9, 12, 13 |
+| 54. | borovice lesní | 12 | 6, 10, 11, 13, 14, 15 |
+| 55. | borovice lesní | 13 | 11, 12, 14 |
+| 56. | borovice lesní | 14 | 11, 12, 13 |
+| 57. | borovice lesní | 15 | - |
+| 58. | borovice lesní | 16 | 11, 13, 30, 31, 33 |
+| 59. | borovice lesní | 17 | - |
+| 60. | borovice lesní | 18 | 5, 17, 19, 20, 21, 22, 23, 24 |
+| 61. | borovice lesní | 19 | 1, 5, 18, 20, 21, 22, 23, 24 |
+| 62. | borovice lesní | 20 | 5, 18, 19, 21, 22, 23, 24 |
+| 63. | borovice lesní | 21 | 5, 18, 19, 20, 22, 23, 24 |
+| 64. | borovice lesní | 22 | 5, 18, 19, 20, 21, 23, 24 |
+| 65. | borovice lesní | 23 | 5, 17, 18, 19, 20, 21, 22, 24, 26 |
+| 66. | borovice lesní | 24 | 5, 18, 19, 20, 21, 22, 23, 26 |
+| 67. | borovice lesní | 25 | 26, 27, 28, 29, 31, 32 |
+| 68. | borovice lesní | 26 | 17, 25, 27, 28, 29, 31, 32 |
+| 69. | borovice lesní | 27 | 25, 26, 28, 29, 32 |
+| 70. | borovice lesní | 28 | 25, 26, 27, 29, 31, 32, 34 |
+| 71. | borovice lesní | 29 | 25, 26, 27, 28, 32, 39, 34 |
+| 72. | borovice lesní | 30 | 16, 31, 33, 34, 35 |
+| 73. | borovice lesní | 31 | 10, 16, 17, 25, 26, 28, 30, 33, 34 |
+| 74. | borovice lesní | 32 | 25, 26, 27, 28, 29, 39 |
+| 75. | borovice lesní | 33 | 16, 30, 31, 35 |
+| 76. | borovice lesní | 34 | 29, 30, 31, 35, 36, 37, 38, 39, 41 |
+| 77. | borovice lesní | 35 | 30, 33, 34, 36, 37, 38, 41 |
+| 78. | borovice lesní | 36 | 34, 35, 37, 38, 41 |
+| 79. | borovice lesní | 37 | 34, 35, 36, 38, 39, 41 |
+| 80. | borovice lesní | 38 | 34, 35, 36, 37, 41 |
+| 81. | borovice lesní | 39 | 29, 32, 34, 40, 41 |
+| 82. | borovice lesní | 40 | 37, 39, 41 |
+| 83. | borovice lesní | 41 | 34, 35, 36, 37, 38, 39, 41 |
+| 84. | modřín opadavý | 1 | 1 až 34 |
+| 85. | modřín opadavý | 2 | 1 až 34 |
+| 86. | modřín opadavý | 3 | 1 až 34 |
+| 87. | modřín opadavý | 4 | 1 až 34 |
+| 88. | modřín opadavý | 5 | 1 až 34 |
+| 89. | modřín opadavý | 6 | 1 až 34 |
+| 90. | modřín opadavý | 7 | 1 až 34 |
+| 91. | modřín opadavý | 8 | 1 až 34 |
+| 92. | modřín opadavý | 9 | 1 až 34 |
+| 93. | modřín opadavý | 10 | 1 až 34 |
+| 94. | modřín opadavý | 11 | 1 až 34 |
+| 95. | modřín opadavý | 12 | 1 až 34 |
+| 96. | modřín opadavý | 13 | 1 až 34 |
+| 97. | modřín opadavý | 14 | 1 až 34 |
+| 98. | modřín opadavý | 15 | 1 až 34 |
+| 99. | modřín opadavý | 16 | 1 až 34 |
+| 100. | modřín opadavý | 17 | 1 až 34 |
+| 101. | modřín opadavý | 18 | 1 až 34 |
+| 102. | modřín opadavý | 19 | 1 až 34 |
+| 103. | modřín opadavý | 20 | 1 až 34 |
+| 104. | modřín opadavý | 21 | 1 až 34 |
+| 105. | modřín opadavý | 22 | 1 až 34 |
+| 106. | modřín opadavý | 23 | 1 až 34 |
+| 107. | modřín opadavý | 24 | 1 až 34 |
+| 108. | modřín opadavý | 25 | 1 až 34 |
+| 109. | modřín opadavý | 26 | 1 až 34 |
+| 110. | modřín opadavý | 27 | 28, 29, 32 |
+| 111. | modřín opadavý | 28 | 27, 29, 32 |
+| 112. | modřín opadavý | 29 | 27, 28, 32 |
+| 113. | modřín opadavý | 30 | 1 až 35 |
+| 114. | modřín opadavý | 31 | 1 až 34 |
+| 115. | modřín opadavý | 32 | 27, 28, 29 |
+| 116. | modřín opadavý | 33 | 1 až 35 |
+| 117. | modřín opadavý | 34 | 1 až 39, 41 |
+| 118. | modřín opadavý | 35 | 30, 33, 34, 36 až 41 |
+| 119. | modřín opadavý | 36 | 34, 35, 37 až 41 |
+| 120. | modřín opadavý | 37 | 34, 35, 36, 38 až 41 |
+| 121. | modřín opadavý | 38 | 34, 35, 36, 37, 39 až 41 |
+| 122. | modřín opadavý | 39 | 29, 32, 34 až 38, 40, 41 |
+| 123. | modřín opadavý | 40 | 35 až 39, 41 |
+| 124. | modřín opadavý | 41 | 34 až 40 |
+| 125. | ostatní dřeviny | 1 | 1 až 34 |
+| 126. | ostatní dřeviny | 2 | 1 až 34 |
+| 127. | ostatní dřeviny | 3 | 1 až 34 |
+| 128. | ostatní dřeviny | 4 | 1 až 34 |
+| 129. | ostatní dřeviny | 5 | 1 až 34 |
+| 130. | ostatní dřeviny | 6 | 1 až 34 |
+| 131. | ostatní dřeviny | 7 | 1 až 34 |
+| 132. | ostatní dřeviny | 8 | 1 až 34 |
+| 133. | ostatní dřeviny | 9 | 1 až 34 |
+| 134. | ostatní dřeviny | 10 | 1 až 34 |
+| 135. | ostatní dřeviny | 11 | 1 až 34 |
+| 136. | ostatní dřeviny | 12 | 1 až 34 |
+| 137. | ostatní dřeviny | 13 | 1 až 34 |
+| 138. | ostatní dřeviny | 14 | 1 až 34 |
+| 139. | ostatní dřeviny | 15 | 1 až 34 |
+| 140. | ostatní dřeviny | 16 | 1 až 34 |
+| 141. | ostatní dřeviny | 17 | 1 až 34 |
+| 142. | ostatní dřeviny | 18 | 1 až 34 |
+| 143. | ostatní dřeviny | 19 | 1 až 34 |
+| 144. | ostatní dřeviny | 20 | 1 až 34 |
+| 145. | ostatní dřeviny | 21 | 1 až 34 |
+| 146. | ostatní dřeviny | 22 | 1 až 34 |
+| 147. | ostatní dřeviny | 23 | 1 až 34 |
+| 148. | ostatní dřeviny | 24 | 1 až 34 |
+| 149. | ostatní dřeviny | 25 | 1 až 34 |
+| 150. | ostatní dřeviny | 26 | 1 až 34 |
+| 151. | ostatní dřeviny | 27 | 1 až 34 |
+| 152. | ostatní dřeviny | 28 | 1 až 34 |
+| 153. | ostatní dřeviny | 29 | 1 až 34 |
+| 154. | ostatní dřeviny | 30 | 1 až 35 |
+| 155. | ostatní dřeviny | 31 | 1 až 34 |
+| 156. | ostatní dřeviny | 32 | 1 až 34 |
+| 157. | ostatní dřeviny | 33 | 1 až 35 |
+| 158. | ostatní dřeviny | 34 | 1 až 39, 41 |
+| 159. | ostatní dřeviny | 35 | 30, 33, 34, 36 až 41 |
+| 160. | ostatní dřeviny | 36 | 34, 35, 37 až 41 |
+| 161. | ostatní dřeviny | 37 | 34, 35, 36, 38 až 41 |
+| 162. | ostatní dřeviny | 38 | 34, 35, 36, 37, 39 až 41 |
+| 163. | ostatní dřeviny | 39 | 29, 32, 34 až 38, 40, 41 |
+| 164. | ostatní dřeviny | 40 | 35 až 39, 41 |
+| 165. | ostatní dřeviny | 41 | 34 až 40 |

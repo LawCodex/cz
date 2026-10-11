@@ -1,0 +1,59 @@
+---
+title: "Vyhláška č. 185/2021 Sb., o vydání zlaté mince „Městská památková rezervace Cheb“ po 5 000 Kč"
+identifier: "185/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/185/2021-05-25"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-04-20
+effective: 2021-05-25
+last_amended: 2021-05-25
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/185"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 185/2021 Sb., o vydání zlaté mince „Městská památková rezervace Cheb“ po 5 000 Kč
+
+185
+
+VYHLÁŠKA
+
+ze dne 20. dubna 2021
+
+o vydání zlaté mince „Městská památková rezervace Cheb“ po 5 000 Kč
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb. a zákona č. 89/2018 Sb.:
+
+## § 1
+
+(1) Dnem 25. května 2021 se v rámci cyklu „Městské památkové rezervace“ vydává zlatá mince „Městská památková rezervace Cheb“ po 5 000 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince se razí ze zlata o ryzosti 999.9. Hmotnost mince je 15,55 g, její průměr 28 mm a síla 1,9 mm. Při ražbě mince je přípustná odchylka v ryzosti zlata nahoru 0,01 %, odchylka v hmotnosti nahoru 0,062 g, odchylka v průměru 0,1 mm a odchylka v síle 0,15 mm. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká.
+
+## § 2
+
+(1) Na lícní straně mince je vyobrazen jedinečný komplex chebských dřevěných krovů, do kterého jsou zakomponována heraldická zvířata z velkého státního znaku, a to uprostřed český lev, vpravo od něj je moravská orlice a vlevo od něj slezská orlice. Na levém spodním trámu se nachází označení nominální hodnoty mince se zkratkou peněžní jednotky „5 000 Kč“ a značka České mincovny, která je tvořena písmeny „Č“ a „M“. Po obvodu mince je uveden text „MĚSTSKÉ PAMÁTKOVÉ REZERVACE“ a text „ČESKÁ REPUBLIKA“. Texty jsou od sebe odděleny tečkou.
+
+(2) Na rubové straně mince je koláž nejvýznamnějších architektonických památek, které jsou ztvárněny na půdorysu Městské památkové rezervace Cheb. Po obvodu mince je v opisu text „MĚSTO CHEB“ a ročník ražby „2021“. Iniciála autora Jiřího Hanuše, DiS., která je tvořena písmenem „H“ v rámečku, se nachází při levém spodním okraji půdorysu Městské památkové rezervace Cheb.
+
+(3) Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 25. května 2021.
+
+Guvernér:
+
+Ing. Rusnok v. r.
+
+### Příloha k vyhlášce č. 185/2021 Sb.
+
+Vyobrazení zlaté mince „Městská památková rezervace Cheb“ po 5 000 Kč 
+ (lícní a rubová strana)
+
+### ![sbcr2021c077z0185p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834977/NAHLED/ZOBRAZ/sbcr2021c077z0185p001o001)
+
+### ![sbcr2021c077z0185p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834979/NAHLED/ZOBRAZ/sbcr2021c077z0185p001o002)

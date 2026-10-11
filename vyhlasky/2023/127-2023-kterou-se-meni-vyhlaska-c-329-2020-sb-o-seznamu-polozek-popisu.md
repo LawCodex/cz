@@ -1,0 +1,111 @@
+---
+title: "Vyhláška č. 127/2023 Sb., kterou se mění vyhláška č. 329/2020 Sb., o seznamu položek popisu informačního systému veřejné správy a soukromoprávního systému pro využívání údajů, ve znění vyhlášky č. 6/2022 Sb."
+identifier: "127/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/127/2023-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2023-05-07
+effective: 2023-07-01
+last_amended: 2023-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/127"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 127/2023 Sb., kterou se mění vyhláška č. 329/2020 Sb., o seznamu položek popisu informačního systému veřejné správy a soukromoprávního systému pro využívání údajů, ve znění vyhlášky č. 6/2022 Sb.
+
+127
+
+VYHLÁŠKA
+
+ze dne 7. května 2023,
+
+kterou se mění vyhláška č. 329/2020 Sb., o seznamu položek popisu informačního systému veřejné správy a soukromoprávního systému pro využívání údajů, ve znění vyhlášky č. 6/2022 Sb.
+
+Digitální a informační agentura stanoví podle § 69 odst. 3 písm. a) zákona č. 111/2009 Sb., o základních registrech, ve znění zákona č. 12/2020 Sb. a zákona č. 261/2021 Sb.:
+
+## Čl. I
+
+Vyhláška č. 329/2020 Sb., o seznamu položek popisu informačního systému veřejné správy a soukromoprávního systému pro využívání údajů, ve znění vyhlášky č. 6/2022 Sb., se mění takto:
+
+1\. V příloze č. 1 se v části **„POPISNÉ ÚDAJE“** doplňují řádky, které znějí:
+
+> ”
+>
+> | A | BEZPEČNOSTNÍ ÚROVEŇ ISVS | bezpečnostní úroveň ISVS [1. nízká, 2. střední, 3. vysoká, 4. kritická (výběr z číselníku)]; obsahuje-li ISVS více komponent s různou bezpečnostní úrovní, uvede se bezpečnostní úroveň komponenty ISVS s nejvyšší bezpečnostní úrovní |
+> |---|---|---|
+> | A | ZPŮSOB PROVOZU ISVS | označení způsobu provozu ISVS z hlediska využívání cloud computingu; uvede se, zda je ISVS provozován (i) plně s využitím cloud computingu, (ii) částečně s využitím cloud computingu, nebo (iii) bez využití cloud computingu |
+>
+> “.
+
+2\. V příloze č. 1 se v části **„PROVOZOVATEL ISVS“** doplňuje řádek, který zní:
+
+> ”
+>
+> | PP | PROVOZOVATEL ISVS - SMLOUVA | odkaz do registru smluv na elektronický obraz textového obsahu smlouvy uzavřené mezi správcem ISVS a provozovatelem ISVS, je-li tato smlouva v registru smluv uveřejněna |
+> |---|---|---|
+>
+> “.
+
+3\. V příloze č. 1 se v části **„DODAVATEL ISVS“** doplňuje řádek, který zní:
+
+> ”
+>
+> | PP | DODAVATEL ISVS - SMLOUVA | odkaz do registru smluv na elektronický obraz textového obsahu smlouvy uzavřené mezi správcem ISVS a dodavatelem ISVS, je-li tato smlouva v registru smluv uveřejněna |
+> |---|---|---|
+>
+> “.
+
+4\. V příloze č. 1 v části **„VYUŽITÍ ISVS“** v popisu položky „ÚROVEŇ SDÍLENÍ ISVS“ se na konci textu bodu 1 doplňují slova „(ISVS, který je spravovaný ústředním správním úřadem a který je určený k poskytování služby ISVS těm ISVS, které spravují jiní správci)“ a v bodu 2 se slova „v rámci územního celku nižšího než stát“ nahrazují slovy „mezi orgány veřejné moci, nejedná-li se o centrálně sdílený ISVS“.
+
+5\. V příloze č. 1 se v části **„APLIKAČNÍ ČLENĚNÍ ISVS“** doplňují řádky, které znějí:
+
+> ”
+>
+> | PP | ZPŮSOB PROVOZU APLIKAČNÍHO PRVKU S VYUŽITÍM CLOUD COMPUTINGU | uvedení, zda je aplikační prvek provozován s využitím cloud computingu (příznak: „ANO/NE“) |
+> |---|---|---|
+> | PP | BEZPEČNOSTNÍ ÚROVEŇ APLIKAČNÍHO PRVKU | bezpečnostní úroveň aplikačního prvku [1. nízká, 2. střední, 3. vysoká, 4. kritická (výběr z číselníku)] |
+>
+> “.
+
+6\. V příloze č. 1 se za část **„APLIKAČNÍ ČLENĚNÍ ISVS“** vkládá nová část **„PROSTŘEDÍ ISVS“**, která zní:
+
+> ”
+>
+> <table><tbody><tr><th colspan="3">PROSTŘEDÍ ISVS</th></tr><tr><td>P</td><td>PROSTŘEDÍ ISVS - TYP A POPIS</td><td>uvedení, zda je prostředí ISVS (i) produkční, (ii) testovací, nebo (iii) vývojové; v popisu se případně uvede text s doplňujícími informacemi</td></tr><tr><td>A</td><td>PROSTŘEDÍ ISVS - JEDNOZNAČNÝ IDENTIFIKÁTOR ISVS S PROSTŘEDÍM</td><td>identifikátor ISVS, pod nímž je ISVS zapsán v rejstříku informačních systémů veřejné správy a soukromoprávních systémů pro využívání údajů; za tento identifikátor se umístí tečka a následně se uvede číslo 1, pokud jde o produkční prostředí, číslo 2, pokud jde o testovací prostředí, nebo číslo 3, pokud jde o vývojové prostředí</td></tr><tr><td>P</td><td>ZKUŠEBNÍ PROVOZ</td><td>uvedení, zda je ISVS jako celek ve zkušebním provozu (příznak: „ANO/NE“)</td></tr><tr><td>PP</td><td>ZKUŠEBNÍ PROVOZ - DATUM OD</td><td>datum zahájení zkušebního provozu ISVS</td></tr><tr><td>PP</td><td>ZKUŠEBNÍ PROVOZ - DATUM DO</td><td>datum ukončení zkušebního provozu ISVS</td></tr></tbody></table>
+>
+> “.
+
+7\. V příloze č. 1 se v části **„ZPRACOVÁNÍ OSOBNÍCH ÚDAJŮ V ISVS“** doplňují řádky, které znějí:
+
+> ”
+>
+> | PP | ÚDAJE FYZICKÉ OSOBY NEZAPSANÉ V ZÁKLADNÍM REGISTRU OBYVATEL | uvedení, zda je v ISVS, který není základním registrem nebo agendovým informačním systémem, prostřednictvím kterého se zapisují údaje do základního registru obyvatel, zapsán údaj podle § 18 odst. 1 písm. a) nebo b) zákona o základních registrech, který nebyl využit ze základního registru obyvatel proto, že v něm fyzická osoba není zapsána (příznak: „ANO/NE“) |
+> |---|---|---|
+> | PP | ÚDAJE FYZICKÉ NEBO PRÁVNICKÉ OSOBY NEZAPSANÉ V ZÁKLADNÍM REGISTRU PRÁVNICKÝCH OSOB, PODNIKAJÍCÍCH FYZICKÝCH OSOB A ORGÁNŮ VEŘEJNÉ MOCI | uvedení, zda je v ISVS, který není základním registrem nebo agendovým informačním systémem, prostřednictvím kterého se zapisují údaje do základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci, zapsán údaj podle § 26 odst. 2 písm. a) nebo b) zákona o základních registrech, který nebyl využit ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci proto, že v něm fyzická osoba nebo právnická osoba není zapsána (příznak: „ANO/NE“) |
+> | PP | ÚDAJE NEZAPSANÉ V ZÁKLADNÍM REGISTRU ÚZEMNÍ IDENTIFIKACE, ADRES A NEMOVITOSTÍ | uvedení, zda je v ISVS, který není základním registrem nebo agendovým informačním systémem, prostřednictvím kterého se zapisují údaje do základního registru územní identifikace, adres a nemovitostí, zapsán některý z údajů podle § 31 odst. 1 zákona o základních registrech, který nebyl využit ze základního registru územní identifikace, adres a nemovitostí proto, že v něm tento údaj není zapsán (příznak: „ANO/NE“) |
+>
+> “.
+
+8\. V příloze č. 2 se doplňuje část **„PROSTŘEDÍ SSVÚ“**, která zní:
+
+> ”
+>
+> <table><tbody><tr><th colspan="3">PROSTŘEDÍ SSVÚ</th></tr><tr><td>P</td><td>PROSTŘEDÍ SSVÚ - TYP A POPIS</td><td>uvedení, zda je prostředí SSVÚ (i) produkční, (ii) testovací, nebo (iii) vývojové; v popisu se případně uvede text s doplňujícími informacemi</td></tr><tr><td>P</td><td>PROSTŘEDÍ SSVÚ - JEDNOZNAČNÝ IDENTIFIKÁTOR SSVÚ S PROSTŘEDÍM</td><td>identifikátor SSVÚ, pod nímž je SSVÚ zapsán v rejstříku informačních systémů veřejné správy a soukromoprávních systémů pro využívání údajů; za tento identifikátor se umístí tečka a následně se uvede číslo 1, pokud jde o produkční prostředí, číslo 2, pokud jde o testovací prostředí, nebo číslo 3, pokud jde o vývojové prostředí</td></tr></tbody></table>
+>
+> “.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Správce informačního systému veřejné správy a správce soukromoprávního systému pro využívání údajů zašlou Digitální a informační agentuře podklady pro zápis údajů podle vyhlášky č. 329/2020 Sb., o seznamu položek popisu informačního systému veřejné správy a soukromoprávního systému pro využívání údajů, ve znění účinném ode dne nabytí účinnosti této vyhlášky, do 3 měsíců ode dne nabytí účinnosti této vyhlášky, s výjimkou podkladů pro zápis údajů, které zaslali Ministerstvu vnitra nebo Digitální a informační agentuře podle vyhlášky č. 329/2020 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+2\. Správce informačního systému veřejné správy a správce soukromoprávního systému pro využívání údajů zasílají Digitální a informační agentuře údaj o datu zahájení a ukončení zkušebního provozu jimi spravovaného informačního systému veřejné správy nebo soukromoprávního systému pro využívání údajů, pokud zkušební provoz nebyl ukončen nejpozději den přede dnem nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2023.
+
+Ředitel:
+
+Ing. Mesršmíd v. r.

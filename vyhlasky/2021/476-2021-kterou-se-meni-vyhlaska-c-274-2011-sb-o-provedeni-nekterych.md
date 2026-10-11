@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 476/2021 Sb., kterou se mění vyhláška č. 274/2011 Sb., o provedení některých ustanovení zákona o oběhu bankovek a mincí, ve znění vyhlášky č. 418/2016 Sb."
+identifier: "476/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/476/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-11-25
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/476"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 476/2021 Sb., kterou se mění vyhláška č. 274/2011 Sb., o provedení některých ustanovení zákona o oběhu bankovek a mincí, ve znění vyhlášky č. 418/2016 Sb.
+
+476
+
+VYHLÁŠKA
+
+ze dne 25. listopadu 2021,
+
+kterou se mění vyhláška č. 274/2011 Sb., o provedení některých ustanovení zákona o oběhu bankovek a mincí, ve znění vyhlášky č. 418/2016 Sb.
+
+Česká národní banka stanoví podle § 33 odst. 7 zákona č. 136/2011 Sb., o oběhu bankovek a mincí a o změně zákona č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů:
+
+## Čl. I
+
+Ve vyhlášce č. 274/2011 Sb., o provedení některých ustanovení zákona o oběhu bankovek a mincí, § 23 včetně nadpisu zní:
+
+> **„§ 23 – Náležitosti osvědčení**
+
+> Osvědčení musí obsahovat
+
+> a) jméno, popřípadě jména, příjmení a datum narození absolventa kurzu,
+
+> b) obchodní firmu, název nebo jméno, popřípadě jména a příjmení osoby, která kurz pořádala,
+
+> c) datum vystavení osvědčení,
+
+> d) kvalifikovanou elektronickou pečeť a kvalifikované elektronické časové razítko České národní banky a
+
+> e) jedinečné číslo osvědčení.“.
+
+## Čl. II – Přechodné ustanovení
+
+Na osvědčení vydaná přede dnem nabytí účinnosti této vyhlášky se použije § 23 vyhlášky č. 274/2011 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Guvernér:
+
+Ing. Rusnok v. r.

@@ -1,0 +1,116 @@
+---
+title: "Vyhláška č. 56/2024 Sb., o určení srovnatelné délky období, pro které je sjednána pevná zápůjční úroková sazba, a členění spotřebitelských úvěrů na bydlení do skupin pro účely náhrady nákladů za předčasné splacení některých spotřebitelských úvěrů na bydlení"
+identifier: "56/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/56/2024-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-02-26
+effective: 2024-04-01
+last_amended: 2024-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/56"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 56/2024 Sb., o určení srovnatelné délky období, pro které je sjednána pevná zápůjční úroková sazba, a členění spotřebitelských úvěrů na bydlení do skupin pro účely náhrady nákladů za předčasné splacení některých spotřebitelských úvěrů na bydlení
+
+56
+
+VYHLÁŠKA
+
+ze dne 26. února 2024
+
+o určení srovnatelné délky období, pro které je sjednána pevná zápůjční úroková sazba, a členění spotřebitelských úvěrů na bydlení do skupin pro účely náhrady nákladů za předčasné splacení některých spotřebitelských úvěrů na bydlení
+
+Česká národní banka stanoví podle § 160 zákona č. 257/2016 Sb., o spotřebitelském úvěru, ve znění zákona č. 462/2023 Sb., k provedení § 117a odst. 3 tohoto zákona:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška pro účely náhrady nákladů za předčasné splacení některých spotřebitelských úvěrů na bydlení upravuje
+
+a) určení srovnatelné délky období, pro které je sjednána pevná zápůjční úroková sazba,
+
+b) členění spotřebitelských úvěrů na bydlení do skupin podle srovnatelné délky období, pro které je sjednána pevná zápůjční úroková sazba, a podle toho, zda jde o spotřebitelský úvěr na bydlení
+
+1\. podle § 2 odst. 2 písm. b) zákona o spotřebitelském úvěru zajištěný zástavním právem k nemovité věci,
+
+2\. podle § 2 odst. 2 písm. b) zákona o spotřebitelském úvěru nezajištěný zástavním právem k nemovité věci,
+
+3\. podle § 2 odst. 2 písm. c) zákona o spotřebitelském úvěru zajištěný zástavním právem k nemovité věci,
+
+4\. podle § 2 odst. 2 písm. c) zákona o spotřebitelském úvěru nezajištěný zástavním právem k nemovité věci.
+
+## § 2 – Určení srovnatelné délky období
+
+Srovnatelné délky období, pro které je sjednána pevná zápůjční úroková sazba, se stanoví jako období s délkou pevné zápůjční úrokové sazby
+
+a) do 1 roku,
+
+b) nad 1 rok do 3 let,
+
+c) nad 3 roky do 5 let,
+
+d) nad 5 let do 10 let,
+
+e) nad 10 let.
+
+## § 3 – Členění spotřebitelských úvěrů na bydlení do skupin
+
+Spotřebitelské úvěry na bydlení se v rámci úvěrů
+
+a) podle § 2 odst. 2 písm. b) zákona o spotřebitelském úvěru zajištěných zástavním právem k nemovité věci člení do skupin podle srovnatelné délky období pevné zápůjční úrokové sazby
+
+1\. do 1 roku,
+
+2\. nad 1 rok do 3 let,
+
+3\. nad 3 roky do 5 let,
+
+4\. nad 5 let do 10 let,
+
+5\. nad 10 let,
+
+b) podle § 2 odst. 2 písm. b) zákona o spotřebitelském úvěru nezajištěných zástavním právem k nemovité věci člení do skupin podle srovnatelné délky období pevné zápůjční úrokové sazby
+
+1\. do 1 roku,
+
+2\. nad 1 rok do 3 let,
+
+3\. nad 3 roky do 5 let,
+
+4\. nad 5 let do 10 let,
+
+5\. nad 10 let,
+
+c) podle § 2 odst. 2 písm. c) zákona o spotřebitelském úvěru zajištěných zástavním právem k nemovité věci člení do skupin podle srovnatelné délky období pevné zápůjční úrokové sazby
+
+1\. do 1 roku,
+
+2\. nad 1 rok do 3 let,
+
+3\. nad 3 roky do 5 let,
+
+4\. nad 5 let do 10 let,
+
+5\. nad 10 let,
+
+d) podle § 2 odst. 2 písm. c) zákona o spotřebitelském úvěru nezajištěných zástavním právem k nemovité věci člení do skupin podle srovnatelné délky období pevné zápůjční úrokové sazby
+
+1\. do 1 roku,
+
+2\. nad 1 rok do 3 let,
+
+3\. nad 3 roky do 5 let,
+
+4\. nad 5 let do 10 let,
+
+5\. nad 10 let.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2024.
+
+Guvernér:
+
+Ing. Michl, Ph.D., v. r.

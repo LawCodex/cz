@@ -1,0 +1,98 @@
+---
+title: "Vyhláška č. 178/2026 Sb., o portálu kritické infrastruktury"
+identifier: "178/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/178/2026-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2026-09-23
+effective: 2026-10-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/178"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 178/2026 Sb., o portálu kritické infrastruktury
+
+178
+
+VYHLÁŠKA
+
+ze dne 23. září 2026
+
+o portálu kritické infrastruktury
+
+Ministerstvo vnitra stanoví podle § 29 odst. 2 zákona č. 266/2025 Sb., o odolnosti subjektů kritické infrastruktury a o změně souvisejících zákonů (zákon o kritické infrastruktuře), k provedení § 20 odst. 9 zákona o kritické infrastruktuře:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví
+
+a) formu a způsob zpracování informací, dat, údajů a evidencí (dále jen „informace“) vkládaných do portálu kritické infrastruktury (dále jen „portál“) a
+
+b) technické a organizační podmínky používání portálu.
+
+## § 2 – Portál
+
+(1) Přístup do portálu se uskutečňuje prostřednictvím informačního systému krizového řízení<sup>1</sup>) na základě autentizace oprávněného uživatele.
+
+(2) Oprávněným uživatelem portálu se rozumí subjekt nebo orgán oprávněný využívat portál podle zákona o kritické infrastruktuře.
+
+(3) Informace v rozsahu stanoveném zákonem o kritické infrastruktuře vkládá do portálu oprávněný uživatel.
+
+(4) Oprávněnému uživateli se prostřednictvím portálu umožňuje
+
+a) poskytovat součinnost správci a dalším oprávněným uživatelům v rozsahu nezbytném pro plnění povinností podle zákona o kritické infrastruktuře a
+
+b) hlásit incident podle § 18 a 19 zákona o kritické infrastruktuře.
+
+(5) Informace předané správci v souladu se zákonem o kritické infrastruktuře mimo portál vloží správce do portálu bez zbytečného odkladu.
+
+## § 3 – Identifikační údaje
+
+(1) Pro účely přístupu k portálu poskytovatel základní služby nebo subjekt kritické infrastruktury používá k identifikaci a správě svého přístupu
+
+a) název nebo identifikační číslo osoby, bylo-li přiděleno, sídlo, popřípadě adresu hlavní provozovny a kontaktní elektronickou adresu; poskytuje-li základní službu v jiných členských státech Evropské unie, též adresu provozovny v těchto státech, a
+
+b) údaje o kritických dodavatelích, manažerovi kritické infrastruktury a dalších osobách, mají-li tyto osoby přístup do portálu.
+
+(2) Identifikační údaje se do portálu vkládají pouze v rozsahu, v jakém nejsou portálem automaticky generovány.
+
+## § 4 – Technické a organizační podmínky používání portálu
+
+(1) Správce portálu zveřejňuje rozsah uživatelských oprávnění a technické požadavky pro používání portálu způsobem umožňujícím dálkový přístup.
+
+(2) Oprávněný uživatel prostřednictvím portálu oznamuje správci osoby oprávněné za oprávněného uživatele do portálu vkládat informace nebo prostřednictvím portálu za oprávněného uživatele jednat (dále jen „oprávněná osoba“), kterým má být umožněn přístup do portálu; přístupová oprávnění se zřizují jako individuální, nepřenosná a jedinečná pro každou oprávněnou osobu.
+
+(3) Při oznámení oprávněných osob podle odstavce 2 oprávněný uživatel uvádí identifikační údaje každé oprávněné osoby v rozsahu
+
+a) jméno a příjmení,
+
+b) datum narození,
+
+c) vymezení role při využívání portálu,
+
+d) telefonní číslo a
+
+e) adresa elektronické pošty.
+
+(4) Správce umožní přístup oprávněným osobám do portálu pouze v rozsahu nezbytném pro výkon jejich oprávnění nebo plnění svěřených úkolů; oprávněný uživatel zajistí bez zbytečného odkladu aktualizaci okruhu osob a odpovídajících přístupových oprávnění tak, aby odpovídaly zásadě minimalizace.
+
+(5) Informace se do portálu vkládají ve strukturované elektronické podobě prostřednictvím uživatelského rozhraní.
+
+(6) Dokumentace nebo jiné materiály se vkládají do portálu ve formátu PDF, DOCX, XLSX, PNG nebo JPG.
+
+(7) Správnost, úplnost a aktuálnost informací, dokumentace nebo materiálů vkládaných do portálu oprávněnou osobou zajišťuje oprávněný uživatel.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení.
+
+Ministr:
+
+Mgr. Metnar v. r.
+
+---
+
+<sup>1</sup>) § 26 zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění pozdějších předpisů.

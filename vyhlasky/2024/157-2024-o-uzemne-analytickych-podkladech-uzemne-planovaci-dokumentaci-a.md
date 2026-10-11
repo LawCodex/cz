@@ -1,0 +1,1246 @@
+---
+title: "Vyhláška č. 157/2024 Sb., o územně analytických podkladech, územně plánovací dokumentaci a jednotném standardu"
+identifier: "157/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/157/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-06-10
+effective: 2024-07-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/157"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 157/2024 Sb., o územně analytických podkladech, územně plánovací dokumentaci a jednotném standardu
+
+157
+
+VYHLÁŠKA
+
+ze dne 10. června 2024
+
+o územně analytických podkladech, územně plánovací dokumentaci a jednotném standardu
+
+Ministerstvo pro místní rozvoj stanoví podle § 333 odst. 1 zákona č. 283/2021 Sb., stavební zákon, ve znění zákona č. 152/2023 Sb., (dále jen „zákon“) k provedení § 59 odst. 4, § 62 odst. 3, § 64 odst. 1, § 66 odst. 3, § 87 odst. 4 a § 109 odst. 4 zákona:
+
+## ČÁST PRVNÍ – OBECNÉ USTANOVENÍ
+
+### § 1 – Předmět úpravy
+
+(1) Tato vyhláška upravuje náležitosti obsahu územně analytických podkladů, rozsah a formu územně analytických podkladů pro území kraje a jejich úplné aktualizace předkládaných k projednání radě kraje, formáty údajů o území a podmínky jejich poskytování, náležitosti obsahu a strukturu zadání zásad územního rozvoje, územního plánu a regulačního plánu a náležitosti obsahu zadání změny územně plánovací dokumentace.
+
+(2) Tato vyhláška dále stanoví obsah jednotného standardu územně plánovací dokumentace, vymezení zastavěného území a územních opatření a požadavky na strojově čitelný formát územní studie.
+
+## ČÁST DRUHÁ – ÚZEMNĚ ANALYTICKÉ PODKLADY
+
+### § 2 – Obsah územně analytických podkladů
+
+Územně analytické podklady obsahují
+
+a) databázi územně analytických podkladů,
+
+b) podklady pro rozbor udržitelného rozvoje území a
+
+c) rozbor udržitelného rozvoje území.
+
+### § 3 – Databáze územně analytických podkladů
+
+(1) Centrální databáze územně analytických podkladů, vedená Ministerstvem pro místní rozvoj, obsahuje sledované jevy podle přílohy č. 1 k této vyhlášce. Sledovanými jevy jsou
+
+a) údaje o území,
+
+b) zjištění vyplývající z průzkumů území a
+
+c) další dostupné informace o území.
+
+(2) Jsou-li úřadem územního plánování nebo Ministerstvem obrany vedeny vlastní databáze územně analytických podkladů, obsahují
+
+a) sledované jevy podle odstavce 1 v rozsahu potřebném pro plnění jejich působnosti; tyto údaje pořizovatel do databáze přebírá z centrální databáze územně analytických podkladů,
+
+b) další údaje, které nejsou obsahem centrální databáze územně analytických podkladů, pokud jsou potřebné pro plnění jejich působnosti.
+
+### § 4 – Údaj o území
+
+(1) Grafická část údaje o území se poskytuje ve vektorové formě, není-li v příloze č. 1 k této vyhlášce stanoveno jinak. Grafická část údaje o území se poskytuje v referenčním Souřadnicovém systému Jednotné trigonometrické sítě katastrální a referenčním Výškovém systému baltském – po vyrovnání.
+
+(2) Náležitosti metadat údaje o území jsou stanoveny v příloze č. 2 k této vyhlášce.
+
+(3) Povinnost poskytovat pořizovateli údaje o území podle § 63 odst. 2 zákona lze splnit rovněž prostřednictvím krajského úřadu, pokud o ně krajský úřad v rozsahu svého správního obvodu poskytovatele požádá.
+
+### § 5 – Podklady pro rozbor udržitelného rozvoje území
+
+(1) Podklady pro rozbor udržitelného rozvoje území obsahují textovou část a grafickou část.
+
+(2) Textová část podkladů pro rozbor udržitelného rozvoje území obsahuje
+
+a) zjištění a vyhodnocení stavu a vývoje území, jeho hodnot a limity využití území, alespoň v členění na
+
+1\. širší územní vztahy,
+
+2\. prostorové a funkční uspořádání území,
+
+3\. strukturu osídlení,
+
+4\. sociodemografické podmínky a bydlení,
+
+5\. přírodu a krajinu,
+
+6\. vodní režim,
+
+7\. horninové prostředí,
+
+8\. kvalitu životního prostředí,
+
+9\. zemědělský půdní fond a pozemky určené k plnění funkcí lesa,
+
+10\. občanské vybavení včetně jeho dostupnosti a veřejná prostranství,
+
+11\. dopravní infrastrukturu včetně její dostupnosti,
+
+12\. technickou infrastrukturu včetně její dostupnosti,
+
+13\. ekonomické a hospodářské podmínky,
+
+14\. rekreaci a cestovní ruch a
+
+15\. bezpečnost a ochranu obyvatelstva,
+
+b) zjištění a vyhodnocení záměrů na provedení změn v území.
+
+(3) Grafická část podkladů pro rozbor udržitelného rozvoje území obsahuje výkres
+
+a) hodnot území zahrnující hodnoty přírodní, kulturní a civilizační,
+
+b) limitů využití území a
+
+c) záměrů na provedení změn v území.
+
+### § 6 – Rozbor udržitelného rozvoje území
+
+(1) Účelem rozboru udržitelného rozvoje území je zjištění a vyhodnocení podmínek udržitelného rozvoje území a určení problémů k řešení v územně plánovací dokumentaci. Rozbor udržitelného rozvoje území obsahuje textovou část a grafickou část.
+
+(2) Textová část rozboru udržitelného rozvoje území obsahuje
+
+a) zjištění a vyhodnocení pozitiv a negativ v území v členění alespoň na
+
+1\. širší územní vztahy,
+
+2\. prostorové a funkční uspořádání území,
+
+3\. strukturu osídlení,
+
+4\. sociodemografické podmínky a bydlení,
+
+5\. přírodu a krajinu,
+
+6\. vodní režim,
+
+7\. horninové prostředí,
+
+8\. kvalitu životního prostředí,
+
+9\. zemědělský půdní fond a pozemky určené k plnění funkcí lesa,
+
+10\. občanské vybavení včetně jeho dostupnosti a veřejná prostranství,
+
+11\. dopravní infrastrukturu včetně její dostupnosti,
+
+12\. technickou infrastrukturu včetně její dostupnosti,
+
+13\. ekonomické a hospodářské podmínky,
+
+14\. rekreaci a cestovní ruch a
+
+15\. bezpečnost a ochranu obyvatelstva,
+
+b) vyhodnocení územních podmínek pro příznivé životní prostředí, hospodářský rozvoj a soudržnost společenství obyvatel území včetně jejich vzájemných vazeb a trendů vývoje území,
+
+c) určení problémů k řešení v územně plánovací dokumentaci, případně v územní studii, zahrnující zejména požadavky na
+
+1\. zmírnění nebo omezení urbanistických, dopravních a hygienických závad,
+
+2\. zmírnění nebo omezení vzájemných střetů záměrů na provedení změn v území,
+
+3\. zmírnění nebo omezení střetů těchto záměrů s limity využití území a s hodnotami v území a
+
+4\. odstranění nebo zmírnění vlivů negativ v území.
+
+(3) Grafická část rozboru udržitelného rozvoje území obsahuje výkres zobrazující problémy k řešení v územně plánovací dokumentaci, případně v územní studii.
+
+### § 7 – Projednání územně analytických podkladů pro území kraje
+
+Územně analytické podklady pro území kraje a jejich úplná aktualizace se předkládají k projednání radě kraje v rozsahu rozboru udržitelného rozvoje území nebo jeho aktualizace v elektronické nebo listinné podobě.
+
+### § 8 – Společná ustanovení k územně analytickým podkladům
+
+(1) Grafická část územně analytických podkladů se zpracovává alespoň v rámci pořízení úplné aktualizace územně analytických podkladů.
+
+(2) Územně analytické podklady obcí jsou zpracovány v podrobnosti a rozsahu nezbytném pro pořizování územních plánů a regulačních plánů. Územně analytické podklady krajů jsou zpracovány v podrobnosti a rozsahu nezbytném pro pořizování zásad územního rozvoje.
+
+## ČÁST TŘETÍ – NÁLEŽITOSTI ZADÁNÍ ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE A JEJÍ ZMĚNY
+
+### § 9 – Zadání územně plánovací dokumentace a její změny
+
+(1) Zadání zásad územního rozvoje, územního plánu a regulačního plánu obsahuje hlavní cíle a požadavky schvalujícího orgánu na zpracování návrhu příslušné územně plánovací dokumentace, požadavky vyplývající z politiky územního rozvoje a nadřazené územně plánovací dokumentace, z územně analytických podkladů a z doplňujících průzkumů a rozborů, pokud byly provedeny, a další požadavky na změny v území. Zadání dále obsahuje požadavky vyplývající z projednání návrhu zadání.
+
+(2) Zadání změny územně plánovací dokumentace obsahuje předmět a účel navrhované změny, vymezení řešeného území a další požadavky na zpracování návrhu změny územně plánovací dokumentace.
+
+(3) Zadání změny územního rozvojového plánu, zadání zásad územního rozvoje a územního plánu a jejich změny obsahuje dále požadavky na vyhodnocení předpokládaných vlivů na udržitelný rozvoj území, pokud se zpracovává.
+
+(4) Je-li v zadání zásad územního rozvoje, územního plánu a regulačního plánu nebo v zadání změny územně plánovací dokumentace uloženo zpracování variant řešení, obsahuje zadání požadavky a podmínky pro jejich posuzování.
+
+(5) Obsah a struktura zadání
+
+a) zásad územního rozvoje jsou stanoveny v příloze č. 3 k této vyhlášce,
+
+b) územního plánu jsou stanoveny v příloze č. 4 k této vyhlášce,
+
+c) regulačního plánu jsou stanoveny v příloze č. 5 k této vyhlášce a
+
+d) změny územně plánovací dokumentace jsou stanoveny v příloze č. 6 k této vyhlášce.
+
+## ČÁST ČTVRTÁ – JEDNOTNÝ STANDARD ÚZEMNĚ PLÁNOVACÍ DOKUMENTACE, VYMEZENÍ ZASTAVĚNÉHO ÚZEMÍ A ÚZEMNÍCH OPATŘENÍ A STROJOVĚ ČITELNÝ FORMÁT ÚZEMNÍ STUDIE
+
+### HLAVA I – Obecná ustanovení
+
+#### § 10
+
+(1) Standardizovanými částmi územně plánovací dokumentace, vymezení zastavěného území a územního opatření jsou
+
+a) standardizované jevy a
+
+b) předávaná data.
+
+(2) Požadavky na strukturu standardizovaných jevů jsou požadavky na jejich datovou strukturu určující názvy typů objektů nebo označení vrstev, jejich geometrii a vlastnosti.
+
+(3) Požadavky na strukturu předávaných dat jsou požadavky na uspořádání a označení složek a souborů a požadavky na zeměpisné usazení, barevnou hloubku a rozlišení rastrových dat.
+
+(4) Prostorová data se vedou a předávají v referenčním Souřadnicovém systému Jednotné trigonometrické sítě katastrální.
+
+(5) Metadata obsahují název dokumentu, jeho označení v evidenci územně plánovací činnosti a identifikační údaje o řešeném území, zpracovateli, vydávajícím správním orgánu a pořizovateli. Metadata dále obsahují údaje o druhu dokumentu a jeho změnách, etapě pořizování, seznamu textů a výkresů, měřítku, technologii zpracování, verzi výměnného formátu a metadat, časové reference k předávaným datům a specifikaci předávaných jevů, které nejsou standardizovány, uvedením výčtu typu entit, jejich atributů a oboru hodnot včetně jejich popisu.
+
+(6) Soulad datové části územně plánovací dokumentace s jednotným standardem se prokazuje pomocí elektronického kontrolního nástroje, který Ministerstvo pro místní rozvoj zpřístupní bezplatně způsobem umožňujícím dálkový přístup.
+
+#### § 10a – Grafické vyjádření standardizovaných částí
+
+(1) Grafické vyjádření standardizovaných částí musí odpovídat struktuře standardizovaných jevů.
+
+(2) Standardizované jevy se zobrazují shodně ve všech výkresech s přihlédnutím k měřítku daného výkresu tak, aby zobrazení prvků pro každý zobrazovaný jev bylo provázáno s textovou částí územně plánovací dokumentace a zajistilo jednoznačnost výsledné informace. Je-li toto provázání dáno samotným grafickým zobrazením, zpravidla se tyto jevy neoznačují kódem.
+
+(3) Standardizované jevy a jejich identifikační kódy se graficky vyjadřují tak, aby jejich překryvem nedocházelo ke snížení srozumitelnosti jednotlivých výkresů.
+
+(4) Standardizované jevy se graficky zobrazují jako plochy, linie nebo body.
+
+(5) Grafické vyjádření ploch musí umožnit jednoznačnou identifikaci jednotlivých ploch i při vzájemném překryvu vrstev, přičemž přesnost hranic plochy odpovídá měřítku daného výkresu. Je-li to účelné, mohou být jednotlivé plochy v grafickém vyjádření opatřeny kódem, který označuje konkrétní plochu v textové části územně plánovací dokumentace nebo její zařazení do kategorie v souladu s textovou částí územně plánovací dokumentace. Plochy se obvykle zobrazuji s výplní nebo s orientovaným obrysem. Vnitřek plochy je také možné určit z polohy kódu, který se obvykle umisťuje uvnitř plochy.
+
+(6) Grafické vyjádření linií musí umožnit jednoznačnou identifikaci jednotlivých linií, identifikaci vedení linie územím, případně identifikaci koncových a lomových bodů. Tloušťka linie v měřítku výkresu nereprezentuje plošný rozsah standardizovaného jevu. Je-li to účelné, mohou být jednotlivé linie v grafickém vyjádření opatřeny kódem, který označuje konkrétní prvek v textové části územně plánovací dokumentace nebo její zařazení do kategorie v souladu s textovou částí územně plánovací dokumentace. Kódy se obvykle umisťují patou k linii ve směru linie a nepřekrývají ji.
+
+(7) Grafické vyjádření bodů musí být zajištěno umístěním bodových značek s velikostí odpovídající měřítku územně plánovací dokumentace, umožňující jednoznačnou identifikaci jednotlivých bodů bez vzájemného překryvu. Velikost bodové značky v měřítku výkresu nereprezentuje plošný rozsah standardizovaného jevu. Bod je bezrozměrný, označuje umístění jevu v území a jeho velikost a dosah jsou obvykle upřesněny v textové části. Pokud je to účelné, mohou být jednotlivé body v grafickém vyjádření opatřeny kódem, který označuje konkrétní prvek v textové části územně plánovací dokumentace. Kódy se obvykle umisťují v blízkosti bodové značky a nepřekrývají ji.
+
+### HLAVA II – Jednotný standard zásad územního rozvoje
+
+#### § 11
+
+(1) Standardizovanými jevy zásad územního rozvoje jsou
+
+a) sídelní struktura, která zahrnuje centrum osídlení a sídelní strukturu jinou,
+
+b) oblast a osa, které zahrnují rozvojovou oblast, rozvojovou osu, specifickou oblast a akcelerační oblast,
+
+c) dopravní infrastruktura, která zahrnuje silniční, drážní, leteckou a vodní dopravu a dále dopravní infrastrukturu jinou,
+
+d) technická infrastruktura, která zahrnuje elektroenergetiku, plynárenství, produktovod , elektronické komunikace, teplovod, zásobování vodou a odkanalizování, nakládání s odpady a technickou infrastrukturu jinou,
+
+e) vodní hospodářství,
+
+f) plocha a koridor jiný,
+
+g) těžba nerostů,
+
+h) zajištění obrany a bezpečnosti státu,
+
+i) územní systém ekologické stability,
+
+j) územní rezerva,
+
+k) krajina,
+
+l) asanace,
+
+m) pořízení územní studie a
+
+n) doplňkový typ objektu.
+
+(2) Požadavky na strukturu standardizovaných jevů zásad územního rozvoje jsou stanoveny v příloze č. 7 k této vyhlášce.
+
+(3) Požadavkem na grafické vyjádření standardizovaných jevů zásad územního rozvoje je přehledné zobrazení koncepce rozvoje území kraje včetně koncepce sídelní struktury a dále jednotlivých vymezených oblastí, os, ploch a koridorů.
+
+(5) Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat zásad územního rozvoje jsou stanoveny v příloze č. 9 k této vyhlášce.
+
+### HLAVA III – Jednotný standard územního plánu
+
+#### Díl 1 – Obecná ustanovení
+
+##### § 12 – Standardizované jevy územního plánu
+
+(1) Standardizovanými jevy územního plánu jsou
+
+a) řešené území,
+
+b) zastavěné území,
+
+c) plochy s rozdílným způsobem využití,
+
+d) zastavitelná plocha,
+
+e) transformační plocha,
+
+f) plocha změny v krajině,
+
+g) zastavitelné území,
+
+h) lokalita,
+
+i) vymezení části územního plánu s prvky regulačního plánu,
+
+j) plocha a koridor, ve kterých je rozhodování o změnách v území podmíněno pořízením územní studie, vydáním regulačního plánu, uzavřením plánovací smlouvy nebo realizací architektonické nebo urbanistické soutěže,
+
+k) územní rezerva,
+
+l) veřejně prospěšná stavba, veřejně prospěšné opatření, stavba a opatření k zajišťování obrany a bezpečnosti státu, plocha pro asanaci,
+
+m) koridor pro dopravní infrastrukturu, technickou infrastrukturu a pro opatření nestavební povahy,
+
+n) akcelerační oblast,
+
+o) územní systém ekologické stability,
+
+p) systém sídelní zeleně,
+
+q) systém veřejných prostranství,
+
+r) plocha veřejné infrastruktury,
+
+s) část dotčená rozhodnutím soudu či výsledkem přezkumu nadřízeného orgánu a
+
+t) doplňkový typ objektu.
+
+(2) Požadavky na strukturu standardizovaných jevů územního plánu jsou stanoveny v příloze č. 10 k této vyhlášce.
+
+(3) Požadavkem na grafické vyjádření standardizovaných jevů územního plánu je přehledné zobrazení urbanistické koncepce, koncepce uspořádání krajiny a koncepce veřejné infrastruktury.
+
+(4) Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat územního plánu jsou stanoveny v příloze č. 14 k této vyhlášce.
+
+##### § 13 – Vymezování ploch a koridorů
+
+(1) V řešeném území se územním plánem vymezují plochy a koridory, které se s přihlédnutím k účelu a podrobnosti popisu a zobrazování v územním plánu vymezují zpravidla o rozloze větší než 2 000 m<sup>2</sup>.
+
+(2) Koridory se vymezují jako plošně vymezené nebo nad plochami s rozdílným způsobem využití.
+
+(3) Plochy veřejné infrastruktury lze vymezit nad plochami s rozdílným způsobem využití.
+
+##### § 14 – Vymezování ploch s rozdílným způsobem využití
+
+(1) Plochy s rozdílným způsobem využití se vymezují ke stanovení územních podmínek, zejména pro vzájemně se doplňující, podmiňující nebo nekolidující činnosti, pro další členění ploch na pozemky a pro stanovení ochrany veřejných zájmů.
+
+(2) Plochy s rozdílným způsobem využití se vymezují s ohledem na specifické podmínky a charakter území zejména za účelem omezení střetů vzájemně neslučitelných činností a požadavků na uspořádání a využívání území. S ohledem na specifické podmínky a charakter území se z ploch s rozdílným způsobem využití volí taková skladba ploch, která je pro řešené území nejvhodnější, přičemž není nezbytné využít všech kategorií ploch.
+
+(3) Plochy s rozdílným způsobem využití uvedené v § 15 odst. 4 písm. e), § 16 odst. 3 písm. f), § 17 odst. 4 písm. g), § 18 odst. 3 písm. b), § 19 odst. 3 písm. g), § 20 odst. 3 písm. e), § 21 odst. 3 písm. h), § 22 odst. 3 písm. f), § 23 odst. 3 písm. h), § 24 odst. 3 písm. b), § 25 odst. 3 písm. d), § 26 odst. 3 písm. e), § 27 odst. 3 písm. b), § 28 odst. 3 písm. b), § 29 odst. 3 písm. b), § 30 odst. 3 písm. d) a § 31 odst. 2 písm. b) lze vymezovat pouze ve specifických případech.
+
+(4) Plochy s rozdílným způsobem využití uvedené v § 15 až 33 lze dále podrobněji členit.
+
+(5) Plochy s rozdílným způsobem využití se vymezují podle stávajícího nebo nově požadovaného způsobu využití jako stabilizované nebo návrhové.
+
+#### Díl 2 – Plochy s rozdílným způsobem využití
+
+##### § 15 – Plochy bydlení
+
+(1) Plochy bydlení se samostatně vymezují za účelem zajištění podmínek pro bydlení v kvalitním prostředí umožňujícím nerušený a bezpečný pobyt, každodenní rekreaci a relaxaci obyvatel a dostupnost veřejných prostranství a občanského vybavení.
+
+(2) Plochy bydlení zahrnují zejména pozemky bytových domů, pozemky rodinných domů, pozemky související dopravní a technické infrastruktury, pozemky veřejných prostranství, zeleně a malých vodních ploch a toků.
+
+(3) Do ploch bydlení lze zahrnout pozemky souvisejícího občanského vybavení s výjimkou pozemků pro budovy obchodního prodeje o výměře větší než 1 000 m<sup>2</sup>. Součástí plochy bydlení mohou být pozemky dalších staveb a zařízení, které nesnižují kvalitu prostředí a pohodu bydlení ve vymezené ploše, jsou slučitelné s bydlením a slouží zejména obyvatelům v takto vymezené ploše.
+
+(4) Plochy bydlení se vymezují jako plochy bydlení
+
+a) všeobecného,
+
+b) venkovského,
+
+c) individuálního,
+
+d) hromadného, nebo
+
+e) jiného.
+
+(5) Není-li v celé návrhové ploše bydlení o rozloze větší než 20 000 m<sup>2</sup> rozhodování v území podmíněno vydáním regulačního plánu nebo uzavřením plánovací smlouvy, stanovuje se pro ni požadavek na vymezení veřejného prostranství o výměře nejméně 5 % této návrhové plochy. Do výměry veřejného prostranství se nezapočítávají pozemní komunikace.
+
+##### § 16 – Plochy rekreace
+
+(1) Plochy rekreace se samostatně vymezují za účelem zajištění podmínek pro rekreaci v kvalitním prostředí.
+
+(2) Plochy rekreace zahrnují zejména pozemky staveb pro rekreaci, pozemky dalších staveb a zařízení, které souvisejí a jsou slučitelné s rekreací, například veřejných prostranství, občanského vybavení, veřejných tábořišť, přírodních koupališť, rekreačních luk a dalších pozemků související dopravní a technické infrastruktury, které nesnižují kvalitu prostředí ve vymezené ploše.
+
+(3) Plochy rekreace se vymezují jako plochy rekreace
+
+a) všeobecné,
+
+b) individuální,
+
+c) v zahrádkářských osadách,
+
+d) na oddechových plochách,
+
+e) hromadné, nebo
+
+f) jiné.
+
+##### § 17 – Plochy občanského vybavení
+
+(1) Plochy občanského vybavení se samostatně vymezují za účelem zajištění podmínek pro přiměřené umístění a dostupnost staveb občanského vybavení a k zajištění podmínek pro jejich užívání v souladu s jejich účelem.
+
+(2) Plochy občanského vybavení zahrnují pozemky staveb a zařízení sloužící pro zajištění základních potřeb obyvatel, zejména vzdělávání a výchovu, sociální služby, péči o rodinu, zdravotní služby, kulturu, náboženské účely, veřejnou správu a ochranu obyvatelstva. Dále zahrnují pozemky staveb a zařízení pro obchodní prodej, tělovýchovu a sport, ubytování, stravování, služby, vědu a výzkum, lázeňství a pozemky související dopravní a technické infrastruktury a veřejných prostranství.
+
+(3) Plochy občanského vybavení musí být vymezeny v přímé návaznosti na kapacitně dostačující dopravní infrastrukturu a být z ní přístupné.
+
+(4) Plochy občanského vybavení se vymezují jako plochy občanského vybavení
+
+a) všeobecného,
+
+b) veřejného,
+
+c) komerčního,
+
+d) sportu,
+
+e) lázeňského,
+
+f) hřbitovů, nebo
+
+g) jiného.
+
+(5) Není-li v celé návrhové ploše občanského vybavení o rozloze větší než 20 000 m<sup>2</sup> rozhodování v území podmíněno vydáním regulačního plánu nebo uzavřením plánovací smlouvy, stanovuje se pro ni požadavek na vymezení veřejného prostranství o výměře nejméně 5 % této návrhové plochy. Do výměry veřejného prostranství se nezapočítávají pozemní komunikace.
+
+##### § 18 – Plochy veřejných prostranství
+
+(1) Plochy veřejných prostranství se samostatně vymezují za účelem zajištění podmínek pro přiměřené umístění, rozsah a dostupnost pozemků veřejných prostranství a zajištění podmínek pro jejich užívání v souladu s jejich významem a účelem.
+
+(2) Plochy veřejných prostranství zahrnují zejména pozemky jednotlivých druhů veřejných prostranství a další pozemky související dopravní a technické infrastruktury a občanského vybavení, které jsou slučitelné s účelem veřejných prostranství.
+
+(3) Plochy veřejných prostranství se vymezují jako plochy veřejných prostranství
+
+a) všeobecných, nebo
+
+b) jiných.
+
+##### § 19 – Plochy zeleně
+
+(1) Plochy zeleně se samostatně vymezují za účelem zajištění územních podmínek pro existenci nebo vývoj vegetace v území.
+
+(2) Plochy zeleně zahrnují zejména pozemky nelesní vegetace. Přípustné využití plochy zeleně nesmí významným způsobem omezit její hlavní využití.
+
+(3) Plochy zeleně se vymezují jako plochy zeleně
+
+a) všeobecné,
+
+b) parkové a parkově upravené,
+
+c) zahradní a sadové,
+
+d) ochranné a izolační,
+
+e) sídelní ostatní,
+
+f) krajinné, nebo
+
+g) jiné.
+
+##### § 20 – Plochy smíšené obytné
+
+(1) Plochy smíšené obytné se samostatně vymezují v případech, kdy je žádoucí zajistit smíšené využití území zahrnující zejména bydlení a občanské vybavení a zároveň je nezbytné vyloučit umisťování staveb a zařízení snižujících kvalitu prostředí v této ploše, například pro těžbu, hutnictví, chemii, těžké strojírenství a asanační služby.
+
+(2) Plochy smíšené obytné zahrnují zejména pozemky staveb pro bydlení, případně staveb pro rekreaci, pozemky občanského vybavení, veřejných prostranství a zeleně a dále pozemky související dopravní a technické infrastruktury.
+
+(3) Do ploch smíšených obytných lze zahrnout pouze pozemky staveb a zařízení, které svým provozováním a technickým zařízením nenarušují užívání staveb a zařízení ve svém okolí a nesnižují kvalitu prostředí souvisejícího území, například pro nerušící výrobu a služby a zemědělství a ostatní dopravní a technickou infrastrukturu.
+
+(4) Plochy smíšené obytné se vymezují jako plochy smíšené obytné
+
+a) všeobecné,
+
+b) venkovské,
+
+c) městské,
+
+d) centrální, nebo
+
+e) jiné.
+
+(5) Není-li v celé návrhové ploše smíšené obytné o rozloze větší než 20 000 m<sup>2</sup> rozhodování v území podmíněno vydáním regulačního plánu nebo uzavřením plánovací smlouvy, stanovuje se pro ni požadavek na vymezení veřejného prostranství o výměře nejméně 5 % této návrhové plochy. Do výměry veřejného prostranství se nezapočítávají pozemní komunikace.
+
+##### § 21 – Plochy dopravní infrastruktury
+
+(1) Plochy dopravní infrastruktury se samostatně vymezují v případech, kdy využití pozemků dopravních staveb a zařízení, zejména z důvodu intenzity dopravy a jejich negativních vlivů, vylučuje začlenění takových pozemků do jiných ploch s rozdílným způsobem využití, a dále tehdy, kdy je vymezení ploch dopravy nezbytné k zajištění dopravní přístupnosti, například ploch výroby, ploch občanského vybavení a ploch těžby nerostů.
+
+(2) Plochy dopravní infrastruktury zahrnují zejména pozemky staveb a zařízení pozemních komunikací, drah, vodních cest, letišť a jiných druhů dopravy. Jejich součástí mohou být související zařízení technické infrastruktury a pozemky doprovodné a izolační zeleně.
+
+(3) Plochy dopravní infrastruktury se vymezují jako plochy dopravy
+
+a) všeobecné,
+
+b) silniční,
+
+c) nemotorové,
+
+d) drážní,
+
+e) vodní,
+
+f) letecké,
+
+g) kombinované, nebo
+
+h) jiné.
+
+##### § 22 – Plochy technické infrastruktury
+
+(1) Plochy technické infrastruktury se samostatně vymezují v případech, kdy využití pozemků pro tuto infrastrukturu vylučuje jejich začlenění do jiných ploch s rozdílným způsobem využití a kdy jiné využití těchto pozemků není možné.
+
+(2) Plochy technické infrastruktury zahrnují zejména pozemky vedení, staveb a s nimi provozně souvisejících zařízení technického vybavení, například vodovodů, vodojemů, kanalizace, čistíren odpadních vod, staveb a zařízení pro nakládání s odpady, trafostanic, rozvoden, energetických vedení, komunikačních vedení veřejné komunikační sítě, elektronických komunikačních zařízení veřejné komunikační sítě a produktovodů. Součástí těchto ploch mohou být i pozemky související dopravní infrastruktury, zeleně a malých vodních ploch a toků.
+
+(3) Plochy technické infrastruktury se vymezují jako plochy
+
+a) technické infrastruktury všeobecné,
+
+b) vodního hospodářství,
+
+c) energetiky,
+
+d) elektronických komunikací,
+
+e) nakládání s odpady, nebo
+
+f) technické infrastruktury jiné.
+
+##### § 23 – Plochy výroby a skladování
+
+(1) Plochy výroby a skladování se samostatně vymezují v případech, kdy využití pozemků, například pozemků staveb pro výrobu a skladování a zemědělských staveb, z důvodu negativních vlivů uvedených staveb za hranicí těchto pozemků vylučuje začlenění pozemků s těmito vlivy do jiných ploch s rozdílným způsobem využití.
+
+(2) Plochy výroby a skladování zahrnují zejména pozemky staveb a zařízení pro výrobu a skladování, například pro hutnictví, těžké strojírenství a chemii, skladové areály, pro související dopravní a technickou infrastrukturu, pozemky zemědělských staveb a pozemky další související veřejné infrastruktury.
+
+(3) Plochy výroby a skladování se vymezují jako plochy
+
+a) výroby všeobecné,
+
+b) výroby těžké a energetiky,
+
+c) výroby lehké,
+
+d) výroby drobné a služeb,
+
+e) skladování a logistiky,
+
+f) výroby zemědělské a lesnické,
+
+g) výroby energie z obnovitelných zdrojů, nebo
+
+h) výroby a skladování jiné.
+
+##### § 24 – Plochy smíšené výrobní
+
+(1) Plochy smíšené výrobní se samostatně vymezují v případech, kdy je účelné zajistit smíšené využití území zahrnující zejména výrobu, skladování a občanské vybavení.
+
+(2) Plochy smíšené výrobní zahrnují pozemky staveb a zařízení lehké a drobné výroby, obchodu a služeb. Součástí plochy mohou být i pozemky veřejné infrastruktury. Plochy smíšené výrobní zahrnují pozemky staveb pro bydlení pouze ve výjimečných a zvlášť odůvodněných případech.
+
+(3) Plochy smíšené výrobní se vymezují jako plochy smíšené výrobní
+
+a) všeobecné, nebo
+
+b) jiné.
+
+##### § 25 – Plochy vodní a vodohospodářské
+
+(1) Plochy vodní a vodohospodářské se samostatně vymezují za účelem zajištění podmínek pro nakládání s vodami, ochrany před škodlivými účinky povodní a sucha, regulace vodního režimu území a plnění dalších účelů stanovených zejména právními předpisy upravujícími oblast vod a ochrany přírody a krajiny.
+
+(2) Plochy vodní a vodohospodářské zahrnují zejména pozemky vodních ploch, koryt vodních toků a jiné pozemky určené pro převažující vodohospodářské využití.
+
+(3) Plochy vodní a vodohospodářské se vymezují jako plochy
+
+a) vodní a vodohospodářské všeobecné,
+
+b) vodní a vodních toků,
+
+c) vodohospodářské, nebo
+
+d) vodní a vodohospodářské jiné.
+
+##### § 26 – Plochy zemědělské
+
+(1) Plochy zemědělské se samostatně vymezují za účelem zajištění podmínek pro převažující zemědělské využití.
+
+(2) Plochy zemědělské zahrnují zejména pozemky zemědělského půdního fondu, pozemky staveb, zařízení a jiných opatření pro zemědělství a pozemky dopravní a technické infrastruktury. Součástí plochy může být doprovodná a izolační zeleň, drobné vodní plochy a toky, opatření snižující erozní ohrožení a protipovodňová opatření.
+
+(3) Plochy zemědělské se vymezují jako plochy
+
+a) zemědělské všeobecné,
+
+b) orné půdy,
+
+c) trvalých travních porostů,
+
+d) trvalých kultur, nebo
+
+e) zemědělské jiné.
+
+##### § 27 – Plochy lesní
+
+(1) Plochy lesní se samostatně vymezují za účelem zajištění podmínek využití pozemků pro les.
+
+(2) Plochy lesní zahrnují zejména pozemky určené k plnění funkcí lesa, pozemky staveb a zařízení lesního hospodářství, pozemky dopravní a technické infrastruktury a drobné vodní plochy a vodní toky.
+
+(3) Plochy lesní se vymezují jako plochy lesní
+
+a) všeobecné, nebo
+
+b) jiné.
+
+##### § 28 – Plochy přírodní
+
+(1) Plochy přírodní se samostatně vymezují pro zajištění územních podmínek potřebných pro existenci a vývoj přirozených a přírodě blízkých ekosystémů.
+
+(2) Plochy přírodní zahrnují zejména vybrané pozemky mimo zastavěné území v zóně přírodní a přírodě blízké národního parku, v první a druhé zóně chráněné krajinné oblasti, v ostatních zvláště chráněných územích, v evropsky významných lokalitách a v biocentrech územního systému ekologické stability. Výjimečně mohou zahrnovat také pozemky nezbytné dopravní a technické infrastruktury.
+
+(3) Plochy přírodní se vymezují jako plochy přírodní
+
+a) všeobecné, nebo
+
+b) jiné.
+
+##### § 29 – Plochy smíšené krajinné
+
+(1) Plochy smíšené krajinné se samostatně vymezují v případech, kdy je účelné zajistit smíšené zemědělské, lesní, vodní a vodohospodářské využití území.
+
+(2) Plochy smíšené krajinné zahrnují zejména pozemky určené k plnění funkcí lesa, pozemky zemědělského půdního fondu, případně pozemky vodních ploch a koryt vodních toků bez rozlišení převažujícího způsobu využití. Do plochy smíšené krajinné lze zahrnout i pozemky přirozených a přírodě blízkých ekosystémů, pozemky pro nepobytovou rekreaci a pozemky související dopravní a technické infrastruktury.
+
+(3) Plochy smíšené krajinné se vymezují jako plochy smíšené krajinné
+
+a) všeobecné, nebo
+
+b) jiné.
+
+##### § 30 – Plochy těžby
+
+(1) Plochy těžby se samostatně vymezují za účelem zajištění podmínek pro hospodárné využívání nerostů a dalších surovin a pro ochranu životního prostředí při těžební činnosti a úpravě nerostů a dalších surovin.
+
+(2) Plochy těžby zahrnují zejména pozemky povrchových dolů, lomů a pískoven, pozemky pro ukládání dočasně nevyužívaných nerostů, dalších surovin a odpadů, kterými jsou výsypky, odvaly a odkaliště, pozemky rekultivací a pozemky staveb a technologických zařízení pro těžbu. Do plochy těžby lze zahrnout pozemky související dopravní a technické infrastruktury.
+
+(3) Plochy těžby se vymezují jako plochy těžby
+
+a) všeobecné,
+
+b) dobývání a úpravy,
+
+c) stavby a zařízení, nebo
+
+d) jiné.
+
+##### § 31 – Plochy specifické
+
+(1) Plochy specifické se samostatně vymezují za účelem zajištění zvláštních podmínek, které vyžadují zejména pozemky staveb a zařízení pro obranu a bezpečnost státu, ochranu obyvatelstva, vězeňství a sklady nebezpečných látek. Do těchto ploch lze zahrnout pozemky související technické a dopravní infrastruktury.
+
+(2) Plochy specifické se vymezují jako plochy specifické
+
+a) zvláštního určení, nebo
+
+b) jiné.
+
+##### § 32 – Plochy městských sídel
+
+(1) Plochy městských sídel se vymezují zejména v případech, kdy by členění na samostatné podrobnější plochy s rozdílným způsobem využití uvedené v § 15 až 31 nebylo účelné s ohledem na cíle a úkoly územního plánování.
+
+(2) Plochy městských sídel se vymezují jako plochy s rozdílným způsobem využití městské
+
+a) obytné,
+
+b) rekreační, nebo
+
+c) produkční.
+
+(3) Plochy městské obytné se vymezují za účelem zajištění podmínek pro kombinaci bydlení a služeb zahrnujících pracovní příležitosti včetně veškeré veřejné infrastruktury a utvářejí základ smíšeného obytného města. Plochy městské obytné zahrnují zejména pozemky staveb a zařízení určených pro bydlení, občanské vybavení, obchod, administrativu, nerušící výrobu, sport, rekreaci nebo jejich kombinaci. Do ploch městských obytných se zahrnuje veřejná infrastruktura, uliční prostranství, městské parky a související doplňkové stavby. Součástí ploch městských obytných mohou být pozemky dalších staveb a zařízení, které nesnižují kvalitu prostředí ve vymezené ploše a jsou slučitelné s obytným využitím.
+
+(4) Plochy městské rekreační se vymezují za účelem zajištění podmínek pro rekreaci, relaxaci a sport včetně veřejné infrastruktury v kvalitním urbánním prostředí a utvářejí rekreační zázemí obce. Plochy městské rekreační zahrnují zpravidla pozemky staveb a zařízení pro rekreaci a sport včetně souvisejícího občanského vybavení a veřejných prostranství a dalších staveb a zařízení slučitelných s rekreačním využitím, které nesnižují kvalitu prostředí ve vymezené ploše včetně veřejné infrastruktury.
+
+(5) Plochy městské produkční se vymezují za účelem zajištění podmínek pro druhy využití, které výrazně zatěžují okolí a nelze je vymezit v rámci smíšeného obytného města. Plochy městské produkční zahrnují zpravidla pozemky staveb a zařízení pro výrobu, skladování, obchod, zemědělskou výrobu, energetiku a ploch určených pro těžbu a zpracování nerostů nebo jejich kombinaci. Do ploch městských produkčních se zahrnuje veřejná infrastruktura, veřejná prostranství a související doplňkové stavby.
+
+##### § 33 – Plochy volné krajiny městských sídel
+
+(1) Plochy volné krajiny městských sídel se vymezují zejména v případech, kdy by členění na samostatné podrobnější plochy s rozdílným způsobem využití uvedené v § 19 až 31 nebylo účelné s ohledem na cíle a úkoly územního plánování.
+
+(2) Plochy volné krajiny městských sídel se vymezují jako plochy s rozdílným způsobem využití volné krajiny
+
+a) přírodní,
+
+b) rekreační, nebo
+
+c) produkční.
+
+(3) Plochy volné krajiny přírodní se vymezují za účelem zajištění podmínek pro ochranu přírody a krajiny v kombinaci s přiměřeným rekreačním a zemědělským využitím specifických rozsáhlejších přírodně hodnotných celků otevřené krajiny v okolí měst. Plochy volné krajiny přírodní zahrnují zpravidla pozemky přirozených a přírodě blízkých ekosystémů, další pozemky k plnění funkce lesa a pozemky určené pro vodohospodářské využití, pozemky zelené infrastruktury a pozemky určené pro zemědělství, které nebudou v rozporu s ochranou přírody a krajiny. Do ploch volné krajiny přírodních se zahrnují i související stavby a stavby dopravní a technické infrastruktury, případně pozemky pro rekreaci a sport pod širým nebem.
+
+(4) Plochy volné krajiny rekreační se vymezují za účelem zajištění podmínek pro rekreační využití otevřené krajiny v souladu s jejím zemědělským využitím a přírodním významem v rozsáhlejších celcích otevřené krajiny v okolí měst. Plochy volné krajiny rekreační zahrnují zpravidla pozemky zelené infrastruktury, pozemky určené pro vodohospodářství a pozemky určené pro zemědělství v kombinaci s pozemky určenými pro rekreaci a sport pod širým nebem, případně další pozemky přirozených a přírodě blízkých ekosystémů. Do ploch volné krajiny rekreačních se zahrnují i související stavby a stavby dopravní a technické infrastruktury, případně stavby jiné veřejné infrastruktury.
+
+(5) Plochy volné krajiny produkční se vymezují za účelem zajištění specifických podmínek pro zemědělskou činnost v rozsáhlejších celcích otevřené krajiny v okolí měst. Plochy volné krajiny produkční zahrnují zpravidla pozemky určené pro zemědělství a vodohospodářství, pozemky určené pro těžbu nerostů, pozemky určené k plnění funkce lesa, pozemky určené pro rekreaci a sport pod širým nebem, případně další pozemky přirozených a přírodě blízkých ekosystémů. Do ploch volné krajiny produkčních se zahrnují i související stavby a stavby dopravní a technické infrastruktury, případně stavby jiné veřejné infrastruktury.
+
+### HLAVA IV – Jednotný standard regulačního plánu
+
+#### § 34
+
+(1) Standardizovaným jevem regulačního plánu je řešené území.
+
+(2) Požadavky na strukturu standardizovaného jevu regulačního plánu v prostředí GIS jsou stanoveny v příloze č. 15 k této vyhlášce a požadavky na strukturu standardizovaného jevu regulačního plánu v prostředí CAD jsou stanoveny v příloze č. 16 k této vyhlášce.
+
+(3) Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat regulačního plánu jsou stanoveny v příloze č. 18 k této vyhlášce.
+
+### HLAVA V – Jednotný standard vymezení zastavěného území
+
+#### § 35
+
+(1) Standardizovanými jevy vymezení zastavěného území jsou
+
+a) zastavěné území a
+
+b) nezastavitelný pozemek.
+
+(2) Požadavky na strukturu standardizovaných jevů vymezení zastavěného území jsou stanoveny v příloze č. 19 k této vyhlášce.
+
+(3) Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat vymezení zastavěného území jsou stanoveny v příloze č. 21 k této vyhlášce.
+
+### HLAVA VI – Jednotný standard územního opatření
+
+#### § 36
+
+(1) Standardizovaným jevem územního opatření o stavební uzávěře je vymezení území stavební uzávěry.
+
+(2) Standardizovaným jevem územního opatření o asanaci území je vymezení území asanace.
+
+(3) Standardizovaným jevem územního opatření o podmínkách a zmírňujících opatřeních je vymezení území akcelerační oblasti.
+
+(4) Požadavky na strukturu standardizovaných jevů územního opatření o stavební uzávěře, územního opatření o asanaci území a územního opatření o podmínkách a zmírňujících opatřeních jsou stanoveny v příloze č. 22 k této vyhlášce.
+
+(5) Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat územního opatření o stavební uzávěře, územního opatření o asanaci území a územního opatření o podmínkách a zmírňujících opatřeních jsou stanoveny v příloze č. 24 k této vyhlášce.
+
+### HLAVA VII – Strojově čitelný formát územní studie
+
+#### § 37
+
+Data územní studie se předávají ve strojově čitelném formátu podle požadavků stanovených v příloze č. 25 k této vyhlášce.
+
+## ČÁST PÁTÁ – PŘECHODNÁ USTANOVENÍ
+
+#### § 38
+
+Úplné aktualizace územně analytických podkladů obcí zahájené přede dnem nabytí účinnosti této vyhlášky a na ně navazující úplné aktualizace územně analytických podkladů krajů se dokončí podle vyhlášky č. 500/2006 Sb., o územně analytických podkladech, územně plánovací dokumentaci a o způsobu evidence územně plánovací činnosti, ve znění účinném ke dni 31. prosince 2023.
+
+## ČÁST ŠESTÁ – ÚČINNOST
+
+### § 39
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2024.
+
+Ministr pro místní rozvoj:
+
+PhDr. Bartoš, Ph.D., v. r.
+
+### Příloha č. 1
+
+#### Sledované jevy databáze územně analytických podkladů
+
+| Číslo jevu | Sledovaný jev | Rastrová data |
+|---|---|---|
+| 1 | zastavěné území | |
+| 2 | využití území | |
+| 3 | brownfield | |
+| 4 | nemovitá národní kulturní památka, nemovitá kulturní památka a jejich ochranné pásmo | |
+| 5 | památkově chráněné území a jeho ochranné pásmo | |
+| 6 | území s archeologickými nálezy | |
+| 7 | statek zapsaný na Seznamu světového dědictví a jeho nárazníková zóna | |
+| 8 | struktura a výška zástavby, významná dominanta | |
+| 9 | architektonicky nebo urbanisticky cenná stavba nebo soubor staveb, historicky významná stavba, místo nebo soubor staveb | |
+| 10 | urbanistická a krajinná hodnota, znak historické kulturní krajiny | |
+| 11 | památný strom a jeho ochranné pásmo | |
+| 12 | územní systém ekologické stability | |
+| 13 | významný krajinný prvek | |
+| 14 | přechodně chráněná plocha | |
+| 15 | zvláště chráněné území, zóny ochrany přírody národního parku, zóny odstupňované ochrany přírody chráněné krajinné oblasti, klidová území národního parku, ochranné pásmo zvláště chráněného území | |
+| 16 | evropsky významná lokalita, ptačí oblast | |
+| 17 | biosférická rezervace UNESCO, geopark UNESCO, národní geopark | |
+| 18 | smluvně chráněné území | |
+| 19 | mokřad podle Ramsarské úmluvy | |
+| 20 | biotop vybraných zvláště chráněných druhů rostlin a živočichů | |
+| 21 | biotop vybraných zvláště chráněných druhů velkých savců | |
+| 22 | přírodní park | |
+| 23 | krajinný ráz | |
+| 24 | krajina a krajinný okrsek | |
+| 25 | les, jeho kategorizace a vzdálenost 30 m od okraje lesa | |
+| 26 | bonitovaná půdně ekologická jednotka a třída ochrany zemědělského půdního fondu | |
+| 27 | plocha vodní a větrné eroze | ano |
+| 28 | investice do půdy za účelem zlepšení půdní úrodnosti | |
+| 29 | plocha vhodná k zalesnění, plocha vhodná k zatravnění | |
+| 30 | vodní zdroj pro zásobování pitnou vodou a jeho ochranné pásmo | |
+| 31 | chráněná oblast přirozené akumulace vod | |
+| 32 | zranitelná oblast povrchových a podzemních vod | |
+| 33 | oblast povrchových vod využívaná ke koupání | |
+| 34 | vodní útvar povrchových a podzemních vod | |
+| 35 | vodní nádrž | |
+| 36 | území chráněné pro akumulaci povrchových vod | |
+| 37 | povodí vodního toku, rozvodnice | |
+| 38 | záplavové území včetně aktivní zóny | |
+| 39 | kategorie území podle map povodňového ohrožení | |
+| 40 | kritický bod a jeho povodí | |
+| 41 | území ohrožené zvláštními povodněmi | |
+| 42 | stavba, objekt a zařízení na ochranu před povodněmi a území určené k řízeným rozlivům povodní | |
+| 43 | přírodní léčivý zdroj, zdroj přírodní minerální vody a jejich ochranné pásmo | |
+| 44 | lázeňské místo včetně vymezení vnitřního a vnějšího území lázeňského místa | |
+| 45 | dobývací prostor a prostor pro dobývání ložisek nerostů | |
+| 46 | chráněné ložiskové území | |
+| 47 | chráněné území pro zvláštní zásahy do zemské kůry | |
+| 48 | ložisko nerostných surovin | |
+| 49 | poddolované území | |
+| 50 | sesuvné území a území jiných geologických rizik | |
+| 51 | staré důlní dílo | |
+| 52 | stará zátěž území a kontaminovaná plocha | |
+| 53 | uzavřené a opuštěné úložné místo těžebního odpadu | |
+| 54 | oblast s překročenými imisními limity | |
+| 55 | stacionární zdroj znečišťování ovzduší | |
+| 56 | hluková zóna obce | |
+| 57 | trasa a objekt vodovodní sítě a jejich ochranné pásmo | |
+| 58 | trasa a objekt stokové sítě a jejich ochranné pásmo | |
+| 59 | trasa a objekt elektrické sítě a jejich ochranné pásmo | |
+| 60 | trasa a objekt plynovodní sítě a jejich ochranné pásmo | |
+| 61 | trasa a objekt produktovodu a jejich ochranné pásmo | |
+| 62 | trasa a objekt teplovodu a jejich ochranné pásmo | |
+| 63 | elektronická komunikace, její ochranné pásmo a zájmové území | |
+| 64 | sdružená liniová síť | |
+| 65 | jaderné zařízení a jeho ochranné pásmo | |
+| 66 | objekt a zařízení zařazené do skupiny A nebo B podle zákona o prevenci závažných havárií | |
+| 67 | dosahy havarijních projevů pro objekty vymezené zákonem o prevenci závažných havárií | |
+| 68 | zařízení odpadového hospodářství a jeho ochranné pásmo | |
+| 69 | pozemní komunikace a její ochranné pásmo | |
+| 70 | terminál a logistické centrum | |
+| 71 | stavba dráhy, stavba na dráze a jejich ochranné pásmo | |
+| 72 | letiště, letecká stavba a jejich ochranné pásmo a zájmové území | |
+| 73 | sledovaná vodní cesta | |
+| 74 | přeshraniční propojení | |
+| 75 | linka a zastávka veřejné hromadné dopravy | |
+| 76 | cyklostezka, cyklotrasa, hipostezka, turistická stezka, běžkařská trasa, sjezdovka | |
+| 77 | území vymezené Ministerstvem obrany pro zajišťování obrany státu, objekty důležité pro obranu státu a jejich ochranná pásma | |
+| 78 | vojenský újezd a jeho zájmové území | |
+| 79 | vymezená zóna havarijního plánování | |
+| 80 | objekt civilní a požární ochrany | |
+| 81 | území vymezené Ministerstvem vnitra pro zajišťování bezpečnosti státu a stavby důležité pro bezpečnost státu | |
+| 82 | bezpečnostní pásma staveb určených k nakládání s výbušninami | |
+| 83 | pohřebiště, krematorium, válečný hrob a pietní místo | |
+| 84 | jiné ochranné pásmo | |
+| 85 | plán společných zařízení | |
+| 86 | povolení záměru | |
+| 87 | záměr, pokud není vyjádřen jinou položkou | |
+| 88 | vymezení správních územních celků | |
+| 89 | vývoj počtu obyvatelstva | |
+| 90 | věkové složení obyvatelstva | |
+| 91 | vzdělanostní složení obyvatelstva | |
+| 92 | sídelní struktura | |
+| 93 | ekonomická aktivita podle odvětví | |
+| 94 | daňové příjmy rozpočtů obcí a krajů | |
+| 95 | hrubý domácí produkt | |
+| 96 | nezaměstnanost | |
+| 97 | index sociálního vyloučení | |
+| 98 | vyjížďka a dojížďka | |
+| 99 | výstavba domů a bytů | |
+| 100 | obydlenost bytového fondu | |
+| 101 | stáří a struktura bytového a domovního fondu | |
+| 102 | rekreační a turistické oblasti | |
+| 103 | kapacita a kategorie ubytovacích zařízení | |
+| 104 | podíl obyvatel napojených na veřejnou technickou infrastrukturu | |
+| 105 | podíl zemědělské půdy z celkové výměry územního celku | |
+| 106 | podíl druhů pozemků z celkové výměry zemědělské půdy | |
+| 107 | podíl tříd ochrany zemědělské půdy z celkové výměry územního celku | |
+| 108 | podíl jednotlivých druhů pozemků z celkové výměry územního celku | |
+| 109 | hranice přírodních lesních oblastí | |
+| 110 | hranice bioregionů a biochor | |
+| 111 | hranice klimatických regionů | |
+| 112 | regionalizace území podle míry ohrožení suchem | |
+| 113 | další dostupné informace o území | |
+
+### Příloha č. 2
+
+#### Náležitosti metadat údaje o území
+
+| Název prvku | Povinnost | Popis |
+|---|---|---|
+| název zdroje | povinný | Charakteristický, často jedinečný název, pod kterým je zdroj znám. |
+| abstrakt zdroje | povinný | Stručné popisné shrnutí obsahu zdroje. |
+| typ zdroje | povinný | Typ zdroje, který je popsán metadaty. |
+| lokátor zdroje | podmíněný | Odkaz(y) na zdroj a/nebo odkaz na další informace o zdroji. Elektronická adresa zdroje. |
+| jedinečný identifikátor zdroje | povinný | Hodnota, která zdroj jednoznačně identifikuje. |
+| tematická kategorie | povinný | Tematická kategorie představuje základní klasifikaci pro třídění a tematické vyhledávání dostupných zdrojů prostorových dat. |
+| hodnota klíčového slova | povinný | Hodnota klíčového slova je obecně používané nebo formalizované slovo nebo fráze používaná pro popis předmětu. |
+| referenční datum | povinný | Datum zveřejnění: datum zveřejnění zdroje, je-li k dispozici, nebo datum vstupu v platnost. Může existovat více než jedno datum zveřejnění.<br>Datum poslední revize: datum poslední revize zdroje, pokud byl zdroj revidován. Nemůže existovat více než jedno datum poslední revize.<br>Datum vytvoření: datum vytvoření zdroje. Nemůže existovat více než jedno datum vytvoření. |
+| časový rozsah | podmíněný | Časový rozsah definuje časové období, které obsah zdroje pokrývá. |
+| původ | povinný | Vyjádření historie zpracování a/nebo celkové kvality datové sady nebo série. Kde je to vhodné, může tento prvek uvádět, zda byl datový soubor ověřen a jeho kvalita zajištěna a zda se jedná o oficiální verzi (pokud existuje více verzí). |
+| prostorové rozlišení | podmíněný | Povinný pro prostorová data, pokud je dáno měřítko nebo vzdálenost v územním vzorku. |
+| podmínky vztahující se k přístupu a použití | povinný | Podmínky a licence ohledně přístupu a užití prostorových dat. |
+| omezení veřejného přístupu | povinný | Specifikace ochrany soukromí, duševního vlastnictví či jiné restrikce týkající se získání či používání daných prostorových dat. Uvádí se zde informace o rozsahu takového omezení i jeho důvod. |
+| odpovědná osoba nebo organizace | povinný | Popis organizace odpovídající za vytvoření, řízení, údržbu a distribuci zdroje. |
+| kontaktní místo pro metadata | povinný | Popis organizace nebo osoby odpovědné za vytvoření a údržbu metadat. |
+| datum metadat | povinný | Datum, kdy byla metadata vytvořena nebo aktualizována. |
+| identifikátor metadatového záznamu | povinný | Identifikátor metadatového záznamu. |
+| četnost údržby a aktualizace | povinný | Informace o četnosti aktualizací. |
+| poznámka k údržbě a aktualizaci | nepovinný | Informace ohledně zvláštních požadavků na údržbu zdroje. |
+| rozsah – geografický identifikátor | podmíněný | Hodnota, která zdroj jednoznačně identifikuje. |
+| formát stahovaných dat | podmíněný | Informace o formátu přímo stahovaných dat/otevřených dat. |
+| souřadnicový referenční systém | podmíněný | Popis souřadnicového referenčního systému používaného (souřadnicových referenčních systémů používaných) v datové sadě. |
+| typ prostorové reprezentace | povinný | Metoda použitá k prostorové prezentaci geografické informace (např. vektor). |
+| specifikace prostorových dat | povinný | Výčet typů entit, jejich atributů, oborů hodnot včetně jejich popisu. Uvedený výčet je možné plně nebo jen zčásti nahradit webovým odkazem na externí zdroj těchto informací, pokud jsou volně dostupné. |
+| další informace | nepovinný | |
+
+### Příloha č. 3
+
+#### Obsah a struktura zadání zásad územního rozvoje
+
+Zadání zásad územního rozvoje obsahuje požadavky na
+
+a) koncepci rozvoje území kraje a ochrany jeho hodnot,
+
+b) rozvojové oblasti, rozvojové osy a specifické oblasti,
+
+c) vymezení ploch a koridorů včetně územních rezerv,
+
+d) územní systém ekologické stability,
+
+e) krajiny,
+
+f) plochy a koridory pro veřejně prospěšné stavby, veřejně prospěšná opatření, stavby a opatření k zajišťování obrany a bezpečnosti státu a na plochy pro asanace,
+
+g) zpracování variant řešení,
+
+h) koordinaci územně plánovací činnosti obcí,
+
+i) vyhodnocení předpokládaných vlivů zásad územního rozvoje na udržitelný rozvoj území a
+
+j) uspořádání obsahu návrhu zásad územního rozvoje a odůvodnění zásad územního rozvoje.
+
+### Příloha č. 4
+
+#### Obsah a struktura zadání územního plánu
+
+(1) Zadání územního plánu obsahuje
+
+a) požadavky na základní koncepci rozvoje území obce a ochrany jeho hodnot,
+
+b) požadavky na urbanistickou koncepci,
+
+c) požadavky na koncepci veřejné infrastruktury,
+
+d) požadavky na koncepci uspořádání krajiny,
+
+e) požadavky na prověření vymezení veřejně prospěšných staveb, veřejně prospěšných opatření, asanací a staveb a opatření k zajišťování obrany a bezpečnosti státu,
+
+f) požadavky na prověření vymezení ploch a koridorů, ve kterých bude rozhodování o změnách v území podmíněno vydáním regulačního plánu, zpracováním územní studie, uzavřením plánovací smlouvy nebo architektonickou nebo urbanistickou soutěží,
+
+g) požadavky na vymezení ploch a koridorů územních rezerv,
+
+h) požadavky na zpracování variant řešení,
+
+i) požadavky na zpracování územního plánu s prvky regulačního plánu,
+
+j) požadavky na vyhodnocení předpokládaných vlivů územního plánu na udržitelný rozvoj území a
+
+k) upřesnění nebo doplnění uspořádání obsahu návrhu územního plánu a jeho odůvodnění.
+
+(2) Jedná-li se o územní plán pro část území hlavního města Prahy, obsahuje zadání rovněž vymezení řešeného území.
+
+### Příloha č. 5
+
+#### Obsah a struktura zadání regulačního plánu
+
+(1) Zadání regulačního plánu obsahuje
+
+a) vymezení řešeného území,
+
+b) požadavky na vymezení a využití pozemků,
+
+c) požadavky na umístění a prostorové uspořádání staveb,
+
+d) požadavky na umístění a prostorové uspořádání staveb veřejné infrastruktury,
+
+e) požadavky na ochranu hodnot a charakteru území a krajinného rázu a
+
+f) požadavky na uspořádání obsahu návrhu regulačního plánu a jeho odůvodnění.
+
+(2) Zadání regulačního plánu může dále obsahovat požadavky na
+
+a) podmínky pro příznivé životní prostředí a zelenou infrastrukturu,
+
+b) vymezení veřejně prospěšných staveb, veřejně prospěšných opatření, staveb a opatření k zajišťování obrany a bezpečnosti státu a pozemků pro asanaci,
+
+c) stanovení pořadí změn v území (etapizaci),
+
+d) podmínky pro požární ochranu,
+
+e) podmínky pro ochranu veřejného zdraví,
+
+f) stanovení požadavků na výstavbu odchylně od prováděcího právního předpisu,
+
+g) vymezení architektonicky nebo urbanisticky významných staveb,
+
+h) vymezení záměrů, pro které je uzavření plánovací smlouvy podmínkou pro rozhodování a
+
+i) vymezení záměrů, pro které je realizace architektonické nebo urbanistické soutěže podmínkou pro rozhodování.
+
+### Příloha č. 6
+
+#### Obsah a struktura zadání změny územně plánovací dokumentace
+
+(1) Zadání změny územně plánovací dokumentace obsahuje
+
+a) vymezení řešeného území,
+
+b) popis obsahu navrhované změny územně plánovací dokumentace,
+
+c) popis účelu navrhované změny územně plánovací dokumentace a
+
+d) požadavky na vyhodnocení předpokládaných vlivů změny územně plánovací dokumentace na udržitelný rozvoj území, nejedná-li se o zadání změny regulačního plánu.
+
+(2) Zadání změny územně plánovací dokumentace může dále obsahovat další požadavky odpovídající obsahu příslušné územně plánovací dokumentace.
+
+### Příloha č. 7
+
+#### Požadavky na strukturu standardizovaných jevů zásad územního rozvoje
+
+<table><thead><tr><th><b>Typ objektu</b></th><th><b>Geometrie</b></th><th><b>Atribut</b></th><th><b>Hodnota</b></th></tr></thead><tbody><tr><td colspan="4"><b>Skupina: Sídelní struktura</b></td></tr><tr><td rowspan="6">centrum osídlení</td><td rowspan="6">bod</td><td>druh</td><td>vyšší centrum významné<br>vyšší centrum ostatní<br>střední centrum významné<br>střední centrum ostatní<br>nižší centrum významné<br>nižší centrum ostatní<br>malé centrum</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (název)</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td rowspan="8">sídelní struktura jiná</td><td rowspan="8">bod, linie, plocha</td><td>druh</td><td>sídelní struktura bez rozlišení<br>sídelní struktura jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td colspan="4"><b>Skupina: Oblast a osa</b></td></tr><tr><td rowspan="7">rozvojová oblast a rozvojová osa</td><td rowspan="7">plocha</td><td>druh</td><td>rozvojová oblast mezinárodního a celostátního významu<br>rozvojová osa mezinárodního a celostátního významu<br>rozvojová oblast nadmístního významu<br>rozvojová osa nadmístního významu</td></tr><tr><td>vložená oblast<sup>b</sup></td><td>ano / ne</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (druh a lokální identifikátor)</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td rowspan="6">specifická oblast</td><td rowspan="6">plocha</td><td>druh</td><td>specifická oblast mezinárodního a celostátního významu<br>specifická oblast nadmístního významu</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (druh a lokální identifikátor)</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td rowspan="9">akcelerační oblast</td><td rowspan="9">plocha</td><td rowspan="3">druh primární energie zdrojů, pro něž se oblast vymezuje</td><td>energie slunečního záření</td></tr><tr><td>energie větrná</td></tr><tr><td>energie slunečního záření a energie větrná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (druh a lokální identifikátor)</td></tr><tr><td rowspan="2">úroveň</td><td>územní rozvojový plán</td></tr><tr><td>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td colspan="4"><b>Skupina: Dopravní infrastruktura</b></td></tr><tr><td rowspan="11">silniční doprava</td><td rowspan="11">bod, plocha</td><td>druh</td><td>dálnice<br>silnice I. třídy<br>silnice II. třídy<br>silnice III. třídy<br>místní komunikace<br>mimoúrovňová křižovatka<br>silniční doprava bez rozlišení<br>silniční doprava jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">drážní doprava</td><td rowspan="11">bod, plocha</td><td>druh</td><td>vysokorychlostní železniční trať<br>konvenční železniční trať<br>zařízení na železnici<br>speciální dráha<br>drážní doprava bez rozlišení<br>drážní doprava jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">letecká doprava</td><td rowspan="11">bod, plocha</td><td>druh</td><td>vzletová a přistávací dráha<br>letiště<br>letecká stavba<br>zařízení pro letecký provoz<br>letecká doprava bez rozlišení<br>letecká doprava jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">vodní doprava</td><td rowspan="11">bod, plocha</td><td>druh</td><td>vodní cesta<br>plavební dráha<br>přístav<br>plavební komora<br>vodní doprava bez rozlišení<br>vodní doprava jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">dopravní infrastruktura jiná</td><td rowspan="11">bod, plocha</td><td>druh</td><td>dopravní infrastruktura bez rozlišení<br>dopravní infrastruktura jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td colspan="4"><b>Skupina: Technická infrastruktura</b></td></tr><tr><td rowspan="11">elektroenergetika</td><td rowspan="11">bod, plocha</td><td>druh</td><td>zvlášť vysoké napětí<br>velmi vysoké napětí<br>výrobna elektřiny<br>stanice elektrické sítě<br>jaderné zařízení<br>elektroenergetika bez rozlišení<br>elektroenergetika jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">plynárenství</td><td rowspan="11">bod, plocha</td><td>druh</td><td>vysokotlaký plynovod<br>vysokotlaký plynovod s tlakem nad 40 barů<br>technologický objekt plynovodní sítě<br>plynárenství bez rozlišení<br>plynárenství jiné</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">produktovod, teplovod</td><td rowspan="11">bod, plocha</td><td>druh</td><td>produktovod<br>teplovod<br>horkovod<br>parovod<br>technologický objekt sítě produktovodu, teplovodu<br>produktovod, teplovod bez rozlišení<br>produktovod, teplovod jiný</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">elektronické komunikace</td><td rowspan="11">bod, plocha</td><td>druh</td><td>vedení sítě elektronických komunikací<br>technologický objekt sítě elektronických komunikací<br>sítě elektronických komunikací bez rozlišení<br>sítě elektronických komunikací jiné</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">zásobování vodou a odkanalizování</td><td rowspan="11">bod, plocha</td><td>druh</td><td>kanalizační stoka<br>vodovodní řad<br>technologický objekt vodovodní sítě<br>technologický objekt kanalizační sítě<br>zásobování vodou a odkanalizování bez rozlišení<br>zásobování vodou a odkanalizování jiné</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">nakládání s odpady</td><td rowspan="11">bod, plocha</td><td>druh</td><td>nakládání s odpady bez rozlišení<br>nakládání s odpady jiné</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="11">technická infrastruktura jiná</td><td rowspan="11">bod, plocha</td><td>druh</td><td>technická infrastruktura bez rozlišení<br>technická infrastruktura jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td colspan="4"><b>Nezařazeno</b></td></tr><tr><td rowspan="10">vodní hospodářství</td><td rowspan="10">bod, plocha</td><td>druh</td><td>vodní nádrž<br>suchá nádrž<br>vodní hospodářství bez rozlišení<br>vodní hospodářství jiné</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td rowspan="11">plocha a koridor jiný</td><td rowspan="11">bod, plocha</td><td>druh</td><td>občanské vybavení<br>rekreace<br>výroba a skladování<br>rekultivace<br>plocha a koridor jiný</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (druh a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr><tr><td rowspan="10">těžba nerostů</td><td rowspan="10">bod, plocha</td><td>druh</td><td>těžba nerostů bez rozlišení<br>těžba nerostů jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td rowspan="8">zajištění obrany a bezpečnosti státu</td><td rowspan="8">bod, plocha</td><td>druh</td><td>zajištění obrany a bezpečnosti státu bez rozlišení<br><br>zajištění obrany a bezpečnosti státu jiné</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td rowspan="8">ÚSES</td><td rowspan="8">plocha</td><td>druh</td><td>nadregionální biocentrum<br>nadregionální biokoridor<br>regionální biocentrum<br>regionální biokoridor</td></tr><tr><td>vložené biocentrum</td><td>regionální biocentrum vložené do nadregionálního biokoridoru</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (druh a lokální identifikátor)</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>úroveň</td><td>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td rowspan="8">územní rezerva</td><td rowspan="8">bod, plocha</td><td>druh</td><td>silniční doprava<br>drážní doprava<br>letecká doprava<br>vodní doprava<br>dopravní infrastruktura jiná<br>elektroenergetika<br>plynárenství<br>produktovod, teplovod<br>zásobování vodou a odkanalizování<br>nakládání s odpady<br>technická infrastruktura jiná<br>vodní hospodářství<br>těžba nerostů<br>občanské vybavení<br>rekreace<br>výroba a skladování<br>rekultivace<br>plocha a koridor jiný<br>zajištění obrany a bezpečnosti státu</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (druh a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td rowspan="3">krajina</td><td rowspan="3">plocha</td><td>druh</td><td>krajina</td></tr><tr><td>označení krajiny</td><td>text</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td rowspan="8">asanace</td><td rowspan="8">bod, plocha</td><td>druh</td><td>asanace bez rozlišení<br>asanace jiná</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>úroveň</td><td>politika územního rozvoje<br>územní rozvojový plán<br>zásady územního rozvoje</td></tr><tr><td>identifikátor z nadřazeného dokumentu</td><td>označení objektu v nadřazeném dokumentu</td></tr><tr><td>název z nadřazeného dokumentu</td><td>text</td></tr><tr><td rowspan="3">pořízení územní studie</td><td rowspan="3">plocha</td><td>druh</td><td>územní studie</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text (typ objektu a lokální identifikátor)</td></tr><tr><td rowspan="8">doplňkový typ objektu</td><td rowspan="8">bod, linie, plocha</td><td>druh</td><td>doplňkový typ objektu jiný</td></tr><tr><td>lokální identifikátor</td><td>kód objektu přidělený na úrovni kraje</td></tr><tr><td>označení objektu</td><td>text</td></tr><tr><td>informace k druhu objektu<sup>a</sup></td><td>text</td></tr><tr><td>odkaz<sup>a</sup></td><td>webový odkaz k druhu objektu</td></tr><tr><td>VPSVPO<sup>b</sup></td><td>ano / ne</td></tr><tr><td>etapa<sup>b</sup></td><td>ano / ne</td></tr><tr><td>typ plochy<sup>c</sup></td><td>zastavitelná plocha<br>transformační plocha</td></tr></tbody></table>
+
+*a Nepovinný údaj.*
+
+*b Datový typ boolean.*
+
+*c Vyplní se pouze v případě, že se jedná o zastavitelnou nebo transformační plochu.*
+
+Použité zkratky
+
+| ÚSES | územní systém ekologické stability |
+|---|---|
+| VPSVPO | veřejně prospěšná stavba a veřejně prospěšné opatření |
+
+#### Společné atributy pro všechny typy objektů
+
+| Atribut | Hodnota |
+|---|---|
+| centrální identifikátor | kód objektu přidělený národním geoportálem územního plánování |
+| identifikátor zdroje<sup>a</sup> | kód objektu původního zdroje |
+| název vyššího územně samosprávného celku | zkratka názvu kraje dle číselníku Českého statistického úřadu |
+| název | název objektu |
+| zápis | založeno zásadami územního rozvoje<br>zrušeno vydáním nových zásad územního rozvoje<br>založeno změnou<br>upraveno změnou<br>zrušeno změnou<br>zrušeno soudem či přezkumem<br>dotčeno rozsudkem soudu či přezkumem<br>výpis dat (vydání dat) |
+| zpochybněno | dotčeno rozsudkem soudu či přezkumem |
+| odkaz zrušení | dálkový přístup k zveřejněnému rozhodnutí soudu či opatření obecné povahy v rámci přezkumu nadřízeného orgánu |
+| kód dokumentace z evidence územně plánovací činnosti | kód dokumentace přidělený v evidenci územně plánovací činnosti |
+| číslo změny | pořadové číslo změny |
+| poznámka<sup>a</sup> | text |
+
+*a* *Nepovinný údaj.*
+
+### Příloha č. 9
+
+#### Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat zásad územního rozvoje
+
+<table><thead><tr><th colspan="3">Požadavky na uspořádání a označení složek a souborů</th></tr><tr><th></th><th>Název složky / souboru</th><th>Upřesnění</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>DZUR_xxx<sup>a</sup>_ZX<sup>e</sup></td><td>Obsahuje všechna předávaná data v dále uvedeném členění</td></tr><tr><td rowspan="3">Členění Hlavní složky</td><td>Data</td><td>Obsahuje vektorová data</td></tr><tr><td>Texty</td><td>Obsahuje textovou část</td></tr><tr><td>Vykresy</td><td>Obsahuje výkresy včetně jejich rastrových ekvivalentů a jejich usazovací soubory, a schémata</td></tr><tr><td>Soubor ve složce Data</td><td>xxx<sup>a</sup>_ZX<sup>e</sup>.gml</td><td>Obsahuje vektorová data v členění podle přílohy č. 7 k této vyhlášce včetně metadat.</td></tr><tr><td rowspan="3">Soubory ve složce Texty</td><td>xxx<sup>a</sup>_ZX<sup>e</sup>_text</td><td>Kompletní textová část zásad územního rozvoje podle přílohy č. 7 části I. k zákonu</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_oduvodneni</td><td>Kompletní textová část odůvodnění zásad územního rozvoje podle přílohy č. 7 části II. k zákonu</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_t<sup>b</sup></td><td>Ostatní texty</td></tr><tr><td rowspan="9">Soubory ve složce Vykresy</td><td>xxx<sup>a</sup>_ZX<sup>e</sup>_n<sup>c</sup>_UUK</td><td>Výkres uspořádání území kraje</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_n<sup>c</sup>_VPK</td><td>Výkres ploch a koridorů, včetně územního systému ekologické stability</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_n<sup>c</sup>_KRA</td><td>Výkres krajin</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_n<sup>c</sup>_VPS</td><td>Výkres veřejně prospěšných staveb, opatření a asanací</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_n<sup>c</sup>_VUS</td><td>Výkres oblastí, ploch a koridorů, ve kterých je uloženo prověření změn jejich využití územní studií</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_n<sup>c</sup>_VET</td><td>Výkres pořadí provádění změn v území</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_n<sup>c</sup>_KOV</td><td>Koordinační výkres</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_n<sup>c</sup>_VSV</td><td>Výkres širších vztahů</td></tr><tr><td>xxx<sup>a</sup>_ZX<sup>e</sup>_n<sup>c</sup></td><td>Ostatní výkresy a schémata</td></tr></tbody></table>
+
+<table><thead><tr><th colspan="3">Požadavky na výměnný formát předávaných dat</th></tr><tr><th></th><th>Vždy</th><th>Alespoň jedna z uvedených možností</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>ZIP</td><td>---</td></tr><tr><td>Vektorová data</td><td>GML</td><td>---</td></tr><tr><td>Texty</td><td>PDF/A</td><td>TXT, RTF, DOC – textový editor MS Word verze 6 a vyšší, DOCX, XLS, XLSX; kódování UTF-8</td></tr><tr><td>Výkresy<sup>d</sup></td><td>PDF/A</td><td>PNG, TIF, BMP v referenčním Souřadnicovém systému Jednotné trigonometrické sítě katastrální</td></tr><tr><td>Schémata<sup>d</sup></td><td>PDF/A</td><td>---</td></tr><tr><td>Ilustrace odůvodnění<sup>d</sup></td><td>PDF/A</td><td>---</td></tr></tbody></table>
+
+*a* *Výraz „xxx“ představuje dvou či třímístný kód kraje podle základního registru územní identifikace, adres a nemovitostí.*
+
+*b* *Výraz „t“ představuje libovolný text.*
+
+*c* *Výraz „n“ představuje číslo výkresu podle rozpisky, případně označení schématu.*
+
+*d* *V rozlišení 300 dpi a s barevnou hloubkou 24 bit.*
+
+*e* *V případě změny zásad územního rozvoje následuje za kódem kraje označení změny ve formě „\_ZX“, kde „X“ znamená označení změny.*
+
+V případě úplného znění zásad územního rozvoje následuje za kódem kraje označení úplného znění ve formě „\_UZX“, kde „X“ znamená označení změny, ke které se úplné znění váže.
+
+### Příloha č. 10
+
+#### Požadavky na strukturu standardizovaných jevů územního plánu
+
+<table><thead><tr><th colspan="3">Vrstva</th><th colspan="4">Atributy</th></tr><tr><th>Název vrstvy</th><th>Geometrie</th><th>Obsah</th><th>Název<br>atributu</th><th>Obsah</th><th>Datový<br>typ</th><th>Povolená hodnota</th></tr></thead><tbody><tr><td rowspan="2">ReseneUzemi_p</td><td rowspan="2">plocha</td><td rowspan="2">řešené území</td><td>Obec_Kod</td><td>šestimístné identifikační číslo obce podle RÚIAN</td><td>kladné celé číslo</td><td></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="3">UzemiPrvkyRP_p</td><td rowspan="3">plocha</td><td rowspan="3">vymezení částí územního plánu s prvky regulačního plánu</td><td>Druh</td><td>druh objektu</td><td>text</td><td>U</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="2">ZastaveneUzemi_p</td><td rowspan="2">plocha</td><td rowspan="2">zastavěné území</td><td>Obec_Kod</td><td>šestimístné identifikační číslo obce podle RÚIAN</td><td>kladné celé číslo</td><td></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="2">ZastavitelneUzemi_p</td><td rowspan="2">plocha</td><td rowspan="2">zastavitelné území</td><td>Obec_Kod</td><td>šestimístné identifikační číslo obce podle RÚIAN</td><td>kladné celé číslo</td><td></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="28">PlochyRZV_p</td><td rowspan="28">plocha</td><td rowspan="28">plochy s rozdílným způsobem využití</td><td rowspan="3">CasH<sup>a</sup></td><td>časový horizont:</td><td rowspan="3">kladné celé číslo</td><td></td></tr><tr><td>stabilizované</td><td>1</td></tr><tr><td>návrhové</td><td>2</td></tr><tr><td>Typ</td><td>typ objektu</td><td>text</td><td></td></tr><tr><td></td><td colspan="2">městská sídla:<br>městské obytné<br>městské rekreační městské produkční</td><td><p>MO<br>MR</p><p>MP</p></td></tr><tr><td></td><td colspan="2">volné krajiny městských sídel:<br>volné krajiny přírodní<br>volné krajiny rekreační volné krajiny produkční</td><td><p><br></p><p>NN</p>NR<p>NP</p></td></tr><tr><td></td><td colspan="2">bydlení:<br>bydlení všeobecné<br>bydlení venkovské<br>bydlení individuální<br>bydlení hromadné<p>bydlení jiné</p></td><td><p>BU</p>BV<br>BI<br>BH<p>BX</p></td></tr><tr><td></td><td colspan="2">rekreace:<br>rekreace všeobecná<br>rekreace individuální<br>rekreace v zahrádkářských osadách<br>rekreace na oddechových plochách<br>rekreace hromadná rekreace jiná</td><td><p>RU</p>RI<br>RZ<p>RO</p><p>RH</p><p>RX</p></td></tr><tr><td></td><td colspan="2">občanské vybavení:<br>občanské vybavení všeobecné<br>občanské vybavení veřejné<br>občanské vybavení komerční<br>občanské vybavení sportu<br>občanské vybavení lázeňské<br>občanské vybavení hřbitovů občanské vybavení jiné</td><td><p>OU</p><p>OV</p><p>OK</p><p>OS</p><p>OL</p><p>OH</p><p>OX</p></td></tr><tr><td></td><td colspan="2">veřejná prostranství: veřejná prostranství všeobecné veřejná prostranství jiné</td><td><p>PU</p><p>PX</p></td></tr><tr><td></td><td colspan="2">zeleň:<br>zeleň všeobecná<br>zeleň parková a parkově upravená<br>zeleň zahradní a sadová<br>zeleň ochranná a izolační<br>zeleň sídelní ostatní<br>zeleň krajinná<p>zeleň jiná</p></td><td><p>ZU</p>ZP<br><p>ZZ</p>ZO<br>ZS<br>ZK<p>ZX</p></td></tr><tr><td></td><td colspan="2">smíšené obytné:<br>smíšené obytné všeobecné<br>smíšené obytné venkovské<br>smíšené obytné městské<br>smíšené obytné centrální<br>smíšené obytné jiné</td><td><p>SU</p><p>SV</p><p>SM</p><p>SC</p><p>SX</p></td></tr><tr><td></td><td colspan="2">dopravní infrastruktura:<br>doprava všeobecná<br>doprava silniční<br>doprava nemotorová<br>doprava drážní<br>doprava vodní<br>doprava letecká<br>doprava kombinovaná doprava jiná</td><td><p>DU<br>DS<br>DN<br>DD<br>DV<br>DL<br>DK</p><p>DX</p></td></tr><tr><td></td><td colspan="2">technické infrastruktura:<br>technická infrastruktura všeobecná<br>vodní hospodářství<br>energetika<br>elektronické komunikace<br>nakládání s odpady technická infrastruktura jiná</td><td><p>TU</p><p>TW</p><p>TE<br>TS<br>TO</p><p>TX</p></td></tr><tr><td></td><td colspan="2">výroba a skladování:<br>výroba všeobecná<br>výroba těžká a energetika<br>výroba lehká<br>výroba drobná a služby<br>skladování a logistika<br>výroba zemědělská a lesnická<br>výroba energie z obnovitelných zdrojů výroba a skladování jiné</td><td><p>VU<br>VT<br>VL<br>VD<br>VS<br>VZ</p><p>VE</p><p>VX</p></td></tr><tr><td></td><td colspan="2">smíšené výrobní:<br>smíšené výrobní všeobecné smíšené výrobní jiné</td><td><p>HU</p><p>HX</p></td></tr><tr><td></td><td colspan="2">vodní a vodohospodářské: vodní a vodohospodářské všeobecné<br>vodní a vodních toků<br>vodohospodářské vodní a vodohospodářské jiné</td><td><p><br></p>WU<br><p>WT</p><p>WH</p><p>WX</p></td></tr><tr><td></td><td colspan="2">Zemědělské:<br>zemědělské všeobecné<br>orné půdy<br>trvalé travní porosty<br>trvalé kultury<br>zemědělské jiné</td><td><p>AU<br>AP<br>AL<br>AT</p><p>AX</p></td></tr><tr><td></td><td colspan="2">Lesní:<br>lesní všeobecné<br>lesní jiné</td><td><p>LU</p><p>LX</p></td></tr><tr><td></td><td colspan="2">Přírodní:<br>přírodní všeobecné<br>přírodní jiné</td><td><p>NU</p><p>NX</p></td></tr><tr><td></td><td colspan="2">smíšené krajinné:<br>smíšené krajinné všeobecné<br>smíšené krajinné jiné</td><td><p>MU</p><p>MX</p></td></tr><tr><td></td><td colspan="2">Těžba:<br>těžba všeobecná<br>těžba dobývání a úpravy<br>těžba stavby a zařízení<br>těžba jiná</td><td><p>GU<br>GD<br>GZ</p><p>GX</p></td></tr><tr><td></td><td colspan="2">Specifické:<br>specifické zvláštního určení<br>specifické jiné</td><td><p>XZ</p><p>XX</p></td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>další členění</td></tr><tr><td></td><td colspan="2">občanské vybavení veřejné:<br>kultura<br>náboženství<br>ochrana obyvatelstva<br>sociální služby a péče o rodinu<br>vzdělání a výchova<br>veřejná správa<br>zdravotní služby</td><td><p><br></p>OV.k<br>OV.n<br>OV.o<br>OV.p<br>OV.s<br>OV.v<p>OV.z</p></td></tr><tr><td></td><td colspan="2">lesní všeobecné:<br>hospodářské<br>ochranné zvláštního určení</td><td><p>LU.h<br>LU.o</p><p>LU.z</p></td></tr><tr><td></td><td colspan="2">smíšené krajinné všeobecné:<br>erozně ohrožené<br>kulturněhistorické zájmy<br>lesnictví extenzivní<br>ochrana proti ohrožení území<br>přírodní priority<br>rekreace nepobytová<br>sportovní využití<br>vodohospodářské zájmy zemědělství extenzivní</td><td><p><br></p>MU.e<br>MU.k<br>MU.i<br>MU.o<br>MU.p<br>MU.r<br>MU.s<br>MU.w<p>MU.z</p></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="8">UzemniRezervy_p</td><td rowspan="8">plocha</td><td rowspan="8">územní rezerva</td><td>Druh</td><td>druh objektu</td><td>text</td><td>R</td></tr><tr><td>Typ</td><td>charakteristický typ</td><td>text</td><td>Podle atributu<p>Typ u vrstvy PlochyRZV_p</p></td></tr><tr><td rowspan="4">Uroven</td><td rowspan="4">určení nadřazené dokumentace</td><td rowspan="4">text</td><td></td></tr><tr><td>PUR</td></tr><tr><td>URP</td></tr><tr><td>ZUR</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="8">KoridoryP_p</td><td rowspan="8">plocha</td><td rowspan="8">koridory plošně vymezené</td><td rowspan="3">Druh</td><td>druh objektu:</td><td rowspan="3">text</td><td></td></tr><tr><td>koridor vymezený územním plánem</td><td>CPU</td></tr><tr><td>koridor vyplývající z nadřazené dokumentace</td><td>CPZ</td></tr><tr><td rowspan="3">Typ</td><td>dopravní infrastruktura</td><td rowspan="3">text</td><td>DI</td></tr><tr><td>technická infrastruktura</td><td>TI</td></tr><tr><td>koridor pro opatření nestavební povahy</td><td>X</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="8">KoridoryN_p</td><td rowspan="8">plocha</td><td rowspan="8">koridory vymezené nad plochami s rozdílným způsobem využití</td><td rowspan="3">Druh</td><td>druh objektu:</td><td rowspan="3">text</td><td></td></tr><tr><td>koridor vymezený územním plánem</td><td>CNU</td></tr><tr><td>koridor vyplývající z nadřazené dokumentace</td><td>CNZ</td></tr><tr><td rowspan="3">Typ</td><td>dopravní infrastruktura</td><td rowspan="3">text</td><td>DI</td></tr><tr><td>technická infrastruktura</td><td>TI</td></tr><tr><td>koridor pro opatření nestavební povahy</td><td>X</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="3">Lokality_p</td><td rowspan="3">plocha</td><td rowspan="3">lokality</td><td>Druh</td><td>druh objektu</td><td>text</td><td>L</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="7">PlochyZmen_p</td><td rowspan="7">plocha</td><td rowspan="7">plochy změn</td><td rowspan="4">Druh</td><td>druh objektu:</td><td rowspan="4">text</td><td></td></tr><tr><td>zastavitelná plocha</td><td>Z</td></tr><tr><td>transformační plocha</td><td>T</td></tr><tr><td>plocha změny v krajině</td><td>K</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Etapizace</td><td>indikátor stanovení etapizace</td><td>text</td><td>E</td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="8">PlochyPodm_p</td><td rowspan="8">plocha</td><td rowspan="8">plochy a koridory s podmínkou pro rozhodování o změnách v území</td><td rowspan="5">Druh</td><td>druh objektu:</td><td rowspan="5">text</td><td></td></tr><tr><td>plánovací smlouva</td><td>PS</td></tr><tr><td>regulační plán</td><td>RP</td></tr><tr><td>územní studie</td><td>US</td></tr><tr><td>architektonická nebo urbanistická soutěž</td><td>AU</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Datum</td><td>datum lhůty pro splnění podmínek</td><td>datum</td><td>datum ve formátu RRRR-MM-DD<sup>c</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="17">VpsVpoAs_p</td><td rowspan="17">plocha</td><td rowspan="17">veřejně prospěšné stavby, veřejně prospěšná opatření, stavby a opatření k zajišťování obrany a bezpečnosti státu a plochy asanace</td><td rowspan="11">Druh</td><td>druh objektu:</td><td rowspan="11">text</td><td></td></tr><tr><td>VPS dopravní infrastruktury</td><td>VD</td></tr><tr><td>VPS technické infrastruktury</td><td>VT</td></tr><tr><td>VPS občanského vybavení</td><td>VO</td></tr><tr><td>VPS zelené infrastruktury</td><td>VZ</td></tr><tr><td>VPS veřejného prostranství</td><td>VP</td></tr><tr><td>VPS/VPO sloužící ke snižování nebezpečí v území</td><td>VN</td></tr><tr><td>VPO pro vytváření prvků územního systému ekologické stability</td><td>VU</td></tr><tr><td>VPO k rozvoji anebo k ochraně přírodního, kulturního a archeologického dědictví</td><td>VH</td></tr><tr><td>stavby a opatření k zajišťování obrany a bezpečnosti státu</td><td>VB</td></tr><tr><td>plocha asanace</td><td>VA</td></tr><tr><td rowspan="4">Uroven</td><td rowspan="4">určení nadřazené dokumentace</td><td rowspan="4">text</td><td></td></tr><tr><td>PUR</td></tr><tr><td>URP</td></tr><tr><td>ZUR</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="15">VpsVpoAs_l</td><td rowspan="15">linie</td><td rowspan="15">veřejně prospěšné stavby, veřejně prospěšná opatření, stavby a opatření k zajišťování obrany a bezpečnosti státu</td><td rowspan="9">Druh</td><td>druh objektu:</td><td rowspan="9">text</td><td></td></tr><tr><td>VPS dopravní infrastruktury</td><td>VD</td></tr><tr><td>VPS technické infrastruktury</td><td>VT</td></tr><tr><td>VPS občanského vybavení</td><td>VO</td></tr><tr><td>VPS zelené infrastruktury</td><td>VZ</td></tr><tr><td>VPS veřejného prostranství</td><td>VP</td></tr><tr><td>VPS / VPO sloužící ke snižování nebezpečí v území</td><td>VN</td></tr><tr><td>VPO k rozvoji anebo k ochraně přírodního, kulturního a archeologického dědictví</td><td>VH</td></tr><tr><td>stavby a opatření k zajišťování obrany a bezpečnosti státu</td><td>VB</td></tr><tr><td rowspan="4">Uroven</td><td rowspan="4">určení nadřazené dokumentace</td><td rowspan="4">text</td><td></td></tr><tr><td>PUR</td></tr><tr><td>URP</td></tr><tr><td>ZUR</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="15">USES_p</td><td rowspan="15">plocha</td><td rowspan="15">územní systém ekologické stability</td><td rowspan="3">CasH</td><td>časový horizont:</td><td rowspan="3">kladné celé číslo</td><td></td></tr><tr><td>stav</td><td>1</td></tr><tr><td>návrh</td><td>2</td></tr><tr><td rowspan="7">Typ</td><td>typ objektu:</td><td rowspan="7">text</td><td></td></tr><tr><td>nadregionální biokoridor</td><td>NRBK</td></tr><tr><td>nadregionální biocentrum</td><td>NRBC</td></tr><tr><td>regionální biokoridor</td><td>RBK</td></tr><tr><td>regionální biocentrum</td><td>RBC</td></tr><tr><td>lokální biokoridor</td><td>LBK</td></tr><tr><td>lokální biocentrum</td><td>LBC</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td rowspan="3">Vloz_bc</td><td>značení biocenter vložených do biokoridorů vyšší úrovně:</td><td rowspan="3">text</td><td></td></tr><tr><td>nadregionální biokoridor</td><td>NRBK</td></tr><tr><td>regionální biokoridor</td><td>RBK</td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="2">SystemSidelniZelene_p</td><td rowspan="2">plocha</td><td rowspan="2">systém sídelní zeleně</td><td>Obec_Kod</td><td>šestimístné identifikační číslo obce podle RÚIAN</td><td>kladné celé číslo</td><td></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="2">SystemVerProstr_p</td><td rowspan="2">plocha</td><td rowspan="2">systém veřejných prostranství</td><td>Obec_Kod</td><td>šestimístné identifikační číslo obce podle RÚIAN</td><td>kladné celé číslo</td><td></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="11">PlochaVI_p</td><td rowspan="11">plocha</td><td rowspan="11">plocha veřejné infrastruktury</td><td rowspan="5">Typ</td><td>typ veřejné infrastruktury:</td><td rowspan="5">text</td><td></td></tr><tr><td>dopravní infrastruktura</td><td>DI</td></tr><tr><td>technická infrastruktura</td><td>TI</td></tr><tr><td>občanské vybavení</td><td>OV</td></tr><tr><td>veřejné prostranství</td><td>VP</td></tr><tr><td rowspan="4">Uroven</td><td rowspan="4">určení nadřazené dokumentace</td><td rowspan="4">text</td><td></td></tr><tr><td>PUR</td></tr><tr><td>URP</td></tr><tr><td>ZUR</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="11">AkceleracniOblast_p</td><td rowspan="11">plocha</td><td rowspan="11">akcelerační oblast</td><td rowspan="4">Druh</td><td>druh primární energie zdrojů, pro něž se oblast vymezuje:</td><td rowspan="4">text</td><td></td></tr><tr><td>energie slunečního záření</td><td>AOS</td></tr><tr><td>energie větrná</td><td>AOV</td></tr><tr><td>energie slunečního záření a energie větrná</td><td>AOSV</td></tr><tr><td>UO</td><td>informace, zda pro akcelerační oblast musí existovat územní opatření</td><td>boolean</td><td>ano/ne</td></tr><tr><td>Vykon<sup>f</sup></td><td>informace o odhadovaném výkonu umístitelných záměrů (MWp)</td><td>kladné číslo</td><td></td></tr><tr><td rowspan="3">Uroven</td><td rowspan="3">určení nadřazené dokumentace</td><td rowspan="3">text</td><td></td></tr><tr><td>URP</td></tr><tr><td>ZUR</td></tr><tr><td>Ident<sup>a</sup></td><td>specifikace objektu</td><td>text</td><td>xxx<sup>b</sup></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="7">Zpochybneno_p</td><td rowspan="7">plocha</td><td rowspan="7">část dotčená rozhodnutím soudu nebo výsledkem přezkumu nadřízeného orgánu</td><td>Obec_Kod</td><td>šestimístné identifikační číslo obce podle RÚIAN</td><td>celé číslo</td><td></td></tr><tr><td rowspan="3">Vyd_organ</td><td>označení vydávajícího orgánu:</td><td rowspan="3">text</td><td></td></tr><tr><td>soud</td><td>S</td></tr><tr><td>nadřízený orgán</td><td>N</td></tr><tr><td>C_jednaci</td><td>číslo jednací rozhodnutí soudu nebo opatření obecné povahy nadřízeného orgánu</td><td>text</td><td></td></tr><tr><td>Id_lokal<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td>Poznamka<sup>a</sup></td><td>poznámka</td><td>text</td><td></td></tr></tbody></table>
+
+Doplňkový typ objektu se předává v jmenné konvenci DTO_xxx<sup>d</sup>\_y<sup>e</sup> a v samostatných vrstvách s přípustnou geometrií bod, linie nebo plocha. Popis sady atributů musí být součástí předávaných metadat.
+
+*a* *​​​​​Nepovinný údaj.*
+
+*b* *Libovolná kombinace písmen, číslic a znaků „-“ a „\_“.*
+
+*c* *RRRR je letopočet, MM měsíc, DD den.*
+
+*d* *Název doplňkového typu objektu.*
+
+*e* *​Typ geometrie (b – bod, l – linie, p – plocha).*
+
+*f* *Vyplní se pouze v případě, kdy hodnota atributu „UO“ je „ne“*.
+
+Použité zkratky:
+
+| GIS | geografický informační systém |
+|---|---|
+| RÚIAN | registr územní identifikace, adres a nemovitostí |
+| VPS | veřejně prospěšná stavba |
+| VPO | veřejně prospěšné opatření |
+
+### Příloha č. 14
+
+#### Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat územního plánu
+
+<table><thead><tr><th colspan="3">Požadavky na uspořádání a označení složek a souborů</th></tr><tr><th></th><th>Název složky / souboru</th><th>Upřesnění</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>DUP_xxxxxx<sup>a</sup>_ZX<sup>f</sup></td><td>Obsahuje všechna předávaná data v dále uvedeném členění</td></tr><tr><td rowspan="4">Členění Hlavní složky</td><td>Data</td><td>Obsahuje vektorová data</td></tr><tr><td>Texty</td><td>Obsahuje textovou část</td></tr><tr><td>Vykresy</td><td>Obsahuje výkresy, včetně jejich rastrových ekvivalentů a jejich usazovací soubory, a schémata</td></tr><tr><td>xxxxxx<sup>a</sup>_metadata</td><td>Soubor obsahující metadata</td></tr><tr><td rowspan="2">Soubory ve složce Data</td><td></td><td></td></tr><tr><td>Uvedeno v příloze č. 10 k této vyhlášce ve sloupci Název vrstvy</td><td>Názvy vrstev obsahujících jevy, které nejsou uvedeny v příloze č. 10 k této vyhlášce a jsou součástí grafické části územního plánu<sup>b</sup>, začínají znakem X; dalšími znaky může být kombinace libovolných znaků</td></tr><tr><td rowspan="3">Soubory ve složce Texty</td><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_text</td><td>Kompletní textová část územního plánu podle přílohy č. 8 zákona, část I.</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_oduvodneni</td><td>Textová část odůvodnění územního plánu podle přílohy č. 8 zákona, část II.</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_t<sup>c</sup></td><td>Ostatní texty a tabulky</td></tr><tr><td rowspan="10">Soubory ve složce Vykresy</td><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup>_ZCU</td><td>Výkres základního členění</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup>_HLV</td><td>Hlavní výkres</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup>_HLU</td><td>Hlavní výkres – urbanistická koncepce</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup>_HLK</td><td>Hlavní výkres – koncepce uspořádání krajiny</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup>_HLI</td><td>Hlavní výkres – koncepce veřejné infrastruktury</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup>_VPS</td><td>Výkres veřejně prospěšných staveb, veřejně prospěšných opatření a asanací</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup>_VSV</td><td>Výkres širších vztahů</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup>_KOV</td><td>Koordinační výkres</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup>_ZPF</td><td>Výkres předpokládaných záborů půdního fondu</td></tr><tr><td>xxxxxx<sup>a</sup>_ZX<sup>f</sup>_n<sup>d</sup></td><td>Ostatní výkresy a schémata</td></tr></tbody></table>
+
+<table><thead><tr><th colspan="3">Požadavky na výměnný formát předávaných dat</th></tr><tr><th></th><th>Vždy</th><th>Alespoň jedna z uvedených možností</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>ZIP</td><td>---</td></tr><tr><td>Vektorová data</td><td>ESRI Shapefile</td><td>---</td></tr><tr><td>Texty</td><td>PDF/A</td><td>TXT, RTF, DOC – textový editor MS Word verze 6 a vyšší, DOCX, XLS, XLSX; kódování UTF-8</td></tr><tr><td>Výkresy<sup>e</sup></td><td>PDF/A</td><td>PNG, TIF, BMP v referenčním Souřadnicovém systému Jednotné trigonometrické sítě katastrální</td></tr><tr><td>Schémata<sup>e</sup></td><td>PDF/A</td><td>---</td></tr><tr><td>Ilustrace odůvodnění<sup>e</sup></td><td>PDF/A</td><td>---</td></tr><tr><td>Metadata</td><td>XML</td><td>---</td></tr></tbody></table>
+
+*a* *Výraz „xxxxxx“ představuje šestimístný kód obce podle základního registru územní identifikace, adres a nemovitostí.*
+
+*b* *Viz příloha č. 8 k zákonu, část I, odst. 3.*
+
+*c* *Výraz „t“ představuje libovolný text.*
+
+*d* *Výraz „n“ představuje číslo výkresu podle rozpisky, případně označení schématu.*
+
+*e* *V rozlišení 300 dpi a s barevnou hloubkou 24 bit.*
+
+*f* *V případě změny územního plánu následuje za kódem obce označení změny ve formě „\_ZX“, kde „X“ znamená označení změny.*
+
+*V případě úplného znění územního plánu následuje za kódem obce označení úplného znění ve formě „\_UZX“, kde „X“ znamená označení změny, ke které se úplné znění váže.*
+
+### Příloha č. 15
+
+#### Požadavky na strukturu standardizovaného jevu regulačního plánu v prostředí GIS
+
+<table><thead><tr><th colspan="3">Vrstva GIS</th><th colspan="3">Atributy</th></tr><tr><th>Název vrstvy</th><th>Geometrie</th><th>Obsah</th><th>Název atributu</th><th>Obsah</th><th>Datový typ</th></tr></thead><tbody><tr><td rowspan="2">ReseneUzemi_p</td><td rowspan="2">plocha</td><td rowspan="2">řešené území</td><td>Obec_Kod</td><td>šestimístné identifikační číslo obce podle RÚIAN</td><td>kladné celé číslo</td></tr><tr><td>Id_local<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td></tr></tbody></table>
+
+*a* *Nepovinný údaj.*
+
+Použité zkratky:
+
+| GIS | geografický informační systém |
+|---|---|
+| RÚIAN | registr územní identifikace, adres a nemovitostí |
+
+### Příloha č. 16
+
+#### Požadavky na strukturu standardizovaného jevu regulačního plánu v prostředí CAD
+
+| Název vrstvy | Typ grafiky | Obsah | Povolená hodnota textu |
+|---|---|---|---|
+| ReseneUzemi_p | plocha | vymezení řešeného území | |
+| ReseneUzemi_d | popisný text | textové kódy definující vnitřky ploch řešeného území | RU |
+| ReseneUzemi_id<sup>a</sup> | popisný text | identifikátor objektu | kladné celé číslo |
+
+*a* *Nepovinný údaj.*
+
+Použité zkratky:
+
+| CAD | Computer-aided Design, počítačem podporované projektování |
+|---|---|
+
+### Příloha č. 18
+
+#### Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat regulačního plánu
+
+<table><thead><tr><th colspan="3">Požadavky na uspořádání a označení složek a souborů</th></tr><tr><th></th><th>Název složky /<br>souboru</th><th>Upřesnění</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>DRP_xxxxxx_Y<sup>a</sup></td><td>Obsahuje všechna předávaná data v dále uvedeném členění</td></tr><tr><td rowspan="4">Členění Hlavní složky</td><td>Data</td><td>Obsahuje vektorová data</td></tr><tr><td>Texty</td><td>Obsahuje textovou část</td></tr><tr><td>Vykresy</td><td>Obsahuje výkresy, včetně jejich rastrových ekvivalentů a jejich usazovací soubory, a schémata</td></tr><tr><td>xxxxxx_Y<sup>a</sup>_metadata</td><td>Soubor obsahující metadata</td></tr><tr><td rowspan="2">Soubory ve složce Data</td><td>xxxxxx_Y<sup>a</sup>_rp</td><td>V případě zpracování v CAD<br>Vrstvy se standardizovanými jevy označené podle přílohy č. 16 k této vyhlášce, sloupce Název vrstvy.<br><br>Názvy vrstev obsahujících jevy, které nejsou uvedeny v příloze č. 16 k této vyhlášce a jsou součástí grafické části regulačního plánu<sup>e</sup>, začínají znakem X; dalšími znaky může být kombinace libovolných znaků.</td></tr><tr><td>Uvedeno v příloze č. 15 k této vyhlášce ve sloupci Název vrstvy</td><td>V případě zpracování v GIS.<br><br>Názvy vrstev obsahujících jevy, které nejsou uvedeny v příloze č. 15 k této vyhlášce a jsou součástí grafické části regulačního plánu<sup>e</sup>, začínají znakem X; dalšími znaky může být kombinace libovolných znaků.</td></tr><tr><td rowspan="3">Soubory ve složce Texty</td><td>xxxxxx_Y<sup>a</sup>_text</td><td>Kompletní textová část regulačního plánu</td></tr><tr><td>xxxxxx_Y<sup>a</sup>_oduvodneni</td><td>Kompletní textová část odůvodnění regulačního plánu</td></tr><tr><td>xxxxxx_Y<sup>a</sup>_t<sup>b</sup></td><td>Ostatní texty</td></tr><tr><td rowspan="7">Soubory ve složce Vykresy</td><td>xxxxxx_Y<sup>a</sup>_n<sup>c</sup>_HLV</td><td>Hlavní výkres</td></tr><tr><td>xxxxxx_Y<sup>a</sup>_n<sup>c</sup>_VPS</td><td>Výkres veřejně prospěšných staveb, veřejně prospěšných opatření a asanací</td></tr><tr><td>xxxxxx_Y<sup>a</sup>_n<sup>c</sup>_VET</td><td>Výkres pořadí změn v území (etapizace)</td></tr><tr><td>xxxxxx_Y<sup>a</sup>_n<sup>c</sup>_KOV</td><td>Koordinační výkres</td></tr><tr><td>xxxxxx_Y<sup>a</sup>_n<sup>c</sup>_VSV</td><td>Výkres širších vztahů</td></tr><tr><td>xxxxxx_Y<sup>a</sup>_n<sup>c</sup>_ZPF</td><td>Výkres předpokládaných záborů půdního fondu</td></tr><tr><td>xxxxxx_Y<sup>a</sup>_n<sup>c</sup></td><td>Ostatní výkresy a schémata</td></tr></tbody></table>
+
+<table><thead><tr><th colspan="3">Požadavky na výměnný formát předávaných dat</th></tr><tr><th></th><th>Vždy</th><th>Alespoň jedna z uvedených možností</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>ZIP</td><td>---</td></tr><tr><td>Vektorová data</td><td>---</td><td>ESRI Shapefile, DXF</td></tr><tr><td>Texty</td><td>PDF/A</td><td>TXT, RTF, DOC – textový editor MS Word verze 6 a vyšší, DOCX, XLS, XLSX; kódování UTF-8</td></tr><tr><td>Výkresy<sup>d</sup></td><td>PDF/A</td><td>PNG, TIF, BMP v referenčním Souřadnicovém systému Jednotné trigonometrické sítě katastrální</td></tr><tr><td>Schémata<sup>d</sup></td><td>PDF/A</td><td>---</td></tr><tr><td>Ilustrace odůvodnění<sup>d</sup></td><td>PDF/A</td><td>---</td></tr><tr><td>Metadata</td><td>XML</td><td>---</td></tr></tbody></table>
+
+*a* *Výraz „xxxxxx“ představuje šestimístný kód obce podle základního registru územní identifikace, adres a nemovitostí. Výraz „Y” představuje pořadové číslo regulačního plánu v dané obci. 
+ V případě změny regulačního plánu se uvede „Y_ZX“, kde „Y” je pořadové číslo regulačního plánu v dané obci a „X” je pořadové číslo změny tohoto regulačního plánu.*
+
+*b* *Výraz „t“ představuje libovolný text.*
+
+*c* *Výraz „n“ představuje číslo výkresu podle rozpisky, případně označení schématu.*
+
+*d* *V rozlišení 300 dpi a s barevnou hloubkou 24 bit.*
+
+*e* *Viz příloha č. 9 k zákonu, část I., odst. 3.*
+
+Použité zkratky:
+
+| GIS | geografický informační systém |
+|---|---|
+| CAD | Computer-aided Design, počítačem podporované projektování |
+
+### Příloha č. 19
+
+#### Požadavky na strukturu standardizovaných jevů vymezení zastavěného území
+
+<table><tbody><tr><th colspan="3">Vrstva GIS</th><th colspan="3">Atributy</th></tr><tr><th>Název vrstvy</th><th>Geometrie</th><th>Obsah</th><th>Název atributu</th><th>Obsah</th><th>Datový typ</th></tr><tr><td rowspan="2">ZastaveneUzemi_p</td><td rowspan="2">plocha</td><td rowspan="2">zastavěné území</td><td>Obec_Kod</td><td>šestimístné identifikační číslo obce podle RÚIAN</td><td>kladné celé číslo</td></tr><tr><td>Id_local<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td></tr><tr><td rowspan="2">NezastavitelnyPozemek_p</td><td rowspan="2">plocha</td><td rowspan="2">nezastavitelný pozemek</td><td>Obec_Kod</td><td>šestimístné identifikační číslo obce podle RÚIAN</td><td>kladné celé číslo</td></tr><tr><td>Id_local<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td></tr></tbody></table>
+
+*a* *Nepovinný údaj.*
+
+Použité zkratky:
+
+| RÚIAN | registr územní identifikace, adres a nemovitostí |
+|---|---|
+
+### Příloha č. 21
+
+#### Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat vymezení zastavěného území
+
+<table><tbody><tr><th colspan="3">Požadavky na uspořádání a označení složek a souborů</th></tr><tr><th></th><th>Název složky / souboru</th><th>Upřesnění</th></tr><tr><td>Hlavní složka</td><td>DZU_xxxxxx_ZX<sup>a</sup></td><td>Obsahuje všechna předávaná data v dále uvedeném členění</td></tr><tr><td rowspan="4">Členění Hlavní složky</td><td>Data</td><td>Obsahuje vektorová data</td></tr><tr><td>Texty</td><td>Obsahuje textovou část</td></tr><tr><td>Vykresy</td><td>Obsahuje výkres</td></tr><tr><td>xxxxxx_ZX<sup>a</sup>_metadata</td><td>Soubor obsahující metadata</td></tr><tr><td rowspan="2">Soubory ve složce Data</td><td>ZastaveneUzemi_p</td><td>Vrstva zastavěného území</td></tr><tr><td>NezastavitelnyPozemek_p</td><td>Vrstva nezastavitelných pozemků</td></tr><tr><td rowspan="2">Soubory ve složce Texty</td><td>xxxxxx_ZX<sup>a</sup>_text</td><td>Kompletní textová část vymezení zastavěného území</td></tr><tr><td>xxxxxx_ZX<sup>a</sup>_oduvodneni</td><td>Kompletní textová část odůvodnění vymezení zastavěného území</td></tr><tr><td>Soubor ve složce Vykresy</td><td>xxxxxx_ZX<sup>a</sup>_ZU</td><td>Výkres vymezení zastavěného území</td></tr></tbody></table>
+
+<table><tbody><tr><th colspan="3">Požadavky na výměnný formát předávaných dat</th></tr><tr><th></th><th>Vždy</th><th>Alespoň jedna z uvedených možností</th></tr><tr><td>Hlavní složka</td><td>ZIP</td><td>---</td></tr><tr><td>Vektorová data</td><td>ESRI Shapefile</td><td>---</td></tr><tr><td>Texty</td><td>PDF/A</td><td>TXT, RTF, DOC – textový editor MS Word verze 6 a vyšší, DOCX, XLS, XLSX; kódování UTF-8</td></tr><tr><td>Výkresy a schémata<sup>b</sup></td><td>PDF/A</td><td>---</td></tr><tr><td>Metadata</td><td>XML</td><td>---</td></tr></tbody></table>
+
+*a* *Výraz „xxxxxx“ představuje šestimístný kód obce podle základního registru územní identifikace, adres a nemovitostí. Znaky „\_ZX“ jsou uvedeny pouze v případě změny zastavěného území a „X“ znamená pořadové číslo/označení změny.*
+
+*b* *V rozlišení 300 dpi a s barevnou hloubkou 24 bit.*
+
+### Příloha č. 22
+
+#### Požadavky na strukturu standardizovaných jevů územních opatření o stavební uzávěře, o asanaci území a o podmínkách a zmírňujících opatřeních
+
+<table><thead><tr><th colspan="3">Vrstva GIS</th><th colspan="4">Atributy</th></tr><tr><th>Název vrstvy</th><th>Geometrie</th><th>Obsah</th><th>Název atributu</th><th>Obsah</th><th>Datový typ</th><th>Povolená hodnota</th></tr></thead><tbody><tr><td rowspan="2">StavebniUzavera_p</td><td rowspan="2">plocha</td><td rowspan="2">vymezení území stavební uzávěry</td><td>EUP_Kod</td><td>identifikační číslo podle evidence územního plánování</td><td>kladné celé číslo</td><td></td></tr><tr><td>Id_local<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="2">Asanace_p</td><td rowspan="2">plocha</td><td rowspan="2">vymezení území asanace</td><td>EUP_Kod</td><td>identifikační číslo podle evidence územního plánování</td><td>kladné celé číslo</td><td></td></tr><tr><td>Id_local<sup>a</sup></td><td>identifikátor objektu</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="13">UzemniOpatreniAO_p</td><td rowspan="13">plocha</td><td rowspan="13">vymezení území akcelerační oblasti</td><td>EUP_Kod</td><td>identifikační číslo podle evidence územního plánování</td><td>kladné celé číslo</td><td></td></tr><tr><td>EUP_KodUPD</td><td>identifikační číslo související územně plánovací dokumentace, k níž je územní opatření pořízeno, podle evidence územního plánování</td><td>kladné celé číslo</td><td></td></tr><tr><td rowspan="4">Uroven</td><td>úroveň územně plánovací dokumentace, k níž je územní opatření pořízeno:</td><td rowspan="4">text</td><td></td></tr><tr><td>územní rozvojový plán</td><td>URP</td></tr><tr><td>zásady územního rozvoje</td><td>ZUR</td></tr><tr><td>územní plán</td><td>UP</td></tr><tr><td>Prech_Ust</td><td>jedná se o případ § 37 odst. 2 nebo 3 zákona č. 249/2025 Sb.</td><td>boolean</td><td>ano/ne</td></tr><tr><td>ID_UPD<sup>b</sup></td><td>označení akcelerační oblasti v související územně plánovací dokumentaci</td><td>text</td><td></td></tr><tr><td rowspan="4">Druh</td><td>druh primární energie zdrojů, pro ně se oblast vymezuje:</td><td rowspan="4">text</td><td></td></tr><tr><td>energie slunečního záření</td><td>AOS</td></tr><tr><td>energie větrná</td><td>AOV</td></tr><tr><td>energie slunečního záření a energie větrná</td><td>AOSV</td></tr><tr><td>Vykon</td><td>informace o odhadovaném výkonu umístitelných záměrů (MWp)</td><td>kladné číslo</td><td></td></tr></tbody></table>
+
+*a* *Nepovinný údaj.*
+
+*b Vyplní se v případě, kdy hodnota atributu „Prech_ust“ je „ne“.*​
+
+### Příloha č. 24
+
+#### Požadavky na uspořádání a označení složek a souborů a na výměnný formát předávaných dat územních opatření
+
+<table><thead><tr><th colspan="3">Požadavky na uspořádání a označení složek a souborů</th></tr><tr><th></th><th>Název složky / souboru</th><th>Upřesnění</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>DUO_E<sup>a</sup></td><td>Obsahuje všechna předávaná data v dále uvedeném členění</td></tr><tr><td rowspan="4">Členění Hlavní složky</td><td>Data</td><td>Obsahuje vektorová data</td></tr><tr><td>Texty</td><td>Obsahuje textovou část</td></tr><tr><td>Vykresy</td><td>Obsahuje výkres</td></tr><tr><td>E<sup>a</sup>_metadata</td><td>Soubor obsahující metadata</td></tr><tr><td rowspan="3">Soubory ve složce Data</td><td>StavebniUzavera_p</td><td>Vrstva stavební uzávěry</td></tr><tr><td>Asanace_p</td><td>Vrstva asanace</td></tr><tr><td>UzemniOpatreniAO_p</td><td>Vrstva vymezení území akcelerační oblasti</td></tr><tr><td rowspan="6">Soubory ve složce Texty</td><td>E<sup>a</sup>_su_text</td><td>Kompletní textová část územního opatření o stavební uzávěře</td></tr><tr><td>E<sup>a</sup>_su_oduvodneni</td><td>Kompletní textová část odůvodnění územního opatření o stavební uzávěře</td></tr><tr><td>E<sup>a</sup>_au_text</td><td>Kompletní textová část územního opatření o asanaci území</td></tr><tr><td>E<sup>a</sup>_au_oduvodneni</td><td>Kompletní textová část odůvodnění územního opatření o asanaci území</td></tr><tr><td>E<sup>a</sup>_ao_text</td><td>Kompletní textová část územního opatření o podmínkách a zmírňujících opatřeních</td></tr><tr><td>E<sup>a</sup>_ao_oduvodneni</td><td>Kompletní textová část odůvodnění územního opatření o podmínkách a zmírňujících opatřeních</td></tr><tr><td>Soubor ve složce Vykresy</td><td>E<sup>a</sup>_UO</td><td>Výkres s vymezením stavební uzávěry, výkres s vymezením území asanace nebo výkres s vymezením území akcelerační oblasti</td></tr></tbody></table>
+
+<table><thead><tr><th colspan="3">Požadavky na výměnný formát předávaných dat</th></tr><tr><th></th><th>Vždy</th><th>Alespoň jedna z uvedených možností</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>ZIP</td><td>---</td></tr><tr><td>Vektorová data</td><td>ESRI Shapefile</td><td>---</td></tr><tr><td>Texty</td><td>PDF/A</td><td>TXT, RTF, DOC – textový editor MS Word verze 6 a vyšší, DOCX, XLS, XLSX; kódování UTF-8</td></tr><tr><td>Výkres<sup>b</sup></td><td>PDF/A</td><td>---</td></tr><tr><td>Metadata</td><td>XML</td><td>---</td></tr></tbody></table>
+
+*a* *Výraz „E“ představuje kód územního opatření o stavební uzávěře, o asanaci území z evidence územního plánování, nebo o podmínkách a zmírňujících opatřeních.*
+
+*b* *V rozlišení 300 dpi a s barevnou hloubkou 24 bit.*
+
+### Příloha č. 25
+
+#### Požadavky na strojově čitelný formát územní studie
+
+<table><thead><tr><th colspan="4">Požadavky na uspořádání a označení složek a souborů</th></tr><tr><th></th><th>Název složky /<br>souboru</th><th colspan="2">Upřesnění</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>DUS_E<sup>a</sup></td><td colspan="2">Obsahuje všechna předávaná data v dále uvedeném členění</td></tr><tr><td rowspan="4">Členění Hlavní složky</td><td>Data</td><td colspan="2">Obsahuje vektorová data</td></tr><tr><td>Texty</td><td colspan="2">Obsahuje textovou část</td></tr><tr><td>Vykresy</td><td colspan="2">Obsahuje výkresy, včetně jejich rastrových ekvivalentů a jejich usazovací soubory, a schémata</td></tr><tr><td>E<sup>a</sup>_metadata</td><td colspan="2">Soubor obsahující metadata</td></tr><tr><td rowspan="8">Soubory ve složce Data</td><td rowspan="5">E<sup>a</sup>_us</td><td colspan="2">V případě zpracování v CAD</td></tr><tr><td colspan="2">Vrstvy řešeného území označené<sup>b</sup>:</td></tr><tr><td>ReseneUzemi_p</td><td>Plocha vymezení řešeného území</td></tr><tr><td>ReseneUzemi_d</td><td>Popisný text „RU“, definující vnitřek plochy řešeného území</td></tr><tr><td colspan="2">Ostatní vrstvy mohou mít libovolný název.</td></tr><tr><td rowspan="3">ReseneUzemi_p</td><td colspan="2">V případě zpracování v GIS<br>Vrstva řešeného území ve formě plochy<sup>b</sup>.<br>Atribut:</td></tr><tr><td>Kod_EUP</td><td>Kód územní studie z evidence územního plánování</td></tr><tr><td colspan="2">Ostatní vrstvy mohou mít libovolný název.</td></tr><tr><td rowspan="2">Soubory ve složce Texty</td><td>E<sup>a</sup>_text</td><td colspan="2">Textová část územní studie</td></tr><tr><td>E<sup>a</sup>_t<sup>c</sup></td><td colspan="2">Ostatní texty</td></tr><tr><td>Soubory ve složce Vykresy</td><td>E<sup>a</sup>_n<sup>d</sup></td><td colspan="2">Jednotlivé výkresy</td></tr></tbody></table>
+
+<table><thead><tr><th colspan="3">Požadavky na výměnný formát předávaných dat</th></tr><tr><th></th><th>Vždy</th><th>Alespoň jedna z uvedených možností</th></tr></thead><tbody><tr><td>Hlavní složka</td><td>ZIP</td><td>---</td></tr><tr><td>Vektorová data</td><td>---</td><td>ESRI Shapefile, DXF, GML</td></tr><tr><td>Texty</td><td>PDF/A</td><td>TXT, RTF, DOC – textový editor MS Word verze 6 a vyšší, DOCX, XLS, XLSX; kódování UTF-8</td></tr><tr><td>Výkresy<sup>e</sup></td><td>PDF/A</td><td>PNG, TIF, BMP v referenčním Souřadnicovém systému Jednotné trigonometrické sítě katastrální</td></tr><tr><td>Schémata<sup>e</sup></td><td>PDF/A</td><td>---</td></tr><tr><td>Metadata</td><td>XML</td><td>---</td></tr></tbody></table>
+
+*a* *Výraz „E“ představuje kód územní studie z evidence územního plánování.*
+
+*b* *Pro ostatní předávané vrstvy nejsou stanoveny žádné požadavky.*
+
+*c* *Výraz „t“ představuje libovolný text.*
+
+*d* *Výraz „n“ představuje číslo výkresu podle rozpisky, případně označení schématu.*
+
+*e**V rozlišení 300 dpi a s barevnou hloubkou 24 bit.*
+
+Použité zkratky:
+
+| GIS | geografický informační systém |
+|---|---|
+| CAD | Computer-aided Design, počítačem podporované projektování |

@@ -1,0 +1,49 @@
+---
+title: "Vyhláška č. 161/2018 Sb., o předpokládaných počtech pedagogických pracovníků a jejich platovém zařazení"
+identifier: "161/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/161/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2018-07-31
+effective: 2018-09-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/161"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 161/2018 Sb., o předpokládaných počtech pedagogických pracovníků a jejich platovém zařazení ve znění vyhlášky č. 306/2025 Sb."
+---
+
+# Vyhláška č. 161/2018 Sb., o předpokládaných počtech pedagogických pracovníků a jejich platovém zařazení
+
+161
+
+VYHLÁŠKA
+
+ze dne 31. července 2018
+
+o předkládání údajů o předpokládaných počtech pedagogických pracovníků a jejich platovém zařazení
+
+Ministerstvo školství, mládeže a tělovýchovy (dále jen „ministerstvo“) stanoví podle § 161c odst. 2 písm. a) zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění zákona č. 101/2017 Sb.:
+
+## § 1 – Rozsah předávaných údajů
+
+(1) Právnická osoba vykonávající činnost mateřské školy, základní školy, střední školy, konzervatoře nebo školní družiny zřizovaná krajem, obcí nebo svazkem obcí (dále jen „právnická osoba“) předává zvlášť pro každý druh školy a školní družinu předpokládané změny v počtu hodin přímé pedagogické činnosti pedagogických pracovníků zajišťujících vzdělávání v rozsahu Rámcového vzdělávacího programu a pedagogických pracovníků školní družiny vzhledem ke stavu k 30. září minulého kalendářního roku, jejichž mzdové nároky jsou financovány podle § 161c odst. 4 školského zákona, v členění podle skupin profesí. Právnická osoba vykonávající činnost základní školy, která má nárok na financování činnosti psychologa, speciálního pedagoga nebo sociálního pedagoga ze státního rozpočtu na základě nařízení vlády vydaného podle § 161 odst. 3 nebo 4 školského zákona, dále předává za podmínek podle věty první změny v počtu hodin přímé pedagogické činnosti psychologa, speciálního pedagoga nebo sociálního pedagoga.
+
+(2) Údaje podle odstavce 1 předloží právnická osoba podle očekávaných změn v organizaci vzdělávání a poskytování školských služeb, popřípadě poskytování poradenských služeb ve škole, v následujícím školním roce zejména vzhledem k výsledkům zápisu k předškolnímu vzdělávání, zápisu k základnímu vzdělávání a přijímacího řízení, případně i ke změnám ve školském rejstříku.
+
+## § 2 – Způsob a termíny předkládání údajů
+
+(1) Právnická osoba předává údaje elektronicky do databáze spravované ministerstvem na formuláři, jehož vzor ministerstvo zveřejní nejpozději do 28. února daného kalendářního roku na svých internetových stránkách. Do této databáze mají v rozsahu nezbytném pro plnění jejich úkolů přístup také krajské úřady a obecní úřady obcí s rozšířenou působností.
+
+(2) Právnická osoba předává údaje v období od 31. května nejpozději do 10. června daného kalendářního roku k rozhodnému dni 30. září daného kalendářního roku. Připadne-li poslední den pro předání údajů na sobotu, neděli nebo svátek, je posledním dnem pro předání údajů nebližší příští pracovní den.
+
+(3) K předávaným údajům uvede právnická osoba své identifikační číslo, telefonické spojení a adresu elektronické pošty, druh školy nebo údaj o tom, že se jedná o školní družinu, a jméno, popřípadě jména, a příjmení fyzické osoby, která údaje připravila.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2018.
+
+Ministr:
+
+Ing. Plaga, Ph.D., v. r.

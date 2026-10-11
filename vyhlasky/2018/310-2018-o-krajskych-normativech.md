@@ -1,0 +1,192 @@
+---
+title: "Vyhláška č. 310/2018 Sb., o krajských normativech"
+identifier: "310/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/310/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2018-12-12
+effective: 2019-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/310"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 310/2018 Sb., o krajských normativech
+
+310
+
+VYHLÁŠKA
+
+ze dne 12. prosince 2018
+
+o krajských normativech
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 161c odst. 2 písm. b) a § 170 písm. f) zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění zákona č. 101/2017 Sb.:
+
+## § 1 – Jednotky výkonu pro jednotlivé krajské normativy
+
+Jednotkou výkonu je:
+
+a) 1 žák kurzu pro získání základního vzdělání,
+
+b) ve středisku volného času
+
+1\. 1 dítě, 1 žák, 1 student, který je přijat k 1 nebo více zájmovým, výchovným, rekreačním nebo vzdělávacím činnostem s pravidelnou docházkou podle vyhlášky upravující zájmové vzdělávání, které se konají v rozsahu nejvýše 3 hodiny týdně v průměru po dobu nejméně 5 po sobě jdoucích měsíců v období školního vyučování s výjimkou období školních prázdnin,
+
+2\. 1 dítě, 1 žák, 1 student, který je přijat k 1 nebo více zájmovým, výchovným, rekreačním nebo vzdělávacím činnostem s pravidelnou docházkou podle vyhlášky upravující zájmové vzdělávání, které se konají v rozsahu více než 3 hodiny týdně v průměru po dobu nejméně 5 po sobě jdoucích měsíců v období školního vyučování s výjimkou období školních prázdnin,
+
+3\. 1 dítě, 1 žák, 1 student, který je přijat k 1 nebo více táborům, a to na dobu alespoň 5 po sobě jdoucích dnů,
+
+c) 1 žák ve školním klubu, který se vzdělává v základní škole, v základní škole speciální, v nižším stupni šestiletého nebo osmiletého gymnázia nebo v odpovídajících ročnících v osmiletém vzdělávacím programu konzervatoře a který je přijat k 1 nebo více zájmovým, výchovným, rekreačním nebo vzdělávacím činnostem s pravidelnou
+
+1\. denní docházkou podle vyhlášky upravující zájmové vzdělávání,
+
+2\. docházkou podle vyhlášky upravující zájmové vzdělávání,
+
+d) 1 ubytovaný v domově mládeže, který se zároveň vzdělává
+
+1\. v základní škole, střední škole nebo konzervatoři,
+
+2\. ve vyšší odborné škole,
+
+e) 1 ubytovaný v internátě, který se zároveň vzdělává
+
+1\. v základní škole speciální, ve třídě přípravného stupně základní školy speciální, nebo ve škole samostatně zřízené podle § 16 odst. 9 školského zákona pro děti nebo žáky s těžkým zdravotním postižením,
+
+2\. ve škole samostatně zřízené podle § 16 odst. 9 školského zákona pro děti nebo žáky s jiným než těžkým zdravotním postižením,
+
+f) 1 dítě, žák nebo student, jemuž informační, diagnostickou, poradenskou a metodickou činnost, odborné speciálně pedagogické a pedagogicko-psychologické služby, preventivně výchovnou péči nebo pomoc při volbě vhodného vzdělávání a přípravě na budoucí povolání v předchozím školním roce zajišťovala
+
+1\. pedagogicko-psychologická poradna,
+
+2\. speciálně pedagogické centrum,
+
+g) 1 dítě v ambulantní formě služeb ve středisku výchovné péče<sup>1</sup>),
+
+h) 1 výchovná skupina ve středisku výchovné péče<sup>1</sup>)
+
+1\. v celodenní formě služeb,
+
+2\. v internátní formě služeb,
+
+i) 1 rodinná skupina
+
+1\. v dětském domově,
+
+2\. v dětském domově se školou,
+
+j) 1 výchovná skupina
+
+1\. ve výchovném ústavu,
+
+2\. v diagnostickém ústavu,
+
+k) 1 žák v oboru vzdělání ve střední škole v denní formě vzdělávání, kterému praktické vyučování zajišťuje středisko praktického vyučování.
+
+## § 2 – Ukazatele rozhodné pro stanovení krajských normativů
+
+(1) Pro stanovení krajských normativů na jednotky výkonu podle § 1 je rozhodný ukazatel:
+
+a) průměrného počtu jednotek výkonu připadajícího na 1 pedagogického pracovníka (Np),
+
+b) průměrné měsíční výše platu pedagogického pracovníka (Pp).
+
+(2) Ukazatel průměrného počtu jednotek výkonu připadajícího na 1 pedagogického pracovníka se stanoví
+
+a) z průměrných hodnot dosažených v průběhu uplynulého kalendářního roku nebo, nejsou-li tyto hodnoty vypovídající, z hodnot stanovených krajským úřadem v uplynulém kalendářním roce v kurzu pro získání základního vzdělání nebo v příslušném typu školského zařízení v rámci kraje,
+
+b) pokud se jedná o ubytovaného v domově mládeže, jako funkční závislost nebo soubor nejvýše 6 na sebe spojitě navazujících funkčních závislostí na počtu ubytovaných,
+
+c) pokud se jedná o dítě, žáka nebo studenta ve středisku volného času, jako funkční závislost nebo soubor nejvýše 6 na sebe spojitě navazujících funkčních závislostí na počtu dětí, žáků nebo studentů,
+
+d) pokud se jedná o žáka ve školním klubu, jako funkční závislost nebo soubor nejvýše 6 na sebe spojitě navazujících funkčních závislostí na počtu žáků.
+
+(3) Ukazatel průměrné měsíční výše platu pedagogického pracovníka je tvořen průměrnou měsíční výší složek platu<sup>2</sup>) dosaženou v příslušném druhu školy, která realizuje kurz pro získání základního vzdělání, nebo v příslušném typu školského zařízení v rámci kraje v průběhu uplynulého kalendářního roku upravenou na výši, která se v příslušném kalendářním roce předpokládá vzhledem k objemu finančních prostředků přidělených krajskému úřadu prostřednictvím republikových normativů na pedagogické pracovníky. Součty osobních příplatků a odměn v takto upraveném ukazateli průměrné měsíční výše platu pedagogického pracovníka se mezi jednotlivými druhy škol a typy školských zařízení nesmí lišit o více než 50 % z nejvyššího součtu osobních příplatků a odměn. Do ukazatelů průměrné měsíční výše platu se nezahrnují platby za práci přesčas a za konání přímé vyučovací, přímé výchovné, přímé sociálněpedagogické, přímé speciálně pedagogické nebo pedagogicko-psychologické činnosti nad stanovený rozsah<sup>3</sup>).
+
+**Členění krajských normativů a vztah mezi ukazateli a jednotkami výkonu**
+
+## § 3
+
+Na každou jednotku výkonu podle § 1, pokud je u škol a školských zařízení v rámci kraje v daném kalendářním roce realizována, se stanoví 1 krajský normativ.
+
+## § 4
+
+(1) Krajský normativ s výjimkou táboru u středisek volného času se z ukazatelů uvedených v § 2 odst. 1 stanoví vztahem 1/Np x Pp x 12 x 1,Proc,
+
+kde Proc je součtem procent sazby pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, jehož poplatníkem je zaměstnavatel podle zákona upravujícího pojistné na sociální zabezpečení a příspěvek na státní politiku zaměstnanosti<sup>4</sup>), procent sazby pojistného na veřejné zdravotní pojištění, které platí zaměstnavatel za své zaměstnance podle zákona upravujícího pojistné na veřejné zdravotní pojištění<sup>5</sup>), a procent, v jejichž výši se stanoví základní příděl, kterým je tvořen fond kulturních a sociálních potřeb podle vyhlášky upravující fond kulturních a sociálních potřeb<sup>6</sup>).
+
+(2) Ke krajskému normativu stanovenému pro jednotku výkonu podle § 1 písm. f) bodu 2 lze stanovit opravné koeficienty zohledňující náročnost poradenských služeb poskytovaných speciálně pedagogickým centrem podle druhu znevýhodnění.
+
+(3) Ke krajským normativům stanoveným pro jednotky výkonu podle § 1 písm. i) bodů 1 a 2 lze stanovit opravné koeficienty zohledňující počty rodinných skupin v dětském domově nebo v dětském domově se školou.
+
+(4) Ke krajskému normativu stanovenému podle odstavce 1 lze stanovit opravné koeficienty, kterými se krajský normativ vynásobí v případě škol a školských zařízení, kde je průměrný platový stupeň pedagogických pracovníků vyšší nebo nižší než krajský průměr promítnutý v ukazateli průměrné měsíční výše platu pedagogického pracovníka. Takto stanovené koeficienty nesmí být nižší než 0,9 ani vyšší než 1,1.
+
+(5) Krajský normativ pro jednotku výkonu podle § 1 písm. b) bodu 3 se stanoví z krajského normativu pro jednotku výkonu podle § 1 písm. b) bodu 2 opravným koeficientem, který nesmí být vyšší než 0,25.
+
+## § 5 – Úprava ukazatelů pro výpočet minimální úrovně krajských normativů
+
+Krajský úřad může zvýšit ukazatel Np stanovený podle § 2 odst. 2 až o 10 %.
+
+## § 6 – Zásady pro zvýšení krajských normativů
+
+Krajský úřad může provést zvýšení krajského normativu nad rámec vyplývající z hodnot ukazatelů uvedených v § 2, pokud je toto zvýšení zabezpečeno v celkovém objemu finančních prostředků přidělených kraji prostřednictvím republikových normativů.
+
+## § 7 – Zásady pro zveřejnění krajských normativů
+
+Krajský úřad zveřejní stanovené krajské normativy, ukazatele rozhodné pro jejich stanovení a koeficienty podle § 4 odst. 2 až 5 způsobem umožňujícím dálkový přístup nejpozději 30 pracovních dnů po obdržení rozpisu rozpočtu z Ministerstva školství, mládeže a tělovýchovy.
+
+## § 8 – Společná ustanovení
+
+Školami a školskými zařízeními v rámci kraje se pro účely této vyhlášky rozumí školy a školská zařízení zapsané ve školském rejstříku zřizované obcemi nebo svazky obcí na území příslušného kraje nebo příslušným krajem.
+
+## § 9 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Vyhláška č. 492/2005 Sb., o krajských normativech.
+
+2\. Vyhláška č. 47/2008 Sb., kterou se mění vyhláška č. 492/2005 Sb., o krajských normativech.
+
+3\. Vyhláška č. 33/2009 Sb., kterou se mění vyhláška č. 492/2005 Sb., o krajských normativech, ve znění vyhlášky č. 47/2008 Sb.
+
+4\. Vyhláška č. 8/2010 Sb., kterou se mění vyhláška č. 492/2005 Sb., o krajských normativech, ve znění pozdějších předpisů.
+
+5\. Vyhláška č. 11/2011 Sb., kterou se mění vyhláška č. 492/2005 Sb., o krajských normativech, ve znění pozdějších předpisů.
+
+6\. Vyhláška č. 110/2011 Sb., kterou se mění vyhláška č. 492/2005 Sb., o krajských normativech, ve znění pozdějších předpisů.
+
+7\. Část osmá vyhlášky č. 197/2016 Sb., kterou se mění vyhláška č. 72/2005 Sb., o poskytování poradenských služeb ve školách a školských poradenských zařízeních, ve znění pozdějších předpisů, a některé další vyhlášky.
+
+8\. Část druhá vyhlášky č. 280/2016 Sb., kterou se mění vyhláška č. 14/2005 Sb., o předškolním vzdělávání, ve znění pozdějších předpisů, a některé další vyhlášky.
+
+9\. Část druhá vyhlášky č. 243/2017 Sb., kterou se mění vyhláška č. 48/2005 Sb., o základním vzdělávání a některých náležitostech plnění povinné školní docházky, ve znění pozdějších předpisů, a některé další vyhlášky.
+
+## § 10 – Přechodné ustanovení
+
+Do dne, do kterého jsou školy a školská zařízení financovány ze státního rozpočtu podle ustanovení zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění účinném přede dnem nabytí účinnosti zákona č. 101/2017 Sb., se krajské normativy řídí vyhláškou č. 492/2005 Sb., o krajských normativech, ve znění účinném do dne nabytí účinnosti této vyhlášky.
+
+## § 11 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2019.
+
+Ministr školství, mládeže a tělovýchovy:
+
+Ing. Plaga, Ph.D., v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 23 zákona č. 563/2004 Sb., o pedagogických pracovnících a o změně některých zákonů, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Zákon č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů.
+
+<sup>6</sup>) Vyhláška č. 114/2002 Sb., o fondu kulturních a sociálních potřeb, ve znění pozdějších předpisů.
+
+<sup>7</sup>) § 2 odst. 1 zákona č. 563/2004 Sb., o pedagogických pracovnících a o změně některých zákonů, ve znění pozdějších předpisů.

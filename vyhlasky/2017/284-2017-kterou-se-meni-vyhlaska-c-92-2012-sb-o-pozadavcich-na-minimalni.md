@@ -1,0 +1,156 @@
+---
+title: "Vyhláška č. 284/2017 Sb., kterou se mění vyhláška č. 92/2012 Sb., o požadavcích na minimální technické a věcné vybavení zdravotnických zařízení a kontaktních pracovišť domácí péče"
+identifier: "284/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/284/2017-11-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-09-05
+effective: 2017-11-01
+last_amended: 2017-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/284"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 284/2017 Sb., kterou se mění vyhláška č. 92/2012 Sb., o požadavcích na minimální technické a věcné vybavení zdravotnických zařízení a kontaktních pracovišť domácí péče
+
+284
+
+VYHLÁŠKA
+
+ze dne 5. září 2017,
+
+kterou se mění vyhláška č. 92/2012 Sb., o požadavcích na minimální technické a věcné vybavení zdravotnických zařízení a kontaktních pracovišť domácí péče
+
+Ministerstvo zdravotnictví stanoví podle § 120 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), k provedení § 11 odst. 6 zákona o zdravotních službách:
+
+## Čl. I
+
+Vyhláška č. 92/2012 Sb., o požadavcích na minimální technické a věcné vybavení zdravotnických zařízení a kontaktních pracovišť domácí péče, se mění takto:
+
+1\. V § 1 se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno h), které zní:
+
+> „h) protialkoholní a protitoxikomanické záchytné služby jsou stanoveny v příloze č. 9 k této vyhlášce.“.
+
+2\. V § 1 odst. 3 se číslo „9“ nahrazuje číslem „10“.
+
+3\. Za přílohu č. 8 se vkládá nová příloha č. 9, která včetně nadpisu zní:
+
+> **„Příloha č. 9 k vyhlášce č. 92/2012 Sb.**
+
+> **Požadavky na technické a věcné vybavení zdravotnických zařízení protialkoholní a protitoxikomanické záchytné služby**
+
+> 1\. Základní provozní prostory protialkoholní a protitoxikomanické záchytné stanice jsou:
+
+> a) pokoje pro pacienty,
+
+> b) izolační místnost pro dočasné umístění pacientů,
+
+> c) vyšetřovna,
+
+> d) pracoviště sester,
+
+> e) pracoviště zdravotnických pracovníků a jiných odborných pracovníků, pokud je zřízeno,
+
+> f) WC pro pacienty,
+
+> g) koupelna pro pacienty,
+
+> h) šatna pro pacienty.
+
+> 2\. Vedlejší provozní prostory protialkoholní a protitoxikomanické záchytné stanice jsou:
+
+> a) sanitární zařízení pro zaměstnance<sup>4</sup>),
+
+> b) skladovací prostory,
+
+> c) prostor pro čištění pomůcek a pro vylévání biologického materiálu,
+
+> d) místnost pro odpočinek zaměstnanců<sup>4</sup>).
+
+> 3\. Pokoj pro pacienty musí mít minimální plochu na 1 lůžko 5 m<sup>2</sup>, minimální plocha pokoje musí být 8 m<sup>2</sup>. V pokoji musí být signalizační zařízení mezi pacientem a sestrou. Pokoj musí mít přímé denní osvětlení. Mezi lůžky musí být dostatečný prostor pro činnost personálu. Podlahy musí být snadno čistitelné, omyvatelné a dezinfikovatelné. Stěny musí mít omyvatelný povrch minimálně do výšky 180 cm.
+
+> 4\. Izolační místnost pro dočasné umístění pacientů musí splňovat požadavky na vybavení pokoje pro pacienty uvedené v bodě 3 této přílohy.
+
+> 5\. Vyšetřovna musí mít minimální plochu 8 m<sup>2</sup>.
+
+> Vybavení:
+
+> a) nábytek pro práci zdravotnických a jiných odborných pracovníků,
+
+> b) vyšetřovací lehátko nebo lůžko,
+
+> c) umyvadlo.
+
+> 6\. Vybavení pracoviště sester:
+
+> a) nábytek pro činnost sester,
+
+> b) plocha pro manipulaci s biologickým materiálem,
+
+> c) signalizační zařízení mezi pacientem a sestrou,
+
+> d) umyvadlo,
+
+> e) dřez pro mytí a čištění pomůcek.
+
+> 7\. Pracoviště zdravotnických pracovníků a jiných odborných pracovníků musí být vybaveno nábytkem pro činnost těchto pracovníků.
+
+> 8\. WC pro pacienty, pokud není součástí pokoje pro pacienty, se zřizuje odděleně pro muže a ženy. Je-li WC pro pacienty součástí pokoje pro pacienty, musí být odděleno od zbývajícího prostoru pokoje alespoň neprůhlednou zástěnou pevně spojenou s podlahou nebo zdivem.
+
+> 9\. Šatna pro pacienty může být nahrazena uzamykatelnými skříněmi.
+
+> 10\. Skladovací prostory se zřizují pro oddělené skladování čistého a špinavého prádla, sterilního materiálu, odpadů, úklidových prostředků a podložních mís a močových lahví s možností jejich dekontaminace.
+
+> 11\. Prostor pro čištění pomůcek a pro vylévání biologického materiálu musí být vybaven výlevkou a dřezem nebo výlevkou a myčkou.
+
+> 12\. Prostory protialkoholní a protitoxikomanické záchytné stanice včetně chodeb musí být řešeny tak, aby byla možná manipulace s lehátkem nebo křeslem, případně pojízdným lůžkem pacienta. Tento požadavek se nevztahuje na vedlejší prostory.
+
+> 13\. Další vybavení protialkoholní a protitoxikomanické záchytné stanice:
+
+> a) lůžka pro pacienty,
+
+> b) odsávačka,
+
+> c) pulzní oxymetr,
+
+> d) léčivé přípravky a pomůcky pro poskytnutí první pomoci včetně kardiopulmonální resuscitace,
+
+> e) resuscitační vozík pro uložení pomůcek a léčivých přípravků,
+
+> f) skříň na léčivé přípravky,
+
+> g) chladnička pro uchování léčivých přípravků vybavená teploměrem, pokud se uchovávají léčivé přípravky nebo pomůcky, které pro své uchování vyžadují nižší teplotu než pokojovou, a chladnička na biologický materiál vybavená teploměrem, pokud je uchováván biologický materiál,
+
+> h) nepřenosná uzamykatelná schránka z kovu, pokud se skladují omamné nebo psychotropní látky nebo přípravky je obsahující<sup>5</sup>),
+
+> i) glukometr,
+
+> j) tonometr,
+
+> k) fonendoskop,
+
+> l) teploměr lékařský,
+
+> m) infuzní stojan,
+
+> n) alkotest a tester na přítomnost drog,
+
+> o) počítač a jednotné úložiště dat propojené datovou sítí a tiskárna; jednotné úložiště dat může být společné pro více pracovišť nebo celé zdravotnické zařízení.
+
+> 14\. Pokud je protialkoholní a protitoxikomanická záchytná stanice vybavena zařízeními nebo přístroji, které prokazatelně funkčně plně nahrazují technické a věcné vybavení uvedené v této příloze nebo jeho část a činí je nadbytečným, takto nahrazené vybavení nebo jeho část se nevyžaduje.“.
+
+Dosavadní příloha č. 9 se označuje jako příloha č. 10.
+
+## Čl. II – Přechodné ustanovení
+
+Poskytovatel protialkoholní a protitoxikomanické záchytné služby, který poskytuje protialkoholní a protitoxikomanickou záchytnou službu ke dni nabytí účinnosti této vyhlášky, musí splnit požadavky na minimální technické a věcné vybavení protialkoholní a protitoxikomanické záchytné stanice podle vyhlášky č. 92/2012 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, do 12 měsíců ode dne nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po jejím vyhlášení.
+
+Ministr:
+
+JUDr. Ing. Ludvík, MBA, v. r.

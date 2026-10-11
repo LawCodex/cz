@@ -1,0 +1,152 @@
+---
+title: "Vyhláška č. 51/2024 Sb., kterou se mění vyhláška č. 245/2016 Sb., k provedení některých ustanovení celního zákona, ve znění pozdějších předpisů, a zrušuje vyhláška č. 304/2023 Sb., kterou se mění vyhláška č. 328/2020 Sb., o územních pracovištích celních úřadů, která se nenacházejí v jejich sídlech, ve znění vyhlášky č. 311/2022 Sb."
+identifier: "51/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/51/2025-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-02-27
+effective: 2024-03-06
+last_amended: 2025-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/51"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 51/2024 Sb., kterou se mění vyhláška č. 245/2016 Sb., k provedení některých ustanovení celního zákona, ve znění pozdějších předpisů, a zrušuje vyhláška č. 304/2023 Sb., kterou se mění vyhláška č. 328/2020 Sb., o územních pracovištích celních úřadů, která se nenacházejí v jejich sídlech, ve znění vyhlášky č. 311/2022 Sb.
+
+51
+
+VYHLÁŠKA
+
+ze dne 27. února 2024,
+
+kterou se mění vyhláška č. 245/2016 Sb., k provedení některých ustanovení celního zákona, ve znění pozdějších předpisů, a zrušuje vyhláška č. 304/2023 Sb., kterou se mění vyhláška č. 328/2020 Sb., o územních pracovištích celních úřadů, která se nenacházejí v jejich sídlech, ve znění vyhlášky č. 311/2022 Sb.
+
+Ministerstvo financí stanoví podle § 70 odst. 1 písm. a) zákona č. 242/2016 Sb., celní zákon, a podle § 6 odst. 6 zákona č. 17/2012 Sb., o Celní správě České republiky:
+
+## ČÁST PRVNÍ – ZMĚNA VYHLÁŠKY K PROVEDENÍ NĚKTERÝCH USTANOVENÍ CELNÍHO ZÁKONA
+
+### Čl. I
+
+V příloze č. 1 k vyhlášce č. 245/2016 Sb., k provedení některých ustanovení celního zákona, ve znění vyhlášky č. 106/2019 Sb., vyhlášky č. 324/2019 Sb., vyhlášky č. 610/2020 Sb., vyhlášky č. 358/2021 Sb. a vyhlášky č. 312/2022 Sb., část III zní:
+
+> **„ČÁST III – SEZNAM PŘÍDAVNÝCH KÓDŮ**
+
+> (kolonka 33 tiskopisu, doplňkového listu - pátý pododdíl)
+
+> A. Seznam přídavných kódů daně z přidané hodnoty
+
+> <table><tbody><tr><th>Přídavný kód</th><th colspan="2">Význam podle zákona o dani z přidané hodnoty</th></tr><tr><td>R021</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 01-05, 07-23, 25: Potraviny; krmiva pro zvířata; živá zvířata, semena, rostliny a přísady, obvykle určené k přípravě potravin; výrobky obvykle používané jako doplněk nebo náhražka potravin. Mimo nápojů a vody; to neplatí pro vybrané nápoje.</td></tr><tr><td>R023</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 0601, 0602: Živé dřeviny a jiné rostliny; cibule, kořeny a podobné.</td></tr><tr><td>R024</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 07-12: Rostliny a semena.</td></tr><tr><td>R025</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 28-30: Sorbit pro diabetiky, aspartam, sacharin a jeho soli, antibiotika, farmaceutické výrobky – jen určené pro zdravotní služby, prevenci nemocí a léčbu pro humánní lékařské účely; radiofarmaka, očkovací látky, léky, kontrastní prostředky pro rentgenová vyšetření, diagnostické reagencie určené k podávání pacientům, chemické antikoncepční přípravky na hormonálním základě – určené pro zdravotní a veterinární služby, prevenci nemocí a léčbu pro humánní a veterinární lékařské účely.</td></tr><tr><td>R026</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 4902, 8523: Noviny, časopisy a periodika, včetně zvukového záznamu přednesu jejich obsahu, pokud nejde o zboží, u kterého reklama podle zákona upravujícího regulaci reklamy představuje více než 50 % obsahu, nebo které výlučně nebo převážně sestává z hudebního zvukového nebo audiovizuálního obsahu.</td></tr><tr><td rowspan="3">R027</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 01-96: Zdravotnické prostředky podle nařízení o zdravotnických prostředcích a jejich příslušenství podle tohoto nařízení a diagnostické zdravotnické prostředky in vitro podle nařízení o diagnostických zdravotnických prostředcích in vitro a jejich příslušenství podle tohoto nařízení, které lze zařadit do</td></tr><tr><td>-</td><td>úhradové skupiny v tabulce č. 1 oddílu C přílohy č. 3 k zákonu o veřejném zdravotním pojištění, pokud se nejedná o zdravotnické prostředky, které lze zařadit do úhradové skupiny „Nekategorizované zdravotnické prostředky“, vatu buničitou nebo náplast s výjimkou hypoalergenní náplasti,</td></tr><tr><td>-</td><td>přílohy č. 4 k zákonu o veřejném zdravotním pojištění.</td></tr><tr><td>R028</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 01-96: Zdravotnické prostředky podle nařízení o zdravotnických prostředcích a jejich příslušenství podle tohoto nařízení, pokud jsou zhotovené podle předpisu kvalifikovaného zdravotnického pracovníka, kterým tento pracovník vydává individuální návrh charakteristik zdravotnického prostředku určeného k použití pouze pro jednoho konkrétního pacienta.</td></tr><tr><td>R029</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 01-96: Zdravotnické prostředky podle nařízení o zdravotnických prostředcích a jejich příslušenství podle tohoto nařízení a diagnostické zdravotnické prostředky in vitro podle nařízení o diagnostických zdravotnických prostředcích in vitro, které jsou určené pro jedno použití.</td></tr><tr><td>R030</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9001 30: Kontaktní čočky, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R031</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9001 40: Brýlové čočky ze skla, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R032</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9001 50: Brýlové čočky z ostatních materiálů, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R033</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9003: Obruby a obroučky pro brýle, pro ochranné brýle nebo pro podobné výrobky, a jejich části a součásti, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích, a jejich příslušenství podle tohoto nařízení.</td></tr><tr><td>R034</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9004: Brýle korekční, ochranné nebo jiné a podobné výrobky, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R035</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9018 31, 9018 32, 9018 39 00: Injekční stříkačky, jehly, katétry (cévky), kanyly a podobné výrobky, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R036</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9019: Přístroje pro mechanoterapii; masážní přístroje; psychotechnické přístroje; přístroje pro léčbu ozonem, kyslíkem, aerosolem, dýchací oživovací přístroje nebo jiné léčebné dýchací přístroje. Pouze pokud se jedná o zdravotnické prostředky podle nařízení o zdravotnických prostředcích. Příslušenství těchto zdravotnických prostředků podle tohoto nařízení.</td></tr><tr><td>R037</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9020 00 00: Ostatní dýchací přístroje a plynové masky, kromě ochranných masek bez mechanických částí a vyměnitelných filtrů, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích, a jejich příslušenství podle tohoto nařízení.</td></tr><tr><td>R038</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9021: Ortopedické pomůcky a přístroje, včetně berlí, chirurgických pásů a kýlních pásů; dlahy a jiné prostředky k léčbě zlomenin; umělé části těla; pomůcky pro nedoslýchavé a jiné prostředky nošené v ruce nebo na těle anebo implantované v organismu ke kompenzování následků nějaké vady nebo neschopnosti. Pouze pokud se jedná o zdravotnické prostředky podle nařízení o zdravotnických prostředcích. Příslušenství těchto zdravotnických prostředků podle tohoto nařízení.</td></tr><tr><td>R039</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9025: Teploměry, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R040</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9026: Přístroje a zařízení na měření hladiny, tlaku nebo jiných proměnných charakteristik kapalin nebo plynů, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích, a jejich příslušenství podle tohoto nařízení.</td></tr><tr><td rowspan="15">R041</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 48, 64, 66, 84, 85, 87, 90, 91: Zboží pro osobní používání nemocnými nebo zdravotně postiženými k léčení nemoci nebo zdravotního postižení nebo ke zmírnění jejich důsledků, jež není zdravotnickým prostředkem nebo příslušenstvím zdravotnických prostředků podle právního předpisu upravujícího zdravotnické prostředky, a to:</td></tr><tr><td>-</td><td>Braille papír</td></tr><tr><td>-</td><td>Osobní a kuchyňské váhy s hlasovým výstupem pro nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Psací stroje a stroje na zpracování textu (slovní procesory) upravené k používání nevidomými a částečně vidícími osobami nebo osobami s amputovanou nebo ochrnutou horní končetinou</td></tr><tr><td>-</td><td>Elektronické kalkulačky s hlasovým nebo hmatovým výstupem pro nevidomé a částečně vidící osoby a elektronické počítací stroje s hlasovým nebo hmatovým výstupem pro nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Počítače speciálně upravené pro nevidomé a částečně vidící osoby s hlasovým nebo hmatovým výstupem nebo hardwarovým adaptérem pro zvětšování písma a obrazu, a jejich jednotky a přídavná zařízení s hlasovým nebo hmatovým výstupem nebo hardwarovým adaptérem pro zvětšování písma a obrazu</td></tr><tr><td>-</td><td>Braillská počítačová tiskárna pro nevidomé a částečně vidící osoby, klávesnice pro nevidomé a částečně vidící osoby a jiné výstupní a vstupní jednotky počítače pro zpracování hmatového písma</td></tr><tr><td>-</td><td>Jednotky počítačů a přídavná zařízení k počítačům umožňující jejich ovládání osobami se sníženou jemnou motorikou nebo amputovanými končetinami</td></tr><tr><td>-</td><td>Telefony a videotelefony konstruované pro použití neslyšícími osobami</td></tr><tr><td>-</td><td>Zvětšovače televizního obrazu pro nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Speciální akustické nebo vizuální přístroje pro neslyšící, nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Ruční ovládání nožních pedálů, ruční páky, včetně řadicí páky, pro tělesně postižené osoby</td></tr><tr><td>-</td><td>Hodinky pro nevidomé a částečně vidící osoby s hmatovým nebo hlasovým výstupem s pouzdrem jiným než z drahých kovů a vibrační a světelné hodinky pro neslyšící osoby</td></tr><tr><td>-</td><td>Vibrační a světelné budíky pro neslyšící osoby a budíky s hlasovým nebo hmatovým výstupem pro nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Části a součásti těchto výrobků, u kterých je čestným prohlášením doloženo, že zboží náleží k určitému výše uvedenému druhu zboží.</td></tr><tr><td>R042</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 94: Dětské sedačky do automobilů.</td></tr><tr><td>R999</td><td colspan="2">Zboží zahrnuté v tomto kódu není podle zákona o dani z přidané hodnoty považováno za zboží.</td></tr></tbody></table>
+
+> B. Seznam přídavných kódů spotřebních daní
+
+> | Přídavný kód | Význam podle zákona o spotřebních daních |
+> |---|---|
+> | S101 | Motorové a ostatní benziny a letecké pohonné hmoty benzinového typu podle § 45 odst. 1 písm. a) zákona s obsahem olova do 0,013 g/l včetně |
+> | S102 | Motorové a ostatní benziny a letecké pohonné hmoty benzinového typu podle § 45 odst. 1 písm. a) zákona s obsahem olova nad 0,013 g/l |
+> | S103 | Střední oleje a těžké plynové oleje podle § 45 odst. 1 písm. b) zákona |
+> | S104 | Těžké topné oleje podle § 45 odst. 1 písm. c) zákona |
+> | S105 | Odpadní oleje podle § 45 odst. 1 písm. d) zákona |
+> | S106 | Zkapalněné ropné plyny a zkapalněný bioplyn podle § 45 odst. 1 písm. e) zákona |
+> | S107 | Zkapalněné ropné plyny a zkapalněný bioplyn podle § 45 odst. 1 písm. f) zákona |
+> | S108 | Zkapalněné ropné plyny a zkapalněný bioplyn podle § 45 odst. 1 písm. g) zákona |
+> | S112 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. b) zákona, které obsahují benzín s obsahem olova do 0,013 g/l včetně |
+> | S113 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. b) zákona, které obsahují benzín s obsahem olova nad 0,013 g/l |
+> | S114 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. c) zákona |
+> | S115 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. d) a e) zákona, které obsahují benzín s obsahem olova do 0,013 g/l včetně |
+> | S116 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. d) a e) zákona, které obsahují benzín s obsahem olova nad 0,013 g/l |
+> | S121 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+> | S122 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+> | S123 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+> | S124 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+> | S125 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+> | S126 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+> | S127 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+> | S128 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+> | S141 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+> | S142 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+> | S143 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+> | S144 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+> | S145 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+> | S146 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+> | S147 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+> | S148 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+> | S161 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+> | S162 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+> | S163 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+> | S164 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+> | S165 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+> | S166 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+> | S167 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+> | S168 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+> | S172 | Minerální oleje uvedené v § 45 odst. 3 písm. a) a k) zákona splňující kritéria udržitelnosti biopaliv, které jsou určeny k použití, nabízeny k prodeji nebo používány pro pohon motorů |
+> | S173 | Metylestery mastných kyselin uvedené v § 45 odst. 3 písm. k) zákona splňující kritéria udržitelnosti biopaliv, které jsou určeny k použití, nabízeny k prodeji nebo používány pro pohon motorů |
+> | S181 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+> | S182 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+> | S183 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+> | S184 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+> | S185 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+> | S186 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+> | S187 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+> | S188 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+> | S601 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+> | S602 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+> | S603 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+> | S604 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+> | S605 | Minerální oleje uvedené v § 45 odst. 2 písni, h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+> | S606 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+> | S607 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+> | S608 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+> | S621 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+> | S622 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+> | S623 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+> | S624 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+> | S625 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+> | S626 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+> | S627 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+> | S628 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+> | S631 | Minerální oleje uvedené v § 45 odst. 2 písm. l) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+> | S632 | Minerální oleje uvedené v § 45 odst. 2 písm. l) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+> | S633 | Minerální oleje uvedené v § 45 odst. 2 písm. m) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+> | S634 | Minerální oleje uvedené v § 45 odst. 2 písm. n) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+> | S635 | Minerální oleje uvedené v § 45 odst. 2 písni, o) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+> | S201 | Líh obsažený ve výrobcích uvedených pod kódem nomenklatury 2207 |
+> | S202 | Líh obsažený ve výrobcích uvedených pod kódem nomenklatury 2208 s výjimkou ovocných destilátů z pěstitelského pálení v množství do 30 l etanolu pro jednoho pěstitele zajedno výrobní období podle zákona o lihu |
+> | S204 | Líh obsažený ve výrobcích uvedených pod ostatními kódy nomenklatury |
+> | S301 | Základní sazba daně z piva |
+> | S302 | Snížená sazba pro malé nezávislé pivovary do 10000 hl výroby ročně |
+> | S303 | Snížená sazba pro malé nezávislé pivovary nad 10000 do 50000 hl výroby ročně |
+> | S304 | Snížená sazba pro malé nezávislé pivovary nad 50000 do 100000 hl výroby ročně |
+> | S305 | Snížená sazba pro malé nezávislé pivovary nad 100000 do 150000 hl výroby ročně |
+> | S306 | Snížená sazba pro malé nezávislé pivovary nad 150000 do 200000 hl výroby ročně |
+> | S411 | Šumivá vína podle § 93 odst. 2 zákona |
+> | S412 | Tichá vína podle § 93 odst. 3 zákona |
+> | S413 | Meziprodukty podle § 93 odst. 4 zákona |
+> | S501 | Cigarety |
+> | S504 | Doutníky, cigarillos |
+> | S505 | Zahřívané tabákové výrobky |
+> | S514 | Tabák ke kouření |
+> | S515 | Tabák do vodní dýmky |
+> | S516 | Ostatní tabákové výrobky |
+> | S517 | Náplně do elektronické cigarety |
+> | S518 | Nikotinové sáčky |
+> | S519 | Ostatní nikotinové výrobky |
+>
+> “.
+
+## ČÁST DRUHÁ – ZRUŠENÍ VYHLÁŠKY Č. 304/2023 SB.
+
+### Čl. II
+
+Vyhláška č. 304/2023 Sb., kterou se mění vyhláška č. 328/2020 Sb., o územních pracovištích celních úřadů, která se nenacházejí v jejich sídlech, ve znění vyhlášky č. 311/2022 Sb., se zrušuje.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. III
+
+Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení, s výjimkou části druhé, která nabývá účinnosti dnem 1. července 2025.
+
+Ministr financí:
+
+Ing. Stanjura v. r.

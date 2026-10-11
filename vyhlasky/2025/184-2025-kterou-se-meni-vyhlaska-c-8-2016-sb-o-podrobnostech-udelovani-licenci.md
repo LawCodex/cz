@@ -1,0 +1,126 @@
+---
+title: "Vyhláška č. 184/2025 Sb., kterou se mění vyhláška č. 8/2016 Sb., o podrobnostech udělování licencí pro podnikání v energetických odvětvích, ve znění vyhlášky č. 147/2022 Sb. a vyhlášky č. 47/2024 Sb."
+identifier: "184/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/184/2025-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-06-12
+effective: 2025-08-01
+last_amended: 2025-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/184"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 184/2025 Sb., kterou se mění vyhláška č. 8/2016 Sb., o podrobnostech udělování licencí pro podnikání v energetických odvětvích, ve znění vyhlášky č. 147/2022 Sb. a vyhlášky č. 47/2024 Sb.
+
+184
+
+VYHLÁŠKA
+
+ze dne 12. června 2025,
+
+kterou se mění vyhláška č. 8/2016 Sb., o podrobnostech udělování licencí pro podnikání v energetických odvětvích, ve znění vyhlášky č. 147/2022 Sb. a vyhlášky č. 47/2024 Sb.
+
+Energetický regulační úřad stanoví podle § 98a odst. 2 písm. a) a o) zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 158/2009 Sb., zákona č. 211/2011 Sb., zákona č. 131/2015 Sb. a zákona č. 362/2021 Sb., k provedení § 7 energetického zákona:
+
+## Čl. I
+
+Vyhláška č. 8/2016 Sb., o podrobnostech udělování licencí pro podnikání v energetických odvětvích, ve znění pozdějších předpisů, se mění takto:
+
+1\. V § 2 odst. 1 písmeno c) zní:
+
+> „c) podnikatelským plánem obsahujícím popis schopnosti financování licencované činnosti na dobu nejméně 5 let a předpokládané náklady a výnosy z licencované činnosti.“.
+
+2\. V § 2 odstavec 2 zní:
+
+> „(2) Žadatel dále prokazuje výpisem z insolvenčního rejstříku, že u něj nejsou dány skutečnosti podle § 5 odst. 6 písm. a) až d) energetického zákona.“.
+
+3\. V § 2 se doplňují odstavce 7 a 8, které zní:
+
+> „(7) Finanční předpoklady způsobem podle odstavce 1 písm. a) a c) neprokazuje žadatel o udělení licence na výrobu elektřiny nebo žadatel o udělení licence pro ukládání elektřiny, pokud je instalovaný výkon výrobny elektřiny nebo zařízení pro ukládání elektřiny nižší než 1 MW.
+
+> (8) Doklady osvědčující finanční předpoklady žadatele podle odstavců 2 až 5 nesmějí být ke dni, ke kterému jsou předkládány Energetickému regulačnímu úřadu, starší 6 měsíců, pokud jiný právní předpis nestanoví pro jejich provedení jinou lhůtu.“.
+
+4\. V § 3 odstavec 5 zní:
+
+> „(5) Podléhá-li energetické zařízení povolení záměru podle stavebního zákona, prokazuje žadatel splnění technických předpokladů energetického zařízení dále u
+
+> a) předčasně užívaného energetického zařízení povolením stavebního úřadu k předčasnému užívání stavby před jeho úplným dokončením,
+
+> b) energetického zařízení ve zkušebním provozu rozhodnutím stavebního úřadu o povolení nebo nařízení zkušebního provozu,
+
+> c) ostatních energetických zařízení nově uváděných do provozu nebo již provozovaných energetických zařízení
+
+> 1\. rozhodnutím o povolení záměru nebo dodatečným povolením a oznámením o dokončení stavby zaslaným stavebnímu úřadu v případě, že stavba nepodléhá kolaudaci,
+
+> 2\. kolaudačním rozhodnutím, nebo
+
+> 3\. jiným dokladem nebo rozhodnutím stavebního úřadu nebo jiným věrohodným způsobem dokládajícím splnění podmínek pro užívání nebo provozování stavby podle stavebního zákona.
+
+5\. V § 6 odst. 1 se na konci písmene a) slovo „a“ nahrazuje čárkou a na konci písmene b) se tečka nahrazuje čárkou a doplňují se písmena c) a d), která znějí:
+
+> „c) názvem nebo jiným rozlišujícím označením vymezeného území a identifikačními údaji o stávajícím provozovateli zařízení ve vymezeném území a
+
+> d) soupisem zařízení distribuční soustavy elektřiny nebo plynu nebo rozvodného tepelného zařízení; žadatel uvede v případě distribuce elektřiny technické údaje o napěťových hladinách v distribuční soustavě, trafostanicích a distribuční kapacitě, v případě distribuce plynu technické údaje o druhu plynu, délce potrubí, distribuční kapacitě, regulačních stanicích a počtu připojených odběrných míst a v případě rozvodu tepelné energie technické údaje o délce rozvodu, přenosové kapacitě a počtu předávacích stanic.“.
+
+6\. V § 9 odst. 1 se číslo „22“ nahrazuje slovy „21 a 29“.
+
+7\. Příloha č. 1 zní:
+
+> **„Příloha č. 1**
+
+> **![sbcr2025c184z0184u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436139/NAHLED/ZOBRAZ/sbcr2025c184z0184u001)“.**
+
+8\. Příloha č. 3 zní:
+
+> **„Příloha č. 3**
+
+> **![sbcr2025c184z0184u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436137/NAHLED/ZOBRAZ/sbcr2025c184z0184u002)“.**
+
+9\. Příloha č. 6 zní:
+
+> **„Příloha č. 6**
+
+> **![sbcr2025c184z0184u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436135/NAHLED/ZOBRAZ/sbcr2025c184z0184u003)“.**
+
+10\. Příloha č. 8 zní:
+
+> **„Příloha č. 8**
+
+> **![sbcr2025c184z0184u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436133/NAHLED/ZOBRAZ/sbcr2025c184z0184u004)“.**
+
+11\. Příloha č. 9 zní:
+
+> **„Příloha č. 9**
+
+> **![sbcr2025c184z0184u005.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436131/NAHLED/ZOBRAZ/sbcr2025c184z0184u005)“.**
+
+12\. Příloha č. 10 zní:
+
+> **„Příloha č. 10**
+
+> **![sbcr2025c184z0184u006.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436129/NAHLED/ZOBRAZ/sbcr2025c184z0184u006)“.**
+
+13\. Příloha č. 11 zní:
+
+> **„Příloha č. 11**
+
+> **![sbcr2025c184z0184u007.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436127/NAHLED/ZOBRAZ/sbcr2025c184z0184u007)“.**
+
+14\. Příloha č. 22 se zrušuje.
+
+15\. Doplňuje se příloha č. 29, která zní:
+
+> **„Příloha č. 29**
+
+> **![sbcr2025c184z0184u008.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436125/NAHLED/ZOBRAZ/sbcr2025c184z0184u008)“.**
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2025.
+
+Předseda Rady:
+
+Ing. Šefránek, Ph.D., v. r.

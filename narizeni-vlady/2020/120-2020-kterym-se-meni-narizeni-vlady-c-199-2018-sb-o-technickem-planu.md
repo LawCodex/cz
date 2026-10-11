@@ -1,0 +1,46 @@
+---
+title: "Nařízení vlády č. 120/2020 Sb., kterým se mění nařízení vlády č. 199/2018 Sb., o Technickém plánu přechodu zemského digitálního televizního vysílání ze standardu DVB-T na standard DVB-T2 (nařízení vlády o Technickém plánu přechodu na standard DVB-T2)"
+identifier: "120/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/120/2020-03-23"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2020-03-19
+effective: 2020-03-23
+last_amended: 2020-03-23
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/120"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 120/2020 Sb., kterým se mění nařízení vlády č. 199/2018 Sb., o Technickém plánu přechodu zemského digitálního televizního vysílání ze standardu DVB-T na standard DVB-T2 (nařízení vlády o Technickém plánu přechodu na standard DVB-T2)
+
+120
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 19. března 2020,
+
+kterým se mění nařízení vlády č. 199/2018 Sb., o Technickém plánu přechodu zemského digitálního televizního vysílání ze standardu DVB-T na standard DVB-T2 (nařízení vlády o Technickém plánu přechodu na standard DVB-T2)
+
+Vláda nařizuje podle čl. II bodu 1 zákona č. 252/2017 Sb., kterým se mění zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů, a zákon č. 483/1991 Sb., o České televizi, ve znění pozdějších předpisů:
+
+## Čl. I
+
+Za § 11 nařízení vlády č. 199/2018 Sb., o Technickém plánu přechodu zemského digitálního televizního vysílání ze standardu DVB-T na standard DVB-T2 (nařízení vlády o Technickém plánu přechodu na standard DVB-T2), se vkládá nový § 11a, který včetně nadpisu zní:
+
+> **„§ 11a – Dočasné přerušení procesu přechodu zemského digitálního televizního vysílání ze standardu DVB-T na standard DVB-T2**
+
+> Lhůty pro vypnutí vysílače DVB-T uvedené v přílohách č. 1 až 4, pokud má být vypnutí provedeno do měsíců března až června 2020, se nepoužijí, s výjimkou lhůty pro vypnutí vysílače DVB-T velkého výkonu „JIHLAVA kanál 30“ uvedeného pod poř. č. 9 v příloze č. 3 k tomuto nařízení.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Místopředseda vlády, ministr průmyslu a obchodu a ministr dopravy:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

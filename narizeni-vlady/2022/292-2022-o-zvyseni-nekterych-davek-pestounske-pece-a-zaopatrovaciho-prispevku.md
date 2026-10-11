@@ -1,0 +1,75 @@
+---
+title: "Nařízení vlády č. 292/2022 Sb., o zvýšení některých dávek pěstounské péče a zaopatřovacího příspěvku podle zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů"
+identifier: "292/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/292/2022-10-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2022-09-26
+effective: 2022-10-01
+last_amended: 2022-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/292"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 292/2022 Sb., o zvýšení některých dávek pěstounské péče a zaopatřovacího příspěvku podle zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů
+
+292
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 26. září 2022
+
+o zvýšení některých dávek pěstounské péče a zaopatřovacího příspěvku podle zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 58b odst. 1 zákona č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění zákona č. 401/2012 Sb. a zákona č. 363/2021 Sb.:
+
+## § 1 – Příspěvek na úhradu potřeb dítěte
+
+(1) Výše příspěvku na úhradu potřeb dítěte činí za kalendářní měsíc
+
+a) 6 290 Kč pro dítě ve věku do 6 let,
+
+b) 7 750 Kč pro dítě ve věku od 6 do 12 let,
+
+c) 8 870 Kč pro dítě ve věku od 12 do 18 let,
+
+d) 9 220 Kč pro dítě ve věku od 18 do 26 let.
+
+(2) Jde-li o dítě, které je podle zákona o sociálních službách osobou závislou na pomoci jiné fyzické osoby, činí příspěvek na úhradu potřeb dítěte
+
+| Věk dítěte | Dítě ve stupni závislosti I (lehká závislost) <br> Kč | Dítě ve stupni závislosti II (středně těžká závislost) <br> Kč | Dítě ve stupni závislosti III (těžká závislost) Kč | Dítě ve stupni závislosti IV (úplná závislost) Kč |
+|---|---|---|---|---|
+| Do 6 let | 6 500 | 7 750 | 8 240 | 8 940 |
+| 6–12 let | 7 895 | 9 500 | 10 130 | 10 970 |
+| 12–18 let | 9 010 | 10 900 | 11 595 | 12 155 |
+| 18–26 let | 9 430 | 11 315 | 12 015 | 12 575 |
+
+## § 2 – Příspěvek při převzetí dítěte
+
+Výše příspěvku při převzetí dítěte činí, jde-li o dítě ve věku
+
+a) do 6 let, 10 800 Kč,
+
+b) od 6 do 12 let, 12 150 Kč,
+
+c) od 12 do 18 let, 13 500 Kč.
+
+## § 3 – Zaopatřovací příspěvek
+
+(1) Výše opakujícího se zaopatřovacího příspěvku činí 17 250 Kč za kalendářní měsíc.
+
+(2) Výše jednorázového zaopatřovacího příspěvku činí 28 750 Kč.
+
+## § 4 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. října 2022.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.

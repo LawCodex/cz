@@ -1,0 +1,84 @@
+---
+title: "Vyhláška č. 311/2024 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 418/2001 Sb., o postupech při výkonu exekuční a další činnosti, ve znění pozdějších předpisů"
+identifier: "311/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/311/2024-11-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-10-24
+effective: 2024-11-01
+last_amended: 2024-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/311"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 311/2024 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 418/2001 Sb., o postupech při výkonu exekuční a další činnosti, ve znění pozdějších předpisů
+
+311
+
+VYHLÁŠKA
+
+ze dne 24. října 2024,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 418/2001 Sb., o postupech při výkonu exekuční a další činnosti, ve znění pozdějších předpisů
+
+Ministerstvo spravedlnosti stanoví podle § 131 odst. 1 písm. g) zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění zákona č. 286/2021 Sb.:
+
+## Čl. I
+
+Vyhláška č. 418/2001 Sb., o postupech při výkonu exekuční a další činnosti, ve znění vyhlášky č. 463/2009 Sb., vyhlášky č. 491/2012 Sb., vyhlášky č. 149/2013 Sb., vyhlášky č. 365/2014 Sb., vyhlášky č. 461/2017 Sb., vyhlášky č. 264/2021 Sb., vyhlášky č. 517/2021 Sb. a vyhlášky č. 394/2023 Sb., se mění takto:
+
+1\. V § 5b odst. 1 se slova „a základní informaci o průběhu exekučního řízení a zasílaných písemnostech, výzvu ke splnění vymáhané povinnosti“ zrušují.
+
+2\. V § 5b se odstavec 2 zrušuje.
+
+Dosavadní odstavec 3 se označuje jako odstavec 2.
+
+3\. V úvodní části přílohy č. 6 se bod 1 nahrazuje bodem 1a, který zní:
+
+> „1a. vzor vyrozumění o zahájení exekuce pro povinného – vymožení peněžitého plnění,“.
+
+4\. V úvodní části přílohy č. 6 se za bod 1a vkládají nové body 1b a 1c, které znějí:
+
+> „1b. vzor vyrozumění o zahájení exekuce pro povinného – vymožení nepeněžitého plnění,
+
+> 1c. vzor vyrozumění o zahájení exekuce pro oprávněného,“.
+
+5\. V úvodní části přílohy č. 6 bod 2 zní:
+
+> „2. vzor vyrozumění o zahájení exekuce – zřízení exekutorského zástavního práva,“.
+
+6\. V příloze č. 6 se vzor 1 nahrazuje vzorem 1a, který zní:
+
+> **„Vzor 1a**
+
+> **![sbcr2024c311z0311u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026421/NAHLED/ZOBRAZ/sbcr2024c311z0311u001)“.**
+
+7\. V příloze č. 6 se za vzor 1a vkládají nové vzory 1b a 1c, které znějí:
+
+> **„Vzor 1b**
+
+> **![sbcr2024c311z0311u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026419/NAHLED/ZOBRAZ/sbcr2024c311z0311u002)**
+
+> **Vzor 1c**
+
+> **![sbcr2024c311z0311u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026417/NAHLED/ZOBRAZ/sbcr2024c311z0311u003)“.**
+
+8\. V příloze č. 6 vzor 2 zní:
+
+> **„Vzor 2**
+
+> **![sbcr2024c311z0311u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026415/NAHLED/ZOBRAZ/sbcr2024c311z0311u004)“.**
+
+## Čl. II – Přechodné ustanovení
+
+Soudní exekutor může po dobu 5 měsíců ode dne nabytí účinnosti této vyhlášky v exekučním řízení zvolit postup podle vyhlášky č. 418/2001 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. listopadu 2024.
+
+Ministr spravedlnosti:
+
+JUDr. Blažek, Ph.D., v. r.

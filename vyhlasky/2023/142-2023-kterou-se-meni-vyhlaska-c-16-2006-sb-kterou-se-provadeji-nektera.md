@@ -1,0 +1,104 @@
+---
+title: "Vyhláška č. 142/2023 Sb., kterou se mění vyhláška č. 16/2006 Sb., kterou se provádějí některá ustanovení zákona o ekologickém zemědělství, ve znění vyhlášky č. 80/2012 Sb."
+identifier: "142/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/142/2023-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2023-05-23
+effective: 2023-07-01
+last_amended: 2023-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/142"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 142/2023 Sb., kterou se mění vyhláška č. 16/2006 Sb., kterou se provádějí některá ustanovení zákona o ekologickém zemědělství, ve znění vyhlášky č. 80/2012 Sb.
+
+142
+
+VYHLÁŠKA
+
+ze dne 23. května 2023,
+
+kterou se mění vyhláška č. 16/2006 Sb., kterou se provádějí některá ustanovení zákona o ekologickém zemědělství, ve znění vyhlášky č. 80/2012 Sb.
+
+Ministerstvo zemědělství stanoví podle § 35 zákona č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění zákona č. 320/2002 Sb., zákona č. 553/2005 Sb., zákona č. 344/2011 Sb. a zákona č. 247/2022 Sb., (dále jen „zákon“) k provedení § 4 odst. 1, § 14 odst. 2 a § 23 zákona:
+
+## Čl. I
+
+Vyhláška č. 16/2006 Sb., kterou se provádějí některá ustanovení zákona o ekologickém zemědělství, ve znění vyhlášky č. 80/2012 Sb., se mění takto:
+
+1\. Poznámka pod čarou č. 2 zní:
+
+> „<sup>2</sup>) Nařízení Evropského parlamentu a Rady (EU) 2018/848 ze dne 30. května 2018 o ekologické produkci a označování ekologických produktů a o zrušení nařízení Rady (ES) č. 834/2007, v platném znění.“.
+
+2\. Poznámka pod čarou č. 3 se zrušuje, a to včetně odkazu na poznámku pod čarou.
+
+3\. V § 2 se slova „králíky, drůbež, ryby a středoevropské ekotypy včely medonosné“ nahrazují slovy „jelenovité<sup>4</sup>), králíky, drůbež, ryby, živočichy pocházející z akvakultury, včely medonosné kraňské a hmyz určený k lidské spotřebě nebo k výrobě zpracované živočišné bílkoviny“.
+
+Poznámka pod čarou č. 4 zní:
+
+> „<sup>4</sup>) § 2 odst. 1 písm. w) zákona č. 154/2000 Sb., o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon), ve znění pozdějších předpisů.“.
+
+4\. § 3 se včetně nadpisu zrušuje.
+
+5\. § 4 včetně nadpisu zní:
+
+> **„§ 4 – Chov hmyzu**
+
+> (K § 14 odst. 2 zákona)
+
+> (1) Hmyz určený k lidské spotřebě nebo k výrobě zpracované živočišné bílkoviny smí být chován pouze v substrátech, které pocházejí z ekologické produkce. Použití substrátů a krmiv živočišného původu je zakázáno.
+
+> (2) Hmyz určený k lidské spotřebě nebo k výrobě zpracované živočišné bílkoviny musí být umístěn v boxu nebo kontejneru bez přístupu na volné prostranství, aby se zabránilo jeho úniku.
+
+> (3) Pro účely šlechtění lze za účelem genetické regenerace populací doplnit chov o hmyz nepocházející z ekologického chovu. Hmotnost chovného hmyzu nepocházejícího z ekologického chovu nesmí u jednotlivých druhů překročit 0,5 % celkové hmotnosti ekologické produkce na druh a kalendářní rok.
+
+> (4) Hmyz nepocházející z ekologického chovu je považován za ekologický, pokud byl po přechodné období uvedené v odstavci 5 chován odděleně od ostatního hmyzu. Přechodné období začíná nejdříve po zařazení hmyzu do produkční jednotky hmyzu.
+
+> (5) Přechodné období je stanoveno pro hmyz určený k lidské spotřebě nebo k výrobě zpracované živočišné bílkoviny na jednu generaci od vajíčka k vajíčku.
+
+> (6) Konstrukční prvky odchovného zařízení
+
+> a) musí být vyrobeny z materiálů, které hmyz nemůže používat jako zdroj potravy, nebo
+
+> b) se musí skládat výhradně z materiálů, které hmyz může používat jako zdroj potravy a které splňují požadavky na krmiva použitelná v ekologickém zemědělství.“.
+
+6\. V nadpisu § 6 se text „odst. 2“ zrušuje.
+
+7\. V § 6 se text „č. 2“ zrušuje.
+
+8\. Příloha č. 1 se zrušuje.
+
+Dosavadní příloha č. 2 se označuje jako příloha.
+
+9\. Příloha zní:
+
+> **„Příloha k vyhlášce č. 16/2006 Sb.**
+
+> **Grafický znak, kterým se označí bioprodukt, biopotravina a ostatní bioprodukt**
+
+> Značka – popis barev a písma
+
+> | Černobílá verze |
+> |---|
+> | ![sbcr2023c071z0142o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/788119/NAHLED/ZOBRAZ/sbcr2023c071z0142o001) |
+> | Barevná verze |
+> | ![sbcr2023c071z0142o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/788121/NAHLED/ZOBRAZ/sbcr2023c071z0142o002) |
+> | POUŽITÉ PÍSMO |
+> | AvantGarGotltcTEECon |
+> | SPECIFIKACE POUŽITÝCH BAREV PRO OFSET: |
+> | tmavě zelená barva: PANTONE GREEN 100 % (CMYK: 100/0/100/0) |
+> | světle zelená barva: PANTONE č. 361 – *A,* (CMYK: 25/0/25/0) |
+> | PRO APLIKACI FOLIÍ: |
+> | tmavě zelená: PMF série 500 č. 572 |
+> | světle zelená: PMF série 500 č. 574“. |
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2023.
+
+Ministr zemědělství:
+
+Ing. Nekula v. r.

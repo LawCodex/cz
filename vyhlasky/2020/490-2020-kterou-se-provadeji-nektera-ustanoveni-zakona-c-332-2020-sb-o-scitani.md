@@ -1,0 +1,113 @@
+---
+title: "Vyhláška č. 490/2020 Sb., kterou se provádějí některá ustanovení zákona č. 332/2020 Sb., o sčítání lidu, domů a bytů v roce 2021 a o změně zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů"
+identifier: "490/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/490/2021-04-07"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-11-23
+effective: 2021-01-01
+last_amended: 2021-04-07
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/490"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 490/2020 Sb., kterou se provádějí některá ustanovení zákona č. 332/2020 Sb., o sčítání lidu, domů a bytů v roce 2021 a o změně zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů ve znění vyhlášky č. 157/2021 Sb."
+---
+
+# Vyhláška č. 490/2020 Sb., kterou se provádějí některá ustanovení zákona č. 332/2020 Sb., o sčítání lidu, domů a bytů v roce 2021 a o změně zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů
+
+490
+
+VYHLÁŠKA
+
+ze dne 23. listopadu 2020,
+
+kterou se provádějí některá ustanovení zákona č. 332/2020 Sb., o sčítání lidu, domů a bytů v roce 2021 a o změně zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů
+
+Český statistický úřad stanoví podle § 28 zákona č. 332/2020 Sb., o sčítání lidu, domů a bytů v roce 2021 a o změně zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů, k provedení § 16 odst. 2, § 17 odst. 3 a § 22 odst. 2:
+
+## § 1 – Vzory sčítacích formulářů
+
+Vzory sčítacích formulářů v listinné podobě jsou uvedeny v příloze č. 1 k této vyhlášce.
+
+## § 2 – Přístup k elektronickému formuláři a způsob ověřování oprávnění k jeho zpřístupnění
+
+(1) Elektronický formulář Český statistický úřad zpřístupní prostřednictvím
+
+a) internetových stránek www.onlinescitani.cz a
+
+b) mobilní aplikace.
+
+(2) Oprávnění ke zpřístupnění elektronického formuláře podle odstavce 1 se ověřuje
+
+a) s využitím prostředku pro elektronickou identifikaci vydaného v rámci kvalifikovaného systému elektronické identifikace<sup>1</sup>),
+
+b) s ověřenou identitou podatele způsobem, kterým se lze přihlásit do jeho datové schránky<sup>2</sup>), nebo
+
+c) zadáním údajů o datu narození a čísle a druhu elektronicky čitelného identifikačního dokladu vedeného v základním registru obyvatel<sup>3</sup>) nebo o datu narození a čísle občanského průkazu vedeného v agendovém informačním systému evidence občanských průkazů<sup>4</sup>).
+
+## § 3 – Vzor průkazu sčítacího komisaře
+
+(1) Průkaz sčítacího komisaře má formu plastové karty o rozměrech 86 x 54 mm a jsou na něm uvedeny tyto údaje:
+
+a) značka a logotyp Sčítání lidu, domů a bytů 2021,
+
+b) titul, jméno, popřípadě jména, a příjmení sčítacího komisaře,
+
+c) vymezení územní působnosti sčítacího komisaře,
+
+d) číslo průkazu sčítacího komisaře,
+
+e) doba platnosti průkazu,
+
+f) fotografie sčítacího komisaře a
+
+g) ochranný prvek znesnadňující padělání průkazu.
+
+(2) Vzor průkazu sčítacího komisaře je uveden v příloze č. 2 k této vyhlášce.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2021.
+
+Předseda:
+
+Ing. Rojíček, Ph.D., v. r.
+
+### Příloha č. 1 k vyhlášce č. 490/2020 Sb.
+
+#### ![sbcr2020c201z0490p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/878617/NAHLED/ZOBRAZ/sbcr2020c201z0490p001u001)
+
+#### ![sbcr2020c201z0490p001u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879725/NAHLED/ZOBRAZ/sbcr2020c201z0490p001u002)
+
+#### ![sbcr2020c201z0490p001u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879727/NAHLED/ZOBRAZ/sbcr2020c201z0490p001u003)
+
+### Příloha č. 2 k vyhlášce č. 490/2020 Sb.
+
+#### Vzor průkazu sčítacího komisaře
+
+1\. Popis
+
+a) Průkaz sčítacího komisaře je plastová karta bílé barvy, rozměrů 86 x 54 mm.
+
+b) Lícová strana průkazu sčítacího komisaře je opatřena v horních 2/3 části grafickým rastrem Sčítání lidu, domů a bytů 2021, v pravém dolním rohu značkou a logotypem Sčítání lidu, domů a bytů 2021. Pod grafickým podkladem jsou na prvním řádku zapisovány údaje ve formátu akademický titul uváděný před jménem, jméno, popřípadě jména, příjmení, akademický titul uváděný za jménem. Příjmení se zapisuje velkými písmeny. Text zapisovaných údajů je vyhotoven v červené barvě (R:235 G:44 B: 64). Na druhém řádku je uveden text „Průkaz sčítacího komisaře“. Text zapisovaných údajů je vyhotoven v modré barvě (R:36 G:28 B:135). V levé části je digitální zpracování fotografie sčítacího komisaře o rozměrech 26 x 34 mm. Fotografie sčítacího komisaře je barevná. Požadavky na technické zpracování fotografie odpovídají technickým požadavkům kladeným na fotografie pro vydání občanského průkazu. Všechny texty včetně zapisovaných údajů jsou vyhotoveny bezpatkovým písmem „Urban Grotesk“.
+
+c) Rubová strana průkazu sčítacího komisaře je opatřena na levé straně průkazu pruhem s grafickým rastrem Sčítání lidu, domů a bytů 2021, na prvním až pátém řádku je uveden text „Sčítací komisař je oprávněn provádět sčítání lidu, domů a bytů podle zákona č. 332/2020 Sb., o sčítání lidu, domů a bytů v roce 2021 a o změně zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů. Průkaz je nepřenosný a platí pouze ve spojení s průkazem totožnosti.“, na šestém řádku je uveden text „SBĚRNÉ MÍSTO“, na sedmém řádkuje uveden text „ČÍSLO PRŮKAZU“ a na osmém řádku text „PLATNOST PRŮKAZU“. Do pole pod šestým řádkem se pod text „SBĚRNÉ MÍSTO“ zapisují údaje o vymezení územní působnosti sčítacího komisaře, do pole pod sedmým řádkem se pod text „ČÍSLO PRŮKAZU“ zapíše přidělené číslo průkazu sčítacího komisaře ve formátu NN-NN-NNNNN a pod osmý řádek se pod text „PLATNOST PRŮKAZU“ zapíše doba platnosti průkazu ve formátu DD.MM.- DD.MM.RRRR. Na pravé straně spodní poloviny průkazu jsou pod pátým řádkem umístěny v pořadí pod sebou barevné logo České pošty, s. p., pod ním barevné logo Českého statistického úřadu a pod ním jedinečný čárový kód v černé barvě. Všechny texty včetně zapisovaných údajů jsou vyhotoveny bezpatkovým písmem „Urban Grotesk“ v černé barvě.
+
+2\. Vyobrazení lícové strany vzoru průkazu sčítacího komisaře
+
+##### ![sbcr2020c201z0490p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879729/NAHLED/ZOBRAZ/sbcr2020c201z0490p002o001)
+
+3\. Vyobrazení rubové strany vzoru průkazu sčítacího komisaře
+
+##### ![sbcr2020c201z0490p002o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879731/NAHLED/ZOBRAZ/sbcr2020c201z0490p002o002)
+
+---
+
+<sup>1</sup>) § 2 zákona č. 250/2017 Sb., o elektronické identifikaci.
+
+<sup>2</sup>) Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 18 odst. 1 písm. g) zákona č. 111/2009 Sb., o základních registrech, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Zákon č. 328/1999 Sb., o občanských průkazech, ve znění pozdějších předpisů.

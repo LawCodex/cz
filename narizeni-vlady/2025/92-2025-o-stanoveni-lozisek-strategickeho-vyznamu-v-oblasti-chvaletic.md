@@ -1,0 +1,50 @@
+---
+title: "Nařízení vlády č. 92/2025 Sb., o stanovení ložisek strategického významu v oblasti Chvaletic"
+identifier: "92/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/92/2025-04-17"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-03-19
+effective: 2025-04-17
+last_amended: 2025-04-17
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/92"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 92/2025 Sb., o stanovení ložisek strategického významu v oblasti Chvaletic
+
+92
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 19. března 2025
+
+o stanovení ložisek strategického významu v oblasti Chvaletic
+
+Vláda nařizuje podle § 6a odst. 2 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona č. 465/2023 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení stanovuje ložiska strategického významu obsahující nerosty, z nichž lze průmyslově vyrábět mangan.
+
+## § 2 – Stanovení ložisek strategického významu
+
+Ložiskem strategického významu se stanovuje
+
+a) výhradní ložisko kritických vyhrazených nerostů vedené ke dni 1. ledna 2024 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Chvaletice-odkaliště 1, 2 a číslem 3104804,
+
+b) výhradní ložisko kritických vyhrazených nerostů vedené ke dni 1. ledna 2024 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Řečany-odkaliště 3 a číslem 3243700.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Vlček v. r.

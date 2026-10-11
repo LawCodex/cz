@@ -1,0 +1,54 @@
+---
+title: "Zákon č. 416/2021 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů"
+identifier: "416/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/416/2022-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2021-10-26
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/416"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 416/2021 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů
+
+416
+
+ZÁKON
+
+ze dne 26. října 2021,
+
+kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění zákona č. 413/2005 Sb., zákona č. 444/2005 Sb., zákona č. 112/2006 Sb., zákona č. 181/2007 Sb., zákona č. 296/2007 Sb., zákona č. 32/2008 Sb., zákona č. 190/2009 Sb., zákona č. 227/2009 Sb., zákona č. 424/2010 Sb., zákona č. 89/2012 Sb., zákona č. 167/2012 Sb., zákona č. 303/2013 Sb., zákona č. 56/2014 Sb., zákona č. 250/2014 Sb., zákona č. 298/2016 Sb., zákona č. 183/2017 Sb., zákona č. 205/2017 Sb., zákona č. 111/2019 Sb., zákona č. 261/2021 Sb., zákona č. 284/2021 Sb. a zákona č. 326/2021 Sb., se mění takto:
+
+1\. V § 47 odst. 1 písm. e) se slovo „Zámrsku“ nahrazuje slovy „Hradci Králové“.
+
+2\. V § 48 odst. 1 písm. e) se slovo „Zámrsku“ nahrazuje slovy „Hradci Králové“.
+
+3\. V příloze č. 3 písm. a) bod 9 zní:
+
+> „9. Státní okresní archiv Praha-venkov se sídlem v Dobřichovicích,“.
+
+4\. V příloze č. 3 písm. a) se bod 10 zrušuje.
+
+Dosavadní body 11 a 12 se označují jako body 10 a 11.
+
+5\. V příloze č. 3 písm. e) úvodní části ustanovení se slovo „Zámrsku“ nahrazuje slovy „Hradci Králové“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2022.
+
+Pekarová Adamová v. r.
+
+Zeman v. r.
+
+Babiš v. r.

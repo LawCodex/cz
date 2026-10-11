@@ -1,0 +1,92 @@
+---
+title: "Vyhláška č. 255/2018 Sb., kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění pozdějších předpisů"
+identifier: "255/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/255/2018-11-12"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2018-11-07
+effective: 2018-11-12
+last_amended: 2018-11-12
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/255"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 255/2018 Sb., kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění pozdějších předpisů
+
+255
+
+VYHLÁŠKA
+
+ze dne 7. listopadu 2018,
+
+kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění pozdějších předpisů
+
+Ministerstvo vnitra po projednání s Ministerstvem zahraničních věcí stanoví podle § 182 odst. 1 písm. b) zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 428/2005 Sb., zákona č. 379/2007 Sb. a zákona č. 427/2010 Sb.:
+
+## Čl. I
+
+Vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění vyhlášky č. 270/2011 Sb., vyhlášky č. 46/2013 Sb., vyhlášky č. 20/2014 Sb. a vyhlášky č. 198/2014 Sb., se mění takto:
+
+1\. V § 1 se slova „právní předpis Evropských společenství<sup>1</sup>)“ nahrazují slovy „předpis Evropské unie<sup>1</sup>) a v něm obsažený seznam<sup>2</sup>)“.
+
+Poznámky pod čarou č. 1 a 2 znějí:
+
+> „<sup>1</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 810/2009 ze dne 13. července 2009 o kodexu Společenství o vízech (vízový kodex), v platném znění.
+
+> <sup>2</sup>) Čl. 3 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 810/2009.“.
+
+2\. V § 2 odst. 2 se slova „právního předpisu Evropských společenství<sup>2</sup>)“ nahrazují slovy „předpisu Evropské unie<sup>3</sup>)“.
+
+Poznámka pod čarou č. 3 zní:
+
+> „<sup>3</sup>) Čl. 3 odst. 5 nařízení Evropského parlamentu a Rady (ES) č. 810/2009.“.
+
+3\. Příloha zní:
+
+> **„Příloha k vyhlášce č. 428/2010 Sb.**
+
+> **Seznam států, jejichž státní občané nebo cizinci, kteří jsou držiteli cestovních dokladů vydaných těmito státy, mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza**
+
+> 1\. Čadská republika,
+
+> 2\. Egyptská arabská republika,
+
+> 3\. Indická republika,
+
+> 4\. Jemenská republika,
+
+> 5\. Jihosúdánská republika,
+
+> 6\. Kubánská republika,
+
+> 7\. Kyrgyzská republika,
+
+> 8\. Libanonská republika,
+
+> 9\. Libyjská arabská lidová socialistická džamáhírie,
+
+> 10\. Maliská republika,
+
+> 11\. Mauritánská islámská republika,
+
+> 12\. Nigerská republika,
+
+> 13\. Stát Palestina,
+
+> 14\. Súdánská republika,
+
+> 15\. Syrská arabská republika,
+
+> 16\. Turecká republika,
+
+> 17\. Turkmenistán.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 12. listopadu 2018.
+
+Ministr:
+
+Hamáček v. r.

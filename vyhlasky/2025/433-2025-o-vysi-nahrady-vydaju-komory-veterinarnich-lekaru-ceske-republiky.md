@@ -1,0 +1,62 @@
+---
+title: "Vyhláška č. 433/2025 Sb., o výši náhrady výdajů Komory veterinárních lékařů České republiky"
+identifier: "433/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/433/2025-11-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-10-21
+effective: 2025-11-01
+last_amended: 2025-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/433"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 433/2025 Sb., o výši náhrady výdajů Komory veterinárních lékařů České republiky
+
+433
+
+VYHLÁŠKA
+
+ze dne 21. října 2025
+
+o výši náhrady výdajů Komory veterinárních lékařů České republiky
+
+Ministerstvo zemědělství stanoví podle § 78 zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění zákona č. 131/2003 Sb., zákona č. 316/2004 Sb., zákona č. 48/2006 Sb., zákona č. 182/2008 Sb., zákona č. 227/2009 Sb., zákona č. 308/2011 Sb., zákona č. 18/2012 Sb., zákona č. 359/2012 Sb., zákona č. 279/2013 Sb., zákona č. 139/2014 Sb., zákona č. 250/2014 Sb., zákona č. 264/2014 Sb., zákona č. 302/2017 Sb., zákona č. 368/2019 Sb., zákona č. 246/2022 Sb. a zákona č. 70/2025 Sb., k provedení § 5e odst. 5 veterinárního zákona:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví výši náhrady hotových výdajů spojených s pořízením, vedením, provozem, rozvojem a správou informačního systému centrální evidence, jednorázové náhrady hotových výdajů za zřízení dálkového a nepřetržitého přístupu k údajům z informačního systému centrální evidence a paušální roční náhrady hotových výdajů za poskytování údajů z informačního systému centrální evidence náležející Komoře.
+
+## § 2
+
+(1) Náhrada hotových výdajů spojených s pořízením informačního systému centrální evidence činí nejvýše 8 100 000 Kč.
+
+(2) Náhrada hotových výdajů spojených s vedením, provozem, rozvojem a správou informačního systému centrální evidence činí 1 200 000 Kč ročně.
+
+## § 3
+
+Jednorázová náhrada hotových výdajů za zřízení dálkového a nepřetržitého přístupu k údajům z informačního systému centrální evidence činí nejvýše 500 000 Kč.
+
+## § 4
+
+Paušální roční náhrada hotových výdajů za poskytování údajů z informačního systému centrální evidence činí nejvýše
+
+a) 1 800 000 Kč za první rok provozování informačního systému centrální evidence,
+
+b) 1 700 000 Kč za druhý rok provozování informačního systému centrální evidence,
+
+c) 1 300 000 Kč za třetí a každý další rok provozování informačního systému centrální evidence.
+
+## § 5 – Přechodné ustanovení
+
+Náhrada podle § 2 odst. 1 ​se vztahuje i na ​hotové výdaje vynaložené přede dnem nabytí účinnosti této vyhlášky.
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. listopadu 2025.
+
+Ministr:
+
+Mgr. Výborný v. r.

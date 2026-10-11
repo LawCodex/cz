@@ -1,0 +1,609 @@
+---
+title: "Nařízení vlády č. 80/2025 Sb., kterým se mění nařízení vlády č. 73/2023 Sb., o stanovení pravidel podmíněnosti plateb zemědělcům, ve znění pozdějších předpisů"
+identifier: "80/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/80/2026-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-03-12
+effective: 2025-04-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/80"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 80/2025 Sb., kterým se mění nařízení vlády č. 73/2023 Sb., o stanovení pravidel podmíněnosti plateb zemědělcům, ve znění pozdějších předpisů
+
+80
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 12. března 2025,
+
+kterým se mění nařízení vlády č. 73/2023 Sb., o stanovení pravidel podmíněnosti plateb zemědělcům, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 2c odst. 5 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 85/2004 Sb., zákona č. 291/2009 Sb., zákona č. 179/2014 Sb. a zákona č. 382/2022 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb., zákona č. 291/2009 Sb. a zákona č. 179/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 73/2023 Sb., o stanovení pravidel podmíněnosti plateb zemědělcům, ve znění nařízení vlády č. 62/2024 Sb. a nařízení vlády č. 185/2024 Sb., se mění takto:
+
+1\. V § 1 se na konci písmene a) slovo „a“ nahrazuje čárkou.
+
+2\. Na konci § 1 se tečka nahrazuje slovem „a“ a doplňuje se písmeno c), které včetně poznámek pod čarou č. 4 a 20 zní:
+
+> „c) požadavky sociální podmíněnosti vymezené předpisem Evropské unie<sup>20</sup>) a důsledky jejich porušení pro poskytování dotací podle předpisu Evropské unie<sup>4</sup>).
+
+> <sup>4</sup>) Čl. 12 a 13 nařízení Evropského parlamentu a Rady (EU) 2021/2115. 
+>  Čl. 83 až 85 nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+>  Čl. 88 a 89 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/2116. 
+>  Čl. 6 až 12 nařízení Komise v přenesené pravomoci (EU) 2022/1172.
+
+> <sup>20</sup>) Čl. 14 a příloha č. IV nařízení Evropského parlamentu a Rady (EU) 2021/2115.“.
+
+3\. V § 2 odst. 2 se na konci úvodní části ustanovení doplňují slova „pro splnění podmínek § 23 a 24 nařízení vlády upravujícího poskytování přímých plateb zemědělcům“.
+
+4\. V § 2 odst. 2 se písmeno b) zrušuje.
+
+Dosavadní písmena c) až q) se označují jako písmena b) až p).
+
+5\. V § 2 odst. 2 písm. e) se číslo „1,5“ nahrazuje číslem „2,5“.
+
+6\. V § 2 odst. 2 písm. f) se číslo „6“ nahrazuje číslem „3“.
+
+7\. V § 5 odst. 1 se na konci textu úvodní části ustanovení doplňují slova „ , která se nenachází v oblastech Natura 2000“.
+
+8\. V § 5 odst. 1 písm. b) se slova „ , které se nenacházejí v oblastech Natura 2000“ zrušují.
+
+9\. V § 5 odst. 2 písm. b) se slovo „standardní“ zrušuje.
+
+10\. V § 5 odst. 3 písm. b) se za slovo „část“ vkládají slova „o výměře větší než 0,1 hektaru“.
+
+11\. V § 5 se doplňuje odstavec 4, který zní:
+
+> „(4) Odstavec 1 se nevztahuje na plochu evidovanou v evidenci využití půdy jako půda bohatá na uhlík o výměře větší než 0,1 hektaru, na které došlo k přeměně kultury trvalý travní porost.“.
+
+12\. Za § 5 se vkládá nový § 5a, který včetně nadpisu zní:
+
+> **„§ 5a – Standard ochrana půd bohatých na uhlík**
+
+> (1) Žadatel nezmění v evidenci využití půdy zemědělskou kulturu trvalý travní porost na některý z ostatních druhů zemědělské kultury na ploše evidované v evidenci využití půdy jako půda bohatá na uhlík, která se nachází na jím užívaném dílu půdního bloku.
+
+> (2) O porušení podmínky podle odstavce 1 se nejedná v případě, že
+
+> a) plocha půdy bohaté na uhlík nepřesahuje výměru 0,1 hektaru,
+
+> b) se celá plocha nebo její část o výměře jednotlivé plochy větší než 0,1 hektaru nachází v oblastech Natura 2000, nebo
+
+> c) je zemědělská kultura trvalý travní porost změněna
+
+> 1\. v souvislosti s ukončením pozemkových úprav podle zákona o pozemkových úpravách, a pokud došlo po vydání rozhodnutí o výměně nebo přechodu vlastnických práv k zemědělským pozemkům na dílu půdního bloku ke změně evidence druhu zemědělské kultury trvalý travní porost na jiný druh zemědělské kultury, nebo
+
+> 2\. na krajinný prvek.
+
+> (3) Žadatel na ploše evidované v evidenci využití půdy jako půda bohatá na uhlík, která se nachází na jím užívaném dílu půdního bloku s druhem zemědělské kultury standardní orná půda evidovaným v evidenci využití půdy na žadatele k datu podání žádosti, zajistí
+
+> a) v období po sklizni hlavní plodiny alespoň do 31. prosince příslušného roku pokryv
+
+> 1\. založením porostu ozimé plodiny nebo víceleté plodiny,
+
+> 2\. osetím dílu půdního bloku meziplodinou,
+
+> 3\. ponecháním strniště sklizené plodiny na dílu půdního bloku, případně posklizňových zbytků po pěstování brambor a cukrové řepy,
+
+> 4\. podmítnutím strniště sklizené plodiny a jeho ponecháním bez orby, nebo
+
+> 5\. ponecháním půdy po pásovém zpracování,
+
+> b) v průběhu celého kalendářního roku, aby nedocházelo k celoplošnému zpracování půdy obracením.
+
+> (4) Žadatel zároveň nevybuduje na ploše evidované v evidenci využití půdy jako půda bohatá na uhlík, která se nachází na jím užívaném dílu půdního bloku, novou odvodňovací soustavu.
+
+> (5) O porušení podmínek podle
+
+> a) odstavce 3 se nejedná v případě jednotlivé plochy o výměře nejvýše 1 hektar a
+
+> b) odstavce 4 se nejedná v případě jednotlivé plochy o výměře nejvýše 0,1 hektaru.“.
+
+13\. § 8 včetně nadpisu zní:
+
+> **„§ 8 – Standard obhospodařování půdy způsobem, který snižuje riziko degradace půdy a eroze, včetně zohlednění sklonu svahu**
+
+> (1) Žadatel zajistí, že se na ploše dílu půdního bloku se zemědělskou kulturou standardní orná půda stanovené jako
+
+> a) silně erozně ohrožené podle přílohy č. 17 k tomuto nařízení pěstuje ozimé plodiny, jako jsou bob, obilniny, s výjimkou kukuřice a čiroku, nebo řepka (dále jen „ozimá plodina se středním stupněm ochranného vlivu vegetace“), pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše ozimé plodiny se středním stupněm ochranného vlivu v roce podání žádosti a předcházejících 5 letech dosahuje alespoň 50 % šestinásobku výměry plodiny se středním stupněm ochranného vlivu vegetace pěstované v roce podání žádosti, a
+
+> b) mírně erozně ohrožené s vyšším rizikem podle přílohy č. 17 k tomuto nařízení pěstuje plodinu se středním stupněm ochranného vlivu, s výjimkou ozimých obilnin, pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny se středním stupněm ochranného vlivu v roce podání žádosti a předcházejících 5 letech dosahuje alespoň 33 % šestinásobku výměry plodiny se středním stupněm ochranného vlivu vegetace pěstované v roce podání žádosti.
+
+> (2) V případě dílu půdního bloku v režimu ekologického zemědělství je podmínka podle odstavce 1 splněna také v případě, že výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše ozimé plodiny se středním stupněm ochranného vlivu v roce podání žádosti nebo předcházejícím roce dosahuje alespoň 50 % dvojnásobku výměry plodiny se středním stupněm ochranného vlivu vegetace pěstované v roce podání žádosti.
+
+> (3) Pokud nejsou splněny podmínky podle odstavců 1 a 2, žadatel zajistí, že se na ploše dílu půdního bloku se zemědělskou kulturou standardní orná půda stanovené jako
+
+> a) silně erozně ohrožené podle přílohy č. 18 k tomuto nařízení pěstuje ozimá plodina se středním stupněm ochranného vlivu vegetace na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v příloze č. 1 k tomuto nařízení a
+
+> b) mírně erozně ohrožené s vyšším rizikem podle přílohy č. 18 k tomuto nařízení pěstuje plodina se středním stupněm ochranného vlivu vegetace, s výjimkou ozimých obilnin, na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v přílohách č. 1 a 3 k tomuto nařízení.
+
+> (4) Za souvislou plochu plodiny se, s výjimkou plochy, na které byly splněny podmínky podle odstavců 1 a 2, považuje plocha osetá plodinami se shodnou úrovní ochranné funkce, která je od další souvislé plochy oseté plodinami s toutéž úrovní ochranné funkce oddělena dílem půdního bloku téhož uživatele evidovaného se zemědělskou kulturou úhor nebo travní porost o šířce menší než 6 metrů. Erozní ohrožení takové souvislé plochy plodiny se posoudí včetně erozního ohrožení dílu půdního bloku kultury úhor nebo travní porost, s tolerancí nedodržení šířky nebo výměry této plochy do 20 %.
+
+> (5) Pro půdoochrannou technologii
+
+> a) č. 1 podle přílohy č. 1 k tomuto nařízení a půdoochranné technologie č. 2 a 5 až 8 podle přílohy č. 3 k tomuto nařízení se použijí plodiny podle přílohy č. 2 k tomuto nařízení,
+
+> b) č. 4 podle přílohy č. 1 k tomuto nařízení a půdoochrannou technologii č. 4 podle přílohy č. 3 k tomuto nařízení se použijí plodiny podle příloh č. 11 a 12 k tomuto nařízení a
+
+> c) č. 7 podle přílohy č. 1 k tomuto nařízení se použijí plodiny podle přílohy č. 5 k tomuto nařízení, s výjimkou bobu a sóji, nebo plodiny podle příloh č. 11 a 12 k tomuto nařízení.
+
+> (6) Podmínky podle odstavců 1 a 3 se nevztahují na
+
+> a) plodiny, pokud jsou založeny ve směsi, přičemž podíl žádné z těchto plodin ve směsi nepřekročí 20 %, a
+
+> b) díly půdních bloků, u kterých jsou v evidenci využití půdy evidovány informace o aplikaci opatření ke snížení erozního ohrožení přijatá podle § 6 a 7 vyhlášky č. 240/2021 Sb., o ochraně zemědělské půdy před erozí.
+
+> (7) Podmínky podle odstavců 1 a 3 se nevztahují na díl půdního bloku, na který byla podána žádost o poskytnutí dotace na opatření agrolesnictví podle nařízení vlády upravujícího opatření agrolesnictví a na kterém byly splněny podmínky stanovené pro toto opatření, a na plochu, na kterou byla podána žádost o poskytnutí dotace na podopatření druhově bohaté pokrytí orné půdy podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření a na které byly splněny podmínky stanovené pro toto podopatření.“.
+
+14\. § 8 včetně nadpisu zní:
+
+> **„§ 8 – Standard obhospodařování půdy způsobem, který snižuje riziko degradace půdy a eroze, včetně zohlednění sklonu svahu**
+
+> (1) Žadatel zajistí, že se na ploše dílu půdního bloku se zemědělskou kulturou standardní orná půda stanovené jako
+
+> a) silně erozně ohrožené podle přílohy č. 17 k tomuto nařízení pěstuje bob, obilniny, s výjimkou kukuřice a čiroku, nebo řepku (dále jen „plodina se středním stupněm ochranného vlivu vegetace“), pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny se středním stupněm ochranného vlivu v roce podání žádosti a v předcházejících 5 letech dosahuje alespoň 50 % šestinásobku výměry plodiny se středním stupněm ochranného vlivu vegetace pěstované v roce podání žádosti,
+
+> b) mírně erozně ohrožené s vyšším rizikem podle přílohy č. 17 k tomuto nařízení
+
+> 1\. pěstuje plodinu se středním stupněm ochranného vlivu, pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny se středním stupněm ochranného vlivu v roce podání žádosti a v předcházejících 5 letech dosahuje alespoň 33 % šestinásobku výměry plodiny se středním stupněm ochranného vlivu vegetace pěstované v roce podání žádosti,
+
+> 2\. pěstuje plodinu čirok, brambory, kukuřice, řepa, slunečnice nebo sója (dále jen „plodina s nízkým stupněm ochranného vlivu vegetace“) pouze s použitím půdoochranné technologie osevní sled s aplikací organické hmoty a zároveň nejméně jednou aplikací tuhých statkových nebo organických hnojiv v dávce nejméně 25 t/hektar, s výjimkou hnojiv pocházejících z chovů drůbeže, kejdy nebo digestátu v kombinaci se slámou nebo zeleným hnojením v dávce nejméně 15 t/hektar, pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny s nízkým stupněm ochranného vlivu v roce podání žádosti a v předcházejících 5 letech dosahuje alespoň 50 % šestinásobku výměry plodiny s nízkým stupněm ochranného vlivu vegetace pěstované v roce podání žádosti, přičemž se vychází z výměry plodin evidovaných v evidenci půdy, a
+
+> c) mírně erozně ohrožené s nižším rizikem podle přílohy č. 17 k tomuto nařízení pěstuje plodinu s nízkým stupněm ochranného vlivu vegetace, pokud souhrnná výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše odpovídající ploše plodiny s nízkým stupněm ochranného vlivu v roce podání žádosti a v předcházejících 5 letech dosahuje alespoň 33 % šestinásobku výměry plodiny s nízkým stupněm ochranného vlivu vegetace pěstované v roce podání žádosti.
+
+> (2) V případě dílu půdního bloku v režimu ekologického zemědělství je podmínka podle odstavce 1 písm. a) až c) splněna také v případě, že výměra zlepšujících plodin podle přílohy č. 19 k tomuto nařízení evidovaných v evidenci využití půdy na ploše plodiny se středním stupněm ochranného vlivu v roce podání žádosti nebo v předcházejícím roce dosahuje alespoň 50 % dvojnásobku výměry plodiny se středním stupněm ochranného vlivu vegetace pěstované v roce podání žádosti.
+
+> (3) Pokud nejsou splněny podmínky podle odstavců 1 a 2, žadatel zajistí, že se na ploše dílu půdního bloku se zemědělskou kulturou standardní orná půda stanovené jako
+
+> a) silně erozně ohrožené podle přílohy č. 18 k tomuto nařízení
+
+> 1\. nepěstuje čirok, brambory, kukuřice, řepa, slunečnice nebo sója (dále jen „plodina s nízkým stupněm ochranného vlivu vegetace“) na souvislé ploše větší než 2 hektary a
+
+> 2\. pěstuje bob, obilniny, s výjimkou kukuřice a čiroku, nebo řepka na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v příloze č. 1 k tomuto nařízení,
+
+> b) mírně erozně ohrožené s vyšším rizikem podle přílohy č. 18 k tomuto nařízení
+
+> 1\. pěstuje plodina s nízkým stupněm ochranného vlivu vegetace na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v příloze č. 20 k tomuto nařízení a
+
+> 2\. pěstuje plodina se středním stupněm ochranného vlivu vegetace na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v příloze č. 3 a č. 1 k tomuto nařízení a
+
+> c) mírně erozně ohrožené s nižším rizikem podle tabulek č. 2 a 3 přílohy č. 17 k tomuto nařízení pěstuje plodina s nízkým stupněm ochranného vlivu vegetace na souvislé ploše větší než 2 hektary pouze s použitím odpovídající půdoochranné technologie uvedené v přílohách č. 20 a 21 k tomuto nařízení.
+
+> (4) Za souvislou plochu plodiny se, s výjimkou plochy, na které byly splněny podmínky podle odstavců 1 a 2, považuje plocha osetá plodinami se shodnou úrovní ochranné funkce, která je od další souvislé plochy oseté plodinami s toutéž úrovní ochranné funkce oddělena dílem půdního bloku téhož uživatele evidovaného se zemědělskou kulturou úhor nebo travní porost o šířce menší než 12 metrů. Erozní ohrožení takové souvislé plochy plodiny se posoudí včetně erozního ohrožení dílu půdního bloku kultury úhor nebo travní porost s tolerancí nedodržení šířky nebo výměry této plochy do 20 %.
+
+> (5) Pro půdoochrannou technologii
+
+> a) č. 1 podle přílohy č. 1 k tomuto nařízení, půdoochranné technologie č. 2 a 5 až 8 podle přílohy č. 3 k tomuto nařízení, půdoochranné technologie č. 1 až 3 podle přílohy č. 20 k tomuto nařízení a půdoochranné technologie č. 1 až 3 podle přílohy č. 21 k tomuto nařízení se použijí plodiny podle přílohy č. 2 k tomuto nařízení,
+
+> b) č. 4 podle přílohy č. 1 k tomuto nařízení a půdoochrannou technologii č. 4 podle přílohy č. 3 k tomuto nařízení se použijí plodiny podle příloh č. 11 a 12 k tomuto nařízení a
+
+> c) č. 7 podle přílohy č. 1 k tomuto nařízení a půdoochrannou technologii č. 6 podle přílohy č. 20 k tomuto nařízení se použijí plodiny podle přílohy č. 5 k tomuto nařízení, s výjimkou bobu a sóji, nebo plodiny podle příloh č. 11 a 12 k tomuto nařízení.
+
+> (6) Podmínky podle odstavců 1 a 3 se nevztahují na
+
+> a) plodiny, pokud jsou založeny ve směsi, přičemž podíl žádné z těchto plodin ve směsi nepřekročí 20 %, a
+
+> b) díly půdních bloků, u kterých jsou v evidenci využití půdy evidovány informace o aplikaci opatření ke snížení erozního ohrožení přijatá podle § 6 a 7 vyhlášky č. 240/2021 Sb., o ochraně zemědělské půdy před erozí.
+
+> (7) Podmínky podle odstavce 1 se nevztahují na díl půdního bloku, na který byla podána žádost o poskytnutí dotace na opatření agrolesnictví podle nařízení vlády upravujícího opatření agrolesnictví a na kterém byly splněny podmínky stanovené pro toto opatření, a na plochy, na které byla podána žádost o poskytnutí dotace na podopatření druhově bohaté pokrytí orné půdy podle nařízení vlády upravujícího agroenvironmentálně-klimatická opatření a na které byly splněny podmínky stanovené pro toto podopatření.“.
+
+15\. V § 9 odstavec 5 zní:
+
+> „(5) Podmínky podle odstavců 1 až 4 se nevztahují na díl půdního bloku v režimu ekologického zemědělství, na kterém jsou pěstovány okopaniny, kořenová nebo hlízová zelenina na těžkých půdách s charakteristikou hlavní půdní jednotky 06 nebo 07 podle vyhlášky č. 227/2018 Sb., o charakteristice bonitovaných půdně ekologických jednotek a postupu pro jejich vedení a aktualizaci.“.
+
+16\. V § 9 se doplňuje odstavec 7, který zní:
+
+> „(7) Odstavec 1 se nevztahuje na plochu se zemědělskou kulturou standardní orná půda, která se nachází na ploše evidované v evidenci využití půdy jako půda bohatá na uhlík o výměře větší než 1 hektar.“.
+
+17\. V § 11 odst. 1 písm. e) a v § 11 odst. 2 písm. e) se číslo „8“ nahrazuje číslem „6“ a číslo „10“ se nahrazuje číslem „11“.
+
+18\. V § 11 odst. 3 se na konci písmene a) slovo „nebo“ zrušuje.
+
+19\. V § 11 odst. 3 písm. b) se za slovo „šířky“ vkládají slova „nebo plochy“.
+
+20\. V § 11 se na konci odstavce 3 tečka nahrazuje slovem „ , nebo“ a doplňuje se písmeno c), které zní:
+
+> „c) jestliže v šíři pásu jiné plodiny nebo v šíři ochranného pásu je umístěna dočasně nezpůsobilá plocha.“.
+
+21\. V § 11 odstavec 8 zní:
+
+> „(8) Do výpočtu plochy jedné plodiny stejného rodu rostlin podle definice botanického systému klasifikace plodin nebo kultury stejného druhu brukvovitých, lilkovitých nebo tykvovitých se započtou plochy se shodnou plodinou, které jsou odděleny dílem půdního bloku téhož uživatele evidovaného se zemědělskou kulturou úhor nebo travní porost o šířce menší než 6 metrů, s tolerancí nedodržení šířky nebo výměry této plochy do 20 %.“.
+
+22\. V § 11 odstavec 8 zní:
+
+> „(8) Do výpočtu plochy jedné plodiny stejného rodu rostlin podle definice botanického systému klasifikace plodin nebo kultury stejného druhu brukvovitých, lilkovitých nebo tykvovitých se započtou plochy se shodnou plodinou, které jsou odděleny dílem půdního bloku téhož uživatele evidovaného se zemědělskou kulturou úhor nebo travní porost o šířce menší než 12 metrů, s tolerancí nedodržení šířky nebo výměry této plochy do 20 %.“.
+
+23\. Nadpis § 12 zní: „Minimální podíl výměry zemědělské plochy vyhrazený pro neprodukční plochy podle § 2 odst. 2“.
+
+24\. V § 12 odst. 1 písm. a) se text „q)“ nahrazuje textem „p)“.
+
+25\. V § 12 se odstavec 2 zrušuje.
+
+Dosavadní odstavce 3 až 8 se označují jako odstavce 2 až 7.
+
+26\. V § 12 odst. 6 se na konci písmene a) čárka nahrazuje slovem „a“ a písmeno b) se zrušuje.
+
+Dosavadní písmeno c) se označuje jako písmeno b).
+
+27\. V § 12 odst. 7 se slova „úhor s porostem nebo“ zrušují.
+
+28\. V § 13 písm. d) se za slovo „dřevin“ vkládají slova „kromě postupů, které jsou v souladu s vyhláškou o ochraně dřevin a povolování jejich kácení“ a slovo „nebo“ se zrušuje.
+
+29\. V § 13 písmeno e) zní:
+
+> „e) k aplikaci hnojiv, s výjimkou pobytu zvířat, aplikaci přípravků na ochranu rostlin a upravených kalů,“.
+
+30\. V § 13 se doplňují písmena f) a g), která znějí:
+
+> „f) ke vzniku cesty, nebo
+
+> g) k poškození dřevinné vegetace při přejezdu techniky.“.
+
+31\. V § 13 se dosavadní text označuje jako odstavec 1 a doplňují se odstavce 2 a 3, které znějí:
+
+> „(2) Běžné obhospodařování a využívání plochy krajinného prvku se nepovažuje za zrušení, poškození nebo využití k produkci, přičemž za běžné obhospodařování a využívání, které probíhá v souladu s podmínkami stanovenými v odstavci 1, se považuje
+
+> a) zpřístupnění pro průchod či odpočinek hospodářských zvířat včetně extenzivní pastvy a ponechání nedopasků, které jsou v případě krajinného prvku mokřad podmíněny souhlasem orgánu ochrany přírody,
+
+> b) pohyb osob, včetně výskytu pěšin,
+
+> c) přejezd techniky,
+
+> d) seč, pokud je provedena nejvýše jednou ročně a posečená biomasa je odklizena, nestanoví-li orgán ochrany přírody jinak, a
+
+> e) další zásahy se souhlasem orgánu ochrany přírody.
+
+> (3) Za zrušení nebo poškození krajinného prvku se nepovažuje postup v rámci stanovené údržby krajinného prvku v souladu s § 24d nařízení vlády upravujícího poskytování přímých plateb zemědělcům.“.
+
+32\. V § 15 odst. 2 písm. a) se slovo „nebo“ zrušuje.
+
+33\. V § 15 se na konci odstavce 2 tečka nahrazuje čárkou a doplňují se písmena c) a d), která včetně poznámek pod čarou č. 21 a 22 znějí:
+
+> „c) změny na jinou trvalou kulturu, nebo
+
+> d) vydání vyjádření<sup>21</sup>) místně příslušného orgánu ochrany přírody, na základě kterého bude zjevné, že změnou zemědělské kultury trvalý travní porost na některou z jiných druhů zemědělské kultury nebo orbou nejsou dotčena evropská stanoviště<sup>22</sup>) a záměr nemůže samostatně nebo ve spojení s jinými významně ovlivnit předmět ochrany nebo celistvost evropsky významné lokality nebo ptačí oblasti, a nepodléhá tak postupu podle § 45h a 45i zákona č. 114/1992 Sb.
+
+> <sup>21</sup>) § 77a odst. 7 a § 78 odst. 1 a 2 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.
+
+> <sup>22</sup>) § 3 odst. 1 písm. o) zákona č. 114/1992 Sb.“.
+
+34\. V § 16 odst. 1 písm. b) se slovo „cukrovky“ nahrazuje slovy „řepy cukrové“, za slovo „na“ se vkládá slovo „zemědělských“ a za slovo „vod“ se vkládají slova „nebo od hranice ochranného pásma vodního zdroje I. stupně“.
+
+35\. Za § 16 se vkládá nový § 16a, který včetně nadpisu zní:
+
+> **„§ 16a – Požadavky sociální podmíněnosti**
+
+> Seznam požadavků sociální podmíněnosti je uveden v příloze č. 16 k tomuto nařízení.“.
+
+36\. V § 18 odst. 3 úvodní části ustanovení se za text „a),“ vkládají slova „první porušení bez dopadu na plnění cíle standardu podle § 17 odst. 2 písm. b),“.
+
+37\. V § 18 odst. 5 se za slovo „nedodržení“ vkládají slova „nebo opakovaného úmyslného porušení“.
+
+38\. Za § 19 se vkládá nový § 19a, který včetně nadpisu a poznámek pod čarou č. 23 až 25 zní:
+
+> **„§ 19a – Stanovení míry snížení dotace v případě porušení ustanovení právních předpisů, která vymezují požadavky sociální podmíněnosti**
+
+> (1) Fond na základě oznámení porušení ustanovení právního předpisu podle přílohy č. 16 k tomuto nařízení, na jehož základě byla žadateli pravomocným rozhodnutím<sup>23</sup>) uložena sankce, stanoví míru snížení dotace podle předpisu Evropské unie<sup>24</sup>)
+
+> a) 3 % v případě pravomocně uložené sankce více než 100 000 Kč, ale méně než 300 000 Kč, nebo
+
+> b) 5 % v případě pravomocně uložené sankce nejméně 300 000 Kč.
+
+> (2) V případě více oznámení porušení u téhož žadatele v jednom roce Fond při postupu podle odstavce 1 vychází z oznámení s nejvyšší pravomocně uloženou sankcí.
+
+> (3) V případě oznámení opakovaného nebo přetrvávajícího porušení právních předpisů podle přílohy č. 16 k tomuto nařízení stanoví Fond míru snížení dotace 10 %.
+
+> (4) V případě oznámení dalšího opakovaného porušení ustanovení právních předpisů podle přílohy č. 16 k tomuto nařízení stanoví Fond míru snížení dotace
+
+> a) 15 %, pokud další opakovaná pravomocně uložená sankce činí více než 100 000 Kč, ale méně než 300 000 Kč, nebo
+
+> b) 40 %, pokud další opakovaná pravomocně uložená sankce činí nejméně 300 000 Kč.
+
+> (5) V případě souběhu porušení požadavků sociální podmíněnosti nebo požadavků nebo standardů podle tohoto nařízení Fond míry snížení dotace stanovené podle odstavců 1, 3 a 4 a podle § 18 sečte a uplatní snížení podle předpisu Evropské unie<sup>25</sup>).
+
+> <sup>23</sup>) Čl. 88 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/2116.
+
+> <sup>24</sup>) Čl. 85 odst. 2 a 5 a čl. 89 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/2116.
+
+> <sup>25</sup>) Čl. 85 odst. 1 a čl. 89 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2021/2116.“.
+
+39\. § 20 včetně nadpisu zní:
+
+> **„§ 20 – Neuplatnění snížení dotace**
+
+> (1) Fond nestanoví snížení dotace, jestliže
+
+> a) se jedná o nevýznamné porušení<sup>13</sup>) požadavku nebo podmínky standardu podle § 17 odst. 2 písm. a) nebo první nevýznamné porušení bez dopadu na plnění cíle standardu podle § 17 odst. 2 písm. b) a porušení není hodnoceno jako úmyslné, nebo
+
+> b) nedodržení požadavků podle § 3 a 16a a podmínek standardů podle § 5 až 15 je způsobeno rozhodnutím orgánu veřejné moci<sup>19</sup>).
+
+> (2) V případě porušení podmínky standardu podle § 17 odst. 2 písm. b) v roce následujícím po roce, kdy Fond uplatnil nestanovení snížení dotace podle odstavce 1 písm. a), Fond uplatní snížení dotace podle § 18.“.
+
+40\. Příloha č. 1 včetně nadpisu zní:
+
+> **„Příloha č. 1**
+
+> **Půdoochranné technologie pro plodiny se střední ochrannou funkcí na silně erozně ohrožené ploše**
+
+> | Číslo půdoochranné technologie | Půdoochranná technologie |
+> |---|---|
+> | 1. | Zakládání do ochranné plodiny nebo rostlinných zbytků – přímé setí |
+> | 2. | Zpracování půdy bez obracení pro bob a obilniny jiné než kukuřice nebo čirok |
+> | 3. | Hloubkové kypření u řepky |
+> | 4. | Podsev |
+> | 5. | Pásové zpracování půdy |
+> | 6. | Pásové střídání plodin |
+> | 7. | Zakládání porostu s pomocnou plodinou |
+> | 8. | Osevní sled s aplikací organické hmoty ve vyšší dávce |
+>
+> “.
+
+41\. Příloha č. 3 včetně nadpisu zní:
+
+> **„Příloha č. 3**
+
+> **Půdoochranné technologie pro plodiny se střední ochrannou funkcí na mírně erozně ohrožené ploše s vyšším rizikem**
+
+> | Číslo půdoochranné technologie | Půdoochranná technologie |
+> |---|---|
+> | 1. | Zpracování půdy bez obracení pro bob polní a obilniny jiné než kukuřice nebo čirok |
+> | 2. | Ochranné pásy |
+> | 3. | Hloubkové kypření u řepky |
+> | 4. | Podsev |
+> | 5. | Maximální výměra jedné plodiny 5 hektarů |
+> | 6. | Maximální výměra jedné plodiny 8 hektarů s obsetím |
+> | 7. | Maximální výměra jedné plodiny 10 hektarů s obsetím |
+> | 8. | Aplikace organické hmoty s doplňkovou PT |
+> | 9. | Aplikace organické hmoty ve vyšší dávce |
+> | 10. | Zakládání porostu s pomocnou plodinou |
+> | 11. | Pásové střídání plodin |
+> | 12. | Pěstování luskoobilních směsí |
+>
+> “.
+
+42\. V nadpisu přílohy č. 5 se slova „5 a 7“ nahrazují slovy „4 a 6“.
+
+43\. V příloze č. 7 se v řádku s číslem standardu 8. slova „Minimální podíl výměry zemědělské plochy vyhrazený pro neprodukční plochy,“ zrušují.
+
+44\. V příloze č. 7 se řádek s číslem standardu 8A. zrušuje.
+
+45\. V nadpisu přílohy č. 9 se číslo „5“ nahrazuje číslem „4“.
+
+46\. V nadpisu příloh č. 11 a 12 se číslo „6“ nahrazuje číslem „5“.
+
+47\. V příloze č. 11 se v řádku č. 33 slova „shloučená, vratičolistá“ zrušují.
+
+48\. V příloze č. 13 tabulka s číslem požadavku 2.5. zní:
+
+> „
+>
+> <table><tbody><tr><td rowspan="10">2.5.</td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 5 hektarů pozemků včetně se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo<br> s ochranným pásmem vodního zdroje 1. stupně.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 5 do 10 hektarů pozemků včetně se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 10 hektarů pozemků se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně, v délce do 25 metrů včetně.</td></tr><tr><td>Střední</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně, v délce 26 až 50 metrů včetně.</td></tr><tr><td>Velká</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo s ochranným pásmem vodního zdroje 1. stupně, v délce nad 50 metrů.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 1, poř. číslo aktu 1, poř. číslo požadavku 5</td></tr></tbody></table> “.
+>
+> “.
+
+49\. Příloha č. 14 včetně nadpisu zní:
+
+> **„Příloha č. 14**
+
+> **Hodnocení porušení podmínek standardů podle § 5 až 15**
+
+> <table><tbody><tr><th>Podmínky standardů</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr><tr><td rowspan="10"><b>Standard 1. podle § 5</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch s porušením je do 1 hektaru včetně.</td></tr><tr><td>Střední</td><td>Součet ploch s porušením je od 1 do 2 hektarů včetně.</td></tr><tr><td>Velký</td><td>Součet ploch s porušením je nad 2 hektary.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je 1.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 2.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 3 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10"><b>Standard 2. podle § 5a</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík došlo ke změně zemědělské kultury T anebo k ponechání půdy bez pokryvu po sklizni hlavní plodiny alespoň do 31. prosince anebo k porušení podmínky zákazu celoplošného zpracování půdy obracením v rozsahu od 0,1 do 10 hektarů na zemědělských kulturách jiných než R a v rozsahu od 1 do 10 ha na zemědělské kultuře R.</td></tr><tr><td>Střední</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík došlo ke změně zemědělské kultury T anebo k ponechání půdy bez pokryvu po sklizni hlavní plodiny alespoň do 31. prosince anebo k porušení podmínky zákazu celoplošného zpracování půdy obracením v rozsahu nad 10 hektarů včetně.</td></tr><tr><td>Velký</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík bylo provedeno odvodnění.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík došlo ke změně zemědělské kultury T anebo k ponechání půdy bez pokryvu po sklizni hlavní plodiny alespoň do 31. prosince anebo k porušení podmínky zákazu celoplošného zpracování půdy obracením.</td></tr><tr><td>Velká</td><td>Na ploše evidované v evidenci jako půda bohatá na uhlík bylo provedeno odvodnění.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Ne</td></tr><tr><td colspan="2">Rozsah</td><td>Malý</td></tr><tr><td rowspan="10"><b>Standard 3. podle § 6</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch, kde došlo k pálení, je do 1 hektaru včetně.</td></tr><tr><td>Střední</td><td>Součet ploch, kde došlo k pálení, je od 1 do 2 hektarů včetně.</td></tr><tr><td>Velký</td><td>Součet ploch, kde došlo k pálení, je nad 2 hektary.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Pálení bylo prováděno pouze bodově.</td></tr><tr><td>Velká</td><td>Pálení bylo prováděno plošně.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 6 písm. a)</td></tr><tr><td rowspan="10"><b>Standard 4. podle § 7 odst. 1 písm. a)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Hnojení bylo provedeno na ploše ochranného pásu 3 metrů od břehové čáry.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Hnojení bylo provedeno na ploše ochranného pásu 3 metrů od břehové čáry.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 1 písm. a)</td></tr><tr><td rowspan="10"><b>Standard 4. podle § 7 odst. 1 písm. b)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Hnojení bylo provedeno na ploše ochranného pásu do 25 metrů od břehové čáry u dílu půdního bloku s průměrnou sklonitostí převyšující 7°.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Hnojení bylo provedeno na ploše ochranného pásu do 25 metrů od břehové čáry u dílu půdního bloku s průměrnou sklonitostí převyšující 7°.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 1 písm. b)</td></tr><tr><td rowspan="10"><b>Standard 4. podle § 7 odst. 1 písm. c)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>Přípravek byl aplikován ve třímetrovém ochranném pásu od břehové čáry.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>Přípravek byl aplikován ve třímetrovém ochranném pásu od břehové čáry.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ano.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10"><b>Standard 5. podle § 8</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch s porušením tvoří nejvýše 15 hektarů nebo součet ploch s porušením tvoří více než 15 hektarů, pokud podíl plochy s porušením je nejvýše 15 % součtu ploch žadatelem užívaných dílů půdních bloků se zemědělskou kulturou standardní orná půda vedených v evidenci využití půdy jako erozně ohrožené a silně erozně ohrožené.</td></tr><tr><td>Střední</td><td>Součet ploch s porušením tvoří více než 15 hektarů, pokud podíl plochy s porušením tvoří 15,01 až 30 % součtu ploch žadatelem užívaných dílů půdních bloků se zemědělskou kulturou standardní orná půda vedených v evidenci využití půdy jako erozně ohrožené a silně erozně ohrožené.</td></tr><tr><td>Velký</td><td>Součet ploch s porušením tvoří více než 15 hektarů, pokud podíl plochy s porušením tvoří více než 30 % součtu ploch žadatelem užívaných dílů půdních bloků se zemědělskou kulturou standardní orná půda vedených v evidenci využití půdy jako erozně ohrožené a silně erozně ohrožené.</td></tr><tr><td>Závažnost</td><td>Malá</td><td>Díl půdního bloku s porušením, které bylo způsobeno neprovedením půdoochranné technologie, je nejvýše 1, nebo počet dílů půdních bloků s porušením, které bylo způsobeno nedostatečným provedením půdoochranné technologie, je nejvýše 2.</td></tr><tr><td rowspan="2"></td><td>Střední</td><td>Počet dílů půdních bloků s porušením, které bylo způsobeno nedostatečným provedením půdoochranné technologie, je 3 nebo 4.</td></tr><tr><td>Velká</td><td>Počet dílů půdních bloků s porušením, které bylo způsobeno neprovedením půdoochranné technologie, je více než 1, počet dílů půdních bloků s porušením, které bylo způsobeno nedostatečným provedením půdoochranné technologie, je 5 a více, nebo porušení bylo způsobeno pěstováním kukuřice, brambor, řepy cukrové, řepy krmné, bobu polního, sóji, slunečnice a čiroku na silně erozně ohrožené půdě.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 5 písm. a) až f)</td></tr><tr><td rowspan="10"><b>Standard 6. podle § 9</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch, kde nebyl zajištěn pokryv včetně výjimky, je více než 20 a nejvýše 30 %.</td></tr><tr><td>Střední</td><td>Součet ploch, kde nebyl zajištěn pokryv včetně výjimky, je více než 30 a nejvýše 40 %.</td></tr><tr><td>Velký</td><td>Součet ploch, kde nebyl zajištěn pokryv včetně výjimky, je více než 40 %.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Z celkového počtu dílů půdních bloků s porušením je více jak 50 % kategorizováno v evidenci půdy jako erozně neohrožená plocha.</td></tr><tr><td>Střední</td><td>Z celkového počtu dílů půdních bloků s porušením je více jak 50 % včetně kategorizováno v evidenci půdy jako erozně ohrožená plocha.</td></tr><tr><td>Velká</td><td>Z celkového počtu dílů půdních bloků s porušením je více jak 50 % kategorizováno v evidenci půdy jako silně erozně ohrožená plocha.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 4</td></tr><tr><td rowspan="10"><b>Standard 7A. podle § 10 odst. 1</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch, kde došlo k porušení, je do 65 % výměry standardní orné půdy žadatele včetně.</td></tr><tr><td>Střední</td><td>Součet ploch, kde došlo k porušení je do 70 % výměry standardní orné půdy žadatele včetně.</td></tr><tr><td>Velký</td><td>Součet ploch, kde došlo k porušení je nad 70 % výměry standardní orné půdy žadatele.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je 1.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 2.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 3 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10"><b>Standard 7A. podle § 10 odst. 4</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch, kde došlo k porušení, je do 20 % výměry standardní orné půdy žadatele včetně.</td></tr><tr><td>Střední</td><td>Součet ploch, kde došlo k porušení, je od 20 % do 30 % výměry standardní orné půdy žadatele včetně.</td></tr><tr><td>Velký</td><td>Součet ploch, kde došlo k porušení, je více než 30 % výměry standardní orné půdy žadatele.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je do 2 včetně.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 3 až 5.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 6 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr><tr><td rowspan="10"><b>Standard 7B. podle § 11 odst. 1</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Velikost plochy pěstované plodiny je větší než 33 ha a je nejvýše 70 ha.</td></tr><tr><td>Střední</td><td>Velikost plochy pěstované plodiny je větší než 70 ha a je nejvýše 84 ha.</td></tr><tr><td>Velký</td><td>Velikost plochy pěstované plodiny je větší než 84 ha.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je nejvýše 2.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 3 až 5.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 6 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 5 písm. g)</td></tr><tr><td rowspan="10"><b>Standard 7B. podle § 11 odst. 2</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Velikost plochy pěstované plodiny je větší než 11 ha a je nejvýše 35 ha.</td></tr><tr><td>Střední</td><td>Velikost plochy pěstované plodiny je větší než 35 ha a je nejvýše 45 ha.</td></tr><tr><td>Velký</td><td>Velikost plochy pěstované plodiny je větší než 45 ha.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je nejvýše 2.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 3 až 5.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 6 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 5 písm. g)</td></tr><tr><td rowspan="9"><b>Standard 8B. podle § 13</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Došlo k poškození nebo zrušení krajinného prvku skalka nebo terasa.</td></tr><tr><td>Střední</td><td>Došlo k poškození nebo zrušení krajinného prvku solitér nebo skupina dřevin.</td></tr><tr><td>Velký</td><td>Došlo k poškození nebo zrušení krajinného prvku mokřad, příkop, travnatá údolnice, mez nebo stromořadí.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>X</td></tr><tr><td>Střední</td><td>Došlo k poškození nebo zrušení výhradně dřevinné vegetace na krajinných prvcích mez, terasa, nebo travnatá údolnice.</td></tr><tr><td>Velká</td><td>Došlo k poškození nebo zrušení krajinných prvků solitér, skupina dřevin, stromořadí, popřípadě došlo k poškození nebo zrušení krajinných prvků mez, terasa, travnatá údolnice, příkop, skalka nebo mokřad a nejedná se o případ střední závažnosti.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>X</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td></td><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 7 písm. a)</td></tr><tr><td rowspan="10"><b>Standard 8C. podle § 14</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Řez dřevin v době od 1. 4. do 31. 10. byl proveden u 1 krajinného prvku.</td></tr><tr><td>Střední</td><td>Řez dřevin v době od 1. 4. do 31. 10. byl proveden u 2 krajinných prvků.</td></tr><tr><td>Velký</td><td>Řez dřevin v době od 1. 4. do 31. 10. byl proveden u 3 a více krajinných prvků.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>x</td></tr><tr><td>Střední</td><td>Řez dřevin byl proveden v době od 1. 4. do 31. 10. osobou bez osvědčení.</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>Příloha č. 2 odst. 7 písm. b)</td></tr><tr><td rowspan="10"><b>Standard 9 podle § 15</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Součet ploch s porušením je do 1 hektaru včetně.</td></tr><tr><td>Střední</td><td>Součet ploch s porušením je od 1 do 2 hektarů včetně.</td></tr><tr><td>Velký</td><td>Součet ploch s porušením je nad 2 hektary.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Počet dílů půdního bloku s porušením je 1.</td></tr><tr><td>Střední</td><td>Počet dílů půdního bloku s porušením je 2.</td></tr><tr><td>Velká</td><td>Počet dílů půdního bloku s porušením je 3 a více.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td colspan="2">Přímé nebezpečí pro lidské zdraví nebo zdraví zvířat</td><td>Ne.</td></tr><tr><td colspan="2">Vztah k nařízení vlády č. 48/2017 Sb.</td><td>x</td></tr></tbody></table> “.
+>
+> “.
+
+50\. Příloha č. 15 včetně nadpisu zní:
+
+> **„Příloha č. 15**
+
+> **Hodnocení porušení minimálních požadavků podle § 16**
+
+> <table><tbody><tr><th>Minimální požadavek</th><th>Kritéria</th><th>Stupně kritérií</th><th>Hodnocení</th></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. a)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 5 hektarů včetně, pro kterou platí období zákazu hnojení.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 5 do 10 hektarů včetně, pro kterou platí období zákazu hnojení.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 10 hektarů, pro kterou platí období zákazu hnojení.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Použití dusíkatých hnojivých látek do 20 kg N/hektar včetně.</td></tr><tr><td>Střední</td><td>Použití dusíkatých hnojivých látek od 20 do 40 kg N/hektar včetně.</td></tr><tr><td>Velká</td><td>Použití dusíkatých hnojivých látek nad 40 kg N/hektar.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. b)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 5 hektarů pozemků včetně se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo ochranným pásmem vodního zdroje I. stupně.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 5 hektarů do 10 hektarů pozemků včetně se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo ochranným pásmem vodního zdroje I. stupně.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 10 hektarů pozemků se sklonem nad 7°, které současně sousedí s útvarem povrchových vod nebo ochranným pásmem vodního zdroje I. stupně.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo ochranným pásmem vodního zdroje I. stupně, v délce do 25 metrů včetně.</td></tr><tr><td>Střední</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo ochranným pásmem vodního zdroje I. stupně, v délce od 26 do 50 metrů včetně.</td></tr><tr><td>Velká</td><td>Vyjmenované plodiny byly pěstovány na pozemcích se sklonem nad 7°, které současně sousedí s útvary povrchových vod nebo ochranným pásmem vodního zdroje I. stupně, v délce nad 50 metrů.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. c)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení zákazu na ploše do 5 hektarů včetně.</td></tr><tr><td>Střední</td><td>Nedodržení zákazu na ploše od 5 do 10 hektarů včetně.</td></tr><tr><td>Velký</td><td>Nedodržení zákazu na ploše nad 10 hektarů</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Použití hnojivých látek do 20 kg N/hektar včetně.</td></tr><tr><td>Střední</td><td>Použití hnojivých látek od 20 do 40 kg N/hektar včetně.</td></tr><tr><td>Velká</td><td>Použití hnojivých látek nad 40 kg N/hektar.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. d)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 10 hektarů včetně.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 10 do 20 hektarů včetně.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 20 hektarů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Při hnojení nebylo zajištěno rovnoměrné pokrytí pozemku.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. e)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Nedodržení na ploše do 5 hektarů včetně.</td></tr><tr><td>Střední</td><td>Nedodržení na ploše od 5 do 10 hektarů včetně.</td></tr><tr><td>Velký</td><td>Nedodržení na ploše nad 10 hektarů.</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Použití do 20 kg N/hektar včetně</td></tr><tr><td>Střední</td><td>Použití od 20 do 40 kg N/hektar včetně</td></tr><tr><td>Velká</td><td>Použití nad 40 kg N/hektar.</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 1 písm. f)</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Byl použit přípravek pro profesionální uživatele, který nebyl získán od registrovaného distributora, nebo u něhož nebyl držitelem povolení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Byl použit přípravek pro profesionální uživatele, který nebyl získán od registrovaného distributora, nebo u něhož nebyl držitelem povolení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr><tr><td rowspan="8"><b>podle § 16 odst. 2</b></td><td rowspan="3">Rozsah</td><td>Malý</td><td>Ve skladu byl skladován přípravek pro profesionální uživatele, který nebyl získán od registrovaného distributora, nebo u něhož nebyl držitelem povolení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velký</td><td>x</td></tr><tr><td rowspan="3">Závažnost</td><td>Malá</td><td>Ve skladu byl skladován přípravek pro profesionální uživatele, který nebyl získán od registrovaného distributora, nebo u něhož nebyl držitelem povolení.</td></tr><tr><td>Střední</td><td>x</td></tr><tr><td>Velká</td><td>x</td></tr><tr><td rowspan="2">Trvalost</td><td>Odstranitelná</td><td>x</td></tr><tr><td>Neodstranitelná</td><td>Neodstranitelné porušení.</td></tr></tbody></table> “.
+>
+> “.
+
+51\. Doplňuje se příloha č. 16, která včetně nadpisu zní:
+
+> **„Příloha č. 16**
+
+> **Seznam ustanovení právních předpisů, která stanoví požadavky sociální podmíněnosti, podle § 19a**
+
+> <table><tbody><tr><th>Oblasti</th><th>Požadavky</th><th>Vymezení požadavků v právním předpisu</th></tr><tr><td>Zaměstnanost</td><td>Transparentní a předvídatelné pracovní podmínky</td><td>§ 35, § 37 odst. 1 až 4, § 77a a 228 až 230 zákona č. 262/2006 Sb.</td></tr><tr><td rowspan="2">Ochrana zdraví a bezpečnost</td><td>Opatření na podporu zlepšení bezpečnosti a ochrany zdraví pracovníků</td><td>§ 101 odst. 1, 3 a 4, § 102 odst. 3 až 7, § 103 odst. 1 písm. a), g) a j), § 103 odst. 2 a 3, § 105 odst. 3 věta první, § 105 odst. 4, § 108 odst. 1, 2, § 108 odst. 3 písm. a) a § 108 odst. 6 a 7 zákona č. 262/2006 Sb., a § 9 odst. 2, § 9 odst. 4 písm. a), b) a § 9 odst. 4 písm. c) bod 1 zákona č. 309/2006 Sb.</td></tr><tr><td>Minimální požadavky na bezpečnost a ochranu zdraví při používání pracovního zařízení zaměstnanci</td><td>§ 101 odst. 1, § 102 odst. 1, § 102 odst. 4 věta první, § 102 odst. 5, § 103 odst. 1 písm. f) a § 103 odst. 2 zákona č. 262/2006 Sb., a § 4 odst. 1 věta první, § 4 odst. 1 písm. b) a c) a § 11 odst. 1 zákona č. 309/2006 Sb., a § 7 odst. 2 a § 20 odst. 2 písm. a) zákona č. 250/2021 Sb., a § 3 a 4 nařízení vlády č. 378/2001 Sb.</td></tr></tbody></table> “.
+>
+> “.
+
+52\. Doplňují se přílohy č. 17 až 19, které včetně nadpisů znějí:
+
+> **„Příloha č. 17**
+
+> **Stanovení druhu erozně ohrožených ploch podle § 8 odst. 1**
+
+> **Tabulka č. 1 – souvislá plocha plodiny 0,01 – 2 hektary (včetně)\***
+
+> | Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 50 % souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+> |---|---|---|---|
+> | Plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+> | Plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+> | Plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+> \*) Souvislé plochy plodiny do 0,01 hektaru nejsou zařazeny do žádné z kategorií erozně ohrožené plochy
+
+> **Tabulka č. 2 – souvislá plocha plodiny 2,01 – 4 hektary (včetně)\***
+
+> | Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 2 hektary souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+> |---|---|---|---|
+> | Plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+> | Plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+> | Plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+> \*) Souvislé plochy plodiny do 0,01 hektaru nejsou zařazeny do žádné z kategorií erozně ohrožené plochy
+
+> **Tabulka č. 3 – souvislá plocha plodiny větší než 4,01 hektary**
+
+> | Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 2 hektary nebo 50 % souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+> |---|---|---|---|
+> | Plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+> | Plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+> | Plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+> **Příloha č. 18**
+
+> **Stanovení druhu erozně ohrožených ploch podle § 8 odst. 3**
+
+> **Tabulka č. 1 – souvislá plocha plodiny 2,01 – 4 hektarů (včetně)\*)**
+
+> | Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 2 hektary souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+> |---|---|---|---|
+> | plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+> | plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+> | plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+> \*) Souvislé plochy plodiny o velikosti 0,01 – 2 hektary (včetně) nejsou zařazeny do žádné z kategorií erozně ohrožené plochy.
+
+> **Tabulka č. 2 – souvislá plocha plodiny větší než 4 ha**
+
+> | Druh erozně ohrožené plochy | Součin hodnot faktoru ochranného vlivu vegetace a faktoru protierozních opatření pro souvislou plochu plodiny se stejným stupněm ochranného vlivu vegetace přesahující 2 hektary nebo 50 % souvislé plochy plodiny se stejným stupněm ochranného vlivu vegetace | Přípustná míra erozního ohrožení pro půdy hluboké a středně hluboké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) | Přípustná míra erozního ohrožení pro půdy mělké (t.ha<sup>-1</sup>.rok<sup>-1</sup>) |
+> |---|---|---|---|
+> | plocha silně erozně ohrožená | 0 až 0,045 | 9 | 2 |
+> | plocha mírně erozně ohrožená s vyšším rizikem | 0,045 až 0,15 | 9 | 2 |
+> | plocha mírně erozně ohrožená s nižším rizikem | 0,15 až 0,4 | 9 | 2 |
+
+> **Příloha č. 19**
+
+> **Druhy zlepšujících plodin podle § 8 odst. 1 písm. a) a b)**
+
+> | 1. | Bér vlašský (italský) |
+> |---|---|
+> | 2. | Bojínek hlíznatý |
+> | 3. | Bojínek luční |
+> | 4. | Čičorka |
+> | 5. | Čočka |
+> | 6. | Dočasný travní porost |
+> | 7. | Festulolium |
+> | 8. | Hrachor |
+> | 9. | Hrách |
+> | 10. | Jestřabina |
+> | 11. | Jetel |
+> | 12. | Jílek |
+> | 13. | Kmín |
+> | 14. | Komonice |
+> | 15. | Koriandr |
+> | 16. | Kostřava |
+> | 17. | Kozinec |
+> | 18. | Krambe habešská (Katrán etiopský) |
+> | 19. | Lesknice |
+> | 20. | Lipnice |
+> | 21. | Lupina bílá, žlutá, úzkolistá |
+> | 22. | Luskoobilní směs bez podsevu |
+> | 23. | Luskoobilní směs s podsevem dusík vázajících plodin |
+> | 24. | Mastňák habešský |
+> | 25. | Ostropestřec mariánský |
+> | 26. | Peluška |
+> | 27. | Pískavice řecké seno |
+> | 28. | Pohanka obecná |
+> | 29. | Proso seté |
+> | 30. | Psárka luční |
+> | 31. | Psineček |
+> | 32. | Ředkev |
+> | 33. | Sléz |
+> | 34. | Směs bílkovinných plodin (dusík vázajících plodin) jednoletých |
+> | 35. | Směs bílkovinných plodin (dusík vázajících plodin) jednoletých s ostatními plodinami do 50 % |
+> | 36. | Směs bílkovinných plodin (dusík vázajících plodin) víceletých |
+> | 37. | Směs bílkovinných plodin (dusík vázajících plodin) víceletých s jednoletými plodinami do 50 % |
+> | 38. | Směs krmná (čejka) |
+> | 39. | Směsky luskovin |
+> | 40. | Směs pro dělící pás |
+> | 41. | Směs pro dělící pás (prémiová) |
+> | 42. | Směs pro druhově bohaté pokrytí orné půdy |
+> | 43. | Směs pro erozní pás |
+> | 44. | Směs pro erozní pás (prémiová) |
+> | 45. | Směs pro krmný biopás |
+> | 46. | Směs pro meziplodiny |
+> | 47. | Směs pro meziplodiny proti utužení půdy |
+> | 48. | Směs pro meziplodiny pro zlepšení struktury půdy |
+> | 49. | Směs pro nektarodárný biopás |
+> | 50. | Směs pro ochranný pás kolem krajinného prvku (prémiová) |
+> | 51. | Směs pro opylovače (čejka) |
+> | 52. | Směs pro ozeleněný kolejový řádek (prémiová) |
+> | 53. | Směs pro souvrať |
+> | 54. | Směs pro souvrať (prémiová) |
+> | 55. | Směs dusík vázajících plodin neprodukčních jednoletých |
+> | 56. | Směs dusík vázajících plodin neprodukčních jednoletých s ostatními plodinami do 50 % |
+> | 57. | Směs dusík vázajících plodin neprodukčních víceletých |
+> | 58. | Směs dusík vázajících plodin neprodukčních víceletých s ostatními plodinami do 50 % |
+> | 59. | Směs trav čeledi lipnicovité |
+> | 60. | Srha |
+> | 61. | Svazenka |
+> | 62. | Světlice barvířská |
+> | 63. | Štírovník růžkatý |
+> | 64. | Tolice |
+> | 65. | Trávy pro ochranné pásy |
+> | 66. | Trávy s leguminózami |
+> | 67. | Úročník bolhoj |
+> | 68. | Vičenec ligrus |
+> | 69. | Vikev |
+> | 70. | Vojtěška |
+> | 71. | Vojtěškotravní směs (s převahou jetelovin) |
+> | 72. | Vojtěškotravní směs (s převahou travin) |
+> | 73. | Žito trsnaté (lesní) |
+>
+> “.
+
+53\. Doplňují se přílohy č. 20 a 21, které včetně nadpisů znějí:
+
+> **„Příloha č. 20**
+
+> **Půdoochranné technologie pro plodiny s nízkou ochrannou funkcí na mírně erozně ohrožené ploše s vyšším rizikem**
+
+> | Číslo půdoochranné technologie | Půdoochranná technologie |
+> |---|---|
+> | 1. | Zakládání do ochranné plodiny, rostlinných zbytků |
+> | 2. | Odkameňování, důlkování – hrázkování u brambor s ochranným pásem |
+> | 3. | Aplikace organické hmoty s doplňkovou půdoochrannou technologií |
+> | 4. | Podrývání u řepy cukrové, krmné řepy |
+> | 5. | Pásové zpracování půdy |
+> | 6. | Zakládání porostu s pomocnou plodinou |
+
+> **Příloha č. 21**
+
+> **Půdoochranné technologie pro plodiny s nízkou ochrannou funkcí na mírně erozně ohrožené ploše s nižším rizikem**
+
+> | Číslo půdoochranné technologie | Půdoochranná technologie |
+> |---|---|
+> | 1. | Ochranné pásy |
+> | 2. | Obsetí |
+> | 3. | Maximální výměra plodiny 10 hektarů |
+> | 4. | Aplikace organické hmoty |
+> | 5. | Odkameňování, důlkování – hrázkování u brambor |
+> | 6. | Zakládání porostu do úzkých řádků u kukuřice a čiroku |
+> | 7. | Ozelenění kolejových řádků |
+>
+> “.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Právní vztahy vzniklé podle nařízení vlády č. 73/2023 Sb., ve znění účinném přede dnem 1. dubna 2025, se posuzují podle nařízení vlády č. 73/2023 Sb., ve znění účinném přede dnem 1. dubna 2025.
+
+2\. Plodiny vyseté podle přílohy č. 9 k nařízení vlády č. 73/2023 Sb., ve znění účinném přede dnem 1. dubna 2025, se považují za plodiny vyseté podle přílohy č. 9 k nařízení vlády č. 73/2023 Sb., ve znění účinném ode dne 1. dubna 2025.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. dubna 2025, s výjimkou ustanovení čl. I
+
+a) bodů 13, 17, 21, 40, 41 a 52, která nabývají účinnosti dnem 1. července 2025, a
+
+b) bodů 14, 22 a 53, která nabývají účinnosti dnem 1. ledna 2026.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr zemědělství:
+
+Mgr. Výborný v. r.

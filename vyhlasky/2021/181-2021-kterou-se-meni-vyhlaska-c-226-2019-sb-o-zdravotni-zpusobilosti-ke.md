@@ -1,0 +1,116 @@
+---
+title: "Vyhláška č. 181/2021 Sb., kterou se mění vyhláška č. 226/2019 Sb., o zdravotní způsobilosti ke službě v bezpečnostních sborech"
+identifier: "181/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/181/2021-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-04-23
+effective: 2021-07-01
+last_amended: 2021-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/181"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 181/2021 Sb., kterou se mění vyhláška č. 226/2019 Sb., o zdravotní způsobilosti ke službě v bezpečnostních sborech
+
+181
+
+VYHLÁŠKA
+
+ze dne 23. dubna 2021,
+
+kterou se mění vyhláška č. 226/2019 Sb., o zdravotní způsobilosti ke službě v bezpečnostních sborech
+
+Ministerstvo vnitra v dohodě s Ministerstvem financí, Ministerstvem spravedlnosti, Bezpečnostní informační službou, Úřadem pro zahraniční styky a informace, Generální inspekcí bezpečnostních sborů a Ministerstvem zdravotnictví stanoví podle § 15 odst. 6 a § 79 odst. 6 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění zákona č. 247/2017 Sb.:
+
+## Čl. I
+
+Vyhláška č. 226/2019 Sb., o zdravotní způsobilosti ke službě v bezpečnostních sborech, se mění takto:
+
+1\. V § 2 odstavec 1 zní:
+
+> „(1) Vstupní prohlídka se provádí u
+
+> a) občana před přijetím do služebního poměru,
+
+> b) příslušníka před ustanovením na služební místo, pro které je stanoven jiný zvláštní požadavek na zdravotní způsobilost,
+
+> c) příslušníka před ustanovením na jiné služební místo za předpokladu, že se zdravotní způsobilost pro výkon tohoto služebního místa posuzuje podle sloupce zdravotní klasifikace s nižším pořadovým číslem podle oddílu I přílohy č. 1 k této vyhlášce,
+
+> d) příslušníka před ustanovením na služební místo u jiného bezpečnostního sboru na základě požadavku tohoto bezpečnostního sboru,
+
+> e) příslušníka zdravotně způsobilého k výkonu služby s omezením, jestliže má být převeden na jiné služební místo, ustanoven na služební místo po vynětí ze zálohy nebo pověřen zastupováním na jiném služebním místě.“.
+
+2\. V § 2 odst. 2 písm. a) se slova „odstavce 1 písm. a) nebo d)“ nahrazují slovy „odstavce 1 písm. a) nebo b)“.
+
+3\. V § 2 odst. 2 písm. b) se slova „odstavce 1 písm. b) nebo c)“ nahrazují slovy „odstavce 1 písm. c) až e)“.
+
+4\. V § 4 se za odstavec 2 vkládá nový odstavec 3, který zní:
+
+> „(3) Mimořádná prohlídka podle odstavce 2 písm. b) nebo c) se provede nejpozději 1 měsíc před skončením podpůrčí doby pro poskytování nemocenského.“.
+
+Dosavadní odstavec 3 se označuje jako odstavec 4.
+
+5\. § 6 včetně nadpisu zní:
+
+> **„§ 6 – Lékařský posudek o zdravotní způsobilosti**
+
+> (1) Poskytovatel pracovnělékařských služeb vydá na základě pracovnělékařské prohlídky občana nebo příslušníka lékařský posudek o zdravotní způsobilosti. Lékařský posudek o zdravotní způsobilosti musí obsahovat alespoň náležitosti podle vzoru uvedeného v příloze č. 3 nebo 4 k této vyhlášce.
+
+> (2) Lékařský posudek v případě periodické nebo mimořádné prohlídky obsahuje kromě náležitostí uvedených v odstavci 1 také odůvodnění zahrnující popis nemoci, stavu nebo vady, které byly důvodem pro stanovení klasifikační značky „D - 1“ nebo „D - 2“, s uvedením zhodnocení zjištěného zdravotního stavu ve vztahu k výkonu služby na služebním místě, metody použité při zjišťování zdravotní způsobilosti a podklady, z nichž lékařský posudek o zdravotní způsobilosti vychází.
+
+> (3) Při stanovení zdravotní klasifikace „C“ se v posudku stanoví, které služební činnosti, úkoly a povinnosti vyplývající ze služebního místa nesmí příslušník vykonávat.“.
+
+6\. V příloze č. 1 oddíl I včetně nadpisu zní:
+
+> **„Oddíl I – Obecná ustanovení**
+
+> 1\. Zdravotní klasifikace v seznamu nemocí, stavů a vad a přidružených zdravotních problémů (oddíl III) se člení podle zdravotní náročnosti na sloupce I až III, k nim je přiřazena klasifikační značka, která odpovídá příslušné zdravotní způsobilosti občana nebo příslušníka pro výkon služby na služebním místě. Zdravotní klasifikace vyjadřují rozsah schopnosti pro výkon služby v bezpečnostním sboru a jsou jedním z podkladů pro vydání lékařského posudku o zdravotní způsobilosti. Označují se příslušnou klasifikační značkou. Klasifikační značka „A“ vyjadřuje zdravotní způsobilost pro výkon služby nebo pro výkon služby na služebním místě. Klasifikační značka „C“ vyjadřuje zdravotní způsobilost pro výkon služby na služebním místě s omezením některých činností pro výkon služebního místa. Klasifikační značka „D - 1“ vyjadřuje zdravotní nezpůsobilost pro výkon služby na služebním místě, na kterém je ustanoven a pro něž je stanoven jiný zvláštní požadavek na zdravotní způsobilost. Klasifikační značka „D - 2“ vyjadřuje zdravotní nezpůsobilost pro výkon služby v bezpečnostním sboru.
+
+> 2\. Občané a příslušníci se posuzují podle příslušného sloupce zdravotní klasifikace, který je uveden v Seznamu činností pro účely posuzování zdravotní způsobilosti pro výkon služby v bezpečnostních sborech s ohledem na příslušné služební místo.“.
+
+7\. V příloze č. 1 oddílu II část „Policie České republiky“ zní:
+
+> **„Policie České republiky**
+
+> **Podle sloupce I. se posuzují**
+
+> <table><tbody><tr><th>Služební hodnost</th><th>Specifikace vykonávaných činností</th></tr><tr><td colspan="2">1. Specifické činnosti v bezpečnostních sborech</td></tr><tr><td colspan="2">1.3. Policie České republiky</td></tr><tr><td>inspektor<br> (s výjimkou inspektorů SPJ s činností převážně administrativního charakteru)</td><td>bod 5</td></tr><tr><td>vrchní inspektor</td><td>bod 6, 7, 9</td></tr><tr><td>komisař</td><td>bod 5, 13</td></tr><tr><td colspan="2">2. Ostatní činnosti v bezpečnostních sborech</td></tr><tr><td colspan="2">2.3. Policie České republiky</td></tr><tr><td colspan="2">2.3.12. Další činnosti</td></tr><tr><td>inspektor</td><td>bod 1</td></tr></tbody></table>
+
+> **Podle sloupce II. se posuzují**
+
+> <table><tbody><tr><td colspan="2">1. Specifické činnosti v bezpečnostních sborech</td></tr><tr><td colspan="2">1.3. Policie České republiky</td></tr><tr><td>referent</td><td>bod 1, 2, 3</td></tr><tr><td>vrchní referent</td><td>bod 1, 5</td></tr><tr><td>asistent</td><td>bod 1, 2, 3</td></tr><tr><td>vrchní asistent</td><td>bod 1, 2, 3, 4</td></tr><tr><td>inspektor</td><td>bod 4</td></tr><tr><td>vrchní inspektor</td><td>bod 17</td></tr><tr><td>komisař<br> (s výjimkou komisaře s činnosti převážně administrativního charakteru)</td><td>bod 1, 2, 11, 14</td></tr><tr><td>vrchní komisař<br> (s výjimkou vrchního komisaře s činnosti převážně administrativního charakteru)</td><td>bod 1, 2, 7, 8, 9, 10</td></tr><tr><td>rada<br> (s výjimkou rady s činnosti převážně administrativního charakteru)</td><td>bod 2, 4</td></tr><tr><td colspan="2">2. Ostatní činnosti v bezpečnostních sborech</td></tr><tr><td colspan="2">2.3. Policie České republiky</td></tr><tr><td colspan="2">2.3.5. Dopravní činnosti</td></tr><tr><td>inspektor</td><td>bod 1</td></tr><tr><td>vrchní inspektor</td><td>bod 1, 2, 3</td></tr><tr><td>komisař</td><td>bod 1, 2, 3</td></tr><tr><td>vrchní komisař</td><td>bod 1, 2, 3</td></tr><tr><td>rada</td><td>bod 1</td></tr><tr><td>vrchní rada</td><td>bod 1</td></tr><tr><td colspan="2">2.3.9. Činnosti ve výchově a vzděláváni</td></tr><tr><td>inspektor</td><td>bod 1</td></tr><tr><td>vrchní inspektor</td><td>bod 1, 3</td></tr><tr><td>komisař</td><td>bod 5</td></tr><tr><td>vrchní komisař</td><td>bod 4</td></tr><tr><td colspan="2">2.3.12. Další činnosti</td></tr><tr><td>vrchní referent</td><td>bod 1</td></tr><tr><td>asistent</td><td>bod 1, 2</td></tr><tr><td>vrchní asistent</td><td>bod 1, 2</td></tr><tr><td>inspektor</td><td>bod 2</td></tr><tr><td>vrchní inspektor</td><td>bod 3</td></tr></tbody></table>
+
+> **Podle sloupce III. se posuzují**
+
+> <table><tbody><tr><td colspan="2">1. Specifické činnosti v bezpečnostních sborech</td></tr><tr><td colspan="2">1.3. Policie České republiky</td></tr><tr><td>vrchní referent</td><td>bod 2, 3, 4</td></tr><tr><td>inspektor</td><td>bod 1, 2, 3, 6, 7, 8</td></tr><tr><td>vrchní inspektor</td><td>bod 1, 2, 3, 4, 5, 8, 10, 11, 12, 13, 14, 15,16, 18, 19, 20</td></tr><tr><td>komisař</td><td>bod 3, 4, 6, 7, 8, 9, 10, 12</td></tr><tr><td>vrchní komisař</td><td>bod 3, 4, 5, 6, 11, 12, 13, 14</td></tr><tr><td>rada</td><td>bod 1, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</td></tr><tr><td>vrchní rada</td><td>bod 1, 2, 3, 4, 5</td></tr><tr><td>vrchní statni rada</td><td>bod 1, 2</td></tr><tr><td colspan="2">2. Ostatní činnosti v bezpečnostních sborech</td></tr><tr><td colspan="2">2.3. Policie České republiky</td></tr><tr><td colspan="2">2.3.1. Činnosti ve správě</td></tr><tr><td>vrchní inspektor</td><td>bod 1, 2, 3, 4, 5, 6, 7, 8</td></tr><tr><td>komisař</td><td>bod 1, 2, 3, 4, 5</td></tr><tr><td>vrchní komisař</td><td>bod 1, 2, 3, 4, 5, 6</td></tr><tr><td>rada</td><td>bod 1, 2, 3, 4</td></tr><tr><td colspan="2">2.3.2. Činnosti v oboru informačních a komunikačních technologii</td></tr><tr><td>vrchní referent</td><td>bod 1</td></tr><tr><td>asistent</td><td>bod 1, 2, 3</td></tr><tr><td>vrchní asistent</td><td>bod 1, 2, 3, 4</td></tr><tr><td>inspektor</td><td>bod 1, 2, 3, 4</td></tr><tr><td>vrchní inspektor</td><td>bod 1, 2, 3, 4, 5, 6</td></tr><tr><td>komisař</td><td>bod 1, 2, 3, 4, 5</td></tr><tr><td>vrchní komisař</td><td>bod 1, 2, 3, 4, 5, 6, 7, 8</td></tr><tr><td>rada</td><td>bod 1, 2, 3, 4, 5</td></tr><tr><td>vrchní rada</td><td>bod 1</td></tr><tr><td colspan="2">2.3.3. Provozně technické činnosti</td></tr><tr><td>inspektor</td><td>bod 1</td></tr><tr><td>vrchní inspektor</td><td>bod 1, 2</td></tr><tr><td colspan="2">2.3.4. Další specializované činnosti</td></tr><tr><td>komisař</td><td>bod 1</td></tr><tr><td>vrchní komisař</td><td>bod 1, 2, 3</td></tr><tr><td>rada</td><td>bod 1</td></tr><tr><td colspan="2">2.3.6. Správní činnosti</td></tr><tr><td>vrchní inspektor</td><td>bod 1</td></tr><tr><td>komisař</td><td>bod 1</td></tr><tr><td>vrchní komisař</td><td>bod 1, 2</td></tr><tr><td>rada</td><td>bod 1, 2</td></tr><tr><td colspan="2">2.3.7. Činnosti při zabezpečování protokolárních akcí a při realizaci dokumentárních a instruktážních multimediálních záznamů</td></tr><tr><td>asistent</td><td>bod 1</td></tr><tr><td>inspektor</td><td>bod 1</td></tr><tr><td>vrchní inspektor</td><td>bod 1, 2</td></tr><tr><td>komisař</td><td>bod 1</td></tr><tr><td>vrchní komisař</td><td>bod 1</td></tr><tr><td>rada</td><td>bod 1</td></tr><tr><td colspan="2">2.3.8. Činnosti výzkumné a vývojové</td></tr><tr><td>vrchní komisař</td><td>bod 1</td></tr><tr><td>rada</td><td>bod 1, 2</td></tr><tr><td>vrchní rada</td><td>bod 1, 2</td></tr><tr><td>vrchní státní rada</td><td>bod 1, 2</td></tr><tr><td colspan="2">2.3.9. Činnosti ve výchově a vzdělávání</td></tr><tr><td>vrchní inspektor</td><td>bod 2, 4</td></tr><tr><td>komisař</td><td>bod 1, 2, 3, 4, 6</td></tr><tr><td>vrchní komisař</td><td>bod 1, 2, 3, 5</td></tr><tr><td>rada</td><td>bod 1, 2, 3, 4</td></tr><tr><td>vrchní rada</td><td>bod 1, 2</td></tr><tr><td>vrchní státní rada</td><td>bod 1</td></tr><tr><td colspan="2">2.3.10. Činnost v chovu a výcviku služebních zvířat</td></tr><tr><td>vrchní asistent</td><td>bod 1</td></tr><tr><td>inspektor</td><td>bod 1</td></tr><tr><td>vrchní inspektor</td><td>bod 1</td></tr><tr><td>komisař</td><td>bod 1, 2</td></tr><tr><td>vrchní komisař</td><td>bod 1</td></tr><tr><td>rada</td><td>bod 1</td></tr><tr><td colspan="2">2.3.11. Činnosti zdravotnické</td></tr><tr><td>vrchní asistent</td><td>bod 1</td></tr><tr><td>inspektor</td><td>bod 1</td></tr><tr><td>vrchní inspektor</td><td>bod 1</td></tr><tr><td>rada</td><td>bod 1, 2</td></tr><tr><td>vrchní rada</td><td>bod 1</td></tr><tr><td colspan="2">2.3.12. Další činnosti</td></tr><tr><td>vrchní inspektor</td><td>bod 1, 2, 4, 5</td></tr><tr><td>komisař</td><td>bod 1, 2, 3, 4, 5</td></tr><tr><td>vrchní komisař</td><td>bod 1, 2, 3“.</td></tr></tbody></table>
+
+8\. V příloze č. 1 oddílu II části „Hasičský záchranný sbor České republiky“ se věta poslední pod nadpisem „Podle sloupce III. se posuzují“ nahrazuje větou „Jestliže je příslušník zařazen v jednotce hasičského záchranného sboru kraje, v jednotce generálního ředitelství Hasičského záchranného sboru České republiky nebo v jednotce záchranného útvaru Hasičského záchranného sboru České republiky nebo zajišťuje doplnění minimálních početních stavů v této jednotce, je posuzován podle sloupce II.“.
+
+9\. Přílohy č. 3 a 4 znějí:
+
+> **„Příloha č. 3 k vyhlášce č. 226/2019 Sb.**
+
+> **Vzor lékařského posudku o zdravotní způsobilosti občana**
+
+> **![sbcr2021c075z0181p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832583/NAHLED/ZOBRAZ/sbcr2021c075z0181p003u001)**
+
+> **Příloha č. 4 k vyhlášce č. 226/2019 Sb.**
+
+> **Vzor lékařského posudku o zdravotní způsobilosti příslušníka**
+
+> **![sbcr2021c075z0181p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832585/NAHLED/ZOBRAZ/sbcr2021c075z0181p004u001)“.**
+
+## Čl. II – Přechodné ustanovení
+
+Pokud byl pro řízení ve věcech služebního poměru, které nebylo pravomocně skončeno přede dnem nabytí účinnosti této vyhlášky, vydán lékařský posudek o zdravotní způsobilosti podle vyhlášky č. 393/2006 Sb., o zdravotní způsobilosti, nebo podle vyhlášky č. 226/2019 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, sdělí poskytovatel pracovnělékařských služeb na žádost služebního funkcionáře údaje v rozsahu odůvodnění posudku o zdravotní způsobilosti podle vyhlášky č. 226/2019 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2021.
+
+Ministr:
+
+Hamáček v. r.

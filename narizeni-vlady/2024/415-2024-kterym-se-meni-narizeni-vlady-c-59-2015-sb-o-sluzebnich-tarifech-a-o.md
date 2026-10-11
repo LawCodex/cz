@@ -1,0 +1,67 @@
+---
+title: "Nařízení vlády č. 415/2024 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů"
+identifier: "415/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/415/2025-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-12-11
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/415"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 415/2024 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+415
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 11. prosince 2024,
+
+kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 68 odst. 2 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 332/2014 Sb.:
+
+## Čl. I
+
+V § 2 nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění nařízení vlády č. 282/2015 Sb., nařízení vlády č. 346/2016 Sb., nařízení vlády č. 427/2016 Sb., nařízení vlády č. 175/2017 Sb., nařízení vlády č. 328/2017 Sb., nařízení vlády č. 305/2018 Sb., nařízení vlády č. 322/2019 Sb., nařízení vlády č. 533/2021 Sb. a nařízení vlády č. 420/2022 Sb., odstavec 1 zní:
+
+> „(1) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 2 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | ve výši minimální mzdy |
+> | Svobodník | 31 810 |
+> | Desátník | 33 390 |
+> | Četař | 35 130 |
+> | Rotný | 40 310 |
+> | Rotmistr | 42 910 |
+> | Nadrotmistr | 45 530 |
+> | Praporčík | 48 410 |
+> | Nadpraporčík | 51 550 |
+> | Štábní praporčík | 65 990 |
+> | Poručík | 45 790 |
+> | Nadporučík | 51 550 |
+> | Kapitán | 58 780 |
+> | Major | 65 990 |
+> | Podplukovník | 73 210 |
+> | Plukovník | 87 650 |
+> | Brigádní generál | 102 080 |
+> | Generálmajor | 116 490 |
+> | Generálporučík | 130 930 |
+> | Armádní generál | 145 350.“. |
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2025.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministryně obrany:
+
+Mgr. Černochová v. r.

@@ -1,0 +1,119 @@
+---
+title: "Vyhláška č. 102/2026 Sb., o službě zdraví škodlivé nebo zvlášť obtížné a o okruhu služebních zařazení pro poskytování preventivní rehabilitace vojákům z povolání"
+identifier: "102/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/102/2027-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2026-06-16
+effective: 2027-01-01
+last_amended: 2027-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/102"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 102/2026 Sb., o službě zdraví škodlivé nebo zvlášť obtížné a o okruhu služebních zařazení pro poskytování preventivní rehabilitace vojákům z povolání
+
+102
+
+VYHLÁŠKA
+
+ze dne 16. června 2026
+
+o službě zdraví škodlivé nebo zvlášť obtížné a o okruhu služebních zařazení pro poskytování preventivní rehabilitace vojákům z povolání
+
+Ministerstvo obrany po dohodě s Ministerstvem zdravotnictví stanoví podle § 37 a § 97 odst. 6 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 254/2002 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví
+
+a) službu zdraví škodlivou nebo zvlášť obtížnou,
+
+b) okruh služebních zařazení pro poskytování preventivní rehabilitace.
+
+## § 2 – Služba zdraví škodlivá nebo zvlášť obtížná
+
+Za službu zdraví škodlivou nebo zvlášť obtížnou se pro účely zvláštní dovolené považuje služba vojáka z povolání (dále jen „voják“), který
+
+a) je při výkonu služby vystaven nepříznivým účinkům ionizujícího záření a je radiačním pracovníkem kategorie A podle vyhlášky o radiační ochraně a zabezpečení radionuklidového zdroje<sup>1</sup>),
+
+b) vykonává práce s chemickými látkami nebo směsmi klasifikovanými jako karcinogeny kategorie 1A nebo mutageny kategorie 1A nebo látky toxické pro reprodukci kategorie 1A<sup>2</sup>), s cytostatiky nebo prachem tvrdých dřev, anebo pracovní procesy s rizikem chemické karcinogenity<sup>3</sup>), jsou-li práce zařazeny do kategorie třetí nebo čtvrté pro faktor chemické látky a směsi<sup>4</sup>),
+
+c) je při výkonu služby vystaven působení prachu, jehož průměrné celosměnové koncentrace v pracovním ovzduší jsou vyšší než trojnásobek hodnoty přípustného expozičního limitu stanoveného nařízením vlády, kterým se stanoví podmínky ochrany zdraví při práci<sup>5</sup>) a práce je zařazena do kategorie čtvrté pro faktor prach<sup>4</sup>),
+
+d) je při výkonu služby vystaven působení chemických látek, jejichž průměrné celosměnové koncentrace v pracovním ovzduší překračují trojnásobek hodnoty jejich přípustného expozičního limitu stanoveného nařízením vlády, kterým se stanoví podmínky ochrany zdraví při práci<sup>5</sup>) a práce je zařazena do kategorie čtvrté pro faktor chemické látky a směsi<sup>4</sup>),
+
+e) je při výkonu služby vystaven působení směsi chemických látek s předpokládaným aditivním účinkem, jestliže součet podílů celosměnových průměrných koncentrací jednotlivých chemických látek v ovzduší z jejich hodnot přípustného expozičního limitu je roven 2 nebo je vyšší, a práce je zařazena do kategorie čtvrté pro faktor chemické látky a směsi<sup>4</sup>),
+
+f) vykonává činnosti s toxickými chemickými látkami, uvedenými v Úmluvě o zákazu vývoje, výroby, hromadění zásob a použití chemických zbraní a o jejich zničení<sup>6</sup>), a to alespoň v rozsahu poloviny základní týdenní doby služby,
+
+g) je při výkonu služby vystaven ustálenému nebo proměnnému hluku nebo impulsnímu hluku, jehož ekvivalentní hladina akustického tlaku A L<sub>Aeq,8h</sub> překračuje 105 dB, nebo impulsnímu hluku, jehož hladina špičkového akustického tlaku C L<sub>cpeak</sub> je vyšší než 150 dB, je-li práce zařazena do kategorie čtvrté pro faktor hluk<sup>4</sup>),
+
+h) vykonává službu při přímém ošetřování nebo obsluze pacientů s duševními poruchami na lůžkové části psychiatrického oddělení nemocnice alespoň v rozsahu poloviny základní týdenní doby služby,
+
+i) vykonává službu, jejíž obvyklou součástí jsou činnosti spojené s vědomým záměrem zacházet s biologickými činiteli skupin 2, 3 nebo 4 nebo jejich zdroji nebo přenášeči, a práce je zařazena do třetí nebo čtvrté kategorie pro faktor biologické činitele<sup>4</sup>),
+
+j) jako zdravotnický pracovník vykonává činnosti při poskytování zdravotnické záchranné služby<sup>7</sup>) alespoň v rozsahu poloviny základní týdenní doby služby,
+
+k) vykonává službu jako hasič zařazený do kategorie I. pro posouzení zdravotní způsobilosti podle nařízení vlády o posuzování zdravotní způsobilosti zaměstnanců jednotek hasičských záchranných sborů podniků a členů jednotek sborů dobrovolných hasičů obcí nebo podniků<sup>8</sup>),
+
+l) vykonává službu jako potápěč za zvýšeného tlaku ve skafandru nebo vykonává speciální práce pod vodou při použití potápěčského přístroje s přetlakovým přívodem vzduchu hadicí, kyslíkového přístroje s regenerací vzduchu, anebo provádí kesonovací práce ve stlačeném vzduchu v pracovních komorách,
+
+m) vykonává službu jako pyrotechnik,
+
+n) vykonává službu při výrobě, laboraci, delaboraci, údržbě, manipulaci, zpracování nebo zkoušení munice a výbušnin,
+
+o) vykonává službu v tropických nebo jinak zdravotně obtížných oblastech<sup>9</sup>).
+
+## § 3 – Okruh služebních zařazení pro poskytování preventivní rehabilitace
+
+Preventivní rehabilitace se poskytuje vojákovi, který je služebně zařazen
+
+a) na služebním místě, na kterém vykonává rizikovou práci zařazenou do třetí nebo čtvrté kategorie podle vyhlášky, kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli<sup>4</sup>),
+
+b) u útvarů speciálních sil,
+
+c) na služebním místě, na kterém trvale vykonává práci na pracovišti bez denního světla,
+
+d) jako výkonný vojenský letec nebo vojenský obsluhující personál,
+
+e) při přímém řízení letového provozu nebo jako příslušník technického personálu při přímém zabezpečení letového provozu ve 24hodinových směnách,
+
+f) jako výkonný příslušník operativního útvaru a zvláštního pracoviště v přímém výkonu odborné činnosti Vojenského zpravodajství,
+
+g) ve Vojenské policii jako příslušník kriminální, dopravní a pořádkové nebo ochranné služby.
+
+## § 4 – Zrušovací ustanovení
+
+Vyhláška č. 281/1999 Sb., kterou se stanoví služba zdraví škodlivá nebo zvlášť obtížná a okruh služebních zařazení pro poskytování preventivní rehabilitace, se zrušuje.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2027.
+
+Ministr:
+
+Mgr. Ing. Zůna, MSc., Ph.D., v. r.
+
+---
+
+<sup>1</sup>) § 20 odst. 2 vyhlášky č. 422/2016 Sb., o radiační ochraně a zabezpečení radionuklidového zdroje.
+
+<sup>2</sup>) Oddíl 3.5 až 3.7 přílohy I k nařízení Evropského parlamentu a Rady (ES) č. 1272/2008 ze dne 16. prosince 2008 o klasifikaci, označování a balení látek a směsí, o změně a zrušení směrnic 67/548/EHS a 1999/45/ES a o změně nařízení (ES) č. 1907/2006, v platném znění.
+
+<sup>3</sup>) Část C přílohy č. 2 k nařízení vlády č. 361/2007 Sb., kterým se stanoví podmínky ochrany zdraví při práci, ve znění pozdějších předpisů.
+
+<sup>4</sup>) § 37 až 39 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů. 
+Příloha č. 1 k vyhlášce č. 432/2003 Sb., kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Část A přílohy č. 3 k nařízení vlády č. 361/2007 Sb.
+
+<sup>6</sup>) Seznam I přílohy o chemických látkách k Úmluvě o zákazu vývoje, výroby, hromadění zásob a použití chemických zbraní a o jejich zničení, vyhlášené pod č. 14/2009 Sb. m. s.
+
+<sup>7</sup>) § 4 zákona č. 374/2011 Sb., o zdravotnické záchranné službě, ve znění pozdějších předpisů.
+
+<sup>8</sup>) Nařízení vlády č. 352/2003 Sb., o posuzování zdravotní způsobilosti zaměstnanců jednotek hasičských záchranných sborů podniků a členů jednotek sborů dobrovolných hasičů obcí nebo podniků.
+
+<sup>9</sup>) Vyhláška č. 600/2006 Sb., o stanovení tropických nebo jinak zdravotně obtížných oblastí pro účely dodatkové dovolené.

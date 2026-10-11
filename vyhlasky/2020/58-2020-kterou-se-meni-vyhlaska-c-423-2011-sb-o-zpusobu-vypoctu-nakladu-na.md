@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 58/2020 Sb., kterou se mění vyhláška č. 423/2011 Sb., o způsobu výpočtu nákladů na činnost odborného lesního hospodáře v případech, kdy jeho činnost hradí stát"
+identifier: "58/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/58/2020-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-02-25
+effective: 2020-04-01
+last_amended: 2020-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/58"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 58/2020 Sb., kterou se mění vyhláška č. 423/2011 Sb., o způsobu výpočtu nákladů na činnost odborného lesního hospodáře v případech, kdy jeho činnost hradí stát
+
+58
+
+VYHLÁŠKA
+
+ze dne 25. února 2020,
+
+kterou se mění vyhláška č. 423/2011 Sb., o způsobu výpočtu nákladů na činnost odborného lesního hospodáře v případech, kdy jeho činnost hradí stát
+
+Ministerstvo zemědělství stanoví podle § 37 odst. 11 zákona č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění zákona č. 314/2019 Sb.:
+
+## Čl. I
+
+V § 1 odst. 2 vyhlášky č. 423/2011 Sb., o způsobu výpočtu nákladů na činnost odborného lesního hospodáře v případech, kdy jeho činnost hradí stát, se částka „1,20“ nahrazuje částkou „1,60“.
+
+## Čl. II – Přechodné ustanovení
+
+Pro výpočet nákladů na činnost odborného lesního hospodáře v případech, kdy jeho činnost hradí stát, za první čtvrtletí roku 2020 se použije sazba podle § 1 odst. 2 vyhlášky č. 423/2011 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2020.
+
+Ministr:
+
+Ing. Toman, CSc., v. r.

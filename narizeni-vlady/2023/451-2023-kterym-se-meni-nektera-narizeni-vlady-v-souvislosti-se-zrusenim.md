@@ -1,0 +1,60 @@
+---
+title: "Nařízení vlády č. 451/2023 Sb., kterým se mění některá nařízení vlády v souvislosti se zrušením technických průkazů vozidel"
+identifier: "451/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/451/2025-03-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2023-12-20
+effective: 2024-01-01
+last_amended: 2025-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/451"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 451/2023 Sb., kterým se mění některá nařízení vlády v souvislosti se zrušením technických průkazů vozidel
+
+451
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 20. prosince 2023,
+
+kterým se mění některá nařízení vlády v souvislosti se zrušením technických průkazů vozidel
+
+Vláda nařizuje podle § 36 odst. 1 zákona č. 194/2010 Sb., o veřejných službách v přepravě cestujících a o změně dalších zákonů, k provedení § 8 odst. 4 tohoto zákona, podle § 46 odst. 9 zákona č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění zákona č. 501/2012 Sb., a podle § 14 odst. 8 zákona č. 201/2012 Sb., o ochraně ovzduší:
+
+## ČÁST PRVNÍ – Změna nařízení vlády o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících
+
+### Čl. I
+
+V § 4 odst. 3 nařízení vlády č. 63/2011 Sb., o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících, se slova „technickými průkazy zapsaných silničních motorových vozidel“ nahrazují slovy „osvědčeními o registraci silničního vozidla“.
+
+## ČÁST DRUHÁ – Změna nařízení vlády o stanovení závazných pravidel poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti
+
+### Čl. II
+
+Nařízení vlády č. 30/2014 Sb., o stanovení závazných pravidel poskytování finančních příspěvků na hospodaření v lesích a na vybrané myslivecké činnosti, ve znění nařízení vlády č. 308/2014 Sb., nařízení vlády č. 51/2015 Sb., nařízení vlády č. 209/2016 Sb., nařízení vlády č. 245/2018 Sb., nařízení vlády č. 297/2020 Sb. a nařízení vlády č. 455/2021 Sb., se mění takto:
+
+1\. V § 3 odst. 5 větě poslední se slova „technického průkazu,“ zrušují.
+
+2\. V § 3 se na konci textu odstavce 5 doplňují slova „nebo, jde-li o vozidlo zapsané v registru silničních vozidel, kopie osvědčení o registraci vozidla“.
+
+### Čl. III – Přechodné ustanovení
+
+K žádosti o poskytnutí finančního příspěvku podle § 3 odst. 3 písm. c) nařízení vlády č. 30/2014 Sb. se v případě, že bylo osvědčení o registraci vozidla k vyvážecímu stroji vydáno přede dnem 1. ledna 2024, předkládá namísto kopie tohoto osvědčení kopie technického průkazu podle zákona č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění účinném přede dnem 1. ledna 2024.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. VI
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2024.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr dopravy:
+
+Mgr. Kupka v. r.

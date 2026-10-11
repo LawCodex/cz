@@ -1,0 +1,70 @@
+---
+title: "Nařízení vlády č. 317/2021 Sb., o postupu notáře při legalizaci elektronického podpisu"
+identifier: "317/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/317/2021-09-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2021-08-23
+effective: 2021-09-01
+last_amended: 2021-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/317"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 317/2021 Sb., o postupu notáře při legalizaci elektronického podpisu
+
+317
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 23. srpna 2021
+
+o postupu notáře při legalizaci elektronického podpisu
+
+Vláda nařizuje k provedení § 74a odst. 4 zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění zákona č. 300/2021 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje formát a náležitosti dokumentu v elektronické podobě, u nějž lze provést legalizaci elektronického podpisu, a postup při provádění legalizace na dokumentu v elektronické podobě.
+
+## § 2 – Formát a náležitosti dokumentu
+
+(1) Dokument podepsaný elektronickým podpisem, který má být legalizován, musí být ve formátu Portable Document Format verze 1.3 a vyšší nebo ve formátu Portable Document Format/Archive a notář nebo jeho pracovník pověřený podle notářského řádu<sup>1</sup>) (dále jen „notář“) jej přijme prostřednictvím
+
+a) datového úložiště elektronické aplikace Centrálního informačního systému Notářské komory České republiky,
+
+b) elektronické pošty, nebo
+
+c) datové schránky.
+
+(2) Notář nemůže přijmout dokument prostřednictvím přenosného technického nosiče dat.
+
+(3) Dokument podepsaný elektronickým podpisem, který má být legalizován, nesmí obsahovat škodlivý kód, který je způsobilý přivodit újmu na Centrálním informačním systému Notářské komory České republiky nebo na programovém vybavení notáře, který legalizaci provádí.
+
+(4) Elektronický podpis na dokumentu musí být viditelný, nejedná-li se o elektronický podpis založený na certifikátu.
+
+(5) Nesplňuje-li dokument požadavky podle odstavce 1, 3 nebo 4, nebo je-li zjištěno porušení integrity dokumentu, notář legalizaci neprovede.
+
+## § 3 – Postup při provádění legalizace na dokumentu v elektronické podobě
+
+(1) K dokumentu, který splňuje náležitosti podle § 2, připojí notář ověřovací doložku, kterou podepíše kvalifikovaným elektronickým podpisem notáře, a k elektronickému podpisu připojí kvalifikované elektronické časové razítko. Ověřovací doložku spojí s elektronicky podepsaným dokumentem prostřednictvím kontejneru ve formátu Associated Signature Containers – Extended (ASiC-E) tak, aby nedošlo k porušení integrity dokumentu, na němž je elektronický podpis legalizován.
+
+(2) Dokument, na kterém byla provedena legalizace, předá notář po jejím provedení žadateli. Pro způsob předání platí § 2 odst. 1 a 2 obdobně.
+
+## § 4 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. září 2021.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministryně spravedlnosti:
+
+Mgr. Benešová v. r.
+
+---
+
+<sup>1</sup>) § 19 a 23 a § 26 odst. 1 zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů.

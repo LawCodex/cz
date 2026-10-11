@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 455/2024 Sb., kterou se mění vyhláška č. 186/2017 Sb., o stanovení formulářů pro závazek k úhradě nákladů na konzulární ochranu a formuláře žádosti o náhradu výdajů"
+identifier: "455/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/455/2025-12-08"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-12-13
+effective: 2025-12-08
+last_amended: 2025-12-08
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/455"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 455/2024 Sb., kterou se mění vyhláška č. 186/2017 Sb., o stanovení formulářů pro závazek k úhradě nákladů na konzulární ochranu a formuláře žádosti o náhradu výdajů
+
+455
+
+VYHLÁŠKA
+
+ze dne 13. prosince 2024,
+
+kterou se mění vyhláška č. 186/2017 Sb., o stanovení formulářů pro závazek k úhradě nákladů na konzulární ochranu a formuláře žádosti o náhradu výdajů
+
+Ministerstvo zahraničních věcí stanoví podle § 29 odst. 4 zákona č. 150/2017 Sb., o zahraniční službě a o změně některých zákonů (zákon o zahraniční službě):
+
+## Čl. I
+
+Vyhláška č. 186/2017 Sb., o stanovení formulářů pro závazek k úhradě nákladů na konzulární ochranu a formuláře žádosti o náhradu výdajů, se mění takto:
+
+1\. V § 1 se slova „příslušný předpis“ nahrazují slovy „příslušné předpisy“.
+
+2\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Směrnice Rady (EU) 2019/997 ze dne 18. června 2019, kterou se zavádí náhradní cestovní doklad EU a zrušuje rozhodnutí 96/409/SZBP.“.
+
+3\. V příloze č. 1 nadpisu části A. a nadpisu části B. se za slova „o zrušení rozhodnutí 95/553/ES“ doplňují slova „a čl. 5 odst. 3 směrnice Rady (EU) 2019/997 ze dne 18. června 2019, kterou se zavádí náhradní cestovní doklad EU a zrušuje rozhodnutí 96/409/SZBP“.
+
+4\. V příloze č. 2 se v nadpisu za slova „o zrušení rozhodnutí 95/553/ES“ doplňují slova „a čl. 5 odst. 3 směrnice Rady (EU) 2019/997 ze dne 18. června 2019, kterou se zavádí náhradní cestovní doklad EU a zrušuje rozhodnutí 96/409/SZBP“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 8. prosince 2025.
+
+Ministr:
+
+Bc. Lipavský v. r.

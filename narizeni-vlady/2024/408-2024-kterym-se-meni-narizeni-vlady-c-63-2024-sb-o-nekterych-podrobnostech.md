@@ -1,0 +1,66 @@
+---
+title: "Nařízení vlády č. 408/2024 Sb., kterým se mění nařízení vlády č. 63/2024 Sb., o některých podrobnostech poskytování ubytování a souvisejících služeb osobám s udělenou dočasnou ochranou"
+identifier: "408/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/408/2025-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-12-11
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/408"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 408/2024 Sb., kterým se mění nařízení vlády č. 63/2024 Sb., o některých podrobnostech poskytování ubytování a souvisejících služeb osobám s udělenou dočasnou ochranou
+
+408
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 11. prosince 2024,
+
+kterým se mění nařízení vlády č. 63/2024 Sb., o některých podrobnostech poskytování ubytování a souvisejících služeb osobám s udělenou dočasnou ochranou
+
+Vláda nařizuje podle § 6b odst. 1 zákona č. 65/2022 Sb., o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění zákona č. 198/2022 Sb. a zákona č. 75/2023 Sb.:
+
+## Čl. I
+
+Příloha k nařízení vlády č. 63/2024 Sb., o některých podrobnostech poskytování ubytování a souvisejících služeb osobám s udělenou dočasnou ochranou, zní:
+
+> **„Příloha**
+
+> **Rozložení ubytovacích kapacit v České republice**
+
+> | **Název kraje** | **Ubytovací kapacita** |
+> |---|---|
+> | Hlavní město Praha | 3 676 |
+> | Středočeský kraj | 2 343 |
+> | Jihočeský kraj | 1 179 |
+> | Plzeňský kraj | 1 150 |
+> | Karlovarský kraj | 526 |
+> | Ústecký kraj | 1 379 |
+> | Liberecký kraj | 753 |
+> | Královéhradecký kraj | 962 |
+> | Pardubický kraj | 893 |
+> | Kraj Vysočina | 943 |
+> | Jihomoravský kraj | 2 121 |
+> | Olomoucký kraj | 1 071 |
+> | Zlínský kraj | 943 |
+> | Moravskoslezský kraj | 2 061 |
+> | **Celkem** | **20 000** |
+>
+> “.
+
+### Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2025.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Mgr. Bc. Rakušan v. r.

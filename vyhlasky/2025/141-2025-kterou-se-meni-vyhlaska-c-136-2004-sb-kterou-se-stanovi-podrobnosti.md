@@ -1,0 +1,170 @@
+---
+title: "Vyhláška č. 141/2025 Sb., kterou se mění vyhláška č. 136/2004 Sb., kterou se stanoví podrobnosti označování zvířat a jejich evidence a evidence hospodářství a osob stanovených plemenářským zákonem, ve znění pozdějších předpisů, a vyhláška č. 448/2006 Sb., o provedení některých ustanovení plemenářského zákona, ve znění pozdějších předpisů"
+identifier: "141/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/141/2025-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-05-15
+effective: 2025-06-01
+last_amended: 2025-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/141"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 141/2025 Sb., kterou se mění vyhláška č. 136/2004 Sb., kterou se stanoví podrobnosti označování zvířat a jejich evidence a evidence hospodářství a osob stanovených plemenářským zákonem, ve znění pozdějších předpisů, a vyhláška č. 448/2006 Sb., o provedení některých ustanovení plemenářského zákona, ve znění pozdějších předpisů
+
+141
+
+VYHLÁŠKA
+
+ze dne 15. května 2025,
+
+kterou se mění vyhláška č. 136/2004 Sb., kterou se stanoví podrobnosti označování zvířat a jejich evidence a evidence hospodářství a osob stanovených plemenářským zákonem, ve znění pozdějších předpisů, a vyhláška č. 448/2006 Sb., o provedení některých ustanovení plemenářského zákona, ve znění pozdějších předpisů
+
+Ministerstvo zemědělství stanoví podle § 33 zákona č. 154/2000 Sb., o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon), ve znění zákona č. 282/2003 Sb., zákona č. 130/2006 Sb., zákona č. 60/2017 Sb., zákona č. 3/2019 Sb. a zákona č. 70/2025 Sb., (dále jen „zákon“) k provedení § 17 odst. 5, § 22 odst. 12, § 23 odst. 5, § 23a odst. 4, § 23b odst. 8, § 23c odst. 4 a § 24 odst. 12 zákona:
+
+## ČÁST PRVNÍ – Změna vyhlášky, kterou se stanoví podrobnosti označování zvířat a jejich evidence a evidence hospodářství a osob stanovených plemenářským zákonem
+
+### Čl. I
+
+Vyhláška č. 136/2004 Sb., kterou se stanoví podrobnosti označování zvířat a jejich evidence a evidence hospodářství a osob stanovených plemenářským zákonem, ve znění vyhlášky č. 199/2007 Sb., vyhlášky č. 213/2009 Sb., vyhlášky č. 202/2010 Sb., vyhlášky č. 64/2013 Sb., vyhlášky č. 5/2016 Sb., vyhlášky č. 449/2017 Sb., vyhlášky č. 174/2019 Sb. a vyhlášky č. 130/2023 Sb., se mění takto:
+
+1\. V § 10 odst. 5 a 6 se věta poslední zrušuje.
+
+2\. V § 18 odst. 2 se na konci textu věty první doplňují slova „ , nejpozději však třicátý čtvrtý den po jeho narození“.
+
+3\. V § 37 odst. 2 se slova „a průvodní listy skotu“ zrušují.
+
+4\. V § 38 odst. 1 písm. e) bodě 4 se slovo „tisku“ nahrazuje slovem „vystavení“ a slovo „duplikátů“ se nahrazuje slovem „pořadí“.
+
+5\. § 39 včetně nadpisu a poznámky pod čarou č. 38 zní:
+
+> **„§ 39 – Průvodní list skotu**
+
+> (1) Průvodní list skotu vystavuje chovateli turů pověřená osoba<sup>4</sup>) v elektronické podobě, prostřednictvím jeho zpřístupnění v informačním systému ústřední evidence. V případě žádosti chovatele o zaslání průvodního listu skotu je průvodní list skotu pověřenou osobou zaslán chovateli nejpozději do 14 dnů od doručení této žádosti.
+
+> (2) Průvodní list skotu musí obsahovat
+
+> a) identifikační číslo zvířete,
+
+> b) typ elektronického identifikátoru, je-li jím zvíře označeno,
+
+> c) datum narození zvířete,
+
+> d) pohlaví zvířete,
+
+> e) plemennou příslušnost; není-li známa, barvu zvířete,
+
+> f) identifikační číslo a plemennou příslušnost matky zvířete,
+
+> g) označení otce zvířete v ústředním registru plemeníků a plemennou příslušnost otce zvířete, je-li znám,
+
+> h) název pověřené osoby<sup>4</sup>), která průvodní list skotu vystavila,
+
+> i) datum a čas vystavení průvodního listu skotu,
+
+> j) pořadí vystavení průvodního listu skotu,
+
+> k) registrační číslo hospodářství, v němž se zvíře narodilo,
+
+> l) dosavadní přísuny zvířete, jak jsou zaznamenány v informačním systému ústřední evidence v okamžiku jeho vystavení:
+
+> 1\. datum přísunu,
+
+> 2\. registrační číslo hospodářství, provozovny jatek, obchodníka, zařízení pro svody, uživatelského zařízení, kam bylo zvíře přisunuto, a
+
+> 3\. jméno, případně jména, a příjmení, nebo název a adresa místa trvalého pobytu nebo bydliště, jde-li o cizince, nebo sídla chovatele, provozovatele, obchodníka, který zvíře přisunul,
+
+> m) čárový kód vyjadřující identifikační číslo zvířete,
+
+> n) QR kód obsahující identifikační číslo zvířete a další údaje o zvířeti,
+
+> o) ochranný prvek ve formě kontrolního kódu,
+
+> p) údaje uvedené v nařízení o nákazách zvířat<sup>38</sup>) a
+
+> q) jméno, případně jména, a příjmení, nebo název a adresu místa trvalého pobytu nebo bydliště, jde-li o cizince, nebo sídla chovatele, kterému byl průvodní list skotu vystaven.
+
+> (3) Vystavením nového průvodního listu skotu podle odstavce 1 pozbývá předchozí průvodní list skotu platnosti.
+
+> (4) Při přemístění zvířete do jiného členského státu nebo při vývozu zvířete do třetí země je zvíře doprovázeno průvodním listem skotu. Průvodní list skotu předává spolu se zvířaty chovatel, provozovatel nebo obchodník, z jehož hospodářství nebo provozovny je zvíře přemísťováno do zahraničí. Tato povinnost neplatí v případě přemístění zvířete do členského státu, se kterým probíhá výměna elektronických údajů podle článku 110 odst. 1 písm. b) nařízení o nákazách zvířat<sup>38</sup>).
+
+> (5) Při přemístění zvířete z jiného členského státu předá neprodleně chovatel, nebo provozovatel v případě přímého přemístění na provozovnu jatek, jeho zahraniční průvodní list skotu pověřené osobě, která tuto skutečnost zaeviduje. Tato povinnost neplatí v případě přemístění zvířete z členského státu, se kterým probíhá výměna elektronických údajů podle článku 110 odst. 1 písm. b) nařízení o nákazách zvířat<sup>38</sup>).
+
+> (6) Vzor průvodního listu skotu je uveden v příloze č. 7.
+
+> <sup>38</sup>) Nařízení Evropského parlamentu a Rady (EU) 2016/429 ze dne 9. března 2016 o nákazách zvířat a o změně a zrušení některých aktů v oblasti zdraví zvířat („právní rámec pro zdraví zvířat“), v platném znění.“.
+
+6\. § 40 se včetně nadpisu zrušuje.
+
+7\. V § 41 se na konci odstavce 1 doplňuje věta „Pro místo svodu zvířat se registr koňovitých nevede.“.
+
+8\. V § 41 se na konci odstavce 5 tečka nahrazuje čárkou a doplňuje se písmeno f), které zní:
+
+> „f) účel příchodu koňovitého na hospodářství.“.
+
+9\. V § 48 odst. 2 se za slovo „utracení,“ vkládají slova „účel příchodu koňovitého na hospodářství,“.
+
+10\. V § 52 se doplňuje odstavec 7, který zní:
+
+> „(7) Narození prasat se zapisuje do registru prasat v den jejich označení v souladu s § 18 odst. 2.“.
+
+11\. V § 53 se na konci odstavce 2 doplňuje věta „V případě narození prasat se zasílá hlášení pověřené osobě<sup>4</sup>) do 7 dnů od jejich označení v souladu s § 18 odst. 2.“.
+
+12\. Za § 82a se vkládá nový § 82b, který včetně nadpisu zní:
+
+> **„§ 82b – Vyřazení z registru chovatelů včel**
+
+> V případě, kdy v registru chovatelů včel není 3 po sobě jdoucí kalendářní roky evidováno hlášení počtu včelstev a umístění stanovišť k 1. září kalendářního roku, bude chovatel k 31. červenci následujícího kalendářního roku vyřazen z registru chovatelů včel. Tím není dotčena povinnost uvedená v § 31 odst. 2.“.
+
+13\. V § 99 se odstavec 1 zrušuje a zároveň se zrušuje označení odstavce 2.
+
+14\. V příloze č. 7 část 3 zní:
+
+> „3. Vzor průvodního listu skotu
+
+> **![sbcr2025c141z0141u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436097/NAHLED/ZOBRAZ/sbcr2025c141z0141u001)“.**
+
+15\. V příloze č. 7 se část 4 zrušuje.
+
+## ČÁST DRUHÁ – Změna vyhlášky o provedení některých ustanovení plemenářského zákona
+
+### Čl. II
+
+Vyhláška č. 448/2006 Sb., o provedení některých ustanovení plemenářského zákona, ve znění vyhlášky č. 57/2011 Sb., vyhlášky č. 64/2013 Sb. a vyhlášky č. 334/2019 Sb., se mění takto:
+
+1\. V příloze č. 6 tabulka č. 11 zní:
+
+> **„Tabulka č. 11**
+
+> <table><tbody><tr><td rowspan="2">A.</td><td rowspan="2">Plemeník náležející k plemeni, pro které je v ČR schválen šlechtitelský program, je zapsán v ústředním registru plemeníků na základě žádosti jeho majitele, popřípadě uznaného chovatelského sdružení<sup>1)</sup> nebo chovatelského podniku prasat<sup>2)</sup>.</td><td rowspan="4">1.</td><td rowspan="4">u plemeníků z tuzemského chovu</td><td>a) </td><td>zootechnické osvědčení, případně pokud to umožňuje příslušný šlechtitelský program, potvrzení o původu plemenných zvířat nebo doklad o původu prasat</td></tr><tr><td>b) </td><td>doklad o výběru plemeníka do plemenitby s kladným výsledkem výběru vydaný příslušným uznaným chovatelským sdružením<sup>1)</sup> nebo chovatelským podnikem prasat<sup>2)</sup></td></tr><tr><td colspan="2">Toto ustanovení se nepoužije na hřebce.</td><td>c) </td><td>osvědčení o stanovení genetického typu podle § 12 odst. 5 zákona</td></tr><tr><td colspan="2">Součástí žádosti je:</td><td>d) </td><td>u býků osvědčení o ověření původu s výsledkem „původ souhlasí s uvedenými rodiči“</td></tr><tr><td colspan="2" rowspan="4"></td><td rowspan="4">2.</td><td rowspan="4">u plemeníků a inseminačních dávek přemístěných z členských zemí Evropské unie nebo dovezených ze třetích zemí</td><td>a)</td><td>zootechnické osvědčení, případně pokud to umožňuje příslušný šlechtitelský program, potvrzení o původu plemenných zvířat nebo doklad o původu prasat</td></tr><tr><td>b)</td><td>doklad o výběru plemeníka do plemenitby s kladným výsledkem výběru vydaný příslušným uznaným chovatelským sdružením<sup>1)</sup> nebo chovatelským podnikem prasat<sup>2)</sup></td></tr><tr><td colspan="2">Toto ustanovení neplatí v případě inseminačních dávek.</td></tr><tr><td>c) </td><td>osvědčení o stanovení genetického typu podle § 12 odst. 5 zákona</td></tr><tr><td>B.</td><td> Plemeník náležející k plemeni, pro které není v ČR schválen šlechtitelský program, je zapsán v ústředním registru plemeníků na základě žádosti jeho majitele.</td><td rowspan="4">1.</td><td rowspan="4">u plemeníků z tuzemského chovu</td><td>a)</td><td> zootechnické osvědčení, případně pokud to umožňuje příslušný šlechtitelský program, potvrzení o původu plemenných zvířat nebo doklad o původu prasat</td></tr><tr><td colspan="2">Toto ustanovení se nepoužije na hřebce.</td><td>b) </td><td>doklad o výběru plemeníka do plemenitby s kladným výsledkem výběru vydaný příslušnou zahraniční chovatelskou organizací<sup>3)</sup>, nebo hodnocení pověřenou osobou pode § 8 odst. 2 písm. d) zákona</td></tr><tr><td colspan="2">Součástí žádosti je:</td><td>c)</td><td>osvědčení o stanovení genetického typu podle § 12 odst. 5 zákona</td></tr><tr><td colspan="2" rowspan="5"></td><td>d) </td><td>u býků osvědčení o ověření původu s výsledkem „původ souhlasí s uvedenými rodiči“</td></tr><tr><td rowspan="4">2.</td><td rowspan="4">u plemeníků a inseminačních dávek přemístěných z členských zemí Evropské unie nebo dovezených ze třetích zemí</td><td>a)</td><td>zootechnické osvědčení, případně pokud to umožňuje příslušný šlechtitelský program, potvrzení o původu plemenných zvířat nebo doklad o původu prasat</td></tr><tr><td>b) </td><td>doklad o výběru plemeníka do plemenitby s kladným výsledkem výběru vydaný příslušnou zahraniční chovatelskou organizací<sup>3)</sup>, nebo hodnocení pověřenou osobou pode § 8 odst. 2 písm. d) zákona</td></tr><tr><td colspan="2">Toto ustanovení neplatí v případě inseminačních dávek.</td></tr><tr><td>c) </td><td>osvědčení o stanovení genetického typu podle § 12 odst. 5 zákona</td></tr><tr><td rowspan="2">C.</td><td rowspan="2">Hřebec náležející k plemeni, pro které je v ČR schválen šlechtitelský program, je zapsán v ústředním registru plemeníků na základě žádosti jeho majitele, popřípadě uznaného chovatelského sdružení<sup>1)</sup>.</td><td rowspan="3">1. </td><td rowspan="3">u plemeníků z tuzemského chovu</td><td>a)</td><td> zootechnické osvědčení, případně pokud to umožňuje příslušný šlechtitelský program, potvrzení o původu plemenných zvířat</td></tr><tr><td>b) </td><td>doklad o výběru plemeníka do plemenitby s kladným výsledkem výběru vydaný příslušným uznaným chovatelským sdružením<sup>1)</sup></td></tr><tr><td colspan="2">Součástí žádosti je:</td><td>c) </td><td>osvědčení o stanovení genetického typu podle § 12 odst. 5 zákona</td></tr><tr><td colspan="2" rowspan="4"></td><td rowspan="4">2.</td><td rowspan="4">u plemeníků a inseminačních dávek přemístěných z členských zemí Evropské unie nebo dovezených ze třetích zemí</td><td>a)</td><td> zootechnické osvědčení, případně pokud to umožňuje příslušný šlechtitelský program, potvrzení o původu plemenných zvířat</td></tr><tr><td>b) </td><td>doklad o výběru plemeníka do plemenitby s kladným výsledkem výběru vydaný příslušným uznaným chovatelským sdružením<sup>1)</sup></td></tr><tr><td colspan="2">Toto ustanovení neplatí v případě inseminačních dávek.</td></tr><tr><td>c) </td><td>osvědčení o stanovení genetického typu podle § 12 odst. 5 zákona</td></tr><tr><td rowspan="2">D.</td><td rowspan="2">Hřebec náležející k plemeni, pro které není v ČR schválen šlechtitelský program, je zapsán v ústředním registru plemeníků na základě žádosti jeho majitele.</td><td rowspan="4">1.</td><td rowspan="4">u plemeníků z tuzemského chovu</td><td>a) </td><td>zootechnické osvědčení, případně pokud to umožňuje příslušný šlechtitelský program, potvrzení o původu plemenných zvířat</td></tr><tr><td rowspan="2">b)</td><td rowspan="2">doklad o výběru plemeníka do plemenitby s kladným výsledkem výběru vydaný příslušnou zahraniční chovatelskou organizací<sup>3)</sup>, nebo hodnocení pověřenou osobou pode § 8 odst. 2 písm. d) zákona</td></tr><tr><td colspan="2">Součástí žádosti je:</td></tr><tr><td colspan="2"></td><td>c)</td><td>osvědčení o stanovení genetického typu podle § 12 odst. 5 zákona</td></tr><tr><td colspan="2" rowspan="4"></td><td rowspan="4">2.</td><td rowspan="4">u plemeníků a inseminačních dávek přemístěných z členských zemí Evropské unie nebo dovezených ze třetích zemí</td><td>a) </td><td>zootechnické osvědčení, případně pokud to umožňuje příslušný šlechtitelský program, potvrzení o původu plemenných zvířat</td></tr><tr><td>b) </td><td>doklad o výběru plemeníka do plemenitby s kladným výsledkem výběru vydaný příslušnou zahraniční chovatelskou organizací<sup>3)</sup>, nebo doporučení chovatelské organizace, která tuto chovatelskou organizaci<sup>3)</sup><sup></sup>v České republice zastupuje, pokud nejsou ve šlechtitelském programu stanovené podmínky výběru, nebo hodnocení pověřenou osobou pode § 8 odst. 2 písm. d) zákona</td></tr><tr><td colspan="2">Toto ustanovení neplatí v případě inseminačních dávek.</td></tr><tr><td>c) </td><td>osvědčení o stanovení genetického typu podle § 12 odst. 5 zákona</td></tr><tr><td rowspan="6">E.</td><td rowspan="4">Plemeníci náležející k nově vznikajícím plemenům<sup>4)</sup>, pro která se zakládá v České republice plemenná kniha, jsou zapsáni v ústředním registru plemeníků na základě žádosti jeho majitele, popřípadě uznaného chovatelského sdružení<sup>1)</sup><sup></sup>nebo chovatelského podniku prasat<sup>2)</sup>.</td><td>a) </td><td colspan="3">zootechnické osvědčení, případně pokud to umožňuje příslušný šlechtitelský program, potvrzení o původu plemenných zvířat nebo doklad o původu prasat</td></tr><tr><td>b) </td><td colspan="3">doklad o výběru plemeníka do plemenitby s kladným výsledkem výběru vydaný příslušným uznaným chovatelským sdružením<sup>1)</sup> nebo chovatelským podnikem prasat<sup>2)</sup>, nebo hodnocení pověřenou osobou pode § 8 odst. 2 písm. d) zákona</td></tr><tr><td>c)</td><td colspan="3"> osvědčení o stanovení genetického typu podle § 12 odst. 5 zákona</td></tr><tr><td rowspan="3">d)</td><td colspan="3" rowspan="4">u býků osvědčení o ověření původu s výsledkem „původ souhlasí s uvedenými rodiči“</td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">Součástí žádosti je:</td></tr></tbody></table>
+
+> Poznámky:
+
+> <sup>1)</sup> Uznané chovatelské sdružení uznané podle § 5 zákona.
+
+> <sup>2)</sup> Chovatelský podnik prasat uznaný podle § 6 zákona.
+
+> <sup>3)</sup> Chovatelské organizace uznané podle čl. 4 nebo čl. 34 nařízení Evropského parlamentu a Rady (EU) 2016/1012 ze dne 8. června 2016 o zootechnických a genealogických podmínkách pro plemenitbu čistokrevných plemenných zvířat, hybridních plemenných prasat a jejich zárodečných produktů v Unii, pro obchod s nimi a pro jejich vstup do Unie, o změně nařízení (EU) č. 652/2014 a směrnic Rady 89/608/EHS a 90/425/EHS a o zrušení některých aktů v oblasti plemenitby zvířat („nařízení o plemenných zvířatech“).
+
+> <sup>4)</sup> Nově vznikající plemena nebo obnovovaná plemena podle čl. 19 nařízení Evropského parlamentu a Rady (EU) 2016/1012 ze dne 8. června 2016 o zootechnických a genealogických podmínkách pro plemenitbu čistokrevných plemenných zvířat, hybridních plemenných prasat a jejich zárodečných produktů v Unii, pro obchod s nimi a pro jejich vstup do Unie, o změně nařízení (EU) č. 652/2014 a směrnic Rady 89/608/EHS a 90/425/EHS a o zrušení některých aktů v oblasti plemenitby zvířat („nařízení o plemenných zvířatech“).“.
+
+2\. V příloze č. 8 tabulka č. 17 včetně textu pod tabulkou zní:
+
+> **„Tabulka č. 17**
+
+> <table><tbody><tr><th>Název dokladu</th><th>Minimální obsah záznamů</th><th>Způsob vedení záznamů</th></tr><tr><td rowspan="2">Inseminační karta</td><td>a) datum inseminace</td><td rowspan="2">Osoba oprávněná k provádění inseminace zaznamenává údaje o inseminaci do inseminační karty.</td></tr><tr><td>b) označení býka v ústředním registru plemeníků</td></tr><tr><td rowspan="4">Inseminační výkaz</td><td>a) datum inseminace</td><td rowspan="4">Osoba oprávněná k provádění inseminace vede „inseminační výkaz“ písemnou formou, nebo pomocí elektronických médií a předává jej do konce kalendářního měsíce následujícího po kalendářním měsíci, v němž byla inseminace provedena, jako vstupní doklad pověřené osobě. Způsob předávání dokladů, včetně jejich oprav stanoví pověřená osoba, která zpracovává, vyhodnocuje a zveřejňuje výsledky inseminace.</td></tr><tr><td>b) označení býka v ústředním registru plemeníků</td></tr><tr><td>c) identifikační číslo plemenice</td></tr><tr><td>d) inseminační technik</td></tr></tbody></table>
+
+> Poznámka: Inseminační kartu na požádání vystaví pověřená osoba. Záznamy vedené v inseminační kartě lze vést v elektronické podobě.“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. III
+
+Tato vyhláška nabývá účinnosti dnem 1. června 2025.
+
+Ministr zemědělství:
+
+Mgr. Výborný v. r.

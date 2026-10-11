@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 436/2025 Sb., kterou se mění vyhláška č. 466/2023 Sb., o podmínkách provozování hazardních her"
+identifier: "436/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/436/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-10-15
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/436"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 436/2025 Sb., kterou se mění vyhláška č. 466/2023 Sb., o podmínkách provozování hazardních her
+
+436
+
+VYHLÁŠKA
+
+ze dne 15. října 2025,
+
+kterou se mění vyhláška č. 466/2023 Sb., o podmínkách provozování hazardních her
+
+Ministerstvo financí stanoví podle § 133 odst. 1 písm. a) zákona č. 186/2016 Sb., o hazardních hrách, ve znění zákona č. 527/2020 Sb. a zákona č. 349/2023 Sb.:
+
+## Čl. I
+
+Vyhláška č. 466/2023 Sb., o podmínkách provozování hazardních her, se mění takto:
+
+1\. V § 5 odst. 1 se za slovo „povinnost“ vkládají slova „podle § 4“.
+
+2\. V § 5 odst. 2 se za slova „odstavce 1“ vkládají slova „pro dané oznámení“.
+
+3\. Za § 5 se vkládá nový § 5a, který včetně nadpisu zní:
+
+> **„§ 5a – Zasílání jiných informací**
+
+> (1) Plní-li provozovatel povinnost spočívající v zasílání jiných informací než oznámení podle § 4, činí se podání v elektronické podobě
+
+> a) s využitím ověření identity provozovatele nebo jeho zástupce způsobem, kterým se lze přihlásit do jeho datové schránky, nebo podepsané způsobem, se kterým jiný právní předpis spojuje účinky vlastnoručního podpisu, vždy prostřednictvím formuláře umístěného na internetové stránce Celní správy České republiky, jde-li o podání činěné vůči celnímu úřadu,
+
+> b) podepsané způsobem, se kterým jiný právní předpis spojuje účinky vlastnoručního podpisu, jde-li o podání činěné vůči ministerstvu.
+
+> (2) Není-li formulář podle odstavce 1 písm. a) dostupný, postupuje se podle odstavce 1 písm. b) obdobně.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr financí:
+
+Ing. Stanjura v. r.

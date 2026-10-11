@@ -1,0 +1,68 @@
+---
+title: "Vyhláška č. 3/2023 Sb., kterou se mění vyhláška č. 420/2008 Sb., kterou se stanoví náležitosti a obsah plánu ochrany památkových rezervací a památkových zón"
+identifier: "3/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/3/2023-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-12-20
+effective: 2023-07-01
+last_amended: 2023-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/3"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 3/2023 Sb., kterou se mění vyhláška č. 420/2008 Sb., kterou se stanoví náležitosti a obsah plánu ochrany památkových rezervací a památkových zón
+
+3
+
+VYHLÁŠKA
+
+ze dne 20. prosince 2022,
+
+kterou se mění vyhláška č. 420/2008 Sb., kterou se stanoví náležitosti a obsah plánu ochrany památkových rezervací a památkových zón
+
+Ministerstvo kultury stanoví podle § 45 zákona č. 20/1987 Sb., o státní památkové péči, ve znění zákona č. 320/2002 Sb., zákona č. 186/2006 Sb., zákona č. 307/2008 Sb., zákona č. 124/2011 Sb. a zákona č. 284/2021 Sb., (dále jen „zákon“):
+
+## Čl. I
+
+Vyhláška č. 420/2008 Sb., kterou se stanoví náležitosti a obsah plánu ochrany památkových rezervací a památkových zón, se mění takto:
+
+1\. V § 1 odst. 2 písmeno a) zní:
+
+> „a) výčet nemovitostí, které jsou kulturní památkou nebo národní kulturní památkou, určení urbanistických a krajinných hodnot a nemovitostí, které jsou architektonicky nebo urbanisticky cennou stavbou nebo souborem staveb, historicky významnou stavbou, místem nebo souborem staveb, významnou dominantou, znakem historické kulturní krajiny a nacházejí se v památkové rezervaci nebo památkové zóně,“.
+
+2\. V § 1 odst. 2 písm. b) se slovo „výčet“ nahrazuje slovem „určení“ a slova „vyžádat si předem závazné stanovisko“ a slova „ , popsaný identifikačními údaji podle katastru nemovitostí“ se zrušují.
+
+3\. V § 1 odst. 2 se písmeno d) zrušuje.
+
+Dosavadní písmeno e) se označuje jako písmeno d).
+
+4\. V § 1 odst. 3 písmeno a) zní:
+
+> „a) výkres č. 1, ve kterém jsou vyznačeny nemovité kulturní památky, nemovité národní kulturní památky, urbanistické a krajinné hodnoty, architektonicky nebo urbanisticky cenné stavby nebo soubory staveb, historicky významné stavby, místa nebo soubory staveb, významné dominanty a znaky historické kulturní krajiny nacházející se v památkové rezervaci nebo památkové zóně,“.
+
+5\. V § 1 odst. 3 písm. b) se za slovo „výkres“ vkládá text „č. 2“ a slova „vyžádat si předem závazné stanovisko“ se zrušují.
+
+6\. V § 1 odst. 3 písm. c) se za slovo „výkres“ vkládá text „č. 3“.
+
+7\. V § 1 odst. 4 se slovo „nebo“ nahrazuje čárkou a na konci textu odstavce se doplňují slova „nebo 1 : 5 000“.
+
+8\. V § 1 odst. 5 se na konci textu věty první doplňují slova „ , ve výjimečných případech ji tvoří spojnice lomových bodů stávajících hranic nebo bodů na těchto hranicích“.
+
+9\. V § 1 se doplňuje odstavec 8, který zní:
+
+> „(8) Plán ochrany se vyhotovuje v elektronické verzi ve strojově čitelném formátu, který umožní zobrazení v geografických informačních systémech.“.
+
+## Čl. II – Přechodné ustanovení
+
+Plány ochrany vydané přede dnem nabytí účinnosti této vyhlášky nejsou dotčeny.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2023.
+
+Ministr kultury:
+
+Mgr. Baxa v. r.

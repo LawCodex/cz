@@ -1,0 +1,48 @@
+---
+title: "Vyhláška č. 273/2017 Sb., kterou se mění vyhláška č. 410/2009 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro některé vybrané účetní jednotky, ve znění pozdějších předpisů"
+identifier: "273/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/273/2018-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-08-21
+effective: 2018-01-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/273"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 273/2017 Sb., kterou se mění vyhláška č. 410/2009 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro některé vybrané účetní jednotky, ve znění pozdějších předpisů
+
+273
+
+VYHLÁŠKA
+
+ze dne 21. srpna 2017,
+
+kterou se mění vyhláška č. 410/2009 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro některé vybrané účetní jednotky, ve znění pozdějších předpisů
+
+Ministerstvo financí stanoví podle § 37b odst. 1 zákona č. 563/1991 Sb., o účetnictví, ve znění zákona č. 437/2003 Sb., zákona č. 304/2008 Sb., zákona č. 221/2015 Sb. a zákona č. 462/2016 Sb., k provedení § 4 odst. 8 a § 24 odst. 5:
+
+## Čl. I
+
+Vyhláška č. 410/2009 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro některé vybrané účetní jednotky, ve znění vyhlášky č. 435/2010 Sb., vyhlášky č. 403/2011 Sb., vyhlášky č. 436/2011 Sb., vyhlášky č. 460/2012 Sb., vyhlášky č. 473/2013 Sb., vyhlášky č. 301/2014 Sb. a vyhlášky č. 369/2015 Sb., se mění takto:
+
+1\. V § 45 odst. 1 se písmena k) až m) včetně poznámky pod čarou č. 36 zrušují.
+
+Dosavadní písmeno n) se označuje jako písmeno k).
+
+2\. V příloze č. 5 se položky „K. Doplňující informace k poskytnutým garancím“, „L. Doplňující informace o projektech partnerství veřejného a soukromého sektoru“ a „M. Doplňující informace k příjmům a výdajům“ zrušují.
+
+## Čl. II – Přechodné ustanovení
+
+V účetním období započatém před 1. lednem 2018 se použije vyhláška č. 410/2009 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2018.
+
+Ministr:
+
+Ing. Pilný v. r.

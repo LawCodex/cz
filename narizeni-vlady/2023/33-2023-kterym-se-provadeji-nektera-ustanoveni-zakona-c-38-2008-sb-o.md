@@ -1,0 +1,64 @@
+---
+title: "Nařízení vlády č. 33/2023 Sb., kterým se provádějí některá ustanovení zákona č. 38/2008 Sb., o zahraničním obchodu se zbožím, které by mohlo být použito pro výkon trestu smrti, mučení nebo pro jiné kruté, nelidské či ponižující zacházení nebo trestání, ve znění pozdějších předpisů"
+identifier: "33/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/33/2023-03-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2023-01-25
+effective: 2023-03-01
+last_amended: 2023-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/33"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 33/2023 Sb., kterým se provádějí některá ustanovení zákona č. 38/2008 Sb., o zahraničním obchodu se zbožím, které by mohlo být použito pro výkon trestu smrti, mučení nebo pro jiné kruté, nelidské či ponižující zacházení nebo trestání, ve znění pozdějších předpisů
+
+33
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. ledna 2023,
+
+kterým se provádějí některá ustanovení zákona č. 38/2008 Sb., o zahraničním obchodu se zbožím, které by mohlo být použito pro výkon trestu smrti, mučení nebo pro jiné kruté, nelidské či ponižující zacházení nebo trestání, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 14a zákona č. 38/2008 Sb., o zahraničním obchodu se zbožím, které by mohlo být použito pro výkon trestu smrti, mučení nebo pro jiné kruté, nelidské či ponižující zacházení nebo trestání, ve znění zákona č. 383/2022 Sb., k provedení § 6 odst. 2:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje rozsah údajů týkajících se obchodů zrealizovaných na základě povolení k vývozu, dovozu nebo tranzitu zboží (dále jen „povolení“).
+
+## § 2 – Údaje týkající se obchodů zrealizovaných na základě povolení
+
+Údaje týkající se obchodů zrealizovaných na základě povolení stanoví příloha k tomuto nařízení.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. března 2023.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Síkela v. r.
+
+### Příloha k nařízení vlády č. 33/2023 Sb.
+
+#### Údaje týkající se obchodů zrealizovaných na základě povolení
+
+a) číslo povolení,
+
+b) kalendářní rok a pololetí, za které je informace podávána,
+
+c) pořadové číslo odpovídající popisu zboží v povolení,
+
+d) popis zboží,
+
+e) využité množství a měrná jednotka,
+
+f) případné poznámky k realizovanému vývozu a
+
+g) datum zpracování informace.

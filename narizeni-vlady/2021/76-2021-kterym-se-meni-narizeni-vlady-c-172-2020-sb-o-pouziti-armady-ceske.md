@@ -1,0 +1,50 @@
+---
+title: "Nařízení vlády č. 76/2021 Sb., kterým se mění nařízení vlády č. 172/2020 Sb., o použití Armády České republiky k záchranným pracím v souvislosti s prokázáním výskytu koronaviru SARS CoV-2, ve znění pozdějších předpisů"
+identifier: "76/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/76/2021-02-17"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2021-02-15
+effective: 2021-02-17
+last_amended: 2021-02-17
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/76"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 76/2021 Sb., kterým se mění nařízení vlády č. 172/2020 Sb., o použití Armády České republiky k záchranným pracím v souvislosti s prokázáním výskytu koronaviru SARS CoV-2, ve znění pozdějších předpisů
+
+76
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 15. února 2021,
+
+kterým se mění nařízení vlády č. 172/2020 Sb., o použití Armády České republiky k záchranným pracím v souvislosti s prokázáním výskytu koronaviru SARS CoV-2, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 14 odst. 3 a § 15 zákona č. 219/1999 Sb., o ozbrojených silách České republiky, ve znění zákona č. 546/2005 Sb. a zákona č. 46/2016 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 172/2020 Sb., o použití Armády České republiky k záchranným pracím v souvislosti s prokázáním výskytu koronaviru SARS CoV-2, ve znění nařízení vlády č. 212/2020 Sb. a nařízení vlády č. 453/2020 Sb., se mění takto:
+
+1\. V § 1 se dosavadní text označuje jako odstavec 1 a doplňují se odstavce 2 a 3, které znějí:
+
+> „(2) K záchranným pracím spočívajícím v činnostech spojených s testováním ve státem garantované síti odběrových míst k prokázání výskytu koronaviru SARS CoV-2 se povolává nejvýše 150 vojáků v činné službě.
+
+> (3) Povolání podle odstavců 1 a 2 končí uplynutím dne 31. prosince 2021.“.
+
+2\. V § 2 se slovo „úkolu“ nahrazuje slovem „úkolů“ a na konci textu se doplňuje text „odst. 1 a 2“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr obrany:
+
+Mgr. Metnar v. r.

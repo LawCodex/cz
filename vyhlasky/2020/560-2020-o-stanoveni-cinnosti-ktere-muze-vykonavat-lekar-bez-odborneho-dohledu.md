@@ -1,0 +1,50 @@
+---
+title: "Vyhláška č. 560/2020 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene patologického"
+identifier: "560/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/560/2021-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-12-15
+effective: 2021-01-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/560"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 560/2020 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene patologického
+
+560
+
+VYHLÁŠKA
+
+ze dne 15. prosince 2020
+
+o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene patologického
+
+Ministerstvo zdravotnictví stanoví podle § 37 odst. 1 písm. k) k provedení § 4 odst. 4 písm. a) zákona č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění zákona č. 67/2017 Sb.:
+
+## § 1
+
+Lékař může po získání certifikátu o absolvování základního kmene patologického bez odborného dohledu
+
+a) provádět patologicko-anatomickou pitvu a v návaznosti na ni
+
+1\. odebírat materiál pro histologická, cytologická a bakteriální vyšetření,
+
+2\. provádět mikroskopickou diagnostiku nekropsií,
+
+3\. uzavírat pitevní protokoly, včetně konečné diagnózy a popisu histologických preparátů,
+
+b) přikrajovat bioptický materiál,
+
+c) provádět cytologický screening s výjimkou uzavření suspektních a abnormálních nálezů.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2021.
+
+Ministr:
+
+doc. MUDr. Blatný, Ph.D., v. r.

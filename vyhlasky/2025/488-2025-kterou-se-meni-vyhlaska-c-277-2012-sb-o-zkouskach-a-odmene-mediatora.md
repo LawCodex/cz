@@ -1,0 +1,44 @@
+---
+title: "Vyhláška č. 488/2025 Sb., kterou se mění vyhláška č. 277/2012 Sb., o zkouškách a odměně mediátora"
+identifier: "488/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/488/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-11-07
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/488"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 488/2025 Sb., kterou se mění vyhláška č. 277/2012 Sb., o zkouškách a odměně mediátora
+
+488
+
+VYHLÁŠKA
+
+ze dne 7. listopadu 2025,
+
+kterou se mění vyhláška č. 277/2012 Sb., o zkouškách a odměně mediátora
+
+Ministerstvo spravedlnosti stanoví podle § 24 odst. 2 zákona č. 202/2012 Sb., o mediaci a o změně některých zákonů (zákon o mediaci), k provedení § 10 odst. 3 zákona o mediaci:
+
+## Čl. I
+
+Vyhláška č. 277/2012 Sb., o zkouškách a odměně mediátora, se mění takto:
+
+V § 15 se číslo „400“ nahrazuje číslem „1 000“.
+
+## Čl. II – Přechodné ustanovení
+
+1\. Odměna za první setkání s mediátorem zahájené před nabytím účinnosti této vyhlášky se stanoví podle vyhlášky č. 277/2012 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministryně:
+
+Decroix, Ph.D., MBA, MPA, v. r.

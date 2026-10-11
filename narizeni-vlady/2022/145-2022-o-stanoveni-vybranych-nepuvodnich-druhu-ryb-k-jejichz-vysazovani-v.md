@@ -1,0 +1,66 @@
+---
+title: "Nařízení vlády č. 145/2022 Sb., o stanovení vybraných nepůvodních druhů ryb, k jejichž vysazování v rybářském revíru se nevyžaduje povolení k záměrnému rozšíření nepůvodního druhu do krajiny podle zákona o ochraně přírody a krajiny (nařízení vlády o vybraných nepůvodních druzích ryb)"
+identifier: "145/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/145/2022-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2022-05-25
+effective: 2022-07-01
+last_amended: 2022-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/145"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 145/2022 Sb., o stanovení vybraných nepůvodních druhů ryb, k jejichž vysazování v rybářském revíru se nevyžaduje povolení k záměrnému rozšíření nepůvodního druhu do krajiny podle zákona o ochraně přírody a krajiny (nařízení vlády o vybraných nepůvodních druzích ryb)
+
+145
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. května 2022
+
+o stanovení vybraných nepůvodních druhů ryb, k jejichž vysazování v rybářském revíru se nevyžaduje povolení k záměrnému rozšíření nepůvodního druhu do krajiny podle zákona o ochraně přírody a krajiny (nařízení vlády o vybraných nepůvodních druzích ryb)
+
+Vláda nařizuje podle § 12 odst. 6 zákona č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství), ve znění zákona č. 364/2021 Sb.:
+
+## § 1 – Vybrané nepůvodní druhy ryb
+
+Nepůvodní druhy ryb, k jejichž vysazování v rybářském revíru se nevyžaduje povolení k záměrnému rozšíření nepůvodního druhu do krajiny podle zákona o ochraně přírody a krajiny, jsou
+
+a) pstruh duhový (Oncorhynchus mykkis),
+
+b) siven americký (Salvelinus fontinalis),
+
+c) siven alpský (Salvelinus umbla),
+
+d) jeseter sibiřský (Acipenser baerii),
+
+e) jeseter ruský (Acipenser gueldenstaedtii),
+
+f) jeseter hladký (Acipenser nudiventris),
+
+g) jeseter hvězdnatý (Acipenser stellatus),
+
+h) amur bílý (Ctenopharyngodon idella),
+
+i) tolstolobik bílý (Hypophthalmichthys molitrix),
+
+j) tolstolobik pestrý (Hypophthalmichthys nobilis),
+
+k) síh peleď (Coregonus peled) a
+
+l) síh maréna (Coregonus maraena).
+
+## § 2 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. července 2022.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr zemědělství:
+
+Ing. Nekula v. r.

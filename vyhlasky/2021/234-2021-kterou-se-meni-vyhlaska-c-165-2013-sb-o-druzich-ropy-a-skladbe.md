@@ -1,0 +1,74 @@
+---
+title: "Vyhláška č. 234/2021 Sb., kterou se mění vyhláška č. 165/2013 Sb., o druzích ropy a skladbě ropných produktů pro skladování v nouzových zásobách ropy, o výpočtu úrovně nouzových zásob ropy, o skladovacích zařízeních a o vykazování nouzových zásob ropy"
+identifier: "234/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/234/2021-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-05-31
+effective: 2021-07-01
+last_amended: 2021-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/234"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 234/2021 Sb., kterou se mění vyhláška č. 165/2013 Sb., o druzích ropy a skladbě ropných produktů pro skladování v nouzových zásobách ropy, o výpočtu úrovně nouzových zásob ropy, o skladovacích zařízeních a o vykazování nouzových zásob ropy
+
+234
+
+VYHLÁŠKA
+
+ze dne 31. května 2021,
+
+kterou se mění vyhláška č. 165/2013 Sb., o druzích ropy a skladbě ropných produktů pro skladování v nouzových zásobách ropy, o výpočtu úrovně nouzových zásob ropy, o skladovacích zařízeních a o vykazování nouzových zásob ropy
+
+Správa státních hmotných rezerv stanoví podle § 10d zákona č. 189/1999 Sb., o nouzových zásobách ropy, o řešení stavů ropné nouze a o změně některých souvisejících zákonů (zákon o nouzových zásobách ropy), ve znění zákona č. 161/2013 Sb., (dále jen „zákon“) k provedení § 2 odst. 6 zákona:
+
+## Čl. I
+
+Vyhláška č. 165/2013 Sb., o druzích ropy a skladbě ropných produktů pro skladování v nouzových zásobách ropy, o výpočtu úrovně nouzových zásob ropy, o skladovacích zařízeních a o vykazování nouzových zásob ropy, se mění takto:
+
+1\. V § 1 se slova „příslušný předpis“ nahrazují slovy „příslušné předpisy“.
+
+2\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta:
+
+> „Prováděcí směrnice Komise (EU) 2018/1581 ze dne 19. října 2018, kterou se mění směrnice Rady 2009/119/ES, pokud jde o metody výpočtu povinností udržovat zásoby.“.
+
+3\. V § 4 odst. 3 se slova „31. března“ nahrazují slovy „30. června“.
+
+4\. Poznámka pod čarou č. 3 zní:
+
+> „<sup>3</sup>) Příloha A, kapitola 3.4 nařízení Evropského parlamentu a Rady (ES) č. 1099/2008 ze dne 22. října 2008, o energetické statistice, v platném znění.“.
+
+5\. Poznámka pod čarou č. 8 zní:
+
+> „<sup>8</sup>) Příloha C, Oddíl 3.2.2.11 nařízení Evropského parlamentu a Rady (ES) č. 1099/2008 ze dne 22. října 2008, o energetické statistice, v platném znění.“.
+
+6\. Příloha č. 1 zní:
+
+> **„Příloha č. 1 k vyhlášce č. 165/2013 Sb.**
+
+> **METODA VÝPOČTU ROPNÉHO EKVIVALENTU ČISTÉHO DOVOZU ROPNÝCH PRODUKTŮ**
+
+> (1) Ropný ekvivalent čistého dovozu ropných produktů se stanoví jako součet čistého dovozu surové ropy, zemního plynu kapalného (LNG), rafinérských poloproduktů a jiných uhlovodíků<sup>3</sup>), který se vypočte a upraví s ohledem na případné změny stavu zásob. Výsledek tohoto součtu se sníží o jeden z těchto číselných údajů odpovídající výtěžku primárního benzinu:
+
+> a) 4 %,
+
+> b) průměrný výtěžek primárního benzinu, nebo
+
+> c) čistou skutečnou spotřebu primárního benzinu.
+
+> (2) Součet čistého dovozu všech dalších ropných produktů<sup>3</sup>), s výjimkou primárního benzinu, se vypočte a upraví s ohledem na případné změny stavu zásob a vynásobí koeficientem 1,065.
+
+> (3) Výsledný součet číselných údajů z odstavců 1 a 2 představuje ropný ekvivalent.
+
+> (4) Mezinárodní námořní zásobníky se nezapočítávají.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2021.
+
+Předseda Správy státních hmotných rezerv:
+
+Ing. Švagr, CSc., v. r.

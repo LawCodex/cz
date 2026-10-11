@@ -1,0 +1,44 @@
+---
+title: "Zákon č. 72/2018 Sb., , kterým se mění zákon č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů, ve znění pozdějších předpisů"
+identifier: "72/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/72/2018-05-19"
+type: act
+jurisdiction: cz
+language: cs
+date: 2018-04-17
+effective: 2018-05-19
+last_amended: 2018-05-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/72"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 72/2018 Sb., , kterým se mění zákon č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů, ve znění pozdějších předpisů
+
+72
+
+ZÁKON
+
+ze dne 17. dubna 2018,
+
+kterým se mění zákon č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů, ve znění zákona č. 212/1996 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 243/1999 Sb., zákona č. 204/2000 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 64/2001 Sb., zákona č. 491/2001 Sb., zákona č. 37/2002 Sb., zákona č. 171/2002 Sb., zákona č. 230/2002 Sb., zákona č. 62/2003 Sb., zákona č. 418/2004 Sb., zákona č. 323/2006 Sb., zákona č. 480/2006 Sb., zákona č. 261/2008 Sb., zákona č. 320/2009 Sb., zákona č. 195/2010 Sb., zákona č. 222/2012 Sb., zákona č. 58/2014 Sb., zákona č. 59/2014 Sb., zákona č. 114/2016 Sb., zákona č. 322/2016 Sb. a zákona č. 90/2017 Sb., se mění takto:
+
+1\. V § 59 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1.
+
+2\. V § 97 se odstavec 1 zrušuje a zároveň se zrušuje označení odstavce 2.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Vondráček v. r.
+
+Zeman v. r.
+
+Babiš v. r.

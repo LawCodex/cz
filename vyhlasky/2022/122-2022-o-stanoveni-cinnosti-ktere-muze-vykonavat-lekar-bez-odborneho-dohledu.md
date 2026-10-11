@@ -1,0 +1,86 @@
+---
+title: "Vyhláška č. 122/2022 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene radiologického"
+identifier: "122/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/122/2022-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-05-11
+effective: 2022-07-01
+last_amended: 2022-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/122"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 122/2022 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene radiologického
+
+122
+
+VYHLÁŠKA
+
+ze dne 11. května 2022
+
+o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene radiologického
+
+Ministerstvo zdravotnictví stanoví podle § 37 odst. 1 písm. k) k provedení § 4 odst. 4 písm. a) zákona č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění zákona č. 67/2017 Sb.:
+
+## § 1
+
+Lékař může po získání certifikátu o absolvování základního kmene radiologického bez odborného dohledu
+
+a) indikovat a interpretovat základní zobrazovací metody a laboratorní vyšetření,
+
+b) indikovat léčivé přípravky a zdravotnické prostředky s výjimkou radiofarmak a cytostatik,
+
+c) provádět skiagrafická vyšetření a vyšetření diagnostická skiaskopická, a to
+
+1\. rentgenové vyšetření prstů a záprstních kůstek ruky nebo nohy, cílené snímky a přehledné snímky lebky, krku a krční páteře, hrudní a bederní páteře, křížové kosti a křížokyčelních kloubů, pánve a kyčelního kloubu, ramenního kloubu, kostí a kloubů končetin, žeber a sterna, hrudníku, nitrohrudních orgánů,
+
+2\. rentgenové vyšetření celé páteře jednou expozicí,
+
+3\. rentgenové vyšetření kloubu drženými snímky,
+
+4\. rentgenové vyšetření končetin měkkou snímkovací technikou,
+
+5\. vyšetření dolních končetin vcelku jedním rentgenovým snímkem,
+
+6\. rentgenové vyšetření břicha, jícnu, žaludku a duodena, hypotonickou duodenografii,
+
+7\. pasáž trávicí trubicí, enteroklýzu, rentgenové vyšetření tlustého střeva,
+
+8\. nitrožilní cholangiografii, cholecystografii, peroperační cholangiografii nebo t-drénem cholangiografii, nástřik drenážního katetru,
+
+9\. vylučovací urografii, jednostrannou retrográdní pyelografii, jednostrannou antegrádní pyelografii,
+
+10\. cystografii, cystouretrografii, retrográdní uretrografii,
+
+11\. artrografii, tenografii, bursografii,
+
+12\. fistulografii,
+
+13\. skiaskopii,
+
+d) provádět ultrazvuková vyšetření, a to
+
+1\. ultrazvukové vyšetření prsů včetně spádových uzlin,
+
+2\. ultrazvukové vyšetření horní poloviny břicha,
+
+3\. ultrazvukové vyšetření dolní poloviny břicha,
+
+4\. ultrazvukové duplexní vyšetření pouze jedné cévy (vyšetření morfologické a dopplerovské),
+
+5\. ultrazvukové duplexní vyšetření dvou a více cév (vyšetření morfologické a dopplerovské),
+
+6\. ultrazvukové vyšetření muskuloskeletálního systému, měkkých tkání, včetně štítné žlázy, slinných žláz a lymfatických uzlin,
+
+7\. dynamickou kavernosografii.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2022.
+
+Ministr:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.

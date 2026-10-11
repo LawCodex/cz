@@ -1,0 +1,44 @@
+---
+title: "Vyhláška č. 182/2026 Sb., kterou se mění vyhláška č. 356/2024 Sb., o náležitostech formulářů žádosti o opis nebo výpis z rejstříku trestů a žádosti o opis z evidence přestupků"
+identifier: "182/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/182/2027-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2026-09-21
+effective: 2027-01-01
+last_amended: 2027-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/182"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 182/2026 Sb., kterou se mění vyhláška č. 356/2024 Sb., o náležitostech formulářů žádosti o opis nebo výpis z rejstříku trestů a žádosti o opis z evidence přestupků
+
+182
+
+VYHLÁŠKA
+
+ze dne 21. září 2026,
+
+kterou se mění vyhláška č. 356/2024 Sb., o náležitostech formulářů žádosti o opis nebo výpis z rejstříku trestů a žádosti o opis z evidence přestupků
+
+Ministerstvo spravedlnosti stanoví podle § 17a zákona č. 269/1994 Sb., o rejstříku trestů a evidenci přestupků, ve znění zákona č. 204/2015 Sb. a zákona č. 427/2023 Sb.:
+
+## Čl. I
+
+Vyhláška č. 356/2024 Sb., o náležitostech formulářů žádosti o opis nebo výpis z rejstříku trestů a žádosti o opis z evidence přestupků, se mění takto:
+
+1\. V nadpisu § 2 se slova „týkající se fyzické osoby“ zrušují.
+
+2\. V § 2 odst. 1 se slova „, která se týká fyzické osoby,“ zrušují.
+
+3\. V § 4 se slova „1 až“ nahrazují slovy „2 a“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2027.
+
+Ministr:
+
+JUDr. Tejc v. r.

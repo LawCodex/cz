@@ -1,0 +1,56 @@
+---
+title: "Nařízení vlády č. 98/2025 Sb., kterým se mění nařízení vlády č. 35/2017 Sb., kterým se stanoví sazba jednorázového poplatku za ukládání radioaktivních odpadů a výše příspěvků z jaderného účtu obcím a pravidla jejich poskytování, ve znění nařízení vlády č. 342/2024 Sb."
+identifier: "98/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/98/2026-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-03-26
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/98"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 98/2025 Sb., kterým se mění nařízení vlády č. 35/2017 Sb., kterým se stanoví sazba jednorázového poplatku za ukládání radioaktivních odpadů a výše příspěvků z jaderného účtu obcím a pravidla jejich poskytování, ve znění nařízení vlády č. 342/2024 Sb.
+
+98
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 26. března 2025,
+
+kterým se mění nařízení vlády č. 35/2017 Sb., kterým se stanoví sazba jednorázového poplatku za ukládání radioaktivních odpadů a výše příspěvků z jaderného účtu obcím a pravidla jejich poskytování, ve znění nařízení vlády č. 342/2024 Sb.
+
+Vláda nařizuje podle § 122 odst. 1 a § 131 odst. 2 zákona č. 263/2016 Sb., atomový zákon, ve znění zákona č. 83/2025 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 35/2017 Sb., kterým se stanoví sazba jednorázového poplatku za ukládání radioaktivních odpadů a výše příspěvků z jaderného účtu obcím a pravidla jejich poskytování, ve znění nařízení vlády č. 342/2024 Sb., se mění takto:
+
+1\. V názvu nařízení vlády se slova „sazba jednorázového poplatku“ nahrazují slovy „sazby poplatků“.
+
+2\. V § 1 odst. 2 se částka „200 000 Kč“ nahrazuje částkou „250 000 Kč“.
+
+3\. Za § 1 se vkládá nový § 1a, který včetně nadpisu zní:
+
+> **„§ 1a – Sazba pravidelného poplatku**
+
+> Sazba pravidelného poplatku za ukládání radioaktivních odpadů pro období od 1. ledna 2026 do 31. prosince 2030 činí
+
+> a) 88 Kč za množství vyrobené elektrické energie v MWh měřené na svorkách generátoru u poplatníka provozujícího energetické jaderné zařízení,
+
+> b) 35 Kč za množství vyrobené tepelné energie v MWh u poplatníka provozujícího výzkumné jaderné zařízení nebo jaderné zařízení, jehož hlavním účelem je výroba tepelné energie.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2026.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Vlček v. r.

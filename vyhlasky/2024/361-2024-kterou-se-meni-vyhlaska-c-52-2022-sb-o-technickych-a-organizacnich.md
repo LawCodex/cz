@@ -1,0 +1,38 @@
+---
+title: "Vyhláška č. 361/2024 Sb., kterou se mění vyhláška č. 52/2022 Sb., o technických a organizačních podmínkách používání programové aplikace a elektronického formuláře pro sběr dat v oblasti elektronických komunikací"
+identifier: "361/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/361/2025-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-11-27
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/361"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 361/2024 Sb., kterou se mění vyhláška č. 52/2022 Sb., o technických a organizačních podmínkách používání programové aplikace a elektronického formuláře pro sběr dat v oblasti elektronických komunikací
+
+361
+
+VYHLÁŠKA
+
+ze dne 27. listopadu 2024,
+
+kterou se mění vyhláška č. 52/2022 Sb., o technických a organizačních podmínkách používání programové aplikace a elektronického formuláře pro sběr dat v oblasti elektronických komunikací
+
+Český telekomunikační úřad stanoví podle § 150 odst. 5 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 310/2006 Sb., zákona č. 110/2007 Sb., zákona č. 261/2007 Sb., zákona č. 304/2007 Sb., zákona č. 247/2008 Sb., zákona č. 153/2010 Sb., zákona č. 468/2011 Sb., zákona č. 214/2013 Sb., zákona č. 258/2014 Sb., zákona č. 252/2017 Sb., zákona č. 311/2019 Sb., zákona č. 150/2021 Sb. a zákona č. 374/2021 Sb., k provedení § 115 odst. 3 zákona o elektronických komunikacích:
+
+## Čl. I
+
+V § 1 vyhlášky č. 52/2022 Sb., o technických a organizačních podmínkách používání programové aplikace a elektronického formuláře pro sběr dat v oblasti elektronických komunikací, se text „https://monitoringtrhu.ctu.cz“ nahrazuje textem „https://monitoringtrhu.ctu.gov.cz“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2025.
+
+Předseda Rady Českého telekomunikačního úřadu:
+
+Ing. Ebert v. r.

@@ -1,0 +1,72 @@
+---
+title: "Vyhláška č. 287/2021 Sb., kterou se mění vyhláška č. 29/2017 Sb., o báňsko-technické evidenci"
+identifier: "287/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/287/2021-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-07-27
+effective: 2021-08-01
+last_amended: 2021-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/287"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 287/2021 Sb., kterou se mění vyhláška č. 29/2017 Sb., o báňsko-technické evidenci
+
+287
+
+VYHLÁŠKA
+
+ze dne 27. července 2021,
+
+kterou se mění vyhláška č. 29/2017 Sb., o báňsko-technické evidenci
+
+Ministerstvo průmyslu a obchodu stanoví podle § 29a odst. 8 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona č. 89/2016 Sb.:
+
+## Čl. I
+
+Vyhláška č. 29/2017 Sb., o báňsko-technické evidenci, se mění takto:
+
+1\. V § 2 odst. 1 písm. f) se za slovo „uloženého“ vkládají slova „, popřípadě odebraného“.
+
+2\. V § 2 odst. 2 písm. c) bodu 8 se čárka nahrazuje písmenem „a“ a bod 9 se zrušuje.
+
+Dosavadní bod 10 se označuje jako bod 9.
+
+3\. V § 2 odst. 2 písm. c) bod 9 zní:
+
+> „9. produkci neupravené a upravené nerostné suroviny.“.
+
+4\. V § 2 odst. 2 písm. d) se slova „a čerpání“ nahrazují slovy „, čerpání, výběr, převod a zrušení“.
+
+5\. V § 2 se na konci odstavce 2 tečka nahrazuje čárkou a doplňují se písmena e) a f), která znějí:
+
+> „e) nákladech na těžbu,
+
+> f) průměrné tržní ceně za jednotku množství stanovenou nařízením vlády upravujícím sazby úhrady z vydobytých nerostů, a to za jednotlivé druhy vydobytých nerostů, které jsou předmětem úhrady.“.
+
+6\. V § 2 odst. 3 písm. a) se slova „, je-li známo“ zrušují.
+
+7\. V § 2 odst. 3 písm. b) bodu 4 se čárka nahrazuje písmenem „a“ a bod 5 se zrušuje.
+
+Dosavadní bod 6 se označuje jako bod 5.
+
+8\. V § 2 odst. 3 písm. b) bod 5 zní:
+
+> „5. produkci neupravené a upravené nerostné suroviny.“.
+
+9\. V § 2 odstavec 4 zní:
+
+> „(4) Údaje podle odstavce 2 se poskytují samostatně za každý dobývací prostor a údaje podle odstavce 3 se poskytují samostatně za každé ložisko nevyhrazených nerostů, pro jehož dobývání bylo vydáno povolení.“.
+
+10\. V § 2 odst. 5 se slova „způsobem umožňujícím dálkový přístup“ nahrazují slovy „na svých internetových stránkách“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2021.
+
+Ministr průmyslu a obchodu:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

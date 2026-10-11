@@ -1,0 +1,112 @@
+---
+title: "Vyhláška č. 13/2022 Sb., kterou se mění vyhláška č. 528/2005 Sb., o fyzické bezpečnosti a certifikaci technických prostředků, ve znění pozdějších předpisů"
+identifier: "13/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/13/2023-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-01-13
+effective: 2022-02-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/13"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 13/2022 Sb., kterou se mění vyhláška č. 528/2005 Sb., o fyzické bezpečnosti a certifikaci technických prostředků, ve znění pozdějších předpisů
+
+13
+
+VYHLÁŠKA
+
+ze dne 13. ledna 2022,
+
+kterou se mění vyhláška č. 528/2005 Sb., o fyzické bezpečnosti a certifikaci technických prostředků, ve znění pozdějších předpisů
+
+Národní bezpečnostní úřad stanoví podle § 33 a § 53 písm. a) a f) zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění zákona č. 255/2011 Sb., zákona č. 420/2011 Sb. a zákona č. 205/2017 Sb.:
+
+## Čl. I
+
+Příloha č. 1 k vyhlášce č. 528/2005 Sb., o fyzické bezpečnosti a certifikaci technických prostředků, ve znění vyhlášky č. 19/2008 Sb., vyhlášky č. 454/2011 Sb. a vyhlášky č. 204/2016 Sb., se mění takto:
+
+1\. V bodě 5.3. se věta třetí nahrazuje větou „Speciální televizní systémy musí splňovat požadavky normy ČSN EN 62676-1-1 Dohledové videosystémy pro použití v bezpečnostních aplikacích – Část 1-1: Systémové požadavky – Obecně.“.
+
+2\. V bodě 6.5. se věta druhá zrušuje.
+
+3\. V bodě 7. se věta třetí zrušuje.
+
+4\. Na konci bodu 7. se doplňuje poznámka, která zní:
+
+> „Poznámka:
+
+> Zařízení elektrické požární signalizace musí splňovat požadavky jiných právních předpisů, například § 8 vyhlášky č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci), ve znění pozdějších předpisů.“.
+
+5\. Bod 9. včetně nadpisu zní:
+
+> „9. ZAŘÍZENÍ FYZICKÉHO NIČENÍ NOSIČŮ INFORMACÍ NEBO DAT (NNI)
+
+> | 9.1. Zařízení fyzického ničení nosičů informací nebo dat typ NNI 4: |
+> |---|
+> | bez bodového hodnocení, resp. ohodnocení |
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu NNI 4 jsou určena pro ničení utajovaných informací stupně utajení Přísně tajné nebo nižší. Zařízení fyzického ničení nosičů informací nebo dat je certifikováno Úřadem.
+
+> <table><tbody><tr><th>Nosič informací nebo dat</th><th colspan="2">Velikost odpadních částic</th></tr><tr><td>papír, film v originální velikosti, kov, umělá hmota, identifikační karty, magnetické pásky, pevné disky, diskety, kompaktní disky a obdobné nosiče;</td><td colspan="2">plocha částic ≤ 5 mm<sup>2*</sup></td></tr><tr><td>mikrofilmy, mikrofiše, čipové karty, SSD disky, flash paměti, paměťové čipy a obdobné nosiče;</td><td>plocha částic</td><td>≤ 0,2 mm<sup>2*</sup></td></tr></tbody></table>
+
+> Poznámka:
+
+> <sup>\*</sup> velikost odpadních částic nesmí být překročena
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu NNI 4 jsou určena také pro ničení utajovaných informací cizí moci stupně utajení Přísně tajné nebo nižší.
+
+> | 9.2. Zařízení fyzického ničení nosičů informací nebo dat typ NNI 3: |
+> |---|
+> | bez bodového hodnocení, resp. ohodnocení |
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu NNI 3 jsou určena pro ničení utajovaných informací stupně utajení Tajné nebo nižší. Zařízení fyzického ničení nosičů informací nebo dat je certifikováno Úřadem.
+
+> <table><tbody><tr><th><u>Nosič informací nebo dat</u></th><th colspan="2"><u>Velikost odpadních částic</u></th></tr><tr><td><u>papír, film v originální velikosti, kov, umělá hmota, identifikační karty, magnetické pásky, diskety, kompaktní disky a obdobné nosiče;</u></td><td colspan="2"><u>plocha částic ≤ 10 mm<sup>2</sup></u></td></tr><tr><td><u>mikrofilmy, mikrofiše, čipové karty, SSD disky, flash paměti, paměťové čipy a obdobné nosiče;</u></td><td><u>plocha částic</u></td><td><u>≤ 0,5 mm<sup>2</sup></u></td></tr></tbody></table>
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu NNI 3 jsou určena také pro ničení utajovaných informací cizí moci stupně utajení Důvěrné nebo nižší.
+
+> | 9.3. Zařízení fyzického ničení nosičů informací nebo dat typ NNI 2: |
+> |---|
+> | bez bodového hodnocení, resp. ohodnocení |
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu NNI 2 jsou určena pro ničení utajovaných informací stupně utajení Důvěrné nebo nižší. Zařízení fyzického ničení nosičů informací nebo dat je certifikováno Úřadem.
+
+> <table><tbody><tr><th>Nosič informací nebo dat</th><th colspan="2">Velikost odpadních částic</th></tr><tr><td>papír, film v originální velikosti, kov, umělá hmota, identifikační karty, magnetické pásky, diskety, kompaktní disky a obdobné nosiče;</td><td colspan="2">plocha částic ≤ 30 mm<sup>2</sup> a <br> šířka částic ≤ 2 mm</td></tr><tr><td>mikrofilmy, mikrofiše, čipové karty, SSD disky, flash paměti, paměťové čipy a obdobné nosiče;</td><td>plocha částic</td><td>≤ 1 mm<sup>2</sup></td></tr></tbody></table>
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu NNI 2 nejsou určena pro ničení utajovaných informací cizí moci.
+
+> | 9.4. Zařízení fyzického ničení nosičů informací nebo dat typ NNI 1: |
+> |---|
+> | bez bodového hodnocení, resp. ohodnocení |
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu NNI 1 jsou určena pro ničení utajovaných informací stupně utajení Vyhrazené. Zařízení fyzického ničení nosičů informací nebo dat je certifikováno Úřadem.
+
+> | Nosič informací nebo dat | Velikost odpadních částic |
+> |---|---|
+> | papír, film v originální velikosti, kov, umělá hmota, identifikační karty, magnetické pásky, diskety, kompaktní disky a obdobné nosiče; | plocha částic ≤ 160 mm<sup>2</sup> a <br> šířka částic ≤ 6 mm |
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu NNI 1 nejsou určena pro ničení utajovaných informací cizí moci.
+
+> | 9.5. Zařízení fyzického ničení nosičů informací nebo dat typ 0: |
+> |---|
+> | bez bodového hodnocení, resp. ohodnocení |
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu 0 jsou určena pro ničení utajovaných informací stupně utajení Přísně tajné nebo nižší. K ničení se používá spálení, roztavení, drcení nebo rozvláknění. Teplota, které budou vystaveny při spálení nebo roztavení, způsob drcení nebo rozvláknění, a doba jejího působení musí vést k jejich úplnému zničení. Odpovědná osoba nebo jí pověřená osoba, která provádí vyřazování utajované informace, zajistí, že použitím metody spálení, roztavení, drcení nebo rozvláknění dojde k úplnému zničení nosiče a nemožnosti obnovení utajované informace.
+
+> Zařízení fyzického ničení nosičů informací nebo dat typu 0 jsou určena také pro ničení utajovaných informací cizí moci stupně utajení Přísně tajné nebo nižší.
+
+> Pokud zařízení fyzického ničení nosičů informací nebo dat nesplní uvedené požadavky na velikost odpadních částic pro odpovídající stupně utajení, musí odpovědná osoba nebo jí pověřená osoba zajistit další zničení odpadních částic typem 0, tj. použitím metody spálení, roztavení, drcení nebo rozvláknění.“.
+
+6\. V bodě 15. větě první se číslo „4“ nahrazuje číslem „5“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. února 2022, s výjimkou ustanovení čl. I bodu 5, které nabývá účinnosti dnem 1. ledna 2023.
+
+Ředitel:
+
+Lang v. r.

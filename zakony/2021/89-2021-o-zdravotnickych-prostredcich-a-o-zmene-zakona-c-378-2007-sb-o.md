@@ -1,0 +1,100 @@
+---
+title: "Zákon č. 89/2021 Sb., o zdravotnických prostředcích a o změně zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů"
+identifier: "89/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/89/2022-12-22"
+type: act
+jurisdiction: cz
+language: cs
+date: 2021-02-09
+effective: 2021-05-26
+last_amended: 2022-12-22
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/89"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 89/2021 Sb., o zdravotnických prostředcích a o změně zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů ve znění zákona č. 375/2022 Sb."
+---
+
+# Zákon č. 89/2021 Sb., o zdravotnických prostředcích a o změně zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů
+
+89
+
+ZÁKON
+
+ze dne 9. února 2021
+
+o zdravotnických prostředcích a o změně zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DVANÁCTÁ – Změna zákona o léčivech
+
+### § 78
+
+Zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění zákona č. 124/2008 Sb., zákona č. 296/2008 Sb., zákona č. 141/2009 Sb., zákona č. 281/2009 Sb., zákona č. 291/2009 Sb., zákona č. 75/2011 Sb., zákona č. 375/2011 Sb., zákona č. 50/2013 Sb., zákona č. 70/2013 Sb., zákona č. 250/2014 Sb., zákona č. 80/2015 Sb., zákona č. 243/2016 Sb., zákona č. 65/2017 Sb., zákona č. 66/2017 Sb., zákona č. 183/2017 Sb., zákona č. 251/2017 Sb., zákona č. 36/2018 Sb., zákona č. 44/2019 Sb. a zákona č. 262/2019 Sb., se mění takto:
+
+1\. V § 81 odst. 1 se na konci písmene f) slovo „a“ nahrazuje čárkou.
+
+2\. V § 81 se na konci odstavce 1 tečka nahrazuje slovem „a“ a doplňuje se písmeno h), které včetně poznámky pod čarou č. 117 zní:
+
+> „h) centrálního úložiště elektronických poukazů podle jiného právního předpisu<sup>117</sup>).
+
+> <sup>117</sup>) Zákon č. 89/2021 Sb., o zdravotnických prostředcích a o změně zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů.“.
+
+3\. V § 81 odst. 4 písm. a) se slova „příjmení a“ nahrazují slovem „příjmení,“ a za slovo „narození“ se vkládají slova „a adresu místa pobytu“.
+
+4\. V § 81 odst. 4 písm. b) se slova „příjmení a“ nahrazují slovem „příjmení,“ a za slovo „narození“ se vkládají slova „a adresu místa pobytu“.
+
+5\. V § 81a odst. 1 se za větu první vkládá věta „Přístupové údaje lékaře a farmaceuta podle věty první lze nahradit prokázáním totožnosti s využitím služeb Národního bodu pro identifikaci a autentizaci<sup>118</sup>).“ a za větu třetí se vkládá věta „K systému eRecept přistupují i další osoby, stanoví-li tak jiný právní předpis<sup>118</sup>).“.
+
+Poznámka pod čarou č. 118 zní:
+
+> „<sup>118</sup>) Zákon č. 250/2017 Sb., o elektronické identifikaci, ve znění pozdějších předpisů.“.
+
+## ČÁST TŘINÁCTÁ – ÚČINNOST
+
+### § 79
+
+Tento zákon nabývá účinnosti dnem 26. května 2021.
+
+Vondráček v. r.
+
+Zeman v. r.
+
+Babiš v. r.
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) 2017/745 ze dne 5. dubna 2017 o zdravotnických prostředcích, změně směrnice 2001/83/ES, nařízení (ES) č. 178/2002 a nařízení (ES) č. 1223/2009 a o zrušení směrnic Rady 90/385/EHS a 93/42/EHS.
+
+<sup>2</sup>) Zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů. 
+ Zákon č. 90/2016 Sb., o posuzování shody stanovených výrobků při jejich dodávání na trh., ve znění pozdějších předpisů.
+
+<sup>3</sup>) Zákon č. 90/2016 Sb., ve znění pozdějších předpisů.
+
+<sup>4</sup>) Čl. 2 bod 12 nařízení o zdravotnických prostředcích.
+
+<sup>5</sup>) Čl. 30 nařízení o zdravotnických prostředcích.
+
+<sup>6</sup>) Část sedmá zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>7</sup>) Zákon č. 40/1995 Sb., o regulaci reklamy, ve znění pozdějších předpisů.
+
+<sup>8</sup>) Příloha č. I kapitola III bod 23.2 písm. i) nařízení o zdravotnických prostředcích.
+
+<sup>9</sup>) § 3 zákona č. 505/1990 Sb., o metrologii, ve znění pozdějších předpisů.
+
+<sup>10</sup>) § 94 odst. 2 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění pozdějších předpisů.
+
+<sup>11</sup>) Čl. 43 ústavního zákona č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších předpisů. 
+ § 3 odst. 1 zákona č. 300/2013 Sb., o Vojenské policii a o změně některých zákonů (zákon o Vojenské policii), ve znění pozdějších předpisů.
+
+<sup>12</sup>) ČSN EN 62353 - Zdravotnické elektrické přístroje - Opakované zkoušky a zkoušky po opravách zdravotnických elektrických přístrojů.
+
+<sup>13</sup>) Příloha č. 3 k zákonu č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách), ve znění pozdějších předpisů.
+
+<sup>14</sup>) Zákon č. 255/2012 Sb., o kontrole (kontrolní řád), ve znění pozdějších předpisů.
+
+<sup>15</sup>) Čl. 2 bod 7 nařízení o zdravotnických prostředcích.
+
+<sup>16</sup>) Zákon č. 22/1997 Sb., ve znění pozdějších předpisů. 
+ Nařízení vlády č. 179/1997 Sb., kterým se stanoví grafická podoba české značky shody, její provedení a umístění na výrobku, ve znění pozdějších předpisů.

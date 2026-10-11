@@ -1,0 +1,46 @@
+---
+title: "Nařízení vlády č. 562/2020 Sb., kterým se mění nařízení vlády č. 75/2005 Sb., o stanovení rozsahu přímé vyučovací, přímé výchovné, přímé speciálně pedagogické a přímé pedagogicko-psychologické činnosti pedagogických pracovníků, ve znění pozdějších předpisů"
+identifier: "562/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/562/2021-02-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2020-12-14
+effective: 2021-02-01
+last_amended: 2021-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/562"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 562/2020 Sb., kterým se mění nařízení vlády č. 75/2005 Sb., o stanovení rozsahu přímé vyučovací, přímé výchovné, přímé speciálně pedagogické a přímé pedagogicko-psychologické činnosti pedagogických pracovníků, ve znění pozdějších předpisů
+
+562
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. prosince 2020,
+
+kterým se mění nařízení vlády č. 75/2005 Sb., o stanovení rozsahu přímé vyučovací, přímé výchovné, přímé speciálně pedagogické a přímé pedagogicko-psychologické činnosti pedagogických pracovníků, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 23 odst. 5 zákona č. 563/2004 Sb., o pedagogických pracovnících a o změně některých zákonů:
+
+## Čl. I
+
+V § 2 nařízení vlády č. 75/2005 Sb., o stanovení rozsahu přímé vyučovací, přímé výchovné, přímé speciálně pedagogické a přímé pedagogicko-psychologické činnosti pedagogických pracovníků, ve znění nařízení vlády č. 273/2009 Sb., se za odstavec 5 vkládá nový odstavec 6, který zní:
+
+> „(6) Týdenní rozsah přímé pedagogické činnosti stanovený v příloze k tomuto nařízení se zvyšuje o 1 hodinu, poskytuje-li pedagogický pracovník pedagogickou intervenci jako podpůrné opatření. Věta první se nepoužije u pedagogického pracovníka se sjednanou kratší než stanovenou týdenní pracovní dobou a u pedagogického pracovníka, pro kterého je týdenní rozsah přímé pedagogické činnosti stanoven v rozpětí.“.
+
+Dosavadní odstavce 6 až 8 se označují jako odstavce 7 až 9.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. února 2021.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr školství, mládeže a tělovýchovy:
+
+Ing. Plaga, Ph.D., v. r.

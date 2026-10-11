@@ -1,0 +1,69 @@
+---
+title: "Vyhláška č. 405/2017 Sb., kterou se mění vyhláška č. 499/2006 Sb., o dokumentaci staveb, ve znění vyhlášky č. 62/2013 Sb., a vyhláška č. 169/2016 Sb., o stanovení rozsahu dokumentace veřejné zakázky na stavební práce a soupisu stavebních prací, dodávek a služeb s výkazem výměr"
+identifier: "405/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/405/2024-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-11-24
+effective: 2018-01-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/405"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 405/2017 Sb., kterou se mění vyhláška č. 499/2006 Sb., o dokumentaci staveb, ve znění vyhlášky č. 62/2013 Sb., a vyhláška č. 169/2016 Sb., o stanovení rozsahu dokumentace veřejné zakázky na stavební práce a soupisu stavebních prací, dodávek a služeb s výkazem výměr ve znění zákona č. 283/2021 Sb."
+---
+
+# Vyhláška č. 405/2017 Sb., kterou se mění vyhláška č. 499/2006 Sb., o dokumentaci staveb, ve znění vyhlášky č. 62/2013 Sb., a vyhláška č. 169/2016 Sb., o stanovení rozsahu dokumentace veřejné zakázky na stavební práce a soupisu stavebních prací, dodávek a služeb s výkazem výměr
+
+405
+
+VYHLÁŠKA
+
+ze dne 24. listopadu 2017,
+
+kterou se mění vyhláška č. 499/2006 Sb., o dokumentaci staveb, ve znění vyhlášky č. 62/2013 Sb., a vyhláška č. 169/2016 Sb., o stanovení rozsahu dokumentace veřejné zakázky na stavební práce a soupisu stavebních prací, dodávek a služeb s výkazem výměr
+
+Ministerstvo pro místní rozvoj stanoví podle § 193 zákona č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění zákona č. 225/2017 Sb., a § 92 odst. 1 zákona č. 134/2016 Sb., o zadávání veřejných zakázek:
+
+## ČÁST DRUHÁ – Změna vyhlášky o stanovení rozsahu dokumentace veřejné zakázky na stavební práce a soupisu stavebních prací, dodávek a služeb s výkazem výměr
+
+### Čl. III
+
+Vyhláška č. 169/2016 Sb., o stanovení rozsahu dokumentace veřejné zakázky na stavební práce a soupisu stavebních prací, dodávek a služeb s výkazem výměr, se mění takto:
+
+1\. V § 2 odst. 1 se na začátek písmene a) vkládá slovo „projektové“ a slova „přílohy č. 6 k vyhlášce“ se nahrazují slovem „vyhlášky“.
+
+2\. V § 2 odst. 1 písm. b) se slova „přílohy č. 3, 5, 6 nebo 9 k vyhlášce“ nahrazují slovem „vyhlášky“.
+
+3\. V § 2 odst. 1 písm. c) se slova „přílohy č. 8 k vyhlášce“ nahrazují slovem „vyhlášky“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. IV
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2018.
+
+Ministryně:
+
+Ing. Šlechtová v. r.
+
+---
+
+<sup>1</sup>) Například zákon č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů, zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.
+
+<sup>3</sup>) Nařízení vlády č. 430/2006 Sb., o stanovení geodetických referenčních systémů a státních mapových děl závazných na území státu a zásadách jejich používání, ve znění nařízení vlády č. 81/2011 Sb. 
+ § 12 a 13 zákona č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů. 
+ § 13 vyhlášky č. 31/1995 Sb., kterou se provádí zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Například zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů. 
+ Vyhláška č. 298/2005 Sb., o požadavcích na odbornou kvalifikaci a odbornou způsobilost při hornické činnosti nebo činnosti prováděné hornickým způsobem a o změně některých právních předpisů, ve znění pozdějších předpisů.
+
+<sup>6</sup>) Zákon č. 406/2000 Sb., o hospodaření energií, ve znění pozdějších předpisů.
+
+<sup>7</sup>) Vyhláška č. 352/2004 Sb., o provozní a technické propojenosti evropského železničního systému, ve znění pozdějších předpisů. 
+ Nařízení vlády č. 133/2005 Sb., o technických požadavcích na provozní a technickou propojenost evropského železničního systému, ve znění pozdějších předpisů.

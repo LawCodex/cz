@@ -1,0 +1,42 @@
+---
+title: "Nařízení vlády č. 299/2022 Sb., kterým se zrušuje nařízení vlády č. 263/2022 Sb., o příspěvku na úhradu nákladů za elektřinu, zemní plyn a teplo"
+identifier: "299/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/299/2022-10-08"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2022-10-05
+effective: 2022-10-08
+last_amended: 2022-10-08
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/299"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 299/2022 Sb., kterým se zrušuje nařízení vlády č. 263/2022 Sb., o příspěvku na úhradu nákladů za elektřinu, zemní plyn a teplo
+
+299
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 5. října 2022,
+
+kterým se zrušuje nařízení vlády č. 263/2022 Sb., o příspěvku na úhradu nákladů za elektřinu, zemní plyn a teplo
+
+Vláda nařizuje k provedení zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 151/2002 Sb., zákona č. 262/2002 Sb., zákona č. 278/2003 Sb., zákona č. 356/2003 Sb., zákona č. 670/2004 Sb., zákona č. 186/2006 Sb., zákona č. 342/2006 Sb., zákona č. 296/2007 Sb., zákona č. 124/2008 Sb., zákona č. 158/2009 Sb., zákona č. 223/2009 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 155/2010 Sb., zákona č. 211/2011 Sb., zákona č. 299/2011 Sb., zákona č. 420/2011 Sb., zákona č. 165/2012 Sb., zákona č. 350/2012 Sb., zákona č. 90/2014 Sb., zákona č. 250/2014 Sb., zákona č. 104/2015 Sb., zákona č. 131/2015 Sb., zákona č. 152/2017 Sb., zákona č. 183/2017 Sb., zákona č. 225/2017 Sb., zákona č. 277/2019 Sb., zákona č. 1/2020 Sb., zákona č. 403/2020 Sb., zákona č. 609/2020 Sb., zákona č. 261/2021 Sb., zákona č. 284/2021 Sb., zákona č. 362/2021 Sb., zákona č. 382/2021 Sb., zákona č. 176/2022 Sb. a zákona č. 232/2022 Sb.:
+
+## § 1
+
+Nařízení vlády č. 263/2022 Sb., o příspěvku na úhradu nákladů za elektřinu, zemní plyn a teplo, se zrušuje.
+
+## § 2 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Síkela v. r.

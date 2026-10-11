@@ -1,0 +1,140 @@
+---
+title: "Vyhláška č. 480/2020 Sb., o užívání pozemních komunikací zpoplatněných časovým poplatkem"
+identifier: "480/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/480/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-11-20
+effective: 2021-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/480"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 480/2020 Sb., o užívání pozemních komunikací zpoplatněných časovým poplatkem
+
+480
+
+VYHLÁŠKA
+
+ze dne 20. listopadu 2020
+
+o užívání pozemních komunikací zpoplatněných časovým poplatkem
+
+Ministerstvo dopravy stanoví podle § 46 odst. 2 k provedení § 20 odst. 1 a § 21a odst. 6 zákona č. 13/1997 Sb., o pozemních komunikacích, ve znění zákona č. 102/2000 Sb., zákona č. 80/2006 Sb., zákona č. 97/2009 Sb., zákona č. 347/2009 Sb., zákona č. 152/2011 Sb., zákona č. 196/2012 Sb., zákona č. 64/2014 Sb., zákona č. 268/2015 Sb., zákona č. 225/2017 Sb., zákona č. 193/2018 Sb. a zákona č. 227/2019 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví
+
+a) způsob zaznamenání údajů o provedení úhrady časového poplatku v evidenci vozidel v systému časového zpoplatnění a náležitosti a způsob předání potvrzení o úhradě časového poplatku osobě, která úhradu provedla,
+
+b) pozemní komunikace, jejichž užití podléhá časovému poplatku.
+
+## § 2 – Způsob zaznamenání údajů o provedení úhrady časového poplatku
+
+Údaje o provedení úhrady časového poplatku se v evidenci vozidel v systému časového zpoplatnění zaznamenávají automatizovaně
+
+a) na základě údajů zadaných osobou, která úhradu provedla prostřednictvím samoobslužného automatu nebo dálkového přístupu, nebo
+
+b) na základě údajů zadaných osobou pověřenou výběrem časového poplatku při úhradě na místě určeném k úhradě časového poplatku.
+
+## § 3 – Náležitosti potvrzení o úhradě časového poplatku
+
+Potvrzení o úhradě časového poplatku obsahuje:
+
+a) státní poznávací značku vozidla,
+
+b) údaj o státu, ve kterém je vozidlo registrováno,
+
+c) údaj o období, na které byl časový poplatek uhrazen,
+
+d) údaj o počátku a konci období, na které byl časový poplatek uhrazen,
+
+e) datum a čas provedení úhrady,
+
+f) údaj o tom, zda jde o časový poplatek pro vozidlo poháněné zemním plynem nebo biometanem, nebo zda jde o časový poplatek pro vozidlo používající jako palivo elektrickou energii nebo vodík v kombinaci s jiným palivem, je-li hodnota emisí CO<sub>2</sub> v kombinovaném provozu nejvýše 50 g/km.
+
+## § 4 – Způsob předání potvrzení o úhradě časového poplatku
+
+Potvrzení o úhradě časového poplatku se předá osobě, která úhradu provedla,
+
+a) v listinné podobě osobou pověřenou výběrem časového poplatku při úhradě na místě určeném k úhradě časového poplatku,
+
+b) v listinné podobě nebo elektronicky na adresu elektronické pošty, byla-li zadána, při úhradě bezhotovostně prostřednictvím samoobslužného automatu, nebo
+
+c) elektronicky na adresu elektronické pošty při úhradě bezhotovostně prostřednictvím dálkového přístupu.
+
+## § 5 – Pozemní komunikace, jejichž užití podléhá časovému poplatku
+
+Pozemní komunikace, jejichž užití podléhá časovému poplatku, jsou uvedeny v příloze k této vyhlášce.
+
+## § 6 – Přechodné ustanovení
+
+Platnost kupónů vzoru 2020 vydaných podle vyhlášky č. 306/2015 Sb., o užívání pozemních komunikací zpoplatněných časovým poplatkem, ve znění účinném přede dnem nabytí účinnosti této vyhlášky, není dotčena u kupónů s platností na deset dnů do 9. ledna 2021 a u kupónů s platností na jeden měsíc a kalendářní rok do 31. ledna 2021.
+
+## § 7 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Vyhláška č. 306/2015 Sb., o užívání pozemních komunikací zpoplatněných časovým poplatkem.
+
+2\. Vyhláška č. 383/2016 Sb., kterou se mění vyhláška č. 306/2015 Sb., o užívání pozemních komunikací zpoplatněných časovým poplatkem.
+
+3\. Vyhláška č. 386/2017 Sb., kterou se mění vyhláška č. 306/2015 Sb., o užívání pozemních komunikací zpoplatněných časovým poplatkem, ve znění vyhlášky č. 383/2016 Sb.
+
+4\. Vyhláška č. 258/2018 Sb., kterou se mění vyhláška č. 306/2015 Sb., o užívání pozemních komunikací zpoplatněných časovým poplatkem, ve znění pozdějších předpisů.
+
+5\. Vyhláška č. 307/2019 Sb., kterou se mění vyhláška č. 306/2015 Sb., o užívání pozemních komunikací zpoplatněných časovým poplatkem, ve znění pozdějších předpisů.
+
+## § 8 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2021.
+
+Ministr:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.
+
+### Příloha
+
+#### Seznam pozemních komunikací, jejichž užití podléhá časovému poplatku
+
+| Označení | Úsek | Délka (km) |
+|---|---|---|
+| D0 | Modletice – Slivenec (exity 76–16) | 23 |
+| D1 | Průhonice – Kývalka (exity 6–182) | 176 |
+| D1 | Holubice – Kroměříž-západ (exity 210–258) | 48 |
+| D1 | Kroměříž-východ – Ostrava-Rudná (exity 260–354) | 94 |
+| D2 | Chrlice – státní hranice (exit 3 až km 61) (v opačném směru až od Lanžhot, odpočívka) | 58 |
+| D3 | Mezno – Tábor-sever (km 62 až exit 76) | 14 |
+| D3 | Tábor-jih – Veselí nad Lužnicí-sever (exity 79–104) | 25 |
+| D3 | Veselí nad Lužnicí-jih – Úsilné (exity 107–131) | 24 |
+| D3 | Roudné – Kaplice-nádraží (exity 141–159) | 18 |
+| D4 | Jíloviště – Třebkov (exity 9–84) | 75 |
+| D5 | Praha-Třebonice – Beroun-východ (exity 1–14) | 14 |
+| D5 | Králův Dvůr – Ejpovice (exity 22–67) | 45 |
+| D5 | Sulkov – státní hranice (exit 89 až km 151) (v opačném směru až od Rozvadov, odpočívka) | 62 |
+| D6 | Jeneč – Bukov (exity 7–62) | 55 |
+| D7 | Kněževes – Knovíz (exity 3–18) | 15 |
+| D8 | Zdiby – Řehlovice (exity 1–64) | 64 |
+| D8 | Knínice – státní hranice (exit 80 až km 92) (v opačném směru bez poplatku) | 12 |
+| D10 | Stará Boleslav – Bezděčín (exity 14–39) | 25 |
+| D10 | Kosmonosy – Ohrazenice (exity 46–71) | 25 |
+| D11 | Jirny – Jaroměř-sever (exity 8–113) | 105 |
+| D35 | Sedlice – Ostrov (exit 127 až km 158) | 31 |
+| D35 | Mohelnice-jih – Olomouc-západ (exity 235–263) | 28 |
+| D35 | Holice – Lipník nad Bečvou (exity 276–296) | 20 |
+| D46 | Vyškov-východ – Prostějov-jih (exity 1–21) | 21 |
+| D46 | Držovice – Hněvotín (exity 26–37) | 11 |
+| D48 | Bělotín – Jeseník nad Odrou (exity 1–8) | 8 |
+| D48 | Palačov – Nový Jičín-centrum (km 12 až exit 21) | 8 |
+| D48 | Rybí – Frýdek-Místek-východ (km 24 až exit 52) | 28 |
+| D48 | Dobrá – Žukov (exity 54–70) | 16 |
+| D49 | Hulín – Fryšták (exit 1 až km 18) | 18 |
+| D52 | Rajhrad – Pohořelice-sever (exity 10–23) | 13 |
+| D55 | Hulín – Otrokovice-sever (exity 16–30) | 14 |
+| D55 | Otrokovice-východ – Napajedla (exity 32–34) | 3 |
+| D55 | Babice – Bzenec (exity 42–64) | 22 |
+| D56 | Hrabová-průmyslová zóna – Frýdek-Místek (exit 40 až km 54) | 14 |

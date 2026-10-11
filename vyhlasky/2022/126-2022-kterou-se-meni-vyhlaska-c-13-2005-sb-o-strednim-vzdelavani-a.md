@@ -1,0 +1,40 @@
+---
+title: "Vyhláška č. 126/2022 Sb., kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů"
+identifier: "126/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/126/2022-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-05-09
+effective: 2022-09-01
+last_amended: 2022-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/126"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 126/2022 Sb., kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů
+
+126
+
+VYHLÁŠKA
+
+ze dne 9. května 2022,
+
+kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 71 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon):
+
+## Čl. I
+
+V § 13 vyhlášky č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění vyhlášky č. 374/2006 Sb. a vyhlášky č. 400/2009 Sb., se doplňuje odstavec 7, který zní:
+
+> „(7) Jestliže se odborný výcvik uskutečňuje v počtu alespoň 10 skupin podle § 2 odst. 6, může ředitel školy určit 1 zástupce ředitele školy pro odborný výcvik nebo vedoucího učitele odborného výcviku; jestliže se odborný výcvik uskutečňuje v počtu alespoň 20 skupin, může určit až 2 zástupce ředitele školy pro odborný výcvik nebo vedoucí učitele odborného výcviku a za každých dalších 20 skupin dalšího zástupce ředitele školy pro odborný výcvik nebo vedoucího učitele odborného výcviku. Do počtu skupin podle věty první se započítává také jedna polovina všech skupin žáků, které vede instruktor podle odstavce 6, zaokrouhlená na celé číslo směrem dolů. Jestliže se odborný výcvik uskutečňuje v počtu 9 a méně skupin, nelze určit zástupce ředitele školy pro odborný výcvik nebo vedoucího učitele odborného výcviku.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2022.
+
+Ministr školství, mládeže a tělovýchovy:
+
+Mgr. Gazdík v. r.

@@ -1,0 +1,66 @@
+---
+title: "Nařízení vlády č. 290/2022 Sb., o výši všeobecného vyměřovacího základu za rok 2021, přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2021, redukčních hranic pro stanovení výpočtového základu pro rok 2023 a základní výměry důchodu stanovené pro rok 2023 a o zvýšení důchodů v roce 2023"
+identifier: "290/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/290/2023-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2022-09-26
+effective: 2023-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/290"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 290/2022 Sb., o výši všeobecného vyměřovacího základu za rok 2021, přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2021, redukčních hranic pro stanovení výpočtového základu pro rok 2023 a základní výměry důchodu stanovené pro rok 2023 a o zvýšení důchodů v roce 2023
+
+290
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 26. září 2022
+
+o výši všeobecného vyměřovacího základu za rok 2021, přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2021, redukčních hranic pro stanovení výpočtového základu pro rok 2023 a základní výměry důchodu stanovené pro rok 2023 a o zvýšení důchodů v roce 2023
+
+Vláda nařizuje podle § 107 odst. 1 písm. a) až d) zákona č. 155/1995 Sb., o důchodovém pojištění, ve znění zákona č. 212/2016 Sb.:
+
+## § 1 – Výše všeobecného vyměřovacího základu za rok 2021 a přepočítacího koeficientu pro úpravu tohoto všeobecného vyměřovacího základu
+
+(1) Výše všeobecného vyměřovacího základu za rok 2021 činí 38 294 Kč.
+
+(2) Výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2021 činí 1,0530.
+
+## § 2 – Výše redukčních hranic pro stanovení výpočtového základu
+
+Pro rok 2023 výše
+
+a) první redukční hranice pro stanovení výpočtového základu činí 17 743 Kč,
+
+b) druhé redukční hranice pro stanovení výpočtového základu činí 161 296 Kč.
+
+## § 3 – Výše základní výměry důchodu
+
+Výše základní výměry starobního, invalidního, vdovského, vdoveckého a sirotčího důchodu pro rok 2023 činí 4 040 Kč.
+
+## § 4 – Zvýšení důchodů v roce 2023
+
+(1) Důchody starobní, invalidní, vdovské, vdovecké a sirotčí přiznané před 1. lednem 2023 se zvyšují od 1. ledna 2023 tak, že
+
+a) základní výměra důchodu se zvyšuje o 140 Kč měsíčně,
+
+b) procentní výměra důchodu se zvyšuje o 5,1 % procentní výměry důchodu, která náleží ke dni, od něhož se procentní výměra zvyšuje.
+
+(2) Je-li důchod upraven pro souběh s jiným důchodem nebo se vyplácí ve výši poloviny anebo se nevyplácí pro souběh s výdělečnou činností, upraví se při změně výše vypláceného důchodu, která souvisí s důvody úpravy důchodu, nebo při obnovení výplaty důchodu zvýšení procentní výměry důchodu podle odstavce 1 písm. b), a to podle té výše procentní výměry důchodu, která náleží ode dne této změny nebo obnovení výplaty důchodu. Procentní výměry vdovských, vdoveckých a sirotčích důchodů se zvyšují, jen jestliže nebyly vyměřeny z procentních výměr důchodů zvýšených podle odstavce 1.
+
+## § 5 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2023.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.

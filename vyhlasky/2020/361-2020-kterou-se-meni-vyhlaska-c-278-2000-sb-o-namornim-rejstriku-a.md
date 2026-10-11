@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 361/2020 Sb., kterou se mění vyhláška č. 278/2000 Sb., o námořním rejstříku a dokladech námořních plavidel, ve znění vyhlášky č. 327/2011 Sb."
+identifier: "361/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/361/2020-11-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-08-25
+effective: 2020-11-01
+last_amended: 2020-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/361"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 361/2020 Sb., kterou se mění vyhláška č. 278/2000 Sb., o námořním rejstříku a dokladech námořních plavidel, ve znění vyhlášky č. 327/2011 Sb.
+
+361
+
+VYHLÁŠKA
+
+ze dne 25. srpna 2020,
+
+kterou se mění vyhláška č. 278/2000 Sb., o námořním rejstříku a dokladech námořních plavidel, ve znění vyhlášky č. 327/2011 Sb.
+
+Ministerstvo dopravy stanoví podle § 85 odst. 1 zákona č. 61/2000 Sb., o námořní plavbě, ve znění zákona č. 310/2008 Sb., zákona č. 261/2011 Sb., zákona č. 64/2014 Sb. a zákona č. 81/2015 Sb., (dále jen „zákon“) k provedení § 27 odst. 3 zákona:
+
+## Čl. I
+
+Za § 29a vyhlášky č. 278/2000 Sb., o námořním rejstříku a dokladech námořních plavidel, ve znění vyhlášky č. 327/2011 Sb., se vkládá nový § 29b, který včetně nadpisu zní:
+
+> **„§ 29b – Ostatní doklady o pojištění**
+
+> Doklad o pojištění za škody vzniklé v důsledku smrti člena posádky, jeho pracovního úrazu nebo nemoci z povolání, doklad o pojištění pro pokrytí nákladů spojených s repatriací, doklad o pojištění pro pokrytí dlužné mzdy a jiného peněžního plnění vyplývajícího ze základního pracovněprávního vztahu a doklad o pojištění pro pokrytí nákladů spojených se zajištěním sociálních podmínek členů posádky lodě a paliva nezbytného pro přežití na palubě lodi obsahují
+
+> a) jméno lodi, identifikační číslo lodi přidělené Mezinárodní námořní organizací a rejstříkový přístav,
+
+> b) volací znak lodi,
+
+> c) obchodní firmu, název a adresu sídla poskytovatele pojištění,
+
+> d) kontaktní údaje osoby odpovědné za vyřizování smluvních nároků členů posádky lodi,
+
+> e) obchodní firmu, název nebo jméno, popřípadě jména, a příjmení provozovatele lodi,
+
+> f) dobu trvání pojištění a
+
+> g) potvrzení vydané poskytovatelem pojištění dokládající, že pojištění splňuje požadavky zákona.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po jejím vyhlášení.
+
+Ministr dopravy:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

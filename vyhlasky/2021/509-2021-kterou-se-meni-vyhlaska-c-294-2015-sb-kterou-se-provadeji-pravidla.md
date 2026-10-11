@@ -1,0 +1,51 @@
+---
+title: "Vyhláška č. 509/2021 Sb., kterou se mění vyhláška č. 294/2015 Sb., kterou se provádějí pravidla provozu na pozemních komunikacích, ve znění vyhlášky č. 84/2016 Sb."
+identifier: "509/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/509/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-12-16
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/509"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 509/2021 Sb., kterou se mění vyhláška č. 294/2015 Sb., kterou se provádějí pravidla provozu na pozemních komunikacích, ve znění vyhlášky č. 84/2016 Sb.
+
+509
+
+VYHLÁŠKA
+
+ze dne 16. prosince 2021,
+
+kterou se mění vyhláška č. 294/2015 Sb., kterou se provádějí pravidla provozu na pozemních komunikacích, ve znění vyhlášky č. 84/2016 Sb
+
+Ministerstvo dopravy stanoví podle § 137 odst. 2 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění zákona č. 478/2001 Sb., zákona č. 53/2004 Sb., zákona č. 411/2005 Sb., zákona č. 226/2006 Sb., zákona č. 274/2008 Sb., zákona č. 133/2011 Sb., zákona č. 297/2011 Sb., zákona č. 230/2014 Sb., zákona č. 249/2014 Sb., zákona č. 48/2016 Sb., zákona č. 199/2017 Sb., zákona č. 193/2018 Sb., zákona č. 337/2020 Sb., zákona č. 220/2021 Sb. a zákona č. 261/2021 Sb., k provedení § 62 odst. 5 a § 67 odst. 11 tohoto zákona:
+
+## Čl. I
+
+Vyhláška č. 294/2015 Sb., kterou se provádějí pravidla provozu na pozemních komunikacích, ve znění vyhlášky č. 84/2016 Sb., se mění takto:
+
+1\. V příloze č. 8 se v položce V 1a za slovo „objíždění“ vkládají slova „ , předjíždění cyklisty“.
+
+2\. V příloze č. 13 se označení položky „O 5“ nahrazuje označením „O 5a“.
+
+3\. V příloze č. 13 se za položku O 5a vkládá nová položka O 5b, která zní:
+
+> „
+>
+> | O 5b | ![sbcr2021c222z0509p013o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884389/NAHLED/ZOBRAZ/sbcr2021c222z0509p013o001) | Domácí zdravotní péče<br> <br> Označení vozidla poskytovatele domácí zdravotní péče |
+> |---|---|---|
+>
+> “.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Ministr:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

@@ -1,0 +1,50 @@
+---
+title: "Nařízení vlády č. 517/2025 Sb., kterým se mění nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku, veřejných rejstříků právnických a fyzických osob a evidence svěřenských fondů a evidence údajů o skutečných majitelích, ve znění pozdějších předpisů"
+identifier: "517/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/517/2026-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-11-19
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/517"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 517/2025 Sb., kterým se mění nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku, veřejných rejstříků právnických a fyzických osob a evidence svěřenských fondů a evidence údajů o skutečných majitelích, ve znění pozdějších předpisů
+
+517
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 19. listopadu 2025,
+
+kterým se mění nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku, veřejných rejstříků právnických a fyzických osob a evidence svěřenských fondů a evidence údajů o skutečných majitelích, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 1970 zákona č. 89/2012 Sb., občanský zákoník, ve znění zákona č. 268/2025 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku, veřejných rejstříků právnických a fyzických osob a evidence svěřenských fondů a evidence údajů o skutečných majitelích, ve znění nařízení vlády č. 434/2017 Sb., nařízení vlády č. 184/2019 Sb., nařízení vlády č. 25/2021 Sb. a nařízení vlády č. 168/2023 Sb., se mění takto:
+
+V § 2 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Výše úroku z prodlení s placením pohledávky výživného pro nezletilé dítě, které nenabylo plné svéprávnosti, činí po dobu prvních 6 měsíců prodlení 2,5 promile dlužné částky za každý den prodlení. Po uplynutí této doby se výše úroku z prodlení stanoví podle odstavce 1.“.
+
+## Čl. II – Přechodné ustanovení
+
+Došlo-li k prodlení s placením pohledávky výživného pro nezletilé dítě, které nenabylo plné svéprávnosti, přede dnem nabytí účinnosti tohoto nařízení, řídí se výše úroku z prodlení nařízením vlády č. 351/2013 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2026.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministryně spravedlnosti:
+
+Decroix, Ph.D., MBA, MPA, v. r.

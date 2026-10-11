@@ -1,0 +1,56 @@
+---
+title: "Zákon č. 177/2019 Sb., kterým se mění zákon č. 340/2015 Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv), ve znění pozdějších předpisů"
+identifier: "177/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/177/2019-11-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2019-06-18
+effective: 2019-11-01
+last_amended: 2019-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/177"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 177/2019 Sb., kterým se mění zákon č. 340/2015 Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv), ve znění pozdějších předpisů
+
+177
+
+ZÁKON
+
+ze dne 18. června 2019,
+
+kterým se mění zákon č. 340/2015 Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 340/2015 Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv (zákon o registru smluv), ve znění zákona č. 298/2016 Sb. a zákona č. 249/2017 Sb., se mění takto:
+
+1\. V § 3 odst. 2 se na konci textu písmene c) doplňují slova „včetně smlouvy, která se týká zajišťování obrany České republiky, uzavřené právnickou osobou uvedenou v § 2 odst. 1 písm. k), ke které zakladatelskou funkci vykonává Ministerstvo obrany,“.
+
+2\. V § 3 odst. 2 se písmeno h) zrušuje.
+
+Dosavadní písmena i) až r) se označují jako písmena h) až q).
+
+3\. V § 7 odst. 3 se slova „§ 3 odst. 2 písm. r)“ nahrazují slovy „§ 3 odst. 2 písm. q)“.
+
+4\. V § 8 se na konci odstavce 2 doplňuje věta „Smlouva, kterou se doplňuje, mění, nahrazuje nebo ruší smlouva uveřejněná v registru smluv přede dnem 18. srpna 2017, může být rovněž uzavřena písemně nebo jiným způsobem umožňujícím uveřejnění smlouvy prostřednictvím registru smluv.“.
+
+5\. V § 8 se doplňují odstavce 7 a 8, které znějí:
+
+> „(7) Do 31. prosince 2023 lze elektronický obraz textového obsahu smlouvy vložit do registru také v otevřeném formátu umožňujícím úplné strojové zpracování textového obsahu.
+
+> (8) Byla-li smlouva, na niž se vztahuje povinnost uveřejnění prostřednictvím registru smluv, uveřejněna v registru smluv přede dnem 18. srpna 2017, hledí se na ni pro účel podle tohoto zákona vždy tak, že splňuje podmínku uzavření v písemné formě.“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti prvním dnem čtvrtého kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Vondráček v. r.
+
+Zeman v. r.
+
+Babiš v. r.

@@ -1,0 +1,148 @@
+---
+title: "Vyhláška č. 269/2018 Sb., o vyhlášení Národní přírodní památky V Jezírkách a stanovení jejích bližších ochranných podmínek"
+identifier: "269/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/269/2019-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2018-11-30
+effective: 2019-01-01
+last_amended: 2019-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/269"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 269/2018 Sb., o vyhlášení Národní přírodní památky V Jezírkách a stanovení jejích bližších ochranných podmínek
+
+269
+
+VYHLÁŠKA
+
+ze dne 30. listopadu 2018
+
+o vyhlášení Národní přírodní památky V Jezírkách a stanovení jejích bližších ochranných podmínek
+
+Ministerstvo životního prostředí stanoví podle § 79 odst. 5 písm. g) zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 349/2009 Sb., zákona č. 123/2017 Sb. a zákona č. 225/2017 Sb.:
+
+## § 1 – Vyhlášení národní přírodní památky
+
+(1) Vyhlašuje se Národní přírodní památka V Jezírkách (dále jen „národní přírodní památka“).
+
+(2) Za národní přírodní památku se vyhlašuje přírodní útvar, územně vymezený v odstavci 3, určený k ochraně
+
+a) travinných ekosystémů luk a pastvin,
+
+b) mokřadních a vodních ekosystémů slatinných a přechodových rašelinišť a vegetace parožnatek,
+
+c) biotopů vzácných a ohrožených druhů rostlin prstnatce pleťového (Dactylorhiza incarnata), vstavače bahenního (Orchis palustris) a žluťuchy žluté (Thalictrum flavum), včetně jejich populací,
+
+d) biotopů vzácných a ohrožených druhů živočichů blatnice skvrnité (Pelobates fuscus) a kuňky ohnivé (Bombina bombina), včetně jejich populací.
+
+(3) Národní přírodní památka se rozkládá na území Středočeského kraje, v katastrálním území Velim. Hranice národní přírodní památky se stanoví uzavřeným geometrickým obrazcem s přímými stranami, jehož vrcholy jsou určeny souřadnicemi jednotné trigonometrické sítě katastrální<sup>1</sup>). Seznam souřadnic vrcholů geometrického obrazce tak, jak jdou v obrazci za sebou, je uveden v příloze č. 1 k této vyhlášce.
+
+(4) Orientační grafické znázornění území národní přírodní památky a jejího ochranného pásma je uvedeno v příloze č. 2 k této vyhlášce.
+
+## § 2 – Bližší ochranné podmínky
+
+Na celém území národní přírodní památky lze jen se souhlasem orgánu ochrany přírody
+
+a) povolovat nebo provádět změny druhů pozemků nebo způsobů jejich využití<sup>2</sup>),
+
+b) povolovat nebo provádět stavby, povolovat nebo provádět změny dokončených staveb nebo změny staveb před jejich dokončením anebo umisťovat stavby, reklamní nebo informační zařízení,
+
+c) povolovat nebo provádět změny vodního režimu pozemků,
+
+d) provádět zemní práce,
+
+e) ukládat věci, s výjimkou krátkodobého uložení dřevní hmoty na lesním pozemku,
+
+f) hnojit pozemky nebo používat chemické látky anebo chemické směsi na pozemcích,
+
+g) zřizovat rybářská zařízení,
+
+h) vysazovat nebo lovit ryby,
+
+i) zřizovat nová přikrmovací zařízení nebo slaniska,
+
+j) přikrmovat nebo vnadit zvěř mimo přikrmovací zařízení,
+
+k) vyznačovat cyklistické nebo turistické trasy, nebo
+
+l) vjíždět vozidly; souhlas se nevyžaduje u vozidel základních složek integrovaného záchranného systému<sup>3</sup>) a ozbrojených sil České republiky při plnění jejich úkolů, vozidel dalších orgánů veřejné moci při výkonu jejich působnosti v oblasti veřejné správy, vozidel potřebných pro zajištění hospodaření na pozemcích a péče o ně a vozidel potřebných pro zajištění veterinární péče.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2019.
+
+Ministr:
+
+Mgr. Brabec v. r.
+
+### Příloha č. 1 k vyhlášce č. 269/2018 Sb.
+
+#### Seznam souřadnic jednotné trigonometrické sítě katastrální (S-JTSK) jednotlivých vrcholů geometrického obrazce, kterým jsou stanoveny hranice Národní přírodní památky V Jezírkách
+
+#### Geometrický obrazec - hranice Národní přírodní památky V Jezírkách
+
+| číslo bodu | souřadnice - Y [m] | souřadnice - X [m] | pořadí bodu v obrazci |
+|---|---|---|---|
+| 752177-504-849 | 693962,30 | 1049921,44 | 1 |
+| 752177-504-974 | 693951,14 | 1049925,76 | 2 |
+| 1011-340 | 693915,53 | 1049944,31 | 3 |
+| 752177-504-1319 | 693911,16 | 1049946,59 | 4 |
+| 752177-504-1441 | 693889,60 | 1049960,32 | 5 |
+| 752177-504-1557 | 693872,54 | 1049971,19 | 6 |
+| 752177-504-1679 | 693853,32 | 1049983,43 | 7 |
+| 1011-807 | 693840,93 | 1049994,39 | 8 |
+| 752177-504-1798 | 693835,01 | 1049999,63 | 9 |
+| 1032-1407 | 693828,16 | 1049999,89 | 10 |
+| 1011-915 | 693827,73 | 1049999,91 | 11 |
+| 752177-504-1917 | 693814,58 | 1050000,41 | 12 |
+| 1011-1077 | 693808,05 | 1050000,66 | 13 |
+| 1032-1541 | 693803,23 | 1050000,84 | 14 |
+| 1011-1205 | 693794,33 | 1050001,18 | 15 |
+| 752177-504-2088 | 693789,55 | 1050001,36 | 16 |
+| 752177-504-2268 | 693764,51 | 1050004,62 | 17 |
+| 752177-504-2425 | 693743,31 | 1050011,13 | 18 |
+| 752177-504-2546 | 693720,64 | 1050018,09 | 19 |
+| 752177-504-2822 | 693667,57 | 1050026,04 | 20 |
+| 1011-2568 | 693626,02 | 1050032,26 | 21 |
+| 752177-504-2971 | 693620,85 | 1050033,03 | 22 |
+| 1032-2683 | 693618,09 | 1050040,62 | 23 |
+| 1032-2669 | 693620,06 | 1050070,30 | 24 |
+| 1032-2619 | 693625,45 | 1050092,72 | 25 |
+| 1032-2421 | 693661,49 | 1050107,27 | 26 |
+| 1032-2192 | 693699,74 | 1050107,67 | 27 |
+| 1032-1966 | 693744,86 | 1050088,48 | 28 |
+| 1032-1753 | 693775,31 | 1050075,53 | 29 |
+| 1032-1647 | 693788,57 | 1050064,83 | 30 |
+| 1032-1602 | 693793,94 | 1050060,49 | 31 |
+| 1032-1503 | 693808,95 | 1050057,07 | 32 |
+| 1032-1445 | 693819,05 | 1050054,77 | 33 |
+| 1032-1326 | 693842,15 | 1050049,51 | 34 |
+| 1032-1274 | 693852,35 | 1050048,23 | 35 |
+| 684-59 | 693893,14 | 1050044,13 | 36 |
+| 684-60 | 693943,62 | 1050041,22 | 37 |
+| 1032-922 | 693940,91 | 1050033,28 | 38 |
+| 1032-842 | 693960,81 | 1050038,09 | 39 |
+| 1032-768 | 693975,15 | 1050016,19 | 40 |
+| 1032-693 | 693989,72 | 1050001,14 | 41 |
+| 1032-553 | 694010,80 | 1049973,31 | 42 |
+| 1032-591 | 694006,52 | 1049962,70 | 43 |
+| 1032-610 | 694003,47 | 1049955,60 | 44 |
+| 1032-751 | 693977,73 | 1049926,32 | 45 |
+
+### Příloha č. 2 k vyhlášce č. 269/2018 Sb.
+
+#### Orientační grafické znázornění území Národní přírodní památky V Jezírkách a jejího ochranného pásma
+
+#### ![sbcr2018c137z0269p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884509/NAHLED/ZOBRAZ/sbcr2018c137z0269p002o001)
+
+---
+
+<sup>1</sup>) Nařízení vlády č. 430/2006 Sb., o stanovení geodetických referenčních systémů a státních mapových děl závazných na území státu a zásadách jejich používání, ve znění nařízení vlády č. 81/2011 Sb.
+
+<sup>2</sup>) Například § 80 odst. 1 zákona č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), § 3 odst. 2 a § 31 zákona č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon).
+
+<sup>3</sup>) § 4 odst. 1 zákona č. 239/2000 Sb., o integrovaném záchranném systému a o změně některých zákonů, ve znění pozdějších předpisů.

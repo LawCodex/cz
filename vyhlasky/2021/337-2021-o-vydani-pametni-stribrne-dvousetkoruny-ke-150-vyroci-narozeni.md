@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 337/2021 Sb., o vydání pamětní stříbrné dvousetkoruny ke 150. výročí narození Františka Kupky"
+identifier: "337/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/337/2021-09-22"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-08-25
+effective: 2021-09-22
+last_amended: 2021-09-22
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/337"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 337/2021 Sb., o vydání pamětní stříbrné dvousetkoruny ke 150. výročí narození Františka Kupky
+
+337
+
+VYHLÁŠKA
+
+ze dne 25. srpna 2021
+
+o vydání pamětní stříbrné dvousetkoruny ke 150. výročí narození Františka Kupky
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb. a zákona č. 89/2018 Sb.:
+
+## § 1
+
+(1) Dnem 22. září 2021 se ke 150. výročí narození Františka Kupky vydává pamětní stříbrná mince po 200 Kč (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,3 mm. Při ražbě dvousetkoruny je přípustná odchylka v obsahu stříbra nahoru 1 %, odchylka v hmotnosti nahoru 0,26 g, odchylka v průměru 0,1 mm a odchylka v síle 0,15 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.925 \* 13 g \*“.
+
+## § 2
+
+(1) Na lícní straně dvousetkoruny je kompozice dílčích motivů z děl Františka Kupky, ve kterých je zakomponován svislý text „CHCI TVOŘIT JAKO HUDEBNÍK“. V levé části mince je svislý text „ČESKÁ REPUBLIKA“ tvořený spojenými písmeny a označení nominální hodnoty se zkratkou peněžní jednotky „200 Kč“. Značka České mincovny tvořená písmeny „Č“ a „M“ je umístěna při spodním okraji mince.
+
+(2) Na rubové straně dvousetkoruny je kompozice dílčích motivů z děl Františka Kupky, do kterých je zakomponován jeho portrét a svislý text „NECHCI MALOVAT HUDBU“. V levé části mince je umístěn svislý text „KUPKA FRANTIŠEK“ tvořený spojenými písmeny a svislé texty „1871“ a „2021“. Značka autora mince Adama Fejfara se nachází při spodním okraji mince.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 22. září 2021.
+
+Guvernér:
+
+Ing. Rusnok v. r.
+
+### Příloha k vyhlášce č. 337/2021 Sb.
+
+### Vyobrazení pamětní stříbrné dvousetkoruny ke 150. výročí narození Františka Kupky
+
+### (lícní a rubová strana)
+
+### ![sbcr2021c147z0337p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839929/NAHLED/ZOBRAZ/sbcr2021c147z0337p001o001)
+
+### ![sbcr2021c147z0337p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/840363/NAHLED/ZOBRAZ/sbcr2021c147z0337p001o002)

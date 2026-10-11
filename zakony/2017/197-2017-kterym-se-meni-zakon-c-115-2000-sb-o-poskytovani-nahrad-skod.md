@@ -1,0 +1,48 @@
+---
+title: "Zákon č. 197/2017 Sb., kterým se mění zákon č. 115/2000 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými živočichy, ve znění pozdějších předpisů"
+identifier: "197/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/197/2018-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2017-06-07
+effective: 2018-01-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/197"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 197/2017 Sb., kterým se mění zákon č. 115/2000 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými živočichy, ve znění pozdějších předpisů
+
+197
+
+ZÁKON
+
+ze dne 7. června 2017,
+
+kterým se mění zákon č. 115/2000 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými živočichy, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 115/2000 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými živočichy, ve znění zákona č. 476/2001 Sb., zákona č. 320/2002 Sb., zákona č. 130/2006 Sb. a zákona č. 227/2009 Sb., se mění takto:
+
+V § 3 zákona č. 115/2000 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými živočichy, se písmeno c) zrušuje.
+
+Dosavadní písmena d) až g) se označují jako písmena c) až f).
+
+## Čl. II – Přechodné ustanovení
+
+Náhrada škody způsobená kormoránem velkým na rybách od 1. ledna 2018 do 31. prosince 2019 se hradí do výše 100 % prokazatelně způsobené škody a od 1. ledna 2020 do 31. prosince 2020 do výše 80 % prokazatelně způsobené škody, a to za podmínek, v rozsahu a způsobem, které jsou stanoveny zákonem č. 115/2000 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými živočichy, ve znění účinném do dne nabytí účinnosti tohoto zákona.
+
+## Čl. III – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2018.
+
+v z. Vondráček v. r.
+
+Zeman v. r.
+
+Sobotka v. r.

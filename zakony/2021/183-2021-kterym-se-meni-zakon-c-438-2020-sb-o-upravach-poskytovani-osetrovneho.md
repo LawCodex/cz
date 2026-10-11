@@ -1,0 +1,56 @@
+---
+title: "Zákon č. 183/2021 Sb., kterým se mění zákon č. 438/2020 Sb., o úpravách poskytování ošetřovného v souvislosti s mimořádnými opatřeními při epidemii a o změně zákona č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů"
+identifier: "183/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/183/2021-04-30"
+type: act
+jurisdiction: cz
+language: cs
+date: 2021-04-28
+effective: 2021-04-30
+last_amended: 2021-04-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/183"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 183/2021 Sb., kterým se mění zákon č. 438/2020 Sb., o úpravách poskytování ošetřovného v souvislosti s mimořádnými opatřeními při epidemii a o změně zákona č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů
+
+183
+
+ZÁKON
+
+ze dne 28. dubna 2021,
+
+kterým se mění zákon č. 438/2020 Sb., o úpravách poskytování ošetřovného v souvislosti s mimořádnými opatřeními při epidemii a o změně zákona č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 438/2020 Sb., o úpravách poskytování ošetřovného v souvislosti s mimořádnými opatřeními při epidemii a o změně zákona č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů, se mění takto:
+
+1\. V § 3 odst. 1 se závěrečná část ustanovení zrušuje a středník před závěrečnou částí se nahrazuje tečkou.
+
+2\. V § 3 se doplňuje odstavec 6, který zní:
+
+> „(6) Podmínkou nároku na ošetřovné je, že nezaopatřené dítě nebo osoba podle odstavce 1 nebo dítě mladší 10 let, jde-li o ošetřovné podle § 39 odst. 1 písm. b) bodů 1 a 2 zákona o nemocenském pojištění, žije se zaměstnancem v domácnosti; to neplatí v případě péče o toto dítě nebo o tuto osobu jejím příbuzným v linii přímé nebo v linii vedlejší podle § 772 občanského zákoníku.“.
+
+3\. Za § 5 se vkládá nový § 5a, který zní:
+
+> **„§ 5a**
+
+> Zaměstnanec prokazuje splnění podmínky podle § 3 odst. 6 čestným prohlášením.“.
+
+## Čl. II – Přechodné ustanovení
+
+Pro účely stanovení nároku na ošetřovné v případech podle § 3 odst. 6 zákona č. 438/2020 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona, se za den vzniku potřeby péče o dítě nebo o osobu uvedenou v § 3 odst. 1 zákona č. 438/2020 Sb. považuje den nabytí účinnosti tohoto zákona, pokud v tento den tato potřeba péče trvá; to neplatí, trvá-li v den nabytí účinnosti tohoto zákona nárok na ošetřovné, který zaměstnanci vznikl přede dnem nabytí účinnosti tohoto zákona při splnění podmínky podle § 3 odst. 1 závěrečné části ustanovení zákona č. 438/2020 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, nebo podle § 39 odst. 2 zákona č. 187/2006 Sb.
+
+## Čl. III – Účinnost
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Vondráček v. r.
+
+Zeman v. r.
+
+Babiš v. r.

@@ -1,0 +1,44 @@
+---
+title: "Zákon č. 37/2025 Sb., kterým se mění zákon č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů, ve znění pozdějších předpisů"
+identifier: "37/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/37/2025-02-19"
+type: act
+jurisdiction: cz
+language: cs
+date: 2025-01-23
+effective: 2025-02-19
+last_amended: 2025-02-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/37"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 37/2025 Sb., kterým se mění zákon č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů, ve znění pozdějších předpisů
+
+37
+
+ZÁKON
+
+ze dne 23. ledna 2025,
+
+kterým se mění zákon č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů, ve znění zákona č. 476/2004 Sb., zákona č. 562/2004 Sb., zákona č. 563/2004 Sb., zákona č. 383/2005 Sb., zákona č. 112/2006 Sb., zákona č. 189/2008 Sb., zákona č. 274/2008 Sb., zákona č. 7/2009 Sb., zákona č. 41/2009 Sb., zákona č. 281/2009 Sb., zákona č. 352/2011 Sb., zákona č. 375/2011 Sb., zákona č. 89/2012 Sb., zákona č. 333/2012 Sb., zákona č. 401/2012 Sb., zákona č. 303/2013 Sb., zákona č. 363/2021 Sb. a zákona č. 165/2024 Sb., se mění takto:
+
+1\. V § 4 se na začátek odstavce 5 vkládá věta „V dětském domově lze zřídit nejméně 2 rodinné skupiny.“ a v dosavadní větě první se slova „nejméně 2 a“ zrušují.
+
+2\. V § 12 se na konci odstavce 2 doplňují věty „Péče zajišťovaná dětskými domovy probíhá způsobem, který se v nejvyšší možné míře podobá běžnému rodinnému životu. Pokud je to možné, péče zajišťovaná dětskými domovy probíhá v samostatných rodinných skupinách v bytech v bytových domech anebo v rodinných domech v běžné zástavbě. Je kladen důraz na nejvyšší možné začlenění dětí do společnosti.“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Pekarová Adamová v. r.
+
+Pavel v. r.
+
+Fiala v. r.

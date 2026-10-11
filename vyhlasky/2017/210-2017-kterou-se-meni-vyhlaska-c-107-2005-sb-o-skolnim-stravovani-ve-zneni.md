@@ -1,0 +1,85 @@
+---
+title: "Vyhláška č. 210/2017 Sb., kterou se mění vyhláška č. 107/2005 Sb., o školním stravování, ve znění pozdějších předpisů"
+identifier: "210/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/210/2017-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-06-26
+effective: 2017-09-01
+last_amended: 2017-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/210"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 210/2017 Sb., kterou se mění vyhláška č. 107/2005 Sb., o školním stravování, ve znění pozdějších předpisů
+
+210
+
+VYHLÁŠKA
+
+ze dne 26. června 2017,
+
+kterou se mění vyhláška č. 107/2005 Sb., o školním stravování, ve znění pozdějších předpisů
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 35 odst. 2, § 121 odst. 1 a § 123 odst. 5 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), a v dohodě s Ministerstvem zdravotnictví podle § 121 odst. 2 školského zákona:
+
+## Čl. I
+
+Vyhláška č. 107/2005 Sb., o školním stravování, ve znění vyhlášky č. 107/2008 Sb., vyhlášky č. 463/2011 Sb. a vyhlášky č. 17/2015 Sb., se mění takto:
+
+1\. V § 2 odstavec 5 včetně poznámek pod čarou č. 9 a 10 zní:
+
+> „(5) Provozovatel stravovacích služeb používá při poskytování dietního stravování receptury schválené
+
+> a) nutričním terapeutem<sup>9</sup>),
+
+> b) lékařem se specializovanou způsobilostí<sup>10</sup>) v oboru
+
+> 1\. praktické lékařství pro děti a dorost,
+
+> 2\. dětské lékařství,
+
+> 3\. vnitřní lékařství,
+
+> 4\. všeobecné praktické lékařství,
+
+> 5\. endokrinologie a diabetologie, nebo
+
+> 6\. gastroenterologie, nebo
+
+> c) lékařem se zvláštní specializovanou způsobilostí<sup>10</sup>) v oboru
+
+> 1\. hygiena dětí a dorostu,
+
+> 2\. hygiena výživy a předmětů běžného užívání,
+
+> 3\. dětská endokrinologie a diabetologie, nebo
+
+> 4\. dětská gastroenterologie a hepatologie.
+
+> <sup>9</sup>) § 15 zákona č. 96/2004 Sb., o podmínkách získávání a uznávání způsobilosti k výkonu nelékařských zdravotnických povolání a k výkonu činností souvisejících s poskytováním zdravotní péče a o změně některých souvisejících zákonů (zákon o nelékařských zdravotnických povoláních).
+
+> <sup>10</sup>) Zákon č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění pozdějších předpisů. 
+>  Vyhláška č. 185/2009 Sb., o oborech specializačního vzdělávání lékařů, zubních lékařů a farmaceutů a oborech certifikovaných kurzů, ve znění pozdějších předpisů.“.
+
+2\. V § 3 se na konci odstavce 6 doplňuje věta „Jiné stravovací služby poskytované dětem, žákům a studentům musí odpovídat výživovým normám stanoveným v příloze č. 1 k této vyhlášce, nebo výživovým požadavkům podle vyhlášky o požadavcích na potraviny, pro které je přípustná reklama a které lze nabízet k prodeji a prodávat ve školách a školských zařízeních<sup>11</sup>).“.
+
+Poznámka pod čarou č. 11 zní:
+
+> „<sup>11</sup>) Vyhláška č. 282/2016 Sb., o požadavcích na potraviny, pro které je přípustná reklama a které lze nabízet k prodeji a prodávat ve školách a školských zařízeních.“.
+
+3\. V § 5 se za odstavec 3 vkládá nový odstavec 4, který zní:
+
+> „(4) Zařízení školního stravování může stanovit zálohu na úplatu nejvýše na dva měsíce, nedohodne-li se se zákonným zástupcem nezletilého žáka nebo zletilým žákem jinak.“.
+
+Dosavadní odstavec 4 se označuje jako odstavec 5.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po jejím vyhlášení.
+
+Ministr:
+
+prof. PhDr. Štech, CSc., v. r.

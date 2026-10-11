@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 317/2024 Sb., o centrální evidenci veřejných dražeb"
+identifier: "317/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/317/2025-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-10-22
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/317"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 317/2024 Sb., o centrální evidenci veřejných dražeb
+
+317
+
+VYHLÁŠKA
+
+ze dne 22. října 2024
+
+o centrální evidenci veřejných dražeb
+
+Ministerstvo pro místní rozvoj stanoví podle § 3 odst. 6 a § 62 zákona č. 250/2023 Sb., o veřejných dražbách:
+
+## § 1
+
+Přihlašování uživatelů do centrální evidence v roli dražebníka a v roli správce systému probíhá prostřednictvím
+
+a) národního bodu pro identifikaci a autentizaci, nebo
+
+b) informačního systému sloužícího k autentizaci fyzických osob, které jsou nositeli rolí, jde-li o orgán veřejné moci podle zákona o základních registrech.
+
+## § 2
+
+(1) Údaje předávané do centrální evidence musejí být v otevřeném a strojově čitelném formátu.
+
+(2) Dražebník předá údaje do centrální evidence prostřednictvím
+
+a) přímého elektronického zadání, nebo
+
+b) aplikačního programového vybavení.
+
+## § 3
+
+Shoda údajů o osobách, adresách a nemovitých věcech předaných dražebníkem do centrální evidence s údaji vedenými v základním registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci, v základním registru obyvatel, v informačním systému cizinců, v základním registru územní identifikace, adres a nemovitostí a ve veřejné části živnostenského rejstříku je ověřována centrální evidencí automaticky prostřednictvím informačního systému sdílené služby a informačního systému základních registrů.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2025.
+
+Ministr pro místní rozvoj:
+
+Ing. Kulhánek v. r.

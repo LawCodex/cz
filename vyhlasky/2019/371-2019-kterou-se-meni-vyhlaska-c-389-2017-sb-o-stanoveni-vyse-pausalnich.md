@@ -1,0 +1,38 @@
+---
+title: "Vyhláška č. 371/2019 Sb., kterou se mění vyhláška č. 389/2017 Sb., o stanovení výše paušálních částek nákladů veterinárních kontrol spojených s dovozem nebo vývozem, ve znění vyhlášky č. 277/2018 Sb."
+identifier: "371/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/371/2020-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2019-12-19
+effective: 2020-01-01
+last_amended: 2020-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/371"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 371/2019 Sb., kterou se mění vyhláška č. 389/2017 Sb., o stanovení výše paušálních částek nákladů veterinárních kontrol spojených s dovozem nebo vývozem, ve znění vyhlášky č. 277/2018 Sb.
+
+371
+
+VYHLÁŠKA
+
+ze dne 19. prosince 2019,
+
+kterou se mění vyhláška č. 389/2017 Sb., o stanovení výše paušálních částek nákladů veterinárních kontrol spojených s dovozem nebo vývozem, ve znění vyhlášky č. 277/2018 Sb.
+
+Ministerstvo zemědělství stanoví podle § 78 zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění zákona č. 131/2003 Sb., zákona č. 316/2004 Sb., zákona č. 48/2006 Sb., zákona č. 124/2008 Sb., zákona č. 182/2008 Sb., zákona č. 227/2009 Sb., zákona č. 308/2011 Sb., zákona č. 18/2012 Sb., zákona č. 359/2012 Sb., zákona č. 279/2013 Sb., zákona č. 139/2014 Sb., zákona č. 264/2014 Sb. a zákona č. 302/2017 Sb., k provedení § 75 odst. 5 veterinárního zákona:
+
+## Čl. I
+
+V § 5 vyhlášky č. 389/2017 Sb., o stanovení výše paušálních částek nákladů veterinárních kontrol spojených s dovozem nebo vývozem, ve znění vyhlášky č. 277/2018 Sb., se slova „a 2019“ nahrazují slovy „, 2019 a 2020“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2020.
+
+Ministr:
+
+Ing. Toman, CSc., v. r.

@@ -1,0 +1,395 @@
+---
+title: "Vyhláška č. 209/2025 Sb., o způsobu zabezpečování bezplatného stravování a výstrojních náležitostí vojáků z povolání, vojáků v záloze ve službě a vojáků v aktivní záloze"
+identifier: "209/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/209/2025-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-06-23
+effective: 2025-07-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/209"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 209/2025 Sb., o způsobu zabezpečování bezplatného stravování a výstrojních náležitostí vojáků z povolání, vojáků v záloze ve službě a vojáků v aktivní záloze
+
+209
+
+VYHLÁŠKA
+
+ze dne 23. června 2025
+
+o způsobu zabezpečování bezplatného stravování a výstrojních náležitostí vojáků z povolání, vojáků v záloze ve službě a vojáků v aktivní záloze
+
+Ministerstvo obrany stanoví podle § 93 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 122/2012 Sb. a zákona č. 99/2025 Sb.:
+
+## ČÁST PRVNÍ – ÚVODNÍ USTANOVENÍ
+
+### § 1 – Předmět úpravy
+
+Tato vyhláška upravuje způsob zabezpečování bezplatného stravování a výstrojních náležitostí vojáků z povolání, vojáků v záloze ve službě a vojáků v aktivní záloze.
+
+### § 2 – Vymezení pojmů
+
+Pro účely této vyhlášky se rozumí
+
+a) směrnou dobou používání časový údaj, užívaný v procesu zabezpečování obměny vojenské výstroje, vyjadřující dobu užívání jednotlivé výstrojní součástky v měsících, po kterou je zaručeno udržení jejích užitných vlastností,
+
+b) určeným vojenským leteckým personálem voják z povolání nebo voják v záloze ve službě oprávněný podle zvláštního právního předpisu k výkonu činností pilota – velitele letounu, pilota – velitele vrtulníku, druhého pilota letounu, druhého pilota vrtulníku, navigátora, palubního technika, palubního operátora, palubního střelce a palubního průvodčího<sup>1</sup>),
+
+c) letovým výcvikem letová činnost za účelem přípravy určeného vojenského leteckého personálu pro bojové použití; za letový výcvik se považuje také
+
+1\. doba jeho přerušení nepřesahující dobu 3 měsíců, nebo
+
+2\. výcvik na leteckých trenažérech nebo simulátorech,
+
+d) nepřetržitým praktickým výsadkovým a záchranným výcvikem provádění výcviku stanoveného pro výcvikový rok; za nepřetržitý praktický výsadkový a záchranný výcvik se považuje i doba jeho přerušení nepřesahující dobu 3 měsíců.
+
+## ČÁST DRUHÁ – ZPŮSOB ZABEZPEČOVÁNÍ BEZPLATNÉHO STRAVOVÁNÍ
+
+### § 3 – Způsob zabezpečování bezplatného stravování
+
+Bezplatné stravování se zabezpečuje výdejem snídaně, oběda nebo večeře (dále jen „hlavní jídlo“) a přídavků potravin. Hlavní jídlo se vydává formou teplé stravy, a nelze-li to zabezpečit, pak formou
+
+a) studené stravy, nebo
+
+b) potravin k samostatné nebo skupinové přípravě hlavního jídla.
+
+### § 4 – Bezplatné stravování při výkonu zvláštních činností
+
+Zvláštními činnostmi pro účely poskytování bezplatného stravování se rozumí
+
+a) výkon funkce určeného vojenského leteckého personálu, a to ode dne jmenování do výcvikové skupiny do dne vyřazení nebo vyloučení z výcvikové skupiny, koná-li letový výcvik,
+
+b) výkon funkce vojáka z povolání nebo vojáka v záloze ve službě ve služebním zařazení spojeném s prováděním výsadkové nebo záchranné přípravy (dále jen „výsadkář“), a to ode dne zahájení nepřetržitého praktického výsadkového a záchranného výcviku do dne jeho skončení,
+
+c) zabezpečování letových akcí, a to po celou dobu jejich přípravy a konání,
+
+d) příprava k výkonu funkce určeného vojenského leteckého personálu, a to ode dne jejího zahájení do dne jejího přerušení nebo ukončení, ve studijní specializaci výkonný vojenský letec včetně přerušení nepřesahujícího dobu 1 měsíce,
+
+e) studium ve vojenské škole ve studijním oboru se zaměřením na proviantní zabezpečení, nebo v obdobném odborném kurzu u vzdělávacího zařízení Ministerstva obrany (dále jen „ministerstvo“), a to ve dnech praktické samostatné nebo skupinové přípravy jídel,
+
+f) výkon služby v zahraniční operaci nebo v operačním nasazení v zahraničí, pokud není poskytováno stravné od mezinárodní vládní nebo nadnárodní organizace, a to po dobu výkonu této služby,
+
+g) výkon služby po dobu nepřetržitého vojenského nasazení.
+
+### § 5
+
+(1) Bezplatné stravování ani náhrada v penězích podle § 10 se vojákovi z povolání nezabezpečují po dobu
+
+a) dovolené, volna uděleného za nepřetržitý vojenský výcvik, volna uděleného za nepřetržité vojenské nasazení, studijního volna, rekvalifikace, náhradního volna nebo služebního volna,
+
+b) neschopnosti ke službě pro nemoc nebo úraz, s výjimkou § 4 písm. f),
+
+c) pobytu v léčebných, lázeňských a rekreačních zařízeních,
+
+d) výkonu vazby, nebo
+
+e) mateřské, rodičovské nebo otcovské dovolené.
+
+(2) Vojákovi z povolání, který je příslušníkem určeného vojenského leteckého personálu nebo výsadkářem, se bezplatné stravování ani náhrada v penězích nezabezpečují také ode dne zahájení prezenčního studia ve vojenské škole nebo při prezenčním studijním pobytu, které nezahrnují letový výcvik nebo praktický výsadkový a záchranný výcvik.
+
+### § 6
+
+Hlavní jídlo a potraviny musí odpovídat energetickým normám a výživovým hodnotám stravních dávek a přídavků potravin stanovených v příloze č. 1 této vyhlášky a průměrné skladbě spotřeby potravin stanovené v přílohách č. 2 a 3 této vyhlášky.
+
+### § 7 – Stravní dávky
+
+(1) Stravními dávkami podle náročnosti vykonávané služby jsou
+
+a) základní stravní dávka,
+
+b) zvýšená stravní dávka, nebo
+
+c) letecká stravní dávka.
+
+(2) Základní stravní dávka se poskytuje vojákovi z povolání a vojákovi v záloze ve službě, jemuž nenáleží jiná stravní dávka.
+
+(3) Vojákovi z povolání a vojákovi v záloze ve službě u vojenského útvaru nebo vojenského zařízení, u něhož se základní stravní dávka nepřipravuje, se poskytuje ta stravní dávka, která se u tohoto vojenského útvaru nebo vojenského zařízení připravuje.
+
+(4) Zvýšená stravní dávka se poskytuje výsadkáři podle § 4 písm. b) a vojákovi z povolání a vojákovi v záloze ve službě plnícímu úkoly v zahraniční operaci nebo operačním nasazení podle § 4 písm. f).
+
+(5) Letecká stravní dávka se poskytuje určenému vojenskému leteckému personálu podle § 4 písm. a), vojákovi z povolání a vojákovi v záloze ve službě, připravujícímu se k výkonu funkce určeného vojenského leteckého personálu podle § 4 písm. d) a výsadkáři, který koná službu u letecké základny.
+
+**Přídavky potravin**
+
+### § 8
+
+(1) K jednotlivým stravním dávkám se podle náročnosti vykonávané služby a za podmínek stanovených touto vyhláškou poskytují přídavky potravin ve složení uvedeném v příloze č. 3 této vyhlášky, a to
+
+a) přídavek potravin základní (dále jen „přídavek potravin A“),
+
+b) přídavek potravin rozšířený (dále jen „přídavek potravin B“),
+
+c) přídavek potravin pro určený vojenský letecký personál ve dnech letové činnosti (dále jen „přídavek potravin C“), nebo
+
+d) přídavek potravin pro určený vojenský letecký personál zařazený do letových osádek nadzvukových a podzvukových letadel vybavených zbraňovými systémy a dopravních letadel (dále jen „přídavek potravin D“).
+
+(2) Přídavky potravin se poskytují jen při současném zabezpečování bezplatného stravování. Přídavky potravin se vydávají ve dnech nároku nejméně na dvě hlavní jídla, a to k prvnímu z nich.
+
+### § 9
+
+(1) Přídavek potravin A se poskytuje vojákovi z povolání a vojákovi v záloze ve službě s nárokem na základní stravní dávku při
+
+a) nepřetržité službě, která trvá alespoň 24 hodin, s výjimkou nepřetržité služby dozorčího, která trvá 24 hodin, nebo
+
+b) zabezpečení letových akcí podle § 4 písm. c).
+
+(2) Přídavek potravin B se poskytuje vojákovi z povolání a vojákovi v záloze ve službě při
+
+a) nepřetržité službě, která trvá alespoň 24 hodin, s výjimkou nepřetržité služby dozorčího, která trvá 24 hodin, nebo
+
+b) zařazení do služby v noci při služební pohotovosti v místě stanoveného výkonu služby, a to příslušníkovi určeného vojenského leteckého personálu.
+
+(3) Přídavek potravin C se poskytuje příslušníkovi určeného vojenského leteckého personálu ve dnech letové činnosti nebo při služební pohotovosti v místě stanoveného výkonu služby.
+
+(4) Přídavek potravin D se poskytuje příslušníkovi určeného vojenského leteckého personálu zařazenému do letových osádek nadzvukových a podzvukových letadel vybavených zbraňovými systémy nebo příslušníkovi určeného vojenského leteckého personálu zařazenému do letových osádek dopravních letadel podle § 4 písm. a), vojákovi v záloze ve službě však pouze po dobu výkonu služby.
+
+### § 10 – Náhrada v penězích
+
+(1) Náhrada v penězích za hlavní jídlo je finanční hodnota druhů a množství jednotlivých potravin, která odpovídá stravní dávce, včetně přídavku potravin a příplatku podle odstavce 5.
+
+(2) Nelze-li zabezpečit bezplatné stravování v zahraniční operaci nebo operačním nasazení podle § 3, náleží vojákovi z povolání v zahraniční operaci a vojákovi v záloze ve službě při výkonu služby v operačním nasazení mimo území České republiky náhrada v penězích za bezplatné stravování ve výši základní sazby zahraničního stravného podle jiného právního předpisu.
+
+(3) Výsadkáři, kterému se poskytuje stravní dávka podle § 7 odst. 5, se vyplácí náhrada v penězích ve výši finanční hodnoty stravní dávky podle § 7 odst. 1 písm. b).
+
+(4) Vojákovi z povolání a vojákovi v záloze ve službě náleží při nepřetržité službě dozorčího, která trvá alespoň 24 hodin, náhrada v penězích, která se vyplácí ve výši finanční hodnoty stravní dávky podle § 7 odst. 1.
+
+(5) Koná-li voják z povolání nepřetržitou službu trvající alespoň 24 hodin, nebo vykonává-li voják v záloze ve službě vojenské zaměstnání, zvyšuje se náhrada v penězích za jednotlivá hlavní jídla poskytovaná podle odstavce 1 o příplatek, a to v případě
+
+a) snídaně 20 %,
+
+b) oběda 40 %,
+
+c) večeře 40 %
+
+nejnižší výše stravného stanoveného právním předpisem upravujícím výši a postup při přiznávání cestovních náhrad poskytovaných vojákovi z povolání.
+
+### § 11 – Finanční, energetická a výživová hodnota stravních dávek a přídavků potravin
+
+(1) Finanční hodnota stravních dávek a přídavků potravin se vypočte tak, že průměrná skladba spotřeby jednotlivých potravin v kilogramech na osobu a den podle přílohy č. 2 se vynásobí jejich průměrnými spotřebitelskými cenami za kilogram. Průměrnou spotřebitelskou cenou se rozumí průměrná cena potraviny ověřená průzkumem trhu provedeným ministerstvem pro území České republiky.
+
+(2) Finanční hodnota stravních dávek a přídavků potravin se změní pouze v případě přírůstku průměrného ročního indexu spotřebitelských cen zveřejňovaného Českým statistickým úřadem za kalendářní rok o více než 2 %. V tomto případě se finanční hodnota stravních dávek a přídavků potravin zvýší o průměrnou roční míru inflace zveřejněnou Českým statistickým úřadem.
+
+(3) Finanční hodnota stravních dávek a přídavků potravin se upravuje od prvního dne druhého měsíce následujícího po zjištění rozdílu podle odstavce 2.
+
+(4) Finanční hodnota stravní dávky pro vojáka z povolání v zahraniční operaci a vojáka v záloze ve službě při operačním nasazení mimo území České republiky se stanoví v závislosti na vývoji spotřebitelských cen potravin ověřených průzkumem trhu provedeným ministerstvem v prostoru zahraniční operace nebo operačního nasazení.
+
+(5) Měsíční průměr čerpání energetické a výživové hodnoty stravních dávek, přídavků potravin a jejich finanční hodnoty v jednotlivých dnech, ve kterých je bezplatné stravování poskytováno, musí odpovídat hodnotám stanoveným touto vyhláškou pro jednotlivé stravní dávky a přídavky potravin, přičemž roční průměr čerpání těchto hodnot nesmí překročit odchylku 10 % nad stanovenou hodnotu nebo 3 % pod stanovenou hodnotu.
+
+### § 12
+
+Finanční hodnotu stravních dávek a přídavků potravin vojákovi z povolání a vojákovi v záloze ve službě lze zvýšit o 20 % při
+
+a) zabezpečování záchranných prací nebo
+
+b) zabezpečování odstraňování následků živelních pohrom nebo jiných závažných situací ohrožujících životy, zdraví, životní prostředí nebo značné majetkové hodnoty.
+
+## ČÁST TŘETÍ – ZPŮSOB ZABEZPEČOVÁNÍ VÝSTROJNÍCH NÁLEŽITOSTÍ
+
+### § 13 – Způsob zabezpečování výstrojních náležitostí
+
+(1) Výstrojní náležitosti se vojákovi z povolání a vojákovi v záloze ve službě k výkonu služby zabezpečují výdejem součástek vojenských stejnokrojů uvedených pro jednotlivé skupiny vojáků v přílohách č. 4 až 7 této vyhlášky a zabezpečením bezplatných služeb nebo náhradami v penězích. Bezplatnými službami se rozumí praní, chemické čištění, úpravy, opravy a údržba vojenské výstroje (dále jen „péče o vojenské stejnokroje“).
+
+(2) Vojákovi z povolání se služebním poměrem kratším než 2 roky a vojákovi v záloze ve službě, se vydají součástky vojenských stejnokrojů, které je ke dni zániku služebního poměru povinen vrátit. Povinnost vrátit součástky vojenských stejnokrojů podle věty první neplatí pro vojáka v záloze, který je zařazen do aktivní zálohy. Součástky vojenských stejnokrojů, u kterých služební orgán určí, že jejich vracení není účelné nebo hospodárné, se nevrací.
+
+(3) Voják v záloze ve službě, který byl zařazen do aktivní zálohy podle branného zákona do 2 let od zániku jeho služebního poměru vojáka z povolání, užívá vojenské stejnokroje stanovené v příloze č. 5 této vyhlášky, které mu byly vydány před zánikem tohoto služebního poměru; voják v záloze ve službě v hodnosti generála užívá vojenské stejnokroje stanovené v příloze č. 7 této vyhlášky. Směrná doba používání vydaných výstrojních součástek se zařazením do aktivní zálohy nemění.
+
+(4) Voják v záloze ve službě, který je přijat do služebního poměru vojáka z povolání, užívá vojenské stejnokroje, které mu byly vydány. Směrná doba používání vydaných výstrojních součástek se přijetím do služebního poměru vojáka z povolání nemění.
+
+(5) Pokud voják z povolání nebo voják v záloze ve službě plní úkoly podle § 14 odst. 1 plně nebo částečně v jiném oděvu než ve vojenském stejnokroji (dále jen „občanský oděv“), vojenské stejnokroje se mu po tuto dobu neposkytují nebo se poskytují podle plněných úkolů.
+
+(6) Výstrojní součástky zabezpečované podle odstavce 1 se obměňují v závislosti na směrných dobách používání jednotlivých součástek vojenského stejnokroje. Náhradu ztracené nebo obměnu poškozené anebo opotřebené součástky vojenského stejnokroje nutné k plnění služebního úkolu lze realizovat před uplynutím směrné doby používání na základě žádosti vojáka z povolání nebo vojáka v záloze ve službě, pokud žádost schválil služební orgán.
+
+(7) Péče o vojenské stejnokroje uvedená v odstavci 1 se zabezpečuje podle skutečné potřeby a možností v místě plnění služebních úkolů formou
+
+a) zabezpečení služeb,
+
+b) výdeje spotřebního materiálu, nebo
+
+c) zabezpečení majetku k péči o vojenskou výstroj.
+
+### § 14 – Náhrady v penězích za používání občanského oděvu
+
+(1) Vojákovi z povolání a vojákovi v záloze ve službě, který je příslušníkem Vojenského zpravodajství, Vojenské policie, speciálních sil, zpravodajského zabezpečení nebo je v operačním nasazení<sup>2</sup>), kterého služební orgán zařadil na služební místo k plnění úkolů vylučující použití vojenských stejnokrojů, se vyplácí náhrada v penězích.
+
+(2) Výše náhrad v penězích pro
+
+a) prvotní pořízení součástek občanského oděvu odpovídá součtu hodnot všech nahrazovaných součástek vojenských stejnokrojů, které by jinak byly vojákovi vydávány,
+
+b) obměnu součástek občanského oděvu odpovídá násobku alikvotních hodnot nahrazovaných vojenských stejnokrojů a kalendářních dnů, ve kterých byl voják podle odstavce 1 zařazen na služební místo vyžadující nošení občanského oděvu; příslušníkům Vojenského zpravodajství lze tuto náhradu zvýšit až dvojnásobně.
+
+(3) Náhrady v penězích uvedené v odstavci 2 za součástky jednotlivých vojenských stejnokrojů lze přiznat vojákovi z povolání a vojákovi v záloze ve službě podle odstavce 1 najednou nebo postupně.
+
+(4) Náhrada v penězích se vyplácí podle
+
+a) odstavce 2 písm. a) v kalendářním měsíci následujícím po kalendářním měsíci, ve kterém vojákovi z povolání nebo vojákovi v záloze ve službě vznikl nárok na poskytnutí této náhrady,
+
+b) odstavce 2 písm. b) zpětně v měsíci únor vždy za uplynulý kalendářní rok v hodnotách součástek vojenských stejnokrojů za uplynulý kalendářní rok se služebním platem za měsíc leden.
+
+(5) V případě rozhodnutí služebního orgánu o zařazení vojáka z povolání nebo vojáka v záloze ve službě na služební místo s povinností nosit občanský oděv při výkonu služby podle odstavce 1, se náhrada v penězích pro prvotní pořízení součástek občanského oděvu podle odstavce 2 písm. a) vyplatí opětovně, jestliže od posledního výkonu služby v tomto služebním zařazení uplynulo 5 a více let.
+
+### § 15 – Náhrada v penězích za nepořizované součástky vojenských stejnokrojů
+
+Náhrada v penězích za prvotní pořízení nebo obměnu nepořizovaných součástek vojenských stejnokrojů se vojákovi z povolání a vojákovi v záloze ve službě vyplácí
+
+a) za prvotní pořízení těchto součástek v kalendářním měsíci následujícím po kalendářním měsíci, ve kterém vojákovi z povolání nebo vojákovi v záloze ve službě vznikl nárok na tuto náhradu,
+
+b) pro obměnu těchto součástek zpětně v měsíci únor, vždy za kalendářní dny s nárokem na tuto náležitost za uplynulý kalendářní rok, a to v hodnotách stanovených pro uplynulý kalendářní rok. Vojákovi z povolání se náhrada vyplácí společně se služebním platem za měsíc leden.
+
+### § 16 – Náhrada v penězích za nezabezpečenou péči o vydané vojenské stejnokroje a občanský oděv
+
+(1) Vojákovi z povolání a vojákovi v záloze ve službě se v případě nezabezpečení péče o vydané vojenské stejnokroje podle § 13 odst. 1 a 7 poskytne paušální náhrada; v případě nezabezpečení péče o součástky občanského oděvu používané při výkonu služby podle § 14 se postupuje obdobně. Paušální náhrada za nezabezpečenou péči o vydané vojenské stejnokroje nebo o občanský oděv je poskytována tak, aby nedošlo k souběhu plnění.
+
+(2) Paušální náhrada činí 6 Kč za den. Výše paušální náhrady je shodná pro nezabezpečenou péči o vojenský stejnokroj i občanský oděv.
+
+(3) Paušální náhrada se vyplácí zpětně v měsíci únor za uplynulý kalendářní rok za kalendářní dny s nárokem na tuto náležitost. Vojákovi z povolání se vyplácí společně se služebním platem za měsíc leden.
+
+### § 17 – Peněžní výše nákladů na vydané vojenské stejnokroje
+
+Měsíční peněžní výše nákladů na zabezpečení jednotlivých vojenských stejnokrojů podle § 13 odst. 1 pro stanovení výše náhrad v penězích za vydané vojenské stejnokroje, které je voják povinen ministerstvu nahradit podle § 91 odst. 2 zákona o vojácích z povolání, jsou uvedeny v příloze č. 8 této vyhlášky.
+
+## ČÁST ČTVRTÁ – PŘECHODNÁ A ZRUŠOVACÍ USTANOVENÍ
+
+### § 18 – Přechodná ustanovení
+
+(1) Výstrojní náležitosti zabezpečené vojákovi podle vyhlášky č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečování ubytování vojáků z povolání, vojáků v záloze ve službě a vojáků v aktivní záloze, ve znění účinném přede dnem nabytí účinnosti této vyhlášky, nebo vyhlášky č. 287/2016 Sb., o rozsahu a způsobu poskytování proviantních a výstrojních náležitostí vojákům v záloze ve službě, ve znění účinném přede dnem nabytí účinnosti této vyhlášky, se považují za zabezpečené podle této vyhlášky, pokud u jednotlivých vydaných součástek vojenských stejnokrojů dosud neuplynula směrná doba používání.
+
+(2) Směrná doba používání součástky vojenské výstroje vydané podle vyhlášky č. 266/1999 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, nebo vyhlášky č. 287/2016 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, se nabytím účinnosti této vyhlášky nemění a počítá se ode dne vydání součástky.
+
+(3) Náhrada v penězích za proviantní náležitosti, na které vznikl nárok podle vyhlášky č. 266/1999 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, nebo podle vyhlášky č. 287/2016 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, se poskytuje ve výši podle dosavadních právních předpisů i v případě, že je vyplácena po nabytí účinnosti této vyhlášky.
+
+(4) V případě poskytování bezplatného stravování na akcích připravených, schválených a zahájených přede dnem nabytí účinnosti této vyhlášky, které trvají i po nabytí účinnosti této vyhlášky, se použijí finanční, energetické a výživové hodnoty stravních dávek a přídavků potravin stanovené podle vyhlášky č. 266/1999 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, nebo vyhlášky č. 287/2016 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+(5) Součástky vojenských stejnokrojů stanovené touto vyhláškou, které vojákovi v aktivní záloze nebyly zabezpečovány podle vyhlášky č. 266/1999 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, nebo vyhlášky č. 287/2016 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, budou vojákovi v aktivní záloze vydány nejpozději do 31. prosince 2026.
+
+### § 19 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Vyhláška Ministerstva obrany č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečování ubytování vojáků z povolání, vojáků v záloze ve službě a vojáků v aktivní záloze.
+
+2\. Vyhláška č. 456/2002 Sb., kterou se mění vyhláška č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečování ubytování vojáků z povolání.
+
+3\. Vyhláška č. 69/2008 Sb., kterou se mění vyhláška Ministerstva obrany č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečování ubytování vojáků z povolání, ve znění vyhlášky č. 456/2002 Sb.
+
+4\. Vyhláška č. 334/2008 Sb., kterou se mění vyhláška Ministerstva obrany č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečení ubytování vojáků z povolání, ve znění pozdějších předpisů.
+
+5\. Vyhláška č. 290/2010 Sb., kterou se mění vyhláška Ministerstva obrany č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečování ubytování vojáků z povolání, ve znění pozdějších předpisů.
+
+6\. Vyhláška č. 177/2012 Sb., kterou se mění vyhláška Ministerstva obrany č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečování ubytování vojáků z povolání, ve znění pozdějších předpisů.
+
+7\. Vyhláška č. 17/2014 Sb., kterou se mění vyhláška č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečování ubytování vojáků z povolání, ve znění pozdějších předpisů.
+
+8\. Vyhláška č. 287/2016 Sb., o rozsahu a způsobu poskytování proviantních a výstrojních náležitostí vojákům v záloze ve službě.
+
+9\. Vyhláška č. 431/2021 Sb., kterou se mění vyhláška č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečování ubytování vojáků z povolání.
+
+10\. Vyhláška č. 262/2023 Sb., kterou se mění vyhláška č. 266/1999 Sb., o způsobu zabezpečování bezplatného stravování, výstrojních a přepravních náležitostí a o zabezpečování ubytování vojáků z povolání, ve znění pozdějších předpisů, a vyhláška č. 287/2016 Sb., o rozsahu a způsobu poskytování proviantních a výstrojních náležitostí vojákům v záloze ve službě.
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### § 20
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2025.
+
+Ministryně obrany:
+
+Mgr. Černochová v. r.
+
+### Příloha č. 1
+
+#### Stravní dávky a přídavky potravin na osobu a den a normy jejich energetických a výživových hodnot
+
+<table><tbody><tr><th colspan="4">Stravní dávky (SD)<br> Přídavky potravin (PP)</th><th>Základní SD</th><th>Zvýšená SD</th><th>Letecká SD</th><th>PP A</th><th>PP B</th><th>PP C</th><th>PP D</th></tr><tr><td colspan="3"><b>Energetická hodnota</b></td><td>kJ</td><td>13 474</td><td>15 111</td><td>16 019</td><td>1520</td><td>1596</td><td>635</td><td>760</td></tr><tr><td colspan="3"><b>Bílkoviny</b></td><td>g</td><td>90</td><td>96</td><td>96</td><td>14</td><td>18</td><td>3,9</td><td>1,9</td></tr><tr><td colspan="3"><b>Tuky</b></td><td>g</td><td>112</td><td>126</td><td>120</td><td>10</td><td>12</td><td>3,8</td><td>0,5</td></tr><tr><td colspan="3"><b>Kyselina linolová</b></td><td>g</td><td>9</td><td>10</td><td>10</td><td>0,5</td><td>0,5</td><td>-</td><td>-</td></tr><tr><td colspan="3"><b>Sacharidy</b></td><td>g</td><td>460</td><td>520</td><td>480</td><td>54</td><td>50</td><td>35</td><td>41</td></tr><tr><td rowspan="3"><b>Minerální látky</b></td><td colspan="2"><b>vápník</b></td><td rowspan="3">Mg</td><td>900</td><td>1 000</td><td>1 000</td><td>26,4</td><td>189</td><td>58</td><td>42</td></tr><tr><td colspan="2"><b>fosfor</b></td><td>800</td><td>1 000</td><td>1 000</td><td>131</td><td>264</td><td>65</td><td>49</td></tr><tr><td colspan="2"><b>železo</b></td><td>20</td><td>20</td><td>20</td><td>2,1</td><td>2,7</td><td>3,3</td><td>1,1</td></tr><tr><td rowspan="5"><b>Vitamíny</b></td><td colspan="2"><b>A-ekv. retinolu</b></td><td>μg</td><td>1 000</td><td>1 200</td><td>1 200</td><td>94</td><td>146</td><td>40</td><td>25</td></tr><tr><td colspan="2"><b>B1</b></td><td rowspan="4">mg</td><td>1,2</td><td>1,4</td><td>1,2</td><td>0,17</td><td>0,12</td><td>0,1</td><td>0,12</td></tr><tr><td colspan="2"><b>B2</b></td><td>1,4</td><td>1,6</td><td>1,6</td><td>0,13</td><td>0,28</td><td>0,08</td><td>0,06</td></tr><tr><td><b>B3</b></td><td><b>ekv. niacinu</b></td><td>16</td><td>18</td><td>18</td><td>3,7</td><td>7,4</td><td>0,6</td><td>0,9</td></tr><tr><td colspan="2"><b>C</b></td><td>100</td><td>100</td><td>100</td><td>2,4</td><td>2,1</td><td>55</td><td>45</td></tr></tbody></table>
+
+### Příloha č. 2
+
+#### Průměrná skladba spotřeby potravin na osobu a den k dosažení požadovaných energetických a výživových hodnot podle stravních dávek k určení výše jejich finanční hodnoty
+
+<table><tbody><tr><th rowspan="3">Druh potravin</th><th colspan="3">Stravní dávky</th></tr><tr><th>základní</th><th>zvýšená</th><th>letecká</th></tr><tr><th>dávka v gramech/mililitrech</th><th>dávka v gramech/mililitrech</th><th>dávka v gramech/mililitrech</th></tr><tr><td>vepřové maso</td><td>69</td><td>103</td><td>103</td></tr><tr><td>hovězí maso</td><td>68</td><td>89</td><td>102</td></tr><tr><td>uzené maso</td><td>9</td><td>9</td><td>11</td></tr><tr><td>ostatní maso</td><td>2</td><td>2</td><td>4</td></tr><tr><td>vnitřnosti</td><td>6</td><td>14</td><td>20</td></tr><tr><td>uzeniny a výrobky z masa</td><td>45</td><td>60</td><td>50</td></tr><tr><td>masové konzervy</td><td>38</td><td>43</td><td>27</td></tr><tr><td>maso celkem</td><td>234</td><td>320</td><td>317</td></tr><tr><td>drůbež a drůbeží výrobky</td><td>30</td><td>30</td><td>35</td></tr><tr><td>kosti</td><td>2</td><td>2</td><td>3</td></tr><tr><td>ryby</td><td>10</td><td>8</td><td>9</td></tr><tr><td>rybí výrobky a konzervy</td><td>16</td><td>11</td><td>14</td></tr><tr><td>máslo</td><td>20</td><td>25</td><td>24</td></tr><tr><td>sádlo a slanina</td><td>11</td><td>15</td><td>8</td></tr><tr><td>jedlé tuky a oleje</td><td>27</td><td>35</td><td>26</td></tr><tr><td>čerstvé mléko</td><td>280</td><td>295</td><td>325</td></tr><tr><td>mléčné výrobky</td><td>74</td><td>72</td><td>121</td></tr><tr><td>sýry</td><td>30</td><td>34</td><td>32</td></tr><tr><td>vejce</td><td>36</td><td>50</td><td>65</td></tr><tr><td>chléb</td><td>320</td><td>340</td><td>250</td></tr><tr><td>běžné pečivo</td><td>90</td><td>59</td><td>120</td></tr><tr><td>jemné pečivo</td><td>33</td><td>40</td><td>15</td></tr><tr><td>trvanlivé pečivo</td><td>14</td><td>20</td><td>8</td></tr><tr><td>těstoviny</td><td>21</td><td>20</td><td>17</td></tr><tr><td>mouka, kroupy, vločky</td><td>70</td><td>78</td><td>86</td></tr><tr><td>rýže</td><td>32</td><td>27</td><td>25</td></tr><tr><td>luštěniny</td><td>14</td><td>18</td><td>11</td></tr><tr><td>cukr a cukrářské výrobky</td><td>60</td><td>80</td><td>50</td></tr><tr><td>brambory</td><td>460</td><td>419</td><td>408</td></tr><tr><td>čerstvá a mražená zelenina</td><td>185</td><td>190</td><td>222</td></tr><tr><td>nakládaná a sušená</td><td>85</td><td>70</td><td>100</td></tr><tr><td>kysané a sterilované</td><td>20</td><td>20</td><td>20</td></tr><tr><td>zelenina celkem</td><td>290</td><td>280</td><td>342</td></tr><tr><td>čerstvé, mražené a sušené ovoce</td><td>89</td><td>88</td><td>106</td></tr><tr><td>citrusové plody</td><td>40</td><td>40</td><td>90</td></tr><tr><td>kompoty</td><td>28</td><td>35</td><td>35</td></tr><tr><td>zahuštěné ovocné výrobky</td><td>35</td><td>35</td><td>65</td></tr><tr><td>ovoce celkem</td><td>192</td><td>198</td><td>296</td></tr><tr><td>přísady, nápoje, ostatní potraviny</td><td>357</td><td>355</td><td>723</td></tr></tbody></table>
+
+### Příloha č. 3
+
+#### Průměrná skladba spotřeby potravin na osobu a den k dosažení požadovaných energetických a výživových hodnot podle přídavků potravin k určení výše jejich finanční hodnoty
+
+<table><tbody><tr><th rowspan="3">Druh potravin</th><th colspan="4">Přídavek potravin</th></tr><tr><th>A</th><th>B</th><th>C</th><th>D</th></tr><tr><th colspan="4">Dávka v gramech/mililitrech</th></tr><tr><td>maso celkem</td><td>50</td><td>50</td><td>-</td><td>-</td></tr><tr><td>chléb</td><td>100</td><td>100</td><td>-</td><td>-</td></tr><tr><td>cukr a cukrářské výrobky</td><td>-</td><td>25</td><td>-</td><td>-</td></tr><tr><td>ovoce celkem</td><td>100</td><td>100</td><td>-</td><td>380</td></tr><tr><td>přísady, nápoje, ostatní potraviny</td><td>300</td><td>300</td><td>300</td><td>-</td></tr></tbody></table>
+
+### Příloha č. 4
+
+#### Přehled vojenských stejnokrojů, které jsou vydávány vojákům z povolání
+
+| Název stejnokroje |
+|---|
+| stejnokroj polní zelený potisk |
+| stejnokroj polní letní zelený potisk |
+| stejnokroj do nepříznivého počasí |
+| stejnokroj vycházkový<br> (ve složení pro muže nebo ženu) |
+| stejnokroj služební<br> (ve složení pro muže nebo ženu) |
+| stejnokroj cvičební |
+
+### Příloha č. 5
+
+#### Přehled vojenských stejnokrojů vydávaných vojákovi v záloze ve službě zařazenému do aktivní zálohy
+
+| Název stejnokroje |
+|---|
+| stejnokroj polní zelený potisk |
+| stejnokroj polní letní zelený potisk |
+| stejnokroj do nepříznivého počasí |
+| stejnokroj vycházkový<br> (ve složení pro muže nebo ženu) |
+| stejnokroj cvičební |
+
+### Příloha č. 6
+
+#### Přehled vojenských stejnokrojů vydávaných vojákovi z povolání a vojákovi v záloze ve službě zařazenému do aktivní zálohy po dobu základní přípravy
+
+| Název stejnokroje |
+|---|
+| stejnokroj polní zelený potisk |
+| stejnokroj polní letní zelený potisk |
+| stejnokroj do nepříznivého počasí |
+| stejnokroj cvičební |
+
+### Příloha č. 7
+
+#### Přehled vydávaných vojenských stejnokrojů vojákovi z povolání a vojákovi v záloze ve službě zařazenému do aktivní zálohy jmenovanému do generálské hodnosti
+
+| Název stejnokroje |
+|---|
+| stejnokroj polní zelený potisk |
+| stejnokroj polní letní zelený potisk |
+| stejnokroj do nepříznivého počasí |
+| stejnokroj vycházkový pro generály<br> (ve složení pro muže nebo ženu) |
+| stejnokroj služební pro generály<br> (ve složení pro muže nebo ženu) |
+| stejnokroj večerní pro generály<br> (ve složení pro muže nebo ženu) |
+| stejnokroj cvičební |
+
+### Příloha č. 8
+
+#### Měsíční peněžní výše nákladů na zabezpečení jednotlivých vydávaných vojenských stejnokrojů
+
+| | Měsíční peněžní výše nákladů na zabezpečení jednotlivých vojenských stejnokrojů (v Kč) |
+|---|---|
+| stejnokroj polní zelený potisk | 1425 |
+| stejnokroj polní letní zelený potisk | 235 |
+| stejnokroj do nepříznivého počasí | 812 |
+| stejnokroj vycházkový<br> (ve složení pro muže) | 420 |
+| stejnokroj vycházkový<br> (ve složení pro ženu) | 275 |
+| stejnokroj cvičební | 143 |
+| stejnokroj služební<br> (ve složení pro muže) | 495 |
+| stejnokroj služební<br> (ve složení pro ženu) | 464 |
+| stejnokroj vycházkový pro generály<br> (ve složení pro muže) | 751 |
+| stejnokroj vycházkový pro generály<br> (ve složení pro ženu) | 517 |
+| stejnokroj služební pro generály<br> (ve složení pro muže) | 481 |
+| stejnokroj služební pro generály<br> (ve složení pro ženu) | 464 |
+| stejnokroj večerní pro generály<br> (ve složení pro muže) | 329 |
+| stejnokroj večerní pro generály<br> (ve složení pro ženu) | 312 |
+
+---
+
+<sup>1</sup>) Vyhláška č. 279/1999 Sb., kterou se stanoví kategorie vojenského leteckého personálu, jejich kvalifikace a rozsah odborných znalostí a vzor průkazu způsobilosti vojenského leteckého personálu, ve znění pozdějších předpisů.
+
+<sup>2</sup>) § 2 odst. 12 zákona č. 219/1999 Sb., o ozbrojených silách České republiky, ve znění pozdějších předpisů.

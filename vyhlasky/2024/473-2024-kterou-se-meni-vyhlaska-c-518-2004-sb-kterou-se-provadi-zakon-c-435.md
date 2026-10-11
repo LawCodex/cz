@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 473/2024 Sb., kterou se mění vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů"
+identifier: "473/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/473/2025-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-12-19
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/473"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 473/2024 Sb., kterou se mění vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů
+
+473
+
+VYHLÁŠKA
+
+ze dne 19. prosince 2024,
+
+kterou se mění vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů
+
+Ministerstvo práce a sociálních věcí stanoví podle § 81 odst. 6 zákona č. 435/2004 Sb., o zaměstnanosti, ve znění zákona č. 367/2011 Sb. a zákona č. 206/2017 Sb.:
+
+## Čl. I
+
+Vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti, ve znění vyhlášky č. 507/2005 Sb., vyhlášky č. 452/2008 Sb., vyhlášky č. 390/2011 Sb., vyhlášky č. 340/2014 Sb., vyhlášky č. 101/2016 Sb., vyhlášky č. 444/2017 Sb. a vyhlášky č. 441/2021 Sb., se mění takto:
+
+1\. V § 18 odst. 1 se slovo „jednotlivých“ zrušuje.
+
+2\. V § 18 se odstavce 2 a 3 zrušují a zároveň se zrušuje označení odstavce 1.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2025.
+
+Ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.

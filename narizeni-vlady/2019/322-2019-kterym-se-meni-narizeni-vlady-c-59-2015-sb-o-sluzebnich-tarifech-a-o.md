@@ -1,0 +1,89 @@
+---
+title: "Nařízení vlády č. 322/2019 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů"
+identifier: "322/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/322/2020-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2019-11-25
+effective: 2020-01-01
+last_amended: 2020-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/322"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 322/2019 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+322
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. listopadu 2019,
+
+kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 68 odst. 2 a 4 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 332/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění nařízení vlády č. 282/2015 Sb., nařízení vlády č. 346/2016 Sb., nařízení vlády č. 427/2016 Sb., nařízení vlády č. 175/2017 Sb., nařízení vlády č. 328/2017 Sb., nařízení vlády č. 305/2018 Sb. a nařízení vlády č. 192/2019 Sb., se mění takto:
+
+1\. V § 2 odstavec 1 zní:
+
+> „(1) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 2 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | ve výši minimální mzdy |
+> | Svobodník | 26 850 |
+> | Desátník | 28 290 |
+> | Četař | 29 870 |
+> | Rotný | 34 580 |
+> | Rotmistr | 36 940 |
+> | Nadrotmistr | 39 320 |
+> | Praporčík | 41 940 |
+> | Nadpraporčík | 44 800 |
+> | Štábní praporčík | 57 920 |
+> | Poručík | 39 560 |
+> | Nadporučík | 44 800 |
+> | Kapitán | 51 370 |
+> | Major | 57 920 |
+> | Podplukovník | 64 490 |
+> | Plukovník | 77 610 |
+> | Brigádní generál | 90 730 |
+> | Generálmajor | 103 830 |
+> | Generálporučík | 116 960 |
+> | Armádní generál | 130 070“. |
+
+2\. V § 2 odstavec 2 zní:
+
+> „(2) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 4 zákona o vojácích z povolání se stanovují pro vojenskou hodnost
+
+> a) vojín ve výši minimální mzdy,
+
+> b) svobodník ve výši minimální mzdy zvýšené o 3,7 %,
+
+> c) desátník ve výši minimální mzdy zvýšené o 7,3 %,
+
+> d) četař ve výši minimální mzdy zvýšené o 11,0 %,
+
+> e) rotný ve výši minimální mzdy zvýšené o 14,6 %,
+
+> f) rotmistr ve výši minimální mzdy zvýšené o 18,3 %,
+
+> g) nadrotmistr ve výši minimální mzdy zvýšené o 21,8 %.
+
+> Služební tarify podle písmen b) až g) se zaokrouhlují na celé desetikoruny směrem nahoru.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2020.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr obrany:
+
+Mgr. Metnar v. r.

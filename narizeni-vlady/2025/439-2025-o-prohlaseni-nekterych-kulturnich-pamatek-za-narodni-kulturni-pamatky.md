@@ -1,0 +1,245 @@
+---
+title: "Nařízení vlády č. 439/2025 Sb., o prohlášení některých kulturních památek za národní kulturní památky"
+identifier: "439/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/439/2026-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-10-22
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/439"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 439/2025 Sb., o prohlášení některých kulturních památek za národní kulturní památky
+
+439
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 22. října 2025
+
+o prohlášení některých kulturních památek za národní kulturní památky
+
+Vláda nařizuje podle § 4 odst. 1 zákona č. 20/1987 Sb., o státní památkové péči:
+
+## § 1 – Prohlášení některých kulturních památek za národní kulturní památky
+
+(1) Za národní kulturní památky se prohlašují tyto kulturní památky:
+
+a) v hlavním městě Praze
+
+1\. Černínský palác,
+
+2\. Toskánský palác,
+
+3\. Schwarzenberský palác,
+
+4\. Salmovský palác,
+
+5\. Šternberský palác,
+
+6\. Arcibiskupský palác,
+
+7\. Nostický palác,
+
+8\. Colloredo-Mansfeldský palác,
+
+9\. Clam-Gallasův palác,
+
+b) ve Středočeském kraji
+
+1\. Kostel Nanebevzetí Panny Marie a sv. Jana Křtitele v Sedlci u Kutné Hory,
+
+2\. Hřbitovní kaple Všech svatých s kostnicí v Sedlci u Kutné Hory,
+
+c) v Plzeňském kraji Kostel Neposkvrněného početí Panny Marie a sv. Ignáce s katakombami a budovou latinské školy v Klatovech,
+
+d) v Pardubickém kraji Zámek Moravská Třebová.
+
+(2) Umístění, popis a prostorová identifikace národních kulturních památek podle odstavce 1 jsou uvedeny v příloze k tomuto nařízení.
+
+## § 2 – Podmínka ochrany národních kulturních památek
+
+Rozsah zastavěných ploch, tvar terénu, popřípadě výšková úroveň a skladba zástavby se nesmějí měnit, pokud by tím došlo k poškození kulturní hodnoty národní kulturní památky.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2026.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr kultury:
+
+Mgr. Baxa v. r.
+
+### Příloha
+
+#### Umístění, popis a prostorová identifikace národních kulturních památek prohlášených tímto nařízením
+
+a) ​​​​**v hlavním městě Praze**
+
+1.
+
+| Název: | **Černínský palác** |
+|---|---|
+| Popis: | budova paláce, zahrada s oranžerií, ohradní zeď s branami a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+| Prostorové identifikační znaky: | |
+| Okres: | Praha |
+| Obec: | Praha |
+| Katastrální území: | Hradčany |
+| Pozemky, parcelní čísla: | 323/2, 323/3, 326/1, 326/2, 327, 328/1, 328/2, 328/3 |
+| Budovy, čísla popisná: | 101, 187 (část obce Hradčany) |
+
+2.
+
+| Název: | **Toskánský palác** |
+|---|---|
+| Popis: | budova paláce a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+| Prostorové identifikační znaky: | |
+| Okres: | Praha |
+| Obec: | Praha |
+| Katastrální území: | Hradčany |
+| Pozemky, parcelní čísla: | 128, 129 |
+| Budova, číslo popisné: | 182 (část obce Hradčany) |
+
+3.
+
+| Název: | **Schwarzenberský palác** |
+|---|---|
+| Popis: | budova paláce, ohradní zeď s bránou, terasa a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+| Prostorové identifikační znaky: | |
+| Okres: | Praha |
+| Obec: | Praha |
+| Katastrální území: | Hradčany |
+| Pozemky, parcelní čísla: | 117 (část), 120 |
+| Budova, číslo popisné: | 185 (část obce Hradčany) |
+
+4.
+
+| Název: | **Salmovský palác** |
+|---|---|
+| Popis: | budova paláce, zahrada s terasou, ohradní zeď s bránou a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+| Prostorové identifikační znaky: | |
+| Okres: | Praha |
+| Obec: | Praha |
+| Katastrální území: | Hradčany |
+| Pozemky, parcelní čísla: | 114, 115, 116, 117 (část), 118/1, 118/2 |
+| Budova, číslo popisné: | 186 (část obce Hradčany) |
+
+5.
+
+| Název: | **Šternberský palác** |
+|---|---|
+| Popis: | budova paláce, zahrada, ohradní zdi a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+| Prostorové identifikační znaky: | |
+| Okres: | Praha |
+| Obec: | Praha |
+| Katastrální území: | Hradčany |
+| Pozemky, parcelní čísla: | 95, 96 |
+| Budova, číslo popisné: | 57 (část obce Hradčany) |
+
+6.
+
+| Název: | **Arcibiskupský palác** |
+|---|---|
+| Popis: | budova paláce, zahrada, ohradní zdi a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+| Prostorové identifikační znaky: | |
+| Okres: | Praha |
+| Obec: | Praha |
+| Katastrální území: | Hradčany |
+| Pozemky, parcelní čísla: | 92, 93, 94 |
+| Budova, číslo popisné: | 56 (část obce Hradčany) |
+
+7.
+
+| Název: | **Nostický palác** |
+|---|---|
+| Popis: | budova paláce na pozemku vymezeném prostorovými identifikačními znaky, včetně tohoto pozemku |
+| Prostorové identifikační znaky: | |
+| Okres: | Praha |
+| Obec: | Praha |
+| Katastrální území: | Malá Strana |
+| Pozemek, parcelní číslo: | 294 |
+| Budova, číslo popisné: | 471 (část obce Malá Strana) |
+
+8.
+
+| Název: | **Colloredo-Mansfeldský palác** |
+|---|---|
+| Popis: | budova paláce na pozemku vymezeném prostorovými identifikačními znaky, včetně tohoto pozemku |
+| Prostorové identifikační znaky: | |
+| Okres: | Praha |
+| Obec: | Praha |
+| Katastrální území: | Staré Město |
+| Pozemek, parcelní číslo: | 143 |
+| Budova, číslo popisné: | 189 (část obce Staré Město) |
+
+9.
+
+| Název: | **Clam-Gallasův palác** |
+|---|---|
+| Popis: | budova paláce, ohradní zdi a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků, bez pozemku parcelní číslo 1105 (pozemek náměstí, na kterém se nachází kašna se sochou Terezky – alegorie Vltavy) |
+| Prostorové identifikační znaky: | |
+| Okres: | Praha |
+| Obec: | Praha |
+| Katastrální území: | Staré Město |
+| Pozemky, parcelní čísla: | 98, 99, 1105 |
+| Budova, číslo popisné: | 158 (část obce Staré Město) |
+
+b) **ve Středočeském kraji**
+
+1.
+
+| Název: | **Kostel Nanebevzetí Panny Marie a sv. Jana Křtitele **v Sedlci u Kutné Hory**** |
+|---|---|
+| Popis: | budova kostela na pozemcích vymezených prostorovými identifikačními znaky, včetně pozemku parcelní číslo 1, bez pozemku parcelní číslo 2/1 (pozemek sousedního objektu, na kterém se nachází pilíře kostela) |
+| Prostorové identifikační znaky: | |
+| Okres: | Kutná Hora |
+| Obec: | Kutná Hora |
+| Katastrální území: | Sedlec u Kutné Hory |
+| Pozemky, parcelní čísla: | 1, 2/1 |
+
+2.
+
+| Název: | **Hřbitovní kaple Všech svatých s kostnicí ​v Sedlci​ **u Kutné Hory**** |
+|---|---|
+| Popis: | hřbitovní kaple s kostnicí, márnice, ohradní zeď s branami a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+| Prostorové identifikační znaky: | |
+| Okres: | Kutná Hora |
+| Obec: | Kutná Hora |
+| Katastrální území: | Sedlec u Kutné Hory |
+| Pozemky, parcelní čísla: | 394, 395, 396, 397 |
+
+c) **​v Plzeňském kraji**
+
+| Název: | **Kostel Neposkvrněného početí Panny Marie ​a sv. Ignáce​ s katakombami a budovou latinské školy v Klatovech** |
+|---|---|
+| Popis: | budova kostela s katakombami, latinská škola (bez spojovacího krčku) a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků, bez pozemku parcelní číslo 3403/16 (pozemek ulice, na kterém se nachází přístupové schodiště latinské školy s rampou) |
+| Prostorové identifikační znaky: | |
+| Okres: | Klatovy |
+| Obec: | Klatovy |
+| Katastrální území: | Klatovy |
+| Pozemky, parcelní čísla: | stavební parcely: 582, 583 |
+| | pozemkové parcely: 3403/16, 3403/27 |
+| Budova, číslo popisné: | 148 (část obce Klatovy I) |
+
+d) **v Pardubickém kraji**
+
+| Název: | **Zámek Moravská Třebová** |
+|---|---|
+| Popis: | areál tvoří hrad přestavěný na zámek, zahrada, opěrné a ohradní zdi s branami a další nemovité kulturní památky na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků, bez pozemku parcelní číslo 277 (pozemek, na kterém se nachází boční přístupové schodiště) |
+| Prostorové identifikační znaky: | |
+| Okres: | Svitavy |
+| Obec: | Moravská Třebová |
+| Katastrální území: | Moravská Třebová |
+| Pozemky, parcelní čísla: | 267, 268, 269, 271, 272, 273, 277 |
+| Budova, číslo popisné: | 185 (část obce Město) |
+
+Poznámka:
+
+Zpracováno podle právního stavu ke dni 30. června 2025.

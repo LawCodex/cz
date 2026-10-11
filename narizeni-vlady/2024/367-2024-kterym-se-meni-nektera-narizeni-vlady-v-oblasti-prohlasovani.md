@@ -1,0 +1,120 @@
+---
+title: "Nařízení vlády č. 367/2024 Sb., kterým se mění některá nařízení vlády v oblasti prohlašování některých kulturních památek za národní kulturní památky"
+identifier: "367/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/367/2025-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-11-27
+effective: 2025-07-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/367"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 367/2024 Sb., kterým se mění některá nařízení vlády v oblasti prohlašování některých kulturních památek za národní kulturní památky
+
+367
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 27. listopadu 2024,
+
+kterým se mění některá nařízení vlády v oblasti prohlašování některých kulturních památek za národní kulturní památky
+
+Vláda nařizuje podle § 4 odst. 1 zákona č. 20/1987 Sb., o státní památkové péči:
+
+## ČÁST PRVNÍ – Změna nařízení vlády č. 262/1995 Sb.
+
+### Čl. I
+
+Nařízení vlády č. 262/1995 Sb., o prohlášení a zrušení prohlášení některých kulturních památek za národní kulturní památky, ve znění nařízení vlády č. 336/2002 Sb., nařízení vlády č. 422/2005 Sb. a nařízení vlády č. 430/2020 Sb., se mění takto:
+
+1\. V příloze písm. c) bod 6 zní:
+
+> „6.
+
+> <table><tbody><tr><td>Název:</td><td>Zámek Jindřichův Hradec</td></tr><tr><td>Popis:</td><td>zámek, gotické křídlo, křídla prvního nádvoří, sýpka, domeček, věž Hranatka, Černá věž, Červená věž, gotický palác, Španělské křídlo, purkrabství, Jáchymovo stavení, Adamovo stavení, jižní arkády, západní arkády, velké arkády, Rondel, dolní zahrada, užitková zahrada, zámecká zahrada, velká studna, malá studna, sklep, grotta, hradební zeď, Pluhová bašta, zámecký pivovar, starý pivovar, nový pivovar, panský pivovar, zámecký mlýn, náhon, Smetanův domek a jiné nemovité objekty, které jsou kulturními památkami, na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků</td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Okres:</td><td>Jindřichův Hradec</td></tr><tr><td>Obec:</td><td>Jindřichův Hradec</td></tr><tr><td>Katastrální území:</td><td>Jindřichův Hradec</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>152/1, 152/2, 152/3, 152/4, 152/5, 1187, 1188, 1198, 1199/1, 1200, 1201, 1202, 1203, 1204, 1205, 1209, 1210, 1211/1, 1211/2, 1211/3, 1211/4, 1211/5, 1211/6, 1211/7, 1211/8, 1212/1, 1212/2, 1212/3, 1226/2</td></tr><tr><td>Budovy, čísla popisná:</td><td>1, 2, 199, 202 (část obce Jindřichův Hradec I)</td></tr><tr><td colspan="2">Poznámka:<br> Zpracováno podle právního stavu ke dni 24. dubna 2024.“.</td></tr></tbody></table>
+
+2\. V příloze písm. h) bod 4 zní:
+
+> „4.
+
+> <table><tbody><tr><td>Název:</td><td>Pevnostní systém Dobrošov</td></tr><tr><td>Popis:</td><td>areál pevnostního systému tvořený stavbami, jejich pozůstatky a dalšími nemovitými kulturními památkami na pozemcích a pod pozemky vymezenými prostorovými identifikačními znaky, včetně pozemků:</td></tr><tr><td></td><td>stavební parcely: 117, 118, 138, 146, 147, 148, 151, 166, 167, 168, 170, 171, 179,</td></tr><tr><td></td><td>pozemkové parcely: 89/1, 89/2, 91/1 (část), 100/2 (část), 109/7 (část), 109/8 (část), 109/11, 135/7 (část), 135/10, 137, 152/1 (část), 152/10 (část), 153/1 (část), 153/3, 169/2, 169/3, 197/4 (část), 198/8, 198/9, 198/12, 198/15, 221/1 (část), 228/2 (část), 237/3, 237/4 (část), 242, 266/6, 266/7, 281, 343/1 (část), 411/3, 411/4 (část), 440/9 (část), 469/1 (část)</td></tr><tr><td colspan="2"></td></tr><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Okres:</td><td>Náchod</td></tr><tr><td>Obec:</td><td>Náchod</td></tr><tr><td>Katastrální území:</td><td>Dobrošov</td></tr><tr><td rowspan="2">Pozemky, parcelní čísla:</td><td>stavební parcely: 117, 118, 138, 146, 147, 148, 151, 166, 167, 168, 170, 171, 179,</td></tr><tr><td>pozemkové parcely: 1/1, 1/2, 3/1, 85, 89/1, 89/2, 91/1 (část), 91/3, 94, 100/2 (část), 109/7 (část), 109/8 (část), 109/11, 135/1, 135/6, 135/7 (část), 135/8, 135/10, 135/11, 135/12, 137, 140/1, 140/3, 140/4, 140/5, 152/1 (část), 152/10 (část), 153/1 (část), 153/3, 169/2, 169/3, 171/5, 197/4 (část), 198/1, 198/6, 198/8, 198/9, 198/12, 198/13, 198/14, 198/15, 198/25, 198/28, 221/1 (část), 228/2 (část), 231/2, 231/9, 237/3, 237/4 (část), 237/11, 237/13, 242, 243/1, 243/2, 243/4, 247/1, 247/7, 247/17, 247/18, 247/20, 247/21, 247/22, 266/6, 266/7, 281, 283/2, 284/6, 284/7, 284/10, 288/2, 289, 343/1 (část), 406, 411/1, 411/3, 411/4 (část), 435/1, 437, 439, 440/2, 440/9 (část), 463, 464, 468/3, 469/1 (část), 470/2, 481/1, 486, 487, 505</td></tr><tr><td colspan="2">Poznámka:<br> Zpracováno podle právního stavu ke dni 14. června 2024.“.</td></tr></tbody></table>
+
+## ČÁST DRUHÁ – Změna nařízení vlády č. 171/1998 Sb.
+
+### Čl. II
+
+V § 1 odst. 1 nařízení vlády č. 171/1998 Sb., o vymezení některých národních kulturních památek a o změně a doplnění některých právních předpisů, písmeno l) zní:
+
+> „l) v okrese Nový Jičín
+
+> <table><tbody><tr><td>Název:</td><td>Bratrský sbor ve Fulneku (Památník Jana Ámose Komenského)</td></tr><tr><td>Popis:</td><td>areál památníku tvořený budovou Bratrského sboru, sochou J. A. Komenského a jinými nemovitými objekty, které jsou kulturními památkami, na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků</td></tr><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Okres:</td><td>Nový Jičín</td></tr><tr><td>Obec:</td><td>Fulnek</td></tr><tr><td>Katastrální území:</td><td>Fulnek</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>84, 85, 86/4, 86/5, 86/6, 86/7, 86/8, 87/3, 87/4</td></tr><tr><td>Budova, číslo popisné:</td><td>80 (část obce Fulnek)</td></tr><tr><td colspan="2">Poznámka:<br> Zpracováno podle právního stavu ke dni 31. května 2024.“.</td></tr></tbody></table>
+
+## ČÁST TŘETÍ – Změna nařízení vlády č. 132/2001 Sb.
+
+### Čl. III
+
+V písmeni g) přílohy k nařízení vlády č. 132/2001 Sb., o prohlášení některých kulturních památek za národní kulturní památky, bod 3 zní:
+
+> „3.
+
+> <table><tbody><tr><td>Název:</td><td>Betlém v Novém lese u Kuksu</td></tr><tr><td>Popis:</td><td>soubor barokních plastik a jejich pozůstatků na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků</td></tr><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Okres:</td><td>Trutnov</td></tr><tr><td>Obec:</td><td>Hřibojedy</td></tr><tr><td>Katastrální území:</td><td>Hřibojedy</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 1093/2</td></tr><tr><td>Okres:</td><td>Trutnov</td></tr><tr><td>Obec:</td><td>Stanovice</td></tr><tr><td>Katastrální území:</td><td>Stanovice u Kuksu</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 114/5, 115/2, 335/2</td></tr><tr><td colspan="2">Poznámka:<br> Zpracováno podle právního stavu ke dni 23. května 2024.“.</td></tr></tbody></table>
+
+## ČÁST ČTVRTÁ – Změna nařízení vlády č. 50/2010 Sb.
+
+### Čl. IV
+
+Nařízení vlády č. 50/2010 Sb., o prohlášení některých kulturních památek za národní kulturní památky, ve znění nařízení vlády č. 430/2020 Sb., se mění takto:
+
+1\. V příloze č. 1 písm. a) bod 2 zní:
+
+> „2.
+
+> <table><tbody><tr><td>Název:</td><td>Zámek Vimperk</td></tr><tr><td>Popis:</td><td>Černá brána, předsunutá bašta Haselburk, Horní zámek (Vlčkova věž, severovýchodní křídlo s věží, jižní křídlo, střední manýristické křídlo, kaple sv. Josefa, kaple Evangelistů, míčovna, kašna), Dolní zámek (severní křídlo, jižní křídlo, východní křídlo, arkády s věží, hospodářská budova, 2 kašny), zahrady a jiné nemovité objekty, které jsou kulturními památkami, na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků</td></tr><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Okres:</td><td>Prachatice</td></tr><tr><td>Obec:</td><td>Vimperk</td></tr><tr><td>Katastrální území:</td><td>Vimperk</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>361, 363, 369, 370, 372, 373, 374, 375, 381</td></tr><tr><td>Budova, číslo popisné:</td><td>20 (část obce Vimperk II)</td></tr><tr><td colspan="2">Poznámka:<br> Zpracováno podle právního stavu ke dni 24. dubna 2024.“.</td></tr></tbody></table>
+
+2\. V příloze č. 1 písm. m) bod 2 zní:
+
+> „2.
+
+> <table><tbody><tr><td>Název:</td><td>Klášter premonstrátů v Želivě</td></tr><tr><td>Popis:</td><td>areál kláštera premonstrátů tvořený budovami bývalého Trčkova hradu, opatství, konventu, kostela Nanebevzetí Panny Marie, staré prelatury, kostela sv. Petra a Pavla a jinými nemovitými objekty, které jsou kulturními památkami, na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků, s výjimkou pozemků parcelní čísla 221, 222 a 245/1</td></tr><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Okres:</td><td>Pelhřimov</td></tr><tr><td>Obec:</td><td>Želiv</td></tr><tr><td>Katastrální území:</td><td>Želiv</td></tr><tr><td rowspan="2">Pozemky, parcelní čísla: </td><td>stavební parcely: 89/2, 89/3, 89/4, 89/5, 89/8, 89/11, 89/12, 89/13, 89/14, 89/15, 89/16, 89/18, 89/19, 90, 91, 92, 380, 381, 464</td></tr><tr><td>pozemkové parcely: 221, 222, 226, 230, 234, 235, 236, 238, 240/1, 241/1, 241/2, 241/3, 244, 245/1, 1390</td></tr><tr><td>Budovy, čísla popisná:</td><td>1, 52, 55, 88, 115, 116, 117, 118, 119, 122, 213 (část obce Želiv)</td></tr><tr><td colspan="2">Poznámka:<br> Zpracováno podle právního stavu ke dni 31. května 2024.“.</td></tr></tbody></table>
+
+## ČÁST PÁTÁ – Změna nařízení vlády č. 372/2023 Sb.
+
+### Čl. V
+
+Nařízení vlády č. 372/2023 Sb., o prohlášení některých kulturních památek za národní kulturní památky, se mění takto:
+
+1\. V příloze č. 1 písm. d) se na konci bodu 2 doplňuje poznámka, která zní:
+
+> „Poznámka:
+
+> Zpracováno podle právního stavu ke dni 10. října 2023.“.
+
+2\. V příloze č. 1 písmeno h) zní:
+
+> „h) v kraji Vysočina
+
+> <table><tbody><tr><td>Název:</td><td>Radnice královského města Havlíčkův Brod</td></tr><tr><td>Popis:</td><td>budova radnice a další nemovité objekty, které jsou kulturními památkami, na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků</td></tr><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Okres:</td><td>Havlíčkův Brod</td></tr><tr><td>Obec:</td><td>Havlíčkův Brod</td></tr><tr><td>Katastrální území:</td><td>Havlíčkův Brod</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>stavební parcela: 1</td></tr><tr><td></td><td>pozemková parcela: 3619/1</td></tr><tr><td>Budova, číslo popisné:</td><td>87 (část obce Havlíčkův Brod)</td></tr><tr><td colspan="2">Poznámka:<br> Zpracováno podle právního stavu ke dni 4. června 2024.“.</td></tr></tbody></table>
+
+3\. V příloze č. 1 písmeno j) zní:
+
+> „j) v Olomouckém kraji
+
+> <table><tbody><tr><td>Název:</td><td>Nová radnice města Prostějov</td></tr><tr><td>Popis:</td><td>budova radnice s dvorním provozním objektem a dřevěným dvorním objektem (dílnou) a další nemovité kulturní památky na pozemku vymezeném prostorovými identifikačními znaky, včetně tohoto pozemku</td></tr><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Okres:</td><td>Prostějov</td></tr><tr><td>Obec:</td><td>Prostějov</td></tr><tr><td>Katastrální území:</td><td>Prostějov</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>173</td></tr><tr><td>Budova, číslo popisné:</td><td>130 (část obce Prostějov)</td></tr><tr><td colspan="2">Poznámka:<br> Zpracováno podle právního stavu ke dni 27. června 2024.“.</td></tr></tbody></table>
+
+## ČÁST ŠESTÁ – ÚČINNOST
+
+### Čl. VI
+
+Toto nařízení nabývá účinnosti dnem 1. července 2025.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr kultury:
+
+Mgr. Baxa v. r.

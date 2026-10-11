@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 608/2020 Sb., o stanovení potřebné úrovně znalosti českého jazyka a rovnocenných jazykových zkouškách pro výkon tlumočnické činnosti"
+identifier: "608/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/608/2021-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-12-22
+effective: 2021-01-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/608"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 608/2020 Sb., o stanovení potřebné úrovně znalosti českého jazyka a rovnocenných jazykových zkouškách pro výkon tlumočnické činnosti
+
+608
+
+VYHLÁŠKA
+
+ze dne 22. prosince 2020,
+
+o stanovení potřebné úrovně znalosti českého jazyka a rovnocenných jazykových zkouškách pro výkon tlumočnické činnosti
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 7 odst. 4 zákona č. 354/2019 Sb., o soudních tlumočnících a soudních překladatelích:
+
+## § 1 – Potřebná úroveň znalosti českého jazyka
+
+K výkonu tlumočnické činnosti se požaduje znalost jazyka alespoň na úrovni C1 podle Společného evropského referenčního rámce pro jazyky.
+
+## § 2 – Rovnocenné jazykové zkoušky
+
+Rovnocennými jazykovými zkouškami ke zkoušce z českého jazyka jako cizího jazyka jsou
+
+a) jednotlivá zkouška nebo zkoušky, které svým obsahem a formou odpovídají maturitní zkoušce z českého jazyka a literatury podle školského zákona<sup>1</sup>),
+
+b) státní jazyková zkouška všeobecná z českého jazyka, nebo
+
+c) státní jazyková zkouška speciální z českého jazyka.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2021.
+
+Ministr školství, mládeže a tělovýchovy:
+
+Ing. Plaga, Ph.D., v. r.
+
+---
+
+<sup>1</sup>) § 113 a 113a zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů.

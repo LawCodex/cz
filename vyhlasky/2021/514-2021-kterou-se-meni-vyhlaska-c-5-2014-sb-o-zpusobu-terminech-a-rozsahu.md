@@ -1,0 +1,244 @@
+---
+title: "Vyhláška č. 514/2021 Sb., kterou se mění vyhláška č. 5/2014 Sb., o způsobu, termínech a rozsahu údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků, rozpočtů dobrovolných svazků obcí a rozpočtů Regionálních rad regionů soudržnosti, ve znění pozdějších předpisů"
+identifier: "514/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/514/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-12-16
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/514"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 514/2021 Sb., kterou se mění vyhláška č. 5/2014 Sb., o způsobu, termínech a rozsahu údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků, rozpočtů dobrovolných svazků obcí a rozpočtů Regionálních rad regionů soudržnosti, ve znění pozdějších předpisů
+
+514
+
+VYHLÁŠKA
+
+ze dne 16. prosince 2021,
+
+kterou se mění vyhláška č. 5/2014 Sb., o způsobu, termínech a rozsahu údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků, rozpočtů dobrovolných svazků obcí a rozpočtů Regionálních rad regionů soudržnosti, ve znění pozdějších předpisů
+
+Ministerstvo financí stanoví podle § 20 odst. 6 a § 47 odst. 7 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 482/2004 Sb., zákona č. 26/2008 Sb., zákona č. 421/2009 Sb., zákona č. 25/2015 Sb. a zákona č. 128/2016 Sb.:
+
+## Čl. I
+
+Vyhláška č. 5/2014 Sb., o způsobu, termínech a rozsahu údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků, rozpočtů dobrovolných svazků obcí a rozpočtů Regionálních rad regionů soudržnosti, ve znění vyhlášky č. 363/2014 Sb., vyhlášky č. 364/2014 Sb., vyhlášky č. 347/2015 Sb., vyhlášky č. 395/2016 Sb., vyhlášky č. 466/2017 Sb. a vyhlášky č. 344/2019 Sb., se mění takto:
+
+1\. V nadpisu vyhlášky se čárka za slovem „celků“ nahrazuje slovem „a“ a slova „a rozpočtů Regionálních rad regionů soudržnosti“ se zrušují.
+
+2\. V § 1 se čárka za slovem „celků“ nahrazuje slovem „a“ a slova „a rozpočtů Regionálních rad regionů soudržnosti (dále jen „regionální rada“)“ se zrušují.
+
+3\. V § 4 odst. 1 písm. b) se čárka za slovem „celků“ nahrazuje slovem „a“ a slova „a regionálních rad“ se zrušují.
+
+4\. V § 4 odst. 2 písm. b) a v § 5 odst. 2 se slova „regionální rady“ nahrazují slovy „městské části hlavního města Prahy“.
+
+5\. V příloze č. 1 bodu 1.1 se slova „vyhlášky č. 323/2002 Sb., „o rozpočtové skladbě“, ve znění pozdějších předpisů (dále jen rozpočtová skladba)“ nahrazují slovy „vyhlášky upravující rozpočtovou skladbu“.
+
+6\. V příloze č. 1 bod 8 zní:
+
+> „8. Správci kapitol v rozpočtovém systému a státní fondy v centrálním systému účetních informací státu provedou alespoň jednou čtvrtletně kontrolu jimi vykazovaných údajů o poskytnutých transferech a půjčených peněžních prostředcích na hodnoty transferů a půjčených peněžních prostředků přijatých územními samosprávnými celky a dobrovolnými svazky obcí. V případě zjištění rozdílů mezi poskytnutými a přijatými transfery nebo půjčenými peněžními prostředky neprodleně zajistí, v součinnosti s příslušným územním samosprávným celkem a dobrovolným svazkem obcí, jejich dohledání a opravu.“.
+
+7\. V nadpisu přílohy č. 2 se čárka za slovem „celků“ nahrazuje slovem „a“ a slova „a regionálních rad“ se zrušují.
+
+8\. V příloze č. 2 bodu 1 se čárka za slovem „kraje“ nahrazuje slovem „a“, slova „a regionální rady“ se zrušují, čárka za slovem „celků“ se nahrazuje slovem „a“ a slova „a regionálních rad“ se zrušují.
+
+9\. V příloze č. 2 bod 2 zní:
+
+> „2. Statutární města a hlavní město Praha předávají jeden výkaz, který obsahuje údaje za město jako celek. Tento výkaz v sobě zahrnuje údaje za hospodaření městských částí a městských obvodů. Magistrát hlavního města Prahy dále předává do centrálního systému účetních informací státu ročně výkazy za jednotlivé městské části hlavního města Prahy a výkaz za hlavní město Prahu bez hospodaření městských částí hlavního města Prahy.“.
+
+10\. V příloze č. 2 bod 4 zní:
+
+> „4. Magistrát hlavního města Prahy kontroluje předání, úplnost a správnost výkazů předávaných za městské části hlavního města Prahy a vyžaduje provedení oprav neúplných nebo chybně vyplněných výkazů. Magistrát hlavního města Prahy stanoví způsob a určí metodu, jakou zabezpečí kontrolu úplnosti a správnosti výkazů předávaných jeho prostřednictvím za městské části hlavního města Prahy. Magistrát hlavního města Prahy stanoví termíny městským částem hlavního města Prahy pro předání výkazů magistrátu tak, aby měl možnost zajistit kontrolu úplnosti a správnosti předaných výkazů, včetně zaslání oprav neúplných nebo chybně vyplněných výkazů městskými částmi hlavního města Prahy. Termíny stanovené Magistrátem hlavního města Prahy musí městským částem hlavního města Prahy ponechat dostatečný časový prostor pro vypracování výkazů, přičemž Magistrát hlavního města Prahy musí vzít do úvahy termíny stanovené v bodě 7.“.
+
+11\. V příloze č. 2 bodu 5 se věty třetí a poslední zrušují.
+
+12\. V příloze č. 2 bodu 7 se čárka za slovem „krajů“ nahrazuje slovem „a“, slova „a regionálních rad“ se zrušují, za slovo „obcí“ se vkládají slova „ , městských částí hlavního města Prahy“ a za slovo „úřady“ se vkládají slova „a Magistrátem hlavního města Prahy“.
+
+13\. V příloze č. 2 bodu 7.4 se slova „za období“ zrušují a slovo „nepředkládají“ se nahrazuje slovem „nepředávají“.
+
+14\. V příloze č. 2 bodu 7.5 se slova „regionálních rad budou uvedeny ve výkazech za období leden až duben“ nahrazují slovy „městských částí hlavního města Prahy se uvedou nejpozději ve výkazech sestavených ke dni 30. dubna“.
+
+15\. V příloze č. 2 bodu 8 se slovo „půjčkách“ nahrazuje slovy „půjčených peněžních prostředcích“, slova „transferů poskytnutých“ se nahrazují slovy „poskytnutých transferů a půjčených peněžních prostředků“ a slovo „půjčkami“ se nahazuje slovy „půjčenými peněžními prostředky“.
+
+16\. V příloze č. 3 vzor FIN 1-12 OSS Výkaz pro hodnocení plnění rozpočtu správců kapitol a organizačních složek státu v části I. se text „EDS/SMVS“ nahrazuje textem „EDS/SMVS/ZED“.
+
+17\. V příloze č. 3 vzor FIN 1-12 OSS Výkaz pro hodnocení plnění rozpočtu správců kapitol a organizačních složek státu v části II. se slova „(jiných než OSS)“ nahrazují slovy „jiných než OSS“, slova „jiných fondů“ se nahrazují textem „FKSP“ a za slovo „fondu“ se vkládá text „OSS“.
+
+18\. V příloze č. 5 bodu 1 se slova „Státní fond rozvoje bydlení“ nahrazují slovy „Státní fond podpory investic“.
+
+19\. V příloze č. 5 bodu 3.1 se za písmeno c) vkládají nová písmena d) a e), která znějí:
+
+> „d) rozpis položek potřebných pro provedení konsolidace příjmů a výdajů,
+
+> e) saldo příjmů a výdajů po konsolidaci,“.
+
+Dosavadní písmeno d) se označuje jako písmeno f).
+
+20\. V příloze č. 5 bod 3.3 zní:
+
+> „3.3 Vazby v části III. výkazu, které platí na úrovni vykazující jednotky:
+
+> | r. 3010 <sub>sl. 31,32,33</sub> | = | r. (3011 + 3012 + 3013 + 3014) <sub>sl. 31,32,33</sub> |
+> |---|---|---|
+> | r. 3020 <sub>sl. 31,32,33</sub> | = | r. 3070 <sub>sl. 31,32,33</sub> |
+> | r. 3020 <sub>sl. 31,32,33</sub> | = | r. (3021 + 3022 + 3023 + 3024) <sub>sl. 31,32,33</sub> |
+> | r. 3030 <sub>sl. 31,32,33</sub> | = | r. (3010 - 3020) <sub>sl. 31,32,33</sub> |
+> | r. 3060 <sub>sl. 31,32,33</sub> | = | r. (3061 + 3062) <sub>sl. 31,32,33</sub> |
+> | r. 3070 <sub>sl. 31,32,33</sub> | = | r. (3071 + 3072 + 3073 + 3074) <sub>sl. 31,32,33</sub> |
+> | r. 3080 <sub>sl. 31,32,33</sub> | = | r. (3060 - 3070) <sub>sl. 31,32,33</sub> |
+> | r. 3080 <sub>sl. 31,32,33</sub> | = | r. (3030 + 3200) <sub>sl. 31,32,33</sub> |
+> | r. 3100 <sub>sl. 31,32,33</sub> | = | r. (3030 - 3080) <sub>sl. 31,32,33</sub> |
+> | r. 3100 <sub>sl. 31,32,33</sub> | = | - r. 3200 <sub>sl. 31,32,33</sub> |
+>
+> “.
+
+21\. V příloze č. 5 bodu 5 se slovo „půjčky“ nahrazuje slovy „půjčené peněžní prostředky“.
+
+22\. V příloze č. 5 bodu 5.1 úvodní části ustanovení se slovo „půjček“ nahrazuje slovy „půjčených peněžních prostředků“.
+
+23\. V příloze č. 5 bodu 5.1 písmeno a) zní:
+
+> „a) uvedených na položkách 5321, 5323, 5329, 5641, 5642, 5649, 6341, 6342, 6349, 6441, 6442 a 6449,“.
+
+24\. V příloze č. 5 bodu 5.3 se slovo „půjčky“ nahrazuje slovy „půjčené peněžní prostředky“ a slova „ ; pro transfery a půjčky poskytované regionálním radám se přiřadí kód územní jednotky odpovídající NUTS 2 (CZ0x)“ se zrušují.
+
+25\. V příloze č. 5 ve vzoru FIN 1-12 SF Výkaz pro hodnocení plnění rozpočtu státních fondů část III. zní:
+
+> „III. Rekapitulace příjmů, výdajů a financování
+
+> **![sbcr2021c224z0514p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884417/NAHLED/ZOBRAZ/sbcr2021c224z0514p005u001)“.**
+
+26\. V příloze č. 5 vzor FIN 1-12 SF Výkaz pro hodnocení plnění rozpočtu státních fondů v nadpisu části IX. se slovo „půjčky“ nahrazuje slovy „půjčené peněžní prostředky“.
+
+27\. V nadpisu přílohy č. 6 se čárka za slovem „celků“ nahrazuje slovem „a“ a slova „a regionálních rad“ se zrušují.
+
+28\. V příloze č. 6 bodu 1 se slova „regionální rady“ nahrazují slovy „městské části hlavního města Prahy“.
+
+29\. V příloze č. 6 bod 3 zní:
+
+> „3. Údaji o schváleném rozpočtu územního samosprávného celku, dobrovolného svazku obcí a městské části hlavního města Prahy se rozumí rozpočet schválený zastupitelstvem územního samosprávného celku nebo městské části hlavního města Prahy nebo orgány dobrovolného svazku obcí rozepsaný v členění podle podrobné rozpočtové skladby (rozpis rozpočtu) podle právního předpisu upravujícího rozpočtová pravidla územních rozpočtů.“.
+
+30\. V příloze č. 6 bod 4 zní:
+
+> „4. Údaji o rozpočtu po změnách územního samosprávného celku, dobrovolného svazku obcí a městské části hlavního města Prahy se rozumí rozpočet schválený zastupitelstvem územního samosprávného celku nebo městské části hlavního města Prahy nebo orgány dobrovolného svazku obcí rozepsaný v členění podle podrobné rozpočtové skladby (rozpis rozpočtu) podle právního předpisu upravujícího rozpočtová pravidla územních rozpočtů, který je upravený o rozpočtová opatření provedená podle právního předpisu upravujícího rozpočtová pravidla územních rozpočtů.“.
+
+31\. V příloze č. 6 bodu 7.2 v názvu položky 8115 se slovo „Změna“ nahrazuje slovem „Změny“ a za slovo „kromě“ se vkládají slova „změn stavů“.
+
+32\. V příloze č. 6 bodu 7.2 v názvu položky 8901 se slovo „organizace“ nahrazuje slovy „rozpočtové jednotky“.
+
+33\. V příloze č. 6 bodu 7.2 v názvu položky 8902 se slovo „kurzové“ nahrazuje slovem „kursové“.
+
+34\. V příloze č. 6 bodu 7.2 se na konci názvu položky 8905 doplňují slova „a saldo státní pokladny“.
+
+35\. V příloze č. 6 bodu 8.2 písm. a) se slova „a regionální rada“ nahrazují slovy „ , městská část hlavního města Prahy a hlavní město Praha bez hospodaření městských částí hlavního města Prahy“ a na konci textu písmene se doplňují slova „za město jako celek“.
+
+36\. V příloze č. 6 bodu 8.2 písm. b) se čárka za slovem „celků“ nahrazuje slovem „a“ a slova „a regionálních rad“ se zrušují.
+
+37\. V příloze č. 6 bod 8.3 zní:
+
+> „8.3 Předmětem konsolidace jednotlivých položek druhového třídění rozpočtové skladby s uvedením úrovně, na které se konsolidace provádí, jsou následující příjmové, výdajové a financující operace.
+
+> <table><tbody><tr><th rowspan="2">konsolidace příjmů</th><th colspan="5">konsolidace na úrovni</th></tr><tr><th>vykazující jednotky městská část hlavního města Prahy, nebo hlavní město Praha bez hospodaření městských částí hlavního města Prahy</th><th>vykazující jednotky</th><th>okresu</th><th>kraje</th><th>státu</th></tr><tr><td>2223 - Příjem z finančního vypořádání mezi kraji, obcemi a DSO</td><td>ne</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>2226 – Příjem z finančního vypořádání mezi obcemi a DSO</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>2441 - Splátky půjčených prostředků od obcí</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>2442 - Splátky půjčených prostředků od krajů</td><td>ne</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>2449 - Ostatní splátky půjčených prostředků od rozpočtů územní úrovně</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4121 - Neinvestiční přijaté transfery od obcí</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4122 - Neinvestiční přijaté transfery od krajů</td><td>ne</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>4129 - Ostatní neinvestiční přijaté transfery od rozpočtů územní úrovně</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4133 - Převody z vlastních rezervních fondů jiných než OSS</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4134 - Převody z rozpočtových účtů</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4137 - Neinvestiční převody mezi statutárními městy včetně hl. m. Prahy a jejich městskými obvody nebo částmi</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4138 - Převody z vlastní pokladny</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4139 - Ostatní převody z vlastních fondů</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4221 - Investiční přijaté transfery od obcí</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4222 - Investiční přijaté transfery od krajů</td><td>ne</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>4229 - Ostatní investiční přijaté transfery od rozpočtů územní úrovně</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>4251 - Investiční převody mezi statutárními městy včetně hl. m. Prahy a jejich městskými obvody nebo částmi</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>ZJ 024 - Transfery přijaté obcí od obce v jiném okresu téhož kraje</td><td>ne</td><td>ne</td><td>ano</td><td>ne</td><td>ne</td></tr><tr><td>ZJ 025 - Splátky půjčených prostředků přijatých obcí od obce v jiném okresu téhož kraje</td><td>ne</td><td>ne</td><td>ano</td><td>ne</td><td>ne</td></tr><tr><td>ZJ 028 - Transfery přijaté obcí nebo krajem z území jiného kraje</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ne</td></tr><tr><td>ZJ 029 - Splátky půjčených prostředků přijaté obcí nebo krajem z území jiného kraje</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ne</td></tr><tr><td>5321 - Neinvestiční transfery obcím</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>5323 - Neinvestiční transfery krajům</td><td>ne</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>5329 - Ostatní neinvestiční transfery rozpočtům uzemní úrovně</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>5342 - Základní příděl fondu kulturních a sociálních potřeb a sociálnímu fondu obcí a krajů</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>5344 - Převody vlastním rezervním fondům územních rozpočtů</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>5345 - Převody vlastním rozpočtovým účtům</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>5347 - Neinvestiční převody mezi statutárními městy včetně hl. m. Prahy a jejich městskými obvody nebo částmi – výdaje</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>5348 - Převody do vlastní pokladny</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>5349 - Ostatní převody vlastním fondům</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>5366 - Výdaje z finančního vypořádání mezi krajem a obcemi</td><td>ne</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>5367 - Výdaje z finančního vypořádání mezi obcemi</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td rowspan="2">ano<br><br> ano</td></tr><tr><td>5641 - Neinvestiční půjčené prostředky obcím</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>5642 - Neinvestiční půjčené prostředky krajům</td><td>ne</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>5649 - Ostatní neinvestiční půjčené prostředky rozpočtům územní úrovně</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>6341 - Investiční transfery obcím</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>6342 - Investiční transfery krajům</td><td>ne</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>6349 - Ostatní investiční transfery rozpočtům územní úrovně</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>6363 - Investiční převody mezi statutárními městy včetně hl. m. Prahy a jejich městskými obvody nebo částmi – výdaje</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>6441 - Investiční půjčené prostředky obcím</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>6442 - Investiční půjčené prostředky krajům</td><td>ne</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td></tr><tr><td>6449 - Ostatní investiční půjčené prostředky rozpočtům místní úrovně</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>ZJ 026 - Transfery poskytnuté obcí obci v jiném okresu téhož kraje</td><td>ne</td><td>ne</td><td>ano</td><td>ne</td><td>ne</td></tr><tr><td>ZJ 027 - Půjčené prostředky poskytnuté obcí obci v jiném okresu téhož kraje</td><td>ne</td><td>ne</td><td>ano</td><td>ne</td><td>ne</td></tr><tr><td>ZJ 035 - Transfery poskytnuté obcí nebo krajem na území jiného kraje</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ne</td></tr><tr><td>ZJ 036 - Půjčené prostředky poskytnuté obcí nebo krajem na území jiného kraje</td><td>ne</td><td>ne</td><td>ano</td><td>ano</td><td>ne</td></tr></tbody></table> “.
+>
+> “.
+
+38\. V příloze č. 6 bodu 8.4 se za písmeno b) vkládá nové písmeno c), které zní:
+
+> „c) kromě obecných vazeb, platí na úrovni vykazující jednotky městská část hlavního města Prahy, nebo hlavní město Praha bez hospodaření městských částí hlavního města Prahy:
+
+> | r. 4060 <sub>sl. 41,42,43</sub> | = | r. (4130 + 4140 + 4146 + 4150) <sub>sl. 41,42,43</sub> |
+> |---|---|---|
+> | r. 4250 <sub>sl. 41,42,43</sub> | = | r. (4281 + 4290 + 4300 + 4306 + 4310) <sub>sl. 41,42,43</sub> |
+> | r. 4460 <sub>sl. 41,42,43</sub> | = | 0 |
+>
+> “.
+
+Dosavadní písmena c) až e) se označují jako písmena d) až f).
+
+39\. V příloze č. 6 bodu 8.4 písmeno f) zní:
+
+> „f) kromě obecných vazeb, platí na úrovni státu:
+
+> | r. 4060 <sub>sl. 41,42,43</sub> | = | r. (4061 + 4062 + 4070 + 4080 + 4090 + 4100 + 4110 + 4120 + 4130 + 4140 + 4145 + 4146 + 4150 + 4170 + 4180 + 4182 + 4190) <sub>sl. 41,42,43</sub> |
+> |---|---|---|
+> | r. 4250 <sub>sl. 41,42,43</sub> | = | r. (4260 + 4270 + 4280 + 4281 + 4290 + 4300 + 4305 + 4306 + 4310 + 4321 + 4322 + 4330 + 4340 + 4350 + 4360 + 4370 + 4380 + 4381 + 4400 + 4410 + 4420) <sub>sl. 41,42,43</sub> |
+> | r. 4460 <sub>sl. 41,42,43</sub> | = | r. (4330 + 4340 + 4350 + 4400 + 4410 + 4420) <sub>sl. 41,42,43</sub> - r. (4070 + 4080 + 4090) <sub>sl. 41,42,43</sub> |
+>
+> “.
+
+40\. V příloze č. 6 bodu 11 se slovo „půjček“ nahrazuje slovy „půjčených peněžních prostředků“, za slovo „obcemi“ se vkládají slova „ , městskými částmi hlavního města Prahy“, slova „krajů a krajů“ se nahrazují slovy „krajů a krajem“, za slovo „obcím“ se vkládají slova „ , městským částem hlavního města Prahy“ a slova „pod řádky“ se nahrazují slovem „podřádky“.
+
+41\. V příloze č. 6 bodu 13 úvodní části ustanovení se slova „Přijaté transfery a půjčky ze státního rozpočtu, státních fondů a regionálních rad“ nahrazují slovy „Přijaté transfery a půjčené peněžní prostředky ze státního rozpočtu a státních fondů a související výdaje“.
+
+42\. V příloze č. 6 bodu 13.1 úvodní části ustanovení se slovo „půjček“ nahrazuje slovy „půjčených peněžních prostředků“.
+
+43\. V příloze č. 6 bodu 13.1 písm. a) se číslo „4123“ a číslo „4223“ zrušují.
+
+44\. V příloze č. 6 bodu 13.1 se na konci písmene b) tečka nahrazuje čárkou a doplňuje se písmeno c), které zní:
+
+> „c) včetně výdajů realizovaných z přijatých transferů a půjčených peněžních prostředků ze státního rozpočtu a státních fondů v členění podle odvětvového a druhového třídění rozpočtové skladby a účelových znaků.“.
+
+45\. V příloze č. 6 bod 13.2 zní:
+
+> „13.2 Územní samosprávné celky, dobrovolné svazky obcí a městské části hlavního města Prahy musí zajistit soulad mezi údaji uvedenými v části IX. sl. 93, s výjimkou údajů uvedených na položkách 8113 a 8123, a údaji stanovených položek uvedených v části I. sl. 3 tohoto finančního výkazu.“.
+
+46\. V příloze č. 6 bodu 13 se doplňují nové body 13.3 a 13.4, které znějí:
+
+> „13.3 Údaj ve sl. 93 vyjadřuje výsledek od počátku roku v rámci příslušné položky na straně příjmů, nebo položky zvýšení financování, a daného účelového znaku za vykazované období. Údaj ve sl. 94 vyjadřuje výsledek od počátku roku v rámci příslušného paragrafu a položky na straně výdajů a daného účelového znaku za vykazované období.
+
+> 13.4 Údaj ve sl. 93 v řádku za účelový znak celkem v části IX. se vypočítá jako úhrn údajů ve sl. 93 za všechny položky na straně příjmů, nebo položky zvýšení financování, v rámci daného účelového znaku. Údaj ve sl. 94 v řádku za účelový znak celkem v části IX. se vypočítá jako úhrn údajů ve sl. 94 za všechny paragrafy a položky na straně výdajů v rámci daného účelového znaku. Údaj ve sl. 95 v části IX. se vypočte jako rozdíl mezi údajem ve sl. 93 a údajem ve sl. 94, a to v řádku za účelový znak celkem.“.
+
+47\. V příloze č. 6 bod 14 zní:
+
+> „14. Část X. - Tato část výkazu se nevyplňuje.“.
+
+48\. V příloze č. 6 bodech 15 a 16 větě poslední se čárka za slovem „celky“ nahrazuje slovem „a“ a slova „a regionální rady“ se zrušují.
+
+49\. V příloze č. 6 v nadpisu vzoru FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků, dobrovolných svazků obcí a regionálních rad se čárka za slovem „CELKŮ“ nahrazuje slovem „A“ a slova „A REGIONÁLNÍCH RAD“ se zrušují.
+
+50\. V příloze č. 6 vzor FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí část III. v názvu čísla položky/řádku 8115 se slovo „Změna“ nahrazuje slovem „Změny“ a za slovo „kromě“ se vkládají slova „změn stavů“.
+
+51\. V příloze č. 6 vzor FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí část III. v názvu čísla položky/řádku 8901 se slovo „organizace“ nahrazuje slovy „rozpočtové jednotky“.
+
+52\. V příloze č. 6 vzor FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí část III. v názvu čísla položky/řádku 8902 se slovo „kurzové“ nahrazuje slovem „kursové“.
+
+53\. V příloze č. 6 vzor FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí část III. se na konci názvu čísla položky/řádku 8905 doplňují slova „a saldo státní pokladny“.
+
+54\. V příloze č. 6 ve vzoru FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí část IV. zní:
+
+> „IV. Rekapitulace příjmů, výdajů, financování a jejich konsolidace
+
+> **![sbcr2021c224z0514p006u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884419/NAHLED/ZOBRAZ/sbcr2021c224z0514p006u001)“.**
+
+55\. V příloze č. 6 ve vzoru FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí část VII. zní:
+
+> „VII. Vybrané záznamové jednotky
+
+> **![sbcr2021c224z0514p006u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884421/NAHLED/ZOBRAZ/sbcr2021c224z0514p006u002)“.**
+
+56\. V příloze č. 6 ve vzoru FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí část IX. zní:
+
+> „IX. Přijaté transfery a půjčené peněžní prostředky ze státního rozpočtu a státních fondů a související výdaje
+
+> **![sbcr2021c224z0514p006u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885835/NAHLED/ZOBRAZ/sbcr2021c224z0514p006u003)“.**
+
+57\. V příloze č. 6 ve vzoru FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí se část X. zrušuje.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Při vypracování finančních výkazů za rok 2021 se postupuje podle vyhlášky č. 5/2014 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+2\. Část IX. Výkazu pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí se za jednotlivá měsíční období prvního pololetí roku 2022 sestavuje a předává podle vyhlášky č. 5/2014 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky. Tato část IX. se sestavuje a předává podle vyhlášky č. 5/2014 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, poprvé za období srpen roku 2022.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Ministryně financí:
+
+JUDr. Schillerová, Ph.D., v. r.

@@ -1,0 +1,48 @@
+---
+title: "Nařízení vlády č. 459/2025 Sb., kterým se mění nařízení vlády č. 9/2002 Sb., kterým se stanoví technické požadavky na výrobky z hlediska emisí hluku, ve znění pozdějších předpisů"
+identifier: "459/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/459/2025-11-29"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-10-22
+effective: 2025-11-29
+last_amended: 2025-11-29
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/459"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 459/2025 Sb., kterým se mění nařízení vlády č. 9/2002 Sb., kterým se stanoví technické požadavky na výrobky z hlediska emisí hluku, ve znění pozdějších předpisů
+
+459
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 22. října 2025,
+
+kterým se mění nařízení vlády č. 9/2002 Sb., kterým se stanoví technické požadavky na výrobky z hlediska emisí hluku, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 22 odst. 1 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 205/2002 Sb., zákona č. 34/2011 Sb. a zákona č. 526/2020 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 9/2002 Sb., kterým se stanoví technické požadavky na výrobky z hlediska emisí hluku, ve znění nařízení vlády č. 342/2003 Sb., nařízení vlády č. 198/2006 Sb. a nařízení vlády č. 29/2025 Sb., se mění takto:
+
+1\. V § 8 se odstavec 3 zrušuje.
+
+2\. Poznámka pod čarou č. 1 zní:
+
+> „<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2000/14/ES ze dne 8. května 2000 o sbližování právních předpisů členských států týkajících se emisí hluku zařízení, která jsou určena k použití ve venkovním prostoru, do okolního prostředí, ve znění směrnice Evropského parlamentu a Rady 2005/88/ES, nařízení Komise v přenesené pravomoci (EU) 2024/1208 a směrnice Evropského parlamentu a Rady (EU) 2024/2839.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 29. listopadu 2025.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Vlček v. r.

@@ -1,0 +1,92 @@
+---
+title: "Nařízení vlády č. 86/2025 Sb., o podrobnostech registrace ke zvláštnímu dlouhodobému pobytu"
+identifier: "86/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/86/2026-03-15"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-03-19
+effective: 2025-03-31
+last_amended: 2026-03-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/86"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 86/2025 Sb., o podrobnostech registrace ke zvláštnímu dlouhodobému pobytu
+
+86
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 19. března 2025
+
+o podrobnostech registrace ke zvláštnímu dlouhodobému pobytu
+
+Vláda nařizuje podle § 7p odst. 6 a § 7q odst. 1 a 4 zákona č. 65/2022 Sb., o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění zákona č. 24/2025 Sb., (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+Toto nařízení stanoví
+
+a) dobu k vyjádření zájmu,
+
+b) dobu registrace k pobytu,
+
+c) rozhodné datum nebo období pro splnění jednotlivých podmínek k registraci k pobytu a
+
+d) příjem požadovaný k registraci k pobytu.
+
+## § 2 – Doba k vyjádření zájmu a doba registrace k pobytu
+
+(1) Vyjádřit zájem o zvláštní dlouhodobý pobyt lze v době od 1. dubna 2026 do 30. dubna 2026.
+
+(2) Zvláštní dlouhodobý pobyt lze registrovat v době od 1. října 2026 do 31. prosince 2026.
+
+## § 3 – Rozhodné datum nebo období
+
+Rozhodné datum nebo období pro splnění jednotlivých podmínek k registraci k pobytu uvedených v § 7q odst. 1 zákona stanoví příloha k tomuto nařízení.
+
+## § 4 – Požadovaný příjem
+
+(1) Minimální roční úhrnný příjem cizince podle § 7q odst. 1 písm. d) zákona za zdaňovací období činí 440 000 Kč a navyšuje se o 110 000 Kč za každou další společně registrovanou osobu.
+
+(2) Minimální základ daně z příjmů fyzických osob cizince podle § 7q odst. 1 písm. f) bod 1 zákona za zdaňovací období činí 440 000 Kč a navyšuje se o 110 000 Kč za každou další společně registrovanou osobu.
+
+(3) Požadovaný příjem cizince podle § 7q odst. 1 písm. f) bod 2 zákona za zdaňovací období činí 440 000 Kč a navyšuje se o 110 000 Kč za každou další společně registrovanou osobu.
+
+(4) Částka, která se považuje za příjem cizince podle § 7q odst. 1 písm. f) bod 2 zákona, za zdaňovací období činí
+
+a) 224 880 Kč pro první pásmo paušálního režimu,
+
+b) 336 600 Kč pro druhé pásmo paušálního režimu, nebo
+
+c) 514 800 Kč pro třetí pásmo paušálního režimu.
+
+## § 5 – Účinnost
+
+Toto nařízení vlády nabývá účinnosti dnem 31. března 2025.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Mgr. Bc. Rakušan v. r.
+
+### Příloha
+
+#### Rozhodné datum nebo období pro splnění jednotlivých podmínek k registraci k pobytu
+
+| Podmínka registrace k pobytu | Rozhodné datum nebo období |
+|---|---|
+| Cizinec je držitelem platného cestovního dokladu podle § 7q odst. 1 písm. a) zákona | den snímání biometrických údajů cizince a následně den vydání průkazu o povolení k pobytu |
+| Doba nepřetržitého pobytu cizince na území České republiky na základě dočasné ochrany udělené Českou republikou podle § 7q odst. 1 písm. b) zákona | 1. dubna 2026 |
+| Doba nepřetržitého přihlášení cizince k veřejnému zdravotnímu pojištění podle § 7q odst. 1 písm. c) zákona | 31. března 2026 |
+| Cizinec nemá nedoplatky na pojistném na veřejné zdravotní pojištění podle § 7q odst. 1 písm. c) zákona | 31. března 2026 |
+| Výše ročního úhrnného příjmu cizince podle § 7q odst. 1 písm. d) zákona | zdaňovací období roku 2025 |
+| Cizinec nebyl příjemcem humanitární dávky podle § 7q odst. 1 písm. e) zákona | od 1. října 2025 do 31. března 2026 |
+| Cizinec je poplatníkem daně z příjmů fyzických osob podle § 7q odst. 1 písm. f) zákona | zdaňovací období roku 2025<br>a daňové přiznání podané nejpozději 4. května 2026 |
+| Cizinec má nahlášeno místo pobytu na území České republiky podle § 7q odst. 1 písm. g) zákona | den snímání biometrických údajů cizince a následně den vydání průkazu o povolení k pobytu |
+| Cizinec plní povinnou školní docházku nebo je vzděláván podle § 42 školského zákona ve smyslu § 7q odst. 1 písm. h) zákona | 31. března 2026 |

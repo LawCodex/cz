@@ -1,0 +1,50 @@
+---
+title: "Vyhláška č. 6/2023 Sb., kterou se mění vyhláška č. 250/2020 Sb., o způsobu stanovení rezervy na vyřazování z provozu jaderného zařízení a pracoviště III. kategorie a pracoviště IV. kategorie"
+identifier: "6/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/6/2023-01-26"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2023-01-04
+effective: 2023-01-26
+last_amended: 2023-01-26
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/6"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 6/2023 Sb., kterou se mění vyhláška č. 250/2020 Sb., o způsobu stanovení rezervy na vyřazování z provozu jaderného zařízení a pracoviště III. kategorie a pracoviště IV. kategorie
+
+6
+
+VYHLÁŠKA
+
+ze dne 4. ledna 2023,
+
+kterou se mění vyhláška č. 250/2020 Sb., o způsobu stanovení rezervy na vyřazování z provozu jaderného zařízení a pracoviště III. kategorie a pracoviště IV. kategorie
+
+Ministerstvo průmyslu a obchodu stanoví podle § 237 odst. 3 zákona č. 263/2016 Sb., atomový zákon, k provedení § 51 odst. 6 písm. c) a § 75 odst. 5 písm. d):
+
+## Čl. I
+
+Vyhláška č. 250/2020 Sb., o způsobu stanovení rezervy na vyřazování z provozu jaderného zařízení a pracoviště III. kategorie a pracoviště IV. kategorie, se mění takto:
+
+1\. V § 2 odst. 1 písm. a) až d) se za slovo „moci“ vkládá slovo „rozhodnutí“.
+
+2\. V § 2 odst. 2 se slova „V případě jaderného zařízení nebo pracoviště podle odstavce 1 písm. a), b) a d) je při aktualizaci odhadu celkových nákladů na vyřazování z provozu rezerva“ nahrazují slovy „Při aktualizaci odhadu celkových nákladů na vyřazování z provozu je rezerva“ a slovo „předchozí“ se zrušuje.
+
+3\. V § 2 se odstavec 3 zrušuje.
+
+Dosavadní odstavec 4 se označuje jako odstavec 3.
+
+4\. V § 2 odst. 3 se slova „nezahrnuje se“ zrušují.
+
+5\. Na konci textu § 3 se doplňují slova „a poplatky podle § 34 atomového zákona“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministr:
+
+Ing. Síkela v. r.

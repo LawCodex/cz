@@ -1,0 +1,56 @@
+---
+title: "Zákon č. 451/2020 Sb., kterým se mění zákon č. 228/2020 Sb., o poskytnutí státní záruky České republiky na zajištění dluhů Českomoravské záruční a rozvojové banky, a.s., vyplývajících z ručení za dluhy z úvěrů v souvislosti se zmírněním negativních dopadů způsobených virem SARS-CoV-2"
+identifier: "451/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/451/2020-11-03"
+type: act
+jurisdiction: cz
+language: cs
+date: 2020-10-29
+effective: 2020-11-03
+last_amended: 2020-11-03
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/451"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 451/2020 Sb., kterým se mění zákon č. 228/2020 Sb., o poskytnutí státní záruky České republiky na zajištění dluhů Českomoravské záruční a rozvojové banky, a.s., vyplývajících z ručení za dluhy z úvěrů v souvislosti se zmírněním negativních dopadů způsobených virem SARS-CoV-2
+
+451
+
+ZÁKON
+
+ze dne 29. října 2020,
+
+kterým se mění zákon č. 228/2020 Sb., o poskytnutí státní záruky České republiky na zajištění dluhů Českomoravské záruční a rozvojové banky, a.s., vyplývajících z ručení za dluhy z úvěrů v souvislosti se zmírněním negativních dopadů způsobených virem SARS-CoV-2
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 228/2020 Sb., o poskytnutí státní záruky České republiky na zajištění dluhů Českomoravské záruční a rozvojové banky, a.s., vyplývajících z ručení za dluhy z úvěrů v souvislosti se zmírněním negativních dopadů způsobených virem SARS-CoV-2, se mění takto:
+
+1\. V § 2 odst. 2 se slova „30. června 2024“ nahrazují slovy „31. prosince 2027“.
+
+2\. V § 3 písm. a) se číslo „2020“ nahrazuje slovy „2021, pokud ze sdělení Evropské komise týkajícího se podmínek státní podpory ekonomiky v reakci na pandemii COVID-19<sup>3</sup>) neplyne doba kratší,“ a slovo „provoznímu“ se zrušuje.
+
+Poznámka pod čarou č. 3 zní:
+
+> „<sup>3</sup>) Sdělení Komise C(2020) 1863 Dočasný rámec pro opatření státní podpory na podporu hospodářství při stávajícím šíření koronavirové nákazy COVID-19 ze dne 19. března 2020, v platném znění.“.
+
+3\. V § 3 písm. c) bodech 1 a 2 se slovo „provoznímu“ zrušuje.
+
+4\. V § 4 odst. 1 úvodní části ustanovení se za slovo „poskytnutého“ vkládají slova „Českomoravskou záruční a rozvojovou“ a za slovo „bankou“ se vkládá text „, a.s.“.
+
+## Čl. II – Přechodné ustanovení
+
+Ustanovení § 3 písm. a) zákona č. 228/2020 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona, se použije pouze na dluhy Českomoravské záruční a rozvojové banky, a.s., které vzniknou z ručení za dluhy z úvěrů sjednaných ode dne nabytí účinnosti tohoto zákona.
+
+## Čl. III – Účinnost
+
+Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Vondráček v. r.
+
+Zeman v. r.
+
+Babiš v. r.

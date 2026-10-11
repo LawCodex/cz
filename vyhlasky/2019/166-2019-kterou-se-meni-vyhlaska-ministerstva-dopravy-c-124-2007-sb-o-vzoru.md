@@ -1,0 +1,82 @@
+---
+title: "Vyhláška č. 166/2019 Sb., kterou se mění vyhláška Ministerstva dopravy č. 124/2007 Sb., o vzoru paměťové karty řidiče"
+identifier: "166/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/166/2019-07-04"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2019-06-24
+effective: 2019-07-04
+last_amended: 2019-07-04
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/166"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 166/2019 Sb., kterou se mění vyhláška Ministerstva dopravy č. 124/2007 Sb., o vzoru paměťové karty řidiče
+
+166
+
+VYHLÁŠKA
+
+ze dne 24. června 2019,
+
+kterou se mění vyhláška Ministerstva dopravy č. 124/2007 Sb., o vzoru paměťové karty řidiče
+
+Ministerstvo dopravy stanoví podle § 137 odst. 2 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění zákona č. 411/2005 Sb., zákona č. 226/2006 Sb., zákona č. 274/2008 Sb., zákona č. 133/2011 Sb., zákona č. 297/2011 Sb., zákona č. 230/2014 Sb., zákona č. 249/2014 Sb., zákona č. 48/2016 Sb., zákona č. 199/2017 Sb. a zákona č. 193/2018 Sb., k provedení § 110a odst. 7 tohoto zákona:
+
+## Čl. I
+
+Vyhláška Ministerstva dopravy č. 124/2007 Sb., o vzoru paměťové karty řidiče, se mění takto:
+
+1\. V § 1 se slovo „vyhláška<sup>1</sup>)“ nahrazuje slovem „vyhláška“.
+
+Poznámka pod čarou č. 1 se zrušuje.
+
+2\. V § 1 se slova „Evropských společenství<sup>2</sup>)“ nahrazují slovy „Evropské unie<sup>1</sup>)“.
+
+Poznámka pod čarou č. 1 zní:
+
+> „<sup>1</sup>) Prováděcí nařízení Komise (EU) 2016/799 ze dne 18. března 2016, kterým se provádí nařízení Evropského parlamentu a Rady (EU) č. 165/2014, kterým se stanoví požadavky na konstrukci, zkoušení, montáž, provoz a opravy tachografů a jejich součástí, v platném znění.“.
+
+Poznámka pod čarou č. 2 se zrušuje.
+
+3\. V § 2 odst. 3 písm. c) se slova „Evropských společenství“ nahrazují slovy „Evropské unie“.
+
+4\. V § 2 se na konci odstavce 3 tečka nahrazuje čárkou a doplňuje se písmeno d), které zní:
+
+> „d) označení „G2“ provedené velkým písmem v modré barvě.“.
+
+5\. V § 2 odst. 4 se čárka za slovy „7. podpis řidiče“ nahrazuje tečkou.
+
+6\. V § 2 odst. 4 se slova „8. adresa.“ zrušují.
+
+7\. V § 2 se na konci odstavce 5 tečka nahrazuje čárkou a doplňuje se písmeno d), které zní:
+
+> „d) pod čipem je označení národního identifikátoru „e8“ provedené v modré barvě.“.
+
+8\. V § 2 odstavec 6 zní:
+
+> „(6) Údaj podle odstavce 4 uvedený pod bodem 4d se na paměťové kartě řidiče nevyplňuje.“.
+
+9\. Příloha včetně nadpisu zní:
+
+> **„Příloha k vyhlášce č. 124/2007 Sb.**
+
+> **Vzor paměťové karty řidiče**
+
+> Přední strana
+
+> **![sbcr2019c072z0166p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887071/NAHLED/ZOBRAZ/sbcr2019c072z0166p001o001)**
+
+> Zadní strana
+
+> **![sbcr2019c072z0166p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887073/NAHLED/ZOBRAZ/sbcr2019c072z0166p001o002) “.**
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministr:
+
+JUDr. Kremlík v. r.

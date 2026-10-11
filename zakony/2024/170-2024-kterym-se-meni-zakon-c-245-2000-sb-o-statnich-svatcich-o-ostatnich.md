@@ -1,0 +1,44 @@
+---
+title: "Zákon č. 170/2024 Sb., kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů"
+identifier: "170/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/170/2025-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2024-05-29
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/170"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 170/2024 Sb., kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů
+
+170
+
+ZÁKON
+
+ze dne 29. května 2024,
+
+kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění zákona č. 101/2004 Sb., zákona č. 129/2006 Sb., zákona č. 162/2013 Sb., zákona č. 359/2015 Sb., zákona č. 226/2017 Sb., zákona č. 48/2019 Sb., zákona č. 49/2019 Sb., zákona č. 356/2019 Sb. a zákona č. 92/2022 Sb., se mění takto:
+
+1\. V § 4 odst. 1 se za slova „7. duben – Den vzdělanosti,“ vkládají slova „1. květen – Den přistoupení České republiky k Evropské unii,“.
+
+2\. V § 4 se na konci textu odstavce 2 doplňují slova „ , nejsou-li zároveň státním svátkem nebo ostatním svátkem“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2025.
+
+Pekarová Adamová v. r.
+
+Pavel v. r.
+
+Fiala v. r.

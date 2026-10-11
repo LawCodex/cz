@@ -1,0 +1,256 @@
+---
+title: "Vyhláška č. 106/2025 Sb., kterou se provádí některá ustanovení zákona o veřejné hydrometeorologické službě"
+identifier: "106/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/106/2025-04-30"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-04-02
+effective: 2025-04-30
+last_amended: 2025-04-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/106"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 106/2025 Sb., kterou se provádí některá ustanovení zákona o veřejné hydrometeorologické službě
+
+106
+
+VYHLÁŠKA
+
+ze dne 2. dubna 2025,
+
+kterou se provádí některá ustanovení zákona o veřejné hydrometeorologické službě
+
+Ministerstvo životního prostředí stanoví podle § 5 odst. 1 písm. b), § 6 odst. 2 a § 9 odst. 2 zákona č. 262/2024 Sb., o veřejné hydrometeorologické službě a o změně zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů, (zákon o veřejné hydrometeorologické službě), (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví
+
+a) odborné činnosti, které zajišťuje Ústav v rámci hlavní činnosti,
+
+b) seznam hydrometeorologických výstrah, včetně podrobností jejich vyhlašování a odvolávání, a
+
+c) technické parametry hydrometeorologických údajů, ověřených hydrometeorologických údajů a standardizovaných hydrometeorologických produktů a jejich další určující prvky a provozní parametry fungování Databáze.
+
+## § 2 – Odborné činnosti Ústavu
+
+Odbornými činnostmi jsou
+
+a) činnosti, které jsou předpokladem pro získání a udržení platného osvědčení poskytovatele meteorologických služeb pro civilní letectví a pověření k poskytování meteorologických služeb pro civilní letectví podle zákona o civilním letectví,
+
+b) činnosti národní referenční laboratoře pro kvalitu vnějšího ovzduší,
+
+c) činnosti referenčního pracoviště pro modelování znečištění ovzduší,
+
+d) identifikace příčin znečištění ovzduší na základě standardizovaných metod měření a receptorových modelů,
+
+e) zpracování důvěrných statistických údajů<sup>1</sup>) a
+
+f) provoz specializované knihovny.
+
+## § 3 – Hydrometeorologické výstrahy a podrobnosti jejich vyhlašování a odvolávání
+
+(1) Hydrometeorologické výstrahy vyhlašuje Ústav na základě vyhodnocení pravděpodobnosti výskytu nebezpečného hydrometeorologického jevu a intenzity dopadu, kterou takový jev může způsobit, pokud zákon o ochraně ovzduší nestanoví jinak. Intenzita dopadu je určena na základě předpokládané nebo aktuální intenzity nebezpečného hydrometeorologického jevu, míry vystavení životů a zdraví lidí, majetku a životního prostředí takovému jevu a jejich zranitelnosti vůči jeho působení.
+
+(2) Vyhlášenou hydrometeorologickou výstrahu Ústav odvolá, pominou-li podmínky pro její vyhlášení podle odstavce 1 a pomine-li působení následků nebezpečného jevu významné pro záchranné a zabezpečovací práce, nebo při vyhlášení nové hydrometeorologické výstrahy. Vyhlásí-li Ústav hydrometeorologickou výstrahu s předem stanovenou dobou platnosti a v této době ji neodvolá podle věty první, uplynutím této doby se vyhlášená hydrometeorologická výstraha považuje za odvolanou.
+
+(3) Hydrometeorologická výstraha je při vyhlášení označena slovy „Hydrometeorologická výstraha podle zákona o veřejné hydrometeorologické službě“.
+
+(4) V závislosti na vyhodnocení pravděpodobnosti výskytu nebezpečného hydrometeorologického jevu a míře ohrožení je každá hydrometeorologická výstraha při vyhlášení pro zasažené území označena jedním z následujících stupňů podle přílohy č. 1 k této vyhlášce:
+
+a) nízký stupeň se žlutým barevným označením,
+
+b) střední stupeň s oranžovým barevným označením, nebo
+
+c) extrémní stupeň s červeným barevným označením.
+
+(5) Seznam hydrometeorologických výstrah a parametry pro jejich vyhlašování a odvolávání jsou uvedeny v příloze č. 1 k této vyhlášce.
+
+## § 4 – Technické a provozní parametry fungování Databáze
+
+(1) Technické parametry hydrometeorologických údajů, ověřených hydrometeorologických údajů a standardizovaných hydrometeorologických produktů a jejich další určující prvky, kterými jsou klíčové atributy, územní podrobnost, četnost a včasnost aktualizací, minimální stupeň otevřenosti dat a doba uložení v Databázi, jsou uvedeny v příloze č. 2 k této vyhlášce.
+
+(2) Provozními parametry fungování Databáze jsou
+
+a) denní časový interval, během něhož je zajištěna dostupnost, provozní podpora a údržba Databáze,
+
+b) lhůta pro zahájení řešení problému v případě výskytu technických problémů a provozní podpory.
+
+(3) Databáze je provozována v nepřetržitém režimu. Provozní podpora a údržba Databáze podle odstavce 2 písm. a) je zajištěna v pracovní dny od 8:00 do 16:00 hodin.
+
+(4) Zahájení řešení zjištěného problému podle odstavce 2 písm. b) je zajištěno do 4 hodin v době provozní podpory a údržby podle odstavce 3. Pokud je problém zjištěn v okamžiku, kdy do konce doby provozní podpory a údržby zbývají méně než 4 hodiny, uplynutím doby provozní podpory a údržby se běžící lhůta pro zahájení řešení tohoto problému staví; běh lhůty pokračuje od okamžiku zahájení doby provozní podpory a údržby v nejbližším následujícím pracovním dni.
+
+## § 5 – Přechodné ustanovení
+
+Ústav vyhlašuje hydrometeorologické výstrahy ze skupiny jevů teplot ovlivňujících zdraví člověka podle tabulky A přílohy č. 1 k této vyhlášce od 1. července 2026.
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministr:
+
+Mgr. Hladík v. r.
+
+### Příloha č. 1
+
+#### Seznam hydrometeorologických výstrah a parametry pro jejich vyhlašování a odvolávání
+
+#### Tabulka A
+
+#### Seznam hydrometeorologických výstrah a popis parametrů pro jejich vyhlašování a odvolávání
+
+<table><tbody><tr><th>Skupina jevů</th><th>Výstraha pro dopadový jev</th><th>Základní prvky pro posouzení meteorologické intenzity jevu</th><th>Posouzení expozice a zranitelnosti</th></tr><tr><td rowspan="4">minimální a maximální teplota vzduchu</td><td>vysoká teplota vzduchu</td><td rowspan="2">Tmax</td><td rowspan="10">plošný rozsah, zasažení obydlených oblastí, předpokládaná délka trvání jevu</td></tr><tr><td>velmi vysoká teplota vzduchu</td></tr><tr><td>silný mráz</td><td rowspan="2">Tmin</td></tr><tr><td>velmi silný mráz</td></tr><tr><td rowspan="6">teplota ovlivňující zdraví člověka</td><td>horké počasí/silná zátěž teplem</td><td rowspan="3">UTCImax, Tprům</td></tr><tr><td>vlna veder/velmi silná zátěž teplem</td></tr><tr><td>extrémní vlna veder/extrémní zátěž teplem</td></tr><tr><td>mrazivé počasí/silná zátěž chladem</td><td rowspan="3">WCT, UTCIprům</td></tr><tr><td>vlna mrazů/velmi silná zátěž chladem</td></tr><tr><td>extrémní vlna mrazů/extrémní zátěž chladem</td></tr><tr><td rowspan="3">vítr</td><td>silný vítr/škody větrem</td><td rowspan="3">Fmax, Fprům</td><td rowspan="3">plošný rozsah, zasažení obydlených oblastí a nižších a středních oblastí pod 600 m n. m., časový výskyt jevu v průběhu dne, týdne a roku nepříznivé okolnosti zintenzivňující působení (např. podmáčený terén, sněhové zatížení)</td></tr><tr><td>velmi silný vítr/rozsáhlé škody větrem</td></tr><tr><td>extrémně silný vítr/extrémní škody větrem</td></tr><tr><td rowspan="6">sněhové jevy na pozemních komunikacích</td><td>nová sněhová pokrývka</td><td rowspan="3">E'</td><td rowspan="6">plošný rozsah, zasažení obydlených oblastí, předpokládaná délka trvání jevu, časový výskyt jevu v průběhu dne, týdne a roku</td></tr><tr><td>sněhové jazyky</td></tr><tr><td>vysoká nová sněhová pokrývka</td></tr><tr><td>silné sněžení</td><td rowspan="3">E', E, Fmax, Fprům</td></tr><tr><td>závěje</td></tr><tr><td>sněhová bouře</td></tr><tr><td rowspan="2">sněhové jevy na nadzemních objektech</td><td>zatížení sněhem</td><td rowspan="2">E, SVH</td><td rowspan="2">plošný rozsah, zasažení obydlených oblastí, předpokládaná délka trvání jevu</td></tr><tr><td>silné zatížení sněhem</td></tr><tr><td rowspan="3">námrazové jevy</td><td>kluzký povrch</td><td rowspan="3">L, RR, Tg, Th5</td><td rowspan="3">plošný rozsah, zasažení obydlených oblastí, předpokládaná délka trvání jevu, časový výskyt jevu v průběhu dne, týdne a roku</td></tr><tr><td>silná ledová krusta/obal</td></tr><tr><td>velmi silná ledová krusta/obal</td></tr><tr><td rowspan="3">bouřkové jevy</td><td>silné bouřky</td><td rowspan="3">RR, Fmax, TL, FFI, velikost krup, organizace bouří, CAPE aj.</td><td rowspan="9">plošný rozsah, zasažení obydlených oblastí, předpokládaná délka trvání jevu, časový výskyt jevu v průběhu dne, týdne a roku, nepříznivé okolnosti zintenzivňující působení (např. nasycení půdy)</td></tr><tr><td>velmi silné bouřky</td></tr><tr><td>extrémně silné bouřky</td></tr><tr><td rowspan="3">dešťové srážky</td><td>vydatný déšť</td><td rowspan="3">RR</td></tr><tr><td>velmi vydatný déšť</td></tr><tr><td>extrémně vydatný déšť</td></tr><tr><td rowspan="3">povodňové jevy</td><td>povodňová bdělost</td><td rowspan="3">stupně povodňové aktivity, doba opakování kulminačního průtoku, plocha povodí</td></tr><tr><td>povodňová pohotovost</td></tr><tr><td>povodňové ohrožení</td></tr><tr><td rowspan="2">požáry</td><td>nebezpečí požárů</td><td rowspan="2">RVZP</td><td rowspan="2">plošný rozsah, zasažení obydlených oblastí, časový výskyt jevu v průběhu dne, týdne a roku</td></tr><tr><td>vysoké nebezpečí požárů</td></tr><tr><td rowspan="2">sucho</td><td>sucho povrchových nebo podzemních vod</td><td rowspan="2">místní směrodatné limity</td><td rowspan="2">plošný rozsah, stav vodních zdrojů, časový výskyt jevu v průběhu roku</td></tr><tr><td>sucho povrchových i podzemních vod</td></tr><tr><td rowspan="2">mimořádně znečištěné ovzduší</td><td>smogová situace</td><td rowspan="2">prahové hodnoty koncentrací</td><td rowspan="2">podle zákona o ochraně ovzduší</td></tr><tr><td>smogová situace – regulace/varování</td></tr><tr><td>nezařazené jevy s hydrometeorologickou relevancí</td><td>nezařazené hydrometeorologické jevy</td><td>pro nezařazené jevy s hydrometeorologickou relevancí, které vyžadují vyhlášení informace pro zabránění, či omezení významných dopadů</td><td>plošný rozsah, specifická míra zranitelnosti společnosti, zasažení obydlených oblastí, předpokládaná délka trvání jevu</td></tr></tbody></table>
+
+Seznam použitých zkratek:
+
+| CAPE | konvektivní dostupná potenciální energie (Convective Available Potential Energy) |
+|---|---|
+| E, E' | výška celkové sněhové pokrývky, výška nového sněhu |
+| FFI | indikátor přívalových povodní (Flash Flood Indicator) |
+| Fmax, Fprům | rychlost větru (v nárazech, průměrná) |
+| L | výskyt ledovky (pozorovaný jev) |
+| RR | úhrn srážek |
+| RVZP | riziko vzniku závažného požáru |
+| SVH | vodní hodnota sněhové pokrývky |
+| Tg | teplota vzduchu přízemní v 5 cm nad zemí |
+| Th5 | teplota půdy v hloubce 5 cm |
+| TL | počet bleskových výbojů (Total Lightning) |
+| Tmax, Tmin, Tprům | teplota vzduchu (maximální, minimální, průměrná) |
+| UTCImax, UTCIprům | univerzální tepelný klimatický index, ekvivalentní teplota působící na lidský organismus (denní maximum, denní průměr; Universal Thermal Climate Index) |
+| WCT | pocitová teplota používaná v zimním období s důrazem na zchlazování větrem (Wind Chill Index) |
+
+#### Tabulka B
+
+#### Matice pro určení stupně hydrometeorologické výstrahy podle § 3 odst. 4
+
+<table><tbody><tr><td colspan="2" rowspan="2"></td><th colspan="3">Intenzita dopadu</th></tr><tr><th>Nízká</th><th>Vysoká</th><th>Extrémní</th></tr><tr><td rowspan="2"><b>Pravděpodobnost výskytu nebezpečného hydrometeorologického jevu</b></td><td><b>Vysoká</b></td><td>Nízký stupeň výstrahy</td><td>Vysoký stupeň výstrahy</td><td>Extrémní stupeň výstrahy</td></tr><tr><td><b>Nízká</b></td><td>Nízký stupeň výstrahy</td><td>Nízký stupeň výstrahy</td><td>Vysoký stupeň výstrahy</td></tr></tbody></table>
+
+Je-li jev již pozorován, stupeň hydrometeorologické výstrahy odpovídá míře intenzity dopadu.
+
+### Příloha č. 2
+
+#### Technické parametry hydrometeorologických údajů, ověřených hydrometeorologických údajů a standardizovaných hydrometeorologických produktů a jejich další určující prvky
+
+#### Tabulka A
+
+#### Technické parametry a další určující prvky hydrometeorologických údajů
+
+<table><tbody><tr><th>Název hydrometeorologického údaje</th><th>Klíčové atributy</th><th>Územní podrobnost</th><th colspan="2">Četnost a včasnost aktualizací</th><th>Minimální stupeň otevřenosti dat (formát)</th><th>Doba uložení v Databázi</th></tr><tr><td>Množství povrchových vod – údaje</td><td>všechny prvky měřené v monitorovací síti povrchových vod</td><td>lokality monitorovací sítě povrchových vod</td><td colspan="2">1x za 10 min</td><td>3.</td><td>do publikace ověřených údajů</td></tr><tr><td>Množství podzemních vod – údaje</td><td>všechny prvky měřené v monitorovací síti podzemních vod</td><td>lokality monitorovací hlásné sítě podzemních vod</td><td colspan="2">1x denně</td><td>3.</td><td>do publikace ověřených údajů</td></tr><tr><td>Kvalita ovzduší – údaje</td><td>koncentrace znečišťujících látek z automatických monitorovacích stanic v rozsahu a časových agregacích podle zákona o ochraně ovzduší</td><td>hodnoty vázané na lokalitu stanice (dle koncepce Státní sítě imisního monitoringu)</td><td colspan="2">1x za hodinu</td><td>3.</td><td>do zveřejnění ověřených údajů</td></tr><tr><td>Meteorologické jevy – údaje</td><td>pozorování základních meteorologických jevů podle pozorovacího programu stanice</td><td>lokality měření a pozorování</td><td colspan="2">1x denně</td><td>3.</td><td>do zveřejnění ověřených údajů</td></tr><tr><td>Intenzita erytémového UV slunečního záření nad územím ČR – údaje</td><td>10minutová průměrná hodnota UV indexu</td><td>lokality měření</td><td colspan="2">nejméně 1x za hodinu</td><td>3.</td><td>do zveřejnění ověřených údajů</td></tr><tr><td>Radiosondážní měření – údaje</td><td>teplota vzduchu, teplota rosného bodu, rychlost a směr větru, tlak vzduchu, relativní vlhkost</td><td>lokality měření</td><td colspan="2">nejméně 2x denně k 0:00 a 12:00 koordinovaného světového času (UTC)</td><td>3.</td><td>do zveřejnění ověřených údajů</td></tr><tr><td>Radiosondážní měření – vypočtené údaje</td><td>minimálně výstupná kondenzační hladina, konvekční kondenzační hladina</td><td>lokality měření</td><td colspan="2">nejméně 2x denně k 0:00 a 12:00 koordinovaného světového času (UTC)</td><td>3.</td><td>do zveřejnění ověřených údajů</td></tr><tr><td>Radiosondážní měření – vertikální profil ozonu – údaje</td><td>teplota vzduchu, rychlost a směr větru, parciální tlak ozonu, celkové množství ozonu</td><td>lokality měření</td><td colspan="2">3x týdně (pondělí, středa, pátek) v období leden až duben</td><td>3.</td><td>do zveřejnění ověřených údajů</td></tr><tr><td>Vertikální profily atmosféry – údaje</td><td>rozsah veličin podle pozorovacího programu</td><td>lokality měření</td><td colspan="2">nejméně 1x týdně</td><td>3.</td><td>7 dnů</td></tr></tbody></table>
+
+#### Tabulka B
+
+#### Technické parametry a další určující prvky ověřených hydrometeorologických údajů
+
+| Název ověřeného hydrometeorologického údaje | Klíčové atributy | Územní podrobnost | Četnost a včasnost aktualizací | Minimální stupeň otevřenosti dat (formát) | Doba uložení v Databázi |
+|---|---|---|---|---|---|
+| Množství povrchových vod – ověřené údaje | všechny prvky měřené v monitorovací síti povrchových vod v časovém rozlišení záznamu dat a agregacích na vyšší časové jednotky | lokality monitorovací sítě povrchových vod | 1x ročně | 3. | trvale |
+| Množství podzemních vod – ověřené údaje | všechny prvky měřené v monitorovací síti podzemních vod v časovém rozlišení záznamu dat a agregacích na vyšší časové jednotky | lokality monitorovací sítě podzemních vod | 1x ročně | 3. | trvale |
+| Měření kvality ovzduší – ověřené údaje | koncentrace znečišťujících látek z automatických monitorovacích stanic v rozsahu a časových agregacích podle zákona o ochraně ovzduší | hodnoty vázané na lokalitu stanice (dle koncepce Státní sítě imisního monitoringu) | 1x ročně | 3. | trvale |
+| Výsledky měření kvality srážkových vod | koncentrace znečišťujících látek z monitorovacích stanic | hodnoty vázané na lokalitu stanice (dle koncepce Státní sítě imisního monitoringu) | 1x ročně | 3. | trvale |
+| Klimatické údaje – homogenizované řady denních hodnot | průměrná, maximální a minimální teplota vzduchu ve výšce 2 m nad zemí, tlak vodní páry, úhrn srážek | lokality měření s dostatečně dlouhou řadou údajů, rozsah veličin podle pozorovacího programu | dle potřeby, nejméně 1x za 10 let | 3. | trvale |
+| Meteorologické jevy – ověřené údaje | pozorování základních meteorologických jevů podle pozorovacího programu stanice | lokality měření a pozorování | 1x měsíčně ověřené údaje | 3. | trvale |
+| Fenologická data | pozorovaní základních fenologických fází | lokality pozorování | 1x ročně | 3. | trvale |
+| Ozonová vrstva – celkové množství ozonu nad územím ČR, údaje a ověřené údaje | celkové množství ozonu, plné časové rozlišení; podle doporučení Světové meteorologické organizace | lokality měření | nejméně 1x denně průběžné údaje<br> 1x denně denní reprezentativní hodnota za uplynulý den;<br> ad hoc při změně technických parametrů přepočítání celých datových řad | 3. | trvale |
+| Ozonová vrstva – celkové množství ozonu nad lokalitou v subpolární oblasti, údaje a ověřené údaje | celkové množství ozonu, plné časové rozlišení; podle doporučení Světové meteorologické organizace | lokality měření | nejméně 1x měsíčně průběžné údaje a denní reprezentativní hodnoty; ad hoc při změně technických parametrů přepočítání celých datových řad | 3. | trvale |
+| Ozonová vrstva – celkové množství ozonu nad lokalitou v subpolární oblasti, údaje a ověřené údaje | celkové množství ozonu, plné časové rozlišení | Marambio, Antarktida | jednorázově za období prováděných pozorování v letech 2010–2020 | 3. | trvale |
+| Intenzita erytémového UV slunečního záření nad územím ČR – ověřené údaje | 10minutová průměrná hodnota UV indexu | lokality měření | 1x měsíčně | 3. | trvale |
+| Radiosondážní měření – ověřené údaje | teplota vzduchu, teplota rosného bodu, rychlost a směr větru, tlak vzduchu, relativní vlhkost | lokality měření | 1x měsíčně; 1x ročně aktualizace minulého roku | 3. | trvale |
+| Radiosondážní měření – vypočtené údaje | minimálně výstupná kondenzační hladina, konvekční kondenzační hladina | lokality měření | 1x měsíčně; 1x ročně aktualizace minulého roku | 3. | trvale |
+| Radiosondážní měření – vertikální profil ozonu – ověřené údaje | konkrétně: teplota vzduchu, rychlost a směr větru, parciální tlak ozonu, celkové množství ozonu | lokality měření | 1x měsíčně; 1x ročně aktualizace minulého roku | 3. | trvale |
+
+#### Tabulka C
+
+#### Technické parametry a další určující prvky standardizovaných hydrometeorologických produktů
+
+| Název standardizovaného hydrometeorologického produktu | Klíčové atributy | Územní podrobnost | Četnost a včasnost aktualizací | Minimální stupeň otevřenosti dat (formát) | Doba uložení v Databázi |
+|---|---|---|---|---|---|
+| Výstraha hydrometeorologické služby podle zákona | podle přílohy č. 1 | obce s rozšířenou působností | podle vyhlášení nebo 1x denně, 1x za 48 hodin nebo s větším předstihem | 3. | Trvale |
+| Výstraha hydrometeorologické služby podle zákona – interpretace | podle § 3 | obce s rozšířenou působností | podle vyhlášení nebo 1x denně, 1x za 48 hodin nebo s větším předstihem | 1. | nejméně 24 hodin |
+| Výstraha předpovědní povodňové služby | výstrahy předpovědní povodňové služby podle vodního zákona | obce s rozšířenou působností | po vyhlášení výstrahy | 3. | trvale |
+| Informace předpovědní služby | informační zprávy předpovědní povodňové služby podle vodního zákona | kraje | po vyhlášení výstrahy | 3. | trvale |
+| Výstražná informace na sucho | výstražná informace předpovědní služby pro sucho podle vodního zákona | obce s rozšířenou působností | 1x týdně | 3. | trvale |
+| Informace Smogového varovného a regulačního systému | vyhlášení smogové situace a regulace nebo varování podle zákona o ochraně ovzduší a jejich odvolání | podoblasti zón a aglomerací | po vyhlášení výstrahy | 3. | trvale |
+| Předpověď průtoku v síti předpovědních profilů | deterministické a pravděpodobnostní hydrologické předpovědi v síti předpovědních profilů s předstihem 3 dny pro potřeby předpovědní povodňové služby podle vodního zákona | předpovědní profily HPPS | nejméně 1x denně | 3. | nejméně 24 hodin |
+| FFI – analýza nasycení | prostorová analýza aktuálního nasycení pro potřeby odvození rizika přívalových povodní | síť s rozlišením nejméně 1 km | 1x denně | 3. | poslední dostupný |
+| FFI – analýza nebezpečných úhrnů | prostorová analýza rizikových srážkových úhrnů pro vznik rychlého odtoku doby trvání 1, 3 a 6 hodin | síť s rozlišením nejméně 3 km | 1x denně | 3. | poslední dostupný |
+| FFI – aktuální riziko přívalových povodní | vyhodnocení míry rizika přívalových povodní na základě radarových měření odrazivosti pro účely předpovědní povodňové služby podle vodního zákona | minimálně povodí 4. řádu | nejméně 1x za hodinu | 3. | poslední dostupný |
+| Množství sněhových zásob – výsledky | týdenní vyhodnocení množství vodních zásob ve sněhu pro povodí významných vodních nádrží a ucelená povodí, včetně gridu | povodí | 1x týdně při výskytu významné sněhové pokrývky | 3. | trvale |
+| Množství sněhových zásob – mapa | týdenní vyhodnocení množství vodních zásob ve sněhu pro povodí významných vodních nádrží a ucelená povodí, včetně gridu | síť s rozlišením nejméně 1 km | 1x týdně při výskytu významné sněhové pokrývky | 3. | poslední dostupný |
+| Týdenní zpráva o hydrometeorologické situaci | zpráva o vyhodnocení hydrometeorologické situace za kalendářní týden | ČR | 1x týdně | 1. | trvale |
+| Měsíční zpráva Počasí, voda a ovzduší v ČR | měsíční vyhodnocení průběhu počasí, hydrologické situace a stavu kvality ovzduší na území ČR | ČR a kraje | 1x měsíčně | 1. | trvale |
+| Roční zpráva o hydrometeorologické situaci | zprávy o vyhodnocení hydrometeorologické situace za kalendářní rok | ČR | 1x ročně po kontrole dat | 1. | trvale |
+| Základní zpráva o hydrometeorologických příčinách a průběhu povodní a suchých period | hydrometeorologická dokumentace a vyhodnocení proběhlých povodní a suchých period | dle rozsahu povodně a sucha | po povodni či suchém období | 1. | trvale |
+| Aktuální popis stavu sucha v systému HAMR | pravidelné vyhodnocení stavu hydrologického sucha v rámci zajištění předpovědní služby na sucho podle vodního zákona | ČR | 1x týdně | 3. | do aktualizace produktu |
+| Přirozené průtoky v síti vodoměrných stanic | průměrný měsíční přirozený průtok | hodnoty vázané na lokalitu stanice (dle programu monitoringu) | 1x ročně po kontrole dat | 3. | trvale |
+| Základní hydrologické údaje ve vodoměrných stanicích | hodnoty statistických parametrů hydrologického režimu podle ČSN 75 1400 Hydrologické údaje povrchových vod | profily vodoměrné sítě, uzlové body vodních útvarů | 1x za 10 let při novém normálovém období | 3. | trvale |
+| Statistické charakteristiky objektů podzemních vod | absolutní a normalizované hodnoty stavu hladiny podzemní vody a vydatnosti pramenů jednotlivých objektů v síti (průměrné měsíční, roční hodnoty, extrémní hodnoty, čáry překročení) a vypočtených hodnot pro skupiny hydrogeologických rajonů, povodí). | objekty sledování podzemních vod, v rozsahu hlásné sítě podzemních vod | 1x za 10 let při novém normálovém období | 3. | trvale |
+| Statistické charakteristiky územních jednotek podzemních vod | vypočtené hodnoty stavu hladiny podzemní vody a vydatnosti pramenů (průměrné měsíční, roční hodnoty, extrémní hodnoty, čáry překročení) pro skupiny hydrogeologických rajonů, povodí) | skupiny hydrogeologických rajonů, povodí v rozsahu hlásné sítě podzemních vod | nepravidelně při změně | 3. | trvale |
+| Hodnota dlouhodobého průměrného průtoku v závěrových profilech útvarů povrchových vod | hodnota dlouhodobého průměrného průtoku (Qa) pro vodní útvary | vodní útvary | 1x za 10 let při novém normálovém období | 3. | trvale |
+| Vyhodnocení stavu podzemních vod | výsledky vyhodnocení stavu podzemních vod na základě údajů hlásné sítě podzemních vod za období týdne, měsíce a roku | povodí | 1x týdně, 1x měsíčně, 1x ročně | 3. | trvale |
+| Vyhodnocení režimu podzemních vod v hydrogeologických rajonech | vyhodnocení režimu podzemních vod za daný rok | hydrogeologické rajony | 1x ročně | 1. | trvale |
+| Hydrologická ročenka | hydrologická ročenka za daný kalendářní rok | ČR | 1x ročně | 1. | trvale |
+| Hydrologická bilance (výsledky) | tabulky měsíčních hodnot základních prvků hydrologické bilance | bilanční profily | 1x ročně | 3. | trvale |
+| Hydrologická bilance (zpráva) | zpráva o výsledku zpracování hydrologické bilance v daném roce | bilanční profily | 1x ročně | 1. | trvale |
+| Hydrologická ročenka Jizerské hory | hydrologické a meteorologické prvky a veličiny na experimentálním povodí Jizerské hory | experimentální povodí/profily Jizerské hory | 1x ročně | 1. | trvale |
+| Měrné křivky průtoků ve vodoměrných stanicích | tabulka vztahu vodního stavu a průtoku v rozsahu monitorovací sítě | hodnoty vázané na lokalitu stanice (dle programu monitoringu) | nepravidelně při změně | 3. | poslední platný |
+| Vrstva objektů pro sledování množství a jakosti povrchových a podzemních vod | územní lokalizace a informace o objektech určených pro sledování množství a jakosti vod | lokality objektů | nepravidelně při změně | 3. | poslední platný |
+| Vrstvy rozvodnic | vymezení rozvodnic I. až IV. řádu a odvozených povodí | ČR | nepravidelně při změně | 3. | poslední platný |
+| Vrstva hydrogeologických rajonů | vymezení hydrogeologických rajonů | ČR | nepravidelně při změně | 3. | poslední platný |
+| Hodnoty ověřených ročních kulminací | hodnoty průtokových kulminací ve vodoměrných profilech | hodnoty vázané na lokalitu stanice | nepravidelně při změně | 3. | trvale |
+| Obecná meteorologická předpověď pro ČR | textová předpověď počasí na 1 až 8 dnů | ČR | 1 až 5x denně | 3. | nejméně 24 hodin |
+| Obecná meteorologická předpověď pro Prahu a kraje | textová předpověď počasí na 1 až 5 dnů | Praha, kraje | 1 až3x denně | 3. | nejméně 24 hodin |
+| Obecná meteorologická předpověď pro hory | textová předpověď počasí na 1 až 3 dny | jednotlivá pohoří ČR | 1x denně | 3. | nejméně 24 hodin |
+| Dlouhodobý výhled počasí | pravděpodobnostní předpověď s předstihem minimálně 4 týdny | ČR | 1x týdně | 1. | nejméně 24 hodin |
+| Hydrologická situace a vývoj | popis hydrologické situace a očekávaného vývoje | ČR a dílčí povodí | nejméně 1x denně | 2. | 1 rok |
+| Textová předpověď kvality ovzduší a rozptylových podmínek | textová předpověď kvality ovzduší a rozptylových podmínek; ranní předpověď do 18:00 hodin aktuálního dne, polední předpověď do 18:00 hodin následujícího dne | ČR a kraje | 2x denně | 3. | poslední platný |
+| Biometeorologická předpověď – text | biometeorologická předpověď na 2 dny | ČR a regiony | 2x denně | 3. | nejméně 24 hodin |
+| Biometeorologická předpověď – mapa | biometeorologická předpověď na 2 dny | ČR | 2x denně | 1. | nejméně 24 hodin |
+| Předpověď synoptické situace | mapová předpověď synoptické situace pro území Evropy na 3 dny | ČR | 1x denně | 1. | nejméně 24 hodin |
+| Index kvality ovzduší | index kvality ovzduší | hodnoty vázané na lokalitu stanice (dle koncepce Státní sítě imisního monitoringu) | 1x za hodinu | 3. | nejméně 24 hodin |
+| Mapy kvality ovzduší | operativní mapy znečišťujících látek z automatických monitorovacích stanic v rozsahu a časových agregacích podle zákona o ochraně ovzduší, vč. indexu kvality ovzduší | ČR a oblasti | 1x za hodinu u hodinových map, 1x za den u denních statistik | 1. | nejméně 24 hodin |
+| Modelová předpověď kvality ovzduší | předpověď kvality ovzduší s výhledem minimálně na následujících 48 hodin prezentovaná grafickou formou | kraje a obce s rozšířenou působností | 1x denně | 3. | poslední platný |
+| Ročenka kvality ovzduší – datová část | tabelární ročenka | ČR | 1x ročně | 1. | trvale |
+| Ročenka kvality ovzduší – komplexní hodnocení | grafická ročenka – mapy, tabulky, grafy | ČR | 1x ročně | 1. | trvale |
+| Pětileté průměrné koncentrace | průměr hodnot koncentrací za předchozích 5 kalendářních let (podle zákona o ochraně ovzduší) | síť s rozlišením nejméně 1 km | 1x ročně | 3. | trvale |
+| Souhrnné emisní údaje | souhrnné údaje z hlášení v ISPOP (celkové emise provozoven, kategorie provozovaných zdrojů, druhy paliv, součtový příkon, aj.) | ČR | 1x ročně | 3. | trvale |
+| Výsledky inventarizace emisí skleníkových plynů | inventarizace skleníkových plynů podle metodiky IPCC – souhrnná data ve struktuře CRF | ČR | 1x ročně | 2. | trvale |
+| Národní inventarizační zpráva | National Inventory Report – NIR podle Rámcové úmluvy OSN o změně klimatu a jejího Kjótského protokolu a Pařížské dohody zpracovaná v anglickém jazyce | ČR | 1x ročně | 1. | trvale |
+| Datové podklady CRF | tabulkově prezentovaná data ve struktuře CRF podle Rámcové úmluvy OSN o změně klimatu a jejího Kjótského protokolu a Pařížské dohody | ČR | 1x za 2 roky | 2. | trvale |
+| Projekce emisí skleníkových plynů | projekce emisí skleníkových plynů podle Rámcové úmluvy OSN o změně klimatu a jejího Kjótského protokolu a Pařížské dohody | ČR | 1x za 2 roky | 1. | trvale |
+| Statistické charakteristiky meteorologických prvků – měsíční, roční | suma/ úhrn, průměr, maximum, minimum + základní statistické charakteristiky, počet dnů nad/pod stanovený limit – teplota vzduchu maximální (–10, 0, 25, 30, 34, 35 °C), teplota vzduchu minimální (–12, –10, 0, 20 °C), denní úhrn srážek (0, 1, 1, 5, 10, 20, 30, 50 mm), výška celkové sněhové pokrývky (1 ,5, 10, 20, 50, 100 cm), výška nového sněhu (1 cm), maximální rychlost větru (5, 10, 17, 20, 24, 30 m·s<sup>-1</sup>), průměrná rychlost větru (10, 15, 20, 30 m·s<sup>-1</sup>), tlak vodní páry (18.8 hPa), pokrytí oblohy oblačností (2, 8) | lokality měření, rozsah veličin podle pozorovacího programu | 1x měsíčně z předběžně ověřených údajů;<br> 1x ročně aktualizace minulého roku z ověřených údajů | 3. | trvale |
+| Statistické charakteristiky meteorologických prvků – pentády | suma/úhrn, průměr, maximum, minimum, základní statistické charakteristiky | lokality měření, rozsah veličin podle pozorovacího programu | 1x měsíčně z předběžně ověřených údajů;<br> 1x ročně aktualizace minulého roku z ověřených údajů | 3. | trvale |
+| Vyhodnocení klimatologických veličin – územní | měsíční: průměrná teplota vzduchu, úhrn srážek, trvání slunečního svitu | ČR a kraje | 1x měsíčně z předběžně ověřených údajů;<br> 1x ročně aktualizace minulého roku z ověřených údajů | 3. | nejdéle 5 let |
+| Větrné růžice | četnost směru větru v 8 a 16 směrech bez rozlišení tříd rychlosti větru | lokality s měřením směru a rychlosti větru | 1 x ročně z ověřených údajů | 3. | trvale |
+| Klimatologická ročenka | klimatologická ročenka za daný kalendářní rok | ČR | 1x ročně | 1. | trvale |
+| Indikátory změny klimatu podle mezinárodních a národních standardů – klimatické údaje | standardizované normály podle doporučení Světové meteorologické organizace | lokality měření s dostatečně dlouhou řadou údajů, rozsah veličin podle pozorovacího programu | dle doporučení Světové meteorologické organizace | 3. | trvale |
+| Indikátory změny klimatu podle mezinárodních standardů – mapy | standardizované normály podle doporučení Světové meteorologické organizace | ČR | dle doporučení Světové meteorologické organizace | 3. | trvale |
+| Meteo radary – výsledky měření | MAX_Z, PseudoCAPPI 2 km, MAX_Z(mask) | ČR a okolí z měření meteoradarů Ústavu | 1x za 5 minut | 1. | 7 dnů |
+| Meteo radary – extrapolační předpovědi | MAX_Z, PseudoCAPPI 2 km, MAX_Z(mask) | ČR a okolí z měření meteoradarů Ústavu | 1x za 5 minut, předpověď na nejméně 60 minut v kroku nejméně 10 minut | 1. | 1 den |
+| Meteo radary – extrapolační předpovědi – vypočtené údaje | MAX_Z, PseudoCAPPI 2 km | ČR a okolí z měření meteoradarů Ústavu | 1x za 5 minut, předpověď na nejméně 60 minut v kroku nejméně 10 minut | 3. | 1 den |
+| Meteo radary – plošné odhady srážkových úhrnů | úhrn srážek (MERGE) | ČR a okolí z měření meteoradarů Ústavu | nejméně 1x za 10 minut, plošné odhady nejméně hodinových srážkových úhrnů se zahrnutím měření srážek na stanicích | 1. | 7 dnů |
+| Radiosondážní měření – zpracování | teplota vzduchu, teplota rosného bodu, konvekční teplota, rychlost a směr větru, index stability, suchá adiabata, nasycená adiabata, izolinie směšovacího poměru, výstupná kondenzační hladina, konvekční kondenzační hladina | lokality měření | nejméně 2x denně k 0:00 a 12:00 koordinovaného světového času (UTC) | 1. | 7 dnů |
+| Radiosondážní měření – vertikální profil ozónu – vizualizace | teplota vzduchu, rychlost a směr větru, parciální tlak ozonu, celkové množství ozonu | lokality měření | 3x týdně (pondělí, středa, pátek) v období leden až duben | 1. | 7 dnů |
+| Družicová měření | standardizované RGB produkty (barevné družicové snímky) z meteorologických družic (družic geostacionárních a družic na polárních drahách) organizace EUMETSAT | Standardizované projekce: Česká republika, střední Evropa a Evropa | dle specifikací a dostupnosti zdrojových dat organizace EUMETSAT, která je jejich poskytovatelem. | 1. | 7 dnů |
+| Analýzy jakosti podzemních vod | dle programu monitoringu jakosti podzemních vod | v lokalitách podle programu monitoringu jakosti podzemních vod | po provedení analýz podle programu monitoringu jakosti podzemních vod | 3. | trvale |
+| Analýzy jakosti pevných matric v povrchových vodách | dle programu monitoringu jakosti povrchových vod v pevných matricích | v lokalitách podle programu monitoringu jakosti povrchových vod v pevných matricích | po provedení analýz podle programu monitoringu jakosti povrchových vod v pevných matricích | 3. | trvale |
+
+Seznam použitých zkratek:
+
+| CRF | standardizovaný formát datových souborů (Common reporting format) |
+|---|---|
+| EUMETSAT | Evropská organizace pro využívání meteorologických družic (European Organisation for the Exploitation of Meteorological Satellites) |
+| FFI | indikátor přívalových povodní (Flash Flood Indicator) |
+| HPPS | Hlásná a předpovědní povodňová služba |
+| IPCC | Mezivládní panel pro změnu klimatu (Intergovernmental Panel on Climate Change) |
+| MAX_Z | maximální radarová odrazivost |
+| MAX_Z(mask) | maximální radarová odrazivost zohledňující dopad srážek na zemský povrch |
+| MERGE | plošný odhad srážkových úhrnů vypočtený kombinací radarového odhadu srážek a srážkových úhrnů naměřených na stanicích |
+| PseudoCAPPI 2 km | radarová odrazivost v konstantní výškové hladině 2 km nad hladinou moře |
+
+---
+
+<sup>1</sup>) § 2 písm. b) zákona č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů.

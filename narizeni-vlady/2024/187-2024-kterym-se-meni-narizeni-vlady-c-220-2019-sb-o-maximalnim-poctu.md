@@ -1,0 +1,46 @@
+---
+title: "Nařízení vlády č. 187/2024 Sb., kterým se mění nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, ve znění pozdějších předpisů"
+identifier: "187/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/187/2024-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-06-19
+effective: 2024-07-01
+last_amended: 2024-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/187"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 187/2024 Sb., kterým se mění nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, ve znění pozdějších předpisů
+
+187
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 19. června 2024,
+
+kterým se mění nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, ve znění pozdějších předpisů
+
+Vláda nařizuje k provedení § 181b zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 176/2019 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, ve znění nařízení vlády č. 556/2020 Sb., nařízení vlády č. 233/2021 Sb., nařízení vlády č. 321/2022 Sb., nařízení vlády č. 213/2023 Sb. a nařízení vlády č. 436/2023 Sb., se mění takto:
+
+1\. V příloze č. 2 se v řádku „Jakarta“ číslo „150“ nahrazuje číslem „1 150\*\*“.
+
+2\. Na konci přílohy č. 2 se doplňuje věta „\*\* Kvóta 1 000 žádostí je určena výhradně pro žádosti podávané v rámci Projektu pracovní migrace z Indonésie.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. července 2024.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Mgr. Bc. Rakušan v. r.

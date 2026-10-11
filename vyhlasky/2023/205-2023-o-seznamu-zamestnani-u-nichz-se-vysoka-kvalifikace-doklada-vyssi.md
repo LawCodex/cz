@@ -1,0 +1,50 @@
+---
+title: "Vyhláška č. 205/2023 Sb., o seznamu zaměstnání, u nichž se vysoká kvalifikace dokládá vyšší odbornou dovedností, a minimální době požadované odborné praxe k doložení odborné dovednosti"
+identifier: "205/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/205/2023-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2023-06-21
+effective: 2023-07-01
+last_amended: 2023-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/205"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 205/2023 Sb., o seznamu zaměstnání, u nichž se vysoká kvalifikace dokládá vyšší odbornou dovedností, a minimální době požadované odborné praxe k doložení odborné dovednosti
+
+205
+
+VYHLÁŠKA
+
+ze dne 21. června 2023
+
+o seznamu zaměstnání, u nichž se vysoká kvalifikace dokládá vyšší odbornou dovedností, a minimální době požadované odborné praxe k doložení odborné dovednosti
+
+Ministerstvo práce a sociálních věcí stanoví podle § 42i odst. 2 a § 182 odst. 3 zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 427/2010 Sb. a zákona č. 173/2023 Sb., (dále jen „zákon“):
+
+## § 1
+
+Pro dosažení vyšší odborné dovednosti podle § 42i odst. 2 zákona se požaduje odborná praxe v délce alespoň 3 let, kterou žadatel o modrou kartu získal v období 7 let bezprostředně předcházejících podání žádosti.
+
+## § 2
+
+Zaměstnáními, u nichž se vysoká kvalifikace dokládá vyšší odbornou dovedností, jsou zaměstnání podle skupin Klasifikace zaměstnání (CZ-ISCO) zveřejněná Českým statickým úřadem<sup>1</sup>) označená kódem a názvem
+
+a) 133 řídící pracovníci v oblasti služeb informačních a komunikačních technologií,
+
+b) 25 specialisté v oblasti informačních a komunikačních technologií.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2023.
+
+Ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.
+
+---
+
+<sup>1</sup>) Sdělení Českého statistického úřadu č. 206/2010 Sb., o zavedení Klasifikace zaměstnání (CZ-ISCO), ve znění pozdějších sdělení.

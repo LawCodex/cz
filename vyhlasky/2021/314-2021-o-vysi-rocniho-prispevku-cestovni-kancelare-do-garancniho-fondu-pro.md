@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 314/2021 Sb., o výši ročního příspěvku cestovní kanceláře do garančního fondu pro rok 2022"
+identifier: "314/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/314/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-08-23
+effective: 2021-09-30
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/314"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 314/2021 Sb., o výši ročního příspěvku cestovní kanceláře do garančního fondu pro rok 2022
+
+314
+
+VYHLÁŠKA
+
+ze dne 23. srpna 2021
+
+o výši ročního příspěvku cestovní kanceláře do garančního fondu pro rok 2022
+
+Ministerstvo pro místní rozvoj stanoví podle § 10g odst. 3 zákona č. 159/1999 Sb., o některých podmínkách podnikání a o výkonu některých činností v oblasti cestovního ruchu, ve znění zákona č. 111/2018 Sb.:
+
+## § 1 – Roční příspěvek cestovní kanceláře
+
+Výše ročního příspěvku cestovní kanceláře do garančního fondu pro rok 2022 činí 0,03 % ze základu pro výpočet ročního příspěvku.
+
+## § 2 – Zrušovací ustanovení
+
+Vyhláška č. 372/2020 Sb., o výši ročního příspěvku cestovní kanceláře do garančního fondu pro rok 2021, se zrušuje.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 30. září 2021 s výjimkou § 2, který nabývá účinnosti dnem 1. ledna 2022.
+
+Ministryně pro místní rozvoj:
+
+Ing. Dostálová v. r.

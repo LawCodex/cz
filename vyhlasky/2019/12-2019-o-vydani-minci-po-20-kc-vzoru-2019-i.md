@@ -1,0 +1,57 @@
+---
+title: "Vyhláška č. 12/2019 Sb., o vydání mincí po 20 Kč vzoru 2019 I"
+identifier: "12/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/12/2019-01-30"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2019-01-11
+effective: 2019-01-30
+last_amended: 2019-01-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/12"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 12/2019 Sb., o vydání mincí po 20 Kč vzoru 2019 I
+
+12
+
+VYHLÁŠKA
+
+ze dne 11. ledna 2019
+
+o vydání mincí po 20 Kč vzoru 2019 I
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb. a zákona č. 89/2018 Sb.:
+
+## § 1
+
+(1) Dnem 30. ledna 2019 se vydávají mince po 20 Kč vzoru 2019 I (dále jen „dvacetikoruna“).
+
+## § 2
+
+(1) Dvacetikoruna má stejné složení kovu, hmotnost, průměr a sílu včetně povolených odchylek, stejný tvar i provedení hrany a stejnou lícní stranu jako mince po 20 Kč vzoru 1993, vydaná po 2. září 2012<sup>1</sup>).
+
+(2) Na rubové straně dvacetikoruny je portrét Aloise Rašína. Po obvodu dvacetikoruny je v uzavřeném opisu zleva letopočet „1867“, text „ALOIS RAŠÍN“, letopočet „1923“ a označení nominální hodnoty mince se zkratkou peněžní jednotky „20 Kč“. Všechny části opisu jsou od sebe odděleny tečkami. Autorem návrhu dvacetikoruny je akademický sochař Vladimír Oppl. Iniciály jeho jména, přes sebe položená písmena „V“ a „O“, jsou umístěny pod zkratkou peněžní jednotky.
+
+(3) Vyobrazení rubové strany dvacetikoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 30. ledna 2019.
+
+Guvernér:
+
+Ing. Rusnok v. r.
+
+### Příloha k vyhlášce č. 12/2019 Sb.
+
+Vyobrazení mince po 20 Kč vzoru 2019 I 
+ (rubová strana)
+
+#### ![sbcr2019c006z0012p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885819/NAHLED/ZOBRAZ/sbcr2019c006z0012p001o001)
+
+---
+
+<sup>1</sup>) Vyhláška č. 111/1993 Sb., o vydání mincí po 20 Kč vzoru 1993, o ukončení platnosti bankovek po 20 Kčs a po 50 Kčs a jejich výměně, ve znění vyhlášky č. 283/2012 Sb.

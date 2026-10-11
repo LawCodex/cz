@@ -1,0 +1,64 @@
+---
+title: "Vyhláška č. 218/2023 Sb., kterou se mění vyhláška č. 74/2005 Sb., o zájmovém vzdělávání, ve znění pozdějších předpisů"
+identifier: "218/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/218/2023-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2023-06-27
+effective: 2023-09-01
+last_amended: 2023-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/218"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 218/2023 Sb., kterou se mění vyhláška č. 74/2005 Sb., o zájmovém vzdělávání, ve znění pozdějších předpisů
+
+218
+
+VYHLÁŠKA
+
+ze dne 27. června 2023,
+
+kterou se mění vyhláška č. 74/2005 Sb., o zájmovém vzdělávání, ve znění pozdějších předpisů
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 161c odst. 2 písm. c) zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění zákona č. 101/2017 Sb. a zákona č. 284/2020 Sb.:
+
+## Čl. I
+
+Příloha k vyhlášce č. 74/2005 Sb., o zájmovém vzdělávání, ve znění vyhlášky č. 163/2018 Sb., zní:
+
+> **„Příloha k vyhlášce č. 74/2005 Sb.**
+
+> **Maximální týdenní počet hodin přímé pedagogické činnosti ve školní družině zřizované krajem, obcí, nebo svazkem obcí**
+
+> | Celkový počet oddělení | Celkový PHmax za školní družinu |
+> |---|---|
+> | 1 | 32,5 |
+> | 2 | 57,5 |
+> | 3 | 80,0 |
+> | 4 | 97,5 |
+> | 5 | 130,0 |
+> | 6 | 155,0 |
+> | 7 | 177,5 |
+> | 8 | 195,0 |
+> | 9 | 227,5 |
+> | 10 | 252,5 |
+> | 11 | 275,0 |
+> | 12 | 292,5 |
+> | 13 | 325,0 |
+> | 14 | 350,0 |
+> | 15 | 372,5 |
+> | 16 | 390,0 |
+> | 17 a více oddělení | 390,0 se zvyšuje o 22,5 za každé další oddělení nad počet 16 |
+>
+> “.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2023.
+
+Ministr školství, mládeže a tělovýchovy:
+
+doc. PhDr. Bek, Ph.D., v. r.

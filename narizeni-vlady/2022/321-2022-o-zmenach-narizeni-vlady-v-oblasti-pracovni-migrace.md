@@ -1,0 +1,97 @@
+---
+title: "Nařízení vlády č. 321/2022 Sb., o změnách nařízení vlády v oblasti pracovní migrace"
+identifier: "321/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/321/2024-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2022-10-19
+effective: 2022-11-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/321"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 321/2022 Sb., o změnách nařízení vlády v oblasti pracovní migrace ve znění nařízení vlády č. 437/2023 Sb."
+---
+
+# Nařízení vlády č. 321/2022 Sb., o změnách nařízení vlády v oblasti pracovní migrace
+
+321
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 19. října 2022
+
+o změnách nařízení vlády v oblasti pracovní migrace
+
+Vláda nařizuje k provedení § 31a odst. 2 a § 181b zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 176/2019 Sb.:
+
+## ČÁST PRVNÍ – Změna nařízení vlády o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu
+
+### Čl. I
+
+Příloha č. 2 k nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, ve znění nařízení vlády č. 556/2020 Sb. a nařízení vlády č. 233/2021 Sb., zní:
+
+> **„Příloha č. 2 k nařízení vlády č. 220/2019 Sb.**
+
+> **Maximální počet žádostí o zaměstnaneckou kartu**
+
+> | 1 | 2 | 3 | 4 |
+> |---|---|---|---|
+> | Zastupitelský úřad | Maximální počet žádostí, které lze podat v rámci období 1 roku | Program vysoce kvalifikovaný zaměstnanec nebo Program klíčový a vědecký personál | Program kvalifikovaný zaměstnanec |
+> | Abudža | 90 | 60 | 0 |
+> | Addis Abeba | 90 | 60 | 0 |
+> | Akkra | 90 | 60 | 0 |
+> | Alžír | 90 | 60 | 0 |
+> | Ammán | 90 | 60 | 0 |
+> | Ankara | 300 | 100 | 0 |
+> | Bagdád | 60 | 60 | 0 |
+> | Baku | 210 | 60 | 0 |
+> | Bangkok | 280 | 60 | 0 |
+> | Bejrút | 90 | 60 | 0 |
+> | Bělehrad | 2 400 | 100 | 1 900 |
+> | Bratislava | 150 | 150 | 0 |
+> | Damašek | 60 | 60 | 0 |
+> | Dillí | 1 100 | 500 | 600 |
+> | Erbíl | 60 | 60 | 0 |
+> | Hanoj | 200 | 200\* | 0 |
+> | Islámábád | 60 | 60 | 0 |
+> | Istanbul | 300 | 100 | 0 |
+> | Jakarta | 130 | 60 | 0 |
+> | Jerevan | 680 | 60 | 550 |
+> | Kábul | 60 | 60 | 0 |
+> | Káhira | 110 | 80 | 0 |
+> | Kišiněv | 1 700 | 100 | 1 500 |
+> | Kyjev | 1 600 | 500 | 1 100 |
+> | Lusaka | 90 | 60 | 0 |
+> | Lvov | 38 000 | 0 | 38 000 |
+> | Manila | 2 500 | 100 | 2 300 |
+> | Minsk | 2 200 | 200 | 1 900 |
+> | Nairobi | 90 | 60 | 0 |
+> | Nursultan | 560 | 60 | 500 |
+> | Pchjongjang | 0 | 0 | 0 |
+> | Pretoria | 90 | 60 | 0 |
+> | Rabat | 90 | 60 | 0 |
+> | Sarajevo | 510 | 60 | 0 |
+> | Skopje | 560 | 60 | 400 |
+> | Taškent | 130 | 60 | 0 |
+> | Tbilisi | 730 | 60 | 600 |
+> | Teherán | 90 | 60 | 0 |
+> | Tunis | 90 | 60 | 0 |
+> | Ulánbátar | 1 230 | 60 | 1 000 |
+
+> \* Kvóta je určena výhradně pro žádosti podávané v rámci Programu klíčový a vědecký personál.“.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. IV
+
+Toto nařízení nabývá účinnosti dnem 1. listopadu 2022.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Mgr. Bc. Rakušan v. r.

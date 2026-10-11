@@ -1,0 +1,66 @@
+---
+title: "Nařízení vlády č. 385/2025 Sb., kterým se mění nařízení vlády č. 215/2017 Sb., o stanovení výjimek z vízové povinnosti a z osvobození od vízové povinnosti"
+identifier: "385/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/385/2025-10-23"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-09-17
+effective: 2025-10-23
+last_amended: 2025-10-23
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/385"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 385/2025 Sb., kterým se mění nařízení vlády č. 215/2017 Sb., o stanovení výjimek z vízové povinnosti a z osvobození od vízové povinnosti
+
+385
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 17. září 2025,
+
+kterým se mění nařízení vlády č. 215/2017 Sb., o stanovení výjimek z vízové povinnosti a z osvobození od vízové povinnosti
+
+Vláda nařizuje podle podle § 181 zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 428/2005 Sb. a zákona č. 173/2023 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 215/2017 Sb., o stanovení výjimek z vízové povinnosti a z osvobození od vízové povinnosti, se mění takto:
+
+1\. V § 2 písmeno a) zní:
+
+> „a) pokud je takový pas vydán zemí uvedenou v příloze II nařízení Evropského parlamentu a Rady (EU) 2018/1806 ze dne 14. listopadu 2018, kterým se stanoví seznam třetích zemí, jejichž státní příslušníci musí mít při překračování vnějších hranic vízum, jakož i seznam třetích zemí, jejichž státní příslušníci jsou od této povinnosti osvobozeni, v platném znění, ačkoliv jeho držitel není státním příslušníkem této země, nebo“.
+
+2\. V § 4 odstavec 1 zní:
+
+> „(1) Státní příslušníci zemí uvedených v příloze II nařízení Evropského parlamentu a Rady (EU) 2018/1806, v platném znění, podléhají vízové povinnosti pro pobyty na území České republiky, jejichž celková délka nepřekročí 90 dnů během jakéhokoliv období 180 dnů, je-li účelem jejich pobytu výkon výdělečné činnosti.“.
+
+3\. V § 4 odstavce 3 a 4 znějí:
+
+> „(3) Vízové povinnosti podle odstavce 1 nepodléhají držitelé platných diplomatických pasů, pokud je takový pas vydán zemí uvedenou v příloze II nařízení Evropského parlamentu a Rady (EU) 2018/1806, v platném znění, nejde-li o držitele uvedené v § 4a, nebo stanoví-li tak mezinárodní smlouva, která je součástí právního řádu.
+
+> (4) Ministerstvo zahraničních věcí zveřejňuje na svých internetových stránkách přehled zemí uvedených v příloze II nařízení Evropského parlamentu a Rady (EU) 2018/1806, v platném znění, ve kterém je uveden den, od kterého státní příslušníci dané země podléhají vízové povinnosti podle odstavce 1.“.
+
+4\. Za § 4 se vkládá nový § 4a, který zní:
+
+> **„§ 4a**
+
+> Držitelé platných diplomatických a služebních pasů Gruzie, včetně držitelů, kteří nejsou státními příslušníky Gruzie, podléhají vízové povinnosti pro pobyty na území České republiky, jejichž celková délka nepřekročí 90 dnů během jakéhokoliv období 180 dnů.“.
+
+5\. Poznámka pod čarou č. 1 zní:
+
+> „<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) 2018/1806 ze dne 14. listopadu 2018, kterým se stanoví seznam třetích zemí, jejichž státní příslušníci musí mít při překračování vnějších hranic vízum, jakož i seznam třetích zemí, jejichž státní příslušníci jsou od této povinnosti osvobozeni, v platném znění.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr zahraničních věcí:
+
+​Bc. Lipavský v. r.

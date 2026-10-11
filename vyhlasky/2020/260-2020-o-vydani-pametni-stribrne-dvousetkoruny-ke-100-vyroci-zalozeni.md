@@ -1,0 +1,58 @@
+---
+title: "Vyhláška č. 260/2020 Sb., o vydání pamětní stříbrné dvousetkoruny ke 100. výročí založení Střední uměleckoprůmyslové školy sklářské v Železném Brodě"
+identifier: "260/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/260/2020-06-17"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-05-21
+effective: 2020-06-17
+last_amended: 2020-06-17
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/260"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 260/2020 Sb., o vydání pamětní stříbrné dvousetkoruny ke 100. výročí založení Střední uměleckoprůmyslové školy sklářské v Železném Brodě
+
+260
+
+VYHLÁŠKA
+
+ze dne 21. května 2020
+
+o vydání pamětní stříbrné dvousetkoruny ke 100. výročí založení Střední uměleckoprůmyslové školy sklářské v Železném Brodě
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb. a zákona č. 89/2018 Sb.:
+
+## § 1
+
+(1) Dnem 17. června 2020 se ke 100. výročí založení Střední uměleckoprůmyslové školy sklářské v Železném Brodě vydává pamětní stříbrná mince po 200 Kč (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,1 mm. Při ražbě dvousetkoruny je přípustná odchylka v obsahu stříbra nahoru 1 %, odchylka v hmotnosti nahoru 0,26 g, odchylka v průměru 0,1 mm a odchylka v síle 0,15 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.925 \* 13 g \*“.
+
+## § 2
+
+(1) Na lícní straně dvousetkoruny je vyobrazen broušený talíř z olovnatého křišťálu, ve kterém je zakomponován fragment vstupního portálu školy. Označení nominální hodnoty se zkratkou peněžní jednotky „200 Kč“ a text „ČESKÁ REPUBLIKA“ se nachází uvnitř fragmentu vstupního portálu. Značka České mincovny tvořená písmeny „Č“ a „M“ je umístěna při levém okraji mince.
+
+(2) Na rubové straně dvousetkoruny je vyobrazen broušený talíř z olovnatého křišťálu, ve kterém je zakomponován školní emblém s texty „STŘEDNÍ UMĚLECKOPRŮMYSLOVÁ ŠKOLA SKLÁŘSKÁ“, „ŽELEZNÝ BROD“ a „1920–2020“. Iniciály autora mince Luboše Charváta, které jsou tvořeny propojenými písmeny „L“ a „Ch“, jsou umístěny uprostřed emblému.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 17. června 2020.
+
+Guvernér:
+
+Ing. Rusnok v. r.
+
+### Příloha k vyhlášce č. 260/2020 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny ke 100. výročí založení Střední uměleckoprůmyslové školy sklářské v Železném Brodě
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2020c096z0260p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/874747/NAHLED/ZOBRAZ/sbcr2020c096z0260p001o001)![sbcr2020c096z0260p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/874749/NAHLED/ZOBRAZ/sbcr2020c096z0260p001o002)

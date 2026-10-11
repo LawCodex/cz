@@ -1,0 +1,48 @@
+---
+title: "Nařízení vlády č. 41/2021 Sb., kterým se mění nařízení vlády č. 215/2020 Sb., o provedení některých ustanovení zákona o pojišťování a financování vývozu se státní podporou, ve znění pozdějších předpisů"
+identifier: "41/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/41/2021-02-06"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2021-01-25
+effective: 2021-02-06
+last_amended: 2021-02-06
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/41"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 41/2021 Sb., kterým se mění nařízení vlády č. 215/2020 Sb., o provedení některých ustanovení zákona o pojišťování a financování vývozu se státní podporou, ve znění pozdějších předpisů
+
+41
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. ledna 2021,
+
+kterým se mění nařízení vlády č. 215/2020 Sb., o provedení některých ustanovení zákona o pojišťování a financování vývozu se státní podporou, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 1 odst. 5 a § 4 odst. 5 a 7 zákona č. 58/1995 Sb., o pojišťování a financování vývozu se státní podporou a o doplnění zákona č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů, ve znění zákona č. 214/2020 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 215/2020 Sb., o provedení některých ustanovení zákona o pojišťování a financování vývozu se státní podporou, ve znění nařízení vlády č. 308/2020 Sb. a nařízení vlády č. 579/2020 Sb., se mění takto:
+
+1\. V § 2 odstavec 4 zní:
+
+> „(4) Záruky nemohou být poskytovány podnikatelským subjektům s převažující ekonomickou činností heren, kasin a sázkových kanceláří.“.
+
+2\. V § 3 odst. 1 písm. b) se středník za slovy „(dále jen „podíl vývozu“)“ nahrazuje slovem „ , přičemž“ a na konci textu písmene se doplňují slova „; příjemci úvěrů, jejichž hlavním oborem ekonomické činnosti je ubytování, prokáží úvěrující bance namísto podílu vývozu, že podíl ročních tržeb z poskytování služeb zahraničním osobám na území České republiky za poslední účetní období dosáhl alespoň 20 % celkových ročních tržeb“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Místopředseda vlády, ministr průmyslu a obchodu a ministr dopravy:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

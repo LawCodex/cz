@@ -1,0 +1,72 @@
+---
+title: "Nařízení vlády č. 33/2019 Sb., o prohlášení Usedlosti Bertramka v Praze za národní kulturní památku"
+identifier: "33/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/33/2019-02-27"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2019-01-28
+effective: 2019-02-27
+last_amended: 2019-02-27
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/33"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 33/2019 Sb., o prohlášení Usedlosti Bertramka v Praze za národní kulturní památku
+
+33
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 28. ledna 2019
+
+o prohlášení Usedlosti Bertramka v Praze za národní kulturní památku
+
+Vláda nařizuje podle § 4 odst. 1 zákona č. 20/1987 Sb., o státní památkové péči:
+
+## § 1 – Prohlášení Usedlosti Bertramka v Praze za národní kulturní památku
+
+(1) Za národní kulturní památku se prohlašuje kulturní památka Usedlost Bertramka v Praze.
+
+(2) Umístění, popis a prostorová identifikace národní kulturní památky podle odstavce 1 jsou uvedeny v příloze k tomuto nařízení.
+
+## § 2 – Podmínka zabezpečení ochrany národní kulturní památky
+
+Rozsah zastavěných ploch, tvar terénu, výšková úroveň a skladba zástavby se nesmějí měnit, pokud by tím došlo k poškození kulturní hodnoty národní kulturní památky.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr kultury:
+
+doc. Mgr. Staněk, Ph.D., v. r.
+
+### Příloha k nařízení vlády č. 33/2019 Sb.
+
+#### Umístění, popis a prostorová identifikace národní kulturní památky Usedlost Bertramka v Praze
+
+Název: Usedlost Bertramka v Praze
+
+Popis: obytná budova se sala terrenou, terasový pavilon, špýchar, pomník W. A. Mozarta a další stavby a objekty na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků
+
+Prostorové identifikační znaky:
+
+Okres: Praha
+
+Obec: Praha
+
+Katastrální území: Smíchov
+
+Pozemky, parcelní čísla: 2755/1, 2755/2, 2755/3, 2755/4, 2755/5, 2756, 2757, 4889/6
+
+Budova, číslo popisné: 169 (část obce Smíchov).
+
+Poznámka:
+
+Zpracováno podle právního stavu ke dni 26. října 2018.

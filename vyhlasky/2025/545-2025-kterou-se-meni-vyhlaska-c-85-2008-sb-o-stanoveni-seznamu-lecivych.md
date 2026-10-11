@@ -1,0 +1,78 @@
+---
+title: "Vyhláška č. 545/2025 Sb., kterou se mění vyhláška č. 85/2008 Sb., o stanovení seznamu léčivých látek a pomocných látek, které lze použít pro přípravu léčivých přípravků, ve znění pozdějších předpisů"
+identifier: "545/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/545/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-12-09
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/545"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 545/2025 Sb., kterou se mění vyhláška č. 85/2008 Sb., o stanovení seznamu léčivých látek a pomocných látek, které lze použít pro přípravu léčivých přípravků, ve znění pozdějších předpisů
+
+545
+
+VYHLÁŠKA
+
+ze dne 9. prosince 2025,
+
+kterou se mění vyhláška č. 85/2008 Sb., o stanovení seznamu léčivých látek a pomocných látek, které lze použít pro přípravu léčivých přípravků, ve znění pozdějších předpisů
+
+Ministerstvo zdravotnictví a Ministerstvo zemědělství stanoví podle § 114 odst. 2 a k provedení § 79 odst. 8 písm. a) zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění zákona č. 70/2013 Sb., zákona č. 66/2017 Sb., zákona č. 262/2019 Sb., zákona č. 314/2022 Sb. a zákona č. 456/2023 Sb.:
+
+## Čl. I
+
+Vyhláška č. 85/2008 Sb., o stanovení seznamu léčivých látek a pomocných látek, které lze použít pro přípravu léčivých přípravků, ve znění vyhlášky č. 270/2013 Sb., vyhlášky č. 168/2022 Sb. a vyhlášky č. 332/2022 Sb., se mění takto:
+
+1\. V příloze se v tabulce za řádek, kde je ve sloupci „Mezinárodní název“ uvedeno „EUPHRASIAE HERBA“, vkládá nový řádek, který zní:
+
+> „
+>
+> | FAMCICLOVIR | FAMCIKLOVIR |
+> |---|---|
+>
+> “.
+
+2\. V příloze se v tabulce za řádek, kde je ve sloupci „Mezinárodní název“ uvedeno „GONADOTROPINUM SERICUM EQUINUM AD USUM VETERINARIUM“, vkládá nový řádek, který zní:
+
+> „
+>
+> | GS-441524 | GS-441524 (AKTIVNÍ METABOLIT REMDESIVIRU, ANALOG ADENOSINU) |
+> |---|---|
+>
+> “.
+
+3\. V příloze se v tabulce za řádek, kde je ve sloupci „Mezinárodní název“ uvedeno „PROPIVERINUM HYDROCHLORIDUM“, vkládá nový řádek, který zní:
+
+> „
+>
+> | PSILOCYBIN | PSILOCYBIN PRO LÉČEBNÉ POUŽITÍ |
+> |---|---|
+>
+> “.
+
+4\. V příloze se v tabulce za řádek, kde je ve sloupci „Mezinárodní název“ uvedeno „PSILOCYBIN“, vkládá nový řádek, který zní:
+
+> „
+>
+> | REMDESIVIR | REMDESIVIR |
+> |---|---|
+>
+> “.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr zdravotnictví:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.
+
+Ministr zemědělství:
+
+Mgr. Výborný v. r.

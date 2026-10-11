@@ -1,0 +1,56 @@
+---
+title: "Nařízení vlády č. 82/2025 Sb., o stanovení ložisek strategického významu v oblasti Cínovce a Horního Slavkova"
+identifier: "82/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/82/2025-04-09"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2025-03-05
+effective: 2025-04-09
+last_amended: 2025-04-09
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/82"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 82/2025 Sb., o stanovení ložisek strategického významu v oblasti Cínovce a Horního Slavkova
+
+82
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 5. března 2025
+
+o stanovení ložisek strategického významu v oblasti Cínovce a Horního Slavkova
+
+Vláda nařizuje podle § 6a odst. 2 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona č. 465/2023 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení stanovuje ložiska strategického významu obsahující nerosty, z nichž lze průmyslově vyrábět kovy.
+
+## § 2 – Stanovení ložisek strategického významu
+
+Ložiskem strategického významu se stanovuje
+
+a) výhradní ložisko kritických vyhrazených nerostů vedené ke dni 1. ledna 2024 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Cínovec-východ a číslem 3123701,
+
+b) výhradní ložisko kritických vyhrazených nerostů vedené ke dni 1. ledna 2024 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Cínovec-severozápad a číslem 3123702,
+
+c) výhradní ložisko kritických vyhrazených nerostů vedené ke dni 1. ledna 2024 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Cínovec-jih a číslem 3123700,
+
+d) výhradní ložisko kritických vyhrazených nerostů vedené ke dni 1. ledna 2024 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Cínovec-odkaliště a číslem 3268300,
+
+e) výhradní ložisko kritických vyhrazených nerostů vedené ke dni 1. ledna 2024 v bilanci zásob nerostných surovin podle § 29 odst. 4 písm. d) horního zákona pod názvem Horní Slavkov-odkaliště a číslem 3268600.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Vlček v. r.

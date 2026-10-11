@@ -1,0 +1,44 @@
+---
+title: "Nařízení vlády č. 285/2024 Sb., o koeficientu pro výpočet minimální mzdy v roce 2025 a 2026"
+identifier: "285/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/285/2024-10-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-09-18
+effective: 2024-10-01
+last_amended: 2024-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/285"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 285/2024 Sb., o koeficientu pro výpočet minimální mzdy v roce 2025 a 2026
+
+285
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 18. září 2024
+
+o koeficientu pro výpočet minimální mzdy v roce 2025 a 2026
+
+Vláda nařizuje podle § 111 odst. 9 zákona č. 262/2006 Sb., zákoník práce, ve znění zákona č. 230/2024 Sb.:
+
+## § 1
+
+(1) Koeficient pro výpočet minimální mzdy pro rok 2025 činí 0,422.
+
+(2) Koeficient pro výpočet minimální mzdy pro rok 2026 činí 0,434.
+
+## § 2 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.

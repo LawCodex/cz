@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 11/2024 Sb., kterou se mění vyhláška č. 79/2013 Sb., o provedení některých ustanovení zákona č. 373/2011 Sb., o specifických zdravotních službách, (vyhláška o pracovnělékařských službách a některých druzích posudkové péče), ve znění pozdějších předpisů"
+identifier: "11/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/11/2024-01-31"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-01-18
+effective: 2024-01-31
+last_amended: 2024-01-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/11"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 11/2024 Sb., kterou se mění vyhláška č. 79/2013 Sb., o provedení některých ustanovení zákona č. 373/2011 Sb., o specifických zdravotních službách, (vyhláška o pracovnělékařských službách a některých druzích posudkové péče), ve znění pozdějších předpisů
+
+11
+
+VYHLÁŠKA
+
+ze dne 18. ledna 2024,
+
+kterou se mění vyhláška č. 79/2013 Sb., o provedení některých ustanovení zákona č. 373/2011 Sb., o specifických zdravotních službách, (vyhláška o pracovnělékařských službách a některých druzích posudkové péče), ve znění pozdějších předpisů
+
+Ministerstvo zdravotnictví stanoví podle § 95 odst. 1 k provedení § 52 písm. a), c) a d) zákona č. 373/2011 Sb., o specifických zdravotních službách, ve znění zákona č. 202/2017 Sb.:
+
+## Čl. I
+
+Vyhláška č. 79/2013 Sb., o provedení některých ustanovení zákona č. 373/2011 Sb., o specifických zdravotních službách, (vyhláška o pracovnělékařských službách a některých druzích posudkové péče), ve znění vyhlášky č. 436/2017 Sb. a vyhlášky č. 452/2022 Sb., se mění takto:
+
+1\. V § 14a odst. 1 písm. a) se část věty za středníkem včetně středníku zrušuje.
+
+2\. V § 15a se písmeno a) zrušuje.
+
+Dosavadní písmena b) až d) se označují jako písmena a) až c).
+
+3\. V § 15a odst. 1 písm. b) se slova „uvedený v přihlášce ke studiu“ zrušují.
+
+4\. V § 17 odst. 1 se písmeno a) zrušuje.
+
+Dosavadní písmena b) až d) se označují jako písmena a) až c).
+
+5\. V § 17a písm. a) se číslo „17“ nahrazuje číslem „16“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 31. ledna 2024.
+
+Ministr:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.

@@ -1,0 +1,64 @@
+---
+title: "Nařízení vlády č. 367/2020 Sb., o mimořádném prodloužení lhůt v rámci mezinárodní spolupráce při správě daní v souvislosti s výskytem koronaviru SARS CoV-2"
+identifier: "367/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/367/2020-09-25"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2020-09-07
+effective: 2020-09-25
+last_amended: 2020-09-25
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/367"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 367/2020 Sb., o mimořádném prodloužení lhůt v rámci mezinárodní spolupráce při správě daní v souvislosti s výskytem koronaviru SARS CoV-2
+
+367
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 7. září 2020
+
+o mimořádném prodloužení lhůt v rámci mezinárodní spolupráce při správě daní v souvislosti s výskytem koronaviru SARS CoV-2
+
+Vláda nařizuje podle § 12e zákona č. 164/2013 Sb., o mezinárodní spolupráci při správě daní a o změně dalších souvisejících zákonů, ve znění zákona č. 299/2020 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení zapracovává příslušný předpis Evropské unie<sup>1</sup>) a upravuje mimořádné prodloužení lhůt při automatické výměně informací oznamovaných zprostředkovateli přeshraničních uspořádání v souvislosti s výskytem koronaviru SARS CoV-2.
+
+## § 2 – Prodloužení lhůty pro podání oznámení
+
+(1) Lhůta pro podání oznámení podle čl. VII zákona č. 343/2020 Sb., kterým se mění některé zákony v souvislosti s implementací daňových předpisů Evropské unie a v oblasti zamezení dvojímu zdanění, v případě oznamovaného přeshraničního uspořádání, k jehož zavedení byl učiněn první krok v období ode dne
+
+a) 25. června 2018 do dne 30. června 2020, skončí dne 28. února 2021,
+
+b) 1. července 2020, skončí dne 30. ledna 2021.
+
+(2) Lhůta pro podání oznámení podle § 14n odst. 1 zákona č. 164/2013 Sb., ve znění zákona č. 343/2020 Sb., v případě oznamovaného přeshraničního uspořádání, které bylo zpřístupněno pro zavedení, připraveno k zavedení nebo k jehož zavedení byl učiněn první krok do dne 31. prosince 2020, skončí dne 30. ledna 2021.
+
+(3) Lhůta pro podání oznámení podle § 14n odst. 3 zákona č. 164/2013 Sb., ve znění zákona č. 343/2020 Sb., v případě oznamovaného přeshraničního uspořádání, ve vztahu ke kterému vedlejší zprostředkovatel sám nebo prostřednictvím jiné osoby nebo jednotky bez právní osobnosti poskytnul podporu, pomoc nebo poradenství do dne 31. prosince 2020, skončí dne 30. ledna 2021.
+
+(4) Lhůta pro podání oznámení podle § 14n odst. 4 zákona č. 164/2013 Sb., ve znění zákona č. 343/2020 Sb., v případě změny informace o typizovaném oznamovaném přeshraničním uspořádání, ke které došlo do dne 31. prosince 2020, skončí dne 30. dubna 2021.
+
+## § 3 – Prodloužení lhůty pro poskytnutí informace
+
+Lhůta pro poskytnutí informace o oznamovaném přeshraničním uspořádání podle § 14s zákona č. 164/2013 Sb., ve znění zákona č. 343/2020 Sb., které bylo oznámeno do dne 31. prosince 2020, skončí dne 30. dubna 2021.
+
+## § 4 – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Místopředsedkyně vlády a ministryně financí:
+
+JUDr. Schillerová, Ph.D., v. r.
+
+---
+
+<sup>1</sup>) Směrnice Rady (EU) 2020/876 ze dne 24. června 2020, kterou se mění směrnice 2011/16/EU s cílem řešit naléhavou potřebu odkladu některých lhůt pro podávání a výměnu informací v oblasti daní v důsledku pandemie COVID-19.

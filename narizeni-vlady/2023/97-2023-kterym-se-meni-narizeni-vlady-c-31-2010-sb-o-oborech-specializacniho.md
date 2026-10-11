@@ -1,0 +1,61 @@
+---
+title: "Nařízení vlády č. 97/2023 Sb., kterým se mění nařízení vlády č. 31/2010 Sb., o oborech specializačního vzdělávání a označení odbornosti zdravotnických pracovníků se specializovanou způsobilostí, ve znění nařízení vlády č. 164/2018 Sb."
+identifier: "97/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/97/2023-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2023-03-08
+effective: 2023-07-01
+last_amended: 2023-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/97"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 97/2023 Sb., kterým se mění nařízení vlády č. 31/2010 Sb., o oborech specializačního vzdělávání a označení odbornosti zdravotnických pracovníků se specializovanou způsobilostí, ve znění nařízení vlády č. 164/2018 Sb.
+
+97
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 8. března 2023,
+
+kterým se mění nařízení vlády č. 31/2010 Sb., o oborech specializačního vzdělávání a označení odbornosti zdravotnických pracovníků se specializovanou způsobilostí, ve znění nařízení vlády č. 164/2018 Sb.
+
+Vláda nařizuje podle § 90 odst. 1 zákona č. 96/2004 Sb., o podmínkách získávání a uznávání způsobilosti k výkonu nelékařských zdravotnických povolání a k výkonu činností souvisejících s poskytováním zdravotní péče a o změně některých souvisejících zákonů (zákon o nelékařských zdravotnických povoláních), ve znění zákona č. 189/2008 Sb. a zákona č. 201/2017 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 31/2010 Sb., o oborech specializačního vzdělávání a označení odbornosti zdravotnických pracovníků se specializovanou způsobilostí, ve znění nařízení vlády č. 164/2018 Sb., se mění takto:
+
+1\. V příloze č. 1 položce 1 se doplňují body 11 a 12, které znějí:
+
+> „
+>
+> | 11 | Ošetřovatelská péče v onkologii a hematoonkologii | Sestra pro péči v onkologii a hematoonkologii |
+> |---|---|---|
+> | 12 | Hojení ran | Sestra pro hojení ran |
+>
+> “.
+
+2\. V příloze č. 1 položce 1a se doplňuje bod 7, který zní:
+
+> „
+>
+> | 7 | Ošetřovatelská péče v onkologii a hematoonkologii | Dětská sestra pro péči v onkologii a hematoonkologii |
+> |---|---|---|
+>
+> “.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. července 2023.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Místopředseda vlády a ministr zdravotnictví:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.

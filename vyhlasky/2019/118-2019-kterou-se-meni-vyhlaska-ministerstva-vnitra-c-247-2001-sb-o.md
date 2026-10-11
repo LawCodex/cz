@@ -1,0 +1,48 @@
+---
+title: "Vyhláška č. 118/2019 Sb., kterou se mění vyhláška Ministerstva vnitra č. 247/2001 Sb., o organizaci a činnosti jednotek požární ochrany, ve znění pozdějších předpisů, a vyhláška č. 35/2007 Sb., o technických podmínkách požární techniky, ve znění vyhlášky č. 53/2010 Sb."
+identifier: "118/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/118/2019-05-29"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2019-04-30
+effective: 2019-05-29
+last_amended: 2019-05-29
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/118"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 118/2019 Sb., kterou se mění vyhláška Ministerstva vnitra č. 247/2001 Sb., o organizaci a činnosti jednotek požární ochrany, ve znění pozdějších předpisů, a vyhláška č. 35/2007 Sb., o technických podmínkách požární techniky, ve znění vyhlášky č. 53/2010 Sb.
+
+118
+
+VYHLÁŠKA
+
+ze dne 30. dubna 2019,
+
+kterou se mění vyhláška Ministerstva vnitra č. 247/2001 Sb., o organizaci a činnosti jednotek požární ochrany, ve znění pozdějších předpisů, a vyhláška č. 35/2007 Sb., o technických podmínkách požární techniky, ve znění vyhlášky č. 53/2010 Sb.
+
+Ministerstvo vnitra stanoví podle § 24 odst. 2 a § 101 písm. a) zákona č. 133/1985 Sb., o požární ochraně, ve znění zákona č. 203/1994 Sb., zákona č. 237/2000 Sb., zákona č. 186/2006 Sb., zákona č. 320/2015 Sb. a zákona č. 229/2016 Sb., (dále jen „zákon“) k provedení § 65 odst. 8 písm. d) a § 70 odst. 6 zákona:
+
+## ČÁST PRVNÍ – Změna vyhlášky č. 247/2001 Sb.
+
+### Čl. I
+
+V § 12 odst. 1 vyhlášky č. 247/2001 Sb., o organizaci a činnosti jednotek požární ochrany, ve znění vyhlášky č. 226/2005 Sb., se slova „výstražné doplněné zvláštním výstražným světlem modré barvy“ nahrazují slovy „a výstražné světelné zařízení“.
+
+## ČÁST DRUHÁ – Změna vyhlášky č. 35/2007 Sb.
+
+### Čl. II
+
+V příloze č. 1 bodě 23 větě první vyhlášky č. 35/2007 Sb., o technických podmínkách požární techniky, ve znění vyhlášky č. 53/2010 Sb., se slova „modré barvy“ zrušují.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. III
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministr:
+
+Hamáček v. r.

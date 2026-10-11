@@ -1,0 +1,422 @@
+---
+title: "Vyhláška č. 188/2023 Sb., kterou se mění vyhláška č. 96/2018 Sb., o množitelských porostech a rozmnožovacím materiálu ovocných rodů a druhů a jeho uvádění do oběhu, ve znění pozdějších předpisů, a vyhláška č. 386/2022 Sb., o množitelských porostech a rozmnožovacím materiálu chmele, révy a okrasných druhů a jeho uvádění do oběhu"
+identifier: "188/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/188/2023-06-30"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2023-06-12
+effective: 2023-06-30
+last_amended: 2023-06-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/188"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 188/2023 Sb., kterou se mění vyhláška č. 96/2018 Sb., o množitelských porostech a rozmnožovacím materiálu ovocných rodů a druhů a jeho uvádění do oběhu, ve znění pozdějších předpisů, a vyhláška č. 386/2022 Sb., o množitelských porostech a rozmnožovacím materiálu chmele, révy a okrasných druhů a jeho uvádění do oběhu
+
+188
+
+VYHLÁŠKA
+
+ze dne 12. června 2023,
+
+kterou se mění vyhláška č. 96/2018 Sb., o množitelských porostech a rozmnožovacím materiálu ovocných rodů a druhů a jeho uvádění do oběhu, ve znění pozdějších předpisů, a vyhláška č. 386/2022 Sb., o množitelských porostech a rozmnožovacím materiálu chmele, révy a okrasných druhů a jeho uvádění do oběhu
+
+Ministerstvo zemědělství stanoví podle § 3 odst. 14 písm. a) až c), § 7 odst. 6 písm. d), g), j), s) a u), § 14 odst. 6, § 18 odst. 12, § 19 odst. 17 písm. a) a c), § 24 odst. 8 a § 25 odst. 8 zákona č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění zákona č. 178/2006 Sb., zákona č. 96/2009 Sb., zákona č. 331/2010 Sb., zákona č. 295/2017 Sb. a zákona č. 334/2020 Sb.:
+
+## ČÁST PRVNÍ – Změna vyhlášky o množitelských porostech a rozmnožovacím materiálu ovocných rodů a druhů a jeho uvádění do oběhu
+
+### Čl. I
+
+Vyhláška č. 96/2018 Sb., o množitelských porostech a rozmnožovacím materiálu ovocných rodů a druhů a jeho uvádění do oběhu, ve znění vyhlášky č. 138/2020 Sb. a vyhlášky č. 366/2020 Sb., se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Prováděcí směrnice Komise (EU) 2022/2438 ze dne 12. prosince 2022, kterou se mění směrnice 93/49/EHS a prováděcí směrnice 2014/98/EU, pokud jde o regulované nekaranténní škodlivé organismy pro Unii na rozmnožovacím materiálu okrasných rostlin, rozmnožovacím materiálu ovocných rostlin a ovocných rostlinách určených k produkci ovoce.“.
+
+2\. V § 2 se na konci textu písmene i) doplňují slova „a rozmnožovací materiál uváděný do oběhu za zvláštních podmínek podle § 3d zákona“.
+
+3\. V § 3 odst. 1 písm. a) se slovo „který“ nahrazuje slovem „která“.
+
+4\. V nadpisech § 4 a 10 se číslo „9“ nahrazuje číslem „8“.
+
+5\. V § 4 odst. 8 písm. b) se slovo „vyhášce“ nahrazuje slovem „vyhlášce“.
+
+6\. V § 4 se doplňuje odstavec 13, který včetně poznámky pod čarou č. 6 zní:
+
+> „(13) Rozmnožovací materiál v kategoriích rozmnožovací materiál předstupně, základní rozmnožovací materiál a certifikovaný rozmnožovací materiál nepodléhá vizuálním přehlídkám zdravotního stavu a testování, pokud
+
+> a) byl vypěstován v oblastech, které jsou prosté příslušných škodlivých organismů, přičemž informace o těchto oblastech je zveřejněna na internetových stránkách Ústavu, nebo které byly uznány Komisí za prosté těchto organismů v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření<sup>6</sup>), nebo
+
+> b) je uchováván pomocí kryokonzervace.
+
+> <sup>6</sup>) Požadavky pro vymezování území prostých škodlivých organismů. ISPM č. 4 (1995), Řím, IPPC, FAO 2017.“.
+
+7\. V § 8 odst. 1 úvodní části ustanovení se slovo „knihách“ nahrazuje slovem „záznamech“ a slovo „knihy“ se nahrazuje slovem „záznamy“.
+
+8\. V § 8 odst. 2 se slova „školkařskou knihou“ nahrazují slovy „školkařskými záznamy“.
+
+9\. V § 8 odst. 3 a 4 se slova „školkařské knize“ nahrazují slovy „školkařských záznamech“.
+
+10\. V § 9 odst. 2 písm. c) se slova „certifikaci“ nahrazují slovy „kontrolu výroby a uvádění do oběhu rozmnožovacího materiálu“.
+
+11\. V § 9 odst. 2 písm. d) se za slovo „příjmení“ vkládají slova „nebo název či obchodní firma“ a slova „certifikaci“ se nahrazují slovy „kontrolu výroby a uvádění do oběhu rozmnožovacího materiálu“.
+
+12\. V § 9 odst. 2 písm. e) se slovo „šarže“ nahrazuje slovem „partie“.
+
+13\. V § 9 odst. 2 písm. h) a § 13 odst. 2 písm. h) se slova „klonu v případě“ nahrazují slovy „klonu, v případě:“.
+
+14\. V § 9 odst. 2 písm. j) se slovo „a“ zrušuje.
+
+15\. V § 9 odst. 2 se na konci písmene k) tečka nahrazuje slovem „a“ a doplňuje se písmeno l), které zní:
+
+> „l) informaci, že se jedná o rozmnožovací materiál ovocných rodů a druhů uváděný do oběhu do 31. prosince 2029 podle čl. 32 prováděcí směrnice Komise 2014/98/EU, pokud jde o tento materiál.“.
+
+16\. Poznámka pod čarou č. 5 se zrušuje.
+
+17\. V § 9 odst. 5 písm. d) se za slovo „kryokonzervace“ vkládají slova „anebo pokud byl konformní rozmnožovací materiál vypěstován v oblastech, které jsou prosté příslušných škodlivých organismů, přičemž informace o těchto oblastech je zveřejněna na internetových stránkách Ústavu, nebo které byly uznány Komisí za prosté těchto organismů v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření<sup>6</sup>),“ a slovo „přehlídky“ se nahrazuje slovy „vizuální přehlídky zdravotního stavu“.
+
+18\. V § 10 se na konci textu písmene b) doplňují slova „ , a to tak, že uvede minimálně název dodavatele a jeho registrační číslo, název rodu a druhu, odrůdy a podnože“.
+
+19\. Na konci § 11 se doplňuje věta „Dodavatel použije k označení rozmnožovacího materiálu číslo partie, které mu sdělil Ústav na základě podaného oznámení o rozsahu výroby.“.
+
+20\. V § 12 se za slovo „Vzor“ vkládají slova „formuláře oznámení dovozu a vzor“.
+
+21\. V § 13 odst. 2 písm. m) se slovo „a“ zrušuje.
+
+22\. V § 13 odst. 2 se na konci písmene n) tečka nahrazuje slovem „a“ a doplňuje se písmeno o), které zní:
+
+> „o) informaci, že se jedná o rozmnožovací materiál ovocných rodů a druhů uváděný do oběhu podle čl. 32 prováděcí směrnice Komise 2014/98/EU, pokud jde o tento materiál.“.
+
+23\. V příloze č. 1 řádku „Cydonia oblonga Mill. a *Pyrus* L.“ se slova „Hmyz a roztoči“ nahrazují slovem „Bakterie“ a slova „*Phytoptus avellanae Nalepa* [ERPHAV]“ se nahrazují slovy „*Agrobacterium tumefaciens* (Smith & Townsend) Conn [AGRBTU]“.
+
+24\. V příloze č. 1 řádku „*Fragaria* L.“ se slova „*Candidatus Phytoplasma australiense Davis et al.* [PHYPAU]“ zrušují.
+
+25\. V příloze č. 2 se na začátek tabulky vkládá řádek, který zní:
+
+> „
+>
+> | *Castanea sativa* Mill. | Houby a řasovky<br> *Phytophthora ramorum* (izoláty z EU) Werres, De Cock & Man in ’t Veld [PHYTRA] |
+> |---|---|
+>
+> “.
+
+26\. V příloze č. 2 řádku „*Vaccinium* L.“ se nad slova „Viry, viroidy, choroby působené virům podobnými organismy a fytoplazmy“ vkládají slova
+
+> „Houby a řasovky
+
+> *Phytophthora ramorum* (izoláty z EU) Werres, De Cock & Man in ’t Veld [PHYTRA]“.
+
+27\. V příloze č. 4 bodě 1 Castanea sativa Mill. písmena b) až d) znějí:
+
+> „b) Rozmnožovací materiál předstupně
+
+> Požadavky na místo porostu, okolí porostu a oblast produkce rozmnožovacího materiálu
+
+> V případě, kdy je povolena výjimka k výrobě rozmnožovacího materiálu předstupně v prostorové izolaci podle prováděcího rozhodnutí Komise (EU) 2017/925 ze dne 29. května 2017, kterým se některým členským státům dočasně povoluje certifikovat prvotní materiál konkrétních druhů ovocných rostlin vyprodukovaný na poli za podmínek nechráněných proti hmyzu a kterým se zrušuje prováděcí rozhodnutí (EU) 2017/167, platí následující požadavky týkající se organismu:
+
+> i) *Cryphonectria parasitica* (Murrill) Barr:
+
+> — rozmnožovací materiál a ovocné výpěstky předstupně se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Cryphonectria parasitica* (Murrill) Barr v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích předstupně nesmí být během posledního ukončeného vegetačního cyklu pozorovány žádné příznaky výskytu organismu *Cryphonectria parasitica* (Murrill) Barr.
+
+> ii) *Phytophthora ramorum* (izoláty z EU) Werres, De Cock & Man in ’t Veld:
+
+> — rozmnožovací materiál a ovocné výpěstky předstupně se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích předstupně nesmí být během posledního ukončeného vegetačního cyklu pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld.
+
+> c) Základní rozmnožovací materiál
+
+> Požadavky na místo porostu, okolí porostu a oblast produkce rozmnožovacího materiálu
+
+> i) *Cryphonectria parasitica* (Murrill) Barr:
+
+> — rozmnožovací materiál a ovocné výpěstky základního rozmnožovacího materiálu se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Cryphonectria parasitica* (Murrill) Barr v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích základního rozmnožovacího materiálu nesmí být během posledního ukončeného vegetačního cyklu pozorovány žádné příznaky výskytu organismu *Cryphonectria parasitica* (Murrill) Barr.
+
+> ii) *Phytophthora ramorum* (izoláty z EU) Werres, De Cock & Man in ’t Veld:
+
+> — rozmnožovací materiál a ovocné výpěstky základního rozmnožovacího materiálu se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích základního rozmnožovacího materiálu nesmí být během posledního ukončeného vegetačního cyklu pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld.
+
+> d) Certifikovaný rozmnožovací materiál a konformní (CAC) rozmnožovací materiál
+
+> Požadavky na místo porostu, okolí porostu a oblast produkce rozmnožovacího materiálu
+
+> i) *Cryphonectria parasitica* (Murrill) Barr:
+
+> — rozmnožovací materiál a ovocné výpěstky certifikované a konformní (CAC) se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Cryphonectria parasitica* (Murrill) Barr v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích certifikovaných a konformních (CAC) nesmí být během posledního ukončeného vegetačního cyklu pozorovány žádné příznaky výskytu organismu *Cryphonectria parasitica* (Murrill) Barr. nebo
+
+> — rozmnožovací materiál a ovocné výpěstky certifikované a konformní (CAC) vykazující příznaky výskytu organismu *Cryphonectria parasitica* (Murrill) Barr musí být odstraněny, zbývající rozmnožovací materiál a ovocné výpěstky musí být pravidelně každý týden prohlíženy a v místě výroby nesmí být v průběhu 2 týdnů před expedicí pozorovány žádné příznaky.
+
+> ii) *Phytophthora ramorum* (izoláty z EU) Werres, De Cock & Man in ’t Veld:
+
+> — rozmnožovací materiál a ovocné výpěstky certifikované a konformní (CAC) se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích certifikovaných a konformních (CAC) nesmí být během posledního ukončeného vegetačního cyklu pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld.
+
+> nebo
+
+> —
+
+> – rozmnožovací materiál a ovocné výpěstky certifikované konformní (CAC) vykazující příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld v místě výroby a všechny rostliny v okruhu 2 m od rozmnožovacího materiálu a ovocných výpěstků s příznaky nakažení musí být odstraněny a zničeny, včetně ulpělé zeminy
+
+> a
+
+> – pro všechny rostliny v okruhu 10 m od rozmnožovacího materiálu a ovocných výpěstků s příznaky napadení a veškerý zbývající rozmnožovací materiál a ovocné výpěstky z napadené partie platí, že:
+
+> – během tří měsíců od zjištění rozmnožovacího materiálu a ovocných výpěstků s příznaky napadení nesmí být na daném rozmnožovacím materiálu a daných ovocných výpěstcích pozorovány při nejméně 2 přehlídkách ve vhodných termínech pro zjištění škodlivého organismu příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld a během tohoto tříměsíčního období nesmí být provedeno žádné ošetření potlačující příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld a
+
+> – po tomto tříměsíčním období:
+
+> – na daném rozmnožovacím materiálu a daných ovocných výpěstcích v místě výroby nesmí být pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld nebo
+
+> – reprezentativní vzorek daného rozmnožovacího materiálu a daných ovocných výpěstků určených k přemístění musí být otestován a shledán prostým organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld a
+
+> a
+
+> – u veškerého ostatního rozmnožovacího materiálu a ovocných výpěstků v místě výroby:
+
+> – na daném rozmnožovacím materiálu a daných ovocných výpěstcích v místě výroby nesmí být pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld nebo
+
+> – reprezentativní vzorek daného rozmnožovacího materiálu a daných ovocných výpěstků určených k přemístění byl otestován a shledán prostým organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld.“.
+
+28\. V příloze č. 4 bodě 4 Cydonia oblonga Mill. písmenu b) se slova
+
+> „Požadavky na místo porostu, okolí porostu a oblast produkce rozmnožovacího materiálu
+
+> V případě, kdy je povolena výjimka k výrobě rozmnožovacího materiálu předstupně v prostorové izolaci podle prováděcího rozhodnutí Komise (EU) 2017/925, platí následující požadavky týkající se organismu Erwinia amylovora (Burrill) Winslow et al.:
+
+> i) rozmnožovací materiál a ovocné výpěstky předstupně se vyrábí v oblastech, o nichž je známo, že jsou prosté organismu Erwinia amylovora (Burrill) Winslow et al., nebo
+
+> ii) rozmnožovací materiál a ovocné výpěstky rozmnožovacího materiálu předstupně v místě výroby byly za poslední ukončené vegetační období prohlédnuty a veškerý rozmnožovací materiál a ovocné výpěstky s příznaky napadení organismem Erwinia amylovora (Burrill) Winslow et al. a veškeré okolní hostitelské rostliny byly neprodleně odstraněny a zničeny.“ zrušují.
+
+29\. V příloze č. 4 bodě 6 Fragaria L. písm. d) bodě iii) se slova „Candidatus Phytoplasma australiense Davis et al.,“ zrušují.
+
+30\. V příloze č. 4 bodě 8 Malus Mill. se na konci písmene c) doplňují slova
+
+> „Požadavky na místo porostu, okolí porostu a oblast produkce rozmnožovacího materiálu
+
+> i) *Candidatus* Phytoplasma *mali* Seemüller & Schneider
+
+> — rozmnožovací materiál a ovocné výpěstky základního rozmnožovacího materiálu se vyrábějí v oblastech, o nichž je známo, že jsou prosté organismu *Candidatus* Phytoplasma *mali* Seemüller & Schneider, nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích základního rozmnožovacího materiálu nesmí být během posledního ukončeného vegetačního období pozorovány žádné příznaky výskytu organismu *Candidatus* Phytoplasma *mali* Seemüller & Schneider a veškeré rostliny s příznaky napadení v bezprostřední blízkosti musí být odstraněny a neprodleně zničeny;
+
+> ii) *Erwinia amylovora* (Burrill) Winslow et al.
+
+> — rozmnožovací materiál a ovocné výpěstky základního rozmnožovacího materiálu se vyrábějí v oblastech, o nichž je známo, že jsou prosté organismu *Erwinia amylovora* (Burrill) Winslow et al., nebo
+
+> — rozmnožovací materiál a ovocné výpěstky základního rozmnožovacího materiálu v místě výroby musí být za poslední ukončené vegetační období podrobeny přehlídce a veškerý rozmnožovací materiál a ovocné výpěstky vykazující příznaky výskytu organismu *Erwinia amylovora* (Burrill) Winslow et al. a veškeré hostitelské rostliny v okolí musí být neprodleně odstraněny a zničeny.“.
+
+31\. V příloze č. 4 bodě 8 Malus Mill. se na konci písmene d) doplňují slova
+
+> „Požadavky na místo porostu, okolí porostu a oblast produkce rozmnožovacího materiálu
+
+> i) *Candidatus* Phytoplasma *mali* Seemüller & Schneider
+
+> — rozmnožovací materiál a ovocné výpěstky certifikovaného rozmnožovacího materiálu se vyrábějí v oblastech, o nichž je známo, že jsou prosté organismu *Candidatus* Phytoplasma *mali* Seemüller & Schneider nebo
+
+> — na rozmnožovacím materiálu a ovocných výpěstcích certifikovaného rozmnožovacího materiálu v místě výroby nesmí být za poslední ukončené vegetační období pozorovány žádné příznaky výskytu organismu *Candidatus* Phytoplasma *mali* Seemüller & Schneider a veškeré rostliny s příznaky napadení v bezprostřední blízkosti musí být odstraněny a neprodleně zničeny nebo
+
+> — příznaky výskytu organismu *Candidatus* Phytoplasma *mali* Seemüller & Schneider musí být za poslední ukončené vegetační období pozorovány nejvýše u 2 % rozmnožovacího materiálu a ovocných výpěstků certifikovaného rozmnožovacího materiálu v místě výroby a daný rozmnožovací materiál a dané ovocné výpěstky i veškeré rostliny s příznaky napadení v bezprostřední blízkosti musí být odstraněny a neprodleně zničeny a ze zbývajícího rozmnožovacího materiálu a ovocných výpěstků bez příznaků napadení v partiích, ve kterých byly nalezeny rozmnožovací materiál a ovocné výpěstky s příznaky napadení, byl odebrán reprezentativní vzorek a otestován a shledán prostým organismu *Candidatus* Phytoplasma *mali* Seemüller & Schneider;
+
+> ii) *Erwinia amylovora* (Burrill) Winslow *et al.*
+
+> — rozmnožovací materiál a ovocné výpěstky certifikovaného rozmnožovacího materiálu se vyrábějí v oblastech, o nichž je známo, že jsou prosté organismu *Erwinia amylovora* (Burrill) Winslow *et al.*, nebo
+
+> — rozmnožovací materiál a ovocné výpěstky certifikovaného rozmnožovacího materiálu v místě výroby musí být za poslední ukončené vegetační období podrobeny přehlídce a veškerý rozmnožovací materiál a ovocné výpěstky vykazující příznaky výskytu organismu *Erwinia amylovora* (Burrill) Winslow *et al.* a veškeré hostitelské rostliny v okolí musí být neprodleně odstraněny a zničeny.“.
+
+32\. V příloze č. 4 bodě 8 Malus Mill. se písmeno e) zrušuje.
+
+Dosavadní písmeno f) se označuje jako písmeno e).
+
+33\. V příloze č. 4 bodě 12 Pyrus L. písmenu b) bod i) zní:
+
+> „i) *Candidatus* Phytoplasma *pyri* Seemüller & Schneider
+
+> — rozmnožovací materiál a ovocné výpěstky předstupně se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Candidatus* Phytoplasma *pyri* Seemüller & Schneider v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích předstupně nesmí být během posledních tří vegetačních období pozorovány žádné příznaky výskytu organismu *Candidatus* Phytoplasma *pyri* Seemüller & Schneider a veškeré rostliny s příznaky napadení v bezprostřední blízkosti musí být odstraněny a neprodleně zničeny;“.
+
+34\. V příloze č. 4 bodě 12 Pyrus L. písmenu e) bod i) zní:
+
+> „i) *Candidatus* Phytoplasma *pyri* Seemüller & Schneider
+
+> — rozmnožovací materiál a ovocné výpěstky konformního (CAC) rozmnožovacího materiálu se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Candidatus* Phytoplasma *pyri* Seemüller & Schneider v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích konformního (CAC) rozmnožovacího materiálu nesmí být za poslední ukončené vegetační období pozorovány žádné příznaky výskytu organismu *Candidatus* Phytoplasma *pyri* Seemüller & Schneider a veškeré rostliny s příznaky napadení v bezprostřední blízkosti musí být odstraněny a neprodleně zničeny nebo
+
+> — rozmnožovací materiál a ovocné výpěstky konformního (CAC) rozmnožovacího materiálu v místě výroby a veškeré rostliny v bezprostřední blízkosti, které při vizuálních přehlídkách během posledních tří vegetačních období vykazovaly příznaky výskytu organismu *Candidatus* Phytoplasma *pyri* Seemüller & Schneider, musí být odstraněny a neprodleně zničeny;“.
+
+35\. V příloze č. 4 bodě 12 Pyrus L. písmenu f) bod i) zní:
+
+> „i) *Candidatus* Phytoplasma *pyri* Seemüller & Schneider
+
+> — rozmnožovací materiál a ovocné výpěstky konformního (CAC) rozmnožovacího materiálu se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Candidatus* Phytoplasma *pyri* Seemüller & Schneider v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích konformního (CAC) rozmnožovacího materiálu nesmí být za poslední ukončené vegetační období pozorovány žádné příznaky výskytu organismu *Candidatus* Phytoplasma *pyri* Seemüller & Schneider a veškeré rostliny s příznaky napadení v bezprostřední blízkosti musí být odstraněny a neprodleně zničeny nebo
+
+> — rozmnožovací materiál a ovocné výpěstky konformního (CAC) rozmnožovacího materiálu v místě výroby a veškeré rostliny v bezprostřední blízkosti, které při vizuálních přehlídkách během posledních tří vegetačních období vykazovaly příznaky výskytu organismu *Candidatus* Phytoplasma *pyri* Seemüller & Schneider, musí být odstraněny a neprodleně zničeny;“.
+
+36\. V příloze č. 4 bodě 15 Vaccinium L. se na konci písmene b) doplňuje bod iv), který zní:
+
+> „iv) *Phytophthora ramorum* (izoláty z EU) Werres, De Cock & Man in ’t Veld:
+
+> — rozmnožovací materiál a ovocné výpěstky základního rozmnožovacího materiálu se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích základního rozmnožovacího materiálu nesmí být během posledního ukončeného vegetačního cyklu pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld.“.
+
+37\. V příloze č. 4 bodě 15 Vaccinium L. se na konci písmene d) doplňuje bod iii), který zní:
+
+> „iii) *Phytophthora ramorum* (izoláty z EU) Werres, De Cock & Man in ’t Veld:
+
+> — rozmnožovací materiál a ovocné výpěstky certifikovaného rozmnožovacího materiálu se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — v místě výroby na rozmnožovacím materiálu a ovocných výpěstcích certifikovaného rozmnožovacího materiálu nesmí být během posledního ukončeného vegetačního cyklu pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld
+
+> nebo
+
+> —
+
+> — rozmnožovací materiál a ovocné výpěstky certifikovaného rozmnožovacího materiálu vykazující příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld v místě výroby a všechny rostliny v okruhu 2 m od rozmnožovacího materiálu a ovocných výpěstků s příznaky nakažení musí být odstraněny a zničeny, včetně ulpělé zeminy
+
+> a
+
+> — pro všechny rostliny v okruhu 10 m od rozmnožovacího materiálu a ovocných výpěstků s příznaky napadení a veškerý zbývající rozmnožovací materiál a ovocné výpěstky z napadené partie platí, že:
+
+> – během tří měsíců od zjištění rozmnožovacího materiálu a ovocných výpěstků s příznaky napadení nesmí být na daném rozmnožovacím materiálu a daných ovocných výpěstcích pozorovány při nejméně 2 přehlídkách ve vhodných termínech pro zjištění škodlivého organismu příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld a během tohoto tříměsíčního období nesmí být provedeno žádné ošetření potlačující příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld a
+
+> – po tomto tříměsíčním období:
+
+> – na daném rozmnožovacím materiálu a daných ovocných výpěstcích v místě výroby nesmí být pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld nebo
+
+> – reprezentativní vzorek daného rozmnožovacího materiálu a daných ovocných výpěstků určených k přemístění byl otestován a shledán prostým organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld
+
+> a
+
+> —
+
+> – u veškerého ostatního rozmnožovacího materiálu a ovocných výpěstků v místě výroby:
+
+> – na daném rozmnožovacím materiálu a daných ovocných výpěstcích v místě výroby nesmí být pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld nebo
+
+> – reprezentativní vzorek daného rozmnožovacího materiálu a daných ovocných výpěstků určených k přemístění byl otestován a shledán prostým organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld.“.
+
+38\. V příloze č. 4 se na konci bodu 15 Vaccinium L. doplňuje písmeno e), které zní:
+
+> „e) **Konformní (CAC) rozmnožovací materiál**
+
+> Požadavky na místo porostu, okolí porostu a oblast produkce rozmnožovacího materiálu
+
+> — *Phytophthora ramorum* (izoláty z EU) Werres, De Cock & Man in ’t Veld:
+
+> — rozmnožovací materiál a ovocné výpěstky konformního (CAC) rozmnožovacího materiálu se vyrábějí v oblastech uznaných příslušným orgánem za prosté organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld v souladu s příslušnými mezinárodními standardy pro fytosanitární opatření nebo
+
+> — na rozmnožovacím materiálu a ovocných výpěstcích konformního (CAC) rozmnožovacího materiálu v místě výroby nesmí být během posledního ukončeného vegetačního cyklu pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld.
+
+> nebo
+
+> – rozmnožovací materiál a ovocné výpěstky konformního (CAC) rozmnožovacího materiálu vykazující příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld v místě výroby a všechny rostliny v okruhu 2 m od rozmnožovacího materiálu a ovocných výpěstků s příznaky nakažení musí být odstraněny a zničeny, včetně ulpělé zeminy a
+
+> – pro všechny rostliny v okruhu 10 m od rozmnožovacího materiálu a ovocných výpěstků s příznaky napadení a veškerý zbývající rozmnožovací materiál a ovocné výpěstky z napadené partie platí, že:
+
+> **–**během 3 měsíců od zjištění rozmnožovacího materiálu a ovocných výpěstků s příznaky napadení nesmí být na daném rozmnožovacím materiálu a daných ovocných výpěstcích pozorovány při nejméně 2 přehlídkách ve vhodných termínech pro zjištění škodlivého organismu příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld a během tohoto tříměsíčního období nesmí být provedeno žádné ošetření potlačující příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld a po tomto tříměsíčním období:
+
+> – na daném rozmnožovacím materiálu a daných ovocných výpěstcích v místě výroby nesmí být pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld nebo
+
+> – reprezentativní vzorek daného rozmnožovacího materiálu a daných ovocných výpěstků určených k přemístění byl otestován a shledán prostým organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld
+
+> a
+
+> – u veškerého ostatního rozmnožovacího materiálu a ovocných výpěstků v místě výroby:
+
+> – na daném rozmnožovacím materiálu a daných ovocných výpěstcích nesmí být pozorovány žádné příznaky výskytu organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld nebo
+
+> – reprezentativní vzorek daného rozmnožovacího materiálu a daných ovocných výpěstků určených k přemístění byl otestován a shledán prostým organismu *Phytophthora ramorum* (izolátů z EU) Werres, De Cock & Man in ’t Veld.“.
+
+39\. Příloha č. 5 zní:
+
+> **„Příloha č. 5 k vyhlášce č. 96/2018 Sb.**
+
+> **Maximální povolený počet generací na poli v podmínkách nechráněných proti hmyzu a maximální povolená produkční životnost základních matečných rostlin podle jednotlivých rodů nebo druhů**
+
+> <table><tbody><tr><th rowspan="2">Rod nebo druh</th><th colspan="4">POČET GENERACÍ V RÁMCI KATEGORIE</th></tr><tr><th>Rozmnožovací materiál předstupňů</th><th>Základní rozmnožovací materiál</th><th>Základní <br> podnož</th><th>Certifikovaný <br> rozmnožovací <br> materiál</th></tr><tr><td><i>Castanea sativa</i> Mill.</td><td rowspan="13">1</td><td>2</td><td>3</td><td rowspan="13">1</td></tr><tr><td><i>Citrus </i>L., <i>Fortunella </i>Swingle a <i>Poncirus </i>Raf.</td><td>1</td><td>3</td></tr><tr><td><i>Corylus avellana </i>L.<i></i></td><td>2</td><td></td></tr><tr><td><i>Cydonia oblonga</i> Mill., <i>Malus</i> Mill., <i>Pyrus</i> L.<i></i></td><td>2</td><td>3</td></tr><tr><td><i>Ficus carica L.</i></td><td>2</td><td></td></tr><tr><td><i>Fragaria </i>L.<i></i></td><td>5</td><td></td></tr><tr><td><i>Juglans regia </i>L.<i></i></td><td>2</td><td></td></tr><tr><td><i>Olea europaea </i>L.<i></i></td><td>1</td><td></td></tr><tr><td><i>Prunus armeniaca </i>L., <i>Prunus domestica </i>L., <i>Prunus <br> dulcis</i> (Mill.) D. A. Webb, <i>Prunus <br> persica </i>(L.) Batsch a <i>Prunus salicina </i>Lindl.<i></i></td><td>2</td><td>3</td></tr><tr><td><i>Prunus avium, Prunus cerasus</i></td><td>2</td><td>3</td></tr><tr><td><i>Ribes L.</i></td><td>3 <br> (životnost jedné generace <br> nejvýše 6 let)</td><td>3</td></tr><tr><td><i>Rubus L.</i></td><td>2 <br> (životnost jedné generace <br> nejvýše 4 roky)</td><td><i></i></td></tr><tr><td><i>Vaccinium L.</i></td><td>2</td><td><i></i></td></tr></tbody></table>
+
+> Pokud jsou podnože přímo vegetativně množeny ze základní matečné rostliny první generace, uznávají se jako podnože s označením E I.“.
+
+40\. V příloze č. 6 části 1 tabulka č. 6.1 zní:
+
+> **„Tabulka č. 6.1**
+
+> <table><tbody><tr><th colspan="14"><b>Líska, kdouloň, ořešák vlašský, jabloň, mandloň, meruňka, třešeň, višeň, slivoň, broskvoň, hrušeň, angrešt, rybíz, maliník, ostružiník, borůvka</b></th></tr><tr><th colspan="5"><b>Skupina porostů</b></th><th colspan="4"><b>První přehlídka v době</b></th><th colspan="5"><b>Další přehlídky</b></th></tr><tr><td colspan="5">Semenné stromy a keře ovocných rodů a druhů</td><td colspan="4">Před sklizní plodů</td><td colspan="5">-----------------------</td></tr><tr><td colspan="5">Matečné roubové stromy <br> a keře ovocných rodů a druhů</td><td colspan="4">od 1. května do sklizně letních roubů a řízků</td><td colspan="5">Před dozráváním plodů <br> (kde je to přípustné)</td></tr><tr><td colspan="5">Zaškolkované podnože, jednoleté školkařské výpěstky, víceleté školkařské výpěstky k expedici</td><td colspan="4">od 1. června <br> do 31. července</td><td colspan="5">od 1. července <br> do 30. září</td></tr><tr><td colspan="5">Maliník a ostružiník</td><td colspan="4">od 1. května <br> do 31. července</td><td colspan="5">od 1. července <br> do 30. září</td></tr><tr><td colspan="5">Podnože generativní <br> a vegetativní</td><td colspan="4">od 1. května <br> do 31. srpna</td><td colspan="5">od 1. července <br> do 30. listopadu</td></tr><tr><td>a)</td><td colspan="13">Rozmnožovací materiál pěstovaný v laboratorních nebo skleníkových podmínkách se přehlíží před uváděním do oběhu.</td></tr><tr><td>b)</td><td colspan="13">U semenných stromů a keřů a u matečných roubových stromů a keřů v kategorii předstupně se první uznávací řízení provádí ve věku, kdy je možno ověřit pravost odrůdy na plodících rostlinách stejného původu, které jsou vysázeny mimo technickou izolaci.</td></tr><tr><td>c)</td><td colspan="13">Materiál pěstovaný v kontejnerech se přehlíží před expedicí.</td></tr></tbody></table> “.
+>
+> “.
+
+41\. V příloze č. 6 nadpisu bodu 2 se za slovo „předplodiny“ doplňují slova „uznávaného rozmnožovacího materiálu“.
+
+42\. V příloze č. 6 nadpisu bodu 3 se za slovo „vlastnosti“ vkládá slovo „uznávaného“.
+
+43\. V příloze č. 6 části 3 tabulce č. 6.9 písmenu a) bodě 2 řádku „Výpěstky s korunkou“ se číslo „30“ nahrazuje číslem „25“.
+
+44\. V příloze č. 6 části 3 tabulce č. 6.9 písmenu a) bodě 3 řádku „Všechny druhy“ se číslo „30“ nahrazuje číslem „25“.
+
+45\. Příloha č. 7 zní:
+
+> **„Příloha č. 7 k vyhlášce č. 96/2018 Sb.**
+
+> Termíny pro podání žádosti o uznání množitelského porostu a rozmnožovacího materiálu pěstovaného v polních podmínkách a termíny oznámení o rozsahu výroby konformního rozmnožovacího materiálu ovocných rodů a druhů a materiálu uváděného do oběhu za zvláštních podmínek podle jednotlivých skupin porostů
+
+> <table><tbody><tr><th>Termín podání</th><th>Název skupiny porostů</th></tr><tr><td rowspan="5">do 30. dubna</td><td>Jahodník</td></tr><tr><td>Semenné stromy a keře ovocných rodů a druhů</td></tr><tr><td>Podnože generativní a vegetativní</td></tr><tr><td>Matečné roubové stromy a keře ovocných rodů a druhů</td></tr><tr><td>Maliník a ostružiník</td></tr><tr><td rowspan="3">do 31. května</td><td>Zaškolkované podnože</td></tr><tr><td>Jednoleté školkařské výpěstky k expedici</td></tr><tr><td>Víceleté školkařské výpěstky k expedici</td></tr><tr><td>Nejpozději 14 dnů před expedicí</td><td>Kontejnerované a balíčkované rostliny, rostliny pěstované in vitro</td></tr></tbody></table> “.
+>
+> “.
+
+### Čl. II – Přechodné ustanovení
+
+Rozmnožovací materiál ovocných rodů a druhů pocházející z matečných porostů, které existovaly přede dnem 1. ledna 2017 a byly uznány nebo splňují podmínky pro konformní rozmnožovací materiál přede dnem 31. prosince 2029, lze na území České republiky uvádět do oběhu nejdéle do 31. prosince 2029 za předpokladu, že na návěsce a v průvodním dokladu bude vyznačeno, že se jedná o rozmnožovací materiál uváděný do oběhu podle čl. 32 prováděcí směrnice Komise 2014/98/EU.
+
+## ČÁST DRUHÁ – Změna vyhlášky o množitelských porostech a rozmnožovacím materiálu chmele, révy a okrasných druhů a jeho uvádění do oběhu
+
+### Čl. III
+
+Vyhláška č. 386/2022 Sb., o množitelských porostech a rozmnožovacím materiálu chmele, révy a okrasných druhů a jeho uvádění do oběhu, se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Prováděcí směrnice Komise (EU) 2022/2438 ze dne 12. prosince 2022, kterou se mění směrnice 93/49/EHS a prováděcí směrnice 2014/98/EU, pokud jde o regulované nekaranténní škodlivé organismy pro Unii na rozmnožovacím materiálu okrasných rostlin, rozmnožovacím materiálu ovocných rostlin a ovocných rostlinách určených k produkci ovoce.“.
+
+2\. V příloze č. 4 se pod řádek „Erwinia amylovora (Burrill) Winslow et al. [ERWIAM]“ vkládá řádek, který zní:
+
+> „
+>
+> | *Pseudomonas* <br> *syringae* pv. *actinidiae* Takikawa, Serizawa, Ichikawa, Tsuyumu & Goto [PSDMAK] | Rostliny k pěstování, kromě osiva *Actinidia* Lindl. | 0 % |
+> |---|---|---|
+>
+> “.
+
+3\. V příloze č. 4 se pod řádek „Lecanosticta acicola (von Thumen) Sydow [SCIRAC]“ vkládá řádek, který zní:
+
+> „
+>
+> <table><tbody><tr><td rowspan="3"><i>Phytophthora</i><br><i>ramorum</i> (izoláty z EU) <br> Werres, De Cock &amp; Man in ’t Veld [PHYTRA]</td><td rowspan="3">Rostliny k pěstování, kromě pylu <br> a osiva<br><i>Camellia</i> L., <i>Castanea sativa</i> Mill., <i>Fraxinus excelsior</i> L.,<br><i>Larix decidua</i> Mill., <i>Larix kaempferi </i>(Lamb.) Carrière, <i>Larix x eurolepis</i> A. Henry, <i>Pseudotsuga menziesii</i><br> (Mirb.) Franco, <i>Quercus cerris</i> L., <i>Quercus ilex</i> L., <i>Quercus rubra</i> L., <i>Rhododendron</i> L. kromě <i>R. simsii</i> L., <i>Viburnum</i> L.</td><td rowspan="3">0 %</td></tr><tr></tr><tr></tr></tbody></table> “.
+>
+> “.
+
+## ČÁST TŘETÍ – ZRUŠOVACÍ USTANOVENÍ
+
+### Čl. IV
+
+Vyhláška č. 366/2020 Sb., kterou se mění vyhláška č. 332/2006 Sb., o množitelských porostech a rozmnožovacím materiálu chmele, révy, ovocných rodů a druhů a okrasných druhů a jeho uvádění do oběhu, ve znění pozdějších předpisů, a vyhláška č. 96/2018 Sb., o množitelských porostech a rozmnožovacím materiálu ovocných rodů a druhů a jeho uvádění do oběhu, ve znění vyhlášky č. 138/2020 Sb., se zrušuje.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. V
+
+Tato vyhláška nabývá účinnosti dnem 30. června 2023.
+
+Ministr zemědělství:
+
+Ing. Nekula v. r.

@@ -1,0 +1,147 @@
+---
+title: "Nařízení vlády č. 144/2018 Sb., kterým se mění nařízení vlády č. 211/2010 Sb., o soustavě oborů vzdělání v základním, středním a vyšším odborném vzdělávání, ve znění pozdějších předpisů"
+identifier: "144/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/144/2018-08-10"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2018-06-13
+effective: 2018-08-10
+last_amended: 2018-08-10
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/144"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 144/2018 Sb., kterým se mění nařízení vlády č. 211/2010 Sb., o soustavě oborů vzdělání v základním, středním a vyšším odborném vzdělávání, ve znění pozdějších předpisů
+
+144
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 13. června 2018,
+
+kterým se mění nařízení vlády č. 211/2010 Sb., o soustavě oborů vzdělání v základním, středním a vyšším odborném vzdělávání, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 3 odst. 5 a § 58 odst. 5 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění zákona č. 472/2011 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 211/2010 Sb., o soustavě oborů vzdělání v základním, středním a vyšším odborném vzdělávání, ve znění nařízení vlády č. 367/2012 Sb., nařízení vlády č. 167/2014 Sb. a nařízení vlády č. 197/2015 Sb., se mění takto:
+
+1\. V příloze č. 1 oddíle D části D2 bodě 53 se řádek
+
+> „
+>
+> | | 53-41-M/01 | Zdravotnický asistent | 53-41-M/007 | Zdravotnický asistent | 1, 4, 7a, 8a, 9a, 11, 16, 21, 23 | 2. etapa<sup>2</sup>) |
+> |---|---|---|---|---|---|---|
+>
+> “
+
+nahrazuje řádkem
+
+> „
+>
+> | | 53-41-M/01 | Zdravotnický asistent | 53-41-M/007 | Zdravotnický asistent | 1, 4, 7a, 8a, 9a, 11, 16, 21, 23 | <sup>13</sup>) |
+> |---|---|---|---|---|---|---|
+>
+> “.
+
+2\. V příloze č. 1 oddíle D části D2 bodě 53 se za řádek
+
+> „
+>
+> | | 53-41-M/02 | Nutriční asistent | 53-41-M/008 | Nutriční asistent | 9a, 23, 26, 27 | 3. etapa<sup>3</sup>) |
+> |---|---|---|---|---|---|---|
+>
+> “
+
+vkládají řádky
+
+> „
+>
+> | | 53-41-M/03 | Praktická sestra | 53-41-M/01 | Zdravotnický asistent | 1, 4, 7a, 8a, 9a, 11, 16, 21, 23 | <sup>14</sup>) |
+> |---|---|---|---|---|---|---|
+> | | 53-41-M/04 | Masér ve zdravotnictví | | | 7a, 8a, 9a, 16, 23, 26 | <sup>14</sup>) |
+>
+> “.
+
+3\. V příloze č. 1 oddíle D se na konci části D2 doplňují poznámky k tabulce D2 č. 13 a 14, které znějí:
+
+> „<sup>13</sup>) Platnost oboru vzdělání se ukončuje k 1. září 2019 počínaje 1. ročníkem.
+
+> <sup>14</sup>) Obor vzdělání poskytující střední vzdělání s maturitní zkouškou s platností od školního roku 2018/2019 počínaje 1. ročníkem.“.
+
+4\. V příloze č. 1 oddíle E části E2 bodě 53 se řádek
+
+> „
+>
+> | | 53-41-N/2. | Diplomovaný zdravotnický záchranář | 4, 7a, 8a, 9a, 16, 23 | |
+> |---|---|---|---|---|
+>
+> “
+
+nahrazuje řádkem
+
+> „
+>
+> | | 53-41-N/2. | Diplomovaný zdravotnický záchranář | 4, 7a, 8a, 9a, 16, 23 | <sup>4</sup>) |
+> |---|---|---|---|---|
+>
+> “.
+
+5\. V příloze č. 1 oddíle E části E2 bodě 53 se za řádek
+
+> „
+>
+> | | 53-41-N/4. | Diplomovaný nutriční terapeut | 4, 7a, 8a, 9a, 16, 23 | |
+> |---|---|---|---|---|
+>
+> “
+
+vkládá řádek
+
+> „
+>
+> | | 53-41-N/5. | Diplomovaná dětská sestra | 4, 7a, 8a, 9a, 16, 23 | <sup>5</sup>) |
+> |---|---|---|---|---|
+>
+> “.
+
+6\. V příloze č. 1 oddíle E části E2 bodě 53 se řádek
+
+> „
+>
+> | | 53-44-N/3. | Diplomovaný ortotik-protetik | 4, 7a, 8a, 9a, 16, 23 | |
+> |---|---|---|---|---|
+>
+> “
+
+nahrazuje řádkem
+
+> „
+>
+> | | 53-44-N/3. | Diplomovaný ortotik-protetik | 4, 7a, 8a, 9a, 16, 23 | <sup>6</sup>) |
+> |---|---|---|---|---|
+>
+> “.
+
+7\. V příloze č. 1 oddíle E se na konci části E2 doplňují poznámky k tabulce E2 č. 4 až 6, které znějí:
+
+> „<sup>4</sup>) Platnost oboru vzdělání se ukončuje k 1. září 2019 počínaje 1. ročníkem.
+
+> <sup>5</sup>) Obor vzdělání poskytující vyšší odborné vzdělávání s platností od školního roku 2018/2019 počínaje 1. ročníkem.
+
+> <sup>6</sup>) Platnost oboru vzdělání se ukončuje k 1. září 2018.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr školství, mládeže a tělovýchovy:
+
+Ing. Plaga, Ph.D., v. r.

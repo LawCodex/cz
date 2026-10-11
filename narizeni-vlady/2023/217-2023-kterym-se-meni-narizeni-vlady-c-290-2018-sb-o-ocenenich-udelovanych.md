@@ -1,0 +1,44 @@
+---
+title: "Nařízení vlády č. 217/2023 Sb., kterým se mění nařízení vlády č. 290/2018 Sb., o oceněních udělovaných Ministerstvem zahraničních věcí"
+identifier: "217/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/217/2023-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2023-06-14
+effective: 2023-07-01
+last_amended: 2023-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/217"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 217/2023 Sb., kterým se mění nařízení vlády č. 290/2018 Sb., o oceněních udělovaných Ministerstvem zahraničních věcí
+
+217
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. června 2023,
+
+kterým se mění nařízení vlády č. 290/2018 Sb., o oceněních udělovaných Ministerstvem zahraničních věcí
+
+Vláda nařizuje podle § 49 odst. 6 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 26/2008 Sb.:
+
+## Čl. I
+
+V § 4 nařízení vlády č. 290/2018 Sb., o oceněních udělovaných Ministerstvem zahraničních věcí, odstavec 4 zní:
+
+> „(4) Plastika má podobu symbolického pečetidla ve formě skleněného hranolu s oblou broušenou zadní hranou. Velký státní znak, text „Česká republika“ a rok udělení jsou zrcadlově vypískovány ve vyleštěné spodní části pečetidla, nápis „GRATIAS AGIT“ je vypískován směrem odshora dolů na vyleštěné vertikální přední hraně pečetidla.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. července 2023.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Ministr zahraničních věcí:
+
+Bc. Lipavský v. r.

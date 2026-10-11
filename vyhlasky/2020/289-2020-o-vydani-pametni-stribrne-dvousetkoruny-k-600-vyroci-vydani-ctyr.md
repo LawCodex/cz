@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 289/2020 Sb., o vydání pamětní stříbrné dvousetkoruny k 600. výročí vydání čtyř pražských artikulů"
+identifier: "289/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/289/2020-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-06-17
+effective: 2020-07-01
+last_amended: 2020-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/289"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 289/2020 Sb., o vydání pamětní stříbrné dvousetkoruny k 600. výročí vydání čtyř pražských artikulů
+
+289
+
+VYHLÁŠKA
+
+ze dne 17. června 2020
+
+o vydání pamětní stříbrné dvousetkoruny k 600. výročí vydání čtyř pražských artikulů
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb. a zákona č. 89/2018 Sb.:
+
+## § 1
+
+(1) Dnem 1. července 2020 se k 600. výročí vydání čtyř pražských artikulů vydává pamětní stříbrná mince po 200 Kč (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,1 mm. Při ražbě dvousetkoruny je přípustná odchylka v obsahu stříbra nahoru 1 %, odchylka v hmotnosti nahoru 0,26 g, odchylka v průměru 0,1 mm a odchylka v síle 0,15 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.925 \* 13 g \*“.
+
+## § 2
+
+(1) Na lícní straně dvousetkoruny je vyobrazena skupina osob u kulatého stolu. Při horním okraji mince je umístěn text „ČESKÁ REPUBLIKA“. Označení nominální hodnoty se zkratkou peněžní jednotky „200 Kč“ a značka České mincovny tvořená písmeny „Č“ a „M“ se nachází při spodním okraji mince.
+
+(2) Na rubové straně dvousetkoruny jsou vyobrazeny symboly jednotlivých artikulů, a to svobodného hlásání slova božího, přijímání z kalicha, konec světského panování kněží a trestání smrtelných hříchů. Tyto artikuly jsou doplněny kompozicí husitských zbraní, která je umístěna uprostřed mince. Při horním okraji mince je umístěn text „ČTYŘI PRAŽSKÉ ARTIKULY“. Při spodním okraji mince se nachází text „1420 • 2020“. Iniciály autora mince, akademického sochaře Michala Vitanovského, které jsou tvořeny spojenými písmeny „MV“, jsou umístěny při pravém okraji mince.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2020.
+
+Guvernér:
+
+Ing. Rusnok v. r.
+
+### Příloha k vyhlášce č. 289/2020 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny k 600. výročí vydání čtyř pražských artikulů
+
+(lícní a rubová strana)
+
+##### ![sbcr2020c111z0289p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/874831/NAHLED/ZOBRAZ/sbcr2020c111z0289p001o001)
+
+##### ![sbcr2020c111z0289p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/874833/NAHLED/ZOBRAZ/sbcr2020c111z0289p001o002)

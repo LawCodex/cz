@@ -1,0 +1,62 @@
+---
+title: "Vyhláška č. 150/2024 Sb., kterou se mění vyhláška č. 189/2015 Sb., o postupu při služebním hodnocení vojáků a jeho hlediscích"
+identifier: "150/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/150/2024-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-06-05
+effective: 2024-07-01
+last_amended: 2024-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/150"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 150/2024 Sb., kterou se mění vyhláška č. 189/2015 Sb., o postupu při služebním hodnocení vojáků a jeho hlediscích
+
+150
+
+VYHLÁŠKA
+
+ze dne 5. června 2024,
+
+kterou se mění vyhláška č. 189/2015 Sb., o postupu při služebním hodnocení vojáků a jeho hlediscích
+
+Ministerstvo obrany stanoví podle § 17 odst. 5 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 332/2014 Sb.:
+
+## Čl. I
+
+Vyhláška č. 189/2015 Sb., o postupu při služebním hodnocení vojáků a jeho hlediscích, se mění takto:
+
+1\. § 4 včetně nadpisu zní:
+
+> **„§ 4 – Způsob hodnocení vojáka**
+
+> (1) Při hodnocení hodnotitel sečte vojákem získané body v jednotlivých oblastech a následně vypočte jejich procentuální podíl z celkového možného počtu bodů. Výsledek zaokrouhlí na celá procenta nahoru.
+
+> (2) Voják je podle procentuálního podílu hodnocen
+
+> a) jako výtečný, pokud se procentuální podíl podle odstavce 1 pohybuje v rozpětí 86 až 100 procent,
+
+> b) jako velmi dobrý, pokud se procentuální podíl podle odstavce 1 pohybuje v rozpětí 64 až 85 procent nebo vyšším, ale v některé hodnocené oblasti získal méně než 3 body,
+
+> c) jako dobrý, pokud se procentuální podíl podle odstavce 1 pohybuje v rozpětí 46 až 63 procent nebo vyšším, ale v některé hodnocené oblasti získal méně než 1 bod,
+
+> d) jako vyhovující, pokud se procentuální podíl podle odstavce 1 pohybuje v rozpětí 30 až 45 procent, nebo
+
+> e) jako nevyhovující, pokud se procentuální podíl podle odstavce 1 pohybuje v rozpětí 0 až 29 procent; takový voják je nezpůsobilý pro další výkon služby.“.
+
+2\. Příloha zní:
+
+> **„Příloha**
+
+> **![sbcr2024c150z0150u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1025445/NAHLED/ZOBRAZ/sbcr2024c150z0150u001)“.**
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2024.
+
+Ministryně obrany:
+
+Mgr. Černochová v. r.

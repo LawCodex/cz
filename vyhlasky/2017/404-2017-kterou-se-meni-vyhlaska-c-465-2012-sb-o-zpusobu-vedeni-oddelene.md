@@ -1,0 +1,70 @@
+---
+title: "Vyhláška č. 404/2017 Sb., kterou se mění vyhláška č. 465/2012 Sb., o způsobu vedení oddělené evidence nákladů a výnosů držitele poštovní licence"
+identifier: "404/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/404/2018-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-11-28
+effective: 2018-01-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/404"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 404/2017 Sb., kterou se mění vyhláška č. 465/2012 Sb., o způsobu vedení oddělené evidence nákladů a výnosů držitele poštovní licence
+
+404
+
+VYHLÁŠKA
+
+ze dne 28. listopadu 2017,
+
+kterou se mění vyhláška č. 465/2012 Sb., o způsobu vedení oddělené evidence nákladů a výnosů držitele poštovní licence
+
+Český telekomunikační úřad stanoví podle § 41 odst. 1 zákona č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění zákona č. 221/2012 Sb., zákona č. 212/2013 Sb. a zákona č. 319/2015 Sb., k provedení § 33a odst. 2:
+
+## Čl. I
+
+Vyhláška č. 465/2012 Sb., o způsobu vedení oddělené evidence nákladů a výnosů držitele poštovní licence, se mění takto:
+
+1\. § 4 včetně nadpisu zní:
+
+> **„§ 4 – Přiměřený zisk**
+
+> Přiměřený zisk držitele poštovní licence se stanoví ve výši 6,36 % z ekonomicky oprávněných nákladů přiřazených základním poštovním službám a službám spojeným s přístupem k poštovní infrastruktuře.“.
+
+2\. Příloha zní:
+
+> **„Příloha k vyhlášce č. 465/2012 Sb.**
+
+> **Výkazy - výsledky oddělené evidence nákladů a výnosů**
+
+> **Tabulka č. 1: Náklady a výnosy podle činnosti**
+
+> **![sbcr2017c143z0404p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885129/NAHLED/ZOBRAZ/sbcr2017c143z0404p001u001)**
+
+> **Tabulka č. 2: Náklady služeb v druhovém členění a výnosy podle služeb**
+
+> **![sbcr2017c143z0404p001u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885131/NAHLED/ZOBRAZ/sbcr2017c143z0404p001u002)**
+
+> **Tabulka č. 3: Náklady služeb podle technologie zpracování a výnosy podle služeb**
+
+> **![sbcr2017c143z0404p001u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885133/NAHLED/ZOBRAZ/sbcr2017c143z0404p001u003)**
+
+> **Tabulka č. 4: Náklady na jednotlivé typy režijních nákladů**
+
+> **![sbcr2017c143z0404p001u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885135/NAHLED/ZOBRAZ/sbcr2017c143z0404p001u004)**
+
+> **Tabulka č. 5: Náklady, které se nepřiřazují, a nekalkulované výnosy**
+
+> **![sbcr2017c143z0404p001u005.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885137/NAHLED/ZOBRAZ/sbcr2017c143z0404p001u005)**
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2018.
+
+Předseda Rady:
+
+Ing. Mgr. Novák v. r.

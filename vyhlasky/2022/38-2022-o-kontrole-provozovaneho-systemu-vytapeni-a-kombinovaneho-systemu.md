@@ -1,0 +1,425 @@
+---
+title: "Vyhláška č. 38/2022 Sb., o kontrole provozovaného systému vytápění a kombinovaného systému vytápění a větrání"
+identifier: "38/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/38/2022-03-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-02-22
+effective: 2022-03-01
+last_amended: 2022-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/38"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 38/2022 Sb., o kontrole provozovaného systému vytápění a kombinovaného systému vytápění a větrání
+
+38
+
+VYHLÁŠKA
+
+ze dne 22. února 2022
+
+o kontrole provozovaného systému vytápění a kombinovaného systému vytápění a větrání
+
+Ministerstvo průmyslu a obchodu stanoví podle § 14 odst. 4 zákona č. 406/2000 Sb., o hospodaření energií, ve znění zákona č. 165/2012 Sb., zákona č. 318/2012 Sb., zákona č. 310/2013 Sb. a zákona č. 103/2015 Sb., (dále jen „zákon“) k provedení § 6a odst. 6 zákona:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška zapracovává příslušný předpis Evropské unie<sup>1</sup>) a upravuje
+
+a) způsob určení jmenovitého výkonu provozovaného systému vytápění nebo kombinovaného systému vytápění a větrání,
+
+b) rozsah, četnost a způsob provádění kontroly systému vytápění a kombinovaného systému vytápění a větrání,
+
+c) vzor a obsah zprávy o kontrole systému vytápění a
+
+d) požadavky na automatizační a řídicí systém budovy.
+
+## § 2 – Zdroj tepla
+
+Pro účely této vyhlášky se rozumí zdrojem tepla část systému vytápění nebo kombinovaného systému vytápění a větrání, která vyrábí tepelnou energii k ohřevu kapaliny nebo vzduchu určeného pro prostorové vytápění pomocí
+
+1\. spalování paliv,
+
+2\. přímé přeměny elektrické energie na tepelnou energii,
+
+3\. využití energie prostředí nebo zpětného získávání tepla ze vzduchu odváděného z budovy tepelným čerpadlem,
+
+4\. změny vlnové délky elektromagnetického záření, nebo
+
+5\. přímého využití energie prostředí.
+
+## § 3 – Způsob určení jmenovitého výkonu provozovaného systému vytápění nebo kombinovaného systému vytápění a větrání
+
+Jmenovitý výkon provozovaného systému vytápění nebo kombinovaného systému vytápění a větrání se určí jako součet jmenovitých výkonů všech instalovaných zdrojů tepla nebo přípojných výkonů odběrného místa soustavy zásobování tepelnou energií. Pro obytné budovy se uvažují pouze zdroje, které zásobují teplem více než jednu jednotku.
+
+## § 4 – Rozsah a četnost kontroly systému vytápění nebo kombinovaného systému vytápění a větrání
+
+(1) Kontrola systému vytápění nebo kombinovaného systému vytápění a větrání se vztahuje na přístupné části zdroje tepla s výjimkou zdroje tepla, který je výhradně využíván pro technologické procesy, systém rozvodu a sdílení tepelné energie, systém regulace a automatizační a řídicí systém. V případě kombinovaného systému vytápění a větrání se kontrola vztahuje také na systém nuceného větrání, pokud je jeho součástí ohřev vzduchu. Kontrola systému nuceného větrání se neprovádí, pokud tato kontrola byla v budově provedena již v rámci kontroly systému klimatizace a kombinovaných systémů klimatizace a větrání podle právního předpisu upravujícího kontrolu provozovaných systémů klimatizace a kombinovaných systémů klimatizace a větrání.
+
+(2) Kontrola systému vytápění nebo kombinovaného systému vytápění a větrání nově uvedeného do provozu musí být provedena do 3 let od uvedení do provozu. Následně se provádí kontrola v četnosti podle odstavce 3.
+
+(3) U již provozovaného systému vytápění nebo kombinovaného systému vytápění a větrání musí být kontrola prováděna pravidelně, a to nejméně jednou za 5 let.
+
+## § 5 – Způsob provádění kontroly systému vytápění nebo kombinovaného systému vytápění a větrání
+
+(1) Kontrola systému vytápění nebo kombinovaného systému vytápění a větrání se provádí za typických podmínek provozu.
+
+(2) Kontrola systému vytápění nebo kombinovaného systému vytápění a větrání obsahuje hodnocení
+
+a) dimenzování podle § 6 a
+
+b) provozních parametrů podle § 7.
+
+(3) Energetický specialista nebo osoba podle § 6a odst. 4 písm. b) zákona (dále jen „energetický specialista“) se zadavatelem kontroly systému vytápění nebo kombinovaného systému vytápění a větrání stanoví plán kontroly systému vytápění nebo kombinovaného systému vytápění a větrání, který je formulován na základě jeho vizuální kontroly a analýzy dostupných podkladů.
+
+(4) Podklady k provozování systému vytápění nebo kombinovaného systému vytápění a větrání si vyžádá energetický specialista od vlastníka budovy, společenství vlastníků jednotek nebo v případě, že společenství vlastníků jednotek nevzniklo, správce.
+
+(5) Plán kontroly systému vytápění nebo kombinovaného systému vytápění a větrání obsahuje soupis doporučení a podmínek k provedení hodnocení systému vytápění nebo kombinovaného systému vytápění a větrání.
+
+## § 6 – Způsob hodnocení dimenzování
+
+(1) Energetický specialista provádí hodnocení dimenzování provozovaného systému vytápění nebo kombinovaného systému vytápění a větrání podle projektové dokumentace zpracované podle právního předpisu upravujícího dokumentaci staveb<sup>2</sup>). Jestliže není k dispozici tato projektová dokumentace, provede energetický specialista kontrolu výpočtem podle přílohy č. 1 k této vyhlášce.
+
+(2) Posouzení dimenzování systému vytápění nebo kombinovaného systému vytápění a větrání se neprovádí, pokud
+
+a) v době od poslední kontroly nebyla provedena větší změna dokončené budovy nebo změna na zařízeních systému vytápění nebo kombinovaného systému vytápění a větrání,
+
+b) je systém vytápění nebo kombinovaného systému vytápění a větrání vybaven spalovacím zdrojem tepla s výkonem plynule regulovatelným minimálně do 30 % svého jmenovitého výkonu a je napojen na automatizační a řídicí systém budovy schopný regulace bez následného sběru a vyhodnocování dat, nebo
+
+c) zdroj tepla dodává tepelnou energii také pro technologické účely a tato dodávka není měřena.
+
+(3) U systému nuceného větrání se provádí kontrola průtoku přiváděného vzduchu s ohledem na dosažení požadované kvality vnitřního vzduchu. Kvalita vzduchu se posuzuje na základě měření nebo dávky přiváděného vzduchu na osobu. Dávka přiváděného vzduchu se stanovuje podle počtu osob, vývinu škodlivin nebo jiného požadavku na větrání.
+
+## § 7 – Způsob hodnocení provozních parametrů
+
+(1) Pokud je systém vytápění nebo kombinovaného systému vytápění a větrání vybaven automatizačním a řídicím systémem schopným regulace bez následného sběru a vyhodnocování dat, provádí energetický specialista pouze vizuální hodnocení provozních parametrů systému vytápění. V případě spalovacích zdrojů tepla se zároveň provede kontrola provozního parametru podle odstavce 2 písm. a).
+
+(2) Provozní parametry hodnotí energetický specialista
+
+a) ověřením účinnosti zdroje tepla přímou metodou podle přílohy č. 2 k této vyhlášce; jestliže není možné použít přímou metodu, ověří se účinnost spalovacího zdroje tepla nepřímou metodou v rozsahu podle přílohy č. 2 k této vyhlášce; nelze-li z technických důvodů použít přímou ani nepřímou metodu, energetický specialista tyto technické důvody popíše a provede odborný odhad,
+
+b) na základě vizuální prohlídky přístupných částí rozvodů tepelné energie a regulačních prvků,
+
+c) na základě vizuální prohlídky přístupných zařízení pro sdílení tepla a kontrolou jejich provozuschopnosti,
+
+d) na základě vizuální prohlídky přístupných zařízení systému nuceného větrání a kontrolou jejich provozuschopnosti,
+
+e) kontrolou provozních podmínek zařízení systému nuceného větrání, minimálně s ohledem na nastavení případných snížení průtoků vzduchu v době, kdy se prostor plně nevyužívá,
+
+f) ověřením termohydraulického vyvážení systému vytápění z protokolu o jeho provedení, jestliže bylo od poslední kontroly provedeno.
+
+(3) Jestliže nejsou doloženy podklady prokazující plnění parametrů teplonosné kapaliny, může energetický specialista provést ověření její kvality podle přílohy č. 3 k této vyhlášce.
+
+## § 8 – Obsah a vzor zprávy o kontrole systému vytápění nebo kombinovaného systému vytápění a větrání
+
+(1) Zpráva o kontrole systému vytápění nebo kombinovaného systému vytápění a větrání obsahuje
+
+a) identifikační údaje vlastníka budovy, společenství vlastníků jednotek nebo v případě, že společenství vlastníků jednotek nevzniklo, správce, zadavatele, energetického specialisty a evidenční číslo zprávy o kontrole systému vytápění z evidence ministerstva o provedených činnostech energetických specialistů, v rozsahu podle vzoru zprávy o kontrole systému vytápění uvedeného v příloze č. 4 k této vyhlášce,
+
+b) identifikační údaje budovy, její popis a popis předmětu kontroly,
+
+c) závěry z provedené kontroly, včetně doporučení a možností ke zvýšení energetické účinnosti systému vytápění navržených energetickým specialistou,
+
+d) hodnocení dimenzování, provozních parametrů a nastavení a funkčnosti automatizačního a řídicího systému, jestliže je součástí systému vytápění,
+
+e) seznam doporučení pro zajištění energeticky účinného provozu kontrolovaného systému vytápění nebo kombinovaného systému vytápění a větrání a návrh dalších možností směřujících k efektivnímu nakládání s energií v rozsahu podle přílohy č. 4 k této vyhlášce,
+
+f) přílohu zprávy o kontrole systému vytápění nebo kombinovaného systému vytápění a větrání, která obsahuje alespoň
+
+1\. seznam všech vyžádaných a poskytnutých podkladů,
+
+2\. plán kontroly systému vytápění podle § 5 odst. 3,
+
+3\. fotodokumentaci z vizuální kontroly,
+
+4\. soubor výpočtů, měření a hodnocení dimenzování a účinnosti zdroje tepla,
+
+5\. hodnocení dimenzování a provozních podmínek zařízení systému nuceného větrání.
+
+(2) Vzor zprávy o kontrole systému vytápění nebo kombinovaného systému vytápění a větrání je uveden v příloze č. 4 k této vyhlášce.
+
+## § 9 – Požadavky na automatizační a řídicí systém budovy
+
+(1) Automatizační a řídicí systém obytné budovy, na kterou se nevztahuje povinnost zajištění provozovaného systému vytápění budovy nebo kombinovaného systému vytápění a větrání budovy, musí být vybaven
+
+a) funkcí průběžného elektronického monitorování, které vyhodnocuje efektivitu provozu systémů a upozorňuje a poskytuje informaci v případě výrazného poklesu efektivity a v případě nutnosti provedení údržby, a umožňuje ukládání výstupů z měření spotřeby energie alespoň po dobu 12 měsíců,
+
+b) řízením pro zajištění optimální výroby, distribuce, skladování a užití energie.
+
+(2) Automatizační a řídicí systém jiné než obytné budovy, na kterou se nevztahuje povinnost zajištění provozovaného systému vytápění budovy nebo kombinovaného systému vytápění a větrání budovy, musí být schopen
+
+a) nepřetržitě monitorovat, registrovat a analyzovat spotřebu energie a umožňovat její regulaci,
+
+b) umožňovat ukládání výstupů z měření spotřeby energie alespoň po dobu 12 měsíců,
+
+c) srovnávat v čase energetickou náročnost budovy ve vztahu k potřebě, zjišťovat snížení účinnosti technických systémů budovy a informovat obsluhu řídicího systému budovy o možnostech zlepšení energetické účinnosti,
+
+d) umožňovat komunikaci s připojenými technickými systémy budovy a jinými spotřebiči v budově, jakož i interoperabilitu se zařízeními různých typů a od různých výrobců.
+
+## § 10 – Součinnost vlastníka jednotlivých zařízení systému vytápění nebo kombinovaného systému vytápění a větrání
+
+(1) Pokud není zadavatel vlastníkem zařízení, které je součástí předmětu kontroly, a vyžaduje-li to naplnění cíle kontroly systému vytápění nebo kombinovaného systému vytápění a větrání, požádá energetický specialista vlastníka zařízení o součinnost.
+
+(2) Energetický specialista si prokazatelným způsobem vyžádá od vlastníka zařízení systému vytápění nebo kombinovaného systému vytápění a větrání údaje potřebné pro provedení jeho kontroly.
+
+(3) V případě, že vlastník zařízení neposkytne energetickému specialistovi požadované údaje, použije energetický specialista okomentovaný odborný odhad. Takto použité údaje se označí jako „odborný odhad“ a uvedou se v souladu s přílohou č. 4 k této vyhlášce.
+
+## § 11 – Přechodná ustanovení
+
+(1) Vlastník budovy, společenství vlastníků jednotek nebo v případě, že společenství vlastníků jednotek nevzniklo, správce zajistí kontrolu systému vytápění nebo kombinovaného systému vytápění a větrání podle této vyhlášky, ledaže nejde o kotel a rozvody tepelné energie, a to nejpozději do 1 roku ode dne nabytí účinnosti této vyhlášky.
+
+(2) V případě kontroly kotle a rozvodů tepelné energie provedené podle vyhlášky č. 194/2013 Sb., o kontrole kotlů a rozvodů tepelné energie, od které uplynulo více než 5 let ode dne nabytí účinnosti této vyhlášky, zajistí vlastník budovy, společenství vlastníků jednotek nebo v případě, že společenství vlastníků jednotek nevzniklo, správce kontrolu systému vytápění nebo kombinovaného systému vytápění a větrání podle této vyhlášky do 2 let ode dne nabytí účinnosti této vyhlášky.
+
+(3) V případě kontroly kotle a rozvodů tepelné energie provedené podle vyhlášky č. 194/2013 Sb., od které uplynulo méně než 5 let ode dne nabytí účinnosti této vyhlášky, běží lhůta pro pravidelné provádění kontroly podle § 4 odst. 3 této vyhlášky od posledního dne kalendářního roku, ve kterém byla provedena kontrola kotle a rozvodů podle vyhlášky č. 194/2013 Sb.
+
+## § 12 – Zrušovací ustanovení
+
+Vyhláška č. 194/2013 Sb., o kontrole kotlů a rozvodů tepelné energie, se zrušuje.
+
+## § 13 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. března 2022.
+
+Ministr průmyslu a obchodu:
+
+Ing. Síkela v. r.
+
+### Příloha č. 1 k vyhlášce č. 38/2022 Sb.
+
+#### Hodnocení dimenzování zdroje tepla
+
+K hodnocení správnosti dimenzování zdroje tepla k požadavkům na vytápění budovy, ohřev nebo předehřev větracího vzduchu nebo přípravu teplé vody se využije porovnání roční spotřeby energie zdroje tepla s instalovaným tepelným výkonem zdroje tepla pro vytápění a přípravu teplé vody pro:
+
+a) spalovací zdroje tepla a absorpční tepelná čerpadla podle vztahu
+
+D<sub>S</sub>=(Q<sub>R</sub>)/(P<sub>n</sub>)
+
+b) kompresorové zdroje tepla – tepelná čerpadla podle vztahu
+
+D<sub>S</sub>=(3,0\*Q<sub>R</sub>)/(P<sub>n</sub>)
+
+Kde je:
+
+D<sub>S</sub> (hod.) parametr vyjadřující poměr roční spotřeby energie v palivu s instalovaným výkonem zdroje tepla systému vytápění a přípravy teplé vody - roční využití instalovaného tepelného výkonu zdroje v hodinách; pokud je hodnota D<sub>S</sub> nižší než 1 500 hod., uvede energetický specialista zdůvodnění nebo návrh opatření.
+
+Q<sub>R</sub> (kWh) roční spotřeba energie v palivu pro spalovací zdroje a absorpční tepelná čerpadla nebo roční spotřeba elektrické energie, nebo jiného paliva pro pohon kompresorového zdroje tepla - tepelného čerpadla,
+
+P<sub>n</sub> (kW) instalovaný výkon zdroje tepla.
+
+#### Technologická poptávka – Hodnocení dimenzování zdroje tepla v systému vytápění nebo kombinovaného systému vytápění a větrání, který zajišťuje i poptávku po teple pro technologické účely.
+
+1\. Pokud zdroj tepla dodává tepelnou energii jak pro vytápění, ohřev nebo předehřev větracího vzduchu, přípravu teplé vody, tak i pro technologické účely, kontrola dimenzování se neprovádí.
+
+2\. Pokud zdroj tepla dodává tepelnou energii jak pro vytápění, ohřev nebo předehřev větracího vzduchu, přípravu teplé vody, tak i pro technologické účely a spotřeba tepelné energie pro technologické účely je měřena, provede se dopočet spotřeby tepelné energie pro vytápění, ohřev nebo předehřev větracího vzduchu, přípravu teplé vody. Kontrola dimenzování se potom provede podle písmena a) této přílohy.
+
+### Příloha č. 2 k vyhlášce č. 38/2022 Sb.
+
+#### Metodika měření účinnosti zdroje tepla
+
+(1) Účinnost zdroje tepla se zjišťuje přímou nebo nepřímou metodou, kde
+
+a) přímá metoda zjišťování účinnosti zdroje tepla spočívá ve stanovení poměru množství tepla předaného teplonosné látce k množství tepla přivedeného do zdroje tepla palivem a vzduchem ve stejné časovém úseku,
+
+b) nepřímá metoda zjišťování účinnosti spalovacího zdroje tepla spočívá ve stanovení ztráty citelným teplem spalin (komínová ztráta) podle odstavce 3 a koncentrace emisí oxidu uhelnatého (CO) měřením, a následným dopočtem celkové ztráty podle odstavce 2.
+
+(2) Účinnost spalovacího zdroje tepla se stanovuje podle následujícího vztahu:
+
+η = 100 - ξ - Z [%],
+
+kde je
+
+ξ [%] komínová ztráta zjištěná měřením,
+
+Z [%] parametr vyjadřující součet ostatních ztrát, jehož hodnota je
+
+Z = 3 % pro plynná a kapalná paliva
+
+Z = 6 % pro pevná paliva.
+
+(3) Komínová ztráta se
+
+a) zjišťuje analyzátorem spalin, který je zkalibrován a který stanovuje tuto ztrátu podle vztahů
+
+ξ<sub>K</sub>=t<sub>S</sub>-t<sub>V</sub>.(A<sub>1</sub>)/(21-O<sub>2</sub>)+B% neboξ<sub>K</sub>=t<sub>S</sub>-t<sub>V</sub>.(A<sub>2</sub>)/(CO<sub>2</sub>)+B% neboξ<sub>K</sub>=k.(t<sub>S</sub>-t<sub>V</sub>)/(CO<sub>2</sub>)%,
+
+kde je
+
+t<sub>S</sub> [°C] teplota spalin na výstupu ze zdroje tepla,
+
+t<sub>V</sub> [°C] teplota prostředí (spalovacího vzduchu),
+
+O<sub>2</sub> [%] koncentrace kyslíku ve spalinách,
+
+CO<sub>2</sub> [%] koncentrace oxidu uhličitého ve spalinách,
+
+A<sub>1</sub>, A<sub>2</sub>, B a k konstanty typické pro dané palivo,
+
+b) zjišťuje při jmenovitém výkonu spalovacího zdroje tepla, nebo výkonu blížícímu se výkonu jmenovitému,
+
+c) vztahuje k výhřevnosti paliva.
+
+(4) Měření koncentrace emisí oxidu uhelnatého (CO) ve spalinách se
+
+a) provádí jako doplňkové měření, které má deklarovat přijatelnost nastavení spalovacího procesu,
+
+b) přepočítává na jednotku [mg.m<sup>-3</sup>] pro referenční obsah kyslíku
+
+O<sub>2ref</sub> = 3 % pro plynná a kapalná paliva,
+
+O<sub>2ref</sub> = 10 % pro pevná paliva.
+
+(5) Měření podle odstavce 4 se provádí
+
+a) v průběhu otopné sezóny; u spalovacích zdrojů tepla napojených na komín s přirozeným tahem podle harmonizované technické normy upravující komíny a kouřovody (ČSN 73 4201 Komíny a kouřovody - Navrhování, provádění a připojování spotřebičů paliv) nesmí být v době měření venkovní teplota vyšší jak 5 °C,
+
+b) podle metodiky předepsané výrobcem analyzátoru spalin,
+
+c) odběrem spalin uprostřed jejich proudu v měřícím místě na kouřovodu spojujícím komín se spalovacím zdrojem tepla, které je umístěno na rovném úseku kouřovodu; vzdálenost mezi měřicím otvorem a odtahovým hrdlem spalovacího zdroje tepla musí být přibližně dvojnásobkem, maximálně trojnásobkem vnějšího průměru odtahového hrdla; měřicí úsek musí být umístěn za posledním technologickým celkem spalovacího zdroje, ve kterém dochází ke změně vlastností spalin, tedy za odlučovačem pevných částic nebo doplňkovým výměníkem; pokud je na kouřovodu instalován omezovač tahu, musí být měřící otvor umístěn před tímto omezovačem; pokud to není možné, musí být omezovač uzavřen a zajištěna jeho těsnost a
+
+d) při ustáleném provozním stavu, kdy se teplota výstupního otopného média významně nemění.
+
+(6) Měření podle odstavce 4 se nemusí provádět, pokud jsou k dispozici údaje podle odstavců 3 a 4 získané z měření provedeného v souladu s požadavky podle odstavce 5, které nejsou starší dvou let.
+
+(7) Naměřené a vypočtené hodnoty se srovnají s referenčními hodnotami, které jsou
+
+η<sub>ref</sub> = 92 % a CO<sub>ref</sub> = 200 mg.m<sup>-3</sup> pro plynná a kapalná paliva,
+
+η<sub>ref</sub> = 83 % a CO<sub>ref</sub> = 1000 mg.m<sup>-3</sup> pro pevná paliva.
+
+Spalovací zdroj tepla vyhovuje, pokud platí, že stanovená účinnost je η ≥ η<sub>ref</sub> a současně že změřené množství oxidu uhelnatého je CO ≤ CO<sub>ref</sub>.
+
+(8) Součástí ověření účinnosti zdroje tepla je také vizuální kontrola, která obsahuje minimálně kontrolu
+
+a) výrobního štítku (identifikace zdroje), průvodní technické dokumentace (návod k instalaci a použití) a provozní dokumentace,
+
+b) vnějšího stavu spalovacího zdroje tepla včetně izolace a orientační teploty vnějších ploch; teploty povrchu zaizolovaných částí zdroje nesmí překročit teplotu prostředí o 30 °C,
+
+c) netěsností a úniku paliva nebo teplonosné látky,
+
+d) stavu přístupných vnitřních prostor spalovacího zdroje tepla, funkčnost a kompletnost všech částí,
+
+e) funkčnosti řídicích a bezpečnostních zařízení,
+
+f) zajištění dostatečného přívodu spalovacího vzduchu k spalovacímu zdroji tepla,
+
+g) používaného paliva a jeho skladování (v případě pevného paliva), především zda odpovídá výrobcem zdroje tepla deklarovaným požadavkům na kvalitu paliva, zda se jedná o palivo obvyklé obchodní jakosti podle právního předpisu upravujícího přípustnou úroveň znečišťování a jejího zjišťování<sup>3</sup>), a zda odpovídá palivu určenému výrobcem kotle nebo uvedenému v povolení provozu<sup>4</sup>),
+
+h) dokladů o způsobilosti a řádné údržbě spalinových cest podle právního předpisu upravujícího čištění, kontrolu a revizi spalinové cesty<sup>5</sup>),
+
+i) dokladů o kontrole technického stavu a provozu<sup>5</sup>) v případě teplovodních kotlů na pevná paliva do jmenovitého příkonu 300 kW.
+
+(9) V případě, že je součástí systému vytápění nebo kombinovaného systému vytápění a větrání více spalovacích zdrojů tepla, provede se měření a zaznamenají se hodnoty účinnosti a emisí oxidu uhelnatého pro každý zdroj tepla zvlášť.
+
+### Příloha č. 3 k vyhlášce č. 38/2022 Sb.
+
+#### Způsob provedení ověření kvality teplonosné kapaliny
+
+Kvalita otopné vody v systému vytápění nebo kombinovaného systému vytápění a větrání při kontrole systému vytápění nebo kombinovaného systému vytápění a větrání se posuzuje podle těchto parametrů:
+
+a. pH
+
+Povolený interval pH při teplotě 25 °C
+
+| Materiál soustavy | Hodnota pH |
+|---|---|
+| měď, ocel | 8,2-9 |
+| hliník | 6,5-8,2 |
+
+b. Konduktivita
+
+vyjádřena v μS/cm otopné vody.
+
+Maximální hodnota konduktivity při 25 °C
+
+| Druh otopné vody | Konduktivita (μS/cm) |
+|---|---|
+| Odsolená voda | &lt;100 |
+| Voda s obsahem soli | 100–⁠1500 |
+
+c. Rozpuštěný kyslík
+
+v otopné vodě vyjádřený v mg/l.
+
+Maximální množství rozpuštěného kyslíku v otopné vodě
+
+| Druh otopné vody | Obsah kyslíku |
+|---|---|
+| Odsolená voda | &lt;0,1 |
+| Voda s obsahem soli | &lt;0,02 |
+
+#### Postup kontroly kvality otopné vody
+
+Pokud při kontrole nebude předložen již zpracovaný rozbor otopné vody obsahující zhodnocení parametrů, budou parametry změřeny na místě podle následujícího postupu:
+
+a) Odebere se vzorek otopné vody do skleněné nádoby o objemu 0,5 l (ideálně do zcela naplněné skleněné láhve se šikmou zátkou a normalizovaným zábrusem (tzv. kyslíkovka).
+
+b) Vzorek se nechá vychladnout na teplotu 25 °C.
+
+c) Po vychladnutí vzorku se použije multifunkční přístroj pro měření pH, konduktivity a rozpuštěného kyslíku.
+
+Získané údaje se uvedou ve zprávě o kontrole systému vytápění nebo kombinovaného systému vytápění a větrání.
+
+### Příloha č. 4 k vyhlášce č. 38/2022 Sb.
+
+#### Vzor zprávy o kontrole systému vytápění nebo kombinovaného systému vytápění a větrání
+
+##### Část A – Titulní strana
+
+###### A.1 Základní údaje
+
+**Zpráva o kontrole systému vytápění nebo kombinovaného systému vytápění a větrání**
+
+**![sbcr2022c020z0038p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/886765/NAHLED/ZOBRAZ/sbcr2022c020z0038p004u001)**
+
+##### Část B - Identifikační údaje o budově a systému vytápění nebo kombinovaném systému vytápění a větrání
+
+###### B.1 Typ budovy a užití systému vytápění nebo kombinovaného systému vytápění a větrání
+
+**![sbcr2022c020z0038p004u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/886767/NAHLED/ZOBRAZ/sbcr2022c020z0038p004u002)**
+
+###### B.2 Dokumentace k budově, systému vytápění nebo kombinovanému systému vytápění a větrání, zprávy a revize
+
+**![sbcr2022c020z0038p004u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/886769/NAHLED/ZOBRAZ/sbcr2022c020z0038p004u003)**
+
+**Část C Popis a hodnocení jednotlivých částí systému vytápění nebo kombinovaného systému vytápění a větrání**
+
+##### C.1 Zdroj tepla
+
+###### ![sbcr2022c020z0038p004u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/886771/NAHLED/ZOBRAZ/sbcr2022c020z0038p004u004)
+
+##### C.2 Akumulace tepla
+
+###### ![sbcr2022c020z0038p004u005.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/886773/NAHLED/ZOBRAZ/sbcr2022c020z0038p004u005)
+
+##### C.3. Rozvody tepla
+
+###### ![sbcr2022c020z0038p004u006.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/886775/NAHLED/ZOBRAZ/sbcr2022c020z0038p004u006)
+
+##### C.4. Sdílení tepla
+
+###### ![sbcr2022c020z0038p004u007.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/886777/NAHLED/ZOBRAZ/sbcr2022c020z0038p004u007)
+
+##### C.5 Automatizační a řídicí systém
+
+###### ![sbcr2022c020z0038p004u008.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/886779/NAHLED/ZOBRAZ/sbcr2022c020z0038p004u008)
+
+##### C.6 Kvalita teplonosné kapaliny
+
+###### ![sbcr2022c020z0038p004u009.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/886781/NAHLED/ZOBRAZ/sbcr2022c020z0038p004u009)
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2010/31/EU ze dne 19. května 2010 o energetické náročnosti budov, ve znění směrnice Evropského parlamentu a Rady (EU) 2018/844.
+
+<sup>2</sup>) Vyhláška č. 499/2006 Sb., o dokumentaci staveb, ve znění pozdějších předpisů.
+
+<sup>3</sup>) Vyhláška č. 415/2012 Sb., o přípustné úrovni znečišťování a jejím zjišťování a o provedení některých dalších ustanovení zákona o ochraně ovzduší, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Zákon č. 201/2012 Sb., o ochraně ovzduší, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Vyhláška č. 34/2016 Sb., o čištění, kontrole a revizi spalinové cesty.
+
+<sup>6</sup>) Vyhláška č. 193/2007 Sb., kterou se stanoví podrobnosti účinnosti užití energie při rozvodu tepelné energie a vnitřním rozvodu tepelné energie a chladu.

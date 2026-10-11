@@ -1,0 +1,74 @@
+---
+title: "Vyhláška č. 204/2021 Sb., o seznamu potravin podle § 9b odst. 1 písm. c) zákona o potravinách a tabákových výrobcích"
+identifier: "204/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/204/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-05-17
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/204"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 204/2021 Sb., o seznamu potravin podle § 9b odst. 1 písm. c) zákona o potravinách a tabákových výrobcích
+
+204
+
+VYHLÁŠKA
+
+ze dne 17. května 2021
+
+o seznamu potravin podle § 9b odst. 1 písm. c) zákona o potravinách a tabákových výrobcích
+
+Ministerstvo zemědělství stanoví podle § 18 odst. 1 písm. n) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 174/2021 Sb., (dále jen „zákon“):
+
+## § 1 – Seznam potravin
+
+Potravinami podle § 9b odst. 1 písm. c) zákona jsou
+
+a) čokoláda (hořká čokoláda) podle právního předpisu upravujícího požadavky na přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony<sup>1</sup>),
+
+b) mléčná čokoláda podle právního předpisu upravujícího požadavky na přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony,
+
+c) bílá čokoláda podle právního předpisu upravujícího požadavky na přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony,
+
+d) Chocolate a la taza podle právního předpisu upravujícího požadavky na přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony,
+
+e) Chocolate familiar a la taza podle právního předpisu upravujícího požadavky na přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony,
+
+f) family mléčná čokoláda podle právního předpisu upravujícího požadavky na přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony,
+
+g) čokoládový bonbon podle právního předpisu upravujícího požadavky na přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony,
+
+h) pražená káva podle právního předpisu upravujícího požadavky na čaj, kávu a kávoviny<sup>2</sup>),
+
+i) pražená káva bez kofeinu podle právního předpisu upravujícího požadavky na čaj, kávu a kávoviny,
+
+j) kávový extrakt, instantní káva, rozpustná káva, rozpustný kávový extrakt podle právního předpisu upravujícího požadavky na čaj, kávu a kávoviny,
+
+k) kávový extrakt bez kofeinu podle právního předpisu upravujícího požadavky na čaj, kávu a kávoviny,
+
+l) kávovina podle právního předpisu upravujícího požadavky na čaj, kávu a kávoviny,
+
+m) extrudované výrobky podle právního předpisu upravujícího požadavky na mlýnské obilné výrobky, těstoviny, pekařské výrobky a cukrářské výrobky a těsta<sup>3</sup>) vyrobené z rýže a
+
+n) pufované výrobky podle právního předpisu upravujícího požadavky na mlýnské obilné výrobky, těstoviny, pekařské výrobky a cukrářské výrobky a těsta vyrobené z rýže.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Ministr:
+
+Ing. Toman, CSc., v. r.
+
+---
+
+<sup>1</sup>) Vyhláška č. 76/2003 Sb., kterou se stanoví požadavky pro přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Vyhláška Ministerstva zemědělství č. 330/1997 Sb., kterou se provádí § 18 písm. a), d), j) a k) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, pro čaj, kávu a kávoviny, ve znění pozdějších předpisů.
+
+<sup>3</sup>) Vyhláška č. 18/2020 Sb., o požadavcích na mlýnské obilné výrobky, těstoviny, pekařské výrobky a cukrářské výrobky a těsta.

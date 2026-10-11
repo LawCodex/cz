@@ -1,0 +1,58 @@
+---
+title: "Nařízení vlády č. 471/2024 Sb., o nejvyšší částce příspěvku na podporu zaměstnávání osob se zdravotním postižením na chráněném trhu práce"
+identifier: "471/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/471/2025-04-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-12-18
+effective: 2025-04-01
+last_amended: 2025-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/471"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 471/2024 Sb., o nejvyšší částce příspěvku na podporu zaměstnávání osob se zdravotním postižením na chráněném trhu práce
+
+471
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 18. prosince 2024
+
+o nejvyšší částce příspěvku na podporu zaměstnávání osob se zdravotním postižením na chráněném trhu práce
+
+Vláda nařizuje podle § 78a odst. 6 zákona č. 435/2004 Sb., o zaměstnanosti, ve znění zákona č. 365/2019 Sb. a zákona č. 470/2024 Sb.:
+
+## § 1 – Úvodní ustanovení
+
+Toto nařízení stanoví nejvyšší částku příspěvku na podporu zaměstnávání osob se zdravotním postižením poskytovaného zaměstnavateli, se kterým Úřad práce České republiky uzavřel písemnou dohodu o jeho uznání za zaměstnavatele na chráněném trhu práce, (dále jen „příspěvek“).
+
+## § 2 – Nejvyšší částka příspěvku
+
+(1) Nejvyšší částka příspěvku pro rok 2025 činí 17 300 Kč.
+
+(2) Nejvyšší částka příspěvku od roku 2026 činí 18 600 Kč.
+
+## § 3 – Časová působnost
+
+(1) Podle § 2 odst. 1 se poprvé postupuje při stanovení příspěvku za první kalendářní čtvrtletí roku 2025.
+
+(2) Podle § 2 odst. 2 se poprvé postupuje při stanovení příspěvku za první kalendářní čtvrtletí roku 2026.
+
+## § 4 – Zrušovací ustanovení
+
+Nařízení vlády č. 70/2024 Sb., o maximální částce příspěvku na podporu zaměstnávání osob se zdravotním postižením na chráněném trhu práce, se zrušuje.
+
+## § 5 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. dubna 2025.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.

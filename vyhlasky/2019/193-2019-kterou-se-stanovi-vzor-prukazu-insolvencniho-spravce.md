@@ -1,0 +1,80 @@
+---
+title: "Vyhláška č. 193/2019 Sb., kterou se stanoví vzor průkazu insolvenčního správce"
+identifier: "193/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/193/2019-08-23"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2019-07-31
+effective: 2019-08-23
+last_amended: 2019-08-23
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/193"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 193/2019 Sb., kterou se stanoví vzor průkazu insolvenčního správce
+
+193
+
+VYHLÁŠKA
+
+ze dne 31. července 2019,
+
+kterou se stanoví vzor průkazu insolvenčního správce
+
+Ministerstvo spravedlnosti stanoví podle § 6 odst. 8 zákona č. 312/2006 Sb., o insolvenčních správcích, ve znění zákona č. 31/2019 Sb.:
+
+## § 1 – Vzor průkazu insolvenčního správce
+
+(1) Vzor průkazu insolvenčního správce, který se vydává fyzické osobě, která je insolvenčním správcem, je uveden v příloze č. 1 k této vyhlášce.
+
+(2) Vzor průkazu insolvenčního správce, který se vydává fyzické osobě, která je ohlášeným společníkem insolvenčního správce, je uveden v příloze č. 2 k této vyhlášce.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministryně spravedlnosti:
+
+Mgr. Benešová v. r.
+
+### Příloha č. 1 k vyhlášce č. 193/2019 Sb.
+
+#### Vzor průkazu insolvenčního správce, který se vydává fyzické osobě, která je insolvenčním správcem
+
+1\. Popis
+
+a) Průkaz insolvenčního správce je oboustranně potištěná plastová karta světle modré barvy o rozměrech 85,6 x 54 mm se zakulacenými rohy. Průkaz insolvenčního správce je zajištěn ochranným prvkem s motivem stříbrného korunovaného dvouocasého lva ve skoku a textem „VYDALO MINISTERSTVO SPRAVEDLNOSTI ČESKÉ REPUBLIKY“.
+
+b) Na lícové straně průkazu insolvenčního správce je na prvním až druhém řádku uveden text „INSOLVENČNÍ SPRÁVCE“. Na třetím řádku je uveden text „PŘÍJMENÍ“ a text „IČO“. Na čtvrtém řádku je uveden text „JMÉNO“ a text „PRŮKAZ ČÍSLO“. Na pátém řádku je uveden text „TITUL“ a text „PLATNOST DO“. V levé části je digitální zpracování barevné fotografie insolvenčního správce o rozměrech 20 × 25,8 mm. Požadavky na technické provedení fotografie odpovídají přiměřeně § 7 odst. 2, 3 a 4 vyhlášky č. 400/2011 Sb., kterou se provádí zákon o občanských průkazech a zákon o cestovních dokladech. Pod čtvrtý řádek vlevo se zapisuje jméno, popřípadě jména. Údaje pod pátým řádkem vlevo se zapisují ve formátu akademický titul uváděný před jménem, akademický titul uváděný za jménem. Platnost průkazu je shodná s platností povolení nebo zvláštního povolení fyzické osoby, které se průkaz vydává. Datum platnosti se uvádí ve formátu dd.mm.rrrr. Všechny texty včetně zapisovaných údajů jsou vyhotoveny bezpatkovým písmem v tmavě modré barvě, s výjimkou textu „INSOLVENČNÍ SPRÁVCE“, který je vyhotoven patkovým písmem. Na pozadí lícové strany je vyobrazen motiv lipového listu.
+
+c) Na pozadí rubové strany je vyobrazen motiv křivky a symbol paragrafu.
+
+2\. Vyobrazení lícové strany vzoru průkazu insolvenčního správce, který se vydává fyzické osobě, která je insolvenčním správcem
+
+##### ![sbcr2019c083z0193p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887457/NAHLED/ZOBRAZ/sbcr2019c083z0193p001o001)
+
+3\. Vyobrazení rubové strany vzoru průkazu insolvenčního správce, který se vydává fyzické osobě, která je insolvenčním správcem
+
+##### ![sbcr2019c083z0193p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887459/NAHLED/ZOBRAZ/sbcr2019c083z0193p001o002)
+
+### Příloha č. 2 k vyhlášce č. 193/2019 Sb.
+
+#### Vzor průkazu insolvenčního správce, který se vydává fyzické osobě, která je ohlášeným společníkem insolvenčního správce
+
+1\. Popis
+
+a) Průkaz insolvenčního správce je oboustranně potištěná plastová karta tmavě modré barvy o rozměrech 85,6 x 54 mm se zakulacenými rohy. Průkaz insolvenčního správce je zajištěn ochranným prvkem s motivem stříbrného korunovaného dvouocasého lva ve skoku a textem „VYDALO MINISTERSTVO SPRAVEDLNOSTI ČESKÉ REPUBLIKY“.
+
+b) Na lícové straně průkazu ohlášeného společníka insolvenčního správce je na prvním řádku uveden text „INSOLVENČNÍ SPRÁVCE“. Na druhém řádku je uveden text „OHLÁŠENÝ SPOLEČNÍK INSOLVENČNÍHO SPRÁVCE“. Na třetím řádku je uvedena obchodní firma insolvenčního správce. Na čtvrtém řádku je uveden text „PŘÍJMENÍ“ a text „IČO“. Na pátém řádku je uveden text „JMÉNO“ a text „PRŮKAZ ČÍSLO“. Na šestém řádku je uveden text „TITUL“ a text „PLATNOST DO“. V levé části je digitální zpracování barevné fotografie ohlášeného společníka insolvenčního správce, kterému je průkaz vydáván, o rozměrech 20 × 25,8 mm. Požadavky na technické provedení fotografie odpovídají přiměřeně § 7 odst. 2, 3 a 4 vyhlášky č. 400/2011 Sb., kterou se provádí zákon o občanských průkazech a zákon o cestovních dokladech. Pod čtvrtým řádkem vpravo se uvádí identifikační číslo insolvenčního správce, jehož je fyzická osoba, které se průkaz vydává, ohlášeným společníkem. Pod pátý řádek vlevo se zapisuje jméno, popřípadě jména. Údaje pod šestým řádkem vlevo se zapisují ve formátu akademický titul uváděný před jménem, akademický titul uváděný za jménem. Platnost průkazu je shodná s platností povolení nebo zvláštního povolení fyzické osoby, které se průkaz vydává. Datum platnosti se uvádí ve formátu dd.mm.rrrr. Všechny texty včetně zapisovaných údajů jsou vyhotoveny bezpatkovým písmem v tmavě modré barvě, s výjimkou textu „INSOLVENČNÍ SPRÁVCE“, který je vyhotoven patkovým písmem. Na pozadí lícové strany je vyobrazen motiv lipového listu.
+
+c) Na pozadí rubové strany je vyobrazen motiv křivky a symbol paragrafu.
+
+2\. Vyobrazení lícové strany vzoru průkazu insolvenčního správce, který se vydává fyzické osobě, která je ohlášeným společníkem insolvenčního správce
+
+##### ![sbcr2019c083z0193p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887975/NAHLED/ZOBRAZ/sbcr2019c083z0193p002o001)
+
+3\. Vyobrazení rubové strany vzoru průkazu insolvenčního správce, který se vydává fyzické osobě, která je ohlášeným společníkem insolvenčního správce
+
+##### ![sbcr2019c083z0193p002o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887977/NAHLED/ZOBRAZ/sbcr2019c083z0193p002o002)

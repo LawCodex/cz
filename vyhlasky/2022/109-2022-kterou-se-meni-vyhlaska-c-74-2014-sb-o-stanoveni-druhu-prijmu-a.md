@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 109/2022 Sb., kterou se mění vyhláška č. 74/2014 Sb., o stanovení druhů příjmu a majetku pro účely automatické výměny informací v rámci mezinárodní spolupráce při správě daní"
+identifier: "109/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/109/2023-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-04-26
+effective: 2023-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/109"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 109/2022 Sb., kterou se mění vyhláška č. 74/2014 Sb., o stanovení druhů příjmu a majetku pro účely automatické výměny informací v rámci mezinárodní spolupráce při správě daní
+
+109
+
+VYHLÁŠKA
+
+ze dne 26. dubna 2022,
+
+kterou se mění vyhláška č. 74/2014 Sb., o stanovení druhů příjmu a majetku pro účely automatické výměny informací v rámci mezinárodní spolupráce při správě daní
+
+Ministerstvo financí stanoví podle § 13 odst. 1 zákona č. 164/2013 Sb., o mezinárodní spolupráci při správě daní a o změně dalších souvisejících zákonů, ve znění zákona č. 92/2017 Sb.:
+
+## Čl. I
+
+Vyhláška č. 74/2014 Sb., o stanovení druhů příjmu a majetku pro účely automatické výměny informací v rámci mezinárodní spolupráce při správě daní, se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Směrnice Rady (EU) 2021/514 ze dne 22. března 2021, kterou se mění směrnice 2011/16/EU o správní spolupráci v oblasti daní.“.
+
+2\. V § 1 písm. a) bodě 4 se slovo „a“ nahrazuje čárkou.
+
+3\. V § 1 písm. a) bodě 5 se slova „smlouvy a“ nahrazují slovem „smlouvy,“.
+
+4\. V § 1 se na konci písmene a) doplňuje bod 6, který zní:
+
+> „6. příjem z licenčních poplatků,“.
+
+## Čl. II – Přechodné ustanovení
+
+Ustanovení § 1 písm. a) bodu 6 vyhlášky č. 74/2014 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, se nepoužije přede dnem zprovoznění systému pro předávání informací o příjmu z licenčních poplatků prostřednictvím společné komunikační sítě.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2023.
+
+Ministr financí:
+
+Ing. Stanjura v. r.

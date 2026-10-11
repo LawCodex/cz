@@ -1,0 +1,190 @@
+---
+title: "Nařízení vlády č. 213/2023 Sb., kterým se mění nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, ve znění pozdějších předpisů"
+identifier: "213/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/213/2024-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2023-06-28
+effective: 2023-07-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/213"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 213/2023 Sb., kterým se mění nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, ve znění pozdějších předpisů
+
+213
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 28. června 2023,
+
+kterým se mění nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, ve znění pozdějších předpisů
+
+Vláda nařizuje k provedení § 181b zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 176/2019 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, ve znění nařízení vlády č. 556/2020 Sb., nařízení vlády č. 233/2021 Sb. a nařízení vlády č. 321/2022 Sb., se mění takto:
+
+1\. Přílohy č. 1 a 2 znějí:
+
+> **„Příloha č. 1 k nařízení vlády č. 220/2019 Sb.**
+
+> **Maximální počet žádostí o vízum k pobytu nad 90 dnů za účelem podnikání**
+
+> | 1 | 2 | 3 |
+> |---|---|---|
+> | Zastupitelský úřad | Maximální počet žádostí, které lze podat v rámci období 1 roku | Program klíčový a vědecký personál |
+> | Abudža | 12 | 4 |
+> | Addis Abeba | 12 | 4 |
+> | Akkra | 12 | 4 |
+> | Alžír | 12 | 4 |
+> | Ammán | 12 | 4 |
+> | Ankara | 12 | 6 |
+> | Astana | 12 | 4 |
+> | Bagdád | 0 | 0 |
+> | Baku | 12 | 4 |
+> | Bejrút | 12 | 4 |
+> | Bělehrad | 100 | 10 |
+> | Damašek | 0 | 0 |
+> | Dillí | 24 | 12 |
+> | Erbíl | 0 | 0 |
+> | Hanoj | 0 | 0 |
+> | Islámábád | 0 | 0 |
+> | Istanbul | 12 | 6 |
+> | Kábul | 0 | 0 |
+> | Káhira | 12 | 4 |
+> | Kišiněv | 12 | 4 |
+> | Kyjev | 24 | 12 |
+> | Lusaka | 12 | 4 |
+> | Lvov | 24 | 12 |
+> | Minsk | 24 | 8 |
+> | Moskva | 100 | 50 |
+> | Nairobi | 12 | 4 |
+> | Pchjongjang | 0 | 0 |
+> | Pretoria | 12 | 4 |
+> | Rabat | 12 | 4 |
+> | Sarajevo | 12 | 4 |
+> | Skopje | 12 | 4 |
+> | Taškent | 12 | 4 |
+> | Tbilisi | 12 | 4 |
+> | Teherán | 12 | 4 |
+> | Tunis | 12 | 4 |
+> | Ulánbátar | 12 | 4 |
+
+> **Příloha č. 2 k nařízení vlády č. 220/2019 Sb.**
+
+> **Maximální počet žádostí o zaměstnaneckou kartu**
+
+> | 1 | 2 | 3 | 4 |
+> |---|---|---|---|
+> | Zastupitelský úřad | Maximální počet žádostí, které lze podat v rámci období 1 roku | Program vysoce kvalifikovaný<br> zaměstnanec nebo<br> Program klíčový a vědecký personál | Program kvalifikovaný zaměstnanec |
+> | Abudža | 90 | 60 | 0 |
+> | Addis Abeba | 90 | 60 | 0 |
+> | Akkra | 90 | 60 | 0 |
+> | Alžír | 90 | 60 | 0 |
+> | Ammán | 90 | 60 | 0 |
+> | Ankara | 300 | 100 | 0 |
+> | Astana | 560 | 60 | 500 |
+> | Bagdád | 60 | 60 | 0 |
+> | Baku | 210 | 60 | 0 |
+> | Bangkok | 280 | 60 | 0 |
+> | Bejrút | 90 | 60 | 0 |
+> | Bělehrad | 2 400 | 100 | 1 900 |
+> | Damašek | 60 | 60 | 0 |
+> | Dillí | 1 100 | 500 | 600 |
+> | Erbíl | 60 | 60 | 0 |
+> | Hanoj | 200 | 200\* | 0 |
+> | Islámábád | 60 | 60 | 0 |
+> | Istanbul | 300 | 100 | 0 |
+> | Jakarta | 430\*\* | 60 | 0 |
+> | Jerevan | 680 | 60 | 550 |
+> | Kábul | 60 | 60 | 0 |
+> | Káhira | 110 | 80 | 0 |
+> | Kišiněv | 1 700 | 100 | 1 500 |
+> | Kyjev | 1 600 | 500 | 1 100 |
+> | Lusaka | 90 | 60 | 0 |
+> | Lvov | 38 000 | 0 | 38 000 |
+> | Manila | 2 500 | 100 | 2 300 |
+> | Minsk | 2 200 | 200 | 1 900 |
+> | Nairobi | 90 | 60 | 0 |
+> | Pchjongjang | 0 | 0 | 0 |
+> | Pretoria | 90 | 60 | 0 |
+> | Rabat | 90 | 60 | 0 |
+> | Sarajevo | 510 | 60 | 0 |
+> | Skopje | 560 | 60 | 400 |
+> | Taškent | 130 | 60 | 0 |
+> | Tbilisi | 730 | 60 | 600 |
+> | Teherán | 90 | 60 | 0 |
+> | Tunis | 90 | 60 | 0 |
+> | Ulánbátar | 1 230 | 60 | 1 000 |
+
+> \* Kvóta je určena výhradně pro žádosti podávané v rámci Programu klíčový a vědecký personál.
+
+> \*\* Kvóta 300 žádostí je určena výhradně pro žádosti podávané v rámci Pilotního projektu pracovní migrace z Indonésie.“.
+
+2\. Příloha č. 2 zní:
+
+> **„Příloha č. 2 k nařízení vlády č. 220/2019 Sb.**
+
+> **Maximální počet žádostí o zaměstnaneckou kartu**
+
+> | 1 | 2 | 3 | 4 |
+> |---|---|---|---|
+> | Zastupitelský úřad | Maximální <br> počet žádostí, které lze podat v rámci období 1 roku | Program vysoce kvalifikovaný<br> zaměstnanec nebo<br> Program klíčový a vědecký personál | Program kvalifikovaný zaměstnanec |
+> | Abudža | 90 | 60 | 0 |
+> | Addis Abeba | 90 | 60 | 0 |
+> | Akkra | 90 | 60 | 0 |
+> | Alžír | 90 | 60 | 0 |
+> | Ammán | 90 | 60 | 0 |
+> | Ankara | 300 | 100 | 0 |
+> | Astana | 560 | 60 | 500 |
+> | Bagdád | 60 | 60 | 0 |
+> | Baku | 210 | 60 | 0 |
+> | Bangkok | 280 | 60 | 0 |
+> | Bejrút | 90 | 60 | 0 |
+> | Bělehrad | 2 400 | 100 | 1 900 |
+> | Damašek | 60 | 60 | 0 |
+> | Dillí | 1 100 | 500 | 600 |
+> | Erbíl | 60 | 60 | 0 |
+> | Hanoj | 200 | 200\* | 0 |
+> | Islámábád | 60 | 60 | 0 |
+> | Istanbul | 300 | 100 | 0 |
+> | Jakarta | 130 | 60 | 0 |
+> | Jerevan | 680 | 60 | 550 |
+> | Kábul | 60 | 60 | 0 |
+> | Káhira | 110 | 80 | 0 |
+> | Kišiněv | 1 700 | 100 | 1 500 |
+> | Kyjev | 1 600 | 500 | 1 100 |
+> | Lusaka | 90 | 60 | 0 |
+> | Lvov | 33 000 | 0 | 33 000 |
+> | Manila | 5 500 | 100 | 5 300 |
+> | Minsk | 2 200 | 200 | 1 900 |
+> | Nairobi | 90 | 60 | 0 |
+> | Pchjongjang | 0 | 0 | 0 |
+> | Pretoria | 90 | 60 | 0 |
+> | Rabat | 90 | 60 | 0 |
+> | Sarajevo | 510 | 60 | 0 |
+> | Skopje | 560 | 60 | 400 |
+> | Taškent | 130 | 60 | 0 |
+> | Tbilisi | 730 | 60 | 600 |
+> | Teherán | 90 | 60 | 0 |
+> | Tunis | 90 | 60 | 0 |
+> | Ulánbátar | 3 230 | 60 | 3 000 |
+
+> \* Kvóta je určena výhradně pro žádosti podávané v rámci Programu klíčový a vědecký personál.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. července 2023, s výjimkou ustanovení čl. I bodu 2, které nabývá účinnosti dnem 1. ledna 2024.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Mgr. Bc. Rakušan v. r.

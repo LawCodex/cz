@@ -1,0 +1,80 @@
+---
+title: "Nařízení vlády č. 289/2022 Sb., kterým se pro účely příspěvku na bydlení ze státní sociální podpory pro období do 31. prosince 2022 zvyšují částky navýšení měsíčních normativních nákladů na bydlení a mění nařízení vlády č. 595/2006 Sb., o způsobu výpočtu základní částky, která nesmí být sražena povinnému z měsíční mzdy při výkonu rozhodnutí, a o stanovení částky, nad kterou je mzda postižitelná srážkami bez omezení (nařízení o nezabavitelných částkách), ve znění pozdějších předpisů"
+identifier: "289/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/289/2022-10-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2022-09-21
+effective: 2022-10-01
+last_amended: 2022-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/289"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 289/2022 Sb., kterým se pro účely příspěvku na bydlení ze státní sociální podpory pro období do 31. prosince 2022 zvyšují částky navýšení měsíčních normativních nákladů na bydlení a mění nařízení vlády č. 595/2006 Sb., o způsobu výpočtu základní částky, která nesmí být sražena povinnému z měsíční mzdy při výkonu rozhodnutí, a o stanovení částky, nad kterou je mzda postižitelná srážkami bez omezení (nařízení o nezabavitelných částkách), ve znění pozdějších předpisů
+
+289
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 21. září 2022,
+
+kterým se pro účely příspěvku na bydlení ze státní sociální podpory pro období do 31. prosince 2022 zvyšují částky navýšení měsíčních normativních nákladů na bydlení a mění nařízení vlády č. 595/2006 Sb., o způsobu výpočtu základní částky, která nesmí být sražena povinnému z měsíční mzdy při výkonu rozhodnutí, a o stanovení částky, nad kterou je mzda postižitelná srážkami bez omezení (nařízení o nezabavitelných částkách), ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 26a odst. 4 zákona č. 117/1995 Sb., o státní sociální podpoře, ve znění zákona č. 17/2022 Sb., (dále jen „zákon“), a podle § 278 zákona č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 133/1982 Sb., zákona č. 519/1991 Sb., zákona č. 24/1993 Sb. a zákona č. 396/2012 Sb.:
+
+## ČÁST PRVNÍ – ZVÝŠENÍ ČÁSTKY NAVÝŠENÍ MĚSÍČNÍCH NORMATIVNÍCH NÁKLADŮ NA BYDLENÍ
+
+### § 1
+
+Částky navýšení měsíčních normativních nákladů na bydlení stanovené v § 26a odst. 2 zákona se pro období do 31. prosince 2022 zvyšují pro
+
+a) bydlení v bytech užívaných na základě nájemní nebo podnájemní smlouvy
+
+| Počet osob v rodině podle <br> § 7 odst. 5 zákona | Částka v Kč, o kterou se zvyšuje částka stanovená v § 26a <br> odst. 2 písm. a) zákona |
+|---|---|
+| jedna | 4 500 |
+| dvě | 4 500 |
+| tři | 2 500 |
+| čtyři a více | 2 500 |
+
+b) byty v družstevních bytech, byty užívané na základě služebnosti užívání celého bytu a byty vlastníků
+
+| Počet osob v rodině podle <br> § 7 odst. 5 zákona | Částka v Kč, o kterou se zvyšuje částka stanovená v § 26a <br> odst. 2 písm. b) zákona |
+|---|---|
+| jedna | 2 500 |
+| dvě | 2 500 |
+| tři | 2 000 |
+| čtyři a více | 2 000 |
+
+### § 2
+
+Ustanovení § 1 se použije poprvé pro stanovení příspěvku na bydlení za říjen 2022.
+
+## ČÁST DRUHÁ – Změna nařízení vlády o nezabavitelných částkách
+
+### § 3
+
+V § 4 nařízení vlády č. 595/2006 Sb., o způsobu výpočtu základní částky, která nesmí být sražena povinnému z měsíční mzdy při výkonu rozhodnutí, a o stanovení částky, nad kterou je mzda postižitelná srážkami bez omezení (nařízení o nezabavitelných částkách), se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Pro výpočet základní částky, která nesmí být sražena povinnému z měsíční mzdy při výkonu rozhodnutí, nebo pro stanovení částky, nad kterou se srazí zbytek čisté mzdy vypočtené podle § 279 odst. 1 věty první občanského soudního řádu bez omezení, se z částky stanovené v nařízení vlády vydaném podle § 26a odst. 4 zákona o státní sociální podpoře použije pouze polovina.“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### § 4
+
+Toto nařízení nabývá účinnosti dnem 1. října 2022.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.
+
+Ministr spravedlnosti:
+
+JUDr. Blažek, Ph.D., v. r.

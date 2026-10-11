@@ -1,0 +1,60 @@
+---
+title: "Nařízení vlády č. 434/2017 Sb., kterým se mění nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku a veřejných rejstříků právnických a fyzických osob"
+identifier: "434/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/434/2018-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2017-11-29
+effective: 2018-01-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/434"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 434/2017 Sb., kterým se mění nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku a veřejných rejstříků právnických a fyzických osob
+
+434
+
+NÁVRH NAŘÍZENÍ VLÁDY
+
+ze dne 29. listopadu 2017,
+
+kterým se mění nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku a veřejných rejstříků právnických a fyzických osob
+
+Vláda nařizuje k provedení zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob a o evidenci svěřenských fondů, ve znění zákona č. 87/2015 Sb., zákona č. 192/2016 Sb., zákona č. 298/2016 Sb., zákona č. 368/2016 Sb., zákona č. 460/2016 Sb. a zákona č. 303/2017 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 351/2013 Sb., kterým se určuje výše úroků z prodlení a nákladů spojených s uplatněním pohledávky, určuje odměna likvidátora, likvidačního správce a člena orgánu právnické osoby jmenovaného soudem a upravují některé otázky Obchodního věstníku a veřejných rejstříků právnických a fyzických osob, se mění takto:
+
+1\. V názvu nařízení vlády se slovo „a“ za slovem „věstníku“ nahrazuje čárkou a na konci názvu se doplňují slova „a evidence svěřenských fondů a evidence údajů o skutečných majitelích“.
+
+2\. V § 1 se na konci textu písmene d) doplňují slova „a evidenci svěřenských fondů a způsob podání návrhu na zápis, změnu nebo výmaz zápisu v evidenci skutečných majitelů“.
+
+3\. Nadpis části páté zní:
+
+> **„VEŘEJNÉ REJSTŘÍKY, EVIDENCE SVĚŘENSKÝCH FONDŮ A EVIDENCE SKUTEČNÝCH MAJITELŮ“.**
+
+4\. V části páté se za § 18 vkládají nové § 18a a 18b, které znějí:
+
+> **„§ 18a**
+
+> Na evidenci svěřenských fondů se § 13 a ustanovení této části použijí obdobně.
+
+> **§ 18b**
+
+> Pokud zápis, změnu nebo výmaz zápisu v evidenci skutečných majitelů provádí soud, návrh na zápis, změnu nebo výmaz zápisu v evidenci skutečných majitelů se podává prostřednictvím elektronicky vyplněného formuláře. Takto vyplněný formulář lze soudu zaslat jak v elektronické, tak v listinné podobě.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2018.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr spravedlnosti:
+
+JUDr. Pelikán, Ph.D., v. r.

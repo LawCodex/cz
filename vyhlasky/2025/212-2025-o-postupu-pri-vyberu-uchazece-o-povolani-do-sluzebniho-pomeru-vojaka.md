@@ -1,0 +1,64 @@
+---
+title: "Vyhláška č. 212/2025 Sb., o postupu při výběru uchazeče o povolání do služebního poměru vojáka z povolání"
+identifier: "212/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/212/2025-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-06-23
+effective: 2025-07-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/212"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 212/2025 Sb., o postupu při výběru uchazeče o povolání do služebního poměru vojáka z povolání
+
+212
+
+VYHLÁŠKA
+
+ze dne 23. června 2025
+
+o postupu při výběru uchazeče o povolání do služebního poměru vojáka z povolání
+
+Ministerstvo obrany stanoví podle § 4 odst. 6 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 99/2025 Sb.:
+
+## § 1
+
+(1) Služební orgán po zahájení výběru ověří ve vojenské evidenci údaje o občanovi ucházejícím se o povolání do služebního poměru.
+
+(2) Služební orgán dále od uchazeče vyžádá doklady k ověření údajů, které nejsou obsahem vojenské evidence, zejména doklady o kvalifikaci, o znalosti cizích jazyků, zvláštních dovednostech.
+
+## § 2
+
+(1) Při výběru se posuzuje uchazečova způsobilost pro výkon služby vojáka z povolání, zejména dosažená kvalifikace, zvláštní dovednosti, fyzická zdatnost a jeho zdravotní způsobilost. Zdravotní způsobilost uchazeče se posuzuje podle právního předpisu o zdravotní způsobilosti k vojenské činné službě<sup>1</sup>).
+
+(2) Po vyhodnocení všech údajů o způsobilosti uchazeče služební orgán posoudí, zda jeho povolání je v souladu s potřebou zajišťování obrany České republiky. S vhodným uchazečem, který vyhovuje podmínkám pro povolání, je proveden pohovor k předpokládanému služebnímu zařazení a případným dalším požadavkům pro toto služební zařazení.
+
+(3) Podle výsledků pohovoru je výběr ukončen oznámením rozhodnutí o povolání do služebního poměru nebo písemným vyrozuměním uchazeče o tom, že nebyl vybrán, anebo se pokračuje ve výběru ověřením údajů pro možnost jiného služebního zařazení.
+
+## § 3 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Vyhláška č. 454/2002 Sb., kterou se stanoví doklady pro výběr, postup při výběru a vzor osobního dotazníku uchazeče o povolání do služebního poměru vojáka z povolání.
+
+2\. Vyhláška č. 413/2009 Sb., kterou se mění vyhláška č. 454/2002 Sb., kterou se stanoví doklady pro výběr, postup při výběru a vzor osobního dotazníku uchazeče o povolání do služebního poměru vojáka z povolání.
+
+3\. Vyhláška č. 240/2018 Sb., kterou se mění vyhláška č. 454/2002 Sb., kterou se stanoví doklady pro výběr, postup při výběru a vzor osobního dotazníku uchazeče o povolání do služebního poměru vojáka z povolání, ve znění vyhlášky č. 413/2009 Sb.
+
+4\. Vyhláška č. 189/2024 Sb., kterou se mění vyhláška č. 454/2002 Sb., kterou se stanoví doklady pro výběr, postup při výběru a vzor osobního dotazníku uchazeče o povolání do služebního poměru vojáka z povolání, ve znění pozdějších předpisů.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2025.
+
+Ministryně obrany:
+
+Mgr. Černochová v. r.
+
+---
+
+<sup>1</sup>) Vyhláška č. 288/2024 Sb., o zdravotní způsobilosti k výkonu vojenské činné služby a o rozsahu preventivní péče poskytované vojákům v činné službě nad rámec hrazených služeb z veřejného zdravotního pojištění.

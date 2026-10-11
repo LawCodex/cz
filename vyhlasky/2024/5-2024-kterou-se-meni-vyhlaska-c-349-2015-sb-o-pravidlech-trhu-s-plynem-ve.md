@@ -1,0 +1,287 @@
+---
+title: "Vyhláška č. 5/2024 Sb., kterou se mění vyhláška č. 349/2015 Sb., o Pravidlech trhu s plynem, ve znění pozdějších předpisů"
+identifier: "5/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/5/2024-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2023-12-28
+effective: 2024-04-01
+last_amended: 2024-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/5"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 5/2024 Sb., kterou se mění vyhláška č. 349/2015 Sb., o Pravidlech trhu s plynem, ve znění pozdějších předpisů
+
+5
+
+VYHLÁŠKA
+
+ze dne 28. prosince 2023,
+
+kterou se mění vyhláška č. 349/2015 Sb., o Pravidlech trhu s plynem, ve znění pozdějších předpisů
+
+Energetický regulační úřad stanoví podle § 98a odst. 2 písm. i) zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 158/2009 Sb., zákona č. 211/2011 Sb., zákona č. 90/2014 Sb., zákona č. 131/2015 Sb., zákona č. 362/2021 Sb. a zákona č. 176/2022 Sb.:
+
+## Čl. I
+
+Vyhláška č. 349/2015 Sb., o Pravidlech trhu s plynem, ve znění vyhlášky č. 416/2016 Sb., vyhlášky č. 326/2018 Sb., vyhlášky č. 277/2021 Sb., vyhlášky č. 223/2022 Sb. a vyhlášky č. 405/2022 Sb., se mění takto:
+
+1\. V § 1 se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno r), které zní:
+
+> „r) pravidla a podmínky pro poskytování služby přeshraničního využití zásobníku plynu.“.
+
+2\. V § 2 odst. 1 písm. a) se za slova „zásobníku plynu,“ vkládají slova „hraničním bodu zásobníku plynu,“.
+
+3\. V § 2 se na konci odstavce 3 tečka nahrazuje čárkou a doplňuje se písmeno d), které zní:
+
+> „d) hraničním bodem zásobníku plynu – hraniční předávací místo mezi zásobníkem plynu a plynárenskou soustavou sousedního státu.“.
+
+4\. V § 3 odst. 2 se za slova „plynu a přepravní soustavou“ vkládají slova „ , předávacích míst mezi zásobníkem plynu a plynárenskou soustavou sousedního státu“.
+
+5\. V § 5 se na konci odstavce 3 tečka nahrazuje čárkou a doplňuje se písmeno f), které zní:
+
+> „f) hraničním bodům zásobníků plynu ve spolupráci s provozovatelem zásobníku plynu poskytujícím službu přeshraničního využití zásobníku plynu a dotčeným provozovatelem přepravní soustavy sousedního vstupně-výstupního systému.“.
+
+6\. V § 30 odst. 2 písm. d) se slova „rozdílu mezi výší rezervované kapacity subjektem zúčtování nebo zahraničním účastníkem v tomto bodě a podanou nominací“ nahrazují slovy „výše podané nominace“.
+
+7\. V § 30a odst. 5 se slova „ , nejvýše však 50 % přepravní kapacity rezervované smlouvou o službě přepravy plynu“ zrušují.
+
+8\. V § 50 se doplňuje odstavec 10, který zní:
+
+> „(10) V případě zásobníku plynu umožňujícího poskytování služby přeshraničního využití zásobníku plynu se převod plynu uskutečňuje pouze mezi stavovými podúčty českého vstupně-výstupního systému nebo mezi stavovými podúčty sousedního vstupně-výstupního systému. Odstavec 9 se použije pouze pro stavové podúčty českého vstupně-výstupního systému.“.
+
+9\. V § 52 odst. 3 se slova „celé m<sup>3</sup> nebo kWh nebo kWh/den“ nahrazují slovy „celé m<sup>3</sup>, kWh, kWh/den, MWh nebo MWh/den“.
+
+10\. V § 59 se doplňuje odstavec 5, který zní:
+
+> „(5) Při prodeji nevytěženého plynu ze zásobníku plynu umožňujícího poskytnutí služby přeshraničního využití zásobníku plynu se odstavce 1 až 4 použijí pouze pro stavové podúčty českého vstupně-výstupního systému.“.
+
+11\. V nadpisu § 60 se slova „při omezení nebo přerušení uskladňování plynu“ zrušují.
+
+12\. V § 60 odst. 1 se za slova „uskladňování plynu“ vkládají slova „podle § 60 odst. 1 písm. f) energetického zákona“.
+
+13\. V § 60 odst. 2 se věta první nahrazuje větou „Provozovatel zásobníku plynu krátí podle odstavce 1 rezervované skladovací kapacity s přerušitelným výkonem postupem stanoveným v řádu provozovatele na základě ceny za jednotku přerušitelného vtláčecího nebo těžebního výkonu v pořadí od nejnižší ceny po nejvyšší, na základě pořadí podle časové značky přijetí žádosti o rezervaci skladovací kapacity v pořadí od nejpozději přijaté žádosti po nejdříve přijatou, na základě poměrného krácení, nebo na základě kombinace těchto principů.“.
+
+14\. V § 60 odst. 3 větě první se za slovo „krátí“ vkládají slova „podle odstavce 1“, ve větě třetí se slovo „plánované“ zrušuje a za slovo „přerušení“ se vkládají slova „nebo omezení“.
+
+15\. V § 60 odstavec 5 zní:
+
+> „(5) V případech odlišných od odstavce 1 krátí provozovatel zásobníku plynu rezervované skladovací kapacity s přerušitelným výkonem způsobem definovaným v řádu provozovatele zásobníku plynu.“.
+
+16\. V § 61 se na konci textu odstavce 3 doplňují slova „a v případě zásobníku plynu umožňujícího poskytnutí služby přeshraničního využití zásobníku plynu zveřejňuje tyto údaje v rozlišení za každý vstupně-výstupní systém“.
+
+17\. Za § 61 se vkládá nový § 61a, který včetně nadpisu zní:
+
+> **„§ 61a – Pravidla a podmínky pro poskytování služby přeshraničního využití zásobníku plynu**
+
+> (1) V případě poskytování služby přeshraničního využití zásobníku plynu je pro každou smlouvu o uskladňování veden stavový účet rozdělený na stavové podúčty pro každý vstupně-výstupní systém. Provozovatel zásobníku plynu eviduje objem vtláčeného plynu v rozsahu potvrzené nominace uskladňování nebo renominace uskladňování na stavovém podúčtu odpovídajícího vstupně-výstupního systému.
+
+> (2) Provozovatel zásobníku plynu poskytuje službu přeshraničního využití zásobníku plynu do výše evidovaného množství plynu na přilehlém stavovém podúčtu vstupně-výstupního systému ukladatele v případě, že objem těženého plynu v rozsahu nominace uskladňování nebo renominace uskladňování ze stavového podúčtu odpovídajícího vstupně-výstupního systému převyšuje množství plynu evidované na tomto podúčtu a na stavovém podúčtu přilehlého vstupně-výstupního systému téhož žadatele je evidováno množství plynu umožňující potvrzení podané nominace uskladňování nebo renominace uskladňování v rámci stavového účtu tohoto žadatele.
+
+> (3) Provozovatel zásobníku plynu eviduje objem těženého plynu v rozsahu potvrzené nominace nebo renominace uskladňování na stavovém podúčtu odpovídajícího vstupně-výstupního systému.“.
+
+18\. V § 65 odst. 1 se za slovo „soustavy“ vkládají slova „nebo provozovatel přepravní soustavy sousedního vstupně-výstupního systému“.
+
+19\. V § 65 se na konci textu odstavce 2 doplňují slova „nebo provozovateli přepravní soustavy sousedního vstupně-výstupního systému“.
+
+20\. V § 66 odst. 1 se slova „ , distribuce a uskladňování“ zrušují.
+
+21\. V § 66 odst. 3 větě druhé se za slovy „nominace uskladňování v termínu podle“ slova „odstavce 1“ nahrazují textem „§ 68 odst. 2“.
+
+22\. V § 69 odst. 4 se slovo „plynárenského“ nahrazuje slovem „kalendářního“ a slova „plynárenské“ a „plynárenském“ se zrušují.
+
+23\. V § 71 odst. 3 se text „odst. 3“ nahrazuje textem „odst. 2“, slovo „plynárenského“ se nahrazuje slovem „kalendářního“ a slovo „plynárenské“ se zrušuje.
+
+24\. V § 83 odst. 3 písm. b) se za slovo „účastníka;“ vkládají slova „vyjma mimořádného stavu nouze jsou“ a slova „odchylky jsou“ se nahrazují slovem „odchylky“.
+
+25\. V § 83 odst. 3 písm. c) se za slovo „odchylku;“ vkládají slova „vyjma mimořádného stavu nouze jsou“ a slova „odchylky jsou“ se nahrazují slovem „odchylky“.
+
+26\. V § 85 odst. 1 se za slovo „odchylek,“ vkládají slova „vypořádáním odchylek při mimořádném stavu nouze,“.
+
+27\. Za § 96a se vkládá nový § 96b, který včetně nadpisu zní:
+
+> **„§ 96b – Předávání a zveřejňování údajů provozovatelem zásobníku plynu poskytujícím službu přeshraničního využití zásobníku plynu**
+
+> (1) Nejpozději do 12:00:00 hodin kalendářního dne předá provozovatel zásobníku plynu poskytující službu přeshraničního využití zásobníku plynu operátorovi trhu za předcházející plynárenský den
+
+> a) hodnotu alokovaného množství plynu na vstupním a výstupním bodě virtuálního zásobníku plynu v rozdělení po jednotlivých hodinách plynárenského dne,
+
+> b) množství plynu převedené mezi stavovými podúčty českého vstupně-výstupního systému po jednotlivých hodinách plynárenského dne v rozdělení na souhrnnou hodnotu kladných převodů a souhrnnou hodnotu záporných převodů,
+
+> c) množství plynu převedené mezi stavovými podúčty sousedního vstupně-výstupního systému po jednotlivých hodinách plynárenského dne v rozdělení na souhrnnou hodnotu kladných převodů a souhrnnou hodnotu záporných převodů,
+
+> d) souhrnnou hodnotu množství plynu předaného z jednotlivých stavových podúčtů českého vstupně-výstupního systému na stavové podúčty sousedního vstupně-výstupního systému v rozdělení po jednotlivých hodinách plynárenského dne,
+
+> e) souhrnnou hodnotu množství plynu předaného z jednotlivých stavových podúčtů sousedního vstupně-výstupního systému na stavové podúčty českého vstupně-výstupního systému v rozdělení po jednotlivých hodinách plynárenského dne,
+
+> f) souhrnnou hodnotu množství plynu evidovaného na stavových podúčtech českého vstupně-výstupního systému v rozdělení po jednotlivých hodinách plynárenského dne,
+
+> g) souhrnnou hodnotu množství plynu evidovaného na stavových podúčtech sousedního vstupně-výstupního systému v rozdělení po jednotlivých hodinách plynárenského dne,
+
+> h) hodnotu alokovaného množství plynu na vstupním a výstupním hraničním bodě zásobníku plynu v rozdělení po jednotlivých hodinách plynárenského dne,
+
+> i) hodnotu množství plynu evidovaného na jednotlivých stavových podúčtech českého vstupně-výstupního systému na konci plynárenského dne,
+
+> j) hodnotu množství plynu evidovaného na jednotlivých stavových podúčtech sousedního vstupně-výstupního systému na konci plynárenského dne,
+
+> k) hodnotu množství plynu předaného ze stavových podúčtů českého vstupně-výstupního systému na stavové podúčty sousedního vstupně-výstupního systému na konci plynárenského dne v rozdělení po jednotlivých stavových účtech,
+
+> l) hodnotu množství plynu předaného ze stavových podúčtů sousedního vstupně-výstupního systému na stavové podúčty českého vstupně-výstupního systému na konci plynárenského dne v rozdělení po jednotlivých stavových účtech,
+
+> m) hodnotu množství plynu změřenou na vstupu do zásobníku plynu z plynárenské soustavy sousedního státu a na výstupu ze zásobníku plynu do plynárenské soustavy sousedního státu na konci plynárenského dne,
+
+> n) hodnotu množství plynu předaného z jednotlivých stavových podúčtů českého vstupně-výstupního systému na stavové podúčty sousedního vstupně-výstupního systému v rozdělení po jednotlivých hodinách plynárenského dne,
+
+> o) hodnotu množství plynu předaného z jednotlivých stavových podúčtů sousedního vstupně-výstupního systému na stavové podúčty českého vstupně-výstupního systému v rozdělení po jednotlivých hodinách plynárenského dne.
+
+> (2) Nejpozději do 12:00:00 hodin desátého kalendářního dne plynárenského měsíce předá provozovatel zásobníku plynu poskytující službu přeshraničního využití zásobníku plynu operátorovi trhu opravné hodnoty předaných údajů za předcházející plynárenský měsíc podle odstavce 1 písm. i) a j) za každý jeden plynárenský den a
+
+> a) hodnotu množství plynu alokovaného na vstupním a výstupním bodě virtuálního zásobníku plynu na konci každého plynárenského dne v rozdělení po jednotlivých stavových účtech,
+
+> b) hodnotu množství plynu převedeného mezi stavovými podúčty českého vstupně-výstupního systému za každý plynárenský den v rozdělení na kladné a záporné převody po jednotlivých stavových účtech,
+
+> c) hodnotu množství plynu převedeného mezi stavovými podúčty sousedního vstupně-výstupního systému za každý plynárenský den v rozdělení na kladné a záporné převody po jednotlivých stavových účtech,
+
+> d) souhrnnou hodnotu množství plynu evidovaného na stavových podúčtech na konci každého plynárenského dne v rozdělení na český vstupně-výstupní systém a sousední vstupně-výstupní systém,
+
+> e) hodnotu množství plynu alokovaného na vstupním a výstupním hraničním bodě zásobníku plynu na konci každého plynárenského dne v rozdělení po jednotlivých stavových účtech,
+
+> f) hodnotu množství plynu spotřebovaného na technologickou spotřebu a provozní účely provozovatele zásobníku plynu na konci každého plynárenského dne předchozího plynárenského měsíce.
+
+> (3) Provozovatel zásobníku plynu předává údaje podle odstavců 1 a 2 včetně údajů ze stavových účtů vedených pro účely evidence technologické spotřeby a provozní účely provozovatele zásobníku plynu.
+
+> (4) Nejpozději do 12:00:00 hodin kalendářního dne předá provozovatel přepravní soustavy operátorovi trhu a provozovateli zásobníku plynu poskytujícímu službu přeshraničního využití zásobníku plynu údaje o množství plynu změřeného na vstupu do zásobníku plynu z přepravní soustavy a na výstupu ze zásobníku plynu do přepravní soustavy za předcházející plynárenský den.
+
+> (5) Provozovatel zásobníku plynu poskytující službu přeshraničního využití zásobníku plynu předává provozovateli přepravní soustavy údaje v rozsahu podle odstavce 1 písm. a), b), d) až g), i), k) až o), odstavce 2 písm. a), b), d) a f) a souhrnnou hodnotu podle odstavce 1 písm. j).
+
+> (6) V případě, že výsledek výpočtu denní bilance služby přeshraničního využití zásobníku plynu ke konci plynárenského dne nebo výsledek výpočtu měsíční bilance služby přeshraničního zásobníku plynu ke konci plynárenského měsíce podle přílohy č. 21 k této vyhlášce se nerovná nule, předá provozovatel zásobníku plynu poskytující službu přeshraničního využití zásobníku plynu operátorovi trhu a provozovateli přepravní soustavy opravné údaje hodnot předaných podle odstavce 1 nejpozději do 11:00:00 hodin třetího kalendářního dne po termínu podle § 103a odst. 2 a opravné údaje hodnot předaných podle odstavce 2 nejpozději do 2 dnů po termínu podle § 103a odst. 3.“.
+
+28\. Za § 103 se vkládá nový § 103a, který zní:
+
+> **„§ 103a**
+
+> (1) Operátor trhu zveřejňuje nejpozději do 13:00:00 hodin kalendářního dne hodnotu podle § 96b odst. 1 písm. k) a l) souhrnně za všechny stavové podúčty za předcházející plynárenský den.
+
+> (2) Operátor trhu zpřístupní provozovateli přepravní soustavy a provozovateli zásobníku plynu poskytujícímu službu přeshraničního uskladňovaní plynu nejpozději do 13:00:00 hodin kalendářního dne
+
+> a) rozdíl mezi součtem hodnot podle § 96b odst. 1 písm. h) za předchozí plynárenský den a množstvím plynu podle § 96b odst. 1 písm. m) za předchozí plynárenský den,
+
+> b) rozdíl mezi součtem hodnot podle § 96b odst. 1 písm. a) za předchozí plynárenský den a množstvím plynu podle § 96b odst. 4 za předchozí plynárenský den,
+
+> c) denní bilanci služby přeshraničního využití zásobníku plynu podle bodu I. přílohy č. 21 k této vyhlášce.
+
+> (3) Operátor trhu zpřístupní provozovateli přepravní soustavy a provozovateli zásobníku plynu poskytujícímu službu přeshraničního uskladňovaní nejpozději do 12:00:00 hodin jedenáctého dne plynárenského měsíce
+
+> a) souhrnnou hodnotu rozdílů mezi součtem hodnot podle § 96b odst. 2 písm. e) a § 96b odst. 1 písm. m) za jednotlivé plynárenské dny předchozího plynárenského měsíce,
+
+> b) souhrnnou hodnotu rozdílů mezi součtem hodnot podle § 96b odst. 2 písm. a) a § 96b odst. 4 za jednotlivé plynárenské dny předchozího plynárenského měsíce,
+
+> c) měsíční bilanci služby přeshraničního využití zásobníku plynu podle bodu II. přílohy č. 21 k této vyhlášce.
+
+> (4) Operátor trhu zpřístupní provozovateli přepravní soustavy a provozovateli zásobníku plynu poskytujícímu službu přeshraničního uskladňovaní nejpozději do 13:00:00 hodin patnáctého dne kalendářního roku souhrnnou hodnotu rozdílů podle odstavce 3 písm. a) a souhrnnou hodnotu rozdílů podle odstavce 3 písm. b) za jednotlivé plynárenské měsíce předchozího kalendářního roku.
+
+> (5) Opravné údaje předané podle § 96b odst. 6 zveřejní operátor trhu neprodleně po jejich zpracování.“.
+
+29\. V § 116 odstavec 2 zní:
+
+> „(2) Pokud subjekt zúčtování podle odstavce 1 následující kalendářní den v 8:00:00 hodin nemá nadále potřebné finanční zajištění pro pokrytí dodávek do odběrných míst zákazníků, operátor trhu pozastaví možnost nominovat, přenášet a přebírat odpovědnost za odchylku a účastnit se vnitrodenního trhu s plynem. Operátor trhu neprodleně zveřejní informaci o pozastavení možnosti subjektu zúčtování nominovat, přenášet a přebírat odpovědnost za odchylku a účastnit se vnitrodenního trhu s plynem způsobem umožňujícím dálkový přístup. Operátor trhu neprodleně poskytne výčet EIC kódů odběrných míst, jichž se daná skutečnost týká, všem registrovaným účastníkům trhu s plynem v informačním systému operátora trhu.“.
+
+30\. V § 118 odstavec 5 zní:
+
+> „(5) Dodavateli plynu, který pozbyl oprávnění nebo možnost dodávat plyn nebo nemá zajištěnu službu přepravní nebo distribuční soustavy v případě dodávky plynu na základě smlouvy o sdružených službách dodávky plynu, operátor trhu pozastaví možnost nominovat, přenášet a přebírat odpovědnost za odchylku a účastnit se vnitrodenního trhu s plynem. Operátor trhu neprodleně poskytne výčet EIC kódů odběrných míst, jichž se daná skutečnost týká, všem registrovaným účastníkům trhu s plynem v informačním systému operátora trhu. Operátor trhu neprodleně zveřejní informaci o pozastavení možnosti subjektu zúčtování nominovat, přenášet a přebírat odpovědnost za odchylku a účastnit se vnitrodenního trhu s plynem způsobem umožňujícím dálkový přístup. Pro odběrná místa zákazníků, jejichž dodavatel plynu pozbyl oprávnění nebo možnost dodávat plyn nebo nemá zajištěnu službu přepravní nebo distribuční soustavy v případě dodávky plynu na základě smlouvy o sdružených službách dodávky plynu, se použijí postup a termíny podle § 116 odst. 5, § 117 a tohoto paragrafu obdobně.“.
+
+31\. V § 119 odst. 3 písm. a) se slovo „pátého“ nahrazuje slovem „čtvrtého“.
+
+32\. Doplňuje se příloha č. 21, která zní:
+
+> **„Příloha č. 21**
+
+> **Postup vytvoření bilance služby přeshraničního využití zásobníku plynu**
+
+> I. Denní bilance služby přeshraničního využití zásobníku plynu ke konci plynárenského dne ∆CBS<sub>d</sub> se vypočte tímto způsobem:
+
+> *∆CBS<sub>d</sub> = ∆<sub>QZ</sub> + ∆<sub>QCZ</sub>,*
+
+> kde
+
+> | ∆<sub>QZ</sub> | je souhrnná změna množství plynu evidovaného na všech stavových podúčtech sousedního vstupně-výstupního systému v průběhu plynárenského dne, |
+> |---|---|
+> | ∆<sub>QCZ</sub> | je souhrnná změna množství plynu evidovaného na všech stavových podúčtech českého vstupně-výstupního systému v průběhu plynárenského dne, |
+
+> a kde
+
+> ∆<sub>QZ</sub>=∑h=124∆<sub>QZh</sub>-∑h=124ALx<sub>Zh</sub>-ALe<sub>Zh</sub>-∑h=124P<sub>Zh</sub><sup>-</sup>-P<sub>Zh</sub><sup>+</sup>-∑h=124CBS<sub>CZZh</sub>-CBS<sub>ZCZh</sub>,
+
+> kde
+
+> | ∆<sub>QZh</sub> | je změna množství plynu evidovaného na všech stavových podúčtech sousedního vstupně-výstupního systému v průběhu jedné hodiny *h* plynárenského dne, |
+> |---|---|
+> | ALx<sub>Zh</sub> | je souhrnné množství plynu alokované na výstupním hraničním bodě zásobníku plynu v hodině *h* plynárenského dne, |
+> | ALe<sub>Zh</sub> | je souhrnné množství plynu alokované na vstupním hraničním bodě zásobníku plynu v hodině *h* plynárenského dne, |
+> | P<sup>-</sup><sub>Zh</sub> | je souhrnné množství plynu převedené ze stavových podúčtů sousedního vstupně-výstupního systému v hodině *h* plynárenského dne, |
+> | P<sup>+</sup><sub>Zh</sub> | je souhrnné množství plynu převedené na stavové podúčty sousedního vstupně-výstupního systému v hodině *h* plynárenského dne, |
+> | CBS<sub>CZZh</sub> | je souhrnné množství plynu předané ze stavových podúčtů českého vstupně-výstupního systému na stavové podúčty sousedního vstupně-výstupního systému v hodině *h* plynárenského dne, |
+> | CBS<sub>ZCZh</sub> | je souhrnné množství plynu předané ze stavových podúčtů sousedního vstupně-výstupního systému na stavové podúčty českého vstupně-výstupního systému v hodině *h* plynárenského dne, |
+
+> a kde
+
+> ∆<sub>QCZ</sub>=∑h=124∆<sub>QCZh</sub>-∑h=124ALx<sub>CZh</sub>-ALe<sub>CZh</sub>-∑h=124P<sub>CZh</sub><sup>-</sup>-P<sub>CZh</sub><sup>+</sup>-∑h=124CBS<sub>ZCZh</sub>-CBS<sub>CZZh</sub>,
+
+> kde
+
+> | ∆<sub>QZh</sub> | je změna množství plynu evidovaného na všech stavových podúčtech českého vstupně-výstupního systému v průběhu jedné hodiny *h* plynárenského dne, |
+> |---|---|
+> | ALx<sub>CZ</sub><sub>h</sub> | je souhrnné množství plynu alokované na výstupním bodě virtuálního zásobníku plynu v hodině *h* plynárenského dne, |
+> | ALe<sub>CZh</sub> | je souhrnné množství plynu alokované na vstupním bodě virtuálního zásobníku plynu v hodině *h* plynárenského dne, |
+> | P<sup>-</sup><sub>CZh</sub> | je souhrnné množství plynu převedené ze stavových podúčtů českého vstupně-výstupního systému v hodině *h* plynárenského dne, |
+> | P<sup>+</sup><sub>CZh</sub> | je souhrnné množství plynu převedené na stavové podúčty českého vstupně-výstupního systému v hodině *h* plynárenského dne. |
+
+> II. Měsíční bilance služby přeshraničního zásobníku plynu ke konci plynárenského měsíce *∆CBS<sub>m</sub>* se vypočte tímto způsobem:
+
+> ∆CBS<sub>m</sub>=∑d=1m∆<sub>QZd</sub>+∆<sub>QCZd</sub>+TS<sub>d</sub>,
+
+> kde
+
+> | *∆<sub>QCZ</sub><sub>d</sub>* | je změna množství plynu evidovaného na všech stavových podúčtech českého vstupně-výstupního systému na konci plynárenského dne *d*, |
+> |---|---|
+> | *∆<sub>QZd</sub>* | je změna množství plynu evidovaného na všech stavových podúčtech sousedního vstupně-výstupního systému na konci plynárenského dne *d*, |
+> | *TS<sub>d</sub>* | je množství plynu spotřebované provozovatelem zásobníku plynu na technologickou spotřebu a provozní účely za plynárenský den *d*, |
+
+> a kde
+
+> ∆<sub>QZd</sub>=∑i=1nQ<sub>Zdi</sub>-∑i=1nQ<sub>Zd-1i</sub>-∑i=1nCBS<sub>CZZdi</sub>-CBS<sub>ZCZdi</sub>+ALx<sub>Zdi</sub>-ALe<sub>Zdi</sub>+P<sub>Zdi</sub><sup>-</sup>-P<sub>Zdi</sub><sup>+</sup>,
+
+> kde
+
+> | *Q<sub>Zdi</sub>* | je množství plynu evidované na stavovém podúčtu sousedního vstupně-výstupního systému na konci plynárenského dne *d* pro stavový účet *i*, |
+> |---|---|
+> | *CBS<sub>CZZdi</sub>* | je množství plynu předané ze stavového podúčtu českého vstupně-výstupního systému na stavový podúčet sousedního vstupně-výstupního systému na konci plynárenského dne *d* pro stavový účet *i*, |
+> | *CBS<sub>ZCZdi</sub>* | je množství plynu předané ze stavového podúčtu sousedního vstupně-výstupního systému na stavový podúčet českého vstupně-výstupního systému na konci plynárenského dne *d* pro stavový účet *i*, |
+> | *ALx<sub>Zdi</sub>* | je množství plynu alokované na výstupním hraničním bodě zásobníku plynu na konci plynárenského dne *d* pro stavový účet *i*, |
+> | *ALe<sub>Zdi</sub>* | je množství plynu alokované na vstupním hraničním bodě zásobníku plynu na konci plynárenského dne *d* pro stavový účet *i*, |
+> | *P<sup>-</sup><sub>Zdi</sub>* | je množství plynu převedené ze stavového podúčtu sousedního vstupně-výstupního systému za plynárenský den *d* pro stavový účet *i*, |
+> | *P<sup>+</sup><sub>Zdi</sub>* | je množství plynu převedené na stavový podúčet sousedního vstupně-výstupního systému za plynárenský den *d* pro stavový účet *i*, |
+
+> a kde
+
+> ∆<sub>QCZd</sub>=∑i=1nQ<sub>CZdi</sub>-∑i=1nQ<sub>CZd-1i</sub>-∑i=1nCBS<sub>ZCZdi</sub>-CBS<sub>CZZdi</sub>+ALx<sub>CZdi</sub>-ALe<sub>CZdi</sub>+P<sub>CZdi</sub><sup>-</sup>-P<sub>CZdi</sub><sup>+</sup>,
+
+> kde
+
+> | *Q<sub>CZdi</sub>* | je množství plynu evidované na stavovém podúčtu českého vstupně-výstupního systému na konci plynárenského dne *d* pro stavový účet *i*, |
+> |---|---|
+> | *ALx<sub>CZdi</sub>* | je množství plynu alokované na výstupním bodě virtuálního zásobníku plynu na konci plynárenského dne *d* pro stavový účet *i*, |
+> | *ALe<sub>CZdi</sub>* | je množství plynu alokované na vstupním bodě virtuálního zásobníku plynu na konci plynárenského dne *d* pro stavový účet *i*, |
+> | *P<sup>-</sup><sub>CZdi</sub>* | je množství plynu převedené ze stavového podúčtu českého vstupně-výstupního systému za plynárenský den *d* pro stavový účet *i*, |
+> | *P<sup>+</sup><sub>CZdi</sub>* | je množství plynu převedené na stavový podúčet českého vstupně-výstupního systému za plynárenský den *d* pro stavový účet *i*.“. |
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2024.
+
+Předseda Rady:
+
+Ing. Trávníček, Ph.D., v. r.

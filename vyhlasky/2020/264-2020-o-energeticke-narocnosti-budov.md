@@ -1,0 +1,673 @@
+---
+title: "Vyhláška č. 264/2020 Sb., o energetické náročnosti budov"
+identifier: "264/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/264/2024-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-05-29
+effective: 2020-09-01
+last_amended: 2024-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/264"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 264/2020 Sb., o energetické náročnosti budov
+
+264
+
+VYHLÁŠKA
+
+ze dne 29. května 2020
+
+o energetické náročnosti budov
+
+Ministerstvo průmyslu a obchodu stanoví podle § 14 odst. 4 zákona č. 406/2000 Sb., o hospodaření energií, ve znění zákona č. 165/2012 Sb., zákona č. 318/2012 Sb., zákona č. 310/2013 Sb., zákona č. 131/2015 Sb. a zákona č. 3/2020 Sb., (dále jen „zákon“) k provedení § 7 odst. 7 a § 7a odst. 6 zákona:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška zapracovává příslušné předpisy Evropské unie<sup>1</sup>) a upravuje
+
+a) nákladově optimální úroveň požadavků na energetickou náročnost pro nové budovy, větší změny dokončených budov, jiné než větší změny dokončených budov a pro budovy s téměř nulovou spotřebou energie,
+
+b) metodu výpočtu energetické náročnosti budovy,
+
+c) vzor posouzení technické, ekonomické a ekologické proveditelnosti alternativních systémů dodávek energie,
+
+d) vzor stanovení doporučených opatření pro snížení energetické náročnosti budovy,
+
+e) vzor a obsah průkazu a způsob jeho zpracování a
+
+f) umístění průkazu v budově.
+
+## § 2 – Základní pojmy
+
+Pro účely této vyhlášky se rozumí
+
+a) referenční budovou výpočtově definovaná budova téhož druhu, stejného geometrického tvaru a velikosti včetně prosklených ploch a částí, stejné orientace ke světovým stranám, stínění okolní zástavbou a přírodními překážkami, stejného vnitřního uspořádání a se stejným typickým užíváním a stejnými uvažovanými klimatickými údaji jako hodnocená budova, avšak s referenčními hodnotami vlastností budovy, jejích konstrukcí a technických systémů budovy,
+
+b) typickým užíváním budovy obvyklý způsob užívání budovy v souladu s podmínkami vnitřního a venkovního prostředí a provozu stanovený pro účely výpočtu energetické náročnosti budovy,
+
+c) venkovním prostředím venkovní vzduch, vzduch v přilehlých nevytápěných prostorech, přilehlá zemina, sousední budova a v případě hodnocení ucelené části budovy i jiná sousední zóna,
+
+d) obytnou zónou zóna obsahující byty a prostory plnící funkce domovní komunikace a domovního vybavení k těmto bytům s výjimkou garáže v obytné budově nebo v obytné části budovy jiného účelu,
+
+e) přirozeným větráním větrání založené na principu teplotního a tlakového rozdílu vnitřního a venkovního vzduchu,
+
+f) nuceným větráním větrání pomocí mechanického zařízení,
+
+g) energonositelem hmota nebo jev, které mohou být použity k výrobě mechanické práce, tepla nebo na ovládání chemických nebo fyzikálních procesů,
+
+h) vypočtenou spotřebou energie, která se stanoví z potřeby energie pro zajištění typického užívání budovy se zahrnutím účinností technických systémů, v případě spotřeby paliv je spotřeba energie vztažena k výhřevnosti paliva,
+
+i) pomocnou energií energie potřebná pro provoz technických systémů,
+
+j) primární energií z neobnovitelných zdrojů energie energie, která neprošla žádným procesem přeměny,
+
+k) technologií zařízení, jehož spotřeba energie není obsažena v celkové dodané energii hodnocené budovy a současně není součástí technických systémů budovy,
+
+l) odpadním teplem z technologie tepelná energie, která vzniká jako vedlejší produkt při přeměně a konečné spotřebě energie v souvislosti s provozem technologie a která může být využita jako energonositel pro dílčí dodané energie, jestliže výroba této tepelné energie nebyla zahrnuta do celkové dodané energie hodnocené budovy,
+
+m) obálkou ucelené části budovy soubor všech teplosměnných konstrukcí na hranici ucelené části budovy, které jsou vystaveny přilehlému prostředí, jež tvoří venkovní vzduch, přilehlá zemina, vnitřní vzduch v přilehlém nevytápěném prostoru nebo sousední budově nebo sousední zóně budovy nespadající do ucelené části budovy,
+
+n) areálem vzájemně propojený soubor budov, technických systémů budovy, technologií a zařízení pro výrobu a vedení energie, které se nacházejí na pozemku nebo pozemcích spolu sousedících; jednotlivé pozemky areálu mohou být od sebe odděleny například pozemní komunikací, účelovou komunikací, vodotečí nebo železnicí; vnější hranice pozemku nebo souborů pozemků tvoří hranice areálu,
+
+o) zónou budova nebo její část s podobnými vlastnostmi vnitřního prostředí, režimem užívání a skladbou technického systému budovy podle české technické normy upravující výpočet potřeby energie pro vytápění a chlazení<sup>2</sup>),
+
+p) systémovou hranicí povrch konstrukcí budovy, které souvisle obalují objem ucelené části budovy při uplatnění pravidel podle české technické normy upravující energetickou náročnost budov<sup>8</sup>),
+
+q) výrobnou elektřiny pro vlastní spotřebu výrobna elektřiny podle energetického zákona umístěná v areálu a určená k výrobě elektřiny pro spotřebu v areálu.
+
+## § 3 – Ukazatele energetické náročnosti budovy a jejich stanovení
+
+(1) Ukazatele energetické náročnosti budovy jsou
+
+a) primární energie z neobnovitelných zdrojů energie vztažená na metr čtvereční energeticky vztažné plochy,
+
+b) celková dodaná energie za rok vztažená na metr čtvereční energeticky vztažné plochy,
+
+c) dílčí dodané energie pro technické systémy vytápění, chlazení, nucené větrání, úpravu vlhkosti vzduchu, přípravu teplé vody a osvětlení vnitřního prostoru budovy za rok vztažené na metr čtvereční energeticky vztažné plochy,
+
+d) průměrný součinitel prostupu tepla,
+
+e) součinitele prostupu tepla jednotlivých konstrukcí na systémové hranici,
+
+f) účinnost technických systémů.
+
+(2) Hodnoty ukazatelů energetické náročnosti hodnocené budovy a referenční budovy se stanovují výpočtem na základě projektové dokumentace a v souladu s metodikou hodnocení energetické náročnosti budovy podle přílohy č. 5 k této vyhlášce. V případě dokončených budov musí být vstupní údaje pro výpočet v souladu se současným stavebně technickým stavem budovy.
+
+(3) Pro výpočet hodnot ukazatelů energetické náročnosti referenční budovy se použijí hodnoty parametrů budovy, stavebních prvků a konstrukcí a technických systémů budovy uvedené v příloze č. 1 k této vyhlášce a parametry typického užívání budovy, které vychází z optimální úrovně zdravého vnitřního prostředí, kvality vnitřního vzduchu a tepelné pohody.
+
+(4) Výpočet celkové dodané energie a dílčích dodaných energií pro technické systémy vytápění, chlazení, nucené větrání, úpravu vlhkosti vzduchu, přípravu teplé vody a osvětlení vnitřního prostoru budovy se provede postupem podle § 4.
+
+(5) Výpočet primární energie z neobnovitelných zdrojů energie se provede postupem podle § 5.
+
+(6) Výpočet průměrného součinitele prostupu tepla a součinitelů prostupu tepla jednotlivých konstrukcí na systémové hranici se provede podle české technické normy pro výpočtové metody tepelné ochrany budov<sup>2</sup>).
+
+(7) Výpočet účinnosti technických systémů vytápění, chlazení, nucené větrání, úpravy vlhkosti vzduchu, přípravy teplé vody a osvětlení vnitřního prostoru budovy se provede podle příslušných českých technických norem.
+
+(8) Jestliže je do hodnocené budovy dodávána také elektřina z výroben elektřiny pro vlastní spotřebu umístněných v areálu, ve výpočtu hodnot ukazatelů energetické náročnosti hodnocené budovy se může zohlednit také takto dodávaná elektřina; pro výpočet hodnot ukazatelů energetické náročnosti hodnocené budovy se v těchto případech použijí pravidla pro výpočet energetické náročnosti budov uvedená v příloze č. 6 k této vyhlášce.
+
+## § 4 – Výpočet dodané energie
+
+(1) Hodnota dodané energie je součtem vypočtené spotřeby energie a pomocné energie. Výpočet hodnot celkové dodané energie a dílčích dodaných energií se provede v časovém intervalu (dále jen „krok výpočtu“) výpočtu nejvýše jednoho měsíce a po jednotlivých zónách. V budovách nebo zónách s chlazením, úpravou vlhkosti nebo s výrobou elektrické energie se výpočet provede krokem nejvýše jedné hodiny.
+
+(2) Celková hodnota dodané energie se stanoví součtem hodnot dílčích dodaných energií; součástí výpočtu hodnot celkové dodané energie je rovněž její stanovení v členění po jednotlivých energonositelích.
+
+(3) Hodnota dílčí dodané energie na vytápění se stanoví jako součet vypočtené spotřeby energie na vytápění a pomocné energie na provoz technického systému pro vytápění podle české technické normy pro výpočet potřeby energie pro vytápění a chlazení<sup>3</sup>) a české technické normy pro tepelné soustavy v budovách<sup>4</sup>) s využitím hodnot typického užívání budov, které vychází z optimální úrovně zdravého vnitřního prostředí, kvality vnitřního vzduchu a tepelné pohody.
+
+(4) Hodnota dílčí dodané energie na chlazení se stanoví jako součet vypočtené spotřeby energie na chlazení a pomocné energie na provoz technického systému pro chlazení podle české technické normy pro výpočet potřeby energie pro vytápění a chlazení<sup>3</sup>) s využitím hodnot typického užívání budov. Dodaná energie na ohřev bazénové vody a teplé vody pro provoz wellness se započítává do celkové energetické bilance budovy, jsou-li tyto provozy umístěny uvnitř obálky budovy.
+
+(5) Hodnota dílčí dodané energie na nucené větrání se stanoví jako součet vypočtené spotřeby energie na dopravu vzduchu potřebného pro zajištění požadované výměny vzduchu ve vnitřním prostředí a pomocné energie na provoz technického systému pro nucené větrání podle české technické normy pro větrání budov<sup>5</sup>) s využitím hodnot typického užívání budov, které vychází z optimální úrovně zdravého vnitřního prostředí.
+
+(6) Hodnota dílčí dodané energie na úpravu vlhkosti vzduchu se stanoví jako součet vypočtené spotřeby energie na úpravu vlhkosti vzduchu a pomocné energie na provoz technického systému pro úpravu vlhkosti vzduchu podle české technické normy pro větrání budov<sup>5</sup>) s využitím hodnot typického užívání budov.
+
+(7) Hodnota dílčí dodané energie na přípravu teplé vody se stanoví jako součet vypočtené spotřeby energie na přípravu teplé vody a pomocné energie na provoz technického systému pro přípravu teplé vody podle české technické normy pro tepelné soustavy v budovách upravující účinnost soustav pro přípravu teplé vody<sup>6</sup>) s využitím hodnot typického užívání budov.
+
+(8) Hodnota dílčí dodané energie na osvětlení vnitřního prostoru budovy se stanoví jako součet vypočtené spotřeby energie na osvětlení vnitřního prostoru budovy a pomocné energie na provoz technického systému pro osvětlení vnitřního prostoru budovy podle české technické normy pro energetické hodnocení budov upravující energetické požadavky na osvětlení vnitřního prostoru budovy<sup>7</sup>) s využitím hodnot typického užívání budov, které vychází z optimální úrovně zdravého vnitřního prostředí. Pro zóny, kde o energetické náročnosti osvětlení vnitřního prostoru budovy rozhoduje uživatel, se použijí hodnoty platné pro referenční budovu.
+
+(9) Při výpočtu hodnoty dodané energie platí dále tato pravidla:
+
+a) do dodané energie se nezapočítává ta část energie, která slouží k výrobě elektřiny nebo tepla, které jsou dodávány mimo budovu,
+
+b) do dodané energie budovy, která odebírá energii ze zdroje mimo tuto budovu bez použití distribuční soustavy nebo soustavy zásobování tepelnou energií podle energetického zákona, se započítávají ztráty energie při výrobě a distribuci energie z tohoto zdroje do budovy,
+
+c) součástí dodané energie je i v budově v technických systémech umístěných podle § 5 odst. 2 písm. a) vyrobená a využitá energie slunečního záření, energie větru, vody a geotermální energie s výjimkou tepelných čerpadel,
+
+d) součástí dodané energie při využití tepelného čerpadla je i energie okolního prostředí dodaná a užitá v budově. Ta se vypočte jako rozdíl potřeby energie, kterou tepelné čerpadlo dodává, a vypočtené spotřeby energie tepelného čerpadla,
+
+e) součástí dodané energie je i energie na osvětlení vnitřního prostoru budovy, nucené větrání, úpravu vlhkosti vzduchu a přípravu teplé vody spotřebovaná v prostorech bez upravovaného vnitřního prostředí, jsou-li součástí budovy,
+
+f) v zónách s nespecifikovaným funkčním využitím, kde se o instalaci jednoho nebo více systémů vytápění, chlazení, nuceného větrání, úpravy vlhkosti vzduchu, přípravy teplé vody a osvětlení vnitřního prostoru budovy rozhoduje po dokončení stavby, se použijí hodnoty typického užívání podle české technické normy upravující energetickou náročnost budov<sup>8</sup>) pro předpokládaný způsob využití těchto prostor. Nejsou-li navržené systémy definovány svými technickými parametry v projektové dokumentaci, použijí se pro ně hodnoty platné pro referenční budovu. Instalace rozvodů teplonosné látky bez současné instalace zdroje a spotřebičů není považována za navržený technický systém budovy.
+
+## § 5 – Výpočet primární energie z neobnovitelných zdrojů energie
+
+(1) Hodnota primární energie z neobnovitelných zdrojů energie pro hodnocenou budovu se vypočítá jako součet součinů hodnot dodané energie stanovených podle § 4, a to v rozdělení po jednotlivých energonositelích, a příslušných faktorů primární energie z neobnovitelných zdrojů energie uvedených v příloze č. 3 k této vyhlášce.
+
+(2) Při výpočtu hodnoty primární energie z neobnovitelných zdrojů energie hodnocené budovy je možné zohlednit
+
+a) energii vyrobenou pro její využití v hodnocené budově technickými systémy, které jsou umístěny uvnitř systémové hranice hodnocené budovy, na hodnocené budově, na pozemcích bezprostředně přiléhajících k budově, v areálu nebo na pomocných objektech typu přístřešky pro parkování, oplocení, opěrné stěny nebo zpevněné plochy, sloužících hodnocené budově,
+
+b) elektřinu vyrobenou technickými systémy podle písmene a), a to do výše jejího využití
+
+1\. v hodnocené budově,
+
+2\. mimo hodnocenou budovu jejím dodáním do elektrizační soustavy, nebo
+
+3\. mimo hodnocenou budovu jejím dodáním do areálu v souladu s přílohou č. 6 k této vyhlášce,
+
+c) teplo a chlad vyrobené v místní soustavě zásobování teplem a chladem, pokud je na ní hodnocená budova připojena; při výpočtu se v tomto případě postupuje v souladu s metodikou uvedenou v příloze č. 5 k této vyhlášce,
+
+d) teplo a chlad vyrobené technickými systémy podle písmene a) a dodané do soustavy zásobování tepelnou energií, a to maximálně do výše hodnoty celkové dodané energie v hodnocené budově.
+
+(3) Elektřina vyrobená technickými systémy podle odstavce 2 písm. a) je při výpočtu hodnoty primární energie z neobnovitelných zdrojů energie hodnocené budovy započítávána pouze pro jednu budovu nebo, zohledňuje-li se elektřina dodaná podle § 3 odst. 8 pro více budov, v souladu s pravidly uvedenými v příloze č. 6 k této vyhlášce.
+
+(4) Energie podle odstavce 2 písm. b) se započte v každém kroku výpočtu.
+
+(5) Primární energie z neobnovitelných zdrojů energie pro referenční budovu se vypočítá
+
+a) vynásobením vypočtených hodnot spotřeby energie a pomocných energií pro jednotlivé technické systémy faktory primární energie z neobnovitelných zdrojů energie podle typů spotřeb uvedenými v tabulce č. 4 přílohy č. 1 k této vyhlášce a
+
+b) snížením hodnoty primární energie z neobnovitelných zdrojů energie stanovené podle písmene a) o hodnotu uvedenou v tabulce č. 5 přílohy č. 1 k této vyhlášce.
+
+## § 6 – Požadavky na energetickou náročnost budovy stanovené na nákladově optimální úrovni
+
+(1) Požadavky na energetickou náročnost budovy s téměř nulovou spotřebou energie a pro budovu s téměř nulovou spotřebou energie od 1. ledna 2022, stanovené výpočtem na nákladově optimální úrovni, jsou splněny, pokud hodnoty ukazatelů energetické náročnosti hodnocené budovy uvedené v § 3 odst. 1 písm. a), b) a d) nejsou vyšší než referenční hodnoty ukazatelů energetické náročnosti pro referenční budovu.
+
+(2) Požadavky na energetickou náročnost při větší změně dokončené budovy a při jiné než větší změně dokončené budovy, stanovené výpočtem na nákladově optimální úrovni, jsou splněny, pokud
+
+a) hodnoty ukazatelů energetické náročnosti hodnocené budovy uvedených v § 3 odst. 1 písm. a) a d) nejsou vyšší než referenční hodnoty těchto ukazatelů energetické náročnosti pro referenční budovu,
+
+b) hodnoty ukazatelů energetické náročnosti hodnocené budovy uvedených v § 3 odst. 1 písm. b) a d) nejsou vyšší než referenční hodnoty těchto ukazatelů energetické náročnosti pro referenční budovu, nebo
+
+c) hodnota ukazatele energetické náročnosti hodnocené budovy pro všechny nové a měněné stavební prvky obálky budovy uvedeného v § 3 odst. 1 písm. e) není vyšší než referenční hodnota tohoto ukazatele energetické náročnosti uvedená v tabulce č. 2 přílohy č. 1 k této vyhlášce a
+
+d) hodnota ukazatele energetické náročnosti hodnocené budovy pro všechny měněné technické systémy budovy uvedeného v § 3 odst. 1 písm. f) není nižší než referenční hodnota tohoto ukazatele energetické náročnosti uvedená v tabulce č. 3 přílohy č. 1 k této vyhlášce.
+
+(3) V případech změny dokončené budovy, kdy se celková energeticky vztažná plocha rozšiřuje na nejméně dvouapůlnásobek původní celkové energeticky vztažné plochy, musí být splněny požadavky pro celou budovu podle odstavce 1. V ostatních případech musí být splněny požadavky pro celou budovu podle odstavce 2.
+
+(4) Míra změny celkové plochy obálky budovy se pro účely § 2 odst. 1 písm. s) zákona stanovuje k ploše obálky budovy po provedení změny dokončené budovy.
+
+## § 7 – Posouzení technické, ekonomické a ekologické proveditelnosti alternativních systémů dodávek energie
+
+(1) Technickou proveditelností alternativních systémů dodávek energie se rozumí technická možnost instalace nebo připojení alternativního systému dodávky energie. Pokud není alternativní systém dodávek energie technicky proveditelný, není posuzována jeho ekonomická a ekologická proveditelnost.
+
+(2) Ekonomickou proveditelností se rozumí dosažení prosté doby návratnosti investice do alternativního systému dodávek energie kratší než doba jeho životnosti<sup>9</sup>). V případě soustavy zásobování tepelnou energií se ekonomickou proveditelností uvedeného alternativního systému rozumí dosažení prosté doby návratnosti investice do nového jiného než alternativního systému dodávek energie, který je nebo má být v budově využíván, delší, než je doba životnosti tohoto nového jiného než alternativního systému dodávek energie.
+
+(3) Ekologickou proveditelností se rozumí instalace nebo připojení alternativního systému dodávky energie bez zvýšení množství primární energie z neobnovitelných zdrojů energie oproti stávajícímu nebo navrhovanému stavu.
+
+(4) Posouzení technické, ekonomické a ekologické proveditelnosti alternativních systémů dodávek energie je součástí protokolu průkazu, jehož vzor je uveden v příloze č. 4 k této vyhlášce.
+
+## § 8 – Vzor stanovení doporučených opatření pro snížení energetické náročnosti budovy
+
+(1) Součástí průkazu je stanovení doporučených opatření pro snížení energetické náročnosti budovy ve formě souboru vhodných opatření pro snížení energetické náročnosti budovy, který obsahuje minimálně jeden alternativní systém dodávek energie, pokud byl vyhodnocen jako technicky, ekonomicky a ekologicky proveditelný podle § 7.
+
+(2) Soubor vhodných opatření pro snížení energetické náročnosti budovy se navrhuje tak, aby bylo u ukazatele primární energie z neobnovitelných zdrojů energie dosaženo
+
+a) klasifikační třídy mimořádně úsporná v případě výstavby nové budovy nebo klasifikační třídy úsporná u stávajících budov, které jsou klasifikovány pod touto úrovní, a
+
+b) zlepšení o minimálně jednu klasifikační třídu u stávajících budov, které splňují klasifikační třídu úsporná.
+
+(3) Soubor vhodných opatření pro snížení energetické náročnosti budovy se skládá z technicky proveditelných opatření tak, aby byla respektována efektivita vynaložených prostředků s ohledem na provozní náklady a kvalitu vnitřního prostředí budov. U souboru vhodných opatření pro snížení energetické náročnosti budovy nemusí být dosaženo ekonomické proveditelnosti v době zpracování průkazu.
+
+(4) Účinek souboru vhodných opatření pro snížení energetické náročnosti budovy se vyhodnocuje na základě úspory potřeby tepla na vytápění, celkové dodané energie a primární energie z neobnovitelných zdrojů energie, a to včetně synergických vlivů dílčích opatření.
+
+(5) Stanovení souboru vhodných opatření pro snížení energetické náročnosti budovy je součástí protokolu průkazu, jehož vzor je uveden v příloze č. 4 k této vyhlášce.
+
+## § 9 – Vzor a obsah průkazu
+
+(1) Průkaz tvoří protokol a grafické znázornění.
+
+(2) Protokol průkazu obsahuje
+
+a) identifikační údaje budovy,
+
+b) informace o celkové dodané energii a jejím ročním průběhu,
+
+c) informace o primární energii z neobnovitelných zdrojů energie,
+
+d) bilanci tepelných toků,
+
+e) informace o obálce budovy,
+
+f) informace o technických systémech budovy,
+
+g) soubor vhodných opatření pro snížení energetické náročnosti budovy a využití alternativních systémů dodávek energie,
+
+h) přehled plnění požadavků podle § 6,
+
+i) zdroj, kde lze získat informace k možnosti realizace navržených opatření pro snížení energetické náročnosti budovy, stanovení nákladů na realizaci těchto opatření a možnosti jejich financování, a
+
+j) identifikační údaje energetického specialisty, jeho podpis a datum vypracování průkazu.
+
+(3) Vzor průkazu je uveden v příloze č. 4 k této vyhlášce.
+
+(4) Grafické znázornění průkazu
+
+a) je stejné pro budovu s téměř nulovou spotřebou energie, budovu s téměř nulovou spotřebou energie od 1. ledna 2022, větší změnu dokončené budovy, jinou než větší změnu dokončené budovy a pro případy prodeje a pronájmu budovy nebo její ucelené části,
+
+b) obsahuje zařazení budovy do klasifikačních tříd energetické náročnosti budovy (dále jen „klasifikační třída“),
+
+c) je umístěno symetricky na bílém podkladě formátu A4 na výšku, přičemž je použito standardních fontů písma podle vzoru uvedeného v příloze č. 4 k této vyhlášce,
+
+d) obsahuje hodnoty ukazatelů energetické náročnosti budovy vztažené na energeticky vztažnou plochu.
+
+(5) Klasifikační třídy A až G, jejichž slovní vyjádření a hodnoty pro jejich horní hranici jsou uvedeny v příloze č. 2 k této vyhlášce, se stanovují pro celkovou dodanou energii, primární energii z neobnovitelných zdrojů energie, dílčí dodané energie a průměrný součinitel prostupu tepla a použijí se v grafickém znázornění průkazu podle přílohy č. 4 k této vyhlášce.
+
+(6) Hranice klasifikačních tříd podle odstavce 5 se stanoví z referenční hodnoty klasifikovaného ukazatele energetické náročnosti budovy E<sub>R</sub>, která se určí jednotně pro referenční podmínky uvedené pro budovu s téměř nulovou spotřebou energie od 1. ledna 2022 v příloze č. 1 k této vyhlášce. Při změně dokončené budovy, výstavbě budovy s téměř nulovou spotřebou a při prodeji nebo pronájmu stávající budovy platí stejná stupnice klasifikačních tříd jako pro budovu s téměř nulovou spotřebou energie od 1. ledna 2022.
+
+(7) Jestliže jsou v hodnocené budově pouze obytné zóny, klasifikační třída pro dílčí dodanou energii na chlazení se neurčuje. V ostatních případech se při určení klasifikační třídy pro dílčí dodanou energii na chlazení neuvažují dílčí dodané energie na chlazení v obytných zónách hodnocené budovy.
+
+(8) V případě zohlednění energie z areálu podle § 3 odst. 8 obsahuje protokol průkazu bilanci primární energie z neobnovitelných zdrojů energie areálu zpracovanou podle přílohy č. 7 k této vyhlášce formou přílohy k protokolu.
+
+## § 10 – Podmínky pro umístění průkazu v budově
+
+Grafické znázornění průkazu v provedení podle přílohy č. 4 k této vyhlášce se v případech podle § 7a odst. 1 písm. d) zákona umisťuje na plochu vnější stěny budovy bezprostředně vedle veřejného vchodu do budovy nebo plochu svislé stěny ve vstupním prostoru uvnitř budovy navazující na tento vchod.
+
+## § 11 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Vyhláška č. 78/2013 Sb., o energetické náročnosti budov.
+
+2\. Vyhláška č. 230/2015 Sb., kterou se mění vyhláška č. 78/2013 Sb., o energetické náročnosti budov.
+
+## § 12 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2020, s výjimkou ustanovení § 4 odst. 1 věty třetí, které nabývá účinnosti dnem 1. ledna 2023.
+
+Ministr:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.
+
+### Příloha č. 1 k vyhlášce č. 264/2020 Sb.
+
+#### Parametry a hodnoty referenční budovy, referenční hodnoty pro nové a měněné stavební prvky obálky budovy a referenční hodnoty pro nové a měněné technické systémy budovy
+
+(1) Parametry a hodnoty referenční budovy jsou stanovené tak, aby zajistily nákladově optimální úroveň energetické náročnosti budov a prvků budov, vypočtenou pro jejich předpokládaný ekonomický životní cyklus v souladu se srovnávacím metodickým rámcem<sup>1</sup>), s ohledem na dosažení optimální úrovně zdravého vnitřního prostředí, kvality vnitřního vzduchu a tepelné pohody.
+
+(2) Parametry a jejich hodnoty uvedené v tabulkách 1, 4 a 5 této přílohy charakterizují referenční budovu pro prokazování požadavku hodnocením celé budovy. U parametrů ovlivňujících výpočet energetické náročnosti budovy, pro které nejsou stanoveny referenční hodnoty, se použijí hodnoty shodné s navrhovanou budovou.
+
+(3) V tabulkách 2 a 3 této přílohy jsou uvedeny parametry a jejich referenční hodnoty pro nové a měněné stavební prvky obálky budovy, a pro nové a měněné technické systémy budovy v rámci změny dokončené budovy pro prokazování požadavků pouze vlastnostmi těchto prvků podle § 6 odst. 2 písm. c).
+
+(4) Referenční hodnota průměrného součinitele prostupu tepla budovy U<sub>em,R</sub> se stanoví podle vztahu
+
+| U<sub>em,R</sub> = ∑ H<sub>T,R,j</sub> / ∑ A<sub>j</sub> + f<sub>R</sub>.∆U<sub>em,R</sub> | (1) |
+|---|---|
+
+kde
+
+H<sub>T,R,j</sub> je referenční měrný tepelný tok prostupem j-tou teplosměnnou konstrukcí obálky budovy, ve W/K, stanovený podle odstavce 5;
+
+A<sub>j</sub> plocha j-té teplosměnné konstrukce obálky budovy s referenčním měrným tepelným tokem prostupem H<sub>T,R,j</sub> &gt; 0, v m<sup>2</sup>, stanovená z vnějších rozměrů;
+
+f<sub>R</sub> redukční činitel požadované základní hodnoty průměrného součinitele prostupu tepla podle tabulky 1 této přílohy;
+
+∆U<sub>em,R</sub> referenční hodnota přirážky na vliv tepelných vazeb, ve W/(m<sup>2</sup>.K), podle tabulky 1 této přílohy.
+
+(5) Referenční měrný tepelný tok prostupem j-tou teplosměnnou konstrukcí obálky budovy H<sub>T,R,j</sub> se stanoví podle vztahu
+
+| H<sub>T,R,j</sub> = A<sub>j</sub>. U<sub>R,j</sub>.b<sub>j</sub> | (2) |
+|---|---|
+
+přičemž pro podlahovou konstrukci na zemině v zónách s θ<sub>i</sub><sub>m</sub> &gt; 5 °C je referenční ustálený měrný tepelný tok prostupem H<sub>T,R,j</sub> roven nejméně
+
+| H<sub>T,R,min,j</sub> = A<sub>j</sub>. U<sub>R,j</sub>.(θ<sub>im</sub> – 5) / (θ<sub>im</sub> – θ<sub>e</sub>) | (3) |
+|---|---|
+
+kde U<sub>R,j</sub> je referenční hodnota součinitele prostupu tepla j-té teplosměnné konstrukce obálky budovy, ve W/(m<sup>2</sup>.K), stanovená podle odstavce 6;
+
+b<sub>j</sub> teplotní redukční činitel j-té teplosměnné konstrukce obálky budovy, bezrozměrný, stanovený podle ČSN 73 0540-2, s tím, že nejnižší přípustná hodnota je 0;
+
+θ<sub>im</sub> převažující návrhová vnitřní teplota v zóně přilehlé k j-té teplosměnné konstrukci obálky budovy, ve °C, podle ČSN 730540-2;
+
+θ<sub>e</sub> návrhová teplota venkovního vzduchu v zimním období, ve °C, podle ČSN 730540-3.
+
+(6) Referenční hodnota součinitele prostupu tepla j-té teplosměnné konstrukce obálky budovy U<sub>R,j</sub> se stanoví:
+
+a) pro konstrukci obálky budovy v zóně provozované jako mrazírna nebo chladírna podle vztahu
+
+| U<sub>R,j</sub> = U<sub>N,j</sub> | (4) |
+|---|---|
+
+kde U<sub>N,j</sub> je požadovaná hodnota součinitele prostupu tepla j-té teplosměnné konstrukce obálky budovy, ve W/(m<sup>2</sup>.K), stanovená pro návrhovou vnitřní teplotu v přilehlé zóně podle ČSN 14 8102, přičemž pro výplně otvorů se použije požadovaná hodnota pro obvodové stěny zvýšená o 30%;
+
+b) pro konstrukci obálky budovy v ostatních zónách podle vztahu
+
+| U<sub>R,j</sub> = f<sub>R</sub> . e<sub>1</sub>.U<sub>N</sub>,<sub>20,j</sub> | (5) |
+|---|---|
+
+nejvýše však
+
+| U<sub>R,j,max</sub> = f<sub>R</sub> . e<sub>1</sub>.(U<sub>N,20,W</sub> + 0,4 – A<sub>W</sub>/A<sub>F</sub>) | (6) |
+|---|---|
+
+kde e<sub>1</sub> je součinitel typu zóny přilehlé k j-té teplosměnné konstrukci obálky budovy, který se stanoví:
+
+a) pro zóny s θ<sub>im</sub> od 18 °C do 22 °C včetně jako
+
+| e<sub>1</sub> = 1; | (7) |
+|---|---|
+
+b) pro ostatní zóny jako
+
+| e<sub>1</sub> = 16 / abs (θ<sub>im</sub> – 4); nejméně však 0,75 a nejvýše však 1,75; | (8) |
+|---|---|
+
+U<sub>N,20j</sub> požadovaná hodnota součinitele prostupu tepla j-té teplosměnné konstrukce obálky budovy, ve W/(m<sup>2</sup>.K), stanovená pro převažující návrhovou vnitřní teplotu θ<sub>im</sub> v intervalu 18 °C - 22 °C včetně podle ČSN 73 0540-2 s výjimkou lehkého obvodového pláště, pro jehož neprůsvitné výplně se použije požadovaná normová hodnota U<sub>N,20</sub> podle ČSN 73 0540-2 pro vnější stěnu a pro průsvitné výplně požadovaná normová hodnota U<sub>N,20</sub> podle ČSN 73 0540-2 pro výplň otvoru ve vnější stěně;
+
+U<sub>N,20,W</sub> požadovaná hodnota součinitele prostupu tepla pro výplň otvoru ve vnější stěně, ve W/(m<sup>2</sup>.K), stanovená pro převažující návrhovou vnitřní teplotu 20 °C podle ČSN 73 0540-2;
+
+A<sub>W</sub> celková plocha svislých průsvitných teplosměnných konstrukcí obálky budovy v kontaktu s venkovním vzduchem, v m<sup>2</sup>, stanovená z vnějších rozměrů;
+
+A<sub>F</sub> celková plocha svislých průsvitných a neprůsvitných teplosměnných konstrukcí obálky budovy v kontaktu s venkovním vzduchem, v m<sup>2</sup>, stanovená z vnějších rozměrů,
+
+přičemž se za svislou konstrukci považuje konstrukce, jejíž odklon od svislé roviny činí nejvýše ± 30 °.
+
+(7) Postup podle odstavců 4 až 6 platí i pro ucelenou část budovy.
+
+(8) Měrný příkon ventilátoru SFP<sub>ahu</sub> pro konkrétní pracovní bod v každém kroku výpočtu hodnocení energetické náročnosti budovy pro stanovení spotřeby energie na jeho provoz se vypočte podle vzorce:
+
+| SFP<sub>ahu,set</sub>/ SFP<sub>ahu,max</sub>= 1,0547 + (-2,5576) . r + 3,6314 . r<sup>2</sup> + (-1,1285) . r<sup>3</sup> | (9) |
+|---|---|
+
+(9) Poměr dopravovaného objemu ke jmenovitému objemovému výkonu ventilátoru r se vypočte jako
+
+| r = V<sub>ah</sub><sub>u,set</sub> / V<sub>ahu,max</sub> | (10) |
+|---|---|
+
+kde:
+
+V<sub>ahu,set</sub> je průměrný objem dopravovaného vzduchu za výpočtový krok (hodinu) pro daný ventilátor v m<sup>3</sup>/hod.
+
+V<sub>ahu,max</sub> je jmenovitý objem dopravovaného vzduchu pro daný ventilátor v m<sup>3</sup>/h.
+
+Poměr SFP<sub>ahu,set</sub> / SFP<sub>ahu,max</sub> je omezen intervalem &lt;0;1&gt;.
+
+##### Tabulka 1: Parametry a hodnoty referenční budovy
+
+<table><tbody><tr><th rowspan="2">Parametr</th><th rowspan="2">Označení</th><th rowspan="2">Jednotky</th><th colspan="2">Referenční hodnota</th></tr><tr><th>Dokončená budova a její změna</th><th>Budova s téměř nulovou spotřebou energie</th></tr><tr><td>Redukční činitel požadované základní hodnoty průměrného součinitele prostupu tepla</td><td>f<sub>R</sub></td><td>-</td><td>1,0</td><td>0,7</td></tr><tr><td>Průměrný součinitel prostupu tepla budovy nebo ucelené části budovy</td><td>U<sub>em,R</sub></td><td>W/(m<sup>2</sup>.K)</td><td colspan="2">hodnota referenční hodnota průměrného součinitele tepla podle odstavce 4 textové části nad touto tabulkou</td></tr><tr><td>Součinitel prostupu tepla vnitřních konstrukcí</td><td>U<sub>R,int</sub></td><td>W/(m<sup>2</sup>.K)</td><td colspan="2">doporučená hodnota podle ČSN 730540-2</td></tr><tr><td>Přirážka na vliv tepelných vazeb</td><td>∆U<sub>em,R</sub></td><td>W/(m<sup>2</sup>.K)</td><td colspan="2">0,02</td></tr><tr><td>Vnitřní tepelná kapacita</td><td>C<sub>R</sub></td><td>kJ/(m<sup>2</sup>.K)</td><td colspan="2">165</td></tr><tr><td>Celková propustnost slunečního záření (solární faktor)</td><td>g<sub>R</sub></td><td>-</td><td colspan="2">0,5</td></tr><tr><td>Přídavný tepelný odpor uzavřených okenic</td><td>∆R<sub>R</sub></td><td></td><td colspan="2">0</td></tr><tr><td>Činitel clonění aktivními stínícími prvky pro režim chlazení u průsvitných konstrukcí s orientací východ, jihovýchod, jih, jihozápad, západ a na horizont v měsíčním kroku výpočtu</td><td>F<sub>cm,c,R</sub></td><td>-</td><td colspan="2">0,2</td></tr><tr><td>Činitel clonění aktivními stínícími prvky u průsvitných konstrukcí s orientací na východ, jihovýchod, jih, jihozápad, západ a na horizont v hodinovém kroku výpočtu</td><td>F<sub>ch,c,R</sub><sub>.</sub></td><td>-</td><td colspan="2">0,2</td></tr><tr><td>Režim ovládání aktivních stínících prvků u průsvitných konstrukcí s orientací východ, jihovýchod, jih, jihozápad, západ a na horizont v hodinovém kroku výpočtu</td><td>-</td><td>-</td><td colspan="2">ruční manipulace podle ČSN EN ISO 52016-1</td></tr><tr><td>Vyrobená elektřina</td><td>Q<sub>el,R</sub></td><td>(kWh)</td><td colspan="2">0</td></tr><tr><td>Využitá energie slunečního záření, energie větru, vody a geotermální energie</td><td>Q<sub>env,R</sub></td><td>(kWh)</td><td colspan="2">0</td></tr><tr><td colspan="5"><b>Vytápění</b></td></tr><tr><td>Účinnost výroby energie zdrojem tepla<sup>1</sup>)</td><td>η<sub>H,gen,R</sub></td><td>%</td><td colspan="2">92</td></tr><tr><td>Účinnost distribuce energie na vytápění uvnitř systémové hranice budovy</td><td>η<sub>H,dis,R</sub></td><td>%</td><td colspan="2">90</td></tr><tr><td>Účinnost distribuce energie na vytápění vně systémové hranice budovy</td><td>η<sub>H,dis,R</sub></td><td>%</td><td colspan="2">100</td></tr><tr><td>Účinnost sdílení energie na vytápění</td><td>η<sub>H,em,R</sub></td><td>%</td><td colspan="2">88</td></tr><tr><td colspan="5"><b>Chlazení</b></td></tr><tr><td>Chladicí faktor zdroje chladu</td><td>EER<sub>C,gen,R</sub><sup>2</sup><sup>)</sup></td><td>W/W</td><td colspan="2">2,7</td></tr><tr><td>Účinnost distribuce energie na chlazení uvnitř systémové hranice budovy</td><td>η<sub>C,dis,R</sub></td><td>%</td><td colspan="2">85</td></tr><tr><td>Účinnost distribuce energie na chlazení vně systémové hranice budovy</td><td>η<sub>C,dis,R</sub></td><td>%</td><td colspan="2">100</td></tr><tr><td>Účinnost sdílení energie na chlazení</td><td>η<sub>C,em,R</sub></td><td>%</td><td colspan="2">85</td></tr><tr><td>Dodaná energie na chlazení pro obytné zóny</td><td>Q<sub>fuel,C</sub></td><td>kWh</td><td colspan="2">0</td></tr><tr><td>Množství zpětně využitého odváděného tepla z chlazení</td><td>Q<sub>HR,R</sub></td><td>(kWh)</td><td colspan="2">0</td></tr><tr><td colspan="5"><b>Nucené větrání</b></td></tr><tr><td>Měrný příkon jednoho ventilátoru systému nuceného větrání</td><td>P<sub>SFPahu,R</sub></td><td>W.s/m<sup>3</sup></td><td colspan="2">1500</td></tr><tr><td>Váhový činitel regulace ventilátorů systému nuceného větrání pro měsíční krok výpočtu</td><td>f<sub>F,ctl,R</sub></td><td>-</td><td colspan="2">0,7</td></tr><tr><td>Závislosti SFP<sub>ahu</sub> ventilátoru na poměru jeho zatížení pro hodinový krok výpočtu</td><td>f<sub>F SFP,R</sub></td><td>-</td><td colspan="2">podle odstavce 8 textové části nad touto tabulkou</td></tr><tr><td>Typ regulace pohonu ventilátoru pro hodinový krok výpočtu</td><td>F<sub>F,ctl,R</sub></td><td>-</td><td colspan="2">plynulá<sup>3)</sup></td></tr><tr><td>Celoroční účinnost zpětného získávání tepla pro výpočet měrného tepelného toku větráním pro obytné zóny</td><td>η<sub>H,hr,R</sub></td><td>%</td><td colspan="2">0</td></tr><tr><td>Celoroční účinnost zpětného získávání tepla pro výpočet měrného tepelného toku větráním pro jiné než obytné zóny</td><td>η<sub>H,hr,R</sub></td><td>%</td><td colspan="2">30</td></tr><tr><td colspan="5"><b>Úprava vlhkosti vzduchu</b></td></tr><tr><td>Účinnost zdroje úpravy vlhkosti systému vlhčení</td><td>η<sub>RH+,gen,R</sub></td><td>%</td><td colspan="2">70</td></tr><tr><td>Účinnost zdroje úpravy vlhkosti systému odvlhčení</td><td>η<sub>RH-,gen,R</sub></td><td>%</td><td colspan="2">65</td></tr><tr><td>Účinnost zpětného získávání vlhkosti systému nuceného větrání</td><td>η<sub>RH,r,R</sub></td><td>%</td><td colspan="2">20</td></tr><tr><td colspan="5"><b>Příprava teplé vody</b></td></tr><tr><td>Celoroční účinnost zpětného získávání tepla z odpadní vody</td><td>η<sub>W,hr,R</sub></td><td>%</td><td colspan="2">0</td></tr><tr><td>Účinnost zdroje tepla pro přípravu teplé vody<sup>1</sup><sup>)</sup></td><td>η<sub>W,gen,R</sub></td><td>%</td><td colspan="2">88</td></tr><tr><td>Měrná tepelná ztráta zásobníku teplé vody vztažená k objemu zásobníku v litrech do celkového objemu zásobníků 400 litrů</td><td>Q<sub>W,st,R</sub></td><td>Wh/(l.den)</td><td colspan="2">7</td></tr><tr><td>Měrná tepelná ztráta zásobníku teplé vody vztažená k objemu zásobníku v litrech nad celkový objem zásobníků 400 litrů</td><td>Q<sub>W,st,R</sub></td><td>Wh/(l.den)</td><td colspan="2">5</td></tr><tr><td>Měrná tepelná ztráta rozvodů teplé vody vztažená k délce rozvodů teplé vody uvnitř systémové hranice budovy</td><td>Q<sub>W,dis,R</sub></td><td>Wh/(m.den)</td><td colspan="2">150</td></tr><tr><td>Měrná tepelná ztráta rozvodů teplé vody vztažená k délce rozvodů teplé vody vně systémové hranice budovy</td><td>Q<sub>W,dis,R</sub></td><td>Wh/(m.den)</td><td colspan="2">0</td></tr><tr><td colspan="5"><b>Osvětlení vnitřního prostoru budovy</b></td></tr><tr><td>Průměrný měrný příkon pro osvětlení vnitřního prostoru budovy vztažený k osvětlenosti zóny</td><td>p<sub>L,lx,R</sub></td><td>W/(m<sup>2</sup>.lx)</td><td colspan="2">0,032</td></tr><tr><td>Korekční činitel podle typu použitých světelných zdrojů pro obytné zóny</td><td>F<sub>L,R</sub></td><td>(-)</td><td colspan="2">1,7</td></tr><tr><td>Korekční činitel podle typu použitých světelných zdrojů pro jiné než obytné zóny</td><td>F<sub>L,R</sub></td><td>(-)</td><td colspan="2">1,1</td></tr><tr><td>Světelná účinnost zdroje pro výpočet vnitřních zisků z osvětlení vnitřního prostoru budovy</td><td>η<sub>L,R</sub></td><td>%</td><td colspan="2">20</td></tr><tr><td>Činitel závislosti na denním světle obytné zóny v měsíčním kroku výpočtu</td><td>F<sub>D,R</sub></td><td>(-)</td><td colspan="2">0,8</td></tr><tr><td>Činitel závislosti na denním světle pro jiné než obytné zóny v měsíčním kroku výpočtu</td><td>F<sub>D,R</sub></td><td>(-)</td><td colspan="2">1</td></tr><tr><td>Činitel systému řízení osvětlovací soustavy</td><td>F<sub>OC,R</sub></td><td>(-)</td><td colspan="2">1</td></tr><tr><td>Činitel konstantní osvětlenosti</td><td>F<sub>C,R</sub></td><td>(-)</td><td colspan="2">1</td></tr><tr><td colspan="5"><b>Pomocné energie</b></td></tr><tr><td>Korekční činitel typu oběhového čerpadla</td><td>∫<sub>p,ctl,R</sub></td><td>(-)</td><td colspan="2">0,54</td></tr></tbody></table>
+
+Poznámky:
+
+<sup>1</sup><sup>)</sup> V případě výroby z paliv vztažená k výhřevnosti paliva.
+
+<sup>2</sup><sup>)</sup> Stanovený podle ČSN EN 14511-2 - Klimatizátory vzduchu, jednotky pro chlazení kapalin a tepelná čerpadla s elektricky poháněnými kompresory pro ohřívání a chlazení prostoru - Část 2: Zkušební podmínky.
+
+<sup>3</sup>) Objemový výkon ventilátoru je řízen na základě konkrétního požadavku na dopravovaný objem
+
+##### Tabulka 2: Referenční parametry a hodnoty pro nové a měněné stavební prvky obálky budovy
+
+| Parametr | Označení | Jednotka | Referenční hodnota |
+|---|---|---|---|
+| Součinitel prostupu tepla | U<sub>R,ren</sub> | W/(m<sup>2</sup>.K) | Doporučená hodnota podle ČSN 730540-2 |
+| Součinitel prostupu tepla | U<sub>R,ren</sub> | W/(m<sup>2</sup>.K) | a) pro konstrukce v zónách provozovaných jako mrazírna nebo chladírna: hodnota dle ČSN 148102:1993 snížená o 30 %<br> b) pro konstrukce v ostatních zónách: doporučená hodnota dle ČSN 730540-2 |
+
+##### Tab. 3 - Referenční parametry a hodnoty pro měněné technické systémy budovy
+
+| Parametr | Označení | Jednotka | Referenční hodnota |
+|---|---|---|---|
+| Účinnost výroby energie zdrojem tepla pro vytápění a/nebo přípravu teplé vody<sup>1</sup>) | η<sub>H,gen,R</sub><sup>2</sup>) | % | 80 |
+| Chladicí faktor kompresorového zdroje chladu | EER<sub>C,gen,R</sub><sup>3</sup>) | W/W | 2,7 |
+| Chladicí faktor ostatních zdrojů chladu | EER<sub>C,gen,R</sub><sup>3</sup>) | W/W | 0,5 |
+| Topný faktor tepelného čerpadla | COP<sub>H,gen,R</sub><sup>4</sup>) | W/W | 3,0 |
+| Účinnost zpětného získávání tepla -rovnotlaký systém nuceného větrání | η<sub>H,hr,sys</sub><sup>5</sup>) | (%) | 60 |
+
+Poznámky:
+
+<sup>1</sup>) V případě výroby z paliv vztažená k výhřevnosti paliva
+
+<sup>2</sup>) Jedná se o průměrnou sezónní účinnost. Pro dodatečně instalovaný tepelný zdroj se využije hodnota podle typu zdroje uvedená v ČSN 73 0331-1
+
+<sup>3</sup>) Stanovený podle ČSN EN 14511-2 - Klimatizátory vzduchu, jednotky pro chlazení kapalin, tepelná čerpadla pro ohřívání a chlazení prostoru a procesní chladiče, s elektricky poháněnými kompresory - Část 2: Zkušební podmínky
+
+<sup>4</sup>) Stanovený podle ČSN EN 14511-2 - Klimatizátory vzduchu, jednotky pro chlazení kapalin, tepelná čerpadla pro ohřívání a chlazení prostoru a procesní chladiče, s elektricky poháněnými kompresory - Část 2: Zkušební podmínky
+
+<sup>5</sup>) Stanovená podle EN 308 jedná se o tzv. suchou účinnost samotného rekuperátoru bez vlivu jednotky a ventilátorů pro pracovní bod na hodnotě 50 % jmenovitého výkonu zařízení, v němž je rekuperátor použit
+
+##### Tabulka 4: Hodnoty faktoru primární energie pro referenční budovu
+
+| Typ spotřeby | Faktor primární energie z neobnovitelných zdrojů energie (bez jednotky) |
+|---|---|
+| Vytápění | 1,0 |
+| Chlazení | 2,1 |
+| Příprava teplé vody | 1,0 |
+| Úprava vlhkosti vzduchu | 2,1 |
+| Nucené větrání | 2,1 |
+| Osvětlení vnitřního prostoru budovy | 2,1 |
+| Pomocné energie (čerpadla, regulace apod.) | 2,1 |
+
+##### Tab. 5 - Snížení hodnoty primární energie z neobnovitelných zdrojů energie stanovené pro referenční budovu (dosažitelné zvýšením využití obnovitelných zdrojů energie nebo zvýšením parametrů stavebních prvků obálky budovy nebo technických systémů budovy)
+
+<table><tbody><tr><th rowspan="2">Parametr</th><th rowspan="2">Označení</th><th rowspan="2">Jednotky</th><th rowspan="2">Druh budovy nebo zóny<sup>1</sup></th><th colspan="3">Referenční hodnota</th></tr><tr><th>Dokončená budova a změna dokončené budovy</th><th>Budova s téměř nulovou spotřebou energie</th><th>Budova s téměř nulovou spotřebou energie po 1.1.2022</th></tr><tr><td rowspan="3">Snížení hodnoty primární energie z neobnovitelných zdrojů energie stanovené pro referenční budovu</td><td rowspan="3">∆e<sub>p,R</sub></td><td rowspan="2">%</td><td>Obytná zóna v rodinném<br> domě</td><td>3</td><td>25</td><td rowspan="3">hodnota podle tabulky č. 6</td></tr><tr><td>Obytná zóna v ostatních budovách</td><td>3</td><td>20</td></tr><tr><td>%</td><td>Jiná než obytná zóna</td><td>3</td><td>10</td></tr></tbody></table>
+
+<sup>1</sup><sup>)</sup> Výsledné snížení referenční hodnoty primární energie z neobnovitelných zdrojů energie ∆e<sub>p,R</sub> pro budovu jako celek se v případě vícezónové budovy stanoví váženým průměrem přes energeticky vztažné plochy dílčích zón
+
+Tab. 6 - Snížení hodnoty primární energie z neobnovitelných zdrojů energie stanovené pro referenční budovu budovy s téměř nulovou spotřebou energie od 1. 1. 2022 (dosažitelné zvýšením využití obnovitelných zdrojů energie nebo zlepšením parametrů stavebních prvků obálky budovy nebo technických systémů budovy)
+
+<table><tbody><tr><th rowspan="3">Měrná potřeba tepla na vytápění referenční budovy E<sub>A</sub><sub>,</sub><sub>R</sub> [kWh/(m<sup>2</sup>.a)]</th><th colspan="3">Snížení referenční hodnoty primární energie z neobnovitelných zdrojů energie ∆e<sub>p,R</sub> [%]<sup> 1</sup><sup>)</sup></th></tr><tr><th colspan="2">Pro obytnou zónu <sup>2</sup><sup>)</sup></th><th rowspan="2">Pro jinou než obytnou zónu</th></tr><tr><th>Energeticky vztažná plocha budovy ≤ 120 m<sup>2</sup></th><th>Energeticky vztažná plocha budovy &gt; 120 m<sup>2</sup></th></tr><tr><td>≥ 90</td><td>50</td><td>60</td><td rowspan="7">40</td></tr><tr><td>80</td><td>45</td><td>55</td></tr><tr><td>70</td><td>40</td><td>50</td></tr><tr><td>60</td><td>35</td><td>45</td></tr><tr><td>50</td><td>30</td><td>40</td></tr><tr><td>40</td><td>25</td><td>30</td></tr><tr><td>≤ 30</td><td>20</td><td>20</td></tr></tbody></table>
+
+Poznámky:
+
+<sup>1</sup><sup>)</sup> Výsledné snížení referenční hodnoty primární energie z neobnovitelných zdrojů energie ∆e<sub>p,R</sub> pro budovu jako celek se v případě vícezónové budovy stanoví váženým průměrem přes energeticky vztažné plochy dílčích zón
+
+<sup>2</sup><sup>)</sup> Mezilehlé hodnoty se lineárně interpolují
+
+### Příloha č. 2 k vyhlášce č. 264/2020 Sb.
+
+#### Klasifikační třídy energetické náročnosti budovy
+
+Pro porovnání se stanovené ukazatele energetické náročnosti budovy podle § 10 odst. 1 této vyhlášky zařazují do klasifikačních tříd určených jejich horní hranicí podle tabulky uvedené v této příloze a v průkazu se porovnávají s graficky vyjádřenou stupnicí klasifikačních tříd.
+
+<table><tbody><tr><th rowspan="3">Klasifikační třída</th><th colspan="6">Hodnota pro horní hranici klasifikační třídy</th><th rowspan="3">Slovní vyjádření klasifikační třídy</th></tr><tr><th rowspan="2">Primární energie z neobnovitelných zdrojů energie</th><th rowspan="2">celková dodaná energie</th><th colspan="3">Dílčí dodaná energie</th><th rowspan="2">U<sub>em</sub></th></tr><tr><th>Teplá voda a úprava vlhkosti</th><th>Vytápění a chlazení</th><th>Osvětlení vnitřního prostoru budovy a nucené větrání</th></tr><tr><td>A</td><td>0,8 x E<sub>R</sub></td><td>0,7 x E<sub>R</sub></td><td>0,7 x E<sub>R</sub></td><td>0,6 x E<sub>R</sub></td><td>0,5 x E<sub>R</sub></td><td>0,7 x E<sub>R</sub></td><td>Mimořádně úsporná</td></tr><tr><td>B</td><td>1,2 x E<sub>R</sub></td><td>0,9 x E<sub>R</sub></td><td>0,8 x E<sub>R</sub></td><td>0,8 x E<sub>R</sub></td><td>0,7 x E<sub>R</sub></td><td>0,9 x E<sub>R</sub></td><td>Velmi úsporná</td></tr><tr><td>C</td><td>1,6 x E<sub>R</sub></td><td>1,2 x E<sub>R</sub></td><td>1 x E<sub>R</sub></td><td>1,1 x E<sub>R</sub></td><td>0,9 x E<sub>R</sub></td><td>1,2 x E<sub>R</sub></td><td>Úsporná</td></tr><tr><td>D</td><td>2,3 x E<sub>R</sub></td><td>1,5 x E<sub>R</sub></td><td>1,2 x E<sub>R</sub></td><td>1,5 x E<sub>R</sub></td><td>1,2 x E<sub>R</sub></td><td>1,7 x E<sub>R</sub></td><td>Méně úsporná</td></tr><tr><td>E</td><td>3 x E<sub>R</sub></td><td>2 x E<sub>R</sub></td><td>1,4 x E<sub>R</sub></td><td>2 x E<sub>R</sub></td><td>1,5 x E<sub>R</sub></td><td>2,3 x E<sub>R</sub></td><td>Nehospodárná</td></tr><tr><td>F</td><td>3,7 x E<sub>R</sub></td><td>2,5 x E<sub>R</sub></td><td>1,6 x E<sub>R</sub></td><td>2,5 x E<sub>R</sub></td><td>2 x E<sub>R</sub></td><td>2,9 x E<sub>R</sub></td><td>Velmi nehospodárná</td></tr><tr><td>G</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Mimořádně nehospodárná</td></tr></tbody></table>
+
+Poznámka:
+
+Pro účely uvedení ukazatelů energetické náročnosti budovy v informačních a reklamních materiálech při prodeji nebo pronájmu budovy nebo její ucelené části se použije zjednodušená forma znázornění obsahující pouze klasifikační třídu současného stavu primární energie z neobnovitelných zdrojů energie vztažené na energeticky vztažnou plochu. Velikost písma v tomto případě odpovídá velikosti písma, kterým je uvedena cena prodeje nebo pronájmu. V textových inzerátech se uvádí povinný údaj pouze textově.
+
+### Příloha č. 3
+
+#### Faktory primární energie z neobnovitelných zdrojů energie hodnocené budovy
+
+| Energonositel | Faktory primární energie <br> z neobnovitelných zdrojů energie <br> hodnocené budovy <br> (bez jednotky) |
+|---|---|
+| Zemní plyn | 1,0 |
+| Tuhá fosilní paliva | 1,0 |
+| Propan-butan/LPG | 1,2 |
+| Topný olej | 1,2 |
+| Elektřina | 2,1 |
+| Dřevěné peletky | 0,1 |
+| Kusové dřevo, dřevní štěpka | 0,1 |
+| Energie okolního prostředí (elektřina a teplo) | 0 |
+| Elektřina – dodávka mimo budovu | -2,1 |
+| Teplo – dodávka mimo budovu | -1,3 |
+| Účinná soustava zásobování tepelnou energií s vyšším než 80% podílem obnovitelných zdrojů energie | 0,1 |
+| Účinná soustava zásobování tepelnou energií s 80% a nižším podílem obnovitelných zdrojů energie | 0,7 |
+| Ostatní soustavy zásobování tepelnou energií | 1,3 |
+| Ostatní neuvedené energonositele | 1,2 |
+| Odpadní teplo z technologie – zdroj v budově nebo v areálu | 0 |
+| Odpadní teplo – zdroj mimo budovu nebo mimo areál | 0,1 |
+
+### Příloha č. 4 k vyhlášce č. 264/2020 Sb.
+
+#### Vzor průkazu energetické náročnosti budovy
+
+#### GRAFICKÉ ZNÁZORNĚNÍ PRŮKAZU
+
+##### ![sbcr2020c098z0264p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/874751/NAHLED/ZOBRAZ/sbcr2020c098z0264p004u001)
+
+#### PROTOKOL PRŮKAZU
+
+##### ![sbcr2020c098z0264p004u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/874753/NAHLED/ZOBRAZ/sbcr2020c098z0264p004u002)
+
+### Příloha č. 5 k vyhlášce č. 264/2020 Sb.
+
+#### Metodika hodnocení energetické náročnosti budovy
+
+Vstupní hodnoty a okrajové podmínky výpočtu ukazatelů energetické náročnosti budovy se použijí v souladu s ČSN 730331 a s upřesněním podle této přílohy.
+
+A. Klimatická data
+
+Při výpočtu ukazatelů energetické náročnosti budovy použijí klimatická data uvedená v ČSN 730331.
+
+B. Rozdělení budovy do zón
+
+Rozdělení budovy do zón se provede v souladu s ČSN 730331.
+
+V případě sloučení prostorů s rozdílným způsobem typického užívání či rozdílnými parametry systémů vytápění, chlazení, vlhčení, odvlhčování, větrání, přípravy teplé vody a osvětlení vnitřního prostoru budovy do společné zóny podle normy ČSN EN ISO 52000-1, se vstupní hodnoty pro danou zónu stanoví váženým průměrem podle veličiny příslušné danému parametru (např. vnitřní podlahová plocha, vnitřní objem vzduchu).
+
+Obytné zóny a jiné než obytné zóny nelze vzájemně sloučit.
+
+C. Obálka budovy
+
+Výpočet součinitele prostupu tepla se provede v souladu s platnými normami a následujícími pravidly:
+
+1\. Ve výpočtu součinitele prostupu tepla se u tepelněizolačních materiálů použije návrhová hodnota součinitele tepelné vodivosti λ<sub>u</sub> [W/(m.K)], která se:
+
+a) odvozuje výpočtem podle typu materiálu a předpokládané objemové hmotnosti; nebo
+
+b) doloží protokolem z měření daného výrobku; nebo
+
+c) uvažuje zjednodušeně přirážkou nejméně ve výši 7 % u nasákavých materiálů (např. minerální vlna), 3 % u méně nasákavých materiálů (např. EPS, PUR, PIR) a 0 % u nenasákavých materiálů (např. XPS, pěnové sklo) k deklarované hodnotě součinitele prostupu tepla λ<sub>D</sub> [W/(m.K)].
+
+2\. Zhoršující vlivy opakovaně se vyskytujících tepelně vodivějších konstrukčních (např. dřevěné nebo kovové konstrukce ve vrstvě izolace) a dalších prvků se zohlední výpočtem ekvivalentní tepelné vodivosti λekv dle platných norem. Pouze vlivy, které takto zahrnout nelze (např. vliv srážkové vody na obrácené střechy, vliv mechanicky kotvících prvků procházejících tepelně izolační vrstvou, vliv opakujících se kovových prvků), se zohlední ve formě přirážky na vliv tepelných mostů ∆U<sub>tbk,j</sub> [W/(m<sup>2</sup>.K)].
+
+3\. Součinitel prostupu tepla průsvitných výplní otvorů se stanovuje:
+
+a) pro každou výplň otvoru zvlášť podrobným výpočtem podle ČSN EN ISO 10077 na základě konkrétní geometrické charakteristiky, součinitele prostupu tepla rámu, součinitele prostupu tepla zasklení a lineárního činitele prostupu v uložení zasklení do rámu; nebo
+
+b) pro všechny výplně otvoru se shodným zasklením a rámem jednotně hodnotou platnou v případě:
+
+\- oken a balkónových dveří pro rozměr 1 230 x 1 480 mm,
+
+\- šikmých výplní otvorů se sklonem do 45° pro rozměr 1 140 x 1 400 mm,
+
+\- dveřních výplní otvorů pro rozměr 1 100 x 2 200 mm,
+
+\- velkorozměrových posuvných výplní otvorů pro rozměr 2400 x 2500 mm,
+
+c) pro výplně otvorů ve stávajících budovách podle ČSN 73 0540-3 v závislosti na typu výplně otvoru, nebo jako požadovaná normová hodnota platná v době osazení oken, nebo jako součinitel prostupu tepla výplně zjištěný na základě místního šetření a dostupných podkladů (např. technických listů výrobků); nebo
+
+d) pro výplně otvorů v nových budovách jako maximální přípustná hodnota pro jednotlivé výplně otvorů definované projektovou dokumentací pro standardizovaný rozměr dle písmena b).
+
+4\. Lineární tepelné vazby a významné bodové tepelné vazby se zahrnují:
+
+a) pomocí průměrného vlivu tepelných vazeb ∆U<sub>em</sub> [W/(m<sup>2</sup>.K)] mezi ochlazovanými konstrukcemi na systémové hranici budovy, nejníže však hodnotou ∆U<sub>em</sub> = 0,02 W/(m<sup>2</sup>.K), odpovídá-li tomu kvalita řešení tepelných vazeb, přičemž se použije hodnocení dle ČSN 73 0540-2; nebo
+
+b) zadáním pomocí lineárních a bodových činitelů prostupu tepla; do výpočtu musejí být zahrnuty všechny lineární a bodové tepelné vazby, které budova obsahuje, s výjimkou vazeb, jejichž celkový souhrnný vliv na měrný tepelný tok prostupem obálkou budovy činí v součtu méně než 2 %.
+
+5\. Souhrnný korekční činitel stínění pevnými překážkami F<sub>sh</sub> zahrnující stínění konstrukcemi vlastní budovy (např. ostění, nadpraží, nadokenní markýzy, boční žebra a stěny) a stínění okolními budovami a ostatními vnějšími pevnými překážkami se stanovuje:
+
+a) zjednodušeně pro všechny výplně nejvýše hodnotou F<sub>sh</sub> = 0,75 pro každý výpočetní krok;
+
+b) podrobným výpočtem pro jednotlivé výplně otvoru podle ČSN EN ISO 52016-1.
+
+D. Dílčí dodané energie
+
+Vstupní hodnoty výpočtu dílčích dodaných energií vycházejí ze zvoleného profilu typického užívání budovy, definovaného minimálně časovým profilem užívání a průměrnou obsazeností. Při stanovení profilu typického užívání budovy se postupuje v souladu s projektovou dokumentací, způsobem užívání budovy a s ČSN 730331. Profil typického užívání budovy se musí specifikovat v průkazu energetické náročnosti budovy.
+
+Není-li součástí projektové dokumentace výstavby nové budovy projekt osvětlovací soustavy nebo její technická specifikace, považují se vstupní parametry osvětlení vnitřního prostoru budovy za shodné s parametry referenční budovy a v souladu s parametry typického užívání.
+
+D.1 Obytné zóny
+
+Pro obytné zóny se musí použít jednotný profil typického užívání budovy dle ČSN 730331 s upřesněním podle následujících pravidel:
+
+1\. Pro výpočet dílčí dodané energie na vytápění je možné zohlednit vnitřní teplotu v režimu útlumu pouze tehdy, je-li otopná soustava vybavena automatickým systémem umožňujícím takový útlum vnitřní teploty.
+
+2\. V případě použití více zdrojů tepla v jedné zóně bude podíl na pokrytí dodané energie připadající na příslušný doplňkový zdroj tepla stanoven nejvýše hodnotou podle tabulky A.1 normy ČSN 730331-1 s výjimkou využití doplňkového ohřevu teplé vody nebo vytápění vůči ohřevu teplé vody nebo vytápění bivalentním tepelným čerpadlem, pro který lze v hodinovém kroku výpočtu daný podíl stanovit také výpočtem na základě výkonových křivek použitého tepelného čerpadla.
+
+3\. Počet osob se stanovuje podle ČSN 730331 a zaokrouhluje se na celá čísla. Na jednu bytovou jednotku se počítá maximálně 5 osob.
+
+4\. Je-li instalovaný technický systém větrání regulován na vyšší intenzitu větrání, než odpovídá hodnotě podle ČSN 730331, zohlední se ve výpočtu hodnota odpovídající skutečné nebo navržené regulaci systému větrání.
+
+D.2 Jiné než obytné zóny
+
+Pro jiné než obytné zóny se vytvoří individuální typický profil užívání, který zohledňuje návrhový časový profil užívání budovy, návrhovou obsazenost budovy, velikost a způsob regulace technických zařízení budovy, případně další okrajové podmínky definované projektem. Individuální typický profil užívání může být vytvořen úpravou vstupních hodnot typických profilů užívání dle ČSN 730331.
+
+V případech, kdy stávající budova není provozována a současně není k dispozici projektová dokumentace, se použije profil typického užívání budovy podle ČSN 730331.
+
+Dále musí být dodržena následující pravidla:
+
+1\. Vstupní hodnota definující stav vnitřního prostředí jako je množství větracího venkovního vzduchu, návrhová vnitřní teplota pro režim vytápění a chlazení nebo osvětlenost vnitřních prostor se stanoví v souladu s požadavky právních předpisů upravujících kvalitu vnitřního prostředí budov.
+
+2\. Pro výpočet hodnot dílčí dodané energie na vytápění se nezohledňuje přerušení dodávky tepla vedoucí ke snížení vnitřní teploty pod hodnotu návrhové vnitřní teploty pro režim vytápění. Mimo provozní dobu užívání zóny lze uvažovat vnitřní teplotu v režimu útlumu, je-li otopná soustava vybavena automatickým systémem umožňujícím takový útlum vnitřní teploty.
+
+3\. Pro výpočet hodnot měrného tepelného toku větráním se uvažuje průměrné množství větracího venkovního vzduchu v závislosti na kroku výpočtu, které musí zohledňovat typický profil užívání jednotlivých větraných prostorů, jejich funkční využití, jejich předpokládanou denní a roční obsazenost v závislosti na kroku výpočtu a koncentraci znečišťujících látek a škodlivin. Pro systém nuceného větrání musí být zohledněn způsob ovládání a nastavení systému měření a regulace. Způsob stanovení průměrného množství větracího venkovního vzduchu se musí specifikovat v průkazu energetické náročnosti budovy.
+
+4\. Do vnitřních tepelných zisků se nezapočítávají tepelné zisky, které jsou odváděné z hodnocené budovy pomocí technologie, která není součástí technického systému budovy. Vnitřní tepelné zisky z technologie instalované v hodnocené budově se stanovují:
+
+a) na základě profilu typického užívání budovy podle ČSN 730331,
+
+b) podrobně na základě zvoleného profilu typického užívání budovy, technických parametrů instalované technologie a časového harmonogramu jejího provozu. Výpočet hodnot vnitřních zisků z technologie se uvede v průkazu energetické náročnosti budovy,
+
+c) jako projektový předpoklad, který je součástí projektové dokumentace návrhu technických systémů budovy se zohledněným časovým podílem využití, odpovídajícím době provozu instalovaných zařízení.
+
+E. Výpočet energetické náročnosti budov s místní soustavou zásobování teplem a chladem
+
+1\. V případě, že jsou teplo nebo chlad do hodnocené budovy dodávány ze zdroje, který není umístěn v hodnocené budově a který není součástí soustavy zásobování tepelnou energií podle energetického zákona, jde o dodávky tepla nebo chladu prostřednictvím místní soustavy zásobování teplem a chladem (dále jen „místní soustava“).
+
+2\. Do hodnoty celkové dodané energie se započítají ztráty při výrobě a distribuci tepla nebo chladu v místní soustavě. Přednostně se vychází z celoročních energetických účinností místní soustavy jako celku (např. průměrná celoroční účinnost výroby tepla, chladu a elektřiny a průměrná celoroční účinnost distribuční soustavy - rozvodů mimo budovu) nebo z celkové roční spotřeby paliva zdroje mimo hodnocenou budovu a ročního odběru energie na patách připojených budov a technologických procesů soustavy. Pokud není možné tyto informace zjistit (např. na základě místního šetření nebo údajů z projektové dokumentace), může energetický specialista vyjít z vlastních výpočtů.
+
+3\. Pokud je součástí místní soustavy i zařízení pro kombinovanou výrobu elektřiny a tepla, které dodává tepelnou energii do více budov, zahrne se do výpočtu hodnoty primární energie z neobnovitelných zdrojů energie hodnocené budovy hodnota tepla vyrobeného v tomto zařízení maximálně do výše hodnoty celkové dodané tepelné energie v hodnocené budově. Zvolený způsob zahrnutí vyrobeného tepla ze zařízení pro kombinovanou výrobu elektřiny a tepla se použije pro všechny budovy připojené na místní soustavu jednotně a součet tepla dodaného do všech budov ze zařízení pro kombinovanou výrobu elektřiny a tepla nesmí převýšit množství vyrobeného tepla z tohoto zařízení.
+
+4\. Pokud je součástí místní soustavy i zařízení pro kombinovanou výrobu elektřiny a tepla, které dodává elektřinu do více budov, použije se § 3 odst. 8 a § 9 odst. 8 této vyhlášky obdobně.
+
+5\. Výpočet podílu využité elektřiny a tepla pro hodnocenou budovu musí být doložen v průkazu energetické náročnosti budovy.
+
+### Příloha č. 6
+
+#### Pravidla započtení výroby elektřiny pro vlastní spotřebu v areálu do energetické náročnosti budov v areálu
+
+1\. Výpočet hodnot ukazatelů energetické náročnosti hodnocené budovy a referenční budovy se provede v souladu s § 3 až 5 a přílohou č. 5 k této vyhlášce. Nad rámec těchto pravidel se zohlední pravidla uvedená níže.
+
+2\. Výrobna elektřiny pro vlastní spotřebu, která má být zohledněna ve výpočtu ukazatelů energetické náročnosti hodnocené budovy, musí být umístněna ve stejném areálu jako hodnocená budova.
+
+3\. Do hodnoty celkové dodané energie a primární energie z neobnovitelných zdrojů energie se započítají také ztráty při výrobě a při distribuci nebo dopravě vyrobené elektřiny.
+
+4\. Při výpočtu ztrát se vychází z celoročních energetických účinností dodávky elektřiny v areálu jako celku, které poskytne provozovatel. Pokud není možné tyto informace zjistit, může energetický specialista vyjít z vlastních výpočtů.
+
+5\. Výpočet bilance primární energie z neobnovitelných zdrojů energie budovy je proveden s vazbou na budovy a výrobny elektřiny umístěné v areálu. Údaje o těchto budovách a výrobnách elektřiny se zahrnou do bilance primární energie z neobnovitelných zdrojů energie areálu v rozsahu podle přílohy č. 7 k této vyhlášce.
+
+6\. Aby mohla být hodnocená budova nebo výrobna elektřiny pro vlastní spotřebu zahrnuta do bilance primární energie z neobnovitelných zdrojů energie areálu, musí být její stavebník nebo vlastník
+
+a) shodný s vlastníkem areálu, ostatních budov a výroben elektřiny pro vlastní spotřebu zahrnutých do bilance primární energie z neobnovitelných zdrojů energie areálu, nebo
+
+b) vlastníkem alespoň 30 % podílu na vlastníkovi areálu, ostatních budov a výroben elektřiny pro vlastní spotřebu zahrnutých do bilance primární energie z neobnovitelných zdrojů energie areálu, nebo
+
+c) vlastníkem alespoň 30 % základního kapitálu nebo hlasovacích práv vlastníka areálu, ostatních budov a výroben elektřiny pro vlastní spotřebu zahrnutých do bilance primární energie z neobnovitelných zdrojů energie areálu.
+
+7\. Elektřinu vyrobenou výrobnou elektřiny pro vlastní spotřebu umístěnou v areálu je možné zahrnout do výpočtu bilance primární energie z neobnovitelných zdrojů energie více budov umístěných v tomto areálu. Alokace podílů vyrobené elektřiny z výrobny elektřiny pro vlastní spotřebu do jednotlivých budov pro potřeby výpočtu bilancí primární energie z neobnovitelných zdrojů energie těchto budov probíhá bez ohledu na faktické toky elektřiny. Součet hodnot alokované elektřiny pro výpočet bilancí primární energie z neobnovitelných zdrojů energie těchto budov nesmí být vyšší než celková průměrná roční výroba elektřiny pro vlastní spotřebu z výroben elektřiny pro vlastní spotřebu umístněných v areálu a na hodnocené budově.
+
+8\. Do hodnoty primární energie z neobnovitelných zdrojů energie hodnocené budovy je možné elektřinu vyrobenou výrobnou elektřiny pro vlastní spotřebu umístněnou v areálu započíst nejvýše do hodnoty celkové roční dodané energie do hodnocené budovy.
+
+### Příloha č. 7
+
+#### ![sbcr2020c098z0264_2024c222z0222u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026351/NAHLED/ZOBRAZ/sbcr2020c098z0264_2024c222z0222u001)
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2010/31/EU ze dne 19. května 2010 o energetické náročnosti budov. 
+ Směrnice Evropského parlamentu a Rady (EU) 2018/844 ze dne 30. května 2018, kterou se mění směrnice 2010/31/EU o energetické náročnosti budov a směrnice 2012/27/EU o energetické účinnosti.
+
+<sup>2</sup>) ČSN 73 0540-4 Tepelná ochrana budov - Část 4: Výpočtové metody.
+
+<sup>3</sup>) ČSN EN ISO 52016-1 Energetická náročnost budov - Energie potřebná pro vytápění a chlazení vnitřních prostor a citelné a latentní tepelné zatížení - Část 1: Postupy výpočtu.
+
+<sup>4</sup>) ČSN EN 15316-1 Energetická náročnost budov - Metoda výpočtu potřeb energie a účinností soustav - Část 1: Obecné požadavky a vyjádření energetické náročnosti, Modul M3-1, M3-4, M3-9, M8-1, M8-4. 
+ ČSN EN 15316-2 Energetická náročnost budov - Metoda výpočtu potřeb energie a účinností soustav - Část 2: Části soustav pro sdílení (vytápění a chlazení), Modul M3-5, M4-5. 
+ ČSN EN 15316-4 Energetická náročnost budov - Výpočtová metoda pro stanovení potřeb energie a účinností soustavy - Část 4-1: Výroba tepla pro vytápění a příprava teplé vody, spalovací zařízení (kotle, biomasa), Modul M3-8-1, M8-8-1, Část 4-2: Výroba tepla pro vytápění, Tepelná čerpadla, Modul M3-8-2, M8-8-2, Část 4-3: Výroba tepla, fotovoltaické a solární tepelné soustavy, Modul M3-8-3, M8-8-3, M11-8-3, Část 4-4: Části soustav pro výrobu tepla, kombinovaná výroba elektřiny a tepla integrovaná do budovy, Modul M8-3-4, M8-8-4, M8-11-4, Část 4-5: Soustavy zásobování teplem a chladem, Modul M3-8-5, M4-8-5, M8-8-5, M11-8-5.
+
+<sup>5</sup>) ČSN EN 15665 Větrání budov - Stanovení výkonových kritérií pro větrací systémy obytných budov. 
+ ČSN EN 16798-5-1 Energetická náročnost budov - Větrání budov - Část 5-1: Výpočtové metody pro energetické požadavky větracích a klimatizačních systémů (Moduly M5-6, M5-8, M6-5, M6-8, M7-5, M7-8) - Metoda 1: Distribuce a výroba). 
+ ČSN EN 16798-7 Energetická náročnost budov - Větrání budov - Část 7: Výpočtové metody pro stanovení průtoků vzduchu v budovách, včetně infiltrace (Moduly M5-5). 
+ ČSN EN 16798-9 Energetická náročnost budov - Větrání budov - Část 9: Výpočtové metody pro energetické požadavky chladicích systémů (Modul M4-1, M4-4, M4-9) - Obecné požadavky.
+
+<sup>6</sup>) ČSN EN 15316-3 Tepelné soustavy v budovách - Výpočtová metoda pro stanovení potřeb energie a účinností soustavy - Část 3-2: Soustavy teplé vody, rozvody. 
+ ČSN EN 15316-4-1 Energetická náročnost budov - Výpočtová metoda pro stanovení potřeb energie a účinností soustavy - Část 4-1: Výroba tepla pro vytápění a příprava teplé vody, spalovací zařízení (kotle, biomasa), Modul M3-8-1, M8-8-1.
+
+<sup>7</sup>) ČSN EN 15193-1 Energetická náročnost budov - Energetické požadavky na osvětlení - Část 1: Specifikace, modul M9.
+
+<sup>8</sup>) ČSN 730331.
+
+<sup>9</sup>) ČSN EN 15459-1 Energetická náročnost budov - Postup pro ekonomické hodnocení energetických soustav v budovách - Část 1: Výpočtové postupy, Modul M1-14.

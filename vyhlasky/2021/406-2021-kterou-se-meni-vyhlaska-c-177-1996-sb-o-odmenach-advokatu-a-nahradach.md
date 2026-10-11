@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 406/2021 Sb., kterou se mění vyhláška č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), ve znění pozdějších předpisů"
+identifier: "406/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/406/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-11-10
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/406"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 406/2021 Sb., kterou se mění vyhláška č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), ve znění pozdějších předpisů
+
+406
+
+VYHLÁŠKA
+
+ze dne 10. listopadu 2021,
+
+kterou se mění vyhláška č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), ve znění pozdějších předpisů
+
+Ministerstvo spravedlnosti stanoví podle § 22 odst. 3 zákona č. 85/1996 Sb., o advokacii, ve znění zákona č. 228/2002 Sb. a zákona č. 79/2006 Sb.:
+
+## Čl. I
+
+Ve vyhlášce č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), ve znění vyhlášky č. 235/1997 Sb., vyhlášky č. 484/2000 Sb., vyhlášky č. 68/2003 Sb., vyhlášky č. 618/2004 Sb., vyhlášky č. 276/2006 Sb., vyhlášky č. 399/2010 Sb., vyhlášky č. 486/2012 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 116/2013 Sb., vyhlášky č. 390/2013 Sb., vyhlášky č. 120/2014 Sb., vyhlášky č. 121/2018 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 302/2019 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 28/2020 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 43/2020 Sb., a nálezu Ústavního soudu, vyhlášeného pod č. 176/2020 Sb., se § 12a zrušuje.
+
+## Čl. II – Přechodné ustanovení
+
+Za úkony právní služby poskytnuté přede dnem nabytí účinnosti této vyhlášky náleží advokátovi odměna podle dosavadních právních předpisů.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Ministryně spravedlnosti:
+
+Mgr. Benešová v. r.

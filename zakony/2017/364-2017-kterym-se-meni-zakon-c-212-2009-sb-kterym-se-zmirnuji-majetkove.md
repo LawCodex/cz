@@ -1,0 +1,54 @@
+---
+title: "Zákon č. 364/2017 Sb., kterým se mění zákon č. 212/2009 Sb., kterým se zmírňují majetkové křivdy občanům České republiky za nemovitý majetek, který zanechali na území Podkarpatské Rusi v souvislosti s jejím smluvním postoupením Svazu sovětských socialistických republik, ve znění zákona č. 121/2012 Sb."
+identifier: "364/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/364/2017-11-07"
+type: act
+jurisdiction: cz
+language: cs
+date: 2017-10-11
+effective: 2017-11-07
+last_amended: 2017-11-07
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/364"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 364/2017 Sb., kterým se mění zákon č. 212/2009 Sb., kterým se zmírňují majetkové křivdy občanům České republiky za nemovitý majetek, který zanechali na území Podkarpatské Rusi v souvislosti s jejím smluvním postoupením Svazu sovětských socialistických republik, ve znění zákona č. 121/2012 Sb.
+
+364
+
+ZÁKON
+
+ze dne 11. října 2017,
+
+kterým se mění zákon č. 212/2009 Sb., kterým se zmírňují majetkové křivdy občanům České republiky za nemovitý majetek, který zanechali na území Podkarpatské Rusi v souvislosti s jejím smluvním postoupením Svazu sovětských socialistických republik, ve znění zákona č. 121/2012 Sb.
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 212/2009 Sb., kterým se zmírňují majetkové křivdy občanům České republiky za nemovitý majetek, který zanechali na území Podkarpatské Rusi v souvislosti s jejím smluvním postoupením Svazu sovětských socialistických republik, ve znění zákona č. 121/2012 Sb., se mění takto:
+
+1\. V § 3 se za odstavec 3 vkládá nový odstavec 4, který zní:
+
+> „(4) Zemřelo-li dítě, které je oprávněnou osobou podle odstavce 3 a které řádně a včas uplatnilo nárok podle § 5 odst. 1, před tím, než bylo o jeho nároku rozhodnuto nebo než mu bylo vyplaceno vypořádání, jsou oprávněnými osobami jeho děti, pokud jsou ke dni nabytí účinnosti tohoto zákona občany České republiky, a to každé z nich stejným dílem; to neplatí, bylo-li již vypořádání v celé výši podle § 7 vyplaceno jiným oprávněným osobám.“.
+
+Dosavadní odstavce 4 a 5 se označují jako odstavce 5 a 6.
+
+2\. V § 3 odst. 5 se za slova „odstavce 3“ vkládají slova „a 4“.
+
+3\. V § 5 se za odstavec 1 vkládá nový odstavec 2, který zní:
+
+> „(2) Nárok oprávněné osoby podle § 3 odst. 4 je nutné uplatnit písemnou žádostí (§ 6) podanou povinné osobě nejpozději do 30. června 2018, jinak nárok zaniká.“.
+
+Dosavadní odstavce 2 a 3 se označují jako odstavce 3 a 4.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Hamáček v. r.
+
+Zeman v. r.
+
+Sobotka v. r.

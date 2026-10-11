@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 266/2023 Sb., kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů, a vyhláška č. 250/2022 Sb., kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů, a vyhláška č. 48/2005 Sb., o základním vzdělávání a některých náležitostech plnění povinné školní docházky, ve znění pozdějších předpisů"
+identifier: "266/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/266/2023-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2023-08-29
+effective: 2023-09-01
+last_amended: 2023-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/266"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 266/2023 Sb., kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů, a vyhláška č. 250/2022 Sb., kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů, a vyhláška č. 48/2005 Sb., o základním vzdělávání a některých náležitostech plnění povinné školní docházky, ve znění pozdějších předpisů
+
+266
+
+VYHLÁŠKA
+
+ze dne 29. srpna 2023,
+
+kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů, a vyhláška č. 250/2022 Sb., kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů, a vyhláška č. 48/2005 Sb., o základním vzdělávání a některých náležitostech plnění povinné školní docházky, ve znění pozdějších předpisů
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 20 odst. 8, § 28 odst. 6 a § 71 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění zákona č. 383/2005 Sb., zákona č. 49/2009 Sb. a zákona č. 472/2011 Sb.:
+
+## ČÁST PRVNÍ – Změna vyhlášky o středním vzdělávání a vzdělávání v konzervatoři
+
+### Čl. I
+
+Vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění vyhlášky č. 374/2006 Sb., vyhlášky č. 400/2009 Sb., vyhlášky č. 197/2016 Sb., vyhlášky č. 145/2018 Sb., vyhlášky č. 200/2021 Sb., vyhlášky č. 126/2022 Sb. a vyhlášky č. 250/2022 Sb., se mění takto:
+
+1\. V § 6b odst. 2 se číslo „12“ nahrazuje číslem „24“.
+
+2\. V § 6d odst. 1 se číslo „200“ nahrazuje číslem „400“ a číslo „10“ se nahrazuje číslem „20“.
+
+## ČÁST DRUHÁ – Změna vyhlášky č. 250/2022 Sb., kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů, a vyhláška č. 48/2005 Sb., o základním vzdělávání a některých náležitostech plnění povinné školní docházky, ve znění pozdějších předpisů
+
+### Čl. II
+
+V čl. III vyhlášky č. 250/2022 Sb., kterou se mění vyhláška č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů, a vyhláška č. 48/2005 Sb., o základním vzdělávání a některých náležitostech plnění povinné školní docházky, ve znění pozdějších předpisů, se číslo „2023“ nahrazuje číslem „2024“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. III
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2023.
+
+Ministr školství, mládeže a tělovýchovy:
+
+doc. PhDr. Bek, Ph.D., v. r.

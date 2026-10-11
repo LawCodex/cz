@@ -1,0 +1,108 @@
+---
+title: "Vyhláška č. 577/2025 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene otorinolaryngologického"
+identifier: "577/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/577/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-12-19
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/577"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 577/2025 Sb., o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene otorinolaryngologického
+
+577
+
+VYHLÁŠKA
+
+ze dne 19. prosince 2025
+
+o stanovení činností, které může vykonávat lékař bez odborného dohledu po získání certifikátu o absolvování základního kmene otorinolaryngologického
+
+Ministerstvo zdravotnictví stanoví podle § 37 odst. 1 písm. k) k provedení § 4 odst. 4 písm. a) zákona č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění zákona č. 67/2017 Sb.:
+
+## § 1
+
+Lékař může po získání certifikátu o absolvování základního kmene otorinolaryngologického bez odborného dohledu
+
+a) indikovat a interpretovat základní zobrazovací metody a laboratorní vyšetření,
+
+b) indikovat krevní transfuze, včetně krevních derivátů,
+
+c) asistovat u všech operací,
+
+d) vyhodnocovat hojení operačních ran a rozhodovat o jejich dalším léčení,
+
+e) provádět rozšířenou neodkladnou resuscitaci,
+
+f) rozpoznat a vyhodnotit závažnosti stavů náhlé poruchy zdraví nebo selhání základních životních funkcí a
+
+g) zavádět nazogastrickou sondu.
+
+## § 2
+
+Lékař může po získání certifikátu o absolvování základního kmene otorinolaryngologického bez odborného dohledu dále provádět
+
+a) základní otorinolaryngologické vyšetření, včetně endoskopie, se stanovením diferenciálně diagnostické rozvahy a návrhem dalšího postupu,
+
+b) vyšetření poruch sluchu, řeči, hlasu a polykání,
+
+c) léčbu externí otitidy,
+
+d) léčbu akutního středoušního zánětu,
+
+e) paracentézu, případně se zavedením ventilační trubičky,
+
+f) nechirurgické a chirurgické řešení nekomplikované perforace bubínku,
+
+g) antromastoidektomii a mastoidektomii,
+
+h) otoplastiku,
+
+i) konzervativní ošetření epistaxe,
+
+j) chirurgické ošetření zlomenin nosních kůstek,
+
+k) nekomplikovanou plastiku nosní přepážky,
+
+l) nekomplikovanou mukotomii,
+
+m) nekomplikovanou supra a infraturbinální antrostomii,
+
+n) punkci a výplach čelistní dutiny,
+
+o) direktní laryngoskopii a nekomplikovanou ezofagoskopii a brochoskopii,
+
+p) koniotomii a tracheostomii,
+
+q) adenotomii, tonzilektomii a tonzilotomii,
+
+r) chirurgickou léčbu peritonzilárního absesu,
+
+s) drenáž zánětlivého ložiska hlavy a krku,
+
+t) chirurgická ošetření nekomplikovaných ran v oblasti hlavy a krku, včetně lokální anestezie,
+
+u) biopsii slizniční a kožní léze,
+
+v) resekci kožního tumoru, benigních i maligních lézí,
+
+w) diagnostickou biopsii lymfatických uzlin,
+
+x) exstirpace drobných útvarů na hlavě a krku, mediální a laterální krční cysty, appendices preauriculares, píštěle,
+
+y) vyšetření poruch rovnováhy a
+
+z) repoziční manévry u benigního paroxysmálního polohového vertiga.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr zdravotnictví:
+
+Mgr. et Mgr. Vojtěch, MHA, v. r.

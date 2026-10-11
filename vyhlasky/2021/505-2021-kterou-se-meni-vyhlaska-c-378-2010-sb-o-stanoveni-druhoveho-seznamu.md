@@ -1,0 +1,269 @@
+---
+title: "Vyhláška č. 505/2021 Sb., kterou se mění vyhláška č. 378/2010 Sb., o stanovení druhového seznamu pěstovaných rostlin, ve znění pozdějších předpisů, a další související vyhlášky"
+identifier: "505/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/505/2022-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-12-14
+effective: 2022-02-01
+last_amended: 2022-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/505"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 505/2021 Sb., kterou se mění vyhláška č. 378/2010 Sb., o stanovení druhového seznamu pěstovaných rostlin, ve znění pozdějších předpisů, a další související vyhlášky
+
+505
+
+VYHLÁŠKA
+
+ze dne 14. prosince 2021,
+
+kterou se mění vyhláška č. 378/2010 Sb., o stanovení druhového seznamu pěstovaných rostlin, ve znění pozdějších předpisů, a další související vyhlášky
+
+Ministerstvo zemědělství stanoví podle § 3 odst. 14 písm. a), § 4 odst. 15 písm. a), § 5 odst. 8 písm. a), e) až h), § 6 odst. 8 písm. d) a g), § 7 odst. 6 písm. a), § 7a odst. 5 a § 17 odst. 16 písm. b) zákona č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění zákona č. 178/2006 Sb., zákona č. 96/2009 Sb., zákona č. 300/2009 Sb., zákona č. 331/2010 Sb., zákona č. 54/2012 Sb., zákona č. 295/2017 Sb. a zákona č. 334/2020 Sb.:
+
+## ČÁST PRVNÍ – Změna vyhlášky o stanovení druhového seznamu pěstovaných rostlin
+
+### Čl. I
+
+Vyhláška č. 378/2010 Sb., o stanovení druhového seznamu pěstovaných rostlin, ve znění vyhlášky č. 42/2014 Sb., vyhlášky č. 3/2018 Sb. a vyhlášky č. 315/2020 Sb., se mění takto:
+
+1\. V poznámce pod čarou č. 1 se věty „Směrnice Rady 92/33/ES ze dne 28. dubna 1992 o uvádění sadby a rozmnožovacího materiálu zeleniny mimo osivo na trh.“, „Směrnice Rady 92/34/EHS ze dne 28. dubna 1992 o uvádění na trh rozmnožovacího materiálu ovocných rostlin a ovocných rostlin určených k produkci ovoce.“ a „Směrnice Komise 2003/111/ES ze dne 26. listopadu 2003, kterou se mění příloha II směrnice 92/34/EHS o uvádění na trh rozmnožovacího materiálu ovocných rostlin a ovocných rostlin určených k produkci ovoce.“ zrušují a na konci poznámky pod čarou č. 1 se na samostatném řádku doplňuje věta „Prováděcí směrnice Komise (EU) 2021/415 ze dne 8. března 2021, kterou se mění směrnice Rady 66/401/EHS a 66/402/EHS za účelem přizpůsobení taxonomických skupin a názvů některých druhů semen a plevelů vývoji vědeckých a technických poznatků.“.
+
+2\. V příloze bod 1.1. Obilniny zní:
+
+> <table><tbody><tr><td colspan="2">„1.1. Obilniny</td></tr><tr><td>Avena nuda L.</td><td>Oves nahý</td></tr><tr><td>Avena sativa L. (včetně A. byzantina K. Koch)</td><td>Oves setý</td></tr><tr><td>Avena strigosa Schreb.</td><td>Oves hřebílkatý</td></tr><tr><td>Hordeum vulgare L.</td><td>Ječmen</td></tr><tr><td>Phalaris canariensis L.</td><td>Lesknice kanárská</td></tr><tr><td>Secale cereale L.</td><td>Žito</td></tr><tr><td>Sorghum bicolor (L.) Moench subsp. bicolor</td><td>Čirok</td></tr><tr><td>Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse</td><td>Čirok súdánská tráva</td></tr><tr><td>Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse</td><td>Čirok x čirok súdánská tráva <br> hybridy vzniklé křížením poddruhů <br> Sorghum bicolor subsp. bicolor a <br> Sorghum bicolor subsp. drummondii</td></tr><tr><td>Triticum aestivum L. subsp. aestivum</td><td>Pšenice setá</td></tr><tr><td>Triticum turgidum L. subsp. durum (Desf.) van Slageren</td><td>Pšenice tvrdá</td></tr><tr><td>Triticum aestivum L. subsp. spelta (L.) Thell.</td><td>Pšenice špalda</td></tr><tr><td>x Triticosecale Wittm. ex A. Camus</td><td>Tritikale<br> hybridy vzniklé křížením druhů rodu Triticum s druhy rodu Secale</td></tr><tr><td>Zea mays L. (partim)</td><td>Kukuřice (mimo pukancové a cukrové)“.</td></tr></tbody></table>
+
+3\. V příloze v bodě 1.2.1 Trávy se slova „Festuca trachyphylla (Hack.) Krajina“ nahrazují slovy „Festuca trachyphylla (Hack.) Hack.“.
+
+## ČÁST DRUHÁ – Změna vyhlášky o požadavcích na odběr vzorků, postupy a metody zkoušení osiva a sadby
+
+### Čl. II
+
+Vyhláška č. 61/2011 Sb., o požadavcích na odběr vzorků, postupy a metody zkoušení osiva a sadby, ve znění vyhlášky č. 410/2013 Sb., vyhlášky č. 3/2018 Sb. a vyhlášky č. 156/2021 Sb., se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Prováděcí směrnice Komise (EU) 2021/415 ze dne 8. března 2021, kterou se mění směrnice Rady 66/401/EHS a 66/402/EHS za účelem přizpůsobení taxonomických skupin a názvů některých druhů semen a plevelů vývoji vědeckých a technických poznatků.“.
+
+2\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Prováděcí směrnice Komise (EU) 2021/971 ze dne 16. června 2021, kterou se mění příloha I směrnice Rady 66/401/EHS o uvádění osiva pícnin na trh, příloha I směrnice Rady 66/402/EHS o uvádění osiva obilovin na trh, příloha I směrnice Rady 2002/54/ES o uvádění osiva řepy na trh, příloha I směrnice Rady 2002/55/ES o uvádění osiva zeleniny na trh a příloha I směrnice Rady 2002/57/ES o uvádění osiva olejnin a přadných rostlin na trh, pokud jde o používání biochemických a molekulárních technik.“.
+
+3\. V § 11 se doplňuje odstavec 5, který zní:
+
+> „(5) V případě, že po provedení přehlídky množitelského porostu obilnin, trav, luskovin, jetelovin, jiných krmných plodin, olejnin, přadných rostlin, řep a zelenin přetrvávají pochybnosti, pokud jde o odrůdovou pravost osiva, může Ústav pro přezkoušení této pravosti použít mezinárodně uznávanou a reprodukovatelnou biochemickou nebo molekulární techniku v souladu s platnými mezinárodními normami.“.
+
+4\. V příloze č. 1 části 2 bodu 2.1 podbodě 2.1.2. odst. 2 se slova „Triticum aestivum“ nahrazují slovy „Triticum aestivum L. subsp. aestivum“.
+
+5\. V příloze č. 5 tabulce č. 1 se ve druhém sloupci slova „Sorghum bicolor“ nahrazují slovy „Sorghum bicolor subsp. bicolor“, slova „Sorghum bicolor x S. sudanense“ slovy „Sorghum bicolor subsp. bicolor x Sorghum bicolor subsp. drummondii“, slova „Sorghum sudanense“ slovy „Sorghum bicolor subsp. drummondii“, slova „Triticum aestivum“ slovy „Triticum aestivum subsp. aestivum“, slova „Triticum spelta“ slovy „Triticum aestivum subsp. spelta“ a slova „Triticum durum“ slovy „Triticum turgidum subsp. durum“.
+
+## ČÁST TŘETÍ – Změna vyhlášky o podrobnostech uvádění osiva a sadby pěstovaných rostlin do oběhu
+
+### Čl. III
+
+Vyhláška č. 129/2012 Sb., o podrobnostech uvádění osiva a sadby pěstovaných rostlin do oběhu, ve znění vyhlášky č. 409/2013 Sb., vyhlášky č. 368/2015 Sb., vyhlášky č. 334/2017 Sb., vyhlášky č. 299/2018 Sb. a vyhlášky č. 313/2020 Sb., se mění takto:
+
+1\. V poznámce pod čarou č. 1 se věta „Směrnice Rady 92/33/ES ze dne 28. dubna 1992 o uvádění sadby a rozmnožovacího materiálu zeleniny mimo osivo na trh.“ zrušuje a na konci se na samostatný řádek doplňuje věta „Prováděcí směrnice Komise (EU) 2021/415 ze dne 8. března 2021, kterou se mění směrnice Rady 66/401/EHS a 66/402/EHS za účelem přizpůsobení taxonomických skupin a názvů některých druhů semen a plevelů vývoji vědeckých a technických poznatků.“.
+
+2\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Prováděcí směrnice Komise (EU) 2021/1927 ze dne 5. listopadu 2021, kterou se mění přílohy I a II směrnice Rady 66/402/EHS, pokud jde o požadavky na osivo hybridů pšenice produkovaných technikou cytoplazmatické pylové sterility.“.
+
+3\. V § 6 odst. 1 a § 8 odst. 3 úvodní části ustanovení se slova „uvedeny v příloze č. 9 k této vyhlášce“ nahrazují slovy „zveřejněny na internetových stránkách Ústavu“.
+
+4\. V § 13 odst. 3 se slova „uveden v příloze č. 9 k této vyhlášce“ nahrazují slovy „zveřejněn na internetových stránkách Ústavu“.
+
+5\. V příloze č. 1 část I zní:
+
+> **„Část I – Přehled druhů**
+
+> **Tabulka 1**
+
+> | Český název | Latinský název |
+> |---|---|
+> | Čirok | Sorghum bicolor (L.) Moench subsp. bicolor |
+> | Čirok súdánská tráva | Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse |
+> | Čirok x čirok súdánská tráva<br> <br> hybridy vzniklé křížením poddruhů Sorghum bicolor subsp. bicolor a Sorghum bicolor subsp. drummondii | Sorghum bicolor (L.) Moench subsp. bicolor x Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse |
+> | Ječmen | Hordeum vulgare L. |
+> | Kukuřice (mimo pukancové a cukrové) | Zea mays L. (partim) |
+> | Lesknice kanárská | Phalaris canariensis L. |
+> | Oves nahý | Avena nuda L. |
+> | Oves setý | Avena sativa L. (včetně A. byzantina K. Koch) |
+> | Oves hřebílkatý | Avena strigosa Schreb. |
+> | Pšenice setá | Triticum aestivum L. subsp. aestivum |
+> | Pšenice tvrdá | Triticum turgidum L. subsp. durum (Desf.) van Slageren |
+> | Pšenice špalda | Triticum aestivum L. subsp. spelta (L.) Thell. |
+> | Tritikale <br> <br> hybridy vzniklé křížením druhů rodu Triticum s druhy rodu Secale | x Triticosecale Wittm. ex A. Camus |
+> | Žito | Secale cereale L. |
+> | Pohanka obecná <sup>1</sup> | Fagopyrum esculentum Moench |
+> | Proso seté <sup>1</sup> | Panicum miliaceum L. |
+
+> <sup>1</sup> - Druhy neuvedené v druhovém seznamu; uznávací řízení se může provést pouze u registrovaných odrůd.“.
+
+> **ČÁST ČTVRTÁ – ÚČINNOST**
+
+> **Čl. IV**
+
+> (1) Tato vyhláška nabývá účinnosti dnem 1. února 2022, s výjimkou ustanovení čl. II bodů 2 a 3 a čl. III bodů 2, 7, 8 a 11 až 15, která nabývají účinnosti dnem 1. září 2022.
+
+> (2) Ustanovení čl. III bodů 7, 8 a 11 až 15 pozbývají platnosti uplynutím dne 31. srpna 2029.
+
+6\. V příloze č. 1 části III oddílu 1 se pod tabulkou 3.1a v poznámce 3 slova „a prosa“ nahrazují slovy „ , prosa a lesknice“.
+
+7\. V příloze č. 1 části III oddílu 2 pododdílu 1 v tabulce 3.2a řádek „pšenice setá, tvrdá a špalda“ zní:
+
+> „
+>
+> <table><tbody><tr><th rowspan="4">pšenice setá, tvrdá a špalda</th><td>SE, E</td><td>1,0</td><td>-</td><td>-</td><td>-</td></tr><tr><td>C</td><td>1,0</td><td>-</td><td>-</td><td>-</td></tr><tr><td>E (komponenty hybridů CMS)</td><td>1,0</td><td>300<sup>11</sup></td><td>-</td><td>-</td></tr><tr><td>C (hybrid CMS)</td><td>1,0</td><td>25<sup>11</sup></td><td>-</td><td>-</td></tr></tbody></table> “.
+>
+> “.
+
+8\. V příloze č. 1 části III oddílu 2 pododdílu 2 se slova „ječmene, s výjimkou hybridů ječmene“ nahrazují slovy „ječmene, s výjimkou hybridů pšenic a ječmene“.
+
+9\. V příloze č. 1 části III oddílu 2 pododdílu 3 se pod tabulkou 3.2b v úvodní větě druhého odstavce slova „[(Sorghum halepense (L.)]“ nahrazují slovy „(Sorghum halepense)“ a slova „[Sorghum sudanense (Piper) Stapf]“ se nahrazují slovy „(Sorghum bicolor subsp. drummondii)“.
+
+10\. V příloze č. 1 části III oddílu 2 pododdílu 3 se pod tabulkou 3.2b ve druhém odstavci v písmenech a) a b) za slovo „bicolor“ vkládají slova „subsp. bicolor“.
+
+11\. V příloze č. 1 části III oddílu 3 pododdílu 1 se v poznámce č. 18 za slovo „ječmene“ vkládají slova „a pšenic“.
+
+12\. V příloze č. 1 části III oddílu 3 pododdílu 2 se v bodě 4 za slovo „hybridů“ vkládají slova „pšenic a“.
+
+13\. V příloze č. 1 části III oddílu 3 pododdílu 2 se v bodě 5 za slova „s výjimkou hybridních odrůd“ a za slova „C 90 %, pro osivo hybridních odrůd“ vkládají slova „pšenic a“.
+
+14\. V příloze č. 1 části III oddílu 3 pododdílu 2 se v bodě 6 slova „hybridních odrůd ječmene“ nahrazují slovy „hybridních odrůd pšenic a ječmene“.
+
+15\. V příloze č. 1 části III oddílu 3 pododdílu 2 se za bod 8 doplňuje bod 9, který zní:
+
+> „9. v případě osiva hybridních odrůd pšenic využívající CMS je nejvyšší povolený počet rostlin odchylných typů v porostech pro výrobu osiva kategorie E u udržovatele a obnovitele fertility 0,1 %, u pylově sterilního mateřského komponentu 0,3 % a v porostech pro výrobu osiva kategorie C u obnovitele fertility 0,3 %, u pylově sterilního mateřského komponentu 0,6 % a u pylově sterilního mateřského komponentu ve formě jednoduchého hybridu 1 %. Minimální úroveň pylové sterility mateřského komponentu je v porostech pro výrobu osiva kategorie E 99,7 % a v porostech pro výrobu osiva kategorie C 99 %. Splnění požadavků uvedených v tomto bodě se posuzuje úřední následnou vegetační zkouškou. Osivo kategorie C se může vyrábět při pěstování směsi pylově sterilního mateřského komponentu s komponentem obnovujícím pylovou fertilitu.“.
+
+16\. V příloze č. 1 části V oddílu 3 pododdílu 2 se bod 3 zrušuje.
+
+Dosavadní bod 4 se označuje jako bod 3.
+
+17\. V příloze č. 2 části I tabulce 1 se ve druhém sloupci, osmém řádku slova „Festuca trachyphylla (Hack.) Krajina“ nahrazují slovy „Festuca trachyphylla (Hack.) Hack.“.
+
+18\. V příloze č. 4 části III oddílu 1 pododdílu 1 tabulce 3.1 v řádku náležejícím plodině „ředkev olejná“ se ve sloupci „počet roků<sup>2</sup>“ číslo „5“ nahrazuje číslem „3“.
+
+19\. V příloze č. 9 se zrušují písmena b) až g), včetně vzorů formulářů uvedených pod těmito písmeny.
+
+Dosavadní písmena h) až v) se označují jako písmena b) až p).
+
+20\. V nadpisu přílohy č. 10 se za slovo „osobou“ doplňují slova „a Ústavem“.
+
+21\. V příloze č. 10 úvodní odstavec zní:
+
+> „Vzory dokladů vydávaných pověřenou osobou
+
+> a) Uznávací list na množitelský porost
+
+> b) Uznávací list na osivo
+
+> Vzor dokladu vydávaného Ústavem
+
+> c) Prohlášení o osivu s neukončenou certifikací.“.
+
+22\. V příloze č. 16 se v nadpisu bodu 6 slovo „Odejmutí“ nahrazuje slovem „Zrušení“.
+
+23\. V příloze č. 17 se v nadpisu části III slovo „Odejmutí“ nahrazuje slovem „Zrušení“.
+
+24\. V příloze č. 17 části III se v bodech 1 a 3 slovo „odebráno“ nahrazuje slovem „zrušeno“.
+
+25\. V příloze č. 17 žádost o pověření k provádění přehlídek množitelských porostů a vydávání dokladů na množitelské porosty a vzor úředního razítka pověřené osoby znějí:
+
+> **„Žádost o pověření k provádění přehlídek množitelských porostů a vydávání dokladů na množitelské porosty**
+
+> **podle § 17 odst. 2 zákona**
+
+> **![sbcr2021c221z0505p017u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884379/NAHLED/ZOBRAZ/sbcr2021c221z0505p017u001)**
+
+> **Vzor úředního razítka pověřené osoby:**
+
+> **![sbcr2021c221z0505p017o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884381/NAHLED/ZOBRAZ/sbcr2021c221z0505p017o001)**
+
+> kde
+
+> PPP – pořadové číslo pověřené osoby v seznamu vzorkovatelů a přehlížitelů, který vede Ústav
+
+> 5R – R je číslo regionu působnosti pověřené osoby, popř. číslo regionu jejího sídla
+
+> XX – pořadové číslo pověření v rámci jednoho regionu a žadatele“.
+
+26\. V příloze č. 18 části II a III znějí:
+
+> „II. Kontrola pověřeného vzorkovatele
+
+> Kontrolou pověřeného vzorkovatele se rozumí soubor všech kontrolních opatření prováděných Ústavem v celém procesu vzorkování a skládá se z úředního dozoru a následné kontroly pověřeného vzorkovatele. Postup při kontrole pověřeného vzorkovatele se řídí metodickými pokyny vytvořenými Ústavem. Záznamy o výsledcích kontroly musí být uloženy minimálně 6 let.
+
+> 1\. Úřední dozor
+
+> Úřední dozor je kontrola dodržování správného postupu vzorkování během vlastního odběru vzorku – kontrola na místě. Každý vzorkovatel pověřený k odebírání vzorků osiva je kontrolován alespoň jedenkrát ročně při rozsahu odebíraných vzorků do 20 kusů, nebo alespoň dvakrát ročně při rozsahu větším.
+
+> 2\. Následná kontrola
+
+> Kontroluje se správnost výsledku ručního odběru vzorku. Tato kontrola se provádí laboratorně provedením zkoušek základních kvalitativních vlastností osiva. V případě pochybnosti o pravosti nebo čistotě odrůdy je možné provést kontrolu laboratorně nebo vegetační zkouškou. Následná kontrola vzorkovatele činí minimálně 5 % vzorkovaných partií a její konkrétní výši stanoví každoročně Ústav na základě hodnocení výsledků úředního dozoru a následné kontroly z předchozího sklizňového roku.
+
+> 3\. Kontrola pověřeného vzorkovatele v případě automatického vzorkovadla
+
+> Úřední dozor se v případě automatického vzorkovadla, kromě kontroly dokladů a partie osiva, zaměřuje na správnost jeho funkčnosti, dodržení technických požadavků na zabezpečení vzorků a na způsob přípravy laboratorního vzorku. K následné kontrole pověřeného vzorkovatele se vzorky z automatického vzorkovadla při jeho správném nastavení nezasílají. Lze tak učinit pouze v případě, že je při úředním dozoru zjištěna závada a je důvodné podezření, že mohlo dojít ke vzniku nežádoucí příměsi jiného druhu nebo odrůdy. Aby byla vyloučena kontaminace partie, provede Ústav kontrolní vzorkování z dané partie i ručně. Oba vzorky jsou pak podrobeny následné kontrole, přičemž je možné podle povahy příměsi použít i laboratorní stanovení.
+
+> III. Zrušení pověření
+
+> 1\. Zjistí-li Ústav úředním dozorem nedostatky v technologickém postupu odběru vzorků, upozorní příslušného vzorkovatele na odchylky od správné metodiky a o zjištění vyhotoví Protokol o kontrole a stanoví potřebná opatření. Vzorkovatel je povinen podstoupit zvýšený úřední dozor. V případě opětovného vážného pochybení, které by vedlo k poškození odběratele osiva nebo dodavatele, je mu zrušeno pověření.
+
+> 2\. Za chyby v technologickém postupu se považuje:
+
+> a) nedodržení předepsané četnosti vzorkování,
+
+> b) hmotnost laboratorního vzorku není v souladu s prováděcí právním předpisem,
+
+> c) nedostatky zjištěné během úředního dozoru, které způsobují chyby podle písm. a) nebo b),
+
+> d) chyba při kontrole dokladů o partii osiva,
+
+> e) nedůsledná kontrola uzavření obalů a označení všech obalů v partii,
+
+> f) nedostatečná kontrola automatického vzorkovadla, tj. zaplombování vzorkovadla a všech cest mezi vzorkovadlem a odběrnými nádobami,
+
+> g) chyba při dělení vzorku, tj. při přípravě laboratorního vzorku,
+
+> h) špatné uzavření (zaplombování) laboratorního vzorku, nebo
+
+> i) jakákoliv jiná nepřípustná manipulace se vzorkem.
+
+> 3\. Vzorkovatel, kterému bylo zrušeno pověření ke vzorkování, musí vrátit průkaz, razítko a adjustační materiál. O nové pověření může požádat nejdříve po uplynutí jednoho roku ode dne zrušení pověření, přičemž musí absolvovat nové proškolení podle postupu zaškolení nových vzorkovatelů a úspěšně složit test. Dále je provedeno 50 kontrolních odběrů současně vzorkovatelem Ústavu a vzorky jsou zkoušeny v laboratoři Ústavu.“.
+
+27\. V příloze č. 18 formulář žádosti o pověření k odběru vzorků a vzor úředního razítka pověřené osoby znějí:
+
+> **„Žádost o pověření k odběru vzorků**
+
+> **podle § 17 odst. 3 zákona č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů**
+
+> **![sbcr2021c221z0505p018u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884383/NAHLED/ZOBRAZ/sbcr2021c221z0505p018u001)**
+
+> **Vzor úředního razítka pověřené osoby:**
+
+> **![sbcr2021c221z0505p018o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884385/NAHLED/ZOBRAZ/sbcr2021c221z0505p018o001)**
+
+> kde
+
+> PPP – pořadové číslo pověřené osoby v seznamu vzorkovatelů a přehlížitelů, který vede Ústav
+
+> 5R – R je číslo regionu působnosti pověřené osoby, popř. číslo regionu jejího sídla
+
+> XX – pořadové číslo pověření v rámci jednoho regionu a pověření“.
+
+28\. V příloze č. 19 se v nadpisu části III slovo „Odejmutí“ nahrazuje slovem „Zrušení“.
+
+29\. V příloze č. 19 části III písm. a) se slova „mu odebráno“ nahrazují slovem „zrušeno“.
+
+30\. V příloze č. 19 části III písm. c) se slovo „odebrání“ nahrazuje slovem „zrušení“.
+
+31\. V příloze č. 19 uvedená žádost o pověření k laboratornímu zkoušení a vydávání dokladů na osivo zní:
+
+> **„Žádost o pověření k laboratornímu zkoušení a vydávání dokladů na osivo**
+
+> **podle § 17 odst. 6 zákona**
+
+> **![sbcr2021c221z0505p019u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884387/NAHLED/ZOBRAZ/sbcr2021c221z0505p019u001)“.**
+
+Ministr:
+
+Ing. Toman, CSc., v. r.

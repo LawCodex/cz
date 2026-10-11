@@ -1,0 +1,72 @@
+---
+title: "Nařízení vlády č. 394/2020 Sb., kterým se mění nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění nařízení vlády č. 251/2020 Sb."
+identifier: "394/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/394/2020-10-21"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2020-09-21
+effective: 2020-10-21
+last_amended: 2020-10-21
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/394"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 394/2020 Sb., kterým se mění nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění nařízení vlády č. 251/2020 Sb.
+
+394
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 21. září 2020,
+
+kterým se mění nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění nařízení vlády č. 251/2020 Sb.
+
+Vláda nařizuje podle § 49 odst. 6 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 26/2008 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění nařízení vlády č. 251/2020 Sb., se mění takto:
+
+1\. V § 1 se vkládá nové písmeno a), které zní:
+
+> „a) Kříž bezpečnosti státu,“.
+
+Dosavadní písmena a) až j) se označují jako písmena b) až k).
+
+2\. Za § 1 se vkládá nový § 1a, který včetně nadpisu zní:
+
+> **„§ 1a – Kříž bezpečnosti státu**
+
+> (1) Kříž bezpečnosti státu se uděluje fyzické osobě, která
+
+> a) projevila mimořádnou osobní odvahu nebo mimořádnou osobní iniciativu při zajišťování bezpečnosti České republiky a jejích obyvatel,
+
+> b) dosáhla vynikajících výsledků při zajišťování bezpečnosti České republiky a jejích obyvatel,
+
+> c) podstatným způsobem přispěla k mezinárodní spolupráci v oblasti zajišťování bezpečnosti státu a jeho obyvatel nebo k vybudování dobrého jména České republiky v této oblasti v zahraničí,
+
+> d) podstatným způsobem přispěla svou vědeckou, odbornou nebo publikační činností ke zvýšení úrovně bezpečnosti České republiky a jejích obyvatel, nebo
+
+> e) jinou svou činností podstatným způsobem přispěla k prohlubování bezpečnosti České republiky a jejích obyvatel.
+
+> (2) Ocenění má tři stupně, z nichž první stupeň je nejvyšší.
+
+> (3) Ocenění tvoří v prvním stupni pozlacený kříž a diplom, ve druhém stupni stříbrný kříž a diplom a ve třetím stupni bronzový kříž a diplom.“.
+
+3\. V § 4 odst. 1 se slova „a 3 obecním úřadům obce s pověřeným obecním úřadem“ zrušují.
+
+4\. V § 12 se slova „§ 1 písm. c) až j)“ nahrazují slovy „§ 1 písm. d) až k)“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Hamáček v. r.

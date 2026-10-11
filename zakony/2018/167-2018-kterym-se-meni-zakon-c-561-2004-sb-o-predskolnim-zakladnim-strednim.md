@@ -1,0 +1,52 @@
+---
+title: "Zákon č. 167/2018 Sb., kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů"
+identifier: "167/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/167/2020-09-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2018-07-19
+effective: 2018-09-01
+last_amended: 2020-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/167"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 167/2018 Sb., kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů
+
+167
+
+ZÁKON
+
+ze dne 19. července 2018,
+
+kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna školského zákona
+
+### Čl. I
+
+V § 34 odst. 1 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění zákona č. 178/2016 Sb. a zákona č. 101/2017 Sb., se věta první nahrazuje větami „Předškolní vzdělávání se organizuje pro děti ve věku zpravidla od 3 do 6 let, nejdříve však pro děti od 2 let. Dítě mladší 3 let nemá na přijetí do mateřské školy právní nárok.“.
+
+### Čl. II
+
+V zákoně č. 178/2016 Sb., kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů, se v části první čl. I bod 14 zrušuje.
+
+### Čl. III
+
+V zákoně č. 101/2017 Sb., kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů, se v čl. II bodu 1 číslo „2018“ nahrazuje číslem „2019“.
+
+## ČÁST DRUHÁ – ÚČINNOST
+
+### Čl. IV
+
+Tento zákon nabývá účinnosti dnem 1. září 2018, s výjimkou čl. II, který nabývá účinnosti dnem 1. září 2020.
+
+Vondráček v. r.
+
+Zeman v. r.
+
+Babiš v. r.

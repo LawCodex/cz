@@ -1,0 +1,40 @@
+---
+title: "Zákon č. 91/2026 Sb., kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů"
+identifier: "91/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/91/2026-06-11"
+type: act
+jurisdiction: cz
+language: cs
+date: 2026-05-27
+effective: 2026-06-11
+last_amended: 2026-06-11
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/91"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 91/2026 Sb., kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů
+
+91
+
+ZÁKON
+
+ze dne 27. května 2026,
+
+kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+V § 334b odst. 1 zákona č. 283/2021 Sb., stavební zákon, ve znění zákona č. 437/2024 Sb. a zákona č. 223/2025 Sb., se číslo „2026“ nahrazuje číslem „2027“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Okamura v. r.
+
+Pavel v. r.
+
+Babiš v. r.

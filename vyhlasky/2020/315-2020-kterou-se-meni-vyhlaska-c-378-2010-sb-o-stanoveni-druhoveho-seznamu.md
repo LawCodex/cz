@@ -1,0 +1,126 @@
+---
+title: "Vyhláška č. 315/2020 Sb., kterou se mění vyhláška č. 378/2010 Sb., o stanovení druhového seznamu pěstovaných rostlin, ve znění pozdějších předpisů"
+identifier: "315/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/315/2020-07-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-07-07
+effective: 2020-07-15
+last_amended: 2020-07-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/315"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 315/2020 Sb., kterou se mění vyhláška č. 378/2010 Sb., o stanovení druhového seznamu pěstovaných rostlin, ve znění pozdějších předpisů
+
+315
+
+VYHLÁŠKA
+
+ze dne 7. července 2020,
+
+kterou se mění vyhláška č. 378/2010 Sb., o stanovení druhového seznamu pěstovaných rostlin, ve znění pozdějších předpisů
+
+Ministerstvo zemědělství stanoví podle § 3 odst. 14 písm. e) zákona č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění zákona č. 178/2006 Sb., zákona č. 96/2009 Sb., zákona č. 300/2009 Sb., zákona č. 331/2010 Sb. a zákona č. 295/2017 Sb.:
+
+## Čl. I
+
+Vyhláška č. 378/2010 Sb., o stanovení druhového seznamu pěstovaných rostlin, ve znění vyhlášky č. 42/2014 Sb. a vyhlášky č. 3/2018 Sb., se mění takto:
+
+1\. V poznámce pod čarou č. 1 se na samostatné řádky doplňují věty „Prováděcí směrnice Komise (EU) 2019/990 ze dne 17. června 2019, kterou se mění seznam rodů a druhů uvedený v čl. 2 odst. 1 písm. b) směrnice Rady 2002/55/ES, v příloze II směrnice Rady 2008/72/ES a v příloze směrnice Komise 93/61/EHS. Prováděcí směrnice Komise (EU) 2020/432 ze dne 23. března 2020, kterou se mění směrnice Rady 2002/55/ES, pokud jde o definici zeleniny a seznam rodů a druhů v čl. 2 odst. 1 písm. b).“.
+
+2\. V příloze v bodu 1.2.2 Luskoviny a jeteloviny se slovo „Vičenec“ nahrazuje slovy „Vičenec ligrus“.
+
+3\. V příloze v bodu 1.3 Olejniny a přadné rostliny se slovo „Mák“ nahrazuje slovy „Mák setý“.
+
+4\. V příloze bod 4 včetně nadpisu zní:
+
+> „4. Zeleninové druhy (mimo použití pro okrasné účely)
+
+> | Allium cepa L. | |
+> |---|---|
+> | - skupina Aggregatum | Šalotka |
+> | - skupina Cepa | Cibule, Echalion |
+> | Allium fistulosum L. | Cibule sečka |
+> | Allium porrum L. | Pór |
+> | Allium sativum L. | Česnek |
+> | Allium schoenoprasum L. | Pažitka |
+> | Anthriscus cerefolium (L.) Hoffm. | Kerblík |
+> | Apium graveolens L. | |
+> | - skupina Celer bulvový | Celer bulvový |
+> | - skupina Celer řapíkatý | Celer řapíkatý |
+> | Asparagus officinalis L. | Chřest |
+> | Beta vulgaris L. | |
+> | - skupina Mangold | Mangold |
+> | - skupina Řepa zeleninová | Řepa salátová včetně<br> „Cheltenham beet" |
+> | Brassica oleracea L. | |
+> | - skupina Brokolice (květáková a výhonková) | Brokolice |
+> | - skupina Kadeřávek | Kadeřávek |
+> | - skupina Kapusta hlávková | Kapusta hlávková |
+> | - skupina Kapusta listová | Kapusta listová |
+> | - skupina Kapusta růžičková | Kapusta růžičková |
+> | - skupina Kedluben | Kedluben |
+> | - skupina Květák | Květák |
+> | - skupina Portugalské zelí | Portugalské zelí |
+> | - skupina Capitata | Zelí hlávkové bílé a zelí hlávkové červené |
+> | Brassica rapa L. | |
+> | - skupina Vodnice | Vodnice |
+> | - skupina Zelí pekingské | Zelí pekingské |
+> | Capsicum annuum L. | Paprika, chilli |
+> | Cichorium endivia L. | Endivie |
+> | Cichorium intybus L. | |
+> | - skupina Čekanka listová | Čekanka hlávková |
+> | - skupina Čekanka pro puky | Čekanka pro puky |
+> | - skupina Čekanka průmyslová | Čekanka kořenová |
+> | Citrullus lanatus (Thunb.) Matsum. et Nakai | Meloun vodní |
+> | Cucumis melo L. | Meloun cukrový |
+> | Cucumis sativus L. | |
+> | - skupina Okurka nakládačka | Okurka nakládačka |
+> | - skupina Okurka salátová | Okurka salátová |
+> | Cucurbita maxima Duchesne | Tykev velkoplodá |
+> | Cucurbita pepo L. | Tykev obecná včetně cukety a patizonu |
+> | Cynara cardunculus L. | |
+> | - skupina Artyčok | Artyčok |
+> | - skupina Karda | Karda |
+> | Daucus carota L. | Mrkev a mrkev krmná |
+> | Foeniculum vulgare Mill. | |
+> | - skupina Azoricum | Fenykl |
+> | Lactuca sativa L. | Salát |
+> | Petroselinum crispum (Mill.) Nyman ex A.W. Hill | |
+> | - skupina Petržel kořenová | Petržel kořenová |
+> | - skupina Petržel listová | Petržel listová |
+> | Phaseolus coccineus L. | Fazol šarlatový |
+> | Phaseolus vulgaris L. | |
+> | - skupina Fazol obecný keříčkový | Fazol obecný keříčkový |
+> | - skupina Fazol obecný pnoucí | Fazol obecný pnoucí |
+> | Pisum sativum L. | |
+> | - skupina Hrách cukrový | Hrách cukrový |
+> | - skupina Hrách dřeňový | Hrách dřeňový |
+> | - skupina Hrách kulatosemenný | Hrách kulatosemenný |
+> | Raphanus sativus L. | |
+> | - skupina Ředkev | Ředkev |
+> | - skupina Ředkvička | Ředkvička |
+> | Rheum rhabarbarum L. | Reveň |
+> | Scorzonera hispanica L. | Černý kořen |
+> | Solanum lycopersicum L. | Rajče |
+> | Solanum melongena L. | Lilek vejcoplodý |
+> | Spinacia oleracea L. | Špenát |
+> | Valerianella locusta (L.) Laterr. | Kozlíček polníček |
+> | Vicia faba L. | Bob zahradní |
+> | Zea mays L. | |
+> | - skupina Kukuřice cukrová | Kukuřice cukrová |
+> | - skupina Kukuřice pukancová | Kukuřice pukancová |
+
+> Všechny hybridy výše uvedených druhů a skupin.“.
+
+5\. V příloze v nadpise bodu 5 se za slova „Ovocné rody a druhy“ doplňují slova „(určené pro produkci ovoce)“ a na konci bodu 5 se na samostatném řádku doplňuje věta „Druhy a mezidruhové hybridy používané jako podnože ovocných druhů.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 15. července 2020.
+
+Ministr:
+
+Ing. Toman, CSc., v. r.

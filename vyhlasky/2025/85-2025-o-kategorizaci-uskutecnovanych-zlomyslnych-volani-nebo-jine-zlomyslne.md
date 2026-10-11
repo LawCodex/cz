@@ -1,0 +1,70 @@
+---
+title: "Vyhláška č. 85/2025 Sb., o kategorizaci uskutečňovaných zlomyslných volání nebo jiné zlomyslné komunikace"
+identifier: "85/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/85/2025-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-03-20
+effective: 2025-07-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/85"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 85/2025 Sb., o kategorizaci uskutečňovaných zlomyslných volání nebo jiné zlomyslné komunikace
+
+85
+
+VYHLÁŠKA
+
+ze dne 20. března 2025
+
+o kategorizaci uskutečňovaných zlomyslných volání nebo jiné zlomyslné komunikace
+
+Ministerstvo vnitra ve spolupráci s Ministerstvem zdravotnictví stanoví podle § 150 odst. 8 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 202/2023 Sb., (dále jen „zákon“) k provedení § 33 odst. 19 zákona:
+
+## § 1 – Kategorie zlomyslné komunikace
+
+Pro účely této vyhlášky se stanoví kategorie zlomyslné komunikace
+
+a) kategorie 1,
+
+b) kategorie 2,
+
+c) kategorie 3,
+
+d) kategorie 4.
+
+## § 2 – Kategorie 1
+
+(1) Do kategorie 1 je zařazena zlomyslná komunikace, která je vedena s četností alespoň 6 zlomyslných volání nebo jiné zlomyslné komunikace za méně než 168 hodin.
+
+(2) Je-li zlomyslná komunikace zařazena do kategorie 1, centrum tísňové komunikace dočasně odmítne komunikaci uskutečňovanou prostřednictvím telekomunikačního koncového zařízení nebo identifikační účastnické karty (SIM karta) po dobu 24 hodin.
+
+## § 3 – Kategorie 2
+
+(1) Do kategorie 2 je zařazena každá další zlomyslná komunikace, která je vedena po předchozím dočasném odmítnutí komunikace podle § 2 odst. 2, které započalo v posledních 60 kalendářních dnech.
+
+(2) Je-li zlomyslná komunikace zařazena do kategorie 2, centrum tísňové komunikace dočasně odmítne komunikaci uskutečňovanou prostřednictvím telekomunikačního koncového zařízení nebo identifikační účastnické karty (SIM karta) po dobu 72 hodin.
+
+## § 4 – Kategorie 3
+
+(1) Do kategorie 3 je zařazena každá další zlomyslná komunikace, která je vedena po předchozím dočasném odmítnutí komunikace podle § 3 odst. 2, které započalo v posledních 60 kalendářních dnech.
+
+(2) Je-li zlomyslná komunikace zařazena do kategorie 3, centrum tísňové komunikace dočasně odmítne komunikaci uskutečňovanou prostřednictvím telekomunikačního koncového zařízení nebo identifikační účastnické karty (SIM karta) po dobu 168 hodin.
+
+## § 5 – Kategorie 4
+
+(1) Do kategorie 4 je zařazena každá další zlomyslná komunikace, která je vedena po předchozím dočasném odmítnutí komunikace podle § 4 odst. 2, které započalo v posledních 60 kalendářních dnech.
+
+(2) Je-li zlomyslná komunikace zařazena do kategorie 4, centrum tísňové komunikace dočasně odmítne komunikaci uskutečňovanou prostřednictvím telekomunikačního koncového zařízení nebo identifikační účastnické karty (SIM karta) po dobu 168 hodin a subjekt, který provozuje centrum tísňové komunikace, požádá o zablokování identifikační účastnické karty (SIM karta) nebo znemožnění přístupu telekomunikačního koncového zařízení k veřejné komunikační síti podle § 33 odst. 10 zákona.
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2025.
+
+Ministr:
+
+Mgr. Bc. Rakušan v. r.

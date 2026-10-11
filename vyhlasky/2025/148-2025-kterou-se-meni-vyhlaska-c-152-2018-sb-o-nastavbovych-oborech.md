@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 148/2025 Sb., kterou se mění vyhláška č. 152/2018 Sb., o nástavbových oborech vzdělávání lékařů a zubních lékařů, ve znění pozdějších předpisů"
+identifier: "148/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/148/2025-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-05-07
+effective: 2025-07-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/148"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 148/2025 Sb., kterou se mění vyhláška č. 152/2018 Sb., o nástavbových oborech vzdělávání lékařů a zubních lékařů, ve znění pozdějších předpisů
+
+148
+
+VYHLÁŠKA
+
+ze dne 7. května 2025,
+
+kterou se mění vyhláška č. 152/2018 Sb., o nástavbových oborech vzdělávání lékařů a zubních lékařů, ve znění pozdějších předpisů
+
+Ministerstvo zdravotnictví stanoví podle § 37 odst. 1 písm. g) zákona č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění zákona č. 189/2008 Sb. a zákona č. 67/2017 Sb.:
+
+## Čl. I
+
+Vyhláška č. 152/2018 Sb., o nástavbových oborech vzdělávání lékařů a zubních lékařů, ve znění vyhlášky č. 378/2021 Sb. a vyhlášky č. 79/2024 Sb., se mění takto:
+
+1\. V příloze č. 1 části I. se na konci tabulky doplňuje řádek 46, který zní:
+
+> „
+>
+> | 46. gastrointestinální onkologie | lékař se zvláštní specializovanou způsobilostí v gastrointestinální onkologii | 1 |
+> |---|---|---|
+>
+> “.
+
+2\. V příloze č. 2 části I. se na konci tabulky doplňuje řádek 46, který zní:
+
+> „
+>
+> | 46. gastrointestinální onkologie | gastroenterologie, klinická onkologie, nebo radiační onkologie |
+> |---|---|
+>
+> “.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2025.
+
+Ministr zdravotnictví:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.

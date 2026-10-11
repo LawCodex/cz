@@ -1,0 +1,44 @@
+---
+title: "Zákon č. 429/2023 Sb., kterým se mění zákon č. 496/2012 Sb., o audiovizuálních dílech a podpoře kinematografie a o změně některých zákonů (zákon o audiovizi), ve znění pozdějších předpisů"
+identifier: "429/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/429/2024-01-13"
+type: act
+jurisdiction: cz
+language: cs
+date: 2023-12-14
+effective: 2024-01-13
+last_amended: 2024-01-13
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/429"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 429/2023 Sb., kterým se mění zákon č. 496/2012 Sb., o audiovizuálních dílech a podpoře kinematografie a o změně některých zákonů (zákon o audiovizi), ve znění pozdějších předpisů
+
+429
+
+ZÁKON
+
+ze dne 14. prosince 2023,
+
+kterým se mění zákon č. 496/2012 Sb., o audiovizuálních dílech a podpoře kinematografie a o změně některých zákonů (zákon o audiovizi), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 496/2012 Sb., o audiovizuálních dílech a podpoře kinematografie a o změně některých zákonů (zákon o audiovizi), ve znění zákona č. 139/2016 Sb., zákona č. 183/2017 Sb., zákona č. 261/2021 Sb. a zákona č. 242/2022 Sb., se mění takto:
+
+1\. V § 47 odst. 3 se za větu první vkládají věty „Pokud disponibilní prostředky Fondu nepostačují k plnému krytí předpokládané výše filmové pobídky, Fond řízení o žádosti přeruší do doby, kdy získá disponibilní prostředky, které k plnému krytí předpokládané výše filmové pobídky postačují; o dobu přerušení řízení se prodlužuje lhůta podle § 48 odst. 1. Fond vyřizuje žádosti o evidenci pobídkového projektu postupně podle pořadí jejich podání a získané disponibilní prostředky použije přednostně na krytí předpokládané výše filmové pobídky u pobídkových projektů, u nichž řízení o žádosti přerušil.“.
+
+2\. V § 47 odst. 8 se za slova „usnesení Fondu o“ vkládají slova „přerušení řízení nebo“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Pekarová Adamová v. r.
+
+Pavel v. r.
+
+Fiala v. r.

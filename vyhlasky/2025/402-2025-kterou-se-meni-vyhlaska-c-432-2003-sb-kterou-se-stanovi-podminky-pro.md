@@ -1,0 +1,92 @@
+---
+title: "Vyhláška č. 402/2025 Sb., kterou se mění vyhláška č. 432/2003 Sb., kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli, ve znění pozdějších předpisů"
+identifier: "402/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/402/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-10-06
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/402"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 402/2025 Sb., kterou se mění vyhláška č. 432/2003 Sb., kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli, ve znění pozdějších předpisů
+
+402
+
+VYHLÁŠKA
+
+ze dne 6. října 2025,
+
+kterou se mění vyhláška č. 432/2003 Sb., kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli, ve znění pozdějších předpisů
+
+Ministerstvo zdravotnictví stanoví podle § 108 odst. 1 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 167/2023 Sb. a zákona č. 290/2025 Sb., (dále jen „zákon“) k provedení § 37 odst. 1, § 39 odst. 3 a 4 a § 41 odst. 1 a 7 zákona:
+
+## Čl. I
+
+Vyhláška č. 432/2003 Sb., kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli, ve znění vyhlášky č. 107/2013 Sb., vyhlášky č. 181/2015 Sb. a vyhlášky č. 240/2015 Sb., se mění takto:
+
+1\. V poznámce pod čarou č. 1 se na samostatné řádky doplňují věty
+
+> „Směrnice Evropského parlamentu a Rady 2009/148/ES ze dne 30. listopadu 2009 o ochraně zaměstnanců před riziky spojenými s expozicí azbestu při práci (kodifikované znění). 
+>  Směrnice Evropského parlamentu a Rady (EU) 2023/2668 ze dne 22. listopadu 2023, kterou se mění směrnice 2009/148/ES o ochraně zaměstnanců před riziky spojenými s expozicí azbestu při práci. 
+>  Směrnice Evropského parlamentu a Rady (EU) 2024/869 ze dne 13. března 2024, kterou se mění směrnice Evropského parlamentu a Rady 2004/37/ES a směrnice Rady 98/24/ES, pokud jde o limitní hodnoty olova a jeho anorganických sloučenin a diisokyanátů.“.
+
+2\. V § 5 se na začátek písmene a) vkládají slova „u právnické osoby“, slova „u právnické osoby a“ se zrušují, za slovo „jméno,“ se vkládají slova „případně jména a“ a na konci textu písmene se doplňují slova „ , a u fyzické osoby její jméno, případně jména a příjmení, datum narození, adresu místa bydliště“.
+
+3\. V § 5 se na konci textu písmene b) doplňují slova „ , jejich jmenný seznam, včetně doložení osvědčení o absolvování školení o uplatňování správné prevence ohrožení zdraví při nakládání s azbestem u všech exponovaných osob a u každého zaměstnance datum vydání posledního lékařského posudku o zdravotní způsobilosti k práci“.
+
+4\. V § 5 písm. k) se slova „způsob zajištění kontroly koncentrace azbestu v pracovním ovzduší a“ zrušují, tečka se nahrazuje čárkou a doplňuje se písmeno l), které zní:
+
+> „l) způsob zajištění kontroly koncentrace azbestu v pracovním ovzduší.“.
+
+5\. V § 5 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který včetně poznámky pod čarou č. 14 zní:
+
+> „(2) Podává-li hlášení osoba uvedená
+
+> a) v § 12 písm. a) až c) a e) zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci<sup>14</sup>), v hlášení neuvádí
+
+> 1\. údaje podle odstavce 1 písm. b) týkající se data vydání posledního lékařského posudku o zdravotní způsobilosti k práci a
+
+> 2\. údaje podle odstavce 1 písm. i) až k),
+
+> b) v § 12 písm. d) zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci<sup>14</sup>), v hlášení neuvádí údaje podle písmene a) a dále nedokládá osvědčení o absolvování školení o uplatňování správné prevence ohrožení zdraví při nakládání s azbestem podle odstavce 1 písm. b).
+
+> <sup>14</sup>) Zákon č. 309/2006 Sb., kterým se upravují další požadavky bezpečnosti a ochrany zdraví při práci v pracovněprávních vztazích a o zajištění bezpečnosti a ochrany zdraví při činnosti nebo poskytování služeb mimo pracovněprávní vztahy (zákon o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci), ve znění pozdějších předpisů.“.
+
+6\. V příloze č. 1 části 2 odst. 3 se slova „klasifikovanými jako karcinogenní kategorie 1 nebo 2, mutagenní kategorie 1 nebo 2 a toxické pro reprodukci kategorie 1 nebo 2 a dalšími podle chemického zákona<sup>11</sup>) označenými větami R 26, R 27, R 28 a jejich kombinacemi, větami R 39, R 42, R 43, R 45, R 46 a R 49, R 60, R 61,“ včetně poznámky pod čarou č. 11 zrušují.
+
+7\. V příloze č. 1 části 2 kapitole „Kategorie druhá“ písm. c) se slova „klasifikovaným jako karcinogenní kategorie 1 nebo 2 se standardní větou označující specifickou rizikovost R 45 nebo R 49, mutagenní kategorie 1 nebo 2 se standardní větou označující specifickou rizikovost R 46 a toxická pro reprodukci kategorie 1 nebo 2 se standardní větou označující specifickou rizikovost R 60 nebo R61 podle chemického zákona<sup>11</sup>) a dalším chemickým látkám nebo směsím podle chemického zákona<sup>11</sup>) označeným větami R 26, R 27, R 28, R 42, R 43 a jejich kombinacemi, a dále větou R 39 v kombinaci s jinými standardními větami označující specifickou rizikovost, chemickým látkám nebo směsím uvedeným v chemickém zákoně<sup>11</sup>)“ zrušují.
+
+8\. V příloze č. 1 části 2 kapitole „Kategorie třetí“ písm. c) se slova „klasifikovaným jako karcinogenní kategorie 1 nebo 2 se standardní větou označující specifickou rizikovost R 45 nebo R 49, mutagenní kategorie 1 nebo 2 se standardní větou označující specifickou rizikovost R 46, toxické pro reprodukci kategorie 1 nebo 2 se standardní větou označující specifickou rizikovost R 60 nebo R 61 podle chemického zákona<sup>11</sup>) a dalším chemickým látkám nebo směsím podle chemického zákona<sup>11</sup>) označeným větami R 26, R 27, R 28, R 42, R 43 a jejich kombinacemi, a dále větou R 39 v kombinaci s jinými standardními větami označující specifickou rizikovost, chemickým látkám nebo směsím uvedeným v chemickém zákoně<sup>11</sup>)“ zrušují.
+
+9\. Poznámka pod čarou č. 13 zní:
+
+> „<sup>13</sup>) Nařízení vlády č. 291/2015 Sb., o ochraně zdraví před neionizujícím zářením.“.
+
+10\. V příloze č. 1 části 10 kapitole „Kategorie třetí“ písm. b) se slovo „pouze“ zrušuje a na konci textu písmene se doplňují slova „v jednosměnném provozu“.
+
+11\. V příloze č. 1 části 13 kapitole „Kategorie druhá“ se slova „ , která u práce pod hladinou odpovídá hloubce do 10 metrů“ zrušují.
+
+12\. V příloze č. 1 části 13 kapitole „Kategorie třetí“ se slova „ , která u práce pod hladinou odpovídá hloubce od 10 do 40 metrů“ zrušují.
+
+13\. V příloze č. 1 části 13 kapitole „Kategorie čtvrtá“ se slova „ , která u práce pod hladinou odpovídá hloubce 40 metrů a více“ nahrazují slovy „nebo jakákoliv potápěčská práce vykonávaná pod hladinou bez ohledu na hloubku ponoru“.
+
+14\. V příloze č. 2 tabulce č. 2 se doplňuje sloupec „Časová použitelnost limitu“ a řádek, ve kterém je ve sloupci „Látka v krvi“ uvedeno slovo „Olovo“, zní:
+
+> „
+>
+> <table><tbody><tr><td rowspan="2">Olovo</td><td rowspan="2">Olovo</td><td>0,3 mg/l</td><td>nerozhoduje</td><td>do 31. prosince 2028</td></tr><tr><td>0,15 mg/l</td><td>nerozhoduje</td><td>od 1. ledna 2029</td></tr></tbody></table> “.
+>
+> “.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr zdravotnictví:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.

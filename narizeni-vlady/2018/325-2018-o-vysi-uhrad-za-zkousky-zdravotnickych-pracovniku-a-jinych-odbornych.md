@@ -1,0 +1,94 @@
+---
+title: "Nařízení vlády č. 325/2018 Sb., o výši úhrad za zkoušky zdravotnických pracovníků a jiných odborných pracovníků podle zákona o nelékařských zdravotnických povoláních"
+identifier: "325/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/325/2019-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2018-12-03
+effective: 2019-01-01
+last_amended: 2019-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/325"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 325/2018 Sb., o výši úhrad za zkoušky zdravotnických pracovníků a jiných odborných pracovníků podle zákona o nelékařských zdravotnických povoláních
+
+325
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 3. prosince 2018
+
+o výši úhrad za zkoušky zdravotnických pracovníků a jiných odborných pracovníků podle zákona o nelékařských zdravotnických povoláních
+
+Vláda nařizuje podle § 90 odst. 1 zákona č. 96/2004 Sb., o podmínkách získávání a uznávání způsobilosti k výkonu nelékařských zdravotnických povolání a k výkonu činností souvisejících s poskytováním zdravotní péče a o změně některých souvisejících zákonů (zákon o nelékařských zdravotnických povoláních), ve znění zákona č. 189/2008 Sb. a zákona č. 201/2017 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje výši úhrady za
+
+a) atestační zkoušku a
+
+b) aprobační zkoušku.
+
+## § 2 – Výše úhrady
+
+(1) Výše úhrady činí za
+
+a) atestační zkoušku 500 Kč, přičemž úhrada za
+
+1\. teoretickou část zkoušky činí 250 Kč,
+
+2\. praktickou část zkoušky činí 250 Kč,
+
+b) první opakování atestační zkoušky 3 500 Kč, přičemž úhrada za
+
+1\. teoretickou část zkoušky činí 2 000 Kč,
+
+2\. praktickou část zkoušky činí 1 500 Kč,
+
+c) druhé a každé další opakování atestační zkoušky 5 000 Kč, přičemž úhrada za
+
+1\. teoretickou část zkoušky činí 3 000 Kč,
+
+2\. praktickou část zkoušky činí 2 000 Kč.
+
+(2) Výše úhrady činí za
+
+a) aprobační zkoušku 7 000 Kč, přičemž úhrada za
+
+1\. písemný test odborných znalostí činí 1 500 Kč,
+
+2\. písemný test znalostí systému zdravotnictví a základů práva činí 1 500 Kč,
+
+3\. ústní odbornou zkoušku činí 4 000 Kč,
+
+b) první opakování aprobační zkoušky 10 000 Kč, přičemž úhrada za
+
+1\. písemný test odborných znalostí činí 2 000 Kč,
+
+2\. písemný test znalostí systému zdravotnictví a základů práva činí 2 000 Kč,
+
+3\. ústní odbornou zkoušku činí 6 000 Kč,
+
+c) druhé a každé další opakování aprobační zkoušky 15 000 Kč, přičemž úhrada za
+
+1\. písemný test odborných znalostí činí 3 000 Kč,
+
+2\. písemný test znalostí systému zdravotnictví a základů práva činí 3 000 Kč,
+
+3\. ústní odbornou zkoušku činí 9 000 Kč.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2019.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr zdravotnictví:
+
+Mgr. et Mgr. Vojtěch, MHA, v. r.

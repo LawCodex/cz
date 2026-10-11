@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 21/2022 Sb., kterou se mění vyhláška č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění pozdějších předpisů"
+identifier: "21/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/21/2022-02-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-01-26
+effective: 2022-02-01
+last_amended: 2022-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/21"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 21/2022 Sb., kterou se mění vyhláška č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění pozdějších předpisů
+
+21
+
+VYHLÁŠKA
+
+ze dne 26. ledna 2022,
+
+kterou se mění vyhláška č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění pozdějších předpisů
+
+Ministerstvo zdravotnictví stanoví podle § 108 odst. 1 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 274/2001 Sb., zákona č. 320/2002 Sb., zákona č. 274/2003 Sb., zákona č. 392/2005 Sb., zákona č. 222/2006 Sb., zákona č. 151/2011 Sb., zákona č. 223/2013 Sb., zákona č. 267/2015 Sb., zákona č. 202/2017 Sb. a zákona č. 205/2020 Sb., k provedení § 46 odst. 1 a 6:
+
+## Čl. I
+
+Vyhláška č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění vyhlášky č. 65/2009 Sb., vyhlášky č. 443/2009 Sb., vyhlášky č. 299/2010 Sb., vyhlášky č. 40/2016 Sb., vyhlášky č. 355/2017 Sb. a vyhlášky č. 466/2021 Sb., se mění takto:
+
+1\. V § 2 odst. 1 písm. a) se slova „, proti virové hepatitidě B a proti nemoci covid-19“ nahrazují slovy „a proti virové hepatitidě B“.
+
+2\. V § 2 odst. 1 písm. b) se slova „, proti vzteklině a proti nemoci covid-19“ nahrazují slovy „a proti vzteklině“.
+
+3\. V § 2 odst. 2 úvodní části ustanovení se za slova „touto vyhláškou se“ vkládá slovo „pravidelné“.
+
+4\. § 8 se zrušuje.
+
+5\. § 10a se zrušuje.
+
+## Čl. II – Zrušovací ustanovení
+
+Čl. II vyhlášky č. 466/2021 Sb., kterou se mění vyhláška č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění pozdějších předpisů, se zrušuje.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem následujícím po jejím vyhlášení.
+
+Ministr:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.

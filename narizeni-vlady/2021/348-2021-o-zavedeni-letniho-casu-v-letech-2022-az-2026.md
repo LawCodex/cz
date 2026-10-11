@@ -1,0 +1,85 @@
+---
+title: "Nařízení vlády č. 348/2021 Sb., o zavedení letního času v letech 2022 až 2026"
+identifier: "348/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/348/2022-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2021-09-13
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/348"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 348/2021 Sb., o zavedení letního času v letech 2022 až 2026
+
+348
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 13. září 2021
+
+o zavedení letního času v letech 2022 až 2026
+
+Vláda nařizuje podle § 1 zákona č. 54/1946 Sb., o letním čase, a k provedení zákona č. 262/2006 Sb., zákoník práce, ve znění zákona č. 585/2006 Sb., zákona č. 181/2007 Sb., zákona č. 261/2007 Sb., zákona č. 296/2007 Sb., zákona č. 362/2007 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 116/2008 Sb., zákona č. 121/2008 Sb., zákona č. 126/2008 Sb., zákona č. 294/2008 Sb., zákona č. 305/2008 Sb., zákona č. 306/2008 Sb., zákona č. 382/2008 Sb., zákona č. 286/2009 Sb., zákona č. 320/2009 Sb., zákona č. 326/2009 Sb., zákona č. 427/2010 Sb., zákona č. 73/2011 Sb., zákona č. 180/2011 Sb., zákona č. 185/2011 Sb., zákona č. 341/2011 Sb., zákona č. 364/2011 Sb., zákona č. 365/2011 Sb., zákona č. 367/2011 Sb., zákona č. 375/2011 Sb., zákona č. 466/2011 Sb., zákona č. 167/2012 Sb., zákona č. 385/2012 Sb., zákona č. 396/2012 Sb., zákona č. 399/2012 Sb., zákona č. 155/2013 Sb., zákona č. 303/2013 Sb., zákona č. 101/2014 Sb., zákona č. 182/2014 Sb., zákona č. 250/2014 Sb., zákona č. 205/2015 Sb., zákona č. 298/2015 Sb., zákona č. 377/2015 Sb., zákona č. 47/2016 Sb., zákona č. 264/2016 Sb., zákona č. 298/2016 Sb., zákona č. 460/2016 Sb., zákona č. 93/2017 Sb., zákona č. 99/2017 Sb., zákona č. 148/2017 Sb., zákona č. 202/2017 Sb., zákona č. 203/2017 Sb., zákona č. 206/2017 Sb., zákona č. 222/2017 Sb., zákona č. 292/2017 Sb., zákona č. 310/2017 Sb., zákona č. 181/2018 Sb., zákona č. 32/2019 Sb., zákona č. 366/2019 Sb., zákona č. 285/2020 Sb., zákona č. 248/2021 Sb. a zákona č. 251/2021 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení zapracovává příslušné předpisy Evropské unie<sup>1</sup>) a upravuje zavedení letního času v letech 2022 až 2026.
+
+## § 2 – Počátek letního času v letech 2022 až 2026
+
+(1) Letní čas se zavádí
+
+a) v roce 2022 dne 27. března,
+
+b) v roce 2023 dne 26. března,
+
+c) v roce 2024 dne 31. března,
+
+d) v roce 2025 dne 30. března,
+
+e) v roce 2026 dne 29. března.
+
+(2) Ve dnech uvedených v odstavci 1 se ve 2:00 hodiny středoevropského času mění čas na 3:00 hodiny letního času.
+
+## § 3 – Konec letního času v letech 2022 až 2026
+
+(1) Letní čas končí
+
+a) v roce 2022 dne 30. října,
+
+b) v roce 2023 dne 29. října,
+
+c) v roce 2024 dne 27. října,
+
+d) v roce 2025 dne 26. října,
+
+e) v roce 2026 dne 25. října.
+
+(2) Ve dnech uvedených v odstavci 1 se ve 3:00 hodiny letního času mění čas na 2:00 hodiny středoevropského času.
+
+## § 4 – Vliv zavedení letního času na stanovenou týdenní pracovní dobu
+
+(1) Stanovená týdenní pracovní doba u zaměstnanců, kterým počátek letního času v letech 2022 až 2026 připadne do jejich směny, pokud se tato směna v důsledku zavedení letního času zkrátí, bude v příslušném týdnu o 1 hodinu kratší.
+
+(2) Stanovená týdenní pracovní doba u zaměstnanců, kterým konec letního času v letech 2022 až 2026 připadne do jejich směny, pokud se tato směna v důsledku ukončení letního času prodlouží, bude v příslušném týdnu o 1 hodinu delší.
+
+## § 5 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2022.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministryně práce a sociálních věcí:
+
+Dipl.-Pol. Maláčová, MSc., v. r.
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2000/84/ES ze dne 19. ledna 2001 o úpravě letního času. 
+ Sdělení Komise v souladu s článkem 4 směrnice Evropského parlamentu a Rady 2000/84/ES o úpravě letního času – Harmonogram období letního času (2021/C 149/01).

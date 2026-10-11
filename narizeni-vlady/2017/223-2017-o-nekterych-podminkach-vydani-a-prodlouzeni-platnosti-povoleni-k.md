@@ -1,0 +1,54 @@
+---
+title: "Nařízení vlády č. 223/2017 Sb., o některých podmínkách vydání a prodloužení platnosti povolení k dlouhodobému pobytu za účelem investování"
+identifier: "223/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/223/2017-08-15"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2017-07-10
+effective: 2017-08-15
+last_amended: 2017-08-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/223"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 223/2017 Sb., o některých podmínkách vydání a prodloužení platnosti povolení k dlouhodobému pobytu za účelem investování
+
+223
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 10. července 2017
+
+o některých podmínkách vydání a prodloužení platnosti povolení k dlouhodobému pobytu za účelem investování
+
+Vláda nařizuje podle § 181a zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 222/2017 Sb., (dále jen „zákon“):
+
+## § 1
+
+Pro účely vydání a prodloužení platnosti povolení k dlouhodobému pobytu za účelem investování podle § 42n zákona
+
+a) je významnou investicí taková investice, při níž jsou na území České republiky investovány peněžní prostředky nejméně ve výši 75 000 000 Kč a při níž je na území České republiky zároveň vytvořeno nejméně 20 nových pracovních míst,
+
+b) lze investování peněžních prostředků ve výši uvedené v písmenu a) nahradit v části odpovídající nejvýše 60 % investováním jiného majetku uvedeného v § 42n odst. 1 písm. b) zákona,
+
+c) má podstatný vliv na podnikání obchodní korporace činnost cizince, který je statutárním orgánem, členem statutárního orgánu nebo prokuristou obchodní korporace, v níž počet všech těchto osob nepřesáhne celkem 5,
+
+d) cizinec, který žádá o vydání nebo prodloužení platnosti povolení k dlouhodobému pobytu za účelem investování jako společník obchodní korporace, disponuje alespoň 30% podílem v této obchodní korporaci.
+
+## § 2 – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Havlíček, MBA, v. r.
+
+Ministr vnitra:
+
+Chovanec v. r.

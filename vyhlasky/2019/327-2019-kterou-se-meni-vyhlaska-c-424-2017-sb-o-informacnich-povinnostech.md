@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 327/2019 Sb., kterou se mění vyhláška č. 424/2017 Sb., o informačních povinnostech některých osob podnikajících na kapitálovém trhu"
+identifier: "327/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/327/2020-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2019-12-03
+effective: 2020-06-01
+last_amended: 2020-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/327"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 327/2019 Sb., kterou se mění vyhláška č. 424/2017 Sb., o informačních povinnostech některých osob podnikajících na kapitálovém trhu
+
+327
+
+VYHLÁŠKA
+
+ze dne 3. prosince 2019,
+
+kterou se mění vyhláška č. 424/2017 Sb., o informačních povinnostech některých osob podnikajících na kapitálovém trhu
+
+Česká národní banka stanoví podle § 199 odst. 2 zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění zákona č. 204/2017 Sb., k provedení § 16 odst. 7, § 47 odst. 5, § 50 odst. 8, § 63 odst. 5, § 71 odst. 5, § 73f odst. 7, § 77 odst. 3 a § 90c odst. 4, a podle § 41 odst. 3 zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 227/2013 Sb.:
+
+## Čl. I
+
+Vyhláška č. 424/2017 Sb., o informačních povinnostech některých osob podnikajících na kapitálovém trhu, se mění takto:
+
+1\. V § 5 odst. 2 písmena a) a b) znějí:
+
+> „a) FIN (IND) 01-12 „Finanční informace (FINREP) na individuálním základě“ a
+
+> b) OCP (ČNB) 48-04 „Organizační struktura a osoby s kvalifikovanou účastí“.“.
+
+2\. V § 5 odst. 2 se písmena c) a d) zrušují.
+
+3\. V příloze č. 1 bod 20 zní:
+
+> „20. FIN (IND) 01-12 „Finanční informace (FINREP) na individuálním základě“
+
+> Výkaz obsahuje údaje o finanční pozici vykazující osoby a přehled výnosů a nákladů a účetního zisku nebo ztráty od počátku roku do konce sledovaného období v základním členění odvozeném z mezinárodních účetních standardů. Dále obsahuje doplňkové informace k rozvaze, k výkazu zisku nebo ztráty a informace o výkonných a nevýkonných expozicích a expozicích s úlevou.“.
+
+4\. V příloze č. 1 se body 21 a 22 zrušují.
+
+Dosavadní bod 23 se označuje jako bod 21.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. června 2020.
+
+Guvernér:
+
+Ing. Rusnok v. r.

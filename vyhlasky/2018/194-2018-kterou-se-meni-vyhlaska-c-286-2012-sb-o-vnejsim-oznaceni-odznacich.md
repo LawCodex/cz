@@ -1,0 +1,82 @@
+---
+title: "Vyhláška č. 194/2018 Sb., kterou se mění vyhláška č. 286/2012 Sb., o vnějším označení, odznacích, služebních stejnokrojích a zvláštním barevném provedení a označení služebních vozidel celní správy, ve znění pozdějších předpisů"
+identifier: "194/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/194/2018-09-19"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2018-08-29
+effective: 2018-09-19
+last_amended: 2018-09-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/194"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 194/2018 Sb., kterou se mění vyhláška č. 286/2012 Sb., o vnějším označení, odznacích, služebních stejnokrojích a zvláštním barevném provedení a označení služebních vozidel celní správy, ve znění pozdějších předpisů
+
+194
+
+VYHLÁŠKA
+
+ze dne 29. srpna 2018,
+
+kterou se mění vyhláška č. 286/2012 Sb., o vnějším označení, odznacích, služebních stejnokrojích a zvláštním barevném provedení a označení služebních vozidel celní správy, ve znění pozdějších předpisů
+
+Ministerstvo financí stanoví podle § 20 odst. 3 a 6 zákona č. 17/2012 Sb., o Celní správě České republiky, ve znění zákona č. 243/2016 Sb.:
+
+## Čl. I
+
+Přílohy č. 8 a 9 k vyhlášce č. 286/2012 Sb., o vnějším označení, odznacích, služebních stejnokrojích a zvláštním barevném provedení a označení služebních vozidel celní správy, včetně nadpisů znějí:
+
+> **„Příloha č. 8 k vyhlášce č. 286/2012 Sb.**
+
+> **Náležitosti a vzor služebního průkazu**
+
+> 1\. Náležitosti
+
+> a) Služební průkaz je oboustranná plastová karta o rozměrech 86 x 54 mm.
+
+> b) Na lícové straně služebního průkazu je v modrém podkladu ve dvou řádcích pod sebou uveden bílou barvou text „CELNÍ SPRÁVA ČESKÉ REPUBLIKY“. Pod ním jsou v řádcích uvedeny modrou barvou texty „SLUŽEBNÍ PRŮKAZ“, „OSOBNÍ ČÍSLO:“, „JMÉNO:“, „PŘÍJMENÍ:“, „DATUM VYSTAVENÍ:“ a „Generální ředitelství cel“ s vyhrazeným místem pro elektronicky vytištěný podpis generálního ředitele. V levé části je černobílé vyobrazení celníka. Pod ním je uveden v modro-zelené kombinaci barev ve dvou řádcích pod sebou text „CELNÍ SPRÁVA ČESKÉ REPUBLIKY“. Pod tímto nápisem je modrou barvou uvedeno osmimístné identifikační číslo služebního průkazu. V pravé části je velký státní znak a nad ním bílou barvou text „CUSTOMS DOUANE“.
+
+> c) Na rubové straně služebního průkazu je uveden modrou barvou text: „Nálezce tohoto služebního průkazu se žádá o jeho odevzdání nejbližšímu celnímu orgánu nebo Policii České republiky.“. Vlevo je umístěn kontaktní čip a pod ním je uveden v modro-zelené kombinaci barev ve dvou řádcích pod sebou text „CELNÍ SPRÁVA ČESKÉ REPUBLIKY“. Vpravo je umístěn QR kód modré barvy.
+
+> 2\. Vzor lícové strany služebního průkazu
+
+> **![sbcr2018c096z0194p008o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/880587/NAHLED/ZOBRAZ/sbcr2018c096z0194p008o001)**
+
+> 3\. Vzor rubové strany služebního průkazu
+
+> **![sbcr2018c096z0194p008o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/880589/NAHLED/ZOBRAZ/sbcr2018c096z0194p008o002)**
+
+> **Příloha č. 9 k vyhlášce č. 286/2012 Sb.**
+
+> **Náležitosti a vzor průkazu občanského zaměstnance**
+
+> 1\. Náležitosti
+
+> a) Průkaz občanského zaměstnance je oboustranná plastová karta o rozměrech 86 x 54 mm.
+
+> b) Na lícové straně průkazu občanského zaměstnance je v zeleném podkladu ve dvou řádcích pod sebou uveden bílou barvou text „CELNÍ SPRÁVA ČESKÉ REPUBLIKY“. Pod ním jsou v řádcích uvedeny modrou barvou texty „PRŮKAZ ZAMĚSTNANCE“, „OSOBNÍ ČÍSLO:“, „JMÉNO:“, „PŘÍJMENÍ:“, „DATUM VYSTAVENÍ:“ a „Generální ředitelství cel“ s vyhrazeným místem pro elektronicky vytištěný podpis generálního ředitele. V levé části je černobílé vyobrazení občanského zaměstnance. Pod ním je uveden v modro-zelené kombinaci barev ve dvou řádcích pod sebou text „CELNÍ SPRÁVA ČESKÉ REPUBLIKY“. Pod tímto nápisem je modrou barvou uvedeno osmimístné identifikační číslo průkazu občanského zaměstnance. V pravé části je velký státní znak a nad ním bílou barvou text „CUSTOMS DOUANE“.
+
+> c) Na rubové straně průkazu občanského zaměstnance je uveden modrou barvou text: „Nálezce tohoto průkazu zaměstnance se žádá o jeho odevzdání nejbližšímu celnímu orgánu nebo Policii České republiky.“. Vlevo je umístěn kontaktní čip a pod ním je uveden v modro-zelené kombinaci barev ve dvou řádcích pod sebou text „CELNÍ SPRÁVA ČESKÉ REPUBLIKY“. Vpravo je umístěn QR kód modré barvy.
+
+> 2\. Vzor lícové strany průkazu občanského zaměstnance
+
+> **![sbcr2018c096z0194p009o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/880591/NAHLED/ZOBRAZ/sbcr2018c096z0194p009o001)**
+
+> 3\. Vzor rubové strany průkazu občanského zaměstnance
+
+> **![sbcr2018c096z0194p009o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/880593/NAHLED/ZOBRAZ/sbcr2018c096z0194p009o002) “.**
+
+## Čl. II – Přechodné ustanovení
+
+Služební průkaz nebo průkaz občanského zaměstnance vydaný podle vyhlášky č. 286/2012 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, lze užívat do 31. prosince 2019.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 19. září 2018.
+
+Ministryně:
+
+JUDr. Schillerová, Ph.D., v. r.

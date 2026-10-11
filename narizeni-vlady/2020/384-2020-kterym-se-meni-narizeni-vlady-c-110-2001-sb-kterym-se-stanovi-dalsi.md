@@ -1,0 +1,48 @@
+---
+title: "Nařízení vlády č. 384/2020 Sb., kterým se mění nařízení vlády č. 110/2001 Sb., kterým se stanoví další vozidla, která mohou být vybavena zvláštním zvukovým výstražným zařízením doplněným zvláštním výstražným světlem modré barvy, ve znění nařízení vlády č. 144/2013 Sb."
+identifier: "384/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/384/2020-09-26"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2020-09-21
+effective: 2020-09-26
+last_amended: 2020-09-26
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/384"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 384/2020 Sb., kterým se mění nařízení vlády č. 110/2001 Sb., kterým se stanoví další vozidla, která mohou být vybavena zvláštním zvukovým výstražným zařízením doplněným zvláštním výstražným světlem modré barvy, ve znění nařízení vlády č. 144/2013 Sb.
+
+384
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 21. září 2020,
+
+kterým se mění nařízení vlády č. 110/2001 Sb., kterým se stanoví další vozidla, která mohou být vybavena zvláštním zvukovým výstražným zařízením doplněným zvláštním výstražným světlem modré barvy, ve znění nařízení vlády č. 144/2013 Sb.
+
+Vláda nařizuje podle § 137 odst. 1 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění zákona č. 411/2005 Sb. a zákona č. 233/2013 Sb., (dále jen „zákon“) k provedení § 41 odst. 3 zákona:
+
+## Čl. I
+
+Nařízení vlády č. 110/2001 Sb., kterým se stanoví další vozidla, která mohou být vybavena zvláštním zvukovým výstražným zařízením doplněným zvláštním výstražným světlem modré barvy, ve znění nařízení vlády č. 144/2013 Sb., se mění takto:
+
+1\. V § 1 se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno j), které zní:
+
+> „j) hlavního hygienika České republiky.“.
+
+2\. V § 1 odst. 2 se text „i)“ nahrazuje textem „j)“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti prvním dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Místopředseda vlády, ministr průmyslu a obchodu a ministr dopravy:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

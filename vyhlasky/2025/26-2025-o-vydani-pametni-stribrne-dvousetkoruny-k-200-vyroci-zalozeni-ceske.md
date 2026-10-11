@@ -1,0 +1,59 @@
+---
+title: "Vyhláška č. 26/2025 Sb., o vydání pamětní stříbrné dvousetkoruny k 200. výročí založení české spořitelny Böhmische Sparkasse"
+identifier: "26/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/26/2025-02-12"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-01-13
+effective: 2025-02-12
+last_amended: 2025-02-12
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/26"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 26/2025 Sb., o vydání pamětní stříbrné dvousetkoruny k 200. výročí založení české spořitelny Böhmische Sparkasse
+
+26
+
+VYHLÁŠKA
+
+ze dne 13. ledna 2025
+
+o vydání pamětní stříbrné dvousetkoruny k 200. výročí založení české spořitelny Böhmische Sparkasse
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb. a zákona č. 89/2018 Sb.:
+
+## § 1
+
+(1) Dnem 12. února 2025 se k 200. výročí založení české spořitelny Böhmische Sparkasse vydává pamětní stříbrná mince po 200 Kč (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem.
+
+(3) Dvousetkoruna se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,20 mm. Při ražbě dvousetkoruny je přípustná odchylka v obsahu stříbra nahoru 1 %, odchylka v hmotnosti nahoru 0,26 g, odchylka v průměru 0,1 mm a odchylka v síle 0,15 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.925 \* 13 g \*“.
+
+## § 2
+
+(1) Na lícní straně dvousetkoruny je koláž tvořená částí lícní strany bankovky Privilegované rakouské národní banky 50 zlatých s datem 23. června 1825, částí listu výroční zprávy Böhmische Sparkasse z roku 1826 a postavou sv. Václava na emblému s opisem „ČESKÁ SPOŘITELNA V PRAZE“. Při horním okraji mince je text „ČESKÁ REPUBLIKA“. Označení nominální hodnoty se zkratkou peněžní jednotky „200 Kč“ je při levém spodním okraji mince. Značka České mincovny tvořená písmeny „Č“ a „M“ je vpravo od postavy sv. Václava.
+
+(2) Na rubové straně dvousetkoruny je koláž tvořená částí první vlastní budovy české spořitelny na Národní třídě v Praze, včelou jako symbolem spořitelnictví a grafickými fragmenty z vkladních knížek Böhmische Sparkasse. Při horním okraji mince je text „ČESKÁ SPOŘITELNA“ a vpravo uprostřed mincovního pole je text „BÖHMISCHE SPARKASSE“. Text „1825-2025“ je vpravo od části budovy. Iniciály autora mince akademického sochaře Zbyňka Fojtů, které jsou tvořeny kompozicí písmen „F“ a „Z“, jsou vpravo od textu „ČESKÁ“.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 12. února 2025.
+
+Guvernér:
+
+Ing. Michl, Ph.D., v. r.
+
+### Příloha
+
+### Vyobrazení pamětní stříbrné dvousetkoruny k 200. výročí založení české spořitelny Böhmische Sparkasse
+
+(lícní a rubová strana)
+
+| ![sbcr2025c026z0026o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1280573/NAHLED/ZOBRAZ/sbcr2025c026z0026o001) | ![sbcr2025c026z0026o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1280571/NAHLED/ZOBRAZ/sbcr2025c026z0026o002) |
+|---|---|

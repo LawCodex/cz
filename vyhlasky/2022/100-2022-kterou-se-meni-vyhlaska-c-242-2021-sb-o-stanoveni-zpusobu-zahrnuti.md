@@ -1,0 +1,249 @@
+---
+title: "Vyhláška č. 100/2022 Sb., kterou se mění vyhláška č. 242/2021 Sb., o stanovení způsobu zahrnutí kompenzace do výše úhrad za hrazené služby poskytnuté v roce 2021"
+identifier: "100/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/100/2022-04-30"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-04-22
+effective: 2022-04-30
+last_amended: 2022-04-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/100"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 100/2022 Sb., kterou se mění vyhláška č. 242/2021 Sb., o stanovení způsobu zahrnutí kompenzace do výše úhrad za hrazené služby poskytnuté v roce 2021
+
+100
+
+VYHLÁŠKA
+
+ze dne 22. dubna 2022,
+
+kterou se mění vyhláška č. 242/2021 Sb., o stanovení způsobu zahrnutí kompenzace do výše úhrad za hrazené služby poskytnuté v roce 2021
+
+Ministerstvo zdravotnictví stanoví podle § 1 odst. 2 zákona č. 160/2021 Sb., o kompenzacích osobám poskytujícím hrazené zdravotní služby zohledňujících dopady epidemie onemocnění COVID-19 v roce 2021:
+
+## Čl. I
+
+Vyhláška č. 242/2021 Sb., o stanovení způsobu zahrnutí kompenzace do výše úhrad za hrazené služby poskytnuté v roce 2021, se mění takto:
+
+1\. V § 15 odst. 1 písm. a) se číslo „1,13“ nahrazuje číslem „1,23“.
+
+2\. V § 15 odst. 1 písm. b) se číslo „0,92“ nahrazuje číslem „1,00“.
+
+3\. V § 15 odst. 2 se číslo „1,02“ nahrazuje číslem „1,11“.
+
+4\. V § 17 odstavce 1 a 2 znějí:
+
+> „(1) Pro komplexní lázeňskou léčebně rehabilitační péči pro dospělé, děti a dorost poskytovanou ve zdravotnických zařízeních poskytovatele lázeňské léčebně rehabilitační péče se stanoví úhrada za 1 den pobytu ve výši 107,7 % smluvně sjednané úhrady za 1 den pobytu pro rok 2019 násobené koeficientem KompenzaceDPK<sub>COVID</sub>. Nebyla-li úhrada za 1 den pobytu pro rok 2019 sjednána do 31. prosince 2019 včetně, stanoví se úhrada 1 dne pobytu za rok 2019 ve výši úhrady hrazené srovnatelným poskytovatelům. Úhrada za ubytování a stravu průvodce pojištěnce se stanoví ve stejné výši jako úhrada za tyto složky u pojištěnců, kterým je poskytována komplexní lázeňská léčebně rehabilitační péče pro dospělé. Koeficient KompenzaceDPK<sub>COVID</sub> se pro účely stanovení celkové úhrady pro rok 2021 vypočte následovně:
+
+> KompenzaceDPK<sub>COVID</sub>=max1;0,93\*(PDPK<sub>2019</sub>)/(PDPK<sub>2021</sub>)\*min(PDPK<sub>2021</sub>)/(0,705\*PDPK<sub>2019</sub>)3;1
+
+> kde:
+
+> KompenzaceDPK<sub>COVID</sub> je koeficient kompenzace za poskytovatelem vykázané a zdravotní pojišťovnou uznané dny pobytu komplexní lázeňské léčebně rehabilitační péče pro dospělé, děti a dorost v hodnoceném období.
+
+> PDPK<sub>2021</sub> je počet dnů pobytu v rámci komplexní lázeňské léčebně rehabilitační péče pro dospělé, děti a dorost poskytnutých v hodnoceném období, poskytovatelem vykázaných do 31. března 2022 a zdravotní pojišťovnou uznaných do 31. května 2022.
+
+> PDPK<sub>2019</sub> je počet dnů pobytu v rámci komplexní lázeňské léčebně rehabilitační péče pro dospělé, děti a dorost poskytnutých v referenčním období, poskytovatelem vykázaných do 31. března 2020 a zdravotní pojišťovnou uznaných do 31. května 2020.
+
+> (2) Pro příspěvkovou lázeňskou léčebně rehabilitační péči pro dospělé, děti a dorost poskytovanou ve zdravotnických zařízeních poskytovatele lázeňské léčebně rehabilitační péče se stanoví úhrada za 1 den pobytu ve výši 107,7 % smluvně sjednané úhrady za 1 den pobytu pro rok 2019 násobené koeficientem KompenzaceDPP<sub>COVID</sub>. Nebyla-li úhrada za 1 den pobytu pro rok 2019 sjednána do 31. prosince 2019 včetně, stanoví se úhrada 1 dne pobytu za rok 2019 ve výši úhrady hrazené srovnatelným poskytovatelům. Koeficient KompenzaceDPP<sub>COVID</sub> se pro účely stanovení celkové úhrady pro rok 2021 vypočte následovně:
+
+> KompenzaceDPP<sub>COVID</sub>=max1;0,93\*(PDPP<sub>2019</sub>)/(PDPP<sub>2021</sub>)\*min(PDPP<sub>2021</sub>)/(0,538\*PDPP2019)3;1
+
+> kde:
+
+> KompenzaceDPP<sub>COVID</sub> je koeficient kompenzace za poskytovatelem vykázané a zdravotní pojišťovnou uznané dny pobytu příspěvkové lázeňské léčebně rehabilitační péče pro dospělé, děti a dorost v hodnoceném období.
+
+> PDPP<sub>2021</sub> je počet dnů pobytu v rámci příspěvkové lázeňské léčebně rehabilitační péče pro dospělé, děti a dorost poskytnutých v hodnoceném období, poskytovatelem vykázaných do 31. března 2022 a zdravotní pojišťovnou uznaných do 31. května 2022.
+
+> PDPP<sub>2019</sub> je počet dnů pobytu v rámci příspěvkové lázeňské léčebně rehabilitační péče pro dospělé, děti a dorost poskytnutých v referenčním období, poskytovatelem vykázaných do 31. března 2020 a zdravotní pojišťovnou uznaných do 31. května 2020.“.
+
+5\. V příloze č. 1 části A bod 2.5 zní:
+
+> „2.5 U případů hospitalizace s diagnózou U07.1 podle mezinárodní klasifikace nemocí poskytovatelem vykázaných a zdravotní pojišťovnou uznaných, ukončených v hodnoceném období, zařazených podle pravidel pro Klasifikaci, se úhrada poskytovateli navyšuje o 1 000 Kč za každý OD, s výjimkou OD č. 00051 až 00078 podle seznamu výkonů, poskytnutý do 20 dnů od prvního poskytnutí výkonu č. 82301 podle seznamu výkonů nebo výkonu screeningového testování COVID-19 pomocí metody PCR s pozitivním výsledkem nebo výkonu o průkazu antigenu SARS-CoV-2 s pozitivním výsledkem v případě, že nebyl poskytnut výkon č. 82301 ani 82302 podle seznamu výkonů, kterýmkoliv poskytovatelem během posledních 180 kalendářních dnů. Toto navýšení úhrady se nezapočítá do úhrady podle bodů 3 až 6.“.
+
+6\. V příloze č. 1 části A bodu 7.2 se za slova „části A bodu 1 a 2“ vkládají slova „a části C“.
+
+7\. V příloze č. 1 části A bodu 8 se doplňuje bod 8.5, který zní:
+
+> „8.5 Poskytovateli, který poskytuje zdravotní služby jednodenní péče podle § 8 zákona o zdravotních službách, se úhrada navýší o částku vypočtenou následovně:
+
+> Kompenzace<sub>JP</sub>=0,75\*max1,02\*Úhrada<sub>2019,JP</sub><sup>M1-4</sup>-Úhrada<sub>2021,JP</sub><sup>M1-4</sup>;0
+
+> kde:
+
+> Úhrada<sub>2019,JP</sub><sup>M1-4</sup> je úhrada za poskytovatelem vykázané a zdravotní pojišťovnou uznané zdravotní služby jednodenní péče poskytnuté v prvních 4 měsících referenčního období.
+
+> Úhrada<sub>2021,JP</sub><sup>M1-4</sup> je úhrada za poskytovatelem vykázané a zdravotní pojišťovnou uznané zdravotní služby jednodenní péče poskytnuté v prvních 4 měsících hodnoceného období.“.
+
+8\. V příloze č. 1 části B bod 1 včetně nadpisu zní:
+
+> „1. Úhrada následné lůžkové péče, dlouhodobé lůžkové péče, péče ošetřovacího dne 00005 a zvláštní lůžkové péče hospicového typu podle § 22a zákona
+
+> a) Výše úhrady za hrazené služby vykazované OD 00031, 00032, 00098 a 00099 se stanoví součinem počtu vykázaných OD a paušální sazby za jeden den hospitalizace podle písmen b) a h). Výše úhrady za hrazené služby vykazované OD 00005 a 00021 až 00030 se stanoví následovně:
+
+> Úhrada<sub>i</sub>=∑j=15OD<sub>2021,ij</sub>\*PS<sub>OD,2021,ij</sub>
+
+> kde:
+
+> Úhrada<sub>i</sub> je úhrada za poskytovatelem vykázané a zdravotní pojišťovnou uznané OD typu i v hodnoceném období.
+
+> i představuje typy OD 00005 a 00021 až 00030 vykazované poskytovatelem v hodnoceném období.
+
+> PS<sub>OD,2021,ij</sub> je výše paušální sazby za jeden den hospitalizace v hodnoceném období pro OD typu i a kategorii pacienta typu j podle písmen b) až g) a písmene l).
+
+> j představuje kategorie pacienta a nabývá hodnot 1 až 5.
+
+> OD<sub>2021,ij</sub> je počet poskytovatelem vykázaných a zdravotní pojišťovnou uznaných OD typu i a kategorie j v hodnoceném období.
+
+> b) Paušální sazba za jeden den hospitalizace se stanoví pro každou kategorii pacienta a typ ošetřovacího dne samostatně a zahrnuje hodnotu příslušného OD včetně režie přiřazené k ošetřovacímu dni a kategorie pacienta podle seznamu výkonů, paušální částku, kterou se hradí léčivé přípravky podle § 17 odst. 6 zákona, výkony, kterými se vykazuje příjmové a propouštěcí vyšetření, a výkony agregované do ošetřovacího dne podle seznamu výkonů.
+
+> c) Výše paušální sazby za jeden den hospitalizace v hodnoceném období pro OD typu i a kategorii pacienta typu j, s výjimkou dnů hospitalizace OD 00021, 00026, 00031, 00032, 00098 a 00099, se stanoví ve výši:
+
+> PS<sub>OD,2021,ij</sub> = KN \* PS<sub>OD,2020,ij</sub> \* KompenzaceOD<sub>i,COVID</sub>
+
+> kde:
+
+> PS<sub>OD,2020,ij</sub> je paušální sazba za jeden den hospitalizace v roce 2020 pro OD typu i a kategorii pacienta typu j, včetně navýšení úhrad na zvýšení příplatku zdravotnickým pracovníkům vykonávajícím nelékařské zdravotnické povolání bez odborného dohledu střídavě ve třísměnném nebo nepřetržitém pracovním režimu u poskytovatelů zdravotních služeb lůžkové péče za ošetřovací den, a bez navýšení úhrady plynoucích z plnění kvalitativních kritérií v roce 2020.
+
+> KN KN je koeficient navýšení podle písmen d) a e).
+
+> KompenzaceOD<sub>i,COVID</sub> je koeficient kompenzace OD typu i, který se stanoví následovně:
+
+> KompenzaceOD<sub>i,COVID</sub>=max1;0,97\*(OD<sub>2019,i</sub><sup>31.03</sup>)/(OD<sub>2021,i</sub><sup>31.03</sup>)\*min(OD<sub>2021,i</sub><sup>31.03</sup>)/(Koef<sub>i</sub><sup>prop</sup>\*OD<sub>2019,i</sub><sup>31.03</sup>)3;1
+
+> kde:
+
+> OD<sub>2019,i</sub><sup>31.03</sup> je počet OD typu i za hrazené zdravotní služby poskytovatelem poskytnuté v referenčním období, poskytovatelem vykázané do 31. března 2020 a zdravotní pojišťovnou uznané do 31. května 2020.
+
+> OD<sub>2021,i</sub><sup>31.03</sup> je počet OD typu i za hrazené zdravotní služby poskytovatelem poskytnuté v hodnoceném období, poskytovatelem vykázané do 31. března 2022 a zdravotní pojišťovnou uznané do 31. května 2022.
+
+> Koef<sub>i</sub><sup>prop</sup> představuje koeficient propadu produkce pro OD typu i podle následující tabulky:
+
+> | Typ OD | HodnotaKoef<sub>i</sub><sup>prop</sup> |
+> |---|---|
+> | 00005 | 0,85 |
+> | 00021 | 0,84 |
+> | 00022 | 0,87 |
+> | 00023 | 0,89 |
+> | 00024 | 0,86 |
+> | 00025 | 0,95 |
+> | 00026 | 0,86 |
+> | 00027 | 1,00 |
+> | 00028 | 0,58 |
+> | 00029 | 0,78 |
+> | 00030 | 0,95 |
+
+> d) KN se stanoví pro každou kategorii pacienta podle seznamu výkonů zvlášť, a to následovně:
+
+> i. Pro kategorii pacienta 1 podle seznamu výkonů se KN stanoví ve výši 1,08,
+
+> ii. Pro kategorii pacienta 2 podle seznamu výkonů se KN stanoví ve výši 1,08,
+
+> iii. Pro kategorii pacienta 3 podle seznamu výkonů se KN stanoví ve výši 1,09,
+
+> iv. Pro kategorii pacienta 4 podle seznamu výkonů se KN stanoví ve výši 1,09,
+
+> v. Pro kategorii pacienta 5 podle seznamu výkonů se KN stanoví ve výši 1,09.
+
+> e) KN definovaný v písmenu d) se dále navýší o 0,003 pro daný typ OD za každé kritérium, které poskytovatel v hodnoceném období splňuje. Zdravotní pojišťovna vyhodnotí plnění kvalitativního kritéria po skončení hodnoceného období. Jedná se o následující kritéria vázaná na daný typ OD:
+
+> i. Personální zabezpečení (vztaženo k úvazku na sledovaném pracovišti):
+
+> (1) Sestra specialistka na hojení ran – průměrně alespoň 0,4 úvazku na 120 lůžek pro OD 00005, 00022, 00023, 00024 a 00030,
+
+> (2) Nutriční terapeut – průměrně alespoň 0,4 úvazku na 120 lůžek pro OD 00005, 00022, 00024, 00027, 00028 a 00030,
+
+> (3) Ergoterapeut – průměrně alespoň 1 úvazek na 120 lůžek, pro OD 00024 a 00005,
+
+> (4) Logoped – průměrně alespoň 1 úvazek na 120 lůžek pro OD 00024,
+
+> (5) Psycholog ve zdravotnictví – průměrně alespoň 0,4 úvazku na 120 lůžek pro OD 00005, 00022, 00024 a 00030.
+
+> ii. Technické vybavení:
+
+> (1) Průměrný počet lůžek na pokoji – nejvýše 2,5 lůžka na pokoj u OD 00005, 00022, 00023 a 00024,
+
+> (2) Vybavení oddělení elektricky polohovatelnými lůžky – alespoň 75 % elektricky polohovatelných lůžek doložených protokolem o bezpečnostně technické kontrole u OD 00005, 00022, 00023 a 00024.
+
+> f) Paušální sazba za jeden den hospitalizace OD 00021 a 00026 bude stanovena podle písmene c), přičemž pro kategorie pacienta 1, 2, 3 a 4 podle seznamu výkonů se pro tyto OD stanoví hodnota KN ve výši 1,12 do sto dvacátého dne hospitalizace a hodnota 1,08 od sto dvacátého prvního dne hospitalizace. Počet dní se počítá od prvního dne přijetí na lůžko poskytovatele, včetně propustek. V případě, že hospitalizace započala před 1. lednem 2021, délka hospitalizace se počítá od 1. ledna 2021. Pro kategorii pacienta 5 podle seznamu výkonů se hodnota KN stanoví ve výši 1,09.
+
+> g) Stanovení výše paušální sazby OD 00021 a OD 00026 podle písmene f) je podmíněno plněním transformačního plánu restrukturalizace lůžek v rámci reformy psychiatrické péče, který byl schválen Ministerstvem zdravotnictví. V případě neplnění tohoto plánu se výše paušální sazby stanoví podle písmene c).
+
+> h) Výše paušální sazby za jeden den hospitalizace OD 00031, 00032, 00098 a 00099 se stanoví v hodnoceném období ve výši, která byla sjednána na rok 2020, navýšené o 4 %.
+
+> i) Výše úhrady se navyšuje o 1 000 Kč za každý den hospitalizace u pojištěnce s diagnózou U07.1 podle mezinárodní klasifikace nemocí, poskytnutý v hodnoceném období a zdravotní pojišťovnou uznaný, poskytnutý do 20 dnů od prvního poskytnutí výkonu č. 82301 podle seznamu výkonů nebo výkonu screeningového testování COVID-19 pomocí metody PCR s pozitivním výsledkem nebo výkonu o průkazu antigenu SARS-CoV-2 s pozitivním výsledkem v případě, že nebyl poskytnut výkon č. 82301 ani 82302 podle seznamu výkonů, kterýmkoliv poskytovatelem během posledních 180 kalendářních dnů.
+
+> j) Záloha na kompenzaci se poskytuje poskytovateli měsíčně, a to vždy do dvacátého dne od skončení měsíce, na který je záloha kalkulována. Výše měsíční zálohy se stanoví následovně:
+
+> Záloha<sub>kompenzace,m</sub>=max0;∑i=1nPS<sub>OD,2021,i</sub>\*∑j=1mOD<sub>2019,ij</sub>-OD<sub>2021,ij</sub>-∑k=1m-1Záloha<sub>kompenzace,k</sub>
+
+> kde:
+
+> Záloha<sub>kompenzace,m</sub>je záloha na kompenzaci v měsíci m hodnoceného období.
+
+> i nabývá hodnot 1 až n, kde n je celkový počet kombinací kategorie pacienta a typu OD vykazovaných poskytovatelem v hodnoceném období.
+
+> PS<sub>OD,2021,i</sub> je výše paušální sazby za jeden den hospitalizace v hodnoceném období pro kombinaci kategorie pacienta a typu OD i, podle písmen b) až h).
+
+> j představuje měsíce v roce a nabývá hodnot 1 až m, kde m je měsíc, pro který je kalkulována záloha na kompenzaci.
+
+> OD<sub>2019,ij</sub> je počet poskytovatelem vykázaných a zdravotní pojišťovnou uznaných ošetřovacích dnů typu a kategorie i v měsíci j referenčního období.
+
+> OD<sub>2021,ij</sub> je počet poskytovatelem vykázaných a zdravotní pojišťovnou uznaných ošetřovacích dnů typu a kategorie i v měsíci j hodnoceného období.
+
+> k představuje měsíce v roce a nabývá hodnot 1 až m-1, kde m je měsíc, pro který je kalkulována záloha na kompenzaci.
+
+> Záloha<sub>kompenzace,k</sub> je záloha na kompenzaci v měsíci k hodnoceného období.
+
+> k) Záloha na kompenzaci podle písmene j) za měsíc červenec 2021 se navýší o úhradu podle písmene i) vztahující se ke dnům hospitalizace poskytovatelem vykázaným do 31. července 2021 a zdravotní pojišťovnou uznaným.
+
+> l) V případě poskytnutí hrazených služeb zahraničním pojištěncům se nepoužije koeficient navýšení KN podle písmen e), f) a g) a výše paušální sazby za OD 00021, 00026 se stanoví podle písmene c).
+
+> m) Léčivé přípravky uvedené v příloze č. 12 k této vyhlášce uhradí zdravotní pojišťovna poskytovateli ve výši jejich vykázané jednotkové ceny.“.
+
+9\. V příloze č. 1 části B bodu 2 písm. a) se číslo „1,22“ nahrazuje číslem „1,46“ a číslo „1,19“ se nahrazuje číslem „1,47“.
+
+10\. V příloze č. 1 části B bodu 2 písmeno g) zní:
+
+> „g) Za každý poskytovatelem vykázaný a zdravotní pojišťovnou uznaný OD 00015, 00020, 00033 a 00035 podle seznamu výkonů, poskytnutý v hodnoceném období pacientům s diagnózou U07.1 podle mezinárodní klasifikace nemocí do 20 dnů od prvního poskytnutí výkonu č. 82301 podle seznamu výkonů nebo výkonu screeningového testování COVID19 pomocí metody PCR s pozitivním výsledkem nebo výkonu o průkazu antigenu SARSCoV-2 s pozitivním výsledkem v případě, že nebyl poskytnut výkon č. 82301 ani 82302 podle seznamu výkonů, kterýmkoliv poskytovatelem během posledních 180 kalendářních dnů, se poskytovateli navyšuje úhrada o 1 000 Kč.“.
+
+11\. V příloze č. 3 části A bodu 2 se věta první nahrazuje větou „Pro poskytovatele hrazených služeb poskytující specializovanou ambulantní péči neuvedenou v bodě 1 se stanoví výše úhrady podle seznamu výkonů úhradou za poskytnuté výkony s hodnotou bodu ve výši 1,05 Kč, s výjimkou odborností podle seznamu výkonů, pro které se stanoví hodnota bodu v části C, a s výjimkou výkonu č. 89312 podle seznamu výkonů, pro který se stanoví hodnota bodu ve výši 1,06 Kč.“.
+
+12\. Na konci přílohy č. 3 se doplňuje část C, která včetně nadpisu zní:
+
+> „C) Hodnota bodu po odbornostech
+
+> 1\. Pro následující odbornosti podle seznamu výkonů se stanoví následující hodnota bodu:
+
+> | Odbornost podle seznamu výkonů | Hodnota bodu |
+> |---|---|
+> | 106 | 1,37 |
+> | 203 | 1,17 |
+> | 208 | 1,09 |
+> | 301 | 1,24 |
+> | 402 | 1,06 |
+> | 501 | 1,06 |
+> | 502 | 1,11 |
+> | 504 | 1,14 |
+> | 506 | 1,07 |
+> | 601 | 1,09 |
+> | 607 | 1,14 |
+> | 704 | 1,42 |
+> | 708 | 1,24 |
+> | 780 | 1,25 |
+
+> “.
+
+13\. V příloze č. 8 části A bodu 1 se číslo „0,95“ nahrazuje číslem „0,97“ a číslo „0,79“ se nahrazuje číslem „0,81“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení.
+
+Ministr zdravotnictví:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.

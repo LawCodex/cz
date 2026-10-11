@@ -1,0 +1,479 @@
+---
+title: "Zákon č. 66/2022 Sb., o opatřeních v oblasti zaměstnanosti a oblasti sociálního zabezpečení v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace"
+identifier: "66/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/66/2025-10-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2022-03-17
+effective: 2022-03-21
+last_amended: 2025-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/66"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 66/2022 Sb., o opatřeních v oblasti zaměstnanosti a oblasti sociálního zabezpečení v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace ve znění zákona č. 175/2022 Sb., zákona č. 198/2022 Sb., zákona č. 75/2023 Sb., zákona č. 407/2023 Sb., zákona č. 412/2023 Sb., zákona č. 454/2023 Sb., zákona č. 24/2025 Sb. a zákona č. 152/2025 Sb."
+---
+
+# Zákon č. 66/2022 Sb., o opatřeních v oblasti zaměstnanosti a oblasti sociálního zabezpečení v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace
+
+66
+
+ZÁKON
+
+ze dne 17. března 2022
+
+o opatřeních v oblasti zaměstnanosti a oblasti sociálního zabezpečení v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – ÚVODNÍ USTANOVENÍ
+
+### § 1 – Předmět úpravy
+
+Tento zákon upravuje opatření v oblasti zaměstnanosti a oblasti sociálního zabezpečení<sup>1</sup>), která se vztahují na cizince, kterému byla v České republice poskytnuta dočasná ochrana podle zákona o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace<sup>2</sup>), (dále jen „cizinec s dočasnou ochranou“), a na držitele průkazu o povolení k dlouhodobému pobytu v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace podle zákona o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace.
+
+## ČÁST DRUHÁ – ZVLÁŠTNÍ PRAVIDLO V OBLASTI ZAMĚSTNANOSTI
+
+### § 2
+
+Cizinec s dočasnou ochranou a držitel průkazu o povolení k dlouhodobému pobytu v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace se pro účely zákona o zaměstnanosti považují za cizince s povoleným trvalým pobytem podle zákona o pobytu cizinců na území České republiky.
+
+## ČÁST TŘETÍ – ZVLÁŠTNÍ PRAVIDLA V OBLASTI PRÁVA SOCIÁLNÍHO ZABEZPEČENÍ
+
+### § 3
+
+(1) Poskytovatel služby péče o dítě v dětské skupině může poskytovat službu péče o dítě v dětské skupině též rodiči dítěte, které je cizincem s dočasnou ochranou, a to i pokud není zaměstnavatelem rodiče tohoto dítěte.
+
+(2) Po dobu 6 měsíců ode dne udělení dočasné ochrany dítěti, které je cizincem s dočasnou ochranou, se splnění podmínky podle § 20a odst. 2 zákona o poskytování služby péče o dítě v dětské skupině pro vznik nároku na příspěvek na provoz dětské skupiny, spočívající v obsazení kapacitního místa dítětem, jehož rodič, který uzavírá smlouvu o poskytování služby péče o dítě v dětské skupině, je zaměstnán, studuje v denní formě studia, je evidován jako uchazeč o zaměstnání nebo je osobou samostatně výdělečně činnou, která má povinnost platit zálohy na pojistné na důchodové pojištění a příspěvek na státní politiku zaměstnanosti, nevyžaduje; § 11 odst. 1 písm. i) zákona o poskytování služby péče o dítě v dětské skupině se po tuto dobu nepoužije.
+
+(3) Není-li dítě, které je cizincem s dočasnou ochranou, v péči rodičů nebo jiné osoby, které bylo rozhodnutím příslušného orgánu svěřeno do péče nahrazující péči rodičů, považuje se za rodiče pro účely zákona o poskytování služby péče o dítě v dětské skupině též osoba, které bylo toto dítě jeho rodičem svěřeno do péče; nemá-li tato osoba o této skutečnosti písemný doklad podepsaný rodičem dítěte, dokládá tuto skutečnost a důvod, pro který nelze předložit tento doklad, písemným čestným prohlášením. Získá-li osoba podle věty první části před středníkem doklad o svěření dítěte do její péče podepsaný rodičem dítěte, je povinna tento doklad bezodkladně předložit poskytovateli.
+
+(4) Cizinec s dočasnou ochranou může vykonávat činnost, kterou se uskutečňuje výchova a péče o dítě podle § 2 zákona o poskytování služby péče o dítě v dětské skupině, za podmínky, že je zletilou a svéprávnou osobou, má pedagogické, sociální nebo zdravotní vzdělání anebo má střední vzdělání s maturitní zkouškou, získal-li praxi v oblasti péče o dítě ve věku od 6 měsíců do zahájení povinné školní docházky v délce minimálně 5 let, je-li bezúhonnou osobou podle § 5a odst. 2 zákona o poskytování služby péče o dítě v dětské skupině a činnost, kterou se uskutečňuje výchova a péče o dítě podle § 2 zákona o poskytování služby péče o dítě v dětské skupině, vykonává jen v přítomnosti pečující osoby. Dosaženou praxi může cizinec s dočasnou ochranou podle věty první doložit po dobu prvních 6 měsíců ode dne udělení dočasné ochrany čestným prohlášením. Po uplynutí této doby je možné doložit dosaženou praxi čestným prohlášením, jen nelze-li ji prokázat řádným způsobem; cizinec s udělenou dočasnou ochranou zároveň uvede důvod, pro který nelze prokázat dosaženou praxi řádným způsobem.
+
+(5) Dosažené vzdělání může cizinec s dočasnou ochranou podle odstavce 4 po dobu prvních 6 měsíců ode dne udělení dočasné ochrany doložit čestným prohlášením. Po uplynutí této doby je možné doložit dosažené vzdělání čestným prohlášením, jen nelze-li jej prokázat řádným způsobem; cizinec s udělenou dočasnou ochranou zároveň uvede důvod, pro který nelze prokázat dosažené vzdělání řádným způsobem.
+
+(6) Cizinec s dočasnou ochranou podle odstavce 4 může doložit bezúhonnost po dobu prvních 6 měsíců ode dne udělení dočasné ochrany čestným prohlášením; poté je povinen doložit bezúhonnost výpisem z evidence Rejstříků trestů za dobu jeho pobytu na území České republiky na základě udělené dočasné ochrany.
+
+(7) Vykonává-li cizinec s dočasnou ochranou podle odstavce 4 činnost, kterou se uskutečňuje výchova a péče o dítě podle § 2 zákona o poskytování služby péče o dítě v dětské skupině, považuje se pro účely splnění podmínky podle § 7 odst. 6 písm. b) a c) zákona o poskytování služby péče o dítě v dětské skupině za pečující osobu.
+
+(8) Podmínka podle § 20a odst. 2 zákona o poskytování služby péče o dítě v dětské skupině pro vznik nároku na příspěvek na provoz dětské skupiny, spočívající v podání žádosti o příspěvek na provoz dětské skupiny nejpozději do dne 31. ledna kalendářního roku, na který poskytovatel žádá o příspěvek na provoz dětské skupiny, se nevyžaduje.
+
+(9) Řízení o přiznání příspěvku na provoz dětské skupiny se zahajuje na základě žádosti o příspěvek na provoz dětské skupiny, a to je-li žádost o příspěvek na provoz dětské skupiny podána po 31. lednu kalendářního roku, na který poskytovatel žádá o příspěvek na provoz dětské skupiny; § 20h odst. 1 a § 20i odst. 4 zákona o poskytování služby péče o dítě v dětské skupině se nepoužije.
+
+### § 4
+
+Listinu, kterou je možné použít na území České republiky bez dalšího ověření v souladu se Smlouvou mezi Českou republikou a Ukrajinou o právní pomoci v občanských věcech, je možné nahradit čestným prohlášením osoby, která je povinna tuto listinu předložit za účelem přijetí nezbytných opatření na ochranu nezletilého dítěte, které je cizincem s dočasnou ochranou, ze strany orgánů sociálně-právní ochrany dětí.
+
+### § 5
+
+(1) Cizinci s dočasnou ochranou, který splňuje podmínky pro poskytování sociálních služeb stanovené zákonem o sociálních službách, se poskytují sociální služby. Jsou-li příjmové, sociální a majetkové poměry cizince s dočasnou ochranou takové, že mu neumožňují ani částečnou úhradu nákladů za poskytování sociálních služeb, poskytují se mu sociální služby bez úhrady nákladů. Náklady na sociální služby podle věty druhé hradí stát. Své příjmové, sociální a majetkové poměry doloží cizinec s dočasnou ochranou všemi dostupnými doklady nebo formou čestného prohlášení.
+
+(2) Po dobu prvních 6 měsíců ode dne udělení dočasné ochrany cizinec s dočasnou ochranou může za účelem výkonu činnosti podle § 116 odst. 1 zákona o sociálních službách doložit dosažené vzdělání obdobné základnímu vzdělání podle školského zákona čestným prohlášením. Po uplynutí této doby je možné doložit dosažené vzdělání obdobné základnímu vzdělání podle školského zákona čestným prohlášením, jen nelze-li jej prokázat řádným způsobem; cizinec s udělenou dočasnou ochranou zároveň uvede důvod, pro který nelze prokázat dosažené vzdělání řádným způsobem.
+
+(3) Cizinec s dočasnou ochranou může doložit za účelem výkonu činnosti podle § 116 odst. 1 zákona o sociálních službách bezúhonnost čestným prohlášením po dobu prvních 6 měsíců ode dne udělení dočasné ochrany; poté je povinen doložit bezúhonnost výpisem z evidence Rejstříků trestů za dobu pobytu na území České republiky na základě dočasné ochrany.
+
+**Humanitární dávka**
+
+### § 6
+
+(1) Jsou-li příjmové poměry cizince s dočasnou ochranou, který se zdržuje na území České republiky, a jeho majetkové poměry na území České republiky takové, že mu neumožňují zajištění základních životních potřeb nebo úhradu nákladů na bydlení do výše započitatelných nákladů na bydlení nebo ubytování, poskytne se mu na žádost humanitární dávka (dále jen „dávka“); majetkové a příjmové poměry cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby, se posuzují společně a poskytne se jim společně jedna dávka. Dávka cizinci s dočasnou ochranou nenáleží, je-li mu bezplatně poskytnuta celodenní strava, základní prostředky osobní hygieny a ubytování.
+
+(2) Za příjem se pro účely nároku na dávku nepovažuje dávka a mimořádná okamžitá pomoc podle zákona o pomoci v hmotné nouzi vyplacená v rozhodném období, za které se příjmy zjišťují, a finanční prostředky, které jsou v rozhodném období poskytnuty jako stipendia pro studující cizince s dočasnou ochranou, nebo které jsou poskytnuté fundací, spolkem, z Azylového, migračního a integračního fondu nebo z Dětského fondu Organizace spojených národů. Příjem v cizí měně se přepočte na českou měnu podle příslušného kursu vyhlášeného Českou národní bankou platného k prvnímu dni období, za které se zjišťuje příjem. Pro přepočet měn, u nichž Česká národní banka nevyhlašuje příslušný kurs, se použije kurs této měny obvykle používaný bankami v České republice k prvnímu dni období, za které se zjišťuje příjem. Je-li příjem vyplacený v cizí měně předmětem daně z příjmů podle zákona o daních z příjmů, přepočte se na českou měnu způsobem platným pro účely daně z příjmů.
+
+(3) Podmínka, že se cizinec s dočasnou ochranou zdržuje na území České republiky, není splněna, pokud se místo jeho pobytu na území České republiky uvedené v žádosti o dávku neshoduje s adresou místa pobytu cizince vedenou v základním registru obyvatel a cizinec tento nesoulad ani na výzvu Úřadu práce České republiky – krajské pobočky nebo pobočky pro hlavní město Prahu (dále jen „krajská pobočka Úřadu práce“) neodstraní.
+
+(4) Věk cizince s dočasnou ochranou rozhodný pro stanovení výše dávky je věk, kterého dosáhne v kalendářním měsíci, na který dávka náleží.
+
+(5) Obdobím, za které se zjišťuje splnění podmínek nároku na dávku, je období kalendářního měsíce, na který je podána žádost o dávku, s výjimkou nákladů na bydlení a příjmů, které se zjišťují za období kalendářního měsíce předcházejícího měsíci, na který je podána žádost.
+
+(6) Nárok na dávku na kalendářní měsíc vzniká splněním podmínek stanovených tímto zákonem. Nárok na výplatu dávky na kalendářní měsíc, na který vznikl nárok splněním podmínek stanovených tímto zákonem, zaniká, pokud do konce tohoto kalendářního měsíce nebyla podána žádost o dávku na tento kalendářní měsíc.
+
+(7) Dávku vyplácí krajská pobočka Úřadu práce. Za nezletilého cizince jedná jeho zákonný zástupce, nemá-li nezletilý cizinec na území České republiky zákonného zástupce, jedná za něj osoba blízká nebo jiná osoba, která o něj pečuje. Dávka se vyplácí převodem na platební účet v bance, pobočce zahraniční banky nebo spořitelním a úvěrním družstvu v České republice určený žadatelem, s výjimkou dávky na kalendářní měsíc, v němž byla cizinci udělena dočasná ochrana, kterou lze vyplatit v hotovosti. Dávka se nevyplácí do ciziny. Dávka nepodléhá výkonu rozhodnutí.
+
+(8) V řízení o dávce se správní řád nepoužije.
+
+(9) Byl-li žadatel o dávku krajskou pobočkou Úřadu práce vyzván, aby jí osobně osvědčil skutečnosti rozhodné pro nárok na dávku, je povinen této výzvě vyhovět, a to ve lhůtě do 8 dnů ode dne doručení výzvy, nebyla-li krajskou pobočkou Úřadu práce určena delší lhůta; neučiní-li tak v uvedené lhůtě, žádost o dávku se zamítne.
+
+### § 6a – Evidence bytů pro dočasnou ochranu
+
+(1) Byty, které jsou cizincům s dočasnou ochranou poskytovány k samostatnému bydlení, jsou zařazeny v informačním systému evidence bytů, který spravuje Ministerstvo práce a sociálních věcí (dále jen „evidence bytů“). Bytem se pro účely tohoto zákona rozumí soubor místností nebo samostatná obytná místnost, které svým stavebně technickým uspořádáním a vybavením splňují požadavky na trvalé bydlení a jsou k tomuto účelu užívání určeny podle stavebního zákona nebo jsou zkolaudovány jako byt.
+
+(2) Evidence bytů obsahuje
+
+a) identifikační údaje vlastníka bytu,
+
+b) adresu bytu a číslo bytu, pokud existuje,
+
+c) písemný právní titul k užívání bytu a
+
+d) identifikační údaje cizinců s dočasnou ochranou, kterým byl byt k bydlení poskytnut, číslo vízového štítku a údaje o začátku a ukončení bydlení.
+
+(3) Údaje uvedené v odstavci 2 do evidence bytů zadává vlastník bytu, a to s využitím elektronické identifikace určené Ministerstvem práce a sociálních věcí.
+
+### § 6b
+
+(1) Není-li dále stanoveno jinak, výše dávky pro cizince s dočasnou ochranou
+
+a) do 18 let věku činí částku 3 490 Kč,
+
+b) od 18 let věku činí částku 4 860 Kč, není-li dále stanoveno jinak,
+
+c) v případě, že je osobou s omezením soběstačnosti, činí:
+
+1\. 2,4násobek částky podle písmene a) nebo 1,7násobek částky podle písmene b), je-li osobou s omezením soběstačnosti ve stupni 2,
+
+2\. 2,8násobek částky podle písmene a) nebo 1,9násobek částky podle písmene b), je-li osobou s omezením soběstačnosti ve stupni 3,
+
+3\. 3,0násobek částky podle písmene a) nebo 2,1násobek částky podle písmene b), je-li osobou s omezením soběstačnosti ve stupni 4,
+
+4\. 3,4násobek částky podle písmene a) nebo 2,4násobek částky podle písmene b), je-li osobou s omezením soběstačnosti ve stupni 5,
+
+d) od 6 do 10 let věku činí 1,2násobek částky podle písmene a),
+
+e) od 18 let věku od měsíce bezprostředně následujícího po kalendářním měsíci, v němž uplyne doba 150 dnů ode dne, ve kterém byla cizinci udělena dočasná ochrana, činí částku 3 130 Kč, pokud není osobou
+
+1\. studující; za studující osobu se považuje cizinec s dočasnou ochranou, který plní povinnou školní docházku, a cizinec s dočasnou ochranou, který se v České republice studiem soustavně připravuje na budoucí povolání, nejdéle však do věku 26 let,
+
+2\. pečující o dítě do 6 let věku; péči o totéž dítě může pro účely této dávky prohlásit pouze 1 z pečujících osob,
+
+3\. těhotnou,
+
+4\. starší 65 let,
+
+5\. s omezením soběstačnosti, nebo
+
+6\. pečující o osobu uvedenou v bodě 5, která byla touto osobou jako pečující osoba označena v žádosti o dávku.
+
+(2) Pro určení nároku na dávku a stanovení její výše se u cizince s dočasnou ochranou, který má náklady na bydlení na základě platného právního titulu k bydlení v bytě zařazeném v evidenci bytů, použijí započitatelné náklady na bydlení. Pro určení nároku na dávku a stanovení její výše u cizince s dočasnou ochranou, který má náklady na bydlení v ostatních prostorech k ubytování, než jsou uvedeny ve větě první, se použijí započitatelné náklady na ubytování, je-li cizinec s dočasnou ochranou výdělečně činný, nebo je-li krajskou pobočkou Úřadu práce evidován jako uchazeč o zaměstnání. Podmínka, že musí být cizinec s dočasnou ochranou výdělečně činný nebo být krajskou pobočkou Úřadu práce evidován jako uchazeč o zaměstnání, neplatí, jde-li o cizince s dočasnou ochranou uvedeného v odstavci 1 písm. a) nebo v odstavci 1 písm. e) bodech 1 až 6.
+
+(3) Vláda stanoví nařízením v závislosti na vývoji ozbrojeného konfliktu na území Ukrajiny a jeho dopadů na možnosti zajištění přiměřeného bydlení cizinců s dočasnou ochranou na území České republiky výši započitatelných nákladů na bydlení v bytech zařazených v evidenci bytů a výši započitatelných nákladů na ubytování v ostatních prostorech k ubytování; výši započitatelných nákladů lze stanovit odlišně pro cizince s dočasnou ochranou, který je uveden v § 6b odst. 1 písm. a) nebo v § 6b odst. 1 písm. e) bodech 1 až 6, a pro ostatní cizince s dočasnou ochranou.
+
+(4) Pro určení výše dávky cizince s dočasnou ochranou, který je posuzován samostatně, se od součtu příslušné výše dávky podle odstavce 1 a příslušné částky započitatelných nákladů na bydlení nebo započitatelných nákladů na ubytování pro 1 osobu odečte součet jeho příjmů. Dosahuje-li výsledná částka určená podle věty první hodnotu vyšší než 0, činí výše dávky částku rozdílu dosaženého podle věty první, není-li dále stanoveno jinak. Dosahuje-li výsledná částka určená podle věty první hodnotu 0 nebo nižší, dávka nenáleží. Dosahuje-li výsledná částka určená podle věty první hodnotu vyšší než 0, ale nižší než 50, činí výše dávky 50 Kč.
+
+(5) Pro určení výše dávky pro cizince s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby, se od součtu jejich příslušných výší dávek podle odstavce 1 a příslušné částky započitatelných nákladů na bydlení nebo ubytování určené podle počtu cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby, odečte součet jejich příjmů. Dosahuje-li výsledná částka určená podle věty první hodnotu 0 nebo nižší, dávka nenáleží. Dosahuje-li výsledná částka určená podle věty první hodnotu vyšší než 0, činí výše dávky částku rozdílu dosaženého podle věty první, není-li dále stanoveno jinak. Dosahuje-li výsledná částka určená podle věty první hodnotu vyšší než 0, ale nižší než 50, činí výše dávky 50 Kč.
+
+(6) Nárok na dávku nevznikne, pokud je výše finančních prostředků na účtech žadatele vyšší než dvojnásobek příslušné výše dávky podle odstavce 1, nebo pokud je výše finančních prostředků na účtech cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby, vyšší, než je součet dvojnásobků jejich příslušných výší dávek podle odstavce 1.
+
+### § 6c
+
+(1) Žádost o dávku lze podat pouze v elektronické podobě, s výjimkou první žádosti, kterou lze podat rovněž v listinné podobě.
+
+(2) Žádost o dávku obsahuje
+
+a) identifikační údaje žadatele a cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby,
+
+b) údaj o místu pobytu žadatele a cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby, na území České republiky,
+
+c) údaj o udělení dočasné ochrany žadatele a cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby,
+
+d) údaje o všech příjmech žadatele a cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby,
+
+e) identifikační údaje zaměstnavatele žadatele a cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na svoje potřeby,
+
+f) identifikaci účtů žadatele a cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby, a údaje o finančních prostředcích na těchto účtech,
+
+g) prohlášení o majetkových poměrech na území České republiky žadatele a cizinců s dočasnou ochranou, kteří spolu bydlí a společně uhrazují náklady na své potřeby,
+
+h) registrační číslo evidenční karty daňového poplatníka na Ukrajině, který je žadatelem, a dále cizinců s dočasnou ochranou, kteří spolu s žadatelem bydlí a společně uhrazují náklady na své potřeby, bylo-li uděleno, nebo údaj o místě pobytu na Ukrajině před udělením dočasné ochrany v případě, že registrační číslo nebylo cizinci s dočasnou ochranou uděleno nebo není známo.
+
+(3) Pokud má žadatel náklady na bydlení v bytě, který je zařazen v evidenci bytů, žádost dále obsahuje identifikační údaje vlastníka bytu.
+
+(4) Skutečnosti uvedené v žádosti žadatel doloží všemi dostupnými doklady nebo čestným prohlášením; čestné prohlášení nelze využít pro údaje o příjmu ze závislé činnosti vykonávané v České republice, který žadatel dokládá potvrzením od zaměstnavatele. Všechny skutečnosti se dokládají v elektronické podobě, neurčí-li krajská pobočka Úřadu práce, že je lze předložit i jinak.
+
+(5) Není-li potvrzení o příjmech ze závislé činnosti vykonávané v České republice předloženo žadatelem o dávku, zjišťuje krajská pobočka Úřadu práce výši příjmu postupem podle § 7; nezjistí-li krajská pobočka Úřadu práce příjem ze závislé činnosti tímto postupem, vyzve k předložení potvrzení o výši příjmu žadatele o dávku.
+
+### § 6d – Osoba s omezením soběstačnosti
+
+(1) Za osobu s omezením soběstačnosti se pro účely tohoto zákona považuje fyzická osoba, která v důsledku dlouhodobě nepříznivého zdravotního stavu vyžaduje pomoc jiné fyzické osoby při zvládání činností a schopností v oblastech uvedených v § 6e odst. 1 v rozsahu odpovídajícím alespoň stupni 1 podle § 6e odst. 4 a tento dlouhodobě nepříznivý zdravotní stav podle poznatků lékařské vědy trvá nebo má trvat déle než 1 rok.
+
+(2) Za osobu s omezením soběstačnosti se pro účely tohoto zákona nepovažuje osoba mladší 1 roku.
+
+### § 6e – Hodnocení omezení soběstačnosti
+
+(1) Omezení soběstačnosti se hodnotí v oblastech
+
+a) mobilita,
+
+b) kognitivní a komunikační schopnosti,
+
+c) chování a psychické problémy,
+
+d) péče o vlastní osobu,
+
+e) soběstačnost při zvládání nároků a zátěže způsobených nemocí nebo léčbou a
+
+f) organizace každodenního života a sociálních kontaktů.
+
+(2) Míra omezení soběstačnosti se v oblastech uvedených v odstavci 1 hodnotí podle stavu soběstačnosti osoby a závislosti osoby na pomoci jiné fyzické osoby. Míra omezení soběstačnosti v jednotlivých oblastech má následující váhu pro určení celkové míry omezení soběstačnosti:
+
+a) mobilita 10 %,
+
+b) kognitivní a komunikační schopnosti a chování a psychické problémy podle významnějšího dopadu na soběstačnost 15 %,
+
+c) péče o vlastní osobu 40 %,
+
+d) soběstačnost při zvládání nároků a zátěže způsobených nemocí nebo léčbou 20 %,
+
+e) organizace každodenního života a sociálních kontaktů 15 %.
+
+(3) U osoby do 18 let věku se míra omezení soběstačnosti posuzuje srovnáním se soběstačností u zdravých osob stejného věku a nepřihlíží se k potřebě péče, která vyplývá z věku osoby a tomu odpovídajícímu stupni biopsychosociálního vývoje. U osoby do 18 let věku se při hodnocení zvládání činností a schopností v oblastech uvedených v odstavci 1 porovnává rozsah, intenzita a náročnost péče, kterou je třeba věnovat posuzované osobě se zdravotním postižením, s péčí, kterou je třeba věnovat zdravé fyzické osobě téhož věku.
+
+(4) Podle stanovené celkové míry omezení soběstačnosti určené postupem uvedeným v příloze k tomuto zákonu se cizinec s dočasnou ochranou zařadí do jednoho z 5 stupňů omezení soběstačnosti. Cizinec s dočasnou ochranou je osobou s omezením soběstačnosti ve
+
+a) stupni 1, je-li míra omezení soběstačnosti vyjádřena celkovým počtem 12,5 až méně než 27 bodů,
+
+b) stupni 2, je-li míra omezení soběstačnosti vyjádřena celkovým počtem 27 až méně než 47,5 bodů,
+
+c) stupni 3, je-li míra omezení soběstačnosti vyjádřena celkovým počtem 47,5 až méně než 70 bodů,
+
+d) stupni 4, je-li míra omezení soběstačnosti vyjádřena celkovým počtem 70 až méně než 90 bodů,
+
+e) stupni 5, je-li míra omezení soběstačnosti vyjádřena celkovým počtem 90 až 100 bodů.
+
+(5) Při hodnocení činností a schopností v oblastech uvedených v odstavci 1 se hodnotí funkční dopad dlouhodobě nepříznivého zdravotního stavu na soběstačnost; přitom se nepřihlíží k pomoci, dohledu nebo péči, která nevyplývá z funkčního dopadu dlouhodobě nepříznivého zdravotního stavu. Pro omezení soběstačnosti v konkrétním stupni musí existovat příčinná souvislost mezi poruchou funkčních schopností z důvodu dlouhodobě nepříznivého zdravotního stavu a pozbytím schopnosti zvládat činnosti a schopnosti v oblastech uvedených v odstavci 1 v přijatelném standardu. Přijatelným standardem se rozumí zvládání činností a schopností v oblastech uvedených v odstavci 1 v kvalitě a způsobem, který je běžný a obvyklý, a který umožňuje zvládání uvedených činností a schopností bez každodenní pomoci jiné osoby. Funkční schopnosti se hodnotí s využíváním zachovaných potenciálů a kompetencí fyzické osoby a využíváním běžně dostupných pomůcek, prostředků, předmětů denní potřeby nebo vybavení v domácnosti, veřejných prostor nebo s využitím zdravotnického prostředku.
+
+### § 6f – Posouzení a stanovení stupně omezení soběstačnosti
+
+(1) K posouzení a stanovení stupně omezení soběstačnosti pro účely dávky je příslušný Institut posuzování zdravotního stavu. Posouzení je dokladem vydávaným pro účely dávky.
+
+(2) Posouzení míry omezení soběstačnosti provede Institut posuzování zdravotního stavu na žádost cizince s dočasnou ochranou. Žádost se podává elektronicky, a to na formuláři předepsaném Institutem posuzování zdravotního stavu. Žádost obsahuje jméno, popřípadě jména, a příjmení, další identifikační údaje žadatele a jméno, adresu a kontaktní údaje ošetřujícího lékaře nebo ošetřujících lékařů v České republice. K žádosti může žadatel přiložit podklady k posouzení omezení soběstačnosti v českém jazyce či do českého jazyka přeložených.
+
+(3) Při posuzování míry omezení soběstačnosti vychází Institut posuzování zdravotního stavu ze zdravotního stavu osoby doloženého nálezem vydaným poskytovatelem zdravotních služeb, popřípadě také z vyšetření dětského klinického psychologa v případě pervazivních vývojových poruch a z posouzení míry omezení soběstačnosti provedeného ve vlastním sociálním prostředí žadatele.
+
+(4) Pro účely posouzení míry omezení soběstačnosti je žadatel povinen podrobit se posouzení omezení soběstačnosti pověřeným odborným nelékařským zdravotnickým pracovníkem Institutu posuzování zdravotního stavu ve svém vlastním sociálním prostředí a umožnit uvedené osobě vstup do svého obydlí. Dále je žadatel povinen podrobit se vyšetření zdravotního stavu u poskytovatele zdravotních služeb určeného Institutem posuzování zdravotního stavu anebo jinému odbornému vyšetření, předložit určenému poskytovateli zdravotních služeb lékařské nálezy ošetřujících lékařů, které mu byly vydány, sdělit a doložit další údaje, které jsou významné pro vypracování posudku, nebo poskytnout jinou součinnost, která je potřebná k vypracování posudku, je-li k tomu Institutem posuzování zdravotního stavu vyzván, a to ve lhůtě, kterou Institut posuzování zdravotního stavu určí. Vlastním sociálním prostředím žadatele se pro účely tohoto zákona rozumí domácí prostředí žadatele nebo prostředí nahrazující žadateli domácí prostředí, zejména zařízení sociálních služeb, zařízení pro děti vyžadující okamžitou pomoc nebo jiné obdobné zařízení, ve kterém žadatel pobývá.
+
+(5) Platnost výsledku posouzení může být časově omezena nebo bez časového omezení.
+
+(6) Pokud žadatel posouzení míry omezení soběstačnosti ve vlastním sociálním prostředí nebo vyšetření zdravotního stavu podle odstavce 4 neumožní, posouzení Institut posuzování zdravotního stavu neprovede a žádost zamítne.
+
+(7) Institut posuzování zdravotního stavu vyhotoví posudek do 30 pracovních dnů ode dne doručení žádosti podle odstavce 2. Nejpozději následující pracovní den po vydání posudku jej Institut posuzování zdravotního stavu odešle žadateli a Úřadu práce České republiky zároveň odešle v uvedené lhůtě výsledek tohoto posouzení. Úřad práce České republiky zohlední výsledek posouzení v řízení o dávce, které bylo zahájeno, ale dosud nebylo pravomocně ukončeno, nebo v řízení o dávce, které bude zahájeno poté, co obdrží posudek, je-li žadatel uznán osobou s omezením soběstačnosti.
+
+### § 7
+
+(1) Je-li podle § 6c odst. 5 vyzván zaměstnavatel k zaslání potvrzení o výši příjmu žadatele nebo dalších osob uvedených v žádosti o dávku, je povinen zaslat toto potvrzení krajské pobočce Úřadu práce do 8 dnů ode dne doručení výzvy, neurčila-li krajská pobočka Úřadu práce delší lhůtu. Má-li zaměstnavatel zpřístupněnu datovou schránku<sup>4</sup>), je povinen potvrzení o výši rozhodného příjmu doručit pouze dálkovým přístupem datovou zprávou do datové schránky určené krajskou pobočkou Úřadu práce nebo využitím informačního systému. Zaměstnavatel je povinen doručit potvrzení podle věty druhé podle specifikace komunikace mezi krajskou pobočkou Úřadu práce a zaměstnavatelem a ve formátu, s obsahem a strukturou datové zprávy, které stanoví Ministerstvo práce a sociálních věcí vyhláškou. Nesplňuje-li potvrzení o výši příjmu tyto podmínky, nepřihlíží se k němu; krajská pobočka Úřadu práce je povinna upozornit zaměstnavatele, který mu doručil potvrzení o výši příjmu, které nesplňuje tyto podmínky, na tuto skutečnost a na to, že se k tomuto potvrzení nepřihlíží.
+
+(2) Ministerstvo může se zaměstnavatelem uzavřít dohodu, na jejímž základě budou krajské pobočky Úřadu práce činit výzvy podle § 6c odst. 5 a zaměstnavatel bude sdělovat rozhodné údaje výhradně prostřednictvím informačního systému. Výzva krajské pobočky Úřadu práce ke sdělení rozhodných údajů učiněná prostřednictvím informačního systému je doručena okamžikem, kdy se do informačního systému přihlásí zaměstnavatel. Za přihlášení zaměstnavatele do informačního systému se považuje i automatizovaný přístup zaměstnavatele do informačního systému technickými prostředky bez účasti fyzické osoby. Nepřihlásí-li se do informačního systému zaměstnavatel ve lhůtě 3 dnů od učinění výzvy, považuje se tato výzva za doručenou posledním dnem této lhůty. Lhůta pro splnění povinnosti zaměstnavatele činí 8 dnů ode dne doručení výzvy prostřednictvím informačního systému, neurčila-li krajská pobočka Úřadu práce delší lhůtu. Dohoda podle věty první musí obsahovat
+
+a) specifikaci, formát a strukturu výzev a sdělovaných údajů,
+
+b) způsob přihlašování a jeho zaznamenávání a ověřování v rámci informačního systému.
+
+### § 8 – Příspěvek pro solidární domácnost
+
+(1) Fyzické osobě, která bezplatně poskytla ubytování cizinci s dočasnou ochranou (dále jen „ubytovaná osoba“) a která s ubytovanou osobou toto ubytování sdílí, se poskytuje příspěvek pro solidární domácnost (dále jen „příspěvek“). Za bezplatné se považuje poskytnutí ubytování i v případě, kdy ubytovaná osoba uhradila náklady za plyn a elektřinu v rozsahu, který odpovídá rozsahu, ve kterém plyn a elektřinu využívá. Podmínkou pro poskytování příspěvku je, že se nejedná o ubytování v ubytovacím zařízení a ubytování bylo poskytnuto nepřetržitě po dobu, jejíž minimální délku stanoví vláda nařízením. V rámci poskytnutého ubytování musí být ubytované osobě zajištěn dostatečný prostor pro odpočinek, pro přípravu stravy, prostor pro osobní hygienu a záchod a musí být zajištěn přístup k pitné vodě.
+
+(2) Příspěvek se poskytuje na žádost, a to po uplynutí kalendářního měsíce, za který náleží. Žádost musí obsahovat:
+
+a) identifikaci žadatele,
+
+b) adresu nemovitosti, v níž je poskytováno ubytování, a právní titul, na jehož základě žadatel nemovitost užívá,
+
+c) identifikaci ubytovaných osob,
+
+d) údaje o době poskytování ubytování,
+
+e) čestné prohlášení žadatele, že ubytování bylo poskytnuto bezplatně,
+
+f) čestné prohlášení žadatele, že jsou splněny podmínky pro ubytování podle odstavce 1 věty poslední.
+
+(3) Příspěvek vyplácí krajská pobočka Úřadu práce. Příspěvek se vyplácí převodem na platební účet v bance, pobočce zahraniční banky nebo spořitelním a úvěrním družstvu v České republice určený žadatelem, nebo v odůvodněných případech poštovním poukazem. Příspěvek se nevyplácí do ciziny. Způsob výplaty uvede žadatel v žádosti.
+
+(4) V řízení o příspěvku se správní řád nepoužije.
+
+(5) Příspěvek se nebude považovat za příjem pro účely zákona o státní sociální podpoře, zákona o pomoci v hmotné nouzi, zákona o poskytování dávek osobám se zdravotním postižením a zákona o sociálních službách.
+
+(6) Poskytování příspěvku stanoví vláda nařízením v závislosti na vývoji ozbrojeného konfliktu na území Ukrajiny a jeho dopadů na možnosti zajištění přiměřeného ubytování cizinců s dočasnou ochranou na území České republiky.
+
+(7) Pro nárok na příspěvek se použije § 6 odst. 6 obdobně.
+
+(8) Vláda nařízením podle odstavce 6 stanoví
+
+a) výši příspěvku za ubytovanou osobu za kalendářní měsíc a maximální počet ubytovaných osob v jedné domácnosti, které lze zohlednit pro účely výše příspěvku,
+
+b) minimální počet dnů po sobě jdoucích v období kalendářního měsíce, po kterou musí být ubytované osobě poskytnuto ubytování, a
+
+c) období, po které bude příspěvek poskytován.
+
+### § 8a – Společná ustanovení
+
+(1) Podáním žádosti žadatel a osoby s ním společně posuzované souhlasí s tím, že si krajská pobočka Úřadu práce může ověřit všechny skutečnosti a údaje uvedené v žádosti, a za účelem ověření uvedených skutečností a údajů souhlasí i s jejich předáváním příslušným orgánům Ukrajiny a s předáváním výsledků ověření uvedených skutečností a údajů příslušnými orgány Ukrajiny krajské pobočce Úřadu práce.
+
+(2) Krajské pobočky Úřadu práce a Ministerstvo práce a sociálních věcí jsou oprávněny získávat a zpracovávat údaje potřebné pro rozhodování o dávce a příspěvku a jejich výplatu včetně osobních údajů, a to v elektronické podobě způsobem umožňujícím dálkový přístup a zároveň zajišťujícím ochranu osobních údajů. Právnické a fyzické osoby jsou povinny poskytovat Ministerstvu práce a sociálních věcí údaje ze svých informačních systémů, jde-li o údaje nezbytné pro rozhodování o dávkách a příspěvcích podle tohoto zákona. Veškeré údaje o dávkách a příspěvcích podle tohoto zákona jsou součástí Jednotného informačního systému práce a sociálních věcí<sup>3</sup>).
+
+(3) Jestliže státní orgány a další osoby mohou sdělit údaje rozhodné podle tohoto zákona pro nárok na dávku nebo příspěvek, její výši nebo výplatu jen za podmínky, že byly pro sdělení takových údajů zbaveny mlčenlivosti, má se za to, že jsou pro případ uvedených údajů mlčenlivosti zbaveny, jestliže jim krajská pobočka Úřadu práce písemně sdělila, že osoba, jíž se takové údaje týkají, dala písemný souhlas k tomu, aby státní orgány a další právnické a fyzické osoby sdělily krajské pobočce Úřadu práce uvedené údaje.
+
+### § 8aa – Povinnosti peněžních ústavů
+
+(1) Banky, pobočky zahraničních bank, spořitelní a úvěrní družstva, instituce elektronických peněz, pobočky zahraničních institucí elektronických peněz, vydavatelé elektronických peněz malého rozsahu, platební instituce, pobočky zahraničních platebních institucí a poskytovatelé platebních služeb malého rozsahu (dále jen „peněžní ústav“) jsou povinni sdělit krajské pobočce Úřadu práce na její písemnou žádost údaje o číslech účtů žadatele o dávku, příjemce dávky i společně posuzovaných osob nebo jeho jiných jedinečných identifikátorech, jakož i o jejich stavu a změnách.
+
+(2) Krajská pobočka Úřadu práce požádá peněžní ústav o součinnost elektronicky datovým souborem a peněžní ústav součinnost elektronicky datovým souborem poskytne podle specifikace komunikace mezi orgánem státní sociální pomoci a peněžním ústavem a ve formátu, s obsahem a strukturou datové zprávy, které stanoví ministerstvo vyhláškou. Peněžní ústav není povinen poskytnout krajské pobočce Úřadu práce součinnost, není-li žádost o součinnost podána elektronicky datovým souborem nebo nemá-li stanovené obsahové náležitosti anebo nemá-li datový soubor stanovený formát nebo strukturu. Ministerstvo práce a sociálních věcí stanoví vyhláškou formát a strukturu tohoto datového souboru a obsahové náležitosti žádosti o součinnost. Věty první a druhá se nepoužijí, týká-li se součinnost údajů o mzdě nebo jiném příjmu vypláceném peněžním ústavem nebo srážek prováděných z tohoto příjmu.
+
+### § 8b
+
+Cizinci s dočasnou ochranou, který nemá právo na rovné zacházení vyplývající z předpisů Evropské unie, a držiteli průkazu o povolení k dlouhodobému pobytu v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace nevzniká nárok na dávku státní sociální pomoci podle zákona o dávce státní sociální pomoci a na dávky podle zákona č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, na příspěvek na živobytí a doplatek na bydlení podle zákona č. 111/2006 Sb., o pomoci v hmotné nouzi, ve znění pozdějších předpisů, na příspěvek na mobilitu, příspěvek na zvláštní pomůcku a na průkaz osoby se zdravotním postižením podle zákona č. 329/2011 Sb., o poskytování dávek osobám se zdravotním postižením a o změně souvisejících zákonů, ve znění pozdějších předpisů, na příspěvek na péči podle zákona č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů, a na náhradní výživné podle zákona č. 588/2020 Sb., o náhradním výživném pro nezaopatřené dítě a o změně některých souvisejících zákonů (zákon o náhradním výživném).
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### § 9
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Pekarová Adamová v. r.
+
+Zeman v. r.
+
+Fiala v. r.
+
+### Příloha
+
+#### Postup a systém hodnocení míry omezení soběstačnosti
+
+A. **Kritéria posuzování míry soběstačnosti v jednotlivých oblastech a stanovení počtu bodů za jednotlivé oblasti**
+
+1\. **Mobilita**
+
+| Položka | Kritéria | Soběstačnost | Převážná soběstačnost | Převážná <br> nesoběstačnost | Nesoběstačnost |
+|---|---|---|---|---|---|
+| 1.1 | Změny poloh na lůžku | 0 | 1 | 2 | 3 |
+| 1.2 | Udržení <br> stabilní<br> polohy vsedě | 0 | 1 | 2 | 3 |
+| 1.3 | Přemísťování | 0 | 1 | 2 | 3 |
+| 1.4 | Pohyb v rámci domova | 0 | 1 | 2 | 3 |
+| 1.5 | Výstup po schodech | 0 | 1 | 2 | 3 |
+
+Zvláštní soubor potřeb v rámci mobility
+
+| | Neschopnost používat obě horní a dolní končetiny | □ | Ano | □ | Ne |
+|---|---|---|---|---|---|
+
+Pokud posuzovaná osoba nemůže používat obě horní a dolní končetiny, přičemž došlo k úplné ztrátě funkce uchopování, stání a chůze, považuje se za osobu, která v hodnocení získala více než 90 vážených bodů, a zařadí se do stupně omezení soběstačnosti 5.
+
+2\. **Kognitivní a komunikační schopnosti**
+
+<table><tbody><tr><th><b>Položka</b></th><th><b>Kritéria</b></th><th colspan="4"><b>Schopnost je</b></th></tr><tr><th></th><th></th><th><b>Přítomna<br> (nenarušena)</b></th><th><b>Z velké<br> části<br> přítomna</b></th><th><b>Přítomna<br> v malé<br> míře</b></th><th><b>Nepřítomna</b></th></tr><tr><td>2.1</td><td>Poznávání osob<br> z bezprostředního<br> prostředí</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.2</td><td>Orientace v místě</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.3</td><td>Orientace v čase</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.4</td><td>Schopnost pamatovat si podstatné události nebo pozornost</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.5</td><td>Zvládání vícekrokových každodenních činností</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.6</td><td>Rozhodování<br> v každodenním životě</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.7</td><td>Porozumění<br> skutečnostem a<br> informacím</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.8</td><td>Schopnost rozpoznat riziko a nebezpečí</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.9</td><td>Schopnost sdělovat základní potřeby</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.10</td><td>Schopnost porozumět žádostem</td><td>0</td><td>1</td><td>2</td><td>3</td></tr><tr><td>2.11</td><td>Schopnost konverzace</td><td>0</td><td>1</td><td>2</td><td>3</td></tr></tbody></table>
+
+3\. **Chování a psychické problémy**
+
+<table><tbody><tr><th><b>Položka</b></th><th><b>Kritéria</b></th><th colspan="4"><b>Četnost výskytu</b></th></tr><tr><th></th><th></th><th><b>Nikdy nebo velmi zřídka</b></th><th><b>Zřídka<br> (jednou až<br> třikrát<br> během dvou<br> týdnů)</b></th><th><b>Často (dvakrát až<br> několikrát týdně,<br> ale nikoli denně)</b></th><th><b>Denně</b></th></tr><tr><td>3.1</td><td>Abnormality podmíněné motorikou</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.2</td><td>Neklid v noci</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.3</td><td>Sebepoškozování a autoagresivní chování</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.4</td><td>Poškozování věcí</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.5</td><td>Fyzická agrese vůči jiným osobám</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.6</td><td>Verbální agrese</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.7</td><td>Jiné zvukové abnormality mající význam pro potřebu dlouhodobé péče</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.8</td><td>Kladení odporu proti ošetřování a jiným podpůrným opatřením</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.9</td><td>Bludy</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.10</td><td>Strach</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.11</td><td>Netečnost při depresivní náladě</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.12</td><td>Společenský neadekvátní chování</td><td>0</td><td>1</td><td>3</td><td>5</td></tr><tr><td>3.13</td><td>Jiné nevhodné chování mající význam pro potřebu dlouhodobé péče</td><td>0</td><td>1</td><td>3</td><td>5</td></tr></tbody></table>
+
+4\. **Péče o vlastní osobu**
+
+| Položka | Kritéria | Soběstačnost | Převážná soběstačnost | Převážná nesoběstačnost | Nesoběstačnost |
+|---|---|---|---|---|---|
+| 4.1 | Mytí přední horní části těla | 0 | 1 | 2 | 3 |
+| 4.2 | Péče o tělo v oblasti hlavy (česání, čištění zubů, čištění protézy, holení) | 0 | 1 | 2 | 3 |
+| 4.3 | Intimní <br> hygiena | 0 | 1 | 2 | 3 |
+| 4.4 | Sprchování a koupání včetně mytí vlasů | 0 | 1 | 2 | 3 |
+| 4.5 | Oblékání a svlékání horní části těla | 0 | 1 | 2 | 3 |
+| 4.6 | Oblékání a svlékání dolní části těla | 0 | 1 | 2 | 3 |
+| 4.7 | Krájení jídla na kousky a nalévání nápojů | 0 | 1 | 2 | 3 |
+| 4.8 | Jídlo | 0 | 3 | 6 | 9 |
+| 4.9 | Pití | 0 | 2 | 4 | 6 |
+| 4.10 | Používání toalety nebo toaletní židle | 0 | 2 | 4 | 6 |
+| 4.11 | Zvládání následků močové inkontinence a řešení problémů s permanentní mi katetry a urostomií | 0 | 1 | 2 | 3 |
+| 4.12 | Zvládání následků fekální inkontinence a řešení problémů se stomií | 0 | 1 | 2 | 3 |
+
+Jednotlivé body za kritéria uvedená v položkách 4.11 a 4.12 se do výpočtu započítávají pouze v případě, že je osoba při posuzování shledána také "převážně inkontinentní" nebo "zcela inkontinentní" nebo pokud je použito umělé odvádění stolice nebo moči.
+
+Jednotlivé body za kritérium uvedené v položce 4.13.
+
+| Položka | Kritérium | Nehodnotí se | Částečně | Zcela |
+|---|---|---|---|---|
+| 4.13 | Parenterální výživa <br> nebo výživa pomocí <br> sondy | 0 | 6 | 3 |
+
+Kritérium „Parenterální výživa nebo výživa pomocí sondy“ se nehodnotí a uvede se 0 bodů, pokud není dlouhodobě, s předpokladem trvání po dobu nejméně po 6 měsíců, nutná pravidelná a každodenní parenterální výživa nebo výživa pomocí sondy. Pokud lze parenterální výživu nebo výživu pomocí sondy provádět samostatně bez pomoci druhých, rovněž se nehodnotí a uvede se 0 bodů.
+
+Kritérium se hodnotí jako "částečně" (6 bodů), pokud se k prevenci podvýživy používá parenterální výživa nebo výživa pomocí sondy s každodenní pomocí a jako doplněk k perorálnímu příjmu potravy nebo tekutin.
+
+Kritérium se hodnotí jako "zcela" (3 body), pokud je příjem potravy nebo tekutin výhradně nebo téměř výhradně parenterální nebo prostřednictvím sondy.
+
+5\. **Soběstačnost při zvládání nároků a zátěže způsobených nemocí nebo léčbou**
+
+Jednotlivé body za kritéria v položkách 5.1 až 5.7
+
+<table><tbody><tr><th rowspan="2">Položka</th><th rowspan="2">Kritéria ve vztahu k těmto položkám</th><th rowspan="2">Žádné nebo Soběstačnost</th><th colspan="3">Počet úkonů</th></tr><tr><th>Denně</th><th>Týdně</th><th>Měsíčně</th></tr><tr><td>5.1</td><td>Léky</td><td>0</td><td></td><td></td><td></td></tr><tr><td>5.2</td><td>Injekce (subkutánní nebo intramuskulární)</td><td>0</td><td></td><td></td><td></td></tr><tr><td>5.3</td><td>Péče o intravenózní přístupy (port)</td><td>0</td><td></td><td></td><td></td></tr><tr><td>5.4</td><td>Odsávání dýchacích cest a podávání kyslíku</td><td>0</td><td></td><td></td><td></td></tr><tr><td>5.5</td><td>Vtírání látek nebo aplikace studených a teplých obkladů</td><td>0</td><td></td><td></td><td></td></tr><tr><td>5.6</td><td>Měření stavu těla a jejich interpretace</td><td>0</td><td></td><td></td><td></td></tr><tr><td>5.7</td><td>Kompenzační pomůcky používané přímo na těle</td><td>0</td><td></td><td></td><td></td></tr><tr><td colspan="2">Součet úkonů od 5.1 do 5.7</td><td>0</td><td></td><td></td><td></td></tr><tr><td colspan="2">Přepočet na úkony za den</td><td>0</td><td></td><td></td><td></td></tr></tbody></table>
+
+<table><tbody><tr><th colspan="5">Jednotlivé body za kritéria v položkách 5.1 až 5.7</th></tr><tr><th>Počet úkonů za den</th><th>Žádné nebo méně než jednou denně</th><th>Nejméně jednou až maximálně třikrát denně</th><th>Více než třikrát až maximálně osmkrát denně</th><th>Více než osmkrát denně</th></tr><tr><td>Jednotlivé body</td><td>0</td><td>1</td><td>2</td><td>3</td></tr></tbody></table>
+
+U každého z kritérií 5.1 až 5.7 se nejprve do sloupce denně zaznamená průměrný počet úkonů, které se provádějí denně a trvale, s předpokladem, že úkony se budou provádět po dobu nejméně 6 měsíců, do sloupce za týden se zaznamenají úkony, které se provádějí týdně a trvale, výhledově po dobu nejméně 6 měsíců, a do sloupce za měsíc se zaznamenají úkony, které se provádějí měsíčně a trvale, s předpokladem, že úkony se budou provádět po dobu nejméně 6 měsíců. Zohledňují se pouze úkony, které posuzovaná osoba nemůže provádět samostatně.
+
+Průměrný počet denních, týdenních a měsíčních úkonů se pro kritéria 5.1 až 5.7 sčítá. Tato četnost je přepočtena na průměrnou hodnotu za den, např. v případě, že se léky podávají 3x denně a hladina cukru v krvi se měří 1x denně, tak to odpovídá čtyřem úkonům denně. Pro přepočet úkonů za měsíc na úkony za den se součet úkonů za měsíc vydělí 30. Pro přepočet úkonů za týden na úkony za den se součet úkonů za týden vydělí 7.
+
+Jednotlivé body za kritéria v položkách 5.8 až 5.11
+
+Průměrná četnost úkonů za den pro kritéria v položkách 5.8 až 5.11 je hodnocena jednotlivými body.
+
+<table><tbody><tr><th rowspan="2">Položka</th><th rowspan="2">Kritéria ve vztahu k těmto položkám</th><th rowspan="2">Žádné nebo <br> soběstačnost</th><th colspan="3">Počet úkonů</th></tr><tr><th>Denně</th><th>Týdně</th><th>Měsíčně</th></tr><tr><td>5.8</td><td>Převazy a péče o rány</td><td>0</td><td></td><td></td><td></td></tr><tr><td>5.9</td><td>Péče o stomii</td><td>0</td><td></td><td></td><td></td></tr><tr><td>5.10</td><td>Pravidelná jednorázová katetrizace a používání projímavých metod</td><td>0</td><td></td><td></td><td></td></tr><tr><td>5.11</td><td>Terapeutické úkony v domácím prostředí</td><td>0</td><td></td><td></td><td></td></tr><tr><td colspan="2">Součet úkonů od 5.8 do 5.11</td><td>0</td><td></td><td></td><td></td></tr><tr><td colspan="2">Přepočet na úkony za den</td><td>0</td><td></td><td></td><td></td></tr></tbody></table>
+
+<table><tbody><tr><th colspan="5">Jednotlivé body za kritéria v položkách 5.8 až 5.11</th></tr><tr><th>Počet úkonů za den</th><th>Vůbec nebo méně než jednou týdně</th><th>Jednou až několikrát týdně</th><th>Jednou až méně než třikrát denně</th><th>Alespoň třikrát denně</th></tr><tr><td>Jednotlivé body</td><td>0</td><td>1</td><td>2</td><td>3</td></tr></tbody></table>
+
+U každého z kritérií 5.8 až 5.11 je nejprve ve sloupci denně uveden průměrný počet úkonů prováděných denně a dlouhodobě, u kterých je předpoklad, že budou prováděny po dobu nejméně 6 měsíců, ve sloupci týdně úkony prováděné týdně a dlouhodobě, u kterých je předpoklad, že budou prováděny nejméně po dobu 6 měsíců, a ve sloupci měsíčně úkony prováděné měsíčně a dlouhodobě, u kterých je předpoklad, že budou prováděny nejméně po dobu 6 měsíců. Zohledňují se pouze úkony, který posuzovaný nemůže provádět samostatně.
+
+Průměrný počet provedených denních, týdenních a měsíčních úkonů se sečte pro kritéria 5.8 až 5.11. Tato četnost se převede na průměrnou hodnotu za den. Pro přepočet úkonů za měsíc na úkony za den se součet úkonů za měsíc vydělí 30. Pro přepočet úkonů za týden na úkony za den se součet úkonů za týden vydělí 7.
+
+Jednotlivé body za kritéria v položkách 5.12 až 5.D.
+
+Průměrná týdenní nebo měsíční četnost časově a technicky náročných úkonů v domácím prostředí, která se vyskytují trvale, s předpokladem trvání po dobu nejméně 6 měsíců, je hodnocena v následujících kategoriích jednotlivými body, jak je dále stanoveno:
+
+| Položka | Kritérium ve vztahu k následujícím položkám | Žádné nebo soběstačnost | Denně | Týdenní frekvence vynásobená | Měsíční frekvence vynásobená |
+|---|---|---|---|---|---|
+| 5.12 | Časově a technologicky náročné úkony v domácím prostředí | 0 | 60 | 8,6 | 2 |
+
+U kritéria v položce 5.12 se nejprve zaznamená počet pravidelně a s průměrnou četností prováděných úkonů týdně a počet pravidelně a s průměrnou četností prováděných úkonů měsíčně. Pokud se úkony vyskytují pravidelně denně, např. invazivní ventilace, je uděleno 60 bodů.
+
+Každé pravidelné týdenní úkony mají hodnotu 8,6 bodu. Každé pravidelné měsíční úkony mají hodnotu 2 bodů.
+
+Průměrná týdenní nebo měsíční četnost kritérií v položkách 5.13 až 5.D se stanoví takto:
+
+| Položka | Kritéria | Žádné nebo soběstačnost | Týdenní frekvence vynásobená | Měsíční frekvence vynásobená |
+|---|---|---|---|---|
+| 5.13 | Využívání zdravotní péče u ošetřujícího lékaře | 0 | 4,3 | 1 |
+| 5.14 | Využívání zdravotní péče u jiného poskytovatele zdravotních služeb (do 3 hodin) | 0 | 4,3 | 1 |
+| 5.15 | Časově náročné využívání zdravotní péče u jiného poskytovatele zdravotních služeb (delší než 3 hodiny) | 0 | 8,6 | 2 |
+| 5.D | Využívání sociálních služeb rané péče | 0 | 4,3 | 1 |
+
+Pro každé z kritérií uvedených v položkách 5.13 až 5.D se nejprve zaznamená počet pravidelných návštěv s průměrnou frekvencí, které se konají týdně a dlouhodobě, a je předpoklad, že budou uskutečňovány po dobu nejméně 6 měsíců, a počet pravidelných návštěv s průměrnou frekvencí, které se konají měsíčně a dlouhodobě, a je předpoklad, že budou vykonávány po dobu nejméně 6 měsíců. Každá pravidelná měsíční návštěva má hodnotu jednoho bodu. Každá pravidelná týdenní návštěva má hodnotu 4,3 bodu.
+
+Body za kritéria 5.12 až 5.15, v případě dětí 5.12 až 5.D, se sčítají. Kritéria 5.12 až 5.15 a v případě dětí 5.12 až 5.D, se hodnotí na základě součtu takto dosažených bodů jednotlivými body uvedenými níže:
+
+<table><tbody><tr><th colspan="3">Celkem</th><th>Jednotlivé body</th></tr><tr><td>0</td><td>do méně než</td><td>4,3</td><td>0</td></tr><tr><td>4,3</td><td>do méně než</td><td>8,6</td><td>1</td></tr><tr><td>8,6</td><td>do méně než</td><td>12,9</td><td>2</td></tr><tr><td>12,9</td><td>do méně než</td><td>60</td><td>3</td></tr><tr><td>60 a</td><td>více</td><td></td><td>6</td></tr></tbody></table>
+
+Jednotlivé body za kritérium v položce 5.16
+
+Kritérium v položce 5.16 je hodnoceno v následovně.
+
+| Položka | Kritéria | Žádné nebo soběstačnost | Převážná soběstačnost | Převážná nesoběstačnost | Nesoběstačnost |
+|---|---|---|---|---|---|
+| 5.16 | Dodržování diety a jiného chování souvisejícího s nemocí nebo léčbou | 0 | 1 | 2 | 3 |
+
+6\. **Organizace každodenního života a sociálních kontaktů**
+
+| Položka | Kritéria | Soběstačnost | Převážná soběstačnost | Převážná nesoběstačnost | Nesoběstačnost |
+|---|---|---|---|---|---|
+| 6.1 | Organizace denního režimu a přizpůsobení se změnám | 0 | 1 | 2 | 3 |
+| 6.2 | Odpočinek a spánek | 0 | 1 | 2 | 3 |
+| 6.3 | Zabývání se činnostmi | 0 | 1 | 2 | 3 |
+| 6.4 | Plánování do budoucna | 0 | 1 | 2 | 3 |
+| 6.5 | Interakce s osobami v bezprostředním kontaktu | 0 | 1 | 2 | 3 |
+| 6.6 | Udržování kontaktů s lidmi mimo bezprostřední okolí | 0 | 1 | 2 | 3 |
+
+B. **Systém hodnocení: počet bodů v oblastech a vážené body**
+
+Pro stanovení vážených bodů se sečtou jednotlivé body pro oblasti 1 až 6 a přiřadí se k bodovému rozpětí pro danou oblast uvedenou v tabulce převodu jednotlivých bodů na vážené body a stanoví se výsledný počet vážených bodů pro jednotlivé oblasti. Oblastem 2 a 3 se přidělí společné vážené body, kterými jsou nejvyšší vážené body oblasti 2 nebo oblasti 3.
+
+Celkový počet vážených bodů se stanoví sečtením vážených bodů získaných v jednotlivých oblastech. Vážené body jsou body, podle kterých se určuje stupeň omezení soběstačnosti.
+
+Tabulka převodu bodů na vážené body
+
+Míra omezení soběstačnosti
+
+<table><tbody><tr><th colspan="4">Oblast</th><th>Váha</th><th>0<br> Žádná</th><th>1<br> Nízká</th><th>2<br> Významná</th><th>3<br> Těžká</th><th>4<br> Nejtěžší</th><th></th></tr><tr><td rowspan="2">1</td><td colspan="3" rowspan="2">Mobilita</td><td rowspan="2"><b>10 %</b></td><td>0–1</td><td>2–3</td><td>4–5</td><td>6–9</td><td>10–15</td><td>Součet jednotlivých bodů v oblasti 1</td></tr><tr><td><b>0</b></td><td><b>2,5</b></td><td><b>5</b></td><td><b>7,5</b></td><td><b>10</b></td><td>Vážené body v oblasti 1</td></tr><tr><td>2</td><td colspan="3">Kognitivní a komunikační schopnosti</td><td rowspan="3"><b>15 %</b></td><td>0–1</td><td>2–5</td><td>6–10</td><td>11–16</td><td>17–33</td><td>Součet jednotlivých bodů v oblasti 2</td></tr><tr><td>3</td><td colspan="3">Chování a psychické problémy</td><td>0</td><td>1–2</td><td>3–4</td><td>5–6</td><td>7–65</td><td>Součet jednotlivých bodů v oblasti 3</td></tr><tr><td colspan="2"></td><td colspan="2">Nejvyšší hodnota z oblasti 2 nebo oblasti 3</td><td><b>0</b></td><td><b>3,75</b></td><td><b>7,5</b></td><td><b>11,25</b></td><td><b>15</b></td><td>Vážené body za oblasti 2 a 3</td></tr><tr><td rowspan="2">4</td><td colspan="3" rowspan="2">Péče o vlastní osobu</td><td rowspan="2"><b>40 %</b></td><td>0–2</td><td>3–7</td><td>8–18</td><td>19–36</td><td>37–54</td><td>Součet jednotlivých bodů v oblasti 4</td></tr><tr><td><b>0</b></td><td><b>10</b></td><td><b>20</b></td><td><b>30</b></td><td><b>40</b></td><td>Vážené body v oblasti 4</td></tr><tr><td rowspan="2">5</td><td colspan="3" rowspan="2">Zvládání a soběstačnost při zvládání nároků a zátěže způsobených nemocí nebo léčbou</td><td rowspan="2"><b>20 %</b></td><td>0</td><td>1</td><td>2–3</td><td>4–5</td><td>6–15</td><td>Součet jednotlivých bodů v oblasti 5</td></tr><tr><td><b>0</b></td><td><b>5</b></td><td><b>10</b></td><td><b>15</b></td><td><b>20</b></td><td>Vážené body v oblasti 5</td></tr><tr><td rowspan="2">6</td><td colspan="3" rowspan="2">Organizace každodenního života a sociálních kontaktů</td><td rowspan="2"><b>15 %</b></td><td>0</td><td>1–3</td><td>4–6</td><td>7–11</td><td>12–18</td><td>Součet jednotlivých bodů v oblasti 6</td></tr><tr><td><b>0</b></td><td><b>3,75</b></td><td><b>7,5</b></td><td><b>11,25</b></td><td><b>15</b></td><td>Vážené body v oblasti 6</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Čl. 12 a 13 Směrnice Rady 2001/55/ES ze dne 20. července 2001 o minimálních normách pro poskytování dočasné ochrany v případě hromadného přílivu vysídlených osob a o opatřeních k zajištění rovnováhy mezi členskými státy při vynakládání úsilí v souvislosti s přijetím těchto osob a s následky z toho plynoucími.
+
+<sup>2</sup>) Zákon č. 65/2022 Sb., o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace.
+
+<sup>3</sup>) § 4a zákona č. 73/2011 Sb., o Úřadu práce České republiky a o změně souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění pozdějších předpisů.

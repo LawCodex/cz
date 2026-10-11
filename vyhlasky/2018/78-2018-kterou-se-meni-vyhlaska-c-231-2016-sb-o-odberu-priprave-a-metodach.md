@@ -1,0 +1,62 @@
+---
+title: "Vyhláška č. 78/2018 Sb., kterou se mění vyhláška č. 231/2016 Sb., o odběru, přípravě a metodách zkoušení kontrolních vzorků potravin a tabákových výrobků"
+identifier: "78/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/78/2018-05-30"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2018-05-04
+effective: 2018-05-30
+last_amended: 2018-05-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/78"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 78/2018 Sb., kterou se mění vyhláška č. 231/2016 Sb., o odběru, přípravě a metodách zkoušení kontrolních vzorků potravin a tabákových výrobků
+
+78
+
+VYHLÁŠKA
+
+ze dne 4. května 2018,
+
+kterou se mění vyhláška č. 231/2016 Sb., o odběru, přípravě a metodách zkoušení kontrolních vzorků potravin a tabákových výrobků
+
+Ministerstvo zemědělství stanoví podle § 18 odst. 1 písm. m) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 139/2014 Sb. a zákona č. 180/2016 Sb.:
+
+## Čl. I
+
+Vyhláška č. 231/2016 Sb., o odběru, přípravě a metodách zkoušení kontrolních vzorků potravin a tabákových výrobků, se mění takto:
+
+1\. V § 2 se na konci písmene j) tečka nahrazuje čárkou a doplňuje se písmeno k), které zní:
+
+> „k) stěrem odběr vzorku z míst nebo zařízení používaných při výrobě potravin nebo jejich uvádění na trh.“.
+
+2\. V § 4 odst. 1 písm. d) se slovo „nebo“ zrušuje.
+
+3\. V § 4 se na konci odstavce 1 tečka nahrazuje slovem „, nebo“ a doplňuje se písmeno f), které zní:
+
+> „f) stěrem.“.
+
+4\. V § 6 odst. 2 písmeno b) zní:
+
+> „b) označení kontrolované osoby a osoby, od níž byl vzorek odebrán, je-li odlišná od kontrolované osoby, pokud jsou tyto osoby známy,“.
+
+5\. V § 6 odst. 2 se na konci textu písmene c) doplňují slova „pokud není uveden, jiné označení vzorku nahrazující název, které je stanoveno při odběru,“.
+
+6\. V § 6 odst. 2 se na konci textu písmene d) doplňují slova „jsou-li uvedeny,“.
+
+7\. V § 6 odst. 2 písm. f) bodě 7 se slova „a podpis kontrolované osoby, popřípadě jejího zástupce,“ zrušují.
+
+8\. V § 6 se doplňuje odstavec 3, který zní:
+
+> „(3) Nesprávnosti v záznamu o odběru vzorku opraví kontrolní orgán formou dodatku k záznamu o odběru vzorku. Dodatkem k záznamu o odběru vzorku lze také změnit účel odběru vzorku uvedený v záznamu, je-li to nezbytné pro ochranu spotřebitele a nedojde-li změnou k překročení předmětu kontroly.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministr:
+
+Ing. Milek v. r.

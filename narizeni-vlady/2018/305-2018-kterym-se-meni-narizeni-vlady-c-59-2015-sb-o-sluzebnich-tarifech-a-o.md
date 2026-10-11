@@ -1,0 +1,83 @@
+---
+title: "Nařízení vlády č. 305/2018 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů"
+identifier: "305/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/305/2019-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2018-12-12
+effective: 2019-01-01
+last_amended: 2019-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/305"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 305/2018 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+305
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 12. prosince 2018,
+
+kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 68 odst. 2 a 4 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 332/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění nařízení vlády č. 282/2015 Sb., nařízení vlády č. 346/2016 Sb., nařízení vlády č. 427/2016 Sb., nařízení vlády č. 175/2017 Sb. a č. 328/2017 Sb., se mění takto:
+
+1\. V § 2 odstavec 1 zní:
+
+> „(1) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 2 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | 13 350 |
+> | Svobodník | 25 350 |
+> | Desátník | 26 790 |
+> | Četař | 28 370 |
+> | Rotný | 33 080 |
+> | Rotmistr | 35 440 |
+> | Nadrotmistr | 37 820 |
+> | Praporčík | 40 440 |
+> | Nadpraporčík | 43 300 |
+> | Štábní praporčík | 56 420 |
+> | Poručík | 38 060 |
+> | Nadporučík | 43 300 |
+> | Kapitán | 49 870 |
+> | Major | 56 420 |
+> | Podplukovník | 62 990 |
+> | Plukovník | 76 110 |
+> | Brigádní generál | 89 230 |
+> | Generálmajor | 102 330 |
+> | Generálporučík | 115 460 |
+> | Armádní generál | 128 570“. |
+
+2\. V § 2 odstavec 2 zní:
+
+> „(2) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 4 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | 13 350 |
+> | Svobodník | 13 840 |
+> | Desátník | 14 330 |
+> | Četař | 14 820 |
+> | Rotný | 15 300 |
+> | Rotmistr | 15 790 |
+> | Nadrotmistr | 16 270“. |
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2019.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr obrany:
+
+Mgr. Metnar v. r.

@@ -1,0 +1,82 @@
+---
+title: "Vyhláška č. 361/2019 Sb., o vzoru průkazu zaměstnance a státního zaměstnance pověřeného výkonem kontroly elektronických komunikací a poštovních služeb"
+identifier: "361/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/361/2020-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2019-12-20
+effective: 2020-01-01
+last_amended: 2020-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/361"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 361/2019 Sb., o vzoru průkazu zaměstnance a státního zaměstnance pověřeného výkonem kontroly elektronických komunikací a poštovních služeb
+
+361
+
+VYHLÁŠKA
+
+ze dne 20. prosince 2019
+
+o vzoru průkazu zaměstnance a státního zaměstnance pověřeného výkonem kontroly elektronických komunikací a poštovních služeb
+
+Ministerstvo průmyslu a obchodu stanoví podle § 150 odst. 2 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 110/2007 Sb., zákona č. 153/2010 Sb., zákona č. 468/2011 Sb., zákona č. 214/2013 Sb. a zákona č. 258/2014 Sb., k provedení § 113 odst. 8 zákona o elektronických komunikacích, a podle § 41 odst. 3 zákona č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění zákona č. 95/2005 Sb., zákona č. 221/2012 Sb., zákona č. 258/2014 Sb., k provedení § 37 odst. 2 písm. a) zákona o poštovních službách:
+
+## § 1
+
+Vzor průkazu státního zaměstnance pověřeného výkonem kontroly v oblasti elektronických komunikací a poštovních služeb je uveden v příloze č. 1 k této vyhlášce. Průkaz se umísťuje na rubovou stranu průkazu státního zaměstnance podle jiného právního předpisu<sup>1</sup>).
+
+## § 2
+
+Vzor průkazu zaměstnance pověřeného výkonem kontroly v oblasti elektronických komunikací a poštovních služeb je uveden v příloze č. 2 k této vyhlášce.
+
+## § 3 – Zrušovací ustanovení
+
+Vyhláška č. 209/2017 Sb., o vzoru průkazu zaměstnance Českého telekomunikačního úřadu pověřeného výkonem kontroly elektronických komunikací a poštovních služeb, se zrušuje.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2020.
+
+Ministr:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.
+
+### Příloha č. 1 k vyhlášce č. 361/2019 Sb.
+
+#### Vzor průkazu státního zaměstnance pověřeného výkonem kontroly elektronických komunikací a poštovních služeb
+
+1\. Popis rubové strany průkazu
+
+Na rubové straně průkazu státního zaměstnance jsou na prvním až druhém řádku uvedena slova „PRŮKAZ STÁTNÍHO ZAMĚSTNANCE POVĚŘENÉHO VÝKONEM KONTROLY ELEKTRONICKÝCH KOMUNIKACÍ A POŠTOVNÍCH SLUŽEB“. Na třetím řádku jsou uvedena slova „Držitel služebního průkazu státního zaměstnance Českého telekomunikačního úřadu“. Na čtvrtém řádku jsou uvedena slova „Číslo služebního průkazu“ včetně čísla v rámečku. Na pátém a šestém řádku jsou uvedena slova „je pověřenou osobou k výkonu kontroly elektronických komunikací a poštovních služeb“. Ve spodní části na sedmém řádku vlevo jsou uvedeny místo a datum vydání slovy „V Praze dne“ a na osmém a devátém řádku vpravo je uvedeno „podpis předsedy Rady Českého telekomunikačního úřadu“. Ve středu průkazu je na pozadí textu umístěno logo Českého telekomunikačního úřadu v barevném provedení a ve spodní části jsou uvedena slova „Český telekomunikační úřad“ v barevném provedení.
+
+2\. Vyobrazení rubové strany průkazu
+
+##### ![sbcr2019c151z0361p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889309/NAHLED/ZOBRAZ/sbcr2019c151z0361p001o001)
+
+### Příloha č. 2 k vyhlášce č. 361/2019 Sb.
+
+#### Vzor průkazu zaměstnance pověřeného výkonem kontroly elektronických komunikací a poštovních služeb
+
+1\. Popis průkazu
+
+a) Na lícové straně průkazu je v levé horní části umístěno digitální zpracování barevné fotografie zaměstnance o rozměrech 26 x 34 mm. Požadavky na technické provedení fotografie odpovídají technickým požadavkům kladeným na fotografie pro vydání občanského průkazu. Ve středové části průkazu je na prvním řádku uveden název kontrolního orgánu slovy „ČESKÝ TELEKOMUNIKAČNÍ ÚŘAD“. Na druhém řádku vpravo je uvedeno evidenční číslo průkazu. Na třetím řádku je uvedeno označení průkazu slovy „PRŮKAZ ZAMĚSTNANCE“. Na čtvrtém řádku je uvedeno jméno, příjmení a titul zaměstnance. Na pátém řádku uprostřed je uvedena funkce zaměstnance. Na úrovni čtvrtého a pátého řádku je v pravé části průkazu umístěn velký státní znak České republiky.
+
+b) Na rubové straně průkazu jsou na prvním až třetím řádku uvedena slova „PRŮKAZ ZAMĚSTNANCE POVĚŘENÉHO VÝKONEM KONTROLY ELEKTRONICKÝCH KOMUNIKACÍ A POŠTOVNÍCH SLUŽEB“, na čtvrtém řádku slova „Držitel průkazu zaměstnance Českého telekomunikačního úřadu“ a na pátém řádku slova „Ev. č. průkazu“ včetně čísla v rámečku. Na šestém řádku jsou uvedena slova „je pověřenou osobou k výkonu kontroly elektronických komunikací a poštovních služeb“. Ve spodní části na sedmém řádku vlevo jsou uvedeny místo a datum vydání slovy „V Praze dne“ a na osmém a devátém řádku vpravo je uvedeno „podpis předsedy Rady Českého telekomunikačního úřadu“. Ve středu průkazu je na pozadí textu umístěno logo Českého telekomunikačního úřadu v barevném provedení a ve spodní části jsou uvedena slova „Český telekomunikační úřad“ v barevném provedení.
+
+c) Průkaz je vytištěn na bílé plastové samolepící fólii umístěné na plastové kartě o rozměrech 85,60 x 53,98 mm se zakulacenými rohy s poloměrem 2,88 až 3,48 mm.
+
+2\. Vyobrazení lícové strany průkazu
+
+##### ![sbcr2019c151z0361p002o001_2020c004o1c42020.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889311/NAHLED/ZOBRAZ/sbcr2019c151z0361p002o001_2020c004o1c42020)
+
+3\. Vyobrazení rubové strany průkazu
+
+##### ![sbcr2019c151z0361p002o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889313/NAHLED/ZOBRAZ/sbcr2019c151z0361p002o002)
+
+---
+
+<sup>1</sup>) Vyhláška č. 388/2017 Sb., o vzoru služebního průkazu státního zaměstnance.

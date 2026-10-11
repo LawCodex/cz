@@ -1,0 +1,56 @@
+---
+title: "Nařízení vlády č. 358/2024 Sb., kterým se mění nařízení vlády č. 182/2007 Sb., o odchylné úpravě pracovní doby a doby odpočinku členů jednotky hasičského záchranného sboru podniku, ve znění pozdějších předpisů"
+identifier: "358/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/358/2024-12-05"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2024-11-27
+effective: 2024-12-05
+last_amended: 2024-12-05
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/358"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 358/2024 Sb., kterým se mění nařízení vlády č. 182/2007 Sb., o odchylné úpravě pracovní doby a doby odpočinku členů jednotky hasičského záchranného sboru podniku, ve znění pozdějších předpisů
+
+358
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 27. listopadu 2024,
+
+kterým se mění nařízení vlády č. 182/2007 Sb., o odchylné úpravě pracovní doby a doby odpočinku členů jednotky hasičského záchranného sboru podniku, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 100 odst. 2 zákona č. 262/2006 Sb., zákoník práce, ve znění zákona č. 362/2007 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 182/2007 Sb., o odchylné úpravě pracovní doby a doby odpočinku členů jednotky hasičského záchranného sboru podniku, ve znění nařízení vlády č. 202/2024 Sb., se mění takto:
+
+1\. V § 2 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Délka pracovní doby může činit nejvýše 24 hodin během 26 hodin po sobě jdoucích, je-li člen jednotky starší 18 let a je-li povolán k plnění úkolu podle § 70 odst. 1 písm. a) nebo b) zákona o požární ochraně.“.
+
+2\. § 3 včetně poznámky pod čarou č. 3 zní:
+
+> **„§ 3**
+
+> (1) Nepřetržitý denní odpočinek<sup>3</sup>) může být zkrácen členu jednotky staršímu 18 let až na 8 hodin během 24 hodin po sobě jdoucích, pokud je toto zkrácení nezbytně nutné k zabezpečení akceschopnosti jednotky hasičského záchranného sboru podniku. Nepřetržitý denní odpočinek zkrácený podle věty první se členu jednotky nahradí v následujícím týdnu.
+
+> (2) Nebude-li členu jednotky v důsledku stanovení délky pracovní doby podle § 2 odst. 2 poskytnut ani zkrácený nepřetržitý denní odpočinek podle odstavce 1, poskytne mu zaměstnavatel bezprostředně po skončení pracovní doby nepřetržitý denní odpočinek, který tvoří doba neposkytnutého nepřetržitého denního odpočinku a na něj bezprostředně navazující doba nepřetržitého denního odpočinku podle § 90 odst. 1 zákoníku práce. Odpočinek podle věty první nesmí být zkrácen. Odstavec 1 se v takovém případě nepoužije.
+
+> <sup>3</sup>) § 90 odst. 1 zákoníku práce, ve znění pozdějších předpisů.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+Ing. Jurečka v. r.

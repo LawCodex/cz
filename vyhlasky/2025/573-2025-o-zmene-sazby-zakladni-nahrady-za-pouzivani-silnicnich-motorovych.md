@@ -1,0 +1,80 @@
+---
+title: "Vyhláška č. 573/2025 Sb., o změně sazby základní náhrady za používání silničních motorových vozidel a stravného a o stanovení průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad pro rok 2026"
+identifier: "573/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/573/2026-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-12-18
+effective: 2026-01-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/573"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 573/2025 Sb., o změně sazby základní náhrady za používání silničních motorových vozidel a stravného a o stanovení průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad pro rok 2026
+
+573
+
+VYHLÁŠKA
+
+ze dne 18. prosince 2025
+
+o změně sazby základní náhrady za používání silničních motorových vozidel a stravného a o stanovení průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad pro rok 2026
+
+Ministerstvo práce a sociálních věcí stanoví podle § 189 odst. 1 zákona č. 262/2006 Sb., zákoník práce:
+
+## § 1 – Sazba základní náhrady za používání silničních motorových vozidel
+
+Sazba základní náhrady za 1 km jízdy podle § 157 odst. 4 zákoníku práce činí
+
+a) u jednostopých vozidel a tříkolek 1,60 Kč,
+
+b) u osobních silničních motorových vozidel 5,90 Kč.
+
+**Stravné**
+
+## § 2
+
+Výše stravného podle § 163 odst. 1 zákoníku práce za každý kalendářní den pracovní cesty činí nejméně
+
+a) 155 Kč, trvá-li pracovní cesta 5 až 12 hodin,
+
+b) 236 Kč, trvá-li pracovní cesta déle než 12 hodin, nejdéle však 18 hodin,
+
+c) 370 Kč, trvá-li pracovní cesta déle než 18 hodin.
+
+## § 3
+
+Výše stravného podle § 176 odst. 1 zákoníku práce za každý kalendářní den pracovní cesty činí
+
+a) 155 Kč až 185 Kč, trvá-li pracovní cesta 5 až 12 hodin,
+
+b) 236 Kč až 284 Kč, trvá-li pracovní cesta déle než 12 hodin, nejdéle však 18 hodin,
+
+c) 370 Kč až 442 Kč, trvá-li pracovní cesta déle než 18 hodin.
+
+## § 4 – Průměrná cena pohonných hmot
+
+Výše průměrné ceny pohonné hmoty podle § 158 odst. 3 věty třetí zákoníku práce činí
+
+a) 41,80 Kč za 1 litr benzinu automobilového 95 oktanů,
+
+b) 39 Kč za 1 litr benzinu automobilového 98 oktanů,
+
+c) 44,50 Kč za 1 litr motorové nafty,
+
+d) 7,20 Kč za 1 kilowatthodinu elektřiny.
+
+## § 5 – Zrušovací ustanovení
+
+Vyhláška č. 475/2024 Sb., o změně sazby základní náhrady za používání silničních motorových vozidel a stravného a o stanovení průměrné ceny pohonných hmot pro účely poskytování cestovních náhrad pro rok 2025, se zrušuje.
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr:
+
+Ing. Juchelka v. r.

@@ -1,0 +1,54 @@
+---
+title: "Zákon č. 266/2024 Sb., kterým se mění zákon č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu, ve znění pozdějších předpisů"
+identifier: "266/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/266/2024-11-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2024-08-22
+effective: 2024-11-01
+last_amended: 2024-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/266"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 266/2024 Sb., kterým se mění zákon č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu, ve znění pozdějších předpisů
+
+266
+
+ZÁKON
+
+ze dne 22. srpna 2024,
+
+kterým se mění zákon č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu, ve znění zákona č. 250/2014 Sb., zákona č. 318/2015 Sb., zákona č. 195/2016 Sb., zákona č. 261/2021 Sb., zákona č. 412/2023 Sb. a zákona č. 28/2024 Sb., se mění takto:
+
+1\. V § 6 odst. 2 větě první se slovo „Pokud“ nahrazuje slovy „Se souhlasem osoby oprávněné podat žádost podle odstavce 1, anebo pokud“, slova „občanské sdružení nebo jiná“ se nahrazují slovy „ředitel Ústavu pro studium totalitních režimů,“, slovo „jejichž“ se nahrazuje slovem „jejímž“ a slova „občanské sdružení“ se nahrazují slovem „spolek“.
+
+2\. V § 6 odst. 2 se za slovo „manžel“ vkládají slova „nebo partner“.
+
+3\. V § 6 odst. 2 větě druhé se slovo „vždy“ nahrazuje slovy „pokud je žádost podána za osobu, která zemřela nebo byla prohlášena za mrtvou,“.
+
+4\. V § 6 se na konci odstavce 2 doplňuje věta „Pokud žádost podává ředitel Ústavu pro studium totalitních režimů, k žádosti přiloží odborné stanovisko Ústavu pro studium totalitních režimů.“.
+
+5\. V § 6 odst. 3 větě první se za slovo „režimů“ vkládají slova „ , pokud nepodal žádost ředitel Ústavu pro studium totalitních režimů,“.
+
+6\. V § 6 odst. 3 větě poslední se za slovo „manželům“ vkládá slovo „ , partnerům“ a za slovo „manžel“ se vkládá slovo „ , partner“.
+
+7\. V § 7 odst. 8 se věta poslední nahrazuje větou „Předsedovi a ostatním členům Komise náleží odměna, jejíž výši stanoví vláda usnesením, a cestovní náhrady, které se poskytují ve výši a za podmínek stanovených zákoníkem práce, přičemž za pravidelné pracoviště člena Komise se považuje jeho bydliště.“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po jeho vyhlášení.
+
+Pekarová Adamová v. r.
+
+Pavel v. r.
+
+Fiala v. r.

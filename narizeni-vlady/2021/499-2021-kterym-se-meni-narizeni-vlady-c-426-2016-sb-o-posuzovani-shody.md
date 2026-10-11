@@ -1,0 +1,56 @@
+---
+title: "Nařízení vlády č. 499/2021 Sb., kterým se mění nařízení vlády č. 426/2016 Sb., o posuzování shody rádiových zařízení při jejich dodávání na trh"
+identifier: "499/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/499/2022-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2021-12-06
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/499"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 499/2021 Sb., kterým se mění nařízení vlády č. 426/2016 Sb., o posuzování shody rádiových zařízení při jejich dodávání na trh
+
+499
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 6. prosince 2021,
+
+kterým se mění nařízení vlády č. 426/2016 Sb., o posuzování shody rádiových zařízení při jejich dodávání na trh
+
+Vláda nařizuje podle § 4 zákona č. 90/2016 Sb., o posuzování shody stanovených výrobků při jejich dodávání na trh:
+
+## Čl. I
+
+Nařízení vlády č. 426/2016 Sb., o posuzování shody rádiových zařízení při jejich dodávání na trh, se mění takto:
+
+1\. V § 3 odst. 3 písm. g) se slova „tísňovému volání“ nahrazují slovy „tísňové komunikaci“.
+
+2\. V příloze č. 1 bod 3 včetně poznámek pod čarou č. 9 a 11 zní:
+
+> „3. Letecké vybavení, pokud toto vybavení spadá do oblasti působnosti přímo použitelného předpisu Evropské unie upravujícího společná pravidla v oblasti civilního letectví<sup>9</sup>) a je určeno výlučně pro použití ve vzduchu:
+
+> a) letadla, kromě bezpilotních letadel, a jejich motory, vrtule, letadlové části a nezastavěné vybavení,
+
+> b) bezpilotní letadla a jejich motory, vrtule, letadlové části a nezastavěné vybavení, jejichž návrh byl certifikován v souladu s přímo použitelným předpisem Evropské unie upravujícím společná pravidla v oblasti civilního letectví<sup>11</sup>) a jež jsou určeny k provozu pouze na frekvencích přidělených na základě Radiokomunikačního řádu Mezinárodní telekomunikační unie pro chráněné letecké použití.
+
+> <sup>9</sup>) Nařízení Evropského parlamentu a Rady (EU) 2018/1139 ze dne 4. července 2018 o společných pravidlech v oblasti civilního letectví a o zřízení Agentury Evropské unie pro bezpečnost letectví, kterým se mění nařízení (ES) č. 2111/2005, (ES) č. 1008/2008, (EU) č. 996/2010, (EU) č. 376/2014 a směrnice Evropského parlamentu a Rady 2014/30/EU a 2014/53/EU a kterým se zrušuje nařízení Evropského parlamentu a Rady (ES) č. 552/2004 a (ES) č. 216/2008 a nařízení Rady (EHS) č. 3922/91, v platném znění.
+
+> <sup>11</sup>) Čl. 56 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2018/1139.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2022.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Místopředseda vlády, ministr průmyslu a obchodu a ministr dopravy:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

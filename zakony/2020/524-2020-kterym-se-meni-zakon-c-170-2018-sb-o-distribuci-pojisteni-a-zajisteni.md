@@ -1,0 +1,64 @@
+---
+title: "Zákon č. 524/2020 Sb., kterým se mění zákon č. 170/2018 Sb., o distribuci pojištění a zajištění, ve znění zákona č. 119/2020 Sb., a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů"
+identifier: "524/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/524/2020-12-11"
+type: act
+jurisdiction: cz
+language: cs
+date: 2020-12-03
+effective: 2020-12-11
+last_amended: 2020-12-11
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/524"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 524/2020 Sb., kterým se mění zákon č. 170/2018 Sb., o distribuci pojištění a zajištění, ve znění zákona č. 119/2020 Sb., a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+524
+
+ZÁKON
+
+ze dne 3. prosince 2020,
+
+kterým se mění zákon č. 170/2018 Sb., o distribuci pojištění a zajištění, ve znění zákona č. 119/2020 Sb., a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o distribuci pojištění a zajištění
+
+### Čl. I
+
+Zákon č. 170/2018 Sb., o distribuci pojištění a zajištění, ve znění zákona č. 119/2020 Sb., se mění takto:
+
+1\. V § 56 odst. 6 se číslo „42“ nahrazuje číslem „43“.
+
+2\. V § 120 odstavec 6 zní:
+
+> „(6) Oprávnění k činnosti samostatného zprostředkovatele, které vzniklo podle odstavce 4, zaniká, neoznámí-li tento samostatný zprostředkovatel České národní bance prostřednictvím aplikace České národní banky pro registraci subjektů do 30 měsíců ode dne nabytí účinnosti tohoto zákona
+
+> a) předmět činnosti v členění podle jednotlivých skupin odbornosti, a to po vykonání odborné zkoušky,
+
+> b) osoby, s nimiž je úzce propojen nebo které na něm mají přímý nebo nepřímý podíl převyšující 10 % na hlasovacích právech nebo na základním kapitálu, a
+
+> c) osoby uvedené v § 42 odst. 1 písm. e).“.
+
+3\. V § 122 odst. 1 se číslo „24“ nahrazuje číslem „30“.
+
+## ČÁST DRUHÁ – Změna zákona o správních poplatcích
+
+### Čl. II
+
+V položce 65 přílohy k zákonu č. 634/2004 Sb., o správních poplatcích, ve znění zákona č. 56/2006 Sb., zákona č. 230/2008 Sb., zákona č. 420/2009 Sb., zákona č. 188/2011 Sb., zákona č. 428/2011 Sb., zákona č. 37/2012 Sb., zákona č. 399/2012 Sb., zákona č. 241/2013 Sb., zákona č. 148/2016 Sb., zákona č. 258/2016 Sb., zákona č. 204/2017 Sb., zákona č. 371/2017 Sb., zákona č. 171/2018 Sb. a zákona č. 119/2020 Sb., se v poznámce číslo „30“ nahrazuje číslem „3“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. III
+
+Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+v z. Filip v. r.
+
+Zeman v. r.
+
+Babiš v. r.

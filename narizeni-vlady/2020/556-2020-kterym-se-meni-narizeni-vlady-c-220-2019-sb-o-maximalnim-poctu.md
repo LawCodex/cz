@@ -1,0 +1,91 @@
+---
+title: "Nařízení vlády č. 556/2020 Sb., kterým se mění nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu"
+identifier: "556/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/556/2021-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2020-12-14
+effective: 2021-01-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/556"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 556/2020 Sb., kterým se mění nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu
+
+556
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. prosince 2020,
+
+kterým se mění nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu
+
+Vláda nařizuje k provedení § 181b zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 176/2019 Sb.:
+
+## Čl. I
+
+Příloha č. 2 k nařízení vlády č. 220/2019 Sb., o maximálním počtu žádostí o vízum k pobytu nad 90 dnů za účelem podnikání, žádostí o povolení k dlouhodobému pobytu za účelem investování a žádostí o zaměstnaneckou kartu, které lze podat na zastupitelském úřadu, zní:
+
+> **„Příloha č. 2 k nařízení vlády č. 220/2019 Sb.**
+
+> **Maximální počet žádostí o zaměstnaneckou kartu**
+
+> | 1 | 2 | 3 | 4 |
+> |---|---|---|---|
+> | Zastupitelský úřad | Maximální počet žádostí, které lze podat v rámci období 1 roku | Program vysoce kvalifikovaný zaměstnanec nebo Program klíčový a vědecký personál | Program kvalifikovaný zaměstnanec |
+> | Abudža | 90 | 60 | 0 |
+> | Addis Abeba | 90 | 60 | 0 |
+> | Akkra | 90 | 60 | 0 |
+> | Alžír | 90 | 60 | 0 |
+> | Ammán | 90 | 60 | 0 |
+> | Ankara | 300 | 100 | 0 |
+> | Bagdád | 60 | 60 | 0 |
+> | Baku | 210 | 60 | 0 |
+> | Bangkok | 280 | 60 | 0 |
+> | Bejrút | 90 | 60 | 0 |
+> | Bělehrad | 3 000 | 100 | 2 500 |
+> | Damašek | 60 | 60 | 0 |
+> | Dillí | 1 100 | 500 | 600 |
+> | Erbíl | 60 | 60 | 0 |
+> | Hanoj | 200 | 200 | 0 |
+> | Islámábád | 60 | 60 | 0 |
+> | Istanbul | 300 | 100 | 0 |
+> | Jakarta | 130 | 60 | 0 |
+> | Jerevan | 210 | 60 | 0 |
+> | Kábul | 60 | 60 | 0 |
+> | Káhira | 110 | 80 | 0 |
+> | Kišiněv | 800 | 100 | 600 |
+> | Kyjev | 1 600 | 500 | 1 100 |
+> | Lusaka | 90 | 60 | 0 |
+> | Lvov | 40 000 | 0 | 40 000 |
+> | Manila | 2 200 | 100 | 2 000 |
+> | Minsk | 2 200 | 200 | 1 900 |
+> | Nairobi | 90 | 60 | 0 |
+> | Nursultan (Astana) | 360 | 60 | 300 |
+> | Pchjongjang | 0 | 0 | 0 |
+> | Pretoria | 90 | 60 | 0 |
+> | Rabat | 90 | 60 | 0 |
+> | Sarajevo | 510 | 60 | 0 |
+> | Skopje | 230 | 60 | 0 |
+> | Taškent | 130 | 60 | 0 |
+> | Tbilisi | 330 | 60 | 0 |
+> | Teherán | 90 | 60 | 0 |
+> | Tunis | 90 | 60 | 0 |
+> | Ulánbátar | 1 230 | 60 | 1 000 |
+>
+> “.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2021.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Hamáček v. r.

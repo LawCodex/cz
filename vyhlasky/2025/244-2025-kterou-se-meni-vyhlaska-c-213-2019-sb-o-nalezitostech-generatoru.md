@@ -1,0 +1,44 @@
+---
+title: "Vyhláška č. 244/2025 Sb., kterou se mění vyhláška č. 213/2019 Sb., o náležitostech generátoru přidělování zajišťujících přidělování insolvenčních věcí náhodným výběrem, způsobu provozování generátoru přidělování a obsahu rozvrhu práce a způsobu jeho sestavení za účelem použití generátoru přidělování (vyhláška o generátoru přidělování)"
+identifier: "244/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/244/2025-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-07-15
+effective: 2025-08-01
+last_amended: 2025-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/244"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 244/2025 Sb., kterou se mění vyhláška č. 213/2019 Sb., o náležitostech generátoru přidělování zajišťujících přidělování insolvenčních věcí náhodným výběrem, způsobu provozování generátoru přidělování a obsahu rozvrhu práce a způsobu jeho sestavení za účelem použití generátoru přidělování (vyhláška o generátoru přidělování)
+
+244
+
+VYHLÁŠKA
+
+ze dne 15. července 2025,
+
+kterou se mění vyhláška č. 213/2019 Sb., o náležitostech generátoru přidělování zajišťujících přidělování insolvenčních věcí náhodným výběrem, způsobu provozování generátoru přidělování a obsahu rozvrhu práce a způsobu jeho sestavení za účelem použití generátoru přidělování (vyhláška o generátoru přidělování)
+
+Ministerstvo spravedlnosti stanoví podle § 45 odst. 1 a 3 zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákona o soudech a soudcích), ve znění zákona č. 296/2017 Sb. a zákona č. 285/2023 Sb.:
+
+## Čl. I
+
+Ve vyhlášce č. 213/2019 Sb., o náležitostech generátoru přidělování zajišťujících přidělování insolvenčních věcí náhodným výběrem, způsobu provozování generátoru přidělování a obsahu rozvrhu práce a způsobu jeho sestavení za účelem použití generátoru přidělování (vyhláška o generátoru přidělování), se za § 5 vkládá nový § 5a, který včetně nadpisu zní:
+
+> **„§ 5a – Přidělování restrukturalizačních věcí**
+
+> (1) Pro přidělování restrukturalizačních věcí soudním oddělením podle rozvrhu práce restrukturalizačního soudu se § 1 až 5 použijí obdobně.
+
+> (2) Restrukturalizační věcí je návrh na zahájení restrukturalizačního řízení nebo jiné podání zahajující restrukturalizační řízení, návrh na nařízení předběžného opatření před zahájením restrukturalizačního řízení, návrh na individuální moratorium před zahájením preventivní restrukturalizace, žaloba podle § 98 odst. 4 zákona o preventivní restrukturalizaci a opravný prostředek proti rozhodnutí v těchto věcech.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2025.
+
+Ministryně spravedlnosti:
+
+Decroix, Ph.D., MBA, MPA, v. r.

@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 275/2021 Sb., kterou se mění vyhláška č. 515/2020 Sb., o struktuře informací zveřejňovaných o povinném subjektu a o osnově popisu úkonů vykonávaných v rámci agendy"
+identifier: "275/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/275/2021-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-07-13
+effective: 2021-08-01
+last_amended: 2021-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/275"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 275/2021 Sb., kterou se mění vyhláška č. 515/2020 Sb., o struktuře informací zveřejňovaných o povinném subjektu a o osnově popisu úkonů vykonávaných v rámci agendy
+
+275
+
+VYHLÁŠKA
+
+ze dne 13. července 2021,
+
+kterou se mění vyhláška č. 515/2020 Sb., o struktuře informací zveřejňovaných o povinném subjektu a o osnově popisu úkonů vykonávaných v rámci agendy
+
+Ministerstvo vnitra stanoví podle § 69 odst. 3 písm. c) zákona č. 111/2009 Sb., o základních registrech, ve znění zákona č. 12/2020 Sb. a zákona č. 261/2021 Sb.:
+
+## Čl. I
+
+Vyhláška č. 515/2020 Sb., o struktuře informací zveřejňovaných o povinném subjektu a o osnově popisu úkonů vykonávaných v rámci agendy, se mění takto:
+
+1\. V úvodní větě se za text „písm. b)“ vkládají slova „a c)“ a na konci textu věty se doplňují slova „a zákona č. 261/2021 Sb.“.
+
+2\. V § 2 se za slovo „moci“ vkládají slova „a úkonů subjektu, který při vykonávání těchto úkonů nepůsobí jako orgán veřejné moci,“.
+
+3\. Na konci nadpisu přílohy č. 2 se doplňují slova „a úkonů subjektu, který při vykonávání těchto úkonů nepůsobí jako orgán veřejné moci“.
+
+4\. V příloze č. 2 sloupci Položka osnovy u položky V jakém případě ve věci jednat se ve sloupci Popis položky za slovo „subjekt“ vkládají slova „nebo orgán veřejné moci“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2021.
+
+Ministr:
+
+Hamáček v. r.

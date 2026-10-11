@@ -1,0 +1,76 @@
+---
+title: "Vyhláška č. 237/2017 Sb., kterou se mění vyhláška Ministerstva zemědělství č. 474/2000 Sb., o stanovení požadavků na hnojiva, ve znění pozdějších předpisů"
+identifier: "237/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/237/2017-09-03"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-07-28
+effective: 2017-09-03
+last_amended: 2017-09-03
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/237"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 237/2017 Sb., kterou se mění vyhláška Ministerstva zemědělství č. 474/2000 Sb., o stanovení požadavků na hnojiva, ve znění pozdějších předpisů
+
+237
+
+VYHLÁŠKA
+
+ze dne 28. července 2017,
+
+kterou se mění vyhláška Ministerstva zemědělství č. 474/2000 Sb., o stanovení požadavků na hnojiva, ve znění pozdějších předpisů
+
+Ministerstvo zemědělství stanoví podle § 3 odst. 5 a § 4 odst. 9 zákona č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění zákona č. 9/2009 Sb. a zákona č. 61/2017 Sb.:
+
+## Čl. I
+
+Vyhláška č. 474/2000 Sb., o stanovení požadavků na hnojiva, ve znění vyhlášky č. 401/2004 Sb., vyhlášky č. 209/2005 Sb., vyhlášky č. 271/2009 Sb. a vyhlášky č. 131/2014 Sb., se mění takto:
+
+1\. V příloze č. 1 části 2 se za dosavadní text doplňuje text, který zní:
+
+> „d) organická hnojiva a substráty, při jejichž výrobě byly použity odpady z čistíren odpadních vod
+
+> <table><tbody><tr><td colspan="3">Přípustné množství mikroorganismů (KTJ<sup>5)</sup>)</td></tr><tr><td>Salmonella sp.<br> (v 50 g vzorku)</td><td colspan="2">Escherichia coli nebo enterokoky<br> (v 1 g - 5 zkoušených vzorků)</td></tr><tr><td rowspan="2">negativní</td><td>4 vzorky</td><td>1 vzorek</td></tr><tr><td>10<sup>3</sup></td><td>5 x 10<sup>3</sup></td></tr></tbody></table>
+
+> Metody odběru vzorků a stanovení mikrobiologických analýz budou prováděny podle zásad uvedených v AHEM 7/2001 a AHEM 1/2008.“.
+
+Poznámka č. 5 zní:
+
+> „<sup>5</sup>) kolonie tvořící jednotky.“.
+
+2\. V příloze č. 3 se pod nadpis Druh hnojiva: 3. Minerální hnojiva, která jako součásti určující typ obsahují jen stopové živiny, vkládá tabulka, která včetně nadpisu zní:
+
+> „a) Pevné nebo kapalné směsi hnojiv na bázi stopových živin
+
+> | typ | označení typu | minimální obsah živin | součásti určující typ, formy a rozpustnost živin | hodnocené součásti a další požadavky | složení, způsob výroby | zvláštní ustanovení |
+> |---|---|---|---|---|---|---|
+> | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+> | 9.1 | Směs stopových živin v pevné formě | Živiny celkem 5 % | celkový obsah každé stopové živiny; obsah vodorozpustného podílu každé stopové živiny, činí-li tento rozpustný podíl nejméně polovinu celkového obsahu; pokud je stopová živina zcela rozpustná ve vodě, deklaruje se pouze obsah vodorozpustného podílu | Celkový a/nebo vodorozpustný obsah každé stopové živiny | Výrobek získaný smíšením dvou nebo více hnojiv typu 3 b) | Je-li stopová živina vázána v chelátu, musí být uvedeno chelátotvorné činidlo a podíl vodorozpustného obsahu vázaného v chelátové formě |
+> | 9.2 | Směs stopových živin v kapalné formě | Živiny celkem 2 % | celkový obsah každé stopové živiny; obsah vodorozpustného podílu každé stopové živiny, činí-li tento rozpustný podíl nejméně polovinu celkového obsahu; pokud je stopová živina zcela rozpustná ve vodě, deklaruje se pouze obsah vodorozpustného podílu | Celkový a/nebo vodorozpustný obsah každé stopové živiny | Výrobek získaný rozpuštěním a/nebo suspenzí dvou nebo více hnojiv typu 3 b) ve vodě | Je-li stopová živina vázána v chelátu, musí být uvedeno chelátotvorné činidlo a podíl vodorozpustného obsahu vázaného v chelátové formě |
+>
+> “.
+
+3\. V příloze č. 3 se pod tabulku a) Pevné nebo kapalné směsi hnojiv na bázi stopových živin vkládá nadpis, který zní:
+
+> **„b) Hnojiva obsahující pouze jednu stopovou živinu“.**
+
+4\. V příloze č. 3 se v části Druh hnojiva: 4. Vápenatá a hořečnatovápenatá hnojiva pod tabulku doplňuje věta „Hnojiva odpovídající typům 17.1.1 - 17.2.2 jsou považována za typová i v granulované formě, pokud se granule po rozmíchání ve vodě rozpadnou na částice s velikostním rozdělením odpovídajícím příslušnému typu.“.
+
+5\. V příloze č. 3 se v části Druh hnojiva: 5. Organická a organominerální hnojiva ve třetím sloupci slova „separovaný digestát“ nahrazují slovy „tuhý digestát; digestát separát“.
+
+6\. V příloze č. 3 se v části Druh hnojiva: 5. Organická a organominerální hnojiva v sedmém sloupci slova „, tuhý podíl po separaci“ nahrazují slovy „; v případě digestátu - separátu se jedná o tuhý podíl po separaci“.
+
+## Čl. II – Technický předpis
+
+Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady (EU) 2015/1535 ze dne 9. září 2015 o postupu při poskytování informací v oblasti technických předpisů a předpisů pro služby informační společnosti.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti třicátým dnem po jejím vyhlášení.
+
+Ministr:
+
+Ing. Jurečka v. r.

@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 53/2020 Sb., kterou se mění vyhláška č. 329/2019 Sb., o předepisování léčivých přípravků při poskytování zdravotních služeb"
+identifier: "53/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/53/2020-03-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-02-19
+effective: 2020-03-01
+last_amended: 2020-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/53"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 53/2020 Sb., kterou se mění vyhláška č. 329/2019 Sb., o předepisování léčivých přípravků při poskytování zdravotních služeb
+
+53
+
+VYHLÁŠKA
+
+ze dne 19. února 2020,
+
+kterou se mění vyhláška č. 329/2019 Sb., o předepisování léčivých přípravků při poskytování zdravotních služeb
+
+Ministerstvo zdravotnictví stanoví podle § 114 odst. 1 zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění zákona č. 50/2013 Sb., zákona č. 70/2013 Sb., zákona č. 66/2017 Sb., zákona č. 44/2019 Sb. a zákona č. 262/2019 Sb., k provedení § 80 odst. 5 písm. g) a h) zákona o léčivech:
+
+## Čl. I
+
+Vyhláška č. 329/2019 Sb., o předepisování léčivých přípravků při poskytování zdravotních služeb, se mění takto:
+
+1\. V § 5 odst. 6 se slova „jeden druh léčivého přípravku“ nahrazují slovy „2 druhy léčivých přípravků“.
+
+2\. V § 5 se doplňuje odstavec 7, který zní:
+
+> „(7) Požadavek na vytvoření opakovacího receptu může obsahovat 2 druhy léčivých přípravků pouze v případě, pokud je počet opakování u obou druhů léčivých přípravků stejný.“.
+
+3\. V § 13 odst. 6 se text „§ 9 odst. 4“ nahrazuje textem „§ 5 odst. 3 písm. d)“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. března 2020.
+
+Ministr zdravotnictví:
+
+Mgr. et Mgr. Vojtěch, MHA, v. r.

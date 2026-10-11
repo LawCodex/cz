@@ -1,0 +1,112 @@
+---
+title: "Vyhláška č. 40/2020 Sb., kterou se mění vyhláška č. 343/2014 Sb., o registraci vozidel, ve znění pozdějších předpisů"
+identifier: "40/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/40/2020-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2020-02-04
+effective: 2020-07-01
+last_amended: 2020-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/40"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 40/2020 Sb., kterou se mění vyhláška č. 343/2014 Sb., o registraci vozidel, ve znění pozdějších předpisů
+
+40
+
+VYHLÁŠKA
+
+ze dne 4. února 2020,
+
+kterou se mění vyhláška č. 343/2014 Sb., o registraci vozidel, ve znění pozdějších předpisů
+
+Ministerstvo dopravy stanoví podle § 91 odst. 1 zákona č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb., zákona č. 103/2004 Sb., zákona č. 411/2005 Sb., zákona č. 226/2006 Sb., zákona č. 170/2007 Sb., zákona č. 297/2009 Sb., zákona č. 152/2011 Sb., zákona č. 239/2013 Sb., zákona č. 243/2016 Sb., zákona č. 298/2016 Sb., zákona č. 63/2017 Sb. a zákona č. 193/2018 Sb., (dále jen „zákon“) k provedení § 7 odst. 6 a § 7b odst. 8 zákona:
+
+## Čl. I
+
+Vyhláška č. 343/2014 Sb., o registraci vozidel, ve znění vyhlášky č. 399/2015 Sb., vyhlášky č. 10/2017 Sb., vyhlášky č. 86/2017 Sb., vyhlášky č. 158/2017 Sb. a vyhlášky č. 72/2019 Sb., se mění takto:
+
+1\. V § 29 odst. 6 se slova „ochrannými prvky“ nahrazují slovy „ochranným prvkem“.
+
+2\. V § 29 odstavec 11 zní:
+
+> „(11) Technická specifikace ochranného prvku tabulky s registrační značkou a umístění ochranného prvku na tabulce s registrační značkou jsou uvedeny v příloze č. 27 k této vyhlášce.“.
+
+3\. V příloze č. 26 v části 2. Fyzikální vlastnosti tabulek registračních značek bod 5 zní:
+
+> „5. Umístění ochranného prvku na tabulce s registrační značkou je patrné z přílohy č. 27 k této vyhlášce.“.
+
+4\. Příloha č. 27 včetně nadpisu zní:
+
+> **„Příloha č. 27 k vyhlášce č. 343/2014 Sb.**
+
+> **Technická specifikace ochranného prvku tabulky s registrační značkou a umístění ochranného prvku na tabulce s registrační značkou**
+
+> Ochranný prvek tabulky s registrační značkou má tvar obdélníku s vyobrazením písmen „CZ“.
+
+> **![sbcr2020c018z0040p027o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896417/NAHLED/ZOBRAZ/sbcr2020c018z0040p027o001)**
+
+> Barva písmen CZ je shodná s barvou reflexní fólie na tabulce s registrační značkou. Prostor v obdélníku, kolem písmen CZ, má jinou barvu, než barva reflexní fólie na tabulce s registrační značkou.
+
+> Ochranný prvek na tabulce registrační značky umístěné na vozidle je viditelný pouze pod úhlem 30 stupňů, s tolerancí ±10 stupňů od vodorovné roviny procházející tímto prvkem.
+
+> Ochranný prvek je obsažen ve struktuře reflexní fólie tabulky s registrační značkou.
+
+> Ochranný prvek je vyroben tak, aby nedošlo k porušení vrchní vrstvy reflexní fólie.
+
+> Ochranný prvek nezmenšuje hodnoty reflexivity registrační značky, uvedené v příloze č. 26 k této vyhlášce.
+
+> Ochranný prvek není odstranitelný bez trvalého poškození reflexní fólie.
+
+> **Umístění ochranného prvku na tabulce s registrační značkou**
+
+> rozměr 520 x 110 mm
+
+> **![sbcr2020c018z0040p027o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896419/NAHLED/ZOBRAZ/sbcr2020c018z0040p027o002)**
+
+> rozměr 340 x 200 mm
+
+> **![sbcr2020c018z0040p027o003.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896421/NAHLED/ZOBRAZ/sbcr2020c018z0040p027o003)**
+
+> rozměr 280 x 200 mm
+
+> **![sbcr2020c018z0040p027o004.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896423/NAHLED/ZOBRAZ/sbcr2020c018z0040p027o004)**
+
+> rozměr 320 x 160 mm
+
+> **![sbcr2020c018z0040p027o005.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896425/NAHLED/ZOBRAZ/sbcr2020c018z0040p027o005)**
+
+> rozměr 200 x 160 mm
+
+> **![sbcr2020c018z0040p027o006.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896427/NAHLED/ZOBRAZ/sbcr2020c018z0040p027o006)**
+
+> rozměr 80 x 110 mm
+
+> **![sbcr2020c018z0040p027o007.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896429/NAHLED/ZOBRAZ/sbcr2020c018z0040p027o007)**
+
+> rozměr 80 x 110 mm (sportovní)
+
+> **![sbcr2020c018z0040p027o008.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896431/NAHLED/ZOBRAZ/sbcr2020c018z0040p027o008)**
+
+> rozměr 330 x 85 mm (sportovní)
+
+> **![sbcr2020c018z0040p027o009.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896433/NAHLED/ZOBRAZ/sbcr2020c018z0040p027o009)**
+
+> “.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Do 31. března 2021 lze vyrábět tabulky s registrační značkou podle vyhlášky č. 343/2014 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+2\. Tabulky s registrační značkou podle vyhlášky č. 343/2014 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, lze vydávat do vyčerpání jejich zásob.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2020.
+
+Ministr:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

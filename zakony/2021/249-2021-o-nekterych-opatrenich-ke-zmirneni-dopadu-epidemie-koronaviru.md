@@ -1,0 +1,62 @@
+---
+title: "Zákon č. 249/2021 Sb., o některých opatřeních ke zmírnění dopadu epidemie koronaviru označovaného jako SARS CoV-2 na oblast realitního zprostředkování a o změně zákona č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování), ve znění pozdějších předpisů"
+identifier: "249/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/249/2021-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2021-06-10
+effective: 2021-07-01
+last_amended: 2021-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/249"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 249/2021 Sb., o některých opatřeních ke zmírnění dopadu epidemie koronaviru označovaného jako SARS CoV-2 na oblast realitního zprostředkování a o změně zákona č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování), ve znění pozdějších předpisů
+
+249
+
+ZÁKON
+
+ze dne 10. června 2021
+
+o některých opatřeních ke zmírnění dopadu epidemie koronaviru označovaného jako SARS CoV-2 na oblast realitního zprostředkování a o změně zákona č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – NĚKTERÁ OPATŘENÍ KE ZMÍRNĚNÍ DOPADU EPIDEMIE KORONAVIRU OZNAČOVANÉHO JAKO SARS COV-2 NA OBLAST REALITNÍHO ZPROSTŘEDKOVÁNÍ
+
+### § 1
+
+U podnikatele, jehož oprávnění k poskytování realitního zprostředkování podle § 25 zákona č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování), ve znění zákona č. 190/2020 Sb., zaniklo a který hodlá činnost realitní zprostředkování obnovit, nebude výkon realitního zprostředkování považován za neoprávněný, pokud podnikatel po dni nabytí účinnosti tohoto zákona neprodleně ohlásí živnostenskému úřadu vázanou živnost „Realitní zprostředkování“ a nejpozději do 31. prosince 2021 doloží živnostenskému úřadu doklady prokazující splnění podmínky odborné způsobilosti pro provozování této vázané živnosti, uvedené v jiném právním předpisu<sup>1</sup>). Marným uplynutím lhůty pro doložení této odborné způsobilosti živnostenskému úřadu živnostenské oprávnění k provozování realitního zprostředkování podnikateli zaniká.
+
+## ČÁST DRUHÁ – Změna zákona o realitním zprostředkování
+
+### § 2
+
+V § 23 zákona č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování), se doplňují body 3 a 4, které včetně poznámek pod čarou č. 2 a 3 znějí:
+
+> „3. Podnikatel, který je fyzickou osobou a který ke dni nabytí účinnosti zákona č. 39/2020 Sb., o realitním zprostředkování a o změně souvisejících zákonů (zákon o realitním zprostředkování), nebyl oprávněn k provozování realitního zprostředkování na základě oprávnění k provozování živnosti volné „Výroba, obchod a služby neuvedené v přílohách č. 1 až 3 živnostenského zákona“, tuto živnost ohlásí živnostenskému úřadu až po nabytí účinnosti tohoto zákona a zahájí činnost realitní zprostředkování podle tohoto zákona, avšak nedoloží splnění podmínky odborné způsobilosti pro provozování živnosti vázané „Realitní zprostředkování“ podle jiného právního předpisu<sup>2</sup>), je oprávněn provozovat činnost realitní zprostředkování na základě živnosti ohlašovací volné „Výroba, obchod a služby neuvedené v přílohách č. 1 až 3 živnostenského zákona“ uvedené v jiném právním předpisu<sup>3</sup>), avšak výhradně na základě smlouvy uzavřené v písemné formě s osobou, jež je realitním zprostředkovatelem, a pouze jménem takové osoby nebo svým jménem s nezaměnitelným užitím obchodního jména či obchodní značky takové osoby, a to nejdéle do 31. prosince 2021.
+
+> 4\. Podnikatel poskytující realitní zprostředkování podle bodu 3 není oprávněn poskytovat úschovu peněžních prostředků za účelem zajištění plnění z realitní smlouvy ani za podmínek uvedených v § 4 odst. 2. Poskytuje-li tento podnikatel úschovu peněžních prostředků podle věty první, dopustí se přestupku, za který lze uložit pokutu až do výše dle § 21 odst. 2 písm. a).
+
+> <sup>2</sup>) Příloha č. 2 zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+
+> <sup>3</sup>) Příloha č. 4 zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### § 3
+
+Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Vondráček v. r.
+
+Zeman v. r.
+
+Babiš v. r.
+
+---
+
+<sup>1</sup>) Příloha č. 2 zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.

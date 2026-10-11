@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 16/2023 Sb., o vydání pamětní stříbrné dvousetkoruny k 500. výročí narození Jana Blahoslava"
+identifier: "16/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/16/2023-02-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2023-01-05
+effective: 2023-02-15
+last_amended: 2023-02-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/16"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 16/2023 Sb., o vydání pamětní stříbrné dvousetkoruny k 500. výročí narození Jana Blahoslava
+
+16
+
+VYHLÁŠKA
+
+ze dne 5. ledna 2023
+
+o vydání pamětní stříbrné dvousetkoruny k 500. výročí narození Jana Blahoslava
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb. a zákona č. 89/2018 Sb.:
+
+## § 1
+
+(1) Dnem 15. února 2023 se k 500. výročí narození Jana Blahoslava vydává pamětní stříbrná mince po 200 Kč (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem.
+
+(3) Dvousetkoruna se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,2 mm. Při ražbě dvousetkoruny je přípustná odchylka v obsahu stříbra nahoru 1 %, odchylka v hmotnosti nahoru 0,26 g, odchylka v průměru 0,1 mm a odchylka v síle 0,15 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.925 \* 13 g \*“.
+
+## § 2
+
+(1) Na lícní straně dvousetkoruny je ztvárněna kompozice hřbetu a titulní strany knihy Gramatika česká z roku 1571. Titulní strana je doplněna o symbolický kříž. Na hřbetu knihy se nachází text „ČESKÁ REPUBLIKA ♦ 200 Kč“. Značka České mincovny tvořená písmeny „Č“ a „M“ je umístěna při spodním okraji mince.
+
+(2) Na rubové straně dvousetkoruny je zachována kompozice lícní strany. Na místě titulní strany je ztvárněn portrét Jana Blahoslava a na hřbetu knihy se nachází text „1523 ♦ JAN BLAHOSLAV ♦ 2023“. Iniciála autora mince Vojtěcha Dostála, DiS., která je tvořena obráceným písmenem „D“, je umístěna při spodním okraji mince.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 15. února 2023.
+
+Guvernér:
+
+Ing. Michl, Ph.D., v. r.
+
+### Příloha k vyhlášce č. 16/2023 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny k 500. výročí narození Jana Blahoslava
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2023c009z0016o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/787743/NAHLED/ZOBRAZ/sbcr2023c009z0016o001)
+
+#### ![sbcr2023c009z0016o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/787745/NAHLED/ZOBRAZ/sbcr2023c009z0016o002)

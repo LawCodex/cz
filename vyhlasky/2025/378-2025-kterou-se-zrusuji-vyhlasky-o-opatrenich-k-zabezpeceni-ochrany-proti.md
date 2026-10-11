@@ -1,0 +1,50 @@
+---
+title: "Vyhláška č. 378/2025 Sb., kterou se zrušují vyhlášky o opatřeních k zabezpečení ochrany proti zavlékání a šíření některých škodlivých organismů rostlin"
+identifier: "378/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/378/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-09-25
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/378"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 378/2025 Sb., kterou se zrušují vyhlášky o opatřeních k zabezpečení ochrany proti zavlékání a šíření některých škodlivých organismů rostlin
+
+378
+
+VYHLÁŠKA
+
+ze dne 25. září 2025,
+
+kterou se zrušují vyhlášky o opatřeních k zabezpečení ochrany proti zavlékání a šíření některých škodlivých organismů rostlin
+
+Ministerstvo zemědělství stanoví podle § 88 odst. 2 zákona č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění zákona č. 249/2008 Sb. a zákona č. 279/2013 Sb.:
+
+## § 1
+
+Zrušují se:
+
+1\. Vyhláška č. 331/2004 Sb., o opatřeních k zabezpečení ochrany proti zavlékání a šíření původce bakteriální kroužkovitosti bramboru a původce bakteriální hnědé hniloby.
+
+2\. Vyhláška č. 332/2004 Sb., o opatřeních k zabezpečení ochrany proti zavlékání a šíření původce rakoviny bramboru, háďátka bramborového a háďátka nažloutlého.
+
+3\. Vyhláška č. 328/2008 Sb., kterou se mění vyhláška č. 331/2004 Sb., o opatřeních k zabezpečení ochrany proti zavlékání a šíření původce bakteriální kroužkovitosti bramboru a původce bakteriální hnědé hniloby.
+
+4\. Vyhláška č. 75/2010 Sb., o opatřeních k zabezpečení ochrany proti zavlékání a šíření háďátka bramborového a háďátka nažloutlého a o změně vyhlášky č. 332/2004 Sb., o opatřeních k zabezpečení ochrany proti zavlékání a šíření původce rakoviny bramboru, háďátka bramborového a háďátka nažloutlého.
+
+5\. Vyhláška č. 43/2016 Sb., kterou se mění vyhláška č. 75/2010 Sb., o opatřeních k zabezpečení ochrany proti zavlékání a šíření háďátka bramborového a háďátka nažloutlého a o změně vyhlášky č. 332/2004 Sb., o opatřeních k zabezpečení ochrany proti zavlékání a šíření původce rakoviny bramboru, háďátka bramborového a háďátka nažloutlého.
+
+6\. Vyhláška č. 4/2018 Sb., kterou se mění vyhláška č. 331/2004 Sb., o opatřeních k zabezpečení ochrany proti zavlékání a šíření původce bakteriální kroužkovitosti bramboru a původce bakteriální hnědé hniloby, ve znění vyhlášky č. 328/2008 Sb.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr zemědělství:
+
+Mgr. Výborný v. r.

@@ -1,0 +1,220 @@
+---
+title: "Vyhláška č. 187/2019 Sb., kterou se mění vyhláška č. 466/2012 Sb., o postupu Českého telekomunikačního úřadu při výpočtu čistých nákladů na plnění povinnosti poskytovat základní služby"
+identifier: "187/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/187/2019-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2019-07-23
+effective: 2019-08-01
+last_amended: 2019-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/187"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 187/2019 Sb., kterou se mění vyhláška č. 466/2012 Sb., o postupu Českého telekomunikačního úřadu při výpočtu čistých nákladů na plnění povinnosti poskytovat základní služby
+
+187
+
+VYHLÁŠKA
+
+ze dne 23. července 2019,
+
+kterou se mění vyhláška č. 466/2012 Sb., o postupu Českého telekomunikačního úřadu při výpočtu čistých nákladů na plnění povinnosti poskytovat základní služby
+
+Český telekomunikační úřad stanoví podle § 41 zákona č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění zákona č. 221/2012 Sb., zákona č. 212/2013 Sb. a zákona č. 319/2015 Sb., k provedení § 34b odst. 7 zákona o poštovních službách:
+
+## Čl. I
+
+Vyhláška č. 466/2012 Sb., o postupu Českého telekomunikačního úřadu při výpočtu čistých nákladů na plnění povinnosti poskytovat základní služby, se mění takto:
+
+1\. V § 2 se za slovo „zisk“ vkládají slova „vyjádřený formou nákladů kapitálu“.
+
+2\. V § 3 odstavec 2 zní:
+
+> „(2) Přírůstkové náklady se počítají podle tohoto vzorce:
+
+> PN = N<sup>ZS</sup> - N<sup>AS</sup>,
+
+> kde:
+
+> PN - přírůstkové náklady,
+
+> N<sup>ZS</sup> - náklady poskytování služeb držitele poštovní licence při základním scénáři podle § 7 odst. 2,
+
+> N<sup>AS</sup> - náklady držitele poštovní licence v případě alternativního scénáře podle § 7 odst. 3.“.
+
+3\. Za § 3 se vkládají nové § 3a až § 3c, které znějí:
+
+> **„§ 3a**
+
+> (1) Náklady kapitálu držitele poštovní licence na poskytování služeb obsažených v jeho poštovní licenci podle § 7 odst. 2 se počítají podle tohoto vzorce:
+
+> NK<sup>ZS</sup> = WACC<sup>ZS</sup> \* VK<sup>ZS</sup>,
+
+> kde:
+
+> NK<sup>ZS</sup> - náklady kapitálu držitele poštovní licence při základním scénáři podle § 7 odst. 2,
+
+> WACC<sup>ZS</sup> - procento návratnosti vloženého kapitálu před zdaněním při základním scénáři podle § 7 odst. 2,
+
+> VK<sup>ZS</sup> - vložený kapitál při základním scénáři podle § 7 odst. 2.
+
+> (2) Náklady kapitálu držitele poštovní licence na poskytování služeb obsažených v alternativním scénáři podle § 7 odst. 3 se počítají podle tohoto vzorce:
+
+> NK<sup>AS</sup> = WACC<sup>AS</sup> \* VK<sup>AS</sup>,
+
+> kde:
+
+> NK<sup>AS</sup> - náklady kapitálu držitele poštovní licence při alternativním scénáři podle § 7 odst. 3,
+
+> WACC<sup>AS</sup> - procento návratnosti vloženého kapitálu před zdaněním při alternativním scénáři podle § 7 odst. 3,
+
+> VK<sup>AS</sup> - vložený kapitál při alternativním scénáři podle § 7 odst. 3.
+
+> **§ 3b**
+
+> (1) Procento návratnosti vloženého kapitálu před zdaněním při základním i alternativním scénáři je vyjádřeno prostřednictvím vážených průměrných nákladů na kapitál (WACC) před zdaněním a počítá se podle těchto vzorců:
+
+> WACC<sub>BT</sub> = WACC<sub>AT</sub> / (1 - t),
+
+> kde:
+
+> WACC<sub>BT</sub> - vážené průměrné náklady kapitálu před zdaněním,
+
+> WACC<sub>AT</sub> - vážené průměrné náklady kapitálu po zdanění,
+
+> t - sazba daně z příjmu právnických osob vyjádřená desetinným číslem.
+
+> WACC<sub>AT</sub>=r<sub>e</sub>\*(E)/(D+E)+r<sub>d</sub>\*1-t\*(D)/(D+E),
+
+> kde:
+
+> r<sub>e</sub> - náklady vlastního kapitálu,
+
+> r<sub>d</sub> - náklady cizího kapitálu,
+
+> E - hodnota vlastního kapitálu společnosti,
+
+> D - hodnota cizího kapitálu společnosti.
+
+> (2) Procento návratnosti vloženého kapitálu před zdaněním pro základní scénář (WACC<sup>ZS</sup>) je vyjádřeno procentem návratnosti vloženého kapitálu držitele poštovní licence v České republice.
+
+> (3) Procento návratnosti vloženého kapitálu před zdaněním pro alternativní scénář (WACC<sup>AS</sup>) je vyjádřeno procentem návratnosti vloženého kapitálu poskytovatele poštovních služeb bez uložené povinnosti poskytovat základní služby.
+
+> (4) Výši procenta návratnosti vloženého kapitálu podle odstavců 2 a 3 určí Český telekomunikační úřad a tato hodnota je platná po dobu platnosti poštovní licence. Hodnota WACC je určena při ověřování žádosti o čisté náklady v prvním období platnosti licence.
+
+> **§ 3c**
+
+> (1) Vloženým kapitálem při základním scénáři (VK<sup>ZS</sup>) se rozumí hodnota dlouhodobého majetku a pracovního kapitálu držitele poštovní licence nezbytného k poskytování poštovních služeb v rozsahu vymezeném v základním scénáři podle § 7 odst. 2.
+
+> (2) Vloženým kapitálem při alternativním scénáři (VK<sup>AS</sup>) se rozumí hodnota dlouhodobého majetku a pracovního kapitálu držitele poštovní licence nezbytná k poskytování poštovních služeb v rozsahu vymezeném v alternativním scénáři podle § 7 odst. 3.
+
+> (3) Pokud není uvedeno jinak, držitel poštovní licence vykazuje hodnotu vloženého kapitálu v souladu s Českými účetními standardy podle právních předpisů upravujících účetnictví.
+
+> (4) V hodnotě dlouhodobého majetku se zohlední majetek pořízený formou leasingu, a to v souladu s Mezinárodními účetními standardy.“.
+
+4\. V § 4 odstavec 2 zní:
+
+> „(2) Přírůstkové výnosy se počítají podle tohoto vzorce:
+
+> PV = V<sup>ZS</sup> - V<sup>AS</sup>,
+
+> kde:
+
+> PV - přírůstkové výnosy,
+
+> V<sup>ZS</sup> - výnosy držitele poštovní licence z poskytování služeb při základním scénáři podle § 7 odst. 2,
+
+> V<sup>AS</sup> - výnosy držitele poštovní licence v případě alternativního scénáře podle § 7 odst. 3.“.
+
+5\. V § 5 odst. 1 písm. a) se za slovo „náklady“ vkládají slova „na prvky sítě a činnosti“.
+
+6\. V § 5 odst. 1 písm. c) se slovo „k“ nahrazuje slovem „ke“.
+
+7\. V § 5 odst. 1 se na konci textu písmene d) doplňují slova „vyjádřený formou nákladů kapitálu“.
+
+8\. V § 5 odst. 1 se písmeno e) zrušuje.
+
+9\. V § 5 odstavec 2 zní:
+
+> „(2) Čisté náklady se počítají podle tohoto vzorce:
+
+> ČN = [PN + ΔNK] – [PV + ΣTv],
+
+> kde:
+
+> ČN – výše čistých nákladů,
+
+> PN – přírůstkové náklady,
+
+> PV – přírůstkové výnosy,
+
+> ΔNK – rozdíl mezi NK<sup>ZS</sup> a NK<sup>AS</sup> podle § 3a,
+
+> Tv – nehmotné a tržní výhody plynoucí držiteli poštovní licence v důsledku uložení povinnosti poskytovat základní služby, vyjádřené v penězích.“.
+
+10\. Na konci textu § 6 se doplňují slova „tak, aby splňovaly základní kvalitativní požadavky definované v poštovní licenci“.
+
+11\. V § 7 odst. 2 se slova „na poskytování základních služeb obsažených v poštovní licenci držitele poštovní licence“ a slova „získané poskytováním těchto služeb“ zrušují.
+
+12\. V § 8 odst. 2 se na konci textu písmene a) doplňují slova „a dále aby zajistil plnění ostatních služeb ve veřejném zájmu, které vyplývají z uzavřených smluv nebo z jeho hlavní náplně činnosti, nezávisle na poštovní licenci“.
+
+13\. V § 8 odst. 2 písm. e) se za slovo „provozovnu“ vkládají slova „nebo jiné místo zajišťující obsluhu zákazníků“ a na konci textu se doplňují slova „nebo jiného místa zajišťujícího obsluhu zákazníků“.
+
+14\. V § 8 se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno g), které zní:
+
+> „g) u budov, které má držitel poštovní licence v dlouhodobém nájmu a podle alternativního scénáře v nich nebude mít provozovnu, se zohlední smluvně sjednané pokuty a penále za předčasné ukončení nájemní smlouvy tak, aby nedocházelo k jejich dvojímu započtení a vycházelo se z charakteru sjednané sankce.“.
+
+15\. V § 8 odst. 3 písm. a) se za slovo „zákazníků“ vkládají slova „a neztratí tím svoje postavení na trhu“.
+
+16\. V § 8 odst. 3 písm. c) se slovo „pouze“ zrušuje a na konci textu se doplňují slova „a odpovídající podíl celopodnikové režie“.
+
+17\. V § 8 odst. 4 se slova „Při sestavování tohoto alternativního scénáře vychází z těchto předpokladů“ nahrazují slovy „Zohlední se“.
+
+18\. V § 8 odst. 4 písm. a) se slova „náklady musí obsahovat pouze náklady plynoucí z povinnosti poskytovat základní služby, tedy“ zrušují.
+
+19\. V § 8 odst. 4 písm. b) se slova „ostatní náklady nesmí být započteny“ nahrazují slovy „změna výnosů, v případě, že z činnosti, pro kterou je sestavován alternativní scénář, držiteli poštovní licence výnosy vznikají“.
+
+20\. V § 11 odst. 2 se slovo „jednotlivou“ zrušuje a slovo „službu“ se nahrazuje slovem „služby“.
+
+21\. V § 12 odst. 1 se za slovo „plán“ vkládají slova „, výsledky oddělené evidence nákladů a výnosů“.
+
+22\. Příloha zní:
+
+> **„Příloha k vyhlášce č. 466/2012 Sb.**
+
+> **Doklady k výpočtu čistých nákladů**
+
+> **Tabulka č. 1: Celková hodnota čistých nákladů držitele poštovní licence (Kč)**
+
+> **![sbcr2019c080z0187p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887445/NAHLED/ZOBRAZ/sbcr2019c080z0187p001u001)**
+
+> **Tabulka č. 2: Vyčíslení celkové hodnoty nehmotných a tržních výhod (Kč)**
+
+> **![sbcr2019c080z0187p001u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887447/NAHLED/ZOBRAZ/sbcr2019c080z0187p001u002)**
+
+> **Tabulka č. 3: Evidence dat potřebných k vyčíslení hodnoty čistých nákladů plynoucích ze změny v síti provozoven (k provedení § 8 odst. 2) - část 1 - část 2 - část 3**
+
+> **![sbcr2019c080z0187p001u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887449/NAHLED/ZOBRAZ/sbcr2019c080z0187p001u003)**
+
+> **Tabulka č. 4: Ztráta výnosů na uzavřené provozovny (k provedení § 8 odst. 2 písm. c) až e)**
+
+> **![sbcr2019c080z0187p001u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887451/NAHLED/ZOBRAZ/sbcr2019c080z0187p001u004)**
+
+> **Tabulka č. 5: Evidence dat potřebných k vyčíslení hodnoty čistých nákladů plynoucích ze změny ve způsobu dodávání (k provedení § 8 odst. 3)**
+
+> **![sbcr2019c080z0187p001u005.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887453/NAHLED/ZOBRAZ/sbcr2019c080z0187p001u005)**
+
+> **Tabulka č. 6: Náklady kapitálu (v Kč)**
+
+> **![sbcr2019c080z0187p001u006.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887455/NAHLED/ZOBRAZ/sbcr2019c080z0187p001u006)“.**
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2019.
+
+Předseda Rady:
+
+Ing. Mgr. Novák v. r.

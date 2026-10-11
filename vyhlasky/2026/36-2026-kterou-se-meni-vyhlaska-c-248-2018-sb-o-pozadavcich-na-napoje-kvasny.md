@@ -1,0 +1,354 @@
+---
+title: "Vyhláška č. 36/2026 Sb., kterou se mění vyhláška č. 248/2018 Sb., o požadavcích na nápoje, kvasný ocet a droždí"
+identifier: "36/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/36/2026-06-14"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2026-03-12
+effective: 2026-06-14
+last_amended: 2026-06-14
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/36"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 36/2026 Sb., kterou se mění vyhláška č. 248/2018 Sb., o požadavcích na nápoje, kvasný ocet a droždí
+
+36
+
+VYHLÁŠKA
+
+ze dne 12. března 2026,
+
+kterou se mění vyhláška č. 248/2018 Sb., o požadavcích na nápoje, kvasný ocet a droždí
+
+Ministerstvo zemědělství stanoví podle § 18 odst. 1 písm. a), b), g) a h) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 306/2000 Sb., zákona č. 274/2003 Sb., zákona č. 316/2004 Sb., zákona č. 139/2014 Sb. a zákona č. 180/2016 Sb.:
+
+## Čl. I
+
+Vyhláška č. 248/2018 Sb., o požadavcích na nápoje, kvasný ocet a droždí, se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Směrnice Evropského parlamentu a Rady (EU) 2024/1438 ze dne 14. května 2024, kterou se mění směrnice Rady 2001/110/ES o medu, 2001/112/ES o ovocných šťávách a některých podobných produktech určených k lidské spotřebě, 2001/113/ES o ovocných džemech, rosolech a marmeládách a kaštanovém krému určených k lidské spotřebě a 2001/114/ES o některých druzích zahuštěného a sušeného mléka určeného k lidské spotřebě.“.
+
+2\. Poznámky pod čarou č. 2 a 3 znějí:
+
+> „<sup>2</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 1169/2011 ze dne 25. října 2011 o poskytování informací o potravinách spotřebitelům, o změně nařízení Evropského parlamentu a Rady (ES) č. 1924/2006 a (ES) č. 1925/2006 a o zrušení směrnice Komise 87/250/EHS, směrnice Rady 90/496/EHS, směrnice Komise 1999/10/ES, směrnice Evropského parlamentu a Rady 2000/13/ES, směrnic Komise 2002/67/ES a 2008/5/ES a nařízení Komise (ES) č. 608/2004, v platném znění. 
+>  Nařízení Evropského parlamentu a Rady (EU) 2019/787 ze dne 17. dubna 2019 o definici, popisu, obchodní úpravě a označování lihovin, používání názvů lihovin v obchodní úpravě a při označování jiných potravin, ochraně zeměpisných označení lihovin, používání lihu a destilátů zemědělského původu při výrobě alkoholických nápojů a o zrušení nařízení (ES) č. 110/2008, v platném znění. 
+>  Nařízení Evropského parlamentu a Rady (EU) 2024/1143 ze dne 11. dubna 2024 o zeměpisných označeních pro víno, lihoviny a zemědělské produkty, jakož i zaručené tradiční speciality, a o nepovinných údajích o jakosti pro zemědělské produkty, kterým se mění nařízení (EU) č. 1308/2013, (EU) 2019/787 a (EU) 2019/1753 a zrušuje nařízení (EU) č. 1151/2012, v platném znění.
+
+> <sup>3</sup>) Vyhláška č. 13/2024 Sb., o požadavcích na jakost balených vod a o způsobu jejich úpravy.“.
+
+3\. V § 2 písmeno b) zní:
+
+> „b) ovocnou šťávou se sníženým obsahem cukru výrobek získaný z ovocné šťávy, v němž bylo sníženo množství přirozeně se vyskytujících cukrů nejméně o 30 % za použití postupu povoleného za podmínek stanovených v příloze č. 4 k této vyhlášce části 3, a který zachovává všechny ostatní základní fyzikální, chemické, organoleptické a výživové vlastnosti průměrného druhu šťávy z ovoce, z něhož pochází,“.
+
+4\. Poznámka pod čarou č. 6 zní:
+
+> „<sup>6</sup>) § 2 odst. 1 písm. b) vyhlášky č. 187/2023 Sb., o požadavcích na čaj, kávu a kávoviny.“.
+
+5\. V § 2 se na konci písmene v) tečka nahrazuje čárkou a doplňují se písmena w) a x), která znějí:
+
+> „w) ovocnou šťávou z koncentrátu se sníženým obsahem cukru výrobek získaný z ovocné šťávy z koncentrátu, v němž bylo sníženo množství přirozeně se vyskytujících cukrů nejméně o 30 % postupem splňujícím požadavky stanovené v příloze č. 4 k této vyhlášce části 3, a který zachovává všechny ostatní základní fyzikální, chemické, organoleptické a výživové vlastnosti průměrného druhu šťávy z ovoce, z něhož pochází, nebo výrobek získaný zředěním koncentrované ovocné šťávy se sníženým obsahem cukru s vodou,
+
+> x) koncentrovanou ovocnou šťávou se sníženým obsahem cukru výrobek získaný z koncentrované ovocné šťávy, v němž bylo sníženo množství přirozeně se vyskytujících cukrů nejméně o 30 % postupem splňujícím požadavky stanovené v příloze č. 4 k této vyhlášce části 3, a který zachovává všechny ostatní fyzikální, chemické, organoleptické a výživové vlastnosti průměrného druhu výrobku, nebo výrobek získaný z ovocné šťávy se sníženým obsahem cukru fyzikálním odstraněním určitého podílu obsahu vody.“.
+
+6\. V § 3 se slova „koncentrátů k přípravě nealkoholických nápojů“ nahrazují slovy „nápojových koncentrátů“.
+
+7\. V § 4 odst. 1 se slova „koncentráty k přípravě nealkoholických nápojů“ nahrazují slovy „nápojové koncentráty“ a slova „2 až 6“ se nahrazují slovy „2 až 7“.
+
+8\. V § 4 odst. 2 se slova „a koncentrát k přípravě nealkoholických nápojů, s výjimkou nápojového koncentrátu,“ zrušují.
+
+9\. V § 4 odst. 3 se věta druhá zrušuje.
+
+10\. V § 4 se doplňuje odstavec 7, který zní:
+
+> „(7) Nápojový koncentrát se označí jako ovocný nebo zeleninový nápojový koncentrát, jestliže po jeho předepsaném naředění obsahuje získaný nápoj ovocnou nebo zeleninovou šťávu.“.
+
+11\. V § 5 odstavec 1 zní:
+
+> „(1) U nápojového koncentrátu vyráběného ze dvou nebo více druhů ovoce nebo zeleniny se uvede v blízkosti názvu výrobku seznam použitých druhů ovoce nebo zeleniny podle použitého množství v sestupném pořadí. U výrobků vyráběných ze 3 nebo více druhů ovoce nebo zeleniny lze označení druhů ovoce a zeleniny nahradit slovy „z několika druhů ovoce“ nebo „z několika druhů zeleniny“ nebo jiným označením odpovídajícím významu nebo počtu použitých druhů ovoce nebo zeleniny.“.
+
+12\. V § 5 odst. 2 se slovo „cukrů“ nahrazuje slovy „přírodních sladidel“.
+
+13\. V § 5 odst. 3 se slova „koncentrát k přípravě nealkoholických nápojů“ nahrazují slovy „nápojový koncentrát“.
+
+14\. V § 5 odstavec 6 zní:
+
+> „(6) U směsí ovocné šťávy z koncentrátu nebo ovocné šťávy z koncentrátu se sníženým obsahem cukru s ovocnou šťávou nebo s ovocnou šťávou se sníženým obsahem cukru, jakož i u ovocného nektaru získaného zcela nebo zčásti z jednoho nebo z více koncentrovaných produktů, se na etiketě uvede údaj „z koncentrátu“ nebo „z koncentrátů“, popřípadě „zčásti z koncentrátu“ nebo „zčásti z koncentrátů“. Tento údaj se uvede v blízkosti názvu výrobku, musí dobře vynikat na pozadí a musí být uveden jasně viditelnými písmeny.“.
+
+15\. V § 6 odst. 1 se slova „a ovocného nektaru“ nahrazují slovy „ , ovocného nektaru, ovocné šťávy se sníženým obsahem cukru, ovocné šťávy z koncentrátu se sníženým obsahem cukru a koncentrované ovocné šťávy se sníženým obsahem cukru“.
+
+16\. V § 6 se doplňují odstavce 7 a 8, které znějí:
+
+> „(7) Tvrzení „ovocné šťávy obsahují pouze přirozeně se vyskytující cukry“ lze na etiketě uvést ve stejném zorném poli jako název ovocné šťávy nebo ovocné šťávy z koncentrátu.
+
+> (8) Pro výrobek, který se získává přímo z kokosového ořechu bez vylisování kokosové dužiny, lze použít název „kokosová voda“ jako synonymum kokosové šťávy.“.
+
+17\. V § 9 se na konci odstavce 1 doplňuje věta „Směs zeleninové šťávy a zeleninové dřeně je při výrobě zeleninové šťávy přípustná.“.
+
+18\. V § 9 se na konci odstavce 2 doplňuje věta „Směs zeleninové šťávy nebo koncentrované zeleninové šťávy se zeleninovou dření nebo koncentrovanou zeleninovou dření je při výrobě zeleninové šťávy z koncentrátu přípustná.“.
+
+19\. V § 9 odst. 3 se slova „a), h), i), j), k), l) a m)“ nahrazují slovy „b), e), h), i), j), k), l), m), w) a x)“.
+
+20\. V § 9 se doplňují odstavce 5 až 7, které znějí:
+
+> „(5) Ovocnou šťávu se sníženým obsahem cukru lze získat smísením ovocné šťávy se sníženým obsahem cukru s ovocnou šťávou nebo s ovocnou dření.
+
+> (6) Ovocnou šťávu z koncentrátu se sníženým obsahem cukru lze získat smísením ovocné šťávy z koncentrátu se sníženým obsahem cukru s ovocnou šťávou, ovocnou šťávou z koncentrátu, ovocnou šťávou se sníženým obsahem cukru, koncentrovanou ovocnou dření nebo ovocnou dření.
+
+> (7) Pokud je koncentrovaná ovocná šťáva se sníženým obsahem cukru určena k přímé spotřebě, musí být odstraněno nejméně 50 % obsahu vody.“.
+
+21\. V nadpisu části třetí se slovo „CIDR“ nahrazuje slovem „CIDER“.
+
+22\. V § 11 písm. a) se slova „šťávy z ovoce, s výjimkou hroznů révy vinné, kterou je možno před kvašením upravit přídavkem vody, zahuštěného hroznového moštu anebo cukru“ nahrazují slovy „ovocné šťávy, s výjimkou šťávy z hroznů révy vinné, popřípadě vodného výluhu sušeného ovoce, který je možno před kvašením upravit přídavkem vody, cukru, zahuštěného hroznového moštu nebo medu“.
+
+23\. V § 11 se písmeno d) zrušuje.
+
+Dosavadní písmena e) až n) se označují jako písmena d) až m).
+
+24\. V § 11 písm. j) a k) se slova „nebo koření“ nahrazují slovy „ , propolisu nebo koření“.
+
+25\. V § 11 písm. l) se slova „cidrem nebo též“ zrušují.
+
+26\. V § 11 písm. m) se slovo „cidrem“ nahrazuje slovem „ciderem“.
+
+27\. V § 11 se na konci písmene m) tečka nahrazuje čárkou a doplňují se písmena n) až p), která znějí:
+
+> „n) výběrovou medovinou nápoj vyrobený alkoholovým kvašením z včelího medu, vody a kvasné kultury s možností přidání ovocné šťávy, ovoce, bylin, bylinných extraktů, propolisu nebo koření bez přidání dalších složek,
+
+> o) výběrovým ciderem cider vyrobený úplným nebo částečným alkoholovým kvašením minimálně 50 % čerstvé jablečné šťávy,
+
+> p) výběrovým perry perry vyrobené úplným nebo částečným alkoholovým kvašením minimálně 50 % čerstvé hruškové šťávy.“.
+
+28\. V § 12 se slova „cidru, perry a dezertní medoviny“ nahrazují slovy „cideru, perry a medoviny“.
+
+29\. V § 13 odst. 1 se slovo „cidr“ nahrazuje slovem „cider“, slovo „dezertní“ se zrušuje a číslo „4“ se nahrazuje číslem „6“.
+
+30\. V § 13 odstavec 3 zní:
+
+> „(3) Ovocná vína a ostatní vína se označí názvem druhu a skupiny. Nápoje druhů cider, perry a medovina se označí názvem skupiny.“.
+
+31\. V § 13 se doplňují odstavce 5 a 6, které včetně poznámky pod čarou č. 12 znějí:
+
+> „(5) Nápoj vyrobený primárním nebo sekundárním alkoholovým kvašením ovocného vína v láhvi lze označit jako šumivé ovocné víno, pokud obsah CO<sub>2</sub> pochází pouze z kvašení. Šumivé ovocné víno lze uvádět na trh nebo vyvážet ve skleněných lahvích uzavřených způsobem podle čl. 57 odst. 1 nařízení o ochraně označení původu, zeměpisných označení a tradičních výrazů v odvětví vína<sup>12</sup>).
+
+> (6) Nápoj vyrobený primárním nebo sekundárním alkoholovým kvašením medoviny v láhvi lze označit jako šumivá medovina, pokud obsah CO<sub>2</sub> pochází pouze z kvašení. Šumivou medovinu lze na trh uvádět nebo vyvážet ve skleněných lahvích uzavřených způsobem podle čl. 57 odst. 1 nařízení o ochraně označení původu, zeměpisných označení a tradičních výrazů v odvětví vína.
+
+> <sup>12</sup>) Nařízení Komise v přenesené pravomoci (EU) 2019/33 ze dne 17. října 2018, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o žádosti o ochranu označení původu, zeměpisných označení a tradičních výrazů v odvětví vína, řízení o námitce, omezení použití, změny specifikace výrobku, zrušení ochrany a označování a obchodní úpravu, v platném znění.“.
+
+32\. V § 14 se slovo „cidru“ nahrazuje slovem „cideru“.
+
+33\. V § 15 odst. 3 se za slovo „částečně“ vkládají slova „nebo zcela“.
+
+34\. V § 15 odst. 5 se slova „dezertní medoviny“ nahrazují slovy „nápoje druhu medovina“.
+
+35\. V § 16 písm. a) se slova „neupraveného chmele, upraveného chmele nebo chmelových výrobků<sup>9</sup>)“ nahrazují slovy „chmele, chmelových výrobků nebo upravených chmelových výrobků“ a slova „ ; u piv ochucených může být obsah alkoholu zvýšen přídavkem lihovin nebo ostatních alkoholických nápojů“ se zrušují.
+
+Poznámka pod čarou č. 9 se zrušuje.
+
+36\. V § 16 se na konci textu písmene d) doplňují slova „ , bakterií mléčného kvašení nebo jejich kombinací“.
+
+37\. V § 16 písm. g) se za slovo „stáčení“ vkládají slova „nebo při čepování“.
+
+38\. V § 16 se na konci textu písmene n) doplňují slova „ , při jehož výrobě nemusí kvasným procesem vznikat etanol“.
+
+39\. V § 16 písm. q) se slova „ ; obsah alkoholu pocházejícího z lihovin a ostatních alkoholických nápojů přitom nesmí překročit obsah alkoholu v původním pivu“ zrušují.
+
+40\. V § 16 písm. s) se slova „ , míchaný nápoj z piva nebo atypický pivní nápoj“ nahrazují slovy „nebo míchaný nápoj z piva“.
+
+41\. V § 16 písm. u) se slova „pro přípravu nealkoholických nápojů“ nahrazují slovy „s vodou“.
+
+42\. V § 16 písmeno v) zní:
+
+> „v) atypickým pivem pivo s modifikovaným podílem sladu, modifikovaným způsobem kvašení nebo vyrobené za použití surovin zcela nahrazujících chmel, chmelové výrobky a upravené chmelové výrobky,“.
+
+43\. V § 16 se na konci písmene w) tečka nahrazuje čárkou a doplňuje se písmeno x), které zní:
+
+> „x) spontánně kvašeným pivem pivo vyrobené za použití spontánní mikroflóry.“.
+
+44\. V § 16 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Pro účely této vyhlášky se dále rozumí
+
+> a) chmelem sušená nebo nesušená samičí květenství, rovněž nazývaná chmelové hlávky, rostliny chmele otáčivého *Humulus lupulus* a dále mechanicky upravený chmel, jako jsou chmelové pelety a chmelové prášky, které obsahují pouze přirozené části chmele,
+
+> b) chmelovými výrobky výrobky, jako jsou chmelové extrakty nebo chmelové silice, připravené fyzikálními úpravami chmele,
+
+> c) upravenými chmelovými výrobky výrobky, jako jsou isoextrakty, isopelety a iso-α-hořké kyseliny, připravené chemickými úpravami chmele.“.
+
+45\. V § 17 odst. 2 se za slovo „lze“ vkládají slova „u piva“.
+
+46\. V § 18 odst. 1 písm. a) se slova „údajem v hmotnostních procentech“ nahrazují slovy „nebo slovním údajem, popřípadě doplněné o symbol stupně nebo hmotnostních procent“.
+
+47\. V § 18 odst. 1 se na konci textu písmene b) doplňují slova „nebo nízkoalkoholický nápoj na bázi piva“.
+
+48\. V § 18 odst. 1 písm. e) se za slovo „pivo“ vkládá slovo „světlé,“.
+
+49\. Za § 19 se vkládá nový § 19a, který včetně nadpisu zní:
+
+> **„§ 19a – Technologické požadavky**
+
+> (1) U piva ochuceného, atypického a spontánně kvašeného lze upravit kvasný proces nebo používání surovin v souladu s jejich definicemi.
+
+> (2) Obsah alkoholu v ochuceném pivu může být zvýšen přídavkem lihovin nebo ostatních alkoholických nápojů, ale obsah alkoholu pocházejícího z lihovin a ostatních alkoholických nápojů přitom nesmí překročit obsah alkoholu v původním pivu.“.
+
+50\. Na konci textu § 20 se doplňují slova „a tyto informace se uvedou v označení výrobku“.
+
+51\. V § 21 písm. b) se slova „nebo též lihovinovým kulérem“ zrušují.
+
+52\. V § 21 písm. d) se slova „anebo rumové tresti“ a slova „nebo též lihovinovým kulérem“ zrušují.
+
+53\. V § 21 písmeno f) včetně poznámek pod čarou č. 13 až 17 zní:
+
+> „f) ostatními alkoholickými nápoji nápoje obsahující více než 1,2 % objemových a méně než 15 % objemových etanolu, kromě vaječného likéru podle nařízení o definici, popisu, obchodní úpravě a označování lihovin, používání názvů lihovin v obchodní úpravě a při označování jiných potravin, ochraně zeměpisných označení lihovin, používání lihu a destilátů zemědělského původu při výrobě alkoholických nápojů a o zrušení nařízení (ES) č. 110/2008<sup>13</sup>) (dále jen „nařízení o lihovinách“), piva, nápojů na bázi piva, ovocného vína, ostatního vína, nápojů druhů cider, perry a medovina, rýžového vína, aromatizovaného vinného výrobku<sup>14</sup>), vína<sup>15</sup>), burčáku<sup>16</sup>) a částečně zkvašeného hroznového moštu<sup>17</sup>).
+
+> <sup>13</sup>) Nařízení Evropského parlamentu a Rady (EU) 2019/787, v platném znění.
+
+> <sup>14</sup>) Čl. 3 nařízení Evropského parlamentu a Rady (EU) č. 251/2014 ze dne 26. února 2014 o definici, popisu, obchodní úpravě a označování aromatizovaných vinných výrobků a o zrušení nařízení Rady (EHS) č. 1601/91, v platném znění.
+
+> <sup>15</sup>) Příloha VII část II bod 1 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013 ze dne 17. prosince 2013, kterým se stanoví společná organizace trhů se zemědělskými produkty a zrušují nařízení Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007, v platném znění.
+
+> <sup>16</sup>) § 15 zákona č. 321/2004 Sb., o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství), ve znění pozdějších předpisů.
+
+> <sup>17</sup>) Příloha VII část II bod 11 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, v platném znění.“.
+
+Poznámka pod čarou č. 10 se zrušuje.
+
+54\. V § 22 se slova „II a III nařízení o definici, popisu, obchodní úpravě, označování a ochraně zeměpisných označení lihovin“ nahrazují slovy „I a II nařízení o lihovinách a v rejstříku zeměpisných označení lihovin podle čl. 22 nařízení č. 2024/1143“.
+
+55\. V § 23 odstavec 1 zní:
+
+> „(1) Kromě údajů uvedených v nařízení o lihovinách, v nařízení o poskytování informací spotřebitelům, v zákoně a ve vyhlášce o některých způsobech označování potravin se uvede
+
+> a) u konzumního lihu a lihovin název druhu, u lihovin podle § 21 písm. b) až e) též název skupiny,
+
+> b) u ostatních alkoholických nápojů název druhu a popřípadě popisný název.“.
+
+56\. V § 23 odst. 4 a v § 24 odst. 1 se slova „definici, popisu, obchodní úpravě, označování a ochraně zeměpisných označení lihovin“ nahrazují slovem „lihovinách“.
+
+57\. V § 23 odst. 5 se slova „definici, popisu, obchodní úpravě, označování a ochraně zeměpisných označení lihovin na „ovocný destilát““ nahrazují slovy „lihovinách pro kategorii 4, 5, 7, 9, 9a, 10, 12, 13a a 13b v příloze I tohoto nařízení“.
+
+58\. V § 23 se odstavce 6 a 7 včetně poznámky pod čarou č. 11 zrušují.
+
+59\. V příloze č. 1 tabulce 1 se za slovo „Kdoule“ vkládají slova „(*Cydonia oblonga L.*)“.
+
+60\. V příloze č. 1 tabulce 2 se za řádek „Černý rybíz (\*)“ vkládá řádek, který zní:
+
+> „
+>
+> | Kokosový ořech (\*) | *Cocos nucifera* L. | 4,5 |
+> |---|---|---|
+>
+> “.
+
+61\. Příloha č. 2 zní:
+
+> **„Příloha č. 2**
+
+> **Členění nealkoholických nápojů a koncentrátů k jejich přípravě na skupiny a podskupiny a smyslové požadavky na jejich jakost**
+
+> <table><tbody><tr><th colspan="3">členění</th><th colspan="2">smyslové požadavky</th></tr><tr><th>druh</th><th>skupina</th><th>podskupina</th><th>vzhled</th><th>chuť a vůně</th></tr><tr><td rowspan="10">nealkoholický nápoj</td><td>všechny šťávy uvedené v § 2</td><td></td><td>čirý až kalný, případně s obsahem dřeně, dužniny ovoce nebo zeleniny, bez cizích příměsí, kromě příměsí povolených touto vyhláškou</td><td rowspan="9">odpovídající použitým složkám bez cizích příchutí a pachů</td></tr><tr><td>nektar</td><td></td><td>čirý až kalný, případně s obsahem dřeně, dužniny ovoce nebo zeleniny, bez cizích příměsí</td></tr><tr><td>vařený čaj pravý/Brewed Tea</td><td></td><td></td></tr><tr><td>ledový čaj/Ice Tea</td><td></td><td></td></tr><tr><td rowspan="5">nealkoholický nápoj ochucený</td><td>ovocný nebo zeleninový nápoj</td><td rowspan="5">čirý až kalný, případně s mírným sedimentem, bez cizích příměsí</td></tr><tr><td>limonáda</td></tr><tr><td>minerální voda ochucená</td></tr><tr><td>pitná voda ochucená</td></tr><tr><td>pramenitá voda ochucená</td></tr><tr><td>sodová voda</td><td></td><td>čirý až jiskrný bez sedimentu a cizích příměsí</td><td>čistá bez cizích příchutí a pachů</td></tr><tr><td rowspan="4">nápojový koncentrát</td><td>ovocný nebo zeleninový koncentrát</td><td></td><td>opalizující až kalný se sedimentem, bez cizích příměsí</td><td rowspan="4">odpovídající použitým složkám bez cizích příchutí a pachů</td></tr><tr><td rowspan="2">nápojový koncentrát</td><td>sirup</td><td>čirý až kalný, případně s mírným sedimentem, bez cizích příměsí</td></tr><tr><td>nápoj v prášku</td><td>prášek, granule nebo tablety, bez cizích příměsí</td></tr><tr><td>sušená ovocná nebo zeleninová šťáva</td><td></td><td>bez cizích příměsí</td></tr></tbody></table> “.
+>
+> “.
+
+62\. Přílohy č. 4 až 7 znějí:
+
+> **„Příloha č. 4**
+
+> **Další technologické požadavky na vybrané nealkoholické nápoje**
+
+> <table><tbody><tr><td colspan="3">1. Složení</td></tr><tr><td colspan="3">a) Při přípravě ovocných šťáv, ovocných dření a ovocných nektarů se použijí druhy ovoce odpovídající botanickým názvům uvedeným v příloze č. 1 k této vyhlášce tabulce 1 a v názvu výrobku se pak uvede název příslušného ovoce nebo obecný název výrobku. U druhů ovoce nezařazených do přílohy č. 1 k této vyhlášce tabulky 2 se použije správný botanický nebo obecný název.</td></tr><tr><td colspan="3">b) Hodnotou Brix ovocné šťávy se rozumí hodnota Brix šťávy získané z ovoce; nesmí se upravovat, s výjimkou směsi se šťávou ze stejného druhu ovoce.</td></tr><tr><td colspan="3">c) Minimální hodnota Brix stanovená v příloze č. 1 k této vyhlášce tabulce 1 pro ředěné ovocné šťávy a ředěné ovocné dřeně nezahrnuje rozpustné sušiny jakýchkoli přidaných nepovinných složek a přídatných látek.</td></tr><tr><td colspan="3">2. Povolené složky</td></tr><tr><td colspan="3">a) Do výrobků uvedených v § 2 písm. b), e), h), i), j), k), l), m), w) a x) mohou být přidány pouze tyto složky:</td></tr><tr><td colspan="3">- vitamíny a minerální látky povolené nařízením Evropského parlamentu a Rady (ES) č. 1925/2006 o přidávání vitaminů a minerálních látek a některých dalších látek do potravin,</td></tr><tr><td colspan="3" rowspan="2">- potravinářské přídatné látky povolené nařízením (ES) č. 1333/2008; při výrobě výrobků uvedených v § 2 písm. b), e), h), i), j), k), l), m), w) a x), s výjimkou ovocných a zeleninových nektarů, se však nesmějí používat sladidla,<br> a dále</td></tr><tr></tr><tr><td colspan="3">- v případě výrobků uvedených v § 2 písm. b), e), h), i), j), k), l), m), w) a x) pro úpravu kyselé chuti: citrónová šťáva nebo šťáva z limetek nebo koncentrovaná citrónová šťáva nebo šťáva z limetek do výše 3 g na litr šťávy, vyjádřeno jako bezvodá kyselina citrónová.</td></tr><tr><td colspan="3">- v případě ovocné šťávy se sníženým obsahem cukru a ovocné šťávy z koncentrátu se sníženým obsahem cukru: voda v míře nezbytně nutné k obnovení úbytku vody v důsledku procesu snižování obsahu cukru</td></tr><tr><td rowspan="3"></td><td>-</td><td>v případě ovocných a zeleninových šťáv, ovocných šťáv a zeleninových šťáv z koncentrátu, koncentrovaných ovocných a zeleninových šťáv, ovocných šťáv se sníženým obsahem cukru, ovocných šťáv z koncentrátu se sníženým obsahem cukru a koncentrovaných ovocných šťáv se sníženým obsahem cukru: vrácené aroma, dužnina a buňky,</td></tr><tr><td>-</td><td>v případě hroznové šťávy: vrácené soli kyseliny vinné,</td></tr><tr><td>-</td><td>v případě ovocných a zeleninových nektarů: vrácené aroma, dužnina a buňky; cukry nebo med nejvýše do 20 % celkové hmotnosti hotových výrobků uvedených v příloze č. 1 k této vyhlášce tabulce 1 části I, 15 % celkové hmotnosti hotových výrobků uvedených v příloze č. 1 k této vyhlášce tabulce 1 části II a 10 % celkové hmotnosti hotových výrobků uvedených příloze č. 1 k této vyhlášce tabulce 1 části III; nebo sladidla.</td></tr><tr><td colspan="3">b) Tvrzení, že do ovocného nektaru nebyly přidány cukry, a jakékoli tvrzení, které má pro spotřebitele pravděpodobně stejný význam, lze použít pouze tehdy, pokud nebyly do výrobku přidány žádné monosacharidy ani disacharidy ani žádná jiná potravina používaná pro své sladivé vlastnosti, včetně sladidel vymezených v nařízení (ES) č. 1333/2008. V případě takového tvrzení musí být na etiketě rovněž uvedeno: „obsahuje přirozeně se vyskytující cukry“.</td></tr><tr><td colspan="3">c) V případě rajčatové šťávy a rajčatové šťávy z koncentrátu je možno použit jedlou sůl, koření a aromatické byliny.</td></tr><tr><td colspan="3">3. Povolené způsoby zpracování a látky</td></tr><tr><td colspan="3">V případě výrobků uvedených v § 2 písm. b), e), h), i), j), k), l), m), w) a x) mohou být použity pouze tyto způsoby zpracování a mohou být do nich přidány pouze tyto látky:</td></tr><tr><td colspan="3">- mechanické způsoby oddělování,</td></tr><tr><td colspan="3">- obvyklé fyzikální postupy výroby koncentrovaných ovocných šťáv, včetně přímého odstranění vody z jedlých částí plodů s výjimkou vinných hroznů, pokud jsou takto získané ovocné šťávy v souladu s § 2 písm. e) a i),</td></tr><tr><td colspan="3">- v případě hroznové šťávy, která byla sířena oxidem siřičitým, se povoluje odsíření fyzikálními prostředky za předpokladu, že celkové množství SO<sub>2</sub> přítomného v hotovém produktu nepřekročí 10 mg/l,</td></tr><tr><td colspan="3">- enzymatické přípravky: pektinázy (pro rozložení pektinu), proteinázy (pro rozložení bílkovin) a amylázy (pro štěpení škrobu) splňující požadavky nařízení Evropského parlamentu a Rady (ES) č. 1332/2008 o potravinářských enzymech,</td></tr><tr><td colspan="3">- jedlá želatina,</td></tr><tr><td colspan="3">- taniny,</td></tr><tr><td colspan="3">- sol (koloidní roztok) kyseliny křemičité,</td></tr><tr><td colspan="3">- aktivní uhlí,</td></tr><tr><td colspan="3">- dusík,</td></tr><tr><td colspan="3">- bentonit jako adsorpční jíl,</td></tr><tr><td colspan="3">- chemicky inertní pomocné filtrační látky a srážecí činidla (mj. perlit, promytá křemelina, celulosa, nerozpustný polyamid, polyvinylpolypyrolidon, polystyren), které jsou v souladu s nařízením Evropského parlamentu a Rady (ES) č. 1935/2004 o materiálech a předmětech určených pro styk s potravinami,</td></tr><tr><td colspan="3">- chemicky inertní pomocné adsorpční látky, které jsou v souladu s nařízením Evropského parlamentu a Rady (ES) č. 1935/2004 o materiálech a předmětech určených pro styk s potravinami a které se používají ke snížení obsahu limonoidů a naringinu v citrusové šťávě, aniž by výrazně ovlivnily obsah limonoidních glykosidů, kyselin, cukrů (včetně oligosacharidů) nebo minerálních látek,</td></tr><tr><td colspan="3">- bílkoviny rostlinného původu z pšenice, hrachu, brambor nebo slunečnicových semen používané pro čiření.</td></tr><tr><td colspan="3">- pouze v případě ovocné šťávy se sníženým obsahem cukru, ovocné šťávy z koncentrátu se sníženým obsahem cukru a koncentrované ovocné šťávy se sníženým obsahem cukru: postupy ke snížení množství přirozeně se vyskytujících cukrů, pokud jsou zachovány všechny ostatní základní fyzikální, chemické, organoleptické a nutriční vlastnosti průměrného druhu šťávy z ovoce, z něhož pochází, konkrétně membránová filtrace a kvasinková fermentace.</td></tr><tr><td colspan="3">- navíc koření, byliny a jedlá sůl, pokud její množství nepřekročí 3 % hmotnosti potraviny při výrobě zeleninové šťávy.</td></tr><tr><td colspan="3">4. Suroviny</td></tr><tr><td colspan="3">Ovoce – všechny druhy ovoce. Ovoce musí být zdravé, přiměřeně zralé, čerstvé nebo konzervované fyzikálními prostředky nebo úpravou použitou v souladu s předpisy Evropské unie, včetně úpravy po sklizni.</td></tr><tr><td colspan="3">Ovocná dřeň – zkvasitelný, ale nezkvašený výrobek získaný vhodnými fyzikálními postupy, například pasírováním, drcením, mletím jedlých částí celého nebo loupaného ovoce bez oddělení šťávy.</td></tr><tr><td colspan="3">Koncentrovaná ovocná dřeň – výrobek získaný z ovocné dřeně fyzikálním odstraněním určitého podílu přirozeného obsahu vody. Koncentrované ovocné dřeni může být navráceno aroma, získané vhodnými fyzikálními prostředky podle bodu 3 odrážky druhé, a obnovené ze stejného druhu ovoce.</td></tr><tr><td colspan="3">Aroma – aniž je dotčeno nařízení Evropského parlamentu a Rady (ES) č. 1334/2008, získává se aroma určené k navrácení během zpracování ovoce za použití vhodných fyzikálních postupů. Tyto fyzikální postupy se mohou uplatňovat pro udržení, uchování nebo stabilizování kvality aromatu a zahrnují zejména lisování, extrakci/vyluhování, destilaci, filtraci, adsorpci, odpařování, frakcionaci a koncentraci.</td></tr><tr><td colspan="3">Aroma se získává z jedlých částí ovoce; může to však být rovněž z oleje lisovaného za studena z kůry citrusových plodů a směsi z pecek.</td></tr><tr><td colspan="3">Cukry – výrobky podle vyhlášky o požadavcích na přírodní sladidla, potraviny se sladivými účinky, cukrovinky, kakaové boby, kakaové a čokoládové výrobky a med, dále fruktózový sirup a cukry pocházející z ovoce.</td></tr><tr><td colspan="3">Med – výrobek podle vyhlášky o požadavcích na přírodní sladidla, potraviny se sladivými účinky, cukrovinky, kakaové boby, kakaové a čokoládové výrobky a med.</td></tr><tr><td colspan="3">Dužnina nebo buňky – výrobky získané z jedlých částí plodu stejného druhu bez odstranění šťávy. V případě citrusových plodů jsou dužninou nebo buňkami také váčky šťávy získané z endokarpu.</td></tr></tbody></table>
+
+> **Příloha č. 5**
+
+> **Požadavky na jakost ovocných vín, ostatních vín, cideru, perry a medoviny**
+
+> **Tabulka 1**
+
+> **Smyslové požadavky**
+
+> | | vzhled | barva | vůně a chuť |
+> |---|---|---|---|
+> | ovocná vína a ostatní vína mimo vín sladových | čirý, jiskrný | odpovídající šťávě použitého druhu ovoce | harmonická u dezertních kořeněných ovlivněná použitým kořením |
+> | dezertní medovina a sladová vína | čirý, jiskrný, přípustná opalescence | zlatohnědá | harmonická |
+> | skupina medovina a výběrová medovina | čirý, jiskrný, přípustná opalescence a kvasničná sedlinka | odpovídající použitému druhu medu a dalších surovin | harmonická |
+> | rýžové víno | čirý, jiskrný | odpovídající použitým surovinám | harmonická podle použitých surovin |
+
+> **Tabulka 2**
+
+> **Chemické požadavky**
+
+> | druh | obsah etanolu v % objemových | obsah těkavých kyselin v g/l nejvýše | obsah cukru v g/l | Bezcukerný extrakt v g/l |
+> |---|---|---|---|---|
+> | ovocná vína stolní | nejméně 10 | 1,3 | nejvýše 20 | x |
+> | ovocná vína polosladká | nejméně 11 | 1,3 | více než 20, nejvýše 90 | x |
+> | ovocná vína dezertní | nejméně 14 | 1,3 | více než 80 | x |
+> | ovocná vína dezertní kořeněná | nejméně 14 | 1,3 | x | x |
+> | ovocná vína perlivá | nejvýše 12 | 1,3 | x | x |
+> | cider a perry | nejméně 1,2 a nejvýše 8,5 | 1,4 | x | x |
+> | sladové | nejméně 13,5 | 1,3 | 55, odchylka +/-5 | x |
+> | bylinné | nejméně 14 | 1,7 | nejvýše 120 | x |
+> | dezertní medovina | nejméně 10 | 1,6 | nejméně 40 | x |
+> | skupina medovina a výběrová medovina | nejméně 11 | 1,6 | x | nejméně 20 |
+> | rýžové víno | nejméně 10 | x | x | x |
+
+> **Tabulka 3**
+
+> **Množství ovocné šťávy v ovocných vínech z jednoho druhu ovoce**
+
+> | ovocné víno | druh ovoce | množství ovocné šťávy v litrech na 1 000 l výrobku nejméně |
+> |---|---|---|
+> | rybízové | rybíz | 300 |
+> | třešňové | třešně | 700 |
+> | višňové | višně | 550 |
+> | jablečné | jablka | 600 |
+> | hruškové | hrušky | 800 |
+> | šípkové | šípky | 700 |
+> | borůvkové | borůvky | 500 |
+
+> **Příloha č. 6**
+
+> **Členění ovocných vín, ostatních vín, cideru, perry a medoviny na druhy a skupiny**
+
+> <table><tbody><tr><th>druh</th><th>skupina</th></tr><tr><td rowspan="5">ovocná vína</td><td>stolní</td></tr><tr><td>polosladká</td></tr><tr><td>dezertní</td></tr><tr><td>dezertní kořeněná</td></tr><tr><td>perlivá</td></tr><tr><td rowspan="3">ostatní vína</td><td>bylinná</td></tr><tr><td>sladová</td></tr><tr><td>rýžové víno</td></tr><tr><td rowspan="2">cider</td><td>cider</td></tr><tr><td>výběrový cider</td></tr><tr><td rowspan="2">perry</td><td>perry</td></tr><tr><td>výběrové perry</td></tr><tr><td rowspan="3">medovina</td><td>medovina</td></tr><tr><td>výběrová medovina</td></tr><tr><td>dezertní medovina s přídavkem lihu<br> dezertní medovina s přídavkem cukru<br> dezertní medovina s přídavkem vína<br> dezertní medovina s přídavkem (uvede se kombinace výše uvedených použitých složek)</td></tr></tbody></table>
+
+> **Příloha č. 7**
+
+> **Členění piva a nápojů na bázi piva na druhy a skupiny**
+
+> <table><tbody><tr><th>druh</th><th>skupina</th></tr><tr><td rowspan="9">pivo</td><td>stolní</td></tr><tr><td>výčepní</td></tr><tr><td>ležák</td></tr><tr><td>plné</td></tr><tr><td>silné</td></tr><tr><td>nízkoalkoholické</td></tr><tr><td>nealkoholické</td></tr><tr><td>atypické</td></tr><tr><td>spontánně kvašené</td></tr><tr><td rowspan="2">nápoje na bázi piva</td><td>kvašený sladový nápoj</td></tr><tr><td>míchaný nápoj z piva</td></tr></tbody></table> “.
+>
+> “.
+
+63\. V příloze č. 8 tabulka 1 zní:
+
+> **„Tabulka 1**
+
+> <table><tbody><tr><th colspan="2">Ukazatel*)</th><th colspan="8">Pivo</th><th colspan="2">Nápoj na bázi piva</th></tr><tr><td colspan="2" rowspan="2"></td><td rowspan="2">nealkoholické</td><td rowspan="2">nízkoalkoholické***)</td><td rowspan="2">stolní</td><td rowspan="2">výčepní</td><td rowspan="2">ležák</td><td rowspan="2">plné</td><td rowspan="2">silné</td><td>atypické</td><td rowspan="2">kvašený sladový nápoj</td><td rowspan="2">míchaný nápoj z piva</td></tr><tr><td>spontánně kvašené</td></tr><tr><td rowspan="3">skutečné prokvašení v %</td><td>tmavá piva spodně kvašená</td><td colspan="2">nestanoveno</td><td colspan="3">min. 45</td><td>-</td><td>min. 45</td><td rowspan="3">min. 45</td><td rowspan="3">nestanoveno</td><td rowspan="3">nestanoveno</td></tr><tr><td>ostatní piva spodně kvašená</td><td colspan="2">nestanoveno</td><td colspan="3">min. 50</td><td>-</td><td>min. 50</td></tr><tr><td>piva svrchně kvašená</td><td colspan="2">nestanoveno</td><td colspan="2">min. 50</td><td>-</td><td colspan="2">min. 50</td></tr><tr><td colspan="2">alkohol v % obj.</td><td>max. 0,5</td><td>více než 0,5 max. 1,2</td><td colspan="5">více než 1,2</td><td>více než 1,2</td><td colspan="2">pouze z pivovarské technologie</td></tr><tr><td colspan="2">extrakt původní mladiny v % hm. **)</td><td colspan="2">nestanoveno</td><td>max. 6</td><td>7 až 10</td><td>11 až 12</td><td>11 až 12</td><td>min. 13</td><td>nestanoveno</td><td>nestanoveno</td><td>nestanoveno</td></tr></tbody></table>
+
+> \*) U údajů, s výjimkou údajů o obsahu alkoholu, extraktu původní mladiny a nutriční hodnotě, označených na obale v množstevních jednotkách, se připouští absolutní hodnota kladné i záporné odchylky 10 % relativních, pokud není uvedeno, že jde o průměrné hodnoty.
+
+> \*\*) Obsah extraktu původní mladiny, stanovený výpočtem podle velkého Ballingova vzorce, se posuzuje hodnotou zaokrouhlenou na celé číslo směrem dolů.“.
+
+> \*\*\*) U piv s obsahem alkoholu do 1,2 % obj. včetně se připouští absolutní hodnota kladné i záporné odchylky 0,3 % objemových od deklarované hodnoty.“.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Nápoje s výjimkou piva a nápojů na bázi piva uvedené na trh nebo označené přede dnem 14. června 2026 v souladu s požadavky vyhlášky č. 248/2018 Sb., ve znění účinném přede dnem 14. června 2026, mohou být prodávány do vyčerpání zásob.
+
+2\. Pivo a nápoje na bázi piva lze vyrábět, označovat a uvádět na trh podle vyhlášky č. 248/2018 Sb., ve znění účinném přede dnem 14. června 2026, do 31. prosince 2026.
+
+3\. Pivo a nápoje na bázi piva uvedené na trh nebo označené přede dnem 31. prosince 2026 v souladu s požadavky vyhlášky č. 248/2018 Sb., ve znění účinném přede dnem 14. června 2026, mohou být prodávány do vyčerpání zásob.
+
+## Čl. III – Technický předpis
+
+Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady (EU) 2015/1535 ze dne 9. září 2015 o postupu při poskytování informací v oblasti technických předpisů a předpisů pro služby informační společnosti.
+
+## Čl. IV – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 14. června 2026.
+
+Ministr zemědělství:
+
+Ing. Šebestyán, MBA, v. r.

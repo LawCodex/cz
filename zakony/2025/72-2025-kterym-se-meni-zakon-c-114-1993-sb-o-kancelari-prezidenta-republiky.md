@@ -1,0 +1,48 @@
+---
+title: "Zákon č. 72/2025 Sb., kterým se mění zákon č. 114/1993 Sb., o Kanceláři prezidenta republiky, ve znění pozdějších předpisů"
+identifier: "72/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/72/2025-04-04"
+type: act
+jurisdiction: cz
+language: cs
+date: 2025-02-26
+effective: 2025-04-04
+last_amended: 2025-04-04
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/72"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 72/2025 Sb., kterým se mění zákon č. 114/1993 Sb., o Kanceláři prezidenta republiky, ve znění pozdějších předpisů
+
+72
+
+ZÁKON
+
+ze dne 26. února 2025,
+
+kterým se mění zákon č. 114/1993 Sb., o Kanceláři prezidenta republiky, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 114/1993 Sb., o Kanceláři prezidenta republiky, ve znění zákona č. 224/1999 Sb., zákona č. 220/2000 Sb., zákona č. 49/2004 Sb. a zákona č. 281/2004 Sb., se mění takto:
+
+1\. V § 1 odst. 2 se slova „rozpočtovou organizací“ nahrazují slovy „organizační složkou státu“.
+
+2\. V § 2 odst. 1 se na konci textu písmene b) doplňují slova „a jeho manžela nebo partnera“.
+
+3\. V § 2 se doplňuje odstavec 3, který zní:
+
+> „(3) Kancelář dále zajišťuje obstarávání věcí spojených s přípravou zvoleného prezidenta republiky na výkon úřadu a s jeho související veřejnou činností od jeho zvolení do složení slibu.“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Pekarová Adamová v. r.
+
+Pavel v. r.
+
+Fiala v. r.

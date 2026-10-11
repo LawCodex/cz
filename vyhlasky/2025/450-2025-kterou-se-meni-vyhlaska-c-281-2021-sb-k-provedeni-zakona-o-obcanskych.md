@@ -1,0 +1,108 @@
+---
+title: "Vyhláška č. 450/2025 Sb., kterou se mění vyhláška č. 281/2021 Sb., k provedení zákona o občanských průkazech a některých ustanovení zákona o cestovních dokladech a zákona o základních registrech, ve znění pozdějších předpisů"
+identifier: "450/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/450/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-10-15
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/450"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 450/2025 Sb., kterou se mění vyhláška č. 281/2021 Sb., k provedení zákona o občanských průkazech a některých ustanovení zákona o cestovních dokladech a zákona o základních registrech, ve znění pozdějších předpisů
+
+450
+
+VYHLÁŠKA
+
+ze dne 15. října 2025,
+
+kterou se mění vyhláška č. 281/2021 Sb., k provedení zákona o občanských průkazech a některých ustanovení zákona o cestovních dokladech a zákona o základních registrech, ve znění pozdějších předpisů
+
+Ministerstvo vnitra stanoví podle § 71 zákona č. 269/2021 Sb., o občanských průkazech, ve znění zákona č. 235/2025 Sb., § 5 odst. 5 písm. a) zákona č. 329/1999 Sb., o cestovních dokladech, ve znění zákona č. 136/2006 Sb., zákona č. 106/2007 Sb., zákona č. 140/2008 Sb., zákona č. 197/2010 Sb. a zákona č. 318/2015 Sb., a § 20 odst. 5 zákona č. 329/1999 Sb., o cestovních dokladech, ve znění zákona č. 559/2004 Sb., zákona č. 136/2006 Sb., zákona č. 140/2008 Sb. a zákona č. 270/2021 Sb.:
+
+## Čl. I
+
+Vyhláška č. 281/2021 Sb., k provedení zákona o občanských průkazech a některých ustanovení zákona o cestovních dokladech a zákona o základních registrech, ve znění vyhlášky č. 175/2023 Sb. a vyhlášky č. 431/2023 Sb., se mění takto:
+
+1\. V § 7 odst. 1 písm. a) se slova „Evropského parlamentu a Rady (EU) 2019/1157 ze dne 20. června 2019“ nahrazují slovy „Rady (EU) 2025/1208 ze dne 12. června 2025“ a na konci textu písmene se doplňují slova „(dále jen „nařízení o posílení zabezpečení“)“.
+
+2\. V § 7 odst. 1 písm. b) a v § 10 písm. d) bodech 2 a 3 se slova „Evropského parlamentu a Rady (EU) 2019/1157“ nahrazují slovy „o posílení zabezpečení“.
+
+3\. § 23 se včetně nadpisu zrušuje.
+
+4\. § 32 včetně nadpisu zní:
+
+> **„§ 32 – Požadavky na technické provedení fotografie přikládané k žádosti o vydání cestovního dokladu bez strojově čitelných údajů a bez nosiče dat s biometrickými údaji**
+
+> Fotografie přikládaná k žádosti o vydání cestovního dokladu bez strojově čitelných údajů a bez nosiče dat s biometrickými údaji musí splňovat požadavky na pořízení podoby osoby, jíž je cestovní doklad vydáván, podle § 20 odst. 2, musí mít hladký povrch a musí být v barevném provedení. Fotografie musí být obdélníkového tvaru o rozměrech 35 mm x 45 mm, postavená na kratší stranu, s rovnými nebo zaoblenými rohy, s poloměrem r = 3 mm +/– 0,5 mm a o tloušťce od 0,13 mm do 0,27 mm.“.
+
+5\. V příloze č. 1 se za slova „vstupu do“ vkládá slovo „registrovaného“, za slovo „jeho“ se vkládá slovo „registrované“, slova „jednoho z partnerů“ se nahrazují slovy „druhého partnera“ a za slovo „mrtvého“ se vkládají slova „ , změnou pohlaví jednoho z partnerů“.
+
+6\. Příloha č. 2 zní:
+
+> **„Příloha č. 2**
+
+> **Vzor dočasného občanského průkazu**
+
+> I. Vzor dočasného občanského průkazu vydávaného z důvodů podle § 43 odst. 1 nebo 2 zákona o občanských průkazech
+
+> **![sbcr2025c450z0450o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1652607/NAHLED/ZOBRAZ/sbcr2025c450z0450o001)**
+
+> V případě, že občan učinil prohlášení o vstupu do registrovaného partnerství nebo jeho registrované partnerství zaniklo smrtí druhého partnera, prohlášením druhého partnera za mrtvého, změnou pohlaví jednoho z partnerů nebo zrušením rozhodnutím soudu, je vzor přední strany dočasného občanského průkazu následující:
+
+> **![sbcr2025c450z0450o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1652605/NAHLED/ZOBRAZ/sbcr2025c450z0450o002)**
+
+> II. Vzor dočasného občanského průkazu vydávaného z důvodu podle § 43 odst. 3 zákona o občanských průkazech
+
+> **![sbcr2025c450z0450o003.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1652603/NAHLED/ZOBRAZ/sbcr2025c450z0450o003)**
+
+> V případě, že občan učinil prohlášení o vstupu do registrovaného partnerství nebo jeho registrované partnerství zaniklo smrtí druhého partnera, prohlášením druhého partnera za mrtvého, změnou pohlaví jednoho z partnerů nebo zrušením rozhodnutím soudu, je vzor přední strany dočasného občanského průkazu následující:
+
+> **![sbcr2025c450z0450o004.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1652601/NAHLED/ZOBRAZ/sbcr2025c450z0450o004)“.**
+
+7\. Příloha č. 3 zní:
+
+> **„Příloha č. 3**
+
+> **Vzor formuláře pro podání žádosti o vydání občanského průkazu**
+
+> **![sbcr2025c450z0450u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1652593/NAHLED/ZOBRAZ/sbcr2025c450z0450u001)“.**
+
+8\. Příloha č. 4 zní:
+
+> **„Příloha č. 4**
+
+> **Vzor formuláře pro podání žádosti o vydání dočasného občanského průkazu**
+
+> **![sbcr2025c450z0450u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1652591/NAHLED/ZOBRAZ/sbcr2025c450z0450u002)“.**
+
+9\. Příloha č. 5 zní:
+
+> **„Příloha č. 5**
+
+> **Umístění objektivu snímací soustavy vůči osobě, jíž je občanský průkaz vydáván**
+
+> **![sbcr2025c450z0450o005.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1652599/NAHLED/ZOBRAZ/sbcr2025c450z0450o005)“.**
+
+10\. Příloha č. 6 zní:
+
+> **„Příloha č. 6**
+
+> **Vzor cestovního pasu**
+
+> **![sbcr2025c450z0450o006.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1652597/NAHLED/ZOBRAZ/sbcr2025c450z0450o006)**
+
+> **![sbcr2025c450z0450o007.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1652595/NAHLED/ZOBRAZ/sbcr2025c450z0450o007)“.**
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr:
+
+Mgr. Bc. Rakušan v. r.

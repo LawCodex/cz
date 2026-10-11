@@ -1,0 +1,50 @@
+---
+title: "Vyhláška č. 211/2017 Sb., kterou se mění vyhláška č. 313/2014 Sb., o označování a pasech psů, koček a fretek v zájmovém chovu při jejich neobchodních přesunech"
+identifier: "211/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/211/2017-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-06-27
+effective: 2017-08-01
+last_amended: 2017-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/211"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 211/2017 Sb., kterou se mění vyhláška č. 313/2014 Sb., o označování a pasech psů, koček a fretek v zájmovém chovu při jejich neobchodních přesunech
+
+211
+
+VYHLÁŠKA
+
+ze dne 27. června 2017,
+
+kterou se mění vyhláška č. 313/2014 Sb., o označování a pasech psů, koček a fretek v zájmovém chovu při jejich neobchodních přesunech
+
+Ministerstvo zemědělství stanoví podle § 78 zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění zákona č. 131/2003 Sb., zákona č. 316/2004 Sb., zákona č. 48/2006 Sb., zákona č. 182/2008 Sb., zákona č. 227/2009 Sb., zákona č. 308/2011 Sb., zákona č. 359/2012 Sb., zákona č. 279/2013 Sb., zákona č. 139/2014 Sb. a zákona č. 264/2014 Sb., k provedení § 4a odst. 7 veterinárního zákona:
+
+## Čl. I
+
+Vyhláška č. 313/2014 Sb., o označování a pasech psů, koček a fretek v zájmovém chovu při jejich neobchodních přesunech, se mění takto:
+
+1\. V § 3 odstavec 1 zní:
+
+> „(1) Výrobce pasů opatří pasy
+
+> a) průhlednou přilnavou folií tak, aby jí bylo možno zapečetit oddíl III pasu,
+
+> b) 10 kusy průhledných přilnavých folií tak, aby jimi bylo možno zapečetit údaje v oddílu V pasu, jsou-li ve formě nálepky, pokud při odstranění nálepky nedojde k jejímu zničení, a
+
+> c) 16 kusy průhledných přilnavých folií tak, aby jimi bylo možno zapečetit údaje v oddílu VII, VIII a IX pasu, jsou-li ve formě nálepky, pokud při odstranění nálepky nedojde k jejímu zničení.“.
+
+2\. § 5 se včetně nadpisu zrušuje.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2017.
+
+Ministr:
+
+Ing. Jurečka v. r.

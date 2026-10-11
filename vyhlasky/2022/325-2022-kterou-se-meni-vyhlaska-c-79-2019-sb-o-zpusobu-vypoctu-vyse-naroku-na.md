@@ -1,0 +1,50 @@
+---
+title: "Vyhláška č. 325/2022 Sb., kterou se mění vyhláška č. 79/2019 Sb., o způsobu výpočtu výše nároku na vrácení spotřební daně z minerálních olejů spotřebovaných v zemědělské prvovýrobě nebo při provádění hospodaření v lese, ve znění pozdějších předpisů"
+identifier: "325/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/325/2022-11-04"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-10-25
+effective: 2022-11-04
+last_amended: 2022-11-04
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/325"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 325/2022 Sb., kterou se mění vyhláška č. 79/2019 Sb., o způsobu výpočtu výše nároku na vrácení spotřební daně z minerálních olejů spotřebovaných v zemědělské prvovýrobě nebo při provádění hospodaření v lese, ve znění pozdějších předpisů
+
+325
+
+VYHLÁŠKA
+
+ze dne 25. října 2022,
+
+kterou se mění vyhláška č. 79/2019 Sb., o způsobu výpočtu výše nároku na vrácení spotřební daně z minerálních olejů spotřebovaných v zemědělské prvovýrobě nebo při provádění hospodaření v lese, ve znění pozdějších předpisů
+
+Ministerstvo zemědělství a Ministerstvo financí stanoví podle § 57 odst. 23 zákona č. 353/2003 Sb., o spotřebních daních, ve znění zákona č. 4/2019 Sb.:
+
+## Čl. I
+
+Příloha č. 4 k vyhlášce č. 79/2019 Sb., o způsobu výpočtu výše nároku na vrácení spotřební daně z minerálních olejů spotřebovaných v zemědělské prvovýrobě nebo při provádění hospodaření v lese, ve znění vyhlášky č. 165/2022 Sb., se mění takto:
+
+1\. V nadpise se slova „30. září 2022“ nahrazují slovy „31. prosince 2023“.
+
+2\. V úvodní větě se slova „30. září 2022“ nahrazují slovy „31. prosince 2023“.
+
+## Čl. II – Přechodné ustanovení
+
+Na nárok na vrácení spotřební daně z minerálních olejů spotřebovaných v zemědělské prvovýrobě nebo při provádění hospodaření v lese, který vznikl ode dne 1. října 2022 do dne předcházejícího dni nabytí účinnosti této vyhlášky, se použije vyhláška č. 79/2019 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení.
+
+Ministr zemědělství:
+
+Ing. Nekula v. r.
+
+Ministr financí:
+
+Ing. Stanjura v. r.

@@ -1,0 +1,165 @@
+---
+title: "Vyhláška č. 253/2018 Sb., o požadavcích na extrakční rozpouštědla používaná při výrobě potravin"
+identifier: "253/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/253/2025-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2018-10-30
+effective: 2018-11-09
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/253"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 253/2018 Sb., o požadavcích na extrakční rozpouštědla používaná při výrobě potravin
+
+253
+
+VYHLÁŠKA
+
+ze dne 30. října 2018
+
+o požadavcích na extrakční rozpouštědla používaná při výrobě potravin
+
+Ministerstvo zemědělství stanoví podle § 18 odst. 1 písm. c) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 306/2000 Sb., zákona č. 316/2004 Sb., zákona č. 139/2014 Sb., zákona č. 180/2016 Sb. a zákona č. 302/2017 Sb.:
+
+## § 1 – Předmět úpravy
+
+(1) Tato vyhláška zapracovává příslušné předpisy Evropské unie<sup>1</sup>) a upravuje množství a druhy extrakčních rozpouštědel, podmínky jejich použití při výrobě potravin a potraviny a skupiny potravin, v nichž se mohou tyto látky vyskytovat.
+
+(2) Tato vyhláška se nevztahuje na extrakční rozpouštědla použitá při výrobě potravinářské přídatné látky včetně vitamínů a minerálních látek, které jsou určeny pro použití jako potravinářská přídatná látka, a doplňků stravy včetně vitamínů a minerálních látek jako doplňků stravy, pokud tyto potravinářské přídatné látky, vitamíny a ostatní doplňky stravy nejsou uvedeny v příloze k této vyhlášce.
+
+## § 2 – Vymezení některých pojmů
+
+Pro účely této vyhlášky se rozumí
+
+a) extrakčním rozpouštědlem látka používaná k rozpouštění potravin nebo jejich součástí včetně všech kontaminujících látek vyskytujících se v potravinách nebo na jejich povrchu, která se používá při extrakčním procesu během zpracování surovin, potravin nebo jejich součástí a která se odstraňuje, může však vést k nezamýšlenému, ale technicky nevyhnutelnému výskytu reziduí nebo derivátů v potravinách nebo ve složkách potravin,
+
+b) hexanem obchodní výrobek, který se skládá převážně z acyklických nasycených uhlovodíků obsahujících šest uhlíkových atomů a který se destiluje mezi 64 °C a 70 °C,
+
+c) želatinou přírodní rozpustná bílkovina, želírující nebo neželírující, získaná částečnou hydrolýzou kolagenu vyráběného z kostí, kůží a kožek, šlach a vaziv zvířat,
+
+d) kolagenem bílkovinný výrobek z kostí, kůží, kožek a šlach zvířat,
+
+e) správnou výrobní praxí takové použití extrakčního rozpouštědla, které vede pouze ke vzniku zbytků nebo derivátů v technicky nevyhnutelném množství, které není lidskému zdraví nebezpečné.
+
+## § 3 – Extrakční rozpouštědla
+
+(1) Extrakční rozpouštědla povolená při výrobě potravin, podmínky jejich použití a nejvyšší povolená množství reziduí těchto extrakčních rozpouštědel v potravině stanoví tabulky č. 1 a 2 v příloze k této vyhlášce.
+
+(2) Dále lze v souladu se správnou výrobní praxí použít při výrobě potravin extrakční rozpouštědla
+
+a) propan,
+
+b) butan,
+
+c) octan ethylnatý,
+
+d) ethanol,
+
+e) oxid uhličitý,
+
+f) aceton s výjimkou rafinace olivového oleje z olivových pokrutin a
+
+g) oxid dusný.
+
+(3) Jako extrakční rozpouštědlo lze použít i vodu, která může obsahovat regulátory kyselosti nebo zásaditosti, a dále potraviny, které mají vlastnosti extrakčních rozpouštědel.
+
+(4) Extrakční rozpouštědla, která jsou používána při výrobě potravinářských přídatných látek, vitamínů a ostatních doplňků stravy, nesmí překročit nejvyšší povolené množství reziduí stanovené v tabulce č. 1 nebo 2 v příloze k této vyhlášce.
+
+(5) Extrakční rozpouštědla nesmí obsahovat
+
+a) toxikologicky nebezpečné množství žádného prvku ani látky, nebo
+
+b) více než 1 mg/kg arsenu nebo více než 1 mg/kg olova kromě výjimek stanovených v tabulkách č. 1 a 2 v příloze k této vyhlášce.
+
+(6) Extrakční rozpouštědla musí splňovat zvláštní kritéria čistoty stanovená v tabulce č. 3 v příloze k této vyhlášce.
+
+## § 4 – Označování
+
+(1) Na obalu, nádobě nebo etiketě extrakčního rozpouštědla se při uvádění na trh uvede čitelně, zřetelně, nesmazatelně a srozumitelně
+
+a) obchodní označení uvedené v § 3 odst. 2, v tabulce č. 1 v příloze k této vyhlášce nebo v tabulce č. 2 v příloze k této vyhlášce,
+
+b) název, popřípadě obchodní firma, a adresa sídla výrobce, dovozce, prodávajícího nebo balírny nebo jméno a příjmení, popřípadě obchodní firma, a adresa místa trvalého pobytu, popřípadě sídla výrobce, dovozce, prodávajícího nebo balírny,
+
+c) slova „pro potraviny“,
+
+d) údaj k identifikaci šarže,
+
+e) údaj o čistém množství v jednotkách objemu a
+
+f) podmínky uchování a použití, pokud je jejich uvedení nezbytné.
+
+(2) Údaje uvedené v odstavci 1 písm. c) až f) mohou být uvedeny ke každé šarži pouze v průvodní dokumentaci, která se předkládá společně s dodávkou nebo předem.
+
+## § 5 – Přechodné ustanovení
+
+Extrakční rozpouštědla a potraviny je obsahující, vyrobené nebo uvedené na trh přede dnem nabytí účinnosti této vyhlášky, se posuzují podle vyhlášky č. 4/2008 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, a mohou být prodávány do vyčerpání zásob.
+
+## § 6 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Vyhláška č. 4/2008 Sb., kterou se stanoví druhy a podmínky použití přídatných látek a extrakčních rozpouštědel při výrobě potravin.
+
+2\. Vyhláška č. 130/2010 Sb., kterou se mění vyhláška č. 4/2008 Sb., kterou se stanoví druhy a podmínky použití přídatných látek a extrakčních rozpouštědel při výrobě potravin.
+
+3\. Vyhláška č. 122/2011 Sb., kterou se mění vyhláška č. 4/2008 Sb., kterou se stanoví druhy a podmínky použití přídatných látek a extrakčních rozpouštědel při výrobě potravin, ve znění vyhlášky č. 130/2010 Sb.
+
+## § 7 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 9. listopadu 2018.
+
+Ministr:
+
+Ing. Toman, CSc., v. r.
+
+### Příloha k vyhlášce č. 253/2018 Sb.
+
+#### Extrakční rozpouštědla povolená při výrobě potravin, pro něž jsou stanoveny podmínky jejich použití, nejvyšší povolená množství reziduí extrakčních rozpouštědel v potravině a zvláštní kritéria čistoty pro extrakční rozpouštědla
+
+##### Tabulka č. 1
+
+<table><tbody><tr><th>Název látky</th><th>Podmínky použití</th><th>Nejvyšší povolené množství reziduí rozpouštědla v extrahované potravině</th></tr><tr><td rowspan="4">Hexan</td><td>Výroba nebo frakcionace tuků a olejů a výroba kakaového másla</td><td>1 mg/kg v tuku, oleji nebo kakaovém másle</td></tr><tr><td rowspan="2">Výroba či frakcionace bílkovinných produktů a odtučněných mlýnských výrobků</td><td>10 mg/kg v bílkovinném produktu či mlýnském výrobku</td></tr><tr><td>30 mg/kg v odtučněném sójovém produktu při prodeji konečnému spotřebiteli</td></tr><tr><td>Výroba odtučněných obilných klíčků</td><td>5 mg/kg v odtučněných obilných klíčcích</td></tr><tr><td rowspan="2">Octan methylnatý</td><td>Výroba kávy a čaje bez kofeinu nebo se sníženým obsahem kofeinu nebo odstraňování senzoricky nežádoucích látek a hořčin z těchto produktů</td><td>20 mg/kg v kávě nebo čaji</td></tr><tr><td>Výroba cukru z melasy</td><td>1 mg/kg v cukru</td></tr><tr><td rowspan="2">Ethylmethyl-keton</td><td>Frakcionace tuků a olejů</td><td>5 mg/kg v tuku nebo oleji</td></tr><tr><td>Výroba kávy a čaje bez kofeinu nebo se sníženým obsahem kofeinu nebo odstraňování senzoricky nežádoucích látek a hořčin z těchto produktů</td><td>20 mg/kg v kávě nebo čaji</td></tr><tr><td>Dichlormethan</td><td>Výroba kávy a čaje bez kofeinu nebo se sníženým obsahem kofeinu nebo odstraňování senzoricky nežádoucích látek a hořčin z těchto produktů</td><td>2 mg/kg v pražené kávě a 5 mg/kg v čaji</td></tr><tr><td>Methanol</td><td>Výroba potravin</td><td>10 mg/kg v potravině</td></tr><tr><td>Propan-2-ol</td><td>Výroba potravin</td><td>10 mg/kg v potravině</td></tr><tr><td rowspan="2">Dimethylether</td><td>Výroba odtučněných bílkovinných potravin živočišného původu včetně želatiny</td><td>0,009 mg/kg v odtučněné bílkovinné potravině (včetně želatiny)</td></tr><tr><td>Příprava kolagenu a derivátů kolagenu, kromě želatiny</td><td>3 mg/kg v kolagenu a derivátech kolagenu, kromě želatiny</td></tr><tr><td rowspan="4">2-methyloxolan</td><td>Výroba nebo frakcionace tuků a olejů a výroba kakaového másla.</td><td>1 mg/kg v tuku nebo oleji nebo kakaovém másle</td></tr><tr><td rowspan="2">Příprava odtučněných bílkovinných potravin a odtučněné mouky.</td><td>10 mg/kg v potravině obsahující odtučněné bílkovinné potraviny a odtučněnou mouku</td></tr><tr><td>30 mg/kg v odtučněné sójové potravině, jak je prodávána konečnému spotřebiteli</td></tr><tr><td>Výroba odtučněných obilných klíčků.</td><td>5 mg/kg v odtučněných obilných klíčcích</td></tr></tbody></table>
+
+Poznámky:
+
+Kombinované použití hexanu a ethylmethylketonu je zakázáno.
+
+Přípustné množství n-hexanu v rozpouštědle Dimethylether je nejvýše 50 mg/kg.
+
+##### Tabulka č. 2
+
+| Název látky | Nejvyšší povolené množství reziduí rozpouštědla v potravině při použití extrakčních rozpouštědel při přípravě látek určených k aromatizaci z přírodních aromatických surovin |
+|---|---|
+| Diethylether | 2 mg/kg |
+| Hexan | 1 mg/kg |
+| Octan methylnatý | 1 mg/kg |
+| Butan-1-ol | 1 mg/kg |
+| Butan-2-ol | 1 mg/kg |
+| Ethylmethylketon | 1 mg/kg |
+| Dichlormethan | 0,02 mg/kg |
+| 1,1,1,2-tetrafluorethan | 0,02 mg/kg |
+| Propan-1-ol | 1 mg/kg |
+| Cyklohexan | 1 mg/kg |
+| Methanol | 1,5 mg/kg |
+| Propan-2-ol | 1 mg/kg |
+| 2-methyloxolan | 1 mg/kg |
+
+Poznámka:
+
+Kombinované použití hexanu a ethylmethylketonu je zakázáno.
+
+##### Tabulka č. 3
+
+<table><tbody><tr><th rowspan="2">Název látky <br> (IUPAC)</th><th rowspan="2">Číslo CAS</th><th rowspan="2">Obsah látky v sušině</th><th colspan="2">Požadavky na čistotu</th></tr><tr><th>Chemická sloučenina</th><th>Povolené množství v sušině</th></tr><tr><td rowspan="3">2-methyloxolan</td><td rowspan="3">96-47-9</td><td rowspan="3">nejméně 99,9 %</td><td>Furan</td><td>nejvýše 50 mg/kg</td></tr><tr><td>2-methylfuran</td><td>nejvýše 500 mg/kg</td></tr><tr><td>Ethanol</td><td>nejvýše 450 mg/kg</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2009/32/ES ze dne 23. dubna 2009 o sbližování právních předpisů členských států týkajících se extrakčních rozpouštědel používaných při výrobě potravin a složek potravin. 
+ Směrnice Komise 2010/59/EU ze dne 26. srpna 2010 o změně směrnice Evropského parlamentu a Rady 2009/32/ES o sbližování právních předpisů členských států týkajících se extrakčních rozpouštědel používaných při výrobě potravin a složek potravin. 
+ Směrnice Komise (EU) 2016/1855 ze dne 19. října 2016, kterou se mění směrnice Evropského parlamentu a Rady 2009/32/ES o sbližování právních předpisů členských států týkajících se extrakčních rozpouštědel používaných při výrobě potravin a složek potravin. 
+ Směrnice Komise (EU) 2023/175 ze dne 26. ledna 2023, kterou se mění směrnice Evropského parlamentu a Rady 2009/32/ES, pokud jde o 2-methyloxolan.

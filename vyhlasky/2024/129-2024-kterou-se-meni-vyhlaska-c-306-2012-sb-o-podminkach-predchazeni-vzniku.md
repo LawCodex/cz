@@ -1,0 +1,40 @@
+---
+title: "Vyhláška č. 129/2024 Sb., kterou se mění vyhláška č. 306/2012 Sb., o podmínkách předcházení vzniku a šíření infekčních onemocnění a o hygienických požadavcích na provoz zdravotnických zařízení a vybraných zařízení sociálních služeb, ve znění pozdějších předpisů"
+identifier: "129/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/129/2024-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-05-15
+effective: 2024-07-01
+last_amended: 2024-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/129"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 129/2024 Sb., kterou se mění vyhláška č. 306/2012 Sb., o podmínkách předcházení vzniku a šíření infekčních onemocnění a o hygienických požadavcích na provoz zdravotnických zařízení a vybraných zařízení sociálních služeb, ve znění pozdějších předpisů
+
+129
+
+VYHLÁŠKA
+
+ze dne 15. května 2024,
+
+kterou se mění vyhláška č. 306/2012 Sb., o podmínkách předcházení vzniku a šíření infekčních onemocnění a o hygienických požadavcích na provoz zdravotnických zařízení a vybraných zařízení sociálních služeb, ve znění pozdějších předpisů
+
+Ministerstvo zdravotnictví stanoví podle § 108 odst. 1 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 274/2001 Sb., zákona č. 320/2002 Sb., zákona č. 274/2003 Sb., zákona č. 392/2005 Sb., zákona č. 222/2006 Sb., zákona č. 151/2011 Sb., zákona č. 223/2013 Sb., zákona č. 267/2015 Sb., zákona č. 202/2017 Sb., zákona č. 205/2020 Sb., zákona č. 544/2020 Sb. a zákona č. 167/2023 Sb., (dále jen „zákon“) k provedení § 17 odst. 1 zákona:
+
+## Čl. I
+
+V § 7 odst. 3 písm. d) vyhlášky č. 306/2012 Sb., o podmínkách předcházení vzniku a šíření infekčních onemocnění a o hygienických požadavcích na provoz zdravotnických zařízení a vybraných zařízení sociálních služeb, ve znění vyhlášky č. 334/2023 Sb., se slova „syfilis nebo podezření na tuto diagnózu“ nahrazují slovy „pohlavní nemoci nebo podezření na takové onemocnění“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2024.
+
+Ministr:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.
+
+---

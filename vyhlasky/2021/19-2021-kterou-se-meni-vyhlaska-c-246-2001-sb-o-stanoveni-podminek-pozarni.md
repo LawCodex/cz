@@ -1,0 +1,80 @@
+---
+title: "Vyhláška č. 19/2021 Sb., kterou se mění vyhláška č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci), ve znění vyhlášky č. 221/2014 Sb."
+identifier: "19/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/19/2021-02-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-01-11
+effective: 2021-02-01
+last_amended: 2021-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/19"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 19/2021 Sb., kterou se mění vyhláška č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci), ve znění vyhlášky č. 221/2014 Sb.
+
+19
+
+VYHLÁŠKA
+
+ze dne 11. ledna 2021,
+
+kterou se mění vyhláška č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci), ve znění vyhlášky č. 221/2014 Sb.
+
+Ministerstvo vnitra stanoví podle § 101 písm. a) zákona č. 133/1985 Sb., o požární ochraně, ve znění zákona č. 203/1994 Sb., zákona č. 237/2000 Sb., zákona č. 320/2015 Sb. a zákona č. 229/2016 Sb., (dále jen „zákon“) k provedení § 6c zákona:
+
+## Čl. I
+
+Vyhláška č. 246/2001 Sb., o stanovení podmínek požární bezpečnosti a výkonu státního požárního dozoru (vyhláška o požární prevenci), ve znění vyhlášky č. 221/2014 Sb., se mění takto:
+
+1\. V § 7 se na konci odstavce 4 doplňuje věta „U objektu uvedeného v příloze č. 6 a za podmínek stanovených touto přílohou se provádí kontrola provozuschopnosti požárně bezpečnostního zařízení v rozsahu stanoveném právními předpisy, normativními požadavky<sup>13</sup>) a průvodní dokumentací jeho výrobce nejméně jednou za 20 měsíců, pokud výrobce nestanoví lhůtu kratší.“.
+
+2\. Doplňuje se příloha č. 6, která zní:
+
+> **„Příloha č. 6 k vyhlášce č. 246/2001 Sb.**
+
+> **Seznam objektů, u kterých se kontrola provozuschopnosti požárně bezpečnostního zařízení provádí nejméně jednou za 20 měsíců**
+
+> | 1. EDU SO 800/1-01,02 | Reaktorovna HVB I a II |
+> |---|---|
+> | 2. EDU SO 490/1-01,02 | Strojovna HVB I a II |
+> | 3. EDU SO 805/1-01,02 | Podélná etažerka I a II |
+> | 4. EDU SO 806/1-01 – 04 | Příčná etažerka I - IV |
+> | 5. EDU SO 530/1-01,02 | Dieselgenerátorová stanice |
+> | 6. EDU SO 522/1-01,02 | Blokové transformátory a transformátory vlastní spotřeby |
+> | 7. EDU SO 350/1-01,02 | Kabelové kanály mezi důležitými objekty |
+> | 8. ETE SO 800/01-03,04-06 | Budova reaktoru HVB |
+> | 9. ETE SO 490/01,02 | Strojovna HVB |
+> | 10. ETE SO 500/01,02 | Rozvodna HVB |
+> | 11. ETE SO 510/01,02 | Transformátory vyvedení výkonu a transformátory vlastní spotřeby |
+> | 12. ETE SO 522/01,02 | Rozvodny rezervního napájení (včetně transformátorů rezervního napájení) |
+> | 13. ETE SO 442/01,02,03 | Dieselgenerátorová, kompresorová a čerpací stanice |
+> | 14. ETE SO 350/02 | Kabelové kanály mezi důležitými objekty |
+
+> Výjimku podle § 7 odst. 4 věty druhé lze uplatnit za splnění těchto podmínek:
+
+> a) výjimka se vztahuje na požárně bezpečnostní zařízení, které je nepřístupné z provozních nebo bezpečnostních důvodů a fyzickou kontrolu provozuschopnosti nelze provést jiným způsobem,
+
+> b) výjimku lze uplatnit na požárně bezpečnostní zařízení nebo jeho část, u něhož je provedení kontroly provozuschopnosti fyzicky proveditelné, a
+
+> c) provozovatel jaderného zařízení vede evidenci zařízení podle písmene b), u nichž je tato výjimka uplatněna; součástí evidence je souhlas výrobce požárně bezpečnostního zařízení s provozem zařízení za podmínek uplatněné výjimky.
+
+> Vysvětlivky zkratek:
+
+> EDU Elektrárna Dukovany
+
+> ETE Elektrárna Temelín
+
+> HVB hlavní výrobní blok
+
+> SO stavební objekt“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. února 2021.
+
+Ministr:
+
+Hamáček v. r.

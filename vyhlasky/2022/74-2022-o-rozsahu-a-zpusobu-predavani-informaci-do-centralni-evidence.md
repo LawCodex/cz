@@ -1,0 +1,148 @@
+---
+title: "Vyhláška č. 74/2022 Sb., o rozsahu a způsobu předávání informací do centrální evidence hospodářskými subjekty, příslušnými orgány a správními orgány v oblasti uvádění dřeva a dřevařských výrobků na trh"
+identifier: "74/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/74/2022-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-03-23
+effective: 2022-07-01
+last_amended: 2022-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/74"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 74/2022 Sb., o rozsahu a způsobu předávání informací do centrální evidence hospodářskými subjekty, příslušnými orgány a správními orgány v oblasti uvádění dřeva a dřevařských výrobků na trh
+
+74
+
+VYHLÁŠKA
+
+ze dne 23. března 2022
+
+o rozsahu a způsobu předávání informací do centrální evidence hospodářskými subjekty, příslušnými orgány a správními orgány v oblasti uvádění dřeva a dřevařských výrobků na trh
+
+Ministerstvo zemědělství stanoví podle § 3 odst. 3 zákona č. 226/2013 Sb., o uvádění dřeva a dřevařských výrobků na trh, ve znění zákona č. 206/2019 Sb., (dále jen „zákon“):
+
+## § 1 – Rozsah informací předávaných hospodářskými subjekty do centrální evidence
+
+Hospodářský subjekt<sup>1</sup>), který má povinnost vést lesní hospodářskou evidenci o plnění závazných ustanovení plánu podle lesního zákona<sup>2</sup>), předává do centrální evidence informace za uplynulý kalendářní rok. Má se za to, že předání do centrální evidence je hospodářským subjektem splněno předáním údajů lesní hospodářské evidence podle lesního zákona<sup>2</sup>).
+
+## § 2 – Rozsah informací předávaných příslušnými orgány a správními orgány do centrální evidence
+
+(1) Příslušné orgány a správní orgány předávají do centrální evidence informace podle § 3 odst. 1 písm. b) zákona v tomto rozsahu:
+
+a) identifikační údaje hospodářských subjektů, a to jméno, popřípadě jména, a příjmení, místo pobytu anebo číslo elektronicky čitelného identifikačního dokladu, v případě právnických osob identifikační číslo, popřípadě místo podnikání, obchodní firma, nebo název a sídlo hospodářského subjektu,
+
+b) identifikační údaje lesních hospodářských celků, a to název, kód, výměra, hospodářský subjekt, který má k danému lesnímu hospodářskému celku práva a povinnosti vlastníka<sup>3</sup>), a
+
+c) identifikační údaje kontrolních organizací<sup>4</sup>), a to název, adresa, identifikační číslo přiřazené Evropskou komisí.
+
+(2) Ministerstvo předává do centrální evidence výroční zprávu za předcházející rok pro Evropskou komisi<sup>5</sup>).
+
+(3) Krajský úřad předává do centrální evidence v rozsahu podle bodu I. přílohy k této vyhlášce informace o kontrole a opatřeních podle § 6 odst. 1 písm. a) až e) zákona<sup>6</sup>).
+
+(4) Obecní úřad obce s rozšířenou působností a Vojenský lesní úřad předávají do centrální evidence v rozsahu podle bodu II. přílohy k této vyhlášce informace podle § 6a zákona.
+
+(5) Inspekce předává do centrální evidence v rozsahu podle bodu III. přílohy k této vyhlášce informace podle § 7 písm. b) a c) zákona<sup>6</sup>).
+
+## § 3 – Způsob předávání informací do centrální evidence příslušnými orgány a správními orgány
+
+(1) Příslušné orgány a správní orgány předávají informace do centrální evidence takto:
+
+a) ministerstvo předá informace podle § 2 odst. 2 do 30 dnů od odevzdání zprávy Evropské komisi,
+
+b) krajský úřad předá informace podle § 2 odst. 3 do 30 dnů od ukončení kontroly podle přímo použitelného předpisu Evropské unie<sup>7</sup>), od pravomocného uložení nápravného opatření podle přímo použitelného předpisu Evropské unie<sup>6</sup>), od nabytí právní moci rozhodnutí o přestupku nebo od přijetí okamžitého prozatímního opatření podle přímo použitelného předpisu Evropské unie<sup>6</sup>),
+
+c) obecní úřad obce s rozšířenou působností a Vojenský lesní úřad předá informace podle § 2 odst. 4 do 30 dnů od nabytí právní moci rozhodnutí o přestupku a vybrané souhrnné údaje z lesní hospodářské evidence do konce dubna kalendářního roku,
+
+d) inspekce předá informace podle § 2 odst. 5 do 30 dnů od zjištění porušení přímo použitelného předpisu Evropské unie<sup>8</sup>), od zjištění osob odpovědných za uvedené porušování povinností a od pravomocného uložení pokuty.
+
+(2) Příslušné orgány a správní orgány předávají informace do centrální evidence prostřednictvím internetové aplikace portálu Ministerstva zemědělství.
+
+## § 4 – Zrušovací ustanovení
+
+Vyhláška č. 285/2013 Sb., o rozsahu a způsobu předávání informací do centrální evidence hospodářskými subjekty a orgány státní správy v oblasti uvádění dřeva a dřevařských výrobků na trh, se zrušuje.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2022.
+
+Ministr:
+
+Ing. Nekula v. r.
+
+### Příloha k vyhlášce č. 74/2022 Sb.
+
+### Rozsah informací evidovaných příslušnými orgány a správními orgány předávaných do centrální evidence
+
+I. Informace předávané krajskými úřady do centrální evidence
+
+1\. Podle § 2 odst. 3 [§ 6 odst. 1 písm. a) zákona]:
+
+a) o povaze uváděného dřeva nebo dřevařských výrobků na trh (domácí produkce nebo dovoz),
+
+b) o výsledku kontroly,
+
+c) v případě zjištěných nedostatků informace o následném řešení kontroly zahájením řízení o uložení opatření nebo o rozhodnutí o přestupku<sup>6</sup>).
+
+2\. Podle § 2 odst. 3 [§ 6 odst. 1 písm. b) zákona]:
+
+a) o povaze uloženého opatření<sup>6</sup>),
+
+b) o časovém rozpětí uloženého opatření<sup>6</sup>),
+
+c) o následcích nesplnění uloženého opatření<sup>6</sup>).
+
+3\. Podle § 2 odst. 3 [§ 6 odst. 1 písm. c) a d) zákona]:
+
+a) o druhu a výměře správního trestu<sup>6</sup>),
+
+b) o uhrazení pokuty, byla-li uložena<sup>6</sup>).
+
+4\. Podle § 2 odst. 3 [§ 6 odst. 1 písm. e) zákona]:
+
+a) o rozsahu uložených opatření<sup>6</sup>),
+
+b) o časovém rozsahu uložených opatření<sup>6</sup>),
+
+c) o následcích případně nesplněných uložených opatření<sup>6</sup>).
+
+II. Informace předávané obecním úřadem obce s rozšířenou působností a Vojenským lesním úřadem
+
+Podle § 2 odst. 4 (§ 6a zákona):
+
+a) o rozsahu nezákonně vytěženého dřeva z domácí lesní produkce, a to jak v m<sup>3</sup> objemu vytěženého dřeva, tak v ha plošný rozsah při vzniku holiny,
+
+b) druh provedené těžby – úmyslná, nahodilá, mimořádná,
+
+c) celkový roční objem provedené těžby členěný podle druhu.
+
+III. Informace předávané inspekcí
+
+Podle § 2 odst. 5 [§ 7 písm. b) a c) zákona]:
+
+a) o rozsahu porušení přímo použitelného předpisu Evropské unie<sup>8</sup>),
+
+b) o druhu a výměře správního trestu<sup>6</sup>),
+
+c) o uhrazení pokuty, byla-li uložena<sup>6</sup>).
+
+---
+
+<sup>1</sup>) Čl. 2 písm. c) nařízení Evropského parlamentu a Rady (EU) č. 995/2010 ze dne 20. října 2010, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, v platném znění.
+
+<sup>2</sup>) § 40 zákona č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 58 odst. 1 zákona č. 289/1995 Sb., ve znění pozdějších předpisů.
+
+<sup>4</sup>) Čl. 8 nařízení Evropského parlamentu a Rady (EU) č. 995/2010, v platném znění.
+
+<sup>5</sup>) § 5 písm. d) a h) zákona č. 226/2013 Sb., ve znění pozdějších předpisů.
+
+<sup>6</sup>) Čl. 10 odst. 5 a čl. 11 nařízení Evropského parlamentu a Rady (EU) č. 995/2010, v platném znění.
+
+<sup>7</sup>) Čl. 10 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. 995/2010, v platném znění.
+
+<sup>8</sup>) Čl. 5 nařízení Evropského parlamentu a Rady (EU) č. 995/2010, v platném znění.

@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 351/2024 Sb., kterou se mění vyhláška č. 267/2020 Sb., o oznamování údajů obhospodařovatelem a administrátorem investičního fondu a zahraničního investičního fondu České národní bance"
+identifier: "351/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/351/2025-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-11-21
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/351"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 351/2024 Sb., kterou se mění vyhláška č. 267/2020 Sb., o oznamování údajů obhospodařovatelem a administrátorem investičního fondu a zahraničního investičního fondu České národní bance
+
+351
+
+VYHLÁŠKA
+
+ze dne 21. listopadu 2024,
+
+kterou se mění vyhláška č. 267/2020 Sb., o oznamování údajů obhospodařovatelem a administrátorem investičního fondu a zahraničního investičního fondu České národní bance
+
+Česká národní banka stanoví podle § 41 odst. 3 zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 227/2013 Sb., a podle § 15 odst. 7 a § 478 zákona č. 240/2013 Sb., o investičních společnostech a investičních fondech, ve znění zákona č. 336/2014 Sb., zákona č. 204/2017 Sb. a zákona č. 163/2024 Sb.:
+
+## Čl. I
+
+Vyhláška č. 267/2020 Sb., o oznamování údajů obhospodařovatelem a administrátorem investičního fondu a zahraničního investičního fondu České národní bance, se mění takto:
+
+1\. V § 1 úvodní část ustanovení zní: „Tato vyhláška stanoví rozsah, strukturu, formu, způsob a lhůty předkládání informací České národní bance podle § 41 odst. 3 zákona o České národní bance a pro oznamování údajů podle § 15 odst. 6, § 462 až 464, § 466 odst. 1, 2 a 4, § 468 a § 469 písm. b) zákona o investičních společnostech a investičních fondech“.
+
+2\. V § 6 odst. 1 se slova „správcem alternativního fondu a který splňuje požadavky podle čl. 110 odst. 3 nařízení Komise v přenesené pravomoci (EU) č. 231/2013<sup>3</sup>)“ nahrazují slovy „oprávněn přesáhnout rozhodný limit podle § 16 odst. 1 zákona o investičních společnostech a investičních fondech“ a slova „tohoto nařízení“ se nahrazují slovy „čl. 110 odst. 3 nařízení Komise v přenesené pravomoci (EU) č. 231/2013<sup>3</sup>)“.
+
+3\. V § 6 odst. 2 se slova „je správcem alternativního fondu a který nesplňuje požadavky podle čl. 110 odst. 3 nařízení Komise v přenesené pravomoci (EU) č. 231/2013<sup>3</sup>)“ nahrazují slovy „není oprávněn přesáhnout rozhodný limit podle § 16 odst. 1 zákona o investičních společnostech a investičních fondech“ a slova „ve lhůtách podle tohoto nařízení“ se nahrazují slovy „do konce prvního měsíce po skončení kalendářního roku“.
+
+4\. V § 7 odst. 2 se slova „ve lhůtách podle nařízení Komise v přenesené pravomoci (EU) č. 231/2013“ nahrazují slovy „do konce prvního měsíce po skončení kalendářního roku“.
+
+5\. V § 7 se doplňuje odstavec 3, který zní:
+
+> „(3) Správce majetku předkládá za svou osobu do konce šestého měsíce po skončení kalendářního roku výkaz OFZ (ČNB) 15-01 „Zpráva auditora“.“.
+
+6\. Na konci přílohy se doplňuje bod 15, který zní:
+
+> „15. OFZ (ČNB) 15-01 „Zpráva auditora“
+
+> Výkaz obsahuje zprávu auditora o dodržení limitu na počet investorů podle § 15 odst. 6 zákona o investičních společnostech a investičních fondech.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2025.
+
+Guvernér:
+
+Ing. Michl, Ph.D., v. r.

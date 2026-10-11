@@ -1,0 +1,38 @@
+---
+title: "Vyhláška č. 224/2021 Sb., kterou se mění vyhláška č. 458/2009 Sb., kterou se stanoví denní sazba připadající na náklady spojené s výkonem trestu domácího vězení a využitím elektronického kontrolního systému a způsob jejich úhrady, ve znění vyhlášky č. 151/2016 Sb."
+identifier: "224/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/224/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-05-26
+effective: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/224"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 224/2021 Sb., kterou se mění vyhláška č. 458/2009 Sb., kterou se stanoví denní sazba připadající na náklady spojené s výkonem trestu domácího vězení a využitím elektronického kontrolního systému a způsob jejich úhrady, ve znění vyhlášky č. 151/2016 Sb.
+
+224
+
+VYHLÁŠKA
+
+ze dne 26. května 2021,
+
+kterou se mění vyhláška č. 458/2009 Sb., kterou se stanoví denní sazba připadající na náklady spojené s výkonem trestu domácího vězení a využitím elektronického kontrolního systému a způsob jejich úhrady, ve znění vyhlášky č. 151/2016 Sb.
+
+Ministerstvo spravedlnosti stanoví podle § 152 odst. 2 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění zákona č. 330/2011 Sb., zákona č. 150/2016 Sb. a zákona č. 220/2021 Sb.:
+
+## Čl. I
+
+V § 2 odst. 2 vyhlášky č. 458/2009 Sb., kterou se stanoví denní sazba připadající na náklady spojené s výkonem trestu domácího vězení a využitím elektronického kontrolního systému a způsob jejich úhrady, se věta první nahrazuje větou „Nejde-li o náhradu nákladů spojených s využitím elektronického kontrolního systému při nahrazení vazby, může soud s přihlédnutím k délce uloženého trestu domácího vězení nebo předpokládané délce využívání elektronického kontrolního systému rozhodovat o povinnosti odsouzeného hradit náklady spojené s výkonem trestu domácího vězení nebo využitím elektronického kontrolního systému po vykonání nejméně jednoho měsíce trestu domácího vězení nebo po nejméně jednoměsíčním využití elektronického kontrolního systému.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Ministryně spravedlnosti:
+
+Mgr. Benešová v. r.

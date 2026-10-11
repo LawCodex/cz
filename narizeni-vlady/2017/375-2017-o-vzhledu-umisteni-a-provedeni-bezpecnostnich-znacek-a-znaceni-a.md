@@ -1,0 +1,237 @@
+---
+title: "Nařízení vlády č. 375/2017 Sb., o vzhledu, umístění a provedení bezpečnostních značek a značení a zavedení signálů"
+identifier: "375/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/375/2017-11-28"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2017-10-23
+effective: 2017-11-28
+last_amended: 2017-11-28
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/375"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 375/2017 Sb., o vzhledu, umístění a provedení bezpečnostních značek a značení a zavedení signálů
+
+375
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 23. října 2017
+
+o vzhledu, umístění a provedení bezpečnostních značek a značení a zavedení signálů
+
+Vláda nařizuje podle § 21 písm. a) k provedení § 6 odst. 2 zákona č. 309/2006 Sb., kterým se upravují další požadavky bezpečnosti a ochrany zdraví při práci v pracovněprávních vztazích a o zajištění bezpečnosti a ochrany zdraví při činnosti nebo poskytování služeb mimo pracovněprávní vztahy (zákon o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci):
+
+## § 1
+
+(1) Toto nařízení zapracovává příslušné předpisy Evropské unie<sup>1</sup>) a upravuje vzhled, umístění a provedení bezpečnostních značek a značení a zavedení signálů.
+
+(2) Toto nařízení se nevztahuje na bezpečnostní značky pro označování nebezpečných látek nebo směsí, výrobků anebo zařízení při jejich uvádění na trh, pokud na toto nařízení vlády výslovně neodkazuje jiný právní předpis.
+
+## § 2
+
+(1) Značky a zařízení určené k vysílání světelných a zvukových signálů musí být vhodné pro prostředí, ve kterém jsou používány, a musí být zhotoveny z odolného materiálu; pokud nejsou zhotoveny z fotoluminiscenčního nebo reflexního materiálu, musí při snížené viditelnosti vydávat světlo nebo být osvětleny<sup>2</sup>).
+
+(2) Světelná plocha značek a světelné signály musí vytvářet náležitý kontrast vzhledem k prostředí, v němž jsou použity, a nesmí oslňovat. Jestliže značka obsahuje kresbu, která popisuje situaci nebo nařizuje či zakazuje určité chování (dále jen „piktogram“), musí být jednoduchá, srozumitelná a musí obsahovat jen nezbytné podrobnosti<sup>3</sup>).
+
+(3) Značky a zařízení určené k vysílání světelných signálů vyžadující dodávku energie musí být vybaveny nouzovým zdrojem pro případ přerušení dodávky energie.
+
+(4) Informativní značky pro únik a evakuaci osob a značky překážek na únikových cestách musí být i při přerušení dodávky energie viditelné a rozpoznatelné minimálně po dobu nezbytně nutnou k bezpečnému opuštění objektu<sup>4</sup>).
+
+(5) Značky a zařízení určené k vysílání světelných a zvukových signálů musí být udržované a kontrolované tak, aby zůstal zachován jejich vzhled a původní funkční vlastnosti; v případě nutnosti musí být nahrazeny jinými.
+
+(6) Dojde-li na pracovišti ke zhoršení viditelnosti nebo slyšitelnosti, například při použití osobních ochranných pracovních prostředků, musí být přijata opatření k doplnění nebo použití jiných značek a signálů.
+
+(7) Při umístění značek a zavedení signálů nesmí být jejich účinnost ovlivněna nesprávnou volbou, nedostatečnou údržbou, nedostatečným počtem nebo přítomností jiných značek nebo zdrojů světla nebo zvuků stejného typu, které snižují viditelnost nebo slyšitelnost. Z tohoto důvodu je zejména třeba
+
+a) omezit umístění většího počtu značek blízko sebe,
+
+b) nepoužívat světelné značky v blízkosti jiného podobného světelného zdroje,
+
+c) nepoužívat současně dvě a více světelných značek odlišného významu, které mohou být zaměněny,
+
+d) nepoužívat dva zvukové signály současně,
+
+e) nepoužívat zvukové signály při vysoké hladině okolního hluku,
+
+f) kontrolovat funkčnost světelných značek a zařízení k vysílání zvukových a světelných signálů před uvedením do provozu a v pravidelných intervalech i v průběhu provozu,
+
+g) uvést světelné značky a zařízení k vysílání zvukových a světelných signálů po ukončení použití bezodkladně do pohotovostního stavu.
+
+## § 3
+
+(1) Značky zákazu mají kruhový tvar s černým piktogramem na bílém pozadí, červeným okrajem a šikmým pruhem; červený okraj a šikmý pruh zaujímají nejméně 35 % plochy značky. Červený šikmý pruh prochází středem značky přes piktogram a směřuje zleva seshora doprava dolů pod úhlem 45 stupňů od vodorovné roviny.
+
+(2) Značky výstrahy mají trojúhelníkový tvar s černým piktogramem na žlutém pozadí s černým okrajem; žlutá část zaujímá nejméně 50 % plochy značky<sup>5</sup>).
+
+(3) Značky příkazu mají kruhový tvar s bílým piktogramem na modrém pozadí; modrá část zaujímá nejméně 50 % plochy značky.
+
+(4) Informativní značky pro označení únikové cesty a nouzového východu nebo místa první pomoci a zařízení pro přivolání první pomoci mají obdélníkový nebo čtvercový tvar s bílým piktogramem na zeleném pozadí; zelená část zaujímá nejméně 50 % plochy značky<sup>5</sup>).
+
+(5) Informativní značky pro věcné prostředky požární ochrany, požárně bezpečnostní zařízení a směr cesty k nim mají obdélníkový nebo čtvercový tvar s bílým piktogramem na červeném pozadí; červená část zaujímá nejméně 50 % plochy značky<sup>6</sup>).
+
+(6) Je-li značka zhotovena z fotoluminiscenčního materiálu a její piktogram značí šipku, je tvořena třemi úsečkami, přičemž konce dvou kratších šikmých úseček označujících směr s delší úsečkou nesplývají.
+
+(7) Značky označující riziko střetu osob s překážkami nebo riziko pádu osob a předmětů tvoří střídavé žluté a černé nebo červené a bílé pruhy stejné velikosti v úhlu 45 stupňů. Namísto žluté barvy lze použít fotoluminiscenčního materiálu žlutozelené barvy.
+
+(8) Rozměry značky musí odpovídat velikosti překážky nebo nebezpečného místa; rozměry informativní značky pro věcné prostředky požární ochrany a požárně bezpečnostního zařízení musí umožňovat jejich snadné rozpoznání.
+
+(9) Značky označující komunikace pro vozidla a pojízdná zařízení ve vnitřních pracovních prostorách objektů mají viditelné souvislé pruhy, jejichž barva musí být kontrastní s povrchem komunikace. Pruhy mají zpravidla bílou nebo žlutou barvu a jsou umístěny tak, aby vymezovaly bezpečnou vzdálenost. Trvalé komunikace ve venkovních pracovních prostorách jsou podle možností značeny obdobně, pokud nejsou opatřeny vhodným ohrazením nebo chodníky.
+
+## § 4
+
+(1) Nádoby používané při práci s chemickými látkami nebo směsmi klasifikovanými jako nebezpečné pro kteroukoli třídu fyzikální nebezpečnosti nebo nebezpečnosti pro zdraví, jakož i nádoby pro skladování takových nebezpečných látek nebo směsí a potrubní vedení, obsahující nebo přepravující tyto látky nebo směsi, musí být po celou dobu jejich používání, skladování nebo přepravy označeny příslušným výstražným symbolem nebezpečnosti na viditelném místě s kontrastním pozadím a podle potřeby i vzorcem nebo názvem chemické látky nebo směsi, případně bližšími údaji o její nebezpečnosti. Klasifikaci chemických látek a směsí a výstražné symboly nebezpečnosti stanoví přímo použitelný předpis Evropské unie<sup>7</sup>). Výstražné symboly nebezpečnosti lze pro označení podle věty první nahradit výstražnými značkami uvedenými v příloze k tomuto nařízení, pokud tyto značky obsahují shodný piktogram. Při přepravě na pracovišti může být u nádob obsahujících nebezpečné látky nebo směsi označení podle tohoto nařízení vlády doplněno nebo nahrazeno označením používaným podle předpisů o přepravě nebezpečných věcí<sup>8</sup>).
+
+(2) Výstražné symboly nebezpečnosti a značky označující nádoby a potrubní vedení pro skladování a dopravu nebezpečných chemických látek a směsí uvedených v odstavci 1 nesmí být snadno odstranitelné a musí být umístěny na dostupných stranách nádoby nebo potrubního vedení; na potrubním vedení se umísťují v účelných odstupech a v blízkosti nebezpečných míst, zejména u ventilů a spojů.
+
+(3) Místnosti, uzavřené prostory nebo prostranství, kde jsou skladovány nebo dopravovány nebezpečné látky nebo směsi, musí být označeny vhodnou značkou výstrahy nebo výstražným symbolem nebezpečnosti v souladu s odstavcem 1, pokud nepostačuje označení umístěné na jednotlivých obalech nebo nádobách, zejména s ohledem na jeho velikost a zřetelnost. Sklady nebezpečných látek nebo směsí musí být podle dané situace označeny v blízkosti místa skladování nebo na dveřích skladu; při skladování většího počtu látek nebo směsí lze použít výstražné značky pro všeobecné nebezpečí.
+
+(4) Odstavec 1 se nevztahuje na nádoby používané při práci po velmi krátkou dobu ani na nádoby, jejichž obsah se často mění, za předpokladu, že jsou přijata jiná vhodná opatření zaručující stejnou úroveň ochrany, zejména zajištění informací nebo školení.
+
+## § 5
+
+(1) Světelné a zvukové signály svým spuštěním udávají, kdy má být zahájena a ukončena příslušná činnost, a musí být vydávány po celou dobu, po kterou to provádění této činnosti vyžaduje.
+
+(2) Značky a zařízení určené k vysílání světelných signálů se umísťují ve vhodné výšce a v poloze přiměřené zornému poli zaměstnanců, na snadno dostupném a viditelném místě, s přihlédnutím k osvětlení a ke všem rizikům na pracovišti a v jeho bezprostřední blízkosti.
+
+(3) Je-li značka pro označení únikové cesty a nouzového východu zhotovena z fotoluminiscenčního materiálu, musí být instalována na povrchu vnitřní komunikace nebo těsně nad její úrovní.
+
+(4) V případě vyššího stupně nebezpečí nebo naléhavé potřeby pro požadovaný zásah nebo činnost se umístí značka nebo použije signál s přerušovaným světlem, kdy trvání každého záblesku a jeho četnost musí být taková, aby zajistila vnímání výstrahy a vyloučila se záměna s jinými světelnými značkami nebo světelnými signály s nepřerušovaným nebo přerušovaným světlem. V případě vážného nebezpečí musí být světelný signál pod zvláštním dohledem.
+
+(5) Značky a zařízení určené k vysílání světelných signálů musí být odstraněny, jestliže již neexistují okolnosti odůvodňující jejich umístění.
+
+(6) Zvukové signály musí být snadno rozpoznatelné dobou trvání zvukových impulsů nebo skupin impulsů a intervalů mezi nimi a snadno rozpoznatelné od jakýchkoliv jiných zvukových signálů. Jejich úroveň zvuku musí být vyšší než hladina okolního hluku tak, aby byly slyšitelné, aniž by přitom nadměrně obtěžovaly hlukem nebo působily bolest.
+
+(7) Při použití zařízení určeného k vysílání signálů s proměnnou nebo stálou frekvencí se použije proměnné frekvence k signalizování vyšší úrovně nebezpečí nebo pro naléhavější potřebu zásahu nebo činnosti; signál pro opuštění prostoru musí být nepřerušovaný.
+
+(8) Komunikace hlasovými signály se uskutečňuje formou jednoduchých, srozumitelných krátkých slov, skupin slov, krátkých textů nebo vět. Hlasový signál musí být správně vysloven v jazyce, kterému posluchač rozumí, tak, aby podle něj mohl příjemce signálu vhodným způsobem postupovat, a musí být dostatečně hlasitý. Příklady hlasových signálů jsou uvedeny v příloze k tomuto nařízení.
+
+(9) Signály dávané rukou musí být přesné, jednoduché, rozlišitelné a nezaměnitelné s jinými signály; užívá-li se současně obou rukou, musí být pohyby symetrické a vždy může být dáváno pouze jediné znamení. Signalista stojí čelem k příjemci signálu a sleduje všechny jím řízené úkony tak, aby nebyla ohrožena jeho bezpečnost nebo bezpečnost jiných zaměstnanců. Nemůže-li signalista všechny úkony sledovat sám, dává signály více signalistů; příjemce signálu musí mít všechny signalisty v zorném poli. Signalista musí mít na sobě jeden nebo více rozlišovacích prvků, například vestu, přilbu, rukávce nebo pásku na rukou, nebo musí použít praporky. Rozlišovací prvky musí být výrazně barevné, zpravidla stejné barvy, a určeny pro výlučné používání signalistou.
+
+(10) Má-li příjemce signálu pochybnosti o tom, že lze příkaz bezpečně provést, přeruší řízený úkon a požádá signalistu o nový signál.
+
+## § 6
+
+(1) Zvukové signály nebo hlasové signály mohou být použity společně se světelnými signály nebo signály dávanými rukou.
+
+(2) Při dosažení stejné účinnosti je možno zaměnit
+
+a) světelné signály se zvukovými signály,
+
+b) světelné signály s hlasovými signály,
+
+c) signály dávané rukou s hlasovými signály,
+
+d) bezpečnostní barvu se značkou k označení nebezpečí pádu či zakopnutí.
+
+(3) Vydává-li světelná značka nepřetržité nebo přerušované světlo, použije se přerušované světlo v případě vyššího stupně nebezpečí nebo naléhavější potřeby pro požadovaný zásah nebo činnost. Trvání každého záblesku a jejich četnost musí být taková, aby bylo zajištěno vnímání výstrahy a vyloučena záměna mezi jednotlivými světelnými značkami nebo záměna s nepřetržitě svítící značkou. Při společném použití se zvukovým signálem se použije stejný kód.
+
+## § 7
+
+V příloze k tomuto nařízení je uveden vzhled značek, kódy zvukových signálů, signály dávané rukou a hlasové signály; barva značek<sup>9</sup>) a světelných signálů musí odpovídat tabulce barev a jejich významu<sup>10</sup>). Bezpečnostní značky, jejichž vyobrazení a význam odpovídá požadavkům české technické normy na registrované bezpečnostní značky<sup>11</sup>), lze používat jako bezpečnostní značky podle tohoto nařízení vlády, i když nejsou v příloze k tomuto nařízení vlády vyobrazeny.
+
+## § 8
+
+Zrušují se:
+
+1\. Nařízení vlády č. 11/2002 Sb., kterým se stanoví vzhled a umístění bezpečnostních značek a zavedení signálů.
+
+2\. Nařízení vlády č. 405/2004 Sb., kterým se mění nařízení vlády č. 11/2002 Sb., kterým se stanoví vzhled a umístění bezpečnostních značek a zavedení signálů.
+
+## § 9
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministryně práce a sociálních věcí:
+
+Mgr. Marksová v. r.
+
+### Příloha k nařízení vlády č. 375/2017 Sb.
+
+#### Vzhled značek, kódy zvukových signálů, signály dávané rukou a hlasové signály
+
+1\. Tabulka barev značek a světelných signálů
+
+<table><tbody><tr><th>barva</th><th>význam nebo účel</th><th>pokyny a informace</th></tr><tr><td rowspan="3">červená</td><td>značka zákazu</td><td>nebezpečné chování</td></tr><tr><td>signalizace nebezpečí</td><td>zastavit<br> přerušit práci<br> bezpečnostní pojistka<br> opustit prostor</td></tr><tr><td>věcné prostředky požární ochrany a bezpečnostně požární zařízení</td><td>označení a umístění</td></tr><tr><td>žlutá nebo oranžová nebo zelenožlutá</td><td>značka výstrahy</td><td>buď opatrný<br> připrav se<br> ověř si</td></tr><tr><td>modrá</td><td>značka příkazu</td><td>určité chování nebo postup<br> použij osobní ochranné pracovní prostředky</td></tr><tr><td rowspan="2">zelená</td><td>značka nouzového východu,<br> značka první pomoci</td><td>označení dveří, východů, cest, zařízení, vybavení</td></tr><tr><td>bezpečí</td><td>návrat k běžnému stavu</td></tr></tbody></table>
+
+2\. Barevné vyznačení značky označující riziko střetu osob s překážkami nebo pádu osob
+
+##### ![sbcr2017c131z0375p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883385/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o001)
+
+3\. Značky zákazu
+
+##### ![sbcr2017c131z0375p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883387/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o002)
+
+4\. Značky výstrahy
+
+![sbcr2017c131z0375p001o003-p1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883389/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o003-p1) 
+ ![sbcr2017c131z0375p001o003-p2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883391/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o003-p2)
+
+5\. Značky příkazu
+
+![sbcr2017c131z0375p001o004-p1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883393/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o004-p1) 
+ ![sbcr2017c131z0375p001o004-p2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883395/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o004-p2)
+
+6\. Informativní značky pro označení únikové cesty a nouzového východu nebo místa první pomoci a zařízení pro přivolání první pomoci
+
+![sbcr2017c131z0375p001o005-p1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883397/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o005-p1) 
+ ![sbcr2017c131z0375p001o005-p2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883399/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o005-p2)
+
+7\. Informativní značky pro věcné prostředky požární ochrany, požárně bezpečnostní zařízení a směr cesty
+
+##### ![sbcr2017c131z0375p001o006.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884335/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o006)
+
+8\. Kódy zvukových signálů, signály rukou a hlasové signály
+
+Základní znaky:
+
+Signál pro opuštění prostoru musí být nepřerušovaný.
+
+Použije-li se hlasový signál namísto signálu rukou nebo spolu s ním, kód se použije takto:
+
+<table><tbody><tr><td>start</td><td>k označení začátku povelu,</td></tr><tr><td>stůj</td><td>k přerušení nebo ukončení pohybu,</td></tr><tr><td>konec</td><td>k zastavení operace,</td></tr><tr><td>nahoru</td><td>ke zvedání zátěže,</td></tr><tr><td>dolů</td><td>ke spouštění zátěže,</td></tr><tr><td>vpřed,</td><td rowspan="4">} ve spojení s příslušným signálem rukou,</td></tr><tr><td>vzad</td></tr><tr><td>vpravo,</td></tr><tr><td>vlevo,</td></tr><tr><td>stop</td><td>pro nouzové zastavení,</td></tr><tr><td>rychle</td><td>pro zrychlení pohybu z bezpečnostních důvodů,</td></tr><tr><td>pomalu</td><td>při přiblížení k překážce nebo hrozí-li jiné nebezpečí.</td></tr></tbody></table>
+
+##### Kódované signály
+
+![sbcr2017c131z0375p001o007-p1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884337/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o007-p1) 
+ ![sbcr2017c131z0375p001o007-p2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884339/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o007-p2) 
+ ![sbcr2017c131z0375p001o007-p3.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/884341/NAHLED/ZOBRAZ/sbcr2017c131z0375p001o007-p3)
+
+---
+
+<sup>1</sup>) Směrnice Rady 92/58/EHS ze dne 24. června 1992 o minimálních požadavcích na bezpečnostní nebo zdravotní značky na pracovišti (devátá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS). 
+ Směrnice Evropského parlamentu a Rady 1999/92/ES ze dne 16. prosince 1999 o minimálních požadavcích na zlepšení bezpečnosti a ochrany zdraví zaměstnanců vystavených riziku výbušných prostředí (patnáctá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS). 
+ Směrnice Evropského parlamentu a Rady 2014/27/EU ze dne 26. února 2014, kterou se mění směrnice Rady 92/58/EHS, 92/85/EHS, 94/33/ES, 98/24/ES a směrnice Evropského parlamentu a Rady 2004/37/ES s cílem uvést je do souladu s nařízením (ES) č. 1272/2008 o klasifikaci, označování a balení látek a směsí.
+
+<sup>2</sup>) Příloha I bod 5.2 věta třetí směrnice Rady ze dne 30. listopadu 1989 o minimálních požadavcích na bezpečnost a ochranu zdraví na pracovišti (první samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS) (89/654/EHS).
+
+<sup>3</sup>) Příloha I bod 12.5 věta třetí směrnice Rady 89/654/EHS.
+
+<sup>4</sup>) Příloha I bod 4.5 a bod 11.7 věta první směrnice Rady 89/654/EHS. 
+ Příloha IV část A body 3.4 a 9.3 směrnice Rady 92/57/EHS ze dne 24. června 1992 o minimálních požadavcích na bezpečnost a ochranu zdraví na dočasných nebo mobilních staveništích (osmá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS). 
+ Příloha část A bod 7.5 směrnice Rady 92/91/EHS ze dne 3. listopadu 1992 o minimálních požadavcích na zlepšení bezpečnosti a ochrany zdraví zaměstnanců v těžebním vrtném průmyslu (jedenáctá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS). 
+ Příloha část A bod 9.7 směrnice Rady 92/104/ES ze dne 3. prosince 1992 o minimálních požadavcích na zlepšení bezpečnosti a ochrany zdraví zaměstnanců v povrchovém a hlubinném těžebním průmyslu (dvanáctá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS).
+
+<sup>5</sup>) Příloha I bod 12.5 věta třetí směrnice Rady 89/654/EHS.
+
+<sup>6</sup>) Příloha I bod 5.2 věta třetí směrnice Rady 89/654/EHS. 
+ Příloha IV část A bod 4.3 věty druhá a třetí směrnice Rady 92/57/EHS.
+
+<sup>7</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1272/2008 ze dne 16. prosince 2008 o klasifikaci, označování a balení látek a směsí, o změně a zrušení směrnic 67/548/EHS a 1999/45/ES a o změně nařízení (ES) č. 1907/2006, v platném znění.
+
+<sup>8</sup>) Například Evropská dohoda o mezinárodní silniční přepravě nebezpečných věcí (ADR), vyhlášená pod č. 64/1987 Sb., Řád pro mezinárodní železniční přepravu nebezpečných věcí (RID), který je přípojkem C k Úmluvě o mezinárodní železniční přepravě (COTIF) vyhlášené pod č. 8/1985 Sb.; platné znění Řádu vyhlášeno pod č. 20/2017 Sb. m. s.
+
+<sup>9</sup>) ČSN ISO 3864-1 Grafické značky – Bezpečnostní barvy a bezpečnostní značky – Část 1: Zásady navrhování bezpečnostních značek a bezpečnostního značení. 
+ ČSN ISO 3864-4 Grafické značky – Bezpečnostní barvy a bezpečnostní značky – Část 4: Kolorimetrické a fotometrické vlastnosti materiálů bezpečnostních značek.
+
+<sup>10</sup>) Příloha část B bod 1.5 směrnice Rady 92/91/EHS. 
+ Příloha část A bod 4.4.5 směrnice Rady 92/104/ES.
+
+<sup>11</sup>) ČSN EN ISO 7010 Grafické značky – Bezpečnostní barvy a bezpečnostní značky – Registrované bezpečnostní značky.

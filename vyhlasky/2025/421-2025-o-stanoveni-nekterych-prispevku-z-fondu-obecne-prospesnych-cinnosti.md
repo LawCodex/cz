@@ -1,0 +1,75 @@
+---
+title: "Vyhláška č. 421/2025 Sb., o stanovení některých příspěvků z fondu obecně prospěšných činností Všeobecné zdravotní pojišťovny České republiky a resortních, oborových, podnikových a dalších zdravotních pojišťoven pro rok 2026"
+identifier: "421/2025 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2025/421/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2025-10-14
+effective: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2025/421"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 421/2025 Sb., o stanovení některých příspěvků z fondu obecně prospěšných činností Všeobecné zdravotní pojišťovny České republiky a resortních, oborových, podnikových a dalších zdravotních pojišťoven pro rok 2026
+
+421
+
+VYHLÁŠKA
+
+ze dne 14. října 2025
+
+o stanovení některých příspěvků z fondu obecně prospěšných činností Všeobecné zdravotní pojišťovny České republiky a resortních, oborových, podnikových a dalších zdravotních pojišťoven pro rok 2026
+
+Ministerstvo zdravotnictví stanoví podle § 7a odst. 3 zákona č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky, ve znění zákona č. 289/2025 Sb., a § 18 odst. 3 zákona č. 280/1992 Sb., o resortních, oborových, podnikových a dalších zdravotních pojišťovnách, ve znění zákona č. 289/2025 Sb.:
+
+## § 1 – Příspěvek pro Ústav zdravotnických informací a statistiky České republiky
+
+(1) Výše příspěvku z fondu obecně prospěšných činností na financování činností, které podle zákona o veřejném zdravotním pojištění a zákona o pojistném na veřejné zdravotní pojištění pro systém veřejného zdravotního pojištění vykonává Ústav zdravotnických informací a statistiky České republiky (dále jen „Ústav zdravotnických informací“), se pro rok 2026 stanoví v korunách českých podle přílohy č. 1 k této vyhlášce.
+
+(2) Příspěvek podle odstavce 1 Všeobecná zdravotní pojišťovna České republiky a resortní, oborová, podniková a další zdravotní pojišťovna (dále jen „zdravotní pojišťovna“) převedou na příjmový účet Ústavu zdravotnických informací ve 4 splátkách, a to každou ve výši čtvrtiny celkové částky příspěvku do konce každého kalendářního čtvrtletí roku 2026. Splátka se zaokrouhluje na celé koruny nahoru.
+
+## § 2 – Příspěvek pro poskytovatele zdravotních služeb
+
+(1) Výše příspěvku z fondu obecně prospěšných činností na zpracování a předávání informací o nákladovosti hospitalizací podle § 41a odst. 4 zákona o veřejném zdravotním pojištění pro poskytovatele zdravotních služeb (dále jen „poskytovatel“), který s Ústavem zdravotnických informací uzavřel smlouvu o předávání těchto informací, se pro rok 2026 stanoví v korunách českých podle přílohy č. 2 k této vyhlášce.
+
+(2) Příspěvek podle odstavce 1 zdravotní pojišťovna poskytne poskytovateli ve 4 splátkách, a to každou ve výši čtvrtiny celkové částky příspěvku do konce každého kalendářního čtvrtletí roku 2026. Splátka se zaokrouhluje na celé koruny nahoru.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr zdravotnictví:
+
+prof. MUDr. Válek, CSc., MBA, EBIR, v. r.
+
+### Příloha č. 1
+
+#### Výše příspěvku z fondu obecně prospěšných činností pro Ústav zdravotnických informací
+
+Výše příspěvku poskytovaného zdravotní pojišťovnou podle § 1 se stanoví takto:
+
+Příspěvek<sub>ÚZIS</sub>=K \* 30 511 325
+
+kde:
+
+| *K* | nabývá hodnoty od 0 do 1 odpovídající poměru počtu standardizovaných pojištěnců dané zdravotní pojišťovny a celostátního počtu standardizovaných pojištěnců v rámci přerozdělování pojistného na veřejné zdravotní pojištění v lednu 2026 podle zákona o pojistném na veřejné zdravotní pojištění. |
+|---|---|
+
+### Příloha č. 2
+
+#### Výše příspěvku z fondu obecně prospěšných činností pro poskytovatele
+
+Výše příspěvku poskytovaného zdravotní pojišťovnou podle § 2 se stanoví takto:
+
+Příspěvek<sub>refsíť</sub>=K \* 1 000 000 + 100 \* PočetP<sub>validní,2023</sub>
+
+kde:
+
+| *K* | nabývá hodnoty od 0 do 1 odpovídající poměru počtu standardizovaných pojištěnců dané zdravotní pojišťovny a celostátního počtu standardizovaných pojištěnců v rámci přerozdělování pojistného na veřejné zdravotní pojištění v lednu 2026 podle zákona o pojistném na veřejné zdravotní pojištění. |
+|---|---|
+| *PočetP**<sub>valdní</sub><sub>,</sub>*<sub>2023</sub> | je počet případů hospitalizací akutní lůžkové péče poskytovatelem ukončených v roce 2023, zdravotní pojišťovně vykázaných a podle pravidel pro Klasifikaci hospitalizovaných pacientů pro rok 2026<sup>1)</sup> validně sestavených, které byly použity pro výpočet relativních vah podle této klasifikace pro rok 2026. |
+
+<sup>1</sup>) Sdělení Českého statistického úřadu č. 363/2025 Sb., o aktualizaci Klasifikace hospitalizovaných pacientů CZ-DRG.

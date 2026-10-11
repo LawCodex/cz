@@ -1,0 +1,63 @@
+---
+title: "Nařízení vlády č. 335/2019 Sb., kterým se mění nařízení vlády č. 172/2016 Sb., o stanovení finančních limitů a částek pro účely zákona o zadávání veřejných zakázek, ve znění nařízení vlády č. 471/2017 Sb."
+identifier: "335/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/335/2020-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2019-12-09
+effective: 2020-01-01
+last_amended: 2020-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/335"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 335/2019 Sb., kterým se mění nařízení vlády č. 172/2016 Sb., o stanovení finančních limitů a částek pro účely zákona o zadávání veřejných zakázek, ve znění nařízení vlády č. 471/2017 Sb.
+
+335
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 9. prosince 2019,
+
+kterým se mění nařízení vlády č. 172/2016 Sb., o stanovení finančních limitů a částek pro účely zákona o zadávání veřejných zakázek, ve znění nařízení vlády č. 471/2017 Sb.
+
+Vláda nařizuje podle § 18 odst. 3 a § 25 zákona č. 134/2016 Sb., o zadávání veřejných zakázek:
+
+## Čl. I
+
+Nařízení vlády č. 172/2016 Sb., o stanovení finančních limitů a částek pro účely zákona o zadávání veřejných zakázek, ve znění nařízení vlády č. 471/2017 Sb., se mění takto:
+
+1\. Poznámka pod čarou č. 2 zní:
+
+> „<sup>2</sup>) Nařízení Komise v přenesené pravomoci (EU) 2019/1827 ze dne 30. října 2019, kterým se mění směrnice Evropského parlamentu a Rady 2014/23/EU ohledně finančního limitu pro koncese. 
+>  Nařízení Komise v přenesené pravomoci (EU) 2019/1828 ze dne 30. října 2019, kterým se mění směrnice Evropského parlamentu a Rady 2014/24/EU ohledně finančních limitů pro veřejné zakázky na dodávky, na služby a na stavební práce a pro soutěže o návrh. 
+>  Nařízení Komise v přenesené pravomoci (EU) 2019/1829 ze dne 30. října 2019, kterým se mění směrnice Evropského parlamentu a Rady 2014/25/EU ohledně finančních limitů pro zakázky na dodávky, na služby a na stavební práce a pro soutěže o návrh. 
+>  Nařízení Komise v přenesené pravomoci (EU) 2019/1830 ze dne 30. října 2019, kterým se mění směrnice Evropského parlamentu a Rady 2009/81/ES ohledně prahových hodnot pro zakázky na dodávky, na služby a na stavební práce.“.
+
+2\. V § 2 odst. 1 písm. a) a v § 3 odst. 1 písm. a) se částka „3 873 000 Kč“ nahrazuje částkou „3 568 000 Kč“.
+
+3\. V § 2 odst. 1 písm. b) a v § 3 odst. 1 písm. b) se částka „5 944 000 Kč“ nahrazuje částkou „5 494 000 Kč“.
+
+4\. V § 2 odst. 2 a v § 3 odst. 2 se částka „11 915 000 Kč“ nahrazuje částkou „10 989 000 Kč“.
+
+5\. V § 3 odst. 3, § 3 odst. 4 písm. b) a v § 4 se částka „149 224 000 Kč“ nahrazuje částkou „137 366 000 Kč“.
+
+6\. V § 3 odst. 4 úvodní části ustanovení se částka „20 172 000 Kč“ nahrazuje částkou „19 257 000 Kč“.
+
+7\. V § 3 odst. 4 písm. a) a v § 5 písm. b) se částka „26 897 000 Kč“ nahrazuje částkou „25 676 000 Kč“.
+
+8\. V § 5 písm. a) se částka „2 151 000 Kč“ nahrazuje částkou „2 054 000 Kč“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2020.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministryně pro místní rozvoj:
+
+Ing. Dostálová v. r.

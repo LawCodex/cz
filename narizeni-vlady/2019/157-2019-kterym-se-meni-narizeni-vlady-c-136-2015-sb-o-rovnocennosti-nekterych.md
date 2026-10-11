@@ -1,0 +1,79 @@
+---
+title: "Nařízení vlády č. 157/2019 Sb., kterým se mění nařízení vlády č. 136/2015 Sb., o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky"
+identifier: "157/2019 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2019/157/2019-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2019-06-17
+effective: 2019-07-01
+last_amended: 2019-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2019/157"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 157/2019 Sb., kterým se mění nařízení vlády č. 136/2015 Sb., o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky
+
+157
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 17. června 2019,
+
+kterým se mění nařízení vlády č. 136/2015 Sb., o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky
+
+Vláda nařizuje k provedení zákona č. 234/2014 Sb., o státní službě, ve znění zákona č. 131/2015 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 199/2015 Sb., zákona č. 298/2015 Sb., zákona č. 26/2016 Sb., zákona č. 47/2016 Sb., zákona č. 137/2016 Sb., zákona č. 190/2016 Sb., zákona č. 195/2016 Sb., zákona č. 298/2016 Sb., zákona č. 302/2016 Sb., zákona č. 319/2016 Sb., zákona č. 24/2017 Sb., zákona č. 66/2017 Sb., zákona č. 144/2017 Sb., zákona č. 150/2017 Sb., zákona č. 205/2017 Sb., zákona č. 335/2018 Sb., zákona č. 32/2019 Sb., zákona č. 35/2019 Sb. a zákona č. 111/2019 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 136/2015 Sb., o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky, se mění takto:
+
+1\. V § 2 odst. 2 se za slovo „plnění“ vkládají slova „a hazardní hry“, za slovem „krajinotvorba“ se čárka nahrazuje slovem „a“ a slova „a Průmyslové vlastnictví“ se zrušují.
+
+2\. Přílohy č. 1 a 2 znějí:
+
+> **„Příloha č. 1 k nařízení vlády č. 136/2015 Sb.**
+
+> **Rovnocennost zvláštní části zkoušky zvláštní odborné způsobilosti úředníka územního samosprávného celku**
+
+> | Zvláštní část úřednické zkoušky pro obor státní služby | Rovnocenná zvláštní část zkoušky zvláštní odborné způsobilosti úředníka územního samosprávného celku k výkonu správní činnosti |
+> |---|---|
+> | Školství, mládež a tělovýchova | ve školství |
+> | Sociální služby, sociální práce, sociálně-právní ochrana dětí a rodinná politika | v sociálních službách a při sociálně-právní ochraně dětí |
+> | Zdravotnictví a ochrana zdraví | ve zdravotnictví |
+> | Krizové řízení, ochrana obyvatelstva a integrovaný záchranný systém | při zajištění ochrany obyvatel a krizovém řízení |
+> | Zemědělství a rostlinolékařská péče | v zemědělství |
+> | Vodní hospodářství | ve vodním hospodářství |
+> | Hospodářská opatření pro krizové stavy a správa státních hmotných rezerv | při přípravě a realizaci hospodářských opatření pro krizové stavy |
+> | Doprava | a) při správním rozhodování a dozorové činnosti v silničním hospodářství,<br> b) v silniční dopravě,<br> c) při přestupkovém řízení ve věcech bezpečnosti a plynulosti silničního provozu na úseku dopravy a silničního hospodářství a správních řízeních souvisejících,<br> d) při správním rozhodování o řidičských oprávněních a řidičských průkazech,<br> e) při správním rozhodování o registračních úkonech v oblasti provozu silničních vozidel,<br> nebo<br> f) při správním rozhodování a dozorové činnosti při provozování drah a drážní dopravy |
+> | Ochrana přírody a krajiny | v ochraně přírody a krajiny |
+> | Technická ochrana životního prostředí | a) v ochraně ovzduší,<br> b) v hospodaření s odpady,<br> c) při prevenci závažných havárií způsobených vybranými nebezpečnými chemickými látkami nebo chemickými směsmi, nebo<br> d) při posuzování vlivů na životní prostředí a integrované prevenci a omezování znečištění |
+
+> **Příloha č. 2 k nařízení vlády č. 136/2015 Sb.**
+
+> **Rovnocennost jiných zkoušek**
+
+> | Zvláštní část úřednické zkoušky pro obor státní služby | Rovnocenná zkouška podle jiného zákona |
+> |---|---|
+> | Daně, poplatky a jiná obdobná peněžitá plnění a hazardní hry | Kvalifikační zkouška daňového poradce<br> podle zákona č. 523/1992 Sb., o daňovém poradenství a Komoře daňových poradců České republiky, ve znění pozdějších předpisů |
+> | Audit | Auditorská zkouška<br> podle zákona č. 93/2009 Sb., o auditorech a o změně některých zákonů (zákon o auditorech), ve znění pozdějších předpisů |
+> | Zahraniční vztahy a služba | Zkouška zakončující vzdělávací program zaměřený na výkon zahraniční služby<br> podle zákona č. 150/2017 Sb., o zahraniční službě a o změně některých zákonů (zákon o zahraniční službě), ve znění zákona č. 35/2019 Sb. |
+> | Lékařská posudková služba | Závěrečná zkouška certifikovaného kurzu v nástavbovém oboru posudkové lékařství<br> podle zákona č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění pozdějších předpisů |
+> | Legislativa a právní činnost | a) Odborná justiční zkouška<br> podle zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů<br> b) Advokátní zkouška<br> podle zákona č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů<br> c) Závěrečná zkouška právního čekatele<br> podle zákona č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů<br> d) Notářská zkouška<br> podle zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, nebo<br> e) Odborná exekutorská zkouška<br> podle zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů |
+> | Veterinární péče | Základní atestace (atestace I. stupně) jako závěrečná zkouška akreditovaného studijního programu v oblasti veterinárního lékařství nebo veterinární hygieny<br> podle zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů |
+> | Pozemková správa a krajinotvorba | Zkouška odborné způsobilosti k projektování pozemkových úprav<br> podle zákona č. 139/2002 Sb., o pozemkových úpravách a pozemkových úřadech a o změně zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů, ve znění pozdějších předpisů |
+> | Ochrana přírody a krajiny | Zkouška zvláštní odborné způsobilosti<br> podle zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů |
+> | Zeměměřictví a katastr nemovitostí | Zkouška odborné způsobilosti<br> podle zákona č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů“. |
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. července 2019.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Hamáček v. r.

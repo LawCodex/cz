@@ -1,0 +1,50 @@
+---
+title: "Vyhláška č. 173/2026 Sb., kterou se mění vyhláška č. 11/2023 Sb., o zdravotní způsobilosti ve vnitrozemské plavbě"
+identifier: "173/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/173/2026-10-14"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2026-09-23
+effective: 2026-10-14
+last_amended: 2026-10-14
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/173"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 173/2026 Sb., kterou se mění vyhláška č. 11/2023 Sb., o zdravotní způsobilosti ve vnitrozemské plavbě
+
+173
+
+VYHLÁŠKA
+
+ze dne 23. září 2026,
+
+kterou se mění vyhláška č. 11/2023 Sb., o zdravotní způsobilosti ve vnitrozemské plavbě
+
+Ministerstvo zdravotnictví stanoví podle § 52 odst. 2 k provedení § 24k odst. 9, § 24w odst. 9 a § 26h odst. 9 zákona č. 114/1995 Sb., o vnitrozemské plavbě, ve znění zákona č. 372/2022 Sb.:
+
+## Čl. I
+
+Vyhláška č. 11/2023 Sb., o zdravotní způsobilosti ve vnitrozemské plavbě, se mění takto:
+
+1\. V § 1 odst. 1 se za slovo „unie<sup>1</sup>)“ vkládají slova „, zároveň navazuje na přímo použitelný předpis Evropské unie<sup>2</sup>)“.
+
+Doplňuje se poznámka pod čarou č. 2, která zní:
+
+> „<sup>2</sup>) Nařízení Komise v přenesené pravomoci (EU) 2026/118 ze dne 7. listopadu 2025, kterým se doplňuje směrnice Evropského parlamentu a Rady (EU) 2017/2397 stanovením norem způsobilosti a odpovídajících znalostí a dovedností, norem pro praktické zkoušky, pro schvalování simulátorů a norem zdravotní způsobilosti a kterým se zrušuje směrnice Komise v přenesené pravomoci (EU) 2020/12.“.
+
+2\. V § 7 se slova „směrnice Komise v přenesené pravomoci (EU) 2020/12“ nahrazují slovy „nařízení Komise v přenesené pravomoci (EU) 2026/118“.
+
+3\. Poznámka pod čarou č. 1 zní:
+
+> „<sup>1</sup>) Směrnice Evropského parlamentu a Rady (EU) 2017/2397 ze dne 12. prosince 2017 o uznávání odborných kvalifikací ve vnitrozemské plavbě a o zrušení směrnic Rady 91/672/EHS a 96/50/ES.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem následujícím po dni jejího vyhlášení.
+
+Ministr:
+
+Mgr. et Mgr. Vojtěch, MHA, v. r.

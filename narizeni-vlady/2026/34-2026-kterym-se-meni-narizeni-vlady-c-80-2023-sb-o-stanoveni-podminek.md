@@ -1,0 +1,692 @@
+---
+title: "Nařízení vlády č. 34/2026 Sb., kterým se mění nařízení vlády č. 80/2023 Sb., o stanovení podmínek provádění agroenvironmentálně-klimatických opatření, ve znění pozdějších předpisů"
+identifier: "34/2026 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2026/34/2026-03-15"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2026-03-02
+effective: 2026-03-15
+last_amended: 2026-03-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2026/34"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 34/2026 Sb., kterým se mění nařízení vlády č. 80/2023 Sb., o stanovení podmínek provádění agroenvironmentálně-klimatických opatření, ve znění pozdějších předpisů
+
+34
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 2. března 2026,
+
+kterým se mění nařízení vlády č. 80/2023 Sb., o stanovení podmínek provádění agroenvironmentálně-klimatických opatření, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 2c odst. 5 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 85/2004 Sb., zákona č. 291/2009 Sb., zákona č. 179/2014 Sb. a zákona č. 382/2022 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb., zákona č. 291/2009 Sb. a zákona č. 179/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 80/2023 Sb., o stanovení podmínek provádění agroenvironmentálně-klimatických opatření, ve znění nařízení vlády č. 61/2024 Sb., nařízení vlády č. 185/2024 Sb. a nařízení vlády č. 41/2025 Sb., se mění takto:
+
+1\. V § 8 odst. 3 se na konec věty první vkládají slova „a na žádosti podané podle odstavce 10“.
+
+2\. V § 14 se odstavce 3 a 4 zrušují.
+
+Dosavadní odstavec 5 se označuje jako odstavec 3.
+
+Poznámka pod čarou č. 17 se zrušuje.
+
+3\. V § 14 odst. 3 úvodní části ustanovení se slova „popřípadě podle odstavce 3,“ zrušují.
+
+4\. V § 15 odst. 1 písm. d) se slova „15. listopadu“ nahrazují slovy „31. října“.
+
+5\. V § 16 odst. 8 písm. a) body 1 až 3 znějí:
+
+> „1. do 15. června příslušného kalendářního roku,
+
+> 2\. do 15. června příslušného kalendářního roku a zároveň od 20. srpna do 30. září příslušného kalendářního roku; v případě vymezení v evidenci využití půdy lze druhou seč nahradit pastvou, nebo
+
+> 3\. od 20. srpna do 30. září příslušného kalendářního roku;“.
+
+6\. V § 16 odst. 13 písm. a) se slova „31. října“ nahrazují slovy „15. října“.
+
+7\. V § 16 odst. 13 písm. e) se slova „jinak, a“ nahrazují slovem „jinak,“.
+
+8\. V § 16 odst. 13 písm. f) se na konci tečka nahrazuje slovem „, a“.
+
+9\. V § 16 odst. 13 se doplňuje písmeno g), které zní:
+
+> „g) neprovádí přísev trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody.“.
+
+10\. V § 17 odst. 3 se písmena c) a d) zrušují.
+
+Dosavadní písmena e) a f) se označují jako písmena c) a d).
+
+11\. V § 18 odst. 5 písmeno b) zní:
+
+> „b) provádí každoročně do 30. září příslušného kalendářního roku
+
+> 1\. jedenkrát seč s odklizením biomasy nebo spasení bylinného pokryvu meziřadí a
+
+> 2\. jedenkrát seč s odklizením biomasy, spasení bylinného pokryvu nebo mulčování příkmenného pásu,“.
+
+12\. V § 18 odst. 5 písm. c) se slova „a příkmenného pásu“ zrušují.
+
+13\. V § 18 odst. 5 písmeno e) zní:
+
+> „e) ponechá každoročně 10 až 20 % výměry daného dílu půdního bloku v meziřadí, příkmenném pásu a manipulačním prostoru bez seče, pastvy nebo mulčování, která bude posečena od 1. října do 30. listopadu příslušného kalendářního roku,“.
+
+14\. V § 19 odst. 3 se písmeno c) zrušuje.
+
+Dosavadní písmena d) až f) se označují jako písmena c) až e).
+
+15\. V § 19 odst. 6 písm. b) se na konci textu doplňují slova „vedené v evidenci využití půdy k datu podání žádosti“.
+
+16\. V § 23 odst. 8 se slova „díl půdního bloku“ nahrazují slovy „díl půdního bloku vedený v Registru vinic podle § 28 zákona o vinohradnictví a vinařství“.
+
+17\. V § 24 odst. 13 písmeno g) zní:
+
+> „g) provede za celé období trvání období plnění víceletých podmínek na daném dílu půdního bloku nebo jeho části
+
+> 1\. nejvýše 3 aplikace přípravků na ochranu rostlin proti mandelince bramborové, přičemž aplikace přípravků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství není do tohoto počtu započítána, a
+
+> 2\. je-li v příslušném kalendářním roce prováděno ošetření proti mandelince bramborové, nejméně 1 aplikaci přípravků na ochranu rostlin proti mandelince bramborové pomocí přípravků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství,“.
+
+18\. V § 24 odst. 14 písm. c) se za slovo „po“ vkládá slovo „každé“ a slova „a to alespoň dvakrát za celé období trvání období plnění víceletých podmínek,“ se zrušují.
+
+19\. V § 24 odst. 14 písmeno i) zní:
+
+> „i) je-li prováděno ošetření proti mandelince bramborové, provede každoročně na daném dílu půdního bloku nebo jeho části
+
+> 1\. nejvýše 2 aplikace přípravků na ochranu rostlin proti mandelince bramborové, přičemž aplikace přípravků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství není do tohoto počtu započítána, a
+
+> 2\. nejméně 1 aplikaci přípravků na ochranu rostlin proti mandelince bramborové pomocí přípravku na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství,“.
+
+20\. V § 24a odst. 6 písm. c) bodě 12 a § 24a odst. 7 písm. c) bodě 12 se slovo „thiencarbazone-methyl“ nahrazuje slovy „thienkarbazon (ve formě thienkarbazon-methyl)“.
+
+21\. V § 26 odst. 1 písm. d) se číslo „116“ nahrazuje číslem „190“.
+
+22\. V § 26 odst. 4 se na konci textu doplňují slova „, na kterém splnil podmínky podle § 15 odst. 1“.
+
+23\. V § 26 odstavec 9 zní:
+
+> „(9) Fond sníží sazbu dotace podle odstavce 1 písm. c) bodů 1 a 2 o 10 EUR/1 hektar, jde-li o díl půdního bloku žadatele registrovaného v systému ekologického zemědělství podle § 6 zákona o ekologickém zemědělství, který je k datu podání žádosti veden v evidenci využití půdy v režimu ekologického zemědělství nebo přechodu na ekologické zemědělství.“.
+
+24\. V § 28 odst. 1 písm. a) bodě 1, § 29 odst. 1 písm. b) bodě 1, § 30 odst. 1 písm. a) bodě 1, § 34 odst. 1 písm. b) bodě 1 a § 34 odst. 1 písm. b) bodě 2 se slovo „5“ nahrazuje slovem „3“.
+
+25\. V § 29 odst. 3 písm. c) bodě 6 se na konci doplňuje slovo „nebo“.
+
+26\. V § 29 odst. 3 se písmeno d) zrušuje.
+
+Dosavadní písmena e) a f) se označují jako písmena d) a e).
+
+27\. V § 29 odst. 3 písm. d) se slovo „, nebo“ nahrazuje tečkou.
+
+28\. V § 29 odst. 3 se písmeno e) zrušuje.
+
+29\. V § 30 odst. 2 písm. b) bodě 1 se slova „nebo v“ nahrazují čárkou.
+
+30\. V § 30 odst. 2 písm. b) bodě 1 se na konci textu doplňují slova „nebo v § 16 odst. 13 písm. g)“.
+
+31\. V § 30 odst. 2 písm. c) se za bod 15 vkládá nový bod 16, který zní:
+
+> „16. nesplnil podmínku uvedenou v § 24 odst. 13 písm. g) bodě 2,“.
+
+Dosavadní body 16 až 19 se označují jako body 17 až 20.
+
+32\. V § 30 odst. 2 písm. c) bodě 17 se slovo „nebo“ zrušuje.
+
+33\. V § 30 odst. 2 písm. c) se za bod 17 vkládá nový bod 18, který zní:
+
+> „18. nesplnil podmínku uvedenou v § 24 odst. 14 písm. c),“.
+
+Dosavadní body 18 až 20 se označují jako body 19 až 21.
+
+34\. V § 30 odst. 2 písm. c) bod 20 zní:
+
+> „20. nesplnil podmínku uvedenou v § 24 odst. 14 písm. i) bodě 1, jsou-li Fondem zjištěny nejméně 3 a nejvíce 4 aplikace uvedené v § 24 odst. 14 písm. i) bodě 1, nebo“.
+
+35\. V § 30 odst. 2 písm. c) bodě 21 se slova „podmínky uvedené“ nahrazují slovy „podmínku uvedenou“.
+
+36\. V § 30 odst. 2 písm. c) bodě 21 se slova „, je-li Fondem zjištěno neprovedení první aplikace pomocí přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství“ nahrazují slovy „bodě 2“.
+
+37\. V § 31 odst. 1 písm. b) bod 1 zní:
+
+> „1. nesplnil podmínku uvedenou v § 24 odst. 13 písm. g) bodě 1, je-li Fondem zjištěno nejméně 4 a nejvíce 5 aplikací uvedených v § 24 odst. 13 písm. g) bodě 1,“.
+
+38\. V § 31 odst. 1 písm. b) se bod 2 zrušuje.
+
+Dosavadní body 3 až 6 se označují jako body 2 až 5.
+
+39\. V § 31 odst. 1 písm. b) se bod 3 zrušuje.
+
+Dosavadní body 4 a 5 se označují jako body 3 a 4.
+
+40\. V § 32 odst. 2 písmeno f) zní:
+
+> „f) podopatření omezení používání pesticidů v ochranných pásmech vodních zdrojů na orné půdě
+
+> 1\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 1,
+
+> 2\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 2,
+
+> 3\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 3,
+
+> 4\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 4,
+
+> 5\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 5,
+
+> 6\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 6,
+
+> 7\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 1,
+
+> 8\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 2,
+
+> 9\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 3,
+
+> 10\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 4,
+
+> 11\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 5,
+
+> 12\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 6,
+
+> 13\. nesplnil podmínku uvedenou v § 24a odst. 8 písm. c) bodě 1,
+
+> 14\. nesplnil podmínku uvedenou v § 24a odst. 8 písm. c) bodě 2,
+
+> 15\. nesplnil podmínku uvedenou v § 24a odst. 8 písm. c) bodě 3,
+
+> 16\. nesplnil podmínku uvedenou v § 24a odst. 8 písm. d),
+
+> 17\. nesplnil podmínku uvedenou v § 24a odst. 9 písm. c) bodě 1,
+
+> 18\. nesplnil podmínku uvedenou v § 24a odst. 9 písm. c) bodě 2,
+
+> 19\. nesplnil podmínku uvedenou v § 24a odst. 9 písm. c) bodě 3,
+
+> 20\. nesplnil podmínku uvedenou v § 24a odst. 9 písm. c) bodě 4,
+
+> 21\. nesplnil podmínku uvedenou v § 24a odst. 9 písm. c) bodě 5, nebo
+
+> 22\. nesplnil podmínku uvedenou v § 24a odst. 9 písm. c) bodě 6.“.
+
+41\. V § 32 odst. 3 písm. c) se slovo „nebo“ zrušuje.
+
+42\. V § 32 odst. 3 písm. d) se na konci tečka nahrazuje slovem „, nebo“.
+
+43\. V § 32 odst. 3 se doplňuje písmeno e), které zní:
+
+> „e) podopatření omezení používání pesticidů v ochranných pásmech vodních zdrojů na orné půdě
+
+> 1\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 7,
+
+> 2\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 8,
+
+> 3\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 9,
+
+> 4\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 10,
+
+> 5\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 11,
+
+> 6\. nesplnil podmínku uvedenou v § 24a odst. 6 písm. c) bodě 12,
+
+> 7\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 7,
+
+> 8\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 8,
+
+> 9\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 9,
+
+> 10\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 10,
+
+> 11\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 11,
+
+> 12\. nesplnil podmínku uvedenou v § 24a odst. 7 písm. c) bodě 12, nebo
+
+> 13\. nesplnil podmínku uvedenou v § 24a odst. 9 písm. c) bodě 7.“.
+
+44\. V § 34 odst. 3 písm. b) bodě 1 se slova „podmínky uvedené“ nahrazují slovy „podmínku uvedenou“.
+
+45\. V § 34 odst. 3 písm. b) bodě 1 se za slovo „b)“ vkládají slova „nebo § 16 odst. 8 písm. b) bodě 2“.
+
+46\. V § 37 odstavec 2 zní:
+
+> „(2) Pokud žadatel při uplatnění
+
+> a) podopatření integrovaná produkce ovoce nesplnil podmínky uvedené v § 22 odst. 7, přičemž žadatel neprovedl odběr a rozbor vzorků ovoce ve 2 kalendářních letech, nebo
+
+> b) podopatření integrovaná produkce zeleniny, víceletých produkčních plodin, jahodníku a brambor nesplnil podmínky uvedené v § 24 odst. 7, přičemž žadatel neprovedl odběr a rozbor vzorků ve 2 kalendářních letech,
+
+> Fond dotaci v podopatření podle § 2 neposkytne a současně rozhodne o vyřazení žadatele z příslušného podopatření a o vrácení dotace poskytnuté za příslušné podopatření podle § 2 od počátku tohoto období plnění víceletých podmínek.“.
+
+47\. V § 37 odstavec 3 zní:
+
+> „(3) Pokud žadatel při uplatnění podopatření integrovaná produkce révy vinné
+
+> a) nesplnil podmínku uvedenou v § 23 odst. 6 písm. a) nebo c), je-li Fondem zjištěno 35 a více aplikací uvedených v § 23 odst. 6 písm. a) nebo c),
+
+> b) nesplnil podmínku uvedenou v § 23 odst. 6 písm. b) nebo d), je-li Fondem zjištěno 11 a více aplikací uvedených v § 23 odst. 6 písm. b) nebo d),
+
+> c) nesplnil podmínku uvedenou v § 23 odst. 7 písm. a) nebo c), je-li Fondem zjištěno 25 a více aplikací uvedených v § 23 odst. 7 písm. a) nebo c), nebo
+
+> d) nesplnil podmínku uvedenou v § 23 odst. 7 písm. b) nebo d), je-li Fondem zjištěno 9 a více aplikací uvedených v § 23 odst. 7 písm. b) nebo d),
+
+> Fond dotaci v titulu podle § 2 neposkytne a současně rozhodne o vyřazení žadatele z příslušného titulu a vrácení dotace poskytnuté za příslušný titul podle § 2 od počátku tohoto období plnění víceletých podmínek.“.
+
+48\. V § 37 odstavec 5 zní:
+
+> „(5) Pokud žadatel při uplatnění
+
+> a) podopatření integrovaná produkce ovoce nesplnil podmínky uvedené v § 22 odst. 5 nebo překročil limity obsahu chemických látek uvedených v příloze č. 12 k tomuto nařízení,
+
+> b) podopatření integrovaná produkce révy vinné nesplnil podmínku uvedenou v § 23 odst. 5 písm. d), je-li Fondem zjištěno 17 a více aplikací uvedených v § 23 odst. 5 písm. d), nebo
+
+> c) podopatření integrovaná produkce zeleniny, víceletých produkčních plodin, jahodníku a brambor nesplnil podmínky uvedené v § 24 odst. 6 nebo překročil limity obsahu chemických látek uvedených v příloze č. 12 k tomuto nařízení,
+
+> Fond dotaci neposkytne na díl půdního bloku, na kterém k nesplnění podmínky došlo, a současně rozhodne o nezařazení nebo vyřazení tohoto dílu půdního bloku z příslušného podopatření a o vrácení dotace poskytnuté podle § 2 za daný díl půdního bloku od počátku období plnění víceletých podmínek.“.
+
+49\. V příloze č. 4 části A. tabulka zní:
+
+> „
+>
+> | **Č.** | **Druh** | **Minimální výsevek (kg/ha)** |
+> |---|---|---|
+> | 1. | Bob obecný (*Vicia Faba*) | 160 |
+> | 2. | Hořčice bílá (*Sinapis alba* L.) | 10 |
+> | 3. | Hrách polní (*Pisum sativum* L.) | 160 |
+> | 4. | Jetel alexandrijský (*Trifolium alexandrinum* L.) | 12 |
+> | 5. | Jetel nachový (inkarnát) (*Trifolium incarnatum*) | 16 |
+> | 6. | Jetel šípovitý (*Trifolium vesiculosum*) | 12 |
+> | 7. | Lnička setá (*Camelina sativa*) | 6 |
+> | 8. | Mastňák habešský (*Guizotia abyssinica*) | 5 |
+> | 9. | Oves hřebílkatý (*Avena strigosa*) | 16 |
+> | 10. | Peluška (*Pisum* sp.) | 80 |
+> | 11. | Pohanka obecná (*Fagopyrum esculentum Moench*) | 40 |
+> | 12. | Ředkev setá, čínská (*Raphanus sativus var. niger*) | 8 |
+> | 13. | Řeřicha setá (*Lepidium sativum*) | 6 |
+> | 14. | Svazenka shloučená (*Phacelia congesta*) | 10 |
+> | 15. | Svazenka vratičolistá (*Phacelia tanacetifolia* Benth.) | 10 |
+> | 16. | Světlice barvířská (Saflor)(*Carthamus tinctorius*) | 20 |
+> | 17. | Žito trsnaté (*Secale sylvestre*) | 60 |
+>
+> “.
+
+50\. V příloze č. 4 části B. tabulka zní:
+
+> „
+>
+> | **Č.** | **Druh** | **Minimální výsevek (kg/ha)** |
+> |---|---|---|
+> | 1. | Bob obecný (*Vicia faba*) | 160 |
+> | 2. | Hrách polní (*Pisum sativum* L.) | 160 |
+> | 3. | Mastňák habešský (*Guizotia abyssinica*) | 5 |
+> | 4. | Oves hřebílkatý (*Avena strigosa*) | 16 |
+> | 5. | Peluška (*Pisum* sp.) | 80 |
+> | 6. | Ředkev setá, čínská (*Raphanus sativus var. niger*) | 8 |
+> | 7. | Ředkev olejná (*Raphanus sativus*, var. *oleifera*) | 10 |
+> | 8. | Svazenka shloučená (*Phacelia congesta*) | 10 |
+> | 9. | Svazenka vratičolistá (*Phacelia tanacetifolia* Benth.) | 10 |
+> | 10. | Světlice barvířská (Saflor)(*Carthamus tinctorius*) | 30 |
+> | 11. | Vikev setá (*Vicia sativa* L.) | 60 |
+>
+> “.
+
+51\. V příloze č. 5 části A. tabulka 2. Volitelné druhy včetně vět pod ní zní:
+
+> „2. Volitelné druhy:
+
+> <table><thead><tr><th>Č.</th><th>Druh</th><th>Minimální množství ve směsi (kg/ha)</th></tr></thead><tbody><tr><td>1.</td><td>Bér italský<br>(<i>Setaria italica​​​​</i> L.)</td><td>4</td></tr><tr><td>2.</td><td>Bobovité<br>(hrách setý polní (<i>Pisum sativum</i> L. ssp. <i>Speciosum</i>), peluška (<i>Pisum sp.</i>),<br>hrách setý pravý (<i>Pisum sativum</i> L. ssp. <i>Sativum</i>),<br>bob koňský polní (<i>Vicia faba</i> L. var. <i>Equina</i>) nebo<br>vikev setá (<i>Vicia sativa</i>))</td><td>30</td></tr><tr><td>3.</td><td>Čirok zrnový (dvoubarevný)<br>(<i>Sorghum bicolor</i> L.)</td><td>3</td></tr><tr><td>4.</td><td>Len olejný<br>(<i>Linum usitatissimum</i> L.)</td><td>20</td></tr><tr><td>5.</td><td>Lesknice kanárská<br>(<i>Phalaris canariensis</i> L.)</td><td>5</td></tr><tr><td>6.</td><td>Lupina bílá<br>(<i>Lupinus albus</i> L.)</td><td>5</td></tr><tr><td>7.</td><td>Slunečnice roční*) (<i>Helianthus annuus</i> L.)</td><td>2,5</td></tr><tr><td>8.</td><td>Svazenka shloučená<br>(<i>Phacelia congesta</i>)</td><td>5</td></tr><tr><td>9.</td><td>Svazenka vratičolistá<br>(<i>Phacelia tanacetifolia Benth.</i>)</td><td>5</td></tr><tr><td colspan="3">*) V případě slunečnice roční se může použít množství odpovídající 1/20 výsevní jednotky na 1 hektar biopásu (70 000 nažek na hektar).</td></tr><tr><td colspan="3">Osevní směs je složena z povinných druhů podle části A. tabulky č. 1, které musí být ve směsi vždy obsaženy, a dále z volitelných druhů podle části A. tabulky č. 2, kdy žadatel z uvedeného seznamu druhů volí vždy nejméně 2 druhy.</td></tr><tr><td colspan="3">Výsev jiných druhů plodin nad rámec výčtu plodin v osevní směsi pro krmné biopásy podle části A. tabulek č. 1 a 2 není považován za porušení podmínky.</td></tr><tr><td colspan="3">Snížení minimálního množství ve směsi podle části A. tabulek č. 1 a 2 o 10 % není považováno za porušení podmínky.</td></tr></tbody></table>“.
+>
+> “.
+
+52\. V příloze č. 5 části B. tabulka 1. Jeteloviny včetně vět pod ní zní:
+
+> „1. Jeteloviny:
+
+> <table><thead><tr><th>Č.</th><th>Druh</th></tr></thead><tbody><tr><td>1.</td><td>Čičorka pestrá<br>(<i>Securigera varia</i> L.)</td></tr><tr><td>2.</td><td>Jetel luční – diploidní odrůdy<br>(<i>Trifolium pratense</i> L.)</td></tr><tr><td>3.</td><td>Komonice bílá (jednoleté i dvouleté odrůdy)<br>(<i>Melilotus albus</i> Med.)</td></tr><tr><td>4.</td><td>Úročník bolhoj<br>(<i>Anthyllis vulneraria</i> L.)</td></tr><tr><td>5.</td><td>Vičenec ligrus<br>(<i>Onobrychis viciaefolia</i> L.)</td></tr><tr><td>6.</td><td>Vikev setá<br>(<i>Vicia sativa</i> L.)</td></tr><tr><td>7.</td><td>Vojtěška setá<br>(<i>Medicago sativa</i> L.)</td></tr><tr><td colspan="2">Ve směsi osiv jsou použity nejméně 4 druhy ze seznamu v minimálním celkovém množství ve směsi 15 kg na 1 hektar. Snížení minimálního množství ve směsi o 10 % není považováno za porušení podmínky.</td></tr></tbody></table>“.
+>
+> “.
+
+53\. V příloze č. 5 části B. tabulka 2. Plodiny zní:
+
+> „
+>
+> <table><thead><tr><th>Č.</th><th>Druh</th></tr></thead><tbody><tr><td>1.</td><td>Hořčice bílá<br>(<i>Sinapis alba</i> L.)</td></tr><tr><td>2.</td><td>Pohanka obecná<br>(<i>Fagopyrum esculentum Moench</i>)</td></tr><tr><td>3.</td><td>Slunečnice roční<br>(<i>Helianthus annuus</i> L.)</td></tr><tr><td>4.</td><td>Svazenka shloučená<br>(<i>Phacelia congesta</i>)</td></tr><tr><td>5.</td><td>Svazenka vratičolistá<br>(<i>Phacelia tanacetifolia Benth.</i>)</td></tr><tr><td colspan="2">Ve směsi osiv jsou použity nejméně 2 druhy plodin ze seznamu v minimálním celkovém množství 5 kg na 1 hektar a maximálním celkovém množství 7 kg na hektar. Změna stanoveného množství ve směsi o 10 % není považována za porušení podmínky.</td></tr><tr><td colspan="2">Zastoupení hořčice bílé ve směsi osiv činí maximálně 1,5 kg na 1 hektar, zastoupení svazenky vratičolisté činí maximálně 1,0 kg na 1 hektar. Změna zastoupení hořčice bílé nebo svazenky vratičolisté ve směsi osiv do 10 % není považována za porušení podmínky.</td></tr></tbody></table>“.
+>
+> “.
+
+54\. V příloze č. 5 části B. pod tabulkou 2. Plodiny se věty první a druhá zrušují.
+
+55\. V příloze č. 5 části B. tabulka 3. Byliny zní:
+
+> „
+>
+> <table><thead><tr><th>Č.</th><th>Druh</th></tr></thead><tbody><tr><td>1.</td><td>Divizna velkokvětá<br>(<i>Verbascum densiflorum</i> Bertol.)</td></tr><tr><td>2.</td><td>Kmín kořenný<br>(<i>Carum carvi</i> L.)</td></tr><tr><td>3.</td><td>Mrkev krmná<br>(<i>Daucus carota</i> L. ssp. <i>sativus</i>)</td></tr><tr><td>4.</td><td>Sléz lesní<br>(<i>Malva sylvestris</i> L.)</td></tr><tr><td colspan="2">Ve směsi osiv je použit nejméně 1 druh ze seznamu bylin v minimálním celkovém množství 2,5 kg na 1 hektar a maximálním celkovém množství 5 kg na 1 hektar.</td></tr><tr><td colspan="2">Výsev jiných druhů plodin nad rámec výčtu jetelovin, plodin a bylin v osevní směsi pro nektarodárné biopásy podle části B. tabulek č. 1, 2 a 3 není považován za porušení podmínky.</td></tr><tr><td colspan="2">Změna stanoveného množství ve směsi o 10 % není považována za porušení podmínky.</td></tr></tbody></table>“.
+>
+> “.
+
+56\. V příloze č. 5 části B. pod tabulkou 3 se věta první zrušuje.
+
+57\. V příloze č. 5 části B. pod tabulkou 3 se věta první zrušuje.
+
+58\. V příloze č. 5 části C. tabulka zní:
+
+> „
+>
+> <table><thead><tr><th>Č.</th><th>Druh</th><th>Minimální množství ve směsi<br>(kg/ha)</th><th>Minimální počet druhů ve<br>směsi</th></tr></thead><tbody><tr><td>1.</td><td>Bobovité<br>(<i>Fabaceae</i>)</td><td>7</td><td>4</td></tr><tr><td>2.</td><td>Lipnicovité<br>(<i>Poaceae</i>)</td><td>-</td><td>3</td></tr><tr><td>3.</td><td>Ostatní dvouleté<br>a víceleté<br>dvouděložné<br>byliny</td><td>2,5</td><td>4</td></tr><tr><td colspan="4">V osevní směsi jsou zastoupeny nejméně 4 druhy bobovitých, nejméně 3 druhy lipnicovitých a nejméně 4 druhy ostatních dvouletých a víceletých dvouděložných bylin.</td></tr><tr><td colspan="4">Snížení minimálního množství ve směsi o 10 % není považováno za porušení podmínky.</td></tr></tbody></table>“.
+>
+> “.
+
+59\. V příloze č. 5 části C Kombinovaný biopás - jetelotravní pod tabulkou se věta první zrušuje.
+
+60\. V příloze č. 10 části A. tabulka zní:
+
+> „
+>
+> | **Č.** | **Druhy** |
+> |---|---|
+> | 1. | Batáty |
+> | 2. | Brokolice |
+> | 3. | Celer |
+> | 4. | Cibule |
+> | 5. | Cuketa |
+> | 6. | Čekanka salátová (hlávková) |
+> | 7. | Česnek |
+> | 8. | Fazol zahradní |
+> | 9. | Hrách zahradní |
+> | 10. | Kapusta hlávková |
+> | 11. | Kapusta růžičková |
+> | 12. | Kapusta kadeřavá |
+> | 13. | Kedluben |
+> | 14. | Kopr vonný |
+> | 15. | Kozlíček polní (polníček) |
+> | 16. | Křen selský jednoletý |
+> | 17. | Kukuřice cukrová |
+> | 18. | Květák |
+> | 19. | Lilek |
+> | 20. | Meloun |
+> | 21. | Mrkev jedlá |
+> | 22. | Okurka |
+> | 23. | Paprika |
+> | 24. | Pastinák |
+> | 25. | Pažitka |
+> | 26. | Petržel kořenová |
+> | 27. | Petržel naťová |
+> | 28. | Pór |
+> | 29. | Rajče |
+> | 30. | Roketa setá (rukola) |
+> | 31. | Ředkev (jinde neuvedená) |
+> | 32. | Ředkev setá černá |
+> | 33. | Ředkvička |
+> | 34. | Řepa salátová |
+> | 35. | Salát |
+> | 36. | Šalotka |
+> | 37. | Špenát |
+> | 38. | Tykev\*) |
+> | 39. | Zelí čínské |
+> | 40. | Zelí hlávkové |
+> | 41. | Zelí pekingské |
+>
+> “.
+
+61\. V příloze č. 11 tabulka zní:
+
+> „
+>
+> | Č. | Druh zeleniny a jahodník | Sadba ks nebo kg<br>na 1 hektar | Výsev volně ks nebo kg<br>na 1 hektar | Minimální hmotnost tisíce semen (HTS) g |
+> |---|---|---|---|---|
+> | 1. | Batáty | 30 000 ks | - | - |
+> | 2. | Brambory konzumní | 2 000 kg | - | - |
+> | 3. | Brokolice | 20 000 ks | 30 000 ks | 2,65 |
+> | 4. | Celer | 50 000 ks | - | - |
+> | 5. | Cibule<sup>\*)</sup> | 110 000 ks / 500 kg | 625 000 ks | 1,8 |
+> | 6. | Cuketa | 5 000 ks | 5 000 ks | 70 |
+> | 7. | Čekanka salátová (hlávková) | 50 000 ks | 50 000 ks | 1,1 |
+> | 8. | Česnek | 800 kg | - | - |
+> | 9. | Fazol zahradní | - | 200 000 ks | 150 |
+> | 10. | Hrách zahradní | - | 900 000 ks | 110 |
+> | 11. | Chřest | 15 000 ks | - | - |
+> | 12. | Jahodník | 20 000 ks | - | - |
+> | 13. | Kapusta hlávková | 20 000 ks | 45 000 ks | 2,2 |
+> | 14. | Kapusta růžičková | 25 000 ks | 50 000 ks | 2,9 |
+> | 15. | Kapusta kadeřavá | 20 000 ks | 40 000 ks | 2,88 |
+> | 16. | Kedluben | 65 000 ks | 100 000 ks | 3,0 |
+> | 17. | Kopr vonný | - | 4 kg | 1,31 |
+> | 18. | Kozlíček polní (polníček) | 70 000 ks | 4 000 000 ks | 0,9 |
+> | 19. | Křen selský jednoletý | 18 000 ks | - | - |
+> | 20. | Křen selský víceletý | 18 000 ks | - | - |
+> | 21. | Kukuřice cukrová | - | 50 000 ks | 110 |
+> | 22. | Květák | 20 000 ks | 30 000 ks | 2,30 |
+> | 23. | Lilek | 20 000 ks | 25 000 ks | 3,2 |
+> | 24. | Meloun | 5 000 ks | 5 000 ks | 22 |
+> | 25. | Mrkev jedlá | - | 800 000 ks | 0,65 |
+> | 26. | Okurka | 15 000 ks | 25 000 ks | 12 |
+> | 27. | Paprika | 20 000 ks | - | - |
+> | 28. | Pastinák | - | 250 000 ks | 2,3 |
+> | 29. | Pažitka<sup>\*)</sup> | 50 000 ks | 3 500 000 ks | 0,65 |
+> | 30. | Petržel kořenová | - | 800 000 ks | 0,9 |
+> | 31. | Petržel naťová<sup>\*)</sup> | 65 000 ks | 100 0000 ks | 1 |
+> | 32. | Pór | 120 000 ks | 150 000 ks | 2,30 |
+> | 33. | Rajče | 8 000 ks | 16 000 ks | 1,5 |
+> | 34. | Reveň kadeřavá (rebarbora) | 4 000 ks | - | - |
+> | 35. | Roketa setá (rukola) | 100 000 ks | 10 000 000 ks | 0,25 |
+> | 36. | Ředkev (jinde neuvedená) | - | 120 000 ks | 8,0 |
+> | 37. | Ředkev setá černá | | 60 000 ks | 15 |
+> | 38. | Ředkvička | - | 1 000 000 ks | 5,6 |
+> | 39. | Řepa salátová | 65 000 | 120 000 ks | 8,5 |
+> | 40. | Salát | 50 000 ks | 55 000 | 0,70 |
+> | 41. | Šalotka<sup>\*)</sup> | 110 000 ks | 500 000 ks | 3,2 |
+> | 42. | Špenát | - | 900 000 ks | 8 |
+> | 43**.** | Tykev<sup>\*\*)</sup> | 5 000 ks | 5 000 ks | 50 |
+> | 44. | Zelí čínské | 100 000 ks | 200 000 ks | 2,0 |
+> | 45. | Zelí hlávkové | 25 000 ks | 35 000 ks | 2,0 |
+> | 46. | Zelí pekingské | 40 000 ks | 60 000 ks | 2,0 |
+>
+> “.
+
+62\. V příloze č. 13 nadpisu části B. se na konci doplňují slova „o 50 %“.
+
+63\. V příloze č. 14 části A. tabulka zní:
+
+> „
+>
+> | **Č.** | **Druh zeleniny** | **Olovo (Pb) mg.kg<sup>-1</sup>** | **Kadmium (Cd) mg.kg<sup>-1</sup>​​** |
+> |---|---|---|---|
+> | 1. | Batáty | 0,09 | 0,09 |
+> | 2. | Brambory konzumní | 0,09 | 0,09 |
+> | 3. | Brokolice | 0,09 | 0,036 |
+> | 4. | Celer bulvový | 0,09 | 0,14 |
+> | 5. | Celer listový (naťový) | 0,09 | 0,09 |
+> | 6. | Celer řapíkatý | 0,09 | 0,09 |
+> | 7. | Cibule | 0,09 | 0,029 |
+> | 8. | Cuketa | 0,045 | 0,019 |
+> | 9. | Čekanka salátová (hlávková) | 0,27 | 0,18 |
+> | 10. | Česnek | 0,09 | 0,045 |
+> | 11. | Fazol zahradní | 0,09 | 0,018 |
+> | 12. | Hrách zahradní | 0,09 | 0,018 |
+> | 13. | Chřest | 0,27 | 0,09 |
+> | 14. | Jahody | 0,09 | - |
+> | 15. | Kapusta hlávková | 0,27 | 0,09 |
+> | 16. | Kapusta růžičková | 0,27 | 0,09 |
+> | 17. | Kapusta kadeřavá | 0,27 | 0,09 |
+> | 18. | Kedluben | 0,09 | 0,036 |
+> | 19. | Kozlíček polní (polníček) | 0,27 | 0,18 |
+> | 20. | Kopr vonný | 0,27 | 0,18 |
+> | 21. | Křen selský jednoletý | 0,09 | 0,18 |
+> | 22. | Křen selský víceletý | 0,09 | 0,18 |
+> | 23. | Kukuřice cukrová | 0,09 | 0,018 |
+> | 24. | Květák | 0,09 | 0,036 |
+> | 25. | Lilek | 0,045 | 0,027 |
+> | 26. | Meloun | 0,045 | 0,018 |
+> | 27. | Mrkev jedlá | 0,09 | 0,09 |
+> | 28. | Okurka | 0,045 | 0,018 |
+> | 29. | Paprika | 0,045 | 0,018 |
+> | 30. | Pastinák | 0,09 | 0,18 |
+> | 31. | Pažitka | 0,27 | 0,09 |
+> | 32. | Petržel kořenová | 0,09 | 0,045 |
+> | 33. | Petržel naťová | 0,27 | 0,09 |
+> | 34. | Pór | 0,09 | 0,036 |
+> | 35. | Rajče | 0,045 | 0,018 |
+> | 36. | Reveň kadeřavá (rebarbora) | 0,27 | 0,09 |
+> | 37. | Roketa setá (rukola) | 0,27 | 0,18 |
+> | 38. | Ředkev (jinde neuvedená) | 0,09 | 0,018 |
+> | 39. | Ředkev setá černá | 0,09 | 0,018 |
+> | 40. | Ředkvička | 0,09 | 0,09 |
+> | 41. | Řepa salátová | 0,09 | 0,054 |
+> | 42. | Salát | 0,27 | 0,18 |
+> | 43. | Šalotka | 0,09 | 0,029 |
+> | 44. | Špenát | 0,27 | 0,18 |
+> | 45. | Tykev | 0,045 | 0,018 |
+> | 46. | Zelí čínské | 0,27 | 0,09 |
+> | 47. | Zelí hlávkové | 0,27 | 0,09 |
+> | 48. | Zelí pekingské | 0,27 | 0,09 |
+>
+> “.
+
+64\. V příloze č. 14 nadpisu části B. se na konci doplňují slova „o 50 %“.
+
+65\. V příloze č. 14 části B. tabulka zní:
+
+> „
+>
+> | **Č.** | **Druh zeleniny** | **Olovo (Pb) mg.kg<sup>-1</sup>** | **Kadmium (Cd) mg.kg<sup>-1</sup>** |
+> |---|---|---|---|
+> | 1. | Batáty | 0,1 | 0,1 |
+> | 2. | Brambory konzumní | 0,1 | 0,1 |
+> | 3. | Brokolice | 0,1 | 0,04 |
+> | 4. | Celer bulvový | 0,1 | 0,15 |
+> | 5. | Celer listový (naťový) | 0,1 | 0,1 |
+> | 6. | Celer řapíkatý | 0,1 | 0,1 |
+> | 7. | Cibule | 0,1 | 0,03 |
+> | 8. | Cuketa | 0,05 | 0,02 |
+> | 9. | Čekanka salátová (hlávková) | 0,3 | 0,2 |
+> | 10. | Česnek | 0,1 | 0,05 |
+> | 11. | Fazol zahradní | 0,1 | 0,02 |
+> | 12. | Hrách zahradní | 0,1 | 0,02 |
+> | 13. | Chřest | 0,3 | 0,1 |
+> | 14. | Jahody | 0,1 | - |
+> | 15. | Kapusta hlávková | 0,3 | 0,1 |
+> | 16. | Kapusta růžičková | 0,3 | 0,1 |
+> | 17. | Kapusta kadeřavá | 0,3 | 0,1 |
+> | 18. | Kedluben | 0,1 | 0,04 |
+> | 19. | Kopr vonný | 0,3 | 0,2 |
+> | 20. | Kozlíček polní (polníček) | 0,3 | 0,2 |
+> | 21. | Křen selský jednoletý | 0,1 | 0,2 |
+> | 22. | Křen selský víceletý | 0,1 | 0,2 |
+> | 23. | Kukuřice cukrová | 0,1 | 0,02 |
+> | 24. | Květák | 0,1 | 0,04 |
+> | 25. | Lilek | 0,05 | 0,03 |
+> | 26. | Meloun | 0,05 | 0,02 |
+> | 27. | Mrkev jedlá | 0,1 | 0,1 |
+> | 28. | Okurka | 0,05 | 0,02 |
+> | 29. | Paprika | 0,05 | 0,02 |
+> | 30. | Pastinák | 0,1 | 0,2 |
+> | 31. | Pažitka | 0,3 | 0,1 |
+> | 32. | Petržel kořenová | 0,1 | 0,05 |
+> | 33. | Petržel naťová | 0,3 | 0,1 |
+> | 34. | Pór | 0,1 | 0,04 |
+> | 35. | Rajče | 0,05 | 0,02 |
+> | 36. | Reveň kadeřavá (rebarbora) | 0,3 | 0,1 |
+> | 37. | Roketa setá (rukola) | 0,3 | 0,2 |
+> | 38. | Ředkev (jinde neuvedená) | 0,1 | 0,02 |
+> | 39. | Ředkev setá černá | 0,1 | 0,02 |
+> | 40. | Ředkvička | 0,1 | 0,1 |
+> | 41. | Řepa salátová | 0,1 | 0,06 |
+> | 42. | Salát | 0,3 | 0,2 |
+> | 43. | Šalotka | 0,1 | 0,03 |
+> | 44. | Špenát | 0,3 | 0,2 |
+> | 45. | Tykev | 0,05 | 0,02 |
+> | 46. | Zelí čínské | 0,3 | 0,1 |
+> | 47. | Zelí hlávkové | 0,3 | 0,1 |
+> | 48. | Zelí pekingské | 0,3 | 0,1 |
+>
+> “.
+
+66\. V příloze č. 15 části C. tabulka zní:
+
+> „
+>
+> <table><thead><tr><th colspan="2">Druh ovocného stromu: jabloň, hrušeň</th></tr><tr><th>Č.</th><th>Název rezidua pesticidů</th></tr></thead><tbody><tr><td>1​​​​.</td><td>Azadirachtin<sup>*)</sup></td></tr><tr><td>2.​​​​</td><td>Boskalid</td></tr><tr><td>3.</td><td>Cyantraniliprol</td></tr><tr><td>4.</td><td>Cyflufenamid (sum of cyflufenamid (Z-isomer) and its E-isomer)</td></tr><tr><td>5.</td><td>Cyprodinil</td></tr><tr><td>6.</td><td>Difenoconazol</td></tr><tr><td>7.</td><td>Dithianon</td></tr><tr><td>8.</td><td>Flonikamid (sum of flonikamid, TFNA and TFNG expressed as flonikamid)</td></tr><tr><td>9.</td><td>Fludioxonyl</td></tr><tr><td>10.</td><td>Fluopyram</td></tr><tr><td>11.</td><td>Flupyradifuron</td></tr><tr><td>12.</td><td>Fluxapyroxad</td></tr><tr><td>13.</td><td>Hexythiazox</td></tr><tr><td>14.</td><td>Chlorantraniliprol</td></tr><tr><td>15<b>.</b></td><td>Kaptan (Sum of kaptan and THPI, expressed as kaptan)</td></tr><tr><td>16.</td><td>Kresoxim-methyl</td></tr><tr><td>17.</td><td>Mefentriflukonazol</td></tr><tr><td>18.</td><td>Penkonazol</td></tr><tr><td>19.</td><td>Penthiopyrad</td></tr><tr><td>20.</td><td>Pirimikarb</td></tr><tr><td>21.</td><td>Pyraklostrobin</td></tr><tr><td>22.</td><td>Pyrimethanil</td></tr><tr><td>23.</td><td>Tebukonazol</td></tr><tr><td>24.</td><td>Tebufenozid</td></tr><tr><td>25.</td><td>Tebufenpyrad<sup>*)</sup></td></tr><tr><td>26.</td><td>Tetrakonazol<sup>*)</sup></td></tr><tr><td>27.</td><td>Trifloxystrobin<sup>*)</sup></td></tr></tbody></table>“.
+>
+> “.
+
+67\. V příloze č. 15 části D. tabulka zní:
+
+> „
+>
+> <table><thead><tr><th colspan="2">Druh ovocného stromu: slivoň, třešeň, višeň, meruňka, broskvoň</th></tr><tr><th>Č.</th><th>Název rezidua pesticidů</th></tr></thead><tbody><tr><td>1.</td><td>Azadirachtin</td></tr><tr><td>2<b>.</b></td><td>Boskalid</td></tr><tr><td>3.</td><td>Cyprodinil<sup>****)</sup></td></tr><tr><td>4.</td><td>Dithianon<sup>*)</sup></td></tr><tr><td>5<b>.</b></td><td>Fenhexamid</td></tr><tr><td>6.</td><td>Flonikamid (sum of flonikamid, TFNA and TFNG expressed as flonikamid) <sup>**)</sup></td></tr><tr><td>7.</td><td>Fludioxonyl<sup>****)</sup></td></tr><tr><td>8.</td><td>Fluopyram</td></tr><tr><td>9.</td><td>Chlorantraniliprol<sup>***)</sup></td></tr><tr><td>10.</td><td>Mefentriflukonazol</td></tr><tr><td>11.</td><td>Pirimikarb</td></tr><tr><td>12.</td><td>Pyraklostrobin</td></tr><tr><td>13.</td><td>Tebukonazol</td></tr><tr><td>14.</td><td>Trifloxystrobin</td></tr></tbody></table>“.
+>
+> “.
+
+68\. V příloze č. 15 části E. Angrešt Rybíz tabulka zní:
+
+> „
+>
+> <table><thead><tr><th>Angrešt</th><th>Rybíz</th></tr><tr><th colspan="2">Název rezidua pesticidů</th></tr></thead><tbody><tr><td>Azadirachtin</td><td>Azadirachtin</td></tr><tr><td>Dithianon</td><td>Boskalid</td></tr><tr><td>Hexythiazox</td><td>Dithianon</td></tr><tr><td>Kresoxim-methyl</td><td>Hexythiazox</td></tr><tr><td>Penkonazol</td><td>Kresoxim-methyl</td></tr><tr><td>Pirimikarb</td><td>Penkonazol</td></tr><tr><td>Trifloxystrobin</td><td>Pirimicarb</td></tr><tr><td></td><td>Pyraklostrobin</td></tr><tr><td></td><td>Trifloxystrobin</td></tr></tbody></table>“.
+>
+> “.
+
+69\. V příloze č. 15 části E. Maliník, ostružiník Brusnice chocholičnatá tabulka zní:
+
+> „
+>
+> <table><thead><tr><th>Maliník, ostružiník</th><th>Brusnice chocholičnatá</th></tr><tr><th colspan="2">Název rezidua pesticidů</th></tr></thead><tbody><tr><td>Azadirachtin</td><td>Azadirachtin</td></tr><tr><td>Azoxystrobin</td><td>Boskalid</td></tr><tr><td>Boskalid</td><td>Kresoxim-methyl</td></tr><tr><td>Cyprodinil</td><td>Pirimikarb</td></tr><tr><td>Difenoconazol</td><td>Pyraklostrobin</td></tr><tr><td>Fenhexamid</td><td></td></tr><tr><td>Fludioxonyl</td><td></td></tr><tr><td>Hexythiazox</td><td></td></tr><tr><td>Pirimikarb</td><td></td></tr><tr><td>Pyraklostrobin</td><td></td></tr></tbody></table>“.
+>
+> “.
+
+70\. V příloze č. 15 části F. tabulka zní:
+
+> „
+>
+> | **Č.** | **Název rezidua pesticidů** |
+> |---|---|
+> | 1. | Aklonifen |
+> | 2. | Azadirachtin |
+> | 3. | Azoxystrobin |
+> | 4. | Boskalid |
+> | 5. | Cyantraniliprol |
+> | 6. | Cypermethrin |
+> | 7. | Cyprodinil |
+> | 8. | Deltamethrin |
+> | 9. | Difenokonazol |
+> | 10. | Fluazifop-P-butyl |
+> | 11. | Fludioxonyl |
+> | 12. | Fluopyram |
+> | 13. | Fluxapyroxad |
+> | 14. | Hexythiazox |
+> | 15. | Chlorantraniliprol |
+> | 16. | Klopyralid |
+> | 17. | Lambda-cyhalothrin |
+> | 18. | Metazachlor |
+> | 19. | Napropamid |
+> | 20. | Oxamyl |
+> | 21. | Pendimethalin |
+> | 22. | Pirimikarb |
+> | 23. | Propamokarb |
+> | 24. | Pyraklostrobin |
+> | 25. | Pyrethriny |
+> | 26. | Pyridát |
+> | 27. | Spirotetramat a relevantní metabolity |
+> | 28. | Tebukonazol |
+> | 29. | Trifloxystrobin |
+> | 30. | Triflusulfuron |
+>
+> “.
+
+## Čl. II – Přechodné ustanovení
+
+1\. Žádost podaná podle nařízení vlády č. 80/2023 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, se posoudí podle nařízení vlády č. 80/2023 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, s výjimkou ustanovení § 32 odst. 2 písm. f) a § 32 odst. 3 písm. e) nařízení vlády č. 80/2023 Sb., které se použijí ve znění účinném ode dne nabytí účinnosti tohoto nařízení.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 15. března 2026.
+
+Předseda vlády:
+
+v z. JUDr. Schillerová, Ph.D., v. r.
+
+místopředsedkyně vlády a ministryně financí
+
+Ministr zemědělství:
+
+Ing. Šebestyán, MBA, v. r.

@@ -1,0 +1,198 @@
+---
+title: "Vyhláška č. 456/2021 Sb., o podrobnostech přenosu reprodukčního materiálu lesních dřevin, o evidenci o původu reprodukčního materiálu a podrobnostech o obnově lesních porostů a o zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa"
+identifier: "456/2021 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2021/456/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2021-11-29
+effective: 2022-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2021/456"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 456/2021 Sb., o podrobnostech přenosu reprodukčního materiálu lesních dřevin, o evidenci o původu reprodukčního materiálu a podrobnostech o obnově lesních porostů a o zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa ve znění vyhlášky č. 186/2022 Sb. a vyhlášky č. 559/2025 Sb."
+---
+
+# Vyhláška č. 456/2021 Sb., o podrobnostech přenosu reprodukčního materiálu lesních dřevin, o evidenci o původu reprodukčního materiálu a podrobnostech o obnově lesních porostů a o zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa
+
+456
+
+VYHLÁŠKA
+
+ze dne 29. listopadu 2021
+
+o podrobnostech přenosu reprodukčního materiálu lesních dřevin, o evidenci o původu reprodukčního materiálu a podrobnostech o obnově lesních porostů a o zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa
+
+Ministerstvo zemědělství stanoví podle § 29 odst. 7 zákona č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění zákona č. 314/2019 Sb., (dále jen „zákon“):
+
+## § 1 – Podrobnosti o přenosu reprodukčního materiálu lesních dřevin
+
+(1) Přenosem reprodukčního materiálu lesních dřevin se rozumí přenos z místa zdroje na místo použití při umělé obnově lesních porostů a zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa.
+
+(2) Nelze-li krýt potřebu reprodukčního materiálu v rámci stejné přírodní lesní oblasti<sup>1</sup>), lze provádět jeho přenos za dodržení pravidel uvedených v příloze č. 1 k této vyhlášce.
+
+(3) Přenos lze provádět v rámci výškových pásem určených lesními vegetačními stupni<sup>2</sup>). Nelze-li krýt potřebu reprodukčního materiálu v rámci daného stupně, lze provádět jeho přenos způsobem uvedeným v příloze č. 2 k této vyhlášce.
+
+(4) Pravidla použití dovezeného reprodukčního materiálu douglasky tisolisté a jedle obrovské ze Spojených států amerických a Kanady jsou uvedena v příloze č. 3 k této vyhlášce.
+
+(5) Nelze-li krýt potřebu reprodukčního materiálu v rámci přenosů podle odstavců 2 a 3, může Ministerstvo zemědělství na základě odborného stanoviska, zpracovaného na jeho žádost, udělit výjimku pro použití semenného materiálu ze stanovištně vhodných uznaných zdrojů států Evropské unie. Požadavky na kvalitu uznaných zdrojů reprodukčního materiálu mimo území České republiky musí odpovídat kritériím uvedeným v jiném právním předpise<sup>3</sup>).
+
+(6) Použití reprodukčního materiálu pocházejícího ze semenných sadů, rodičů rodiny, ortetů, klonů nebo směsí klonů musí splňovat podmínky stanovené v rozhodnutí nebo dokladu o uznání zdroje reprodukčního materiálu podle jiného právního předpisu<sup>4</sup>).
+
+(7) Pravidla pro použití reprodukčního materiálu pro obnovu lesa v genových základnách vyhlášených podle jiného právního předpisu<sup>5</sup>) nejsou v zájmu zachování a reprodukce domácího genofondu lesních dřevin v těchto územích touto vyhláškou dotčena.
+
+## § 2 – Podrobnosti o obnově lesních porostů a zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa
+
+(1) K umělé obnově lesa a zalesňování lze použít pouze reprodukční materiál stanovištně vhodných druhů lesních dřevin, který splňuje podmínky přenosu pro konkrétní místo výsadby podle § 1 a u něhož je doložen původ.
+
+(2) Počet a kvalita sadebního materiálu lesních dřevin, popřípadě jedinců z přirozené obnovy nebo síje jednotlivých druhů lesních dřevin se volí tak, aby bylo dosaženo zajištěného lesního porostu a současně byly vytvořeny předpoklady k dosažení stanovištně vhodné druhové skladby lesního porostu. Za stanovištně vhodné dřeviny jsou považovány ty druhy lesních dřevin, které na daném stanovišti plní funkce lesa. Jedná se zejména o dřeviny uvedené pro daný cílový hospodářský soubor v jiném právním předpise<sup>6</sup>). Minimální počty jedinců jednotlivých druhů dřevin na jeden hektar pozemku při obnově lesa a zalesňování jsou uvedeny v příloze č. 4 k této vyhlášce.
+
+(3) Za zalesněný je pozemek, nově prohlášený za pozemek určený k plnění funkcí lesa, považován tehdy, roste-li na něm alespoň 90 % minimálního počtu životaschopných jedinců stanovištně vhodných dřevin, rovnoměrně rozmístěných po ploše.
+
+(4) Za obnovený je pozemek považován tehdy, roste-li na něm alespoň 60 % minimálního počtu životaschopných jedinců stanovištně vhodných dřevin, rovnoměrně rozmístěných po ploše.
+
+(5) Povinnost naplnit závazné ustanovení minimální podíl melioračních a zpevňujících dřevin podle § 24 odst. 2 zákona při obnově porostu musí být splněna nejpozději na konci lhůty určené pro zajištění podle § 31 odst. 6 zákona.
+
+(6) Rovnoměrné rozmístění jedinců po ploše nemusí být dodrženo při obnovách horských lesů v osmém a devátém stupni, u lesů nízkých a středních a dále v případech požadavků vyplývajících z funkčního zaměření lesa u kategorie lesů ochranných a u kategorie lesů zvláštního určení. Rovnoměrné rozmístění jedinců po ploše nemusí být také dodrženo na kalamitní holině, která svými rozměry překračuje přípustnou velikost holé seče uvedenou v § 31 odst. 2 zákona a je obnovována pomocí dřevin přípravných.
+
+(7) Za zajištěný je lesní porost vzniklý zalesňováním nebo obnovou lesa považován při splnění těchto podmínek:
+
+a) jedinci jsou po ploše rovnoměrně jednotlivě nebo skupinovitě rozmístěni a jejich počet je alespoň 80 % minimálního počtu pro obnovu nebo zalesnění uvedeného v příloze č. 4 k této vyhlášce,
+
+b) jedinci vykazují trvalý výškový přírůst a
+
+c) jedinci jsou odrostlí negativnímu vlivu buřeně a nejsou výrazně poškozeni.
+
+(8) Pro umělou obnovu lesa a zalesňování se použije vegetativně množený reprodukční materiál pouze tehdy, vyhovuje-li požadavkům na kategorii selektovaného nebo kvalifikovaného reprodukčního materiálu, popřípadě testovaného reprodukčního materiálu, při zachování dostatečného zastoupení klonů.
+
+## § 3 – Podrobnosti o evidenci o původu reprodukčního materiálu
+
+Evidence o původu reprodukčního materiálu použitého k umělé obnově lesa a zalesňování je vedena podle druhu dřeviny, evidenčního čísla uznané jednotky, způsobu pěstování, množství, místa výsadby nebo síje a času, kdy byl reprodukční materiál použit. Vzor evidence o původu reprodukčního materiálu použitého k umělé obnově lesa a zalesňování je uveden v příloze č. 5 k této vyhlášce.
+
+## § 4 – Přechodné ustanovení
+
+Reprodukční materiál získaný, vyrobený nebo vybavený průvodní dokumentací přede dnem nabytí účinnosti této vyhlášky lze přenášet podle vyhlášky č. 139/2004 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+## § 5 – Zrušovací ustanovení
+
+Vyhláška č. 139/2004 Sb., kterou se stanoví podrobnosti o přenosu semen a sazenic lesních dřevin, o evidenci o původu reprodukčního materiálu a podrobnosti o obnově lesních porostů a o zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa, se zrušuje.
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Ministr:
+
+Ing. Toman, CSc., v. r.
+
+### Příloha č. 1 k vyhlášce č. 456/2021 Sb. – Pravidla přenosů reprodukčního materiálu lesních dřevin mezi přírodními lesními oblastmi v rámci České republiky
+
+1\) Přírodní lesní oblasti 1 - 34 jsou řazeny do Hercynské oblasti, přírodní lesní oblasti 35 - 41 jsou řazeny do Karpatské oblasti.
+
+2\) Přenos reprodukčního materiálu lesních dřevin mezi Hercynskou a Karpatskou oblastí není přípustný až na tyto výjimky:
+
+a) Vzájemný přenos mezi Hercynskou a Karpatskou oblastí je přípustný pouze mezi bezprostředně sousedícími přírodními lesními oblastmi.
+
+b) V případě buku lesního je přípustné přenášet reprodukční materiál z Karpatské do Hercynské oblasti bez omezení.
+
+c) V případě hospodářsky významných introdukovaných dřevin Douglasky tisolisté a Jedle obrovské je přenos v rámci České republiky (přírodní lesní oblasti 1 - 41) bez omezení.
+
+3\) Pro přenosy reprodukčního materiálu těchto dřevin dále platí tato pravidla:
+
+<table><tbody><tr><th>Smrk ztepilý</th><td>Do přírodních lesních oblastí 13, 27 a 40 není přípustný přenos reprodukčního materiálu z jiných přírodních lesních oblastí.</td></tr><tr><th rowspan="4">Borovice lesní</th><td>Do přírodní lesní oblasti 16 je přípustný přenos z přírodních lesních oblastí 11 a 13, a to pouze sadebního materiálu původem z 5. lesního vegetačního stupně a výše.</td></tr><tr><td>Do přírodních lesních oblastí 23, 26 a 31 je přípustný přenos z přírodní lesní oblasti 17 jen do 1.- 3. lesního vegetačního stupně.</td></tr><tr><td>Do přírodních lesních oblastí 15 a 17 není přípustný přenos z jiných přírodních lesních oblastí.</td></tr><tr><td>Přenos náhorních ekotypů borovice (ekotypy od 5. lesního vegetačního stupně výše) je přípustný mezi všemi přírodními oblastmi Hercynské a Karpatské oblasti s výjimkou hospodaření v genových základnách bez omezení.</td></tr><tr><th>Modřín opadavý</th><td>Do oblasti výskytu jesenického modřínu, tedy přírodních lesních oblastí 27, 28, 29 a 32 není přípustný přenos z jiných přírodních lesních oblastí.</td></tr><tr><th rowspan="2">Jedle bělokorá</th><td>V případě jedle bělokoré není do přírodních lesních oblastí 11-14 přípustný přenos z jiných přírodních lesních oblastí, s výjimkou bezprostředně sousedících přírodních lesních oblastí, vzájemný přenos je přípustný mezi těmito přírodními lesními oblastmi.</td></tr><tr><td>V případě jedle bělokoré není do přírodních lesních oblastí 35 - 41 přípustný přenos z jiných přírodních lesních oblastí, s výjimkou bezprostředně sousedících přírodních lesních oblastí, vzájemný přenos je přípustný mezi těmito přírodními lesními oblastmi.</td></tr><tr><th rowspan="2">Dub letní</th><td>V případě dubu letního není do přírodních lesních oblastí 34 a 35 přípustný přenos z jiných přírodních lesních oblastí, s výjimkou bezprostředně sousedících přírodních lesních oblastí, vzájemný přenos je přípustný mezi oběma přírodními lesními oblastmi.</td></tr><tr><td>V případě dubu letního není do přírodní lesní oblasti 15 přípustný přenos z jiných přírodních lesních oblastí.</td></tr><tr><th>Ostatní dřeviny</th><td>V případě dřevin dub zimní, jabloň lesní, hrušeň planá, jeřáb oskeruše, jeřáb muk, jeřáb břek, není přenos mezi všemi přírodními oblastmi Hercynské a Karpatské oblasti omezen.<br> V případě dřevin douglaska tisolistá a jedle obrovská (původem ze zdrojů reprodukčního materiálu v České republice) není přenos mezi všemi přírodními oblastmi Hercynské a Karpatské oblasti omezen.</td></tr></tbody></table>
+
+### Příloha č. 2 k vyhlášce č. 456/2021 Sb.
+
+#### Přenosy reprodukčního materiálu mezi lesními vegetačními stupni (LVS) v rámci České republiky
+
+Přenosy reprodukčního materiálu mezi lesními vegetačními stupni jsou určeny následujícím způsobem, není-li výše uvedeno jinak:
+
+##### ![sbcr2021c204z0456p002t001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883865/NAHLED/ZOBRAZ/sbcr2021c204z0456p002t001)
+
+Odchýlení od obecných pravidel přenosu mezi lesními vegetačními stupni v rámci přírodních lesních oblastí (PLO) a náhorního ekotypu borovice lesní:
+
+##### ![sbcr2021c204z0456p002t002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883867/NAHLED/ZOBRAZ/sbcr2021c204z0456p002t002)
+
+Poznámka:
+
+Chlumním ekotypem borovice lesní se rozumí ekotypy 1. – 4. lesního vegetačního stupně 
+ Náhorním ekotypem borovice lesní se rozumí ekotypy od 5. lesního vegetačního stupně výš.
+
+### Příloha č. 3 k vyhlášce č. 456/2021 Sb.
+
+#### Pravidla použití dovezeného reprodukčního materiálu douglasky tisolisté a jedle obrovské ze Spojených států amerických a Kanady
+
+Na území celé České republiky pro 1. – 6. lesní vegetační stupeň se při dovozu reprodukčního materiálu ze Spojených států amerických a Kanady považují za odpovídající přírodní lesní oblast s odpovídající nadmořskou výškou následující semenářské oblasti:
+
+<table><tbody><tr><th></th><th></th><th></th><th>DOUGLASKA TISOLISTÁ</th><th></th></tr><tr><th>STÁT</th><th>FEDERÁLNÍ STÁT</th><th>SEMENÁŘSKÁ OBLAST</th><th>POPIS</th><th>NADMOŘSKÁ VÝŠKA</th></tr><tr><td rowspan="8">USA</td><td rowspan="6">WASHINGTON</td><td>1 - HOH</td><td>okraje pohoří Olympic Mountains, severozápadní část státu Washington</td><td rowspan="3">do 600 m. n. m.</td></tr><tr><td>2 - ELWHA</td><td>Střední část pohoří Olympic Mountains</td></tr><tr><td>4 - ISLANDS</td><td>Severní část státu Washington s hranící s Kanadou, západní hranice je západní pobřeží západních pobřežních ostrovů</td></tr><tr><td>5 - KITSAP</td><td>západní svahy Kaskádového pohoří až po hranice s Kanadou</td><td rowspan="2">do 750 m. n. m.</td></tr><tr><td>7 - SKAGIT</td><td>Severní hranice je hranice s Kanadou, východní hranice je kaskádový hřeben jižně od kanadských hranic</td></tr><tr><td>8 - SNOQUALMIE</td><td>nižší polohy v centrální části státu Washington</td><td>do 600 m. n. m.</td></tr><tr><td rowspan="2">OREGON</td><td>Semenářská oblast 9</td><td>Severní hranice řeka Columbia, hranice se státem Washington, centrální až částečně západní část Oregonu</td><td rowspan="2">do 750 m. n. m.</td></tr><tr><td>Semenářská oblast 12</td><td>Severní až centrální část státu Oregon, na západě sousedící se semenářskou zónou č. 9</td></tr><tr><td rowspan="6">KANADA</td><td rowspan="6">BRITSKÁ KOLUMBIE</td><td>MARITIME (M)</td><td>pouze do 51° SZŠ Vancouver Island a ostrovy Vancouverského zálivu</td><td>1 - 900 m. n. m. (do 750 m. n.<br> m.)</td></tr><tr><td>THOMPSON OKANAGAN DRY (TOD)</td><td rowspan="2">Nízké až střední výšky jihocentrálního vnitrozemí, údolí řeky South Thompson, Okanagan, jezero Okanagan, řeky Fraser až po hranice s USA</td><td rowspan="2">350 - 600 <br> m.n.m.</td></tr><tr><td>THOMPSON OKANAGAN ARID (TOA)</td></tr><tr><td>SHUSWAP ADAMS (SA)</td><td>Vnitrozemí, údolí řek South a North Thompson, Columbia, oblasti jezer Shuswap a Adams</td><td>500 – 1450 <br> m.n.m.</td></tr><tr><td>WEST KOOTENAY (WK)</td><td>Jihocentrální vnitrozemí, údolí v jižní části řek Colombia a Kootenay, jezero Kootenay, svahy pohoří Britské Kolumbie až po hranice s USA</td><td>700 – 1400 <br> m.n.m.</td></tr><tr><td>MICA (MIC)</td><td>Vnitrozemí, údolí řek North Thompson, Fraser a Colombia</td><td>600 – 1450 <br> m.n.m.</td></tr></tbody></table>
+
+<table><tbody><tr><th></th><th></th><th></th><th>JEDLE OBROVSKÁ</th><th></th></tr><tr><th>STÁT</th><th>FEDERÁLNÍ STÁT</th><th>SEMENÁŘSKÁ OBLAST</th><th>POPIS</th><th>NADMOŘSKÁ VÝŠKA</th></tr><tr><td rowspan="4">USA</td><td rowspan="4">WASHINGTON</td><td>3 - PUGET SOUND</td><td>pobřežní oblast státu Washington - okolí<br> Pugetova zálivu, Kaskádové pohoří, a v deštném stínu Olympic Mountains a ostrova Vancouver</td><td>do 1 220 <br> m. n. m.</td></tr><tr><td>5 - SKAGIT</td><td>západní svahy Kaskádového pohoří až po hranice s Kanadou</td><td>do 900 m. n. m.</td></tr><tr><td>7 - CHELAN</td><td>Východní strana Kaskád, nižší polohy</td><td>do 900 m. n. m.</td></tr><tr><td>4 - UPPER CHEHALIS</td><td>oblast na jih od Puget Sound mezi pobřežními zónami až k západním svahům Kaskádového pohoří</td><td>do 900 m. n. m.</td></tr><tr><td rowspan="2">KANADA</td><td rowspan="2">BRITSKÁ KOLUMBIE</td><td>MARITIME (M)</td><td>pouze do 51° SZŠ Vancouver Island a ostrovy Vancouverského zálivu</td><td>1 - 700 m. n. m</td></tr><tr><td>GEORGIA LOWLANDS (GL)</td><td>nižší polohy Vancouverského zálivu v okolí města Victoria</td><td>1 - 700 m. n. m.</td></tr></tbody></table>
+
+### Příloha č. 4 k vyhlášce č. 456/2021 Sb.
+
+#### Minimální počty jedinců jednotlivých druhů dřevin v tis. kusech na jeden hektar pozemku při obnově lesních porostů a zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa
+
+| Dřevina | Minimální počty obnovovaných nebo zalesňovaných jedinců v tis. kusech na 1 hektar |
+|---|---|
+| Smrk ztepilý | 3 |
+| Jedle bělokorá | 3,5 |
+| Douglaska tisolistá, jedle obrovská, modřín opadavý | 2,5 |
+| Borovice lesní | 8 |
+| Borovice vejmutovka | 5 |
+| Borovice kleč | 2,5 |
+| Borovice černá a ostatní exoty borovice | 7 |
+| ostatní jehličnany | 3,5 |
+| Dub zimní, dub letní | 9 |
+| Buk lesní | 8 |
+| Lípy, jasany, ostatní duby, habr obecný, jilmy | 6 |
+| Topol osika, břízy, jeřáby, třešeň ptačí, vrba jíva, ořešáky | 3 |
+| Javory, olše lepkavá | 4 |
+| Vrby stromové a topoly šlechtěné | 0,8 |
+| ostatní listnáče | 3 |
+| pařezina | 1,5 |
+
+1\. Počet jedinců na 1 ha při obnově nebo zalesnění se odvodí součinem minimálních hektarových počtů procentem plánovaného zastoupení obnovované nebo zalesňované dřeviny.
+
+2\. Při použití krytokořenných semenáčků a sazenic lze uvedené minimální hektarové počty obnovovaných nebo zalesňovaných jedinců snížit až o 10 %.
+
+3\. Při použití prostokořenných nebo obalovaných poloodrostků a odrostků lze uvedené minimální hektarové počty obnovovaných nebo zalesňovaných jedinců snížit až o 20%. Poloodrostkem nebo odrostkem se rozumí rostlina vypěstovaná minimálně dvojnásobným školkováním, nebo kombinací školkování a podřezání kořenů nebo přesazení do obalů.
+
+4\. U lesa nízkého a středního jsou jednotlivé, životaschopné pařezové nebo kořenové výhony považovány za samostatné jedince.
+
+5\. Uvedený minimální počet jedinců stromových vrb a šlechtěných topolů se vztahuje pouze na obnovu nebo zalesňování sadebním materiálem vegetativního původu.
+
+### Příloha č. 5 k vyhlášce č. 456/2021 Sb.
+
+#### VZOR Evidence o původu reprodukčního materiálu použitého k umělé obnově lesa a zalesňování
+
+#### ![sbcr2021c204z0456p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883869/NAHLED/ZOBRAZ/sbcr2021c204z0456p005u001)
+
+1\. V případě obnovy se uvede nejnižší jednotka prostorového rozdělení lesa. V případě zalesňování se uvede pozemková parcela a katastrální území.
+
+2\. Uvede se zkratka vysazované nebo vysévané dřeviny.
+
+3\. V případě zdroje reprodukčního materiálu, který nepochází z uznané jednotky, se uvede označení nejnižší jednotky prostorového rozdělení lesa jeho původu.
+
+4\. U semenného materiálu se uvede - surovina nebo čisté osivo.
+
+U sadebního materiálu se uvede - prostokořenný nebo krytokořenný s uvedením, zda jde o materiál množený vegetativně (V) nebo generativně (G).
+
+5\. U semenného materiálu se uvádí jeho váha v kg.
+
+U sadebního materiálu se uvádí jeho množství v 1 000 ks.
+
+---
+
+<sup>1</sup>) Vyhláška č. 298/2018 Sb., o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů.
+
+<sup>2</sup>) § 2 odst. 1 vyhlášky č. 29/2004 Sb., kterou se provádí zákon č. 149/2003 Sb., o obchodu s reprodukčním materiálem lesních dřevin, ve znění pozdějších předpisů.
+
+<sup>3</sup>) Vyhláška č. 29/2004 Sb., kterou se provádí zákon č. 149/2003 Sb., o obchodu s reprodukčním materiálem lesních dřevin, ve znění pozdějších předpisů.
+
+<sup>4</sup>) § 15 a násl. zákona č. 149/2003 Sb., o uvádění do oběhu reprodukčního materiálu lesních dřevin lesnicky významných druhů a umělých kříženců, určeného k obnově lesa a k zalesňování, a o změně některých souvisejících zákonů (zákon o obchodu s reprodukčním materiálem lesních dřevin), ve znění pozdějších předpisů.
+
+<sup>5</sup>) § 13 odst. 4 vyhlášky č. 29/2004 Sb., kterou se provádí zákon č. 149/2003 Sb., o obchodu s reprodukčním materiálem lesních dřevin. 
+ § 2 písm. t) až u) a § 2i odst. 1 až 5 zákona č. 149/2003 Sb., ve znění pozdějších předpisů.
+
+<sup>6</sup>) Příloha č. 2 k vyhlášce č. 298/2018 Sb., o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů.

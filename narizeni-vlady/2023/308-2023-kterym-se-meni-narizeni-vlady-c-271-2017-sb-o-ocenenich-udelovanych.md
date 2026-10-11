@@ -1,0 +1,60 @@
+---
+title: "Nařízení vlády č. 308/2023 Sb., kterým se mění nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění pozdějších předpisů"
+identifier: "308/2023 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2023/308/2023-10-28"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2023-09-27
+effective: 2023-10-28
+last_amended: 2023-10-28
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2023/308"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 308/2023 Sb., kterým se mění nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění pozdějších předpisů
+
+308
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 27. září 2023,
+
+kterým se mění nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 49 odst. 6 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 26/2008 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 271/2017 Sb., o oceněních udělovaných Ministerstvem vnitra, ve znění nařízení vlády č. 251/2020 Sb. a nařízení vlády č. 394/2020 Sb., se mění takto:
+
+1\. V § 1 se za písmeno h) vkládá nové písmeno i), které zní:
+
+> „i) Cena za dobrovolnictví,“.
+
+Dosavadní písmena i) až k) se označují jako písmena j) až l).
+
+2\. Za § 8 se vkládá nový § 8a, který včetně nadpisu zní:
+
+> **„§ 8a – Cena za dobrovolnictví**
+
+> (1) Cena za dobrovolnictví v kategorii dobrovolník se uděluje fyzické osobě, která nad rámec svých povinností, bez nároku na finanční odměnu a ve svém volném čase pomáhala například lidem ve svém okolí, při ochraně přírody, ve sportu, kultuře nebo pomáhala organizacím při realizaci jejich dobrovolnických programů anebo projektů.
+
+> (2) Cena za dobrovolnictví v kategorii dobrovolnická organizace se uděluje právnické osobě, která významným způsobem přispěla k rozvoji dobrovolnictví v České republice nebo realizovala zvlášť významné programy, projekty anebo aktivity v oblasti dobrovolnictví.
+
+> (3) Ocenění podle odstavců 1 a 2 tvoří plaketa včetně etue a diplom. Součástí ocenění podle odstavců 1 a 2 může být i další věcné ocenění v hodnotě do 10 000 Kč.“.
+
+3\. V § 12 se text „k)“ nahrazuje textem „l)“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M., v. r.
+
+1\. místopředseda vlády a ministr vnitra:
+
+Mgr. Bc. Rakušan v. r.

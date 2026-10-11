@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 457/2024 Sb., kterou se mění vyhláška č. 348/2017 Sb., kterou se stanoví odměny členům Prezidia Rady pro veřejný dohled nad auditem"
+identifier: "457/2024 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2024/457/2025-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2024-12-19
+effective: 2025-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2024/457"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 457/2024 Sb., kterou se mění vyhláška č. 348/2017 Sb., kterou se stanoví odměny členům Prezidia Rady pro veřejný dohled nad auditem
+
+457
+
+VYHLÁŠKA
+
+ze dne 19. prosince 2024,
+
+kterou se mění vyhláška č. 348/2017 Sb., kterou se stanoví odměny členům Prezidia Rady pro veřejný dohled nad auditem
+
+Ministerstvo financí stanoví podle § 50a zákona č. 93/2009 Sb., o auditorech a o změně některých zákonů (zákon o auditorech), ve znění zákona č. 299/2016 Sb., k provedení § 40a odst. 1 zákona o auditorech:
+
+## Čl. I
+
+Vyhláška č. 348/2017 Sb., kterou se stanoví odměny členům Prezidia Rady pro veřejný dohled nad auditem, se mění takto:
+
+1\. V § 1 odst. 1 se částka „24 200 Kč“ nahrazuje částkou „27 420 Kč“.
+
+2\. V § 1 odst. 2 se částka „33 900 Kč“ nahrazuje částkou „38 410 Kč“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2025.
+
+Ministr financí:
+
+Ing. Stanjura v. r.

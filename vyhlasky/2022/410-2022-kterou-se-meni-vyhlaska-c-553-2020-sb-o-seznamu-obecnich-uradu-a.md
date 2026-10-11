@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 410/2022 Sb., kterou se mění vyhláška č. 553/2020 Sb., o seznamu obecních úřadů a úřadů městských částí nebo městských obvodů, které jsou kontaktními místy veřejné správy, ve znění vyhlášky č. 503/2021 Sb."
+identifier: "410/2022 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2022/410/2023-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2022-12-05
+effective: 2023-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2022/410"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 410/2022 Sb., kterou se mění vyhláška č. 553/2020 Sb., o seznamu obecních úřadů a úřadů městských částí nebo městských obvodů, které jsou kontaktními místy veřejné správy, ve znění vyhlášky č. 503/2021 Sb.
+
+410
+
+VYHLÁŠKA
+
+ze dne 5. prosince 2022,
+
+kterou se mění vyhláška č. 553/2020 Sb., o seznamu obecních úřadů a úřadů městských částí nebo městských obvodů, které jsou kontaktními místy veřejné správy, ve znění vyhlášky č. 503/2021 Sb.
+
+Ministerstvo vnitra stanoví podle § 12 odst. 1 písm. i) zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění zákona č. 261/2021 Sb.:
+
+## Čl. I
+
+Příloha k vyhlášce č. 553/2020 Sb., o seznamu obecních úřadů a úřadů městských částí nebo městských obvodů, které jsou kontaktními místy veřejné správy, ve znění vyhlášky č. 503/2021 Sb., se mění takto:
+
+1\. V části Jihočeský kraj, Správní obvod obce s rozšířenou působností České Budějovice, se za slovo „Heřmaň,“ vkládá slovo „Hlavatce,“, za slovo „Srubec,“ se vkládají slova „Staré Hodějovice,“ a za slovo „Vrábče,“ se vkládá slovo „Vráto,“.
+
+2\. V části Jihočeský kraj, Správní obvod obce s rozšířenou působností Jindřichův Hradec, se za slovo „Číměř,“ vkládá slovo „Člunek,“.
+
+3\. V části Liberecký kraj, Správní obvod obce s rozšířenou působností Liberec, se za slova „Proseč pod Ještědem,“ vkládá slovo „Rynoltice,“.
+
+4\. V části Pardubický kraj, Správní obvod obce s rozšířenou působností Pardubice, se za slovo „Voleč,“ vkládá slovo „Živanice,“.
+
+5\. V části Pardubický kraj, Správní obvod obce s rozšířenou působností Přelouč, se za slovo „Litošice,“ vkládá slovo „Mokošín,“.
+
+6\. V části Kraj Vysočina, Správní obvod obce s rozšířenou působností Jihlava, se za slovo „Zbinohy,“ vkládá slovo „Zhoř,“.
+
+7\. V části Kraj Vysočina, Správní obvod obce s rozšířenou působností Třebíč, se za slova „Horní Heřmanice,“ vkládají slova „Horní Smrčné,“.
+
+8\. V části Zlínský kraj, Správní obvod obce s rozšířenou působností Zlín, se za slovo „Machová,“ vkládá slovo „Mysločovice,“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2023.
+
+Ministr vnitra:
+
+Mgr. Bc. Rakušan v. r.

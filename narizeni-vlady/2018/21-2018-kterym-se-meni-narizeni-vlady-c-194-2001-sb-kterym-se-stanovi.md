@@ -1,0 +1,66 @@
+---
+title: "Nařízení vlády č. 21/2018 Sb., kterým se mění nařízení vlády č. 194/2001 Sb., kterým se stanoví technické požadavky na aerosolové rozprašovače, ve znění pozdějších předpisů"
+identifier: "21/2018 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2018/21/2018-02-12"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2018-01-31
+effective: 2018-02-12
+last_amended: 2018-02-12
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2018/21"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 21/2018 Sb., kterým se mění nařízení vlády č. 194/2001 Sb., kterým se stanoví technické požadavky na aerosolové rozprašovače, ve znění pozdějších předpisů
+
+21
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 31. ledna 2018,
+
+kterým se mění nařízení vlády č. 194/2001 Sb., kterým se stanoví technické požadavky na aerosolové rozprašovače, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 22 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 205/2002 Sb. a zákona č. 34/2011 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 194/2001 Sb., kterým se stanoví technické požadavky na aerosolové rozprašovače, ve znění nařízení vlády č. 305/2006 Sb., nařízení vlády č. 315/2009 Sb. a nařízení vlády č. 80/2014 Sb., se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Směrnice Komise (EU) 2016/2037 ze dne 21. listopadu 2016, kterou se mění směrnice Rady 75/324/EHS, pokud jde o maximální povolený tlak aerosolových rozprašovačů, a o přizpůsobení jejích ustanovení o označování nařízení Evropského parlamentu a Rady (ES) č. 1272/2008 o klasifikaci, označování a balení látek a směsí.“.
+
+2\. V příloze č. 1 bodě 1.2 se písmeno a) včetně poznámek pod čarou č. 8 a 9 zrušuje.
+
+Dosavadní písmena b) až d) se označují jako písmena a) až c).
+
+3\. V příloze č. 1 se na konci bodu 1.2 tečka nahrazuje čárkou a doplňují se písmena d) a e), která znějí:
+
+> „d) pokyn pro bezpečné zacházení P102 podle přímo použitelného předpisu<sup>10</sup>), pokud je aerosolový rozprašovač spotřebním výrobkem, a
+
+> e) veškeré další pokyny k používání, které spotřebitele upozorní na specifická nebezpečí spojená s výrobkem; je-li k aerosolovému rozprašovači přiložen samostatný návod k použití, musí v něm být takové pokyny k používání uvedeny.“.
+
+4\. V příloze č. 1 bod 2.1.2 zní:
+
+> „2.1.2 V závislosti na plynu obsaženém v aerosolovém rozprašovači nesmí tlak v aerosolovém rozprašovači při 50 °C překročit hodnoty uvedené v následující tabulce:
+
+> | Obsažený plyn | Tlak při 50 °C |
+> |---|---|
+> | Zkapalněný plyn nebo plynná směs s mezí zápalnosti na vzduchu při teplotě 20 °C a standardním tlaku 101,3 kPa | 1,2 MPa |
+> | Zkapalněný plyn nebo plynná směs, které nemají mez zápalnosti na vzduchu při teplotě 20 °C a standardním tlaku 101,3 kPa | 1,32 MPa |
+> | Stlačený plyn nebo plyny rozpuštěné pod tlakem, které nemají mez zápalnosti na vzduchu při teplotě 20 °C a standardním tlaku 101,3 kPa | 1,5 MPa |
+
+> “.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 12. února 2018.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Hüner v. r.

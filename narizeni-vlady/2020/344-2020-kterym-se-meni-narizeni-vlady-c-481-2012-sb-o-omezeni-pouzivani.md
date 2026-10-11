@@ -1,0 +1,92 @@
+---
+title: "Nařízení vlády č. 344/2020 Sb., kterým se mění nařízení vlády č. 481/2012 Sb., o omezení používání některých nebezpečných látek v elektrických a elektronických zařízeních, ve znění pozdějších předpisů"
+identifier: "344/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/344/2021-04-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2020-07-27
+effective: 2021-04-01
+last_amended: 2021-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/344"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 344/2020 Sb., kterým se mění nařízení vlády č. 481/2012 Sb., o omezení používání některých nebezpečných látek v elektrických a elektronických zařízeních, ve znění pozdějších předpisů
+
+344
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 27. července 2020,
+
+kterým se mění nařízení vlády č. 481/2012 Sb., o omezení používání některých nebezpečných látek v elektrických a elektronických zařízeních, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 22 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 205/2002 Sb. a zákona č. 34/2011 Sb., (dále jen „zákon“) k provedení § 2 písm. d), § 12 a 13 zákona:
+
+## Čl. I
+
+Nařízení vlády č. 481/2012 Sb., o omezení používání některých nebezpečných látek v elektrických a elektronických zařízeních, ve znění nařízení vlády č. 391/2016 Sb., nařízení vlády č. 101/2018 Sb., nařízení vlády č. 146/2019 Sb. a nařízení vlády č. 121/2020 Sb., se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta
+
+> „Směrnice Komise v přenesené pravomoci (EU) 2020/364 ze dne 17. prosince 2019, kterou se pro účely přizpůsobení vědeckému a technickému pokroku mění příloha IV směrnice Evropského parlamentu a Rady 2011/65/EU, pokud jde o výjimku pro použití kadmia v některých snímačích videokamer odolných vůči záření.“.
+
+2\. Na konci poznámky pod čarou č. 1 se na samostatné řádky doplňují věty
+
+> „Směrnice Komise v přenesené pravomoci (EU) 2020/360 ze dne 17. prosince 2019, kterou se pro účely přizpůsobení vědeckému a technickému pokroku mění příloha IV směrnice Evropského parlamentu a Rady 2011/65/EU, pokud jde o výjimku pro olovo v poplatinovaných platinových elektrodách používaných k některým měřením vodivosti.
+
+> Směrnice Komise v přenesené pravomoci (EU) 2020/361 ze dne 17. prosince 2019, kterou se pro účely přizpůsobení vědeckému a technickému pokroku mění příloha III směrnice Evropského parlamentu a Rady 2011/65/EU, pokud jde o výjimku pro použití šestimocného chromu jako antikorozního činidla v chladicích systémech z uhlíkové oceli.
+
+> Směrnice Komise v přenesené pravomoci (EU) 2020/365 ze dne 17. prosince 2019, kterou se pro účely přizpůsobení vědeckému a technickému pokroku mění příloha III směrnice Evropského parlamentu a Rady 2011/65/EU, pokud jde o výjimku pro olovo v pájkách a povrchové úpravě vývodů používaných v některých ručně držených spalovacích motorech.
+
+> Směrnice Komise v přenesené pravomoci (EU) 2020/366 ze dne 17. prosince 2019, kterou se pro účely přizpůsobení vědeckému a technickému pokroku mění příloha IV směrnice Evropského parlamentu a Rady 2011/65/EU, pokud jde o výjimku pro použití olova jako tepelného stabilizátoru v polyvinylchloridu používaném v některých diagnostických zdravotnických prostředcích in vitro pro rozbor krve a jiných tělních tekutin a tělních plynů.“.
+
+3\. V příloze č. 2 položka 9 zní:
+
+> „
+>
+> | 9 | Šestimocný chrom jako antikorozní činidlo v chladicích systémech z uhlíkové oceli v absorpčních ledničkách do 0,75 % hmotnostních v chladicí kapalině | Vztahuje se na elektrozařízení podle § 2 odst. 2 písm. g), h) a j).<br> Platnost do:<br> a) 21. července 2021 pro zdravotnické prostředky podle § 2 odst. 2 písm. g) a pro monitorovací a řídicí přístroje podle § 2 odst. 2 písm. h), s výjimkou diagnostických zdravotnických prostředků in vitro a průmyslových monitorovacích a řídicích přístrojů,<br> b) 21. července 2023 pro diagnostické zdravotnické prostředky in vitro podle § 2 odst. 2 písm. g),<br> c) 21. července 2024 pro průmyslové monitorovací a řídicí přístroje podle § 2 odst. 2 písm. h) a pro elektrozařízení podle § 2 odst. 2 písm. j). |
+> |---|---|---|
+>
+> “.
+
+4\. V příloze č. 2 se za položku 9 vkládají nové položky 9 a)-I a 9 a)-II, které znějí:
+
+> „
+>
+> | 9 a)-I | Šestimocný chrom do 0,75 % hmotnostních používaný jako antikorozní činidlo v chladicím roztoku chladicích systémů z uhlíkové oceli v absorpčních ledničkách (včetně minibarů) navržených tak, aby plně nebo částečně fungovaly s elektrickým ohřívačem s průměrným využívaným elektrickým příkonem nižším než 75 W za konstantních provozních podmínek | Vztahuje se na elektrozařízení podle § 2 odst. 2 písm. a) až f) a i).<br> Platnost do 5. března 2021. |
+> |---|---|---|
+> | 9 a)-II | Šestimocný chrom do 0,75 % hmotnostních používaný jako antikorozní činidlo v chladicím roztoku chladicích systémů z uhlíkové oceli v absorpčních ledničkách:<br> a) navržených tak, aby plně nebo částečně fungovaly s elektrickým ohřívačem s průměrným využívaným elektrickým příkonem 75 W nebo vyšším za konstantních provozních podmínek, nebo<br> b) navržených tak, aby plně fungovaly s neelektrickým ohřívačem | Vztahuje se na elektrozařízení podle § 2 odst. 2 písm. a) až f) a i).<br> Platnost do 21. července 2021. |
+>
+> “.
+
+5\. V příloze č. 2 položka 41 zní:
+
+> „
+>
+> | 41 | Olovo v pájkách a povrchové úpravě vývodů elektrických a elektronických součástí a v povrchové úpravě desek plošných spojů používaných v modulech zapalování a jiných elektrických a elektronických řídicích systémech motorů, které z technických důvodů musí být namontovány přímo na nebo v klikové skříni nebo válci ručně držených spalovacích motorů (třídy SH:1, SH:2 a SH:3 podle směrnice Evropského parlamentu a Rady 97/68/ES ze dne 16. prosince 1997 o sbližování právních předpisů členských států týkajících se opatření proti emisím plynných znečišťujících látek a znečišťujících částic ze spalovacích motorů určených pro nesilniční pojízdné stroje) | Vztahuje se na všechna elektrozařízení podle § 2 odst. 2písm. a) až j).<br> Platnost do:<br> a) 21. července 2021 pro zdravotnické prostředky podle § 2 odst. 2 písm. g) a pro monitorovací a řídicí přístroje podle § 2 odst. 2 písm. h), s výjimkou diagnostických zdravotnických prostředků in vitro a průmyslových monitorovacích a řídicích přístrojů,<br> b) 31. března 2022 pro elektrozařízení podle § 2 odst. 2 písm. a) až f), i) a j),<br> c) 21. července 2023 pro diagnostické zdravotnické prostředky in vitro podle § 2 odst. 2 písm. g),<br> d) 21. července 2024 pro průmyslové monitorovací a řídicí přístroje podle § 2 odst. 2 písm. h). |
+> |---|---|---|
+>
+> “.
+
+6\. V příloze č. 3 položce 37 se věta „Platí do 31. prosince 2018.“ nahrazuje větou „Platí do 31. prosince 2025.“.
+
+7\. V příloze č. 3 položce 41 se věta „Platí do 31. prosince 2018.“ nahrazuje větou „Platí do 31. března 2022.“.
+
+8\. V příloze č. 3 se doplňuje položka 44, která zní:
+
+> „44. Kadmium ve snímačích odolných vůči záření určených pro videokamery se středovým rozlišením vyšším než 450 televizních řádků, které se používají v prostředích s ionizujícím zářením přesahujícím 100 Gy/h a celkovou dávkou vyšší než 100 kGy. Vztahuje se na monitorovací a řídicí přístroje včetně průmyslových monitorovacích a řídicích přístrojů podle § 2 odst. 2 písm. h). Platí do 31. března 2027.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. dubna 2021, s výjimkou ustanovení čl. I bodů 1 a 8, které nabývají účinnosti dnem 1. září 2020.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Místopředseda vlády, ministr průmyslu a obchodu a ministr dopravy:
+
+doc. Ing. Havlíček, Ph.D., MBA, v. r.

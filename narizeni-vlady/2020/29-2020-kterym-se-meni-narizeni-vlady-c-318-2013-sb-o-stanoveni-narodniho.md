@@ -1,0 +1,120 @@
+---
+title: "Nařízení vlády č. 29/2020 Sb., kterým se mění nařízení vlády č. 318/2013 Sb., o stanovení národního seznamu evropsky významných lokalit, ve znění pozdějších předpisů"
+identifier: "29/2020 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2020/29/2020-02-21"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2020-01-20
+effective: 2020-02-21
+last_amended: 2020-02-21
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2020/29"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 29/2020 Sb., kterým se mění nařízení vlády č. 318/2013 Sb., o stanovení národního seznamu evropsky významných lokalit, ve znění pozdějších předpisů
+
+29
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 20. ledna 2020,
+
+kterým se mění nařízení vlády č. 318/2013 Sb., o stanovení národního seznamu evropsky významných lokalit, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 45a odst. 2 a § 45c odst. 4 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb. a zákona č. 349/2009 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 318/2013 Sb., o stanovení národního seznamu evropsky významných lokalit, ve znění nařízení vlády č. 73/2016 Sb. a nařízení vlády č. 207/2016 Sb., se mění takto:
+
+1\. Příloha č. 451a zní:
+
+> **„Příloha č. 451a k nařízení vlády č. 318/2013 Sb.**
+
+> **Evropsky významná lokalita Porta Bohemica**
+
+> Kód lokality: CZ0424141
+
+> Biogeografická oblast: kontinentální
+
+> Rozloha lokality: 6113,3 ha
+
+> Kódy a názvy typů evropských stanovišť
+
+> 3270 - Bahnité břehy řek s vegetací svazů Chenopodion rubri p.p. a Bidention p.p.
+
+> 6110<sup>\*</sup> - Vápnité nebo bazické skalní trávníky (Alysso-Sedion albi)
+
+> 8150 - Středoevropské silikátové sutě
+
+> 8160<sup>\*</sup> - Vápnité sutě pahorkatin a horského stupně
+
+> 9180<sup>\*</sup> - Lesy svazu Tilio-Acerion na svazích, sutích a v roklích
+
+> <sup>\*</sup> prioritní typ evropského stanoviště
+
+> Evropsky významné druhy
+
+> bobr evropský (Castor fiber)
+
+> losos obecný (Salmo salar)
+
+> Kraj
+
+> Ústecký kraj
+
+> Katastrální území
+
+> Babětín, Bláhov, Boletice nad Labem, Borek u Děčína, Brná nad Labem, Březí u Malečova, Budov u Svádova, Církvice, Čeřeniště, České Kopisty, Český Bukov, Děčín, Děčín-Staré Město, Dobkovice, Dolní Zálezly, Dubice nad Labem, Horní Zálezly, Hostovice u Ústí nad Labem, Hoštice nad Labem, Chrochvice, Chvalov, Kamýk u Litoměřic, Kojetice u Malečova, Krásné Březno, Křešice u Děčína, Lesná u Děčína, Leština u Malého Března, Lhotka nad Labem, Libochovany, Litochovice nad Labem, Litoměřice, Loubí u Děčína, Lovosice, Ludvíkovice, Malé Březno nad Labem, Malé Žernoseky, Malšovice, Mašovice pod Vysokým kamenem, Mlékojedy u Litoměřic, Mojžíř, Moravany u Dubic, Nebočady, Němčí u Malečova, Neštědice, Neštěmice, Nová Ves, Olešnice u Svádova, Píšťany, Počaply u Terezína, Podlešín u Stebna, Podmokly, Povrly, Prackovice nad Labem, Prosmyky, Prostřední Žleb, Přední Lhota u Těchlovic, Přerov u Těchlovic, Roztoky nad Labem, Rychnov u Verneřic, Rytířov, Sebuzín, Střekov, Svádov, Těchlovice nad Labem, Tlučeň, Třeboutice, Týniště u Zubrnic, Ústí nad Labem, Valtířov nad Labem, Vaňov, Velké Březno, Velké Stínky, Velké Žernoseky, Vilsnice, Vitín u Malého Března, Vítov u Velkého Března, Zubrnice, Žalhostice
+
+> **Orientační grafické znázornění lokality CZ0424141:**
+
+> **![sbcr2020c014z0029p451o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896409/NAHLED/ZOBRAZ/sbcr2020c014z0029p451o001)“.**
+
+2\. Za přílohu č. 625 se vkládá nová příloha č. 625a, která zní:
+
+> **„Příloha č. 625a k nařízení vlády č. 318/2013 Sb.**
+
+> **Evropsky významná lokalita Louky u Přelouče**
+
+> Kód lokality: CZ0537011
+
+> Biogeografická oblast: kontinentální
+
+> Rozloha lokality: 133,5 ha
+
+> Navrhovaná kategorie zvláště chráněného území: přírodní památka - část
+
+> Evropsky významné druhy
+
+> modrásek bahenní (Maculinea nausithous)
+
+> modrásek očkovaný (Maculinea teleius)
+
+> Kraj
+
+> Pardubický kraj
+
+> Katastrální území
+
+> Břehy, Kladruby nad Labem, Labětín, Lohenice u Přelouče, Mělice, Přelouč, Řečany nad Labem, Selmice, Semín, Valy nad Labem
+
+> **Orientační grafické znázornění lokality CZ0537011:**
+
+> **![sbcr2020c014z0029p625o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/896411/NAHLED/ZOBRAZ/sbcr2020c014z0029p625o001)“.**
+
+Dosavadní příloha č. 625a se označuje jako příloha č. 625b.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Babiš v. r.
+
+Ministr životního prostředí:
+
+Mgr. Brabec v. r.
