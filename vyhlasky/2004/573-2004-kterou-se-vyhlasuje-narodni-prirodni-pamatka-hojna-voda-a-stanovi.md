@@ -1,0 +1,130 @@
+---
+title: "Vyhláška č. 573/2004 Sb., kterou se vyhlašuje Národní přírodní památka Hojná voda a stanoví její bližší ochranné podmínky a kterou se mění vyhláška č. 395/1992 Sb., kterou se provádějí některá ustanovení zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů"
+identifier: "573/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/573/2005-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2004-11-04
+effective: 2004-12-01
+last_amended: 2005-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/573"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 573/2004 Sb., kterou se vyhlašuje Národní přírodní památka Hojná voda a stanoví její bližší ochranné podmínky a kterou se mění vyhláška č. 395/1992 Sb., kterou se provádějí některá ustanovení zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů ve znění vyhlášky č. 185/2005 Sb."
+---
+
+# Vyhláška č. 573/2004 Sb., kterou se vyhlašuje Národní přírodní památka Hojná voda a stanoví její bližší ochranné podmínky a kterou se mění vyhláška č. 395/1992 Sb., kterou se provádějí některá ustanovení zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů
+
+573
+
+VYHLÁŠKA
+
+ze dne 4. listopadu 2004,
+
+kterou se vyhlašuje Národní přírodní památka Hojná voda a stanoví její bližší ochranné podmínky a kterou se mění vyhláška č. 395/1992 Sb., kterou se provádějí některá ustanovení zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů
+
+Ministerstvo životního prostředí stanoví podle § 79 odst. 3 písm. b) se zřetelem na § 35 odst. 1 zákona č. 114/1992 Sb., o ochraně příroody a krajiny, ve znění zákona č. 218/2004 Sb., (dále jen „zákon“):
+
+## ČÁST PRVNÍ
+
+### § 1 – Předmět úpravy
+
+(1) Vyhlašuje se Národní přírodní památka Hojná voda (dále jen „národní přírodní památka“).
+
+(2) Předmětem ochrany je dochovaný zbytek původního pralesovitého lesního porostu ponechaného samovolnému vývoji, který je ukázkou horských smíšených jedlo-bučin typických pro oblast Novohradských hor a společenstev montánních lesních pramenišť.
+
+### § 2 – Vymezení národní přírodní památky
+
+(1) Národní přírodní památka se rozkládá v katastrálním území Staré Hutě u Horní Stropnice. Hranice národní přírodní památky je stanovena uzavřeným geometrickým obrazcem s přímými stranami, jehož vrcholy jsou určeny souřadnicemi udanými v souřadnicovém systému S-JTSK<sup>1</sup>). Seznam souřadnic jednotlivých vrcholů geometrického obrazce tak, jak jdou v obrazci za sebou, je uveden v příloze č. 1 k této vyhlášce. Orientační grafické znázornění území národní přírodní památky je uvedeno v příloze č. 2 k této vyhlášce.
+
+(2) Mapové podklady, v nichž je zakresleno území národní přírodní památky, jsou uloženy v ústředním seznamu ochrany přírody (§ 42 zákona).
+
+### § 3 – Bližší ochranné podmínky pro národní přírodní památku
+
+Jen s předchozím souhlasem příslušného orgánu ochrany přírody [§ 44 odst. 2 a § 79 odst. 3 písm. g) zákona] lze v národní přírodní památce
+
+a) provádět změny druhu nebo způsobu využití pozemků<sup>2</sup>),
+
+b) upravovat povrch pozemních komunikací<sup>3</sup>) s použitím jiného než místního přírodního materiálu,
+
+c) vyznačovat cyklotrasy a turistické stezky,
+
+d) vjíždět vozidly do území národní přírodní památky; souhlas se nevyžaduje u vozidel orgánů veřejné správy, Policie České republiky, záchranných služeb, obrany státu a veterinární služby, vozidel potřebných pro zajištění péče o lesní pozemky či porosty a vozidel vlastníků nebo nájemců pozemků nacházejících se na území národní přírodní památky; souhlas se dále nevyžaduje pro jízdu jízdními koly na cyklotrasách vyznačených v terénu,
+
+e) zřizovat skládky dřeva a jiných materiálů, a to i přechodně,
+
+f) provádět geologické práce<sup>4</sup>) spojené se zásahem do zemského povrchu,
+
+g) přikrmovat zvěř,
+
+h) zřizovat myslivecká zařízení,
+
+i) tábořit,
+
+j) rozdělávat ohně.
+
+## ČÁST DRUHÁ – Změna vyhlášky č. 395/1992 Sb., kterou se provádějí některá ustanovení zákona č. 114/1992 Sb., o ochraně přírody a krajiny
+
+### § 4
+
+Ve vyhlášce č. 395/1992 Sb., kterou se provádějí některá ustanovení zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění vyhlášky č. 105/1997 Sb., vyhlášky č. 200/1999 Sb., vyhlášky č. 85/2000 Sb., vyhlášky č. 190/2000 Sb., vyhlášky č. 116/2004 Sb. a vyhlášky č. 381/2004 Sb., se v příloze č. V v seznamu národních přírodních památek slova „Hojná voda CB Staré Hutě Rozhodnutí vlastníka r. 1838“ zrušují.
+
+## ČÁST TŘETÍ
+
+### § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. prosince 2004.
+
+Ministr:
+
+RNDr. Ambrozek v. r.
+
+### Příloha č. 1 k vyhlášce č. 573/2004 Sb.
+
+#### Seznam souřadnic (S-JTSK) jednotlivých vrcholů geometrických obrazců, kterým jsou stanoveny hranice Národní přírodní památky Hojná voda
+
+| číslo bodu | souřadnice – Y | souřadnice – X | pořadí bodu v obrazci |
+|---|---|---|---|
+| 1 | 739639.69 | 1198653.09 | 1 |
+| 2 | 739620.66 | 1198639.90 | 2 |
+| 3 | 739528.58 | 1198675.31 | 3 |
+| 4 | 739510.82 | 1198628.62 | 4 |
+| 5 | 739504.69 | 1198603.51 | 5 |
+| 6 | 739430.95 | 1198609.87 | 6 |
+| 7 | 739423.93 | 1198582.96 | 7 |
+| 8 | 739415.45 | 1198544.35 | 8 |
+| 9 | 739415.26 | 1198484.74 | 9 |
+| 10 | 739423.47 | 1198434.14 | 10 |
+| 11 | 739433.22 | 1198407.46 | 11 |
+| 12 | 739441.69 | 1198381.43 | 12 |
+| 13 | 739484.19 | 1198356.62 | 13 |
+| 14 | 739532.67 | 1198302.29 | 14 |
+| 15 | 739560.00 | 1198292.58 | 15 |
+| 16 | 739587.10 | 1198294.24 | 16 |
+| 17 | 739573.42 | 1198214.48 | 17 |
+| 18 | 739558.93 | 1198185.59 | 18 |
+| 19 | 739556.16 | 1198157.68 | 19 |
+| 20 | 739600.01 | 1198155.77 | 20 |
+| 21 | 739671.73 | 1198154.89 | 21 |
+| 22 | 739670.53 | 1198290.87 | 22 |
+| 23 | 739667.44 | 1198336.03 | 23 |
+| 24 | 739656.33 | 1198401.49 | 24 |
+| 25 | 739664.62 | 1198500.77 | 25 |
+| 26 | 739680.45 | 1198598.03 | 26 |
+| 27 | 739700.97 | 1198628.71 | 27 |
+| 28 | 739674.99 | 1198652.15 | 28 |
+
+### Příloha č. 2 k vyhlášce č. 573/2004 Sb.
+
+#### ![sbcr2004c194z0573p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/835071/NAHLED/ZOBRAZ/sbcr2004c194z0573p002o001)
+
+---
+
+<sup>1</sup>) Nařízení vlády č. 116/1995 Sb., kterým se stanoví geodetické referenční systémy, státní mapová díla závazná na celém území státu a zásady jejich používání.
+
+<sup>2</sup>) Například vyhláška č. 190/1996 Sb., kterou se provádí zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění zákona č. 210/1993 Sb. a zákona č. 90/1996 Sb., a zákon České národní rady č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb., ve znění vyhlášky č. 179/1998 Sb., vyhlášky č. 113/2000 Sb. a vyhlášky č. 163/2001 Sb.
+
+<sup>3</sup>) Například § 3 odst. 4 vyhlášky č. 104/1997 Sb., kterou se provádí zákon o pozemních komunikacích.
+
+<sup>4</sup>) § 2 zákona č. 62/1988 Sb., o geologických pracích, ve znění zákona č. 543/1991 Sb., zákona č. 369/1992 Sb., zákona č. 366/2000 Sb., zákona č. 320/2002 Sb. a zákona č. 18/2004 Sb.

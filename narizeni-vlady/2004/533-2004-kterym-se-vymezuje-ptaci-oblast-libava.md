@@ -1,0 +1,95 @@
+---
+title: "Nařízení vlády č. 533/2004 Sb., kterým se vymezuje Ptačí oblast Libavá"
+identifier: "533/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/533/2004-10-20"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-09-29
+effective: 2004-10-20
+last_amended: 2004-10-20
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/533"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 533/2004 Sb., kterým se vymezuje Ptačí oblast Libavá
+
+533
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 29. září 2004,
+
+kterým se vymezuje Ptačí oblast Libavá
+
+Vláda nařizuje podle § 45e odst. 1 a 2 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb.:
+
+## § 1 – Předmět úpravy
+
+(1) Vymezuje se Ptačí oblast Libavá (dále jen „ptačí oblast“).
+
+(2) Předmětem ochrany ptačí oblasti je populace chřástala polního (Crex crex) a jeho biotop.
+
+(3) Cílem ochrany ptačí oblasti je zachování a obnova ekosystémů významných pro druh ptáka podle odstavce 2 v jeho přirozeném areálu rozšíření a zajištění podmínek pro zachování populace tohoto druhu ve stavu příznivém z hlediska ochrany.
+
+## § 2 – Vymezení ptačí oblasti
+
+(1) Ptačí oblast se rozkládá na území Olomouckého kraje, v katastrálních územích Vojenského újezdu Libavá.
+
+(2) Územní vymezení a popis hranice ptačí oblasti jsou obsaženy v příloze č. 1 k tomuto nařízení, orientační grafické znázornění ptačí oblasti je obsaženo v příloze č. 2 k tomuto nařízení.
+
+(3) Mapové podklady v měřítku 1 : 50 000, v nichž je zakresleno území ptačí oblasti, jsou uloženy v ústředním seznamu ochrany přírody<sup>1</sup>) a v elektronické podobě na Ministerstvu životního prostředí, Krajském úřadu Olomouckého kraje, Vojenském lesním úřadu a Újezdním úřadu vojenského újezdu Libavá.
+
+## § 3 – Činnosti, ke kterým je třeba souhlas orgánu ochrany přírody
+
+(1) Jen s předchozím souhlasem příslušného orgánu ochrany přírody<sup>2</sup>) lze v ptačí oblasti, mimo pozemky určené k plnění funkcí lesa<sup>3</sup>) a mimo současně zastavěné a zastavitelné<sup>4</sup>) území obcí,
+
+a) provádět činnosti vyvolávající změnu výše ustálené hladiny povrchové a podzemní vody, která by mohla způsobit změnu biotopu druhu, pro který je ptačí oblast zřízena,
+
+b) měnit druh pozemků a způsoby jejich využití<sup>5</sup>).
+
+(2) Předchozí souhlas příslušného orgánu ochrany přírody k činnostem podle odstavce 1 písm. a) není třeba, jde-li o postup v souladu s manipulačními řády vodních děl<sup>6</sup>).
+
+(3) Předchozí souhlas příslušného orgánu ochrany přírody k činnostem podle odstavce 1 není třeba, jde-li o prioritní využívání území vojenského újezdu pro potřeby obrany státu<sup>7</sup>).
+
+## § 4 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem jeho vyhlášení.
+
+Předseda vlády:
+
+JUDr. Gross v. r.
+
+Ministr životního prostředí:
+
+RNDr. Ambrozek v. r.
+
+### Příloha č. 1 k nařízení vlády č. 533/2004 Sb.
+
+#### Územní vymezení a popis hranice Ptačí oblasti Libavá
+
+Hranice ptačí oblasti je totožná s hranicí vojenského újezdu Libavá a je tvořena vnějšími hranicemi katastrů obcí Město Libavá, Čermná u města Libavá, Rudoltovice, Slavkov u Města Libavá a Velká Střelná.
+
+### Příloha č. 2 k nařízení vlády č. 533/2004 Sb.
+
+#### Orientační grafické znázornění Ptačí oblasti Libavá
+
+#### ![sbcr2004c182z0533p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/827245/NAHLED/ZOBRAZ/sbcr2004c182z0533p002o001)
+
+---
+
+<sup>1</sup>) § 42 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb.
+
+<sup>2</sup>) § 77a odst. 3 písm. v) a § 78 odst. 2 zákona č. 114/1992 Sb., ve znění zákona č. 218/2004 Sb.
+
+<sup>3</sup>) § 2 zákona č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon).
+
+<sup>4</sup>) § 139a zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění zákona č. 83/1998 Sb.
+
+<sup>5</sup>) § 32 odst. 1 zákona č. 50/1976 Sb. 
+ § 2 odst. 3 a § 6 zákona č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb. a zákona č. 120/2000 Sb.
+
+<sup>6</sup>) § 59 odst. 1 písm. a) zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon).
+
+<sup>7</sup>) § 2 odst. 1 a § 29 odst. 1 zákona č. 222/1999 Sb., o zajišťování obrany České republiky.

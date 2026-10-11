@@ -1,0 +1,102 @@
+---
+title: "Nařízení vlády č. 181/2004 Sb., o stanovení bližších podmínek provádění společných organizací trhu, pokud jde o systém poskytování subvencí při vývozu pro zemědělské výrobky a zpracované zemědělské výrobky"
+identifier: "181/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/181/2006-05-31"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-03-31
+effective: 2004-05-01
+last_amended: 2006-05-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/181"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 181/2004 Sb., o stanovení bližších podmínek provádění společných organizací trhu, pokud jde o systém poskytování subvencí při vývozu pro zemědělské výrobky a zpracované zemědělské výrobky ve znění nařízení vlády č. 99/2005 Sb. a nařízení vlády č. 257/2006 Sb."
+---
+
+# Nařízení vlády č. 181/2004 Sb., o stanovení bližších podmínek provádění společných organizací trhu, pokud jde o systém poskytování subvencí při vývozu pro zemědělské výrobky a zpracované zemědělské výrobky
+
+181
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 31. března 2004
+
+o stanovení bližších podmínek provádění společných organizací trhu, pokud jde o systém poskytování subvencí při vývozu pro zemědělské výrobky a zpracované zemědělské výrobky
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení<sup>1</sup>) upravuje v návaznosti na přímo použitelné předpisy Evropských společenství<sup>1a</sup>) (dále jen „předpisy Evropských společenství“) bližší podmínky provádění společných organizací trhu, pokud jde o systém poskytování subvencí při vývozu pro zemědělské výrobky a zpracované zemědělské výrobky.
+
+## § 2
+
+Kde se v předpisech Evropských společenství<sup>1a</sup>) používá pojmu vývozní náhrada, rozumí se tím pro účely tohoto nařízení subvence při vývozu.
+
+## § 3 – Žádost o subvenci při vývozu, o zálohu na subvenci při vývozu a o předběžné financování subvence při vývozu
+
+(1) Za žádost o subvenci při vývozu, žádost o zálohu na subvenci při vývozu a žádost o předběžné financování subvence při vývozu podle předpisů Evropských společenství<sup>2</sup>) se považuje originál jednotného správního dokladu s uvedením čísla vývozní licence<sup>3</sup>) nebo čísla osvědčení o náhradě,<sup>4</sup>) bylo-li toto osvědčení vydáno.
+
+(2) Vývozce vyznačí na jednotném správním dokladu, zda žádá o subvenci při vývozu, zálohu na subvenci při vývozu nebo o předběžné financování subvence při vývozu podle předpisů Evropských společenství.<sup>2</sup>)
+
+## § 3a
+
+V případě vývozu zemědělských výrobků podle předpisů Evropských společenství<sup>4a</sup>) předkládá vývozce přepravní doklady<sup>4b</sup>), a je-li k tomu Státním zemědělským intervenčním fondem (dále jen „Fond“) písemně vyzván, také doklady stanovené předpisy Evropských společenství<sup>4c</sup>).
+
+## § 4 – Registrace výrobce
+
+(1) Výrobce, jehož výrobky mají být vyváženy formou pravidelně uskutečňovaných vývozů podle předpisů Evropských společenství<sup>5</sup>), požádá Fond o registraci za tímto účelem.
+
+(2) K žádosti o registraci výrobce podle odstavce 1 je výrobce povinen připojit:
+
+a) doklad o tom, že je podnikatelem<sup>6</sup>),
+
+b) prohlášení výrobce na formuláři vydaném Fondem
+
+1\. o složení výrobku, který má být vyvážen formou pravidelně uskutečňovaných vývozů<sup>7</sup>), s uvedením množství základních výrobků a výrobků vzniklých jejich zpracováním a vlastního nejvýše šestimístného evidenčního čísla, pod kterým bude Fond toto prohlášení evidovat,
+
+2\. o ztrátách vznikajících při výrobě výrobku, který má být vyvážen formou pravidelně uskutečňovaných vývozů<sup>7</sup>).
+
+(3) Žádost o registraci výrobce podle odstavce 1 se podává na formuláři vydaném Fondem.
+
+## § 6 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Ministr zemědělství:
+
+Ing. Palas v. r.
+
+---
+
+<sup>1</sup>) Je vydáno k provedení a v mezích zákona, jehož obsah umožňuje provést úpravu v návaznosti na přímo použitelný předpis Evropských společenství nařízením vlády.
+
+<sup>1a</sup>) Nařízení Komise (EHS) č. 32/1982 ze dne 7. ledna 1982, kterým se stanoví podmínky pro poskytování zvláštních vývozních náhrad pro hovězí a telecí maso, v platném znění. 
+ Nařízení Komise (EHS) č. 1964/1982 ze dne 20. července 1982, kterým se stanoví podmínky pro poskytování zvláštních vývozních náhrad pro některé druhy vykostěného hovězího masa, v platném znění. 
+ Nařízení Rady (ES) č. 3448/1993 ze dne 6. prosince 1993 o právní úpravě obchodování s některým zbožím vzniklým zpracováním zemědělských produktů, v platném znění. 
+ Nařízení Komise (ES) č. 800/1999 ze dne 15. dubna 1999, kterým se stanoví společná pravidla k režimu vývozních náhrad pro zemědělské produkty, v platném znění. 
+ Nařízení Komise (ES) č. 1291/2000 ze dne 9. června 2000, kterým se stanoví společná prováděcí pravidla k režimu dovozních a vývozních licencí a osvědčení o stanovení náhrady předem pro zemědělské produkty, v platném znění. 
+ Nařízení Komise (ES) č. 1043/2005 ze dne 30. června 2005, kterým se provádí nařízení Rady (ES) č. 3448/93, pokud jde o režim poskytování vývozních náhrad pro některé zemědělské produkty vyvážené ve formě zboží, na něž se nevztahuje příloha I Smlouvy, a kritéria pro stanovení výše těchto náhrad, v platném znění.
+
+<sup>2</sup>) Čl. 24, čl. 26 a čl. 49 odst. 1 nařízení Komise (ES) č. 800/1999, ve znění nařízení Komise (ES) č. 1253/2002, nařízení Komise (ES) č. 444/2003 a nařízení Komise (ES) č. 2010/2003.
+
+<sup>3</sup>) Čl. 4 nařízení Komise (ES) č. 800/1999, ve znění nařízení Komise (ES) č. 2299/2001.
+
+<sup>4</sup>) Čl. 1 odst. 2 písm. b) nařízení Komise (ES) č. 1520/2000.
+
+<sup>4a</sup>) Čl. 17 nařízení Komise (ES) č. 800/1999.
+
+<sup>4b</sup>) Čl. 16 odst. 3 nařízení Komise (ES) č. 800/1999.
+
+<sup>4c</sup>) Čl. 16 odst. 1, 2 a 4 nařízení Komise (ES) č. 800/1999.
+
+<sup>5</sup>) Čl. 10 nařízení Komise (ES) č. 1043/2005.
+
+<sup>6</sup>) § 2 obchodního zákoníku.
+
+<sup>7</sup>) Čl. 49 odst. 2 nařízení Komise (ES) č. 1043/2005.

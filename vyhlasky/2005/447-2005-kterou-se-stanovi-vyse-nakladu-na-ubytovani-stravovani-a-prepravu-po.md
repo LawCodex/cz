@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 447/2005 Sb., kterou se stanoví výše nákladů na ubytování, stravování a přepravu po území České republiky cizince zajištěného za účelem správního vyhoštění"
+identifier: "447/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/447/2005-11-24"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-11-03
+effective: 2005-11-24
+last_amended: 2005-11-24
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/447"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 447/2005 Sb., kterou se stanoví výše nákladů na ubytování, stravování a přepravu po území České republiky cizince zajištěného za účelem správního vyhoštění
+
+447
+
+VYHLÁŠKA
+
+ze dne 3. listopadu 2005,
+
+kterou se stanoví výše nákladů na ubytování, stravování a přepravu po území České republiky cizince zajištěného za účelem správního vyhoštění
+
+Ministerstvo vnitra stanoví podle § 182 odst. 1 písm. c) zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 428/2005 Sb.:
+
+## § 1
+
+(1) Náklady na stravu poskytnutou cizinci zajištěnému za účelem správního vyhoštění činí 112,– Kč na osobu za kalendářní den.
+
+(2) Náklady na ubytování poskytnuté cizinci zajištěnému za účelem správního vyhoštění činí 130,– Kč na osobu za kalendářní den.
+
+(3) Výše nákladů na přepravu cizince zajištěného za účelem správního vyhoštění při využití
+
+a) služebního silničního motorového vozidla se rovná násobku počtu ujetých kilometrů a částky 1,55 Kč,
+
+b) jiného dopravního prostředku se rovná částce vynaložené na jízdné, které bylo za tuto přepravu uhrazeno.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem nabytí účinnosti zákona č. 428/2005 Sb., kterým se mění zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů, a některé další zákony.
+
+Ministr:
+
+Mgr. Bublan v. r.

@@ -1,0 +1,54 @@
+---
+title: "Nařízení vlády č. 145/2004 Sb., o poskytování příspěvku z rozpočtové kapitoly Ministerstva obrany ke zmírnění některých křivd způsobených komunistickým režimem"
+identifier: "145/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/145/2004-05-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-03-17
+effective: 2004-05-01
+last_amended: 2004-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/145"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 145/2004 Sb., o poskytování příspěvku z rozpočtové kapitoly Ministerstva obrany ke zmírnění některých křivd způsobených komunistickým režimem
+
+145
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 17. března 2004
+
+o poskytování příspěvku z rozpočtové kapitoly Ministerstva obrany ke zmírnění některých křivd způsobených komunistickým režimem
+
+Vláda nařizuje podle § 8 zákona č. 198/1993 Sb., o protiprávnosti komunistického režimu a o odporu proti němu:
+
+## § 1
+
+Osobám, kterým pracovní nebo služební poměr skončil z důvodu politické perzekuce nebo postupu porušujícího obecně uznávaná lidská práva a svobody<sup>1</sup>) a které jsou poživateli starobního nebo plného invalidního důchodu a současně držiteli osvědčení vydaného Ministerstvem obrany podle zvláštního právního předpisu,<sup>2</sup>) se poskytuje z rozpočtové kapitoly Ministerstva obrany příspěvek v rozsahu a k účelům, k nimž jsou jinak podle zvláštního právního předpisu<sup>3</sup>) poskytována plnění z fondu kulturních a sociálních potřeb Ministerstva obrany osobám, které při prvém odchodu do starobního nebo plného invalidního důchodu pracovaly u organizační složky státu – Ministerstvo obrany.
+
+## § 2
+
+Příspěvek podle § 1 nelze poskytovat osobám, kterým jsou podle zvláštního právního předpisu<sup>3</sup>) poskytována plnění jiným zaměstnavatelem.
+
+## § 3
+
+Toto nařízení nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Ministr obrany:
+
+Ing. Kostelka v. r.
+
+---
+
+<sup>1</sup>) § 21 zákona č. 87/1991 Sb., o mimosoudních rehabilitacích.
+
+<sup>2</sup>) § 22 zákona č. 87/1991 Sb., ve znění zákona č. 264/1992 Sb. a zákona č. 115/1994 Sb.
+
+<sup>3</sup>) Vyhláška č. 114/2002 Sb., o fondu kulturních a sociálních potřeb, ve znění vyhlášky č. 510/2002 Sb.

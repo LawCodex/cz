@@ -1,0 +1,93 @@
+---
+title: "Zákon č. 676/2004 Sb., o povinném značení lihu a o změně zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů"
+identifier: "676/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/676/2013-12-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2004-12-09
+effective: 2005-07-01
+last_amended: 2013-12-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/676"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 676/2004 Sb., o povinném značení lihu a o změně zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů ve znění zákona č. 545/2005 Sb., zákona č. 310/2006 Sb., zákona č. 296/2007 Sb., zákona č. 124/2008 Sb., zákona č. 289/2009 Sb., zákona č. 59/2010 Sb., zákona č. 457/2011 Sb., zákona č. 18/2012 Sb. a zákona č. 307/2013 Sb."
+---
+
+# Zákon č. 676/2004 Sb., o povinném značení lihu a o změně zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů
+
+676
+
+ZÁKON
+
+ze dne 9. prosince 2004
+
+o povinném značení lihu a o změně zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o daních z příjmů
+
+### § 34
+
+V § 24 zákona č. 586/1992 Sb., o daních z příjmů, ve znění zákona č. 157/1993 Sb., zákona č. 323/1993 Sb., zákona č. 85/1994 Sb., zákona č. 259/1994 Sb., zákona č. 87/1995 Sb., zákona č. 149/1995 Sb., zákona č. 248/1995 Sb., zákona č. 316/1996 Sb., zákona č. 151/1997 Sb., zákona č. 168/1998 Sb., zákona č. 333/1998 Sb., nálezu Ústavního soudu uveřejněného pod č. 3/2000 Sb., zákona č. 27/2000 Sb., zákona č. 72/2000 Sb., zákona č. 100/2000 Sb., zákona č. 132/2000 Sb., zákona č. 241/2000 Sb., zákona č. 340/2000 Sb., zákona č. 492/2000 Sb., zákona č. 260/2002 Sb., zákona č. 575/2002 Sb., zákona č. 438/2003 Sb., zákona č. 280/2004 Sb., zákona č. 436/2004 Sb. a zákona č. 669/2004 Sb., se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno zt), které včetně poznámky pod čarou č. 106) zní:
+
+> „zt) vstupní cena etiketovacího zařízení pro povinné značení lihu podle zvláštního právního předpisu,<sup>106</sup>) pokud se výrobce nebo dovozce lihu nerozhodne etiketovací zařízení odpisovat podle § 26 až 33.
+
+> <sup>106</sup>) Zákon č. 676/2004 Sb., o povinném značení lihu a o změně zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů.“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### § 35
+
+Tento zákon nabývá účinnosti dnem 1. července 2005, s výjimkou ustanovení § 34, které nabývá účinnosti dnem jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Gross v. r.
+
+---
+
+<sup>1</sup>) § 2 odst. 1 písm. a) zákona č. 61/1997 Sb., o lihu a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, a zákona č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů, (zákon o lihu).
+
+<sup>2</sup>) Nařízení Rady (EHS) č. 2658/87 ze dne 23. července 1987 o celní a statistické nomenklatuře a o společném celním sazebníku, ve znění nařízení č. 3528/89, nařízení č. 3845/89, nařízení č. 2913/92, nařízení č. 1969/93, nařízení č. 254/2000, nařízení č. 1228/2000, nařízení č. 1264/2000, nařízení č. 2388/2000, nařízení č. 2559/2000, nařízení č. 1229/2001, nařízení č. 1230/2001, nařízení č. 1776/2001, nařízení č. 1777/2001, nařízení č. 1783/2001 a nařízení č. 2031/2001.
+
+<sup>2a</sup>) § 3 písm. g) zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+
+<sup>2b</sup>) § 3 písm. d) zákona č. 353/2003 Sb., ve znění pozdějších předpisů.
+
+<sup>3</sup>) Články 166 až 182 nařízení Rady (EHS) č. 2913/92 ze dne 12. října 1992, kterým se vydává celní kodex Společenství, ve znění nařízení č. 82/97, nařízení č. 955/99 a nařízení č. 2700/2000.
+
+<sup>4</sup>) Zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Živnostenský zákon, ve znění pozdějších předpisů.
+
+<sup>6</sup>) § 3 písm. f) zákona č. 353/2003 Sb., ve znění pozdějších předpisů.
+
+<sup>7</sup>) Článek 59 odst. 2 a čl. 82 nařízení Rady (EHS) č. 2913/92 ze dne 12. října 1992, kterým se vydává celní kodex Společenství, ve znění nařízení č. 82/97, nařízení č. 955/99 a nařízení č. 2700/2000.
+
+<sup>8</sup>) § 3 písm. h) zákona č. 353/2003 Sb., ve znění pozdějších předpisů.
+
+<sup>9</sup>) Nařízení Komise (EHS) č. 2454/93 ze dne 2. července 1993, kterým se provádí nařízení Rady (EHS) č. 2913/92, kterým se vydává celní kodex Společenství.
+
+<sup>10</sup>) § 3 písm. e) zákona č. 353/2003 Sb., ve znění pozdějších předpisů.
+
+<sup>11</sup>) Zákon č. 61/1997 Sb., ve znění pozdějších předpisů.
+
+<sup>12</sup>) Zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů.
+
+<sup>13</sup>) Zákon č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů.
+
+<sup>14</sup>) § 57 a 58 živnostenského zákona.
+
+<sup>15</sup>) Zákon č. 552/1991 Sb., o státní kontrole, ve znění pozdějších předpisů.
+
+<sup>16</sup>) § 16 zákona č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.
+
+<sup>17</sup>) Zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů.
+
+<sup>18</sup>) § 2 odst. 2 obchodního zákoníku.
+
+<sup>20</sup>) Zákon č. 71/1967 Sb., o správním řízení (správní řád), ve znění pozdějších předpisů.

@@ -1,0 +1,2125 @@
+---
+title: "Zákon č. 634/2004 Sb., o správních poplatcích"
+identifier: "634/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/634/2026-09-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2004-11-26
+effective: 2005-01-16
+last_amended: 2026-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/634"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 634/2004 Sb., o správních poplatcích
+
+634
+
+ZÁKON
+
+ze dne 26. listopadu 2004
+
+o správních poplatcích
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1 – Předmět úpravy
+
+Tento zákon upravuje správní poplatky (dále jen „poplatky“) a výkon jejich správy, zejména jejich vyměřování a vybírání, prováděné orgány moci výkonné a dále orgány územních samosprávných celků a orgány právnických osob, pokud vykonávají působnost v oblasti státní správy (dále jen „správní úřad“).
+
+## § 2 – Předmět poplatků
+
+(1) Předmětem poplatků je správní řízení upravené zvláštním právním předpisem a další činnost správního úřadu související s výkonem státní správy (dále jen „úkon“). Úkony, které podléhají zpoplatnění, jsou vymezeny v jednotlivých položkách sazebníku poplatků, který tvoří přílohu k tomuto zákonu (dále jen „sazebník“). Sazebník v jednotlivých položkách dále obsahuje případné osvobození od poplatku, úkony, které nejsou předmětem poplatku, zmocnění správního úřadu při stanovení výše poplatku, popřípadě poznámky, které upravují podrobnosti k jednotlivým úkonům.
+
+(2) Úkony zahájené správním úřadem z moci úřední, s výjimkou místního šetření, a úkony související s přestupkovým a s trestním řízením nejsou předmětem poplatku, nestanoví-li sazebník jinak.
+
+## § 3 – Poplatník
+
+(1) Poplatníkem je fyzická nebo právnická osoba, která podala žádost nebo jiný návrh k provedení úkonu správnímu úřadu, nebo osoba, v jejímž zájmu nebo věci byl úkon proveden.
+
+(2) Vznikne-li povinnost zaplatit poplatek za týž úkon více poplatníkům, zaplatí jej společně a nerozdílně, nestanoví-li sazebník jinak.
+
+## § 4
+
+Sazby poplatků jsou stanoveny v sazebníku pevnou částkou nebo procentem u poplatku, jehož základ je vyjádřen v penězích (dále jen „procentní poplatek“). Základ procentního poplatku se zaokrouhluje na celé desítky korun českých nahoru. Procentní poplatek se vypočte jako součin základu poplatku a sazby poplatku.
+
+## § 5 – Vyměření a vybírání poplatku, splatnost poplatku a následky jeho nezaplacení
+
+(1) Poplatky vyměřuje, vybírá a vymáhá správní úřad příslušný k provedení úkonu, nestanoví-li sazebník jinak.
+
+(2) Poplatky stanovené v sazebníku pevnou částkou jsou splatné buď při přijetí podání nebo později, vždy však před provedením úkonu, a to podle jeho vymezení v jednotlivých položkách sazebníku, nestanoví-li sazebník jinak. Nezaplatí-li poplatník poplatek v této lhůtě, vyzve ho správní úřad, aby tak učinil ve lhůtě do 15 dnů ode dne, který následuje po doručení výzvy k zaplacení poplatku, která je rozhodnutím podle zvláštního právního předpisu upravujícího správu daní. Ve výzvě k zaplacení poplatku správní úřad zároveň upozorní poplatníka na důsledky nezaplacení poplatku. Proti výzvě k zaplacení poplatku lze podat odvolání ve lhůtě do 15 dnů ode dne, který následuje po jejím doručení.
+
+(3) Procentní poplatky a další poplatky, o nichž tak stanoví sazebník, vyměřuje správní úřad platebním výměrem a jsou splatné ve lhůtě do 15 dnů ode dne, který následuje po doručení platebního výměru. Obdobně vyměřuje správní úřad nedoplatky na poplatku.
+
+(4) Nezaplatí-li poplatník poplatek ve lhůtách uvedených v odstavcích 2 a 3, správní úřad zastaví zahájené řízení nebo úkon neprovede, nestanoví-li sazebník jinak. Zaplatí-li poplatník poplatek po lhůtách uvedených v odstavcích 2 a 3, postupuje správní úřad v řízení tak, jako by byl poplatek zaplacen včas, pokud již nerozhodl o zastavení řízení. Je-li však poplatek zaplacen nejpozději do konce běhu odvolací lhůty proti tomuto rozhodnutí, pozbývá rozhodnutí platnosti a správní úřad tuto skutečnost vyznačí formou úředního záznamu ve spise.
+
+(5) Správní úřad vydá výsledek provedeného úkonu vždy až po zaplacení poplatku, nestanoví-li sazebník jinak. Lhůty pro vydání rozhodnutí stanovené zvláštními právními předpisy neběží v době ode dne doručení výzvy nebo platebního výměru k zaplacení poplatku až do prokazatelného zaplacení poplatku.
+
+(6) Penále, úrok z prodlení ani úrok za dobu posečkání s placením poplatku, stanovené zvláštním právním předpisem upravujícím správu daní, se neuplatňují.
+
+## § 6 – Placení poplatku
+
+(1) Poplatky se platí v české měně, nestanoví-li tento zákon jinak (odstavce 2, 3 a 5).
+
+(2) České zastupitelské úřady vyměřují procentní poplatky v té cizí měně, ve které je vyjádřen základ poplatku. Vztahuje-li se předmět úkonu, prováděný českým zastupitelským úřadem, k peněžním prostředkům poplatníka a tyto prostředky má český zastupitelský úřad u sebe, může procentní poplatek vybrat srážkou z těchto prostředků.
+
+(3) Poplatky stanovené pevnou částkou mohou české zastupitelské úřady vybírat rovněž
+
+a) v měně státu, v němž mají své sídlo, nebo
+
+b) v měně jiného státu, je-li Českou národní bankou vyhlašován kurs devizového trhu této měny.
+
+(4) Pro účely placení poplatku podle odstavců 2 a 3 provede český zastupitelský úřad přepočet na cizí měnu a naopak podle kursu devizového trhu vyhlášeného Českou národní bankou k poslednímu dni kalendářního měsíce předcházejícího lhůtám splatnosti poplatku stanoveného pevnou částkou nebo vyměřeného platebním výměrem, a to po celý následující kalendářní měsíc. Pro přepočet měn, jejichž kurs devizového trhu Česká národní banka nevyhlašuje, použije český zastupitelský úřad kurs amerického dolaru k místní měně vyhlášený centrální bankou státu, v němž má český zastupitelský úřad sídlo, a to rovněž k poslednímu dni předcházejícího kalendářního měsíce, také po celý následující kalendářní měsíc.
+
+(5) Poplatky placené na českých hraničních přechodech mohou správní úřady vybírat rovněž v cizí měně, kterou tuzemské banky vykupují.
+
+(6) Přepočet české měny na cizí měnu a naopak provádí správní úřad na českém hraničním přechodu podle kursu devizového trhu vyhlášeného Českou národní bankou v pátek týdne, který předchází dni splatnosti poplatku stanoveného pevnou částkou, nebo dni splatnosti poplatku vyměřeného platebním výměrem, a to po celý následující týden. Přeplatek na poplatku (§ 7 odst. 2), který byl zaplacen v cizí měně, může správní úřad vrátit v české měně.
+
+(7) Poplatky přepočítávané z české měny na cizí měnu a naopak se zaokrouhlují na celé měnové jednotky nahoru, nestanoví-li sazebník jinak.
+
+(8) Poplatky se platí na zvláštní účet státního rozpočtu s výjimkou poplatků vyměřovaných a vybíraných orgány územních samosprávných celků, Českou národní bankou, Státním fondem audiovize, českými zastupitelskými úřady a poplatků vyměřovaných a vybíraných na českých hraničních přechodech. Zvláštní účet státního rozpočtu zřizuje u České národní banky příslušný správní úřad se souhlasem Ministerstva financí. U českých zastupitelských úřadů se poplatky platí na účty těchto úřadů v zahraničí a způsob placení poplatků u orgánů územních samosprávných celků si určí tyto orgány podle zvláštního právního předpisu upravujícího správu daní.
+
+(9) U českého zastupitelského úřadu nelze poplatek platit bezhotovostním převodem, neurčí-li tento úřad jinak. Český zastupitelský úřad postupem podle daňového řádu určí a zveřejní poplatky, které lze platit bezhotovostním převodem, a podmínky, které je nutné při těchto platbách dodržet, včetně případného omezení okruhu platebních služeb, které lze při tom použít.
+
+## § 7 – Vracení poplatku
+
+(1) Správní úřad vrátí poplatek v plné výši na žádost osoby, která poplatek zaplatila,
+
+a) nebyl-li proveden požadovaný úkon, vymezený v jednotlivých položkách sazebníku, a nejde-li o poplatek, jehož předmětem je správním úřadem přijatá žádost, návrh, přihláška, podnět, námitka, ohlášení nebo oznámení,
+
+b) byl-li zaplacen poplatek, který není stanoven v sazebníku,
+
+c) byl-li zaplacen poplatek osobou, která není podle tohoto zákona poplatníkem.
+
+(2) Správní úřad vrátí na žádost poplatníka částku, o kterou zaplatil poplatník na poplatku více, než činí sazba stanovená v sazebníku (dále jen „přeplatek na poplatku“).
+
+(3) Proti rozhodnutí o vrácení poplatku a rozhodnutí o vrácení přeplatku na poplatku podle odstavců 1 a 2 není přípustný opravný prostředek.
+
+(4) Zaplatil-li poplatník poplatek až po dni nabytí právní moci rozhodnutí správního úřadu o zastavení řízení podle § 5 odst. 4, vrátí správní úřad na žádost poplatníka nejvýše 50 % zaplaceného poplatku, a to jen přesahuje-li výše poplatku částku 100 Kč.
+
+(5) O vrácení poplatku, jeho části nebo přeplatku na poplatku rozhoduje a poplatek, jeho část nebo přeplatek na poplatku vrací správní úřad, kterému byl poplatek zaplacen.
+
+(6) Odstavce 1 až 5 se při vracení poplatku nepoužijí, stanoví-li sazebník jinak.
+
+## § 8 – Osvobození od poplatku
+
+(1) Od poplatků jsou osvobozeny
+
+a) státní orgány a státní fondy,
+
+b) diplomatická zastupitelství cizích států a delegovaní diplomatičtí zástupci, konzulové z povolání a další osoby, jsou-li státními příslušníky cizích států a požívají-li výsady a imunity podle mezinárodního práva, je-li zaručena vzájemnost a nejde-li o úkony prováděné v osobním zájmu nebo k osobnímu prospěchu těchto osob,
+
+c) územní samosprávné celky a jejich orgány, požadují-li provedení úkonů souvisejících s výkonem státní správy, kterým jsou pověřeny,
+
+d) právnické osoby, požadují-li provedení úkonů souvisejících s výkonem státní správy, kterým jsou pověřeny,
+
+e) fyzické nebo právnické osoby, stanoví-li tak mezinárodní smlouvy a ujednání, kterými je Česká republika vázána.
+
+(2) Od poplatků jsou osvobozeny úkony
+
+a) související s prováděním zvláštních právních předpisů o sociálním zabezpečení, o důchodovém pojištění, o příplatku k důchodu a o zvláštním příspěvku k důchodu, o veřejném zdravotním pojištění, o státní sociální podpoře, o dávce státní sociální pomoci, o nemocenském pojištění, o pojistném na všeobecné zdravotní pojištění, o zaměstnanosti, o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, o sociálně-právní ochraně dětí, o sociálních službách, o dávkách pro osoby se zdravotním postižením, pomoci v hmotné nouzi, ve věcech branné povinnosti občanů a ve věcech civilní služby, s výjimkou poplatku za vydání nebo výměnu průkazu osoby se zdravotním postižením a s výjimkou poplatku za přijetí žádosti o akreditaci vzdělávacího programu podle právních předpisů o sociálních službách a podle zákona o zaměstnanosti,
+
+b) prováděné v důsledku změny nebo opravy názvu obce, města, kraje, ulice, jiného veřejného prostranství, rodného čísla a úkony, prováděné v důsledku rozhodnutí z moci úřední,
+
+c) pro orgány územního samosprávného celku, prováděné úřadem téhož územního samosprávného celku,
+
+d) pro účely dědického řízení, prováděného notářem jako soudním komisařem,
+
+e) pro účely exekučního řízení, prováděného soudním exekutorem, s výjimkou položky 1 bod 1 písmeno m),
+
+f) pro účely využití volebního práva,
+
+g) související s poskytováním dočasné ochrany cizincům,
+
+h) stanoví-li tak mezinárodní smlouvy a ujednání, kterými je Česká republika vázána,
+
+i) prováděné v důsledku živelní pohromy na území České republiky; za živelní pohromu se pro účely tohoto zákona považují nezaviněný požár a výbuch, blesk, vichřice a rychlost větru nad 75 km/h, povodeň, záplava, krupobití, sesouvání půdy, sesuny půdy a skalní zřícení, pokud k nim nedošlo v souvislosti s průmyslovým nebo stavebním provozem, sesouvání nebo zřícení lavin a zemětřesení dosahující alespoň 4. stupně Richterovy mezinárodní stupnice udávající makroseismické účinky zemětřesení.
+
+(3) Na výsledku úkonu osvobozeného podle odstavce 2 písm. a) až i) vyznačí správní úřad účel, k němuž byl proveden.
+
+(4) Od poplatků jsou osvobozeny i další osoby nebo úkony, a to v rozsahu stanoveném v sazebníku.
+
+(5) V rozsahu stanoveném v sazebníku se správní úřad zmocňuje snížit nebo zvýšit poplatek anebo upustit od jeho vybrání.
+
+## § 9 – Sleva na poplatku
+
+Správní úřad sníží poplatek o 20 %, nejvýše však o 1 000 Kč, pokud je žádost nebo jiný návrh k provedení úkonu podán na elektronickém formuláři zveřejněném podle zákona upravujícího právo na digitální služby. To neplatí, pokud žádost nebo jiný návrh nelze podat jinak než na tomto elektronickém formuláři. Sleva na poplatku se zaokrouhluje na celé koruny nahoru.
+
+## § 10 – Dohled finančních úřadů na příjmy státního rozpočtu
+
+(1) Finanční úřady kontrolují u správních úřadů, zda poplatky, které jsou příjmem státního rozpočtu, jsou včas a ve výši odpovídající tomuto zákonu vyměřovány, vybírány, placeny, popřípadě vraceny. Místní příslušnost finančních úřadů se řídí sídlem správního úřadu, u něhož se kontrola provádí.
+
+(2) Zjistí-li finanční úřad nesprávný postup, upozorní v zápisu z kontroly správní úřad na nedostatky, na povinnost vymáhat nedoplatky na poplatcích a stanoví lhůtu ke zjednání nápravy.
+
+(3) Bylo-li právo vymáhat nedoplatek na poplatku promlčeno, uloží finanční úřad správnímu úřadu, rozhodnutím podle správního řádu, zaplatit nedoplatek místo poplatníka do státního rozpočtu, a to z rozpočtových prostředků tohoto správního úřadu.
+
+## § 11 – Přechodné ustanovení
+
+Bylo-li řízení ve věci předmětu poplatku zahájeno přede dnem nabytí účinnosti tohoto zákona, vybere se poplatek podle dosavadních právních předpisů, a to i v případech, kdy se poplatek stane splatným po dni nabytí účinnosti tohoto zákona.
+
+## § 12 – Zmocňovací ustanovení
+
+Po vyhlášení stavu ohrožení státu nebo válečného stavu může vláda nařízením na dobu trvání stavu ohrožení nebo válečného stavu v nezbytném rozsahu pro zajištění nouzového nebo válečného státního rozpočtu<sup>1</sup>)
+
+a) provést úpravu předmětů a sazeb poplatků stanovených v sazebníku,
+
+b) osvobodit od poplatků ozbrojené síly, ozbrojené bezpečnostní sbory, hasičské záchranné sbory a havarijní službu.
+
+## § 13 – Zrušovací ustanovení
+
+Zrušuje se:
+
+1\. Zákon č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů.
+
+2\. Vyhláška č. 81/1995 Sb., o osvobození od správních poplatků.
+
+3\. Vyhláška č. 270/1998 Sb., o osvobození od správního poplatku.
+
+## § 14 – Účinnost
+
+(1) Tento zákon nabývá účinnosti třicátý den po jeho vyhlášení, s výjimkou uvedenou v odstavci 2.
+
+(2) Položky 117A a 144A sazebníku nabývají účinnosti dnem odstranění kontrol na státních hranicích, stanoveném pro Českou republiku v rozhodnutí Rady Evropské unie o vstupu v platnost Úmluvy, podepsané dne 19. června 1990 v Schengenu, mezi Belgickým královstvím, Spolkovou republikou Německo, Francouzskou republikou, Lucemburským velkovévodstvím a Nizozemským královstvím, k provedení dohody, podepsané dne 14. června 1985, o postupném odstraňování kontrol na společných hranicích.
+
+(3) Dnem odstranění kontrol na státních hranicích, stanoveném pro Českou republiku v rozhodnutí Rady Evropské unie o vstupu v platnost Úmluvy, podepsané dne 19. června 1990 v Schengenu, mezi Belgickým královstvím, Spolkovou republikou Německo, Francouzskou republikou, Lucemburským velkovévodstvím a Nizozemským královstvím, k provedení dohody, podepsané dne 14. června 1985, o postupném odstraňování kontrol na společných hranicích, pozbývají platnosti položky 117 a 144 sazebníku.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Gross v. r.
+
+### Příloha
+
+**Sazebník**
+
+#### ČÁST I
+
+**Položka 1**
+
+<table><tbody><tr><td>1. Přijetí žádosti nebo návrhu</td><td></td><td></td></tr><tr><td>a) o vyslovení neúčinnosti doručení nebo navrácení lhůty v předešlý stav</td><td>Kč</td><td>300</td></tr><tr><td>b) o prodloužení lhůty pro podání daňového přiznání, hlášení nebo vyúčtování</td><td>Kč</td><td>300</td></tr><tr><td>c) o prominutí příslušenství daně</td><td>Kč</td><td>1 000</td></tr><tr><td>d) o povolení posečkání úhrady daně, popřípadě rozložení její úhrady na splátky, nebo o změnu tohoto rozhodnutí </td><td>Kč</td><td>400</td></tr><tr><td>e) na delegování místní příslušnosti na jiného správce daně</td><td>Kč</td><td>300</td></tr><tr><td>f) o vrácení daní při dovozu nebo o prominutí celního nedoplatku</td><td>Kč</td><td>300</td></tr><tr><td>g) o povolení úlevy na dani nebo cle</td><td>Kč</td><td>1 000</td></tr><tr><td>h) na vydání povolení podle zákona o spotřebních daních</td><td>Kč</td><td>1 000</td></tr><tr><td>i) na změnu povolení podle zákona o spotřebních daních</td><td>Kč</td><td>200</td></tr><tr><td>j) o vydání povolení snížit zajištění spotřební daně nebo upustit od jeho poskytnutí podle zákona upravujícího spotřební daně nebo o snížení úhrady nebo zajištění podle zákona upravujícího spotřební daně </td><td>Kč</td><td>1 000</td></tr><tr><td>k) na vydání povolení k prodeji za ceny bez spotřební daně podle zákona o spotřebních daních</td><td>Kč</td><td>2 000</td></tr><tr><td>l) na vydání povolení k prodeji za ceny bez daně z přidané hodnoty podle zákona o dani z přidané hodnoty</td><td>Kč</td><td>2 000</td></tr><tr><td>m) o informaci pro účely exekučního řízení, prováděného soudním exekutorem </td><td>Kč</td><td>2 000</td></tr><tr><td>n) o vydání rozhodnutí o závazném posouzení podle daňového řádu</td><td>Kč</td><td>10 000</td></tr><tr><td>2. Vydání potvrzení</td><td></td><td></td></tr><tr><td>a) o bezdlužnosti nebo o stavu osobního daňového účtu</td><td>Kč</td><td>100</td></tr><tr><td>b) o daňovém domicilu</td><td>Kč</td><td>100</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle bodu 1 písm. n) jsou osvobozeny žádosti o závazné informace o sazebním zařazení zboží nebo žádosti týkající se závazné informace o původu zboží podle nařízení Evropského parlamentu a Rady (EU) č. 952/2013 ze dne 9. října 2013, kterým se stanoví celní kodex Unie.</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Přijetí žádostí uvedených v bodě 1 písmenech c) a g) této položky, pokud požadovaná úleva činí trojnásobek nebo méně než trojnásobek stanovené sazby poplatku.</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Podle této položky postupují správní úřady, které vedou řízení podle zvláštního právního předpisu upravujícího správu daní, podle celního zákona, zákona o spotřebních daních nebo zákona o dani z přidané hodnoty. Poplatky se platí u toho správního úřadu, který je příslušný o žádosti nebo návrhu rozhodnout. Daní se podle této položky pro účely tohoto zákona rozumí příjmy státního rozpočtu, Národního fondu, státních fondů nebo rozpočtů územních samosprávných celků, ve smyslu zvláštního právního předpisu upravujícího správu daní.</td></tr><tr><td colspan="3">2. Poplatky podle bodu 1 této položky se vybírají za každou daň, které se žádost daňového subjektu týká, a za každý daňový subjekt, podává-li jednu žádost více daňových subjektů. Poplatek se vybírá jen jednou, jde-li o daň ze společného předmětu zdanění.</td></tr><tr><td colspan="3">3. Je-li jednou žádostí požadováno provedení více úkonů, uváděných pod různými písmeny této položky, vybírá se poplatek ve výši součtu sazeb poplatků.</td></tr></tbody></table>
+
+**Položka 2**
+
+<table><tbody><tr><td>a) Nahlédnutí na konkrétní zápis v matriční knize, nahlédnutí do podkladů uložených ve sbírce listin ke konkrétnímu matričnímu zápisu nebo nahlédnutí do druhopisu matriční knihy vedené do 31. prosince 1958 na konkrétní zápis</td><td>Kč</td><td>50</td></tr><tr><td colspan="3">b) Nahlédnutí do živnostenského</td></tr><tr><td>nebo leteckého rejstříku</td><td>Kč</td><td>20</td></tr><tr><td></td><td colspan="2">každý subjekt, do jehož zápisu se nahlíží</td></tr><tr><td>c) Ohlášení změny místa trvalého pobytu</td><td>Kč</td><td>50</td></tr><tr><td></td><td colspan="2">za osoby uvedené na jednom při hlasovacím lístku</td></tr><tr><td>d) Podání návrhu na zrušení údaje o místu trvalého pobytu podle zákona o evidenci obyvatel a podání návrhu na zrušení údaje o místu hlášeného pobytu cizince na území České republiky podle zákona o pobytu cizinců na území České republiky a zákona o azylu za každou osobu</td><td>Kč</td><td>100</td></tr><tr><td>e) Ohlášení ukončení trvalého pobytu na území České republiky</td><td>Kč</td><td>100</td></tr><tr><td>f) Vyhledávání v matričních knihách, sbírkách listin nebo v druhopisech matričních knih vedených do 31. prosince 1958</td><td>Kč</td><td>200</td></tr><tr><td></td><td colspan="2">za každou i započatou hodinu</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">1.<b></b>Od poplatku podle písmen a) a f) této položky jsou osvobozeny církve, jde-li o matriky vedené těmito církvemi do 31. prosince 1949.</td></tr><tr><td colspan="3">2. Od poplatku podle písmene c) jsou osvobozeni osoby mladší 15 let.</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Nahlédnutí do archiválií a vyhledávání v archiváliích, kterými jsou i matriky uložené ve státních archivech a v archivech měst.</td></tr></tbody></table>
+
+**Položka 3**
+
+<table><tbody><tr><td>a) Vydání stejnopisu, opisu, kopie, fotokopie nebo výpisu z úředních spisů, ze soukromých spisů v úřední úschově, z rejstříků, z registrů, z knih, ze záznamů, z evidencí, z listin nebo z dalšího písemného a obrazového materiálu, popřípadě sdělení o negativním nálezu</td><td>Kč</td><td>50</td></tr><tr><td></td><td colspan="2">za každou i započatou stránku</td></tr><tr><td></td><td>Kč</td><td>40</td></tr><tr><td></td><td colspan="2">na technickém nosiči dat</td></tr><tr><td></td><td>Kč</td><td>30</td></tr><tr><td colspan="3">za první stránku a Kč 10 za každou další i započatou stránku,<br> je-li pořizována na kopírovacím stroji nebo na tiskárně počítače</td></tr><tr><td>b) Vydání stejnopisu rodného, oddacího nebo úmrtního listu nebo dokladu o registrovaném partnerství<sup>2b</sup>), anebo osvědčení o rodném čísle</td><td>Kč</td><td>300</td></tr><tr><td rowspan="2">c) Vydání kopie zpřístupněného dokumentu bývalé Státní bezpečnosti nebo jeho části<sup>3</sup>)</td><td>Kč</td><td>5</td></tr><tr><td colspan="2">za každou i započatou stránku</td></tr><tr><td rowspan="4">d) Vydání ověřeného výstupu z informačního systému veřejné správy</td><td>Kč</td><td>100</td></tr><tr><td colspan="2">za první stránku</td></tr><tr><td>Kč</td><td>50 </td></tr><tr><td colspan="2">za každou další i započatou stránku</td></tr><tr><td>e) Přijetí žádosti o zápis oprávnění k zastupování nebo zápis jeho změny na kontaktním místě veřejné správy podle zákona o základních registrech</td><td>Kč</td><td>100</td></tr><tr><td>f) Přijetí žádosti o zápis zániku oprávnění k zastupování na kontaktním místě veřejné správy podle zákona o základních registrech</td><td>Kč</td><td>50</td></tr><tr><td>g) Podání žádosti o zprostředkování kontaktu<sup>2c</sup>) za každou kontaktovanou osobu</td><td>Kč</td><td>500</td></tr><tr><td>h) Přijetí žádosti o vydání osvědčení podnikatele v případě, že u něho utajovaná informace<sup>2d</sup>)</td><td></td><td></td></tr><tr><td>– nevzniká, ani mu není poskytována, ale ke které mají přístup zaměstnanci podnikatele nebo osoby jednající jménem podnikatele nebo za podnikatele, a to v souvislosti s výkonem pracovní nebo jiné činnosti pro podnikatele na základě smlouvy</td><td>Kč</td><td>5 000</td></tr><tr><td>– vzniká, nebo je mu poskytnuta</td><td>Kč</td><td>10 000</td></tr><tr><td>i) Poskytnutí údajů z evidence dopravních nehod</td><td>Kč</td><td>100</td></tr><tr><td>j) vydání vícejazyčného standardního formuláře</td><td>Kč</td><td>100</td></tr><tr><td>k) Přijetí žádosti o vydání osvědčení podle zákona, kterým se stanoví některé další předpoklady pro výkon některých funkcí ve státních orgánech a organizacích České a Slovenské Federativní Republiky, České republiky a Slovenské republiky</td><td>Kč</td><td>200</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">1. Od poplatku za výpisy z matrik jsou osvobozeny církve, jde-li o matriky vedené těmito církvemi do 31. prosince 1949.</td></tr><tr><td colspan="3">2. Od poplatku podle písmene a) této položky jsou osvobozeny nadace a nadační fondy, spolky a pobočné spolky, odborové organizace, obecně prospěšné společnosti a ústavy, pokud jsou tyto subjekty <i></i>založené k poskytování obecně prospěšných činností v oblastech ochrany životního prostředí, ochrany mládeže, ochrany zvířat, sociálních služeb, sociální péče a pomoci v hmotné nouzi, zdravotnictví, ochrany života a zdraví osob, kultury, tělovýchovy a sportu, vědy a výzkumu, vzdělávání a výchovy, požární ochrany a ochrany kulturního dědictví a souvisí-li prováděný úkon s činností, pro níž byly tyto subjekty založeny. Pro účely vedení Seznamu ochrany přírody je od poplatku podle písmene a) této položky osvobozena Agentura ochrany přírody a krajiny.</td></tr><tr><td colspan="3">3. Od poplatku podle písmene a) této položky je osvobozeno vydání listiny potřebné k provedení zákona č. 255/1946 Sb., o příslušnících československé armády v zahraničí a o některých jiných účastnících národního boje za osvobození, ve znění zákona č. 101/1964 Sb., k provedení zákona č. 170/2002 Sb., o válečných veteránech a k provedení zákona č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu.</td></tr><tr><td colspan="3">4. Od poplatku podle písmene a) této položky jsou osvobozeny registrované církve a náboženské společnosti, právnické osoby zřízené nebo založené jako součásti registrovaných církví a náboženských společností, právnické osoby zřízené nebo založené za účelem podpory činnosti registrované církve a náboženské společnosti k duchovním, pastoračním, charitativním, zdravotnickým, vzdělávacím nebo administrativním účelům a Náboženská matice, souvisí-li úkon s prováděním zákona č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi).</td></tr><tr><td colspan="3">5. Od poplatku podle písmene a) této položky jsou osvobozeny výpisy provozních údajů vedených v základním registru obyvatel.</td></tr><tr><td colspan="3"><b>Zmocnění</b></td></tr><tr><td colspan="3">1. Správní úřad může poplatek podle písmene a) této položky účastníku správního řízení na jeho žádost snížit nebo upustit od jeho vybrání, a to z důvodů hodných zvláštního zřetele.</td></tr><tr><td colspan="3">2. Správní úřad může snížit poplatek za vydání ověřeného výstupu z informačního systému veřejné správy až o 90 % z částky podle písmene d) této položky.</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Vydání prvního stejnopisu, opisu, kopie, fotokopie nebo výpisu, uvedené v písmenu a) této položky, z daňového spisu vedeného podle zvláštního právního předpisu upravujícího správu daní a poplatků, nejde-li o listinu nebo záznam na technickém nosiči dat, které poplatník - daňový subjekt předložil správnímu úřadu nebo již jednou obdržel od správního úřadu.</td></tr><tr><td colspan="3">2. Vydání prvního rodného, úmrtního nebo oddacího listu, vydání prvního dokladu o registrovaném partnerství, anebo vydání těchto matričních dokladů po provedení dodatečného záznamu o matriční skutečnosti<sup>6a</sup>), jíž se mění zápis v matriční knize již provedený.</td></tr><tr><td colspan="3">3. Vydání prvního výpisu uvedeného v písmenu a) této položky z veřejných částí Rejstříku registrovaných církví a náboženských společností, z Rejstříku svazů církví a náboženských společností a z Rejstříku evidovaných právnických osob.</td></tr><tr><td colspan="3">4. Poskytování údajů z databáze bonitovaných půdně ekologických jednotek (BPEJ).</td></tr><tr><td colspan="3">5. Přijetí nové žádosti o vydání osvědčení podnikatele, má-li mít podnikatel přístup k utajované informaci i bezprostředně po uplynutí doby platnosti jeho dosavadního osvědčení podnikatele, pokud je žádost podána před uplynutím doby platnosti dosavadního osvědčení podnikatele ve lhůtách podle jiného právního předpisu<sup>2d</sup>).</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Poplatek podle písmene a) této položky se vybírá za každé vozidlo, kterého se výpis z registru vozidel týká.</td></tr><tr><td colspan="3">2. Každou započatou stránkou se pro účely tohoto zákona rozumí vydaná stránka formátu A4 a menší.</td></tr><tr><td colspan="3">3. V případě vydání ověřeného výstupu provozních údajů vedených v základním registru obyvatel se poplatek za další i započatou stránku podle písmene d) této položky nevybere za druhou stránku tohoto ověřeného výstupu.</td></tr><tr><td colspan="3">4. Při přijetí žádosti na kontaktním místě veřejné správy podle písmen e) a f) vybírá poplatek kontaktní místo veřejné správy a je jeho příjmem.</td></tr></tbody></table>
+
+Položka 3A
+
+<table><tbody><tr><td>Přijetí žádosti o</td><td></td><td></td></tr><tr><td>a) schválení kodexu chování podle § 54a písm. a) zákona o zpracování osobních údajů</td><td>Kč</td><td>30 000</td></tr><tr><td>b) změnu v kodexu chování podle § 54a písm. b) zákona o zpracování osobních údajů</td><td>Kč</td><td>5 000</td></tr><tr><td>c) udělení akreditace subjektu pro monitorování kodexu chování podle § 54a písm. c) zákona o zpracování osobních údajů</td><td>Kč</td><td>15 000</td></tr><tr><td>d) prodloužení akreditace subjektu pro monitorování kodexu chování podle § 54a písm. c) zákona o zpracování osobních údajů</td><td>Kč</td><td>5 000</td></tr><tr><td><b>Osvobození</b></td><td></td><td></td></tr><tr><td colspan="3">Od poplatku podle této položky jsou osvobozeny nadace a nadační fondy, spolky a pobočné spolky, odborové organizace, právnické osoby založené jako součásti registrovaných církví a náboženských společností, obecně prospěšné společnosti a ústavy, pokud jsou tyto subjekty založené k poskytování obecně prospěšných činností a souvisí-li prováděný úkon s činností, pro níž byly tyto subjekty založeny.</td></tr></tbody></table>
+
+**Položka 4**
+
+<table><tbody><tr><td>a) Ověření stejnopisu, opisu, kopie, fotokopie nebo výpisu z úředních spisů, ze soukromých spisů v úřední úschově, z rejstříků, z registrů, z knih, ze záznamů, z evidencí, z listin nebo z dalšího písemného a obrazového materiálu</td><td>Kč</td><td>30</td></tr><tr><td></td><td colspan="2">za každou i započatou stránku</td></tr><tr><td>b) Provedení autorizované konverze dokumentů do elektronické podoby za každou i započatou stránku konvertované listiny </td><td>Kč</td><td>30</td></tr><tr><td>c) Provedení autorizované konverze dokumentů do listinné podoby za každou i započatou stránku konvertované listiny </td><td>Kč</td><td>30</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">1. Od poplatku podle této položky je osvobozeno ověření listiny potřebné k provedení zákona č. 255/1946 Sb., o příslušnících československé armády v zahraničí a o některých jiných účastnících národního boje za osvobození, ve znění zákona č. 101/1964 Sb., k provedení zákona č. 170/2002 Sb., o válečných veteránech, a k provedení zákona č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu.</td></tr><tr><td colspan="3">2. Od poplatku podle této položky jsou osvobozeny nadace a nadační fondy, spolky a pobočné spolky, odborové organizace, obecně prospěšné společnosti a ústavy, pokud jsou tyto subjekty založené k poskytování obecně prospěšných činností v oblastech ochrany životního prostředí, ochrany mládeže, ochrany zvířat, sociálních služeb, sociální péče a pomoci v hmotné nouzi, zdravotnictví, ochrany života a zdraví osob, kultury, tělovýchovy a sportu, vědy a výzkumu, vzdělávání a výchovy, požární ochrany a ochrany kulturního dědictví a souvisí-li prováděný úkon s činností, pro níž byly tyto subjekty založeny.</td></tr><tr><td colspan="3"><b>3.</b> Od poplatku podle této položky jsou osvobozeny registrované církve a náboženské společnosti a právnické osoby zřízené nebo založené jako součásti registrovaných církví a náboženských společností, právnické osoby zřízené nebo založené za účelem podpory činnosti registrované církve a náboženské společnosti k duchovním, pastoračním, charitativním, zdravotnickým, vzdělávacím nebo administrativním účelům a Náboženská matice, souvisí-li úkon s prováděním zákona č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi).</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Ověření shody pořízené listiny (stejnopisu, opisu, kopie, fotokopie nebo výpisu) z daňového spisu vedeného podle zvláštního právního předpisu upravujícího správu daní a poplatků, nejde-li o listinu, kterou poplatník - daňový subjekt předložil nebo již jednou obdržel od správního úřadu.</td></tr></tbody></table>
+
+**Položka 5**
+
+<table><tbody><tr><td>a) Ověření podpisu nebo otisku razítka na dokumentu nebo na jeho stejnopisu</td><td>Kč</td><td>50</td></tr><tr><td></td><td colspan="2">za každý podpis nebo otisk razítka</td></tr><tr><td>b) Ověření (apostila) podpisu a otisku razítka na listině za účelem jejího použití v zahraničí</td><td>Kč</td><td>600</td></tr><tr><td>c) Ověření podpisu nebo otisku razítka na vysokoškolském diplomu a dodatku k diplomu nebo obdobném dokladu, vydaném vysokou školou v České republice, za účelem použití daného dokladu v zahraničí</td><td>Kč</td><td>200</td></tr><tr><td></td><td colspan="2">a každý podpis nebo otisk razítka</td></tr><tr><td>d) Ověření úředního podpisu nebo úředního otisku razítka na listině nebo na jejím stejnopisu za účelem jejího použití v zahraničí</td><td>Kč</td><td>200</td></tr><tr><td></td><td colspan="2">za každý podpis nebo otisk razítka</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">1. Od poplatku podle písmene a) a d) této položky je osvobozeno ověření podpisu na listině potřebné k provedení zákona č. 255/1946 Sb., o příslušnících československé armády v zahraničí a o některých jiných účastnících národního boje za osvobození, ve znění zákona č. 101/1964 Sb., k provedení zákona č. 170/2002 Sb., o válečných veteránech a k provedení zákona č. 262/2011 Sb., o účastnících odboje a odporu proti komunismu.</td></tr><tr><td colspan="3">2. Od poplatku podle písmene a) a d) této položky jsou osvobozeny nadace a nadační fondy, spolky a pobočné spolky, odborové organizace, obecně prospěšné společnosti a ústavy, pokud jsou tyto subjekty založené k poskytování obecně prospěšných činností v oblastech ochrany životního prostředí, ochrany mládeže, ochrany zvířat, sociálních služeb, sociální péče a pomoci v hmotné nouzi, zdravotnictví, ochrany života a zdraví osob, kultury, tělovýchovy a sportu, vědy a výzkumu, vzdělávání a výchovy, požární ochrany a ochrany kulturního dědictví a souvisí-li prováděný úkon s činností, pro níž byly tyto subjekty založeny.</td></tr><tr><td colspan="3">3. Od poplatku podle písmene a) a d) této položky jsou osvobozeni občané se zvlášť těžkým zdravotním postižením, kteří jsou držiteli průkazu ZTP nebo ZTP/P.</td></tr><tr><td colspan="3"><b>Poznámky:</b></td></tr><tr><td colspan="3">1. Poplatek podle písmene c) této položky vybírá Ministerstvo školství, mládeže a tělovýchovy, Ministerstvo obrany nebo Ministerstvo vnitra.</td></tr><tr><td colspan="3">2. Zahrnuje-li úkon uvedený v písmenech a), c) a d) současné ověření podpisu a otisku razítka, vybírá se poplatek jen jednou.</td></tr></tbody></table>
+
+**Položka 6**
+
+<table><tbody><tr><td>a) Zápis zemědělského podnikatele do evidence<sup>8</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>b) Změna zápisu zemědělského podnikatele v evidenci<sup>8</sup>)</td><td>Kč</td><td>500</td></tr><tr><td>c) Změna zápisu identifikačních údajů v evidenci zemědělského podnikatele<sup>8</sup>)</td><td>Kč</td><td>100</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle písmene a) této položky je osvobozen zápis osoby provozující zemědělskou výrobu podle zákona č. 105/1990 Sb., o soukromém podnikání občanů, ve znění zákona č. 219/1991 Sb. a zákona č. 455/1991 Sb., pokud se tato osoba zaeviduje do evidence zemědělského podnikatele ve lhůtě a způsobem stanoveným zvláštním právním předpisem<sup>8</sup>).</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Změna uvedená v písmenu c) této položky, která navazuje na změny již provedené v obchodním rejstříku nebo jiném rejstříku.</td></tr></tbody></table>
+
+**Položka 7**
+
+| Přijetí žádosti o vydání | | |
+|---|---|---|
+| a) nebo o prodloužení osvědčení k výkonu zdravotnického povolání bez odborného dohledu podle zvláštních právních předpisů o způsobilosti k výkonu zdravotnických povolání<sup>9</sup>) | Kč | 100,- |
+| b) rozhodnutí o uznání odborné kvalifikace podle zvláštních právních předpisů o způsobilosti k výkonu zdravotnických povolání<sup>9</sup>) | Kč | 1 000 |
+| c) rozhodnutí o uznání jiné způsobilosti podle zvláštních právních předpisů o způsobilosti k výkonu zdravotnických povolání<sup>9</sup>) | Kč | 500 |
+| d) rozhodnutí o uznání způsobilosti k výkonu zdravotnického povolání podle zvláštních právních předpisů o způsobilosti k výkonu zdravotnických povolání<sup>9</sup>) | Kč | 500 |
+| e) rozhodnutí v akreditačním řízení podle zvláštních právních předpisů o způsobilosti k výkonu zdravotnických povolání<sup>9</sup>) | Kč | 1 000 |
+| f) rozhodnutí nebo osvědčení jiného než uvedeného v písmenech a) až e) podle zvláštních právních předpisů o způsobilosti k výkonu zdravotnických povolání<sup>9</sup>) | Kč | 500 |
+
+**Položka 8**
+
+<table><tbody><tr><td>1. Přijetí žádosti o vydání občanského průkazu ve lhůtě do 24 hodin pracovního dne osobám, které dosáhly věku 15 let</td><td></td><td></td></tr><tr><td>a) při podání žádosti a převzetí u Ministerstva vnitra</td><td>Kč</td><td>1 000</td></tr><tr><td>b) při podání žádosti u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>500</td></tr><tr><td>c) při převzetí u Ministerstva vnitra, pokud byla žádost podána u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>500</td></tr><tr><td>2. Přijetí žádosti o vydání občanského průkazu ve lhůtě do 24 hodin pracovního dne osobám mladším 15 let</td></tr><tr><td>a) při podání žádosti a převzetí u Ministerstva vnitra</td><td>Kč</td><td>500</td></tr><tr><td>b) při podání žádosti u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>250</td></tr><tr><td>c) při převzetí u Ministerstva vnitra, pokud byla žádost podána u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>250</td></tr><tr><td>3. Přijetí žádosti o vydání občanského průkazu ve lhůtě do 5 pracovních dnů osobám, které dosáhly věku 15 let</td></tr><tr><td>a) při podání žádosti a převzetí u Ministerstva vnitra</td><td>Kč</td><td>500</td></tr><tr><td>b) při podání žádosti u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>250</td></tr><tr><td>c) při převzetí u Ministerstva vnitra, pokud byla žádost podána u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>250</td></tr><tr><td>d) při podání žádosti a převzetí u stejného obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>500</td></tr><tr><td>4. Přijetí žádosti o vydání občanského průkazu ve lhůtě do 5 pracovních dnů osobám mladším 15 let</td></tr><tr><td>a) při podání žádosti a převzetí u Ministerstva vnitra</td><td>Kč</td><td>300</td></tr><tr><td>b) při podání žádosti u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>200</td></tr><tr><td>c) při převzetí u Ministerstva vnitra, pokud byla žádost podána u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>100</td></tr><tr><td>d) při podání žádosti a převzetí u stejného obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>300</td></tr><tr><td>5. Přijetí žádosti o vydání dočasného občanského průkazu bezprostředně po nabytí státního občanství České republiky</td></tr><tr><td>a) osobám, které dosáhly věku 15 let</td><td>Kč</td><td>200</td></tr><tr><td>b) osobám mladším 15 let</td><td>Kč</td><td> 100</td></tr><tr><td>6. Přijetí žádosti o vydání občanského průkazu osobě mladší 15 let</td><td>Kč</td><td>100</td></tr><tr><td>7. Přijetí žádosti o vydání občanského průkazu osobě, která dosáhla věku 15 let a nemá trvalý pobyt na území České republiky</td><td>Kč</td><td>200</td></tr><tr><td>8. Přijetí žádosti o vydání občanského průkazu za občanský průkaz poškozený, zničený, ztracený, odcizený, zneplatněný z důvodu nebezpečí zneužití dat pro elektronické využití občanského průkazu nebo obsahující neoprávněně provedené zápisy</td><td>Kč</td><td>200</td></tr><tr><td>9. Přijetí žádosti o vydání občanského průkazu z jiného osobního důvodu v době delší než půl roku před uplynutím platnosti dosavadního občanského průkazu</td><td>Kč</td><td>200</td></tr><tr><td>10. Umožnění převzetí občanského průkazu u obecního úřadu obce s rozšířenou působností, který osoba uvedla v žádosti</td><td>Kč</td><td>100</td></tr><tr><td>11. Přijetí žádosti o vydání osvědčení o státním občanství České republiky</td><td>Kč</td><td>100</td></tr><tr><td>12. Přijetí žádosti o vydání potvrzení o národnosti</td><td>Kč</td><td>100</td></tr><tr><td>13. Přijetí žádosti o udělení státního občanství České republiky zletilé fyzické osobě</td><td>Kč</td><td>2 000</td></tr><tr><td>14. Přijetí žádosti o udělení státního občanství České republiky nezletilé fyzické osobě</td><td>Kč</td><td>500</td></tr><tr><td>15. Přijetí žádosti o udělení státního občanství České republiky azylantovi</td><td>Kč</td><td>500</td></tr><tr><td>16. Přijetí prohlášení o nabytí státního občanství České republiky podle § 31, 32, 35 a 36 zákona o státním občanství České republiky</td><td>Kč</td><td>500</td></tr><tr><td>17. Poskytnutí součinnosti při správě státních dat pro elektronické využití občanského průkazu obecním úřadem obce s rozšířenou působností</td><td>Kč</td><td>100</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku za vydání občanského průkazu je osvobozena osoba, u níž nebylo prokázáno, že nefunkčnost nosiče dat byla způsobena okolnostmi, o nichž osoba, jíž je občanský průkaz vydán, prokazatelně věděla, že mohou způsobit poškození nebo nefunkčnost nosiče dat.</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Přijetí žádosti o vydání občanského průkazu náhradou za občanský průkaz, ve kterém správní úřad uvedl nesprávné zápisy nebo vydal průkaz s výrobní vadou.</td></tr><tr><td colspan="3">2. Přijetí žádosti o vydání osvědčení o státním občanství pro účely vydání prvního občanského průkazu.</td></tr><tr><td colspan="3">3. Přijetí žádosti o vydání občanského průkazu z jiného osobního důvodu v době delší než půl roku před uplynutím platnosti dosavadního občanského průkazu, jestliže dosavadní občanský průkaz má dobu platnosti delší než 10 let.</td></tr><tr><td colspan="3">4. Přijetí žádosti o vydání občanského průkazu namísto občanského průkazu se strojově čitelnými údaji a s kontaktním elektronickým čipem vydaného přede dnem 1. července 2018.</td></tr><tr><td colspan="3">5. Přijetí žádosti o vydání občanského průkazu bez strojově čitelných údajů podle zákona č. 328/1999 Sb., o občanských průkazech, ve znění pozdějších předpisů, s dobou platnosti 1 měsíc, o který bylo požádáno v době od 29. července 2021 do 1. srpna 2021.</td></tr><tr><td colspan="3"><b>Zmocnění</b></td></tr><tr><td colspan="3">Správní úřad může z důvodů hodných zvláštního zřetele snížit poplatek podle bodu 13 této položky až na částku 500 Kč a poplatky podle bodů 14 a 15 této položky až na částku 100 Kč.</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Při podání žádosti o vydání občanského průkazu, i když se k danému úkonu vztahuje více správních poplatků, se vždy vybere pouze jediný, a to nejvyšší správní poplatek.</td></tr></tbody></table>
+
+**Položka 9**
+
+<table><tbody><tr><td>a) vydání průkazu osoby se zdravotním postižením, včetně vydání tohoto průkazu za nový z důvodu změn údajů uvedených na průkaze</td><td>Kč</td><td>30</td></tr><tr><td>b) Přijetí žádosti o vydání povolení k zaměstnání cizinci</td><td>Kč</td><td>500</td></tr><tr><td>c) Přijetí žádosti o prodloužení platnosti vydaného povolení k zaměstnání cizinci</td><td>Kč</td><td>250</td></tr><tr><td>d) Vydání povolení ke zprostředkování zaměstnání za účelem výkonu práce fyzických osob pro uživatele, kterým se rozumí jiná právnická nebo fyzická osoba, která práci přiděluje a dohlíží na její provedení</td><td>Kč</td><td>25 000</td></tr><tr><td>e) Vydání opakovaného povolení ke zprostředkování zaměstnání za účelem výkonu práce fyzických osob pro uživatele, kterým se rozumí jiná právnická nebo fyzická osoba, která práci přiděluje a dohlíží na její provedení</td><td>Kč</td><td>15 000</td></tr><tr><td>f) Vydání povolení ke zprostředkování zaměstnání spočívající ve vyhledání zaměstnání pro fyzickou osobu, která se o práci uchází, vyhledání zaměstnanců pro zaměstnavatele, který hledá nové pracovní síly, a v poradenské a informační činnosti v oblasti pracovních příležitostí</td><td>Kč</td><td>5 000</td></tr><tr><td>g) vydání průkazu osoby se zdravotním postižením náhradou za průkaz poškozený, zničený, ztracený nebo odcizený, nestanoví-li zvláštní právní předpis jinak</td><td>Kč</td><td>200 </td></tr><tr><td><b>Poznámka</b></td><td></td><td></td></tr><tr><td colspan="3">Pro účely úkonů podle písmen b) a c) této položky se cizincem rozumí osoba, které k výkonu práce na území České republiky je vydáváno povolení k zaměstnání.</td></tr></tbody></table>
+
+**Položka 10**
+
+<table><tbody><tr><td>a) Přijetí žádosti o vydání výpisu z evidence Rejstříku trestů</td><td>Kč</td><td>100</td></tr><tr><td>b) Vydání osvědčení o tuzemském právu </td><td>Kč</td><td>2 000</td></tr><tr><td>c) Provedení identifikace a sepsání veřejné listiny o identifikaci<sup>9a</sup>)</td><td>Kč</td><td>200</td></tr><tr><td>d) Přijetí žádosti o uznání platnosti nebo vydání osvědčení o uznání rovnocennosti dokladu o dosažení základního, středního nebo vyššího odborného vzdělání získaného v zahraniční škole</td><td>Kč</td><td>3 000</td></tr><tr><td>e) Zápis do seznamu insolvenčních správců</td><td>Kč</td><td>5 000</td></tr><tr><td>f) Přijetí žádosti o prodloužení povolení podle zákona o insolvenčních správcích</td><td>Kč</td><td>5 000</td></tr><tr><td>g) Přijetí žádosti o zápis do seznamu mediátorů</td><td>Kč</td><td>5 000</td></tr><tr><td colspan="3"><b>Poznámka:</b></td></tr><tr><td colspan="3">Za přijetí žádosti o vydání výpisu z evidence Rejstříku trestů u českého zastupitelského úřadu, vybírá poplatek český zastupitelský úřad podle položky 162 tohoto sazebníku. Byl-li výpis z evidence Rejstříku trestů vydán kontaktním místem veřejné správy<sup>26</sup>), vybírá správní poplatek stanovený v písmenu a) této položky kontaktní místo veřejné správy. Správní poplatek je jeho příjmem.</td></tr></tbody></table>
+
+**Položka 11**
+
+<table><tbody><tr><td>Vydání povolení změny</td><td></td><td></td></tr><tr><td>a) příjmení hanlivého nebo směšného</td><td>Kč</td><td>200</td></tr><tr><td>b) příjmení cizojazyčného nebo na dřívější příjmení</td><td>Kč</td><td>300</td></tr><tr><td>c) jména nebo příjmení v ostatních případech</td><td>Kč</td><td>3 000</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">1. Od poplatku podle této položky je osvobozena změna příjmení, k níž dochází prohlášením rozvedeného manžela, že přijímá opět své dřívější příjmení nebo příjmení rodné, popřípadě, že upouští od užívání společného příjmení vedle příjmení dřívějšího, byla-li tato skutečnost oznámena do šesti měsíců po nabytí právní moci rozsudku o rozvodu.</td></tr><tr><td colspan="3">2. Od poplatku podle této položky je osvobozena změna nebo oprava jména osvojených dětí nebo změna, kterou je nutno provést v důsledku nesprávných nebo neúplných zápisů v matrice nebo v důsledku uvedení nesprávných údajů na vydaných matričních dokladech.</td></tr><tr><td colspan="3">3. Od poplatku podle této položky je osvobozena změna jména a příjmení osoby v případě změny pohlaví.</td></tr><tr><td colspan="3">4. Od poplatku podle této položky je osvobozena změna příjmení partnera za trvání registrovaného partnerství na příjmení druhého partnera.</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Za změnu příjmení manželů, rodičů nebo rodiče a jejich nezletilých dětí na společné příjmení se vybírá jen jeden poplatek.</td></tr><tr><td colspan="3">2. Za změnu příjmení více nezletilých dětí téhož rodiče se vybírá jen jeden poplatek.</td></tr><tr><td colspan="3">3. Dřívějším příjmením se pro účely tohoto zákona rozumí jen nejblíže předcházející příjmení.</td></tr></tbody></table>
+
+**Položka 12**
+
+<table><tbody><tr><td>a) Uzavření manželství mezi snoubenci, nemají-li trvalý pobyt na území České republiky </td><td>Kč</td><td>5 000 </td></tr><tr><td>b) Uzavření manželství mezi snoubenci, z nichž pouze jeden má trvalý pobyt na území České republiky </td><td>Kč</td><td>3 000 </td></tr><tr><td>c) Přítomnost matrikáře u prohlášení snoubenců, že spolu vstupují do manželství, před starostou, místostarostou nebo pověřeným členem zastupitelstva obce, městské části hlavního města Prahy, městského obvodu nebo městské části územně členěného statutárního města, které nejsou matričním úřadem, není-li ani jeden ze snoubenců přihlášen k trvalému pobytu ve správním obvodu této obce, městské části hlavního města Prahy, městského obvodu nebo městské části územně členěného statutárního města</td><td>Kč</td><td>1 000</td></tr><tr><td>d) Vydání povolení uzavřít manželství mimo určené místo nebo dobu</td><td>Kč</td><td>3 000 </td></tr><tr><td>e) vydání osvědčení, že snoubenci splnili všechny požadavky pro uzavření církevního sňatku</td><td>Kč</td><td>500</td></tr><tr><td>f) Vydání vysvědčení o právní způsobilosti k uzavření manželství v cizině nebo s cizincem </td><td>Kč</td><td>500 </td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Poplatek podle písmen a) až d) této položky se vybírá jen od jednoho ze snoubenců.</td></tr><tr><td colspan="3">2. Poplatek podle písmene d) této položky se vybírá jen jednou, povoluje-li se uzavření manželství mimo místo i čas určené obcí pro konání slavnostních obřadů.</td></tr><tr><td colspan="3">3. Poplatek podle písmene c) se nevybírá, jestliže je dán důvod pro vybrání poplatku podle písmene d).</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle písmene d) této položky jsou osvobozeny osoby těžce zdravotně postižené.</td></tr></tbody></table>
+
+**Položka 13**
+
+<table><tbody><tr><td>a) Vydání loveckého lístku s platností nejdéle</td><td></td><td></td></tr><tr><td>– na 1 den </td><td>Kč</td><td>30</td></tr><tr><td>– na 5 dní </td><td>Kč</td><td>50</td></tr><tr><td>– na 30 dní </td><td>Kč</td><td>70</td></tr><tr><td>– na 6 měsíců </td><td>Kč</td><td>100</td></tr><tr><td>– na 12 měsíců </td><td>Kč</td><td>150</td></tr><tr><td>– na 12 měsíců pro žáky a posluchače odborných škol a pro osoby, které zajišťují myslivost v rámci svého povolání nebo funkce </td><td>Kč</td><td>75</td></tr><tr><td>b) Vydání loveckého lístku na dobu neurčitou </td><td>Kč</td><td>1 000</td></tr><tr><td>c) Zápis honebního společenstva do Rejstříku honebních společenstev </td><td>Kč</td><td>500</td></tr><tr><td>d) Změna zápisu do Rejstříku honebních společenstev </td><td>Kč</td><td>200</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Změna zápisu do Rejstříku honebních společenstev uvedená pod písmenem d) této položky, jde-li o zrušení zápisu.</td></tr><tr><td><b>Poznámka</b></td><td></td><td></td></tr><tr><td colspan="3">Poplatek podle písmene a) šesté odrážky se vybírá, vydává-li se lovecký lístek žákům nebo posluchačům odborných škol, na kterých je myslivost povinným vyučovacím předmětem a myslivcům z povolání, mají-li v pracovní náplni aktivní provádění myslivosti, mysliveckým hospodářům a osobám ustanoveným jako myslivecká stráž. Tyto osoby se prokáží správnímu úřadu potvrzením školy o studiu nebo potvrzením o výkonu povolání anebo funkce na území České republiky.</td></tr></tbody></table>
+
+**Položka 14**
+
+<table><tbody><tr><td>1. Vydání rybářského lístku s dobou platnosti</td><td></td><td></td></tr><tr><td>a) 30 dní</td><td>Kč</td><td>200</td></tr><tr><td>b) 1 rok</td><td>Kč</td><td>100</td></tr><tr><td>c) 1 rok pro osoby mladší 15 let nebo studující rybářství nebo osoby, které zajišťují rybářství v rámci svého povolání nebo funkce</td><td>Kč</td><td>50</td></tr><tr><td>d) 3 roky</td><td>Kč</td><td>200</td></tr><tr><td>e) 3 roky pro osoby mladší 15 let nebo studující rybářství nebo osoby, které zajišťují rybářství v rámci svého povolání nebo funkce</td><td>Kč</td><td>100</td></tr><tr><td>f) 10 let</td><td>Kč</td><td>500</td></tr><tr><td>g) 10 let pro osoby mladší 15 let nebo studující rybářství nebo osoby, které zajišťují rybářství v rámci svého povolání nebo funkce</td><td>Kč</td><td>250</td></tr><tr><td>j) na dobu neurčitou</td><td>Kč</td><td>1 000</td></tr><tr><td>2. Povolení výkonu rybářského práva</td><td>Kč</td><td>2 000</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Poplatek podle bodu 1 písmen c), e) a g) se vybírá, vydává-li se rybářský lístek žákům nebo studentům českých odborných škol ve studijních oborech, popřípadě učebních oborech s výukou rybářství, odborným pracovníkům na úseku rybářství, mají-li provozování rybářství v pracovní náplni, rybářským hospodářům a osobám ustanoveným jako rybářská stráž. Tyto osoby se prokáží správnímu úřadu potvrzením školy o studiu nebo potvrzením o výkonu povolání nebo funkce na území České republiky.</td></tr></tbody></table>
+
+**Položka 15**
+
+<table><tbody><tr><td>a) Vydání státního povolení k provozování komoditní burzy<sup>10</sup>)</td><td>Kč</td><td>50 000</td></tr><tr><td>b) Vydání osvědčení odborné způsobilosti pro vyhledávání nebo činnost v Oblasti dna moří a oceánů a jeho podzemí za hranicemi pravomoci států<sup>11</sup>)</td><td>Kč</td><td>200</td></tr><tr><td>c) Přijetí žádosti o vydání rozhodnutí o předchozím souhlasu k činnosti v Oblasti dna moří a oceánů a jeho podzemí za hranicemi pravomocí států</td><td>Kč</td><td>100 000</td></tr><tr><td>d) Vydání povolení k pobytu v Antarktidě</td><td>Kč</td><td>5 000</td></tr><tr><td>e) Vydání k povolení k provádění vědeckého výzkumu nerostných zdrojů v Antarktidě, k odběru nerostů nebo paleontologických nálezů v Antarktidě a jejich vývozu, k odběru zvláště chráněných antarktických druhů rostlin a živočichů v Antarktidě, k zasahování do populací nebo stavišť geograficky původních rostlin a živočichů v Antarktidě nebo ke vstupu na zvláště chráněné antarktické území<sup>13</sup>)</td><td>Kč</td><td>200</td></tr><tr><td>f) Vydání povolení k výstavbě, přestavbě nebo odstranění objektů v Antarktidě, k dovozu geograficky nepůvodních druhů rostlin, živočichů a mikroorganismů do Antarktidy nebo k dovozu nebezpečných látek a přípravků do Antarktidy</td><td>Kč</td><td>200</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Je-li k vydání státního povolení k provozování komoditní burzy třeba státních povolení vydávaných jinými správními úřady podle předmětu burzovního obchodu, vybírá poplatek podle písmene a) této položky správní úřad, který jmenuje burzovního komisaře.</td></tr></tbody></table>
+
+**Položka 16**
+
+<table><tbody><tr><td>Vydání dokladu, průkazu, osvědčení nebo obdobné listiny náhradou za doklad, průkaz, osvědčení nebo obdobnou listinu, jsou-li poškozené, zničené, ztracené, odcizené, neupotřebitelné nebo za doklad, průkaz, osvědčení nebo obdobnou listinu obsahující neoprávněně provedené zápisy (vydání duplikátu)</td><td>Kč</td><td>100</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle této položky jsou osvobozeny registrované církve a náboženské společnosti, právnické osoby zřízené nebo založené jako součásti registrovaných církví a náboženských společností, právnické osoby zřízené nebo založené za účelem podpory činnosti registrované církve a náboženské společnosti k duchovním, pastoračním, charitativním, zdravotnickým, vzdělávacím nebo administrativním účelům a Náboženská matice, souvisí-li úkon s prováděním zákona č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi).</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Neupotřebitelným dokladem, průkazem, osvědčením nebo obdobnou listinou se pro účely tohoto zákona rozumí doklad, na němž podoba osoby neodpovídá skutečnosti.</td></tr><tr><td colspan="3">2. Podle této položky se nepostupuje, neumožňují-li zvláštní právní předpisy vydat doklad, průkaz, osvědčení nebo obdobnou listinu jako duplikát a vydává se doklad nový nebo je vydávána nově obdobná listina.</td></tr></tbody></table>
+
+**Položka 17**
+
+| 1. Vydání povolení nestavebního záměru | | |
+|---|---|---|
+| a) změny využití území | Kč | 3 000 |
+| b) dělení nebo scelení pozemků | Kč | 1 000 |
+| c) stanovení ochranného pásma | Kč | 2 000 |
+| 2. Změna povolení nestavebního záměru | Kč | 1 000 |
+| 3. Vydání předběžné informace | Kč | 1 000 |
+
+**Položka 18**
+
+<table><tbody><tr><td>1. Vydání povolení stavby nebo zařízení</td><td></td><td></td></tr><tr><td>a) jednoduché stavby</td><td>Kč</td><td>5 000</td></tr><tr><td>b) vyhrazené stavby včetně staveb souvisejících</td><td>Kč</td><td>20 000</td></tr><tr><td>c) ostatní stavby</td><td>Kč</td><td>10 000</td></tr><tr><td>2. Vydání rámcového povolení</td><td>Kč</td><td>10 000</td></tr><tr><td>3. Vydání rozhodnutí o prodloužení platnosti povolení</td><td>Kč</td><td>2 000</td></tr><tr><td>4. Vydání povolení změny záměru před dokončením</td><td></td><td></td></tr><tr><td>a) jednoduché stavby</td><td>Kč</td><td>2 500</td></tr><tr><td>b) vyhrazené stavby včetně staveb souvisejících</td><td>Kč</td><td>10 000</td></tr><tr><td>c) ostatní stavby</td><td>Kč</td><td>5 000</td></tr><tr><td>5. Vydání kolaudačního rozhodnutí</td><td></td><td></td></tr><tr><td>a) jednoduché stavby</td><td>Kč</td><td>1 000</td></tr><tr><td>b) vyhrazené stavby včetně staveb souvisejících</td><td>Kč</td><td>5 000</td></tr><tr><td>c) ostatní stavby</td><td>Kč</td><td>2 000</td></tr><tr><td>6. Povolení změny v užívání stavby</td><td></td><td></td></tr><tr><td>a) jednoduché stavby</td><td>Kč</td><td>1 000</td></tr><tr><td>b) vyhrazené stavby včetně staveb souvisejících</td><td>Kč</td><td>5 000</td></tr><tr><td>c) ostatní stavby</td><td>Kč</td><td>2 000</td></tr><tr><td>7. Vydání povolení předčasného užívání</td><td></td><td></td></tr><tr><td>a) jednoduché stavby</td><td>Kč</td><td>1 000</td></tr><tr><td>b) vyhrazené stavby včetně staveb souvisejících</td><td>Kč</td><td>5 000</td></tr><tr><td>c) ostatní stavby</td><td>Kč</td><td>2 000</td></tr><tr><td>8. Vydání rozhodnutí o zkušebním provozu</td><td></td><td></td></tr><tr><td>a) jednoduché stavby</td><td>Kč</td><td>1 000</td></tr><tr><td>b) vyhrazené stavby včetně staveb souvisejících</td><td>Kč</td><td>5 000</td></tr><tr><td>c) ostatní stavby</td><td>Kč</td><td>2 000</td></tr><tr><td>9. Vydání rozhodnutí o prodloužení platnosti předčasného užívání a zkušebního provozu</td><td>Kč</td><td>2 000</td></tr><tr><td>10. Vydání povolení o prodloužení doby trvání stavby</td><td>Kč</td><td>2 000</td></tr><tr><td>11. Vydání povolení odstranění</td><td></td><td></td></tr><tr><td>a) jednoduché stavby</td><td>Kč</td><td>1 000</td></tr><tr><td>b) vyhrazené stavby</td><td>Kč</td><td>5 000</td></tr><tr><td>c) ostatní stavby</td><td>Kč</td><td>2 000</td></tr><tr><td>12. Vydání dodatečného povolení</td><td></td><td></td></tr><tr><td>a) jednoduché stavby</td><td>Kč</td><td>20 000</td></tr><tr><td>b) vyhrazené stavby</td><td>Kč</td><td>50 000</td></tr><tr><td>c) ostatní stavby</td><td>Kč</td><td>30 000</td></tr><tr><td>13. Ověření pasportu stavby</td><td>Kč</td><td>1 000</td></tr><tr><td>14. Vydání oprávnění k výkonu činnosti autorizovaného inspektora nebo prodloužení platnosti tohoto oprávnění</td><td>Kč</td><td>10 000</td></tr><tr><td>15. Vydání souhlasu právnické osobě s vykonáváním činnosti autorizovaného inspektora nebo prodloužení platnosti tohoto souhlasu</td><td>Kč</td><td>10 000</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Za stavby pro výrobu energie z obnovitelných zdrojů se vybere správní poplatek ve výši poloviny sazby příslušné položky.</td></tr><tr><td colspan="3">2. V případě vydání povolení záměru dle bodu 1 písm. a), b) a c), jehož součástí je povolení výjimky z požadavků na výstavbu se správní poplatek navyšuje o 5 000 Kč.</td></tr><tr><td colspan="3">3. Je-li stavba související uvedená v bodě 1 písm. b) povolována samostatným rozhodnutím, poplatek se vybere dle příslušné položky.</td></tr><tr><td colspan="3">4. U souboru staveb se vybere poplatek ve výši poloviny součtu sazeb poplatků stanovených v příslušných bodech této položky, popřípadě této položky a položky 17.</td></tr><tr><td colspan="3">5. Za vydání společného rozhodnutí podle správního řádu vybere správní úřad poplatek ve výši součtu sazeb poplatků stanovených v příslušných bodech této položky, popřípadě této položky a položky 17.</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku je osvobozeno vydání povolení ke změně stavby pro bydlení z důvodu ztíženého užívání této stavby občanovi se zvlášť těžkým zdravotním postižením, kterému byly přiznány mimořádné výhody II. nebo III. stupně (držiteli průkazu ZTP nebo ZTP/P), má-li ve stavbě pro bydlení místo trvalého pobytu.<br> Od poplatku je osvobozeno vydání povolení záměru v případě veřejně prospěšných staveb a veřejně prospěšných opatření realizovaných státem nebo územním samosprávným celkem.</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Ověření pasportu stavby pořizované z důvodu, že se nedochovala dokumentace bez zavinění vlastníka.</td></tr></tbody></table>
+
+**Položka 19**
+
+| Vydání rozhodnutí o vyvlastnění | Kč | 10 000 |
+|---|---|---|
+
+**Položka 21**
+
+| Přijetí žádosti o | | |
+|---|---|---|
+| a) vydání základního povolení k provozování hazardní hry | Kč | 5 000 |
+| b) změnu základního povolení k provozování hazardní hry, týká-li se tato změna hazardní hry, k níž je povolení vydáno, nebo podmínek jejího provozování | Kč | 3 000 |
+| c) povolení k umístění herního prostoru | Kč | 4 000 |
+| d) změnu povolení k umístění herního prostoru, týká-li se tato změna hazardní hry, k níž je povolení vydáno, nebo podmínek jejího provozování | Kč | 2 500 |
+| e) odstranění tvrdosti zákona při vracení přeplatku z kauce podle zákona o hazardních hrách | Kč | 1 000 |
+
+**Položka 22**
+
+<table><tbody><tr><td>a) Přijetí žádosti o uznání odborné kvalifikace<sup>19</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td>b) Vydání osvědčení o odborné kvalifikaci a výkonu předmětné činnosti<sup>19</sup>) nebo vydání<sup>20</sup>) osvědčení o způsobilosti k provozování odborné činnosti, oprávnění k provádění nebo provozování odborné činnosti nebo opakovaně udělované povolení nebo úřední oprávnění</td><td>Kč</td><td>1 000</td></tr><tr><td>c) Vydání Evropského profesního průkazu pro usazení v České republice<sup>81</sup>) a přijetí žádosti o vydání Evropského profesního průkazu<sup>82</sup>) pro usazení v jiném členském státě Evropské unie než Česká republika</td><td>Kč</td><td> 1 000</td></tr><tr><td>d) Přijetí žádosti o udělení povolení k restaurování kulturní památky nebo její části, které jsou díly výtvarných umění nebo uměleckořemeslnými díly („povolení k restaurování“)<sup>21</sup>) a přijetí žádosti o udělení povolení k provádění archeologických výzkumů („povolení k provádění archeologických výzkumů“)<sup>83</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td>e) Udělení oprávnění k činnostem vybraných pracovníků podle atomového zákona</td><td>Kč</td><td>500</td></tr><tr><td>f) Prodloužení platnosti dokladů uvedených v písmenu b)</td><td>Kč</td><td>50</td></tr><tr><td>g) Přijetí žádosti o udělení státního souhlasu právnické osobě působit jako soukromá vysoká škola<sup>24</sup>)</td><td>Kč</td><td>100 000</td></tr><tr><td>h) Přijetí žádosti o udělení statusu kvalifikovaného poskytovatele služeb vytvářejících důvěru a kvalifikované služby vytvářející důvěru</td><td>Kč</td><td>25 000</td></tr><tr><td>i) Přijetí žádosti o udělení akreditace pro správu kvalifikovaného systému elektronické identifikace nebo žádosti o změnu této akreditace</td><td>Kč</td><td>100 000</td></tr><tr><td>j) Podání žádosti o udělení pověření k provádění akreditace, o udělení pověření k provádění atestací nebo o udělení souhlasu se změnou atestačních podmínek<sup>26</sup>)</td><td>Kč</td><td>10 000</td></tr><tr><td>k) Podání žádosti o udělení autorizace podle zákona upravujícího ověřování a uznávání výsledků dalšího vzdělávání (oprávnění ověřovat dosažení odborné způsobilosti vyžadované k získání osvědčení o profesní kvalifikaci nebo profesních kvalifikacích) za každou kvalifikaci</td><td>Kč</td><td>1 500</td></tr><tr><td>l) Podání žádosti o prodloužení platnosti autorizace uvedené v písmenu k)</td><td>Kč</td><td>500</td></tr><tr><td>m) Přijetí žádosti o uznání zahraničního vysokoškolského vzdělání a dokladu o zahraničním vysokoškolském vzdělání podle zákona o vysokých školách<sup>26c</sup>) Ministerstvem školství, mládeže a tělovýchovy, Ministerstvem vnitra nebo Ministerstvem obrany</td><td>Kč</td><td>3 000</td></tr><tr><td>n) Přijetí žádosti o akreditaci vzdělávacího programu podle zákona o sociálních službách<sup>26b</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>o) Přijetí žádosti o udělení akreditace nebo oprávnění k provádění zkoušek z odborné způsobilosti nebo zvláštní odborné způsobilosti podle zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci</td><td>Kč</td><td>5 000</td></tr><tr><td>p) Přijetí žádosti o změnu akreditace k provádění zkoušek z odborné způsobilosti nebo zvláštní odborné způsobilosti podle zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci</td><td>Kč</td><td>4 000</td></tr><tr><td>q) Přijetí žádosti o prodloužení platnosti akreditace nebo oprávnění k provádění zkoušek z odborné způsobilosti nebo zvláštní odborné způsobilosti podle zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci </td><td>Kč</td><td>4 000</td></tr><tr><td>r) Přijetí žádosti o udělení oprávnění pro zacházení s pyrotechnickými výrobky podle zákona o pyrotechnice</td><td>Kč</td><td>1 000</td></tr><tr><td>s) Přijetí žádosti o udělení tuzemského povolení podle zákona o vysokých školách k poskytování zahraničního vysokoškolského vzdělávání v zahraničním vysokoškolském studijním programu na území České republiky</td><td>Kč</td><td>50 000</td></tr><tr><td>t) Přijetí žádosti o prodloužení platnosti tuzemského povolení podle zákona o vysokých školách k poskytování zahraničního vysokoškolského vzdělávání v zahraničním vysokoškolském studijním programu na území České republiky</td><td>Kč</td><td>50 000</td></tr><tr><td>u) Přijetí žádosti o udělení tuzemského oprávnění podle zákona o vysokých školách k poskytování zahraničního vysokoškolského vzdělávání v zahraničním vysokoškolském studijním programu na území České republiky</td><td>Kč</td><td>50 000</td></tr><tr><td>v) Přijetí žádosti o prodloužení platnosti tuzemského oprávnění podle zákona o vysokých školách k poskytování zahraničního vysokoškolského vzdělávání v zahraničním vysokoškolském studijním programu na území České republiky</td><td>Kč</td><td>50 000</td></tr><tr><td>w) Přijetí žádosti o akreditaci vzdělávacího programu podle zákona o zaměstnanosti za každý vzdělávací program</td><td>Kč</td><td>1 000</td></tr><tr><td>x) Přijetí žádosti o akreditaci vzdělávacího programu podle zákona o zaměstnanosti za každý vzdělávací program</td><td>Kč</td><td>1 000</td></tr><tr><td>y) Přijetí žádosti o udělení akreditace pro poskytování mobilní aplikace pro prokazování nebo žádosti o změnu této akreditace</td><td>Kč</td><td>100 000</td></tr><tr><td>z) Přijetí žádosti o</td><td></td><td></td></tr><tr><td>1. akreditaci vzdělávací instituce podle zákona o úřednících územních samosprávných celků</td><td>Kč</td><td>5 000</td></tr><tr><td>2. akreditaci vzdělávacího programu podle zákona o úřednících územních samosprávných celků</td><td>Kč</td><td>2 000</td></tr><tr><td>3. obnovení akreditace vzdělávacího programu podle zákona o úřednících územních samosprávných celků</td><td>Kč</td><td>1 000</td></tr><tr><td>za) Podání žádosti o zápis do registru umělců</td><td>Kč</td><td>1 000</td></tr><tr><td><b>Osvobození</b></td><td></td><td></td></tr><tr><td colspan="3">1. Od poplatku podle písmene z) jsou osvobozeny příspěvková organizace zřízená Ministerstvem vnitra jako vzdělávací instituce podle zákona o úřednících územních samosprávných celků a územní samosprávný celek.</td></tr><tr><td colspan="3">2. Od poplatku podle písmene b) je osvobozeno vydání osvědčení o splnění stanovených odborných předpokladů strážníka vydané podle zákona o obecní policii.</td></tr></tbody></table>
+
+**Položka 22A**
+
+| Vydání průkazu | | |
+|---|---|---|
+| a) znalce podle zákona o znalcích, znaleckých kancelářích a znaleckých ústavech | Kč | 500 |
+| b) tlumočníka podle zákona o soudních tlumočnících a soudních překladatelích | Kč | 500 |
+
+**Položka 23**
+
+<table><tbody><tr><td>a) Udělení licence pro podnikání v energetických odvětvích<sup>27</sup>)</td><td></td><td></td></tr><tr><td>1. na výrobu elektřiny, ukládání elektřiny, výrobu plynu a výrobu tepelné energie do instalovaného výkonu 1 MW včetně, na distribuci elektřiny, distribuci plynu a rozvod tepelné energie do přenosové kapacity 1 MW včetně</td><td>Kč</td><td>1 000</td></tr><tr><td>2. na přenos elektřiny, přepravu plynu a uskladňování plynu</td><td>Kč</td><td>10 000</td></tr><tr><td>3. na výrobu elektřiny, ukládání elektřiny a distribuci elektřiny, na výrobu plynu a distribuci plynu, na výrobu tepelné energie a rozvod tepelné energie od 1 MW výše</td><td>Kč</td><td>10 000</td></tr><tr><td>4. na obchod s elektřinou a na obchod s plynem</td><td>Kč</td><td>100 000</td></tr><tr><td>b) Změna nebo zrušení licence pro podnikání v energetických odvětvích anebo udělení, prodloužení platnosti nebo zánik státní autorizace<sup>27</sup>)</td><td></td><td></td></tr><tr><td>1. změna licence na výrobu elektřiny, ukládání elektřiny, přenos elektřiny a distribuci elektřiny, obchod s elektřinou, výrobu plynu, přepravu plynu, distribuci plynu, uskladňování plynu, obchod s plynem a na výrobu tepelné energie a rozvod tepelné energie</td><td>Kč</td><td>1 000</td></tr><tr><td>2. zrušení licence pro všechny skupiny bez omezení výkonu nebo vydání duplikátu licence v případě její ztráty, zničení nebo odcizení</td><td>Kč</td><td>500</td></tr><tr><td>3. státní autorizace na výstavbu výrobny elektřiny a zdrojů tepelné energie nebo státní autorizace na výstavbu přímého vedení nebo státní autorizace na výstavbu vybraných plynových zařízení</td><td>Kč</td><td>10 000</td></tr><tr><td>4. prodloužení platnosti udělené státní autorizace nebo zánik státní autorizace na výstavbu přímého vedení nebo výroby elektřiny nebo zdrojů tepelné energie (energetických zařízení) nebo na výstavbu vybraných plynových zařízení</td><td>Kč</td><td>500</td></tr><tr><td>c) Udělení licence k nakládání s látkami zařazenými do seznamu 1 v příloze Úmluvy o zákazu vývoje, výroby, hromadění zásob a použití chemických zbraní a o jejich zničení</td><td>Kč</td><td>1 000</td></tr><tr><td>d) Přijetí žádosti o udělení oprávnění k výkonu činnosti energetického specialisty<sup>27a</sup>) k</td><td></td><td></td></tr><tr><td>1. provádění energetického auditu a zpracování energetického posudku</td><td>Kč</td><td>2 000</td></tr><tr><td>2. zpracování průkazu energetické náročnosti budov</td><td>Kč</td><td>2 000</td></tr><tr><td>3. provádění kontroly provozovaných systémů vytápění a kombinovaných systémů vytápění a větrání</td><td>Kč</td><td>2 000</td></tr><tr><td>4. provádění kontroly provozovaných systémů klimatizace a kombinovaných systémů klimatizace a větrání</td><td>Kč</td><td>2 000</td></tr><tr><td>e) Přijetí žádosti o zrušení oprávnění energetického specialisty<sup>27a</sup>) za každé oprávnění</td><td>Kč</td><td>200</td></tr><tr><td>f) Přijetí žádosti o udělení oprávnění k činnosti zprostředkovatele v energetických odvětvích</td><td>Kč</td><td>10 000</td></tr><tr><td>g) Přijetí žádosti o prodloužení platnosti oprávnění k činnosti zprostředkovatele v energetických odvětvích</td><td>Kč</td><td>5 000</td></tr><tr><td>h) Přijetí žádosti o registraci společenství do registru společenství</td><td>Kč</td><td>2 000</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Zrušení licence nebo zánik státní autorizace z podnětu správního úřadu.</td></tr><tr><td colspan="3">2. Změna uvedená v písmenu b) této položky, která navazuje na změnu již provedenou v obchodním rejstříku.</td></tr><tr><td colspan="3">3. Zrušení nebo zánik oprávnění energetického specialisty z podnětu správního úřadu.</td></tr></tbody></table>
+
+**Položka 24**
+
+<table><tbody><tr><td>a) Ohlášení živnosti při vstupu do živnostenského podnikání </td><td>Kč </td><td>1 000 </td></tr><tr><td>b) Další ohlášení živnosti </td><td>Kč </td><td>500 </td></tr><tr><td>c) Přijetí žádosti o koncesi při vstupu do živnostenského podnikání </td><td>Kč </td><td>1 000 </td></tr><tr><td>d) Přijetí další žádosti o koncesi </td><td>Kč </td><td>500 </td></tr><tr><td>e) Změna rozhodnutí o udělení koncese </td><td>Kč </td><td>500 </td></tr><tr><td>f) Vydání rozhodnutí o schválení odpovědného zástupce pro koncesovanou živnost </td><td>Kč </td><td>500 </td></tr><tr><td>g) Vydání výpisu z živnostenského rejstříku po provedení oznámené změny </td><td>Kč </td><td>100 </td></tr><tr><td>h) Vydání úplného nebo částečného výpisu z živnostenského rejstříku na žádost</td><td>Kč</td><td>20</td></tr><tr><td></td><td colspan="2">za každou i započatou stránku</td></tr><tr><td>i) Vydání sestavy z živnostenského rejstříku na žádost za údaje o jednom podnikateli</td><td>Kč</td><td>5</td></tr><tr><td>j) přijetí podání kontaktním místem veřejné správy podle § 72 živnostenského zákona</td><td>Kč</td><td>50</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Vydání prvního výpisu ze živnostenského rejstříku po provedení zápisu podnikatele do živnostenského rejstříku.</td></tr><tr><td colspan="3">2. Změna podmínek provozování podnikatelské činnosti provedená správním úřadem z vlastního podnětu.</td></tr><tr><td colspan="3">3. Schválení odpovědného zástupce, je-li provedeno současně s rozhodnutím o udělení koncese.</td></tr><tr><td colspan="3">4. Změna oboru činnosti v rámci živnosti volné.</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Pokud bylo ohlášeno více živností současně nebo podáno současně více žádostí o koncesi, poplatek podle písmen a) až d) se vybírá jen jednou. Poplatek se vybere jen jednou rovněž, pokud je současně ohlášena živnost a podána žádost o koncesi.</td></tr><tr><td colspan="3">2. Poplatek podle písmen e), f) a g) je splatný při oznámení změny. Nebude-li poplatek zaplacen, správní úřad úkon neprovede.</td></tr><tr><td colspan="3">3. Je-li současně učiněno více úkonů podléhajících poplatku podle této položky, vybere správní úřad jen jeden poplatek ve výši odpovídající nejvyšší sazbě.</td></tr><tr><td colspan="3">4. Bylo-li ohlášení nebo žádost o provedení správního úkonu zpoplatněné v této položce podáno prostřednictvím kontaktního místa veřejné správy<sup>26</sup>), vybírá správní poplatek kontaktní místo veřejné správy. Správní poplatek stanovený v písmenech a) až h) je příjmem obce, jejímuž obecnímu živnostenskému úřadu bylo podání doručeno.</td></tr></tbody></table>
+
+**Položka 25**
+
+<table><tbody><tr><td> 1.</td><td></td><td></td></tr><tr><td> a) Přijetí žádosti o udělení oprávnění k poskytování zdravotních služeb<sup>75a</sup>)</td><td> Kč</td><td>1 000 </td></tr><tr><td> b) Přijetí žádosti o změnu rozhodnutí o udělení oprávnění k poskytování zdravotních služeb<sup>75a</sup>) nebo rozhodnutí o registraci nestátního zdravotnického zařízení, jejímž předmětem je změna</td><td></td><td></td></tr><tr><td> – rozsahu zdravotních služeb, týkající se formy, oboru nebo druhu zdravotní péče nebo zdravotní služby,</td><td></td><td></td></tr><tr><td> – místa poskytování zdravotních služeb, místa pracoviště poskytovatele zdravotnické záchranné služby, zdravotnické dopravní služby nebo přepravy pacientů neodkladné péče nebo místa kontaktního pracoviště poskytovatele domácí péče, nebo</td><td></td><td></td></tr><tr><td> – doby platnosti oprávnění</td><td> Kč</td><td>500 </td></tr><tr><td> c) Přijetí žádosti o odnětí oprávnění k poskytování zdravotních služeb nebo o zrušení registrace nestátního zdravotnického zařízení</td><td> Kč</td><td>150 </td></tr><tr><td> d) Vydání úředního výpisu z Národního registru poskytovatelů zdravotních služeb<sup>75a</sup>)</td><td> Kč</td><td>100 </td></tr><tr><td> 2.</td><td></td><td></td></tr><tr><td> a) Přijetí žádosti o udělení oprávnění k provádění externího klinického auditu podle zákona o specifických zdravotních službách</td><td> Kč</td><td>1 000 </td></tr><tr><td> b) Změna rozhodnutí o udělení oprávnění k provádění externího klinického auditu podle zákona o specifických zdravotních službách</td><td> Kč</td><td>500 </td></tr><tr><td> c) Změna identifikačních údajů (jméno, příjmení, trvalý pobyt, bydliště) fyzické osoby oprávněné k provádění externího klinického auditu v rozhodnutí o udělení oprávnění k provádění externího klinického auditu podle zákona o specifických zdravotních službách včetně promítnutí těchto znění do dalších údajů v tomto rozhodnutí</td><td> Kč</td><td>100 </td></tr><tr><td> d) Změna obchodní firmy nebo názvu právnické osoby oprávněné k provádění externího klinického auditu v rozhodnutí o udělení oprávnění k provádění externího klinického auditu podle zákona o specifických zdravotních službách včetně promítnutí těchto změn do dalších údajů v tomto rozhodnutí</td><td> Kč</td><td>100 </td></tr><tr><td> e) Vydání rozhodnutí o odnětí oprávnění k provádění externího klinického auditu podle zákona o specifických zdravotních službách</td><td> Kč</td><td>150 </td></tr><tr><td><b>Předmětem poplatku není</b></td><td></td><td></td></tr><tr><td colspan="3">1. Vydání nebo změna rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, vydání rozhodnutí o odnětí oprávnění k poskytování zdravotních služeb, změna rozhodnutí o registraci nestátního zdravotnického zařízení a vydání rozhodnutí o zrušení registrace nestátního zdravotnického zařízení, jsou-li provedené z podnětu správního úřadu.</td></tr><tr><td colspan="3">2. Vydání nebo změna rozhodnutí o udělení oprávnění k provádění externího klinického auditu, vydání rozhodnutí o odnětí oprávnění k provádění externího klinického auditu podle zákona o specifických zdravotních službách, jsou-li provedené z podnětu správního úřadu.</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Správní úřad vybírá poplatek jen podle bodu 2. písmene b) této položky, provádí-li současně změny zpoplatňované podle písmen b) a c) bodu 2. této položky.</td></tr></tbody></table>
+
+**Položka 25a**
+
+<table><tbody><tr><td>a) Podání návrhu na zahájení řízení o určení právního vztahu</td><td>Kč</td><td>2 000</td></tr><tr><td>b) Podání návrhu na zahájení sporného řízení o sporu z veřejnoprávní smlouvy, jehož předmětem je peněžité plnění</td><td></td><td></td></tr><tr><td>1. do částky 20 000 Kč včetně</td><td>Kč</td><td>1 000 </td></tr><tr><td>2. v částce vyšší než 20 000 Kč</td><td colspan="2">5 % z této částky,</td></tr><tr><td></td><td>nejvýše<br> Kč</td><td>1 000 000</td></tr><tr><td>c) Podání návrhu na zahájení sporného řízení o sporu z veřejnoprávní smlouvy, jehož předmětem není peněžité plnění</td><td>Kč</td><td>2 000</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Podání návrhu na zahájení řízení o určení právního vztahu v případech, kdy správní orgán může o tomto určení rozhodnout i z moci úřední.</td></tr></tbody></table>
+
+**Položka 25b**
+
+| a) Vydání českého národního průkazu průvodce I. stupně | Kč | 1 000 |
+|---|---|---|
+| b) Vydání českého národního průkazu průvodce II. stupně | Kč | 1 000 |
+| c) Vydání českého národního průkazu průvodce I. nebo II. stupně po změně údajů | Kč | 200 |
+| d) Vydání duplikátu českého národního průkazu průvodce I. nebo II. stupně náhradou za průkaz poškozený, zničený, ztracený nebo odcizený | Kč | 500 |
+
+#### ČÁST II
+
+**Položka 26**
+
+<table><tbody><tr><td>a) Zápis do registru silničních vozidel nebo zápis změny vlastníka nebo provozovatele, s výjimkou zápisu dosavadního provozovatele vozidla jako jeho nového vlastníka, v registru silničních vozidel, jde-li</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- o motocykl do 50 cm<sup>3</sup></td><td>Kč</td><td>300</td><td></td><td></td><td></td></tr><tr><td>- o motocykl nad 50 cm<sup>3</sup> včetně motocyklu s přívěsným nebo postranním vozíkem nebo motorové tříkolky, popřípadě motorové čtyřkolky</td><td>Kč</td><td>500</td><td></td><td></td><td></td></tr><tr><td>- o motorové vozidlo s nejméně čtyřmi koly</td><td>Kč</td><td>800</td><td></td><td></td><td></td></tr><tr><td>- o přípojné vozidlo do 750 kg hmotnosti včetně</td><td>Kč</td><td>500</td><td></td><td></td><td></td></tr><tr><td>- o přípojné vozidlo nad 750 kg hmotnosti</td><td>Kč</td><td>700</td><td></td><td></td><td></td></tr><tr><td>b) Vyřazení vozidla z provozu</td><td>Kč</td><td>200</td><td></td><td></td><td></td></tr><tr><td>c) Vydání tabulky registrační značky</td><td>Kč</td><td>200</td><td></td><td></td><td></td></tr><tr><td></td><td colspan="5">za každou tabulku</td></tr><tr><td>d) Vydání tabulky registrační značky na přání</td><td>Kč</td><td>5 000</td><td></td><td></td><td></td></tr><tr><td></td><td colspan="5">za každou tabulku</td></tr><tr><td>e) Vydání tabulky registrační značky s registrační značkou již tomuto silničnímu vozidlu přidělenou</td><td>Kč</td><td>600</td><td></td><td></td><td></td></tr><tr><td></td><td colspan="5">za každou tabulku</td></tr><tr><td>f) Vydání tabulky zvláštní registrační značky</td><td>Kč</td><td>500</td><td></td><td></td><td></td></tr><tr><td></td><td colspan="5">za každou tabulku</td></tr><tr><td>g) Zápis změny do registru vozidel včetně zápisu dosavadního provozovatele vozidla jako jeho nového vlastníka</td><td>Kč</td><td>50</td><td></td><td></td><td></td></tr><tr><td></td><td colspan="5">za každou změnu</td></tr><tr><td>h) Přijetí žádosti o udělení nebo rozšíření řidičského oprávnění nebo o vydání řidičského průkazu nebo mezinárodního řidičského průkazu</td><td>Kč</td><td>200</td><td></td><td></td><td></td></tr><tr><td>i) Přijetí žádosti o vydání řidičského průkazu v kratší lhůtě</td><td>Kč</td><td>700</td><td></td><td></td><td></td></tr><tr><td>j) Přijetí žádosti o doručení řidičského průkazu nebo karty řidiče prostřednictvím výdejního místa</td><td>Kč</td><td>100</td><td></td><td></td><td></td></tr><tr><td>k) vydání karty podniku</td><td>Kč</td><td>700</td><td></td><td></td><td></td></tr><tr><td>l) vydání karty dílny</td><td>Kč</td><td>700</td><td></td><td></td><td></td></tr><tr><td>m) Přijetí žádosti o vydání karty řidiče </td><td>Kč</td><td>700</td><td></td><td></td><td></td></tr><tr><td>n) rezervace registrační značky na přání při změně vlastníka nebo provozovatele silničního vozidla, při zániku silničního vozidla nebo jeho vyřazení z provozu nebo při přidělení registrační značky s omezenou platností pro vývoz do jiného státu</td><td>Kč</td><td>300</td><td></td><td></td><td></td></tr><tr><td>o) rezervace registrační značky na přání v ostatních případech</td><td>Kč</td><td>500</td><td></td><td></td><td></td></tr><tr><td>p) rezervace registrační značky s výjimkou registrační značky na přání</td><td>Kč</td><td>100</td><td></td><td></td><td></td></tr><tr><td>q) vydání duplikátu osvědčení o registraci vozidla </td><td>Kč</td><td>500</td><td></td><td></td><td></td></tr><tr><td>r) zachování registrační značky, tabulek s touto registrační značkou a osvědčení o registraci vozidla u vozidla vyřazeného z provozu</td><td>Kč</td><td>200</td><td></td><td></td><td></td></tr><tr><td>s) podání žádosti o zasílání informací o změnách v bodovém hodnocení řidiče</td><td>Kč</td><td>100</td><td></td><td></td><td></td></tr><tr><td>t) zápis mentora do registru řidičů</td><td>Kč</td><td>100</td><td></td><td></td><td></td></tr><tr><td colspan="6"><b>Osvobození</b></td></tr><tr><td colspan="6">1. Od poplatku podle písmene a) třetí odrážky a písmene h) této položky jsou osvobozeni občané se zvlášť těžkým zdravotním postižením, kteří jsou držiteli průkazu ZTP nebo ZTP/P.</td></tr><tr><td colspan="6">2. Od poplatku podle písmene a) této položky jsou osvobozeny zápisy do registru vozidel prováděné na základě rozhodnutí soudu o dědickém řízení nebo rozhodnutí soudu o zániku společného jmění manželů.</td></tr><tr><td colspan="6">3. Od poplatku podle písmene a) této položky jsou osvobozeny zápisy do registru vozidel při změně právního postavení subjektu, jeho obchodní firmy nebo jeho názvu v souvislosti s převodem majetku státu podle zvláštního právního předpisu<sup><sup>29</sup>)</sup>.</td></tr><tr><td colspan="6">4. Od poplatku podle písmene f) této položky je osvobozeno vydání tabulky zvláštní registrační značky pro jednorázové použití.</td></tr><tr><td colspan="6"><i>5.</i> Od poplatku podle <u>písmene a)</u>, <u>c)</u> nebo <u>g)</u> této položky jsou osvobozeny úkony, při nichž je současně přidělena registrační značka elektrického vozidla.</td></tr><tr><td colspan="6"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="6">1. Vyřazení silničního vozidla z provozu z důvodu jeho odcizení a zápis zániku silničního vozidla.</td></tr><tr><td colspan="6">2. Povinná výměna registrační značky a řidičského průkazu podle zvláštního právního předpisu<sup>30</sup>).</td></tr><tr><td colspan="6">3. Podání žádosti o zasílání informací o změnách v bodovém hodnocení řidiče, je-li podání učiněno způsobem umožňujícím dálkový přístup prostřednictvím uživatelského rozhraní stanoveného Ministerstvem dopravy.</td></tr><tr><td colspan="6">4. Zápis mentora do registru řidičů na žádost podanou spolu se žádostí o udělení nebo rozšíření řidičského oprávnění osobě, ve vztahu k níž má být mentor zapsán.</td></tr><tr><td colspan="6"><b>Poznámky</b></td></tr><tr><td colspan="6">1. Vydává-li se osvědčení o registraci vozidla jako duplikát nahrazující tento doklad při jeho odcizení a žadatel doloží jeho odcizení protokolem vydaným Policií České republiky, vybírá se poplatek podle položky 16 tohoto sazebníku.</td></tr><tr><td colspan="6">2. Úkon zpoplatňovaný podle písmene a) této položky zahrnuje zápis vlastníka nebo provozovatele vozidla do registru vozidel, vydání osvědčení o registraci vozidla a vydání výpisu technického osvědčení vozidla. Provádí-li se společně zápis změny vlastníka i provozovatele vozidla do registru vozidel, poplatek podle písmene a) této položky se vybírá pouze jednou.</td></tr><tr><td colspan="6">3. Je-li vybírán poplatek za zápis vozidla do registru podle písmene a) této položky, nevybírá se poplatek podle písmen c), f) a g) této položky.</td></tr><tr><td colspan="6">4. Jde-li o přijetí žádosti podle písmen h) až j) nebo m) této položky způsobem umožňujícím dálkový přístup prostřednictvím uživatelského rozhraní stanoveného Ministerstvem dopravy, lze poplatek zaplatit pouze bezhotovostním převodem prostřednictvím tohoto rozhraní. Není-li poplatek zaplacen před podáním žádosti, k jeho zaplacení se žadatel nevyzývá.</td></tr><tr><td colspan="6">5. Byla-li žádost podle písmen h) až j) nebo m) této položky přijata způsobem umožňujícím dálkový přístup prostřednictvím uživatelského rozhraní stanoveného Ministerstvem dopravy, poplatek vybírá Ministerstvo dopravy a je příjmem státního rozpočtu.</td></tr><tr><td colspan="6">6. Je-li současně s žádostí o udělení nebo rozšíření řidičského oprávnění nebo o vydání řidičského průkazu podána žádost o vydání karty řidiče a je-li požádáno o jejich doručení prostřednictvím výdejního místa, platí se poplatek podle písmene m) této položky pouze jednou.</td></tr><tr><td colspan="6">7. Poplatek podle písmene m) této položky se i bez žádosti osoby, která jej zaplatila, vrací, nepodařilo-li se bez zavinění žadatele řidičský průkaz nebo kartu řidiče doručit prostřednictvím výdejního místa. Poplatek se vrací na účet, z něhož byla jeho platba poukázána.</td></tr></tbody></table>
+
+**Položka 26A**
+
+| Udělení akreditace k provádění dopravně psychologického vyšetření | Kč | 1 000 |
+|---|---|---|
+
+**Položka 27**
+
+<table><tbody><tr><td>1. Schválení typu vozidla nebo samostatného technického celku vozidla podle přímo<br> použitelného předpisu Evropské unie</td><td>Kč</td><td>5 000</td></tr><tr><td>2. Schválení typu samostatného technického celku vozidla podle mezinárodní smlouvy<br> v oblasti schvalování technické způsobilosti</td><td>Kč</td><td>5 000</td></tr><tr><td>3. Schválení typu vozidla nebo samostatného technického celku vozidla, nejde-li<br> o schválení podle bodu 1 nebo 2</td><td>Kč</td><td>2 000</td></tr><tr><td>4. Schválení typu systému vozidla nebo konstrukční části vozidla</td><td>Kč</td><td>1 000</td></tr><tr><td>5. Vydání rozhodnutí o změně schválení typu vozidla nebo samostatného technického<br> celku vozidla podle přímo použitelného předpisu Evropské unie</td><td>Kč</td><td>2 500</td></tr><tr><td>6. Vydání rozhodnutí o změně schválení typu samostatného technického celku vozidla<br> podle mezinárodní smlouvy v oblasti schvalování technické způsobilosti</td><td>Kč</td><td>2 500</td></tr><tr><td>7. Vydání rozhodnutí o změně schválení typu vozidla nebo samostatného<br> technického celku vozidla, nejde-li o změnu schválení podle bodu 5 nebo 6</td><td>Kč</td><td>1 000</td></tr><tr><td>8. Vydání rozhodnutí o změně schválení typu systému vozidla nebo konstrukční části vozidla</td><td>Kč</td><td>500</td></tr><tr><td>9. Schválení hromadné přestavby vozidla</td><td>Kč</td><td>2 000</td></tr><tr><td>10. Schválení technické způsobilosti výbavy vozidla</td><td>Kč</td><td>2 000</td></tr><tr><td>11. Vydání rozhodnutí o změně schválení technické způsobilosti výbavy vozidla</td><td>Kč</td><td>1 000</td></tr><tr><td>12. Schválení technické způsobilosti jednotlivě vyrobeného nebo dovezeného vozidla</td><td>Kč</td><td>3 000</td></tr><tr><td>13. Schválení přestavby vozidla</td><td>Kč</td><td>1 000</td></tr><tr><td>14. Povolení výjimky z technických požadavků, které musí vozidlo splňovat</td><td>Kč</td><td>1 000</td></tr><tr><td>15. Schválení typu motoru nebo rodiny motorů určených k zabudování do nesilničních<br> mobilních strojů podle přímo použitelného předpisu Evropské unie</td><td>Kč</td><td>2 500</td></tr><tr><td>16. Vydání rozhodnutí o změně schválení typu motoru nebo rodiny motorů určených<br> k zabudování do nesilničních mobilních strojů podle přímo použitelného předpisu Evropské unie</td><td>Kč</td><td>1 250</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle bodu 13 této položky je osvobozen držitel průkazu ZTP nebo ZTP/P nebo držitel obdobného dokladu vydaného jiným členským státem Evropské unie.</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Úkon zpoplatňovaný podle bodu 13 této položky zahrnuje i zápis údajů do registru silničních vozidel a do dokladů k vozidlu.</td></tr></tbody></table>
+
+Položka 27A
+
+| 1. | Vydání povolení provozu stacionárního zdroje uvedeného v příloze č. 2 k zákonu o ochraně ovzduší | 5 000 Kč |
+|---|---|---|
+| 2. | Vydání rozhodnutí o změně povolení provozu stacionárního zdroje uvedeného v příloze č. 2 k zákonu o ochraně ovzduší | 3 000 Kč |
+| 3. | Vydání povolení provozu stacionárního zdroje neuvedeného v příloze č. 2 k zákonu o ochraně ovzduší | 3 000 Kč |
+| 4. | Vydání rozhodnutí v pochybnostech, zda se jedná o stacionární zdroj uvedený v příloze č. 2 k zákonu o ochraně ovzduší | 3 000 Kč |
+| 5. | Vydání rozhodnutí v pochybnostech, zda se jedná o stacionární zdroj používaný pouze k výzkumu, vývoji nebo zkoušení nových výrobků a procesů | 3 000 Kč |
+| 6. | Vydání rozhodnutí o udělení individuální výjimky povolující vjezd do nízkoemisní zóny | 1 500 Kč |
+| 7. | Vydání rozhodnutí o udělení autorizace nebo o změně rozhodnutí o udělení autorizace podle zákona o ochraně ovzduší | 2 500 Kč |
+| 8. | Vydání rozhodnutí o skutečnosti, že se osoba, která je usazena v jiném členském státě Evropské unie nebo smluvním státě Dohody o Evropském hospodářském prostoru, považuje za autorizovanou osobu podle zákona o ochraně ovzduší | 1 500 Kč |
+
+**Položka 28**
+
+| a) Vydání registrace k provozování autoškoly | Kč | 2000 |
+|---|---|---|
+| b) Změna rozsahu registrace k provozování autoškoly | Kč | 1000 |
+| c) Vydání nebo rozšíření profesního osvědčení učitele v autoškole | Kč | 300 |
+| d) Změna nebo prodloužení platnosti profesního osvědčení učitele v autoškole | Kč | 100 |
+| e) Vydání nebo rozšíření pověření k přezkušování řidičů | Kč | 1 000 |
+| f) Změna nebo prodloužení platnosti pověření k přezkušování řidičů | Kč | 100 |
+| g) Vydání průkazu profesní způsobilosti řidiče<sup>30a</sup>) | Kč | 200 |
+| h) Přijetí žádosti o vykonání zkoušky na závěr vstupního školení<sup>30b</sup>) | Kč | 700 |
+| i) Udělení akreditace k provozování výuky a výcviku v rámci zdokonalování odborné způsobilosti řidičů pro účely profesní způsobilosti řidičů<sup>30c</sup>) | Kč | 3 000 |
+| j) Udělení vyšší akreditace k provozování školení bezpečné jízdy<sup>30d</sup>) | Kč | 3 000 |
+
+**Položka 29**
+
+| a) Udělení oprávnění k provozování Stanice technické kontroly | Kč | 3 000 |
+|---|---|---|
+| b) Vydání osvědčení k provozování Stanice technické kontroly | Kč | 500 |
+| c) Udělení oprávnění k provozování Stanice měření emisí | Kč | 1 500 |
+| d) Vydání osvědčení k provozování Stanice měření emisí | Kč | 300 |
+| e) Změny v oprávnění nebo v osvědčení k provozování Stanice technické kontroly nebo Stanice měření emisí | Kč | 200 |
+
+Položka 30
+
+| 1. | Přijetí žádosti o vydání zbrojního oprávnění | Kč | 3 000 |
+|---|---|---|---|
+| 2. | Přijetí žádosti o jmenování zkušebním komisařem | Kč | 600 |
+| 3. | Přijetí žádosti o vydání zbrojní licence za každou skupinu | Kč | 3 000 |
+| 4. | Přijetí žádosti o vydání výjimky kategorie R1, R2, S1 nebo S2 nebo povolení kategorie R3 | Kč | 300 |
+| 5. | Přijetí žádosti o zápis způsobilé osoby do centrálního registru zbraní | Kč | 300 |
+| 6. | Přijetí žádosti o povolení provozovat střelnici | Kč | 3 000 |
+| 7. | Přijetí žádosti o povolení nevratné úpravy zbraně | Kč | 300 |
+| 8. | Přijetí žádosti o vydání zbrojního průvodního listu | Kč | 300 |
+| 9. | Přijetí žádosti o vydání nebo prodloužení evropského zbrojního pasu | Kč | 300 |
+
+###### Osvobození
+
+Od poplatku podle bodů 4 a 5 této položky je osvobozeno podání, které žadatel činí elektronickým přístupem se zaručenou identitou.
+
+Položka 31
+
+| 1. | Přijetí žádosti o vydání základního muničního oprávnění | Kč | 300 |
+|---|---|---|---|
+| 2. | Přijetí žádosti o vydání vyššího muničního oprávnění nebo muničního oprávnění pro provádění pyrotechnického průzkumu | Kč | 1 000 |
+| 3. | Přijetí žádosti o vydání muniční licence za každou skupinu | Kč | 3 000 |
+| 4. | Přijetí žádosti o povolení provozovat střelnici pro munici, trhací jámu pro ničení munice nebo zvláštní zařízení pro odpalování, střelbu nebo ničení munice | Kč | 3 000 |
+
+Položka 32
+
+<table><tbody><tr><td>a)</td><td>Vydání certifikátu o homologaci střelné zbraně podle zákona upravujícího ověřování zbraní a střeliva</td><td>Kč</td><td>10 000</td></tr><tr><td>b)</td><td>Kusové a opakované kusové ověřování zbraně nebo doplňku zbraně podle zákona upravujícího ověřování zbraní a střeliva</td><td>Kč</td><td>150</td></tr><tr><td>c)</td><td>Ověřování zbraně opatřené zkušební značkou podle zákona upravujícího ověřování zbraní a střeliva</td><td>Kč</td><td>500</td></tr><tr><td>d)</td><td>Vydání protokolu o kontrole zbraně bez zkušební střelby a označení podle zákona upravujícího ověřování zbraní a střeliva</td><td>Kč</td><td>100</td></tr><tr><td>e)</td><td>Vydání rozhodnutí o zařazení zbraně nebo střeliva do kategorie podle zákona upravujícího ověřování zbraní a střeliva</td><td>Kč</td><td>500</td></tr><tr><td>f)</td><td>Vydání certifikátu o typové kontrole střeliva podle zákona upravujícího ověřování zbraní a střeliva</td><td>Kč</td><td>10 000</td></tr><tr><td>g)</td><td>Prodloužení platnosti vydaných certifikátů o homologaci střelné zbraně nebo o typové kontrole střeliva podle zákona upravujícího ověřování zbraní a střeliva</td><td colspan="2">50 %<br> ze sazby poplatků podle písmen a) a f)</td></tr><tr><td>h)</td><td>Kusové a opakované kusové ověřování historické zbraně vyrobené nejpozději do 31. prosince 1890 podle zákona upravujícího ověřování zbraní a střeliva</td><td>Kč</td><td>300</td></tr><tr><td>i)</td><td>Ověřování historické zbraně vyrobené nejpozději do 31. prosince 1890 a opatřené zkušební značkou podle zákona upravujícího ověřování zbraní a střeliva</td><td>Kč</td><td>1 000</td></tr><tr><td>j)</td><td>Přijetí žádosti o odborné školení pro získání dokladu o odborné způsobilosti podle zákona o pyrotechnice pro kategorie P2 nebo T2 a F4</td><td>Kč</td><td>10 000</td></tr><tr><td>k)</td><td>Přijetí žádosti o odborné školení pro získání dokladu o odborné způsobilosti podle zákona o pyrotechnice pro kategorie F3</td><td>Kč</td><td>6 000</td></tr><tr><td>l)</td><td>Přijetí žádosti o opakování zkoušky pro získání dokladu o odborné způsobilosti podle zákona o pyrotechnice</td><td>Kč</td><td>3 000</td></tr><tr><td>m)</td><td>Přijetí žádosti o provedení odborné činnosti související se zkoušením pyrotechnických výrobků a pomůcek pro jejich používání podle zákona o pyrotechnice</td><td>Kč</td><td>10 000</td></tr></tbody></table>
+
+Položka 34
+
+<table><tbody><tr><td rowspan="6">1.</td><td colspan="2" rowspan="2">Přijetí žádosti o udělení licence nebo povolení nebo o změnu licence nebo povolení k provozování</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr></tr><tr><td>a)</td><td>vnitrostátní linkové osobní dopravy za každou vnitrokrajskou linku nebo linku městské autobusové dopravy</td><td>Kč</td><td>500</td></tr><tr><td>b)</td><td>vnitrostátní linkové osobní dopravy za každou mezikrajskou linku</td><td>Kč</td><td>1 000</td></tr><tr><td>c)</td><td>mezinárodní linkové osobní dopravy veřejné za každou linku</td><td>Kč</td><td>5 000</td></tr><tr><td>d)</td><td>mezinárodní linkové osobní dopravy zvláštní za každou linku</td><td>Kč</td><td>1 000</td></tr><tr><td rowspan="4">2.</td><td colspan="2">Přijetí žádosti o vydání zvláštního povolení k provozování silniční dopravy zahraničním dopravcem mezi místy ležícími na území České republiky k provedení</td><td></td><td></td></tr><tr><td>a)</td><td>1 přepravy</td><td>Kč</td><td>1 000</td></tr><tr><td>b)</td><td>2 až 5 přeprav</td><td>Kč</td><td>4 000</td></tr><tr><td>c)</td><td>neomezeného počtu přeprav</td><td>Kč</td><td>20 000</td></tr><tr><td>3.</td><td colspan="2">Přijetí žádosti o přidělení vstupního povolení k provozování příležitostné osobní nebo kyvadlové dopravy zahraničním dopravcem</td><td>Kč</td><td>5 000</td></tr><tr><td>4.</td><td colspan="2">Přijetí žádosti o přidělení vstupního povolení k provozování mezinárodní silniční nákladní dopravy zahraničním dopravcem k provedení 1 přepravy</td><td>Kč</td><td>5 000</td></tr><tr><td>5.</td><td colspan="2">Přijetí žádosti o vydání licence Společenství podle přímo použitelného předpisu Evropské unie upravujícího přístup na trh mezinárodní silniční nákladní dopravy nebo podle přímo použitelného předpisu Evropské unie upravujícího přístup na mezinárodní trh autokarové a autobusové dopravy (dále jen „eurolicence“)</td><td>Kč</td><td>1 000</td></tr><tr><td>6.</td><td colspan="2">Přijetí žádosti o vydání opisu eurolicence</td><td>Kč</td><td>200</td></tr><tr><td>7.</td><td colspan="2">Přijetí žádosti o vydání osvědčení řidiče podle přímo použitelného předpisu Evropské unie upravujícího přístup na trh mezinárodní silniční nákladní dopravy</td><td>Kč</td><td>1 000</td></tr><tr><td>8.</td><td colspan="2">Přijetí žádosti o vydání osvědčení o provozování mezinárodní osobní dopravy pro vlastní potřebu</td><td>Kč</td><td>500</td></tr><tr><td>9.</td><td colspan="2">Přijetí žádosti o udělení pověření výkonem činností souvisejících s prováděním Evropské dohody o mezinárodní silniční přepravě nebezpečných věcí (ADR)</td><td>Kč</td><td>5 000</td></tr><tr><td>10.</td><td colspan="2">Vydání osvědčení o školení řidiče přepravujícího nebezpečné věci</td><td>Kč</td><td>200</td></tr><tr><td>11.</td><td colspan="2">Vydání osvědčení o odborné způsobilosti bezpečnostního poradce pro přepravu nebezpečných věcí</td><td>Kč</td><td>200</td></tr><tr><td>12.</td><td colspan="2">Přijetí žádosti o vykonání zkoušky odborné způsobilosti pro provozování silniční dopravy</td><td>Kč</td><td>1 000</td></tr><tr><td>13.</td><td colspan="2">Přijetí žádosti o udělení oprávnění řidiče taxislužby</td><td>Kč</td><td>1 000</td></tr><tr><td>14.</td><td colspan="2">Vydání nového průkazu řidiče taxislužby z důvodu ztráty, zničení, odcizení nebo poškození průkazu řidiče taxislužby nebo změny údajů v něm zaznamenaných</td><td>Kč</td><td>1 000</td></tr><tr><td>15.</td><td colspan="2">Přijetí žádosti o zápis vozidla do evidence vozidel taxislužby</td><td>Kč</td><td>1 000</td></tr><tr><td>16.</td><td colspan="2">Vydání evidenční nálepky vozidla taxislužby na žádost dopravce</td><td>Kč</td><td>1 000</td></tr><tr><td>17.</td><td colspan="2">Přijetí žádosti o poskytnutí údajů z Rejstříku podnikatelů v silniční dopravě v elektronické podobě</td><td>Kč</td><td>50</td></tr><tr><td>18.</td><td colspan="2">Přijetí žádosti o poskytnutí údajů z Rejstříku podnikatelů v silniční dopravě v listinné podobě za každou i započatou stránku</td><td>Kč</td><td>50</td></tr><tr><td colspan="5"><b>Zmocnění</b></td></tr><tr><td colspan="5">Správní úřad může na základě vzájemnosti nebo na základě mezinárodní smlouvy, kterou je Česká republika vázána, upustit od vybrání poplatku podle bodu 1 písmene c) nebo d) nebo bodů 2 až 4 této položky.</td></tr><tr><td colspan="5"><b>Předmětem poplatku není</b></td></tr><tr><td>1.</td><td colspan="4">Přijetí žádosti o udělení licence nebo povolení k provozování dopravy z humanitárních důvodů.</td></tr><tr><td>2.</td><td colspan="4">Přijetí žádosti o udělení licence nebo povolení nebo jejich změnu, jde-li o linkovou osobní dopravu provozovanou v celém rozsahu na základě smlouvy o veřejných službách v přepravě cestujících.</td></tr><tr><td>3.</td><td colspan="4">Přijetí žádosti o změnu licence spočívající výlučně ve změně názvu zastávky.</td></tr></tbody></table>
+
+**Položka 35**
+
+Přijetí žádosti o povolení zvláštního užívání dálnice, silnice nebo místní komunikace nadměrným vozidlem podle zákona o pozemních komunikacích, jde-li o
+
+<table><tbody><tr><td>a) jednorázové zvláštní užívání pozemní komunikace nadměrným vozidlem o hmotnosti nejvýše 60 tun</td><td>Kč </td><td>4 500</td></tr><tr><td>b) jednorázové zvláštní užívání pozemní komunikace nadměrným vozidlem o hmotnosti nad 60 tun a nejvýše 150 tun</td><td>Kč</td><td>11 500</td></tr><tr><td>c) jednorázové zvláštní užívání pozemní komunikace nadměrným vozidlem o hmotnosti nad 150 tun</td><td>Kč</td><td>25 000</td></tr><tr><td>d) opakované zvláštní užívání pozemních komunikací nadměrným vozidlem o hmotnosti nejvýše 48 tun</td><td>Kč</td><td>22 000</td></tr><tr><td>e) opakované zvláštní užívání pozemních komunikací nadměrným vozidlem o hmotnosti nad 48 tun</td><td>Kč</td><td> 32 000</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="4">Od poplatku je osvobozeno přijetí žádosti o povolení zvláštního užívání dálnice, silnice nebo místní komunikace nadměrným vozidlem v souvislosti se sezónními pracemi v zemědělství.</td></tr></tbody></table>
+
+**Položka 36**
+
+<table><tbody><tr><td>a) Vydání povolení<sup>33</sup>) ke zvláštnímu užívání dálnice, silnice a místní komunikace na dobu platnosti</td><td></td><td></td></tr><tr><td>- 10 dní a na dobu kratší než 10 dní</td><td>Kč</td><td>100</td></tr><tr><td>- 6 měsíců a na dobu kratší než 6 měsíců</td><td>Kč</td><td>500</td></tr><tr><td>- delší než 6 měsíců</td><td>Kč</td><td>1 000</td></tr><tr><td>b) Vydání povolení<sup>33</sup>)k připojení sousední nemovitosti na odpočívku dálnice nebo na silnici I. třídy</td><td>Kč</td><td>1 000</td></tr><tr><td>c) Vydání povolení<sup>33</sup>)k připojení sousední nemovitosti na silnici II. třídy nebo III. třídy anebo na místní komunikaci</td><td>Kč</td><td>500</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle písmene a) této položky je osvobozeno povolení ke zřízení parkovacího místa pro občany se zvlášť těžkým zdravotním postižením, kteří jsou držiteli průkazu ZTP nebo ZTP/P.</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Povolení ke zvláštnímu užívání pozemní komunikace vydané dodatečně v důsledku havárie.</td></tr><tr><td colspan="3">2. Vydání povolení uvedeného v písmenech b) a c) této položky k připojení sousední nemovitosti, jde-li o zastávky osobní linkové dopravy, parkoviště a odpočívky, které jsou součástmi dotčených silnic nebo místních komunikací podle zvláštního právního předpisu<sup>33</sup>).</td></tr></tbody></table>
+
+**Položka 36a**
+
+| a) Vydání povolení auditora bezpečnosti pozemních komunikací | Kč | 300 |
+|---|---|---|
+| b) Udělení akreditace k provádění školení pro získání povolení auditora bezpečnosti pozemních komunikací | Kč | 2 000 |
+
+#### ČÁST III
+
+**Položka 37**
+
+| 1. Vydání lodního deníku | Kč | | 1 000 |
+|---|---|---|---|
+| 2. Přijetí žádosti o vydání osvědčení o odborné způsobilosti inspektora určeného technického zařízení | Kč | | 1 000 |
+| 3. Přijetí žádosti o udělení oprávnění k výkonu funkce vůdce plavidla | Kč | | 500 |
+| 4. Přijetí žádosti o vydání nového osvědčení Evropské unie o kvalifikaci vůdce plavidla podané z důvodu uplynutí doby platnosti původního dokladu | Kč | | 400 |
+| 5. Přijetí žádosti o udělení oprávnění k výkonu funkce člena posádky plavidla jiného než vůdce nebo oprávnění k obsluze plovoucího stroje | Kč | | 300 |
+| 6. Přijetí žádosti o vyznačení nové doby platnosti v osvědčení Evropské unie o kvalifikaci člena posádky plavidla jiného než vůdce, průkazu způsobilosti člena posádky plavidla nebo průkazu způsobilosti strojmistra podané z důvodu uplynutí doby platnosti dokladu | Kč | | 200 |
+| 7. Potvrzení záznamu praxe v obsluze plavidla v plavecké služební knížce | Kč | | 50 |
+| 8. Přijetí žádosti o udělení zvláštního oprávnění k výkonu funkce vůdce plavidla plujícího pomocí radaru nebo plavidla zajišťujícího pohyb tlačné sestavy plavidel s plochou alespoň 7 000 m<sup>2</sup> | Kč | | 500 |
+| 9. Přijetí žádosti o udělení oprávnění k výkonu činnosti odborníka na přepravu cestujících nebo činnosti odborníka na zkapalněný zemní plyn | Kč | | 500 |
+| 10. Přijetí žádosti o vydání nového osvědčení Evropské unie o kvalifikaci odborníka na přepravu cestujících nebo nového osvědčení Evropské unie o kvalifikaci odborníka na zkapalněný zemní plyn podané z důvodu uplynutí doby platnosti původního dokladu | Kč | | 400 |
+| 11. Vydání osvědčení Evropské unie o kvalifikaci člena posádky plavidla, průkazu způsobilosti člena posádky plavidla, plavecké služební knížky, osvědčení Evropské unie o kvalifikaci odborníka na přepravu cestujících, osvědčení Evropské unie o kvalifikaci odborníka na zkapalněný zemní plyn nebo průkazu způsobilosti strojmistra z důvodu jejich ztráty, zničení, odcizení nebo poškození anebo změny údaje v nich obsaženého | Kč | | 100 |
+| 12. Přijetí žádosti o pověření prováděním školení určeného pro člena posádky plavidla nebo pro výkon činnosti odborníka na přepravu cestujících | Kč | | 3 000 |
+| 13. Přijetí žádosti o schválení technické způsobilosti simulátoru k ověřování praktických dovedností vůdce plavidla nebo praktických dovedností potřebných k vedení plavidla plujícího pomocí radaru | Kč | | 20 000 |
+| 14. Přijetí žádosti o udělení oprávnění k vedení malého nebo rekreačního plavidla nebo o vydání mezinárodního průkazu způsobilosti vůdce rekreačního plavidla | Kč | | 500 |
+| 15. Přijetí žádosti o vydání nového průkazu způsobilosti vůdce malého plavidla nebo mezinárodního průkazu způsobilosti vůdce rekreačního plavidla podané z důvodu uplynutí doby platnosti původního dokladu | Kč | | 400 |
+| 16. Vydání průkazu způsobilosti vůdce malého plavidla nebo mezinárodního průkazu způsobilosti vůdce rekreačního plavidla z důvodu jeho ztráty, zničení, odcizení nebo poškození anebo změny údaje v něm obsaženého | Kč | | 100 |
+| 17. Provedení zkoušky z praktických dovedností potřebných k vedení malého nebo rekreačního plavidla plavebním úřadem | Kč | | 500 |
+| 18. Přijetí žádosti o pověření prováděním zkoušky z praktických dovedností potřebných k vedení malého nebo rekreačního plavidla | Kč | | 2 000 |
+| 19. Provedení zkoušky, kterou se prokazuje odborná způsobilost k provozování vodní dopravy pro cizí potřeby | Kč | | 1 500 |
+| 20. Přijetí žádosti o vydání osvědčení o odborné způsobilosti bezpečnostního poradce nebo osvědčení o zvláštních znalostech o přepravě nebezpečných věcí podle mezinárodní smlouvy upravující mezinárodní přepravu nebezpečných věcí, která je součástí právního řádu | Kč | | 1 500 |
+| 21. Přijetí žádosti o prodloužení platnosti osvědčení o odborné způsobilosti bezpečnostního poradce nebo osvědčení o zvláštních znalostech o přepravě nebezpečných věcí podle mezinárodní smlouvy upravující mezinárodní přepravu nebezpečných věcí, která je součástí právního řádu | Kč | | 200 |
+
+**Položka 38**
+
+<table><tbody><tr><td>a) Vydání a prodloužení platnosti osvědčení plavidla ve vnitrozemské plavbě pro</td><td></td><td></td></tr><tr><td>- malá plavidla</td><td>Kč</td><td>500</td></tr><tr><td>- plovoucí zařízení, jejichž délka je menší než 20 m</td><td>Kč</td><td>500</td></tr><tr><td>- plovoucí zařízení, jejichž délka je 20 m a více</td><td>Kč</td><td>800</td></tr><tr><td>- ostatní plavidla</td><td>Kč</td><td>1 000</td></tr><tr><td>b) Technická prohlídka ke schválení způsobilosti plavidla</td><td></td><td></td></tr><tr><td>– malá plavidla bez strojního pohonu a plachetnice, které jsou bez obytné kajuty</td><td>Kč</td><td>1 000</td></tr><tr><td>– malá plavidla (motorové čluny, motorové jachty, plachetní jachty s pomocným motorem, vodní skútry), jejichž součin délky, šířky a ponoru je nejvýše 30 m<sup>3</sup></td><td>Kč</td><td>2 500</td></tr><tr><td>– malá plavidla (motorové čluny, motorové jachty, plachetní jachty s pomocným motorem), jejichž součin délky, šířky a ponoru je větší než 30 m<sup>3</sup>, nejvýše však 60 m<sup>3</sup></td><td>Kč</td><td>4 500</td></tr><tr><td>– malá plavidla (motorové čluny, motorové jachty, plachetní jachty s pomocným motorem), jejichž součin délky, šířky a ponoru je větší než 60 m<sup>3</sup></td><td>Kč</td><td>6 000</td></tr><tr><td>– převozní lodě s obsaditelností nejvýše 12 osob</td><td>Kč</td><td>2 000</td></tr><tr><td>– plovoucí zařízení, jejichž délka je menší než 20 m a obsaditelnost nepřesahuje 12 osob a jsou bez obytných prostor</td><td>Kč</td><td>800</td></tr><tr><td>– plovoucí zařízení, jejichž délka je menší než 20 m a obsaditelnost nepřesahuje 12 osob a mají obytné prostory</td><td>Kč</td><td>3 500</td></tr><tr><td>c) Vydání cejchovního průkazu k plavidlu</td><td></td><td></td></tr><tr><td>– určenému k přepravě nákladů</td><td>Kč</td><td>10 000</td></tr><tr><td>– neurčenému k přepravě nákladů</td><td>Kč</td><td>5 000</td></tr><tr><td>d) Prodloužení platnosti cejchovního průkazu k plavidlu</td><td></td><td></td></tr><tr><td>– určenému k přepravě nákladů</td><td>Kč</td><td>5 000</td></tr><tr><td>– neurčenému k přepravě nákladů</td><td>Kč</td><td>2 500</td></tr><tr><td>e) Vystavení prozatímního osvědčení</td><td>Kč</td><td>300</td></tr><tr><td>f) Vystavení povolení pro umístění plavidla na vodní cestě anebo povolení k provozování zahraničního plavidla na vodních cestách České republiky</td><td>Kč</td><td>500</td></tr><tr><td>g) Schválení způsobilosti určeného technického zařízení na plavidle</td><td>Kč</td><td>100</td></tr><tr><td></td><td colspan="2">za každý druh zařízení</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Schválení způsobilosti určeného technického zařízení na plavidle uvedené v písmenu g) této položky před vydáním osvědčení plavidla.</td></tr><tr><td colspan="3">2. Vydání duplikátu osvědčení plavidla.</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Ponorem uváděným v písmeni b) této položky se rozumí ponor bez ohledu na kýl a jiné pevně uchycené příslušenství na dně plavidla.</td></tr><tr><td colspan="3">2. Za provedení pravidelné technické prohlídky, technické prohlídky navazující na úpravu nebo opravu plavidla nebo technické prohlídky navazující na výkon státního dozoru se vybere poplatek ve výši 60 % sazby poplatku uvedené v písmeni b).</td></tr><tr><td colspan="3">3. Za provedení technické prohlídky ke schválení technické způsobilosti rekreačního plavidla nebo vodního skútru s označením CE a prohlášením o shodě nebo sériově vyrobeného malého plavidla, pro které výrobce vydal typové osvědčení, se vybere poplatek ve výši 40 % sazby poplatku uvedené v písmeni b).</td></tr></tbody></table>
+
+**Položka 39**
+
+<table><tbody><tr><td>a) Schválení technické dokumentace pro stavbu jednoho malého plavidla nebo plovoucího zařízení a povolení ke stavbě tohoto plavidla nebo zařízení</td><td>Kč</td><td>2 000</td></tr><tr><td>b) Vydání průkazu způsobilosti typu plavidla</td><td>Kč</td><td>6 000</td></tr><tr><td>c) Zápis změny vlastníka nebo provozovatele plavidla nebo změna údajů o plavidle do plavebního rejstříku a lodních dokladů</td><td>Kč</td><td>200</td></tr><tr><td>d) Zápis změny vlastníka nebo provozovatele malého plavidla nebo změna údajů o malém plavidle do rejstříku malých plavidel a do lodních dokladů</td><td>Kč</td><td>100</td></tr><tr><td>e) Zápis plavidla do plavebního rejstříku nebo jeho výmaz z plavebního rejstříku</td><td>Kč</td><td>200</td></tr><tr><td>f) Zápis malého plavidla do rejstříku malých plavidel nebo jeho výmaz z rejstříku malých plavidel</td><td>Kč</td><td>100</td></tr><tr><td>g) Schválení opravy nebo přestavby zasahující do konstrukce plavidla<sup>34</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Zápis změny uvedené v písmenech c) a d) této položky provedený před vydáním nebo prodloužením platnosti osvědčení pro plavidlo.</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Poplatek podle písmen c) a d) této položky se vybírá jen jednou za všechny změny provedené současně v dokladech a rejstříkových záznamech jednoho plavidla.</td></tr></tbody></table>
+
+**Položka 40**
+
+<table><tbody><tr><td>a) Vydání povolení pro zvláštní přepravu</td><td>Kč</td><td>1 500</td></tr><tr><td>b) Vydání povolení k provozování pozemní části přístavu</td><td>Kč</td><td>2 000</td></tr><tr><td>c) Vydání povolení k provozování přístaviště, překladiště, vývaziště nebo kotviště</td><td>Kč</td><td>1 000</td></tr><tr><td>d) Vydání povolení k provozování půjčovny malých plavidel</td><td>Kč</td><td>2 000</td></tr><tr><td>e) Vydání povolení pro konání akce na sledované vodní cestě</td><td>Kč</td><td>500</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle písmene a) této položky je osvobozeno vydání povolení pro přemisťování plovoucích přístavních můstků veřejné dopravy.</td></tr></tbody></table>
+
+**Položka 41**
+
+| a) Vydání námořnické knížky | Kč | 500 |
+|---|---|---|
+| b) Vydání průkazu způsobilosti | | |
+| - člena strážní služby | Kč | 1 500 |
+| - důstojníka | Kč | 2 000 |
+| - kapitána | Kč | 3 000 |
+| - ostatních členů posádky lodě | Kč | 1 000 |
+| - velitele námořní jachty nebo k vedení rekreační jachty | Kč | 500 |
+| c) Prodloužení platnosti průkazu způsobilosti nebo jeho výměna | Kč | 400 |
+| d) Vydání potvrzení osvědčujícího uznání průkazu způsobilosti | | |
+| - důstojníka | Kč | 2 000 |
+| - kapitána | Kč | 3 000 |
+| e) Vydání dokladu uvedeného v písmenech a) až d) (duplikátu) náhradou za doklad ztracený, zničený nebo poškozený | Kč | 400 |
+| f) Vydání osvědčení o zdravotní způsobilosti | Kč | 200 |
+
+**Položka 42**
+
+| a) Zápis námořního plavidla do námořního rejstříku, jde-li | | |
+|---|---|---|
+| - o námořní jachty, jejichž délka trupu nepřesahuje 12 m včetně | Kč | 10 000 |
+| - o námořní jachty, jejichž délka trupu přesahuje 12 m | Kč | 15 000 |
+| - o námořní obchodní lodě (dále jen „lodě“) | Kč | 100 000 |
+| - o cisternové lodě nebo lodě určené ke speciálním účelům | Kč | 130 000 |
+| b) Zápis rozestavěné lodě do námořního rejstříku včetně potvrzení o zápisu | Kč | 50 000 |
+| - cisternové lodě nebo lodě určené ke speciálním účelům | Kč | 65 000 |
+| c) Zápis o zařazení rekreační jachty do evidence rekreačních jachet, jde-li | | |
+| - o rekreační jachty, jejich délka trupu nepřesahuje 12 m včetně | Kč | 5 000 |
+| - o rekreační jachty jejichž délka trupu přesahuje 12 m | Kč | 10000 |
+
+**Položka 43**
+
+| a) Zápis výmazu námořního plavidla do námořního rejstříku včetně potvrzení o výmazu, jde-li | | |
+|---|---|---|
+| - o námořní jachty | Kč | 2 000 |
+| - o námořní lodě | Kč | 10 000 |
+| b) Zápis o vyřazení rekreační jachty z evidence rekreačních jachet včetně potvrzení o vyřazení | Kč | 2 000 |
+
+**Položka 44**
+
+| a) Udělení prozatímního povolení k plavbě lodě | Kč | 10 000 |
+|---|---|---|
+| b) Udělení prozatímního povolení k plavbě námořní jachtě | Kč | 3 000 |
+| c) Vydání lodních listin, jde-li | | |
+| - o námořní nebo rekreační jachty | Kč | 1 000 |
+| - o námořní lodě | Kč | 2 500 |
+
+**Položka 45**
+
+<table><tbody><tr><td>a) Vydání povolení k provozování letiště nebo ke stanovení jeho druhu</td><td></td><td></td></tr><tr><td>– mezinárodní veřejné</td><td>Kč</td><td>20 000</td></tr><tr><td>– mezinárodní neveřejné</td><td>Kč</td><td>15 000</td></tr><tr><td>– vnitrostátní veřejné</td><td>Kč</td><td>10 000</td></tr><tr><td>– vnitrostátní neveřejné</td><td>Kč</td><td>5 000</td></tr><tr><td>b) Změna povolení k provozování letiště nebo ke stanovení jeho druhu</td><td colspan="2">15 % sazby poplatků podle písmene a) této položky</td></tr><tr><td>c) Schválení provozní způsobilosti letiště pro letadla s maximální vzletovou hmotností</td><td></td></tr><tr><td>– vyšší než 10 tun</td><td>Kč</td><td>50 000</td></tr><tr><td>– 10 tun a nižší</td><td>Kč</td><td>15 000</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle písmene a) této položky jsou osvobozeny subjekty zajišťující integrovaný záchranný systém.</td></tr></tbody></table>
+
+**Položka 46**
+
+| Vydání rozhodnutí o souhlasu ke zřizování zařízení a provádění činností, které nesouvisí s leteckým provozem v ochranném pásmu leteckých staveb | Kč | 5 000 |
+|---|---|---|
+
+**Položka 47**
+
+<table><tbody><tr><td>a) Vydání licence tuzemskému leteckému dopravci k provozování pravidelné obchodní letecké dopravy</td><td>Kč</td><td>80 000</td></tr><tr><td>b) Vydání licence tuzemskému leteckému dopravci k provozování nepravidelné obchodní letecké dopravy letadlem s maximální vzletovou hmotností</td><td></td><td></td></tr><tr><td>– 10 tun a nižší nebo s celkovým počtem sedadel pro cestující 20 včetně a menším</td><td>Kč</td><td>30 000</td></tr><tr><td>– vyšší než 10 tun nebo s celkovým počtem sedadel pro cestující větším než 20</td><td>Kč</td><td>80 000</td></tr><tr><td>c) Prodloužení platnosti nebo jiná změna osvědčení leteckého provozovatele nebo změna licence</td><td>Kč</td><td>3 000</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Úkon zpoplatňovaný podle této položky zahrnuje i vydání osvědčení leteckého provozovatele Úřadem pro civilní letectví.</td></tr></tbody></table>
+
+**Položka 48**
+
+<table><tbody><tr><td>a) Zápis do rejstříku letadel nebo výmaz z rejstříku letadel anebo změna údajů zapisovaných do rejstříku letadel pro letadla s maximální vzletovou hmotností</td><td></td><td></td></tr><tr><td>– vyšší než 10 tun</td><td>Kč</td><td>8 000</td></tr><tr><td>– 10 tun a nižší</td><td>Kč</td><td>3 000</td></tr><tr><td>b) Vydání průkazu způsobilosti člena leteckého personálu nebo jeho duplikátu</td><td>Kč</td><td>1 000</td></tr><tr><td>c) Další vydání průkazu způsobilosti člena leteckého personálu z důvodu změny údajů nebo z důvodu jeho zaplnění apod.</td><td>Kč</td><td>100</td></tr><tr><td>d) Teoretická zkouška pro vydání průkazu způsobilosti pilota letounů nebo vrtulníků nebo technika údržby letadel nebo kvalifikace IR</td><td>Kč</td><td>5 000</td></tr><tr><td>e) Ostatní teoretické zkoušky pro vydání průkazu způsobilosti leteckého personálu, včetně zkoušky z angličtiny</td><td>Kč</td><td>2 000</td></tr><tr><td>f) Ověření odborné způsobilosti praktickou zkouškou</td><td>Kč</td><td>500</td></tr><tr><td>g) Vydání dokladu letadla (palubní deník, letadlová kniha apod.)</td><td>Kč</td><td>500</td></tr><tr><td>h) Zápis a výmaz zástavního práva k letadlu nebo jeho části</td><td>Kč</td><td>2 000</td></tr><tr><td>i) Přidělení letadlové adresy</td><td>Kč</td><td>500</td></tr><tr><td>j) Teoretická zkouška pro vydání průkazu parašutisty</td><td>Kč </td><td>500</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Úkon zpoplatňovaný podle písmene a) této položky zahrnuje i vydání osvědčení, dokladů, popřípadě potvrzení o vlastnictví letadla podle zvláštního právního předpisu upravujícího civilní letectví <sup>35</sup>).</td></tr><tr><td colspan="3">2. Úkon zpoplatňovaný podle písmene g) se vybere v případě vydání druhého a dalších dokladů letadla. První vydání dokladu je zpoplatněno v poplatku za zápis letadla do rejstříku letadel.</td></tr></tbody></table>
+
+**Položka 49**
+
+<table><tbody><tr><td>a) Udělení oprávnění k vývoji, projektování, výrobě, zkouškám, údržbě, opravám, modifikacím a konstrukčním změnám letadel, jejich součástí a výrobků letecké techniky<sup>35</sup>)</td><td>Kč</td><td>20 000</td></tr><tr><td>b) Vydání osvědčení o oprávnění k údržbě organizaci<sup>84</sup>), k výrobě organizaci<sup>85</sup>), nebo schvalovacího dopisu k výrobě organizaci<sup>75</sup>)</td><td></td><td></td></tr><tr><td>– do 10 zaměstnanců</td><td>Kč</td><td>15 000</td></tr><tr><td>– 11 – 30 zaměstnanců včetně</td><td>Kč</td><td>30 000</td></tr><tr><td>– 31 – 50 zaměstnanců včetně</td><td>Kč</td><td>45 000</td></tr><tr><td>– nad 50 zaměstnanců</td><td>Kč</td><td>60 000</td></tr><tr><td>c) Udělení oprávnění k vývoji, projektování, výrobě, zkoušení, instalacím, údržbě, opravám, modifikacím a konstrukčním změnám leteckých pozemních zařízení</td><td>Kč</td><td>20 000</td></tr><tr><td>d) Vydání osvědčení o oprávnění organizace k řízení zachování letové způsobilosti<sup>84</sup>)</td><td colspan="2"></td></tr><tr><td>– bezmotorových letadel, letadel s pístovým motorem/motory a letadel s jedním turbínovým motorem</td><td>Kč</td><td>15 000</td></tr><tr><td>– letadel s více než jedním turbínovým motorem</td><td>Kč</td><td>40 000</td></tr><tr><td>e) Vydání doporučení pro zahraniční letecký úřad pro vydání oprávnění k údržbě v souladu s přímo použitelným předpisem Evropské unie<sup>76</sup>) nebo mezinárodní smlouvou, která je součástí právního řádu</td><td colspan="2">50 % poplatku pod písmenem b)</td></tr></tbody></table>
+
+**Poznámky**
+
+1\. Při žádosti organizace na prodloužení platnosti nebo změnu oprávnění se vybírá poplatek ve výši 1/3 sazby této položky. U písmene b) se vybírá poplatek podle aktuálního počtu zaměstnanců v době podání žádosti a u písmene d) se vybírá poplatek podle nově schvalovaného rozsahu oprávnění.
+
+2\. Počtem zaměstnanců organizace uvedených v písmenu b) se rozumí počet zaměstnanců přímo zapojených do provádění, řízení, plánování, technického a materiálního zabezpečení údržby, resp. výroby včetně systému jakosti.
+
+3\. U položek b) a d) se vybírá roční udržovací poplatek ve výši 1/3 poplatku za udělení oprávnění.
+
+4\. Za udělení výjimky v maximální délce trvání dvou měsíců pro vydané oprávnění podle přímo použitelného předpisu Evropské unie<sup>76</sup>) se vybírá poplatek ve výši 10 % sazby za vydané oprávnění.
+
+5\. Za udělení výjimky s dobou platnosti delší než 2 měsíce a za udělení opakované výjimky pro vydané oprávnění podle přímo použitelného předpisu Evropské unie<sup>76</sup>) se vybírá poplatek ve výši 30 % sazby za vydané oprávnění.
+
+**Položka 50**
+
+| a) Vydání osvědčení pro výcvik leteckého personálu | Kč | 20 000 |
+|---|---|---|
+| b) Změna osvědčení pro výcvik leteckého personálu | Kč | 10 000 |
+| c) Uznání platnosti zahraničního průkazu způsobilosti | | |
+| – jde-li o občana České republiky nebo občana členského státu Evropské unie, jiného státu tvořícího Evropský hospodářský prostor nebo Švýcarské konfederace | Kč | 1 000 |
+| – jde-li o občana státu, který není členským státem Evropské unie, jiného státu tvořícího Evropský hospodářský prostor nebo Švýcarské konfederace | Kč | 3 000 |
+| **Poznámka** | | |
+| Změnou osvědčení se rozumí i změna jeho příloh. | | |
+
+**Položka 51**
+
+| 1. Přijetí žádosti o povolení k provádění leteckých prací nebo leteckých činností pro vlastní potřebu | Kč | 10 000 |
+|---|---|---|
+| 2. Přijetí žádosti o prodloužení platnosti nebo změnu povolení k provádění leteckých prací<br> nebo leteckých činností pro vlastní potřebu | Kč | 1 500 |
+| 3. Přijetí žádosti o udělení oprávnění k provozu bezpilotních systémů ve specifické kategorii provozu | Kč | 4 000 |
+| 4. Změna dokladu osvědčujícího oprávnění k provozu bezpilotních systémů ve specifické kategorii provozu | Kč | 400 |
+| 5. Přijetí žádosti o udělení oprávnění k provozu lehkých bezpilotních systémů ve specifické kategorii provozu | Kč | 25 000 |
+| 6. Změna osvědčení provozovatele lehkých bezpilotních systémů | Kč | 2 500 |
+| 7. Provedení dodatečné zkoušky z teoretických znalostí žadatele o vydání osvědčení o<br> způsobilosti k řízení bezpilotního systému Úřadem pro civilní letectví | Kč | 500 |
+| 8. Přijetí žádosti o udělení oprávnění spolku k provádění rekreačních, sportovních nebo<br> soutěžních letů anebo veřejných leteckých vystoupení bezpilotními systémy | Kč | 10 000 |
+| 9. Změna rozhodnutí o udělení oprávnění spolku k provádění rekreačních, sportovních nebo<br> soutěžních letů anebo veřejných leteckých vystoupení bezpilotními systémy | Kč | 2 500 |
+| 10. Přijetí žádosti o udělení souhlasu k provozování leteckého veřejného vystoupení | Kč | 3 000 |
+
+**Osvobození**
+
+1\. Od poplatku podle bodu 10 této položky jsou osvobozena letecká veřejná vystoupení s výhradní účastí bezpilotních systémů.
+
+2\. Od poplatku podle bodu 10 této položky jsou dále osvobozeny propagační parašutistické akce, které jsou součástí programů jiných společenských nebo kulturních akcí.
+
+**Položka 52**
+
+| a) Vydání rozhodnutí o pověření podle přímo použitelného předpisu Evropské unie<sup>77</sup>) k poskytování | | |
+|---|---|---|
+| – letových provozních služeb v rozsahu oblastní služby řízení, přibližovací služby řízení a letištní služby řízení | Kč | 20 000 |
+| – ostatních letových provozních služeb mimo služby uvedené pod písmenem a) a meteorologických služeb | Kč | 10 000 |
+| b) Vydání osvědčení k poskytování letových navigačních služeb podle přímo použitelného předpisu Evropské unie<sup>77</sup>) pro | | |
+| – poskytování letových provozních služeb v rozsahu oblastní služby řízení | Kč | 80 000 |
+| – poskytování letových provozních služeb v rozsahu přibližovací služby řízení pro letiště s velkou hustotou provozu | Kč | 50 000 |
+| – poskytování letových provozních služeb v rozsahu letištní služby řízení pro letiště s velkou hustotou provozu | Kč | 50 000 |
+| – poskytování letových provozních služeb v rozsahu přibližovací služby řízení pro letiště s malou a střední hustotou provozu | Kč | 30 000 |
+| – poskytování letových provozních služeb v rozsahu letištní služby řízení pro letiště s malou a střední hustotou provozu | Kč | 30 000 |
+| – poskytování ostatních letových provozních služeb | Kč | 10 000 |
+| – poskytování meteorologické služby, letecké informační služby, navigačních služeb, komunikačních služeb nebo přehledových služeb | Kč | 20 000 |
+| c) Vydání povolení k poskytování služby při předletové přípravě a monitorování letu nebo při odbavovacím procesu na letišti nebo k poskytování služby tvorby letových postupů | Kč | 20 000 |
+| d) Změna povolení k poskytování služby při předletové přípravě a monitorování letu nebo při odbavovacím procesu na letišti nebo k poskytování služby tvorby letových postupů | Kč | 2 000 |
+| e) Vyhrazení části vzdušného prostoru opatřením obecné povahy, přesáhne-li doba vyhrazení 24 hodin v průběhu tří dnů po sobě jdoucích nebo vymezení části vzdušného prostoru opatřením obecné povahy z důvodu ochrany práv či oprávněných zájmů žadatele | Kč | 20 000 |
+
+**Poznámky**
+
+1\. V případě rozhodnutí o pověření podle písmene a) k poskytování více služeb v rámci jednoho rozhodnutí vybírá se poplatek pouze za jedno pověření s nejvyšší sazbou v rámci vydaného rozhodnutí.
+
+2\. V případě vydání osvědčení podle písmene b) k poskytování více letových navigačních služeb v rámci jednoho osvědčení vybírá se poplatek pouze za jedno poskytování služeb s nejvyšší sazbou v rámci vydaného osvědčení.
+
+3\. Za změnu osvědčení vydaného podle písmene b) se vybírá poplatek ve výši 1/3 sazby za vydání osvědčení. V případě doplnění další poskytované služby k již vydanému osvědčení podle písmene b) se vybírá poplatek jako při vydání osvědčení pro tuto službu.
+
+**Osvobození**
+
+Od poplatku podle písmene e) jsou osvobozeny akce sportovního charakteru nebo pro potřeby Armády České republiky.
+
+**Položka 53**
+
+| a) Vydání rozhodnutí o souhlasu ke zkušebnímu létání | Kč | 10 000 |
+|---|---|---|
+| b) Prodloužení platnosti nebo změna rozhodnutí o souhlasu ke zkušebnímu létání | Kč | 2 000 |
+
+**Položka 54**
+
+a) Vydání rozhodnutí o schválení typu letadla včetně vydání Typového osvědčení (sazba poplatku pod písmenem A)
+
+b) Vydání rozhodnutí o schválení významné konstrukční změny typu letadla nebo významné modifikace jednotlivého letadla včetně vydání Doplňkového typového osvědčení, schválení modifikace nebo změny Typového osvědčení (sazba poplatku pod písmenem B)
+
+c) Uznání typu letadla na základě dokladu o schválení typu letadla vydaného zahraničním leteckým úřadem včetně vydání dokladu o uznání způsobilosti typu (sazba poplatku pod písmenem C)
+
+d) Vydání rozhodnutí o schválení nestandardní opravy (sazba poplatku pod písmenem D)
+
+e) Vydání Osvědčení hlukové způsobilosti (sazba poplatku pod písmenem E)
+
+<table><tbody><tr><th rowspan="2"></th><th>Sazba v Kč</th><th>Sazba v Kč</th><th>Sazba v Kč</th><th>Sazba v Kč</th><th>Sazba v Kč</th></tr><tr><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th></tr><tr><td>Balóny a vzducholodě</td><td>8 000</td><td>1 000</td><td>4 000</td><td>–</td><td>–</td></tr><tr><td>Kluzáky</td><td>15 000</td><td>3 000</td><td>5 000</td><td>1 000</td><td>–</td></tr><tr><td>Motorizované kluzáky a ultralehká letadla</td><td>25 000</td><td>5 000</td><td>8 000</td><td>2 000</td><td>2 000</td></tr><tr><td>Letouny a vrtulníky do 5 700 kg maximální vzletové hmotnosti včetně</td><td>40 000</td><td>10 000</td><td>10 000</td><td>5 000</td><td>4 000</td></tr><tr><td>Letouny a vrtulníky nad 5 700 kg maximální vzletové hmotnosti</td><td>80 000</td><td>25 000</td><td>35 000</td><td>15 000</td><td>10 000</td></tr></tbody></table>
+
+f) Schválení změny Osvědčení hlukové způsobilosti pro letadlo – 10 % sazby poplatku pod písmenem E
+
+g) Rozhodnutí o schválení nevýznamné konstrukční změny/modifikace
+
+| | Sazba v Kč |
+|---|---|
+| Balóny a vzducholodě | 500 |
+| Kluzáky | 1 500 |
+| Motorizované kluzáky a ultralehká letadla | 2 500 |
+| Letouny a vrtulníky do 5 700 kg maximální vzletové hmotnosti včetně | 5 000 |
+| Letouny a vrtulníky nad 5 700 kg maximální vzletové hmotnosti | 12 500 |
+
+**Poznámky**
+
+1\. Poplatek podle písmene b) této položky se vybírá jen za rozhodnutí o schválení významné konstrukční změny typu letadla nebo za významnou modifikaci jednotlivého letadla. Významnou změnou nebo významnou modifikací se pro účely tohoto zákona rozumí takové změny nebo modifikace, které mají podstatný účinek na hmotnost, polohu těžiště, pevnost konstrukce, spolehlivost, provozní charakteristiku nebo jinou charakteristiku ovlivňující letovou způsobilost letadla.
+
+2\. Nestandardní opravou se pro účely tohoto zákona rozumí oprava, ke které nejsou podklady součástí instrukcí pro zachování letové způsobilosti zpracovaných držitelem Typového osvědčení při schvalování typu letadla.
+
+**Položka 55**
+
+a) Vydání osvědčení letové způsobilosti (sazba poplatku pod písmenem F)
+
+b) Prodloužení platnosti osvědčení letové způsobilosti, zvláštního osvědčení letové způsobilosti nebo obnovení letové způsobilosti, která u letadla dočasně zanikla (sazba poplatku pod písmenem G)
+
+c) Vydání zvláštního osvědčení letové způsobilosti
+
+– s platností do 60 dnů včetně (sazba poplatku pod písmenem G)
+
+– s platností nad 60 dnů (sazba poplatku pod písmenem F)
+
+d) Vydání osvědčení letové způsobilosti pro zvláštní účely (sazba poplatku pod písmenem F)
+
+e) Vydání exportního osvědčení letové způsobilosti (sazba poplatku pod písmenem F)
+
+f) Vydání povolení k letu
+
+– s platností do 60 dnů včetně (sazba poplatku pod písmenem G)
+
+– s platností nad 60 dnů (sazba poplatku pod písmenem F)
+
+g) Schválení letových podmínek
+
+– pro povolení k letu s platností do 60 dnů (sazba poplatku pod písmenem G)
+
+– pro povolení k letu s platností nad 60 dnů (sazba poplatku pod písmenem F)
+
+h) Vydání osvědčení kontroly letové způsobilosti
+
+– vydání osvědčení kontroly letové způsobilosti na základě předložení doporučení vydaného organizací k řízení zachování letové způsobilosti (sazba poplatku pod písmenem G)
+
+– vydání osvědčení kontroly letové způsobilosti bez předložení doporučení vydaného organizací k řízení zachování letové způsobilosti (sazba pod písmenem F)
+
+i) Vrácení zadrženého osvědčení letové způsobilosti 50 % poplatku pod písmenem F
+
+j) Schválení Programu údržby pro letadlo 50 % sazby poplatku pod písmenem F
+
+k) Schválení změny Programu údržby pro letadlo 10 % sazby poplatku pod písmenem F
+
+l) Schválení MEL pro letadlo 40 % sazby poplatku pod písmenem F
+
+m) Schválení změny MEL pro letadlo 10 % sazby poplatku pod písmenem F
+
+n) Udělení výjimky v souladu s přímo použitelným předpisem Evropské unie<sup>78</sup>) s platností do dvou měsíců vztahující se na jedno letadlo se vzletovou hmotností do 5 700 kg 10 % sazby poplatku pod písmenem F
+
+o) Udělení výjimky v souladu s přímo použitelným předpisem Evropské unie<sup>78</sup>) s platností do dvou měsíců vztahující se na jedno letadlo se vzletovou hmotností nad 5 700 kg 10 % sazby poplatku pod písmenem F
+
+p) Udělení opakované výjimky v souladu s přímo použitelným předpisem Evropské unie<sup>78</sup>) nebo výjimky vztahující se na více letadel nebo výjimky s platností delší než dva měsíce dle sazby poplatku pod písmenem F
+
+q) Schválení systému technického deníku podle přímo použitelného předpisu Evropské unie<sup>79</sup>) dle sazby poplatku pod písmenem G
+
+<table><tbody><tr><th rowspan="2"></th><th>Sazba v Kč</th><th>Sazba v Kč</th></tr><tr><th>F</th><th>G</th></tr><tr><td>Balóny a vzducholodě</td><td>2 000</td><td>300</td></tr><tr><td>Kluzáky</td><td>5 000</td><td>300</td></tr><tr><td>Motorizované kluzáky a ultralehká letadla</td><td>6 000</td><td>500</td></tr><tr><td>Letouny a vrtulníky do 5 700 kg maximální vzletové hmotnosti včetně</td><td>10 000</td><td>700</td></tr><tr><td>Letouny a vrtulníky nad 5 700 kg maximální vzletové hmotnosti</td><td>25 000</td><td>3 000</td></tr><tr><td>Motory-pro zástavbu do kluzáků a ultralehkých letadel</td><td>2 000</td><td></td></tr><tr><td>Motory-pístové</td><td>3 000</td><td></td></tr><tr><td>Motory-turbovrtulové, turbohřídelové a proudové</td><td>5 000</td><td></td></tr><tr><td>Vrtule s pevným úhlem nastavení listu</td><td>2 000</td><td></td></tr><tr><td>Vrtule-přestavitelné na zemi</td><td>2 500</td><td></td></tr><tr><td>Vrtule-stavitelné za letu</td><td>3 000</td><td></td></tr></tbody></table>
+
+r) Schválení změny systému technického deníku pro letadlo – 10 % sazby poplatku pod písmenem G, nejméně však 100 Kč
+
+**Zmocnění**
+
+Správní úřad může snížit poplatek na 10 % sazby poplatků podle písmene F za změny v dokladech.
+
+**Poznámka**
+
+Bude-li vydáváno nové osvědčení letové způsobilosti společně s osvědčením kontroly letové způsobilosti vybírá se poplatek pouze za osvědčení letové způsobilosti.
+
+**Položka 56**
+
+a) Schválení typu součásti letadla včetně vydání Typového osvědčení
+
+– u motoru (sazba poplatku pod písmenem H)
+
+– u vrtule (sazba poplatku pod písmenem K)
+
+b) Vydání rozhodnutí o schválení významné konstrukční změny typu součásti letadla včetně vydání Doplňkového typového osvědčení nebo změny Typového osvědčení
+
+– u motoru (sazba poplatku pod písmenem I)
+
+– u vrtule (sazba poplatku pod písmenem L)
+
+c) Uznání typu součásti letadla na základě dokladu o schválení typu součásti letadla vydaného leteckým úřadem jiného státu včetně uznání způsobilosti typu
+
+– u motoru (sazba poplatku pod písmenem J)
+
+– u vrtule (sazba poplatku pod písmenem M)
+
+<table><tbody><tr><th rowspan="2"></th><th>Sazba v Kč</th><th>Sazba v Kč</th><th>Sazba v Kč</th></tr><tr><th>H</th><th>I</th><th>J</th></tr><tr><td>Motory</td><td colspan="3"></td></tr><tr><td>– pro zástavbu do kluzáků a ultralehkých letadel</td><td>5 000</td><td>2 500</td><td>2 500</td></tr><tr><td>– pístové</td><td>10 000</td><td>5 000</td><td>5 000</td></tr><tr><td>– turbovrtulové, turbohřídelové a proudové</td><td>20 000</td><td>8 000</td><td>10 000</td></tr></tbody></table>
+
+<table><tbody><tr><th rowspan="2"></th><th>Sazba v Kč</th><th>Sazba v Kč</th><th>Sazba v Kč</th></tr><tr><th>K</th><th>L</th><th>M</th></tr><tr><td>Vrtule</td><td colspan="3"></td></tr><tr><td>– s pevným úhlem nastavení listu – dřevěné</td><td>2 000</td><td>1 000</td><td>1 000</td></tr><tr><td>– s pevným úhlem nastavení listu – kovové a kompozitové</td><td>3 000</td><td>2 000</td><td>2 000</td></tr><tr><td>– přestavitelné na zemi</td><td>5 000</td><td>3 000</td><td>3 000</td></tr><tr><td>– stavitelné za letu</td><td>8 000</td><td>4 000</td><td>4 000</td></tr></tbody></table>
+
+**Poznámka**
+
+Významnou konstrukční změnou se pro účely tohoto zákona rozumí změna, která má podstatný účinek na hmotnost, pevnost konstrukce, spolehlivost, provozní charakteristiku nebo jinou charakteristiku ovlivňující letovou způsobilost součásti letadla.
+
+**Položka 57**
+
+<table><tbody><tr><td>a) Vydání rozhodnutí o schválení typové způsobilosti výrobků letecké techniky k použití v civilním letectví</td><td>Kč</td><td>2 000</td></tr><tr><td>b) Vydání rozhodnutí o schválení způsobilosti leteckých pozemních zařízení</td><td colspan="2"></td></tr><tr><td>– světelná zařízení a součásti soustav světelných zařízení</td><td>Kč</td><td>3 000</td></tr><tr><td>– pozemní elektronická zabezpečovací zařízení</td><td>Kč</td><td>5 000</td></tr><tr><td>– pozemní zařízení pro diagnostiku a vyhodnocování způsobilosti letadel</td><td>Kč</td><td>5 000</td></tr><tr><td>– pozemní zdroje energií pro letadla</td><td>Kč</td><td>3 000</td></tr><tr><td>– letecké trenažéry</td><td>Kč</td><td>30 000</td></tr><tr><td>– letecké simulátory</td><td>Kč</td><td>50 000</td></tr><tr><td>– zařízení pro měření a vyhodnocování brzdných účinků na pohybovaných plochách letišť</td><td>Kč</td><td>3 000</td></tr><tr><td>– zařízení určená pro přepravu nákladů na palubě letadla</td><td>Kč</td><td>3 000</td></tr><tr><td>c) Prodloužení platnosti rozhodnutí o schválení typové způsobilosti výrobků letecké techniky k použití v civilním letectví</td><td colspan="2">25 % sazby poplatku podle písmene a) této položky.</td></tr></tbody></table>
+
+**Předmětem poplatku není**
+
+Úkon uvedený v této položce, jde-li o výrobky nepodléhající státnímu dozoru Úřadu pro civilní letectví.
+
+**Poznámky**
+
+1\. Úkon zpoplatňovaný podle této položky zahrnuje i vydání dokladu nebo rozhodnutí.
+
+2\. Za vydání rozhodnutí o schválení provozní způsobilosti výrobků se vybírají poplatky podle písmene b) této položky.
+
+**Položka 58**
+
+| a) Vydání rozhodnutí o zařazení železniční dráhy do kategorie nebo o změně kategorie železniční dráhy | Kč | 2 000 |
+|---|---|---|
+| b) Vydání úředního povolení k provozování dráhy | | |
+| - celostátní nebo regionální | Kč | 10 000 |
+| - speciální, tramvajové, trolejbusové nebo místní anebo vlečky s délkou její dopravní cesty delší než 1 000 m | Kč | 3 000 |
+| - vlečky s délkou dopravní cesty 1 000 m včetně a kratší | Kč | 1 500 |
+| - lanové | Kč | 1 000 |
+| c) Změna úředního povolení k provozování dráhy | Kč | 1 000 |
+| d) Přijetí návrhu provozovatele dráhy na zrušení úředního povolení k provozování dráhy | Kč | 500 |
+| e) Vydání licence k provozování drážní dopravy na dráze | | |
+| - celostátní nebo regionální | Kč | 10 000 |
+| - speciální, tramvajové, trolejbusové nebo místní anebo vlečce | Kč | 3 000 |
+| f) Změna licence k provozování drážní dopravy | Kč | 1 000 |
+| g) Přijetí návrhu dopravce na odejmutí licence | Kč | 500 |
+| h) Vydání rozhodnutí o rozsahu a způsobu zabezpečení křížení železniční dráhy s pozemními komunikacemi v úrovní kolejí nebo o jeho změně | Kč | 500 |
+| i) Vydání osvědčení provozovatele dráhy nebo osvědčení dopravce, nejde-li o vydání osvědčení provozovatele dráhy nebo osvědčení dopravce z důvodu omezení provozování dráhy nebo drážní dopravy | Kč | 5 000 |
+| j) Vydání osvědčení provozovatele dráhy nebo osvědčení dopravce v případě změny údaje obsaženého v osvědčení, nejde-li o změnu údaje v osvědčení dopravce o druhu, rozsahu nebo oblasti provozu | Kč | 1 500 |
+| k) Vydání licence strojvedoucího | Kč | 500 |
+| l) Udělení akreditace k provádění školení pro získání licence strojvedoucího a osvědčení strojvedoucího nebo akreditace k provádění školení zaměstnanců provozovatele dráhy celostátní nebo regionální a zaměstnanců dopravce provozujícího drážní dopravu na této dráze | Kč | 3 000 |
+
+**Položka 59**
+
+| a) Vydání povolení typu vozidla pro hnací drážní vozidlo | Kč | 30000 |
+|---|---|---|
+| b) Vydání povolení typu vozidla pro tažené drážní vozidlo určené pro přepravu osob nebo speciálně konstruované drážní vozidlo s vlastním pohonem určené k výstavbě, opravám a údržbě drah | Kč | 15000 |
+| c) Vydání povolení typu vozidla pro tažené drážní vozidlo určené pro přepravu věcí nebo zvířat nebo speciálně konstruované drážní vozidlo bez vlastního pohonu určené k výstavbě, opravám a údržbě drah | Kč | 10000 |
+| d) Schválení typu drážního vozidla pro elektrickou lokomotivu, elektrickou jednotku, motorovou lokomotivu, motorový vůz, osobní vůz s rychlostí nad 160 km/h, vozidlo dráhy speciální určené pro přepravu cestujících, tramvaj nebo trolejbus | Kč | 30000 |
+| e) Schválení typu drážního vozidla pro osobní vůz s rychlostí do 160 km/h nebo speciálně konstruované železniční vozidlo s vlastním pohonem k výstavbě, opravám a údržbě drah | Kč | 15000 |
+| f) Schválení typu drážního vozidla pro nákladní vůz nebo speciálně konstruované železniční vozidlo bez vlastního pohonu k výstavbě, opravám a údržbě drah | Kč | 10000 |
+| g) Vydání povolení k uvedení drážního vozidla nebo řady vozidel na trh, bylo-li vydáno povolení typu vozidla | Kč | 500 |
+| h) Vydání povolení k uvedení drážního vozidla na trh, nebylo-li vydáno povolení typu vozidla, pro hnací drážní vozidlo | Kč | 30000 |
+| i) Vydání povolení k uvedení drážního vozidla na trh, nebylo-li vydáno povolení typu vozidla, pro tažené drážní vozidlo určené pro přepravu osob nebo speciálně konstruované drážní vozidlo s vlastním pohonem určené k výstavbě, opravám a údržbě drah | Kč | 15000 |
+| j) Vydání povolení k uvedení drážního vozidla na trh, nebylo-li vydáno povolení typu vozidla, pro tažené drážní vozidlo určené pro přepravu věcí nebo zvířat nebo speciálně konstruované drážní vozidlo bez vlastního pohonu určené k výstavbě, opravám a údržbě drah | Kč | 10000 |
+| k) Vydání průkazu způsobilosti drážního vozidla | Kč | 500 |
+| l) Vydání povolení k uvedení drážního vozidla na trh nebo povolení typu vozidla v případě jeho obnovy nebo modernizace, v případě rozšíření oblasti jeho provozu nebo v případě změny technické specifikace pro interoperabilitu | Kč | 5000 |
+| m) Schválení změny na drážním vozidle znamenající odchylku od schváleného typu bez ohledu na počet odchylek | Kč | 5000 |
+| n) Zápis drážního vozidla do registru vozidel nebo změna zapsaných údajů | Kč | 1000 |
+| o) Vydání osvědčení osoby zabezpečující údržbu | Kč | 5000 |
+| p) Vydání průkazu způsobilosti k řízení drážního vozidla | Kč | 100 |
+| q) Vydání průkazu způsobilosti k provozu určeného technického zařízení pro lanovou dráhu nebo lyžařský vlek | Kč | 1000 |
+| r) Vydání průkazu způsobilosti k provozu určeného technického zařízení pro určená technická zařízení jiná než uvedená v písmenu q) | Kč | 200 |
+| s) Rozšíření osvědčení o odborné způsobilosti fyzických osob provádějících revize, prohlídky a zkoušky určených technických zařízení o další technická zařízení téhož druhu | Kč | 100 |
+
+Poznámka
+
+Poplatek podle písmene q) nebo r) této položky se vybírá pouze jednou i v případě, obsahuje-li technologický celek více určených technických zařízení podle zvláštního předpisu.
+
+**Položka 59a**
+
+| a) Posouzení ohrožení hospodářské vyváženosti osobní drážní dopravy | Kč | 1 500 |
+|---|---|---|
+| b) Vydání rozhodnutí o rozporu prohlášení o dráze se zákonem o dráhách | Kč | 1 000 |
+| c) Vydání rozhodnutí o rozporu rozsahu přidělené kapacity nebo postupu při jejím přidělení se zákonem o dráhách | Kč | 1 000 |
+| d) Vydání rozhodnutí o rozporu smlouvy o provozování drážní dopravy na dráze celostátní, nebo regionální anebo na veřejně přístupné vlečce nebo jejího návrhu se zákonem o dráhách | Kč | 1 000 |
+
+#### ČÁST IV
+
+**Položka 60**
+
+<table><tbody><tr><td>1. Vydání</td><td></td><td></td></tr><tr><td>a) oprávnění k hornické činnosti nebo k činnosti prováděné hornickým způsobem</td><td>Kč</td><td>1 000</td></tr><tr><td>- změna oprávnění k hornické činnosti nebo k činnosti prováděné hornickým způsobem</td><td>Kč</td><td>500</td></tr><tr><td>b) povolení k hornické činnosti nebo k činnosti prováděné hornickým způsobem</td><td>Kč</td><td>1 500</td></tr><tr><td>- změna povolení k hornické činnosti nebo k činnosti prováděné hornickým způsobem</td><td>Kč</td><td>750</td></tr><tr><td>c) povolení k nabývání, předávání, dovozu, vývozu nebo tranzitu výbušnin</td><td>Kč</td><td>500</td></tr><tr><td>d) povolení ke zhotovování jednoduchých trhavin</td><td>Kč</td><td>300</td></tr><tr><td>e) povolení trhacích prací a ohňostrojné práce</td><td>Kč</td><td>300</td></tr><tr><td>f) povolení důlního díla nebo důlní stavby, nezahrnuté v povolení uvedeném v písmenu b)</td><td>Kč</td><td>300</td></tr><tr><td>g) povolení a stanovení odborných orgánů a znalců oprávněných zpracovávat odborné posudky a provádět zkoušky</td><td>Kč</td><td>300</td></tr><tr><td>h) povolení k používání typu důlního stroje, zařízení nebo pomůcky</td><td>Kč</td><td>500</td></tr><tr><td>i) povolení k používání typu důlního přístroje</td><td>Kč</td><td>300</td></tr><tr><td>j) rozhodnutí o stanovení, zrušení nebo změně dobývacího prostoru</td><td>Kč</td><td>1 500</td></tr><tr><td>k) povolení<sup>38</sup>) k prvému použití výbušniny v rizikových podmínkách a v rizikovém prostředí</td><td>Kč</td><td>1 000</td></tr><tr><td>- změna povolení k prvému použití výbušniny v rizikových podmínkách a v rizikovém prostředí</td><td>Kč</td><td>500</td></tr><tr><td>2. Vydání rozhodnutí<sup>38</sup>)</td><td></td><td></td></tr><tr><td>a) o stanovení průzkumného území pro ložiskový průzkum nebo o prodloužení doby platnosti rozhodnutí</td><td>Kč</td><td>2 000</td></tr><tr><td>b) o určení významných výzkumných nebo průzkumných geologických děl</td><td>Kč</td><td>1 000</td></tr><tr><td>c) o udělení předchozího souhlasu k podání návrhu na stanovení dobývacího prostoru nebo o prodloužení doby platnosti rozhodnutí</td><td>Kč</td><td>1 000</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Vydání rozhodnutí o zrušení nebo změně dobývacího prostoru uvedené v bodě 1 písm. j) této položky vydávané správním úřadem z vlastního podnětu.</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Poplatek podle bodu 1 odrážek u písmen a), b) a k) této položky se vybírá, jde-li o změnu skutečností vedených v evidenci oprávnění, změnu předmětu činnosti v povolení nebo změnu podmínek v povolení k prvému použití výbušniny.</td></tr></tbody></table>
+
+**Položka 61**
+
+<table><tbody><tr><td>1. Přijetí žádosti o</td><td></td><td></td></tr><tr><td>a) vydání licence k provozování zoologické zahrady<sup>38a</sup>)</td><td>Kč</td><td> 10 000</td></tr><tr><td>b) vydání licence na zpracování, balení nebo přebalování kaviáru jeseterovitých ryb<sup>38b</sup>)</td><td>Kč</td><td>10 000</td></tr><tr><td>c) vydání licence pro výrobce nebo distributora značek k označování exemplářů druhů volně žijících živočichů<sup>38b</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>d) vydání povolení k vývozu, dovozu nebo přemístění exemplářů druhů volně žijících živočichů, planě rostoucích rostlin, výrobků z tuleňů nebo kožešin živočichů a dalšího zboží vyrobeného z kožešin živočichů, na které se vztahuje omezení dovozu<sup>38b</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>e) vydání povolení k vývozu zvláště chráněných živočichů nebo rostlin<sup>38b</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>f) vydání potvrzení o putovní výstavě<sup>38c</sup>) na 1 až 10 exemplářů druhů volně žijících živočichů nebo planě rostoucích rostlin<sup>38b</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>g) vydání potvrzení o putovní výstavě na více než 10 exemplářů druhů volně žijících živočichů nebo planě rostoucích rostlin<sup>38b</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td>h) vydání výjimky ze zákazu obchodních činností na 1 až 20 exemplářů druhů volně žijících živočichů nebo planě rostoucích rostlin<sup>38b</sup>)</td><td>Kč</td><td>100</td></tr><tr><td></td><td colspan="2">za každý exemplář</td></tr><tr><td>i) vydání výjimky ze zákazu obchodních činností na více než 20 exemplářů druhů volně žijících živočichů nebo planě rostoucích rostlin<sup>38b</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td>2. Vydání</td><td></td><td></td></tr><tr><td>a) číslovaného kroužku k předepsanému označení ptáka, který je exemplářem<sup>38b</sup>)</td><td>Kč</td><td>20</td></tr><tr><td>b) značky k označení exempláře druhu volně žijících živočichů<sup>38b</sup>)</td><td>Kč</td><td>20</td></tr><tr><td>c) potvrzené fotokopie kopie pro držitele dovozního povolení<sup>38d</sup>)</td><td>Kč</td><td>30</td></tr><tr><td colspan="3">Osvobození<br> 1. Od poplatku podle bodu 1 písm. d), e), h) a i) této položky je osvobozeno přijetí žádosti o vydání povolení k vývozu nebo dovozu exempláře majícího osobní nebo rodinný charakter včetně loveckých trofejí ze zvířat ulovených osobně vývozcem nebo dovozcem.<br> 2. Od poplatku podle bodu 1 písm. d), e), h) a i) této položky je osvobozeno přijetí žádosti o vydání povolení k vývozu nebo dovozu nebo o vydání výjimky ze zákazu obchodních činností pro exempláře určené do záchranného chovu nebo pro vědecké nebo výchovné účely, pro exempláře určené k chovným nebo pěstebním účelům v rámci záchranného programu a pro exempláře pocházející z chovu nebo určené do chovu, popřípadě sbírek zoologických a botanických zahrad, pracovišť vysokých škol, Akademie věd České republiky a dalších vědeckých pracovišť evidovaných Ministerstvem životního prostředí.<br> 3. Od poplatku podle bodu 1 písm. d), e), h) a i) této položky je osvobozeno přijetí žádosti o vydání povolení k vývozu nebo dovozu herbářového, muzeálního, sušeného či jinak konzervovaného exempláře a živých rostlin za účelem neobchodního zapůjčení, darování nebo výměny mezi vědci, vědeckými pracovišti evidovanými na seznamu vedeném Ministerstvem životního prostředí.<br> 4. Od poplatku podle bodu 2 písm. a) a b) této položky je osvobozeno vydání kroužku nebo jiné značky pro exempláře určené do záchranného chovu nebo pro vědecké nebo výchovné účely, pro exempláře určené k chovným nebo pěstebním účelům v rámci záchranného programu a pro exempláře pocházející z nebo určené do chovu, popřípadě sbírek zoologických a botanických zahrad, pracovišť vysokých škol, Akademie věd České republiky a dalších vědeckých pracovišť evidovaných Ministerstvem životního prostředí.<br> 5. Od poplatku podle bodu 1 písm. d), e), h) a i) této položky je osvobozeno přijetí žádosti o vydání povolení k vývozu nebo dovozu živého exempláře, s nímž vlastník cestuje po dobu kratší než 3 měsíce a exemplář zůstává po dobu cesty v jeho vlastnictví.</td></tr></tbody></table>
+
+**Položka 62**
+
+<table><tbody><tr><td>a) Ověření platnosti puncovní značky</td><td>Kč</td><td>20</td></tr><tr><td>b) Vydání rozhodnutí o přidělení výrobní značky nebo odpovědnostní značky</td><td>Kč</td><td>200</td></tr><tr><td>c) Vydání rozhodnutí o zrušení přidělené výrobní značky nebo odpovědnostní značky</td><td>Kč</td><td>40</td></tr><tr><td>d) Vydání osvědčení o zápisu klenotnické slitiny do seznamu registrovaných slitin</td><td>Kč</td><td>400</td></tr><tr><td>e) Vydání rozhodnutí<sup>39</sup>) o ponechání přidělené výrobní značky nebo odpovědnostní značky</td><td>Kč</td><td>100</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Rozhodnutí o zrušení přidělené výrobní značky nebo odpovědnostní značky uvedené v písmenu c) této položky vydané správním úřadem z vlastního podnětu.</td></tr></tbody></table>
+
+**Položka 63**
+
+| a) Přijetí návrhu na povolení spojení soutěžitelů<sup>40</sup>) | Kč | 100 000 |
+|---|---|---|
+| b) Přijetí návrhu na povolení výjimky ze zákazu uskutečňování spojení<sup>40</sup>) | Kč | 10 000 |
+
+**Položka 64**
+
+| Přijetí žádosti o zápis do seznamu kvalifikovaných dodavatelů<sup>41</sup>) | Kč | 3 000 |
+|---|---|---|
+| Přijetí žádosti o změnu zápisu v seznamu kvalifikovaných dodavatelů<sup>41</sup>) | Kč | 1 000 |
+| Přijetí žádosti o schválení systému certifikovaných dodavatelů<sup>41</sup>) | Kč | 20 000 |
+| Přijetí žádosti o schválení změny systému certifikovaných dodavatelů<sup>41</sup>) | Kč | 5 000 |
+
+**Položka 65**
+
+| 1. Přijetí žádosti o udělení | | |
+|---|---|---|
+| a) bankovní licence bance se sídlem na území České republiky | Kč | 200 000 |
+| b) bankovní licence zahraniční bance, se sídlem v jiném než členském státě Evropské unie, která hodlá zřídit pobočku na území České republiky | Kč | 200 000 |
+| c) povolení k provozování pojišťovací činnosti tuzemskou pojišťovnou nebo zajišťovací činnosti tuzemskou zajišťovnou | Kč | 200 000 |
+| d) povolení k provozování pojišťovací činnosti pojišťovnou z třetího státu na území České republiky na základě práva zřizovat své pobočky | Kč | 200 000 |
+| e) povolení k provozování zajišťovací činnosti zajišťovnou z třetího státu na území České republiky na základě práva zřizovat své pobočky | Kč | 200 000 |
+| f) povolení k činnosti ústřední protistrany | Kč | 200 000 |
+| g) povolení k činnosti systémově významného obchodníka | Kč | 100 000 |
+| h) povolení k činnosti pobočky zahraničního systémově významného obchodníka | Kč | 100 000 |
+| 2. Přijetí žádosti o povolení | | |
+| a) k činnosti centrálního depozitáře | Kč | 200 000 |
+| b) k činnosti obchodníka s cennými papíry podle § 8a odst. 1 nebo 2 zákona o podnikání na kapitálovém trhu | Kč | 100 000 |
+| c) k činnosti obchodníka s cennými papíry podle § 8a odst. 4 zákona o podnikání na kapitálovém trhu | Kč | 50 000 |
+| d) k činnosti obchodníka s cennými papíry podle § 8a odst. 3 zákona o podnikání na kapitálovém trhu | Kč | 20 000 |
+| e) k poskytování investičních služeb v České republice prostřednictvím pobočky zahraniční osoby, která má sídlo ve státě, který není členským státem Evropské unie | Kč | 100 000 |
+| f) k činnosti organizátora regulovaného trhu | Kč | 100 000 |
+| g) k provozování vypořádacího systému s neodvolatelností vypořádání | Kč | 100 000 |
+| h) k činnosti investiční společnosti podle § 479 zákona o investičních společnostech a investičních fondech | Kč | 100 000 |
+| i) k činnosti zahraniční osobě podle § 481 zákona o investičních společnostech a investičních fondech | Kč | 100 000 |
+| j) k činnosti samosprávného investičního fondu podle § 480 zákona o investičních společnostech a investičních fondech, má-li se stát speciálním fondem nebo standardním fondem | Kč | 100 000 |
+| k) k provozování platebního systému s neodvolatelností zúčtování | Kč | 100 000 |
+| l) ke vzniku a podnikání spořitelního a úvěrního družstva | Kč | 100 000 |
+| m) k činnosti penzijní společnosti | Kč | 100 000 |
+| n) k vytvoření důchodového fondu státních dluhopisů, konzervativního důchodového fondu, vyváženého důchodového fondu a dynamického důchodového fondu | Kč | 100 000 |
+| o) k činnosti platební instituce | Kč | 50 000 |
+| p) k činnosti správce informací o platebním účtu | Kč | 25 000 |
+| q) k činnosti poskytovatele platebních služeb malého rozsahu | Kč | 10 000 |
+| r) k činnosti instituce elektronických peněz | Kč | 50 000 |
+| s) k činnosti vydavatele elektronických peněz malého rozsahu | Kč | 10 000 |
+| t) k činnosti investiční společnosti podle § 479 zákona o investičních společnostech a investičních fondech, hodlá-li obhospodařovat pouze fondy kvalifikovaných investorů nebo zahraniční investiční fondy srovnatelné s fondem kvalifikovaných investorů a nehodlá-li poskytovat investiční služby | Kč | 50 000 |
+| u) k činnosti zahraniční osobě podle § 481 zákona o investičních společnostech a investičních fondech, hodlá-li obhospodařovat pouze fondy kvalifikovaných investorů nebo zahraniční investiční fondy srovnatelné s fondem kvalifikovaných investorů a nehodlá-li poskytovat investiční služby | Kč | 50 000 |
+| v) k činnosti samosprávného investičního fondu podle § 480 zákona o investičních společnostech a investičních fondech, má-li se stát fondem kvalifikovaných investorů | Kč | 50 000 |
+| w) k činnosti hlavního administrátora | Kč | 20 000 |
+| x) k činnosti investičního zprostředkovatele | Kč | 10 000 |
+| y) k činnosti administrátora podle čl. 34 odst. 1 písm. a) nařízení Evropského parlamentu a Rady (EU) 2016/1011<sup>84</sup>) | Kč | 100 000 |
+| 3. Přijetí žádosti o registraci | | |
+| a) administrátora podle čl. 34 odst. 1 písm. b) a c) nařízení Evropského parlamentu a Rady (EU) 2016/1011<sup>84</sup>) | Kč | 50 000 |
+| b) panevropského osobního penzijního produktu podle nařízení Evropského parlamentu a Rady (EU) 2019/1238 | Kč | 10 000 |
+| 4. Přijetí žádosti o povolení | | |
+| a) k činnosti směnárníka | Kč | 10 000 |
+| b) k činnosti zpracovatele tuzemských bankovek a mincí | Kč | 10 000 |
+| c) k činnosti poskytovatele služby dynamické směny měn | Kč | 10 000 |
+| d) k činnosti poskytovatele služeb skupinového financování | Kč | 20 000 |
+| e) k činnosti poskytovatele služeb hlášení údajů | Kč | 100 000 |
+| f) k činnosti správce nevýkonného úvěru | Kč | 20 000 |
+| g) k činnosti poskytovatele služeb souvisejících s kryptoaktivy | Kč | 20 000 |
+| h) k činnosti vydavatele tokenů vázaných na aktiva | Kč | 50 000 |
+| 5. Přijetí žádosti o změnu | | |
+| a) bankovní licence banky se sídlem na území České republiky | Kč | 70 000 |
+| b) bankovní licence pobočky zahraniční banky se sídlem v jiném než členském státě | Kč | 70 000 |
+| c) v rozsahu povolené činnosti tuzemské pojišťovny nebo zajišťovny | Kč | 70 000 |
+| d) v rozsahu povolené činnosti pobočky pojišťovny nebo zajišťovny z třetího státu | Kč | 70 000 |
+| e) povolení k činnosti centrálního depozitáře | Kč | 70 000 |
+| f) povolení k činnosti obchodníka s cennými papíry spočívající v tom, že obchodník s cennými papíry podle § 8a odst. 3 zákona o podnikání na kapitálovém trhu se stane obchodníkem s cennými papíry podle § 8a odst. 4 zákona o podnikání na kapitálovém trhu | Kč | 30 000 |
+| g) povolení k činnosti obchodníka s cennými papíry spočívající v tom, že obchodník s cennými papíry podle § 8a odst. 3 zákona o podnikání na kapitálovém trhu se stane obchodníkem s cennými papíry podle § 8a odst. 1 nebo 2 zákona o podnikání na kapitálovém trhu | Kč | 70 000 |
+| h) povolení k činnosti obchodníka s cennými papíry spočívající v tom, že obchodník s cennými papíry podle § 8a odst. 4 zákona o podnikání na kapitálovém trhu se stane obchodníkem s cennými papíry podle § 8a odst. 1 nebo 2 zákona o podnikání na kapitálovém trhu | Kč | 50 000 |
+| i) povolení k činnosti obchodníka s cennými papíry spočívající v jiné změně | Kč | 35 000 |
+| j) povolení k poskytování investičních služeb v České republice prostřednictvím pobočky zahraniční osoby, která má sídlo ve státě, který není členským státem Evropské unie | Kč | 35 000 |
+| k) povolení k činnosti organizátora regulovaného trhu | Kč | 35 000 |
+| l) povolení k činnosti ústřední protistrany | Kč | 70 000 |
+| m) povolení k provozování vypořádacího systému s neodvolatelností vypořádání | Kč | 35 000 |
+| n) povolení k činnosti poskytovatele služeb hlášení údajů | Kč | 35 000 |
+| 6. Přijetí žádosti o schválení změny pravidel vypořádacího systému | Kč | 10 000 |
+| 7. Přijetí žádosti o změnu | | |
+| a) povolení k činnosti investiční společnosti | Kč | 35 000 |
+| b) povolení k činnosti zahraniční osobě podle § 481 zákona o investičních společnostech a investičních fondech | Kč | 35 000 |
+| c) povolení k činnosti samosprávného investičního fondu | Kč | 35 000 |
+| d) povolení k činnosti hlavního administrátora | Kč | 35 000 |
+| e) pravidel platebního systému s neodvolatelností zúčtování | Kč | 35 000 |
+| f) povolení k činnosti spořitelního a úvěrního družstva | Kč | 35 000 |
+| g) povolení k činnosti poskytovatele platebních služeb malého rozsahu | Kč | 5 000 |
+| h) povolení k činnosti vydavatele elektronických peněz malého rozsahu | Kč | 5 000 |
+| i) povolení k činnosti platební instituce | Kč | 20 000 |
+| j) povolení k činnosti instituce elektronických peněz | Kč | 20 000 |
+| k) povolení k činnosti poskytovatele služeb skupinového financování | Kč | 10 000 |
+| 8. Přijetí žádosti | | |
+| a) o schválení převodu pojistného kmene nebo jeho částí | Kč | 20 000 |
+| b) o schválení převodu kmene zajišťovacích smluv nebo jeho částí | Kč | 20 000 |
+| c) o udělení souhlasu s nakládáním aktiv pobočky zajišťovny z třetího státu jako jistiny složené na účet zvlášť k tomu zřízený | Kč | 20 000 |
+| 9. Přijetí žádosti o | | |
+| a) udělení oprávnění k činnosti samostatného zprostředkovatele podle zákona upravujícího doplňkové penzijní spoření | Kč | 10 000 |
+| b) akreditaci podle zákona upravujícího doplňkové penzijní spoření | Kč | 25 000 |
+| c) prodloužení akreditace podle zákona upravujícího doplňkové penzijní spoření | Kč | 10 000 |
+| d) zápis investičního fondu, který není samosprávným investičním fondem ani standardním fondem, nebo zápis údajů o podfondu takového investičního fondu do seznamu vedeného Českou národní bankou podle zákona upravujícího investiční společnosti a investiční fondy | Kč | 2 000 |
+| e) zápis standardního fondu nebo údajů o podfondu standardního fondu podle zákona upravujícího investiční společnosti a investiční fondy | Kč | 20 000 |
+| f) zápis evropského fondu dlouhodobých investic nebo údajů o podfondu evropského fondu dlouhodobých investic podle zákona upravujícího investiční společnosti a investiční fondy | Kč | 20 000 |
+| g) zápis depozitáře investičního fondu podle zákona upravujícího investiční společnosti a investiční fondy | Kč | 35 000 |
+| h) zápis likvidátora nebo nuceného správce podle zákona upravujícího investiční společnosti a investiční fondy | Kč | 2 000 |
+| i) zápis osoby podle § 15 odst. 1 zákona o investičních společnostech a investičních fondech do seznamu podle § 596 písm. e) zákona o investičních společnostech a investičních fondech | Kč | 10 000 |
+| j) určení, zda je Česká republika jediným referenčním státem zahraniční osoby podle zákona upravujícího investiční společnosti a investiční fondy | Kč | 20 000 |
+| k) udělení oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru | Kč | 50 000 |
+| l) udělení oprávnění k činnosti samostatného zprostředkovatele podle zákona upravujícího spotřebitelský úvěr | Kč | 10 000 |
+| m) akreditaci podle zákona upravujícího spotřebitelský úvěr | Kč | 25 000 |
+| n) prodloužení akreditace podle zákona upravujícího spotřebitelský úvěr | Kč | 10 000 |
+| o) akreditaci podle zákona upravujícího podnikání na kapitálovém trhu | Kč | 25 000 |
+| p) prodloužení akreditace podle zákona upravujícího podnikání na kapitálovém trhu | Kč | 10 000 |
+| q) udělení oprávnění k činnosti samostatného zprostředkovatele podle zákona upravujícího distribuci pojištění a zajištění | Kč | 10 000 |
+| r) akreditaci podle zákona upravujícího distribuci pojištění a zajištění | Kč | 25 000 |
+| s) prodloužení akreditace podle zákona upravujícího distribuci pojištění a zajištění | Kč | 10 000 |
+| t) udělení souhlasu s podstatnou změnou podle § 314 zákona o investičních společnostech a investičních fondech | Kč | 5 000 |
+| 10. Zápis | | |
+| a) oprávnění k činnosti vázaného zástupce podle zákona upravujícího spotřebitelský úvěr | Kč | 2 000 |
+| b) oprávnění k činnosti zprostředkovatele vázaného spotřebitelského úvěru pro daného zastoupeného | Kč | 2 000 |
+| c) oprávnění k činnosti vázaného zástupce podle zákona upravujícího distribuci pojištění a zajištění | Kč | 2 000 |
+| d) oprávnění k činnosti doplňkového pojišťovacího zprostředkovatele podle zákona upravujícího distribuci pojištění a zajištění | Kč | 2 000 |
+| e) oprávnění k činnosti vázaného zástupce podle zákona upravujícího doplňkové penzijní spoření | Kč | 2 000 |
+| f) oprávnění k činnosti vázaného zástupce podle zákona upravujícího podnikání na kapitálovém trhu | Kč | 2 000 |
+| 11. Prodloužení | | |
+| a) oprávnění k činnosti nebankovního poskytovatele spotřebitelského úvěru | Kč | 25 000 |
+| b) oprávnění k činnosti samostatného zprostředkovatele podle zákona upravujícího spotřebitelský úvěr | Kč | 2 500 |
+| c) oprávnění k činnosti vázaného zástupce podle zákona upravujícího spotřebitelský úvěr | Kč | 500 |
+| d) oprávnění k činnosti zprostředkovatele vázaného spotřebitelského úvěru pro daného zastoupeného | Kč | 500 |
+| e) povolení k činnosti investičního zprostředkovatele podle zákona upravujícího podnikání na kapitálovém trhu | Kč | 2 500 |
+| f) oprávnění k činnosti vázaného zástupce podle zákona upravujícího podnikání na kapitálovém trhu | Kč | 500 |
+| g) oprávnění k činnosti samostatného zprostředkovatele podle zákona upravujícího distribuci pojištění a zajištění | Kč | 2 500 |
+| h) oprávnění k činnosti vázaného zástupce podle zákona upravujícího distribuci pojištění a zajištění | Kč | 500 |
+| i) oprávnění k činnosti doplňkového pojišťovacího zprostředkovatele podle zákona upravujícího distribuci pojištění a zajištění | Kč | 500 |
+| j) oprávnění k činnosti samostatného zprostředkovatele podle zákona upravujícího doplňkové penzijní spoření | Kč | 2 500 |
+| k) oprávnění k činnosti vázaného zástupce podle zákona upravujícího doplňkové penzijní spoření | Kč | 500 |
+
+Poznámka
+
+Poplatníkem poplatku za přijetí žádosti o zápis podle bodu 10 nebo za prodloužení oprávnění podle bodu 11 písm. c), d) f), h), i) nebo k) je zastoupený. Poplatek za prodloužení akreditace, povolení nebo oprávnění je splatný vždy nejdříve ve lhůtě 3 měsíců přede dnem skončení akreditace, povolení nebo oprávnění a nejpozději ve lhůtě 3 dnů přede dnem skončení akreditace, povolení nebo oprávnění.
+
+**Položka 66**
+
+<table><tbody><tr><td>1. Přijetí žádosti o udělení</td><td></td><td></td></tr><tr><td>a) předchozího souhlasu k nabytí nebo zvýšení kvalifikované účasti na bance nebo k tomu, aby se staly osobami ovládajícími banku</td><td>Kč</td><td>20 000</td></tr><tr><td>b) předchozího souhlasu s nabytím kvalifikované účasti nebo zvýšením účasti v tuzemské pojišťovně nebo k jejímu ovládnutí</td><td>Kč</td><td>20 000</td></tr><tr><td>c) předchozího souhlasu s nabytím kvalifikované účasti nebo zvýšením účasti v tuzemské zajišťovně nebo k jejímu ovládnutí</td><td>Kč</td><td>20 000</td></tr><tr><td>d) předchozího souhlasu k nabytí nebo zvýšení kvalifikované účasti na organizátoru regulovaného trhu nebo k tomu, aby se staly osobami ovládajícími organizátora regulovaného trhu</td><td>Kč</td><td>20 000</td></tr><tr><td>e) předchozího souhlasu k nabytí nebo zvýšení kvalifikované účasti na obchodníku s cennými papíry nebo k tomu, aby se staly osobami ovládajícími obchodníka s cennými papíry</td><td>Kč</td><td>20 000</td></tr><tr><td>f) předchozího souhlasu k nabytí nebo zvýšení kvalifikované účasti na centrálním depozitáři nebo k tomu, aby se staly osobami ovládajícími centrálního depozitáře</td><td>Kč</td><td>20 000</td></tr><tr><td>g) souhlasu k nabytí nebo zvýšení kvalifikované účasti na investiční společnosti, hlavním administrátorovi nebo samosprávném investičním fondu nebo k tomu, aby se staly osobami ovládajícími investiční společnost, hlavního administrátora nebo samosprávný investiční fond</td><td>Kč</td><td>20 000</td></tr><tr><td>h) souhlasu k nabytí nebo zvýšení kvalifikované účasti investiční společnosti na jiné právnické osobě nebo k ovládnutí jiné právnické osoby</td><td>Kč</td><td>20 000</td></tr><tr><td>i) předchozí souhlas k nabytí nebo zvýšení kvalifikované účasti na penzijní společnosti nebo k tomu, aby se staly osobami ovládajícími penzijní společnosti</td><td>Kč</td><td>20 000</td></tr><tr><td>j) předchozího souhlasu k nabytí nebo zvýšení kvalifikované účasti na spořitelním a úvěrním družstvu nebo k tomu, aby se staly osobami ovládajícími spořitelní a úvěrní družstvo</td><td>Kč</td><td>20 000</td></tr><tr><td>k) předchozího souhlasu k nabytí nebo zvýšení kvalifikované účasti na ústřední protistraně nebo k tomu, aby se staly osobami ovládajícími protistranu</td><td>Kč</td><td>20 000</td></tr><tr><td>2. Přijetí žádosti o udělení</td><td></td><td></td></tr><tr><td>a) předchozího souhlasu se změnou v osobě vedoucího pobočky pojišťovny nebo zajišťovny z třetího státu</td><td>Kč</td><td>5000</td></tr><tr><td>b) předchozí souhlas k výkonu funkce vedoucí osoby penzijní společnosti</td><td>Kč</td><td>5 000</td></tr><tr><td>3. Přijetí žádosti o udělení</td><td></td><td></td></tr><tr><td>a) souhlasu bance k uzavření smlouvy, na jejímž základě dochází k jakékoliv dispozici s podnikem nebo jeho častí</td><td>Kč</td><td>20 000</td></tr><tr><td>b) souhlasu k fúzi nebo rozdělení banky nebo převodu jmění na banku jakožto společníka</td><td>Kč</td><td>20 000</td></tr><tr><td>c) souhlasu ke snížení základního kapitálu banky nebo k úhradě ztráty</td><td>Kč</td><td>20 000</td></tr><tr><td>d) předchozího souhlasu k přeměně tuzemské pojišťovny nebo tuzemské zajišťovny</td><td>Kč</td><td>20 000</td></tr><tr><td>e) předchozího souhlasu k nabytí významné účasti bankou, finanční holdingovou osobou nebo smíšenou finanční holdingovou osobou</td><td>Kč</td><td>20 000</td></tr><tr><td>f) schválení nebo výjimky ze schválení finanční holdingové osoby nebo smíšené finanční holdingové osoby</td><td>Kč</td><td>20 000</td></tr><tr><td>4. Přijetí žádosti o povolení</td><td></td><td></td></tr><tr><td>a) k fúzi, rozdělení investiční společnosti nebo převodu jmění na společníka podle zákona upravujícího investiční společnosti a investiční fondy</td><td>Kč</td><td>20 000</td></tr><tr><td>b) k fúzi nebo rozdělení fondu kolektivního investování s právní osobností nebo k převodu jmění na společníka, jímž je tento fond, podle zákona upravujícího investiční společnosti a investiční fondy</td><td>Kč</td><td>20 000</td></tr><tr><td>c) k fúzi penzijní společnosti</td><td>Kč</td><td>20 000</td></tr><tr><td>d) k fúzi, k rozdělení nebo ke změně právní formy nebo k převodu obchodního jmění obchodníka s cennými papíry na jeho akcionáře nebo společníka nebo k převodu jmění jiné osoby na obchodníka s cennými papíry</td><td>Kč</td><td>20 000</td></tr><tr><td>e) k fúzi, k rozdělení nebo k převodu obchodního jmění organizátora regulovaného trhu na jeho společníka nebo ke změně právní formy nebo k převodu obchodního jmění organizátora regulovaného trhu na jeho akcionáře nebo společníka anebo k převodu obchodního jmění jiné osoby na organizátora regulovaného trhu</td><td>Kč</td><td>20 000</td></tr><tr><td>f) k fúzi centrálního depozitáře s provozovatelem vypořádacího systému nebo k převodu jmění jiné osoby na centrálního depozitáře</td><td>Kč</td><td>20 000</td></tr><tr><td>g) k fúzi, rozdělení, převodu jmění na společníka nebo změně právní formy hlavního administrátora podle zákona upravujícího investiční společnosti a investiční fondy</td><td>Kč</td><td>20 000</td></tr><tr><td>5. Přijetí žádosti o udělení</td><td></td><td></td></tr><tr><td>a) souhlasu k fúzi nebo rozdělení spořitelního a úvěrního družstva</td><td>Kč</td><td>20 000</td></tr><tr><td>b) souhlasu k uzavření smlouvy, na jejímž základě dochází k jakékoliv dispozici s podnikem nebo jeho častí spořitelního a úvěrního družstva</td><td>Kč</td><td>20 000</td></tr><tr><td>c) souhlasu k převodu členských práv člena spořitelního a úvěrního družstva</td><td>Kč</td><td>20 000</td></tr><tr><td>d) souhlasu s rozhodnutím členské schůze o snížení výše základního členského vkladu spořitelního a úvěrního družstva</td><td>Kč</td><td>20 000</td></tr><tr><td>6. Přijetí žádosti</td><td></td><td></td></tr><tr><td>a) o povolení k splynutí investičního fondu nebo podfondu podle zákona upravujícího investiční společnosti a investiční fondy</td><td>Kč</td><td>20 000</td></tr><tr><td>b) o povolení k sloučení investičního fondu nebo podfondu podle zákona upravujícího investiční společnosti a investiční fondy</td><td>Kč</td><td>20 000</td></tr><tr><td>c) o povolení přeměny investičního fondu nebo podfondu podle zákona upravujícího investiční společnosti a investiční fondy</td><td>Kč</td><td>20 000</td></tr><tr><td>d) o povolení převést obhospodařování důchodových fondů na jinou penzijní společnost</td><td>Kč</td><td>20 000</td></tr><tr><td>e) o povolení sloučení důchodových fondů</td><td>Kč</td><td>20 000</td></tr><tr><td>f) o povolení převést obhospodařování účastnických fondů nebo transformovaných fondů na jinou penzijní společnost</td><td>Kč</td><td>20 000</td></tr><tr><td>g) o povolení sloučení účastnických fondů nebo transformovaných fondů</td><td>Kč</td><td>20 000</td></tr><tr><td>7. Přijetí žádosti</td><td></td><td></td></tr><tr><td>a) o souhlas ke změně statutu standardního fondu</td><td>Kč</td><td>10 000</td></tr><tr><td>b) o povolení k vytvoření účastnického fondu podle zákona upravujícího doplňkové penzijní spoření</td><td>Kč</td><td>30 000</td></tr><tr><td>c) o schválení změny statutu důchodového fondu</td><td>Kč</td><td>10 000</td></tr><tr><td>d) o schválení změny statutu účastnického fondu</td><td>Kč</td><td>10 000</td></tr><tr><td>e) o schválení změny statutu a penzijního plánu transformovaného fondu</td><td>Kč</td><td>10 000</td></tr><tr><td>f) o schválení nebo změnu dražebního řádu dražebníka cenných papírů</td><td>Kč</td><td>3 000</td></tr><tr><td>g) o souhlas ke změně obhospodařovatele nebo depozitáře standardního fondu</td><td>Kč</td><td>5 000</td></tr><tr><td>h) o schválení změny depozitáře účastnického fondu podle zákona upravujícího doplňkové penzijní spoření</td><td>Kč</td><td>5 000</td></tr><tr><td>i) o schválení změny depozitáře důchodového fondu podle zákona upravujícího důchodové spoření</td><td>Kč</td><td>5 000</td></tr><tr><td>j) o schválení změny depozitáře penzijního fondu</td><td>Kč</td><td>5 000</td></tr><tr><td>8. Přijetí žádosti</td><td></td><td></td></tr><tr><td>a) o schválení prospektu cenného papíru včetně základního prospektu cenného papíru</td><td>Kč</td><td>15 000</td></tr><tr><td>b) o schválení dodatku prospektu cenného papíru</td><td>Kč</td><td>5 000</td></tr><tr><td>c) o povolení neuvedení informací v prospektu cenného papíru</td><td>Kč</td><td>5 000</td></tr><tr><td>d) o udělení souhlasu s uveřejněním nabídkového dokumentu u povinné nabídky převzetí</td><td>Kč</td><td>5 000</td></tr><tr><td>e) o udělení souhlasu s uveřejněním nabídkového dokumentu při plnění dodatečné nabídkové povinnosti</td><td>Kč</td><td>3 000</td></tr><tr><td>f) o odložení plnění povinnosti uveřejnit informaci o rozhodnutí učinit nabídku převzetí nebo o vzniku nabídkové povinnosti</td><td>Kč</td><td>1 000</td></tr><tr><td>g) o prodloužení lhůty pro předložení návrhu nabídkového dokumentu</td><td>Kč</td><td>1 000</td></tr><tr><td>h) o prodloužení lhůty pro uveřejnění nabídkového dokumentu</td><td>Kč</td><td>1 000</td></tr><tr><td>i) o schválení prodloužení doby závaznosti nabídky převzetí</td><td>Kč</td><td>1 000</td></tr><tr><td>j) o povolení výjimky ze zákazu činit právní úkony směřující ke smluvnímu nabytí nebo zcizení účastnických cenných papírů cílové společnosti po dobu závaznosti nabídky převzetí</td><td>Kč</td><td>3 000</td></tr><tr><td>k) o povolení výjimky ze zákazu nabývat účastnické cenné papíry cílové společnosti po ukončení doby závaznosti nabídky převzetí</td><td>Kč</td><td>3 000</td></tr><tr><td>l) o zkrácení nebo prominutí lhůty 1 roku, po kterou platí zákaz učinit další nabídku převzetí</td><td>Kč</td><td>3 000</td></tr><tr><td>m) o vydání rozhodnutí, kterým bude povoleno vykonávat hlasovací práva osobě, která rozhodný podíl na hlasovacích právech cílové společnosti nenabyla v důsledku vlastního jednání a nemohla rozumně předpokládat, že nabude rozhodný podíl na cílové společnosti</td><td>Kč</td><td>3 000</td></tr><tr><td>n) o vydání rozhodnutí o zániku nabídkové povinnosti</td><td>Kč</td><td>3 000</td></tr><tr><td>o) o vydání rozhodnutí, kterým bude povoleno vykonávat hlasovací práva osobě, která je v prodlení s plněním nabídkové povinnosti</td><td>Kč</td><td>3 000</td></tr><tr><td>p) o vydání předchozího souhlasu se zdůvodněním výše protiplnění při výkupu účastnických cenných papírů přijatých k obchodování na regulovaném trhu</td><td>Kč</td><td>10 000</td></tr><tr><td>q) o posouzení srovnatelnosti zahraničního investičního fondu se speciálním fondem</td><td>Kč</td><td>5 000</td></tr><tr><td>r) o schválení unijního prospektu pro růst</td><td>Kč</td><td>10 000</td></tr><tr><td>s) o schválení zjednodušeného prospektu pro sekundární emise</td><td>Kč</td><td>10 000</td></tr><tr><td>t) o schválení registračního dokumentu včetně univerzálního registračního dokumentu</td><td>Kč</td><td>10 000</td></tr><tr><td>u) o schválení popisu cenných papírů a shrnutí prospektu</td><td>Kč</td><td>5 000</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">1. Od poplatků podle této položky bodu 8 písm. a) až p) jsou osvobozeny banky se sídlem v České republice, jde-li o vydání krytých dluhopisů.</td></tr><tr><td colspan="3">2. Od poplatků podle této položky bodu 8 písm. a) až p) je osvobozena Česká exportní banka, a. s.</td></tr></tbody></table>
+
+Položka 66a
+
+| Přijetí žádosti o povolení k poskytování služeb spojených s virtuálním aktivem | Kč | 10 000 |
+|---|---|---|
+
+**Položka 67**
+
+<table><tbody><tr><td>a) Přijetí žádosti</td><td></td><td></td></tr><tr><td>1. o udělení oprávnění k provozování televizního vysílání</td><td>Kč</td><td>90 000</td></tr><tr><td>2. o prodloužení doby platnosti oprávnění k provozování televizního vysílání</td><td>Kč</td><td>90 000</td></tr><tr><td>3. o udělení oprávnění nebo o prodloužení doby platnosti k místnímu televiznímu vysílání</td><td>Kč</td><td>50 000</td></tr><tr><td>b) Přijetí žádosti o udělení oprávnění nebo o prodloužení doby platnosti oprávnění k provozování rozhlasového vysílání</td><td>Kč</td><td>25 000</td></tr><tr><td>c) Přijetí přihlášky k provozování převzatého vysílání</td><td>Kč</td><td>90 000</td></tr><tr><td>d) Přijetí žádosti o změnu údajů uvedených</td><td></td><td></td></tr><tr><td>1. v žádosti o udělení oprávnění k provozování televizního vysílání</td><td>Kč</td><td>20 000</td></tr><tr><td>2. v žádosti o udělení oprávnění k provozování rozhlasového vysílání</td><td>Kč</td><td>5 000</td></tr><tr><td>3. v přihlášce k provozování převzatého vysílání</td><td>Kč</td><td>20 000</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Přijetí žádosti o udělení oprávnění k provozování televizního vysílání podle písmene a) této položky, je-li žádost podávána podle § 21 odst. 1 zákona č. 132/2010 Sb., o audiovizuálních mediálních službách na vyžádání a o změně některých zákonů (zákon o audiovizuálních mediálních službách na vyžádání).<br> 2. Přijetí žádosti o změnu údajů podle písmene d) této položky, zapisuje-li se změna do obchodního rejstříku.</td></tr></tbody></table>
+
+**Položka 67a**
+
+| Přijetí žádosti | | | |
+|---|---|---|---|
+| a) o podporu audiovize na realizaci projektu z okruhu vývoje českého audiovizuálního díla nebo na realizaci projektu z jiného okruhu než výroby českého audiovizuálního díla<sup>41a</sup>) | Kč | 7 000 | |
+| b) o podporu audiovize na realizaci projektu z okruhu výroby českého audiovizuálního díla<sup>41a</sup>) | Kč | 20 000 | |
+| c) o změně podmínek stanovených v rozhodnutí o podpoře audiovize<sup>41a</sup>) | Kč | 1 000 | |
+| d) o zápis pobídkového projektu<sup>41a</sup>) | Kč | 60 000 | |
+| e) o mimořádné prodloužení lhůty stanovené k zahájení nebo pokračování prací na výrobě audiovizuálního díla po doručení rozhodnutí o zápisu pobídkového projektu<sup>41a</sup>) | Kč | 60 000 | |
+| f) o mimořádné prodloužení lhůty stanovené k podání žádosti o filmovou pobídku po doručení rozhodnutí o zápisu pobídkového projektu<sup>41a</sup>) | Kč | 60 000 | |
+| g) o mimořádné prodloužení lhůty stanovené k zpřístupnění audiovizuálního díla, jehož výroba byla součástí pobídkového projektu, veřejnosti<sup>41a</sup>) | Kč | 60 000 | |
+| h) o vydání koprodukčního statusu podle Evropské úmluvy o filmové koprodukci<sup>88</sup>) | Kč | 1 500 | |
+| i) o vydání koprodukčního statusu podle Úmluvy Rady Evropy o filmové koprodukci v revidovaném znění<sup>89</sup>) | Kč | 1 500 | |
+| j) o vydání koprodukčního statusu podle dvoustranné mezinárodní smlouvy, kterou je Česká republika vázána | Kč | 1 500 | |
+| k) o udělení potvrzení o splnění podmínek koprodukce | Kč | 1 500 | |
+| l) o vydání potvrzení podle § 41 zákona o audiovizi ve lhůtě do 30 dnů v českém jazyce | Kč | 500 | |
+| m) o vydání potvrzení podle § 41 zákona o audiovizi ve lhůtě do 30 dnů v anglickém jazyce | Kč | 800 | |
+| n) o vydání potvrzení podle § 41 zákona o audiovizi ve lhůtě do 5 pracovních dnů v českém jazyce | Kč | 1 000 | |
+| o) o vydání potvrzení podle § 41 zákona o audiovizi ve lhůtě do 5 pracovních dnů v anglickém jazyce | Kč | 1 500 | |
+| p) o vydání potvrzení podle § 41 zákona o audiovizi ve lhůtě do 48 hodin pracovních dnů v českém jazyce | Kč | 2 000 | |
+| q) o vydání potvrzení podle § 41 zákona o audiovizi ve lhůtě do 48 hodin pracovních dnů v anglickém jazyce | Kč | 2 500 | |
+
+#### ČÁST V
+
+Položka 68
+
+| 1. Přijetí žádosti podle veterinárního zákona o | | |
+|---|---|---|
+| a) schválení asanačního podniku | Kč | 3000 |
+| b) schválení spalovny vedlejších živočišných produktů, včetně krematoria pro zvířata | Kč | 3000 |
+| c) registraci ke sběru a přepravě kadáverů zvířat v zájmovém chovu | Kč | 3000 |
+| d) schválení podniku, závodu nebo jiného zařízení, v nichž se zachází s vedlejšími živočišnými produkty nebo získanými produkty a které jsou pod státním veterinárním dozorem, jde-li o jiné činnosti, než jsou uvedeny v bodech a) až c) | Kč | 1000 |
+| e) registraci podniku, závodu, osoby nebo jiného zařízení, v nichž se zachází s vedlejšími živočišnými produkty nebo získanými produkty a které jsou pod státním veterinárním dozorem, jde-li o jiné činnosti, než jsou uvedeny v bodech a) až c) | Kč | 500 |
+| f) povolení k odchytu zvířat bez pána a toulavých a opuštěných zvířat | Kč | 1000 |
+| g) povolení k provozování hřbitova pro zvířata | Kč | 1000 |
+| 2. Povolení výjimky z použití vedlejších živočišných produktů nebo získaných produktů<sup>86)</sup> | Kč | 500 |
+| 3. Schválení hospodářství ke zkrmování mléčných krmných surovin z nedostatečně tepelně opracovaného mléka<sup>86)</sup> | Kč | 500 |
+| 4. Povolení pro zpracovatele mléka dodávat na hospodářství zvířat mléčné krmné suroviny<sup>86)</sup> | Kč | 500 |
+| 5. Změna údajů (jméno, příjmení, obchodní firma, název, trvalý pobyt nebo pobyt, sídlo) ve schválení, registraci nebo v povolení | Kč | 100 |
+| 6. Vydání souhlasu se zahrabáním kadáverů koňovitého chovatelem na vlastním pozemku | Kč | 500 |
+| 7. Vydání veterinárního osvědčení nebo potvrzení o zdravotní nezávadnosti k přemístění vedlejších živočišných produktů, získaných produktů, organických hnojiv nebo krmiv | Kč | 200 |
+
+**Poznámky**
+
+1\. Za přijetí žádosti o změnu schválení nebo změnu registrace podle bodu 1 této položky vybere správní úřad poplatek jako za přijetí žádosti o schválení nebo registraci podle bodu 1 této položky.
+
+2\. Za přijetí žádosti o změnu povolení podle bodu 1 této položky vybere správní úřad poplatek jako za přijetí žádosti o povolení podle bodu 1 této položky.
+
+3\. Za změnu povolení podle bodů 2 a 4 položky vybere správní úřad poplatek jako za povolení podle bodu 2 a 4 této položky.
+
+4\. Za změnu schválení podle bodu 3 této položky vybere správní úřad poplatek jako za schválení podle bodu 3 této položky.
+
+5\. Správní úřad vybírá poplatek jen podle bodů 1 až 4 této položky, provádí-li současně i změny zpoplatňované podle bodu 5 této položky.
+
+**Položka 69**
+
+| Přijetí žádosti podle veterinárního zákona o | | |
+|---|---|---|
+| 1. schválení veterinárního přípravku | Kč | 5 000 |
+| 2. vydání osvědčení výrobci veterinárních přípravků o splnění požadavků správné výrobní praxe | Kč | 2 000 |
+| 3. zápis veterinárního technického prostředku do Seznamu veterinárních technických prostředků | Kč | 1 000 |
+| 4. změnu rozhodnutí o schválení veterinárního přípravku administrativní povahy | Kč | 250 |
+| 5. změnu rozhodnutí o schválení veterinárního přípravku vyžadující odborné hodnocení | Kč | 1 000 |
+| 6. prodloužení doby platnosti rozhodnutí o schválení veterinárního přípravku | Kč | 1 000 |
+| 7. prodloužení doby platnosti rozhodnutí o zápisu veterinárního technického prostředku do Seznamu veterinárních technických prostředků | Kč | 500 |
+| 8. změnu rozhodnutí o zápisu veterinárního technického prostředku do Seznamu veterinárních technických prostředků | Kč | 500 |
+
+Položka 70
+
+| 1. Vydání veterinárního osvědčení k přemístění zvířete | | |
+|---|---|---|
+| a) za jedno zvíře | Kč | 200 |
+| b) za více než jedno zvíře | Kč | 500 |
+| 2. Vydání veterinárního osvědčení k přemístění zvířete do jiného členského státu | | |
+| a) za jedno zvíře | Kč | 200 |
+| b) za více než jedno zvíře | Kč | 500 |
+| 3. Vydání veterinárního osvědčení k vývozu zvířete | | |
+| a) za jedno zvíře | Kč | 200 |
+| b) za více než jedno zvíře | Kč | 500 |
+| 4. Úřední ověření pasu nebo jiného identifikačního dokladu zvířete v zájmovém chovu | Kč | 100 |
+| 5. Osvědčení o splnění zvláštních požadavků a podmínek konkrétní třetí země určení zásilky určené k vývozu cestou jiného členského státu | | |
+| a) za jedno zvíře | Kč | 200 |
+| b) za více než jedno zvíře | Kč | 500 |
+| 6. Zajištění totožnosti zásilky zvířat určených k vývozu úřední veterinární závěrou | Kč | 100 |
+| 7. Schválení ozdravovacího programu v souladu s celostátním eradikačním programem jedné nebo více nákaz, nemocí přenosných ze zvířat na člověka a původců těchto nákaz a nemocí | Kč | 1000 |
+
+Položka 71
+
+| 1. Vydání veterinárního osvědčení k přepravě živočišných produktů | Kč | 200 |
+|---|---|---|
+| 2. Vydání veterinárního osvědčení k vývozu živočišných produktů a ostatního veterinárního zboží, včetně vedlejších živočišných produktů, získaných produktů, organických hnojiv nebo krmiv | Kč | 200 |
+| 3. Vydání veterinárního osvědčení k vývozu krmiv rostlinného původu, doplňkových látek a premixů | Kč | 200 |
+| 4. Osvědčení o splnění zvláštních požadavků a podmínek konkrétní třetí země určení zásilky živočišných produktů a ostatního veterinárního zboží, včetně vedlejších živočišných produktů, získaných produktů, organických hnojiv nebo krmiv, určené k vývozu cestou jiného členského státu | Kč | 200 |
+| 5. Zajištění totožnosti zásilky živočišných produktů a ostatního veterinárního zboží, včetně vedlejších živočišných produktů, získaných produktů, organických hnojiv nebo krmiv, určené k vývozu úřední veterinární závěrou | Kč | 100 |
+
+Položka 72
+
+| 1. Přijetí žádosti podle veterinárního zákona o | | |
+|---|---|---|
+| a) schválení zařízení nebo skupiny zařízení podle § 5a nebo 5b veterinárního zákona | Kč | 1000 |
+| b) registraci zařízení, skupiny zařízení, dopravce nebo provozovatele podle § 5a, 5b nebo 5d veterinárního zákona | Kč | 500 |
+| c) schválení a registraci podniku, závodu nebo jiného zařízení, v nichž se zachází se živočišnými produkty a které jsou pod státním veterinárním dozorem | Kč | 1000 |
+| d) registraci podniku, závodu nebo jiného zařízení, v nichž se zachází se živočišnými produkty a které jsou pod státním veterinárním dozorem | Kč | 500 |
+| 2. Registrace dopravce přepravujícího živočišné produkty | Kč | 500 |
+| 3. Registrace osoby, která se podílí na obchodování se zvířaty a živočišnými produkty s členskými státy | Kč | 500 |
+| 4. Registrace osoby, která se podílí na uvádění živočišných produktů na trh | Kč | 500 |
+| 5. Registrace cirkusu | Kč | 500 |
+| 6. Vydání rejstříku zvířat v cirkusu | Kč | 200 |
+| 7. Ověření rejstříku zvířat v cirkusu | Kč | 100 |
+| 8. Vydání rejstříku míst konání cirkusu | Kč | 200 |
+| 9. Ověření rejstříku míst konání cirkusu | Kč | 100 |
+| 10. Registrace výrobce pasů | Kč | 500 |
+| 11. Registrace distributora pasů | Kč | 500 |
+| 12. Registrace útulku pro zvířata | Kč | 500 |
+| 13. Změna údajů (jméno, příjmení, obchodní firma, název, trvalý pobyt nebo pobyt, sídlo) ve schválení a registraci, popřípadě ve schválení nebo v registraci | Kč | 100 |
+
+**Poznámky**
+
+1\. Za přijetí žádosti o změnu schválení a registrace, popřípadě o změnu schválení nebo změnu registrace podle bodu 1 této položky vybere správní úřad poplatek jako za přijetí žádosti o schválení a registraci, popřípadě schválení nebo registraci podle bodu 1 této položky.
+
+2\. Za změnu registrace podle bodů 2 až 5 a 10 až 12 této položky vybere správní úřad poplatek jako za registraci podle bodů 2 až 5 a 10 až 12 této položky.
+
+3\. Správní úřad vybírá poplatek jen podle bodů 1 až 5 a 10 až 12 této položky, provádí-li současně i změny zpoplatňované podle bodu 13 této položky.
+
+Položka 73
+
+| 1. Registrace soukromého veterinárního technika | Kč | 1000 |
+|---|---|---|
+| 2. Vydání povolení k provádění laboratorní, popřípadě jiné veterinární diagnostické činnosti | Kč | 2000 |
+| 3. Vydání povolení k porážení zvěře ve farmovém chovu v hospodářství | Kč | 200 |
+| 4. Vydání povolení k usmrcení velké farmové zvěře v hospodářství použitím střelné zbraně, k domácí porážce velké farmové zvěře použitím střelné zbraně nebo k usmrcení skotu, s výjimkou bizonů, v hospodářství použitím střelné zbraně | Kč | 500 |
+| 5. Změna údajů (jméno, příjmení, obchodní firma, název, trvalý pobyt nebo pobyt, sídlo) v povolení nebo v registraci | Kč | 100 |
+
+**Poznámky**
+
+1\. Za změnu povolení nebo registrace vybere správní úřad poplatek jako za povolení nebo registraci.
+
+2\. Správní úřad vybírá poplatek jen podle bodů 1 až 4 této položky, provádí-li současně i změny zpoplatňované podle bodu 5 této položky.
+
+**Položka 74**
+
+| a) Vydání rozhodnutí<sup>43</sup>) o povolení chovu druhu zvířete vyžadujícího zvláštní péči | | |
+|---|---|---|
+| 1. jedná-li se o zvířata z řádu šelmy (Carnivora) uvedená v příloze k zákonu č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů, a jejich křížence (dále jen „vybrané druhy šelem“) a o zvířata z řádu primáti (Primates) z čeledi lidoopi (Hominidae) (dále jen „lidoopi“) | Kč | 10 000 |
+| 2. nejedná-li se o vybrané druhy šelem a lidoopy | Kč | 1 000 |
+| b) Vydání rozhodnutí o prodloužení doby platnosti rozhodnutí o povolení chovu druhu zvířete vyžadujícího zvláštní péči | | |
+| 1. jedná-li se o vybrané druhy šelem a lidoopy | Kč | 5 000 |
+| 2. nejedná-li se o vybrané druhy šelem a lidoopy | Kč | 500 |
+| c) Vydání rozhodnutí<sup>43</sup>) o udělení oprávnění k používání pokusných zvířat | Kč | 15 000 |
+| d) Vydání rozhodnutí o žádosti o povolení dopravce<sup>43</sup>) | Kč | 1 000 |
+| e) Vydání rozhodnutí o žádosti o povolení dopravce pro dlouhotrvající cesty<sup>43</sup>) | Kč | 1 000 |
+| f) Vydání rozhodnutí o žádosti o vydání osvědčení o schválení silničního dopravního prostředku nebo osvědčení o schválení plavidla pro přepravu hospodářských zvířat<sup>43</sup>) za každý silniční dopravní prostředek nebo plavidlo uvedené v žádosti | Kč | 1 000 |
+| g) Udělení akreditace k pořádání kurzů na úseku ochrany zvířat proti týrání | Kč | 2 000 |
+
+**Položka 75**
+
+| a) Vydání rozhodnutí<sup>43</sup>) o udělení oprávnění k chovu pokusných zvířat nebo k dodávce pokusných zvířat | Kč | 15 000 |
+|---|---|---|
+| b) Vydání rozhodnutí o schválení projektu pokusů | Kč | 1 000 |
+
+**Položka 76**
+
+| Vydání ověřovací listiny o ověření chmele<sup>44</sup>) | Kč | 100 |
+|---|---|---|
+| **Poznámka** | | |
+| Vystavuje-li se ověřovací listina jako duplikát, vybírá se poplatek podle položky 16 písm. a) tohoto sazebníku. | | |
+
+**Položka 77**
+
+<table><tbody><tr><td>a) Ověření odrůdy, původu, cukernatosti a hmotnosti vinných hroznů<sup>46</sup>)</td><td>Kč</td><td>250</td></tr><tr><td>b) Vydání prvního rozhodnutí<sup>46</sup>) o zatřídění jakostního vína, jakostního vína s přívlastkem, jakostního šumivého vína stanovené oblasti, aromatického jakostního šumivého vína stanovené oblasti, pěstitelského sektu, jakostního likérového vína,</td><td>Kč</td><td>300</td></tr><tr><td></td><td colspan="2">za každých i započatých 10 000 litrů v šarži<sup>46</sup>)</td></tr><tr><td>c) Vydání rozhodnutí<sup>46</sup>) o zatřídění jakostního vína, jakostního vína s přívlastkem, jakostního šumivého vína stanovené oblasti, aromatického jakostního šumivého vína stanovené oblasti, pěstitelského sektu, jakostního likérového vína, pro které již bylo rozhodnutí jednou vydáno</td><td>Kč</td><td>500</td></tr><tr><td></td><td colspan="2">za každých i započatých 10 000 litrů v šarži<sup>46</sup>)</td></tr><tr><td>d) vydání rozhodnutí o udělení práva na novou výsadbu nebo vydání rozhodnutí o udělení práva na výsadbu z rezervy<sup>46a</sup>)</td><td>Kč</td><td>1</td></tr><tr><td></td><td colspan="2">za každých započatých 10 m<sup>2</sup></td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Vydání prvního rozhodnutí o zatřídění jakostního vína, jakostního vína s přívlastkem, jakostního šumivého vína stanovené oblasti, aromatického jakostního šumivého vína stanovené oblasti, pěstitelského sektu a jakostního likérového vína u prvních 8 vzorků vína jednoho výrobce v jednom kalendářním roce, nepřesáhne-li množství zatřiďovaného vína 10 000 litrů včetně v šarži.</td></tr><tr><td colspan="3">2. Vydání rozhodnutí o udělení práva na novou výsadbu nebo vydání rozhodnutí o udělení práva na výsadbu z rezervy<sup>46a</sup>) mladým zemědělcům<sup>46b</sup>).</td></tr></tbody></table>
+
+**Položka 80**
+
+<table><tbody><tr><td> a) Vydání rostlinolékařského osvědčení nebo předvývozního osvědčení na rostliny, rostlinné produkty nebo jiné předměty určené pro vývoz podle zákona upravujícího rostlinolékařskou péči</td><td>Kč</td><td>500</td></tr><tr><td>b) Přijetí žádosti o povolení dovozu karanténního materiálu ze třetí země, nebo jeho přemístění z jiného členského státu Evropské unie do České republiky nebo do chráněné zóny na území České republiky, nebo jeho přemístění v rámci České republiky za účelem jeho použití k úřednímu testování, vědeckým nebo vzdělávacím účelům, pokusům, selekci odrůd nebo šlechtění podle zákona upravujícího rostlinolékařskou péči</td><td>Kč</td><td>500</td></tr><tr><td>c) Přijetí žádosti o povolení přechovávání karanténního materiálu a jiné manipulace s ním podle zákona upravujícího rostlinolékařskou péči</td><td>Kč</td><td>500</td></tr><tr><td>d) Přijetí žádosti profesionálního provozovatele o registraci podle zákona upravujícího rostlinolékařskou péči</td><td>Kč</td><td>100</td></tr><tr><td><b>Osvobození</b></td><td colspan="2"></td></tr><tr><td colspan="3">Od poplatku podle písmene a) této položky je osvobozeno rostlinolékařské osvědčení určené pro vývoz rostliny, rostlinného produktu nebo jiného předmětu k jiným než podnikatelským účelům.</td></tr></tbody></table>
+
+**Položka 81**
+
+<table><tbody><tr><td>Přijetí žádosti o</td><td></td><td></td></tr><tr><td>a) vzájemné uznávání povolení nebo povolení přípravku na ochranu rostlin, obsahuje-li:</td><td></td><td></td></tr><tr><td>- pouze účinnou látku nebo účinné látky zařazené podle přímo použitelného předpisu Evropské unie upravujícího uvádění přípravků na ochranu rostlin na trh<sup>49</sup>)</td><td>Kč</td><td>5 000</td></tr><tr><td>- účinnou látku nebo účinné látky nezařazené podle přímo použitelného předpisu Evropské unie upravujícího uvádění přípravků na ochranu rostlin na trh<sup>49</sup>)</td><td>Kč</td><td>6 000</td></tr><tr><td>b) povolení pomocného prostředku na ochranu rostlin podle přímo použitelného předpisu Evropské unie upravujícího uvádění přípravků na ochranu rostlin na trh<sup>49</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>c) schválení plánu letecké aplikace, nebo o povolení jednotlivé nebo mimořádné letecké aplikace přípravku na ochranu rostlin podle zákona upravujícího rostlinolékařskou péči</td><td>Kč</td><td>500</td></tr><tr><td colspan="3"><b>Zmocnění</b></td></tr><tr><td colspan="3">Správní úřad sníží poplatek o 90 %, jde-li o žádost o vzájemné povolení nebo povolení přípravku na bázi mikroorganismů, potravinářských surovin, základních látek, rostlinných extraktů, feromonů nebo repelentů nebo vydání povolení přípravku na ochranu rostlin ve veřejném zájmu.</td></tr></tbody></table>
+
+**Položka 82**
+
+| Přijetí žádosti o prodloužení platnosti rozhodnutí o | | |
+|---|---|---|
+| a) povolení přípravku na ochranu rostlin podle přímo použitelného předpisu Evropské unie upravujícího uvádění přípravků na ochranu rostlin na trh<sup>49</sup>) | Kč | 500 |
+| b) povolení pomocného prostředku na ochranu rostlin podle přímo použitelného předpisu Evropské unie upravujícího uvádění přípravků na ochranu rostlin na trh<sup>49</sup>) | Kč | 200 |
+
+**Položka 83**
+
+| Přijetí žádosti o | | |
+|---|---|---|
+| a) rozšíření povolení přípravku na ochranu rostlin pro menšinová použití podle zákona upravujícího rostlinolékařskou péči | Kč | 300 |
+| b) změnu v povolení přípravku na ochranu rostlin podle přímo použitelného předpisu Evropské unie upravujícího uvádění přípravků na ochranu rostlin na trh<sup>49</sup>) nebo v povolení pomocného prostředku na ochranu rostlin podle zákona upravujícího rostlinolékařskou péči včetně převodu těchto povolení | Kč | 100 |
+| c) zápis do registru distributorů přípravků na ochranu rostlin pro profesionální uživatele podle zákona upravujícího rostlinolékařskou péči | Kč | 1 000 |
+
+**Položka 84**
+
+| Přijetí žádosti o zrušení povolení přípravku na ochranu rostlin podle přímo použitelného | | |
+|---|---|---|
+| předpisu Evropské unie upravujícího uvádění přípravků na ochranu rostlin na trh<sup>49</sup>) nebo pomocného prostředku podle zákona upravujícího rostlinolékařskou péči | Kč | 100 |
+
+**Položka 85**
+
+| Přijetí žádosti o | | |
+|---|---|---|
+| povolení k použití nepovoleného přípravku na ochranu rostlin pro účely výzkumu nebo vývoje podle přímo použitelného předpisu Evropské unie upravujícího uvádění přípravků na ochranu rostlin na trh<sup>49</sup>) | Kč | 1 000 |
+
+**Položka 86**
+
+| Přijetí žádosti o | | |
+|---|---|---|
+| a) povolení k souběžnému obchodu podle přímo použitelného předpisu Evropské unie upravujícího uvádění přípravků na ochranu rostlin na trh<sup>49</sup>) | | |
+| - pro obchodní použití | Kč | 1 000 |
+| - pro vlastní potřebu | Kč | 300 |
+| b) vydání osvědčení o způsobilosti k provádění zkoušek pro účely povolení podle zákona upravujícího rostlinolékařskou péči | Kč | 100 |
+| c) provedení zkoušky odborné způsobilosti pro nakládání s přípravky na ochranu rostlin podle zákona upravujícího rostlinolékařskou péči | Kč | 200 |
+
+**Položka 87**
+
+| a) Vydání povolení k dovozu reprodukčního materiálu lesních dřevin | Kč | 500 |
+|---|---|---|
+| b) Udělení licence dodavateli reprodukčního materiálu lesních dřevin | Kč | 1 000 |
+| c) Prodloužení licence dodavateli reprodukčního materiálu lesních dřevin | Kč | 500 |
+| d) Udělení licence k vyhotovování lesního hospodářského plánu a lesní hospodářské osnovy | Kč | 1 000 |
+| e) Prodloužení licence k vyhotovování lesního hospodářského plánu a lesní hospodářské osnovy | Kč | 500 |
+| f) Udělení licence pro výkon činnosti odborného lesního hospodáře | Kč | 1 000 |
+| g) Prodloužení licence pro výkon činnosti odborného lesního hospodáře | Kč | 500 |
+
+**Položka 88**
+
+| Přijetí žádosti | | |
+|---|---|---|
+| a) o udělení ochranných práv k nové odrůdě rostlin<sup>50</sup>) | Kč | 1 000 |
+| b) o registraci osoby k uvádění rozmnožovacího materiálu do oběhu<sup>51</sup>) | Kč | 100 |
+| c) o registraci odrůdy<sup>51</sup>) | Kč | 2 000 |
+| d) o registraci odrůdy uchovávané, odrůdy vyšlechtěné pro pěstování za zvláštních podmínek a odrůdy s úředně uznaným popisem odrůdy<sup>51</sup>) | Kč | 500 |
+| e) o prodloužení registrace odrůdy<sup>51</sup>) | Kč | 500 |
+| f) o zápis dalšího udržovatele odrůdy<sup>51</sup>) | Kč | 1 000 |
+| g) o evidenci klonu registrované odrůdy révy nebo chmelu<sup>51</sup>) | Kč | 500 |
+
+**Položka 89**
+
+| Přijetí návrhu na udělení nucené licence<sup>50</sup>) | Kč | 3 000 |
+|---|---|---|
+
+**Položka 90**
+
+| a) Zápis změny v osobě žadatele o udělení ochranných práv k odrůdě<sup>50</sup>) | Kč | 500 |
+|---|---|---|
+| b) Zápis smlouvy o převodu ochranných práv k chráněné odrůdě nebo o převodu podílu ochranných práv k chráněné odrůdě do rejstříku<sup>50</sup>) | Kč | 1 000 |
+| c) Zápis nucené licence, změny jména, příjmení, obchodního firmy, trvalého pobytu nebo sídla držitele šlechtitelských práv | Kč | 200 |
+
+**Položka 92**
+
+<table><tbody><tr><td>a) Vydání povolení<sup>52</sup>) k pěstitelskému pálení lihu</td><td>Kč</td><td>1 000</td></tr><tr><td>b) Vydání osvědčení<sup>53</sup>) pro zápis označení původu a zeměpisných označení do rejstříku</td><td>Kč</td><td>1 000</td></tr><tr><td>c) Vydání osvědčení<sup>53</sup>) o splnění odborné způsobilosti k uvádění do oběhu volně rostoucích a pěstovaných jedlých hub určených pro potravinářské účely</td><td>Kč</td><td>500</td></tr><tr><td>d) Vydání osvědčení<sup>53</sup>) pro výrobky, potraviny nebo suroviny určené k jejich výrobě a tabákové výrobky, včetně čerstvého ovoce, čerstvé zeleniny nebo konzumních brambor</td><td>Kč</td><td>1 000</td></tr><tr><td>e) Provedení změny ve vydaném osvědčení uvedeném v písmenech b) až d)</td><td>Kč</td><td>500</td></tr><tr><td>f) vydání osvědčení nebo dokladu o skutečnostech zjištěných činností inspekce<sup>53</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>g) účast na senzorických zkouškách<sup>53</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>h) vydání dokladu o senzorické zkoušce<sup>53</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>i) vydání rozhodnutí o schválení postupu a způsobu ozařování potravin a surovin ionizujícím zářením<sup>53</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Za řízení předcházející vydání osvědčení podle písmen d) a i) této položky se vyměřuje poplatek podle položky 20 tohoto sazebníku.</td></tr></tbody></table>
+
+**Položka 93**
+
+| a) Přijetí žádosti o schválení provozu pro výrobu<sup>54</sup>) | Kč | 7 000 |
+|---|---|---|
+| b) Přijetí žádosti o podmíněném schválení provozu pro výrobu nebo uvádění na trh<sup>54</sup>) | Kč | 1 000 |
+| c) Přijetí žádosti o schválení provozu pro uvádění na trh<sup>54</sup>) | Kč | 3 000 |
+| d) Přijetí žádosti o registraci provozu pro výrobu<sup>54</sup>) | Kč | 5 000 |
+| e) Přijetí žádosti o registraci provozu pro uvádění na trh<sup>54</sup>) | Kč | 2 000 |
+| f) Přijetí žádosti o registraci provozu dopravce nebo provozu na úrovni prvovýroby<sup>54</sup>) | Kč | 500 |
+| g) Přijetí žádosti o provedení změny údajů v žádosti o schválení nebo registraci<sup>54</sup>) | Kč | 500 |
+| h) Přijetí žádosti o povolení výroby nebo uvádění na trh produktu ke krmení<sup>54</sup>) | Kč | 5 000 |
+| i) Přijetí žádosti o udělení oprávnění k provádění biologického zkoušení<sup>54</sup>) | Kč | 5 000 |
+| **Poznámky** | | |
+| 1. Poplatek podle písmene a) nebo c) této položky se vybere i v případě, že provoz byl již registrován podle písmene d) nebo e). | | |
+| 2. Za osvědčení o odborné způsobilosti vydávané podle zvláštního právního předpisu<sup>54</sup>)<sup></sup>se vybírá poplatek podle položky 22 písmene b) tohoto sazebníku. | | |
+| **Předmětem poplatku není** | | |
+| Přijetí žádosti o změně podle písmene g) této položky u provozu dopravce nebo provozu na úrovni prvovýroby. | | |
+
+**Položka 94**
+
+<table><tbody><tr><td>Přijetí žádosti</td><td></td><td></td></tr><tr><td>a) o registraci hnojiva, pomocné půdní látky, pomocného rostlinného přípravku nebo substrátu<sup>55</sup>)</td><td>Kč</td><td>10 000</td></tr><tr><td>b) o prodloužení platnosti rozhodnutí o registraci nebo o změnu rozhodnutí o registraci hnojiva, pomocné půdní látky, pomocného rostlinného přípravku nebo substrátu<sup>55</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td>c) o povolení výjimky z pravidel ekologického hospodaření<sup>75</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Přijetí žádosti uvedené v písmenu c) této položky, jde-li o žádost o povolení výjimky pro používání rozmnožovacího materiálu nezískaného v ekologickém zemědělství nebo o žádost o povolení výjimky v případě katastrofických událostí podle přímo použitelného předpisu Evropské unie upravujícího ekologickou produkci a označování ekologických produktů.</td></tr></tbody></table>
+
+**Položka 95**
+
+| 1. Podání žádosti nebo návrhu o<sup>56</sup>) | | |
+|---|---|---|
+| a) schválení účinné látky pro první typ přípravku | Kč | 150 000 |
+| b) schválení účinné látky pro první typ přípravku, pokud je účinná látka mikroorganismus | Kč | 75 000 |
+| c) schválení účinné látky pro další typ přípravku | Kč | 75 000 |
+| d) obnovení schválení účinné látky pro první typ přípravku | Kč | 75 000 |
+| e) obnovení schválení účinné látky pro další typ přípravku | Kč | 75 000 |
+| f) povolení biocidního přípravku | Kč | 30 000 |
+| g) povolení kategorie biocidních přípravků | Kč | 60 000 |
+| h) povolení biocidního přípravku zjednodušeným postupem povolování | Kč | 3 000 |
+| i) povolení kategorie biocidních přípravků zjednodušeným postupem | Kč | 6 000 |
+| j) významnou změnu v povolení | Kč | 12 000 |
+| k) nevýznamnou změnu v povolení | Kč | 1 800 |
+| l) změnu administrativního charakteru | Kč | 300 |
+| m) obnovení povolení biocidního přípravku | Kč | 22 500 |
+| n) povolení identického biocidního přípravku | Kč | 5 000 |
+| 2. Podání oznámení<sup>56</sup>) | | |
+| a) k přípravku, který spadá do již povolené kategorie biocidních přípravků | Kč | 5 000 |
+| b) k přípravku, který byl již povolen zjednodušeným postupem v jiném členském státě Evropské unie nebo ve smluvním státě Dohody o Evropském hospodářském prostoru nebo ve Švýcarské konfederaci | Kč | 2 000 |
+| 3. Podání žádosti<sup>56</sup>) o hodnocení dokumentace o povolení biocidního přípravku, kdy Česká republika plní úlohu hodnotícího příslušného orgánu, jde-li o | | |
+| a) vydání dočasného povolení | Kč | 3 000 |
+| b) provedení srovnávacího posouzení | Kč | 15 000 |
+| c) stanovení maximálního limitu reziduí | Kč | 7 500 |
+| 4. Přijetí žádosti<sup>56</sup>) o | | |
+| a) povolení k souběžnému obchodu | Kč | 5 000 |
+| b) vzájemné uznání vnitrostátního povolení vydaného v jiném členském státě Evropské unie nebo ve smluvním státě Dohody o Evropském hospodářském prostoru nebo ve Švýcarské konfederaci | Kč | 40 000 |
+| 5. Přijetí oznámení<sup>56</sup>) | | |
+| o dodání biocidního přípravku na trh na území České republiky v režimu přechodného období | Kč | 1 500 |
+
+Poznámka
+
+Poplatek podle bodu 3 vybere správní úřad současně s poplatkem podle bodu 1 písm. f) této položky v případech, kdy Česká republika plní úlohu hodnotícího příslušného orgánu.
+
+**Položka 96**
+
+<table><tbody><tr><td>a) Vydání integrovaného povolení k provozu zařízení uvedenému v příloze č. 1 k zákonu o integrované prevenci<sup>57</sup>)</td><td>Kč</td><td>30 000</td></tr><tr><td>b) Vydání rozhodnutí o změně integrovaného povolení při podstatné změně zařízení uvedeného v příloze č. 1 k zákonu o integrované prevenci<sup>57</sup>)</td><td>Kč</td><td>10 000</td></tr><tr><td>c) Vydání integrovaného povolení nebo jeho změny při podstatné změně zařízení neuvedeného v příloze č. 1 k zákonu o integrované prevenci<sup>57</sup>)</td><td>Kč</td><td>5 000</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Vydání rozhodnutí o změně integrovaného povolení v případě, že se nejedná o podstatnou změnu zařízení plánovanou provozovatelem zařízení.</td></tr></tbody></table>
+
+#### ČÁST VI
+
+**Položka 97**
+
+<table><tbody><tr><td>1. Přijetí žádosti<sup>58</sup>)</td><td></td><td></td></tr><tr><td>a) o registraci léčivého přípravku, o změnu rozhodnutí nebo o prodloužení platnosti rozhodnutí o registraci léčivého přípravku</td><td>Kč</td><td>2 000</td></tr><tr><td>b) o převod registrace nebo o povolení souběžného dovozu léčivého přípravku</td><td>Kč</td><td>2 000</td></tr><tr><td>c) o zrušení rozhodnutí o registraci léčivého přípravku</td><td>Kč</td><td>1 000</td></tr><tr><td>2. Přijetí žádosti<sup>58</sup>)</td><td></td><td></td></tr><tr><td>a) o registraci homeopatického přípravku, o změnu rozhodnutí nebo o prodloužení platnosti rozhodnutí o registraci homeopatického přípravku nebo o převod registrace homeopatického přípravku</td><td>Kč</td><td>2 000</td></tr><tr><td>b) o povolení souběžného dovozu homeopatického přípravku</td><td>Kč</td><td>2 000</td></tr><tr><td>c) o zrušení rozhodnutí o registraci homeopatického přípravku</td><td>Kč</td><td>1 000</td></tr><tr><td>d) o vydání rozhodnutí v případech pochybností, zda jde o léčivý přípravek, léčivou látku, léčivý přípravek podléhající registraci nebo o jiný výrobek, popřípadě zda jde o homeopatický přípravek</td><td>Kč</td><td>2 000</td></tr><tr><td>e) o registraci zvykového rostlinného veterinárního léčivého přípravku</td><td>Kč</td><td>2 000</td></tr><tr><td>f) o schválení povolení pro uvádění do oběhu a použití veterinárního léčivého přípravku, který není registrovaný v Evropské unii nebo ve třetí zemi</td><td>Kč</td><td>2 000</td></tr><tr><td>g) o schválení klinického hodnocení nebo ověřovacího klinického hodnocení veterinárního léčivého přípravku</td><td>Kč</td><td>2 000</td></tr><tr><td>3. Ověření údajů podle čl. 31 bodu 1 nařízení Evropského parlamentu a Rady (EU) 2017/745 ze dne 5. dubna 2017 o zdravotnických prostředcích, změně směrnice 2001/83/ES, nařízení (ES) č. 178/2002 a nařízení (ES) č. 1223/2009 a o zrušení směrnic Rady 90/385/EHS a 93/42/EHS (dále jen „nařízení o zdravotnických prostředcích“) a přidělení jediného registračního čísla podle čl. 31 bodu 2 nařízení o zdravotnických prostředcích výrobci, zplnomocněnému zástupci nebo dovozci nebo ověření údajů podle čl. 28 bodu 1 nařízení Evropského parlamentu a Rady (EU) 2017/746 ze dne 5. dubna 2017 o diagnostických zdravotnických prostředcích in vitro a o zrušení směrnice 98/79/ES a rozhodnutí Komise 2010/227/EU (dále jen „nařízení o diagnostických zdravotnických prostředcích in vitro“) a přidělení jediného registračního čísla podle čl. 28 bodu 2 nařízení o diagnostických zdravotnických prostředcích in vitro výrobci, zplnomocněnému zástupci nebo dovozci</td><td>Kč</td><td>3 000</td></tr><tr><td>4. Přijetí</td><td></td><td></td></tr><tr><td>a) ohlášení o zahájení činnosti výrobce zdravotnických prostředků na zakázku</td><td>Kč</td><td>3 000</td></tr><tr><td>b) ohlášení o zahájení činnosti distributora prostředků podle zákona o zdravotnických prostředcích a diagnostických zdravotnických prostředcích in vitro</td><td>Kč</td><td>3 000</td></tr><tr><td>c) ohlášení o zahájení činnosti osoby provádějící servis prostředků podle zákona o zdravotnických prostředcích a diagnostických zdravotnických prostředcích in vitro</td><td>Kč</td><td>3 000</td></tr><tr><td>d) žádosti o obnovení zneplatněných údajů ohlášené osoby v Informačním systému zdravotnických prostředků</td><td>Kč</td><td>1 500</td></tr><tr><td>e) žádosti o povolení klinické zkoušky zdravotnického prostředku nebo povolení studie funkční způsobilosti diagnostického zdravotnického prostředku in vitro</td><td>Kč</td><td>1 000</td></tr><tr><td>f) žádosti o vystavení certifikátu o volném prodeji zdravotnického prostředku nebo certifikátu o volném prodeji diagnostického zdravotnického prostředku in vitro</td><td>Kč</td><td>1 000</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Přijetí žádosti uvedené v bodě 1 písmenech a) a b) této položky, jde-li o léčivé přípravky zařazené do registru přípravků pro vzácná onemocnění nařízení podle Evropského Parlamentu a Rady 141/2000/ES ze dne 16. prosince 1999 o léčivých přípravcích pro vzácná onemocnění.</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Poplatek podle bodu 1 písmene a) této položky se vybírá jen jednou, je-li žádáno do 30. června 2004 o více změn registrace léčivého přípravku, který byl v České republice a v dalších členských státech Evropské unie registrován, a to za účelem dosažení souladu podmínek této registrace s podmínkami registrace v členských státech Evropské unie.</td></tr></tbody></table>
+
+**Položka 98**
+
+| Přijetí žádosti<sup>58</sup>) | | |
+|---|---|---|
+| *-*o povolení nebo změnu povolení výroby léčivých přípravků, včetně povolení nebo změny povolení výroby veterinárních transfuzních přípravků nebo biologických veterinárních léčivých přípravků | Kč | 2 000 |
+| - o povolení nebo změnu povolení činnosti kontrolní laboratoře | Kč | 2 000 |
+| - o povolení nebo změnu povolení výroby v zařízení transfúzní služby | Kč | 2 000 |
+| - o povolení nebo změnu povolení výroby medikovaných krmiv nebo veterinárních autogenních vakcín | Kč | 2 000 |
+
+**Položka 99**
+
+<table><tbody><tr><td>1. Přijetí žádosti<sup>58</sup>)</td><td></td><td></td></tr><tr><td>- o povolení nebo změnu povolení distribuce léčivých přípravků</td><td>Kč</td><td>2 000</td></tr><tr><td>- o rozšíření povolení distribuce</td><td>Kč</td><td>2 000</td></tr><tr><td>2. Přijetí žádosti o stanovení nebo změnu maximální ceny nebo výše a podmínek úhrady léčivého přípravku nebo potraviny pro zvláštní lékařské účely<sup>58a</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Přijetí žádosti uvedené v bodě 2 této položky, je-li žadatelem zdravotní pojišťovna.</td></tr><tr><td colspan="3">2. Přijetí žádosti uvedené v bodě 2 této položky, jde-li o léčivé přípravky zařazené do registru přípravků pro vzácná onemocnění podle nařízení Evropského Parlamentu a Rady 141/2000/ES ze dne 16. prosince 1999 o léčivých přípravcích pro vzácná onemocnění.</td></tr></tbody></table>
+
+**Položka 99A**
+
+| a) Přijetí žádosti o udělení licence k pěstování rostlin konopí pro léčebné použití<sup>59</sup>) | Kč | 2 000 |
+|---|---|---|
+| b) Přijetí žádosti o prodloužení licence k pěstování rostlin konopí pro léčebné použití<sup>59</sup>) | Kč | 2 000 |
+| c) Přijetí žádosti o změnu licence k pěstování rostlin konopí pro léčebné použití<sup>59</sup>) | Kč | 2 000 |
+
+Položka 100
+
+| a) Vydání povolení k zacházení s omamnými látkami, psychotropními látkami nebo přípravky<sup>59</sup>) | Kč | 5000 |
+|---|---|---|
+| b) Vydání povolení k vývozu nebo dovozu omamných látek, psychotropních látek nebo přípravků<sup>59</sup>) | Kč | 1000 |
+| c) Vydání povolení k vývozu nebo dovozu makoviny | Kč | 500 |
+| d) Přijetí žádosti o vydání povolení k nakládání s psychomodulačními látkami podle § 33a odst. 1 písm. b) zákona o návykových látkách | Kč | 200000 |
+| e) Přijetí žádosti o vydání povolení k nakládání s psychomodulačními látkami podle § 33a odst. 1 písm. b) zákona o návykových látkách, pokud jde o výrobu psychomodulačních látek v provozovně, a to za každou provozovnu, ve které má podle žádosti docházet k výrobě psychomodulačních látek | Kč | 200000 |
+| f) Přijetí žádosti o vydání povolení k nakládání podle § 33a odst. 1 písm. c) zákona o návykových látkách, a to za každou provozovnu, v níž dochází k prodeji psychomodulačních látek | Kč | 20000 |
+| g) Přijetí žádosti o vydání povolení k nakládání s psychomodulačními látkami podle § 33a odst. 1 písm. d) zákona o návykových látkách, a to za každou internetovou stránku nebo aplikaci | Kč | 200000 |
+| h) Přijetí žádosti o vydání povolení k nakládání s psychomodulačními látkami podle § 33a odst. 1 písm. e) zákona o návykových látkách | Kč | 20000 |
+| i) Přijetí žádosti o vydání povolení k nakládání s psychomodulačními látkami podle § 33a odst. 1 písm. f) zákona o návykových látkách, a to za každou provozovnu v níž dochází k pěstování rostlin nebo hub, ze kterých lze získat psychomodulační látky | Kč | 200000 |
+
+Poznámka
+
+U položek v písmenech d) až i) se vybírá roční udržovací poplatek ve stejné výši jako u poplatku za přijetí žádosti o vydání povolení, který je splatný vždy k 31. lednu kalendářního roku, na který se udržovací poplatek platí.
+
+**Položka 100A**
+
+<table><tbody><tr><td>a) Vydání licence k činnosti s uvedenou látkou kategorie 1 podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>)</td><td>Kč</td><td>3 000</td></tr><tr><td>b) Vydání licence k činnosti s uvedenou látkou kategorie 1 podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) soudně toxikologické laboratoři, laboratoři zdravotního ústavu, specializovanému diagnostickému, vědecko-výzkumnému nebo výukovému pracovišti vysoké školy nebo veřejné výzkumné instituci podle zákona o veřejných výzkumných institucích</td><td>Kč</td><td>1 000</td></tr><tr><td>c) Vydání zvláštní licence pro činnost s uvedenou látkou kategorie 1 podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) poskytovateli lékárenské péče</td><td>Kč</td><td>500</td></tr><tr><td></td><td colspan="2"> za každou provozovnu uvedenou v žádosti o zvláštní licenci</td></tr><tr><td>d) Vydání nové licence z důvodu změny v údajích uvedených v licenci podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) nebo prodloužení licence podle zákona o prekursorech drog</td><td>Kč</td><td> 2 000</td></tr><tr><td>e) Změna licence z důvodu změny odpovědné osoby, změny jména nebo příjmení odpovědné osoby nebo změny sídla, bydliště, názvu, obchodní firmy nebo jména nebo příjmení držitele licence podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>f) Vydání nové licence z důvodu změny v údajích uvedených v licenci podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) nebo prodloužení licence podle zákona o prekursorech drog soudně toxikologické laboratoři, laboratoři zdravotního ústavu, specializovanému diagnostickému, vědecko-výzkumnému nebo výukovému pracovišti vysoké školy nebo veřejné výzkumné instituci podle zákona o veřejných výzkumných institucích</td><td>Kč</td><td>500</td></tr><tr><td>g) Změna licence z důvodu změny odpovědné osoby, změny jména nebo příjmení odpovědné osoby, změny sídla nebo změny názvu podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) soudně toxikologické laboratoři, laboratoři zdravotního ústavu, specializovanému diagnostickému, vědecko-výzkumnému nebo výukovému pracovišti vysoké školy nebo veřejné výzkumné instituci podle zákona o veřejných výzkumných institucích</td><td>Kč</td><td>300</td></tr><tr><td>h) Vydání nové zvláštní licence z důvodu změny v údajích uvedených ve zvláštní licenci podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) nebo prodloužení zvláštní licence podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) poskytovateli lékárenské péče</td><td colspan="2">Kč 300 a Kč 200</td></tr><tr><td></td><td colspan="2"> za každou novou provozovnu uvedenou v žádosti o novou zvláštní licenci</td></tr><tr><td>i) Změna zvláštní licence z důvodu změny odpovědné osoby, změny jména nebo příjmení odpovědné osoby nebo změny sídla, bydliště, názvu, obchodní firmy nebo jména nebo příjmení držitele zvláštní licence podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) poskytovateli lékárenské péče</td><td>Kč</td><td>300</td></tr><tr><td>j) Vydání osvědčení o registraci k činnosti s uvedenou látkou kategorie 2 nebo 3 podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>)</td><td>Kč</td><td>3 000</td></tr><tr><td>k) Vydání osvědčení o zvláštní registraci k činnosti s uvedenou látkou kategorie 2 nebo 3 podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) poskytovateli lékárenské péče</td><td>Kč</td><td>2 000</td></tr><tr><td>l) Vydání nového osvědčení o registraci k činnosti s uvedenou látkou kategorie 2 nebo 3 z důvodu změny v registračních údajích podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>m) Vydání nového osvědčení o zvláštní registraci k činnosti s uvedenou látkou kategorie 2 nebo 3 z důvodu změny v registračních údajích podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>) poskytovateli lékárenské péče</td><td>Kč</td><td>600</td></tr><tr><td>n) Vydání vývozního nebo dovozního povolení podle zákona o prekursorech drog a podle přímo použitelných předpisů Evropské unie upravujících prekursory drog<sup>77</sup>)</td><td>Kč</td><td>1 000</td></tr><tr><td>o) Vydání osvědčení o registraci k činnosti s výchozí nebo pomocnou látkou podle zákona o prekursorech drog</td><td>Kč</td><td>500</td></tr><tr><td>p) Vydání nového osvědčení o registraci k činnosti s výchozí nebo pomocnou látkou z důvodu změny v registračních údajích podle zákona o prekursorech drog</td><td>Kč</td><td>300</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle písmen j) a k) jsou osvobozeny osoby registrované Ministerstvem zdravotnictví podle zákona č. 167/1998 Sb., o návykových látkách a o změně některých dalších zákonů, ve znění účinném před nabytím účinnosti zákona o prekursorech drog.</td></tr></tbody></table>
+
+**Položka 101**
+
+| a) Udělení povolení<sup>60</sup>) pro uzavřené nakládání s geneticky modifikovanými organizmy | Kč | 2 000 |
+|---|---|---|
+| b) Udělení povolení<sup>60</sup>) pro uvádění geneticky modifikovaných organismů do životního prostředí | Kč | 20 000 |
+| c) Zápis<sup>60</sup>) geneticky modifikovaného organismu nebo genetického produktu do Seznamu pro uvádění do oběhu | Kč | 30 000 |
+| d) Vydání rozhodnutí o zařazení žadatele a genetického zdroje rostliny, mikroorganismu, kolekce genetických zdrojů rostlin nebo kolekce genetických zdrojů mikroorganismů do Národního programu konzervace a využívání genetických zdrojů rostlin a mikroorganismů významných pro výživu a zemědělství<sup>60a</sup>) | Kč | 1 000 |
+| e) Vydání rozhodnutí o prodloužení doby platnosti rozhodnutí uvedeného v písmenu d)<sup>60a</sup>) | Kč | 500 |
+
+**Položka 102**
+
+| 1. Přijetí žádosti o schválení<sup>80</sup>) | | |
+|---|---|---|
+| a) návrhu bezpečnostního programu prevence závažných havárií | Kč | 40 000 |
+| b) aktualizace bezpečnostního programu prevence závažných havárií | Kč | 20 000 |
+| c) návrhu bezpečnostní zprávy | Kč | 60 000 |
+| d) aktualizace bezpečnostní zprávy | Kč | 30 000 |
+| e) návrhu zprávy o posouzení bezpečnostní zprávy | Kč | 15 000 |
+| 2. Přijetí žádosti o vydání jednotného environmentálního stanoviska podle zákona o jednotném environmentálním stanovisku, pokud se vydává namísto závazného stanoviska k záměrům, jejichž součástí je nový objekt podle zákona o prevenci závažných havárií<sup>80</sup>) | Kč | 25 000 |
+
+**Položka 102A**
+
+<table><tbody><tr><td>Přijetí žádosti o</td><td></td><td></td></tr><tr><td>a) povolení<sup>61a</sup>) výzkumu na lidských embryonálních kmenových buňkách </td><td>Kč</td><td>500</td></tr><tr><td>b) povolení<sup>61a</sup>) dovozu linií lidských embryonálních kmenových buněk </td><td>Kč</td><td>500</td></tr><tr><td>c) registraci<sup>61a</sup>) linie lidských embryonálních kmenových buněk </td><td>Kč</td><td>500</td></tr><tr><td>d) povolení nebo změnu povolení činnosti tkáňového zařízení<sup>61b</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td>e) povolení nebo změnu povolení činnosti odběrového zařízení<sup>61b</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td>f) povolení nebo změnu povolení činnosti diagnostické laboratoře<sup>61b</sup>)</td><td>Kč</td><td>2 000</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle písmen d), e) a f) této položky je osvobozeno přijetí žádosti o povolení činnosti podané do tří měsíců ode dne nabytí účinnosti zvláštního právního předpisu vymezujícího požadavky na zajištění jakosti a bezpečnosti lidských tkání a buněk<sup>61b</sup>), kterou podá provozovatel tkáňového zařízení nebo odběrového zařízení nebo diagnostické laboratoře, který ke dni nabytí účinnosti tohoto zvláštního právního předpisu vykonával tyto činnosti podle zákona č. 285/2002 Sb., o darování, odběrech a transplantacích tkání a orgánů a o změně některých zákonů (transplantační zákon), ve znění pozdějších předpisů, zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů, nebo podle zákona č. 160/1992 Sb., o zdravotní péči v nestátních zdravotnických zařízeních, ve znění pozdějších předpisů.</td></tr></tbody></table>
+
+#### ČÁST VII
+
+**Položka 103**
+
+<table><tbody><tr><td>a) Vydání úředního povolení<sup>62</sup>) k přepravě nebo dovozu stanovených výrobků</td><td>Kč</td><td>500</td></tr><tr><td>b) Vydání úředního povolení<sup>62</sup>)k vývozu určených výrobků podle přímo použitelného předpisu Evropské unie upravujícího oblast obchodování se střelnými zbraněmi a střelivem<sup>76</sup>)</td><td>Kč</td><td>500</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle této položky je osvobozeno vydání úředního povolení na vývoz nebo dovoz nebo přepravu výrobků pro účely výstav, předvedení, reklamací a bezúplatného vývozu a dovozu vzorků. Od poplatku podle této položky je dále osvobozen vývoz určených výrobků podle čl. 9 odst. 2 přímo použitelného předpisu Evropské unie upravujícího oblast obchodování se střelnými zbraněmi a střelivem<sup>76</sup>).</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Úřední povolení vydává správní úřad v souladu s mezinárodními smlouvami, kterými je Česká republika vázána.</td></tr></tbody></table>
+
+**Položka 104**
+
+<table><tbody><tr><td>a) Vydání povolení<sup>63</sup>) provádět zahraniční obchod s vojenským materiálem</td><td>Kč</td><td>20 000</td></tr><tr><td>b) Udělení licence<sup>63</sup>) pro zahraniční obchod s vojenským materiálem</td><td>Kč</td><td>1 000</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle této položky je osvobozeno vydání dočasné licence<sup>63</sup>).</td></tr></tbody></table>
+
+**Položka 105**
+
+| Udělení | | |
+|---|---|---|
+| a) povolení k vývozu nebo k přepravě uvnitř Společenství zboží dvojího užití nebo k poskytnutí zprostředkovatelských služeb s takovým zbožím souvisejících<sup>64</sup>) | Kč | 500 |
+| b) mezinárodního dovozního certifikátu | Kč | 500 |
+
+**Položka 105a**
+
+| Udělení povolení podle zákona upravujícího zahraniční obchod se zbožím, které by mohlo být použito pro výkon trestu smrti, mučení nebo pro jiné kruté, nelidské či ponižující zacházení nebo trestání | Kč | 500. |
+|---|---|---|
+
+**Položka 106**
+
+| 1. Přijetí žádosti o povolení<sup>65</sup>) | | |
+|---|---|---|
+| a) k umístění jaderného zařízení | Kč | 5 000 |
+| b) k výstavbě jaderného zařízení | Kč | 5 000 |
+| c) k prvnímu fyzikálnímu spouštění jaderného zařízení s jaderným reaktorem | Kč | 3 000 |
+| d) k prvnímu energetickému spouštění jaderného zařízení s jaderným reaktorem | Kč | 3 000 |
+| e) k uvádění do provozu jaderného zařízení bez jaderného reaktoru | Kč | 3 000 |
+| f) k provozu jaderného zařízení | Kč | 5 000 |
+| g) k provedení změny ovlivňující jadernou bezpečnost, technickou bezpečnost a fyzickou ochranu jaderného zařízení | Kč | 3 000 |
+| h) k nakládání s jaderným materiálem | Kč | 1 000 |
+| i) k dovozu nebo vývozu jaderné položky nebo k průvozu jaderného materiálu a vybrané položky v jaderné oblasti | Kč | 1 000 |
+| j) k výstavbě pracoviště IV. kategorie; kromě pracoviště s jaderným zařízením | Kč | 5 000 |
+| k) k provozu pracoviště III. kategorie | Kč | 3 000 |
+| l) k provozu pracoviště IV. kategorie | Kč | 5 000 |
+| m) k uvolňování radioaktivní látky z pracoviště | Kč | 1 000 |
+| n) k nakládání s radioaktivním odpadem s výjimkou shromažďování, třídění a skladování radioaktivního odpadu přímo u původce radioaktivního odpadu, který je oprávněn s ním nakládat jako s otevřeným radionuklidovým zdrojem | Kč | 1 000 |
+| o) k uzavření úložiště radioaktivního odpadu | Kč | 1 000 |
+| p) k úplnému vyřazení | Kč | 1 000 |
+| q) ke zpětnému dovozu radioaktivního odpadu vzniklého při zpracování materiálu vyvezeného z České republiky nebo jeho zpětnému transferu z členského státu Euratomu | Kč | 1 000 |
+| r) k dovozu radioaktivního odpadu do České republiky nebo jeho transferu z členského státu Euratomu pro účely jeho zpracování nebo opětovného využití | Kč | 1 000 |
+| 2. Přijetí žádosti o povolení<sup>65</sup>) | | |
+| a) k jednotlivým etapám vyřazování z provozu jaderného zařízení | Kč | 1 000 |
+| b) k jednotlivým etapám vyřazování z provozu pracoviště III. kategorie a pracoviště IV. kategorie | Kč | 1 000 |
+| c) k nakládání se zdrojem ionizujícího záření | Kč | 1 000 |
+| d) k přepravě radioaktivní nebo štěpné látky | Kč | 1 000 |
+| e) k vykonávání služeb významných z hlediska radiační ochrany | Kč | 1 000 |
+| f) k přidávání radioaktivní látky do spotřebního výrobku při jeho výrobě nebo přípravě nebo k dovozu a vývozu takového spotřebního výrobku | Kč | 1 000 |
+| g) k poskytování služeb v kontrolovaném pásmu provozovateli pracoviště IV. kategorie | Kč | 1 000 |
+| h) k dodávání stavebního materiálu na trh | Kč | 1 000 |
+| i) k odborné přípravě a další odborné přípravě pracovníků vykonávajících činnosti zvláště důležité z hlediska jaderné bezpečnosti a radiační ochrany | Kč | 1 000 |
+| j) k přípravě fyzické osoby zajišťující radiační ochranu osoby, jejíž registrace byla provedena podle atomového zákona | Kč | 1 000 |
+| 3. Přijetí žádosti o registraci | Kč | 500 |
+
+**Osvobození**
+
+Od poplatků uvedených v této položce je osvobozen státní podnik, v jehož předmětu činnosti je dobývání radioaktivních nerostů nebo odstraňování následků po dobývání radioaktivních nerostů.
+
+**Položka 107**
+
+| 1. Vydání rozhodnutí o schválení typu obalových souborů | | |
+|---|---|---|
+| a) typů určených pro vyhořelé jaderné palivo z jaderných elektráren | Kč | 100 000 |
+| b) typů určených pro ozářené jaderné palivo z výzkumných jaderných zařízení | Kč | 100 000 |
+| c) typů určených pro čerstvé jaderné palivo pro jaderné elektrárny | Kč | 50 000 |
+| d) typů určených pro čerstvé jaderné palivo pro výzkumná jaderná zařízení | Kč | 10 000 |
+| e) typů určených pro ostatní radioaktivní nebo štěpné látky | Kč | 5 000 |
+| f) v případech opakovaného vydání rozhodnutí uvedeného v písmenech a) až e) | Kč | 1 000 |
+| 2. Vydání dokladu zvláštní odborné způsobilosti podle atomového zákona | Kč | 500 |
+| 3. Vydání rozhodnutí o schválení typu | | |
+| a) velmi významných zdrojů ionizujícího záření | Kč | 5 000 |
+| b) ostatních zdrojů ionizujícího záření | Kč | 1 000 |
+| 4. Vydání osobního radiačního průkazu | Kč | 50 |
+
+#### ČÁST VIII
+
+**Položka 108**
+
+| 1. Přijetí žádosti o vykonání zkoušky k prokázání odborné způsobilosti podle § 26 odst. 1 zákona o elektronických komunikacích, včetně vydání průkazu odborné způsobilosti | Kč | 600 |
+|---|---|---|
+| 2. Přijetí žádosti o uznání odborné způsobilosti podle zvláštního právního předpisu<sup>82</sup>), včetně vydání průkazu odborné způsobilosti | Kč | 400 |
+| 3. Přijetí žádosti o vydání průkazu odborné způsobilosti po uplynutí doby jeho platnosti podle § 26 odst. 7 zákona o elektronických komunikacích | Kč | 400 |
+| 4. Přijetí žádosti o prodloužení platnosti nebo provedení změn v průkazu odborné způsobilosti | Kč | 200 |
+
+**Položka 109**
+
+| a) Přijetí žádosti o vydání osvědčení o oznámení komunkační činnosti | Kč | 1 000,- |
+|---|---|---|
+| b) Přijetí žádosti o vydání osvědčení o sdělení změny oznámených údajů | Kč | 500,- |
+
+**Položka 110**
+
+| a) Přijetí návrhu na rozhodnutí sporu, s výjimkou sporu podle písmen c) a d), mezi osobou vykonávající komunikační činnost na straně jedné a účastníkem, popřípadě uživatelem na straně druhé | Kč | 200,- |
+|---|---|---|
+| b) Přijetí návrhu na rozhodnutí sporu, s výjimkou sporu o plnění povinnosti k peněžitému plnění, mezi osobami vykonávajícími komunikační činnosti | Kč | 10 000,- |
+| c) Přijetí návrhu na rozhodnutí sporu o plnění povinnosti k peněžitému plnění | Kč | 4 % z této částky, nejméně<br> 200,- |
+| d) Přijetí návrhu na rozhodnutí sporu o plnění povinnosti úhrady paušální náhrady podle § 34 odst. 11 a § 34a odst. 11 zákona o elektronických komunikacích, námitky proti vyřízení reklamace podle § 129 zákona o elektronických komunikacích jakož i o plnění povinnosti vrácení rozdílu ceny podle § 64 odst. 11 zákona o elektronických komunikacích | Kč | 100,- |
+| e) Přijetí návrhu na rozhodnutí sporu o uzavření smlouvy mezi poskytovatelem služby šíření rozhlasového a televizního vysílání a provozovatelem rozhlasového a televizního vysílání | Kč | 10 000 |
+| f) Přijetí návrhu na zpětné uvedení telekomunikačního koncového zařízení do provozu | Kč | 1 000. |
+| g) Přijetí návrhu na rozhodnutí sporu podle § 104 odst. 16 zákona o elektronických komunikacích | Kč | 1 000 |
+| **Poznámka** | | |
+| Poplatek podle položky v písmenu c) se vybere nejvýše ve výši Kč 500 000. | | |
+
+**Položka 111**
+
+<table><tbody><tr><td>a) Vydání rozhodnutí o oprávnění k využívání čísel </td><td>Kč</td><td>5 000,-</td></tr><tr><td>b) Prodloužení platnosti nebo provedení změn v oprávnění k využívání čísel </td><td>Kč</td><td>500,-</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Poplatek podle této položky se nevybere, přiděluje-li správní úřad čísla pro tísňová volání, hlášení poruch, hovory s ohlašovnou národních a mezinárodních hovorů a informace (hlásky), které informují volajícího účastníka o změnách účastnických čísel.</td></tr></tbody></table>
+
+**Položka 112**
+
+<table><tbody><tr><td>a) Přijetí žádosti o vydání rozhodnutí o individuálním oprávnění k využívání rádiových kmitočtů</td><td></td><td></td></tr><tr><td>– pro rozšíření a přenos rozhlasového nebo televizního vysílání (rozhlasová služba)</td><td>Kč</td><td>7 000,-</td></tr><tr><td>– pro pevnou službu </td><td>Kč</td><td>5 000,-</td></tr><tr><td>– pro amatérskou radiokomunikační službu </td><td>Kč</td><td>500,-</td></tr><tr><td>– pro ostatní radiokomunikační služby </td><td>Kč</td><td>3 000,-</td></tr><tr><td>b) Přijetí žádosti o prodloužení platnosti nebo provedení změn v individuálním oprávnění k využívání rádiových kmitočtů</td><td></td><td></td></tr><tr><td>– pro šíření a přenos rozhlasového a telvizního vysílání (rozhlasová služba)</td><td>Kč</td><td>500,-</td></tr><tr><td>– pro pevnou službu </td><td>Kč</td><td>500,-</td></tr><tr><td>– pro amatérskou radiokomunikační službu </td><td>Kč</td><td>200,-</td></tr><tr><td>– pro ostatní radiokomunikační služby </td><td>Kč</td><td>500,-</td></tr><tr><td>c) Přijetí žádosti o vydání osvědčení o změně v osobě držitele přídělu rádiových kmitočtů</td><td>Kč</td><td>1 000</td></tr><tr><td>d) Přijetí žádosti o udělení souhlasu k převodu přídělu rádiových kmitočtů</td><td>Kč</td><td>10 000.</td></tr><tr><td>e) Přijetí žádosti o zahájení řízení ve věci předběžné ohlášky, koordinace nebo notifikace anebo zápisu družicové sítě nebo soustavy do Základního mezinárodního rejstříku rádiových kmitočtů u Radiokomunikačního úřadu podle § 26a odst. 2 zákona o elektronických komunikacích pro družicovou amatérskou službu</td><td>Kč</td><td>10 000,</td></tr><tr><td>f) Přijetí žádosti o zahájení řízení ve věci předběžné ohlášky, koordinace nebo notifikace anebo zápisu družicové sítě nebo soustavy do Základního mezinárodního rejstříku rádiových kmitočtů u Radiokomunikačního úřadu podle § 26a odst. 2 zákona o elektronických komunikacích pro ostatní družicové služby</td><td>Kč</td><td>50 000.</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Poplatek podle této položky se nevybere za vydání rozhodnutí podle § 25 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).</td></tr></tbody></table>
+
+**Položka 113**
+
+| a) Vydání osvědčení o oznámení podnikání v oblasti poštovních služeb | Kč | 1 000,- |
+|---|---|---|
+| b) Vydání osvědčení o sdělení změny oznámených údajů | Kč | 500,- |
+| c) Přijetí návrhu na rozhodnutí sporu týkajícího se přístupu k poštovní infrastruktuře podle § 34 zákona č. 29/2000 Sb., o poštovních službách, ve znění pozdějších předpisů | Kč | 10 000,- |
+| d) Přijetí návrhu na zahájení řízení o námitce podle § 6a zákona č. 29/2000 Sb., o poštovních službách, ve znění pozdějších předpisů | Kč | 100,-. |
+
+**Položka 114**
+
+| a) Přijetí návrhu na rozhodnutí podle § 7 odst. 4, § 9 odst. 3, § 12 odst. 4 a § 14 odst. 3 zákona o opatřeních ke snížení nákladů na zavádění vysokorychlostních sítí elektronických komunikací | 2 000 | Kč |
+|---|---|---|
+| b) Přijetí návrhu na rozhodnutí podle § 5 odst. 5 a § 10 odst. 6 zákona o opatřeních ke snížení nákladů na zavádění vysokorychlostních sítí elektronických komunikací | 10 000 | Kč |
+
+#### ČÁST IX
+
+**Položka 115**
+
+<table><tbody><tr><td>a) Vydání cestovního pasu </td><td>Kč</td><td>600</td></tr><tr><td>- občanům mladším 15 let </td><td>Kč</td><td>100</td></tr><tr><td>b) Vydání cestovního pasu ve zkrácené lhůtě do 24 hodin pracovního dne</td><td></td><td></td></tr><tr><td>- při podání a převzetí u Ministerstva vnitra</td><td>Kč</td><td> 6 000</td></tr><tr><td>- při podání u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>4 000</td></tr><tr><td>a převzetí u Ministerstva vnitra</td><td>Kč</td><td>2 000</td></tr><tr><td>občanům mladším 15 let</td><td></td><td></td></tr><tr><td>- při podání a převzetí u Ministerstva vnitra</td><td>Kč</td><td>2 000</td></tr><tr><td>- při podání u obecního úřadu obce s rozšířenou působností </td><td>Kč</td><td>1 500</td></tr><tr><td>a převzetí u Ministerstva vnitra</td><td>Kč</td><td>500</td></tr><tr><td>c) Vydání cestovního pasu do 5 pracovních dnů</td><td></td><td></td></tr><tr><td>- při podání a převzetí u Ministerstva vnitra</td><td>Kč</td><td>3 000</td></tr><tr><td>- při podání u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>2 000</td></tr><tr><td>a převzetí u Ministerstva vnitra</td><td>Kč</td><td>1 000</td></tr><tr><td>- při podání u obecního úřadu obce s rozšířenou působností a převzetí u stejného obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>3 000</td></tr><tr><td>občanům mladším 15 let</td><td></td><td></td></tr><tr><td>- při podání a převzetí u Ministerstva vnitra</td><td>Kč</td><td>1 000</td></tr><tr><td>- při podání u obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>500</td></tr><tr><td>a převzetí u Ministerstva vnitra</td><td>Kč</td><td>500</td></tr><tr><td>- při podání u obecního úřadu obce s rozšířenou působností a převzetí u stejného obecního úřadu obce s rozšířenou působností</td><td>Kč</td><td>1 000</td></tr><tr><td>d) Vydání cestovního průkazu nebo cestovního průkazu totožnosti anebo cestovního dokladu pro cizince na základě mezinárodní smlouvy</td><td>Kč</td><td> 600</td></tr><tr><td>- cizincům mladším 15 let</td><td>Kč</td><td>100</td></tr><tr><td>e) Vydání hraničního průkazu nebo průkazu pro překračování státních hranic</td><td>Kč</td><td>100</td></tr><tr><td>f) Prodloužení platnosti cestovního průkazu</td><td>Kč</td><td>50</td></tr><tr><td></td><td colspan="2">za každou změnu</td></tr><tr><td>g) Převzetí cestovního pasu u obecního úřadu obce s rozšířenou působností, který občan uvedl v žádosti</td><td>Kč</td><td>100</td></tr><tr><td>h) Vydání cizineckého pasu </td><td>Kč</td><td>600</td></tr><tr><td>- cizincům mladším 15 let </td><td>Kč</td><td>100</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Poplatek podle písmen a), b) a c) této položky se vybírá při podání žádosti o vydání cestovního pasu; jedná-li se o převzetí cestovního pasu podle písmen b) a c), platí se před jeho převzetím.</td></tr></tbody></table>
+
+**Položka 116**
+
+| 1. Přijetí žádosti o vydání povolení k pobytu | | |
+|---|---|---|
+| a) cizinci | Kč | 2 500 |
+| b) cizinci mladšímu 15 let | Kč | 1 000 |
+| c) za účelem strpění pobytu na území | Kč | 500 |
+| 2. Přijetí žádosti o prodloužení doby platnosti průkazu o povolení k pobytu | | |
+| a) cizinci | Kč | 2 500 |
+| b) cizinci mladšímu 15 let | Kč | 1 000 |
+| c) za účelem strpění pobytu na území nebo cizinci, kterému bylo uděleno oprávnění k pobytu za účelem poskytnutí dočasné ochrany | Kč | 1 000 |
+| 3. Přijetí žádosti o provedení změny v průkazu o povolení k pobytu | | |
+| a) cizinci | Kč | 1 000 |
+| b) azylantovi, osobě požívající doplňkové ochrany, cizinci, kterému bylo uděleno oprávnění k pobytu za účelem poskytnutí dočasné ochrany, nebo cizinci mladšímu 15 let | Kč | 500 |
+| 4. Přijetí žádosti o vydání průkazu o povolení k pobytu náhradou za průkaz poškozený, zničený, ztracený nebo odcizený nebo jehož nosič dat s biometrickými údaji je nefunkční | | |
+| a) cizinci | Kč | 2 500 |
+| b) azylantovi, osobě požívající doplňkové ochrany nebo cizinci, kterému bylo uděleno oprávnění k pobytu za účelem poskytnutí dočasné ochrany | Kč | 2 000 |
+| c) cizinci mladšímu 15 let | Kč | 1 000 |
+| 5. Přijetí žádosti o vydání osvědčení o registraci, povolení k přechodnému nebo k trvalému pobytu občanu Evropské unie a jeho rodinnému příslušníku bez ohledu na státní příslušnost, o prodloužení doby platnosti nebo provedení změny těchto dokladů | Kč | 200 |
+| 6. Přijetí žádosti o vydání osvědčení o registraci, pobytové karty, průkazu o povolení k pobytu, průkazu nebo karty trvalého pobytu náhradou za doklad poškozený, zničený, ztracený nebo odcizený nebo za doklad, jehož nosič dat s biometrickými údaji je nefunkční, občanu Evropské unie a jeho rodinnému příslušníku bez ohledu na státní příslušnost | Kč | 300 |
+| 7. Přijetí žádosti o vydání průkazu o povolení k pobytu s dodatečným přiznáním právního postavení dlouhodobě pobývajícího rezidenta v Evropském společenství na území České republiky | Kč | 500 |
+| 8. Přidělení rodného čísla cizinci | Kč | 1 000 |
+
+###### Osvobození
+
+Od poplatku podle bodu 1 písm. a) a b) této položky je osvobozen cizinec, který požádal o vydání povolení k dlouhodobému pobytu za účelem ochrany na území České republiky podle zvláštního právního předpisu<sup>66a</sup>), a od poplatku podle bodu 2 písm. a) a b), bodu 3 a bodu 8 této položky je osvobozen cizinec, kterému již takové povolení bylo vydáno.
+
+###### Předmětem poplatku není
+
+1\. První vydání průkazu o povolení k pobytu před dovršením 15 let věku s oprávněním k trvalému pobytu na území České republiky nebo při dovršení 15 let věku cizince, kterému bylo vydáno potvrzení o oprávnění k trvalému pobytu na území České republiky.
+
+2\. První vydání a všechna prodloužení platnosti průkazu o povolení k pobytu azylanta, průkazu o povolení k pobytu osoby požívající doplňkové ochrany vydaného podle zákona o azylu nebo první vydání průkazu o povolení k pobytu cizince požívajícího dočasné ochrany vydaného podle zákona o dočasné ochraně cizinců.
+
+3\. Žádost o vydání průkazu o povolení k pobytu náhradou za průkaz, ve kterém správní úřad uvedl nesprávné zápisy, průkaz vydaný s výrobní vadou nebo průkaz, jehož certifikát pravosti byl zneplatněn.
+
+4\. Žádost o vydání dokladu uvedeného v bodě 4 nebo 6 náhradou za doklad, jehož nosič dat s biometrickými údaji je nefunkční, pokud nefunkčnost nosiče dat s biometrickými údaji nebyla způsobena okolnostmi, o nichž cizinec prokazatelně věděl, že mohou způsobit poškození nebo nefunkčnost nosiče dat s biometrickými údaji.
+
+5\. Přidělení rodného čísla cizinci při udělení azylu nebo doplňkové ochrany, jeho narození a vydání rodného listu na území České republiky.
+
+###### Poznámky
+
+1\. Poplatek podle bodu 4 této položky se vybírá i v případě, jde-li o vydání průkazu náhradou za průkaz o povolení k pobytu vydaný za účelem strpění pobytu na území České republiky.
+
+2\. Povolením k pobytu se pro účely tohoto zákona rozumí povolení k dlouhodobému pobytu a povolení k trvalému pobytu podle zákona o pobytu cizinců na území České republiky, povolení k pobytu azylanta a osoby požívající doplňkové ochrany podle zákona o azylu a povolení k pobytu osoby požívající dočasné ochrany podle zákona o dočasné ochraně cizinců.
+
+3\. Poplatek podle bodu 7 této položky se vybírá, jde-li o vydání nového dokladu o povolení k pobytu v souvislosti s dodatečným přiznáním právního postavení dlouhodobě pobývajícího rezidenta v Evropském společenství na území České republiky. Poplatek podle této položky se dále vybírá, jde-li o rodinného příslušníka občana Evropské unie, občana státu, který je vázán Dohodou o Evropském hospodářském prostoru, nebo o občana státu, který je vázán mezinárodní smlouvou sjednanou s Evropskou unií, který sám není občanem některého z těchto států, pokud mu již byl vydán průkaz nebo karta trvalého pobytu na území České republiky na základě práva volného pohybu a pobytu těchto osob na území členských států Evropské unie a žádá o vydání dalšího dokladu o povolení k pobytu.
+
+4\. Poplatek za přijetí žádosti o provedení změny podle bodu 3 nebo 5 této položky se vybírá pouze jednou bez ohledu na počet současně prováděných změn.
+
+5\. Poplatek podle bodů 5 a 6 této položky se dále vybírá, jde-li o občana státu, který je vázán Dohodou o Evropském hospodářském prostoru, občana státu, který je vázán mezinárodní smlouvou sjednanou s Evropskou unií, nebo občana Spojeného království Velké Británie a Severního Irska podle části druhé Dohody o vystoupení Spojeného království Velké Británie a Severního Irska z Evropské unie a Evropského společenství pro atomovou energii a jejich rodinné příslušníky bez ohledu na státní příslušnost.
+
+**Položka 117A**
+
+<table><tbody><tr><td>a) Přijetí žádosti o udělení víza na území České republiky</td><td></td><td></td></tr><tr><td>– vízum k pobytu nad 90 dnů – vízum typu D nebo D+C</td><td>Kč</td><td>1 000</td></tr><tr><td>– vízum k pobytu nad 90 dnů za účelem strpění pobytu – vízum typu D nebo D+C</td><td>Kč</td><td>300</td></tr><tr><td>b) Přijetí žádosti o udělení víza udělovaného na hraničním přechodu České republiky</td><td>EUR</td><td>stanoví přímo použitelný předpis Evropské unie<sup>74</sup>)</td></tr><tr><td>c) Přijetí žádosti o prodloužení platnosti krátkodobého víza a doby pobytu na toto vízum</td><td>EUR</td><td> stanoví přímo použitelný předpis Evropské unie<sup>74</sup>)</td></tr><tr><td>d) Přijetí žádosti o prodloužení doby pobytu na vízum k pobytu nad 90 dnů</td><td>Kč</td><td>1 000</td></tr><tr><td>e) Přijetí žádosti o prodloužení doby pobytu na vízum k pobytu nad 90 dnů za účelem strpění pobytu na území včetně prodloužení platnosti víza</td><td>Kč</td><td>300</td></tr><tr><td>f) Přijetí tiskopisu k ověření pozvání cizince do České republiky</td><td>Kč</td><td>300</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatků podle této položky je osvobozeno</td></tr><tr><td colspan="3">a) přijetí žádosti o udělení nebo prodloužení platnosti víza cizinci mladšímu 6 let; od poplatku podle této položky je osvobozeno i podání žádosti o prodloužení doby pobytu na české vízum pro cizince mladšího 6 let,</td></tr><tr><td colspan="3">b) přijetí žádosti o udělení víza na hraničním přechodu České republiky do diplomatického pasu nebo osobě, která cestuje do České republiky na pozvání nebo se souhlasem vlády nebo Parlamentu České republiky,</td></tr><tr><td colspan="3">c) přijetí žádosti o udělení nebo prodloužení platnosti anebo doby pobytu na vízum, jde-li o rodinného příslušníka občana členského státu Evropské unie, občana státu, který je vázán Smlouvou o Evropském hospodářském prostoru nebo občana státu, který je vázán mezinárodní smlouvou sjednanou s Evropskými společenstvími, a to bez ohledu na jejich státní příslušnost,</td></tr><tr><td colspan="3">d) přijetí žádosti o udělení nebo prodloužení platnosti anebo doby pobytu na vízum, jde-li o žáky, studenty, postgraduální studenty a doprovázející učitele, kteří podnikají cesty za účelem studia nebo odborné přípravy v oblasti vzdělávání,</td></tr><tr><td colspan="3">e) přijetí žádosti o udělení nebo prodloužení platnosti anebo doby pobytu na vízum, jde-li o výzkumné pracovníky ze třetích zemí, kteří cestují v rámci Společenství za účelem provádění vědeckého výzkumu, jak je vymezeno v doporučení Evropského parlamentu a Rady č. 2005/761/ES ze dne 28. září 2005 pro usnadnění vydávání jednotných víz členskými státy pro krátkodobý pobyt výzkumných pracovníků ze třetích zemí, kteří cestují v rámci Společenství za účelem provádění vědeckého výzkumu.</td></tr><tr><td colspan="3"><b>Zmocnění:</b></td></tr><tr><td colspan="3">1. Správní úřad může od poplatku podle této položky upustit nebo poplatek snížit, pokud toto opatření slouží k podpoře kulturních zájmů, zájmů v oblasti zahraniční politiky, rozvojové politiky, jiných důležitých veřejných zájmů nebo z humanitárních důvodů.</td></tr><tr><td colspan="3">2. Snížení nebo upuštění od poplatku u státních příslušníků třetí země může rovněž vyplývat z dohody o usnadnění udělování víz uzavřené mezi Evropským společenstvím a touto třetí zemí v souladu s celkovým přístupem Společenství k dohodám o usnadnění udělování víz.</td></tr><tr><td colspan="3">3. Správní úřad může od poplatku podle této položky upustit, jde-li o přijetí žádosti o udělení víza na hraničním přechodu za účelem nezbytného pobytu na území České republiky při letecké tranzitní přepravě, při nouzovém přistání letadla nebo v jiných případech nouze nezaviněných cizincem anebo, jde-li o udělení víza cizinci vráceného zpět na území České republiky orgány cizího státu.</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Úkon uvedený v této položce provedený správním úřadem z moci úřední.</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Poplatek podle této položky se vybírá i v případě, je-li prodlužována pouze doba pobytu.</td></tr><tr><td colspan="3">2. Poplatky se vybírají v eurech, amerických dolarech nebo v měně třetích států, ve kterých byla přijata žádost o vízum.</td></tr></tbody></table>
+
+**Položka 118**
+
+| a) Registrace námořnické knížky | Kč | 50 |
+|---|---|---|
+| b) Registrace výrobce nebo opravce měřidel | Kč | 200 |
+
+#### ČÁST X
+
+**Položka 119**
+
+<table><tbody><tr><td>a) Vydání výpisu nebo opisu z katastru nemovitostí, z dřívějších pozemkových evidencí, z pozemkových či železničních knih nebo zemských desek za každých i jen započatých 20 měrných jednotek v rámci jednoho katastrálního území</td><td>Kč</td><td>100</td></tr><tr><td>b) Vydání kopie katastrální mapy, kopie mapy z dřívějších pozemkových evidencí, kopie z pozemkových či železničních knih nebo zemských desek za každou i jen započatou stránku formátu A4</td><td>Kč</td><td>50</td></tr><tr><td>c) Vydání identifikace parcely nebo skupiny souvisejících parcel posledního dochovaného stavu dřívějších pozemkových evidencí nebo stavu před obnovou katastrálního operátu s parcelou nebo skupinou parcel vedených v katastru nemovitostí za každých i jen započatých 20 parcel z těchto písemných operátů v každém katastrálním území</td><td>Kč</td><td>100</td></tr><tr><td>d) Přijetí žádosti o potvrzení souladu očíslování parcel geometrického plánu s údaji katastru nemovitostí za každých i jen započatých 20 parcel uvedených v novém stavu geometrického plánu v každém katastrálním území</td><td>Kč</td><td>100</td></tr><tr><td>e) Přijetí žádosti o potvrzení souladu očíslování parcel geometrického plánu vyznačující pouze věcné břemeno s údaji katastru nemovitostí</td><td>Kč</td><td>100</td></tr><tr><td>f) Vydání prvé a další kopie listiny pořízené při vydání originálu listin uvedených v písmenech a) až c), za každou i jen započatou stránku formátu A4</td><td>Kč</td><td>30</td></tr><tr><td>g) Vydání ověřeného opisu nebo kopie listin ze sbírky listin katastru nemovitostí a sbírky listin pozemkové knihy za každou i jen započatou stránku formátu A4</td><td>Kč</td><td>50</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">1. Od poplatků podle této položky jsou osvobozeny orgány ochrany přírody pověřené výkonem státní správy, stavební úřady podle stavebního zákona a orgány státní památkové péče podle zvláštního právního předpisu<sup>68</sup>). Pro účely vedení ústředního seznamu ochrany přírody a krajiny podle zvláštního právního předpisu<sup>69</sup>) je od poplatků podle této položky osvobozena Agentura ochrany přírody a krajiny ČR. Pro účely vedení Ústředního seznamu kulturních památek České republiky podle zvláštního právního předpisu<sup>68</sup>) je od poplatků podle této položky osvobozena odborná organizace státní památkové péče.</td></tr><tr><td colspan="3">2. Od poplatku podle této položky jsou osvobozeny registrované církve a náboženské společnosti, právnické osoby zřízené nebo založené jako součásti registrovaných církví a náboženských společností, právnické osoby zřízené nebo založené za účelem podpory činnosti registrované církve a náboženské společnosti k duchovním, pastoračním, charitativním, zdravotnickým, vzdělávacím nebo administrativním účelům a Náboženská matice, dále občanská sdružení a odborové organizace<sup>5</sup>), jde-li o úkony spojené s převodem nemovitého majetku z vlastnictví České republiky, a Lesy České republiky, s. p., souvisí-li úkon s prováděním zákona č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi).</td></tr><tr><td colspan="3">3. Od poplatku podle této položky jsou osvobozeny úkony prováděné v souvislosti s převodem bytu a nebytového prostoru a s převodem spoluvlastnického podílu k pozemku souvisejícího s bytem a nebytovým prostorem, jejichž převod je bezplatný podle zvláštního právního předpisu upravujícího vlastnictví bytů<sup>70</sup>).</td></tr><tr><td colspan="3"><b>Zmocnění</b></td></tr><tr><td colspan="3">Za výpis nebo opis vložky pozemkové knihy v cizím jazyce může zvýšit správní úřad poplatek podle této položky na dvojnásobek.</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Měrnou jednotkou podle písmene a) této položky se pro účely tohoto zákona rozumí parcela, budova včetně rozestavěné, byt a nebytový prostor včetně rozestavěných, jsou-li evidované v katastru nemovitostí.</td></tr><tr><td colspan="3">2. Pro účely této položky se správním úřadem rozumí i katastrální pracoviště podle zvláštního právního předpisu upravujícího zeměměřické a katastrální orgány.</td></tr></tbody></table>
+
+**Položka 120**
+
+<table><tbody><tr><td>a) Přijetí návrhu na zahájení řízení o povolení vkladu do katastru nemovitostí</td><td>Kč</td><td>2 000</td></tr><tr><td>b) Přijetí návrhů na zahájení řízení o povolení vkladu do katastru nemovitostí na základě listin, které souvisejí s výstavbou veřejně prospěšné stavby pro zneškodňování odpadu, zásobování vodou, odvádění odpadních vod a jejich čištění, pro veřejnou dopravu, veřejné školství, veřejnou správu a obdobné veřejné účely</td><td>Kč</td><td>2 000</td></tr><tr><td></td><td colspan="2">za každý návrh </td></tr><tr><td></td><td>nejvýše v úhrnu Kč</td><td>20 000</td></tr><tr><td>c) Přijetí úplného znění prohlášení o rozdělení práva k domu a pozemku na vlastnické právo k jednotkám k uložení do sbírky listin nebo přijetí dohody spoluvlastníků o správě nemovité věci k uložení do sbírky listin</td><td>Kč</td><td>1 000</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">1. Od poplatků podle této položky jsou osvobozeny orgány ochrany přírody pověřené výkonem státní správy, stavební úřady podle stavebního zákona a orgány státní památkové péče podle zvláštního právního předpisu<sup>68</sup>). Pro účely vedení ústředního seznamu ochrany přírody a krajiny podle zvláštního právního předpisu<sup>69</sup>), je od poplatků podle této položky osvobozena Agentura ochrany přírody a krajiny ČR. Pro účely vedení Ústředního seznamu kulturních památek České republiky podle zvláštního právního předpisu<sup>68</sup>), je od poplatků podle této položky osvobozena odborná organizace státní památkové péče.</td></tr><tr><td colspan="3"><b>2.</b> Od poplatku podle této položky jsou osvobozeny registrované církve a náboženské společnosti, právnické osoby zřízené nebo založené jako součásti registrovaných církví a náboženských společností, právnické osoby zřízené nebo založené za účelem podpory činnosti registrované církve a náboženské společnosti k duchovním, pastoračním, charitativním, zdravotnickým, vzdělávacím nebo administrativním účelům a Náboženská matice, dále občanská sdružení a odborové organizace<sup>5</sup>), jde-li o úkony spojené s převodem nemovitého majetku z vlastnictví České republiky.</td></tr><tr><td colspan="3">3. Od poplatku podle písmene a) této položky je osvobozeno přijetí návrhu na zahájení řízení o povolení vkladu do katastru nemovitostí na základě smlouvy o převodu bytu a nebytového prostoru, jejichž převod je podle zvláštních právních předpisů bezplatný<sup>70</sup>), a přijetí návrhu na zahájení řízení o povolení vkladu do katastru nemovitostí na základě smlouvy o převodu příslušného spoluvlastnického podílu k pozemku souvisejícího s uvedenými byty a nebytovými prostory.</td></tr><tr><td colspan="3">4. Od poplatku podle písmene a) této položky je osvobozeno přijetí návrhu na zahájení řízení o povolení vkladu do katastru nemovitostí na základě zástavní smlouvy, kterou se zastavuje nemovitost v souvislosti s poskytnutím příspěvku na individuální bytovou výstavbu podle zvláštního právního předpisu<sup>71</sup>).</td></tr><tr><td colspan="3">5. Od poplatku podle písmene a) této položky je osvobozeno přijetí návrhu na zahájení řízení o povolení vkladu do katastru nemovitostí v souvislosti s převodem majetku státu podle zvláštního právního předpisu<sup>29</sup>).</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Pro účely této položky se správním úřadem rozumí i katastrální pracoviště podle zvláštního právního předpisu upravujícího zeměměřické a katastrální orgány.</td></tr></tbody></table>
+
+**Položka 121**
+
+| Vydání povolení k emisím skleníkových plynů | Kč | 10 000 |
+|---|---|---|
+
+**Položka 122**
+
+<table><tbody><tr><td>a) Udělení pověření k hodnocení nebezpečných vlastností odpadů podle zákona o odpadech</td><td>Kč</td><td>1 000</td></tr><tr><td>b) Vydání povolení provozu zařízení určeného pro nakládání s odpady nebo povolení k obchodování s odpady podle zákona o odpadech</td><td>Kč</td><td>500</td></tr><tr><td>c) Vydání povolení k upuštění od odděleného soustřeďování odpadů podle zákona o odpadech</td><td>Kč</td><td>1 000</td></tr><tr><td>d) Přijetí oznámení o přeshraniční přepravě odpadu podle zákona o odpadech</td><td>Kč</td><td>10 000</td></tr><tr><td>e) Vydání rozhodnutí o změně vydaného rozhodnutí v přeshraniční přepravě odpadu podle čl. 17 nařízení Evropského parlamentu a Rady (ES) č. 1013/2006 o přepravě odpadů a podle zákona o odpadech</td><td>Kč</td><td>6 000</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle písmen d) a e) je osvobozen příslušný orgán a osoba jednající jeho jménem podle čl. 22 nebo 24 nařízení Evropského parlamentu a Rady (ES) č. 1013/2006 o přepravě odpadů.</td></tr></tbody></table>
+
+**Položka 123**
+
+<table><tbody><tr><td>Vydání dodatečného potvrzení nebo ověření dokladů, které se předkládají v řízení před celním orgánem</td><td>Kč</td><td>150</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku je osvobozeno dodatečné vydání osvědčení o původu zboží (EUR. 1 nebo EUR-MED) a osvědčení o celním statusu zboží (A.TR) podle přímo použitelného předpisu Evropské unie a přímo použitelné mezinárodní smlouvy uzavřené Evropskou unií v oblasti výkonu dohledu nad mezinárodním obchodem Evropské unie a nad zbožím, které vstupuje na území Evropské unie nebo jej opouští.</td></tr></tbody></table>
+
+**Položka 124**
+
+| Vydání rozhodnutí o původu zboží | Kč | 350 |
+|---|---|---|
+
+**Položka 125**
+
+| Vydání rozhodnutí o sazebním zařazení zboží | Kč | 350 |
+|---|---|---|
+
+#### ČÁST XI – Poznámka k části XI
+
+Podle této části sazebníku vybírá poplatky pouze Úřad průmyslového vlastnictví.
+
+**Položka 126**
+
+<table><tbody><tr><td>Vydání stejnopisu, opisu, výpisu z rejstříku, spisů, úředních listin a záznamů</td><td>Kč</td><td>100</td></tr><tr><td></td><td colspan="2">za každou i započatou stránku</td></tr><tr><td></td><td>Kč</td><td>15</td></tr><tr><td></td><td colspan="2">za každou i započatou stránku, je-li pořizována na kopírovacím stroji nebo na tiskárně počítače</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Každou započatou stránkou se pro účely tohoto zákona rozumí vydaná stránka formátu A4 a menší.</td></tr></tbody></table>
+
+**Položka 127**
+
+<table><tbody><tr><td>a) Přijetí žádosti</td><td></td><td></td></tr><tr><td>- o první prodloužení lhůty</td><td>Kč</td><td>200</td></tr><tr><td>- o každé další prodloužení lhůty</td><td>Kč</td><td>500</td></tr><tr><td>- o prominutí zmeškání lhůty</td><td>Kč</td><td>1 000</td></tr><tr><td>b) Přijetí rozkladu proti rozhodnutí Úřadu průmyslového vlastnictví</td><td>Kč</td><td>1 000</td></tr><tr><td>c) Přijetí žádosti</td><td></td><td></td></tr><tr><td>- o vydání osvědčení o právu přednosti (prioritní doklad)</td><td>Kč</td><td>600</td></tr><tr><td>- o zápis převodu</td><td>Kč</td><td>600</td></tr><tr><td>- o zápis licence</td><td>Kč</td><td>600</td></tr><tr><td>- o zápis zástavního práva</td><td>Kč</td><td>600</td></tr><tr><td>- o konverzi evropské přihlášky<sup>73</sup>)</td><td>Kč</td><td>600</td></tr><tr><td></td><td colspan="2">za každý stát, do kterého bude přihláška zaslána</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">V řízeních týkajících se ochranných známek je poplatek za přijetí rozkladu podle písmene b) této položky splatný ve lhůtě pro podání rozkladu. Není-li poplatek zaplacen ve lhůtě splatnosti, považuje se rozklad za nepodaný a ustanovení o zaplacení poplatku po lhůtě splatnosti a o výzvě k tomuto zaplacení se nepoužijí.</td></tr></tbody></table>
+
+##### Vynálezy a dodatková ochranná osvědčení
+
+**Položka 128**
+
+| a) Přijetí přihlášky vynálezu | Kč | 1 200 |
+|---|---|---|
+| - pokud je (jsou) přihlašovatelem (li) výlučně původce (i) | Kč | 600 |
+| b) Přijetí žádosti | | |
+| - o zveřejnění před zákonem stanovenou lhůtou | Kč | 800 |
+| - o zpřístupnění překladu nároků evropské patentové přihlášky včetně zpřístupnění oprav překladů | Kč | 500 |
+| c) Přijetí žádosti o provedení úplného průzkumu přihlášky vynálezu | Kč | 3 000 |
+| - za 11. a každý další uplatněný patentový nárok | Kč | 500 |
+| d) Vydání patentové listiny do rozsahu | | |
+| - deset stran strojopisu | Kč | 1 600 |
+| - za každou další stranu | Kč | 100 |
+| e) Zveřejnění překladu evropského patentového spisu | Kč | 2 000 |
+| - za zveřejnění oprav překladu | Kč | 100 |
+| f) Předložení překladu evropského patentového spisu v dodatečné lhůtě | Kč | 3 000 |
+| g) Přijetí žádosti o udělení dodatkového ochranného osvědčení | Kč | 5 000 |
+| h) Přijetí žádosti o pediatrické prodloužení dodatkového ochranného osvědčení | Kč | 5 000 |
+
+**Položka 129**
+
+| a) Přijetí žádosti o určení, zda technické řešení spadá do rozsahu patentu | Kč | 5 000 |
+|---|---|---|
+| b) Přijetí návrhu na zrušení | | |
+| - patentu po uplynutí šesti měsíců od nabytí účinnosti patentu | Kč | 2 000 |
+| - evropského patentu | Kč | 2 000 |
+| - dodatkového ochranného osvědčení | Kč | 2 000 |
+
+**Položka 130**
+
+| Úkony Úřadu průmyslového vlastnictví spojené s podáním mezinárodní přihlášky podle Smlouvy o patentové spolupráci | Kč | 1 500 |
+|---|---|---|
+
+##### Užitné vzory
+
+**Položka 131**
+
+| Přijetí přihlášky užitného vzoru | Kč | 1 000 |
+|---|---|---|
+| - pokud je (jsou) přihlašovatelem (li) výlučně původce (i) | Kč | 500 |
+
+**Položka 132**
+
+| Přijetí žádosti o určení, zda technické řešení spadá do rozsahu zapsaného užitného vzoru | Kč | 5 000 |
+|---|---|---|
+
+**Položka 133**
+
+| Přijetí návrhu na výmaz užitného vzoru z rejstříku | Kč | 2 000 |
+|---|---|---|
+
+**Položka 134**
+
+<table><tbody><tr><td>Přijetí žádosti o každé prodloužení platnosti zápisu užitného vzoru</td><td>Kč</td><td>6 000</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Dojde-li k zápisu užitného vzoru do rejstříku po uplynutí doby jeho platnosti, je poplatek za prodloužení splatný do 2 měsíců ode dne zápisu.</td></tr><tr><td colspan="3">2. Nebyl-li poplatek zaplacen ve stanovené lhůtě, je možno jej zaplatit ještě v další lhůtě 6 měsíců ve výši dvojnásobku.</td></tr></tbody></table>
+
+##### Průmyslové vzory
+
+**Položka 135**
+
+| a) Přijetí přihlášky průmyslového vzoru | Kč | 1 000 |
+|---|---|---|
+| - pokud je(jsou) přihlašovatelem(li) výlučně původce(i) | Kč | 500 |
+| b) Přijetí hromadné přihlášky průmyslového vzoru | Kč | 1 000 |
+| - pokud je (jsou) přihlašovatelem (li) výlučně původce (i) | Kč | 500 |
+| - za každý další průmyslový vzor obsažený v přihlášce | Kč | 600 |
+| - za každý další průmyslový vzor obsažený v přihlášce pokud je (jsou) přihlašovatelem (li) výlučně původce (i) | Kč | 300 |
+
+**Položka 136**
+
+| Přijetí návrhu na výmaz průmyslového vzoru z rejstříku | Kč | 2000 |
+|---|---|---|
+| - za každý další průmyslový vzor obsažený v hromadně zapsaném průmyslovém vzoru | Kč | 800 |
+
+**Položka 137**
+
+<table><tbody><tr><td>Přijetí žádosti o obnovu doby ochrany průmyslového vzoru</td><td></td><td></td></tr><tr><td>- poprvé o 5 roků</td><td>Kč</td><td>3 000</td></tr><tr><td>- podruhé o 5 roků</td><td>Kč</td><td>6 000</td></tr><tr><td>- potřetí o 5 roků</td><td>Kč</td><td>9 000</td></tr><tr><td>- počtvrté o 5 roků</td><td>Kč</td><td>12 000</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Dojde-li k zápisu průmyslového vzoru do rejstříku po uplynutí doby jeho platnosti, je poplatek za obnovu ochrany splatný do 2 měsíců ode dne zápisu.</td></tr><tr><td colspan="3">2. Nebyl-li poplatek zaplacen ve stanovené lhůtě, je možno jej zaplatit ještě v další lhůtě 6 měsíců ve výši dvojnásobku</td></tr></tbody></table>
+
+##### Ochranné známky a označení původu
+
+**Položka 138**
+
+<table><tbody><tr><td>a) Přijetí přihlášky</td><td></td><td></td></tr><tr><td>- individuální ochranné známky do tří tříd výrobků nebo služeb</td><td>Kč</td><td>5 000</td></tr><tr><td>- kolektivní a certifikační ochranné známky do tří tříd výrobků nebo služeb</td><td>Kč</td><td>10 000</td></tr><tr><td>- za každou třídu výrobků nebo služeb nad tři třídy</td><td>Kč</td><td>500</td></tr><tr><td>b) Přijetí žádosti o přeměnu přihlášky nebo ochranné známky Evropské unie do tří tříd výrobků nebo služeb</td><td>Kč</td><td>5 000</td></tr><tr><td>– za každou třídu výrobků nebo služeb nad tři třídy</td><td>Kč</td><td>500</td></tr><tr><td>c) Přijetí žádosti o rozdělení přihlášky</td><td></td><td></td></tr><tr><td>– za každou nově vzniklou přihlášku</td><td>Kč</td><td>5 000</td></tr><tr><td>d) Přijetí žádosti o rozdělení zapsané ochranné známky</td><td></td><td></td></tr><tr><td>– za každou nově vzniklou ochrannou známku</td><td>Kč</td><td>5 000</td></tr><tr><td>e) Přijetí námitek proti zápisu zveřejněného označení do rejstříku</td><td>Kč</td><td>1 000</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Poplatek za přijetí přihlášky ochranné známky podle písmene a) této položky je splatný do 1 měsíce ode dne přijetí přihlášky.</td></tr><tr><td colspan="3">2. Poplatek za přijetí žádosti o přeměnu přihlášky nebo ochranné známky Evropské unie podle písmene b) této položky je splatný do 2 měsíců od doručení výzvy podle zákona upravujícího ochranné známky.</td></tr><tr><td colspan="3">3. Poplatek za podání námitek podle písmene e) této položky je splatný ve lhůtě pro podání námitek.</td></tr><tr><td colspan="3">4. Není-li poplatek podle písmene a) nebo e) této položky zaplacen ve lhůtě splatnosti, považuje se přihláška nebo námitky za nepodané a ustanovení o zaplacení poplatku po lhůtě splatnosti a o výzvě k tomuto zaplacení se nepoužijí.</td></tr><tr><td colspan="3">5. Je-li poplatek podle písmene a) odrážky třetí této položky zaplacen v nesprávné výši, vyzve Úřad průmyslového vlastnictví po uplynutí lhůty pro zaplacení poplatku za přijetí přihlášky k zaplacení nedoplatku ve lhůtě 15 dnů ode dne, který následuje po doručení výzvy. Není-li nedoplatek zaplacen ani v této lhůtě, považuje se přihláška za podanou v rozsahu tříd výrobků a služeb, na které se vztahuje zaplacená částka. Není-li zřejmé, na které třídy výrobků a služeb se má zaplacená částka vztahovat, považuje se přihláška za podanou v rozsahu tříd výrobků nebo služeb uvedených v přihlášce v pořadí od nejnižší, které zaplacená částka zahrnuje. Ustanovení o zaplacení poplatku po lhůtě splatnosti se u nedoplatku nepoužije.</td></tr></tbody></table>
+
+**Položka 139**
+
+<table><tbody><tr><td>a) Přijetí žádosti</td><td></td><td></td></tr><tr><td>- o obnovu zápisu individuální ochranné známky</td><td>Kč</td><td>2 500</td></tr><tr><td>- o obnovu zápisu kolektivní a certifikační ochranné známky</td><td>Kč</td><td>5 000</td></tr><tr><td>- o obnovu zápisu individuální ochranné známky podané po uplynutí ochranné doby, nejpozději však do šesti měsíců od tohoto data</td><td>Kč</td><td>5 000</td></tr><tr><td>- o obnovu zápisu kolektivní a certifikační ochranné známky podané po uplynutí ochranné doby, nejpozději však do šesti měsíců od tohoto data</td><td>Kč</td><td>10 000</td></tr><tr><td>b) Přijetí návrhu na zrušení nebo prohlášení neplatnosti ochranné známky</td><td>Kč</td><td>2 000</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Poplatek podle písmene a) této položky je splatný ve lhůtě pro podání žádosti podle zákona upravujícího ochranné známky. Není-li poplatek zaplacen ve lhůtě splatnosti, vyzve Úřad průmyslového vlastnictví po uplynutí lhůty splatnosti k zaplacení ve lhůtě 15 dnů ode dne, který následuje po doručení výzvy. Není-li poplatek zaplacen ani v této lhůtě, považuje se žádost o obnovu zápisu ochranné známky za nepodanou a ustanovení o zaplacení poplatku po lhůtě splatnosti se nepoužijí.</td></tr><tr><td colspan="3">2. Poplatek podle písmene b) této položky je splatný do 1 měsíce ode dne přijetí návrhu. Není-li poplatek podle písmene b) této položky zaplacen ve lhůtě splatnosti, považuje se návrh na zrušení nebo prohlášení neplatnosti ochranné známky za nepodaný a ustanovení o zaplacení poplatku po lhůtě splatnosti a o výzvě k tomuto zaplacení se nepoužijí.</td></tr><tr><td colspan="3">3. V případě, že Úřad průmyslového vlastnictví pravomocným rozhodnutím ochrannou známku zruší nebo prohlásí za neplatnou a soud toto rozhodnutí následně zruší, je poplatek podle písmene a) této položky splatný do 2 měsíců ode dne doručení rozsudku poplatníkovi.</td></tr><tr><td colspan="3">4. V případě, že Úřad průmyslového vlastnictví nezapíše ochrannou známku do 118 měsíců ode dne přijetí přihlášky, je poplatek za přijetí žádosti o obnovu zápisu ochranné známky podle písmene a) této položky splatný do 2 měsíců ode dne zápisu ochranné známky do rejstříku.</td></tr></tbody></table>
+
+**Položka 140**
+
+| Přijetí žádosti | | |
+|---|---|---|
+| - o mezinárodní zápis ochranné známky | Kč | 2 500 |
+| - o obnovu mezinárodního zápisu ochranné známky | Kč | 3 000 |
+| - o územní rozšíření mezinárodního zápisu ochranné známky | Kč | 500 |
+
+Položka 141
+
+<table><tbody><tr><td>a)</td><td>Přijetí žádosti o mezinárodní zápis označení původu nebo zeměpisného označení</td><td>Kč 2 500</td></tr><tr><td>b)</td><td>Přijetí žádosti o ochranu označení původu nebo zeměpisného označení Evropské komisi nebo Úřadu Evropské unie pro duševní vlastnictví</td><td>Kč 1 000</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Poplatky podle položek 140 a 141 písm. a) tohoto sazebníku se vybírají za úkony prováděné podle Madridské dohody o mezinárodním zápisu továrních nebo obchodních známek, podle Protokolu k Madridské dohodě, popřípadě podle Ženevského aktu Lisabonské dohody o označeních původu a zeměpisných označeních u Mezinárodního úřadu Světové organizace duševního vlastnictví v Ženevě.</td></tr></tbody></table>
+
+##### Topografie polovodičových výrobků
+
+**Položka 142**
+
+| Přijetí přihlášky topografie polovodičových výrobků | Kč | 5 000 |
+|---|---|---|
+
+**Položka 143**
+
+| Přijetí návrhu na výmaz topografie polovodičových výrobků z rejstříku | Kč | 2 000 |
+|---|---|---|
+
+#### ČÁST XII – Konzulární poplatky
+
+**Zmocnění k části XII**
+
+1\. Správní úřady vyměřující a vybírající poplatky podle této části sazebníku mohou stanovenou sazbu poplatku zvýšit, snížit, nebo upustit od vybrání poplatku z důvodu vzájemnosti a mohou upustit od vybrání poplatku z důvodu zahraničně politického nebo jiného veřejného zájmu.
+
+2\. Český zastupitelský úřad může upustit od vybrání poplatků podle položek 150, 151, 152 a 162 písm. a), provádí-li úkon v rámci programu vládní pomoci rozvojovým zemím pro tzv. vládní stipendisty.
+
+3\. České zastupitelské úřady vyměřují a vybírají poplatky i za úkony stanovené v jiné části sazebníku, k jejichž provedení nejsou příslušné, ale přijímají žádost o jejich provedení.
+
+4\. Český zastupitelský úřad může vybrat vedle poplatku i náhradu mimořádně uskutečněných výdajů spojených s provedením úkonu.
+
+Poznámky k **části XII**
+
+1\. Poplatky podle této části sazebníku vyměřují a vybírají české zastupitelské úřady a Ministerstvo zahraničních věcí.
+
+2\. Poplatky přepočítávané na cizí měny se zaokrouhlují
+
+a) u měn, jejichž směnný kurz devizového trhu k české koruně je vyšší než 1:1 na celou jednotku měny s tím, že se zaokrouhluje dolů u částek do 0,50 (nominálu příslušné měny) a nahoru od 0,50 (nominálu příslušné měny) včetně,
+
+b) u měn, jejichž směnný kurz devizového trhu k české koruně je nižší nebo přibližně roven poměru 1:1 na nejbližší nominální hodnotu mince nebo bankovky, u nichž zaokrouhlení dle místních podmínek odpovídá použití zaokrouhlení haléřů na české koruny.
+
+**Položka 144**
+
+<table><tbody><tr><td>Přijetí žádosti o</td><td></td><td></td></tr><tr><td>a) udělení krátkodobého víza podle přímo použitelného právního předpisu Evropské unie<sup>74</sup>)</td><td>EUR</td><td>stanoví přímo použitelný právní předpis Evropské unie<sup>74</sup>)</td></tr><tr><td>b) udělení krátkodobého víza podle dohody o usnadnění udělování víz uzavřené mezi Evropskou unií a třetí zemí</td><td>EUR</td><td>stanoví příslušná dohoda o usnadnění udělování víz uzavřená mezi Evropskou unií a třetí zemí</td></tr><tr><td>c) nové posouzení důvodů neudělení víza, prohlášení krátkodobého víza za neplatné nebo zrušení jeho platnosti</td><td>EUR</td><td>80</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Osvobození stanoví přímo použitelný právní předpis Evropské unie nebo dohoda o usnadnění udělování víz uzavřené mezi Evropskou unií a třetí zemí<sup>74</sup>).</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Přijetí žádosti o udělení krátkodobého víza, žádosti o nové posouzení důvodů neudělení krátkodobého víza, prohlášení krátkodobého víza za neplatné nebo zrušení jeho platnosti rodinným příslušníkům občana členského státu Evropské unie nebo občana státu, který je vázán Smlouvou o Evropském hospodářském prostoru, anebo občana státu, který je vázán mezinárodní smlouvou sjednanou s Evropskými společenstvími, a to bez ohledu na jejich státní příslušnost.</td></tr><tr><td colspan="3"><b>Zmocnění</b></td></tr><tr><td colspan="3">Zmocnění Ministerstva zahraničních věcí a zastupitelských úřadů stanoví přímo použitelný právní předpis Evropské unie nebo dohoda o usnadnění udělování víz uzavřené mezi Evropskou unií a třetí zemí<sup>74</sup>).</td></tr></tbody></table>
+
+**Položka 144A**
+
+| a) Přijetí žádosti o udělení dlouhodobého víza | Kč | 2 500 |
+|---|---|---|
+| b) Přijetí žádosti o udělení dlouhodobého víza za účelem podnikání | Kč | 5 000 |
+| c) Zpracování objednávky k sjednání termínu osobního podání žádosti o udělení dlouhodobého víza | Kč | 1 000 |
+| d) Přijetí žádosti o upuštění od povinnosti osobního podání žádosti<sup>87</sup>) | Kč | 2 500 |
+
+###### Osvobození
+
+1\. Od poplatků podle této položky jsou osvobozeny osoby mladší 6 let.
+
+2\. Od poplatků podle této položky je osvobozeno přijetí žádosti o udělení dlouhodobého víza do diplomatických, služebních, úředních a zvláštních pasů.
+
+3\. Od poplatků podle této položky jsou osvobozeni žadatelé o vízum k pobytu nad 90 dnů za účelem sezónního zaměstnání, kterým bylo v období 5 let předcházejících podání žádosti nejméně jednou takové vízum uděleno, a platnost žádného z těchto víz nebyla zrušena, ledaže by se tak stalo pouze v důsledku porušení povinnosti zaměstnavatele.
+
+###### Zmocnění
+
+1\. Ministerstvo zahraničních věcí a zastupitelské úřady mohou v jednotlivých případech od vybíraného poplatku upustit nebo jej snížit, pokud toto opatření slouží k podpoře kulturních nebo sportovních zájmů, zájmů v oblasti zahraniční nebo rozvojové politiky, jiných důležitých veřejných zájmů nebo z humanitárních důvodů.
+
+2\. Ministerstvo zahraničních věcí a zastupitelské úřady mohou u dětí ve věku od 6 let a mladších 12 let vízový poplatek snížit nebo je od vízového poplatku osvobodit.
+
+Položka 145
+
+| Uzavření manželství před českým zastupitelským úřadem | Kč 10 000 |
+|---|---|
+
+**Položka 146**
+
+<table><tbody><tr><td>Přijetí žádosti u českého zastupitelského úřadu</td><td>Kč</td><td>1 500</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Přijetí žádosti o provedení úkonu, který je zpoplatněn podle jiných položek této části sazebníku.</td></tr></tbody></table>
+
+**Položka 147**
+
+<table><tbody><tr><td>Vybrání pohledávky, renty a jiných dávek nebo plnění, s výjimkou požitků ze sociálního zabezpečení, úkony v řízení o dědictví (včetně intervence u příslušných orgánů, vymáhání a doručení dědictví)</td><td></td><td>4 % z vybrané peněžní částky nebo peněžního ocenění dědictví</td></tr><tr><td></td><td>nejméně Kč</td><td>300</td></tr><tr><td></td><td>nejvýše Kč</td><td>4 000</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Pokud je k žádosti věřitele (příjemce) nebo dědice prováděn pouze úkon k zajištění pohledávky, renty nebo dědictví, vybírá se poplatek podle položky 146 tohoto sazebníku.</td></tr><tr><td colspan="3">2. Základem poplatku za úkony v řízení o dědictví podle této položky je hodnota dědictví nesnížená o honorář právního zástupce.</td></tr></tbody></table>
+
+**Položka 148**
+
+<table><tbody><tr><td>Úschova</td><td></td><td></td></tr><tr><td>- peněz, cenných papírů, vkladních knížek a jiných cenných předmětů</td><td colspan="2">0,5 % z částky nebo ceny předmětu za každý rok</td></tr><tr><td></td><td>nejméně Kč</td><td>400</td></tr><tr><td></td><td>nejvýše Kč</td><td>40 000</td></tr><tr><td>- listin nebo spisů za každý rok</td><td>Kč</td><td>400</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">Úschova předmětu u českého zastupitelského úřadu za účelem doručení do České republiky.</td></tr></tbody></table>
+
+**Položka 149**
+
+| a) Sepsání písemnosti o právních úkonech, zejména smluv, závětí apod. | Kč | 1 200 |
+|---|---|---|
+| b) Sepsání plné moci s ověřením podpisu | Kč | 600 |
+
+Položka 150
+
+| a) | Ověření podpisu na listině i na jejím stejnopisu nebo za uznání podpisu za vlastní za každý podpis | Kč | 500 |
+|---|---|---|---|
+| b) | Ověření podpisu na listině i na jejím stejnopisu nebo uznání podpisu za vlastní na listinách určených pro zápis matriční události v cizině do Zvláštní matriky v Brně | Kč | 250 |
+| c) | Ověření otisku úředních razítek a úředních podpisů (superlegalizace) | Kč | 1 200 |
+| d) | Ověření otisku úředních razítek a podpisů (superlegalizace) na listinách určených pro zápis matriční události v cizině do Zvláštní matriky v Brně | Kč | 600 |
+| e) | Ověření otisku úředních razítek a úředních podpisů na českých dokladech nebo listinách a ověření listiny (apostila) určených k použití v cizině | Kč | 600 |
+
+Položka 151
+
+| a) | Ověření shody předloženého opisu, kopie, fotokopie s listinou | Kč | 600 |
+|---|---|---|---|
+| b) | Ověření shody předloženého opisu, kopie, fotokopie s listinou, jde-li o doklad určený pro zápis matriční události v cizině do Zvláštní matriky v Brně | Kč | 300 |
+| c) | Ověření správnosti předloženého překladu | Kč | 600 |
+| d) | Ověření správnosti předloženého překladu, jde-li o doklad určený pro zápis matriční události v cizině do Zvláštní matriky v Brně | Kč | 300 |
+| e) | Provedení autorizované konverze dokumentů do elektronické podoby za každou i započatou stránku konvertované listiny | Kč | 200 |
+| f) | Provedení autorizované konverze dokumentů do listinné podoby za každou i započatou stránku konvertované listiny | Kč | 200 |
+
+Položka 152
+
+###### Vyhotovení překladu spisového materiálu
+
+| a) | do jazyka českého za každou i započatou stránku | Kč | 1 200 |
+|---|---|---|---|
+| b) | z jazyka českého za každou i započatou stránku | Kč | 1 300 |
+| c) | z jednoho cizího jazyka do druhého za každou i započatou stránku | Kč | 2 000 |
+| d) | z nebo do jazyka čínského, japonského, korejského a jiných znakových jazyků za každou i započatou stránku | Kč | 1 800 |
+
+**Položka 153**
+
+<table><tbody><tr><td>a) Vystavení rodného, oddacího nebo úmrtního listu</td><td>Kč</td><td>600</td></tr><tr><td>b) Vyhotovení překladu rodného, oddacího nebo úmrtního listu a jeho ověření</td><td>Kč</td><td>1 400</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">První vystavení rodného, oddacího nebo úmrtního listu.</td></tr></tbody></table>
+
+**Položka 154**
+
+<table><tbody><tr><td>Změna</td><td></td><td></td></tr><tr><td>a) příjmení hanlivého nebo směšného</td><td>Kč</td><td>200</td></tr><tr><td>b) příjmení cizojazyčného nebo na dřívější příjmení</td><td>Kč</td><td>600</td></tr><tr><td>c) jména nebo příjmení v ostatních případech</td><td>Kč</td><td>4 000</td></tr><tr><td><b>Osvobození</b></td><td></td><td></td></tr><tr><td colspan="3">1. Od poplatku podle této položky je osvobozena změna příjmení, k níž dochází prohlášením rozvedeného manžela, že přijímá opět své dřívější příjmení nebo příjmení rodné, popřípadě, že upouští od užívání společného příjmení vedle příjmení dřívějšího, byla-li tato skutečnost oznámena do šesti měsíců po nabytí právní moci rozsudku o rozvodu.</td></tr><tr><td colspan="3">2. Od poplatku podle této položky je osvobozena změna nebo oprava jména osvojených dětí nebo změna, kterou je nutno provést v důsledku nesprávných nebo neúplných zápisů v matrice.</td></tr><tr><td colspan="3">3. Od poplatku podle této položky je osvobozena změna jména a příjmení osoby v případě změny pohlaví.</td></tr><tr><td colspan="3">4. Od poplatku podlé této položky je osvobozena změna příjmení partnera za trvání registrovaného partnerství na příjmení druhého partnera.</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Za změnu příjmení manželů, rodičů nebo rodiče a jejich nezletilých dětí na společné příjmení se vybírá jen jeden poplatek.</td></tr><tr><td colspan="3">2. Za změnu příjmení více nezletilých dětí téhož rodiče se vybírá jen jeden poplatek.</td></tr><tr><td colspan="3">3. Dřívějším příjmením se pro účely tohoto zákona rozumí jen nejblíže předcházející příjmení.</td></tr></tbody></table>
+
+Položka 155
+
+<table><tbody><tr><td rowspan="4">a)</td><td rowspan="4">Vydání opisu, kopie, fotokopie nebo výpisu z úředních záznamů, rejstříků, evidencí, listin nebo spisů</td><td></td><td> Kč</td><td>300</td></tr><tr><td colspan="3">za každou i započatou stránku</td></tr><tr><td></td><td>Kč</td><td>30</td></tr><tr><td colspan="3">za každou i započatou stránku, je-li pořizována na kopírovacím stroji nebo na tiskárně počítače</td></tr><tr><td rowspan="4">b)</td><td rowspan="4">Vydání ověřeného výstupu z informačního systému veřejné správy</td><td></td><td>Kč</td><td> 600</td></tr><tr><td colspan="3">za první stránku</td></tr><tr><td></td><td> Kč</td><td>300</td></tr><tr><td colspan="3">za každou další i započatou stránku</td></tr><tr><td>c)</td><td>Vydání cizojazyčného standardního formuláře</td><td></td><td>Kč</td><td>300</td></tr><tr><td>d)</td><td>Přijetí podání podle § 72 živnostenského zákona</td><td></td><td>Kč</td><td>300</td></tr></tbody></table>
+
+**Položka 156**
+
+| Vydání vysvědčení o právní způsobilosti k uzavření manželství v cizině | Kč | 1 000 |
+|---|---|---|
+
+**Položka 157**
+
+<table><tbody><tr><td>1. Přijetí žádosti o vydání občanského průkazu u zastupitelského úřadu s převzetím u stejného zastupitelského úřadu</td><td></td><td></td></tr><tr><td>a) u osob, které dosáhly věku 15 let</td><td>Kč</td><td>500</td></tr><tr><td>b) u osob mladších 15 let</td><td>Kč</td><td>300</td></tr><tr><td>2. Přijetí žádosti o vydání občanského průkazu u zastupitelského úřadu s převzetím u obecního úřadu obce s rozšířenou působností</td><td></td><td></td></tr><tr><td>a) u osob, které dosáhly věku 15 let</td><td>Kč</td><td>300</td></tr><tr><td>b) u osob mladších 15 let</td><td>Kč</td><td>200</td></tr><tr><td>3. Umožnění převzetí občanského průkazu u zastupitelského úřadu, pokud byla žádost podána u obecního úřadu obce s rozšířenou působností</td><td></td><td></td></tr><tr><td>a) u osob, které dosáhly věku 15 let</td><td>Kč</td><td>200</td></tr><tr><td>b) u osob mladších 15 let</td><td>Kč</td><td>100</td></tr><tr><td>4. Poskytnutí součinnosti při správě státních dat pro elektronické využití občanského průkazu zastupitelským úřadem</td><td>Kč</td><td>100</td></tr><tr><td>5. Vydání cestovního pasu</td><td></td><td></td></tr><tr><td>a) osobám, které dosáhly věku 15 let</td><td>Kč</td><td>2 400</td></tr><tr><td>b) osobám mladším 15 let</td><td>Kč</td><td>400</td></tr><tr><td>6. Vydání cestovního průkazu, cestovního průkazu totožnosti nebo náhradního cestovního dokladu EU</td><td>Kč</td><td>800</td></tr><tr><td>7. Změna údaje o časové platnosti cestovního dokladu</td><td>Kč</td><td>300</td></tr><tr><td>8. Vydání průvodního listu pro přepravu tělesných pozůstatků člověka</td><td>Kč</td><td>400</td></tr><tr><td>9. Vydání cestovního průkazu, cestovního průkazu totožnosti nebo náhradního cestovního dokladu EU osobě mladší 15 let</td><td>Kč</td><td>400</td></tr><tr><td colspan="3"><b>Předmětem poplatku není</b></td></tr><tr><td colspan="3">1. Vydání cestovního dokladu náhradou za doklad, v němž správní úřad uvedl nesprávné zápisy, vydal doklad s výrobní vadou nebo jehož certifikát pravosti byl zneplatněn.</td></tr><tr><td colspan="3">2. Vydání cestovního dokladu z moci úřední.</td></tr><tr><td colspan="3">3. První vydání průvodního listu pro přepravu tělesných pozůstatků člověka.</td></tr><tr><td colspan="3"><b>Zmocnění</b></td></tr><tr><td colspan="3">V případech nouze správní úřad upustí od vybrání poplatku podle bodu 6 této položky. Nouzí se pro účely tohoto zákona rozumí pozbytí cestovních dokladů bez vlastního zavinění.</td></tr></tbody></table>
+
+**Položka 158**
+
+<table><tbody><tr><td>a) Vydání potvrzení nebo písemného sdělení o místě trvalého pobytu osob</td><td>Kč</td><td>300</td></tr><tr><td>b) Ohlášení ukončení trvalého pobytu na území České republiky</td><td>Kč</td><td>600</td></tr><tr><td colspan="3"><b>Poznámka</b></td></tr><tr><td colspan="3">Poplatek podle písmene a) této položky se vybírá za potvrzení nebo písemné sdělení údajů o každé osobě v něm uváděné.</td></tr></tbody></table>
+
+**Položka 159**
+
+| a) Vydání osvědčení o státním občanství České republiky | Kč | 600 |
+|---|---|---|
+| b) Přijetí prohlášení o nabytí státního občanství České republiky podle § 31, 32, 35 a 36 zákona o státním občanství České republiky | Kč | 1 000 |
+
+**Položka 160**
+
+<table><tbody><tr><td>Přijetí žádosti o vydání zbrojního průvodního listu </td><td>Kč</td><td>1 600</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle této položky jsou osvobozeni cizinci, kteří přijedou do České republiky na pozvání nebo se souhlasem vlády České republiky nebo Parlamentu České republiky. Od poplatku jsou dále osvobozeny osoby, které se zúčastní mezinárodních soutěží, jejichž součástí je sportovní střelba, jde-li o zbraně související s touto účastí.</td></tr></tbody></table>
+
+**Položka 161**
+
+| Potvrzení námořního protestu | Kč | 1 200 |
+|---|---|---|
+
+**Položka 162**
+
+| a) Přijetí žádosti o vydání povolení k pobytu | Kč | 2 500 |
+|---|---|---|
+| b) Přijetí žádosti o vydání výpisu z evidence Rejstříku trestů | Kč | 400 |
+| c) Přijetí žádosti o vydání zaměstnanecké karty, modré karty, karty vnitropodnikově převedeného zaměstnance, karty vnitropodnikově převedeného zaměstnance jiného členského státu Evropské unie nebo povolení k dlouhodobému pobytu za účelem investování | Kč | 5 000 |
+| d) Zpracování objednávky k sjednání termínu osobního podání žádosti o vydání povolení k dlouhodobému nebo trvalému pobytu | Kč | 1 000 |
+| e) Přijetí žádosti o vydání povolení k trvalému pobytu občanu Evropské unie, státu, který je vázán Dohodou o Evropském hospodářském prostoru, nebo státu, který je vázán mezinárodní smlouvou sjednanou s Evropskou unií, a jeho rodinnému příslušníku bez ohledu na státní příslušnost | Kč | 200 |
+
+###### Osvobození
+
+Od poplatku podle písmene a) této položky je osvobozeno přijetí žádosti o vydání povolení k dlouhodobému pobytu, vydává-li toto povolení Ministerstvo zahraničních věcí.
+
+###### Poznámka
+
+Poplatek podle písmene e) se vybírá, jde-li o rodinného příslušníka občana Evropské unie podle § 15a zákona o pobytu cizinců na území České republiky, občana státu, který je vázán Dohodou o Evropském hospodářském prostoru, nebo občana státu, který je vázán mezinárodní smlouvou sjednanou s Evropskou unií, bez ohledu na jeho státní příslušnost.
+
+**Položka 163**
+
+<table><tbody><tr><td>Přijetí žádosti o zápis matriční události v cizině do Zvláštní matriky v Brně</td><td>Kč</td><td>200</td></tr><tr><td colspan="3"><b>Osvobození</b></td></tr><tr><td colspan="3">Od poplatku podle této položky je osvobozeno přijetí žádosti o zápis úmrtí občana České republiky do Zvláštní matriky v Brně.</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) § 31 a 32 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla).
+
+<sup>2b</sup>) Zákon č. 115/2006 Sb., o registrovaném partnerství a o změně některých souvisejících zákonů.
+
+<sup>2c</sup>) § 8b zákona č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů, ve znění zákona č. 227/2009 Sb.
+
+<sup>2d</sup>) Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 10c zákona č. 140/1996 Sb., o zpřístupnění svazků vzniklých činností bývalé Státní bezpečnosti, ve znění zákona č. 107/2002 Sb.
+
+<sup>6a</sup>) § 5 odst. 1 písm. b) zákona č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů.
+
+<sup>8</sup>) Zákon č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů.
+
+<sup>9</sup>) Zákon č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění pozdějších předpisů. 
+ Zákon č. 96/2004 Sb., o podmínkách získávání a uznávání způsobilosti k výkonu nelékařských zdravotnických povolání a k výkonu činností souvisejících s poskytováním zdravotní péče a o změně některých souvisejících zákonů (zákon o nelékařských zdravotnických povoláních), ve znění pozdějších předpisů.
+
+<sup>9a</sup>) Zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.
+
+<sup>10</sup>) Zákon č. 229/1992 Sb. o komoditních burzách, ve znění pozdějších předpisů.
+
+<sup>11</sup>) Zákon č. 158/2000 Sb., o vyhledávání, průzkumu a těžbě nerostných zdrojů z mořského dna za hranicemi pravomocí států a o změně některých zákonů.
+
+<sup>13</sup>) Zákon č. 276/2003 Sb., o Antarktidě a o změně některých zákonů.
+
+<sup>17</sup>) Zákon č. 184/2006 Sb., o odnětí nebo omezení vlastnického práva k pozemku nebo ke stavbě (zákon o vyvlastnění).
+
+<sup>19</sup>) Zákon č. 18/2004 Sb., o uznávání odborné kvalifikace a jiné způsobilosti státních příslušníků členských států Evropské unie a některých příslušníků jiných států a o změně některých zákonů (zákon o uznávání odborné kvalifikace), ve znění pozdějších předpisů.
+
+<sup>20</sup>) Například zákon č. 62/1988 Sb., o geologických pracích, ve znění pozdějších předpisů, zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů, zákon č. 91/1996 Sb., o krmivech, ve znění pozdějších předpisů, zákon č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 100/2001 Sb., o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí), ve znění pozdějších předpisů.
+
+<sup>21</sup>) § 14 odst. 8 zákona č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů.
+
+<sup>24</sup>) Zákon č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách), ve znění pozdějších předpisů.
+
+<sup>26</sup>) Zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů.
+
+<sup>26b</sup>) § 117a zákona č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů.
+
+<sup>26c</sup>) § 89 až 90a a § 95 odst. 9 zákona č. 111/1998 Sb., ve znění pozdějších předpisů.
+
+<sup>27</sup>) Zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů.
+
+<sup>27a</sup>) Zákon č. 406/2000 Sb., o hospodaření energií, ve znění pozdějších předpisů.
+
+<sup>29</sup>) Zákon č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby, ve znění pozdějších předpisů.
+
+<sup>30</sup>) Zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění pozdějších předpisů.
+
+<sup>30a</sup>) § 52c odst. 1, 6 a 7 zákona č. 247/2000 Sb.
+
+<sup>30b</sup>) § 52b odst. 1 zákona č. 247/2000 Sb.
+
+<sup>30c</sup>) § 49 odst. 2 zákona č. 247/2000 Sb.
+
+<sup>30d</sup>) § 52e odst. 2 zákona č. 247/2000 Sb.
+
+<sup>33</sup>) Zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů.
+
+<sup>34</sup>) Zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů.
+
+<sup>34a</sup>) § 30a odst. 2 zákona č. 114/1995 Sb.
+
+<sup>35</sup>) Zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+
+<sup>38</sup>) Zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů. 
+ Zákon č. 62/1988 Sb. 
+ Zákon č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění pozdějších předpisů.
+
+<sup>38a</sup>) Zákon č. 162/2003 Sb., o podmínkách provozování zoologických zahrad a o změně některých zákonů (zákon o zoologických zahradách), ve znění pozdějších předpisů.
+
+<sup>38b</sup>) Zákon č. 100/2004 Sb., o ochraně druhů volně žijících živočichů a planě rostoucích rostlin regulováním obchodu s nimi a dalších opatřeních k ochraně těchto druhů a o změně některých zákonů (zákon o obchodování s ohroženými druhy), ve znění pozdějších předpisů.
+
+<sup>38c</sup>) Čl. 1 bod 6 nařízení Komise (ES) č. 865/2006 ze dne 4. května 2006 o prováděcích pravidlech k nařízení Rady (ES) č. 338/97 o ochraně druhů volně žijících živočichů a planě rostoucích rostlin regulováním obchodu s těmito druhy.
+
+<sup>38d</sup>) Čl. 51 nařízení Komise (ES) č. 865/2006.
+
+<sup>39</sup>) Zákon č. 539/1992 Sb., o puncovnictví a zkoušení drahých kovů (puncovní zákon), ve znění pozdějších předpisů.
+
+<sup>40</sup>) Zákon č. 143/2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže), ve znění pozdějších předpisů.
+
+<sup>41</sup>) Zákon č. 137/2006 Sb., o veřejných zakázkách.
+
+<sup>41a</sup>) Zákon č. 496/2012 Sb., o audiovizuálních dílech a podpoře kinematografie a o změně některých zákonů (zákon o audiovizi).
+
+<sup>42</sup>) Zákon č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů.
+
+<sup>43</sup>) Zákon č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů.
+
+<sup>44</sup>) Zákon č. 97/1996 Sb., o ochraně chmele, ve znění pozdějších předpisů. 
+ Vyhláška č. 325/2004 Sb., k provedení zákona o ochraně chmele.
+
+<sup>45</sup>) Zákon č. 97/1996 Sb., o ochraně chmele, ve znění pozdějších předpisů.
+
+<sup>46</sup>) Zákon č. 321/2004 Sb., o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství).
+
+<sup>46a</sup>) Čl. 5 odst. 3 písm. a) nařízení Rady ES č. 1493/1999.
+
+<sup>46b</sup>) Čl. 12 odst. 1 písm. b) nařízení Komise (ES) č. 1227/2000.
+
+<sup>49</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1107/2009 ze dne 21. října 2009 o uvádění přípravků na ochranu rostlin na trh a o zrušení směrnic Rady 79/117/EHS a 91/414/EHS, v platném znění.
+
+<sup>49a</sup>) § 8 zákona č. 326/2004 Sb.
+
+<sup>49b</sup>) § 32 zákona č. 326/2004 Sb.
+
+<sup>49c</sup>) § 54 zákona č. 326/2004 Sb.
+
+<sup>49d</sup>) Čl. 43 nařízení Evropského parlamentu a Rady (ES) ze dne 21. října 2009 č. 1107/2009 o uvádění přípravků na ochranu rostlin na trh a o zrušení směrnic Rady 79/117/EHS a 91/414/EHS.
+
+<sup>49e</sup>) Čl. 51 nařízení Evropského parlamentu a Rady (ES) č. 1107/2009 ze dne 21. října 2009 o uvádění přípravků na ochranu rostlin na trh a o zrušení směrnic Rady 79/117/EHS a 91/414/EHS.
+
+<sup>49f</sup>) § 35 zákona č. 326/2004 Sb.
+
+<sup>49g</sup>) Čl. 54 nařízení Evropského parlamentu a Rady (ES) č. 1107/2009 ze dne 21. října 2009 o uvádění přípravků na ochranu rostlin na trh a o zrušení směrnic Rady 79/117/EHS a 91/414/EHS.
+
+<sup>49h</sup>) Čl. 53 nařízení Evropského parlamentu a Rady (ES) č. 1107/2009 ze dne 21. října 2009 o uvádění přípravků na ochranu rostlin na trh a o zrušení směrnic Rady 79/117/EHS a 91/414/EHS.
+
+<sup>49i</sup>) § 53 zákona č. 326/2004 Sb.
+
+<sup>49j</sup>) § 45 zákona č. 326/2004 Sb.
+
+<sup>49k</sup>) § 86 zákona č. 326/2004 Sb.
+
+<sup>49l</sup>) § 38a zákona č. 326/2004 Sb.
+
+<sup>49m</sup>) Čl. 40 nařízení Evropského parlamentu a Rady (ES) č. 1107/2009 ze dne 21. října 2009 o uvádění přípravků na ochranu rostlin na trh a o zrušení směrnic Rady 79/117/EHS a 91/414/EHS.
+
+<sup>49n</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1107/2009 ze dne 21. října 2009 o uvádění přípravků na ochranu rostlin na trh a o zrušení směrnic Rady 79/117/EHS a 91/414/EHS.
+
+<sup>50</sup>) Zákon č. 408/2000 Sb., o ochraně práv k odrůdám rostlin a o změně zákona č. 92/1996 Sb., o odrůdách, osivu a sadbě pěstovaných rostlin, ve znění pozdějších předpisů, (zákon o ochraně práv k odrůdám), ve znění pozdějších předpisů.
+
+<sup>51</sup>) Zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby).
+
+<sup>52</sup>) Zákon č. 61/1997 Sb., o lihu a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, a zákona České národní rady č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů, (zákon o lihu), ve znění pozdějších předpisů.
+
+<sup>53</sup>) Zákon č. 146/2002 Sb., o Státní zemědělské a potravinářské inspekci a o změně některých souvisejících zákonů, ve znění zákona č. 309/2002 Sb.
+
+<sup>54</sup>) Zákon č. 91/1996 Sb., o krmivech, ve znění pozdějších předpisů. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 183/2005.
+
+<sup>55</sup>) Zákon č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění pozdějších předpisů.
+
+<sup>56</sup>) Zákon č. 324/2016 Sb., o biocidních přípravcích a účinných látkách a o změně některých souvisejících zákonů (zákon o biocidech).
+
+<sup>57</sup>) Zákon č. 76/2002 Sb., o integrované prevenci a omezování znečištění, o integrovaném registru znečišťování a o změně zákonů (zákon o integrované prevenci), ve znění zákona č. 521/2002 Sb.
+
+<sup>58</sup>) Zákon č. 79/1997 Sb., o léčivech a o změnách a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>58a</sup>) Zákon č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>59</sup>) Zákon č. 167/1998 Sb., o návykových látkách a o změně některých dalších zákonů, ve znění pozdějších předpisů.
+
+<sup>60</sup>) Zákon č. 78/2004 Sb., o nakládání s geneticky modifikovanými organismy a genetickými produkty.
+
+<sup>60a</sup>) Zákon č. 148/2003 Sb., o konzervaci a využívání genetických zdrojů rostlin a mikroorganismů významných pro výživu a zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů (zákon o genetických zdrojích rostlin a mikroorganismů).
+
+<sup>61a</sup>) Zákon č. 227/2006 Sb., o výzkumu na lidských embryonálních kmenových buňkách a souvisejících činnostech a o změně některých souvisejících zákonů.
+
+<sup>61b</sup>) Zákon č. 296/2008 Sb., o zajištění jakosti a bezpečnosti lidských tkání a buněk určených k použití u člověka a o změně souvisejících zákonů (zákon o lidských tkáních a buňkách).
+
+<sup>62</sup>) Zákon č. 228/2005 Sb., o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů, a o změně některých zákonů, ve znění pozdějších předpisů.
+
+<sup>63</sup>) Zákon č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem a o doplnění zákona č. 455/1991 Sb. a zákona č. 140/1961 Sb.
+
+<sup>64</sup>) Zákon č. 594/2004 Sb., jímž se provádí režim Evropských společenství pro kontrolu vývozu, přepravy, zprostředkování a tranzitu zboží dvojího užití, ve znění pozdějších předpisů.
+
+<sup>65</sup>) Zákon č. 263/2016 Sb., atomový zákon.
+
+<sup>66</sup>) § 54 zákona č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů.
+
+<sup>66a</sup>) Zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů.
+
+<sup>68</sup>) Zákon č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů.
+
+<sup>69</sup>) Zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.
+
+<sup>70</sup>) § 24 odst. 1 až 4 zákona č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů.
+
+<sup>71</sup>) Vyhláška č. 136/1985 Sb., o finanční, úvěrové a jiné pomoci družstevní a individuální bytové výstavbě a modernizaci rodinných domků v osobním vlastnictví, ve znění pozdějších předpisů.
+
+<sup>73</sup>) Sdělení 69/2002 Sb.m.s., o přijetí Úmluvy o udělování evropských patentů (Evropská patentová úmluva), čl. 136 odst. 2. 
+ § 35b zákona č. 527/1990 Sb., o vynálezech a zlepšovacích návrzích, ve znění pozdějších předpisů.
+
+<sup>74</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 810/2009 ze dne 13. července 2009 o kodexu Společenství o vízech (vízový kodex).
+
+<sup>75</sup>) § 9 zákona č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění zákona č. 344/2011 Sb.
+
+<sup>75</sup>) Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).
+
+<sup>75</sup>) Nařízení Komise (EU) č. 748/2012 ze dne 3. srpna 2012, kterým se stanoví prováděcí pravidla pro certifikaci letové způsobilosti letadel a souvisejících výrobků, letadlových částí a zařízení a certifikaci ochrany životního prostředí, jakož i certifikaci projekčních a výrobních organizací, v platném znění.
+
+<sup>75a</sup>) Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů.
+
+<sup>76</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 258/2012 ze dne 14. března 2012, kterým se provádí článek 10 protokolu Organizace spojených národů proti nedovolené výrobě střelných zbraní a jejich součástí, dílů a střeliva a obchodování s nimi, který doplňuje Úmluvu Organizace spojených národů proti nadnárodnímu organizovanému zločinu (protokol OSN o střelných zbraních), a stanoví vývozní povolení, opatření pro dovoz a tranzit střelných zbraní, jejich součástí, dílů a střeliva.
+
+<sup>76</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 216/2008 ze dne 20. února 2008 o společných pravidlech v oblasti civilního letectví a o zřízení Evropské agentury pro bezpečnost letectví, kterým se ruší směrnice Rady 91/670 EHS, nařízení (ES) č. 1592/2002 a směrnice 2004/36/ES, v platném znění.
+
+<sup>77</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 273/2004 ze dne 11. února 2004 o prekursorech drog, v platném znění. 
+ Nařízení Rady (ES) č. 111/2005 ze dne 22. prosince 2004, kterým se stanoví pravidla pro sledování obchodu s prekursory drog mezi Společenstvím a třetími zeměmi, v platném znění. 
+ Nařízení Komise (ES) č. 1277/2005 ze dne 27. července 2005, kterým se stanoví prováděcí pravidla k nařízení Evropského parlamentu a Rady (ES) č. 273/2004 o prekursorech drog a k nařízení Rady (ES) č. 111/2005, kterým se stanoví pravidla pro sledování obchodu s prekursory drog mezi Společenstvím a třetími zeměmi, v platném znění.
+
+<sup>77</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 550/2004 ze dne 10. března 2004 o poskytování letových navigačních služeb v jednotném evropském nebi (nařízení o poskytování služeb), v platném znění.
+
+<sup>78</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 216/2008 ze dne 20. února 2008 o společných pravidlech v oblasti civilního letectví a o zřízení Evropské agentury pro bezpečnost letectví, kterým se ruší směrnice Rady 91/670 EHS, nařízení (ES) č. 1592/2002 a směrnice 2004/36/ES, v platném znění. 
+ Nařízení Rady (EHS) č. 3922/91 ze dne 16. prosince 1991 o harmonizaci technických požadavků a správních postupů v oblasti civilního letectví, v platném znění.
+
+<sup>79</sup>) Nařízení Komise (ES) č. 2042/2003 ze dne 20. listopadu 2003 o zachování letové způsobilosti letadel a leteckých výrobků, letadlových částí a zařízení a schvalování organizací a personálu zapojených do těchto úkolů, v platném znění.
+
+<sup>80</sup>) Zákon č. 224/2015 Sb., o prevenci závažných havárií způsobených vybranými nebezpečnými chemickými látkami nebo chemickými směsmi a o změně zákona č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů, (zákon o prevenci závažných havárií).
+
+<sup>81</sup>) § 24a odst. 2 písm. a) zákona č. 18/2004 Sb., ve znění pozdějších předpisů.
+
+<sup>82</sup>) § 24b zákona č. 18/2004 Sb., ve znění pozdějších předpisů.
+
+<sup>83</sup>) § 21 odst. 2 zákona č. 20/1987 Sb., ve znění pozdějších předpisů.
+
+<sup>83</sup>) Zákon č. 18/2004 Sb., o uznávání odborné kvalifikace a jiné způsobilosti státních příslušníků členských států Evropské unie a některých příslušníků jiných států a o změně některých zákonů (zákon o uznávání odborné kvalifikace), ve znění pozdějších předpisů.
+
+<sup>84</sup>) Nařízení Evropského parlamentu a Rady (EU) 2016/1011 ze dne 8. června 2016 o indexech, které jsou používány jako referenční hodnoty ve finančních nástrojích a finančních smlouvách nebo k měření výkonnosti investičních fondů, a o změně směrnic 2008/48/ES a 2014/17/EU a nařízení (EU) č. 596/2014.
+
+<sup>84</sup>) Nařízení Komise (EU) č. 1321/2014 ze dne 26. listopadu 2014 o zachování letové způsobilosti letadel a leteckých výrobků, letadlových částí a zařízení a schvalování organizací a personálu zapojených do těchto úkolů, v platném znění.
+
+<sup>84</sup>) § 46a zákona č. 326/2004 Sb.
+
+<sup>85</sup>) Nařízení Komise (EU) č. 748/2012 ze dne 3. srpna 2012, kterým se stanoví prováděcí pravidla pro certifikaci letové způsobilosti letadel a souvisejících výrobků, letadlových částí a zařízení a certifikaci ochrany životního prostředí, jakož i pro certifikaci projekčních a výrobních organizací, v platném znění.
+
+<sup>86</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1069/2009 ze dne 21. října 2009 o hygienických pravidlech pro vedlejší produkty živočišného původu a získané produkty, které nejsou určeny k lidské spotřebě, a o zrušení nařízení (ES) č. 1774/2002 (nařízení o vedlejších produktech živočišného původu), v platném znění. 
+ Nařízení Komise (EU) č. 142/2011 ze dne 25. února 2011, kterým se provádí nařízení Evropského parlamentu a Rady (ES) č. 1069/2009 o hygienických pravidlech pro vedlejší produkty živočišného původu a získané produkty, které nejsou určeny k lidské spotřebě, a provádí směrnice Rady 97/78/ES, pokud jde o určité vzorky a předměty osvobozené od veterinárních kontrol na hranici podle uvedené směrnice, v platném znění.
+
+<sup>87</sup>) § 169d odst. 3 a 4 zákona č. 326/1999 Sb., ve znění pozdějších předpisů.
+
+<sup>88</sup>) Evropská úmluva o filmové koprodukci, vyhlášená pod č. 26/2000 Sb. m. s.
+
+<sup>89</sup>) Úmluva Rady Evropy o filmové koprodukci (revidované znění), vyhlášená pod č. 23/2021 Sb. m. s.

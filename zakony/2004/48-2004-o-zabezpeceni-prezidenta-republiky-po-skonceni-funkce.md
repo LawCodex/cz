@@ -1,0 +1,69 @@
+---
+title: "Zákon č. 48/2004 Sb., o zabezpečení prezidenta republiky po skončení funkce"
+identifier: "48/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/48/2006-04-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2004-01-21
+effective: 2004-03-01
+last_amended: 2006-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/48"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 48/2004 Sb., o zabezpečení prezidenta republiky po skončení funkce ve znění zákona č. 57/2006 Sb."
+---
+
+# Zákon č. 48/2004 Sb., o zabezpečení prezidenta republiky po skončení funkce
+
+48
+
+ZÁKON
+
+ze dne 21. ledna 2004
+
+o zabezpečení prezidenta republiky po skončení funkce
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1
+
+Prezident republiky po skončení funkce (dále jen „bývalý prezident republiky“) má po skončení svého volebního období nárok na rentu ve výši 50 000 Kč měsíčně. Renta je splatná předem vždy do 5 pracovních dnů od počátku příslušného kalendářního měsíce, počínaje kalendářním měsícem následujícím po měsíci, v němž skončilo volební období.
+
+## § 2
+
+Bývalý prezident republiky má po skončení svého volebního období nárok na víceúčelovou paušální náhradu, která kryje zejména nájemné spojené s užíváním přiměřeně vybavené kanceláře a odměnu asistenta, v celkové výši 50 000 Kč měsíčně. Víceúčelová paušální náhrada je splatná spolu s rentou podle § 1.
+
+## § 3
+
+Nebude-li bývalému prezidentu republiky po skončení jeho volebního období poskytnuta ochrana podle zvláštního právního předpisu,<sup>1</sup>) zahrnující přidělení vozidla s řidičem, má bývalý prezident republiky po skončení svého volebního období nárok na užívání vozidla ve vlastnictví státu s řidičem i bez něho k osobní dispozici.
+
+## § 4
+
+Jestliže byl prezidentu republiky uložen trest ztráty prezidentského úřadu a způsobilosti jej znovu nabýt,<sup>2</sup>) nároky podle tohoto zákona mu nevzniknou.
+
+## § 5
+
+(1) Bývalému prezidentu republiky nároky podle tohoto zákona zaniknou posledním dnem kalendářního měsíce, v němž se stane prezidentem republiky, poslancem, senátorem, členem vlády, členem, viceprezidentem nebo prezidentem Nejvyššího kontrolního úřadu, členem, místopředsedou nebo předsedou Rady pro rozhlasové a televizní vysílání, ředitelem Bezpečnostní informační služby, soudcem, předsedou nebo inspektorem Úřadu pro ochranu osobních údajů, členem bankovní rady České národní banky, Veřejným ochráncem práv nebo jeho zástupcem.
+
+(2) Bývalému prezidentu republiky nároky podle tohoto zákona zaniknou posledním dnem kalendářního měsíce, v němž nabylo právní moci rozhodnutí soudu, kterým byl odsouzen pro úmyslný trestný čin.
+
+## § 6
+
+Bývalému prezidentu republiky, jehož volební období skončilo přede dnem nabytí účinnosti tohoto zákona, vzniknou nároky podle tohoto zákona dnem nabytí jeho účinnosti.
+
+## § 7
+
+Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce po jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Špidla v. r.
+
+---
+
+<sup>1</sup>) Například zákon č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Čl. 65 odst. 2 ústavního zákona č. 1/1993 Sb., Ústava České republiky.

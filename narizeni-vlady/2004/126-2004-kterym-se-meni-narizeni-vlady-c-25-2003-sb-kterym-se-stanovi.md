@@ -1,0 +1,52 @@
+---
+title: "Nařízení vlády č. 126/2004 Sb., kterým se mění nařízení vlády č. 25/2003 Sb., kterým se stanoví technické požadavky na účinnost nových teplovodních kotlů spalujících kapalná nebo plynná paliva"
+identifier: "126/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/126/2004-05-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-02-25
+effective: 2004-05-01
+last_amended: 2004-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/126"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 126/2004 Sb., kterým se mění nařízení vlády č. 25/2003 Sb., kterým se stanoví technické požadavky na účinnost nových teplovodních kotlů spalujících kapalná nebo plynná paliva
+
+126
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. února 2004,
+
+kterým se mění nařízení vlády č. 25/2003 Sb., kterým se stanoví technické požadavky na účinnost nových teplovodních kotlů spalujících kapalná nebo plynná paliva
+
+Vláda nařizuje podle § 22 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 71/2000 Sb., zákona č. 205/2002 Sb., (dále jen „zákon“) k provedení § 11 odst. 2, § 11a odst. 2 písm. c), § 12 odst. 1 a 3 a § 13 odst. 2 zákona:
+
+## Čl. I
+
+Nařízení vlády č. 25/2003 Sb., kterým se stanoví technické požadavky na účinnost nových teplovodních kotlů spalujících kapalná nebo plynná paliva, se mění takto:
+
+1\. V § 5 se na konci odstavce 1 doplňuje věta „K označení CE se připojí poslední dvojčíslí roku, v němž byl výrobek tímto označením opatřen.“.
+
+2\. V příloze č. 2 bod 8 zní:
+
+> „8. Ostatní příslušné notifikované osoby mohou obdržet kopie certifikátů ES přezkoušení typu a jejich dodatků; jejich přílohy musí být pro ostatní notifikované osoby uchovávány k dispozici.“.
+
+3\. V příloze č. 3 bodě 2.1. větě druhé se za slovo „Výrobce“ vkládají slova „nebo jeho zplnomocněný zástupce“.
+
+4\. V příloze č. 3 bodě 3.1. větě druhé se za slovo „Výrobce“ vkládají slova „nebo jeho zplnomocněný zástupce“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Urban v. r.

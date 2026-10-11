@@ -1,0 +1,59 @@
+---
+title: "Vyhláška č. 488/2004 Sb., o vymezení zón ochrany přírody Chráněné krajinné oblasti Český ráj"
+identifier: "488/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/488/2005-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2004-09-02
+effective: 2005-01-01
+last_amended: 2005-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/488"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 488/2004 Sb., o vymezení zón ochrany přírody Chráněné krajinné oblasti Český ráj
+
+488
+
+VYHLÁŠKA
+
+ze dne 2. září 2004
+
+o vymezení zón ochrany přírody Chráněné krajinné oblasti Český ráj
+
+Ministerstvo životního prostředí stanoví podle § 27 odst. 2 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb., (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví vymezení hranic zón ochrany přírody (dále jen „zóny“) na území Chráněné krajinné oblasti Český ráj<sup>1</sup>), které jsou upraveny zvláštním právním předpisem<sup>2</sup>).
+
+## § 2 – Vymezení zón
+
+(1) Území Chráněné krajinné oblasti Český ráj se člení na I. zónu, II. zónu, III. zónu a IV. zónu.
+
+(2) Zákresy zón ochrany přírody na podkladě Základní mapy České republiky 1 : 10 000 a na podkladě katastrální mapy, včetně elektronické podoby, jsou uloženy na Správě Chráněné krajinné oblasti Český ráj se sídlem v Turnově a v ústředním seznamu ochrany přírody (§ 42 zákona). Zobrazení zón ochrany přírody na podkladě Základní mapy České republiky 1 : 10 000 a na podkladě katastrální mapy v elektronické podobě jsou uloženy na Ministerstvu životního prostředí v Praze. Zákresy zón ochrany přírody na podkladě katastrální mapy pro jednotlivé správní obvody obcí, na jejichž území zasahuje Chráněná krajinná oblast Český ráj, jsou uloženy na obecních úřadech dotčených obcí.
+
+(3) Mapové podklady, na kterých jsou zóny zakresleny, jsou přílohou této vyhlášky.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2005.
+
+Ministr:
+
+RNDr. Ambrozek v. r.
+
+### Příloha k vyhlášce č. 488/2004 Sb.
+
+#### Odstupňovaná ochrana přírody v CHKO Český ráj
+
+#### ![sbcr2004c168z0488p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/826617/NAHLED/ZOBRAZ/sbcr2004c168z0488p001o001)
+
+---
+
+<sup>1</sup>) Nařízení vlády č. 508/2002 Sb., kterým se vyhlašuje Chráněná krajinná oblast Český ráj.
+
+<sup>2</sup>) § 26 a 27 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 161/1999 Sb., zákona č. 238/1999 Sb. a zákona č. 218/2004 Sb. 
+ § 5 a 6 nařízení vlády č. 508/2002 Sb.

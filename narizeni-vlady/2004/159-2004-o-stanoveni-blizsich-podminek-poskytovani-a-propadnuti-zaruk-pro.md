@@ -1,0 +1,62 @@
+---
+title: "Nařízení vlády č. 159/2004 Sb., o stanovení bližších podmínek poskytování a propadnutí záruk pro zemědělské výrobky"
+identifier: "159/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/159/2004-05-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-03-24
+effective: 2004-05-01
+last_amended: 2004-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/159"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 159/2004 Sb., o stanovení bližších podmínek poskytování a propadnutí záruk pro zemědělské výrobky
+
+159
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 24. března 2004
+
+o stanovení bližších podmínek poskytování a propadnutí záruk pro zemědělské výrobky
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje bližší podmínky poskytování a propadnutí záruk pro zemědělské výrobky, jejichž úpravu bezprostředně závazné právní předpisy Evropských společenství<sup>1</sup>) (dále jen „předpis Evropských společenství“) přikazují nebo umožňují členským státům Evropské unie provést samostatnou úpravou podle jejich uvážení.
+
+## § 2
+
+Kde se v předpisech Evropských společenství<sup>1</sup>) používá pojmu jistota, rozumí se tím pro účely tohoto nařízení záruka.
+
+## § 3
+
+V případě záruky formou složení peněžní částky na účet Státního zemědělského intervenčního fondu (dále jen „Fond“)<sup>2</sup>) bankovním převodem nebo poštovním poukazem je záruka poskytnuta dnem, kdy je příslušná peněžní částka připsána na účet Fondu.
+
+## § 4 – Propadnutí záruky
+
+Při vzniku povinnosti zaplatit úrok z propadlé záruky či její části za stanovené období<sup>3</sup>) činí výše tohoto úroku 0,1 % denně.
+
+## § 5 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Ministr zemědělství:
+
+Ing. Palas v. r.
+
+---
+
+<sup>1</sup>) Nařízení Komise (EHS) č. 2220/1985 ze dne 22. července 1985, kterým se stanoví společná prováděcí pravidla k režimu jistot pro zemědělské produkty, ve znění nařízení Komise (EHS) č. 1181/1987, nařízení Komise (EHS) č. 3745/1989, nařízení Komise (ES) č. 3403/1993 a nařízení Komise (ES) č. 1932/1999.
+
+<sup>2</sup>) § 2b odst. 1 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb. a zákona č. 85/2004 Sb.
+
+<sup>3</sup>) Čl. 29 nařízení Komise (EHS) č. 2220/1985, ve znění nařízení Komise (ES) č. 3403/1993 a nařízení Komise (ES) č. 1932/1999.

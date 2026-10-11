@@ -1,0 +1,89 @@
+---
+title: "Zákon č. 125/2005 Sb., kterým se mění zákon č. 120/2002 Sb., o podmínkách uvádění biocidních přípravků a účinných látek na trh a o změně některých souvisejících zákonů, ve znění zákona č. 186/2004 Sb., a některé další zákony"
+identifier: "125/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/125/2016-10-18"
+type: act
+jurisdiction: cz
+language: cs
+date: 2005-02-22
+effective: 2005-04-01
+last_amended: 2016-10-18
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/125"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 125/2005 Sb., kterým se mění zákon č. 120/2002 Sb., o podmínkách uvádění biocidních přípravků a účinných látek na trh a o změně některých souvisejících zákonů, ve znění zákona č. 186/2004 Sb., a některé další zákony ve znění zákona č. 350/2011 Sb. a zákona č. 324/2016 Sb."
+---
+
+# Zákon č. 125/2005 Sb., kterým se mění zákon č. 120/2002 Sb., o podmínkách uvádění biocidních přípravků a účinných látek na trh a o změně některých souvisejících zákonů, ve znění zákona č. 186/2004 Sb., a některé další zákony
+
+125
+
+ZÁKON
+
+ze dne 22. února 2005,
+
+kterým se mění zákon č. 120/2002 Sb., o podmínkách uvádění biocidních přípravků a účinných látek na trh a o změně některých souvisejících zákonů, ve znění zákona č. 186/2004 Sb., a některé další zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST TŘETÍ – Změna zákona o ochraně veřejného zdraví
+
+### Čl. III
+
+Zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 254/2001 Sb., zákona č. 274/2001 Sb., zákona č. 13/2002 Sb., zákona č. 76/2002 Sb., zákona č. 86/2002 Sb., zákona č. 120/2002 Sb., zákona č. 309/2002 Sb., zákona č. 320/2002 Sb., zákona č. 274/2003 Sb., zákona č. 356/2003 Sb., zákona č. 362/2003 Sb., zákona č. 167/2004 Sb., zákona č. 326/2004 Sb. a zákona č. 562/2004 Sb., se mění takto:
+
+1\. V § 44a odstavec 6 zní:
+
+> „(6) Fyzické osoby starší 15 let a mladší 18 let smějí nakládat s nebezpečnými chemickými látkami nebo chemickými přípravky klasifikovanými jako toxické nebo žíravé jen v rámci přípravy na povolání a pod přímým dozorem odpovědné osoby. S chemickými látkami nebo chemickými přípravky klasifikovanými jako vysoce toxické mohou nakládat jen v rámci přípravy na povolání a pod přímým dohledem osoby s odbornou způsobilostí podle § 44b odst. 1.“.
+
+2\. V § 44b odst. 1 písm. a) bodu 3 se slova „a mají ve svém výkazu o studiu potvrzeno úspěšné vykonání zkoušky z toxikologie“ zrušují.
+
+## ČÁST ČTVRTÁ – Změna zákona o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta
+
+### Čl. IV
+
+Zákon č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, se mění takto:
+
+1\. V § 3 odstavec 2 zní:
+
+> „(2) V odůvodněných případech na vyžádání zaměstnavatele, jde-li o zaměstnance, a správního úřadu, který zdravotnickému pracovníkovi vydal oprávnění k provozování zdravotnického zařízení podle zvláštního právního předpisu<sup>3</sup>), jde-li o zdravotnického pracovníka poskytujícího zdravotní péči vlastním jménem, je zdravotnický pracovník povinen doložit zdravotní způsobilost k výkonu povolání lékařským posudkem, který vydává registrující praktický lékař nebo lékař závodní preventivní péče.“.
+
+2\. V § 3 odstavec 3 zní:
+
+> „(3) Za bezúhonného se pro účely tohoto zákona považuje ten, kdo nebyl pravomocně odsouzen k nepodmíněnému trestu odnětí svobody pro úmyslný trestný čin spáchaný v souvislosti s poskytováním zdravotní péče, nebo ten, na něhož se hledí, jako by nebyl odsouzen<sup>4</sup>). Bezúhonnost se dokládá výpisem z evidence Rejstříku trestů, který nesmí být starší 90 dnů. Doklad o bezúhonnosti se vyžaduje vždy před zahájením výkonu zdravotnického povolání, a v odůvodněných případech též na vyžádání zaměstnavatele, jde-li o zaměstnance, nebo správního úřadu, který lékaři, zubnímu lékaři nebo farmaceutovi vydal oprávnění k provozování zdravotnického zařízení podle zvláštního právního předpisu<sup>3</sup>).“.
+
+3\. V § 28 se slova „a prováděcího právního předpisu“ zrušují.
+
+4\. V § 37 se slova „§ 3 odst. 2,“ zrušují.
+
+## ČÁST PÁTÁ – Změna zákona o nelékařských zdravotnických povoláních
+
+### Čl. V
+
+Zákon č. 96/2004 Sb., o podmínkách získávání a uznávání způsobilosti k výkonu nelékařských zdravotnických povolání a k výkonu činností souvisejících s poskytováním zdravotní péče a o změně některých souvisejících zákonů (zákon o nelékařských zdravotnických povoláních), se mění takto:
+
+1\. V § 3 odstavec 2 zní:
+
+> „(2) Zdravotnický pracovník a jiný odborný pracovník na vyžádání zaměstnavatele, jde-li o zaměstnance, a zdravotnický pracovník, který poskytuje zdravotní péči vlastním jménem, na vyžádání správního úřadu, který mu vydal oprávnění k provozování zdravotnického zařízení podle zvláštního právního předpisu<sup>4</sup>), je v odůvodněných případech povinen doložit zdravotní způsobilost k výkonu povolání lékařským posudkem<sup>3</sup>), který vydává registrující praktický lékař nebo lékař závodní preventivní péče.“.
+
+2\. V § 3 odstavec 3 zní:
+
+> „(3) Za bezúhonného se pro účely tohoto zákona považuje ten, kdo nebyl pravomocně odsouzen k nepodmíněnému trestu odnětí svobody pro úmyslný trestný čin spáchaný v souvislosti s poskytováním zdravotní péče, nebo ten, na něhož se hledí, jako by nebyl odsouzen<sup>5</sup>). Doklad o bezúhonnosti se vyžaduje vždy před zahájením výkonu povolání zdravotnického pracovníka a jiného odborného pracovníka nebo též v jiných odůvodněných případech; zdravotnický pracovník a jiný odborný pracovník na vyžádání zaměstnavatele, jde-li o zaměstnance, a zdravotnický pracovník, který poskytuje zdravotní péči vlastním jménem, na vyžádání správního úřadu, který mu vydal oprávnění k provozování zdravotnického zařízení podle zvláštního právního předpisu<sup>4</sup>), je povinen doložit svoji bezúhonnost výpisem z evidence Rejstříku trestů, který nesmí být starší 3 měsíců.“.
+
+3\. V § 79 se slova „a prováděcího právního předpisu“ zrušují.
+
+4\. V § 90 odst. 2 se písmeno e) zrušuje.
+
+Dosavadní písmeno f) se označuje jako písmeno e).
+
+## ČÁST ŠESTÁ – ÚČINNOST
+
+### Čl. VI
+
+Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Gross v. r.

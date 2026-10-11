@@ -1,0 +1,189 @@
+---
+title: "Zákon č. 73/2006 Sb., kterým se mění zákon č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů, ve znění zákona č. 436/2004 Sb."
+identifier: "73/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/73/2006-04-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2006-02-03
+effective: 2006-04-01
+last_amended: 2006-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/73"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 73/2006 Sb., kterým se mění zákon č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů, ve znění zákona č. 436/2004 Sb.
+
+73
+
+ZÁKON
+
+ze dne 3. února 2006,
+
+kterým se mění zákon č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů, ve znění zákona č. 436/2004 Sb.
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů, ve znění zákona č. 436/2004 Sb., se mění takto:
+
+1\. Vkládá se nový § 1, který včetně poznámky pod čarou č. 1 zní:
+
+> **„§ 1**
+
+> Tento zákon zapracovává příslušné předpisy Evropských společenství<sup>1</sup>) a upravuje ochranu zaměstnanců při platební neschopnosti zaměstnavatele.
+
+> <sup>1</sup>) Směrnice Rady 80/987/EHS ze dne 20. října 1980 o sbližování právních předpisů členských států týkajících se ochrany zaměstnanců v případě platební neschopnosti zaměstnavatele. 
+>  Směrnice Evropského parlamentu a Rady 2002/74/ES ze dne 23. září 2002, kterou se mění směrnice Rady 80/987/EHS o sbližování právních předpisů členských států týkajících se ochrany zaměstnanců v případě platební neschopnosti zaměstnavatele.“.
+
+Dosavadní § 1 se označuje jako § 1a.
+
+Dosavadní poznámka pod čarou č. 1 se označuje jako poznámka pod čarou č. 1a, a to včetně odkazů na poznámku pod čarou.
+
+2\. V § 2 odst. 1 se na konci písmene b) čárka nahrazuje tečkou a písmeno c) se zrušuje.
+
+3\. V § 2 se za odstavec 1 vkládá nový odstavec 2, který zní:
+
+> „(2) Zákon se dále nevztahuje na zaměstnance, kteří byli vysláni k výkonu práce do České republiky, pokud jejich zaměstnavatel, který je právnickou osobou, má sídlo nebo zaměstnavatel, který je fyzickou osobou, má místo podnikání mimo území některého členského státu Evropské unie.“.
+
+Dosavadní odstavec 2 se označuje jako odstavec 3.
+
+4\. V § 3 písmeno a) zní:
+
+> „a) se zaměstnancem rozumí fyzická osoba, s níž zaměstnavatel sjednal pracovní poměr nebo dohodu o pracovní činnosti, na základě kterých jí vznikly v době 6 měsíců předcházejících měsíci, ve kterém byl podán návrh na prohlášení konkursu (dále jen „rozhodné období“), mzdové nároky nevyplacené zaměstnavatelem,“.
+
+5\. V § 3 písm. c) se slova „u příslušného soudu podán návrh na prohlášení konkursu podle zvláštního právního předpisu<sup>5</sup>)“ nahrazují slovy „podán návrh na prohlášení konkursu u příslušného soudu v České republice<sup>5</sup>), nebo u nadnárodního zaměstnavatele také dnem, kdy byl prohlášen za platebně neschopného u příslušného orgánu v jiném členském státě Evropské unie<sup>5a</sup>)“.
+
+Poznámky pod čarou č. 5 a 5a znějí:
+
+> „<sup>5</sup>) § 4 a 4a zákona č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů.
+
+> <sup>5a</sup>) Nařízení Rady (ES) č. 1346/2000 ze dne 29. května 2000 o úpadkovém řízení.“.
+
+6\. V § 3 se na konci písmene c) tečka nahrazuje čárkou a doplňuje se písmeno d), které zní:
+
+> „d) je nadnárodním zaměstnavatelem zaměstnavatel, který vedle provozování činnosti na území České republiky provozuje činnost na území nejméně jednoho dalšího členského státu Evropské unie.“.
+
+7\. Za § 3 se vkládá nový § 3a, který zní:
+
+> **„§ 3a**
+
+> Mzdové nároky zaměstnanců nadnárodního zaměstnavatele, který je v platební neschopnosti, je úřad práce povinen uspokojit pouze tehdy, pokud zaměstnanci tohoto nadnárodního zaměstnavatele v rozhodném období vykonávali práci v České republice.“.
+
+8\. V § 4 odst. 1 se věta druhá nahrazuje větou „Pokud mzdové nároky uplatňuje zaměstnanec, který se v České republice nezdržuje, je povinen zvolit si v České republice zástupce pro doručování písemností a tuto skutečnost, spolu s číslem účtu vedeným u peněžního ústavu, sdělit úřadu práce při uplatňování mzdových nároků<sup>5b</sup>).“.
+
+Poznámka pod čarou č. 5b zní:
+
+> „<sup>5b</sup>) Zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů.“.
+
+9\. V § 4 odst. 2 se na konci písmene b) doplňují slova „nebo v jehož obvodu je umístěna organizační složka nadnárodního zaměstnavatele, který nemá sídlo na území České republiky“.
+
+10\. V § 4 odst. 4 větě první se za slova „nejpozději do 5“ vkládá slovo „pracovních“.
+
+11\. V § 4 odst. 4 větě třetí se za slovo „následující“ vkládá slovo „pracovní“.
+
+12\. V § 4 odst. 5 se za slova „návrh na prohlášení konkursu“ vkládají slova „odmítne<sup>5c</sup>) nebo“.
+
+Poznámka pod čarou č. 5c zní:
+
+> „<sup>5c</sup>) § 43 odst. 2 občanského soudního řádu.“.
+
+13\. V § 5 odstavec 1 zní:
+
+> „(1) Mzdové nároky může zaměstnanec uplatnit nejvýše v rozsahu odpovídajícím splatným mzdovým nárokům za 3 měsíce rozhodného období. Doba 3 měsíců se počítá zpětně od prvního dne kalendářního měsíce, ve kterém byl podán návrh na prohlášení konkursu. Úřad práce může uspokojit mzdové nároky zaměstnance uplatněné vůči jednomu a témuž zaměstnavateli v období 1 roku pouze jednou.“.
+
+14\. V § 5 odst. 2 se slova „§ 9 odst. 6“ nahrazují slovy „§ 9 odst. 7“.
+
+15\. V § 6 se slova „a zároveň prokáže trvání pracovního poměru nebo dohody o pracovní činnosti nebo jejich skončení v rozhodném období“ zrušují.
+
+16\. V § 7 odst. 1 se za slova „nejpozději do 14 dnů“ vkládají slova „od doručení výzvy“.
+
+17\. V § 8 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Uplatnil-li zaměstnanec mzdové nároky ve lhůtě podle § 4 odst. 5 a od písemného vykázání dlužných mzdových nároků zaměstnavatelem nebo správcem uplynulo více než 10 dnů, oznámí úřad práce příslušný k rozhodování o mzdovém nároku zaměstnanci termín, způsob uspokojení nároků a údaj o období, za které mzdové nároky uspokojí, a dá peněžnímu ústavu příkaz k úhradě do 10 dnů ode dne, kdy obdržel žádost zaměstnance.“.
+
+18\. V § 9 se na konci textu odstavce 1 doplňují slova „platné ke dni podání návrhu na prohlášení konkursu<sup>11</sup>)“.
+
+19\. V § 9 odst. 4 se za slova „v § 7“ vkládají slova „a zaměstnanec při uplatnění mzdových nároků nepředložil doklady, které jejich výši prokazatelně osvědčují“.
+
+20\. V § 9 se za odstavec 4 vkládá nový odstavec 5, který včetně poznámky pod čarou č. 11a zní:
+
+> „(5) Úřad práce podle odstavce 1 nebo 4 přizná zaměstnanci měsíční mzdový nárok ve výši částky rovnající se minimální mzdě i v případě, kdy zaměstnanec nevykonával v kalendářním měsíci práci v rozsahu stanovené týdenní pracovní doby<sup>11a</sup>), avšak pouze za předpokladu, že poměrný mzdový nárok odpovídající kratší odpracované době této částky dosáhne nebo ji převýší. Jestliže zaměstnanec, jemuž je přiznáván mzdový nárok podle odstavce 1 nebo 4, uplatňuje nižší částku, než činí minimální mzda, přizná mu úřad práce mzdový nárok v uplatněné výši.
+
+> <sup>11a</sup>) § 83a odst. 5 zákoníku práce.“.
+
+Dosavadní odstavce 5 až 7 se označují jako odstavce 6 až 8.
+
+21\. V § 9 odst. 7 se za slova „nejpozději do 7“ vkládá slovo „pracovních“.
+
+22\. V § 9 odst. 8 se za slova „nejpozději do 5“ vkládá slovo „pracovních“ a číslo „6“ se nahrazuje číslem „7“.
+
+23\. V § 10 odstavec 1 zní:
+
+> „(1) Úřad práce před uspokojením mzdových nároků podle § 8 z nich provede srážky a odvody podle zvláštních právních předpisů<sup>9</sup>), které měl provést zaměstnavatel za zaměstnance za příslušná měsíční období. Jestliže úřad práce rozhodl o mzdovém nároku podle § 9, provede srážky a odvody podle zvláštních právních předpisů z přiznaného mzdového nároku.“.
+
+24\. V § 10 se za odstavec 2 vkládá nový odstavec 3, který zní:
+
+> „(3) Úřad práce oznámí bez zbytečného odkladu zaměstnavateli, kterým zaměstnancům a v jaké výši mzdové nároky uspokojil.“.
+
+Dosavadní odstavec 3 se označuje jako odstavec 4.
+
+25\. V § 11 odst. 3 se za slovo „vyplacených“ vkládají slova „a odvedených“ a slova „(§ 8 a 9)“ se nahrazují slovy „(§ 8 až 10)“.
+
+26\. V § 12 odst. 1 se slova „, včetně úroků z prodlení“ zrušují.
+
+27\. V § 12 odst. 1 písm. c) se slova „nedošlo k potvrzení“ nahrazují slovy „nedošlo ke splnění“.
+
+28\. V § 12 se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno d), které zní:
+
+> „d) byl odmítnut návrh na prohlášení konkursu<sup>5c</sup>).“.
+
+29\. Poznámka pod čarou č. 16 zní:
+
+> „<sup>16</sup>) § 4a odst. 4 zákona č. 328/1991 Sb., ve znění pozdějších předpisů.“.
+
+30\. V § 12 odstavec 2 včetně poznámek pod čarou č. 18 a 18a zní:
+
+> „(2) Povinnost vrátit finanční prostředky v případech uvedených v odstavci 1 písm. c) vzniká zaměstnavateli pouze tehdy, pokud ke zrušení konkursu došlo proto, že bylo soudem zjištěno, že nejsou předpoklady pro prohlášení konkursu<sup>18</sup>), s výjimkou zrušení konkursu z důvodu, že majetek úpadce nepostačuje k úhradě nákladů konkursu<sup>18a</sup>), jehož důsledkem je zrušení zaměstnavatele bez likvidace.
+
+> <sup>18</sup>) § 44 odst. 1 písm. a) zákona č. 328/1991 Sb.
+
+> <sup>18a</sup>) § 68 odst. 3 písm. f) obchodního zákoníku.“.
+
+31\. V § 12 odstavec 3 zní:
+
+> „(3) Jestliže zaměstnavatel neuhradil úřadu práce finanční prostředky ve lhůtě uvedené v odstavci 1, je v prodlení. Po marném uplynutí této lhůty je povinen uhradit úroky z prodlení.“.
+
+32\. V § 13 se za slova „uhradit úřadu práce“ vkládají slova „vyplacené a odvedené“ a za slova „zaměstnanci přiznány“ se vkládají slova „a poskytnuty“.
+
+33\. V § 13 se slovo „přiznal“ nahrazuje slovy „vyplatil a odvedl“.
+
+34\. Na konci § 13 se doplňuje věta „Úroky z prodlení se uplatňují ode dne výplaty zaměstnanci a odvodu finančních prostředků podle zvláštních právních předpisů<sup>9</sup>).“.
+
+35\. Na konci § 14 se doplňuje věta „Úroky z prodlení se uplatňují ode dne výplaty zaměstnanci.“.
+
+36\. Za § 14 se vkládá nový § 14a, který zní:
+
+> **„§ 14a**
+
+> Ministerstvo práce a sociálních věcí sdělí na žádost subjektů z členských států Evropské unie, které uspokojují mzdové nároky zaměstnanců zaměstnavatele v platební neschopnosti, informace<sup>5a</sup>) týkající se úhrady nesplacených mzdových nároků zaměstnanců nadnárodního zaměstnavatele v rámci řízení podle tohoto zákona.“.
+
+## Čl. II – Přechodné ustanovení
+
+O žádostech zaměstnanců o uspokojení mzdových nároků, které se vztahují k návrhům na prohlášení konkursu podaným přede dnem nabytí účinnosti tohoto zákona, rozhodne příslušný úřad práce podle dosavadních právních předpisů.
+
+## Čl. III
+
+Předseda vlády se zmocňuje, aby ve Sbírce zákonů vyhlásil úplné znění zákona č. 118/2000 Sb., o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů, jak vyplývá ze zákonů jej měnících.
+
+## Čl. IV – Účinnost
+
+Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Paroubek v. r.

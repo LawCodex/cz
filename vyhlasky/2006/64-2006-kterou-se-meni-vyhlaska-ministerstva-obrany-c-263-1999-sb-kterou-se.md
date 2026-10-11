@@ -1,0 +1,48 @@
+---
+title: "Vyhláška č. 64/2006 Sb., kterou se mění vyhláška Ministerstva obrany č. 263/1999 Sb., kterou se stanoví důvody pro poskytování služebního volna vojákům z povolání pro překážky ve službě a rozsah služebního volna, ve znění vyhlášky č. 105/2005 Sb."
+identifier: "64/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/64/2006-03-10"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-02-28
+effective: 2006-03-10
+last_amended: 2006-03-10
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/64"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 64/2006 Sb., kterou se mění vyhláška Ministerstva obrany č. 263/1999 Sb., kterou se stanoví důvody pro poskytování služebního volna vojákům z povolání pro překážky ve službě a rozsah služebního volna, ve znění vyhlášky č. 105/2005 Sb.
+
+64
+
+VYHLÁŠKA
+
+ze dne 28. února 2006,
+
+kterou se mění vyhláška Ministerstva obrany č. 263/1999 Sb., kterou se stanoví důvody pro poskytování služebního volna vojákům z povolání pro překážky ve službě a rozsah služebního volna, ve znění vyhlášky č. 105/2005 Sb.
+
+Ministerstvo obrany stanoví podle § 39 odst. 5 zákona č. 221/1999 Sb., o vojácích z povolání:
+
+## Čl. I
+
+Příloha č. 2 k vyhlášce č. 263/1999 Sb., ve znění vyhlášky č. 105/2005 Sb., se mění takto:
+
+1\. V bodě 7 písm. b) se za slovo „obce“ vkládají slova „nebo při přepravě osobních věcí a rodinných příslušníků na pracoviště v zahraničí a zpět“.
+
+2\. V bodě 8 větě první se za slova „po dobu 3 měsíců“ doplňují slova „před zánikem služebního poměru uplynutím stanovené doby nebo“.
+
+3\. Za bod 12 se doplňuje bod 13, který zní:
+
+> „13. Návrat vojáka ze služby v jednotkách mnohonárodních ozbrojených sil v zahraničí
+
+> Služební volno se poskytne jednorázově na dobu 3 dnů po sobě jdoucích, nejpozději do 30 dnů ode dne návratu ze zahraničí.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministr:
+
+JUDr. Kühnl v. r.

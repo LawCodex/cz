@@ -1,0 +1,322 @@
+---
+title: "Zákon č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti)"
+identifier: "480/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/480/2023-03-23"
+type: act
+jurisdiction: cz
+language: cs
+date: 2004-07-29
+effective: 2004-09-07
+last_amended: 2023-03-23
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/480"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti) ve znění zákona č. 444/2005 Sb., zákona č. 214/2006 Sb., zákona č. 160/2007 Sb., zákona č. 281/2009 Sb., zákona č. 375/2011 Sb., zákona č. 468/2011 Sb., zákona č. 89/2012 Sb., zákona č. 183/2017 Sb., zákona č. 110/2019 Sb., zákona č. 238/2020 Sb. a zákona č. 58/2023 Sb."
+---
+
+# Zákon č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti)
+
+480
+
+ZÁKON
+
+ze dne 29. července 2004
+
+o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti)
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – O NĚKTERÝCH SLUŽBÁCH INFORMAČNÍ SPOLEČNOSTI
+
+### § 1 – Předmět úpravy
+
+Tento zákon zapracovává příslušné předpisy Evropské unie<sup>1</sup>), zároveň navazuje na přímo použitelný předpis Evropské unie upravující podporu spravedlnosti a transparentnosti pro podnikatelské uživatele online zprostředkovatelských služeb<sup>4</sup>) (dále jen „nařízení“) a upravuje odpovědnost a práva a povinnosti osob, které poskytují služby informační společnosti a šíří obchodní sdělení.
+
+### § 2
+
+Pro účely tohoto zákona se rozumí
+
+a) službou informační společnosti jakákoliv služba poskytovaná elektronickými prostředky na individuální žádost uživatele podanou elektronickými prostředky, poskytovaná zpravidla za úplatu; služba je poskytnuta elektronickými prostředky, pokud je odeslána prostřednictvím sítě elektronických komunikací a vyzvednuta uživatelem z elektronického zařízení pro ukládání dat,
+
+b) elektronickou poštou textová, hlasová, zvuková nebo obrazová zpráva poslaná prostřednictvím veřejné sítě elektronických komunikací, která může být uložena v síti nebo v koncovém zařízení uživatele, dokud ji uživatel nevyzvedne,
+
+c) elektronickými prostředky zejména síť elektronických komunikací, elektronická komunikační zařízení, automatické volací a komunikační systémy, telekomunikační koncová zařízení a elektronická pošta,
+
+d) poskytovatelem služby každá fyzická nebo právnická osoba, která poskytuje některou ze služeb informační společnosti,
+
+e) uživatelem každá fyzická nebo právnická osoba, která využívá službu informační společnosti, zejména za účelem vyhledávání či zpřístupňování informací,
+
+f) obchodním sdělením všechny formy sdělení, včetně reklamy a vybízení k návštěvě internetových stránek, určeného k přímé či nepřímé podpoře zboží či služeb nebo image podniku osoby, která je podnikatelem<sup>3</sup>) nebo vykonává regulovanou činnost<sup>2</sup>).
+
+g) automatickým krátkodobě dočasným ukládáním ukládání informací poskytnutých uživatelem, ke kterému dochází výhradně za účelem uskutečnění přenosu prostřednictvím sítě elektronických komunikací, přičemž doba uložení informace nepřesahuje dobu, která je pro zajištění přenosu obvyklá,
+
+h) automatickým dočasným meziukládáním ukládání informací poskytnutých uživatelem, které slouží výhradně pro co možná nejúčinnější následný přenos těchto informací na žádost jiných uživatelů.
+
+**Odpovědnost poskytovatelů zprostředkovatelských služeb**
+
+### § 3 – Odpovědnost poskytovatele služby za obsah přenášených informací
+
+(1) Poskytovatel služby, jež spočívá v přenosu informací poskytnutých uživatelem prostřednictvím sítí elektronických komunikací nebo ve zprostředkování přístupu k sítím elektronických komunikací za účelem přenosu informací, odpovídá za obsah přenášených informací, jen pokud
+
+a) přenos sám iniciuje,
+
+b) zvolí uživatele přenášené informace, nebo
+
+c) zvolí nebo změní obsah přenášené informace.
+
+(2) Přenos informací a zprostředkování přístupu podle odstavce 1 zahrnuje také automatické krátkodobě dočasné ukládání přenášených informací.
+
+### § 4 – Odpovědnost poskytovatele služby za obsah automaticky dočasně meziukládaných informací
+
+Poskytovatel služby, jež spočívá v přenosu informací poskytnutých uživatelem, odpovídá za obsah informací automaticky dočasně meziukládaných, jen pokud
+
+a) změní obsah informace,
+
+b) nevyhoví podmínkám přístupu k informaci,
+
+c) nedodržuje pravidla o aktualizaci informace, která jsou obecně uznávána a používána v příslušném odvětví,
+
+d) překročí povolené používání technologie obecně uznávané a používané v příslušném odvětví s cílem získat údaje o užívání informace, nebo
+
+e) ihned nepřijme opatření vedoucí k odstranění jím uložené informace nebo ke znemožnění přístupu k ní, jakmile zjistí, že informace byla na výchozím místě přenosu ze sítě odstraněna nebo k ní byl znemožněn přístup nebo soud nařídil stažení či znemožnění přístupu k této informaci.
+
+### § 5 – Odpovědnost poskytovatele služby za ukládání obsahu informací poskytovaných uživatelem
+
+(1) Poskytovatel služby, jež spočívá v ukládání informací poskytnutých uživatelem, odpovídá za obsah informací uložených na žádost uživatele, jen
+
+a) mohl-li vzhledem k předmětu své činnosti a okolnostem a povaze případu vědět, že obsah ukládaných informací nebo jednání uživatele jsou protiprávní, nebo
+
+b) dozvěděl-li se prokazatelně o protiprávní povaze obsahu ukládaných informací nebo o protiprávním jednání uživatele a neprodleně neučinil veškeré kroky, které lze po něm požadovat, k odstranění nebo znepřístupnění takovýchto informací.
+
+(2) Poskytovatel služby uvedený v odstavci 1 odpovídá vždy za obsah uložených informací v případě, že vykonává přímo nebo nepřímo rozhodující vliv na činnost uživatele.
+
+### § 6
+
+Poskytovatelé služeb uvedení v § 3 až 5 nejsou povinni
+
+a) dohlížet na obsah jimi přenášených nebo ukládaných informací,
+
+b) aktivně vyhledávat skutečnosti a okolnosti poukazující na protiprávní obsah informace.
+
+**Šíření obchodních sdělení**
+
+### § 7
+
+(1) Obchodní sdělení lze šířit elektronickými prostředky jen za podmínek stanovených tímto zákonem.
+
+(2) Podrobnosti elektronického kontaktu lze za účelem šíření obchodních sdělení elektronickými prostředky využít pouze ve vztahu k uživatelům, kteří k tomu dali předchozí souhlas.
+
+(3) Nehledě na odstavec 2, pokud fyzická nebo právnická osoba získá od svého zákazníka podrobnosti jeho elektronického kontaktu pro elektronickou poštu v souvislosti s prodejem výrobku nebo služby podle požadavků ochrany osobních údajů upravených zvláštním právním předpisem<sup>5</sup>) nebo přímo použitelným předpisem Evropské unie<sup>6</sup>), může tato fyzická či právnická osoba využít tyto podrobnosti elektronického kontaktu pro potřeby šíření obchodních sdělení týkajících se jejích vlastních obdobných výrobků nebo služeb za předpokladu, že zákazník má jasnou a zřetelnou možnost jednoduchým způsobem, zdarma nebo na účet této fyzické nebo právnické osoby odmítnout souhlas s takovýmto využitím svého elektronického kontaktu i při zasílání každé jednotlivé zprávy, pokud původně toto využití neodmítl.
+
+(4) Zaslání elektronické pošty za účelem šíření obchodního sdělení je zakázáno, pokud
+
+a) tato není zřetelně a jasně označena jako obchodní sdělení,
+
+b) skrývá nebo utajuje totožnost odesílatele, jehož jménem se komunikace uskutečňuje, nebo
+
+c) je zaslána bez platné adresy, na kterou by mohl adresát přímo a účinně zaslat informaci o tom, že si nepřeje, aby mu byly obchodní informace odesílatelem nadále zasílány.
+
+**Regulované činnosti**
+
+### § 8
+
+(1) Osoby vykonávající regulované činnosti mohou za použití elektronických prostředků v rámci činností, které jsou obsahem regulované činnosti, šířit obchodní sdělení, a to v souladu s § 7 a v souladu s příslušnými pravidly vydávanými obchodními, profesními a spotřebitelskými sdruženími, která upravují zejména nezávislost, důstojnost, čest povolání a poctivý přístup k zákazníkům.
+
+(2) Osoby vykonávající regulované činnosti, jež nejsou členy profesních samosprávných komor zřízených zákonem, při šíření obchodních sdělení za použití elektronických prostředků v rámci činností, které jsou obsahem regulované činnosti, postupují v souladu s § 7.
+
+(3) Obchodní sdělení osob vykonávajících regulované činnosti musí obsahovat název profesní samosprávné komory zřízené zákonem, u níž je osoba vykonávající regulovanou činnost zapsána, odkaz na profesní pravidla uplatňovaná v členském státu Evropské unie, v němž je osoba vykonávající regulovanou činnost usazena, a způsob trvalého veřejného přístupu k informacím o příslušné profesní samosprávné komoře zřízené zákonem, jejímž je osoba vykonávající regulovanou činnost členem.
+
+**Vnitřní trh**
+
+### § 9
+
+(1) Na poskytovatele služby, který poskytuje služby prostřednictvím podniku nebo organizační složky umístěné na území České republiky, se použijí ustanovení tohoto zákona a zvláštních právních předpisů upravujících podmínky zahájení a výkonu činnosti, která je předmětem poskytované služby, zejména právních předpisů upravujících vznik podnikatelského oprávnění, požadavky na odbornou způsobilost, požadavky na obsah a kvalitu poskytované služby a odpovědnost poskytovatele služby za porušení těchto povinností.
+
+(2) Na poskytovatele služby, který je usazen v jiném členském státě Evropské unie a poskytujícího tuto službu na území České republiky, se nevztahují právní předpisy uvedené v odstavci 1, pokud tento zákon nebo zvláštní právní předpis nestanoví jinak.
+
+(3) Ustanovením odstavce 2 nejsou dotčeny povinnosti poskytovatele služby vyplývající ze zvláštních právních předpisů na ochranu veřejného pořádku, veřejného zdraví, bezpečnosti státu a ochranu spotřebitele.
+
+(4) Dříve, než soud nebo jiný orgán příslušný k zajištění plnění nebo vynucení povinností poskytovatele služby vyplývající ze zvláštních právních předpisů na ochranu veřejného pořádku, veřejného zdraví, bezpečnosti státu a ochranu spotřebitele učiní nezbytná opatření, informuje o tom Komisi Evropských společenství (dále jen „Komise“) a požádá členský stát Evropské unie, v němž je poskytovatel služby usazen, o přijetí takových opatření, která budou mít za následek, že soud již nebude muset činit opatření podle tohoto odstavce.
+
+(5) Jestliže se v naléhavých případech soud odchýlí od odstavce 4, podá o této skutečnosti bez zbytečného odkladu informaci s odůvodněním Komisi a členskému státu Evropské unie, v němž je poskytovatel služby usazen.
+
+**Dozor nad dodržováním zákona**
+
+### § 10
+
+(1) Orgánem příslušným k výkonu dozoru nad dodržováním tohoto zákona (dále jen „orgán dozoru“) je
+
+a) pro šíření obchodních sdělení podle § 7 Úřad pro ochranu osobních údajů,
+
+b) pro povinnosti vyplývající z § 8 odst. 3 příslušná profesní samosprávná komora zřízená zákonem.
+
+(2) Orgán dozoru působí jako kontaktní místo pro členské státy Evropské unie a Komisi.
+
+(3) Kontaktní místo pro členské státy Evropské unie a Komisi
+
+a) podává obecné informace o smluvních právech a povinnostech, jakož i o postupech pro podávání stížností a pro opravné prostředky v případě sporů včetně praktických aspektů využívání těchto postupů,
+
+b) poskytuje údaje o orgánech, sdruženích nebo subjektech, od nichž lze získat další informace či praktickou pomoc.
+
+(4) Při výkonu dozoru postupují orgány dozoru uvedené v odstavci 1 písm. b) podle zvláštních právních předpisů.<sup>7</sup>)
+
+### § 10a – Dozor nad dodržováním nařízení
+
+Dozor nad dodržováním povinností stanovených v nařízení provádí Český telekomunikační úřad.
+
+### § 10b – Upozornění na porušení nařízení
+
+(1) Český telekomunikační úřad v případě méně závažného porušení povinnosti stanovené nařízením poskytovatelem online zprostředkovatelských služeb nebo poskytovatelem internetového vyhledávače vždy upozorní tohoto poskytovatele na porušení nařízení a vyzve jej k nápravě ve lhůtě přiměřené charakteru porušené povinnosti, která nesmí být kratší než 15 dnů ode dne doručení upozornění.
+
+(2) Pokud poskytovatel online zprostředkovatelských služeb nebo poskytovatel internetového vyhledávače, který byl upozorněn na porušení nařízení, zjedná ve stanovené lhůtě nápravu, bez zbytečného odkladu tuto skutečnost a způsob zjednání nápravy písemně oznámí Českému telekomunikačnímu úřadu.
+
+(3) Po marném uplynutí lhůty k nápravě podle odstavce 1 zahájí Český telekomunikační úřad řízení o přestupku.
+
+**Přestupky**
+
+### § 11
+
+(1) Fyzická osoba se dopustí přestupku tím, že bez souhlasu adresáta hromadně nebo opakovaně šíří elektronickými prostředky obchodní sdělení.
+
+(2) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+
+a) hromadně nebo opakovaně šíří elektronickými prostředky obchodní sdělení
+
+1\. bez souhlasu adresáta,
+
+2\. neoznačené jasně a zřetelně jako obchodní sdělení,
+
+3\. skrývající nebo utajující totožnost odesílatele, jehož jménem se komunikace uskutečnila,
+
+4\. neobsahující platnou adresu, na niž by adresát mohl odeslat žádost o ukončení takové komunikace, nebo
+
+5\. bez toho, že by zákazníkovi poskytla možnost jasně, zřetelně, jednoduchým způsobem, zdarma nebo na svůj účet udělit či odmítnout souhlas s využitím jeho elektronického kontaktu při zaslání každé jednotlivé zprávy,
+
+b) vykonává regulovanou činnost a její obchodní sdělení neobsahuje název profesní samosprávné komory zřízené zákonem, u níž je zapsána,
+
+c) vykonává regulovanou činnost a její obchodní sdělení neobsahuje odkaz na profesní pravidla uplatňovaná v členském státu Evropské unie, v němž je usazena, nebo
+
+d) vykonává regulovanou činnost a její obchodní sdělení neobsahuje způsob trvalého veřejného přístupu k informacím o příslušné profesní samosprávné komoře zřízené zákonem, jejímž je členem.
+
+(3) Právnická nebo podnikající fyzická osoba se jako poskytovatel online zprostředkovatelských služeb dopustí přestupku tím, že
+
+a) nezajistí, aby podmínky splňovaly požadavky stanovené v čl. 3 odst. 1 nařízení,
+
+b) v rozporu s čl. 3 odst. 2 nařízení neoznámí podnikatelským uživatelům změny svých podmínek na trvalém nosiči nebo provede navržené změny dříve, než uplyne lhůta pro jejich oznámení,
+
+c) nezajistí jasnou viditelnost identity podnikatelského uživatele poskytujícího zboží a služby prostřednictvím online zprostředkovatelské služby podle čl. 3 odst. 5 nařízení,
+
+d) omezí, pozastaví nebo ukončí poskytování online zprostředkovatelské služby v rozporu s čl. 4 nařízení,
+
+e) nestanoví ve svých podmínkách hlavní parametry určující pořadí a důvody relativní důležitosti těchto hlavních parametrů v porovnání s ostatními parametry podle čl. 5 odst. 1 nařízení,
+
+f) v rozporu s čl. 6 nařízení neuvede ve svých podmínkách popis druhu nabízeného doplňkového zboží a služeb, včetně finančních produktů, nebo popis toho, zda a za jakých okolností může podnikatelský uživatel nabízet prostřednictvím online zprostředkovatelské služby své vlastní doplňkové zboží a služby,
+
+g) v rozporu s čl. 7 odst. 1 nařízení neuvede ve svých podmínkách popis rozdílného zacházení, které uplatňuje nebo může uplatňovat ve vztahu ke zboží a službám, které spotřebitelům prostřednictvím online zprostředkovatelské služby nabízí buď tento poskytovatel sám nebo jím ovládaní podnikatelští uživatelé anebo jiní podnikatelští uživatelé,
+
+h) nezajistí, aby podmínky byly v souladu s čl. 8 nařízení,
+
+i) v rozporu s čl. 9 odst. 1 neuvede ve svých podmínkách popis technického a smluvního přístupu podnikatelských uživatelů k osobním nebo jiným údajům, které podnikatelští uživatelé nebo spotřebitelé poskytují pro účely používání online zprostředkovatelské služby nebo které jsou vytvářeny při poskytování této služby, nebo neuvede, že technický a smluvní přístup neexistuje,
+
+j) neplní informační povinnost stanovenou v čl. 9 odst. 2 nařízení,
+
+k) v rozporu s čl. 10 nařízení neuvede ve svých podmínkách důvody, na základě kterých lze omezit možnost podnikatelských uživatelů nabízet stejné zboží a služby spotřebitelům za různých podmínek jinými prostředky než prostřednictvím jeho služeb, nebo k nim nezajistí snadný přístup veřejnosti,
+
+l) nezřídí interní systém pro vyřizování stížností podnikatelských uživatelů podle čl. 11 odst. 1 nařízení,
+
+m) neposoudí nebo nevyřídí stížnost nebo neoznámí výsledek vyřízení stížnosti podle čl. 11 odst. 2 nařízení,
+
+n) neuvede ve svých podmínkách veškeré informace o přístupu k jeho internímu systému pro vyřizování stížností nebo o jeho fungování podle čl. 11 odst. 3 nařízení,
+
+o) v rozporu s čl. 11 odst. 4 nařízení nesestaví informace o fungování a efektivnosti svého interního systému pro vyřizování stížností, nezajistí k nim snadný přístup veřejnosti, neověří je alespoň jednou ročně nebo je neaktualizuje v případě významné změny,
+
+p) neuvede ve svých podmínkách mediátory podle čl. 12 nařízení, nebo
+
+q) v rozporu s čl. 12 odst. 6 nařízení nezpřístupní podnikatelskému uživateli informace o fungování a efektivnosti mediace týkající se jeho činnosti.
+
+(4) Právnická nebo podnikající fyzická osoba se jako poskytovatel internetového vyhledávače dopustí přestupku tím, že
+
+a) v rozporu s čl. 5 odst. 2 nařízení nestanoví hlavní parametry a jejich relativní důležitost, neposkytne ve svém internetovém vyhledávači snadno a veřejně přístupný popis těchto parametrů v jasném a srozumitelném jazyce nebo tento popis průběžně neaktualizuje,
+
+b) neumožní uživateli firemních internetových stránek seznámit se s obsahem oznámení podle čl. 5 odst. 4 nařízení, nebo
+
+c) v rozporu s čl. 7 odst. 2 nařízení neuvede popis rozdílného způsobu zacházení, který uplatňuje nebo může uplatňovat ve vztahu ke zboží a službám, které spotřebitelům prostřednictvím internetového vyhledávače nabízí buď tento poskytovatel sám nebo jím ovládaní uživatelé firemních internetových stránek, anebo jiní uživatelé firemních internetových stránek.
+
+(5) Za přestupek lze uložit pokutu do
+
+a) 100 000 Kč, jde-li o přestupek podle odstavce 1,
+
+b) 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. b), c) nebo d), nebo
+
+c) 10 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. a) nebo odstavce 3 nebo 4.
+
+(6) Za přestupek podle odstavce 3 nebo 4 lze spolu s pokutou uložit správní trest zveřejnění rozhodnutí o přestupku.
+
+### § 11a
+
+Poskytovatel služby informační společnosti, jehož obchodní zájmy jsou poškozovány porušováním povinností podle § 7, je oprávněn domáhat se jménem svých zákazníků, jejichž práva byla tímto jednáním poškozena, soudní ochrany. Tím není dotčeno oprávnění zákazníka domáhat se svých nároků u soudu sám.
+
+### § 12
+
+(1) Přestupky podle § 11 odst. 1 a 2 projednává orgán dozoru a přestupky podle § 11 odst. 3 a 4 projednává Český telekomunikační úřad.
+
+(2) Pokuty vybírá orgán, který je uložil. Příjem z pokut, a to i vymožených, je příjmem rozpočtu, ze kterého je hrazena činnost orgánu, který pokutu uložil. Na příjmy z pokut uložených orgánem příslušným k výkonu dozoru podle § 10 odst. 1 písm. b) se pro účely správy jejich placení hledí jako na prostředky veřejného rozpočtu<sup>9</sup>).
+
+(3) Pokuty za přestupky podle § 11 odst. 3 a 4 vymáhá Český telekomunikační úřad.
+
+**Společná ustanovení**
+
+### § 13
+
+Pokud tento zákon nestanoví jinak, vztahuje se na řízení ve věcech upravených tímto zákonem správní řád.<sup>10</sup>)
+
+## ČÁST TŘETÍ – Změna zákona o regulaci reklamy
+
+### § 15
+
+Zákon č. 40/1995 Sb., o regulaci reklamy a o změně a doplnění zákona č. 468/1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů, ve znění zákona č. 258/2000 Sb., zákona č. 231/2001 Sb., zákona č. 256/2001 Sb., zákona č. 138/2002 Sb., zákona č. 320/2002 Sb., zákona č. 132/2003 Sb., zákona č. 217/2004 Sb. a zákona č. 326/2004 Sb., se mění takto:
+
+1\. V § 2 odst. 1 písmeno e) včetně poznámky pod čarou č. 5a) zní:
+
+> „e) šíření nevyžádané reklamy, pokud vede k výdajům adresáta nebo pokud adresáta obtěžuje; na šíření reklamy elektronickými prostředky a jeho omezení se vztahuje zvláštní právní předpis,<sup>5a</sup>) za reklamu, která obtěžuje, se považuje reklama směřující ke konkrétnímu adresátovi za podmínky, že adresát dal předem jasně a srozumitelně najevo, že si nepřeje, aby vůči němu byla nevyžádaná reklama šířena.
+
+> <sup>5a</sup>) § 7 zákona č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti).“.
+
+2\. V § 7 písm. d) se za slova „v ostatních případech“ vkládají slova „, s výjimkou nevyžádané reklamy šířené elektronickými prostředky<sup>32a</sup>) podle zvláštního právního předpisu<sup>5a</sup>)“.
+
+Poznámka pod čarou č. 32a) zní:
+
+> „<sup>32a</sup>) § 2 písm. c) zákona č. 480/2004 Sb., o některých službách informační společnosti a o změně některých zákonů (zákon o některých službách informační společnosti).“.
+
+## ČÁST ŠESTÁ – ÚČINNOST
+
+### § 18
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Gross v. r.
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2000/31/ES ze dne 8. června 2000 o určitých aspektech služeb informační společnosti, zejména elektronického obchodního styku v rámci vnitřního trhu. 
+ Směrnice Evropského parlamentu a Rady 2002/58/ES ze dne 12. července 2002 o zpracování osobních údajů a ochraně soukromí v odvětví elektronických komunikací.
+
+<sup>2</sup>) § 3 písm. f) a g) zákona č. 18/2004 Sb., o uznávání odborné kvalifikace a jiné způsobilosti státních příslušníků členských států Evropské unie a o změně některých zákonů (zákon o uznávání odborné kvalifikace).
+
+<sup>3</sup>) § 420 a 421 zákona č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Nařízení Evropského parlamentu a Rady (EU) 2019/1150 ze dne 20. června 2019 o podpoře spravedlnosti a transparentnosti pro podnikatelské uživatele online zprostředkovatelských služeb.
+
+<sup>5</sup>) Zákon č. 110/2019 Sb., o zpracování osobních údajů.
+
+<sup>6</sup>) Nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů).
+
+<sup>7</sup>) Například zákon č. 254/2000 Sb., o auditorech, ve znění pozdějších předpisů, zákon č. 523/1992 Sb., o daňovém poradenství a Komoře daňových poradců České republiky, ve znění pozdějších předpisů, zákon č. 220/1991 Sb., o České lékařské komoře, České stomatologické komoře a České lékárnické komoře, zákon č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů.
+
+<sup>9</sup>) § 2 odst. 2 zákona č. 280/2009 Sb., daňový řád.
+
+<sup>10</sup>) Zákon č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů.

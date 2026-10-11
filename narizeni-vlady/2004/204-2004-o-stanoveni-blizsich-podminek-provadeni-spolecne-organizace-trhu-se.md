@@ -1,0 +1,95 @@
+---
+title: "Nařízení vlády č. 204/2004 Sb., o stanovení bližších podmínek provádění společné organizace trhu se sušenými krmivy"
+identifier: "204/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/204/2005-05-26"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-04-07
+effective: 2004-05-01
+last_amended: 2005-05-26
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/204"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 204/2004 Sb., o stanovení bližších podmínek provádění společné organizace trhu se sušenými krmivy ve znění nařízení vlády č. 198/2005 Sb."
+---
+
+# Nařízení vlády č. 204/2004 Sb., o stanovení bližších podmínek provádění společné organizace trhu se sušenými krmivy
+
+204
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 7. dubna 2004
+
+o stanovení bližších podmínek provádění společné organizace trhu se sušenými krmivy
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení<sup>1</sup>) upravuje v návaznosti na přímo použitelné předpisy Evropských společenství<sup>1a</sup>) (dále jen „předpisy Evropských společenství“) bližší podmínky provádění společné organizace trhu se sušenými krmivy.
+
+## § 2 – Schválení zpracovatelského podniku
+
+(1) Podnik zpracovávající sušené krmivo postupem stanoveným předpisy Evropských společenství<sup>2</sup>) předloží žádost o schválení jeho postavení jako zpracovatelského podniku Státnímu zemědělskému intervenčnímu fondu (dále jen „Fond“)<sup>3</sup>) v období od 1. do 31. ledna před začátkem příslušného hospodářského roku.<sup>4</sup>)
+
+(2) Žádost o schválení podle odstavce 1 se podává na formuláři vydaném Fondem.
+
+(3) K žádosti podle odstavce 1 je žadatel povinen připojit vedle dokladů podle předpisů Evropských společenství<sup>2</sup>) také doklad, že je podnikatelem podle zvláštního právního předpisu.<sup>5</sup>)
+
+(4) Zpracovatelský podnik oznámí Fondu ve lhůtě stanovené předpisy Evropských společenství<sup>6</sup>) jakoukoliv změnu v dokladech poskytnutých podle odstavce 3.
+
+## § 3 – Schválení nákupčího krmiva pro sušení a mletí
+
+(1) Fyzické a právnické osoby, které splňují podmínky stanovené předpisy Evropských společenství,<sup>7</sup>) předloží Fondu žádost o schválení jejich postavení jako nákupčího krmiva pro sušení a mletí v období od 1. do 31. ledna před začátkem příslušného hospodářského roku.<sup>4</sup>)
+
+(2) Žádost o schválení podle odstavce 1 se podává na formuláři vydaném Fondem.
+
+(3) K žádosti podle odstavce 1 je žadatel povinen připojit doklad, že je podnikatelem podle zvláštního právního předpisu.<sup>5</sup>)
+
+## § 4 – Žádost o dotaci
+
+Žádost o dotaci na zpracování sušeného krmiva se podává na formuláři vydaném Fondem.
+
+## § 5 – Přijetí a opětovné přijetí sušeného krmiva
+
+Zpracovatelský podnik, který přijímá nebo opětovně přijímá do svých prostor sušené krmivo,<sup>8</sup>) informuje o této skutečnosti písemně Fond nejpozději 48 hodin před přijetím nebo opětovným přijetím sušeného krmiva. V informaci uvede předpokládanou hodinu přijetí sušeného krmiva, jeho množství, kvalitu, původ a místo jeho přijetí a důvod přijetí či opětovného přijetí.
+
+## § 6 – Přechodné ustanovení
+
+Žádost podle § 2 odst. 1 nebo § 3 odst. 1 se pro hospodářský rok 2004/2005 podává nejpozději do 15. května 2004.
+
+## § 7 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Ministr zemědělství:
+
+Ing. Palas v. r.
+
+---
+
+<sup>1</sup>) Je vydáno k provedení a v mezích zákona, jehož obsah umožňuje provést úpravu v návaznosti na přímo použitelný předpis Evropských společenství nařízením vlády.
+
+<sup>1a</sup>) Nařízení Rady (ES) č. 1786/2003 ze dne 29. září 2003 o společné organizaci trhu se sušenými krmivy, v platném znění. 
+ Nařízení Komise (ES) č. 382/2005 ze dne 7. března 2005, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 1786/2003 o společné organizaci trhu se sušenými krmivy.
+
+<sup>2</sup>) Čl. 10 nařízení Rady (ES) č. 1786/2003. 
+ Čl. 5 první pododstavec nařízení Komise (ES) č. 382/2005.
+
+<sup>3</sup>) § 2b odst. 1 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb. a zákona č. 84/2004 Sb.
+
+<sup>4</sup>) Čl. 2 nařízení Rady (ES) č. 1786/2003.
+
+<sup>5</sup>) § 2 obchodního zákoníku.
+
+<sup>6</sup>) Čl. 5 druhý pododstavec nařízení Komise (ES) č. 382/2005.
+
+<sup>7</sup>) Čl. 6 nařízení Komise (ES) č. 382/2005.
+
+<sup>8</sup>) Čl. 9 nařízení Komise (ES) č. 382/2005.

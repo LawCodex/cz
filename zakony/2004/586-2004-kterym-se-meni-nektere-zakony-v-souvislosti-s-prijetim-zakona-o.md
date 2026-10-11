@@ -1,0 +1,63 @@
+---
+title: "Zákon č. 586/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o branné povinnosti a jejím zajišťování (branný zákon)"
+identifier: "586/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/586/2017-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2004-11-04
+effective: 2005-01-01
+last_amended: 2017-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/586"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 586/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o branné povinnosti a jejím zajišťování (branný zákon) ve znění zákona č. 234/2014 Sb., zákona č. 320/2015 Sb. a zákona č. 250/2016 Sb."
+---
+
+# Zákon č. 586/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o branné povinnosti a jejím zajišťování (branný zákon)
+
+586
+
+ZÁKON
+
+ze dne 4. listopadu 2004,
+
+kterým se mění některé zákony v souvislosti s přijetím zákona o branné povinnosti a jejím zajišťování (branný zákon)
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST TŘETÍ – Změna zákona č. 128/2002 Sb., kterým se mění zákon č. 218/1999 Sb., o rozsahu branné povinnosti a o vojenských správních úřadech (branný zákon), ve znění zákona č. 238/2000 Sb., zákon č. 220/1999 Sb., o průběhu základní nebo náhradní služby a vojenských cvičení a o některých právních poměrech vojáků v záloze, a zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů
+
+### Čl. III
+
+V zákoně č. 128/2002 Sb., kterým se mění zákon č. 218/1999 Sb., o rozsahu branné povinnosti a o vojenských správních úřadech (branný zákon), ve znění zákona č. 238/2000 Sb., zákon č. 220/1999 Sb., o průběhu základní nebo náhradní služby a vojenských cvičení a o některých právních poměrech vojáků v záloze, a zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, se část první zrušuje.
+
+## ČÁST PÁTÁ – Změna zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů
+
+### Čl. V
+
+V zákoně č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů, ve znění zákona č. 426/2002 Sb., zákona č. 518/2002 Sb., zákona č. 354/2003 Sb., zákona č. 356/2003 Sb., zákona č. 22/2004 Sb., zákona č. 41/2004 Sb., zákona č. 99/2004 Sb., zákona č. 237/2004 Sb., zákona č. 326/2004 Sb. a zákona č. 436/2004 Sb., se část osmdesátá osmá zrušuje.
+
+## ČÁST ŠESTÁ – Změna zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů
+
+### Čl. VI
+
+Zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění zákona č. 186/2004 Sb. a zákona č. 436/2004 Sb., se mění takto:
+
+1\. V § 13 odst. 1 se písmeno f) včetně poznámky pod čarou č. 10) zrušuje.
+
+Dosavadní písmena g), h), i) a j) se označují jako písmena f), g), h) a i).
+
+2\. V § 13 odst. 3 se slova „písmeny i) a j)“ nahrazují slovy „písmeny h) a i)“.
+
+## ČÁST SEDMÁ – ÚČINNOST
+
+### Čl. VII
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2005.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Gross v. r.

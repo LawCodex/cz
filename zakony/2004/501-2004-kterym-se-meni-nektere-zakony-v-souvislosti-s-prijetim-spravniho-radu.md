@@ -1,0 +1,583 @@
+---
+title: "Zákon č. 501/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím správního řádu"
+identifier: "501/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/501/2017-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2004-06-24
+effective: 2006-01-01
+last_amended: 2017-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/501"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 501/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím správního řádu ve znění zákona č. 444/2005 Sb., zákona č. 281/2009 Sb., zákona č. 329/2011 Sb., zákona č. 255/2012 Sb., zákona č. 250/2016 Sb. a zákona č. 297/2016 Sb."
+---
+
+# Zákon č. 501/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím správního řádu
+
+501
+
+ZÁKON
+
+ze dne 24. června 2004,
+
+kterým se mění některé zákony v souvislosti s přijetím správního řádu
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o obcích
+
+### Čl. I
+
+Zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění zákona č. 273/2001 Sb., zákona č. 320/2001 Sb., zákona č. 450/2001 Sb., zákona č. 311/2002 Sb., zákona č. 313/2002 Sb., zákona č. 59/2003 Sb. a zákona č. 22/2004 Sb., se mění takto:
+
+1\. V § 12 odst. 1 větě druhé se slova „na úřední desce obecního úřadu (§ 112)“ nahrazují slovy „na úřední desce<sup>3b</sup>) obecního úřadu“.
+
+Poznámka pod čarou č. 3b) zní:
+
+> „<sup>3b</sup>) § 26 zákona č. 500/2004 Sb., správní řád.“.
+
+2\. V § 39 odst. 1, § 65 odst. 2, § 66b odst. 2, § 68 odst. 2, § 93 odst. 1, § 125 odst. 1 a § 127 odst. 4 se za slova „na úřední desce“ vkládá odkaz na poznámku pod čarou č. 3b).
+
+3\. § 66c zní:
+
+> **„§ 66c**
+
+> (1) Není-li v tomto zákoně stanoveno jinak, použijí se pro veřejnoprávní smlouvy ustanovení správního řádu.
+
+> (2) Obec, která je smluvní stranou veřejnoprávní smlouvy, ji bezodkladně poté, co byla uzavřena, zveřejní na úřední desce nejméně po dobu 15 dnů. Současně se uzavřená veřejnoprávní smlouva zveřejní ve Věstníku právních předpisů kraje. Obdobně se postupuje i při změně uzavřené veřejnoprávní smlouvy a při jejím zrušení.
+
+> (3) Uzavřená veřejnoprávní smlouva musí být každému přístupná na obecním úřadu obce, která je její smluvní stranou.“.
+
+4\. § 66d a 66e se zrušují.
+
+5\. § 112 se zrušuje.
+
+## ČÁST DRUHÁ – Změna zákona o krajích
+
+### Čl. II
+
+Zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění zákona č. 273/2001 Sb., zákona č. 320/2001 Sb., zákona č. 450/2001 Sb., zákona č. 231/2002 Sb., zákona č. 404/2002 Sb. a zákona č. 229/2003 Sb., se mění takto:
+
+1\. V § 8 odst. 5, § 18 odst. 1, § 31 odst. 3 a § 42 odst. 1 se za slova „na úřední desce“ vkládá odkaz na poznámku pod čarou č. 2).
+
+Poznámka pod čarou č. 2) zní:
+
+> „<sup>2</sup>) § 26 zákona č. 500/2004 Sb., správní řád.“.
+
+2\. § 71 se zrušuje.
+
+## ČÁST TŘETÍ – Změna zákona o hlavním městě Praze
+
+### Čl. III
+
+Zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění zákona č. 145/2001 Sb., zákona č. 273/2001 Sb., zákona č. 320/2001 Sb., zákona č. 450/2001 Sb., zákona č. 311/2002 Sb., zákona č. 312/2002 Sb., zákona č. 320/2002 Sb. a zákona č. 22/2004 Sb., se mění takto:
+
+1\. V § 36 odst. 1 se za slova „vyvěšením na úřední desce“ a v § 45 odst. 4 větě třetí, v § 48 odst. 3, v § 60 odst. 3 a v § 88 odst. 3 se za slova „na úřední desce“ vkládá odkaz na poznámku pod čarou č. 11a).
+
+Poznámka pod čarou č. 11a) zní:
+
+> „<sup>11a</sup>) § 26 zákona č. 500/2004 Sb., správní řád.“.
+
+2\. § 83 se zrušuje.
+
+## ČÁST ČTVRTÁ – Změna zákona o právu shromažďovacím
+
+### Čl. IV
+
+Zákon č. 84/1990 Sb., o právu shromažďovacím, ve znění zákona č. 175/1990 Sb., zákona č. 151/2002 Sb. a zákona č. 259/2002 Sb., se mění takto:
+
+1\. V § 11 odst. 2 větě třetí se za slova „je rozhodnutí“ vkládají slova „oznámeno a“.
+
+2\. V § 16 se věta první nahrazuje větou „Na řízení o zákazu shromáždění nebo o době jeho ukončení podle § 11 se nevztahují ustanovení správního řádu o správním řízení,<sup>4</sup>) s výjimkou ustanovení o náležitostech rozhodnutí, o písemném vyhotovení rozhodnutí a o opravě zřejmých nesprávností v písemném vyhotovení rozhodnutí<sup>4a</sup>) a ustanovení o právní moci a vykonatelnosti.<sup>4b</sup>)“.
+
+Poznámky pod čarou č. 4), 4a) a 4b) znějí:
+
+> „<sup>4</sup>) Část druhá a třetí správního řádu.
+
+> <sup>4a</sup>) § 68 až 70 správního řádu.
+
+> <sup>4b</sup>) § 73 až § 75 odst. 1 a 2 správního řádu.“.
+
+## ČÁST PÁTÁ – Změna zákona o evidenci obyvatel
+
+### Čl. V
+
+V zákoně č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění zákona č. 2/2002 Sb., zákona č. 320/2002 Sb. a zákona č. 53/2004 Sb., se v § 18 věty první a druhá zrušují.
+
+## ČÁST ŠESTÁ – Změna zákona o sdružování v politických stranách a v politických hnutích
+
+### Čl. VI
+
+V § 8 zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích, ve znění zákona č. 68/1993 Sb., zákona č. 117/1994 Sb. a zákona č. 340/2000 Sb., odstavec 3 zní:
+
+> „(3) Provede-li ministerstvo registraci, zašle ve lhůtě uvedené v odstavci 2 zmocněnci přípravného výboru jedno vyhotovení stanov, na němž vyznačí den registrace, a druhé vyhotovení stanov se s vyznačením registrace vloží do spisu.“.
+
+## ČÁST OSMÁ – Změna zákona o sociálně-právní ochraně dětí
+
+### Čl. VIII
+
+Zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění zákona č. 257/2000 Sb., zákona č. 272/2001 Sb., zákona č. 309/2002 Sb., zákona č. 320/2002 Sb., zákona č. 518/2002 Sb. a zákona č. 222/2003 Sb., se mění takto:
+
+1\. V § 60 se slova „zákona č. 71/1967 Sb., o správním řízení (správní řád)“ nahrazují slovy „správního řádu“.
+
+2\. V § 64 odst. 2 se slova „§ 49 správního řádu.“ nahrazují slovy „ustanovení správního řádu o lhůtách pro vydání rozhodnutí.<sup>54</sup>)“.
+
+Poznámka pod čarou č. 54) zní:
+
+> „<sup>54</sup>) § 71 odst. 1 a 3 správního řádu.“.
+
+## ČÁST DEVÁTÁ – Změna zákona o organizaci a provádění sociálního zabezpečení
+
+### Čl. IX
+
+Zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění zákona č. 590/1992 Sb., zákona č. 37/1993 Sb., zákona č. 160/1993 Sb., zákona č. 307/1993 Sb., zákona č. 241/1994 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 134/1997 Sb., zákona č. 306/1997 Sb., zákona č. 93/1998 Sb., zákona č. 225/1999 Sb., zákona č. 356/1999 Sb., zákona č. 360/1999 Sb., zákona č. 18/2000 Sb., zákona č. 29/2000 Sb., zákona č. 132/2000 Sb., zákona č. 133/2000 Sb., zákona č. 155/2000 Sb., zákona č. 159/2000 Sb., zákona č. 220/2000 Sb., zákona č. 238/2000 Sb., zákona č. 258/2000 Sb., zákona č. 411/2000 Sb., zákona č. 116/2001 Sb., zákona č. 353/2001 Sb., zákona č. 151/2002 Sb., zákona č. 263/2002 Sb., zákona č. 265/2002 Sb., zákona č. 309/2002 Sb., zákona č. 320/2002 Sb., zákona č. 518/2002 Sb., zákona č. 362/2003 Sb., zákona č. 424/2003 Sb., zákona č. 425/2003 Sb., zákona č. 453/2003 Sb. a zákona č. 53/2004 Sb., se mění takto:
+
+1\. V § 4 odst. 2 se věta druhá včetně poznámky pod čarou č. 11) zrušuje.
+
+2\. V § 5 se na konci písmena h) tečka nahrazuje čárkou a doplňuje se písmeno ch), které zní:
+
+> „ch) vymáhá vrácení neprávem vyplacených částek dávek důchodového pojištění; přitom je oprávněna provádět správní výkon rozhodnutí.“.
+
+3\. V § 6 odst. 4 se na konci písmena y) tečka nahrazuje slovem „a“ a doplňuje se písmeno z), které zní:
+
+> „z) opatřují a předkládají České správě sociálního zabezpečení na její žádost podklady potřebné k vymáhání neprávem vyplacených částek dávek důchodového pojištění.“.
+
+4\. V § 8 se odstavec 9 zrušuje.
+
+Dosavadní odstavec 10 se označuje jako odstavec 9.
+
+5\. Za § 16 se vkládají nové § 16a a 16b, které včetně poznámky pod čarou č. 9) znějí:
+
+> **„§ 16a**
+
+> (1) Na postup posudkových komisí při podávání posudků podle § 4 odst. 2 se nevztahuje správní řád, s výjimkou základních pravidel činnosti správních orgánů a ustanovení o vyloučení z projednávání a rozhodování věci.<sup>9</sup>)
+
+> (2) Lhůta pro vydání posudku činí 60 kalendářních dnů, nestanoví-li orgán, který vede řízení, pro jehož účely byl posudek vyžádán, lhůtu delší. Brání-li vydání posudku ve lhůtě podle věty první závažné důvody, sdělí předseda posudkové komise neprodleně tyto důvody orgánu, který vede řízení, pro jehož účely je posudek vyžádán; v těchto případech se lhůta podle věty první prodlužuje až o 30 kalendářních dnů, nestanoví-li orgán, který vede řízení, pro jehož účely je posudek vyžádán, jinak.
+
+> (3) Nepodrobí-li se posuzovaná osoba vyšetření zdravotního stavu posudkovou komisí nebo určeným zdravotnickým zařízením nebo jinému odbornému vyšetření anebo odmítne-li poskytnout jinou požadovanou součinnost, která je potřebná k podání posudku, sdělí předseda posudkové komise neprodleně tuto skutečnost orgánu, který vede řízení, pro jehož účely je posudek vyžádán.
+
+> **§ 16b**
+
+> Pro postup při vydávání posudků podle § 8 odst. 1 ve věcech státní sociální podpory a sociální péče platí § 16a obdobně s tím, že lhůta pro vydání posudku činí 30 kalendářních dnů.
+
+> <sup>9</sup>) § 1 až 8 a § 14 správního řádu.“.
+
+Dosavadní § 16a se označuje jako § 16c.
+
+6\. Za § 54 se vkládá nový § 54a, který včetně poznámek pod čarou č. 60a) a 60b) zní:
+
+> **„§ 54a**
+
+> Pořádkové pokuty podle správního řádu<sup>60a</sup>) mohou při činnosti podle tohoto zákona a podle zákona o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti<sup>60b</sup>) ukládat pouze orgány sociálního zabezpečení; toto oprávnění však neplatí, postupuje-li okresní správa sociálního zabezpečení podle § 32 odst. 1.
+
+> <sup>60a</sup>) § 62 správního řádu.
+
+> <sup>60b</sup>) Zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů.“.
+
+7\. V § 56 odst. 3 se slova „se nevztahují obecné předpisy o správním řízení.“ nahrazují slovy „se nevztahuje správní řád.“.
+
+Odkaz na poznámku pod čarou č. 11) se zrušuje.
+
+8\. V § 60 odst. 1 se slova „z podnětu správy sociálního zabezpečení“ nahrazují slovy „okresní správou sociálního zabezpečení z moci úřední“.
+
+9\. V § 60 odst. 2 se slova „z podnětu okresní správy sociálního zabezpečení“ nahrazují slovy „okresní správou sociálního zabezpečení z moci úřední“.
+
+10\. V § 81 odst. 2 se slova „z podnětu orgánu“ nahrazují slovy „z moci úřední orgánem“.
+
+11\. V § 82 se za odstavec 7 vkládá nový odstavec 8, který zní:
+
+> „(8) Žádost lze podat nejdříve tři měsíce přede dnem, od kterého občan žádá dávku důchodového pojištění přiznat.“.
+
+12\. V § 83a se v nadpisu za slovo „Přerušení“ vkládají slova „a zastavení“, dosavadní text se označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Orgán sociálního zabezpečení zastaví řízení, je-li žádost podána o více než dva měsíce dříve než ve lhůtě uvedené v § 82 odst. 8. Je-li žádost podána nejvýše o dva měsíce dříve než ve lhůtě uvedené v § 82 odst. 8, orgán sociálního zabezpečení řízení přeruší a prvním dnem lhůty stanovené pro podání žádosti v § 82 odst. 8 v řízení pokračuje z moci úřední.“.
+
+13\. Za § 85 se vkládá nový § 85a, který včetně poznámek pod čarou č. 22a) a 22b) zní:
+
+> **„§ 85a**
+
+> V řízení ve věcech důchodového pojištění se nepoužije ustanovení správního řádu o vyjádření účastníků k podkladům rozhodnutí;<sup>22a</sup>) zahájení řízení z moci úřední<sup>22b</sup>) se účastníkům zpravidla neoznamuje.
+
+> <sup>22a</sup>) § 36 odst. 3 správního řádu.
+
+> <sup>22b</sup>) § 46 a 47 správního řádu.“.
+
+14\. V § 86 se doplňuje odstavec 4, který včetně poznámky pod čarou č. 22d) zní:
+
+> „(4) Lhůta pro vydání rozhodnutí se kromě dob uvedených ve správním řádu<sup>22d</sup>) prodlužuje též o dobu, kdy se došetřují rozhodné skutečnosti u organizací nebo zahraničních nositelů důchodového pojištění (zabezpečení).
+
+> <sup>22d</sup>) § 71 odst. 1 a 3 správního řádu.“.
+
+15\. V § 104c odstavec 2 včetně odkazu na poznámku pod čarou č. 22c) zní:
+
+> „(2) Ustanovení správního řádu o zahájení řízení z moci úřední<sup>22c</sup>) se na vydání platebního výměru nepoužijí.“.
+
+Poznámka pod čarou č. 22c) zní:
+
+> „<sup>22c</sup>) § 46 a 47 správního řádu.“.
+
+16\. V § 104ch odst. 4 se slova „se nevztahují obecné předpisy o správním řízení.“ nahrazují slovy „se nevztahuje správní řád.“.
+
+Odkaz na poznámku pod čarou č. 11) se zrušuje.
+
+17\. V § 108 větě první se slova „obecné předpisy o správním řízení“ nahrazují slovy „správní řád s tím, že ustanovení o jiných úkonech správních orgánů<sup>34c</sup>) se při postupu organizace nebo malé organizace použijí přiměřeně a jen tam, kde to povaha věci připouští.“.
+
+Odkaz na poznámku pod čarou č. 11) se zrušuje.
+
+Poznámka pod čarou č. 34c) zní:
+
+> „<sup>34c</sup>) Část čtvrtá správního řádu.“.
+
+18\. V § 118d se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Orgány sociálního zabezpečení mohou uložit povinnost nahradit paušální částkou stanovenou zvláštním právním předpisem náklady řízení účastníku, který řízení vyvolal porušením své právní povinnosti.“.
+
+## ČÁST DESÁTÁ – Změna zákona o pobytu cizinců na území České republiky
+
+### Čl. X
+
+Zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 140/2001 Sb., zákona č. 151/2002 Sb., zákona č. 217/2002 Sb. a zákona č. 222/2003 Sb., se mění takto:
+
+1\. V § 156 odst. 7 se věta třetí včetně poznámky pod čarou č. 21) zrušuje.
+
+2\. V § 156 odst. 8 se slova „části čtvrté oddílů 2 až 4 a části páté“ nahrazují slovy „části druhé hlav IX a X“.
+
+3\. V § 168 se slova „Správní řád se nevztahuje“ nahrazují slovy „Ustanovení správního řádu o správním řízení<sup>24a</sup>) se nevztahují“.
+
+Poznámka pod čarou č. 24a) zní:
+
+> „<sup>24a</sup>) Část druhá a třetí správního řádu.“.
+
+4\. V § 169 se odstavce 2 a 5 zrušují.
+
+Dosavadní odstavce 3 a 4 se označují jako odstavce 2 a 3 a dosavadní odstavce 6 až 10 se označují jako odstavce 4 až 8.
+
+5\. V § 169 odstavec 7 zní:
+
+> „(7) Policie usnesením zastaví řízení, jestliže cizinec
+
+> a) ve lhůtě podle § 76 nepřevezme povolení k pobytu, pokud v této lhůtě policii nesdělí, že převzetí brání důvody nezávislé na jeho vůli,
+
+> b) který podal žádost na území, nepřevezme povolení k pobytu ve lhůtě do 30 dnů ode dne vyrozumění, pokud v této lhůtě policii nesdělí, že převzetí brání důvody nezávislé na jeho vůli,
+
+> c) který podal žádost o povolení k pobytu podle § 66 nebo § 67, nesplní podmínku nepřetržitého pobytu na území nebo tato žádost je podána v době po ukončení pobytu na vízum k pobytu nad 90 dnů,
+
+> d) podal žádost o povolení k pobytu na území, ač k tomu není podle § 69 odst. 2 oprávněn, nebo
+
+> e) podal žádost o prodloužení doby platnosti dlouhodobého víza nebo doby pobytu na toto vízum v době, kdy k tomu není oprávněn.“.
+
+## ČÁST JEDENÁCTÁ – Změna zákona o azylu
+
+### Čl. XI
+
+Zákon č. 325/1999 Sb., o azylu a o změně zákona č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, (zákon o azylu), ve znění zákona č. 2/2002 Sb., zákona č. 217/2002 Sb., zákona č. 320/2002 Sb., zákona č. 519/2002 Sb. a zákona č. 222/2003 Sb., se mění takto:
+
+1\. § 9 včetně poznámek pod čarou č. 5), 5a), 5b), 5c), 5d), 5e), 5f), 5g), 5h), 5i) a 5j) zní:
+
+> **„§ 9**
+
+> Na řízení o udělení nebo odnětí azylu se použije správní řád, s výjimkou ustanovení o doručování na adresu pro doručování nebo elektronickou adresu sdělenou účastníkem,<sup>5</sup>) ustanovení o doručování písemností určených do vlastních rukou a doručovaných na požádání jiným způsobem,<sup>5a</sup>) ustanovení o doručování adresátům zdržujícím se v cizině,<sup>5b</sup>) dále ustanovení o úřední desce,<sup>5c</sup>) o ustanovení opatrovníka osobám neznámého pobytu a osobám, které se zdržují v cizině, pokud se jim nedaří doručovat,<sup>5d</sup>) a o ustanovení zástupce pro doručování,<sup>5e</sup>) a dále ustanovení o umožnění nahlížení do spisu jiným osobám než účastníkům a jejich zástupcům,<sup>5f</sup>) o ústním jednání,<sup>5g</sup>) o vydání stejnopisu výroku rozhodnutí na požádání účastníka,<sup>5h</sup>) o lhůtách pro vydání rozhodnutí<sup>5i</sup>) a ustanovení o odvolacím řízení a řízení o rozkladu.<sup>5j</sup>)
+
+> <sup>5</sup>) § 19 odst. 3 správního řádu.
+
+> <sup>5a</sup>) § 19 odst. 4, 5 a 8 správního řádu.
+
+> <sup>5b</sup>) § 22 správního řádu.
+
+> <sup>5c</sup>) § 26 správního řádu.
+
+> <sup>5d</sup>) § 32 odst. 2 písm. d) správního řádu.
+
+> <sup>5e</sup>) § 33 odst. 4 správního řádu.
+
+> <sup>5f</sup>) § 38 odst. 2 správního řádu.
+
+> <sup>5g</sup>) § 49 správního řádu.
+
+> <sup>5h</sup>) § 69 odst. 4 věta druhá správního řádu.
+
+> <sup>5i</sup>) § 71 odst. 1 a 3 správního řádu.
+
+> <sup>5j</sup>) § 81 až 93 a § 152 správního řádu.“.
+
+2\. Za § 23 se vkládají nové § 23a a 23b, které znějí:
+
+> **„§ 23a**
+
+> Ministerstvo nepořizuje kopie spisu ani jeho části.
+
+> **§ 23b**
+
+> Ministerstvo může místo předložení listiny připustit čestné prohlášení žadatele o udělení azylu. V čestném prohlášení je žadatel o udělení azylu povinen uvést úplné a pravdivé údaje.“.
+
+3\. Za § 24a se vkládá nový § 24b, který včetně nadpisu zní:
+
+> **„§ 24b – Úřední deska**
+
+> Ministerstvo zřizuje úřední desku v azylových zařízeních.“.
+
+4\. Za § 92 se vkládá nový § 92a, který zní:
+
+> **„§ 92a**
+
+> Požádá-li opatrovník o to, aby bylo jeho ustanovení opatrovníkem zrušeno, ustanoví správní orgán bezodkladně jiného opatrovníka.“.
+
+5\. V § 93a odstavec 6 včetně poznámky pod čarou č. 17) zní:
+
+> „(6) Na řízení o správním deliktu se nevztahují ustanovení správního řádu o odvolacím řízení, řízení o rozkladu a o přezkumném řízení.<sup>17</sup>)
+
+> <sup>17</sup>) Část druhá hlavy VIII a IX a § 152 správního řádu.“.
+
+## ČÁST DVANÁCTÁ – Změna zákona o provozování rozhlasového a televizního vysílání
+
+### Čl. XII
+
+V § 66 zákona č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání a o změně dalších zákonů, ve znění zákona č. 309/2002 Sb., se věta první nahrazuje větou „Nestanoví-li tento zákon jinak, postupuje se v řízení podle správního řádu, s výjimkou ustanovení o odvolacím řízení, řízení o rozkladu, o přezkumném řízení a o obnově řízení a novém rozhodnutí.<sup>9c</sup>)“.
+
+Poznámka pod čarou č. 9c) zní:
+
+> „<sup>9c</sup>) § 81 až 102 a § 152 správního řádu.“.
+
+## ČÁST ŠESTNÁCTÁ – Změna občanského soudního řádu
+
+### Čl. XVI
+
+V § 274 zákona č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 158/1969 Sb., zákona č. 49/1973 Sb., zákona č. 20/1975 Sb., zákona č. 519/1991 Sb., zákona č. 238/1995 Sb., zákona č. 165/1998 Sb., zákona č. 30/2000 Sb. a zákona č. 151/2002 Sb., písmeno f) zní:
+
+> „f) vykonatelných rozhodnutí orgánů veřejné správy včetně platebních výměrů, výkazů nedoplatků ve věcech daní a poplatků a jiných rozhodnutí, jakož i vykonatelných smírů;“.
+
+## ČÁST SEDMNÁCTÁ – Změna exekučního řádu
+
+### Čl. XVII
+
+V § 40 odst. 1 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, písmeno e) zní:
+
+> „e) vykonatelné rozhodnutí orgánu veřejné správy včetně platebních výměrů, výkazů nedoplatků ve věcech daní a poplatků a jiných rozhodnutí, jakož i vykonatelný smír,“.
+
+## ČÁST OSMNÁCTÁ – Změna zákona o vynálezech a zlepšovacích návrzích
+
+### Čl. XVIII
+
+Zákon č. 527/1990 Sb., o vynálezech a zlepšovacích návrzích, ve znění zákona č. 519/1991 Sb., zákona č. 116/2000 Sb., zákona č. 207/2000 Sb. a zákona č. 173/2002 Sb., se mění takto:
+
+1\. V § 63 odstavec 1 včetně poznámek pod čarou č. 5), 5a), 5b), 5c), 5d), 5e), 5f), 5g) a 5h) zní:
+
+> „(1) Pro řízení před Úřadem platí správní řád s odchylkami uvedenými v tomto zákoně a s výjimkou ustanovení o ověřování plných mocí pro neurčitý počet řízení,<sup>5</sup>) o možnosti volby několika společných zmocněnců,<sup>5a</sup>) o prominutí zmeškání úkonu,<sup>5b</sup>) o přerušení řízení,<sup>5c</sup>) o lhůtách pro vydání rozhodnutí<sup>5d</sup>) a o ochraně před nečinností,<sup>5e</sup>) dále z ustanovení o zvláštnostech řízení o rozkladu ustanovení o složení rozkladové komise a o možném způsobu ukončení řízení o rozkladu<sup>5f</sup>) a dále ustanovení o účastnících řízení;<sup>5g</sup>) ustanovení správního řádu o účastnících řízení podle zvláštního zákona<sup>5h</sup>) se však použijí.
+
+> <sup>5</sup>) § 33 odst. 2 písm. c) správního řádu.
+
+> <sup>5a</sup>) § 35 odst. 3 správního řádu.
+
+> <sup>5b</sup>) § 41 správního řádu.
+
+> <sup>5c</sup>) § 64 a 65 správního řádu.
+
+> <sup>5d</sup>) § 71 odst. 1 a 3 správního řádu.
+
+> <sup>5e</sup>) § 80 správního řádu.
+
+> <sup>5f</sup>) § 152 odst. 3 a 5 správního řádu.
+
+> <sup>5g</sup>) § 27 odst. 1 a 2 správního řádu.
+
+> <sup>5h</sup>) § 27 odst. 3 správního řádu.“.
+
+2\. § 64 se zrušuje.
+
+## ČÁST DEVATENÁCTÁ – Změna zákona o užitných vzorech
+
+### Čl. XIX
+
+Zákon č. 478/1992 Sb., o užitných vzorech, ve znění zákona č. 116/2000 Sb., se mění takto:
+
+1\. V § 21 odstavec 1 včetně poznámek pod čarou č. 3), 3a), 3b), 3c), 3d), 3e), 3f), 3g) a 3h) zní:
+
+> „(1) Pro řízení před Úřadem platí správní řád s odchylkami uvedenými v tomto zákoně a s výjimkou ustanovení o ověřování plných mocí pro neurčitý počet řízení,<sup>3</sup>) o možnosti volby několika společných zmocněnců,<sup>3a</sup>) o prominutí zmeškání úkonu,<sup>3b</sup>) o přerušení řízení,<sup>3c</sup>) o lhůtách pro vydání rozhodnutí<sup>3d</sup>) a o ochraně před nečinností,<sup>3e</sup>) dále z ustanovení o zvláštnostech řízení o rozkladu ustanovení o složení rozkladové komise a o možném způsobu ukončení řízení o rozkladu<sup>3f</sup>) a dále ustanovení o účastnících řízení;<sup>3g</sup>) ustanovení správního řádu o účastnících řízení podle zvláštního zákona<sup>3h</sup>) se však použijí.
+
+> <sup>3</sup>) § 33 odst. 2 písm. c) správního řádu.
+
+> <sup>3a</sup>) § 35 odst. 3 správního řádu.
+
+> <sup>3b</sup>) § 41 správního řádu.
+
+> <sup>3c</sup>) § 64 a 65 správního řádu.
+
+> <sup>3d</sup>) § 71 odst. 1 a 3 správního řádu.
+
+> <sup>3e</sup>) § 80 správního řádu.
+
+> <sup>3f</sup>) § 152 odst. 3 a 5 správního řádu.
+
+> <sup>3g</sup>) § 27 odst. 1 a 2 správního řádu.
+
+> <sup>3h</sup>) § 27 odst. 3 správního řádu.“.
+
+2\. V § 21 odst. 2 se slova „pro zastavení řízení,“ zrušují.
+
+## ČÁST DVACÁTÁ – Změna zákona o ochraně topografií polovodičových výrobků
+
+### Čl. XX
+
+Zákon č. 529/1991 Sb., o ochraně topografií polovodičových výrobků, ve znění zákona č. 116/2000 Sb., se mění takto:
+
+1\. V § 18 odstavec 1 včetně poznámek pod čarou č. 1), 1a), 1b), 1c), 1d), 1e), 1f), 1g) a 1h) zní:
+
+> „(1) Pro řízení před Úřadem platí správní řád s odchylkami uvedenými v tomto zákoně a s výjimkou ustanovení o ověřování plných mocí pro neurčitý počet řízení,<sup>1</sup>) o možnosti volby několika společných zmocněnců,<sup>1a</sup>) o prominutí zmeškání úkonu,<sup>1b</sup>) o přerušení řízení,<sup>1c</sup>) o lhůtách pro vydání rozhodnutí<sup>1d</sup>) a o ochraně před nečinností,<sup>1e</sup>) dále z ustanovení o zvláštnostech řízení o rozkladu ustanovení o složení rozkladové komise a o možném způsobu ukončení řízení o rozkladu<sup>1f</sup>) a dále ustanovení o účastnících řízení;<sup>1g</sup>) ustanovení správního řádu o účastnících řízení podle zvláštního zákona<sup>1h</sup>) se však použijí.
+
+> <sup>1</sup>) § 33 odst. 2 písm. c) správního řádu.
+
+> <sup>1a</sup>) § 35 odst. 3 správního řádu.
+
+> <sup>1b</sup>) § 41 správního řádu.
+
+> <sup>1c</sup>) § 64 a 65 správního řádu.
+
+> <sup>1d</sup>) § 71 odst. 1 a 3 správního řádu.
+
+> <sup>1e</sup>) § 80 správního řádu.
+
+> <sup>1f</sup>) § 152 odst. 3 a 5 správního řádu.
+
+> <sup>1g</sup>) § 27 odst. 1 a 2 správního řádu.
+
+> <sup>1h</sup>) § 27 odst. 3 správního řádu.“.
+
+2\. V § 18 odst. 2 se slova „pro zastavení řízení,“ zrušují.
+
+## ČÁST DVACÁTÁ PRVNÍ – Změna zákona o ochranných známkách
+
+### Čl. XXI
+
+Zákon č. 441/2003 Sb., o ochranných známkách a o změně zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, (zákon o ochranných známkách), se mění takto:
+
+V § 45 odstavec 1 včetně poznámek pod čarou č. 11) až 11f) zní:
+
+> „(1) Nestanoví-li tento zákon jinak, platí pro řízení o ochranných známkách správní řád, s výjimkou ustanovení o ověřování plných mocí pro neurčitý počet řízení,<sup>11</sup>) o ověřování úředních razítek a podpisů na veřejných listinách vydaných orgány cizích států,<sup>11a</sup>) o přerušení řízení,<sup>11b</sup>) o lhůtách pro vydání rozhodnutí,<sup>11c</sup>) o ochraně proti nečinnosti,<sup>11d</sup>) dále z ustanovení o zvláštnostech řízení o rozkladu ustanovení o složení rozkladové komise a o možném způsobu ukončení řízení o rozkladu<sup>11e</sup>) a ustanovení o zákazu změny napadeného rozhodnutí z důvodu ztráty možnosti odvolat se.<sup>11f</sup>)
+
+> <sup>11</sup>) § 33 odst. 2 písm. c) správního řádu.
+
+> <sup>11a</sup>) § 53 odst. 4 správního řádu.
+
+> <sup>11b</sup>) § 64 a 65 správního řádu.
+
+> <sup>11c</sup>) § 71 odst. 1 a 3 správního řádu.
+
+> <sup>11d</sup>) § 80 správního řádu.
+
+> <sup>11e</sup>) § 152 odst. 3 a 5 správního řádu.
+
+> <sup>11f</sup>) § 90 odst. 1 písm. c) správního řádu.“.
+
+## ČÁST DVACÁTÁ DRUHÁ – Změna zákona o ochraně průmyslových vzorů
+
+### Čl. XXII
+
+Zákon č. 207/2000 Sb., o ochraně průmyslových vzorů a o změně zákona č. 527/1990 Sb., o vynálezech, průmyslových vzorech a zlepšovacích návrzích, ve znění pozdějších předpisů, se mění takto:
+
+1\. V § 40 odstavec 1 včetně poznámek pod čarou č. 5), 5a), 5b), 5c), 5d), 5e), 5f), 5g) a 5h) zní:
+
+> „(1) Pro řízení před Úřadem platí správní řád s odchylkami uvedenými v tomto zákoně a s výjimkou ustanovení o ověřování plných mocí pro neurčitý počet řízení,<sup>5</sup>) o možnosti volby několika společných zmocněnců,<sup>5a</sup>) o prominutí zmeškání úkonu,<sup>5b</sup>) o přerušení řízení,<sup>5c</sup>) o lhůtách pro vydání rozhodnutí<sup>5d</sup>) a o ochraně před nečinností,<sup>5e</sup>) dále z ustanovení o zvláštnostech řízení o rozkladu ustanovení o složení rozkladové komise a o možném způsobu ukončení řízení o rozkladu<sup>5f</sup>) a dále ustanovení o účastnících řízení;<sup>5g</sup>) ustanovení správního řádu o účastnících řízení podle zvláštního zákona<sup>5h</sup>) se však použijí.
+
+> <sup>5</sup>) § 33 odst. 2 písm. c) správního řádu.
+
+> <sup>5a</sup>) § 35 odst. 3 správního řádu.
+
+> <sup>5b</sup>) § 41 správního řádu.
+
+> <sup>5c</sup>) § 64 a 65 správního řádu.
+
+> <sup>5d</sup>) § 71 odst. 1 a 3 správního řádu.
+
+> <sup>5e</sup>) § 80 správního řádu.
+
+> <sup>5f</sup>) § 152 odst. 3 a 5 správního řádu.
+
+> <sup>5g</sup>) § 27 odst. 1 a 2 správního řádu.
+
+> <sup>5h</sup>) § 27 odst. 3 správního řádu.“.
+
+2\. § 41 se zrušuje.
+
+## ČÁST DVACÁTÁ TŘETÍ – Změna zákona o ochraně označení původu a zeměpisných označení
+
+### Čl. XXIII
+
+§ 13 zákona č. 452/2001 Sb., o ochraně označení původu a zeměpisných označení a o změně zákona o ochraně spotřebitele, včetně poznámek pod čarou č. 4), 4a) a 4b) zní:
+
+> **„§ 13**
+
+> Nestanoví-li tento zákon jinak, platí pro řízení podle tohoto zákona správní řád s výjimkou ustanovení o ověřování plných mocí pro neurčitý počet řízení,<sup>4</sup>) o možnosti volby několika společných zmocněnců,<sup>4a</sup>) a z ustanovení o zvláštnostech řízení o rozkladu ustanovení o složení rozkladové komise a o možném způsobu ukončení řízení o rozkladu.<sup>4b</sup>)
+
+> <sup>4</sup>) § 33 odst. 2 písm. c) správního řádu.
+
+> <sup>4a</sup>) § 35 odst. 3 správního řádu.
+
+> <sup>4b</sup>) § 152 odst. 3 a 5 správního řádu.“.
+
+## ČÁST DVACÁTÁ ČTVRTÁ – Změna zákona o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky
+
+### Čl. XXIV
+
+V § 12 zákona č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění zákona č. 19/1992 Sb., zákona č. 21/1993 Sb., zákona č. 148/1998 Sb., zákona č. 130/2000 Sb., zákona č. 239/2000 Sb. a zákona č. 62/2003 Sb., se za odstavec 1 vkládá nový odstavec 2, který zní:
+
+> „(2) Ministerstvo vnitra plní koordinační úlohu v oblasti správního řízení, správního trestání a spisové služby.“.
+
+Dosavadní odstavce 2 a 3 se označují jako odstavce 3 a 4.
+
+## ČÁST DVACÁTÁ ŠESTÁ – Změna zákona o státní správě a samosprávě ve školství
+
+### Čl. XXVII
+
+Zákon č. 564/1990 Sb., o státní správě a samosprávě ve školství, ve znění zákona č. 190/1993 Sb., zákona č. 256/1994 Sb., zákona č. 139/1995 Sb., zákona č. 132/2000 Sb., zákona č. 258/2000 Sb., zákona č. 3/2002 Sb., zákona č. 284/2002 Sb., zákona č. 181/2003 Sb. a zákona č. 18/2004 Sb., se mění takto:
+
+1\. V § 3 se za odstavec 2 vkládá nový odstavec 3, který včetně poznámky pod čarou č. 1i) zní:
+
+> „(3) Na rozhodování podle odstavce 2 písm. a) až h), l) a m) se nevztahuje ustanovení správního řádu o převzetí věci nadřízeným správním úřadem.<sup>1i</sup>)
+
+> <sup>1i</sup>) § 131 odst. 3 správního řádu.“.
+
+Dosavadní odstavec 3 se označuje jako odstavec 4.
+
+2\. § 22 včetně poznámky pod čarou č. 5) zní:
+
+> **„§ 22 – Vztah zákona ke správnímu řádu**
+
+> (1) Ustanovení správního řádu o správním řízení<sup>5</sup>) se nevztahují na postup podle tohoto zákona, s výjimkou rozhodování podle § 3 odst. 2, § 7 písm. b) a c), § 12 odst. 5 písm. s), § 19 odst. 4 a § 20.
+
+> (2) Odvolání proti rozhodnutí ředitele školy o nepřijetí ke studiu lze podat do osmi dnů od doručení.
+
+> (3) Správní řád se nevztahuje na postup soukromých škol a církevních škol podle tohoto zákona.
+
+> <sup>5</sup>) Části druhá a třetí správního řádu.“.
+
+## ČÁST DVACÁTÁ SEDMÁ – Změna zákona o poštovních službách
+
+### Čl. XXVIII
+
+V zákoně č. 29/2000 Sb., o poštovních službách a o změně některých zákonů (zákon o poštovních službách), ve znění zákona č. 517/2002 Sb. a zákona č. 225/2003 Sb., se část pátá zrušuje.
+
+## ČÁST DVACÁTÁ DEVÁTÁ – Změna zákona č. 226/2002 Sb.
+
+### Čl. XXX
+
+V zákoně č. 226/2002 Sb., kterým se mění zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů, zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, zákon č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů, zákon č. 71/1967 Sb., o správním řízení (správní řád), ve znění pozdějších předpisů, a zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), se část čtvrtá zrušuje.
+
+## ČÁST TŘICÁTÁ – Změna zákona č. 309/2002 Sb.
+
+### Čl. XXXI
+
+V zákoně č. 309/2002 Sb., o změně zákonů souvisejících s přijetím zákona o službě státních zaměstnanců ve správních úřadech a o odměňování těchto zaměstnanců a ostatních zaměstnanců ve správních úřadech (služební zákon), ve znění zákona č. 123/2003 Sb., zákona č. 274/2003 Sb., zákona č. 281/2003 Sb., zákona č. 362/2003 Sb. a zákona č. 424/2003 Sb., se část třicátá šestá zrušuje.
+
+## ČÁST TŘICÁTÁ PRVNÍ – ÚČINNOST
+
+### Čl. XXXII
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2006.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Špidla v. r.

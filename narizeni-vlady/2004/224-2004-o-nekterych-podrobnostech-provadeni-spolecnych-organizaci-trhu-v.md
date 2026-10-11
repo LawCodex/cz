@@ -1,0 +1,92 @@
+---
+title: "Nařízení vlády č. 224/2004 Sb., o některých podrobnostech provádění společných organizací trhu v režimu dovozních a vývozních licencí a osvědčení o stanovení náhrady předem pro zemědělské produkty"
+identifier: "224/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/224/2009-04-22"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-04-14
+effective: 2004-05-01
+last_amended: 2009-04-22
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/224"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 224/2004 Sb., o některých podrobnostech provádění společných organizací trhu v režimu dovozních a vývozních licencí a osvědčení o stanovení náhrady předem pro zemědělské produkty ve znění nařízení vlády č. 101/2009 Sb."
+---
+
+# Nařízení vlády č. 224/2004 Sb., o některých podrobnostech provádění společných organizací trhu v režimu dovozních a vývozních licencí a osvědčení o stanovení náhrady předem pro zemědělské produkty
+
+224
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. dubna 2004
+
+o některých podrobnostech provádění společných organizací trhu v režimu dovozních a vývozních licencí a osvědčení o stanovení náhrady předem pro zemědělské produkty
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje některé podrobnosti provádění společných organizací trhu v režimu dovozních a vývozních licencí (dále jen „licence“) a osvědčení o stanovení náhrady předem pro zemědělské produkty (dále jen „osvědčení“), jejichž úpravu bezprostředně závazné předpisy Evropských společenství<sup>1</sup>) (dále jen „předpisy Evropských společenství“) členským státům Evropské unie přikazují nebo umožňují provést.
+
+## § 2 – Žádost
+
+(1) Žádosti o licenci, popřípadě osvědčení (dále jen „žádost“) podle předpisů Evropských společenství<sup>2</sup>) se podává Státnímu zemědělskému intervenčnímu fondu (dále jen „Fond“) písemně nebo způsobem umožňujícím dálkový přístup. Žádost se podává v jazyce českém.
+
+(2) Žádost podle odstavce 1 se podává na formuláři vydaném Fondem.
+
+(3) Údaje formuláře licence, popřípadě osvědčení, které přísluší vyplnit Fondu, vyplňuje tento v jazyce českém.
+
+## § 3 – Provedení záznamů a potvrzení vyhotovení č. 1 licence a osvědčení
+
+(1) Záznam do vyhotovení č. 1 licence nebo do vyhotovení č. 1 osvědčení provede zúčastněná strana nebo příslušný celní úřad<sup>3</sup>).
+
+(2) Záznam a potvrzení vyhotovení č. 1 osvědčení pro zemědělské produkty neuvedené v příloze č. 1 Smlouvy o založení Evropského společenství provede Fond<sup>4</sup>).
+
+## § 4 – Dodatečný důkaz pro uvolnění záruky
+
+Dodatečným důkazem pro uvolnění záruky poskytnuté pro účely vydání licence, popřípadě osvědčení, v případech stanovených předpisy Evropských společenství<sup>5</sup>) je kontrolní výtisk T5.<sup>6</sup>)
+
+## § 5 – Registrace dovozců
+
+(1) Dovozce, který v souladu s předpisy Evropských společenství<sup>7</sup>) hodlá pro dovoz některých zemědělských produktů využít snížené celní sazby v rámci celní kvóty, požádá Fond o registraci.
+
+(2) Dovozce podle odstavce 1 k žádosti o registraci připojí
+
+a) doklad potvrzující, že je podnikatelem podle zvláštního právního předpisu,<sup>8</sup>)
+
+b) kopii dokladu stvrzujícího přidělení daňového identifikačního čísla.
+
+## § 6 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Ministr zemědělství:
+
+Ing. Palas v. r.
+
+---
+
+<sup>1</sup>) Nařízení Komise (ES) č. 1291/2000 ze dne 9. června 2000, kterým se stanoví společná prováděcí pravidla k režimu dovozních a vývozních licencí a osvědčení o stanovení náhrady předem pro zemědělské produkty, ve znění nařízení Komise (ES) č. 325/2003. 
+ Nařízení Komise (ES) č. 1301/2006 ze dne 31. srpna 2006, kterým se stanoví společná pravidla ke správě dovozních celních kvót pro zemědělské produkty, které podléhají režimu dovozních licencí, v platném znění. 
+ Kapitoly II a III Části III nařízení Rady (ES) č. 1234/2007 ze dne 22. října 2007, kterým se stanoví společná organizace zemědělských trhů a zvláštní ustanovení pro některé zemědělské produkty („jednotné nařízení o společné organizaci trhů“), v platném znění. 
+ Nařízení Komise (ES) č. 376/2008 ze dne 23. dubna 2008, kterým se stanoví společná prováděcí pravidla k režimu dovozních a vývozních licencí a osvědčení o stanovení náhrady předem pro zemědělské produkty, v platném znění.
+
+<sup>2</sup>) Článek 18 nařízení Komise (ES) č. 1291/2000.
+
+<sup>3</sup>) Článek 24 odst. 3 nařízení Komise (ES) č. 1291/2000.
+
+<sup>4</sup>) Článek 25 nařízení Komise (ES) č. 1291/2000.
+
+<sup>5</sup>) Článek 33 odst. 2 písm. a) nařízení Komise (ES) č. 1291/2000.
+
+<sup>6</sup>) Příloha č. 63 nařízení Komise (EHS) č. 2454/93 ze dne 2. července 1993, kterým se provádí nařízení Rady (EHS) č. 2913/1992, kterým se vydává celní kodex Společenství.
+
+<sup>7</sup>) Například nařízení Komise (ES) č. 2535/2001 ze dne 14. prosince 2001, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 1255/1999, pokud jde o dovozní režim pro mléko a mléčné výrobky a otevření celních kvót, ve znění nařízení Komise (ES) č. 2012/2003, nařízení Komise (ES) č. 1431/94 ze dne 22. června 1994, kterým se stanoví prováděcí pravidla k dovoznímu režimu v odvětví drůbežího masa podle nařízení Rady (ES) č. 774/94 o otevření a správě některých celních kvót Společenství na drůbeží maso a některé jiné zemědělské produkty, ve znění nařízení Komise (ES) č. 1043/2001, nařízení Komise (ES) č. 1128/1999 ze dne 28. května 1999, kterým se stanoví prováděcí pravidla pro celní kvótu telat o hmotnosti nejvýše 80 kilogramů pocházejících ze třetích zemí, ve znění nařízení Komise (ES) č. 1144/2003.
+
+<sup>8</sup>) § 2 obchodního zákoníku.

@@ -153,7 +153,7 @@ def fetch_one(item, raw):
         frags.extend(d.get("seznam", []))
         page += 1
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    tmp = path + ".part"
+    tmp = f"{path}.{os.getpid()}.{threading.get_ident()}.part"
     with gzip.open(tmp, "wt", encoding="utf-8") as f:
         json.dump({"item": item, "detail": detail, "fragments": frags}, f, ensure_ascii=False)
     os.replace(tmp, path)

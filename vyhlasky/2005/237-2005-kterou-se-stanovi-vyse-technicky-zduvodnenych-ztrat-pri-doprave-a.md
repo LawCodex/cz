@@ -1,0 +1,105 @@
+---
+title: "Vyhláška č. 237/2005 Sb., kterou se stanoví výše technicky zdůvodněných ztrát při dopravě a skladování minerálních olejů"
+identifier: "237/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/237/2015-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-06-02
+effective: 2005-07-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/237"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 237/2005 Sb., kterou se stanoví výše technicky zdůvodněných ztrát při dopravě a skladování minerálních olejů ve znění vyhlášky č. 337/2009 Sb., vyhlášky č. 146/2011 Sb. a vyhlášky č. 338/2014 Sb."
+---
+
+# Vyhláška č. 237/2005 Sb., kterou se stanoví výše technicky zdůvodněných ztrát při dopravě a skladování minerálních olejů
+
+237
+
+VYHLÁŠKA
+
+ze dne 2. června 2005,
+
+kterou se stanoví výše technicky zdůvodněných ztrát při dopravě a skladování minerálních olejů
+
+Ministerstvo průmyslu a obchodu stanoví podle § 139 odst. 3 zákona č. 353/2003 Sb., o spotřebních daních, ve znění zákona č. 217/2005 Sb., (dále jen „zákon“) k provedení § 49 odst. 14 zákona:
+
+## § 1 – Předmět úpravy
+
+Touto vyhláškou se stanoví výše technicky zdůvodněných ztrát vzniklých při dopravě a skladování minerálních olejů a způsob jejich výpočtu.
+
+## § 2 – Výpočet výše technicky zdůvodněných ztrát
+
+(1) Výše technicky zdůvodněných ztrát vzniklých při dopravě minerálních olejů je dána součinem množství minerálních olejů dopravovaných v režimu podmíněného osvobození od daně<sup>1</sup>) nebo množství dopravovaných minerálních olejů osvobozených od daně<sup>2</sup>) a stanoveného koeficientu ztrát při dopravě.
+
+(2) Výše technicky zdůvodněných ztrát vzniklých při skladování minerálních olejů se vypočte podle vzorce uvedeného v příloze k této vyhlášce.
+
+## § 3 – Koeficienty ztrát
+
+(1) Koeficient ztrát při dopravě činí
+
+a) 0,0026 pro minerální oleje uvedené v § 45 odst. 1 písm. a) zákona,
+
+b) 0,0020 pro minerální oleje uvedené v § 45 odst. 1 písm. b), c), d), e), f) a g) zákona,
+
+c) 0,0026 pro minerální oleje uvedené v § 45 odst. 2 písm. b), d), e), g), h), i), l) a m) zákona,
+
+d) 0,0020 pro minerální oleje uvedené v § 45 odst. 2 písm. c), f), j) a k) zákona,
+
+e) 0,0020 pro minerální oleje uvedené v § 45 odst. 3 písm. a), b), f), g), i) a k) zákona.
+
+(2) Koeficient ztrát při skladování činí
+
+a) 0,0030 pro minerální oleje uvedené v § 45 odst. 1 písm. a) zákona,
+
+b) 0,0020 pro minerální oleje uvedené v § 45 odst. 1 písm. b) zákona,
+
+c) 0,0008 pro minerální oleje uvedené v § 45 odst. 1 písm. c) a d) zákona,
+
+d) 0,0060 pro minerální oleje uvedené v § 45 odst. 1 písm. e), f) a g) zákona,
+
+e) 0,0020 pro minerální oleje uvedené v § 45 odst. 2 písm. c), f), j) a k) zákona,
+
+f) 0,0030 pro minerální oleje uvedené v § 45 odst. 2 písm. b), d), e), g), h), i), l) a m) zákona,
+
+g) 0,0020 pro minerální oleje uvedené v § 45 odst. 3 písm. a), b) a k) zákona,
+
+h) 0,0030 pro minerální oleje uvedené v § 45 odst. 3 písm. f), g) a i) zákona.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2005.
+
+Ministr:
+
+Ing. Urban v. r.
+
+### Příloha k vyhlášce č. 237/2005 Sb.
+
+#### Výpočet výše technicky zdůvodněných ztrát vzniklých při skladování minerálních olejů
+
+Výše technicky zdůvodněných ztrát vzniklých při skladování minerálních olejů se vypočte podle následujícího vzorce:
+
+A=(P+V)/(2)+(Z1+ZZ)/(2)\*k,
+
+kde
+
+A je výše technicky zdůvodněných ztrát vzniklých při skladování minerálních olejů,
+
+P je množství minerálních olejů přijatých do daňového skladu nebo do skladu, pro který je vydáno povolení k přijímání a užívání vybraných výrobků osvobozených od daně podle zákona o spotřebních daních, za zdaňovací období,
+
+V je množství minerálních olejů vyskladněných z daňového skladu nebo ze skladu, pro který je vydáno povolení k přijímání a užívání vybraných výrobků osvobozených od daně podle zákona o spotřebních daních, za zdaňovací období,
+
+Z1 je evidované množství minerálních olejů skladovaných v daňovém skladu nebo ve skladu, pro který je vydáno povolení k přijímání a užívání vybraných výrobků osvobozených od daně podle zákona o spotřebních daních, k prvnímu dni zdaňovacího období,
+
+Z2 je evidované množství minerálních olejů skladovaných v daňovém skladu nebo ve skladu, pro který je vydáno povolení k přijímání a užívání vybraných výrobků osvobozených od daně podle zákona o spotřebních daních, k poslednímu dni zdaňovacího období,
+
+k je koeficient ztrát při skladování podle § 3 odst. 2.
+
+---
+
+<sup>1</sup>) § 24 a 25 zákona č. 353/2003 Sb., o spotřebních daních, ve znění zákona č. 217/2005 Sb.
+
+<sup>2</sup>) § 50 zákona č. 353/2003 Sb., ve znění zákona č. 217/2005 Sb.

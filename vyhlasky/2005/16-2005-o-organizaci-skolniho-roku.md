@@ -1,0 +1,159 @@
+---
+title: "Vyhláška č. 16/2005 Sb., o organizaci školního roku"
+identifier: "16/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/16/2022-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2004-12-29
+effective: 2005-01-11
+last_amended: 2022-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/16"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 16/2005 Sb., o organizaci školního roku ve znění vyhlášky č. 322/2008 Sb., vyhlášky č. 111/2012 Sb., vyhlášky č. 189/2014 Sb., vyhlášky č. 217/2019 Sb. a vyhlášky č. 200/2021 Sb."
+---
+
+# Vyhláška č. 16/2005 Sb., o organizaci školního roku
+
+16
+
+VYHLÁŠKA
+
+ze dne 29. prosince 2004
+
+o organizaci školního roku
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 24 odst. 5 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon):
+
+## § 1 – Předmět úpravy
+
+Vyhláška upravuje podrobnosti organizace školního roku, druhy, délku a termíny jednotlivých školních prázdnin v základních a středních školách a termíny vydávání vysvědčení v těchto školách.
+
+## § 2 – Organizace školního roku
+
+(1) Období školního vyučování ve školním roce začíná dnem 1. září a končí dnem 30. června následujícího kalendářního roku; člení se na první pololetí a druhé pololetí.
+
+(2) První pololetí začíná dnem 1. září a končí dnem 31. ledna následujícího kalendářního roku. Druhé pololetí začíná dnem 1. února a končí dnem 30. června.
+
+(3) Připadne-li začátek prvního pololetí na pátek, začíná vyučování následující pondělí. Připadne-li konec druhého pololetí na pondělí, končí vyučování předcházející pátek.
+
+(4) Pokud se v souladu s rámcovým vzdělávacím programem daného oboru vzdělání koná odborná nebo umělecká praxe nebo sportovní příprava v období hlavních prázdnin, končí vyučování ve druhém pololetí před termínem stanoveným v odstavcích 2 a 3; vyučování se v období školního vyučování zkracuje o počet vyučovacích dnů odpovídající délce odborné nebo umělecké praxe nebo sportovní přípravy.
+
+(5) Pokud se nejedná o nepředvídatelné situace vyhlašuje volné dny<sup>1</sup>) ředitel školy po projednání s žáky a zřizovatelem.
+
+## § 3 – Termíny vydávání vysvědčení
+
+(1) V posledním vyučovacím dnu období školního vyučování se předává žákům vysvědčení; po ukončení prvního pololetí může škola vydat místo vysvědčení výpis z vysvědčení. V závěrečném ročníku středního vzdělávání se předává žákům vysvědčení v posledním vyučovacím dnu posledního týdne před zahájením společné části maturitní zkoušky nebo před zahájením ústních zkoušek závěrečné zkoušky; obdobně se předává vysvědčení žákům v konzervatoři před konáním společné části maturitní zkoušky a před konáním ústních zkoušek absolutoria. Žákům třetího ročníku oborů vzdělání poskytujících střední vzdělání s výučním listem a střední vzdělání s maturitní zkouškou<sup>2</sup>) se předává vysvědčení v posledním vyučovacím dnu posledního týdne před zahájením ústních zkoušek závěrečné zkoušky.
+
+(2) V případě uvedeném v § 2 odst. 4 se žákům vysvědčení předává neprodleně po doložení splnění odborné nebo umělecké praxe nebo sportovní přípravy v předepsaném rozsahu.
+
+## § 4 – Školní prázdniny
+
+(1) Období školních prázdnin tvoří podzimní prázdniny, vánoční prázdniny, pololetní prázdniny, jarní prázdniny, velikonoční prázdniny a hlavní prázdniny.
+
+(2) Podzimní prázdniny trvají 2 dny a přičleňují se ke státnímu svátku 28. října; jejich počátek stanoví pro každý školní rok Ministerstvo školství, mládeže a tělovýchovy.
+
+(3) Vánoční prázdniny trvají od 23. prosince do 2. ledna následujícího kalendářního roku včetně. Připadne-li 23. prosinec na úterý, začínají prázdniny již předcházejícím pondělím. Jestliže 3. leden připadne na pátek, končí prázdniny tímto pátkem.
+
+(4) Pololetní prázdniny trvají jeden den a připadají na pátek v době od 29. ledna do 4. února.
+
+(5) Jarní prázdniny trvají jeden týden. Termíny jejich konání podle sídla školy v jednotlivých okresech jsou uvedeny v příloze.
+
+(6) Velikonoční prázdniny připadají na čtvrtek, který předchází Velkému pátku.
+
+(7) Hlavní prázdniny trvají od skončení druhého pololetí školního vyučování do zahájení prvního pololetí v novém školním roce.
+
+## § 5 – Zrušovací ustanovení
+
+Zrušuje se:
+
+1\. Vyhláška č. 362/1991 Sb., o organizaci školního roku v základních školách, středních školách a speciálních školách.
+
+2\. Vyhláška č. 99/2002 Sb., kterou se mění vyhláška č. 362/1991 Sb., o organizaci školního roku v základních školách, středních školách a speciálních školách.
+
+3\. Vyhláška č. 113/2003 Sb., kterou se mění vyhláška č. 362/1991 Sb., o organizaci školního roku v základních školách, středních školách a speciálních školách, ve znění vyhlášky č. 99/2002 Sb.
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministryně:
+
+JUDr. Buzková v. r.
+
+### Příloha k vyhlášce č. 16/2005 Sb.
+
+#### Termíny jarních prázdnin od školního roku 2022/2023 do školního roku 2027/2028
+
+I. Školní rok 2022/2023
+
+| Termín jarních prázdnin | Okres nebo obvod hl. města Prahy |
+|---|---|
+| 6. 2. - 12. 2. 2023 | Praha 6 až 10, Cheb, Karlovy Vary, Sokolov, Nymburk, Jindřichův Hradec, Litoměřice, Děčín, Přerov, Frýdek-Místek |
+| 13. 2. - 19. 2. 2023 | Kroměříž, Uherské Hradiště, Vsetín, Zlín, Praha-východ, Praha-západ, Mělník, Rakovník, Plzeň-město, Plzeň-sever, Plzeň-jih, Hradec Králové, Teplice, Nový Jičín |
+| 20. 2. - 26. 2. 2023 | Česká Lípa, Jablonec nad Nisou, Liberec, Semily, Havlíčkův Brod, Jihlava, Pelhřimov, Třebíč, Žďár nad Sázavou, Kladno, Kolín, Kutná Hora, Písek, Náchod, Bruntál |
+| 27. 2. - 5. 3. 2023 | Mladá Boleslav, Příbram, Tábor, Prachatice, Strakonice, Ústí nad Labem, Chomutov, Most, Jičín, Rychnov nad Kněžnou, Olomouc, Šumperk, Opava, Jeseník |
+| 6. 3. - 12. 3. 2023 | Benešov, Beroun, Rokycany, České Budějovice, Český Krumlov, Klatovy, Trutnov, Pardubice, Chrudim, Svitavy, Ústí nad Orlicí, Ostrava-město, Prostějov |
+| 13. 3. - 19. 3. 2023 | Praha 1 až 5, Blansko, Brno-město, Brno-venkov, Břeclav, Hodonín, Vyškov, Znojmo, Domažlice, Tachov, Louny, Karviná |
+
+II. Školní rok 2023/2024
+
+| Termín jarních prázdnin | Okres nebo obvod hl. města Prahy |
+|---|---|
+| 5. 2. - 11. 2. 2024 | Praha 1 až 5, Blansko, Brno-město, Brno-venkov, Břeclav, Hodonín, Vyškov, Znojmo, Domažlice, Tachov, Louny, Karviná |
+| 12. 2. - 18. 2. 2024 | Praha 6 až 10, Cheb, Karlovy Vary, Sokolov, Nymburk, Jindřichův Hradec, Litoměřice, Děčín, Přerov, Frýdek-Místek |
+| 19. 2. - 25. 2. 2024 | Kroměříž, Uherské Hradiště, Vsetín, Zlín, Praha-východ, Praha-západ, Mělník, Rakovník, Plzeň-město, Plzeň-sever, Plzeň-jih, Hradec Králové, Teplice, Nový Jičín |
+| 26. 2. - 3. 3. 2024 | Česká Lípa, Jablonec nad Nisou, Liberec, Semily, Havlíčkův Brod, Jihlava, Pelhřimov, Třebíč, Žďár nad Sázavou, Kladno, Kolín, Kutná Hora, Písek, Náchod, Bruntál |
+| 4. 3. - 10. 3. 2024 | Mladá Boleslav, Příbram, Tábor, Prachatice, Strakonice, Ústí nad Labem, Chomutov, Most, Jičín, Rychnov nad Kněžnou, Olomouc, Šumperk, Opava, Jeseník |
+| 11. 3. - 17. 3. 2024 | Benešov, Beroun, Rokycany, České Budějovice, Český Krumlov, Klatovy, Trutnov, Pardubice, Chrudim, Svitavy, Ústí nad Orlicí, Ostrava-město, Prostějov |
+
+III. Školní rok 2024/2025
+
+| Termín jarních prázdnin | Okres nebo obvod hl. města Prahy |
+|---|---|
+| 3. 2. - 9. 2. 2025 | Benešov, Beroun, Rokycany, České Budějovice, Český Krumlov, Klatovy, Trutnov, Pardubice, Chrudim, Svitavy, Ústí nad Orlicí, Ostrava-město, Prostějov |
+| 10. 2. - 16. 2. 2025 | Praha 1 až 5, Blansko, Brno-město, Brno-venkov, Břeclav, Hodonín, Vyškov, Znojmo, Domažlice, Tachov, Louny, Karviná |
+| 17. 2. - 23. 2. 2025 | Praha 6 až 10, Cheb, Karlovy Vary, Sokolov, Nymburk, Jindřichův Hradec, Litoměřice, Děčín, Přerov, Frýdek-Místek |
+| 24. 2. - 2. 3. 2025 | Kroměříž, Uherské Hradiště, Vsetín, Zlín, Praha-východ, Praha-západ, Mělník, Rakovník, Plzeň-město, Plzeň-sever, Plzeň-jih, Hradec Králové, Teplice, Nový Jičín |
+| 3. 3. - 9. 3. 2025 | Česká Lípa, Jablonec nad Nisou, Liberec, Semily, Havlíčkův Brod, Jihlava, Pelhřimov, Třebíč, Žďár nad Sázavou, Kladno, Kolín, Kutná Hora, Písek, Náchod, Bruntál |
+| 10. 3. - 16. 3. 2025 | Mladá Boleslav, Příbram, Tábor, Prachatice, Strakonice, Ústí nad Labem, Chomutov, Most, Jičín, Rychnov nad Kněžnou, Olomouc, Šumperk, Opava, Jeseník |
+
+IV. Školní rok 2025/2026
+
+| Termín jarních prázdnin | Okres nebo obvod hl. města Prahy |
+|---|---|
+| 2. 2. - 8. 2. 2026 | Mladá Boleslav, Příbram, Tábor, Prachatice, Strakonice, Ústí nad Labem, Chomutov, Most, Jičín, Rychnov nad Kněžnou, Olomouc, Šumperk, Opava, Jeseník |
+| 9. 2. - 15. 2. 2026 | Benešov, Beroun, Rokycany, České Budějovice, Český Krumlov, Klatovy, Trutnov, Pardubice, Chrudim, Svitavy, Ústí nad Orlicí, Ostrava-město, Prostějov |
+| 16. 2. - 22. 2. 2026 | Praha 1 až 5, Blansko, Brno-město, Brno-venkov, Břeclav, Hodonín, Vyškov, Znojmo, Domažlice, Tachov, Louny, Karviná |
+| 23. 2. - 1. 3. 2026 | Praha 6 až 10, Cheb, Karlovy Vary, Sokolov, Nymburk, Jindřichův Hradec, Litoměřice, Děčín, Přerov, Frýdek-Místek |
+| 2. 3. - 8. 3. 2026 | Kroměříž, Uherské Hradiště, Vsetín, Zlín, Praha-východ, Praha-západ, Mělník, Rakovník, Plzeň-město, Plzeň-sever, Plzeň-jih, Hradec Králové, Teplice, Nový Jičín |
+| 9. 3. - 15. 3. 2026 | Česká Lípa, Jablonec nad Nisou, Liberec, Semily, Havlíčkův Brod, Jihlava, Pelhřimov, Třebíč, Žďár nad Sázavou, Kladno, Kolín, Kutná Hora, Písek, Náchod, Bruntál |
+
+V. Školní rok 2026/2027
+
+| Termín jarních prázdnin | Okres nebo obvod hl. města Prahy |
+|---|---|
+| 1. 2. - 7. 2. 2027 | Česká Lípa, Jablonec nad Nisou, Liberec, Semily, Havlíčkův Brod, Jihlava, Pelhřimov, Třebíč, Žďár nad Sázavou, Kladno, Kolín, Kutná Hora, Písek, Náchod, Bruntál |
+| 8. 2. - 14. 2. 2027 | Mladá Boleslav, Příbram, Tábor, Prachatice, Strakonice, Ústí nad Labem, Chomutov, Most, Jičín, Rychnov nad Kněžnou, Olomouc, Šumperk, Opava, Jeseník |
+| 15. 2. - 21. 2. 2027 | Benešov, Beroun, Rokycany, České Budějovice, Český Krumlov, Klatovy, Trutnov, Pardubice, Chrudim, Svitavy, Ústí nad Orlicí, Ostrava-město, Prostějov |
+| 22. 2. - 28. 2. 2027 | Praha 1 až 5, Blansko, Brno-město, Brno-venkov, Břeclav, Hodonín, Vyškov, Znojmo, Domažlice, Tachov, Louny, Karviná |
+| 1. 3. - 7. 3. 2027 | Praha 6 až 10, Cheb, Karlovy Vary, Sokolov, Nymburk, Jindřichův Hradec, Litoměřice, Děčín, Přerov, Frýdek-Místek |
+| 8. 3. - 14. 3. 2027 | Kroměříž, Uherské Hradiště, Vsetín, Zlín, Praha-východ, Praha-západ, Mělník, Rakovník, Plzeň-město, Plzeň-sever, Plzeň-jih, Hradec Králové, Teplice, Nový Jičín |
+
+VI. Školní rok 2027/2028
+
+| Termín jarních prázdnin | Okres nebo obvod hl. města Prahy |
+|---|---|
+| 7. 2. - 13. 2. 2028 | Kroměříž, Uherské Hradiště, Vsetín, Zlín, Praha-východ, Praha-západ, Mělník, Rakovník, Plzeň-město, Plzeň-sever, Plzeň-jih, Hradec Králové, Teplice, Nový Jičín |
+| 14. 2. - 20. 2. 2028 | Česká Lípa, Jablonec nad Nisou, Liberec, Semily, Havlíčkův Brod, Jihlava, Pelhřimov, Třebíč, Žďár nad Sázavou, Kladno, Kolín, Kutná Hora, Písek, Náchod, Bruntál |
+| 21. 2. - 27. 2. 2028 | Mladá Boleslav, Příbram, Tábor, Prachatice, Strakonice, Ústí nad Labem, Chomutov, Most, Jičín, Rychnov nad Kněžnou, Olomouc, Šumperk, Opava, Jeseník |
+| 28. 2. - 5. 3. 2028 | Benešov, Beroun, Rokycany, České Budějovice, Český Krumlov, Klatovy, Trutnov, Pardubice, Chrudim, Svitavy, Ústí nad Orlicí, Ostrava-město, Prostějov |
+| 6. 3. - 12. 3. 2028 | Praha 1 až 5, Blansko, Brno-město, Brno-venkov, Břeclav, Hodonín, Vyškov, Znojmo, Domažlice, Tachov, Louny, Karviná |
+| 13. 3. - 19. 3. 2028 | Praha 6 až 10, Cheb, Karlovy Vary, Sokolov, Nymburk, Jindřichův Hradec, Litoměřice, Děčín, Přerov, Frýdek-Místek |
+
+---
+
+<sup>1</sup>) § 24 odst. 2 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon).
+
+<sup>2</sup>) Tabulka D6 v příloze č. 1 k nařízení vlády č. 211/2010 Sb., o soustavě oborů vzdělání v základním, středním a vyšším odborném vzdělávání, ve znění pozdějších předpisů.

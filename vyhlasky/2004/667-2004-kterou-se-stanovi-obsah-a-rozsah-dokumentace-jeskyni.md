@@ -1,0 +1,122 @@
+---
+title: "Vyhláška č. 667/2004 Sb., kterou se stanoví obsah a rozsah dokumentace jeskyní"
+identifier: "667/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/667/2005-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2004-12-16
+effective: 2005-01-01
+last_amended: 2005-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/667"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 667/2004 Sb., kterou se stanoví obsah a rozsah dokumentace jeskyní
+
+667
+
+VYHLÁŠKA
+
+ze dne 16. prosince 2004,
+
+kterou se stanoví obsah a rozsah dokumentace jeskyní
+
+Ministerstvo životního prostředí stanoví podle § 10 odst. 5 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb.:
+
+**Dokumentace jeskyně**
+
+## § 1
+
+(1) Dokumentování jeskyně spočívá ve zjištění základních identifikačních údajů o jeskyni a její charakteristice, jejím zaměření a fotodokumentaci, popřípadě odběru vzorků přírodnin.
+
+(2) Základní identifikační údaje o jeskyni jsou
+
+1\. název jeskyně, synonyma a evidenční číslo podle Jednotné evidence speleologických objektů vedené Agenturou ochrany přírody a krajiny (je-li přiděleno),
+
+2\. typ dutiny (například jeskyně, propast, komín),
+
+3\. podrobná lokalizace vchodu (vchodů) včetně souřadnic S-JTSK<sup>1</sup>),
+
+4\. nadmořská výška vchodu (vchodů) v systému Bpv<sup>1</sup>),
+
+5\. relativní výška vchodu (vchodů) nad srovnávací úrovní (například nade dnem údolí, řekou, počvou lomu),
+
+6\. název dobývacího prostoru a ložiska,
+
+7\. katastrální území a místní název lokality,
+
+8\. datum a způsob případné likvidace jeskyně (například odtěžení, zavalení) nebo jejího dalšího využívání.
+
+(3) Základní charakteristika jeskyně obsahuje údaje o
+
+a) typu a charakteru jeskyně (například horizontální, chodba, síň, dóm, puklinovitá propast, komín),
+
+b) morfologii jeskyně,
+
+c) délce, hloubce a převýšení jeskyně,
+
+d) geologických poměrech,
+
+e) hydrologické funkci (například o vodních stavech, proudění, teplotě a složení vody),
+
+f) sedimentárních a minerálních výplních,
+
+g) paleontologických, archeologických či historických nálezech,
+
+h) mikroklimatických poměrech (například o průvanech, teplotě, vlhkosti a složení vzduchu),
+
+i) biologickém významu jeskyně (například o nálezech kolonií netopýrů, bezobratlých živočichů, hub),
+
+j) dalších významných přírodních jevech (například o výronech plynů),
+
+k) předpokladech dalšího pokračování prostor jeskyně a perspektivách souvisejících objevů,
+
+l) statických poměrech jeskyně, možnostech jejího zachování, dalšího využívání či způsobu likvidace,
+
+m) jiných ochranných podmínkách vyplývajících ze zvláštních právních předpisů<sup>2</sup>) (například ochranných pásmech lázní, liniových staveb),
+
+n) datu a okolnostech objevů a průzkumů,
+
+o) použitých metodách průzkumu a dokumentace,
+
+p) literatuře a použitých podkladech,
+
+r) jménu a příjmení zpracovatele a datu zpracování dokumentace.
+
+(4) Měřická dokumentace obsahuje
+
+a) mapu povrchu s vyznačením průmětu jeskyně (například kopii základní mapy lomu podle zvláštního právního předpisu<sup>3</sup>),
+
+b) speleologickou mapu jeskyně<sup>3</sup>) v měřítku 1 : 100,
+
+c) profily a řezy v měřítku 1 : 100,
+
+d) technickou zprávu o provedených měřických pracích s uvedením dosažené přesnosti,
+
+e) seznam souřadnic bodů základního bodového pole<sup>1</sup>).
+
+(5) Fotografická dokumentace obsahuje barevné snímky původního stavu jeskyně a změn stavu jeskyně vyvolaného těžbou (například morfologie, krasové výplně) v elektronické podobě.
+
+(6) K výsledné dokumentaci jeskyně se přiloží též odebrané vzorky přírodnin (například horniny, minerály, paleontologické nálezy).
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2005.
+
+Ministr:
+
+RNDr. Ambrozek v. r.
+
+### Příloha k vyhlášce č. 667/2004 Sb.
+
+#### ![sbcr2004c227z0667p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/875279/NAHLED/ZOBRAZ/sbcr2004c227z0667p001u001)
+
+---
+
+<sup>1</sup>) Nařízení vlády č. 116/1995 Sb., kterým se stanoví geodetické referenční systémy, státní mapová díla závazná na celém území státu a zásady jejich používání.
+
+<sup>2</sup>) Například zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 347/1992 Sb., zákona č. 289/1995 Sb., zákona č. 3/1997 Sb., zákona č. 16/1997 Sb., zákona č. 123/1998 Sb., zákona č. 161/1999 Sb., zákona č. 238/1999 Sb., zákona č. 132/2000 Sb., zákona č. 76/2002 Sb., zákona č. 320/2002 Sb., zákona č. 100/2004 Sb., zákona č. 168/2004 Sb. a zákona č. 218/2004 Sb.
+
+<sup>3</sup>) Část pátá vyhlášky č. 435/1992 Sb., o důlně měřické dokumentaci při hornické činnosti a některých činnostech prováděných hornických způsobem, ve znění vyhlášky č. 157/1998 Sb.

@@ -1,0 +1,142 @@
+---
+title: "Nařízení vlády č. 422/2005 Sb., o prohlášení Horského hotelu a televizního vysílače Ještěd u Liberce a některých movitých kulturních památek za národní kulturní památky a o změně některých dalších předpisů"
+identifier: "422/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/422/2006-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2005-09-29
+effective: 2006-01-01
+last_amended: 2006-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/422"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 422/2005 Sb., o prohlášení Horského hotelu a televizního vysílače Ještěd u Liberce a některých movitých kulturních památek za národní kulturní památky a o změně některých dalších předpisů
+
+422
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 29. září 2005
+
+o prohlášení Horského hotelu a televizního vysílače Ještěd u Liberce a některých movitých kulturních památek za národní kulturní památky a o změně některých dalších předpisů
+
+Vláda nařizuje podle § 4 odst. 1 zákona č. 20/1987 Sb., o státní památkové péči:
+
+## ČÁST PRVNÍ – PROHLÁŠENÍ HORSKÉHO HOTELU A TELEVIZNÍHO VYSÍLAČE JEŠTĚD U LIBERCE A NĚKTERÝCH MOVITÝCH KULTURNÍCH PAMÁTEK ZA NÁRODNÍ KULTURNÍ PAMÁTKY
+
+### § 1
+
+(1) Za národní kulturní památku se prohlašuje nemovitá kulturní památka Horský hotel a televizní vysílač Ještěd u Liberce.
+
+(2) Za národní kulturní památky se prohlašují tyto movité kulturní památky:
+
+a) soubor movitých archeologických nálezů z hradiště Mikulčice z období Velké Moravy,
+
+b) Kodex vyšehradský,
+
+c) Pasionál abatyše Kunhuty,
+
+d) Velislavova bible,
+
+e) soubor gotických soch z období krásného slohu v českých zemích,
+
+f) soubor zvonů a cimbálů chrámu sv. Víta v Praze,
+
+g) soubor barokních oltářních obrazů Karla Škréty a Petra Brandla,
+
+h) Kynžvartská daguerrotypie,
+
+i) soubor automobilů NW a Tatra.
+
+(3) Název, číslo v rejstříku Ústředního seznamu kulturních památek České republiky (dále jen „ústřední seznam“), popis a prostorové identifikační znaky národní kulturní památky podle odstavce 1 jsou uvedeny v příloze č. 1 k tomuto nařízení.
+
+(4) Názvy, čísla v rejstříku ústředního seznamu, charakteristiky a trvalé umístění národních kulturních památek podle odstavce 2 jsou uvedeny v příloze č. 2 k tomuto nařízení.
+
+### § 2
+
+Pro ochranu národních kulturních památek prohlášených tímto nařízením se stanovují tyto podmínky:
+
+a) obnova národní kulturní památky musí být prováděna v souladu s výsledky současného vědeckého poznání a s cílem trvalého uchování hmotné podstaty a vzhledu národní kulturní památky,
+
+b) způsob užívání národní kulturní památky a činnosti s tím přímo spojené nesmějí ohrozit uchování a rozvoj jejích kulturních a výchovně vzdělávacích funkcí.
+
+## ČÁST DRUHÁ – Změna nařízení vlády č. 262/1995 Sb., ve znění pozdějších předpisů
+
+### § 3
+
+V písmenu l) přílohy k nařízení vlády č. 262/1995 Sb., o prohlášení a zrušení prohlášení některých kulturních památek za národní kulturní památky, ve znění nařízení vlády č. 336/2002 Sb., bod 3 zní:
+
+> „3.
+
+> | Název: | Důl Michal v Ostravě |
+> |---|---|
+> | Popis: | areál kamenouhelného hlubinného dolu tvořený budovami, jinými nemovitými objekty a technickým zařízením, které jsou kulturními památkami, na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+> | Prostorové identifikační znaky: | |
+> | Okres: | Ostrava-město |
+> | Obec: | Ostrava |
+> | Katastrální území: | Michálkovice |
+> | Pozemky, parcelní čísla: | stavební parcely: 86, 88, 89, 238, 243, 244/1, 244/2, 245, 246, 248, 249, 448, 824, 825, 826<br> pozemkové parcely: 17/18, 19 |
+> | Budovy, čísla popisná: | 413, 714;“. |
+
+## ČÁST TŘETÍ – Změna nařízení vlády č. 337/2002 Sb.
+
+### § 4
+
+Písmeno e) přílohy k nařízení vlády č. 337/2002 Sb., o prohlášení a zrušení prohlášení některých kulturních památek za národní kulturní památky, zní:
+
+> „e) v Moravskoslezském kraji
+
+> | Název: | Důl Hlubina a vysoké pece a koksovna Vítkovických železáren |
+> |---|---|
+> | Popis: | areál kamenouhelného hlubinného dolu, vysokých pecí a koksovny tvořený budovami, jinými nemovitými objekty a technickým zařízením, které jsou kulturními památkami, na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+> | Prostorové identifikační znaky: | |
+> | Okres: | Ostrava-město |
+> | Obec: | Ostrava |
+> | Katastrální území: | Moravská Ostrava |
+> | Pozemky, parcelní čísla: | 3206/2, 3207, 3209, 3211, 3212, 3214, 3220/1 (část), 3220/2, 3220/3, 3226/1, 3226/2, 3226/3 |
+> | Katastrální území: | Vítkovice |
+> | Pozemky, parcelní čísla: | 1051/1, 1051/24, 1051/26, 1051/44, 1051/78, 1051/90 (část), 1051/92, 1051/93, 1051/95.“. |
+
+## ČÁST ČTVRTÁ – SPOLEČNÁ USTANOVENÍ
+
+### § 5
+
+Národní památkový ústav vyznačí národní kulturní památky podle § 1 odst. 1, písm. l) bodu 3 přílohy k nařízení vlády č. 262/1995 Sb., ve znění tohoto nařízení, a písm. e) přílohy k nařízení vlády č. 337/2002 Sb., ve znění tohoto nařízení, vždy do 2 vyhotovení kopie katastrální mapy a ve lhůtě 30 dnů ode dne nabytí účinnosti tohoto nařízení po 1 vyhotovení uloží do ústředního seznamu a po 1 vyhotovení zašle v případě podle § 1 odst. 1 Krajskému úřadu Libereckého kraje a v ostatních případech Krajskému úřadu Moravskoslezského kraje.
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### § 6
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2006.
+
+Předseda vlády:
+
+Ing. Paroubek v. r.
+
+Ministr kultury:
+
+Mgr. Jandák v. r.
+
+### Příloha č. 1 k nařízení vlády č. 422/2005 Sb.
+
+#### Název, číslo v rejstříku ústředního seznamu, popis a prostorové identifikační znaky národní kulturní památky Horský hotel a televizní vysílač Ještěd u Liberce
+
+| Název: | **Horský hotel a televizní vysílač Ještěd u Liberce** |
+|---|---|
+| Číslo v rejstříku ústředního seznamu: | 11864/5-5828 |
+| Popis: | budova horského hotelu s televizním vysílačem stojící na hoře Ještěd, na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků |
+| Prostorové identifikační znaky: | |
+| Kraj: | Liberecký |
+| Obec: | Liberec |
+| Katastrální území: | Horní Hanychov |
+| Pozemky, parcelní čísla: | 697, 698 |
+| Budova, číslo popisné: | 153 |
+
+### Příloha č. 2 k nařízení vlády č. 422/2005 Sb.
+
+#### Názvy, čísla v rejstříku ústředního seznamu, charakteristiky a trvalé umístění movitých národních kulturních památek
+
+<table><tbody><tr><td>a)</td><td>Název:</td><td><b>Soubor movitých archeologických nálezů z hradiště Mikulčice z období Velké Moravy</b></td></tr><tr><td></td><td>Číslo v rejstříku ústředního seznamu:</td><td>101553</td></tr><tr><td></td><td>Charakteristika:</td><td>ucelený soubor tvořený 417 movitými archeologickými nálezy zejména z drahých kovů, z 9. století a 1. poloviny 10. století</td></tr><tr><td></td><td>Trvalé umístění:</td><td>ve sbírkách Archeologického ústavu v Brně Akademie věd České republiky</td></tr><tr><td>b)</td><td>Název:</td><td><b>Kodex vyšehradský</b></td></tr><tr><td></td><td>Číslo v rejstříku ústředního seznamu:</td><td>101522</td></tr><tr><td></td><td>Charakteristika:</td><td>iluminovaný rukopis z 2. poloviny 11. století</td></tr><tr><td></td><td>Trvalé umístění:</td><td>v historickém fondu Národní knihovny České republiky v Praze</td></tr><tr><td>c)</td><td>Název:</td><td><b>Pasionál abatyše Kunhuty</b></td></tr><tr><td></td><td>Číslo v rejstříku ústředního seznamu:</td><td>101522</td></tr><tr><td></td><td>Charakteristika:</td><td>iluminovaný rukopis z 1. třetiny 14. století</td></tr><tr><td></td><td>Trvalé umístění:</td><td>v historickém fondu Národní knihovny České republiky v Praze</td></tr><tr><td>d)</td><td>Název:</td><td><b>Velislavova bible</b></td></tr><tr><td></td><td>Číslo v rejstříku ústředního seznamu:</td><td>101424</td></tr><tr><td></td><td>Charakteristika:</td><td>rukopis s perokresbami z doby kolem roku 1350</td></tr><tr><td></td><td>Trvalé umístění:</td><td>v historickém fondu Národní knihovny České republiky v Praze</td></tr><tr><td>e)</td><td>Název:</td><td><b>Soubor gotických soch z období krásného slohu v českých zemích</b></td></tr><tr><td></td><td rowspan="2">Čísla v rejstříku ústředního seznamu:</td><td rowspan="2">131313/4-176, 67964/32-6200, 68446/37-26474, 68447/37-26572, 21983/3-5449, 101478</td></tr><tr><td></td></tr><tr><td rowspan="7"></td><td>Charakteristika a trvalé umístění:</td><td>soubor tvořený 6 sochami:</td></tr><tr><td></td><td>1. Plzeňská madona, kamenná socha Panny Marie s Ježíšem jako dítětem, z doby kolem roku 1395, umístěná v kostele sv. Bartoloměje, obec a k. ú. Plzeň, okres Plzeň-město, Plzeňský kraj,</td></tr><tr><td></td><td>2. Svatý Petr ze Slivice, kamenná socha světce, z doby kolem roku 1395, umístěná v kostele sv. Petra, obec a k. ú. Milín, okres Příbram, Středočeský kraj,</td></tr><tr><td></td><td>3. Svatá Kateřina z Jihlavy, kamenná socha světice, z doby kolem roku 1400, umístěná v kostele sv. Jakuba, obec a k. ú. Jihlava, okres Jihlava, Kraj Vysočina,</td></tr><tr><td></td><td>4. Jihlavská pieta, kamenné sousoší Panny Marie s mrtvým tělem Ježíše Krista, z doby kolem roku 1400, umístěné v kostele sv. Ignáce, obec a k. ú. Jihlava, okres Jihlava, Kraj Vysočina,</td></tr><tr><td></td><td>5. Třeboňská madona, kamenná socha Panny Marie s Ježíšem jako dítětem, z doby kolem roku 1400, umístěná v kostele sv. Jiljí, obec a k. ú. Třeboň, okres Jindřichův Hradec, Jihočeský kraj,</td></tr><tr><td></td><td>6. Šternberská madona, kamenná socha Panny Marie s Ježíšem jako dítětem, z doby kolem roku 1400, umístěná v kostele Zvěstování Panny Marie, obec a k. ú. Šternberk, okres Olomouc, Olomoucký kraj</td></tr><tr><td>f)</td><td>Název:</td><td><b>Soubor zvonů a cimbálů chrámu sv. Víta v Praze</b></td></tr><tr><td></td><td>Číslo v rejstříku ústředního seznamu:</td><td>49386/31-16417</td></tr><tr><td></td><td>Charakteristika:</td><td>historický soubor tvořený 4 zvony: </td></tr><tr><td></td><td></td><td>1. Zikmund, z roku 1549,</td></tr><tr><td></td><td></td><td>2. Václav, z roku 1542,</td></tr><tr><td></td><td></td><td>3. Jan Křtitel, z roku 1546,</td></tr><tr><td></td><td></td><td>4. Josef, z roku 1602,</td></tr><tr><td></td><td></td><td>a dále 2 cimbály z roku 1552 a 1 cimbálem z roku 1735</td></tr><tr><td></td><td>Trvalé umístění:</td><td>v katedrále sv. Víta, obec hlavní město Praha, městská část Praha 1, k. ú Hradčany</td></tr><tr><td>g)</td><td>Název:</td><td><b>Soubor barokních oltářních obrazů Karla Škréty a Petra Brandla</b></td></tr><tr><td></td><td>Čísla v rejstříku ústředního seznamu:</td><td>11728/1-28, 38927/1-493, 20225/5-1994, 37001/4-1393, 11718/11426, 37439/6-700</td></tr><tr><td rowspan="7"></td><td>Charakteristika a trvalé umístění:</td><td>soubor tvořený 6 oltářními obrazy:</td></tr><tr><td></td><td>1. Nanebevzetí Panny Marie, titulní obraz hlavního oltáře, od Karla Škréty z roku 1649, umístěný v kostele Matky Boží před Týnem, obec hlavní město Praha, městská část Praha 1, k. ú. Staré Město,</td></tr><tr><td></td><td>2. Madona žehná maltézským rytířům v bitvě u Lepanta, obraz hlavního oltáře, od Karla Škréty z doby kolem roku 1651, umístěný v kostele Panny Marie pod řetězem, obec hlavní město Praha, městská část Praha 1, k. ú. Malá Strana,</td></tr><tr><td></td><td>3. Narození Panny Marie, titulní obraz hlavního oltáře, od Petra Brandla z roku 1703, umístěný v kostele Narození Panny Marie, obec a k. ú. Doksany, okres Litoměřice, Ústecký kraj,</td></tr><tr><td></td><td>4. Křest Kristův, obraz hlavního oltáře, od Petra Brandla z období let 1715 až 1716, umístěný v kostele sv. Jana Křtitele, obec a k. ú. Manětín, okres Plzeň-sever, Plzeňský kraj,</td></tr><tr><td></td><td>5. Smrt blahoslaveného Vintíře, titulní obraz bočního oltáře, od Petra Brandla z roku 1718, umístěný v kostele sv. Markéty, obec hlavní město Praha, městská část Praha 6, k. ú. Břevnov,</td></tr><tr><td></td><td>6. Klanění tří králů, titulní obraz hlavního oltáře, od Petra Brandla z roku 1727, umístěný v kostele Zjevení Páně, obec a k. ú. Smiřice, okres Hradec Králové, Královéhradecký kraj</td></tr><tr><td>h)</td><td>Název:</td><td><b>Kynžvartská daguerrotypie</b></td></tr><tr><td></td><td>Číslo v rejstříku ústředního seznamu:</td><td>13298/34-5888</td></tr><tr><td></td><td>Charakteristika: Trvalé umístění:</td><td>daguerrotypie zátiší ateliéru umělce z doby krátce před rokem 1839 v mobiliárním fondu Kynžvart Národního památkového ústavu</td></tr><tr><td>i)</td><td>Název:</td><td><b>Soubor automobilů NW a Tatra</b></td></tr><tr><td></td><td>Číslo v rejstříku ústředního seznamu:</td><td>101502</td></tr><tr><td rowspan="6"></td><td>Charakteristika:</td><td>soubor tvořený 5 automobily: </td></tr><tr><td></td><td>1. NW President, z roku 1898,</td></tr><tr><td></td><td>2. Tatra 11, z roku 1925,</td></tr><tr><td></td><td>3. Tatra 80, z roku 1935,</td></tr><tr><td></td><td>4. Tatra 77a, z roku 1937,</td></tr><tr><td></td><td>5. Tatra 87, z roku 1947</td></tr><tr><td></td><td>Trvalé umístění:</td><td>ve sbírkách Národního technického muzea v Praze</td></tr></tbody></table>

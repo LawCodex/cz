@@ -1,0 +1,100 @@
+---
+title: "Zákon č. 255/2005 Sb., kterým se mění zákon č. 2/1991 Sb., o kolektivním vyjednávání, ve znění pozdějších předpisů"
+identifier: "255/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/255/2005-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2005-05-03
+effective: 2005-07-01
+last_amended: 2005-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/255"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 255/2005 Sb., kterým se mění zákon č. 2/1991 Sb., o kolektivním vyjednávání, ve znění pozdějších předpisů
+
+255
+
+ZÁKON
+
+ze dne 3. května 2005,
+
+kterým se mění zákon č. 2/1991 Sb., o kolektivním vyjednávání, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 2/1991 Sb., o kolektivním vyjednávání, ve znění zákona č. 519/1991 Sb., zákona č. 118/1995 Sb., zákona č. 155/1995 Sb., zákona č. 220/2000 Sb., zákona č. 151/2002 Sb. a nálezu Ústavního soudu vyhlášeného pod č. 199/2003 Sb., se mění takto:
+
+1\. § 7 včetně poznámek pod čarou č. 4a, 4b a 4c zní:
+
+> **„§ 7**
+
+> (1) Smluvní strany kolektivní smlouvy vyššího stupně mohou společně navrhnout, aby bylo ve Sbírce zákonů vyhlášeno sdělení<sup>4a</sup>) Ministerstva práce a sociálních věcí, že kolektivní smlouva vyššího stupně je závazná i pro další zaměstnavatele s převažující činností v odvětví označeném kódem Odvětvové klasifikace ekonomických činností<sup>4b</sup>) (dále jen „odvětví“).
+
+> (2) Sdělení Ministerstva práce a sociálních věcí podle odstavce 1 se vyhlásí ve Sbírce zákonů, pokud je kolektivní smlouva vyššího stupně uzavřena
+
+> a) organizací zaměstnavatelů, kteří v odvětví, v němž se navrhuje rozšířit závaznost kolektivní smlouvy vyššího stupně, zaměstnávají největší počet zaměstnanců, nebo
+
+> b) příslušným vyšším odborovým orgánem, který v odvětví, v němž se navrhuje rozšířit závaznost kolektivní smlouvy vyššího stupně, jedná za největší počet zaměstnanců.
+
+> (3) Splnění podmínek stanovených v odstavci 2 se posuzuje k poslednímu dni čtvrtletí, za které jsou k dispozici statistické informace podle odstavce 6.
+
+> (4) Návrh na rozšíření závaznosti kolektivní smlouvy vyššího stupně (dále jen „návrh“) musí být písemný, podepsaný smluvními stranami na téže listině a musí obsahovat označení kolektivní smlouvy vyššího stupně a odvětví, v němž má být její závaznost rozšířena na další zaměstnavatele. Dále musí obsahovat
+
+> a) seznamy zaměstnavatelů, pro které je kolektivní smlouva vyššího stupně závazná, a celkový počet jejich zaměstnanců, seznamy zaměstnavatelů, kteří jsou členy ostatních organizací zaměstnavatelů v tomtéž odvětví, celkové počty jejich zaměstnanců a kódy Odvětvové klasifikace ekonomických činností<sup>4b</sup>), nebo
+
+> b) celkový počet zaměstnanců, za které jedná příslušný vyšší odborový orgán uvedený v odstavci 2 písm. b), to je seznam zaměstnavatelů, u kterých tento orgán působí prostřednictvím příslušného odborového orgánu, a celkový počet jejich zaměstnanců, a počet zaměstnanců, za které jedná jiný příslušný vyšší odborový orgán, který působí v tomtéž odvětví, to je seznam zaměstnavatelů, u kterých tento orgán působí prostřednictvím příslušného odborového orgánu, počet jejich zaměstnanců a jejich kód Odvětvové klasifikace ekonomických činností<sup>4b</sup>).
+
+> Smluvní strany připojí k návrhu znění kolektivní smlouvy vyššího stupně v písemné a elektronické podobě.
+
+> (5) Organizace zaměstnavatelů je povinna pro tyto účely písemně sdělit Ministerstvu práce a sociálních věcí a organizaci zaměstnavatelů, která působí v tomtéž odvětví, na žádost seznam zaměstnavatelů, kteří jsou jejími členy, a celkový počet jejich zaměstnanců. Vyšší odborový orgán je povinen pro tyto účely písemně sdělit Ministerstvu práce a sociálních věcí a vyššímu odborovému orgánu, který působí v tomtéž odvětví, na žádost celkový počet zaměstnanců, za které jedná, a seznam zaměstnavatelů, u kterých působí příslušná odborová organizace.
+
+> (6) Skutečnosti stanovené v odstavci 4 prokazují smluvní strany statistickými informacemi Českého statistického úřadu o celkovém počtu zaměstnanců a písemnými sděleními podle odstavce 5.
+
+> (7) Pokud návrh nesplňuje náležitosti stanovené v odstavci 4, vyzve Ministerstvo práce a sociálních věcí smluvní strany k odstranění nedostatků, popřípadě k doplnění návrhu a stanoví jim k tomu přiměřenou lhůtu. Zároveň je poučí, že pokud nedostatky neodstraní, popřípadě návrh nedoplní, nebude možné vyhlásit sdělení podle odstavce 1.
+
+> (8) Smluvní strany kolektivní smlouvy vyššího stupně mohou vzít návrh zpět do 15 dnů od jeho doručení. Na náležitosti zpětvzetí návrhu se vztahuje odstavec 4 věta první obdobně.
+
+> (9) Jsou-li splněny podmínky stanovené v odstavci 2 a návrh obsahuje náležitosti stanovené v odstavci 4, zašle Ministerstvo práce a sociálních věcí bez zbytečného odkladu, nejdříve však po uplynutí lhůty stanovené v odstavci 8, sdělení uvedené v odstavci 1 k vyhlášení do Sbírky zákonů. Ve sdělení uvede též místo, kde se lze seznámit s obsahem kolektivní smlouvy vyššího stupně, jejíž závaznost se rozšiřuje na další zaměstnavatele. Ministerstvo práce a sociálních věcí zároveň zašle kolektivní smlouvu vyššího stupně v elektronické podobě úřadům práce<sup>4c</sup>) a zveřejní ji způsobem umožňujícím dálkový přístup. Úřad práce umožňuje každému, kdo o to požádá, nahlédnout do kolektivní smlouvy vyššího stupně, jejíž závaznost byla rozšířena na další zaměstnavatele.
+
+> (10) Nejsou-li splněny podmínky stanovené v odstavci 2 nebo návrh neobsahuje náležitosti stanovené v odstavci 4, popřípadě jestliže smluvní strany neodstranily ve stanovené lhůtě nedostatky návrhu, nebo jej nedoplnily, Ministerstvo práce a sociálních věcí písemně vyrozumí smluvní strany, že jejich návrhu nevyhovuje.
+
+> <sup>4a</sup>) § 2 odst. 1 písm. e) zákona č. 309/1999 Sb., o Sbírce zákonů a o Sbírce mezinárodních smluv.
+
+> <sup>4b</sup>) § 18 odst. 1 a § 19 zákona č. 89/1995 Sb., o státní statistické službě, ve znění zákona č. 220/2000 Sb. a zákona č. 411/2000 Sb.
+
+> <sup>4c</sup>) § 8 odst. 1 písm. m) zákona č. 435/2004 Sb., o zaměstnanosti.“.
+
+2\. Za § 7 se vkládá nový § 7a, který včetně poznámek pod čarou č. 4d, 4e a 4f zní:
+
+> **„§ 7a**
+
+> Kolektivní smlouva vyššího stupně je závazná od prvního dne měsíce následujícího po vyhlášení sdělení podle § 7 odst. 1 ve Sbírce zákonů pro další zaměstnavatele s převažující činností v odvětví, s výjimkou zaměstnavatele,
+
+> a) na kterého byl nejpozději k tomuto dni prohlášen konkurs<sup>4d</sup>),
+
+> b) který k tomuto dni zaměstnává více než 50 % fyzických osob se zdravotním postižením<sup>4e</sup>),
+
+> c) který k tomuto dni zaměstnává méně než 20 zaměstnanců,
+
+> d) u kterého došlo k mimořádné události<sup>4f</sup>), jejíž následky k tomuto dni trvají, nebo
+
+> e) pro kterého je závazná jiná kolektivní smlouva vyššího stupně.
+
+> <sup>4d</sup>) Zákon č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů.
+
+> <sup>4e</sup>) § 67 zákona č. 435/2004 Sb.
+
+> <sup>4f</sup>) § 2 písm. b) zákona č. 239/2000 Sb., o integrovaném záchranném systému a o změně některých zákonů, ve znění zákona č. 320/2002 Sb.“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti prvním dnem měsíce následujícího po dni jeho vyhlášení.
+
+Zaorálek v. r.
+
+Paroubek v. r.

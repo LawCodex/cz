@@ -1,0 +1,669 @@
+---
+title: "Vyhláška č. 540/2005 Sb., o kvalitě dodávek elektřiny a souvisejících služeb v elektroenergetice"
+identifier: "540/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/540/2010-02-27"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-12-15
+effective: 2006-01-01
+last_amended: 2010-02-27
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/540"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 540/2005 Sb., o kvalitě dodávek elektřiny a souvisejících služeb v elektroenergetice ve znění vyhlášky č. 41/2010 Sb."
+---
+
+# Vyhláška č. 540/2005 Sb., o kvalitě dodávek elektřiny a souvisejících služeb v elektroenergetice
+
+540
+
+VYHLÁŠKA
+
+ze dne 15. prosince 2005
+
+o kvalitě dodávek elektřiny a souvisejících služeb v elektroenergetice
+
+Energetický regulační úřad (dále jen „Úřad“) stanoví podle § 98 odst. 7 zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 670/2004 Sb., k provedení § 17 odst. 7 písm. a) energetického zákona:
+
+## ČÁST PRVNÍ – OBECNÁ ČÁST
+
+### § 1 – Předmět úpravy
+
+Tato vyhláška stanoví požadovanou kvalitu dodávek a služeb souvisejících s regulovanými činnostmi v elektroenergetice, včetně výše náhrad za její nedodržení, postupy a lhůty pro uplatnění nároku na náhrady, a postupy pro vykazování dodržování kvality dodávek a služeb.
+
+### § 2 – Základní pojmy
+
+Pro účely této vyhlášky se rozumí
+
+a) přerušením přenosu nebo distribuce elektřiny – stav v odběrném nebo předávacím místě účastníka trhu s elektřinou, při kterém není přenosová nebo distribuční soustava schopna dopravovat do tohoto místa elektřinu; za přerušení přenosu nebo distribuce elektřiny není považován stav, jehož příčinou je elektrické zařízení zákazníka nebo elektrická přípojka, která není ve vlastnictví provozovatele distribuční soustavy a není provozovatelem distribuční soustavy provozována podle § 45 odst. 6 energetického zákona, nebo společné elektrické zařízení v nemovitosti,
+
+b) dlouhodobým přerušením – přerušení přenosu nebo distribuce elektřiny s dobou trvání delší než 3 minuty,
+
+c) plánovaným přerušením – přerušení přenosu nebo distribuce elektřiny při provádění plánovaných prací na zařízení přenosové nebo distribuční soustavy nebo v jejich ochranném pásmu podle § 24 odst. 3 písm. c) bodu 6 a odst. 5 a § 25 odst. 4 písm. c) bodu 5 a odst. 6 energetického zákona,
+
+d) ukončením přerušení přenosu nebo distribuce elektřiny – okamžik obnovení schopnosti přenosové nebo distribuční soustavy dopravovat do odběrného nebo předávacího místa účastníka trhu s elektřinou elektřinu v množství a kvalitě podle technických norem a uzavřených smluv; ukončením přerušení přenosu nebo distribuce elektřiny se rozumí i stav náhradního napájení odběrného nebo předávacího místa včetně případného omezení množství dodávané elektřiny, které je sjednáno ve smlouvě o distribuci elektřiny nebo ve smlouvě o sdružených službách dodávky elektřiny,
+
+e) dodavatelem sdružené služby – výrobce nebo obchodník s elektřinou, který na základě smlouvy o sdružených službách dodávky elektřiny dodává elektřinu zákazníkovi.
+
+### § 3 – Obecná ustanovení
+
+(1) Kvalita dodávek a služeb souvisejících s regulovanými činnostmi v elektroenergetice a její parametry jsou vyjádřeny prostřednictvím standardů přenosu nebo distribuce elektřiny, standardů dodávek a ukazateli nepřetržitosti přenosu nebo distribuce elektřiny.
+
+(2) Za nedodržení standardů se nepovažuje, jestliže příslušný držitel licence neprovede úkony a postupy vyžadované standardy ve stanovených lhůtách z důvodu, že
+
+a) daný účastník trhu s elektřinou ve lhůtě stanovené pro dodržení standardu učiní projev vůle, ze kterého jednoznačně vyplývá požadavek provést tyto úkony a postupy ve lhůtě delší, než je lhůta stanovená standardem,
+
+b) daný účastník trhu s elektřinou prokazatelně neposkytne součinnost nezbytnou k dodržení standardu,
+
+c) není spravedlivě možné požadovat od příslušného držitele licence dodržení standardu, zejména v důsledku vzniku živelních událostí nebo havárií na zařízení přenosové nebo distribuční soustavy, nebo
+
+d) nastal stav nouze nebo jsou prováděny činnosti bezprostředně zamezující jeho vzniku.
+
+(3) Ustanovení této vyhlášky o standardech přenosu nebo distribuce elektřiny a standardech dodávek elektřiny vztahující se na zákazníka a o výši náhrad pro zákazníka se použijí obdobně na výrobce, pokud odebírá elektřinu z přenosové nebo distribuční soustavy, a nestanoví-li tato vyhláška jinak, též na provozovatele lokální distribuční soustavy, pokud odebírá elektřinu pro krytí ztrát v jeho distribuční soustavě a pro vlastní potřebu.
+
+(4) Lhůty pro splnění standardů na území hlavního města Prahy podle § 5 a 7 se vztahují na provozovatele distribuční soustavy, k jehož distribuční soustavě je na území hlavního města Prahy připojena většina odběrných míst jeho zákazníků.
+
+### § 4 – Uplatnění náhrad
+
+(1) Náhradu podle této vyhlášky uplatňuje
+
+a) zákazník za nedodržení standardu distribuce elektřiny u provozovatele distribuční soustavy, k jehož soustavě je jeho předávací nebo odběrné místo připojeno a má sjednanou smlouvu na distribuci elektřiny,
+
+b) zákazník za nedodržení standardu dodávek elektřiny u dodavatele nebo dodavatele sdružené služby, který na základě příslušné smlouvy dodává elektřinu zákazníkovi,
+
+c) žadatel podle § 11 za nedodržení standardu přenosu nebo distribuce elektřiny u provozovatele přenosové nebo distribuční soustavy, u kterého žádá o připojení,
+
+d) dodavatel nebo dodavatel sdružené služby za nedodržení standardu distribuce elektřiny u provozovatele soustavy, k jehož soustavě je připojeno předávací nebo odběrné místo zákazníka, kterému na základě příslušné smlouvy dodává elektřinu.
+
+(2) Sjedná-li zákazník s dodavatelem sdružené služby smlouvu o sdružených službách dodávky elektřiny, uplatňuje zákazník standardy přenosu nebo distribuce elektřiny a náhrady za jejich nedodržení u dodavatele sdružené služby, v takovém případě se lhůty pro splnění standardů podle § 9, 13, 15 a 17 prodlužují o 2 pracovní dny. V případě standardů podle § 5, 7 nebo 8 může zákazník nahlásit vznik události přímo u provozovatele soustavy, ke které je připojeno jeho odběrné místo.
+
+(3) Uplatňuje-li náhradu za nedodržení standardu u provozovatele přenosové nebo distribuční soustavy dodavatel sdružené služby, hradí provozovatel přenosové nebo distribuční soustavy náhradu tomuto dodavateli sdružené služby. Současně s uplatněním náhrady za nedodržení standardu podle předchozí věty postupuje dodavatel sdružené služby provozovateli přenosové nebo distribuční soustavy uplatněnou žádost zákazníka o poskytnutí náhrady.
+
+(4) Náhradu lze uplatnit
+
+a) při nedodržení standardů podle § 5, 7, § 9 až 17, § 19 a 20 do 60 kalendářních dnů ode dne následujícího po dni, ve kterém uplynula lhůta podle standardů,
+
+b) při nedodržení standardu podle § 6 do 60 kalendářních dnů ode dne následujícího po dni, ve kterém mělo být podle standardu omezení nebo přerušení distribuce elektřiny započato nebo ukončeno,
+
+c) při nedodržení standardu podle § 18 do 60 kalendářních dnů ode dne následujícího po dni, ve kterém byla schůzka se zákazníkem dohodnuta, aniž by provozovatel distribuční soustavy postupoval podle § 18 odst. 2.
+
+(5) Žádost o náhradu za nedodržení standardu kvality přenosu nebo distribuce a dodávek elektřiny se podává na tiskopisu, jehož vzor je uveden v přílohách č. 1 až 3 k této vyhlášce. Vzor žádosti o náhradu je Úřadem rovněž poskytován způsobem umožňujícím dálkový přístup.
+
+## ČÁST DRUHÁ – STANDARDY PŘENOSU NEBO DISTRIBUCE ELEKTŘINY
+
+### § 5 – Standard ukončení přerušení přenosu nebo distribuce elektřiny
+
+(1) Standardem ukončení přerušení distribuce elektřiny je ukončení přerušení distribuce elektřiny, mimo přerušení plánovaného, v odběrném nebo předávacím místě provozovatele lokální distribuční soustavy nebo zákazníka, a to ve lhůtě do
+
+a) 18 hodin v síti distribuční soustavy s napěťovou úrovní do 1 kV a 12 hodin v síti distribuční soustavy s napěťovou úrovní do 1 kV na území hlavního města Prahy,
+
+b) 12 hodin v sítích distribuční soustavy s napěťovou úrovní nad 1 kV a 8 hodin v síti distribuční soustavy s napěťovou úrovní nad 1 kV na území hlavního města Prahy.
+
+(2) Lhůta podle odstavce 1 počíná okamžikem, kdy se provozovatel distribuční soustavy dozvěděl o vzniku přerušení distribuce elektřiny nebo kdy vznik přerušení distribuce elektřiny mohl a měl zjistit.
+
+(3) Jestliže dojde u zákazníka ke vzniku několika dlouhodobých přerušení distribuce elektřiny vzniklých v důsledku téže události, je standard ukončení přerušení distribuce elektřiny dodržen, je-li doba mezi začátkem prvního dlouhodobého přerušení distribuce elektřiny a koncem posledního dlouhodobého přerušení distribuce elektřiny, které vzniklo v důsledku téže události, ale nebylo způsobeno nutnými manipulacemi pro uvedení distribuční soustavy do zapojení před poruchou, kratší než lhůta podle odstavce 1.
+
+(4) Standardem ukončení přerušení přenosu nebo distribuce elektřiny z výrobny elektřiny připojené do přenosové nebo distribuční soustavy je obnova schopnosti přenosové nebo distribuční soustavy přenášet nebo distribuovat elektřinu z předávacího místa výrobny elektřiny ve lhůtě 48 hodin od okamžiku, kdy se provozovatel přenosové nebo distribuční soustavy dozvěděl o vzniku přerušení nebo kdy vznik přerušení mohl a měl zjistit.
+
+(5) Za nedodržení standardu ukončení přerušení distribuce elektřiny podle odstavce 1 poskytuje provozovatel distribuční soustavy zákazníkovi náhradu ve výši 10 % z jeho roční platby za distribuci, maximálně však
+
+a) 6 000 Kč v sítích do 1 kV,
+
+b) 12 000 Kč v sítích nad 1 kV do 52 kV,
+
+c) 120 000 Kč v sítích nad 52 kV.
+
+(6) Pro účely stanovení výše náhrady se roční platbou za distribuci rozumí na napěťových hladinách velmi vysokého napětí a vysokého napětí součet posledních 12 měsíčních fakturovaných plateb za použití sítí a za rezervovanou kapacitu. V případě nového odběru elektřiny na napěťových hladinách velmi vysokého napětí a vysokého napětí je základem pro výpočet roční platby za distribuci sjednané roční množství dodané elektřiny a sjednaná výše rezervované kapacity. Na napěťové hladině nízkého napětí se roční platbou za distribuci rozumí součet částek za stálé měsíční platby podle jmenovité proudové hodnoty hlavního jističe před měřicím zařízením a položek za distribuci elektřiny ve vysokém a nízkém tarifu, účtované v poslední fakturované platbě z ročního odečtu měřicího zařízení. V případě fakturace distribuce elektřiny za období kratší než 12 měsíců se platba poměrným způsobem upraví podle příslušného typového diagramu dodávek podle jiného právního předpisu, který stanoví pravidla tvorby, přiřazení a užití typových diagramů dodávek elektřiny<sup>1</sup>). V případě nového odběru elektřiny na hladině nízkého napětí je základem pro výpočet roční platby za distribuci průměrná roční spotřeba v distribuční sazbě vztažená k jmenovité proudové hodnotě hlavního jističe před měřicím zařízením podle výkazů tarifních statistik zpracovávaných podle jiného právního předpisu<sup>2</sup>).
+
+### § 6 – Standard dodržení plánovaného omezení nebo přerušení distribuce elektřiny
+
+(1) Standardem dodržení plánovaného omezení nebo přerušení distribuce elektřiny je zahájení a ukončení omezení nebo přerušení distribuce elektřiny v době, která byla jako doba zahájení a ukončení omezení nebo přerušení distribuce elektřiny zákazníkům ohlášena. Standard dodržení plánovaného omezení nebo přerušení distribuce elektřiny není dodržen, jestliže provozovatel distribuční soustavy omezí nebo přeruší distribuci elektřiny dříve, než ohlásil, nebo ukončí omezení nebo přerušení distribuce elektřiny později, než ohlásil.
+
+(2) Za nedodržení standardu dodržení plánovaného omezení nebo přerušení distribuce elektřiny poskytuje provozovatel distribuční soustavy zákazníkovi náhradu ve výši 10 % z jeho roční platby za distribuci, stanovené obdobně podle § 5 odst. 6, maximálně však
+
+a) 6 000 Kč v sítích do 1 kV,
+
+b) 12 000 Kč v sítích nad 1 kV do 52 kV,
+
+c) 120 000 Kč v sítích nad 52 kV.
+
+### § 7 – Standard výměny poškozené pojistky
+
+(1) Standardem výměny poškozené pojistky je provedení výměny poškozené pojistky v hlavní domovní pojistkové nebo kabelové skříni zákazníka a umožnění obnovení distribuce elektřiny nejdéle do 6 hodin, na území hlavního města Prahy do 4 hodin, od okamžiku, kdy je příslušný provozovatel distribuční soustavy zákazníkem nebo dodavatelem sdružené služby informován o přerušení distribuce elektřiny do odběrného místa zákazníka. Tento standard se nevztahuje na vztah provozovatele distribuční soustavy a provozovatele lokální distribuční soustavy.
+
+(2) Za nedodržení standardu výměny poškozené pojistky se nepovažuje výměna poškozené pojistky a obnova distribuce elektřiny ve lhůtě delší než podle odstavce 1, pokud se prokazatelně jedná o přerušení distribuce elektřiny v důsledku poškození pojistky způsobené odběrným elektrickým zařízením zákazníka nebo elektrickou přípojkou, která není ve vlastnictví provozovatele distribuční soustavy a není ani provozovatelem distribuční soustavy provozována podle § 45 odst. 6 energetického zákona, nebo společným elektrickým zařízením nemovitosti.
+
+(3) Za nedodržení standardu výměny poškozené pojistky poskytuje příslušný provozovatel distribuční soustavy zákazníkovi náhradu ve výši 1 200 Kč.
+
+### § 8 – Standard kvality napětí
+
+Standardem kvality napětí je distribuce napětí s odpovídajícími parametry velikosti a odchylky napájecího napětí a frekvence, které jsou v souladu s Pravidly provozování přenosové soustavy nebo Pravidly provozování distribučních soustav nebo s parametry napětí a frekvence sjednanými ve smlouvě mezi zákazníkem a provozovatelem distribuční soustavy.
+
+### § 9 – Standard lhůty pro vyřízení reklamace kvality napětí
+
+(1) Standardem lhůty pro vyřízení reklamace na kvalitu napětí je prověření oprávněnosti reklamace dodavatele sdružené služby nebo zákazníka na kvalitu napětí a písemné vyrozumění dodavatele sdružené služby nebo zákazníka o jejím prověření do 60 kalendářních dnů ode dne doručení reklamace dodavatele sdružené služby nebo zákazníka provozovateli distribuční soustavy.
+
+(2) Je-li reklamace dodavatele sdružené služby nebo zákazníka po prověření shledána provozovatelem distribuční soustavy jako oprávněná, je obsahem písemného vyrozumění dodavateli sdružené služby nebo zákazníkovi určení způsobu a termínu odstranění příčiny snížené kvality napětí, jinak není standard lhůty pro vyřízení reklamace na kvalitu napětí dodržen.
+
+(3) Za nedodržení standardu lhůty pro vyřízení reklamace kvality napětí poskytuje provozovatel distribuční soustavy zákazníkovi náhradu ve výši 1 200 Kč za každý den prodlení, nejvýše však 30 000 Kč.
+
+### § 10 – Standard lhůty pro odstranění příčin snížené kvality napětí
+
+(1) Standardem lhůty pro odstranění příčin snížené kvality napětí je provedení potřebných opatření příslušným provozovatelem distribuční soustavy nezbytných k odstranění příčin snížené kvality napětí ve lhůtě
+
+a) 30 kalendářních dnů ode dne odeslání písemného vyrozumění o vyřízení reklamace kvality napětí dodavateli sdružené služby nebo zákazníkovi s určením způsobu a termínu odstranění příčiny snížené kvality napětí, je-li příčina snížené kvality napětí odstranitelná jednoduchým provozním opatřením, například manipulací v zařízení distribuční soustavy,
+
+b) 6 měsíců ode dne odeslání písemného vyrozumění o vyřízení reklamace kvality napětí dodavateli sdružené služby nebo zákazníkovi s určením způsobu a termínu odstranění příčiny snížené kvality napětí, je-li příčina snížené kvality napětí odstranitelná stavebně-technickým opatřením, k jehož provedení není třeba stavebního povolení podle stavebního zákona<sup>5</sup>), a příčinu snížené kvality napětí nelze odstranit postupem podle písmene a), nebo
+
+c) 24 měsíců ode dne odeslání písemného vyrozumění o vyřízení reklamace kvality napětí dodavateli sdružené služby nebo zákazníkovi s určením způsobu a termínu odstranění příčiny snížené kvality napětí, je-li příčina snížené kvality napětí odstranitelná stavebně-technickým opatřením, k jehož provedení je třeba stavebního povolení podle stavebního zákona<sup>5</sup>); za nedodržení tohoto standardu se nepovažuje, nedojde-li přes veškeré vynaložené úsilí provozovatele distribuční soustavy k vydání stavebního povolení z důvodů, které nastaly nebo existují nezávisle na jeho vůli.
+
+(2) Za nedodržení standardu lhůty pro odstranění příčin snížené kvality napětí poskytne příslušný provozovatel distribuční soustavy zákazníkovi náhradu ve výši 1 200 Kč za každý den prodlení, nejvýše však 60 000 Kč.
+
+### § 11 – Standard zaslání stanoviska k žádosti o připojení zařízení žadatele k přenosové nebo distribuční soustavě
+
+(1) Standardem zaslání stanoviska k žádosti o připojení zařízení žadatele k přenosové nebo distribuční soustavě je zaslání stanoviska k žádosti o připojení zařízení žadatele k zařízení provozovatele přenosové soustavy nebo provozovatele distribuční soustavy ve lhůtě stanovené zvláštním právním předpisem<sup>6</sup>).
+
+(2) Za nedodržení standardu zaslání stanoviska k žádosti o připojení zařízení žadatele k přenosové nebo distribuční soustavě poskytuje provozovatel přenosové nebo distribuční soustavy žadateli náhradu za každý den prodlení ve výši
+
+a) 600 Kč v sítích do 1 kV, nejvýše však 60 000 Kč,
+
+b) 1 200 Kč v sítích nad 1 kV do 52 kV, nejvýše však 120 000 Kč,
+
+c) 12 000 Kč v sítích nad 52 kV, nejvýše však 600 000 Kč.
+
+### § 12 – Standard umožnění přenosu nebo distribuce elektřiny
+
+(1) Standardem umožnění distribuce elektřiny je možnost uskutečnění distribuce elektřiny ve lhůtě 5 pracovních dnů ode dne, kdy byl provozovatel distribuční soustavy zákazníkem nebo dodavatelem sdružené služby na základě uzavřené smlouvy o distribuci elektřiny nebo smlouvy o sdružených službách dodávky elektřiny požádán o umožnění distribuce elektřiny a splnil podmínky stanovené ve smlouvě o připojení.
+
+(2) Standardem umožnění přenosu nebo distribuce elektřiny přenosovou nebo distribuční soustavou je možnost uskutečnění přenosu nebo distribuce elektřiny z výrobny elektřiny připojené do přenosové nebo distribuční soustavy ve lhůtě do 5 pracovních dnů ode dne, kdy byl provozovatel přenosové nebo distribuční soustavy výrobcem na základě uzavřené smlouvy o přenosu nebo distribuci elektřiny nebo smlouvy o sdružených službách dodávky elektřiny požádán o umožnění přenosu nebo distribuce elektřiny přenosovou nebo distribuční soustavou a splnil podmínky stanovené ve smlouvě o připojení, smlouvě o přenosu elektřiny nebo ve smlouvě o distribuci elektřiny.
+
+(3) Lhůty pro umožnění přenosu nebo distribuce elektřiny podle předchozích odstavců se neuplatní, pokud se smluvní strany dohodnou na jiném termínu.
+
+(4) Standard umožnění distribuce elektřiny se nevztahuje na případ, kdy zákazník změní dodavatele, a na případ, na který se vztahuje standard ukončení přerušení distribuce elektřiny po odpojení z důvodu prodlení zákazníka nebo dodavatele sdružené služby s úhradou plateb za poskytnutý přenos elektřiny nebo poskytnutou distribuci elektřiny.
+
+(5) Za nedodržení standardu umožnění distribuce elektřiny poskytuje provozovatel distribuční soustavy zákazníkovi náhradu ve výši
+
+a) 6 000 Kč za každý den prodlení v síti do 1 kV, nejvýše však 60 000 Kč,
+
+b) 12 000 Kč za každý den prodlení v síti nad 1 kV, nejvýše však 120 000 Kč.
+
+### § 13 – Standard ukončení přerušení distribuce elektřiny z důvodu prodlení zákazníka nebo dodavatele sdružené služby s úhradou plateb za poskytnutou distribuci elektřiny
+
+(1) Standardem ukončení přerušení distribuce elektřiny z důvodu prodlení zákazníka nebo dodavatele sdružené služby s úhradou plateb za poskytnutou distribuci je ukončení přerušení distribuce elektřiny do předávacího nebo odběrného místa zákazníka ve lhůtě 2 pracovních dnů následujících po dni, ve kterém zákazník nebo dodavatel sdružené služby uhradil všechny své splatné platby za poskytnutou distribuci, nebo ve kterém uzavřel provozovatel distribuční soustavy se zákazníkem nebo dodavatelem sdružené služby dohodu o splácení dlužných plateb.
+
+(2) Za nedodržení standardu ukončení přerušení distribuce elektřiny z důvodu prodlení zákazníka nebo dodavatele sdružené služby s úhradou plateb za poskytnutou distribuci poskytuje provozovatel distribuční soustavy zákazníkovi náhradu ve výši
+
+a) 1 200 Kč za každý den prodlení v síti do 1 kV, nejvýše však 30 000 Kč,
+
+b) 3 600 Kč za každý den prodlení v síti nad 1 kV, nejvýše však 90 000 Kč.
+
+### § 14 – Standard ukončení přerušení distribuce elektřiny na žádost dodavatele nebo dodavatele sdružené služby
+
+(1) Standardem ukončení přerušení distribuce elektřiny na žádost dodavatele nebo dodavatele sdružené služby je ukončení přerušení distribuce elektřiny do předávacího nebo odběrného místa zákazníka ve lhůtě 2 pracovních dnů následujících po dni, ve kterém provozovatel distribuční soustavy obdržel od dodavatele nebo dodavatele sdružené služby písemný požadavek na ukončení přerušení distribuce elektřiny do předávacího nebo odběrného místa zákazníka.
+
+(2) Za nedodržení standardu ukončení přerušení distribuce elektřiny na žádost dodavatele nebo dodavatele sdružené služby poskytuje provozovatel distribuční soustavy dodavateli nebo dodavateli sdružené služby náhradu ve výši
+
+a) 1 200 Kč za každý den prodlení v síti do 1 kV, nejvýše však 30 000 Kč,
+
+b) 3 600 Kč za každý den prodlení v síti nad 1 kV, nejvýše však 90 000 Kč.
+
+### § 15 – Standard výměny měřicího zařízení a vyrovnání plateb
+
+(1) Standardem výměny měřicího zařízení a vyrovnání plateb je
+
+a) výměna měřicího zařízení do 15 kalendářních dnů ode dne, kdy provozovatel distribuční soustavy obdržel písemnou žádost zákazníka o výměnu měřicího zařízení,
+
+b) zajištění přezkoušení měřicího zařízení tak, aby ve lhůtě do 60 kalendářních dnů ode dne výměny měřicího zařízení provozovatel distribuční soustavy písemně informoval zákazníka o výsledku přezkoušení měřicího zařízení, a
+
+c) vypořádání rozdílu v platbách do 10 dnů ode dne, ve kterém uplynula lhůta podle písmene b) v případech, že byl zjištěn přeplatek v uhrazených platbách; je-li vypořádání plateb provedeno prostřednictvím provozovatele poštovní služby, považuje se lhůta za splněnou, je-li v této lhůtě provozovatelem distribuční soustavy příslušná částka ve prospěch dodavatele, dodavatele sdružené služby nebo zákazníka poukázána.
+
+(2) Za nedodržení standardu výměny měřicího zařízení a vyrovnání plateb poskytuje příslušný provozovatel distribuční soustavy zákazníkovi náhradu ve výši 600 Kč za každý den prodlení, nejvýše však 24 000 Kč.
+
+### § 16 – Standard předávání údajů o měření
+
+(1) Standardem předávání údajů potřebných k vyúčtování plateb je předávání úplných a správných údajů potřebných k vyúčtování plateb příslušnému dodavateli nebo dodavateli sdružené služby prostřednictvím operátora trhu s elektřinou v rozsahu a termínech stanovených zvláštním právním předpisem<sup>7</sup>).
+
+(2) Za nedodržení tohoto standardu se nepovažuje prodlení příslušného provozovatele distribuční soustavy s předáním údajů potřebných k vyúčtování plateb kratší než 16 hodin po termínu stanoveném zvláštním právním předpisem<sup>7</sup>), je-li termín pro předání údajů potřebných k vyúčtování plateb stanoven zvláštním právním předpisem jako určitá hodina daného dne. Je-li termín pro předání údajů potřebných k vyúčtování plateb stanoven zvláštním právním předpisem jako určitý den daného měsíce, nepovažuje se za nedodržení tohoto standardu prodlení příslušného provozovatele distribuční soustavy s předáním údajů potřebných k vyúčtování plateb kratší než 1 den po termínu stanoveném zvláštním právním předpisem<sup>7</sup>).
+
+(3) Za nedodržení standardu předávání údajů potřebných k vyúčtování plateb poskytuje provozovatel distribuční soustavy dodavateli nebo dodavateli sdružené služby, který do daného předávacího nebo odběrného místa dodává elektřinu, náhradu ve výši
+
+a) 600 Kč za každé předávací nebo odběrné místo a každou hodinu prodlení pro měření v sítích do 1 kV, je-li termín pro předání údajů stanoven jako určitá hodina daného dne, nejvýše však 30 000 Kč,
+
+b) 1 200 Kč za každé předávací nebo odběrné místo a každou hodinu prodlení pro měření v sítích nad 1 kV do 52 kV, je-li termín pro předání údajů stanoven jako určitá hodina daného dne, nejvýše však 60 000 Kč,
+
+c) 3 600 Kč za každé předávací nebo odběrné místo a každou hodinu prodlení pro měření v sítích nad 52 kV, je-li termín pro předání údajů stanoven jako určitá hodina daného dne, nejvýše však 120 000 Kč.
+
+(4) Je-li termín pro předání údajů stanoven podle zvláštního právního předpisu jako určitý den daného měsíce, platí výše náhrad a jejich horní limity podle předchozího odstavce za každé předávací nebo odběrné místo a každý den prodlení.
+
+### § 17 – Standard lhůty pro vyřízení reklamace vyúčtování distribuce elektřiny
+
+(1) Standardem lhůty pro vyřízení reklamace vyúčtování distribuce elektřiny je
+
+a) zaslání písemného vyřízení reklamace dodavatele sdružené služby nebo zákazníka na vyúčtování distribuce elektřiny nebo na nevrácení zaplacených přeplatků, a to do 15 kalendářních dnů ode dne doručení reklamace, a
+
+b) vypořádání rozdílu v platbách dodavatele sdružené služby nebo zákazníka způsobeného nesprávným vyúčtováním distribuce elektřiny nebo nesprávným měřením dodávek elektřiny, a to do 30 kalendářních dnů ode dne doručení reklamace, je-li reklamace podle písmene a) posouzena jako oprávněná; je-li vypořádání plateb provedeno prostřednictvím provozovatele poštovních služeb, považuje se lhůta za splněnou, je-li v této lhůtě provozovatelem distribuční soustavy příslušná částka ve prospěch dodavatele, dodavatele sdružené služby nebo zákazníka poukázána.
+
+(2) Za nedodržení standardu lhůty pro vyřízení reklamace vyúčtování distribuce elektřiny poskytuje provozovatel distribuční soustavy zákazníkovi náhradu ve výši 600 Kč za každý den prodlení, nejvýše však 24 000 Kč.
+
+### § 18 – Standard dodržení termínu schůzky se zákazníkem
+
+(1) Standardem dodržení termínu schůzky se zákazníkem, vyžádané provozovatelem distribuční soustavy, je dodržení termínu schůzky se zákazníkem dohodnutého v pracovních dnech od 8 do 17 hodin s čekací lhůtou zákazníka nejvýše 1 hodinu, pokud se zákazník s provozovatelem distribuční soustavy nedohodnou jinak.
+
+(2) Za nedodržení standardu dodržení termínu schůzky se zákazníkem se nepovažuje, pokud provozovatel distribuční soustavy oznámí zákazníkovi nejméně 1 kalendářní den před dohodnutým termínem schůzky její odložení a odložení náležitě zdůvodní.
+
+(3) Za nedodržení standardu dodržení termínu schůzky se zákazníkem poskytuje provozovatel distribuční soustavy náhradu ve výši 2 400 Kč za každý jednotlivý případ nedodržení standardu.
+
+## ČÁST TŘETÍ – STANDARDY DODÁVEK
+
+### § 19 – Standard zajištění ukončení přerušení dodávky elektřiny z důvodu prodlení konečného zákazníka s úhradou plateb za odebranou elektřinu
+
+(1) Standardem zajištění ukončení přerušení dodávky elektřiny z důvodu prodlení zákazníka s úhradou plateb za odebranou elektřinu je zajištění ukončení přerušení dodávky elektřiny do odběrného místa zákazníka ve lhůtě 2 pracovních dnů následujících po dni, ve kterém zákazník uhradil všechny své splatné platby za odebranou elektřinu, nebo ve kterém uzavřel s dodavatelem dohodu o splácení dlužných plateb.
+
+(2) Za nedodržení standardu zajištění ukončení přerušení dodávky elektřiny z důvodu prodlení zákazníka s úhradou plateb za odebranou elektřinu poskytuje dodavatel nebo dodavatel sdružené služby zákazníkovi náhradu ve výši
+
+a) 1 200 Kč za každý den prodlení v síti do 1 kV, nejvýše však 30 000 Kč,
+
+b) 3 600 Kč za každý den prodlení v síti nad 1 kV, nejvýše však 90 000 Kč.
+
+### § 20 – Standard lhůty pro vyřízení reklamace vyúčtování dodávky elektřiny
+
+(1) Standardem lhůty pro vyřízení reklamace vyúčtování dodávky elektřiny je
+
+a) zaslání písemného vyřízení reklamace zákazníka na vyúčtování dodávky elektřiny nebo na nevrácení zaplacených přeplatků, a to do 15 kalendářních dnů ode dne doručení reklamace, a
+
+b) vypořádání rozdílu v platbách zákazníka způsobeného nesprávným vyúčtováním nebo měřením dodávek elektřiny, a to do 30 kalendářních dnů ode dne doručení reklamace, je-li reklamace podle písmene a) posouzena jako oprávněná; je-li vypořádání plateb provedeno prostřednictvím provozovatele poštovní služby, považuje se lhůta za splněnou, je-li v této lhůtě provozovatelem distribuční soustavy příslušná částka ve prospěch dodavatele, dodavatele sdružené služby nebo zákazníka poukázána.
+
+(2) Spočívá-li důvod reklamace vyúčtování dodávky elektřiny ve vyúčtování distribuce elektřiny a dodavatel nebo dodavatel sdružené služby ve lhůtě podle odstavce 1 písm. a) reklamuje vyúčtování distribuce elektřiny podle § 17, lhůty podle odstavce 1 po dobu vyřizování reklamace vyúčtování distribuce elektřiny neběží.
+
+(3) Za nedodržení standardu lhůty pro vyřízení reklamace vyúčtování dodávky elektřiny poskytuje dodavatel nebo dodavatel sdružené služby zákazníkovi náhradu ve výši 600 Kč za každý den prodlení, nejvýše však 24 000 Kč.
+
+## ČÁST ČTVRTÁ – POSTUPY PRO VYKAZOVÁNÍ DODRŽOVÁNÍ KVALITY DODÁVEK A SLUŽEB
+
+### § 21 – Ukazatele nepřetržitosti přenosu nebo distribuce elektřiny
+
+(1) Provozovatel přenosové soustavy a provozovatel distribuční soustavy vede záznamy o všech dlouhodobých přerušeních přenosu nebo distribuce elektřiny v jím provozované soustavě.
+
+(2) Ukazateli nepřetržitosti distribuce elektřiny jsou
+
+a) průměrný počet přerušení distribuce elektřiny u zákazníků v hodnoceném období,
+
+b) průměrná souhrnná doba trvání přerušení distribuce elektřiny u zákazníků v hodnoceném období,
+
+c) průměrná doba trvání jednoho přerušení distribuce elektřiny u zákazníků v hodnoceném období.
+
+(3) Ukazateli nepřetržitosti přenosu elektřiny jsou
+
+a) průměrná doba trvání jednoho přerušení přenosu elektřiny v kalendářním roce,
+
+b) nedodaná elektrická energie v kalendářním roce.
+
+(4) Provozovatel distribuční soustavy vypočítává ukazatele nepřetržitosti distribuce elektřiny uvedené v § 21 odst. 2. Provozovatel přenosové soustavy vypočítává ukazatele nepřetržitosti přenosu elektřiny uvedené v § 21 odst. 3.
+
+(5) Provozovatel přenosové soustavy vypočítává ukazatele nepřetržitosti přenosu elektřiny ze všech přerušení přenosu elektřiny ukončených v daném kalendářním roce, a to souhrnně za všechny napěťové hladiny. Provozovatel distribuční soustavy vypočítává ukazatele nepřetržitosti distribuce elektřiny z přerušení distribuce elektřiny ukončených v hodnoceném období nebo v kalendářním roce, a to samostatně pro jednotlivé kategorie přerušení distribuce elektřiny a pro jednotlivé napěťové hladiny a celou distribuční soustavu. Kategorie přerušení přenosu nebo distribuce elektřiny jsou uvedeny v příloze č. 4 k této vyhlášce. Způsob výpočtu ukazatelů nepřetržitosti přenosu elektřiny nebo distribuce elektřiny je uveden v příloze č. 5 k této vyhlášce.
+
+## ČÁST PÁTÁ – USTANOVENÍ SPOLEČNÁ A ZÁVĚREČNÁ
+
+### § 23 – Vykazování dosahované úrovně kvality přenosu nebo distribuce elektřiny a dodávek elektřiny a souvisejících služeb
+
+(1) Držitel licence zpracuje do 31. března následujícího kalendářního roku souhrnnou zprávu o
+
+a) dosažené úrovni kvality distribuce elektřiny a souvisejících služeb za předchozí kalendářní rok, včetně porovnání s předcházejícím obdobím, podle přílohy č. 6 k této vyhlášce, jde-li o provozovatele distribuční soustavy,
+
+b) dosažené úrovni nepřetržitosti přenosu elektřiny za předchozí kalendářní rok, včetně porovnání s předcházejícím obdobím, podle přílohy č. 7 k této vyhlášce, jde-li o provozovatele přenosové soustavy,
+
+c) dodržování standardů dodávek v předchozím kalendářním roce podle přílohy č. 8 k této vyhlášce, jde-li o dodavatele.
+
+(2) Provozovatel regionální distribuční soustavy<sup>8</sup>) předkládá v termínu podle odstavce 1 Úřadu v listinné i elektronické podobě souhrnnou zprávu podle odstavce 1 písm. a) a zároveň ji zveřejní způsobem umožňujícím dálkový přístup. Provozovatel lokální distribuční soustavy<sup>9</sup>) zveřejní souhrnnou zprávu podle odstavce 1 písm. a) způsobem umožňujícím dálkový přístup a předkládá ji na vyžádání Úřadu.
+
+(3) Provozovatel přenosové soustavy předkládá v termínu podle odstavce 1 Úřadu v listinné i elektronické podobě souhrnnou zprávu podle odstavce 1 písm. b) a zároveň ji zveřejní způsobem umožňujícím dálkový přístup.
+
+(4) Dodavatel s více jak 90 000 zákazníky předkládá v termínu podle odstavce 1 Úřadu v listinné i elektronické podobě souhrnnou zprávu podle odstavce 1 písm. c) a zároveň ji zveřejní způsobem umožňujícím dálkový přístup. Dodavatel s méně než 90 000 zákazníky zveřejní souhrnnou zprávu podle odstavce 1 písm. c) způsobem umožňujícím dálkový přístup a předkládá ji na vyžádání Úřadu.
+
+(5) Provozovatel regionální distribuční soustavy zpracovává měsíční zprávu o dodržování standardů distribuce elektřiny ve formě výkazů, jejichž vzory jsou uvedeny v přílohách č. 9 až 24 k této vyhlášce. Dodavatel s více jak 90 000 zákazníky zpracovává měsíční zprávu o dodržování standardů dodávek elektřiny ve formě výkazů, jejichž vzory jsou uvedeny v přílohách č. 25 a 26 k této vyhlášce. Provozovatel regionální distribuční soustavy a dodavatel předkládá měsíční zprávy Úřadu v elektronické podobě vždy do 90 dnů od posledního dne období, za které se výkaz zpracovává.
+
+(6) Úřad do 31. května následujícího kalendářního roku zpracuje a zveřejní zprávu o dosažené úrovni nepřetržitosti přenosu nebo distribuce elektřiny v Energetickém regulačním věstníku a způsobem umožňujícím dálkový přístup.
+
+(7) Dodavatel předkládá a zveřejňuje zprávu podle odstavců 4 a 5 za kalendářní rok, ve kterém dodával elektřinu více než 90 000 zákazníků nebo takového počtu zákazníků v průběhu roku dosáhl.
+
+### § 24 – Zrušovací ustanovení
+
+Vyhláška č. 306/2001 Sb., o kvalitě dodávek elektřiny a souvisejících služeb v elektroenergetice, se zrušuje.
+
+## ČÁST ŠESTÁ – ÚČINNOST
+
+### § 25
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2006, s výjimkou ustanovení § 4, § 5 odst. 5, § 6 odst. 2, § 7 odst. 3, § 9 odst. 3, § 10 odst. 2, § 11 odst. 2, § 12 odst. 5, § 13 odst. 2, § 14 odst. 2, § 15 odst. 2, § 16 odst. 3 a 4, § 17 odst. 2, § 18 odst. 3, § 19 odst. 2 a § 20 odst. 2, která nabývají účinnosti dnem 1. července 2006.
+
+Předseda:
+
+Ing. Fiřt v. r.
+
+### Příloha č. 1 k vyhlášce č. 540/2005 Sb.
+
+#### VZOR
+
+#### ŽÁDOST FYZICKÉ OSOBY - NEPODNIKATELE
+
+#### o náhradu za nedodržení garantovaného standardu kvality přenosu nebo distribuce a dodávek elektřiny a souvisejících služeb
+
+#### ![sbcr2005c184z0540p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/801949/NAHLED/ZOBRAZ/sbcr2005c184z0540p001u001)
+
+### Příloha č. 2 k vyhlášce č. 540/2005 Sb.
+
+#### VZOR
+
+#### ŽÁDOST FYZICKÉ OSOBY - PODNIKATELE
+
+#### o náhradu za nedodržení garantovaného standardu kvality přenosu nebo distribuce a dodávek elektřiny a souvisejících služeb
+
+#### ![sbcr2005c184z0540p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/801951/NAHLED/ZOBRAZ/sbcr2005c184z0540p002u001)
+
+### Příloha č. 3 k vyhlášce č. 540/2005 Sb.
+
+#### VZOR
+
+#### ŽÁDOST PRÁVNICKÉ OSOBY
+
+#### o náhradu za nedodržení garantovaného standardu kvality přenosu nebo distribuce a dodávek elektřiny a souvisejících služeb
+
+#### ![sbcr2005c184z0540p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/801953/NAHLED/ZOBRAZ/sbcr2005c184z0540p003u001)
+
+### Příloha č. 4 k vyhlášce č. 540/2005 Sb.
+
+#### VZOR
+
+#### Výkaz standardu plynulosti přenosu nebo distribuce elektřiny
+
+#### KATEGORIE PŘERUŠENÍ PŘENOSU NEBO DISTRIBUCE ELEKTŘINY
+
+A. Podle doby trvání se přerušení přenosu nebo distribuce elektřiny dělí na
+
+1\. dlouhodobé – s dobou trvání delší než 3 minuty,
+
+2\. krátkodobé – s dobou trvání alespoň 1 sekunda a současně ne delší než 3 minuty.
+
+B. Podle příčiny se přerušení přenosu nebo distribuce elektřiny dělí na
+
+1\. neplánované - přerušení přenosu nebo distribuce elektřiny, které není plánovaným přerušením. Neplánované přerušení přenosu nebo distribuce elektřiny se dále dělí na
+
+1.1. poruchové - přerušení přenosu nebo distribuce elektřiny při vzniku a odstraňování poruchy na zařízení provozovatele přenosové soustavy podle § 24 odst. 3 písm. d) bodu 7 energetického zákona nebo provozovatele distribuční soustavy podle § 25 odst. 4 písm. c) bodu 6 energetického zákona a přerušení přenosu nebo distribuce elektřiny způsobené chybným nebo bezdůvodným vypnutím zařízení přenosové nebo distribuční soustavy jejím provozovatelem. Poruchové přerušení přenosu nebo distribuce elektřiny se dále dělí na
+
+1.1.1. způsobené poruchou mající původ v zařízení přenosové nebo distribuční soustavy provozovatele soustavy nebo jejím provozu
+
+1.1.1.1.1. za obvyklých povětrnostních podmínek – přerušení přenosu nebo distribuce elektřiny způsobené poruchou, které není přerušením přenosu nebo distribuce elektřiny způsobeným poruchou za nepříznivých povětrnostních podmínek
+
+1.1.1.1.2. za nepříznivých povětrnostních podmínek – přerušení přenosu nebo distribuce elektřiny způsobené vlivem nepříznivých povětrnostních podmínek, jestliže provozovatel přenosové nebo distribuční soustavy takovou skutečnost do 10 pracovních dnů ode dne, ve kterém k přerušení přenosu nebo distribuce elektřiny došlo, oznámí a prokáže Úřadu
+
+1.1.2. způsobené v důsledku zásahu nebo jednání třetí osoby
+
+1.2. vynucené - přerušení přenosu nebo distribuce elektřiny z důvodů podle § 24 odst. 3 písm. c) bodu 1 nebo § 25 odst. 4 písm. c) bodu 1 energetického zákona
+
+1.3. mimořádné - přerušení přenosu nebo distribuce při stavech nouze nebo předcházení stavu nouze podle § 24 odst. 3 písm. c) bodu 2 nebo § 25 odst. 4 písm. c) bodu 2 energetického zákona
+
+1.4. v důsledku události mimo přenosovou nebo distribuční soustavu provozovatele soustavy a u výrobce
+
+2\. plánované – přerušení přenosu nebo distribuce elektřiny podle § 2 písm. c) vyhlášky.
+
+C. Číselné kódy kategorií přerušení přenosu nebo distribuce elektřiny podle příčiny pro účely vykazování
+
+<table><tbody><tr><th colspan="5">Kategorie přerušení</th><th>Číselné označení pro vykazování</th></tr><tr><td>1.</td><td colspan="4">neplánované</td><td></td></tr><tr><td>1.1.</td><td rowspan="8"></td><td colspan="3">poruchové</td><td></td></tr><tr><td>1.1.1.</td><td rowspan="4"></td><td colspan="2">způsobené poruchou mající původ v zařízení přenosové nebo distribuční soustavy provozovatele soustavy nebo jejím provozu</td><td></td></tr><tr><td>1.1.1.1.</td><td rowspan="2"></td><td>za obvyklých povětrnostních podmínek</td><td>11</td></tr><tr><td>1.1.1.2.</td><td>za nepříznivých povětrnostních podmínek</td><td>16</td></tr><tr><td>1.1.2.</td><td colspan="2">způsobené v důsledku zásahu nebo jednání třetí osoby</td><td>12</td></tr><tr><td>1.2.</td><td colspan="3">vynucené</td><td>15</td></tr><tr><td>1.3.</td><td colspan="3">mimořádné</td><td>14</td></tr><tr><td>1.4.</td><td colspan="3">v důsledku události mimo soustavu a u výrobce</td><td>13</td></tr><tr><td>2.</td><td colspan="4">plánované</td><td>2</td></tr></tbody></table>
+
+### Příloha č. 5 k vyhlášce č. 540/2005 Sb.
+
+#### VÝPOČET UKAZATELŮ NEPŘETRŽITOSTI PŘENOSU NEBO DISTRIBUCE ELEKTŘINY
+
+Pravidla uvedená v této příloze se vztahují na kteroukoliv kategorii přerušení přenosu nebo distribuce elektřiny podle přílohy č. 4 k vyhlášce nebo jejich sjednocení. U vypočtených numerických hodnot musí být zřejmé, které kategorie přerušení se hodnota týká.
+
+Událostí se pro účely výpočtů rozumí stav v přenosové nebo distribuční soustavě, který vedl k přerušení přenosu nebo distribuce elektřiny dané kategorie na napěťové hladině.
+
+Ukazatele se vypočítávají pouze z dlouhodobých přerušení přenosu nebo distribuce elektřiny.
+
+Začátkem přerušení přenosu nebo distribuce elektřiny pro výpočet ukazatelů je okamžik, kdy se provozovatel přenosové soustavy nebo provozovatel distribuční soustavy dozvěděl o vzniku přerušení nebo kdy vznik přerušení mohl a měl zjistit.
+
+1\. Vztahy pro výpočet ukazatelů nepřetržitosti distribuce elektřiny
+
+a) Hladinové ukazatele
+
+Průměrný počet přerušení distribuce elektřiny u zákazníků na napěťové hladině h v hodnoceném období
+
+SAIFI<sub>h</sub>=(∑jn<sub>jh</sub>)/(N<sub>sh</sub>),
+
+<table><tbody><tr><td rowspan="4">kde </td><td>h</td><td>je označení hodnocené napěťové hladiny (nn, vn nebo vvn)<sup>1</sup>),</td></tr><tr><td>j</td><td>je pořadové číslo události v hodnoceném období,</td></tr><tr><td>n<sub>jh</sub></td><td>je celkový počet zákazníků přímo napájených z napěťové hladiny h, jimž bylo způsobeno přerušení distribuce elektřiny dané kategorie v důsledku j-té události,</td></tr><tr><td>N<sub>sh</sub></td><td>je celkový počet zákazníků přímo napájených z napěťové hladiny h ke konci předchozího kalendářního roku.</td></tr></tbody></table>
+
+Průměrná souhrnná doba trvání přerušení distribuce elektřiny u zákazníků na napěťové hladině h v hodnoceném období
+
+SAIDI<sub>h</sub>=(∑jt<sub>sj</sub>)/(N<sub>sh</sub>),
+
+| kde | t<sub>sj</sub> | je součet všech dob trvání přerušení distribuce elektřiny v důsledku j-té události u jednotlivých zákazníků přímo napájených z napěťové hladiny h, jimž byla přerušena distribuce elektřiny, stanovený jako: |
+|---|---|---|
+
+t<sub>sj</sub>=∑it<sub>ji</sub>.n<sub>jhi </sub>,
+
+<table><tbody><tr><td rowspan="3">kde </td><td>i </td><td>je pořadové číslo manipulačního kroku v rámci j-té události,</td></tr><tr><td>t<sub>ji</sub></td><td>je doba trvání i-tého manipulačního kroku v rámci j-té události,</td></tr><tr><td>n<sub>jhi</sub></td><td>je počet zákazníků přímo napájených z napěťové hladiny h, jimž bylo způsobeno přerušení distribuce elektřiny dané kategorie v i-tém manipulačním kroku j-té události.</td></tr></tbody></table>
+
+Průměrná doba trvání jednoho přerušení distribuce elektřiny u zákazníků na napěťové hladině h v hodnoceném období
+
+CAIDI<sub>h</sub>=(SAIDI<sub>h</sub>)/(SAIFI<sub>h</sub>).
+
+b) Systémové ukazatele
+
+Průměrný počet přerušení distribuce elektřiny u zákazníků v soustavě v hodnoceném období
+
+SAIFI<sub>s</sub>=(∑h=nn;vn;vvn∑jn<sub>jh</sub>)/(N<sub>s</sub>),
+
+| kde | N<sub>s</sub> | je celkový počet zákazníků v soustavě (na hladinách nn, vn a vvn) ke konci předchozího kalendářního roku. |
+|---|---|---|
+
+Průměrná souhrnná doba trvání přerušení distribuce elektřiny u zákazníků v soustavě v hodnoceném období
+
+SAIDI<sub>s</sub>=(∑h=nn;vn;vvn∑jt<sub>sj</sub>)/(N<sub>s</sub>),
+
+Průměrná doba trvání jednoho přerušení distribuce elektřiny u zákazníků v soustavě v hodnoceném období
+
+CAIDI<sub>s</sub>=(SAIDI<sub>s</sub>)/(SAIFI<sub>s</sub>).
+
+2\. Vztahy pro výpočet ukazatelů nepřetržitosti přenosu elektřiny
+
+Průměrná doba trvání jednoho přerušení přenosu elektřiny v roce
+
+t<sub>ph</sub>=(∑i=1nt<sub>i</sub>)/(n),
+
+<table><tbody><tr><td rowspan="3">kde </td><td>i </td><td>je pořadové číslo přerušení přenosu elektřiny v hodnoceném roce,</td></tr><tr><td>n </td><td>je roční počet přerušení přenosu elektřiny,</td></tr><tr><td>t<sub>i</sub></td><td>je doba trvání i-tého přerušení přenosu elektřiny.</td></tr></tbody></table>
+
+Nedodaná elektrická energie v roce
+
+W<sub>ned</sub>=∑i=1nt<sub>i </sub>P<sub>ned,i </sub>,
+
+| kde | P<sub>ned,i</sub> | je výkon dopravovaný účastníkovi trhu s elektřinou do předávacího místa z přenosové soustavy, ve kterém došlo k i-tému přerušení přenosu elektřiny, těsně před tímto přerušením. |
+|---|---|---|
+
+### Příloha č. 6 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### SOUHRNNÁ ZPRÁVA O DOSAŽENÉ ÚROVNI KVALITY DISTRIBUCE ELEKTŘINY A SOUVISEJÍCÍCH SLUŽEB
+
+#### ![sbcr2005c184z0540_2010c015z0041p006u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/801955/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p006u001)
+
+### Příloha č. 7 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### SOUHRNNÁ ZPRÁVA O DOSAŽENÉ ÚROVNI NEPŘETRŽITOSTI PŘENOSU ELEKTŘINY
+
+#### ![sbcr2005c184z0540_2010c015z0041p007u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/801957/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p007u001)
+
+### Příloha č. 8 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### SOUHRNNÁ ZPRÁVA O DODRŽOVÁNÍ STANDARDŮ DODÁVEK
+
+#### ![sbcr2005c184z0540_2010c015z0041p008u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/801959/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p008u001)
+
+### Příloha č. 9 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu ukončení přerušení přenosu distribuce elektřiny
+
+#### ![sbcr2005c184z0540_2010c015z0041p009u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/801961/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p009u001)
+
+### Příloha č. 10 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu ukončení přerušení přenosu nebo distribuce elektřiny - s žádostí o náhradu
+
+#### ![sbcr2005c184z0540_2010c015z0041p010u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/801963/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p010u001)
+
+### Příloha č. 11 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu dodržení plánovaného omezení nebo přerušení distribuce elektřiny
+
+#### ![sbcr2005c184z0540_2010c015z0041p011u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/801965/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p011u001)
+
+### Příloha č. 12 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu dodržení plánovaného omezení nebo přerušení distribuce elektřiny - s žádostí o náhradu
+
+#### ![sbcr2005c184z0540_2010c015z0041p012u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809587/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p012u001)
+
+### Příloha č. 13 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu výměny poškozené pojistky
+
+#### ![sbcr2005c184z0540_2010c015z0041p013u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809589/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p013u001)
+
+### Příloha č. 14 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu výměny poškozené pojistky - s žádostí o náhradu
+
+#### ![sbcr2005c184z0540_2010c015z0041p014u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809591/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p014u001)
+
+### Příloha č. 15 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu lhůty pro vyřízení reklamace na kvalitu napětí
+
+#### ![sbcr2005c184z0540_2010c015z0041p015u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809593/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p015u001)
+
+### Příloha č. 16 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu lhůty pro odstranění příčin snížené kvality napětí
+
+#### ![sbcr2005c184z0540_2010c015z0041p016u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809595/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p016u001)
+
+### Příloha č. 17 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu zaslání stanoviska k žádosti o připojení zařízení žadatele k přenosové soustavě nebo distribuční soustavě
+
+#### ![sbcr2005c184z0540_2010c015z0041p017u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809597/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p017u001)
+
+### Příloha č. 18 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu umožnění přenosu nebo distribuce elektřiny
+
+#### ![sbcr2005c184z0540_2010c015z0041p018u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809599/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p018u001)
+
+### Příloha č. 19 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu ukončení přerušení distribuce elektřiny z důvodu prodlení zákazníka nebo dodavatele sdružené služby s úhradou plateb za poskytnutou distribuci elektřiny
+
+#### ![sbcr2005c184z0540_2010c015z0041p019u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809601/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p019u001)
+
+### Příloha č. 20 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu ukončení přerušení distribuce elektřiny na žádost dodavatele nebo dodavatele sdružené služby
+
+#### ![sbcr2005c184z0540_2010c015z0041p020u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809603/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p020u001)
+
+### Příloha č. 21 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu výměny měřicího zařízení a vyrovnání plateb
+
+#### ![sbcr2005c184z0540_2010c015z0041p021u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809605/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p021u001)
+
+### Příloha č. 22 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu předávání údajů o měření
+
+#### ![sbcr2005c184z0540_2010c015z0041p022u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809607/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p022u001)
+
+### Příloha č. 23 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu lhůty pro vyřízení reklamace vyúčtování distribuce elektřiny
+
+#### ![sbcr2005c184z0540_2010c015z0041p023u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809609/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p023u001)
+
+### Příloha č. 24 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu dodržení termínu schůzky se zákazníkem
+
+#### ![sbcr2005c184z0540_2010c015z0041p024u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809611/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p024u001)
+
+### Příloha č. 25 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu zajištění ukončení přerušení dodávky elektřiny z důvodu prodlení zákazníka s úhradou plateb za odebranou elektřinu
+
+#### ![sbcr2005c184z0540_2010c015z0041p025u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809613/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p025u001)
+
+### Příloha č. 26 k vyhlášce č. 540/2005 Sb.
+
+#### Vzor
+
+#### Výkaz standardu lhůty pro vyřízení reklamace vyúčtování dodávky elektřiny
+
+#### ![sbcr2005c184z0540_2010c015z0041p026u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/809615/NAHLED/ZOBRAZ/sbcr2005c184z0540_2010c015z0041p026u001)
+
+---
+
+<sup>1</sup>) Vyhláška č. 541/2005 Sb., o Pravidlech trhu s elektřinou, zásadách tvorby cen za činnosti operátora trhu s elektřinou a provedení některých dalších ustanovení energetického zákona, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Vyhláška č. 408/2009 Sb., o náležitostech a členění regulačních výkazů včetně jejich vzorů a pravidlech pro sestavování regulačních výkazů.
+
+<sup>3</sup>) Vyhláška č. 219/2001 Sb., o postupu v případě hrozícího nebo stávajícího stavu nouze v elektroenergetice.
+
+<sup>5</sup>) Zákon č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů.
+
+<sup>6</sup>) Vyhláška č. 297/2001 Sb., kterou se stanoví podmínky připojení a dodávek elektřiny pro chráněné zákazníky. 
+ Vyhláška č. 18/2002 Sb., o podmínkách připojení a dopravy elektřiny v elektrizační soustavě, ve znění vyhlášky č. 300/2003 Sb.
+
+<sup>7</sup>) Vyhláška č. 541/2005 Sb., o Pravidlech trhu s elektřinou, zásadách tvorby cen za činnosti operátora trhu s elektřinou a provedení některých dalších ustanovení energetického zákona.
+
+<sup>8</sup>) § 2 odst. 1 písm. p) vyhlášky č. 541/2005 Sb., ve znění pozdějších předpisů.
+
+<sup>9</sup>) § 2 odst. 1 písm. f) vyhlášky č. 541/2005 Sb., ve znění pozdějších předpisů.
+
+<sup>1</sup>) Konkrétní numerické hodnoty se uvádějí s dolním indexem nn, vn nebo vvn (místo obecného indexu h použitého v uvedených vztazích) podle toho, jaké napěťové hladiny zákazníků se hodnota týká.

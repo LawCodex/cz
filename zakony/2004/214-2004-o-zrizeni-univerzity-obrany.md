@@ -1,0 +1,56 @@
+---
+title: "Zákon č. 214/2004 Sb., o zřízení Univerzity obrany"
+identifier: "214/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/214/2004-09-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2004-04-02
+effective: 2004-09-01
+last_amended: 2004-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/214"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 214/2004 Sb., o zřízení Univerzity obrany
+
+214
+
+ZÁKON
+
+ze dne 2. dubna 2004
+
+o zřízení Univerzity obrany
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1
+
+(1) Zřizuje se vojenská vysoká škola<sup>1</sup>) s názvem Univerzita obrany. Sídlem této vojenské vysoké školy je Brno. Univerzita obrany vzniká splynutím Vysoké vojenské školy pozemního vojska ve Vyškově, Vojenské akademie v Brně a Vojenské lékařské akademie Jana Evangelisty Purkyně v Hradci Králové, které ke dni zřízení Univerzity obrany zanikají.
+
+(2) Na Univerzitu obrany přecházejí veškerá práva a povinnosti Vysoké vojenské školy pozemního vojska ve Vyškově, Vojenské akademie v Brně a Vojenské lékařské akademie Jana Evangelisty Purkyně v Hradci Králové.
+
+## § 2
+
+(1) Studenti, kteří ke dni předcházejícímu dni nabytí účinnosti tohoto zákona studovali v akreditovaných studijních programech uskutečňovaných Vysokou vojenskou školou pozemního vojska ve Vyškově, Vojenskou akademií v Brně a Vojenskou lékařskou akademií Jana Evangelisty Purkyně v Hradci Králové, se dnem nabytí účinnosti tohoto zákona stávají studenty Univerzity obrany. Osoby, které měly ke dni předcházejícímu dni nabytí účinnosti tohoto zákona přerušené studium na Vysoké škole pozemního vojska ve Vyškově, Vojenské akademii v Brně nebo Vojenské lékařské akademii Jana Evangelisty Purkyně v Hradci Králové, mají dnem nabytí účinnosti tohoto zákona za totožných podmínek přerušené studium na Univerzitě obrany.
+
+(2) Akreditované studijní programy, které byly uskutečňovány ke dni předcházejícímu dni nabytí účinnosti tohoto zákona Vysokou vojenskou školou pozemního vojska ve Vyškově, Vojenskou akademií v Brně a Vojenskou lékařskou akademií Jana Evangelisty Purkyně v Hradci Králové, se dnem nabytí účinnosti tohoto zákona stávají akreditovanými studijními programy Univerzity obrany; doba platnosti jejich akreditace stanovená podle dosavadních právních předpisů tím není dotčena.
+
+(3) Akreditace habilitačního řízení a řízení ke jmenování profesorem, udělené Vysoké vojenské škole pozemního vojska ve Vyškově, Vojenské akademii v Brně a Vojenské lékařské akademii Jana Evangelisty Purkyně v Hradci Králové, platné ke dni předcházejícímu dni nabytí účinnosti tohoto zákona, se stávají akreditacemi udělenými Univerzitě obrany; doba platnosti uvedených akreditací stanovená podle dosavadních právních předpisů tím není dotčena, skončí však nejpozději dnem 31. srpna 2007.
+
+(4) Zahájená habilitační řízení a řízení ke jmenování profesorem, probíhající ke dni předcházejícímu dni nabytí účinnosti tohoto zákona na Vysoké vojenské škole pozemního vojska ve Vyškově, Vojenské akademii v Brně a Vojenské lékařské akademii Jana Evangelisty Purkyně v Hradci Králové, přecházejí na Univerzitu obrany.
+
+## § 3 – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. září 2004.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Špidla v. r.
+
+---
+
+<sup>1</sup>) § 2 odst. 3 a 7 zákona č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách).

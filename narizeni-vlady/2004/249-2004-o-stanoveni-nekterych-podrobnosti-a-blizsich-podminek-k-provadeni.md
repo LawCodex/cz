@@ -1,0 +1,280 @@
+---
+title: "Nařízení vlády č. 249/2004 Sb., o stanovení některých podrobností a bližších podmínek k provádění opatření společných organizací trhu s hovězím a telecím, vepřovým, drůbežím, skopovým a kozím masem, a vejci a k poskytování zvláštních subvencí při vývozu pro hovězí a telecí maso a pro některé druhy vykostěného hovězího masa"
+identifier: "249/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/249/2021-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-04-21
+effective: 2004-05-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/249"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 249/2004 Sb., o stanovení některých podrobností a bližších podmínek k provádění opatření společných organizací trhu s hovězím a telecím, vepřovým, drůbežím, skopovým a kozím masem, a vejci a k poskytování zvláštních subvencí při vývozu pro hovězí a telecí maso a pro některé druhy vykostěného hovězího masa ve znění nařízení vlády č. 566/2020 Sb."
+---
+
+# Nařízení vlády č. 249/2004 Sb., o stanovení některých podrobností a bližších podmínek k provádění opatření společných organizací trhu s hovězím a telecím, vepřovým, drůbežím, skopovým a kozím masem, a vejci a k poskytování zvláštních subvencí při vývozu pro hovězí a telecí maso a pro některé druhy vykostěného hovězího masa
+
+249
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 21. dubna 2004
+
+o stanovení některých podrobností a bližších podmínek k provádění opatření společných organizací trhu s hovězím a telecím, vepřovým, drůbežím, skopovým a kozím masem, a vejci a k poskytování zvláštních subvencí při vývozu pro hovězí a telecí maso a pro některé druhy vykostěného hovězího masa
+
+Vláda nařizuje podle § 2b odst. 2 a k provedení § 2a zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb., a k provedení zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 128/2003 Sb. a zákona č. 85/2004 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení stanoví některé podrobnosti a podmínky k provádění opatření společných organizací trhu s hovězím a telecím, vepřovým, drůbežím, skopovým a kozím masem, a vejci a k poskytování zvláštních subvencí při vývozu pro hovězí a telecí maso a pro některé druhy vykostěného hovězího masa, jejichž úpravu bezprostředně závazné právní předpisy Evropských společenství<sup>1</sup>) (dále jen „předpisy Evropských společenství“) členským státům Evropské unie přikazují nebo umožňují provést.
+
+## § 2 – Vymezení pojmů
+
+Pro účely tohoto nařízení se rozumí
+
+a) jatkami zařízení fyzické nebo právnické osoby pro porážku, v němž je v kalendářním roce v týdenním průměru poraženo více než
+
+1\. 20 kusů jatečného skotu,
+
+2\. 50 kusů prasat,
+
+3\. 10 000 kusů jatečných kuřat,
+
+4\. 2 000 kusů krocanů,
+
+5\. 5 kusů ovcí, nebo
+
+6\. 5 kusů koz,
+
+b) zprostředkovatelem fyzická nebo právnická osoba, která v posledním kalendářním roce týdně zprostředkovala nákup více než
+
+1\. 20 kusů jatečných telat nebo jatečného skotu,
+
+2\. 50 kusů prasat,
+
+3\. 5 kusů selat,
+
+4\. 5 kusů ovcí, nebo
+
+5\. 5 kusů koz,
+
+c) producentem fyzická nebo právnická osoba, která produkuje nebo nakupuje jatečnou drůbež nebo selata pro další užití,
+
+d) drůbežími porcovnami zařízení fyzické nebo právnické osoby pro porážku, v němž je v kalendářním roce v týdenním průměru jatečně zpracováno více než
+
+1\. 10 000 kusů jatečných kuřat, nebo
+
+2\. 2 000 kusů krocanů,
+
+e) zvláštní subvencí při vývozu zvláštní vývozní náhrada podle předpisů Evropských společenství,<sup>2</sup>)
+
+f) balírnou zařízení fyzické nebo právnické osoby pro produkci nebo prodej průměrně 100 000 kusů balených vajec týdně za uplynulý kalendářní rok.
+
+**Některá ustanovení o poskytování podpory soukromého skladování**
+
+## § 3
+
+Návrh na uzavření smlouvy o podpoře soukromého skladování a nabídky v rámci výběrového řízení podle předpisů Evropských společenství<sup>3</sup>) se podávají Státnímu zemědělskému intervenčnímu Fondu (dále jen „Fond“) na jím vydaných formulářích.
+
+## § 4
+
+(1) Osoba, s níž Fond uzavřel smlouvu o podpoře soukromého skladování podle předpisů Evropských společenství,<sup>3</sup>) poskytne Fondu tyto doklady:
+
+a) oznámení o porážecích, bouracích a skladovacích operacích,
+
+b) souhrn porážek a uskladnění celého množství masa,
+
+c) oznámení o vyskladnění nebo o dílčím vyskladnění masa k exportu,
+
+d) oznámení o množství vyskladněného masa,
+
+e) žádost o výplatu zálohy na podporu soukromého skladování,
+
+f) žádost o výplatu podpory nebo doplatku podpory soukromého skladování a uvolnění záruky.
+
+(2) Formuláře dokladů podle odstavce 1 vydává Fond.
+
+## § 5 – Podání nabídky do výběrového řízení na intervenční nákup
+
+Nabídka do výběrového řízení na intervenční nákup podle předpisů Evropských společenství a zvláštního právního předpisu<sup>4</sup>) se podává Fondu na formulářích vydaných Fondem.
+
+## § 6 – Intervenční skladování
+
+(1) Osoba, s níž Fond uzavřel smlouvu na intervenční skladování masa podle předpisů Evropských společenství<sup>4</sup>) a zvláštního právního předpisu,<sup>4</sup>) poskytne Fondu tyto doklady:
+
+a) bourací protokol,
+
+b) hlášení intervenčního skladu,
+
+c) měsíční hlášení intervenčního skladu,
+
+d) roční hlášení intervenčního skladu.
+
+(2) Formuláře dokladů podle odstavce 1 vydává Fond.
+
+## § 7 – Intervenční prodej
+
+Nabídka na nákup intervenčního masa a žádost na nákup intervenčního masa v rámci prodeje Fondem intervenčně nakoupeného masa podle předpisů Evropských společenství a zvláštního právního předpisu<sup>5</sup>) se podává Fondu na formulářích vydaných Fondem.
+
+**Tržní a cenová hlášení**
+
+## § 8 – Tržní a cenová hlášení u hovězího masa
+
+(1) Jatky a zprostředkovatelé na základě předpisů Evropských společenství a zvláštního právního předpisu<sup>6</sup>) poskytují Fondu informace o:
+
+a) zdrojích, zásobách a užití masa; informace se podává Fondu za každý kalendářní měsíc vždy do desátého dne následujícího kalendářního měsíce,
+
+b) zdrojích, zásobách a rozdělení výrobků z masa; informace se podává Fondu za každý kalendářní měsíc vždy do desátého dne následujícího kalendářního měsíce,
+
+c) vývoji průměrných cen jatečných zvířat a cen vybraných druhů masa a výrobků a jejich množství; informace se podává Fondu za každý kalendářní měsíc vždy do desátého dne následujícího kalendářního měsíce,
+
+d) cenách placených zemědělcům za dodaná jatečná zvířata, maso a výrobky a jejich množství; informace se podává Fondu za třináctý a dvacátý sedmý kalendářní den v kalendářním měsíci, a to vždy do dne následujícího,
+
+e) týdenních cenách placených zemědělcům za dodaná jatečná zvířata, a to včetně týdenních cen za zvířata dodaná z chovů v režimu ekologického zemědělství, podle Klasifikace jatečně upravených těl jatečných zvířat (SEUROP normy)<sup>7</sup>) a tříd protučnělosti a jejich množství; informace se podává Fondu za každý kalendářní týden vždy do následujícího pondělí,
+
+f) týdenních prodejních cenách hovězí přední čtvrtě, hovězí zadní čtvrtě a hovězího mletého masa; informace se podává Fondu za každý kalendářní týden vždy do následujícího pondělí.
+
+(2) Informace podle odstavce 1 písm. c) až f) o cenách se podávají Fondu jako vážený průměr v cenách bez DPH.
+
+(3) Informace podle odstavce 1 se podávají Fondu způsobem umožňujícím dálkový přenos dat (dále jen „elektronicky nebo telefaxem“), popřípadě v listinné podobě.
+
+(4) Informace podle odstavce 1 se podávají na formulářích vydaných Fondem.
+
+## § 9 – Tržní a cenová hlášení u vepřového masa
+
+(1) Jatky a zprostředkovatelé na základě předpisů Evropských společenství a zvláštního právního předpisu<sup>8</sup>) poskytují Fondu informace o:
+
+a) zdrojích, zásobách a užití masa; informace se podává Fondu za každý kalendářní měsíc vždy do desátého dne následujícího kalendářního měsíce,
+
+b) zdrojích, zásobách a rozdělení výrobků z masa; informace se podává Fondu za každý kalendářní měsíc vždy do desátého dne následujícího kalendářního měsíce,
+
+c) vývoji průměrných cen jatečných zvířat a cen vybraných druhů masa a výrobků a jejich množství; informace se podává Fondu za každý kalendářní měsíc vždy do desátého dne následujícího kalendářního měsíce,
+
+d) cenách placených zemědělcům za dodaná jatečná zvířata, maso a výrobky a jejich množství; informace se podává Fondu za třináctý a dvacátý sedmý kalendářní den v kalendářním měsíci, a to vždy do dne následujícího,
+
+e) týdenních cenách placených zemědělcům za dodaná jatečná zvířata, a to včetně týdenních cen za zvířata dodaná z chovů v režimu ekologického zemědělství, podle Klasifikace jatečně upravených těl jatečných zvířat (SEUROP normy)<sup>9</sup>) a tříd zmasilosti a jejich množství; informace se podává Fondu za každý kalendářní týden vždy do následujícího pondělí,
+
+f) týdenních prodejních cenách vepřové pečeně, vepřového boku, vepřové plece, vepřové kýty a vepřového mletého masa; informace se podává Fondu za každý kalendářní týden vždy do následujícího pondělí.
+
+(2) Producent a zprostředkovatel na základě předpisů Evropských společenství a zvláštního právního předpisu<sup>6</sup>) poskytuje Fondu informaci o cenách selat a jejich množství, a to za každý kalendářní týden vždy do pondělí následujícího kalendářního týdne.
+
+(3) Informace podle odstavce 1 písm. c) až f) a podle odstavce 2 o cenách se podávají Fondu jako vážený průměr v cenách bez DPH.
+
+(4) Informace podle odstavců 1 a 2 se podávají Fondu elektronicky nebo telefaxem, popřípadě v listinné podobě.
+
+(5) Informace podle odstavců 1 a 2 se podávají na formulářích vydaných Fondem.
+
+## § 10 – Tržní a cenová hlášení u drůbeže a drůbežího masa a vajec
+
+(1) Jatky a drůbeží porcovny na základě předpisů Evropských společenství a zvláštního právního předpisu<sup>10</sup>) poskytují Fondu informace o:
+
+a) prodaném množství a prodejní ceně celých kuřat jakostní třídy A, a to včetně prodaného množství a prodejní ceny celých kuřat z chovů v režimu ekologického zemědělství, a
+
+b) prodaném množství a prodejní ceně kuřecích prsních řízků a kuřecích stehen.
+
+(2) Informace podle odstavce 1 se podávají Fondu za každý kalendářní týden, a to vždy do pondělí následujícího kalendářního týdne do 12.00 hodin.
+
+(3) Producenti poskytují Fondu informace o:
+
+a) prodejních cenách jatečné drůbeže třídy A za 1 kg živé hmotnosti v Kč v cenách bez DPH,
+
+b) prodaném množství jatečné drůbeže třídy A v kusech,
+
+c) prodaném množství jatečné drůbeže třídy A v kilogramech.
+
+(4) Informace podle odstavce 3 se podávají Fondu za každý kalendářní měsíc, a to vždy do dvacátého dne následujícího kalendářního měsíce.
+
+(5) Balírny na základě předpisů Evropských společenství a zvláštního právního předpisu<sup>11</sup>) poskytují Fondu informace o:
+
+a) prodaném množství balených vajec v členění podle hmotnostních skupin M a L a podle technologie chovu,
+
+b) prodejních cenách balených vajec v Kč za 100 kusů v cenách bez DPH v členění podle hmotnostních skupin M a L.
+
+(6) Informace podle odstavce 5 se podávají Fondu za každý kalendářní týden, a to vždy do pondělí následujícího kalendářního týdne do 12.00 hodin.
+
+(7) Informace podle odstavců 1, 3 a 5 se podávají Fondu elektronicky nebo telefaxem, popřípadě v listinné podobě.
+
+(8) Informace podle odstavců 1, 3 a 5 se podávají na formulářích vydaných Fondem.
+
+## § 11 – Tržní a cenová hlášení u skopového a kozího masa
+
+(1) Jatky a zprostředkovatelé na základě zvláštního právního předpisu<sup>11</sup>) poskytují informace o vývoji průměrných cen jatečných zvířat a cen vybraných druhů masa a výrobků a jejich množství; informace se podává Fondu za každý kalendářní měsíc vždy do desátého dne následujícího kalendářního měsíce.
+
+(2) Informace podle odstavce 1 o cenách se podávají Fondu jako vážený průměr prodejních cen bez DPH.
+
+(3) Informace podle odstavce 1 se podávají Fondu elektronicky nebo telefaxem, popřípadě v listinné podobě.
+
+(4) Informace podle odstavce 1 se podávají na formulářích vydaných Fondem.
+
+## § 12 – Poskytování zvláštních subvencí při vývozu
+
+(1) Žádost o osvědčení k zvláštní subvenci při vývozu podle předpisů Evropských společenství<sup>12</sup>) se podává Fondu na formuláři vydaném Fondem.
+
+(2) Prohlášení podle předpisů Evropských společenství<sup>13</sup>) se podává Fondu na formuláři vydaném Fondem.
+
+## § 13 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+Předseda vlády:
+
+v z. Mgr. Gross v. r.
+
+1\. místopředseda vlády a ministr vnitra
+
+Ministr zemědělství:
+
+Ing. Palas v. r.
+
+---
+
+<sup>1</sup>) Nařízení Rady (ES) č. 1254/1999 ze dne 17. května 1999 o společné organizaci trhu s hovězím a telecím masem. 
+ Nařízení Rady (EHS) č. 2759/75 ze dne 29. října 1975 o společné organizaci trhu s vepřovým masem. 
+ Nařízení Rady (ES) č. 2529/2001 ze dne 19. prosince 2001 o společné organizaci trhu se skopovým a kozím masem. 
+ Nařízení Rady (EHS) č. 2777/75 ze dne 29. října 1975 o společné organizaci trhu s drůbežím masem. 
+ Nařízení Komise (ES) č. 907/2000 ze dne 2. května 2000, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 1254/1999, pokud jde o podporu soukromého skladování v odvětví hovězího a telecího masa. 
+ Nařízení Komise (EHS) č. 3444/90 ze dne 27. listopadu 1990, kterým se stanoví prováděcí pravidla k poskytování podpory soukromého skladování vepřového masa. 
+ Nařízení Komise (EHS) č. 3446/90 ze dne 27. listopadu 1990, kterým se stanoví prováděcí pravidla pro poskytování podpory soukromého skladování skopového a kozího masa. 
+ Nařízení Komise (ES) č. 562/2000 ze dne 15. března 2000, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 1254/1999, pokud jde o režimy nákupů v rámci veřejné intervence v odvětví hovězího masa. 
+ Nařízení Komise (EHS) č. 391/68 ze dne 1. května 1968, kterým se stanoví prováděcí pravidla k intervenčním nákupům v odvětví vepřového masa. 
+ Nařízení Rady (EHS) č. 32/82 ze dne 7. ledna 1982, kterým se stanoví podmínky pro poskytování zvláštních vývozních náhrad pro hovězí a telecí maso. 
+ Nařízení Rady (EHS) č. 1964/82 ze dne 20. července 1982, kterým se stanoví podmínky pro poskytování zvláštních vývozních náhrad pro některé druhy vykostěného hovězího masa. 
+ Nařízení Komise (ES) č. 546/2003 ze dne 27. března 2003 o některých sděleních údajů týkajících se používání nařízení Rady (EHS) č. 2771/75, (EHS) č. 2777/75 a (EHS) č. 2783/75 v odvětví vajec a drůbežího masa. 
+ Nařízení Komise (EHS) č. 2806/79 ze dne 13. prosince 1979 o výměně některých údajů týkajících se vepřového masa mezi členskými státy a Komisí a o zrušení nařízení (EHS) č. 2330/74. 
+ Nařízení Rady (ES) č. 295/96 ze dne 16. února 1996, kterým se stanoví prováděcí pravidla k nařízení Komise (EHS) č. 1892/87 o záznamu tržních cen dospělého skotu na základě klasifikační stupnice Společenství pro jatečně upravená těla. Nařízení Komise (EHS) č. 2173/79 ze dne 4. října 1979, kterým se stanoví prováděcí pravidla pro odbyt hovězího masa nakoupeného intervenčními agenturami a kterým se zrušuje nařízení (EHS) č. 216/69. 
+ Nařízení Rady (EHS) č. 2771/75 ze dne 29. října 1975 o společné organizaci trhu s vejci.
+
+<sup>2</sup>) Nařízení Rady (EHS) č. 32/82. 
+ Nařízení Rady (EHS) č. 1964/82.
+
+<sup>3</sup>) Čl. 4 nařízení Komise (ES) č. 907/2000. 
+ Čl. 3 nařízení Komise (EHS) č. 3444/90. 
+ Čl. 3 nařízení Komise (EHS) č. 3446/90.
+
+<sup>4</sup>) Čl. 11 odst. 2 nařízení Komise (ES) č. 562/2000. 
+ Čl. 4 nařízení Komise (EHS) č. 391/68. 
+ § 11c zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 128/2003 Sb.
+
+<sup>5</sup>) Nařízení Komise (EHS) č. 2173/79. 
+ § 11c zákona č. 256/2000 Sb., ve znění zákona č. 128/2003 Sb.
+
+<sup>6</sup>) Nařízení Rady (ES) č. 295/96. 
+ § 12 zákona č. 256/2000 Sb., ve znění zákona č. 128/2003 Sb.
+
+<sup>7</sup>) Vyhláška č. 354/2001 Sb., o způsobu provádění klasifikace jatečně upravených těl jatečného skotu a jatečných ovcí a podmínkách vydávání osvědčení o odborné způsobilosti fyzických osob k této činnosti.
+
+<sup>8</sup>) Nařízení Komise (EHS) č. 2806/79. 
+ § 12 zákona č. 256/2000 Sb., ve znění zákona č. 128/2003 Sb.
+
+<sup>9</sup>) Vyhláška č. 112/2001 Sb., o způsobu provádění klasifikace jatečně upravených těl jatečných prasat a podmínkách vydávání osvědčení o odborné způsobilosti fyzických osob k této činnosti.
+
+<sup>10</sup>) Nařízení Komise (ES) č. 546/03. 
+ § 12 zákona č. 256/2000 Sb., ve znění zákona č. 128/2003 Sb.
+
+<sup>11</sup>) § 12 zákona č. 256/2000 Sb., ve znění zákona č. 128/2003 Sb.
+
+<sup>12</sup>) Čl. 2 odst. 2 nařízení Rady (EHS) č. 32/82.
+
+<sup>13</sup>) Čl. 2 odst. 1 nařízení Rady (EHS) č. 1964/82.

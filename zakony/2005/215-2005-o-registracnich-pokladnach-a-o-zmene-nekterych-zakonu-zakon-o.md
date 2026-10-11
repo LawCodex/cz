@@ -1,0 +1,65 @@
+---
+title: "Zákon č. 215/2005 Sb., o registračních pokladnách a o změně některých zákonů (zákon o registračních pokladnách)"
+identifier: "215/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/215/2011-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2005-05-03
+effective: 2005-07-01
+last_amended: 2011-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/215"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 215/2005 Sb., o registračních pokladnách a o změně některých zákonů (zákon o registračních pokladnách) ve znění zákona č. 358/2005 Sb., zákona č. 545/2005 Sb., zákona č. 494/2006 Sb., zákona č. 261/2007 Sb. a zákona č. 281/2009 Sb."
+---
+
+# Zákon č. 215/2005 Sb., o registračních pokladnách a o změně některých zákonů (zákon o registračních pokladnách)
+
+215
+
+ZÁKON
+
+ze dne 3. května 2005
+
+o registračních pokladnách a o změně některých zákonů (zákon o registračních pokladnách)
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST ČTVRTÁ – Změna zákona o dani z přidané hodnoty
+
+### § 26
+
+V § 71 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění zákona č. 635/2004 Sb., se za odstavec 13 vkládá nový odstavec 14, který včetně poznámky pod čarou č. 49a zní:
+
+> „(14) Od daně je osvobozen dovoz zboží zabaveného a propadlého při řízení podle zvláštního právního předpisu<sup>49a</sup>), pokud je zboží bezúplatně předáno humanitárním a charitativním organizacím nebo sociálním a zdravotnickým zařízením činným na území České republiky k bezúplatnému rozdání zboží sociálně potřebným osobám.
+
+> <sup>49a</sup>) Zákon č. 191/1999 Sb., o opatřeních týkajících se dovozu, vývozu a zpětného vývozu zboží porušujícího některá práva duševního vlastnictví a o změně některých dalších zákonů, ve znění pozdějších předpisů.“.
+
+Dosavadní odstavce 14 až 17 se označují jako odstavce 15 až 18.
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### § 27
+
+Tento zákon nabývá účinnosti dnem 1. července 2005, s výjimkou části čtvrté, která nabývá účinnosti dnem jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Paroubek v. r.
+
+---
+
+<sup>1</sup>) § 132 zákona č. 353/2003 Sb., o spotřebních daních.
+
+<sup>2</sup>) § 12 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.
+
+<sup>3</sup>) Zákon č. 505/1990 Sb., o metrologii, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Zákon č. 36/1967 Sb., o soudních znalcích a tlumočnících.
+
+<sup>5</sup>) § 9 odst. 2 zákona č. 505/1990 Sb.
+
+<sup>6</sup>) Zákon č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.

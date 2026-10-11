@@ -1,0 +1,46 @@
+---
+title: "Zákon č. 547/2005 Sb., o státním dluhopisovém programu na úhradu závazku ze státní záruky za konsolidaci a stabilizaci bankovního sektoru a finančních dopadů z dělení majetku České a Slovenské Federativní Republiky mezi Českou republikou a Slovenskou republikou ve prospěch České národní banky"
+identifier: "547/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/547/2005-12-30"
+type: act
+jurisdiction: cz
+language: cs
+date: 2005-12-01
+effective: 2005-12-30
+last_amended: 2005-12-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/547"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 547/2005 Sb., o státním dluhopisovém programu na úhradu závazku ze státní záruky za konsolidaci a stabilizaci bankovního sektoru a finančních dopadů z dělení majetku České a Slovenské Federativní Republiky mezi Českou republikou a Slovenskou republikou ve prospěch České národní banky
+
+547
+
+ZÁKON
+
+ze dne 1. prosince 2005
+
+o státním dluhopisovém programu na úhradu závazku ze státní záruky za konsolidaci a stabilizaci bankovního sektoru a finančních dopadů z dělení majetku České a Slovenské Federativní Republiky mezi Českou republiku a Slovenskou republiku ve prospěch České národní banky
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1 – Státní dluhopisový program na úhradu závazku ze státní záruky za konsolidaci a stabilizaci bankovního sektoru a finančních dopadů z dělení majetku České a Slovenské Federativní Republiky mezi Českou republiku a Slovenskou republiku ve prospěch České národní banky
+
+(1) Účelem státního dluhopisového programu je úhrada závazku ze státní záruky poskytnuté za konsolidaci a stabilizaci bankovního sektoru a finančních dopadů z dělení majetku České a Slovenské Federativní Republiky mezi Českou republiku a Slovenskou republiku ve prospěch České národní banky.
+
+(2) Maximální rozsah státního dluhopisového programu je 22 000 000 000 Kč.
+
+(3) Veškeré závazky vyplývající z tohoto státního dluhopisového programu budou splaceny nejpozději uplynutím 40 let ode dne nabytí účinnosti tohoto zákona.
+
+(4) O prostředky získané emisí státních dluhopisů podle tohoto zákona lze překročit celkové výdaje státního rozpočtu schválené zákonem o státním rozpočtu v rozpočtovém roce, ve kterém budou takto získané finanční prostředky použity. O toto překročení se v příslušném rozpočtovém roce mění saldo státního rozpočtu a financující položky.
+
+## § 2 – Účinnost
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Paroubek v. r.

@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 510/2004 Sb., o vydání pamětních stříbrných dvousetkorun k 425. výročí prvního vydání Kralické bible"
+identifier: "510/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/510/2004-10-20"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2004-09-07
+effective: 2004-10-20
+last_amended: 2004-10-20
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/510"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 510/2004 Sb., o vydání pamětních stříbrných dvousetkorun k 425. výročí prvního vydání Kralické bible
+
+510
+
+VYHLÁŠKA
+
+ze dne 7. září 2004
+
+o vydání pamětních stříbrných dvousetkorun k 425. výročí prvního vydání Kralické bible
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K 425. výročí prvního kompletního českého vydání biblických knih zvaného Kralická bible se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,35 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je při levém, horním a pravém okraji v neuzavřeném opisu název státu „ČESKÁ REPUBLIKA“, při spodním okraji rovněž v neuzavřeném opisu označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“. Hlavním motivem lícní strany je sochařský přepis úryvku Pláče Jeremiášova z 1. kapitoly VI. dílu Kralické bible vydané v roce 1587, stylizovaný do podoby knižní stránky. Vlevo od něj je při levém spodním okraji před názvem státu umístěna značka mincovny, která dvousetkorunu razila.
+
+(2) Na rubu dvousetkoruny je titulní list I. dílu Kralické bible z roku 1579. Při levém, horním a pravém okraji je neuzavřený opis „PRVNÍ VYDÁNÍ KRALICKÉ BIBLE“, při spodním okraji rovněž v neuzavřeném opisu letopočty „1579 – 2004“. Autorem návrhu dvousetkoruny je akademický sochař Zbyněk Fojtů, jehož iniciály, stylizovaná spojená písmena „FZ“, jsou umístěny vpravo od vyobrazení při pravém spodním okraji dvousetkoruny za opisem vyjadřujícím její námět.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 20. října 2004.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### ![sbcr2004c176z0510o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/827231/NAHLED/ZOBRAZ/sbcr2004c176z0510o001)
+
+### ![sbcr2004c176z0510o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/827233/NAHLED/ZOBRAZ/sbcr2004c176z0510o002)

@@ -1,0 +1,58 @@
+---
+title: "Vyhláška č. 507/2005 Sb., kterou se mění vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti"
+identifier: "507/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/507/2006-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-12-13
+effective: 2006-01-01
+last_amended: 2006-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/507"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 507/2005 Sb., kterou se mění vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti
+
+507
+
+VYHLÁŠKA
+
+ze dne 13. prosince 2005,
+
+kterou se mění vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti
+
+Ministerstvo práce a sociálních věcí stanoví podle § 77 odst. 1, § 78 odst. 9 a § 119 odst. 6 zákona č. 435/2004 Sb., o zaměstnanosti:
+
+## Čl. I
+
+Vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti, se mění takto:
+
+1\. V § 7 odst. 1 a 5 se slova „více než“ nahrazují slovem „nejméně“.
+
+2\. V § 9 se písmena h) a i) označují jako písmena f) a g).
+
+3\. V § 9 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Je-li součástí nákladů uvedených v odstavci 1 i daň z přidané hodnoty a osoba samostatně výdělečně činná není plátcem této daně, považuje se daň z přidané hodnoty za provozní náklad chráněného pracovního místa osoby samostatně výdělečně činné.“.
+
+4\. V § 10 se za slovo „zálohově“ vkládá slovo „čtvrtletně“.
+
+5\. V § 11 odst. 3 se slovo „roku“ nahrazuje slovem „čtvrtletí“.
+
+6\. V § 26 se odstavec 1 včetně poznámek pod čarou č. 11 a 12 zrušuje a zároveň se zrušuje označení odstavce 2.
+
+7\. V § 26 se slova „podle odstavce 1“ nahrazují slovy „na společensky účelné pracovní místo, které zaměstnavatel vyhradil pro konkrétního uchazeče o zaměstnání<sup>13</sup>)“.
+
+Poznámka pod čarou č. 13 zní:
+
+> „<sup>13</sup>) § 113 odst. 5 zákona č. 435/2004 Sb., ve znění zákona č. 382/2005 Sb.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2006.
+
+Ministr:
+
+Ing. Škromach v. r.

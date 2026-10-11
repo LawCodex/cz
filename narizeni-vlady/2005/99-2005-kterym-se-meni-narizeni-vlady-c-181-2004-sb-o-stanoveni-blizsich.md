@@ -1,0 +1,64 @@
+---
+title: "Nařízení vlády č. 99/2005 Sb., kterým se mění nařízení vlády č. 181/2004 Sb., o stanovení bližších podmínek provádění společných organizací trhu, pokud jde o systém poskytování subvencí při vývozu pro zemědělské výrobky a zpracované zemědělské výrobky"
+identifier: "99/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/99/2005-02-28"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2005-02-09
+effective: 2005-02-28
+last_amended: 2005-02-28
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/99"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 99/2005 Sb., kterým se mění nařízení vlády č. 181/2004 Sb., o stanovení bližších podmínek provádění společných organizací trhu, pokud jde o systém poskytování subvencí při vývozu pro zemědělské výrobky a zpracované zemědělské výrobky
+
+99
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 9. února 2005,
+
+kterým se mění nařízení vlády č. 181/2004 Sb., o stanovení bližších podmínek provádění společných organizací trhu, pokud jde o systém poskytování subvencí při vývozu pro zemědělské výrobky a zpracované zemědělské výrobky
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 181/2004 Sb., o stanovení bližších podmínek provádění společných organizací trhu, pokud jde o systém poskytování subvencí při vývozu pro zemědělské výrobky a zpracované zemědělské výrobky, se mění takto:
+
+1\. Za § 3 se vkládají nové § 3a a 3b, které včetně poznámek pod čarou č. 4a až 4d znějí:
+
+> **„§ 3a**
+
+> V případě vývozu zemědělských výrobků podle předpisů Evropských společenství<sup>4a</sup>) předkládá vývozce přepravní doklady<sup>4b</sup>), a je-li k tomu Státním zemědělským intervenčním fondem (dále jen „Fond“) písemně vyzván, také doklady stanovené předpisy Evropských společenství<sup>4c</sup>).
+
+> **§ 3b**
+
+> Jistota (záruka) podle předpisů Evropských společenství<sup>4d</sup>) musí být Fondu prokazatelně poskytnuta nejpozději v den doručení žádosti o zálohu na subvenci při vývozu.
+
+> <sup>4a</sup>) Čl. 17 nařízení Komise (ES) č. 800/1999.
+
+> <sup>4b</sup>) Čl. 16 odst. 3 nařízení Komise (ES) č. 800/1999.
+
+> <sup>4c</sup>) Čl. 16 odst. 1, 2 a 4 nařízení Komise (ES) č. 800/1999.
+
+> <sup>4d</sup>) Čl. 24 nařízení Komise (ES) č. 800/1999.“.
+
+2\. V § 4 odst. 1 se slova „Státní zemědělský intervenční fond (dále jen „Fond“)“ nahrazují slovem „Fond“.
+
+3\. V § 4 odst. 2 písm. b) se slova „na vývozní náhradu“ nahrazují slovy „na subvenci při vývozu“.
+
+## Čl. II
+
+Toto nařízení nabývá účinnosti dnem jeho vyhlášení.
+
+Předseda vlády:
+
+JUDr. Gross v. r.
+
+Ministr zemědělství:
+
+Ing. Palas v. r.

@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 209/2005 Sb., kterou se mění vyhláška Ministerstva zemědělství č. 474/2000 Sb., o stanovení požadavků na hnojiva, ve znění vyhlášky č. 401/2004 Sb."
+identifier: "209/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/209/2005-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-05-20
+effective: 2005-06-01
+last_amended: 2005-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/209"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 209/2005 Sb., kterou se mění vyhláška Ministerstva zemědělství č. 474/2000 Sb., o stanovení požadavků na hnojiva, ve znění vyhlášky č. 401/2004 Sb.
+
+209
+
+VYHLÁŠKA
+
+ze dne 20. května 2005,
+
+kterou se mění vyhláška Ministerstva zemědělství č. 474/2000 Sb., o stanovení požadavků na hnojiva, ve znění vyhlášky č. 401/2004 Sb.
+
+Ministerstvo zemědělství stanoví podle § 3 odst. 5 a § 16 písm. a) a b) zákona č. 156/1998 Sb. o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění zákona č. 308/2000 Sb., zákona č. 147/2002 Sb. a zákona č. 317/2004 Sb.:
+
+## Čl. I
+
+1\. V bodě 1. přílohy č. 1 k vyhlášce č. 474/2000 Sb. se za slova „minerální hnojiva“ vkládají slova „s výjimkou hnojiv označených jako „hnojiva ES“ “.
+
+2\. V poznámce pod čarou č. 4 přílohy č. 1 k vyhlášce č. 474/2000 Sb. se za slovy „statková hnojiva“ doplňují slova „a organické hnojivo pod číslem typu 18.1 písmeno e)“.
+
+3\. V tabulce č. 5 přílohy č. 3 k vyhlášce č. 474/2000 Sb. u Organických a organominerálních hnojiv u čísla typu 18.1 písmene e) se ve sloupci 7 slova „maximální dávka 30 t/ha nejvýše jednou za tři roky“ zrušují.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. června 2005.
+
+Ministr:
+
+Ing. Zgarba v. r.

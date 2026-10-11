@@ -1,0 +1,131 @@
+---
+title: "Zákon č. 254/2004 Sb., o omezení plateb v hotovosti"
+identifier: "254/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/254/2017-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2004-04-13
+effective: 2004-07-01
+last_amended: 2017-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/254"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 254/2004 Sb., o omezení plateb v hotovosti a o změně zákona č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů ve znění zákona č. 303/2008 Sb., zákona č. 281/2009 Sb., zákona č. 139/2011 Sb., zákona č. 428/2011 Sb., zákona č. 18/2012 Sb., zákona č. 407/2012 Sb., zákona č. 261/2014 Sb., zákona č. 243/2016 Sb. a zákona č. 183/2017 Sb."
+---
+
+# Zákon č. 254/2004 Sb., o omezení plateb v hotovosti
+
+254
+
+ZÁKON
+
+ze dne 13. dubna 2004
+
+o omezení plateb v hotovosti
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – ZÁKON O OMEZENÍ PLATEB V HOTOVOSTI
+
+### § 1 – Účel zákona
+
+Tento zákon určuje, kdy jsou fyzické i právnické osoby (dále jen „osoby“) povinny provést platbu prostřednictvím osoby oprávněné poskytovat platební služby nebo provozovatele poštovních služeb formou poštovního poukazu (dále jen „peněžní ústav“), a upravuje kontrolu dodržování této povinnosti.
+
+### § 2 – Vymezení pojmů
+
+(1) Pro účely tohoto zákona se rozumí
+
+a) platbou předání nebo převedení peněžních prostředků poskytovatelem platby příjemci platby,
+
+b) bezhotovostní platbou platba provedená převodem peněžních prostředků na území České republiky prostřednictvím peněžního ústavu v české nebo cizí měně nebo převodem peněžních prostředků prostřednictvím peněžního ústavu v české nebo cizí měně z území České republiky na území jiného státu.
+
+(2) Za platbu se pro účely tohoto zákona nepovažuje
+
+a) vložení peněžních prostředků v hotovosti na účet u peněžního ústavu a jejich výběr z účtu u peněžního ústavu,
+
+b) výměna bankovek nebo mincí za jiné bankovky nebo mince prostřednictvím peněžního ústavu,
+
+c) předání nestandardně poškozených tuzemských bankovek nebo tuzemských mincí České národní bance,
+
+d) zadržení bankovek nebo mincí, u kterých existuje důvodné podezření, že jsou padělané nebo pozměněné, a jejich předání České národní bance,
+
+e) předání nebo převedení peněžních prostředků při provádění směnárenských obchodů osobou oprávněnou provozovat směnárenskou činnost,
+
+f) předání nebo převedení peněžních prostředků při poskytování služeb spočívajících v přepravě bankovek a mincí osobou oprávněnou k poskytování těchto služeb, nebo
+
+g) předání nebo převedení peněžních prostředků při poskytování služeb spočívajících ve zpracování bankovek a mincí osobou oprávněnou k poskytování těchto služeb.
+
+**Bezhotovostní platby**
+
+### § 3
+
+(1) Povinnost provést platbu bezhotovostně se vztahuje na platby prováděné
+
+a) navzájem mezi osobami s místem trvalého pobytu, místem pobytu nebo sídlem na území České republiky, pobočkami nebo organizačními složkami zahraničních osob zřízenými na území České republiky, nebo
+
+b) osobami s místem trvalého pobytu, místem pobytu nebo sídlem na území České republiky, pobočkami nebo organizačními složkami zahraničních osob zřízenými na území České republiky ve prospěch osob s místem pobytu nebo sídlem v zahraničí;
+
+přesahuje-li výše těchto plateb částku stanovenou tímto zákonem.
+
+(2) Povinnost podle odstavce 1 se nevztahuje na
+
+a) platby daní, poplatků a jiných obdobných peněžitých plnění uskutečňovaných podle daňového řádu nebo podle celního zákona, pokud tyto zákony nestanoví jinak,
+
+b) povinné platby vyplývající z pracovněprávních vztahů,
+
+c) platby důchodů z důchodového pojištění, včetně jednorázových doplatků a výplat dávek z penzijních fondů a účastnických fondů obhospodařovaných penzijní společností,
+
+d) platby prováděné v době krizového stavu vyhlášeného podle zvláštního právního předpisu,<sup>1</sup>)
+
+e) platby pojistného a výplat pojistného plnění ze soukromého pojištění,
+
+f) platby prováděné Českou národní bankou při prodeji pamětních mincí, nebo
+
+g) platby přijaté soudním exekutorem, soudem nebo správním orgánem při exekuci nebo výkonu rozhodnutí.
+
+### § 4
+
+(1) Poskytovatel platby, jejíž výše překračuje částku 270 000 Kč (dále jen „limit“) je povinen provést platbu bezhotovostně.
+
+(2) Příjemce platby, jejíž výše překračuje limit, nesmí tuto platbu přijmout, jestliže nebyla provedena bezhotovostně.
+
+(3) Platba v cizí měně se pro účely tohoto zákona přepočte na koruny české směnným kursem devizového trhu vyhlášeným Českou národní bankou a platným ke dni provedení platby.
+
+(4) Do limitu se započítávají všechny platby v české i cizí měně, provedené týmž poskytovatelem platby témuž příjemci platby v průběhu jednoho kalendářního dne.
+
+**Přestupky**
+
+### § 5
+
+(1) Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že poruší povinnost provést platbu bezhotovostně, ačkoli jí tuto povinnost ukládá tento zákon.
+
+(2) Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že přijme hotovostní platbu, která byla provedena v rozporu s tímto zákonem.
+
+(3) Za přestupek podle odstavců 1 a 2 lze uložit fyzické osobě pokutu do 500 000 Kč a právnické a podnikající fyzické osobě pokutu do 5 000 000 Kč.
+
+### § 6a
+
+(1) Přestupky podle tohoto zákona zjišťují při své činnosti finanční úřady a celní úřady.
+
+(2) Pokuty ukládá, vybírá a vymáhá správní orgán, který při své činnosti zjistil porušení povinnosti podle tohoto zákona.
+
+### § 7 – Přechodné ustanovení
+
+Bylo-li sjednáno přede dnem nabytí účinnosti tohoto zákona splnění závazku platbou v hotovosti, lze provést platbu v hotovosti převyšující limit uvedený v § 4 nejdéle do jednoho roku ode dne nabytí účinnosti tohoto zákona.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### § 9
+
+Tento zákon nabývá účinnosti prvním dnem třetího kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Špidla v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění zákona č. 320/2002 Sb.

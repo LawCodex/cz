@@ -1,0 +1,70 @@
+---
+title: "Vyhláška č. 165/2005 Sb., kterou se mění vyhláška č. 105/2003 Sb., o vyhlášení Národní přírodní památky Zbrašovské aragonitové jeskyně a stanovení bližších podmínek její ochrany, a vyhláška č. 236/1999 Sb., kterou se vyhlašuje národní přírodní památka Bozkovské dolomitové jeskyně a stanoví její bližší ochranné podmínky."
+identifier: "165/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/165/2005-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-04-19
+effective: 2005-05-01
+last_amended: 2005-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/165"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 165/2005 Sb., kterou se mění vyhláška č. 105/2003 Sb., o vyhlášení Národní přírodní památky Zbrašovské aragonitové jeskyně a stanovení bližších podmínek její ochrany, a vyhláška č. 236/1999 Sb., kterou se vyhlašuje národní přírodní památka Bozkovské dolomitové jeskyně a stanoví její bližší ochranné podmínky.
+
+165
+
+VYHLÁŠKA
+
+ze dne 19. dubna 2005,
+
+kterou se mění vyhláška č. 105/2003 Sb., o vyhlášení Národní přírodní památky Zbrašovské aragonitové jeskyně a stanovení bližších podmínek její ochrany, a vyhláška č. 236/1999 Sb., kterou se vyhlašuje národní přírodní památka Bozkovské dolomitové jeskyně a stanoví její bližší ochranné podmínky
+
+Ministerstvo životního prostředí stanoví podle § 79 odst. 3 písm. b) zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb.:
+
+## ČÁST PRVNÍ – Změna vyhlášky č. 105/2003 Sb., o vyhlášení Národní přírodní památky Zbrašovské aragonitové jeskyně a stanovení bližších podmínek její ochrany
+
+### Čl. I
+
+Vyhláška č. 105/2003 Sb., o vyhlášení Národní přírodní památky Zbrašovské aragonitové jeskyně a stanovení bližších podmínek její ochrany, se mění takto:
+
+1\. V § 2 odst. 1 se první věta nahrazuje větou „Národní přírodní památka se rozkládá v katastrálním území Teplice nad Bečvou, a to v ochranném pásmu I. stupně přírodních léčivých zdrojů lázeňského místa Teplice nad Bečvou<sup>1</sup>) a ve vnitřním lázeňském území lázeňského místa Teplice nad Bečvou.“.
+
+2\. V § 3 písmeno g) včetně poznámky pod čarou č. 5 zní:
+
+> „g) provádět změny dokončených staveb a zařízení nebo změny staveb a zařízení před jejich dokončením; souhlas se nevyžaduje pro změny dokončených staveb a zařízení nebo změny staveb a zařízení před jejich dokončením, které se nacházejí v katastrálním území Teplice nad Bečvou na stavebních parcelách evidovaných v katastru nemovitostí pod čísly 66, 71, 73, 74, 75, 87, 121, 122 a 170, pokud se při tom nebude zasahovat do zemského povrchu, a pro využití a obnovu přírodních léčivých zdrojů<sup>5</sup>) a stávajících inženýrských sítí na celém území národní přírodní památky,
+
+> <sup>5</sup>) § 35 odst. 2 zákona č. 114/1992 Sb.“.
+
+3\. V § 3 v návětí se odkaz na poznámku pod čarou č. 3 zrušuje.
+
+4\. Příloha č. 2 zní:
+
+> **„Příloha č. 2 k vyhlášce č. 105/2003 Sb.**
+
+> **![sbcr2005c060z0165o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834501/NAHLED/ZOBRAZ/sbcr2005c060z0165o001)**
+
+## ČÁST DRUHÁ – Změna vyhlášky č. 236/1999 Sb., kterou se vyhlašuje národní přírodní památka Bozkovské dolomitové jeskyně a stanoví její bližší ochranné podmínky
+
+### Čl. II
+
+Vyhláška č. 236/1999 Sb., kterou se vyhlašuje národní přírodní památka Bozkovské dolomitové jeskyně a stanoví bližší ochranné podmínky, se mění takto:
+
+1\. V § 2 odst. 1 se poslední věta zrušuje.
+
+2\. V § 3 odst. 1 písmeno g) zní:
+
+> „g) vstupovat do veřejnosti nepřístupných jeskyní,“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. III
+
+Tato vyhláška nabývá účinnosti dnem 1. května 2005.
+
+Ministr:
+
+RNDr. Ambrozek v. r.

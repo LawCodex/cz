@@ -1,0 +1,50 @@
+---
+title: "Vyhláška č. 338/2004 Sb., kterou se mění vyhláška č. 72/1988 Sb., o používání výbušnin, ve znění pozdějších předpisů"
+identifier: "338/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/338/2004-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2004-05-24
+effective: 2004-06-01
+last_amended: 2004-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/338"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 338/2004 Sb., kterou se mění vyhláška č. 72/1988 Sb., o používání výbušnin, ve znění pozdějších předpisů
+
+338
+
+VYHLÁŠKA
+
+ze dne 24. května 2004,
+
+kterou se mění vyhláška č. 72/1988 Sb., o používání výbušnin, ve znění pozdějších předpisů
+
+Český báňský úřad stanoví podle § 24 odst. 3 zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona č. 315/2001 Sb.:
+
+## Čl. I
+
+Vyhláška č. 72/1988 Sb., o používání výbušnin, ve znění vyhlášky č. 173/1992 Sb., vyhlášky č. 340/1992 Sb., vyhlášky č. 99/1995 Sb. a vyhlášky č. 341/2001 Sb., se mění takto:
+
+1\. V § 25 odst. 1 se slova „ve státní zkušebně, ve zkušebně určené Českým báňským úřadem“ nahrazují slovy „ve zkušebně určené podle zvláštního právního předpisu<sup>8a</sup>)“.
+
+Poznámka pod čarou č. 8a) zní:
+
+> „<sup>8a</sup>) Zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.“.
+
+2\. V § 26 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1.
+
+3\. § 58 se včetně nadpisu zrušuje.
+
+4\. V § 92 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. června 2004.
+
+Předseda:
+
+prof. JUDr. Ing. Makarius, CSc. v. r.

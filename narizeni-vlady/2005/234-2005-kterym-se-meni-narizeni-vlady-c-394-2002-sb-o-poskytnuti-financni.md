@@ -1,0 +1,44 @@
+---
+title: "Nařízení vlády č. 234/2005 Sb., kterým se mění nařízení vlády č. 394/2002 Sb., o poskytnutí finanční pomoci v oblasti bydlení fyzickým osobám postiženým povodněmi v roce 2002"
+identifier: "234/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/234/2005-06-17"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2005-05-18
+effective: 2005-06-17
+last_amended: 2005-06-17
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/234"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 234/2005 Sb., kterým se mění nařízení vlády č. 394/2002 Sb., o poskytnutí finanční pomoci v oblasti bydlení fyzickým osobám postiženým povodněmi v roce 2002
+
+234
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 18. května 2005,
+
+kterým se mění nařízení vlády č. 394/2002 Sb., o poskytnutí finanční pomoci v oblasti bydlení fyzickým osobám postiženým povodněmi v roce 2002
+
+Vláda nařizuje k provedení zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 493/2000 Sb., zákona č. 141/2001 Sb., zákona č. 187/2001 Sb., zákona č. 320/2001 Sb., zákona č. 450/2001 Sb., zákona č. 202/2002 Sb., zákona č. 320/2002 Sb., zákona č. 479/2003 Sb., zákona č. 186/2004 Sb., zákona č. 257/2004 Sb., zákona č. 436/2004 Sb., zákona č. 482/2004 Sb., zákona č. 1/2005 Sb. a zákona č. 127/2005 Sb.:
+
+## Čl. I
+
+V § 3 nařízení vlády č. 394/2002 Sb., o poskytnutí finanční pomoci v oblasti bydlení fyzickým osobám postiženým povodněmi v roce 2002, se doplňuje odstavec 3, který zní:
+
+> „(3) Žádost lze podat i po uplynutí lhůty stanovené v odstavci 1, pokud rozhodnutí podle odstavce 1 písm. d) nabylo právní moci po 31. březnu 2004.“.
+
+## Čl. II
+
+Toto nařízení nabývá účinnosti dnem jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Paroubek v. r.
+
+Ministr pro místní rozvoj:
+
+Mgr. Martínek v. r.

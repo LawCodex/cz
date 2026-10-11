@@ -1,0 +1,73 @@
+---
+title: "Zákon č. 480/2003 Sb., kterým se mění zákon č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů, zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů, zákon č. 229/2001 Sb., kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., a některé další zákony, a zákon č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů"
+identifier: "480/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/480/2006-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2003-12-17
+effective: 2003-12-31
+last_amended: 2006-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/480"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 480/2003 Sb., kterým se mění zákon č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů, zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů, zákon č. 229/2001 Sb., kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., a některé další zákony, a zákon č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů ve znění zákona č. 179/2005 Sb."
+---
+
+# Zákon č. 480/2003 Sb., kterým se mění zákon č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů, zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů, zákon č. 229/2001 Sb., kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., a některé další zákony, a zákon č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů
+
+480
+
+ZÁKON
+
+ze dne 17. prosince 2003,
+
+kterým se mění zákon č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů, zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů, zákon č. 229/2001 Sb., kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., a některé další zákony, a zákon č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů
+
+### Čl. II
+
+Zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., zákona č. 229/2001 Sb., zákona č. 320/2001 Sb., zákona č. 202/2002 Sb., zákona č. 280/2002 Sb., nálezu Ústavního soudu č. 476/2002 Sb., zákona č. 88/2003 Sb. a zákona č. 354/2003 Sb., se mění takto:
+
+1\. V § 59 odst. 1 se číslovka „3“ nahrazuje číslovkou „6“.
+
+2\. V § 60c odst. 1 se za slovy „uvedeného ve větě první“ vkládá čárka a slova „během doby stanovené v § 59 odst. 1, nejpozději však k 31. prosinci 2003“ se nahrazují slovy „bude-li podána u příslušné organizační složky nejpozději 31. prosince 2003“.
+
+## ČÁST TŘETÍ – Změna zákona č. 229/2001 Sb., kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., a některé další zákony
+
+### Čl. III
+
+V části čtvrté článku IV bodu 1 zákona č. 229/2001 Sb., kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., a některé další zákony, se číslovka „2004“ nahrazuje číslovkou „2007“.
+
+## ČÁST ČTVRTÁ – Změna zákona č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů
+
+### Čl. IV
+
+V § 16 zákona č. 77/1997 Sb., o státním podniku, ve znění zákona č. 220/2000 Sb., zákona č. 103/2001 Sb. a zákona č. 202/2002 Sb., se doplňuje odstavec 9, který včetně poznámek pod čarou č. 12a), 12b) a 12c) zní:
+
+> „(9) Nemovité věci, s nimiž mají právo hospodařit podniky založené ústředními orgány státní správy, lze bezúplatně darovací smlouvou převést na návrh zakladatele po souhlasu vlády do vlastnictví územně samosprávných celků, popřípadě jejich sdružení.<sup>12a</sup>) Tento majetek, o jehož převodu vláda rozhodla, se považuje za majetek pro stát trvale nepotřebný.<sup>12b</sup>) Pro převod takového majetku se použijí obdobně ustanovení zvláštního zákona.<sup>12c</sup>)
+
+> <sup>12a</sup>) § 46 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění zákona č. 313/2002 Sb. 
+>  § 24 zákona č. 129/2000 Sb., o krajích (krajské zřízení), ve znění zákona č. 231/2002 Sb. 
+>  § 21 a 22 zákona č. 131/2000 Sb., o hlavním městě Praze.
+
+> <sup>12b</sup>) § 21 odst. 1 zákona č. 219/2000 Sb., ve znění zákona č. 202/2002 Sb.
+
+> <sup>12c</sup>) § 3 zákona č. 174/2003 Sb., o převodu některého nepotřebného vojenského majetku a majetku, s nímž je příslušné hospodařit Ministerstvo vnitra, z vlastnictví České republiky na územní samosprávné celky.“.
+
+Dosavadní poznámka pod čarou č. 12a) se označuje jako č. 12d).
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### Čl. V
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Špidla v. r.

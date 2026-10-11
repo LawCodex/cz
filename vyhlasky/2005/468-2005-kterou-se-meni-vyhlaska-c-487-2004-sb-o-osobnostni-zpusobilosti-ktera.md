@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 468/2005 Sb., kterou se mění vyhláška č. 487/2004 Sb., o osobnostní způsobilosti, která je předpokladem pro výkon služby v bezpečnostním sboru, ve znění vyhlášky č. 658/2004 Sb."
+identifier: "468/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/468/2007-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-11-21
+effective: 2007-01-01
+last_amended: 2007-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/468"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 468/2005 Sb., kterou se mění vyhláška č. 487/2004 Sb., o osobnostní způsobilosti, která je předpokladem pro výkon služby v bezpečnostním sboru, ve znění vyhlášky č. 658/2004 Sb.
+
+468
+
+VYHLÁŠKA
+
+ze dne 21. listopadu 2005,
+
+kterou se mění vyhláška č. 487/2004 Sb., o osobnostní způsobilosti, která je předpokladem pro výkon služby v bezpečnostním sboru, ve znění vyhlášky č. 658/2004 Sb.
+
+Ministerstvo vnitra v dohodě s Ministerstvem financí, Ministerstvem spravedlnosti, Bezpečnostní informační službou a Úřadem pro zahraniční styky a informace stanoví podle § 15 odst. 7 a § 79 odst. 7 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů:
+
+## Čl. I
+
+Vyhláška č. 487/2004 Sb., o osobnostní způsobilosti, která je předpokladem pro výkon služby v bezpečnostním sboru, ve znění vyhlášky č. 658/2004 Sb., se mění takto:
+
+1\. V § 2 se za písmeno a) vkládá nové písmeno b), které zní:
+
+> „b) ustanovení příslušníka na služební místo v rámci bezpečnostního sboru, pro které je toto zjišťování stanoveno jako jiný zvláštní požadavek,“.
+
+Dosavadní písmena b) a c) se označují jako písmena c) a d).
+
+2\. V § 3 odst. 2 větě druhé se slova „písm. b)“ nahrazují slovy „písm. c)“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem nabytí účinnosti zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů.
+
+Ministr:
+
+Mgr. Bublan v. r.

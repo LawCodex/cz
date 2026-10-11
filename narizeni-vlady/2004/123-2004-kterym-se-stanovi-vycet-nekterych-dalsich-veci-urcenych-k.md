@@ -1,0 +1,60 @@
+---
+title: "Nařízení vlády č. 123/2004 Sb., kterým se stanoví výčet některých dalších věcí určených k bezúplatnému převodu z vlastnictví České republiky do vlastnictví Federace židovských obcí v České republice nebo do vlastnictví židovských obcí v České republice za účelem zmírnění některých majetkových křivd způsobených holocaustem a postup při jejich převodu"
+identifier: "123/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/123/2004-05-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-02-25
+effective: 2004-05-01
+last_amended: 2004-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/123"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 123/2004 Sb., kterým se stanoví výčet některých dalších věcí určených k bezúplatnému převodu z vlastnictví České republiky do vlastnictví Federace židovských obcí v České republice nebo do vlastnictví židovských obcí v České republice za účelem zmírnění některých majetkových křivd způsobených holocaustem a postup při jejich převodu
+
+123
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. února 2004,
+
+kterým se stanoví výčet některých dalších věcí určených k bezúplatnému převodu z vlastnictví České republiky do vlastnictví Federace židovských obcí v České republice nebo do vlastnictví židovských obcí v České republice za účelem zmírnění některých majetkových křivd způsobených holocaustem a postup při jejich převodu
+
+Vláda nařizuje podle § 2 odst. 2 zákona č. 212/2000 Sb., o zmírnění některých majetkových křivd způsobených holocaustem a o změně zákona č. 243/1992 Sb., kterým se upravují některé otázky související se zákonem č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění zákona č. 93/1992 Sb., ve znění pozdějších předpisů:
+
+## § 1
+
+K bezúplatnému převodu do vlastnictví Federace židovských obcí v České republice nebo do vlastnictví židovských obcí v České republice (dále jen „židovská právnická osoba“) jsou určeny věci uvedené v příloze k tomuto nařízení.
+
+## § 2
+
+(1) Návrh na uzavření darovací smlouvy za Českou republiku vypracuje ten, kdo s věcmi uvedenými v příloze k tomuto nařízení hospodaří podle zvláštního právního předpisu (dále jen „navrhovatel“).
+
+(2) Navrhovatel je povinen návrh na uzavření písemné darovací smlouvy zaslat té příslušné židovské právnické osobě, které mají být věci v souladu s přílohou k tomuto nařízení převedeny, a to nejpozději do 3 měsíců ode dne nabytí účinnosti tohoto nařízení.
+
+## § 3
+
+Toto nařízení nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Místopředseda vlády a ministr financí:
+
+Mgr. Sobotka v. r.
+
+### Příloha k nařízení vlády č. 123/2004 Sb.
+
+#### Věci určené k převodu z vlastnictví České republiky do vlastnictví Federace židovských obcí v České republice a židovských obcí v České republice
+
+| 1. | Prádelny a čistírny Brno, státní podnik v likvidaci Veveří 8<br> 602 00 Brno<br> IČ 00100803 | pozemek parcelní číslo 1549, zastavěná plocha a nádvoří, zapsaný v katastru nemovitostí na listu vlastnictví č. 224, obec Brno a katastrální území Staré Brno | Židovská obec Brno Kapitána Jaroše 3 602 00 Brno<br> IČ 49465473 |
+|---|---|---|---|
+| 2. | Lesy České republiky, státní podnik<br> Přemyslova 1106 501 68 Hradec Králové<br> IČ 42196451 | pozemek parcelní číslo 277/3 (původně parcelní číslo 278 vedený ve zjednodušené evidenci), oddělený dle geometrického plánu číslo 95-117/03 z pozemku parcelní číslo 277/1, zapsaného v katastru nemovitostí na listu vlastnictví č. 72, obec Plesná a katastrální území Lomnička u Plesné | Židovská obec Plzeň Smetanovy sady 5 301 37 Plzeň<br> IČ 49777122 |
+| 3. | Pozemkový fond České republiky<br> Ve Smečkách 33<br> 110 00 Praha 1<br> IČ 45797072 | pozemek parcelní číslo 1477/2, ostatní plocha, pozemek parcelní číslo 233/53, oddělený dle geometrického plánu číslo 171-888/2003 z pozemku parcelní číslo 233/21, orná půda, pozemek parcelní číslo 339/4, orná půda, pozemek parcelní číslo 233/31, chmelnice, vše zapsané v katastru nemovitostí na listu vlastnictví č. 10002, obec Liběšice a katastrální území Liběšice u Žatce | Židovská obec Teplice<br> Lipová 25<br> 415 01 Teplice<br> IČ 61515434 |
+| 4. | Pozemkový fond České republiky<br> Ve Smečkách 33<br> 110 00 Praha 1<br> IČ 45797072 | pozemek parcelní číslo 279/7, orná půda, (původně vedeno jako pozemkový katastr 268/2 ve zjednodušené evidenci), oddělený dle geometrického plánu číslo 209-25/2003 z pozemku parcelní číslo 279/1, orná půda, zapsaného v katastru nemovitostí na listu vlastnictví č. 10002, obec Chyše a katastrální území Chyše | Federace židovských obcí v České republice Maiselova 18<br> 110 00 Praha 1<br> IČ 00438341 |
+| 5. | Pozemkový fond České republiky<br> Ve Smečkách 33<br> 110 00 Praha 1<br> IČ 45797072 | pozemek parcelní číslo 3084/5, orná půda, oddělený dle geometrického plánu číslo 2527-22/2003 z pozemku parcelní číslo 3084/4, orná půda,<br> <br> pozemek parcelní číslo 3089/21, orná půda, oddělený dle geometrického plánu číslo 2527-22/2003 z pozemku parcelní číslo 3089/1, orná půda,<br> <br> pozemek parcelní číslo 3089/20, orná půda, oddělený dle geometrického plánu číslo 2527-22/2003 z pozemku parcelní číslo 3089/1, orná půda,vše zapsáno v katastru nemovitostí na listu vlastnictví č. 10002, obec Tachov a katastrální území Tachov | Židovská obec Plzeň Smetanovy sady 5<br> 301 37 Plzeň<br> IČ 49777122 |
+| 6. | Fakultní nemocnice u sv. Anny<br> Pekařská 53<br> 656 91 Brno<br> IČ 00159816 | pozemek parcelní číslo 1554, zastavěná plocha a nádvoří, zapsaný v katastru nemovitostí na listu vlastnictví č. 565, obec Brno a katastrální území Staré Brno | Židovská obec Brno<br> Kapitána Jaroše 3<br> 602 00 Brno<br> IČ 49465473 |

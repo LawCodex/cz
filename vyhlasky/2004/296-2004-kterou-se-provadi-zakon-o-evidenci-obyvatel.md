@@ -1,0 +1,173 @@
+---
+title: "Vyhláška č. 296/2004 Sb., kterou se provádí zákon o evidenci obyvatel"
+identifier: "296/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/296/2024-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2004-04-28
+effective: 2004-05-14
+last_amended: 2024-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/296"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 296/2004 Sb., kterou se provádí zákon o evidenci obyvatel a kterou se mění vyhláška č. 177/2000 Sb., kterou se provádí zákon o evidenci obyvatel, zákon o občanských průkazech a zákon o cestovních dokladech, ve znění pozdějších předpisů ve znění vyhlášky č. 661/2004 Sb., vyhlášky č. 299/2006 Sb., vyhlášky č. 84/2011 Sb., vyhlášky č. 5/2015 Sb., vyhlášky č. 153/2022 Sb. a vyhlášky č. 415/2023 Sb."
+---
+
+# Vyhláška č. 296/2004 Sb., kterou se provádí zákon o evidenci obyvatel
+
+296
+
+VYHLÁŠKA
+
+ze dne 28. dubna 2004,
+
+kterou se provádí zákon o evidenci obyvatel
+
+Ministerstvo vnitra stanoví podle § 13b odst. 7 a § 25 zákona č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění zákona č. 53/2004 Sb., (dále jen „zákon“):
+
+## ČÁST PRVNÍ – TECHNICKÝ ZPŮSOB PŘEDÁVÁNÍ RODNÝCH ČÍSEL NA VÝDEJOVÁ MÍSTA A PŘIDĚLOVÁNÍ RODNÝCH ČÍSEL VÝDEJOVÝM MÍSTEM
+
+### § 1 – Předávání rodných čísel na výdejová místa
+
+(1) Z registru rodných čísel<sup>1</sup>) (dále jen „registr“) se pro účely individuálního přiřazení rodného čísla fyzickým osobám<sup>2</sup>) předávají výdejovým místům rodných čísel<sup>3</sup>) (dále jen „výdejové místo“) sestavy rodných čísel (dále jen „sestava“). Sestava je tvořena pro jednotlivé kalendářní dny a výdejovému místu se soubory sestav předávají na období tří kalendářních měsíců tak, aby je každé výdejové místo obdrželo k prověření a následnému využití nejpozději 3 pracovní dny před začátkem prvního kalendářního měsíce období, pro něž je soubor sestav tvořen. Postup podle věty druhé se nepoužije v případě, jsou-li sestavy nebo vyžádaná rodná čísla podle odstavce 2 poskytována dálkovým přístupem prostřednictvím sítě elektronických komunikací se zajištěním zpětné komunikace s výdejovým místem.
+
+(2) Z registru se dále na vyžádání výdejového místa poskytují určená a dosud nepřidělená rodná čísla za účelem jejich přidělení fyzické osobě podle § 16 písm. b), c), d) a e) a § 17 odst. 2 zákona (dále jen „vyžádaná rodná čísla“).
+
+(3) Sestavy podle odstavce 1 se předávají nebo vyžádaná rodná čísla podle odstavce 2 se poskytují<sup>4</sup>)
+
+a) dálkovým přístupem prostřednictvím sítě elektronických komunikací se zajištěním zpětné komunikace s výdejovým místem,
+
+b) na technickém nosiči dat, nebo
+
+c) ve formě tištěné dokumentace.
+
+(4) Konkrétní formu předávání sestav nebo poskytování vyžádaných rodných čísel na příslušné výdejové místo stanoví správce registru<sup>5</sup>) podle stavu technických podmínek registru s přihlédnutím ke stavu technických podmínek konkrétního výdejového místa.
+
+(5) Předané sestavy, obsahující rodná čísla pro příslušný kalendářní měsíc, spolu s vyžádanými rodnými čísly v tomto měsíci, předá výdejové místo po jejich zpracování podle § 2 správci registru, a to formou, v jaké mu byly poskytnuty.
+
+### § 2 – Přidělování rodného čísla výdejovým místem
+
+(1) Do sestavy se k rodnému číslu přidělenému fyzické osobě při narození pro účely tvorby registru zapisují tyto údaje:
+
+a) jméno, popřípadě jména, příjmení fyzické osoby, které bylo rodné číslo přiděleno,
+
+b) den, měsíc a rok narození,
+
+c) místo a okres narození a u fyzické osoby, která se narodila v cizině, místo a stát narození; název místa narození se zapisuje podle jeho aktuální podoby v době provádění zápisu,<sup>6</sup>)
+
+d) datum přidělení rodného čísla.
+
+(2) Výdejové místo předává správci registru pro účely tvorby registru o fyzické osobě, jíž bylo přiděleno rodné číslo podle § 16 písm. b), c), d) a e) a § 17 odst. 2 zákona, tyto údaje:
+
+a) jméno, popřípadě jména, příjmení, rodné příjmení fyzické osoby, které bylo rodné číslo přiděleno,
+
+b) den, měsíc a rok narození,
+
+c) místo a okres narození a u fyzické osoby, která se narodila v cizině, místo a stát narození,
+
+d) datum přidělení rodného čísla,
+
+e) v případě osvojení jméno, popřípadě jména, příjmení osvojitele nebo osvojitelů<sup>7</sup>), rodné příjmení a rodné číslo osvojitele nebo osvojitelů,
+
+f) původně přidělené rodné číslo, je-li přiděleno nové,
+
+g) důvod přidělení rodného čísla.
+
+(3) U fyzické osoby, jíž bylo přiděleno rodné číslo podle § 17 odst. 2 zákona, se uvádějí údaje původní i nové.
+
+### § 3 – Způsob a podmínky provádění kontroly údajů v informačním systému evidence obyvatel
+
+(1) Kontrola údajů vedených v informačním systému evidence obyvatel (dále jen „informační systém“) se provádí jak s využitím programového vybavení informačního systému, tak i formou místního šetření na pracovištích zpracovatelů<sup>8</sup>) údajů vedených v informačním systému.
+
+(2) Předmětem kontroly je
+
+a) úplnost, přesnost a aktuálnost vedených údajů,<sup>9</sup>)
+
+b) rozlišení zpracovávání aktuálních, historických nebo blokovaných údajů za účelem ověřování,<sup>9</sup>)
+
+c) vedení záznamů o poskytování údajů,<sup>10</sup>)
+
+d) zajištění vedení údajů<sup>4</sup>) před jejich případnými změnami, zničením či ztrátou, neoprávněným přenosem, nebo jiným neoprávněným zpracováním, popřípadě před jejich jiným zneužitím, neoprávněným nebo nahodilým přístupem k nim,
+
+e) vyhodnocení účinnosti přijatých opatření<sup>4</sup>) k ochraně údajů a
+
+f) vyhodnocení důsledného zpracovávání námitek subjektů údajů.<sup>11</sup>)
+
+(3) Při provádění kontroly je vždy postupováno tak, aby nebylo omezeno, nebo přerušeno zpracování údajů vedených v informačním systému a aby byly v plném rozsahu zajištěny předpoklady pro výkon odpovědnosti správce informačního systému.<sup>12</sup>)
+
+**Vzory tiskopisů**
+
+### § 4
+
+(1) Vzor tiskopisu „Přihlašovací lístek k trvalému pobytu“ je uveden v příloze č. 1.
+
+(2) Vzor tiskopisu „Doklad o rodném čísle“ je uveden v příloze č. 2.
+
+(3) Vzor tiskopisu „Žádost o poskytnutí údajů z informačního systému“ je uveden v příloze č. 3.
+
+(4) Vzor tiskopisu „Potvrzení o změně místa trvalého pobytu“ je uveden v příloze č. 4.
+
+### § 5
+
+Tiskopisy přihlašovacího lístku k trvalému pobytu, dokladu o rodném čísle, žádosti o poskytnutí údajů z informačního systému a potvrzení o změně místa trvalého pobytu vydané přede dnem nabytí účinnosti této vyhlášky mohou být používány do 31. prosince 2005.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### § 7
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministr:
+
+Mgr. Gross v. r.
+
+### Příloha č. 1 k vyhlášce č. 296/2004 Sb.
+
+#### Vzor tiskopisu „Přihlašovací lístek k trvalému pobytu“.
+
+##### ![sbcr2004c096z0296_2015c004z0005p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879359/NAHLED/ZOBRAZ/sbcr2004c096z0296_2015c004z0005p001u001)
+
+### Příloha č. 2 k vyhlášce č. 296/2004 Sb.
+
+#### Vzor tiskopisu „Doklad o rodném čísle“
+
+##### ![sbcr2004c096z0296p002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879361/NAHLED/ZOBRAZ/sbcr2004c096z0296p002)
+
+### Příloha č. 3 k vyhlášce č. 296/2004 Sb.
+
+![sbcr2004c096z0296_2023c190z0415u007.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879363/NAHLED/ZOBRAZ/sbcr2004c096z0296_2023c190z0415u007)
+
+### Příloha č. 4 k vyhlášce č. 296/2004 Sb.
+
+#### Vzor tiskopisu „Potvrzení o změně místa trvalého pobytu“
+
+##### ![sbcr2004c096z0296_2015c004z0005p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879365/NAHLED/ZOBRAZ/sbcr2004c096z0296_2015c004z0005p004u001)
+
+---
+
+<sup>1</sup>) § 13b zákona č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění zákona č. 53/2004 Sb.
+
+<sup>2</sup>) § 13 odst. 1 zákona č. 133/2000 Sb., ve znění zákona č. 53/2004 Sb.
+
+<sup>3</sup>) § 14 zákona č. 133/2000 Sb.
+
+<sup>4</sup>) § 13 zákona č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů.
+
+<sup>5</sup>) § 13b odst. 1 zákona č. 133/2000 Sb. 
+ § 4 písm. j) zákona č. 101/2000 Sb.
+
+<sup>6</sup>) § 17 zákona č. 36/1960 Sb., o územním členění státu, ve znění zákona č. 320/2002 Sb.
+
+<sup>7</sup>) Zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů.
+
+<sup>8</sup>) § 4 písm. k) zákona č. 101/2000 Sb.
+
+<sup>9</sup>) § 5 odst. 1 písm. c) zákona č. 101/2000 Sb.
+
+<sup>10</sup>) § 8 odst. 6 zákona č. 133/2000 Sb., ve znění zákona č. 53/2004 Sb.
+
+<sup>11</sup>) § 21 zákona č. 101/2000 Sb. 
+ § 8a odst. 3 zákona č. 133/2000 Sb., ve znění zákona č. 53/2004 Sb.
+
+<sup>12</sup>) § 4 písm. j) zákona č. 101/2000 Sb.

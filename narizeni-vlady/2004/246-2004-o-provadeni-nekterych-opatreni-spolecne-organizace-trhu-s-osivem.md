@@ -1,0 +1,101 @@
+---
+title: "Nařízení vlády č. 246/2004 Sb., o provádění některých opatření společné organizace trhu s osivem"
+identifier: "246/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/246/2004-05-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2004-04-21
+effective: 2004-05-01
+last_amended: 2004-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/246"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 246/2004 Sb., o provádění některých opatření společné organizace trhu s osivem
+
+246
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 21. dubna 2004
+
+o provádění některých opatření společné organizace trhu s osivem
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje provádění některých opatření společné organizace trhu s osivem, jejichž úpravu bezprostředně závazné předpisy Evropských společenství<sup>1</sup>) (dále jen „předpisy Evropských společenství“) přikazují nebo umožňují členským státům Evropské unie provést.
+
+## § 2 – Schválení šlechtitelů a dodavatelů
+
+(1) Šlechtitelé,<sup>2</sup>) šlechtitelské podniky,<sup>3</sup>) šlechtitelská zařízení,<sup>3</sup>) popřípadě dodavatelé<sup>4</sup>) podléhají schválení nebo registraci<sup>5</sup>) podle předpisů Evropských společenství<sup>6</sup>) (dále jen „šlechtitelé a dodavatelé“), kterou provádí Státní zemědělský intervenční fond (dále jen „Fond“).
+
+(2) Schváleni mohou být šlechtitelé a dodavatelé, kteří
+
+a) produkují osivo,
+
+b) splnili registrační nebo ohlašovací povinnost stanovenou zvláštním právním předpisem,<sup>7</sup>)
+
+c) podali žádost Fondu na formuláři vydaném Fondem.
+
+(3) Součástí žádosti podle odstavce 2 je doklad o tom, že žadatel je podnikatelem podle zvláštního právního předpisu.<sup>8</sup>)
+
+## § 3 – Registrace smluv o množení osiva ve třetích zemích
+
+(1) Registraci smluv o množení osiva ve třetích zemích<sup>9</sup>) provádí podle předpisu Evropských společenství<sup>10</sup>) Fond.
+
+(2) Oznámení o uzavření smlouvy, které obsahuje údaje stanovené podle předpisu Evropských společenství<sup>11</sup>) předloží šlechtitel nebo dodavatel Fondu na formuláři vydaném Fondem.
+
+(3) Součástí oznámení podle odstavce 2 je úředně ověřená kopie smlouvy.
+
+## § 4 – Způsob prokazování odhadovaného množství osiva
+
+Dokladem prokazujícím odhadované množství osiva, které má být dovezeno,<sup>12</sup>) je potvrzení smluvní strany usazené ve třetí zemi o množství osiva vyrobeném na základě smlouvy registrované podle § 3.
+
+## § 5 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+Předseda vlády:
+
+v z. Mgr. Gross v. r.
+
+1\. místopředseda vlády a ministr vnitra
+
+Ministr zemědělství:
+
+Ing. Palas v. r.
+
+---
+
+<sup>1</sup>) Nařízení Rady (EHS) č. 2358/71 ze dne 26. října 1971 o společné organizaci trhu s osivem, ve znění nařízení Rady (ES) č. 2303/03, kterým se stanoví výše podpory v semenářském odvětví pro hospodářský rok 2004/05. 
+ Nařízení Rady (EHS) č. 1674/72 ze dne 2. srpna 1972 o stanovení obecných pravidel pro poskytování a financování podpory pro osivo, ve znění nařízení Rady (ES) č. 3795/85. 
+ Nařízení Komise (EHS) č. 1686/72 ze dne 2. srpna 1972, kterým se stanoví prováděcí pravidla k podpoře pro osivo, ve znění nařízení Komise (ES) č. 323/2003. 
+ Nařízení Komise (EHS) č. 3083/73 ze dne 14. listopadu 1973 o sdělování údajů nezbytných k uplatňování nařízení (EHS) č. 2358/71 o společné organizaci trhu s osivem. 
+ Nařízení Komise (EHS) č. 2514/78 ze dne 26. října 1978 o registraci smluv o množení osiva ve třetích zemích, prováděné ve členských státech. 
+ Nařízení Komise (EHS) č. 1119/79 ze dne 6. června 1979, kterým se stanoví zvláštní prováděcí pravidla k režimu dovozních licencí pro osivo.
+
+<sup>2</sup>) § 2 písm. c) zákona č. 408/2000 Sb., o ochraně práv k odrůdám rostlin a o změně zákona č. 92/1996 Sb., o odrůdách, osivu a sadbě pěstovaných rostlin (zákon o ochraně práv k odrůdám).
+
+<sup>3</sup>) Nařízení Rady (EHS) č. 1674/72.
+
+<sup>4</sup>) § 2 písm. w) zákona č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby).
+
+<sup>5</sup>) Čl. 3 nařízení Rady (EHS) č. 1674/72.
+
+<sup>6</sup>) Čl. 2 nařízení Rady (EHS) č. 1674/72.
+
+<sup>7</sup>) § 16 zákona č. 219/2003 Sb.
+
+<sup>8</sup>) § 2 obchodního zákoníku, ve znění zákona č. 85/2004 Sb.
+
+<sup>9</sup>) Čl. 2 nařízení Komise (EHS) č. 2514/78.
+
+<sup>10</sup>) Čl. 4 nařízení Komise (EHS) č. 2514/78.
+
+<sup>11</sup>) Čl. 3 nařízení Komise (EHS) č. 2514/78.
+
+<sup>12</sup>) Čl. 6 odst. 1 písm. b) nařízení Komise (EHS) č. 1119/79.

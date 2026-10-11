@@ -1,0 +1,530 @@
+---
+title: "Zákon č. 530/2005 Sb., kterým se mění zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, zákon č. 362/2003 Sb., o změně zákonů souvisejících s přijetím zákona o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů"
+identifier: "530/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/530/2006-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2005-11-30
+effective: 2006-01-01
+last_amended: 2006-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/530"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 530/2005 Sb., kterým se mění zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, zákon č. 362/2003 Sb., o změně zákonů souvisejících s přijetím zákona o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů
+
+530
+
+ZÁKON
+
+ze dne 30. listopadu 2005,
+
+kterým se mění zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, zákon č. 362/2003 Sb., o změně zákonů souvisejících s přijetím zákona o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o služebním poměru příslušníků bezpečnostních sborů
+
+### Čl. I
+
+Zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění zákona č. 186/2004 Sb., zákona č. 436/2004 Sb., zákona č. 586/2004 Sb., zákona č. 626/2004 Sb., zákona č. 169/2005 Sb., zákona č. 253/2005 Sb. a zákona č. 413/2005 Sb., se mění takto:
+
+1\. § 2 až 4 včetně nadpisů a poznámek pod čarou č. 1 až 4 znějí:
+
+> **„§ 2 – Pravomoc jednat a rozhodovat ve věcech služebního poměru**
+
+> (1) Ve věcech služebního poměru příslušníků jedná a rozhoduje jménem státu ředitel bezpečnostního sboru, není-li dále stanoveno jinak. V rozsahu jím stanoveném jedná a rozhoduje též vedoucí organizační části bezpečnostního sboru<sup>1</sup>).
+
+> (2) Ve věcech služebního poměru ředitele bezpečnostního sboru jedná a rozhoduje jménem státu ministr, jemuž je ředitel bezpečnostního sboru odpovědný za činnost bezpečnostního sboru nebo z výkonu funkce podle zvláštního právního předpisu<sup>2</sup>), a ve věcech služebního poměru ředitele Bezpečnostní informační služby jedná a rozhoduje vládou určený člen vlády, nestanoví-li zvláštní právní předpis<sup>3</sup>) jinak (dále jen „nadřízený ředitele bezpečnostního sboru“).
+
+> (3) Ve věcech služebního poměru příslušníků zařazených ve škole nebo školském zařízení (dále jen „škola“), které nejsou organizační částí bezpečnostního sboru, jedná a rozhoduje nadřízený ředitele bezpečnostního sboru. V rozsahu jím stanoveném může ve věcech služebního poměru příslušníků zařazených ve škole jednat a rozhodovat ředitel školy.
+
+> (4) Ve věcech služebního poměru příslušníků Policie České republiky povolaných k plnění úkolů v Ministerstvu vnitra (dále jen „ministerstvo“)<sup>4</sup>) a příslušníků zařazených v Policejní akademii České republiky (dále jen „policejní akademie“) jedná a rozhoduje ministr vnitra. V rozsahu jím stanoveném může ve věcech služebního poměru příslušníků povolaných k plnění úkolů v ministerstvu jednat a rozhodovat vedoucí organizační části ministerstva a ve věcech služebního poměru příslušníků zařazených v policejní akademii rektor policejní akademie.
+
+> (5) Ministr vnitra, ministr financí a ministr spravedlnosti mohou na žádost ředitele bezpečnostního sboru pověřit
+
+> a) ředitele organizační složky státu, která je zřízena k plnění úkolů jimi řízeného ministerstva, rozhodováním ve věcech služebního poměru příslušníků zařazených v záloze činné a vyslaných k výkonu služby v této organizační složce státu a
+
+> b) vedoucího organizační části ministerstva rozhodováním o výsluhovém příspěvku příslušníků.
+
+> (6) Nadřízený ředitele bezpečnostního sboru, ředitel bezpečnostního sboru a osoby pověřené rozhodováním ve věcech služebního poměru podle odstavců 1 a 3 až 5 jsou služebními funkcionáři.
+
+> **§ 3 – Evidence volných služebních míst**
+
+> Ministerstvo vede evidenci volných služebních míst v bezpečnostních sborech, s výjimkou zpravodajských služeb, a evidenci údajů o příslušnících těchto bezpečnostních sborů, zařazených v záloze, odvolaných ze služebního místa a o příslušnících, kteří požádali o převedení na jiné služební místo. Evidenci údajů o příslušnících vede ministerstvo v rozsahu údaje o čísle služebního průkazu a o dosaženém vzdělání. Bezpečnostní sbor, s výjimkou zpravodajské služby, je povinen sdělit tyto údaje ministerstvu bez zbytečného odkladu v písemné nebo elektronické podobě a průběžně je aktualizovat. Evidenci volných služebních míst ve zpravodajské službě a evidenci osobních údajů o příslušnících zpravodajských služeb vede zpravodajská služba.
+
+> **§ 4 – Systemizace**
+
+> (1) Systemizací se rozumí stanovení počtu služebních míst včetně počtu míst příslušníků zařazených v zálohách a objemu prostředků stanovených státním rozpočtem na příslušný rok na jejich služební příjmy.
+
+> (2) Návrh systemizace připravuje ředitel bezpečnostního sboru v součinnosti se svým nadřízeným. Návrh systemizace je zpracováván v souladu s úkoly, které plní bezpečnostní sbor podle zvláštního právního předpisu<sup>5</sup>).
+
+> (3) Návrh systemizace Policie České republiky doplní ministr vnitra o návrh systemizace pro příslušníky povolané k plnění úkolů v ministerstvu a o návrh systemizace pro příslušníky zařazené v policejní akademii a ve škole. Návrh systemizace pro příslušníky zařazené v policejní akademii a ve škole připravuje ministr vnitra v součinnosti s rektorem a ředitelem školy.
+
+> (4) Návrh systemizace na příslušný kalendářní rok předkládá v předcházejícím roce ke schválení vládě nadřízený ředitele bezpečnostního sboru.
+
+> (5) Návrh organizační struktury bezpečnostního sboru připravuje ředitel bezpečnostního sboru a schvaluje jej podle vládou schválené systemizace nadřízený ředitele bezpečnostního sboru; v případě zpravodajské služby schvaluje organizační strukturu ředitel zpravodajské služby.
+
+> <sup>1</sup>) Například § 2 odst. 1 zákona č. 238/2000 Sb., o Hasičském záchranném sboru České republiky a o změně některých zákonů, ve znění zákona č. 362/2003 Sb.
+
+> <sup>2</sup>) Například § 3 odst. 6 zákona č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů.
+
+> <sup>3</sup>) § 4 zákona č. 153/1994 Sb., o zpravodajských službách České republiky.
+
+> <sup>4</sup>) § 3 odst. 5 zákona č. 283/1991 Sb., ve znění pozdějších předpisů.“.
+
+2\. V § 7 odst. 1 písm. a) se slova „střední odborné“ nahrazují slovy „střední nebo střední s výučním listem“.
+
+3\. V § 7 odst. 1 písm. b), c), d) a e) se slova „úplné střední, úplné střední odborné“ nahrazují slovy „střední s maturitní zkouškou“.
+
+4\. V § 7 odst. 1 písm. f) se slova „úplné střední, úplné střední odborné/vyšší odborné“ nahrazují slovy „střední s maturitní zkouškou/vyšší odborné“.
+
+5\. V § 7 odst. 1 písm. g) se slovo „vysokoškolské“ nahrazuje slovy „vyšší odborné nebo vysokoškolské“.
+
+6\. V § 14 odst. 2 písm. b) se za slova „10 let,“ vkládají slova „nebo bylo v trestním řízení, které bylo proti němu vedeno, rozhodnuto o podmíněném odložení podání návrhu na potrestání a od tohoto rozhodnutí ještě neuplynulo 5 let,“.
+
+7\. V § 19 odst. 2 větě první se slovo „a“ zrušuje a na konci textu věty se doplňují slova „a jiný zvláštní požadavek, jestliže je pro toto místo stanoven“.
+
+8\. V § 19 se za odstavec 5 vkládá nový odstavec 6, který zní:
+
+> „(6) Jiným zvláštním požadavkem se pro účely tohoto zákona rozumí způsobilost zdravotní, fyzická nebo osobnostní.“.
+
+Dosavadní odstavec 6 se označuje jako odstavec 7.
+
+9\. § 20 včetně nadpisu zní:
+
+> **„§ 20 – Ustanovení na volné služební místo**
+
+> (1) Služební funkcionář ustanoví na volné služební místo v bezpečnostním sboru příslušníka téhož bezpečnostního sboru, který
+
+> a) dosáhl požadovanou služební hodnost, a
+
+> 1\. byl odvolán z dosavadního služebního místa z důvodu uvedeného v § 25 odst. 1, 2 nebo 3, anebo § 26 odst. 2,
+
+> 2\. je zařazen do zálohy pro přechodně nezařazené podle § 32 odst. 1 nebo 3 po dobu nejdéle 1 roku,
+
+> 3\. má být vyňat ze zálohy činné, zálohy pro studující nebo zálohy neplacené, do níž byl zařazen podle § 33 písm. a),
+
+> 4\. skončilo mu zproštění výkonu služby, nebo
+
+> b) dosáhl vyšší než požadovanou služební hodnost, a
+
+> 1\. byl odvolán z dosavadního služebního místa z důvodu uvedeného v § 26 odst. 4,
+
+> 2\. je zařazen do zálohy pro přechodně nezařazené podle § 32 odst. 1 nebo 3 po dobu delší než 1 rok, anebo je zařazen do této zálohy podle § 32 odst. 2,
+
+> 3\. má být vyňat ze zálohy neplacené, do níž byl zařazen podle § 33 písm. b), a nelze ho ustanovit na služební místo ve stejné služební hodnosti.
+
+> (2) Nelze-li volné služební místo obsadit podle odstavce 1, služební funkcionář ustanoví na toto místo příslušníka jiného bezpečnostního sboru, s výjimkou zpravodajské služby, který
+
+> a) dosáhl požadovanou služební hodnost, a
+
+> 1\. byl odvolán z dosavadního služebního místa z důvodu uvedeného v § 25 odst. 1, 2 nebo 3, anebo § 26 odst. 2,
+
+> 2\. je zařazen do zálohy pro přechodně nezařazené podle § 32 odst. 1 nebo 3 po dobu nejdéle 1 roku, nebo
+
+> b) dosáhl vyšší než požadovanou služební hodnost, a
+
+> 1\. byl odvolán z dosavadního služebního místa z důvodu uvedeného v § 26 odst. 4,
+
+> 2\. je zařazen do zálohy pro přechodně nezařazené podle § 32 odst. 1 nebo 3 po dobu delší než 1 rok nebo je zařazen do této zálohy podle § 32 odst. 2.
+
+> (3) Nelze-li volné služební místo obsadit podle odstavce 1 nebo 2, služební funkcionář může na toto místo ustanovit
+
+> a) příslušníka téhož bezpečnostního sboru, který dosáhl požadovanou služební hodnost a který byl
+
+> 1\. odvolán z dosavadního služebního místa z důvodu uvedeného v § 25 odst. 4,
+
+> 2\. při přijetí do služebního poměru jmenován do služební hodnosti dosažené v předchozím služebním poměru (§ 18 odst. 3),
+
+> 3\. přijat do služebního poměru a jmenován do služební hodnosti referent nebo vrchní referent, nebo
+
+> b) příslušníka jiného bezpečnostního sboru, s výjimkou zpravodajské služby, který dosáhl požadovanou služební hodnost a který
+
+> 1\. byl odvolán z dosavadního služebního místa z důvodu uvedeného v § 25 odst. 4, nebo
+
+> 2\. má být vyňat ze zálohy činné, zálohy pro studující nebo zálohy neplacené, do níž byl zařazen podle § 33 písm. a), nebo
+
+> c) příslušníka jiného bezpečnostního sboru, s výjimkou zpravodajské služby, který dosáhl vyšší než požadovanou služební hodnost a který byl odvolán z dosavadního služebního místa z důvodu uvedeného v § 26 odst. 2, nebo
+
+> d) příslušníka téhož nebo jiného bezpečnostního sboru, s výjimkou zpravodajské služby, který
+
+> 1\. dosáhl služební hodnost o jeden stupeň nižší, než je služební hodnost vrchní referent, asistent nebo vrchní asistent, a byl odvolán z dosavadního služebního místa podle § 26 odst. 3,
+
+> 2\. dosáhl požadovanou služební hodnost a skončilo mu zproštění výkonu služby (§ 215 odst. 6),
+
+> 3\. dosáhl vyšší než požadovanou služební hodnost, je zařazen do zálohy pro přechodně nezařazené po dobu kratší než 1 rok nebo má být vyňat ze zálohy činné, zálohy pro studující nebo zálohy neplacené, do níž byl zařazen podle § 33 písm. a), a o ustanovení na služební místo požádal, anebo
+
+> e) příslušníka zpravodajské služby, který dosáhl požadovanou služební hodnost a který byl odvolán z dosavadního služebního místa z důvodu uvedeného v § 25 odst. 4.
+
+> (4) Při obsazování volného služebního místa využívá služební funkcionář evidence ministerstva o příslušnících odvolaných ze služebního místa a o příslušnících, kteří požádali o převedení na jiné služební místo. Ředitel bezpečnostního sboru v odůvodněných případech rozhodne, že se volné služební místo dočasně neobsadí.
+
+> (5) Při obsazování volného služebního místa ve zpravodajské službě se postup podle odstavců 1 až 4 nepoužije.“.
+
+10\. V § 21 odstavce 1 a 2 znějí:
+
+> „(1) Služební funkcionář zpravodajské služby může ustanovit na volné služební místo příslušníka téže zpravodajské služby, který
+
+> a) byl odvolán z dosavadního služebního místa z důvodů uvedených v § 25 odst. 1 až 3, § 26 odst. 2 a 4 nebo § 27,
+
+> b) je zařazen do zálohy pro přechodně nezařazené, nebo
+
+> c) má být vyňat ze zálohy činné, zálohy pro studující, zálohy zvláštní nebo zálohy neplacené.
+
+> (2) Jestliže nelze volné služební místo obsadit podle odstavce 1, může služební funkcionář zpravodajské služby ustanovit na toto místo
+
+> a) příslušníka téže zpravodajské služby, který byl odvolán z dosavadního služebního místa podle § 25 odst. 4, nebo příslušníka jiného bezpečnostního sboru, který má požadovanou služební hodnost, jestliže
+
+> 1\. byl odvolán z dosavadního služebního místa z důvodů uvedených v § 25 odst. 1 písm. a),
+
+> 2\. je zařazen do zálohy pro přechodně nezařazené, nebo
+
+> 3\. byl odvolán z dosavadního služebního místa podle § 25 odst. 4, anebo
+
+> b) občana, který splňuje podmínky pro přijetí do služebního poměru.“.
+
+11\. V § 22 odst. 1 se slova „Nelze-li obsadit volné služební místo“ nahrazují slovy „Není-li volné služební místo obsazeno“.
+
+12\. V § 25 odst. 1 se na konci písmene a) slovo „nebo“ zrušuje, na konci písmene b) se tečka nahrazuje slovem „, nebo“ a za písmeno b) se doplňuje písmeno c), které zní:
+
+> „c) pozbyl zdravotní, fyzickou nebo osobnostní způsobilost požadovanou pro toto místo.“.
+
+13\. V § 25 odst. 2 se slovo „anebo“ nahrazuje slovy „nebo je specialistou v zásahové jednotce anebo“.
+
+14\. V § 26 odst. 3 se za slovo „referent“ vkládají slova „, vrchní referent, asistent a vrchní asistent“ a slova „vrchní referent“ se nahrazují slovy „o jeden stupeň vyšší“.
+
+15\. V § 26 odst. 4 se za slovo „stanovena“ vkládají slova „o jeden stupeň“.
+
+16\. V § 26 odstavec 5 zní:
+
+> „(5) Příslušníka zpravodajské služby lze odvolat z dosavadního služebního místa a ustanovit na jiné služební místo, pro které je stanovena vyšší služební hodnost, vyžaduje-li to důležitý zájem služby.“.
+
+17\. V § 29 odst. 1 písmeno b) včetně poznámky pod čarou č. 18a zní:
+
+> „b) do zahraničí za účelem plnění úkolů vyplývajících
+
+> 1\. z mezinárodních smluv, jimiž je Česká republika vázána a které byly vyhlášeny ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv<sup>18</sup>),
+
+> 2\. z předpisů Evropské unie<sup>18a</sup>).
+
+> <sup>18a</sup>) Například rozhodnutí Rady 2003/479/ES ze dne 16. června 2003 o pravidlech pro národní odborníky a vojenský personál přidělený do generálního sekretariátu Rady a o zrušení rozhodnutí ze dne 25. června 1997 a 22. března 1999, rozhodnutí 2001/41/ES a rozhodnutí 2001/496/SZBP (2003/497/ES), společná akce ze dne 10. března 1995 přijatá na základě článku K.3 Smlouvy o Evropské unii o protidrogové jednotce Europolu (95/73/SVV), společná akce Rady ze dne 11. března 2002 o policejní misi Evropské unie (2002/210/SZBP).“.
+
+18\. V § 29 odstavec 2 zní:
+
+> „(2) Na příslušníky v záloze činné, kteří jsou vysláni k výkonu služby do zahraničí, se vztahují ustanovení tohoto zákona, jestliže mezinárodní smlouva nebo právní předpis přijatý na jejím základě nestanoví jiné podmínky výkonu služby.“.
+
+19\. V § 32 odst. 1 se na konci písmene b) slovo „nebo“ zrušuje, na konci písmene c) se doplňuje slovo „nebo“ a za písmeno c) se doplňuje písmeno d), které zní:
+
+> „d) který pozbyl zdravotní, fyzickou nebo osobnostní způsobilost požadovanou pro dosavadní služební místo,“.
+
+20\. V § 33 písm. a) se slova „mateřská nebo“ zrušují.
+
+21\. V § 34 se doplňuje odstavec 4, který zní:
+
+> „(4) Příslušník může být po vynětí ze zálohy pro přechodně nezařazené, která trvala po dobu kratší než 1 rok, nebo po vynětí ze zálohy činné, zálohy pro studující nebo zálohy neplacené, do níž byl zařazen podle § 33 písm. a), ustanoven na služební místo, pro které je stanovena nižší služební hodnost, jestliže o to požádá.“.
+
+22\. V § 42 odst. 1 písm. c) se slovo „nebo“ nahrazuje čárkou a za slovo „narovnání<sup>23</sup>)“ se vkládají slova „nebo bylo pravomocně rozhodnuto o podmíněném odložení návrhu na potrestání<sup>23a</sup>)“.
+
+Poznámka pod čarou č. 23a zní:
+
+> „<sup>23a</sup>) § 179g trestního řádu.“.
+
+23\. V § 42 odst. 4 se věta druhá zrušuje.
+
+24\. V § 48 odstavec 2 zní:
+
+> „(2) Příslušník nesmí vykonávat jinou výdělečnou činnost než službu podle tohoto zákona; toto omezení se nevztahuje na případy uvedené v § 29, 31 a § 33 písm. a) a na další činnosti stanovené interními akty vydanými řediteli bezpečnostních sborů.“.
+
+25\. V § 53 odstavec 4 zní:
+
+> „(4) Za dvousměnný nebo třísměnný režim služby se považuje režim služby, v němž se příslušníci vzájemně střídají ve dvou nebo ve třech směnách v rámci 24 hodin po sobě jdoucích. Za nepřetržitý režim služby se považuje režim služby, v němž se příslušníci vzájemně střídají ve směnách v rámci 24 hodin po sobě jdoucích k zajištění nepřetržitého provozu vyžadujícího výkon služby 24 hodin denně po 7 dnů v týdnu, nebo v takovém režimu vykonávají službu ve 24hodinových směnách a režim služby podle odstavce 5.“.
+
+26\. V § 54 odst. 1 se slova „150 hodin ročně“ nahrazují slovy „150 hodin v kalendářním roce“ a slova „, příslušníkovi ve dvojsměnném, třísměnném či nepřetržitém režimu služby lze v důležitém zájmu služby nařídit výkon služby přesčas nejvýše v rozsahu 300 hodin ročně“ se zrušují.
+
+27\. V § 58 odst. 2 písm. b) se slova „kalendářní měsíc“ nahrazují slovy „4 týdny“.
+
+28\. V § 74 odst. 1 se číslo „500 000“ nahrazuje číslem „100 000“.
+
+29\. V § 77 odst. 10 se slovo „zvýhodňovat“ nahrazuje slovem „znevýhodňovat“.
+
+30\. V § 77 odst. 11 se na konci písmene j) slovo „a“ zrušuje.
+
+31\. V § 77 se na konci odstavce 11 tečka nahrazuje čárkou a doplňuje se písmeno l), které zní:
+
+> „l) psychologickou péči.“.
+
+32\. § 105 včetně nadpisu zní:
+
+> **„§ 105 – Jednorázové odškodnění**
+
+> (1) Jednorázové odškodnění ve výši 230 000 Kč se poskytne příslušníkovi, jehož služební poměr skončil podle § 42 odst. 1 písm. h) v důsledku služebního úrazu nebo nemoci z povolání.
+
+> (2) Jednorázové odškodnění se každoročně zvyšuje poměrně k navýšení průměrné nominální měsíční mzdy fyzických osob v nepodnikatelské sféře dosažené podle zveřejněných údajů Českého statistického úřadu za předminulý kalendářní rok.“.
+
+33\. § 109 včetně nadpisu zní:
+
+> **„§ 109 – Jednorázové odškodnění pozůstalých**
+
+> (1) Jednorázové odškodnění pozůstalých se poskytne pozůstalému manželovi příslušníka a nezaopatřenému dítěti<sup>54</sup>), a to každému ve výši 200 000 Kč, a každému rodiči příslušníka, jestliže s ním žil v domácnosti, ve výši 100 000 Kč.
+
+> (2) Jednorázové odškodnění pozůstalých se každoročně zvyšuje poměrně k navýšení průměrné nominální měsíční mzdy fyzických osob v nepodnikatelské sféře dosažené podle zveřejněných údajů Českého statistického úřadu za předminulý kalendářní rok.“.
+
+34\. V § 112 odstavec 2 zní:
+
+> „(2) Příslušníkovi je stanoven služební příjem s přihlédnutím k případné službě přesčas v rozsahu 150 hodin v kalendářním roce. Ve služebním příjmu ředitele bezpečnostního sboru a jeho zástupce je přihlédnuto k veškeré službě přesčas.“.
+
+35\. V § 113 písm. a) se slova „zvýšený způsobem uvedeným v § 115 odst. 4“ zrušují.
+
+36\. § 114 a 115 včetně nadpisů znějí:
+
+> **„§ 114 – Základní tarif**
+
+> (1) Základní tarif je měsíčně poskytovanou složkou služebního příjmu, která je stanovena v měsíčních částkách za stanovenou dobu služby. Příslušník má nárok na základní tarif, který je stanoven pro tarifní třídu stanovenou pro služební místo a služební hodnost, do níž je jmenován, a pro tarifní stupeň, do kterého je zařazen.
+
+> (2) Základní tarif, na který má příslušník nárok podle odstavce 1, se zvyšuje o 10 % příslušníkovi, který vykonává službu ve dvousměnném, třísměnném nebo nepřetržitém režimu služby.
+
+> (3) Základní tarif včetně zvýšení se zaokrouhluje na desítky korun nahoru.
+
+> **§ 115 – Stupnice základních tarifů**
+
+> (1) Příslušníkům se stanoví stupnice základních tarifů v jedenácti tarifních třídách a v každé z nich ve dvanácti tarifních stupních. Základní tarify v tarifních třídách se zvyšují oproti nižšímu základnímu tarifu o procentní přírůstek, který činí 8,5 %. Základní tarif ve dvanáctém tarifním stupni činí 1,5násobek základního tarifu v prvním tarifním stupni. Základní tarify v tarifních stupních se oproti nejblíže nižšímu stupni zvyšují o shodný procentní přírůstek.
+
+> (2) Základní tarif v páté tarifní třídě a v šestém tarifním stupni činí ke dni nabytí účinnosti zákona 1,25násobek průměrné nominální měsíční mzdy fyzických osob v nepodnikatelské sféře dosažené podle zveřejněných údajů Českého statistického úřadu za rok 2003.
+
+> (3) Základní tarify se zaokrouhlují na desítky korun nahoru.
+
+> (4) Stupnice základních tarifů pro rok 2006 jsou uvedeny v příloze č. 2 tohoto zákona.“.
+
+37\. Za § 115 se vkládá nový § 115a, který zní:
+
+> **„§ 115a**
+
+> Vláda stanoví nařízením stupnici základních tarifů pro následující kalendářní rok, poprvé pro rok 2007. Při stanovení této stupnice může zvýšit procentní částku uvedenou v § 114 odst. 2.“.
+
+38\. V § 117 odst. 5 větě první, § 119 větě první, § 151 odst. 1 a § 152 se slovo „policejních“ nahrazuje slovem „bezpečnostních“.
+
+39\. V § 119 se věta třetí nahrazuje větou „Po dobu poskytování tohoto příplatku nemá příslušník nárok na náhradní volno a služební příjem za službu přesčas a na odměnu za služební pohotovost.“.
+
+40\. V § 120 se doplňuje odstavec 5, který zní:
+
+> „(5) Jestliže příslušníkovi vznikne nárok na zvláštní příplatek podle odstavců 1 a 2, náleží mu příplatek, který je vyšší.“.
+
+41\. V § 122 odstavec 1 zní:
+
+> „(1) Osobní příplatek je nenárokovou složkou služebního příjmu, kterou lze ocenit výkon služby v mimořádné kvalitě nebo rozsahu. Rozhodnutí o přiznání, změně nebo odejmutí osobního příplatku musí být písemně odůvodněno.“.
+
+42\. V § 122 odst. 2 se číslo „40“ nahrazuje číslem „60“.
+
+43\. V § 122 odst. 3 se číslo „80“ nahrazuje číslem „100“.
+
+44\. V § 124 odstavec 4 zní:
+
+> „(4) Příslušník zařazený do zálohy zvláštní má nárok na služební příjem podle činnosti jím vykonávané v této záloze.“.
+
+45\. V § 124 odst. 5 se slova „ve výši odpovídající průměrnému služebnímu příjmu“ zrušují.
+
+46\. V § 124 závěrečná část ustanovení odstavce 5 zní:
+
+> „Pokud se dávka nemocenské péče podle zvláštních právních předpisů snižuje na polovinu, má příslušník od vzniku neschopnosti ke službě nárok na služební příjem ve výši poloviny služebního příjmu. Doba poskytování služebního příjmu se započítává do podpůrčí doby<sup>62</sup>).“.
+
+47\. V § 124 odst. 6 se za větu první vkládá věta „Tento příjem náleží příslušníkovi zproštěnému výkonu služby i po dobu uvedenou v odstavci 5.“.
+
+48\. V § 124 odst. 8 se slova „ve výši odpovídající průměrnému služebnímu příjmu“ zrušují.
+
+49\. V § 124 se doplňují odstavce 10 a 11, které včetně poznámek pod čarou č. 62a a 62b znějí:
+
+> „(10) Příslušník zařazený do zálohy činné, který je vyslán k výkonu služby do zahraničí, má nárok na služební příjem podle činnosti vykonávané po dobu zařazení v této záloze, jestliže mu není poskytována odměna podle mezinárodní smlouvy nebo právního předpisu vydaného na jejím základě<sup>62a</sup>). Je-li tato odměna nižší než služební příjem podle věty první, má nárok na doplatek do výše služebního příjmu.
+
+> (11) Příslušník zařazený do zálohy činné, který je vyslán jako národní expert k výkonu služby k orgánům Evropské unie<sup>62b</sup>), má nárok na služební příjem podle činnosti vykonávané po dobu zařazení v této záloze.
+
+> <sup>62a</sup>) Například článek 5 odst. 2 a 4 společné akce Rady (2002/210/SZBP) ze dne 11. března 2002 o Policejní misi Evropské unie.
+
+> <sup>62b</sup>) Například rozhodnutí Rady 2003/479/ES ze dne 16. června 2003 o pravidlech pro národní odborníky a vojenský personál přidělený do generálního sekretariátu Rady.“.
+
+50\. § 125 včetně nadpisu zní:
+
+> **„§ 125 – Náhradní volno a služební příjem za službu přesčas**
+
+> (1) Příslušník má nárok na náhradní volno za každou hodinu služby přesčas nad 150 hodin v kalendářním roce. Neposkytne-li bezpečnostní sbor příslušníkovi náhradní volno v době 3 kalendářních měsíců po výkonu služby přesčas nebo v jinak dohodnuté době, má nárok na poměrnou část přiznaného základního tarifu, osobního příplatku a zvláštního příplatku, který připadá na každou tuto hodinu služby bez služby přesčas v kalendářním měsíci, v němž službu koná.
+
+> (2) Za dobu čerpání náhradního volna se služební příjem nekrátí.“.
+
+51\. V § 126 odst. 1 a 2 se za slovo „části“ vkládá slovo „přiznaného“ a slova „zvýšeného způsobem uvedeným v § 115 odst. 4“ se zrušují.
+
+52\. § 129 včetně nadpisu a poznámek pod čarou č. 63 a 64 zní:
+
+> **„§ 129 – Výplata služebního příjmu**
+
+> (1) Služební příjem se příslušníkovi vyplácí v zákonných penězích<sup>63</sup>) a zaokrouhluje se na celé koruny nahoru.
+
+> (2) Služební příjem, popřípadě jiné peněžité plnění v příslušníkův prospěch, vyplácí bezpečnostní sbor na svůj náklad a své nebezpečí bezhotovostním způsobem ve výplatním termínu, a to na příslušníkem určený jeden jeho bankovní účet<sup>64</sup>).
+
+> (3) Při výplatě služebního příjmu vydá bezpečnostní sbor příslušníkovi doklad, který obsahuje údaje o jednotlivých složkách služebního příjmu a o provedených srážkách. Bezpečnostní sbor příslušníkovi na jeho žádost předloží k nahlédnutí doklady, které byly podkladem pro zúčtování jeho služebního příjmu.
+
+> (4) Příslušníkovi s místem služebního působiště v zahraničí lze s jeho souhlasem poskytovat služební příjem nebo jeho část v dohodnuté cizí měně, ke které je Českou národní bankou vyhlašován kurz devizového trhu nebo přepočítací poměr. Při zaokrouhlování se použije odstavec 1 přiměřeně.
+
+> (5) Pro přepočet služebního příjmu nebo jeho části na cizí měnu se použije kurz devizového trhu nebo přepočítací poměr vyhlášený Českou národní bankou platný v den výplatního termínu.
+
+> <sup>63</sup>) § 16 odst. 1 zákona č. 6/1993 Sb., o České národní bance.
+
+> <sup>64</sup>) Zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.“.
+
+> Poznámka pod čarou č. 65 se zrušuje.
+
+53\. V § 130 odst. 1 písm. b) se slovo „a“ nahrazuje čárkou a za slovo „zaměstnanosti“ se vkládají slova „a pojistné na všeobecné zdravotní pojištění“.
+
+54\. V § 136 odst. 1 se slova „pro službu v zahraničí“ nahrazují slovy „činné a vyslání k výkonu služby do zahraničí“.
+
+55\. V § 148 odst. 1 písm. a) se slova „§ 142“ nahrazují slovy „§ 144“.
+
+56\. § 150 včetně nadpisu zní:
+
+> **„§ 150 – Náhrada jízdních výdajů za místní hromadnou dopravu v místě služebního působiště**
+
+> Příslušník, který je vyslán za účelem plnění služebních úkolů na cestu v místě služebního působiště, má nárok na náhradu jízdních výdajů za místní hromadnou dopravu; to neplatí pro cesty konané do služby a zpět.“.
+
+57\. V § 151 odst. 1 se slova „ze služební“ nahrazují slovy „za služební“.
+
+58\. V § 153 odst. 9 a 10 se slovo „přidělen“ nahrazuje slovem „vyslán“.
+
+59\. V § 153 odst. 12 se slovo „Příslušník“ nahrazuje slovem „Příslušníkovi“.
+
+60\. V § 155 se na konci textu písmene d) doplňují slova „nebo bylo pravomocně rozhodnuto o podmíněném zastavení jeho trestního stíhání<sup>22</sup>) nebo bylo pravomocně schváleno narovnání<sup>23</sup>) nebo bylo pravomocně rozhodnuto o podmíněném odložení návrhu na potrestání<sup>23a</sup>)“.
+
+61\. V § 156 odst. 1 se slovo „osminásobek“ nahrazuje slovem „šestinásobek“.
+
+62\. V § 156 se na konci odstavce 2 doplňuje věta „Obdobně se postupuje v případě, kdy bylo bývalému vojákovi z povolání<sup>72a</sup>) při skončení služebního poměru vojáka vyplaceno odbytné nebo odchodné.“.
+
+Poznámka pod čarou č. 72a zní:
+
+> „<sup>72a</sup>) Například § 138 až 140 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 254/2002 Sb.“.
+
+63\. V § 157 se na konci textu písmene d) doplňují slova „nebo bylo pravomocně rozhodnuto o podmíněném zastavení jeho trestního stíhání<sup>22</sup>) nebo bylo pravomocně schváleno narovnání<sup>23</sup>) nebo bylo pravomocně rozhodnuto o podmíněném odložení návrhu na potrestání<sup>23a</sup>)“.
+
+64\. § 158 včetně nadpisu zní:
+
+> **„§ 158 – Výměra výsluhového příspěvku**
+
+> Základní výměra výsluhového příspěvku činí za 15 let služby 20 % měsíčního služebního příjmu. Výměra výsluhového příspěvku se zvyšuje za šestnáctý a každý další ukončený rok služby o 3 % měsíčního služebního příjmu, za dvacátý první a každý další ukončený rok služby o 2 % měsíčního služebního příjmu a za dvacátý šestý a každý další ukončený rok služby o 1 % měsíčního služebního příjmu. Výměra výsluhového příspěvku může činit nejvýše 50 % měsíčního služebního příjmu.“.
+
+65\. V § 160 odst. 1 se ve větě druhé slova „, a to nejdéle na dobu do dne, kdy uplynuly 2 roky od vzniku nároku na starobní důchod<sup>74</sup>)“ zrušují a věta třetí se nahrazuje větou „Jde-li o souběh nároku na výplatu výsluhového příspěvku s nárokem na výplatu starobního důchodu, považuje se ode dne přiznání starobního důchodu za výsluhový příspěvek toliko rozdíl mezi náležejícím starobním důchodem a výsluhovým příspěvkem k tomuto dni a nadále se samostatně zvyšuje podle § 159 bez přihlédnutí k výši důchodu.“.
+
+66\. V § 166 odstavce 1 a 2 znějí:
+
+> „(1) Za měsíční služební příjem se pro účely stanovení výše výsluhových nároků považuje průměrný hrubý služební příjem poskytovaný za předchozí kalendářní rok přede dnem skončení služebního poměru příslušníka. Jestliže služební poměr skončil posledním dnem kalendářního roku, zjišťuje se průměrný hrubý měsíční služební příjem z tohoto kalendářního roku. Trval-li služební poměr po dobu kratší než 1 rok, zjišťuje se průměrný hrubý měsíční služební příjem z celé doby trvání služebního poměru. Je-li to pro příslušníka výhodnější, zjišťuje se průměrný hrubý služební příjem za předchozí 3 kalendářní roky.
+
+> (2) Do doby, za kterou se zjišťuje průměrný hrubý měsíční služební příjem, se nezapočítává doba, po kterou byly příslušníkovi poskytovány dávky nemocenské péče (pojištění), a doba zařazení v záloze neplacené.“.
+
+67\. V § 181 odst. 3 se za slova „hodnostní označení“ vkládají slova „nebo hodnost“.
+
+68\. V § 186 se na konci textu odstavce 9 doplňují slova „; do běhu této lhůty se nezapočítává doba, po kterou se pro tentýž skutek vedlo trestní řízení“.
+
+69\. V § 190 odst. 6 se věta druhá nahrazuje větou „Jde-li o rozhodnutí ředitele školy, je odvolacím orgánem ministerstvo, a jde-li o rozhodnutí vedoucího organizační části ministerstva nebo rektora policejní akademie, je odvolacím orgánem ministr vnitra.“.
+
+70\. V § 212 odstavec 1 zní:
+
+> „(1) Nárok na náhradu za bolest a za ztížení společenského uplatnění zaniká smrtí příslušníka. Ostatní peněžité nároky nezanikají.“.
+
+71\. V § 212 se na konci textu odstavce 3 doplňují slova „nebo které byly příslušníkem před jeho smrtí písemně uznány co do důvodů i výše, a nároků na náhradu škody způsobené úmyslně“.
+
+72\. V § 215 odstavec 2 zní:
+
+> „(2) Příslušníkovi ustanovenému do funkce podle dosavadních právních předpisů, který
+
+> a) nevykonává službu podle § 1 odst. 4 a jehož nelze ustanovit na služební místo podle odstavce 1, nebo
+
+> b) dosáhl věku 65 let přede dnem nabytí účinnosti zákona, skončí služební poměr uplynutím 3 měsíců ode dne nabytí účinnosti tohoto zákona.“.
+
+73\. V § 215 odst. 4 se slova „úplné střední vzdělání nebo úplné střední odborné vzdělání“ nahrazují slovy „střední vzdělání s maturitní zkouškou“.
+
+74\. V § 215 odstavec 5 zní:
+
+> „(5) Vyžaduje-li to důležitý zájem služby a rozhodne-li tak ředitel zpravodajské služby, lze příslušníka zpravodajské služby ustanoveného podle dosavadních právních předpisů ustanovit dnem nabytí účinnosti tohoto zákona na služební místo, pro které nesplňuje stanovený stupeň vzdělání, a jmenovat do služební hodnosti pro toto služební místo.“.
+
+75\. V § 215 se za odstavec 5 vkládá nový odstavec 6, který zní:
+
+> „(6) Příslušník zařazený přede dnem nabytí účinnosti tohoto zákona do zálohy se dnem nabytí účinnosti tohoto zákona zařadí do obdobné zálohy podle tohoto zákona, jestliže pro toto zařazení splňuje podmínky stanovené tímto zákonem, a jmenuje se do služební hodnosti, která je stanovena pro služební místo odpovídající funkci, již příslušník zastával před zařazením do zálohy, nejvýše však do služební hodnosti, pro niž splňuje stanovený stupeň vzdělání. Příslušník, který je ke dni nabytí účinnosti tohoto zákona zproštěn výkonu služby, se jmenuje do služební hodnosti, která je stanovena pro služební místo odpovídající funkci, již příslušník zastával před zproštěním, nejvýše však do služební hodnosti, pro niž splňuje stanovený stupeň vzdělání; ustanovení na služební místo se provede až po skončení zproštění výkonu služby.“.
+
+Dosavadní odstavce 6 až 8 se označují jako odstavce 7 až 9.
+
+76\. V § 215 odst. 9 větě první se slova „úplné střední vzdělání nebo úplné střední odborné vzdělání“ nahrazují slovy „střední vzdělání s maturitní zkouškou“.
+
+77\. V § 215 odst. 9 větě druhé a třetí se slova „a obor nebo zaměření vzdělání“ zrušují.
+
+78\. V § 215 se doplňuje odstavec 10, který zní:
+
+> „(10) Doba uvedená v odstavci 9 větě první se prodlužuje o dobu, po kterou byl příslušník zařazen do zálohy neplacené.“.
+
+79\. § 219 zní:
+
+> **„§ 219**
+
+> Příslušníkovi se ke dni nabytí účinnosti tohoto zákona provede pro účely zařazení do tarifního stupně zápočet dob podle § 117.“.
+
+80\. V § 224 se odstavec 6 zrušuje.
+
+81\. V § 225 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1.
+
+82\. § 231 včetně nadpisu zní:
+
+> **„§ 231 – Účinnost**
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2007.“.
+
+83\. V příloze v textu upravujícím 1. tarifní třídu se slova „STŘEDNÍ ODBORNÉ“ nahrazují slovy „STŘEDNÍ NEBO STŘEDNÍ S VÝUČNÍM LISTEM“.
+
+84\. V příloze v textu upravujícím 2., 3., 4. a 5. tarifní třídu se slova „ÚPLNÉ STŘEDNÍ, ÚPLNÉ STŘEDNÍ ODBORNÉ“ nahrazují slovy „STŘEDNÍ S MATURITNÍ ZKOUŠKOU“.
+
+85\. V příloze v textu upravujícím 6. tarifní třídu se slova „ÚPLNÉ STŘEDNÍ, ÚPLNÉ STŘEDNÍ ODBORNÉ/VYŠŠÍ ODBORNÉ“ nahrazují slovy „STŘEDNÍ S MATURITNÍ ZKOUŠKOU/VYŠŠÍ ODBORNÉ“.
+
+86\. V příloze v textu upravujícím 7. tarifní třídu se slovo „VYSOKOŠKOLSKÉ“ nahrazuje slovy „VYŠŠÍ ODBORNÉ NEBO VYSOKOŠKOLSKÉ“.
+
+87\. Dosavadní příloha se označuje jako příloha č. 1 a doplňuje se příloha č. 2, která včetně nadpisu zní:
+
+> **„Příloha č. 2 k zákonu č. 361/2003 Sb.**
+
+> <table><tbody><tr><th colspan="13">Stupnice základních tarifů pro příslušníky bezpečnostních sborů na rok 2006 </th></tr><tr><th rowspan="2">Doba praxe </th><th rowspan="2">Tarifní stupeň </th><th colspan="11">Tarifní třída </th></tr><tr><th>1 </th><th>2 </th><th>3 </th><th>4 </th><th>5 </th><th>6 </th><th>7 </th><th>8 </th><th>9 </th><th>10 </th><th>11 </th></tr><tr><td>do 3 let </td><td>1 </td><td>12 610 </td><td>13 680 </td><td>14 840 </td><td>16 100 </td><td>17 470 </td><td>18 950 </td><td>20 570 </td><td>22 310 </td><td>24 210 </td><td>26 270 </td><td>28 500 </td></tr><tr><td>do 6 let </td><td>2 </td><td>13 080 </td><td>14 190 </td><td>15 400 </td><td>16 710 </td><td>18 130 </td><td>19 670 </td><td>21 340 </td><td>23 150 </td><td>25 120 </td><td>27 250 </td><td>29 570 </td></tr><tr><td>do 9 let </td><td>3 </td><td>13 570 </td><td>14 720 </td><td>15 980 </td><td>17 330 </td><td>18 810 </td><td>20 400 </td><td>22 140 </td><td>24 020 </td><td>26 060 </td><td>28 280 </td><td>30 680 </td></tr><tr><td>do 12 let </td><td>4 </td><td>14 080 </td><td>15 280 </td><td>16 580 </td><td>17 980 </td><td>19 510 </td><td>21 170 </td><td>22 970 </td><td>24 920 </td><td>27 040 </td><td>29 340 </td><td>31 830 </td></tr><tr><td>do 15 let </td><td>5 </td><td>14 610 </td><td>15 850 </td><td>17 200 </td><td>18 660 </td><td>20 250 </td><td>21 970 </td><td>23 830 </td><td>25 860 </td><td>28 050 </td><td>30 440 </td><td>33 030 </td></tr><tr><td>do 18 let </td><td>6 </td><td>15 160 </td><td>16 450 </td><td>17 840 </td><td>19 360 </td><td>21 000 </td><td>22 790 </td><td>24 730 </td><td>26 830 </td><td>29 110 </td><td>31 580 </td><td>34 270 </td></tr><tr><td>do 21 let </td><td>7 </td><td>15 730 </td><td>17 060 </td><td>18 510 </td><td>20 090 </td><td>21 790 </td><td>23 650 </td><td>25 650 </td><td>27 840 </td><td>30 200 </td><td>32 770 </td><td>35 550 </td></tr><tr><td>do 24 let </td><td>8 </td><td>16 320 </td><td>17 700 </td><td>19 210 </td><td>20 840 </td><td>22 610 </td><td>24 530 </td><td>26 620 </td><td>28 880 </td><td>31 330 </td><td>34 000 </td><td>36 890 </td></tr><tr><td>do 27 let </td><td>9 </td><td>16 930 </td><td>18 370 </td><td>19 930 </td><td>21 620 </td><td>23 460 </td><td>25 450 </td><td>27 620 </td><td>29 960 </td><td>32 510 </td><td>35 270 </td><td>38 270 </td></tr><tr><td>do 30 let </td><td>10 </td><td>17 570 </td><td>19 060 </td><td>20 680 </td><td>22 430 </td><td>24 340 </td><td>26 410 </td><td>28 650 </td><td>31 090 </td><td>33 730 </td><td>36 600 </td><td>39 710 </td></tr><tr><td>do 33 let </td><td>11 </td><td>18 220 </td><td>19 770 </td><td>21 450 </td><td>23 280 </td><td>25 250 </td><td>27 400 </td><td>29 730 </td><td>32 260 </td><td>35 000 </td><td>37 970 </td><td>41 200 </td></tr><tr><td>nad 33 let </td><td>12 </td><td>18 910 </td><td>20 520 </td><td>22 260 </td><td>24 150 </td><td>26 200 </td><td>28 430 </td><td>30 850 </td><td>33 470 </td><td>36 310 </td><td>39 400 </td><td>42 750 </td></tr></tbody></table>
+
+> <table><tbody><tr><th colspan="13">Stupnice základních tarifů pro příslušníky bezpečnostních sborů na rok 2006 zvýšených podle § 114 odst. 2 o 10 % </th></tr><tr><th rowspan="2">Doba praxe </th><th rowspan="2">Tarifní stupeň </th><th colspan="11">Tarifní třída </th></tr><tr><th>1 </th><th>2 </th><th>3 </th><th>4 </th><th>5 </th><th>6 </th><th>7 </th><th>8 </th><th>9 </th><th>10 </th><th>11 </th></tr><tr><td>do 3 let </td><td>1 </td><td>13 880 </td><td>15 050 </td><td>16 330 </td><td>17 710 </td><td>19 220 </td><td>20 850 </td><td>22 630 </td><td>24 550 </td><td>26 640 </td><td>28 900 </td><td>31 350 </td></tr><tr><td>do 6 let </td><td>2 </td><td>14 390 </td><td>15 610 </td><td>16 940 </td><td>18 390 </td><td>19 950 </td><td>21 640 </td><td>23 480 </td><td>25 470 </td><td>27 640 </td><td>29 980 </td><td>32 530 </td></tr><tr><td>do 9 let </td><td>3 </td><td>14 930 </td><td>16 200 </td><td>17 580 </td><td>19 070 </td><td>20 700 </td><td>22 440 </td><td>24 360 </td><td>26 430 </td><td>28 670 </td><td>31 110 </td><td>33 750 </td></tr><tr><td>do 12 let </td><td>4 </td><td>15 490 </td><td>16 810 </td><td>18 240 </td><td>19 780 </td><td>21 470 </td><td>23 290 </td><td>25 270 </td><td>27 420 </td><td>29 750 </td><td>32 280 </td><td>35 020 </td></tr><tr><td>do 15 let </td><td>5 </td><td>16 080 </td><td>17 440 </td><td>18 920 </td><td>20 530 </td><td>22 280 </td><td>24 170 </td><td>26 220 </td><td>28 450 </td><td>30 860 </td><td>33 490 </td><td>36 340 </td></tr><tr><td>do 18 let </td><td>6 </td><td>16 680 </td><td>18 100 </td><td>19 630 </td><td>21 300 </td><td>23 100 </td><td>25 070 </td><td>27 210 </td><td>29 520 </td><td>32 030 </td><td>34 740 </td><td>37 700 </td></tr><tr><td>do 21 let </td><td>7 </td><td>17 310 </td><td>18 770 </td><td>20 370 </td><td>22 100 </td><td>23 970 </td><td>26 020 </td><td>28 220 </td><td>30 630 </td><td>33 220 </td><td>36 050 </td><td>39 110 </td></tr><tr><td>do 24 let </td><td>8 </td><td>17 960 </td><td>19 470 </td><td>21 140 </td><td>22 930 </td><td>24 880 </td><td>26 990 </td><td>29 290 </td><td>31 770 </td><td>34 470 </td><td>37 400 </td><td>40 580 </td></tr><tr><td>do 27 let </td><td>9 </td><td>18 630 </td><td>20 210 </td><td>21 930 </td><td>23 790 </td><td>25 810 </td><td>28 000 </td><td>30 390 </td><td>32 960 </td><td>35 770 </td><td>38 800 </td><td>42 100 </td></tr><tr><td>do 30 let </td><td>10 </td><td>19 330 </td><td>20 970 </td><td>22 750 </td><td>24 680 </td><td>26 780 </td><td>29 060 </td><td>31 520 </td><td>34 200 </td><td>37 110 </td><td>40 260 </td><td>43 690 </td></tr><tr><td>do 33 let </td><td>11 </td><td>20 050 </td><td>21 750 </td><td>23 600 </td><td>25 610 </td><td>27 780 </td><td>30 140 </td><td>32 710 </td><td>35 490 </td><td>38 500 </td><td>41 770 </td><td>45 320 </td></tr><tr><td>nad 33 let </td><td>12 </td><td>20 810 </td><td>22 580 </td><td>24 490 </td><td>26 570 </td><td>28 820 </td><td>31 280 </td><td>33 940 </td><td>36 820 </td><td>39 950 </td><td>43 340 </td><td>47 030 </td></tr></tbody></table> “.
+>
+> “.
+
+## ČÁST DRUHÁ – Změna zákona o změně zákonů souvisejících s přijetím zákona o služebním poměru příslušníků bezpečnostních sborů
+
+### Čl. II
+
+V zákoně č. 362/2003 Sb., o změně zákonů souvisejících s přijetím zákona o služebním poměru příslušníků bezpečnostních sborů, ve znění zákona č. 186/2004 Sb., zákona č. 281/2004 Sb., zákona č. 359/2004 Sb., zákona č. 626/2004 Sb. a zákona č. 253/2005 Sb., čl. XLII zní:
+
+> **„Čl. XLII**
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2007.“.
+
+## ČÁST TŘETÍ – Změna zákona o daních z příjmů
+
+### Čl. III
+
+V § 6 odst. 9 zákona č. 586/1992 Sb., o daních z příjmů, ve znění zákona č. 323/1993 Sb., zákona č. 259/1994 Sb., zákona č. 149/1995 Sb., zákona č. 210/1997 Sb., zákona č. 333/1998 Sb., zákona č. 170/1999 Sb., zákona č. 492/2000 Sb., zákona č. 575/2002 Sb., zákona č. 362/2003 Sb., zákona č. 438/2003 Sb. a zákona č. 359/2004 Sb., písmeno j) zní:
+
+> „j) náhrady za ztrátu na služebním příjmu poskytované příslušníkům bezpečnostních sborů podle právních předpisů účinných do 31. prosince 2005,“.
+
+## ČÁST ČTVRTÁ – Změna zákona o zpravodajských službách České republiky
+
+### Čl. IV
+
+V § 17 zákona č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění zákona č. 290/2005 Sb., se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Příslušník Úřadu pro zahraniční styky a informace je oprávněn při ochraně činností, které zpravodajská služba koná na území České republiky, držet a nosit služební střelnou zbraň a použít ji v případech nutné obrany nebo krajní nouze.“.
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### Čl. V
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2006.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+v z. Sobotka v. r.

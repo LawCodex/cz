@@ -1,0 +1,47 @@
+---
+title: "Nařízení vlády č. 153/2005 Sb., o stanovení způsobu a výše tvorby prostředků radiokomunikačního účtu a způsobu jejich čerpání"
+identifier: "153/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/153/2021-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2005-04-06
+effective: 2005-05-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/153"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 153/2005 Sb., o stanovení způsobu a výše tvorby prostředků radiokomunikačního účtu a způsobu jejich čerpání ve znění nařízení vlády č. 42/2017 Sb."
+---
+
+# Nařízení vlády č. 153/2005 Sb., o stanovení způsobu a výše tvorby prostředků radiokomunikačního účtu a způsobu jejich čerpání
+
+153
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 6. dubna 2005
+
+o stanovení způsobu a výše tvorby prostředků radiokomunikačního účtu a způsobu jejich čerpání
+
+Vláda nařizuje podle § 150 odst. 1 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), k provedení § 27 odst. 5 a § 133 odst. 2 tohoto zákona:
+
+## § 1 – Tvorba prostředků účtu
+
+Český telekomunikační úřad (dále jen „Úřad“) převádí na radiokomunikační účet (dále jen „účet“) peněžní prostředky ve výši 6 % vybraných poplatků za využívání rádiových kmitočtů. Peněžní prostředky Úřad převádí na účet čtvrtletně do 10 pracovních dnů po uplynutí čtvrtletí s výjimkou čtvrtého čtvrtletí, kdy peněžní prostředky převede nejpozději v této lhůtě podle stavu k 10. prosinci. Doúčtování za období od 11. prosince do 31. prosince běžného roku Úřad provede do 31. ledna roku následujícího.
+
+## § 2 – Čerpání prostředků účtu
+
+Úřad převede peněžní prostředky z účtu na úhradu efektivně a účelně vynaložených nákladů podle § 27 odst. 1 a 6 zákona vzniklých držitelům individuálního oprávnění k využívání rádiových kmitočtů anebo Ministerstvu obrany při využívání rádiových kmitočtů pro vojenské účely do 15 pracovních dnů poté, co potvrdil anebo stanovil jejich výši podle § 27 odst. 5 zákona.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. května 2005.
+
+Předseda vlády:
+
+JUDr. Gross v. r.
+
+Ministr informatiky:
+
+Mlynář v. r.

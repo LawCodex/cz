@@ -1,0 +1,104 @@
+---
+title: "Zákon č. 422/2004 Sb., kterým se mění zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů, zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a zákon č. 48/1997 Sb., o veřejném zdravotním pojištění, ve znění pozdějších předpisů"
+identifier: "422/2004 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2004/422/2012-04-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2004-06-10
+effective: 2004-09-01
+last_amended: 2012-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2004/422"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 422/2004 Sb., kterým se mění zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů, zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a zákon č. 48/1997 Sb., o veřejném zdravotním pojištění, ve znění pozdějších předpisů ve znění zákona č. 375/2011 Sb."
+---
+
+# Zákon č. 422/2004 Sb., kterým se mění zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů, zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a zákon č. 48/1997 Sb., o veřejném zdravotním pojištění, ve znění pozdějších předpisů
+
+422
+
+ZÁKON
+
+ze dne 10. června 2004,
+
+kterým se mění zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů, zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a zákon č. 48/1997 Sb., o veřejném zdravotním pojištění, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o matrikách, jménu a příjmení a o změně některých souvisejících zákonů
+
+### Čl. II
+
+Zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění zákona č. 320/2002 Sb., zákona č. 578/2002 Sb. a zákona č. 165/2004 Sb., se mění takto:
+
+1\. § 14 včetně poznámek pod čarou č. 4a), 5) a 6) zní:
+
+> **„§ 14**
+
+> (1) Do knihy narození se zapisuje
+
+> a) jméno, popřípadě jména a příjmení dítěte,
+
+> b) den, měsíc a rok narození dítěte,
+
+> c) rodné číslo, místo narození a pohlaví dítěte,
+
+> d) jméno, popřípadě jména, příjmení, popřípadě rodná příjmení, data a místa narození, rodná čísla, státní občanství a místo trvalého pobytu rodičů,
+
+> e) datum zápisu a podpis matrikáře.
+
+> (2) Údaje uvedené v odstavci 1 písm. d) se do knihy narození nezapisují v případě, že matka dítěte požádala o utajení své osoby v souvislosti s porodem.<sup>4a</sup>)
+
+> (3) Zápis do knihy narození se provede
+
+> a) na základě písemného hlášení o narození živého nebo mrtvého dítěte,<sup>5</sup>) nebo
+
+> b) na základě ústního oznámení o narození dítěte mimo zdravotnické zařízení, nebyla-li jeho matce ani následně poskytnuta zdravotní péče; o tomto oznámení sepíše matrikář s oznamovatelem zápis.
+
+> (4) Písemné hlášení o narození dítěte, jehož matka požádala o utajení své osoby v souvislosti s porodem, obsahuje informaci, že se jedná o takový případ.
+
+> (5) Při ústním oznámení je oznamovatel povinen prokázat svoji totožnost.
+
+> (6) Je-li oznamovatel neslyšící, nebo němý, popřípadě učiní-li oznámení v jiném než českém, nebo slovenském jazyce, je nutná přítomnost tlumočníka.<sup>6</sup>)
+
+> <sup>4a</sup>) § 67b odst. 20 zákona č. 20/1966 Sb., o péči o zdraví lidu.
+
+> <sup>5</sup>) § 5 vyhlášky č. 11/1988 Sb., o povinném hlášení ukončení těhotenství, úmrtí dítěte a úmrtí matky.
+
+> <sup>6</sup>) Zákon č. 36/1967 Sb., o znalcích a tlumočnících. 
+>  Zákon č. 155/1998 Sb., o znakové řeči a o změně dalších zákonů.“.
+
+2\. V § 17 odstavec 1 včetně poznámky pod čarou č. 6a) zní:
+
+> **„§ 17**
+
+> (1) Zápis dítěte, jehož matka požádala o utajení své osoby v souvislosti s porodem,<sup>6a</sup>) do knihy narození se provede podle zprávy zdravotnického zařízení, v němž byl porod ukončen, obsahující údaje uvedené v § 14 odst. 1, přičemž údaje uvedené v § 14 odst. 1 písm. d) se do knihy narození nezapíší.
+
+> <sup>6a</sup>) § 67b odst. 20 zákona č. 20/1966 Sb., ve znění zákona č. 422/2004 Sb.“.
+
+## ČÁST TŘETÍ – Změna zákona o veřejném zdravotním pojištění
+
+### Čl. III
+
+Zákon č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 242/1997 Sb., zákona č. 2/1998 Sb., zákona č. 127/1998 Sb., zákona č. 225/1999 Sb., zákona č. 363/1999 Sb., zákona č. 18/2000 Sb., zákona č. 132/2000 Sb., zákona č. 155/2000 Sb., zákona č. 167/2000 Sb., zákona č. 220/2000 Sb., zákona č. 258/2000 Sb., zákona č. 176/2002 Sb., zákona č. 198/2002 Sb., zákona č. 285/2002 Sb., zákona č. 309/2002 Sb., zákona č. 320/2002 Sb., zákona č. 222/2003 Sb., zákona č. 274/2003 Sb., zákona č. 362/2003 Sb., zákona č. 424/2003 Sb., zákona č. 425/2003 Sb. a zákona č. 455/2003 Sb., se mění takto:
+
+1\. V § 13 odst. 1 se za slova „zdravotní stav“ vkládají slova „a zdravotní péče uvedená v odstavci 3“.
+
+2\. V § 13 se za odstavec 2 vkládá nový odstavec 3, který včetně poznámky pod čarou č. 23b) zní:
+
+> „(3) Ze zdravotního pojištění se hradí též zdravotnická péče související s těhotenstvím a porodem dítěte, jehož matka požádala o utajení své osoby v souvislosti s porodem.<sup>23b</sup>) Tuto péči hradí zdravotní pojišťovna, kterou na základě identifikačních údajů pojištěnce o úhradu požádá příslušné zdravotnické zařízení. Povinnost mlčenlivosti stanovená v § 67b odst. 20 zákona č. 20/1966 Sb., o péči o zdraví lidu, tím není dotčena.
+
+> <sup>23b</sup>) § 67b odst. 20 zákona č. 20/1966 Sb., ve znění zákona č. 422/2004 Sb.“.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. IV
+
+Tento zákon nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Špidla v. r.

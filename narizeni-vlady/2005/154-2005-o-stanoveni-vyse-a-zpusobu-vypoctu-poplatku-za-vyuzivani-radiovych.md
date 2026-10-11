@@ -1,0 +1,515 @@
+---
+title: "Nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel"
+identifier: "154/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/154/2023-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2005-04-06
+effective: 2005-05-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/154"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel ve znění nařízení vlády č. 288/2007 Sb., nařízení vlády č. 162/2008 Sb., nařízení vlády č. 228/2009 Sb., nařízení vlády č. 156/2011 Sb., nařízení vlády č. 175/2012 Sb., nařízení vlády č. 284/2015 Sb., nařízení vlády č. 43/2017 Sb., nařízení vlády č. 138/2018 Sb., nařízení vlády č. 56/2020 Sb. a nařízení vlády č. 408/2022 Sb."
+---
+
+# Nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel
+
+154
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 6. dubna 2005
+
+o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel
+
+Vláda nařizuje podle § 150 odst. 1 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), (dále jen „zákon“) k provedení § 24 odst. 5 a § 37 odst. 2 zákona:
+
+## § 1 – Výše poplatků
+
+(1) Výše ročních pevných částek poplatků nebo způsob výpočtu ročních poplatků jsou uvedeny v sazebníku poplatků za využívání rádiových kmitočtů a poplatků za využívání čísel, který je v příloze k tomuto nařízení.
+
+(2) Výše poplatku za využívání rádiových kmitočtů a čísel za dobu kratší než jeden kalendářní rok se stanoví jako násobek jedné dvanáctiny ročního poplatku a počtu celých měsíců ode dne nabytí právní moci individuálního oprávnění k využívání rádiových kmitočtů nebo oprávnění k využívání čísel v příslušném roce včetně měsíce, ve kterém toto oprávnění pozbývá platnosti.
+
+(3) Výše poplatku za využívání rádiových kmitočtů pro experimentální účely činí 1 % výše poplatku za využívání rádiových kmitočtů uvedené v příloze k tomuto nařízení.
+
+(4) V případě, že by výše ročního poplatku za využívání rádiových kmitočtů a čísel určená způsobem podle sazebníku poplatků byla nižší nebo vyšší než meze stanovené v § 24 odst. 2 nebo § 37 odst. 2 zákona, odpovídá výše poplatku výši meze, které nedosahuje nebo kterou překračuje.
+
+## § 2 – Splatnost poplatků
+
+Poplatky za využívání rádiových kmitočtů podle § 24 odst. 2 zákona a poplatky za práva plynoucí z oprávnění k využívání čísel podle § 37 odst. 2 zákona jsou splatné do 15 dnů ode dne nabytí právní moci individuálního oprávnění k využívání rádiových kmitočtů nebo oprávnění k využívání čísel a dále k 31. lednu každého roku po dobu platnosti těchto oprávnění.
+
+## § 3 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. května 2005.
+
+Předseda vlády:
+
+JUDr. Gross v. r.
+
+Ministr informatiky:
+
+Mlynář v. r.
+
+### Příloha k nařízení vlády č. 154/2005 Sb.
+
+#### Sazebník poplatků za využívání rádiových kmitočtů a čísel
+
+Položka 1
+
+###### POPLATKY ZA VYUŽÍVÁNÍ RÁDIOVÝCH KMITOČTŮ
+
+1\) Pro účely tohoto sazebníku se rozumí:
+
+a) jedním rádiovým kmitočtem číselná hodnota rádiového kmitočtu včetně k ní vztažené zabrané šířce pásma, uvnitř které je povoleno vysílání, a o jedné polarizaci, není-li v tomto nařízení vlády uvedeno jinak,
+
+b) využíváním rádiového kmitočtu umožnění jeho nepřetržitého využívání podle podmínek a v rozsahu stanoveném v individuálním oprávnění k využívání rádiových kmitočtů po dobu platnosti tohoto oprávnění,
+
+c) výstupním výkonem Q použitého zařízení výkon vysílacího rádiového zařízení dodávaný do anténního napáječe.
+
+2\) Pro duplexní nebo semiduplexní způsob provozu se poplatky vyměřují za každý rádiový kmitočet.
+
+3\) Poplatky za využívání rádiových kmitočtů účastnickými elektronickými komunikačními zařízeními komunikujícími se základnovými stanicemi na základě všeobecných oprávnění, se vyměřují v rámci individuálního oprávnění k využívání rádiových kmitočtů uděleného provozovatelům základnových stanic. Tento poplatek je roven poplatku stanovenému za využívání duplexního rádiového kmitočtu základnovou stanicí (neplatí pro pozemní pohyblivou službu).
+
+A. POZEMNÍ POHYBLIVÁ SLUŽBA
+
+A. 1. Celoplošné rádiové sítě
+
+Kč ročně dle výpočtu
+
+Celoplošnými rádiovými sítěmi se pro účely zpoplatnění rozumí sítě, ve kterých rádiové kmitočty mohou být využívány rádiovými zařízeními na celém území České republiky. Mezi celoplošné rádiové sítě pozemní pohyblivé služby nepatří rádiové sítě s celostátně využívaným rádiovým kmitočtem pouze pro pohyblivá rádiová zařízení. Celoplošnými rádiovými sítěmi se dále rozumí i rádiové sítě, jejichž prostřednictvím jsou zajišťovány důležité zájmy státu.
+
+Výpočet:
+
+C = S1 x K1 x K16
+
+kde je
+
+C Poplatek za využívání 1 rádiového kmitočtu
+
+S1 Sazba za 1 kHz využívané šířky kmitočtového pásma
+
+S1 = 1600 Kč
+
+K1 Koeficient využívané šířky kmitočtového pásma
+
+Tento koeficient se vypočte z šířky (v kHz) 1 kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+K1 = 1 x šířka [v kHz]
+
+pro kmitočty mimo kmitočtové pásmo 380-385/390-395 MHz
+
+K1 = 0,25 x šířka [v kHz]
+
+pro kmitočty v kmitočtovém pásmu 380-385/390-395 MHz
+
+K16 Koeficient kmitočtového pásma
+
+K16 = 1 pro f &lt; 1 GHz
+
+K16 = 0,7 pro 1 GHz ≤ f &lt; 2,2 GHz
+
+K16 = 0,2 pro 2,2 GHz &lt;= f &lt; 24 GHz
+
+K16 = 0,02 pro f &gt;= 24 GHz
+
+A. 2. Ostatní rádiové sítě pozemní pohyblivé služby
+
+Kč ročně dle výpočtu
+
+A 2.1 Regionální a lokální rádiové sítě
+
+Regionálními a lokálními rádiovými sítěmi se pro účely zpoplatnění rozumí rádiové sítě, ve kterých rádiové kmitočty mohou být využívány rádiovými zařízeními na vymezeném území České republiky podle podmínek přídělu rádiových kmitočtů, za účelem poskytování veřejně dostupných služeb elektronických komunikací.
+
+Výpočet:
+
+C = S1 x K1 x K16 x Kr
+
+kde je
+
+C Poplatek za využívání 1 rádiového kmitočtu
+
+S1 Sazba za 1 kHz využívané šířky kmitočtového pásma
+
+S1 = 1600 Kč
+
+K1 Koeficient využívané šířky kmitočtového pásma
+
+Tento koeficient se vypočte z šířky (v kHz) 1 kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+K1 = 1 x šířka [v kHz]
+
+K16 Koeficient kmitočtového pásma
+
+K16 = 1 pro f &lt; 1 GHz
+
+K16 = 0,7 pro 1 GHz ≤ f &lt; 2,2 GHz
+
+K16 = 0,2 pro 2,2 GHz &lt;= f &lt; 24 GHz
+
+K16 = 0,02 pro f &gt;= 24 GHz
+
+Kr Koeficient regionálního rozsahu sítě
+
+Výše koeficientu se vypočte na základě vzorce:
+
+Kr=(POP<sub>reg</sub>)/(POP<sub>ČR</sub>)
+
+kde je
+
+POP<sub>reg</sub> počet obyvatel regionu nebo lokality, která je určena v podmínkách přídělu
+
+POP<sub>ČR</sub> počet obyvatel České republiky
+
+A 2.2 Ostatní rádiové sítě
+
+Poplatek za využívání rádiového kmitočtu je součtem poplatku za využívání jednoho rádiového kmitočtu pohyblivými rádiovými zařízeními a poplatku za využívání jednoho rádiového kmitočtu nepohyblivými rádiovými zařízeními.
+
+Výpočet:
+
+**C = Ca + Cb**
+
+kde je
+
+**C** Poplatek za využívání jednoho rádiového kmitočtu
+
+**Ca** Poplatek za využívání rádiového kmitočtu vysílaného pohyblivými rádiovými zařízeními v rámci obsluhované oblasti, který je závislý na velikosti obsluhované oblasti a vyzářeném výkonu pohyblivých rádiových zařízení
+
+**Cb** Poplatek za využívání kmitočtu vysílaného nepohyblivými rádiovými zařízeními, který je závislý na vyzářených výkonech jednotlivých nepohyblivých rádiových zařízení
+
+**Výpočet poplatku Ca**
+
+Poplatek se vyměří bez ohledu na počet pohyblivých rádiových zařízení v síti. Obsluhovanou oblastí pro daný rádiový kmitočet se pro účely výpočtu poplatku rozumí územní oblast, která je určena zeměpisnými souřadnicemi středu oblasti a svým poloměrem (maximální vzdáleností pohyblivých rádiových zařízení od středu územní oblasti, ve které mohou být provozována). Při stanovování obsluhované oblasti se vychází z technických parametrů rádiové sítě s ohledem na zajištění nerušeného provozu ostatních rádiových sítí. Obsluhovanou oblast může určit Úřad, není-li stanovena v souladu s výše uvedenými parametry.
+
+Pro účely součinnosti základních složek integrovaného záchranného systému na vyhrazených součinnostních rádiových kmitočtech vymezených v Plánu využití rádiového spektra se stanoví koeficient K2 = 1 bez ohledu na velikost poloměru obsluhované oblasti.
+
+Výpočet poplatku Ca se použije rovněž pro nepohyblivá elektronická komunikační zařízení v sítích dálkového ovládání a signalizace.
+
+Výpočet:
+
+Ca = S2 x K1 x K2 x K3 x K16
+
+kde je
+
+**S2** Sazba za 1 kHz využívané šířky kmitočtového pásma
+
+**S2 = 100 Kč**
+
+**K1** Koeficient využívané šířky kmitočtového pásma.
+
+Tento koeficient se vypočte z šířky (v kHz) jednoho kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+**K1 = 1 pro 1 kHz**
+
+**K2** Koeficient poloměru obsluhované oblasti
+
+**K2** = 1,5 poloměr do 5 km včetně
+
+**K2** = 2 poloměr nad 5 km do 25 km včetně
+
+**K2** = 5 poloměr nad 25 km do 70 km včetně
+
+**K2** = 11 poloměr nad 70 km do 150 km včetně
+
+**K2** = 15 poloměr nad 150 km
+
+**K3** Koeficient vyzářeného výkonu pohyblivých rádiových zařízení
+
+**K3 = 1** do 10 W povoleného maximálního efektivního vyzářeného výkonu včetně
+
+**K3 = 2** nad 10 W povoleného maximálního efektivního vyzářeného výkonu
+
+K16 Koeficient kmitočtového pásma
+
+K16 = 1 pro f &lt; 1 GHz
+
+K16 = 0,7 pro 1 GHz &lt;= f &lt; 2,2 GHz
+
+K16 = 0,2 pro 2,2 GHz &lt;= f &lt; 24 GHz
+
+K16 = 0,02 pro f &gt;= 24 GHz
+
+**Výpočet poplatku Cb**
+
+Výpočet:
+
+Cb = S2 x K1 x K4 x K16
+
+kde je
+
+**S2** Sazba za 1 kHz využívané šířky kmitočtového pásma
+
+**K1** Koeficient využívané šířky kmitočtového pásma. Tento koeficient se vypočte ze šířky (v kHz) jednoho kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+**K1 = 1** pro 1 kHz
+
+**K4** Součet výkonových koeficientů jednotlivých nepohyblivých rádiových zařízení využívajících kmitočet v obsluhované oblasti zvýšený o hodnotu 1,5.
+
+K4=1,5+∑i=1nXi
+
+ve kterém znamená
+
+**n** počet jednotlivých nepohyblivých rádiových zařízení
+
+**Xi** výkonový koeficient maximálního efektivního vyzářeného výkonu P (e.r.p.) jednotlivého nepohyblivého rádiového zařízení
+
+**Xi = 0,05** pro P ≤ 1W
+
+**Xi = 0,10** pro 1 W &lt; P ≤ 5 W
+
+**Xi = 0,15** pro 5 W &lt; P ≤ 10 W
+
+**Xi = 0,50** pro 10W &lt; P ≤ 20 W
+
+**Xi = 1,00** pro P &gt; 20 W.
+
+K16 Koeficient kmitočtového pásma
+
+K16 = 1 pro f &lt; 1 GHz
+
+K16 = 0,7 pro 1 GHz &lt;= f &lt; 2,2 GHz
+
+K16 = 0,2 pro 2,2 GHz &lt;= f &lt; 24 GHz
+
+K16 = 0,02 pro f &gt; = 24 GHz.
+
+A. 3. Specifický způsob zpoplatnění
+
+A 3.1 Zemské systémy k poskytování bezdrátových širokopásmových služeb elektronických komunikací v kmitočtových pásmech 24,25-27,5 GHz a 40,5-43,5 GHz.
+
+Kč ročně dle výpočtu
+
+C=∑i=1nS4<sub>i</sub>
+
+kde je
+
+C poplatek za využívání jednoho rádiového kmitočtu
+
+n počet jednotlivých základnových stanic
+
+S4 poplatek za využívání rádiového kmitočtu jednotlivými základnovými stanicemi v závislosti na přidělené šířce pásma
+
+| Šířka <br> pásma<br> [MHz] | 0 MHz<br> &lt;=<br> 200 MHz | 200 MHz<br> &lt;=<br> 400 MHz | 400 MHz<br> &lt;=<br> 600 MHz | 600 MHz<br> &lt;=<br> 800 MHz | 800 MHz<br> &lt;=<br> 1000 MHz |
+|---|---|---|---|---|---|
+| S4 [Kč] | 3000 | 6000 | 9000 | 12000 | 15000 |
+
+A 3.2 Komplementární pozemní komponenta (Complementary Ground Components) systému družicové pohyblivé služby v pásmu 1980-2010 MHz a 2170-2200 MHz
+
+**C = S5 x K5 Kč**
+
+kde je
+
+C poplatek za využívání rádiových kmitočtů jednou základnovou stanicí komplementární pozemní komponenty (Complementary Ground Components) systému družicové pohyblivé služby využívající rádiové kmitočty v pásmu 1980-2010 MHz a 2170-2200 MHz a jejímž prostřednictvím dochází k poskytování veřejné sítě elektronických komunikací výhradně na palubě letadel.
+
+S5 Sazba za 1 MHz využívané šířky kmitočtového pásma
+
+S5 = 13 500 Kč
+
+K5 Koeficient šířky kmitočtového pásma, který se rovná počtu MHz odpovídajícímu šířce kmitočtového pásma zabraného vysíláním.
+
+B. PEVNÁ SLUŽBA
+
+Kč ročně dle výpočtu
+
+Výpočet:
+
+C = S3 x K9 x K10 x K15
+
+kde je
+
+C Poplatek za využívání jednoho rádiového kmitočtu
+
+S3 Sazba za jeden rádiový kmitočet podle druhu radioreléového spoje, kmitočtového pásma (f) a zabrané šířky kmitočtového pásma (šp)
+
+a) Radioreléový spoj bod-bod
+
+<table><tbody><tr><th>Sazba S3 za rádiový kmitočet v Kč</th><th>0 MHz &lt; šp &lt;= 5<br> MHz</th><th>5 MHz &lt; šp<br> &lt;= 10 MHz</th><th>10 MHz &lt; šp &lt;= 20 MHz</th><th>20<br> MHz &lt; šp &lt;= 30 MHz</th><th>30<br> MHz &lt; šp &lt;= 60 MHz</th><th>60 MHz &lt; šp &lt;= 100 MHz</th><th>100<br> MHz &lt; šp &lt;= 150 MHz</th><th>150 MHz &lt; šp &lt;= 200 MHz</th><th>200 MHz &lt; šp &lt;= 300 MHz</th><th>300 MHz &lt; šp &gt;= 400 MHz</th><th>400 MHz &lt; šp &gt;= 500 MHz</th><th colspan="2">Šp &gt; 500 MHz</th></tr><tr><td>f &lt;= 1<br> GHz</td><td>500</td><td>1000</td><td>2000</td><td>3000</td><td>3500</td><td></td><td>5600</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr><tr><td>1 GHz &lt;<br> f &lt;=3<br> GHz</td><td>5000</td><td>10000</td><td>20000</td><td>30000</td><td>35000</td><td></td><td>56000</td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr><tr><td>3 GHz &lt; f &lt;= 16 GHz</td><td>4000</td><td>8000</td><td>16000</td><td>24000</td><td>28000</td><td>36000</td><td>44800</td><td>60000</td><td>79200</td><td>108000</td><td>146400</td><td colspan="2">204000</td></tr><tr><td>16 GHz &lt; f &lt;= 24 GHz</td><td>3000</td><td>6000</td><td>12000</td><td>18000</td><td>21000</td><td>27000</td><td>33600</td><td>45000</td><td>59400</td><td>81000</td><td colspan="2">109800</td><td>153000</td></tr><tr><td>24 GHz<br> &lt; f &lt;= 35<br> GHz</td><td>2500</td><td>5000</td><td>10000</td><td>15000</td><td>17500</td><td>22500</td><td>28000</td><td>37500</td><td>49500</td><td>67500</td><td>91500</td><td colspan="2">127500</td></tr><tr><td>35 GHz &lt; f &lt;= 40 GHz</td><td>2000</td><td>4000</td><td>8000</td><td>12000</td><td>14000</td><td>18000</td><td>22400</td><td>3000</td><td>39600</td><td>54000</td><td>73200</td><td colspan="2">102000</td></tr><tr><td>40 GHz &lt; f &lt;= 47 GHz</td><td>1000</td><td>2000</td><td>4000</td><td>6000</td><td>10000</td><td>12900</td><td>16000</td><td>21600</td><td>28200</td><td>38700</td><td>52200</td><td colspan="2">72900</td></tr><tr><td>47 GHz &lt; f &lt;= 55 GHz</td><td>600</td><td>1300</td><td>2500</td><td>3800</td><td>6300</td><td>8100</td><td>10000</td><td>13500</td><td>17700</td><td>24300</td><td>32700</td><td colspan="2">45600</td></tr><tr><td>55 GHz<br> &lt; f &lt;= 66<br> GHz</td><td>100</td><td>300</td><td>500</td><td>800</td><td>1300</td><td>1500</td><td>2000</td><td>2700</td><td>3600</td><td>4800</td><td>6600</td><td colspan="2">9300</td></tr><tr><td>f &gt; 66<br> GHz</td><td>600</td><td>1300</td><td>2500</td><td>3800</td><td>6300</td><td>8100</td><td>10000</td><td>13500</td><td>17700</td><td>24300</td><td>32700</td><td colspan="2">45600</td></tr></tbody></table>
+
+b) Radioreléový spoj bod-multibod (1 řídící stanice)
+
+| Sazba S3 za rádiový kmitočet v Kč | 0 MHz &lt; šp<br> &lt;= 5 MHz | 5 MHz &lt; šp<br> &lt;= 10 MHz | 10 MHz &lt; šp<br> &lt;= 20 MHz | 20 MHz<br> &lt; šp &lt;= 30<br> MHz | 30 MHz &lt; šp<br> &lt;= 60 MHz | 60 MHz &lt; šp &lt;= 100 MHz | 100 MHz &lt; šp &lt;= 150 MHz | 150 MHz &lt; šp &lt;= 200 MHz | 200 MHz &lt; šp &lt;= 300 MHz | 300 MHz &lt; šp &gt;= 400 MHz | 400 MHz &lt; šp &gt;= 500 MHz | Šp &gt;<br> 500 MHz |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| f &lt;= 1<br> GHz | 1250 | 2500 | 5000 | 7500 | 8750 | | 14000 | | | | | |
+| 1 GHz &lt;<br> f &lt;= 3<br> GHz | 12500 | 25000 | 50000 | 75000 | 87500 | | 140000 | | | | | |
+| 3 GHz &lt; f &lt;= 16 GHz | 10000 | 20000 | 40000 | 60000 | 70000 | 87600 | 112000 | 147600 | 195600 | 267600 | 363600 | 507600 |
+| 16 GHz<br> &lt; f &lt;= 24<br> GHz | 7500 | 15000 | 30000 | 45000 | 52500 | 66000 | 84000 | 110700 | 146700 | 200700 | 272700 | 380700 |
+| 24 GHz<sup></sup>&lt; f &lt;= 35 GHz | 6250 | 12500 | 25000 | 37500 | 43750 | 55200 | 70000 | 92400 | 122400 | 167400 | 227400 | 317400 |
+| 35 GHz &lt; f &lt;= 40 GHz | 5000 | 10000 | 20000 | 30000 | 35000 | 45600 | 56000 | 73800 | 97800 | 133800 | 181800 | 253800 |
+| 40 GHz &lt; f &lt;= 47 GHz | 2500 | 5000 | 10000 | 15000 | 25000 | 31500 | 40000 | 52800 | 69900 | 95700 | 129900 | 181200 |
+| 47 GHz &lt; f &lt;= 55 GHz | 1500 | 3250 | 6250 | 9500 | 15750 | 19800 | 25000 | 33000 | 43800 | 59700 | 81300 | 113400 |
+| 55 GHz<br> &lt; f &lt;= 66<br> GHz | 250 | 750 | 1250 | 2000 | 3250 | 4200 | 5000 | 6600 | 8700 | 12000 | 16200 | 22800 |
+| f &gt; 66<br> GHz | 1500 | 3250 | 6250 | 9500 | 15750 | 19800 | 25000 | 33000 | 43800 | 59700 | 81300 | 113400 |
+
+K9 Koeficient výstupního výkonu Q použitého zařízení:
+
+**K9 = 0,25**Q &lt;= 0 dBm
+
+**K9 = 0,4**0 dBm &lt; Q &lt;= 10 dBm
+
+**K9 = 0,6**10 dBm &lt; Q &lt;= 20 dBm
+
+**K9 = 0,8**20 dBm &lt; Q &lt;= 30 dBm
+
+**K9 = 1**30 dBm &lt; Q &lt;= 40 dBm
+
+**K9 = 1,5**Q &gt; 40 dBm
+
+K10 Koeficient řízení výstupního výkonu použitého rádiového zařízení:
+
+**K10 = 0,8** systém řízení výstupního výkonu použit
+
+**K10 = 1** systém řízení výstupního výkonu nepoužit
+
+K15 Koeficient křížové polarizace
+
+**K15 = 1,25**křížová polarizace použita
+
+**K15 = 1**křížová polarizace nepoužita
+
+Poznámka:
+
+Pro systémy MWS (multimediální bezdrátové systémy) typu uspořádání bod-multibod v případě obousměrného rádiového provozu tohoto systému se poplatky vyměřují v kategorii pevná služba i v případě, že část poskytované služby má charakter rozhlasové služby. Poplatky za využívání kmitočtů rádiovými zařízeními pevné služby s kmitočty do 1 GHz včetně se vyměří výpočtem pro pozemní pohyblivou službu.
+
+C. ROZHLASOVÁ SLUŽBA
+
+Kč ročně dle výpočtu
+
+Výpočet:
+
+**C = S4 x V<sup>2</sup> x K11**
+
+kde je
+
+C Poplatek za využívání jednoho rádiového kmitočtu
+
+S4 Sazba za jeden rádiový kmitočet
+
+**S4 = 1 Kč**
+
+V Průměrný efektivní vyzářený výkon na využívaném kmitočtu v dBW v hodnotě zaokrouhlené na celé číslo směrem dolů. Stanoví se jako 1/36 ze součtu povolených vyzářených výkonů ve směrech po deseti úhlových stupních, počínaje stupněm nula. Pro průměrný efektivní vyzářený výkon menší nebo rovnající se 5 dBW je V = 5. V krátkovlných rozhlasových pásmech je V rovno výstupnímu výkonu vysílače v dBW.
+
+K11 Koeficient druhu vysílání:
+
+**K11 = 10**Digitální rozhlasové vysílání na rádiových kmitočtech do 30 MHz včetně
+
+**K11 = 15**AM rozhlasové vysílání
+
+**K11 = 30**FM rozhlasové vysílání
+
+**K11 = 30**Digitální rozhlasové vysílání na rádiových kmitočtech nad 30 MHz
+
+**K11 = 50**Systémy MWS
+
+**K11 = 250**Digitální televizní vysílání
+
+Stanovení výše poplatku pro digitální televizní vysílání prostřednictvím jednofrekvenční sítě
+
+V případě šíření digitálního televizního vysílání vysílačem s maximálním efektivním vyzářeným výkonem (ERPmax) menším než 27 dBW, který je využíván v rámci jednofrekvenční sítě, je vždy C = 420 Kč.
+
+Poznámka č. 1:
+
+V krátkovlnných rozhlasových pásmech se využíváním jednoho rádiového kmitočtu rozumí právo využívat kterýkoli z rádiových kmitočtů využívaných podle individuálního oprávnění k využívání rádiových kmitočtů.
+
+Poznámka č. 2:
+
+Systémy MWS (multimediální bezdrátové systémy) v kategoriích MMDS (vícebodový vícekanálový distribuční systém), MVDS (multikanálový video distribuční systém), nebo LMDS (lokální vícebodový distribuční systém) se rozumí systém v provozním uspořádání bod-multibod za předpokladu, že rádiový provoz v systému je pouze jednosměrný, a proto se vyměřují poplatky v kategorii rozhlasové služby.
+
+D. DRUŽICOVÁ SLUŽBA
+
+Kč ročně dle výpočtu
+
+Výpočet:
+
+**C = S5 x K12 x K13 x K14**
+
+kde je
+
+<table><tbody><tr><td>C</td><td colspan="3">Poplatek za využívání jednoho rádiového kmitočtu pozemskou stanicí</td></tr><tr><td rowspan="2">S5</td><td colspan="3">Sazba za 1 MHz šířky kmitočtového pásma zabrané vysíláním</td></tr><tr><td></td><td colspan="2"><b>S5 = 2500 Kč</b></td></tr><tr><td rowspan="3">K12</td><td colspan="3">Koeficient šířky kmitočtového pásma zabrané vysíláním</td></tr><tr><td rowspan="2"></td><td><b>K12 = 4</b></td><td>pro šířku pásma ≤ 4 MHz</td></tr><tr><td><b>K12</b></td><td>pro šířku pásma &gt; 4 MHz se rovná počtu MHz, odpovídajícímu šířce kmitočtového pásma zabraného vysíláním</td></tr><tr><td rowspan="3">K13</td><td colspan="3">Koeficient použití technologie s mnohonásobným přístupem ke kanálu</td></tr><tr><td rowspan="2"></td><td><b>K13 = 0,1</b></td><td>při použití technologie s mnohonásobným přístupem ke kanálu</td></tr><tr><td><b>K13 = 1</b></td><td>není-li použita technologie s mnohonásobným přístupem ke kanálu</td></tr><tr><td rowspan="7">K14</td><td colspan="3">Koeficient kmitočtového pásma</td></tr><tr><td rowspan="6"></td><td><b>K14 = 1</b></td><td>pro f =&lt; 14,8 GHz</td></tr><tr><td><b>K14 = 0,8</b></td><td>pro 14,8 GHz&lt; f =&lt; 21,2 GHz</td></tr><tr><td><b>K14 = 0,4</b></td><td>pro 21,2 GHz &lt; f =&lt; 24,45 GHz</td></tr><tr><td><b>K14 = 0,2</b></td><td>pro 24,45 GHz &lt; f =&lt; 31 GHz</td></tr><tr><td><b>K14 = 0,1</b></td><td>pro 31 GHz &lt; f =&lt; 86 GHz</td></tr><tr><td><b>K14 = 0,05</b></td><td>pro f &gt; 86GHz</td></tr></tbody></table>
+
+E. OSTATNÍ RADIOKOMUNIKAČNÍ SLUŽBY
+
+Kč ročně dle výpočtu
+
+E. 1. Letecká pohyblivá služba a námořní pohyblivá služba
+
+Výpočet:
+
+C=S6×K14
+
+kde je
+
+**C** Poplatek za využívání jednoho rádiového kmitočtu
+
+**S6** Sazba za využívání rádiového kmitočtu jednou leteckou stanicí nebo letadlovou stanicí, popřípadě jednou pobřežní stanicí nebo lodní stanicí
+
+**S6 = 1 200 Kč**
+
+**K14** Koeficient výstupního výkonu Q použitého zařízení:
+
+| **K14 = 1** | Q ≤ 14 dBW (25W) |
+|---|---|
+| **K14 = 2** | 14 dBW (25W) &lt; Q ≤ 20 dBW (100W) |
+| **K14 = 4** | 20 dBW (100W) &lt; Q ≤ 27 dBW (500W) |
+| **K14 = 8** | Q &gt; 27 dBW (500W) |
+
+Poznámka:
+
+a) použitým zařízením u lodních a letadlových stanic pro účely vyměření poplatků se rozumí jen hlavní vysílač. K jiným vysílacím zařízením, která jsou součástí letadlové nebo lodní stanice, se nepřihlíží. Jsou-li na palubě letadla nebo lodi jen vysílací rádiová zařízení zabezpečovací služby, poplatky se vyměří z nich,
+
+b) využíváním rádiového kmitočtu u lodních a letadlových stanic se rozumí oprávnění využívat všechny rádiové kmitočty vyhrazené těmto službám mezinárodními smlouvami, kterými je Česká republika vázána,
+
+c) podle kategorie E. 1 se rovněž vyměřují poplatky za využívání rádiových kmitočtů stanicemi radiotelefonní služby na vnitrozemských vodních cestách.
+
+E.2. Radiolokační služba
+
+Kč ročně
+
+**Poplatek za využívání jednoho rádiového kmitočtu jedním radiolokačním zařízením pro účely:**
+
+| primární radiolokace (PSR) | 50000 Kč |
+|---|---|
+| sekundární radiolokace (SSR) | 50000 Kč |
+| meteorologie v pásmech do 5,85 GHz včetně (pro výkon &gt;= 100 kW) | 30000 Kč |
+| meteorologie v pásmech do 5,85 GHz včetně (pro výkon &lt; 100 kW) | 6000 Kč |
+| meteorologie v pásmech nad 5,85 GHz a pod 30 GHz včetně | 10000 Kč |
+| meteorologie nad 30 GHz | 6000 Kč |
+| vývoje a testování radiolokačních zařízení | 6000 Kč |
+| ostatní radiolokace | 6000 Kč |
+
+Poznámka č. 1:
+
+V případě použití více polarizací je zpoplatněn každý případ dílčí polarizace.
+
+Poznámka č. 2:
+
+V případě kmitočtově skákajícího radiolokačního zařízení se zpoplatní takový počet rádiových kmitočtů, který je využíván v jednom okamžiku.
+
+E. 3. Radionavigační služba
+
+| | Kč ročně |
+|---|---|
+| Poplatek za využívání jednoho rádiového kmitočtu: | |
+| Radionavigačním zařízením | 6 000 Kč |
+
+E. 4. Služba družicového průzkumu Země, kosmického výzkumu a radioastronomická radiokomunikační služba.
+
+| | Kč ročně |
+|---|---|
+| Poplatek za využívání jednoho rádiového kmitočtu, u kterého je požadována ochrana proti rušení, pro: | |
+| Jednotlivou lokalitu | 1 200 Kč |
+| Celé území České republiky | 6 000 Kč |
+
+Položka 2
+
+#### POPLATKY ZA VYUŽÍVÁNÍ ČÍSEL
+
+<table><tbody><tr><th></th><th></th><th>Kč ročně </th></tr><tr><td>A. </td><td>Poplatek za kód volby a předvolby operátora, zkrácené telefonní číslo, telefonní číslo s kódem číslovací oblasti TC </td><td></td></tr><tr><td rowspan="3">A.1. </td><td>Poplatek za kód volby a předvolby operátora </td><td></td></tr><tr><td>a) čtyřmístný </td><td>100 000 </td></tr><tr><td>b) pětimístný </td><td>50 000 </td></tr><tr><td rowspan="6">A.2. </td><td>Poplatek za zkrácené telefonní číslo </td><td></td></tr><tr><td>a) třímístné </td><td>100 000 </td></tr><tr><td>b) čtyřmístné </td><td>80 000 </td></tr><tr><td>c) pětimístné </td><td>40 000 </td></tr><tr><td>d) šestimístné </td><td>25 000 </td></tr><tr><td>e) 116 000 až 116 999 </td><td>1 000 </td></tr><tr><td>A.3. </td><td>Poplatek za telefonní číslo s kódem číslovací oblasti TC </td><td>1 </td></tr><tr><td>B. </td><td colspan="2">Poplatky za telefonní číslo s přístupovým kódem DNe k síti elektronických komunikací</td></tr><tr><td>B.1.</td><td>Poplatek za telefonní číslo s přístupovým kódem DNe = 601 až 608 a DNe = 72, 73, 77</td><td>1</td></tr><tr><td>B.2. </td><td>Poplatek za telefonní číslo s přístupovým kódem DNe = 61</td><td>1</td></tr><tr><td>B.3. </td><td>Poplatek za telefonní číslo s přístupovým kódem DNe = 7900 až 7999</td><td>1</td></tr><tr><td>B.4. </td><td>Poplatek za telefonní číslo s přístupovým kódem DNe = 700</td><td>100</td></tr><tr><td>B.5. </td><td>Poplatek za telefonní číslo s přístupovým kódem DNe = 702 až 705</td><td>1</td></tr><tr><td>B.6. </td><td>Poplatek za telefonní číslo s přístupovým kódem DNe = 910</td><td>1</td></tr><tr><td>B.7. </td><td>Poplatek za telefonní číslo s přístupovým kódem DNe = 971</td><td>1 000</td></tr><tr><td></td><td>Poplatek za telefonní číslo s přístupovým kódem DNe = 971 symetrické nebo lehce zapamatovatelné</td><td>2 000</td></tr><tr><td>B.8. </td><td>Poplatek za telefonní číslo s přístupovým kódem DNe = 976</td><td>30 000</td></tr><tr><td>C.</td><td colspan="2">Poplatky za telefonní číslo s přístupovým kódem SAC ke službě elektronických komunikací</td></tr><tr><td rowspan="2">C.1.</td><td>Poplatek za telefonní číslo s přístupovým kódem SAC = 800</td><td>800</td></tr><tr><td>Poplatek za telefonní číslo s přístupovým kódem SAC = 800 symetrické nebo lehce zapamatovatelné</td><td>2 000</td></tr><tr><td rowspan="2">C.2.</td><td>Poplatek za telefonní číslo s přístupovým kódem SAC = 810 až 819, 830 až 839 a 843 až 846</td><td>800</td></tr><tr><td>Poplatek za telefonní číslo s přístupovým kódem SAC = 810 až 819, 830 až 839 a 843 až 846 symetrické nebo lehce zapamatovatelné</td><td>2 000</td></tr><tr><td rowspan="2">C.3.</td><td>Poplatek za telefonní číslo s přístupovým kódem SAC = 820 až 829</td><td>800</td></tr><tr><td>Poplatek za telefonní číslo s přístupovým kódem SAC = 820 až 829 symetrické nebo lehce zapamatovatelné</td><td>2 000</td></tr><tr><td rowspan="2">C.4.</td><td>Poplatek za telefonní číslo s přístupovým kódem SAC = 840 až 842 a 847 až 849</td><td>800</td></tr><tr><td>Poplatek za telefonní číslo s přístupovým kódem SAC = 840 až 842 a 847 až 849 symetrické nebo lehce zapamatovatelné</td><td>2 000</td></tr><tr><td>C.5.</td><td>Poplatek za telefonní číslo s přístupovým kódem SAC = 900, 905, 906, 908 a 909</td><td>30 000</td></tr><tr><td>D. </td><td>Poplatek za směrovací kód, včetně přístupového čísla UPTAN </td><td>5 000 </td></tr><tr><td>E. </td><td>Poplatek za směrovací kód k celostátní záznamníkové službě a ke službě předávání zpráv </td><td>10 000 </td></tr><tr><td>F. </td><td>Poplatek za přístupové kódy k neveřejným komunikačním sítím </td><td></td></tr><tr><td rowspan="4">F.1. </td><td>Poplatek za přístupový kód k neveřejným komunikačním sítím </td><td></td></tr><tr><td>a) třímístný </td><td>150 000 </td></tr><tr><td>b) čtyřmístný </td><td>15 000 </td></tr><tr><td>c) pětimístný</td><td>1 500 </td></tr><tr><td>F.2. </td><td>Poplatek za přístupový kód k neveřejným virtuálním komunikačním sítím</td><td></td></tr><tr><td></td><td>a) třímístný</td><td>150 000 </td></tr><tr><td></td><td>b) čtyřmístný</td><td>15 000 </td></tr><tr><td></td><td>c) pětimístný</td><td>1 500 </td></tr><tr><td>G. </td><td>Poplatek za kód veřejné mobilní telefonní sítě MNC </td><td>50 000 </td></tr><tr><td>H. </td><td>Poplatek za identifikační kód veřejné datové sítě DNIC Kč ročně podle výpočtu Výpočet:<br> C = n × 10 000,- Kč<br> kde je<br> C - poplatek za využívání jednoho identifikačního kódu veřejné datové sítě DNIC,<br> n - počet využívaných hodnot B číslic síťového koncového datového čísla. </td><td></td></tr><tr><td>J. </td><td>Poplatek za identifikační číslo sítě a ústředny </td><td></td></tr><tr><td>J.1. </td><td>Poplatek za identifikační číslo ústředny ExID </td><td>50 </td></tr><tr><td>J.2. </td><td>Poplatek za identifikační číslo sítě OpID </td><td>10 000 </td></tr><tr><td>K. </td><td>Poplatek za kód signalizačního bodu signalizační sítě se signalizačním systémem č. 7 </td><td></td></tr><tr><td>K.1. </td><td>Poplatek za kód signalizačního bodu přechodové signalizační sítě </td><td>10 000 </td></tr><tr><td>K.2. </td><td>Poplatek za kód mezinárodního signalizačního bodu</td><td>100 000 </td></tr><tr><td>L. </td><td>Poplatek za identifikátor vydavatele karty </td><td>50 000 </td></tr><tr><td>M. </td><td>Poplatek za jméno ADMD mnemotechnické adresy </td><td>100 000 </td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) § 3 nařízení vlády č. 161/2008 Sb., o technickém plánu přechodu zemského analogového televizního vysílání na zemské digitální televizní vysílání (nařízení vlády o technickém plánu přechodu).
+
+<sup>2</sup>) Nařízení vlády č. 161/2008 Sb.
+
+<sup>3</sup>) § 2 písm. a) nařízení vlády č. 161/2008 Sb.

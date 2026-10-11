@@ -1,0 +1,113 @@
+---
+title: "Vyhláška č. 146/2005 Sb., o vyhlášení Národní přírodní památky Kalendář věků, stanovení jejích bližších ochranných podmínek a jejího ochranného pásma"
+identifier: "146/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/146/2005-05-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-04-11
+effective: 2005-05-15
+last_amended: 2005-05-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/146"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 146/2005 Sb., o vyhlášení Národní přírodní památky Kalendář věků, stanovení jejích bližších ochranných podmínek a jejího ochranného pásma
+
+146
+
+VYHLÁŠKA
+
+ze dne 11. dubna 2005
+
+o vyhlášení Národní přírodní památky Kalendář věků, stanovení jejích bližších ochranných podmínek a jejího ochranného pásma
+
+Ministerstvo životního prostředí stanoví podle § 79 odst. 3 písm. b) a § 37 odst. 1 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb., (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+(1) Vyhlašuje se Národní přírodní památka Kalendář věků (dále jen „národní přírodní památka“).
+
+(2) Předmětem ochrany je stratotyp svrchního pleistocénu ve facii suchých spraší odkrytý v profilu na severním úpatí Pavlovských vrchů.
+
+## § 2 – Vymezení národní přírodní památky
+
+Národní přírodní památka se rozkládá v katastrálním území Dolní Věstonice. Hranice národní přírodní památky se stanoví uzavřeným geometrickým obrazcem s přímými stranami, jehož vrcholy jsou určeny souřadnicemi udanými v souřadnicovém systému S-JTSK<sup>1</sup>). Seznam souřadnic uzavřeného geometrického obrazce a jeho jednotlivých vrcholů uspořádaných tak, jak jdou v obrazci za sebou, jsou obsaženy v příloze č. 1 k této vyhlášce. Orientační grafické znázornění území národní přírodní památky je obsaženo v příloze č. 3 k této vyhlášce.
+
+## § 3 – Bližší ochranné podmínky pro národní přírodní památku
+
+Jen se souhlasem příslušného orgánu ochrany přírody [§ 44 odst. 2 a § 79 odst. 3 písm. g) zákona] lze v národní přírodní památce:
+
+a) provádět změny druhu pozemků nebo způsobu jejich využití<sup>2</sup>),
+
+b) ukládat jakékoliv materiály.
+
+## § 4 – Ochranné pásmo
+
+Ochranné pásmo národní přírodní památky se rozkládá v katastrálním území Dolní Věstonice. Hranice ochranného pásma národní přírodní památky je uzavřeným geometrickým obrazcem s přímými stranami, jehož vrcholy jsou určeny souřadnicemi udanými v platném souřadnicovém systému S-JTSK<sup>1</sup>). Seznam souřadnic geometrického obrazce a jeho jednotlivých vrcholů uspořádaných tak, jak jdou v obrazci za sebou, jsou obsaženy v příloze č. 2 k této vyhlášce. Orientační grafické znázornění území ochranného pásma národní přírodní památky je obsaženo v příloze č. 3 k této vyhlášce.
+
+## § 5
+
+Tato vyhláška nabývá účinnosti dnem 15. května 2005.
+
+Ministr:
+
+RNDr. Ambrozek v. r.
+
+### Příloha č. 1 k vyhlášce č. 146/2005 Sb.
+
+#### Seznam souřadnic (S-JTSK) jednotlivých vrcholů geometrického obrazce, kterým jsou stanoveny hranice Národní přírodní památky Kalendář věků
+
+| číslo bodu | Souřadnice - Y [m] | souřadnice - X [m] | pořadí bodu v obrazci |
+|---|---|---|---|
+| 017003250046 | 598495.61 | 1195178.95 | 1 |
+| 017003250156 | 598481.38 | 1195201.28 | 2 |
+| 017003250160 | 598476.09 | 1195219.48 | 3 |
+| 017003250161 | 598480.61 | 1195232.96 | 4 |
+| 017003250202 | 598497.28 | 1195242.07 | 5 |
+| 017003250221 | 598509.11 | 1195219.68 | 6 |
+| 017003250222 | 598517.83 | 1195210.25 | 7 |
+| 017003250001 | 598521.43 | 1195195.70 | 8 |
+| 017003250003 | 598528.71 | 1195214.82 | 9 |
+| 017003250151 | 598555.36 | 1195221.77 | 10 |
+| 017003250038 | 598554.02 | 1195243.80 | 11 |
+| 017003250082 | 598550.09 | 1195252.92 | 12 |
+| 017003250150 | 598526.82 | 1195267.62 | 13 |
+| 017003250149 | 598511.44 | 1195277.04 | 14 |
+| 017003250281 | 598493.10 | 1195266.66 | 15 |
+| 017003250147 | 598469.44 | 1195260.94 | 16 |
+| 017003250153 | 598467.81 | 1195256.40 | 17 |
+| 017003250139 | 598456.47 | 1195224.70 | 18 |
+| 017003250136 | 598456.94 | 1195211.12 | 19 |
+| 017003250227 | 598467.28 | 1195193.67 | 20 |
+| 017003250228 | 598469.17 | 1195199.49 | 21 |
+
+### Příloha č. 2 k vyhlášce č. 146/2005 Sb.
+
+#### Seznam souřadnic (S-JTSK) jednotlivých vrcholů geometrického obrazce, kterým jsou stanoveny hranice ochranného pásma Národní přírodní památky Kalendář věků
+
+| číslo bodu | souřadnice - Y [m] | souřadnice - X [m] | pořadí bodu v obrazci |
+|---|---|---|---|
+| 017003250227 | 598467.28 | 1195193.67 | 1 |
+| 017003250116 | 598425.91 | 1195218.22 | 2 |
+| 017003250117 | 598432.03 | 1195238.50 | 3 |
+| 017003250118 | 598426.29 | 1195257.63 | 4 |
+| 017003250052 | 598431.88 | 1195255.46 | 5 |
+| 017003250119 | 598445.04 | 1195250.36 | 6 |
+| 017003250120 | 598447.72 | 1195262.99 | 7 |
+| 017003250153 | 598467.81 | 1195256.40 | 8 |
+| 017003250139 | 598456.47 | 1195224.70 | 9 |
+| 017003250136 | 598456.94 | 1195211.12 | 10 |
+
+### Příloha č. 3 k vyhlášce č. 146/2005 Sb.
+
+#### Orientační grafické znázornění Národní přírodní památky Kalendář věků
+
+#### ![sbcr2005c053z0146p003o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834283/NAHLED/ZOBRAZ/sbcr2005c053z0146p003o001)
+
+---
+
+<sup>1</sup>) Nařízení vlády č. 116/1995 Sb., kterým se stanoví geodetické referenční systémy, státní mapová díla závazná na celém území státu a zásady jejich používání.
+
+<sup>2</sup>) Například § 32 zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění zákona č. 83/1998 Sb., § 2 odst. 3 a 6 zákona č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 86/1996 Sb. a zákona č. 120/2000 Sb., § 3 odst. 3 vyhlášky č. 190/1996 Sb., kterou se provádí zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění zákona č. 210/1993 Sb. a zákona č. 90/1996 Sb., a zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb., ve znění vyhlášky č. 179/1998 Sb., vyhlášky č. 113/2000 Sb. a vyhlášky č. 163/2001 Sb.

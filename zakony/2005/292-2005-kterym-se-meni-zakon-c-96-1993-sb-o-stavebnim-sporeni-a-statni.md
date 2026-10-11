@@ -1,0 +1,50 @@
+---
+title: "Zákon č. 292/2005 Sb., kterým se mění zákon č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění zákona České národní rady č. 35/1993 Sb., ve znění pozdějších předpisů"
+identifier: "292/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/292/2005-10-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2005-06-16
+effective: 2005-10-01
+last_amended: 2005-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/292"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 292/2005 Sb., kterým se mění zákon č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění zákona České národní rady č. 35/1993 Sb., ve znění pozdějších předpisů
+
+292
+
+ZÁKON
+
+ze dne 16. června 2005,
+
+kterým se mění zákon č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění zákona České národní rady č. 35/1993 Sb., ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění zákona České národní rady č. 35/1993 Sb., ve znění zákona č. 83/1995 Sb. a zákona č. 423/2003 Sb., se mění takto:
+
+1\. V § 5 se doplňuje odstavec 11, který zní:
+
+> „(11) Smlouva musí obsahovat do ukončení doby spoření, nejdéle po dobu 6 let ode dne jejího uzavření, výši úplaty nebo způsob stanovení výše úplaty za vedení účtu stavebního spoření, zřízeného a vedeného k přijímání vkladu účastníka, a za služby nezbytně související s vedením tohoto účtu, přičemž způsob stanovení výše úplaty nesmí být závislý jen na vůli stavební spořitelny. Nezbytně souvisejícími službami s vedením účtu podle věty první jsou takové služby, jejichž poskytování ukládá stavební spořitelně obecně závazný právní předpis, nebo takové služby, jejichž poskytnutí nemůže účastník, který řádně plní závazky ze smlouvy, odmítnout bez toho, aby to pro něj mělo nepříznivý následek znamenající ztrátu nároku na státní podporu.“.
+
+2\. V § 11 odst. 2 se doplňuje věta, která zní: „Úroky ze zálohy státní podpory náleží účastníkovi ode dne následujícího po dni, kdy stavební spořitelna obdrží zálohu od ministerstva.“.
+
+## Čl. II – Přechodné ustanovení
+
+Opatření podle § 11 odst. 2 se vztahují na všechny účastníky stavebního spoření bez ohledu na datum uzavření smlouvy.
+
+## Čl. III – Účinnost
+
+Tento zákon nabývá účinnosti prvním dnem třetího měsíce následujícího po dni jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Paroubek v. r.

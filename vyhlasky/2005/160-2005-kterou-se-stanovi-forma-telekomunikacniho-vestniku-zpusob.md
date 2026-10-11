@@ -1,0 +1,80 @@
+---
+title: "Vyhláška č. 160/2005 Sb., kterou se stanoví forma Telekomunikačního věstníku, způsob uveřejňování údajů a způsob jejich předávání k uveřejnění"
+identifier: "160/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/160/2005-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-04-19
+effective: 2005-05-01
+last_amended: 2005-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/160"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 160/2005 Sb., kterou se stanoví forma Telekomunikačního věstníku, způsob uveřejňování údajů a způsob jejich předávání k uveřejnění
+
+160
+
+VYHLÁŠKA
+
+ze dne 19. dubna 2005,
+
+kterou se stanoví forma Telekomunikačního věstníku, způsob uveřejňování údajů a způsob jejich předávání k uveřejnění
+
+Ministerstvo informatiky stanoví podle § 150 odst. 2 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), k provedení § 126 odst. 3 zákona o elektronických komunikacích:
+
+## § 1
+
+V Telekomunikačním věstníku (dále jen „Věstník“) uveřejňuje Český telekomunikační úřad údaje a informace v případech, ve kterých to stanoví zákon o elektronických komunikacích.
+
+## § 2 – Forma Věstníku
+
+(1) Záhlaví každé částky Věstníku obsahuje
+
+a) název „Telekomunikační věstník“,
+
+b) datum vydání na portálu veřejné správy<sup>1</sup>),
+
+c) slovo „Ročník“ doplněné kalendářním rokem, v němž je částka vydána,
+
+d) slovo „Částka“ doplněné pořadovým číslem v kalendářním roce a
+
+e) název a ochrannou známku Českého telekomunikačního úřadu.
+
+(2) Číslování částek Věstníku a číslování stran Věstníku se provádí ve dvou samostatných souvislých řadách od počátku kalendářního roku. Číslování částek a číslování stran Věstníku se uzavírá koncem každého kalendářního roku.
+
+(3) Rozsáhlou přílohu je možno uveřejnit v samostatné příloze částky Věstníku, vydané současně s příslušnou částkou, v níž je uveřejňován text, o jehož přílohu se jedná. Strany přílohy se číslují v souvislé řadě navazující na číslování stran částky, jíž je přílohou.
+
+## § 3
+
+Z hlediska požadavků zvláštních právních předpisů je rozhodný obsah uveřejněných údajů a informací na portálu veřejné správy a den, kdy byly údaje nebo informace na tomto portálu uveřejněny.
+
+## § 4 – Způsob předávání údajů k uveřejnění na portálu veřejné správy
+
+(1) Podkladem pro uveřejnění ve Věstníku jsou originály nebo úředně ověřené kopie písemností obsahující údaje nebo informace, které se mají uveřejnit. Tyto údaje nebo informace mohou být Českému telekomunikačnímu úřadu (dále jen „Úřad“) zasílány
+
+a) v listinné a současně elektronické podobě, nebo
+
+b) elektronickými prostředky, je-li k nim připojen zaručený elektronický podpis žadatele o uveřejnění založený na kvalifikovaném certifikátu vydaném akreditovaným poskytovatelem certifikačních služeb podle zvláštního právního předpisu<sup>2</sup>).
+
+Za obsahovou správnost podkladů pro uveřejnění odpovídá žadatel o uveřejnění.
+
+(2) Věstník zpracovaný Úřadem ve formě podle § 2 zasílá Úřad provozovateli portálu veřejné správy k uveřejnění v elektronické podobě podepsaný zaručeným elektronickým podpisem oprávněné osoby založeným na kvalifikovaném certifikátu vydaným akreditovaným poskytovatelem certifikačních služeb podle zvláštního právního předpisu<sup>2</sup>). Za správnost zpracování Věstníku odpovídá Úřad.
+
+(3) Za soulad Úřadem zaslaného Věstníku a uveřejněného Věstníku odpovídá provozovatel portálu veřejné správy.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. května 2005.
+
+Ministr:
+
+Mlynář v. r.
+
+---
+
+<sup>1</sup>) § 2 písm. r) a § 4 odst. 1 písm. i) zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Zákon č. 227/2000 Sb., o elektronickém podpisu, ve znění pozdějších předpisů.

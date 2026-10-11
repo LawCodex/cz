@@ -1,0 +1,105 @@
+---
+title: "Zákon č. 206/2005 Sb., o ochraně některých služeb v oblasti rozhlasového a televizního vysílání a služeb informační společnosti"
+identifier: "206/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/206/2017-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2005-05-03
+effective: 2005-06-01
+last_amended: 2017-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/206"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 206/2005 Sb., o ochraně některých služeb v oblasti rozhlasového a televizního vysílání a služeb informační společnosti ve znění zákona č. 281/2009 Sb. a zákona č. 183/2017 Sb."
+---
+
+# Zákon č. 206/2005 Sb., o ochraně některých služeb v oblasti rozhlasového a televizního vysílání a služeb informační společnosti
+
+206
+
+ZÁKON
+
+ze dne 3. května 2005
+
+o ochraně některých služeb v oblasti rozhlasového a televizního vysílání a služeb informační společnosti
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1 – Předmět úpravy
+
+Tento zákon upravuje v souladu s právem Evropských společenství<sup>1</sup>) ochranu některých služeb v oblasti rozhlasového a televizního vysílání a služeb informační společnosti.
+
+## § 2
+
+Pro účely tohoto zákona se rozumí:
+
+a) chráněnou službou kterákoliv z následujících služeb poskytovaná za úplatu a na základě podmíněného přístupu:
+
+– rozhlasové a televizní vysílání<sup>2</sup>),
+
+– služba informační společnosti<sup>3</sup>)
+
+nebo poskytování podmíněného přístupu k výše uvedeným službám, pokud je poskytován jako samostatná služba,
+
+b) podmíněným přístupem jakékoliv technické opatření nebo ujednání, případně technické opatření a ujednání, zajišťující přístup k chráněné službě ve srozumitelné formě, podmíněný předplatným nebo jinou formou předchozího individuálního oprávnění,
+
+c) zařízením podmíněného přístupu jakékoliv zařízení nebo program navržené nebo převzaté za účelem umožnění přístupu k chráněné službě ve srozumitelné formě,
+
+d) přiřazenou službou instalace, údržba nebo výměna zařízení podmíněného přístupu, jakož i poskytování obchodních sdělení<sup>3</sup>) ve vztahu k přiřazeným službám nebo k chráněným službám,
+
+e) nedovoleným zařízením jakékoliv zařízení nebo program navržené nebo převzaté za účelem umožnění přístupu k chráněné službě ve srozumitelné formě bez souhlasu poskytovatele chráněné služby.
+
+## § 3
+
+(1) Je zakázáno
+
+a) pro obchodní účely vyrábět, dovážet, šířit, prodávat, pronajímat nebo přechovávat nedovolená zařízení,
+
+b) pro obchodní účely provádět instalaci, údržbu nebo náhradu nedovolených zařízení,
+
+c) přímo nebo nepřímo propagovat jakýmkoliv způsobem nedovolená zařízení.
+
+(2) Aniž by byla dotčena ustanovení § 3 odst. 1, nelze omezovat
+
+a) poskytování chráněných služeb nebo přiřazených služeb, jejichž zemí původu není Česká republika,
+
+b) volný pohyb zařízení podmíněného přístupu.
+
+**Přestupky**
+
+## § 4
+
+(1) Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+
+a) pro obchodní účely vyrábí, dováží, šíří, prodává, pronajímá nebo přechovává nedovolená zařízení,
+
+b) pro obchodní účely provádí instalaci, údržbu nebo náhradu nedovolených zařízení,
+
+c) přímo nebo nepřímo propaguje jakýmkoliv způsobem nedovolená zařízení.
+
+(2) Za přestupek podle odstavce 1 písm. a) lze uložit pokutu do 2 000 000 Kč a za přestupek podle odstavce 1 písm. b) a c) lze uložit pokutu do 500 000 Kč.
+
+## § 6
+
+(1) Přestupky podle tohoto zákona projednává Český telekomunikační úřad.
+
+(2) Pokuty vybírá a vymáhá Český telekomunikační úřad.
+
+## § 7 – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. června 2005.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Paroubek v. r.
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady ze dne 20. listopadu 1998 č. 98/84/ES o právní ochraně služeb s podmíněným přístupem a služeb tvořených podmíněným přístupem.
+
+<sup>2</sup>) Zákon č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání a o změně dalších zákonů, ve znění pozdějších předpisů.
+
+<sup>3</sup>) Zákon č. 480/2004 Sb., o některých službách informační společnosti a o změně dalších zákonů (zákon o některých službách informační společnosti).

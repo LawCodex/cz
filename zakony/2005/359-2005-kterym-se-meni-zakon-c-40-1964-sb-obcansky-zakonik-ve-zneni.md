@@ -1,0 +1,51 @@
+---
+title: "Zákon č. 359/2005 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a některé související zákony"
+identifier: "359/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/359/2026-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2005-08-19
+effective: 2005-10-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/359"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 359/2005 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a některé související zákony ve znění zákona č. 89/2012 Sb. a zákona č. 90/2024 Sb."
+---
+
+# Zákon č. 359/2005 Sb., kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a některé související zákony
+
+359
+
+ZÁKON
+
+ze dne 19. srpna 2005,
+
+kterým se mění zákon č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů, a některé související zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST ČTVRTÁ – Změna zákona o majetku České republiky a jejím vystupování v právních vztazích
+
+### Čl. IV
+
+V § 11 zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 202/2002 Sb. a zákona č. 354/2003 Sb., se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno g), které včetně poznámky pod čarou č. 14a zní:
+
+> „g) s nalezenými střelnými zbraněmi, střelivem, municí a výbušninami, které se staly majetkem státu podle zvláštního právního předpisu<sup>14a</sup>), přísluší Ministerstvu vnitra.
+
+> <sup>14a</sup>) § 68 odst. 3 zákona č. 119/2002 Sb., o střelných zbraních a střelivu a o změně zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, (zákon o zbraních), ve znění pozdějších předpisů.“.
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### Čl. V
+
+Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Paroubek v. r.
+
+---

@@ -1,0 +1,74 @@
+---
+title: "Nařízení vlády č. 465/2005 Sb., vydané na základě zmocnění uvedeného v zákoně o podpoře výstavby družstevních bytů"
+identifier: "465/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/465/2006-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2005-11-09
+effective: 2006-01-01
+last_amended: 2006-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/465"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 465/2005 Sb., vydané na základě zmocnění uvedeného v zákoně o podpoře výstavby družstevních bytů
+
+465
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 9. listopadu 2005
+
+vydané na základě zmocnění uvedeného v zákoně o podpoře výstavby družstevních bytů
+
+Vláda nařizuje podle § 3 odst. 2 zákona č. 378/2005 Sb., o podpoře výstavby družstevních bytů ze Státního fondu rozvoje bydlení, a o změně zákona č. 190/2004 Sb., o dluhopisech, (zákon o podpoře výstavby družstevních bytů):
+
+## § 1
+
+Toto nařízení stanoví v návaznosti na přímo použitelný předpis Evropských společenství upravující podporu malého rozsahu<sup>1</sup>)
+
+a) finanční částky, které se použijí pro výpočet dotace a úvěru poskytovaných jako podpora ze Státního fondu rozvoje bydlení,
+
+b) postup a podrobnosti při výpočtu nejvyšší přípustné výše podpory,
+
+c) postup a podrobnosti při splácení úvěru.
+
+## § 2
+
+(1) Pro výpočet výše dotace podle § 3 odst. 3 zákona o podpoře výstavby družstevních bytů činí finanční částka 100 000 Kč na 1 byt.
+
+(2) Pro výpočet výše úvěru podle § 3 odst. 4 zákona o podpoře výstavby družstevních bytů činí finanční částka nejvýše 700 000 Kč na 1 byt.
+
+## § 3
+
+Pro hodnocení souladu podpory s přímo použitelným předpisem Evropských společenství upravujícím podporu malého rozsahu<sup>1</sup>) se výše podpory na výstavbu družstevních bytů poskytnuté bytovému družstvu stanoví jako součet dotace a hrubého ekvivalentu, kterým je současná hodnota úspor vyplývajících ze zvýhodněného úvěru<sup>2</sup>).
+
+## § 4
+
+(1) Úvěr je splatný do 20 let ode dne, kdy bylo započato s jeho čerpáním.
+
+(2) Úvěr splácí bytové družstvo pravidelnými měsíčními splátkami zahrnujícími splátku jistiny a úrok, není-li dále stanoveno jinak. První splátka je splatná nejpozději 90 dnů od skončení čerpání úvěru, přičemž úvěr lze čerpat nejpozději do 3 let od uzavření smlouvy o poskytnutí podpory. Bytové družstvo může kdykoliv zaplatit mimořádnou splátku a splatit úvěr předčasně.
+
+(3) Vyčerpané prostředky úvěru se úročí úrokovou sazbou 3 % ročně. Úročení vyčerpané části úvěru začíná dnem zahájení jeho čerpání.
+
+(4) Úvěr splácí bytové družstvo na účet Státního fondu rozvoje bydlení uvedený ve smlouvě o poskytnutí podpory.
+
+## § 5
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2006.
+
+Předseda vlády:
+
+Ing. Paroubek v. r.
+
+Ministr pro místní rozvoj:
+
+Mgr. Martínek v. r.
+
+---
+
+<sup>1</sup>) Nařízení Komise (ES) č. 69/2001 ze dne 12. ledna 2001 o použití článků 87 a 88 Smlouvy o ES na podporu de minimis.
+
+<sup>2</sup>) Čl. 2 odst. 3 nařízení Komise (ES) č. 69/2001 ze dne 12. ledna 2001 o použití článků 87 a 88 Smlouvy o ES na podporu de minimis.

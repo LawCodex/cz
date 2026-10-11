@@ -1,0 +1,481 @@
+---
+title: "Vyhláška č. 317/2005 Sb., o dalším vzdělávání pedagogických pracovníků, akreditační komisi a kariérním systému pedagogických pracovníků"
+identifier: "317/2005 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2005/317/2026-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2005-07-27
+effective: 2005-09-01
+last_amended: 2026-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2005/317"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 317/2005 Sb., o dalším vzdělávání pedagogických pracovníků, akreditační komisi a kariérním systému pedagogických pracovníků ve znění vyhlášky č. 412/2006 Sb., vyhlášky č. 329/2013 Sb., vyhlášky č. 272/2014 Sb., vyhlášky č. 291/2023 Sb., vyhlášky č. 306/2025 Sb. a vyhlášky č. 533/2025 Sb."
+---
+
+# Vyhláška č. 317/2005 Sb., o dalším vzdělávání pedagogických pracovníků, akreditační komisi a kariérním systému pedagogických pracovníků
+
+317
+
+VYHLÁŠKA
+
+ze dne 27. července 2005
+
+o dalším vzdělávání pedagogických pracovníků, akreditační komisi a kariérním systému pedagogických pracovníků
+
+Ministerstvo školství, mládeže a tělovýchovy (dále jen „ministerstvo“) stanoví podle § 24 odst. 6, § 27 odst. 5, § 28 odst. 2, § 28a odst. 2 a § 29 odst. 5 zákona č. 563/2004 Sb., o pedagogických pracovnících a o změně některých zákonů, ve znění zákona č. 383/2005 Sb., zákona č. 159/2010 Sb., zákona č. 198/2012 Sb. a zákona č. 183/2023 Sb., a podle § 29 odst. 2 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění zákona č. 472/2011 Sb.:
+
+## ČÁST PRVNÍ – DRUHY DALŠÍHO VZDĚLÁVÁNÍ PEDAGOGICKÝCH PRACOVNÍKŮ
+
+### § 1 – Studium pedagogiky
+
+(1) Studium pedagogiky se uskutečňuje v délce trvání alespoň
+
+a) 300 vyučovacích hodin pro učitele druhého stupně základní školy a učitele střední školy,
+
+b) 120 vyučovacích hodin v ostatních případech.
+
+(2) Studium pedagogiky se ukončuje obhajobou závěrečné písemné práce a závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 2 – Zvláštní pravidla pro studium pedagogiky pro učitele druhého stupně základní školy a učitele střední školy
+
+(1) Účastník studia vede po dobu studia portfolio, které obsahuje
+
+a) písemné přípravy alespoň 5 vyučovacích hodin praxe,
+
+b) písemný rozbor průběhu a výsledku vyučovacích hodin uvedených v písmenu a) na základě reflexe s učitelem, který vedl praxi,
+
+c) písemné závěrečné hodnocení praxe účastníka studia učitelem, který vedl praxi, a
+
+d) další doklady, pokud jsou uvedeny v akreditaci vzdělávacího programu.
+
+(2) Povinnou součástí závěrečné ústní zkoušky nebo obhajoby závěrečné písemné práce je pohovor o portfoliu účastníka studia.
+
+(3) Alespoň 1 člen zkušební komise je odborníkem v oblasti školství, který se nepodílí na uskutečňování příslušného vzdělávacího programu.
+
+(4) Podmínkou uskutečňování studia v zařízení pro další vzdělávání pedagogických pracovníků je uzavření dohody o spolupráci s vysokou školou uskutečňující akreditované studijní programy zaměřené na přípravu učitelů, která obsahuje alespoň
+
+a) obsah a rozsah odborné a metodické podpory ze strany vysoké školy a
+
+b) způsob a rozsah zapojení zaměstnanců vysoké školy do uskutečňování studia v zařízení pro další vzdělávání pedagogických pracovníků.
+
+(5) Garantem vzdělávacího programu pro uskutečňování studia pedagogiky pro učitele druhého stupně základní školy a učitele střední školy může být osoba, která
+
+a) je profesorem, mimořádným profesorem nebo docentem pro obor
+
+1\. v oblasti pedagogiky, psychologie, didaktiky nebo oborové didaktiky, nebo
+
+2\. který charakterem odpovídá předmětu druhého stupně základní školy nebo všeobecně-vzdělávacímu předmětu střední školy, pokud v didaktice tohoto oboru po dobu 5 let přede dnem podání žádosti o akreditaci nebo prodloužení akreditace vzdělávacího programu vykonávala tvůrčí činnost, a
+
+b) získala praxi
+
+1\. v délce 3 let ve výkonu přímé pedagogické činnosti jako pedagogický pracovník s odbornou kvalifikací,
+
+2\. v délce 3 let při práci s dětmi a mládeží jako psycholog nebo speciální pedagog, nebo
+
+3\. v rozsahu 20 vyučovacích hodin ve výkonu přímé pedagogické činnosti ve škole nebo školském zařízení v době nejdéle 2 let přede dnem podání žádosti o akreditaci nebo prodloužení akreditace vzdělávacího programu.
+
+(6) Garantem vzdělávacího programu pro uskutečňování studia pedagogiky pro učitele druhého stupně základní školy a učitele střední školy může dále být osoba, která
+
+a) je absolventem doktorského studijního programu
+
+1\. v oblasti pedagogiky, psychologie, didaktiky nebo oborové didaktiky, nebo
+
+2\. v oboru, který charakterem odpovídá předmětu druhého stupně základní školy nebo všeobecně-vzdělávacímu předmětu střední školy, pokud v didaktice tohoto oboru po dobu 5 let přede dnem podání žádosti o akreditaci nebo prodloužení akreditace vzdělávacího programu vykonávala tvůrčí činnost, a
+
+b) získala praxi v délce 5 let
+
+1\. ve výkonu přímé pedagogické činnosti jako pedagogický pracovník s odbornou kvalifikací, nebo
+
+2\. při práci s dětmi a mládeží jako psycholog nebo speciální pedagog.
+
+(7) Lektorem vzdělávacího programu pro uskutečňování studia pedagogiky pro učitele druhého stupně základní školy a učitele střední školy může být osoba splňující předpoklady podle § 14 odst. 4, která
+
+a) získala praxi v délce 5 let
+
+1\. ve výkonu přímé pedagogické činnosti jako pedagogický pracovník s odbornou kvalifikací, nebo
+
+2\. při práci s dětmi a mládeží jako psycholog nebo speciální pedagog, nebo
+
+b) je studentem nebo absolventem doktorského studijního programu a která získala praxi
+
+1\. v délce 3 let ve výkonu přímé pedagogické činnosti jako pedagogický pracovník s odbornou kvalifikací,
+
+2\. v délce 3 let při práci s dětmi a mládeží jako psycholog nebo speciální pedagog, nebo
+
+3\. v rozsahu 20 vyučovacích hodin ve výkonu přímé pedagogické činnosti ve škole nebo školském zařízení v době nejdéle 2 let přede dnem podání žádosti o akreditaci nebo prodloužení akreditace vzdělávacího programu.
+
+### § 3 – Studium pro asistenty pedagoga, kteří vykonávají přímou pedagogickou činnost spočívající v pomocných výchovných pracích
+
+Studium pro asistenty pedagoga, kteří vykonávají přímou pedagogickou činnost spočívající v pomocných výchovných pracích, se uskutečňuje v délce trvání alespoň 120 vyučovacích hodin a ukončuje se závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 4 – Studium pro přípravu pedagogů volného času vykonávajících dílčí přímou pedagogickou činnost v zájmovém vzdělávání
+
+Studium pro přípravu pedagogů volného času vykonávajících dílčí přímou pedagogickou činnost v zájmovém vzdělávání se uskutečňuje v délce trvání alespoň 40 vyučovacích hodin a ukončuje se závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 5 – Studium pro ředitele škol a školských zařízení
+
+(1) Studiem pro ředitele škol a školských zařízení<sup>3</sup>) získává jeho absolvent znalosti a dovednosti v oblasti řízení vzdělávání a výchovy, vedení a řízení zaměstnanců, bezpečnosti a ochrany zdraví, komunikace a práce s digitálními technologiemi, které jsou kvalifikačním předpokladem pro výkon činnosti na pracovním místě ředitele školy nebo školského zařízení.
+
+(2) Studium pro ředitele škol a školských zařízení se uskutečňuje jako
+
+a) vstupní studium v délce trvání alespoň 100 vyučovacích hodin a
+
+b) následné studium v délce trvání alespoň 150 vyučovacích hodin.
+
+(3) Vstupní studium a následné studium uvedená v odstavci 2 se ukončují závěrečnou ústní zkouškou před zkušební komisí. Účastníkem následného studia se může stát pouze ten, kdo úspěšně absolvoval vstupní studium. Úspěšný absolvent následného studia se stává absolventem studia pro ředitele škol podle § 5 odst. 2 zákona o pedagogických pracovnících.
+
+(4) Vstupní studium nebo následné studium se akreditují jako samostatné vzdělávací programy.
+
+### § 6 – Studium k rozšíření odborné kvalifikace
+
+(1) Studium k rozšíření odborné kvalifikace se uskutečňuje v délce trvání alespoň
+
+a) 200 vyučovacích hodin pro získání způsobilosti vykonávat přímou pedagogickou činnost na jiném stupni nebo druhu školy,
+
+b) 250 vyučovacích hodin pro získání způsobilosti vyučovat další předměty nebo vykonávat speciálněpedagogickou, výchovnou a vzdělávací činnost ve školách a třídách zřízených pro děti, žáky a studenty se speciálními vzdělávacími potřebami,
+
+c) 350 vyučovacích hodin pro získání odborné kvalifikace speciálního pedagoga,
+
+d) 250 vyučovacích hodin pro získání odborné kvalifikace sociálního pedagoga,
+
+e) 150 vyučovacích hodin pro získání způsobilosti provádět speciálněpedagogické poradenství.
+
+(2) Studium k rozšíření odborné kvalifikace se ukončuje obhajobou závěrečné písemné práce a závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 6a – Studium pro přípravu školských logopedů
+
+Studium pro přípravu školských logopedů se uskutečňuje v délce trvání alespoň 350 vyučovacích hodin a ukončuje se obhajobou závěrečné písemné práce a závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 6b – Studium pro přípravu sociálních pedagogů
+
+Studium pro přípravu sociálních pedagogů se uskutečňuje v délce trvání alespoň 250 vyučovacích hodin a ukončuje se obhajobou závěrečné písemné práce a závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 6c – Doplňující didaktické studium příslušného cizího jazyka
+
+Doplňující didaktické studium příslušného cizího jazyka se uskutečňuje v délce trvání alespoň 60 vyučovacích hodin a ukončuje se závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 7 – Studium pro vedoucí pedagogické pracovníky
+
+(1) Studiem pro vedoucí pedagogické pracovníky podle § 5 odst. 3 zákona o pedagogických pracovnících získává jeho absolvent znalosti a dovednosti v oblasti řízení právnické osoby vykonávající činnost školy nebo školského zařízení, zejména znalosti teorie a praxe školského managementu, včetně vedení a řízení zaměstnanců, práva, ekonomiky, pedagogiky, psychologie, bezpečnosti a ochrany zdraví, komunikace a práce s digitálními technologiemi.
+
+(2) Studium pro vedoucí pedagogické pracovníky podle § 5 odst. 3 zákona o pedagogických pracovnících se uskutečňuje v rámci programu celoživotního vzdělávání na vysoké škole v délce trvání alespoň 350 vyučovacích hodin a ukončuje se obhajobou závěrečné písemné práce a závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 8 – Studium pro výchovné poradce
+
+(1) Studiem pro výchovné poradce získává jeho absolvent specializaci v základním oboru<sup>4</sup>) zaměřenou na oblast pedagogiky, speciální pedagogiky a psychologie. Tato specializace je předpokladem pro výkon specializované metodologické činnosti výchovného poradce.
+
+(2) Studium pro výchovné poradce se uskutečňuje v rámci programu celoživotního vzdělávání na vysoké škole nebo v zařízení pro další vzdělávání pedagogických pracovníků v délce trvání alespoň 250 vyučovacích hodin a ukončuje se obhajobou závěrečné písemné práce a závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 8a – Studium pro provázející učitele
+
+(1) Studium pro provázející učitele se uskutečňuje v rámci programu celoživotního vzdělávání na vysoké škole, na které se uskutečňují akreditované studijní programy zaměřené na přípravu učitelů nebo studium pedagogiky podle § 22 odst. 1 písm. a) zákona o pedagogických pracovnících, v zařízení pro další vzdělávání pedagogických pracovníků, které uskutečňuje studium pedagogiky podle § 22 odst. 1 písm. a) zákona o pedagogických pracovnících, a na vyšší odborné nebo střední škole s oborem vzdělání zaměřeným na přípravu učitelů jako
+
+a) vstupní vzdělávání v délce trvání 20 vyučovacích hodin a
+
+b) následné vzdělávání v délce trvání 45 vyučovacích hodin.
+
+(2) Vzdělávací instituce uvedená v odstavci 1 neprodleně vydá absolventovi vstupního vzdělávání potvrzení o absolvování vstupního vzdělávání s platností na dobu 3 let ode dne vydání. Absolvent vstupního vzdělávání, který neabsolvoval následné vzdělávání, se po dobu platnosti potvrzení podle věty první považuje za absolventa studia pro provázející učitele.
+
+(3) Následné vzdělávání může zahájit a ukončit pouze ten, kdo má v době zahájení a ukončení platné potvrzení o absolvování vstupního vzdělávání. Absolvováním následného vzdělávání se ukončuje studium pro provázející učitele.
+
+(4) Vstupní vzdělávání i následné vzdělávání se akreditují jako samostatné části téhož vzdělávacího programu. Účastník studia pro provázející učitele může následné vzdělávání absolvovat u jiné vzdělávací instituce, než u které absolvoval vstupní vzdělávání.
+
+(5) Alespoň jeden lektor vzdělávacího programu pro uskutečňování studia pro provázející učitele musí
+
+a) splňovat předpoklad odborné kvalifikace učitele podle zákona o pedagogických pracovnících a získat praxi v přímé pedagogické činnosti učitele v délce 5 let a
+
+b) být absolventem kurzu nebo kurzů v oblasti vedení lidí, mentoringu nebo psychoterapie v souhrnné délce trvání alespoň 80 vyučovacích hodin.
+
+(6) Podmínky podle odstavce 5 splní vzdělávací instituce také tak, že činnost lektora budou současně vykonávat dvě osoby, přičemž každá z nich splňuje jednu z podmínek.
+
+### § 9 – Studium k výkonu specializovaných činností
+
+(1) Studiem získává jeho absolvent další kvalifikační předpoklady pro výkon specializovaných činností, kterými jsou:
+
+a) koordinace v oblasti informačních a komunikačních technologií,
+
+b) tvorba a následná koordinace školních vzdělávacích programů a vzdělávacích programů vyšších odborných škol,
+
+c) prevence rizikového chování,
+
+d) specializovaná činnost v oblasti environmentální výchovy, nebo
+
+e) specializovaná činnost v oblasti prostorové orientace zrakově postižených.
+
+(2) Studium k výkonu specializovaných činností se uskutečňuje v délce trvání alespoň 250 vyučovacích hodin a ukončuje se obhajobou závěrečné písemné práce a závěrečnou ústní zkouškou před zkušební komisí.
+
+### § 10 – Průběžné vzdělávání
+
+Průběžné vzdělávání podle § 24 odst. 1 zákona o pedagogických pracovnících je zaměřeno na teoretické a praktické otázky související s procesem vzdělávání a výchovy, na výkon práce pedagogických pracovníků a na jejich jazykové vzdělávání.
+
+## ČÁST DRUHÁ – AKREDITAČNÍ KOMISE
+
+### § 11 – Složení akreditační komise
+
+(1) Akreditační komise<sup>5</sup>) (dále jen „komise“) má 25 členů, skládá se z předsedy, 2 místopředsedů a dalších členů. Komise se člení na pracovní sekce, které vedou její místopředsedové. Předsedu a místopředsedy volí komise ze svých členů.
+
+(2) Funkční období člena komise je pětileté.
+
+(3) Jednání komise organizačně a administrativně zabezpečuje tajemník komise, který není jejím členem.
+
+(4) Účast členů v komisi je jiným úkonem v obecném zájmu<sup>6</sup>), při němž členům komise může být ministerstvem poskytnuta odměna. Členům této komise dále náleží náhrada jízdních výdajů v prokázané výši, náhrada prokázaných výdajů za ubytování a stravné; poskytovatelem těchto náhrad je ministerstvo. Stravné se poskytuje ve výši a za podmínek stanovených zvláštním právním předpisem<sup>7</sup>).
+
+### § 12 – Činnost komise
+
+(1) Komise zasedá podle potřeby na základě písemných žádostí o vydání akreditace vzdělávací instituce nebo vzdělávacího programu.
+
+(2) Komise je usnášeníschopná, je-li přítomna nadpoloviční většina jejích členů, a usnáší se nadpoloviční většinou přítomných členů. Není-li přítomen předseda, komise se nejprve usnese, který z místopředsedů zastupuje předsedu po dobu jeho nepřítomnosti.
+
+(3) Komise posuzuje žádosti o akreditaci vzdělávacích programů a vzdělávacích institucí na základě stanoviska pracovních sekcí.
+
+(4) Stanovisko komise má charakter doporučení, o kterém tajemník komise vyhotoví protokol. Protokol obsahuje vždy
+
+a) číslo jednací,
+
+b) název vzdělávací instituce a její adresu,
+
+c) název vzdělávacího programu,
+
+d) stanovisko komise a jeho zdůvodnění,
+
+e) místo, datum a podpis předsedy nebo zastupujícího místopředsedy.
+
+## ČÁST TŘETÍ – POVINNOSTI VZDĚLÁVACÍ INSTITUCE
+
+### § 12a – Rozsah, způsob vedení a doba uchovávání dokumentace o uskutečňování vzdělávacího programu
+
+(1) Vzdělávací instituce vede o uskutečňování vzdělávacího programu písemnou dokumentaci, která obsahuje
+
+a) přihlášky pedagogických pracovníků,
+
+b) prezenční listiny, třídní knihy nebo jiné doklady o účasti pedagogických pracovníků a o uskutečňování vzdělávacího programu,
+
+c) protokoly o průběhu a výsledku obhajob závěrečných písemných prací, pokud se konaly, a závěrečných ústních zkoušek,
+
+d) závěrečné písemné práce, pokud se vzdělávací program ukončoval obhajobou závěrečné písemné práce, a
+
+e) plán vnitřního hodnocení kvality vzdělávacího programu a závěrečnou zprávu z vnitřního hodnocení kvality vzdělávacího programu podle § 12b odst. 4.
+
+(2) Vzdělávací instituce uchovává dokumentaci uvedenou v odstavci 1 po dobu 3 let ode dne uplynutí doby, na kterou byla akreditace vzdělávacího programu udělena nebo prodloužena a ve které tato dokumentace vznikla, s výjimkou dokladů uvedených v odstavci 1 písm. c), které vzdělávací instituce uchovává po dobu 50 let ode dne jejich vyhotovení.
+
+### § 12b – Systém vnitřního hodnocení kvality vzdělávacího programu
+
+(1) Systém vnitřního hodnocení kvality vzdělávacího programu zahrnuje alespoň nástroje a pravidla pro
+
+a) sběr a vyhodnocení dat a
+
+b) využití výstupu vyhodnocení dat v dalším uskutečňování vzdělávacího programu.
+
+(2) Sběr dat je zaměřen alespoň na
+
+a) zjišťování vzdělávacích potřeb účastníků vzdělávacího programu,
+
+b) hodnocení organizačního, materiálního a personálního zajištění uskutečňování vzdělávacího programu a
+
+c) dosažené kompetence účastníků vzdělávacího programu a jejich praktické využití.
+
+(3) Sběr dat a jejich vyhodnocení se provádí
+
+a) před zahájením každého uskutečnění vzdělávacího programu,
+
+b) v průběhu každého uskutečnění vzdělávacího programu, stanoví-li tak plán vnitřního hodnocení kvality vzdělávacího programu,
+
+c) bezprostředně po ukončení každého uskutečnění vzdělávacího programu a
+
+d) alespoň 6 měsíců po ukončení sběru dat podle písmene c), nejde-li o uskutečnění vzdělávacího programu ukončeného méně než 6 měsíců před uplynutím doby, na kterou byla akreditace vzdělávacího programu udělena nebo prodloužena; v takovém případě se tento sběr dat a vyhodnocení neprovádí.
+
+(4) Vzdělávací instituce vyhotoví
+
+a) před zahájením uskutečňování vzdělávacího programu plán vnitřního hodnocení kvality vzdělávacího programu, který stanoví uskutečňování systému vnitřního hodnocení kvality vzdělávacího programu podle odstavců 1 až 3 po dobu, na kterou byla akreditace vzdělávacího programu udělena nebo prodloužena, a
+
+b) přede dnem uplynutí doby, na kterou byla akreditace vzdělávacího programu udělena nebo prodloužena, závěrečnou zprávu z vnitřního hodnocení kvality vzdělávacího programu popisující uskutečňování systému vnitřního hodnocení kvality vzdělávacího programu, jeho výsledky a přijatá opatření.
+
+## ČÁST ČTVRTÁ – KARIÉRNÍ SYSTÉM PEDAGOGICKÝCH PRACOVNÍKŮ
+
+### § 13 – Podmínky zařazení pedagogických pracovníků do kariérních stupňů
+
+(1) Kariérní systém jednotlivých kategorií pedagogických pracovníků je stanoven v přílohách č. 1 až 9 k této vyhlášce.
+
+(2) Pedagogičtí pracovníci se zařazují do kariérních stupňů podle
+
+a) složitosti, odpovědnosti a namáhavosti vykonávané činnosti,
+
+b) vykonávané specializované činnosti a
+
+c) plnění odborné kvalifikace a dalších kvalifikačních předpokladů.
+
+## ČÁST PÁTÁ – SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+
+### § 14 – Společná ustanovení
+
+(1) Vyučovací hodina trvá 45 minut.
+
+(2) Zkušební komise je alespoň tříčlenná, většinou hlasů volí předsedu, jehož hlas rozhoduje v případě rovnosti hlasů, a hlasuje o výsledku obhajoby závěrečné písemné práce a o výsledku závěrečné ústní zkoušky.
+
+(3) Zkušební komise vyhotoví protokol o průběhu a výsledku závěrečné zkoušky, který obsahuje
+
+a) jméno a příjmení, datum narození a adresu místa trvalého pobytu účastníka dalšího vzdělávání,
+
+b) název vzdělávacího programu a číslo akreditace,
+
+c) název závěrečné písemné práce a výsledek její obhajoby, včetně zdůvodnění, pokud se vzdělávací program ukončoval obhajobou závěrečné písemné práce,
+
+d) zadání a výsledek závěrečné ústní zkoušky, včetně zdůvodnění,
+
+e) jména a příjmení členů zkušební komise a jejich podpisy a
+
+f) datum konání obhajoby závěrečné písemné práce, konání závěrečné ústní zkoušky a vyhotovení protokolu.
+
+(4) Lektorem nebo garantem vzdělávacího programu, není-li stanoveno jinak, může být osoba, která získala praxi v délce 4 let v oboru zaměřením odpovídajícímu její lektorské činnosti nebo garantovanému vzdělávacímu programu a která
+
+a) získala vysokoškolské vzdělání v akreditovaném magisterském studijním programu, nebo
+
+b) splňuje požadavek odborné kvalifikace podle zákona o pedagogických pracovnících.
+
+(5) Právnická osoba vykonávající činnost školy nebo školského zařízení zajistí zaměstnancům zpravidla jednou za 3 roky školení v oblasti fyzické bezpečnosti, zejména o postupech a opatřeních v případě mimořádných a krizových událostí na pracovišti nebo při činnostech souvisejících se vzděláváním mimo místo, kde se uskutečňuje vzdělávání.
+
+### § 15 – Přechodná ustanovení
+
+(1) Studium k získání dalších kvalifikačních předpokladů podle dosavadních právních předpisů zahájené před účinností této vyhlášky se dokončí podle dosavadních právních předpisů.
+
+(2) Absolventi specializačního studia pro výchovné poradce podle § 6 vyhlášky č. 61/1985 Sb., o dalším vzdělávání pedagogických pracovníků, a absolventi kvalifikačního studia podle přílohy k vyhlášce č. 139/1997 Sb., o podmínkách odborné a pedagogické způsobilosti pedagogických pracovníků a o předpokladech kvalifikace výchovných poradců, se považují pro účely této vyhlášky za absolventy studia podle § 8.
+
+(3) Absolventi bakalářského studijního programu Specializace v pedagogice ve studijním oboru Školský management a bakalářského studijního programu Pedagogika ve studijním oboru Pedagogické poradenství a školský management se považují pro účely této vyhlášky za absolventy studia podle § 7.
+
+(4) Absolventi programu celoživotního vzdělávání uskutečňovaného vysokou školou zaměřeného na organizaci a řízení školství nebo studenti, kteří toto studium zahájili přede dnem nabytí účinnosti této vyhlášky a toto studium úspěšně ukončí, se považují pro účely této vyhlášky za absolventy studia podle § 7.
+
+(5) Absolventi funkčního studia podle § 7 vyhlášky č. 61/1985 Sb. se považují pro účely této vyhlášky za absolventy studia podle § 5.
+
+### § 16 – Zrušovací ustanovení
+
+Zrušuje se vyhláška č. 61/1985 Sb., o dalším vzdělávání pedagogických pracovníků.
+
+### § 17 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2005.
+
+Ministryně:
+
+JUDr. Buzková v. r.
+
+### Příloha č. 1 k vyhlášce č. 317/2005 Sb.
+
+<table><tbody><tr><th colspan="5">UČITEL MATEŘSKÉ ŠKOLY</th></tr><tr><th>Kariérní stupeň</th><th>základní činnost</th><th>specializovaná činnost nebo specializace</th><th>odborná kvalifikace</th><th>další kvalifikační předpoklady</th></tr><tr><td>1.</td><td>Vzdělávací a výchovná činnost směřující k získávání vědomostí, dovedností a návyků dětí v mateřské škole podle vzdělávacího programu. (8. platová třída)</td><td>ne</td><td>§ 6 z.</td><td>ne</td></tr><tr><td>2.</td><td>Tvorba vzdělávacího programu třídy mateřské školy. Aplikace vzdělávacích a výchovných metod včetně případné individuální práce s dětmi se speciálními vzdělávacími potřebami. (9. platová třída)</td><td>ne</td><td>§ 6 z.</td><td>1 rok praxe</td></tr><tr><td>3.</td><td>Tvorba vzdělávacího programu třídy mateřské školy. Aplikace vzdělávacích a výchovných metod včetně případné individuální práce s dětmi se speciálními vzdělávacími potřebami. (9. platová třída)</td><td>ano</td><td>§ 6 z.</td><td>§ 9 v. 1 rok praxe</td></tr><tr><td>4.</td><td>Tvorba a koordinace školního vzdělávacího programu mateřské školy nebo tvorba vzdělávacích programů pro děti se speciálními vzdělávacími potřebami a individuálních vzdělávacích plánů. (10. platová třída)</td><td>ano</td><td>§ 6 z.</td><td>§ 9 v. 3 roky praxe</td></tr><tr><td>5.</td><td>Stanovování koncepce rozvoje školních vzdělávacích programů mateřských škol včetně jejich koordinace v regionu. (11. platová třída)</td><td>ano</td><td>§ 6 z.</td><td>§ 7 a § 9 v. 4 roky praxe</td></tr></tbody></table>
+
+Vysvětlivky:
+
+z ... zákon č. 563/2004 Sb.
+
+v ... vyhláška č. 317/2005 Sb.
+
+praxe .... výkon přímé pedagogické činnosti
+
+### Příloha č. 2 k vyhlášce č. 317/2005 Sb.
+
+<table><tbody><tr><th colspan="5">UČITEL ZÁKLADNÍ ŠKOLY, ZÁKLADNÍ UMĚLECKÉ ŠKOLY, STŘEDNÍ ŠKOLY, KONZERVATOŘE, VYŠŠÍ ODBORNÉ ŠKOLY, JAZYKOVÉ ŠKOLY S PRÁVEM STÁTNÍ JAZYKOVÉ ZKOUŠKY A ZAŘÍZENÍ PRO DALŠÍ VZDĚLÁVÁNÍ PEDAGOGICKÝCH PRACOVNÍKŮ (S VÝJIMKOU UČITELE PRAKTICKÉHO VYUČOVÁNÍ A ODBORNÉHO VÝCVIKU)</th></tr><tr><th>Kariérní stupeň</th><th>základní činnost</th><th>specializovaná činnost nebo specializace</th><th>odborná kvalifikace</th><th>další kvalifikační předpoklady</th></tr><tr><td>1.</td><td>Vzdělávací a výchovná činnost zaměřená na získávání vědomostí a dovedností ve všeobecně vzdělávacích nebo odborných předmětech podle školního vzdělávacího programu, podle vzdělávacího programu vyšší odborné školy nebo podle individuálních vzdělávacích plánů ve spolupráci s dalšími odborníky a dalších metodických doporučení z oblasti pedagogiky a psychologie. <br> (11. platová třída)</td><td>ne</td><td>§ 7 a 8, § 9 odst.1,2,6, § 10, § 11 odst. 1,4, § 12, § 13 a 14 z.</td><td>ne</td></tr><tr><td>2.</td><td>Komplexní vzdělávací a výchovná činnost ve všeobecně vzdělávacích nebo odborných předmětech spojená s tvorbou a průběžnou aktualizací pedagogické dokumentace, kterou pedagogický pracovník vytváří, a podle níž postupuje při výkonu své přímé pedagogické činnosti nebo spojená s tvorbou a průběžnou aktualizací individuálních vzdělávacích plánů. <br> (12. platová třída)</td><td>ne</td><td>§ 7 a 8, § 9 odst.1,2,6, § 10, § 11 odst. 1,4, § 12, § 13 a 14 z.</td><td>1 rok praxe</td></tr><tr><td>3.</td><td>Komplexní vzdělávací a výchovná činnost ve všeobecně vzdělávacích nebo odborných předmětech spojená s tvorbou a průběžnou aktualizací pedagogické dokumentace, kterou pedagogický pracovník vytváří, a podle níž postupuje při výkonu své přímé pedagogické činnosti nebo spojená s tvorbou a průběžnou aktualizací individuálních vzdělávacích plánů. <br> Metodická a specializovaná poradenská činnost poskytovaná pedagogům a tvorba preventivních programů. <br> (12. platová třída)</td><td>ano</td><td>§ 7 a 8, § 9 odst.1,2,6, § 10, § 11 odst. 1,4, § 12, § 13 a 14 z.</td><td>§ 9 v. 3 roky praxe</td></tr><tr><td>4.</td><td>Stanovování koncepce rozvoje oboru středního vzdělání s maturitní zkouškou nebo oboru vzdělání ukončeného absolutoriem nebo rámcových vzdělávacích programů. <br> Tvorba a koordinace mezinárodních projektů zaměřených na vzdělávání a výchovu a projektů dalšího vzdělávání přesahujících rámec škol, tvorba a koordinace vzdělávacích programů vyšších odborných škol. <br> (13. platová třída)</td><td>ne</td><td>§ 7 a 8, § 9 odst.1,2,6, § 10, § 11 odst. 1,4, § 12, § 13 a 14 z.</td><td>4 roky praxe</td></tr><tr><td>5.</td><td>Stanovování koncepce rozvoje oboru středního vzdělání s maturitní zkouškou nebo oboru vzdělání ukončeného absolutoriem nebo rámcových vzdělávacích programů. Specializovaná metodologická činnost v oblasti pedagogiky a psychologie, k jejímuž výkonu je nezbytné získání specializace stanovené touto vyhláškou. <br> Tvorba a koordinace mezinárodních projektů zaměřených na vzdělávání a výchovu a projektů dalšího vzdělávání přesahujících rámec škol, tvorba a koordinace vzdělávacích programů vyšších odborných škol. <br> (13. platová třída)</td><td>ano</td><td>§ 7 a 8, § 9 odst.1,2,6, § 10, § 11 odst. 1,4, § 12, § 13 a 14 z.</td><td>§ 7 nebo § 8 nebo § 9 v. a 4 roky praxe</td></tr><tr><td>6.</td><td>Tvorba koncepcí celostátních nebo mezinárodních programů vzdělávání. <br> (14.platová třída)</td><td>ano</td><td>§ 7 a 8, § 9 odst.1,2,6, § 10, § 11 odst. 1,4, § 12, § 13 a 14 z.</td><td>§ 9 v. 5 roků praxe</td></tr></tbody></table>
+
+Vysvětlivky:
+
+z ... zákon č. 563/2004 Sb.
+
+v ... vyhláška č. 317/2005 Sb.
+
+praxe .... výkon přímé pedagogické činnosti
+
+### Příloha č. 3 k vyhlášce č. 317/2005 Sb.
+
+<table><tbody><tr><th colspan="5">UČITEL PRAKTICKÉHO VYUČOVÁNÍ A ODBORNÉHO VÝCVIKU</th></tr><tr><th>Kariérní stupeň</th><th>základní činnost</th><th>specializovaná činnost nebo specializace</th><th>odborná kvalifikace</th><th>další kvalifikační předpoklady</th></tr><tr><td>1.</td><td>Vzdělávací a výchovná činnost v odborném výcviku při přípravě žáků v oborech středního vzdělání s výučním listem. Vzdělávací a výchovná činnost v praktickém vyučování v předmětech, jejichž obsahovou náplní je řízení silničních motorových vozidel, zaměřená na přípravu žáků a studentů k získání řidičského oprávnění k řízení motorových vozidel. <br> (9. platová třída)</td><td>ne</td><td>§ 9 odst. 3, 4 a 5, § 11 odst. 2 a 3 z.</td><td>ne</td></tr><tr><td rowspan="2">2.</td><td>Vzdělávací a výchovná činnost v praktickém vyučování v oborech středního vzdělání s maturitní zkouškou nebo v odborném výcviku v náročných oborech středního vzdělání s výučním listem. <br> (10. platová třída)</td><td>ne</td><td>§ 9 odst. 3, 4 a 5, § 11 odst. 2 a 3 z.</td><td>ne</td></tr><tr><td>Vzdělávací a výchovná činnost v praktickém vyučování v oborech středního vzdělání s maturitní zkouškou nebo v odborném výcviku v náročných oborech středního vzdělání s výučním listem. <br> (10. platová třída)</td><td>ano</td><td>§ 9 odst. 3, 4 a 5, § 11 odst. 2 a 3 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td rowspan="2">3.</td><td>Vzdělávací a výchovná činnost v praktickém vyučování v náročných oborech středního vzdělání s maturitní zkouškou a v oborech vyššího odborného vzdělání. <br> (11. platová třída)</td><td>ne</td><td>§ 9 odst. 3, 4 a 5, § 11 odst. 2 a 3 z.</td><td>ne</td></tr><tr><td>Komplexní koordinace vzdělávání v praktickém vyučování nebo v odborném výcviku střední školy nebo v praktické přípravě vyšší odborné školy se znalostmi a dovednostmi z jiných oborů vzdělání a s teoretickým vyučováním. <br> (11. platová třída)</td><td>ne</td><td>§ 9 odst. 3, 4 a 5, § 11 odst. 2 a 3 z.</td><td>3 roky praxe</td></tr><tr><td rowspan="2">4.</td><td>Vzdělávací a výchovná činnost v praktickém vyučování v náročných oborech středního vzdělání s maturitní zkouškou a v oborech vyššího odborného vzdělání. <br> (11. platová třída)</td><td>ano</td><td>§ 9 odst. 3, 4 a 5, § 11 odst. 2 a 3 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td>Komplexní koordinace vzdělávání v praktickém vyučování nebo v odborném výcviku střední školy nebo v praktické přípravě vyšší odborné školy se znalostmi a dovednostmi z jiných oborů vzdělání a s teoretickým vyučováním. <br> (11. platová třída)</td><td>ano</td><td>§ 9 odst. 3, 4 a 5, § 11 odst. 2 a 3 z.</td><td>§ 9 v. 3 roky praxe</td></tr><tr><td>5.</td><td>Tvorba koncepcí rozvoje oboru středního vzdělání s výučním listem nebo skupiny příbuzných oborů. Metodická a specializovaná poradenská činnost poskytovaná pedagogům a tvorba preventivních programů. <br> (12. platová třída)</td><td>ano</td><td>§ 9 odst. 3, 4 a 5, § 11 odst. 2 a 3 z.</td><td>§ 7 nebo § 9 v. 3 roky praxe</td></tr></tbody></table>
+
+Vysvětlivky:
+
+z ... zákon č. 563/2004 Sb.
+
+v ... vyhláška č. 317/2005 Sb.
+
+praxe .... výkon přímé pedagogické činnosti
+
+### Příloha č. 4 k vyhlášce č. 317/2005 Sb.
+
+<table><tbody><tr><th colspan="5">VYCHOVATEL</th></tr><tr><th>Kariérní stupeň</th><th>základní činnost</th><th>specializovaná činnost nebo specializace</th><th>odborná kvalifikace</th><th>další kvalifikační předpoklady</th></tr><tr><td>1.</td><td>Vychovatelská činnost zaměřená na rozvoj osobnosti dětí, žáků nebo studentů, jejich zájmů, znalostí a tvořivých schopností probíhající v zájmovém vzdělávání podle programu činnosti školského nebo jiného zařízení. <br> Výchovná a vzdělávací činnost zaměřená na vytváření a rozšiřování vědomostí, dovedností a návyků klientů zařízení sociální péče nebo v záchytných zařízeních včetně rozvíjení jejich zájmové činnosti s využitím pedagogických metod. <br> (8. platová třída)</td><td>ne</td><td>§ 16 z.</td><td>ne</td></tr><tr><td rowspan="2">2.</td><td>Komplexní vychovatelská činnost ve školách a školských nebo jiných zařízeních rozvíjející zájmy, znalosti a tvořivé schopnosti dětí, žáků i studentů nebo specificky rozvíjející osobnost dítěte nebo žáka i studenta včetně využívání variantních výchovných metod a hodnocení jejich účinnosti. Odborné usměrňování zájmového vzdělávání specializovanými metodami výchovné práce, například vůči dětem a žákům se speciálními vzdělávacími potřebami. Komplexní výchovná a vzdělávací činnost ve školách nebo ve školských zařízeních pro výkon ústavní výchovy nebo ochranné výchovy a pro preventivně výchovnou péči zaměřenou na specifické potřeby dětí, žáků nebo studentů se speciálními vzdělávacími potřebami. <br> (9. platová třída)</td><td>ne</td><td>§ 16 z.</td><td>ne</td></tr><tr><td>Komplexní vychovatelská činnost ve školách a školských nebo jiných zařízeních rozvíjející zájmy, znalosti a tvořivé schopnosti dětí, žáků i studentů nebo specificky rozvíjející osobnost dítěte nebo žáka i studenta včetně využívání variantních výchovných metod a hodnocení jejich účinnosti. Odborné usměrňování zájmového vzdělávání specializovanými metodami výchovné práce, například vůči dětem a žákům se speciálními vzdělávacími potřebami. Komplexní výchovná a vzdělávací činnost ve školách nebo ve školských zařízeních pro výkon ústavní výchovy nebo ochranné výchovy a pro preventivně výchovnou péči zaměřenou na specifické potřeby dětí, žáků nebo studentů se speciálními vzdělávacími potřebami. <br> (9. platová třída)</td><td>ano</td><td>§ 16 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td rowspan="2">3.</td><td>Komplexní výchovná, vzdělávací, diagnostická a preventivní činnost zaměřená na celkový rozvoj osobnosti a na socializaci, resocializaci a reedukaci včetně navrhování cílených opatření k optimalizaci procesu výchovy a vzdělávání v rámci školy, školského nebo jiného zařízení. Koordinace protidrogové prevence v rámci příslušného zařízení. Koordinace činnosti vychovatelů ve výchovných skupinách ve školách a školských zařízeních. <br> (10. platová třída)</td><td>ne</td><td>§ 16 z.</td><td>ne</td></tr><tr><td>Komplexní výchovná, vzdělávací, diagnostická a preventivní činnost zaměřená na celkový rozvoj osobnosti a na socializaci, resocializaci a reedukaci včetně navrhování cílených opatření k optimalizaci procesu výchovy a vzdělávání v rámci školy, školského nebo jiného zařízení. Koordinace protidrogové prevence v rámci příslušného zařízení. Koordinace činnosti vychovatelů ve výchovných skupinách ve školách a školských zařízeních. <br> (10. platová třída)</td><td>ano</td><td>§ 16 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td rowspan="2">4.</td><td>Samostatné zajišťování výchovné a vzdělávací činnosti při uplatnění speciálně pedagogických postupů. Samostatné provádění specifických pedagogických vyšetření a dalších vysoce náročných pedagogických činností. <br> Vytváření programů integrace a inkluze dětí, žáků nebo studentů se speciálními vzdělávacími potřebami v daném zařízení, poskytování pedagogických konzultačních činností. <br> (11. platová třída)</td><td>ne</td><td>§ 16 z.</td><td>ne</td></tr><tr><td>Metodická a specializovaná poradenská činnost poskytovaná vychovatelům, tvorba výchovných a vzdělávacích dokumentů, evaluačních nástrojů a preventivních programů. Preventivní, primárně diagnostická a konzultační činnost, koordinace aplikace speciálně pedagogických postupů, nových výchovných metod a metod z jiných odvětví. Samostatné zajišťování výchovné a vzdělávací činnosti při uplatnění speciálně pedagogických postupů. Samostatné provádění specifických pedagogických vyšetření a dalších vysoce náročných pedagogických činností. <br> Vytváření programů integrace a inkluze dětí, žáků nebo studentů se speciálními vzdělávacími potřebami v daném zařízení, poskytování pedagogických konzultačních činností. <br> (11. platová třída)</td><td>ano</td><td>§ 16 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td rowspan="2">5.</td><td>Stanovování a aplikace účinných diagnostických a výchovných metod a postupů v diagnostických ústavech a v diagnostických odděleních ústavů sociální péče ve spolupráci s pediatry, neurology, psychiatry a psychology. Stanovování diagnostických a výchovných postupů při výkonu náhradní výchovné péče a asistenční vzdělávání a výchovné práce s adolescenty, spojené s řešením problémů osob v krizových a mezních životních situacích ve spolupráci s odborníky z jiných odvětví. <br> (12. platová třída)</td><td>ne</td><td>§ 16 z.</td><td>2 roky praxe</td></tr><tr><td>Metodická a specializovaná poradenská činnost poskytovaná pedagogům a tvorba preventivních programů. <br> Stanovování a aplikace účinných diagnostických a výchovných metod a postupů v diagnostických ústavech a v diagnostických odděleních ústavů sociální péče ve spolupráci s pediatry, neurology, psychiatry a psychology. Stanovování diagnostických a výchovných postupů při výkonu náhradní výchovné péče a asistenční vzdělávání a výchovné práce s adolescenty, spojené s řešením problémů osob v krizových a mezních životních situacích ve spolupráci s odborníky z jiných odvětví. <br> (12. platová třída)</td><td>ano</td><td>§ 16 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td>6.</td><td>Specializovaná metodologická činnost v oblasti pedagogiky a psychologie, k jejímuž výkonu je nezbytné získání specializace stanovené touto vyhláškou. <br> (13. platová třída)</td><td>ano</td><td>§ 16 odst. 1 písm. a) a b) z.</td><td>§ 7 nebo § 9 v. a 4 roky praxe</td></tr></tbody></table>
+
+Vysvětlivky:
+
+z ... zákon č. 563/2004 Sb.
+
+v ... vyhláška č. 317/2005 Sb.
+
+praxe .... výkon přímé pedagogické činnosti
+
+### Příloha č. 5 k vyhlášce č. 317/2005 Sb.
+
+<table><tbody><tr><th colspan="5">PEDAGOG VOLNÉHO ČASU</th></tr><tr><th>Kariérní stupeň</th><th>základní činnost</th><th>specializovaná činnost nebo specializace</th><th>odborná kvalifikace</th><th>další kvalifikační předpoklady</th></tr><tr><td>1.</td><td>Výchovná a vzdělávací činnost zaměřená na oblast volného času dětí, žáků, studentů, mládeže nebo pedagogických pracovníků a dalších dospělých zájemců se všeobecným zaměřením na rozvoj jejich zájmů, znalostí, tvořivých schopností, probíhající podle rámcového plánu činnosti školského zařízení. <br> (8. platová třída)</td><td>ne</td><td>§ 17 z.</td><td>ne</td></tr><tr><td rowspan="2">2.</td><td>Výchovná a vzdělávací činnost zaměřená na oblast volného času dětí, žáků, studentů, mládeže nebo pedagogických pracovníků a dalších dospělých zájemců s odborným zaměřením na jejich celkový i specifický rozvoj. Provádění informační a konzultační činnosti a odborné pomoci v oblasti volného času pro školy, školská zařízení, občanská sdružení a další zájemce. Organizace soutěží, přehlídek, soustředění, pobytů a táborové činnosti pro děti, žáky, studenty, mládež nebo pedagogické pracovníky a další dospělé zájemce. <br> (9. platová třída)</td><td>ne</td><td>§ 17 z.</td><td>ne</td></tr><tr><td>Výchovná a vzdělávací činnost zaměřená na oblast volného času dětí, žáků, studentů, mládeže nebo pedagogických pracovníků a dalších dospělých zájemců s odborným zaměřením na jejich celkový i specifický rozvoj. Provádění informační a konzultační činnosti a odborné pomoci v oblasti volného času pro školy, školská zařízení, občanská sdružení a další zájemce. Organizace soutěží, přehlídek, soustředění, pobytů a táborové činnosti pro děti, žáky, studenty, mládež nebo pedagogické pracovníky a další dospělé zájemce. <br> (9. platová třída)</td><td>ano</td><td>§ 17 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td rowspan="2">3.</td><td>Komplexní pedagogická, primárně diagnostická a preventivní činnost v oblasti volného času včetně prevence sociálně patologických jevů a prevence bezpečnosti a ochrany zdraví dětí, žáků, studentů, mládeže nebo pedagogických pracovníků a dalších dospělých zájemců. <br> Tvorba programů, poskytování metodické a konzultační činnosti a specializované odborné pomoci subjektům působícím v oblasti zájmového vzdělávání a volného času. Zajišťování péče o talenty. <br> (10. platová třída)</td><td>ne</td><td>§ 17 z.</td><td>ne</td></tr><tr><td>Komplexní pedagogická, primárně diagnostická a preventivní činnost v oblasti volného času včetně prevence sociálně patologických jevů a prevence bezpečnosti a ochrany zdraví dětí, žáků, studentů, mládeže nebo pedagogických pracovníků a dalších dospělých zájemců. <br> Tvorba programů, poskytování metodické a konzultační činnosti a specializované odborné pomoci subjektům působícím v oblasti zájmového vzdělávání a volného času. Zajišťování péče o talenty. <br> (10. platová třída)</td><td>ano</td><td>§ 17 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td rowspan="2">4.</td><td>Tvorba obecných celostátních nebo krajských forem a metod ve výchově a vzdělávání v oblasti volného času dětí, žáků, studentů, mládeže nebo pedagogických pracovníků a dalších dospělých zájemců. Komplexní metodická a koordinační činnost v oblasti výchovy a vzdělávání a dalšího vzdělávání pracovníků. <br> (11. platová třída)</td><td>ne</td><td>§ 17 z.</td><td>ne</td></tr><tr><td>Tvorba obecných celostátních nebo krajských forem a metod ve výchově a vzdělávání v oblasti volného času dětí, žáků, studentů, mládeže nebo pedagogických pracovníků a dalších dospělých zájemců. <br> Komplexní metodická a koordinační činnost v oblasti výchovy a vzdělávání a dalšího vzdělávání pracovníků. <br> (11. platová třída)</td><td>ano</td><td>§ 17 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td>5.</td><td>Metodická a specializovaná poradenská činnost poskytovaná pedagogům a tvorba preventivních programů. <br> Tvorba celostátní nebo krajské koncepce rozvoje jednotlivých oblastí zájmového vzdělávání a volného času dětí, žáků, studentů, mládeže, pedagogických pracovníků a dalších dospělých zájemců (například oblasti spontánních aktivit a prevence sociálně patologických jevů, pravidelné činnosti, příležitostných a zájmových aktivit, pobytových akcí a environmentálního vzdělávání). <br> (12. platová třída)</td><td>ano</td><td>§ 17 z.</td><td>§ 9 v. 3 roky praxe</td></tr><tr><td>6.</td><td>Tvorba komplexní celostátní koncepce rozvoje oblasti volného času. <br> (13. platová třída)</td><td>ano</td><td>§ 17 z.</td><td>§ 9 v. 5 roků praxe</td></tr></tbody></table>
+
+Vysvětlivky:
+
+z ... zákon č. 563/2004 Sb.
+
+v ... vyhláška č. 317/2005 Sb.
+
+praxe .... výkon přímé pedagogické činnosti
+
+### Příloha č. 6 k vyhlášce č. 317/2005 Sb.
+
+<table><tbody><tr><th colspan="5">SPECIÁLNÍ PEDAGOG</th></tr><tr><th>Kariérní stupeň</th><th>základní činnost</th><th>specializovaná činnost nebo specializace</th><th>odborná kvalifikace</th><th>další kvalifikační předpoklady</th></tr><tr><td>1.</td><td>Kontaktní činnosti zaměřené na jedince a skupiny dětí, žáků a studentů se zvýšeným rizikem školní neúspěšnosti nebo vzniku problémů v osobnostním a sociálním vývoji. Provádění speciálně pedagogických nápravných, edukačních, reedukačních a kompenzačních činností s jedinci i skupinami dětí, žáků nebo studentů. <br> Speciálně pedagogické poradenství v oblasti nápravných, edukačních, reedukačních a kompenzačních postupů, prevence poruch chování, negativních jevů v sociálním vývoji a v oblasti vzdělávací dráhy a vedení programů prevence sociálně patologických jevů. Příprava a odborné vedení speciálně pedagogických výcvikových, preventivních, vzdělávacích a dalších programů osobnostního rozvoje. Etopedické, logopedické, somatopedické, psychopedické, tyflopedické a další specializované vyšetření dětí, žáků, studentů nebo klientů se zdravotním postižením a provádění nápravy nebo psychoterapeutických činností zaměřených na odstraňování nebo zmírnění poruch učení a chování. Zpracovávání programů integrace a inkluze dětí, žáků, studentů nebo klientů se speciálními vzdělávacími potřebami. <br> (11. platová třída)</td><td>ne</td><td>§ 18 z.</td><td>ne</td></tr><tr><td>2.</td><td>Provádění komplexní speciálně pedagogické diagnostiky, náročných nápravných, reedukačních a kompenzačních činností s dětmi, žáky, studenty nebo klienty se zdravotním postižením a náročného speciálně pedagogického poradenství při řešení problémů ve vývoji a vzdělávání dětí, žáků a studentů se zdravotním postižením ve škole a v rodině. <br> Metodická a koordinační činnost v oblasti speciálně pedagogických preventivních a poradenských služeb ve školství. Samostatná aplikace logopedických, etopedických, somatopedických, psychopedických, tyflopedických a dalších diagnostických postupů a metodik stimulace, edukace, reedukace, kompenzace a aplikace vzdělávacích činností s dětmi, žáky, studenty nebo klienty se speciálními vzdělávacími potřebami a poskytování specializované péče osobám se zdravotním postižením a znevýhodněním speciálně pedagogickými metodami nebo rehabilitačními metodami a ve spolupráci a v návaznosti na jiná odvětví. Tvorba koncepce vyučování prostorové orientace a samostatného pohybu zrakově postižených podle akreditovaných vzdělávacích programů. <br> (12. platová třída)</td><td>ne</td><td>§ 18 z.</td><td>1 rok praxe</td></tr><tr><td>3.</td><td>Provádění komplexní speciálně pedagogické diagnostiky, náročných nápravných, reedukačních a kompenzačních činností s dětmi, žáky, studenty nebo klienty se zdravotním postižením a náročného speciálně pedagogického poradenství při řešení problémů ve vývoji a vzdělávání dětí, žáků a studentů se zdravotním postižením ve škole a v rodině. <br> Metodická a koordinační činnost v oblasti speciálně pedagogických preventivních a poradenských služeb ve školství. Samostatná aplikace logopedických, etopedických, somatopedických, psychopedických, tyflopedických a dalších diagnostických postupů a metodik stimulace, edukace, reedukace, kompenzace a aplikace vzdělávacích činností s dětmi, žáky, studenty nebo klienty se speciálními vzdělávacími potřebami a poskytování specializované péče osobám se zdravotním postižením a znevýhodněním speciálně pedagogickými metodami nebo rehabilitačními metodami a ve spolupráci a v návaznosti na jiná odvětví. Tvorba koncepce vyučování prostorové orientace a samostatného pohybu zrakově postižených podle akreditovaných vzdělávacích programů. <br> (12. platová třída)</td><td>ano</td><td>§ 18 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td>4.</td><td>Tvorba zásadních koncepcí systému speciálně pedagogických preventivních a poradenských služeb ve školství a sestavování prognóz včetně případného poskytování nejnáročnějších speciálně pedagogických služeb (speciálně pedagogická diagnostika, tvorba a uplatňování nových speciálně pedagogických metod). <br> (13. platová třída)</td><td>ne</td><td>§ 18 z.</td><td>3 roky praxe</td></tr><tr><td>5.</td><td>Tvorba zásadních koncepcí systému speciálně pedagogických preventivních a poradenských služeb ve školství a sestavování prognóz včetně případného poskytování nejnáročnějších speciálně pedagogických služeb (speciálně pedagogická diagnostika, tvorba a uplatňování nových speciálně pedagogických metod). <br> (13. platová třída)</td><td>ano</td><td>§ 18 z.</td><td>§ 7 nebo § 9 v. 5 roků praxe</td></tr></tbody></table>
+
+Vysvětlivky:
+
+z ... zákon č. 563/2004 Sb.
+
+v ... vyhláška č. 317/2005 Sb.
+
+praxe .... výkon přímé pedagogické činnosti
+
+### Příloha č. 7 k vyhlášce č. 317/2005 Sb.
+
+<table><tbody><tr><th colspan="5">PSYCHOLOG</th></tr><tr><th>Kariérní stupeň</th><th>základní činnost</th><th>specializovaná činnost</th><th>odborná kvalifikace</th><th>další kvalifikační předpoklady</th></tr><tr><td>1.</td><td>Kontaktní činnosti zaměřené na jedince a skupiny se zvýšeným rizikem školní neúspěšnosti nebo vzniku problémů v osobním a sociálním vývoji. Provádění individuálních a skupinových psychologických vyšetření dětí a mládeže podle stanovených postupů. <br> Vedení výcvikových a dalších programů osobnostního rozvoje a prevence sociálně patologických jevů u dětí, žáků a studentů. Psychologické poradenství související se vzděláváním a výchovou dětí, žáků a studentů. <br> (11. platová třída)</td><td>ne</td><td>§ 19 z.</td><td>ne</td></tr><tr><td>2.</td><td>Poskytování krizové intervence v obzvláště náročných životních situacích. Samostatné provádění náročných kontaktních činností zaměřených na jedince a skupiny se zvýšeným rizikem školní neúspěšnosti nebo vzniku problémů v osobním a sociálním vývoji. <br> Samostatné provádění individuálních a skupinových psychologických vyšetření dětí, žáků a studentů. Tvorba metodických a koncepčních materiálů z oblasti psychologického poradenství a prevence ve školství. <br> Provádění komplexní psychologické diagnostiky a náročného psychologického poradenství při řešení problémů ve vývoji a vzdělávání dětí, žáků a studentů ve škole a v rodině. <br> (12. platová třída)</td><td>ne</td><td>§ 19 z.</td><td>1 rok praxe</td></tr><tr><td>3.</td><td>Poskytování krizové intervence v obzvláště náročných životních situacích. Samostatné provádění náročných kontaktních činností zaměřených na jedince a skupiny se zvýšeným rizikem školní neúspěšnosti nebo vzniku problémů v osobním a sociálním vývoji. <br> Samostatné provádění individuálních a skupinových psychologických vyšetření dětí, žáků a studentů. <br> Tvorba metodických a koncepčních materiálů z oblasti psychologického poradenství a prevence ve školství. <br> Provádění komplexní psychologické diagnostiky a náročného psychologického poradenství při řešení problémů ve vývoji a vzdělávání dětí, žáků a studentů ve škole a v rodině. <br> (12. platová třída)</td><td>ano</td><td>§ 19 z.</td><td>§ 9 v. 2 roky praxe</td></tr><tr><td>4.</td><td>Poskytování nejnáročnějších psychoterapeutických služeb včetně psychologického poradenství, například řešení obzvláště složitých případů rodin ohrožených sociální patologií, rodin zasažených nezaměstnaností, domácím násilím, rodin pečujících o těžce zdravotně postižené děti i rodin ohrožených syndromem týraného, zneužívaného či zanedbávaného dítěte. <br> Tvorba, koordinace a hodnocení nejsložitějších projektů z oblasti vzdělávání a pedagogickopsychologické péče o psychický a sociální vývoj, vzdělávání a volbu životní dráhy jednotlivců a skupin dětí, žáků a studentů. <br> Tvorba zásadních koncepcí systému preventivních a poradenských služeb ve školství. <br> (13. platová třída)</td><td>ne</td><td>§ 19 z.</td><td>3 roky praxe</td></tr><tr><td>5.</td><td>Poskytování nejnáročnějších psychoterapeutických služeb včetně psychologického poradenství, například řešení obzvláště složitých případů rodin ohrožených sociální patologií, rodin zasažených nezaměstnaností, domácím násilím, rodin pečujících o těžce zdravotně postižené děti i rodin ohrožených syndromem týraného, zneužívaného či zanedbávaného dítěte. <br> Tvorba, koordinace a hodnocení nejsložitějších projektů z oblasti vzdělávání a pedagogickopsychologické péče o psychický a sociální vývoj, vzdělávání a volbu životní dráhy jednotlivců a skupin dětí, žáků a studentů. <br> Tvorba zásadních koncepcí systému preventivních a poradenských služeb ve školství. <br> (13. platová třída)</td><td>ano</td><td>§ 19 z.</td><td>§ 7 nebo § 9 v. 5 roků praxe</td></tr></tbody></table>
+
+Vysvětlivky:
+
+z ... zákon č. 563/2004 Sb.
+
+v ... vyhláška č. 317/2005 Sb.
+
+praxe .... výkon přímé pedagogické činnosti
+
+### Příloha č. 8 k vyhlášce č. 317/2005 Sb.
+
+<table><tbody><tr><th colspan="5">ASISTENT PEDAGOGA</th></tr><tr><th>Kariérní stupeň</th><th>základní činnost</th><th>specializovaná činnost nebo specializace</th><th>odborná kvalifikace</th><th>další kvalifikační předpoklady</th></tr><tr><td>1.</td><td>Pomocné výchovné práce zaměřené na zkvalitnění společenského chování dětí a žáků nebo studentů. <br> Pomocné výchovné práce zaměřené na vytváření základních pracovních, hygienických a jiných návyků. <br> (4. platová třída)</td><td>ne</td><td>§ 20 písm. e) z.</td><td>ne</td></tr><tr><td>2.</td><td>Provádění rutinních prací při výchově dětí a žáků nebo studentů, upevňování jejich společenského chování, pracovních, hygienických a jiných návyků, péče a pomoc při pohybové aktivizaci dětí a žáků nebo studentů. <br> (5. platová třída)</td><td>ne</td><td>§ 20 písm. d) a e) z.</td><td>ne</td></tr><tr><td>3.</td><td>Výchovné práce zaměřené na zkvalitnění společenského chování dětí a žáků nebo studentů. Výchovné práce zaměřené na vytváření základních pracovních, hygienických a jiných návyků. <br> (6. platová třída)</td><td>ne</td><td>§ 20 písm. a) až d) z.</td><td>ne</td></tr><tr><td>4.</td><td>Výklad textu, popřípadě učební látky a individuální práce s dětmi a žáky nebo studenty podle stanovených vzdělávacích programů a pokynů. <br> (7. platová třída)</td><td>ne</td><td>§ 20 písm. a) až d) z.</td><td>ne</td></tr><tr><td>5.</td><td>Vzdělávací a výchovná činnost podle přesně stanovených postupů a pokynů učitele nebo vychovatele zaměřená na speciální vzdělávací nebo specifické výchovné potřeby dítěte, žáka nebo studenta nebo skupiny dětí, žáků nebo studentů. <br> (8. platová třída)</td><td>ne</td><td>§ 20 písm. a) až d) z.</td><td>ne</td></tr><tr><td>6.</td><td>Vzdělávací a výchovná činnost podle přesně stanovených postupů a pokynů učitele nebo vychovatele zaměřená na speciální vzdělávací nebo specifické výchovné potřeby dítěte, žáka nebo studenta nebo skupiny dětí, žáků nebo studentů. <br> (8. platová třída)</td><td>ano</td><td>§ 20 písm. a) až d) z..</td><td>§ 9 v. 2 roky praxe</td></tr></tbody></table>
+
+Vysvětlivky:
+
+z ... zákon č. 563/2004 Sb.
+
+v ... vyhláška č. 317/2005 Sb.
+
+praxe .... výkon přímé pedagogické činnosti
+
+### Příloha č. 9 k vyhlášce č. 317/2005 Sb.
+
+<table><tbody><tr><th colspan="5">Trenér</th></tr><tr><th>Kariérní stupeň</th><th>základní činnost</th><th>specializovaná činnost nebo specializace</th><th>odborná kvalifikace</th><th>další kvalifikační předpoklady</th></tr><tr><td>1.</td><td>Zajišťování odborné trenérsko metodické činnosti a sportovní přípravy v daném sportovním odvětví. <br> (10. platová třída)</td><td>ne</td><td>§ 21 z.</td><td>ne</td></tr><tr><td>2.</td><td>Odborná trenérsko metodická činnost při řízení sportovní přípravy v daném sportovním odvětví. Vzdělávací a výchovná činnost zaměřená na získávání vědomostí a dovedností žáků studijního oboru sportovní příprava podle školního vzdělávacího programu a metodických doporučení z oblasti pedagogiky, psychologie a přírodních věd. <br> (11. platová třída)</td><td>ne</td><td>§ 21 z.</td><td>ne</td></tr><tr><td>3.</td><td>Komplexní koordinace trenérsko metodického procesu přípravy reprezentantů na evropské a světové úrovni. <br> (12. platová třída)</td><td>ne</td><td>§ 21 z.</td><td>ne</td></tr><tr><td>4.</td><td>Komplexní koordinace trenérsko metodického procesu přípravy reprezentantů na evropské a světové úrovni. <br> (12. platová třída)</td><td>ano</td><td>§ 21 z.</td><td>§ 9 v.</td></tr><tr><td>5.</td><td>Komplexní tvorba, koordinace a usměrňování odborných trenérsko-metodických koncepcí procesu přípravy sportovní reprezentace nejvyšší světové a evropské úrovně (vedoucí trenér). <br> (13. platová třída)</td><td>ano</td><td>§ 21 z.</td><td>§ 7 v. 2 roky praxe</td></tr></tbody></table>
+
+Vysvětlivky:
+
+z ... zákon č. 563/2004 Sb.
+
+v ... vyhláška č. 317/2005 Sb.
+
+praxe .... výkon přímé pedagogické činnosti
+
+---
+
+<sup>3</sup>) § 5 odst. 2 zákona č. 563/2004 Sb.
+
+<sup>4</sup>) Bod 2.16.2. přílohy nařízení vlády č. 469/2002 Sb., kterým se stanoví katalog prací a kvalifikační předpoklady a kterým se mění nařízení vlády o platových poměrech zaměstnanců ve veřejných službách a správě, ve znění pozdějších předpisů.
+
+<sup>5</sup>) § 28 zákona č. 563/2004 Sb.
+
+<sup>6</sup>) § 124 zákoníku práce.
+
+<sup>7</sup>) Zákon č. 119/1992 Sb., o cestovních náhradách, ve znění pozdějších předpisů.
