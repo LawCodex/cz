@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 96/2014 Sb., kterou se mění vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti a bezpečnosti lidské krve a jejích složek (vyhláška o lidské krvi), ve znění vyhlášky č. 351/2010 Sb."
+identifier: "96/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/96/2014-06-19"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-05-26
+effective: 2014-06-19
+last_amended: 2014-06-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/96"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 96/2014 Sb., kterou se mění vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti a bezpečnosti lidské krve a jejích složek (vyhláška o lidské krvi), ve znění vyhlášky č. 351/2010 Sb.
+
+96
+
+VYHLÁŠKA
+
+ze dne 26. května 2014,
+
+kterou se mění vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti a bezpečnosti lidské krve a jejích složek (vyhláška o lidské krvi), ve znění vyhlášky č. 351/2010 Sb.
+
+Ministerstvo zdravotnictví stanoví podle § 114 odst. 1 a § 24 odst. 4 zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění zákona č. 50/2013 Sb. a zákona č. 70/2013 Sb.:
+
+## Čl. I
+
+Vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti a bezpečnosti lidské krve a jejích složek (vyhláška o lidské krvi), ve znění vyhlášky č. 351/2010 Sb., se mění takto:
+
+1\. V § 12 odst. 1 písm. b) se slova „příloze č. 7 této vyhlášky“ nahrazují slovy „příloze I přímo použitelného předpisu Evropské unie upravujícím celní statistickou nomenklaturu<sup>9</sup>)“.
+
+Poznámka pod čarou č. 9 zní:
+
+> „<sup>9</sup>) Příloha I nařízení Rady (EHS) č. 2658/87 ze dne 23. července 1987 o celní statistické nomenklatuře a o společném celním sazebníku, v platném znění.“.
+
+2\. Příloha č. 7 se včetně poznámky pod čarou č. 6 zrušuje.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministr:
+
+MUDr. Němeček, MBA, v. r.

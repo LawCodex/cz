@@ -1,0 +1,48 @@
+---
+title: "Zákon č. 168/2015 Sb., kterým se mění zákon č. 154/2000 Sb., o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon), ve znění pozdějších předpisů"
+identifier: "168/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/168/2015-07-02"
+type: act
+jurisdiction: cz
+language: cs
+date: 2015-06-18
+effective: 2015-07-02
+last_amended: 2015-07-02
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/168"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 168/2015 Sb., kterým se mění zákon č. 154/2000 Sb., o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon), ve znění pozdějších předpisů
+
+168
+
+ZÁKON
+
+ze dne 18. června 2015,
+
+kterým se mění zákon č. 154/2000 Sb., o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 154/2000 Sb., o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon), ve znění zákona č. 309/2002 Sb., zákona č. 162/2003 Sb., zákona č. 282/2003 Sb., zákona č. 444/2005 Sb., zákona č. 130/2006 Sb., zákona č. 182/2008 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 291/2009 Sb., zákona č. 32/2011 Sb., zákona č. 64/2014 Sb. a zákona č. 250/2014 Sb., se mění takto:
+
+V § 2 odst. 1 písmeno j) včetně poznámky pod čarou č. 20 zní:
+
+> „j) oprávněnou osobou právnická nebo fyzická osoba, která je podnikatelem<sup>20</sup>), státní příspěvková organizace nebo uznané chovatelské sdružení, kterým Ministerstvo zemědělství (dále jen „ministerstvo“) udělilo souhlas k výkonu některých odborných činností podle § 3,
+
+> <sup>20</sup>) § 420 a násl. zákona č. 89/2012 Sb., občanský zákoník.“.
+
+Poznámka pod čarou č. 4 se zrušuje.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti prvním dnem následujícím po dni jeho vyhlášení.
+
+Hamáček v. r.
+
+Zeman v. r.
+
+Sobotka v. r.

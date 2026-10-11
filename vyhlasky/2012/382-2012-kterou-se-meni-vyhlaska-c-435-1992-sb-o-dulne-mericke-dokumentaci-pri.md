@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 382/2012 Sb., kterou se mění vyhláška č. 435/1992 Sb., o důlně měřické dokumentaci při hornické činnosti a některých činnostech prováděných hornickým způsobem, ve znění pozdějších předpisů"
+identifier: "382/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/382/2012-12-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-11-08
+effective: 2012-12-01
+last_amended: 2012-12-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/382"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 382/2012 Sb., kterou se mění vyhláška č. 435/1992 Sb., o důlně měřické dokumentaci při hornické činnosti a některých činnostech prováděných hornickým způsobem, ve znění pozdějších předpisů
+
+382
+
+VYHLÁŠKA
+
+ze dne 8. listopadu 2012,
+
+kterou se mění vyhláška č. 435/1992 Sb., o důlně měřické dokumentaci při hornické činnosti a některých činnostech prováděných hornickým způsobem, ve znění pozdějších předpisů
+
+Český báňský úřad stanoví podle § 20 odst. 2, § 38 odst. 5 písm. a) a § 41 odst. 1 písm. h) zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona č. 542/1991 Sb., a podle § 39 odst. 3 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona č. 541/1991 Sb.:
+
+## Čl. I
+
+Vyhláška č. 435/1992 Sb., o důlně měřické dokumentaci při hornické činnosti a některých činnostech prováděných hornickým způsobem, ve znění vyhlášky č. 158/1997 Sb. a vyhlášky č. 298/2005 Sb., se mění takto:
+
+1\. § 3 včetně nadpisu a poznámky pod čarou č. 3 zní:
+
+> **„§ 3 – Hlavní důlní měřič**
+
+> Požadavky na odbornou kvalifikaci a odbornou způsobilost k výkonu funkce hlavního důlního měřiče stanoví vyhláška o požadavcích na odbornou kvalifikaci a odbornou způsobilost při hornické činnosti nebo činnosti prováděné hornickým způsobem<sup>3</sup>).
+
+> <sup>3</sup>) Vyhláška č. 298/2005 Sb., o požadavcích na odbornou kvalifikaci a odbornou způsobilost při hornické činnosti nebo činnosti prováděné hornickým způsobem a o změně některých právních předpisů, ve znění vyhlášky č. 240/2006 Sb. a vyhlášky č. 378/2012 Sb.“.
+
+2\. § 4 včetně nadpisu zní:
+
+> **„§ 4 – Důlní měřič**
+
+> Požadavky na odbornou kvalifikaci a odbornou způsobilost k výkonu funkce důlního měřiče stanoví vyhláška o požadavcích na odbornou kvalifikaci a odbornou způsobilost při hornické činnosti nebo činnosti prováděné hornickým způsobem<sup>3</sup>).“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. prosince 2012.
+
+Předseda:
+
+Ing. Pěgřímek v. r.

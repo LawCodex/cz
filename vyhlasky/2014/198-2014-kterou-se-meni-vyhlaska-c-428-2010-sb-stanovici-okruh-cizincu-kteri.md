@@ -1,0 +1,40 @@
+---
+title: "Vyhláška č. 198/2014 Sb., kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění pozdějších předpisů"
+identifier: "198/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/198/2014-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-09-03
+effective: 2014-10-01
+last_amended: 2014-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/198"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 198/2014 Sb., kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění pozdějších předpisů
+
+198
+
+VYHLÁŠKA
+
+ze dne 3. září 2014,
+
+kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění pozdějších předpisů
+
+Ministerstvo vnitra po projednání s Ministerstvem zahraničních věcí stanoví podle § 182 odst. 1 písm. b) zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 428/2005 Sb., zákona č. 379/2007 Sb. a zákona č. 427/2010 Sb.:
+
+## Čl. I
+
+V příloze k vyhlášce č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění vyhlášky č. 270/2011 Sb., vyhlášky č. 46/2013 Sb. a vyhlášky č. 20/2014 Sb., se bod 12 zrušuje.
+
+Dosavadní body 13 až 29 se označují jako body 12 až 28.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. října 2014.
+
+Ministr:
+
+Chovanec v. r.

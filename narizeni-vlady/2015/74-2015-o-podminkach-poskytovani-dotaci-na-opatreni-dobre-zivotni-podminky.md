@@ -1,0 +1,639 @@
+---
+title: "Nařízení vlády č. 74/2015 Sb., o podmínkách poskytování dotací na opatření dobré životní podmínky zvířat"
+identifier: "74/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/74/2023-04-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2015-04-08
+effective: 2015-04-15
+last_amended: 2023-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/74"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 74/2015 Sb., o podmínkách poskytování dotací na opatření dobré životní podmínky zvířat ve znění nařízení vlády č. 113/2015 Sb., nařízení vlády č. 62/2016 Sb., nařízení vlády č. 17/2017 Sb., nařízení vlády č. 49/2017 Sb., nařízení vlády č. 34/2018 Sb., nařízení vlády č. 58/2019 Sb., nařízení vlády č. 332/2019 Sb., nařízení vlády č. 217/2020 Sb., nařízení vlády č. 55/2021 Sb., nařízení vlády č. 177/2021 Sb., nařízení vlády č. 33/2022 Sb. a nařízení vlády č. 84/2023 Sb."
+---
+
+# Nařízení vlády č. 74/2015 Sb., o podmínkách poskytování dotací na opatření dobré životní podmínky zvířat
+
+74
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 8. dubna 2015
+
+o podmínkách poskytování dotací na opatření dobré životní podmínky zvířat
+
+Vláda nařizuje podle § 2c odst. 5 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb., zákona č. 85/2004 Sb., zákona č. 291/2009 Sb. a zákona č. 179/2014 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb., zákona č. 291/2009 Sb. a zákona č. 179/2014 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje v návaznosti na přímo použitelné předpisy Evropské unie<sup>1</sup>) podmínky poskytování dotací na opatření dobré životní podmínky zvířat.
+
+## § 2 – Opatření dobré životní podmínky zvířat
+
+(1) Opatření dobré životní podmínky zvířat je tvořeno těmito podopatřeními:
+
+a) zvětšení lehacího prostoru v chovu dojnic,
+
+b) zlepšení stájového prostředí v chovu dojnic,
+
+c) zajištění přístupu do výběhu pro suchostojné krávy,
+
+d) zlepšení životních podmínek v chovu prasat, které zahrnuje
+
+1\. titul zlepšení životních podmínek pro prasničky a
+
+2\. titul zlepšení životních podmínek pro prasnice, a
+
+e) zvětšení plochy pro odstavená selata.
+
+(2) Pro účely tohoto nařízení se rozumí
+
+a) dojnicí samice skotu chovaná v systému s tržní produkcí mléka, u které je v informačním systému ústřední evidence hospodářských zvířat<sup>3</sup>) (dále jen „ústřední evidence“) zaznamenán alespoň 1 porod,
+
+b) suchostojnou krávou dojnice, která se nachází v období maximálně 60 dnů před ukončením březosti,
+
+c) prasničkou dospělá samice prasete od stáří 7 měsíců do ukončení první březosti,
+
+d) prasnicí dospělá samice prasete, u které proběhl alespoň 1 porod,
+
+e) odstaveným seletem sele v období do 40 dnů ode dne odstavu a
+
+f) dobou závazku období plnění podmínek opatření dobré životní podmínky zvířat, které trvá od 1. března příslušného kalendářního roku, za který má být dotace poskytnuta, do posledního dne měsíce února následujícího kalendářního roku.
+
+## § 3 – Žadatel o poskytnutí dotace
+
+(1) Žadatelem o poskytnutí dotace je fyzická nebo právnická osoba, která
+
+a) ke dni podání žádosti chová minimálně 5 velkých dobytčích jednotek dojnic evidovaných v ústřední evidenci<sup>3</sup>) v případě podopatření podle § 2 odst. 1 písm. a) až c); přepočítávací koeficient pro stanovení počtu velkých dobytčích jednotek je uveden v příloze č. 1 k tomuto nařízení a
+
+b) ke dni podání žádosti chová minimálně 3 velké dobytčí jednotky prasat evidovaných v ústřední evidenci<sup>3</sup>) v případě podopatření podle § 2 odst. 1 písm. d) a e); přepočítávací koeficient pro stanovení počtu velkých dobytčích jednotek je uveden v příloze č. 1 k tomuto nařízení.
+
+(2) O poskytnutí dotace může požádat též organizační složka státu podle zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů, která splňuje podmínky uvedené v odstavci 1 písm. a) a b).
+
+(3) Hospodářství evidované v ústřední evidenci<sup>3</sup>) (dále jen „hospodářství“), na kterém chová osoba podle odstavce 1 nebo organizační složka státu podle odstavce 2 (dále jen „žadatel“) hospodářská zvířata, která jsou předmětem dotace není v době závazku zařazeno v systému ekologického zemědělství v souladu se zákonem č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění pozdějších předpisů.
+
+(4) Pokud žadatel žádá o poskytnutí dotace na podopatření podle § 2 odst. 1 písm. a) až c), musí po celou dobu závazku chovat dojnice na hospodářstvích uvedených v žádosti o poskytnutí dotace ve stájích s technologií volného ustájení.
+
+## § 5 – Žádost o poskytnutí dotace
+
+(1) Žádost o poskytnutí dotace žadatel doručí Fondu do 15. května příslušného kalendářního roku, za který má být dotace poskytnuta, a to na formuláři vydaném Fondem pro příslušný kalendářní rok v rámci jednotné žádosti<sup>4</sup>).
+
+(2) Žádost o poskytnutí dotace obsahuje
+
+a) náležitosti stanovené zákonem o zemědělství,
+
+b) náležitosti podle § 9 až 13 vztahující se k jednotlivým podopatřením, na které žadatel o poskytnutí dotace žádá,
+
+c) prohlášení o tom, že se žadatel zavazuje dodržovat pravidla podmíněnosti uvedená v přílohách č. 1 až 4 k nařízení vlády č. 48/2017 Sb., o stanovení požadavků podle aktů a standardů dobrého zemědělského a environmentálního stavu pro oblasti pravidel podmíněnosti a důsledků jejich porušení pro poskytování některých zemědělských podpor, po celý kalendářní rok na veškeré jím obhospodařované zemědělské půdě, a
+
+d) požadavek na zajištění osvědčení u vybraných parametrů podle § 7.
+
+(3) Je-li žádost o poskytnutí dotace doručena po lhůtě uvedené v odstavci 1, dotace se za podmínek stanovených přímo použitelným předpisem Evropské unie<sup>5</sup>) sníží, popřípadě Fond žádost o poskytnutí dotace zamítne.
+
+(4) Případnou změnu žádosti o poskytnutí dotace podle podmínek stanovených přímo použitelným předpisem Evropské unie<sup>18</sup>) doručí žadatel Fondu do 31. května příslušného kalendářního roku na formuláři vydaném Fondem.
+
+(5) Žádost podle odstavce 1 nelze Fondu podat pro období počínající rokem 2023 a pro období následující.
+
+## § 6 – Podmínky poskytnutí dotace
+
+(1) Fond poskytne dotaci na opatření dobré životní podmínky zvířat v plné výši, jestliže žadatel po celé retenční období, pokud není v nařízení uvedeno jinak,
+
+a) dodržuje pravidla podmíněnosti uvedená v přílohách č. 1 až 4 k nařízení vlády č. 48/2017 Sb.,
+
+b) na hospodářství uvedeném v žádosti o poskytnutí dotace (dále jen „uvedené hospodářství“) chová hospodářská zvířata tak, aby nedocházelo k jejich týrání nebo usmrcování nepovoleným způsobem<sup>6</sup>), a dodržuje požadavky pro chov hospodářských zvířat podle přílohy č. 8 k tomuto nařízení,
+
+c) splňuje podmínky stanovené tímto nařízením pro jednotlivá podopatření,
+
+d) vede průběžně, nejpozději následující den po provedeném úkonu, evidence podle § 10 odst. 2 písm. d), § 11 odst. 3 písm. b), § 12 odst. 2 písm. d), § 12 odst. 4 písm. d) nebo § 13 odst. 2 písm. d) a uchovává tyto evidence pro potřeby kontroly prokazující poskytnutí a užití dotace minimálně po dobu 10 let<sup>7</sup>),
+
+e) chová minimálně 5 velkých dobytčích jednotek dojnic v případě podopatření podle § 2 odst. 1 písm. a), b) nebo c).
+
+(2) Retenčním obdobím je období pro stanovení velkých dobytčích jednotek<sup>8</sup>) hospodářských zvířat, která jsou předmětem dotace, a které trvá od 1. června příslušného kalendářního roku, za který má být dotace poskytnuta, do posledního dne měsíce února následujícího kalendářního roku.
+
+(3) Za způsobilou dojnici se pro účely podopatření podle § 2 odst. 1 písm. a), b) nebo c) považuje dojnice, u níž je v ústřední evidenci<sup>3</sup>) evidováno hlášení o události
+
+a) zmetání po 7 měsících březosti, mrtvě narozeného telete nebo změny systému chovu z hlediska tržní produkce mléka do 30 dnů ode dne události, nebo
+
+b) narození telete ve lhůtě podle vyhlášky č. 136/2004 Sb., kterou se stanoví podrobnosti označování zvířat a jejich evidence a evidence hospodářství a osob stanovených plemenářským zákonem, ve znění pozdějších předpisů, případně oprava tohoto hlášení.
+
+(4) Není-li hlášení o události evidováno ve lhůtě podle odstavce 3, za způsobilou dojnici se pro účely podopatření podle § 2 odst. 1 písm. a), b) nebo c) považuje dojnice dnem evidování hlášení o události v ústřední evidenci<sup>3</sup>) nebo pokud byl kontrolou na místě zjištěn stav odůvodňující její způsobilost.
+
+(5) Za způsobilou dojnici pro účely podopatření podle § 2 odst. 1 písm. a), b) nebo c) se považuje také dojnice, která se účastní svodu podle veterinárního zákona, který trvá nejdéle 10 dnů.
+
+(6) Za způsobilou dojnici pro účely podopatření podle § 2 odst. 1 písm. c) se považuje suchostojná kráva, která má nepřetržitě po dobu minimálně 30 dnů neomezený přístup do výběhu na uvedeném hospodářství podle § 11 odst. 1 písm. a).
+
+(7) Fond poskytne dotaci v plné výši, nebude-li zjištěno u žadatele nedodržení podmínek opatření dobré životní podmínky zvířat stanovených v tomto nařízení vedoucí ke snížení, neposkytnutí nebo vrácení dotace.
+
+## § 7 – Osvědčení parametrů
+
+(1) Žadatel podá Fondu na jím vydaném formuláři žádost o zajištění osvědčení u vybraných parametrů (dále jen „osvědčení“) na uvedených hospodářstvích, a to
+
+a) u podopatření podle § 2 odst. 1 písm. a) až c) volné ustájení dojnic,
+
+b) u podopatření podle § 2 odst. 1 písm. a) celkové rozměry v m<sup>2</sup> plochy lehacích prostor podle jednotlivých typů ustájení<sup>9</sup>) a počet lehacích prostor,
+
+c) u podopatření podle § 2 odst. 1 písm. c) neomezený přístup do výběhu včetně rozměru výběhu a
+
+d) u podopatření podle § 2 odst. 1 písm. e) rozměry v m<sup>2</sup>plochy lehacích prostor (kotců)<sup>9</sup>) a počet lehacích prostor.
+
+(2) Osvědčení je zajištěno v průběhu doby závazku pro příslušný rok, ve kterém byla žádost o poskytnutí dotace podána, a je platné i v následujících letech, nedošlo-li u žadatele ke změnám způsobu ustájení<sup>10</sup>) nebo změně rozměrů výběhu pro suchostojné krávy.
+
+(3) V případě, že žadateli již bylo zajištěno osvědčení v předchozích letech, požádá podle odstavce 1 o vyhotovení nového osvědčení pro aktuální rok, ve kterém byla žádost o poskytnutí dotace podána, pouze v případě, že
+
+a) došlo ke změně rozměrů trvalého objektu podle evidence využití půdy podle uživatelských vztahů podle zákona o zemědělství (dále jen „trvalý objekt“) nebo způsobu ustájení<sup>10</sup>),
+
+b) došlo ke změně rozměrů výběhu pro suchostojné krávy, nebo
+
+c) žádá na jiné hospodářství nebo trvalý objekt a tyto nebyly zahrnuty v osvědčení z předchozích kalendářních let.
+
+(4) V případě změny rozměrů trvalého objektu nebo způsobu ustájení<sup>10</sup>) v rámci daného podopatření, nebo změny rozměrů výběhu u trvalého objektu pro suchostojné krávy v průběhu doby závazku, je žadatel povinen ohlásit Fondu na jím vydaném formuláři tuto změnu, a to nejméně 30 dnů před provedením změny.
+
+(5) V případě, že žadatel nepodá žádost podle odstavce 1 nebo neumožní Fondu osvědčit parametry v rámci daného podopatření, Fond žádost o poskytnutí dotace pro dané podopatření zamítne.
+
+## § 8 – Hlášení stavu prasat do integrovaného zemědělského registru
+
+(1) Žadatel v případě podání žádosti o poskytnutí dotace na podopatření podle § 2 odst. 1 písm. d) nebo e) zasílá elektronicky po celé retenční období orgánu příslušnému pro vedení integrovaného zemědělského registru databáze ústřední evidence<sup>3</sup>) měsíční hlášení o denních stavech prasat (dále jen „hlášení“) samostatně za každé uvedené hospodářství v těchto kategoriích:
+
+a) prasnice,
+
+b) prasničky, z toho u prasniček zapuštěných v daném měsíci s uvedením označení prasniček podle § 12 odst. 2 písm. b), data jejich narození a data prvního zapuštění, nebo
+
+c) odstavená selata.
+
+(2) Hlášení podává žadatel zpětně nejpozději dvacátý den následujícího měsíce po měsíci, za který je hlášení zasíláno, s výjimkou února, kdy hlášení podává nejpozději do 10. března.
+
+(3) Změny v hlášeních podle odstavce 1 lze provádět nejpozději do 10 dnů po ukončení doby závazku.
+
+## § 9 – Podopatření zvětšení lehacího prostoru v chovu dojnic
+
+(1) Součástí žádosti o poskytnutí dotace na podopatření zvětšení lehacího prostoru v chovu dojnic je seznam
+
+a) registračních čísel uvedených hospodářství, na kterých žadatel plní podmínky tohoto podopatření po celou dobu závazku, a
+
+b) čísel všech trvalých objektů, které žadatel využívá pro chov dojnic po celou dobu závazku a které přísluší k uvedenému hospodářství podle písmene a).
+
+(2) Fond poskytne dotaci na podopatření zvětšení lehacího prostoru v chovu dojnic, jestliže žadatel na každém z uvedených hospodářství plní podmínky v souladu s § 6 a zajistí každé dojnici minimální celkovou plochu lehacího prostoru, a to tak, že
+
+a) ve volném ustájení v produkční stáji s boxovými loži minimální celková plocha lehacího prostoru stáje činí na 1 dojnici, případně jiné evidované hospodářské zvíře<sup>3</sup>), v případě
+
+1\. jednořadého uspořádání boxů 2,90 m<sup>2</sup>,
+
+2\. protilehlého uspořádání dvou řad boxů 2,60 m<sup>2</sup> a
+
+3\. kombiboxů 2,22 m<sup>2</sup>,
+
+b) ve volném ustájení ve skupinových kotcích s lehárnou minimální celková plocha lehacího prostoru stáje činí 5,75 m<sup>2</sup> na 1 dojnici, případně jiné evidované hospodářské zvíře<sup>3</sup>), nebo
+
+c) ve volném ustájení v porodním kotci pro volné telení minimální celková plocha lehacího prostoru stáje činí 10,35 m<sup>2</sup> na 1 dojnici, případně jiné evidované hospodářské zvíře<sup>3</sup>).
+
+(3) Fond poskytne dotaci na minimální denní počet velkých dobytčích jednotek zjištěných dojnic<sup>8</sup>) stanovený podle minimálního denního počtu způsobilých dojnic podle § 6 odst. 3, 4 nebo 5 evidovaných v ústřední evidenci<sup>3</sup>) v retenčním období na uvedeném hospodářství splňující podmínky stanovené tímto nařízením.
+
+## § 10 – Podopatření zlepšení stájového prostředí v chovu dojnic
+
+(1) Součástí žádosti o poskytnutí dotace na podopatření zlepšení stájového prostředí v chovu dojnic je
+
+a) seznam registračních čísel uvedených hospodářství, na kterých žadatel plní podmínky tohoto podopatření po celou dobu závazku,
+
+b) seznam čísel všech trvalých objektů, které žadatel využívá pro chov dojnic po celou dobu závazku a které přísluší k uvedenému hospodářství podle písmene a), a
+
+c) uvedení jedné vybrané metody regulace nežádoucího hmyzu podle odstavce 2 písm. a) pro každý objekt uvedený v písmeni b).
+
+(2) Fond poskytne dotaci na podopatření zlepšení stájového prostředí v chovu dojnic, jestliže žadatel na každém z uvedených hospodářství plní v souladu s § 6 následující podmínky:
+
+a) provádí dezinsekci ve všech objektech uvedených v odstavci 1 písm. b), a to tak, že v případě použití
+
+1\. chemické metody provede celkově alespoň 4 aplikace chemického přípravku s dobou účinnosti do 30 dnů včetně, v souladu s přílohou č. 3 k tomuto nařízení, a to jednou v průběhu každého kalendářního měsíce v období od 1. června do 30. září příslušného kalendářního roku; v případě použití přípravku s dobou účinnosti nad 30 dnů provede alespoň 1 aplikaci chemického přípravku v průběhu každých 2 kalendářních měsíců v období od 1. června do 30. září příslušného kalendářního roku, nebo
+
+2\. biologické metody provede celkově alespoň 8 aplikací nasazení biologického materiálu v souladu s přílohou č. 3 k tomuto nařízení, a to dvakrát v průběhu každého kalendářního měsíce v období od 1. června do 30. září příslušného kalendářního roku,
+
+b) uchovává obaly od jím aplikovaných chemických přípravků nebo biologických materiálů po dobu 1 roku od jejich užití nebo zajistí jejich odstranění pověřenou osobou podle zákona o odpadech. V případě odstranění obalů pověřenou osobou předloží žadatel potvrzení s těmito náležitostmi:
+
+1\. jméno a příjmení žadatele, nebo jeho název,
+
+2\. registrační číslo hospodářství,
+
+3\. číslo trvalého objektu,
+
+4\. kódové označení obalů,
+
+5\. množství obalů a jejich obsah,
+
+6\. název dezinsekčního přípravku, který obal obsahoval, a
+
+7\. identifikace pověřené osoby k odstranění obalů s uvedením názvu, adresy sídla a IČ,
+
+c) uchovává daňové, účetní nebo jiné doklady o nákupu jím aplikovaných chemických přípravků nebo biologických materiálů, nebo o odstranění jejich obalů, nebo daňové, účetní nebo jiné doklady o jejich aplikaci formou služeb, ze kterých je patrno, na které uvedené hospodářství byly aplikovány, minimálně po dobu 10 let<sup>7</sup>) od jejich užití,
+
+d) vede evidenci regulace nežádoucího hmyzu s náležitostmi uvedenými v příloze č. 3 k tomuto nařízení a
+
+e) nastýlá slámou nebo separátem, s alkalizací přípravkem s obsahem vápence tak, aby zabezpečil výsledné pH nastlané podestýlky v hodnotě minimálně 8,5; to neplatí, pokud se jedná o porodny, které jsou stavebně odděleny.
+
+(3) Fond poskytne dotaci na minimální denní počet velkých dobytčích jednotek zjištěných dojnic<sup>8</sup>) stanovený podle minimálního denního počtu způsobilých dojnic podle § 6 odst. 3, 4 nebo 5 evidovaných v ústřední evidenci<sup>3</sup>) v retenčním období na uvedeném hospodářství splňující podmínky stanovené tímto nařízením.
+
+## § 11 – Podopatření zajištění přístupu do výběhu pro suchostojné krávy
+
+(1) Součástí žádosti o poskytnutí dotace na podopatření zajištění přístupu do výběhu pro suchostojné krávy je seznam
+
+a) registračních čísel uvedených hospodářství s čísly trvalých objektů, které žadatel využívá pro chov suchostojných krav a plní zde podmínky tohoto podopatření po celou dobu závazku, a
+
+b) čísel dílů půdních bloků podle evidence využití půdy podle uživatelských vztahů podle zákona o zemědělství v případě zajištění přístupu do výběhu podle odstavce 2 písm. b).
+
+(2) Pro účely tohoto podopatření se výběhem rozumí
+
+a) ohraničená venkovní plocha, nebo
+
+b) díl půdního bloku podle evidence využití půdy podle uživatelských vztahů podle zákona o zemědělství,
+
+s minimálním rozměrem 5 m<sup>2</sup> na 1 suchostojnou krávu, případně jiné evidované hospodářské zvíře<sup>3</sup>), v přímé návaznosti na trvalý objekt podle odstavce 1 písm. a).
+
+(3) Fond poskytne dotaci na podopatření zajištění přístupu do výběhu pro suchostojné krávy, jestliže žadatel na každém uvedeném hospodářství podle odstavce 1 písm. a) plní v souladu s § 6 následující podmínky:
+
+a) zajistí suchostojným krávám v období 60 dnů před ukončením březosti nepřetržitě po dobu minimálně 30 dnů nepřetržitý přístup do výběhu,
+
+b) vede evidenci o pobytu suchostojných krav ve stáji s přístupem do výběhu s náležitostmi uvedenými v příloze č. 4 k tomuto nařízení a
+
+c) nastýlá slámou ve výběhu tak, aby plocha v přímé návaznosti na trvalý objekt podle odstavce 1 písm. a) byla nastlána v minimálním rozměru 5 m<sup>2</sup> na 1 suchostojnou krávu, případně jiné evidované hospodářské zvíře<sup>3</sup>).
+
+(4) Fond poskytne dotaci na celkový počet velkých dobytčích jednotek zjištěných suchostojných krav<sup>8</sup>) stanovený podle počtu způsobilých dojnic podle § 6 odst. 3 až 6 evidovaných v ústřední evidenci<sup>3</sup>) v retenčním období na uvedeném hospodářství podle odstavce 1 písm. a) splňující podmínky stanovené tímto nařízením, a které ukončily březost v období od 1. července do posledního dne měsíce února následujícího kalendářního roku po roce, za který má být dotace poskytnuta.
+
+## § 12 – Podopatření zlepšení životních podmínek v chovu prasat
+
+(1) Součástí žádosti o poskytnutí dotace na podopatření zlepšení životních podmínek v chovu prasat je
+
+a) seznam registračních čísel uvedených hospodářství, na kterých žadatel plní podmínky tohoto podopatření po celou dobu závazku,
+
+b) seznam čísel všech trvalých objektů, které žadatel využívá pro chov prasnic nebo prasniček po celou dobu závazku a které přísluší k uvedenému hospodářství podle písmene a),
+
+c) v případě žádosti o poskytnutí dotace na podopatření zlepšení životních podmínek v chovu prasat podle § 2 odst. 1 písm. d) bodu 1 počet prasniček zapouštěných na uvedeném hospodářství během retenčního období, u kterých bude žadatel plnit podmínky stanovené tímto nařízením, a
+
+d) v případě žádosti o poskytnutí dotace na podopatření zlepšení životních podmínek v chovu prasat podle § 2 odst. 1 písm. d) bodu 2 minimální denní počet prasnic na uvedeném hospodářství, u kterých bude žadatel plnit podmínky stanovené tímto nařízením v retenčním období.
+
+(2) Fond poskytne dotaci na podopatření zlepšení životních podmínek v chovu prasat podle § 2 odst. 1 písm. d) bodu 1, jestliže žadatel na každém z uvedených hospodářství plní v souladu s § 6 následující podmínky:
+
+a) chová minimálně 1 velkou dobytčí jednotku prasniček,
+
+b) provádí individuální označení prasniček,
+
+c) provádí první zapuštění prasniček nejdříve ve věku 230 dnů; stáří prasničky se počítá ode dne následujícího po dni narození,
+
+d) vede evidenci o zapouštění prasniček s náležitostmi uvedenými v příloze č. 5 k tomuto nařízení a
+
+e) eviduje prasničky v integrovaném zemědělském registru databáze ústřední evidence podle § 8.
+
+(3) Fond poskytne dotaci podle odstavce 2 na počet velkých dobytčích jednotek stanovený podle počtu zjištěných prasniček<sup>8</sup>) během celého retenčního období na uvedeném hospodářství splňující podmínky stanovené tímto nařízením.
+
+(4) Fond poskytne dotaci na podopatření zlepšení životních podmínek v chovu prasat podle § 2 odst. 1 písm. d) bodu 2, jestliže žadatel na každém z uvedených hospodářství plní v souladu s § 6 následující podmínky:
+
+a) chová minimálně 3 velké dobytčí jednotky prasnic,
+
+b) provádí na všech porodnách prasnic v uvedených trvalých objektech na hospodářství, kde chová prasnice, účinnou desinfekci v rámci jednorázového naskladnění a vyskladnění sekcí, které jsou stavebně odděleny (dále jen „turnusový provoz“), s následným ponecháním ustájovacího prostoru prázdného po dobu minimálně 24 hodin,
+
+c) pověřená osoba podle § 12f zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů, provádí kontroly spárků prasnic po každém odstavu, v případě potřeby také jejich ošetření,
+
+d) vede evidenci s náležitostmi uvedenými v příloze č. 6 k tomuto nařízení o turnusovém provozu a o kontrole, případně ošetření spárků a
+
+e) eviduje prasnice v integrovaném zemědělském registru databáze ústřední evidence podle § 8.
+
+(5) Fond poskytne dotaci podle odstavce 4 na minimální denní počet velkých dobytčích jednotek stanovený podle počtu zjištěných prasnic<sup>8</sup>) v retenčním období na uvedeném hospodářství splňující podmínky stanovené tímto nařízením.
+
+## § 13 – Podopatření zvětšení plochy pro odstavená selata
+
+(1) Součástí žádosti o poskytnutí dotace na podopatření zvětšení plochy pro odstavená selata je
+
+a) seznam registračních čísel uvedených hospodářství, na kterých žadatel plní podmínky tohoto podopatření po celou dobu závazku,
+
+b) seznam všech čísel trvalých objektů, které žadatel využívá pro chov odstavených selat po celou dobu závazku a které přísluší k hospodářství podle písmene a), a
+
+c) průměrný počet odstavených selat za retenční období na uvedeném hospodářství, u kterých bude žadatel plnit podmínky tohoto podopatření v retenčním období.
+
+(2) Fond poskytne dotaci na podopatření zvětšení plochy pro odstavená selata, jestliže žadatel na každém z uvedených hospodářství plní v souladu s § 6 následující podmínky:
+
+a) chová minimálně 1 velkou dobytčí jednotku odstavených selat; za porušení se nepovažuje snížení počtu velkých dobytčích jednotek, které trvá nejvýše 10 po sobě jdoucích kalendářních dnů,
+
+b) zajistí všem odstaveným selatům, případně jinému evidovanému hospodářskému zvířeti<sup>3</sup>), plochu prostoru minimálně 0,24 m<sup>2</sup> na kus,
+
+c) označí jednotlivé sekce, popřípadě kotce, ve kterých jsou chována odstavená selata,
+
+d) vede evidenci odstavených selat s náležitostmi uvedenými v příloze č. 7 k tomuto nařízení a
+
+e) eviduje odstavená selata v integrovaném zemědělském registru databáze ústřední evidence podle § 8.
+
+(3) Fond poskytne dotaci na počet velkých dobytčích jednotek stanovený podle průměrného počtu zjištěných<sup>8</sup>) odstavených selat za retenční období na uvedeném hospodářství splňujících podmínky stanovené tímto nařízením. Průměrný počet odstavených selat se stanoví jako aritmetický průměr celkového počtu zjištěných odstavených selat za retenční období.
+
+## § 15 – Oznámení o převodu obchodního závodu
+
+Oznámení o převodu obchodního závodu<sup>11</sup>) podá nabyvatel Fondu na Fondem vydaném formuláři nejpozději do 30 kalendářních dnů ode dne převodu zvířat v ústřední evidenci<sup>3</sup>) na nabyvatele.
+
+## § 16 – Výše dotace
+
+(1) Sazba dotace činí
+
+a) 13 EUR na 1 velkou dobytčí jednotku dojnic v případě podopatření uvedeného v § 2 odst. 1 písm. a),
+
+b) 67 EUR na 1 velkou dobytčí jednotku dojnic v případě podopatření uvedeného v § 2 odst. 1 písm. b),
+
+c) 42 EUR na 1 velkou dobytčí jednotku dojnic v případě podopatření uvedeného v § 2 odst. 1 písm. c),
+
+d) 147 EUR na 1 velkou dobytčí jednotku prasniček v případě podopatření uvedeného v § 2 odst. 1 písm. d) bodě 1,
+
+e) 59 EUR na 1 velkou dobytčí jednotku prasnic v případě podopatření uvedeného v § 2 odst. 1 písm. d) bodě 2 a
+
+f) 89 EUR na 1 velkou dobytčí jednotku selat v případě podopatření uvedeného v § 2 odst. 1 písm. e).
+
+(2) Dotace za příslušný kalendářní rok se vypočte jako součin počtu velkých dobytčích jednotek<sup>8</sup>) zjištěných zvířat a sazby uvedené v odstavci 1.
+
+(3) Fond poskytne dotaci v měně České republiky; sazba dotace podle odstavce 1 se přepočte podle směnného kurzu, který je uveřejněn v posledním Úředním věstníku Evropské unie ke dni 31. prosince kalendářního roku předcházejícímu roku, za který se dotace poskytuje. Není-li k tomuto datu směnný kurz stanoven, použije se nejbližší předcházející směnný kurz.
+
+(4) Fond dotaci na uvedené hospodářství žadatele neposkytne v případě, že alespoň jeden z trvalých objektů uvedený v žádosti o poskytnutí dotace, se nachází na území hlavního města Prahy<sup>12</sup>).
+
+(5) Fond dotaci na podopatření podle § 2 odst. 1 písm. a) na uvedené hospodářství žadatele neposkytne v případě, že v alespoň jednom z trvalých objektů uvedených v žádosti o poskytnutí dotace došlo k navýšení počtu ustájených zvířat podle § 2 odst. 7 písm. b) bodu 1 vyhlášky č. 208/2004 Sb., o minimálních standardech pro ochranu hospodářských zvířat, ve znění pozdějších předpisů, pro stáje s automatickým dojicím systémem podle § 1a písm. e) vyhlášky č. 208/2004 Sb., ve znění pozdějších předpisů.
+
+## § 17 – Zamítnutí žádosti o poskytnutí dotace a snížení nebo neposkytnutí dotace
+
+(1) Dotace za příslušný kalendářní rok podle § 5 se pro uvedené hospodářství neposkytne, zjistí-li Fond, že žadatel nedodržel podmínku stanovenou v
+
+a) § 3 odst. 1 písm. a) nebo b),
+
+b) § 3 odst. 3 nebo 4,
+
+c) § 6 odst. 1 písm. d) nebo e),
+
+d) § 8 odst. 1,
+
+e) § 9 odst. 2,
+
+f) § 10 odst. 2 písm. c),
+
+g) § 11 odst. 2,
+
+h) § 11 odst. 3 písm. a) nebo c),
+
+i) § 12 odst. 2 písm. a) nebo b),
+
+j) § 12 odst. 4 písm. a), b) nebo c), nebo
+
+k) § 13 odst. 2 písm. a) nebo b).
+
+(2) Dotace pro opatření dobré životní podmínky zvířat za příslušný kalendářní rok se neposkytne, zjistí-li Fond, že žadatel nedodržel podmínky stanovené v § 6 odst. 1 písm. b) anebo pokud žadatel nedodržel § 2, 4 nebo 5 zákona na ochranu zvířat proti týrání nebo nedodržel požadavky pro chov hospodářských zvířat podle přílohy č. 8 k tomuto nařízení.
+
+(3) Zjistí-li Fond, že počet velkých dobytčích jednotek zjištěných zvířat<sup>8</sup>) chovaných žadatelem v retenčním období je
+
+a) vyšší než počet velkých dobytčích jednotek uvedený v žádosti o poskytnutí dotace pro podopatření nebo titul podle § 2 odst. 1 písm. d) nebo e) pro uvedené hospodářství žadatele, použije pro výpočet dotace počet velkých dobytčích jednotek uvedený v této žádosti, nebo
+
+b) nižší než počet velkých dobytčích jednotek způsobilých dojnic pro podopatření podle § 2 odst. 1 písm. a), b) nebo c) nebo uvedený v žádosti o poskytnutí dotace pro podopatření nebo titul podle § 2 odst. 1 písm. d) nebo e), dotaci v rámci daného podopatření nebo titulu pro uvedené hospodářství sníží, popřípadě žádost o poskytnutí dotace zamítne<sup>13</sup>).
+
+(4) Zjistí-li Fond, že žadatel o poskytnutí dotace v rámci opatření dobré životní podmínky zvířat porušil pravidla podmíněnosti uvedená v přílohách č. 1 až 4 k nařízení vlády č. 48/2017 Sb., dotaci v rámci opatření dobré životní podmínky zvířat podle přímo použitelného předpisu Evropské unie<sup>14</sup>) neposkytne nebo sníží.
+
+(5) Zjistí-li Fond, že žadatel nedodržel podmínku stanovenou v § 7 odst. 4, dotaci v rámci daného podopatření pro uvedené hospodářství sníží o 10 %.
+
+(6) Zjistí-li Fond, že žadatel nedodržel některou z podmínek stanovených v § 9 odst. 1 písm. b), § 10 odst. 1 písm. b), § 11 odst. 1 písm. a), § 12 odst. 1 písm. b) nebo v § 13 odst. 1 písm. b), dotaci v rámci daného podopatření nebo titulu pro uvedené hospodářství sníží o 3 %.
+
+(7) Zjistí-li Fond, že žadatel nedodržel některou z podmínek stanovených v § 10 odst. 2 písm. a) bodě 1, nebo v § 10 odst. 2 písm. a) bodě 2, a to tak, že neprovedl jednu ze stanoveného počtu aplikací, sníží dotaci v rámci daného podopatření pro uvedené hospodářství žadatele o 20 %. Pokud žadatel neprovedl více než jednu ze stanoveného počtu aplikací nebo nedodržel zbývající podmínky stanovené v § 10 odst. 2 písm. a) bodu 1 nebo 2, Fond dotaci na dané podopatření pro uvedené hospodářství neposkytne.
+
+(8) Zjistí-li Fond, že žadatel nedodržel podmínku stanovenou v § 10 odst. 2 písm. b) a zároveň dodržel podmínku stanovenou v § 10 odst. 2 písm. c), sníží dotaci v rámci daného podopatření pro uvedené hospodářství o 30 %.
+
+(9) Nedodrží-li žadatel podmínku stanovenou v § 10 odst. 2 písm. e), Fond rozhodne u daného podopatření pro uvedené hospodářství o
+
+a) snížení dotace o 5 %, pokud hodnota výsledného pH bude v rozmezí od 8,00 do 8,49,
+
+b) snížení dotace o 10 %, pokud hodnota výsledného pH bude v rozmezí od 7,50 do 7,99, nebo
+
+c) neposkytnutí dotace, pokud hodnota výsledného pH bude nižší než 7,50.
+
+(10) Zjistí-li Fond, že žadatel nedodržel podmínku stanovenou v § 12 odst. 2 písm. c) maximálně u 6 prasniček a u každé z nich maximálně o 5 dnů, sníží dotaci v rámci daného titulu pro uvedené hospodářství o 20 %. Pokud bude počet prasniček, u kterých žadatel porušil tuto podmínku, větší než 6 nebo počet dnů porušení vyšší než 5, Fond dotaci na daný titul pro uvedené hospodářství neposkytne.
+
+(11) Zjistí-li Fond, že žadatel nedodržel podmínku stanovenou v § 13 odst. 2 písm. c), sníží dotaci v rámci daného podopatření pro uvedené hospodářství o 10 %.
+
+(12) Zjistí-li Fond případy nesrovnalostí, pokud jde o systém pro identifikaci a evidenci skotu<sup>13</sup>), dotaci v rámci daného podopatření pro uvedené hospodářství žadatele sníží, popřípadě žádost o poskytnutí dotace zamítne.
+
+(13) Zjistí-li Fond, že žadatel v rámci jednotné žádosti<sup>4</sup>) neuvedl veškerou plochu v souladu s přímo použitelným předpisem Evropské unie<sup>15</sup>) a rozdíl mezi celkovou plochou uvedenou v žádosti a souhrnem celkové plochy uvedené v žádosti a v žádosti nevykázané je
+
+a) vyšší než 3 %, avšak nižší nebo roven 4 % plochy uvedené v žádosti, sníží dotaci o 1 %<sup>16</sup>),
+
+b) vyšší než 4 %, avšak nižší nebo roven 5 % plochy uvedené v žádosti, sníží dotaci o 2 %<sup>16</sup>), nebo
+
+c) vyšší než 5 % plochy uvedené v žádosti, sníží dotaci o 3 %<sup>16</sup>).
+
+(14) Zjistí-li Fond, že žadatel nedodržel lhůtu stanovenou v § 8 odst. 2, avšak podal hlášení nejpozději do 10 dnů po ukončení doby závazku, nebo v případě hlášení za poslední měsíc období závazku nejpozději do 20 dnů po ukončení doby závazku, rozhodne v rámci daného podopatření nebo titulu pro uvedené hospodářství o
+
+a) snížení dotace o 3 %, jestliže žadatel nepodal 1 hlášení v daném termínu,
+
+b) snížení dotace o 5 %, jestliže žadatel nepodal 2 hlášení v daném termínu,
+
+c) snížení dotace o 10 %, jestliže žadatel nepodal 3 hlášení v daném termínu,
+
+d) snížení dotace o 20 %, jestliže žadatel nepodal 4 hlášení v daném termínu, nebo
+
+e) neposkytnutí dotace, jestliže žadatel nepodal 5 a více hlášení v daném termínu.
+
+(15) Limit pro stanovení výpočtu snížení nebo neposkytnutí dotace podle čl. 31 nařízení Komise v přenesené pravomoci (EU) č. 640/2014 v rámci podopatření podle § 2 odst. 1 písm. e) je 15 odstavených selat.
+
+## § 18 – Vrácení dotace
+
+Vyjde-li dodatečně najevo, že žadatel, jemuž byla dotace již poskytnuta, nesplňoval podmínky pro její poskytnutí, vrátí na základě rozhodnutí Fondu poskytnutou dotaci za příslušný kalendářní rok na bankovní účet Fondu, ze kterého mu byla dotace poskytnuta; obdobně Fond postupuje v případě snížení dotace.
+
+## § 19 – Společná ustanovení
+
+Jestliže nebyly dodrženy podmínky stanovené tímto nařízením v důsledku zásahu vyšší moci a mimořádných okolností<sup>17</sup>), snížení, neposkytnutí nebo vrácení dotace Fond neprovede.
+
+## § 20 – Zaokrouhlování
+
+Fond při výpočtu číselných údajů podle tohoto nařízení použije matematické zaokrouhlování na 2 desetinná místa.
+
+## § 20a – Lhůta pro podání žádosti o poskytnutí dotace pro rok 2020
+
+(1) Pro rok 2020 lze žádost o poskytnutí dotace podle § 5 odst. 1 doručit Fondu do 15. června 2020.
+
+(2) Je-li pro rok 2020 žádost o poskytnutí dotace doručena po lhůtě uvedené v odstavci 1, použije se § 5 odst. 3 obdobně.
+
+## § 21 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 15. dubna 2015.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr zemědělství:
+
+Ing. Jurečka v. r.
+
+### Příloha č. 1 k nařízení vlády č. 74/2015 Sb.
+
+#### Přepočítávací koeficienty hospodářských zvířat na velké dobytčí jednotky
+
+| Druh a kategorie hospodářských zvířat | Koeficient přepočtu na velké dobytčí jednotky (VDJ) |
+|---|---|
+| Skot nad 2 roky | 1,00 |
+| Skot ve věku 6 měsíců do 2 let včetně | 0,60 |
+| Prasničky a prasnice | 0,50 |
+| Selata | 0,03 |
+| Ostatní prasata | 0,30 |
+
+Pozn.: 1 rokem se rozumí 365 dnů, 1 měsícem se rozumí 30 kalendářních dnů.
+
+### Příloha č. 3 k nařízení vlády č. 74/2015 Sb.
+
+#### Náležitosti evidence regulace nežádoucího hmyzu podle § 10 odst. 2 písm. e)
+
+#### ![sbcr2015c036z0074p003u001_2022c018z0033.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/878965/NAHLED/ZOBRAZ/sbcr2015c036z0074p003u001_2022c018z0033)
+
+### Příloha č. 4 k nařízení vlády č. 74/2015 Sb.
+
+#### Náležitosti evidence o pobytu suchostojných krav podle § 11 odst. 3 písm. c)
+
+#### ![sbcr2015c036z0074p004_2017c006z0017.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/878967/NAHLED/ZOBRAZ/sbcr2015c036z0074p004_2017c006z0017)
+
+### Příloha č. 5 k nařízení vlády č. 74/2015 Sb.
+
+#### Náležitosti evidence o zapouštění prasniček podle § 12 odst. 2 písm. d)
+
+#### ![sbcr2015c036z0074p005u001_2017c006z0017.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/878969/NAHLED/ZOBRAZ/sbcr2015c036z0074p005u001_2017c006z0017)
+
+### Příloha č. 6 k nařízení vlády č. 74/2015 Sb.
+
+#### Náležitosti evidence o turnusovém provozu u prasnic podle § 12 odst. 4 písm. b) a o kontrole, případně ošetření spárků u prasnic podle § 12 odst. 4 písm. d)
+
+| Žadatel (jméno a příjmení, příp. název) | |
+|---|---|
+| Registrační číslo hospodářství | |
+| Číslo trvalého objektu | |
+
+#### Evidence o turnusovém provozu u prasnic
+
+| Označení turnusu | Počet prasnic v turnusu | Datum a hodina naskladnění turnusu | Změna (odsun,úhyn) | Datum změny | Datum ukončení turnusu | Datum a hodina desinfekce | Datum zápisu |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+
+#### Evidence o kontrole, případně ošetření spárků u prasnic
+
+| Označení turnusu | Číslo prasnice | Datum odstavu | Datum kontroly spárků | Výsledek kontroly | Datum ošetření spárků | Typ ošetření | Datum zápisu |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
+| | | | | | | | |
+
+### Příloha č. 7 k nařízení vlády č. 74/2015 Sb.
+
+#### Náležitosti evidence odstavených selat podle § 13 odst. 2 písm. d), včetně označení jednotlivých sekcí určených pro jejich chov podle § 13 odst. 2 písm. c).
+
+#### ![sbcr2015c036z0074p007u001_2017c006z0017.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/878971/NAHLED/ZOBRAZ/sbcr2015c036z0074p007u001_2017c006z0017)
+
+### Příloha č. 8 k nařízení vlády č. 74/2015 Sb.
+
+**Požadavky pro chov hospodářských zvířat**
+
+#### ČÁST I.
+
+<table><tbody><tr><td rowspan="2">A.</td><td rowspan="2" colspan="2">SKOT</td><td>1.</td><td>Šířka individuálního kotce pro skot ve věku do 6 měsíců (dále jen „telata“) odpovídá minimálně kohoutkové výšce telete, měřeno ve stoje, a délka kotce je minimálně rovna délce těla měřené od rostrálního okraje mulce po kaudální okraj hrbolu kyčelního vynásobeného koeficientem 1,1.<br> Individuální kotce pro telata, kromě vyhrazených pro izolaci nemocných zvířat, nesmějí mít celistvé stěny, ale stěny s otvory, které poskytují telatům přímý vizuální a hmatový kontakt s ostatními; toto ustanovení se nevztahuje na telata, která jsou chována se svými matkami z důvodu kojení, a stáje, kde je ustájeno méně než 6 telat.<br> Pro telata chovaná ve skupinách je prostor bez překážek pro jedno tele o živé hmotnosti do 150 kg nejméně 1,5 m<sup>2</sup>; pro tele od 150 do 220 kg živé hmotnosti nejméně 1,7 m<sup>2</sup> a pro tele nad 220 kg živé hmotnosti nejméně 1,8 m<sup>2</sup>.</td></tr><tr><td>2.</td><td>Minimální plocha pro individuální ustájení plemenného býka ve věku od 6 měsíců v boxu je 16 m<sup>2 </sup>a v případě hmotnosti větší než 1000 kg je na každých 60 kg živé hmotnosti plocha zvětšena o 1,0 m<sup>2</sup>.</td></tr><tr><td rowspan="4">B.</td><td rowspan="4" colspan="2">PRASATA</td><td>1.</td><td>Využitelná volná podlahová plocha pro každé prase od odstavu do stáří 10 týdnů nebo prasete od stáří 10 týdnů do porážky nebo zařazení do plemenitby chované ve skupině, s výjimkou zapuštěných prasniček a prasnic, činí minimálně:<br> a) pro prase o živé hmotnosti do 10 kg 0,15 m<sup>2</sup>,<br> b) pro prase o živé hmotnosti od 10 kg do 20 kg 0,20 m<sup>2</sup>,<br> c) pro prase o živé hmotnosti od 20 kg do 30 kg 0,30 m<sup>2</sup>,<br> d) pro prase o živé hmotnosti od 30 kg do 50 kg 0,40 m<sup>2</sup>,<br> e) pro prase o živé hmotnosti od 50 kg do 85 kg 0,55 m<sup>2</sup>,<br> f) pro prase o živé hmotnosti od 85 kg do 110 kg 0,65 m<sup>2</sup>,<br> g) pro prase o hmotnosti vyšší než 110 kg 1,00 m<sup>2</sup>.</td></tr><tr><td>2.</td><td>Pro zapuštěné prasničky nebo prasnice chované ve skupinách činí celková využitelná podlahová plocha pro každou zapuštěnou prasničku nejméně 1,64 m<sup>2</sup> a pro každou prasnici nejméně 2,25 m<sup>2</sup>.<br> Jsou-li tato zvířata chována ve skupinách po méně než 6 kusech, je celková využitelná podlahová plocha zvětšena o 10 %.<br> Jsou-li tato zvířata chována ve skupinách po 40 nebo více kusech, celková využitelná podlahová plocha může být zmenšena o 10 %.</td></tr><tr><td>3.</td><td>Kotce pro pohlavně dospělého samce prasete zařazeného do plemenitby podle plemenářského zákona (dále jen „kanec“) jsou umístěny a konstruovány tak, aby se kanec mohl otáčet a slyšet, cítit a vidět jiná prasata; volná podlahová plocha kotce pro dospělého kance je minimálně 6 m<sup>2</sup>.<br> V případech, kdy se kotce používají také jako místo pro připouštění prasnic, je podlahová plocha pro dospělého kance minimálně 10 m<sup>2</sup> a v kotci nesmí být žádné překážky,</td></tr><tr><td>4.</td><td>Prasnice a prasničky se během období, které začíná 4 týdny po zapuštění a končí 1 týden před očekávaným porodem, chovají ve skupinách. Kotec, ve kterém je skupina chována, má strany delší než 2,8 m. Je-li ve skupině chováno méně než 6 zvířat, kotec, ve kterém je skupina chována, má strany delší než 2,4 m.</td></tr><tr><td>C.</td><td colspan="2">OVCE A KOZY</td><td>1.</td><td>Podlahová plocha ve stájích pro ovce a kozy musí být minimálně:<br> 1. 0,15 m<sup>2</sup> na 10 kg živé hmotnosti u bahnic nebo koz,<br> 2. 0,15 m<sup>2</sup> na 10 kg živé hmotnosti u jehňat nebo kůzlat,<br> 3 0,25 m<sup>2</sup> na 10 kg živé hmotnosti u plemenných beranů nebo kozlů ve skupinovém kotci, <br> 4. 0,30 m<sup>2</sup> na 10 kg živé hmotnosti u plemenných beranů nebo kozlů v individuálním kotci.</td></tr><tr><td>D.</td><td colspan="2">HUSY, KACHNY, KRŮTY</td><td>1.</td><td>Velikost prostoru pro kachny domácí, kachny pižmové a hybridy kachny pižmové a kachny domácí, husy domácí a jejich křížence a krůty splňuje jejich požadavky na prostředí s ohledem na jejich věk, pohlaví, živou hmotnost, zdravotní stav a jejich potřebu volnosti pohybu a projevů normálního sociálního chování daného druhu. Velikost skupiny je taková, aby nevedla k poruchám chování nebo jiným poruchám nebo poranění.</td></tr><tr><td rowspan="3">E.</td><td rowspan="3">NOSNICE<sup>*</sup>)</td><td>Obecně</td><td>1.</td><td>Využitelná plocha pro jednu nosnici je prostor nejméně 30 cm široký se sklonem podlahy nepřesahujícím 14 % a s výškou nejméně 45 cm. Oddělený prostor pro snášku vajec (hnízdo) se nepovažuje za využitelný prostor.</td></tr><tr><td>Alternativní systém chovu</td><td>2.</td><td>Hustota osazení nesmí překročit 9 nosnic na 1 m<sup>2</sup> využitelné plochy.</td></tr><tr><td>Obohacené klečové systémy</td><td>3.</td><td>Nosnice mají nejméně 750 cm<sup>2</sup> prostoru v kleci na jednu nosnici, z toho 600 cm<sup>2</sup> využitelné plochy; výška klece jiná než ta, která je nad využitelnou plochou, musí být alespoň 20 cm v každém bodě a žádná klec nesmí mít celkovou plochu menší než 2000 cm<sup>2</sup>.</td></tr><tr><td rowspan="5">F.</td><td rowspan="5" colspan="2">BĚŽCI<sup>**</sup>) VE FARMOVÉM CHOVU</td><td>1.</td><td>Oplocení hospodářství je minimálně 180 cm vysoké, v rozích zaoblené, dostatečně silné a bezpečné, aby v případě nárazu nedocházelo k poranění běžců. Zařízení musí být zabezpečeno proti vnikání větších druhů volně žijících zvířat nebo toulavých psů. Minimální velikost výběhu na každého dospělého pštrosa dvouprstého je 300 m<sup>2</sup>. Minimální velikost výběhu na každého dospělého nandu pampového nebo emu hnědého je 100 m<sup>2</sup>. Stáje nebo přístřešky pro pštrosy dvouprsté, nandu pampové a emu hnědé musí být vzdušné, větratelné a zabraňovat průvanu. Výška stropu musí umožňovat volný pohyb stojícího zvířete. Veškeré průchody musí umožňovat bezpečný pohyb zvířete bez možnosti poranění.</td></tr><tr><td>2.</td><td>Minimální výška přístřešku pro dospělé pštrosy je 3 m. Minimální šířka dveří a průchodů je 150 cm. Stěny uzavírají přístřešek ze tří stran a uzavírací systém v něm umožňuje oddělení samce.<br> Minimální plocha pro pštrosy je 10 m<sup>2</sup> na 1 dospělý kus, pro mláďata se od vylíhnutí do 6 měsíců věku zvětšuje postupně od 0,25 m<sup>2</sup> do 2 m<sup>2</sup> na 1 kus, minimální celková plocha kotce pro tuto kategorii je 30 m<sup>2</sup>.</td></tr><tr><td></td><td>Minimální výška přístřešku pro dospělé nandu a emu je 2,5 m. Minimální šířka dveří a průchodů je 150 cm.</td></tr><tr><td>3.</td><td>Stěny uzavírají přístřešek ze tří stran a uzavírací systém v něm umožňuje oddělení samce. <br> Plocha pro nandu a emu dosahuje minimálně 5 m<sup>2</sup> na 1 dospělý kus, pro mláďata se od vylíhnutí do 6 měsíců věku zvětšuje postupně od 0,25 m<sup>2</sup> do 2 m<sup>2</sup> na 1 kus, minimální celková plocha kotce pro tuto kategorii je 20 m<sup>2</sup>.</td></tr><tr><td>4.</td><td>Pro nově budované, rekonstruované nebo poprvé do provozu uváděné stáje je minimální plocha stáje nebo přístřešku<br> a) na jednoho pštrosa dvouprstého<br> 1. pro dospělý kus 5 m<sup>2</sup>, kdy minimální celková plocha pro tuto kategorii je 30 m<sup>2</sup>,<br> 2. pro mladý kus ve věku 1 až 2 roky postupně zvětšována od 2 m<sup>2</sup>do 4 m<sup>2</sup>, kdy minimální celková plocha pro tuto kategorii je 30 m<sup>2</sup>,<br> 3. pro kuře od vylíhnutí do 1 roku postupně zvětšována od 0,3 m<sup>2</sup> do 2 m<sup>2</sup>, kdy minimální celková plocha pro tuto kategorii je 5 m<sup>2</sup>.<br> b) na jednoho nandu pampového nebo emu hnědého<br> 1. pro dospělý kus 2 m<sup>2</sup>, kdy minimální celková plocha pro tuto kategorii je 15 m<sup>2</sup>,<br> 2. pro mladý kus ve věku 1 až 2 roky postupně zvětšována od 0,8 m<sup>2</sup> do 1,5 m<sup>2</sup>, kdy minimální celková plocha pro tuto kategorii je 15 m<sup>2</sup>,<br> 3. pro kuře od vylíhnutí do věku 1 roku postupně zvětšována od 0,15 m<sup>2</sup> do 0,8 m<sup>2</sup>, kdy minimální celková plocha pro tuto kategorii je 2 m<sup>2</sup>.</td></tr><tr><td rowspan="3">G.</td><td rowspan="3" colspan="2">FARMOVÁ ZVĚŘ<sup>***</sup>)</td><td>1.</td><td>Pro chov jelena lesního a daňka evropského se počítá s hustotou chovaných zvířat do 15 kusů na 1 ha podle přírodních podmínek a intenzity přikrmování. Plocha farmy se rozdělí podle místních podmínek do více výběhů, aby se zabezpečila péče o pastviny rotačním systémem pastvy. K rozdělení pastvin se používají pevné pletivové nebo elektrické ohradníky z několika vodičů umístěných nad sebou. Elektrické ohradníky musí být zviditelněny použitím pruhu textilie o šíři 5 až 10 cm. Nelze použít nepřerušovaný elektrický proud, použité impulsy mají mít délku maximálně 2 sekundy. Na zimní období může být vyčleněn pro zvířata zmenšený výběh.</td></tr><tr><td>2.</td><td>Při zřizování kotců pro zvířata pro zimní ubytování, karanténu apod. se počítá s plochou<br> a) 2 m<sup>2</sup> pro odstavené kolouchy do 25 kg,<br> b) 2,5 m<sup>2</sup> pro kolouchy ve věku 5 až 11 měsíců - od 40 kg do 90 kg,<br> c) 3 m<sup>2</sup> a více v případě ustájení rocků a dospělých zvířat nad 75 kg.</td></tr><tr><td>3.</td><td>Pokud jsou mláďata umístěna do uzavřených ustájovacích prostor v zimním období, dostačuje pro kolouchy kotec o půdorysu 3 x 4 m pro 5 kusů, pro odchov daňčat kotec o půdorysu 4 x 2,5 m pro 6 kusů.</td></tr><tr><td>H.</td><td colspan="2">KUŘATA CHOVANÁ NA MASO</td><td>1.</td><td>Chovatel může provozovat chov kuřat chovaných na maso se zvýšenou hustotou osazení, která překračuje hustotu osazení 39 kg/m<sup>2</sup> maximálně o 3 kg/m<sup>2</sup>, pokud mu bude na žádost a po splnění kritérií pro povolení zvýšené hustoty osazení vydáno krajskou veterinární správou rozhodnutí o povolení chovu kuřat chovaných na maso se zvýšenou hustotou osazení.</td></tr></tbody></table>
+
+Poznámky:
+
+<sup>\*</sup>) Slepice druhu kur domácí, které dosáhly snáškové zralosti a jsou chovány pro produkci vajec nezamýšlených k líhnutí.
+
+<sup>\*\*</sup>) Pštros dvouprstý, nandu pampový a emu hnědý.
+
+<sup>\*\*\*</sup>) Chov jelenovitých, zejména jelena lesního, siky a daňka evropského na farmách zaměřených na jejich hospodářské využití.
+
+#### ČÁST II. – Další požadavky na prostory pro ustájení skotu
+
+1\. Krávy - minimální rozměry vazného stání
+
+| Živá hmotnost v kg | Šířka stání v mm | Délka krátkého stání v mm | Délka středního stání v mm | Délka dlouhého stání v mm |
+|---|---|---|---|---|
+| do 550 | 1120 | 1830 | 2210 | 2390 |
+| 550 až 650 | 1150 | 1900 | 2300 | 2480 |
+| nad 650 | 1180 | 1960 | 2360 | 2560 |
+
+2\. Minimální rozměry při volném ustájení skotu
+
+<table><tbody><tr><th rowspan="3">Kategorie</th><th rowspan="3">Box (kotec) - plocha lehárny v m<sup>2</sup>/ kus nebo živá hmotnost</th><th colspan="2">Šířka pohybových chodeb v mm</th><th colspan="3">Rozměry boxových loží v mm</th><th colspan="2">Rozměry kombiboxu v mm</th></tr><tr><th rowspan="2">jednosměrné</th><th rowspan="2">obousměrné</th><th colspan="2">délka</th><th rowspan="2">šířka</th><th rowspan="2">délka</th><th rowspan="2">šířka</th></tr><tr><th>jedna řada</th><th>protilehlé řady</th></tr><tr><td>Krávy<sup>3</sup>)</td><td>5,00/kus</td><td rowspan="2">850</td><td rowspan="2">1600</td><td>2300</td><td>2050</td><td>1100</td><td>1750</td><td>1100</td></tr><tr><td>Porodní kotec pro volné telení</td><td>9,00/kus</td><td colspan="3"></td><td colspan="2"></td></tr><tr><td>Jalovice<sup>3</sup>)</td><td>0,90/ 100 kg ž. hm.</td><td>850</td><td>1600</td><td rowspan="3">1900 až 2300<sup>1</sup>)</td><td rowspan="3">1700 až 2050<sup>1</sup>)</td><td rowspan="3">800 až 1100<sup>1</sup>)</td><td rowspan="3" colspan="2"></td></tr><tr><td>Výkrm býků stlané</td><td>0,90/ 100 kg ž. hm.</td><td rowspan="2">1100<sup>2</sup>)</td><td rowspan="2">2100<sup>2</sup>)</td></tr><tr><td>Výkrm býků celo roštové</td><td>0,45/ 100 kg ž. hm.</td></tr></tbody></table>
+
+Poznámka:
+
+1\) Podle hmotnosti od 200 kg.
+
+2\) Pohybová chodba musí být minimálně stejně široká jako vstupní a výstupní otvor ze stáje. 
+ Při počtu hospodářských zvířat více než 25 kusů ve skupině je nutno rozměry zvětšit minimálně o 30 %.
+
+3\) Počet zvířat ve volném ustájení nesmí být větší než počet boxů; ve stájích s automatickým dojicím systémem je možné navýšit počet ustájených zvířat až o 20 % oproti počtu lehacích boxů, pokud je objemné krmivo podáváno do nasycení podle vlastní potřeby zvířete a pokud systém řízení pohybu zvířat zajistí, aby počet zvířat v prostoru s lehacími boxy nebyl větší než počet těchto boxů<sup>9</sup>).
+
+#### ČÁST III.
+
+Požadavky na prostory pro ustájení koní<sup>1</sup>) 
+ (Vztahuje se od 1. 1. 2012 na nově budované stáje nebo poprvé uvedené do provozu)
+
+1\. Minimální rozměry stání pro koně
+
+<table><tbody><tr><th rowspan="2">Hůlková výška koně v kohoutku v m</th><th colspan="3">Ustájení</th><th colspan="2">Krmné místo při volném ustájení</th></tr><tr><th>délka v m</th><th>šířka v m</th><th>výška přepážky v m (bez příp. mříže)</th><th>délka v m</th><th>šířka v m</th></tr><tr><td>&lt;0,85</td><td>1,50</td><td>1,00</td><td>0,80</td><td>1,40</td><td>0,50</td></tr><tr><td>0,86 až 1,07</td><td>1,80</td><td>1,15</td><td>0,95</td><td>1,75</td><td>0,50</td></tr><tr><td>1,08 až 1,30</td><td>2,15</td><td>1,40</td><td>1,15</td><td>2,10</td><td>0,55</td></tr><tr><td>1,31 až 1,40</td><td>2,35</td><td>1,50</td><td>1,25</td><td>2,30</td><td>0,60</td></tr><tr><td>1,41 až 1,48</td><td>2,45</td><td>1,60</td><td>1,30</td><td>2,40</td><td>0,65</td></tr><tr><td>1,49 až 1,60</td><td>2,65</td><td>1,75</td><td>1,40</td><td>2,60</td><td>0,70</td></tr><tr><td>1,61 až 1,70</td><td>2,85</td><td>1,85</td><td>1,50</td><td>2,75</td><td>0,75</td></tr><tr><td>&gt;1,71</td><td>3,00</td><td>2,00</td><td>1,60</td><td>2,90</td><td>0,80</td></tr></tbody></table>
+
+2\. Minimální prostory boxu pro koně
+
+<table><tbody><tr><th rowspan="2">Hůlková výška koně v kohoutku v m</th><th colspan="2">Individuální ustájení</th><th colspan="2">Box pro hříbata a box pro klisnu s hříbětem<sup>3</sup>)</th></tr><tr><th>plocha<sup>2</sup>) v m<sup>2</sup></th><th>nejkratší strana v m</th><th>plocha v m<sup>2</sup></th><th>nejkratší strana v m</th></tr><tr><td>&lt;0,85</td><td>3,00</td><td>1,50</td><td>3,50</td><td>1,60</td></tr><tr><td>0,86 až 1,07</td><td>4,00</td><td>1,60</td><td>4,50</td><td>1,90</td></tr><tr><td>1,08 až 1,30</td><td>5,00</td><td>1,90</td><td>6,50</td><td>2,30</td></tr><tr><td>1,31 až 1,40</td><td>6,00</td><td>2,10</td><td>7,50</td><td>2.50</td></tr><tr><td>1,41 až 1,48</td><td>7,00</td><td>2,20</td><td>8,50</td><td>2,60</td></tr><tr><td>1,49 až 1,60</td><td>8,00</td><td>2,35</td><td>10,00</td><td>2,80</td></tr><tr><td>1,61 až 1,70</td><td>9,00</td><td>2,50</td><td>11,00</td><td>3,00</td></tr><tr><td>&gt;1,71</td><td>10,00</td><td>2,70</td><td>13,00</td><td>3,20</td></tr></tbody></table>
+
+Poznámky:
+
+1\) Platí pro koně a přiměřeně také pro osly a jejich křížence.
+
+2\) Při krátkodobém ustájení smí být plocha zmenšena na 85 % z udaných rozměrů.
+
+3\) Klisna s hříbětem mohou být drženi v tomto společném prostoru do šesti měsíců stáří hříběte. Poté jsou ustájeni v prostoru, který odpovídá ustájení ve skupině.
+
+3\. Minimální prostor pro jednoho koně při chovu ve skupině
+
+| | Skupinový box - plocha v m<sup>2</sup> | Hala k odpočinku<sup>1</sup>) - plocha v m<sup>2</sup> |
+|---|---|---|
+| Dospělí koně nad 24 měsíců | 100 % plochy pro dospělého koně podle bodu 2 | 80 % plochy pro dospělého koně podle bodu 2 |
+| Mladí koně 13 až 24 měsíců | 75 % plochy podle předpokládané velikosti dospělého koně podle bodu 2 | 60 % plochy podle předpokládané velikosti dospělého koně podle bodu 2 |
+| Mladí koně 6 až 12 měsíců | 50 % plochy podle předpokládané velikosti dospělého koně podle bodu 2 | 40 % plochy podle předpokládané velikosti dospělého koně podle bodu 2 |
+
+Poznámky:
+
+1\) Znamená prostor dostupný pro ulehnutí. Zařízení ke krmení nesmějí být započítána do prostoru k ulehnutí. Pokud koně mají možnost volného pohybu v hale a jsou zde krmeni, platí stejné podmínky o prostoru jako v případě skupinového boxu.
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 1305/2013 ze dne 17. prosince 2013 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV) a o zrušení nařízení Rady (ES) č. 1698/2005, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (EU) č. 1306/2013 ze dne 17. prosince 2013 o financování, řízení a sledování společné zemědělské politiky a o zrušení nařízení Rady (EHS) č. 352/78, (ES) č. 165/94, (ES) č. 2799/98, (ES) č. 814/2000, (ES) č. 1290/2005 a (ES) č. 485/2008, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (EU) č. 1307/2013 ze dne 17. prosince 2013, kterým se stanoví pravidla pro přímé platby zemědělcům v režimech podpory v rámci společné zemědělské politiky a kterým se zrušují nařízení Rady (ES) č. 637/2008 a nařízení Rady (ES) č. 73/2009, v platném znění. 
+ Nařízení Komise v přenesené pravomoci (EU) č. 639/2014 ze dne 11. března 2014, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1307/2013, kterým se stanoví pravidla pro přímé platby zemědělcům v režimech podpory v rámci společné zemědělské politiky, a kterým se mění příloha X uvedeného nařízení. 
+ Nařízení Komise v přenesené pravomoci (EU) č. 640/2014 ze dne 11. března 2014, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, pokud jde o integrovaný administrativní a kontrolní systém a o podmínky pro zamítnutí nebo odnětí plateb a správní sankce uplatňované na přímé platby, podporu na rozvoj venkova a podmíněnost. 
+ Nařízení Komise v přenesené pravomoci (EU) č. 807/2014 ze dne 11. března 2014, kterým se doplňují některá ustanovení nařízení Evropského parlamentu a Rady (EU) č. 1305/2013 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV) a kterým se zavádějí přechodná ustanovení. 
+ Prováděcí nařízení Komise (EU) č. 808/2014 ze dne 17. července 2014, kterým se stanoví prováděcí pravidla k nařízení Evropského parlamentu a Rady (EU) č. 1305/2013 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV). 
+ Prováděcí nařízení Komise (EU) č. 809/2014 ze dne 17. července 2014, kterým se stanoví prováděcí pravidla k nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, pokud jde o integrovaný administrativní a kontrolní systém, opatření pro rozvoj venkova a podmíněnost.
+
+<sup>3</sup>) Zákon č. 154/2000 Sb., o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon), ve znění pozdějších předpisů. 
+ Vyhláška č. 136/2004 Sb., kterou se stanoví podrobnosti označování zvířat a jejich evidence a evidence hospodářství a osob stanovených plemenářským zákonem, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Čl. 72 odst. 4 nařízení Evropského parlamentu a Rady č. 1306/2013, v platném znění. 
+ Čl. 11 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>5</sup>) Čl. 13 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>6</sup>) § 2, 4 a 5 zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů.
+
+<sup>7</sup>) § 11 odst. 7 zákona č. 256/2000 Sb., o Státním zemědělském a intervenčním fondu, ve znění pozdějších předpisů.
+
+<sup>8</sup>) Čl. 30 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>9</sup>) Vyhláška č. 208/2004 Sb., o minimálních standardech pro ochranu hospodářských zvířat, ve znění pozdějších předpisů.
+
+<sup>10</sup>) § 5 zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů.
+
+<sup>11</sup>) Čl. 8 nařízení Komise v přenesené pravomoci (EU) č. 809/2014.
+
+<sup>12</sup>) Příloha k zákonu č. 131/2000 Sb., o hlavním městě Praze.
+
+<sup>13</sup>) Čl. 31 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>14</sup>) Čl. 39 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>15</sup>) Čl. 72 odst. 1 písm. a) nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, v platném znění.
+
+<sup>16</sup>) Čl. 16 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>17</sup>) Čl. 4 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>18</sup>) Čl. 15 odst. 1 a 2 prováděcího nařízení Komise (EU) č. 809/2014, v platném znění.

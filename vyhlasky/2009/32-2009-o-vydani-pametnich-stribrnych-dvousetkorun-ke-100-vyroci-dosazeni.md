@@ -1,0 +1,58 @@
+---
+title: "Vyhláška č. 32/2009 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí dosažení severního pólu"
+identifier: "32/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/32/2009-03-04"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-01-07
+effective: 2009-03-04
+last_amended: 2009-03-04
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/32"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 32/2009 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí dosažení severního pólu
+
+32
+
+VYHLÁŠKA
+
+ze dne 7. ledna 2009
+
+o vydání pamětních stříbrných dvousetkorun ke 100. výročí dosažení severního pólu
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Ke 100. výročí dosažení severního pólu se vydává pamětní stříbrná dvousetkoruna (dále jen „dvousetkoruna“). Její vyobrazení je uvedeno v příloze k této vyhlášce.
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,35 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je portrét polárníka Roberta Pearyho. Na mezikruží je při levém a spodním okraji dvousetkoruny v neuzavřeném opisu název státu „ČESKÁ REPUBLIKA“ a při pravém okraji dvousetkoruny označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“. Mezi názvem státu a označením nominální hodnoty mince je logo Mezinárodního polárního roku, v jehož rámci mince vychází. Značka mincovny, která dvousetkorunu razila, je umístněna pod portrétem polárníka.
+
+(2) Na rubu dvousetkoruny je na pozadí symbolického zobrazení severního pólu arktická výprava se psy, nad níž je polární záře. Na mezikruží je při levém a spodním okraji dvousetkoruny neuzavřený opis „DOSAŽENÍ SEVERNÍHO PÓLU“ a při pravém okraji dvousetkoruny jsou letopočty „1909 - 2009“. Mezi postavou prvního polárníka a letopočty jsou umístěny iniciály autora dvousetkoruny, akademického sochaře Jiřího Věnečka, které jsou tvořeny spojenými písmeny „jv“.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 4. března 2009.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### Příloha k vyhlášce č. 32/2009 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny ke 100. výročí dosažení severního pólu
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2009c008z0032p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/831737/NAHLED/ZOBRAZ/sbcr2009c008z0032p001o001)
+
+#### ![sbcr2009c008z0032p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/831739/NAHLED/ZOBRAZ/sbcr2009c008z0032p001o002)

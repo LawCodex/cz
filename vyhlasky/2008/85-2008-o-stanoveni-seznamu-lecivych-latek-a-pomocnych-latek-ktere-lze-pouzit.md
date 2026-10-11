@@ -1,0 +1,141 @@
+---
+title: "Vyhláška č. 85/2008 Sb., o stanovení seznamu léčivých látek a pomocných látek, které lze použít pro přípravu léčivých přípravků"
+identifier: "85/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/85/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2008-02-26
+effective: 2008-03-11
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/85"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 85/2008 Sb., o stanovení seznamu léčivých látek a pomocných látek, které lze použít pro přípravu léčivých přípravků ve znění vyhlášky č. 270/2013 Sb., vyhlášky č. 168/2022 Sb., vyhlášky č. 332/2022 Sb. a vyhlášky č. 545/2025 Sb."
+---
+
+# Vyhláška č. 85/2008 Sb., o stanovení seznamu léčivých látek a pomocných látek, které lze použít pro přípravu léčivých přípravků
+
+85
+
+VYHLÁŠKA
+
+ze dne 26. února 2008
+
+o stanovení seznamu léčivých látek a pomocných látek, které lze použít pro přípravu léčivých přípravků
+
+Ministerstvo zdravotnictví a Ministerstvo zemědělství stanoví podle § 114 odst. 2 a k provedení § 79 odst. 8 písm. a) zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech):
+
+## § 1
+
+Seznam léčivých látek a pomocných látek pro přípravu léčivých přípravků<sup>1</sup>) je uveden v příloze této vyhlášky.
+
+## § 2 – Zrušovací ustanovení
+
+Vyhláška Ministerstva zdravotnictví a Ministerstva zemědělství č. 75/1998 Sb., kterou se vydává seznam léčivých látek, které lze použít pro přípravu léčivých přípravků, se zrušuje.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministr zdravotnictví:
+
+MUDr. Julínek, MBA v. r.
+
+Ministr zemědělství:
+
+Mgr. Gandalovič v. r.
+
+### Příloha k vyhlášce č. 85/2008 Sb.
+
+#### Seznam léčivých látek a pomocných látek, které se používají pro přípravu léčivých přípravků
+
+Léčivé látky a pomocné látky, včetně tzv. rostlinných drog, jsou v tomto Seznamu uvedeny lékopisnými názvy.
+
+| Mezinárodní název | Český název |
+|---|---|
+| ACIDUM MALICUM LAEVOGYRUM | KYSELINA JABLEČNÁ, L-FORMA |
+| ACIDUM PENTETICUM | KYSELINA PENTETOVÁ |
+| ACIDUM POLYACRYLICUM | KYSELINA POLYAKRYLOVÁ |
+| ACRIFLAVINII CHLORIDUM | AKRIFLAVINIUM-CHLORID |
+| AGRIMONIAE PROCERAE HERBA | NAŤ ŘEPÍKU VONNÉHO |
+| ALPINIAE RHIZOMA | GALGANOVÝ ODDENEK |
+| AMYLUM MODIFICATUM | MODIFIKOVANY ŠKROB |
+| ANTAZOLINI MESILAS | ANTAZOLIN-MESILÁT |
+| ARSENI TRIOXIDUM | OXID ARSENITÝ |
+| BARDANAE RADIX | LOPUCHOVÝ KOŘEN |
+| BENZODODECINII BROMIDUM | BENZODODECINIUM-BROMID |
+| BISMUTHI TRIBROMPHENOLAS | TRIBROMFENOLÁT BISMUTITÝ |
+| BROMISOVALUM | BROMISOVAL |
+| BRONOPOLUM | BRONOPOL |
+| BUCCO FOLIUM | LIST TĚHOZEVU |
+| CALAMI RADIX | PUŠKVORCOVÝ KOŘEN |
+| CANNABIS INDICAE EXTRACTUM | EXTRAKT Z KONOPÍ INDICKÉHO |
+| CANNABIS INDICAE FLOS | KVĚT KONOPÍ INDICKÉHO |
+| CANNABIS SATIVAE EXTRACTUM | EXTRAKT Z KONOPÍ SETÉHO |
+| CANNABIS SATIVAE FLOS | KVĚT KONOPÍ SETÉHO |
+| CAPSAICINUM | KAPSAICIN |
+| CARDAMOMI FRUCTUS | KARDAMOMOVÝ PLOD |
+| CARDAMOMI SEMEN | KARDAMOMOVÉ SEMENO |
+| CITRI PERICARPIUM RECENS | ČERSTVÉ CITRONOVÉ OPLODÍ |
+| CLOROXINUM | KLOROXIN |
+| COCAMIDOPROPYLBETAINI | KOKAMIDOPROPYLBETAIN |
+| COFFEINI CITRAS | KOFEIN S KYSELINOU CITRONOVOU |
+| COLLODIUM | KOLODIUM |
+| CUPRI CHLORIDUM DIHYDRICUM | CHLORID MĚĎNATÝ DIHYDRÁT |
+| CYAMOPSIDIS TETRAGONOLOBAE SEMEN | SEMENO CYAMOPSISU ČTYŘHRANNÉHO |
+| DRONABINOL | DELTA-9-TETRAHYDROKANABINOL |
+| DROSERAE HERBA | ROSNATKOVÁ NAŤ |
+| EPILOBII HERBA | VRBOVKOVÁ NAŤ |
+| ETOFYLLINUM | ETOFYLIN |
+| EUPHRASIAE HERBA | SVĚTLÍKOVÁ NAŤ |
+| FAMCICLOVIR | FAMCIKLOVIR |
+| FOENICULI ETHEROLEUM | FENYKLOVÁ SILICE |
+| FUCHSINUM BASICUM | FUCHSIN ZÁSADITÝ |
+| GALEGAE HERBA | JESTŘÁBINOVÁ NAŤ |
+| GLYCEROLI MONOSTEARAS 60 | GLYCEROLMONOSTEARÁT 60 |
+| GONADOTROPINUM SERICUM EQUINUM AD USUM VETERINARIUM | GONADOTROPIN SÉROVÝ KOŇSKÝ PRO VETERINÁRNÍ POUŽITÍ |
+| GS-441524 | GS-441524 (AKTIVNÍ METABOLIT REMDESIVIRU, ANALOG ADENOSINU) |
+| HYDRARGYRI AMIDOCHLORIDUM | AMIDOCHLORID RTUŤNATÝ |
+| HYDROXYETHYLMETHYLCELLULOS UM | HYDROXYETHYLMETHYLCELULOSA |
+| ICHTAMMOLUM ALBUM | ICHTAMOL BÍLÝ |
+| INDICARMINUM | INDIGOKARMIN |
+| INULAE RADIX | OMANOVÝ KOŘEN |
+| INULINUM | INULIN |
+| JUGLANDIS FOLIUM | OŘEŠÁKOVÝ LIST |
+| LECITHIN | LECITIN |
+| LINI OLEUM VIRGINALE | LNĚNÝ OLEJ PANENSKÝ |
+| MANGANOSI CHLORIDUM TETRAHYDRICUM | CHLORID MANGANATÝ TETRAHYDRÁT |
+| MERCAPTAMINI HYDROCHLORIDUM | CYSTEAMIN HYDROCHLORID |
+| METHOXSALENUM | METHOXSALEN |
+| MYRISTICAE SEMEN | MUŠKÁTOVÉ SEMENO |
+| NATRII GLUCONAS | NATRIUM-GLUKONÁT |
+| OLAMINUM | OLAMIN |
+| PARAFORMALDEHYDUM | PARAFORMALDEHYD |
+| PHASEOLI FRUCTUS SINE SEMINE | FAZOLOVÝ PLOD BEZ SEMEN |
+| PHENACETINUM | FENACETIN |
+| PHENYLIS SALICYLAS | FENYL-SALICYLÁT |
+| PHYTOMENADIONUM | FYTOMENADION |
+| PLUMBI ACETAS TRIHYDRICUS | OCTAN OLOVNATÝ TRIHYDRÁT |
+| PLUMBI OXIDUM | OXID OLOVNATÝ |
+| PODOPHYLLI RADIX | NOHOLISTOVÝ KOŘEN |
+| PODOPHYLLI RESINA | PODOFYLOVÁ PRYSKYŘICE |
+| POLIHEXANIDUM | POLIHEXANID |
+| PRIMULAE FLOS | PRVOSENKOVÝ KVĚT |
+| PROPAN-1,3-DIOLUM | PROPAN-1,3-DIOL |
+| PROPIVERINUM HYDROCHLORIDUM | PROPIVERIN-HYDROCHLORID |
+| PSILOCYBIN | PSILOCYBIN PRO LÉČEBNÉ POUŽITÍ |
+| REMDESIVIR | REMDESIVIR |
+| RUBI FRUTICOSI FOLIUM | OSTRUŽINÍKOVÝ LIST |
+| SULFACETAMIDUM | SULFACETAMID |
+| TARTRAZINUM | TARTRAZIN |
+| THEOBROMINUM | THEOBROMIN |
+| TRICLOSANUM | TRIKLOSAN |
+| TRIGLYCOLUM | TRIETHYLENGLYKOL |
+| URTICAE HERBA | KOPŘIVOVÁ NAŤ |
+| VIRIDE NITENS | BRILANTNÍ ZELEŇ |
+| VISCI ALBI HERBA | NAŤ JMELÍ |
+
+---
+
+<sup>1</sup>) § 2 odst. 2 zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech).

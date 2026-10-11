@@ -1,0 +1,58 @@
+---
+title: "Zákon č. 245/2008 Sb., kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů"
+identifier: "245/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/245/2008-07-04"
+type: act
+jurisdiction: cz
+language: cs
+date: 2008-06-05
+effective: 2008-07-04
+last_amended: 2008-07-04
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/245"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 245/2008 Sb., kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů
+
+245
+
+ZÁKON
+
+ze dne 5. června 2008,
+
+kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 353/2003 Sb., o spotřebních daních, ve znění zákona č. 237/2004 Sb., zákona č. 693/2004 Sb., zákona č. 217/2005 Sb., zákona č. 575/2006 Sb. a zákona č. 37/2008 Sb., se mění takto:
+
+1\. V § 21 odst. 8 se slova „odstavce 8“ nahrazují slovy „odstavce 7“.
+
+2\. V § 21 odst. 10 se slova „odstavce 8“ nahrazují slovy „odstavce 7“ a slova „odstavce 13“ se nahrazují slovy „odstavce 12“.
+
+3\. V § 57 odst. 1 se za slova „v § 45 odst. 2 písm. c)“ vkládají slova „a j)“.
+
+4\. V § 57 odst. 5 se za slova „v § 45 odst. 1 písm. b)“ vkládají slova „a v § 45 odst. 2 písm. j)“.
+
+5\. V § 57 odst. 6 písm. a) se za slova „v § 45 odst. 2 písm. c)“ vkládají slova „a j)“.
+
+6\. V § 57 odst. 7 se za slova „v § 45 odst. 2 písm. c)“ vkládají slova „a j)“.
+
+7\. V § 57 odst. 9 se v písmenu c) a v písmenu d) za slova „v § 45 odst. 2 písm. c)“ vkládají slova „a j)“.
+
+8\. V § 57 odst. 10 se v písmenu b) a v písmenu c) za slova „v § 45 odst. 2 písm. c)“ vkládají slova „a j)“.
+
+9\. V § 57 odst. 14 se za slova „v § 45 odst. 2 písm. c)“ vkládají slova „a j)“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Topolánek v. r.

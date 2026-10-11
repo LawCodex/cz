@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 262/2016 Sb., kterou se mění vyhláška č. 102/2012 Sb., o hodnocení kvality a bezpečí lůžkové zdravotní péče"
+identifier: "262/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/262/2016-08-23"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2016-07-27
+effective: 2016-08-23
+last_amended: 2016-08-23
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/262"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 262/2016 Sb., kterou se mění vyhláška č. 102/2012 Sb., o hodnocení kvality a bezpečí lůžkové zdravotní péče
+
+262
+
+VYHLÁŠKA
+
+ze dne 27. července 2016,
+
+kterou se mění vyhláška č. 102/2012 Sb., o hodnocení kvality a bezpečí lůžkové zdravotní péče
+
+Ministerstvo zdravotnictví stanoví podle § 120 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), k provedení § 98 odst. 7 písm. e) zákona o zdravotních službách:
+
+## Čl. I
+
+V příloze č. 2 k vyhlášce č. 102/2012 Sb., o hodnocení kvality a bezpečí lůžkové zdravotní péče, bod 1 včetně poznámky pod čarou č. 1 zní:
+
+> „1. Požadavky na personální zabezpečení hodnocení kvality a bezpečí
+
+> Hodnocení kvality a bezpečí je prováděno prostřednictvím hodnotitelského týmu sestaveného osobou oprávněnou k provádění hodnocení kvality a bezpečí. Hodnotitelský tým vždy tvoří
+
+> a) lékař nebo zubní lékař, který vykonával po dobu nejméně 5 let povolání lékaře nebo zubního lékaře při poskytování lůžkové zdravotní péče,
+
+> b) zdravotnický pracovník způsobilý k výkonu nelékařského zdravotnického povolání bez odborného dohledu<sup>1</sup>), který vykonával po dobu nejméně 5 let nelékařské zdravotnické povolání při poskytování lůžkové zdravotní péče, a
+
+> c) osoba s vysokoškolským vzděláním technického nebo manažerského zaměření, která vykonávala po dobu nejméně 5 let své povolání v technicko-hospodářském provozu nebo v manažerských činnostech řízení kvality a bezpečí u poskytovatele zdravotních služeb.
+
+> Všichni členové hodnotitelského týmu musí mít znalosti v oblasti řízení kvality a bezpečí.
+
+> <sup>1</sup>) Zákon č. 96/2004 Sb., o podmínkách získávání a uznávání způsobilosti k výkonu nelékařských zdravotnických povolání a k výkonu činností souvisejících s poskytováním zdravotní péče a o změně některých souvisejících zákonů (zákon o nelékařských zdravotnických povoláních), ve znění pozdějších předpisů.“.
+
+Poznámka pod čarou č. 2 se zrušuje.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministr:
+
+MUDr. Němeček, MBA, v. r.

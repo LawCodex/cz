@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 182/2010 Sb., o vydání pamětní stříbrné dvousetkoruny ke 150. výročí narození Alfonse Muchy"
+identifier: "182/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/182/2010-06-23"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-05-17
+effective: 2010-06-23
+last_amended: 2010-06-23
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/182"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 182/2010 Sb., o vydání pamětní stříbrné dvousetkoruny ke 150. výročí narození Alfonse Muchy
+
+182
+
+VYHLÁŠKA
+
+ze dne 17. května 2010
+
+o vydání pamětní stříbrné dvousetkoruny ke 150. výročí narození Alfonse Muchy
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dne 23. června 2010 se ke 150. výročí narození významného secesního malíře Alfonse Muchy vydává pamětní stříbrná dvousetkoruna (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,3 mm. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“.
+
+## § 2
+
+(1) Na líci dvousetkoruny je přepis dekorativního panó Alfonse Muchy „Hudba“ z cyklu „Umění“. Při levém okraji dvousetkoruny je ve dvou řádcích název státu „ČESKÁ REPUBLIKA“, který je na okrajích slova „ČESKÁ“ ohraničen tečkami. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je při spodním okraji dvousetkoruny. Značka České mincovny tvořená kompozicí písmen „Č“ a „M“ je při pravém okraji dvousetkoruny.
+
+(2) Na rubu dvousetkoruny je portrét Alfonse Muchy na pozadí secesního dekoru. Při pravém okraji dvousetkoruny jsou ve dvou řádcích letopočty „1860 ◦ 2010“ a nápis „ALFONS MUCHA“. Nalevo od spodního okraje portrétu jsou umístěny iniciály autora dvousetkoruny, akademického sochaře Ivana Řeháka, které jsou tvořeny spojenými písmeny „IŘ“.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 23. června 2010.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc., v. r.
+
+### Příloha k vyhlášce č. 182/2010 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny ke 150. výročí narození Alfonse Muchy
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2010c063z0182p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889609/NAHLED/ZOBRAZ/sbcr2010c063z0182p001o001)
+
+#### ![sbcr2010c063z0182p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889611/NAHLED/ZOBRAZ/sbcr2010c063z0182p001o002)

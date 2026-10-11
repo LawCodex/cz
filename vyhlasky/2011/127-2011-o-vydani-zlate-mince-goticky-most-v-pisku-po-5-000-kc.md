@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 127/2011 Sb., o vydání zlaté mince „Gotický most v Písku“ po 5 000 Kč"
+identifier: "127/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/127/2011-05-25"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2011-04-14
+effective: 2011-05-25
+last_amended: 2011-05-25
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/127"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 127/2011 Sb., o vydání zlaté mince „Gotický most v Písku“ po 5 000 Kč
+
+127
+
+VYHLÁŠKA
+
+ze dne 14. dubna 2011
+
+o vydání zlaté mince „Gotický most v Písku“ po 5 000 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 25. května 2011 se v rámci cyklu „Mosty“ vydává zlatá mince „Gotický most v Písku“ po 5 000 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince v běžném i ve zvláštním provedení se razí ze zlata o ryzosti 999.9. Hmotnost mince je 15,55 g, její průměr 28 mm a síla 1,95 mm. Při ražbě mince v běžném provedení i ve zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká.
+
+## § 2
+
+(1) Na lícní straně mince je socha sv. Jana Nepomuckého, která se nachází na gotickém mostu v Písku. Vpravo od sochy je kompozice heraldických zvířat z velkého státního znaku - nahoře je český lev, uprostřed moravská orlice a dole slezská orlice. Na levém okraji mince je název státu „ČESKÁ REPUBLIKA“, který je na okrajích ohraničen tečkami. Při spodním a pravém okraji mince je název cyklu „MOSTY“, označení nominální hodnoty mince se zkratkou peněžní jednotky „5000 Kč“ a značka České mincovny, která je tvořena kompozicí písmen „Č“ a „M“. Texty jsou na okrajích a mezi slovy ohraničeny tečkami.
+
+(2) Na rubové straně mince je celkový pohled na gotický most v Písku. Při spodním a pravém okraji mince je text „GOTICKÝ MOST V PÍSKU“, který je na okrajích ohraničen tečkami. Při levém okraji mince je ročník ražby „2011“ a iniciály autora výtvarného návrhu mince, akademického sochaře Zbyňka Fojtů, které jsou tvořeny spojenými písmeny „F“ a „Z“. Ročník ražby a iniciály autora jsou na okrajích a mezi sebou ohraničeny tečkami.
+
+(3) Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 25. května 2011.
+
+Guvernér:
+
+Ing. Singer, Ph.D., v. r.
+
+### Příloha k vyhlášce č. 127/2011 Sb.
+
+#### Vyobrazení zlaté mince „Gotický most v Písku“
+
+(lícní a rubová strana)
+
+#### ![sbcr2011c049z0127p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825753/NAHLED/ZOBRAZ/sbcr2011c049z0127p001o001)
+
+#### ![sbcr2011c049z0127p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825755/NAHLED/ZOBRAZ/sbcr2011c049z0127p001o002)

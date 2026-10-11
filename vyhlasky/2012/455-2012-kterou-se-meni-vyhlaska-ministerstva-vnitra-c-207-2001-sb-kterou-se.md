@@ -1,0 +1,66 @@
+---
+title: "Vyhláška č. 455/2012 Sb., kterou se mění vyhláška Ministerstva vnitra č. 207/2001 Sb., kterou se provádí zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů"
+identifier: "455/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/455/2013-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-12-10
+effective: 2013-01-01
+last_amended: 2013-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/455"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 455/2012 Sb., kterou se mění vyhláška Ministerstva vnitra č. 207/2001 Sb., kterou se provádí zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů
+
+455
+
+VYHLÁŠKA
+
+ze dne 10. prosince 2012,
+
+kterou se mění vyhláška Ministerstva vnitra č. 207/2001 Sb., kterou se provádí zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů
+
+Ministerstvo vnitra stanoví podle § 96 písm. a) a k) zákona č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů:
+
+## Čl. I
+
+Vyhláška č. 207/2001 Sb., kterou se provádí zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění vyhlášky č. 230/2001 Sb., vyhlášky č. 499/2001 Sb., vyhlášky č. 566/2002 Sb., vyhlášky č. 660/2004 Sb., vyhlášky č. 539/2005 Sb., vyhlášky č. 300/2006 Sb., vyhlášky č. 352/2006 Sb., vyhlášky č. 389/2007 Sb., vyhlášky č. 419/2008 Sb., vyhlášky č. 445/2008 Sb., vyhlášky č. 485/2009 Sb., vyhlášky č. 315/2010 Sb. a vyhlášky č. 417/2011 Sb., se mění takto:
+
+1\. V příloze č. 1 v části Zlínský kraj ve sloupci „Obec s rozšířenou působností“ v bodě 10. „Valašské Meziříčí“, ve sloupci „Matriční úřad“ v bodě 4. „Valašské Meziříčí“, ve sloupci „Seznam obcí, městských částí, městských obvodů a vojenských újezdů správního obvodu matričního úřadu“ se vkládá nový bod 3. „Krhová“.
+
+Dosavadní body 3. až 6. se označují jako body 4. až 7.
+
+2\. V příloze č. 1 v části Zlínský kraj ve sloupci „Obec s rozšířenou působností“ v bodě 10. „Valašské Meziříčí“, ve sloupci „Matriční úřad“ v bodě 4. „Valašské Meziříčí“, ve sloupci „Seznam obcí, městských částí, městských obvodů a vojenských újezdů správního obvodu matričního úřadu“ se vkládá nový bod 6. „Poličná“.
+
+Dosavadní body 6. a 7. se označují jako body 7. a 8.
+
+3\. V příloze č. 2 vzor 16 zní:
+
+> **„Vzor 16**
+
+> **![sbcr2012c170z0455p002u001_ver2.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1699217/NAHLED/ZOBRAZ/sbcr2012c170z0455p002u001_ver2)“.**
+
+> [sbcr2012c170z0455p002u001](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791763/ORIGINAL/STAHNI/sbcr2012c170z0455p002u001)
+
+4\. V příloze č. 2 vzor 17 zní:
+
+> **„Vzor 17**
+
+> **![sbcr2012c170z0455p002u002_ver2.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1699215/NAHLED/ZOBRAZ/sbcr2012c170z0455p002u002_ver2)“.**
+
+> [sbcr2012c170z0455p002u002](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791765/ORIGINAL/STAHNI/sbcr2012c170z0455p002u002)
+
+## Čl. II – Přechodné ustanovení
+
+Matriční tiskopisy vydané podle dosavadních právních předpisů mohou být ode dne nabytí účinnosti této vyhlášky používány nejdéle do dne 31. prosince 2015 za předpokladu, že v nich budou vyznačeny změny uvedené v čl. I bodech 3 a 4.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2013.
+
+Ministr:
+
+Kubice v. r.

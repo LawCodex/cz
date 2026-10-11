@@ -1,0 +1,219 @@
+---
+title: "Vyhláška č. 39/2012 Sb., o dispenzární péči"
+identifier: "39/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/39/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-01-23
+effective: 2012-04-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/39"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 39/2012 Sb., o dispenzární péči ve znění vyhlášky č. 318/2016 Sb., vyhlášky č. 179/2021 Sb. a vyhlášky č. 341/2025 Sb."
+---
+
+# Vyhláška č. 39/2012 Sb., o dispenzární péči
+
+39
+
+VYHLÁŠKA
+
+ze dne 23. ledna 2012
+
+o dispenzární péči
+
+Ministerstvo zdravotnictví stanoví podle § 120 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), k provedení § 5 odst. 3 písm. b) zákona:
+
+## § 1
+
+Dispenzární prohlídky provádějí poskytovatelé zdravotních služeb (dále jen „poskytovatel“) v takovém časovém rozmezí, které vyžaduje zdravotní stav pacienta, nejméně však jedenkrát ročně.
+
+## § 2
+
+Nemoci, vady nebo stavy (dále jen „nemoci“), u nichž se poskytuje dispenzární péče, a poskytovatelé, kteří provádějí dispenzární péči, se uvádějí v příloze k této vyhlášce.
+
+## § 3
+
+Vyhláška č. 386/2007 Sb., kterou se stanoví nemoci, u nichž se poskytuje dispenzární péče, časové rozmezí dispenzárních prohlídek a označení specializace dispenzarizujícího lékaře, se zrušuje.
+
+## § 4
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2012.
+
+Ministr:
+
+doc. MUDr. Heger, CSc., v. r.
+
+### Příloha k vyhlášce č. 39/2012 Sb.
+
+#### Seznam nemocí a poskytovatelů dispenzární péče
+
+| POSKYTOVATELÉ PROVÁDĚJÍCÍ DISPENZÁRNÍ PÉČI | | Nemoci, u nichž se poskytuje dispenzární péče |
+|---|---|---|
+| Poskytovatel v oboru praktické lékařství pro děti a dorost, popřípadě jiný poskytovatel | | |
+| | 01 | Infekční a parazitární onemocnění s prokázanou infekční etiologií s chronickým průběhem, následky těchto onemocnění vyžadující soustavnou léčbu déle než 1 rok |
+| | 02 | Lymeská borellioza |
+| | 03 | Závažná chronická onemocnění způsobená herpetickými viry |
+| | 04 | Závažné imunodeficientní stavy vyžadující soustavnou léčbu déle než 1 rok, vrozená asplenie, stav po splenektomii |
+| | 05 | Defekty koagulace vyžadující soustavnou léčbu déle než 1 rok |
+| | 06 | Závažné anémie vyžadující soustavnou léčbu déle než 1 rok |
+| | 07 | Diabetes mellitus a další poruchy glukozové tolerance |
+| | 08 | Další závažné poruchy endokrinní soustavy vyžadující soustavnou léčbu déle než 1 rok |
+| | 09 | Závažná metabolická onemocnění |
+| | 10 | Cystická fibrosa |
+| | 11 | Familiární hypercholesterolémie |
+| | 12 | Mentální retardace |
+| | 13 | Závažná forma dětské mozkové obrny vyžadující soustavnou rehabilitaci déle než 1 rok |
+| | 14 | Primární enuréza u dítěte nad 5 let věku |
+| | 15 | Enkopréza s chronickou obstipací |
+| | 16 | Hydrocefalus |
+| | 17 | Následky zánětlivých onemocnění centrálního nervového systému, onemocnění centrálního nervového systému s nejistou prognózou |
+| | 18 | Progredující neurologická a svalová postižení |
+| | 19 | Epilepsie |
+| | 20 | Vrozená nebo získaná postižení oka (mimo samotných refrakčních vad) vyžadující soustavnou léčbu déle než 1 rok |
+| | 21 | Strabismus |
+| | 22 | Vrozená nebo získaná porucha sluchu vyžadující soustavnou léčbu déle než 1 rok |
+| | 23 | Závažné alergie s perzistujícími klinickými příznaky kožními, očními, nosními, bronchiálními nebo gastrointestinálními a stavy po anafylaxi |
+| | 24 | Bronchopulmonální dysplázie |
+| | 25 | Stavy po chirurgické léčbě nitrohrudních procesů s následnou poruchou funkce plic |
+| | 26 | Chronická obstrukční plicní nemoc dětského věku, bronchiektázie |
+| | 27 | Idiopatické střevní záněty |
+| | 28 | Cholecystolithiasa |
+| | 29 | Vředová choroba žaludku a duodena |
+| | 30 | Stavy po operaci zažívacího traktu vyžadující dlouhodobé sledování |
+| | 31 | Střevní malabsorpce včetně celiakie |
+| | 32 | Psoriasa a další závažná kožní onemocnění vyžadující soustavnou léčbu delší než 1 rok |
+| | 33 | Lupus erytematosus |
+| | 34 | Revmatická onemocnění u dětí, systémová postižení pojivové tkáně |
+| | 35 | Nefrotický syndrom |
+| | 36 | Vrozené a získané srdeční vady s příznaky srdečního selhání nebo poruchou hemodynamiky |
+| | 37 | Závažné arytmie vyžadující soustavnou léčbu déle než 1 rok |
+| | 38 | Stavy po operaci srdce, angioplastikách, valvuloplastikách |
+| | 39 | Plicní hypertenze |
+| | 40 | Kardiomyopathie vyžadující soustavnou léčbu déle než 1 rok |
+| | 41 | Intersticiální a difuzní plicní procesy s poruchou funkce plic |
+| | 42 | Stavy po dlouhodobé ventilaci plic pro syndrom dechové tísně |
+| | 43 | Astma bronchiale – závažné perzistující formy, obtížně léčitelné astma |
+| | 44 | Chronická pankreatitis vyžadující soustavnou léčbu déle než 1 rok |
+| | 45 | Závažná chronická onemocnění jater vyžadující soustavnou léčbu déle než 1 rok |
+| | 46 | Chronická pyelonefritis a glomerulonefritis a veškeré další stavy spojené s poruchou funkce ledvin nebo vážnou poruchou funkce vývodných močových cest |
+| | 47 | Stavy po transplantaci orgánů a krvetvorných buněk |
+| | 48 | Vrozené anomálie a chromozomové abnormality vyžadující léčbu |
+| | 49 | Děti ohrožené sociálním prostředím, to jsou děti týrané, zneužívané a zanedbávané |
+| | 50 | Nadváha a obezita |
+| Poskytovatel v oboru všeobecné praktické lékařství, popřípadě jiný poskytovatel | | |
+| | 01 | Infekční a parazitární onemocnění s prokázanou infekční etiologií s chronickým průběhem, následky těchto onemocnění vyžadující soustavnou léčbu déle než 1 rok |
+| | 02 | Lymeská borellioza |
+| | 03 | Závažná chronická onemocnění způsobená herpetickými viry |
+| | 04 | Poruchy štítné žlázy vyžadující soustavnou léčbu déle než 1 rok |
+| | 05 | Diabetes mellitus a další poruchy glukozové tolerance, včetně komplikací |
+| | 06 | Adrenální nedostatečnost, němé adenomy nadledvinek, vrozená adrenální hyperplasie (ve stabilizovaném stavu) vyžadující soustavnou léčbu déle než 1 rok |
+| | 07 | Afunkční adenomy hypofysy vyžadující soustavnou léčbu déle než 1 rok |
+| | 08 | Nelsonův syndrom, hypopituitarismus, isolované poruchy tvorby hypofyzárních hormonů ve stabilizovaném stavu vyžadující soustavnou léčbu déle než 1 rok |
+| | 09 | Diabetes insipidus vyžadující soustavnou léčbu déle než 1 rok |
+| | 10 | Závažná metabolická onemocnění vyžadující soustavnou léčbu déle než 1 rok |
+| | 11 | Familiární hypercholesterolémie |
+| | 12 | Vrozené anomálie a chromozomové abnormality vyžadující léčbu déle než 1 rok |
+| | 13 | Defekty koagulace vyžadující soustavnou léčbu déle než 1 rok |
+| | 14 | Závažné anémie vyžadující soustavnou léčbu déle než 1 rok |
+| | 15 | Demyelinizační onemocnění |
+| | 16 | Degenerativní onemocnění centrálního nervového systému a periferního neuronu |
+| | 17 | Epilepsie |
+| | 18 | Myasthenia gravis: po 2 letech remise |
+| | 19 | Progresivní svalové dystrofie |
+| | 20 | Glaukom |
+| | 21 | Uveitidy |
+| | 22 | Progredující poruchy sluchu dospělých, kontroly sluchadel |
+| | 23 | Hypertenzní nemoc |
+| | 24 | Ischemická choroba srdeční, obliterující aterosklerosa, aneurysma aorty |
+| | 25 | Endokarditidy a myokarditidy vyžadující soustavnou léčbu déle než 1 rok |
+| | 26 | Závažné arytmie s poruchou hemodynamiky vyžadující soustavnou léčbu delší než 1 rok |
+| | 27 | Vrozené a získané chlopenní vady |
+| | 28 | Nositelé kardiovertorů a kardiostimulátorů |
+| | 29 | Stavy po operaci srdce, angioplastikách, valvuloplastikách |
+| | 30 | Plicní hypertenze |
+| | 31 | Stavy po dlouhodobé ventilaci plic pro syndrom dechové tísně, stenóza trachey |
+| | 32 | Sarkoidoza, intersticiální plicní procesy s poruchou funkce, pneumokoniozy |
+| | 33 | Chronická obstrukční plicní nemoc s poruchou funkce plic, bronchiektázie |
+| | 34 | Chronická pleuritida |
+| | 35 | Astma bronchiale – závažné perzistující formy |
+| | 36 | Barretův jícen, achalázie jícnu, eosinofilní ezofagitida, stavy po korozivní ezofagitidě |
+| | 37 | Metaplazie a dysplazie žaludeční sliznice |
+| | 38 | Primární malabsorpční syndrom, celiakie |
+| | 39 | Nespecifické střevní záněty (Crohnova nemoc, ulcerózní kolititida a další) |
+| | 40 | Recidivující a komplikované divertikulitidy |
+| | 41 | Primární sklerozující cholangititida |
+| | 42 | Chronická pankreatitis vyžadující soustavnou léčbu déle než 1 rok |
+| | 43 | Jaterní cirhóza, metabolická onemocnění jater |
+| | 44 | Závažné alergie s perzistujícími klinickými příznaky kožními, očními, nosními, bronchiálními, gastrointestinálními a stavy po anafylaxi |
+| | 45 | Závažné imunodeficitní stavy vžadující soustavnou léčbu déle než 1 rok, vrozená asplenie, stav po splenektomii |
+| | 46 | Autoimunitní závažné kožní choroby puchýřnaté (skupina pemfigu, pemfigoiu a další) |
+| | 47 | Autoimunitní závažné choroby pojiva (lupus erytematosus, sklerodermie, dermatomyositida a další) |
+| | 48 | Závažné nemoci kůže a podkožního vaziva (atopická dermatitida, psoriáza a parapsoriáza, fotodermatózy a další) |
+| | 49 | Atypické névy |
+| | 50 | Ankylosující spondylitis |
+| | 51 | Stavy po transplantaci orgánů a krvetvorných buněk |
+| | 52 | Chronické onemocnění ledvin ve stádiích CKD 4 a 5 eGFR menší než 0,5 ml/s |
+| | 53 | Proteinurie větší než 1g/24 hod a mikroskopická hematurie renálního původu |
+| | 54 | Chronická glomerulonefritis, autosomálně dominantní polycystická degenerace ledvin, vrozená onemocnění ledvin |
+| | 55 | Stavy po cévní mozkové příhodě |
+| | 56 | Kognitivní poruchy |
+| Poskytovatel v oboru gynekologie a porodnictví | | |
+| | 01 | Pacientky s hormonální či nitroděložní antikoncepcí |
+| | 02 | Radioterapie hrudníku v dětství a dospívání |
+| | 03 | Těhotenství: fyziologické prvních 9 lunárních měsíců<br> 10. lunární měsíc<br> rizikové<br> patologické<br> šestinedělí |
+| | 04 | Pacientky s dlouhodobou hormonální substituční léčbou |
+| | 05 | Endometriosa |
+| | 06 | Děložní myomy |
+| Poskytovatel v oboru zubní lékařství | | |
+| | 01 | Vrozené postižení tvrdých zubních tkání (amelogenesis a dentinogenesis imperfecta a další) |
+| Poskytovatel v oboru ortodoncie | | |
+| | 01 | Obličejové rozštěpy |
+| | 02 | Vrozené malformace kostí lebky, zubů a obličeje |
+| Poskytovatel v oboru pneumologie a ftizeologie | | |
+| | 01 | Osoby nemocné tuberkulózou a jinými mykobakteriózami plicními i mimoplicními - po skončení léčby |
+| | 02 | Osoby se zvýšeným rizikem tuberkulózy, osoby v kontaktu s nemocným tuberkulózou či osoby po návratu z oblastí s vysokým výskytem tuberkulózy plic, imunokompromitované osoby (diabetes mellitus na léčbě inzulínem, malignity, biologická léčba, léčba systémovými kortikosteroidy, léčba imunosupresivy a další) |
+| | 03 | Osoby po prodělaném nebo suspektně prodělaném onemocnění COVID-19 se závažnými přetrvávajícími následky trvajícími více než 12 týdnů |
+| Poskytovatel v oboru infekční lékařství | | |
+| | 01 | HIV/AIDS pozitivní osoby - asymptomatičtí nosiči |
+| | 02 | Toxoplasmóza, vrozená toxoplasmósa včetně oční formy |
+| | 03 | Neuroinfekce |
+| | 04 | Protozoární nemoci, zoonozy |
+| Poskytovatel v oboru dermatovenerologie | | |
+| | 01 | Syfilis |
+| | 02 | Gonorrhoea |
+| | 03 | Další závažné pohlavně přenosné infekce |
+| Poskytovatel v oboru psychiatrie | | |
+| | 01 | Syndrom závislosti |
+| | 02 | Poruchy nálady středně těžké a těžké, včetně bipolární afektivní poruchy |
+| | 03 | Schizofrenie, schizoafektivní poruchy, schizotypní porucha, poruchy s bludy |
+| | 04 | Obsedantně kompulzivní porucha s těžkým průběhem |
+| | 05 | Posttraumatická stresová porucha |
+| | 06 | Poruchy sexuální preference včetně stavů po terapeutické kastraci |
+| | 07 | Poruchy příjmu potravy |
+| | 08 | Těžké poruchy osobnosti |
+| Poskytovatel v oboru dětská a dorostová psychiatrie | | |
+| | 01 | Syndrom závislosti |
+| | 02 | Poruchy nálady středně těžké a těžké, včetně bipolární afektivní poruchy |
+| | 03 | Schizofrenie, schizoafektivní poruchy, schizotypní porucha, poruchy s bludy |
+| | 04 | Obsedantně kompulzivní porucha s těžkým průběhem |
+| | 05 | Poruchy sexuálního vývoje včetně parafilie |
+| | 06 | Poruchy příjmu potravy |
+| | 07 | Poruchy autistického spektra |
+| | 08 | Těžká chronická tiková porucha - syndrom de la Tourette |
+| | 09 | Výše neuvedené duševní poruchy dětského a dorostového věku s těžkým disruptivním chováním, zejména těžká hyperkinetická porucha chování, těžká porucha opozičního vzdoru, těžká nesocializovaná porucha chování, těžká socializovaná porucha chování a středně těžký až těžký disharmonický vývoj osobnosti, často spojený se sebepoškozováním |
+| | 10 | Neorganická enkopréza – těžká forma |
+| | 11 | Sekundární enuréza – těžká forma |
+| | 12 | Elektivní mutismus – těžká forma |
+| | 13 | Reaktivní porucha příchylnosti dětí a porucha desinhibovaných vztahů u dětí – těžká forma |
+| | 14 | Školní fobie a separační úzkostná porucha v dětství – těžká forma |
+| | 15 | Posttraumatická stresová porucha u dětí a adolescentů |
+| | 16 | Disociativní porucha – středně těžká a těžká forma |
+| | 17 | Škodlivé užívání více psychoaktivních látek |
+| | 18 | Sebepoškozování – těžká forma |
+| Poskytovatel v oboru pracovní lékařství | | |
+| | 01 | Všechny nemoci z povolání, ohrožení nemocí z povolání a jiná poškození zdraví z práce |
+| Poskytovatelé poskytující zdravotní služby v příslušném oboru | | |
+| | 01 | Přednádorové stavy a stavy po ukončení léčby onkologických onemocnění |

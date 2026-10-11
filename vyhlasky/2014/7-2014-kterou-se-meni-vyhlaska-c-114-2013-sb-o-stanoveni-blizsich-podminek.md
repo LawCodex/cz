@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 7/2014 Sb., kterou se mění vyhláška č. 114/2013 Sb., o stanovení bližších podmínek posuzování zdravotní způsobilosti a rozsahu vyšetření žijícího nebo zemřelého dárce tkání nebo orgánů pro účely transplantací (vyhláška o zdravotní způsobilosti dárce tkání a orgánů pro účely transplantací)"
+identifier: "7/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/7/2014-04-10"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-01-09
+effective: 2014-04-10
+last_amended: 2014-04-10
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/7"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 7/2014 Sb., kterou se mění vyhláška č. 114/2013 Sb., o stanovení bližších podmínek posuzování zdravotní způsobilosti a rozsahu vyšetření žijícího nebo zemřelého dárce tkání nebo orgánů pro účely transplantací (vyhláška o zdravotní způsobilosti dárce tkání a orgánů pro účely transplantací)
+
+7
+
+VYHLÁŠKA
+
+ze dne 9. ledna 2014,
+
+kterou se mění vyhláška č. 114/2013 Sb., o stanovení bližších podmínek posuzování zdravotní způsobilosti a rozsahu vyšetření žijícího nebo zemřelého dárce tkání nebo orgánů pro účely transplantací (vyhláška o zdravotní způsobilosti dárce tkání a orgánů pro účely transplantací)
+
+Ministerstvo zdravotnictví stanoví podle § 6 odst. 5, § 10 odst. 7 a § 11 odst. 3 zákona č. 285/2002 Sb., o darování, odběrech a transplantacích tkání a orgánů a o změně některých zákonů (transplantační zákon), ve znění zákona č. 296/2008 Sb. a zákona č. 44/2013 Sb.:
+
+## Čl. I
+
+Vyhláška č. 114/2013 Sb., o stanovení bližších podmínek posuzování zdravotní způsobilosti a rozsahu vyšetření žijícího nebo zemřelého dárce tkání nebo orgánů pro účely transplantací (vyhláška o zdravotní způsobilosti dárce tkání a orgánů pro účely transplantací), se mění takto:
+
+1\. V § 3 odst. 2 se poslední věta nahrazuje větami „Má-li dojít k výměně orgánu mezi členskými státy, jsou informace o charakterizaci dárce a orgánu<sup>4</sup>) v rozsahu podle věty první elektronicky nebo faxem předány prostřednictvím Koordinačního střediska transplantací příslušnému orgánu nebo pověřenému subjektu členského státu, s nímž má být výměna orgánu provedena. Jestliže při předání informací nebyly některé informace o charakterizaci dárce a orgánu k dispozici, jsou dodatečně zjištěné informace bezodkladně předány prostřednictvím Koordinačního střediska transplantací příslušnému orgánu nebo pověřenému subjektu členského státu, s nímž má být výměna orgánu provedena. Dodatečně zjištěné informace lze předat též prostřednictvím transplantačního centra přímo transplantačnímu centru členského státu, s nímž má být orgán vyměněn. V případě postupu podle věty čtvrté se kopie dodatečných informací předává též Koordinačnímu středisku transplantací.“.
+
+Poznámka pod čarou č. 4 zní:
+
+> „<sup>4</sup>) Článek 5 prováděcí směrnice Komise 2012/25/EU ze dne 9. října 2012, kterou se stanoví informační postupy pro výměnu lidských orgánů určených k transplantaci mezi členskými státy.“.
+
+2\. V § 3 se za odstavec 2 vkládá nový odstavec 3, který včetně poznámky pod čarou č. 5 zní:
+
+> „(3) Při předávání informací o charakterizaci dárce a orgánu předávaných mezi členskými státy se použijí pracovní postupy vytvořené podle § 4a vyhlášky upravující požadavky na pracovní postupy pro zajištění systému jakosti a bezpečnosti lidských orgánů určených k transplantaci<sup>5</sup>).
+
+> <sup>5</sup>) Vyhláška č. 111/2013 Sb., o stanovení požadavků na vytvoření pracovních postupů pro zajištění systému jakosti a bezpečnosti lidských orgánů určených k transplantaci, ve znění vyhlášky č. 6/2014 Sb.“.
+
+Dosavadní odstavce 3 a 4 se označují jako odstavce 4 a 5.
+
+3\. V § 5 písm. a) se slova „je chování jejich rodičů spojeno“ nahrazují slovy „vyrůstají v prostředí spojeném“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 10. dubna 2014.
+
+Ministr:
+
+MUDr. Holcát, MBA, v. r.

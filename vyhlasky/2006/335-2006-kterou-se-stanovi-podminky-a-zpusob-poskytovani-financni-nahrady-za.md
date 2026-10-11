@@ -1,0 +1,381 @@
+---
+title: "Vyhláška č. 335/2006 Sb., kterou se stanoví podmínky a způsob poskytování finanční náhrady za újmu vzniklou omezením lesního hospodaření, vzor a náležitosti uplatnění nároku"
+identifier: "335/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/335/2023-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-06-16
+effective: 2006-06-30
+last_amended: 2023-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/335"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 335/2006 Sb., kterou se stanoví podmínky a způsob poskytování finanční náhrady za újmu vzniklou omezením lesního hospodaření, vzor a náležitosti uplatnění nároku ve znění vyhlášky č. 444/2022 Sb."
+---
+
+# Vyhláška č. 335/2006 Sb., kterou se stanoví podmínky a způsob poskytování finanční náhrady za újmu vzniklou omezením lesního hospodaření, vzor a náležitosti uplatnění nároku
+
+335
+
+VYHLÁŠKA
+
+ze dne 16. června 2006,
+
+kterou se stanoví podmínky a způsob poskytování finanční náhrady za újmu vzniklou omezením lesního hospodaření, vzor a náležitosti uplatnění nároku
+
+Ministerstvo životního prostředí a Ministerstvo zemědělství stanoví podle § 58 odst. 6 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb., (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+(1) Tato vyhláška stanoví
+
+a) podmínky poskytování finanční náhrady za újmu vzniklou omezením lesního hospodaření ve smyslu § 58 odst. 2 zákona (dále jen „náhrada“), vzor uplatnění nároku, náležitosti uplatnění nároku a
+
+b) způsob určení výše náhrady v případech, kdy není stanoven zvláštním právním předpisem<sup>1</sup>) za omezení lesního hospodaření, které vzniklo v důsledku
+
+1\. trvalého ponechání lesa nebo jeho části samovolnému vývoji,
+
+2\. změny skladby dřevin lesního porostu,
+
+3\. prodloužení obmýtí nebo prodloužení obnovní doby stanovených v lesním hospodářském plánu nebo lesní hospodářské osnově převzaté protokolem o převzetí,
+
+4\. zavedení tvaru lesa nízkého,
+
+5\. trvalého nařízeného snížení zakmenění lesního porostu,
+
+6\. omezení výše těžeb při tvorbě nebo v průběhu platnosti lesního hospodářského plánu nebo lesní hospodářské osnovy převzaté protokolem o převzetí,
+
+7\. ponechání jednotlivých stromů do jejich fyzického rozpadu,
+
+8\. ponechání ležícího dříví po těžbě v porostu, nebo
+
+9\. mimořádného nebo nákladově náročnějšího opatření.
+
+(2) Tato vyhláška dále stanoví náležitosti uplatnění nároku za újmu vzniklou omezením lesního hospodaření v případech neuvedených v odstavci 1.
+
+## § 2 – Rozsah poskytování náhrady za újmu vzniklou v důsledku trvalého ponechání lesa nebo jeho části samovolnému vývoji
+
+Pro účely této vyhlášky se rozumí lesem nebo jeho částí trvale ponechaným samovolnému vývoji lesní porosty, ve kterých se z důvodů ochrany přírody trvale neprovádí těžební práce, soustřeďování dříví nebo jiné činnosti, které jsou prováděny za účelem tvorby příjmů z hospodaření v lese pro vlastníka nebo nájemce lesního pozemku (dále jen „žadatel“), s výjimkou činností prováděných výhradně za účelem splnění povinností uložených na základě rozhodnutí vydaného podle jiného právního předpisu<sup>2</sup>) nebo činností, které jsou prováděny v souladu výjimkami povolenými podle zákona.
+
+## § 3 – Náležitosti uplatnění nároku a vzor uplatnění nároku
+
+(1) V žádosti, kterou se uplatňuje nárok, žadatel uvede
+
+a) jméno, příjmení, datum narození a místo trvalého pobytu, popřípadě jinou adresu pro doručování, jde-li o fyzickou osobu; v žádosti související s její podnikatelskou činností uvede fyzická osoba jméno a příjmení, popřípadě dodatek odlišující osobu podnikatele nebo druh podnikání vztahující se k této osobě nebo jí provozovanému druhu podnikání, identifikační číslo osob a adresu zapsanou v obchodním rejstříku nebo jiné zákonem upravené evidenci jako místo podnikání, popřípadě jinou adresu pro doručování; právnická osoba uvede v žádosti svůj název nebo obchodní firmu, identifikační číslo osob nebo obdobný údaj a adresu sídla, popřípadě jinou adresu pro doručování,
+
+b) informace potřebné pro výplatu náhrady, a to
+
+1\. požaduje-li žadatel výplatu na účet vedený v České republice, číslo účtu v národním formátu a jméno a příjmení nebo název majitele účtu,
+
+2\. požaduje-li žadatel výplatu na účet vedený v zahraničí na území, které je součástí Evropské unie, Evropského hospodářského prostoru nebo SEPA, číslo účtu ve formátu IBAN a jméno a příjmení nebo název majitele účtu,
+
+3\. požaduje-li žadatel výplatu na účet vedený mimo území Evropské unie, Evropského hospodářského prostoru či SEPA, číslo účtu ve formátu IBAN nebo v jiném dostupném formátu, jméno a příjmení nebo název majitele účtu a adresu jeho sídla, bydliště nebo místa podnikání včetně státu a kód BIC zahraniční banky, která účet vede, případně jiný její kód; nemá-li banka svůj kód, pak název zahraniční banky a adresu jejího sídla, popřípadě pobočky, včetně státu,
+
+c) požadovanou výši náhrady vypočtenou postupem podle této vyhlášky,
+
+d) odůvodnění nároku odkazem na ustanovení zákona, popřípadě prováděcího právního předpisu nebo na konkrétní pravomocné rozhodnutí, závazné stanovisko nebo souhlas vydaný na základě zákona nebo jeho prováděcích právních předpisů, z něhož vyplývá omezení,
+
+e) katastrální území a parcelní číslo pozemku, na který je náhrada újmy uplatňována.
+
+(2) K žádosti se připojí
+
+a) prohlášení, že žadatel vlastnil nebo měl pronajatý pozemek nebo jeho část po dobu, za kterou na něj uplatňuje náhradu újmy; orgán ochrany přírody příslušný poskytnout finanční náhradu je v případě pochybností oprávněn žadatele vyzvat k doložení listiny prokazující vlastnický nebo uživatelský vztah k pozemku; žadatel je povinen příslušnému orgánu ochrany přírody doložit požadované listiny do 30 dní ode dne doručení výzvy,
+
+b) prohlášení, že žadateli nebyla poskytnuta finanční částka formou dotace, příspěvku nebo kompenzace na účel odpovídající omezení, za které žadatel uplatňuje náhradu, nebo doklad o poskytnutých finančních částkách včetně částek vyplacených v předcházejících letech, pokud mají vztah ke kalendářnímu roku, za který je náhrada požadována, popřípadě další prohlášení podle vzoru uvedeného v příloze č. 1 k této vyhlášce,
+
+c) pravomocné rozhodnutí s vyznačenou doložkou o nabytí právní moci, závazné stanovisko nebo souhlas vydaný na základě zákona nebo jeho prováděcích právních předpisů nebo smlouvu o prohlášení území za chráněné<sup>13</sup>), z nichž vyplývá omezení, na které žadatel uplatňuje náhradu; tyto dokumenty nemusí být přiloženy v případě, že je vydal orgán ochrany přírody příslušný poskytnout finanční náhradu,
+
+d) pravomocné rozhodnutí, z něhož vyplývá zmírnění omezení, na jehož základě újma vznikla nebo trvala, případně prohlášení, že takové rozhodnutí nebylo vydáno; toto rozhodnutí nemusí být přiloženo v případě, že jej vydal orgán ochrany přírody příslušný poskytnout finanční náhradu,
+
+e) prohlášení, že omezení, na které žadatel uplatňuje náhradu, nevzniklo souběžně v plné míře nebo částečně na základě jiného právního titulu než z titulu omezení lesního hospodaření podle § 58 odst. 2 zákona,
+
+f) postup výpočtu výše náhrady podle této vyhlášky včetně vstupních údajů použitých pro výpočet; vstupní údaje, které jsou k dispozici v listinné podobě, jsou samostatnou přílohou žádosti,
+
+g) údaj o částce odpovídající snížení v obvyklém objemu produkce z jiného omezení lesního hospodaření, než je omezení podle § 58 odst. 2 zákona, nebo škodných událostí, případně prohlášení, že k tomuto snížení nedošlo,
+
+h) údaje z lesního hospodářského plánu nebo lesní hospodářské osnovy potřebné pro výpočet výše náhrady; pokud je žádost o náhradu za konkrétní omezení podávána každoročně a údaje z lesního hospodářského plánu nebo lesní hospodářské osnovy potřebné pro výpočet výše náhrady se nezměnily, žadatel je přikládá jen k první žádosti o náhradu,
+
+i) kopie lesnické mapy s vyznačením pozemků nebo jejich částí, za něž je náhrada uplatňována; pokud se žádost o náhradu za konkrétní omezení každoročně opakuje a zákres pozemku do lesnické mapy, za který je náhrada uplatňována, se nezměnil, žadatel přikládá lesnickou mapu se zákresem plochy pozemku jen k první žádosti o náhradu, a
+
+j) prohlášení o platnosti již předložených podkladů uvedených v písmenech a) až i) v případě, že se tyto podklady nezměnily.
+
+(3) Vzor prohlášení podle odstavce 2 písm. a), b) a e) je uveden v příloze č. 1 k této vyhlášce.
+
+(4) Jedná-li se o jiná omezení lesního hospodaření podle § 58 odst. 2 zákona než uvedená v § 1 odst. 1, například omezení vzniklé snížením čistých výnosů při hospodářské transformaci lesního podniku v důsledku omezení lesního hospodaření nebo prodejem dřeva nebo lesních těžebních zbytků v nevhodný časový okamžik, k žádosti se kromě údajů uvedených v odstavci 2 připojí dokument, jehož náležitostí je
+
+a) popis konkrétních dopadů omezení na hospodaření,
+
+b) postup výpočtu výše náhrady, včetně odůvodnění,
+
+c) vstupní údaje použité pro výpočet; pokud existují vstupní údaje v listinné podobě, jsou součástí dokumentu,
+
+d) požadovaná výše náhrady vypočtená na základě údajů uvedených v písmenech a) až c).
+
+(5) Vzor uplatnění nároku je uveden v příloze č. 2 k této vyhlášce.
+
+## § 4 – Způsob určení výše náhrady
+
+(1) Způsob určení výše náhrady v případech uvedených v § 1 odst. 1 je uveden v příloze č. 3 k této vyhlášce.
+
+(2) Výše jednotlivých náhrad se pro účely této vyhlášky zjistí pomocí vzorců uvedených v příloze č. 3 k této vyhlášce a výsledek se zaokrouhlí na celé koruny nahoru. S dílčími výpočetními výsledky se pracuje s přesností na 4 desetinná místa.
+
+(3) Údaje o převažujícím lesním typu, zastoupení dřevin v nejnižší jednotce prostorového rozdělení lesa, jejich věku, bonitách a zakmenění se zjistí z lesního hospodářského plánu nebo lesní hospodářské osnovy. Pokud stav lesa zjevně neodpovídá údajům uvedeným v lesním hospodářském plánu nebo lesní hospodářské osnově, upraví se údaje o převažujícím lesním typu, zastoupení dřevin, jejich věku, bonitách a zakmenění podle skutečného stavu lesa. Pro pozemky nezahrnuté do platného lesního hospodářského plánu nebo lesní hospodářské osnovy se údaje zjistí obdobně jako v případě zjišťování údajů do lesního hospodářského plánu nebo lesní hospodářské osnovy, s výjimkou údaje o převažujícím lesním typu, který se přebírá z oblastního plánu rozvoje lesů<sup>14</sup>). Zjištěné lesní typy se podle jejich ekologické příbuznosti převedou na soubory lesních typů České republiky<sup>15</sup>).
+
+(4) Věk porostu uvedený v lesním hospodářském plánu nebo lesní hospodářské osnově se aktualizuje k roku, ve kterém újma vznikla, s výjimkou náhrady újmy vzniklé v důsledku trvalého ponechání lesa nebo jeho části samovolnému vývoji, kde je rozhodný věk porostu v roce trvalého ponechání lesa samovolnému vývoji.
+
+(5) Obmýtí a obnovní doba se zjistí ze schváleného lesního hospodářského plánu nebo lesní hospodářské osnovy. Je-li skutečný věk skupiny dřevin v nejnižší jednotce prostorového rozdělení lesa nebo obmýtní doba vyšší než maximální obmýtí skupiny dřevin uvedené ve vyhlášce o způsobu výpočtu výše újmy nebo škody způsobené na lesích<sup>16</sup>), použije se pro účely žádosti maximální obmýtí uvedené ve vyhlášce o způsobu výpočtu výše újmy nebo škody způsobené na lesích.
+
+(6) Administrativní náklady žadatele spojené se zpracováním podkladů nezbytných pro podání žádosti o náhradu se považují za mimořádné opatření podle § 1 odst. 1 písm. b) bodu 9.
+
+(7) Administrativní náklady žadatele spojené se zpracováním nezbytných podkladů pro podání žádosti o náhradu se stanoví součinem celkové výše náhrad vypočtené podle odstavce 2 a procenta z celkové výše náhrady, které se vypočte podle vzorce %<sub>adm</sub> = 550 x ΣΝ<sup>-0,455</sup>, kde ΣΝ je celková výše náhrady. Administrativní náklady lze uplatnit ve výši maximálně 30 000 Kč. Příslušný orgán ochrany přírody upraví konečnou výši administrativních nákladů podle celkové výše přiznané náhrady.
+
+(8) V lesních porostech, ve kterých byl stav lesů zjišťován na inventarizační ploše, se náhrada újmy stanoví na základě provedené inventarizace zásob a dalších souvisejících taxačních veličin v předmětném porostu<sup>17</sup>) nezbytných pro stanovení výše náhrady. Pro stanovení výše náhrady újmy se přiměřeně použijí způsoby stanovení výše náhrady újmy uvedené v příloze č. 3 k této vyhlášce.
+
+(9) Od náhrady vypočtené podle odstavce 1 a náhrady vypočtené v dokumentu uvedeném v § 3 odst. 3 se odečte částka odpovídající snížení obvyklého objemu produkce z případného jiného omezení lesního hospodaření, než je omezení podle § 58 odst. 2 zákona<sup>18</sup>), nebo ze škodných událostí, a částka poskytnutá vlastníkovi nebo nájemci pozemku z veřejných rozpočtů formou dotace, příspěvku nebo kompenzace na účel odpovídající omezení, na které žadatel uplatňuje náhradu.
+
+(10) V lesních porostech, ve kterých byla žadatelem uplatněna náhrada za újmu vzniklou v důsledku trvalého ponechání lesa nebo jeho části samovolnému vývoji, nelze souběžně žádat o náhradu vzniklou za jiné omezení uvedené v § 1 odst. 1, s výjimkou mimořádného nebo nákladově náročnějšího opatření podle § 1 odst. 1 písm. b) bodu 9.
+
+(11) V lesních porostech, ve kterých byla žadatelem uplatněna náhrada za omezení výše těžeb, nelze souběžně žádat o náhradu za újmu vzniklou v důsledku prodloužení obmýtí či prodloužení obnovní doby.
+
+(12) Náhradu újmy za omezení výše těžeb v jednotlivých lesních porostech při tvorbě nebo v průběhu platnosti lesního hospodářského plánu nebo lesní hospodářské osnovy převzaté protokolem o převzetí lze uplatnit ve všech kategoriích maloplošných zvláště chráněných území, v prvních zónách chráněných krajinných oblastí nebo v jiných porostech, ve kterých byla plánovaná výše těžby z důvodu ochrany přírody prokazatelně snížena.
+
+## § 4a – Společná ustanovení
+
+(1) Výplata náhrady újmy na účet vedený v zahraničí může probíhat v jiné než české měně, přičemž žadatel nese náklady na směnu měn a náklady na provedení převodu na účet vedený mimo území Evropské unie, Evropského hospodářského prostoru nebo SEPA.
+
+(2) Na vyžádání je žadatel povinen sdělit i další údaje neuvedené v § 3 odst. 1 písm. a), je-li to zapotřebí pro provedení výplaty náhrady.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministr životního prostředí:
+
+RNDr. Ambrozek v. r.
+
+Ministr zemědělství:
+
+Ing. Mládek, CSc. v. r.
+
+### Příloha č. 1 k vyhlášce č. 335/2006 Sb.
+
+#### Vzor prohlášení žadatele o finanční náhradu za újmu vzniklou omezením lesního hospodaření
+
+#### ![sbcr2006c103z0335p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839651/NAHLED/ZOBRAZ/sbcr2006c103z0335p001u001)
+
+### Příloha č. 2 k vyhlášce č. 335/2006 Sb.
+
+#### Vzor uplatnění nároku
+
+#### Žádost o náhradu újmy za omezení lesního hospodaření
+
+##### ![sbcr2006c103z0335p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839653/NAHLED/ZOBRAZ/sbcr2006c103z0335p002u001)
+
+### Příloha č. 3 k vyhlášce č. 335/2006 Sb.
+
+#### Způsob určení výše náhrady
+
+1\. Výše náhrady újmy vzniklé v důsledku trvalého ponechání lesa nebo jeho části samovolnému vývoji se pro jednotlivé porostní skupiny trvale ponechané samovolnému vývoji nebo jejich části vypočte podle vzorce
+
+N<sub>L1</sub>= r × P + 0,0318 ×Hlp<sub>a</sub>,
+
+kde
+
+N<sub>L1</sub> = roční náhrada újmy vzniklé v důsledku trvalého ponechání lesa nebo jeho části samovolnému vývoji v Kč,
+
+r = celková potenciální roční renta z lesa pro soubory lesních typů zjištěné podle § 4 odst. 3, v Kč/m<sup>2</sup>. Hodnoty „r“ pro jednotlivé soubory lesních typů jsou uvedeny v příloze č. 4 vyhlášky č. 55/1999 Sb., o způsobu výpočtu výše újmy nebo škody způsobené na lesích, ve znění pozdějších předpisů (dále jen „vyhláška č. 55/1999 Sb.“),
+
+Hlp<sub>a</sub> = hodnota lesního porostu v roce trvalého ponechání lesa nebo jeho části samovolnému vývoji vypočtená podle § 2 odst. 3 vyhlášky č. 55/1999 Sb. v Kč,
+
+P = plocha lesa nebo jeho části trvale ponechaná samovolnému vývoji v m<sup>2</sup>.
+
+Došlo-li k trvalému ponechání lesa nebo jeho části samovolnému vývoji přede dnem nabytí účinnosti zákona č. 218/2004 Sb., kterým se mění zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů, zákon č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů (28. 4. 2004), hodnota lesního porostu trvale ponechaného samovolnému vývoji se ocení ke dni nabytí účinnosti tohoto zákona.
+
+Na pozemku, za který je náhrada požadována, se za omezení vzniklé v důsledku trvalého ponechání lesa nebo jeho části samovolnému vývoji po dobu 50 let hradí náhrada újmy za hodnotu lesního porostu (0,0318 ×Hlp<sub>a</sub>) a celková potenciální renta z lesa (r ×P). Po uplynutí doby 50 let se dále hradí pouze celková potenciální renta z lesa (r ×P). Doba 50 let se začíná počítat od roku trvalého ponechání lesa nebo jeho části samovolnému vývoji.
+
+2\. Výše náhrady újmy vzniklé v důsledku změny skladby dřevin lesního porostu
+
+a) mající za následek zhoršení produkčních možností se vypočte dle vzorce
+
+N<sub>L2a</sub> = (CPP<sub>h1</sub> - CPP<sub>h2</sub>) x P,
+
+kde
+
+N<sub>L2a</sub> = roční náhrada újmy ze snížení produkce lesního porostu v důsledku záměny dřevin v Kč,
+
+CPP<sub>h1</sub> = hodnota celkového ročního průměrného přírůstu lesního porostu s cílovou druhovou porostní skladbou dřevin odpovídající hospodářským záměrům žadatele a uvedená pro příslušný hospodářský soubor v rámcových směrnicích hospodaření příslušného oblastního plánu rozvoje lesů, zjištěná podle tabulky č. 1 v Kč/m<sup>2</sup>,
+
+CPP<sub>h2</sub> = hodnota celkového ročního průměrného přírůstu lesního porostu s nařízenou skladbou dřevin, zjištěná podle tabulky č. 1, v Kč/m<sup>2</sup>.
+
+P = plocha lesa nebo jeho části s nařízenou skladbou dřevin v m<sup>2</sup>
+
+b) mající za následek zvýšené náklady se vypočte jednorázově podle vzorce
+
+N<sub>L2b</sub> = n1 - n2,
+
+kde
+
+N<sub>L2b</sub> = jednorázová náhrada újmy vzniklé v důsledku změny skladby dřevin mající za následek zvýšené náklady v Kč,
+
+n1 = ekonomicky odůvodněné náklady na zajištěnou kulturu nařízené skladby dřevin v Kč,
+
+n2 = ekonomicky odůvodněné náklady na zajištěnou kulturu cílové druhové skladby dřevin odpovídající hospodářským záměrům žadatele a uvedené pro příslušný hospodářský soubor v rámcových směrnicích hospodaření příslušného oblastního plánu rozvoje lesů v Kč.
+
+3\. Výše náhrady újmy vzniklé v důsledku prodloužení obmýtí či prodloužení obnovní doby stanovených v lesním hospodářském plánu nebo lesní hospodářské osnově převzaté protokolem o převzetí se vypočte podle vzorce
+
+N<sub>L3</sub> = Hlp<sub>a</sub> × (t<sub>u1</sub> - t<sub>u2</sub>)/100 × p,
+
+kde
+
+N<sub>L3</sub> = roční náhrada újmy ze snížení produkce lesního porostu v důsledku prodloužení obmýtí či prodloužení obnovní doby, v Kč,
+
+Hlp<sub>a</sub> = hodnota lesního porostu ve věku (a) zjištěná podle § 2 odst. 3 vyhlášky č. 55/1999 Sb. v Kč,
+
+t<sub>u1</sub> = dílčí těžební procento stanovené podle přílohy č. 5 k vyhlášce č. 84/1996 Sb., o lesním hospodářském plánování, ve znění pozdějších předpisů (dále jen „vyhláška č. 84/1996 Sb.“), pro původní obmýtí (u<sub>1</sub>) a původní obnovní dobu, kterými jsou první hodnoty doporučených obmýtí a obnovní doby podle přílohy č. 3 k vyhlášce č. 298/2018 Sb., o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů (dále jen „vyhláška č. 298/2018 Sb.“),
+
+t<sub>u2</sub> = dílčí těžební procento stanovené podle přílohy č. 5 k vyhlášce č. 84/1996 Sb. pro nařízené (prodloužené) obmýtí (u<sub>2</sub>) a nařízenou (prodlouženou) obnovní doby,
+
+p = úroková sazba ve výši 3 %. Hodnota „p“ je ve vzorci vyjádřena jako desetinné číslo.
+
+4\. Výše náhrady újmy ze snížení produkce lesního porostu vzniklé v důsledku zavedení tvaru lesa nízkého se vypočte jednorázově podle vzorce
+
+N<sub>L4a</sub> = Hlp<sub>a</sub> × Mn<sub>a</sub>/100,
+
+kde
+
+N<sub>L4a</sub> = jednorázová náhrada újmy ze snížení produkce lesního porostu vzniklé v důsledku zavedení tvaru lesa nízkého v Kč
+
+Hlp<sub>a</sub> = hodnota lesního porostu ve věku (a), kdy bylo provedeno předčasné smýcení porostu, zjištěná podle přílohy č. 1 k vyhlášce č. 55/1999 Sb. v Kč,
+
+Mn<sub>a</sub> = procento mýtní nezralosti, zjištěné podle přílohy č. 5 k vyhlášce č. 55/1999 Sb.
+
+Následně po dobu 20 let nebo po dobu obmýtní lesa nízkého, pokud je obmýtí nižší než 20 let, se roční výše náhrady vypočte podle vzorce
+
+N<sub>L4b</sub> = r ×P,
+
+kde
+
+N<sub>L4b</sub> = roční výše náhrady vzniklé v důsledku snížení produkce lesního porostu vzniklé v důsledku zavedení tvaru lesa nízkého po dobu 20 let nebo po dobu obmýtní lesa nízkého, pokud je obmýtí nižší než 20 let, v Kč,
+
+r = celková potenciální roční renta z lesa pro jednotlivé soubory lesních typů zjištěné podle § 4 odst. 3, v Kč/m<sup>2</sup>, se stanoví jako vážený aritmetický průměr potenciálních ročních rent z lesa plošně převládajících souborů lesních typů v nejnižších užitých jednotkách prostorového rozdělení lesa. Hodnoty „r“ pro jednotlivé soubory lesních typů jsou uvedeny v příloze č. 4 vyhlášky č. 55/1999 Sb.,
+
+P = plocha lesa nebo jeho části, na které k zavedení tvaru lesa nízkého došlo, v m<sup>2</sup>.
+
+V rámci doby, kdy žadatel za les nízký uplatňuje náhradu ve výši roční renty z lesa N<sub>L4b</sub>, nemůže v něm uplatňovat jinou náhradu z důvodu snížení produkce.
+
+Po uplynutí této doby, pokud je obmýtí lesa nízkého vyšší než 20 let, lze uplatnit náhradu kauzálně ve výši individuálně vypočtené podle vyhlášky č. 55/1999 Sb.
+
+5\. Výše náhrady újmy vzniklé v důsledku trvalého nařízeného snížení zakmenění lesního porostu se vypočte podle vzorce
+
+N<sub>L5</sub> = CPP<sub>h</sub> × (z<sub>1</sub> - z<sub>2</sub>) × P,
+
+kde
+
+N<sub>L5</sub> = roční náhrada újmy ze snížení produkce lesního porostu v důsledku trvale sníženého zakmenění v Kč,
+
+CPP<sub>h</sub> = hodnota celkového ročního průměrného přírůstu lesního porostu skupiny lesních dřevin zjištěná podle tabulky č. 1 v Kč/m<sup>2</sup>,
+
+z<sub>1</sub> = zakmenění před zásahem,
+
+z<sub>2</sub> = zakmenění po zásahu.
+
+P = plocha lesa nebo jeho části, na které ke snížení zakmenění došlo, v m<sup>2</sup>.
+
+6\. Výše náhrady újmy vzniklé v důsledku omezení výše těžeb při tvorbě nebo v průběhu platnosti lesního hospodářského plánu nebo lesní hospodářské osnovy převzaté protokolem o převzetí se v jednotlivých lesních porostech vypočte podle vzorce
+
+N<sub>L6</sub> = Hlp<sub>a</sub> × (V<sub>2</sub> - V<sub>3</sub>)/V<sub>1</sub> × p,
+
+kde
+
+N<sub>L6</sub> = roční výše náhrady újmy vzniklé v důsledku omezené výše povolených těžeb v Kč,
+
+Hlp<sub>a</sub> = hodnota lesního porostu ve věku (a), zjištěná podle přílohy č. 1 k vyhlášce č. 55/1999 Sb. v Kč,
+
+V<sub>1</sub> = zásoba dříví v lesním porostu podle lesního hospodářského plánu nebo lesní hospodářské osnovy v m<sup>3</sup> b.k.,
+
+V<sub>2</sub> = výše těžby bez omezení v m<sup>3</sup> b.k., stanovená na základě těžebních ukazatelů dílčí procento těžby obnovní nebo probírková intenzita uvedených v příloze č. 5 k vyhlášce č. 84/1996 Sb., s využitím prvních hodnot doporučených obmýtí a obnovní doby podle přílohy č. 3 k vyhlášce č. 298/2018 Sb.,
+
+V<sub>3</sub> = výše těžby s omezením uvedená v lesním hospodářském plánu nebo lesní hospodářské osnově, převzaté protokolem o převzetí, nebo v rozhodnutí orgánu ochrany přírody vydaného v průběhu platnosti lesního hospodářského plánu nebo lesní hospodářské osnovy v m<sup>3</sup> b.k.,
+
+p = úroková sazba ve výši 3 %. Hodnota „p“ je ve vzorci vyjádřena jako desetinné číslo.
+
+Výpočet výše roční náhrady újmy se provede samostatně pro jednotlivé skupiny dřevin lesního porostu.
+
+7\. Výše náhrady újmy vzniklé v důsledku ponechání jednotlivých stromů do jejich fyzického rozpadu se vypočte jednorázově podle vzorce
+
+N<sub>L7</sub> = Hlp<sub>a</sub> ×V<sub>4</sub>/V<sub>5</sub>,
+
+kde
+
+N<sub>L7</sub> = jednorázová náhrada újmy vzniklé v důsledku ponechání jednotlivých stromů do jejich fyzického rozpadu v Kč,
+
+Hlp<sub>a</sub> = hodnota lesního porostu vypočtená podle přílohy č. 1 k vyhlášce č. 55/1999 Sb. v Kč,
+
+V<sub>4</sub> = objem stromů ponechaných do fyzického rozpadu, v m<sup>3</sup> b.k.,
+
+V<sub>5</sub> = zásoba dříví v lesním porostu podle lesního hospodářského plánu nebo lesní hospodářské osnovy v m<sup>3</sup> b.k..
+
+8\. Výše náhrady újmy vzniklé v důsledku ponechání ležícího dříví po těžbě v porostu se vypočte jednorázově podle vzorce
+
+N<sub>L8</sub> = Hm × (Cs - Ts),
+
+kde
+
+N<sub>L8</sub> = jednorázová náhrada újmy vzniklé v důsledku ponechání ležícího dříví v porostu v Kč,
+
+Hm = objem dřevní hmoty podle jednotlivých dřevin a sortimentů v m<sup>3</sup> b.k.,
+
+Cs = obvyklá cena zjištěná podle jiného právního předpisu<sup>19</sup>) surového dříví na odvozním místě v Kč/m<sup>3</sup> b.k,
+
+Ts = ekonomicky odůvodněné náklady na soustřeďování dříví na odvozní místo v Kč/m<sup>3</sup> b.k.
+
+9\. Výše náhrady újmy vzniklé v důsledku mimořádného nebo nákladově náročnějšího opatření, s výjimkou administrativních nákladů, se vypočte
+
+a) v důsledku mimořádného opatření jednorázově podle vzorce
+
+N<sub>L9a</sub> = K<sub>m</sub>,
+
+kde
+
+N<sub>L9a</sub> = jednorázová náhrada újmy vzniklé v důsledku mimořádného opatření v Kč,
+
+K<sub>m</sub> = ekonomicky odůvodněné náklady na mimořádné opatření v Kč,
+
+b) v důsledku nákladově náročnějšího opatření jednorázově podle vzorce
+
+N<sub>L9b</sub> = K<sub>n</sub> - K<sub>o</sub>,
+
+kde
+
+N<sub>L9b</sub> = jednorázová náhrada újmy vzniklé v důsledku nákladově náročnějšího opatření v Kč,
+
+K<sub>n</sub> = ekonomicky odůvodněné náklady na nákladově náročnější opatření v Kč,
+
+K<sub>o</sub> = ekonomicky odůvodněné náklady na obvyklý způsob hospodaření v Kč.
+
+##### Tabulka č. 1
+
+##### Roční hodnotový celkový průměrný přírůst CPP<sub>h</sub> lesního porostu nad 5 let věku podle skupin dřevin, bonit a průměrnou kvalitu pro stanovené obmýtí v Kč/m<sup>2</sup>
+
+<table><tbody><tr><th rowspan="2">Skupina dřevin</th><th colspan="9">Bonita</th></tr><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th></tr><tr><td>smrk</td><td>0,9513</td><td>0,8309</td><td>0,7264</td><td>0,5989</td><td>0,4812</td><td>0,4488</td><td>0,3203</td><td>0,2912</td><td>0,2377</td></tr><tr><td>jedle</td><td>1,1236</td><td>0,9765</td><td>0,8065</td><td>0,7074</td><td>0,5775</td><td>0,4699</td><td>0,3697</td><td>0,3110</td><td>0,2289</td></tr><tr><td>borovice</td><td>0,4467</td><td>0,3869</td><td>0,3320</td><td>0,2797</td><td>0,2324</td><td>0,1907</td><td>0,1560</td><td>0,1240</td><td>0,0969</td></tr><tr><td>modřín</td><td>0,6013</td><td>0,5198</td><td>0,4357</td><td>0,3549</td><td>0,2946</td><td>0,2341</td><td>0,1812</td><td>0,1318</td><td>0,0956</td></tr><tr><td>douglaska</td><td>1,0617</td><td>0,9545</td><td>0,8415</td><td>0,7373</td><td>0,6219</td><td></td><td></td><td></td><td></td></tr><tr><td>buk</td><td>0,5288</td><td>0,4797</td><td>0,4391</td><td>0,3781</td><td>0,3240</td><td>0,2793</td><td>0,2324</td><td>0,1873</td><td>0,1420</td></tr><tr><td>dub</td><td>0,9811</td><td>0,9025</td><td>0,8203</td><td>0,7276</td><td>0,6265</td><td>0,5380</td><td>0,4429</td><td>0,2181</td><td>0,1657</td></tr><tr><td>jasan</td><td>0,4356</td><td>0,3500</td><td>0,2580</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>olše</td><td>0,2801</td><td>0,2404</td><td>0,1905</td><td>0,1494</td><td>0,1150</td><td></td><td></td><td></td><td></td></tr><tr><td>osika</td><td>0,1729</td><td>0,1331</td><td>0,0939</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>akát</td><td>0,6259</td><td>0,5401</td><td>0,4423</td><td>0,3525</td><td>0,2706</td><td>0,1661</td><td>0,0866</td><td>0,0372</td><td>0,0056</td></tr><tr><td>topol</td><td>0,9899</td><td>0,8862</td><td>0,7522</td><td>0,6576</td><td>0,5794</td><td>0,5052</td><td>0,4166</td><td>0,3183</td><td>0,2121</td></tr><tr><td>bříza</td><td>0,1399</td><td>0,1053</td><td>0,0907</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Například vyhláška č. 55/1999 Sb., o způsobu výpočtu výše újmy nebo škody způsobené na lesích.
+
+<sup>2</sup>) Například zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů.
+
+<sup>13</sup>) § 39 zákona č. 114/1992 Sb., ve znění pozdějších předpisů
+
+<sup>14</sup>) § 3 odst. 1 písm. d) vyhlášky č. 298/2018 Sb., o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů.
+
+<sup>15</sup>) Příloha č. 4 k vyhlášce č. 298/2018 Sb.
+
+<sup>16</sup>) Příloha č. 3 k vyhlášce č. 55/1999 Sb.
+
+<sup>17</sup>) § 7a a příloha č. 6 k vyhlášce č. 84/1996 Sb., ve znění vyhlášky č. 186/2022 Sb.
+
+<sup>18</sup>) Například § 33 odst. 3 zákona č. 289/1995 Sb., ve znění zákona č. 314/2019 Sb.
+
+<sup>19</sup>) § 2 odst. 1 zákona č. 151/1997 Sb., o oceňování majetku a o změně některých zákonů (zákon o oceňování majetku), ve znění pozdějších předpisů.

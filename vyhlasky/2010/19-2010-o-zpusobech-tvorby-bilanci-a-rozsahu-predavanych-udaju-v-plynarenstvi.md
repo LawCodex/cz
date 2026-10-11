@@ -1,0 +1,261 @@
+---
+title: "Vyhláška č. 19/2010 Sb., o způsobech tvorby bilancí a rozsahu předávaných údajů v plynárenství operátorovi trhu"
+identifier: "19/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/19/2015-09-10"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-01-15
+effective: 2010-02-01
+last_amended: 2015-09-10
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/19"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 19/2010 Sb., o způsobech tvorby bilancí a rozsahu předávaných údajů v plynárenství operátorovi trhu ve znění vyhlášky č. 325/2013 Sb. a vyhlášky č. 216/2015 Sb."
+---
+
+# Vyhláška č. 19/2010 Sb., o způsobech tvorby bilancí a rozsahu předávaných údajů v plynárenství operátorovi trhu
+
+19
+
+VYHLÁŠKA
+
+ze dne 15. ledna 2010
+
+o způsobech tvorby bilancí a rozsahu předávaných údajů v plynárenství operátorovi trhu
+
+Ministerstvo průmyslu a obchodu stanoví podle § 98a odst. 1 písm. c) zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 158/2009 Sb.
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví způsoby tvorby bilancí plynárenské soustavy, postupy pro sledování kapacit a výkonů v plynárenské soustavě a termíny a rozsah údajů předávaných účastníky trhu s plynem operátorovi trhu pro tvorbu bilancí a sledování kapacit a výkonů v plynárenské soustavě.
+
+## § 2 – Způsob tvorby bilancí
+
+(1) V oblasti předpokládaných bilancí dodávek a spotřeb plynu operátor trhu přebírá desetileté bilance a roční bilance ve čtvrtletním členění o předpokládané výrobě plynu, přepravě plynu, distribuci plynu, dodávkách plynu, uskladnění plynu a obchodu s plynem podle příloh č. 1 až č. 7 k této vyhlášce
+
+a) od držitelů licence na výrobu plynu předpokládanou celkovou výrobu a dodávky plynu,
+
+b) od držitele licence na přepravu plynu předpokládané množství přepraveného plynu pro dodávky zákazníkům na území České republiky a pro mezinárodní přepravu ve vstupních bodech vstupu do přepravní soustavy a ve výstupních bodech z přepravní soustavy,
+
+c) od držitelů licence na distribuci plynu předpokládané celkové množství distribuovaného plynu v distribuční soustavě včetně ztrát a vlastní spotřeby,
+
+d) od držitelů licence na uskladňování plynu stav zásob na začátku těžby a vtláčení a maximální výkony těžby a vtláčení podle jednotlivých podzemních zásobníků plynu,
+
+e) od držitelů licence na obchod s plynem předpokládané dodávky z dovozu plynu do České republiky a vývozu plynu z České republiky.
+
+(2) V oblasti vyhodnocování dodávek a spotřeb plynu operátor trhu
+
+a) přebírá měsíční údaje o skutečné výrobě plynu, přepravě plynu, distribuci plynu, dodávkách plynu, uskladnění plynu a obchodu s plynem od držitelů licence na výrobu plynu, držitele licence na přepravu plynu, držitelů licence na distribuci plynu, držitelů licence na uskladňování plynu a držitelů licence na obchod s plynem v členění:
+
+1\. od držitelů licence na výrobu plynu skutečnou denní, měsíční a roční celkovou výrobu a dodávky do jednotlivých soustav; sledování se provádí na formulářích, jejichž vzory jsou uvedeny v přílohách č. 8 a č. 9 k této vyhlášce,
+
+2\. od držitele licence na přepravu plynu skutečné souhrnné denní, měsíční a roční množství plynu pro dodávky zákazníkům na území České republiky a pro mezinárodní přepravu ve vstupních bodech do přepravní soustavy a ve výstupních bodech z přepravní soustavy, množství plynu ve vstupních a výstupních bodech virtuálních zásobníků, změny akumulace a ostatní spotřebované množství plynu; sledování se provádí na formulářích, jejichž vzory jsou uvedeny v přílohách č. 10 a č. 11 k této vyhlášce,
+
+3\. od držitelů licence na distribuci plynu skutečné měsíční dodávky do distribuční soustavy z přepravní soustavy a z jiných distribučních soustav, nebo ze zahraničí a z distribuční soustavy jednotlivým kategoriím zákazníků, kterými jsou velkoodběratel, střední odběratel, maloodběratel nebo domácnosti, v členění podle krajů, dále vlastní spotřebu, ztráty a změnu akumulace za období od prvního do posledního dne v měsíci, množství distribuovaného plynu do jiných soustav a do zahraničí; sledování množství distribuovaného plynu se provádí na formuláři, jehož vzor je uveden v příloze č. 12 k této vyhlášce,
+
+4\. od držitelů licence na uskladňování plynu výši těžebních a vtláčecích výkonů a stavu provozních zásob jednotlivých podzemních zásobníků plynu; denní, měsíční a roční sledování uskladněného plynu u podzemních zásobníků plynu se provádí na formulářích, jejichž vzory jsou uvedeny v přílohách č. 13 a č. 14 k této vyhlášce, v rozdělení na plyn uskladněný pro držitele licence na obchod s plynem nebo plyn uskladněný pro ostatní fyzické a právnické osoby,
+
+5\. od držitelů licence na obchod s plynem měsíční a roční dodávky z dovozu zemního plynu do České republiky podle vstupních bodů, a vývozu zemního plynu z České republiky podle výstupních bodů; sledování se provádí na formuláři, jehož vzor je uveden v příloze č. 15 k této vyhlášce,
+
+b) přebírá a vyhodnocuje výsledné údaje hodinových dodávek a spotřeb plynu od držitele licence na přepravu plynu nebo výrobu plynu pro sestavení kontrolních hodinových odečtů plynárenské soustavy a kontrolních hodinových odečtů výrobce plynu v České republice uvedených v přílohách č. 17 a č. 18 k této vyhlášce,
+
+c) zpracovává údaje o skutečné přepravě plynu, distribuci plynu, výrobě plynu, dodávkách plynu, odběrech plynu a uskladňování plynu v plynárenské soustavě v termínech den, měsíc, čtvrtletí a rok,
+
+d) přebírá údaje o skutečných dodávkách koksárenského plynu, svítiplynu, degazačního plynu, generátorového plynu, bioplynu, biometanu, propanu, butanu a jejich směsí, kromě využití pro pohon motorových vozidel, od držitelů licence na výrobu plynu v termínech měsíc a rok, které jsou realizovány prostřednictvím distribuční soustavy, uvedených v příloze č. 19 k této vyhlášce,
+
+e) zpracovává měsíční bilance o plnění bezpečnostního standardu dodávek.
+
+## § 3 – Sledování kapacit
+
+(1) Operátor trhu sleduje informace o přepravních kapacitách, distribučních kapacitách a uskladňovacích kapacitách jednotlivých částí plynárenské soustavy.
+
+(2) Sledování je prováděno prostřednictvím údajů o technických kapacitách na vstupních a výstupních bodech přepravní soustavy podle vzoru uvedeného v příloze č. 22 k této vyhlášce a technických parametrech distribučních soustav a zásobníků plynu, kterými jsou celková změna akumulace soustav, maximální denní spotřeba soustav, délka plynovodů s rozdělením podle průměrů potrubí a tlakové úrovně podle vzoru uvedeného v příloze č. 20 k této vyhlášce, výkony předávacích stanic s minimálními vstupními tlaky podle vzoru uvedeného v příloze č. 21 k této vyhlášce a závislosti denního těžebního výkonu na stavu provozních zásob u jednotlivých podzemních zásobníků plynu.
+
+## § 4 – Údaje od zákazníků
+
+Operátor trhu
+
+a) přebírá údaje o měsíčních dodávkách plynu v případech, kdy si je zákazníci zajišťují ze zahraničí nebo u držitele licence na výrobu plynu, které po souhrnném zpracování předává ministerstvu,
+
+b) zpracovává údaje o počtu zákazníků, kteří změnili dodavatele plynu.
+
+## § 5 – Zrušovací ustanovení
+
+Vyhláška č. 114/2005 Sb., o podrobnostech o činnosti Bilančního centra, se zrušuje.
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. února 2010.
+
+Ministr:
+
+Ing. Tošovský v. r.
+
+### Příloha č. 1 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Předpokládané bilance výroby (těžby) plynu a dodávek plynu z výrobny (těžby)
+
+#### ![sbcr2010c006z0019_2013c125z0325p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887231/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p001u001)
+
+### Příloha č. 2 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Předpokládaná přeprava v přepravní soustavě
+
+#### ![sbcr2010c006z0019_2013c125z0325p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887233/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p002u001)
+
+### Příloha č. 3 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Předpokládaná distribuce plynu v distribuční soustavě
+
+#### ![sbcr2010c006z0019_2013c125z0325p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887235/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p003u001)
+
+### Příloha č. 4 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Předpokládaná bilance zásobníků plynu
+
+#### ![sbcr2010c006z0019_2013c125z0325p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887237/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p004u001)
+
+### Příloha č. 5 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Předpokládaná bilance dovozu plynu do České republiky a vývozu plynu z České republiky
+
+#### ![sbcr2010c006z0019_2013c125z0325p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887239/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p005u001)
+
+### Příloha č. 6 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Předpokládaná bilance dodávek biometanu do přepravní soustavy nebo distribuční soustavy nebo zásobníku plynu
+
+#### ![sbcr2010c006z0019_2013c125z0325p006u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887241/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p006u001)
+
+### Příloha č. 7 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Předpokládaná bilance dodávek ostatních plynů do distribuční soustavy
+
+#### ![sbcr2010c006z0019_2013c125z0325p007u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887243/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p007u001)
+
+### Příloha č. 8 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Vyhodnocení výroby (těžby) plynu a dodávek plynu z výrobny (těžby)
+
+#### ![sbcr2010c006z0019_2013c125z0325p008u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887245/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p008u001)
+
+### Příloha č. 9 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Vyhodnocení výroby (těžby) plynu a dodávek plynu z výrobny (těžby)
+
+#### ![sbcr2010c006z0019_2013c125z0325p009u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887247/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p009u001)
+
+### Příloha č. 10 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Denní vyhodnocení přepraveného plynu v přepravní soustavě
+
+#### ![sbcr2010c006z0019_2013c125z0325p010u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887249/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p010u001)
+
+### Příloha č. 11 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Vyhodnocení přepraveného plynu v přepravní soustavě
+
+#### ![sbcr2010c006z0019_2013c125z0325p011u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887251/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p011u001)
+
+### Příloha č. 12 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Vyhodnocení dodávek plynu v distribuční soustavě
+
+#### ![sbcr2010c006z0019_2013c125z0325p012u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887253/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p012u001)
+
+### Příloha č. 13 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Vyhodnocení uskladněného plynu
+
+#### ![sbcr2010c006z0019_2013c125z0325p013u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887255/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p013u001)
+
+### Příloha č. 14 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Vyhodnocení uskladněného plynu
+
+#### ![sbcr2010c006z0019_2013c125z0325p014u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887257/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p014u001)
+
+### Příloha č. 15 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Dovoz a vývoz plynu
+
+#### ![sbcr2010c006z0019_2013c125z0325p015u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887259/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p015u001)
+
+### Příloha č. 17 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Kontrolní hodinový odečet (KHO) plynárenské soustavy v ČR
+
+#### ![sbcr2010c006z0019_2013c125z0325p017u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887261/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p017u001)
+
+### Příloha č. 18 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Kontrolní hodinový odečet (KHO) výrobce plynu v ČR
+
+#### ![sbcr2010c006z0019_2013c125z0325p018u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887263/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p018u001)
+
+### Příloha č. 19 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Vyhodnocení dodávek ostatních plynů do distribuční soustavy
+
+#### ![sbcr2010c006z0019_2013c125z0325p019u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887265/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p019u001)
+
+### Příloha č. 20 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Délka plynovodů s rozdělením podle průměru potrubí a tlakové úrovně
+
+#### ![sbcr2010c006z0019_2013c125z0325p020u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887925/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p020u001)
+
+### Příloha č. 21 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Výkony předávacích stanic s minimálními vstupními tlaky
+
+#### ![sbcr2010c006z0019_2013c125z0325p021u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887927/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p021u001)
+
+### Příloha č. 22 k vyhlášce č. 19/2010 Sb.
+
+#### VZOR
+
+#### Technická a volná kapacita na vstupních a výstupních bodech přepravní soustavy
+
+#### ![sbcr2010c006z0019_2013c125z0325p022u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/887929/NAHLED/ZOBRAZ/sbcr2010c006z0019_2013c125z0325p022u001)

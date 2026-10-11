@@ -1,0 +1,85 @@
+---
+title: "Vyhláška č. 142/2007 Sb., o vyhlášení Národní přírodní památky Bílichovské údolí a stanovení jejích bližších ochranných podmínek"
+identifier: "142/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/142/2007-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2007-06-11
+effective: 2007-07-01
+last_amended: 2007-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/142"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 142/2007 Sb., o vyhlášení Národní přírodní památky Bílichovské údolí a stanovení jejích bližších ochranných podmínek
+
+142
+
+VYHLÁŠKA
+
+ze dne 11. června 2007
+
+o vyhlášení Národní přírodní památky Bílichovské údolí a stanovení jejích bližších ochranných podmínek
+
+Ministerstvo životního prostředí stanoví podle § 79 odst. 3 písm. b) zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb.:
+
+## § 1 – Předmět úpravy
+
+(1) Vyhlašuje se Národní přírodní památka Bílichovské údolí (dále jen „národní přírodní památka“).
+
+(2) Důvodem zvláštní ochrany je ochrana biotopu a populace kýchavice černé (Veratrum nigrum) ve fragmentu okroticové bučiny.
+
+## § 2 – Vymezení národní přírodní památky
+
+Národní přírodní památka se rozkládá na území Středočeského kraje, v katastrálním území Bílichov. Hranice národní přírodní památky se stanoví uzavřeným geometrickým obrazcem s přímými stranami, jehož vrcholy jsou určeny souřadnicemi udanými v jednotné trigonometrické síti katastrální<sup>1</sup>). Seznam souřadnic uzavřeného geometrického obrazce a jeho jednotlivých vrcholů uspořádaných tak, jak jdou v obrazci za sebou, je obsažen v příloze č. 1 k této vyhlášce. Orientační grafické znázornění území národní přírodní památky je obsaženo v příloze č. 2 k této vyhlášce.
+
+## § 3 – Bližší ochranné podmínky
+
+Jen se souhlasem příslušného orgánu ochrany přírody lze v národní přírodní památce:
+
+a) provádět změny druhu pozemků nebo způsobu jejich využití<sup>2</sup>),
+
+b) zřizovat skládky jakýchkoli materiálů, a to i přechodné.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2007.
+
+Ministr:
+
+RNDr. Bursík v. r.
+
+### Příloha č. 1 k vyhlášce č. 142/2007 Sb.
+
+#### Seznam souřadnic (S-JTSK) jednotlivých vrcholů geometrického obraze, kterým jsou stanoveny hranice Národní přírodní památky Bílichovské údolí
+
+| číslo bodu | souřadnice – Y [m] | souřadnice – X [m] | pořadí bodu v obrazci |
+|---|---|---|---|
+| 12001620001 | 778209,88 | 1019870,93 | 1 |
+| 12001620002 | 778227,19 | 1019816,85 | 2 |
+| 12001620003 | 778079,66 | 1019824,36 | 3 |
+| 12001620004 | 777992,48 | 1019828,48 | 4 |
+| 12001620005 | 777919,78 | 1019843,80 | 5 |
+| 12001620006 | 777846,28 | 1019878,87 | 6 |
+| 12001620007 | 777737,56 | 1019904,09 | 7 |
+| 12001620008 | 777735,03 | 1020005,93 | 8 |
+| 12001620009 | 777863,08 | 1020001,91 | 9 |
+| 12001620010 | 778025,00 | 1020049,41 | 10 |
+| 12001620014 | 778142,87 | 1020084,43 | 11 |
+| 12001620013 | 778158,63 | 1020040,28 | 12 |
+| 12001620012 | 778199,46 | 1019931,82 | 13 |
+
+### Příloha č. 2 k vyhlášce č. 142/2007 Sb.
+
+#### Orientační grafické znázornění Národní přírodní památky Bílichovské údolí
+
+#### ![sbcr2007c052z0142p001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873775/NAHLED/ZOBRAZ/sbcr2007c052z0142p001)
+
+---
+
+<sup>1</sup>) Nařízení vlády č. 430/2006 Sb., o stanovení geodetických referenčních systémů a státních mapových děl závazných na území státu a zásadách jejich používání.
+
+<sup>2</sup>) § 80 odst. 1 zákona č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon). 
+ § 2 odst. 3 a § 6 zákona č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů.

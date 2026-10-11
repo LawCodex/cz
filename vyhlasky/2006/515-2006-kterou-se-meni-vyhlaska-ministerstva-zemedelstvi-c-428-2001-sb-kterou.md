@@ -1,0 +1,404 @@
+---
+title: "Vyhláška č. 515/2006 Sb., kterou se mění vyhláška Ministerstva zemědělství č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění vyhlášky č. 146/2004 Sb."
+identifier: "515/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/515/2007-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-11-09
+effective: 2007-01-01
+last_amended: 2007-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/515"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 515/2006 Sb., kterou se mění vyhláška Ministerstva zemědělství č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění vyhlášky č. 146/2004 Sb.
+
+515
+
+VYHLÁŠKA
+
+ze dne 9. listopadu 2006,
+
+kterou se mění vyhláška Ministerstva zemědělství č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění vyhlášky č. 146/2004 Sb.
+
+Ministerstvo zemědělství stanoví podle § 40 zákona č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění zákona č. 76/2006 Sb., k provedení § 5 odst. 6, § 6 odst. 11, § 8 odst. 11, § 11 odst. 2, § 12 odst. 1, § 13 odst. 5, § 17 odst. 9, § 19 odst. 10, § 20 odst. 3 a § 36 odst. 7 zákona:
+
+## Čl. I
+
+Vyhláška č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění vyhlášky č. 146/2004 Sb., se mění takto:
+
+1\. V § 1 písm. e) se slova „srážkových vod“ nahrazují slovy „povrchových vod vzniklých odtokem srážkových vod (dále jen „srážková voda“)“.
+
+2\. V § 3 písm. f) se slova „a vliv na nákladovou cenu za dodávku pitné vody nebo odvádění odpadních vod“ zrušují.
+
+3\. V § 6 odst. 2 se na konci textu písmene a) doplňují slova „a nejvýše celou obec, popřípadě několik sousedících obcí, pokud mezi zastavěným územím nebo zastavitelnou plochou těchto obcí není vzdálenost větší než 200 m“.
+
+4\. V § 6 odst. 5 se slovo „června“ nahrazuje slovem „července“.
+
+5\. V § 7 odst. 2 se na konci textu písmene a) doplňují slova „a nejvýše několik obcí, ve kterých je možno jakost vody dodávané touto sítí považovat za přibližně stejnou“.
+
+6\. V § 7 odstavec 5 včetně poznámky pod čarou č. 2 zní:
+
+> „(5) Záznamy o zdrojích povrchových a podzemních vod využívaných pro úpravu na vodu pitnou dodávanou vodovody se vedou podle jejich názvu, názvu a číselného kódu katastrálního území a identifikačního čísla odběru<sup>2</sup>), bylo-li přiděleno.
+
+> <sup>2</sup>) § 11 odst. 2 vyhlášky č. 431/2001 Sb., o obsahu vodní bilance, způsobu jejího sestavení a o údajích pro vodní bilanci, ve znění pozdějších předpisů.“.
+
+7\. Poznámka pod čarou č. 4 zní:
+
+> „<sup>4</sup>) § 8 odst. 1 písm. a) bod 1 a § 8 odst. 1 písm. b) bod 1 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb.“.
+
+8\. V § 8 odst. 5 se slova „podle ustanovení § 5 vyhlášky č. 376/2000 Sb., kterou se stanoví požadavky na pitnou vodu a rozsah a četnost její kontroly“ nahrazují slovy „podle zvláštního právního předpisu<sup>5a</sup>)“.
+
+Poznámka pod čarou č. 5a zní:
+
+> „<sup>5a</sup>) § 7 odst. 2 vyhlášky č. 252/2004 Sb., kterou se stanoví hygienické požadavky na pitnou a teplou vodu a četnost a rozsah kontroly pitné vody, ve znění vyhlášky č. 187/2005 Sb.“.
+
+9\. V § 8 se odstavec 6 zrušuje.
+
+10\. Poznámka pod čarou č. 8 zní:
+
+> „<sup>8</sup>) § 59 zákona č. 254/2001 Sb. 
+>  § 4 odst. 3 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.“.
+
+11\. V § 10 odst. 2 písm. c) se slova „s popisem způsobu užívání všech prostorů a místností“ zrušují.
+
+12\. § 11 včetně nadpisu zní:
+
+> **„§ 11 – Provozní deník**
+
+> (1) Do provozního deníku se zaznamenávají každodenní provozní záznamy o vodovodu nebo kanalizaci nebo o jejich části, údaje o činnosti obsluhy, včetně událostí, které mohou mít vliv na provozování vodovodu nebo kanalizace. Do provozního deníku se zaznamenávají rovněž záznamy osob provádějících kontrolu provozu a odběry vzorků vody a odpadů. V provozu, kde není nutná denní obsluha, se záznamy provádí při každé kontrole nebo provozním zásahu.
+
+> (2) Jeli to účelné, lze provozní deník členit na dílčí provozní deníky.
+
+> (3) Provozní záznamy podle odstavce 1 mohou být nahrazeny průběžnými počítačovými výstupy automatizované soustavy řízení.“.
+
+13\. Nadpis části čtvrté zní:
+
+> **„NÁLEŽITOSTI ŽÁDOSTI O POVOLENÍ K PROVOZOVÁNÍ VODOVODU NEBO KANALIZACE A PŘÍBUZNÝ OBOR K OBORU VODOVODY A KANALIZACE**
+
+> (K § 6 odst. 11 zákona)“.
+
+14\. V § 12 odst. 2 se za písmeno c) doplňují písmena d) a e), která znějí:
+
+> „d) úředně ověřená kopie dokladu o vzdělání osoby podle § 6 odst. 2 písm. c) zákona a doklady umožňující posouzení příbuznosti oboru podle § 12a,
+
+> e) písemný souhlas fyzické osoby s jejím uvedením v žádosti jako odpovědného zástupce provozovatele, včetně ověřeného podpisu této osoby, nejedná-li se o fyzickou osobu podávající žádost.“.
+
+15\. V § 12 se odstavec 3 zrušuje.
+
+16\. Za § 12 se vkládá nový § 12a, který včetně nadpisu zní:
+
+> **„§ 12a – Příbuzný obor k oboru vodovody a kanalizace**
+
+> (K § 6 odst. 11 zákona)
+
+> (1) Za příbuzný obor k oboru vzdělávání obsahově zaměřenému na vodovody a kanalizace se považuje takový obor středního vzdělání s maturitní zkouškou, který je výukou obsahově zaměřen alespoň na 4 z těchto činností:
+
+> a) znalost právních předpisů v oboru vodovody a kanalizace,
+
+> b) znalost procesů souvisejících s jímáním vody, úpravou vody na vodu pitnou včetně hygienického zabezpečení a dopravy vody,
+
+> c) znalost procesů souvisejících s čištěním odpadních vod, kalovým hospodářstvím a sběrem odpadních vod stokovými systémy,
+
+> d) znalost právních předpisů souvisejících s tvorbou ceny vodného a stočného,
+
+> e) schopnost vyhodnocení údajů rozboru vody, vymezení možných závad v úpravárenském procesu,
+
+> f) schopnost analýzy nedostatků rozvodného systému a ztrát vody v trubní síti,
+
+> g) schopnost vyhodnocení údajů rozboru odpadních vod, vymezení základních nedostatků stokového systému a čistírny odpadních vod,
+
+> h) schopnost provádět analýzy v oblasti hospodárnosti provozu a tvorby ceny vodného a stočného,
+
+> i) schopnost posouzení záměrů rozvoje z hlediska ekonomiky a dopadů na provozní náklady v oboru vodovodů a kanalizací.
+
+> (2) Za příbuzný obor k oboru vzdělávání obsahově zaměřenému na vodovody a kanalizace se považuje rovněž dosažení středního vzdělání s maturitní zkouškou, doplněné vzděláním akreditovaným Ministerstvem školství, mládeže a tělovýchovy, zakončeným složením odborných zkoušek, obsahově zaměřených alespoň na 4 z činností podle odstavce 1.“.
+
+17\. Nadpis části páté zní:
+
+> **„NÁLEŽITOSTI SMLOUVY O DODÁVCE VODY A NÁLEŽITOSTI SMLOUVY O ODVÁDĚNÍ ODPADNÍCH VOD A OBSAH PLÁNU FINANCOVÁNÍ OBNOVY VODOVODŮ NEBO KANALIZACÍ A PRAVIDLA PRO JEHO ZPRACOVÁNÍ**
+
+> (K § 8 odst. 11 a 15 zákona)“.
+
+18\. Za § 13 se vkládá nový § 13a, který včetně nadpisu zní:
+
+> **„§ 13a – Obsah plánu financování obnovy vodovodů nebo kanalizací a pravidla pro jeho zpracování**
+
+> (1) Plán financování obnovy vodovodů nebo kanalizací se zpracovává v rozsahu údajů a podle pravidel stanovených v příloze č. 18.
+
+> (2) Plán financování obnovy vodovodů nebo kanalizací se aktualizuje nejpozději po 5 letech od jeho zpracování. Každá provedená aktualizace je nedílnou součástí původního plánu financování obnovy vodovodů nebo kanalizací.“.
+
+19\. V § 15 se doplňuje odstavec 13, který zní:
+
+> „(13) Stavba pro úpravu vody se navrhuje podle technických požadavků vycházejících z ukazatelů jakosti surové vody a souladu její kategorie s typem úpravy vody podle přílohy č. 13. Při navrhování a výstavbě stavby pro úpravu vody se postupuje podle technických norem upravujících oblast vodárenství.“.
+
+20\. V § 19 odstavec 1 zní:
+
+> „(1) Odvádění odpadních vod<sup>18</sup>) se navrhuje podle výpočtu množství odpadních vod, výpočtu množství odváděných srážkových vod a systému jednotné nebo oddílné kanalizace.“.
+
+21\. V § 19 se doplňují odstavce 10 a 11, které znějí:
+
+> „(10) V případě, že se na jednotnou kanalizaci nebo na oddílnou kanalizaci k odvádění srážkových vod napojuje nová část kanalizace odvádějící srážkové vody z nové zástavby na zastavitelných plochách, provede se v projektové dokumentaci nový výpočet, ověřující schopnost kanalizace odvést zvýšené množství těchto vod. Tento výpočet je podkladem pro vlastníka kanalizace, popřípadě provozovatele, pokud je k tomu vlastníkem zmocněn, k umožnění nebo odmítnutí uvedeného napojení.
+
+> (11) Vzdálenost revizních a vstupních šachet v přímé trati neprůchodných stok je nejvýše 50 m, u průchodných stok nejvýše 200 m. Revizní, vstupní a lomové šachty a spadiště nelze umístit mimo trasu kanalizační stoky.“.
+
+22\. V § 22 odst. 2 se slovo „povrchové“ nahrazuje slovem „surové“.
+
+23\. V § 22 se doplňují odstavce 6 a 7, které znějí:
+
+> „(6) Kategorie surové vody je každoročně upřesňována na základě výsledků analýz surové vody podle plánu kontrol jakosti vod.
+
+> (7) Kategorizace surové vody se neprovádí u vody bez technologie úpravy vody a staveb k jímání vody, s případným zdravotním zabezpečením vody.“.
+
+24\. V nadpisu části dvanácté se slova „(K § 17 odst. 8 zákona)“ nahrazují slovy „(K § 17 odst. 9 zákona)“.
+
+25\. V § 28 se odstavec 2 zrušuje.
+
+Dosavadní odstavce 3 a 4 se označují jako odstavce 2 a 3.
+
+26\. V § 28 odst. 2 se slova „odstavce 2“ nahrazují slovy „§ 17 odst. 4 písm. a) zákona“.
+
+27\. V § 28 odst. 3 se slova „odstavce 2“ nahrazují slovy „§ 17 odst. 4 písm. a) zákona“.
+
+28\. V nadpisu části třinácté se slova „(K § 19 odst. 9 zákona)“ nahrazují slovy „(K § 19 odst. 10 zákona)“.
+
+29\. Nadpis části čtrnácté zní:
+
+> **„ZPŮSOB VÝPOČTU PEVNÉ SLOŽKY VODNÉHO A STOČNÉHO PŘI PLACENÍ VE DVOUSLOŽKOVÉ FORMĚ A POSTUP A ROZSAH VYÚČTOVÁNÍ VŠECH POLOŽEK VÝPOČTU CENY PODLE CENOVÝCH PŘEDPISŮ PRO VODNÉ A STOČNÉ**
+
+> (K § 20 odst. 3 a § 36 odst. 7 zákona)“.
+
+30\. Za § 35 se vkládá nový § 35a, který zní:
+
+> **„§ 35a**
+
+> Vyúčtování podle § 36 odst. 5 zákona se provádí postupem a v rozsahu údajů stanovených v příloze č. 19.“.
+
+31\. V § 36 odst. 2 se za slovo „jméno,“ vkládají slova „popřípadě jména,“ a na konci textu písmene a) doplňují slova „nebo místě hlášeného pobytu na území České republiky, popřípadě adresu bydliště v zahraničí“.
+
+32\. V § 36 odst. 2 se písmeno d) zrušuje.
+
+Dosavadní písmena e) a f) se označují jako písmena d) a e).
+
+33\. V příloze č. 9 část 1 zní:
+
+> **„ČÁST 1 – MÍSTA ODBĚRŮ VZORKŮ V KONTROLNÍCH PROFILECH – VODA S TECHNOLOGIÍ ÚPRAVY (ÚPRAVNA VODY):**
+
+> a) přítok surové vody používané k úpravě na vodu pitnou,
+
+> b) voda v průběhu úpravy technologickou linkou (provozní rozbory),
+
+> c) výstup vyrobené vody z úpravny vody,
+
+> d) vodojemy.
+
+> **VODA BEZ TECHNOLOGIE ÚPRAVY (POUZE DEZINFIKOVANÁ):**
+
+> a) přítok surové vody před zdravotním zabezpečením (tj. dezinfekcí různými způsoby),
+
+> b) výstup vyrobené vody zdravotně zabezpečené,
+
+> c) vodojemy.
+
+> V případech neměnné jakosti vody a krátkého přiváděcího řadu do spotřebiště je možné sledovat jakost vody pouze v odběrném profilu podle bodů b) a c).“.
+
+34\. V příloze č. 9 tabulky č. 2 a 3 znějí:
+
+> **„Tabulka č. 2 – ÚPLNÝ ROZBOR VYROBENÉ PITNÉ VODY (VÝSTUP ZE STAVBY PRO ÚPRAVU VODY NEBO ZDROJE BEZ TECHNOLOGIE ÚPRAVY VODY)**
+
+> A. Mikrobiologické a biologické ukazatele
+
+> | Pořadové číslo ukazatele | Ukazatel | Symbol | Jednotka |
+> |---|---|---|---|
+> | 1. | Clostridium perfringens | | KTJ/100 ml |
+> | 2. | Enterokoky | EK | KTJ/100 ml |
+> | 3. | Escherichia coli | EC | KTJ/100 ml |
+> | 4. | Koliformní bakterie | KB | KTJ/100 ml |
+> | 5. | Mikroskopický obraz: abioseston | ABS | % |
+> | 6. | Mikroskopický obraz; počet organismů | PO | Jedinci/ml |
+> | 7. | Mikroskopický obraz: živé organismy | ŽO | Jedinci/ml |
+> | 8. | Počty kolonií při 22°C | PB | KTJ/ml |
+> | 9. | Počty kolonií při 36°C | MB | KTJ/ml |
+> | 10. | | | |
+
+> B. Fyzikální, chemické a organoleptické ukazatele
+
+> | 11. | 1,2-dichlorethan | | μg/l |
+> |---|---|---|---|
+> | 12. | Akrylamid | | μg/l |
+> | 13. | Amonné ionty | NH<sub>4</sub><sup>+</sup> | mg/l |
+> | 14. | Antimon | Sb | μg/l |
+> | 15. | Arsen | As | μg/l |
+> | 16. | Barva | | mg/l Pt |
+> | 17. | Benzen | | μg/l |
+> | 18. | Benzo[a]pyren | BaP | μg/l |
+> | 19. | Berylium | Be | μg/l |
+> | 20. | Bor | B | mg/l |
+> | 21. | Bromičnany | BrO<sub>3</sub><sup>-</sup> | μg/l |
+> | 22. | Celkový organický uhlík | TOC | mg/l |
+> | 23. | Dusičnany | NO<sub>3</sub><sup>-</sup> | mg/l |
+> | 24. | Dusitany | NO<sub>2</sub><sup>-</sup> | mg/l |
+> | 25. | | | |
+> | 26. | Fluoridy | F<sup>-</sup> | mg/l |
+> | 27. | Hliník | Al | mg/l |
+> | 28. | Hořčík | Mg | mg/l |
+> | 29. | Chemická spotřeba kyslíku (manganistanem) | CHSK<sub>Mn</sub> | mg/l |
+> | 30. | Chlor volný | Cl<sub>2</sub> | mg/l |
+> | 31. | Chlorethen (vinylchlorid) | | μg/l |
+> | 32. | Chloridy | Cl<sup>-</sup> | mg/l |
+> | 33. | Chloritany | ClO<sub>2</sub><sup>-</sup> | μg/l |
+> | 34. | Chrom | Cr | μg/l |
+> | 35. | | | |
+> | 36. | Kadmium | Cd | μg/l |
+> | 37. | Konduktivita | K | mS/m |
+> | 38. | Kyanidy celkové | CN<sup>-</sup> | mg/l |
+> | 39. | Mangan | Mn | mg/l |
+> | 40. | Měď | Cu | μg/l |
+> | 41. | Microcystin-LR | MC-LR | μg/l |
+> | 42. | Nikl | Ni | |
+> | 43. | Olovo | Pb | μg/l |
+> | 44. | Ozon | O<sub>3</sub> | μg/l |
+> | 45. | Pach | | stupeň |
+> | 46. | Pesticidní látky | PL | μg/l |
+> | 47. | Pesticidní látky celkem | PLC | μg/l |
+> | 48. | pH | pH | |
+> | 49. | Polycyklické aromatické uhlovodíky | PAU | μg/l |
+> | 50. | Rtuť | Hg | μg/l |
+> | 51. | Selen | Se | μg/l |
+> | 52. | Sírany | SO<sub>4</sub><sup>2-</sup> | mg/l |
+> | 53. | Sodík | Na | mg/l |
+> | 54. | Stříbro | Ag | μg/l |
+> | 55. | Tetrachlorethen | PCE | μg/l |
+> | 56. | Trihalomethany | THM | μg/l |
+> | 57. | Trichlorethen | TCE | μg/l |
+> | 58. | Trichlormethan (chloroform) | | μg/l |
+> | 59. | Vápník | Ca | mg/l |
+> | 60. | Vápník a hořčík | Ca + Mg | mmol/l |
+> | 61. | Zákal | Z | ZF(t,n) |
+> | 62. | Železo | Fe | mg/l |
+
+> C. Další ukazatele
+
+> | 64. | kyselinová neutralizační kapacita do pH 4,5 | KNK<sub>4,5</sub> | mmol/l |
+> |---|---|---|---|
+> | 65. | Zásadová neutralizační kapacita do pH 8,3 | ZNK<sub>8,3</sub> | mmol/l |
+> | 66. | Huminové látky | HL | mg/l |
+
+> Poznámky k tabulce č. 2:
+
+> | Pořadové číslo ukazatele: | |
+> |---|---|
+> | 1, 6, 7, 11, 17, 18, 31, 41, 55, 56, 57, 58 | Stanoví se u vod upravovaných z povrchových zdrojů a vod podzemních, u nichž je podezření na kontaminaci vodou povrchovou |
+> | 12 | Stanoví se výpočtem. Stanovení se provádí pouze v případě, pokud se dávkuje polymer akrylamidu v procesu úpravy vody. |
+> | 19 | Stanoví se pouze při výskytu v přirozených vodách. Stanovuje se tehdy, když nálezy Be přesahují 25% limitní hodnoty. |
+> | 22 | Není nutno stanovovat, pokud je stanoven ukazatel 29. Jedná se o alternativní stanovení k tomuto ukazateli. Nemusí se stanovovat u zdrojů dávajících méně než 10000 m<sup>3</sup> vody denně. |
+> | 30 | Stanoví se v případě dezinfekce vody prostředky obsahujícími chlor. |
+> | 31 | Stanoví se pouze výpočtem pro zbytkovou koncentraci monomeru v případě možnosti jeho výskytu. |
+> | 33, 44 | Stanoví se pouze v případě dezinfekce oxidem chloričitým nebo ozónem. |
+> | 41 | Stanoví se u pitné vody upravené z povrchové vody. Od stanovení lze upustit tam, kde je uveden v provozním řádu vhodný postup zaručující, že možný výskyt cyanotoxinů v pitné vodě bude podchycen a následně budou činěna včasná a účinná opatření, která zabrání ohrožení veřejného zdraví a orgán ochrany veřejného zdraví schválil omezení nebo zcela odstoupení od stanovení tohoto ukazatele. Postupuje se dle rozhodnutí místně příslušného orgánu ochrany veřejného zdraví. |
+> | 46, 47 | Pesticidy a dále součet koncentrací pesticidů, u kterých je pravděpodobné, že se budou vyskytovat v surové vodě, a to podle používaných pesticidů v daném území. Stanoví se pouze v případech odůvodněného podezření kontaminace zdroje surové vody pesticidní látkami. |
+> | 49 | Suma specifických sloučenin: <br> benzo(b)fluoranten, benzo(k)fluoranten, <br> benzo(ghi)perylen, indeno (1,2,3-cd) pyren. |
+> | 53 | Stanoví se v případě, že výstup z úpravny vody slouží jako jedno odběrné místo rozvodné vodovodní sítě. |
+> | 54 | Stanoví se u vod dezinfikovaných solemi stříbra a vod upravovaných zařízením obsahujícím stříbro. |
+> | 56 | Součet zjištěných koncentrací chloroformu, bromoformu, dibromchlormetanu a bromdichlormetanu. |
+> | 66 | Stanoví se pouze v případě výskytu v surové vodě. |
+
+> **Tabulka č. 3 – MONITOROVACÍ ROZBOR SUROVÉ A VYROBENÉ VODY**
+
+> Rozsah pro řízení jakosti a k účelům monitoringu
+
+> <table><tbody><tr><th colspan="4"></th></tr><tr><th>Pořadové číslo ukazatele monitor. rozboru</th><th>Pořadové číslo z úplného rozboru (tab. č. 2)</th><th>Ukazatel</th><th>Jednotka</th></tr><tr><td>1.</td><td>3.</td><td>Escherichia coli</td><td>KTJ/100 ml</td></tr><tr><td>2.</td><td>4.</td><td>Koliformní bakterie</td><td>KTJ/100 ml</td></tr><tr><td>3.</td><td>2.</td><td>Enterokoky</td><td>KTJ/100 ml</td></tr><tr><td>4.</td><td>8.</td><td>Počty kolonií při 22°C</td><td>KTJ/ml</td></tr><tr><td>5.</td><td>9.</td><td>Počty kolonií při 36°C</td><td>KTJ/ml</td></tr><tr><td>6.</td><td>7.</td><td>Mikroskopický obraz (živé organizmy)<sup>1</sup><sup>)</sup></td><td>Jedinci/ml</td></tr><tr><td>7.</td><td>6.</td><td>Mikroskopický obraz (počet organizmů)<sup>1</sup><sup>)</sup></td><td>Jedinci/ml</td></tr><tr><td>8.</td><td>5.</td><td>Abioseston<sup>1</sup><sup>)</sup></td><td>%</td></tr><tr><td>9.</td><td>39.</td><td>Mangan</td><td>mg/l</td></tr><tr><td>10.</td><td>23.</td><td>Dusičnany</td><td>mg/l</td></tr><tr><td>11.</td><td>24.</td><td>Dusitany</td><td>mg/l</td></tr><tr><td>12.</td><td>30.</td><td>Chlór volný<sup>2</sup><sup>)</sup></td><td>mg/l</td></tr><tr><td>13.</td><td>27.</td><td>Hliník</td><td>mg/l</td></tr><tr><td>14.</td><td>13.</td><td>Amonné ionty</td><td>mg/l</td></tr><tr><td>15.</td><td>32.</td><td>Chloridy</td><td>mg/l</td></tr><tr><td>16.</td><td>37.</td><td>Konduktivita</td><td>mS/m</td></tr><tr><td>17.</td><td>48.</td><td>pH</td><td></td></tr><tr><td>18.</td><td>52.</td><td>Sírany</td><td>mg/l</td></tr><tr><td>19.</td><td>16.</td><td>Barva</td><td>mg/l Pt</td></tr><tr><td>20.</td><td>45.</td><td>Pach</td><td>Stupeň</td></tr><tr><td>21.</td><td>61.</td><td>Zákal</td><td>ZF<sub>n</sub> nebo ZF<sub>t</sub></td></tr><tr><td>22.</td><td>63.</td><td>Železo</td><td>mg/l</td></tr><tr><td>23.</td><td>29.</td><td>Chemická spotřeba kyslíku (manganistanem)</td><td>mg/l</td></tr><tr><td>24.</td><td>60.</td><td>Vápník</td><td>mg/l</td></tr><tr><td>25.</td><td>28.</td><td>Hořčík</td><td>mg/l</td></tr><tr><td>26.</td><td>61.</td><td>Vápník a hořčík</td><td>mmol/l</td></tr><tr><td>27.</td><td>64.</td><td>Kyselinová neutralizační kapacita do pH 4,5</td><td>mmol/l</td></tr><tr><td>28.</td><td>65.</td><td>Zásadová neutralizační kapacita do pH 8,3</td><td>mmol/l</td></tr><tr><td>29.</td><td>66.</td><td>Huminové látky<sup>1</sup><sup>)</sup></td><td>mg/l</td></tr><tr><td>30.</td><td>-</td><td>Absorbance A<sub>1</sub><sup>254 3</sup><sup>)</sup></td><td></td></tr><tr><td>31.</td><td>-</td><td>Nerozpuštěné látky<sup>1</sup><sup>)</sup></td><td>mg/l</td></tr><tr><td>32.</td><td>-</td><td>Fosforečnany<sup>1</sup><sup>)</sup></td><td>mg/l</td></tr><tr><td>33.</td><td>-</td><td>BSK<sub>5</sub><sup>1</sup><sup>)</sup></td><td>mg/l</td></tr><tr><td>34.</td><td>-</td><td>Nasycení kyslíkem<sup>1</sup><sup>)</sup></td><td>%</td></tr></tbody></table>
+
+> Poznámky k ukazatelům tabulky č. 3:
+
+> <sup>1</sup><sup>)</sup> Stanoví se pouze u surové vody. U vyrobené vody pouze podle potřeby v závislosti na jakosti surové vody.
+
+> <sup>2</sup><sup>)</sup> Chlór volný nebo jiné použité dezinfekční činidlo- stanoví se pouze u vody vyrobené.
+
+> <sup>3</sup><sup>)</sup> Stanoví se jako indikační hodnota pro rozhodnutí o analýze dalších ukazatelů, a to od dosažení hodnoty A<sub>1</sub><sup>254</sup> = 0,08.“.
+
+35\. V příloze č. 9 se v textu pod tabulkou č. 6 body 2 a 3 zrušují.
+
+36\. V příloze č. 9 se v textu pod tabulkou č. 8 doplňuje bod 4, který zní:
+
+> „4. Kontrolu obsahu dezinfekčního činidla určí individuálně provozovatel podle použitého způsobu dezinfekce a počtu zásobených obyvatel.“.
+
+37\. V příloze č. 9 části 4 bodě 3 první odrážka včetně poznámky pod čarou č. 30 zní:
+
+> „– překročení hodnot jednotlivých ukazatelů podle jednotlivých typů limitů pro pitnou vodu<sup>30</sup>) (mezní hodnota, nejvyšší mezní hodnota, pro vodu vyrobenou se neprovádí hodnocení v ukazateli volný chlor na výstupu z úpravny vody),
+
+> <sup>30</sup>) § 2 písm. b) a c) vyhlášky č. 252/2004 Sb.“.
+
+38\. V příloze č. 10 se za tabulku č. 2 doplňuje text, který zní:
+
+> „Místa odběrů vzorků:
+
+> \- přítok odpadní vody do čistírny odpadních vod před hrubým předčištěním,
+
+> \- odtok odpadní vody z čistírny odpadních vod.
+
+> Typ odběru vzorku:
+
+> \- minimálně „vzorek a“ v čase, který nejlépe charakterizuje provoz.“.
+
+39\. V příloze č. 10 části 4 bodě 1 písmena b) a c) znějí:
+
+> „b) pH, sušina, organické látky (ztráta žíháním), celkový dusík, amoniakální dusík, dusičnanový dusík, fosfor, draslík, vápník, hořčík,
+
+> c) polychlorované bifenyly (suma šesti kongenerů – 28 + 52 + 101 + 138 + 153 + 180), adsorbovatelné organické halogeny (AOX),“.
+
+40\. Příloha č. 11 zní:
+
+> **„Příloha č. 11 k vyhlášce č. 428/2001 Sb.**
+
+> **ŽÁDOST O POVOLENÍ K PROVOZOVÁNÍ VODOVODU NEBO KANALIZACE PODLE § 6 ZÁKONA**
+
+> **![sbcr2006c166z0515u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885415/NAHLED/ZOBRAZ/sbcr2006c166z0515u001)“.**
+
+41\. V příloze č. 12 části I se doplňuje bod 7a., který zní:
+
+> „7a. byty a rekreační chaty – stočné
+
+> na 1 obyvatele bytu nebo rekreační chaty může vlastník kanalizace, popřípadě provozovatel, pokud je k tomu vlastníkem zmocněn, při stanovení množství odpadní vody pro stočné v případech, kdy se cena pro stočné kalkuluje společně pro více obcí, z nichž některé nemají vodovod nebo část obyvatel v obci nemá vodovod nebo využívá i jiný zdroj vody, snížit směrné číslo roční spotřeby vody u položek č. 1 až 6.“.
+
+42\. V Příloze č. 13 tabulce č. 1a řádek č. 9 zní:
+
+> „
+>
+> | 9. | Adsorbovatelné org. vázané halogeny (AOX) | mg/l | | 0,01 | | 0,02 | 0,03 | 0,03 |
+> |---|---|---|---|---|---|---|---|---|
+>
+> “.
+
+43\. V příloze č. 14 tabulce č. 1 řádek č. 9 zní:
+
+> „
+>
+> | 9. | Adsorbovatelné org. vázané halogeny (AOX) | mg/l | 0,01 | 20% | 20% |
+> |---|---|---|---|---|---|
+>
+> “.
+
+44\. Za přílohou č. 17 se doplňují přílohy č. 18 a 19, které znějí:
+
+> **„Příloha č. 18 k vyhlášce č. 428/2001 Sb.**
+
+> **PLÁN FINANCOVÁNÍ OBNOVY VODOVODŮ NEBO KANALIZACÍ**
+
+> **![sbcr2006c166z0515u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885417/NAHLED/ZOBRAZ/sbcr2006c166z0515u002)**
+
+> **Příloha č. 19 k vyhlášce č. 428/2001 Sb.**
+
+> **CELKOVÉ VYÚČTOVÁNÍ VŠECH POLOŽEK VÝPOČTU CENY PODLE CENOVÝCH PŘEDPISŮ PRO VODNÉ A STOČNÉ**
+
+> **![sbcr2006c166z0515u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/885419/NAHLED/ZOBRAZ/sbcr2006c166z0515u003)“.**
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2007.
+
+Ministryně:
+
+MVDr. Vicenová v. r.

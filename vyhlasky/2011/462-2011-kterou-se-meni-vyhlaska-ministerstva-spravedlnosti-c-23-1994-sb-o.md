@@ -1,0 +1,70 @@
+---
+title: "Vyhláška č. 462/2011 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění pozdějších předpisů"
+identifier: "462/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/462/2012-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2011-12-22
+effective: 2012-01-01
+last_amended: 2012-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/462"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 462/2011 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění pozdějších předpisů
+
+462
+
+VYHLÁŠKA
+
+ze dne 22. prosince 2011,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění pozdějších předpisů
+
+Ministerstvo spravedlnosti stanoví podle § 40 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění zákona č. 14/2002 Sb., zákona č. 192/2003 Sb. a zákona č. 79/2006 Sb.:
+
+## Čl. I – Změna jednacího řádu státního zastupitelství
+
+Vyhláška č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 265/1997 Sb., vyhlášky č. 218/1998 Sb., vyhlášky č. 311/2000 Sb., vyhlášky č. 183/2001 Sb., vyhlášky č. 468/2001 Sb., vyhlášky č. 88/2005 Sb., vyhlášky č. 252/2007 Sb. a vyhlášky č. 7/2010 Sb., se mění takto:
+
+1\. § 10 včetně nadpisu a poznámek pod čarou č. 2 až 2e) zní:
+
+> **„§ 10 – Působnost státních zastupitelství v trestním řízení o trestných činech příslušníků Generální inspekce bezpečnostních sborů a jejích zaměstnanců, příslušníků Vojenské policie a příslušníků zpravodajských služeb**
+
+> (1) K výkonu dozoru nad zachováváním zákonnosti v přípravném řízení konaném Generální inspekcí bezpečnostních sborů<sup>2</sup>) a k vyřizování věcí, v nichž zkrácené přípravné řízení konala Generální inspekce bezpečnostních sborů<sup>2a</sup>), je příslušný státní zástupce krajského státního zastupitelství i ve věcech, v nichž by byl jinak příslušný státní zástupce nižšího státního zastupitelství v obvodu jeho působnosti, není-li dále stanoveno jinak. Rovněž je příslušný k zastupování obžaloby a návrhu na potrestání v řízení před soudem v těchto věcech, ledaže věc předal státnímu zástupci, který by jinak byl příslušný<sup>2b</sup>), a k rozhodování ve sporu o příslušnost ke konání úkonů před zahájením trestního stíhání mezi Generální inspekcí bezpečnostních sborů a jiným policejním orgánem<sup>2c</sup>).
+
+> (2) K vyšetřování trestných činů<sup>2d</sup>) spáchaných příslušníky Generální inspekce bezpečnostních sborů, příslušníky Bezpečnostní informační služby, příslušníky Úřadu pro zahraniční styky a informace, příslušníky Vojenského zpravodajství, příslušníky Vojenské policie a zaměstnanci České republiky zařazenými k výkonu práce v Generální inspekci bezpečnostních sborů a ke zkrácenému přípravnému řízení o těchto trestných činech<sup>2e</sup>) je příslušný státní zástupce Obvodního státního zastupitelství pro Prahu 1. Rovněž je příslušný k zastupování návrhu na potrestání, který v těchto věcech podal, i u jiného soudu, než u kterého působí, pokud věc nepředal státnímu zástupci, který by jinak byl příslušný.
+
+> (3) Státní zástupce Městského státního zastupitelství v Praze je ve věcech uvedených v odstavci 2 příslušný k zastupování obžaloby v řízení i před jiným soudem, než u kterého působí, pokud věc nepředal státnímu zástupci, který by jinak byl příslušný.
+
+> <sup>2</sup>) § 12 odst. 2 písm. b), i), § 161 odst. 3, odst. 5 písm. a) trestního řádu.
+
+> <sup>2a</sup>) § 179a odst. 2 trestního řádu.
+
+> <sup>2b</sup>) § 179 odst. 1 trestního řádu.
+
+> <sup>2c</sup>) § 158 odst. 12 trestního řádu, ve znění zákona č. 341/2011 Sb.
+
+> <sup>2d</sup>) § 161 odst. 4, odst. 5 písm. b) trestního řádu, ve znění zákona č. 341/2011 Sb.
+
+> <sup>2e</sup>) § 179a odst. 3 trestního řádu.“.
+
+2\. § 13 zní:
+
+> **„§ 13**
+
+> Ve věcech, v nichž přísluší konat vyšetřování nebo zkrácené přípravné řízení státnímu zástupci (§ 10 odst. 2), vykonává dozor nad zachováváním zákonnosti při postupu před zahájením trestního stíhání státní zástupce, který by byl jinak příslušný konat ve věci vyšetřování nebo zkrácené přípravné řízení, pokud na základě zjištěných skutečností lze tuto příslušnost státního zástupce určit. Vyjde-li najevo skutečnost, že jde o takový trestný čin, až v průběhu prověřování skutečností důvodně nasvědčujících tomu, že byl spáchán trestný čin, státní zástupce, který v této době vykonává dozor, věc neprodleně předá takovému státnímu zástupci. Ustanovení § 12 odst. 3 se užije obdobně.“.
+
+## Čl. II – Přechodné ustanovení
+
+K rozhodnutí o tom, který policejní orgán je příslušný pokračovat v trestním řízení vedeném ke dni 1. ledna 2012 útvarem Policie České republiky o trestném činu celníka, příslušníka Vězeňské služby České republiky, anebo zaměstnance České republiky zařazeného k výkonu práce v Celní správě České republiky, ve Vězeňské službě České republiky nebo v Policii České republiky, je příslušný státní zástupce krajského státního zastupitelství, který by byl jinak příslušný vykonávat dozor nad trestním řízením, pokud by řízení vedla Generální inspekce bezpečnostních sborů.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2012.
+
+Ministr:
+
+JUDr. Pospíšil v. r.

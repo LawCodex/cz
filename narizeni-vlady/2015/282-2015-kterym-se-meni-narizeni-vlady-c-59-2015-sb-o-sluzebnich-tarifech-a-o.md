@@ -1,0 +1,83 @@
+---
+title: "Nařízení vlády č. 282/2015 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání"
+identifier: "282/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/282/2015-11-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2015-10-26
+effective: 2015-11-01
+last_amended: 2015-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/282"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 282/2015 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání
+
+282
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 26. října 2015,
+
+kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání
+
+Vláda nařizuje podle § 68 odst. 2 a 4 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 332/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, se mění takto:
+
+1\. V § 2 odstavec 1 zní:
+
+> „(1) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 2 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | 9 900 |
+> | Svobodník | 20 290 |
+> | Desátník | 21 440 |
+> | Četař | 22 710 |
+> | Rotný | 26 490 |
+> | Rotmistr | 28 370 |
+> | Nadrotmistr | 30 270 |
+> | Praporčík | 32 370 |
+> | Nadpraporčík | 34 660 |
+> | Štábní praporčík | 45 190 |
+> | Poručík | 30 470 |
+> | Nadporučík | 34 670 |
+> | Kapitán | 39 930 |
+> | Major | 45 180 |
+> | Podplukovník | 50 430 |
+> | Plukovník | 60 940 |
+> | Brigádní generál | 71 450 |
+> | Generálmajor | 81 950 |
+> | Generálporučík | 92 460 |
+> | Armádní generál | 102 980“. |
+
+2\. V § 2 odstavec 2 zní:
+
+> „(2) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 4 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | 9 900 |
+> | Svobodník | 10 300 |
+> | Desátník | 10 700 |
+> | Četař | 11 100 |
+> | Rotný | 11 500 |
+> | Rotmistr | 11 900 |
+> | Nadrotmistr | 12 300“. |
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. listopadu 2015.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr obrany:
+
+MgA. Stropnický v. r.

@@ -1,0 +1,53 @@
+---
+title: "Vyhláška č. 2/2007 Sb., o ukončení platnosti bankovek po 50 Kč vzoru 1993, bankovek po 100 Kč vzoru 1993, bankovek po 200 Kč vzoru 1993 a bankovek po 500 Kč vzoru 1993"
+identifier: "2/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/2/2011-03-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-12-14
+effective: 2007-01-02
+last_amended: 2011-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/2"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 2/2007 Sb., o ukončení platnosti bankovek po 50 Kč vzoru 1993, bankovek po 100 Kč vzoru 1993, bankovek po 200 Kč vzoru 1993 a bankovek po 500 Kč vzoru 1993 ve znění vyhlášky č. 21/2011 Sb."
+---
+
+# Vyhláška č. 2/2007 Sb., o ukončení platnosti bankovek po 50 Kč vzoru 1993, bankovek po 100 Kč vzoru 1993, bankovek po 200 Kč vzoru 1993 a bankovek po 500 Kč vzoru 1993
+
+2
+
+VYHLÁŠKA
+
+ze dne 14. prosince 2006
+
+o ukončení platnosti bankovek po 50 Kč vzoru 1993, bankovek po 100 Kč vzoru 1993, bankovek po 200 Kč vzoru 1993 a bankovek po 500 Kč vzoru 1993
+
+Česká národní banka stanoví podle § 22 písm. d) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 31. ledna 2007 se ukončuje platnost bankovek po 50 Kč vzoru 1993<sup>1</sup>), bankovek po 100 Kč vzoru 1993<sup>2</sup>), bankovek po 200 Kč vzoru 1993<sup>3</sup>) a bankovek po 500 Kč vzoru 1993<sup>4</sup>).
+
+(2) Bankovky uvedené v odstavci 1 vyměňují v době od 1. února 2007 do 31. ledna 2010 všechny banky<sup>5</sup>) a od 1. února 2010 pouze Česká národní banka. Výměna bankovek po 50 Kč vzoru 1993 končí ke dni 31. března 2017.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+---
+
+<sup>1</sup>) Vyhláška č. 226/1993 Sb., o vydání bankovek po 50 Kč.
+
+<sup>2</sup>) Vyhláška č. 158/1993 Sb., o vydání bankovek po 100 Kč, ukončení platnosti bankovek po 100 Kčs opatřených kolkem a jejich výměně.
+
+<sup>3</sup>) Vyhláška č. 63/1993 Sb., o vydání bankovek po 200 Kč.
+
+<sup>4</sup>) Vyhláška č. 159/1993 Sb., o vydání bankovek po 500 Kč, ukončení platnosti bankovek po 500 Kčs opatřených kolkem a jejich výměně.
+
+<sup>5</sup>) Zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.

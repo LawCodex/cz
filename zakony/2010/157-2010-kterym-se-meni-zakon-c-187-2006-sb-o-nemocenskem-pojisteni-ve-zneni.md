@@ -1,0 +1,50 @@
+---
+title: "Zákon č. 157/2010 Sb., kterým se mění zákon č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů"
+identifier: "157/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/157/2010-08-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2010-04-22
+effective: 2010-08-01
+last_amended: 2010-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/157"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 157/2010 Sb., kterým se mění zákon č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů
+
+157
+
+ZÁKON
+
+ze dne 22. dubna 2010,
+
+kterým se mění zákon č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 187/2006 Sb., o nemocenském pojištění, ve znění zákona č. 585/2006 Sb., zákona č. 181/2007 Sb., zákona č. 261/2007 Sb., zákona č. 239/2008 Sb., zákona č. 305/2008 Sb., zákona č. 306/2008 Sb., zákona č. 479/2008 Sb., zákona č. 2/2009 Sb., zákona č. 41/2009 Sb., zákona č. 158/2009 Sb., zákona č. 227/2009 Sb., zákona č. 302/2009 Sb., zákona č. 303/2009 Sb. a zákona č. 362/2009 Sb., se mění takto:
+
+1\. V § 84 odst. 2 se na konci textu písmene n) doplňují slova „a ošetřujícím lékařům bezplatně obálky určené pro zasílání stanovených hlášení a oznámení podle § 61 okresním správám sociálního zabezpečení v případech, kdy cenu dodání těchto zásilek uhrazuje Česká správa sociálního zabezpečení podle § 167b“.
+
+2\. V § 85 odst. 1 se na konci textu písmene f) doplňují slova „; uzavírá dohodu podle § 167b a zajišťuje vydávání obálek uvedených v § 84 odst. 2 písm. n)“.
+
+3\. Za § 167a se vkládá nový § 167b, který včetně nadpisu zní:
+
+> **„§ 167b – Úhrada poštovného**
+
+> Česká správa sociálního zabezpečení uhrazuje držiteli poštovní licence na základě uzavřené dohody cenu dodání zásilky zasílané ošetřujícími lékaři okresním správám sociálního zabezpečení v případech uvedených v § 61 písm. e), g), i), n), o) a q) s využitím obálek uvedených v § 84 odst. 2 písm. n).“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti prvním dnem třetího kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Fischer v. r.

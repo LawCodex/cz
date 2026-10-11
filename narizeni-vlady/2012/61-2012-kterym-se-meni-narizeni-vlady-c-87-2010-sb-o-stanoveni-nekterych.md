@@ -1,0 +1,52 @@
+---
+title: "Nařízení vlády č. 61/2012 Sb., kterým se mění nařízení vlády č. 87/2010 Sb., o stanovení některých podmínek pro poskytování platby na krávy chované v systému s tržní produkcí mléka, ve znění nařízení vlády č. 369/2010 Sb., a nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů"
+identifier: "61/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/61/2012-03-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2012-02-15
+effective: 2012-03-01
+last_amended: 2012-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/61"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 61/2012 Sb., kterým se mění nařízení vlády č. 87/2010 Sb., o stanovení některých podmínek pro poskytování platby na krávy chované v systému s tržní produkcí mléka, ve znění nařízení vlády č. 369/2010 Sb., a nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů
+
+61
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 15. února 2012,
+
+kterým se mění nařízení vlády č. 87/2010 Sb., o stanovení některých podmínek pro poskytování platby na krávy chované v systému s tržní produkcí mléka, ve znění nařízení vlády č. 369/2010 Sb., a nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 2b odst. 2 a § 2c odst. 5 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb., zákona č. 85/2004 Sb., zákona č. 441/2005 Sb. a zákona č. 291/2009 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb. a zákona č. 291/2009 Sb.:
+
+## Čl. I – Změna nařízení vlády o stanovení některých podmínek pro poskytování platby na krávy chované v systému s tržní produkcí mléka
+
+V § 4 nařízení vlády č. 87/2010 Sb., o stanovení některých podmínek pro poskytování platby na krávy chované v systému s tržní produkcí mléka, se doplňuje odstavec 6, který včetně poznámky pod čarou č. 19 zní:
+
+> „(6) Platbu podle odstavců 1 až 4 poskytne Fond pro žádosti podané v roce 2012 a v následujícím období podle jiného právního předpisu<sup>19</sup>).
+
+> <sup>19</sup>) § 7 nařízení vlády č. 60/2012 Sb., o stanovení některých podmínek pro poskytování zvláštní podpory zemědělcům.“.
+
+## Čl. II – Změna nařízení vlády o podmínkách provádění agroenvironmentálních opatření
+
+V § 13 nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění nařízení vlády č. 114/2008 Sb., nařízení vlády č. 45/2009 Sb., nařízení vlády č. 78/2010 Sb. a nařízení vlády č. 282/2011 Sb., odstavec 5 zní:
+
+> „(5) Sazba dotace podle odstavce 4 písm. c) až g), i), j), l) nebo m) se sníží o 112 EUR/ha, jde-li o půdní blok, popřípadě jeho díl nacházející se na území 1. zóny zvláště chráněného území<sup>5</sup>), popřípadě ve zranitelné oblasti na území vymezeném podle § 7 odst. 5 věty první nařízení vlády č. 103/2003 Sb.; v případě odstavce 4 písm. a), b) nebo k) se dotace v rámci podopatření ošetřování travních porostů na půdní blok, popřípadě jeho díl nacházející se na území 1. zóny zvláště chráněného území<sup>5</sup>), popřípadě ve zranitelné oblasti na území vymezeném podle § 7 odst. 5 věty první nařízení vlády č. 103/2003 Sb. neposkytne; nachází-li se půdní blok, popřípadě jeho díl na území 1. zóny zvláště chráněného území<sup>5</sup>) jen zčásti, dotace se sníží nebo neposkytne jen na tuto část půdního bloku, popřípadě jeho dílu.“.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. března 2012.
+
+Předseda vlády:
+
+RNDr. Nečas v. r.
+
+Ministr zemědělství:
+
+Ing. Bendl v. r.

@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 203/2007 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Jarmily Novotné"
+identifier: "203/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/203/2007-09-05"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2007-06-29
+effective: 2007-09-05
+last_amended: 2007-09-05
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/203"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 203/2007 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Jarmily Novotné
+
+203
+
+VYHLÁŠKA
+
+ze dne 29. června 2007
+
+o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Jarmily Novotné
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Ke 100. výročí narození operní pěvkyně Jarmily Novotné se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“). Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i ve zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,2 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny jsou ozdobným písmem vypsány názvy hudebních děl, v nichž Jarmila Novotná účinkovala. Při celém okraji dvousetkoruny je v neuzavřeném opisu název státu „ČESKÁ REPUBLIKA“. Označení nominální hodnoty se zkratkou peněžní jednotky „200 Kč“ je při pravém okraji dvousetkoruny za druhým slovem názvu státu. Značka mincovny, která dvousetkorunu razila, je umístěna při levém spodním okraji dvousetkoruny, mezi prvním a druhým slovem názvu státu.
+
+(2) Na rubu dvousetkoruny je portrét Jarmily Novotné. Při levém a spodním okraji dvousetkoruny je neuzavřený opis „JARMILA NOVOTNÁ“, který posledními dvěma písmeny částečně zasahuje do portrétu. Při pravém okraji dvousekoruny jsou data „1907 - 2007“, která částečně zasahují do portrétu. Autorem návrhu dvousetkoruny je Vojtěch Dostál, DiS, jehož iniciála, obrácené písmeno „D“, je umístěna při pravém okraji dvousekoruny vedle ozdobné spony do vlasů.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 5. září 2007.
+
+Guvernér:
+
+v z. RNDr. Niedermayer v. r.
+
+viceguvernér
+
+### Příloha k vyhlášce č. 203/2007 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny ke 100. výročí narození Jarmily Novotné
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2007c065z0203o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873841/NAHLED/ZOBRAZ/sbcr2007c065z0203o001)
+
+#### ![sbcr2007c065z0203o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873843/NAHLED/ZOBRAZ/sbcr2007c065z0203o002)

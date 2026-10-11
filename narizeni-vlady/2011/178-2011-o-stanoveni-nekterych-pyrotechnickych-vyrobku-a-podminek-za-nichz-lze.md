@@ -1,0 +1,128 @@
+---
+title: "Nařízení vlády č. 178/2011 Sb., o stanovení některých pyrotechnických výrobků a podmínek, za nichž lze uskutečnit jejich dovoz"
+identifier: "178/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/178/2023-03-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2011-06-08
+effective: 2011-08-01
+last_amended: 2023-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/178"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 178/2011 Sb., o stanovení některých pyrotechnických výrobků a podmínek, za nichž lze uskutečnit jejich dovoz ve znění nařízení vlády č. 207/2015 Sb. a nařízení vlády č. 32/2023 Sb."
+---
+
+# Nařízení vlády č. 178/2011 Sb., o stanovení některých pyrotechnických výrobků a podmínek, za nichž lze uskutečnit jejich dovoz
+
+178
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 8. června 2011
+
+o stanovení některých pyrotechnických výrobků a podmínek, za nichž lze uskutečnit jejich dovoz
+
+Vláda nařizuje podle § 18 zákona č. 228/2005 Sb., o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů, a o změně některých zákonů, (dále jen „zákon“) k provedení § 1 odst. 2 zákona:
+
+## § 1
+
+Stanovenými výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů, jsou pyrotechnické výrobky<sup>1</sup>) uvedené v příloze č. 1 k tomuto nařízení.
+
+## § 2
+
+(1) Údaje týkající se obchodů zrealizovaných na základě povolení k dovozu pyrotechnických výrobků stanoví příloha č. 2 k tomuto nařízení.
+
+(2) Údaje požadované k žádosti o vydání mezinárodního dovozního certifikátu stanoví příloha č. 3 k tomuto nařízení.
+
+## § 3
+
+Toto nařízení bylo oznámeno v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu poskytování informací v oblasti technických norem a předpisů a pravidel pro služby informační společnosti, ve znění směrnice 98/48/ES.
+
+## § 4
+
+Toto nařízení nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Předseda vlády:
+
+RNDr. Nečas v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Kocourek v. r.
+
+### Příloha č. 1 k nařízení vlády č. 178/2011 Sb.
+
+#### Seznam stanovených výrobků, jejichž dovoz se v České republice omezuje z bezpečnostních důvodů
+
+#### (podle § 1 odst. 1 písm. b) zákona)
+
+| Podpoložka celního sazebníku | Název | Měrná <br> jednotka | Doklad podle <br> § 2 odst. 3 písm. a) zákona | Doklad podle<br> § 2 odst. 3 písm. c) zákona |
+|---|---|---|---|---|
+| 3604 10 00 | Pyrotechnické výrobky zábavní pyrotechniky<sup>2</sup>) s výjimkou pyrotechnických výrobků zábavní pyrotechniky kategorie 1 nebo kategorie F1 (například bengálské ohně, bengálské zápalky, bengálské tyčinky, práskací granule, blikavky, fontány, pozemní víry, ruční prskavky, prskavky, žertovné zápalky, party petardy, hadi, práskací provázky, stolní bomby, bouchací kuličky). | ks | A/1 | B/1 |
+| 3604 90 00 | Divadelní pyrotechnika a ostatní pyrotechnické výrobky<sup>3</sup>). | ks | A/1 | B/1 |
+
+A/1 Certifikát vydaný podle zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o zacházení s některými pyrotechnickými výrobky, ve znění pozdějších předpisů, nebo certifikát vydaný podle zákona č. 206/2015 Sb., o pyrotechnických výrobcích a zacházení s nimi a o změně některých zákonů (zákon o pyrotechnice), nebo certifikát vydaný oznámeným subjektem v jiném členském státě Evropské unie podle směrnice Evropského parlamentu a Rady č. 2007/23/ES ze dne 23. května 2007 o uvádění pyrotechnických výrobků na trh a směrnice Evropského parlamentu a Rady č. 2013/29/EU ze dne 12. června 2013 o harmonizaci právních předpisů členských států týkajících se dodávání pyrotechnických výrobků na trh.
+
+B/1 Smlouva na dovoz výrobku, nebo jiný obdobný dokument, například potvrzená objednávka, faktura, proformafaktura.
+
+### Příloha č. 2 k nařízení vlády č. 178/2011 Sb.
+
+#### Údaje týkající se obchodů zrealizovaných na základě povolení k dovozu pyrotechnických výrobků
+
+a) číslo povolení,
+
+b) kalendářní rok a pololetí, za které je informace podávána,
+
+c) pořadové číslo odpovídající popisu zboží v povolení, pokud jej povolení obsahuje,
+
+d) specifikace stanoveného výrobku,
+
+e) využité množství a měrná jednotka,
+
+f) využitá hodnota v Kč,
+
+g) kurzový rozdíl, pokud ve sledovaném období bylo povolení využíváno a hodnota se liší v důsledku změny kurzu jiné měny než v době vydání povolení,
+
+h) případné poznámky k realizovanému dovozu pyrotechniky a
+
+i) datum zpracování informace.
+
+### Příloha č. 3 k nařízení vlády č. 178/2011 Sb.
+
+#### Údaje požadované k žádosti o vydání mezinárodního dovozního certifikátu
+
+a) obchodní firma nebo název a sídlo nebo jméno, popřípadě jména, příjmení a sídlo vývozce,
+
+b) obchodní firma nebo název a sídlo nebo jméno, popřípadě jména, příjmení a sídlo konečného uživatele,
+
+c) pořadové číslo odpovídající popisu zboží v povolení k vývozu, pokud jej povolení k vývozu obsahuje,
+
+d) evidenční číslo vydaného povolení, pokud má být mezinárodní dovozní certifikát vystaven k již vydanému povolení,
+
+e) číslo jednací žádosti o vydání povolení, pokud má být mezinárodní dovozní certifikát vystaven k probíhajícímu správnímu řízení o žádosti o vydání povolení,
+
+f) číslo objednávky týkající se zamýšleného dovozu,
+
+g) účel dovozu uvedený též v anglickém jazyce, pokud má být tato informace součástí mezinárodního dovozního certifikátu,
+
+h) specifikace výrobku uvedená též v anglickém jazyce, pokud má být tato informace součástí mezinárodního dovozního certifikátu, jeho množství a měrná jednotka,
+
+i) číslo, položka nebo podpoložka kombinované nomenklatury společného celního sazebníku,
+
+j) celková cena v Kč a zahraniční měně, pokud má být tato informace součástí mezinárodního dovozního certifikátu,
+
+k) prohlášení žadatele, že se zavazuje zboží uvedené v žádosti o vystavení mezinárodního dovozního certifikátu dovézt do České republiky s tím, že nebude měnit jeho směrování, lodění anebo je reexportovat na jiné místo určení bez předchozího oprávnění zodpovědného českého orgánu, případně i příslušného orgánu zahraničního smluvního státu, je-li to tímto orgánem vyžadováno,
+
+l) závazek žadatele okamžitě oznámit jakoukoliv změnu údajů nebo úmysl je změnit, a pokud bude vyžadován certifikát o ověření dodávky, závazek získat tento certifikát a zabezpečit jeho vystavení v souladu s takovým požadavkem a
+
+m) případné další prohlášení žadatele, je-li vyžadováno zahraničním smluvním státem, pro jehož účely má být mezinárodní dovozní certifikát vystaven.
+
+---
+
+<sup>1</sup>) Zákon č. 206/2015 Sb., o pyrotechnických výrobcích a zacházení s nimi a o změně některých zákonů (zákon o pyrotechnice).
+
+<sup>2</sup>) § 4 odst. 2 písm. a) zákona č. 206/2015 Sb.
+
+<sup>3</sup>) § 4 odst. 2 písm. b) a c) zákona č. 206/2015 Sb.

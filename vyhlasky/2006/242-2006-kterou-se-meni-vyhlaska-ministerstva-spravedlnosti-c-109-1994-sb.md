@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 242/2006 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 109/1994 Sb., kterou se vydává řád výkonu vazby, ve znění pozdějších předpisů"
+identifier: "242/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/242/2006-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-05-19
+effective: 2006-07-01
+last_amended: 2006-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/242"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 242/2006 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 109/1994 Sb., kterou se vydává řád výkonu vazby, ve znění pozdějších předpisů
+
+242
+
+VYHLÁŠKA
+
+ze dne 19. května 2006,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 109/1994 Sb., kterou se vydává řád výkonu vazby, ve znění pozdějších předpisů
+
+Ministerstvo spravedlnosti stanoví podle § 31 zákona č. 293/1993 Sb., o výkonu vazby:
+
+## Čl. I
+
+Vyhláška č. 109/1994 Sb., kterou se vydává řád výkonu vazby, ve znění vyhlášky č. 292/2001 Sb. a vyhlášky č. 377/2004 Sb., se mění takto:
+
+1\. V § 1 odst. 2 se slova „pověřením vyslovil ředitel věznice souhlas“ nahrazují slovy „působením ve věznici po písemném vyjádření vězeňské duchovní služby vyslovil ředitel věznice souhlas“.
+
+2\. V § 33 se na konci textu odstavce 2 doplňují slova „, a státní zástupce, který vykonává dozor nad výkonem vazby“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2006.
+
+Ministr:
+
+JUDr. Němec v. r.

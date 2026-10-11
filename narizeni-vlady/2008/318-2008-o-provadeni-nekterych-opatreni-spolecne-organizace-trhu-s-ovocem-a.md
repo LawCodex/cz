@@ -1,0 +1,425 @@
+---
+title: "Nařízení vlády č. 318/2008 Sb., o provádění některých opatření společné organizace trhu s ovocem a zeleninou"
+identifier: "318/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/318/2024-10-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2008-08-20
+effective: 2008-09-01
+last_amended: 2024-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/318"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 318/2008 Sb., o provádění některých opatření společné organizace trhu s ovocem a zeleninou
+
+318
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 20. srpna 2008
+
+o provádění některých opatření společné organizace trhu s ovocem a zeleninou
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb. a zákona č. 441/2005 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje v návaznosti na přímo použitelné předpisy Evropské unie<sup>1</sup>) podmínky provádění některých opatření společné organizace trhu s ovocem a zeleninou.
+
+## § 2 – Uznání za organizaci producentů nebo nadnárodní organizaci producentů
+
+(1) Žádost o to, aby byla uznána za organizaci producentů nebo nadnárodní organizaci producentů se sídlem v České republice, podává družstvo nebo společnost s ručením omezeným, která splňuje podmínky stanovené přímo použitelnými předpisy Evropské unie v odvětví ovoce a zeleniny<sup>2</sup>), Státnímu zemědělskému intervenčnímu fondu (dále jen „Fond“) na jím vydaném formuláři.
+
+(2) K žádosti se přiloží
+
+a) kopie platných stanov organizace,
+
+b) doklad prokazující, že žadatel sdružuje ode dne podání žádosti nejméně 5 producentů<sup>42</sup>), kteří nejsou vzájemně personálně propojeni a každý z nich
+
+1\. je zemědělský podnikatel,
+
+2\. má evidovanou zemědělskou půdu s druhem zemědělské kultury standardní orná půda nebo ovocný sad v evidenci využití půdy podle uživatelských vztahů a
+
+3\. pěstuje minimálně 1 rok před podáním žádosti produkty, pro které se organizace producentů uznává,
+
+c) doklad prokazující, že roční hodnota produkce uvedené na trh, na které se podílí všichni producenti, které žadatel sdružuje, činila v posledním kalendářním roce přede dnem podání žádosti nejméně 6 000 000 Kč<sup>5</sup>),
+
+d) doklad prokazující, že podíl produkce uvedené na trh jedním producentem žadatele na celkové produkci uvedené na trh všemi producenty žadatele za poslední kalendářní rok přede dnem podání žádosti je nižší než 80 %, a
+
+e) informace o obchodním a rozpočtovém řízení<sup>54</sup>) uvedené v příloze č. 5 k tomuto nařízení,
+
+f) v případě pěstování plodin, kde kořenový systém rostlin není v přímém kontaktu se zemědělskou půdou evidovanou v evidenci využití půdy podle uživatelských vztahů, doklad o právním důvodu užívání pozemku producentem.
+
+(3) Fond vydá rozhodnutí o uznání organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice podle přímo použitelného předpisu Evropské unie<sup>4</sup>), pokud žadatel splní podmínky podle odstavců 1 a 2.
+
+(4) Organizace producentů nebo nadnárodní organizace producentů oznamuje Fondu všechny změny a doplnění týkající se údajů a dokladů, které byly poskytnuty Fondu v souvislosti se žádostí o uznání podle odstavců 1 a 2, a změny, které souvisí se vzájemným personálním propojením členů, do 15 dnů ode dne jejich vzniku.
+
+(5) Organizace producentů a nadnárodní organizace producentů se sídlem v České republice po celou dobu trvání zajistí plnění podmínek podle odstavců 1 a 2.
+
+## § 3 – Uznání za sdružení organizací producentů nebo nadnárodní sdružení organizací producentů
+
+(1) Žádost o to, aby byla uznána za sdružení organizací producentů nebo nadnárodní sdružení organizací producentů se sídlem v České republice, podává osoba, která splňuje podmínky stanovené přímo použitelnými předpisy Evropské unie v odvětví ovoce a zeleniny<sup>6</sup>), Fondu na jím vydaném formuláři.
+
+(2) K žádosti se přiloží
+
+a) kopie platných stanov sdružení,
+
+b) doklad o počtu členů, z něhož vyplývá, že sdružuje alespoň 2 členy.
+
+(3) Osoba podle odstavce 1 přiloží k žádosti rovněž doklady prokazující, že její členové sídlící v jiných členských státech byli uznáni za organizaci producentů příslušnými orgány členských států, na jejichž území mají sídlo.
+
+(4) Osobu podle odstavce 1 uzná Fond za sdružení organizací producentů nebo nadnárodní sdružení organizací producentů se sídlem v České republice podle přímo použitelných předpisů Evropské unie upravujících společnou organizaci trhů a prováděcí pravidla v odvětví ovoce a zeleniny<sup>6</sup>).
+
+(5) Osoba, která byla uznána podle odstavce 4, oznamuje Fondu všechny změny a doplnění týkající se údajů a dokladů, které byly poskytnuty Fondu v souvislosti se žádostí o uznání podle odstavců 1 a 2, do 15 dnů ode dne jejich vzniku.
+
+## § 4 – Výše podílu na hlasovacích právech a výše podílu člena organizace producentů
+
+Výše podílu na hlasovacích právech všech členů organizace producentů může na jednoho člena činit nejvýše 30 %. Maximální výše podílu jednoho člena v organizaci producentů musí být nižší než 50 % podílů<sup>7</sup>) všech členů v organizaci producentů.
+
+## § 5 – Vystoupení z organizace producentů, z nadnárodní organizace producentů, ze sdružení organizací producentů nebo z nadnárodního sdružení organizací producentů
+
+Výpovědní doba pro vystoupení<sup>8</sup>) člena z organizace producentů nebo z nadnárodní organizace producentů se sídlem v České republice, která byla uznána podle § 2, činí 3 měsíce a začíná běžet první den kalendářního měsíce následujícího po doručení oznámení o vystoupení příslušné organizaci producentů nebo nadnárodní organizaci producentů se sídlem v České republice; vystoupení nabývá účinnosti uplynutím uvedené lhůty. Úprava podle věty první se obdobně použije i na vystoupení člena ze sdružení organizací producentů nebo z nadnárodního sdružení organizací producentů se sídlem v České republice, které bylo uznané podle § 3.
+
+## § 7 – Nejvyšší podíl produkce člena organizace producentů určené k přímému prodeji
+
+Člen organizace producentů je oprávněn prodat nejvýše 10 % své produkce způsobem, který stanovuje přímo použitelný předpis Evropské unie o společné organizaci trhů<sup>17</sup>).
+
+## § 8 – Provozní fond a operační program
+
+(1) Žádost o schválení operačního programu a sdělení o provozním fondu podle přímo použitelných předpisů Evropské unie<sup>18</sup>), včetně způsobu výpočtu objemu provozního fondu, podává organizace producentů, nadnárodní organizace producentů se sídlem v České republice, sdružení organizací producentů nebo sdružení nadnárodních organizací producentů se sídlem v České republice Fondu na jím vydaném formuláři.
+
+(2) Dokladem o zřízení provozního fondu se rozumí kopie smlouvy o zřízení bankovního účtu, na kterém budou uloženy prostředky provozního fondu.
+
+(3) Operační program lze v průběhu jednoho kalendářního roku změnit bez předchozího schválení Fondem<sup>19</sup>) pouze v případě, že celková hodnota změn nepřesáhne 10 % hodnoty výše provozního fondu schválené Fondem na příslušný rok. Tato změna se může týkat pouze schválených opatření a akcí operačního programu.
+
+(4) Změna operačního programu v průběhu roku přesahující hodnotu podle odstavce 3 může být provedena pouze na základě schválení Fondem. Fond tuto změnu schválí, pokud navrhovaná změna nebude znamenat vypuštění nebo podstatnou změnu obsahu schválených cílů operačního programu<sup>20</sup>). Hodnota snížení finančních prostředků provozního fondu nesmí překročit 25 % původně schválené částky<sup>21</sup>). Žádost o tuto změnu podává osoba uvedená v odstavci 1 Fondu na jím vydaném formuláři nejpozději do 15. listopadu roku, v němž je změna uskutečněna.
+
+(5) Pokud souhrn výdajů na environmentální opatření organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice nedosáhne minimálně výše 10 % výdajů operačního programu schváleného Fondem, zahrne organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice do svého operačního programu nejméně 2 environmentální opatření<sup>22</sup>) ze seznamu, který je uveden v příloze č. 1 k tomuto nařízení. Jestliže organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice<sup>36</sup>)
+
+a) provede pouze jedno environmentální opatření zahrnuté do schváleného operačního programu, vrátí Fondu 20 % podpory poskytnuté na příslušný operační program,
+
+b) neprovede žádné environmentální opatření zahrnuté do schváleného operačního programu, vrátí Fondu 30 % podpory poskytnuté na příslušný operační program,
+
+c) nevynaloží nejméně 10 % výdajů v rámci schváleného operačního programu na environmentální opatření, vrátí Fondu 30 % podpory poskytnuté na příslušný operační program.
+
+(6) Pro sdružení organizací producentů a nadnárodní sdružení organizací producentů se sídlem v České republice, které plní celý operační program sdružení organizací producentů a nadnárodních sdružení organizací producentů podle přímo použitelného předpisu Evropské unie<sup>41</sup>), se odstavec 5 použije obdobně.
+
+(7) Seznam opatření pro operační program<sup>43</sup>) organizace producentů, nadnárodní organizace producentů se sídlem v České republice, sdružení organizací producentů nebo sdružení nadnárodních organizací producentů se sídlem v České republice, které lze využít k dosažení cílů podle přímo použitelného předpisu Evropské unie<sup>23</sup>), je uveden v příloze č. 2 k tomuto nařízení.
+
+(8) Organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice podá žádost o vyplacení části podpory za výdaje vyplývající z operačního programu<sup>24</sup>) Fondu na jím vydaném formuláři, a to za výdaje vynaložené v prvním pololetí příslušného roku, do konce července téhož roku.
+
+(9) Organizace producentů může předložit Fondu na jím vydaném formuláři žádost o změnu operačního programu na následující roky, a to nejpozději do 15. září<sup>56</sup>) roku předcházejícího změně operačního programu.
+
+(10) Dvanáctiměsíční referenční období podle čl. 23 odst. 1 nařízení Komise v přenesené pravomoci (EU) 2017/891 začíná nejdříve 1. ledna třetího roku před rokem, na který se žádá o podporu, a končí nejpozději 31. prosince roku předcházejícího před rokem, na který se žádá o podporu.
+
+## § 9 – Opatření pro předcházení krizím
+
+(1) Na území České republiky se nepoužijí tato opatření pro předcházení krizím<sup>25</sup>):
+
+a) investice zajišťující účinnější řízení množství uvedených na trh a
+
+b) podpora správních nákladů na zřizování vzájemných fondů.
+
+(2) Organizace producentů, sdružení organizací producentů, nadnárodní organizace producentů nebo nadnárodní sdružení organizací producentů doručí Fondu oznámení všech plánovaných stažení z trhu, sklízení nezralého ovoce a zeleniny nebo jejich nesklizení, a to nejpozději 7 kalendářních dnů předem<sup>44</sup>).
+
+(3) Organizace producentů, sdružení organizací producentů, nadnárodní organizace producentů nebo nadnárodní sdružení organizací producentů dodá ovoce a zeleninu stažené z trhu bezplatně<sup>45</sup>) do
+
+a) domova pro seniory, domova pro osoby se zdravotním postižením, domova se zvláštním režimem, chráněného bydlení, azylového domu, terapeutické komunity nebo sociálně terapeutické dílny podle zákona o sociálních službách,
+
+b) základní nebo střední školy podle školského zákona,
+
+c) školského zařízení pro výkon ústavní výchovy nebo ochranné výchovy nebo do školského zařízení pro preventivně výchovnou péči podle zákona o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních, nebo
+
+d) zdravotnického zařízení lůžkové péče podle zákona o zdravotních službách.
+
+(4) Organizace producentů, sdružení organizací producentů, nadnárodní organizace producentů nebo nadnárodní sdružení organizací producentů může ovoce a zeleninu staženou z trhu dále dodat zpracovateli, který dodané produkty stažené z trhu použije pouze v zařízení pro nepotravinářské zpracování pro energetické účely s výjimkou výroby alkoholu<sup>46</sup>).
+
+(5) Organizace producentů, sdružení organizací producentů, nadnárodní organizace producentů nebo nadnárodní sdružení organizací producentů mohou dodat produkty stažené z trhu ke zkrmení do zoologických zahrad.
+
+(6) Maximální výše podpory na stažení z trhu pro produkty, které nejsou uvedeny v příloze IV nařízení Komise v přenesené pravomoci (EU) č. 2017/891, je uvedena v příloze č. 6 k tomuto nařízení.
+
+(7) Sklízení nezralého ovoce a zeleniny nebo jejich nesklízení nelze provést u produktů, u nichž trvá období sklizně déle než jeden měsíc, pokud bylo již sklizeno alespoň 70 % produkce<sup>57</sup>).
+
+## § 10 – Náklady na vnitřní dopravu
+
+Do základu výpočtu hodnoty produkce uváděné na trh lze zahrnout pouze náklady na vnitřní dopravu v rámci území České republiky nejdále do vzdálenosti 300 km<sup>26</sup>).
+
+## § 11 – Podmínky členství některých osob v organizaci producentů a provádění činností zajišťovaných externě
+
+(1) Osoba, která není producentem podle přímo použitelného předpisu Evropské unie<sup>27</sup>), může být přijata za člena organizace producentů<sup>28</sup>), pokud předmět její činnosti odpovídá požadavkům a cílům uvedeným v přímo použitelném předpise Evropské unie<sup>29</sup>) a pokud se jedná o
+
+a) člena, který vyrábí výrobky v rámci odvětví ovoce a zeleniny, nebo
+
+b) člena, který svým členstvím v organizaci producentů slouží k plnění jejích úkolů, které nejsou uvedeny v písmeni a).
+
+(2) Osoba uvedená v odstavci 1 nemá právo spolurozhodovat o nakládání s finančními prostředky provozního fondu<sup>30</sup>) příslušné organizace producentů.
+
+(3) Osoba, která není producentem podle přímo použitelného předpisu Evropské unie<sup>27</sup>) a zabývá se výlučně obchodem s ovocem a zeleninou, nemůže být členem organizace producentů.
+
+(4) Provádění činností zajišťovaných externě mohou organizace producentů vykonávat na základě smlouvy podle přímo použitelného předpisu Evropské unie<sup>61</sup>) předložené Fondu.
+
+## § 11a – Snížení podpory a odejmutí uznání organizace producentů nebo nadnárodní organizace producentů
+
+(1) Zjistí-li Fond, že uznaná organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice neplní v daném kalendářním roce podmínku stanovenou v § 2 odst. 2 písm. d), § 7 nebo v § 11 odst. 1, 2 nebo 3, sníží roční výši podpory za daný kalendářní rok, ve kterém k porušení došlo, o 5 %.
+
+(2) Zjistí-li Fond, že uznaná organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice opakovaně nesplnila podmínku stanovenou v § 2 odst. 2 písm. d) ve 2 po sobě jdoucích kalendářních letech, sníží výši podpory za druhý kalendářní rok, ve kterém k porušení došlo, o 50 %.
+
+(3) Zjistí-li Fond, že uznaná organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice opakovaně nesplnila podmínku stanovenou v § 2 odst. 2 písm. d) ve 3 po sobě jdoucích kalendářních letech, odejme organizaci producentů nebo nadnárodní organizaci producentů se sídlem v České republice uznání.
+
+## § 11c – Zvláštní ustanovení
+
+Žádost podle § 2 odst. 1, § 3 odst. 1 a § 8 odst. 1 nelze Fondu podat pro období počínající rokem 2023 a pro období následující.
+
+## § 12 – Přechodná ustanovení
+
+(1) Rozhodnutí Fondu o uznání nebo předběžném uznání za organizaci producentů, sdružení organizací producentů, nadnárodní organizaci producentů nebo nadnárodní sdružení organizací producentů, vydaná podle dosavadní právní úpravy<sup>32</sup>), zůstávají v platnosti; na osoby, jímž byla rozhodnutí vydána, se vztahuje nařízení Rady (ES) č. 1234/2007 v platném znění<sup>33</sup>).
+
+(2) Pokud organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice hodlá předložit Fondu žádost o schválení operačního programu v kalendářním roce 2008, doručí tuto žádost Fondu na jím vydaném formuláři do 31. října 2008<sup>34</sup>).
+
+(3) Řízení o uznání za organizaci producentů nebo za sdružení organizací producentů anebo řízení o předběžném uznání za skupinu producentů, zahájená podle dosavadních právních předpisů, se dokončí podle těchto předpisů.
+
+## § 13 – Zrušovací ustanovení
+
+Nařízení vlády č. 247/2004 Sb., o provádění některých opatření společných organizací trhu s ovocem a zeleninou a s výrobky zpracovanými z ovoce a zeleniny, se zrušuje.
+
+## § 14 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. září 2008.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+Ministr zemědělství:
+
+Mgr. Gandalovič v. r.
+
+### Příloha č. 1 k nařízení vlády č. 318/2008 Sb.
+
+#### Seznam environmentálních opatření podle § 8 odst. 5
+
+<table><tbody><tr><th colspan="2">Environmentální opatření</th><th colspan="2">Druh akce</th><th rowspan="2">Požadavky</th></tr><tr><th>č.</th><th>Název</th><th>č.</th><th>Popis</th></tr><tr><td><b>1.</b></td><td><b>Zvýšení přirozené úrodnosti půdy</b></td><td>1.1.</td><td>Nákup mulčovačů, drtičů větví</td><td>Zvýšení obsahu organické hmoty v půdě a podpora biologického života v půdě</td></tr><tr><td rowspan="2"><b>2.</b></td><td rowspan="2"><b>Protierozní opatření a opatření k šetrnému hospodaření s vodou v krajině</b></td><td>2.1.</td><td>Zatravnění sadů</td><td>Zamezení eroze na svažitých pozemcích</td></tr><tr><td>2.2.</td><td>Investice do závlahových zařízení, kromě hlavních závlahových zařízení</td><td>Snížení spotřeby vody a snížení vodní eroze vybudováním kapkové závlahy nebo mikropostřiku o nejméně 25 %</td></tr><tr><td><b>3.</b></td><td><b>Zvýšení biodiverzity</b></td><td>3.1.</td><td>Introdukce organizmů pro opylování s výjimkou včel</td><td>Zvýšení počtu živočichů opylujících rostliny s výjimkou včel</td></tr><tr><td><b>4.</b></td><td><b>Ekologické zemědělství</b></td><td>4.1.</td><td>Výsadby ekologických sadů</td><td>Podpora způsobů hospodaření šetrných k životnímu prostředí, snížení používání prostředků na ochranu a hnojení rostlin</td></tr><tr><td><b>5.</b></td><td><b>Poradenství, školení</b></td><td>5.1.</td><td>Organizace školení k opatřením Vnitrostátního rámce ČR sektoru ovoce a zelenina pro operační programy organizací producentů</td><td>Zvýšit úroveň znalostí producentů o vybraných opatřeních Vnitrostátního rámce ČR sektoru ovoce a zelenina pro operační programy organizací producentů</td></tr><tr><td rowspan="2"><b>6.</b></td><td rowspan="2"><b>Podpora nechemických metod ochrany</b></td><td>6.1.</td><td>Použití biologických, včetně výživy pro predátory, fyzikálních a mechanických metod ochrany</td><td>Snížení zátěže životního prostředí způsobené použitím prostředků chemické ochrany, zajištění přirozené biodiverzity k podpoře užitečných organizmů</td></tr><tr><td>6.2.</td><td>Netkané textilie na pokrytí porostu</td><td>Snížení chemické ochrany, mechanické zabránění náletu škodlivého hmyzu, snížení eroze</td></tr><tr><td rowspan="2"><b>7.</b></td><td rowspan="2"><b>Opatření na zmírnění klimatických změn</b></td><td>7.1.</td><td>Výměna starých chladicích systémů</td><td>Snížení zatížení životního prostředí (zvýšení účinnosti chladicího systému) o nejméně 25 %</td></tr><tr><td>7.2.</td><td>Tepelná izolace objektů pro skladování a posklizňovou úpravu</td><td>Snížení spotřeby energie o nejméně 25 %</td></tr></tbody></table>
+
+### Příloha č. 2 k nařízení vlády č. 318/2008 Sb.
+
+#### Seznam opatření pro operační program podle § 8 odst. 7
+
+1\) Opatření č. 1 - Plánování produkce
+
+a) výdaje spojené s pořízením výpočetní a kancelářské techniky,
+
+b) výdaje spojené s pořízením softwarového vybavení nebo
+
+c) osobní náklady v souvislosti s plánováním produkce (například odhady, sklizňové termíny, soulad mezi poptávkou a nabídkou, průzkum trhu).
+
+2\) Opatření č. 2 - Kvalita produkce
+
+a) výdaje spojené s pořízením technologií pro přípravu půdy,
+
+b) výdaje spojené s pořízením technologií pro ošetřování rostlin,
+
+c) výdaje spojené s pořízením technologií pro sklizeň rostlin,
+
+d) výdaje spojené s pořízením technologií pro dopravu produkce k posklizňové úpravě nebo ke zpracování,
+
+e) výdaje spojené s pořízením skleníků nebo foliových krytů nebo s vybavením skleníků,
+
+f) osobní náklady vyplývající z opatření ke zlepšení a udržení vysoké úrovně jakosti,
+
+g) výdaje spojené s pořízením přepravních zařízení udržujících kvalitu produkce,
+
+h) výdaje spojené s budováním systémů síťových a foliových krytů,
+
+i) výdaje spojené s pořízením zařízení a strojního vybavení k monitoringu kvality,
+
+j) výdaje spojené s pořízením zařízení zvyšujících hygienu a kvalitu skladovacích prostor,
+
+k) výdaje spojené s pořízením technologií prodlužující trvanlivost produkce,
+
+l) výdaje spojené s certifikací a bezpečností produktů,
+
+m) výdaje spojené s roubováním rostlin pro produkci ve venkovních, polních i krytých podmínkách, uznatelným výdajem je rozdíl mezi neroubovanými a roubovanými rostlinami; způsobilým výdajem je pouze samotné roubování rostlin, nebo
+
+n) výdaje spojené s pořízením softwarového vybavení.
+
+3\) Opatření č. 3 - Odbyt produkce
+
+a) výdaje spojené s pořízením technologií pro posklizňovou úpravu produkce,
+
+b) výdaje spojené s pořízením technologií pro třídění nebo balení produkce,
+
+c) výdaje spojené s úpravou či vybudováním skladovacích a manipulačních prostor,
+
+d) výdaje spojené s certifikací procesu řízení,
+
+e) nájem nebo pacht skladovacích a manipulačních prostor jako účelná náhrada výstavby nových skladů,
+
+f) osobní náklady a investice vyplývající z opatření ke zlepšení úrovně uvádění zboží na trh,
+
+g) výdaje spojené s aktivním marketingem,
+
+h) osobní náklady vyplývající z opatření ke zvyšování koncentrace nabídky,
+
+i) výdaje spojené se zvýšením přidané hodnoty produkce,
+
+j) výdaje spojené s propagací obchodní značky organizace producentů, případně sdružení organizací producentů,
+
+k) výdaje spojené s propagací správných stravovacích návyků,
+
+l) výdaje spojené s propagací značek jakosti nebo
+
+m) výdaje spojené se zpracováním vlastní produkce.
+
+4\) Opatření č. 4 - Vzdělávání a školení
+
+a) akce spojené se získáním odborných informací o integrované produkci a ekologickém zemědělství,
+
+b) akce spojené se získáním odborných informací o environmentálních tématech,
+
+c) akce spojené se získáním odborných informací o kontrole chorob a škůdců, jakosti produktů,
+
+d) akce spojené se získáním odborných informací o dohledatelnosti produktů,
+
+e) akce spojené se získáním odborných informací o zlepšení a udržení vysoké kvality produkce nebo
+
+f) poradenská činnost k zajištění vysoké kvality produkce.
+
+5\) Opatření č. 5 - Předcházení krizím a jejich řešení
+
+a) výdaje spojené se zajištěním stability podnikatelského prostředí pomocí podpory pojištění do 80 % za předpokladu, že pojistná smlouva obsahuje výši výdajů pro uznaný druh ovoce nebo zeleniny,
+
+b) výdaje spojené s propagací ke zvýšení spotřeby ovoce a zeleniny v době využívání opatření související s předcházením krizí s tím, že tištěné propagační materiály obsahují viditelnou vlajku Evropské unie a text „Kampaň financovaná s podporou Evropské unie“,
+
+c) výdaje spojené s opětovnou výsadbou sadů s ohledem na povinné vyklučení ze zdravotních důvodů nebo fytosanitárních důvodů nebo
+
+d) výdaje spojené se stahováním z trhu, se sklízením nezralého ovoce a zeleniny nebo s jejich nesklízením.
+
+6\) Opatření č. 6 - Environmentální opatření podle § 8 odst. 5
+
+### Příloha č. 5 k nařízení vlády č. 318/2008 Sb.
+
+#### Informace o obchodním a rozpočtovém řízení organizace producentů
+
+A. Informace o obchodním řízení organizace producentů
+
+##### Informace o obchodním řízení organizace producentů obsahují zejména:
+
+1\. rozdělení produktů do skupin pro přímý prodej a pro skladování,
+
+2\. stanovení práv a povinností členů k organizaci producentů (může být obsahem stanov organizace),
+
+3\. stanovení práv a povinností organizace producentů k členům (může být obsahem stanov organizace),
+
+4\. pravidla dodávek produktů do organizace producentů a prodeje produktů, zejména se jedná o popis následujících činností:
+
+a) přejímka produktů mezi členem organizace producentů a skladem, proces přejímky produktů, včetně stanovení postupu v případě, že produkty neodpovídají standardu vhodnému ke skladování,
+
+b) proces skladování a třídění produktů, úhrada nákladů za skladování, uchovávání denních záznamů o skladování, řádné označení produktů před naskladněním, vedení skladových karet, stanovení závazných pravidel pro zatřídění produktů do jakostních tříd,
+
+c) zajištění dopravy produktů od pěstitele do míst určení nebo prodejních míst a
+
+d) zajištění přípravy produktů k expedici i vlastnímu prodeji.
+
+B. Informace o rozpočtovém řízení organizace producentů
+
+##### Informace o rozpočtovém řízení organizace producentů obsahují zejména:
+
+1\. popis oběhu dokladu při dodávce produktů do organizace producentů (daňové doklady dodací listy),
+
+2\. finanční toky, stanovení příspěvku člena organizace producentů z objemu každé dodávky do provozního fondu, lhůta pro úhradu dodávky členovi organizace producentů,
+
+3\. popis manipulace s produkty při skladování, úhrady nákladů na skladování, úhrady případných ztrát a
+
+4\. postup pro uplatňování námitek ze strany člena organizace producentů.
+
+### Příloha č. 6 k nařízení vlády č. 318/2008 Sb.
+
+#### Maximální výše podpory na stažení z trhu pro produkty podle § 9 odst. 5
+
+<table><tbody><tr><th rowspan="2">Produkt</th><th colspan="2">Maximální podpora <br> (Kč/t)</th></tr><tr><th>Bezplatné rozdělení</th><th>Jiné určení produktů</th></tr><tr><td>Třešně</td><td>14 530</td><td>10 898</td></tr><tr><td>Višně</td><td>4 870</td><td>3 652</td></tr><tr><td>Švestky, slívy</td><td>4 227</td><td>3 170</td></tr><tr><td>Jahody</td><td>22 437</td><td>16 828</td></tr><tr><td>Rybíz červený</td><td>3 429</td><td>2 571</td></tr><tr><td>Rybíz černý</td><td>5 332</td><td>3 999</td></tr><tr><td>Mrkev</td><td>2 475</td><td>1 857</td></tr><tr><td>Cibule</td><td>2 527</td><td>1 895</td></tr><tr><td>Okurky salátové</td><td>7 334</td><td>5 501</td></tr><tr><td>Papriky</td><td>8 522</td><td>6 391</td></tr><tr><td>Salát</td><td>11 706</td><td>8 779</td></tr><tr><td>Brokolice</td><td>10 800</td><td>8 100</td></tr><tr><td>Kedluben</td><td>8 651</td><td>6 488</td></tr><tr><td>Kapusta</td><td>3 839</td><td>2 879</td></tr><tr><td>Ředkvičky</td><td>10 568</td><td>7 926</td></tr><tr><td>Hlávkové zelí bílé</td><td>2 007</td><td>1 505</td></tr><tr><td>Hlávkové zelí červené</td><td>2 727</td><td>2 045</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Prováděcí nařízení Komise (EU) č. 543/2011 ze dne 7. června 2011, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 1234/2007 pro odvětví ovoce a zeleniny a odvětví výrobků z ovoce a zeleniny, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (EU) č. 1308/2013 ze dne 17. prosince 2013, kterým se stanoví společná organizace trhů se zemědělskými produkty a zrušují nařízení Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007, v platném znění. 
+ Nařízení Komise v přenesené pravomoci (EU) 2017/891 ze dne 13. března 2017, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o odvětví ovoce a zeleniny a odvětví výrobků z ovoce a zeleniny, a doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, pokud jde o sankce uplatňované v uvedených odvětvích, a kterým se mění prováděcí nařízení Komise (EU) č. 543/2011, v platném znění. 
+ Prováděcí nařízení Komise (EU) 2017/892 ze dne 13. března 2017, kterým se stanoví prováděcí pravidla k nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o odvětví ovoce a zeleniny a odvětví výrobků z ovoce a zeleniny, v platném znění.
+
+<sup>2</sup>) Čl. 125b nařízení Rady (ES) č. 1234/2007. 
+ Čl. 22 nařízení Komise (ES) č. 1580/2007.
+
+<sup>4</sup>) Čl. 154 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, v platném znění.
+
+<sup>5</sup>) Čl. 154 odst. 1 písm. b) nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, v platném znění.
+
+<sup>6</sup>) Čl. 125c nařízení Rady (ES) č. 1234/2007. 
+ Čl. 34 nařízení Komise (ES) č. 1580/2007.
+
+<sup>7</sup>) Čl. 31 prováděcího nařízení Komise (EU) č. 543/2011, v platném znění.
+
+<sup>8</sup>) Čl. 24 odst. 2 nařízení Komise (ES) č. 1580/2007.
+
+<sup>12</sup>) Čl. 41 odst. 1 nařízení Komise (ES) č. 1580/2007.
+
+<sup>17</sup>) Čl. 26a prováděcího nařízení Komise (EU) č. 543/2011, v platném znění.
+
+<sup>18</sup>) Čl. 103g nařízení Rady (ES) č. 1234/2007. 
+ Čl. 56 nařízení Komise (ES) č. 1580/2007.
+
+<sup>19</sup>) Čl. 67 odst. 3 nařízení Komise (ES) č. 1580/2007.
+
+<sup>20</sup>) Čl. 67 odst. 1 nařízení Komise (ES) č. 1580/2007.
+
+<sup>21</sup>) Čl. 67 odst. 2 písm. c) nařízení Komise (ES) č. 1580/2007.
+
+<sup>22</sup>) Čl. 103c odst. 3 nařízení Rady (ES) č. 1234/2007.
+
+<sup>23</sup>) Čl. 103c odst. 1 a 2 nařízení Rady (ES) č. 1234/2007.
+
+<sup>24</sup>) Čl. 12 prováděcího nařízení Komise (EU) 2017/892, v platném znění.
+
+<sup>25</sup>) Čl. 33 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, v platném znění. 
+ Čl. 73 prováděcího nařízení Komise (EU) č. 543/2011, v platném znění.
+
+<sup>26</sup>) Čl. 50 odst. 7 písm. b) prováděcího nařízení Komise (EU) č. 543/2011, v platném znění.
+
+<sup>27</sup>) Čl. 2 písm. a) nařízení Komise v přenesené pravomoci (EU) 2017/891.
+
+<sup>28</sup>) Čl. 16 odst. 1 nařízení Komise v přenesené pravomoci (EU) 2017/891.
+
+<sup>29</sup>) Čl. 152 odst. 1 písm. c) a čl. 154 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, v platném znění.
+
+<sup>30</sup>) Čl. 16 odst. 3 nařízení Komise v přenesené pravomoci (EU) 2017/891.
+
+<sup>32</sup>) § 2 a 4 nařízení vlády č. 247/2004 Sb.
+
+<sup>33</sup>) Čl. 203a nařízení Rady (ES) č. 1234/2007.
+
+<sup>34</sup>) Čl. 64 nařízení Komise (ES) č. 1580/2007.
+
+<sup>36</sup>) Čl. 146 nařízení Komise (ES) č. 1580/2007.
+
+<sup>41</sup>) Čl. 62 prováděcího nařízení Komise (EU) č. 543/2011.
+
+<sup>42</sup>) Čl. 2 písm. a) nařízení Komise v přenesené pravomoci (EU) 2017/891.
+
+<sup>43</sup>) Čl. 19 písm. g) prováděcího nařízení Komise (EU) č. 543/2011, v platném znění.
+
+<sup>44</sup>) Čl. 44 a čl. 49 písm. a) nařízení Komise v přenesené pravomoci (EU) 2017/891.
+
+<sup>45</sup>) Čl. 34 odst. 4 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, v platném znění. 
+ Čl. 80 odst. 2 prováděcího nařízení Komise (EU) č. 543/2011, v platném znění.
+
+<sup>46</sup>) Čl. 80 odst. 3 prováděcího nařízení Komise (EU) č. 543/2011, v platném znění.
+
+<sup>54</sup>) Čl. 7 písm. d) nařízení Komise v přenesené pravomoci (EU) 2017/891.
+
+<sup>56</sup>) Čl. 34 odst. 1 nařízení Komise v přenesené pravomoci (EU) 2017/891.
+
+<sup>57</sup>) Čl. 48 odst. 3 třetí pododstavec nařízení Komise v přenesené pravomoci (EU) 2017/891.
+
+<sup>61</sup>) Čl. 13 nařízení Komise v přenesené pravomoci (EU) 2017/891 
+ Čl. 155 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013.

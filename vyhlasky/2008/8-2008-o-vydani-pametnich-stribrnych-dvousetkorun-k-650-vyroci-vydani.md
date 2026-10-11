@@ -1,0 +1,58 @@
+---
+title: "Vyhláška č. 8/2008 Sb., o vydání pamětních stříbrných dvousetkorun k 650. výročí vydání nařízení Karla IV. o zakládání vinic"
+identifier: "8/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/8/2008-02-06"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2008-01-03
+effective: 2008-02-06
+last_amended: 2008-02-06
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/8"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 8/2008 Sb., o vydání pamětních stříbrných dvousetkorun k 650. výročí vydání nařízení Karla IV. o zakládání vinic
+
+8
+
+VYHLÁŠKA
+
+ze dne 3. ledna 2008
+
+o vydání pamětních stříbrných dvousetkorun k 650. výročí vydání nařízení Karla IV. o zakládání vinic
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) K 650. výročí vydání nařízení Karla IV. o zakládání vinic se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“). Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,3 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \*13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je přepis nástěnné malby zobrazující lisování vína, která je součástí svatováclavského cyklu nacházejícího se na stěnách schodiště ke kapli svatého Kříže na Karlštejně. Při spodním okraji dvousetkoruny je název státu „ČESKÁ REPUBLIKA“ a nad ním je označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“. Značka mincovny, která dvousetkorunu razila, je umístěna při horním okraji dvousetkoruny.
+
+(2) Na rubu dvousetkoruny je přepis ilustrace zobrazující kypření půdy, sběr plodů a odnášení hroznů do lisu, která pochází z Velislavovy bible. Nad ním je monogram císaře Karla IV. Při levém, spodním a pravém okraji dvousetkoruny je neuzavřený opis „NAŘÍZENÍ KARLA IV. O ZAKLÁDÁNÍ VINIC“ a letopočty „1358/2008“, které jsou od opisu odděleny tečkou. Autorem návrhu dvousetkoruny je akademický sochař Jiří Věneček, jehož iniciály tvořené spojenými písmeny „jv“ jsou umístěny při spodním okraji dvousetkoruny nad opisem.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 6. února 2008.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### Příloha k vyhlášce č. 8/2008 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny k 650. výročí vydání nařízení Karla IV. o zakládání vinic
+
+(lícní a rubová strana)
+
+#### ![sbcr2008c004z0008o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/881959/NAHLED/ZOBRAZ/sbcr2008c004z0008o001)
+
+#### ![sbcr2008c004z0008o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/881961/NAHLED/ZOBRAZ/sbcr2008c004z0008o002)

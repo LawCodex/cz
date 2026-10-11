@@ -1,0 +1,61 @@
+---
+title: "Zákon č. 182/2014 Sb., kterým se mění zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců, ve znění pozdějších předpisů, a další související zákony"
+identifier: "182/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/182/2015-10-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2014-07-24
+effective: 2014-08-29
+last_amended: 2015-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/182"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 182/2014 Sb., kterým se mění zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců, ve znění pozdějších předpisů, a další související zákony ve znění zákona č. 205/2015 Sb."
+---
+
+# Zákon č. 182/2014 Sb., kterým se mění zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců, ve znění pozdějších předpisů, a další související zákony
+
+182
+
+ZÁKON
+
+ze dne 24. července 2014,
+
+kterým se mění zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců, ve znění pozdějších předpisů, a další související zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST TŘETÍ – Změna zákona č. 262/2006 Sb.
+
+### Čl. III
+
+V § 365 odst. 2 zákona č. 262/2006 Sb., zákoník práce, ve znění zákona č. 365/2011 Sb., se číslo „9“ nahrazuje číslem „4“.
+
+## ČÁST ČTVRTÁ – Změna zákona č. 264/2006 Sb.
+
+### Čl. IV
+
+V části šedesáté první čl. LXX zákona č. 264/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím zákoníku práce, ve znění zákona č. 218/2007 Sb., zákona č. 282/2009 Sb. a zákona č. 463/2012 Sb., se slova „, a s výjimkou čl. XLIII bodů 1 až 3, které nabývají účinnosti dnem 1. ledna 2015“ zrušují.
+
+## ČÁST ŠESTÁ – Změna zákona č. 261/2007 Sb.
+
+### Čl. VI
+
+Zákon č. 261/2007 Sb., o stabilizaci veřejných rozpočtů, ve znění zákona č. 2/2009 Sb., zákona č. 206/2009 Sb., zákona č. 281/2009 Sb., zákona č. 282/2009 Sb., zákona č. 292/2009 Sb., zákona č. 199/2010 Sb., zákona č. 329/2011 Sb., zákona č. 366/2011 Sb., zákona č. 420/2011 Sb., zákona č. 167/2012 Sb., zákona č. 463/2012 Sb., zákona č. 313/2013 Sb., zákonného opatření Senátu č. 340/2013 Sb. a zákonného opatření Senátu č. 344/2013 Sb., se mění takto:
+
+1\. V části první čl. I se bod 4 zrušuje.
+
+2\. V části padesáté druhé čl. LXXXI bodě 1 se na konci písmene e) čárka nahrazuje tečkou a písmeno f) se zrušuje.
+
+## ČÁST OSMÁ – ÚČINNOST
+
+### Čl. VIII
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení, s výjimkou části třetí čl. III, který nabývá účinnosti dnem 1. ledna 2015.
+
+Hamáček v. r.
+
+Zeman v. r.
+
+Sobotka v. r.

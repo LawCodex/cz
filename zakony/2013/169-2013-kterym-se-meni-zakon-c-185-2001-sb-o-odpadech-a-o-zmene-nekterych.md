@@ -1,0 +1,65 @@
+---
+title: "Zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů"
+identifier: "169/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/169/2021-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2013-05-16
+effective: 2013-10-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/169"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů ve znění zákona č. 184/2014 Sb., zákona č. 223/2015 Sb. a zákona č. 541/2020 Sb."
+---
+
+# Zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů
+
+169
+
+ZÁKON
+
+ze dne 16. května 2013,
+
+kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí
+
+### Čl. III
+
+V § 4 zákona č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí, ve znění zákona č. 77/2011 Sb., odstavec 1 včetně poznámky pod čarou č. 9 zní:
+
+> „(1) Zřizuje se integrovaný systém plnění ohlašovacích povinností v oblasti životního prostředí, který slouží k plnění ohlašovacích povinností podle § 3 a podle zvláštních právních předpisů<sup>6</sup>) i k jiným úkonům, stanoví-li tak zvláštní právní předpis<sup>9</sup>). Integrovaný systém plnění ohlašovacích povinností v oblasti životního prostředí vede ministerstvo.
+
+> <sup>9</sup>) Například zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů.“.
+
+## ČÁST TŘETÍ – Změna zákona o podmínkách provozu vozidel na pozemních komunikacích
+
+### Čl. IV
+
+Zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb., ve znění zákona č. 478/2001 Sb., zákona č. 175/2002 Sb., zákona č. 320/2002 Sb., zákona č. 193/2003 Sb., zákona č. 103/2004 Sb., zákona č. 186/2004 Sb., zákona č. 237/2004 Sb., zákona č. 411/2005 Sb., zákona č. 226/2006 Sb., zákona č. 311/2006 Sb., zákona č. 342/2006 Sb., zákona č. 170/2007 Sb., zákona č. 124/2008 Sb., zákona č. 137/2008 Sb., zákona č. 383/2008 Sb., zákona č. 227/2009 Sb., zákona č. 297/2009 Sb., zákona č. 347/2009 Sb., zákona č. 30/2011 Sb., zákona č. 152/2011 Sb., zákona č. 341/2011 Sb., zákona č. 457/2011 Sb. a zákona č. 18/2012 Sb., se mění takto:
+
+1\. V § 13 odst. 1 písm. a) se slova „nebo zanikl účel jejich využití“ zrušují.
+
+2\. V § 13 odst. 2 se slova „nebo jejich dalšího využití“ zrušují.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. V
+
+Tento zákon nabývá účinnosti dnem 1. října 2013, s výjimkou čl. I bodu 47, který nabývá účinnosti dnem 1. ledna 2015, čl. I bodu 57, který nabývá účinnosti dnem 1. ledna 2014, a čl. I bodů 24, 58 až 67 a 104, které nabývají účinnosti dnem 1. ledna 2016.
+
+Němcová v. r.
+
+Zeman v. r.
+
+Nečas v. r.
+
+---
+
+<sup>1</sup>) Nařízení vlády č. 336/2004 Sb., kterým se stanoví technické požadavky na zdravotnické prostředky a kterým se mění nařízení vlády č. 251/2003 Sb., kterým se mění některá nařízení vlády vydaná k provedení zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Nařízení vlády č. 453/2004 Sb., kterým se stanoví technické požadavky na diagnostické zdravotnické prostředky in vitro, ve znění pozdějších předpisů.

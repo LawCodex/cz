@@ -1,0 +1,88 @@
+---
+title: "Nařízení vlády č. 423/2016 Sb., kterým se mění nařízení vlády č. 50/2015 Sb., o stanovení některých podmínek poskytování přímých plateb zemědělcům a o změně některých souvisejících nařízení vlády, ve znění pozdějších předpisů"
+identifier: "423/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/423/2017-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2016-12-14
+effective: 2017-01-01
+last_amended: 2017-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/423"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 423/2016 Sb., kterým se mění nařízení vlády č. 50/2015 Sb., o stanovení některých podmínek poskytování přímých plateb zemědělcům a o změně některých souvisejících nařízení vlády, ve znění pozdějších předpisů
+
+423
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. prosince 2016,
+
+kterým se mění nařízení vlády č. 50/2015 Sb., o stanovení některých podmínek poskytování přímých plateb zemědělcům a o změně některých souvisejících nařízení vlády, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb., zákona č. 441/2005 Sb. a zákona č. 291/2009 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb., zákona č. 291/2009 Sb. a zákona č. 179/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 50/2015 Sb., o stanovení některých podmínek poskytování přímých plateb zemědělcům a o změně některých souvisejících nařízení vlády, ve znění nařízení vlády č. 113/2015 Sb., nařízení vlády č. 185/2015 Sb., nařízení vlády č. 61/2016 Sb. a nařízení vlády č. 236/2016 Sb., se mění takto:
+
+1\. V § 6 odstavec 1 zní:
+
+> „(1) Žádost o poskytnutí jednotné platby na plochu zemědělské půdy kromě náležitostí stanovených v § 4 obsahuje identifikační číslo dílu půdního bloku.“.
+
+2\. V § 7 se na konci odstavce 1 doplňuje věta „Zemědělská půda se zemědělskou kulturou jiná kultura není způsobilá pro poskytnutí této platby.“.
+
+3\. V § 7 odst. 2 písm. c) se slova „podle písmene b)“ zrušují.
+
+4\. V § 9 se doplňuje odstavec 3, který zní:
+
+> „(3) Žadatel, na kterého se vztahuje diverzifikace plodin, uvede v žádosti o poskytnutí platby pro zemědělce dodržující zemědělské postupy příznivé pro klima a životní prostředí pouze identifikační číslo dílu půdního bloku s kulturou orná půda. Žadatel u druhu zemědělské kultury standardní orná půda zároveň uvede název plodiny a její výměru, ze které Fond vypočte podíl jednotlivých plodin v rámci diverzifikace plodin.“.
+
+5\. V § 10 se doplňuje odstavec 6, který zní:
+
+> „(6) O porušení ochrany trvalých travních porostů podle přímo použitelného předpisu Evropské unie<sup>25</sup>) se nejedná v případě jednotlivé environmentálně citlivé plochy menší než 0,01 ha; při výpočtu číselných údajů použije Fond matematické zaokrouhlování na 2 desetinná místa.“.
+
+6\. V § 11 se doplňuje odstavec 4, který zní:
+
+> „(4) Žadatel, který využívá plochu v ekologickém zájmu, uvede v žádosti o poskytnutí platby pro zemědělce dodržující zemědělské postupy příznivé pro klima a životní prostředí identifikační číslo dílu půdního bloku, druh plochy využívané v ekologickém zájmu<sup>16</sup>) podle § 11 odst. 1 a její výměru.“.
+
+7\. V § 12 odst. 1 se slova „po dobu nejvýše 3 let“ a slovo „jedné“ zrušují.
+
+8\. V § 12 odst. 3 úvodní části ustanovení se slova „nebo jedné jeho části o výměře nejvýše 5 ha“ nahrazují slovy „nebo jeho části“.
+
+9\. V § 14 odst. 2 písm. b) se za slova „na které se“ vkládají slova „minimálně od 1. června do 15. července kalendářního roku“.
+
+10\. V § 20 se odstavec 7 zrušuje.
+
+Dosavadní odstavce 8 a 9 se označují jako odstavce 7 a 8.
+
+11\. V § 25 odst. 2 písm. w) se slovo „salátová“ zrušuje.
+
+12\. V § 31 odst. 1 se za slovo „evidovaných“ vkládají slova „na žadatele“ a za slovo „půdy“ se vkládá slovo „a“.
+
+13\. V nadpisu § 32 se za slovo „Snížení“ vkládají slova „nebo neposkytnutí“.
+
+14\. V § 32 odst. 6 se za slovo „dokladů“ vkládají slova „a potvrzení podle § 20 odst. 5 písm. a) a b) nebo nepředložení dokladů“.
+
+15\. V příloze č. 7 ve sloupci „Druh zeleniny“ se slova „čekanka salátová“ nahrazují slovem „čekanka“.
+
+## Čl. II – Přechodná ustanovení
+
+1\. V řízeních o žádostech o poskytnutí platby pro zemědělce dodržující zemědělské postupy příznivé pro klima a životní prostředí zahájených přede dnem nabytí účinnosti tohoto nařízení a do tohoto dne neskončených se pro posouzení porušení ochrany trvalých travních porostů použije § 10 odst. 6 nařízení vlády č. 50/2015 Sb., ve znění účinném ode dne nabytí účinnosti tohoto nařízení.
+
+2\. S výjimkou bodu 1 se řízení o žádostech zahájená přede dnem nabytí účinnosti tohoto nařízení a do tohoto dne neskončená dokončí a práva a povinnosti s nimi související se posuzují podle nařízení vlády č. 50/2015 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2017.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr zemědělství:
+
+Ing. Jurečka v. r.

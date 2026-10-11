@@ -1,0 +1,611 @@
+---
+title: "Nařízení vlády č. 291/2015 Sb., o ochraně zdraví před neionizujícím zářením"
+identifier: "291/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/291/2015-11-18"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2015-10-05
+effective: 2015-11-18
+last_amended: 2015-11-18
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/291"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 291/2015 Sb., o ochraně zdraví před neionizujícím zářením
+
+291
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 5. října 2015
+
+o ochraně zdraví před neionizujícím zářením
+
+Vláda nařizuje podle § 108 odst. 3 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 274/2001 Sb., zákona č. 274/2003 Sb., zákona č. 392/2005 Sb., zákona č. 222/2006 Sb., zákona č. 110/2007 Sb., zákona č. 151/2011 Sb. a zákona č. 223/2013 Sb., (dále jen „zákon o ochraně veřejného zdraví“) k provedení § 35 odst. 2 a § 36 zákona o ochraně veřejného zdraví, podle § 21 písm. a) zákona č. 309/2006 Sb., kterým se upravují další požadavky bezpečnosti a ochrany zdraví při práci v pracovněprávních vztazích a o zajištění bezpečnosti a ochrany zdraví při činnosti nebo poskytování služeb mimo pracovněprávní vztahy (zákon o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci), ve znění zákona č. 362/2007 Sb. a zákona č. 189/2008 Sb., k provedení § 6 odst. 2 a § 7 zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci a k provedení zákona č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení zapracovává příslušné předpisy Evropské unie<sup>1</sup>) a upravuje
+
+a) nejvyšší přípustné hodnoty neionizujícího záření (dále jen „nejvyšší přípustné hodnoty“) ve frekvenční oblasti od 0 Hz do 1,7.10<sup>15</sup> Hz pro zaměstnance a fyzické osoby v komunálním prostředí, způsob jeho zjišťování, hodnocení expozice, minimální rozsah informací o ochraně zdraví při práci a minimální rozsah opatření k ochraně zdraví zaměstnance,
+
+b) podmínky technické dokumentace laserů, zabezpečení jejich provozování a chodu,
+
+c) označení míst, ve kterých nelze vyloučit expozici zaměstnance a fyzické osoby v komunálním prostředí překračující nejvyšší přípustné hodnoty ve frekvenční oblasti od 0 Hz do 1,7.10<sup>15</sup> Hz, výstrahou.
+
+## § 2 – Výjimky z předmětu úpravy
+
+(1) Toto nařízení se nevztahuje na pacienty, kteří jsou při poskytování zdravotní služby exponováni neionizujícímu záření ve frekvenční oblasti od 0 Hz do 1,7.10<sup>15</sup> Hz.
+
+(2) Toto nařízení se nevztahuje na spotřebitele, kteří jsou vědomě a dobrovolně exponováni neionizujícímu záření překračujícímu nejvyšší přípustné hodnoty ve frekvenční oblasti od 0 Hz do 1,7.10<sup>15</sup> Hz při používání speciálních přístrojů k péči o tělo.
+
+(3) Toto nařízení se nevztahuje na riziko spojené s dlouhodobým tepelným stresem organizmu spojeným s expozicí nekoherentnímu infračervenému záření ve frekvenční oblasti od 3.10<sup>11</sup> Hz do 10<sup>14</sup> Hz a na riziko spojené s dotykem vodičů pod napětím, které převyšuje bezpečné dotykové napětí.
+
+## § 3 – Vymezení pojmů
+
+Pro účely tohoto nařízení se rozumí
+
+a) neionizujícím zářením statická elektrická a magnetická a časově proměnná elektrická, magnetická a elektromagnetická pole a elektromagnetická záření z umělých zdrojů s frekvencemi od 0 Hz do 1,7.10<sup>15</sup> Hz,
+
+b) optickým zářením elektromagnetické záření z umělých zdrojů ve frekvenční oblasti od 3.10<sup>11</sup> Hz do 1,7.10<sup>15</sup> Hz odpovídající vlnovým délkám od 180 nm do 1 mm,
+
+c) koherentním zářením optické záření, které vzniká stimulovanou emisí, kde je jednoznačně definována jeho fáze a frekvence; záření vysílané laserem je záření koherentní,
+
+d) nekoherentním zářením optické záření, které vzniká samovolnou emisí záření,
+
+e) laserem jakékoliv zařízení, které může být upraveno k vytváření nebo zesilování elektromagnetického záření v rozsahu vlnových délek optického záření procesem kontrolované stimulované emise,
+
+f) nejvyššími přípustnými hodnotami mezní hodnoty, které vycházejí přímo z prokázaných účinků na zdraví a z údajů o jejich biologickém působení a jejichž nepřekročení zaručuje, že zaměstnanci a fyzické osoby v komunálním prostředí, exponované neionizujícímu záření, jsou chráněny proti všem jeho známým přímým biofyzikálním a nepřímým účinkům,
+
+g) referenčními hodnotami velikosti přímo měřitelných parametrů neionizujícího záření ve frekvenční oblasti od 0 Hz do 3.10<sup>11</sup> Hz, kterými jsou intenzita elektrického pole, magnetická indukce, hustota zářivého toku a kontaktní proud, které slouží k jednoduššímu prokazování nepřekročení nejvyšších přípustných hodnot.
+
+## § 4 – Způsob zjišťování expozice
+
+(1) Zjišťování expozice neionizujícímu záření se provádí výpočtem nebo měřením modifikované intenzity elektrického pole indukovaného v těle exponované osoby, měrného absorbovaného výkonu v těle exponované osoby, hustoty zářivého toku a spektrální záře, intenzity elektrického pole, magnetické indukce nebo kontaktního proudu.
+
+(2) Nepřekročení referenční hodnoty zaručuje, že nejsou překročeny nejvyšší přípustné hodnoty. V případě, že z porovnání vypočtených nebo měřených hodnot příslušných veličin vyplyne, že referenční hodnoty jsou překračovány, musí být výpočtem nebo měřením prokázáno, že nedojde k překračování nejvyšších přípustných hodnot.
+
+(3) Při srovnání expozice zaměstnance a fyzické osoby v komunálním prostředí s nejvyššími přípustnými hodnotami nebo s referenčními hodnotami se nejistota způsobená nepřesností výpočtu, přibližností teoretického modelu nebo nepřesností měření použitým přístrojem a podmínkami měření započte tak, že je-li
+
+a) střední relativní chyba výpočtu nebo měření příslušné veličiny menší než 1 dB nebo 12,5 % u intenzit polí a 25 % u výkonových veličin, pokládá se nejvyšší přípustná hodnota nebo referenční hodnota za nepřekročenou, je-li vypočtená nebo naměřená hodnota rovna nejvyšší přípustné hodnotě nebo referenční hodnotě, nebo je-li nižší,
+
+b) střední relativní chyba zjišťované veličiny větší než 1 dB, pokládá se nejvyšší přípustná hodnota nebo referenční hodnota za nepřekročenou, je-li vypočtená nebo měřená hodnota příslušné veličiny nižší, než její nejvyšší přípustná hodnota nebo referenční hodnota snížená o tolik decibelů, o kolik decibelů přesahuje střední relativní chyba 1 dB.
+
+(4) Nejvyšší přípustné hodnoty a referenční hodnoty jsou upraveny v přílohách č. 1 až 3 k tomuto nařízení.
+
+## § 5 – Hodnocení expozice
+
+(1) Při hodnocení expozice zaměstnance a fyzické osoby v komunálním prostředí neionizujícímu záření ve frekvenční oblasti od 0 Hz do 1,7.10<sup>15</sup> Hz se mimo nejvyšších přípustných hodnot a referenčních hodnot zohledňují dále zejména
+
+a) přímé biofyzikální účinky,
+
+b) intenzita záření, frekvenční spektrum, trvání a typ expozice,
+
+c) expozice polím a zářením s různými kmitočty a expozice více zdrojům neionizujícího záření,
+
+d) informace poskytnuté výrobcem zařízení produkujícího neionizující záření, včetně zařazení laserů do třídy v rozsahu požadavků příslušné technické normy, a
+
+e) nepřímé biofyzikální účinky, jakými jsou
+
+1\. rušení elektronických přístrojů a zařízení, včetně kardiostimulátorů a jiných elektronických zdravotnických prostředků,
+
+2\. rizika spojená s vymrštěním feromagnetických předmětů působením statického magnetického pole s magnetickou indukcí vyšší než 3 mT,
+
+3\. nebezpečí zážehu elektricky ovládaných detonátorů,
+
+4\. požáry a exploze v důsledku zapálení hořlavých materiálů optickým zářením, jiskrami způsobenými kontaktními proudy nebo jiskrovými výboji,
+
+5\. rizika spojená s interakcí mezi optickým zářením a chemickými látkami s fotosenzibilizujícími účinky, nebo
+
+6\. rizika spojená s dočasným oslněním optickým zářením.
+
+(2) Při hodnocení expozice zaměstnance neionizujícímu záření se dále zohledňují
+
+a) všechny účinky na zdraví a bezpečnost specificky ohrožených zaměstnanců, zejména zaměstnanců s implantovanými elektronickými zdravotnickými prostředky a těhotných zaměstnankyň, a
+
+b) informace získané poskytovatelem pracovnělékařských služeb při pravidelném dohledu na pracovištích zaměřeném na zjišťování a hodnocení rizikových faktorů.
+
+## § 6 – Minimální rozsah opatření k ochraně zdraví zaměstnance při práci s neionizujícím zářením
+
+(1) Pokud z hodnocení expozice vyplývá, že zaměstnanec je nebo může být exponován neionizujícímu záření překračujícímu nejvyšší přípustné hodnoty, je nutné přijmout k ochraně jeho zdraví alespoň jedno z následujících opatření:
+
+a) zajistit organizaci práce, pracovní postup a uspořádání pracoviště tak, aby bylo dosaženo snížení expozice zaměstnance elektromagnetickému poli pod nejvyšší přípustné hodnoty,
+
+b) zajistit osobní ochranné pracovní prostředky, pokud jsou pro daný druh neionizujícího záření dostupné, které sníží expozici elektromagnetickému poli pod nejvyšší přípustné hodnoty.
+
+(2) Lasery třídy 3B a 4 se vybavují signalizací chodu, a to světelnou nebo akustickou. Světelná signalizace se upraví tak, aby byla v činnosti již při zapojení napájecích zdrojů. Barva signálního světla musí být vybrána tak, aby světlo bylo viditelné i přes ochranné brýle.
+
+(3) Lasery zařazené do třídy 3B a 4 se zabezpečí proti uvedení do chodu nepovolanou fyzickou osobou. Prostory určené pro jejich provozování se označí bezpečnostními značkami pro laserové záření a zákazem vstupu nepovolaných fyzických osob. Z dráhy paprsku se odstraní všechny předměty, na nichž by mohlo dojít k nekontrolovanému zrcadlovému odrazu paprsku a paprsek se ukončí matným terčem s malým činitelem odrazu. Není-li možné zajistit chod paprsku tak, aby nezasáhl sklo v oknech, zakryjí se okna materiálem nepropouštějícím záření použité vlnové délky. U impulsních laserů se zajistí, aby byla, při vypnutí přívodu elektrické energie, akumulovaná energie vybita do zátěže.
+
+## § 7 – Minimální rozsah informací poskytnutých zaměstnanci k ochraně zdraví při práci
+
+Zaměstnavatel před započetím prací spojených s expozicí neionizujícímu záření ve frekvenční oblasti od 0 Hz do 1,7.10<sup>15</sup> Hz poskytne zaměstnanci informace o
+
+a) nejvyšších přípustných hodnotách, způsobu jejich zjišťování a o možných rizicích, která vyplývají z jejich překročení,
+
+b) přímých i nepřímých účincích na zdraví,
+
+c) způsobu, jak rozpoznat zdraví škodlivé účinky a jak je ohlašovat,
+
+d) přijatých pracovních postupech,
+
+e) opatřeních přijatých k ochraně zdraví při práci a
+
+f) o správném používání osobních ochranných pracovních prostředků.
+
+## § 8 – Obsah technické dokumentace o údajích nezbytných pro ochranu zdraví při zacházení s lasery
+
+Ke každému laseru musí být připojena technická dokumentace, v níž jsou obsaženy tyto údaje:
+
+a) vlnová délka laserového záření a druh laserového aktivního prostředí; jde-li o lasery vyzařující záření o větším počtu vlnových délek, udávají se všechny vyzařované vlnové délky,
+
+b) režim generování laserového záření; udává se, zda jde o spojitý, impulsní nebo impulsní s vysokou opakovací frekvencí,
+
+c) průměr svazku záření na výstupu laseru a jeho rozbíhavost; u sbíhavého svazku také jeho nejmenší průměr,
+
+d) u laserů generujících záření
+
+1\. ve spojitém režimu největší zářivý tok,
+
+2\. v impulsním režimu zářivá energie v jednom impulsu, nejdelší a nejkratší trvání jednoho impulsu, největší a nejmenší opakovací frekvence impulsů, nebo
+
+3\. v impulsním režimu s vysokou opakovací frekvencí údaje jako v bodu 2 a dále největší střední zářivý tok vystupujícího záření,
+
+e) zařazení laseru do třídy v rozsahu požadavků příslušné české technické normy,
+
+f) návod k obsluze, návod k údržbě, a je-li to zapotřebí, důležitá upozornění, jako je zákaz snímání krytu u laserů opatřených krytem nebo upozornění na nebezpečí vyplývající z pozorování paprsku optickými pomůckami,
+
+g) výrobní číslo laseru a rok jeho výroby, obchodní firma nebo název a sídlo výrobce, jde-li o právnickou osobu, nebo jméno, popřípadě jména, příjmení nebo obchodní firma a místo podnikání výrobce, jde-li o fyzickou osobu,
+
+h) údaje o jiných faktorech než záření, vznikajících při chodu laseru, které by mohly nepříznivě ovlivnit pracovní podmínky nebo zdraví, a
+
+i) v případě laserů zařazených do třídy 4 návod ke správné montáži a instalaci, včetně stavebních a prostorových požadavků.
+
+## § 9 – Bezpečnostní značky
+
+(1) Lasery zařazené do třídy 2 a vyšší se opatří bezpečnostní značkou<sup>2</sup>) a výstražným textem v českém jazyce<sup>2</sup>) odpovídajícím příslušné třídě laseru.
+
+(2) Místa, ve kterých mohou být překročeny nejvyšší přípustné hodnoty ve frekvenční oblasti od 0 Hz do 1,7.10<sup>15</sup> Hz, musí být označena bezpečnostními značkami podle jiného právního předpisu<sup>2</sup>) a zákazem vstupu nepovolaných fyzických osob.
+
+(3) Místa, ve kterých jsou překročeny referenční hodnoty magnetické indukce platné pro fyzické osoby v komunálním prostředí ve frekvenční oblasti od 0 Hz do 300 Hz, musí být označena bezpečnostní značkou upozorňující fyzické osoby používající kardiostimulátor na možné riziko.
+
+## § 10 – Zrušovací ustanovení
+
+Zrušuje se:
+
+1\. Nařízení vlády č. 1/2008 Sb., o ochraně zdraví před neionizujícím zářením.
+
+2\. Nařízení vlády č. 106/2010 Sb., kterým se mění nařízení vlády č. 1/2008 Sb., o ochraně zdraví před neionizujícím zářením.
+
+## § 11 – Technický předpis
+
+Toto nařízení vlády bylo oznámeno v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu při poskytování informací v oblasti norem a technických předpisů a předpisů pro služby informační společnosti, v platném znění.
+
+## § 12 – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr zdravotnictví:
+
+MUDr. Němeček, MBA, v. r.
+
+### Příloha č. 1 k nařízení vlády č. 291/2015 Sb.
+
+#### Nejvyšší přípustné hodnoty a referenční hodnoty ve frekvenčním pásmu od 0 Hz do 300 GHz
+
+1\. Nejvyšší přípustná hodnota pro účinky způsobené elektrickou stimulací tkáně polem ve frekvenčním pásmu od 0 Hz do 10 MHz je dána modifikovanou intenzitou elektrického pole E<sub>mod</sub> (t) indukovaného v tkáni, což je intenzita elektrického pole indukovaného v tkáni modifikovaná lineárním filtrem s frekvenční charakteristikou G (ƒ). Pro nepřekročení nejvyšší přípustné hodnoty nesmí v žádném časovém okamžiku velikost modifikované intenzity elektrického pole E<sub>mod</sub> (t) překročit hodnotu 1 V.m<sup>-1</sup> pro zaměstnance a 0,2 V.m<sup>-1</sup> pro fyzické osoby v komunálním prostředí.
+
+1.1 Při výpočtu intenzity elektrického pole indukovaného v tkáni se provádí prostorové středování přes oblast tvaru krychle o rozměrech 2 × 2 × 2 mm<sup>3</sup>.
+
+1.2 Filtr určující modifikovanou intenzitu elektrického pole E<sub>mod</sub> je definován takto:
+
+a) Pro expozici celého těla s výjimkou hlavy má frekvenční charakteristika filtru tvar
+
+G(f)=(1)/(√(2) .0,8).(1)/(1+j(f)/(f<sub>0</sub>))
+
+f<sub>0</sub>=3000 Hz
+
+kde ƒ je frekvence v hertzech aj=√(-1) je imaginární jednotka. Frekvenční charakteristika filtruje definována na základě prahové hodnoty pro stimulaci periferní nervové soustavy.
+
+b) Pro expozici hlavy má frekvenční charakteristika filtru tvar
+
+Gf=(1)/(√(2).0,05).(1+j(f)/(f<sub>1</sub>))/(1+j(f)/(f<sub>0</sub>)1+j(f)/(f<sub>2</sub>))
+
+f<sub>0</sub>=25 Hz; f<sub>1</sub>=400 Hz; f<sub>2</sub>=3000 Hz
+
+kde ƒ je frekvence v hertzech aj=√(-1) je imaginární jednotka. Frekvenční charakteristika filtru je definována na základě prahové hodnoty pro stimulaci centrální nervové soustavy v hlavě (fosfeny) a vestibulárního aparátu (závrať).
+
+2\. Nejvyšší přípustná hodnota pro účinky způsobené elektrickým a magnetickým polem s frekvencí nižší než 1 Hz je definována takto:
+
+a) Nejvyšší přípustná hodnota pro expozici elektrickému poli je dána špičkovou hodnotou intenzity elektrického pole√(2)×20 000 V.m<sup>-1</sup> pro zaměstnance a √(2)×5 000 V.m<sup>-1</sup> pro fyzické osoby v komunálním prostředí. Tato nejvyšší přípustná hodnota poskytuje fyzickým osobám v komunálním prostředí ochranu proti rizikům spojeným s jiskrovými výboji, obecně však tuto ochranu neposkytuje zaměstnancům. U zaměstnanců je riziko způsobené jiskrovými výboji nutné minimalizovat pomocí technických opatření nebo školením.
+
+b) Nejvyšší přípustná hodnota pro expozici hlavy nebo hrudi magnetickému poli je dána špičkovou hodnotou magnetické indukce 2 T pro zaměstnance a 0,4 T pro fyzické osoby v komunálním prostředí. Tato nejvyšší přípustná hodnota poskytuje ochranu proti rizikům spojeným s pohybem ve statickém magnetickém poli. V případech proškolených zaměstnanců, u nichž je možné kontrolovat rychlost a způsob pohybu, je možné připustit expozici magnetickému poli se špičkovou hodnotou magnetické indukce 8 T.
+
+c) Nejvyšší přípustná hodnota pro expozici končetin magnetickému poli je dána špičkovou hodnotou magnetické indukce 8 T pro zaměstnance. Pro fyzické osoby se písmeno c) nepoužívá.
+
+V případech uvedených v písmenech a) až c) se polem vždy rozumí pole bez přítomnosti exponované osoby.
+
+3\. Nejvyšší přípustná hodnota pro účinky způsobené zvýšením teploty tkáně ve frekvenčním pásmu od 100 kHz do 6 GHz je definována takto:
+
+a) Nejvyšší přípustná hodnota pro celotělovou expozici je dána časově střední hodnotou měrného absorbovaného výkonu (SAR) 0,4 W.kg<sup>-1</sup> pro zaměstnance a 0,08 W.kg<sup>-1</sup> pro fyzické osoby v komunálním prostředí.
+
+b) Nejvyšší přípustná hodnota pro lokální expozici je dána časově střední hodnotou měrného absorbovaného výkonu 10 W.kg<sup>-1</sup> pro zaměstnance a 2 W.kg<sup>-1</sup> pro fyzické osoby v komunálním prostředí.
+
+c) Nejvyšší přípustná hodnota pro lokální expozici končetin je dána časově střední hodnotou měrného absorbovaného výkonu 20 W.kg<sup>-1</sup> pro zaměstnance a 4 W.kg<sup>-1</sup> pro fyzické osoby v komunálním prostředí.
+
+d) Nejvyšší přípustná hodnota pro expozici hlavy impulsnímu elektromagnetickému poli ve frekvenčním pásmu od 0,3 GHz do 6 GHz s pulzy o délce kratší než 30 μs je dána měrnou absorbovanou energií 0,01 J.kg<sup>-1</sup> pro zaměstnance a 0,002 J.kg<sup>-1</sup> pro fyzické osoby v komunálním prostředí. Tato nejvyšší přípustná hodnota slouží k vyloučení akustických efektů způsobených tepelnou roztažností tkáně.
+
+V případech uvedených v písmenech a) až d) jsou časově střední hodnoty určovány jako průměry přes každý šestiminutový interval. Při výpočtu lokální expozice se provádí průměrovaní přes oblast tvaru krychle s téměř homogenními elektrickými vlastnostmi o hmotnosti 10 g.
+
+4\. Nejvyšší přípustná hodnota pro účinky způsobené zvýšením teploty tkáně ve frekvenčním pásmu od 6 GHz do 300 GHz je definována časově střední hodnotou hustoty zářivého toku 50 W.m<sup>-2</sup> pro zaměstnance a 10 W.m<sup>-2</sup> pro fyzické osoby v komunálním prostředí. Při hodnocení expozice se provádí plošné průměrování přes každých 20 cm<sup>2</sup> exponované části těla, přičemž maximum hustoty zářivého toku průměrované přes každých 1 cm<sup>2</sup> exponovaného povrchu nesmí překročit 1000 W.m<sup>-2</sup> pro zaměstnance a 200 W.m<sup>-2</sup> pro fyzické osoby v komunálním prostředí. Časové středování se provádí přes každý šestiminutový interval expozice pro frekvence od 6 GHz do 10 GHz a přes každý interval expozice o délce T=1,92.10<sup>11</sup>/f<sup>1,05</sup>, kde T je v minutách a ƒ je v hertzech, pro frekvence od 10 GHz do 300 GHz.
+
+5\. Referenční hodnoty jsou zavedeny pro intenzitu elektrického pole E, magnetickou indukci B, hustotu zářivého toku S a kontaktní proud I<sub>c</sub>, s cílem zjednodušit posouzení expoziční situace. Referenční hodnoty jsou definovány pomocí veličin E<sub>n</sub><sup>Limit</sup>, B<sub>n</sub><sup>Limit</sup>, S<sub>n</sub><sup>Limit</sup>, I<sub>c,n</sub><sup>Limit</sup>, uvedených v tabulkách 1 až 4 této přílohy. Pro nepřekročení referenční hodnoty je třeba splnit následující kritéria při H<sub>lim</sub> = 1 pro zaměstnance a H<sub>lim</sub> = 0,2 pro fyzické osoby v komunálním prostředí:
+
+a) Kritérium pro elektrickou stimulaci tkáně
+
+∑f=0 IIz3 kIIz(E<sub>n</sub>)/(E<sub>n</sub><sup>limit</sup>)+∑f=3 kIIz10 MIIz(E<sub>n</sub>)/(a)+∑f=0 IIz3 kIIz(B<sub>n</sub>)/(B<sub>n</sub><sup>limit</sup>)+∑f=3 kIIz10 MIIz(B<sub>n</sub>)/(b)≤H<sub>lim</sub>
+
+∑f=0 Hz10 MIIz(I<sub>c,n</sub>)/(I<sub>c,n</sub><sup>limit</sup>)≤H<sub>lim</sub>
+
+a=170V.m<sup>-1</sup>; b=10<sup>-4</sup> T
+
+b) Kritérium pro zvýšení teploty tkáně
+
+∑f=100 kHz10 MHz(E<sub>n</sub>)/(c)<sup>2</sup>+∑f=10 MHz300 GHz(E<sub>n</sub>)/(E<sub>n</sub><sup>limit</sup>)<sup>2</sup>+∑f=100 kHz10 MHz(B<sub>n</sub>)/(d)<sup>2</sup>+∑f=10 MHz300 GHz(B<sub>n</sub>)/(B<sub>n</sub><sup>limit</sup>)<sup>2</sup>≤H<sub>lim</sub>
+
+∑f=10 MIIz300 GIIz(S<sub>n</sub>)/(S<sub>n</sub><sup>limit</sup>)≤H<sub>lim</sub>
+
+∑f=100 kIIz100 MIIz(I<sub>c,n</sub>)/(I<sub>c,n</sub><sup>limit</sup>)<sup>2</sup>≤H<sub>lim</sub>
+
+c=61.10<sup>7</sup>/fv.m<sup>-1</sup>; d=2/fT
+
+Pro zamezení akustických efektů způsobených tepelnou roztažností tkáně nesmí špičková hodnota hustoty zářivého toku dopadajícího na hlavu exponované osoby překročit tisícinásobek S<sup>limit</sup> pro rozsah frekvencí od 0,3 GHz do 6 GHz.
+
+5.1 Jsou-li v kritériích uvedených v bodě 5 písm. a) nebo b) uváděny veličiny pole (E<sub>n</sub>, B<sub>n</sub>, S<sub>n</sub>), vždy se jedná o prostorová maxima efektivní hodnoty jednotlivých frekvenčních složek pole v objemu vymezeném exponovanou osobou avšak bez její přítomnosti. Pro kritérium uvedené v bodě 5 písm. b) dále platí, že se efektivní hodnoty frekvenčních složek pole středují přes každý šestiminutový interval pro frekvence od 100 kHz do 10 GHz a přes každý interval o délce T-1.92.10<sup>11</sup>/f<sup>1.05</sup>, kde T je v minutách a ƒ je v hertzech pro frekvenční rozsah od 10 GHz do 300 GHz.
+
+##### Tabulka č. 1 Frekvenční průběh veličiny E<sup>limit</sup> (efektivní hodnoty)
+
+| ƒ[Hz] | E<sup>limit</sup> [V.m<sup>-1</sup>] |
+|---|---|
+| 0 – 25 | 20 000 |
+| 25 – 3 000 | 5.10<sup>5</sup> /ƒ |
+| 3 000 – 3,6.10<sup>6</sup> | 170 |
+| 3,6.10<sup>6</sup>– 10<sup>7</sup><sup><br></sup> | 6,1.10<sup>8</sup>/ƒ |
+| 10<sup>7</sup>– 4.10<sup>8</sup> | 61 |
+| 4.10<sup>8</sup>– 2.10<sup>9</sup><sup><br></sup> | 0,003.ƒ<sup>0.5</sup> |
+| 2.10<sup>9</sup>– 3.10<sup>11</sup><sup><br></sup> | 137 |
+
+##### Tabulka č. 2 Frekvenční průběh veličiny B<sup>limit</sup> (efektivní hodnoty)
+
+| ƒ[Hz] | B<sup>limit</sup> [T] |
+|---|---|
+| 0 – 1 | 0,025 |
+| 1 – 25 | 0,025 / ƒ |
+| 25 – 300 | 10<sup>-3</sup> |
+| 300 – 3 000 | 0,3 / ƒ |
+| 3 000 – 2.10<sup>4</sup> | 10<sup>-4</sup> |
+| 2.10<sup>4</sup>– 10<sup>7</sup> | 2 / ƒ |
+| 10<sup>7</sup>– 4.10<sup>8</sup> | 2.10<sup>-7</sup> |
+| 4.10<sup>8</sup>– 2.10<sup>9</sup> | 10<sup>-11</sup>ƒ<sup>0.5</sup> |
+| 2.10<sup>9</sup>– 3.10<sup>11</sup> | 4,5.10<sup>-7</sup> |
+
+##### Tabulka č. 3 Frekvenční průběh veličiny S<sup>limit</sup>
+
+| ƒ/[Hz] | S<sup>limit</sup> [W•m<sup>-2</sup>] |
+|---|---|
+| 10<sup>7</sup>– 4.10<sup>8</sup> | 10 |
+| 4.10<sup>8</sup>– 2.10<sup>9</sup> | ƒ/4.10<sup>7</sup> |
+| 2.10<sup>9</sup>– 3.10<sup>11</sup> | 50 |
+
+##### Tabulka č. 4 Frekvenční průběh veličinyI<sub>c</sub><sup>limit</sup> (efektivní hodnoty)
+
+| ƒ/[Hz] | I<sub>c</sub><sup>limit</sup> [A] |
+|---|---|
+| 0 – 2,5.10<sup>3</sup> | 10<sup>-3</sup> |
+| 2,5.10<sup>3</sup>– 10<sup>5</sup> | 4.10<sup>-7.</sup>ƒ |
+| 10<sup>5</sup>– 10<sup>8</sup> | 0,04 |
+
+### Příloha č. 2 k nařízení vlády č. 291/2015 Sb.
+
+#### Nejvyšší přípustné hodnoty ultrafialového, viditelného a infračerveného záření nekoherentních (nelaserových) technologických zdrojů
+
+1\. Rozsah vlnových délek a vymezení typů optického záření
+
+1.1 Ultrafialové (UV) záření je pro účely tohoto nařízení definováno jako optické záření v rozsahu vlnových délek od 180 nm do 400 nm.
+
+1.1.1 UVC záření je definováno jako optické záření v rozsahu vlnových délek od 180 nm do 280 nm.
+
+1.1.2 UVB záření je definováno jako optické záření v rozsahu vlnových délek od 280 nm do 315 nm.
+
+1.1.3 UVA záření je definováno jako optické záření v rozsahu vlnových délek od 315 nm do 400 nm.
+
+1.2 Viditelné záření je optické záření v rozsahu vlnových délek od 400 nm do 780 nm.
+
+1.3 Infračervené (IR) záření je definováno jako optické záření v rozsahu vlnových délek od 780 nm do 1 mm.
+
+1.3.1 IRA záření je definováno jako optické záření v rozsahu vlnových délek od 780 nm do 1400 nm.
+
+1.3.2 IRB záření je definováno jako optické záření v rozsahu vlnových délek od 1400 nm do 3000 nm.
+
+1.3.3 IRC záření je definováno jako optické záření v rozsahu vlnových délek od 3000 nm do 1 mm.
+
+2\. Definice použitých veličin
+
+2.1 Základními radiometrickými veličinami, pomocí nichž jsou stanoveny nejvyšší přípustné hodnoty, jsou:
+
+2.1.1 E<sub>λ</sub>(λ,t) – spektrální hustota zářivého toku - zářivý tok na jednotku plochy kolmou na směr šíření a na jeden nanometr vlnové délky (W.m<sup>-2.</sup>nm<sup>-1</sup>).
+
+2.1.2 L<sub>λ</sub>(λ,t) – spektrální zář - zářivý tok na jednotku plochy kolmou na směr šíření, na jednotkový prostorový úhel ve směru šíření a na jeden nanometr vlnové délky (W.m<sup>-2.</sup>sr<sup>-1.</sup>nm<sup>-1</sup>).
+
+2.2 Biofyzikální účinky nekoherentního optického záření jsou silně závislé na vlnové délce optického záření. Závislost je zohledněna pomocí spektrálních váhových koeficientů:
+
+2.2.1 S(λ) – spektrální váhový koeficient zohledňující závislost účinků ultrafialového záření na oči a kůži na vlnové délce (bezrozměrný).
+
+2.2.2 R(λ) – spektrální váhový koeficient zohledňující závislost tepelného poškození oka způsobeného infračerveným nebo viditelným zářením na vlnové délce (bezrozměrný).
+
+2.2.3 B(λ) – spektrální váhový koeficient zohledňující závislost fotochemického poškození oka způsobeného modrým světlem na vlnové délce (bezrozměrný).
+
+2.3 Nejvyšší přípustné hodnoty jsou specifikovány v tabulce č. 1 této přílohy a jsou stanoveny integrály spektrálních veličin přes příslušný rozsah vlnových délek váhovaných spektrálními váhovými koeficienty:
+
+| H<sub>eff</sub>=∫t∫180nm400nmE<sub>λ</sub>λ,tSλdλdt | H<sub>UVA</sub>=∫t∫315nm400nmE<sub>λ</sub>λ,tdλdt |
+|---|---|
+| L<sub>B</sub>t=∫300nm700nmL<sub>λ</sub>λ,tBλdλ | E<sub>B</sub>t=∫300nm700nmE<sub>λ</sub>λ,tBλdλdt |
+| L<sub>R</sub>t=∫λ<sub>1</sub>λ<sub>2</sub>L<sub>λ</sub>λ,tRλdλ | E<sub>IR</sub>t=∫780nm3000nmE<sub>λ</sub>λ,tdλ |
+| H<sub>kůže</sub>=∫t∫380nm3000nmE<sub>λ</sub>λ,tdλdt | |
+
+#### Tabulka č. 1 Nejvyšší přípustné hodnoty nekoherentního optického záření
+
+<table><tbody><tr><th>Index</th><th>Vlnová délka [nm]</th><th>Nejvyšší přípustná hodnota</th><th>Jednotky</th><th>Poznámka</th><th>Část těla</th><th>Riziko</th></tr><tr><td>a.</td><td>180 – 400<br> (UVA, UVB a UVC)</td><td>H<sub>eff</sub> = 30<br> denní hodnota 8 hodin</td><td rowspan="2">[J.m-<sup>2</sup>]</td><td rowspan="2"></td><td>oko - <br> rohovka,<br> spojivka,<br> čočka,<br> kůže</td><td>fotokeratitida <br> zánět spojivek<br> vznik očního zákalu<br> erytém<br> elastósa<br> rakovina kůže</td></tr><tr><td>b.</td><td>315 – 400 (UVA)</td><td>H<sub>UVA</sub> = 10<sup>4</sup><br> denní hodnota 8 hodin</td><td>oko - čočka</td><td>vznik očního zákalu</td></tr><tr><td>c.</td><td>300 – 700<br> (modré světlo)<br> viz poznámka č. 1</td><td>L<sub>B</sub> = 10<sup>6.</sup>t<sup>-1<br></sup>pro t ≤ 10 000 s</td><td>L<sub>B</sub> [W.m<sup>-2</sup>.sr<sup>-1</sup>] t [s]</td><td rowspan="2">Pro α ≥ 11 mrad<br> L<sub>B</sub> je časově střední hodnota z L<sub>B</sub>(t)</td><td rowspan="10">oko - sítnice</td><td rowspan="4">photoretinitis, zánět<br> sítnice vlivem intenzivního světla</td></tr><tr><td>d.</td><td>300 – 700<br> (modré světlo)<br> viz poznámka č. 1</td><td>L<sub>B </sub>= 100<br> pro t &gt; 10 000 s</td><td>[W.m<sup>-2</sup>.sr<sup>-1</sup>]</td></tr><tr><td>e.</td><td>300 – 700<br> (modré světlo)<br> viz poznámka č. 1</td><td>E<sub>B </sub>= 100.t<sup>-</sup><sup>1</sup><br> pro t ≤ 10 000 s</td><td>E<sub>B</sub> [W-m-<sup>2</sup>] t [s]</td><td rowspan="2">pro α &lt; 11 mrad <br> viz poznámka č. 2<br> E<sub>B </sub>je časově střední<br> hodnota z E<sub>B</sub>(t)</td></tr><tr><td>f.</td><td>300 – 700<br> (modré světlo)<br> viz poznámka č. 1</td><td>E<sub>B </sub>= 0,01<br> t &gt; 10 000 s</td><td>[W.m<sup>-2</sup>]</td></tr><tr><td>g.</td><td>380 – 1 400<br> (viditelné a IRA)<br> viz poznámka č. 3, 5</td><td>L<sub>R </sub>= 2,8.10<sup>7</sup>.C<sup>-1</sup><sub>α</sub><br> pro t &gt; 10 s</td><td>[W.m<sup>-2.</sup>sr<sup>-1</sup>]</td><td rowspan="3">C<sub>α </sub>= 1,7 pro<br> α ≤ 1,7 mrad <br> C<sub>α</sub> = α pro <br> 1,7 ≤ α ≤ 100 mrad <br> C<sub>α</sub> = 100 pro <br> α &gt; 100 mrad<br> λ<sub>1</sub> =380 nm<br> λ<sub>2</sub><sub></sub>= 1400 nm<br> L<sub>R </sub>je časově střední hodnota z L<sub>R</sub>(t)</td><td rowspan="6">popálení sítnice</td></tr><tr><td>h.</td><td>380 – 1 400<br> (viditelné a IRA)<br> viz poznámka č. 3, 5</td><td>L<sub>R </sub>= 5.10<sup>7</sup>.C<sub>α</sub><sup>1</sup>.t<sup>-</sup><sup>0,25</sup><br> pro 10 μs ≤ t ≤ 10 s</td><td>L<sub>R</sub> [W.m<sup>-2</sup>.sr<sup>-1</sup>] t [s]</td></tr><tr><td>i.</td><td>380 – 1 400<br> (viditelné a IRA)<br> viz poznámka č. 3, 5</td><td>L<sub>R </sub>= 8,89.10<sup>8</sup>.C<sub>α</sub><sup>1</sup><br> pro t &lt; 10 μs</td><td>[W.m<sup>-2</sup>.sr<sup>-1</sup>]</td></tr><tr><td>j.</td><td>780 – 1 400<br> (IRA)<br> viz poznámka č. 3, 5</td><td>L<sub>R </sub>= 6.10<sup>6</sup>.C<sub>α</sub><sup>1</sup><sub><br></sub>pro t &gt; 10 s</td><td>[W.m<sup>-2</sup>.sr<sup>-1</sup>]</td><td rowspan="3">C<sub>α </sub>= 11 pro<br> α ≤ 11 mrad<br> C<sub>α </sub>= α pro<br> 11 ≤ α ≤ 100 mrad<br> C<sub>α </sub>= 100 pro<br> α &gt; 100 mrad<br> (zorné pole pro měření: 11 mrad)<br> λ<sub>1</sub> = 780 nm <br> λ<sub>2</sub> = 1400 nm<br> L<sub>R </sub>je časově střední hodnota z L<sub>R</sub>(t)</td></tr><tr><td>k.</td><td>780 – 1 400<br> (IRA)<br> viz poznámka č. 3, 5</td><td>L<sub>R </sub>= 5.10<sup>7</sup>.C<sub>α</sub><sup>1</sup>.t<sup>-</sup><sup>0,25<br></sup>pro 10 μs ≤ t ≤ 10 s</td><td>L<sub>R</sub> [W.m<sup>-2</sup>.sr<sup>-1</sup>] t [s]</td></tr><tr><td>l.</td><td>780 – 1 400<br> (IRA)<br> viz poznámka č. 3, 5</td><td>L<sub>R </sub>= 8,89.10<sup>8</sup>.C<sub>α</sub><sup>1</sup><sub><br></sub>pro t &lt; 10 μs</td><td>[W.m<sup>-2</sup>.sr<sup>-1</sup>]</td></tr><tr><td>m.</td><td>780 – 3 000<br> (IRA a IRB)<br> viz poznámka č. 3</td><td>E<sub>IR </sub>= 18000.t<sup>-0,75<br></sup>pro t ≤ 1 000 s</td><td>E<sub>IR </sub>[W.m<sup>-2</sup>] t [s]</td><td rowspan="2">E<sub>IR </sub>je časově střední hodnota z E<sub>IR</sub>(t)</td><td rowspan="2">oko -<br> rohovka,<br> čočka</td><td rowspan="2">popálení rohovky <br> vznik očního zákalu</td></tr><tr><td>n.</td><td>780 – 3 000<br> (IRA a IRB)<br> viz poznámka č. 3</td><td>E<sub>IR </sub>= 100 <br> pro t &gt; 1 000 s</td><td>E<sub>IR </sub>[W.m<sup>-2</sup>]</td></tr><tr><td>o.</td><td>380 – 3 000<br> (viditelné, IRA<br> a IRB)<br> viz poznámka č. 3, 4</td><td>H<sub>kůže </sub>= 20000.t<sup>0,25<br></sup>pro t &lt; 10 s</td><td>H<sub>kůže</sub> [J.m<sup>-2</sup>] t [s]</td><td></td><td>kůže</td><td>popálení</td></tr></tbody></table>
+
+Poznámka č. 1: Rozsah vlnových délek od 300 nm do 700 nm zahrnuje část UVB, celé UVA a většinu viditelného záření. Související rizika se však běžně označují jako rizika „modrého světla“. Přesně vyjádřeno, modré světlo zahrnuje pouze rozsah vlnových délek přibližně od 400 nm do 490 nm.
+
+Poznámka č. 2: V případě pevné fixace velmi malých zdrojů se zorným úhlem &lt; 11 mrad může být L<sub>B</sub>(t) převedeno na E<sub>B</sub>(t). To běžně platí pouze pro oftalmologické přístroje nebo stabilizované oko během narkózy. Maximální doba „upřeného pohledu“ na zdroj se vypočte podle vzorce: t<sub>max</sub> = 100 / E<sub>B</sub>, kde E<sub>B</sub>je vyjádřeno ve W.m<sup>-2</sup>. Tato hodnota nepřesáhne díky očním pohybům při běžném vidění 100 s.
+
+Poznámka č. 3: I v případě, že má záření složku v oblasti IRC, postačí provést hodnocení nejvyšších přípustných hodnot pro oblasti IRA a IRB.
+
+Poznámka č. 4: Pro delší doby expozice se předpokládá, že exponovaná osoba je chráněna přirozenou averzí k vysoké teplotě a vyhne se nadlimitní expozici dříve, než by došlo k popálení pokožky.
+
+Poznámka č. 5: Veličina α je zorný úhel, pod nímž je okem viděn zdroj optického záření, vyjádřený v radiánech (rad).
+
+#### Tabulka č. 2 Spektrální váhový koeficient S(λ)
+
+| λ [nm] | S (λ) | λ [nm] | S (λ) | λ [nm] | S (λ) | λ [nm] | S (λ) | λ [nm] | S (λ) |
+|---|---|---|---|---|---|---|---|---|---|
+| 180 | 0,0120 | 228 | 0,1737 | 276 | 0,9434 | 324 | 0,000520 | 372 | 0,000086 |
+| 181 | 0,0126 | 229 | 0,1819 | 277 | 0,9272 | 325 | 0,000500 | 373 | 0,000083 |
+| 182 | 0,0132 | 230 | 0,1900 | 278 | 0,9112 | 326 | 0,000479 | 374 | 0,000080 |
+| 183 | 0,0138 | 231 | 0,1995 | 279 | 0,8954 | 327 | 0,000459 | 375 | 0,000077 |
+| 184 | 0,0144 | 232 | 0,2089 | 280 | 0,8800 | 328 | 0,000440 | 376 | 0,000074 |
+| 185 | 0,0151 | 233 | 0,2188 | 281 | 0,8568 | 329 | 0,000425 | 377 | 0,000072 |
+| 186 | 0,0158 | 234 | 0,2292 | 282 | 0,8342 | 330 | 0,000410 | 378 | 0,000069 |
+| 187 | 0,0166 | 235 | 0,2400 | 283 | 0,8122 | 331 | 0,000396 | 379 | 0,000066 |
+| 188 | 0,0173 | 236 | 0,2510 | 284 | 0,7908 | 332 | 0,000383 | 380 | 0,000064 |
+| 189 | 0,0181 | 237 | 0,2624 | 285 | 0,7700 | 333 | 0,000370 | 381 | 0,000062 |
+| 190 | 0,0190 | 238 | 0,2744 | 286 | 0,7420 | 334 | 0,000355 | 382 | 0,000059 |
+| 191 | 0,0199 | 239 | 0,2869 | 287 | 0,7151 | 335 | 0,000340 | 383 | 0,000057 |
+| 192 | 0,0208 | 240 | 0,3000 | 288 | 0,6891 | 336 | 0,000327 | 384 | 0,000055 |
+| 193 | 0,0218 | 241 | 0,3111 | 289 | 0,6641 | 337 | 0,000315 | 385 | 0,000053 |
+| 194 | 0,0228 | 242 | 0,3227 | 290 | 0,6400 | 338 | 0,000303 | 386 | 0,000051 |
+| 195 | 0,0239 | 243 | 0,3347 | 291 | 0,6186 | 339 | 0,000291 | 387 | 0,000049 |
+| 196 | 0,0250 | 244 | 0,3471 | 292 | 0,5980 | 340 | 0,000280 | 388 | 0,000047 |
+| 197 | 0,0262 | 245 | 0,3600 | 293 | 0,5780 | 341 | 0,000271 | 389 | 0,000046 |
+| 198 | 0,0274 | 246 | 0,3730 | 294 | 0,5587 | 342 | 0,000263 | 390 | 0,000044 |
+| 199 | 0,0287 | 247 | 0,3865 | 295 | 0,5400 | 343 | 0,000255 | 391 | 0,000042 |
+| 200 | 0,0300 | 248 | 0,4005 | 296 | 0,4984 | 344 | 0,000248 | 392 | 0,000041 |
+| 201 | 0,0334 | 249 | 0,4150 | 297 | 0,4600 | 345 | 0,000240 | 393 | 0,000039 |
+| 202 | 0,0371 | 250 | 0,4300 | 298 | 0,3989 | 346 | 0,000231 | 394 | 0,000037 |
+| 203 | 0,0412 | 251 | 0,4465 | 299 | 0,3459 | 347 | 0,000223 | 395 | 0,000036 |
+| 204 | 0,0459 | 252 | 0,4637 | 300 | 0,3000 | 348 | 0,000215 | 396 | 0,000035 |
+| 205 | 0,0510 | 253 | 0,4815 | 301 | 0,2210 | 349 | 0,000207 | 397 | 0,000033 |
+| 206 | 0,0551 | 254 | 0,5000 | 302 | 0,1629 | 350 | 0,000200 | 398 | 0,000032 |
+| 207 | 0,0595 | 255 | 0,5200 | 303 | 0,1200 | 351 | 0,000191 | 399 | 0,000031 |
+| 208 | 0,0643 | 256 | 0,5437 | 304 | 0,0849 | 352 | 0,000183 | 400 | 0,000030 |
+| 209 | 0,0694 | 257 | 0,5685 | 305 | 0,0600 | 353 | 0,000175 | | |
+| 210 | 0,0750 | 258 | 0,5945 | 306 | 0,0454 | 354 | 0,000167 | | |
+| 211 | 0,0786 | 259 | 0,6216 | 307 | 0,0344 | 355 | 0,000160 | | |
+| 212 | 0,0824 | 260 | 0,6500 | 308 | 0,0260 | 356 | 0,000153 | | |
+| 213 | 0,0864 | 261 | 0,6792 | 309 | 0,0197 | 357 | 0,000147 | | |
+| 214 | 0,0906 | 262 | 0,7098 | 310 | 0,0150 | 358 | 0,000141 | | |
+| 215 | 0,0950 | 263 | 0,7417 | 311 | 0,0111 | 359 | 0,000136 | | |
+| 216 | 0,0995 | 264 | 0,7751 | 312 | 0,0081 | 360 | 0,000130 | | |
+| 217 | 0,1043 | 265 | 0,8100 | 313 | 0,0060 | 361 | 0,000126 | | |
+| 218 | 0,1093 | 266 | 0,8449 | 314 | 0,0042 | 362 | 0,000122 | | |
+| 219 | 0,1145 | 267 | 0,8812 | 315 | 0,0030 | 363 | 0,000118 | | |
+| 220 | 0,1200 | 268 | 0,9192 | 316 | 0,0024 | 364 | 0,000114 | | |
+| 221 | 0,1257 | 269 | 0,9587 | 317 | 0,0020 | 365 | 0,000110 | | |
+| 222 | 0,1316 | 270 | 1,0000 | 318 | 0,0016 | 366 | 0,000106 | | |
+| 223 | 0,1378 | 271 | 0,9919 | 319 | 0,0012 | 367 | 0,000103 | | |
+| 224 | 0,1444 | 272 | 0,9838 | 320 | 0,0010 | 368 | 0,000099 | | |
+| 225 | 0,1500 | 273 | 0,9758 | 321 | 0,000819 | 369 | 0,000096 | | |
+| 226 | 0,1583 | 274 | 0,9679 | 322 | 0,000670 | 370 | 0,000093 | | |
+| 227 | 0,1658 | 275 | 0,9600 | 323 | 0,000540 | 371 | 0,000090 | | |
+
+#### Tabulka č. 3 Spektrální váhový koeficient B (λ), R (λ)
+
+| λ [nm] | B (λ) | R (λ) |
+|---|---|---|
+| 300 ≤ λ &lt; 380 | 0,01 | — |
+| 380 | 0,01 | 0,1 |
+| 385 | 0,013 | 0,13 |
+| 390 | 0,025 | 0,25 |
+| 395 | 0,05 | 0,5 |
+| 400 | 0,1 | 1 |
+| 405 | 0,2 | 2 |
+| 410 | 0,4 | 4 |
+| 415 | 0,8 | 8 |
+| 420 | 0,9 | 9 |
+| 425 | 0,95 | 9,5 |
+| 430 | 0,98 | 9,8 |
+| 435 | 1 | 10 |
+| 440 | 1 | 10 |
+| 445 | 0,97 | 9,7 |
+| 450 | 0,94 | 9,4 |
+| 455 | 0,9 | 9 |
+| 460 | 0,8 | 8 |
+| 465 | 0,7 | 7 |
+| 470 | 0,62 | 6,2 |
+| 475 | 0,55 | 5,5 |
+| 480 | 0,45 | 4,5 |
+| 485 | 0,32 | 3,2 |
+| 490 | 0,22 | 2,2 |
+| 495 | 0,16 | 1,6 |
+| 500 | 0,1 | 1 |
+| 500 &lt; λ ≤ 600 | 10<sup>0,02.(450-λ)</sup> | 1 |
+| 600 &lt; λ ≤ 700 | 0,001 | 1 |
+| 700 &lt; λ ≤ 1 050 | — | 10<sup>0,002.(700-λ)</sup> |
+| 1 050 &lt; λ ≤ 1 150 | — | 0,2 |
+| 1 150 &lt; λ ≤ 1 200 | — | 0,2·10<sup>0,02</sup><sup>·</sup><sup>(1150-λ)</sup> |
+| 1 200 &lt; λ ≤ 1 400 | — | 0,02 |
+
+### Příloha č. 3 k nařízení vlády č. 291/2015 Sb.
+
+#### Nejvyšší přípustné hodnoty záření laseru
+
+1\. Vysvětlení pojmů a veličin
+
+1.1 Spojitý režim generování laserového záření - režim generování laserového záření, při kterém laser vyzařuje nepřetržitě po dobu delší než 0,25 s.
+
+1.2 Impulzní režim generování laserového záření - režim generování laserového záření, při kterém je zářivá energie laseru vyzařována ve formě impulzů ne delších než 0,25 s a s opakovací frekvencí rovnou nebo nižší než 1 Hz. Laser pracující v tomto režimu je označován jako impulzní laser.
+
+1.3 Průměr svazku laserového záření - vzdálenost mezi protilehlými body svazku, v nichž je hustota zářivé energie (případně hustota zářivého toku) rovna 1/e<sup>-2</sup> (e značí Eulerovo číslo) násobku maximální hustoty zářivé energie (případně hustoty zářivého toku) výstupního svazku laseru.
+
+1.4 Rozbíhavost (divergence) svazku laserového záření - celý úhel rozbíhavosti svazku měřený mezi protilehlými přímkami procházejícími stejnolehlými body svazku, v nichž hustota zářivého toku je 1/e<sup>-2</sup> násobkem maximální hodnoty hustoty zářivého toku v tomtéž průřezu. Udává se v radiánech.
+
+1.5 Délka impulzu laserového záření - doba, po kterou zářivý tok laserového výstupního svazku přesahuje hodnotu odpovídající 0,5 násobku hodnoty maximální.
+
+1.6 Hustota zářivého toku laserového záření E(t) - výkon laserového záření procházející limitním otvorem dělený obsahem plochy limitního otvoru (W.m<sup>-2</sup>).
+
+1.7 Expozice laserovému záření H - časový integrál hustoty zářivého toku laserového záření (J.m<sup>-2</sup>).
+
+1.8 Opakovací frekvence impulzů - počet impulzů laserového záření za jednotku času.
+
+1.9 Difúzní odraz - změna prostorové distribuce svazku záření při dopadu na nerovný povrch nebo při průchodu opticky nehomogenním prostředím.
+
+1.10 Limitní otvor - kruhový průřez, na kterém se pro účely hodnocení rizika laserového záření měří zářivá energie (zářivý tok) pro stanovení hustoty zářivé energie nebo hustoty zářivého toku. Průměry limitního otvoru pro expozici oka pro různé vlnové délky a doby expozice jsou v tabulce č. 1 této přílohy. Pro expozici kůže má limitní otvor průměr 3,5 mm.
+
+1.11 Úhlové rozpětí zdroje α - zorný úhel, pod nímž je okem viděn zdroj optického záření, vyjádřený v miliradiánech (mrad).
+
+1.12 Minimální úhlové rozpětí zdroje α<sub>min</sub> - úhlové rozpětí zdroje o velikosti 1,5 mrad definující plošný a bodový zdroj. Pro hodnoty zorného úhlu větší než α<sub>min</sub> je laserový zdroj považován za zdroj plošný, pro menší hodnoty zorného úhlu je laserový zdroj považován za bodový a nejvyšší přípustné hodnoty jsou nezávislé na jeho velikosti.
+
+1.13 Maximální úhlové rozpětí zdroje α<sub>max</sub> - úhlové rozpětí zdroje o velikosti 100 mrad. Pro zorný úhel větší než α<sub>max</sub>jsou nejvyšší přípustné hodnoty nezávislé na velikosti zdroje.
+
+1.14 Zorný úhel měřicího zařízení γ - úhel vyjádřený v miliradiánech (mrad) pod nímž dopadá optické záření na detektor. Hodnoty γ pro α &gt; γ jsou pro různé doby expozice uvedeny v tabulce č. 2 této přílohy. Pokud je α &lt; γ, je pro γ možné použít libovolnou hodnotu větší než α.
+
+1.15 Korekční faktor C - bezrozměrná veličina používaná ke korekci expozice s ohledem na vlnovou délku a úhlové rozpětí zdroje. Korekční faktory jsou uvedeny v tabulkách č. 3 až 6 této přílohy.
+
+1.16 Kritická doba T - čas v sekundách závislý na vlnové délce a úhlovém rozpětí zdroje používaný k hodnocení expozice. Kritické doby jsou uvedeny v tabulkách č. 7 a 8 této přílohy.
+
+#### Tabulka č. 1 Průměr limitního otvoru při přímém působení laserového záření na rohovku oka pro různé vlnové délky a expozice
+
+<table><tbody><tr><th>Vlnová délka λ</th><th colspan="3">Doba expozice t [s]</th></tr><tr><td>[nm]</td><td>&lt; 0,3</td><td>0,3 – 10</td><td>&gt; 10</td></tr><tr><td>180 – 400</td><td>1 [mm]</td><td>1,5.t<sup>0,375</sup> [mm]</td><td>3,5 [mm]</td></tr><tr><td>400 – 1 400</td><td colspan="3">7 [mm]</td></tr><tr><td>14 00 – 10<sup>5</sup></td><td>1 [mm]</td><td>1,5.t<sup>0,375</sup> [mm]</td><td>3,5 [mm]</td></tr><tr><td>10<sup>5 </sup>–10<sup>6</sup></td><td colspan="3">11 [mm]</td></tr></tbody></table>
+
+#### Tabulka č. 2 Zorný úhel měřicího zařízení pro různé doby expozice
+
+| Doba expozice t [s] | Hodnota úhlu λ [mrad] |
+|---|---|
+| t ≤ 100 | 11 |
+| 100 &lt; t &lt; 10<sup>4</sup> | 1,1.t<sup>0,5</sup> |
+| t &gt; 10<sup>4</sup> | 110 |
+
+#### Tabulka č. 3 Koeficient C<sub>A</sub> pro různé vlnové délky
+
+| Vlnová délka λ [nm] | Hodnota koeficientu C<sub>A</sub> [-] |
+|---|---|
+| 400 – 700 | 1,0 |
+| 700 – 1 050 | 10<sup>0,002(λ-700)</sup> |
+| 1 050 – 1 400 | 5,0 |
+
+#### Tabulka č. 4 Koeficient C<sub>B</sub> pro různé vlnové délky
+
+| Vlnová délka λ [nm] | Hodnota koeficientu C<sub>B</sub> [-] |
+|---|---|
+| 400 – 450 | 1,0 |
+| 450 – 700 | 10<sup>0,02(λ-450)</sup> |
+
+#### Tabulka č. 5 Koeficient C<sub>C</sub> pro různé vlnové délky
+
+| Vlnová délka [nm] | Hodnota koeficientu C<sub>C</sub> [-] |
+|---|---|
+| 700 – 1 150 | 1,0 |
+| 1 150 – 1 200 | 10<sup>0,018(λ-1150)</sup> |
+| 1 200 –1 400 | 8,0 |
+
+#### Tabulka č. 6 Koeficient C<sub>E</sub> pro různá úhlová rozpětí zdroje
+
+| Úhlové rozpětí zdroje α [mrad] | Hodnota koeficientu C<sub>E</sub> [-] |
+|---|---|
+| α &lt; α<sub>min</sub> | 1,0 |
+| α<sub>min</sub>&lt; α &lt; α<sub>max</sub> | α / α<sub>min</sub> |
+| α &gt; α<sub>max</sub> | α<sup>2</sup> / (α<sub>min.</sub>α<sub>max</sub>) |
+
+#### Tabulka č. 7 Kritická doba T<sub>1</sub> pro různé vlnové délky
+
+| Vlnová délka λ [nm] | Hodnota kritické doby T<sub>1</sub> [s] |
+|---|---|
+| 400 – 450 | 10 |
+| 450 – 500 | 10.[10<sup>0,02(λ-450)</sup>] |
+| 500 – 600 | 100 |
+
+#### Tabulka č. 8 Kritická doba T<sub>2</sub> pro různá úhlová rozpětí zdroje
+
+| Úhlové rozpětí zdroje α [mrad] | Hodnota kritické doby T<sub>2</sub> [s] |
+|---|---|
+| α &lt; α<sub>min</sub> | 10 |
+| α<sub>min</sub> &lt; α &lt; α<sub>max</sub> | 10.[10<sup>(α-1,5) / 98,5</sup>] |
+| α &gt; α<sub>max</sub> | 100 |
+
+2\. Korekce pro opakovanou expozici
+
+V případě opakovaně pulzujících nebo skenujících laserových systémů se hodnocení expozice koriguje dle následujících tří pravidel:
+
+1.1 Expozice kterémukoli jednotlivému pulzu ve sledu pulzů nesmí překročit nejvyšší přípustnou hodnotu expozice pro jeden pulz s dobou trvání uvedeného pulzu.
+
+1.2 Expozice kterékoli skupině pulzů (nebo podskupině pulzů ve sledu) o době T nesmí překročit nejvyšší přípustnou hodnotu pro čas T.
+
+1.3 Expozice kterémukoli jednotlivému pulzu v rámci skupiny pulzů nesmí překročit nejvyšší přípustnou hodnotu expozice pro jeden pulz násobenou faktorem kumulativní tepelné korekce C<sub>p</sub> = N<sup>-0,25</sup>, kde N se rovná počtu pulzů. Toto pravidlo platí pouze pro nejvyšší přípustné hodnoty expozice na ochranu před tepelným poškozením, kde se všechny pulzy vyzářené za dobu kratší než T<sub>min</sub> považují za jeden pulz. Hodnota T<sub>min</sub> je definována v tabulce č. 9 této přílohy.
+
+#### Tabulka č. 9 Doba T<sub>min</sub> pro různé vlnové délky
+
+| Vlnová délka λ [nm] | T<sub>min</sub> [s] |
+|---|---|
+| 315 &lt;λ≤ 400 | 10<sup>-9</sup> |
+| 400 &lt;λ≤ 1 050 | 18.10<sup>-6</sup> |
+| 1 050 &lt;λ≤ 1 400 | 50.10<sup>-6</sup> |
+| 1 400 &lt;λ≤ 1 500 | 10<sup>-3</sup> |
+| 1 500 &lt;λ≤ 1 800 | 10 |
+| 1 800 &lt;λ≤2 600 | 10<sup>-3</sup> |
+| 2 600 &lt;λ≤ 10<sup>6</sup> | 10<sup>-7</sup> |
+
+3\. Nejvyšší přípustné hodnoty záření laseru
+
+Nejvyšší přípustné hodnoty expozice oka záření laserů jsou upraveny v tabulce č. 10 a 11 této přílohy. Tabulka č. 12 této přílohy upravuje nejvyšší přípustné hodnoty pro působení laserového záření na kůži.
+
+Při hodnocení je třeba vždy průměrovat přes limitní otvor.
+
+V případě laseru vysílajícího pulzy opakovaně je třeba provést korekci podle bodu 2 této přílohy.
+
+#### Tabulka č. 10 Nejvyšší přípustná hodnota při přímém působení laserového záření na rohovku oka pro doby expozice kratší než 10 s
+
+<table><tbody><tr><th rowspan="2">Vlnová délka λ [nm]</th><th colspan="8">Doba expozice t [s]</th></tr><tr><th>10<sup>-13 </sup>– 10<sup>-11</sup></th><th>10<sup>-11 </sup>– 10<sup>-9</sup></th><th colspan="2">10<sup>-9 </sup>– 10<sup>-7 </sup></th><th>10<sup>-7 </sup>– 1,8.10<sup>-5</sup></th><th>1,8.10<sup>-5 </sup>– 5.10<sup>-5</sup></th><th>5.10<sup>-5 </sup>– 10<sup>-3</sup></th><th>10<sup>-3 </sup>– 10<sup>1</sup></th></tr><tr><td>180 – 302,5</td><td rowspan="3" colspan="2">E = 3.10<sup>10.</sup>[W.m<sup>-2</sup>]</td><td colspan="6">H=30 [J.m<sup>-2</sup>]</td></tr><tr><td>302,5 – 315</td><td colspan="6">pro t &lt; 10<sup>0,8(λ-314)</sup> s: H= 5,6.10<sup>3</sup> t<sup>0,25</sup> [J.m<sup>-2</sup>]<br> pro t ≥ 10<sup>0,8(λ-314)</sup> s: H= 10<sup>0,2(λ-295)</sup> [J.m<sup>-2</sup>]</td></tr><tr><td>315 – 400</td><td colspan="6">H=5,6.10<sup>3</sup> t<sup>0,25</sup> [J.m<sup>-2</sup>]</td></tr><tr><td>400 – 700</td><td>H=1,5.10<sup>-4 </sup>C<sub>E </sub>[J.m<sup>-2</sup>]</td><td>H=2,7.10<sup>4 </sup>t<sup>0,75 </sup>C<sub>E </sub>[J.m<sup>-2</sup>]</td><td colspan="3">H=5.10<sup>-3</sup>C<sub>E </sub>[J.m<sup>-2</sup>]</td><td colspan="3">H=18.t<sup>0,75</sup>C<sub>E </sub>J.m<sup>-2</sup>[J.m<sup>-2</sup>]</td></tr><tr><td>700 – 1 050</td><td>H=1,5.10<sup>-4 </sup>C<sub>A </sub>C<sub>E </sub>[J.m<sup>-2</sup>]</td><td>H=2,7.10<sup>4 </sup>t<sup>0,75 </sup>C<sub>A </sub>C<sub>E </sub>[J.m<sup>-2</sup>]</td><td colspan="3">H=5.10<sup>-3</sup>C<sub>A</sub>C<sub>E </sub>[J.m<sup>-2</sup>]</td><td colspan="3">H=18.t<sup>0,75 </sup>C<sub>A </sub>C<sub>E </sub>[J.m<sup>-2</sup>]</td></tr><tr><td>1 050 – 1 400</td><td>H=1,5.10<sup>-3 </sup>C<sub>C </sub>C<sub>E </sub>[J.m<sup>-2</sup>]</td><td>H=2,7.10<sup>5 </sup>t<sup>0,75 </sup>C<sub>C </sub>C<sub>E </sub>[J.m<sup>-2</sup>]</td><td colspan="4">H=5.10<sup>-2</sup>C<sub>c</sub>C<sub>E </sub>[J.m<sup>-2</sup>]</td><td colspan="2">H=90.t<sup>0,75 </sup>C<sub>c </sub>C<sub>E </sub>[J.m<sup>-2</sup>]</td></tr><tr><td>1 400 – 1 500</td><td colspan="2">E=10<sup>12</sup> [W.m<sup>-2</sup>]</td><td colspan="5">H=10<sup>3</sup> [J.m<sup>-2</sup>]</td><td>H=5,6.10<sup>3</sup>.t<sup>0,25</sup> [J.m<sup>-2</sup>]</td></tr><tr><td>1 500 – 1 800</td><td colspan="2">E=10<sup>13</sup> [W.m<sup>-2</sup>]</td><td colspan="6">H=10<sup>4</sup> [J.m<sup>-2</sup>]</td></tr><tr><td>1 800 – 2 600</td><td colspan="2">E=10<sup>12</sup> [W.m<sup>-2</sup>]</td><td colspan="5">H=10<sup>3</sup> [J.m<sup>-2</sup>]</td><td>H=5,6.10<sup>3</sup>.t<sup>0,25</sup>[J.m<sup>-2</sup>]</td></tr><tr><td>2 600 – 10<sup>6</sup></td><td colspan="2">E=10<sup>11</sup> [W.m<sup>-2</sup>]</td><td>H=100 [J.m<sup>-2</sup>]</td><td colspan="5">H=5,6.10<sup>3</sup>.t<sup>0,25</sup> [J.m<sup>-2</sup>]</td></tr></tbody></table>
+
+#### Tabulka č. 11 Nejvyšší přípustná hodnota při přímém působení laserového záření na rohovku oka pro doby expozice delší než 10 s
+
+<table><tbody><tr><th rowspan="2">Vlnová délka λ<br> [nm]</th><th colspan="3">Doba expozice t [s]</th></tr><tr><th>10<sup>2 </sup>– 10<sup>4</sup></th><th>10<sup>2 </sup>– 10<sup>4</sup></th><th>10<sup>4 </sup>– 3.10<sup>4</sup></th></tr><tr><td>180 – 302,5</td><td colspan="3">H =30 [J.m<sup>-2</sup>]</td></tr><tr><td>302,5 – 315</td><td colspan="3">H = 10<sup>0,2(λ-295)</sup> [J.m<sup>-2</sup>]</td></tr><tr><td>315 - 400</td><td colspan="3">H = 10<sup>4</sup> [J.m<sup>-2</sup>]</td></tr><tr><td>400 – 600</td><td>pro α &lt; α<sub>min </sub>a t &lt; T<sub>1</sub>:<br> E = 10 [W.m<sup>-2</sup>]<br> pro α &lt; α<sub>min </sub>a t ≥ T<sub>1</sub>:<br> H = 100 C<sub>B</sub> [J.m<sup>-2</sup>] viz poznámka č. 1<br> pro α ≥ α<sub>min</sub> a t ≤ T<sub>2</sub>:<br> H = 100 C<sub>B</sub> [J.m<sup>-2</sup>] viz poznámka č. 1<br> H =18C<sub>E</sub>t<sup>0,75</sup> [J.m<sup>-2</sup>]<br> pro α ≥ α<sub>min</sub> a t &gt; T<sub>2</sub>:<br> H = 100 C<sub>B</sub> [J.m<sup>-2</sup>], E = 18C<sub>E</sub> T<sub>2</sub><sup>-0,25</sup> [W.m<sup>-2</sup>]</td><td>pro α &lt; α<sub>min </sub>a t &lt; T<sub>1</sub>:<br> E = 10 [W.m<sup>-2</sup>]<br> pro α &lt; α<sub>min</sub> a t ≥ T<sub>1</sub>:<br> E = 1 C<sub>B</sub> [W.m<sup>-2</sup>] viz poznámka č. 1<br> pro α ≥ α<sub>min</sub> a t ≤ T<sub>2</sub>:<br> E = 1 C<sub>B</sub> [W.m<sup>-2</sup>] viz poznámka č. 1<br> H = 18C<sub>E </sub>t<sup>0,75</sup> [J.m<sup>-2</sup>]<br> pro α ≥ α<sub>min</sub> a t &gt; T<sub>2<br></sub>E=1 C<sub>B</sub> [W.m<sup>-2</sup>], E = 18C<sub>E </sub> T<sub>2</sub><sup>-0,25</sup> [W.m<sup>-2</sup>]</td><td>pro α &lt; α<sub>mm</sub> a t &lt; T<sub>1</sub>:<br> E = 10 [W.m<sup>-2</sup>]<br> pro α &lt; α<sub>min </sub>a t ≥ T<sub>1</sub>:<br> E = 1 C<sub>B</sub> [W.m<sup>-2</sup>] viz poznámka č. 1<br> pro α ≥ α<sub>min</sub> a t ≤ T<sub>2</sub>:<br> E = 1 C<sub>B</sub> [W.m<sup>-2</sup>] viz poznámka č. 1<br> H = 18C<sub>E </sub>t<sup>0,75</sup> [J.m<sup>-2</sup>]<br> pro α ≥ α<sub>min</sub> a t &gt; T<sub>2</sub>:<br> E = 1 C<sub>B</sub> [W.m<sup>-2</sup>], E = 18C<sub>E</sub> T<sub>2</sub><sup>-0,25</sup> [W.m<sup>-2</sup>]</td></tr><tr><td>600 – 700</td><td colspan="3">pro α &lt; α<sub>min</sub>: E = 10 [W.m<sup>-2</sup>] <br> pro α ≥ α<sub>min</sub> a t ≤ T<sub>2</sub>: H = 18C<sub>E </sub>t<sup>0,75</sup> [J.m<sup>-2</sup>]<br> pro α ≥ α<sub>min</sub> a t &gt; T<sub>2</sub>: E = 18C<sub>E </sub>T<sub>2</sub><sup>-0,25</sup> [W.m<sup>-2</sup>]</td></tr><tr><td>700 – 1 400</td><td colspan="3">pro α &lt; α<sub>min</sub>: E = 10 C<sub>A </sub>C<sub>C</sub> [W.m<sup>-2</sup>] <br> pro α ≥ α<sub>min</sub> a t ≤ T<sub>2</sub>: H = 18 C<sub>A </sub>C<sub>C</sub> t<sup>0,75</sup> [J.m<sup>-2</sup>]<br> pro α ≥ α<sub>min</sub> a t &gt; T<sub>2</sub>: E = 18 C<sub>A</sub> T<sub>2</sub><sup>-0,25</sup> [W.m<sup>-2</sup>] (ne více než 1 000 W.m<sup>-2</sup>)</td></tr><tr><td>1 400 – 10<sup>6</sup></td><td colspan="3">E = 1 000 [W.m<sup>2</sup>]</td></tr></tbody></table>
+
+Poznámka č. 1 – V těchto případech je třeba při hodnocení uvažovat zorný úhel měřícího zařízení dle odstavce 1 této přílohy.
+
+#### Tabulka č. 12 Nejvyšší přípustná hodnota při přímém působení laserového záření na kůži
+
+<table><tbody><tr><th rowspan="2">Vlnová délka λ [nm]</th><th colspan="6">Doba expozice t [s]</th></tr><tr><th>&lt; 10<sup>-9</sup></th><th>10<sup>-9</sup> – 10<sup>-7</sup></th><th>10<sup>-7 </sup>– 10<sup>-3</sup></th><th>10<sup>-3 </sup>– 10<sup>1</sup></th><th>10<sup>1</sup> – 10<sup>3</sup></th><th>10<sup>3 </sup>– 3.10<sup>4</sup></th></tr><tr><td>180 – 400</td><td>E = 3.10<sup>10</sup> [W.m<sup>-2</sup>]</td><td colspan="5">Stejné jako pro oko (tabulka č. 10 a tabulka č. 11 této přílohy)</td></tr><tr><td>400 – 700</td><td>E = 2.10<sup>11</sup> [W.m<sup>-2</sup>]</td><td rowspan="2">H = 200 C<sub>A <br></sub>[J.m<sup>-2</sup>]</td><td colspan="2" rowspan="2">H = 1,1.10<sup>4 </sup>C<sub>A </sub>t<sup>0,25 <br></sup>[J.m<sup>-2</sup>]</td><td colspan="2" rowspan="2">E = 2.10<sup>3 </sup>C<sub>A</sub><br> [W.m<sup>-2</sup>]</td></tr><tr><td>700 – 1 400</td><td>E = 2.10<sup>11 </sup>C<sub>A</sub> [W.m<sup>-2</sup>]</td></tr><tr><td>1 400 – 1 500</td><td>E = 10<sup>12</sup> [W.m<sup>-2</sup>]</td><td colspan="5" rowspan="4">Stejné jako pro oko (tabulka č. 10 a tabulka č. 11 této přílohy)</td></tr><tr><td>1 500 – 1 800</td><td>E =10<sup>13</sup> [W.m<sup>-2</sup>]</td></tr><tr><td>1 800 –2 600</td><td>E =10<sup>12</sup> [W.m<sup>-2</sup>]</td></tr><tr><td>2 600 – 10<sup>6</sup></td><td>E =10<sup>11</sup> [W.m<sup>-2</sup>]</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2006/25/ES ze dne 5. dubna 2006 o minimálních požadavcích na bezpečnost a ochranu zdraví před expozicí zaměstnanců rizikům spojeným s fyzikálními činiteli (optickým zářením z umělých zdrojů) (devatenáctá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS). Směrnice Evropského parlamentu a Rady 2013/35/EU ze dne 26. června 2013 o minimálních požadavcích na bezpečnost a ochranu zdraví před expozicí zaměstnanců rizikům spojeným s fyzikálními činiteli (elektromagnetickými poli) (dvacátá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS) a o zrušení směrnice 2004/40/ES.
+
+<sup>2</sup>) Nařízení vlády č. 11/2002 Sb., kterým se stanoví vzhled a umístění bezpečnostních značek a zavedení signálů, ve znění nařízení vlády č. 405/2004 Sb.

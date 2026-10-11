@@ -1,0 +1,114 @@
+---
+title: "Vyhláška č. 319/2011 Sb., o stanovení ochranných pásem přírodního léčivého zdroje minerální vody v Buchlovicích a vymezení konkrétních ochranných opatřeních"
+identifier: "319/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/319/2011-11-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2011-10-20
+effective: 2011-11-01
+last_amended: 2011-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/319"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 319/2011 Sb., o stanovení ochranných pásem přírodního léčivého zdroje minerální vody v Buchlovicích a vymezení konkrétních ochranných opatřeních
+
+319
+
+VYHLÁŠKA
+
+ze dne 20. října 2011
+
+o stanovení ochranných pásem přírodního léčivého zdroje minerální vody v Buchlovicích a vymezení konkrétních ochranných opatření
+
+Ministerstvo zdravotnictví stanoví podle § 46 odst. 3 písm. b) zákona č. 164/2001 Sb., o přírodních léčivých zdrojích, zdrojích přírodních minerálních vod, přírodních léčebných lázních a lázeňských místech a o změně některých souvisejících zákonů (lázeňský zákon):
+
+## § 1 – Stanovení ochranných pásem
+
+(K § 21, 22 a 23 lázeňského zákona)
+
+(1) K ochraně přírodního léčivého zdroje minerální vody LL-1 (dále jen „zdroj“), nacházejícího se na pozemkové parcele č. 2568/7 katastrálního území městyse Buchlovice, část Smraďavka, okres Uherské Hradiště, kraj Zlínský, se stanoví ochranná pásma I. a II. stupně.
+
+(2) Ochranné pásmo I. stupně tvoří bezprostřední okolí výstupu zdroje. Ochranné pásmo I. stupně je graficky vyznačeno v kopii katastrální mapy v měřítku 1 : 1 000, která je přílohou č. 1 k této vyhlášce.
+
+(3) V ochranném pásmu I. stupně je vymezeno pásmo fyzické ochrany zdroje. Má tvar obdélníku o rozměrech 10 x 7 m, přičemž jeho delší strana je orientována ve směru od severozápadu k jihovýchodu. Zdroj se nachází v geometrickém středu pásma fyzické ochrany.
+
+(4) Ochranné pásmo II. stupně se stanoví k ochraně infiltračního území. Je graficky vyznačeno na mapě v měřítku 1 : 10 000, která je přílohou č. 2 k této vyhlášce.
+
+(5) Vymezení ochranných pásem I. a II. stupně v kopii katastrální mapy v měřítku 1 : 1 000 a základní mapy České republiky v měřítku 1 : 10 000 jsou k nahlédnutí na Ministerstvu zdravotnictví, na Krajském úřadě Zlínského kraje a na Úřadě městyse Buchlovice.
+
+**Vymezení konkrétních ochranných opatření**
+
+## § 2
+
+(K § 22 a 23 lázeňského zákona)
+
+(1) V ochranném pásmu I. stupně je zakázáno:
+
+a) budovat nebo provozovat objekty pro zemědělskou výrobu, objekty průmyslové výroby a jiné objekty, ve kterých se manipuluje se závadnými látkami<sup>1</sup>),
+
+b) provádět terénní úpravy<sup>2</sup>) trvale narušující souvislý půdní pokryv; jde-li o práce a úpravy související s ochranou a využíváním zdroje, postupuje se podle § 37 lázeňského zákona,
+
+c) provozovat zemědělskou činnost s výjimkou údržby trvalého travního porostu, chov hospodářských zvířat a zvěře<sup>3</sup>),
+
+d) zacházet se zvlášť nebezpečnými látkami nebo závadnými látkami ve větším rozsahu, nebo kdy zacházení s nimi je spojeno se zvýšeným nebezpečím pro povrchové nebo podzemní vody; jde-li o zacházení, které je nutné v zájmu ochrany a využívání zdroje, postupuje se podle vodního zákona,
+
+e) aplikovat statková a průmyslová hnojiva a chemické přípravky na ochranu rostlin<sup>4</sup>),
+
+f) provádět hornickou činnost a činnost prováděnou hornickým způsobem<sup>5</sup>) bez povolení Ministerstva zdravotnictví,
+
+g) volně tábořit v přírodě,
+
+h) vypouštět odpadní vody do vod podzemních a zneškodňovat obsah žump a močůvkových jímek<sup>6</sup>).
+
+(2) V ochranném pásmu II. stupně je zakázáno:
+
+a) zacházet se zvlášť nebezpečnými látkami nebo závadnými látkami ve větším rozsahu, nebo kdy zacházení s nimi je spojeno se zvýšeným nebezpečím pro povrchové nebo podzemní vody,
+
+b) vypouštět nečištěné odpadní vody do vod podzemních a zneškodňovat obsah žump a močůvkových jímek<sup>6</sup>),
+
+c) zřizovat trvalé skladové prostory ropných produktů, hnojiv a chemických prostředků,
+
+d) zřizovat a provozovat objekty průmyslových a velkokapacitních zemědělských staveb, jejichž provozování může negativně ovlivnit fyzikální, chemické a mikrobiologické vlastnosti zdroje a jeho zdravotní nezávadnost, jakož i zásoby a vydatnost zdroje,
+
+e) provádět hornickou činnost a činnost prováděnou hornickým způsobem<sup>5</sup>) bez povolení Ministerstva zdravotnictví.
+
+## § 3
+
+Pásmo fyzické ochrany zdroje se oplotí pevným plotem.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. listopadu 2011.
+
+Ministr:
+
+doc. MUDr. Heger, CSc., v. r.
+
+### Příloha č. 1 k vyhlášce č. 319/2011 Sb.
+
+#### Ochranná pásma přírodního léčivého zdroje Buchlovice
+
+#### ![sbcr2011c112z0319p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/830697/NAHLED/ZOBRAZ/sbcr2011c112z0319p001o001)
+
+### Příloha č. 2 k vyhlášce č. 319/2011 Sb.
+
+#### Ochranná pásma přírodního léčivého zdroje Buchlovice
+
+##### ![sbcr2011c112z0319p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/830699/NAHLED/ZOBRAZ/sbcr2011c112z0319p002o001)
+
+---
+
+<sup>1</sup>) § 39 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb.
+
+<sup>2</sup>) Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů.
+
+<sup>3</sup>) Zákon č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů.
+
+<sup>4</sup>) Nařízení vlády č. 103/2003 Sb., o stanovení zranitelných oblastí a o používání a skladování hnojiv a statkových hnojiv, střídání plodin a provádění protierozních opatření v těchto oblastech, ve znění nařízení vlády č. 219/2007 Sb. a nařízení vlády č. 108/2008 Sb.
+
+<sup>5</sup>) Zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů.
+
+<sup>6</sup>) § 38 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb.

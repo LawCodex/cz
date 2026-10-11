@@ -1,0 +1,40 @@
+---
+title: "Zákon č. 84/2010 Sb., kterým se mění zákon č. 214/2009 Sb., o státním dluhopisovém programu na úhradu části rozpočtovaného schodku státního rozpočtu České republiky na rok 2009 a o změně zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů"
+identifier: "84/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/84/2010-03-31"
+type: act
+jurisdiction: cz
+language: cs
+date: 2010-03-17
+effective: 2010-03-31
+last_amended: 2010-03-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/84"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 84/2010 Sb., kterým se mění zákon č. 214/2009 Sb., o státním dluhopisovém programu na úhradu části rozpočtovaného schodku státního rozpočtu České republiky na rok 2009 a o změně zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů
+
+84
+
+ZÁKON
+
+ze dne 17. března 2010,
+
+kterým se mění zákon č. 214/2009 Sb., o státním dluhopisovém programu na úhradu části rozpočtovaného schodku státního rozpočtu České republiky na rok 2009 a o změně zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+V § 1 odst. 2 zákona č. 214/2009 Sb., o státním dluhopisovém programu na úhradu části rozpočtovaného schodku státního rozpočtu České republiky na rok 2009 a o změně zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů, se částka „23 600 605 000 Kč“ nahrazuje částkou „37 680 190 000 Kč.“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Fischer v. r.

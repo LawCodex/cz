@@ -1,0 +1,152 @@
+---
+title: "Nařízení vlády č. 169/2006 Sb., kterým se mění nařízení vlády č. 71/2003 Sb., o stanovení povrchových vod vhodných pro život a reprodukci původních druhů ryb a dalších vodních živočichů a o zjišťování a hodnocení stavu jakosti těchto vod"
+identifier: "169/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/169/2006-05-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2006-04-12
+effective: 2006-05-01
+last_amended: 2006-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/169"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 169/2006 Sb., kterým se mění nařízení vlády č. 71/2003 Sb., o stanovení povrchových vod vhodných pro život a reprodukci původních druhů ryb a dalších vodních živočichů a o zjišťování a hodnocení stavu jakosti těchto vod
+
+169
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 12. dubna 2006,
+
+kterým se mění nařízení vlády č. 71/2003 Sb., o stanovení povrchových vod vhodných pro život a reprodukci původních druhů ryb a dalších vodních živočichů a o zjišťování a hodnocení stavu jakosti těchto vod
+
+Vláda nařizuje k provedení zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 76/2002 Sb., zákona č. 320/2002 Sb., zákona č. 274/2003 Sb., zákona č. 20/2004 Sb. a zákona č. 444/2005 Sb., (dále jen „zákon“):
+
+## Čl. I
+
+Nařízení vlády č. 71/2003 Sb., o stanovení povrchových vod vhodných pro život a reprodukci původních druhů ryb a dalších vodních živočichů a o zjišťování a hodnocení stavu jakosti těchto vod, se mění takto:
+
+1\. V § 4 na konci odstavce 3 se tečka nahrazuje slovem „, nebo“ a doplňuje se písmeno c), které zní:
+
+> „c) v 5 % vzorků u ukazatelů pH, volný amoniak, amonné ionty, celkový chlor, celkový zinek, BSK<sub>5</sub>, dusitany a rozpuštěná měď; pokud je četnost odběrů vzorků a měření nižší než jeden vzorek měsíčně, potom musí stanoveným hodnotám vyhovovat všechny vzorky.“.
+
+2\. V § 4 se odstavec 4 zrušuje.
+
+3\. Za § 4 se vkládá nový § 4a, který včetně nadpisu a poznámky pod čarou č. 1 zní:
+
+> **„§ 4a – Program snížení znečištění povrchových vod**
+
+> (1) Program snížení znečištění povrchových vod, který obsahuje přehled povrchových vod a ukazatelů, ve kterých nesplňují tyto vody stanovené hodnoty kvality, je uveden v příloze č. 3 k tomuto nařízení.
+
+> (2) Zabezpečení plnění programu podle odstavce 1 zajišťují příslušné orgány při plnění povinností podle zákona prostřednictvím investičních opatření, zjišťování stavu vybraných povrchových vod a kontroly přijatých opatření tak, aby hodnot stanovených podle § 4 odst. 1 bylo dosaženo v období do 1. května 2009<sup>1</sup>).
+
+> <sup>1</sup>) Článek 5 směrnice Rady 78/659/EHS ze dne 18. července 1978 o jakosti sladkých vod vyžadujících ochranu nebo zlepšení pro podporu života ryb.“.
+
+4\. Doplňuje se příloha č. 3, která zní:
+
+> **„Příloha č. 3 k nařízení vlády č. 71/2003 Sb.**
+
+> **Program snížení znečištění povrchových vod**
+
+> | Č. a typ vody | Název stanovené vody | Název kmenového toku | Ukazatel s nesplněnou hodnotou |
+> |---|---|---|---|
+> | 2 L | Labe horní | Labe | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 4 L | Úpa dolní | Úpa | teplota,<br> rozpuštěný kyslík |
+> | 9 L | Divoká Orlice žamberská | Divoká Orlice | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 10 L | Divoká Orlice kostelecká | Divoká Orlice | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l,<br> rozpuštěný kyslík |
+> | 11L | Bělá a Kněžná | Bělá, Kněžná | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 12 L | Tichá Orlice horní | Tichá Orlice | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 13 L | Třebovka | Třebovka | volný amoniak,<br> rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 14 L | Tichá Orlice choceňská | Tichá Orlice | rozpuštěný kyslík,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 15 K | Orlice spojená | Tichá Orlice, Orlice | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 16 L | Dědina horní | Dědina | rozpuštěný kyslík |
+> | 19 L | Loučná horní | Loučná | rozpuštěný kyslík |
+> | 20 K | Loučná dolní | Loučná | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 21 K | Labe střední | Labe | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l,<br> amonné ionty,<br> volný amoniak |
+> | 22 L | Chrudimka horní | Chrudimka | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 23 L | Chrudimka střední | Chrudimka | teplota,<br> rozpuštěný kyslík - pokles<br> koncentrace pod 6 mg/l |
+> | 24 K | Chrudimka dolní | Chrudimka | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l. |
+> | 32 K | Klejnárka dolní a Vrchlice | Klejnárka | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l amonné ionty,<br> volný amoniak |
+> | 33 K | Cidlina horní | Cidlina | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l, amonné ionty, volný amoniak |
+> | 36 K | Bystřice dolní | Bystřice | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 37 K | Cidlina dolní | Cidlina | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l, amonné ionty |
+> | 38 K | Mrlina | Mrlina | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 39 K | Výrovka | Výrovka | rozpuštěný kyslík,<br> volný amoniak |
+> | 40 L | Kostelecké p. | Výmola | rozpuštěný kyslík |
+> | 44 L | Desná jizerská | Desná | rozpuštěný kyslík |
+> | 47 K | Jizera bakovská | Jizera | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 48 K | Jizera dolní | Jizera | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 73 K | Lužnice táborská | Lužnice | rozpuštěný kyslík |
+> | 92 L | Vltava štěchovická | Vltava | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 94 K | Sázava pramenná | Sázava | volný amoniak |
+> | 105 L | Chotýšanka | Chotýšanka | teplota, pH,<br> rozpuštěný kyslík - pokles koncentrace pod 6 mg/l,<br> volný amoniak |
+> | 111 L | Bojovský p. | Bojovský p. | amonné ionty,<br> volný amoniak |
+> | 123 K | Radbuza dolní | Radbuza | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l,<br> amonné ionty,<br> volný amoniak |
+> | 136 L | Střela kaznějovská | Střela | amonné ionty,<br> volný amoniak |
+> | 140 K | Rakovnický p. | Rakovnický p. | amonné ionty,<br> volný amoniak |
+> | 141 K | Berounka | Berounka | pH |
+> | 149 K | Rokytka | Rokytka | amonné ionty,<br> volný amoniak |
+> | 151 K | Zákolanský p. | Zákolanský p. | amonné ionty,<br> volný amoniak |
+> | 161 L | Ohře střední | Ohře | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 166 K | Chomutovka | Chomutovka | amonné ionty,<br> volný amoniak |
+> | 170 K | Bílina | Bílina | amonné ionty,<br> volný amoniak,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 171 L | Podkrušnohorské labské p. | Jílovský p. | amonné ionty,<br> volný amoniak |
+> | 178 L | Halštrov a přítoky Sály | Bílý Halštrov | amonné ionty,<br> volný amoniak |
+> | 181 L | Jičínka | Jičínka | teplota,<br> volný amoniak,<br> amonné ionty |
+> | 185 L | Lubina | Lubina | teplota,<br> amonné ionty |
+> | 186 L | Ondřejnice | Ondřejnice | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l,<br> amonné ionty |
+> | 195 L | Černý potok | Černý potok | amonné ionty |
+> | 198 K | Hvozdnice | Hvozdnice | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 202 L | Ostravice dolní | Ostravice | amonné ionty,<br> teplota |
+> | 203 L | Lučina | Lučina | amonné ionty,<br> volný amoniak,<br> teplota |
+> | 204 K | Odra dolní | Odra | amonné ionty,<br> ropné látky |
+> | 207 K | Olše dolní | Olše | amonné ionty |
+> | 211 L | Lužická Nisa | Lužická Nisa | rozpuštěný kyslík,<br> rozpuštěný kyslík pokles koncentrace pod 6 mg/l,<br> amonné ionty |
+> | 212L | Smědá | Smědá | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 221 L | Oskava | Oskava | amonné ionty,<br> volný amoniak,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 222 L | Sitka | Sitka | amonné ionty |
+> | 224 L | Bystřice (Hanácká) | Bystřice | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 236 K | Blata | Blata | amonné ionty,<br> volný amoniak,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 237 K | Valová | Valová | amonné ionty,<br> volný amoniak,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 240 K | Tištínka | Tištínka | rozpuštěný kyslík,<br> amonné ionty, volný amoniak |
+> | 241 K | Haná | Haná | volný amoniak,<br> amonné ionty,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 242 K | Brodečka | Brodečka | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 244 K | Moštěnka dolní | Moštěnka | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 246 K | Rusava horní | Rusava | volný amoniak,<br> teplota,<br> amonné ionty,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 249 K | Dřevnice dolní | Dřevnice | amonné ionty |
+> | 250 L | Březnice | Březnice | rozpuštěný kyslík,<br> amonné ionty |
+> | 253 K | Olšava dolní | Olšava | rozpuštěný kyslík,<br> volný amoniak,<br> amonné ionty |
+> | 260 K | Daníž | Daníž | teplota,<br> rozpuštěný kyslík,<br> rozpuštěný kyslík - pokles koncentrace pod 6 mg/l,<br> volný amoniak,<br> amonné ionty |
+> | 266 K | Jevišovka dolní | Jevišovka | rozpuštěný kyslík - pokles koncentrace pod 6 mg/l |
+> | 272 K | Svratka brněnská | Svratka | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 279 K | Bobrava dolní | Bobrava | amonné ionty,<br> volný amoniak |
+> | 280 K | Svratka dolní | Svratka | amonné ionty,<br> volný amoniak,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 281 K | Litava horní | Litava | rozpuštěný kyslík,<br> amonné ionty |
+> | 282 K | Rakovec | Rakovec | rozpuštěný kyslík,<br> amonné ionty |
+> | 283 K | Říčka | Říčka | amonné ionty,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 284 K | Litava dolní | Litava | amonné ionty,<br> volný amoniak,<br> rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 286 K | Třešťský p. | Třešťský p. | amonné ionty |
+> | 297 K | Rouchovanka | Rouchovanka | amonné ionty |
+> | 299 K | Jihlava dolní | Jihlava | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l |
+> | 301 K | Trkmanka | Trkmanka | rozpuštěný kyslík – pokles koncentrace pod 6 mg/l,<br> rozpuštěný kyslík,<br> amonné ionty,<br> volný amoniak |
+> | 303 K | Kyjovka horní | Kyjovka | rozpuštěný kyslík,<br> amonné ionty,<br> volný amoniak |
+> | 304 K | Kyjovka dolní | Kyjovka | rozpuštěný kyslík,<br> amonné ionty |
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. května 2006.
+
+Předseda vlády:
+
+Ing. Paroubek v. r.
+
+Ministr životního prostředí:
+
+RNDr. Ambrozek v. r.
+
+Ministr zemědělství:
+
+Ing. Mládek, CSc. v. r.

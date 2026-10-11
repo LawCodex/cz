@@ -1,0 +1,81 @@
+---
+title: "Zákon č. 213/2011 Sb., o zákazu použití, vývoje, výroby, skladování a převodu kazetové munice a o jejím zničení (zákon o zákazu kazetové munice)"
+identifier: "213/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/213/2025-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2011-06-21
+effective: 2012-03-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/213"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 213/2011 Sb., o zákazu použití, vývoje, výroby, skladování a převodu kazetové munice a o jejím zničení (zákon o zákazu kazetové munice) ve znění zákona č. 183/2017 Sb. a zákona č. 218/2025 Sb."
+---
+
+# Zákon č. 213/2011 Sb., o zákazu použití, vývoje, výroby, skladování a převodu kazetové munice a o jejím zničení (zákon o zákazu kazetové munice)
+
+213
+
+ZÁKON
+
+ze dne 21. června 2011
+
+o zákazu použití, vývoje, výroby, skladování a převodu kazetové munice a o jejím zničení (zákon o zákazu kazetové munice)
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1 – Předmět úpravy
+
+Tento zákon upravuje povinnosti fyzických a právnických osob související se zákazem použití, vývoje, výroby, skladování a převodu kazetové munice stanoveným k provedení Úmluvy o kazetové munici (dále jen „Úmluva“).
+
+## § 2 – Zákaz kazetové munice
+
+(1) Zakazuje se používat kazetovou munici nebo její součástky.
+
+(2) Nestanoví-li tento zákon jinak, zakazuje se
+
+a) vyvíjet a vyrábět kazetovou munici nebo její součástky,
+
+b) nabývat, vlastnit, držet, skladovat a shromažďovat kazetovou munici nebo její součástky,
+
+c) převádět kazetovou munici nebo její součástky a obchodovat s nimi,
+
+d) napomáhat, podporovat či nutit kohokoli, aby se zabýval zakázanými činnostmi podle odstavce 1 nebo podle písmen a) až c).
+
+(3) Zakazuje se používat a převádět patentová práva na výrobu kazetové munice nebo jejích součástek a práva k patentům na výrobní postupy určené pro výrobu kazetové munice nebo jejích součástek.
+
+## § 3 – Povolené nakládání s kazetovou municí
+
+Česká republika zastoupená Ministerstvem obrany (dále jen „ministerstvo“) může nabývat, mít v držení nebo převést na jinou smluvní stranu Úmluvy nezbytně nutné množství kazetové munice pro účely vývoje nebo výcviku techniky vyhledávání, odstraňování anebo ničení kazetové munice a za účelem vývoje prostředků proti kazetové munici.
+
+## § 4 – Zničení kazetové munice
+
+(1) Ministerstvo ve lhůtě do 8 let ode dne nabytí účinnosti tohoto zákona zajistí zničení veškeré kazetové munice nacházející se na území České republiky; to neplatí, jde-li o kazetovou munici podle § 3.
+
+(2) Právnické nebo podnikající fyzické osoby mohou se souhlasem ministerstva po dobu 8 let ode dne nabytí účinnosti tohoto zákona držet a skladovat kazetovou munici, kterou jim ministerstvo předalo za účelem jejího zničení podle odstavce 1.
+
+## § 5 – Přestupky právnických a podnikajících fyzických osob
+
+(1) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že poruší některý ze zákazů stanovených v § 2.
+
+(2) Za přestupek podle odstavce 1 lze uložit pokutu do 50 000 000 Kč.
+
+## § 8 – Společná ustanovení k přestupkům
+
+Přestupky podle tohoto zákona projednává ministerstvo.
+
+## § 9 – Ohlašovací povinnost
+
+Majitelé patentů pro výrobu kazetové munice nebo jejích součástek a majitelé patentů na výrobní postupy určené pro výrobu kazetové munice nebo jejích součástek jsou povinni ohlásit tuto skutečnost ministerstvu do 90 dnů ode dne nabytí účinnosti tohoto zákona; pokud se stali majiteli patentů po nabytí účinnosti tohoto zákona, do 90 dnů ode dne, kdy se stali majiteli patentů.
+
+## § 10 – Účinnost
+
+Tento zákon nabývá účinnosti dnem vstupu Úmluvy v platnost pro Českou republiku.
+
+Němcová v. r.
+
+Klaus v. r.
+
+Nečas v. r.

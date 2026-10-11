@@ -1,0 +1,96 @@
+---
+title: "Vyhláška č. 351/2010 Sb., kterou se mění vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti a bezpečnosti lidské krve a jejích složek (vyhláška o lidské krvi)"
+identifier: "351/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/351/2011-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-12-02
+effective: 2011-01-01
+last_amended: 2011-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/351"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 351/2010 Sb., kterou se mění vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti a bezpečnosti lidské krve a jejích složek (vyhláška o lidské krvi)
+
+351
+
+VYHLÁŠKA
+
+ze dne 2. prosince 2010,
+
+kterou se mění vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti a bezpečnosti lidské krve a jejích složek (vyhláška o lidské krvi)
+
+Ministerstvo zdravotnictví stanoví podle § 114 odst. 1 zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech):
+
+## Čl. I
+
+Vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti a bezpečnosti lidské krve a jejích složek (vyhláška o lidské krvi), se mění takto:
+
+1\. V § 12 na konci odstavce 2 se tečka nahrazuje čárkou a doplňuje se písmeno d), které včetně poznámky pod čarou č. 7 zní:
+
+> „d) prohlášení, že distribuce, dovoz nebo vývoz transfuzních přípravků a plazmy pro výrobu krevních derivátů budou realizovány pouze z odběrů krve nebo plazmy od dobrovolných neplacených dárců<sup>7</sup>).
+
+> <sup>7</sup>) Článek 2 § 1 Pokynu pro přípravu, použití a zabezpečení jakosti krevních složek (Guide to the preparation, use and quality assurance of blood components), v platném znění.“.
+
+2\. V příloze č. 1 bodě 5.2 podbod 5 zní:
+
+> „5. Součástí záznamů je zpráva o činnosti zařízení transfuzní služby za uplynulý rok zahrnující
+
+> a) počet dárců, a to
+
+> 1\. celkový počet dárců s tím, že prvodárci, kteří ve sledovaném období opakovaně darovali krev, se v celkovém počtu dárců uvedou jen jednou,
+
+> 2\. celkový počet opakovaných dárců,
+
+> 3\. celkový počet prvodárců,
+
+> b) celkové počty jednotlivých typů odběrů a součet všech odběrů,
+
+> c) aktualizovaný seznam krevních bank, které zařízení transfuzní služby ve sledovaném období zásobovalo,
+
+> d) celkový počet nepoužitých celých odběrů,
+
+> e) počet zpracovaných jednotlivých typů odběrů,
+
+> f) množství vyrobených a distribuovaných transfuzních přípravků a surovin pro další výrobu, jejichž název je uveden v příloze č. 4 části A,
+
+> g) incidence a prevalence ukazatelů u jednotlivých infekcí přenosných transfuzí a celkový počet vyšetřených opakovaných dárců nebo prvodárců,
+
+> h) počet balení stažených transfuzních přípravků nebo surovin pro další výrobu,
+
+> i) počet oznámených závažných nežádoucích reakcí a událostí.
+
+> Údaje v písmenech b), d) a e) se uvádějí odděleně pro jednotlivé typy odběrů, zejména odběr plné krve nebo odběr plazmaferézou nebo cytaferézou. Údaje v písmenu f) se uvádějí samostatně v příslušných jednotkách pro plnou krev, erytrocyty, trombocyty, plazmu a případné další typy přípravků, jejichž název se uvádí. Zpráva o činnosti za uplynulý rok v elektronické formě se předává Ministerstvu zdravotnictví do 31. ledna následujícího roku způsobem umožňujícím dálkový přístup.“.
+
+3\. V příloze č. 1 bodě 7.1 závěrečné části ustanovení se ve větě první slova „a h)“ nahrazují slovy „a i)“.
+
+4\. V příloze č. 1 bodě 7.2 se na konci podbodu 2 doplňuje věta „V případech, kdy je zařízením transfuzní služby použita validovaná metoda inaktivace patogenů v plazmě, která mu byla povolena Ústavem podle § 67 odst. 2 zákona, se opakované vyšetření dárce neprovádí.“.
+
+5\. V příloze č. 1 bodě 9 podbodě 1 závěrečné části ustanovení se slova „písm. a)“ nahrazují slovy „písm. b)“.
+
+6\. V příloze č. 1 bodě 9 podbodě 2 se slova „písm. a) bod 2“ nahrazují slovy „bodu 1 písm. b)“.
+
+7\. V příloze č. 3 části A bodě 2.3 se na konci podbodu 2 doplňuje věta „Minimální interval mezi dvěma přístrojovými odběry plazmy je 14 dní.“.
+
+8\. V příloze č. 3 části C bodě 3 se na konci textu věty první doplňují slova „ve Státním zdravotním ústavu<sup>8</sup>)“.
+
+Poznámka pod čarou č. 8 zní:
+
+> „<sup>8</sup>) § 74 odst. 1 zákona č. 258/2000 Sb., o ochraně veřejného zdraví, ve znění zákona č. 320/2002 Sb.“.
+
+9\. V příloze č. 4 části A položce „Plná krev“ se ve sloupci „Přijaté výsledky měření jakosti“ zrušuje slovo „než“.
+
+10\. V příloze č. 6 bodě 1 se na konci podbodu 1.1 za slova „Počet vydaných balení transfuzních přípravků“ vkládají slova „jmenovitě uvedených, kde velikost balení je uvedena v příslušných množstevních jednotkách“.
+
+11\. V příloze č. 6 bodě 2 se za slova „Celkový počet zpracovaných jednotek krve a zpracovaných krevních složek“ vkládají slova „jmenovitě uvedených v příslušných množstevních jednotkách“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2011.
+
+Ministr:
+
+doc. MUDr. Heger, CSc., v. r.

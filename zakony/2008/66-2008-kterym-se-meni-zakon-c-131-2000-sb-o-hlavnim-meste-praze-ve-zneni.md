@@ -1,0 +1,56 @@
+---
+title: "Zákon č. 66/2008 Sb., kterým se mění zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů"
+identifier: "66/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/66/2008-02-29"
+type: act
+jurisdiction: cz
+language: cs
+date: 2008-01-28
+effective: 2008-02-29
+last_amended: 2008-02-29
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/66"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 66/2008 Sb., kterým se mění zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů
+
+66
+
+ZÁKON
+
+ze dne 29. ledna 2008,
+
+kterým se mění zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění zákona č. 145/2001 Sb., zákona č. 273/2001 Sb., zákona č. 320/2001 Sb., zákona č. 450/2001 Sb., zákona č. 311/2002 Sb., zákona č. 312/2002 Sb., zákona č. 320/2002 Sb., zákona č. 22/2004 Sb., zákona č. 216/2004 Sb., zákona č. 257/2004 Sb., zákona č. 387/2004 Sb., zákona č. 421/2004 Sb., zákona č. 499/2004 Sb., zákona č. 501/2004 Sb., zákona č. 626/2004 Sb., zákona č. 109/2006 Sb., zákona č. 186/2006 Sb., zákona č. 189/2006 Sb., zákona č. 234/2006 Sb. a zákona č. 261/2007 Sb., se mění takto:
+
+1\. V § 29 odstavec 2 zní:
+
+> „(2) Fyzické osobě, která neudržuje čistotu a pořádek na pozemku, který užívá nebo vlastní, a naruší tím vzhled městské části, může městská část uložit pokutu až do výše 100 000 Kč.“.
+
+2\. V § 29 odstavec 3 zní:
+
+> „(3) Právnické osobě nebo podnikateli, kteří neudržují čistotu a pořádek na pozemku, který užívají nebo vlastní, a naruší tím vzhled městské části, může městská část uložit pokutu až do výše 500 000 Kč.“.
+
+3\. V § 29 odstavec 4 zní:
+
+> „(4) Právnické osobě nebo podnikateli, kteří při výkonu své podnikatelské činnosti znečistí veřejné prostranství, odloží věc mimo vyhrazené místo nebo jinak naruší vzhled městské části, může městská část uložit pokutu až do výše 1 000 000 Kč.“.
+
+4\. V § 35 se na konci odstavce 6 tečka nahrazuje čárkou a doplňuje se písmeno f), které zní:
+
+> „f) honebních společenstev.“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Topolánek v. r.

@@ -1,0 +1,60 @@
+---
+title: "Nařízení vlády č. 242/2015 Sb., kterým se mění nařízení vlády č. 458/2013 Sb., o seznamu výchozích a pomocných látek a jejich ročních množstevních limitech"
+identifier: "242/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/242/2015-10-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2015-09-14
+effective: 2015-10-01
+last_amended: 2015-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/242"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 242/2015 Sb., kterým se mění nařízení vlády č. 458/2013 Sb., o seznamu výchozích a pomocných látek a jejich ročních množstevních limitech
+
+242
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. září 2015,
+
+kterým se mění nařízení vlády č. 458/2013 Sb., o seznamu výchozích a pomocných látek a jejich ročních množstevních limitech
+
+Vláda nařizuje podle § 53 odst. 1 zákona č. 272/2013 Sb., o prekursorech drog:
+
+## Čl. I
+
+Příloha k nařízení vlády č. 458/2013 Sb., o seznamu výchozích a pomocných látek a jejich ročních množstevních limitech, zní:
+
+> **„Příloha k nařízení vlády č. 458/2013 Sb.**
+
+> **Seznam výchozích a pomocných látek a jejich roční množstevní limity**
+
+> | Výchozí nebo pomocná látka | Číslo CAS | Roční limitní množství (kg) |
+> |---|---|---|
+> | 1,4-Butandiol | 110-63-4 | 0 |
+> | Červený fosfor | 7723-14-0 | 0 |
+> | Gama-butyrolakton | 96-48-0 | 0 |
+> | (1R,2S)-(-)-Chlorefedrin včetně solí této látky | 110925-64-9 platí pro hydrochlorid | 0 |
+> | (1S,2R)-(+)-Chlorefedrin včetně solí této látky | 1384199-95-4 platí pro hydrochlorid | 0 |
+> | (1S,2S)-(+)-Chlorpseudoefedrin včetně solí této látky | 73393-61-0 platí pro hydrochlorid | 0 |
+> | (1R,2R)-(-)-Chlorpseudoefedrin včetně solí této látky | 771434-80-1 platí pro hydrochlorid | 0“. |
+
+## Čl. II
+
+Toto nařízení bylo oznámeno v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu při poskytování informací v oblasti norem a technických předpisů a předpisů pro služby informační společnosti, v platném znění.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. října 2015.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr zdravotnictví:
+
+MUDr. Němeček, MBA, v. r.

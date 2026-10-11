@@ -1,0 +1,109 @@
+---
+title: "Zákon č. 170/2013 Sb., kterým se mění zákon č. 119/2002 Sb., o střelných zbraních a střelivu a o změně zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, (zákon o zbraních), ve znění pozdějších předpisů, a některé další zákony"
+identifier: "170/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/170/2026-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2013-05-16
+effective: 2014-07-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/170"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 170/2013 Sb., kterým se mění zákon č. 119/2002 Sb., o střelných zbraních a střelivu a o změně zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, (zákon o zbraních), ve znění pozdějších předpisů, a některé další zákony ve znění zákona č. 90/2024 Sb."
+---
+
+# Zákon č. 170/2013 Sb., kterým se mění zákon č. 119/2002 Sb., o střelných zbraních a střelivu a o změně zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, (zákon o zbraních), ve znění pozdějších předpisů, a některé další zákony
+
+170
+
+ZÁKON
+
+ze dne 16. května 2013,
+
+kterým se mění zákon č. 119/2002 Sb., o střelných zbraních a střelivu a o změně zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, a zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, (zákon o zbraních), ve znění pozdějších předpisů, a některé další zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o zpravodajských službách
+
+### Čl. III
+
+V § 11 odst. 2 zákona č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění zákona č. 227/2009 Sb., se za slova „agendovém informačním systému evidence diplomatických a služebních pasů<sup>3e</sup>),“ vkládají slova „centrálním registru zbraní<sup>8</sup>),“.
+
+Poznámka pod čarou č. 8 zní:
+
+> „<sup>8</sup>) Zákon č. 119/2002 Sb., o střelných zbraních a střelivu (zákon o zbraních), ve znění pozdějších předpisů.“.
+
+## ČÁST TŘETÍ – Změna zákona o ověřování střelných zbraní, střeliva a pyrotechnických předmětů
+
+### Čl. IV
+
+V § 17 zákona č. 156/2000 Sb., o ověřování střelných zbraní, střeliva a pyrotechnických předmětů a o změně zákona č. 288/1995 Sb., o střelných zbraních a střelivu (zákon o střelných zbraních), ve znění zákona č. 13/1998 Sb., a zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění zákona č. 119/2002 Sb., zákona č. 309/2002 Sb., zákona č. 227/2003 Sb., zákona č. 36/2008 Sb. a zákona č. 148/2010 Sb., se za odstavec 6 vkládá nový odstavec 7, který zní:
+
+> „(7) Při plnění úkolů státní správy podle tohoto zákona nebo zvláštního právního předpisu je Úřad oprávněn pro výkon své působnosti vstupovat do centrálního registru zbraní, ve kterém jsou vedeny údaje o zbraních a střelivu, a provádět v něm záznamy.“.
+
+Dosavadní odstavce 7 až 10 se označují jako odstavce 8 až 11.
+
+## ČÁST ČTVRTÁ – Změna exekučního řádu
+
+### Čl. V
+
+V § 33 odst. 3 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění zákona č. 360/2003 Sb., zákona č. 257/2004 Sb., zákona č. 286/2009 Sb. a zákona č. 188/2011 Sb., se za slova „motorových vozidel,“ vkládají slova „orgán pověřený vedením informačního systému veřejné správy, ve kterém jsou vedeny údaje o zbraních, střelivu a provozovaných střelnicích,“.
+
+## ČÁST PÁTÁ – Změna zákona o myslivosti
+
+### Čl. VI
+
+Zákon č. 449/2001 Sb., o myslivosti, ve znění zákona č. 320/2002 Sb., zákona č. 59/2003 Sb., zákona č. 444/2005 Sb., zákona č. 267/2006 Sb., zákona č. 296/2007 Sb., zákona č. 124/2008 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 18/2012 Sb. a zákona č. 501/2012 Sb., se mění takto:
+
+1\. V § 45 odst. 1 písm. g) se slova „hledí pro střelbu v noci s elektronickým zvětšením obrazu nebo pro převracení obrazu“ nahrazují slovy „zaměřovače zbraní konstruovaného na principu noktovizorů“.
+
+2\. V § 45 odst. 1 se na konci textu písmene w) doplňují slova „na mokřadech“.
+
+## ČÁST ŠESTÁ – Změna zákona o správních poplatcích
+
+### Čl. VII
+
+Příloha k zákonu č. 634/2004 Sb., o správních poplatcích, ve znění zákona č. 217/2005 Sb., zákona č. 228/2005 Sb., zákona č. 361/2005 Sb., zákona č. 444/2005 Sb., zákona č. 545/2005 Sb., zákona č. 553/2005 Sb., zákona č. 48/2006 Sb., zákona č. 56/2006 Sb., zákona č. 57/2006 Sb., zákona č. 81/2006 Sb., zákona č. 109/2006 Sb., zákona č. 112/2006 Sb., zákona č. 130/2006 Sb., zákona č. 136/2006 Sb., zákona č. 138/2006 Sb., zákona č. 161/2006 Sb., zákona č. 179/2006 Sb., zákona č. 186/2006 Sb., zákona č. 215/2006 Sb., zákona č. 226/2006 Sb., zákona č. 227/2006 Sb., zákona č. 235/2006 Sb., zákona č. 312/2006 Sb., zákona č. 575/2006 Sb., zákona č. 106/2007 Sb., zákona č. 261/2007 Sb., zákona č. 269/2007 Sb., zákona č. 374/2007 Sb., zákona č. 379/2007 Sb., zákona č. 38/2008 Sb., zákona č. 130/2008 Sb., zákona č. 140/2008 Sb., zákona č. 182/2008 Sb., zákona č. 189/2008 Sb., zákona č. 230/2008 Sb., zákona č. 239/2008 Sb., zákona č. 254/2008 Sb., zákona č. 296/2008 Sb., zákona č. 297/2008 Sb., zákona č. 301/2008 Sb., zákona č. 309/2008 Sb., zákona č. 312/2008 Sb., zákona č. 382/2008 Sb., zákona č. 9/2009 Sb., zákona č. 141/2009 Sb., zákona č. 197/2009 Sb., zákona č. 206/2009 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 291/2009 Sb., zákona č. 301/2009 Sb., zákona č. 346/2009 Sb., zákona č. 420/2009 Sb., zákona č. 132/2010 Sb., zákona č. 148/2010 Sb., zákona č. 153/2010 Sb., zákona č. 160/2010 Sb., zákona č. 343/2010 Sb., zákona č. 427/2010 Sb., zákona č. 30/2011 Sb., zákona č. 105/2011 Sb., zákona č. 133/2011 Sb., zákona č. 134/2011 Sb., zákona č. 152/2011 Sb., zákona č. 188/2011 Sb., zákona č. 245/2011 Sb., zákona č. 249/2011 Sb., zákona č. 255/2011 Sb., zákona č. 262/2011 Sb., zákona č. 300/2011 Sb., zákona č. 308/2011 Sb., zákona č. 329/2011 Sb., zákona č. 344/2011 Sb., zákona č. 349/2011 Sb., zákona č. 350/2011 Sb., zákona č. 357/2011 Sb., zákona č. 367/2011 Sb., zákona č. 375/2011 Sb., zákona č. 428/2011 Sb., zákona č. 457/2011 Sb., zákona č. 458/2011 Sb., zákona č. 472/2011 Sb., zákona č. 19/2012 Sb., zákona č. 37/2012 Sb., zákona č. 53/2012 Sb., zákona č. 119/2012 Sb., zákona č. 169/2012 Sb., zákona č. 172/2012 Sb., zákona č. 202/2012 Sb., zákona č. 221/2012 Sb., zákona č. 225/2012 Sb., zákona č. 274/2012 Sb., zákona č. 350/2012 Sb., zákona č. 359/2012 Sb., zákona č. 399/2012 Sb., zákona č. 407/2012 Sb., zákona č. 428/2012 Sb., zákona č. 496/2012 Sb., zákona č. 502/2012 Sb., zákona č. 503/2012 Sb., zákona č. 50/2013 Sb. a zákona č. 69/2013 Sb., se mění takto:
+
+1\. Položky 30 a 31 znějí:
+
+> „**Položka 30**
+
+> <table><tbody><tr><td>a) Přijetí žádosti o vydání zbrojního průkazu za každou skupinu rozsahu oprávnění</td><td>Kč</td><td>700</td></tr><tr><td>b) Přijetí žádosti o vydání zbrojní licence za každou skupinu rozsahu oprávnění </td><td>Kč</td><td>1 500</td></tr><tr><td>c) Přijetí žádosti o vydání průkazu zbraně</td><td>Kč</td><td>300</td></tr><tr><td>d) Přijetí žádosti o rozšíření skupin zbrojního průkazu za každou další skupinu rozsahu oprávnění</td><td>Kč</td><td>700</td></tr><tr><td>e) Přijetí žádosti o rozšíření skupin zbrojní licence za každou další skupinu rozsahu oprávnění</td><td>Kč</td><td>1 500</td></tr><tr><td><b>Zmocnění</b></td><td></td><td></td></tr><tr><td colspan="3">1. Správní úřad může snížit poplatek podle písmene a) nebo c) této položky, až na 50 Kč, vydává-li průkazy v důsledku změny jména nebo příjmení fyzické osoby.</td></tr><tr><td colspan="3">2. Správní úřad může snížit poplatek podle písmene b) nebo c) této položky až na 200 Kč, vydává-li průkazy nebo licenci v důsledku změny názvu, sídla, změny provozovny nebo identifikačního čísla podnikající fyzické nebo právnické osoby.</td></tr><tr><td colspan="3">3. Správní úřad může snížit poplatek za vydání nového zbrojního průkazu na 400 Kč bez přihlédnutí ke skupinám rozsahu oprávnění, uplyne-li doba platnosti zbrojního průkazu.</td></tr><tr><td colspan="3">4. Správní úřad může snížit poplatek podle písmene c) této položky na 100 Kč, jde-li o zbraně sportovních střelců, členů sportovních klubů a o zbraně myslivců, členů mysliveckých sdružení.</td></tr><tr><td colspan="3"><b>Poznámky</b></td></tr><tr><td colspan="3">1. Za vydání duplikátů dokladů uvedených v písmenech a) až c) této položky se vybírá poplatek podle položky 16 písmene a) tohoto sazebníku.</td></tr><tr><td colspan="3">2. Za vydání nového zbrojního průkazu po uplynutí doby jeho platnosti se vybírá poplatek podle písmene a) této položky.</td></tr></tbody></table>
+
+> **Položka 31**
+
+> | a) Přijetí žádosti o vydání povolení k provozování střelnice na dobu určitou, nejdéle na | | |
+> |---|---|---|
+> | – týden | Kč | 300 |
+> | – měsíc | Kč | 800 |
+> | b) Přijetí žádosti o vydání povolení k provozování střelnice na dobu neurčitou | Kč | 1 500 |
+> | c) Přijetí žádosti o vydání povolení ke znehodnocení, zničení nebo výrobě řezu zbraně za každou zbraň | Kč | 300 |
+> | d) Přijetí přihlášky ke zkoušce odborné způsobilosti žadatele o vydání zbrojního průkazu | Kč | 100 |
+> | e) Přijetí žádosti o jmenování zkušebním komisařem | Kč | 200 |
+> | f) Přijetí žádosti o udělení výjimky k nabytí vlastnictví, držení nebo nošení zbraně kategorie A | Kč | 1 000 |
+> | g) Přijetí žádosti o vydání povolení k nabytí vlastnictví, držení nebo nošení zbraně kategorie B | Kč | 200 |
+> | h) Přijetí žádosti o vydání povolení k vystavování zbraní | Kč | 1 500“. |
+
+2\. Položka 33 zní:
+
+> „**Položka 33**
+
+> <table><tbody><tr><td>a) Přijetí žádosti o vydání zbrojního průvodního listu pro trvalý vývoz, dovoz nebo tranzit zbraně nebo střeliva</td><td>Kč</td><td>800</td></tr><tr><td>b) Přijetí žádosti o vydání jednorázového dokladu o povolení přepravy zbraní nebo střeliva</td><td>Kč</td><td>300</td></tr><tr><td>c) Přijetí žádosti o vydání povolení přepravovat zbraně nebo střelivo</td><td>Kč</td><td>1 500</td></tr><tr><td>d) Přijetí žádosti o vydání evropského zbrojního pasu</td><td>Kč</td><td>700</td></tr><tr><td>e) Přijetí žádosti o prodloužení evropského zbrojního pasu</td><td>Kč</td><td>700</td></tr><tr><td>f) Zapsání zbraně do evropského zbrojního pasu</td><td>Kč</td><td>100</td></tr><tr><td><b>Zmocnění</b></td><td></td><td></td></tr><tr><td colspan="3">Správní úřad může snížit poplatek podle písmene d) této položky až na 50 Kč, vydává-li evropský zbrojní pas v důsledku změny jména nebo příjmení fyzické osoby.</td></tr><tr><td><b>Osvobození</b></td><td></td><td></td></tr><tr><td colspan="3">1. Od poplatku podle písmene a) této položky jsou osvobozeni cizinci, kteří přijedou do České republiky na pozvání nebo se souhlasem vlády České republiky nebo Parlamentu České republiky. Od poplatku podle písmene a) této položky jsou dále osvobozeny osoby, které se zúčastní mezinárodních akcí ve sportovní střelbě a dalších sportovních soutěží, jejichž součástí je sportovní střelba, jde-li o zbraně určené pro sportovní účely.</td></tr><tr><td colspan="3">2. Od poplatku podle písmene a) této položky jsou osvobozeny zbrojní průvodní listy pro trvalý vývoz, dovoz nebo tranzit na zbraně získané jako ceny ve střeleckých nebo podobných soutěžích.“.</td></tr></tbody></table>
+
+## ČÁST SEDMÁ – ÚČINNOST
+
+### Čl. VIII
+
+Tento zákon nabývá účinnosti dnem 1. července 2014.
+
+Němcová v. r.
+
+Zeman v. r.
+
+Nečas v. r.
+
+---

@@ -1,0 +1,45 @@
+---
+title: "Vyhláška č. 103/2014 Sb., kterou se mění vyhláška č. 72/2005 Sb., o poskytování poradenských služeb ve školách a školských poradenských zařízeních, ve znění vyhlášky č. 116/2011 Sb., a vyhláška č. 73/2005 Sb., o vzdělávání dětí, žáků a studentů se speciálními vzdělávacími potřebami a dětí, žáků a studentů mimořádně nadaných, ve znění vyhlášky č. 147/2011 Sb."
+identifier: "103/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/103/2016-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-05-30
+effective: 2014-09-01
+last_amended: 2016-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/103"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 103/2014 Sb., kterou se mění vyhláška č. 72/2005 Sb., o poskytování poradenských služeb ve školách a školských poradenských zařízeních, ve znění vyhlášky č. 116/2011 Sb., a vyhláška č. 73/2005 Sb., o vzdělávání dětí, žáků a studentů se speciálními vzdělávacími potřebami a dětí, žáků a studentů mimořádně nadaných, ve znění vyhlášky č. 147/2011 Sb. ve znění vyhlášky č. 27/2016 Sb."
+---
+
+# Vyhláška č. 103/2014 Sb., kterou se mění vyhláška č. 72/2005 Sb., o poskytování poradenských služeb ve školách a školských poradenských zařízeních, ve znění vyhlášky č. 116/2011 Sb., a vyhláška č. 73/2005 Sb., o vzdělávání dětí, žáků a studentů se speciálními vzdělávacími potřebami a dětí, žáků a studentů mimořádně nadaných, ve znění vyhlášky č. 147/2011 Sb.
+
+103
+
+VYHLÁŠKA
+
+ze dne 30. května 2014,
+
+kterou se mění vyhláška č. 72/2005 Sb., o poskytování poradenských služeb ve školách a školských poradenských zařízeních, ve znění vyhlášky č. 116/2011 Sb., a vyhláška č. 73/2005 Sb., o vzdělávání dětí, žáků a studentů se speciálními vzdělávacími potřebami a dětí, žáků a studentů mimořádně nadaných, ve znění vyhlášky č. 147/2011 Sb.
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 19 a § 121 odst. 1 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění zákona č. 333/2012 Sb.:
+
+## Čl. I – Změna vyhlášky č. 72/2005 Sb.
+
+V § 1 odst. 5 větě páté vyhlášky č. 72/2005 Sb., o poskytování poradenských služeb ve školách a školských poradenských zařízeních, ve znění vyhlášky č. 116/2011 Sb., se slovo „určitou,“ zrušuje a slova „se zdravotním“ se nahrazují slovy „s lehkým mentálním“.
+
+## Čl. III – Přechodná ustanovení
+
+1\. Doporučení zařazení dítěte, žáka nebo studenta do školy nebo vzdělávacího programu pro děti, žáky nebo studenty se zdravotním postižením, s výjimkou lehkého mentálního postižení, vydaná přede dnem nabytí účinnosti této vyhlášky a platná ke dni nabytí účinnosti této vyhlášky, jsou nadále platná po dobu odpovídající účelu doporučení.
+
+2\. Děti, žáci a studenti bez zdravotního postižení, zařazení ke dni nabytí účinnosti této vyhlášky do školy, třídy nebo studijní skupiny zřízené pro děti, žáky nebo studenty se zdravotním postižením, se mohou vzdělávat podle dosavadních právních předpisů. Ředitel školy bez zbytečného odkladu projedná se zákonným zástupcem dítěte nebo žáka nebo se žákem nebo studentem, zda trvá na vzdělávání podle věty první; není-li tomu tak, ředitel školy poskytne součinnost a metodickou pomoc k zajištění nejvhodnějšího způsobu vzdělávání. Záznam o projednání podle věty druhé, podepsaný zákonným zástupcem dítěte nebo žáka nebo žákem nebo studentem, založí ředitel školy do dokumentace dítěte, žáka nebo studenta.
+
+## Čl. IV – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2014.
+
+Ministr:
+
+PhDr. Chládek, MBA, v. r.

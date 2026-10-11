@@ -1,0 +1,186 @@
+---
+title: "Vyhláška č. 89/2006 Sb., o bližších podmínkách pěstování geneticky modifikované odrůdy"
+identifier: "89/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/89/2017-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-03-10
+effective: 2006-03-20
+last_amended: 2017-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/89"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 89/2006 Sb., o bližších podmínkách pěstování geneticky modifikované odrůdy ve znění vyhlášky č. 58/2010 Sb. a vyhlášky č. 392/2016 Sb."
+---
+
+# Vyhláška č. 89/2006 Sb., o bližších podmínkách pěstování geneticky modifikované odrůdy
+
+89
+
+VYHLÁŠKA
+
+ze dne 10. března 2006
+
+o bližších podmínkách pěstování geneticky modifikované odrůdy
+
+Ministerstvo zemědělství stanoví podle § 2i odst. 4 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 441/2005 Sb., (dále jen „zákon“):
+
+## § 1 – Úvodní ustanovení
+
+(1) Tato vyhláška<sup>1</sup>) zapracovává příslušné předpisy Evropských společenství<sup>2</sup>) a upravuje bližší podmínky pěstování geneticky modifikované odrůdy.
+
+(2) Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu poskytování informací v oblasti technických norem a předpisů a pravidel pro služby informační společnosti, ve znění směrnice 98/48/ES.
+
+## § 2 – Vzdálenosti mezi díly půdních bloků při pěstování geneticky modifikované odrůdy
+
+[K § 2i odst. 1 a odst. 2 písm. c) zákona]
+
+Vzdálenosti stanovené pro jednotlivou plodinu mezi dílem půdního bloku, na kterém fyzická nebo právnická osoba hodlá v příslušném kalendářním roce pěstovat, popřípadě pěstuje, geneticky modifikovanou odrůdu<sup>3</sup>), a dílem půdního bloku jiného uživatele, jsou uvedeny v příloze k této vyhlášce.
+
+## § 2a – Minimální vzdálenost od státní hranice při pěstování geneticky modifikované odrůdy
+
+[K § 2i odst. 2 písm. f) a odst. 4 písm. g) zákona]
+
+Minimální vzdálenost místa pěstování geneticky modifikované odrůdy od státní hranice České republiky<sup>5</sup>) pro jednotlivou plodinu je uvedena v příloze k této vyhlášce.
+
+## § 3 – Lhůta pro poskytování informací před předpokládaným zahájením pěstování geneticky modifikované odrůdy
+
+(K § 2i odst. 1 zákona)
+
+Lhůta pro poskytování informací před předpokládaným zahájením pěstování geneticky modifikované odrůdy<sup>3</sup>) v příslušném kalendářním roce na dílu půdního bloku, fyzickou nebo právnickou osobou stanovená pro jednotlivou plodinu je uvedena v příloze k této vyhlášce.
+
+## § 4 – Rozsah poskytování informací o pěstování geneticky modifikované odrůdy
+
+[K § 2i odst. 1 a odst. 2 písm. d) zákona]
+
+(1) Údaje poskytované uživateli dílu půdního bloku, nacházejícího se ve vzdálenosti stanovené pro jednotlivé plodiny v § 5, fyzickou nebo právnickou osobou, která hodlá pěstovat v příslušném kalendářním roce na dílu půdního bloku geneticky modifikovanou odrůdu<sup>3</sup>), jsou
+
+a) jméno, popřípadě jména, a příjmení nebo obchodní firma, včetně sídla nebo adresa místa trvalého pobytu, je-li oznamovatelem fyzická osoba,
+
+b) název včetně sídla, popřípadě umístnění pobočky na území České republiky, je-li oznamovatelem právnická osoba,
+
+c) název plodiny,
+
+d) identifikační kód příslušného geneticky modifikovaného organismu<sup>4</sup>),
+
+e) identifikační kód dílu půdního bloku, na kterém bude pěstována geneticky modifikovaná odrůda,
+
+f) předpokládaná výměra plochy, na které bude pěstována geneticky modifikovaná odrůda,
+
+g) předpokládané datum zahájení pěstování geneticky modifikované odrůdy,
+
+h) informace o tom, zda bude provedeno obsetí, včetně jeho rozsahu.
+
+(2) Údaje poskytované Státnímu zemědělskému intervenčnímu fondu fyzickou nebo právnickou osobou, která pěstuje v příslušném kalendářním roce geneticky modifikovanou odrůdu<sup>3</sup>) na dílu půdního bloku, jsou
+
+a) jméno, popřípadě jména, a příjmení nebo obchodní firma, včetně sídla nebo adresa místa trvalého pobytu, je-li oznamovatelem fyzická osoba,
+
+b) název včetně sídla, popřípadě umístnění pobočky na území České republiky, je-li oznamovatelem právnická osoba,
+
+c) identifikační číslo, pokud je přiděleno,
+
+d) registrační číslo uživatele dílu půdního bloku, podle evidence půdy podle uživatelských vztahů, pokud je přiděleno,
+
+e) název plodiny,
+
+f) identifikační kód příslušného geneticky modifikovaného organismu<sup>4</sup>),
+
+g) identifikační kód dílu půdního bloku, na kterém je pěstována geneticky modifikovaná odrůda,
+
+h) výměra plochy, na které je pěstována geneticky modifikovaná odrůda,
+
+i) zakreslení pěstování geneticky modifikované odrůdy v mapě dílů půdních bloků, v měřítku 1:10 000 nebo v měřítku podrobnějším, v případě, že se plocha pěstování geneticky modifikované odrůdy neshoduje s dílem půdního bloku,
+
+j) datum zahájení pěstování geneticky modifikované odrůdy,
+
+k) informace o tom, zda bylo provedeno obsetí, včetně jeho rozsahu.
+
+(3) Údaje podle odstavce 2 lze podat na formuláři vydaném Státním zemědělským intervenčním fondem.
+
+## § 5 – Minimální vzdálenosti pěstování geneticky modifikované odrůdy
+
+[K § 2i odst. 2 písm. a) a b) zákona]
+
+Minimální vzdálenosti pěstování geneticky modifikované odrůdy<sup>3</sup>) v příslušném kalendářním roce fyzickou nebo právnickou osobou od místa pěstování odrůdy téže plodiny, která není geneticky modifikovanou odrůdou, nebo od místa pěstování geneticky modifikované odrůdy téže plodiny s odlišným identifikačním kódem<sup>4</sup>), stanovené pro jednotlivou plodinu jsou uvedeny v příloze k této vyhlášce.
+
+## § 6 – Rozsah uchovávaných údajů o pěstování geneticky modifikované odrůdy
+
+[K § 2i odst. 2 písm. e) zákona]
+
+Údaje o pěstování v příslušném kalendářním roce geneticky modifikované odrůdy<sup>3</sup>) na dílu půdního bloku, uchovávané fyzickou nebo právnickou osobou pro jednotlivou plodinu jsou
+
+a) název plodiny,
+
+b) název geneticky modifikované odrůdy,
+
+c) jednoznačný identifikační kód příslušného geneticky modifikovaného organismu (plodiny)<sup>4</sup>),
+
+d) identifikační kód dílu půdního bloku, na kterém je geneticky modifikovaná odrůda pěstována,
+
+e) výměra plochy, na které je pěstována geneticky modifikovaná odrůda,
+
+f) zakreslení pěstování geneticky modifikované odrůdy v mapě dílů půdních bloků, v měřítku 1 : 10 000 nebo v měřítku podrobnějším, v případě, že se plocha pěstování geneticky modifikované odrůdy neshoduje s dílem půdního bloku,
+
+g) datum zahájení pěstování geneticky modifikované odrůdy,
+
+h) informace o tom, zda je provedeno obsetí, včetně jeho rozsahu,
+
+i) datum nákupu osiva nebo sadby geneticky modifikované odrůdy, včetně údajů o nakoupeném množství, a údaje umožňující identifikaci prodávajícího,
+
+j) množství zaseté nebo vysázené geneticky modifikované odrůdy,
+
+k) datum sklizně geneticky modifikované odrůdy a množství sklizeného produktu geneticky modifikované odrůdy,
+
+l) místo skladování geneticky modifikované odrůdy,
+
+m) datum prodeje sklizeného produktu geneticky modifikované odrůdy, včetně údajů o prodaném množství, a údaje umožňující identifikaci kupujícího,
+
+n) údaje o způsobu využití produktu geneticky modifikované odrůdy, který nebyl prodán podle písmene m).
+
+## § 7 – Rozsah obsetí geneticky modifikované odrůdy stejnou plodinou, která není geneticky modifikovaná
+
+(K § 2i odst. 3 zákona)
+
+Rozsah obsetí geneticky modifikované odrůdy<sup>3</sup>) pěstované v příslušném kalendářním roce fyzickou nebo právnickou osobou na dílu půdního bloku, odrůdou téže plodiny, která není geneticky modifikovaná, stanovený pro jednotlivou plodinu je uveden v příloze k této vyhlášce.
+
+## § 8 – Přechodné ustanovení
+
+V kalendářním roce 2006 je lhůta pro poskytování informací před předpokládaným zahájením pěstování geneticky modifikované odrůdy podle § 3 stanovena do 15. dubna 2006.
+
+## § 9 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministr:
+
+Ing. Mládek, CSc. v. r.
+
+### Příloha k vyhlášce č. 89/2006 Sb.
+
+#### Vzdálenosti, lhůty a rozsah obsetí stanovené pro jednotlivé plodiny při pěstování geneticky modifikované odrůdy
+
+| Plodina | Brambory | Kukuřice | Sója |
+|---|---|---|---|
+| Vzdálenost mezi dílem půdního bloku při poskytování informací v případě, že se nejedná o režim ekologického zemědělství | do 20 m | do 140 m | do 20 m |
+| Vzdálenost mezi dílem půdního bloku při poskytování informací v případě, že se jedná o režim ekologického zemědělství | do 40 m | do 400 m | do 40 m |
+| Minimální vzdálenost pěstování geneticky modifikované odrůdy od státní hranice České republiky | 400 m | 400 m | 400 m |
+| Lhůta pro poskytování informací před předpokládaným zahájením pěstování geneticky modifikované odrůdy | do 1.3. příslušného kalendářního roku | do 1. 3. příslušného kalendářního roku | do 1.3. příslušného kalendářního roku |
+| Minimální vzdálenosti pěstování geneticky modifikované odrůdy v případě, že se nejedná o režim ekologického zemědělství, a mezi stejnými plodinami s odlišným jednoznačným identifikačním kódem<sup>4</sup>) | 3 m; na počátku i na konci sázené partie nejméně 10 m v šíři sazeče | 70 m | 10 m |
+| Minimální vzdálenosti pěstování geneticky modifikované odrůdy v případě, že se jedná o režim ekologického zemědělství | 20 m | 200 m | 20 m |
+| Rozsah obsetí stejnou plodinou, která není geneticky modifikovaná, v případě, že se nejedná o režim ekologického zemědělství | - | 1 řada obsetí v minimální šíři 0,7 m nahrazuje 2 m minimální vzdálenosti | - |
+| Rozsah obsetí stejnou plodinou, která není geneticky modifikovaná, v případě, že se jedná o režim ekologického zemědělství | - | 1 řada obsetí v minimální šíři 0,7 m nahrazuje 2 m minimální vzdálenosti; nejvíce však lze nahradit 100 m minimální vzdálenosti | - |
+
+---
+
+<sup>1</sup>) Je vydána na základě a v mezích zákona, jehož obsah umožňuje zapracovat příslušné předpisy Evropských společenství vyhláškou.
+
+<sup>2</sup>) Čl. 26a směrnice Evropského parlamentu a Rady (ES) č. 2001/18 ze dne 21. března 2001 o záměrném uvolňování geneticky modifikovaných organismů do životního prostředí a o zrušení směrnice Rady č. 90/220/EHS. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 1829/2003 ze dne 22. září 2003 o geneticky modifikovaných potravinách a krmivech. 
+ Doporučení Komise (ES) č. 2003/556 ze dne 23. července 2003 o pokynech pro rozvoj národních strategií a ověřených postupů k zajištění koexistence geneticky modifikovaných, konvenčních a ekologických plodin.
+
+<sup>3</sup>) § 2 písm. d) zákona č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby).
+
+<sup>4</sup>) Čl. 3 odst. 4 nařízení Evropského parlamentu a Rady (ES) č. 1830/2003 ze dne 22. září 2003 o sledovatelnosti a označování geneticky modifikovaných organismů a sledovatelnosti potravin a krmiv vyrobených z geneticky modifikovaných organismů a o změně směrnice 2001/18/ES.
+
+<sup>5</sup>) Čl. 1 bod 1 směrnice Evropského parlamentu a Rady (EU) 2015/412 ze dne 11. března 2015, kterou se mění směrnice 2001/18/ES, pokud jde o možnost členských států omezit či zakázat pěstování geneticky modifikovaných organismů (GMO) na svém území.

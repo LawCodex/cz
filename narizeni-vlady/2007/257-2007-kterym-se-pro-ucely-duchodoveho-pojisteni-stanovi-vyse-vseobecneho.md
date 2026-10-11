@@ -1,0 +1,54 @@
+---
+title: "Nařízení vlády č. 257/2007 Sb., kterým se pro účely důchodového pojištění stanoví výše všeobecného vyměřovacího základu za rok 2006 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2006 a upravují částky pro stanovení výpočtového základu"
+identifier: "257/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/257/2008-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2007-09-24
+effective: 2008-01-01
+last_amended: 2008-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/257"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 257/2007 Sb., kterým se pro účely důchodového pojištění stanoví výše všeobecného vyměřovacího základu za rok 2006 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2006 a upravují částky pro stanovení výpočtového základu
+
+257
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 24. září 2007,
+
+kterým se pro účely důchodového pojištění stanoví výše všeobecného vyměřovacího základu za rok 2006 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2006 a upravují částky pro stanovení výpočtového základu
+
+Vláda nařizuje podle § 17 odst. 2 a 4 a § 107 odst. 2 zákona č. 155/1995 Sb., o důchodovém pojištění, ve znění zákona č. 134/1997 Sb., zákona č. 289/1997 Sb. a zákona č. 353/2001 Sb.:
+
+## § 1
+
+Výše všeobecného vyměřovacího základu za rok 2006 činí 20 050 Kč.
+
+## § 2
+
+Výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2006 činí 1,0753.
+
+## § 3
+
+Částky pro stanovení výpočtového základu uvedené v § 15 zákona č. 155/1995 Sb. a naposledy zvýšené nařízením vlády č. 462/2006 Sb. se zvyšují takto:
+
+a) částky 9 600 Kč se zvyšují na 10 000 Kč,
+
+b) částky 23 300 Kč se zvyšují na 24 800 Kč.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2008.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+RNDr. Nečas v. r.

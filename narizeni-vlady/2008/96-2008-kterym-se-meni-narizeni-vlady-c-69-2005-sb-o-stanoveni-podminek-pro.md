@@ -1,0 +1,60 @@
+---
+title: "Nařízení vlády č. 96/2008 Sb., kterým se mění nařízení vlády č. 69/2005 Sb., o stanovení podmínek pro poskytování dotace v souvislosti s předčasným ukončením provozování zemědělské činnosti zemědělského podnikatele, ve znění nařízení vlády č. 512/2006 Sb."
+identifier: "96/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/96/2008-03-15"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2008-03-05
+effective: 2008-03-15
+last_amended: 2008-03-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/96"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 96/2008 Sb., kterým se mění nařízení vlády č. 69/2005 Sb., o stanovení podmínek pro poskytování dotace v souvislosti s předčasným ukončením provozování zemědělské činnosti zemědělského podnikatele, ve znění nařízení vlády č. 512/2006 Sb.
+
+96
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 5. března 2008,
+
+kterým se mění nařízení vlády č. 69/2005 Sb., o stanovení podmínek pro poskytování dotace v souvislosti s předčasným ukončením provozování zemědělské činnosti zemědělského podnikatele, ve znění nařízení vlády č. 512/2006 Sb.
+
+Vláda nařizuje podle § 2c odst. 5 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 85/2004 Sb., (dále jen „zákon“) k provedení § 2c odst. 2 písm. e) zákona, a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 69/2005 Sb., o stanovení podmínek pro poskytování dotace v souvislosti s předčasným ukončením provozování zemědělské činnosti zemědělského podnikatele, ve znění nařízení vlády č. 512/2006 Sb., se mění takto:
+
+1\. V § 9 odstavec 2 zní:
+
+> „(2) Nesplní-li nabyvatel závazek podle § 3 odst. 4 písm. f), týkající se rozlohy obhospodařování zemědělských pozemků, Fond rozhodne o
+
+> a) snížení dotace o 10 %, je-li závazek porušen v rozsahu nad 10 % do 20 % výměry zemědělských pozemků,
+
+> b) snížení dotace o 50 %, je-li závazek porušen v rozsahu nad 20 % do 30 % výměry zemědělských pozemků,
+
+> c) zastavení poskytování dotace, je-li závazek porušen v rozsahu nad 30 % výměry zemědělských pozemků.“.
+
+2\. V § 9 se za odstavec 2 vkládá nový odstavec 3, který zní:
+
+> „(3) Je-li závazek podle § 3 odst. 4 písm. f), týkající se rozlohy obhospodařování zemědělských pozemků, porušen v rozsahu nepřesahujícím 10 % výměry zemědělských pozemků, postup podle odstavce 2 se neuplatní.“.
+
+Dosavadní odstavec 3 se označuje jako odstavec 4.
+
+3\. V § 9 odst. 4 úvodní části ustanovení se za slova „podle odstavce 2“ vkládá slovo „rovněž“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 15. března 2008.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+Ministr zemědělství:
+
+Mgr. Gandalovič v. r.

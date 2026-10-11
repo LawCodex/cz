@@ -1,0 +1,224 @@
+---
+title: "Vyhláška č. 257/2009 Sb., o používání sedimentů na zemědělské půdě"
+identifier: "257/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/257/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-08-05
+effective: 2009-09-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/257"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 257/2009 Sb., o používání sedimentů na zemědělské půdě ve znění vyhlášky č. 93/2023 Sb. a vyhlášky č. 483/2025 Sb."
+---
+
+# Vyhláška č. 257/2009 Sb., o používání sedimentů na zemědělské půdě
+
+257
+
+VYHLÁŠKA
+
+ze dne 5. srpna 2009
+
+o používání sedimentů na zemědělské půdě
+
+Ministerstvo zemědělství a Ministerstvo životního prostředí stanoví podle § 9 odst. 10 zákona č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění zákona č. 9/2009 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví podmínky a způsob používání sedimentů na zemědělské půdě, způsob vedení evidence o použití sedimentů, způsob hlášení o používání sedimentů, limitní hodnoty rizikových prvků a rizikových látek v sedimentu a v půdě, na kterou má být použit, požadavky na další fyzikálně-chemické a biologické vlastnosti sedimentu a postupy rozboru sedimentů a půdy, včetně metod odběru vzorků.
+
+## § 2 – Limitní hodnoty rizikových prvků a rizikových látek v sedimentu a v půdě, na kterou má být použit, a biologické vlastnosti sedimentu
+
+(1) Limitní hodnoty rizikových prvků a rizikových látek v sedimentu jsou stanoveny v příloze č. 1 k této vyhlášce. Limitní hodnoty jsou stanoveny při použití postupů podle určených norem (§ 4 odst. 1 a 2) publikovaných ve Věstníku Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví. Určenou normou se rozumí česká technická norma, další technická norma nebo technický dokument mezinárodních, popřípadě zahraničních organizací nebo jiný technický dokument obsahující podrobnější technické požadavky, určené a oznámené k této vyhlášce podle zákona o technických požadavcích na výrobky<sup>1</sup>) (dále jen „určená norma“). Dodržení limitních hodnot se prokazuje protokolem o výsledcích analýz vzorků sedimentu a průvodním listem odběru vzorků sedimentu. Vzor formuláře průvodního listu odběru vzorků sedimentu je uveden v příloze č. 2 k této vyhlášce.
+
+(2) Limitní hodnoty rizikových prvků a rizikových látek v půdě, na kterou má být sediment použit, jsou stanoveny v příloze č. 1 vyhlášky o stanovení podrobností ochrany kvality zemědělské půdy<sup>5</sup>) s tím, že seznam povinně sledovaných rizikových prvků a rizikových látek je uveden v příloze č. 3 k této vyhlášce. Limitní hodnoty jsou stanoveny při použití postupů podle určených norem (§ 4 odst. 1 a 2) publikovaných ve Věstníku Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví. Dodržení limitních hodnot se prokazuje protokolem o výsledcích analýz vzorků půd a průvodním listem odběru vzorků půdy. Vzor formuláře průvodního listu odběru vzorků půdy je uveden v příloze č. 2 k této vyhlášce.
+
+(3) Limitní hodnoty rizikových prvků v půdě nejsou stanoveny pro půdy na substrátech s geogenně podmíněnými extrémními obsahy některých rizikových prvků.
+
+(4) V případech, kdy je vzhledem k specifickým místním podmínkám podezření z kontaminace sedimentu jinými rizikovými prvky nebo rizikovými látkami, než které jsou uvedeny v příloze č. 1 k této vyhlášce, a to v koncentracích, které by mohly vést k poškození fyzikálních, chemických nebo biologických vlastností zemědělské půdy [§ 9 odst. 2 písm. c) zákona o hnojivech], se postupuje podle zákona o ochraně zemědělského půdního fondu<sup>2</sup>). Biologické vlastnosti sedimentu a půdy a kontaminace sedimentu patogenními činiteli se zjišťují ekotoxikologickými testy a sledováním indikátorových mikroorganismů podle přílohy č. 4 k této vyhlášce.
+
+## § 3 – Podmínky a způsob používání sedimentů na zemědělské půdě
+
+Na zemědělské půdě lze používat sedimenty, pokud
+
+a) hodnoty koncentrací rizikových prvků a rizikových látek v nich obsažených nepřesahují limitní hodnoty stanovené v příloze č. 1 k této vyhlášce; při hodnocení obsahů prvků a látek je nutné od výsledku uvedeného v protokolu o výsledcích odečíst hodnotu odpovídající uvedené nejistotě měření,
+
+b) koncentrace rizikových prvků a rizikových látek v půdě nepřesahují preventivní hodnoty uvedené v příloze č. 1 k vyhlášce o stanovení podrobností ochrany kvality zemědělské půdy<sup>5</sup>), jejich seznam je uveden v příloze č. 3 k této vyhlášce; při hodnocení obsahů prvků a látek je nutné od výsledku uvedeného v protokolu o výsledcích odečíst hodnotu odpovídající uvedené nejistotě měření,
+
+c) hodnoty koncentrací rizikových prvků a rizikových látek v nich obsažených nepřesahují limitní hodnoty stanovené v příloze č. 1 k vyhlášce o stanovení podrobností ochrany kvality zemědělské půdy<sup>5</sup>), přičemž limitní hodnoty pro rizikové prvky a látky podle písmene b) se nepoužijí; při hodnocení obsahu prvků a látek je nutné od výsledku uvedeného v protokolu o výsledcích odečíst hodnotu odpovídající uvedené nejistotě měření,
+
+d) hodnoty koncentrací rizikových prvků a rizikových látek v nich obsažených překračují limitní hodnoty stanovené v příloze č. 1 k této vyhlášce, ale nedosahují hodnot rizikových prvků v půdě na substrátech s geogenně podmíněnými zvýšenými obsahy některých rizikových prvků; při hodnocení obsahů prvků a látek je nutné od výsledku uvedeného v protokolu o výsledcích odečíst hodnotu odpovídající uvedené nejistotě měření,
+
+e) nedojde ke zhoršení fyzikálních, chemických nebo biologických vlastností půdy, na kterou jsou vytěžené sedimenty použity, a výše obsahu skeletu v sedimentu splňuje limitní hodnoty uvedené v příloze č. 1 k této vyhlášce,
+
+f) je dodržena maximální aplikační dávka sedimentu stanovená v příloze č. 5 k této vyhlášce při dodržení podmínky, že sediment je odvodněný a jeho použití nezhorší vodní režim půdy; maximální aplikační dávka nesmí být překročena v průběhu 10 let; maximální aplikační dávku sedimentu lze zvýšit v odůvodněných případech na základě odborného posudku, například při potřebě vylehčení půdy nebo dodání vyššího množství jílnatých částic,
+
+g) stanovená dávka sedimentu je na pozemek používána v navazujících agrotechnických operacích a v souvislém časovém období za příznivých fyzikálních a vlhkostních podmínek, rovnoměrně po ploše pozemku, v maximální výšce vrstvy použitého sedimentu do 15 cm; v případě menší hloubky orničního horizontu než 30 cm musí být dodržen poměr použitého sedimentu k ornici 1 : 2; hloubka ornice se hodnotí podle pátého číselného znaku bonitovaných půdně ekologických jednotek,
+
+h) jsou zapraveny do půdy do 30 dnů od jejich rozprostření,
+
+i) doba od posledního použití sedimentu na daný pozemek je minimálně 5 let; v případě použití sedimentu z loviště rybníka, jímž je oblast pravidelného výlovu, nebo sedimentu, který prokazatelně z loviště pochází a je po výlovu nahromaděný například v rybniční stoce pod spodní výpustí rybníka, v záchytných lagunách nebo geotextilních vacích, je možné jej aplikovat na schválené pozemky opakovaně po dobu 5 let od vydání souhlasu k použití sedimentů tak, aby v průběhu 10 let nebyla překročena maximální povolená aplikační dávka stanovená v příloze č. 5 k této vyhlášce, přičemž
+
+1\. dodržení limitních hodnot je prokázáno jedním výsledkovým protokolem a jedním průvodním listem odběru vzorků,
+
+2\. na toto období může být vydán jeden souhlas vlastníka nebo oprávněného uživatele pozemku a současně jedno stanovisko úřadu, a
+
+3\. v tomto období nesmí dojít k žádné havarijní události nebo takové změně v příslušném povodí, která by mohla mít vliv na kvalitu sedimentu,
+
+j) doba od posledního použití upraveného kalu<sup>8</sup>) na daný pozemek je delší než 1 rok,
+
+k) ekotoxikologické testy uložené podle zákona o ochraně zemědělského půdního fondu<sup>2</sup>) neprokáží kontaminaci sedimentu, pokud byly tyto testy uloženy, v rozsahu přílohy č. 4 k této vyhlášce, a
+
+l) sledování indikátorových mikroorganismů neprokáže kontaminaci sedimentu patogenními činiteli, pokud bylo toto sledování provedeno.
+
+## § 4 – Postupy rozboru sedimentů a půdy a metody odběru vzorků sedimentu a půdy
+
+(1) Analytické rozbory sedimentů a půdy se provádějí v akreditovaných laboratořích nebo jiných odborných pracovištích, které mají posouzený systém kvality podle určené normy<sup>3</sup>) pro stanovené ukazatele. Použijí se postupy rozboru a testování sedimentů a půdy podle určených norem nebo jiné ověřené a validované postupy.
+
+(2) Odběry vzorků sedimentu se provádějí ze dna napuštěných vodních nádrží, zejména rybníků, koryt vodních toků, koryt ostatních vodních linií, zejména náhonů a přivaděčů, melioračních kanálů a staveb k vodohospodářským melioracím pozemků. Odběry vzorků z loviště rybníku se mohou provést ze sedimentů nahromaděných přímo v lovišti, v korytě vodního toku nebo na pozemku ostatní vodní linie pod vodní nádrží, v rybniční stoce, záchytných lagunách nebo geotextilních vacích. V odůvodněných případech je možné odebrat vzorky z mezideponií sedimentů. Odběry vzorků sedimentů provádějí osoby způsobilé ke vzorkování odpadu podle zákona o odpadech<sup>6</sup>) nebo akreditovaná zkušební laboratoř nebo akreditované odborné pracoviště podle normy ČSN EN ISO/IEC 17025 Všeobecné požadavky na kompetenci zkušebních a kalibračních laboratoří, odběry vzorků sedimentů se provádí podle určených norem nebo jiných ověřených a validovaných postupů.
+
+(3) Odběry vzorků a zjišťování agrochemických vlastností půdy, na kterou má být sediment použit, se provádějí postupem stanoveným vyhláškou o agrochemickém zkoušení zemědělských půd a zjišťování půdních vlastností lesních pozemků<sup>4</sup>) nebo jinými ověřenými a validovanými postupy. Odběry provádějí osoby pověřené k odběru vzorků půd podle zákona o hnojivech<sup>7</sup>), osoby způsobilé ke vzorkování odpadu podle zákona o odpadech<sup>6</sup>) nebo akreditovaná zkušební laboratoř nebo akreditované odborné pracoviště podle normy ČSN EN ISO/IEC 17025 Všeobecné požadavky na kompetenci zkušebních a kalibračních laboratoří. Výsledky agrochemického zkoušení zemědělských půd nesmí být starší 6 let.
+
+## § 5 – Evidence o použití sedimentů
+
+Formulář evidenčního listu o použití sedimentu na zemědělské půdě je uveden v příloze č. 6 k této vyhlášce. Evidenci o množství, druhu a době použití sedimentů podle jednotlivých pozemků, plodin a let tvoří evidenční list, průvodní list odběru sedimentu, průvodní list odběru půdy a protokoly o provedených odběrech a analýzách vzorků.
+
+## § 5a – Způsob hlášení o používání sedimentů
+
+Vzor formuláře pro hlášení o používání sedimentů na zemědělské půdě je uveden v příloze č. 7 k této vyhlášce.
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2009.
+
+Ministr zemědělství:
+
+Ing. Šebesta v. r.
+
+Ministr životního prostředí:
+
+RNDr. Miko, Ph.D. v. r.
+
+### Příloha č. 1
+
+#### Limitní hodnoty rizikových prvků a rizikových látek v sedimentu v mg na 1 kg sušiny
+
+| Pořad. číslo | Ukazatel | Limitní hodnoty |
+|---|---|---|
+| 1 | As | 30 |
+| 2 | Be | 5 |
+| 3 | Cd | 1 |
+| 4 | Co | 30 |
+| 5 | Cr | 200 |
+| 6 | Cu | 100 |
+| 7 | Hg<sup>1)</sup> | 0,8 |
+| 8 | Ni | 80 |
+| 9 | Pb | 100 |
+| 10 | V | 180 |
+| 11 | Zn | 300 |
+| 12 | PAU<sup>2)</sup> | 6 |
+| 13 | uhlovodíky C10-C40 | 300 |
+| 14 | PCB<sup>3)</sup> | 0,2 |
+
+Vysvětlivky:
+
+<sup>1)</sup> Obsah Hg se stanoví jako celkový obsah; obsahy ostatních prvků, tj. As, Be, Cd, Co, Cr, Cu, Ni, Pb, V, Zn se stanoví extrakcí lučavkou královskou.
+
+<sup>2)</sup> PAU – polycyklické aromatické uhlovodíky [suma antracenu, benzo(a)antracenu, benzo(b)fluoranthenu, benzo(k)fluoranthenu, benzo(a)pyrenu, benzo(ghi)perylenu, fenantrenu, fluoranthenu, chrysenu, indeno (1,2,3-cd)pyrenu, naftalenu a pyrenu].
+
+<sup>3)</sup> PCB – polychlorované bifenyly (suma kongenerů č. 28, 52, 101, 118, 138, 153, 180).
+
+#### Limitní hodnoty obsahu skeletu v sedimentu
+
+| Ukazatel | Limitní hodnoty |
+|---|---|
+| Obsah skeletu 2 – 4 mm | max. 30 % |
+| Obsah skeletu nad 4 mm | max. 3 % |
+
+### Příloha č. 2
+
+#### ![sbcr2009c077z0257_2025c483z0483u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1655753/NAHLED/ZOBRAZ/sbcr2009c077z0257_2025c483z0483u001)
+
+### Příloha č. 3
+
+#### Seznam povinně sledovaných rizikových prvků a rizikových látek v půdě, na kterou má být sediment použit
+
+As, Be, Cd, Co, Cr, Cu, Hg, Ni, Pb, V, Zn, PCB<sup>1)</sup>, PAU<sup>2)</sup>, DDT.
+
+Vysvětlivky:
+
+<sup>1)</sup> PCB – polychlorované bifenyly (suma kongenerů č. 28, 52, 101, 118, 153, 180).
+
+<sup>2)</sup> PAU – polycyklické aromatické uhlovodíky [suma antracenu, benzo(a)antracenu, benzo(b)fluoranthenu, benzo(k)fluoranthenu, benzo(a)pyrenu, benzo(ghi)perylenu, fenantrenu, fluoranthenu, chrysenu, indeno (1,2,3-cd)pyrenu, naftalenu a pyrenu].
+
+### Příloha č. 4
+
+#### Kontaminace sedimentu jinými rizikovými prvky nebo rizikovými látkami, než které jsou uvedeny v příloze č. 1
+
+#### Tabulka č. 1
+
+#### Ekotoxikologické testy pro testování sedimentů
+
+| Zkušební organismus | Doba působení | Limitní hodnoty |
+|---|---|---|
+| Bakterie<br> Aliivibrio fischeri | 15 minut a 30 minut | neprokáže se ve zkoušce inhibice světelné emise bakterií větší než 50 % při expozici 15 minut ani při expozici 30 minut |
+| Perloočka Daphnia magna Straus | 48 hodin | procento imobilizace perlooček nesmí ve zkoušce přesáhnout 50 % |
+| Řasa Desmodesmus subspicatus | 72 hodin | neprokáže se ve zkoušce inhibice nebo stimulace růstu řas větší než 50 % ve srovnání s kontrolou |
+| Salát<br> Lactuca sativa | 120 hodin | neprokáže se ve zkoušce inhibice nebo stimulace růstu kořene salátu větší než 50 % ve srovnání s kontrolou |
+
+#### Tabulka č. 2
+
+#### Sledování indikátorových mikroorganismů
+
+<table><tbody><tr><th>Indikátorový organismus</th><th>Jednotky</th><th colspan="2">Počet zkoušených vzorků</th><th>Limitní hodnota (nález / KTJ<sup>1)</sup>)</th></tr><tr><td>Salmonella</td><td>Nález v 50 g</td><td colspan="2">5</td><td>Negativní</td></tr><tr><td rowspan="2">Escherischia coli nebo Enterokoky<sup>2)</sup></td><td rowspan="2">KTJ v 1 g</td><td rowspan="2">5</td><td>4</td><td>&lt; 10<sup>3</sup></td></tr><tr><td>1</td><td>&lt; 5.10<sup>3</sup></td></tr></tbody></table>
+
+Vysvětlivky:
+
+<sup>1)</sup> KTJ – kolonie tvořící jednotku.
+
+<sup>2)</sup> Z odebraných 5 vzorků musí minimálně stanovený počet vyhovět předepsaným limitům.
+
+### Příloha č. 5
+
+#### Maximální aplikační dávka sedimentu na 1 ha zemědělské půdy v tunách sušiny
+
+<table><tbody><tr><th></th><th colspan="4">Textura sedimentu<sup>1)</sup> a dávka (t/ha)</th></tr><tr><th></th><th>písčitohlinitý</th><th>hlinitý</th><th>jílovitohlinitý</th><th>jílovitý</th></tr><tr><td><b>těžké půdy</b><sup>2)</sup></td><td>600</td><td>900</td><td>1100</td><td>1100</td></tr><tr><td><b>středně těžké půdy</b><sup>3)</sup></td><td>1100</td><td>1100</td><td>900</td><td>600</td></tr><tr><td><b>lehké půdy</b><sup>4)</sup></td><td>1100</td><td>900</td><td>900</td><td>450</td></tr></tbody></table>
+
+Vysvětlivky:
+
+<sup>1)</sup> Textura sedimentu se stanoví formou stanovení zrnitostního složení podle normy ISO 11277 Kvalita půdy.
+
+<sup>2)</sup> Těžké půdy: půdy jílovitohlinité, jílovité a jíly s obsahem jílnatých částic (menších než 0,01 mm) vyšším než 45 %; jsou řazeny k půdám běžným.
+
+<sup>3)</sup> Středně těžké půdy: půdy písčitohlinité a hlinité s obsahem jílnatých částic (menších než 0,01 mm) vyšším než 20 % a maximálně 45 %; jsou řazeny k půdám běžným.
+
+<sup>4)</sup> Lehké půdy: půdy vzniklé na velmi lehkých a chudých matečních horninách jako jsou písky a štěrkopísky. Při vymezení těchto půd se vychází ze zastoupení jemných částic (do 0,01 mm), které tvoří maximálně 20 %. Tyto půdy se vyznačují velmi nízkou sorpční kapacitou.
+
+### Příloha č. 6
+
+#### ![sbcr2009c077z0257_2025c483z0483u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1655751/NAHLED/ZOBRAZ/sbcr2009c077z0257_2025c483z0483u002)
+
+### Příloha č. 7
+
+#### ![sbcr2009c077z0257_2025c483z0483u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1655749/NAHLED/ZOBRAZ/sbcr2009c077z0257_2025c483z0483u003)
+
+---
+
+<sup>1</sup>) § 4a zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 205/2002 Sb.
+
+<sup>2</sup>) Zákon č. 334/1992 Sb., o ochraně zemědělského půdního fondu, ve znění pozdějších předpisů.
+
+<sup>3</sup>) ČSN EN ISO/IEC 17025.
+
+<sup>4</sup>) Vyhláška č. 275/1998 Sb., o agrochemickém zkoušení zemědělských půd a zjišťování půdních vlastností lesních pozemků, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Vyhláška č. 153/2016 Sb., o stanovení podrobností ochrany kvality zemědělské půdy a o změně vyhlášky č. 13/1994 Sb., kterou se upravují některé podrobnosti ochrany zemědělského půdního fondu, ve znění vyhlášky č. 271/2019 Sb.
+
+<sup>6</sup>) § 28 odst. 1 zákona č. 541/2020 Sb., o odpadech.
+
+<sup>7</sup>) § 10 odst. 3 zákona č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, rostlinných biostimulantech a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění pozdějších předpisů.
+
+<sup>8</sup>) § 67 odst. 1 písm. b) zákona č. 541/2020 Sb., o odpadech.

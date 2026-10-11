@@ -1,0 +1,55 @@
+---
+title: "Vyhláška č. 375/2006 Sb., kterou se mění některé vyhlášky v oblasti veterinární péče"
+identifier: "375/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/375/2022-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-07-18
+effective: 2006-07-25
+last_amended: 2022-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/375"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 375/2006 Sb., kterou se mění některé vyhlášky v oblasti veterinární péče ve znění vyhlášky č. 289/2008 Sb., zákona č. 368/2019 Sb. a zákona č. 246/2022 Sb."
+---
+
+# Vyhláška č. 375/2006 Sb., kterou se mění některé vyhlášky v oblasti veterinární péče
+
+375
+
+VYHLÁŠKA
+
+ze dne 18. července 2006,
+
+kterou se mění některé vyhlášky v oblasti veterinární péče
+
+Ministerstvo zemědělství stanoví podle § 78 zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění zákona č. 131/2003 Sb., zákona č. 316/2004 Sb. a zákona č. 48/2006 Sb., (dále jen „zákon“) k provedení § 31 odst. 3 písm. a) a b), § 33 odst. 6 písm. b) a c) a § 37 odst. 5 písm. a) zákona:
+
+## ČÁST PRVNÍ – Změna vyhlášky o zákazu podávání některých látek zvířatům, jejichž produkty jsou určeny k výživě lidí, a o sledování (monitoringu) přítomnosti nepovolených látek, reziduí a látek kontaminujících, pro něž by živočišné produkty mohly být škodlivé pro zdraví lidí, u zvířat a v jejich produktech
+
+### Čl. I
+
+Vyhláška č. 291/2003 Sb., o zákazu podávání některých látek zvířatům, jejichž produkty jsou určeny k výživě lidí, a o sledování (monitoringu) přítomnosti nepovolených látek, reziduí a látek kontaminujících, pro něž by živočišné produkty mohly být škodlivé pro zdraví lidí, u zvířat a v jejich produktech, ve znění vyhlášky č. 232/2005 Sb., se mění takto:
+
+1\. V § 17 odst. 2 písm. a) se slova „skupině A“ nahrazují slovy „skupinách A a B 2 písm. d)“.
+
+2\. V § 17 odst. 2 písm. b) se slova „B 2“ nahrazují slovy „B 2 písm. a), b), c), e) a f)“.
+
+3\. V § 24 odst. 1 se věta třetí nahrazuje větou „Jestliže kontroly prokážou přítomnost nepovolených látek nebo přípravků, nebo překročení stanovených limitů, postupují orgány provádějící pohraniční veterinární kontrolu podle článků 19 až 22 nařízení Evropského parlamentu a Rady (ES) č. 882/2004 ze dne 29. dubna 2004 o úředních kontrolách za účelem ověření dodržování právních předpisů týkajících se krmiv a potravin a pravidel o zdraví zvířat a dobrých životních podmínkách zvířat.“.
+
+## ČÁST TŘETÍ – Změna vyhlášky, kterou se provádějí některá ustanovení zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů, a o veterinárních požadavcích na živočišné produkty
+
+### Čl. III
+
+V § 13 odst. 1 vyhlášky č. 375/2003 Sb., kterou se provádějí některá ustanovení zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů, a o veterinárních požadavcích na živočišné produkty, se slovo „, kontrolu" zrušuje.
+
+## ČÁST SEDMÁ – ÚČINNOST
+
+### Čl. VII
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministr:
+
+Ing. Mládek, CSc. v. r.

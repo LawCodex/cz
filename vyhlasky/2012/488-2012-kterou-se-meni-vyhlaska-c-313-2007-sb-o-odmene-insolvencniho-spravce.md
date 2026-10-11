@@ -1,0 +1,51 @@
+---
+title: "Vyhláška č. 488/2012 Sb., kterou se mění vyhláška č. 313/2007 Sb., o odměně insolvenčního správce, o náhradách jeho hotových výdajů, o odměně členů a náhradníků věřitelského výboru a o náhradách jejich nutných výdajů"
+identifier: "488/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/488/2013-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-12-20
+effective: 2013-01-01
+last_amended: 2013-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/488"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 488/2012 Sb., kterou se mění vyhláška č. 313/2007 Sb., o odměně insolvenčního správce, o náhradách jeho hotových výdajů, o odměně členů a náhradníků věřitelského výboru a o náhradách jejich nutných výdajů
+
+488
+
+VYHLÁŠKA
+
+ze dne 20. prosince 2012,
+
+kterou se mění vyhláška č. 313/2007 Sb., o odměně insolvenčního správce, o náhradách jeho hotových výdajů, o odměně členů a náhradníků věřitelského výboru a o náhradách jejich nutných výdajů
+
+Ministerstvo spravedlnosti stanoví podle § 431 písm. b) a c) zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění zákona č. 296/2007 Sb.:
+
+## Čl. I – Změna vyhlášky o odměně insolvenčního správce, o náhradách jeho hotových výdajů, o odměně členů a náhradníků věřitelského výboru a o náhradách jejich nutných výdajů
+
+V § 1 vyhlášky č. 313/2007 Sb., o odměně insolvenčního správce, o náhradách jeho hotových výdajů, o odměně členů a náhradníků věřitelského výboru a o náhradách jejich nutných výdajů, odstavec 2 zní:
+
+> „(2) Odměna insolvenčního správce určená z výtěžku zpeněžení připadajícího na zajištěného věřitele činí z částky určené k vydání zajištěnému věřiteli
+
+> | od 0 – 1 mil. Kč | 9 % |
+> |---|---|
+> | od 1 mil. Kč do 10 mil. Kč | 90 000 Kč + 4 % z částky přesahující 1 mil. Kč |
+> | od 10 mil. Kč do 50 mil. Kč | 450 000 Kč + 3 % z částky přesahující 10 mil. Kč |
+> | od 50 mil. Kč do 500 mil. Kč | 1 650 000 Kč + 2 % z částky přesahující 50 mil. Kč |
+> | od 500 mil. Kč | 10 650 000 Kč + 1 % z částky přesahující 500 mil. Kč“. |
+
+## Čl. II – Přechodné ustanovení
+
+Podle vyhlášky č. 313/2007 Sb., ve znění účinném do dne nabytí účinnosti této vyhlášky, se postupuje v insolvenčních řízeních zahájených přede dnem nabytí účinnosti této vyhlášky, jestliže do dne nabytí účinnosti této vyhlášky již bylo vydáno rozhodnutí o způsobu řešení úpadku.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2013.
+
+Ministr:
+
+JUDr. Blažek, Ph.D., v. r.

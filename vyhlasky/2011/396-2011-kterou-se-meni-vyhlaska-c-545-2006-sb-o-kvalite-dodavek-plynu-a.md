@@ -1,0 +1,168 @@
+---
+title: "Vyhláška č. 396/2011 Sb., kterou se mění vyhláška č. 545/2006 Sb., o kvalitě dodávek plynu a souvisejících služeb v plynárenství"
+identifier: "396/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/396/2012-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2011-12-05
+effective: 2012-01-01
+last_amended: 2012-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/396"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 396/2011 Sb., kterou se mění vyhláška č. 545/2006 Sb., o kvalitě dodávek plynu a souvisejících služeb v plynárenství
+
+396
+
+VYHLÁŠKA
+
+ze dne 5. prosince 2011,
+
+kterou se mění vyhláška č. 545/2006 Sb., o kvalitě dodávek plynu a souvisejících služeb v plynárenství
+
+Energetický regulační úřad stanoví podle § 98a odst. 2 písm. c) zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 158/2009 Sb.:
+
+## Čl. I
+
+Vyhláška č. 545/2006 Sb., o kvalitě dodávek plynu a souvisejících služeb v plynárenství, se mění takto:
+
+1\. V úvodní větě se slova „§ 98 odst. 7“ nahrazují slovy „§ 98a odst. 2 písm. c)“, číslo „670/2004“ se nahrazuje číslem „158/2009“ a slova „, k provedení § 17 odst. 7 písm. a) energetického zákona“ se zrušují.
+
+2\. V § 1 se slovo „lhůt“ nahrazuje slovy „postupy a lhůty“.
+
+3\. V § 2 odst. 1, § 2 odst. 2, § 14 odst. 1 a 2 se slovo „podzemního“ zrušuje.
+
+4\. V § 2 odst. 2 se slova „ke konečnému“ nahrazují slovem „k“.
+
+5\. V § 2 odst. 2, § 4 odst. 1, § 6 odst. 1 a 2, § 10 odst. 2, § 11 včetně nadpisu a odst. 1, § 11 odst. 2, § 12 odst. 1, § 13 odst. 1 písm. a), § 13 odst. 1 písm. b), § 13 odst. 1 písm. c), § 14 odst. 1 písm. a), § 14 odst. 1 písm. b), § 15 včetně nadpisu a odst. 1, § 15 odst. 2, § 16 odst. 1 písm. a), § 16 odst. 1 písm. b) se slovo „konečného“ zrušuje.
+
+6\. § 3 včetně nadpisu zní:
+
+> **„§ 3 – Uplatnění náhrad**
+
+> (1) Zákazník nebo obchodník s plynem, který na základě smlouvy o sdružených službách dodávky plynu dodává plyn zákazníkovi (dále jen „dodavatel sdružené služby“), nebo dodavatel uplatňují nárok na náhradu
+
+> a) při nedodržení standardu podle § 8 do 60 kalendářních dnů ode dne následujícího po dni, ve kterém mělo být podle standardu omezení nebo přerušení přepravy, distribuce nebo uskladňování plynu započato nebo ukončeno u provozovatele přepravní nebo distribuční soustavy, k jehož plynovému zařízení je zařízení zákazníka připojeno,
+
+> b) při nedodržení standardů podle § 4, 6 a 7, § 9 až 11, § 13 až 16 do 60 kalendářních dnů ode dne následujícího po dni, ve kterém uplynula lhůta podle standardů, a to u
+
+> 1\. provozovatele přepravní nebo distribuční soustavy, k jehož plynovému zařízení je zařízení zákazníka připojeno,
+
+> 2\. provozovatele zásobníku plynu, se kterým má uzavřenou smlouvu o uskladňování plynu,
+
+> 3\. provozovatele přepravní nebo distribuční soustavy, u kterého žádá o připojení, nebo
+
+> 4\. dodavatele nebo dodavatele sdružené služby, který na základě příslušné smlouvy dodává zákazníkovi plyn.
+
+> (2) Sjedná-li zákazník s dodavatelem sdružené služby smlouvu o sdružených službách dodávky plynu, může uplatnit standardy podle § 4, 6, 7, 8, 11 a § 13 až 15 a náhrady za jejich nedodržení u dodavatele sdružené služby, který postoupí žádost zákazníka o poskytnutí náhrady provozovateli příslušného plynárenského zařízení. V takovém případě hradí provozovatel plynárenského zařízení náhradu zákazníkovi prostřednictvím dodavatele sdružené služby a lhůty pro splnění standardů se prodlužují o 2 pracovní dny pro dodavatele sdružené služby, které slouží pro zajištění přenosu informací mezi dodavatelem sdružené služby a provozovatelem příslušného plynárenského zařízení.“.
+
+7\. V § 4 odst. 1 se slova „nebo předávacího“ a „, provozovatele lokální distribuční soustavy nebo provozovatele podzemního zásobníku plynu“ zrušují.
+
+8\. V § 4 odst. 4, § 8 odst. 2 a § 10 odst. 3 písmena a) až c) znějí:
+
+> „a) 1 500 Kč pro kategorii maloodběratel a domácnost; celkový úhrn náhrad činí nejvýše 15 000 Kč,
+
+> b) 6 200 Kč pro kategorii střední odběratel; celkový úhrn náhrad činí nejvýše 124 000 Kč,
+
+> c) 10 500 Kč pro kategorii velkoodběratel; celkový úhrn náhrad činí nejvýše 210 000 Kč.“.
+
+9\. V § 4 odst. 4, § 6 odst. 2 a 3, § 7 odst. 1 písm. a), b) a c), § 7 odst. 2, § 8 odst. 1 a 2, § 10 odst. 3, § 11 odst. 2, § 13 odst. 2, § 14 odst. 2, § 15 odst. 2 a § 16 odst. 2 se slovo „konečnému“ zrušuje.
+
+10\. V § 5 se slovo „konečným“ zrušuje.
+
+11\. V § 6 odst. 3, § 11 odst. 2 a § 15 odst. 2 písmena a) až c) znějí:
+
+> „a) 375 Kč pro kategorii maloodběratel a domácnost; celkový úhrn náhrad činí nejvýše 3 750 Kč,
+
+> b) 1 250 Kč pro kategorii střední odběratel; celkový úhrn náhrad činí nejvýše 25 000 Kč,
+
+> c) 2 200 Kč pro kategorii velkoodběratel; celkový úhrn náhrad činí nejvýše 44 000 Kč.“.
+
+12\. V § 7 odst. 2, § 13 odst. 2, § 14 odst. 2 a § 16 odst. 2 písmena a) až c) znějí:
+
+> „a) 750 Kč pro kategorii maloodběratel a domácnost; celkový úhrn náhrad činí nejvýše 7 500 Kč,
+
+> b) 3 100 Kč pro kategorii střední odběratel; celkový úhrn náhrad činí nejvýše 62 000 Kč,
+
+> c) 7 900 Kč pro kategorii velkoodběratel; celkový úhrn náhrad činí nejvýše 158 000 Kč.“.
+
+13\. V § 8 včetně nadpisu se slova „, distribuce nebo uskladňování“ nahrazují slovy „nebo distribuce“.
+
+14\. V § 8 odst. 1 a 2 se slova „, distribuci nebo uskladňování“ nahrazují slovy „nebo distribuci“.
+
+15\. V § 8 odst. 1 a 2 se slova „nebo podzemního zásobníku plynu“ zrušují.
+
+16\. § 9 včetně nadpisu a poznámky pod čarou č. 1 zní:
+
+> **„§ 9 – Standard lhůty pro posouzení žádosti o připojení zařízení zákazníka k přepravní nebo distribuční soustavě**
+
+> (1) Standardem lhůty pro posouzení žádosti o připojení zařízení zákazníka k přepravní nebo distribuční soustavě je posouzení žádosti o připojení zařízení zákazníka k přepravní nebo distribuční soustavě ve lhůtě stanovené jiným právním předpisem<sup>1</sup>).
+
+> (2) Za nedodržení standardu lhůty pro posouzení žádosti o připojení zařízení zákazníka k přepravní nebo distribuční soustavě poskytne provozovatel přepravní nebo distribuční soustavy zákazníkovi za každý i započatý den prodlení náhradu ve výši
+
+> a) 1 500 Kč pro kategorii maloodběratel a domácnost; celkový úhrn náhrad činí nejvýše 15 000 Kč,
+
+> b) 6 200 Kč pro kategorii střední odběratel; celkový úhrn náhrad činí nejvýše 124 000 Kč,
+
+> c) 10 500 Kč pro kategorii velkoodběratel; celkový úhrn náhrad činí nejvýše 210 000 Kč.
+
+> <sup>1</sup>) Vyhláška č. 62/2011 Sb., o podmínkách připojení k plynárenské soustavě a o změně vyhlášky Ministerstva průmyslu a obchodu č. 251/2001 Sb., kterou se stanoví Pravidla provozu přepravní soustavy a distribučních soustav v plynárenství.“.
+
+17\. V § 10 odstavec 1 zní:
+
+> „(1) Standardem umožnění přepravy nebo distribuce plynu je možnost uskutečnění přepravy nebo distribuce plynu ve lhůtě 5 pracovních dnů ode dne, kdy zákazník splnil technické podmínky připojení a kdy zákazník nebo dodavatel sdružené služby požádal provozovatele přepravní nebo distribuční soustavy o umožnění přepravy nebo distribuce plynu do odběrného místa.“.
+
+18\. V § 10 odst. 2 se slova „plynu podle zvláštního právního předpisu<sup>2</sup>),“ včetně poznámky pod čarou č. 2 zrušují.
+
+19\. V § 10 odst. 2, § 11 odst. 1, § 13 odst. 1 písm. b) a § 15 odst. 1 se slovo „konečný“ zrušuje.
+
+20\. V § 11 odst. 1, § 12 odst. 1 a § 15 odst. 1 se slova „7 kalendářních“ nahrazují slovy „5 pracovních“.
+
+21\. V § 11 odst. 1 se slova „, včetně nákladů spojených s přerušením a obnovením přepravy nebo distribuce,“ a slova „, včetně nákladů spojených s přerušením a obnovením přepravy nebo distribuce plynu“ zrušují.
+
+22\. V § 11 odst. 1 se slova „s konečným“ nahrazují slovem „se“.
+
+23\. V § 11 odst. 1 se slova „předávacího nebo“ zrušují.
+
+24\. V § 12 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1.
+
+25\. V § 13 odst. 1 písm. b) se slova „předávacího nebo“ zrušují.
+
+26\. V § 13 odst. 1 se na konci písmene b), § 14 odst. 1 na konci písmene a) a § 16 odst. 1 na konci písmene a) slovo „a“ nahrazuje slovem „nebo“.
+
+27\. V § 13 odst. 1 písm. b) se číslo „80“ nahrazuje číslem „90“.
+
+28\. V § 14 odst. 1 písm. b) se za slovo „soustavy“ vkládají slova „nebo zásobníku plynu“.
+
+29\. V § 15 odst. 1 se slova „, včetně nákladů spojených s přerušením a obnovením dodávky,“ a slova „, včetně nákladů spojených s přerušením a obnovením dodávky plynu“ zrušují.
+
+30\. V § 15 odst. 1 se za slovo „dodavatelem“ vkládají slova „nebo s dodavatelem sdružené služby“.
+
+31\. V § 16 se za odstavec 1 vkládá nový odstavec 2, který zní:
+
+> „(2) Spočívá-li důvod reklamace vyúčtování dodávky plynu ve vyúčtování přepravy, distribuce nebo uskladňování plynu a dodavatel nebo dodavatel sdružené služby ve lhůtě podle odstavce 1 písm. a) reklamuje vyúčtování přepravy, distribuce nebo uskladňování plynu podle § 14, lhůty podle odstavce 1 po dobu vyřizování reklamace podle § 14 neběží.“.
+
+Dosavadní odstavec 2 se označuje jako odstavec 3.
+
+32\. Příloha k vyhlášce zní:
+
+> **„Příloha k vyhlášce č. 545/2006 Sb.**
+
+> **VZOR**
+
+> **Souhrnný výkaz dodržování standardů za rok ...........**
+
+> <table><tbody><tr><th>Číslo paragrafu standardu </th><th>Standard </th><th>Počet případů vyplacených náhrad </th><th>Vyplacené náhrady celkem<br> v tis. Kč </th><th>Průměrná náhrada <br> v tis. Kč </th></tr><tr><td>4 </td><td>obnovy přepravy nebo distribuce plynu po poruše </td><td></td><td></td><td></td></tr><tr><td>6 </td><td>lhůty pro vyřízení reklamace na kvalitu plynu </td><td></td><td></td><td></td></tr><tr><td>7 </td><td>lhůty pro odstranění příčin snížené kvality plynu </td><td></td><td></td><td></td></tr><tr><td>8 </td><td>dodržení plánovaného omezení nebo přerušení přepravy nebo distribuce plynu </td><td></td><td></td><td></td></tr><tr><td>9 </td><td>lhůty pro posouzení žádosti o připojení zařízení zákazníka k přepravní nebo distribuční soustavě </td><td></td><td></td><td></td></tr><tr><td>10 </td><td>umožnění přepravy nebo distribuce plynu </td><td></td><td></td><td></td></tr><tr><td>11 </td><td>obnovy přepravy nebo distribuce plynu po přerušení přepravy nebo distribuce z důvodu prodlení zákazníka nebo dodavatele sdružené služby s úhradou plateb za poskytnutou přepravu nebo distribuci plynu </td><td></td><td></td><td></td></tr><tr><td>13 </td><td>lhůty pro vyřízení reklamace měření dodávky plynu </td><td></td><td></td><td></td></tr><tr><td>14 </td><td>lhůty pro vyřízení reklamace vyúčtování přepravy, distribuce nebo uskladňování plynu </td><td></td><td></td><td></td></tr><tr><td>15 </td><td>obnovy dodávky plynu po přerušení z důvodu prodlení zákazníka s úhradou plateb za odebraný plyn </td><td></td><td></td><td></td></tr><tr><td>16 </td><td>lhůty pro vyřízení reklamace vyúčtování dodávky plynu </td><td></td><td></td><td></td></tr><tr><td colspan="2">Celkem: </td><td></td><td></td><td></td></tr></tbody></table>
+
+> **“.**
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2012.
+
+Předsedkyně:
+
+Ing. Vitásková v. r.

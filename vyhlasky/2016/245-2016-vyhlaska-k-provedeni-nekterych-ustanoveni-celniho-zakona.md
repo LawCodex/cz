@@ -1,0 +1,1430 @@
+---
+title: "Vyhláška č. 245/2016 Sb. k provedení některých ustanovení celního zákona"
+identifier: "245/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/245/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2016-07-13
+effective: 2016-07-29
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/245"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 245/2016 Sb. k provedení některých ustanovení celního zákona ve znění vyhlášky č. 106/2019 Sb., vyhlášky č. 324/2019 Sb., vyhlášky č. 610/2020 Sb., vyhlášky č. 358/2021 Sb., vyhlášky č. 312/2022 Sb., vyhlášky č. 51/2024 Sb. a vyhlášky č. 498/2025 Sb."
+---
+
+# Vyhláška č. 245/2016 Sb. k provedení některých ustanovení celního zákona
+
+245
+
+VYHLÁŠKA
+
+ze dne 13. července 2016
+
+k provedení některých ustanovení celního zákona
+
+Ministerstvo financí stanoví podle § 70 odst. 1 zákona č. 242/2016 Sb., celní zákon, ve znění zákona č. 609/2020 Sb. a zákona č. 355/2021 Sb., a podle § 72 odst. 4 a 5 zákona č. 280/2009 Sb., daňový řád, ve znění zákona č. 283/2020 Sb. a zákona č. 218/2025 Sb.:
+
+## § 1 – Doplňující náležitosti celního prohlášení pro celní, daňové a statistické účely
+
+Doplňující náležitosti celního prohlášení podle přímo použitelného předpisu Evropské unie<sup>1</sup>) pro celní, daňové a statistické účely jsou uvedeny v příloze č. 1 k této vyhlášce.
+
+## § 1a – Náležitosti a vzor zvláštního doplňkového celního prohlášení podle zákona upravujícího daň z přidané hodnoty
+
+Náležitosti a vzor zvláštního doplňkového celního prohlášení podle zákona upravujícího daň z přidané hodnoty jsou uvedeny v příloze č. 1a k této vyhlášce.
+
+## § 2 – Náležitosti a vzor celního prohlášení pro osoby požívající výsad a imunit podle mezinárodní smlouvy
+
+Náležitosti a vzor celního prohlášení pro osoby požívající výsad a imunit podle mezinárodní smlouvy jsou uvedeny v příloze č. 2 k této vyhlášce.
+
+## § 3 – Náležitosti a vzor záruční listiny a záručního dokladu pro zajištění cla mimo celní režim tranzitu
+
+(1) Náležitosti a vzor záruční listiny pro účely zajištění cla jednotlivou jistotou s použitím záručního dokladu mimo celní režim tranzitu podle přímo použitelného předpisu Evropské unie<sup>1</sup>) je uveden v příloze č. 3 k této vyhlášce.
+
+(2) Náležitosti a vzor záručního dokladu pro účely zajištění cla jednotlivou jistotou s použitím záručního dokladu mimo celní režim tranzitu podle přímo použitelného předpisu Evropské unie<sup>1</sup>) je uveden v příloze č. 4 k této vyhlášce.
+
+(3) Záruční doklad má rozměry 148 x 105 mm a je opatřen gravírovaným podtiskem v barvě žluté, znesnadňujícím padělání. Pro výrobu záručního dokladu se používá bílý bezdřevý papír o plošné hmotnosti nejméně 55 gr/m<sup>2</sup>. Záruční doklad obsahuje název nebo značku tiskárny, označení záručního dokladu a jedinečné evidenční číslo.
+
+## § 4 – Vzor záruční listiny pro účely zajištění cla jinou osobou
+
+(1) Vzor záruční listiny pro účely zajištění cla jednotlivou jistotou s použitím záruční listiny jinou osobou je uveden v příloze č. 5 k této vyhlášce.
+
+(2) Vzor záruční listiny pro účely zajištění cla soubornou jistotou jinou osobou je uveden v příloze č. 6 k této vyhlášce.
+
+## § 5 – Náležitosti a vzor osvědčení uživatele souborné jistoty
+
+(1) Vzor osvědčení uživatele souborné jistoty mimo celní režim tranzitu (dále jen „osvědčení uživatele souborné jistoty“) je uveden v příloze č. 7 k této vyhlášce.
+
+(2) Osvědčení uživatele jistoty má rozměry 297 x 210 mm a je opatřeno gravírovaným podtiskem v barvě zelené, znesnadňujícím padělání. Pro výrobu osvědčení se používá bílý bezdřevý papír o plošné hmotnosti nejméně 55 gr/m<sup>2</sup>. Osvědčení obsahuje název nebo značku tiskárny, označení osvědčení a jedinečné evidenční číslo.
+
+## § 6 – Náležitosti a vzor osvědčení dlužníka zproštěného povinnosti poskytnout jistotu
+
+(1) Vzor osvědčení dlužníka zproštěného povinnosti poskytnout jistotu mimo celní režim tranzit (dále jen „osvědčení dlužníka zproštěného povinnosti poskytnout jistotu“) je uveden v příloze č. 8 k této vyhlášce.
+
+(2) Osvědčení dlužníka zproštěného povinnosti poskytnout jistotu má rozměry 297 x 210 mm a je opatřeno gravírovaným podtiskem v barvě modré, znesnadňujícím padělání. Pro výrobu osvědčení se používá bílý bezdřevý papír o plošné hmotnosti nejméně 55 gr/m<sup>2</sup>. Osvědčení obsahuje název nebo značku tiskárny, označení osvědčení a jedinečné evidenční číslo.
+
+## § 7 – Paušální náklady řízení ve věci závazné informace podle přímo použitelného předpisu Evropské unie
+
+Výše nákladů, které vzniknou správci cla v souvislosti s rozhodnutím týkajícím se závazné informace o sazebním zařazení nebo s rozhodnutím týkajícím se závazné informace o původu zboží podle přímo použitelného předpisu Evropské unie<sup>1</sup>), se stanoví součtem paušálních nákladů za jednotlivé standardní operační postupy a ostatní laboratorní výkony, které správce daně v souvislosti s těmito rozhodnutími provedl. Tyto paušální náklady jsou uvedeny v příloze č. 9 k této vyhlášce.
+
+## § 7a – Obsahové struktury formulářových podání
+
+(1) Obsahová struktura
+
+a) přihlášky k registraci zpravodajské jednotky k vykazování statistických údajů o obchodu se zbožím se zeměmi uvnitř Evropské unie je uvedena v příloze č. 10 k této vyhlášce,
+
+b) zjednodušené varianty přihlášky k registraci zpravodajské jednotky k vykazování statistických údajů o obchodu se zbožím se zeměmi uvnitř Evropské unie je uvedena v příloze č. 11 k této vyhlášce,
+
+c) oznámení o změně registračních údajů zpravodajské jednotky k vykazování statistických údajů o obchodu se zbožím se zeměmi uvnitř Evropské unie je uvedena v příloze č. 12 k této vyhlášce.
+
+(2) Obsahová struktura podle odstavce 1 je uvedena včetně případných pokynů k jejímu vyplnění.
+
+## § 7c – Formát formulářového podání
+
+Formulářové podání podle § 7a lze elektronicky podat pouze ve formátu XML.
+
+## § 7d – Společná ustanovení pro formulářová podání
+
+Tiskopis formulářového podání vydaný Ministerstvem financí nebo datová struktura formulářového podání zveřejněná správcem daně se považují za odpovídající obsahové struktuře podle § 7a také v případě, že
+
+a) textová část je v jiném než českém jazyce,
+
+b) obsahuje odlišný údaj o časovém období,
+
+c) obsahuje odchylky v části obsahu, jejímž předmětem není požadavek na uvedení povinně sdělovaných údajů,
+
+d) se od této obsahové struktury odchyluje v důsledku obvyklých technologických postupů výroby tiskopisu nebo
+
+e) se od této obsahové struktury v nezbytném rozsahu odchyluje v důsledku úpravy stanovené zákonem nebo přímo použitelným předpisem Evropské unie.
+
+## § 8 – Podmínky provádění celního řízení mimo prostor správce cla nebo celní prostor anebo mimo úřední hodiny správce cla pro veřejnost a způsob určení výše nákladů za toto provedení
+
+(1) Celní řízení se provede mimo prostor správce cla nebo mimo celní prostor za podmínky, že
+
+a) v době navržené žadatelem jsou potřebné podklady, zboží a případně dopravní prostředek, v němž se zboží dopravuje, připraveny tak, aby bylo možno celní řízení a kontrolu zboží bezodkladně zahájit a bez průtahů ukončit,
+
+b) provedení celního řízení mimo prostor správce cla nebo mimo celní prostor je odůvodněno hospodárností, zejména usnadní-li dopravu a kontrolu zboží, nebo je-li to jinak naléhavé, nebo
+
+c) provedení celního řízení mimo prostor správce cla nebo mimo celní prostor nebrání provozní podmínky správce cla.
+
+(2) Za celní řízení provedené na žádost mimo prostor správce cla nebo mimo celní prostor se stanoví náklady správce cla za každých započatých 15 minut celního řízení a cesty nutné k dostavení se na místo provádění celního řízení a zpět
+
+a) v úředních hodinách správce cla ve výši 100 Kč,
+
+b) v pracovních dnech mimo úřední hodiny správce cla ve výši 150 Kč, nebo
+
+c) ve dnech pracovního volna nebo pracovního klidu ve výši 200 Kč.
+
+(3) Náklady správce cla za celní řízení provedené na žádost mimo prostor správce cla nebo mimo celní prostor jsou také
+
+a) náklady správcem cla prokázaných jízdních výdajů, nebo
+
+b) náhrada za používání silničních motorových vozidel správce cla při pracovních cestách.
+
+(4) Náklady správce cla za celní řízení provedené mimo prostor správce cla nebo mimo celní prostor se nestanoví, pokud toto provedení spočívá v provedení kontroly zboží
+
+a) na místě předem schváleném jako místo pro předložení zboží nebo pro dočasné uskladnění podle přímo použitelného předpisu Evropské unie<sup>1</sup>), nebo
+
+b) v případě, kdy správce cla stanovil upuštění od povinnosti předložit zboží podle přímo použitelného předpisu Evropské unie<sup>1</sup>).
+
+(5) Za celní řízení provedené na žádost v prostorách správce cla nebo v celním prostoru mimo úřední hodiny správce cla se stanoví náklady správce cla za každých započatých 15 minut celního řízení
+
+a) v pracovních dnech ve výši 150 Kč, nebo
+
+b) ve dnech pracovního volna nebo pracovního klidu ve výši 200 Kč.
+
+## § 9 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+Ing. Babiš v. r.
+
+### Příloha č. 1 k vyhlášce č. 245/2016 Sb.
+
+**Doplňující náležitosti celního prohlášení pro celní, daňové a statistické účely**
+
+#### ČÁST I – OBECNÁ USTANOVENÍ
+
+1\. Doplňující náležitosti se uvádějí v celním prohlášení označeném „Jednotný správní doklad“ (dále jen „tiskopis“) a rovněž v doplňkovém listu k tiskopisu (dále jen „doplňkový list“).
+
+2\. Je-li zásilka složena z více položek zboží, k tiskopisu se přikládá jeden nebo více doplňkových listů. Je-li na posledním přiloženém doplňkovém listu deklarována pouze jedna nebo dvě položky zboží, nevyužité místo pro uvedení případných dalších položek se proškrtává. Maximální počet položek jednoho celního prohlášení je 999.
+
+3\. Tiskopis a doplňkový list se vyplňují strojopisem nebo mechanografickým či podobným postupem. Vyplnění ručně je povoleno pouze tehdy, pokud celní prohlášení podává cestující a vztahuje se na zboží, které přepravuje v osobních zavazadlech. V takovém případě musí být celní prohlášení vyplněno pouze hůlkovým písmem, modrou nebo černou barvou a nesmazatelně.
+
+#### ČÁST II – ÚDAJE VYPLŇOVANÉ V JEDNOTLIVÝCH KOLONKÁCH TISKOPISU A V DOPLŇKOVÉM LISTU
+
+A. CELNÍ REŽIM VÝVOZ, ZPĚTNÝ VÝVOZ, CELNÍ REŽIM USKLADŇOVÁNÍ V CELNÍM SKLADU NEBO VÝROBY POD CELNÍM DOHLEDEM A CELNÍ KONTROLOU PŘEDFINANCOVANÉHO ZBOŽÍ PRO VÝVOZ, CELNÍ REŽIM PASIVNÍHO ZUŠLECHŤOVACÍHO STYKU, TRANZITNÍ REŽIM UNIE NEBO PROKÁZÁNÍ CELNÍHO STATUSU ZBOŽÍ UNIE.
+
+###### Kolonka 2: Odesílatel/Vývozce
+
+Sestává-li zásilka ze zboží od několika vývozců anebo odesílatelů, uvede se do této kolonky text „různí“ a kód „00200“. Ke každému z listů tiskopisu se přikládá seznam obsahující jejich číslo EORI, název nebo příjmení a jméno, popřípadě další jména, sídlo nebo adresu bydliště.
+
+###### Kolonka 3: Tiskopisy
+
+Tato kolonka se nevyplňuje, pokud celní prohlášení obsahuje pouze jednu položku zboží.
+
+###### Kolonka 4: Ložné listy
+
+Do této kolonky se může uvést počet přiložených ložných listů.
+
+###### Kolonka 8: Příjemce
+
+Je-li zásilka určena pro více příjemců, uvede se do této kolonky text „různí“ a kód „00200“. Ke každému z listů tiskopisu se přikládá seznam obsahující jejich název nebo příjmení a jméno, popřípadě další jména, sídlo nebo adresu bydliště. Volitelně může být uvedeno číslo EORI příjemce v této kolonce na tiskopisu nebo čísla EORI příjemců na přiloženém seznamu.
+
+###### Kolonka 24: Druh obchodu
+
+V levé straně tučně vyznačeného okénka této kolonky se uvádí jednomístný číselný kód povahy transakce ze sloupce A seznamu kódů stanovených přímo použitelným předpisem Evropské unie<sup>1</sup>).
+
+###### Kolonka 30: Umístění zboží
+
+1\. Uvede se místo, kde může být zboží kontrolováno, následujícím způsobem:
+
+a) je-li celní řízení prováděno v prostoru správce cla nebo v celním prostoru, uvede se kód tohoto správce cla,
+
+b) je-li celní řízení prováděno mimo prostor správce cla nebo mimo celní prostor v prostoru vývozce nebo odesílatele, nebo na jiném individuálně určeném nebo schváleném místě, uvede se číslo EORI tohoto vývozce nebo odesílatele,
+
+c) je-li na základě povolení zjednodušeného postupu „Zápis do záznamů deklaranta“ nebo „Místní celní řízení“ v rámci přechodného období podle přímo použitelného předpisu Evropské unie<sup>1</sup>) zboží předloženo na schváleném místě, uvede se přidělený kód tohoto schváleného místa,
+
+d) je-li zboží na základě povolení „Centralizované celní řízení“ podle přímo použitelného předpisu Evropské unie<sup>1</sup>) předloženo v prostoru jiného správce cla, než u kterého bylo podáno celní prohlášení, uvede se kód správce cla, kterému je zboží předloženo.
+
+2\. Bylo-li na základě povolení „Zápis do záznamů deklaranta“ podle přímo použitelného předpisu Evropské unie<sup>1</sup>) upuštěno od povinnosti předložit zboží, tato kolonka se nevyplňuje.
+
+###### Kolonka 31: Nákladové kusy a popis zboží; značky a čísla; číslo (čísla) kontejneru; počet a druh
+
+1\. Popis zboží musí být dostatečně přesný pro zajištění totožnosti a zařazení do odpovídající podpoložky společného celního sazebníku<sup>1</sup>). Může být doplněn o cizojazyčný název, chemickou značku, obchodní označení, ochrannou známku a podobně.
+
+2\. Je-li zboží odpadem podle zákona o odpadech, označení zboží se doplní kódem odpadu uvedeným v průvodních dokladech pro přepravu odpadů podle přímo použitelného předpisu Evropské unie o přepravě odpadů<sup>2</sup>) a příslušným kódem způsobu využití nebo odstranění odpadů („R1“ až „R13“ nebo „D1“ až „D15“). Dále se uvede kód druhu odpadu:
+
+„WZE“ - je-li zboží uvedeno v zeleném seznamu odpadů podle přímo použitelného předpisu Evropské unie o přepravě odpadů<sup>2</sup>),
+
+„WZL“ - je-li zboží uvedeno ve žlutém seznamu odpadů podle přímo použitelného předpisu Evropské unie o přepravě odpadů<sup>2</sup>),
+
+„WAX“ - není-li zboží, které je odpadem podle zákona o odpadech, zařazeno v žádném z uvedených seznamů.
+
+3\. Zakládá-li vývoz zboží nárok na poskytnutí vývozních náhrad podle příslušného přímo použitelného předpisu Evropské unie<sup>4</sup>), uvede se do této kolonky kód „IN“, lomítko a čistá hmotnost základního produktu, na který bude požadována náhrada. U složených výrobků nebo směsí se uvede čistá hmotnost pouze té ingredience, které přísluší náhrada, a nomenklatura této ingredience, je-li odlišná od údaje v kolonce 33 tiskopisu nebo doplňkového listu. Pokud je požadována náhrada pro více ingrediencí, uvádějí se tyto údaje na samostatném listě, připojeném ke každému listu tiskopisu, popřípadě doplňkového listu. Dále se uvede evidenční číslo prohlášení výrobce o složení výrobku. Výše uvedené údaje nemusí být v případě vývozu složených výrobků nebo směsí uvedeny, pokud jsou množství a povaha ingrediencí vzatých v úvahu pro výpočet náhrady určeny z analýzy vyváženého zboží.
+
+4\. Je-li to nutné, uvede se do této kolonky zkratka „DPK:“ a za dvojtečku čtyřmístné přídavné kódy oddělené čárkou, uvedené v části III. této přílohy.
+
+###### Kolonka 32: Pořadové číslo položky
+
+Tato kolonka se nevyplňuje, pokud celní prohlášení obsahuje pouze jednu položku zboží.
+
+###### Kolonka 33: Zbožový kód
+
+Do pátého pododdílu této kolonky se uvede přídavný kód stanovený v části III. této přílohy vztahující se na zboží označené tímto kódem. Pokud je zboží označeno dvěma a více kódy, které jsou stanoveny v části III. této přílohy, uvede se jeden z těchto kódů do pátého pododdílu této kolonky a další z těchto kódů do kolonky 31 tiskopisu popřípadě doplňkového listu.
+
+###### Kolonka 35: Hrubá hmotnost (kg)
+
+Při vývozu elektrické energie se do této kolonky uvede údaj „0,001“.
+
+###### Kolonka 37: Režim
+
+Do pravé části této kolonky se uvede kód upřesňující celní režim nebo vyjadřující požadavek na celní a/nebo daňovou úlevu podle přímo použitelného předpisu Evropské unie<sup>1</sup>) nebo části V. této přílohy. Není-li uváděn žádný kód upřesňující celní režim nebo vyjadřující požadavek na celní a/nebo daňovou úlevu, uvede se číselný kód „000“.
+
+###### Kolonka 38: Čistá hmotnost (kg)
+
+1\. Údaj do této kolonky musí být uveden na 3 desetinná místa.
+
+2\. Při vývozu elektrické energie se do této kolonky uvede údaj „0,001“.
+
+###### Kolonka 41: Doplňkové měrné jednotky
+
+Údaj do této kolonky musí být uveden na 3 desetinná místa.
+
+###### Kolonka 44: Zvláštní záznamy/Předložené doklady/Osvědčení a povolení
+
+1\. Do levého horního rohu, popřípadě do střední části, se uvádějí kódy národních dokladů, osvědčení, licencí, povolení a ostatních certifikátů z databáze TARIC CZ, spolu s jejich případným označením, případně odpisové měrné jednotky, odpisované množství z licencí a povolení, včetně jejich položky popř. doplňujícího záznamu. U zboží dvojího užití se uvede jeho kód podle přímo použitelného předpisu Evropské unie<sup>3</sup>). Do levého dolního rohu se uvádějí kódy zajištění cla a jiného peněžitého plnění nebo kódy nepožadování poskytnutí jistoty uvedené v části IV. této přílohy.
+
+2\. Do této kolonky, za kód stanovený v části IV. této přílohy, se uvede
+
+a) číslo osvědčení o povolení užívat zajištění cla a jiných peněžitých plnění, která jsou spravována společně se clem, nebo zproštění povinnosti jistotu poskytnout,
+
+b) evidenční číslo povolení užívat zajištění cla a jiných peněžitých plnění, která jsou spravována společně se clem, nebo zproštění povinnosti jistotu poskytnout, není-li vydáno osvědčení o tomto povolení,
+
+c) částka převedená na účet správce cla v celých korunách českých, je-li jistota poskytnuta ve formě složení částky, a to v rozsahu nejvýše desetimístného čísla; byl-li pro složení částky přidělen správcem cla variabilní symbol, uvede se za částkou lomítko a za lomítkem příslušný desetimístný variabilní symbol. Má-li být částka jistoty opakovaně použita k zajištění cla a jiných peněžitých plnění, která jsou spravována společně se clem, uvede se za variabilní symbol lomítko a evidenční číslo povolení k opakovanému použití,
+
+d) číslo popřípadě čísla záručního dokladu, které se přikládají k tiskopisu.
+
+###### Kolonka 46: Statistická hodnota
+
+1\. Uvádí se statistická hodnota zboží v celých korunách českých zaokrouhleně vždy směrem nahoru. Pro přepočet hodnoty vyjádřené v zahraniční měně na koruny české se používá směnný kurz používaný k výpočtu celní hodnoty určený podle přímo použitelného předpisu Evropské unie<sup>1</sup>).
+
+2\. U zboží, za které není jeho dodavatelem požadována úhrada, ale naopak je za ně odběrateli placeno (například při vývozu odpadů), se namísto statistické hodnoty uvádí do kolonky 46 číslo „0“.
+
+3\. Při zpětném vývozu zboží, včetně toho, které se nacházelo v České republice za účelem finančního leasingu, se uvádí statistická hodnota shodná s tou, která byla vykázána při dovozu tohoto zboží. Statistická hodnota zboží zpět vyváženého po ukončení celního režimu aktivního zušlechťovacího styku, pokud toto zboží neprošlo žádnou zušlechťovací operací, odpovídá statistické hodnotě tohoto zboží při jeho dovozu.
+
+4\. Statistická hodnota zboží vyváženého náhradou za zboží stejného druhu a provedení se rovná statistické hodnotě vykázané při vývozu nahrazovaného zboží.
+
+5\. Pro vyvážené zboží dodávané s montáží se za statistickou hodnotu považuje pouze samotná hodnota zboží bez ceny za montáž a nákladů s ní spojených.
+
+6\. Statistická hodnota vyváženého zboží, které obsahuje informace a je jejich nosičem, například disketa, magnetický pásek, film, plán, videokazeta, CD-ROM, DVD, Blu-ray disk, paměťová karta, paměťový disk nebo přenosný pevný disk, se stanoví na základě celkových nákladů na zboží, tj. nákladů za nosič i informace, které přenáší.
+
+B. PROPUŠTĚNÍ DO CELNÍHO REŽIMU VOLNÉHO OBĚHU, KONEČNÉHO UŽITÍ, AKTIVNÍHO ZUŠLECHŤOVACÍHO STYKU, DOČASNÉHO POUŽITÍ, USKLADŇOVÁNÍ V CELNÍM SKLADU A SVOBODNÉHO PÁSMA
+
+###### Kolonka 2: Odesílatel/Vývozce
+
+Sestává-li zásilka ze zboží od několika vývozců anebo odesílatelů, uvede se do této kolonky text „různí“ a kód „00200“. Ke každému z listů tiskopisu se přikládá seznam obsahující jejich název nebo příjmení a jméno, popřípadě jména, sídlo nebo adresu bydliště. Volitelně může být uvedeno číslo EORI odesílatele v této kolonce na tiskopisu nebo čísla EORI odesílatelů na přiloženém seznamu.
+
+###### Kolonka 3: Tiskopisy
+
+Tato kolonka se nevyplňuje, pokud celní prohlášení obsahuje pouze jednu položku zboží.
+
+###### Kolonka 4: Ložné listy
+
+Do této kolonky se volitelně uvede počet přiložených ložných listů.
+
+###### Kolonka 8: Příjemce
+
+Je-li v této kolonce
+
+a) uvedena osoba se sídlem nebo bydlištěm mimo Evropskou unii, nebo
+
+b) uvedeno sídlo nebo adresu bydliště osoby odlišné od místa dodání zboží, uvede se do této kolonky jméno osoby a její sídlo nebo adresa bydliště, kam bude zboží skutečně dodáno.
+
+Je-li zásilka určena pro několik příjemců, uvede se do této kolonky text „různí“ a kód „00200“. Ke každému z listů tiskopisu se přikládá seznam obsahující jejich číslo EORI, název nebo příjmení a jméno, popřípadě další jména, sídlo nebo adresa bydliště. Seznam případně obsahuje také údaje podle předchozího odstavce.
+
+###### Kolonka 24: Druh obchodu
+
+V levé straně tučně vyznačeného okénka této kolonky se uvádí jednomístný číselný kód povahy transakce ze sloupce A seznamu kódů stanovených přímo použitelným předpisem Evropské unie<sup>1</sup>).
+
+###### Kolonka 30: Umístění zboží
+
+1\. Uvede se místo, kde může být zboží kontrolováno, následujícím způsobem:
+
+a) je-li celní řízení prováděno v prostoru správce cla nebo v celním prostoru, uvede se kód tohoto správce cla,
+
+b) je-li celní řízení prováděno mimo prostor správce cla nebo mimo celní prostor v prostoru dovozce nebo příjemce, nebo na jiném individuálně určeném nebo schváleném místě, uvede se číslo EORI tohoto dovozce nebo příjemce,
+
+c) je-li na základě povolení zjednodušeného postupu „Zápis do záznamů deklaranta“ nebo „Místní celní řízení“ v rámci přechodného období podle přímo použitelného předpisu Evropské unie<sup>1</sup>) zboží předloženo na schváleném místě, uvede se přidělený kód tohoto schváleného místa,
+
+d) je-li zboží na základě povolení „Centralizované celní řízení“ podle přímo použitelného předpisu Evropské unie<sup>1</sup>) předloženo v prostoru jiného správce cla, než u kterého bylo podáno celní prohlášení, uvede se kód správce cla, kterému je zboží předloženo.
+
+2\. Bylo-li na základě povolení „Zápis do záznamů deklaranta“ podle přímo použitelného předpisu Evropské unie<sup>1</sup>) upuštěno od povinnosti předložit zboží, tato kolonka se nevyplňuje.
+
+###### Kolonka 31: Nákladové kusy a popis zboží; značky a čísla; číslo (čísla) kontejneru; počet a druh
+
+1\. Popis zboží musí být dostatečně přesný pro zajištění totožnosti a zařazení do odpovídající podpoložky společného celního sazebníku. Může být doplněn o cizojazyčný název, chemickou značku, obchodní označení, ochrannou známku a podobně.
+
+2\. Je-li zboží odpadem podle zákona o odpadech, označení zboží se doplní kódem odpadu uvedeným v průvodních dokladech pro přepravu odpadů podle přímo použitelného předpisu Evropské unie o přepravě odpadů<sup>2</sup>) a příslušným kódem způsobu využití nebo odstranění odpadů („R1“ až „R13“ nebo „D1“ až „D15“). Dále se uvede kód druhu odpadu:
+
+„WZE“ - je-li zboží uvedeno v zeleném seznamu odpadů podle přímo použitelného předpisu Evropské unie o přepravě odpadů<sup>2</sup>),
+
+„WZL“ - je-li zboží uvedeno ve žlutém seznamu odpadů podle přímo použitelného předpisu Evropské unie o přepravě odpadů<sup>2</sup>),
+
+„WAX“ - není-li zboží, které je odpadem podle zákona o odpadech, zařazeno v žádném z uvedených seznamů.
+
+3\. Podléhá-li zboží celním kvótám řízených systémem „kdo dřív přijde, je dřív na řadě“ a je-li požádáno příslušným kódem v kolonce 39 o její přiznání, uvede se do této kolonky kód měrné jednotky pro příslušnou kvótu a množství zboží v této měrné jednotce.
+
+4\. Je-li to nutné, uvede se do této kolonky zkratka „DPK:“ a za dvojtečku čtyřmístné přídavné kódy oddělené čárkou, uvedené v části III. této přílohy.
+
+5\. Pokud je žádáno o propuštění zboží do celního režimu volného oběhu podle sazebního zařazení zboží s nejvyšší celní sazbou dovozního cla, uvede se do této kolonky údaj: „Sazební zařazení zboží s nejvyšší celní sazbou dovozního cla“.
+
+###### Kolonka 32: Pořadové číslo položky
+
+Tato kolonka se nevyplňuje, pokud celní prohlášení obsahuje pouze jednu položku zboží.
+
+###### Kolonka 33: Zbožový kód
+
+1\. Do pátého pododdílu této kolonky se uvede přídavný kód stanovený v části III. této přílohy vztahující se na zboží označené tímto kódem. Pokud je zboží označeno dvěma a více kódy, které jsou stanoveny v části III. této přílohy, uvede se jeden z těchto kódů do pátého pododdílu této kolonky a další z těchto kódů do kolonky 31 tiskopisu, popřípadě doplňkového listu.
+
+2\. Přídavný kód daně z přidané hodnoty stanovený v části III. této přílohy se uvede pouze v případě, kdy propuštěním zboží do celního režimu vzniká povinnost zaplatit daň podle zákona o dani z přidané hodnoty.
+
+###### Kolonka 35: Hrubá hmotnost (kg)
+
+Při dovozu elektrické energie se do této kolonky uvede údaj „0,001“.
+
+###### Kolonka 37: Režim
+
+Do pravé části této kolonky se uvede kód upřesňující celní režim nebo vyjadřující požadavek na celní a/nebo daňovou úlevu podle přímo použitelného předpisu Evropské unie<sup>1</sup>) nebo části V. této přílohy. Není-li uváděn žádný kód upřesňující celní režim nebo vyjadřující požadavek na celní a/nebo daňovou úlevu, uvede se číselný kód „000“.
+
+###### Kolonka 38: Čistá hmotnost (kg)
+
+1\. Údaj do této kolonky musí být uveden na 3 desetinná místa.
+
+2\. Při dovozu elektrické energie se do této kolonky uvede údaj „0,001“.
+
+###### Kolonka 39: Kvóta
+
+V případech, že zboží podléhá celní kvótě, uvede se do této kolonky číselné označení celní kvóty.
+
+###### Kolonka 41: Doplňkové měrné jednotky
+
+Údaj do této kolonky musí být uveden na 3 desetinná místa.
+
+###### Kolonka 43: Způsob hodnocení
+
+Za použití odpovídajícího kódu stanoveného přímo použitelným předpisem Evropské unie<sup>1</sup>) se uvede navrhovaný způsob hodnocení.
+
+###### Kolonka 44: Zvláštní záznamy/Předložené doklady/Osvědčení a povolení
+
+1\. Do levého horního rohu, popřípadě do střední části, se uvádějí kódy národních dokladů, osvědčení, licencí, povolení a ostatních certifikátů z databáze TARIC CZ, spolu s jejich případným označením, odpisové měrné jednotky, případně odpisované množství z licencí a povolení, včetně jejich položky popř. doplňujícího záznamu. Do levého dolního rohu se uvádějí kódy zajištění cla a jiného peněžitého plnění, které je spravováno společně se clem, nebo kódy nepožadování poskytnutí jistoty uvedené v části IV. této přílohy.
+
+2\. Do této kolonky, za kód stanovený v části IV. této přílohy, se uvede
+
+a) číslo osvědčení o povolení užívat zajištění cla a jiných peněžitých plnění, která jsou spravována společně se clem, nebo zproštění povinnosti jistotu poskytnout,
+
+b) evidenční číslo povolení užívat zajištění cla a jiných peněžitých plnění, která jsou spravována společně se clem, nebo zproštění povinnosti jistotu poskytnout, není-li vydáno osvědčení o tomto povolení,
+
+c) částka převedená na účet správce cla v celých korunách českých, je-li jistota poskytnuta ve formě složení částky, a to v rozsahu nejvýše desetimístného čísla; byl-li pro složení částky přidělen správcem cla variabilní symbol, uvede se za částkou lomítko a za lomítkem příslušný desetimístný variabilní symbol. Má-li být částka jistoty opakovaně použita k zajištění cla a jiných peněžitých plnění, která jsou spravována společně se clem, uvede se za variabilní symbol lomítko a evidenční číslo povolení k opakovanému použití,
+
+d) číslo, popřípadě čísla záručního dokladu, které se přikládají k tiskopisu.
+
+3\. Nad tečkovaně vyznačené okénko se v případě, kdy propuštěním zboží do celního režimu vzniká povinnost zaplatit daň podle zákona o dani z přidané hodnoty, uvede kód „DPH“, pomlčka a částka vedlejších výdajů podle zákona o dani z přidané hodnoty v celých korunách českých.
+
+###### Kolonka 46: Statistická hodnota
+
+1\. Uvádí se statistická hodnota zboží v celých korunách českých zaokrouhleně vždy směrem nahoru. Pro přepočet hodnoty vyjádřené v zahraniční měně na koruny české se používá směnný kurz používaný k výpočtu celní hodnoty určený podle přímo použitelného předpisu Evropské unie<sup>1</sup>).
+
+2\. U zboží, za které není jeho dodavatelem požadována úhrada, ale naopak je za ně odběrateli placeno (například při dovozu odpadů), se namísto statistické hodnoty uvádí do kolonky 46 číslo „0“.
+
+3\. Při zpětném dovozu zboží, včetně toho, které se nacházelo v zahraničí za účelem finančního leasingu, se uvádí statistická hodnota shodná s tou, která byla vykázána při vývozu tohoto zboží. Statistická hodnota zboží zpět dováženého z celního režimu pasivního zušlechťovacího styku, pokud toto zboží neprošlo žádnou zušlechťovací operací, odpovídá statistické hodnotě tohoto zboží při jeho vývozu.
+
+4\. Statistická hodnota zboží dováženého náhradou za zboží stejného druhu a provedení se rovná statistické hodnotě vykázané při dovozu nahrazovaného zboží.
+
+5\. Pro dovážené zboží dodávané s montáží se za statistickou hodnotu považuje pouze samotná hodnota zboží bez ceny za montáž a nákladů s ní spojených.
+
+6\. Statistická hodnota dováženého zboží, které obsahuje informace a je jejich nosičem, jako je například disketa, magnetický pásek, film, plán, videokazeta, CD-ROM, DVD, Blu-ray disk, paměťová karta, paměťový disk nebo přenosný pevný disk, se stanoví na základě celkových nákladů na zboží, tj. nákladů za nosič i informace, které přenáší.
+
+###### Kolonka 47: Výpočet poplatků
+
+1\. Vznikne-li propuštěním zboží do celního režimu volného oběhu, včetně propuštění podle ustanovení o konečném užití, nebo do celního režimu dočasného použití s částečným osvobozením od dovozního cla celní dluh nebo povinnost k jiným peněžitým plněním spravovaným společně se clem, v souvislosti s dovozem zboží, uvede se
+
+a) do sloupce „Druh“ kód příslušné platby stanovený přímo použitelným předpisem Evropské unie<sup>1</sup>), popřípadě bodem 3,
+
+b) do sloupce „Zákl. pro vyměř. popl.“
+
+\- prohlašovaná celní hodnota v celých korunách českých, zaokrouhlená směrem nahoru,
+
+\- základ spotřební daně, jsou-li dováženy tabákové výrobky, u nichž je předepsána dvousložková sazba daně, uvede se nejprve základ pro pevnou část daně a pod něj základ pro procentní část daně, a to i v případech dovozu tabákových výrobků značených tabákovými nálepkami; základ spotřební daně lze uvést do dvou nebo více řádků i v případech, má-li být ze zboží vyměřena spotřební daň podle dvou nebo více rozdílných sazeb,
+
+c) do sloupce „Sazba“ sazba spotřební daně pro příslušný vybraný výrobek; jsou-li dováženy tabákové výrobky, uvede se nejprve sazba pro pevnou část spotřební daně a pod ni sazba pro procentní část spotřební daně, a to i v případech dovozu tabákových výrobků značených tabákovými nálepkami; sazbu spotřební daně lze uvést do dvou nebo více řádků i v případech, má-li být ze zboží vyměřena spotřební daň podle dvou nebo více rozdílných sazeb,
+
+d) do sloupce „ZP“ kód způsobu placení, a to
+
+A - Platba v hotovosti,
+
+B - Platba platební kartou,
+
+C - Platba šekem, jehož proplacení je zaručeno poskytovatelem platebních služeb,
+
+E - Odklad platby,
+
+H - Elektronický převod,
+
+K - Úhrada cla nebo jiného peněžitého plnění spravovaného společně se clem započtením přeplatku na jiném clu nebo jiném peněžitém plnění spravovaném společně se clem,
+
+R - Úhrada převodem z jistoty poskytnuté ve formě složení částky.
+
+2\. Při dovozu, v případech jiných než uvedených v bodě 1, se uvede pouze prohlašovaná celní hodnota. Celní hodnota se uvede do prvního řádku ve sloupci „Zákl. pro vyměř. popl.“.
+
+3\. Pro případ platby spotřební daně vyměřované a vybírané správcem cla v souvislosti s dovozem zboží se stanoví kód „1SD“. Tento kód se ve sloupci „Druh“ uvede za poslední uváděný kód začínající písmenem „A“ a/nebo před první uváděný kód začínající písmenem „B“ stanovené přímo použitelným předpisem Evropské unie<sup>1</sup>).
+
+4\. Základ pro vyměření příslušné platby se uvede do stejného řádku jako její kód ve sloupci „Druh“; jsou-li deklarovaným zbožím tabákové výrobky, uvede se základ pro pevnou část daně do stejného řádku jako její kód ve sloupci „Druh“ a základ pro procentní část daně pod něj. Základ pro vyměření příslušné platby, vyjma základu spotřebních daní, se uvede v celých jednotkách a v rozsahu maximálně desetimístného čísla. Základ spotřební daně se uvede podle skutečného množství dováženého zboží až na tři desetinná místa, k dalším případným místům za desetinnou čárkou se nepřihlíží.
+
+5\. Kód způsobu placení cla a jiných peněžitých plnění, která jsou spravována společně se clem, se uvede do prvního řádku ve sloupci označeném „ZP“ v případech vyměření cla a jiných peněžitých plnění, která jsou spravována společně se clem.
+
+#### ČÁST III – SEZNAM PŘÍDAVNÝCH KÓDŮ
+
+(kolonka 33 tiskopisu, doplňkového listu - pátý pododdíl)
+
+A. Seznam přídavných kódů daně z přidané hodnoty
+
+<table><tbody><tr><th>Přídavný kód</th><th colspan="2">Význam podle zákona o dani z přidané hodnoty</th></tr><tr><td>R021</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 01-05, 07-23, 25: Potraviny; krmiva pro zvířata; živá zvířata, semena, rostliny a přísady, obvykle určené k přípravě potravin; výrobky obvykle používané jako doplněk nebo náhražka potravin. Mimo nápojů a vody; to neplatí pro vybrané nápoje.</td></tr><tr><td>R023</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 0601, 0602: Živé dřeviny a jiné rostliny; cibule, kořeny a podobné.</td></tr><tr><td>R024</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 07-12: Rostliny a semena.</td></tr><tr><td>R025</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 28-30: Sorbit pro diabetiky, aspartam, sacharin a jeho soli, antibiotika, farmaceutické výrobky – jen určené pro zdravotní služby, prevenci nemocí a léčbu pro humánní lékařské účely; radiofarmaka, očkovací látky, léky, kontrastní prostředky pro rentgenová vyšetření, diagnostické reagencie určené k podávání pacientům, chemické antikoncepční přípravky na hormonálním základě – určené pro zdravotní a veterinární služby, prevenci nemocí a léčbu pro humánní a veterinární lékařské účely.</td></tr><tr><td>R026</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 4902, 8523: Noviny, časopisy a periodika, včetně zvukového záznamu přednesu jejich obsahu, pokud nejde o zboží, u kterého reklama podle zákona upravujícího regulaci reklamy představuje více než 50 % obsahu, nebo které výlučně nebo převážně sestává z hudebního zvukového nebo audiovizuálního obsahu.</td></tr><tr><td rowspan="3">R027</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 01-96: Zdravotnické prostředky podle nařízení o zdravotnických prostředcích a jejich příslušenství podle tohoto nařízení a diagnostické zdravotnické prostředky in vitro podle nařízení o diagnostických zdravotnických prostředcích in vitro a jejich příslušenství podle tohoto nařízení, které lze zařadit do</td></tr><tr><td>-</td><td>úhradové skupiny v tabulce č. 1 oddílu C přílohy č. 3 k zákonu o veřejném zdravotním pojištění, pokud se nejedná o zdravotnické prostředky, které lze zařadit do úhradové skupiny „Nekategorizované zdravotnické prostředky“, vatu buničitou nebo náplast s výjimkou hypoalergenní náplasti,</td></tr><tr><td>-</td><td>přílohy č. 4 k zákonu o veřejném zdravotním pojištění.</td></tr><tr><td>R028</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 01-96: Zdravotnické prostředky podle nařízení o zdravotnických prostředcích a jejich příslušenství podle tohoto nařízení, pokud jsou zhotovené podle předpisu kvalifikovaného zdravotnického pracovníka, kterým tento pracovník vydává individuální návrh charakteristik zdravotnického prostředku určeného k použití pouze pro jednoho konkrétního pacienta.</td></tr><tr><td>R029</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 01-96: Zdravotnické prostředky podle nařízení o zdravotnických prostředcích a jejich příslušenství podle tohoto nařízení a diagnostické zdravotnické prostředky in vitro podle nařízení o diagnostických zdravotnických prostředcích in vitro, které jsou určené pro jedno použití.</td></tr><tr><td>R030</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9001 30: Kontaktní čočky, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R031</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9001 40: Brýlové čočky ze skla, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R032</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9001 50: Brýlové čočky z ostatních materiálů, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R033</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9003: Obruby a obroučky pro brýle, pro ochranné brýle nebo pro podobné výrobky, a jejich části a součásti, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích, a jejich příslušenství podle tohoto nařízení.</td></tr><tr><td>R034</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9004: Brýle korekční, ochranné nebo jiné a podobné výrobky, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R035</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9018 31, 9018 32, 9018 39 00: Injekční stříkačky, jehly, katétry (cévky), kanyly a podobné výrobky, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R036</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9019: Přístroje pro mechanoterapii; masážní přístroje; psychotechnické přístroje; přístroje pro léčbu ozonem, kyslíkem, aerosolem, dýchací oživovací přístroje nebo jiné léčebné dýchací přístroje. Pouze pokud se jedná o zdravotnické prostředky podle nařízení o zdravotnických prostředcích. Příslušenství těchto zdravotnických prostředků podle tohoto nařízení.</td></tr><tr><td>R037</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9020 00 00: Ostatní dýchací přístroje a plynové masky, kromě ochranných masek bez mechanických částí a vyměnitelných filtrů, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích, a jejich příslušenství podle tohoto nařízení.</td></tr><tr><td>R038</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9021: Ortopedické pomůcky a přístroje, včetně berlí, chirurgických pásů a kýlních pásů; dlahy a jiné prostředky k léčbě zlomenin; umělé části těla; pomůcky pro nedoslýchavé a jiné prostředky nošené v ruce nebo na těle anebo implantované v organismu ke kompenzování následků nějaké vady nebo neschopnosti. Pouze pokud se jedná o zdravotnické prostředky podle nařízení o zdravotnických prostředcích. Příslušenství těchto zdravotnických prostředků podle tohoto nařízení.</td></tr><tr><td>R039</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9025: Teploměry, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích.</td></tr><tr><td>R040</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 9026: Přístroje a zařízení na měření hladiny, tlaku nebo jiných proměnných charakteristik kapalin nebo plynů, které jsou zdravotnickými prostředky podle nařízení o zdravotnických prostředcích, a jejich příslušenství podle tohoto nařízení.</td></tr><tr><td rowspan="15">R041</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 48, 64, 66, 84, 85, 87, 90, 91: Zboží pro osobní používání nemocnými nebo zdravotně postiženými k léčení nemoci nebo zdravotního postižení nebo ke zmírnění jejich důsledků, jež není zdravotnickým prostředkem nebo příslušenstvím zdravotnických prostředků podle právního předpisu upravujícího zdravotnické prostředky, a to:</td></tr><tr><td>-</td><td>Braille papír</td></tr><tr><td>-</td><td>Osobní a kuchyňské váhy s hlasovým výstupem pro nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Psací stroje a stroje na zpracování textu (slovní procesory) upravené k používání nevidomými a částečně vidícími osobami nebo osobami s amputovanou nebo ochrnutou horní končetinou</td></tr><tr><td>-</td><td>Elektronické kalkulačky s hlasovým nebo hmatovým výstupem pro nevidomé a částečně vidící osoby a elektronické počítací stroje s hlasovým nebo hmatovým výstupem pro nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Počítače speciálně upravené pro nevidomé a částečně vidící osoby s hlasovým nebo hmatovým výstupem nebo hardwarovým adaptérem pro zvětšování písma a obrazu, a jejich jednotky a přídavná zařízení s hlasovým nebo hmatovým výstupem nebo hardwarovým adaptérem pro zvětšování písma a obrazu</td></tr><tr><td>-</td><td>Braillská počítačová tiskárna pro nevidomé a částečně vidící osoby, klávesnice pro nevidomé a částečně vidící osoby a jiné výstupní a vstupní jednotky počítače pro zpracování hmatového písma</td></tr><tr><td>-</td><td>Jednotky počítačů a přídavná zařízení k počítačům umožňující jejich ovládání osobami se sníženou jemnou motorikou nebo amputovanými končetinami</td></tr><tr><td>-</td><td>Telefony a videotelefony konstruované pro použití neslyšícími osobami</td></tr><tr><td>-</td><td>Zvětšovače televizního obrazu pro nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Speciální akustické nebo vizuální přístroje pro neslyšící, nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Ruční ovládání nožních pedálů, ruční páky, včetně řadicí páky, pro tělesně postižené osoby</td></tr><tr><td>-</td><td>Hodinky pro nevidomé a částečně vidící osoby s hmatovým nebo hlasovým výstupem s pouzdrem jiným než z drahých kovů a vibrační a světelné hodinky pro neslyšící osoby</td></tr><tr><td>-</td><td>Vibrační a světelné budíky pro neslyšící osoby a budíky s hlasovým nebo hmatovým výstupem pro nevidomé a částečně vidící osoby</td></tr><tr><td>-</td><td>Části a součásti těchto výrobků, u kterých je čestným prohlášením doloženo, že zboží náleží k určitému výše uvedenému druhu zboží.</td></tr><tr><td>R042</td><td colspan="2">Snížená sazba daně se uplatňuje u zboží kódu nomenklatury celního sazebníku 94: Dětské sedačky do automobilů.</td></tr><tr><td>R999</td><td colspan="2">Zboží zahrnuté v tomto kódu není podle zákona o dani z přidané hodnoty považováno za zboží.</td></tr></tbody></table>
+
+B. Seznam přídavných kódů spotřebních daní
+
+| Přídavný kód | Význam podle zákona o spotřebních daních |
+|---|---|
+| S101 | Motorové a ostatní benziny a letecké pohonné hmoty benzinového typu podle § 45 odst. 1 písm. a) zákona s obsahem olova do 0,013 g/l včetně |
+| S102 | Motorové a ostatní benziny a letecké pohonné hmoty benzinového typu podle § 45 odst. 1 písm. a) zákona s obsahem olova nad 0,013 g/l |
+| S103 | Střední oleje a těžké plynové oleje podle § 45 odst. 1 písm. b) zákona |
+| S104 | Těžké topné oleje podle § 45 odst. 1 písm. c) zákona |
+| S105 | Odpadní oleje podle § 45 odst. 1 písm. d) zákona |
+| S106 | Zkapalněné ropné plyny a zkapalněný bioplyn podle § 45 odst. 1 písm. e) zákona |
+| S107 | Zkapalněné ropné plyny a zkapalněný bioplyn podle § 45 odst. 1 písm. f) zákona |
+| S108 | Zkapalněné ropné plyny a zkapalněný bioplyn podle § 45 odst. 1 písm. g) zákona |
+| S112 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. b) zákona, které obsahují benzín s obsahem olova do 0,013 g/l včetně |
+| S113 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. b) zákona, které obsahují benzín s obsahem olova nad 0,013 g/l |
+| S114 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. c) zákona |
+| S115 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. d) a e) zákona, které obsahují benzín s obsahem olova do 0,013 g/l včetně |
+| S116 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. d) a e) zákona, které obsahují benzín s obsahem olova nad 0,013 g/l |
+| S121 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+| S122 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+| S123 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+| S124 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+| S125 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+| S126 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+| S127 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+| S128 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. a) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+| S141 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+| S142 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+| S143 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+| S144 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+| S145 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+| S146 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+| S147 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+| S148 | Směsi minerálních olejů uvedené v § 45 odst. 2 písm. f) a g) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+| S161 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+| S162 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+| S163 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+| S164 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+| S165 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+| S166 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+| S167 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+| S168 | Minerální oleje uvedené v § 45 odst. 3 a výrobky uvedené v § 45 odst. 5 a 6 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+| S172 | Minerální oleje uvedené v § 45 odst. 3 písm. a) a k) zákona splňující kritéria udržitelnosti biopaliv, které jsou určeny k použití, nabízeny k prodeji nebo používány pro pohon motorů |
+| S173 | Metylestery mastných kyselin uvedené v § 45 odst. 3 písm. k) zákona splňující kritéria udržitelnosti biopaliv, které jsou určeny k použití, nabízeny k prodeji nebo používány pro pohon motorů |
+| S181 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+| S182 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+| S183 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+| S184 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+| S185 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+| S186 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+| S187 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+| S188 | Výrobky uvedené v § 45 odst. 7 zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+| S601 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+| S602 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+| S603 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+| S604 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+| S605 | Minerální oleje uvedené v § 45 odst. 2 písni, h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+| S606 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+| S607 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+| S608 | Minerální oleje uvedené v § 45 odst. 2 písm. h) a i) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+| S621 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+| S622 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+| S623 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+| S624 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S104 |
+| S625 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S105 |
+| S626 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S106 |
+| S627 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S107 |
+| S628 | Minerální oleje uvedené v § 45 odst. 2 písm. j) a k) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S108 |
+| S631 | Minerální oleje uvedené v § 45 odst. 2 písm. l) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S101 |
+| S632 | Minerální oleje uvedené v § 45 odst. 2 písm. l) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S102 |
+| S633 | Minerální oleje uvedené v § 45 odst. 2 písm. m) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+| S634 | Minerální oleje uvedené v § 45 odst. 2 písm. n) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+| S635 | Minerální oleje uvedené v § 45 odst. 2 písni, o) zákona, které se svými vlastnostmi a účelem použití nejvíce přibližují minerálním olejům uvedeným pod přídavným kódem S103 |
+| S201 | Líh obsažený ve výrobcích uvedených pod kódem nomenklatury 2207 |
+| S202 | Líh obsažený ve výrobcích uvedených pod kódem nomenklatury 2208 s výjimkou ovocných destilátů z pěstitelského pálení v množství do 30 l etanolu pro jednoho pěstitele zajedno výrobní období podle zákona o lihu |
+| S204 | Líh obsažený ve výrobcích uvedených pod ostatními kódy nomenklatury |
+| S301 | Základní sazba daně z piva |
+| S302 | Snížená sazba pro malé nezávislé pivovary do 10000 hl výroby ročně |
+| S303 | Snížená sazba pro malé nezávislé pivovary nad 10000 do 50000 hl výroby ročně |
+| S304 | Snížená sazba pro malé nezávislé pivovary nad 50000 do 100000 hl výroby ročně |
+| S305 | Snížená sazba pro malé nezávislé pivovary nad 100000 do 150000 hl výroby ročně |
+| S306 | Snížená sazba pro malé nezávislé pivovary nad 150000 do 200000 hl výroby ročně |
+| S411 | Šumivá vína podle § 93 odst. 2 zákona |
+| S412 | Tichá vína podle § 93 odst. 3 zákona |
+| S413 | Meziprodukty podle § 93 odst. 4 zákona |
+| S501 | Cigarety |
+| S504 | Doutníky, cigarillos |
+| S505 | Zahřívané tabákové výrobky |
+| S514 | Tabák ke kouření |
+| S515 | Tabák do vodní dýmky |
+| S516 | Ostatní tabákové výrobky |
+| S517 | Náplně do elektronické cigarety |
+| S518 | Nikotinové sáčky |
+| S519 | Ostatní nikotinové výrobky |
+
+#### ČÁST IV – SEZNAM KÓDŮ ZAJIŠTĚNÍ CLA A JINÉHO PENĚŽITÉHO PLNĚNÍ A KÓDŮ NEPOŽADOVÁNÍ POSKYTNUTÍ JISTOTY
+
+##### (kolonka 44 tiskopisu nebo doplňkového listu)
+
+| Kód | Popis |
+|---|---|
+| 9110 | Souborná jistota včetně souborné jistoty se sníženou částkou záruky a zproštění povinnosti poskytnout jistotu |
+| 92ZL | Jednotlivá jistota s použitím záruční listiny |
+| 93CJ | Jednotlivá jistota složením částky na účet správce cla |
+| 9ZD1 | Jednotlivá jistota s použitím záručního dokladu pro jiné operace než celní režim tranzitu |
+| 9NCK | Nepožadování jistoty podle čl. 89 odst. 7 až 9 celního kodexu Unie |
+| 9NPH | Nepožadování jistoty při placení v hotovosti nebo platební kartou u správce cla |
+| 9NJZ | Nepožadování jistoty z jiného důvodu |
+
+#### ČÁST V – KÓDY CELNÍCH A DAŇOVÝCH ÚLEV
+
+##### (kolonka 37 pravá část tiskopisu nebo doplňkového listu)
+
+| Kód | Význam podle:<br> nařízení Evropského parlamentu a Rady (EU) č. 952/2013 (dále jen „celní kodex Unie“), nařízení Komise v přenesené pravomoci (EU) 2015/2446 (dále jen „NK2446“), nařízení Rady (ES) č. 1186/2009 (dále jen „NR1186“), zákona č. 235/2004 Sb., o dani z přidané hodnoty (dále jen „zákon o DPH“), zákona č. 353/2003 Sb., o spotřebních daních (dále jen „zákon o SPD“) a celního zákona | SUB |
+|---|---|---|
+| 08B | Vyjadřuje nárok na částečné osvobození od cla zpět dovážených zušlechtěných výrobků nebo náhradních produktů formou zvláštního dovozního cla dle článku 75 NK2446 | 1 |
+| 01C | Vyjadřuje nárok na osvobození od cla osobního majetku fyzických osob při přenosu obvyklého místa pobytu na celní území Evropské unie dle článku 3 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. b) bod 1 zákona o DPH. | 0 |
+| 02C | Vyjadřuje nárok na osvobození od cla zboží dováženého při příležitosti sňatku (výbava a vybavení domácnosti) dle článku 12 odst. 1 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. b) bod 2 zákona o DPH. | 0 |
+| 03C | Vyjadřuje nárok na osvobození od cla zboží dováženého při příležitosti sňatku (dary obvykle darované při příležitosti sňatku) dle článku 12 odst. 2 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. b) bod 2 zákona o DPH. | 0 |
+| 04C | Vyjadřuje nárok na osvobození od cla osobního majetku nabytého děděním dle článku 17 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. b) bod 3 zákona o DPH. | 0 |
+| 06C | Vyjadřuje nárok na osvobození od cla výbavy, studijních potřeb a vybavení domácnosti žáků nebo studentů dle článku 21 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. c) zákona o DPH. | 0 |
+| 08C | Vyjadřuje nárok na osvobození od cla zásilky odesílané soukromou osobou jiné soukromé osobě dle článků 25 až 27 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. a) zákona o DPH. | 0 |
+| 09C | Vyjadřuje nárok na osvobození od cla dle článku 28 NR1186 (přemístění podniku ze třetí země do Evropské unie); současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. d) zákona o DPH. | 0 |
+| 10C | Vyjadřuje nárok na osvobození od cla obchodního majetku a ostatního zařízení, které patří osobám vykonávajícím nezávislá povolání a právnickým osobám, které nevykonávají svou činnost za účelem zisku dle článku 34 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. d) zákona o DPH. | 0 |
+| 11C | Vyjadřuje nárok na osvobození od cla sbírkových a uměleckých předmětů vzdělávací, vědecké nebo kulturní povahy; vědecké nástroje a přístroje uvedené v příloze I dle článku 42 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 3 písm. b) zákona o DPH. | 0 |
+| 12C | Vyjadřuje nárok na osvobození od cla sbírkových a uměleckých předmětů vzdělávací, vědecké nebo kulturní povahy; vědecké nástroje a přístroje uvedené v příloze II dle článku 43 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 3 písm. b) zákona o DPH. | 0 |
+| 15C | Vyjadřuje nárok na osvobození od cla laboratorních zvířat a biologických nebo chemických látek určených k výzkumu dle článku 53 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. e) bod 1 zákona o DPH. | 0 |
+| 16C | Vyjadřuje nárok na osvobození od cla léčebných látek lidského původu a činidel k určování krevní skupiny a tkání dle článku 54 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. e) bod 2 zákona o DPH. | 0 |
+| 18C | Vyjadřuje nárok na osvobození od cla referenčních látek pro kontrolu jakosti léčivých přípravků dle článku 59 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. e) bod 3 zákona o DPH. | 0 |
+| 19C | Vyjadřuje nárok na osvobození od cla farmaceutických výrobků užívaných při mezinárodních sportovních událostech dle článku 60 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. e) bod 4 zákona o DPH. | 0 |
+| 20C | Vyjadřuje nárok na osvobození od cla zboží pro charitativní a dobročinné organizace dle článku 61 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. f) bod 1 zákona o DPH. | 0 |
+| 23C | Vyjadřuje nárok na osvobození od cla předmětů určených pro nevidomé dle článku 67 odst. 1 písm. b) NR1186 uvedených v příloze IV, dovážené určitými institucemi nebo organizacemi; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. f) bod 2 zákona o DPH. | 0 |
+| 25C | Vyjadřuje nárok na osvobození od cla předmětů určených pro ostatní zdravotně postižené osoby (jiné než nevidomé) dle článku 68 odst. 1 písm. b) NR1186, dovážené určitými institucemi nebo organizacemi; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. f) bod 2 zákona o DPH. | 0 |
+| 26C | Vyjadřuje nárok na osvobození od cla zboží dováženého ve prospěch obětí katastrof dle článku 74 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. f) bod 3 zákona o DPH. | 0 |
+| 27C | Vyjadřuje nárok na osvobození od cla čestných vyznamenání a cen dle článku 81 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. g) bod 1 zákona o DPH. | 0 |
+| 28C | Vyjadřuje nárok na osvobození od cla darů obdržených v rámci mezinárodních vztahů dle článku 82 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. g) bod 2 zákona o DPH. | 0 |
+| 29C | Vyjadřuje nárok na osvobození od cla zboží určeného k užívání panovníky a hlavami států dle článku 85 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. g) bod 3 zákona o DPH. | 0 |
+| 30C | Vyjadřuje nárok na osvobození od cla vzorků zboží nepatrné hodnoty dováženého k podpoře obchodní činnosti dle článku 86 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. h) bod 1 zákona o DPH. | 0 |
+| 31C | Vyjadřuje nárok na osvobození od cla tiskovin a reklamního materiálu dováženého k podpoře obchodní činnosti dle článku 87 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. h) bod 2 zákona o DPH. | 0 |
+| 32C | Vyjadřuje nárok na osvobození od cla zboží používaného nebo spotřebovaného v průběhu výstavy nebo podobné události dle článku 90 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. h) bod 3 zákona o DPH. | 0 |
+| 33C | Vyjadřuje nárok na osvobození od cla zboží dováženého ke zkouškám, analýzám nebo pokusům dle článku 95 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. i) zákona o DPH. | 0 |
+| 34C | Vyjadřuje nárok na osvobození od cla zásilek určených subjektům příslušným ve věcech ochrany autorských práv nebo průmyslového nebo obchodního vlastnictví dle článku 102 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. j) bod 1 zákona o DPH. | 0 |
+| 35C | Vyjadřuje nárok na osvobození od cla turistického propagačního materiálu dle článku 103 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. j) bod 2 zákona o DPH. | 0 |
+| 36C | Vyjadřuje nárok na osvobození od cla různých dokumentů a zboží dle článku 104 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. j) bod 3 zákona o DPH. | 0 |
+| 37C | Vyjadřuje nárok na osvobození od cla materiálu k upevnění a ochraně zboží při přepravě dle článku 105 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. j) bod 4 zákona o DPH. | 0 |
+| 38C | Vyjadřuje nárok na osvobození od cla steliva, píce a krmiva určeného pro zvířata během jejich dopravy dle článku 106 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. j) bod 5 zákona o DPH. | 0 |
+| 39C | Vyjadřuje nárok na osvobození od cla pohonných hmot a maziva nacházejících se v silničních motorových vozidlech dle článku 107 NR1186; současně vyjadřuje nárok na osvobození od SPD dle § 11 odst. 1 písm. a) zákona o SPD a od DPH dle § 71 odst. 2 písm. j) bod 6 zákona o DPH. | 0 |
+| 40C | Vyjadřuje nárok na osvobození od cla zboží určeného pro památníky nebo hřbitovy válečných obětí dle článku 112 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. j) bod 7 zákona o DPH. | 0 |
+| 41C | Vyjadřuje nárok na osvobození od cla rakví, uren a smutečních ozdob dle článku 113 NR1186; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 2 písm. j) bod 8 zákona o DPH. | 0 |
+| 01F | Vyjadřuje nárok na osvobození od cla pro vrácené zboží (článek 203 celního kodexu Unie); současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 6 zákona o DPH. | 0 |
+| 02F | Vyjadřuje nárok na osvobození od cla pro vrácené zboží (zvláštní okolnosti stanovené v článku 159 NK2446: zemědělské zboží); současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 6 zákona o DPH. | 0 |
+| 03F | Vyjadřuje nárok na osvobození od cla pro vrácené zboží (zvláštní okolnosti stanovené v článku 158 odst. 3 NK2446: oprava nebo uvedení do původního stavu); současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 6 zákona o DPH. | 0 |
+| 21F | Vyjadřuje nárok na osvobození od cla pro produkty rybolovu a jiné produkty získané z pobřežních vod třetí země loděmi registrovanými nebo přihlášenými v některém členském státě a plujícími pod vlajkou tohoto státu; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 3 písm. e) zákona o DPH. | 0 |
+| 22F | Vyjadřuje nárok na osvobození od cla pro produkty rybolovu a jiné produkty získané z pobřežních vod třetí země na palubě výrobních plavidel registrovaných nebo přihlášených v některém členském státě a plujících pod vlajkou tohoto státu; současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 3 písm. e) zákona o DPH. | 0 |
+| 010 | Vyjadřuje nárok na osvobození od SPD dle § 97 zákona o SPD. | 1 |
+| 020 | Vyjadřuje nárok na osvobození od SPD dle § 97 odst. 3 zákona o SPD a současně i nárok na osvobození od DPH dle § 71 odst. 2 písm. i) zákona o DPH. | 0 |
+| 030 | Vyjadřuje nárok na osvobození od SPD dle § 105 zákona o SPD. | 1 |
+| 040 | Vyjadřuje nárok na osvobození od SPD dle § 105 zákona o SPD a současně i nárok na osvobození od DPH dle § 71 odst. 2 písm. i) zákona o DPH. | 0 |
+| 050 | Vyjadřuje nárok na podmíněné osvobození od SPD (§ 3 písm. d) zákona o SPD), jestliže je zboží bezprostředně po propuštění do volného oběhu uvedeno do režimu podmíněného osvobození od SPD (§ 19 zákona o SPD). | 1 |
+| 070 | Vyjadřuje nárok na osvobození od cla pro vrácené zboží (článek 203 celního kodexu Unie), současně na podmíněné osvobození od SPD (§ 3 písm. d) zákona o SPD), je-li zboží po propuštění do volného oběhu uvedeno do režimu podmíněného osvobození od SPD (§ 19 zákona o SPD) i osvobození od DPH dle § 71 odst. 6 zákona o DPH. | 0 |
+| 071 | Vyjadřuje nárok na osvobození od cla pro vrácené zboží (článek 203 celního kodexu Unie), současně na podmíněné osvobození od SPD (§ 3 písm. d) zákona o SPD), je-li zboží po propuštění do volného oběhu uvedeno do režimu podmíněného osvobození od SPD (§ 19 zákona o SPD). | 1 |
+| 080 | Vyjadřuje nárok na osvobození od DPH při dovozu investičního zlata dle § 92 odst. 2 zákona o DPH. | 0 |
+| 0D0 | Vyjadřuje nárok na osvobození od DPH dle § 71 odst. 1 zákona o DPH. | 0 |
+| 0M0 | Vyjadřuje nárok na osvobození od DPH dle § 71 odst. 7 zákona o DPH (dovoz zlata ČNB). | 0 |
+| 0N0 | Vyjadřuje nárok na osvobození od DPH dle § 71 odst. 3 písm. f) zákona o DPH (dovoz plynu, elektřiny, tepla nebo chladu). | 0 |
+| 0V0 | Vyjadřuje nárok na osvobození od SPD dle § 49 zákona o SPD a současně i nárok na osvobození od DPH dle § 71 odst. 2 písm. i) zákona o DPH. | 0 |
+| 0W0 | Vyjadřuje nárok na osvobození od SPD dle § 71 zákona o SPD. | 1 |
+| 0X0 | Vyjadřuje nárok na osvobození od SPD dle § 71 odst. 1 písm. i) zákona o SPD a současně i nárok na osvobození od DPH dle § 71 odst. 2 písm. i) zákona o DPH. | 0 |
+| 0Y0 | Vyjadřuje nárok na osvobození od SPD dle § 86 zákona o SPD. | 1 |
+| 0Z0 | Vyjadřuje nárok na osvobození od SPD dle § 86 odst. 5 zákona o SPD a současně i nárok na osvobození od DPH dle § 71 odst. 2 písm. i) zákona o DPH. | 0 |
+| 3C1 | Vyjadřuje nárok na osvobození od cla zboží dováženého ke zkouškám, analýzám nebo pokusům dle článku 95 NR1186; současně vyjadřuje nárok na osvobození od SPD dle § 11 odst. 1 písm. a) zákona o SPD. | 1 |
+| 3C3 | Vyjadřuje nárok na osvobození od cla zboží dováženého ke zkouškám, analýzám nebo pokusům dle článku 95 NR1186; současně vyjadřuje nárok na osvobození od SPD dle § 11 odst. 1 písm. a) zákona o SPD a od DPH dle § 71 odst. 2 písm. i) zákona o DPH. | 0 |
+| 3F3 | Vyjadřuje nárok na osvobození od cla při propuštění zboží do volného oběhu podle § 38 celního zákona (osvobození vybraného zboží); současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 4 písm. a) zákona o DPH. | 0 |
+| 3F4 | Vyjadřuje nárok na osvobození od cla při propuštění zboží do volného oběhu podle § 38 celního zákona (osvobození vybraného zboží); současně vyjadřuje nárok na osvobození od SPD dle § 11 odst. 1 písm. f) zákona o SPD a od DPH dle § 71 odst. 4 písm. a) zákona o DPH. | 0 |
+| 3G3 | Vyjadřuje nárok na osvobození od cla při propuštění zboží do volného oběhu podle § 38 celního zákona (osvobození vybraného zboží); současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 4 písm. c) zákona o DPH. | 0 |
+| 3G4 | Vyjadřuje nárok na osvobození od cla při propuštění zboží do volného oběhu podle § 38 celního zákona (osvobození vybraného zboží); současně vyjadřuje nárok na osvobození od SPD dle § 11 odst. 1 písm. g) zákona o SPD a od DPH dle § 71 odst. 4 písm. c) zákona o DPH. | 0 |
+| 3H4 | Vyjadřuje nárok na osvobození od cla při propuštění zboží do volného oběhu podle § 38 celního zákona (osvobození vybraného zboží); současně vyjadřuje nárok na osvobození od DPH dle § 71 odst. 4 písm. d) zákona o DPH. | 0 |
+| 3J4 | Vyjadřuje nárok na osvobození od cla při propuštění zboží do volného oběhu podle § 38 celního zákona (osvobození vybraného zboží); současně vyjadřuje nárok na osvobození od SPD dle § 11 odst. 1 písm. d) zákona o SPD a od DPH dle § 71 odst. 4 písm. d) zákona o DPH. | 0 |
+| 999 | Vyjadřuje požadavek na celní výhodu v jiných než uvedených případech. | 1 |
+
+Použité zkratky:
+
+SUB: vymezuje, zda o příslušnou úlevu může žádat neplátce nebo plátce daně z přidané hodnoty, takto:
+
+0: o úlevu může žádat pouze osoba, která není plátcem daně z přidané hodnoty
+
+1: o úlevu může žádat plátce daně z přidané hodnoty i osoba, která není plátcem daně z přidané hodnoty
+
+DPH: daň z přidané hodnoty
+
+SPD: spotřební daně
+
+### Příloha č. 1a k vyhlášce č. 245/2016 Sb.
+
+**Náležitosti a vzor zvláštního doplňkového celního prohlášení podle zákona upravujícího daň z přidané hodnoty**
+
+#### ČÁST I – OBECNÁ USTANOVENÍ
+
+1\. Veškeré datové prvky jsou vyžadovány pouze na úrovni záhlaví prohlášení.
+
+2\. Formáty a kardinalita datových prvků, definovaných v části II této přílohy, se použijí na podání prostřednictvím systému automatizovaného zpracování dat, jakož i na podání, učiněné v listinné podobě prostřednictvím vzoru, definovaného v části III této přílohy.
+
+3\. Údaje, které se nevejdou do předepsaných kolonek vzoru v listinné podobě, lze uvést ve stejné struktuře na samostatném očíslovaném a označeném listu.
+
+4\. Výrazem „Formát (typ/délka)“ ve vysvětlivce u každého datového prvku se rozumí a označují požadavky na typ dat a jejich délku. Kódy pro tyto typy dat jsou
+
+a alfabetický
+
+n numerický
+
+an alfanumerický
+
+Číslo uvedené za kódem udává přípustnou délku údaje. Platí toto:
+
+Dvě tečky uvedené případně před indikátorem délky udávají, že údaj nemá pevně stanovenou délku, avšak že maximálně může obsahovat počet číslic stanovený indikátorem. Desetinná čárka v označení délky dat znamená, že atribut může obsahovat desetinná čísla, přičemž číslice před desetinnou čárkou udává celkovou délku atributu a číslice za čárkou celkový počet desetinných míst.
+
+Příklady délky a formátu polí:
+
+a1 1 alfabetický znak, pevná délka
+
+an4 4 alfanumerické znaky, pevná délka
+
+n..16 až 16 numerických znaků
+
+an..22 až 22 alfanumerických znaků
+
+n..16,2 až 16 numerických znaků včetně nejvýše 2 desetinných míst; oddělovací znak je pohyblivý.
+
+5\. Kardinalita ve vysvětlivce u každého datového prvku označuje, kolikrát může být datový prvek v prohlášení použit.
+
+#### ČÁST II – ÚDAJE VYPLŇOVANÉ V JEDNOTLIVÝCH DATOVÝCH PRVCÍCH ELEKTRONICKÉ DATOVÉ ZPRÁVY A KOLONKÁCH VZORU
+
+Datový prvek: Zdaňovací období
+
+Formát (typ/délka): n6 (rrrrmm)
+
+Kardinalita: 1 x
+
+Uvede se zdaňovací období, za které se dané prohlášení podává, ve tvaru kalendářní rok a kalendářní měsíc.
+
+Datový prvek: Identifikační číslo držitele povolení k použití zvláštního režimu při dovozu zboží nízké hodnoty
+
+Formát (typ/délka): an..17
+
+Kardinalita: 1 x
+
+Uvede se číslo EORI osoby, která používá zvláštní režim při dovozu zboží nízké hodnoty, podle přímo použitelného předpisu Evropské unie<sup>1)</sup>.
+
+Při podání učiněném v listinné podobě se může doplnit uvedením názvu, případně jména a adresy dotyčné osoby.
+
+Datový prvek: Druh a označení jistoty
+
+Formát (typ/délka): an4 (druh); an..24 (označení)
+
+Kardinalita: 1 x (druh); 99 x (označení)
+
+Způsobem, stanoveným v příloze č. 1 k této vyhlášce, se uvede kód zajištění cla a jiného peněžitého plnění nebo kód nepožadování poskytnutí jistoty a evidenční číslo povolení užívat zajištění cla a jiných peněžitých plnění, která jsou spravována společně se clem, nebo evidenční číslo povolení zproštění povinnosti jistotu poskytnout.
+
+Datový prvek: Základ daně pro základní sazbu
+
+Formát (typ/délka): n..16,2
+
+Kardinalita: 1 x
+
+Uvede se základ daně u zboží, podléhajícího základní sazbě daně podle zákona upravujícího daň z přidané hodnoty, a to souhrnně za všechny případy za dané zdaňovací období, u nichž byl na celních prohlášeních deklarován výběr daně z přidané hodnoty prostřednictvím zvláštního režimu při dovozu zboží nízké hodnoty a které byly doručeny příjemci zásilky.
+
+Datový prvek: Daň pro základní sazbu
+
+Formát (typ/délka): n..16,2
+
+Kardinalita: 1 x
+
+Uvede se částka daně u zboží, podléhajícího základní sazbě daně podle zákona upravujícího daň z přidané hodnoty, a to souhrnně za všechny případy, u nichž byl na celních prohlášeních deklarován výběr daně z přidané hodnoty prostřednictvím zvláštního režimu při dovozu zboží nízké hodnoty a které byly doručeny příjemci zásilky.
+
+Datový prvek: Základ daně pro první sníženou sazbu
+
+Formát (typ/délka): n..16,2
+
+Kardinalita: 1 x
+
+Uvede se základ daně u zboží, podléhajícího první snížené sazbě daně podle zákona upravujícího daň z přidané hodnoty, a to souhrnně za všechny případy za dané zdaňovací období, u nichž byl na celních prohlášeních deklarován výběr daně z přidané hodnoty prostřednictvím zvláštního režimu při dovozu zboží nízké hodnoty a které byly doručeny příjemci zásilky.
+
+Datový prvek: Daň pro první sníženou sazbu
+
+Formát (typ/délka): n..16,2
+
+Kardinalita: 1 x
+
+Uvede se částka daně u zboží, podléhajícího první snížené sazbě daně podle zákona upravujícího daň z přidané hodnoty, a to souhrnně za všechny případy, u nichž byl na celních prohlášeních deklarován výběr daně z přidané hodnoty prostřednictvím zvláštního režimu při dovozu zboží nízké hodnoty a které byly doručeny příjemci zásilky.
+
+Datový prvek: Základ daně pro druhou sníženou sazbu
+
+Formát (typ/délka): n..16,2
+
+Kardinalita: 1 x
+
+Uvede se základ daně u zboží, podléhajícího druhé snížené sazbě daně podle zákona upravujícího daň z přidané hodnoty, a to souhrnně za všechny případy za dané zdaňovací období, u nichž byl na celních prohlášeních deklarován výběr daně z přidané hodnoty prostřednictvím zvláštního režimu při dovozu zboží nízké hodnoty a které byly doručeny příjemci zásilky.
+
+Datový prvek: Daň pro druhou sníženou sazbu
+
+Formát (typ/délka): n..16,2
+
+Kardinalita: 1 x
+
+Uvede se částka daně u zboží, podléhajícího druhé snížené sazbě daně podle zákona upravujícího daň z přidané hodnoty, a to souhrnně za všechny případy, u nichž byl na celních prohlášeních deklarován výběr daně z přidané hodnoty prostřednictvím zvláštního režimu při dovozu zboží nízké hodnoty a které byly doručeny příjemci zásilky.
+
+Datový prvek: Celková daň
+
+Formát (typ/délka): n..16
+
+Kardinalita: 1 x
+
+Uvede se celková částka splatné daně za všechny případy za dané zdaňovací období, u nichž byl na celních prohlášeních deklarován výběr daně z přidané hodnoty prostřednictvím zvláštního režimu při dovozu zboží nízké hodnoty a které byly doručeny příjemci zásilky.
+
+Datový prvek: Nedoručené zboží - žádost o zrušení platnosti celního prohlášení
+
+Rozhodnutí v celním řízení
+
+Formát (typ/délka): an..35
+
+Kardinalita: 9999999 x
+
+Uvede se evidenční číslo rozhodnutí v celním řízení ve věci propuštění zboží, u kterého zboží není možné doručit příjemci a takovéto zboží bylo či má být vyvezeno za účelem jeho vrácení nebo s ním má být naloženo jiným způsobem podle přímo použitelného předpisu Evropské unie<sup>1</sup>).
+
+Referenční číslo zásilky
+
+Formát (typ/délka): an..35
+
+Kardinalita: 9999999 x
+
+Uvede se jedinečné obchodní referenční číslo, které dané zásilce přidělila osoba používající zvláštní režim při dovozu zboží nízké hodnoty.
+
+Datový prvek: Podpis/ověření
+
+Formát (typ/délka): an..35
+
+Kardinalita: 1 x
+
+Použijí se zásady, platné pro veškerá ostatní podání, činěná elektronicky datovou zprávou prostřednictvím příslušného systému automatizovaného zpracování dat podle prováděcího rozhodnutí Evropské komise<sup>2</sup>).
+
+#### ČÁST III
+
+##### VZOR
+
+##### ZVLÁŠTNÍ DOPLŇKOVÉ CELNÍ PROHLÁŠENÍ
+
+##### ![sbcr2016c096z0245_2021c158z0358p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883269/NAHLED/ZOBRAZ/sbcr2016c096z0245_2021c158z0358p001u001)
+
+##### VZOR
+
+##### PŘÍLOHA ZVLÁŠTNÍHO DOPLŇKOVÉHO CELNÍHO PROHLÁŠENÍ
+
+##### ![sbcr2016c096z0245_2021c158z0358p001u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883271/NAHLED/ZOBRAZ/sbcr2016c096z0245_2021c158z0358p001u002)
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 952/2013 ze dne 9. října 2013, kterým se stanoví celní kodex Unie (přepracované znění). 
+ Nařízení Komise v přenesené pravomoci (EU) 2015/2446 ze dne 28. července 2015, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 952/2013, pokud jde o podrobná pravidla k některým ustanovením celního kodexu Unie (přepracované znění). 
+ Prováděcí nařízení Komise (EU) 2015/2447 ze dne 24. listopadu 2015, kterým se stanoví prováděcí pravidla k některým ustanovením nařízení Evropského parlamentu a Rady (EU) č. 952/2013, kterým se stanoví celní kodex Unie (přepracované znění).
+
+<sup>2</sup>) Prováděcí rozhodnutí Komise (EU) 2019/2151 ze dne 13. prosince 2019, kterým se zavádí pracovní program pro vývoj elektronických systémů stanovených v celním kodexu Unie a jejich uvedení do provozu.
+
+### Příloha č. 2 k vyhlášce č. 245/2016 Sb.
+
+#### Celní prohlášení pro osoby požívající výsad a imunit podle mezinárodní smlouvy
+
+#### ![sbcr2016c096z0245p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883561/NAHLED/ZOBRAZ/sbcr2016c096z0245p002u001)
+
+### Příloha č. 3 k vyhlášce č. 245/2016 Sb.
+
+#### Vzor záruční listiny pro zajištění cla jednotlivou jistotou s použitím záručního dokladu mimo celní režim tranzitu
+
+#### ![sbcr2016c096z0245p003u001_2019c046z0106.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883563/NAHLED/ZOBRAZ/sbcr2016c096z0245p003u001_2019c046z0106)
+
+### Příloha č. 4 k vyhlášce č. 245/2016 Sb.
+
+#### Vzor záručního dokladu pro účely zajištění cla jednotlivou jistotou s použitím záručního dokladu mimo celního režimu tranzitu
+
+#### ![sbcr2016c096z0245p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883565/NAHLED/ZOBRAZ/sbcr2016c096z0245p004u001)
+
+### Příloha č. 5 k vyhlášce č. 245/2016 Sb.
+
+#### Vzor záruční listiny pro účely zajištění cla jednotlivou jistotou s použitím záruční listiny jinou osobou
+
+#### ![sbcr2016c096z0245_2020c247z0610_2021c158z0358p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883567/NAHLED/ZOBRAZ/sbcr2016c096z0245_2020c247z0610_2021c158z0358p005u001)
+
+### Příloha č. 6 k vyhlášce č. 245/2016 Sb.
+
+#### Vzor záruční listiny pro účely zajištění cla soubornou jistotou jinou osobou
+
+#### ![sbcr2016c096z0245_2020c247z0610_2021c158z0358p006u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883569/NAHLED/ZOBRAZ/sbcr2016c096z0245_2020c247z0610_2021c158z0358p006u002)
+
+### Příloha č. 7 k vyhlášce č. 245/2016 Sb.
+
+Vzor Osvědčení uživatele souborné jistoty pro jiné operace než celní režim tranzitu 
+ (Přední strana)
+
+#### ![sbcr2016c096z0245p007u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883571/NAHLED/ZOBRAZ/sbcr2016c096z0245p007u001)
+
+### Příloha č. 8 k vyhlášce č. 245/2016 Sb.
+
+#### Vzor Osvědčení dlužníka zproštěného povinnosti poskytnout jistotu pro jiné operace než celní režim tranzitu
+
+#### ![sbcr2016c096z0245p008u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/883573/NAHLED/ZOBRAZ/sbcr2016c096z0245p008u001)
+
+### Příloha č. 9 k vyhlášce č. 245/2016 Sb.
+
+#### Paušální náklady řízení ve věci závazné informace podle přímo použitelného předpisu Evropské unie<sup>1</sup>)
+
+| Zkouška<br> Kód SOP | Název SOP (Standardní operační postup) | Cena / Náklady | Měna |
+|---|---|---|---|
+| D01001 | Stanovení obsahu vybraných esterů, aldehydů a alkoholů v destilátech pomocí GC/FID | 1378 | CZK |
+| D01002 | Stanovení poměrného zastoupení mastných kyselin v živočišných a rostlinných tucích a olejích pomocí GC/FID | 1895 | CZK |
+| D01003 | Stanovení obsahu ethanolu pomocí GC/FID | 976 | CZK |
+| D01004 | Stanovení obsahu mléčného tuku v potravinách pomocí GC/FID | 1895 | CZK |
+| D01005 | Stanovení obsahu vybraných omamných a psychotropních látek pomocí plynové chromatografie | 1050 | CZK |
+| D01006 | Stanovení obsahu C, H, N a S pomocí elementárního analyzátoru | 741 | CZK |
+| D01007 | Stanovení organických kyslíkatých sloučenin a celkového obsahu organicky vázaného kyslíku v bezolovnatém benzínu plynovou chromatografií s přepínáním kolon | 1837 | CZK |
+| D01008 | Stanovení obsahu ethanolu v automobilovém benzínu pomocí GC/FID | 718 | CZK |
+| D01009 | Stanovení obsahu vybraných těkavých denaturačních prostředků lihu pomocí GC/FID | 976 | CZK |
+| D01010 | Stanovení obsahu vybraných denaturačních prostředků lihu na bázi uhlovodíků pomocí GC/FID | 976 | CZK |
+| D01013 | Stanovení obsahu methylesterů mastných kyselin (FAME) pomocí GC/FID | 730 | CZK |
+| D01014 | Stanovení obsahu chemické látky (čistoty) pomocí GC/FID | 1100 | CZK |
+| D01015 | Stanovení chromatografického profilu ropných látek pomocí GC/FID | 685 | CZK |
+| D02001 | Stanovení obsahu vybraných alkoholů pomocí HPLC/RID | 1378 | CZK |
+| D02002 | Důkaz přítomnosti kyseliny askorbové pomocí HPLC | 379 | CZK |
+| D02003 | Stanovení kofeinu a theobrominu ve výrobcích neobsahujících mléko a cereálie pomocí HPLC/DAD | 1091 | CZK |
+| D02004 | Stanovení kofeinu a theobrominu ve výrobcích obsahujících mléko a cereálie pomocí HPLC | 1160 | CZK |
+| D02005 | Stanovení sacharidů pomocí HPLC/RID | 1091 | CZK |
+| D02006 | Stanovení benzoátu v ethanolu a lihovinách pomocí HPLC | 655 | CZK |
+| D02007 | Stanovení obsahu škrobu v krmivech enzymaticky | 1795 | CZK |
+| D02008 | Stanovení aniontů organických kyselin pomocí HPLC | 1292 | CZK |
+| D02009 | Stanovení obsahu benzoátu denatonia (Bitrexu) pomocí HPLC/DAD | 655 | CZK |
+| D02010 | Stanovení alkoholických cukrů pomocí HPLC | 1091 | CZK |
+| D02011 | Stanovení umělých sladidel pomocí HPLC | 1194 | CZK |
+| D02012 | Důkaz přítomnosti lipofilních vitaminů pomocí HPLC | 1114 | CZK |
+| D02013 | Stanovení konzervačních kyselin pomocí HPLC | 1022 | CZK |
+| D02014 | Důkaz přítomnosti vitaminů rozpustných ve vodě pomocí HPLC | 747 | CZK |
+| D02015 | Důkaz přítomnosti degradačních produktů benzoátu denatonia v ethanolu a lihovinách pomocí HPLC/DAD | 1068 | CZK |
+| D02016 | Stanovení parametrů (sacharóza, invertní cukr, isoglukóza) a (škrob a glukóza) pomocí HPLC/RID a dopočtem | 2182 | CZK |
+| D02017 | Stanovení obsahu vybraných aldehydů a ketonů pomocí HPLC/DAD | 1378 | CZK |
+| D02018 | Stanovení obsahu značkovací látky (SY124) v palivech a mazivech pomocí HPLC/DAD | 414 | CZK |
+| D02019 | Stanovení obsahu vybraných omamných a psychotropních látek a prekurzorů pomocí HPLC/DAD | 1722 | CZK |
+| D02020 | Stanovení obsahu vybraných denaturačních prostředků v lihu pomocí HPLC | 1378 | CZK |
+| D02022 | Stanovení obsahu aminokyselin pomocí iontové chromatografie | 2300 | CZK |
+| D02023 | Stanovení obsahu chemické látky (čistoty) pomocí HPLC | 1100 | CZK |
+| D03001 | Důkaz přítomnosti cukrů v potravinách pomocí TLC | 104 | CZK |
+| D03002 | Důkaz přítomnosti omamných a psychotropních látek (OPL) pomocí TLC | 287 | CZK |
+| D04001 | Stanovení organických kyselin pomocí CITP a CZE | 976 | CZK |
+| D05001 | Identifikace bílkovin v potravinách a potravinových přípravcích metodou denaturační gelové elektroforézy | 707 | CZK |
+| D06001 | Identifikace těkavých látek pomocí GC/MS metodou headspace | 833 | CZK |
+| D06002 | Důkaz přítomnosti degradačních produktů benzoátu denatonia v ethanolu a lihovinách pomocí GC/MS | 1263 | CZK |
+| D06003 | Identifikace neznámé látky pomocí GC/MS | 1631 | CZK |
+| D06004 | Stanovení obsahu polychlorovaných bifenylů (PCB) ve vzorcích pomocí GC/MS | 1500 | CZK |
+| D06005 | Identifikace omamných a psychotropních látek (OPL) pomocí IMS | 1631 | CZK |
+| D06006 | Identifikace 3-methoxypropan-1,2-diolu a cyklických diglycerolů ve víně pomocí GC/MS | 1263 | CZK |
+| D06007 | Stanovení obsahu polybromovaných difenyletherů (PBDE) a bifenylů (PBB) ve vzorcích pomocí GC/MS | 3100 | CZK |
+| D07001 | Identifikace benzoátu denatonia (Bitrexu) pomocí LC/MS | 919 | CZK |
+| D07002 | Identifikace neznámé látky pomocí LC/MS | 1631 | CZK |
+| D09001 | Stanovení skupinového složení ropných látek pomocí sloupcové chromatografie | 3272 | CZK |
+| F01001 | Stanovení plošné hmotnosti papíru a lepenky | 356 | CZK |
+| F01002 | Stanovení granulometrického složení vzorku sítovým rozborem | 701 | CZK |
+| F01003 | Stanovení délkové hmotnosti nití | 356 | CZK |
+| F01004 | Stanovení plošné hmotnosti textilií | 356 | CZK |
+| F01005 | Stanovení rozměru, distribuce podle délky a hmotnostního podílu zrn rýže | 1223 | CZK |
+| F01006 | Stanovení šířky řezu tabákového vlákna | 400 | CZK |
+| F01007 | Stanovení rozměru a hmotnosti tabákových výrobků | 400 | CZK |
+| F01008 | Stanovení hmotnosti vzorku a hmotnostního podílu složek vzorku | 150 | CZK |
+| F01009 | Stanovení rozměru vzorku | 200 | CZK |
+| F01010 | Stanovení délkové hmotnosti skelných, uhlíkových, aramidových a jiných zpevněných vláken | 356 | CZK |
+| F01011 | Stanovení látek, které nejsou ze základních obilovin nesnížené jakosti | 701 | CZK |
+| F02001 | Stanovení obsahu alkoholu ve vodně alkoholických roztocích denzitometricky | 569 | CZK |
+| F02002 | Stanovení obsahu konvenčního extraktu v původní mladině u piva denzitometricky a dopočtem | 953 | CZK |
+| F02003 | Stanovení hustoty kapalin metodou oscilační U-trubice | 184 | CZK |
+| F02004 | Stanovení hustoty vnitřní podešve obuvi | 184 | CZK |
+| F02005 | Stanovení celkového extraktu ve víně | 184 | CZK |
+| F02006 | Stanovení hustoty vzorku pyknometrickou metodou | 184 | CZK |
+| F02007 | Stanovení hustoty vzorku hydrostatickou metodou | 184 | CZK |
+| F02008 | Stanovení obsahu sušiny denzitometricky dle Nařízení Komise č. 951/2006 | 184 | CZK |
+| F03001 | Stanovení obsahu sušiny ve vybraných potravinách refraktometricky | 64 | CZK |
+| F03002 | Stanovení indexu lomu | 64 | CZK |
+| F04001 | Stanovení celkového škrobu polarimetricky dle Ewerse | 684 | CZK |
+| F04002 | Stanovení polarizace cukru | 299 | CZK |
+| F05001 | Stanovení povrchového napětí Du Noüyho metodou odtrhávání kroužků | 299 | CZK |
+| F06001 | Stanovení kinematické viskozity pomocí kapilárního vizkozimetru a dopočet viskozitního indexu | 546 | CZK |
+| F06002 | Stanovení viskozity pomocí Stabingerova viskozimetru a dopočet viskozitního indexu | 546 | CZK |
+| F06004 | Stanovení viskozity polymerů kapilárním viskozimetrem | 4500 | CZK |
+| F07001 | Stanovení pevnosti v tahu papíru a lepenky | 884 | CZK |
+| F07002 | Stanovení pevnosti nití při přetrhu | 884 | CZK |
+| F07003 | Stanovení pevnosti v tahu kovových materiálů | 884 | CZK |
+| F08001 | Destilační zkouška ropných látek a dopočet cetanového indexu | 1200 | CZK |
+| F08002 | Destilační zkouška ropných látek mikrodestilační metodou | 750 | CZK |
+| F09001 | Stanovení hustoty ropných látek metodou oscilační U-trubice | 150 | CZK |
+| F09002 | Stanovení oktanového čísla benzínu výzkumnou metodou | 2583 | CZK |
+| F09003 | Stanovení filtrovatelnosti CFPP | 1091 | CZK |
+| F09004 | Stanovení rozpustné barvy C ropných látek pomocí kolorimetru | 138 | CZK |
+| F09005 | Stanovení hustoty ropných látek skleněným hustoměrem | 184 | CZK |
+| F10001 | Stanovení bodu vzplanutí v otevřeném kelímku dle Clevelanda | 408 | CZK |
+| F10002 | Stanovení bodu vzplanutí v uzavřeném kelímku dle Penskyho a Martense | 689 | CZK |
+| F10003 | Stanovení bodu vzplanutí v uzavřeném kelímku dle Abela-Penskyho | 517 | CZK |
+| F11001 | Stanovení bodu skápnutí (dropping point) plastických maziv | 299 | CZK |
+| F11003 | Stanovení bodu tuhnutí (pour point) a bodu zákalu (cloud point) ropných látek | 1530 | CZK |
+| F12001 | Stanovení přetlaku v lahvi | 144 | CZK |
+| F12002 | Stanovení čísla poklesu (Hagbergova čísla) | 442 | CZK |
+| F12003 | Stanovení sedimentačního indexu (Zeleny index) | 465 | CZK |
+| F12004 | Stanovení objemové hmotnosti zvané „hektolitrová váha“ | 138 | CZK |
+| F12005 | Stanovení nasákavosti keramických předmětů | 287 | CZK |
+| F12006 | Stanovení objemu kapalin | 115 | CZK |
+| F12007 | Stanovení spalného tepla tuhých paliv kalorimetrickou metodou v tlakové nádobě | 661 | CZK |
+| G01001 | Stanovení obsahu sušiny (netěkavého podílu) a obsahu vody (vlhkosti) | 230 | CZK |
+| G01002 | Stanovení obsahu sušiny v roztocích obsahujících alkohol | 178 | CZK |
+| G01004 | Stanovení obsahu sušiny v mléce, smetaně a zahuštěném neslazeném mléce | 287 | CZK |
+| G01005 | Stanovení obsahu vody v sušeném mléce a sušené šlehačce | 150 | CZK |
+| G01006 | Stanovení celkového obsahu sušiny v sýrech a tavených sýrech | 178 | CZK |
+| G01007 | Stanovení obsahu vlhkosti v mase a masných výrobcích: referenční metoda | 184 | CZK |
+| G01008 | Stanovení vlhkosti v obilovinách a výrobcích z obilovin | 356 | CZK |
+| G01009 | Stanovení celkového suchého extraktu v lihovinách gravimetricky | 178 | CZK |
+| G02001 | Stanovení obsahu popela | 299 | CZK |
+| G02002 | Stanovení obsahu popela v papíru a lepence | 454 | CZK |
+| G02003 | Stanovení obsahu popele v mase a masných výrobcích | 454 | CZK |
+| G02004 | Stanovení obsahu sulfátového popela v ropných výrobcích | 650 | CZK |
+| G02005 | Stanovení obsahu popela v ropných výrobcích | 333 | CZK |
+| G02006 | Stanovení obsahu popela v ovocných a zeleninových šťávách | 355 | CZK |
+| G02007 | Stanovení prchavé hořlaviny v černém uhlí a koksu | 390 | CZK |
+| G03001 | Stanovení obsahu řezaného expandovaného tabáku gravimetricky | 425 | CZK |
+| G04001 | Stanovení obsahu celulózových vláken ve dvousložkové směsi s polyesterovými vlákny na základě rozpustnosti | 707 | CZK |
+| G04002 | Stanovení obsahu bavlněných a viskózových, měďnatých nebo stanovených typů modalových vláken ve dvousložkové směsi na základě rozpustnosti | 707 | CZK |
+| G04003 | Stanovení obsahu proteinových vláken ve dvousložkové směsi na základě rozpustnosti | 707 | CZK |
+| G04004 | Stanovení obsahu polyesterových (PES) vláken ve dvousložkové směsi na základě rozpustnosti | 707 | CZK |
+| G04005 | Stanovení obsahu vody, tukuprosté sušiny a tuku v másle, emulzích jedlých olejů a roztíratelných tucích | 425 | CZK |
+| G04006 | Stanovení obsahu tuku v potravinách po extrakci gravimetricky | 465 | CZK |
+| G04007 | Stanovení celkového obsahu tuku v mase a masných výrobcích | 546 | CZK |
+| G04008 | Stanovení obsahu tuku v sýrech a výrobcích z nich | 448 | CZK |
+| G04009 | Stanovení obsahu tuku v mléku a mléčných výrobcích: metoda dle Rose-Gottlieba | 345 | CZK |
+| G04010 | Stanovení obsahu vody a tukuprosté sušiny v másle a výpočet obsahu tuku | 425 | SKK |
+| G04011 | Stanovení obsahu vláken ve třísložkové směsi na základě rozpustnosti | 1007 | CZK |
+| G04012 | Stanovení obsahu vody v tabáku a tabákových výrobcích | 207 | CZK |
+| G04013 | Stanovení celkové migrace plastů a elastomerů podle Vyhlášky 84/2001 Sb. | 597 | CZK |
+| G04014 | Stanovení obsahu tuku v másle, emulzích jedlých olejů a roztíratelných tucích referenční metodou | 425 | CZK |
+| M01001 | Stanovení celkového počtu mikroorganismů v mléce a mléčných výrobcích | 377 | CZK |
+| M01002 | Stanovení počtu koliformních bakterií v mléce a mléčných výrobcích | 377 | CZK |
+| M02001 | Zjištění přítomnosti antimikrobiálních látek v mléce a mléčných výrobcích pomocí testu DELVOTEST SP | 178 | CZK |
+| M02002 | Stanovení množství sojové bílkoviny pomocí techniky ELISA | 3444 | CZK |
+| M02003 | Stanovení DNA sex faktoru | 919 | CZK |
+| O01001 | Stanovení vlákninového složení papíru | 884 | CZK |
+| O01002 | Stanovení pravosti kontrolních pásek na výrobcích z lihu a celní závěry | 1458 | CZK |
+| O01003 | Stanovení názvu nití | 638 | CZK |
+| O02001 | Makroskopické a mikroskopické posouzení vzorku | 581 | CZK |
+| O02002 | Makroskopické a mikroskopické posouzení tabáku a tabákových výrobků | 581 | CZK |
+| O02003 | Makroskopické a mikroskopické posouzení obuvi | 581 | CZK |
+| O02004 | Makroskopické a mikroskopické posouzení keramických předmětů | 581 | CZK |
+| S01001 | Stanovení obsahu methylesterů mastných kyselin ve směsi s minerálními oleji pomocí IČ spektrometrie | 919 | CZK |
+| S01002 | Identifikace vzorku pomocí infračervené spektrometrie | 511 | CZK |
+| S01003 | Stanovení obsahu methylesterů mastných kyselin ve směsi s minerálními oleji pomocí automatické IČ spektrometrie | 919 | CZK |
+| S01004 | Stanovení oktanového čísla v bezolovnatém benzínu infračervenou spektrometrií | 900 | CZK |
+| S01005 | Stanovení organických kyslíkatých sloučenin a celkového obsahu organicky vázaného kyslíku v bezolovnatém benzínu infračervenou spektrometrií | 350 | CZK |
+| S01006 | Stanovení obsahu ethanolu pomocí infračervené spektrometrie v blízké oblasti (NIR) | 450 | CZK |
+| S01007 | Identifikace vzorku pomocí Ramanovy spektrometrie | 350 | CZK |
+| S02001 | Stanovení obsahu olova v automobilových benzínech pomocí rentgenfluorescenční spektrometrie | 574 | CZK |
+| S02002 | Identifikace prvků pomocí retgenfluorescenční spektrometrie | 1516 | CZK |
+| S02003 | Stanovení obsahu síry v ropných produktech pomocí retgenfluorescenční spektrometrie | 1091 | CZK |
+| S03001 | Identifikace vzorku pomocí rentgendifrakční analýzy | 2383 | CZK |
+| S04001 | Stanovení prvků kovových materiálů metodou optické emisní spektrometrie | 1292 | CZK |
+| S05001 | Identifikace prvků ve vzorku pomocí ICP-AES | 1378 | CZK |
+| S05002 | Stanovení obsahu prvků ve vzorku pomocí ICP-AES | 1608 | CZK |
+| S05003 | Stanovení obsahu prvků ve vodě metodou ICP-AES | 1263 | CZK |
+| S05005 | Stanovení obsahu prvků po migraci metodou ICP-OES podle Vyhlášky 84/2001 Sb. | 1972 | CZK |
+| S06001 | Identifikace neznámé látky pomocí MALDI/MS | 3500 | CZK |
+| S07001 | Strukturní analýza metodou NMR spektroskopie | 2756 | CZK |
+| S07002 | Identifikace obsahu methylesterů mastných kyselin (FAME) pomocí 1H NMR spektrometrie | 2756 | CZK |
+| S08001 | Stanovení izotopového poměru D/H v organických látkách pomocí 2H NMR spektrometrie | 12571 | CZK |
+| S08002 | Stanovení původu ethanolu | 563 | CZK |
+| S08003 | Stanovení izotopového poměru 13C/12C metodou EA-IRMS | 11767 | CZK |
+| S08004 | Stanovení izotopového poměru 2H/1H a 180/160 pomocí TC/EA-IRMS | 12244 | CZK |
+| S08005 | Stanovení izotopového poměru 13C/12C metodou GC-C-IRMS | 11767 | CZK |
+| S08006 | Stanovení izotopového poměru 2H/1H a 180/160 pomocí IRMS rovnovážnou metodou | 12244 | CZK |
+| S09001 | Stanovení obsahu hydroxyprolinu v mase a masných výrobcích pomocí UV-VIS | 942 | CZK |
+| S09002 | Stanovení vybraných látek pomocí přístroje ReflectoQuant (Merck) | 574 | CZK |
+| S09003 | Stanovení obsahu prolinu v ovocných a zeleninových šťávách pomocí UV-VIS | 942 | CZK |
+| S09004 | Stanovení obsahu síry v ropných produktech pomocí ultrafialové fluorescence | 976 | CZK |
+| S09005 | Stanovení obsahu celkových polyfenolů spektrofotometricky | 942 | CZK |
+| S09006 | Stanovení obsahu volného a hydrolyzovatelného formaldehydu kolorimetricky | 942 | CZK |
+| V01001 | Stanovení obsahu vody titrací dle Karl Fischera volumetricky | 391 | CZK |
+| V01002 | Stanovení obsahu vody v tabáku a tabákových výrobcích titrací dle Karl Fischera | 546 | CZK |
+| V01003 | Stanovení obsahu vody v ropných výrobcích titrací dle Karl Fischera coulometricky | 460 | CZK |
+| V01004 | Stanovení obsahu vody v etanolu titrací dle Karl Fischera coulometricky | 460 | CZK |
+| V01005 | Stanovení obsahu vody titrací dle Karl Fischera coulometricky | 460 | CZK |
+| V02001 | Stanovení čísla kyselosti a kyselosti titračně | 207 | CZK |
+| V02002 | Stanovení čísla zmýdelnění titračně | 684 | CZK |
+| V02003 | Stanovení hydroxylového čísla | 397 | CZK |
+| V02004 | Stanovení těkavých kyselin ve víně titračně | 431 | CZK |
+| V02005 | Stanovení celkových kyselin ve víně titračně | 362 | CZK |
+| V02006 | Stanovení volných kyselin v lihu titračně | 224 | CZK |
+| V02007 | Stanovení celkových esterů v lihu | 287 | CZK |
+| V02008 | Stanovení dusíkatých zásad v lihu | 287 | CZK |
+| V02009 | Stanovení celkového dusíku v zemědělských a potravinářských výrobcích podle Kjeldahla | 684 | CZK |
+| V02010 | Stanovení titrační kyselosti v sušeném mléce | 287 | CZK |
+| V02011 | Stanovení formolového indexu v ovocných a zeleninových šťávách | 477 | CZK |
+| V02013 | Stanovení obsahu acetylových skupin v modifikovaných škrobech | 437 | CZK |
+| V02014 | Stanovení obsahu oxidu uhličitého v šumivých vínech titračně | 1700 | CZK |
+| V03001 | Stanovení celkového dusíku coulometrickou titrací bromnanem | 374 | CZK |
+| V03002 | Manganometrické stanovení peroxidu | 437 | CZK |
+| V03003 | Stanovení volného a celkového oxidu siřičitého ve vínech a vinných destilátech jodometricky | 925 | CZK |
+| V03004 | Stanovení dextrosového ekvivalentu metodou podle Lanea a Eynona s konstantním titrem | 684 | CZK |
+| V03005 | Stanovení redukujících cukrů vyjádřených jako invertní cukr nebo dextrosový ekvivalent podle Luffa-Schorla | 747 | CZK |
+| V03006 | Stanovení peroxidového čísla v živočišných a rostlinných tucích a olejích | 437 | CZK |
+| V03007 | Stanovení jodového čísla v živočišných a rostlinných tucích a olejích | 408 | CZK |
+| V04001 | Stanovení obsahu chloridů titračně | 299 | CZK |
+| V04002 | Stanovení obsahu chloridů potenciometrickou titrací v sýrech a výrobcích z nich | 299 | CZK |
+| V05001 | Stanovení hodnoty pH vodných roztoků a disperzí | 127 | CZK |
+| V05002 | Měření elektrické vodivosti vodných roztoků a disperzí | 121 | CZK |
+| V05003 | Stanovení hodnoty pH výluhu podle Vyhlášky 84/2001 Sb. | 364 | CZK |
+| V05004 | Stanovení hodnoty pH v ovocných a zeleninových šťávách | 127 | CZK |
+| X01001 | Důkaz přítomnosti dichlorbenzenu pomocí GC/FID | 379 | CZK |
+| X01002 | Stanovení chromatografického profilu GC/FID | 329 | CZK |
+| X01003 | Identifikace těkavých organických látek v lihu a lihovinách pomocí GC/FID | 1378 | CZK |
+| X01004 | Stanovení obsahu methanolu pomocí GC/FID | 380 | CZK |
+| X01005 | Stanovení obsahu nikotinu pomocí HPLC/DAD | 1722 | CZK |
+| X01006 | Stanovení obsahu benzenu a toluenu pomocí GC/FID | 1564 | CZK |
+| Z01001 | Zjištění přítomnosti uhličitanů | 75 | CZK |
+| Z01002 | Zjištění přítomnosti kyslíkatých látek v automobilových benzínech | 69 | CZK |
+| Z01003 | Zjištění přítomnosti cukrů - Molischova reakce | 92 | CZK |
+| Z01004 | Zjištění přítomnosti škrobu jodovou zkouškou | 104 | CZK |
+| Z01005 | Zjištění přítomnosti tříslovin | 155 | CZK |
+| Z01006 | Zjištění přítomnosti chloridů | 104 | CZK |
+| Z01007 | Důkaz organicky vázaného dusíku a síry | 98 | CZK |
+| Z01008 | Zjištění přítomnosti bóru ve vzorku | 138 | CZK |
+| Z01009 | Zjištění přítomnosti kyseliny askorbové pomocí Merck-testu | 138 | CZK |
+| Z01010 | Důkaz přítomnosti fosforečnanů | 140 | CZK |
+| Z01011 | Zjištění přítomnosti bílkovin ve vzorku reakcí s ninhydrinem | 104 | CZK |
+| Z01012 | Zjištění přítomnosti kationtů a aniontů ve vzorku pomocí důkazových reakcí | 180 | CZK |
+| Z01013 | Zjištění přítomnosti peroxidázy v potravinách | 110 | CZK |
+| Z01014 | Zjištění přítomnosti polyfenoloxidázy v potravinách | 110 | CZK |
+| Z02001 | Zjištění přítomnosti značkovací látky v ropných produktech | 184 | CZK |
+| Z02002 | Zkoušení vzorků tabáku a tabákových výrobků - nakuřovací zkouška | 173 | CZK |
+| Z02003 | Zjištění mísitelnosti s vodou | 64 | CZK |
+| Z02005 | Zjištění hustoty primární formy PE | 110 | CZK |
+| Z03001 | Senzorické posuzování potravin | 365 | CZK |
+| Z03002 | Senzorické posuzování tabáku a tabákových výrobků | 365 | CZK |
+| Z03003 | Senzorické posuzování krup, rýže, jáhel, pohanky a luštěnin | 365 | CZK |
+| Z03004 | Senzorické posuzování nevařeného ochuceného drůbežího masa | 365 | CZK |
+
+Cena za ostatní laboratorní výkony:
+
+| Název položky | Cena / Náklady | Měna |
+|---|---|---|
+| 01. Cena za paušální operace se vzorkem | 175 | CZK |
+| 02. Cena za interpretace v POZ | 730 | CZK |
+| 03. Cena za podklady pro stanovisko k sazebnímu zařazení | 730 | CZK |
+| 04. Cena za 1 hod. práce / nespecifikované úkony | 730 | CZK |
+| 05. Cena za 2 hod. práce / nespecifikované úkony | 1460 | CZK |
+| 06. Cena za 3 hod. práce / nespecifikované úkony | 2190 | CZK |
+| 07. Cena za 4 hod. práce / nespecifikované úkony | 2920 | CZK |
+| 08. Cena za 5 hod. práce / nespecifikované úkony | 3650 | CZK |
+| 09. Cena za 6 hod. práce / nespecifikované úkony | 4380 | CZK |
+| 10. Cena za 7 hod. práce / nespecifikované úkony | 5110 | CZK |
+| 11. Cena za 7 až 10 hod. práce / nespecifikované úkony | 10000 | CZK |
+| 12. Cena za 11 až 30 hod. práce / nespecifikované úkony | 20000 | CZK |
+| 13. Cena za více než 30 hod. práce / nespecifikované úkony | 30000 | CZK |
+
+### Příloha č. 10
+
+#### PŘIHLÁŠKA k registraci zpravodajské jednotky k vykazování statistických údajů o obchodu se zbožím se zeměmi uvnitř Evropské unie
+
+1\. Identifikace zpravodajské jednotky – identifikační číslo
+
+2\. Identifikace zpravodajské jednotky – daňové identifikační číslo
+
+3\. Název/jméno a příjmení zpravodajské jednotky
+
+4\. Sídlo/místo pobytu
+
+a) obec
+
+b) PSČ
+
+c) ulice
+
+d) část obce
+
+e) číslo popisné
+
+f) číslo orientační
+
+g) stát
+
+5\. Kontaktní údaje
+
+a) telefon
+
+b) e-mail
+
+6\. Údaje o kontaktní osobě zpravodajské jednotky
+
+a) jméno
+
+b) příjmení
+
+c) kontaktní údaje na kontaktní osobu shodné s údaji výše uvedenými u zpravodajské jednotky ANO/NE
+
+d) obec
+
+e) PSČ
+
+f) ulice
+
+g) část obce
+
+h) číslo popisné
+
+i) číslo orientační
+
+j) telefon
+
+k) e-mail
+
+7\. Vykazování údajů
+
+a) dovoz uvnitř Evropské unie,
+
+1\. měsíc
+
+2\. rok
+
+b) vývoz uvnitř Evropské unie,
+
+1\. měsíc
+
+2\. rok
+
+8\. Způsob vykazování statistických údajů
+
+a) zpravodajská jednotka bude vykazovat sama za sebe
+
+b) zpravodajská jednotka zplnomocňuje k vykazování za sebe zástupce
+
+9\. Identifikace zástupce
+
+a) daňové identifikační číslo (příp. IČO, RČ),
+
+b) název/jméno a příjmení zástupce
+
+10\. Přihlašovací údaje do aplikací pro vykazování statistických údajů
+
+a) e-mail
+
+b) kontaktní telefon
+
+11\. Místně příslušný celní úřad
+
+12\. Jméno a příjmení osoby podepisující přihlášku k registraci
+
+13\. Podpis
+
+#### POKYNY k vyplnění přihlášky k registraci zpravodajské jednotky k vykazování statistických údajů o obchodu se zbožím se zeměmi uvnitř Evropské unie
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+1\. Uveďte identifikační číslo zpravodajské jednotky.
+
+2\. Uveďte daňové identifikační číslo zpravodajské jednotky.
+
+3\. Uveďte název (v případě právnické osoby) nebo jméno a příjmení (v případě fyzické osoby) zpravodajské jednotky.
+
+4\. Uveďte údaje o sídle (v případě právnické osoby) nebo místě pobytu (v případě fyzické osoby) v požadovaném členění.
+
+5\. Uveďte kontaktní údaje na zpravodajskou jednotku – telefon, e-mail. Uvedení údajů je nepovinné.
+
+6\. Uveďte údaje o kontaktní osobě zpravodajské jednotky v požadovaném členění. Pokud jsou kontaktní údaje na kontaktní osobu shodné s údaji výše uvedenými u zpravodajské jednotky, písmena d) až k) nevyplňujte. Uvedení telefonu a e-mailu je nepovinné. Kontaktní osobou je osoba, která vyplňuje za zpravodajskou jednotku výkaz Intrastatu a na kterou se může celní úřad obrátit s dotazem ohledně vykázaných údajů.
+
+7\. Uveďte, v jakém směru a od jakého referenčního období vzniká zpravodajské jednotce povinnost vykazovat údaje Intrastatu – směr dovoz nebo vývoz v rámci Evropské unie a měsíc a rok, kdy vznikla povinnost vykazovat údaje.
+
+8\. Uveďte, jakým způsobem bude zpravodajská jednotka údaje Intrastatu vykazovat, zda bude zpravodajská jednotka vykazovat sama za sebe nebo zda zplnomocní zástupce.
+
+9\. V případě, že bude zplnomocněn zástupce uveďte jeho daňové identifikační číslo (příp. IČO nebo rodné číslo) a jeho název (v případě právnické osoby) nebo jméno a příjmení (v případě fyzické osoby). Pokud zpravodajská jednotka zplnomocňuje k vykazování údajů Intrastatu zástupce, musí mít tento zástupce povolenou komunikaci v rámci vykazování statistických údajů.
+
+10\. V případě, že zpravodajská jednotka bude vykazovat údaje sama za sebe, uveďte účet, který se má registrovat, tj. e-mailovou adresu a nepovinně je možné uvést kontaktní telefon.
+
+11\. Uveďte místně příslušný celní úřad, který povede registrační řízení.
+
+12\. Uveďte jméno a současné příjmení osoby, která přihlášku podepisuje.
+
+13\. Připojte vlastnoruční podpis nebo uznávaný elektronický podpis (osoba uvedená v bodě 12), pokud nevyužijete jiný způsob elektronického podání v souladu s § 71 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů, který podpis nevyžaduje.
+
+### Příloha č. 11
+
+#### PŘIHLÁŠKA k registraci zpravodajské jednotky k vykazování statistických údajů o obchodu se zbožím se zeměmi uvnitř Evropské unie - zjednodušená varianta
+
+1\. Identifikace zpravodajské jednotky – identifikační číslo
+
+2\. Identifikace zpravodajské jednotky – daňové identifikační číslo
+
+3\. Název/jméno a příjmení zpravodajské jednotky
+
+4\. Sídlo/místo pobytu
+
+a) obec
+
+b) PSČ
+
+c) ulice
+
+d) část obce,
+
+e) číslo popisné,
+
+f) číslo orientační,
+
+g) stát
+
+5\. Kontaktní údaje
+
+a) telefon
+
+b) e-mail
+
+6\. Vykazování údajů
+
+a) dovoz uvnitř Evropské unie,
+
+1\. měsíc
+
+2\. rok
+
+b) vývoz uvnitř Evropské unie,
+
+1\. měsíc
+
+2\. rok
+
+7\. Místně příslušný celní úřad
+
+8\. Jméno a příjmení osoby podepisující přihlášku k registraci
+
+9\. Podpis
+
+#### POKYNY k vyplnění přihlášky k registraci zpravodajské jednotky k vykazování statistických údajů o obchodu se zbožím se zeměmi uvnitř Evropské unie - zjednodušená varianta
+
+Zjednodušená varianta přihláška je určena pro zpravodajské jednotky, které statistické údaje již vykazují v jednom směru a došlo u nich ke vzniku povinnosti vykazovat údaje i ve druhém směru
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+1\. Uveďte identifikační číslo zpravodajské jednotky.
+
+2\. Uveďte daňové identifikační číslo zpravodajské jednotky.
+
+3\. Uveďte název (v případě právnické osoby) nebo jméno a příjmení (v případě fyzické osoby) zpravodajské jednotky.
+
+4\. Uveďte údaje o sídle (v případě právnické osoby) nebo místě pobytu (v případě fyzické osoby) v požadovaném členění.
+
+5\. Uveďte kontaktní údaje na zpravodajskou jednotku – telefon, e-mail. Uvedení údajů je nepovinné.
+
+6\. Uveďte, v jakém směru a od jakého referenčního období vzniká zpravodajské jednotce povinnost vykazovat údaje Intrastatu – směr dovoz nebo vývoz v rámci Evropské unie a měsíc a rok, kdy vznikla povinnost vykazovat údaje.
+
+7\. Uveďte místně příslušný celní úřad, který povede registrační řízení.
+
+8\. Uveďte jméno a současné příjmení osoby, která přihlášku podepisuje.
+
+9\. Připojte vlastnoruční podpis nebo uznávaný elektronický podpis (osoba uvedená v bodě 8), pokud nevyužijete jiný způsob elektronického podání v souladu s § 71 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů, který podpis nevyžaduje.
+
+### Příloha č. 12
+
+### OZNÁMENÍ o změně registračních údajů zpravodajské jednotky k vykazování statistických údajů o obchodu se zbožím se zeměmi uvnitř Evropské unie
+
+1\. Identifikace zpravodajské jednotky – identifikační číslo,
+
+2\. Identifikace zpravodajské jednotky – daňové identifikační číslo
+
+3\. Název/jméno a příjmení zpravodajské jednotky
+
+4\. Sídlo/místo pobytu
+
+a) obec
+
+b) PSČ
+
+c) ulice
+
+d) část obce
+
+e) číslo popisné
+
+f) číslo orientační
+
+g) stát
+
+5\. Kontaktní údaje
+
+a) telefon
+
+b) e-mail
+
+6\. Údaje o kontaktní osobě zpravodajské jednotky
+
+a) jméno
+
+b) příjmení
+
+c) kontaktní údaje na kontaktní osobu shodné s údaji výše uvedenými u zpravodajské jednotky ANO/NE
+
+d) obec
+
+e) PSČ
+
+f) ulice
+
+g) část obce
+
+h) číslo popisné
+
+i) číslo orientační
+
+j) telefon
+
+k) e-mail
+
+7\. Způsob vykazování statistických údajů
+
+a) zpravodajská jednotka bude vykazovat sama za sebe
+
+b) zpravodajská jednotka zplnomocňuje k vykazování za sebe zástupce
+
+8\. Identifikace zástupce
+
+a) daňové identifikační číslo (příp. IČO, RČ),
+
+b) název/jméno a příjmení zástupce
+
+9\. Přihlašovací údaje do aplikací pro vykazování statistických údajů
+
+a) e-mail
+
+b) kontaktní telefon
+
+10\. Oznámení o zániku povinnosti vykazovat statistické údaje
+
+a) rok
+
+b) směr ve kterém zpravodajská jednotka nedosáhla prahu
+
+1\. dovoz
+
+2\. vývoz
+
+3\. dovoz a vývoz
+
+11\. Místně příslušný celní úřad
+
+12\. Jméno a příjmení osoby podepisující oznámení
+
+13\. Podpis
+
+### POKYNY k vyplnění oznámení o změně registračních údajů zpravodajské jednotky k vykazování statistických údajů o obchodu se zbožím se zeměmi uvnitř Evropské unie
+
+Jsou-li v tomto formulářovém podání požadovány údaje, jejichž obsah nebo forma jsou stanoveny jiným právním předpisem, uvádějí se tyto údaje s tímto obsahem a v této formě, není-li stanoveno jinak.
+
+1\. Uveďte identifikační číslo zpravodajské jednotky.
+
+2\. Uveďte daňové identifikační číslo (DIČ) zpravodajské jednotky, pokud již bylo přiděleno. Pokud daňové identifikační číslo přiděleno nebylo, uveďte tzv. vlastní číslo plátce (VČP) přidělené Celní správou České republiky.
+
+3\. Uveďte název (v případě právnické osoby) nebo jméno a příjmení (v případě fyzické osoby) zpravodajské jednotky.
+
+4\. Uveďte údaje o sídle (v případě právnické osoby) nebo místě pobytu (v případě fyzické osoby) v požadovaném členění.
+
+5\. Uveďte kontaktní údaje na zpravodajskou jednotku – telefon, e-mail. Uvedení údajů je nepovinné.
+
+6\. V případě, že dochází ke změně údajů o kontaktní osobě zpravodajské jednotky vyplňte údaje o kontaktní osobě zpravodajské jednotky v požadovaném členění. Pokud jsou kontaktní údaje na kontaktní osobu shodné s údaji výše uvedenými u zpravodajské jednotky, písmena d) až k) nevyplňujte. Uvedení telefonu a e-mailu je nepovinné. Kontaktní osobou je osoba, která vyplňuje za zpravodajskou jednotku výkaz Intrastatu a na kterou se může celní úřad obrátit s dotazem ohledně vykázaných údajů. V případě, že u těchto údajů nedochází ke změně daná část se nevyplňuje.
+
+7\. V případě, že dochází ke změně ve způsobu podávání výkazu, vyplňte jakým způsobem bude zpravodajská jednotka údaje Intrastatu vykazovat, zda bude zpravodajská jednotka vykazovat sama za sebe nebo zda zplnomocní zástupce.
+
+8\. V případě, že bude zplnomocněn zástupce uveďte jeho daňové identifikační číslo (příp. IČO nebo rodné číslo) a jeho název (v případě právnické osoby) nebo jméno a příjmení (v případě fyzické osoby). Pokud zpravodajská jednotka zplnomocňuje k vykazování údajů Intrastatu zástupce, musí mít tento zástupce povolenou komunikaci v rámci vykazování statistických údajů. V případě, že u těchto údajů nedochází ke změně daná část se nevyplňuje.
+
+9\. V případě, že zpravodajská jednotka vykazuje údaje Intrastatu sama za sebe a dochází ke změně v účtech pro přihlášení do aplikací pro vykazování údajů, uveďte jaké účty mají být zaregistrovány (nepovinně tel. číslo na danou osobu) a/nebo které stávající účty mají být odstraněny.
+
+10\. V případě, že u zpravodajské jednotky došlo k zániku povinnosti, uveďte, v jakém roce a v jakém směru (dovoz/vývoz uvnitř Evropské unie) nedosáhla prahu pro vykazování.
+
+11\. Uveďte místně příslušný celní úřad, který povede registrační řízení.
+
+12\. Uveďte jméno a současné příjmení osoby, která oznámení podepisuje.
+
+13\. Připojte vlastnoruční podpis nebo uznávaný elektronický podpis (osoba uvedená v bodě 12), pokud nevyužijete jiný způsob elektronického podání v souladu s § 71 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů, který podpis nevyžaduje.
+
+---
+
+<sup>1</sup>) Například nařízení Evropského parlamentu a Rady (EU) č. 952/2013 ze dne 9. října 2013, kterým se stanoví celní kodex Unie (přepracované znění). 
+ Nařízení Evropského parlamentu a Rady (EU) 2019/2152 ze dne 27. listopadu 2019 o evropských podnikových statistikách a zrušení deseti právních aktů v oblasti podnikových statistik. 
+ Prováděcí nařízení Komise (EU) 2020/1197 ze dne 30. července 2020, kterým se stanoví technické specifikace a úprava podle nařízení Evropského parlamentu a Rady (EU) 2019/2152 o evropských podnikových statistikách a zrušení deseti právních aktů v oblasti podnikových statistik. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 515/97 ze dne 13. března 1997 o vzájemné pomoci mezi správními orgány členských států a jejich spolupráci s Komisí k zajištění řádného používání celních a zemědělských předpisů. 
+ Nařízení Rady (ES) č. 1186/2009 ze dne 16. listopadu 2009 o systému Společenství pro osvobození od cla. 
+ Nařízení Rady (EU, Euratom) č. 609/2014 ze dne 26. května 2014 o metodách a postupu pro poskytování tradičních vlastních zdrojů a vlastních zdrojů z DPH a HND a o opatřeních ke krytí hotovostních nároků (přepracované znění). 
+ Nařízení Rady (EHS) č. 2658/87 ze dne 23. července 1987 o celní a statistické nomenklatuře a o společném celním sazebníku, v platném znění.
+
+<sup>2</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1013/2006, o přepravě odpadů.
+
+<sup>3</sup>) Nařízení Rady (ES) č. 428/2009 kterým se zavádí režim Společenství pro kontrolu vývozu, přepravy, zprostředkování a tranzitu zboží dvojího užití.
+
+<sup>4</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, kterým se stanoví společná organizace trhů se zemědělskými produkty a zrušují nařízení Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007.

@@ -1,0 +1,98 @@
+---
+title: "Vyhláška č. 328/2015 Sb., kterou se provádí zákon o azylu a zákon o dočasné ochraně cizinců"
+identifier: "328/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/328/2026-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-12-03
+effective: 2015-12-18
+last_amended: 2026-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/328"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 328/2015 Sb., kterou se provádí zákon o azylu a zákon o dočasné ochraně cizinců
+
+328
+
+VYHLÁŠKA
+
+ze dne 3. prosince 2015,
+
+kterou se provádí zákon o azylu a zákon o dočasné ochraně cizinců
+
+Ministerstvo vnitra stanoví podle § 57 odst. 6 a § 86 odst. 4 zákona č. 325/1999 Sb., o azylu, ve znění zákona č. 314/2015 Sb., a podle § 34 odst. 6 zákona č. 221/2003 Sb., o dočasné ochraně cizinců, ve znění zákona č. 314/2015 Sb.:
+
+## § 1
+
+(1) Tato vyhláška navazuje na přímo použitelný předpis Evropské unie<sup>1</sup>) a upravuje národní seznam zemí, které Česká republika považuje za bezpečné země původu<sup>3</sup>).
+
+(2) Tato vyhláška dále upravuje vzor průkazu žadatele o udělení mezinárodní ochrany<sup>2</sup>) a vzor průkazu žadatele o poskytnutí dočasné ochrany.
+
+## § 2
+
+Česká republika považuje za bezpečnou zemi původu
+
+a) Alžírsko,
+
+b) Arménii,
+
+c) Austrálii,
+
+d) Ghanu,
+
+e) Island,
+
+f) Kanadu,
+
+g) Lichtenštejnsko,
+
+h) Mongolsko,
+
+i) Norsko,
+
+j) Nový Zéland,
+
+k) Senegal,
+
+l) Spojené státy americké,
+
+m) Švýcarsko,
+
+n) Velkou Británii a Severní Irsko.
+
+## § 5
+
+(1) Vzor průkazu žadatele o udělení mezinárodní ochrany je uveden v příloze č. 1 k této vyhlášce<sup>2</sup>).
+
+(2) Vzor průkazu žadatele o poskytnutí dočasné ochrany je uveden v příloze č. 2 k této vyhlášce.
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 18. prosince 2015.
+
+Ministr:
+
+Chovanec v. r.
+
+### Příloha č. 1 k vyhlášce č. 328/2015 Sb.
+
+#### VZOR PRŮKAZU ŽADATELE O UDĚLENÍ MEZINÁRODNÍ OCHRANY<sup>2</sup>)
+
+##### ![sbcr2015c140z0328p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/819679/NAHLED/ZOBRAZ/sbcr2015c140z0328p001u001)
+
+### Příloha č. 2 k vyhlášce č. 328/2015 Sb.
+
+#### VZOR PRŮKAZU ŽADATELE O POSKYTNUTÍ DOČASNÉ OCHRANY
+
+##### ![sbcr2015c140z0328p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/819681/NAHLED/ZOBRAZ/sbcr2015c140z0328p002u001)
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) 2024/1348 ze dne 14. května 2024 o zavedení společného řízení o mezinárodní ochraně v Unii a o zrušení směrnice 2013/32/EU, v platném znění.
+
+<sup>2</sup>) Směrnice Evropského parlamentu a Rady (EU) 2024/1346 ze dne 14. května 2024, kterou se stanoví normy pro přijímání žadatelů o mezinárodní ochranu (přepracované znění).
+
+<sup>3</sup>) Čl. 64 nařízení Evropského parlamentu a Rady (EU) 2024/1348.

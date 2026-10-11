@@ -1,0 +1,69 @@
+---
+title: "Zákon č. 237/2012 Sb., kterým se mění zákon č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů"
+identifier: "237/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/237/2017-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2012-06-13
+effective: 2012-09-01
+last_amended: 2017-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/237"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 237/2012 Sb., kterým se mění zákon č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů ve znění zákona č. 250/2016 Sb."
+---
+
+# Zákon č. 237/2012 Sb., kterým se mění zákon č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů
+
+237
+
+ZÁKON
+
+ze dne 13. června 2012,
+
+kterým se mění zákon č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství), ve znění pozdějších předpisů, a zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o rybářství
+
+### Čl. I
+
+Zákon č. 99/2004 Sb., o rybníkářství, výkonu rybářského práva, rybářské stráži, ochraně mořských rybolovných zdrojů a o změně některých zákonů (zákon o rybářství), ve znění zákona č. 444/2005 Sb., zákona č. 267/2006 Sb., zákona č. 124/2008 Sb., zákona č. 41/2009 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 104/2011 Sb., zákona č. 375/2011 Sb. a zákona č. 18/2012 Sb., se mění takto:
+
+1\. V § 20 se doplňuje odstavec 3, který zní:
+
+> „(3) Obecní úřad obce s rozšířenou působností projednává přestupky (§ 30) a správní delikty (§ 31).“.
+
+2\. V § 21 odst. 2 se písmeno g) zrušuje.
+
+Dosavadní písmeno h) se označuje jako písmeno g).
+
+3\. V § 30 odst. 1 se na konci písmene h) tečka nahrazuje čárkou a doplňuje se písmeno i), které zní:
+
+> „i) neoprávněně chytá ryby.“.
+
+4\. V § 30 odst. 6 se za větu druhou vkládá věta „Za přestupek podle odstavce 1 písm. i) se uloží pokuta do 8 000 Kč; za tento přestupek lze uložit také zákaz činnosti do jednoho roku.“.
+
+5\. V § 31 odst. 8 se slova „krajem v přenesené působnosti jsou příjmem příslušného kraje“ nahrazují slovy „obecním úřadem obce s rozšířenou působností jsou příjmem příslušné obce s rozšířenou působností“.
+
+## ČÁST TŘETÍ – PŘECHODNÁ USTANOVENÍ
+
+#### Čl. III
+
+1\. Řízení o přestupcích nebo jiných správních deliktech na úseku rybářství podle zákona č. 99/2004 Sb. nebo zákona č. 200/1990 Sb., ve znění účinném do dne nabytí účinnosti tohoto zákona, která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, se dokončí podle dosavadních právních předpisů.
+
+2\. Výnosy z pokut uložených rybářskou stráží nebo krajem v přenesené působnosti podle zákona č. 99/2004 Sb., ve znění účinném do dne nabytí účinnosti tohoto zákona, jsou příjmem příslušného kraje.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. IV
+
+Tento zákon nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Němcová v. r.
+
+Klaus v. r.
+
+Nečas v. r.

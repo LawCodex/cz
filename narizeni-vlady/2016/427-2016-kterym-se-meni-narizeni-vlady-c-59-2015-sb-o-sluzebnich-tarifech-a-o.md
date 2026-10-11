@@ -1,0 +1,78 @@
+---
+title: "Nařízení vlády č. 427/2016 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů"
+identifier: "427/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/427/2017-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2016-12-14
+effective: 2017-01-01
+last_amended: 2017-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/427"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 427/2016 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+427
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. prosince 2016,
+
+kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 68 odst. 2 a 4 a § 68c odst. 2 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 332/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění nařízení vlády č. 282/2015 Sb. a nařízení vlády č. 346/2016 Sb., se mění takto:
+
+1\. V § 2 odst. 1 se číslo „10 300“ nahrazuje číslem „11 000“.
+
+2\. V § 2 odstavec 2 zní:
+
+> „(2) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 4 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | 11 000 |
+> | Svobodník | 11 400 |
+> | Desátník | 11 800 |
+> | Četař | 12 200 |
+> | Rotný | 12 600 |
+> | Rotmistr | 13 000 |
+> | Nadrotmistr | 13 400 |
+>
+> “.
+
+3\. V příloze č. 1 bodě II se na konci písmene e) tečka nahrazuje čárkou a doplňuje se písmeno f), které zní:
+
+> „f) činnost předsunutého leteckého návodčího.“.
+
+4\. V příloze č. 1 bodě III písmeno e) zní:
+
+> „e) výkon služby ve výškách
+
+> 1\. při ošetřování, revidování a kontrole nosných konstrukcí světelných zabezpečovacích leteckých pozemních zařízení, anténních systémů nebo systémů a složek leteckých pozemních radiolokačních, radionavigačních, radiokomunikačních nebo meteorologických zařízení, nebo
+
+> 2\. při provádění praktické výuky a výcviku ošetřování, revidování a kontroly zařízení uvedených v bodě 1,“.
+
+5\. V příloze č. 1 bodě III se za písmeno e) vkládá nové písmeno f), které zní:
+
+> „f) výkon služby při ošetřování, revidování a kontrole leteckých pozemních radiolokačních, radionavigačních, radiokomunikačních nebo meteorologických zařízení zabezpečujících letecké služby,“.
+
+Dosavadní písmena f) až k) se označují jako písmena g) až l).
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2017.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr obrany:
+
+MgA. Stropnický v. r.

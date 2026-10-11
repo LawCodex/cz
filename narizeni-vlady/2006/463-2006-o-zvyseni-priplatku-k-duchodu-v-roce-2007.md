@@ -1,0 +1,44 @@
+---
+title: "Nařízení vlády č. 463/2006 Sb., o zvýšení příplatků k důchodu v roce 2007"
+identifier: "463/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/463/2007-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2006-09-20
+effective: 2007-01-01
+last_amended: 2007-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/463"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 463/2006 Sb., o zvýšení příplatků k důchodu v roce 2007
+
+463
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 20. září 2006
+
+o zvýšení příplatků k důchodu v roce 2007
+
+Vláda nařizuje podle § 8 zákona č. 198/1993 Sb., o protiprávnosti komunistického režimu a o odporu proti němu, a podle § 2 odst. 7 zákona č. 357/2005 Sb., o ocenění účastníků národního boje za vznik a osvobození Československa a některých pozůstalých po nich, o zvláštním příspěvku k důchodu některým osobám, o jednorázové peněžní částce některým účastníkům národního boje za osvobození v letech 1939 až 1945 a o změně některých zákonů:
+
+## § 1
+
+(1) Příplatky k důchodu podle nařízení vlády č. 622/2004 Sb., o poskytování příplatku k důchodu ke zmírnění některých křivd způsobených komunistickým režimem v oblasti sociální, ve znění nařízení vlády č. 405/2005 Sb., a podle zákona č. 357/2005 Sb., o ocenění účastníků národního boje za vznik a osvobození Československa a některých pozůstalých po nich, o zvláštním příspěvku k důchodu některým osobám, o jednorázové peněžní částce některým účastníkům národního boje za osvobození v letech 1939 až 1945 a o změně některých zákonů,(dále jen „příplatek“) přiznané před 1. lednem 2007 se zvyšují o 6,1 % částky příplatku, která náleží ke dni, od něhož se příplatek zvyšuje. Příplatky se zvyšují od splátky důchodu, s nímž se vyplácejí, splatné po 31. prosinci 2006.
+
+(2) Částka příplatku se po zvýšení podle odstavce 1 zaokrouhluje na celé koruny nahoru.
+
+## § 2
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2007.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+RNDr. Nečas v. r.

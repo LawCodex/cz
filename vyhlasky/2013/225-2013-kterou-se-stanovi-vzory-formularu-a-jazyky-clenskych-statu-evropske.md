@@ -1,0 +1,121 @@
+---
+title: "Vyhláška č. 225/2013 Sb., kterou se stanoví vzory formulářů a jazyky členských států Evropské unie používané v přeshraničních případech poskytnutí peněžité pomoci obětem trestných činů"
+identifier: "225/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/225/2020-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2013-07-24
+effective: 2013-08-01
+last_amended: 2020-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/225"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 225/2013 Sb., kterou se stanoví vzory formulářů a jazyky členských států Evropské unie používané v přeshraničních případech poskytnutí peněžité pomoci obětem trestných činů ve znění vyhlášky č. 13/2020 Sb."
+---
+
+# Vyhláška č. 225/2013 Sb., kterou se stanoví vzory formulářů a jazyky členských států Evropské unie používané v přeshraničních případech poskytnutí peněžité pomoci obětem trestných činů
+
+225
+
+VYHLÁŠKA
+
+ze dne 24. července 2013,
+
+kterou se stanoví vzory formulářů a jazyky členských států Evropské unie používané v přeshraničních případech poskytnutí peněžité pomoci obětem trestných činů
+
+Ministerstvo spravedlnosti stanoví podle § 49 písm. a) až e) zákona č. 45/2013 Sb., o obětech trestných činů a o změně některých zákonů (zákon o obětech trestných činů):
+
+## § 1
+
+Tato vyhláška stanoví
+
+a) vzor formuláře žádosti o poskytnutí peněžité pomoci v přeshraničních případech,
+
+b) vzor formuláře pro předávání žádostí o poskytnutí peněžité pomoci v přeshraničních případech,
+
+c) vzor formuláře pro předávání rozhodnutí o žádosti o poskytnutí peněžité pomoci v přeshraničních případech,
+
+d) jiné než úřední jazyky, v nichž se postupují žádosti o poskytnutí peněžité pomoci a jejich přílohy, dodatečné informace a seznam veškerých postupovaných dokumentů, žádosti o dodatečné informace a informace podle § 36 odst. 2 zákona o obětech trestných činů,
+
+e) úřední jazyky ostatních členských států Evropské unie, v nichž bude Ministerstvo spravedlnosti přijímat žádosti o poskytnutí peněžité pomoci, jejich přílohy a dodatečné informace, popřípadě seznam veškerých postupovaných dokumentů.
+
+## § 2
+
+(1) Vzor formuláře žádosti o poskytnutí peněžité pomoci v přeshraničních případech se stanoví v příloze č. 1 této vyhlášky.
+
+(2) Vzor formuláře pro předávání žádostí o poskytnutí peněžité pomoci v přeshraničních případech se stanoví v příloze č. 2 této vyhlášky.
+
+(3) Vzor formuláře pro předávání rozhodnutí o žádosti o poskytnutí peněžité pomoci v přeshraničních případech se stanoví v příloze č. 3 této vyhlášky.
+
+## § 3
+
+Jiné než úřední jazyky, v nichž se postupují žádosti o poskytnutí peněžité pomoci a jejich přílohy, dodatečné informace a seznam veškerých postupovaných dokumentů, žádosti o dodatečné informace a informace podle § 36 odst. 2 zákona o obětech trestných činů, jsou uvedeny v příloze č. 4 této vyhlášky.
+
+## § 4
+
+Ministerstvo spravedlnosti přijímá v přeshraničních případech žádosti o poskytnutí peněžité pomoci, jejich přílohy a dodatečné informace, případně seznam veškerých postupovaných dokumentů též ve slovenském a anglickém jazyce.
+
+## § 5
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2013.
+
+Ministryně:
+
+Mgr. Benešová v. r.
+
+### Příloha č. 1 k vyhlášce č. 225/2013 Sb.
+
+#### ŽÁDOST O POSKYTNUTÍ PENĚŽITÉ POMOCI V PŘESHRANIČNÍCH PŘÍPADECH
+
+##### ![sbcr2013c090z0225p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837035/NAHLED/ZOBRAZ/sbcr2013c090z0225p001u001)
+
+##### ![sbcr2013c090z0225p001u002_2020c006z0013.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837037/NAHLED/ZOBRAZ/sbcr2013c090z0225p001u002_2020c006z0013)
+
+### Příloha č. 2 k vyhlášce č. 225/2013 Sb.
+
+#### FORMULÁŘ PRO PŘEDÁVÁNÍ ŽÁDOSTÍ O POSKYTNUTÍ PENĚŽITÉ POMOCI V PŘESHRANIČNÍCH PŘÍPADECH POTVRZENÍ PŘIJETÍ ŽÁDOSTI
+
+##### ![sbcr2013c090z0225p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837039/NAHLED/ZOBRAZ/sbcr2013c090z0225p002u001)
+
+##### ![sbcr2013c090z0225p002u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837041/NAHLED/ZOBRAZ/sbcr2013c090z0225p002u002)
+
+### Příloha č. 3 k vyhlášce č. 225/2013 Sb.
+
+#### FORMULÁŘ PRO PŘEDÁVÁNÍ ROZHODNUTÍ O ŽÁDOSTI O POSKYTNUTÍ PENĚŽITÉ POMOCI V PŘESHRANIČNÍCH PŘÍPADECH
+
+##### ![sbcr2013c090z0225p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837043/NAHLED/ZOBRAZ/sbcr2013c090z0225p003u001)
+
+### Příloha č. 4 k vyhlášce č. 225/2013 Sb.
+
+#### JINÉ NEŽ ÚŘEDNÍ JAZYKY, V NICHŽ ČLENSKÉ STÁTY EVROPSKÉ UNIE PŘIJÍMAJÍ ŽÁDOSTI O POSKYTNUTÍ POMOCI
+
+| Členský stát Evropské unie | Jazyky jiné než úřední |
+|---|---|
+| Rakousko | anglický |
+| Belgie | anglický |
+| Bulharsko | anglický |
+| Chorvatsko | --- |
+| Kypr | --- |
+| Dánsko | anglický |
+| Estonsko | přijímá žádosti ve všech úředních jazycích EU |
+| Finsko | anglický |
+| Francie | --- |
+| Německo | přijímá žádosti ve všech úředních jazycích EU |
+| Řecko | --- |
+| Maďarsko | anglický |
+| Itálie | --- |
+| Irsko | francouzský |
+| Litva | anglický |
+| Lotyšsko | anglický |
+| Lucembursko | --- |
+| Malta | --- |
+| Nizozemsko | anglický |
+| Polsko | anglický |
+| Portugalsko | anglický |
+| Rumunsko | anglický<br>francouzský |
+| Slovensko | --- |
+| Slovinsko | --- |
+| Španělsko | --- |
+| Švédsko | anglický |
+| Velká Británie | francouzský<br>německý |

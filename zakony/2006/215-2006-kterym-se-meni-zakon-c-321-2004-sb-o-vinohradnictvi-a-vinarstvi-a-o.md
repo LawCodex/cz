@@ -1,0 +1,570 @@
+---
+title: "Zákon č. 215/2006 Sb., kterým se mění zákon č. 321/2004 Sb., o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství), ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů"
+identifier: "215/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/215/2006-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2006-04-25
+effective: 2006-07-01
+last_amended: 2006-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/215"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 215/2006 Sb., kterým se mění zákon č. 321/2004 Sb., o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství), ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+215
+
+ZÁKON
+
+ze dne 25. dubna 2006,
+
+kterým se mění zákon č. 321/2004 Sb., o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství), ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o vinohradnictví a vinařství
+
+### Čl. I
+
+Zákon č. 321/2004 Sb., o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství), ve znění zákona č. 179/2005 Sb., zákona č. 411/2005 Sb. a zákona č. 444/2005 Sb., se mění takto:
+
+1\. V § 1 odst. 1 větě první se slova „podmínky a požadavky v oblasti vinohradnictví a vinařství, jejichž úpravu bezprostředně závazné předpisy“ nahrazují slovy „v návaznosti na přímo použitelný předpis“ a slova „členským státům Evropské unie přikazují, nebo umožňují členským státům Evropské unie provést samostatnou úpravu podle jejich uvážení“ se nahrazují slovy „další podmínky a požadavky v oblasti vinohradnictví a vinařství“.
+
+2\. V § 3 odst. 2 písmeno c) včetně poznámek pod čarou č. 17a a 18 zní:
+
+> „c) vinohradem nebo vinicí (dále jen „vinice“) zemědělsky obhospodařovaná půda souvisle osázená keři vinné révy<sup>17a</sup>) jednoho pěstitele o celkové výměře větší než 10 arů, jíž na základě písemné žádosti pěstitele podané po 1. lednu 2001 Ústřednímu kontrolnímu a zkušebnímu ústavu zemědělskému<sup>18</sup>) (dále jen „Ústav“) Ústav přidělil nebo přidělí registrační číslo nebo registrační čísla; vinice o celkové výměře menší než 10 arů je vinicí, pouze má-li na základě písemné žádosti pěstitele podané po 1. lednu 2001 Ústavem přiděleno registrační číslo; vinicí je rovněž vinice vyklučená<sup>5</sup>), k níž nebylo Ústavem uděleno právo na opětovnou výsadbu podle § 9,
+
+> <sup>17a</sup>) § 3i písm. c) zákona č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů.
+
+> <sup>18</sup>) Zákon č. 147/2002 Sb., o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých souvisejících zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském), ve znění pozdějších předpisů.“.
+
+3\. V § 3 odst. 2 se písmeno e) zrušuje.
+
+Dosavadní písmena f) až w) se označují jako písmena e) až v).
+
+4\. V § 3 odst. 2 písmeno e) zní:
+
+> „e) hektarovým výnosem podíl množství vinných hroznů sklizených v jednom vinařském roce a plochy vinice, nebo vinic pěstitele, na nichž byly tyto vinné hrozny vypěstovány, vyjádřený v tunách na jeden hektar,“.
+
+5\. V § 3 odst. 2 se písmeno g) zrušuje.
+
+Dosavadní písmena h) až v) se označují jako písmena g) až u).
+
+6\. V § 3 odst. 2 písm. l) se slovo „aromatizované“ nahrazuje slovem „aromatické“.
+
+7\. V § 3 odst. 2 písmeno p) zní:
+
+> „p) výrobou provádění technologických nebo enologických postupů, nebo ošetření do okamžiku, kdy je produkt naplněn do obalu určeného spotřebiteli, popřípadě prodejci,“.
+
+8\. V § 3 odst. 2 písmeno q) zní:
+
+> „q) výrobcem fyzická nebo právnická osoba, která vyrábí nebo označuje produkt za účelem jeho uvádění do oběhu,“.
+
+9\. V § 3 odst. 2 se doplňuje písmeno v), které zní:
+
+> „v) malovinařem vinohradník a vinař, který pěstuje hrozny révy vinné na registrované nebo neregistrované vinici o výměře nejvýše 20 arů a vyrábí z těchto hroznů víno v množství nejvýše 2 000 litrů.“.
+
+10\. V § 5 se za odstavec 1 vkládá nový odstavec 2, který zní:
+
+> „(2) Vinicemi vhodnými pro jakostní vína stanovené oblasti nejsou vinice neobdělávané, podnožové nebo určené pro pokusné účely.“.
+
+Dosavadní odstavec 2 se označuje jako odstavec 3.
+
+11\. Nadpis § 6 zní: „Hektarový výnos“.
+
+12\. V § 6 odstavec 2 včetně poznámky pod čarou č. 21a zní:
+
+> „(2) Mají-li být vinné hrozny použity k výrobě jakostního vína stanovené oblasti, nesmí hektarový výnos<sup>21a</sup>) z vinice nebo vinic pěstitele, na nichž byly vypěstovány, překročit 14 tun na jeden hektar. Je-li v jedné vinici vysázeno více odrůd, lze hektarový výnos stanovit pro každou odrůdu zvlášť.
+
+> <sup>21a</sup>) Čl. 55 odst. 1 písm. f) nařízení Rady (ES) č. 1493/1999. 
+>  Příloha VI písm. I, bod 1. nařízení Rady (ES) č. 1493/1999.“.
+
+13\. V § 6 odstavec 3 zní:
+
+> „(3) Pokud bude překročen hektarový výnos podle odstavce 2, lze příslušné vinné hrozny použít pouze pro výrobu stolního vína nebo zemského vína, nebo musí být tyto vinné hrozny uvedeny do oběhu pouze jako vinné hrozny určené pro výrobu stolního vína, nebo jako vinné hrozny určené pro výrobu zemského vína.“.
+
+14\. V § 6 se odstavec 4 zrušuje.
+
+Dosavadní odstavec 5 se označuje jako odstavec 4.
+
+15\. V § 11 odst. 1 se za slova „Zahájení, přerušení a ukončení výroby produktů“ vkládají slova „, s výjimkou sklizených čerstvých vinných hroznů,“.
+
+16\. V § 12 odst. 6 se písmena a), c) a e) včetně poznámky pod čarou č. 34 zrušují.
+
+Dosavadní písmena b) a d) se označují jako písmena a) a b).
+
+17\. V § 12 odst. 9 písm. b) se slova „zvláštním právním předpisem<sup>34</sup>)“ nahrazují slovy „zvláštním právním předpisem<sup>35a</sup>)“.
+
+Poznámka pod čarou č. 35a zní:
+
+> „<sup>35a</sup>) Vyhláška č. 304/2004 Sb., kterou se stanoví druhy a podmínky použití přídatných a pomocných látek při výrobě potravin.“.
+
+18\. V § 15 odstavec 3 zní:
+
+> „(3) Při nabízení částečně zkvašeného hroznového moštu nebo částečně zkvašeného hroznového moštu nabízeného spotřebiteli pod označením „burčák“ k přímé lidské spotřebě musí být viditelně umístěny údaje, že se jedná o částečně zkvašený hroznový mošt nebo „burčák“ a kdo je jeho výrobcem.“.
+
+19\. V § 16 odst. 2 se slovo „zvlášť“ zrušuje.
+
+20\. V § 16 odst. 8 písmeno e) včetně poznámky pod čarou č. 47a zní:
+
+> „e) slovní vyjádření obsahu zbytkového cukru v rozsahu podle předpisu Evropských společenství<sup>47a</sup>) pro označování zbytkového cukru na etiketách.
+
+> <sup>47a</sup>) Čl. 16 nařízení Komise (ES) č. 753/2002.“.
+
+21\. V § 16 se za odstavec 8 vkládá nový odstavec 9, který zní:
+
+> „(9) Ministerstvo zruší uznání soutěže nebo výstavy jím vydané podle odstavce 5, pokud pořadatel soutěže nebo výstavy nezaručí nestrannost soutěže nebo výstavy.“.
+
+Dosavadní odstavce 9 a 10 se označují jako odstavce 10 a 11.
+
+22\. V § 16 odst. 10 písm. b) se slova „postupem a s užitím“ nahrazují slovy „postupem nebo užitím“ a slova „konzervačních a přídatných“ se nahrazují slovy „konzervačních anebo přídatných“.
+
+23\. V § 16 odstavec 11 zní:
+
+> „(11) Prováděcí právní předpis stanoví
+
+> a) vzor žádosti o uznávání soutěže nebo výstavy vín podle odstavce 5,
+
+> b) údaje, které mohou být uvedeny na etiketě produktu, a požadavky, za nichž lze tyto údaje na etiketě uvádět.“.
+
+24\. Za § 16 se vkládá nový § 16a, který zní:
+
+> **„§ 16a**
+
+> Na etiketě lze uvést označení „Chateau“ nebo „Château“, s doplněním zeměpisného označení, pokud výroba označovaného vína proběhla ve stavbě takto označené nebo jejím okolí do vzdálenosti nepřesahující 20 km.“.
+
+25\. V § 17 odst. 2 písmeno a) zní:
+
+> „a) bylo vyrobeno z vinných hroznů sklizených na území České republiky, které jsou vhodné pro výrobu jakostního vína stanovené oblasti, nebo z odrůd, které jsou uvedeny v seznamu odrůd v prováděcím právním předpisu, a splňují požadavky podle odstavce 4,“.
+
+26\. V § 17 odst. 2 se písmeno b) zrušuje.
+
+Dosavadní písmena c) až e) se označují jako písmena b) až d).
+
+27\. V § 17 odstavec 3 včetně poznámky pod čarou č. 50a zní:
+
+> „(3) Etiketa zemského vína může kromě údajů podle odstavce 1 dále obsahovat název odrůdy nebo odrůd, a to v souladu s předpisy Evropských společenství<sup>50a</sup>), podíl každé odrůdy, která je na etiketě uvedena, musí být nejméně 15 %, velikost písma názvu odrůdy nebo odrůd musí dosahovat nejvýše poloviční velikosti písma názvu „zemské víno“, název odrůdy nebo odrůd musí být uveden pouze ve stejném zorném poli na etiketě spolu s názvem „zemské víno“ a označení odrůdy nebo odrůd na etiketě nesmí být zaměnitelné s označením jakostního vína podle § 18 až 22 nebo vína originální certifikace podle § 23.
+
+> <sup>50a</sup>) Čl. 19 a 20 nařízení Komise (ES) č. 753/2002.“.
+
+28\. V § 18 odst. 2 písmeno c) zní:
+
+> „c) nebyl překročen hektarový výnos podle § 6 odst. 2,“.
+
+29\. V § 18 odst. 2 písm. f) se za slovo „jako“ vkládají slova „jakostní víno,“.
+
+30\. V § 18 odstavec 4 zní:
+
+> „(4) Jakostní víno odrůdové se vyrábí z vinných hroznů, rmutu, z hroznového moštu, z vína vyrobeného z vinných hroznů sklizených na vinici vhodné pro jakostní víno stanovené oblasti nebo smísením jakostních vín, a to nejvýše z 3 odrůd.“.
+
+31\. V § 18 odstavec 7 zní:
+
+> „(7) Etiketa jakostního vína může kromě údajů podle odstavce 6 obsahovat
+
+> a) název odrůdy nebo odrůd, za podmínek stanovených předpisy Evropských společenství<sup>50a</sup>),
+
+> b) název vinařské podoblasti, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této vinařské podoblasti,
+
+> c) název vinařské obce, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této vinařské obce,
+
+> d) název viniční tratě, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této viniční tratě.“.
+
+32\. V § 19 odst. 4 písmena c) až e) včetně poznámky pod čarou č. 53 znějí:
+
+> „c) nebyl překročen hektarový výnos podle § 6 odst. 2,
+
+> d) víno bylo vyrobeno z vinných hroznů, jejichž původ, cukernatost a hmotnost, popřípadě odrůda nebo směs odrůd anebo napadení ušlechtilou plísní šedou Botrytis cinerea P. byly ověřeny Inspekcí; ověření podléhá správnímu poplatku podle zvláštního právního předpisu<sup>53</sup>),
+
+> e) víno bylo vyrobeno z vinných hroznů, rmutu nebo hroznového moštu, popřípadě z vína vyrobeného z vinných hroznů sklizených na vinici vhodné pro jakostní víno stanovené oblasti, které splňují požadavky pro jednotlivý druh jakostního vína s přívlastkem nebo smísením jakostních vín s přívlastkem,
+
+> <sup>53</sup>) Zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů.“.
+
+33\. V § 19 se za odstavec 11 vkládá nový odstavec 12, který zní:
+
+> „(12) Jakostní víno s přívlastkem lze označit dovětkem „známkové“, jestliže bylo získáno ze směsi vinných hroznů, rmutu, hroznového moštu, popřípadě z vína vyrobeného z vinných hroznů sklizených na vinici vhodné pro jakostní víno stanovené oblasti, které splňují požadavky pro jednotlivý druh jakostního vína s přívlastkem, anebo smísením jakostních vín s přívlastkem.“.
+
+Dosavadní odstavce 12 až 14 se označují jako odstavce 13 až 15.
+
+34\. V § 19 odstavec 14 včetně poznámky pod čarou č. 53a zní:
+
+> „(14) Etiketa jakostního vína s přívlastkem může kromě údajů podle odstavce 13 obsahovat
+
+> a) název odrůdy nebo odrůd, za podmínek stanovených předpisy Evropských společenství<sup>50a</sup>),
+
+> b) ročník sklizně, za podmínek stanovených předpisy Evropských společenství<sup>53a</sup>),
+
+> c) název vinařské obce, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této vinařské obce,
+
+> d) název viniční tratě, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této viniční tratě.
+
+> <sup>53a</sup>) Čl. 18 nařízení Komise (ES) č. 753/2002.“.
+
+35\. V § 20 odst. 3 písmeno c) zní:
+
+> „c) nebyl překročen hektarový výnos podle § 6 odst. 2,“.
+
+36\. V § 20 odst. 6 písmeno c) zní:
+
+> „c) nebyl překročen hektarový výnos podle § 6 odst. 2,“.
+
+37\. V § 20 odstavec 8 včetně poznámky pod čarou č. 60a zní:
+
+> „(8) Etiketa jakostního šumivého vína stanovené oblasti (odstavec 3), pěstitelského sektu a aromatického jakostního šumivého vína stanovené oblasti (odstavec 6) obsahuje údaje stanovené předpisy Evropských společenství<sup>60a</sup>).
+
+> <sup>60a</sup>) Příloha č. VIII části B a D nařízení Rady (ES) č. 1493/1999.“.
+
+38\. V § 21 odst. 2 písmeno c) zní:
+
+> „c) nebyl překročen hektarový výnos podle § 6 odst. 2,“.
+
+39\. V § 21 odstavec 4 zní:
+
+> „(4) Etiketa jakostního perlivého vína může kromě údajů podle odstavce 3 obsahovat
+
+> a) název odrůdy nebo odrůd, za podmínek stanovených předpisy Evropských společenství<sup>50a</sup>); podíl každé odrůdy uvedené na etiketě musí činit nejméně 15 %,
+
+> b) ročník sklizně, za podmínek stanovených předpisy Evropských společenství<sup>53a</sup>),
+
+> c) název vinařské podoblasti, pocházejí-li produkty užité k výrobě vína výlučně z této vinařské podoblasti.“.
+
+40\. V § 22 odst. 2 písmeno c) zní:
+
+> „c) nebyl překročen hektarový výnos podle § 6 odst. 2,“.
+
+41\. V § 22 odstavec 4 zní:
+
+> „(4) Etiketa jakostního likérového vína může kromě údajů podle odstavců 2 a 3 obsahovat
+
+> a) název odrůdy nebo odrůd, za podmínek stanovených předpisy Evropských společenství<sup>50a</sup>); podíl každé odrůdy uvedené na etiketě musí činit nejméně 15 %,
+
+> b) ročník sklizně, za podmínek stanovených předpisy Evropských společenství<sup>53a</sup>),
+
+> c) název vinařské podoblasti, pocházejí-li produkty užité k výrobě vína výlučně z této vinařské podoblasti.“.
+
+42\. V § 23 odst. 1 písm. a) se za slova „vyrobeno na“ vkládají slova „stejném nebo“.
+
+43\. V § 25 se odstavec 4 zrušuje.
+
+Dosavadní odstavec 5 se označuje jako odstavec 4.
+
+44\. V § 26 odst. 3 písm. c) se slovo „včetně“ nahrazuje slovem „popřípadě“.
+
+45\. V § 26 odst. 3 písmeno h) zní:
+
+> „h) požadované zatřídění vína; u vína s přívlastkem druh a číslo dokladu, kterým byl ověřen původ, cukernatost a hmotnost, popřípadě odrůda nebo směs odrůd anebo napadení ušlechtilou plísní šedou Botrytis cinerea P. vinných hroznů, z nichž bylo víno vyrobeno.“.
+
+46\. V § 26 se na konci odstavce 3 tečka nahrazuje čárkou a doplňuje se písmeno i), které zní:
+
+> „i) obchodní označení vína již dříve zatříděného, které bylo použito k výrobě vína uvedeného v žádosti, dále jeho šarži, množství v litrech a evidenční číslo jakosti.“.
+
+47\. V § 27 odstavec 4 včetně poznámek pod čarou č. 72a a 72b zní:
+
+> „(4) Je zakázáno uvádět do oběhu produkt,
+
+> a) u něhož
+
+> 1\. jsou překročeny hodnoty obsahu zdraví škodlivých látek stanovených zvláštními právními předpisy<sup>35a</sup>),
+
+> 2\. nebyly dodrženy požadavky na jakost stanovené prováděcím právním předpisem anebo produkt vykazuje choroby nebo vady,
+
+> 3\. bylo zjištěno, že se jedná o produkt zdravotně závadný<sup>3</sup>),
+
+> 4\. nebylo rozhodnuto o jeho zatřídění (§ 23, 26), podléhá-li zatřídění, nebo
+
+> 5\. neodpovídají hodnoty skutečného obsahu alkoholu, nebo celkového obsahu alkoholu, nebo hodnoty obsahu bezcukerného extraktu<sup>69</sup>) hodnotám zjištěným při jeho zatřídění (§ 26), s přihlédnutím k odchylkám stanoveným prováděcím právním předpisem, nebo
+
+> b) který
+
+> 1\. neodpovídá zatřídění (§ 23, 26),
+
+> 2\. nedoprovází průvodní doklad<sup>70</sup>),
+
+> 3\. je neznámého původu<sup>72</sup>),
+
+> 4\. obsahuje sladidla<sup>35a</sup>),
+
+> 5\. obsahuje syntetické aromatické látky, přírodní nebo přírodně identické aromatické látky, syntetická barviva, přírodní nebo přírodně identická barviva, anebo přírodní sladidla, pokud jejich použití není povoleno předpisy Evropských společenství<sup>72a</sup>) nebo tímto zákonem, nebo
+
+> 6\. není vyroben v souladu s povolenými enologickými postupy podle předpisů Evropských společenství<sup>72b</sup>).
+
+> <sup>72a</sup>) Příloha č. IV nařízení Rady (ES) č. 1493/1999. 
+>  Nařízení Rady (ES) č. 1601/1991.
+
+> <sup>72b</sup>) Hlava V a příloha č. IV nařízení Rady (ES) č. 1493/1999.“.
+
+48\. V § 27 odstavec 5 zní:
+
+> „(5) Je zakázáno nabízet k prodeji vína určená pro spotřebitele společně s ovocnými víny, vinnými nápoji, alkoholickými nápoji nebo jinými nápoji, které by mohly způsobit záměnu s vínem, pokud nejsou odděleně umístěny a zřetelně označeny.“.
+
+49\. V § 28 odst. 3 větě čtvrté se číslo „30“ nahrazuje číslem „60“ a za slovo „dnů“ se vkládají slova „, ve zvlášť složitých případech do 90 dnů“.
+
+50\. V § 30 odst. 1 se slovo „povolání“ nahrazuje slovem „podnikání“.
+
+51\. V § 35 odst. 1 písmeno k) zní:
+
+> „k) penále za neplacení nebo opožděné placení odvodů stanovené ve výši 0,1 % denně z dlužné částky ode dne následujícího po posledním dni splatnosti odvodu, nejvýše však do výše dvojnásobku odvodu; penále je pěstitel nebo výrobce povinen odvést na účet Fondu.“.
+
+52\. V § 35 odst. 3 se třetí věta zrušuje.
+
+53\. V § 35 odst. 9 se slova „a podporu státu“ zrušují.
+
+54\. § 39 včetně nadpisu zní:
+
+> **„§ 39 – Správní delikty právnických a podnikajících fyzických osob**
+
+> (1) Právnická nebo podnikající fyzická osoba se jako výrobce nebo jako osoba uvádějící produkt do oběhu dopustí správního deliktu tím, že
+
+> a) nabídne ke spotřebě částečně zkvašený hroznový mošt v rozporu s § 15,
+
+> b) označí produkt v rozporu s § 16 odst. 1,
+
+> c) v rozporu s § 16 odst. 2 označí produkt údajem poukazujícím na zesílený účinek produktu,
+
+> d) uvede na etiketě zemského vína nebo jakostního vína stanovené oblasti ročník, aniž by byly splněny podmínky pro použití tohoto označení podle § 16 odst. 3,
+
+> e) v rozporu s § 16 odst. 4 neuvede v označení jakostního vína stanovené oblasti obsah zbytkového cukru,
+
+> f) uvede na etiketě získaná ocenění nebo medaile, které nejsou uznány podle § 16 odst. 5,
+
+> g) uvede do oběhu víno označené na etiketě údajem, že splňuje požadavky pro účely církví a náboženských společností, aniž by byly splněny podmínky pro použití tohoto označení podle § 16 odst. 6,
+
+> h) poruší zákaz označovat jako víno nápoje uvedené v § 16 odst. 10,
+
+> i) uvede do oběhu produkt označený názvem „zemské víno“, který nesplňuje požadavky podle § 17 odst. 2,
+
+> j) uvede na etiketě zemského vína údaje, pro jejichž uvedení nejsou splněny podmínky podle § 17 odst. 3,
+
+> k) v rozporu s § 17 odst. 5 uvede v označení stolního vína, s výjimkou zemského vína vyrobeného na území České republiky, ročník nebo odrůdu,
+
+> l) označí zemské víno zeměpisným označením v rozporu s § 17 odst. 6,
+
+> m) uvede do oběhu produkt označený názvem „jakostní víno“, které nesplňuje požadavky podle § 18 odst. 2, 4 a 5,
+
+> n) neuvede na etiketě jakostního vína údaje podle § 18 odst. 6 nebo uvede na etiketě údaje, pro jejichž uvedení nejsou splněny podmínky podle § 18 odst. 7,
+
+> o) uvede do oběhu jakostní víno s přívlastkem, které nesplňuje požadavky podle § 19 odst. 4,
+
+> p) označí jakostní víno s přívlastkem „známkové“, ačkoliv takto označené víno nesplňuje požadavky podle § 19 odst. 12,
+
+> q) neuvede na etiketě jakostního vína s přívlastkem údaje podle § 19 odst. 13 nebo uvede na etiketě údaje, pro jejichž uvedení nejsou splněny podmínky podle § 19 odst. 14,
+
+> r) uvede do oběhu jakostní šumivé víno, které nesplňuje požadavky podle § 20 odst. 2, nebo jakostní šumivé víno stanovené oblasti, které nesplňuje požadavky podle § 20 odst. 3, nebo pěstitelský sekt, který nesplňuje požadavky podle § 20 odst. 4, nebo aromatické jakostní šumivé víno, které nesplňuje požadavky podle § 20 odst. 5, anebo aromatické jakostní šumivé víno stanovené oblasti, které nesplňuje požadavky podle § 20 odst. 6,
+
+> s) označí jakostní šumivé víno nebo jakostní šumivé víno stanovené oblasti nebo aromatické jakostní šumivé víno anebo aromatické jakostní šumivé víno stanovené oblasti, nebo pěstitelský sekt názvem v rozporu s § 20 odst. 2 až 6,
+
+> t) neuvede na etiketě jakostního šumivého vína stanovené oblasti, pěstitelského sektu nebo aromatického jakostního šumivého vína stanovené oblasti údaje podle § 20 odst. 8 nebo uvede na etiketě údaje, pro jejichž uvedení nejsou splněny podmínky podle § 20 odst. 7, 9 a 10,
+
+> u) uvede do oběhu produkt označený názvem „jakostní perlivé víno“, který nesplňuje požadavky podle § 21 odst. 2,
+
+> v) neuvede na etiketě jakostního perlivého vína údaje podle § 21 odst. 3 nebo uvede na etiketě údaje, pro jejichž uvedení nejsou splněny podmínky podle § 21 odst. 4,
+
+> w) označí názvem „jakostní likérové víno“ produkt, který nesplňuje požadavky podle § 22 odst. 2, nebo neuvede na etiketě jakostního likérového vína údaje podle § 22 odst. 3 anebo uvede na etiketě údaje, pro jejichž uvedení nejsou splněny podmínky podle § 22 odst. 4,
+
+> x) uvede do oběhu víno originální certifikace, které nesplňuje požadavky podle § 23 odst. 1,
+
+> y) neoznačí na etiketě víno originální certifikace jedním z údajů uvedených v § 23 odst. 3,
+
+> z) v rozporu s § 24 odst. 2 označí jako „vinný nápoj“ produkt, který obsahuje méně než 50 % vína,
+
+> aa) neoznačí odalkoholizované víno nebo nízkoalkoholické víno názvem podle § 25 odst. 3 nebo na etiketě uvede údaje, které jsou zakázány podle § 25 odst. 4,
+
+> bb) v rozporu s § 27 odst. 1 uvede do oběhu produkt, který je zdravotně závadný,
+
+> cc) uvede do oběhu produkt, který obsahuje přidanou látku v rozporu s § 12 odst. 2, nebo, v rozporu s předpisem Evropských společenství<sup>70</sup>), nemá při prodeji nebo přepravě k dispozici průvodní doklad,
+
+> dd) uvede do oběhu produkt v rozporu s § 27 odst. 3,
+
+> ee) uvede do oběhu produkt v rozporu s § 27 odst. 4, 5 a 6,
+
+> ff) uvede do oběhu produkt, který je balen v rozporu s § 27 odst. 7, nebo jakostní víno s přívlastkem, které je plněno do jiné než skleněné láhve o obsahu do 0,75 litru nebo do láhve neuzavřené uznaným uzávěrem,
+
+> gg) neoznačí produkt při skladování v nádobách nebo láhvích podle § 27 odst. 8,
+
+> hh) jako osoba, která ze sklizně vinařského roku vyrábí víno nebo skladuje produkty jiné než víno, neodevzdá prohlášení o produkci podle § 29 odst. 2 a v souladu s § 28 odst. 5,
+
+> ii) neodevzdá prohlášení o zásobách hroznového moštu, zahuštěného hroznového moštu, rektifikovaného moštového koncentrátu a vína podle § 29 odst. 3 a v souladu s § 28 odst. 5,
+
+> jj) poruší povinnost stanovenou předpisem Evropských společenství<sup>1</sup>) upravujícím oblast vinohradnictví, vinařství nebo obchodu s produkty, nebo
+
+> kk) uvede do oběhu vinné hrozny sklizené na vinici vysazené v rozporu s předpisy Evropských společenství<sup>23</sup>)<sup>,24</sup>), nebo v rozporu s § 8 nebo 9, nebo uvede do oběhu produkty vyrobené z těchto vinných hroznů.
+
+> (2) Právnická nebo podnikající fyzická osoba se jako pěstitel dopustí správního deliktu tím, že
+
+> a) nevede záznamy o osázené viniční ploše a dosažených hektarových výnosech podle § 6 odst. 1,
+
+> b) v rozporu s § 6 odst. 3 uvede do oběhu větší množství hroznů révy vinné pro výrobu jakostního vína stanovené oblasti ze sklizně za příslušný vinařský rok, než činí nejvyšší hektarový výnos pěstitele,
+
+> c) v rozporu s § 6 odst. 4 nepoužije veškeré množství sklizně ze všech vinic v příslušném vinařském roce pro výrobu stolního vína nebo zemského vína nebo neuvede veškeré množství sklizně do oběhu jako vinné hrozny určené pro výrobu stolního vína nebo zemského vína,
+
+> d) provede novou výsadbu bez povolení podle § 8 odst. 2 nebo ji provede v rozporu s předpisy Evropských společenství<sup>23</sup>),
+
+> e) provede opětovnou výsadbu bez udělení práva na opětovnou výsadbu podle § 9 odst. 1 nebo ji provede v rozporu s předpisy Evropských společenství<sup>24</sup>),
+
+> f) vyklučí vinici bez souhlasu vlastníka podle § 9 odst. 2,
+
+> g) převede právo na opětovnou výsadbu v rozporu s § 9 odst. 6,
+
+> h) uvede do oběhu vinné hrozny sklizené na vinici vysazené v rozporu s předpisy Evropských společenství<sup>23</sup>)<sup>,24</sup>), nebo v rozporu s § 8 nebo 9, nebo uvede do oběhu produkty vyrobené z těchto vinných hroznů,
+
+> i) v rozporu s § 28 odst. 3 neoznámí zrušení vinice nebo neoznámí změny údajů uvedených v § 28 odst. 1 anebo nepožádá o přidělení registračního čísla,
+
+> j) neodevzdá prohlášení o sklizni podle § 29 odst. 1 a v souladu s § 28 odst. 5,
+
+> k) poruší povinnost stanovenou předpisem Evropských společenství<sup>1</sup>) upravujícím oblast vinohradnictví, vinařství nebo obchodu s produkty,
+
+> l) označí produkt v rozporu s § 16 odst. 1, nebo
+
+> m) uvede do oběhu produkt, který obsahuje přidanou látku v rozporu s § 12 odst. 2, nebo v rozporu s předpisem Evropských společenství<sup>70</sup>) nemá při prodeji nebo přepravě k dispozici průvodní doklad.
+
+> (3) Právnická nebo podnikající fyzická osoba se jako výrobce dopustí správního deliktu tím, že
+
+> a) neoznámí zahájení, přerušení nebo ukončení výroby produktů podle § 11 odst. 1 a § 43 odst. 4,
+
+> b) v rozporu s § 11 odst. 2 písm. a) nedodrží požadavky na výrobu, jakost a zdravotní nezávadnost,
+
+> c) neodstraní vedlejší produkty vznikající při zpracování nebo výrobě produktů podle § 11 odst. 2 písm. b),
+
+> d) neoznámí výrobu matolinového vína pro vlastní spotřebu podle § 11 odst. 2 písm. d),
+
+> e) nezajistí soustavnou kontrolu své produkce nebo nevede anebo neuchovává evidenci o této kontrole podle § 11 odst. 2 písm. e),
+
+> f) v rozporu s § 12 odst. 1 použije nepřípustné enologické postupy a ošetřování produktu,
+
+> g) v rozporu s § 12 odst. 2 přidá do produktu jakoukoli látku,
+
+> h) neoznámí zvyšování nebo snižování obsahu kyselin podle § 12 odst. 4,
+
+> i) v rozporu s § 12 odst. 5 uchovává v prostorách určených k výrobě, plnění nebo zpracování produktu látky, které jsou svým složením vhodné k tomu, aby byly užity k falšování produktu,
+
+> j) v rozporu s § 12 odst. 6 písm. a) konzervuje jakostní víno s přívlastkem chemickými látkami,
+
+> k) v rozporu s § 12 odst. 6 písm. b) skladuje ovocné víno nebo jeho směsi v prostorách, kde se skladuje víno,
+
+> l) zvýší přirozený obsah alkoholu v rozporu s předpisem Evropských společenství<sup>38</sup>) nebo v rozporu s § 13 odst. 1 neoznámí záměr zvyšování cukernatosti,
+
+> m) sladí víno v rozporu s § 14 odst. 1 nebo v rozporu s § 14 odst. 2 nepodá hlášení o slazení,
+
+> n) vyrobí stolní víno v rozporu s § 17 odst. 1,
+
+> o) vyrobí jakostní víno v rozporu s § 18 odst. 1,
+
+> p) vyrobí jakostní víno s dovětkem „odrůdové“ nebo „známkové“, ačkoliv toto víno nesplňuje požadavky stanovené v § 18 odst. 2, 4, 5, nebo na etiketě uvede údaje, pro jejichž uvedení nejsou splněny podmínky podle § 18 odst. 6,
+
+> q) vyrobí jakostní víno s přívlastkem v rozporu s § 19 odst. 1, 3, 5 až 11,
+
+> r) vyrobí jakostní víno s přívlastkem v rozporu s požadavky podle § 19 odst. 4,
+
+> s) v rozporu s § 19 odst. 15 konzervuje jakostní víno s přívlastkem,
+
+> t) vyrobí šumivé víno v rozporu s § 20 odst. 1,
+
+> u) vyrobí perlivé víno v rozporu s § 21 odst. 1,
+
+> v) vyrobí likérové víno v rozporu s § 22 odst. 1,
+
+> w) vyrobí aromatizované víno, aromatizovaný vinný nápoj nebo aromatizovaný koktejl v rozporu s § 24 odst. 1,
+
+> x) vyrobí odalkoholizované víno, které nesplňuje požadavky podle § 25 odst. 1, nebo nízkoalkoholické víno, které nesplňuje požadavky podle § 25 odst. 2, nebo
+
+> y) neuvede v žádosti o zatřídění vína podle § 26 odst. 3 již jednou zatříděné víno.
+
+> (4) Právnická nebo podnikající fyzická osoba se jako prodávající dopustí správního deliktu tím, že
+
+> a) neumístí viditelně při prodeji sudového vína údaje podle § 16 odst. 8,
+
+> b) v rozporu s § 27 odst. 5 nabízí k prodeji vína určená pro spotřebitele společně s ovocnými víny, vinnými nápoji, alkoholickými nápoji nebo jinými nápoji, které mohou nebo by mohly způsobit záměnu s vínem, pokud nejsou odděleně umístěny a zřetelně označeny, nebo
+
+> c) v rozporu s § 27 odst. 9 smísí při prodeji rozlévaného vína víno z načatých láhví nebo víno smísí ve vinný střik anebo s jiným nealkoholickým nápojem v nepřítomnosti kupujícího nebo neotevře víno v obalu určeném pro spotřebitele před kupujícím.
+
+> (5) Právnická nebo podnikající fyzická osoba se jako osoba, která vlastní, drží nebo zprostředkovává produkt za účelem výkonu svého podnikání nebo k obchodním účelům, dopustí správního deliktu tím, že nevede evidenční knihy, nebo je nepředloží na žádost orgánu dozoru podle § 30 odst. 1 a 2.
+
+> (6) Za správní delikt se uloží pokuta do
+
+> a) 3 000 000 Kč, jde-li o správní delikt podle odstavce 1 písm. a), c), d), e), f), j), k), y), odstavce 2 písm. f) a g) a odstavce 3 písm. l) a m),
+
+> b) 4 000 000 Kč, jde-li o správní delikt podle odstavce 1 písm. g) a gg), odstavce 2 písm. b) a c), odstavce 3 písm. a) a odstavce 4 písm. a), b) a c),
+
+> c) 5 000 000 Kč, jde-li o správní delikt podle odstavce 1 písm. b), h), i), l), m), n), o), p), q), r), s), t), u), v), w), x), z), aa), bb), cc), dd), ee), ff), hh), ii), jj) a kk), odstavce 2 písm. a), d), e), h), i), j), k), l) a m), odstavce 3 písm. b), c), d), e), f), g), h), i), j), k), n), o), p), q), r), s), t), u), v), w), x), y) a odstavce 5.“.
+
+55\. § 40 včetně nadpisu a poznámek pod čarou č. 89 až 91 zní:
+
+> **„§ 40 – Společná ustanovení**
+
+> (1) Právnická osoba za správní delikt neodpovídá, jestliže prokáže, že vynaložila veškeré úsilí, které bylo možno požadovat, aby porušení povinnosti zabránila.
+
+> (2) Při určení výše pokuty právnické osobě se přihlédne k závažnosti správního deliktu, zejména ke způsobu jeho spáchání a jeho následkům a okolnostem, za nichž byl správní delikt spáchán. V případě, kdy došlo k nápravě protiprávního stavu v souladu s uloženým opatřením<sup>19</sup>) nebo bezprostředně poté, kdy bylo zjištěno porušení povinnosti a nejednalo se o produkt jiný než zdravotně nezávadný nebo o klamání spotřebitele spočívající v porušování některých práv duševního vlastnictví<sup>89</sup>), může se od uložení pokuty upustit.
+
+> (3) Odpovědnost právnické osoby za správní delikt zaniká, jestliže správní orgán o něm nezahájil řízení do 2 let ode dne, kdy se o něm dozvěděl, nejpozději však do 5 let ode dne, kdy byl spáchán.
+
+> (4) Správní delikty právnických osob podle § 39 odst. 1 až 5 projednává v prvním stupni Ústav nebo Inspekce v rozsahu své působnosti podle tohoto zákona a zvláštního právního předpisu<sup>18</sup>)<sup>,19</sup>). O odvolání proti rozhodnutí Ústavu rozhoduje ministerstvo a o odvolání proti rozhodnutí Inspekce rozhoduje ústřední inspektorát Inspekce.
+
+> (5) Na odpovědnost za jednání, k němuž došlo při podnikání fyzické osoby<sup>90</sup>) nebo v přímé souvislosti s ním, se vztahují ustanovení zákona o odpovědnosti a postihu právnické osoby.
+
+> (6) Pokuta je splatná do 30 dnů ode dne, kdy rozhodnutí o jejím uložení nabylo právní moci.
+
+> (7) Pokuty vybírá orgán, který je uložil, a vymáhá je příslušný celní úřad<sup>91</sup>). Příjem z pokut je příjmem státního rozpočtu.
+
+> <sup>89</sup>) § 8 odst. 2 zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů.
+
+> <sup>90</sup>) § 2 obchodního zákoníku, ve znění pozdějších předpisů.
+
+> <sup>91</sup>) Zákon č. 185/2004 Sb., o Celní správě České republiky, ve znění pozdějších předpisů.“.
+
+56\. § 41 včetně nadpisu zní:
+
+> **„§ 41 – Vztah ke správnímu řádu**
+
+> Na postupy podle tohoto zákona se vztahuje správní řád, není-li tímto zákonem stanoveno jinak.“.
+
+57\. V § 42 odst. 1 se slova „§ 6 odst. 5“ nahrazují slovy „§ 6 odst. 4“ a slova „§ 16 odst. 10“ se nahrazují slovy „§ 16 odst. 11“.
+
+58\. V § 43 se odstavec 5 zrušuje.
+
+Dosavadní odstavce 6 a 7 se označují jako odstavce 5 a 6.
+
+59\. V § 43 se doplňuje odstavec 7, který zní:
+
+> „(7) Na malovinaře se nevztahují povinnosti podle § 29 zákona a dále nemusí vést evidenční knihy, pokud nevyrábí jakostní vína, vína originální certifikace nebo jakostní vína s přívlastkem.“.
+
+60\. Příloha k zákonu č. 321/2004 Sb. zní:
+
+> **„Příloha k zákonu č. 321/2004 Sb. – Tabulka přepočtu stupňů normalizovaného moštoměru na přirozený obsah alkoholu (v % objemových)**
+
+> <table><tbody><tr><td>Stupeň normalizovaného<br> moštoměru </td><td>% objemové alkoholu </td><td>Stupeň normalizovaného<br> moštoměru </td><td>% objemové alkoholu </td><td>Stupeň normalizovaného<br> moštoměru </td><td>% objemové alkoholu </td></tr><tr><td>0,8 </td><td>0,5 </td><td>20,0 </td><td>11,9 </td><td>40,0 </td><td>23,8 </td></tr><tr><td>1,0 </td><td>0,6 </td><td>20,2 </td><td>12,0 </td><td>40,3 </td><td>24,0 </td></tr><tr><td>1,7</td><td>1,0 </td><td>21,0 </td><td>12,5 </td><td>41,0 </td><td>24,4 </td></tr><tr><td>2,0 </td><td>1,2 </td><td>21,8 </td><td>13,0 </td><td>41,2 </td><td>24,5 </td></tr><tr><td>2,5 </td><td>1,5 </td><td>22,0 </td><td>13,1 </td><td>42,0 </td><td>25,0 </td></tr><tr><td>3,0 </td><td>1,8 </td><td>22,7 </td><td>13,5 </td><td>42,8 </td><td>25,5 </td></tr><tr><td>3,4 </td><td>2,0 </td><td>23,0 </td><td>13,7 </td><td>43,0 </td><td>25,6 </td></tr><tr><td>4,0 </td><td>2,4 </td><td>23,5 </td><td>14,0 </td><td>43,7 </td><td>26,0 </td></tr><tr><td>4,2 </td><td>2,5 </td><td>24,0 </td><td>14,3 </td><td>44,0 </td><td>26,2 </td></tr><tr><td>5,0 </td><td>3,0 </td><td>24,4 </td><td>14,5 </td><td>44,5 </td><td>26,5 </td></tr><tr><td>5,9 </td><td>3,5 </td><td>25,0 </td><td>14,9 </td><td>45,0 </td><td>26,8 </td></tr><tr><td>6,0 </td><td>3,6 </td><td>25,2 </td><td>15,0 </td><td>45,4 </td><td>27,0 </td></tr><tr><td>6,7 </td><td>4,0 </td><td>26,0 </td><td>15,5 </td><td>46,0 </td><td>27,4 </td></tr><tr><td>7,0 </td><td>4,2 </td><td>26,9 </td><td>16,0 </td><td>46,2 </td><td>27,5 </td></tr><tr><td>7,6 </td><td>4,5 </td><td>27,0 </td><td>16,1 </td><td>47,0 </td><td>28,0 </td></tr><tr><td>8,0 </td><td>4,8 </td><td>27,7 </td><td>16,5 </td><td>47,9 </td><td>28,5 </td></tr><tr><td>8,4 </td><td>5,0 </td><td>28,0 </td><td>16,7 </td><td>48,0 </td><td>28,6 </td></tr><tr><td>9,0 </td><td>5,4 </td><td>28,6 </td><td>17,0 </td><td>48,7 </td><td>29,0 </td></tr><tr><td>9,2 </td><td>5,5 </td><td>29,0 </td><td>17,3 </td><td>49,0 </td><td>29,2 </td></tr><tr><td>10,0 </td><td>6,0 </td><td>29,4 </td><td>17,5 </td><td>49,6 </td><td>29,5 </td></tr><tr><td>11,0 </td><td>6,5 </td><td>30,0 </td><td>17,9 </td><td>50,0 </td><td>29,8 </td></tr><tr><td>11,8 </td><td>7,0 </td><td>30,2 </td><td>18,0 </td><td rowspan="18" colspan="2"></td></tr><tr><td>12,0 </td><td>7,1 </td><td>31,0 </td><td>18,5 </td></tr><tr><td>12,6</td><td>7,5 </td><td>32,0 </td><td>19,0 </td></tr><tr><td>13,0 </td><td>7,7 </td><td>32,8 </td><td>19,5 </td></tr><tr><td>13,4 </td><td>8,0 </td><td>33,0 </td><td>19,6 </td></tr><tr><td>14,0 </td><td>8,3 </td><td>33,6 </td><td>20,0 </td></tr><tr><td>14,3 </td><td>8,5 </td><td>34,0 </td><td>20,2 </td></tr><tr><td>15,0 </td><td>8,9 </td><td>34,4 </td><td>20,5 </td></tr><tr><td>15,1 </td><td>9,0 </td><td>35,0 </td><td>20,8 </td></tr><tr><td>16,0 </td><td>9,5 </td><td>35,3 </td><td>21,0 </td></tr><tr><td>16,8 </td><td>10.0 </td><td>36,0 </td><td>21,4 </td></tr><tr><td>17,0</td><td>10,1 </td><td>36,1 </td><td>21,5 </td></tr><tr><td>17,6</td><td>10,5 </td><td>37,0 </td><td>22,0 </td></tr><tr><td>18,0 </td><td>10,7 </td><td>37,8 </td><td>22,5 </td></tr><tr><td>18,5 </td><td>11,0 </td><td>38,0 </td><td>22,6 </td></tr><tr><td>19,0 </td><td>11,3 </td><td>38,6 </td><td>23,0 </td></tr><tr><td>19,3 </td><td>11,5 </td><td>39,0 </td><td>23,2 </td></tr><tr><td colspan="2"></td><td>39,5 </td><td>23,5 </td></tr></tbody></table>
+
+### Čl. II – Přechodné ustanovení
+
+Řízení zahájená a pravomocně neskončená ke dni nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů.
+
+## ČÁST DRUHÁ – Změna zákona o správních poplatcích
+
+### Čl. III
+
+Příloha Sazebník zákona č. 634/2004 Sb., o správních poplatcích, ve znění zákona č. 217/2005 Sb., zákona č. 228/2005 Sb., zákona č. 361/2005 Sb., zákona č. 444/2005 Sb., zákona č. 545/2005 Sb., zákona č. 553/2005 Sb., zákona č. 48/2006 Sb., zákona č. 56/2006 Sb., zákona č. 57/2006 Sb., zákona č. 81/2006 Sb., zákona č. 109/2006 Sb., zákona č. 112/2006 Sb., zákona č. 130/2006 Sb., zákona č. 136/2006 Sb., zákona č. 138/2006 Sb., zákona č. 161/2006 Sb., zákona č. 179/2006 Sb. a zákona č. 186/2006 Sb., se mění takto:
+
+1\. V položce 77 se za písmeno c) doplňuje písmeno d), které včetně poznámky pod čarou č. 46a zní:
+
+> „d) vydání rozhodnutí o udělení práva na novou výsadbu nebo vydání rozhodnutí o udělení práva na výsadbu z rezervy<sup>46a</sup>) za každých započatých 10 m<sup>2</sup> Kč 1
+
+> <sup>46a</sup>) Čl. 5 odst. 3 písm. a) nařízení Rady ES č. 1493/1999.“.
+
+2\. V položce 77 se dosavadní text pod slovy „Předmětem poplatku není“ označuje jako bod 1 a doplňuje se bod 2, který včetně poznámky pod čarou č. 46b zní:
+
+> „2. Vydání rozhodnutí o udělení práva na novou výsadbu nebo vydání rozhodnutí o udělení práva na výsadbu z rezervy<sup>46a</sup>) mladým zemědělcům<sup>46b</sup>).
+
+> <sup>46b</sup>) Čl. 12 odst. 1 písm. b) nařízení Komise (ES) č. 1227/2000.“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. IV
+
+Tento zákon nabývá účinnosti dnem 1. července 2006, s výjimkou části druhé, která nabývá účinnosti dnem jeho vyhlášení.
+
+v z. Kasal v. r.
+
+Klaus v. r.
+
+Paroubek v. r.

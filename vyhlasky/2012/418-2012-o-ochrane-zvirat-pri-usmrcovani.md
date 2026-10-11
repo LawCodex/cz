@@ -1,0 +1,230 @@
+---
+title: "Vyhláška č. 418/2012 Sb., o ochraně zvířat při usmrcování"
+identifier: "418/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/418/2019-12-09"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-11-22
+effective: 2013-01-01
+last_amended: 2019-12-09
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/418"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 418/2012 Sb., o ochraně zvířat při usmrcování ve znění vyhlášky č. 34/2013 Sb."
+---
+
+# Vyhláška č. 418/2012 Sb., o ochraně zvířat při usmrcování
+
+418
+
+VYHLÁŠKA
+
+ze dne 22. listopadu 2012
+
+o ochraně zvířat při usmrcování
+
+Ministerstvo zemědělství stanoví podle § 29 odst. 1 zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění zákona č. 162/1993 Sb., zákona č. 77/2004 Sb., zákona č. 312/2008 Sb., zákona č. 291/2009 Sb. a zákona č. 359/2012 Sb., (dále jen „zákon“) k provedení § 5a odst. 7, § 5c odst. 7, § 5f odst. 7, § 5g a § 5i odst. 6 zákona:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška upravuje v návaznosti na přímo použitelný předpis Evropské unie<sup>1</sup>)
+
+a) způsob doložení odpovídající odborné praxe podle § 5a odst. 7 zákona a co se za ni považuje,
+
+b) vzor dočasného osvědčení o způsobilosti pro osoby podílející se na úkonech souvisejících s porážením zvířat,
+
+c) způsob doložení odpovídající odborné praxe podle § 5c odst. 7 zákona a co se za ni považuje,
+
+d) vzor dočasného osvědčení o způsobilosti k usmrcování kožešinových zvířat,
+
+e) vzor žádosti o udělení povolení k porážce zvířat pro potřeby církví a náboženských společností, jejichž náboženské obřady stanoví zvláštní metody porážky zvířat,
+
+f) nákresy a popis stanovených míst na hlavě vybraných druhů zvířat pro vedení omračovacího úderu a umístění mechanického omračovacího nástroje,
+
+g) požadavky na omračování zvířat s výjimkou kožešinových zvířat,
+
+h) poměr hmotnosti vybraných druhů živých ryb a vody (hustotu obsádky) v kádích a příručních nádržích, včetně nejnižšího množství kyslíku ve vodě a teploty vody.
+
+## § 3 – Dočasné osvědčení o způsobilosti pro osoby podílející se na úkonech souvisejících s porážením zvířat a dočasné osvědčení o způsobilosti k usmrcování kožešinových zvířat
+
+(1) Vzor dočasného osvědčení o způsobilosti pro osoby podílející se na úkonech souvisejících s porážením zvířat je uveden v příloze č. 1 k této vyhlášce.
+
+(2) Vzor dočasného osvědčení o způsobilosti k usmrcování kožešinových zvířat je uveden v příloze č. 2 k této vyhlášce.
+
+## § 5 – Žádost o udělení povolení k porážce zvířat pro potřeby církví nebo náboženských společností, jejichž náboženské obřady stanoví zvláštní metody porážky zvířat
+
+Vzor žádosti o udělení povolení k porážce zvířat pro potřeby církví nebo náboženských společností, jejichž náboženské obřady stanoví zvláštní metody porážky zvířat, je uveden v příloze č. 3 k této vyhlášce.
+
+## § 6 – Nákresy a popis stanovených míst na hlavě vybraných druhů zvířat pro vedení omračovacího úderu a umístění mechanického omračovacího nástroje
+
+(1) Nákresy a popis stanovených míst na hlavě vybraných druhů zvířat pro vedení omračovacího úderu a umístění mechanického omračovacího nástroje jsou uvedeny v příloze č. 4 k této vyhlášce.
+
+(2) Při omračování krokodýlů se přístroj s upoutaným projektilem umístí doprostřed čela mezi očnice a temporální jamky tak, aby projektil pronikl do kůry mozkové; tento úkon musí být proveden tak, aby zvíře okamžitě upadlo do bezvědomí, ve kterém setrvá až do smrti.
+
+## § 7 – Poměr hmotnosti vybraných druhů živých ryb a vody v kádích a příručních nádržích, včetně nejnižšího množství kyslíku ve vodě a teploty vody
+
+Poměr hmotnosti vybraných druhů živých ryb a vody (hustotu obsádky) v kádích a příručních nádržích, včetně nejnižšího množství kyslíku ve vodě a teploty vody, je uveden v příloze č. 5 k této vyhlášce.
+
+## § 8 – Přechodné ustanovení
+
+Ustanovení § 4 odst. 1 a 2 se nevztahují na nové jatky a na každé nové uspořádání, konstrukci nebo vybavení, na které se vztahují pravidla uvedená v příloze II nařízení Rady (ES) č. 1099/2009 ze dne 24. září 2009 o ochraně zvířat při usmrcování, a které nebyly uvedeny do provozu před 1. lednem 2013.
+
+## § 9 – Zrušovací ustanovení
+
+Zrušuje se:
+
+1\. Vyhláška č. 382/2004 Sb., o ochraně hospodářských zvířat při porážení, utrácení nebo jiném usmrcování.
+
+2\. Vyhláška č. 424/2005 Sb., kterou se mění vyhláška č. 382/2004 Sb., o ochraně hospodářských zvířat při porážení, utrácení nebo jiném usmrcování.
+
+## § 10 – Účinnost
+
+(1) Tato vyhláška nabývá účinnosti dnem 1. ledna 2013.
+
+(2) Ustanovení § 2 pozbývá platnosti uplynutím dne 8. prosince 2015<sup>2</sup>).
+
+(3) Ustanovení § 4 pozbývá platnosti uplynutím dne 8. prosince 2019<sup>3</sup>).
+
+Ministr:
+
+Ing. Bendl v. r.
+
+### Příloha č. 1 k vyhlášce č. 418/2012 Sb.
+
+#### Vzor dočasného osvědčení o způsobilosti pro osoby podílející se na úkonech souvisejících s porážením zvířat
+
+#### ![sbcr2012c153z0418p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791109/NAHLED/ZOBRAZ/sbcr2012c153z0418p001u001)
+
+### Příloha č. 2 k vyhlášce č. 418/2012 Sb.
+
+#### Vzor dočasného osvědčení o způsobilosti k usmrcování kožešinových zvířat
+
+#### ![sbcr2012c153z0418p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791111/NAHLED/ZOBRAZ/sbcr2012c153z0418p002u001)
+
+### Příloha č. 3 k vyhlášce č. 418/2012 Sb.
+
+#### Vzor žádosti o udělení povolení k porážce zvířat pro potřeby církví a náboženských společností, jejichž náboženské obřady stanoví zvláštní metody porážky zvířat, podle § 5f zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů
+
+#### ![sbcr2012c153z0418p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791113/NAHLED/ZOBRAZ/sbcr2012c153z0418p003u001)
+
+### Příloha č. 4 k vyhlášce č. 418/2012 Sb.
+
+#### Nákresy a popis stanovených míst na hlavě vybraných druhů zvířat pro vedení omračovacího úderu a umístění mechanického omračovacího nástroje
+
+1\. Skot (mimo býky a telata)
+
+Ústí se umístí v pravém úhlu k čelní kosti v místě, které je v polovině vzdálenosti mezi nejvyšším bodem lebky a spojnicí očí.
+
+2\. Býci
+
+Ústí se umístí v pravém úhlu k čelní kosti v místě, které je v polovině vzdálenosti mezi nejvyšším bodem lebky a spojnicí očí, přičemž se přikládá velmi pevně k čelu, maximálně 1 cm od okraje valu probíhajícího středem lebky.
+
+3\. Telata
+
+Ústí se umístí v pravém úhlu k čelní kosti blíže ke spojnici očí než u skotu.
+
+##### Boční pohled (skot)
+
+##### ![sbcr2012c153z0418p004o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791115/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o001)
+
+##### Boční pohled (telata)
+
+##### ![sbcr2012c153z0418p004o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791117/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o002)
+
+##### Čelní pohled (skot)
+
+##### ![sbcr2012c153z0418p004o003.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791119/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o003)
+
+##### Čelní pohled (telata)
+
+##### ![sbcr2012c153z0418p004o004.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791121/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o004)
+
+4\. Prasata (kromě kanců)
+
+Ústí se umístí v pravém úhlu k čelní kosti, asi 2,5 cm nad spojnici očí.
+
+5\. Kanci
+
+Ústí se umístí v pravém úhlu k čelní kosti, asi 5 cm nad spojnici očí k jedné straně valu probíhajícího středem lebky.
+
+##### Boční pohled (prasata)
+
+##### ![sbcr2012c153z0418p004o005.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791123/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o005)
+
+##### Čelní pohled (prasata)
+
+##### ![sbcr2012c153z0418p004o006.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791125/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o006)
+
+6\. Ovce
+
+U bezrohých ovcí se ústí umístí na nejvyšší bod lebky a směřuje k zaúhlení čelisti.
+
+U rohatých ovcí se ústí umístí těsně za val probíhající mezi rohy a směřuje k tlamě.
+
+##### Boční pohled (bezrohé ovce)
+
+##### ![sbcr2012c153z0418p004o007.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791127/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o007)
+
+##### Čelní pohled (bezrohé ovce)
+
+##### ![sbcr2012c153z0418p004o008.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791129/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o008)
+
+7\. Kozy
+
+U bezrohých koz se ústí umístí na nejvyšší bod lebky a směřuje k zaúhlení čelisti.
+
+U rohatých koz se ústí umístí těsně za val probíhající mezi rohy a směřuje k tlamě.
+
+U kůzlat se ústí umístí v pravém úhlu k čelní kosti stejně jako u telat.
+
+##### Boční pohled (rohaté kozy)
+
+##### ![sbcr2012c153z0418p004o009.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791131/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o009)
+
+8\. Koně
+
+Ústí se umístí v pravém úhlu k čelní kosti nad průsečík spojnice očí a uší.
+
+##### Boční pohled (koně)
+
+##### ![sbcr2012c153z0418p004o010.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791133/NAHLED/ZOBRAZ/sbcr2012c153z0418p004o010)
+
+### Příloha č. 5 k vyhlášce č. 418/2012 Sb.
+
+#### Poměr hmotnosti živých ryb a vody (hustota obsádky) v kádích a příručních nádržích, včetně nejnižšího množství kyslíku ve vodě a teploty vody
+
+1\. Hustota obsádky
+
+##### Tabulka č. 1
+
+##### Kapr v kg na 1000 litrů vody
+
+| Teplota vody ve °C | Hmotnost ryb v kg |
+|---|---|
+| 0 – 5 | 1 200 |
+| 5 – 10 | 1 000 |
+| 10 - 15 | 700 |
+
+##### Tabulka č. 2
+
+##### Lososovité ryby v kg na 1000 litrů vody
+
+<table><tbody><tr><th rowspan="2">Teplota vody ve °C</th><th colspan="2">Hmotnost ryb v kg</th></tr><tr><th>při provzdušňování vody</th><th>při prokysličování vody</th></tr><tr><td>0 - 5</td><td>50 – 70</td><td>200</td></tr><tr><td>5 - 10</td><td>40 – 60</td><td>150</td></tr><tr><td>10 - 15</td><td>do 25</td><td>do 100</td></tr></tbody></table>
+
+Při ochlazování vody ledem se hmotnost lososovitých ryb může zvýšit až o 50 % (přidáním 25 kg ledu na 1000 l vody).
+
+2\. Požadavky na kvalitu vody
+
+##### Tabulka č. 3
+
+<table><tbody><tr><th rowspan="2"></th><th colspan="2">Kaprovité ryby</th><th colspan="2">Lososovité ryby</th></tr><tr><th>léto</th><th>zima</th><th>léto</th><th>zima</th></tr><tr><td>Teplota vody ve °C</td><td>10 - 15</td><td>0 - 10</td><td>10 - 12</td><td>0 – 10</td></tr><tr><td>Nejnižší % nasycení kyslíkem</td><td>70</td><td>40</td><td>80</td><td>60</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Nařízení Rady (ES) č. 1099/2009 ze dne 24. září 2009 o ochraně zvířat při usmrcování.
+
+<sup>2</sup>) Čl. 29 odst. 2 nařízení Rady (ES) č. 1099/2009.
+
+<sup>3</sup>) Příloha C část II, odst. 3 písm. A bod 2, odst. 3 písm. B body 1, 2 a 4 a odst. 4 body 2 a 3 směrnice Rady 93/119/ES ze dne 22. prosince 1993 o ochraně zvířat při porážení nebo usmrcování. 
+ Čl. 28 odst. 1 a čl. 29 odst. 1 nařízení Rady (ES) č. 1099/2009.

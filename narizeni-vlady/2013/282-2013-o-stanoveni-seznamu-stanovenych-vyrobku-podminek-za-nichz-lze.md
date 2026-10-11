@@ -1,0 +1,256 @@
+---
+title: "Nařízení vlády č. 282/2013 Sb., o stanovení seznamu stanovených výrobků, podmínek, za nichž lze uskutečnit jejich dovoz nebo přepravu, a o stanovení některých podmínek pro určené výrobky, za nichž lze uskutečnit jejich vývoz"
+identifier: "282/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/282/2026-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2013-09-04
+effective: 2013-09-30
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/282"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 282/2013 Sb., o stanovení seznamu stanovených výrobků, podmínek, za nichž lze uskutečnit jejich dovoz nebo přepravu, a o stanovení některých podmínek pro určené výrobky, za nichž lze uskutečnit jejich vývoz
+
+282
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 4. září 2013
+
+o stanovení seznamu stanovených výrobků, podmínek, za nichž lze uskutečnit jejich dovoz nebo přepravu, a o stanovení některých podmínek pro určené výrobky, za nichž lze uskutečnit jejich vývoz
+
+Vláda nařizuje podle § 18 zákona č. 228/2005 Sb., o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů, a o změně některých zákonů, ve znění zákona č. 281/2013 Sb., (dále jen „zákon“) k provedení § 1 odst. 2 a § 8a odst. 1 zákona:
+
+## § 1 – Seznam stanovených výrobků
+
+Seznam stanovených výrobků, jejichž držení se v České republice omezuje z důvodů bezpečnostních zájmů státu, je uveden v příloze č. 1 a v příloze č. 2 k tomuto nařízení.
+
+## § 2 – Doklady vyžadované k povolení k vývozu určených výrobků
+
+Seznam dokladů vyžadovaných k povolení k vývozu určených výrobků je uveden v příloze č. 3 k tomuto nařízení.
+
+## § 3
+
+(1) Údaje týkající se obchodů zrealizovaných na základě povolení stanoví příloha č. 4 k tomuto nařízení.
+
+(2) Údaje týkající se obchodů zrealizovaných na základě povolení k vývozu stanoví příloha č. 5 k tomuto nařízení.
+
+## § 3a
+
+Údaje požadované k žádosti o vydání mezinárodního dovozního certifikátu stanoví příloha č. 6 k tomuto nařízení.
+
+## § 4 – Zrušovací ustanovení
+
+Nařízení vlády č. 230/2005 Sb., kterým se stanoví seznam stanovených výrobků, podmínky, za nichž lze uskutečnit dovoz nebo vývoz nebo přepravu stanovených výrobků, a náležitosti a vzory žádostí o udělení povolení, se zrušuje.
+
+## § 5 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 30. září 2013.
+
+Předseda vlády:
+
+Rusnok v. r.
+
+Ministr průmyslu a obchodu:
+
+Cieńciała v. r.
+
+### Příloha č. 1 k nařízení vlády č. 282/2013 Sb.
+
+#### Seznam stanovených výrobků, jejichž držení se v České republice omezuje z bezpečnostních důvodů [podle § 1 odst. 1 písm. a) zákona]
+
+| Pořadí položky | Kód kombinované nomenklatury společného celního sazebníku EU | Název stanoveného výrobku | Měrná jednotka | Doklad podle § 2 odst. 3 písm. a) zákona | Doklad podle § 2 odst. 3 písm. c) zákona |
+|---|---|---|---|---|---|
+| 1. | ex 9302 00 00 | Krátké palné zbraně pro střelivo se středovým zápalem, které umožňují vystřelit maximálně 21 nábojů bez opětovného nabití, pokud je součástí palné zbraně zásobovací ústrojí s kapacitou maximálně 20 nábojů nebo je do ní vloženo odnímatelné zásobovací ústrojí s kapacitou maximálně 20 nábojů | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 2. | ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé palné zbraně pro střelivo se středovým zápalem, které umožňují vystřelit maximálně 11 nábojů bez opětovného nabití, pokud je součástí palné zbraně zásobovací ústrojí s kapacitou maximálně 10 nábojů nebo je do ní vloženo odnímatelné zásobovací ústrojí s kapacitou maximálně 10 nábojů | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 3. | ex 9302 00 00 | Krátké opakovací palné zbraně | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 4. | ex 9302 00 00 | Krátké palné zbraně nabíjené jednotlivě pro střelivo se středovým zápalem | Ks | A 1, A 3 a A 4 | B 1 a B 2 |
+| 5. | ex 9302 00 00 | Krátké palné zbraně nabíjené jednotlivě pro střelivo s okrajovým zápalem, jejichž celková délka je menší než 280 mm | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 6. | ex 9302 00 00 | Krátké samonabíjecí palné zbraně jiné než uvedené v položce 1. | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 7. | ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé samonabíjecí palné zbraně jiné než uvedené v položce 2. | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 8. | ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé opakovací a samonabíjecí palné zbraně s hladkým vývrtem | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 9. | ex 9302 00 00<br>ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Jakákoli palná zbraň, která byla přeměněna ke střelbě s využitím nábojek nebo cvičných nábojů, dráždivých látek, jiných účinných látek nebo pyrotechnických nábojů či na salutní, akustickou nebo jinou expanzní zbraň | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 10. | ex 9302 00 00<br>ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Samonabíjecí zbraně, pokud mají vzhled samočinných zbraní, jiné než uvedené v položkách 7., 8. a 9. | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 11. | ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé palné zbraně nabíjené jednotlivě | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 12. | ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé samonabíjecí palné zbraně jiné než uvedené v položkách 2., 7., 8., 9. a 10. | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 13. | ex 9302 00 00 | Krátké palné zbraně nabíjené jednotlivě pro střelivo s okrajovým zápalem, jejichž celková délka není menší než 280 mm | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 14. | ex 9304 00 00 | Palné zbraně, které byly znehodnoceny v souladu s prováděcím nařízením Komise (EU) 2015/2403 | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 15. | ex 9302 00 00<br>9303 10 00<br>ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00<br>ex 9705 10 00<br>ex 9706 10 00<br>ex 9706 90 00 | Sbírky a sběratelské kusy historické hodnoty a jejich funkční repliky | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+| 16. | ex 3601 00 00<br>3605 00 00<br>9306 21 00<br>ex 9306 29 00<br>ex 9306 30 10<br>ex 9306 30 90<br>ex 9306 90 90 | Střelivo: kompletní náboj nebo jeho komponenty, jako jsou nábojnice, zápalky, výmetné náplně nebo projektily, které se používají v palných zbraních | Ks | A 1, A 2, A 3 a A 4 | B 1, B 2 a B 3 |
+| 17. | ex 9305 10 00<br>ex 9305 20 00<br>ex 9305 99 00 | Veškeré hlavní části palných zbraní uvedených v tomto seznamu a jejich polotovary | Ks | A 1, A 3 a A 4 | B 1, B 2 a B 3 |
+
+#### Vysvětlivky zkratek pro doklady:
+
+Doklady podle § 2 odst. 3 písm. a) zákona
+
+A 1 - Zařazení zbraně nebo hlavních částí zbraní nebo střeliva do kategorie podle zákona č. 90/2024 Sb., o zbraních a střelivu, ve znění pozdějších předpisů. Předložení zařazení zbraně nebo hlavních částí zbraní nebo střeliva do kategorie je vyžadováno pouze v pochybnostech.
+
+A 2 - Certifikát vydaný autorizovanou osobou podle zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů. Předložení tohoto certifikátu je vyžadováno pouze v pochybnostech.
+
+A 3 - Protokol o ověření zbraně (nebo certifikát o homologaci typu zbraně v případě, pokud nebude vystaven protokol o ověření zbraně) podle zákona č. 156/2000 Sb., o ověřování střelných zbraní a střeliva, ve znění pozdějších předpisů. Předložení tohoto dokumentu je vyžadováno pouze v pochybnostech.
+
+A 4 - Ověřená kopie zbrojní licence ne starší 90 dnů podle zákona č. 90/2024 Sb., o zbraních a střelivu, ve znění pozdějších předpisů; to neplatí, pokud se jedná o zbraně kategorie NO, které nejsou palné, nebo střelivo určené pro tyto zbraně. Předložení tohoto dokumentu je vyžadováno, pouze pokud není možné ověřit platnou zbrojní licenci z Centrálního registru zbraní.
+
+Doklady podle § 2 odst. 3 písm. c) zákona
+
+B 1 - Kupní smlouva nebo jiné obdobné dokumenty, zejména faktura nebo proformafaktura.
+
+B 2 - V případě přepravy z území České republiky na území ostatních členských států Evropské unie doklad o nabytí stanoveného výrobku nebo povolení výrobce k přepravě.
+
+B 3 - International Import Certificate/Mezinárodní dovozní certifikát (I.I.C.) nebo End User Certificate/Certifikát konečného uživatele (E.U.C.) nebo jiný obdobný dokument v případě přepravy z území České republiky na území ostatních členských států Evropské unie.
+
+### Příloha č. 2 k nařízení vlády č. 282/2013 Sb.
+
+#### Seznam stanovených výrobků, jejichž držení se v České republice omezuje z bezpečnostních důvodů [podle § 1 odst. 1 písm. b) zákona]
+
+| Pořadí položky | Kód kombinované nomenklatury společného celního sazebníku EU | Název stanoveného výrobku | Měrná jednotka | Doklad podle § 2 odst. 3 písm. a) zákona | Doklad podle § 2 odst. 3 písm. c) zákona |
+|---|---|---|---|---|---|
+| 1. | ex 9302 00 00 | Krátké palné zbraně pro střelivo se středovým zápalem, které umožňují vystřelit maximálně 21 nábojů bez opětovného nabití, pokud je součástí palné zbraně zásobovací ústrojí s kapacitou maximálně 20 nábojů nebo je do ní vloženo odnímatelné zásobovací ústrojí s kapacitou maximálně 20 nábojů | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 2. | ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé palné zbraně pro střelivo se středovým zápalem, které umožňují vystřelit maximálně 11 nábojů bez opětovného nabití, pokud je součástí palné zbraně zásobovací ústrojí s kapacitou maximálně 10 nábojů nebo je do ní vloženo odnímatelné zásobovací ústrojí s kapacitou maximálně 10 nábojů | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 3. | ex 9302 00 00 | Krátké opakovací palné zbraně | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 4. | ex 9302 00 00 | Krátké palné zbraně nabíjené jednotlivě pro střelivo se středovým zápalem | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 5. | ex 9302 00 00 | Krátké palné zbraně nabíjené jednotlivě pro střelivo s okrajovým zápalem, jejichž celková délka je menší než 280 mm | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 6. | ex 9302 00 00 | Krátké samonabíjecí palné zbraně jiné než uvedené v položce 1. | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 7. | ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé samonabíjecí palné zbraně jiné než uvedené v položce 2. | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 8. | ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé opakovací a samonabíjecí palné zbraně s hladkým vývrtem | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 9. | ex 9302 00 00<br>ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Jakákoli palná zbraň, která byla přeměněna ke střelbě s využitím nábojek nebo cvičných nábojů, dráždivých látek, jiných účinných látek nebo pyrotechnických nábojů či na salutní, akustickou nebo jinou expanzní zbraň | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 10. | ex 9302 00 00<br>ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Samonabíjecí zbraně, pokud mají vzhled samočinných zbraní, jiné než uvedené v položkách 7., 8. a 9. | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 11. | ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé palné zbraně nabíjené jednotlivě | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 12. | ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00 | Dlouhé samonabíjecí palné zbraně jiné než uvedené v položkách 2., 7., 8., 9. a 10. | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 13. | ex 9302 00 00 | Krátké palné zbraně nabíjené jednotlivě pro střelivo s okrajovým zápalem, jejichž celková délka není menší než 280 mm | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 14. | ex 9304 00 00 | Palné zbraně, které byly znehodnoceny v souladu s prováděcím nařízením Komise (EU) 2015/2403 | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 15. | ex 9302 00 00<br>ex 9303 10 00<br>ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00<br>ex 9705 10 00<br>ex 9706 10 00<br>ex 9706 90 00 | Sbírky a sběratelské kusy historické hodnoty a jejich funkční repliky | Ks | A 1, A 3, A 4 a A 5 | B 1 |
+| 16. | ex 3601 00 00<br>3605 00 00<br>9306 21 00<br>ex 9306 29 00<br>ex 9306 30 10<br>ex 9306 30 90<br>ex 9306 90 90 | Střelivo: kompletní náboj nebo jeho komponenty, jako jsou nábojnice, zápalky, výmetné náplně nebo projektily, které se používají v palných zbraních | Ks | A 1, A 2, A 3 a A 4 | B 1 |
+| 17. | ex 9305 10 00<br>ex 9305 20 00<br>ex 9305 99 00 | Veškeré hlavní části palných zbraní uvedených v tomto seznamu a jejich polotovary | | A 1, A 3, A 4 a A 5 | B 1 |
+
+#### Vysvětlivky zkratek pro doklady:
+
+Doklady podle § 2 odst. 3 písm. a) zákona:
+
+A 1 - Zařazení zbraně nebo hlavních částí zbraní nebo střeliva do kategorie podle zákona č. 90/2024 Sb., o zbraních a střelivu, ve znění pozdějších předpisů. Předložení zařazení zbraně nebo hlavních částí zbraní nebo střeliva do kategorie je vyžadováno pouze v pochybnostech.
+
+A 2 - Certifikát vydaný autorizovanou osobou podle zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů. Předložení tohoto certifikátu je vyžadováno pouze v pochybnostech.
+
+A 3 - Protokol o ověření zbraně (nebo certifikát o homologaci typu zbraně v případě, pokud nebude vystaven protokol o ověření zbraně) podle zákona č. 156/2000 Sb., o ověřování střelných zbraní a střeliva, ve znění pozdějších předpisů. Předložení tohoto dokumentu je vyžadováno pouze v pochybnostech.
+
+A 4 - Ověřená kopie zbrojní licence ne starší 90 dnů podle zákona č. 90/2024 Sb., o zbraních a střelivu, ve znění pozdějších předpisů; to neplatí, pokud se jedná o zbraně kategorie NO, které nejsou palné, nebo střelivo určené pro tyto zbraně. Předložení tohoto dokumentu je vyžadováno, pouze pokud není možné ověřit platnou zbrojní licenci z Centrálního registru zbraní.
+
+A 5 - Rozhodnutí ve věci závazné informace o sazebním zařazení zboží vydané v souladu s nařízením Evropského parlamentu a Rady (EU) č. 952/2013 ze dne 9. října 2013, kterým se stanoví celní kodex Unie, v platném znění, o zařazení výrobku mezi zbraně z hlediska celního sazebníku v případě nového druhu výrobku nebo nejednoznačnosti jeho zařazení, které není starší 3 let ode dne, kdy nabylo účinku. Předložení tohoto rozhodnutí je vyžadováno pouze v pochybnostech.
+
+Doklady podle § 2 odst. 3 písm. c) zákona:
+
+B 1 - Kupní smlouva nebo jiné obdobné dokumenty, zejména faktura nebo proformafaktura.
+
+### Příloha č. 3 k nařízení vlády č. 282/2013 Sb.
+
+#### Seznam dokladů vyžadovaných k povolení k vývozu určených výrobků
+
+<table><thead><tr><th></th><th>Název<sup>[1]</sup> určeného výrobku ve smyslu přílohy č. 1 přímo použitelného předpisu Evropské unie upravujícího oblast obchodování se střelnými zbraněmi a střelivem</th><th>Kód KN<sup>[1]</sup></th><th>Doklad podle § 2 odst. 3 písm. a) zákona</th><th>Doklad podle § 2 odst. 3 písm. c) zákona</th></tr></thead><tbody><tr><td>1.</td><td>Krátké poloautomatické (samonabíjecí) nebo opakovací střelné zbraně</td><td>ex 9302 00 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>2.</td><td>Krátké jednoranové střelné zbraně pro střelivo se středovým zápalem</td><td>ex 9302 00 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>3.</td><td>Krátké jednoranové střelné zbraně pro střelivo s okrajovým zápalem, jejichž celková délka je menší než 280 mm</td><td>ex 9302 00 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>4.</td><td>Dlouhé poloautomatické (samonabíjecí) střelné zbraně, jejichž zásobník a nábojová komora mohou dohromady pojmout více než tři náboje</td><td>ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>5.</td><td>Dlouhé poloautomatické (samonabíjecí) střelné zbraně, jejichž zásobník a nábojová komora nemohou dohromady pojmout více než tři náboje, jejichž podávací ústrojí je odnímatelné nebo u nichž není zaručeno, že nemohou být přeměněny běžnými nástroji na zbraně, jejichž zásobník a nábojová komora mohou dohromady pojmout více než tři náboje</td><td>ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>6.</td><td>Dlouhé opakovací a poloautomatické (samonabíjecí) střelné zbraně s hladkým vývrtem hlavně, která nepřesahuje délku 600 mm</td><td>ex 9303 20 10<br>ex 9303 20 95</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>7.</td><td>Civilní poloautomatické (samonabíjecí) střelné zbraně, které mají vzhled zbraní s automatickým (samočinným) mechanismem</td><td>ex 9302 00 00<br>ex 9303 20 10<br>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>8.</td><td>Dlouhé opakovací střelné zbraně jiné než uvedené v bodě 6</td><td>ex 9303 20 95<br>ex 9303 30 00<br>ex 9303 90 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>9.</td><td>Dlouhé jednoranové střelné zbraně s drážkovým vývrtem hlavně</td><td>ex 9303 30 00<br>ex 9303 90 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>10.</td><td>Poloautomatické (samonabíjecí) dlouhé střelné zbraně jiné než uvedené v bodech 4 až 7</td><td>ex 9303 90 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>11.</td><td>Krátké jednoranové střelné zbraně pro střelivo s okrajovým zápalem, jejichž celková délka není menší než 280 mm</td><td>ex 9302 00 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>12.</td><td>Dlouhé jednoranové střelné zbraně s hladkým vývrtem hlavně</td><td>9303 10 00<br>ex 9303 20 10<br>ex 9303 20 95</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>13.</td><td>Součásti zvlášť zkonstruované pro střelnou zbraň a nezbytné pro její funkci včetně hlavně, rámu, pouzdra závěru, závěru nebo nábojového válce revolveru, závorníku, nosiče závorníku a jakéhokoli zařízení zkonstruovaného nebo upraveného k utlumení hluku výstřelu; hlavní části těchto střelných zbraní: mechanismus závěru, nábojová komora (vložná) a hlaveň střelné zbraně se, jako oddělené předměty, zahrnují do kategorie těch střelných zbraní, kterých jsou nebo mají být součástí</td><td>ex 9305 10 00<br>ex 9305 21 00<br>ex 9305 29 00<br>ex 9305 99 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td rowspan="2">14.</td><td>Střelivo: kompletní náboj nebo jeho komponenty, jako jsou nábojnice, zápalky nebo střely, které se používají ve střelných zbraních, které podléhají ověřování podle jiného právního předpisu<sup>[2]</sup></td><td>ex 3601 00 00<br>ex 3603 00 90<br>ex 9306 21 00<br>ex 9306 29 00<br>ex 9306 30 10</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr><tr><td>Výmetné náplně, které podléhají ověřování podle jiného právního předpisu<sup>[2]</sup></td><td>ex 9306 30 90<br>ex 9306 90 90</td><td>A 2 a A 4</td><td>B 1, B 2,<br>B 3 a B 4</td></tr><tr><td rowspan="2">15.</td><td>Sbírky střelných zbraní a sběratelské kusy střelných zbraní historické hodnoty<sup>[3]</sup></td><td>ex 9705 00 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1,B 2, B 3 a B 4</td></tr><tr><td>Starožitné střelné zbraně starší 100 let<sup>[3]</sup></td><td>ex 9706 00 00</td><td>A 1, A 3, A 4 a A 5</td><td>B 1, B 2, B 3 a B 4</td></tr></tbody></table>
+
+Poznámky:
+
+[1] Název určeného výrobku a Kód KN jsou uvedeny informativně - uplatní se název určeného výrobku a KN podle přílohy č. 1 přímo použitelného předpisu Evropské unie upravujícího oblast obchodování se střelnými zbraněmi a střelivem.
+
+[2] Druhy střeliva a jeho částí, které podléhají ověřování podle § 2a odst. 3 zákona č. 156/2000 Sb., o ověřování střelných zbraní a střeliva, ve znění zákona č. 206/2015 Sb. a zákona č. 180/2023 Sb.
+
+[3] Mimo historických zbraní podle bodu 1.15 přílohy č. 1 zákona č. 90/2024 Sb., o zbraních a střelivu, ve znění pozdějších předpisů, na které se při jejich vývozu mimo území Evropské unie v souladu s článkem 3 písm. f) přímo použitelného předpisu Evropské unie upravujícího oblast obchodování se střelnými zbraněmi a střelivem povolení k vývozu nevyžaduje.
+
+Vysvětlivky zkratek pro doklady:
+
+Doklady podle § 2 odst. 3 písm. a) zákona:
+
+A 1 - Zařazení zbraně nebo hlavních částí zbraní nebo střeliva do kategorie podle zákona č. 90/2024 Sb., o zbraních a střelivu, ve znění pozdějších předpisů. Předložení zařazení zbraně nebo hlavních částí zbraní nebo střeliva do kategorie je vyžadováno pouze v pochybnostech.
+
+A 2 - Certifikát vydaný autorizovanou osobou podle zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů. Předložení tohoto certifikátu je vyžadováno pouze v pochybnostech.
+
+A 3 - Protokol o ověření zbraně (nebo certifikát o homologaci typu zbraně v případě, pokud nebude vystaven protokol o ověření zbraně) podle zákona č. 156/2000 Sb., o ověřování střelných zbraní a střeliva, ve znění pozdějších předpisů. Předložení tohoto dokumentu je vyžadováno pouze v pochybnostech.
+
+A 4 - Ověřená kopie zbrojní licence ne starší 90 dnů podle zákona č. 90/2024 Sb., o zbraních a střelivu, ve znění pozdějších předpisů; to neplatí, pokud se jedná o zbraně kategorie NO, které nejsou palné, nebo střelivo určené pro tyto zbraně. Předložení tohoto dokumentu je vyžadováno, pouze pokud není možné ověřit platnou zbrojní licenci z Centrálního registru zbraní.
+
+A 5 - Rozhodnutí ve věci závazné informace o sazebním zařazení zboží vydané v souladu s nařízením Evropského parlamentu a Rady (EU) č. 952/2013 ze dne 9. října 2013, kterým se stanoví celní kodex Unie, v platném znění, o zařazení výrobku mezi zbraně z hlediska celního sazebníku v případě nového druhu výrobku nebo nejednoznačnosti jeho zařazení, které není starší 3 let ode dne, kdy nabylo účinku. Předložení tohoto rozhodnutí je vyžadováno pouze v pochybnostech.
+
+Doklady podle § 2 odst. 3 písm. c) zákona:
+
+B 1 - Kupní smlouva nebo jiné obdobné dokumenty, zejména faktura nebo proformafaktura.
+
+B 2 - Doklad o nabytí určeného výrobku nebo povolení výrobce k vývozu.
+
+B 3 - International Import Certificate/Mezinárodní dovozní certifikát (I.I.C.) nebo End User Certificate/Certifikát konečného uživatele (E.U.C.) nebo jiný obdobný dokument.
+
+B 4 - Dovozní licence nebo dovozní povolení vydané dovážející třetí zemí.
+
+### Příloha č. 4 k nařízení vlády č. 282/2013 Sb.
+
+#### Údaje o využívání povolení
+
+a) evidenční číslo povolení,
+
+b) kalendářní rok a pololetí, za které je informace podávána,
+
+c) specifikace stanoveného výrobku,
+
+d) využité množství a měrná jednotka,
+
+e) využitá hodnota v Kč,
+
+f) kurzový rozdíl, pokud ve sledovaném období bylo povolení využíváno a hodnota se liší v důsledku změny kurzu jiné měny než v době vydání licence,
+
+g) případné poznámky k realizovanému obchodu se zbraněmi a střelivem nevojenského charakteru a
+
+h) datum zpracování informace.
+
+### Příloha č. 5 k nařízení vlády č. 282/2013 Sb.
+
+#### Údaje o využívání povolení k vývozu
+
+a) evidenční číslo povolení k vývozu,
+
+b) kalendářní rok a pololetí, za které je informace podávána,
+
+c) název určeného výrobku,
+
+d) obchodní firma nebo název a sídlo nebo jméno, popřípadě jména, příjmení a sídlo příjemce, pokud jde o souhrnné povolení k vývozu,
+
+e) využité množství a měrná jednotka,
+
+f) využitá hodnota v Kč,
+
+g) kurzový rozdíl, pokud ve sledovaném období bylo povolení využíváno a hodnota se liší v důsledku změny kurzu jiné měny než v době vydání licence,
+
+h) případné poznámky k realizovanému obchodu se zbraněmi a střelivem nevojenského charakteru a
+
+i) datum zpracování informace.
+
+### Příloha č. 6 k nařízení vlády č. 282/2013 Sb.
+
+#### Údaje požadované k žádosti o vydání mezinárodního dovozního certifikátu
+
+a) obchodní firma nebo název a sídlo nebo jméno, popřípadě jména, příjmení a sídlo vývozce,
+
+b) obchodní firma nebo název a sídlo nebo jméno, popřípadě jména, příjmení a sídlo konečného uživatele,
+
+c) pořadové číslo odpovídající popisu zboží v povolení k vývozu, pokud jej povolení k vývozu obsahuje,
+
+d) evidenční číslo vydaného povolení, pokud má být mezinárodní dovozní certifikát vystaven k již vydanému povolení,
+
+e) číslo jednací žádosti o vydání povolení, pokud má být mezinárodní dovozní certifikát vystaven k probíhajícímu správnímu řízení o žádosti o vydání povolení,
+
+f) číslo objednávky týkající se zamýšleného dovozu,
+
+g) účel dovozu uvedený též v anglickém jazyce, pokud má být tato informace součástí mezinárodního dovozního certifikátu,
+
+h) specifikace výrobku uvedená též v anglickém jazyce, pokud má být tato informace součástí mezinárodního dovozního certifikátu, jeho množství a měrná jednotka,
+
+i) číslo, položka nebo podpoložka kombinované nomenklatury společného celního sazebníku označující stanovené výrobky, k nimž se mezinárodní dovozní certifikát vydává,
+
+j) celková cena v Kč a zahraniční měně, pokud má být tato informace součástí mezinárodního dovozního certifikátu,
+
+k) prohlášení žadatele, že se zavazuje zboží uvedené v žádosti o vystavení mezinárodního dovozního certifikátu dovézt do České republiky s tím, že nebude měnit jeho směrování, lodění anebo jej reexportovat na jiné místo určení bez předchozího oprávnění zodpovědného českého orgánu, případně i příslušného orgánu zahraničního smluvního státu, je-li to tímto orgánem vyžadováno,
+
+l) závazek žadatele okamžitě oznámit jakoukoliv změnu údajů nebo úmysl je změnit, a pokud bude vyžadován certifikát o ověření dodávky, závazek získat tento certifikát a zabezpečit jeho vystavení v souladu s takovým požadavkem a
+
+m) případné další prohlášení žadatele, je-li vyžadováno zahraničním smluvním státem, pro jehož účely má být mezinárodní dovozní certifikát vystaven.

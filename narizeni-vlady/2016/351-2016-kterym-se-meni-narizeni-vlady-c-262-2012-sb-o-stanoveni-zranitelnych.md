@@ -1,0 +1,57 @@
+---
+title: "Nařízení vlády č. 351/2016 Sb., kterým se mění nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů"
+identifier: "351/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/351/2016-11-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2016-10-24
+effective: 2016-11-01
+last_amended: 2016-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/351"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 351/2016 Sb., kterým se mění nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů
+
+351
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 24. října 2016,
+
+kterým se mění nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 33 odst. 2 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb.:
+
+## Čl. I
+
+Příloha č. 1 k nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění nařízení vlády č. 235/2016 Sb., se mění takto:
+
+1\. Ve sloupci pod písmenem „K“ se za katastrální území a jeho kód „Kozlov u Křižanova 671738“ vkládají katastrální území včetně jejich kódů
+
+> | „Kozlov u Velkého Újezdu | 920673 |
+> |---|---|
+
+> | Kozlov u Velkého Újezdu I. | 929930“. |
+> |---|---|
+
+2\. Ve sloupci pod písmenem „S“ se katastrální území včetně jeho kódu „Slavkov u Města Libavá 990205“ zrušuje.
+
+3\. Ve sloupci pod písmenem „V“ se za katastrální území a jeho kód „Vápovice 776963“ vkládá katastrální území včetně jeho kódu
+
+> | „Varhošť u Města Libavá | 930571“. |
+> |---|---|
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. listopadu 2016.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr zemědělství:
+
+Ing. Jurečka v. r.

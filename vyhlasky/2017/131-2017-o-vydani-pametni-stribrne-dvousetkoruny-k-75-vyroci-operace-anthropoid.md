@@ -1,0 +1,59 @@
+---
+title: "Vyhláška č. 131/2017 Sb., o vydání pamětní stříbrné dvousetkoruny k 75. výročí operace Anthropoid"
+identifier: "131/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/131/2017-05-24"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-04-18
+effective: 2017-05-24
+last_amended: 2017-05-24
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/131"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 131/2017 Sb., o vydání pamětní stříbrné dvousetkoruny k 75. výročí operace Anthropoid
+
+131
+
+VYHLÁŠKA
+
+ze dne 18. dubna 2017
+
+o vydání pamětní stříbrné dvousetkoruny k 75. výročí operace Anthropoid
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 24. května 2017 se k 75. výročí operace Anthropoid vydává pamětní stříbrná mince po 200 Kč (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,2 mm. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.925 \* 13 g \*“.
+
+## § 2
+
+(1) Na lícní straně dvousetkoruny je zobrazena zadní část bombou poškozeného Heydrichova automobilu. Při spodním okraji dvousetkoruny je název státu „ČESKÁ REPUBLIKA“. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ se nachází vlevo od kola automobilu. Značka České mincovny tvořená kompozicí písmen „Č“ a „M“ je umístěna pod názvem státu.
+
+(2) Na rubové straně dvousetkoruny je vyobrazeno okno s rozstřílenou zdí krypty Pravoslavného chrámu svatých Cyrila a Metoděje v Resslově ulici v Praze. V dolní části okna a na zdi pod oknem jsou zachyceny vodovodní hadice. Pod zdí je umístěn text „OPERACE ANTHROPOID“ a v druhém řádku letopočty „1942 - 2017“. Při spodním okraji dvousetkoruny se nacházejí iniciály autorky mince Ireny Hradecké, DiS., které jsou tvořeny spojenými písmeny „I“ a „H“.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 24. května 2017.
+
+Guvernér:
+
+Ing. Rusnok v. r.
+
+### Příloha k vyhlášce č. 131/2017 Sb.
+
+Vyobrazení pamětní stříbrné dvousetkoruny k 75. výročí operace Anthropoid 
+ (lícní a rubová strana)
+
+#### ![sbcr2017c046z0131p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834827/NAHLED/ZOBRAZ/sbcr2017c046z0131p001o001)
+
+#### ![sbcr2017c046z0131p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834829/NAHLED/ZOBRAZ/sbcr2017c046z0131p001o002)

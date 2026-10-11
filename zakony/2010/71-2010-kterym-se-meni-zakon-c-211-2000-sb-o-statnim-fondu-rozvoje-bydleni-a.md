@@ -1,0 +1,40 @@
+---
+title: "Zákon č. 71/2010 Sb., kterým se mění zákon č. 211/2000 Sb., o Státním fondu rozvoje bydlení a o změně zákona č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů, ve znění pozdějších předpisů"
+identifier: "71/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/71/2011-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2009-12-01
+effective: 2011-01-01
+last_amended: 2011-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/71"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 71/2010 Sb., kterým se mění zákon č. 211/2000 Sb., o Státním fondu rozvoje bydlení a o změně zákona č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů, ve znění pozdějších předpisů
+
+71
+
+ZÁKON
+
+ze dne 1. prosince 2009,
+
+kterým se mění zákon č. 211/2000 Sb., o Státním fondu rozvoje bydlení a o změně zákona č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+V § 2 zákona č. 211/2000 Sb., o Státním fondu rozvoje bydlení a o změně zákona č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů, ve znění zákona č. 391/2002 Sb., zákona č. 482/2004 Sb., zákona č. 61/2005 Sb. a zákona č. 179/2005 Sb., se doplňuje odstavec 3, který zní:
+
+> „(3) Dotace ze státního rozpočtu je poskytována Fondu každoročně nejméně ve výši skutečných výdajů určených schváleným rozpočtem Fondu na poskytování nenávratných dotací.“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2011.
+
+Vlček v. r.
+
+Fischer v. r.

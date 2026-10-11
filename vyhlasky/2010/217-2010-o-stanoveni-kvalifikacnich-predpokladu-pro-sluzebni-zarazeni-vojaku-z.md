@@ -1,0 +1,68 @@
+---
+title: "Vyhláška č. 217/2010 Sb., o stanovení kvalifikačních předpokladů pro služební zařazení vojáků z povolání"
+identifier: "217/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/217/2016-09-27"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-06-28
+effective: 2011-01-01
+last_amended: 2016-09-27
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/217"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 217/2010 Sb., o stanovení kvalifikačních předpokladů pro služební zařazení vojáků z povolání ve znění vyhlášky č. 131/2012 Sb. a vyhlášky č. 285/2016 Sb."
+---
+
+# Vyhláška č. 217/2010 Sb., o stanovení kvalifikačních předpokladů pro služební zařazení vojáků z povolání
+
+217
+
+VYHLÁŠKA
+
+ze dne 28. června 2010
+
+o stanovení kvalifikačních předpokladů pro služební zařazení vojáků z povolání
+
+Ministerstvo obrany stanoví podle § 3 odst. 2 písm. b) zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 254/2002 Sb.:
+
+## § 1 – Kvalifikační předpoklady
+
+(1) Kvalifikačním předpokladem je vzdělání<sup>1</sup>) stanovené pro výkon služby v příslušném služebním zařazení.
+
+(2) Pro výkon služby v příslušném služebním zařazení se stanoví toto minimální dosažené vzdělání v hodnostním sboru:
+
+a) mužstvo – střední vzdělání s výučním listem,
+
+b) poddůstojníci – střední vzdělání s výučním listem,
+
+c) praporčíci – střední vzdělání s maturitní zkouškou,
+
+d) nižší důstojníci – vysokoškolské vzdělání v bakalářském studijním programu,
+
+e) vyšší důstojníci – vysokoškolské vzdělání v magisterském studijním programu,
+
+f) generálové – vysokoškolské vzdělání v magisterském studijním programu.
+
+(3) Ustanovení odstavce 2 písm. d) a e) se nepoužijí pro vojáky služebně zařazené na místech v organizačním systému vojenských hudeb. Pro zařazení v tomto systému se stanoví minimální dosažené vzdělání v hodnostním sboru nižší důstojníci a vyšší důstojníci – vyšší odborné vzdělání v konzervatoři.
+
+## § 2 – Přechodné ustanovení
+
+Pro výkon služby v příslušném služebním zařazení se za stanovené kvalifikační předpoklady považují kvalifikační předpoklady stanovené ve vyhlášce č. 221/2007 Sb., kterou se stanoví kvalifikační předpoklady pro služební zařazení vojáků z povolání, nejdéle však po dobu 4 let ode dne nabytí účinnosti této vyhlášky.
+
+## § 3 – Zrušovací ustanovení
+
+Vyhláška č. 221/2007 Sb., kterou se stanoví kvalifikační předpoklady pro služební zařazení vojáků z povolání, se zrušuje.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2011.
+
+Ministr:
+
+MUDr. Barták v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů. 
+ Zákon č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách), ve znění pozdějších předpisů.

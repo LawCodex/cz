@@ -1,0 +1,79 @@
+---
+title: "Nařízení vlády č. 77/2010 Sb., o stanovení některých podmínek pro poskytování podpory v rámci zvláštního opatření na podporu trhu v odvětví mléka a mléčných výrobků"
+identifier: "77/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/77/2010-04-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2010-03-08
+effective: 2010-04-01
+last_amended: 2010-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/77"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 77/2010 Sb., o stanovení některých podmínek pro poskytování podpory v rámci zvláštního opatření na podporu trhu v odvětví mléka a mléčných výrobků
+
+77
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 8. března 2010
+
+o stanovení některých podmínek pro poskytování podpory v rámci zvláštního opatření na podporu trhu v odvětví mléka a mléčných výrobků
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb., zákona č. 85/2004 Sb., zákona č. 441/2005 Sb. a zákona č. 291/2009 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení upravuje v návaznosti na přímo použitelné předpisy Evropské unie<sup>1</sup>) některé podmínky pro poskytování podpory v rámci zvláštního opatření na podporu trhu v odvětví mléka a mléčných výrobků (dále jen „podpora“) Státním zemědělským intervenčním fondem<sup>2</sup>) (dále jen „Fond“).
+
+## § 2 – Žádost o podporu
+
+(1) Žadatelem o podporu je fyzická nebo právnická osoba (dále jen „žadatel“), která dodala nebo prodala mléko nebo mléčné výrobky podle jiného právního předpisu<sup>3</sup>) v období od 1. listopadu 2009 do 31. prosince 2009 (dále jen „rozhodné období“).
+
+(2) Žadatel doručí Fondu žádost o podporu na Fondem vydaném formuláři nejpozději do 15. dubna 2010.
+
+## § 3 – Podmínky poskytnutí podpory
+
+Fond poskytne žadateli podporu za
+
+a) mléko žadatelem dodané v rozhodném období schválenému odběrateli v rámci plnění individuálního referenčního množství mléka, které je evidováno za rozhodné období v systému správy mléčných kvót a bylo oznámeno Fondu podle § 13 odst. 1 nařízení vlády č. 244/2004 Sb., o stanovení bližších podmínek pro uplatnění dávky v odvětví mléka a mléčných výrobků v rámci společné organizace trhu s mlékem a mléčnými výrobky, ve znění nařízení vlády č. 258/2005 Sb. a nařízení vlády č. 293/2007 Sb.,
+
+b) mléko nebo mléčné výrobky žadatelem prodané v rozhodném období v rámci plnění individuálního referenčního množství mléka pro přímý prodej, které je evidováno za rozhodné období v systému správy mléčných kvót a bylo oznámeno Fondu podle § 13 odst. 2 nařízení vlády č. 244/2004 Sb., o stanovení bližších podmínek pro uplatnění dávky v odvětví mléka a mléčných výrobků v rámci společné organizace trhu s mlékem a mléčnými výrobky, ve znění nařízení vlády č. 258/2005 Sb. a nařízení vlády č. 293/2007 Sb.
+
+## § 4 – Stanovení podpory
+
+(1) Fond stanoví sazbu pro výpočet podpory na základě podílu finančních prostředků stanovených České republice nařízením Komise (EU) č. 1233/2009 ze dne 15. prosince 2009, kterým se stanoví zvláštní opatření na podporu trhu v odvětví mléka a mléčných výrobků, v platném znění, a celkového množství dodaného nebo prodaného mléka nebo mléčných výrobků v kilogramech všemi žadateli podle § 3.
+
+(2) Výši podpory žadateli stanoví Fond na základě množství tímto žadatelem dodaného nebo prodaného mléka nebo mléčných výrobků v rozhodném období v kilogramech vynásobeného sazbou stanovenou podle odstavce 1.
+
+## § 5 – Zveřejnění výše sazby
+
+Výši sazby stanovenou podle § 4 odst. 1 zveřejní Fond nejpozději do 15. června 2010 způsobem umožňujícím dálkový přístup.
+
+## § 6 – Neposkytnutí podpory
+
+Fond podporu žadateli neposkytne, je-li podpora pro žadatele nižší než 100,- Kč.
+
+## § 7 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. dubna 2010.
+
+Předseda vlády:
+
+Ing. Fischer, CSc., v. r.
+
+Ministr zemědělství:
+
+Ing. Šebesta v. r.
+
+---
+
+<sup>1</sup>) Nařízení Rady (ES) č. 1234/2007 ze dne 22. října 2007, kterým se stanoví společná organizace zemědělských trhů a zvláštní ustanovení pro některé zemědělské produkty (jednotné nařízení o společné organizaci trhů), v platném znění. 
+ Nařízení Komise (EU) č. 1233/2009 ze dne 15. prosince 2009, kterým se stanoví zvláštní opatření na podporu trhu v odvětví mléka a mléčných výrobků, v platném znění.
+
+<sup>2</sup>) Zákon č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 128/2003 Sb., zákona č. 41/2004 Sb., zákona č. 85/2004 Sb., zákona č. 237/2004 Sb., zákona č. 482/2004 Sb., zákona č. 441/2005 Sb., zákona č. 130/2006 Sb., zákona č. 342/2006 Sb., zákona č. 35/2008 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb. a zákona č. 291/2009 Sb.
+
+<sup>3</sup>) Nařízení vlády č. 244/2004 Sb., o stanovení bližších podmínek pro uplatnění dávky v odvětví mléka a mléčných výrobků v rámci společné organizace trhu s mlékem a mléčnými výrobky, ve znění nařízení vlády č. 517/2004 Sb., nařízení vlády č. 258/2005 Sb. a nařízení vlády č. 293/2007 Sb.

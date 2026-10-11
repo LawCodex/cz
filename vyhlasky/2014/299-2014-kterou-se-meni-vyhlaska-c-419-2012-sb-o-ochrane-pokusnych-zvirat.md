@@ -1,0 +1,66 @@
+---
+title: "Vyhláška č. 299/2014 Sb., kterou se mění vyhláška č. 419/2012 Sb., o ochraně pokusných zvířat"
+identifier: "299/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/299/2015-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-12-11
+effective: 2015-01-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/299"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 299/2014 Sb., kterou se mění vyhláška č. 419/2012 Sb., o ochraně pokusných zvířat
+
+299
+
+VYHLÁŠKA
+
+ze dne 11. prosince 2014,
+
+kterou se mění vyhláška č. 419/2012 Sb., o ochraně pokusných zvířat
+
+Ministerstvo zemědělství stanoví podle § 29 odst. 1 zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění zákona č. 162/1993 Sb., zákona č. 77/2004 Sb., zákona č. 312/2008 Sb., zákona č. 291/2009 Sb. a zákona č. 359/2012 Sb., k provedení § 16a odst. 1 a § 18g odst. 8:
+
+## Čl. I
+
+Vyhláška č. 419/2012 Sb., o ochraně pokusných zvířat, se mění takto:
+
+1\. V § 1 písm. d) se slova „a vzor formuláře projektu pokusů“ zrušují.
+
+2\. § 5 včetně nadpisu zní:
+
+> **„§ 5 – Vzor formuláře žádosti o schválení projektu pokusů**
+
+> Vzor formuláře žádosti o schválení projektu pokusů je uveden v příloze č. 4 k této vyhlášce.“.
+
+3\. Příloha č. 4 zní:
+
+> **„Příloha č. 4 k vyhlášce č. 419/2012 Sb.**
+
+> **Vzor formuláře žádosti o schválení projektu pokusů**
+
+> **![sbcr2014c121z0299p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838849/NAHLED/ZOBRAZ/sbcr2014c121z0299p004u001)“.**
+
+4\. Příloha č. 5 se zrušuje.
+
+5\. V příloze č. 10 se na konci přílohy doplňují věty:
+
+> „Vysvětlivky:
+
+> <sup>1</sup>) Je-li kolonka prázdná, je metoda usmrcování pro jednotlivý druh pokusných zvířat povolena.
+
+> <sup>2</sup>) Je-li kolonka proškrtnutá, je metoda usmrcování pro jednotlivý druh pokusných zvířat zakázána.
+
+> <sup>3</sup>) Je-li v kolonce uveden odkaz na požadavek, je metoda usmrcování pro jednotlivý druh pokusných zvířat povolena a provádí se v souladu s příslušným požadavkem.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2015.
+
+Ministr:
+
+Ing. Jurečka v. r.

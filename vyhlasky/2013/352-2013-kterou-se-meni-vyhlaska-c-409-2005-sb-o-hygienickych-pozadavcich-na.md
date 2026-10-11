@@ -1,0 +1,44 @@
+---
+title: "Vyhláška č. 352/2013 Sb., kterou se mění vyhláška č. 409/2005 Sb., o hygienických požadavcích na výrobky přicházející do přímého styku s vodou a na úpravu vody"
+identifier: "352/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/352/2013-11-23"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2013-10-25
+effective: 2013-11-23
+last_amended: 2013-11-23
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/352"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 352/2013 Sb., kterou se mění vyhláška č. 409/2005 Sb., o hygienických požadavcích na výrobky přicházející do přímého styku s vodou a na úpravu vody
+
+352
+
+VYHLÁŠKA
+
+ze dne 25. října 2013,
+
+kterou se mění vyhláška č. 409/2005 Sb., o hygienických požadavcích na výrobky přicházející do přímého styku s vodou a na úpravu vody
+
+Ministerstvo zdravotnictví stanoví podle § 108 odst. 1 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 223/2013 Sb.:
+
+## Čl. I
+
+Vyhláška č. 409/2005 Sb., o hygienických požadavcích na výrobky přicházející do přímého styku s vodou a na úpravu vody, se mění takto:
+
+1\. V § 1 odst. 1 písm. d) se slova „vodárenské úpravě surové vody“ nahrazují slovy „úpravě vody na vodu pitnou nebo teplou“.
+
+2\. § 6 se zrušuje.
+
+3\. V § 13 se odstavec 4 zrušuje.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministr:
+
+MUDr. Holcát, MBA, v. r.

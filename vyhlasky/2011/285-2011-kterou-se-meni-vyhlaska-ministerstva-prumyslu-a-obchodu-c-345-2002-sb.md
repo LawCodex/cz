@@ -1,0 +1,74 @@
+---
+title: "Vyhláška č. 285/2011 Sb., kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 345/2002 Sb., kterou se stanoví měřidla k povinnému ověřování a měřidla podléhající schválení typu, ve znění pozdějších předpisů"
+identifier: "285/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/285/2012-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2011-09-20
+effective: 2012-01-01
+last_amended: 2012-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/285"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 285/2011 Sb., kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 345/2002 Sb., kterou se stanoví měřidla k povinnému ověřování a měřidla podléhající schválení typu, ve znění pozdějších předpisů
+
+285
+
+VYHLÁŠKA
+
+ze dne 20. září 2011,
+
+kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 345/2002 Sb., kterou se stanoví měřidla k povinnému ověřování a měřidla podléhající schválení typu, ve znění pozdějších předpisů
+
+Ministerstvo průmyslu a obchodu stanoví podle § 27 zákona č. 505/1990 Sb., o metrologii, ve znění zákona č. 119/2000 Sb. a zákona č. 137/2002 Sb., k provedení § 3 odst. 3 a § 6 odst. 1:
+
+## Čl. I
+
+Vyhláška č. 345/2002 Sb., kterou se stanoví měřidla k povinnému ověřování a měřidla podléhající schválení typu, ve znění vyhlášky č. 65/2006 Sb., vyhlášky č. 259/2007 Sb. a vyhlášky č. 204/2010 Sb., se mění takto:
+
+1\. V § 2 se za slovo „vybavena,“ vkládají slova „napínací soupravy na předpjatý beton a horninové kotvy,“.
+
+2\. V příloze v položce 1.3.9 se doplňuje písmeno e), které zní:
+
+> | „e) | vodoměry na studenou a teplou vodu, používané pouze k rozúčtování nákladů | |
+> |---|---|---|
+> | | konečným spotřebitelům | 5 roků“. |
+
+3\. V příloze v položce 1.3.10 písmeno d) zní:
+
+> „d) přepočítávače množství plynu<sup>\*</sup>)
+
+> <table><tbody><tr><td>1. kompaktní</td><td></td><td>5 roků</td></tr><tr><td rowspan="3">2. kombinované:</td><td>A) vyhodnocovací jednotka</td><td>5 roků</td></tr><tr><td>B) snímač teploty</td><td>4 roky</td></tr><tr><td>C) snímač tlaku</td><td>2 roky.</td></tr></tbody></table>
+
+> <sup>\*</sup>) Lhůty platnosti ověření platí za předpokladu, že jsou přepočítávače množství plynu podrobované pravidelné zkrácené zkoušce s dobou platnosti 1 rok.“.
+
+4\. V příloze v položce 2.3.1 písmeni a) se slovo „(kontaktní)“ zrušuje a v příloze v položce 2.3.1 písmeni b) se slovo „(bezkontaktní)“ zrušuje.
+
+5\. V příloze v položce 4.1.2 písmeno a) zní:
+
+> | „a) | pro měření elektrické energie v přímém zapojení | 16 roků<sup>\*</sup>) |
+> |---|---|---|
+
+> <sup>\*</sup>) Jestliže byly indukční elektroměry specifikovaného souboru následně ověřeny hromadně, a to na základě vyhovujícího výsledku provedené statistické výběrové zkoušky, stanovuje se doba platnosti následného ověření elektroměrů tohoto souboru na 4 roky.“.
+
+6\. V příloze v položce 4.1.3 písmeno a) zní:
+
+> | „a) | pro měření elektrické energie v přímém zapojení | 12 roků<sup>\*</sup>) |
+> |---|---|---|
+
+> <sup>\*</sup>) Jestliže byly statické elektroměry specifikovaného souboru následně ověřeny hromadně, a to na základě vyhovujícího výsledku provedené statistické výběrové zkoušky, stanovuje se doba platnosti následného ověření elektroměrů tohoto souboru na 4 roky.“.
+
+## Čl. II – Přechodné ustanovení
+
+Ověření vodoměrů podle dosavadních právních předpisů zůstává v platnosti na dobu, na kterou byly tyto vodoměry ověřeny.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2012.
+
+Ministr:
+
+Ing. Kocourek v. r.

@@ -1,0 +1,60 @@
+---
+title: "Zákon č. 169/2008 Sb., kterým se mění zákon č. 22/2004 Sb., o místním referendu a o změně některých zákonů, ve znění zákona č. 234/2006 Sb., zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, a zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů"
+identifier: "169/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/169/2008-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2008-04-23
+effective: 2008-07-01
+last_amended: 2008-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/169"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 169/2008 Sb., kterým se mění zákon č. 22/2004 Sb., o místním referendu a o změně některých zákonů, ve znění zákona č. 234/2006 Sb., zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, a zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů
+
+169
+
+ZÁKON
+
+ze dne 23. dubna 2008,
+
+kterým se mění zákon č. 22/2004 Sb., o místním referendu a o změně některých zákonů, ve znění zákona č. 234/2006 Sb., zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, a zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o místním referendu
+
+### Čl. I
+
+Zákon č. 22/2004 Sb., o místním referendu a o změně některých zákonů, ve znění zákona č. 234/2006 Sb., se mění takto:
+
+1\. V § 48 odst. 1 se slova „alespoň poloviny“ nahrazují slovy „alespoň 35 %“.
+
+2\. V § 48 se na konci textu odstavce 2 doplňují slova „, a alespoň 25 % oprávněných osob zapsaných v seznamech oprávněných osob“.
+
+## ČÁST DRUHÁ – Změna zákona o obcích
+
+### Čl. II
+
+V § 89 odst. 2 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění zákona č. 234/2006 Sb., se slova „nebo s rozhodnutím přijatým v místním referendu“ zrušují.
+
+## ČÁST TŘETÍ – Změna zákona o hlavním městě Praze
+
+### Čl. III
+
+V § 67 odst. 2 a v § 92 odst. 4 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění zákona č. 22/2004 Sb., se slova „nebo s výsledky místního referenda konaného“ zrušují.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. IV
+
+Tento zákon nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Topolánek v. r.

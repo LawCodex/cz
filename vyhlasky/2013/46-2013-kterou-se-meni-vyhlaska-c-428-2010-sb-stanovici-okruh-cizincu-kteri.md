@@ -1,0 +1,40 @@
+---
+title: "Vyhláška č. 46/2013 Sb., kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění vyhlášky č. 270/2011 Sb."
+identifier: "46/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/46/2013-03-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2013-02-21
+effective: 2013-03-01
+last_amended: 2013-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/46"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 46/2013 Sb., kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění vyhlášky č. 270/2011 Sb.
+
+46
+
+VYHLÁŠKA
+
+ze dne 21. února 2013,
+
+kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění vyhlášky č. 270/2011 Sb.
+
+Ministerstvo vnitra po projednání s Ministerstvem zahraničních věcí stanoví podle § 182 odst. 1 písm. b) zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 427/2010 Sb.:
+
+## Čl. I
+
+V příloze vyhlášky č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, ve znění vyhlášky č. 270/2011 Sb., se bod 1 zrušuje.
+
+Dosavadní body 2 až 32 se označují jako body 1 až 31.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. března 2013.
+
+Ministr:
+
+Kubice v. r.

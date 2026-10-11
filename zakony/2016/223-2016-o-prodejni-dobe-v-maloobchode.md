@@ -1,0 +1,95 @@
+---
+title: "Zákon č. 223/2016 Sb., o prodejní době v maloobchodě"
+identifier: "223/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/223/2019-11-21"
+type: act
+jurisdiction: cz
+language: cs
+date: 2016-06-28
+effective: 2016-10-01
+last_amended: 2019-11-21
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/223"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 223/2016 Sb., o prodejní době v maloobchodě a velkoobchodě ve znění zákona č. 183/2017 Sb. a zákona č. 276/2019 Sb."
+---
+
+# Zákon č. 223/2016 Sb., o prodejní době v maloobchodě
+
+223
+
+ZÁKON
+
+ze dne 28. června 2016
+
+o prodejní době v maloobchodě
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1 – Prodejní doba v maloobchodě
+
+(1) V maloobchodě<sup>1</sup>) je zakázán prodej o těchto státních svátcích a ostatních svátcích<sup>2</sup>)
+
+a) 1. leden - Den obnovy samostatného českého státu a Nový rok,
+
+b) Velikonoční pondělí,
+
+c) 8. květen - Den vítězství,
+
+d) 28. září - Den české státnosti,
+
+e) 28. říjen - Den vzniku samostatného československého státu,
+
+f) 25. prosinec - 1. svátek vánoční a
+
+g) 26. prosinec - 2. svátek vánoční.
+
+(2) V maloobchodě<sup>1</sup>) je zakázán prodej v den 24. prosince - Štědrý den od 12.00 do 24.00 hodin.
+
+(3) Omezení prodejní doby uvedené v odstavcích 1 a 2 se nepoužije na provozování
+
+a) prodejen, jejichž prodejní plocha nepřesahuje 200 m<sup>2</sup>,
+
+b) čerpacích stanic s palivy a mazivy,
+
+c) lékáren,
+
+d) prodejen v místech zvýšené koncentrace cestujících na letištích, železničních stanicích a autobusových nádražích,
+
+e) prodejen ve zdravotnických zařízeních,
+
+f) maloobchodu v době, kdy je vyhlášen stav nebezpečí<sup>3</sup>), nouzový stav<sup>4</sup>), stav ohrožení státu<sup>4</sup>) nebo válečný stav<sup>4</sup>).
+
+## § 2
+
+Omezení stanovené v § 1 odst. 1 a 2 se vztahuje obdobně i na prodejní a výkupní dobu zastaváren, provozoven určených k obchodování s použitým zbožím a zařízení určených ke sběru a výkupu odpadů, a to bez ohledu na velikost prodejní nebo výkupní plochy.
+
+## § 3 – Přestupky
+
+(1) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že provozuje prodej v maloobchodě nebo prodej nebo výkup v provozovně uvedené v § 2 v době, kdy je jejich provozování zakázáno podle § 1 a 2.
+
+(2) Za přestupek podle odstavce 1 lze uložit pokutu do výše 1 000 000 Kč. Dopustí-li se právnická nebo podnikající fyzická osoba přestupku uvedeného v odstavci 1 opakovaně, lze uložit pokutu až do výše 5 000 000 Kč.
+
+(3) Dozor nad dodržováním povinností stanovených tímto zákonem provádí Česká obchodní inspekce<sup>5</sup>).
+
+## § 4 – Účinnost
+
+Tento zákon nabývá účinnosti prvním dnem třetího měsíce následujícího po dni jeho vyhlášení.
+
+Hamáček v. r.
+
+Zeman v. r.
+
+Sobotka v. r.
+
+---
+
+<sup>1</sup>) Příloha č. 4 bod 48 zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+
+<sup>2</sup>) Zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 3 zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění pozdějších předpisů.
+
+<sup>4</sup>) Čl. 2 ústavního zákona č. 110/1998 Sb., o bezpečnosti České republiky, ve znění ústavního zákona č. 300/2000 Sb.
+
+<sup>5</sup>) Zákon č. 64/1986 Sb., o České obchodní inspekci, ve znění pozdějších předpisů.

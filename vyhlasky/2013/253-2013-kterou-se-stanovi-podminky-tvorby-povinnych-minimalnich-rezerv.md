@@ -1,0 +1,112 @@
+---
+title: "Vyhláška č. 253/2013 Sb., kterou se stanoví podmínky tvorby povinných minimálních rezerv"
+identifier: "253/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/253/2025-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2013-07-29
+effective: 2013-10-03
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/253"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 253/2013 Sb., kterou se stanoví podmínky tvorby povinných minimálních rezerv
+
+253
+
+VYHLÁŠKA
+
+ze dne 29. července 2013,
+
+kterou se stanoví podmínky tvorby povinných minimálních rezerv
+
+Česká národní banka stanoví podle § 26 zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 227/2013 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví
+
+a) výši povinných minimálních rezerv,
+
+b) den, od něhož povinná osoba musí ve stanovené výši povinné minimální rezervy udržovat,
+
+c) období, po které se povinné minimální rezervy udržují,
+
+d) okruh závazků, ze kterých se povinné minimální rezervy udržují, a zdroje údajů o těchto závazcích a
+
+e) postup, jakým bude určena stanovená výše povinných minimálních rezerv v případě, že povinná osoba údaje, ze kterých se výše povinných minimálních rezerv stanoví, České národní bance nepředloží.
+
+## § 2 – Vymezení pojmů
+
+Pro účely této vyhlášky se rozumí
+
+a) povinnými minimálními rezervami stanovená část zdrojů, kterou jsou banka, pobočka zahraniční banky a spořitelní a úvěrní družstvo (dále jen „družstevní záložna“) povinny mít uloženu na účtu vedeném u České národní banky,
+
+b) povinnou osobou banka, pobočka zahraniční banky a družstevní záložna,
+
+c) udržovacím obdobím období, po které povinná osoba udržuje povinné minimální rezervy,
+
+d) základem pro výpočet stanovené výše povinných minimálních rezerv okruh závazků, ze kterých se povinné minimální rezervy udržují.
+
+## § 3 – Výše povinných minimálních rezerv
+
+(1) Stanovená výše povinných minimálních rezerv činí
+
+a) pro banky a pobočky zahraničních bank 4 % ze základu pro výpočet stanovené výše povinných minimálních rezerv s výjimkou závazků z repo operací, pro které činí 0 %,
+
+b) pro družstevní záložny 4 % ze základu pro výpočet stanovené výše povinných minimálních rezerv s výjimkou závazků z repo operací, pro které činí 0 %.
+
+(2) Vypočtená stanovená výše povinných minimálních rezerv se zaokrouhluje na celé koruny.
+
+(3) Průměrná výše povinných minimálních rezerv se vypočte jako součet denních konečných stavů účtů, na kterých povinná osoba povinné minimální rezervy udržuje, v jednotlivých dnech udržovacího období dělený počtem kalendářních dní udržovacího období.
+
+(4) Stanovená výše povinných minimálních rezerv je dodržena, jestliže průměrná výše povinných minimálních rezerv za dané udržovací období není nižší než stanovená výše povinných minimálních rezerv.
+
+## § 4 – Udržovací období
+
+(1) Udržovací období začíná první čtvrtek v měsíci a končí středou před prvním čtvrtkem v měsíci následujícím.
+
+(2) V případě zániku povinné osoby je posledním udržovacím obdobím, ve kterém se povinné minimální rezervy udržují, udržovací období, které bezprostředně předchází udržovacímu období, ve kterém
+
+a) v případě banky nebo pobočky zahraniční banky, která nevykonává činnost na území České republiky na základě jednotné licence, zaniká bankovní licence<sup>1</sup>),
+
+b) v případě družstevní záložny zaniká povolení působit jako družstevní záložna<sup>2</sup>), nebo
+
+c) v případě pobočky zahraniční banky působící na území České republiky na základě jednotné licence<sup>3</sup>) ukončí pobočka vykonávání činností stanovených v zákoně upravujícím činnost bank<sup>4</sup>) v České republice anebo v domovském státě pozbyla zahraniční banka oprávnění k výkonu bankovní činnosti.
+
+(3) Povinné minimální rezervy ve výši stanovené touto vyhláškou se udržují ode dne 3. října 2013.
+
+## § 5 – Základ pro výpočet stanovené výše povinných minimálních rezerv
+
+(1) Základ pro výpočet stanovené výše povinných minimálních rezerv tvoří závazky se splatností do dvou let včetně, a to ve formě vkladů a přijatých úvěrů, emitovaných neobchodovatelných cenných papírů a emitovaných ostatních dluhových cenných papírů snížených o závazky vůči ostatním povinným osobám.
+
+(2) Závazky podle odstavce 1 se rozumí závazky v korunách i v cizí měně.
+
+(3) Splatností podle odstavce 1 se rozumí původní splatnost závazků.
+
+(4) Podkladem pro výpočet stanovené výše povinných minimálních rezerv pro jednotlivá udržovací období jsou data čerpaná ze statistických výkazů, které jsou povinné osoby povinny předkládat České národní bance, sestavených ke konci měsíce, který o jeden měsíc předchází měsíc, v němž začíná udržovací období.
+
+## § 6 – Určení stanovené výše povinných minimálních rezerv v případě nepředložení údajů povinnou osobou České národní bance
+
+V případě, že povinná osoba nepředloží příslušné statistické výkazy potřebné ke stanovení základu pro výpočet stanovené výše povinných minimálních rezerv, Česká národní banka odhadne její výši pro příslušné udržovací období na základě předchozích výkazů a oznámí ji písemně příslušné povinné osobě.
+
+## § 7 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 3. října 2013.
+
+Guvernér:
+
+Ing. Singer, Ph.D., v. r.
+
+---
+
+<sup>1</sup>) § 7a zákona č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.
+
+<sup>2</sup>) § 2a zákona č. 87/1995 Sb., o spořitelních a úvěrních družstvech a některých opatřeních s tím souvisejících a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 5a zákona č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.
+
+<sup>4</sup>) § 5d zákona č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.

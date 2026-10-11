@@ -1,0 +1,58 @@
+---
+title: "Vyhláška č. 93/2006 Sb., kterou se mění vyhláška Ministerstva financí č. 186/2002 Sb., kterou se stanoví náležitosti přehledu o předběžném odhadu nákladů na obnovu majetku sloužícího k zabezpečení základních funkcí v území postiženém živelní nebo jinou pohromou a vzor pověření osoby pověřené krajem zjišťováním údajů nutných pro zpracování tohoto přehledu"
+identifier: "93/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/93/2006-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-03-10
+effective: 2006-04-01
+last_amended: 2006-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/93"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 93/2006 Sb., kterou se mění vyhláška Ministerstva financí č. 186/2002 Sb., kterou se stanoví náležitosti přehledu o předběžném odhadu nákladů na obnovu majetku sloužícího k zabezpečení základních funkcí v území postiženém živelní nebo jinou pohromou a vzor pověření osoby pověřené krajem zjišťováním údajů nutných pro zpracování tohoto přehledu
+
+93
+
+VYHLÁŠKA
+
+ze dne 10. března 2006,
+
+kterou se mění vyhláška Ministerstva financí č. 186/2002 Sb., kterou se stanoví náležitosti přehledu o předběžném odhadu nákladů na obnovu majetku sloužícího k zabezpečení základních funkcí v území postiženém živelní nebo jinou pohromou a vzor pověření osoby pověřené krajem zjišťováním údajů nutných pro zpracování tohoto přehledu
+
+Ministerstvo financí stanoví podle § 3 odst. 1 a 3 zákona č. 12/2002 Sb., o státní pomoci při obnově území postiženého živelní nebo jinou pohromou a o změně zákona č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví), ve znění pozdějších předpisů, (zákon o státní pomoci při obnově území), ve znění zákona č. 347/2005 Sb.:
+
+## Čl. I
+
+Vyhláška č. 186/2002 Sb., kterou se stanoví náležitosti přehledu o předběžném odhadu nákladů na obnovu majetku sloužícího k zabezpečení základních funkcí v území postiženém živelní nebo jinou pohromou a vzor pověření osoby pověřené krajem zjišťováním údajů nutných pro zpracování tohoto přehledu, se mění takto:
+
+1\. V § 1 odst. 2 písm. b) se slova „, a jde-li o majetek státu, s nímž je příslušný hospodařit okresní úřad, podle okresního úřadu“ zrušují.
+
+2\. Příloha č. 1 zní:
+
+> **„Příloha č.1 k vyhlášce č.186/2002 Sb.**
+
+> **VZOR**
+
+> **Přehled o předběžném odhadu nákladů na obnovu majetku sloužícího k zabezpečení základních funkcí v území postiženém živelní neb jinou pohromou**
+
+> **![sbcr2006c033z0093u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/819071/NAHLED/ZOBRAZ/sbcr2006c033z0093u001)**
+
+3\. Příloha č. 2 zní:
+
+> **„Příloha č. 2 k vyhlášce č. 186/2002 Sb.**
+
+> **Vzor písemného pověření osoby pověřené krajem ke zjišťování údajů nutných pro zpracování přehledu o předběžném odhadu nákladů na obnovu majetku sloužícího k zabezpečení základních funkcí v území postiženém živelní nebo jinou pohromou**
+
+> **![sbcr2006c033z0093u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/819073/NAHLED/ZOBRAZ/sbcr2006c033z0093u002)**
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2006.
+
+Ministr:
+
+Mgr. Sobotka v. r.

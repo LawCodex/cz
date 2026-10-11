@@ -1,0 +1,127 @@
+---
+title: "Nařízení vlády č. 63/2011 Sb., o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících"
+identifier: "63/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/63/2024-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2011-02-09
+effective: 2011-04-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/63"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 63/2011 Sb., o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících ve znění nařízení vlády č. 49/2015 Sb. a nařízení vlády č. 451/2023 Sb."
+---
+
+# Nařízení vlády č. 63/2011 Sb., o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících
+
+63
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 9. února 2011
+
+o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících
+
+Vláda nařizuje podle § 36 odst. 1 zákona č. 194/2010 Sb., o veřejných službách v přepravě cestujících a o změně dalších zákonů, k provedení § 8 odst. 4:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení
+
+a) vymezuje vozidla, která musí umožňovat přepravu osob s omezenou schopností pohybu a orientace,
+
+b) vymezuje průměrné stáří vozidel ve veřejné linkové dopravě,
+
+c) upravuje způsob prokazování standardů kvality a bezpečnosti.
+
+## § 2 – Vymezení vozidel, která musí umožňovat přepravu osob s omezenou schopností pohybu a orientace
+
+(1) Při poskytování veřejných služeb v přepravě cestujících ve veřejné linkové dopravě na základě smlouvy uzavřené s obcí je minimálně
+
+a) 1 z každých 10 vozidel využitých dopravcem k poskytování těchto služeb přístupné osobám s omezenou schopností pohybu a orientace v souladu s technickými požadavky stanovenými právním předpisem o schvalování technické způsobilosti silničních vozidel<sup>1</sup>), pokud ve smlouvě předpokládaný rozsah veřejných služeb v přepravě cestujících nepřekročí 70 000 km za rok,
+
+b) polovina z vozidel využitých dopravcem k poskytování těchto služeb přístupná osobám s omezenou schopností pohybu a orientace v souladu s technickými požadavky stanovenými právním předpisem o schvalování technické způsobilosti silničních vozidel<sup>1</sup>), pokud ve smlouvě předpokládaný rozsah veřejných služeb v přepravě cestujících překročí 70 000 km za rok.
+
+(2) Při poskytování veřejných služeb v přepravě cestujících ve veřejné linkové dopravě na základě smlouvy uzavřené s krajem je minimálně 1 z každých 10 vozidel využitých dopravcem k poskytování těchto služeb přístupné osobám s omezenou schopností pohybu a orientace v souladu s technickými požadavky stanovenými právním předpisem o schvalování technické způsobilosti silničních vozidel<sup>1</sup>). Při poskytování veřejných služeb v přepravě cestujících ve veřejné linkové dopravě na základě smlouvy, kterou s dopravcem uzavřely společně kraj a obec, se postupuje podle tohoto odstavce, bez ohledu na ve smlouvě předpokládaný rozsah veřejných služeb v přepravě cestujících.
+
+(3) Do celkového počtu vozidel využitých dopravcem k poskytování veřejných služeb v přepravě cestujících podle odstavců 1 a 2 se nezapočítávají vozidla, jejichž první registrace<sup>2</sup>) byla provedena přede dnem nabytí účinnosti tohoto nařízení.
+
+(4) Při poskytování veřejných služeb v přepravě cestujících ve veřejné drážní osobní dopravě na dráze celostátní a regionální obsahují vlaky minimálně 1 drážní vozidlo přístupné osobám s omezenou schopností pohybu a orientace v souladu s technickými požadavky stanovenými právním předpisem o schvalování technické způsobilosti železničních vozidel<sup>3</sup>); to se nevztahuje na vlaky, které obsahují minimálně polovinu drážních vozidel uvedených do provozu přede dnem nabytí účinnosti tohoto nařízení.
+
+(5) Při poskytování veřejných služeb v přepravě cestujících na dráze tramvajové, trolejbusové a speciální jsou všechna drážní vozidla přístupná osobám s omezenou schopností pohybu a orientace v souladu s technickými požadavky stanovenými dopravním řádem drah<sup>4</sup>); to se nevztahuje na drážní vozidla uvedená do provozu přede dnem nabytí účinnosti tohoto nařízení.
+
+(6) Při poskytování veřejných služeb v přepravě cestujících ve veřejné linkové dopravě na základě smlouvy uzavřené po 1. lednu 2015
+
+a) s obcí, pokud ve smlouvě předpokládaný rozsah veřejných služeb v přepravě cestujících nepřekročí 70 000 km za rok,
+
+b) s krajem, nebo
+
+c) společně s krajem a obcí
+
+je minimálně 1 z každých 6 vozidel využitých dopravcem k poskytování těchto služeb přístupné osobám s omezenou schopností pohybu a orientace v souladu s technickými požadavky stanovenými právním předpisem o schvalování technické způsobilosti silničních vozidel<sup>1</sup>).
+
+(7) Do celkového počtu vozidel využitých dopravcem k poskytování veřejných služeb v přepravě cestujících podle odstavce 6 se nezapočítávají vozidla, jejichž první registrace<sup>2</sup>) byla provedena před 1. lednem 2015.
+
+## § 3 – Vymezení průměrného stáří vozidel
+
+(1) Dopravce poskytuje veřejné služby v přepravě cestujících ve veřejné linkové dopravě na základě smlouvy uzavřené s objednatelem vozidly, jejichž průměrné stáří nepřesahuje 9 let. Pro určení stáří vozidla je rozhodné datum jeho první registrace<sup>2</sup>).
+
+(2) Jestliže dopravce poskytuje veřejné služby v přepravě cestujících ve veřejné linkové dopravě na základě smlouvy uzavřené s objednatelem po celou dobu účinnosti smlouvy pouze vozidly, která byla při zahájení plnění smlouvy nová, nejde-li po dobu nezbytně nutnou o použití náhradního vozidla, nepřesahuje průměrné stáří vozidel použitých k plnění smlouvy 11 let. Za nová vozidla se považují vozidla pořízená za účelem plnění smlouvy uzavřené s objednatelem, která dosud nebyla žádným způsobem provozována v České republice ani v jiném státě ani nebyla používána ke zkušebním či předváděcím účelům.
+
+(3) Průměrné stáří vozidel použitých k poskytování veřejných služeb v přepravě cestujících ve veřejné linkové dopravě nepřesahuje 15 let, jestliže dopravce tyto služby poskytuje podle smlouvy
+
+a) uzavřené na základě přímého zadání nebo rozšířené bez nabídkového řízení v mimořádné situaci podle § 22 zákona o veřejných službách v přepravě cestujících a o změně dalších zákonů, nebo
+
+b) uzavřené v krajně naléhavém případě na základě zadání veřejné zakázky v jednacím řízení bez uveřejnění podle zákona o zadávání veřejných zakázek.
+
+## § 4 – Způsob prokazování standardů kvality a bezpečnosti ve veřejné linkové dopravě
+
+(1) Není-li ve smlouvě o veřejných službách v přepravě cestujících sjednáno jinak, předloží dopravce objednateli nejpozději do 31. března každého kalendářního roku seznam vozidel, kterými v předchozím kalendářním roce poskytoval veřejné služby v přepravě cestujících ve veřejné linkové dopravě.
+
+(2) V seznamu podle odstavce 1 dopravce
+
+a) uvede výrobní číslo každého vozidla,
+
+b) uvede datum první registrace<sup>2</sup>) každého vozidla,
+
+c) označí vozidla přístupná osobám s omezenou schopností pohybu a orientace podle § 2,
+
+d) uvede průměrné stáří vozidel k 1. lednu kalendářního roku, za který seznam předkládá,
+
+e) uvede dobu a důvod využití vozidla, pokud se jedná o náhradní vozidlo podle § 3 odst. 2.
+
+(3) Na vyžádání objednatele dopravce doloží seznam podle odstavce 1 osvědčeními o registraci silničního vozidla.
+
+## § 5 – Způsob prokazování standardů kvality a bezpečnosti ve veřejné drážní osobní dopravě
+
+(1) Není-li ve smlouvě o veřejných službách v přepravě cestujících sjednáno jinak, předloží dopravce objednateli nejpozději do 31. března každého kalendářního roku seznam pravidelných řazení vlaků, kterými v předchozím kalendářním roce poskytoval veřejné služby v přepravě cestujících ve veřejné drážní osobní dopravě na dráze celostátní a regionální.
+
+(2) Není-li ve smlouvě o veřejných službách v přepravě cestujících sjednáno jinak, předloží dopravce objednateli nejpozději do 31. března každého kalendářního roku seznam drážních vozidel, kterými v předchozím kalendářním roce poskytoval veřejné služby v přepravě cestujících ve veřejné drážní osobní dopravě na dráze tramvajové, trolejbusové a speciální.
+
+(3) V seznamech podle odstavců 1 a 2 dopravce označí drážní vozidla uvedená do provozu před nabytím účinnosti tohoto nařízení.
+
+(4) V seznamu podle odstavce 1 dopravce označí drážní vozidla přístupná osobám s omezenou schopností pohybu a orientace podle § 2 odst. 4.
+
+## § 6 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. dubna 2011.
+
+Předseda vlády:
+
+RNDr. Nečas v. r.
+
+Ministr dopravy:
+
+JUDr. Bárta v. r.
+
+---
+
+<sup>1</sup>) Vyhláška č. 341/2002 Sb., o schvalování technické způsobilosti a o technických podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb.
+
+<sup>3</sup>) § 49a odst. 3 zákona č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Příloha č. 3 vyhlášky č. 173/1995 Sb., kterou se vydává dopravní řád drah, ve znění pozdějších předpisů.

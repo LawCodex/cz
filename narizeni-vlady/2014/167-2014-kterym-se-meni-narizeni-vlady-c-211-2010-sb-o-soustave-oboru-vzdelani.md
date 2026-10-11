@@ -1,0 +1,165 @@
+---
+title: "Nařízení vlády č. 167/2014 Sb., kterým se mění nařízení vlády č. 211/2010 Sb., o soustavě oborů vzdělání v základním, středním a vyšším odborném vzdělávání, ve znění nařízení vlády č. 367/2012 Sb."
+identifier: "167/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/167/2014-08-31"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2014-07-30
+effective: 2014-08-31
+last_amended: 2014-08-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/167"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 167/2014 Sb., kterým se mění nařízení vlády č. 211/2010 Sb., o soustavě oborů vzdělání v základním, středním a vyšším odborném vzdělávání, ve znění nařízení vlády č. 367/2012 Sb.
+
+167
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 30. července 2014,
+
+kterým se mění nařízení vlády č. 211/2010 Sb., o soustavě oborů vzdělání v základním, středním a vyšším odborném vzdělávání, ve znění nařízení vlády č. 367/2012 Sb.
+
+Vláda nařizuje podle § 3 odst. 5, § 58 odst. 5 a § 83 odst. 1 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění zákona č. 49/2009 Sb. a zákona č. 472/2011 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 211/2010 Sb., o soustavě oborů vzdělání v základním, středním a vyšším odborném vzdělávání, ve znění nařízení vlády č. 367/2012 Sb., se mění takto:
+
+1\. V příloze č. 1 v oddíle C část C2 se řádek
+
+„
+
+| | 41-56-H/01 | Lesní mechanizátor | 41-56-H/001 | Mechanizátor lesní výroby | 17 | 10 | 1, 4, 5, 8a, 9a, 11, 19, 20, 22 | 41-45-L/51 | Mechanizace zemědělství a lesního hospodářství | 2. etapa 2) |
+|---|---|---|---|---|---|---|---|---|---|---|
+
+“
+
+nahrazuje řádkem, který zní:
+
+„
+
+| | 41-56-H/01 | Lesní mechanizátor | 41-56-H/001 | Mechanizátor lesní výroby | 17 | 10 | 1, 4, 5, 8a, 9a, 11, 19, 20, 22 | 41-45-L/51 <br> 23-43-L/51 | Mechanizace zemědělství a lesního hospodářství<br> Provozní technika | 2. etapa 2) |
+|---|---|---|---|---|---|---|---|---|---|---|
+
+“.
+
+2\. V příloze č. 1 v oddíle D části D2 se řádek
+
+> „
+>
+> | | 26-41-M/01 | Elektrotechnika | 26-41-M/002 | Elektrotechnika | 3, 9a, 22 | 1. etapa 1) |
+> |---|---|---|---|---|---|---|
+>
+> “
+
+> nahrazuje řádkem, který zní:
+
+> „
+>
+> | | 26-41-M/01 | Elektrotechnika | 26-41-M/002 | Elektrotechnika | 3, 9a, 22 | 1. etapa 1), 11) |
+> |---|---|---|---|---|---|---|
+>
+> “.
+
+3\. V příloze č. 1 v oddíle D části D2 se pod řádek
+
+> „
+>
+> | | 78-42-M/06 | Kombinované lyceum | 78-42-M/004 | Waldorfské lyceum | 28 | 3. etapa 3) |
+> |---|---|---|---|---|---|---|
+>
+> “
+
+> doplňuje řádek, který zní:
+
+> „
+>
+> | | 78-42-M/07 | Vojenské lyceum | | | 27 | 9), 10) |
+> |---|---|---|---|---|---|---|
+>
+> “.
+
+4\. V příloze č. 1 v oddíle D se na konci části D2 doplňují poznámky k tabulce D2 č. 9) až 11), které znějí:
+
+> „<sup>9</sup>) Obor vzdělání poskytující střední vzdělání s maturitní zkouškou s platností od školního roku 2014/2015 počínaje 1. ročníkem.
+
+> <sup>10</sup>) Obor vzdělání lze studovat pouze na školách zřizovaných Ministerstvem obrany.
+
+> <sup>11</sup>) U oboru vzdělání poskytovaného na školách zřizovaných Ministerstvem obrany platí zdravotní omezení č. 27 podle přílohy č. 2 k tomuto nařízení vlády s platností od školního roku 2015/2016 počínaje 1. ročníkem.“.
+
+5\. V příloze č. 1 v oddíle D části D5 se řádek
+
+> „
+>
+> | | 23-43-L/51 | Provozní technika | 23-43-L/506 | Provozní technika | 21-52-H/01 | Hutník | 28 | 4. etapa 2) |
+> |---|---|---|---|---|---|---|---|---|
+> | | | | | | 21-53-H/01 | Modelář | | |
+> | | | | | | 21-55-H/01 | Slévač | | |
+> | | | | | | 23-51-H/01 | Strojní mechanik | | |
+> | | | | | | 23-52-H/01 | Nástrojař | | |
+> | | | | | | 23-55-H/01 | Klempíř | | |
+> | | | | | | 23-55-H/02 | Karosář | | |
+> | | | | | | 23-56-H/01 | Obráběč kovů | | |
+> | | | | | | 23-57-H/01 | Kovář | | |
+> | | | | | | 23-61-H/01 | Autolakýrník | | |
+> | | | | | | 23-62-H/001 | Optik | | |
+> | | | | | | 23-62-H/01 | Jemný mechanik | | |
+> | | | | | | 23-65-H/01 | Strojník | | |
+> | | | | | | 23-65-H/02 | Lodník | | |
+> | | | | | | 23-65-H/03 | Strojník silničních strojů | | |
+> | | | | | | 23-68-H/01 | Mechanik opravář motorových vozidel | | |
+> | | | | | | 23-69-H/01 | Puškař | | |
+> | | | | | | 36-52-H/01 | Instalatér | | |
+> | | | | | | 36-52-H/02 | Mechanik plynových zařízení | | |
+> | | | | | | 39-41-H/01 | Malíř a lakýrník | | |
+> | | | | | | 41-55-H/01 | Opravář zemědělských strojů | | |
+> | | | | | | 41-56-H/02 | Opravář lesnických strojů | | |
+>
+> “
+
+> nahrazuje řádkem, který zní:
+
+> „
+>
+> | | 23-43-L/51 | Provozní technika | 23-43-L/506 | Provozní technika | 21-52-H/01 | Hutník | 28 | 4. etapa 2) |
+> |---|---|---|---|---|---|---|---|---|
+> | | | | | | 21-53-H/01 | Modelář | | |
+> | | | | | | 21-55-H/01 | Slévač | | |
+> | | | | | | 23-51-H/01 | Strojní mechanik | | |
+> | | | | | | 23-52-H/01 | Nástrojař | | |
+> | | | | | | 23-55-H/01 | Klempíř | | |
+> | | | | | | 23-55-H/02 | Karosář | | |
+> | | | | | | 23-56-H/01 | Obráběč kovů | | |
+> | | | | | | 23-57-H/01 | Kovář | | |
+> | | | | | | 23-61-H/01 | Autolakýrník | | |
+> | | | | | | 23-62-H/001 | Optik | | |
+> | | | | | | 23-62-H/01 | Jemný mechanik | | |
+> | | | | | | 23-65-H/01 | Strojník | | |
+> | | | | | | 23-65-H/02 | Lodník | | |
+> | | | | | | 23-65-H/03 | Strojník silničních strojů | | |
+> | | | | | | 23-68-H/01 | Mechanik opravář motorových vozidel | | |
+> | | | | | | 23-69-H/01 | Puškař | | |
+> | | | | | | 36-52-H/01 | Instalatér | | |
+> | | | | | | 36-52-H/02 | Mechanik plynových zařízení | | |
+> | | | | | | 39-41-H/01 | Malíř a lakýrník | | |
+> | | | | | | 41-55-H/01 | Opravář zemědělských strojů | | |
+> | | | | | | 41-56-H/01 | Lesní mechanizátor | | |
+> | | | | | | 41-56-H/02 | Opravář lesnických strojů | | |
+>
+> “.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 31. srpna 2014.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr školství, mládeže a tělovýchovy:
+
+PhDr. Chládek, MBA, v. r.

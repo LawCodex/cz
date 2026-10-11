@@ -1,0 +1,109 @@
+---
+title: "Vyhláška č. 124/2007 Sb., o vzoru paměťové karty řidiče"
+identifier: "124/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/124/2019-07-04"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2007-05-18
+effective: 2007-07-01
+last_amended: 2019-07-04
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/124"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 124/2007 Sb., o vzoru paměťové karty řidiče ve znění vyhlášky č. 166/2019 Sb."
+---
+
+# Vyhláška č. 124/2007 Sb., o vzoru paměťové karty řidiče
+
+124
+
+VYHLÁŠKA
+
+ze dne 18. května 2007
+
+o vzoru paměťové karty řidiče
+
+Ministerstvo dopravy stanoví podle § 137 odst. 2 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění zákona č. 411/2005 Sb. a zákona č. 226/2006 Sb., k provedení § 110a odst. 7 tohoto zákona:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví v souladu s přímo použitelným předpisem Evropské unie<sup>1</sup>) vzor paměťové karty řidiče.
+
+## § 2 – Paměťová karta řidiče
+
+(1) Paměťová karta řidiče je plastová karta o rozměrech 54 x 86 mm, má bílou barvu a je vybavena paměťovým čipem.
+
+(2) Jednotlivé údaje na paměťové kartě řidiče jsou uvedeny v českém jazyce, tiskacím písmem latinské abecedy, kromě vlastnoručního podpisu držitele paměťové karty řidiče.
+
+(3) Na přední straně paměťové karty řidiče jsou uvedeny tyto údaje:
+
+a) rozeznávací značka České republiky „CZ“, vytištěná v bílé barvě v modrém obdélníku, která je umístěna v kruhu 12 žlutých hvězd,
+
+b) nápis „KARTA ŘIDIČE“ provedený velkými písmeny v českém jazyce,
+
+c) slova „KARTA ŘIDIČE“ v českém jazyce a v jazycích ostatních členských států Evropské unie, která jsou vytištěna v šedé barvě jako součást podkladu přední strany paměťové karty,
+
+d) označení „G2“ provedené velkým písmem v modré barvě.
+
+(4) Na přední straně paměťové karty řidiče jsou pod číselnými kódy uvedeny tyto údaje:
+
+1\. příjmení,
+
+2\. jméno,
+
+3\. datum narození,
+
+4a. datum začátku platnosti karty,
+
+4b. datum vypršení platnosti karty,
+
+4c. název vydávajícího orgánu,
+
+4d. číslo pro administrativní účely,
+
+5a. číslo řidičského průkazu,
+
+5b. číslo karty,
+
+6\. fotografie,
+
+7\. podpis řidiče.
+
+(5) Na zadní straně paměťové karty řidiče jsou uvedeny tyto údaje:
+
+a) nápis „KARTA ŘIDIČE“ provedený velkými písmeny v českém jazyce,
+
+b) vysvětlení jednotlivých údajů podle odstavce 4, včetně uvedení příslušného číselného kódu,
+
+c) poučení o postupu v případě nálezu paměťové karty řidiče,
+
+d) pod čipem je označení národního identifikátoru „e8“ provedené v modré barvě.
+
+(6) Údaj podle odstavce 4 uvedený pod bodem 4d se na paměťové kartě řidiče nevyplňuje.
+
+(7) Vzor paměťové karty řidiče je uveden v příloze k této vyhlášce.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2007.
+
+Ministr:
+
+Ing. Řebíček v. r.
+
+### Příloha k vyhlášce č. 124/2007 Sb.
+
+#### Vzor paměťové karty řidiče
+
+#### Přední strana
+
+#### ![sbcr2007c047z0124_2019c072z0166p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873771/NAHLED/ZOBRAZ/sbcr2007c047z0124_2019c072z0166p001o001)
+
+#### Zadní strana
+
+#### ![sbcr2007c047z0124_2019c072z0166p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873773/NAHLED/ZOBRAZ/sbcr2007c047z0124_2019c072z0166p001o002)
+
+---
+
+<sup>1</sup>) Prováděcí nařízení Komise (EU) 2016/799 ze dne 18. března 2016, kterým se provádí nařízení Evropského parlamentu a Rady (EU) č. 165/2014, kterým se stanoví požadavky na konstrukci, zkoušení, montáž, provoz a opravy tachografů a jejich součástí, v platném znění.

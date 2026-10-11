@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 160/2009 Sb., o vydání pamětních stříbrných dvousetkorun ke 400. výročí úmrtí rabiho Jehudy Löwa ben Becalel"
+identifier: "160/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/160/2009-06-17"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-05-21
+effective: 2009-06-17
+last_amended: 2009-06-17
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/160"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 160/2009 Sb., o vydání pamětních stříbrných dvousetkorun ke 400. výročí úmrtí rabiho Jehudy Löwa ben Becalel
+
+160
+
+VYHLÁŠKA
+
+ze dne 21. května 2009
+
+o vydání pamětních stříbrných dvousetkorun ke 400. výročí úmrtí rabiho Jehudy Löwa ben Becalel
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Ke 400. výročí úmrtí významného židovského učence rabiho Jehudy Löwa ben Becalel se vydává pamětní stříbrná dvousetkoruna (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,35 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je kompozice čtyř šesticípých Davidových hvězd různých velikostí, na nichž jsou v negativním písmu vypsány letopočty připomínající pogromy vůči židovskému obyvatelstvu v českých zemích. Letopočet při levém horním okraji největší Davidovy hvězdy počínající číslicemi „185“ je nedokončený. Číslice „8“ jsou ztvárněny různými způsoby a číslice „0“ je stylizovaná do tvaru kruhu. Při levém, spodním a pravém okraji dvousetkoruny je název státu „ČESKÁ REPUBLIKA“. Jednotlivá písmena ve slově „ČESKÁ“ jsou různě vysoká. Dvouřádkové označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je na pravém okraji největší Davidovy hvězdy. Značka mincovny, která dvousetkorunu razila, je umístěna mezi slovem „REPUBLIKA“ v názvu státu a pravým okrajem největší Davidovy hvězdy.
+
+(2) Na rubu dvousetkoruny je obrys postavy Golema. Mezi obrysem postavy Golema a obvodem dvousetkoruny jsou v negativním písmu zrcadlově obrácené hebrejské texty pocházející z knihy Talmud. Uprostřed postavy Golema je čtyřřádkový text „RABI JEHUDA LÖW BEN BECALEL“ a pod ním letopočty „1609 - 2009“. Za slovy „BEN“ a „BECALEL“ je umístěna tečka. Vpravo od písmene „Ö“ ve slově „LÖW“ jsou umístěny iniciály autora dvousetkoruny, MgA. Josefa Šafaříka, které jsou tvořeny velkým písmenem „J“, do kterého je vloženo menší písmeno „Š“.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 17. června 2009.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### Příloha k vyhlášce č. 160/2009 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny ke 400. výročí úmrtí rabiho Jehudy Löwa ben Becalel
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2009c047z0160p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/833565/NAHLED/ZOBRAZ/sbcr2009c047z0160p001o001)
+
+#### ![sbcr2009c047z0160p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/833567/NAHLED/ZOBRAZ/sbcr2009c047z0160p001o002)

@@ -1,0 +1,64 @@
+---
+title: "Zákon č. 193/2016 Sb., kterým se mění zákon č. 85/2012 Sb., o ukládání oxidu uhličitého do přírodních horninových struktur a o změně některých zákonů, ve znění pozdějších předpisů"
+identifier: "193/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/193/2016-07-02"
+type: act
+jurisdiction: cz
+language: cs
+date: 2016-05-25
+effective: 2016-07-02
+last_amended: 2016-07-02
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/193"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 193/2016 Sb., kterým se mění zákon č. 85/2012 Sb., o ukládání oxidu uhličitého do přírodních horninových struktur a o změně některých zákonů, ve znění pozdějších předpisů
+
+193
+
+ZÁKON
+
+ze dne 25. května 2016,
+
+kterým se mění zákon č. 85/2012 Sb., o ukládání oxidu uhličitého do přírodních horninových struktur a o změně některých zákonů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 85/2012 Sb., o ukládání oxidu uhličitého do přírodních horninových struktur a o změně některých zákonů, ve znění zákona č. 383/2012 Sb. a zákona č. 64/2014 Sb., se mění takto:
+
+1\. V § 2 se na konci písmene k) tečka nahrazuje čárkou a doplňují se písmena l) až q), která znějí:
+
+> „l) vodním sloupcem - vertikálně souvislá masa vody od hladiny po dnové sedimenty vodního útvaru,
+
+> m) geologickou formací - soubor hornin, které lze podle jejich fyzikálních a chemických vlastností, v kombinaci s pozicí v zemské kůře, rozlišit od jiných souborů hornin a zmapovat,
+
+> n) oblakem oxidu uhličitého - rozptýlený objem oxidu uhličitého v geologické formaci,
+
+> o) migrací - pohyb oxidu uhličitého uvnitř úložného komplexu,
+
+> p) uzavřením úložiště - definitivní ukončení vtláčení oxidu uhličitého do daného úložiště,
+
+> q) dobou po uzavření - doba po uzavření úložiště, včetně doby po přechodu povinnosti na příslušný orgán.“.
+
+2\. V § 5 se za odstavec 2 vkládá nový odstavec 3, který včetně poznámky pod čarou č. 21 zní:
+
+> „(3) Žadatel může požádat při popisu a posuzování plánovaného úložného komplexu a okolní oblasti, které se provádí nejlepšími osvědčenými postupy ve třech krocích podle kritérií stanovených zákonem o geologických pracích<sup>21</sup>), o výjimku z jednoho nebo více těchto kritérií. Obvodní báňský úřad může povolit výjimku z jednoho nebo více těchto kritérií, pokud žadatel prokázal, že povolením výjimky nedojde k nepříznivému ovlivnění rozhodování o vhodnosti plánovaného úložného komplexu.
+
+> <sup>21</sup>) Příloha k zákonu č. 62/1988 Sb., o geologických pracích, ve znění pozdějších předpisů.“.
+
+Dosavadní odstavec 3 se označuje jako odstavec 4.
+
+3\. V § 7 odst. 2 se slova „jiného právního předpisu<sup>10</sup>)“ nahrazují slovy „zákona o posuzování vlivů na životní prostředí<sup>9</sup>)“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Hamáček v. r.
+
+Zeman v. r.
+
+Sobotka v. r.

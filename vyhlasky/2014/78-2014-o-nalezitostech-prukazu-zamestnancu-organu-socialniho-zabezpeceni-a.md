@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 78/2014 Sb., o náležitostech průkazu zaměstnanců orgánů sociálního zabezpečení a orgánů nemocenského pojištění pověřených kontrolou plnění povinností uložených zaměstnavatelům a osobám samostatně výdělečně činným"
+identifier: "78/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/78/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-04-23
+effective: 2014-05-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/78"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 78/2014 Sb., o náležitostech průkazu zaměstnanců orgánů sociálního zabezpečení a orgánů nemocenského pojištění pověřených kontrolou plnění povinností uložených zaměstnavatelům a osobám samostatně výdělečně činným
+
+78
+
+VYHLÁŠKA
+
+ze dne 23. dubna 2014
+
+o náležitostech průkazu zaměstnanců orgánů sociálního zabezpečení a orgánů nemocenského pojištění pověřených kontrolou plnění povinností uložených zaměstnavatelům a osobám samostatně výdělečně činným
+
+Ministerstvo práce a sociálních věcí stanoví podle § 127 odst. 3 zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění zákona č. 64/2014 Sb., podle § 199 odst. 1 zákona č. 187/2006 Sb., o nemocenském pojištění, ve znění zákona č. 64/2014 Sb., a podle zákona č. 324/2025 Sb., o povinném příspěvku na produkty spoření na stáří a o změně souvisejících zákonů (zákon o povinném příspěvku na produkty spoření na stáří):
+
+## § 1
+
+Průkaz zaměstnance orgánu sociálního zabezpečení a orgánu nemocenského pojištění pověřeného kontrolou plnění povinností uložených zaměstnavatelům a osobám samostatně výdělečně činným zákonem o organizaci a provádění sociálního zabezpečení, zákonem o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti , zákonem o nemocenském pojištění a zákonem o povinném příspěvku na produkty spoření na stáří obsahuje:
+
+a) označení „Průkaz zaměstnance pověřeného kontrolou“,
+
+b) název orgánu, který průkaz vydal,
+
+c) velký státní znak,
+
+d) fotografii zaměstnance odpovídající požadavkům kladeným na fotografie podle vyhlášky k provedení zákona o občanských průkazech a některých ustanovení zákona o cestovních dokladech a zákona o základních registrech,
+
+e) titul, jméno, popřípadě jména, a příjmení zaměstnance,
+
+f) osobní číslo zaměstnance,
+
+g) kontrolní oprávnění vyjádřené slovy „Držitel tohoto průkazu má oprávnění provádět kontrolu plnění povinností uložených zaměstnavatelům a osobám samostatně výdělečně činným zákonem č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, zákonem č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů, zákonem č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů, a zákonem č. 324/2025 Sb., o povinném příspěvku na produkty spoření na stáří.“, s tím, že v průkazu bude uveden pouze rozsah kontrolního oprávnění vyjádřený v souladu s působností příslušného orgánu sociálního zabezpečení a orgánu nemocenského pojištění,
+
+h) číslo průkazu,
+
+i) datum vydání průkazu,
+
+j) úřední razítko orgánu, který průkaz vydal, a podpis fyzické osoby oprávněné vydat průkaz.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem 1. května 2014.
+
+Ministryně:
+
+Mgr. Marksová v. r.
+
+---

@@ -1,0 +1,44 @@
+---
+title: "Nařízení vlády č. 212/2008 Sb., o druhém zvýšení příplatků k důchodu v roce 2008"
+identifier: "212/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/212/2008-08-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2008-06-02
+effective: 2008-08-01
+last_amended: 2008-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/212"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 212/2008 Sb., o druhém zvýšení příplatků k důchodu v roce 2008
+
+212
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 2. června 2008
+
+o druhém zvýšení příplatků k důchodu v roce 2008
+
+Vláda nařizuje podle § 8 zákona č. 198/1993 Sb., o protiprávnosti komunistického režimu a o odporu proti němu, a podle § 2 odst. 7 zákona č. 357/2005 Sb., o ocenění účastníků národního boje za vznik a osvobození Československa a některých pozůstalých po nich, o zvláštním příspěvku k důchodu některým osobám, o jednorázové peněžní částce některým účastníkům národního boje za osvobození v letech 1939 až 1945 a o změně některých zákonů:
+
+## § 1
+
+(1) Příplatky k důchodu podle nařízení vlády č. 622/2004 Sb., o poskytování příplatku k důchodu ke zmírnění některých křivd způsobených komunistickým režimem v oblasti sociální, ve znění nařízení vlády č. 405/2005 Sb. a nařízení vlády č. 369/2007 Sb., a podle zákona č. 357/2005 Sb., o ocenění účastníků národního boje za vznik a osvobození Československa a některých pozůstalých po nich, o zvláštním příspěvku k důchodu některým osobám, o jednorázové peněžní částce některým účastníkům národního boje za osvobození v letech 1939 až 1945 a o změně některých zákonů, ve znění zákona č. 261/2007 Sb., (dále jen „příplatek“), přiznané před 1. srpnem 2008 se zvyšují o 3,6 % částky příplatku, která náleží ke dni, od něhož se příplatek zvyšuje. Příplatky se zvyšují od splátky důchodu, s nímž se vyplácejí, splatné po 31. červenci 2008.
+
+(2) Částka příplatku se po zvýšení podle odstavce 1 zaokrouhluje na celé koruny nahoru.
+
+## § 2
+
+Toto nařízení nabývá účinnosti dnem 1. srpna 2008.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+RNDr. Nečas v. r.

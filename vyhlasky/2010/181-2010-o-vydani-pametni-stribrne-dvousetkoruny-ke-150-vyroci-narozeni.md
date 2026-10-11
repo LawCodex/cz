@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 181/2010 Sb., o vydání pamětní stříbrné dvousetkoruny ke 150. výročí narození Gustava Mahlera"
+identifier: "181/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/181/2010-06-09"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-05-17
+effective: 2010-06-09
+last_amended: 2010-06-09
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/181"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 181/2010 Sb., o vydání pamětní stříbrné dvousetkoruny ke 150. výročí narození Gustava Mahlera
+
+181
+
+VYHLÁŠKA
+
+ze dne 17. května 2010
+
+o vydání pamětní stříbrné dvousetkoruny ke 150. výročí narození Gustava Mahlera
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dne 9. června 2010 se ke 150. výročí narození hudebního skladatele a dirigenta Gustava Mahlera vydává pamětní stříbrná dvousetkoruna (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,35 mm. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“.
+
+## § 2
+
+(1) Na líci dvousetkoruny je na notovém papíře přepis části „Adagietto“ z 5. symfonie Gustava Mahlera. Při levém okraji dvousetkoruny je název státu „ČESKÁ REPUBLIKA“. Pod notovým papírem je označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ a značka České mincovny tvořená kompozicí písmen „Č“ a „M“. Při pravém spodním okraji notového papíru je umístěna iniciála autorky lícní strany dvousetkoruny, Miroslavy Česlové, která je tvořena písmeny „ČM“ umístěnými nad sebou.
+
+(2) Na rubu dvousetkoruny je portrét Gustava Mahlera. Na okraji límečku portrétu je podpis hudebního skladatele „GUSTAV MAHLER“. Letopočty „1860-2010“ jsou umístěny přes límeček. Při spodním okraji dvousetkoruny pod letopočtem „1860“ jsou umístěny iniciály autora rubové strany dvousetkoruny, MgA. Josefa Oplištila, které jsou tvořeny spojenými písmeny „OJ“.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 9. června 2010.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc., v. r.
+
+### Příloha k vyhlášce č. 181/2010 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny ke 150. výročí narození Gustava Mahlera
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2010c063z0181p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889605/NAHLED/ZOBRAZ/sbcr2010c063z0181p001o001)
+
+#### ![sbcr2010c063z0181p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889607/NAHLED/ZOBRAZ/sbcr2010c063z0181p001o002)

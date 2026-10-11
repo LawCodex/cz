@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 12/2013 Sb., kterou se mění vyhláška č. 51/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při úpravě a zušlechťování nerostů, ve znění pozdějších předpisů"
+identifier: "12/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/12/2013-02-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2013-01-10
+effective: 2013-02-01
+last_amended: 2013-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/12"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 12/2013 Sb., kterou se mění vyhláška č. 51/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při úpravě a zušlechťování nerostů, ve znění pozdějších předpisů
+
+12
+
+VYHLÁŠKA
+
+ze dne 10. ledna 2013,
+
+kterou se mění vyhláška č. 51/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při úpravě a zušlechťování nerostů, ve znění pozdějších předpisů
+
+Český báňský úřad stanoví podle § 6 odst. 6 písm. a) zákona České národní rady č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona č. 184/2011 Sb.:
+
+## Čl. I
+
+V § 6 vyhlášky č. 51/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při úpravě a zušlechťování nerostů, ve znění vyhlášky č. 395/2011 Sb., odstavec 7 včetně poznámky pod čarou č. 54 zní:
+
+> „(7) Povrch plechů musí být rýhovaný nebo jinak zdrsněný. Požadavek kontroly stavu opotřebení krycích plechů a mřížových roštů se považuje za splněný, postupuje-li se podle určené technické normy<sup>54</sup>), týkající se navrhování konstrukcí. Kontrolovaný prvek se vymění, jestliže jeho tloušťka je menší, než stanovuje pevnostní výpočet uvedený v projektu nebo ve znaleckém posudku.
+
+> <sup>54</sup>) Například ČSN ISO 13822 Zásady navrhování konstrukcí – Hodnocení existujících konstrukcí.“.
+
+## Čl. II
+
+Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu poskytování informací v oblasti technických norem a předpisů a pravidel pro služby informační společnosti, ve znění směrnice 98/48/ES.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. února 2013.
+
+Předseda:
+
+Ing. Pěgřímek v. r.

@@ -1,0 +1,209 @@
+---
+title: "Vyhláška č. 300/2014 Sb., kterou se mění vyhláška č. 383/2009 Sb., o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech), ve znění pozdějších předpisů"
+identifier: "300/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/300/2015-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-12-11
+effective: 2015-01-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/300"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 300/2014 Sb., kterou se mění vyhláška č. 383/2009 Sb., o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech), ve znění pozdějších předpisů
+
+300
+
+VYHLÁŠKA
+
+ze dne 11. prosince 2014,
+
+kterou se mění vyhláška č. 383/2009 Sb., o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech), ve znění pozdějších předpisů
+
+Ministerstvo financí stanoví podle § 37b odst. 1 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, k provedení § 4 odst. 8 tohoto zákona:
+
+## Čl. I
+
+Vyhláška č. 383/2009 Sb., o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech), ve znění vyhlášky č. 434/2010 Sb., vyhlášky č. 437/2011 Sb., vyhlášky č. 461/2012 Sb. a vyhlášky č. 472/2013 Sb., se mění takto:
+
+1\. V § 3 odst. 1 písm. a) se slova „nebo u jednotlivých částí účetních výkazů za dílčí konsolidační celek státu“ zrušují.
+
+2\. V § 3 odst. 1 písmeno b) zní:
+
+> „b) Pomocného konsolidačního přehledu; rozsah jednotlivých částí Pomocného konsolidačního přehledu a jejich vzory stanoví příloha č. 3a k této vyhlášce, a“.
+
+3\. V § 3a odst. 1 se za slova „řízení veřejných financí“ vkládají slova „a pro účely sestavení účetních výkazů za Českou republiku a za dílčí konsolidační celky státu“.
+
+4\. V § 3a se za odstavec 2 vkládá nový odstavec 3, který zní:
+
+> „(3) Údaje pro účely sestavení účetních výkazů za Českou republiku a za dílčí konsolidační celky státu v rámci Pomocného analytického přehledu nevykazují a nepředávají obce, jejichž počet obyvatel zveřejněný Českým statistickým úřadem je na počátku bezprostředně předcházejícího účetního období menší než 10 000.“.
+
+Dosavadní odstavce 3 až 5 se označují jako odstavce 4 až 6.
+
+5\. V § 5 odst. 1 se věta druhá zrušuje.
+
+6\. V § 5 se za odstavec 3 vkládá nový odstavec 4, který včetně poznámky pod čarou č. 1 zní:
+
+> „(4) Vybrané účetní jednotky nepředávají účetní záznamy podle § 3a do centrálního systému účetních informací státu, pokud převážně obsahují skutečnosti nebo informace, které jsou podle jiného právního předpisu<sup>1</sup>) utajovanými informacemi.
+
+> <sup>1</sup>) Zákon č. 148/1998 Sb., o ochraně utajovaných skutečností, ve znění pozdějších předpisů. 
+>  Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů. 
+>  Zákon č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů. 
+>  Zákon č. 154/1994 Sb., o Bezpečnostní informační službě, ve znění pozdějších předpisů. 
+>  Zákon č. 67/1992 Sb., o Vojenském obranném zpravodajství, ve znění pozdějších předpisů.“.
+
+Dosavadní odstavce 4 až 10 se označují jako odstavce 5 až 11.
+
+7\. Příloha č. 2a zní:
+
+> **„Příloha č. 2a k vyhlášce č. 383/2009 Sb.**
+
+> **Pomocný analytický přehled**
+
+> Část I: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech
+
+> **![sbcr2014c122z0300p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838851/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u001)**
+
+> Část II: Vybrané náklady od počátku roku za hlavní a hospodářskou činnost
+
+> **![sbcr2014c122z0300p001u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838853/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u002)**
+
+> Část III: Vybrané výnosy od počátku roku za hlavní a hospodářskou činnost
+
+> **![sbcr2014c122z0300p001u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838855/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u003)**
+
+> Část IV: DNM a DHM - typy změn na straně MD a D vybraných rozvahových účtů
+
+> **![sbcr2014c122z0300p001u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838857/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u004)**
+
+> Část V: Zásoby - typy změn na straně MD a D vybraných rozvahových účtů
+
+> **![sbcr2014c122z0300p001u005.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838859/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u005)**
+
+> Část VI: Pohledávky - typy změn na straně MD a D vybraných rozvahových účtů
+
+> **![sbcr2014c122z0300p001u006.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838861/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u006)**
+
+> Část VII: Závazky - typy změn na straně MD a D vybraných rozvahových účtů
+
+> **![sbcr2014c122z0300p001u007.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838863/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u007)**
+
+> Část VIII: Ostatní aktiva - typy změn na straně MD a D vybraných rozvahových účtů
+
+> **![sbcr2014c122z0300p001u008.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838865/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u008)**
+
+> Část IX: Jmění účetní jednotky - typy změn na straně MD a D vybraných rozvahových účtů
+
+> **![sbcr2014c122z0300p001u009.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838867/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u009)**
+
+> Část X: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech v členění podle jednotlivých partnerů aktiva / pasiva nebo partnerů transakce
+
+> **![sbcr2014c122z0300p001u010.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839549/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u010)**
+
+> Část XI: Vybrané náklady a výnosy od počátku roku za hlavní a hospodářskou činnost v členění podle jednotlivých partnerů transakce
+
+> **![sbcr2014c122z0300p001u011.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839551/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u011)**
+
+> Část XII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů transakce
+
+> **![sbcr2014c122z0300p001u012.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839553/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u012)**
+
+> Část XIII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů aktiva / pasiva a partnerů transakce
+
+> **![sbcr2014c122z0300p001u013.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839555/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u013)**
+
+> Část XIV: Přehled majetkových účastí a jejich změn
+
+> **![sbcr2014c122z0300p001u014.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839557/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u014)**
+
+> Část XV: Přehled podrozvahových účtů
+
+> **![sbcr2014c122z0300p001u015.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839559/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u015)**
+
+> Část XVI: Počáteční a koncové stavy na vybraných podrozvahových účtech v členění podle jednotlivých partnerů podrozvahového účtu
+
+> **![sbcr2014c122z0300p001u016.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839561/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u016)**
+
+> Část XVII: Vysvětlení významných částek
+
+> **![sbcr2014c122z0300p001u017.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839563/NAHLED/ZOBRAZ/sbcr2014c122z0300p001u017)“.**
+
+8\. Příloha č. 2b včetně poznámky zní:
+
+> **„Příloha č. 2b k vyhlášce č. 383/2009 Sb.**
+
+> **Termíny pro předávání Pomocného analytického přehledu**
+
+> | Číslo výkazu | Název účetního záznamu | Četnost předávání účetního záznamu |
+> |---|---|---|
+> | 30 | Část I: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a<br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 30 | Část II: Vybrané náklady od počátku roku za hlavní a hospodářskou činnost | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 30 | Část III: Vybrané výnosy od počátku roku za hlavní a hospodářskou činnost | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 30 | Část IV: DNM a DHM - typy změn na straně MD a D vybraných rozvahových účtů | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 30 | Část V: Zásoby - typy změn na straně MD a D vybraných rozvahových účtů | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 30 | Část VI: Pohledávky - typy změn na straně MD a D vybraných rozvahových účtů | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 30 | Část VII: Závazky - typy změn na straně MD a D vybraných rozvahových účtů | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 30 | Část VIII: Ostatní aktiva - typy změn na straně MD a D vybraných rozvahových účtů | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 30 | Část IX: Jmění účetní jednotky - typy změn na straně MD a D vybraných rozvahových účtů | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 31 | Část X: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech v členění podle jednotlivých partnerů aktiva / pasiva nebo partnerů transakce | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku, |
+> | 32 | Část XI: Vybrané náklady a výnosy od počátku roku za hlavní a hospodářskou činnost v členění podle jednotlivých partnerů transakce | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku |
+> | 33 | Část XII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů transakce | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku |
+> | 34 | Část XIII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů aktiva / pasiva a partnerů transakce | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. do 30. dne následujícího měsíce a <br> ročně, tj. ve stavu k 31. 12. do 25. 2. následujícího roku |
+> | 35 | Část XIV: Přehled majetkových účastí a jejich změn | ročně - ve stavu k 31. 12. do 25. 2. následujícího roku |
+> | 36 | Část XV: Přehled podrozvahových účtů | ročně - ve stavu k 31. 12. do 25. 2. následujícího roku |
+> | 37 | Část XVI: Počáteční a koncové stavy na vybraných podrozvahových účtech v členění podle jednotlivých partnerů podrozvahového účtu | ročně - ve stavu k 31. 12. do 25. 2. následujícího roku |
+> | 38 | Část XVII: Vysvětlení významných částek | ročně - ve stavu k 31. 12. do 25. 2. následujícího roku |
+
+> Poznámka:
+
+> Má-li vybraná účetní jednotka povinnost zachovávat mlčenlivost o skutečnostech, které jsou požadovány v jednotlivých částech Pomocného analytického přehledu, sestavuje jednotlivé části Pomocného analytického přehledu v agregované podobě způsobem stanoveným v Technickém manuálu centrálního systému účetních informací státu.
+
+> Připadne-li termín předání na sobotu, neděli nebo svátek, je posledním dnem lhůty nejbližší příští pracovní den.“.
+
+9\. Příloha č. 3 včetně poznámky zní:
+
+> **„Příloha č. 3 k vyhlášce č. 383/2009 Sb.**
+
+> **Termíny pro předávání konsolidačních účetních záznamů**
+
+> | Číslo výkazu | Název účetního záznamu | Četnost předávání účetního záznamu |
+> |---|---|---|
+> | 1 | Rozvaha | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 25. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 20. 2. následujícího roku,<br> zdravotní pojišťovny: čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 60. dne od konce vykazovaného období, a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 28. 2. následujícího roku, vybrané účetní jednotky, které předávají účetní záznamy podle § 3a této vyhlášky: čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 30. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 25. 2. následujícího roku. |
+> | 2 | Výkaz zisku a ztráty | čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 25. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 20. 2. následujícího roku,<br> zdravotní pojišťovny: čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 60. dne od konce vykazovaného období, a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 28. 2. následujícího roku, vybrané účetní jednotky, které předávají účetní záznamy podle § 3a této vyhlášky: čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 30. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 25. 2. následujícího roku. |
+> | 3 | Přehled o peněžních tocích a o změnách vlastního kapitálu | ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 20. 2. následujícího roku,<br> zdravotní pojišťovny: ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 28. 2. následujícího roku,<br> vybrané účetní jednotky, které předávají účetní záznamy podle § 3a této vyhlášky: ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 25. 2. následujícího roku. |
+> | 4 | Příloha | čtvrtletně - ve stavu k 31. 3., 30. 6., 30.9. - mezitímní účetní závěrka, a to 25. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 20. 2. následujícího roku,<br> zdravotní pojišťovny: čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 60. dne od konce vykazovaného období, a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 28. 2. následujícího roku, vybrané účetní jednotky, které předávají účetní záznamy podle § 3a této vyhlášky: čtvrtletně - ve stavu k 31. 3., 30. 6., 30. 9. - mezitímní účetní závěrka, a to do 30. dne následujícího měsíce a ročně, tj. ve stavu k 31. 12. - řádná účetní závěrka, a to do 25. 2. následujícího roku. |
+> | 5 | Pomocný konsolidační přehled | ročně, tj. ve stavu k 31. 12., a to do 31. 7. následujícího roku |
+> | 6 | Seznam účetních jednotek patřících do dílčího konsolidačního celku státu | ročně, tj. ve stavu k 31. 12. předchozího roku, a to do 15. 1. běžného roku |
+
+> Poznámka:
+
+> Připadne-li termín předání na sobotu, neděli nebo svátek, je posledním dnem lhůty nejbližší příští pracovní den.“.
+
+10\. Za přílohu č. 3 se vkládá nová příloha č. 3a, která zní:
+
+> **„Příloha č. 3a k vyhlášce č. 383/2009 Sb.**
+
+> **Pomocný konsolidační přehled**
+
+> **![sbcr2014c122z0300p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/839565/NAHLED/ZOBRAZ/sbcr2014c122z0300p003u001)“.**
+
+## Čl. II – Přechodná ustanovení
+
+1\. Ustanovení vyhlášky č. 383/2009 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, se použijí poprvé v účetním období započatém 1. ledna 2015 a později, není-li dále stanoveno jinak.
+
+2\. První předání konsolidačního účetního záznamu podle § 3 odst. 1 písm. b) vyhlášky č. 383/2009 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, provádí konsolidované jednotky státu podle konsolidační vyhlášky státu ve stavu k 31. prosinci 2016, a to ve lhůtě do 31. července 2017 s tím, že nemusejí vykazovat za účetní období roku 2016 stavy minulého období.
+
+3\. První předání konsolidačního účetního záznamu podle § 3 odst. 1 písm. c) Seznam účetních jednotek patřících do dílčího konsolidačního celku státu provádí spravující jednotky podle konsolidační vyhlášky státu ve stavu k 31. prosinci 2014, a to ve lhůtě do 31. března 2015.
+
+4\. V účetním období roku 2015 nevykazují a nepředávají příspěvkové organizace údaje pro účely sestavení účetních výkazů za Českou republiku a za dílčí konsolidační celky státu v rámci Pomocného analytického přehledu.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2015.
+
+Ministr:
+
+Ing. Babiš v. r.

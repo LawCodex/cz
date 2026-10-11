@@ -1,0 +1,165 @@
+---
+title: "Nařízení vlády č. 47/2007 Sb., o stanovení některých podmínek poskytování jednotné platby na plochu zemědělské půdy a některých podmínek poskytování informací o zpracování zemědělských výrobků pocházejících z půdy uvedené do klidu"
+identifier: "47/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/47/2017-03-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2007-03-07
+effective: 2007-03-15
+last_amended: 2017-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/47"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 47/2007 Sb., o stanovení některých podmínek poskytování jednotné platby na plochu zemědělské půdy a některých podmínek poskytování informací o zpracování zemědělských výrobků pocházejících z půdy uvedené do klidu ve znění nařízení vlády č. 83/2009 Sb., nařízení vlády č. 480/2009 Sb., nařízení vlády č. 369/2010 Sb., nařízení vlády č. 448/2012 Sb., nařízení vlády č. 400/2013 Sb., nařízení vlády č. 308/2014 Sb., nařízení vlády č. 50/2015 Sb. a nařízení vlády č. 49/2017 Sb."
+---
+
+# Nařízení vlády č. 47/2007 Sb., o stanovení některých podmínek poskytování jednotné platby na plochu zemědělské půdy a některých podmínek poskytování informací o zpracování zemědělských výrobků pocházejících z půdy uvedené do klidu
+
+47
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 7. března 2007
+
+o stanovení některých podmínek poskytování jednotné platby na plochu zemědělské půdy a některých podmínek poskytování informací o zpracování zemědělských výrobků pocházejících z půdy uvedené do klidu
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb. a zákona č. 441/2005 Sb., (dále jen „zákon“) a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení<sup>1</sup>) upravuje v návaznosti na přímo použitelné předpisy Evropských společenství<sup>2</sup>) některé podmínky poskytování jednotné platby na plochu zemědělské půdy (dále jen „platba“) a některé podmínky poskytování informací o zpracování zemědělských výrobků pocházejících z půdy uvedené do klidu Státnímu zemědělskému intervenčnímu fondu<sup>3</sup>) (dále jen „Fond“).
+
+## § 2 – Žadatel o platbu
+
+Žadatelem o platbu je fyzická nebo právnická osoba obhospodařující zemědělskou půdu evidovanou na ni v evidenci využití zemědělské půdy podle uživatelských vztahů (§ 3a a 3b zákona) (dále jen „evidence“), která doručí Fondu na jím vydaném formuláři žádost o platbu pro příslušný kalendářní rok (dále jen „žádost“).
+
+## § 3 – Žádost o platbu
+
+(1) Žádost kromě náležitostí stanovených přímo použitelným předpisem Evropských společenství<sup>4</sup>) obsahuje
+
+a) seznam a výměru všech půdních bloků (§ 3a odst. 3 zákona), popřípadě dílů půdních bloků (§ 3a odst. 4 zákona) zemědělské půdy evidovaných v evidenci na žadatele<sup>4</sup>),
+
+b) označení a způsob využití<sup>5</sup>) všech půdních bloků, popřípadě dílů půdních bloků podle písmene a), jichž se podaná žádost týká,
+
+c) prohlášení žadatele o tom, že se zavazuje dodržovat podmínky dobrého zemědělského a environmentálního stavu uvedené v přílohách č. 2 a 4 k nařízení vlády č. 48/2017 Sb., o stanovení požadavků podle aktů a standardů dobrého zemědělského a environmentálního stavu pro oblasti pravidel podmíněnosti a důsledků jejich porušení pro poskytování některých zemědělských podpor, po celý kalendářní rok na všech půdních blocích, popřípadě dílech půdních bloků evidovaných v evidenci na žadatele.
+
+(2) Nedílnou součástí žádosti je zakreslení půdních bloků, popřípadě dílů půdních bloků podle odstavce 1 písm. a) v mapě půdních bloků, popřípadě dílů půdních bloků, v měřítku 1 : 10 000 nebo podrobnějším.
+
+(3) Pokud žadatel pěstuje konopí na některém z půdních bloků, popřípadě na některém z dílů půdních bloků uvedených v žádosti<sup>6</sup>), připojí k žádosti uznávací list<sup>7</sup>) o uznání osiva konopí; dále žadatel k žádosti připojí prohlášení, ve kterém se zaváže, že Fondu neprodleně oznámí začátek kvetení konopí na příslušném půdním bloku, popřípadě dílu půdního bloku, uvedeného v žádosti.
+
+(4) Žadatel doručí žádost Fondu do 15. května příslušného kalendářního roku.
+
+(5) Žádost podle odstavce 4 nelze Fondu podat počínaje dnem 1. dubna 2015.
+
+## § 3a – Kompenzace finanční disciplíny
+
+(1) Podle předpisu Evropské unie upravujícího financování, řízení a sledování společné zemědělské politiky<sup>30</sup>) je příslušným kalendářním rokem pro provedení kompenzace finanční disciplíny kalendářní rok podání žádosti o platbu.
+
+(2) Kompenzace finanční disciplíny se provede u žadatele o platbu, u kterého byla Fondem provedena úprava plateb poskytnutých na základě žádosti o platbu podané v příslušném kalendářním roce.
+
+(3) Procentuální výše kompenzace finanční disciplíny stanoví Fond poměrem částky oznámené Evropskou komisí vůči součtu všech částek úprav plateb provedených v příslušném kalendářním roce u žadatelů podle odstavce 2.
+
+(4) Fond stanoví žadateli o platbu rozhodnutím výši kompenzace finanční disciplíny vynásobením procentuální výše kompenzace finanční disciplíny podle odstavce 3 částkou úpravy plateb provedené žadateli v příslušném kalendářním roce a provede platbu kompenzace finanční disciplíny do 16. října kalendářního roku následujícího po podání žádosti o platbu v příslušném kalendářním roce.
+
+## § 4 – Podmínky poskytnutí platby
+
+(1) Fond poskytne žadateli platbu na zemědělskou půdu, která je
+
+a) evidována v evidenci a splňuje podmínky k poskytnutí platby podle přímo použitelného předpisu Evropských společenství<sup>8</sup>),
+
+b) evidována v evidenci na žadatele nejméně ode dne doručení žádosti Fondu do 31. srpna příslušného kalendářního roku,
+
+c) žadatelem zemědělsky obhospodařována v příslušném kalendářním roce po celou dobu, po kterou je evidována v evidenci na žadatele podle písmene a),
+
+d) udržována v podmínkách dobrého zemědělského a environmentálního stavu uvedených v přílohách č. 2 a 4 k nařízení vlády č. 48/2017 Sb. po celý příslušný kalendářní rok.
+
+(2) Minimální výměra<sup>9</sup>), na kterou lze poskytnout platbu, činí nejméně 1 ha zemědělské půdy; rozhodující jsou údaje evidované v evidenci.
+
+(3) Fond poskytne platbu v plné výši, nenastane-li skutečnost vedoucí ke snížení, popřípadě neposkytnutí platby podle přímo použitelného předpisu Evropských společenství<sup>2</sup>), nebo podle § 6, jestliže žadatel splňuje podmínky stanovené v odstavcích 1 a 2 a dodržuje podmínky dobrého zemědělského a environmentálního stavu uvedené v přílohách č. 2 a 4 k nařízení vlády č. 48/2017 Sb. po celý příslušný kalendářní rok na všech půdních blocích, popřípadě dílech půdních bloků evidovaných v evidenci na žadatele<sup>10</sup>).
+
+## § 6 – Zamítnutí žádosti, snížení nebo neposkytnutí platby
+
+(1) Zjistí-li Fond, že výměra zemědělské půdy, u níž žadatel splnil podmínky pro poskytnutí platby, je nižší než výměra zemědělské půdy, kterou žadatel uvedl ve své žádosti, podle přímo použitelných předpisů Evropských společenství<sup>12</sup>) platbu sníží nebo neposkytne.
+
+(2) Zjistí-li Fond, že žadatel doručil žádost po lhůtě stanovené v § 3 odst. 4, popřípadě změnu žádosti po lhůtě stanovené přímo použitelným předpisem Evropských společenství<sup>13</sup>), platbu sníží, popřípadě žádost zamítne, podle přímo použitelných předpisů Evropských společenství<sup>13</sup>).
+
+(3) Zjistí-li Fond, že žadatel v žádosti podle § 3 neuvedl veškerou plochu v souladu s předpisy Evropských společenství<sup>14</sup>) a rozdíl mezi celkovou plochou uvedenou v žádosti a souhrnem celkové plochy uvedené v žádosti a v žádosti nevykázané je
+
+a) vyšší než 3 %, avšak nižší nebo roven 4 % plochy uvedené v žádosti, sníží platbu o 1 %<sup>14</sup>),
+
+b) vyšší než 4 %, avšak nižší nebo roven 5 % plochy uvedené v žádosti, sníží platbu o 2 %<sup>14</sup>),
+
+c) vyšší než 5 % plochy uvedené v žádosti, sníží platbu o 3 %<sup>14</sup>).
+
+## § 7 – Stanovení některých podmínek poskytování informací o zpracování zemědělských výrobků pocházejících z půdy uvedené do klidu
+
+(1) Fyzická nebo právnická osoba, která má informační povinnost podle přímo použitelného předpisu Evropských společenství<sup>21</sup>), poskytne Fondu v příslušném kalendářním roce informace v rozsahu stanoveném přímo použitelným předpisem Evropských společenství<sup>22</sup>), a to do 30 dnů ode dne převzetí dovezených zemědělských výrobků pocházejících z půdy uvedené do klidu, nejpozději však do 30. dubna bezprostředně následujícího kalendářního roku.
+
+(2) Fyzická nebo právnická osoba, která má informační povinnost podle přímo použitelného předpisu Evropských společenství<sup>21</sup>), poskytne Fondu v příslušném kalendářním roce informace v rozsahu stanoveném přímo použitelným předpisem Evropských společenství<sup>23</sup>), a to 10 dnů před zahájením zpracování dovezených zemědělských výrobků pocházejících z půdy uvedené do klidu na jiný konečný výrobek.
+
+## § 8 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 15. března 2007.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+Ministr zemědělství:
+
+Mgr. Gandalovič v. r.
+
+---
+
+<sup>1</sup>) Je vydáno k provedení a v mezích zákona, jehož obsah umožňuje provést úpravu v návaznosti na přímo použitelné předpisy Evropských společenství nařízením vlády.
+
+<sup>2</sup>) Nařízení Rady (ES) č. 1782/2003 ze dne 29. září 2003, kterým se stanoví společná pravidla pro režimy přímých podpor v rámci společné zemědělské politiky a kterým se zavádějí některé režimy podpor pro zemědělce a kterým se mění nařízení (EHS) č. 2019/93, (ES) č. 1452/2001, (ES) č. 1453/2001, (ES) č. 1454/2001, (ES) č. 1868/1994, (ES) č. 1251/1999, (ES) č. 1254/1999, (ES) č. 1673/2000, (EHS) č. 2358/71 a (ES) č. 2529/2001, v platném znění. 
+ Nařízení Komise (ES) č. 796/2004 ze dne 21. dubna 2004, kterým se stanoví prováděcí pravidla k podmíněnosti, odlišení a integrovanému administrativnímu a kontrolnímu systému uvedených v nařízení Rady (ES) č. 1782/2003, kterým se stanoví společná pravidla pro režimy přímých podpor v rámci společné zemědělské politiky a kterým se zavádějí některé režimy podpor pro zemědělce, v platném znění. 
+ Nařízení Komise (ES) č. 1973/2004 ze dne 29. října 2004, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 1782/2003 ohledně režimů podpor stanovených v hlavě IV a IVa tohoto nařízení a ohledně využití půdy vyjmuté pro pěstování plodin, v platném znění. 
+ Nařízení Rady (ES) č. 73/2009 ze dne 19. ledna 2009, kterým se stanoví společná pravidla pro režimy přímých podpor v rámci společné zemědělské politiky a kterým se zavádějí některé režimy podpor pro zemědělce a kterým se mění nařízení (ES) č. 1290/2005, (ES) č. 247/2006, (ES) č. 378/2007 a zrušuje nařízení (ES) č. 1782/2003. 
+ Nařízení Komise (ES) č. 795/2004 ze dne 21. dubna 2004, kterým se stanoví prováděcí pravidla k režimu jednotné platby podle nařízení Rady (ES) č. 1782/2003, kterým se stanoví společná pravidla pro režimy přímých podpor v rámci společné zemědělské politiky a kterým se zavádějí některé režimy podpor pro zemědělce, v platném znění.
+
+<sup>3</sup>) Zákon č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 128/2003 Sb., zákona č. 41/2004 Sb., zákona č. 85/2004 Sb., zákona č. 237/2004 Sb., zákona č. 482/2004 Sb., zákona č. 441/2005 Sb., zákona č. 130/2006 Sb. a zákona č. 342/2006 Sb.
+
+<sup>4</sup>) Čl. 12 nařízení Komise (ES) č. 796/2004, v platném znění.
+
+<sup>5</sup>) Čl. 14 nařízení Komise (ES) č. 796/2004, v platném znění.
+
+<sup>6</sup>) Čl. 13 odst. 1 a čl. 33 odst. 4 nařízení Komise (ES) č. 796/2004, v platném znění.
+
+<sup>7</sup>) § 4 odst. 8 zákona č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění zákona č. 178/2006 Sb.
+
+<sup>8</sup>) Čl. 143b odst. 4 nařízení Rady (ES) č. 1782/2003, v platném znění.
+
+<sup>9</sup>) Čl. 134 nařízení Komise (ES) č. 1973/2004, v platném znění.
+
+<sup>10</sup>) Čl. 5 odst. 1 nařízení Rady (ES) č. 1782/2003, v platném znění.
+
+<sup>12</sup>) Čl. 138 nařízení Komise (ES) č. 1973/2004, v platném znění. 
+ Čl. 50 odst. 3 nařízení Komise (ES) č. 796/2004, v platném znění.
+
+<sup>13</sup>) Čl. 21 nařízení Komise (ES) č. 796/2004, v platném znění.
+
+<sup>14</sup>) Čl. 14 odst. 1 a 1a nařízení Komise (ES) č. 796/2004, v platném znění.
+
+<sup>21</sup>) Čl. 144 písm. b) a c) nařízení Komise (ES) č. 1973/2004, v platném znění.
+
+<sup>22</sup>) Čl. 144 písm. a), čl. 145 a čl. 157 odst. 3 nařízení Komise (ES) č. 1973/2004, v platném znění.
+
+<sup>23</sup>) Čl. 55 písm. b) a čl. 107 odst. 3 nařízení Rady (ES) č. 1782/2003, v platném znění. 
+ Čl. 145 a 152 nařízení Komise (ES) č. 1973/2004, v platném znění.
+
+<sup>24</sup>) § 2 písm. h) zákona č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění zákona č. 9/2009 Sb.
+
+<sup>25</sup>) § 7 vyhlášky Ministerstva zemědělství č. 274/1998 Sb., o skladování a způsobu používání hnojiv, ve znění vyhlášky č. 91/2007 Sb.
+
+<sup>26</sup>) Například § 75 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 132/2000 Sb., zákona č. 76/2002 Sb., zákona č. 320/2002 Sb. a zákona č. 218/2004 Sb.
+
+<sup>27</sup>) Například zákon č. 114/1992 Sb., ve znění pozdějších předpisů, nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů.
+
+<sup>28</sup>) § 8 odst. 1 písm. a) a b) zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon).
+
+<sup>29</sup>) Nařízení vlády č. 103/2003 Sb., o stanovení zranitelných oblastí a o používání a skladování hnojiv a statkových hnojiv, střídání plodin a provádění protierozních opatření v těchto oblastech, ve znění pozdějších předpisů.
+
+<sup>30</sup>) Čl. 26 nařízení Evropského parlamentu a Rady (EU) č. 1306/2013 ze dne 17. prosince 2013 o financování, řízení a sledování společné zemědělské politiky a o zrušení nařízení Rady (EHS) č. 352/78, (ES) č. 165/94, (ES) č. 2799/98, (ES) č. 814/2000, (ES) č. 1290/2005 a (ES) č. 485/2008.

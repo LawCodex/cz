@@ -1,0 +1,71 @@
+---
+title: "Vyhláška č. 452/2008 Sb., kterou se mění vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti, ve znění vyhlášky č. 507/2005 Sb."
+identifier: "452/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/452/2009-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2008-12-17
+effective: 2009-01-01
+last_amended: 2009-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/452"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 452/2008 Sb., kterou se mění vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti, ve znění vyhlášky č. 507/2005 Sb.
+
+452
+
+VYHLÁŠKA
+
+ze dne 17. prosince 2008,
+
+kterou se mění vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti, ve znění vyhlášky č. 507/2005 Sb.
+
+Ministerstvo práce a sociálních věcí stanoví podle § 77 odst. 1, § 78 odst. 11 a § 119 odst. 6 zákona č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů:
+
+## Čl. I
+
+Vyhláška č. 518/2004 Sb., kterou se provádí zákon č. 435/2004 Sb., o zaměstnanosti, ve znění vyhlášky č. 507/2005 Sb., se mění takto:
+
+1\. V nadpisu § 6 se slova „chráněné pracovní dílny“ nahrazují slovy „pracovního místa v chráněné pracovní dílně“.
+
+2\. V § 6 úvodní části ustanovení se slova „chráněné pracovní dílny“ nahrazují slovy „pracovního místa v chráněné pracovní dílně“.
+
+3\. V § 7 odst. 3 písm. d), § 11 odst. 2 písm. d) a § 15 odst. 2 písm. d) se slovo „mzdy<sup>6</sup>)“ nahrazuje slovy „mzdy nebo platu<sup>6</sup>) nebo mu podle § 192 odst. 1 část věty druhé za středníkem zákoníku práce náhrada mzdy nebo platu nepřísluší“.
+
+Poznámka pod čarou č. 6 zní:
+
+> „<sup>6</sup>) Zákoník práce. 
+>  Nařízení vlády č. 590/2006 Sb., kterým se stanoví okruh a rozsah jiných důležitých osobních překážek v práci.“.
+
+4\. V § 7 odst. 3 písm. e), § 11 odst. 2 písm. e) a § 15 odst. 2 písm. e) se slova „nemocného člena rodiny, za které náleží podpora při ošetřování člena rodiny<sup>7</sup>)“ nahrazují slovy „dítěte nebo péče o ně nebo ošetřování jiného člena domácnosti, za které náleží ošetřovné<sup>7</sup>),“.
+
+Poznámka pod čarou č. 7 zní:
+
+> „<sup>7</sup>) § 39 zákona č. 187/2006 Sb., o nemocenském pojištění.“.
+
+5\. V § 8 odst. 1 písm. b) a v § 9 odst. 1 písm. b) se slova „spojené s povinnými revizemi a náklady na“ nahrazují slovy „na povinné revize a“.
+
+6\. Odkaz pod nadpisem části třetí zní: „(§ 78 odst. 11 zákona)“.
+
+7\. § 13 se zrušuje.
+
+8\. V § 14 se slovo „výsledná“ nahrazuje slovem „celková“.
+
+9\. V § 24 se za slovo „vyúčtování“ vkládá slovo „vyplacených“.
+
+10\. V § 26 se slovo „mezd“ nahrazuje slovy „mzdových nákladů“.
+
+11\. § 27 a 28 se včetně nadpisů zrušují.
+
+12\. Na konci § 31 se doplňuje věta „Celková výše příspěvku podle § 24, 26 a 30 se zaokrouhluje na celé koruny nahoru.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2009.
+
+Ministr:
+
+RNDr. Nečas v. r.

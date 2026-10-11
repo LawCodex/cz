@@ -1,0 +1,136 @@
+---
+title: "Nařízení vlády č. 45/2007 Sb., o stanovení některých podmínek poskytování oddělené platby za cukr pěstitelům cukrové řepy"
+identifier: "45/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/45/2017-03-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2007-02-28
+effective: 2007-03-15
+last_amended: 2017-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/45"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 45/2007 Sb., o stanovení některých podmínek poskytování oddělené platby za cukr pěstitelům cukrové řepy ve znění nařízení vlády č. 310/2007 Sb., nařízení vlády č. 83/2009 Sb., nařízení vlády č. 480/2009 Sb., nařízení vlády č. 369/2010 Sb., nařízení vlády č. 448/2012 Sb., nařízení vlády č. 400/2013 Sb., nařízení vlády č. 308/2014 Sb. a nařízení vlády č. 49/2017 Sb."
+---
+
+# Nařízení vlády č. 45/2007 Sb., o stanovení některých podmínek poskytování oddělené platby za cukr pěstitelům cukrové řepy
+
+45
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 28. února 2007
+
+o stanovení některých podmínek poskytování oddělené platby za cukr pěstitelům cukrové řepy
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb. a zákona č. 441/2005 Sb., (dále jen „zákon“) a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení<sup>1</sup>) upravuje v návaznosti na přímo použitelné předpisy Evropských společenství<sup>2</sup>) některé podmínky poskytování oddělené platby za cukr pěstitelům cukrové řepy (dále jen „cukerní platba“) Státním zemědělským intervenčním fondem<sup>3</sup>) (dále jen „Fond“).
+
+## § 2 – Žadatel o cukerní platbu
+
+(1) O cukerní platbu pro příslušný kalendářní rok podle tohoto nařízení může požádat fyzická nebo právnická osoba, která
+
+a) obhospodařuje zemědělskou půdu evidovanou na žadatele v evidenci využití zemědělské půdy podle uživatelských vztahů (§ 3a a 3b zákona),
+
+b) uzavřela pro hospodářský rok 2005/2006 smlouvu na dodávku cukrové řepy A a cukrové řepy B<sup>4</sup>) s výrobcem cukru, který má sídlo v České republice a který byl v hospodářském roce 2005/2006 držitelem individuální produkční kvóty cukru A a individuální produkční kvóty cukru B (dále jen „výrobce cukru“),
+
+c) doručí Fondu žádost o poskytování jednotné platby na plochu zemědělské půdy<sup>5</sup>) pro kalendářní rok, na který žádá o cukerní platbu, a
+
+d) dodržuje podmínky dobrého zemědělského a environmentálního stavu uvedené v přílohách č. 2 a 4 k nařízení vlády č. 48/2017 Sb., o stanovení požadavků podle aktů a standardů dobrého zemědělského a environmentálního stavu pro oblasti pravidel podmíněnosti a důsledků jejich porušení pro poskytování některých zemědělských podpor,
+
+(dále jen „žadatel“).
+
+(2) Žádost o cukerní platbu může podat též osoba, která je právním nástupcem žadatele, který by splnil podmínky poskytnutí platby podle tohoto nařízení, nebo na niž přešla práva a povinnosti v důsledku převodu podniku<sup></sup>, nebo nájmu podniku.<sup>5b</sup>)
+
+(3) Žádost o cukerní platbu může podat rovněž osoba, která převzala zemědělskou půdu žadatele za podmínek stanovených v nařízení vlády o stanovení podmínek pro poskytování dotace v souvislosti s předčasným ukončením provozování zemědělské činnosti zemědělského podnikatele<sup>5c</sup>), popřípadě za podmínek stanovených přímo použitelným předpisem Evropských společenství, upravujícím podporu pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova<sup>5d</sup>), který by splnil podmínky poskytnutí cukerní platby podle tohoto nařízení.
+
+(4) Skutečnosti uvedené v odstavcích 2 a 3 doloží žadatel Fondu současně s žádostí o poskytnutí cukerní platby, včetně způsobu a rozsahu převodu nebo přechodu práv a povinností vztahujících se k podmínkám poskytnutí cukerní platby. V uvedených případech však není oprávněna podat žádost Fondu osoba, která by jinak mohla být žadatelem podle tohoto nařízení.
+
+## § 3 – Žádost o cukerní platbu
+
+(1) Žadatel doručí Fondu žádost o cukerní platbu pro příslušný kalendářní rok (dále jen „žádost“) do 15. května příslušného kalendářního roku na formuláři vydaném Fondem.
+
+(2) Žadatel připojí k žádosti podle odstavce 1 smlouvu na dodávku cukrové řepy A a cukrové řepy B<sup>4</sup>), kterou pro hospodářský rok 2005/2006 uzavřel s výrobcem cukru, nebo její úředně ověřenou kopii, pokud ji nedoručil s žádostí v některém z předchozích kalendářních roků.
+
+## § 3a – Kompenzace finanční disciplíny
+
+(1) Podle předpisu Evropské unie upravujícího financování, řízení a sledování společné zemědělské politiky<sup>15</sup>) je příslušným kalendářním rokem pro provedení kompenzace finanční disciplíny kalendářní rok podání žádosti o cukerní platbu.
+
+(2) Kompenzace finanční disciplíny se provede u žadatele o cukerní platbu, u kterého byla Fondem provedena úprava cukerných plateb poskytnutých na základě žádosti o cukerní platbu podané v příslušném kalendářním roce.
+
+(3) Procentuální výše kompenzace finanční disciplíny stanoví Fond poměrem částky oznámené Evropskou komisí vůči součtu všech částek úprav cukerných plateb provedených v příslušném kalendářním roce u žadatelů podle odstavce 2.
+
+(4) Fond stanoví žadateli o cukerní platbu rozhodnutím výši kompenzace finanční disciplíny vynásobením procentuální výše kompenzace finanční disciplíny podle odstavce 3 částkou úpravy cukerných plateb provedené žadateli v příslušném kalendářním roce a provede platbu kompenzace finanční disciplíny do 16. října kalendářního roku následujícího po podání žádosti o cukerní platbu v příslušném kalendářním roce.
+
+## § 4 – Poskytnutí cukerní platby
+
+(1) Fond poskytne žadateli cukerní platbu pro příslušný kalendářní rok na množství cukrové řepy sjednané podle smlouvy pro hospodářský rok 2005/2006 s výrobcem cukru na dodávku cukrové řepy A a cukrové řepy B<sup>4</sup>), určené k výrobě cukru A a cukru B, přepočtené na cukernatost 16 %.
+
+(2) Při stanovení výše sazby cukerní platby pro příslušný kalendářní rok na jednu tunu cukrové řepy se vychází z celkové částky cukerní platby stanovené pro příslušný kalendářní rok v souladu s přímo použitelným předpisem Evropských společenství<sup>7</sup>) a z celkového množství cukrové řepy k výrobě cukru A a cukru B, sjednaného ve smlouvách pro hospodářský rok 2005/2006 s výrobci cukru na dodávku cukrové řepy A a cukrové řepy B<sup>4</sup>), přepočteného na cukernatost 16 %.
+
+(3) Fond zveřejní sazbu cukerní platby pro příslušný kalendářní rok podle odstavce 2 do 30. listopadu příslušného kalendářního roku nejméně v jednom celostátním deníku a způsobem umožňujícím dálkový přístup.
+
+(4) Nebyla-li žadateli přiznána jednotná platba na plochu zemědělské půdy pro kalendářní rok, na který žádá o cukerní platbu, Fond žadateli cukerní platbu podle tohoto nařízení nepřizná.
+
+## § 4a – Snížení cukerní platby
+
+Zjistí-li Fond, že žadatel v žádosti podle § 2 odst. 1 písm. c) neuvedl veškerou plochu v souladu s předpisy Evropských společenství<sup>8</sup>) a rozdíl mezi celkovou plochou uvedenou v žádosti a souhrnem celkové plochy uvedené v žádosti a v žádosti nevykázané je
+
+a) vyšší než 3 %, avšak nižší nebo roven 4 % plochy uvedené v žádosti, sníží platbu o 1 %<sup>8</sup>),
+
+b) vyšší než 4 %, avšak nižší nebo roven 5 % plochy uvedené v žádosti, sníží platbu o 2 %<sup>8</sup>),
+
+c) vyšší než 5 % plochy uvedené v žádosti, sníží platbu o 3 %<sup>8</sup>).
+
+## § 5 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 15. března 2007.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+Ministr zemědělství:
+
+Mgr. Gandalovič v. r.
+
+---
+
+<sup>1</sup>) Je vydáno k provedení a v mezích zákona, jehož obsah umožňuje provést úpravu v návaznosti na přímo použitelné předpisy Evropských společenství nařízením vlády.
+
+<sup>2</sup>) Čl. 143ba nařízení Rady (ES) č. 1782/2003 ze dne 29. září 2003, kterým se stanoví společná pravidla pro režimy přímých podpor v rámci společné zemědělské politiky a kterým se zavádějí některé režimy podpor pro zemědělce a kterým se mění nařízení (EHS) č. 2019/93, (ES) č. 1452/2001, (ES) č. 1453/2001, (ES) č. 1454/2001, (ES) č. 1868/1994, (ES) č. 1251/1999, (ES) č. 1254/1999, (ES) č. 1673/2000, (ES) č. 2358/71 a (ES) č. 2529/2001, v platném znění. 
+ Čl. 17a nařízení Komise (ES) č. 796/2004 ze dne 21. dubna 2004, kterým se stanoví prováděcí pravidla pro podmíněnost, odlišení a integrovaný administrativní a kontrolní systém podle nařízení Rady (ES) č. 1782/2003, kterým se stanoví společná pravidla pro režimy přímých podpor v rámci společné zemědělské politiky a kterým se zavádějí některé režimy podpor pro zemědělce, v platném znění.
+
+<sup>3</sup>) Zákon č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 128/2003 Sb., zákona č. 41/2004 Sb., zákona č. 85/2004 Sb., zákona č. 237/2004 Sb., zákona č. 482/2004 Sb., zákona č. 441/2005 Sb., zákona č. 130/2006 Sb. a zákona č. 342/2006 Sb.
+
+<sup>4</sup>) Nařízení Rady (ES) č. 1260/2001 ze dne 19. června 2001 o společné organizaci trhů v odvětví cukru, v platném znění.
+
+<sup>5</sup>) Nařízení vlády č. 47/2007 Sb., o stanovení některých podmínek poskytování jednotné platby na plochu zemědělské půdy a některých podmínek poskytování informací o zpracování zemědělských výrobků pocházejících z půdy uvedené do klidu.
+
+<sup>5b</sup>) § 488b až 488h obchodního zákoníku.
+
+<sup>5c</sup>) Nařízení vlády č. 69/2005 Sb., o stanovení podmínek pro poskytování dotace v souvislosti s předčasným ukončením provozování zemědělské činnosti zemědělského podnikatele, ve znění nařízení vlády č. 512/2006 Sb.
+
+<sup>5d</sup>) Čl. 23 nařízení Rady (ES) č. 1698/2005 ze dne 20. září 2005 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV), v platném znění.
+
+<sup>7</sup>) Čl. 143ba odst. 2 a 3 nařízení Rady (ES) č. 1782/2003, v platném znění.
+
+<sup>8</sup>) Čl. 14 odst. 1 a 1a nařízení Komise (ES) č. 796/2004, v platném znění.
+
+<sup>9</sup>) § 2 písm. h) zákona č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění zákona č. 9/2009 Sb.
+
+<sup>10</sup>) § 7 vyhlášky Ministerstva zemědělství č. 274/1998 Sb., o skladování a způsobu používání hnojiv, ve znění vyhlášky č. 91/2007 Sb.
+
+<sup>11</sup>) Například § 75 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 132/2000 Sb., zákona č. 76/2002 Sb., zákona č. 320/2002 Sb. a zákona č. 218/2004 Sb.
+
+<sup>12</sup>) Například zákon č. 114/1992 Sb., ve znění pozdějších předpisů, nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů.
+
+<sup>13</sup>) § 8 odst. 1 písm. a) a b) zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon).
+
+<sup>14</sup>) Nařízení vlády č. 103/2003 Sb., o stanovení zranitelných oblastí a o používání a skladování hnojiv a statkových hnojiv, střídání plodin a provádění protierozních opatření v těchto oblastech, ve znění pozdějších předpisů.
+
+<sup>15</sup>) Čl. 26 nařízení Evropského parlamentu a Rady (EU) č. 1306/2013 ze dne 17. prosince 2013 o financování, řízení a sledování společné zemědělské politiky a o zrušení nařízení Rady (EHS) č. 352/78, (ES) č. 165/94, (ES) č. 2799/98, (ES) č. 814/2000, (ES) č. 1290/2005 a (ES) č. 485/2008.

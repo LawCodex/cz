@@ -1,0 +1,585 @@
+---
+title: "Vyhláška č. 120/2011 Sb., kterou se mění vyhláška Ministerstva zemědělství č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů"
+identifier: "120/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/120/2012-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2011-04-29
+effective: 2011-05-06
+last_amended: 2012-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/120"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 120/2011 Sb., kterou se mění vyhláška Ministerstva zemědělství č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů
+
+120
+
+VYHLÁŠKA
+
+ze dne 29. dubna 2011,
+
+kterou se mění vyhláška Ministerstva zemědělství č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů
+
+Ministerstvo zemědělství stanoví podle § 40 zákona č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění zákona č. 76/2006 Sb., (dále jen „zákon“) k provedení § 8 odst. 11, § 13 odst. 5, § 17 odst. 9, § 19 odst. 10 a § 36 odst. 7 zákona:
+
+## Čl. I
+
+Vyhláška č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění vyhlášky č. 146/2004 Sb. a vyhlášky č. 515/2006 Sb., se mění takto:
+
+1\. V příloze č. 9 části 2 v tabulce č. 1 řádek 32 zní:
+
+> „
+>
+> | 32. | Uhlovodíky C10-C40 | C10-C40 | mg/l |
+> |---|---|---|---|
+>
+> “.
+
+2\. V příloze č. 9 části 2 se v tabulce č. 1 doplňují řádky č. 50 a 51, které znějí:
+
+> „
+>
+> | 50. | Pesticid jednotlivý<sup>1</sup>) | PJ | mg/l |
+> |---|---|---|---|
+> | 51. | Hliník<sup>1</sup>) | Al | mg/l |
+>
+> “.
+
+3\. V příloze č. 9 části 2 v tabulce č. 1 text poznámek pod tabulkou č. 1 zní:
+
+> „Poznámky k tabulce č. 1:
+
+> <sup>1</sup>) Stanoví se pouze v souvislosti s možným nebo prokázaným výskytem ve zdroji a vždy při prvním zařazení surové vody do kategorie podle § 22.
+
+> Prokázaným výskytem se rozumí hodnota koncentrace překračující limit uvedený v příloze č. 13 k této vyhlášce v tabulce č. 1 pro kategorii A1.
+
+> Pořadové číslo ukazatele:
+
+> Ukazatel 33 je vyjádřen jako součet koncentrací: (benzo(b)fluoranten, benzo(k)fluoranten, benzo(ghi)berylen, indeno(1,2,3-cd)pyren, benzo(a)pyren.
+
+> Ukazatel 34 je vyjádřen jako součet pesticidů, u kterých je pravděpodobné, že se budou vyskytovat v daném zdroji. Jedná se o pesticidy, u kterých je pravděpodobné, že se budou vyskytovat v surové vodě, a to podle používaných pesticidů v daném území.
+
+> Ukazatel 50: sledují se všechny pesticidy s pravděpodobným výskytem. Aldrin, dieldrin, heptachlor a hektachlorepoxid mají limit stanovený podle vyhlášky č. 252/2004 Sb., kterou se stanoví hygienické požadavky na pitnou a teplou vodu a četnost a rozsah kontroly pitné vody, ve znění pozdějších předpisů.“.
+
+4\. V příloze č. 9 části 2 v tabulce č. 4 text poznámek pod tabulkou č. 4 zní:
+
+> „Poznámky k tabulce č. 4:
+
+> 1\. Stanoví se podle použitého koagulantu nebo výskytu v surové vodě.
+
+> Rozšíření rozsahu rozborů surové vody a zařazení dalších ukazatelů do monitorovacího a provozního rozboru:
+
+> 1\. Zjistí-li se při úplném rozboru vyrobené vody podle tabulky č. 2 výskyt některého ukazatele s hodnotou vyšší než 75 % limitní hodnoty pro pitnou vodu dodávanou spotřebiteli, musí být o tento ukazatel rozšířen monitorovací rozbor surové a vyrobené vody (tabulka č. 3), případně provozní rozbor (tabulka č. 4). Četnost sledování tohoto ukazatele je shodná s předepsanou četností monitorovacího rozboru podle této vyhlášky.
+
+> 2\. Pravidelné sledování mikroskopického obrazu při zvýšeném biologickém oživení surové povrchové vody bude probíhat v závislosti na délce tohoto období a na charakteru tohoto biologického oživení vody.“.
+
+5\. Příloha č. 12 zní:
+
+> **„Příloha č. 12 k vyhlášce č. 428/2001 Sb.**
+
+> **SMĚRNÁ ČÍSLA ROČNÍ POTŘEBY VODY**
+
+> I. BYTOVÝ FOND
+
+> byty
+
+> | 1. | na jednoho obyvatele bytu s tekoucí studenou vodou mimo byt za rok | 15 m<sup>3</sup> |
+> |---|---|---|
+> | 2. | na jednoho obyvatele bytu bez tekoucí teplé vody (teplé vody na kohoutku) za rok | 25 m<sup>3</sup> |
+> | 3. | na jednoho obyvatele bytu s tekoucí teplou vodou (teplá voda na kohoutku) za rok | 35 m<sup>3</sup> |
+
+> Hodnota uvedená v položce č. 3 je součtem spotřeby studené a teplé vody.
+
+> Teplou vodou na kohoutku je teplá voda vytékající z výtoku ovládaného uzávěrem přímo do dřezu, umyvadla, vany, sprchy apod. Není rozhodující, zda je voda ohřívána elektrickým zásobníkem, průtokovým ohřevem, plynovým kotlem pro byt nebo dům, nebo je připravována centrálně pro celou obec nebo město; tedy ze zdroje mimo fakturační vodoměr studené vody v domě. V případech dodávky teplé vody ze zdroje mimo fakturační vodoměr studené vody se při výpočtu použijí hodnoty podle bytu bez tekoucí teplé vody.
+
+> rodinné domy
+
+> na jednoho obyvatele bytu v rodinném domu s (max. 3 byty - 3 rodiny) se připočítává 1 m<sup>3</sup> na spotřebu spojenou s očistou okolí rodinného domu i s očistou osob při aktivitách v zahradě apod. Kropení zahrady a provoz bazénů je samostatnou položkou a nespadá pod bytový fond.
+
+> rekreační chaty (chalupy)
+
+> na jednoho obyvatele rekreační chaty (chalupy) se spotřeba vypočte jako u položek č. 1, 2 a 3 s přihlédnutím k době, po kterou je chata během roku využívána. Tento výpočet se v případě, že odběr pitné vody není měřen vodoměrem, uvede do smlouvy podle § 8 odst. 6 zákona.
+
+> snížení množství m<sup>3</sup> odpadní vody pro stočné
+
+> nárok na snížení množství odpadní vody pro stočné podle § 19 odst. 7 zákona prokazuje odběratel technickým propočtem daným rozdílem odebrané, vodoměrem změřené pitné vody a množstvím stanoveného podle položek č. 1 a 2 v odběru pro bytový fond (je-li důvodem kropení) nebo množstvím stanoveným odborným výpočtem (je-li důvodem výroba balených nápojů nebo jídel apod.). Pokud je snížení množství pro stočné přiznáno s podmínkou měření vody pro kropení (zvláštním vodoměrem), nebo v případě vlastního zdroje pitné vody (studna apod.) měření (zvláštním vodoměrem) množství pitné vody odebíraného pro bytový fond, je takto stanovované množství pro stočné přiznáno na celou dobu kdy měření probíhá, tedy i v případě, že snížené množství v některém z roků nedosáhne 30 m<sup>3</sup>za rok.
+
+> II. VEŘEJNÉ BUDOVY, ŠKOLY
+
+> a) je uvedena základní potřeba vody - ostatní potřeba vody (zahrada, mytí aut apod.) se připočítá podle dalšího vybavení budov, které je uvedené samostatně se směrnými čísly;
+
+> b) v případě stravování pro konkrétní situaci se připočítají směrná čísla uvedená podle položek č. 18, 19 a 20;
+
+> c) ve veřejných budovách, kde jsou byty, se připočte roční směrné číslo podle vybavení bytu.
+
+> kancelářské budovy
+
+> (bez stravování)
+
+> <table><tbody><tr><td></td><td colspan="2"><u>na jednu osobu při průměru 250 pracovních dnů za rok</u></td></tr><tr><td>4.</td><td>WC, umyvadla</td><td>8 m<sup>3</sup></td></tr><tr><td>5.</td><td>WC, umyvadla a tekoucí teplá voda</td><td>14 m<sup>3</sup></td></tr><tr><td>6.</td><td>WC, umyvadla a tekoucí teplá voda s možností sprchování</td><td>18 m<sup>3</sup></td></tr></tbody></table>
+
+> školy
+
+> (bez stravování)
+
+> <table><tbody><tr><td></td><td colspan="8"><u>na jednu osobu (žáka, učitele, pracovníka) při průměru 200 pracovních dnů za rok</u></td></tr><tr><td>7.</td><td colspan="7">WC, umyvadla</td><td>3 m<sup>3</sup></td></tr><tr><td>8.</td><td colspan="7">WC a tekoucí teplá voda</td><td>5 m<sup>3</sup></td></tr></tbody></table>
+
+> mateřské školy a jesle s celodenním provozem
+
+> (bez stravování)
+
+> <table><tbody><tr><td></td><td colspan="7"><u>na jednu osobu (učitele, pracovníka, dítě) při průměru 200 pracovních dnů za rok</u></td></tr><tr><td>9.</td><td colspan="6">WC, umyvadla a tekoucí teplá voda</td><td>8 m<sup>3</sup></td></tr><tr><td>10.</td><td colspan="6">WC, umyvadla a tekoucí teplá voda s možností sprchování</td><td>16 m<sup>3</sup></td></tr></tbody></table>
+
+> III. HOTELY, UBYTOVNY, INTERNÁTY
+
+> (směrná čísla pouze pro ubytování)
+
+> <table><tbody><tr><td colspan="7"><u>na jedno lůžko za rok</u></td></tr><tr><td colspan="7"><u>hotely a penziony</u></td></tr><tr><td>11.</td><td colspan="5">většina pokojů má WC a koupelnu s tekoucí teplou vodou</td><td>45 m<sup>3</sup></td></tr><tr><td>12.</td><td colspan="5">většina pokojů je bez koupelny (sprch), WC na chodbě</td><td>23 m<sup>3</sup></td></tr><tr><td>13.</td><td colspan="5">restaurace v hotelu, penzionu podle položek č. 18, 19 a 20</td><td></td></tr><tr><td>14.</td><td colspan="5">pro doplňující vybavení hotelů se přičítá:</td><td></td></tr><tr><td></td><td colspan="5">denní připouštění bazénu</td><td>10 m<sup>3</sup></td></tr><tr><td></td><td colspan="5">sauna, welnes</td><td>10 m<sup>3</sup></td></tr><tr><td colspan="7">V případě vlastní prádelny se použije směrné číslo pro prádelny.</td></tr><tr><td colspan="6"><u>internáty, učňovské domovy, studentské koleje, ubytovny</u></td><td></td></tr><tr><td>15.</td><td colspan="5">většina pokojů má WC a koupelnu s tekoucí teplou vodou</td><td>25 m<sup>3</sup></td></tr><tr><td>16.</td><td colspan="5">v budovách, kde jsou koupelny (sprchy), WC na chodbě</td><td>15 m<sup>3</sup></td></tr><tr><td>17.</td><td colspan="5">stravování podle položek č. 18, 19 a 20.</td><td></td></tr><tr><td colspan="6"><u>stravování - kuchyně, jídelna (bezobslužné)</u></td><td></td></tr><tr><td colspan="7">na 1 strávníka a 1 pracovníka na jednu směnu za rok</td></tr><tr><td>18.</td><td colspan="5">dovoz jídla, mytí nádobí, vybavení WC, umyvadla</td><td>3 m<sup>3</sup></td></tr><tr><td>19.</td><td colspan="5">vaření jídla, mytí nádobí, vybavení WC, umyvadla</td><td>8 m<sup>3</sup></td></tr><tr><td>20.</td><td colspan="5">bufet, občerstvení</td><td>1 m<sup>3</sup></td></tr></tbody></table>
+
+> IV. ZDRAVOTNICKÁ A SOCIÁLNÍ ZAŘÍZENÍ
+
+> Vybavení: WC, umyvadla a tekoucí teplá voda
+
+> <table><tbody><tr><td colspan="7"><u>na 1 pracovníka v denním průměru za rok</u></td></tr><tr><td colspan="7"><u>zdravotnická střediska, ambulatoria, ordinace</u></td></tr><tr><td>21.</td><td colspan="5">na jednoho pracovníka</td><td>18 m<sup>3</sup></td></tr><tr><td colspan="7"><u>lékárny, hygienicko-epidemiologické stanice</u></td></tr><tr><td>22.</td><td colspan="5">na jednoho pracovníka</td><td>18 m<sup>3</sup></td></tr><tr><td colspan="7"><u>zubní střediska s celoročním provozem, ordinace</u></td></tr><tr><td>23.</td><td colspan="5">na jednoho pracovníka</td><td>20 m<sup>3</sup></td></tr><tr><td colspan="7"><u>ošetřovaná osoba</u></td></tr><tr><td>24.</td><td colspan="5">na 1 vyšetřovanou osobu v denním průměru za rok</td><td>2 m<sup>3</sup></td></tr><tr><td colspan="7"><u>rehabilitace, rehabilitační bazén, sauna</u></td></tr><tr><td>25.</td><td colspan="6">na jednotlivá rehabilitační zařízení se určí potřeba množství podle příslušné <br> normy pro provoz využívaného zařízení</td></tr><tr><td>26.</td><td colspan="5">na jednoho pracovníka</td><td>18 m<sup>3</sup></td></tr><tr><td colspan="7"><u>na jedno lůžko za rok</u></td></tr><tr><td colspan="7"><u>nemocnice</u><br> (včetně stravování, kuchyně, bez léčebných zařízení)</td></tr><tr><td>27.</td><td colspan="5">na jedno lůžko</td><td>50 m<sup>3</sup></td></tr><tr><td colspan="7">l<u>éčebny dlouhodobě nemocných, domovy důchodců</u><br> (včetně stravování, kuchyně, bez léčebných zařízení)</td></tr><tr><td>28.</td><td colspan="5">na jedno lůžko</td><td>45 m<sup>3</sup></td></tr></tbody></table>
+
+> V. KULTURNÍ A OSVĚTOVÉ PODNIKY, SPORTOVNÍ ZAŘÍZENÍ
+
+> <table><tbody><tr><td colspan="7"><u>multikina, samostatná kina a divadla s celoročním provozem</u><br> (vybavení WC, umyvadla)</td></tr><tr><td colspan="7"><u>při plné obsazenosti za rok</u></td></tr><tr><td>29.</td><td colspan="5">na jedno sedadlo a jedno představení denně</td><td>1 m<sup>3</sup></td></tr><tr><td colspan="7"><u>přednáškové síně, knihovny, čítárny, studovny a muzea</u><br> (vybavení WC, umyvadla)</td></tr><tr><td colspan="7">na jednoho stálého pracovníka za rok</td></tr><tr><td>30.</td><td colspan="5"></td><td>14 m<sup>3</sup></td></tr><tr><td colspan="7">na jednoho návštěvníka v denním průměru za rok</td></tr><tr><td>31.</td><td colspan="5">na jednoho návštěvníka</td><td>2 m<sup>3</sup></td></tr><tr><td colspan="7"><u>tělocvična, sportoviště, fitness centrum</u><br> (vybavení WC, umyvadla, možnost sprchování s teplou vodou)</td></tr><tr><td colspan="7">na jednoho návštěvníka v denním průměru za rok</td></tr><tr><td>32.</td><td colspan="5">na jednoho návštěvníka</td><td>20 m<sup>3</sup></td></tr><tr><td colspan="7">na 1 hřiště za rok</td></tr><tr><td>33.</td><td colspan="5">kropení antukových hřišť krytých</td><td>230 m<sup>3</sup></td></tr><tr><td>34.</td><td colspan="5">kropení antukových hřišť nekrytých</td><td>460 m<sup>3</sup></td></tr><tr><td colspan="7">na 100 m<sup>2</sup> za provozní den</td></tr><tr><td>35.</td><td colspan="5">kropení travnatých hřišť</td><td>20 m<sup>3</sup></td></tr><tr><td colspan="7">za rok</td></tr><tr><td>36.</td><td colspan="5">golfové hřiště 18 ti jamkové se zavlažováním greenu, odpališť a ferveje</td><td>22 500 m<sup>3</sup></td></tr><tr><td colspan="7">na 1 návštěvníka - diváka v denním průměru (365 dnů) za rok</td></tr><tr><td>37.</td><td colspan="5">WC, umyvadla</td><td>1 m<sup>3</sup></td></tr><tr><td></td><td colspan="6">Poznámka: v případě neprokázání počtu návštěvníků se jejich počet <br> stanoví jako desetina kapacity zařízení pro návštěvníky - diváky.</td></tr><tr><td colspan="7"><u>zimní stadion</u></td></tr><tr><td>38.</td><td colspan="6">pro jednotlivá zařízení se určí potřeba množství vody podle příslušné normy nebo technického návodu pro provoz (tvorba a úprava ledové plochy, relaxační zařízení apod.)</td></tr></tbody></table>
+
+> VI. RESTAURACE, VINÁRNY
+
+> (vybavení WC, umyvadla, tekoucí teplá voda)
+
+> <table><tbody><tr><td colspan="7"><u>Restaurace, vinárny, kavárny</u></td></tr><tr><td></td><td colspan="6"><u>na jednoho pracovníka v jedné směně (365 dnů) za rok</u><br><u>(zahrnuje i zákazníky bez mytí skla)</u></td></tr><tr><td>39.</td><td colspan="5">pouze výčep</td><td>50 m<sup>3</sup></td></tr><tr><td>40.</td><td colspan="5">výčep, podávání studených jídel</td><td>60 m<sup>3</sup></td></tr><tr><td>41.</td><td colspan="5">výčep, podávání studených jídel a teplých jídel</td><td>80 m<sup>3</sup></td></tr><tr><td colspan="7"><u>Vybavení na mytí skla:</u><br> (připočítává se k položkám č. 39, 40 a 41)</td></tr><tr><td>42.</td><td colspan="5">výčepní stolice s trvalým průtokem 3 l/min. za jednu směnu</td><td>450 m<sup>3</sup></td></tr><tr><td>43.</td><td colspan="5">mytí skla bez trvalého průtoku nebo myčka skla za jednu směnu</td><td>60 m<sup>3</sup></td></tr></tbody></table>
+
+> VII. PROVOZOVNY
+
+> <table><tbody><tr><td colspan="7"><u>na jednoho pracovníka v jedné směně za rok</u></td></tr><tr><td colspan="7"><u>provozovny místního významu, kde se vody neužívá k výrobě</u></td></tr><tr><td>44.</td><td colspan="5">WC, umyvadla a tekoucí teplá voda</td><td>18 m<sup>3</sup></td></tr><tr><td>45.</td><td colspan="5">WC, umyvadla a tekoucí teplá voda s možností sprchování</td><td>26 m<sup>3</sup></td></tr><tr><td>46.</td><td colspan="5">WC, umyvadla a tekoucí teplá voda s možností sprchování <br> v provozovnách s nečistým provozem nebo potřebou vyšší hygieny</td><td>30 m<sup>3</sup></td></tr><tr><td colspan="7"><u>holičství a kadeřnictví</u></td></tr><tr><td></td><td colspan="6"><u>na jednoho pracovníka v jedné směně v průměru za rok</u><br> (zahrnuje i zákazníky)</td></tr><tr><td>47.</td><td colspan="5">v pánské a dámské provozovně WC, umyvadla s tekoucí teplou vodou</td><td>50 m<sup>3</sup></td></tr><tr><td colspan="7"><u>samostatné prádelny</u> (zakázkové)</td></tr><tr><td>48.</td><td colspan="5">na 1 q vypraného prádla (tzv. technická voda)</td><td>1 m<sup>3</sup></td></tr><tr><td>49.</td><td colspan="5">na jednoho zaměstnance v jedné směně podle položek č. 44, 45 a 46</td><td></td></tr></tbody></table>
+
+> VIII. PRODEJNY
+
+> <table><tbody><tr><td colspan="7"><u>prodejny s čistým provozem, včetně obchodních domů, supermarketů</u></td></tr><tr><td colspan="7"><u>na jednoho pracovníka v jedné směně v průměru za rok</u></td></tr><tr><td>50.</td><td colspan="5">WC, umyvadla a tekoucí teplá voda</td><td>18 m<sup>3</sup></td></tr><tr><td colspan="7"><u>prodejna ryb, drůbeže a zvěřiny</u></td></tr><tr><td colspan="7"><u>na jednoho pracovníka v jedné směně v průměru za rok</u></td></tr><tr><td>51.</td><td colspan="5">WC, umyvadla a tekoucí teplá voda</td><td>20 m<sup>3</sup></td></tr><tr><td>52.</td><td colspan="5">na 100 kg prodaných živých ryb (připočítává se k položce č. 51)</td><td>34 m<sup>3</sup></td></tr><tr><td colspan="7">na 100 kg živých ryb</td></tr><tr><td>53.</td><td colspan="5">prodej ryb v sádce na volném prostranství na 100 kg prodaných živých ryb</td><td>6 m<sup>3</sup></td></tr><tr><td colspan="7"><u>potravinářské výrobny místního významu</u><br> (např. řeznictví, výroba uzenin, salátů, pečiva apod. (WC, umyvadla)</td></tr><tr><td colspan="7"><u>na jednoho pracovníka v jedné směně v průměru za rok</u></td></tr><tr><td>54.</td><td colspan="5">WC, umyvadla a tekoucí teplá voda s možností sprchování</td><td>26 m<sup>3</sup></td></tr><tr><td></td><td colspan="6">Poznámka: spotřeba vody k výrobě se vypočte podle technologie výroby a vybavení prodejny.</td></tr></tbody></table>
+
+> IX. HOSPODÁŘSKÁ ZVÍŘATA A DRŮBEŽ
+
+> <table><tbody><tr><td><u>hospodářská</u></td><td><u>zvířata</u></td><td></td></tr><tr><td></td><td colspan="2"><u>na jeden kus v průměru za rok</u></td></tr><tr><td>55.</td><td>dojnice včetně ošetřování mléka a oplachů </td><td>36 m<sup>3</sup></td></tr><tr><td>56.</td><td>býk</td><td>18 m<sup>3</sup></td></tr><tr><td>57.</td><td>tele, ovce, koza, vepř</td><td>6 m<sup>3</sup></td></tr><tr><td>58.</td><td>prasnice</td><td>8 m<sup>3</sup></td></tr><tr><td>59.</td><td>kůň</td><td>14 m<sup>3</sup></td></tr><tr><td>60.</td><td>pes - chovná stanice (pouze nad 2 kusy)</td><td>1 m<sup>3</sup></td></tr><tr><td colspan="2"><u>drůbež</u></td><td></td></tr><tr><td></td><td colspan="2"><u>na 100 kusů v průměru za rok</u></td></tr><tr><td>61.</td><td>slepice, perličky</td><td>11 m<sup>3</sup></td></tr><tr><td>62.</td><td>husy, kachny, krůty</td><td>36 m<sup>3</sup></td></tr></tbody></table>
+
+> X. ZAHRADY
+
+> <table><tbody><tr><td></td><td colspan="6"><u>v průměru za rok</u></td></tr><tr><td>63.</td><td colspan="5">venkovní zahrady okrasné (trávníky, květiny) nebo osázené zeleninou na 100 m<sup>2</sup></td><td>16 m<sup>3</sup></td></tr><tr><td></td><td colspan="6">Poznámka: neplatí pro výpočet snížení stočného podle § 19 odst. 9 zákona.</td></tr><tr><td>64.</td><td colspan="5">sady osázené ovocnými stromy nebo jinak využívané na 100 m<sup>2</sup></td><td>3 m<sup>3</sup></td></tr><tr><td>65.</td><td colspan="5">pro automatizované zalévání zahrad s pěstováním květin, zeleniny podle čidel na určení vlhkosti</td><td>12 m<sup>3</sup></td></tr><tr><td>66.</td><td colspan="5">průmyslové a skleníkové pěstování zeleniny, květin - pro jednotlivá zařízení (automatizované kropení) se určí potřeba množství podle příslušného technického návodu pro provoz využívaného objektu</td><td></td></tr></tbody></table>
+
+> XI. MYTÍ AUTOMOBILŮ
+
+> <table><tbody><tr><td></td><td colspan="6"><u>v průměru za rok</u></td></tr><tr><td>67.</td><td colspan="5">osobní automobil užívaný pro domácnost (stříkání a umývání)<br> - předpokládá se mytí 10 x ročně</td><td>1 m<sup>3</sup></td></tr><tr><td colspan="7">Poznámka: v odůvodněných případech může vlastník vodovodu nebo kanalizace, popřípadě jejich provozovatel, pokud je k tomu vlastníkem zmocněn, výše uvedená směrná čísla roční potřeby v částech I. až XI. snížit.“.</td></tr></tbody></table>
+
+6\. Příloha č. 13 zní:
+
+> **„Příloha č. 13 k vyhlášce č. 428/2001 Sb.**
+
+> **POŽADAVKY NA JAKOST SUROVÉ VODY**
+
+> **ČÁST 1 – UKAZATELÉ JAKOSTI SUROVÉ POVRCHOVÉ VODY A JEJICH MEZNÍ HODNOTY PRO JEDNOTLIVÉ KATEGORIE STANDARDNÍCH METOD ÚPRAVY SUROVÉ VODY NA PITNOU VODU**
+
+> Uvedené mezní hodnoty ukazatelů v tabulce limitují zařazení do příslušné kategorie jakosti (A1, A2, A3).
+
+> Kromě ukazatelů uvedených v tabulce č. 1a nesmí surová voda obsahovat další mikroorganizmy, parazity a látky jakéhokoliv druhu (tj. včetně všech ukazatelů uvedených ve vyhlášce č. 252/2004 Sb.) v počtu nebo koncentraci, které by mohly po její úpravě na vodu pitnou ohrozit veřejné zdraví.
+
+> **POVRCHOVÁ VODA**
+
+> **Tabulka č. 1a**
+
+> | Pořadové <br> číslo | Ukazatel | Jednotka | A1 | A2 | A3 |
+> |---|---|---|---|---|---|
+> | | | | mezní | mezní | mezní |
+> | 1. | Reakce vody | pH | 6,5-9,5 | 5-6,5 <br> 9,5-10 | &lt; 5 nebo <br> &lt; 10 |
+> | 2. | Barva | mg/l Pt | 20 | 100 | 200 |
+> | 3. | Nerozpuštěné látky suš. | mg/l | 10 | | |
+> | 4. | Teplota | °C | 20 | 25 | 25 |
+> | 5.\* | Konduktivita | mS /m | 125 | 125 | 125 |
+> | 6. | Pach | stupeň | 2 | 5 | 8 |
+> | 7. | Dusičnany | mg/l | 50 | 50 | 50 |
+> | 8. | Fluoridy | mg/l | 1,5 | 1,5 | 1,5 |
+> | 9. | Adsorbovatelné org. vázané halogeny (AOX) | mg/l | 0,01 | 0,02 | 0,03 |
+> | 10. | Železo celkové | mg/l | 0,2 | 1 | 2 |
+> | 11. | Mangan | mg/l | 0,05 | 0,5 | 1,5 |
+> | 12. | Měď | mg/l | 0,05 | 0,05 | 0,1 |
+> | 13. | Zinek | mg/l | 3 | 5 | 5 |
+> | 14. | Bor | mg/l | 1 | 1 | 1 |
+> | 15. | Berylium | mg/l | 0,002 | 0,002 | 0,002 |
+> | 16. | Nikl | mg/l | 0,02 | 0,03 | 0,03 |
+> | 17. | Arsen | mg/l | 0,01 | 0,01 | 0,02 |
+> | 18. | Kadmium | mg/l | 0,005 | 0,005 | 0,005 |
+> | 19. | Chrom veškerý | mg/l | 0,05 | 0,05 | 0,05 |
+> | 20. | Olovo | mg/l | 0,01 | 0,025 | 0,05 |
+> | 21. | Selen | mg/l | 0,01 | 0,01 | 0,01 |
+> | 22. | Rtuť | mg/l | 0,001 | 0,001 | 0,001 |
+> | 23. | Kyanidy veškeré | mg/l | 0,05 | 0,05 | 0,05 |
+> | 24.<sup>\*</sup> | Sírany | mg/l | 250 | 250 | 250 |
+> | 25.<sup>\*</sup> | Chloridy | mg/l | 100 | 100 | 250 |
+> | 26. | Tenzidy aniontové | mg/l | 0,2 | 0,2 | 0,5 |
+> | 27. | Uhlovodíky C10-C40 | mg/l | 0,05 | 0,05 | 0,5 |
+> | 28. | Polycyklické aromatické uhlovodíky (PAU) | µg/l | 0,1 | 0,1 | 0,2 |
+> | 29. | Pesticidní látky celkem | µg/l | 0,5 | 0,5 | 0,5 |
+> | 30. | Chemická spotřeba kyslíku manganistanem | mg/l | 3 | 10 | 15 |
+> | 31. | Biochemická spotřeba kyslíku (BSK<sub>5</sub>) při 20° C <br> s vyloučením nitrifikace | mg/l | 3 | 5 | 7 |
+> | 32. | Amonné ionty | mg/l | 0,5 | 1 | 3 |
+> | 33. | Celkový organický uhlík (TOC) | mg/l | 5 | 7 | 10 |
+> | 34. | Huminové látky | mg/l | 2,5 | 5,0 | 8,0 |
+> | 35. | Koliformní bakterie | KTJ/100 ml | 50 | 5000 | 50000 |
+> | 36. | Termotolerantní <br> koliformní bakterie | KTJ/ 100 ml | 20 | 2000 | 20000 |
+> | 37. | Fekální streptokoky (Enterokoky) | KTJ/ 100 ml | 20 | 1000 | 10000 |
+> | 38. | Mikroskopický obraz | jedinci/ml | 50 | 3000<br> 500<sup>1</sup>) | 10000<br> 1 000<sup>1)</sup> |
+> | 39. | Pesticid jednotlivý<sup>2</sup>) | µg/l | 0,1 | 0,1 | 0,5 |
+> | 40. | Hliník | mg/l | 0,2 | 1,0 | 2,0 |
+
+> <sup>1</sup>) Obtížně odstranitelné organismy jednostupňovou či vícestupňovou úpravou.
+
+> <sup>2</sup>) Limitní hodnota platí pro každý jednotlivý pesticid s výjimkou aldrinu, dieldrinu, heptachlor a heptachlorepoxidu, kde platí limitní hodnota 0,03 µg/l.
+
+> \* U ukazatelů pořadové číslo 5, 24 a 25 by voda neměla působit agresivně vůči materiálům rozvodného systému včetně domovních instalací.
+
+> Vysvětlivky k tabulce č. 1a:
+
+> 1\) M - mezní, povinné hodnoty.
+
+> 2\) Ukazatel pořadové číslo 6 (pach): v případě zvýšeného pachu (&gt; stupeň 5), který bude charakterizován jako pach po chlorfenolech, případně dalších obdobných, je nutné provést detailní analýzu na podezřelé organické sloučeniny (zvláště fenoly) a posoudit jejich závadnost a koncentrace.
+
+> 3\) Ukazatel pořadové číslo 9 (AOX): není nutné stanovit a kategorizovat v případech, když jsou stanoveny specifické chlorované organické látky v rozsahu úplného rozsahu pitné vody a vyhovují předepsaným limitním hodnotám podle vyhlášky č. 252/2004 Sb.
+
+> 4\) Ukazatel pořadové číslo 12 (měď): limit je dán možností organoleptických závad při koncentracích nad 100 µg/l. V případě, že nejsou žádné organoleptické závady, platí pro kategorii A3 limit 1,0 mg/l (jako pitná voda).
+
+> 5\) Ukazatel pořadové číslo 27: změna metodiky stanovení a původního názvu z nepolární extrahovatelné látky „(NEL)“ na „uhlovodíky C10-C40“. Mezní hodnoty se nemění do doby, kdy bude provedeno na centrální úrovni vyhodnocení vazeb těchto dvou stanovení.
+
+> 6\) Ukazatel pořadové číslo 28 (PAU): je vyjádřen jako součet koncentrací: benzo(b)fluoranten, benzo(k)fluoranten, benzo(ghi) perylen, indeno (1, 2, 3 - cd) pyren.
+
+> 7\) Ukazatel pořadové číslo 29: je vyjádřen jako součet (hodnot nad mezí stanovitelnosti) všech stanovených pesticidů. Není-li látka zjištěna kvantitativně, k součtu se přičítá nula. Stanovují se ty pesticidy, u kterých je pravděpodobné, že se budou v daném zdroji vyskytovat.
+
+> 8\) Podmínky měření hodnot ukazatelů jakosti a referenční metody jsou uvedeny v příloze č. 14 k této vyhlášce. Laboratoře, které používají jiné metody, musí zaručit, že obdržené výsledky jsou rovnocenné nebo srovnatelné v porovnání s metodami uvedenými v příloze č. 14 k této vyhlášce.
+
+> **PODZEMNÍ VODA**
+
+> **Tabulka č. 1b**
+
+> **UKAZATELÉ JAKOSTI SUROVÉ PODZEMNÍ VODY A JEJICH MEZNÍ HODNOTY PRO JEDNOTLIVÉ KATEGORIE STANDARDNÍCH METOD ÚPRAVY SUROVÉ VODY NA PITNOU VODU**
+
+> Pro podzemní vodu platí ukazatele uvedené v tabulce č. 1a pro povrchovou vodu kromě dále uvedených ukazatelů, pro které platí následující limity:
+
+> <table><tbody><tr><th>Ukazatel</th><th>Jednotka</th><th>A1</th><th>A2</th><th>A3</th></tr><tr><td>Železo</td><td>mg/l</td><td>0,2</td><td>5</td><td>20</td></tr><tr><td>Mangan</td><td>mg/l</td><td>0,05</td><td>1,0</td><td>2,0</td></tr><tr><td>Sulfan</td><td>mg/l</td><td colspan="3">platí limity pachu</td></tr></tbody></table>
+
+> **ČÁST 2 – STANDARDNÍ METODY ÚPRAVY VODY TYPY ÚPRAV PRO JEDNOTLIVÉ KATEGORIE SUROVÉ VODY**
+
+> **Tabulka č. 2**
+
+> | Pro kategorii | Typy úprav |
+> |---|---|
+> | A1 | Úprava surové vody s koncovou dezinfekcí pro odstranění sloučenin a prvků, které mohou mít vliv na její další použití a to zvláště snížení agresivity vůči materiálům rozvodného systému včetně domovních instalací (chemické nebo mechanické odkyselení), dále odstranění pachu a plynných složek provzdušňováním. Prostá filtrace pro odstranění nerozpuštěných látek a zvýšení jakosti. |
+> | A2 | Surová voda vyžaduje jednodušší úpravu, např. koagulační filtraci, jednostupňové odželezňování, odmanganování nebo infiltraci, pomalou biologickou filtraci, úpravu v horninovém prostředí a to vše s koncovou dezinfekcí. Pro zlepšení vlastností je vhodná stabilizace vody. |
+> | A3 | Úprava surové vody vyžaduje dvou či vícestupňovou úpravu čiřením, oxidací, odželezňováním a odmanganováním s koncovou dezinfekcí popř. jejich kombinaci. Mezi další vhodné procesy se řadí např. využívání ozónu, aktivního uhlí, pomocných flokulantů, flotace. Ekonomicky náročnější postupy technicky zdůvodněné (např. sorpce na speciálních materiálech, iontová výměna, membránové postupy) se použijí mimořádně. |
+> | Vyšší koncentrace než jsou uvedeny pro kategorii A3 | Podle § 13 odst. 2 zákona lze vodu této jakosti výjimečně odebírat pro výrobu pitné vody s udělením výjimky příslušným krajským úřadem. Pro úpravu na vodu pitnou se musí použít technologicky náročné postupy spočívající v kombinaci typů úprav uvedených pro kategorii A3, při čemž je nutné zajistit stabilní kvalitu vyráběné pitné vody podle vyhlášky č. 252/2004 Sb. Přednostním řešením v těchto případech je však eliminace příčin znečištění anebo vyhledání nového zdroje vody. |
+
+> Poznámka: Vyjmenované typy úpravy pro danou kategorii surové vody je možné využívat i pro jakost surové vody zařazené do horší jakostní kategorie (např. typ úpravy A1 pro kategorii A2.
+
+> **ČÁST 3 – ZPŮSOB VYHODNOCENÍ A ZAŘAZENÍ SUROVÉ VODY DO KATEGORIÍ**
+
+> 1\) Základní zařazení nového zdroje surové vody
+
+> a) Základní zařazení nového zdroje surové vody do kategorie se provádí vyhodnocením ukazatelů jakosti surové vody uvedeným v tabulkách č.1a a 1b, a to s četnosti minimálně 12 vzorků v průběhu dvou let (§ 22 odst. 4 a 5).
+
+> b) Surová voda je považována za vyhovující příslušným ukazatelům v dané kategorii, pokud vzorky této vody odebírané v pravidelných intervalech a v tomtéž bodě vzorkování budou vyhovovat hodnotám ukazatelů pro odpovídající kvalitu vody, a to u 95% odebraných vzorků.
+
+> c) Každý ukazatel je svými výsledky zařazen do vlastní kategorie. Výsledná kategorie je určena podle nejhorší kategorie jednotlivého ukazatele.
+
+> d) Je-li u některého ukazatele uvedena stejná limitní hodnota pro kategorii A1, A2 i A3, potom v případě překročení mezní hodnoty kategorie A1 bude ukazatel zařazen mimo kategorie A1, A2, A3 (tj. nevyhovuje předepsaným kategoriím svojí vyšší koncentrací) tj. &gt; A3.
+
+> e) Je-li u některého ukazatele uvedena stejná limitní hodnota pro kategorii A1 a A2 a vyšší pro kategorii A3, potom v případě překročení mezní hodnoty kategorie A1 je ukazatel zařazen do kategorie A3.
+
+> 2\) Upřesnění kategorie
+
+> a) Stávající kategorie surové vody se upřesňuje každý rok (§ 22 odst. 6) podle výsledků prováděných rozborů v rámci plánu kontroly jakosti rozborů surové vody podle přílohy č. 9 k této vyhlášce. K hodnocení budou použity výsledky všech monitorovacích a úplných rozborů za hodnocené období včetně zařazení dalších ukazatelů podle poznámky uvedené u tabulky č. 3 přílohy č. 9 k této vyhlášce.
+
+> b) Ukazatel, jehož zjištěná hodnota je vyšší než mezní hodnota určená pro kategorii A3 a je potvrzena opakovaným nálezem, pak je i při nižším počtu odebraných vzorků než 12 zařazen zdroj mimo kategorie A1, A2, A3 (tj. nevyhovuje předepsaným kategoriím svojí vyšší koncentrací).
+
+> c) Pro upřesnění kategorie platí uvedené zásady v bodě 1b) a c) Základní zařazení nového zdroje surové vody.
+
+> d) Pro povrchovou vodu se pro upřesnění kategorie vychází z hodnot ukazatelů a četnosti odběrů získaných za období posledních 2 let. V případě podzemní vody se vychází z hodnot získaných za období posledních 2 až 5 let.
+
+> 3\) Od požadavků uvedených v odstavci 1 a 2 je možné se odchýlit:
+
+> a) v případech povodní nebo jiných přírodních katastrof nebo abnormálních povětrnostních podmínek (při výpočtu procent podle odstavce 1b) nebudou brány v úvahu hodnoty vyšší, pokud budou důsledkem těchto podmínek);
+
+> b) v případech, kdy povrchová voda podléhá přírodnímu obohacování určitými látkami, které může mít za důsledek překročení limitů stanovených v tabulce č. 1a této přílohy pro kategorie A1, A2 a A3. Přirozeným obohacováním se rozumí proces, při kterém bez lidského zásahu do povrchové vody přecházejí z půdy látky v nich obsažené. Zařazení se provede do nejbližší nižší kategorie;
+
+> c) u stojatých povrchových vod nebo u povrchových vod v mělkých nádržích u ukazatelů železo, mangan, chemická spotřeba kyslíku (CHSK<sub>Mn</sub>), nasycení kyslíkem, BSK<sub>5</sub>; 
+>  Odchylka platí pouze pro nádrže s hloubkou do 20 m, s výměnou vody v nádrži kratší než jeden rok a bez přítoku odpadních vod, dále při odběrech z různých horizontů;
+
+> d) pokud u maximálně dvou ukazatelů stanovená hodnota přesahuje mezní hodnoty kategorie A3 a ostatní ukazatele odpovídají kategorii A1 popř. A2, pak je třeba stanovenou hodnotu ověřit dalšími rozbory. Pokud výsledek technologické zkoušky prokáže, že lze tuto vodu upravit jednodušším postupem, než by odpovídalo kategorii A3, pak se zařazuje surová voda do kategorie odpovídající výsledku technologické zkoušky.
+
+> 4\) Vyloučení vzorků podle odstavce 3 posoudí provozovatel s ohledem na četnost jejich výskytu.
+
+> 5\) V případě značného kolísání jakosti surové vody v průběhu roku, kdy zdroj nelze jednoznačně zařadit do kategorie, určí se výsledná kategorie dále uvedeným výpočtem průměrného indexu upravitelnosti podle vybraného ukazatele se zvláště proměnlivými výsledky. Index upravitelnosti zaokrouhlený výše se rovná kategorii surové vody pro daný ukazatel.
+
+> 6\) Zařazení podzemní surové vody do kategorie se provádí podle odstavce 1 a 2 s využitím tabulky 1b) této přílohy.
+
+> **ZPŮSOB URČENÍ PRŮMĚRNÉHO INDEXU UPRAVITELNOSTI PRO STANDARDNÍ METODY ÚPRAVY VODY**
+
+> 1\. Pro potřebu určení typu úpravy a technologického zařízení úpraven vod, kdy vzhledem k většímu kolísání jakosti surové vody nejde v průběhu roku zdroj zařadit jednoznačně do jedné kategorie, může provozovatel určit průměrný index upravitelnosti (I<sub>u,p</sub>) vybraných ukazatelů podle vztahu:
+
+> I<sub>u,p </sub>= I<sub>u1</sub> (a)/(100)+I<sub>u2</sub> (b)/(100) + I<sub>u3</sub> (c)/(100)+ I<sub>u4</sub> (d)/(100) ,
+
+> kde a, b, c je četnost výskytu ukazatele v procentech v kategorii A1, A2, A3 a kde je četnost výskytu ukazatele v kategorii větší než A3.
+
+> 2\. Index upravitelnosti (Iu) je číslo odpovídající kategoriím A1 až A3 (I<sub>u1</sub>= 1, <sub>u2</sub> = 2, I<sub>u3</sub>= 3). Pro hodnoty větší než přísluší kategorii A3 je I<sub>u4</sub> = 4. Rostoucí index upravitelnosti je úměrný zhoršující se kvalitě zdroje a tím surová voda vyžaduje náročnější typ úpravy podle tabulky č. 2 v části 2.
+
+> 3\. V případě, že hodnota vypočteného indexu upravitelnosti (Iu) vychází mezi celými čísly, tak rozhodnutí o odpovídajícím typu úpravy musí akceptovat vzrůstající náročnost úpravy pro ukazatel s nejvyšší a nejvíce proměnlivou hodnotou.“.
+
+7\. Příloha č. 14 zní:
+
+> **„Příloha č. 14 k vyhlášce č. 428/2001 Sb.**
+
+> **PODMÍNKY MĚŘENÍ HODNOT UKAZATELŮ JAKOSTI SUROVÉ VODY A REFERENČNÍ METODY**
+
+> **Tabulka č. 1**
+
+> **MEZE STANOVITELNOSTI, PŘESNOST A SPRÁVNOST**
+
+> | | Ukazatel | Jednotka | Mez <br> stanovitelnosti | Přesnost<br> +/- | Správnost<br> +/- |
+> |---|---|---|---|---|---|
+> | 1. | Reakce vody | | | 0.1 | 0.2 |
+> | 2. | Barva | mg/l Pt | 2 | 10% | 20% |
+> | 3. | Nerozpuštěné látky | mg/l | 3 | 10% | 20% |
+> | 4. | Teplota | °C | | 5% | 10% |
+> | 5. | Konduktivita | mS/m | | 5% | 10% |
+> | 6. | Pach | stupeň | | | |
+> | 7. | Dusičnany | mg/l | 2 | 10% | 20% |
+> | 8. | Fluoridy | mg/l | 0,2 | 10% | 20% |
+> | 9. | Adsorbovatelné <br> org. vázané <br> halogeny (AOX) | mg/l | 0,01 | 20% | 25% |
+> | 10. | Železo celkové | mg/l | 0,05 | 10% | 20% |
+> | 11. | Mangan | mg/l | 0,01 | 15% | 25% |
+> | 12. | Měď | mg/l | 0,01 | 15% | 25% |
+> | 13. | Zinek | mg/l | 0,01 | 15% | 25% |
+> | 14. | Bor | mg/l | 0,05 | 10% | 20% |
+> | 15. | Berylium | mg/l | 0,0005 | 20% | 30% |
+> | 16. | Nikl | mg/l | 0,001 | 20% | 30% |
+> | 17. | Arsen | mg/l | 0,001 | 20% | 30% |
+> | 18. | Kadmium | mg/l | 0,0005 | 20% | 30% |
+> | 19. | Chrom veškerý | mg/l | 0,001 | 20% | 30% |
+> | 20. | Olovo | mg/l | 0,001 | 20% | 30% |
+> | 21. | Selen | mg/l | 0,001 | 20% | 30% |
+> | 22. | Rtuť | mg/l | 0,0002 | 20% | 30% |
+> | 23. | Baryum | mg/l | 0,01 | 15% | 25% |
+> | 24. | Kyanidy veškeré | mg/l | 0,005 | 20% | 25% |
+> | 25. | Sírany | mg/l | 10 | 10% | 20% |
+> | 26. | Chloridy | mg/l | 10 | 10% | 10% |
+> | 27. | Tenzidy aniontové | mg/l | 0,02 | 10% | 20% |
+> | 28. | Fenoly jednosytné | mg/l | 0,002 | 20% | 25% |
+> | 29. | Uhlovodíky C10-C40 | mg/l | 0,1 | 20% | 25% |
+> | 30. | Polycyklické aromatické uhlovodíky (PAU) | µg/l | 0,02 | 30% | 50% |
+> | 31. | Pesticidní látky celkem | µg/l | 0,1 | 30% | 50% |
+> | 32. | Chemická spotřeba kyslíku manganistanem | mg/l | 0,5 | 10% | 20% |
+> | 33. | Nasycení kyslíkem | % | | 10% | 20% |
+> | 34. | Biochemická spotřeba kyslíku (BSK<sub>5</sub>) při 20° C s vyloučením nitrifikace | mg/l | | 10% | 20% |
+> | 35. | Amonné ionty | mg/l | 0,05 | 10% | 20% |
+> | 36. | Celkový organický uhlík (TOC) | mg/l | 1 | 10% | 20% |
+> | 37. | Huminové látky | mg/l | 0,5 | 10% | 20% |
+> | 38. | Koliformní bakterie | KTJ/100ml | | | |
+> | 39. | Termotolerantní koliformní bakterie | KTJ/100ml | | | |
+> | 40. | Fekální streptokoky (Enterokoky) | KTJ/100ml | | | |
+> | 41. | Salmonely | KTJ/1000ml KTJ/5000ml | | | |
+> | 42. | Mikroskopický obraz | jedinci/ml | | | |
+> | 43. | Pesticid jednotlivý | µg/l | 0,01 | 30% | 50% |
+> | 44. | Hliník | mg/l | 0,005 | 20% | 25% |
+
+> Pro účely této tabulky se rozumí:
+
+> a) mezí stanovitelnosti minimální hodnota ukazatele, kterou je možno stanovit s přijatelnou přesností a správností;
+
+> b) správností rozsah, v němž se nachází 95 % výsledků měření dosažených u jednotlivého vzorku při použití stejného postupu;
+
+> c) přesností rozdíl mezi skutečnou hodnotou šetřeného ukazatele a průměrnou hodnotou získanou měřením.
+
+> **Tabulka č. 2**
+
+> **REFERENČNÍ METODY MĚŘENÍ HODNOT UKAZATELŮ POVRCHOVÉ SUROVÉ VODY**
+
+> | | Ukazatel | Jednotka | Pracovní postup podle |
+> |---|---|---|---|
+> | 1. | Reakce vody | | ČSN ISO 10523 |
+> | 2. | Barva | mg/l Pt | ČSN EN ISO 7887 |
+> | 3. | Nerozpuštěné látky | mg/l | ČSN EN 872 |
+> | 4. | Teplota | °C | ČSN 75 7342 |
+> | 5. | Konduktivita | mS/m | ČSN EN 27888 |
+> | 6. | Pach | stupeň | ČSN EN 1622 |
+> | 7. | Dusičnany | mg/l | ČSN ISO 7890-3<br> ČSN EN ISO 10304-1<br> ČSN EN ISO 13395<br> ČSN 75 7455 |
+> | 8. | Fluoridy | mg/l | ČSN ISO 10359-1<br> ČSN EN ISO 10304-1 |
+> | 9. | Adsorbovatelné org. vázané halogeny (AOX) | mg/l | ČSN EN ISO 9562 |
+> | 10. | Železo celkové | mg/l | ČSN EN ISO 15586<br> ČSN EN ISO 11885<br> ČSN ISO 6332 |
+> | 11. | Mangan | mg/l | ČSN EN ISO 15586<br> ČSN EN ISO 11885 |
+> | 12. | Měď | mg/l | ČSN ISO 8288<br> ČSN EN ISO 15586<br> ČSN EN ISO 11885 |
+> | 13. | Zinek | mg/l | ČSN ISO 8288<br> ČSN EN ISO 15586<br> ČSN EN ISO 11885 |
+> | 14. | Bor | mg/l | ČSN ISO 9390<br> ČSN EN ISO 11 885 |
+> | 15. | Berylium | mg/l | ČSN EN ISO 15586<br> ČSN EN ISO 11885 |
+> | 16. | Nikl | mg/l | ČSN ISO 8288<br> ČSN EN ISO 15586<br> ČSN EN ISO 11885 |
+> | 17. | Arsen | mg/l | ČSN EN ISO 15586<br> ČSN EN ISO 11969<br> ČSN EN ISO 11885 |
+> | 18. | Kadmium | mg/l | ČSN EN ISO 5961<br> ČSN ISO 8288<br> ČSN EN ISO 15586<br> ČSN EN ISO 11885 |
+> | 19. | Chrom veškerý | mg/l | ČSN EN ISO 15586<br> ČSN EN ISO 11885<br> ČSN EN 1233 |
+> | 20. | Olovo | mg/l | ČSN ISO 8288<br> ČSN EN ISO 15586<br> ČSN EN ISO 11885 |
+> | 21. | Selen | mg/l | ČSN EN ISO 15586<br> ČSN EN ISO 11885<br> ČSN ISO 9965 |
+> | 22. | Rtuť | mg/l | ČSN 75 7440<br> ČSN EN 1483<br> ČSN ISO 5666-2<br> ČSN EN 12338 |
+> | 23. | Baryum | mg/l | ČSN EN ISO 11885 |
+> | 24. | Kyanidy veškeré | mg/l | ČSN EN ISO 14403 |
+> | 25. | Sírany | mg/l | ČSN ISO 10 304-1 |
+> | 26. | Chloridy | mg/l | ČSN ISO 9297<br> ČSN EN ISO 15682<br> ČSN EN ISO 10304-1 |
+> | 27. | Tenzidy aniontové | mg/l | ČSN EN 903 |
+> | 28. | Fenoly jednosytné | mg/l | ČSN ISO 6439<br> ČSN EN ISO 14402<br> ČSN ISO 8165-1 |
+> | 29. | Uhlovodíky C10-C40 | mg/l | ČSN EN ISO 9377-2 |
+> | 30. | Polycyklické aromatické uhlovodíky (PAU) | µg/l | ČSN 75 7554<br> ČSN EN ISO 17993 |
+> | 31. | Pesticidní látky celkem | µg/l | ČSN EN ISO 6468<br> ČSN EN ISO 10695 |
+> | 32. | Chemická spotřeba kyslíku manganistanem | mg/l | ČSN EN ISO 8467 |
+> | 33. | Nasycení kyslíkem | % | ČSN EN 25 813<br> ČSN EN 25 814 |
+> | 34. | Biochemická spotřeba kyslíku (BSK<sub>5</sub>) při 20° C s vyloučením nitrifikace | mg/l | ČSN EN 1899-1<br> ČSN EN 1899-2 |
+> | 35. | Amonné ionty | mg/l | ČSN ISO 7150-1<br> ČSN EN ISO 11732 |
+> | 36. | Celkový organický uhlík (TOC) | mg/l | ČSN EN 1484 |
+> | 37. | Huminové látky | mg/l | ČSN 75 7536 |
+> | 38. | Koliformní bakterie | KTJ/100ml | ČSN EN ISO 9308-1 |
+> | 39. | Termotolerantní koliformní bakterie | KTJ/100ml | ČSN 75 7835 |
+> | 40. | Fekální streptokoky (Enterokoky) | KTJ/100ml | ČSN EN ISO 7899-1 ČSN EN ISO 7899-2 |
+> | 41. | Salmonely | KTJ/1000ml KTJ/5000ml | ČSN ISO 19250 |
+> | 42. | Mikroskopický obraz | jedinci/ml | ČSN 75 7712 |
+> | 43. | Pesticid jednotlivý | µg/l | ČSN EN ISO 6468<br> ČSN EN ISO 10695<br> ČSN EN ISO 11369 |
+> | 44. | Hliník | mg/l | ČSN EN ISO 15 586<br> ČSN ISO 10 566<br> ČSN EN ISO 12020<br> ČSN EN ISO 11885 |
+>
+> “.
+
+8\. V příloze č. 15 se za bod 5 doplňuje bod 6, který zní:
+
+> „6. Ukazatele a koncentrační limity uvedené v tabulce se používají podle metodiky ministerstva také pro výpočet zvýšených nákladů na čištění odpadních vod s nadstandardním znečištěním.“.
+
+9\. V příloze č. 15 v tabulce Orientační ukazatele pro stanovení přípustné míry znečištění pro vypouštěné průmyslové odpadní vody do kanalizace (koncentrační limity) se slova
+
+> „
+>
+> | Nepolární extrahovatelné látky | NEL | 10 |
+> |---|---|---|
+>
+> “
+
+> nahrazují slovy
+
+> „
+>
+> | Uhlovodíky C10-C40 | C10-C40 | 10 |
+> |---|---|---|
+>
+> “.
+
+10\. Příloha č. 18 zní:
+
+> **„Příloha č. 18 k vyhlášce č. 428/2001 Sb.**
+
+> **PLÁN FINANCOVÁNÍ OBNOVY VODOVODŮ NEBO KANALIZACÍ**
+
+> 1\. Vlastník vodovodu nebo kanalizace:
+
+> A. Právnická osoba:
+
+> Obchodní firma nebo název:
+
+> Sídlo:
+
+> Identifikační číslo, bylo-li přiděleno:
+
+> Statutární orgán:
+
+> B. Fyzická osoba:
+
+> Jméno a příjmení:
+
+> Obchodní firma:
+
+> Identifikační číslo, bylo-li přiděleno:
+
+> Datum narození:
+
+> Adresa místa trvalého pobytu:
+
+> Místo podnikání:
+
+> 2\. Provozovatel (uvede se v rozsahu údajů podle bodu 1 písm. A nebo B, není-li shodný s vlastníkem):
+
+> 3\. Míra odpovědnosti za obnovu majetku vodovodů a kanalizací vyplývající ze smlouvy podle § 8 odst. 2 zákona:
+
+> 4\. Tabulka plánu financování obnovy vodovodů nebo kanalizací:
+
+> Č.j.:
+
+> Datum schválení:
+
+> Razítko vlastníka a podpis statutárního zástupce:
+
+> <table><tbody><tr><th rowspan="2">Poř. č.</th><th rowspan="2">Majetek podle skupin pro vybrané údaje majetkové evidence</th><th rowspan="2">Hodnota jako součet hodnot položek uvedených <br> ve vybraných údajích majetkové evidence <br> v mil.Kč <br> na 2 desetinná místa</th><th rowspan="2">Vyhodnocení stavu majetku vyjádřené <br> v % opotřebení. Výsledek Impairmentu <br> v %</th><th rowspan="2">Teoretická doba akumulace prostředků <br> v počtu<br> roků</th><th rowspan="2">Délka <br> potrubí <br> v roce schválení plánu<br> v km</th><th colspan="6">Finanční prostředky na obnovu vodovodů a kanalizací <br> v mil. Kč na 2 desetinná místa</th></tr><tr><th>2011</th><th>2012</th><th>2013</th><th>2014</th><th>2015</th><th>2016-2020</th></tr><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr><tr><td>2</td><td>Vodovody přiváděcí řady</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td>+</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>+ rozvodná vodovodní síť</td><td>++</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>Úpravny vody</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">0</td><td>+</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>+ zdroje bez úpravy</td><td>++</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>Kanalizace, přiváděcí stoky</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td>+</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>+ stoková síť</td><td>++</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td rowspan="2">Čistírny odpadních vod</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">0</td><td>+</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>++</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>Vodovody celkem</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td>Kanalizace celkem</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td>CELKEM</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td colspan="5">Celkem řádky 2, 4, 6, 8 +</td><td>+</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td colspan="5">Celkem řádky 3, 5, 7, 9 ++</td><td>++</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+> \* Obnovou je pro tento účel myšlena taková výměna části vodovodu, úpravny vody, kanalizace, ČOV, kterou lze vymezit samostatnou položkou uvedenou ve vybraných údajích majetkové evidence (VÚME), případně jako inventárně vymezenou a sledovanou část majetku vlastníka, za účelem získání nové životnosti stavby i technologie a tím i zachování dobrého stavu celého systému vodovodu nebo kanalizace.
+
+> \+ Finanční prostředky získané z vodného a stočného; v komentáři vlastník popíše zdroje této hodnoty (nájemné, odpisy účetní, opravy, popř. prostředky účelově určené pro obnovu tímto plánem.
+
+> \++ Finanční prostředky ostatní - jedná se o jiné než získané z vodného a stočného; v komentáři vlastník popíše způsob členění a stanovení této hodnoty (např. dotace, zdroje z příjmů obcí, úvěry atd.)
+
+> Sloupce
+
+> 1\. Pořadové číslo řádku - pro orientaci v tabulce.
+
+> 2\. Skupiny majetku podle § 5 zákona, popřípadě i ve členění po identifikačních číslech majetkové evidence (IČME).
+
+> 3\. Hodnota jako součet hodnot uvedených u jednotlivých položek ve vybraných údajích majetkové evidence. Zadává se celková hodnota majetku k 1. lednu roku, ve kterém je plán zpracován a schválen. Tímto rokem je rok předcházející prvnímu roku plánovacího desetiletého období. Hodnota majetku se zadává sumárně pro skupiny: vodovody, kanalizace, úpravny vody, čistírny odpadních vod nebo po IČME. Majetek se ocení v cenách stanovených ministerstvem podle dlouhodobého sledování cen investic v oboru vodovodů a kanalizací. Tyto ceny jsou ministerstvem nejméně každých pět let aktualizovány. Zařazení majetku do sumárních skupin a ocenění dílčích položek majetku se řídí dle pravidel a metodiky majetkové evidence. Pro všechny čtyři skupiny majetku se zadává hodnota v mil. Kč na dvě desetinná místa.
+
+> 4\. Vlastník si dle vlastního uvážení (metodiky) stanoví hodnotu procenta opotřebení pro jednotlivé skupiny vybraných údajů majetkové evidence popřípadě položky. Určení % za větší celky se provede váženým (podle ceny) průměrem. Způsob stanovení procent opotřebení se popíše v komentáři plánu. Procento je vyjádřením stavu, lze jej odvodit i z délky životnosti Vyhodnocení je možné i jako výsledek Impairmentu.
+
+> 5\. Teoretická doba akumulace prostředků v počtu roků = životnost/100 \* (100 - opotřebení v %); zaokrouhluje se na celé roky. Doporučuje se uvažovat následující životnost: vodovodní řady přiváděcí a vodovodní síť 80 let; úpravny vody, popřípadě zdroje 45 let; kanalizační síť 90 let; čistírny odpadních vod 40 let.
+
+> 6\. Pro vodovody - přiváděcí řady + rozvodnou vodovodní síť a kanalizaci - přiváděcí stoky + stokovou síť se uvádí délka v km na dvě desetinná místa. Délka se uvádí podle vybraných údajů majetkové evidence.
+
+> 7\. až 11. Potřebné finanční prostředky se uvádí ve členění na získané z vodného a stočného a ostatní, podle poznámky pod tabulkou, samostatně na kalendářní rok.
+
+> 12\. Potřebné finanční prostředky se uvádí ve členění na získané z vodného a stočného a ostatní, podle poznámky pod tabulkou, jako souhrn na 5 kalendářních roků.
+
+> 5\. Pravidla k vyplnění tabulky podle bodu 4 (pravidla pro zpracování tabulky plánu financování obnovy vodovodů nebo kanalizací):
+
+> A. majetek vodovodů nebo kanalizací se uvádí v členění na skupiny podle § 5 zákona a podle § 6 odst. 2. Jednotlivé položky podle vybraných údajů majetkové evidence je možné uvádět samostatně, popřípadě členit na části podle technického hlediska, provozního hlediska nebo ve vazbě na realizaci obnovy, vždy se však uvádí součet pro skupinu položek podle vybraných údajů majetkové evidence. V případě členění plánu financování obnovy pouze na skupiny, je třeba uvést pod tabulkou k jednotlivým skupinám všechna identifikační čísla majetků do skupiny náležejících. V případě, že vlastník rozčlení skupinu pro vybrané údaje majetkové evidence přímo podle identifikačních čísel majetku, použije pro označení řádku číslování s lomítkem (např. při členění vodovodních sítí 2/1, 3/1, 2/2, 3/2, 2/3, 3/3 úpraven vod 4/1, 5/1, 4/2, 5/2, kanalizačních sítí 6/1, 7/1, 6/2, 7/2, a u čistíren odpadních vod 8/1, 9/1, 8/2, 9/2 atd.), součty za celou skupinu se uvedou do řádků 2, 3, 4, 5, 6, 7, 8, 9.
+
+> B. K jednotlivým položkám plánu financování obnovy vodovodů nebo kanalizací nebo jejich součtům se přiřazují vypočtené aktuální pořizovací ceny, uvedené v přílohách č. 1 až 4 k této vyhlášce, to je ve vybraných údajích majetkové evidence. Hodnota majetku se zadává souhrnně pro skupiny: vodovodní řady; kanalizační stoky; stavba pro úpravu vody a čistírna odpadních vod nebo po jednotlivých IČME. Aktuální hodnota se podle cen uvedených v metodickém pokynu ministerstva stanovených na základě dlouhodobého sledování cen investic v oboru vodovodů a kanalizací; tyto ceny jsou nejméně každé 3 roky aktualizovány. Zařazení majetku do skupin a ocenění dílčích položek majetku se řídí pravidly a metodikou majetkové evidence. Pro všechny čtyři skupiny majetku se zadává „hodnota“ v mil. Kč na dvě desetinná místa (jedná se o sloupec 3 tabulky).
+
+> C. Vlastník si podle vlastního uvážení (metodiky) stanoví hodnotu procenta opotřebení pro jednotlivé skupiny vybraných údajů majetkové evidence popřípadě položky. Určení procent za větší celky se provede váženým průměrem podle aktuální hodnoty. Způsob stanovení procent opotřebení se popíše v komentáři podle bodu 8. Procento je vyjádřením stavu, lze jej odvodit i z délky životnosti podle § 30 a 31 zákona č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, s přihlédnutím k dalším aspektům - například zatížení provozem, povrchy nebo použité materiály. Vyhodnocení je možné vyjádřit i jako výsledek „Impairmentu“.
+
+> D. Potřeba finančních prostředků se uvede na základě údajů uvedených v bodech B a C do časového harmonogramu na 5 let samostatně, jedná se o sloupce 7, 8, 9, 10, 11 a dalších 5 let v souhrnu do sloupce 12, ve členění na prostředky získané z vodného a stočného a prostředky ostatní jako jsou úvěry, dotace a další zdroje z jiných příjmů.
+
+> 6\. Komentář k plánu financování obnovy vodovodů nebo kanalizací s popisem postupu při zpracování, včetně použitého způsobu vyhodnocení stavu tohoto majetku, odůvodnění výše položek finančních prostředků získaných z vodného a stočného a ostatních ve vazbě na sociální, environmentální a ekonomické důsledky.
+
+> 7\. Doklad o schválení plánu financování obnovy vodovodů nebo kanalizací statutárním orgánem vlastníka.
+
+> 8\. Doklady k realizaci plánu financování obnovy vodovodů nebo kanalizací v jednotlivých letech po jeho zpracování tvoří vyúčtování podle § 36 odst. 5 zákona a seznam realizovaných akcí obnovy včetně nákladů.
+
+> 9\. Č. j. a datum schválení:
+
+> 10\. Otisk razítka a podpis vlastníka:“.
+
+11\. V příloze č. 19 v tabulce č. 2a v řádku 11.b sloupci 2 se číslo „12“ nahrazuje číslem „11“ a za řádek 11.b se vkládá řádek 11.c, který zní:
+
+> „
+>
+> | 11.c | Prostředky uvedené v plánu financování obnovy a skutečnost jejich čerpání | mil. Kč | | | | | |
+> |---|---|---|---|---|---|---|---|
+>
+> “.
+
+12\. V příloze č. 19 v tabulce č. 2a v řádku 13 sloupci 2b se text „řádku D, F + H“ doplňuje o číslici „I<sup>\*</sup>“ a pod tabulkou č. 2a se doplňují slova „<sup>\*</sup> Pouze pro případy kalkulace a skutečnosti ceny u vody odpadní převzaté k čištění.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení, s výjimkou ustanovení čl. I bodu 5, které nabývá účinnosti dnem 1. ledna 2012.
+
+Ministr:
+
+Ing. Fuksa v. r.

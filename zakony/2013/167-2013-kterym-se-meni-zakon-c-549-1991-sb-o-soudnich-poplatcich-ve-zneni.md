@@ -1,0 +1,48 @@
+---
+title: "Zákon č. 167/2013 Sb., kterým se mění zákon č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů"
+identifier: "167/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/167/2013-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2013-05-16
+effective: 2013-07-01
+last_amended: 2013-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/167"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 167/2013 Sb., kterým se mění zákon č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů
+
+167
+
+ZÁKON
+
+ze dne 16. května 2013,
+
+kterým se mění zákon č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+V § 11 zákona č. 549/1991 Sb., o soudních poplatcích, ve znění zákona č. 271/1992 Sb., zákona č. 36/1995 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 209/1997 Sb., zákona č. 227/1997 Sb., zákona č. 103/2000 Sb., zákona č. 155/2000 Sb., zákona č. 255/2000 Sb., zákona č. 451/2001 Sb., zákona č. 151/2002 Sb., zákona č. 309/2002 Sb., zákona č. 192/2003 Sb., zákona č. 628/2004 Sb., zákona č. 357/2005 Sb., zákona č. 72/2006 Sb., zákona č. 112/2006 Sb., zákona č. 159/2006 Sb., zákona č. 189/2006 Sb., zákona č. 296/2007 Sb., zákona č. 216/2008 Sb., zákona č. 217/2009 Sb., zákona č. 427/2010 Sb., zákona č. 218/2011 Sb., zákona č. 458/2011 Sb., zákona č. 396/2012 Sb. a zákona č. 45/2013 Sb., se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno v), které zní:
+
+> „v) navrhovatel v řízení o náhradě škody nebo nemajetkové újmy nebo na vydání bezdůvodného obohacení, který řádně uplatnil nárok v trestním řízení, které bylo zastaveno z důvodu rozhodnutí prezidenta republiky.“.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Ustanovení § 11 odst. 2 písm. v) zákona č. 549/1991 Sb., o soudních poplatcích, ve znění účinném ode dne nabytí účinnosti tohoto zákona, se použije i na řízení zahájená po 1. lednu 2013.
+
+2\. Byl-li zaplacen soudní poplatek ve věci, v níž je navrhovatel osvobozen od soudních poplatků podle tohoto zákona, vrátí soud z účtu zaplacený soudní poplatek.
+
+## Čl. III – Účinnost
+
+Tento zákon nabývá účinnosti prvním dnem prvního kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Němcová v. r.
+
+Zeman v. r.
+
+Nečas v. r.

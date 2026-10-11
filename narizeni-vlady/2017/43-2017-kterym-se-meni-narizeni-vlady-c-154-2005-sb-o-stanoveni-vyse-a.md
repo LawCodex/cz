@@ -1,0 +1,42 @@
+---
+title: "Nařízení vlády č. 43/2017 Sb., kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů"
+identifier: "43/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/43/2017-03-07"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2017-01-30
+effective: 2017-03-07
+last_amended: 2017-03-07
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/43"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 43/2017 Sb., kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů
+
+43
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 30. ledna 2017,
+
+kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 150 odst. 1 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 261/2007 Sb., zákona č. 304/2007 Sb. a zákona č. 468/2011 Sb., k provedení § 24 odst. 5 zákona o elektronických komunikacích, ve znění zákona č. 304/2007 Sb.:
+
+## Čl. I
+
+V položce 1 části C.2 přílohy k nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění nařízení vlády č. 162/2008 Sb. a nařízení vlády č. 228/2009 Sb., se za větu „V případě šíření digitálního televizního vysílání vysílačem s maximálním efektivním vyzářeným výkonem (ERPmax) menším než 27 dBW, který je využíván v rámci jednofrekvenční sítě, je vždy C = 420 Kč.“ vkládá věta „Do dne ukončení přechodu zemského digitálního televizního vysílání na standard DVB-T2 je v případě šíření digitálního televizního vysílání vysílačem v přechodové vysílací síti DVB-T2 vždy C = 420 Kč.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem po jeho vyhlášení.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Mládek, CSc., v. r.

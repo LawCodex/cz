@@ -1,0 +1,38 @@
+---
+title: "Vyhláška č. 21/2016 Sb., kterou se mění vyhláška č. 243/2014 Sb., o vyhlášení Národní přírodní památky Dlouhopolsko a stanovení jejích bližších ochranných podmínek"
+identifier: "21/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/21/2016-02-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2016-01-14
+effective: 2016-02-01
+last_amended: 2016-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/21"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 21/2016 Sb., kterou se mění vyhláška č. 243/2014 Sb., o vyhlášení Národní přírodní památky Dlouhopolsko a stanovení jejích bližších ochranných podmínek
+
+21
+
+VYHLÁŠKA
+
+ze dne 14. ledna 2016,
+
+kterou se mění vyhláška č. 243/2014 Sb., o vyhlášení Národní přírodní památky Dlouhopolsko a stanovení jejích bližších ochranných podmínek
+
+Ministerstvo životního prostředí stanoví podle § 79 odst. 4 písm. h) zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb., zákona č. 312/2008 Sb. a zákona č. 349/2009 Sb.:
+
+## Čl. I
+
+V § 1 odst. 2 větě první vyhlášky č. 243/2014 Sb., o vyhlášení Národní přírodní památky Dlouhopolsko a stanovení jejích bližších ochranných podmínek, se za slovo „Dlouhopolsko“ vkládají slova „a Kněžičky“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. února 2016.
+
+Ministr:
+
+Mgr. Brabec v. r.

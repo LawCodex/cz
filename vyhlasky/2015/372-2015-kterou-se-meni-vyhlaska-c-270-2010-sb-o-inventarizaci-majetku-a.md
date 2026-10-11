@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 372/2015 Sb., kterou se mění vyhláška č. 270/2010 Sb., o inventarizaci majetku a závazků"
+identifier: "372/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/372/2016-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-12-16
+effective: 2016-01-01
+last_amended: 2016-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/372"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 372/2015 Sb., kterou se mění vyhláška č. 270/2010 Sb., o inventarizaci majetku a závazků
+
+372
+
+VYHLÁŠKA
+
+ze dne 16. prosince 2015,
+
+kterou se mění vyhláška č. 270/2010 Sb., o inventarizaci majetku a závazků
+
+Ministerstvo financí stanoví podle § 37b odst. 1 zákona č. 563/1991 Sb., o účetnictví, ve znění zákona č. 437/2003 Sb., zákona č. 304/2008 Sb. a zákona č. 221/2015 Sb., k provedení § 4 odst. 8 písm. u) a § 29 odst. 4:
+
+## Čl. I
+
+Vyhláška č. 270/2010 Sb., o inventarizaci majetku a závazků, se mění takto:
+
+1\. V § 2 písm. a) až c) se slova „hmotného majetku“ nahrazují slovy „majetku a závazků“.
+
+2\. V § 2 písm. d) se číslo „3“ nahrazuje číslem „8“.
+
+3\. V § 3 odst. 4 písm. a) se číslo „6“ nahrazuje číslem „7“.
+
+4\. V § 4 odst. 5 se slova „Ministerstva, státní fondy a Pozemkový fond České republiky“ nahrazují slovy „Ministerstva a státní fondy“.
+
+5\. V § 8 odst. 2 úvodní části ustanovení a v § 8 odst. 2 písm. j) se číslo „2“ nahrazuje číslem „7“.
+
+## Čl. II – Přechodné ustanovení
+
+Vyhláška č. 270/2010 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, se použije poprvé v účetním období započatém 1. ledna 2016 a později.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2016.
+
+Ministr:
+
+Ing. Babiš v. r.

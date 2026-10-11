@@ -1,0 +1,70 @@
+---
+title: "Nařízení vlády č. 215/2010 Sb., kterým se mění nařízení vlády č. 318/2008 Sb., o provádění některých opatření společné organizace trhu s ovocem a zeleninou"
+identifier: "215/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/215/2010-07-15"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2010-06-28
+effective: 2010-07-15
+last_amended: 2010-07-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/215"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 215/2010 Sb., kterým se mění nařízení vlády č. 318/2008 Sb., o provádění některých opatření společné organizace trhu s ovocem a zeleninou
+
+215
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 28. června 2010,
+
+kterým se mění nařízení vlády č. 318/2008 Sb., o provádění některých opatření společné organizace trhu s ovocem a zeleninou
+
+Vláda nařizuje podle § 2b odst. 2 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb., zákona č. 441/2005 Sb. a zákona č. 291/2009 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 318/2008 Sb., o provádění některých opatření společné organizace trhu s ovocem a zeleninou, se mění takto:
+
+1\. V § 8 se na konci odstavce 3 doplňuje věta „Tato změna se může týkat pouze schválených opatření a akcí operačního programu.“.
+
+2\. V § 8 se na konci textu odstavce 4 doplňují slova „nejpozději do 15. listopadu roku, v němž je změna uskutečněna“.
+
+3\. V § 8 odstavec 5 včetně poznámek pod čarou č. 22 a 36 zní:
+
+> „(5) Pokud souhrn výdajů na environmentální opatření organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice nedosáhne minimálně výše 10 % výdajů operačního programu schváleného Fondem, zahrne organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice do svého operačního programu nejméně 2 environmentální opatření<sup>22</sup>) ze seznamu, který je uveden v příloze č. 1 k tomuto nařízení. Jestliže organizace producentů nebo nadnárodní organizace producentů se sídlem v České republice<sup>36</sup>)
+
+> a) provede pouze jedno environmentální opatření zahrnuté do schváleného operačního programu, vrátí Fondu 20 % podpory poskytnuté na příslušný operační program,
+
+> b) neprovede žádné environmentální opatření zahrnuté do schváleného operačního programu, vrátí Fondu 30 % podpory poskytnuté na příslušný operační program,
+
+> c) nevynaloží nejméně 10 % výdajů v rámci schváleného operačního programu na environmentální opatření, vrátí Fondu 30 % podpory poskytnuté na příslušný operační program.
+
+> <sup>22</sup>) Čl. 103c nařízení Rady (ES) č. 1234/2007.
+
+> <sup>36</sup>) Čl. 146 nařízení Komise (ES) č. 1580/2007.“.
+
+4\. V § 9 se na konci písmene b) čárka nahrazuje tečkou a písmeno c) se zrušuje.
+
+5\. Poznámka pod čarou č. 25 zní:
+
+> „<sup>25</sup>) Čl. 103c odst. 2 písm. b) a f) nařízení Rady (ES) č. 1234/2007.“.
+
+## Čl. II – Přechodné ustanovení
+
+Řízení zahájené přede dnem nabytí účinnosti tohoto nařízení vlády a do tohoto dne neskončené se dokončí a práva a povinnosti s ním související se posuzují podle nařízení vlády č. 318/2008 Sb., ve znění účinném do dne nabytí účinnosti tohoto nařízení.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 15. července 2010.
+
+Předseda vlády:
+
+Ing. Fischer, CSc., v. r.
+
+Ministr zemědělství:
+
+Ing. Šebesta v. r.

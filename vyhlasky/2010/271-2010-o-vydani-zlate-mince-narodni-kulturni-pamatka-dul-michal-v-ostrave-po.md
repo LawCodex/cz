@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 271/2010 Sb., o vydání zlaté mince „Národní kulturní památka důl Michal v Ostravě“ po 2 500 Kč"
+identifier: "271/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/271/2010-10-06"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-09-06
+effective: 2010-10-06
+last_amended: 2010-10-06
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/271"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 271/2010 Sb., o vydání zlaté mince „Národní kulturní památka důl Michal v Ostravě“ po 2 500 Kč
+
+271
+
+VYHLÁŠKA
+
+ze dne 6. září 2010
+
+o vydání zlaté mince „Národní kulturní památka důl Michal v Ostravě“ po 2 500 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 6. října 2010 se v rámci cyklu „Kulturní památky technického dědictví“ vydává zlatá mince „Národní kulturní památka důl Michal v Ostravě“ po 2 500 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince v běžném i ve zvláštním provedení se razí ze zlata o ryzosti 999.9. Hmotnost mince je 7,78 g, její průměr 22 mm a síla 1,6 mm. Při ražbě mince v běžném provedení i ve zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká.
+
+## § 2
+
+(1) Na lícní straně mince je na půlkruhové výseči ztvárněn elektromotorem poháněný těžní stroj. Na pravém okraji výseče je značka České mincovny, která je tvořena kompozicí písmen „Č“ a „M“ a ve spodní části výseče je v negativním písmu označení nominální hodnoty mince se zkratkou peněžní jednotky „2500 Kč“. Nad těžním strojem je název státu „ČESKÁ REPUBLIKA“ a kompozice heraldických zvířat z velkého státního znaku. Uprostřed je český lev, vpravo je slezská orlice a vlevo je moravská orlice. Po obvodu mince je v neuzavřeném opisu název cyklu „KULTURNÍ PAMÁTKY TECHNICKÉHO DĚDICTVÍ“, který je na okrajích označen tečkami.
+
+(2) Na rubové straně mince je těžní věž dolu Michal. Pod ztvárněním těžní věže je ročník ražby „2010“. Při levém a pravém okraji mince je neuzavřený opis „DŮL MICHAL V OSTRAVĚ“. Při pravém okraji mince pod opisem jsou umístěny iniciály autora výtvarného návrhu mince, akademického sochaře Zbyňka Fojtů, které jsou tvořeny spojenými písmeny „F“ a „Z“.
+
+(3) Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 6. října 2010.
+
+Guvernér:
+
+Ing. Singer, Ph.D., v. r.
+
+### Příloha k vyhlášce č. 271/2010 Sb.
+
+#### Vyobrazení zlaté mince „Národní kulturní památka důl Michal v Ostravě“
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2010c100z0271p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889819/NAHLED/ZOBRAZ/sbcr2010c100z0271p001o001)
+
+#### ![sbcr2010c100z0271p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889821/NAHLED/ZOBRAZ/sbcr2010c100z0271p001o002)

@@ -1,0 +1,92 @@
+---
+title: "Vyhláška č. 239/2009 Sb., kterou se mění vyhláška č. 505/2006 Sb., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění pozdějších předpisů"
+identifier: "239/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/239/2009-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-07-23
+effective: 2009-08-01
+last_amended: 2009-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/239"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 239/2009 Sb., kterou se mění vyhláška č. 505/2006 Sb., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění pozdějších předpisů
+
+239
+
+VYHLÁŠKA
+
+ze dne 23. července 2009,
+
+kterou se mění vyhláška č. 505/2006 Sb., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění pozdějších předpisů
+
+Ministerstvo práce a sociálních věcí stanoví podle § 119 odst. 2 zákona č. 108/2006 Sb., o sociálních službách, ve znění zákona č. 261/2007 Sb. a zákona č. 206/2009 Sb.:
+
+## Čl. I
+
+Vyhláška č. 505/2006 Sb., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění vyhlášky č. 166/2007 Sb. a vyhlášky č. 340/2007 Sb., se mění takto:
+
+1\. V § 17 se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno c), které zní:
+
+> „c) 100 Kč za hodinu, podle skutečně spotřebovaného času nezbytného k zajištění úkonů, za úkony uvedené v odstavci 1 písm. c), e) a g); pokud poskytování těchto úkonů, včetně času nezbytného k jejich zajištění, netrvá celou hodinu, výše úhrady se poměrně krátí.“.
+
+2\. V nadpisu části šesté se na konci doplňují slova „A ZAMĚSTNANCE KRAJE“.
+
+3\. V § 39 se za slova „příspěvku na péči,“ vkládají slova „a vzor zvláštního oprávnění zaměstnance kraje, kterým se prokazuje při provádění sociálního šetření pro účely odvolacího řízení,“.
+
+4\. V příloze č. 1 bodě I písm. a) se za slova „dohledu při úkonu;“ doplňují slova „u osob do 18 let věku se hodnotí, zda z důvodu zdravotního postižení potřebují při úkonu mimořádnou pomoc, a to i u osob do 5 let věku, kdy se jinak nepřihlíží k potřebě pomoci a dohledu při tomto úkonu;“.
+
+5\. V příloze č. 1 bodě I písm. q) a r) se za slova „dohledu při úkonu;“ doplňují slova „u osob do 18 let věku se hodnotí, zda z důvodu zdravotního postižení potřebují při úkonu mimořádnou pomoc, a to i u osob do 7 let věku, kdy se jinak nepřihlíží k potřebě pomoci a dohledu při tomto úkonu;“.
+
+6\. V příloze č. 2 bodě 1 se na konci textu písmene a) doplňují slova „; podle tohoto poslání, cílů a zásad poskytovatel postupuje“.
+
+7\. Příloha č. 3 zní:
+
+> **„Příloha č. 3 k vyhlášce č. 505/2006 Sb.**
+
+> **Vzor zvláštního oprávnění zaměstnance obce a zaměstnance kraje**
+
+> **A. Vzor zvláštního oprávnění zaměstnance obce, kterým se prokazuje při provádění sociálního šetření a kontroly využívání příspěvku na péči**
+
+> **![sbcr2009c072z0239u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868931/NAHLED/ZOBRAZ/sbcr2009c072z0239u001)**
+
+> **B. Vzor zvláštního oprávnění zaměstnance kraje, kterým se prokazuje při provádění sociálního šetření pro účely odvolacího řízení**
+
+> **![sbcr2009c072z0239u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868933/NAHLED/ZOBRAZ/sbcr2009c072z0239u002)**
+
+> “.
+
+8\. Příloha č. 4 zní:
+
+> **„Příloha č. 4 k vyhlášce č. 505/2006 Sb.**
+
+> **Obory vzdělání, při jejichž absolvování se nevyžaduje absolvování kvalifikačního kurzu pro pracovníky v sociálních službách**
+
+> | Název oboru vzdělání | Kód oboru vzdělání | Předchozí kód oboru vzdělání |
+> |---|---|---|
+> | Sociální péče – pečovatelská činnost | 75-41-M/003 | 75-46-6/01 |
+> | Sociální péče – sociální činnost pro etnické skupiny | 75-41-M/005 | 75-46-6/03 |
+> | Sociální činnost – sociální pečovatelství | 75-41-M/008 | 76-52-6/01 |
+> | Sociální činnost – sociální vychovatelství | 75-41-M/009 | 76-52-6/02 |
+> | Sociální činnost v prostředí etnických minorit | 75-41-M/010 | 75-97-6 |
+> | Výchovná a humanitární činnost – sociálně výchovná činnost | 75-41-M/012 | 76-45-6/01 |
+> | Vychovatelství | 75-31-M/002 | 76-41-6 |
+> | Předškolní a mimoškolní pedagogika | 75-31-M/005 | 76-50-6 |
+> | Vychovatelství pro ústavy sociální péče | 75-31-L/501 | 76-51-6 |
+> | Rodinná škola – sociální služby | 78-41-M/003 | 63-44-6/01 |
+> | Charitativní služby | 69-55-J/001 | 63-67-3 |
+> | Práce ve zdravotnických a sociálních zařízeních – pečovatelské práce | 69-55-E/005 | 55-91-2/02 |
+> | Sociální činnost v prostředí etnických minorit | 75-41-J/002 | 75-97-3 |
+
+> “.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2009.
+
+Ministr:
+
+JUDr. Šimerka v. r.

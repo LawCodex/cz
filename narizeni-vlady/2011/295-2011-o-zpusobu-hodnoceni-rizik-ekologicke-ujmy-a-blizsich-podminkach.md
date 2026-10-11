@@ -1,0 +1,357 @@
+---
+title: "Nařízení vlády č. 295/2011 Sb., o způsobu hodnocení rizik ekologické újmy a bližších podmínkách finančního zajištění"
+identifier: "295/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/295/2012-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2011-09-14
+effective: 2012-01-01
+last_amended: 2012-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/295"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 295/2011 Sb., o způsobu hodnocení rizik ekologické újmy a bližších podmínkách finančního zajištění
+
+295
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. září 2011
+
+o způsobu hodnocení rizik ekologické újmy a bližších podmínkách finančního zajištění
+
+Vláda nařizuje podle § 14 odst. 5 zákona č. 167/2008 Sb., o předcházení ekologické újmě a o její nápravě a o změně některých zákonů, ve znění pozdějších předpisů, (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+Toto nařízení stanoví způsob hodnocení rizik ekologické újmy, kritéria posuzování dostatečného finančního zajištění a bližší podmínky provádění a způsobu finančního zajištění k provedení preventivních opatření a nápravných opatření.
+
+## § 2 – Základní pojmy
+
+Pro účely tohoto nařízení se rozumí
+
+a) příslušným provozovatelem provozovatel<sup>1</sup>), který vykonává provozní činnost uvedenou v příloze č. 1 k zákonu,
+
+b) místem provozní činnosti objekt nebo zařízení příslušného provozovatele, ve kterém vykonává provozní činnost, v němž jsou při této provozní činnosti umístěny nebezpečné látky nebo v němž příslušný provozovatel zachází se závadnými látkami nebo nakládá s vybranými výrobky, vybranými odpady nebo vybranými zařízeními,
+
+c) množstvím umístěných nebezpečných a závadných látek projektované maximální množství látek, které se může jednorázově nahromadit v objektu nebo zařízení příslušného provozovatele při jeho provozní činnosti,
+
+d) objektem celý prostor, v němž je umístěno jedno nebo více zařízení příslušného provozovatele, včetně společných nebo souvisejících infrastruktur příslušného provozovatele,
+
+e) zařízením technická nebo technologická jednotka, kterou příslušný provozovatel využívá při provozní činnosti, zejména při výrobě, zpracování, skladování, nakládání nebo vykládání při přepravě.
+
+## § 3 – Způsob hodnocení rizik ekologické újmy
+
+(1) Příslušný provozovatel provádí a dokumentuje hodnocení rizik ekologické újmy v rozsahu odpovídajícím pravděpodobnosti jejího vzniku a závažnosti možných vlivů na životní prostředí.
+
+(2) Hodnocení rizik ekologické újmy provádí příslušný provozovatel zvlášť pro každé místo provozní činnosti.
+
+(3) Příslušný provozovatel, který vykonává provozní činnost uvedenou v bodech 11 a 13 přílohy č. 1 k zákonu, provádí hodnocení rizik pouze pro objekty a zařízení určené pro dočasné skladování nebo nakládku a vykládku během přepravy, které má ve vlastnictví nebo nájmu.
+
+(4) Příslušný provozovatel provádí základní hodnocení rizik ekologické újmy (dále jen „základní hodnocení rizika“). V případě, že celkový počet bodů dosažených v základním hodnocení rizika je vyšší než 50, provádí příslušný provozovatel podrobné hodnocení rizika ekologické újmy (dále jen „podrobné hodnocení rizika“). Základní hodnocení rizika není povinen provést příslušný provozovatel, který provádí přímo podrobné hodnocení rizika.
+
+(5) Příslušný provozovatel registrovaný v Programu EMAS<sup>2</sup>) nebo příslušný provozovatel, který prokazatelně zahájil činnosti potřebné pro zaregistrování do tohoto programu, nebo má certifikovaný systém environmentálního řízení uznaný podle souboru norem ČSN EN ISO 14 000 nebo prokazatelně zahájil činnosti potřebné k získání této certifikace, provádí pouze základní hodnocení rizika.
+
+(6) Příslušný provozovatel, který zachází se závadnými látkami, nebezpečnými závadnými látkami nebo zvlášť nebezpečnými závadnými látkami podle vodního zákona<sup>3</sup>) v celkovém množství, které nedosahuje limitů stanovených v části B přílohy č. 1 k tomuto nařízení, neprovádí hodnocení rizik podle tohoto nařízení.
+
+## § 4 – Základní hodnocení rizika
+
+(1) Příslušný provozovatel v základním hodnocení rizika uvede
+
+a) souhrn základních informací o příslušném provozovateli a místě provozní činnosti, pro které je hodnocení rizika prováděno,
+
+b) identifikaci a popis provozní činnosti, objektů nebo zařízení s uvedením druhu a množství v nich umístěných látek nebo jiných materiálů, které mohou způsobit ekologickou újmu v místě provozní činnosti, pro které je hodnocení rizika prováděno, a to v souhrnu všech prováděných provozních činností při zohlednění jejich možných vzájemných vlivů,
+
+c) popis životního prostředí v okolí hodnoceného místa provozní činnosti z hlediska možnosti vzniku ekologické újmy, včetně uvedení vzdáleností k popisovaným objektům a zařízením v rozsahu potřebném pro hodnocení možných rizik jejího vzniku,
+
+d) předpokládané situace vzniku ekologické újmy a odhad jejich následků,
+
+e) informace o dřívější havárii nebo ekologické újmě,
+
+f) celkový počet dosažených bodů.
+
+(2) Náležitosti základního hodnocení rizika, včetně bodového hodnocení jednotlivých údajů, jsou stanoveny v příloze č. 1 k tomuto nařízení.
+
+## § 5 – Podrobné hodnocení rizika
+
+(1) Příslušný provozovatel v podrobném hodnocení rizika uvede
+
+a) souhrn základních informací o příslušném provozovateli a místě provozní činnosti, pro které je hodnocení rizika prováděno,
+
+b) vyhodnocený celkový počet bodů dosažených v základním hodnocení rizika,
+
+c) identifikace a popis provozní činnosti, objektů nebo zařízení s uvedením druhu a množství v nich umístěných látek nebo jiných materiálů, které mohou způsobit ekologickou újmu v hodnoceném místě provozní činnosti, pro kterou je zpracovávané hodnocení rizika, a to v souhrnu všech prováděných činností při zohlednění jejich možných vzájemných vlivů,
+
+d) popis životního prostředí v okolí hodnoceného místa provozní činnosti z hlediska možnosti vzniku ekologické újmy, včetně uvedení vzdáleností k popisovaným objektům v rozsahu odpovídajícím možným rizikům jejího vzniku,
+
+e) předpokládané situace vzniku havarijních stavů jiných událostí, které mohou způsobit ekologickou újmu, odhad jejich četnosti a velikosti ekologické újmy, včetně existujících a navrhovaných nápravných opatření,
+
+f) návrh způsobů na odstranění havarijních stavů, které mohou být vyhodnoceny jako ekologická újma, včetně provedení nápravných opatření a jejich ocenění.
+
+(2) Náležitosti podrobného hodnocení rizika jsou stanoveny v příloze č. 2 k tomuto nařízení.
+
+(3) Příslušný provozovatel, který má schválenou dokumentaci pro objekty nebo zařízení zařazené do skupiny A podle zákona o prevenci závažných havárií<sup>4</sup>), dokumentuje v podrobném hodnocení rizika pouze části D a F přílohy č. 2 k tomuto nařízení. Příslušný provozovatel, který má schválenou dokumentaci pro objekty nebo zařízení zařazené do skupiny B podle zákona o prevenci závažných havárií, dokumentuje v podrobném hodnocení rizika pouze část F přílohy č. 2 k tomuto nařízení.
+
+## § 6 – Kritéria posuzování dostatečného finančního zajištění a bližší podmínky provádění a způsob finančního zajištění k provedení preventivních a nápravných opatření
+
+(1) Kritériem posouzení základního hodnocení rizika předloženého příslušným provozovatelem při kontrole je vyhodnocený počet bodů podle přílohy č. 1 k tomuto nařízení.
+
+(2) Kritériem posouzení podrobného hodnocení rizika předloženého příslušným provozovatelem při kontrole je hodnocení rizik podle přílohy č. 2 k tomuto nařízení, a zda toto hodnocení odpovídá současnému stavu v místě provozní činnosti a životního prostředí v okolí hodnoceného místa provozní činnosti.
+
+(3) Kritérii posouzení dostatečného finančního zajištění jsou
+
+a) doklad o zabezpečení finančního zajištění,
+
+b) výše finančního zajištění s ohledem na vyhodnocené riziko ekologické újmy,
+
+c) typy ekologické újmy, které jsou finančně zajištěny,
+
+d) existence omezení ve finančním zajištění neslučitelná s vyhodnoceným rizikem.
+
+(4) Při posuzování základního nebo podrobného hodnocení rizika a dokladu o zabezpečení finančního zajištění, které předkládá příslušný provozovatel při kontrole, se postupuje podle kontrolních bodů uvedených v příloze č. 3 k tomuto nařízení.
+
+(5) Příslušný provozovatel provádí posouzení dostatečnosti finančního zajištění vzhledem k navrhovaným nápravným a preventivním opatřením a jejich ocenění podle přílohy č. 4 k tomuto nařízení.
+
+## § 7 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2012.
+
+Předseda vlády:
+
+RNDr. Nečas v. r.
+
+Ministr životního prostředí:
+
+Mgr. Chalupa v. r.
+
+### Příloha č. 1 k nařízení vlády č. 295/2011 Sb.
+
+#### Náležitosti základního hodnocení rizika
+
+| Část A | |
+|---|---|
+| 1. | Obchodní firma, název nebo jméno, popřípadě jména, a příjmení, sídlo nebo bydliště, identifikační číslo osoby (IČO) a datová schránka příslušného provozovatele: |
+| 2. | Jméno, popřípadě jména, příjmení, telefon a e-mailová adresa statutárního orgánu příslušného provozovatele nebo jeho člena: |
+| 3. | Pořadové číslo provozní činnosti uvedené v příloze č. 1 k zákonu: |
+| 4. | Název a poloha místa provozní činnosti, pro které se provádí základní hodnocení rizika a jeho identifikace, například provozní zařízení, sklad, mezideponie, odpadní jímka, úložné místo pro nakládání s těžebními odpady, výpustní objekt, objekt nebo zařízení určené pro dočasné skladování nebo nakládku a vykládku během přepravy; souřadnice GPS v libovolném formátu: |
+
+<table><tbody><tr><th>Část B</th><th></th><th></th><th>Body</th></tr><tr><td rowspan="6">5.</td><td colspan="3">Množství chemických látek a směsí<sup>5</sup>) umístěných v místě provozní činnosti uvedené pod body 10 a 11 v příloze č. 1 k zákonu přesahuje pro látky či směsi</td></tr><tr><td>a) Vysoce toxické R-26, R-27, R-28, H330, H310, H300</td><td>0,5 t</td><td>10</td></tr><tr><td>b) Toxické R-23, R-24, R-25, H331, H311, H301</td><td>5 t</td><td>10</td></tr><tr><td>c) Nebezpečné pro životní prostředí R50, H400</td><td>10 t</td><td>10</td></tr><tr><td>d) Nebezpečné pro životní prostředí R51, R-52, R-53, R-54, R-55 a R-56, H411, H412, H413</td><td>20 t</td><td>10</td></tr><tr><td>e) Látky, které při styku s vodou uvolňují toxický plyn R29, EUH029</td><td>0,5 t</td><td>10</td></tr><tr><td rowspan="4">6.</td><td colspan="3">Množství závadných látek umístěných v místě provozní činnosti uvedené pod bodem 9 v příloze č. 1 k zákonu přesahuje pro</td></tr><tr><td colspan="2">a) závadné látky<sup>6</sup>) množství 2000 l nebo 2000 kg</td><td>5</td></tr><tr><td colspan="2">b) nebezpečné závadné látky<sup>7</sup>) množství 150 l nebo 150 kg</td><td>5</td></tr><tr><td colspan="2">c) zvlášť nebezpečné závadné látky<sup>7</sup>) množství 15 l nebo 15 kg</td><td>5</td></tr><tr><td rowspan="3">7.</td><td colspan="3">Provozovatel, který je oprávněn nakládat v místě provozní činnosti s nebezpečnými odpady, vybranými výrobky, vybranými odpady nebo vybranými zařízeními podle jiného právního předpisu<sup>8</sup>)</td></tr><tr><td colspan="2">a) s nebezpečnými odpady<sup>9</sup>)</td><td>5</td></tr><tr><td colspan="2">b) s vybranými výrobky, vybranými odpady nebo vybranými zařízeními<sup>10</sup>)</td><td>5</td></tr><tr><td colspan="3"><b>Mezisoučet části B</b></td><td></td></tr></tbody></table>
+
+Poznámky k části B
+
+V případě, že lze chemickou látku nebo směs charakterizovat více nebezpečnými vlastnostmi použije se jedno zařazení, které má v části B uvedené nižší množství, to je vykazuje vyšší stupeň nebezpečnosti.
+
+Pokud má počet dosažených bodů v mezisoučtu části B hodnotu 0, potom provozovatelé, u kterých je v bodě č. 3 části A uvedeno pořadové číslo 9, 10, 11, 14 a 15 provozní činnosti podle přílohy č. 1 zákona, nevyplňují část C.
+
+<table><tbody><tr><th></th><th>Část C.1<br> pro provozní činnosti uvedené pod body 1, 2, 9 až 15 přílohy č. 1 k zákonu</th><th></th><th>Body</th></tr><tr><td rowspan="2">8.</td><td rowspan="2">Název vymezené ptačí oblasti<sup>11</sup>) nebo evropsky významné lokality<sup>12</sup>) a jeho vzdálenost od místa provozní činnosti:</td><td>do 100 m</td><td>10</td></tr><tr><td>100 až 500 m</td><td>5</td></tr><tr><td rowspan="2">9.</td><td rowspan="2">Název nejbližšího významného vodního toku<sup>13</sup>) a jeho vzdálenost od místa provozní činnosti:</td><td>do 50 m</td><td>5</td></tr><tr><td>50 až 500 m</td><td>2</td></tr><tr><td>10.</td><td>Název zranitelné oblasti<sup>14</sup>) a její vzdálenost od místa provozní činnosti:</td><td>do 50 m</td><td>5</td></tr><tr><td rowspan="2">11.</td><td rowspan="2">Název povrchových vod vhodných pro život a reprodukci původních druhů ryb a dalších vodních živočichů<sup>15</sup>) a jejich vzdálenost od místa provozní činnosti:</td><td>do 25 m</td><td>5</td></tr><tr><td>25 až 250 m</td><td>2</td></tr><tr><td rowspan="2">12.</td><td rowspan="2">Název vodní nádrže<sup>16</sup>), popř. vodárenské nádrže<sup>17</sup>) a její vzdálenost od místa provozní činnosti:</td><td>do 25 m</td><td>5</td></tr><tr><td>25 až 250 m</td><td>2</td></tr><tr><td rowspan="3">13.</td><td rowspan="3">Název a číselný identifikátor hydrogeologického rajonu<sup>18</sup>) v místě provozní činnosti:</td><td>Začíná číslem 1 a 21</td><td>5</td></tr><tr><td>Začíná číslem 4 s výjimkou čísla 43</td><td>2</td></tr><tr><td>Začíná jiným číslem</td><td>1</td></tr><tr><td rowspan="2">14.</td><td rowspan="2">Název ochranného pásma vodních zdrojů<sup>19</sup>) a jeho vzdálenost od místa provozní činnosti:</td><td>do 50 m</td><td>5</td></tr><tr><td>50 až 250 m</td><td>2</td></tr><tr><td rowspan="2">15.</td><td>Název ochranného pásma přírodních léčivých zdrojů a zdrojů přírodní minerální vody<sup>20</sup>) a jeho vzdálenosti od</td><td>do 50 m</td><td>10</td></tr><tr><td>místa provozní činnosti:</td><td>50 až 250 m</td><td>5</td></tr><tr><td rowspan="2">16.</td><td rowspan="2">Název chráněné oblasti přirozené akumulace podzemních vod<sup>21</sup>) a její vzdálenost k místu provozní činnosti:</td><td>do 50 m</td><td>5</td></tr><tr><td>50 až 250 m</td><td>2</td></tr><tr><td rowspan="3">17.</td><td rowspan="3">Topografické poměry území - sklon terénu a jeho směr k vodohospodářským objektům a jiným chráněným územím uvedeným pod body 8 až 16 části C:</td><td>do 7°</td><td>2</td></tr><tr><td>7° do 12°</td><td>3</td></tr><tr><td>více než 12°</td><td>5</td></tr><tr><td colspan="4"><b>Mezisoučet části C.1</b></td></tr></tbody></table>
+
+<table><tbody><tr><th></th><th>Část C.2<br> pro provozní činnosti uvedené pod body 3 až 8 přílohy č. 1 k zákonu</th><th></th><th>Body</th></tr><tr><td rowspan="2">8.</td><td>Název vymezené ptačí oblasti<sup>11</sup>) nebo evropsky významné lokality<sup>12</sup>) a jeho vzdálenost od místa</td><td>do 100 m</td><td>10</td></tr><tr><td>provozní činnosti:</td><td>100 až 500 m</td><td>5</td></tr><tr><td>9.</td><td>Název nejbližšího významného vodního toku<sup>13</sup>):</td><td>V případě provozní činnosti uvedené v bodech 3 nebo 4 přílohy č. 1 k zákonu</td><td>5</td></tr><tr><td>10.</td><td>Název povrchových vod vhodných pro život a reprodukci původních druhů ryb a dalších vodních živočichů<sup>15</sup>):</td><td>V případě, že jsou tyto vody přímo dotčené provozní činností uvedenou v bodech 3 nebo 4 přílohy č. 1 k zákonu</td><td>5</td></tr><tr><td>11.</td><td>Název vodní nádrže<sup>16</sup>), popř. vodárenské nádrže<sup>17</sup>):</td><td>V případě provozní činnosti uvedené v bodech 3 nebo 4 přílohy č. 1 k zákonu</td><td>5</td></tr><tr><td rowspan="3">12.</td><td rowspan="3">Název a číselný identifikátor hydrogeologického rajonu<sup>18</sup>) v místě provozní činnosti:</td><td>Začíná číslem 1 a 21</td><td>5</td></tr><tr><td>Začíná číslem 4 s výjimkou čísla 43</td><td>2</td></tr><tr><td>Začíná jiným číslem</td><td>1</td></tr><tr><td rowspan="2">13.</td><td rowspan="2">Název ochranného pásma vodních zdrojů<sup>19</sup>) a jeho vzdálenost od místa provozní činnosti:</td><td>do 50 m</td><td>5</td></tr><tr><td>50 až 250 m</td><td>2</td></tr><tr><td rowspan="2">14.</td><td rowspan="2">Název ochranného pásma přírodních léčivých zdrojů a zdrojů přírodní minerální vody<sup>20</sup>) a jeho vzdálenosti od místa provozní činnosti:</td><td>do 50 m</td><td>10</td></tr><tr><td>50 až 250 m</td><td>5</td></tr><tr><td rowspan="2">15.</td><td rowspan="2">Název chráněné oblasti přirozené akumulace podzemních vod<sup>21</sup>) a její vzdálenost k místu provozní činnosti:</td><td>do 50 m</td><td>5</td></tr><tr><td>50 až 250 m</td><td>2</td></tr><tr><td colspan="4"><b>Mezisoučet části C.2</b></td></tr></tbody></table>
+
+Poznámky k části C.2 pro provozní činnosti uvedené pod body 3 až 8 přílohy č. 1 k zákonu:
+
+Body 9, 10 a 11 jsou relevantní pouze pro hodnocení rizik provozních činností uvedených v bodech 3 a 4 přílohy č. 1 k zákonu.
+
+Body 12 a 13 jsou relevantní pouze pro hodnocení rizik provozních činností uvedených v bodech 3, 4 a 7 přílohy č. 1 k zákonu.
+
+Body 14 a 15 jsou relevantní pouze pro hodnocení rizik provozních činností uvedených v bodech 3, 4, 6 a 7 přílohy č. 1 k zákonu.
+
+Pokud je vyplněn bod 9, bod 12 se nevyplňuje, a pokud je vyplněn bod 12, bod 9 se nevyplňuje.
+
+Poznámky k části C (C.1 i C.2) pro všechny provozní činnosti uvedené v příloze č. 1 k zákonu
+
+Vzdálenosti v celé části C se měří od předmětu ochrany k nejbližšímu okraji objektu nebo zařízení; pokud je změřeno více vzdáleností, uvažuje se nejkratší vzdálenost.
+
+<table><tbody><tr><th>Část D</th><th></th><th></th><th>Body</th></tr><tr><td rowspan="4">18.</td><td rowspan="4">Identifikace možných scénářů vzniku ekologické újmy pro hodnocenou provozní činnost uvedenou v části A, bodě č. 3:</td><td>únik kapalné látky do půdy/vody</td><td>5</td></tr><tr><td>působení pevné látky na půdu/vodu</td><td>2</td></tr><tr><td>únik plynu/aerosolu do vzduchu</td><td>2</td></tr><tr><td>fyzikálně mechanické působení</td><td>2</td></tr><tr><td rowspan="3">19.</td><td rowspan="3">Možné následky scénáře identifikovaného v bodě č. 18 se projeví jako ekologická újma na:</td><td>vodě</td><td>5</td></tr><tr><td>půdě</td><td>2</td></tr><tr><td>chráněných druzích nebo přírodních stanovištích</td><td>5</td></tr><tr><td rowspan="3">20.</td><td rowspan="3">Závažnost možných následků ekologické újmy identifikované v bodě č. 19:</td><td>velmi významné</td><td>10</td></tr><tr><td>významné</td><td>5</td></tr><tr><td>málo významné</td><td>2</td></tr><tr><td colspan="4"><b>Mezisoučet části D</b></td></tr></tbody></table>
+
+<table><tbody><tr><th>Část E</th><th></th><th></th><th>Body</th></tr><tr><td rowspan="3">21.</td><td rowspan="3">Existence dřívějších neoprávněných zásahů<sup>22</sup>), havárií<sup>23</sup>) nebo ekologické újmy<sup>24</sup>), ke kterým došlo v posledních 10 letech z důvodu:</td><td>technické závady</td><td>5</td></tr><tr><td>selhání lidského faktoru</td><td>3</td></tr><tr><td>vnější příčiny</td><td>2</td></tr><tr><td rowspan="3">22.</td><td rowspan="3">Následky dřívějších neoprávněných zásahů, havárií nebo ekologické újmy uvedené v bodě č. 21 se projevily na:</td><td>vodě</td><td>5</td></tr><tr><td>půdě</td><td>2</td></tr><tr><td>chráněných druzích nebo přírodních stanovištích</td><td>5</td></tr><tr><td rowspan="3">23.</td><td rowspan="3">Následky dřívějších neoprávněných zásahů, havárií nebo ekologické újmy uvedené v bodě č. 22 byly:</td><td>velmi významné – náklady na likvidaci následků přesáhly 10 mil. Kč</td><td>10</td></tr><tr><td>významné - náklady na likvidaci následků v rozsahu 1 až 10 mil. Kč</td><td>5</td></tr><tr><td>málo významné - náklady na likvidaci následků pod 1 mil. Kč</td><td>2</td></tr><tr><td rowspan="3">24.</td><td rowspan="3">Existence preventivních opatření a/nebo detekčního zařízení pro zamezení vzniku ekologické újmy:</td><td>Provozovatel nepřijal žádné preventivní opatření nebo nemá instalované detekční zařízení pro zamezení vzniku ekologické újmy</td><td>5</td></tr><tr><td>Provozovatel přijal preventivní opatření, má instalované detekční zařízení pro zamezení vzniku ekologické újmy a má havarijní plán zpracovaný podle jiných právních předpisů<sup>25</sup>) nebo provozní řád vodního díla podle jiného právního předpisu<sup>26</sup>)</td><td>-5</td></tr><tr><td>Provozovatel přijal preventivní opatření, má instalované detekční zařízení pro zamezení vzniku ekologické újmy a má havarijní plán zpracovaný podle jiných právních předpisů<sup>25</sup>) nebo provozní řád vodního díla podle jiného právního předpisu<sup>26</sup>) a učinil další preventivní opatření, vyjma výše uvedených, které vycházejí z nejnovějších vědeckých a technických poznatků týkajících se environmentálního zabezpečení</td><td>-10</td></tr><tr><td colspan="4"><b>Mezisoučet části E</b></td></tr></tbody></table>
+
+| Část F | |
+|---|---|
+| 25. | Celkový počet dosažených bodů |
+| 26. | Datum a podpis |
+
+### Příloha č. 2 k nařízení vlády č. 295/2011 Sb.
+
+#### Náležitosti podrobného hodnocení rizika
+
+<table><tbody><tr><td rowspan="3">Část A</td><td>1.</td><td> Obchodní firma, název nebo jméno, popřípadě jména, a příjmení, sídlo nebo bydliště, identifikační číslo osoby (IČO) a datová schránka příslušného provozovatele.</td></tr><tr><td>2.</td><td> Jméno, popřípadě jména, příjmení, telefon a e-mailová adresa statutárního orgánu příslušného orgánu nebo jeho člena.</td></tr><tr><td>3.</td><td> Provozní činnost, popřípadě činnosti, oprávnění a povolení k provozní činnosti, popřípadě činnostem, další provozní a havarijní řády, které se vztahují k místu provozní činnosti, pro které se zpracovává hodnocení rizika a ze kterých hodnocení rizika vychází.</td></tr><tr><td>Část B</td><td>4.</td><td> Výsledek základního hodnocení rizika a stanovení specifické činnosti, materiálů a látek, které mohou způsobit ekologickou újmu, pro kterou bylo rozhodnuto provést podrobné hodnocení rizika – pokud bylo základní hodnocení rizika prováděno.</td></tr><tr><td rowspan="11">Část C</td><td>5.</td><td> Popis místa provozní činnosti příslušného provozovatele jako celku, tak i jejich jednotlivých částí významných z hlediska vzniku ekologické újmy, jako jsou provozní, skladovací a manipulační místa, potrubní či jiné dopravní trasy nebezpečných látek mezi technologiemi, infrastruktura a ostatní.</td></tr><tr><td>6.</td><td> Graficky zpracovaný plán místa provozní činnosti v odpovídajícím přiměřeném měřítku rozčleněný na jednotlivé objekty a zařízení, schéma systému vnitřních komunikací a příjezdových cest.</td></tr><tr><td>7.</td><td> Graficky zpracovaný plán v odpovídajícím přiměřeném měřítku 1:5 000 nebo 1:10 000 okolních staveb a okolní infrastruktury.</td></tr><tr><td>8.</td><td> Graficky zpracovaný plán v měřítku 1:1 000 zpevněných nepropustných ploch stáčecích a manipulačních míst, dopravních tras, znázornění nezabezpečených ploch z hlediska možného znečištění horninového prostředí a podzemních vod; havárie na místech, kde se nachází potrubní mosty, kolektory, možné havárie při manipulaci a dopravě.</td></tr><tr><td>9.</td><td> Přehled a popis hlavních a pro riziko vzniku ekologické újmy významných provozních činností, včetně popisu jejich mechanických činností, chemických reakcí, fyzikálních a biologických přeměn, které jsou použity pro výpočty a modely vybraných scénářů vzniku ekologické újmy.</td></tr><tr><td>10.</td><td> Přehled a popis činností souvisejících s manipulací, nakládkou, vykládkou, přepravou, potrubní dopravou.</td></tr><tr><td>11.</td><td> Přehled a popis činností souvisejících s dočasným skladováním látek s potenciálem dostatečným ke způsobení ekologické ujmy v místě provozní činnosti a v okolí hodnoceného místa, včetně skladování v železničních nebo automobilových cisternách.</td></tr><tr><td>12.</td><td> Přehled a popis postupů zabezpečujících retenci a úpravy nebezpečných látek před jejich využitím, vypouštěním, případně zneškodněním; odpady ve všech skupenstvích.</td></tr><tr><td>13.</td><td> Popis kanalizačního systému, jeho koncovky a možnost uzavření a retence potrubního systému.</td></tr><tr><td>14.</td><td> Popis opatření, postupů a operací k zajištění bezpečnosti v jednotlivých fázích provozu, jako jsou najíždění, provoz, odstavování, standardní a nestandardní podmínky, havarijní stavy.</td></tr><tr><td>15.</td><td> Přehled, množství a popis nebezpečných látek a materiálů používaných příslušným provozovatelem nebo v technologii vznikajících nebezpečných látek včetně nebezpečných látek v železničních nebo automobilových cisternách rozčleněných do jednotlivých kategorií podle R vět.</td></tr><tr><td rowspan="13">Část D</td><td>16.</td><td> Popis chráněných druhů volně žijících rostlin a živočichů stanovených v § 2 písm. b) zákona:</td></tr><tr><td></td><td>a) druhy ptáků podle seznamu nařízení vlády č. 51/2005, kterým se stanoví druhy a počet ptáků, pro které se vymezují ptačí oblasti, v případě, že jejich populace přesahují 20 000 ks,</td></tr><tr><td></td><td>b) druhy rostlin a živočichů v zájmu Evropské unie uvedené v příloze č. 2 (A-C) k vyhlášce č. 166/2005 Sb., kterou se provádějí některá ustanovení zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů, v souvislosti s vytvářením soustavy NATURA 2000, ve znění vyhlášky č. 390/2006 Sb.,</td></tr><tr><td></td><td>c) další druhy rostlin a živočichů stanovené vyhláškou k provedení § 2 písm. b) bodu 3 zákona.</td></tr><tr><td></td><td>Popis chráněných druhů zahrnuje zejména velikost místní populace, charakter výskytu, a to trvalý výskyt, migrační zastávka, potravní zdroj, nároky druhů a jejich citlivost na rizika, hodnocení možných scénářů událostí, které mohou vyústit v ekologickou újmu, související s provozní činností v souladu s kritérii uvedenými v příloze č. 3 k zákonu. Popis se zpracovává zejména na základě údajů získaných terénním šetřením a ze seznamu zvláště chráněných druhů evidovaného v Nálezové databázi ochrany přírody, spravované Agenturou ochrany přírody a krajiny České republiky.<br> Popis chráněných druhů se zaměřuje na specifické podmínky prostředí lokality, především na vegetaci, vlhkostní poměry, půdu, s ohledem na předmět ochrany to je stav populace, její četnost a dynamika v dané lokalitě a její celistvost. Závěrem popisu je posouzení maximálně možného ovlivnění předmětu ochrany vyplývající z rizik popsaných v dokumentaci k podrobnému hodnocení rizik podle části E přílohy č. 2 k tomuto nařízení.</td></tr><tr><td>17.</td><td> Popis přírodních stanovišť, to je typů evropsky významných stanovišť uvedených v příloze č. 1 k vyhlášce č. 166/2005 Sb., ve znění vyhlášky č. 390/2006 Sb. Popisuje a posuzuje se plocha a význam přírodních stanovišť a jejich zranitelnost vůči rizikům, jako je hodnocení možných scénářů událostí, které mohou vyústit v ekologickou újmu, souvisejícím s provozní činností v souladu s kritérii uvedenými v příloze č. 3 k zákonu. Popis se zpracovává na základě informací obsažených ve veřejně dostupné aktuální vrstvě mapování biotopů, spravované Agenturou ochrany přírody a krajiny České republiky. <br> Popis přírodních stanovišť se zaměřuje na specifické podmínky prostředí lokality, jako je vegetace, vlhkostní poměry, půda, s ohledem na předmět ochrany to je stav populace, její četnost a dynamika dané lokality a její celistvost. Závěrem popisu je posouzení maximálně možného ovlivnění předmětu ochrany vyplývající z rizik popsaných v dokumentaci k podrobnému hodnocení rizik podle části E přílohy č. 2 k tomuto nařízení.</td></tr><tr><td>18.</td><td> Popis a plán v měřítku 1 : 5000 nebo 1 : 10 000 objektů obytné zástavby, infrastruktury, zařízení pro veřejnost, například nemocnic, škol, sportovních areálů, včetně správních institucí situovaných v okolí místa provozní činnosti, například sídle orgánů veřejné správy, dotčených zdravotním rizikem vlivem ekologické újmy vzniklé na půdě.</td></tr><tr><td>19.</td><td> Meteorologická charakteristika zaměřená na údaje z dlouhodobých sledování meteorologických situací, které mohou mít vliv na vznik a rozsah ekologické újmy, například průměrné a maximální srážky, maximální a minimální teploty, vlhkost, mlhy, častá bouřková činnost (elektrostatické výboje), převažující směr a rychlosti větru (větrná růžice), stabilita atmosféry případné modelové vyjádření.</td></tr><tr><td>20.</td><td> Charakteristika a popis vodohospodářských poměrů v okolí místa provozní činnosti s důrazem na specifika, která mohou mít vliv na vznik i rozsah ekologické újmy, například v zátopových územích při povodních, rizika spojená s existencí významných vodohospodářských děl, například hráze a přehrady, blízké situování vodohospodářsky významných vodotečí a vodních ploch a případné modelové vyjádření.</td></tr><tr><td>21.</td><td> Charakteristika a popis geologických poměrů, které mohou mít vliv na vznik ekologické ujmy nebo na její rozsah vlivem šíření znečišťující látky v životním prostředí, například nestabilita horninového podloží, sesuvy půdy, propustnost podloží, sklony geologických vrstev, výskyt geologických zlomů.</td></tr><tr><td>22.</td><td> Charakteristika hydrogeologických poměrů v okolí podniku ve vztahu k rozsahu ekologické újmy, například jímací území zdrojů pitné vody, území akumulace podzemních vod, a případné modelové vyjádření.</td></tr><tr><td>23.</td><td> Topografické poměry území – sklon terénu a jeho směr mající význam pro šíření kontaminace a příjemce expozice.</td></tr><tr><td>24.</td><td> Údaje o užívání území a demografii oblasti dotčené závažným rizikem nepříznivého vlivu na lidské zdraví vedoucím k ekologické újmě na půdě.</td></tr><tr><td rowspan="9">Část E</td><td>25.</td><td> Postup a výsledky identifikace možných scénářů událostí a jejich příčin, které mohou vyústit v ekologickou újmu a stanovení pravděpodobnosti jejich četnosti, včetně popisu událostí, které se dříve u příslušného provozovatele vyskytly.</td></tr><tr><td>26.</td><td> Popis postupu a výsledky provedení odhadů následků specifických identifikovaných scénářů vzniku ekologické újmy to je její typ a rozsah a závažnost, včetně provedených výpočtů, modelů a grafické prezentace nejdůležitějších výsledků odhadů.</td></tr><tr><td>27.</td><td> Postup a výsledky stanovení odhadu pravděpodobností reprezentativních scénářů ekologické újmy.</td></tr><tr><td>28.</td><td> Hodnocení neurčitosti ve výše uvedených scénářích.</td></tr><tr><td>29.</td><td> Popis metody použité při hodnocení, například existující a publikované, nebo vlastní spolu s její verifikací.</td></tr><tr><td>30.</td><td> Popis přijatých a plánovaných preventivní opatření technického i organizačního charakteru vzhledem k scénářům vzniku a velikosti ekologické újmy</td></tr><tr><td>31.</td><td> Přehled a popis instalovaných detekčních zařízení a monitorovacích systémů pro detekci látek vedoucích ke vzniku ekologické újmy.</td></tr><tr><td>32.</td><td> Popis přijatého systému trvalého sledování účinnosti opatření pro omezování rizika vzniku ekologické újmy.</td></tr><tr><td>33.</td><td> Souhrn odhadu typu, rozsahu a závažnosti ekologické újmy, v případě ekologické újmy na půdě hodnocení zdravotních rizik podle vyhlášky č. 17/2009 Sb., o zjišťování a nápravě ekologické újmy na půdě.</td></tr><tr><td rowspan="5">Část F</td><td>34.</td><td> Stanovení cílů nápravných opatření.</td></tr><tr><td>35.</td><td> Zhodnocení vhodnosti a proveditelnosti nápravných opatření, včetně jejich ceny při uplatnění principu cenově nejnižšího rozumně dosažitelného opatření (ALARA).</td></tr><tr><td>36.</td><td> Provedení finančního ocenění hodnocení nápravných opatření ekologické újmy, včetně jeho rozdělení na provedení opatření pro nápravu ekologické újmy na chráněných druzích, přírodních stanovištích, na vodě nebo na půdě.</td></tr><tr><td>37.</td><td> Zhodnocení přínosů z provedených nápravných opatření.</td></tr><tr><td>38.</td><td> Zhodnocení nejistoty v návrhu odstranění a ocenění ekologické újmy.</td></tr></tbody></table>
+
+### Příloha č. 3 k nařízení vlády č. 295/2011 Sb.
+
+#### Kontrola základního a podrobného hodnocení rizika
+
+1\. Kontrolní body pro posouzení základního hodnocení rizika
+
+1.1 druh provozní činnosti příslušného provozovatele podle přílohy č. 1 k zákonu,
+
+1.2 vydaná oprávnění a povolení k provozní činnosti a další schválené dokumenty, které se vztahují k posuzovanému místu provozní činnosti podle části A přílohy č. 1 k tomuto nařízení,
+
+1.3 zda byly identifikovány provozní činnosti a objekty příslušného provozovatele s nebezpečnými chemickými látkami, závadnými látkami a odpady, včetně charakterizace těchto látek, a jejich množství podle části B přílohy č. 1 k tomuto nařízení,
+
+1.4 zda byly identifikovány všechny složky životního prostředí, na kterých může vzniknout ekologická újma, a zda jsou stanovené vzdálenosti odpovídající podle části C přílohy č. 1 k tomuto nařízení,
+
+1.5 zda byly identifikovány všechny scénáře u příslušného provozovatele, které mohou vést k vzniku ekologické újmy,
+
+1.6 zda jsou scénáře vzniku ekologické újmy reálné vzhledem k definovaným nebezpečným látkám a vzdálenostem,
+
+1.7 zda bylo zvoleno reálné hodnocení možných následků ekologické újmy podle části D přílohy č. 1 k tomuto nařízení,
+
+1.8 zda existuje příklad dřívější havárie nebo ekologické újmy, která by mohla dát poučení pro hodnocené místo provozní činnosti.
+
+2\. Kontrolní body pro posouzení podrobného hodnocení rizika
+
+2.1 druh provozní činnosti příslušného provozovatele podle přílohy č. 1 k zákonu,
+
+2.2 vydaná oprávnění a povolení k provozní činnosti a další schválené dokumenty, které se vztahují k posuzovanému místu prováděné činnosti podle části A přílohy č. 2 k tomuto nařízení,
+
+2.3 zda byly identifikovány činnosti a objekty příslušného provozovatele s nebezpečnými chemickými látkami, odpady, odpadními vodami, včetně charakterizace těchto látek, které mohou vést k vzniku ekologické újmy,
+
+2.4 zda grafické zpracování odpovídá situaci u příslušného provozovatele podle části C přílohy č. 2 k tomuto nařízení,
+
+2.5 zda byly identifikovány a graficky vyjádřeny všechny složky životního prostředí, na kterých může vzniknout ekologická újma, a zda jsou stanovené vzdálenosti odpovídající,
+
+2.6 zda jsou popsány sledované charakteristiky životního prostředí vzhledem k možnosti vzniku ekologické újmy podle části D přílohy č. 2 k tomuto nařízení,
+
+2.7 zda byly identifikovány všechny okolnosti u příslušného provozovatele, například havárie zařízení, selhání lidského činitele, i mimo něj, například povodeň, lesní požár, které mohou vést k vzniku ekologické újmy,
+
+2.8 zda jsou scénáře vzniku ekologické újmy, včetně posouzení definovaných vzdáleností, reálné,
+
+2.9 zda je provedeno hodnocení rizika na lidské zdraví v případě ekologické újmy na půdě podle části E přílohy č. 2 k tomuto nařízení,
+
+2.10 zda existují technická i organizační preventivní opatření ke sledování možného vzniku a ke snížení následků ekologické újmy,
+
+2.11 zda jsou identifikována a zda jsou reálná navržená preventivní a nápravná opatření,
+
+2.12 zda je reálné ocenění nápravných opatření,
+
+2.13 zda je použitá metoda hodnocení rizika dostatečně dokumentována podle části F přílohy č. 2 k tomuto nařízení.
+
+3\. Kontrolní body pro posouzení obsahu dokumentu nebo smlouvy o finančním zajištění
+
+3.1 zda se jedná o pojištění nebo jiné finanční zajištění a jeho identifikace,
+
+3.2 zda se doklad o zabezpečení finančního zajištění vztahuje na činnost popsanou v hodnocení rizika,
+
+3.3 jaký typ ekologické újmy je v dokladu o zabezpečení finančního zajištění výslovně uveden, například půda, podzemní nebo povrchové vody, chráněné druhy volně žijících živočichů či planě rostoucích rostlin nebo přírodní stanoviště vymezené zákonem, nebo zda není specifikovaný,
+
+3.4 zda jsou některé provozní činnosti nebo typy ekologické újmy přímo vyloučeny, například vyjmenované provozní činnosti, rizika vzniklá po uzavření smlouvy, úmysl, a pokud ano, zda a jak jsou finančně zajištěny,
+
+3.5 jaký je územní rozsah pokrytí finančního zajištění, například národní, včetně sousedních států nebo se širší platností,
+
+3.6 zda výše finančního zajištění odpovídá finančnímu vyčíslení ceny nápravných opatření k nápravě ekologické újmy v dokumentu hodnocení rizika.
+
+### Příloha č. 4 k nařízení vlády č. 295/2011 Sb.
+
+#### Posouzení dostatečnosti finančního zajištění
+
+Posouzení dostatečnosti finančního zajištění se provádí vzhledem k navrhovaným nápravným a preventivním opatřením a jejich ocenění v podrobném hodnocení rizika.
+
+1\. Finanční zajištění je sjednáno na provozní činnost:
+
+a) uvedenou v příloze č. 1 k zákonu,
+
+b) neuvedenou v příloze č. 1 k zákonu.
+
+2\. Finanční zajištění se vztahuje na náklady preventivních nebo nápravných opatření při ekologické újmě na:
+
+a) půdě a vodě,
+
+b) chráněných druzích volně žijících živočichů nebo planě rostoucích rostlin, na přírodních stanovištích vymezených zákonem,
+
+c) bez rozlišení.
+
+3\. Finanční zajištění se vztahuje na provedení:
+
+a) primární nápravy,
+
+b) doplňkové nápravy,
+
+c) vyrovnávací nápravy,
+
+d) nákladů na preventivní opatření.
+
+4\. Územní rozsah pokrytí finančního zajištění:
+
+a) Česká republika,
+
+b) státy bezprostředně sousedící s Českou republikou,
+
+c) členské státy Evropské unie,
+
+d) Evropa.
+
+5\. Specifická vyloučení plnění finančního zajištění:
+
+a) další provozní činnosti vedoucí ke vzniku ekologické újmy zavedené až po uzavření smlouvy o finančním zajištění,
+
+b) jiná omezení plnění.
+
+6\. Finanční zajištění je provedeno pro více produktů:
+
+a) kumulace pojistných a bankovních produktů,
+
+b) kumulace pojistných a jiných produktů,
+
+c) kumulace bankovních a jiných produktů.
+
+---
+
+<sup>1</sup>) § 2 písm. i) zákona č. 167/2008 Sb.
+
+<sup>2</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1221/2009 ze dne 25. listopadu 2009 o dobrovolné účasti organizací v systému Společenství pro environmentální řízení podniků a audit (EMAS) a o zrušení nařízení Rady (ES) č. 761/2001, rozhodnutí Komise 2001/681/ES a 2006/193/ES.
+
+<sup>3</sup>) § 39 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb. 
+ Příloha č. 1 k zákonu č. 254/2001 Sb., ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb.
+
+<sup>4</sup>) Zákon č. 59/2006 Sb., o prevenci závažných havárií způsobených vybranými nebezpečnými chemickými látkami nebo chemickými přípravky a o změně zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a zákona č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů, ve znění pozdějších předpisů, (zákon o prevenci závažných havárií), ve znění pozdějších předpisů.
+
+<sup>5</sup>) Zákon č. 356/2003 Sb., o chemických látkách a chemických přípravcích a o změně některých zákonů, ve znění pozdějších předpisů. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 1272/2008 ze dne 16. prosince 2008 o klasifikaci, označování a balení látek a směsí, a o změně a zrušení směrnic 67/548/EHS a 1999/45/ES a o změně nařízení (ES) č. 1907/2006.
+
+<sup>6</sup>) § 39 odst. 1 zákona č. 254/2001 Sb., ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb.
+
+<sup>7</sup>) Příloha č. 1 k zákonu č. 254/2001 Sb., ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb.
+
+<sup>8</sup>) Zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů.
+
+<sup>9</sup>) § 6 zákona č. 185/2001 Sb., ve znění zákona č. 227/2009 Sb. a zákona č. 154/2010 Sb. 
+ Vyhláška č. 381/2001 Sb., kterou se stanoví Katalog odpadů, Seznam nebezpečných odpadů a seznamy odpadů a států pro účely vývozu, dovozu a tranzitu odpadů a postup při udělování souhlasu k vývozu, dovozu a tranzitu odpadů (Katalog odpadů), ve znění pozdějších předpisů.
+
+<sup>10</sup>) § 25 zákona č. 185/2001 Sb., ve znění zákona č. 7/2005 Sb., zákona č. 314/2006 Sb., zákona č. 25/2008 Sb. a zákona č. 34/2008 Sb.
+
+<sup>11</sup>) § 45e zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb.
+
+<sup>12</sup>) § 3 písm. q) zákona č. 114/1992 Sb., ve znění zákona č. 218/2004 Sb., zákona č. 312/2008 Sb. a zákona č. 349/2009 Sb. 
+ § 45c zákona č. 114/1992 Sb., ve znění zákona č. 218/2004 Sb. a zákona č. 349/2009 Sb.
+
+<sup>13</sup>) Vyhláška č. 470/2001 Sb., kterou se stanoví seznam významných vodních toků a způsob provádění činností souvisejících se správou vodních toků, ve znění pozdějších předpisů.
+
+<sup>14</sup>) Nařízení vlády č. 103/2003 Sb., o stanovení zranitelných oblastí a o používání a skladování hnojiv a statkových hnojiv, střídání plodin a provádění protierozních opatření v těchto oblastech, ve znění pozdějších předpisů.
+
+<sup>15</sup>) Nařízení vlády č. 71/2003 Sb., o stanovení povrchových vod vhodných pro život a reprodukci původních druhů ryb a dalších vodních živočichů a o zjišťování a hodnocení stavu jakosti těchto vod, ve znění pozdějších předpisů.
+
+<sup>16</sup>) § 5 odst. 1 vyhlášky č. 391/2004 Sb., o rozsahu údajů v evidencích stavu povrchových a podzemních vod a o způsobu zpracování, ukládání a předávání těchto údajů do informačních systémů veřejné správy.
+
+<sup>17</sup>) Vyhláška č. 137/1999 Sb., kterou se stanoví seznam vodárenských nádrží a zásady pro stanovení a změny ochranných pásem vodních toků.
+
+<sup>18</sup>) Vyhláška č. 5/2011 Sb., o vymezení hydrogeologických rajonů a útvarů podzemních vod.
+
+<sup>19</sup>) § 30 zákona č. 254/2001 Sb., ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb.
+
+<sup>20</sup>) § 21 zákona č. 164/2001 Sb., o přírodních léčivých zdrojích, zdrojích přírodních minerálních vod, přírodních léčebných lázních a lázeňských místech a o změně některých souvisejících zákonů (lázeňský zákon).
+
+<sup>21</sup>) § 28 zákona č. 254/2001 Sb.
+
+<sup>22</sup>) § 86 zákona č. 114/1992 Sb.
+
+<sup>23</sup>) § 40 zákona č. 254/2001 Sb.
+
+<sup>24</sup>) § 2 písm. a) zákona č. 167/2008 Sb.
+
+<sup>25</sup>) Například § 39 zákona č. 254/2001 Sb., ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb., § 6 vyhlášky č. 80/2010 Sb., § 17 zákona č. 59/2006 Sb., o stavu nouze v elektroenergetice a o obsahových náležitostech havarijního plánu, § 20 zákona č. 78/2004 Sb., o nakládání s geneticky modifikovanými organismy a genetickými produkty, ve znění zákona č. 346/2005 Sb., § 14 zákona č. 157/2009 Sb., o nakládání s těžebním odpadem a o změně některých zákonů.
+
+<sup>26</sup>) § 59 odst. 1 písm. a) zákona č. 254/2001 Sb., ve znění zákona č. 150/2010 Sb. 
+ § 3 vyhlášky č. 216/2011 Sb., o náležitostech manipulačních řádů a provozních řádů vodních děl.

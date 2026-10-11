@@ -1,0 +1,193 @@
+---
+title: "Vyhláška č. 236/2015 Sb., o stanovení podmínek pro předepisování, přípravu, distribuci, výdej a používání individuálně připravovaných léčivých přípravků s obsahem konopí pro léčebné použití"
+identifier: "236/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/236/2025-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-09-04
+effective: 2015-10-17
+last_amended: 2025-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/236"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 236/2015 Sb., o stanovení podmínek pro předepisování, přípravu, distribuci, výdej a používání individuálně připravovaných léčivých přípravků s obsahem konopí pro léčebné použití ve znění vyhlášky č. 307/2020 Sb., vyhlášky č. 219/2022 Sb. a vyhlášky č. 12/2025 Sb."
+---
+
+# Vyhláška č. 236/2015 Sb., o stanovení podmínek pro předepisování, přípravu, distribuci, výdej a používání individuálně připravovaných léčivých přípravků s obsahem konopí pro léčebné použití
+
+236
+
+VYHLÁŠKA
+
+ze dne 4. září 2015
+
+o stanovení podmínek pro předepisování, přípravu, distribuci, výdej a používání individuálně připravovaných léčivých přípravků s obsahem konopí pro léčebné použití
+
+Ministerstvo zdravotnictví a Ministerstvo zemědělství, po projednání s Ministerstvem obrany, Ministerstvem vnitra, Ministerstvem spravedlnosti a Ministerstvem financí stanoví podle § 114 zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění zákona č. 50/2013 Sb. a zákona č. 70/2013 Sb., k provedení § 77 odst. 1 písm. g), § 79 odst. 2, § 79 odst. 8 písm. a), § 79a odst. 1 a § 80 zákona o léčivech:
+
+## § 1 – Předmět úpravy
+
+(1) Tato vyhláška upravuje pravidla správné distribuční praxe konopí pro léčebné použití a extraktu z konopí pro léčebné použití podmínky předepsání, přípravy, výdeje a použití individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití.
+
+(2) Tato vyhláška dále upravuje
+
+a) metody výroby extraktu z konopí pro léčebné použití,
+
+b) použité analytické metody testování účinných látek extraktu z konopí pro léčebné použití,
+
+c) podmínky označování a skladování extraktu z konopí pro léčebné použití, jakož i způsob jeho zpracování coby suroviny při přípravě individuálně připravovaných léčivých přípravků podle zákona o léčivech, a
+
+d) podmínky stanovené pro použití konopí pro léčebné použití pro přípravu individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití.
+
+(3) Tato vyhláška dále upravuje podrobnosti, strukturu, formu, způsob a časový interval poskytování informací o výsledcích léčby individuálně připravovanými léčivými přípravky s obsahem konopí pro léčebné použití.
+
+## § 2 – Konopí pro léčebné použití a stanovení množstevního omezení
+
+(1) Pro předepsání, přípravu, výdej a použití individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití lze použít pouze konopí pro léčebné použití druhu Cannabis sativa nebo extrakt z konopí pro léčebné použití, a to v souhrnném množství nejvýše 180 g usušené rostlinné drogy měsíčně. Pro účely výpočtu množstevního omezení platí, že 1 g extraktu z konopí pro léčebné použití je vyroben ze 3 g usušené rostlinné drogy.
+
+(2) Při používání individuálně připravovaných léčivých přípravků s obsahem konopí pro léčebné použití v rámci poskytování lůžkové zdravotní péče, připravených na základě žádanky s modrým pruhem, je povinností ošetřujícího lékaře zajistit dodržení množstevního omezení konopí pro léčebné použití u hospitalizovaného pacienta, které činí maximálně 6 g usušené rostlinné drogy nebo 2 g extraktu z konopí pro léčebné použití za jeden den.
+
+(3) Pro přípravu individuálně připravovaného léčivého přípravku lze použít pouze konopí pro léčebné použití druhu Cannabis sativa při splnění požadavků stanovených Evropským lékopisem nebo extrakt z konopí pro léčebné použití, který splňuje kritéria podle přílohy č. 5 k této vyhlášce.
+
+(4) Jakost konopí pro léčebné použití a extraktu z konopí pro léčebné použití pro přípravu léčivých přípravků musí být doložena předložením dokladu o ověření jakosti léčivé látky vydaného v Evropské unii
+
+a) výrobcem léčivých přípravků, který je oprávněn ke kontrole léčivých látek,
+
+b) výrobcem léčivých látek, který je držitelem platného certifikátu správné výrobní praxe při výrobě léčivých látek, nebo
+
+c) laboratoří, která splňuje požadavky správné výrobní praxe stanovené Evropskou komisí a Evropskou lékovou agenturou a splnění požadavků správné výrobní praxe doloží platným certifikátem správné výrobní praxe nebo protokolem o kontrole vydaným inspektory příslušného orgánu daného členského státu; takový protokol o kontrole nesmí být starší 3 let.
+
+(5) V dokladu o ověření jakosti léčivé látky podle odstavce 4 musí být uvedeny tyto údaje:
+
+a) použitá rostlinná droga (Cannabis sativa),
+
+b) typ extraktu, popřípadě že se jedná o čištěný extrakt,
+
+c) deklarovaný obsah THC a CBD,
+
+d) název rozpouštědla použitého k extrakci,
+
+e) název a množství pomocných látek přítomných v extraktu a
+
+f) podmínky skladování a doba použitelnosti.
+
+## § 3 – Značení konopí pro léčebné použití a extraktu z konopí pro léčebné použití
+
+(1) Konopí pro léčebné použití určené pro přípravu individuálně připravovaného léčivého přípravku musí mít na obalu uveden obsah delta-9-tetrahydrocannabinolu a cannabidiolu, který je uveden v dokladu o ověření jakosti léčivé látky podle § 2 odst. 4. Extrakt z konopí pro léčebné použití určený pro přípravu individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití musí mít na obalu uveden obsah delta-9-tetrahydrocannabinolu a cannabidiolu, který je uveden v dokladu o ověření jakosti léčivé látky podle § 2 odst. 4, typ extraktu podle přílohy č. 5 k této vyhlášce, název rozpouštědla použitého k extrakci, název a množství pomocných látek přítomných v extraktu, informace o podmínkách skladování a dobu použitelnosti.
+
+(2) Pro označení individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití podle § 2 se použije vyhláška o správné lékárenské praxi<sup>1</sup>).
+
+## § 4 – Předepisování individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití
+
+(1) Individuálně připravovaný léčivý přípravek s obsahem konopí pro léčebné použití podle § 2 může při poskytování zdravotních služeb předepisovat
+
+a) pacientovi od 18 let v indikacích uvedených v příloze č. 3 k této vyhlášce pouze lékař se specializovanou způsobilostí stanovenou v této příloze,
+
+b) pacientovi mladšímu 18 let pouze lékař
+
+1\. se zvláštní specializovanou způsobilostí v oboru paliativní medicíny při poskytování paliativní péče, nebo
+
+2\. poskytující zdravotní péči takovému pacientovi v centru vysoce specializované péče<sup>3</sup>) v oboru hematoonkologické péče o děti nebo onkologické péče pro děti.
+
+(2) Předepisující lékař je povinen uvést na elektronickém receptu s označením „vysoce návyková látka“ kromě obecných náležitostí stanovených vyhláškou o způsobu předepisování léčivých přípravků<sup>2</sup>), dávkování individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití podle § 2, cestu podání kód 9190000 pro konopí pro léčebné použití nebo kód 9390000 pro extrakt z konopí pro léčebné použití, a do poznámky elektronického receptu s označením „vysoce návyková látka“ nebo na žádanku s modrým pruhem uvede požadovaný procentuální obsah delta-9-tetrahydrocannabinolu a cannabidiolu předepisovaného konopí pro léčebné použití procentuální obsah delta-9-tetrahydrocannabinolu a cannabidiolu nebo kód extraktu z konopí pro léčebné použití. Pokud předepisující lékař předepíše extrakt z konopí pro léčebné použití, je povinen uvést celkové množství extraktu použité při přípravě individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití a typ extraktu podle přílohy č. 5 k této vyhlášce.
+
+(3) Připravovaný léčivý přípravek s obsahem konopí pro léčebné použití podle § 2 lze předepsat na jeden recept nejvýše v množství odpovídajícím dávce pro zajištění tříměsíční léčby pro danou indikaci.
+
+(4) Při poskytování lůžkové péče může ošetřující lékař indikovat písemným záznamem do zdravotnické dokumentace pacienta použití léčivého přípravku s obsahem konopí pro hospitalizovaného pacienta v souladu s § 2 odst. 2. Podmínkou pro tuto indikaci je specializovaná způsobilost ošetřujícího lékaře stanovená v příloze č. 3 k této vyhlášce, nebo písemné doporučení lékaře se specializovanou způsobilostí stanovenou v příloze č. 3 k této vyhlášce, který před hospitalizací poskytoval pacientovi specializovanou ambulantní péči, v rámci které mu předepisoval individuálně připravovaný léčivý přípravek s obsahem konopí pro léčebné použití v souladu s touto vyhláškou, anebo na základě písemného doporučení konzultujícího lékaře se specializovanou způsobilostí stanovenou v příloze č. 3 k této vyhlášce v průběhu hospitalizace. Doporučení lékaře se specializovanou způsobilostí musí být nejpozději v den vystavení žádanky s modrým pruhem založeno ve zdravotnické dokumentaci pacienta.
+
+(5) Individuálně připravovaný léčivý přípravek s obsahem konopí pro léčebné použití pro hospitalizovaného pacienta lze v lékárně připravit pouze na základě žádanky s modrým pruhem, a to za splnění podmínky, že množství konopí pro léčebné použití v jedné jednotce předepsané lékové formy nepřekročí množstevní limit podle § 2 odst. 2.
+
+## § 5 – Příprava a výdej individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití
+
+(1) Individuálně připravovaný léčivý přípravek s obsahem konopí pro léčebné použití může být vydán jen v případě, že je předepsán na platný elektronický recept s označením „vysoce návyková látka“, který obsahuje náležitosti podle § 4 odst. 2 nebo na žádanku s modrým pruhem v rámci poskytování lůžkové zdravotní péče podle zákona o návykových látkách v souladu s § 4 odst. 2 a 6.
+
+(2) Pro přípravu individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití nebo extrakt z konopí pro léčebné použití lze použít pouze konopí pro léčebné použití nebo extrakt z konopí pro léčebné použití, jejichž obsah delta-9-tetrahydrocannabinolu vyjádřený v procentech činí maximálně 25,0 % a obsah cannabidiolu vyjádřený v procentech činí maximálně 23,0 %.
+
+(3) Pro přípravu a výdej individuálně připravovaného léčivého přípravku s obsahem konopí pro léčebné použití na základě elektronického receptu s označením „vysoce návyková látka“ nebo na základě žádanky s modrým pruhem lze použít pouze konopí pro léčebné použití nebo extrakt z konopí pro léčebné použití, který odpovídá předepisujícím lékařem uvedeným hodnotám s tolerancí 10 %.
+
+## § 5b – Výroba extraktu z konopí pro léčebné použití
+
+(1) K výrobě extraktu z konopí pro léčebné použití lze použít pouze konopí pro léčebné použití určené pro přípravu individuálně připravovaného léčivého přípravku.
+
+(2) Použité analytické metody testování účinných látek v extraktu z konopí pro léčebné použití stanoví příloha č. 5 k této vyhlášce.
+
+## § 6 – Závěrečné ustanovení
+
+Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu při poskytování informací v oblasti norem a technických předpisů a předpisů pro služby informační společnosti, v platném znění.
+
+## § 7 – Zrušovací ustanovení
+
+Vyhláška č. 221/2013 Sb., kterou se stanovují podmínky pro předepisování, přípravu, výdej a používání individuálně připravovaných léčivých přípravků s obsahem konopí pro léčebné použití, se zrušuje.
+
+## § 8 – Účinnost
+
+Tato vyhláška nabývá účinnosti třicátým dnem ode dne jejího vyhlášení.
+
+Ministr zdravotnictví:
+
+MUDr. Němeček v. r.
+
+Ministr zemědělství:
+
+Ing. Jurečka v. r.
+
+### Příloha č. 3 k vyhlášce č. 236/2015 Sb.
+
+#### Indikace a specializovaná způsobilost předepisujícího lékaře
+
+<table><tbody><tr><th><b>Indikace</b></th><th><b>Specializovaná způsobilost lékaře </b></th></tr><tr><td rowspan="13">chronická neutišitelná bolest (zejména bolest v souvislosti s onkologickým onemocněním, bolest spojená s degenerativním onemocněním pohybového systému, systémovým onemocněním pojiva a imunopatologickými stavy, neuropatická bolest, bolest při glaukomu)</td><td>klinická onkologie</td></tr><tr><td>radiační onkologie</td></tr><tr><td>neurologie</td></tr><tr><td>paliativní medicína</td></tr><tr><td>léčba bolesti</td></tr><tr><td>revmatologie</td></tr><tr><td>ortopedie</td></tr><tr><td>infekční lékařství</td></tr><tr><td>vnitřní lékařství</td></tr><tr><td>oftalmologie</td></tr><tr><td>dermatovenerologie</td></tr><tr><td>geriatrie</td></tr><tr><td>všeobecné lékařství</td></tr><tr><td rowspan="3">spasticita a s ní spojená bolest u roztroušené sklerózy nebo při poranění míchy, nebolestivá úporná spasticita zásadním způsobem omezující pohyb a mobilitu, nebo dýchání pacienta, mimovolné kinézy způsobené neurologickým onemocněním a další zdravotní komplikace, mající původ v neurologickém onemocnění, nebo úrazu páteře s poškozením míchy, či úrazu mozku, neurologický třes způsobený Parkinsonovou chorobou a další neurologické potíže dle zvážení ošetřujícího lékaře</td><td>neurologie</td></tr><tr><td rowspan="2">geriatrie</td></tr><tr></tr><tr><td rowspan="5">nauzea, zvracení, stimulace apetitu v souvislosti s léčbou onkologického onemocnění nebo s léčbou onemocnění HIV</td><td>klinická onkologie</td></tr><tr><td>radiační onkologie</td></tr><tr><td>infekční lékařství</td></tr><tr><td>dermatovenerologie</td></tr><tr><td>geriatrie</td></tr><tr><td>Gilles de la Tourette syndrom</td><td>psychiatrie</td></tr><tr><td rowspan="3">povrchová léčba dermatóz a slizničních lézí</td><td>dermatovenerologie</td></tr><tr><td>infekční lékařství</td></tr><tr><td>geriatrie</td></tr></tbody></table>
+
+### Příloha č. 5 k vyhlášce č. 236/2015 Sb.
+
+#### Analytické metody testování účinných látek v extraktu z konopí pro léčebné použití
+
+#### Extrakt z konopí pro léčebné použití
+
+(EXTRAKT Z KONOPNÉHO KVĚTU STANDARDIZOVANÝ\*, Cannabis floris extractum normatum)
+
+\*Pro konkrétní extrakt musí být název dále rozšířen o typ extraktu (tekutý extrakt, tinktura, hustý extrakt, suchý extrakt)
+
+Splňuje požadavky obecného článku ČL/Ph.Eur. Extrakty z rostlinných drog (Plantarum medicinalium extracta) pro daný typ extraktu, kterým je tekutý extrakt, tinktura, hustý extrakt, nebo suchý extrakt a další testy:
+
+| Parametr | Metoda | Limit |
+|---|---|---|
+| Vzhled | vizuálně | podle specifikace daného extraktu |
+| Totožnost | HPLC<sup>1</sup><sup>)</sup> - ČL<sup>2</sup><sup>)</sup> / Ph.Eur<sup>3</sup><sup>)</sup>.<br> 2.2.27, 2.2.29 | |
+| Zkoušky na čistotu | | |
+| Zkoušky dle požadavků ČL/Ph.Eur. pro daný typ extraktu | ČL/Ph.Eur. 0765 | |
+| Zbytky pesticidů\*\* | ČL/Ph.Eur. 2.8.13 | odpovídá limitům uvedeným v Ph.Eur. 2.8.13 |
+| Těžké kovy\*\* | ČL 2.4.27 | Pb - max. 5,0 μg/g<br> Cd - max. 1,0 μg/g<br> Hg - max. 0,1 μg/g |
+| Aflatoxiny<sup>\*\*</sup>- Aflatoxin B<sub>1</sub><br> - celkový obsah aflatoxinů B<sub>1</sub>, B<sub>2</sub>, G<sub>1</sub> a G<sub>2</sub> | ČL/Ph.Eur. 2.8.18 | max. 2 μg/kg<br> max. 4 μg/kg |
+| Mikrobiologická jakost CL/Ph.Eur. 5.1.4<br> - TAMC<sup>4</sup><sup>)</sup><br> - TYMC<sup>5</sup><sup>)</sup><br> - Escherichia coli<br> - Staphylococcus aureus<br> - Pseudomonas aeruginosa<br> - Žluč tolerující gramnegativní bakterie<br> - Salmonella | ČL/Ph.Eur 2.6.12 a 2.6.13 | max. 10<sup>2</sup> CFU<sup>6</sup><sup>)</sup>/1 g nebo v 1 ml<br> max. 10<sup>1</sup> CFU/1 g nebo v 1 ml<br> nepřítomnost (v 1 g nebo v 1 ml)<br> nepřítomnost (v 1 g nebo v 1 ml)<br> nepřítomnost (v 1 g nebo v 1 ml)<br> nepřítomnost (v 1 g nebo v 1 ml)<br> nepřítomnost (v 10 g nebo v 10 ml) |
+| Rozkladné produkty- Kanabinol / Cannabinol | HPLC - ČL / Ph.Eur. 2.2.29 | max. 2,5 % |
+| Olejové extrakty nebo extrakty s obsahem oleje <br> - Číslo kyselosti<br> - Číslo peroxidové | ČL/Ph.Eur. 2.5.1<br> ČL/Ph.Eur. 2.5.5 | dle charakteru použitého oleje |
+| Obsah- THC <sup>7</sup><sup>)</sup><br> - CBD <sup>8</sup><sup>)</sup> | HPLC - ČL/Ph.Eur. 2.2.29 | max. 25 %<br> max. 23 % |
+
+Vysvětlivky:
+
+<sup>\*\*</sup> testování není nutné v případě, že výchozí droga použitá k výrobě extraktu splňuje požadavky uvedené ve vyhlášce 236/2015 Sb.
+
+<sup>1)</sup> Vysokoúčinná kapalinová chromatografie
+
+<sup>2)</sup> Český lékopis
+
+<sup>3)</sup> Evropský lékopis
+
+<sup>4)</sup> Celkový počet aerobních mikroorganismů
+
+<sup>5)</sup> Celkový počet kvasinek/plísní
+
+<sup>6)</sup> Kolonie tvořící jednotka/y
+
+<sup>7)</sup> Tetrahydrokanabinol / tetrahydrocannabinol
+
+<sup>8)</sup> Kanabidiol / cannabidiol
+
+---
+
+<sup>1</sup>) Vyhláška č. 84/2008 Sb., o správné lékárenské praxi, bližších podmínkách zacházení s léčivy v lékárnách, zdravotnických zařízeních a u dalších provozovatelů a zařízení vydávajících léčivé přípravky, ve znění vyhlášky č. 254/2013 Sb.
+
+<sup>2</sup>) Vyhláška č. 329/2019 Sb., o předepisování léčivých přípravků při poskytování zdravotních služeb.
+
+<sup>3</sup>) § 112 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů.

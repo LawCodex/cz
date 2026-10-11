@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 109/2016 Sb., o vydání zlaté mince „Hrad Kost“ po 5 000 Kč"
+identifier: "109/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/109/2016-05-31"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2016-03-07
+effective: 2016-05-31
+last_amended: 2016-05-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/109"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 109/2016 Sb., o vydání zlaté mince „Hrad Kost“ po 5 000 Kč
+
+109
+
+VYHLÁŠKA
+
+ze dne 7. března 2016
+
+o vydání zlaté mince „Hrad Kost“ po 5 000 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 31. května 2016 se v rámci cyklu „Hrady“ vydává zlatá mince „Hrad Kost“ po 5 000 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince v běžném i ve zvláštním provedení se razí ze zlata o ryzosti 999.9. Hmotnost mince je 15,55 g, její průměr 28 mm a síla 1,9 mm. Při ražbě mince v běžném provedení i ve zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká.
+
+## § 2
+
+(1) Na lícní straně mince je v horní polovině mincovního pole kompozice heraldických zvířat z velkého státního znaku ve štítech. Uprostřed je český lev, vlevo od něj je moravská orlice a vpravo od něj je slezská orlice. Pod kompozicí heraldických zvířat je vyobrazen portál dveří do hradní kaple. Uvnitř portálu ve spodní polovině mincovního pole je název státu „ČESKÁ REPUBLIKA“, název cyklu „HRADY“ a označení nominální hodnoty mince se zkratkou peněžní jednotky „5000 Kč“. Značka České mincovny, která je tvořena kompozicí písmen „Č“ a „M“, je při spodním okraji mince.
+
+(2) Na rubové straně mince je zobrazen hrad Kost. Při horním okraji mince jsou iniciály autora mince, akademického sochaře Zbyňka Fojtů, které jsou tvořeny kompozicí písmen „F“ a „Z“, následuje text „HRAD“ „KOST“ a ročník ražby „2016“, které jsou odděleny tečkami.
+
+(3) Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 31. května 2016.
+
+Guvernér:
+
+Ing. Singer, Ph.D., v. r.
+
+### Příloha k vyhlášce č. 109/2016 Sb.
+
+#### Vyobrazení zlaté mince „Hrad Kost“ po 5 000 Kč
+
+(lícní a rubová strana)
+
+##### ![sbcr2016c042z0109p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/881141/NAHLED/ZOBRAZ/sbcr2016c042z0109p001o001)
+
+##### ![sbcr2016c042z0109p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/881143/NAHLED/ZOBRAZ/sbcr2016c042z0109p001o002)

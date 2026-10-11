@@ -1,0 +1,58 @@
+---
+title: "Vyhláška č. 271/2006 Sb., o vydání pamětních stříbrných dvousetkorun k 500. výročí úmrtí Matěje Rejska"
+identifier: "271/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/271/2006-06-21"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-05-11
+effective: 2006-06-21
+last_amended: 2006-06-21
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/271"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 271/2006 Sb., o vydání pamětních stříbrných dvousetkorun k 500. výročí úmrtí Matěje Rejska
+
+271
+
+VYHLÁŠKA
+
+ze dne 11. května 2006
+
+o vydání pamětních stříbrných dvousetkorun k 500. výročí úmrtí Matěje Rejska
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K 500. výročí úmrtí významného českého gotického stavitele a kameníka Matěje Rejska se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“). Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném provedení i ve zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,4 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném provedení i ve zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je zobrazena kazatelna z kostela sv. Vavřince v Kaňku, která je dílem Matěje Rejska. Při levém okraji dvousetkoruny je neuzavřený opis s názvem státu „ČESKÁ REPUBLIKA“, při pravém spodním okraji rovněž v neuzavřeném opisu označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“. Při pravém horním okraji je značka mincovny, která dvousetkorunu razila.
+
+(2) Na rubu dvousetkoruny je autoportrét Matěje Rejska z Prašné brány v Praze. Při levém a spodním okraji dvousetkoruny je neuzavřený opis „MATĚJ REJSEK ● 1506 – 2006“. Autorem návrhu dvousetkoruny je akademický sochař Zbyněk Fojtů, jehož iniciály, spojená písmena „FZ“, jsou umístěny při pravém horním okraji dvousetkoruny.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 21. června 2006.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### Příloha k vyhlášce č. 271/2006 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny k 500. výročí úmrtí Matěje Rejska
+
+#### (lícní a rubová strana)
+
+##### ![sbcr2006c086z0271p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/836021/NAHLED/ZOBRAZ/sbcr2006c086z0271p001o001)
+
+##### ![sbcr2006c086z0271p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/836023/NAHLED/ZOBRAZ/sbcr2006c086z0271p001o002)

@@ -1,0 +1,382 @@
+---
+title: "Vyhláška č. 128/2009 Sb., o přizpůsobení veterinárních a hygienických požadavků pro některé potravinářské podniky, v nichž se zachází se živočišnými produkty"
+identifier: "128/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/128/2026-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-04-30
+effective: 2009-05-30
+last_amended: 2026-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/128"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 128/2009 Sb., o přizpůsobení veterinárních a hygienických požadavků pro některé potravinářské podniky, v nichž se zachází se živočišnými produkty
+
+128
+
+VYHLÁŠKA
+
+ze dne 30. dubna 2009
+
+o přizpůsobení veterinárních a hygienických požadavků pro některé potravinářské podniky, v nichž se zachází se živočišnými produkty
+
+Ministerstvo zemědělství stanoví podle § 78 zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění zákona č. 131/2003 Sb., zákona č. 316/2004 Sb., zákona č. 48/2006 Sb. a zákona č. 182/2008 Sb., k provedení § 21 odst. 14, § 22 odst. 2 a § 24 odst. 2 veterinárního zákona:
+
+## § 1 – Předmět úpravy
+
+(1) Tato vyhláška upravuje v návaznosti na přímo použitelné předpisy Evropské unie<sup>1</sup>) (dále jen „předpisy Evropské unie“)
+
+a) veterinární podmínky uvolňování živočišných produktů do oběhu,
+
+b) veterinární a hygienické požadavky na některé podniky, závody a jiná zařízení, v nichž se zachází s potravinami<sup>2</sup>) (dále jen „potravinářský podnik“), a technické podmínky jejich konstrukce, uspořádání a vybavení,
+
+c) jakým postupem a podle jakých kritérií mohou orgány veterinární správy přizpůsobit bez ohrožení hygieny výroby veterinární a hygienické požadavky předpisů Evropské unie pro potravinářské podniky,
+
+d) které potravinářské podniky se považují za podniky s malým objemem výroby a které potravinářské podniky se považují za podniky provozující maloobchodní činnost,
+
+e) veterinární a hygienické požadavky na potraviny vyráběné a zpracovávané v potravinářských podnicích, na něž se vztahují ustanovení této vyhlášky<sup>3</sup>), a na zacházení s nimi,
+
+f) obsahové náležitosti žádosti o přizpůsobení veterinárních a hygienických požadavků (dále jen „přizpůsobení požadavků“) pro potravinářské podniky.
+
+(2) Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady 98/34/ES ze dne 22. června 1998 o postupu poskytování informací v oblasti technických norem a předpisů a pravidel pro služby informační společnosti, ve znění směrnice 98/48/ES.
+
+(3) Tato vyhláška se nevztahuje na prodej malých množství vlastních produktů prvovýroby přímo konečnému spotřebiteli a na jejich dodávání do místní maloobchodní prodejny, která zásobuje přímo konečného spotřebitele<sup>4</sup>).
+
+## § 2 – Vymezení pojmů
+
+Pro účely této vyhlášky se rozumí
+
+a) strukturálními požadavky technické požadavky na konstrukci a provedení stavby potravinářského podniku, její uspořádání a účelové určení jejích provozních prostorů, jejich vnitřní úpravu a vybavení,
+
+b) pokrmem potravina včetně nápoje, kuchyňsky upravená studenou nebo teplou cestou nebo ošetřená tak, aby mohla být přímo nebo po ohřevu podána ke konzumaci v rámci poskytování stravovací služby.
+
+## § 3 – Postup při přizpůsobení požadavků pro potravinářské podniky
+
+(1) Postupem a za podmínek stanovených veterinárním zákonem, předpisy Evropské unie a touto vyhláškou mohou být pro potravinářský podnik přizpůsobeny některé veterinární a hygienické požadavky stanovené v příloze II k nařízení Evropského parlamentu a Rady (ES) č. 852/2004, v příloze III k nařízení Evropského parlamentu a Rady (ES) č. 853/2004 nebo v příloze I k nařízení Evropského parlamentu a Rady (ES) č. 854/2004<sup>5</sup>).
+
+(2) Příslušný orgán veterinární správy při posuzování žádosti o přizpůsobení požadavků podle odstavce 1
+
+a) ověří úřední kontrolou předpoklady svědčící pro přizpůsobení těchto požadavků podmínkám a potřebám příslušného potravinářského podniku,
+
+b) zhodnotí rizika<sup>6</sup>), která by mohla ohrožovat bezpečnost a zdravotní nezávadnost potravin v případě přizpůsobení těchto požadavků pro tento potravinářský podnik.
+
+(3) Přizpůsobení požadavků stanovených předpisy Evropské unie<sup>5</sup>) nesmí
+
+a) ohrozit dosažení cílů stanovených těmito předpisy, zejména hygienu potravin<sup>7</sup>),
+
+b) vést ke snížení úrovně bezpečnosti a zdravotní nezávadnosti potravin.
+
+**Přizpůsobení požadavků pro potravinářské podniky s malým objemem výroby**
+
+## § 4
+
+Potravinářským podnikům s malým objemem výroby mohou být povoleny výjimky pouze z některých strukturálních požadavků<sup>8</sup>), stanovených předpisem Evropské unie o hygieně potravin a předpisem Evropské unie, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>9</sup>).
+
+## § 5
+
+(1) Za potravinářský podnik s malým objemem výroby se považuje podnik, který splňuje podmínky stanovené tímto ustanovením; těmto podnikům mohou být povoleny výjimky z některých strukturálních požadavků, které jsou stanoveny v příloze III k nařízení Evropského parlamentu a Rady (ES) č. 853/2004, a to
+
+a) jatkám, v nichž je poráženo nejvýše 20 velkých dobytčích jednotek týdně a nejvýše 1 000 velkých dobytčích jednotek ročně, že nemusí mít vhodné a hygienické stáje, ani předporážkové ustájení uvedené v oddílu I kapitole II odstavci 1 písm. a), pokud jsou zvířata po přemístění na jatky převedena přímo do prostoru porážky,
+
+b) jatkám, v nichž je poráženo nejvýše 20 velkých dobytčích jednotek týdně a nejvýše 1 000 velkých dobytčích jednotek ročně, že nemusí mít samostatný prostor s vhodným zařízením pro čištění, mytí a dezinfekci dopravních prostředků určených k přepravě zvířat uvedený v oddílu I kapitole II odstavci 6, jestliže jsou jatečná zvířata přepravována na jatky přímo z hospodářství chovatelem nebo dopravcem, pokud tento chovatel nebo dopravce mají k dispozici vlastní nebo jiné takové zařízení odpovídající hygienickým požadavkům,
+
+c) potravinářskému podniku s jatkami, v němž se bourá nejvýše 5 tun masa týdně, že nemusí mít zvláštní prostory na bourání masa uvedené v oddílu I kapitole III odstavci 3, pokud jsou v porážecím prostoru, který slouží také k bourání masa, prováděny příslušné činnosti časově odděleně,
+
+d) jatkám, které nemají uzamykatelné zařízení vyhrazené pro porážená nemocná zvířata nebo zvířata podezřelá z nákazy, že nemusí zařízení použité pro porážku takových zvířat vyčistit, umýt a dezinfikovat pod úředním dohledem před zahájením porážky jiných zvířat podle oddílu I kapitoly IV odstavce 20, pokud se čištění a dezinfekce tohoto zařízení provádějí v souladu se sanitačním řádem jatek a úřední veterinární lékař nebo úřední veterinární asistent kontrolují výsledky tohoto čištění před opětovným zahájením porážení,
+
+e) jatkám, že nemusí mít uzamykatelné zařízení pro chladírenské skladování pozastaveného masa uvedené v oddílu I kapitole II odstavci 5 a mohou skladovat toto maso spolu s ostatním masem v jednom chladírenském prostoru, pokud se nejedná o maso ze zvířete podezřelého z nákazy, toto maso je uloženo tak, aby nemohlo nepříznivě ovlivňovat jiné maso, a byla přijata organizační opatření, která zabraňují nesprávnému použití tohoto masa,
+
+f) drůbežím jatkám, v nichž je poráženo nejvýše 1 000 kusů krůt, hus nebo kachen týdně a nejvýše 50 000 kusů krůt, hus nebo kachen ročně, a drůbežím jatkám, v nichž je poráženo nejvýše 3 000 kusů ostatní drůbeže týdně a nejvýše 150 000 kusů ostatní drůbeže ročně, že nemusí mít uzamykatelné zařízení pro chladírenské skladování pozastaveného masa uvedené v oddílu II kapitole II odstavci 5 a mohou skladovat toto maso spolu s ostatním masem v jednom chladírenském prostoru, pokud se nejedná o maso drůbeže podezřelé z nákazy, toto maso je uloženo tak, aby nemohlo nepříznivě ovlivňovat jiné maso, a byla přijata organizační opatření, která zabraňují nesprávnému použití tohoto masa,
+
+g) potravinářskému podniku s drůbežími jatkami, v nichž se porcují nejvýše 2 tuny masa týdně, že nemusí mít zvláštní prostory na porcování masa uvedené v oddílu II kapitole III odstavci 1 písm. c), pokud jsou v porážecím prostoru, který slouží také k porcování masa, prováděny příslušné činnosti časově odděleně.
+
+(2) Pro účely této vyhlášky se za jednu velkou dobytčí jednotku považuje 1 kus dospělého skotu nebo dospělý lichokopytník o živé hmotnosti nad 500 kg. V případě jiných domácích kopytníků je třeba provést přepočet podle následujících kritérií:
+
+| Druh zvířete: | Počet velkých dobytčích jednotek: |
+|---|---|
+| 1 kus ostatního skotu | 0,50, |
+| chovná prasnice nebo chovný kanec o živé hmotnosti nad 50 kg | 0,50, |
+| jiné prase | 0,30, |
+| ovce nebo koza | 0,15, |
+| sele, jehně nebo kůzle o živé hmotnosti nepřevyšující 15 kg | 0,05. |
+
+(3) Při používání přepočtů uvedených v odstavci 2 na zvěř ve farmovém chovu se tato zvěř posuzuje se zřetelem na zvířata podobných druhů.
+
+## § 6
+
+(1) Krajská veterinární správa může rozhodnout o povolení výjimek podle ustanovení § 4 na základě žádosti potravinářského podniku.
+
+(2) V žádosti o povolení výjimek žadatel vedle náležitostí stanovených správním řádem<sup>10</sup>) uvede
+
+a) jaké výjimky, z kterých požadavků a z jakých důvodů mají být povoleny,
+
+b) charakteristiku potravinářského podniku, kterému mají být požadované výjimky povoleny, jmenovitě rozhodující technické parametry, týkající se stavby, uspořádání, vnitřní úpravy a vybavení podniku,
+
+c) druh, způsob a rozsah činnosti potravinářského podniku, organizace jeho výroby,
+
+d) jaká opatření v zájmu zajištění bezpečnosti a zdravotní nezávadnosti potravin budou přijata v souvislosti s povolením požadovaných výjimek, zejména opatření z hlediska uplatňování zásad správné hygienické praxe a zásad HACCP<sup>11</sup>),
+
+e) další údaje důležité pro posouzení důvodnosti žádosti o povolení výjimek a pro informování Komise a ostatních členských států o výjimkách, které by měly být povoleny.
+
+**Obecná ustanovení o potravinářských podnicích, které provozují maloobchodní činnost**
+
+## § 7
+
+(1) Za potravinářský podnik, který provozuje maloobchodní činnost, se pro účely této vyhlášky považuje potravinářský podnik nebo hospodářství provozující maloobchod podle předpisu Evropské unie, kterým se stanoví obecné zásady a požadavky potravinového práva, zřizuje se Evropský úřad pro bezpečnost potravin a stanoví postupy týkající se bezpečnosti potravin<sup>12</sup>), a popřípadě dodávající potraviny jinému maloobchodnímu zařízení, pokud se jedná o činnost okrajovou a omezenou na místní úrovni.
+
+(2) Za okrajovou a omezenou činnost na místní úrovni podle přímo použitelného předpisu Evropské unie, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>13</sup>), se považuje činnost, při které jsou dodávány potraviny jen do blízkého maloobchodního zařízení nebo na místní trh, a to v množstvích odpovídajících ustanovením § 8 až 14a.
+
+(3) Dodáváním potravin do blízkého maloobchodního zařízení nebo na místní trh v rámci okrajové a omezené činnosti na místní úrovni se rozumí dodávání potravin do maloobchodního zařízení nebo na místní trh
+
+a) v rámci kraje a v sousedních krajích; pro účely této vyhlášky se v případě hlavního města Prahy za sousední kraje považují rovněž kraje, které sousedí se Středočeským krajem, nebo
+
+b) ve vzdálenosti nejvýše 100 kilometrů od potravinářského podniku podle odstavce 1.
+
+**Potravinářské podniky dodávající maso a masné výrobky**
+
+## § 8
+
+(1) Dodává-li potravinářský podnik v rámci své maloobchodní činnosti maso nebo masné výrobky jinému maloobchodnímu zařízení, jde o okrajovou a omezenou činnost, jestliže
+
+a) jde o potravinářský podnik, v němž se
+
+1\. ročně poráží nejvýše 10 000 kusů drůbeže, je-li provozovatel potravinářského podniku zároveň chovatelem drůbeže a probíhá-li porážka drůbeže ve vzdálenosti nejvýše 50 kilometrů od místa chovu,
+
+2\. ročně poráží nejvýše 10 000 kusů králíků, je-li provozovatel potravinářského podniku zároveň chovatelem králíků a probíhá-li porážka králíků ve vzdálenosti nejvýše 50 kilometrů od místa chovu,
+
+3\. týdně bourá nejvýše 3,5 tun vykostěného masa, anebo tomu odpovídající množství nevykostěného masa, jde-li o maso domácích kopytníků,
+
+4\. týdně porcuje nejvýše 1,5 tun masa, jde-li o maso drůbeží nebo králičí, nebo
+
+5\. týdně vyrobí nejvýše 4,5 tun masných výrobků,
+
+b) množství dodávaného masa a masných výrobků nepřekračuje
+
+1\. 35 % z ročního objemu tímto podnikem vyrobeného vykostěného masa, anebo tomu odpovídající množství nevykostěného masa, jde-li o maso domácích kopytníků,
+
+2\. 35 % z ročního objemu tímto podnikem vyrobeného masa, jde-li o maso drůbeží nebo králičí,
+
+3\. 35 % z ročního objemu tímto podnikem vyrobených masných výrobků,
+
+c) jiné maloobchodní zařízení toto maso a masné výrobky
+
+1\. dodává přímo konečnému spotřebiteli, nebo
+
+2\. opracovává dále jen na výslovné přání konečného spotřebitele.
+
+(2) Potravinářské podniky, kterým jsou dodávány maso nebo masné výrobky opracované v jiném potravinářském podniku v rámci jeho maloobchodní činnosti, mohou tyto výrobky uvádět do oběhu jen za podmínek stanovených v odstavci 1.
+
+## § 9
+
+Pro potravinářský podnik, který provozuje maloobchodní činnost za podmínek stanovených v § 8 odst. 1, platí vedle veterinárních a hygienických požadavků stanovených předpisem Evropské unie o hygieně potravin<sup>14</sup>) také veterinární a hygienické požadavky stanovené v příloze III k nařízení Evropského parlamentu a Rady (ES) č. 853/2004
+
+a) v oddílu I kapitole V odstavci 2 písm. a) a b) a v odstavci 3, jakož i v kapitole VII odstavci 1 písm. a), pokud jde o vnitřní teplotu masa a drobů domácích kopytníků,
+
+b) v oddílu II kapitole II odstavcích 2 až 4 a kapitole IV odstavci 5, pokud jde o požadavky k vyloučení kontaminace masa, v případě potravinářského podniku podle § 8 odst. 1 písm. a) bodu 1 nebo 2,
+
+c) v oddílu II kapitole V odstavci 1 písm. a) a b), pokud jde o vnitřní teplotu drůbežího a králičího masa,
+
+d) v oddílu III odstavci 1, podle něhož se na vnitřní teplotu masa a drobů sudoprstých farmových savců vztahují jen požadavky uvedené v oddílu I kapitole V odstavci 2 písm. a), b) a c) a v odstavci 3,
+
+e) v oddílu V kapitolách II a III, pokud jde o požadavky na hygienické zacházení s mletým masem a masnými polotovary před jejich výrobou a po jejich výrobě, zejména o požadavky na jejich teplotu,
+
+f) v oddílu VI, pokud jde o suroviny používané k přípravě masných výrobků.
+
+## § 9a
+
+V případě potravinářského podniku podle § 8 odst. 1 písm. a) bodu 1 nebo 2 musí být k tělům poražené drůbeže a králíků nebo masu z nich připojeno dobře viditelné a čitelné upozornění „Maso není veterinárně vyšetřeno – určeno po tepelné úpravě ke spotřebě v domácnosti spotřebitele“.
+
+**Potravinářské podniky dodávající mléko a mléčné výrobky**
+
+## § 10
+
+(1) Potravinářský podnik, který zpracovává v rámci okrajové a omezené činnosti v průměru 500 l mléka turů, kozího nebo ovčího mléka denně, nejvýše však 1000 l mléka do 48 hodin po nadojení, může, není-li dále stanoveno jinak, v rámci své maloobchodní činnosti dodávat výrobky ze syrového, mlékárensky neošetřeného (nepasterovaného) mléka od zvířat z vlastního hospodářství nebo výrobky z tepelně ošetřeného (pasterovaného) mléka od zvířat z vlastního hospodářství jinému maloobchodu, který dodává tyto mléčné výrobky přímo konečnému spotřebiteli nebo použije dodané mléčné výrobky k přípravě pokrmů určených k přímému podávání konečným spotřebitelům, jestliže množství výrobků dodávaných jinému maloobchodu nepřekračuje 35 % z ročního objemu produkce mléčných výrobků tohoto potravinářského podniku.
+
+(2) Potravinářský podnik uvedený v odstavci 1 nemůže výrobky ze syrového, mlékárensky neošetřeného (nepasterovaného) mléka uvedené v odstavci 1 dodávat do zařízení zajišťujícího stravovací služby
+
+a) ve školách a školských zařízeních zapsaných do školského rejstříku<sup>17</sup>),
+
+b) v zařízeních sociálně výchovné činnosti a zařízeních pro děti vyžadující okamžitou pomoc<sup>18</sup>),
+
+c) v provozovnách živnosti, jejíž náplní je péče o dítě do 3 let věku v denním režimu nebo výchova, výuka anebo mimoškolní vzdělávání dětí nad 3 roky věku v předškolním zařízení,
+
+d) v soukromých školách nebo zařízeních sloužících odbornému vzdělávání<sup>19</sup>) nezařazených do rejstříku škol a školských zařízení,
+
+e) v zařízeních dětských skupin<sup>20</sup>), zotavovacích a jiných podobných akcí pro děti<sup>21</sup>), poskytovatelů lůžkové péče<sup>22</sup>), lázeňské léčebně rehabilitační péče<sup>23</sup>), dětských domovů pro děti do 3 let věku<sup>22</sup>) a sociálních služeb<sup>24</sup>).
+
+(3) Pro výrobu výrobků uvedených v odstavci 1 musí být použito syrové mléko pocházející od zvířat, která splňují požadavky stanovené v příloze III oddílu IX kapitole I části I nařízení Evropského parlamentu a Rady (ES) č. 853/2004, ve kterém po nadojení
+
+a) obsah reziduí inhibičních látek nepřesahuje limity stanovené v příloze III oddílu IX kapitole I části III odst. 4 nařízení Evropského parlamentu a Rady (ES) č. 853/2004,
+
+b) Staphylococcus aureus nepřesahuje 500 KTJ v 1 ml, jde-li o výrobu výrobků ze syrového, mlékárensky neošetřeného (nepasterovaného) mléka,
+
+c) celkový počet mikroorganismů nepřesahuje 100 000 v 1 ml a celkový počet somatických buněk nepřesahuje 400 000 v 1 ml, jde-li o kravské mléko, a
+
+d) celkový počet mikroorganismů nepřesahuje v případě
+
+1\. mléka pro výrobu výrobků ze syrového, mlékárensky neošetřeného (nepasterovaného) mléka, 500 000 v 1 ml, jde-li o mléko jiného druhu než kravské, nebo
+
+2\. mléka pro výrobu výrobků z tepelně ošetřeného (pasterovaného) mléka 1 500 000 v 1 ml, jde-li o mléko jiného druhu než kravské.
+
+(4) Směsný vzorek syrového mléka po nadojení od všech dojených zvířat pro výrobu výrobků uvedených v odstavci 1 musí být vyšetřován na základě analýzy nebezpečí a s přihlédnutím k předchozím výsledkům a jejich trendům, zejména při zahájení výroby výrobků podle odstavce 1 a při každé změně ve způsobu získávání, ošetřování a zpracovávání mléka, jež by mohla ovlivnit jeho zdravotní nezávadnost, nejméně však dvakrát ročně s odstupem mezi jednotlivými vyšetřeními nejméně 2 měsíce, a to z hlediska limitů uvedených v odstavci 3 písm. b) až d).
+
+(5) Pro výrobu výrobků uvedených v odstavci 1 musí být použito mléko, které bezprostředně před jeho zpracováním vedle požadavků uvedených v odstavci 3 písm. a) a b),
+
+a) jde-li o mléko kravské, splňuje požadavky stanovené v příloze III oddílu IX kapitole II části III odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 853/2004 nebo
+
+b) jde-li o mléko jiného druhu než kravské, nepřesahuje celkový počet mikroorganismů v případě
+
+1\. výrobků ze syrového, mlékárensky neošetřeného (nepasterovaného) mléka 1 500 000 v 1 ml, nebo
+
+2\. výrobků z tepelně ošetřeného (pasterovaného) mléka 4 500 000 v 1 ml.
+
+**Potravinářské podniky dodávající vejce a vaječné výrobky**
+
+## § 12
+
+(1) Pro potravinářský podnik, který v rámci své maloobchodní činnosti zpracovává vejce, vaječné složky, směsi různých vaječných složek nebo tekutá vejce, platí veterinární a hygienické požadavky stanovené předpisem Evropské unie, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>15</sup>).
+
+(2) Ustanovení odstavce 1 se nevztahuje na potravinářský podnik uvedený v odstavci 1, který vaječné výrobky, vaječné složky, směsi různých vaječných složek nebo tekutá vejce, vyrobené ve vlastní provozovně,
+
+a) používá k výrobě potravin určených k přímému dodání konečnému spotřebiteli,
+
+b) zpracovává na potraviny, které obsahují také produkty rostlinného původu<sup>16</sup>) a které jsou před spotřebou podrobeny tepelnému nebo jinému ošetření, jež zaručuje, že budou zničeny patogenní mikroorganizmy.
+
+**Potravinářské podniky dodávající produkty rybolovu**
+
+## § 13
+
+(1) Dodává-li potravinářský podnik v rámci své maloobchodní činnosti produkty rybolovu jinému maloobchodnímu zařízení, jde o okrajovou a omezenou činnost, jestliže
+
+a) jde o potravinářský podnik, v němž se týdně zpracuje nejvýše 100 kg produktů rybolovu,
+
+b) množství dodávaných produktů rybolovu nepřekračuje 35 % z ročního objemu tímto podnikem zpracovaných produktů rybolovu,
+
+c) jiné maloobchodní zařízení tyto produkty rybolovu
+
+1\. dodává přímo konečnému spotřebiteli, nebo
+
+2\. upravuje dále jen na výslovné přání konečného spotřebitele.
+
+(2) Potravinářský podnik, kterému jsou dodávány produkty rybolovu upravené v jiném potravinářském podniku v rámci jeho maloobchodní činnosti, může tyto produkty rybolovu uvádět do oběhu jen za podmínek stanovených v odstavci 1.
+
+## § 14
+
+Pro potravinářský podnik, který upravuje produkty rybolovu a v rámci své maloobchodní činnosti tyto produkty rybolovu dodává jinému maloobchodnímu zařízení nebo přímo konečnému spotřebiteli, platí požadavky uvedené v oddílu VIII kapitolách VII a VIII přílohy III k nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+**Potravinářské podniky dodávající maso volně žijící zvěře a výrobky z masa volně žijící zvěře**
+
+## § 14a
+
+(1) Dodává-li potravinářský podnik v rámci své maloobchodní činnosti maso volně žijící zvěře nebo výrobky z masa volně žijící zvěře, které splňují požadavky a kritéria stanovená předpisem Evropské unie, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>15</sup>), jinému maloobchodnímu zařízení, jde o okrajovou a omezenou činnost, jestliže
+
+a) jde o potravinářský podnik, v němž se ročně
+
+1\. bourá nejvýše 90 tun vykostěného masa velké volně žijící zvěře, anebo tomu odpovídající množství nevykostěného masa velké volně žijící zvěře,
+
+2\. porcuje nejvýše 30 tun masa, jde-li o maso drobné volně žijící zvěře,
+
+3\. vyrobí nejvýše 30 tun výrobků z masa volně žijící zvěře,
+
+b) množství dodávaného masa a výrobků z masa volně žijící zvěře nepřekračuje
+
+1\. 33 % z týdenního objemu tímto podnikem vyrobeného vykostěného masa volně žijící zvěře, anebo tomu odpovídající množství nevykostěného masa velké volně žijící zvěře,
+
+2\. 33 % z týdenního objemu tímto podnikem vyrobeného masa volně žijící zvěře, jde-li o maso drobné volně žijící zvěře,
+
+3\. 33 % z týdenního objemu tímto podnikem vyrobených výrobků z masa volně žijící zvěře,
+
+c) jiné maloobchodní zařízení toto maso a výrobky z masa volně žijící zvěře
+
+1\. dodává přímo konečnému spotřebiteli, nebo
+
+2\. opracovává dále jen na výslovné přání konečného spotřebitele.
+
+(2) Potravinářské podniky, kterým jsou dodávány maso volně žijící zvěře nebo výrobky z masa volně žijící zvěře opracované v jiném potravinářském podniku v rámci jeho maloobchodní činnosti, mohou tyto výrobky uvádět do oběhu jen za podmínek stanovených v odstavci 1.
+
+## § 14b
+
+Pro potravinářský podnik, který provozuje maloobchodní činnost za podmínek stanovených v § 14a, platí vedle veterinárních a hygienických požadavků stanovených předpisem Evropské unie o hygieně potravin<sup>14</sup>) také veterinární a hygienické požadavky stanovené v příloze III k nařízení Evropského parlamentu a Rady (ES) č. 853/2004
+
+a) v oddílu I kapitole V odstavcích 2 a 3, v kapitole VII odstavcích 1, 2, 4 a 5, pokud jde o velkou volně žijící zvěř,
+
+b) v oddílu II kapitole III a kapitole V odstavcích 1 a 3 až 6, pokud jde o drobnou volně žijící zvěř,
+
+c) v oddílu IV kapitole II odstavcích 4 až 6, pokud jde o velkou volně žijící zvěř,
+
+d) v oddílu IV kapitole III odstavcích 4 a 5, pokud jde o drobnou volně žijící zvěř,
+
+e) v oddílu V kapitolách I, II a III, pokud jde o požadavky na hygienické zacházení s mletým masem a masnými polotovary před jejich výrobou a po jejich výrobě, zejména o požadavky na jejich teplotu,
+
+f) v oddílu VI, pokud jde o suroviny používané k přípravě výrobků z masa volně žijící zvěře.
+
+**Účinnost**
+
+## § 15
+
+Tato vyhláška nabývá účinnosti patnáctým dnem ode dne jejího vyhlášení.
+
+Ministr:
+
+Mgr. Gandalovič v. r.
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 178/2002 ze dne 28. ledna 2002, kterým se stanoví obecné zásady a požadavky potravinového práva, zřizuje se Evropský úřad pro bezpečnost potravin a stanoví postupy, týkající se bezpečnosti potravin, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 852/2004 ze dne 29. dubna 2004 o hygieně potravin, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 853/2004 ze dne 29. dubna 2004, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 854/2004 ze dne 29. dubna 2004, kterým se stanoví zvláštní pravidla pro organizaci úředních kontrol produktů živočišného původu určených k lidské spotřebě, v platném znění.
+
+<sup>2</sup>) Čl. 2 nařízení Evropského parlamentu a Rady (ES) č. 178/2002.
+
+<sup>3</sup>) Čl. 1 odst. 5 nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+<sup>4</sup>) Čl. 1 odst. 2 písm. c) nařízení Evropského parlamentu a Rady (ES) č. 852/2004. 
+ Čl. 1 odst. 3 písm. c) až e) nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+<sup>5</sup>) Čl. 13 odst. 3 nařízení Evropského parlamentu a Rady (ES) č. 852/2004. 
+ Čl. 10 odst. 3 nařízení Evropského parlamentu a Rady (ES) č. 853/2004. 
+ Čl. 17 odst. 3 nařízení Evropského parlamentu a Rady (ES) č. 854/2004.
+
+<sup>6</sup>) Čl. 3 bod 9 nařízení Evropského parlamentu a Rady (ES) č. 178/2002.
+
+<sup>7</sup>) Čl. 2 odst. 1 písm. a) nařízení Evropského parlamentu a Rady (ES) č. 852/2004.
+
+<sup>8</sup>) Čl. 13 odst. 4 písm. b) nařízení Evropského parlamentu a Rady (ES) č. 852/2004. 
+ Čl. 10 odst. 4 písm. b) nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+<sup>9</sup>) Příloha II k nařízení Evropského parlamentu a Rady (ES) č. 852/2004. 
+ Příloha III k nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+<sup>10</sup>) § 37 odst. 2 zákona č. 500/2004 Sb., správní řád.
+
+<sup>11</sup>) Čl. 5 a 7 nařízení Evropského parlamentu a Rady (ES) č. 852/2004.
+
+<sup>12</sup>) Čl. 3 bod 7 nařízení Evropského parlamentu a Rady (ES) č. 178/2002.
+
+<sup>13</sup>) Čl. 1 odst. 5 písm. b) bod ii) nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+<sup>14</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 852/2004, zejména příloha II k tomuto nařízení.
+
+<sup>15</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+<sup>16</sup>) Čl. 1 odst. 2 nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+<sup>17</sup>) Zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů.
+
+<sup>18</sup>) Zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů.
+
+<sup>19</sup>) Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+
+<sup>20</sup>) Zákon č. 247/2014 Sb., o poskytování služby péče o dítě v dětské skupině a o změně souvisejících zákonů.
+
+<sup>21</sup>) Zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>22</sup>) Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování, ve znění pozdějších předpisů.
+
+<sup>23</sup>) Zákon č. 164/2001 Sb., o přírodních léčivých zdrojích, zdrojích přírodních minerálních vod, přírodních léčebných lázních a lázeňských místech a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>24</sup>) Zákon č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů.

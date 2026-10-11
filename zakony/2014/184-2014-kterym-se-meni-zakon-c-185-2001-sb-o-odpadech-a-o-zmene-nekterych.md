@@ -1,0 +1,45 @@
+---
+title: "Zákon č. 184/2014 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů"
+identifier: "184/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/184/2021-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2014-07-31
+effective: 2014-10-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/184"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 184/2014 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů ve znění zákona č. 541/2020 Sb."
+---
+
+# Zákon č. 184/2014 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů
+
+184
+
+ZÁKON
+
+ze dne 31. července 2014,
+
+kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, a zákon č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona č. 169/2013 Sb.
+
+### Čl. III
+
+V článku V zákona č. 169/2013 Sb., kterým se mění zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, ve znění pozdějších předpisů, se slova „1. října 2014“ nahrazují slovy „1. ledna 2016“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. IV
+
+Tento zákon nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po jeho vyhlášení, s výjimkou ustanovení čl. I bodů 33 a 37 až 39, které nabývají účinnosti dnem 1. června 2015, a čl. III, který nabývá účinnosti dnem následujícím po dni jeho vyhlášení.
+
+Hamáček v. r.
+
+Zeman v. r.
+
+Sobotka v. r.

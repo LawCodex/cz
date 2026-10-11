@@ -1,0 +1,2650 @@
+---
+title: "Nařízení vlády č. 75/2015 Sb., o podmínkách provádění agroenvironmentálně-klimatických opatření a o změně nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů"
+identifier: "75/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/75/2024-03-15"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2015-04-08
+effective: 2015-04-15
+last_amended: 2024-03-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/75"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 75/2015 Sb., o podmínkách provádění agroenvironmentálně-klimatických opatření a o změně nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů ve znění nařízení vlády č. 113/2015 Sb., nařízení vlády č. 63/2016 Sb., nařízení vlády č. 236/2016 Sb., nařízení vlády č. 47/2017 Sb., nařízení vlády č. 49/2017 Sb., nařízení vlády č. 315/2017 Sb., nařízení vlády č. 28/2018 Sb., nařízení vlády č. 43/2018 Sb., nařízení vlády č. 59/2019 Sb., nařízení vlády č. 351/2019 Sb., nařízení vlády č. 217/2020 Sb., nařízení vlády č. 270/2020 Sb., nařízení vlády č. 54/2021 Sb., nařízení vlády č. 177/2021 Sb., nařízení vlády č. 33/2022 Sb., nařízení vlády č. 84/2023 Sb. a nařízení vlády č. 61/2024 Sb."
+---
+
+# Nařízení vlády č. 75/2015 Sb., o podmínkách provádění agroenvironmentálně-klimatických opatření a o změně nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů
+
+75
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 8. dubna 2015
+
+o podmínkách provádění agroenvironmentálně-klimatických opatření a o změně nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 2c odst. 5 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb., zákona č. 85/2004 Sb., zákona č. 291/2009 Sb. a zákona č. 179/2014 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb., zákona č. 291/2009 Sb. a zákona č. 179/2014 Sb.:
+
+## ČÁST PRVNÍ – PODMÍNKY PROVÁDĚNÍ AGROENVIRONMENTÁLNĚ-KLIMATICKÝCH OPATŘENÍ
+
+### HLAVA I – ÚVODNÍ USTANOVENÍ
+
+#### § 1 – Předmět úpravy
+
+Toto nařízení upravuje v návaznosti na přímo použitelné předpisy Evropské unie<sup>1</sup>) podmínky provádění agroenvironmentálně-klimatických opatření.
+
+#### § 2 – Agroenvironmentálně-klimatická opatření
+
+Agroenvironmentálně-klimatická opatření jsou tvořena těmito podopatřeními:
+
+a) integrovaná produkce ovoce,
+
+b) integrovaná produkce révy vinné, které se člení na tituly
+
+1\. základní ochrana vinic a
+
+2\. nadstavbová ochrana vinic,
+
+c) integrovaná produkce zeleniny a jahodníku, které se člení na tituly
+
+1\. integrovaná produkce zeleniny a
+
+2\. integrovaná produkce jahodníku,
+
+d) ošetřování travních porostů, které se člení na tituly
+
+1\. obecná péče o extenzivní louky a pastviny,
+
+2\. mezofilní a vlhkomilné louky hnojené,
+
+3\. mezofilní a vlhkomilné louky nehnojené,
+
+4\. horské a suchomilné louky hnojené,
+
+5\. horské a suchomilné louky nehnojené,
+
+6\. trvale podmáčené a rašelinné louky,
+
+7\. ochrana modrásků,
+
+8\. ochrana chřástala polního,
+
+9\. suché stepní trávníky a vřesoviště a
+
+10\. druhově bohaté pastviny,
+
+e) zatravňování orné půdy, které se člení na tituly
+
+1\. zatravňování orné půdy běžnou směsí,
+
+2\. zatravňování orné půdy druhově bohatou směsí,
+
+3\. zatravňování orné půdy regionální směsí,
+
+4\. zatravňování orné půdy podél vodního útvaru běžnou směsí,
+
+5\. zatravňování orné půdy podél vodního útvaru druhově bohatou směsí a
+
+6\. zatravňování orné půdy podél vodního útvaru regionální směsí,
+
+f) biopásy, které se člení na tituly
+
+1\. krmné biopásy a
+
+2\. nektarodárné biopásy,
+
+g) ochrana čejky chocholaté a
+
+h) zatravňování drah soustředěného odtoku.
+
+#### § 3 – Žádost o zařazení do podopatření v rámci agroenvironmentálně-klimatických opatření
+
+(1) Žádost o zařazení do některého z podopatření v rámci agroenvironmentálně-klimatických opatření podle § 2 (dále jen „žádost o zařazení“) může podat fyzická nebo právnická osoba (dále jen „žadatel“), jestliže
+
+a) obhospodařuje zemědělskou půdu vedenou v evidenci využití půdy podle uživatelských vztahů podle zákona o zemědělství (dále jen „evidence využití půdy“) na žadatele a
+
+b) splňuje další podmínky pro zařazení do příslušného podopatření podle § 2 stanovené tímto nařízením.
+
+(2) Žádost o zařazení se podává na
+
+a) celý díl půdního bloku v případě podopatření uvedených v § 2 písm. a) až e), g) a h), nebo
+
+b) část dílu půdního bloku v případě podopatření uvedeného v § 2 písm. f).
+
+(3) Žádost o zařazení se podává na období závazku v délce trvání 5 let, které začíná běžet
+
+a) dnem 1. ledna prvního roku pětiletého období (dále jen „závazek“), na které je podávána žádost o zařazení, jde-li o podopatření podle § 2 písm. a) až e), g) a h), a končí uplynutím dne 31. prosince pátého roku závazku, nebo
+
+b) dnem 1. dubna prvního roku závazku, na které je podávána žádost o zařazení, jde-li o podopatření podle § 2 písm. f), a končí uplynutím dne 31. března pátého roku závazku.
+
+(4) Žádost o zařazení doručí žadatel Státnímu zemědělskému intervenčnímu fondu (dále jen „Fond“) na Fondem vydaném formuláři pro příslušný kalendářní rok, a to do 15. května prvního roku závazku podle odstavce 3. V jednom kalendářním roce je možné podat pouze jednu žádost o zařazení.
+
+(5) Fond žadatele zařadí do příslušného podopatření, jestliže jsou splněny podmínky stanovené zákonem o zemědělství a tímto nařízením.
+
+(6) V období ode dne doručení žádosti o zařazení do dne zařazení žadatele do příslušného podopatření nelze
+
+a) do žádosti o zařazení doplnit další díl půdního bloku,
+
+b) v žádosti o zařazení zvýšit výměru dílu půdního bloku, nebo
+
+c) v žádosti o zařazení změnit zvolené podmínky vztahující se k dílu půdního bloku.
+
+(7) Žádost podle odstavců 1 a 2 nelze Fondu podat pro období počínající rokem 2020 a pro období následující, s výjimkou žádosti o zařazení do podopatření zatravňování orné půdy podle § 2 písm. e) a podopatření zatravňování drah soustředěného odtoku podle § 2 písm. h).
+
+(8) Žádost podle odstavců 1 a 2 o zařazení do podopatření zatravňování orné půdy podle § 2 písm. e) a podopatření zatravňování drah soustředěného odtoku podle § 2 písm. h) nelze Fondu podat pro období počínající rokem 2021 a pro období následující.
+
+#### § 4 – Přechod z agroenvironmentálně-klimatických opatření do opatření ekologické zemědělství
+
+(1) Hodlá-li žadatel v průběhu trvání závazku provést přechod z podopatření integrovaná produkce podle § 2 písm. a), b) nebo c) do opatření ekologické zemědělství podle nařízení vlády č. 76/2015 Sb., o podmínkách provádění opatření ekologické zemědělství, postupuje podle § 3 nařízení vlády č. 76/2015 Sb.
+
+(2) Zařadí-li Fond žadatele do opatření ekologické zemědělství v souladu s § 3 nařízení vlády č. 76/2015 Sb., nedokončení závazku v podopatření podle § 2 písm. a), b) nebo c) se nepovažuje za nesplnění podmínek stanovených tímto nařízením. Pokud Fond žadatele do opatření ekologické zemědělství nezařadí, závazek uzavřený v podopatření integrovaná produkce podle § 2 písm. a), b) nebo c) nadále trvá.
+
+#### § 5 – Přechod v rámci podopatření integrovaná produkce révy vinné
+
+(1) Hodlá-li žadatel v průběhu trvání závazku provést přechod z titulu základní ochrana vinic podle § 2 písm. b) bodu 1 do titulu nadstavbová ochrana vinic podle § 2 písm. b) bodu 2, doručí Fondu nejpozději do 15. května příslušného kalendářního roku novou žádost o zařazení podle odstavce 2, čímž zároveň požádá o zařazení do nového závazku.
+
+(2) V žádosti podle odstavce 1 žadatel uvede
+
+a) všechny díly půdních bloků zařazené do titulu základní ochrana vinic podle § 2 písm. b) bodu 1,
+
+b) všechny díly půdních bloků zařazené do titulu nadstavbová ochrana vinic podle § 2 písm. b) bodu 2,
+
+c) všechny díly půdních bloků s druhem zemědělské kultury vinice, které žadatel nově požaduje zařadit do titulu základní ochrana vinic podle § 2 písm. b) bodu 1,
+
+d) všechny díly půdních bloků s druhem zemědělské kultury vinice, které žadatel nově požaduje zařadit do titulu nadstavbová ochrana vinic podle § 2 písm. b) bodu 2,
+
+e) zvýšení zařazené výměry dílu půdního bloku a
+
+f) snížení zařazené výměry dílu půdního bloku.
+
+(3) Na žádost podle odstavce 1 se uplatní podmínky uvedené v § 3, 7 a 8 obdobně. Splní-li žadatel podmínky pro zařazení do podopatření integrovaná produkce révy vinné podle § 2 písm. b), nedokončení původního závazku se nepovažuje za nesplnění podmínek stanovených tímto nařízením.
+
+(4) Žádost podle odstavce 1 nelze Fondu podat pro období počínající rokem 2020 a pro období následující.
+
+#### § 6 – Změna zařazení mezi tituly v rámci podopatření ošetřování travních porostů
+
+(1) Hodlá-li žadatel v průběhu trvání závazku změnit zařazení mezi tituly v rámci podopatření podle § 2 písm. d), může tak učinit pouze
+
+a) z titulu mezofilní a vlhkomilné louky hnojené podle § 2 písm. d) bodu 2 do titulu mezofilní a vlhkomilné louky nehnojené podle § 2 písm. d) bodu 3,
+
+b) z titulu horské a suchomilné louky hnojené podle § 2 písm. d) bodu 4 do titulu horské a suchomilné louky nehnojené podle § 2 písm. d) bodu 5, nebo
+
+c) z titulu obecná péče o extenzivní louky a pastviny podle § 2 písm. d) bodu 1 do některého z titulů podle § 2 písm. d) bodů 2 až 10, a to v případě, že je na dílu půdního bloku vyhlášeno nové zvláště chráněné území<sup>13</sup>), ochranné pásmo národního parku<sup>14</sup>) nebo oblast Natura 2000<sup>15</sup>);
+
+žadatel v takovém případě doručí Fondu nejpozději do 15. května kalendářního roku žádost o změnu zařazení, popřípadě žádost o zařazení podle § 3; v případě postupu podle písmene c) žadatel uvede v žádosti o změnu zařazení, popřípadě v žádosti o zařazení podle § 3, že se jedná o změnu titulu z důvodu uvedeného v písmeni c).
+
+(2) Na žádost podle odstavce 1 se uplatní podmínky uvedené v § 3, 7 a 8 obdobně.
+
+(3) Žádost podle odstavce 1 lze podat pouze v případě vymezení daného dílu půdního bloku jako hnízdní lokality chřástala polního, podmáčené nebo rašelinné louky, cenného stanoviště lučních společenstev nebo jako stanoviště modráska podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů, (dále jen „cenné stanoviště“).
+
+(4) Jsou-li splněny podmínky pro změnu zařazení mezi tituly v rámci podopatření podle § 2 písm. d), Fond žadatele na základě žádosti podle odstavce 1 do nového titulu v rámci tohoto podopatření zařadí.
+
+#### § 7 – Zvýšení zařazené výměry
+
+(1) Žadatel může v průběhu trvání závazku u podopatření podle § 2 písm. a) až d), f) nebo g) požádat o zvýšení výměry dílu půdního bloku zařazeného do příslušného podopatření podle § 2 nebo o zvýšení výměry zařazením nového dílu půdního bloku. Zvýšit výměru lze nejvýše o 35 % celkové výměry zařazené v příslušném podopatření v prvním roce trvání závazku podle § 3 odst. 5.
+
+(2) Zvýšit výměru zařazením nového dílu půdního bloku podle odstavce 1 lze pouze zařazením celého dílu půdního bloku, s výjimkou podopatření podle § 2 písm. f).
+
+(3) Žádost o zvýšení zařazené výměry podle odstavce 1 doručí žadatel Fondu prostřednictvím žádosti o změnu zařazení na Fondem vydaném formuláři nejpozději do 15. května příslušného kalendářního roku.
+
+(4) Žádost podle odstavce 3 nelze podat v pátém roce trvání závazku.
+
+(5) Fond na základě žádosti o změnu zařazení podané podle odstavce 3 rozhodne o zařazení do podopatření podle § 2 s přihlédnutím ke změně výměry zemědělské půdy.
+
+(6) Hodlá-li žadatel v průběhu trvání závazku zvýšit zařazenou výměru v rozsahu překračujícím limit podle odstavce 1, nebo hodlá-li zařazenou výměru zvýšit v pátém roce trvání závazku, podá žádost o zařazení podle § 3, čímž zároveň požádá o zařazení do nového závazku. V této žádosti uvede díly půdních bloků původně zařazené do příslušného podopatření a dodatečnou výměru, kterou požaduje zařadit do tohoto podopatření v novém závazku. U podopatření podle § 2 písm. b), c), d) nebo f) nelze změnit v žádosti o zařazení titul vztahující se k již zařazenému dílu půdního bloku, pokud se nejedná o postup podle § 5 nebo 6. Plnění podmínek příslušného podopatření podle § 2 se posuzuje v rámci nového závazku samostatně bez vztahu k původnímu závazku. Nedokončení původního závazku se v tomto případě nepovažuje za nesplnění podmínek stanovených tímto nařízení.
+
+(7) Hodlá-li žadatel v průběhu trvání závazku zařadit dodatečnou výměru k výměře, která je již zařazena do podopatření podle § 2 písm. e) nebo h), podá na tuto výměru žádost o zařazení podle § 3. V této žádosti uvede dodatečnou výměru, kterou požaduje zařadit do příslušného podopatření podle § 2 v novém závazku. Plnění podmínek příslušného podopatření podle § 2 se posuzuje v rámci nového závazku samostatně bez vztahu k původnímu závazku.
+
+(8) Za navýšení zařazené výměry v pátém roce závazku se nepovažuje navýšení výměry dílu půdního bloku zařazeného do podopatření podle § 2.
+
+#### § 8 – Snížení zařazené výměry
+
+(1) Žadatel může v průběhu trvání závazku požádat o snížení výměry dílu půdního bloku nebo o vyřazení dílu půdního bloku zařazeného do příslušného podopatření podle § 2.
+
+(2) Žádost o snížení zařazené výměry podle odstavce 1 doručí žadatel Fondu prostřednictvím žádosti o změnu zařazení na Fondem vydaném formuláři, a to u podopatření podle
+
+a) § 2 písm. a) až e), g) nebo h) nejpozději do 10. ledna následujícího kalendářního roku, pokud ke snížení výměry došlo v období ode dne doručení žádosti o poskytnutí dotace do 31. prosince příslušného kalendářního roku, nebo
+
+b) § 2 písm. f) nejpozději do 30. dubna následujícího kalendářního roku, pokud ke snížení výměry došlo v období ode dne doručení žádosti o poskytnutí dotace do 31. března následujícího kalendářního roku,
+
+pokud ke snížení výměry došlo mimo období uvedená v písmenu a) nebo b), žádost o snížení zařazené výměry podle odstavce 1 doručí žadatel nejpozději do 15. května příslušného kalendářního roku.
+
+(3) Lhůty uvedené v odstavci 2 se nevztahují na oznámení zásahu vyšší moci<sup>2</sup>). Žádost doručenou po uplynutí lhůty uvedené v odstavci 2 písm. a) nebo b) Fond zamítne.
+
+(4) V žádosti o snížení zařazené výměry žadatel uvede, zda o snížení výměry dílu půdního bloku nebo o vyřazení dílu půdního bloku zařazeného do příslušného podopatření žádá z důvodu
+
+a) restituce nebo majetkového vyrovnání s církvemi a náboženskými společnostmi<sup>3</sup>),
+
+b) provedení pozemkové úpravy<sup>4</sup>),
+
+c) zásahu vyšší moci<sup>2</sup>),
+
+d) odnětí nebo omezení vlastnického práva pro stavby nebo opatření ve veřejném zájmu<sup>5</sup>),
+
+e) pozbytí užívání pozemku v evidenci využití půdy, nejvýše však do 25 % celkové výměry zemědělské půdy zařazené do příslušného podopatření v prvním roce trvání závazku podle § 3 odst. 5, nebo
+
+f) jiného, než je uveden v písmenech a) až e).
+
+(5) Fond na základě žádosti o snížení zařazené výměry rozhodne o jejím zařazení do příslušného podopatření podle § 2 s přihlédnutím ke změně výměry zemědělské půdy.
+
+(6) Zjistí-li Fond, že v evidenci využití půdy došlo ke snížení zařazené výměry, nebo že zařazená výměra již v evidenci využití půdy nesplňuje podmínky závazku, aniž žadatel v příslušném roce závazku podal žádost o změnu zařazení podle odstavce 2, rozhodne Fond o zařazení do příslušného podopatření podle § 2 s přihlédnutím ke změně výměry zemědělské půdy, popřípadě o vyřazení výměry, která již nesplňuje podmínky závazku; povinnost vrátit dotaci nebo její část tím není dotčena.
+
+(7) Zjistí-li Fond, že v evidenci využití půdy došlo ke snížení o veškerou zařazenou výměru, nebo že veškerá zařazená výměra již v evidenci využití půdy nesplňuje podmínky závazku, aniž žadatel v příslušném roce závazku podal žádost o změnu zařazení podle odstavce 2, rozhodne Fond o vyřazení žadatele z příslušného podopatření podle § 2; povinnost vrátit poskytnutou dotaci tím není dotčena.
+
+(8) Došlo-li u podopatření podle § 2 písm. c) v evidenci využití půdy ke změně druhu zemědělské kultury standardní orná půda na druh zemědělské kultury úhor v období od 1. března 2023 do data podání žádosti o změnu zařazení podle odstavců 1 a 2, bude období závazku na příslušném dílu půdního bloku ukončeno, přičemž ukončení závazku na daném dílu půdního bloku se nepovažuje za nesplnění podmínek stanovených tímto nařízením.
+
+(9) Došlo-li u podopatření podle § 2 písm. f) v evidenci využití půdy ke změně druhu zemědělské kultury standardní orná půda na druh zemědělské kultury úhor po skončení kalendářního roku 2023, bude období závazku na příslušném dílu půdního bloku ukončeno, přičemž ukončení závazku na daném dílu půdního bloku se nepovažuje za nesplnění podmínek stanovených tímto nařízením.
+
+#### § 9 – Poskytnutí dotace na podopatření v rámci agroenvironmentálně-klimatických opatření
+
+(1) Žádost o poskytnutí dotace na podopatření podle § 2 (dále jen „žádost o poskytnutí dotace“) doručí každoročně žadatel Fondu na Fondem vydaném formuláři pro příslušný kalendářní rok v rámci jednotné žádosti<sup>6</sup>), a to do 15. května příslušného kalendářního roku, na který má být dotace poskytnuta.
+
+(2) Dotace se poskytne žadateli v plné výši podle § 23, jestliže
+
+a) je žadatel zařazen do příslušného podopatření podle § 3 odst. 5 a do tohoto podopatření je zařazen také díl půdního bloku uvedený v žádosti o zařazení, přičemž v případě
+
+1\. podopatření podle § 2 písm. d) je díl půdního bloku uvedený v žádosti o poskytnutí dotace vymezen podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů a zařazen podle § 16 odst. 5, nebo
+
+2\. podopatření podle § 2 písm. g) je díl půdního bloku uvedený v žádosti o poskytnutí dotace vymezen podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů a zařazen podle § 22 odst. 3 písm. d),
+
+b) žadatel hospodaří a zaváže se hospodařit v souladu s
+
+1\. pravidly podmíněnosti uvedenými v nařízení vlády upravujícím pravidla podmíněnosti plateb zemědělcům,
+
+2\. podmínkami minimálních požadavků pro použití hnojiv a přípravků na ochranu rostlin uvedenými v nařízení vlády upravujícím pravidla podmíněnosti plateb zemědělcům a
+
+3\. dalšími podmínkami stanovenými tímto nařízením,
+
+c) žadatel v případě použití hnojiv a statkových hnojiv vede evidenci hnojení v souladu se zákonem o hnojivech a uchovává tuto evidenci pro potřeby kontroly prokazující poskytnutí a užití dotace minimálně po dobu 10 let,
+
+d) žadatel v případě použití přípravků na ochranu rostlin vede záznamy o používání těchto přípravků v souladu s přímo použitelným předpisem Evropské unie<sup>7</sup>) a zákonem o rostlinolékařské péči a uchovává tuto evidenci pro potřeby kontroly prokazující poskytnutí a užití dotace minimálně po dobu 10 let,
+
+e) Fond nezjistil u žadatele nesplnění podmínek agroenvironmentálně-klimatických opatření vedoucí ke snížení, neposkytnutí nebo vrácení dotace v příslušném kalendářním roce a
+
+f) Fond nezjistil u žadatele na dílu půdního bloku s druhem zemědělské kultury standardní orná půda zařazeného do podopatření podle § 2 písm. c), § 2 písm. f) nebo § 2 písm. g) v příslušném kalendářním roce nesplnění podmínky zemědělského obhospodařování standardní orné půdy stanovené v nařízení vlády upravujícím podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(3) Při posuzování užívané výměry a kultury zemědělské půdy podle evidence využití půdy je rozhodným obdobím
+
+a) v případě podopatření podle § 2 písm. a) až e), g) nebo h) období ode dne doručení žádosti o poskytnutí dotace do 31. prosince příslušného kalendářního roku, nebo
+
+b) v případě podopatření podle § 2 písm. f) období ode dne doručení žádosti o poskytnutí dotace do 31. března následujícího kalendářního roku.
+
+(4) Je-li žádost o poskytnutí dotace doručena po lhůtě uvedené v odstavci 1, Fond dotaci za podmínek stanovených přímo použitelným předpisem Evropské unie<sup>8</sup>) sníží, popřípadě žádost o poskytnutí dotace zamítne.
+
+(5) Součástí žádosti o dotaci na příslušný kalendářní rok je
+
+a) geoprostorová informace o dílech půdních bloků nebo jejich částí, které žadatel uvedl v této žádosti; u podopatření podle § 2 písm. a) geoprostorová informace o produkční ploše, a
+
+b) údaj o výměře jednotlivých dílů půdních bloků nebo jejich částí uvedených v písmenu a) vedených v evidenci využití půdy na žadatele.
+
+(6) Rozhodne-li se žadatel obnovit trvalý travní porost v souladu se zákonem o zemědělství (dále jen „obnova“) na dílu půdního bloku s druhem zemědělské kultury trvalý travní porost, zajistí, aby nejpozději do 31. srpna příslušného kalendářního roku byl na příslušném dílu půdního bloku souvislý travní porost a byla
+
+a) provedena první seč spolu s odklizením biomasy, nebo
+
+b) sklizena plodina určená k ochraně vzcházejícího travního porostu, byla-li vyseta.
+
+(7) Stanoví-li se tímto nařízením termín provedení první seče před 31. srpnem příslušného kalendářního roku, považuje se v případě obnovy podle odstavce 6 provedení první seče s odklizením biomasy nebo sklizeň plodiny určené k ochraně vzcházejícího travního porostu do 31. srpna příslušného kalendářního roku za splnění této podmínky.
+
+(8) Případnou změnu žádosti o poskytnutí dotace podle podmínek stanovených přímo použitelným předpisem Evropské unie<sup>27</sup>) doručí žadatel Fondu do 31. května příslušného kalendářního roku na formuláři vydaném Fondem.
+
+#### § 10 – Poměrná výše dotace
+
+(1) Pokud žadatel prokáže, že v průběhu trvání závazku došlo ke snížení výměry zemědělské půdy zařazené do podopatření podle § 2 z důvodů uvedených v § 8 odst. 4 písm. a) až e) nebo § 16 odst. 5 písm. a), dotace se poskytne na příslušnou výměru zemědělské půdy, která je předmětem změny, v poměrné výši odpovídající délce období, po kterou ji žadatel měl vedenou v evidenci využití půdy, nebo období, které končí dnem, kdy nastala skutečnost podle § 8 odst. 4 písm. c). Poměrná výše dotace se neposkytne na výměru zemědělské půdy, která je předmětem změny, jestliže tato výměra nebyla na žadatele vedena ke dni doručení žádosti o poskytnutí dotace v evidenci využití půdy.
+
+(2) Pokud žadatel neprokáže, že v průběhu trvání závazku došlo ke snížení výměry zemědělské půdy zařazené do podopatření podle § 2 z důvodů uvedených v § 8 odst. 4 písm. a) až e), nebo § 16 odst. 5 písm. a) nebo pokud uvede důvod snížení podle § 8 odst. 4 písm. f), dotace se poskytne snížená o poměrnou část odpovídající snížení výměry zemědělské půdy, a zároveň Fond rozhodne o vrácení poměrné části dotace, která byla poskytnuta od počátku trvání závazku na výměru, o kterou byla původní výměra snížena, a o případném vyřazení této výměry z příslušného podopatření podle § 2 od počátku trvání závazku.
+
+(3) Podá-li žadatel žádost o snížení zařazené výměry, ve které snižuje výměru zemědělské půdy zařazené do příslušného podopatření o veškerou zařazenou výměru, nebo požádá-li žadatel o vyřazení z příslušného podopatření, rozhodne Fond o vyřazení žadatele z příslušného podopatření; povinnost vrátit dotaci nebo její část tím není dotčena.
+
+#### § 11 – Převod a přechod zařazení do agroenvironmentálně-klimatických opatření
+
+(1) Pokud fyzická osoba, která je žadatelem, ukončí zemědělskou činnost, nebo právnická osoba, která je žadatelem, zanikne bez likvidace, a nový uživatel zemědělské půdy nebo právní nástupce zaniklé právnické osoby (dále jen „nabyvatel“) tuto skutečnost oznámí Fondu na Fondem vydaném formuláři nejpozději do 30 kalendářních dnů ode dne převedení dílů půdních bloků dříve obhospodařovaných žadatelem na nabyvatele v evidenci využití půdy a písemně se zaváže v plném rozsahu pokračovat v plnění podmínek příslušného podopatření podle § 2, nepovažuje se to za nesplnění podmínek stanovených pro příslušná podopatření v § 2 a Fond o snížení, neposkytnutí nebo vrácení dotace nerozhodne.
+
+(2) Pokud v důsledku převodu nebo pachtu části nebo celého obchodního závodu dojde v průběhu příslušného závazku u žadatele ke snížení výměry zemědělské půdy, na kterou je v rámci příslušného podopatření poskytována dotace, a nabyvatel části nebo celého obchodního závodu tuto skutečnost oznámí Fondu na Fondem vydaném formuláři nejpozději do 30 kalendářních dnů od data převedení dílů půdních bloků dříve obhospodařovaných žadatelem na nabyvatele v evidenci využití půdy a písemně se zaváže pokračovat v plnění podmínek příslušného podopatření na nabyté části tohoto obchodního závodu ve stejném rozsahu, a zaváže-li se písemně žadatel, že jako převodce v případě převodu části tohoto obchodního závodu bude pokračovat v plnění podmínek příslušného podopatření podle § 2 na nepřeváděné části obchodního závodu, Fond o snížení, neposkytnutí nebo vrácení dotace nerozhodne.
+
+(3) Jestliže se nabyvatel, který je zařazen do příslušného podopatření podle § 2, písemně zaváže, že bude pokračovat v plnění podmínek tohoto podopatření na nabyté výměře zemědělské půdy podle odstavce 1 nebo 2, novou žádost o zařazení již nepodává a § 7 se v tomto případě nepoužije; tuto skutečnost však oznámí Fondu na Fondem vydaném formuláři, přičemž
+
+a) je-li zemědělská půda nabytá podle odstavce 1 nebo 2 zařazena do příslušného podopatření podle § 2 po kratší dobu než zemědělská půda, kterou měl nabyvatel do doby nabytí zemědělské půdy podle odstavce 1 nebo 2 zařazenu do tohoto podopatření, a zároveň podíl takto nabyté zemědělské půdy překročí 35 % výměry zemědělské půdy, kterou měl nabyvatel do doby nabytí zemědělské půdy podle odstavce 1 nebo 2 zařazenu do tohoto podopatření, uvede nabyvatel na Fondem vydaném formuláři souhrnnou výměru zemědělské půdy zařazenou do tohoto podopatření a Fond stanoví v novém rozhodnutí o zařazení datum zahájení závazku odpovídající kalendářnímu roku, kdy byla nově nabytá zemědělská půda zařazena původnímu žadateli do tohoto podopatření,
+
+b) v ostatních případech uvede nabyvatel na Fondem vydaném formuláři souhrnnou výměru zemědělské půdy zařazené do tohoto podopatření a Fond stanoví v novém rozhodnutí o zařazení datum zahájení závazku odpovídající kalendářnímu roku, kdy byl nabyvatel zařazen do tohoto podopatření.
+
+(4) Jestliže se nabyvatel, který není zařazen do příslušného podopatření, písemně zaváže, že bude pokračovat v plnění podmínek tohoto podopatření na nabyté výměře zemědělské půdy podle odstavce 1 nebo 2, novou žádost o zařazení již nepodává; tuto skutečnost však oznámí Fondu na Fondem vydaném formuláři, v němž uvede výměru zařazenou do tohoto podopatření, a Fond stanoví v novém rozhodnutí o zařazení zbývající část období, po které bude nabyvatel zařazen do tohoto podopatření.
+
+(5) Jestliže dojde k převodu nebo přechodu závazků vyplývajících z podmínek zařazení do příslušného podopatření v důsledku skutečností uvedených v odstavci 1 nebo 2, stanoví se výměra zemědělské půdy, která může být předmětem
+
+a) zvýšení zařazené výměry podle § 7, v průběhu zbývající části příslušného závazku jako součet nabyvatelem dosud nevyčerpaného limitu zvýšení zařazené výměry podle § 7 a poměrné části převodcem dosud nevyčerpaného limitu zvýšení podle § 7, odpovídající poměrné části zařazené výměry převedené na nabyvatele; limit zvýšení výměry pro převodce se odpovídajícím způsobem snižuje, nebo
+
+b) snížení zařazené výměry podle § 8 odst. 4 písm. e), v průběhu zbývající části příslušného závazku jako součet nabyvatelem dosud nevyčerpaného limitu snížení zařazené výměry podle § 8 odst. 4 písm. e) a poměrné části převodcem dosud nevyčerpaného limitu snížení podle § 8 odst. 4 písm. e), odpovídající poměrné části zařazené výměry převedené na nabyvatele; limit snížení výměry pro převodce se odpovídajícím způsobem snižuje.
+
+(6) Jestliže se nabyvatel písemně zavázal v plném rozsahu pokračovat v plnění podmínek příslušného podopatření na nabyté výměře zemědělské půdy podle odstavce 1 nebo 2 a došlo-li v průběhu období, na které byl původní žadatel nebo nabyvatel zařazen do příslušného podopatření, ke snížení zařazené výměry zemědělské půdy podle § 8, s výjimkou snížení z důvodů podle § 8 odst. 4 písm. a) až e), nebo k nesplnění jiných podmínek tohoto podopatření na zemědělské půdě, na kterou byla dotace poskytnuta, rozhodne Fond o vrácení poměrné části dotace nabyvatelem za období, na které byl původní žadatel nebo nabyvatel zařazen.
+
+(7) Dojde-li v průběhu období, v němž je zjištěno nesplnění podmínky vedoucí k uplatnění postupu uvedeného v hlavě čtvrté tohoto nařízení, k převodu závazku v důsledku skutečností uvedených v odstavci 1 nebo 2, postup podle hlavy čtvrté tohoto nařízení se uplatní v rámci rozhodnutí o poskytnutí dotace nabyvateli jen na část výměry zemědělské půdy získanou od původního žadatele. Nedodržení podmínky uvedené v § 17 převodcem nebo nabyvatelem v důsledku skutečností uvedených v odstavci 1 nebo 2 se za nesplnění podmínky vedoucí k postupu podle hlavy čtvrté tohoto nařízení nepovažuje, pokud nesplnění podmínky trvá nejvýše po dobu 15 dnů přede dnem nebo po dni, ve kterém byla v evidenci využití půdy převedena zemědělská půda z převodce na nabyvatele.
+
+### HLAVA II – BLIŽŠÍ PODMÍNKY PROVÁDĚNÍ AGROENVIRONMENTÁLNĚ-KLIMATICKÝCH OPATŘENÍ
+
+#### § 12 – Podopatření integrovaná produkce ovoce
+
+(1) Žadatel v žádosti o zařazení do podopatření integrovaná produkce ovoce uvede
+
+a) seznam všech jím obhospodařovaných dílů půdních bloků vedených v evidenci využití půdy na žadatele s druhem zemědělské kultury ovocný sad a
+
+b) údaj o výměře jednotlivých dílů půdních bloků podle písmene a) vedených v evidenci využití půdy na žadatele.
+
+(2) Součástí žádosti o zařazení do podopatření integrovaná produkce ovoce je geoprostorová informace o dílech půdních bloků, které žadatel uvedl v žádosti.
+
+(3) Zařadit do podopatření integrovaná produkce ovoce lze díl půdního bloku, na kterém není uplatňováno
+
+a) žádné z podopatření uvedených v § 2,
+
+b) agroenvironmentální opatření podle § 2 nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů,
+
+c) opatření ekologické zemědělství podle nařízení vlády č. 76/2015 Sb.,
+
+d) žádné z podopatření uvedených v § 2 nařízení vlády č. 330/2019 Sb., o podmínkách provádění navazujících agroenvironmentálně-klimatických opatření, nebo
+
+e) opatření navazující na ekologické zemědělství podle nařízení vlády č. 331/2019 Sb., o podmínkách provádění navazujícího opatření ekologické zemědělství.
+
+(4) Minimální výměra pro zařazení do podopatření integrovaná produkce ovoce činí 0,5 hektaru zemědělské půdy s druhem zemědělské kultury ovocný sad podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(5) Žadatel po celou dobu zařazení do podopatření integrovaná produkce ovoce na celé výměře dílu půdního bloku s druhem zemědělské kultury ovocný sad
+
+a) neaplikuje přípravky na ochranu rostlin obsahující některou z účinných látek uvedených v části A přílohy č. 3 k tomuto nařízení,
+
+b) neaplikuje herbicidy v meziřadí ovocného sadu; meziřadím se rozumí plocha sadu sloužící k ošetřování sadu, pohybu techniky a ostatním agrotechnickým operacím,
+
+c) zajistí prostřednictvím osoby odborně způsobilé, která má osvědčení o akreditaci podle § 16 zákona o technických požadavcích na výrobky, nejpozději do konce pátého roku trvání příslušného závazku odběr vzorků půdy ze všech dílů půdních bloků zařazených do tohoto podopatření a rozbor těchto vzorků za účelem stanovení a zjištění dodržení limitu obsahu chemických látek uvedených v příloze č. 4 k tomuto nařízení; v případě přechodu zařazení podle § 4 je žadatel povinen zajistit odběr a rozbor vzorků půdy ze všech dílů půdních bloků zařazených do tohoto podopatření nejpozději do dne ukončení závazku; záznamy o výsledcích rozboru vzorků půdy uchovává minimálně po dobu 10 kalendářních let následujících po kalendářním roce, ve kterém byl rozbor proveden,
+
+d) provede každoročně
+
+1\. odběr jednoho vzorku ovoce na každých započatých 20 hektarů ovocného sadu způsobilého pro poskytnutí dotace podle § 2 písm. a),
+
+2\. v případě pěstování více ovocných druhů odběr jednoho vzorku z převládajícího druhu podle výměry na každých započatých 20 hektarů jeho výměry a zbývající počet vzorků do splnění minimálního počtu vzorků podle bodu 1 lze odebrat z libovolného ovocného druhu pěstovaného v příslušném sadu, přičemž výměra převládajícího druhu ovoce je posuzována ke dni podání žádosti o poskytnutí dotace, pokud není kontrolou na místě zjištěno jinak,
+
+e) zajistí každoročně rozbor vzorků ovoce odebraných v příslušném kalendářním roce podle písmene d) osobou odborně způsobilou, která má osvědčení o akreditaci podle § 16 zákona o technických požadavcích na výrobky za účelem stanovení a zjištění dodržení limitu obsahu chemických látek uvedených v příloze č. 5 k tomuto nařízení, a záznamy o výsledcích rozboru vzorků ovoce uchovává minimálně po dobu 10 kalendářních let následujících po kalendářním roce, ve kterém byl rozbor proveden,
+
+f) provede každoročně pravidelný řez za účelem prosvětlení korun ovocných stromů od 1. června do 15. srpna příslušného kalendářního roku, a to v rozsahu odpovídajícím použité pěstební technologii, přičemž ořezanou hmotu nadrtí a rovnoměrně rozprostře po ploše ovocného sadu do 15. srpna příslušného kalendářního roku,
+
+g) provede každoročně pravidelný řez za účelem prosvětlení ovocných keřů od 1. května do 30. června příslušného kalendářního roku, a to v rozsahu odpovídajícím použité pěstební technologii, přičemž ořezanou hmotu nadrtí a rovnoměrně rozprostře po ploše ovocného sadu do 30. června příslušného kalendářního roku,
+
+h) provede nejpozději do 15. srpna příslušného kalendářního roku mechanickou úpravu meziřadí a manipulačního prostoru ovocného sadu,
+
+i) absolvuje každoročně do 31. srpna příslušného kalendářního roku školení zajišťované Ústředním kontrolním a zkušebním ústavem zemědělským za účelem rozšíření znalostí o systému integrované produkce ovoce v rozsahu alespoň 6 hodin,
+
+j) sleduje a zaznamenává každodenně v období od 1. března do 30. září příslušného kalendářního roku
+
+1\. meteorologické prvky o teplotě, vlhkosti a ovlhčení listů zjištěné pomocí technického zařízení podle části C přílohy č. 2 k tomuto nařízení, v rozsahu uvedeném v části A přílohy č. 2 k tomuto nařízení a způsobem uvedeným v části D přílohy č. 2 k tomuto nařízení, a
+
+2\. výskyt škodlivých organismů zjištěný pomocí technického zařízení podle části A přílohy č. 6 k tomuto nařízení, způsobem uvedeným v části B přílohy č. 6 k tomuto nařízení, záznamy údajů z provedeného sledování uchovává minimálně po dobu 10 kalendářních let následujících po kalendářním roce, ve kterém byl záznam proveden, a
+
+k) provádí průběžné vyhodnocení údajů ze sledování podle písmene j) a zaznamenává výsledky vyhodnocení údajů sledování způsobem uvedeným v části B přílohy č. 6 k tomuto nařízení, přitom se má za to, že pokud nedojde k takové změně, která by měla vliv na vyhodnocení údajů, odpovídá vyhodnocení poslednímu provedenému záznamu, a záznamy údajů z provedeného vyhodnocení sledovaných údajů uchovává minimálně po dobu 10 kalendářních let po kalendářním roce, ve kterém byl záznam proveden.
+
+(6) Podmínky uvedené v odstavci 5 písm. d) nebo e) se vztahují pouze na díl půdního bloku, na který je podána žádost o poskytnutí dotace podle odstavce 7.
+
+(7) Žádost o poskytnutí dotace lze podat pouze na produkční plochu dílu půdního bloku vedeného v evidenci ovocných sadů podle § 3q zákona o zemědělství, na které se ode dne doručení žádosti o poskytnutí dotace do 31. prosince příslušného kalendářního roku nachází výsadba
+
+a) pouze některého z druhů ovocných stromů nebo ovocných keřů uvedených v příloze č. 7 k tomuto nařízení a
+
+b) o minimální hustotě životaschopných jedinců na hektar produkční plochy
+
+1\. u jádrovin 500 životaschopných jedinců,
+
+2\. u peckovin 200 životaschopných jedinců, nebo
+
+3\. u bobulovin 2 000 životaschopných jedinců;
+
+v případě pěstování více skupin dřevin uvedených v bodech 1 až 3 na 1 dílu půdního bloku plní žadatel hustotu výsadby danou pro každou z těchto skupin dřevin, přičemž žadatel v žádosti o dotaci uvede u každého dílu půdního bloku produkční plochu v členění na jádroviny, peckoviny nebo bobuloviny včetně příslušné výměry, na kterou žádá o dotaci.
+
+(8) Produkční plochou se pro účely tohoto nařízení vlády rozumí dílčí plocha sadu evidovaná v evidenci ovocných sadů podle § 3q zákona o zemědělství, a to v členění na jádroviny, peckoviny nebo bobuloviny nebo ostatní ovocné stromy a ovocné keře, přičemž součet výměry všech dílčích produkčních ploch v rámci ovocného sadu je shodný s výměrou odpovídající výměře příslušného dílu půdního bloku evidovaného v evidenci využití půdy na žadatele.
+
+(9) Součástí žádosti o dotaci je geoprostorová informace o dílech půdních bloků nebo produkčních ploch, které žadatel uvedl v žádosti.
+
+(10) Žadatel může pro účely odstavce 5 písm. j) bodu 2 využít meteorologickou stanici vybavenou technologií stanovení efektivní sumy teplot a prahových hodnot pro sledování výskytu škodlivých organismů. V případě dosažení prahové hodnoty výskytu škodlivého organismu žadatel postupuje podle odstavce 5 písm. j) bodu 2.
+
+(11) Žadatel doloží Fondu kopii záznamu o výsledcích rozboru podle
+
+a) odstavce 5 písm. c) nejpozději do 31. ledna kalendářního roku následujícího po roce, ve kterém měl být rozbor nejpozději proveden, a
+
+b) odstavce 5 písm. e) nejpozději do 31. ledna kalendářního roku následujícího po roce, ve kterém žadatel žádal o dotaci.
+
+#### § 13 – Podopatření integrovaná produkce révy vinné
+
+(1) Žadatel v žádosti o zařazení do podopatření integrovaná produkce révy vinné uvede
+
+a) seznam všech jím obhospodařovaných dílů půdních bloků vedených v evidenci využití půdy na žadatele s druhem zemědělské kultury vinice, s rozlišením na díly půdních bloků s kulturou vinice, které žadatel hodlá zařadit do titulu podle § 2 písm. b) bodu 1 nebo 2, a
+
+b) údaj o výměře jednotlivých dílů půdních bloků podle písmene a) vedených v evidenci využití půdy na žadatele.
+
+(2) Součástí žádosti o zařazení do podopatření integrovaná produkce révy vinné je geoprostorová informace o dílech půdních bloků, které žadatel uvedl v žádosti. Žadatel u jednotlivých dílů půdních bloků zakreslených v mapě označí, zda se jedná o díl půdního bloku zařazený do titulu základní ochrana vinic podle § 2 písm. b) bodu 1, nebo do titulu nadstavbová ochrana vinic podle § 2 písm. b) bodu 2.
+
+(3) Zařadit do podopatření integrovaná produkce révy vinné lze díl půdního bloku, na kterém není uplatňováno
+
+a) žádné z podopatření uvedených v § 2,
+
+b) agroenvironmentální opatření podle § 2 nařízení vlády č. 79/2007 Sb.,
+
+c) opatření ekologické zemědělství podle nařízení vlády č. 76/2015 Sb.,
+
+d) žádné z podopatření uvedených v § 2 nařízení vlády č. 330/2019 Sb., nebo
+
+e) opatření navazující na ekologické zemědělství podle nařízení vlády č. 331/2019 Sb.
+
+(4) Minimální výměra pro zařazení do podopatření integrovaná produkce révy vinné činí 0,5 hektaru zemědělské půdy s druhem zemědělské kultury vinice podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(5) Žadatel po celou dobu zařazení do podopatření integrovaná produkce révy vinné na celé výměře dílu půdního bloku s druhem zemědělské kultury vinice
+
+a) neaplikuje přípravky na ochranu rostlin obsahující některou z účinných látek uvedených v části B přílohy č. 3 k tomuto nařízení,
+
+b) aplikuje přípravky na ochranu rostlin<sup>9</sup>), popřípadě hnojiva<sup>10</sup>), upravené kaly<sup>11</sup>) a odpadní vody<sup>12</sup>) obsahující kationy mědi v celkové roční dávce obsahující v průměru nejvýše 3 kilogramy mědi na 1 hektar vinice zařazené do tohoto podopatření,
+
+c) na ochranu rostlin proti roztočům
+
+1\. používá pouze metodu introdukce roztoče Typhlodromus pyri ve formě letorostů révy vinné z dílu půdního bloku, kde je již Typhlodromus pyri usídlen, a rozmístění zaeviduje do záznamů k provedeným aplikacím přípravků na ochranu rostlin na dílu půdního bloku nebo ve formě bioagens povoleného v příslušném kalendářním roce k používání v České republice a
+
+2\. nepoužívá přípravky na ochranu rostlin<sup>9</sup>), přípravky na ochranu rostlin a pomocné prostředky na ochranu rostlin povolené k použití podle zákona o ekologickém zemědělství, s výjimkou uvedenou v bodě 1,
+
+podmínka se nevztahuje na mladé porosty do konce třetího roku po výsadbě,
+
+d) provede ročně nejvýše 2 aplikace herbicidů povolených v příslušném kalendářním roce k používání v České republice v příkmenném pásu vinice; pro účely tohoto nařízení se příkmenným pásem vinice rozumí plocha zemědělské půdy pod keři révy vinné, která neslouží k pohybu techniky,
+
+e) neaplikuje herbicidy v meziřadí a manipulačním prostoru vinice,
+
+f) provede každoročně prosvětlení keřů odstraňováním zálistků, nebo části listové plochy v zóně hroznů v období od 1. června do 30. září příslušného kalendářního roku,
+
+g) založí nejpozději ve třetím roce trvání závazku minimálně v každém druhém meziřadí porost směsí osiva podle přílohy č. 8 k tomuto nařízení v minimálním výsevu 20 kilogramů na 1 hektar vinice; používá k výsevu směs osiva podle § 12 odst. 2 písm. a) nebo b) zákona o oběhu osiva a sadby; výsev musí být proveden nejpozději do 24 měsíců ode dne vydání míchacího protokolu, popřípadě používá uznané osivo nebo u druhů neuvedených v druhovém seznamu podle zákona o oběhu osiva a sadby osivo kontrolované úředně nebo pod úředním dozorem podle zákona o oběhu osiva a sadby, přičemž výsev musí být proveden nejpozději do 24 měsíců ode dne vydání osvědčení prokazujícího kvalitu osiva podle zákona o oběhu osiva a sadby,
+
+h) provede nejpozději do 15. srpna příslušného kalendářního roku mechanickou úpravu meziřadí a manipulačního prostoru vinice a
+
+i) absolvuje každoročně do 31. srpna příslušného kalendářního roku školení zajišťované Ústředním kontrolním a zkušebním ústavem zemědělským za účelem rozšíření znalostí o systému integrované produkce révy vinné v rozsahu alespoň 8 hodin.
+
+(6) Žadatel po celou dobu zařazení do titulu základní ochrana vinic podle § 2 písm. b) bodu 1 na celé výměře dílu půdního bloku s druhem zemědělské kultury vinice
+
+a) provede nejvýše 30 aplikací přípravků na ochranu rostlin proti plísni révové, s výjimkou přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství,
+
+b) provede ročně nejvýše 8 aplikací přípravků na ochranu rostlin proti plísni révové, s výjimkou přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství, v rámci limitu podle písmene a),
+
+c) provede nejvýše 30 aplikací přípravků na ochranu rostlin proti padlí révovému, s výjimkou přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství,
+
+d) provede ročně nejvýše 8 aplikací přípravků na ochranu rostlin proti padlí révovému, s výjimkou přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství, v rámci limitu podle písmene c),
+
+e) používá na ochranu proti obaleči jednopásému a obaleči mramorovanému pouze přípravky na ochranu rostlin obsahující Bacillus thuringiensis, které jsou povoleny v příslušném kalendářním roce k používání v České republice, nebo účinné látky spinosad, popřípadě methoxyfenozid, nebo metodu feromonového matení obalečů,
+
+f) aplikuje každoročně proti plísni révové minimálně 1 přípravek na ochranu rostlin nebo pomocný prostředek na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství a
+
+g) aplikuje každoročně proti padlí révovému minimálně 1 přípravek na ochranu rostlin nebo pomocný prostředek na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství.
+
+(7) Žadatel po celou dobu zařazení do titulu nadstavbová ochrana vinic podle § 2 písm. b) bodu 2 na celé výměře dílu půdního bloku s druhem zemědělské kultury vinice
+
+a) provede nejvýše 20 aplikací přípravků na ochranu rostlin proti plísni révové, s výjimkou přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství,
+
+b) provede ročně nejvýše 8 aplikací přípravků na ochranu rostlin proti plísni révové, s výjimkou přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství, v rámci limitu podle písmene a),
+
+c) provede nejvýše 20 aplikací přípravků na ochranu rostlin proti padlí révovému, s výjimkou přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství,
+
+d) provede ročně nejvýše 8 aplikací přípravků na ochranu rostlin proti padlí révovému, s výjimkou přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství, v rámci limitu podle písmene c),
+
+e) používá na ochranu proti obaleči jednopásému a obaleči mramorovanému pouze přípravky na ochranu rostlin, které jsou povoleny v příslušném kalendářním roce k používání v České republice obsahující Bacillus thuringiensis nebo metodu feromonového matení obalečů,
+
+f) provede ročně nejvýše 2 aplikace přípravků na ochranu rostlin proti šedé hnilobě, s výjimkou přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství,
+
+g) provede ročně proti plísni révové minimálně 2 aplikace přípravku na ochranu rostlin nebo pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství,
+
+h) provede ročně proti padlí révovému minimálně 2 aplikace přípravku na ochranu rostlin nebo pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství a
+
+i) provede ročně proti šedé hnilobě minimálně 2 aplikace přípravku na ochranu rostlin nebo pomocných prostředků na ochranu rostlin povolených k použití podle zákona o ekologickém zemědělství.
+
+(8) Žádost o poskytnutí dotace lze podat pouze na díl půdního bloku, na kterém se od data doručení žádosti o poskytnutí dotace do 31. prosince příslušného kalendářního roku nachází výsadba révy vinné o minimální hustotě 1 800 životaschopných jedinců na hektar dílu půdního bloku.
+
+#### § 14 – Vyklučení v rámci podopatření integrovaná produkce ovoce a podopatření integrovaná produkce révy vinné
+
+(1) Jestliže v průběhu trvání závazku dojde v souvislosti s vyklučením ke snížení výměry dílu půdního bloku nebo jeho části zařazeného do podopatření podle § 2 písm. a) nebo b), žadatel tuto skutečnost oznámí prostřednictvím
+
+a) žádosti o změnu zařazení, kterou Fondu doručí do 15 dnů ode dne provedení vyklučení, nejpozději však do 10. ledna následujícího kalendářního roku, pokud k vyklučení došlo v období ode dne doručení žádosti o poskytnutí dotace do 31. prosince příslušného kalendářního roku, nebo
+
+b) žádosti o změnu zařazení nebo žádosti o zařazení, které Fondu doručí nejpozději do 15. května příslušného kalendářního roku, pokud k vyklučení došlo mimo období uvedené v písmeni a),
+
+Fond na základě žádostí podle písmene a) nebo b) rozhodne o zařazení do příslušného podopatření, a to s přihlédnutím ke změně výměry zemědělské půdy.
+
+(2) Na díl půdního bloku nebo jeho část, kde probíhá vyklučení, nelze žádat o poskytnutí dotace.
+
+(3) Žadatel je povinen vyklučenou výměru do konce trvání závazku nahradit na původním dílu půdního bloku nebo jeho části nebo na jiném dílu půdního bloku nebo jeho části. Pokud u žadatele dojde v průběhu trvání závazku k navýšení výměry podle § 7 odst. 6 nebo k přechodu zařazení podle § 5, je žadatel povinen vyklučenou výměru nahradit do konce trvání nového závazku. Žadatel je povinen nahradit vyklučenou výměru zařazenou do podopatření podle § 2 písm. b) podle původního zařazení.
+
+(4) Pokud žadatel vyklučenou výměru v souladu s odstavcem 3 nenahradí, je povinen vrátit dotaci, která byla od počátku trvání závazku na vyklučenou výměru poskytnuta. Pokud u žadatele došlo v průběhu trvání závazku k navýšení výměry podle § 7 odst. 6 nebo k přechodu zařazení podle § 4 nebo 5, je žadatel povinen vrátit i dotaci, která byla poskytnuta na vyklučenou výměru na základě původního závazku.
+
+(5) Žadatel oznámí Fondu zařazení výměry nahrazující vyklučenou výměru s uvedením dílu půdního bloku, kde došlo k nahrazení, a to prostřednictvím
+
+a) žádosti o změnu zařazení, kterou Fondu doručí do 15 dnů ode dne provedení nahrazení, nejpozději však do 10. ledna následujícího kalendářního roku, pokud k nahrazení došlo v období ode dne doručení žádosti o poskytnutí dotace do 31. prosince příslušného kalendářního roku, nebo
+
+b) žádosti o změnu zařazení nebo žádosti o zařazení, které Fondu doručí nejpozději do 15. května příslušného kalendářního roku, pokud k nahrazení došlo v období mimo období uvedené v písmeni a).
+
+(6) Zařazení výměry nahrazující vyklučenou výměru se nepovažuje za navýšení zařazené výměry podle § 7, pokud žadatel do žádosti vyplní důvod výsadba. Je-li výměra dílu půdního bloku rozdílná, použije se postup podle § 7.
+
+#### § 15 – Podopatření integrovaná produkce zeleniny a jahodníku
+
+(1) Žadatel v žádosti o zařazení do podopatření integrovaná produkce zeleniny a jahodníku uvede
+
+a) seznam všech jím obhospodařovaných dílů půdních bloků vedených v evidenci využití půdy na žadatele s druhem zemědělské kultury standardní orná půda nebo jiná trvalá kultura, které hodlá zařadit do podopatření integrovaná produkce zeleniny a jahodníku, včetně titulů podle § 2 písm. c) bodu 1 nebo 2, a
+
+b) údaj o výměře jednotlivých dílů půdních bloků podle písmene a) vedených v evidenci využití půdy na žadatele.
+
+(2) Součástí žádosti o zařazení do podopatření integrovaná produkce zeleniny a jahodníku je geoprostorová informace o dílech půdních bloků, které žadatel uvedl v žádosti. Žadatel u jednotlivých dílů půdních bloků zakreslených v mapě označí titul podle § 2 písm. c) bodu 1 nebo 2.
+
+(3) Zařadit do podopatření integrovaná produkce zeleniny a jahodníku lze díl půdního bloku, na kterém není uplatňováno
+
+a) žádné z podopatření uvedených v § 2,
+
+b) agroenvironmentální opatření podle § 2 nařízení vlády č. 79/2007 Sb.,
+
+c) opatření ekologické zemědělství podle nařízení vlády č. 76/2015 Sb.,
+
+d) žádné z podopatření uvedených v § 2 nařízení vlády č. 330/2019 Sb., nebo
+
+e) opatření navazující na ekologické zemědělství podle nařízení vlády č. 331/2019 Sb.
+
+(4) Minimální výměra pro zařazení do podopatření integrovaná produkce zeleniny a jahodníku činí 0,5 hektaru zemědělské půdy s druhem zemědělské kultury standardní orná půda nebo zemědělské půdy s druhem zemědělské kultury jiná trvalá kultura podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(5) Žadatel po celou dobu zařazení do podopatření integrovaná produkce zeleniny a jahodníku na všech dílech půdních bloků s druhem zemědělské kultury standardní orná půda nebo s druhem zemědělské kultury jiná trvalá kultura, na kterém v příslušném kalendářním roce pěstuje zeleninu nebo jahodník,
+
+a) neaplikuje přípravky na ochranu rostlin obsahující některou z účinných látek uvedených v části C přílohy č. 3 k tomuto nařízení,
+
+b) zajistí prostřednictvím osoby odborně způsobilé, která má osvědčení o akreditaci podle § 16 zákona o technických požadavcích na výrobky, nejpozději do konce pátého roku trvání příslušného závazku odběr vzorků půdy ze všech dílů půdních bloků zařazených do tohoto podopatření a rozbor těchto vzorků za účelem stanovení a zjištění dodržení limitu obsahu chemických látek uvedených v příloze č. 4 k tomuto nařízení; v případě přechodu zařazení podle § 4 je žadatel povinen zajistit odběr a rozbor vzorků půdy ze všech dílů půdních bloků zařazených do tohoto podopatření nejpozději do data ukončení závazku; záznamy o výsledcích rozborů uchovává minimálně po dobu 10 kalendářních let následujících po kalendářním roce, ve kterém byl rozbor proveden,
+
+c) vede a průběžně aktualizuje k příslušnému dílu půdního bloku evidenční kartu podle části A přílohy č. 10 k tomuto nařízení a evidenční kartu uchovává minimálně po dobu 10 kalendářních let,
+
+d) sleduje a zaznamenává každodenně v období od 1. března do 30. září příslušného kalendářního roku
+
+1\. meteorologické prvky o teplotě a množství srážek zjištěné pomocí technického zařízení, podle části C přílohy č. 2 k tomuto nařízení, v rozsahu uvedeném v části B přílohy č. 2 k tomuto nařízení, způsobem uvedeným v části D přílohy č. 2 k tomuto nařízení a
+
+2\. v případě zařazení podle § 2 písm. c) bodu 1 výskyt škodlivých organismů zjištěný pomocí technického zařízení podle bodů 1 až 6 části A přílohy č. 6 k tomuto nařízení, anebo v případě zařazení podle § 2 písm. c) bodu 2 výskyt škodlivých organismů zjištěný pomocí technického zařízení podle bodu 5 nebo 7 části A přílohy č. 6 k tomuto nařízení, způsobem uvedeným v části B přílohy č. 6 k tomuto nařízení;
+
+záznamy údajů z provedeného sledování uchovává minimálně po dobu 10 kalendářních let po kalendářním roce, ve kterém byl záznam proveden, a
+
+e) provádí průběžné vyhodnocení údajů ze sledování podle písmene d) a zaznamenává výsledky vyhodnocení údajů sledování způsobem uvedeným v části B přílohy č. 6 k tomuto nařízení, přitom se má za to, že pokud nedojde k takové změně, která by měla vliv na vyhodnocení údajů, odpovídá vyhodnocení poslednímu provedenému záznamu a záznamy údajů z provedeného vyhodnocení sledovaných údajů uchovává minimálně po dobu 10 kalendářních let po kalendářním roce, ve kterém byl záznam proveden.
+
+(6) Žadatel na dílu půdního bloku s druhem zemědělské kultury standardní orná půda zařazeném do titulu integrovaná produkce zeleniny, na který v příslušném kalendářním roce podává žádost o poskytnutí dotace,
+
+a) pěstuje některý z podporovaného druhu zeleniny uvedený v příloze č. 9 k tomuto nařízení (dále jen „podporovaný druh zeleniny“) v průběhu příslušného kalendářního roku na celé výměře dílu půdního bloku,
+
+b) používá k výsevu nebo výsadbě pouze osivo nebo sadbu podle zákona o oběhu osiva a sadby, a to v minimálním objemu uvedeném v příloze č. 11 k tomuto nařízení,
+
+c) zajistí prostřednictvím osoby odborně způsobilé, která má osvědčení o akreditaci podle § 16 zákona o technických požadavcích na výrobky, před každým výsevem nebo výsadbou podporovaného druhu zeleniny na dílu půdního bloku odběr vzorku půdy a jeho rozbor za účelem zjištění obsahu minerálního dusíku,
+
+d) aplikuje k jednotlivému podporovanému druhu zeleniny hnojiva<sup>10</sup>) do výše limitu dusíku na 1 hektar stanoveného v § 7 a v příloze č. 3 k nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů,
+
+e) provede každoročně odběr jednoho vzorku z každého pěstovaného podporovaného druhu zeleniny z každých započatých 20 hektarů dílů půdních bloků způsobilých pro poskytnutí dotace podle § 2 písm. c) bodu 1; žadatelé, kteří pěstují některý podporovaný druh zeleniny na výměře menší než 0,5 hektaru, přičemž souhrnná výměra dílů půdních bloků s druhem zemědělské kultury standardní orná půda zařazených do tohoto titulu nepřesáhne 5 hektarů, odebírají pouze jeden vzorek z převládajícího podporovaného druhu zeleniny podle výměry a
+
+f) zajistí každoročně rozbor vzorků zeleniny odebraných v příslušném kalendářním roce podle písmene e) osobou odborně způsobilou, která má osvědčení o akreditaci podle § 16 zákona o technických požadavcích na výrobky, za účelem stanovení a zjištění dodržení limitu obsahu všech chemických látek uvedených v části A až C přílohy č. 12 k tomuto nařízení a uchovává záznamy o výsledcích rozborů minimálně po dobu 10 kalendářních let následujících po kalendářním roce, ve kterém byl rozbor proveden.
+
+(7) Žadatel na dílu půdního bloku s druhem zemědělské kultury jiná trvalá kultura zařazeném do titulu integrovaná produkce zeleniny, na který v příslušném kalendářním roce podává žádost o poskytnutí dotace,
+
+a) pěstuje v průběhu příslušného kalendářního roku na celé výměře dílu půdního bloku pouze podporovaný druh zeleniny,
+
+b) používá k výsadbě podporovaného druhu zeleniny pouze sadbu podle zákona o oběhu osiva a sadby, a to v minimálním objemu uvedeném v příloze č. 11 k tomuto nařízení,
+
+c) zajistí prostřednictvím osoby odborně způsobilé, která má osvědčení o akreditaci podle § 16 zákona o technických požadavcích na výrobky, před každou výsadbou podporovaného druhu zeleniny na dílu půdního bloku odběr vzorku půdy a jeho rozbor za účelem zjištění obsahu minerálního dusíku,
+
+d) aplikuje před výsadbou povinně hnůj,
+
+e) provede každoročně odběr jednoho vzorku pěstovaného podporovaného druhu zeleniny z každých započatých 20 hektarů dílů půdních bloků způsobilých pro poskytnutí dotace podle § 2 písm. c) bodu 1,
+
+f) zajistí každoročně rozbor vzorků zeleniny odebraných v příslušném kalendářním roce podle písmene e) osobou odborně způsobilou, která má osvědčení o akreditaci podle § 16 zákona o technických požadavcích na výrobky, za účelem stanovení a zjištění dodržení limitu obsahu všech chemických látek uvedených v části A až C přílohy č. 12 k tomuto nařízení a uchovává záznamy o výsledcích rozborů minimálně po dobu 10 kalendářních let následujících po kalendářním roce, ve kterém byl rozbor proveden,
+
+g) provede ročně nejvýše 2 aplikace herbicidů, které jsou povoleny v příslušném kalendářním roce k používání v České republice, a
+
+h) aplikuje hnojiva<sup>10</sup>) do výše limitu dusíku na 1 hektar stanoveného v § 7 nařízení vlády č. 262/2012 Sb.
+
+(8) Žadatel na dílu půdního bloku s druhem zemědělské kultury standardní orná půda zařazeném do titulu integrovaná produkce jahodníku, na který v příslušném kalendářním roce podává žádost o poskytnutí dotace,
+
+a) používá k výsadbě jahodníku pouze sadbu podle zákona o oběhu osiva a sadby, a to v minimálním objemu uvedeném v příloze č. 11 k tomuto nařízení,
+
+b) provede případnou výsadbu jahodníku pouze na dílu půdního bloku nebo jeho části, na kterém byla pěstována předplodina nebo hlavní plodina s meziplodinou, přičemž předplodina nebo meziplodina byla zapravena do půdy jako zelené hnojení,
+
+c) zajistí prostřednictvím osoby odborně způsobilé, která má osvědčení o akreditaci podle § 16 zákona o technických požadavcích na výrobky, před každou výsadbou jahodníku na dílu půdního bloku odběr vzorku půdy a jeho rozbor za účelem zjištění obsahu minerálního dusíku,
+
+d) provede odběr alespoň jednoho vzorku jahod z každých započatých 20 hektarů dílů půdních bloků nebo jejich částí způsobilých pro poskytnutí dotace podle § 2 písm. c) bodu 2,
+
+e) zajistí každoročně rozbor vzorků jahod odebraných v příslušném kalendářním roce podle písmene d) osobou odborně způsobilou, která má osvědčení o akreditaci podle § 16 zákona o technických požadavcích na výrobky, za účelem stanovení a zjištění dodržení limitu obsahu všech chemických látek uvedených v části D až F přílohy č. 12 k tomuto nařízení a uchovává záznamy o výsledcích rozborů minimálně po dobu 10 kalendářních let následujících po kalendářním roce, ve kterém byl rozbor proveden,
+
+f) aplikuje hnojiva<sup>10</sup>) do výše limitu dusíku na 1 hektar stanoveného v § 7 nařízení vlády č. 262/2012 Sb.,
+
+g) zajistí provedení plečkování meziřadí porostu minimálně dvakrát ročně; první plečkování se provádí nejpozději do 31. srpna a druhé plečkování se provádí nejpozději do 31. října příslušného kalendářního roku, podmínka se nevztahuje na díl půdního bloku nebo jeho část, na kterém je použita pěstební technologie s použitím fólií nebo textilií,
+
+h) zajistí nejpozději do 30. září příslušného kalendářního roku údržbu porostu jahodníku sečením nebo mulčováním,
+
+i) provede každoročně nejvýše 5 aplikací herbicidů, které jsou povoleny v příslušném kalendářním roce k používání v České republice,
+
+j) provede každoročně nejvýše 4 aplikace insekticidů, které jsou povoleny v příslušném kalendářním roce k používání v České republice,
+
+k) vede a průběžně aktualizuje k příslušnému dílu půdního bloku evidenční kartu provedených agrotechnických operací podle části B přílohy č. 10 k tomuto nařízení a evidenční kartu uchovává minimálně po dobu 10 kalendářních let a
+
+l) provádí od druhého roku trvání závazku nejpozději do 30. dubna příslušného kalendářního roku odstranění čepelí listů jahodníku; podmínka se nevztahuje na díl půdního bloku nebo jeho část, na kterém byla v období od 1. září do 31. prosince kalendářního roku předcházejícího kalendářnímu roku, ve kterém byla podána žádost o poskytnutí dotace podle § 2 písm. c) bodu 2 nebo v příslušném kalendářním roce, provedena výsadba jahodníku.
+
+(9) Na dílu půdního bloku nebo jeho části, na kterém byl porost jahodníku po provedení sklizně, nejdříve však 1. července příslušného kalendářního roku, zlikvidován nebo zapraven do půdy, se splnění podmínky podle odstavce 8 písm. g) a h) nepožaduje.
+
+(10) Žádost o poskytnutí dotace lze podat pouze
+
+a) na celý díl půdního bloku zařazený do podopatření podle § 2 písm. c) bodu 1, na kterém je v příslušném kalendářním roce pěstován některý z podporovaných druhů zeleniny, nebo
+
+b) na celý díl půdního bloku nebo jeho část zařazený do podopatření podle § 2 písm. c) bodu 2, na kterém je alespoň v období ode dne podání žádosti o poskytnutí dotace do 30. června příslušného kalendářního roku pěstován jahodník, a to o minimální hustotě 20 000 životaschopných jedinců na 1 hektar.
+
+(11) Žadatel může pro účely odstavce 5 písm. d) bodu 2 využít meteorologickou stanici vybavenou technologií stanovení efektivní sumy teplot a prahových hodnot pro sledování výskytu škodlivých organismů. V případě dosažení prahové hodnoty škodlivého organismu žadatel postupuje podle odstavce 5 písm. d) bodu 2.
+
+(12) Žadatel doloží Fondu kopii
+
+a) záznamu o výsledcích rozboru podle
+
+1\. odstavce 5 písm. b) nejpozději do 31. ledna kalendářního roku následujícího po roce, ve kterém měl být rozbor nejpozději proveden, a
+
+2\. odstavce 6 písm. f), odstavce 7 písm. f) nebo odstavce 8 písm. e) nejpozději do 31. ledna kalendářního roku následujícího po roce, ve kterém žadatel žádal o dotaci, a
+
+b) evidenční karty dílu půdního bloku podle odstavce 5 písm. c) nejpozději do 31. ledna kalendářního roku následujícího po roce, ve kterém žadatel žádal o dotaci.
+
+#### § 16 – Zařazení do podopatření ošetřování travních porostů
+
+(1) Žadatel v žádosti o zařazení do podopatření ošetřování travních porostů uvede
+
+a) seznam jím obhospodařovaných dílů půdních bloků vedených v evidenci využití půdy na žadatele s druhem zemědělské kultury trvalý travní porost, které hodlá zařadit do podopatření ošetřování travních porostů, včetně uvedení jednotlivých titulů podle § 2 písm. d) bodů 1 až 10, a
+
+b) údaj o výměře jednotlivých dílů půdních bloků podle písmene a) vedených v evidenci využití půdy na žadatele.
+
+(2) Součástí žádosti o zařazení do podopatření ošetřování travních porostů je geoprostorová informace o dílech půdních bloků, které žadatel uvedl v žádosti. Žadatel u jednotlivých dílů půdních bloků zakreslených v mapě označí titul podle § 2 písm. d) bodů 1 až 10, do kterého na daném dílu půdního bloku žádá o zařazení.
+
+(3) Zařadit do podopatření ošetřování travních porostů lze díl půdního bloku, na kterém není uplatňováno
+
+a) žádné z podopatření uvedených v § 2,
+
+b) agroenvironmentální opatření podle § 2 nařízení vlády č. 79/2007 Sb., s výjimkou opatření podle § 2 písm. a) bodu 1 nařízení vlády č. 79/2007 Sb., nebo
+
+c) žádné z podopatření uvedených v § 2 nařízení vlády č. 330/2019 Sb.
+
+(4) Minimální výměra pro zařazení do podopatření ošetřování travních porostů činí 2 hektary zemědělské půdy s druhem zemědělské kultury trvalý travní porost podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(5) Díl půdního bloku lze zařadit pouze do jednoho titulu
+
+a) podle § 2 písm. d) bodů 2 až 10, pokud se jedná o díl půdního bloku, který se nachází alespoň z 50 % v oblastech zvláště chráněných území<sup>13</sup>), ochranných pásmech národních parků<sup>14</sup>), nebo v území náležícím do soustavy Natura 2000<sup>15</sup>) a je na něm vymezeno příslušné cenné stanoviště nebo je podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů vymezen jako hnízdní lokalita chřástala polního, podmáčená nebo rašelinná louka, stanoviště modráska, druhově bohatá pastvina nebo suchý stepní trávník a vřesoviště; v případě, že se díl půdního bloku po aktualizaci hranic zvláště chráněných území<sup>13</sup>), ochranných pásem národních parků<sup>14</sup>) nebo soustavy Natura 2000<sup>15</sup>) nadále nenachází ve výše uvedených územích, bude závazek v příslušném titulu podle § 2 písm. d) na příslušném dílu půdního bloku ukončen, přičemž ukončení závazku na daném dílu půdního bloku se nepovažuje za nesplnění podmínek stanovených tímto nařízením,
+
+b) podle § 2 písm. d) bodů 6 až 9, pokud se jedná o díl půdního bloku, který se nachází mimo území uvedená v písmeni a), a jestliže je daný díl půdního bloku vymezen podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů jako hnízdní lokalita chřástala polního, podmáčená nebo rašelinná louka, stanoviště modráska nebo suchý stepní trávník a vřesoviště, nebo
+
+c) podle § 2 písm. d) bodu 1, pokud se jedná o díl půdního bloku, který se nachází mimo území uvedená v písmeni a), nebo pokud se nachází v území uvedeném v písmeni a) s povolením místně příslušného orgánu ochrany přírody.
+
+#### § 17 – Intenzita chovu hospodářských zvířat
+
+(1) Žadatel po celou dobu zařazení do podopatření podle § 2 písm. d) musí splňovat každý den kontrolního období od 1. června do 30. září příslušného kalendářního roku (dále jen „kontrolní období“) intenzitu chovu hospodářských zvířat uvedených v příloze č. 13 k tomuto nařízení nejméně 0,3 velké dobytčí jednotky na 1 hektar trvalého travního porostu obhospodařovaného žadatelem a vedeného v evidenci využití půdy, přičemž do výměry trvalého travního porostu se nezapočítává
+
+a) výměra dílu půdního bloku s druhem zemědělské kultury trvalý travní porost zařazeného do titulu podle § 2 písm. d) bodů 6 až 8,
+
+b) výměra dílu půdního bloku s druhem zemědělské kultury trvalý travní porost zařazeného do titulu podle § 2 písm. b) bodů 6 až 8 nařízení vlády č. 80/2023 Sb., o stanovení podmínek provádění agroenvironmentálně-klimatických opatření, a
+
+c) výměra dílu půdního bloku s druhem zemědělské kultury trvalý travní porost, který se nachází alespoň z 50 % v oblastech 1. a 2. zóny chráněných krajinných oblastí, v maloplošných zvláště chráněných územích nebo v zónách soustředěné péče o přírodu v národních parcích.
+
+(2) Žadatel po celou dobu zařazení do titulu podle § 2 písm. d) bodů 1 až 5 a 7 až 10 musí splňovat každý den kontrolního období intenzitu chovu hospodářských zvířat uvedených v příloze č. 13 k tomuto nařízení nejvýše 1,15 velké dobytčí jednotky na 1 hektar zařazený v roce podání žádosti o dotaci do titulu podle
+
+a) § 2 písm. d) bodů 1 až 5 a 7 až 10,
+
+b) § 2 písm. e) bodů 1 až 6, a to od druhého roku trvání závazku podle § 3 odst. 3, nebo
+
+c) § 2 písm. b) bodů 1 až 5 a 7 až 12 nařízení vlády č. 80/2023 Sb.
+
+(3) Žadatel po celou dobu zařazení do podopatření podle § 2 písm. d) musí splňovat každý den kontrolního období intenzitu chovu hospodářských zvířat uvedených v příloze č. 13 k tomuto nařízení nejvýše 1,5 velké dobytčí jednotky na 1 hektar zemědělské půdy obhospodařované žadatelem a vedené v evidenci využití půdy s druhem zemědělské kultury orná půda, trvalý travní porost a trvalá kultura.
+
+(4) Chová-li žadatel v kontrolním období koně, doručí Fondu do 31. října příslušného kalendářního roku za toto kontrolní období
+
+a) elektronický opis registru koní v hospodářství vedeného v informačním systému ústřední evidence<sup>16</sup>) a
+
+b) elektronickou deklaraci chovu koní, která je vytvořena na základě údajů z registru koní v hospodářství vedeného v informačním systému ústřední evidence<sup>16</sup>); deklarace chovu koní obsahuje údaje o počtu chovaných koní přepočtených na velké dobytčí jednotky podle přílohy č. 13 k tomuto nařízení a kategorii chovaných koní.
+
+(5) Nedoručí-li žadatel Fondu opis registru koní v hospodářství a deklaraci chovu koní podle odstavce 4 ve stanoveném termínu, koně se při výpočtu intenzity chovu hospodářských zvířat nezohlední, pokud není kontrolou na místě zjištěn stav odůvodňující jejich zohlednění.
+
+(6) Intenzita chovu hospodářských zvířat se za každý den kontrolního období vypočte jako podíl počtu žadatelem chovaných hospodářských zvířat přepočteného na velké dobytčí jednotky podle přílohy č. 13 k tomuto nařízení k příslušnému dni kontrolního období zjištěného z informačního systému ústřední evidence, popřípadě podle odstavce 4, pokud není kontrolou na místě zjištěno jinak,
+
+a) a výměry zemědělské půdy vedené v evidenci využití půdy s druhem zemědělské kultury trvalý travní porost k danému dni kontrolního období v případě výpočtu pro účely podmínky uvedené v odstavci 1, přičemž do výměry trvalého travního porostu se nezapočítává výměra dílu půdního bloku s druhem zemědělské kultury trvalý travní porost
+
+1\. zařazeného do titulu podle § 2 písm. d) bodů 6 až 8,
+
+2\. zařazeného do titulu podle § 2 písm. b) bodů 6 až 8 nařízení vlády č. 80/2023 Sb. a
+
+3\. nacházejícího se alespoň z 50 % v oblastech 1. a 2. zóny chráněných krajinných oblastí, v maloplošných zvláště chráněných územích nebo v zónách soustředěné péče o přírodu v národních parcích
+
+b) s výjimkou nepasených ustájených zvířat evidovaných na hospodářství nebo stáji evidované na hospodářství žadatele, kterou uvede do žádosti o poskytnutí dotace, a výměry zemědělské půdy vedené v evidenci využití půdy a zařazené v roce podání žádosti o dotaci do titulu podle
+
+1\. § 2 písm. d) bodů 1 až 5 a 7 až 10,
+
+2\. § 2 písm. e) bodů 1 až 6, a to od druhého roku trvání závazku podle § 3 odst. 3, nebo
+
+3\. § 2 písm. b) bodů 1 až 5 a 7 až 12 nařízení vlády č. 80/2023 Sb.,
+
+v případě výpočtu pro účely podmínky uvedené v odstavci 2,
+
+c) a výměry zemědělské půdy vedené v evidenci využití půdy s druhem zemědělské kultury orná půda, trvalý travní porost a trvalá kultura k danému dni kontrolního období v případě výpočtu pro účely podmínky uvedené v odstavci 3.
+
+(7) Podmínka uvedená v odstavci 1 se neuplatní u žadatele, který má zemědělskou kulturu trvalý travní porost zařazenu výlučně do titulu podle § 2 písm. d) bodů 6 až 8.
+
+#### § 18 – Ponechávání nepokosených ploch
+
+(1) Žadatel na dílu půdního bloku zařazeného do titulu ošetřování travních porostů podle § 2 písm. d) bodů 1 až 5 s výměrou nejméně 12 hektarů ponechá každoročně při zemědělském obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., o stanovení podmínek poskytování přímých plateb zemědělcům nepokosenou plochu
+
+a) o rozloze nejméně 3 %, rozlohy dílu půdního bloku způsobilé k poskytnutí dotace,
+
+b) nejvýše 10 %, rozlohy dílu půdního bloku způsobilé k poskytnutí dotace,
+
+c) s maximální rozlohou jedné nepokosené plochy, která činí 1 hektar, a
+
+d) do 15. srpna nebo do 15. září, pokud se jedná o díl půdního bloku podle § 19 odst. 2 písm. a) bodu 1 s termínem seče s odklizením biomasy nebo pastvou do 31. srpna příslušného kalendářního roku, § 19 odst. 3 písm. a) bodu 4 nebo § 19 odst. 4 písm. a) bodu 4, nebo do 15. října, pokud se jedná o díl půdního bloku podle § 19 odst. 5 písm. a) bodu 3 nebo § 19 odst. 6 písm. a) bodu 3, nejpozději však do termínu první seče následujícího kalendářního roku; při posuzování výměry dílu půdního bloku pro účely plnění podmínky uvedené v tomto odstavci se od výměry příslušného dílu půdního bloku uvedené v evidenci využití půdy odečte výměra krajinného prvku podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(2) Podmínka uvedená v odstavci 1 se nevztahuje na díl půdního bloku zařazený do titulu ošetřování travních porostů podle § 2 písm. d) bodu 1, na kterém
+
+a) žadatel do 31. července příslušného kalendářního roku provede pastvu, nebo
+
+b) je v evidenci využití půdy ke dni podání žádosti o poskytnutí dotace evidováno provádění obnovy podle § 9 odst. 6 s datem zahájení obnovy nejpozději ke dni podání žádosti o poskytnutí dotace.
+
+(3) Žadatel může ponechat nepokosenou plochu podle odstavce 1 na dílu půdního bloku zařazeného do titulu ošetřování travních porostů podle § 2 písm. d) bodů 1 až 5 s výměrou nižší než 12 hektarů. V případě dobrovolného ponechání nepokosené plochy se na nesplnění podmínek uvedených v odstavci 1 vztahuje snížení dotace podle § 27 odst. 1 písm. c) bodu 4 nebo § 28 odst. 1 písm. d) bodu 4 obdobně.
+
+(4) Žadatel uvede v žádosti o poskytnutí dotace, zda se jedná o díl půdního bloku podle
+
+a) odstavce 1, na kterém žadatel ponechá nepokosenou plochu a žádá o poskytnutí dotace za ponechání nepokosené plochy,
+
+b) odstavce 2, na který nežádá o poskytnutí dotace za ponechání nepokosené plochy, nebo
+
+c) odstavce 3, na kterém se dobrovolně rozhodl ponechávat nepokosenou plochu, a na který žádá o poskytnutí dotace za ponechání nepokosené plochy.
+
+#### § 19 – Bližší podmínky provádění podopatření ošetřování travních porostů
+
+(1) Žadatel po celou dobu zařazení do podopatření ošetřování travních porostů na celé výměře zemědělské půdy s kulturou trvalý travní porost vedené v evidenci využití půdy
+
+a) aplikuje hnojiva<sup>10</sup>) na výměru dílu půdního bloku vedenou v evidenci využití půdy k 31. prosinci příslušného kalendářního roku nejvýše do limitu uvedeného pro trvalý travní porost v § 7 a v příloze č. 3 k nařízení vlády č. 262/2012 Sb., přičemž limit aplikovaného množství dusíku se vypočte podle § 7 odst. 5 nařízení vlády č. 262/2012 Sb., a
+
+b) nepoužívá ke hnojení upravené kaly<sup>11</sup>) a odpadní vody<sup>12</sup>).
+
+(2) Žadatel na dílu půdního bloku zařazeného do titulu obecná péče o extenzivní louky a pastviny podle § 2 písm. d) bodu 1 každoročně
+
+a) zajistí
+
+1\. zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., za podmínek stanovených v písmenech c) a f), a to sečí s odklizením biomasy nebo pastvou v termínu do 31. července příslušného kalendářního roku nebo v termínu do 31. srpna příslušného kalendářního roku, jedná-li se o díl půdního bloku, který se podle evidence využití půdy nachází alespoň z 50 % v oblasti podle § 2 odst. 1 písm. a) bodu 1 nařízení vlády č. 61/2023 Sb., o stanovení podmínek provádění opatření pro oblasti s přírodními omezeními, a
+
+2\. provedení druhé seče s odklizem biomasy nebo spasení trvalého travního porostu nejpozději do 31. října příslušného kalendářního roku;
+
+seč a pastvu lze kombinovat,
+
+b) provádí seč v případě údržby trvalého travního porostu sečením od jednoho okraje dílu půdního bloku ke druhému nebo od středu dílu půdního bloku k okrajům,
+
+c) provádí v případě údržby trvalého travního porostu pasením likvidaci nedopasků sečením nebo mulčováním do 30 dnů od skončení pastvy, nebo, v případě celoroční pastvy, nejpozději do 31. prosince příslušného kalendářního roku; tato podmínka se nevztahuje na plochu s průměrnou sklonitostí převyšující 10°; povinnost likvidovat nedopasky může být měněna na základě souhlasného stanoviska místně příslušného orgánu ochrany přírody,
+
+d) nepoužívá ke hnojení kejdu<sup>10</sup>), s výjimkou kejdy skotu,
+
+e) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze bodově a
+
+f) ve zvláště chráněných územích<sup>13</sup>), ochranných pásmech národních parků<sup>14</sup>) a v oblastech soustavy Natura 2000<sup>15</sup>) neprovádí mulčování, obnovu trvalého travního porostu nebo přísev trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody.
+
+(3) Žadatel na dílu půdního bloku zařazeného do titulu mezofilní a vlhkomilné louky hnojené podle § 2 písm. d) bodu 2 každoročně
+
+a) zajistí zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., o stanovení podmínek poskytování přímých plateb zemědělcům za podmínky uvedené v písmenu f), a to tak, že provádí první seč spolu s odklizením biomasy v jednom z následujících termínů, který je pro daný díl půdního bloku stanoven místně příslušným orgánem ochrany přírody v evidenci využití půdy
+
+1\. do 30. června příslušného kalendářního roku,
+
+2\. od 15. června do 31. července příslušného kalendářního roku,
+
+3\. do 31. července příslušného kalendářního roku, nebo
+
+4\. od 15. července do 31. srpna příslušného kalendářního roku;
+
+stanovený termín je možno v evidenci využití půdy mezi jednotlivými roky trvání závazku měnit,
+
+b) provádí seč od jednoho okraje dílu půdního bloku ke druhému nebo od středu dílu půdního bloku k okrajům,
+
+c) používá ke hnojení pouze hnůj nebo kompost; za aplikaci hnojiva se nepovažuje pastva zvířat nebo vápnění trvalého travního porostu,
+
+d) provádí případné přepasení nejdříve 15. srpna příslušného kalendářního roku, pokud je díl půdního bloku v evidenci využití půdy veden jako vhodný k přepasení,
+
+e) neprovádí příkrm pasených zvířat; za příkrm se pro účely tohoto nařízení nepovažuje podávání minerálních lizů a napájení,
+
+f) neprovádí mulčování, obnovu trvalého travního porostu, přísev trvalého travního porostu nebo vápnění trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody,
+
+g) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze se souhlasným stanoviskem místně příslušného orgánu ochrany přírody, a to pouze bodově a
+
+h) provádí druhou seč s odklizením biomasy nejpozději do 31. října příslušného kalendářního roku.
+
+(4) Žadatel na dílu půdního bloku zařazeného do titulu mezofilní a vlhkomilné louky nehnojené podle § 2 písm. d) bodu 3 každoročně
+
+a) zajistí zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., o stanovení podmínek poskytování přímých plateb zemědělcům za podmínky uvedené v písmenu f), a to tak, že provádí první seč spolu s odklizením biomasy v jednom z následujících termínů, který je pro daný díl půdního bloku stanoven místně příslušným orgánem ochrany přírody v evidenci využití půdy
+
+1\. do 30. června příslušného kalendářního roku,
+
+2\. od 15. června do 31. července příslušného kalendářního roku,
+
+3\. do 31. července příslušného kalendářního roku, nebo
+
+4\. od 15. července do 31. srpna příslušného kalendářního roku;
+
+stanovený termín je možno v evidenci využití půdy mezi jednotlivými roky trvání závazku měnit,
+
+b) provádí seč od jednoho okraje dílu půdního bloku ke druhému nebo od středu dílu půdního bloku k okrajům,
+
+c) neaplikuje hnojiva<sup>10</sup>); za aplikaci hnojiva se nepovažuje pastva zvířat nebo vápnění trvalého travního porostu,
+
+d) provádí případné přepasení nejdříve 15. srpna příslušného kalendářního roku, pokud je díl půdního bloku v evidenci využití půdy veden jako vhodný k přepasení,
+
+e) neprovádí příkrm pasených zvířat; za příkrm se pro účely tohoto nařízení nepovažuje podávání minerálních lizů a napájení,
+
+f) neprovádí mulčování, obnovu trvalého travního porostu, přísev trvalého travního porostu nebo vápnění trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody,
+
+g) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze se souhlasným stanoviskem místně příslušného orgánu ochrany přírody a pouze bodově a
+
+h) provádí druhou seč s odklizením biomasy nejpozději do 31. října příslušného kalendářního roku.
+
+(5) Žadatel na dílu půdního bloku zařazeného do titulu horské a suchomilné louky hnojené podle § 2 písm. d) bodu 4 každoročně
+
+a) zajistí zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., o stanovení podmínek poskytování přímých plateb zemědělcům za podmínky uvedené v písmenu g), a to tak, že provádí minimálně jednou ročně seč spolu s odklizením biomasy v jednom z následujících termínů, který je pro daný díl půdního bloku stanoven místně příslušným orgánem ochrany přírody v evidenci využití půdy
+
+1\. do 31. července příslušného kalendářního roku,
+
+2\. od 15. července do 31. srpna příslušného kalendářního roku, nebo
+
+3\. od 15. srpna do 30. září příslušného kalendářního roku;
+
+stanovený termín je možno v evidenci využití půdy mezi jednotlivými roky trvání závazku měnit,
+
+b) provádí seč od jednoho okraje dílu půdního bloku ke druhému nebo od středu dílu půdního bloku k okrajům,
+
+c) používá ke hnojení pouze hnůj nebo kompost, za aplikaci hnojiva se nepovažuje vápnění trvalého travního porostu,
+
+d) aplikuje hnůj nebo kompost<sup>10</sup>) povinně jednou za trvání závazku, nejpozději však do čtvrtého roku trvání závazku a zároveň neaplikuje hnůj nebo kompost více než jednou za období trvání závazku; za aplikaci hnojiva se nepovažuje pastva zvířat,
+
+e) provádí případné přepasení nejdříve 15. srpna příslušného kalendářního roku, pokud je díl půdního bloku v evidenci využití půdy veden jako vhodný k přepasení,
+
+f) neprovádí příkrm pasených zvířat; za příkrm se pro účely tohoto nařízení nepovažuje podávání minerálních lizů a napájení,
+
+g) neprovádí mulčování, obnovu trvalého travního porostu, přísev trvalého travního porostu nebo vápnění trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody a
+
+h) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze se souhlasným stanoviskem místně příslušného orgánu ochrany přírody a pouze bodově.
+
+(6) Žadatel na dílu půdního bloku zařazeného do titulu horské a suchomilné louky nehnojené podle § 2 písm. d) bodu 5 každoročně
+
+a) zajistí zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., o stanovení podmínek poskytování přímých plateb zemědělcům za podmínky uvedené v písmenu f), a to tak, že provádí minimálně jednou ročně seč spolu s odklizením biomasy v jednom z následujících termínů, který je pro daný díl půdního bloku stanoven místně příslušným orgánem ochrany přírody v evidenci využití půdy
+
+1\. do 31. července příslušného kalendářního roku,
+
+2\. od 15. července do 31. srpna příslušného kalendářního roku, nebo
+
+3\. od 15. srpna do 30. září příslušného kalendářního roku;
+
+stanovený termín je možno v evidenci využití půdy mezi jednotlivými roky trvání závazku měnit,
+
+b) provádí seč od jednoho okraje dílu půdního bloku ke druhému nebo od středu dílu půdního bloku k okrajům,
+
+c) neaplikuje hnojiva<sup>10</sup>); za aplikaci hnojiva se nepovažuje pastva zvířat nebo vápnění trvalého travního porostu,
+
+d) provádí případné přepasení nejdříve 15. srpna příslušného kalendářního roku, pokud je díl půdního bloku v evidenci využití půdy veden jako vhodný k přepasení,
+
+e) neprovádí příkrm pasených zvířat; za příkrm se pro účely tohoto nařízení nepovažuje podávání minerálních lizů a napájení,
+
+f) neprovádí mulčování, obnovu trvalého travního porostu, přísev trvalého travního porostu nebo vápnění trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody a
+
+g) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze se souhlasným stanoviskem místně příslušného orgánu ochrany přírody a pouze bodově.
+
+(7) Žadatel na dílu půdního bloku zařazeného do titulu trvale podmáčené a rašelinné louky podle § 2 písm. d) bodu 6 každoročně
+
+a) zajistí zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., o stanovení podmínek poskytování přímých plateb zemědělcům za podmínky uvedené v písmenu e), a to tak, že provádí minimálně jednou ročně seč spolu s odklizením biomasy v jednom z následujících termínů, který je pro daný díl půdního bloku stanoven místně příslušným orgánem ochrany přírody v evidenci využití půdy
+
+1\. od 15. května do 7. července příslušného kalendářního roku,
+
+2\. od 15. června do 7. srpna příslušného kalendářního roku,
+
+3\. od 15. července do 7. září příslušného kalendářního roku, nebo
+
+4\. od 15. srpna do 30. září příslušného kalendářního roku;
+
+stanovený termín je možno v evidenci využití půdy mezi jednotlivými roky trvání závazku měnit,
+
+b) provádí seč a odklizení biomasy ručně nesenou nebo ručně vedenou technikou,
+
+c) neaplikuje hnojiva<sup>10</sup>), pomocné půdní látky<sup>17</sup>) nebo pomocné rostlinné přípravky<sup>18</sup>), za aplikaci hnojiva se nepovažuje vápnění trvalého travního porostu,
+
+d) neprovádí pastvu zvířat,
+
+e) neprovádí mulčování, obnovu trvalého travního porostu, přísev trvalého travního porostu, odvodnění travního porostu,
+
+f) neprovádí válení, smykování a vápnění trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody a
+
+g) neaplikuje herbicidy.
+
+(8) Žadatel na dílu půdního bloku zařazeného do titulu ochrana modrásků podle § 2 písm. d) bodu 7 každoročně
+
+a) provádí seč spolu s odklizením biomasy v jednom z následujících termínů, který je pro daný díl půdního bloku stanoven místně příslušným orgánem ochrany přírody v evidenci využití půdy, pouze
+
+1\. do 10. června příslušného kalendářního roku,
+
+2\. do 10. června příslušného kalendářního roku a zároveň od 1. září do 30. září příslušného kalendářního roku; v případě vymezení v evidenci využití půdy lze druhou seč nahradit pastvou, nebo
+
+3\. od 1. září do 30. září příslušného kalendářního roku;
+
+stanovený termín je možno v evidenci využití půdy mezi jednotlivými roky trvání závazku měnit,
+
+b) ponechá při seči nepokosenou plochu
+
+1\. o rozloze nejméně 15 % rozlohy dílu půdního bloku,
+
+2\. a nejvýše 20 % rozlohy dílu půdního bloku a
+
+3\. minimálně do termínu následující seče, nejpozději však do termínu první seče následujícího kalendářního roku,
+
+c) provádí seč od jednoho okraje dílu půdního bloku ke druhému nebo od středu dílu půdního bloku k okrajům,
+
+d) neaplikuje hnojiva<sup>10</sup>); za aplikaci hnojiva se nepovažuje pastva zvířat nebo vápnění trvalého travního porostu,
+
+e) provádí případné přepasení nejdříve 1. října příslušného kalendářního roku, pokud je díl půdního bloku v evidenci využití půdy veden jako vhodný k přepasení, s výjimkou postupu podle písmene a) bodu 2,
+
+f) neprovádí příkrm pasených zvířat; za příkrm se pro účely tohoto nařízení nepovažuje podávání minerálních lizů a napájení,
+
+g) neprovádí mulčování, válení, smykování, obnovu trvalého travního porostu, přísev trvalého travního porostu nebo vápnění trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody a
+
+h) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze se souhlasným stanoviskem místně příslušného orgánu ochrany přírody a pouze bodově.
+
+(9) Žadatel na dílu půdního bloku zařazeného do titulu ochrana chřástala polního podle § 2 písm. d) bodu 8 každoročně
+
+a) zajistí zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., o stanovení podmínek poskytování přímých plateb zemědělcům za podmínek uvedených v písmenech f) a h), a to tak, že provádí minimálně jednou ročně seč spolu s odklizením biomasy v termínu od 15. srpna do 30. září příslušného kalendářního roku,
+
+b) neprovádí seč na jednom dílu půdního bloku více jak jedním žacím strojem najednou,
+
+c) provádí seč od jednoho okraje dílu půdního bloku ke druhému nebo od středu dílu půdního bloku k okrajům,
+
+d) provádí přepasení travního porostu nejdříve 15. září příslušného kalendářního roku,
+
+e) může seč nahradit pastvou zvířat, a to v případě, že je tak uvedeno u příslušného dílu půdního bloku v evidenci využití půdy,
+
+f) provede v případě pastvy zvířat likvidaci nedopasků sečením nebo mulčováním do 30 dnů od skončení pastvy nebo nejpozději do 31. prosince příslušného kalendářního roku; tato podmínka se nevztahuje na plochu s průměrnou sklonitostí převyšující 10°; povinnost likvidovat nedopasky může být měněna na základě souhlasného stanoviska místně příslušného orgánu ochrany přírody,
+
+g) neaplikuje hnojiva<sup>10</sup>); za aplikaci hnojiva se nepovažuje pastva zvířat nebo vápnění trvalého travního porostu,
+
+h) neprovádí mulčování, válení, smykování, obnovu trvalého travního porostu, přísev trvalého travního porostu nebo vápnění trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody,
+
+i) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze se souhlasným stanoviskem místně příslušného orgánu ochrany přírody a pouze bodově a
+
+j) neprovádí příkrm pasených zvířat, s výjimkou provádění příkrmu na základě souhlasného stanoviska místně příslušného orgánu ochrany přírody; za příkrm se pro účely tohoto nařízení nepovažuje podávání minerálních lizů a napájení.
+
+(10) Žadatel na dílu půdního bloku zařazeného do titulu suché stepní trávníky a vřesoviště podle § 2 písm. d) bodu 9 každoročně
+
+a) zajistí údržbu travního porostu pastvou ovcí nebo koz v jednom z následujících termínů, který je pro příslušný díl půdního bloku stanoven v evidenci využití půdy,
+
+1\. od 1. dubna do 30. června příslušného kalendářního roku,
+
+2\. od 1. května do 31. října příslušného kalendářního roku,
+
+3\. od 15. července do 30. září příslušného kalendářního roku, nebo
+
+4\. od 1. dubna do 30. června a od 1. srpna do 30. září příslušného kalendářního roku;
+
+stanovený termín pastvy je možno v evidenci využití půdy mezi jednotlivými roky trvání závazku měnit,
+
+b) může provést pastvu skotem nebo koňmi, a to v případě, že je tak uvedeno u příslušného dílu půdního bloku v evidenci využití půdy, v termínu pastvy podle písmene a) stanoveném pro příslušný díl půdního bloku v evidenci využití půdy,
+
+c) zajistí přísun dusíku pastvou zvířat podle písmene a) nebo b), a to nejméně ve výši 5 kilogramů dusíku na 1 hektar příslušného dílu půdního bloku zařazeného v tomto titulu, jehož výměra odpovídá stavu v evidenci využití půdy k 31. prosinci příslušného kalendářního roku,
+
+d) provádí pastvu zvířat podle písmene a) nebo b) do výše přísunu dusíku nejvýše 50 kilogramů dusíku na 1 hektar příslušného dílu půdního bloku zařazeného v tomto titulu, jehož výměra odpovídá stavu v evidenci využití půdy k 31. prosinci příslušného kalendářního roku,
+
+e) může pastvu nahradit sečí, a to v případě, že je tak uvedeno u příslušného dílu půdního bloku v evidenci využití půdy; žadatel v tomto případě není povinen plnit podmínku uvedenou v písmenu c),
+
+f) zajistí likvidaci nedopasků sečením nebo mulčováním do 30 dnů od skončení pastvy; tato podmínka se nevztahuje na plochu s průměrnou sklonitostí převyšující 10°; povinnost likvidovat nedopasky může být měněna na základě souhlasného stanoviska místně příslušného orgánu ochrany přírody,
+
+g) neaplikuje hnojiva<sup>10</sup>); za aplikaci hnojiva se nepovažuje pastva zvířat podle písmene a) nebo b) nebo vápnění trvalého travního porostu,
+
+h) neprovádí mulčování, obnovu trvalého travního porostu nebo přísev trvalého travního porostu,
+
+i) neprovádí válení, smykování a vápnění trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody,
+
+j) neprovádí příkrm pasených zvířat; za příkrm se pro účely tohoto nařízení nepovažuje podávání minerálních lizů a napájení a
+
+k) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze se souhlasným stanoviskem místně příslušného orgánu ochrany přírody a pouze bodově.
+
+(11) Žadatel na dílu půdního bloku zařazeného do titulu druhově bohaté pastviny podle § 2 písm. d) bodu 10 každoročně
+
+a) zajistí
+
+1\. zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., za podmínek stanovených v písmenech c) a e), a to provedením seče s odklizem biomasy nebo pastvy v termínu do 31. července příslušného kalendářního roku nebo v termínu do 31. srpna příslušného kalendářního roku, jedná-li se o díl půdního bloku, který se podle evidence využití půdy nachází alespoň z 50 % v oblasti podle § 2 odst. 1 písm. a) bodu 1 nařízení vlády č. 61/2023 Sb., a
+
+2\. pastvu zvířat do 31. října příslušného kalendářního roku,
+
+b) zajistí přísun dusíku pastvou zvířat nejméně ve výši 10 kilogramů dusíku na 1 hektar příslušného dílu půdního bloku zařazeného v tomto titulu, jehož výměra odpovídá stavu v evidenci využití půdy k 31. prosinci příslušného kalendářního roku,
+
+c) zajistí likvidaci nedopasků sečením nebo mulčováním
+
+1\. do 30 dnů od skončení pastvy, nebo
+
+2\. v případě celoroční pastvy nejpozději do 31. prosince příslušného kalendářního roku;
+
+tato podmínka se nevztahuje na plochu s průměrnou sklonitostí převyšující 10°; povinnost likvidovat nedopasky může být měněna na základě souhlasného stanoviska místně příslušného orgánu ochrany přírody,
+
+d) neaplikuje hnojiva<sup>10</sup>); za aplikaci hnojiva se nepovažuje pastva zvířat nebo vápnění trvalého travního porostu,
+
+e) neprovádí mulčování, obnovu trvalého travního porostu, přísev trvalého travního porostu nebo vápnění trvalého travního porostu bez souhlasného stanoviska místně příslušného orgánu ochrany přírody,
+
+f) neprovádí příkrm pasených zvířat, s výjimkou provádění příkrmu na základě souhlasného stanoviska místně příslušného orgánu ochrany přírody, a to pouze v období od 1. dubna do 31. května příslušného kalendářního roku; za příkrm se pro účely tohoto nařízení nepovažuje podávání minerálních lizů a napájení a
+
+g) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze se souhlasným stanoviskem místně příslušného orgánu ochrany přírody a pouze bodově.
+
+(12) Odložení nebo vynechání jedné ze sečí nebo pastvy, popřípadě stanovení dřívějšího termínu seče nebo pastvy, podle odstavce 2 písm. a), odstavce 3 písm. a) nebo h), odstavce 4 písm. a) nebo h), odstavce 5 písm. a), odstavce 6 písm. a), odstavce 7 písm. a), odstavce 8 písm. a), odstavce 9 písm. a), odstavce 10 písm. a) nebo odstavce 11 písm. a) je možné pouze z důvodu ochrany přírody podle zákona o ochraně přírody a krajiny, a to na základě souhlasného stanoviska místně příslušného orgánu ochrany přírody.
+
+(13) Snížení limitu přívodu dusíku pastvou podle odstavce 11 písm. b) je možné pouze z důvodu ochrany přírody podle zákona o ochraně přírody a krajiny, a to na základě souhlasného stanoviska místně příslušného orgánu ochrany přírody.
+
+(14) Souhlasné stanovisko místně příslušného orgánu ochrany přírody obdrží Fond nejpozději v den, kdy
+
+a) měla být seč nebo pastva provedena, pokud se jedná o souhlasné stanovisko místně příslušného orgánu ochrany přírody podle odstavce 12 s odložením nebo vynecháním jedné ze sečí nebo pastvy,
+
+b) hodlá žadatel seč nebo pastvu provést, pokud se jedná o souhlasné stanovisko místně příslušného orgánu ochrany přírody podle odstavce 12 se stanovením dřívějšího termínu seče nebo pastvy, nebo
+
+c) měla být splněna podmínka minimálního přívodu dusíku pastvou, pokud se jedná o souhlasné stanovisko místně příslušného orgánu ochrany přírody podle odstavce 13.
+
+(15) Obdrží-li Fond souhlasné stanovisko místně příslušného orgánu ochrany přírody po dni uvedeném v odstavci 14, Fond k takovému předložení nepřihlédne.
+
+(16) O skončení pastvy podle odstavce 2 písm. c), odstavce 9 písm. f), odstavce 10 písm. f) nebo odstavce 11 písm. c) se nejedná, pokud je pastva přerušena nejdéle na 29 dnů.
+
+#### § 20 – Podopatření zatravňování orné půdy
+
+(1) Žadatel v žádosti o zařazení do podopatření zatravňování orné půdy uvede
+
+a) seznam jím obhospodařovaných dílů půdních bloků vedených v evidenci využití půdy na žadatele s druhem zemědělské kultury standardní orná půda, které hodlá zařadit do podopatření zatravňování orné půdy, včetně uvedení jednotlivých titulů podle § 2 písm. e) bodů 1 až 6, a
+
+b) údaj o výměře jednotlivých dílů půdních bloků podle písmene a) vedených v evidenci využití půdy na žadatele.
+
+(2) Součástí žádosti o zařazení do podopatření zatravňování orné půdy je geoprostorová informace o dílech půdních bloků, které žadatel uvedl v žádosti. Žadatel u jednotlivých dílů půdních bloků zakreslených v mapě označí titul podle § 2 písm. e) bodů 1 až 6, do kterého na daném dílu půdního bloku žádá o zařazení.
+
+(3) Zařadit do podopatření zatravňování orné půdy lze díl půdního bloku, na kterém není uplatňováno
+
+a) žádné z podopatření uvedených v § 2,
+
+b) agroenvironmentální opatření podle § 2 písm. a) bodu 2 anebo § 2 písm. b) nebo c) nařízení vlády č. 79/2007 Sb., nebo
+
+c) žádné z podopatření uvedených v § 2 nařízení vlády č. 330/2019 Sb.
+
+(4) Minimální výměra pro zařazení do podopatření zatravňování orné půdy činí 0,5 hektaru zemědělské půdy s druhem zemědělské kultury standardní orná půda podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(5) Díl půdního bloku, který neměl v období od 20. dubna 2004 do 31. prosince 2014 v evidenci využití půdy vedenu kulturu travní porost a od 1. ledna 2015 do dne doručení žádosti o zařazení v evidenci využití půdy vedenou kulturu trvalý travní porost, lze zařadit do podopatření
+
+a) podle § 2 písm. e) bodu 1, pokud se jedná o díl půdního bloku s druhem zemědělské kultury standardní orná půda, který se nenachází alespoň z 50 % ve zvláště chráněném území<sup>13</sup>), ochranném pásmu národního parku<sup>14</sup>) nebo v území soustavy Natura 2000<sup>15</sup>) a zároveň
+
+1\. který se nachází alespoň z 50 % v oblastech zranitelných dusičnany<sup>19</sup>), nebo
+
+2\. u kterého je alespoň 50 % jeho výměry v evidenci využití půdy vymezeno jako silně nebo mírně erozně ohrožená plocha<sup>20</sup>),
+
+b) podle § 2 písm. e) bodu 2 nebo 3, pokud se jedná o díl půdního bloku s druhem zemědělské kultury standardní orná půda, který se nachází alespoň z 50 % ve zvláště chráněném území<sup>13</sup>), ochranném pásmu národního parku<sup>14</sup>) nebo v území soustavy Natura 2000<sup>15</sup>) a zároveň
+
+1\. který se nachází alespoň z 50 % v oblastech zranitelných dusičnany<sup>19</sup>), nebo
+
+2\. u kterého je alespoň 50 % jeho výměry v evidenci využití půdy vymezeno jako silně nebo mírně erozně ohrožená plocha<sup>20</sup>),
+
+c) podle § 2 písm. e) bodu 4, pokud se jedná o díl půdního bloku s druhem zemědělské kultury standardní orná půda, který se nenachází alespoň z 50 % ve zvláště chráněném území<sup>13</sup>), ochranném pásmu národního parku<sup>14</sup>) nebo v území soustavy Natura 2000<sup>15</sup>) a zároveň
+
+1\. který podle údajů vedených v evidenci využití půdy sousedí s útvarem povrchových vod<sup>21</sup>), nebo
+
+2\. jestliže se alespoň z 50 % nachází v ochranném pásmu vodních zdrojů<sup>22</sup>), nebo
+
+d) podle § 2 písm. e) bodu 5 nebo 6, pokud se jedná o díl půdního bloku s druhem zemědělské kultury standardní orná půda, který se nachází alespoň z 50 % ve zvláště chráněném území<sup>13</sup>), ochranném pásmu národního parku<sup>14</sup>) nebo v území soustavy Natura 2000<sup>15</sup>) a zároveň
+
+1\. který podle údajů vedených v evidenci využití půdy sousedí s útvarem povrchových vod<sup>21</sup>), nebo
+
+2\. jestliže se alespoň z 50 % nachází v ochranném pásmu vodních zdrojů<sup>22</sup>),
+
+pro účely tohoto nařízení se za díl půdního bloku sousedícím s útvarem povrchových vod považuje díl půdního bloku, jehož jakákoli část se podle údajů vedených v evidenci využití půdy nachází ve vzdálenosti do 25 metrů včetně od útvaru povrchových vod.
+
+(6) Jde-li o zařazení do titulu podle § 2 písm. e) bodů 4 až 6, zatravní žadatel celou plochu dílu půdního bloku sousedící s vodním útvarem tak, aby šíře zatravněné plochy činila nejméně 15 metrů.
+
+(7) Žadatel v prvním roce zařazení do titulu podle § 2 písm. e) bodů 1 až 6
+
+a) založí travní porost pomocí čistosevu nebo podsevu
+
+1\. nejpozději do 31. května příslušného kalendářního roku,
+
+2\. travní směsí osiv podle § 12 odst. 2 písm. a) nebo b) zákona o oběhu osiva a sadby, přičemž výsev musí být proveden nejpozději do 24 měsíců ode dne vydání míchacího protokolu, popřípadě uznaným osivem nebo u druhů neuvedených v druhovém seznamu podle zákona o oběhu osiva a sadby osivem kontrolovaným úředně nebo pod úředním dozorem podle zákona o oběhu osiva a sadby, jde-li o díl půdního bloku podle § 2 písm. e) bodu 1 nebo 4,
+
+3\. druhově bohatou travní směsí osiv schválenou místně příslušným orgánem ochrany přírody, jde-li o díl půdního bloku podle § 2 písm. e) bodu 2 nebo 5, nebo
+
+4\. regionální travní směsí osiv schválenou místně příslušným orgánem ochrany přírody, jde-li o díl půdního bloku podle § 2 písm. e) bodu 3 nebo 6,
+
+b) oznámí Fondu v souladu s § 3g zákona o zemědělství změnu kultury podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů ze standardní orné půdy na travní porost, v případě změny na kulturu trvalý travní porost se nejedná o nesplnění podmínky,
+
+c) aplikuje hnojiva<sup>10</sup>) pouze před založením travního porostu, nejpozději však do 31. května příslušného kalendářního roku,
+
+d) neprovádí na zatravněných plochách pastvu zvířat a
+
+e) zajistí
+
+1\. zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 50/2015 Sb. a
+
+2\. provedení druhé seče s odklizením biomasy do 31. října příslušného kalendářního roku.
+
+(8) Žadatel po celou dobu zařazení do titulu podle § 2 písm. e) bodů 1 až 6
+
+a) neaplikuje hnojiva<sup>10</sup>) od druhého roku trvání závazku, za aplikaci hnojiva se nepovažuje pastva zvířat a vápnění; v případě zařazení do titulu podle § 2 písm. e) bodů 2, 3, 5 a 6 se vápnění provádí pouze se souhlasným stanoviskem místně příslušného orgánu ochrany přírody,
+
+b) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze v prvních dvou letech trvání závazku, a to pouze bodově,
+
+c) zajistí
+
+1\. zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., za podmínky uvedené v písmenu d), a to provedením seče s odklizem biomasy nebo pastvy v termínu do 31. července příslušného kalendářního roku nebo v termínu do 31. srpna příslušného kalendářního roku, jedná-li se o díl půdního bloku, který se podle evidence využití půdy nachází alespoň z 50 % v oblasti podle § 2 odst. 1 písm. a) bodu 1 nařízení vlády č. 61/2023 Sb., a
+
+2\. provedení druhé seče s odklizením biomasy nebo pastvu do 31. října příslušného kalendářního roku,
+
+d) zajistí likvidaci nedopasků sečením nebo mulčováním
+
+1\. do 30 dní od skončení pastvy, nebo
+
+2\. v případě celoroční pastvy nejpozději do 31. prosince příslušného kalendářního roku;
+
+tato podmínka se nevztahuje na plochy s průměrnou sklonitostí převyšující 10°,
+
+e) neprovádí rozorání nebo obnovu travního porostu na plochách zařazených do podopatření podle § 2 písm. e) a
+
+f) provádí dosev travního porostu na plochách zařazených do titulu podle § 2 písm. e) bodů 2, 3, 5 a 6 pouze směsí shodného složení se směsí, kterou bylo provedeno zatravnění v prvním roce trvání závazku, nebo směsí schválenou místně příslušným orgánem ochrany přírody.
+
+(9) O skončení pastvy podle odstavce 8 písm. d) se nejedná, pokud je pastva přerušena nejdéle na 29 dnů.
+
+(10) Za porušení podmínky uvedené v odstavci 8 písm. c) se nepovažuje, pokud je na daném díle půdního bloku ponechána nepokosená plocha podle nařízení vlády upravujícího poskytování přímých plateb zemědělcům.
+
+#### § 21 – Podopatření biopásy
+
+(1) Žadatel v žádosti o zařazení do podopatření biopásy uvede
+
+a) seznam všech jím obhospodařovaných dílů půdních bloků vedených v evidenci využití půdy na žadatele s druhem zemědělské kultury standardní orná půda, které hodlá zařadit do podopatření biopásy včetně uvedení jednotlivých titulů podle § 2 písm. f) bodu 1 nebo 2, a
+
+b) údaj o výměře biopásu podle § 2 písm. f) bodu 1 nebo 2, které hodlá zařadit do podopatření podle § 2 písm. f) bodu 1 nebo 2.
+
+(2) Součástí žádosti o zařazení do podopatření biopásy je zákres příslušných dílů půdních bloků, které žadatel uvedl v této žádosti, včetně geoprostorové informace o dílech půdních bloků, které žadatel uvedl v žádosti. Žadatel u jednotlivých dílů půdních bloků zakreslených v mapě označí titul podle § 2 písm. f) bodu 1 nebo 2, do kterého na daném dílu půdního bloku žádá o zařazení. V případě, že dojde ke změně umístění biopásu podle § 2 písm. f) bodu 1 nebo 2, předloží žadatel společně s žádostí o poskytnutí dotace podávané v příslušném kalendářním roce, kdy ke změně umístění došlo, novou mapu dílů půdních bloků.
+
+(3) Zařadit do podopatření biopásy lze díl půdního bloku, na kterém není uplatňováno
+
+a) žádné z podopatření uvedených v § 2,
+
+b) agroenvironmentální opatření podle § 2 písm. a) bodu 2, § 2 písm. b) nebo § 2 písm. c) bodu 1 nebo 3 nařízení vlády č. 79/2007 Sb.,
+
+c) podopatření podle
+
+1\. § 2 písm. f) bodu 2, v případě zařazení do podopatření podle § 2 písm. f) bodu 1, nebo
+
+2\. § 2 písm. f) bodu 1, v případě zařazení do podopatření podle § 2 písm. f) bodu 2, nebo
+
+d) žádné z podopatření uvedených v § 2 nařízení vlády č. 330/2019 Sb.
+
+(4) Minimální výměra pro zařazení do podopatření biopásy činí 2 hektary zemědělské půdy s druhem zemědělské kultury standardní orná půda podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů, na které žadatel hodlá založit biopás.
+
+(5) Žadatel vytvoří biopás
+
+a) o šíři
+
+1\. nejméně 6 metrů,
+
+2\. nejvýše 24 metrů, přičemž na části příslušného dílu půdního bloku, na které není vytvořen biopás, může pěstovat plodinu ze směsi plodin pro biopás, pouze je-li pěstována samostatně nebo jako hlavní plodina s podsevem,
+
+b) v souvislé délce nejméně 30 metrů,
+
+c) o souhrnné ploše nejvýše 40 % rozlohy příslušného dílu půdního bloku,
+
+d) při okrajích nebo uvnitř dílu půdního bloku ve směru orby a
+
+e) nejméně 50 metrů od dálnice, silnice I. nebo II. třídy nebo od dalšího biopásu uvnitř příslušného dílu půdního bloku, přičemž oddělení biopásů prolukou kratší než 50 m není považováno za nesplnění podmínky.
+
+(6) Žadatel po celou dobu zařazení do podopatření podle § 2 písm. f) neaplikuje na plochu biopásu
+
+a) přípravky na ochranu rostlin a
+
+b) hnojiva<sup>10</sup>).
+
+(7) Žadatel každoročně v průběhu zařazení do titulu podle § 2 písm. f) bodu 1
+
+a) založí krmný biopás
+
+1\. nejpozději do 15. června příslušného kalendářního roku,
+
+2\. stanovenou směsí osiva uvedenou v části A přílohy č. 14 k tomuto nařízení, vytvořenou z uznaného osiva nebo u druhů neuvedených v druhovém seznamu podle zákona o oběhu osiva a sadby z osiva kontrolovaného úředně nebo pod úředním dozorem podle zákona o oběhu osiva a sadby,
+
+3\. přičemž výsev musí být proveden nejpozději do 24 měsíců ode dne vydání míchacího protokolu nebo vydání osvědčení prokazujícího kvalitu osiva podle zákona o oběhu osiva a sadby,
+
+b) ponechá vytvořený krmný biopás bez zásahu zemědělskou nebo jinou technikou do 15. března následujícího kalendářního roku a
+
+c) zapraví porost biopásu do půdy v období od 16. března do 15. června následujícího kalendářního roku.
+
+(8) Žadatel v průběhu zařazení do titulu podle § 2 písm. f) bodu 2
+
+a) založí nektarodárný biopás
+
+1\. nejpozději do 15. června příslušného kalendářního roku,
+
+2\. stanovenou směsí osiva uvedenou v části B přílohy č. 14 k tomuto nařízení, vytvořenou z uznaného osiva nebo u druhů neuvedených v druhovém seznamu podle zákona o oběhu osiva a sadby z osiva kontrolovaného úředně nebo pod úředním dozorem podle zákona o oběhu osiva a sadby,
+
+3\. přičemž výsev musí být proveden nejpozději do 24 měsíců ode dne vydání míchacího protokolu nebo vydání osvědčení prokazujícího kvalitu osiva podle zákona o oběhu osiva a sadby,
+
+b) založený biopás
+
+1\. ponechá na stejné ploše minimálně po dobu dvou, maximálně však po dobu 3 po sobě následujících kalendářních let a
+
+2\. po uplynutí období podle bodu 1 zapraví biopás do půdy v termínu od 16. března do 15. června příslušného kalendářního roku,
+
+c) založí následný nektarodárný biopás
+
+1\. do 15. června třetího roku závazku, je-li nektarodárný biopás založený podle písmene a) realizován jako dvouletý, nebo
+
+2\. do 15. června čtvrtého roku závazku, je-li nektarodárný biopás založený podle písmene a) realizován jako tříletý,
+
+d) provádí každoročně seč s odklizením biomasy v termínu od 1. července do 15. září příslušného kalendářního roku,
+
+e) nepoužívá plochu biopásu k pojezdům zemědělské nebo jiné techniky, ani jako souvrať, s výjimkou plnění podmínky uvedené v písmeni d) a
+
+f) uvádí v žádosti o poskytnutí dotace, zda v příslušném kalendářním roce založí nektarodárný biopás.
+
+#### § 22 – Podopatření ochrana čejky chocholaté
+
+(1) Žadatel v žádosti o zařazení do podopatření ochrana čejky chocholaté uvede
+
+a) seznam jím obhospodařovaných dílů půdních bloků vedených v evidenci využití půdy na žadatele s druhem zemědělské kultury standardní orná půda, které hodlá zařadit do podopatření ochrana čejky chocholaté, a
+
+b) údaj o výměře jednotlivých dílů půdních bloků podle písmene a) vedených v evidenci využití půdy na žadatele.
+
+(2) Součástí žádosti o zařazení do podopatření ochrana čejky chocholaté je geoprostorová informace o dílech půdních bloků, které žadatel uvedl v žádosti.
+
+(3) Zařadit do podopatření ochrana čejky chocholaté lze díl půdního bloku, na kterém
+
+a) není uplatňováno žádné z podopatření uvedených v § 2,
+
+b) není uplatňováno agroenvironmentální opatření podle § 2 písm. a) bodu 2, anebo § 2 písm. b) nebo c) nařízení vlády č. 79/2007 Sb.,
+
+c) není uplatňováno žádné z podopatření uvedených v § 2 nařízení vlády č. 330/2019 Sb., nebo
+
+d) je v evidenci využití půdy vedeno hnízdiště čejky chocholaté podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(4) Minimální výměra pro zařazení do podopatření ochrana čejky chocholaté činí 0,5 hektaru zemědělské půdy s druhem zemědělské kultury standardní orná půda podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(5) Žadatel po celou dobu zařazení do podopatření ochrana čejky chocholaté na dílu půdního bloku
+
+a) zabezpečí plochu hnízdiště proti přejezdům zemědělské nebo jiné techniky, a to
+
+1\. v období od 15. dubna do 15. června příslušného kalendářního roku, v případě prvního roku trvání závazku, nebo
+
+2\. od druhého roku závazku v období od 1. ledna do 15. června příslušného kalendářního roku,
+
+tato podmínka se nevztahuje na plochu dílu půdního bloku do vzdálenosti maximálně 4 metrů od okraje příslušného dílu půdního bloku,
+
+b) založí porost směsí plodin podle přílohy č. 15 k tomuto nařízení alespoň v minimálním výsevu podle přílohy č. 15 k tomuto nařízení, a to nejdříve od 16. června, nejpozději však do 15. července příslušného kalendářního roku,
+
+c) používá k výsevu výhradně směs osiva podle § 12 odst. 2 písm. a) nebo b) zákona o oběhu osiva a sadby; přičemž výsev musí být proveden nejpozději do 24 měsíců ode dne vydání míchacího protokolu, popřípadě používá uznané osivo nebo u druhů neuvedených v druhovém seznamu podle zákona o oběhu osiva a sadby osivo kontrolované úředně nebo pod úředním dozorem podle zákona o oběhu osiva a sadby, přičemž výsev musí být proveden nejpozději do 24 měsíců ode dne vydání osvědčení prokazujícího kvalitu osiva podle zákona o oběhu osiva a sadby a
+
+d) zapraví do půdy porost směsi plodin v termínu od 15. listopadu do 31. prosince příslušného kalendářního roku.
+
+#### § 22a – Podopatření zatravňování drah soustředěného odtoku
+
+(1) Žadatel v žádosti o zařazení do podopatření zatravňování drah soustředěného odtoku uvede
+
+a) seznam jím obhospodařovaných dílů půdních bloků vedených v evidenci využití půdy na žadatele s druhem zemědělské kultury standardní orná půda, které hodlá zařadit do podopatření zatravňování drah soustředěného odtoku, a
+
+b) údaj o výměře jednotlivých dílů půdních bloků podle písmene a) vedených v evidenci využití půdy na žadatele.
+
+(2) Součástí žádosti o zařazení do podopatření zatravňování drah soustředěného odtoku je geoprostorová informace o dílech půdních bloků, které žadatel uvedl v žádosti.
+
+(3) Zařadit do podopatření zatravňování drah soustředěného odtoku lze díl půdního bloku, na kterém
+
+a) není uplatňováno žádné z podopatření uvedených v § 2,
+
+b) není uplatňováno agroenvironmentální opatření podle § 2 písm. c) bodu 1 nařízení vlády č. 79/2007 Sb.,
+
+c) nebyla v období od 20. dubna 2004 do 31. prosince 2014 vedena v evidenci využití půdy kultura travní porost nebo od 1. ledna 2015 do dne doručení žádosti o zařazení nebyla vedena v evidenci využití půdy kultura trvalý travní porost,
+
+d) není uplatňováno žádné z podopatření uvedených v § 2 nařízení vlády č. 330/2019 Sb., nebo
+
+e) je v evidenci využití půdy vymezena dráha soustředěného odtoku podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(4) Minimální výměra pro zařazení do podopatření zatravňování drah soustředěného odtoku činí 0,5 hektaru zemědělské půdy s druhem zemědělské kultury standardní orná půda podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů.
+
+(5) Žadatel v prvním roce zařazení
+
+a) založí travní porost pomocí čistosevu nebo podsevu
+
+1\. nejpozději do 31. května příslušného kalendářního roku,
+
+2\. směsí osiv podle přílohy č. 16 k tomuto nařízení a
+
+3\. v minimálním výsevu 35 kilogramů na 1 hektar dílu půdního bloku,
+
+b) používá k výsevu pouze travní směs osiv podle § 12 odst. 2 písm. a) nebo b) zákona o oběhu osiva a sadby, přičemž výsev musí být proveden nejpozději do 24 měsíců ode dne vydání míchacího protokolu, popřípadě používá uznané osivo nebo u druhů neuvedených v druhovém seznamu podle zákona o oběhu osiva a sadby osivo kontrolované úředně nebo pod úředním dozorem podle zákona o oběhu osiva a sadby, přičemž výsev je proveden nejpozději do 24 měsíců ode dne vydání osvědčení prokazujícího kvalitu osiva podle zákona o oběhu osiva a sadby,
+
+c) oznámí Fondu v souladu s § 3g zákona o zemědělství změnu kultury podle nařízení vlády upravujícího podrobnosti evidence využití půdy podle uživatelských vztahů ze standardní orné půdy na travní porost, v případě změny na kulturu trvalý travní porost se nejedná o nesplnění podmínky,
+
+d) aplikuje hnojiva<sup>10</sup>) pouze před založením travního porostu, nejpozději do 31. května příslušného kalendářního roku,
+
+e) neprovádí na zatravněných plochách pastvu zvířat a
+
+f) zajistí
+
+1\. zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 50/2015 Sb. a
+
+2\. provedení druhé seče s odklizením biomasy do 31. října příslušného kalendářního roku.
+
+(6) Žadatel po celou dobu zařazení do podopatření zatravňování drah soustředěného odtoku
+
+a) neaplikuje hnojiva<sup>10</sup>) od druhého roku trvání závazku, za aplikaci hnojiv se nepovažuje pastva zvířat a vápnění,
+
+b) aplikuje herbicidy povolené v příslušném kalendářním roce k používání v České republice pouze v prvních dvou letech trvání závazku, a to pouze bodově,
+
+c) zajistí
+
+1\. zemědělské obhospodařování v souladu s § 7 nařízení vlády č. 83/2023 Sb., za podmínky uvedené v písmenu d), a to provedením seče s odklizem biomasy nebo pastvy v termínu do 31. července příslušného kalendářního roku nebo v termínu do 31. srpna příslušného kalendářního roku, jedná-li se o díl půdního bloku, který se podle evidence využití půdy nachází alespoň z 50 % v oblasti podle § 2 odst. 1 písm. a) bodu 1 nařízení vlády č. 61/2023 Sb., a
+
+2\. provedení druhé seče s odklizením biomasy nebo pastvu do 31. října příslušného kalendářního roku,
+
+d) zajistí likvidaci nedopasků sečením nebo mulčováním
+
+1\. do 30 dnů od skončení pastvy, nebo
+
+2\. v případě celoroční pastvy nejpozději do 31. prosince příslušného kalendářního roku; tato podmínka se nevztahuje na plochy s průměrnou sklonitostí převyšující 10°,
+
+e) neprovádí rozorání nebo obnovu travního porostu na plochách zařazených do podopatření a
+
+f) provádí dosev travního porostu na plochách zařazených do podopatření pouze směsí osiv podle přílohy č. 16 k tomuto nařízení.
+
+(7) O skončení pastvy podle odstavce 6 písm. d) se nejedná, pokud je pastva přerušena nejdéle na 29 dnů.
+
+(8) Za porušení podmínky uvedené v odstavci 5 písm. f) se nepovažuje, pokud je na daném díle půdního bloku ponechána nepokosená plocha podle nařízení vlády upravujícího poskytování přímých plateb zemědělcům.
+
+### HLAVA III – SAZBY DOTACE
+
+#### § 23 – Sazby dotace
+
+(1) Sazba dotace činí
+
+a) 404 EUR/1 hektar ovocného sadu<sup>23</sup>) zařazeného do podopatření integrovaná produkce ovoce podle § 2 písm. a), na kterém žadatel plní podmínky podle § 12,
+
+b) v podopatření integrovaná produkce révy vinné
+
+1\. 323 EUR/1 hektar vinice<sup>23</sup>) zařazeného do titulu základní ochrana vinic podle § 2 písm. b) bodu 1, na kterém žadatel plní podmínky podle § 13 odst. 5 a 6,
+
+2\. 675 EUR/1 hektar vinice<sup>23</sup>) zařazeného do titulu nadstavbová ochrana vinic podle § 2 písm. b) bodu 2, na kterém žadatel plní podmínky podle § 13 odst. 5 a 7,
+
+c) v podopatření integrovaná produkce zeleniny a jahodníku
+
+1\. 426 EUR/1 hektar standardní orné půdy<sup>23</sup>) zařazeného do titulu integrovaná produkce zeleniny podle § 2 písm. c) bodu 1, na kterém žadatel plní podmínky podle § 15,
+
+2\. 426 EUR/1 hektar jiné trvalé kultury<sup>23</sup>) zařazeného do titulu integrovaná produkce zeleniny podle § 2 písm. c) bodu 1, na kterém žadatel plní podmínky podle § 15,
+
+3\. 433 EUR/1 hektar standardní orné půdy<sup>23</sup>) zařazeného do titulu integrovaná produkce jahodníku podle § 2 písm. c) bodu 2, na kterém žadatel plní podmínky podle § 15,
+
+d) v podopatření ošetřování travních porostů
+
+1\. 96 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu obecná péče o extenzivní louky a pastviny podle § 2 písm. d) bodu 1, na kterém žadatel plní podmínky podle § 19 odst. 2,
+
+2\. 166 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu mezofilní a vlhkomilné louky hnojené podle § 2 písm. d) bodu 2, na kterém žadatel plní podmínky podle § 19 odst. 3,
+
+3\. 185 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu mezofilní a vlhkomilné louky nehnojené podle § 2 písm. d) bodu 3, na kterém žadatel plní podmínky podle § 19 odst. 4,
+
+4\. 163 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu horské a suchomilné louky hnojené podle § 2 písm. d) bodu 4, na kterém žadatel plní podmínky podle § 19 odst. 5,
+
+5\. 170 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu horské a suchomilné louky nehnojené podle § 2 písm. d) bodu 5, na kterém žadatel plní podmínky podle § 19 odst. 6,
+
+6\. 692 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu trvale podmáčené a rašelinné louky podle § 2 písm. d) bodu 6, na kterém žadatel plní podmínky podle § 19 odst. 7,
+
+7\. 173 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu ochrana modrásků podle § 2 písm. d) bodu 7, na kterém žadatel plní podmínky podle § 19 odst. 8,
+
+8\. 198 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu ochrana chřástala polního podle § 2 písm. d) bodu 8, na kterém žadatel plní podmínky podle § 19 odst. 9,
+
+9\. 353 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu suché stepní trávníky a vřesoviště podle § 2 písm. d) bodu 9, na kterém žadatel plní podmínky podle § 19 odst. 10,
+
+10\. 213 EUR/1 hektar trvalého travního porostu<sup>23</sup>), zařazeného do titulu druhově bohaté pastviny podle § 2 písm. d) bodu 10, na kterém plní žadatel podmínky podle § 19 odst. 11,
+
+e) v podopatření zatravňování orné půdy
+
+1\. 310 EUR/1 hektar zemědělské půdy<sup>23</sup>), zařazeného do titulu zatravňování orné půdy běžnou směsí podle § 2 písm. e) bodu 1, na kterém žadatel plní podmínky podle § 20,
+
+2\. 346 EUR/1 hektar zemědělské půdy<sup>23</sup>), zařazeného do titulu zatravňování orné půdy druhově bohatou směsí podle § 2 písm. e) bodu 2, na kterém žadatel plní podmínky podle § 20,
+
+3\. 400 EUR/1 hektar zemědělské půdy<sup>23</sup>), zařazeného do titulu zatravňování orné půdy regionální směsí podle § 2 písm. e) bodu 3, na kterém žadatel plní podmínky podle § 20,
+
+4\. 337 EUR/1 hektar zemědělské půdy<sup>23</sup>), zařazeného do titulu zatravňování orné půdy podél vodního útvaru běžnou směsí podle § 2 písm. e) bodu 4, na kterém žadatel plní podmínky podle § 20,
+
+5\. 385 EUR/1 hektar zemědělské půdy<sup>23</sup>), zařazeného do titulu zatravňování orné půdy podél vodního útvaru druhově bohatou směsí podle § 2 písm. e) bodu 5, na kterém žadatel plní podmínky podle § 20,
+
+6\. 428 EUR/1 hektar zemědělské půdy<sup>23</sup>), zařazeného do titulu zatravňování orné půdy podél vodního útvaru regionální směsí podle § 2 písm. e) bodu 6, na kterém žadatel plní podmínky podle § 20,
+
+f) v podopatření biopásy
+
+1\. 670 EUR/1 hektar zemědělské půdy<sup>23</sup>), zařazeného do titulu krmné biopásy podle § 2 písm. f) bodu 1, na kterém žadatel plní podmínky podle § 21 odst. 6 a 7,
+
+2\. 591 EUR/1 hektar zemědělské půdy<sup>23</sup>), zařazeného do titulu nektarodárné biopásy podle § 2 písm. f) bodu 2, na kterém žadatel plní podmínky podle § 21 odst. 6 a 8,
+
+g) 667 EUR/1 hektar zemědělské půdy<sup>23</sup>), zařazeného do podopatření ochrana čejky chocholaté podle § 2 písm. g), na kterém žadatel plní podmínky podle § 22,
+
+h) 560 EUR/1 hektar zemědělské půdy<sup>23</sup>) zařazeného do podopatření zatravňování drah soustředěného odtoku podle § 2 písm. h), na kterém žadatel plní podmínky podle § 22a.
+
+(2) Sazba dotace podle odstavce 1 písm. d) bodů 1, 2, a 4 se zvýší o 11 EUR/1 hektar, jde-li o díl půdního bloku podle § 18 odst. 4 písm. a) nebo c).
+
+(3) Sazba dotace podle odstavce 1 písm. d) bodů 3 a 5 se zvýší o 5 EUR/1 hektar, jde-li o díl půdního bloku podle § 18 odst. 4 písm. a) nebo c).
+
+(4) Sazba dotace podle odstavce 1 písm. d) bodů 2 až 5, 7, 8 a 10 se sníží
+
+a) o 95 EUR/1 hektar, jde-li o díl půdního bloku nacházející se na území 1. zóny chráněné krajinné oblasti<sup>13</sup>), popřípadě ve zranitelné oblasti na území vymezeném podle § 7 odst. 11 věty první nařízení vlády č. 262/2012 Sb.; nachází-li se díl půdního bloku na území 1. zóny chráněné krajinné oblasti<sup>13</sup>) jen zčásti, dotace se sníží jen na této části dílu půdního bloku,
+
+b) o 56 EUR/1 hektar, jde-li o díl půdního bloku nacházející se na území národního parku<sup>13</sup>); nachází-li se díl půdního bloku na území národního parku<sup>13</sup>) jen zčásti, dotace se sníží jen na této části dílu půdního bloku; v případě, že žadatel prokáže, že se díl půdního bloku nachází v zastavěném území obce nebo zastavitelné ploše obce, toto snížení se neuplatní.
+
+(5) Sazba dotace podle odstavce 1 písm. d) bodu 2 se sníží o 69 EUR/1 hektar, jde-li o díl půdního bloku, na který je zároveň poskytnuta dotace na trvalý travní porost podle nařízení vlády č. 76/2015 Sb. nebo podle nařízení vlády upravujícího opatření ekologické zemědělství; toto snížení se neuplatní na dílu půdního bloku, na kterém je aplikováno snížení podle odstavce 4.
+
+(6) Sazba dotace podle odstavce 1 písm. d) bodu 3 se sníží o 47 EUR/1 hektar, jde-li o díl půdního bloku, na který je zároveň poskytnuta dotace na trvalý travní porost podle nařízení vlády č. 76/2015 Sb. nebo podle nařízení vlády upravujícího opatření ekologické zemědělství; toto snížení se neuplatní na dílu půdního bloku, na kterém je aplikováno snížení podle odstavce 4.
+
+(7) Sazba dotace podle odstavce 1 písm. d) bodu 4 se sníží o 47 EUR/1 hektar, jde-li o díl půdního bloku, na který je zároveň poskytnuta dotace na trvalý travní porost podle nařízení vlády č. 76/2015 Sb. nebo podle nařízení vlády upravujícího opatření ekologické zemědělství; toto snížení se neuplatní na dílu půdního bloku, na kterém je aplikováno snížení podle odstavce 4.
+
+(8) Sazba dotace podle odstavce 1 písm. d) bodu 5 se sníží o 39 EUR/1 hektar, jde-li o díl půdního bloku, na který je zároveň poskytnuta dotace na trvalý travní porost podle nařízení vlády č. 76/2015 Sb. nebo podle nařízení vlády upravujícího opatření ekologické zemědělství; toto snížení se neuplatní na dílu půdního bloku, na kterém je aplikováno snížení podle odstavce 4.
+
+(9) Sazba dotace podle odstavce 1 písm. d) bodu 6 se sníží o 56 EUR/1 hektar, jde-li o díl půdního bloku, na který je zároveň poskytnuta dotace na trvalý travní porost podle nařízení vlády č. 76/2015 Sb. nebo podle nařízení vlády upravujícího opatření ekologické zemědělství.
+
+(10) Sazba dotace podle odstavce 1 písm. d) bodu 7 se sníží o 41 EUR/1 hektar, jde-li o díl půdního bloku, na který je zároveň poskytnuta dotace na trvalý travní porost podle nařízení vlády č. 76/2015 Sb. nebo podle nařízení vlády upravujícího opatření ekologické zemědělství; toto snížení se neuplatní na dílu půdního bloku, na kterém je aplikováno snížení podle odstavce 4.
+
+(11) Sazba dotace podle odstavce 1 písm. d) bodu 8 se sníží o 40 EUR/1 hektar, jde-li o díl půdního bloku, na který je zároveň poskytnuta dotace na trvalý travní porost podle nařízení vlády č. 76/2015 Sb. nebo podle nařízení vlády upravujícího opatření ekologické zemědělství; toto snížení se neuplatní na dílu půdního bloku, na kterém je aplikováno snížení podle odstavce 4.
+
+(12) Sazba dotace podle odstavce 1 písm. d) bodu 10 se sníží o 48 EUR/1 hektar, jde-li o díl půdního bloku, na který je zároveň poskytnuta dotace na trvalý travní porost podle nařízení vlády č. 76/2015 Sb. nebo podle nařízení vlády upravujícího opatření ekologické zemědělství; toto snížení se neuplatní na dílu půdního bloku, na kterém je aplikováno snížení podle odstavce 4.
+
+(13) Sazba dotace podle odstavce 1 písm. e) nebo h) se sníží
+
+a) o 95 EUR/1 hektar, jde-li o díl půdního bloku nacházející se na území 1. zóny chráněné krajinné oblasti<sup>13</sup>), popřípadě ve zranitelné oblasti na území vymezeném podle § 7 odst. 11 věty první nařízení vlády č. 262/2012 Sb.; nachází-li se díl půdního bloku na území 1. zóny chráněné krajinné oblasti<sup>13</sup>) jen zčásti, dotace se sníží jen na této části dílu půdního bloku,
+
+b) o 56 EUR/1 hektar, jde-li o díl půdního bloku nacházející se na území národního parku<sup>13</sup>); nachází-li se díl půdního bloku na území národního parku<sup>13</sup>) jen zčásti, dotace se sníží jen na této části dílu půdního bloku; v případě, že žadatel prokáže, že se díl půdního bloku nachází v zastavěném území obce nebo zastavitelné ploše obce, toto snížení se neuplatní.
+
+(14) Sazba dotace podle odstavce 1 písm. f) bodu 1 se sníží o 182 EUR/1 hektar, je-li směs plodin pěstovaná na dílu půdního bloku, na který je podávána žádost o poskytnutí dotace, zahrnuta do výpočtu podílů jednotlivých plodin v rámci diverzifikace plodin podle § 9 odst. 3 nařízení vlády č. 50/2015 Sb., a je-li touto směsí plodin zároveň splněna podmínka uvedená v čl. 43 odst. 1 a čl. 44 nařízení Evropského parlamentu a Rady (EU) č. 1307/2013.
+
+(15) Sazba dotace podle odstavce 1 písm. f) bodu 2 se sníží o 60 EUR/1 hektar, je-li směs plodin pěstovaná na dílu půdního bloku, na který je podávána žádost o poskytnutí dotace, zahrnuta do výpočtu podílů jednotlivých plodin v rámci diverzifikace plodin podle § 9 odst. 3 nařízení vlády č. 50/2015 Sb., a je-li touto směsí plodin zároveň splněna podmínka uvedená v čl. 43 odst. 1 a čl. 44 nařízení Evropského parlamentu a Rady (EU) č. 1307/2013.
+
+(16) Sazba dotace podle odstavce 1 písm. g) se sníží o 158 EUR/1 hektar, je-li směs plodin pěstovaná na dílu půdního bloku, na který je podávána žádost o poskytnutí dotace, zahrnuta do výpočtu podílů jednotlivých plodin v rámci diverzifikace plodin podle § 9 odst. 3 nařízení vlády č. 50/2015 Sb., a je-li touto směsí plodin zároveň splněna podmínka uvedená v čl. 43 odst. 1 a čl. 44 nařízení Evropského parlamentu a Rady (EU) č. 1307/2013.
+
+(17) Dochází-li u žadatele k souběhu podopatření podle § 2 písm. f) bodu 1, § 2 písm. f) bodu 2 nebo § 2 písm. g), postupuje Fond při snížení sazby dotace podle odstavců 14 až 16 tak, že
+
+a) sazbu sníží za podopatření podle § 2 písm. f) bodu 2,
+
+b) po snížení sazby podle písmene a) sníží sazbu za podopatření podle § 2 písm. g) a
+
+c) po snížení sazby podle písmene b) sníží sazbu za podopatření podle § 2 písm. f) bodu 1.
+
+(18) Zvýšení dotace podle odstavců 2 a 3 se neprovede, pokud je na daném díle půdního bloku ponechána nepokosená plocha podle nařízení vlády upravujícího pravidla podmíněnosti plateb zemědělcům.
+
+(19) Sazba dotace podle odstavce 1 písm. f) se sníží o 479 EUR/1 hektar, pokud je na daném díle půdního bloku plněna podmínka ponechání neprodukčních ploch podle nařízení vlády upravujícího pravidla podmíněnosti plateb zemědělcům.
+
+(20) Sazba dotace podle odstavce 1 písm. g) se sníží o 479 EUR/1 hektar, pokud je na daném díle půdního bloku plněna podmínka ponechání neprodukčních ploch podle nařízení vlády upravujícího pravidla podmíněnosti plateb zemědělcům.
+
+(21) Výši dotace při uplatňování jednotlivých podopatření podle § 2 Fond vypočte jako součin výměry, na kterou je poskytována dotace v rámci příslušného podopatření podle § 2, a sazby stanovené podle odstavců 1 až 17 pro příslušné podopatření podle § 2.
+
+(22) Fond poskytne dotaci v měně České republiky; sazba dotace podle odstavce 18 se přepočte podle směnného kurzu, který je uveřejněn v posledním Úředním věstníku Evropské unie ke dni 31. prosince kalendářního roku předcházejícímu roku, za který se dotace poskytuje. Není-li k tomuto datu směnný kurz stanoven, použije se nejbližší předcházející směnný kurz.
+
+(23) Dotace podle odstavce 1 se neposkytne na díl půdního bloku, který se nachází na území hlavního města Prahy.
+
+(24) Dotace podle odstavce 1 se neposkytne na část dílu půdního bloku evidovanou v evidenci využití půdy, na které byl uplatněn postup podle § 3g odst. 4 zákona o zemědělství.
+
+(25) Dotace podle § 2 písm. c) se neposkytne na plochu se zemědělskou kulturou standardní orná půda, na které je deklarován ochranný pás podle § 5 písm. c) nařízení vlády č. 83/2023 Sb., o stanovení podmínek poskytování přímých plateb zemědělcům.
+
+### HLAVA IV – SPOLEČNÁ USTANOVENÍ
+
+#### § 25 – Vyhodnocení nesplnění podmínek provádění jednotlivých podopatření
+
+(1) V případě nesplnění podmínek provádění jednotlivých podopatření, s výjimkou podmínek uvedených v § 9 odst. 2 písm. b) bodu 2 nebo 3, Fond v závislosti na konkrétním nesplnění podle § 26 až 32
+
+a) sníží dotaci za příslušný kalendářní rok, ve kterém k nesplnění došlo, vypočtenou podle § 23 v těchto úrovních
+
+1\. 3 %,
+
+2\. 10 %,
+
+3\. 25 %, nebo
+
+4\. 50 %,
+
+b) neposkytne dotaci za příslušné podopatření v příslušném kalendářním roce, nebo za celé období trvání závazku, nebo
+
+c) vyřadí žadatele z příslušného podopatření.
+
+(2) V případě opakovaného nesplnění, pokud není v § 26 až 29 uvedeno jinak, je uplatňováno snížení dotace vypočtené podle § 23 o jednu úroveň podle odstavce 1 písm. a) vyšší, popřípadě se dotace v příslušném kalendářním roce neposkytne.
+
+(3) Za opakované nesplnění se pro účely tohoto nařízení považuje nesplnění stejné podmínky v rámci příslušného podopatření nebo titulu více než jednou v průběhu závazku. Opakované nesplnění však nemůže nastat v průběhu jednoho kalendářního roku.
+
+(4) Za nesplnění podmínek tohoto nařízení je považováno také nepředložení v průběhu kontroly na místě:
+
+a) evidenční karty dílu půdního bloku podle § 15 odst. 5 písm. c),
+
+b) evidenční karty provedených agrotechnických operací podle § 15 odst. 8 písm. k),
+
+c) záznamů o sledování stanovených meteorologických prvků a záznamů o vyhodnocení sledovaných meteorologických prvků podle § 12 odst. 5 písm. j) bodu 1 nebo § 15 odst. 5 písm. d) bodu 1,
+
+d) záznamů o sledování výskytu škodlivých organismů a záznamů o vyhodnocení výskytu škodlivých organismů podle § 12 odst. 5 písm. j) bodu 2 nebo podle § 15 odst. 5 písm. d) bodu 2,
+
+e) dokladů o použitém osivu nebo sadbě nebo dokladů o provedení službou podle § 13 odst. 5 písm. g), § 15 odst. 6 písm. b, § 15 odst. 7 písm. b), § 15 odst. 8 písm. a), § 20 odst. 7 písm. a), § 21 odst. 7 písm. a), § 21 odst. 8 písm. a), § 22 odst. 5 písm. c) nebo § 22a odst. 5 písm. a) a b) vystavených na jméno žadatele,
+
+f) záznamů o výsledku rozborů půdy podle § 12 odst. 5 písm. c) nebo § 15 odst. 5 písm. b),
+
+g) záznamů o výsledku rozborů vzorků ovoce podle § 12 odst. 5 písm. e), nebo
+
+h) záznamů o výsledku rozborů vzorků zeleniny a jahod podle § 15 odst. 6 písm. f), § 15 odst. 7 písm. f) nebo § 15 odst. 8 písm. e),
+
+jejichž vedení nebo uchovávání je stanoveno tímto nařízením; nesplnění podmínek se vždy posuzuje ve vztahu k jednotlivým podopatřením nebo titulům podle § 2.
+
+(5) Doklady podle odstavce 4 písm. e) uchovává žadatel minimálně po dobu 10 kalendářních let následujících po kalendářním roce, ve kterém byl výsev nebo výsadba provedena.
+
+(6) Zjistí-li Fond, že žadatel v rámci jednotné žádosti<sup>6</sup>) neuvedl veškerou plochu v souladu s přímo použitelným předpisem Evropské unie o financování, řízení a sledování společné zemědělské politiky<sup>24</sup>), a rozdíl mezi celkovou plochou uvedenou v žádosti a souhrnem celkové plochy uvedené v žádosti a v žádosti nevykázané je
+
+a) vyšší než 3 %, avšak nižší nebo roven 4 % plochy uvedené v žádosti, sníží platbu o 1 %<sup>25</sup>),
+
+b) vyšší než 4 %, avšak nižší nebo roven 5 % plochy uvedené v žádosti, sníží platbu o 2 %<sup>25</sup>), nebo
+
+c) vyšší než 5 % plochy uvedené v žádosti, sníží platbu o 3 %<sup>25</sup>).
+
+(7) Nesplnění podmínek provádění jednotlivého podopatření nebo titulu podle § 2 se vždy posuzuje ve vztahu k příslušnému závazku podle § 3.
+
+#### § 26 – Snížení dotace o 3 %
+
+(1) Dotace v příslušném kalendářním roce v rámci podopatření podle § 2, vypočtená podle § 23, se sníží o 3 %, zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce ovoce nesplnění podmínky uvedené v § 12 odst. 5 písm. f) nebo g),
+
+b) podopatření integrovaná produkce révy vinné nesplnění podmínky uvedené v § 13 odst. 5 písm. f), nebo
+
+c) podopatření ošetřování travních porostů
+
+1\. nesplnění podmínky uvedené v § 17 odst. 1, a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla jednou v kontrolním období vyšší nebo rovna 0,2 a zároveň nižší než 0,3 velké dobytčí jednotky na 1 hektar trvalého travního porostu obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+2\. nesplnění podmínky uvedené v § 17 odst. 3, a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla jednou v kontrolním období vyšší než 1,5 a zároveň nižší nebo rovna 1,8 velké dobytčí jednotky na 1 hektar zemědělské půdy obhospodařované žadatelem a vedené v evidenci využití půdy, nebo
+
+3\. nesplnění podmínky uvedené v § 18 odst. 1 písm. c), pokud se jedná o ponechání souvislé nepokosené plochy s rozlohou větší než 1 hektar a zároveň do 1,1 hektaru včetně, snížení se vztahuje pouze na plochu trvalého travního porostu způsobilého k poskytnutí dotace v titulu podle § 2 písm. d) bodů 1 až 5.
+
+(2) Dotace v příslušném kalendářním roce v rámci titulu podle § 2, vypočtená podle § 23, se sníží o 3 %, zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce révy vinné
+
+a) nesplnění podmínky uvedené v § 13 odst. 6 písm. f) nebo g), snížení se uplatní na díl půdního bloku, na kterém bylo nesplnění zjištěno, nebo
+
+b) nesplnění podmínky uvedené v § 13 odst. 7 písm. g), h) nebo i); provedl-li žadatel 1 aplikaci, snížení se uplatní na díl půdního bloku, na kterém bylo nesplnění zjištěno.
+
+(3) Dotace v příslušném kalendářním roce v rámci podopatření podle § 2, vypočtená podle § 23, se sníží o 3 %, zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce ovoce nesplnění podmínky uvedené v § 12 odst. 11, přičemž žadatel doklady podle
+
+1\. § 12 odst. 5 písm. c) předloží v období od 1. do 15. února kalendářního roku následujícího po roce, ve kterém měl být rozbor nejpozději proveden, nebo
+
+2\. § 12 odst. 5 písm. e) předloží v období od 1. do 15. února kalendářního roku následujícího po roce, ve kterém žadatel žádal o dotaci, nebo
+
+b) podopatření integrovaná produkce zeleniny a jahodníku nesplnění podmínky uvedené v § 15 odst. 12 písm. a) bodě 1 nebo § 15 odst. 12 písm. b), přičemž žadatel doklady podle
+
+1\. § 15 odst. 5 písm. b) předloží v období od 1. do 15. února kalendářního roku následujícího po roce, ve kterém měl být rozbor nejpozději proveden, nebo
+
+2\. § 15 odst. 5 písm. c) předloží v období od 1. do 15. února kalendářního roku následujícího po roce, ve kterém žadatel žádal o dotaci.
+
+(4) Dotace v příslušném kalendářním roce v rámci titulu podle § 2, vypočtená podle § 23, se sníží o 3 %, zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce zeleniny a jahodníku nesplnění podmínky uvedené v § 15 odst. 12 písm. a) bodě 2, přičemž žadatel doklady podle § 15 odst. 6 písm. f), § 15 odst. 7 písm. f) nebo § 15 odst. 8 písm. e) předloží v období od 1. do 15. února kalendářního roku následujícího po roce, ve kterém žadatel žádal o dotaci.
+
+#### § 27 – Snížení dotace o 10 %
+
+(1) Dotace v příslušném kalendářním roce v rámci podopatření podle § 2, vypočtená podle § 23, se sníží o 10 %, zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce ovoce nesplnění podmínky uvedené v § 12 odst. 5 písm. h),
+
+b) podopatření integrovaná produkce révy vinné
+
+1\. nesplnění podmínky uvedené v § 13 odst. 5 písm. c) bodu 1, nebo
+
+2\. nesplnění podmínky uvedené v § 13 odst. 5 písm. h),
+
+c) podopatření ošetřování travních porostů
+
+1\. nesplnění podmínky uvedené v § 17 odst. 1 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla dvakrát v kontrolním období vyšší nebo rovna 0,2 a zároveň nižší než 0,3 velké dobytčí jednotky na 1 hektar trvalého travního porostu obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+2\. nesplnění podmínky uvedené v § 17 odst. 2 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla jednou v kontrolním období vyšší než 1,15 a zároveň nižší nebo rovna 1,3 velké dobytčí jednotky na 1 hektar zařazený v roce podání žádosti o dotaci do titulu podle § 2 písm. d) bodů 1 až 5 a 7 až 10, do titulu podle § 2 písm. e) bodů 1 až 6, a to od druhého roku trvání závazku podle § 3 odst. 3, do titulu podle § 2 písm. b) bodů 1 až 5 a 7 až 12 nařízení vlády č. 80/2023 Sb. a obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+3\. nesplnění podmínky uvedené v § 17 odst. 3 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla dvakrát v kontrolním období vyšší než 1,5 a zároveň nižší nebo rovna 1,8 velké dobytčí jednotky na 1 hektar zemědělské půdy obhospodařované žadatelem a vedené v evidenci využití půdy,
+
+4\. nesplnění podmínky uvedené v § 18 odst. 1 písm. c), pokud se jedná o ponechání souvislé nepokosené plochy s rozlohou větší než 1,1 hektaru, snížení se vztahuje pouze na plochu trvalého travního porostu způsobilého k poskytnutí dotace do titulu podle § 2 písm. d) bodů 1 až 5, nebo
+
+d) podopatření zatravňování drah soustředěného odtoku nesplnění podmínky uvedené v § 22a odst. 5 písm. f) bodě 2 nebo v § 22a odst. 6 písm. c) bodě 2, jde-li o nesplnění v rozsahu větším než 3 % a nižším nebo rovném 25 % celkové výměry zatravněné plochy, zařazené do tohoto podopatření.
+
+(2) Dotace v příslušném kalendářním roce v rámci titulu podle § 2, vypočtená podle § 23, se sníží o 10 %, zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce révy vinné nesplnění podmínky uvedené v § 13 odst. 7 písm. g), h) nebo i); neprovedl-li žadatel žádnou aplikaci, snížení se uplatní na díl půdního bloku, na kterém bylo nesplnění zjištěno,
+
+b) podopatření integrovaná produkce zeleniny a jahodníku
+
+1\. nesplnění podmínky uvedené v § 15 odst. 6 písm. c), § 15 odst. 7 písm. c) nebo v § 15 odst. 8 písm. c),
+
+2\. nesplnění podmínky uvedené v § 15 odst. 6 písm. d), § 15 odst. 7 písm. h) nebo v § 15 odst. 8 písm. f),
+
+3\. nesplnění podmínky uvedené v § 15 odst. 8 písm. l),
+
+c) podopatření ošetřování travních porostů
+
+1\. nesplnění podmínky uvedené v § 19 odst. 2 písm. a) bodu 2, § 19 odst. 3 písm. h), § 19 odst. 4 písm. h), § 19 odst. 8 písm. a), § 19 odst. 8 písm. b) bodu 2, § 19 odst. 10 písm. a) nebo v § 19 odst. 11 písm. a) bodu 2; jde-li o nesplnění v rozsahu větším než 3 % a nižším nebo rovném 25 % výměry trvalého travního porostu obhospodařovaného žadatelem a zařazeného do příslušného titulu podle § 2 písm. d) bodů 1 až 3, 7, 9 nebo 10,
+
+2\. nesplnění podmínky uvedené v § 19 odst. 2 písm. e),
+
+3\. nesplnění podmínky uvedené v § 19 odst. 3 písm. e), § 19 odst. 4 písm. e), § 19 odst. 5 písm. f), § 19 odst. 6 písm. e), § 19 odst. 8 písm. f) anebo v § 19 odst. 9 písm. j),
+
+4\. nesplnění podmínky uvedené v § 19 odst. 9 písm. e), nebo
+
+5\. nesplnění podmínky uvedené v § 19 odst. 2 písm. b), § 19 odst. 3 písm. b), § 19 odst. 4 písm. b), § 19 odst. 5 písm. b), § 19 odst. 6 písm. b), § 19 odst. 8 písm. c) anebo v § 19 odst. 9 písm. c),
+
+d) podopatření biopásy
+
+1\. nesplnění podmínky uvedené v § 21 odst. 5 písm. d), snížení se uplatní na díl půdního bloku, na kterém bylo nesplnění zjištěno, nebo
+
+2\. nesplnění podmínky uvedené v § 21 odst. 5 písm. e), snížení se uplatní na díl půdního bloku, na kterém bylo porušení zjištěno, nebo
+
+e) podopatření zatravňování orné půdy při nesplnění podmínky uvedené v § 20 odst. 7 písm. e) bodě 2 nebo v § 20 odst. 8 písm. c) bodě 2, jde-li o nesplnění v rozsahu větším než 3 % a nižším nebo rovném 25 % celkové výměry zatravněné plochy, zařazené do příslušného titulu podle § 2 písm. e) bodů 1 až 6.
+
+#### § 28 – Snížení dotace o 25 %
+
+(1) Dotace v příslušném kalendářním roce v rámci podopatření podle § 2, vypočtená podle § 23, se sníží o 25 %, zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce ovoce
+
+1\. nesplnění podmínky uvedené v § 12 odst. 5 písm. b),
+
+2\. pokud ve vzorku ovoce odebraném podle § 12 odst. 5 písm. d) a analyzovaném podle § 12 odst. 5 písm. e), nebo ve vzorku odebraném Fondem, dojde k překročení mezní hodnoty obsahu olova uvedené v části A přílohy č. 5 k tomuto nařízení a zároveň nedosáhne hodnoty obsahu olova uvedené v části B přílohy č. 5 k tomuto nařízení,
+
+3\. nesplnění podmínky uvedené v § 12 odst. 5 písm. i), přičemž se jedná o první nesplnění v průběhu příslušného závazku, nebo
+
+4\. nesplnění podmínky uvedené v § 12 odst. 5 písm. j) nebo k),
+
+b) podopatření integrovaná produkce révy vinné
+
+1\. nesplnění podmínky uvedené v § 13 odst. 5 písm. i), přičemž se jedná o první nesplnění v průběhu příslušného závazku,
+
+2\. nesplnění podmínky uvedené v § 13 odst. 5 písm. d), přičemž se jedná o 3 aplikace herbicidů v příkmenném pásu vinice v příslušném kalendářním roce,
+
+3\. nesplnění podmínky uvedené v § 13 odst. 5 písm. g),
+
+c) podopatření integrovaná produkce zeleniny a jahodníku
+
+1\. nesplnění podmínky uvedené v § 15 odst. 5 písm. c),
+
+2\. nesplnění podmínky uvedené v § 15 odst. 5 písm. d), nebo
+
+3\. nesplnění podmínky uvedené v § 15 odst. 5 písm. e),
+
+d) podopatření ošetřování travních porostů
+
+1\. nesplnění podmínky uvedené v § 17 odst. 1, a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla třikrát v kontrolním období vyšší nebo rovna 0,2 a zároveň nižší než 0,3 velké dobytčí jednotky na 1 hektar trvalého travního porostu obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+2\. nesplnění podmínky uvedené v § 17 odst. 2 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla dvakrát v kontrolním období vyšší než 1,15 a zároveň nižší nebo rovna 1,3 velké dobytčí jednotky na 1 hektar zařazený v roce podání žádosti o dotaci do titulu podle § 2 písm. d) bodů 1 až 5 a 7 až 10, do titulu podle § 2 písm. e) bodů 1 až 6, a to od druhého roku trvání závazku podle § 3 odst. 3, do titulu podle § 2 písm. b) bodů 1 až 5 a 7 až 12 nařízení vlády č. 80/2023 Sb. a obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+3\. nesplnění podmínky uvedené v § 17 odst. 3, a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla třikrát v kontrolním období vyšší než 1,5 a zároveň nižší nebo rovna 1,8 velké dobytčí jednotky na 1 hektar zemědělské půdy obhospodařované žadatelem a vedené v evidenci využití půdy, nebo
+
+4\. nesplnění podmínky uvedené v § 18 odst. 1 písm. a) nebo d); snížení se vztahuje pouze na plochu trvalého travního porostu způsobilého k poskytnutí dotace podle § 2 písm. d) bodů 1 až 5,
+
+e) podopatření ochrana čejky chocholaté nesplnění podmínky uvedené v § 22 odst. 5 písm. c), nebo
+
+f) podopatření zatravňování drah soustředěného odtoku
+
+1\. nesplnění podmínky uvedené v § 22a odst. 5 písm. c), jedná-li se o první nesplnění v průběhu trvání příslušného závazku, nebo
+
+2\. nesplnění podmínky uvedené v § 22a odst. 6 písm. d), snížení se uplatní na díl půdního bloku, na kterém bylo nesplnění podmínky zjištěno.
+
+(2) Dotace v příslušném kalendářním roce v rámci titulu podle § 2, vypočtená podle § 23, se sníží o 25 %, zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce zeleniny a jahodníku
+
+1\. nesplnění podmínky uvedené v § 15 odst. 6 písm. b), § 15 odst. 7 písm. b) nebo v § 15 odst. 8 písm. a),
+
+2\. pokud ve vzorku zeleniny odebraném podle § 15 odst. 6 písm. e) a analyzovaném podle § 15 odst. 6 písm. f) nebo ve vzorku odebraném Fondem dojde k překročení mezní hodnoty obsahu některých z chemických látek obsažených v zelenině uvedené v části A přílohy č. 12 k tomuto nařízení a zároveň nedosáhne hodnoty obsahu některých z chemických látek obsažených v zelenině uvedené v části B přílohy č. 12 k tomuto nařízení,
+
+3\. nesplnění podmínky uvedené v § 15 odst. 7 písm. d),
+
+4\. pokud ve vzorku zeleniny odebraném podle § 15 odst. 7 písm. e) a analyzovaném podle § 15 odst. 7 písm. f), nebo ve vzorku odebraném Fondem dojde k překročení mezní hodnoty obsahu některých z chemických látek obsažených v zelenině uvedené v části A přílohy č. 12 k tomuto nařízení a zároveň nedosáhne hodnoty obsahu některých z chemických látek obsažených v zelenině uvedené v části B přílohy č. 12 k tomuto nařízení,
+
+5\. nesplnění podmínky uvedené v § 15 odst. 7 písm. g), přičemž se jedná o 3 aplikace herbicidů v příslušném kalendářním roce,
+
+6\. nesplnění podmínky uvedené v § 15 odst. 8 písm. b),
+
+7\. pokud ve vzorku jahod odebraném podle § 15 odst. 8 písm. d) a analyzovaném podle § 15 odst. 8 písm. e), nebo ve vzorku odebraném Fondem dojde k překročení mezní hodnoty obsahu olova v jahodách uvedené v části D přílohy č. 12 k tomuto nařízení a zároveň nedosáhne hodnoty obsahu olova obsaženého v jahodách uvedené v části E přílohy č. 12 k tomuto nařízení,
+
+8\. nesplnění podmínky uvedené v § 15 odst. 8 písm. g),
+
+9\. nesplnění podmínky uvedené v § 15 odst. 8 písm. h),
+
+10\. nesplnění podmínky uvedené v § 15 odst. 8 písm. i), přičemž se jedná o 6 aplikací herbicidů v příslušném kalendářním roce,
+
+11\. nesplnění podmínky uvedené v § 15 odst. 8 písm. j), přičemž se jedná o 5 aplikací insekticidů v příslušném kalendářním roce, nebo
+
+12\. nesplnění podmínky uvedené v § 15 odst. 8 písm. k).
+
+b) podopatření ošetřování travních porostů
+
+1\. nesplnění podmínky uvedené v § 19 odst. 2 písm. f), § 19 odst. 3 písm. f), § 19 odst. 4 písm. f), § 19 odst. 5 písm. g), § 19 odst. 6 písm. f), § 19 odst. 8 písm. g), § 19 odst. 9 písm. h) nebo v § 19 odst. 11 písm. e),
+
+2\. nesplnění podmínky uvedené v § 19 odst. 3 písm. g), § 19 odst. 4 písm. g), § 19 odst. 5 písm. h), § 19 odst. 6 písm. g), § 19 odst. 9 písm. i), § 19 odst. 10 písm. k) nebo v § 19 odst. 11 písm. g),
+
+3\. nesplnění podmínky uvedené § 19 odst. 7 písm. f),
+
+4\. nesplnění podmínky uvedené § 19 odst. 9 písm. b),
+
+5\. nesplnění podmínky uvedené v § 19 odst. 10 písm. d) a zároveň Fondem zjištěné množství aplikovaného dusíku bylo vyšší než 50 kilogramů a zároveň nižší nebo rovno 60 kilogramům na 1 hektar dílu půdního bloku obhospodařovaného žadatelem, vedeného v evidenci využití půdy a zařazeného do podopatření podle § 2 písm. d) bodu 9,
+
+6\. nesplnění podmínky uvedené v § 19 odst. 10 písm. i),
+
+7\. nesplnění podmínky uvedené v § 19 odst. 10 písm. j) nebo v § 19 odst. 11 písm. f), nebo
+
+8\. nesplnění podmínky uvedené v § 19 odst. 2 písm. c), § 19 odst. 9 písm. f), § 19 odst. 10 písm. f) nebo v § 19 odst. 11 písm. c), snížení se uplatní na díl půdního bloku, na kterém bylo nesplnění podmínky zjištěno,
+
+c) podopatření zatravňování orné půdy
+
+1\. nesplnění podmínky uvedené v § 20 odst. 7 písm. b), jedná-li se o první nesplnění v průběhu trvání příslušného závazku, nebo
+
+2\. nesplnění podmínky uvedené v § 20 odst. 8 písm. d), snížení se uplatní na díl půdního bloku, na kterém bylo nesplnění podmínky zjištěno, nebo
+
+d) podopatření biopásy
+
+1\. nesplnění podmínky uvedené v § 21 odst. 7 písm. a) bodu 3, nebo
+
+2\. nesplnění podmínky uvedené v § 21 odst. 8 písm. a) bodu 3
+
+a zároveň Fond rozhodne o vrácení poměrné části poskytnuté dotace za každý kalendářní rok, ve kterém nebyla podmínka splněna.
+
+(3) Dotace v příslušném kalendářním roce v rámci podopatření podle § 2, vypočtená podle § 23, se sníží o 25 %, zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce zeleniny a jahodníku nesplnění podmínky uvedené v § 15 odst. 12 písm. b), přičemž žadatel doklady podle § 15 odst. 5 písm. c) nepředložil do 15. února kalendářního roku následujícího po roce, ve kterém žadatel žádal o dotaci.
+
+#### § 29 – Snížení dotace o 50 %
+
+(1) Dotace v příslušném kalendářním roce v rámci podopatření podle § 2, vypočtená podle § 23, se sníží o 50 %, zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce révy vinné nesplnění podmínky uvedené v § 13 odst. 5 písm. d), přičemž se jedná o 4 aplikace herbicidů v příkmenném pásu vinice v příslušném kalendářním roce,
+
+b) podopatření ošetřování travních porostů
+
+1\. nesplnění podmínky uvedené v § 17 odst. 2 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla třikrát v kontrolním období vyšší než 1,15 a zároveň nižší nebo rovna 1,3 velké dobytčí jednotky na 1 hektar zařazený v roce podání žádosti o dotaci do titulu podle § 2 písm. d) bodů 1 až 5 a 7 až 10, do titulu podle § 2 písm. e) bodů 1 až 6, a to od druhého roku trvání závazku podle § 3 odst. 3, do titulu podle § 2 písm. b) bodů 1 až 5 a 7 až 12 nařízení vlády č. 80/2023 Sb. a obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+2\. nesplnění podmínky uvedené v § 19 odst. 1 písm. a), nebo
+
+3\. nesplnění podmínky uvedené v § 19 odst. 1 písm. b),
+
+c) podopatření ochrana čejky chocholaté
+
+1\. nesplnění podmínky uvedené v § 22 odst. 5 písm. b), nebo
+
+2\. nesplnění podmínky uvedené v § 22 odst. 5 písm. d), nebo
+
+d) podopatření zatravňování drah soustředěného odtoku nesplnění podmínky uvedené v § 22a odst. 5 písm. f) bodu 2 nebo v § 22a odst. 6 písm. c) bodu 2, jde-li o nesplnění v rozsahu větším než 25 % celkové výměry zatravněné plochy zařazené do tohoto podopatření.
+
+(2) Dotace v příslušném kalendářním roce v rámci titulu podle § 2, vypočtená podle § 23, se sníží o 50 %, zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce révy vinné
+
+1\. nesplnění podmínky uvedené v § 13 odst. 6 písm. b) nebo d), je-li Fondem zjištěno 9 aplikací uvedených v § 13 odst. 6 písm. b) nebo d),
+
+2\. nesplnění podmínky uvedené v § 13 odst. 6 písm. e),
+
+3\. nesplnění podmínky uvedené v § 13 odst. 7 písm. b) nebo d), je-li Fondem zjištěno 9 aplikací uvedených v § 13 odst. 7 písm. b) nebo d), nebo
+
+4\. nesplnění podmínky uvedené v § 13 odst. 7 písm. e),
+
+b) podopatření integrovaná produkce zeleniny a jahodníku
+
+1\. nesplnění podmínky uvedené v § 15 odst. 7 písm. g), přičemž se jedná o 4 aplikace herbicidů v příslušném kalendářním roce,
+
+2\. nesplnění podmínky uvedené v § 15 odst. 8 písm. i), přičemž se jedná o 7 aplikací herbicidů v příslušném kalendářním roce, nebo
+
+3\. nesplnění podmínky uvedené v § 15 odst. 8 písm. j), přičemž se jedná o 6 aplikací insekticidů v příslušném kalendářním roce,
+
+c) podopatření ošetřování travních porostů
+
+1\. nesplnění podmínky uvedené v § 19 odst. 2 písm. d),
+
+2\. nesplnění podmínky uvedené v § 19 odst. 2 písm. a) bodu 2, § 19 odst. 3 písm. h), § 19 odst. 4 písm. h), § 19 odst. 8 písm. a), § 19 odst. 8 písm. b) bodu 2, § 19 odst. 10 písm. a) nebo v § 19 odst. 11 písm. a) bodu 2; jde-li o nesplnění v rozsahu větším než 25 % výměry trvalého travního porostu obhospodařovaného žadatelem a zařazeného do příslušného titulu podle § 2 písm. d) bodů 1 až 3, 7, 9 nebo 10,
+
+3\. nesplnění podmínky uvedené v § 19 odst. 3 písm. d), § 19 odst. 4 písm. d), § 19 odst. 5 písm. e), § 19 odst. 6 písm. d), § 19 odst. 8 písm. e) nebo v § 19 odst. 9 písm. d), za nesplnění podmínky se považuje též pastva zvířat na dílu půdního bloku, který je v evidenci využití půdy vymezen jako nevhodný k přepasení,
+
+4\. nesplnění podmínky uvedené v § 19 odst. 8 písm. b) bodu 1 nebo 3,
+
+5\. nesplnění podmínky uvedené v § 19 odst. 10 písm. b),
+
+6\. nesplnění podmínky uvedené v § 19 odst. 10 písm. d) a zároveň Fondem zjištěné množství aplikovaného dusíku bylo vyšší než 60 kilogramů a zároveň nižší nebo rovno 65 kilogramům na 1 hektar dílu půdního bloku obhospodařovaného žadatelem, vedeného v evidenci využití půdy a zařazeného do podopatření podle § 2 písm. d) bodu 9, nebo
+
+7\. nesplnění podmínky uvedené v § 19 odst. 10 písm. e),
+
+d) podopatření biopásy
+
+1\. nesplnění podmínky uvedené v § 21 odst. 8 písm. d), nebo
+
+2\. nesplnění podmínky uvedené v § 21 odst. 7 písm. b) nebo odst. 8 písm. e), nebo
+
+e) podopatření zatravňování orné půdy při nesplnění podmínky uvedené v § 20 odst. 7 písm. e) bodě 2 nebo v § 20 odst. 8 písm. c) bodě 2, jde-li o nesplnění v rozsahu větším než 25 % celkové výměry zatravněné plochy, zařazené do příslušného titulu podle § 2 písm. e) bodů 1 až 6.
+
+#### § 30 – Neposkytnutí dotace
+
+(1) Dotaci v příslušném kalendářním roce v rámci příslušného podopatření podle § 2 Fond neposkytne, zjistí-li u žadatele
+
+a) nesplnění podmínky uvedené v § 9 odst. 2 písm. c) nebo d), nesplněním podmínky je také nepředložení evidence hnojení nebo záznamů o používání přípravků na ochranu rostlin v průběhu kontroly na místě, nebo předložení takové evidence nebo záznamů, ze které není možné zjistit plnění podmínek tohoto podopatření,
+
+b) při uplatnění podopatření integrovaná produkce ovoce
+
+1\. nesplnění podmínky uvedené v § 12 odst. 5 písm. a),
+
+2\. nesplnění podmínky uvedené v § 12 odst. 5 písm. d), přičemž žadatel odebral alespoň jeden vzorek ovoce, a to z druhu ovoce převládajícího podle výměry,
+
+3\. nesplnění podmínky uvedené v § 12 odst. 5 písm. e), přičemž žadatel zajistil rozbor alespoň jednoho vzorku ovoce, a to z druhu ovoce převládajícího podle výměry,
+
+4\. pokud ve vzorku ovoce odebraném podle § 12 odst. 5 písm. d) a analyzovaném podle § 12 odst. 5 písm. e), nebo ve vzorku odebraném Fondem, dojde k překročení mezní hodnoty obsahu olova uvedené v části B přílohy č. 5 k tomuto nařízení a zároveň nedosáhne hodnoty obsahu některých z chemických látek obsažených v ovoci uvedených v části C přílohy č. 5 k tomuto nařízení,
+
+5\. nesplnění podmínky uvedené v § 12 odst. 5 písm. i), pokud se jedná o druhé nebo další nesplnění v průběhu příslušného závazku, nebo
+
+6\. nesplnění podmínky uvedené v § 12 odst. 7 písm. a) nebo b); dotace se neposkytne na příslušnou produkční plochu dílu půdního bloku, na kterém bylo nesplnění zjištěno; výměra dílu půdního bloku, na který Fond dotaci podle tohoto odstavce neposkytne, se do zjištěné výměry podle čl. 2 odst. 1 bodu 23 a čl. 19 nařízení Komise v přenesené pravomoci (EU) č. 640/2014 nezahrne,
+
+c) při uplatnění podopatření integrovaná produkce révy vinné
+
+1\. nesplnění podmínky uvedené v § 13 odst. 5 písm. a),
+
+2\. nesplnění podmínky uvedené v § 13 odst. 5 písm. b),
+
+3\. nesplnění podmínky uvedené v § 13 odst. 5 písm. c) bodu 2,
+
+4\. nesplnění podmínky uvedené v § 13 odst. 5 písm. d), přičemž se jedná o 5 a více aplikací herbicidů v příkmenném pásu vinice v příslušném kalendářním roce,
+
+5\. nesplnění podmínky uvedené v § 13 odst. 5 písm. e),
+
+6\. nesplnění podmínky uvedené v § 13 odst. 5 písm. i), přičemž se jedná o druhé nebo další nesplnění v průběhu příslušného závazku, nebo
+
+7\. nesplnění podmínky uvedené v § 13 odst. 8; dotace se neposkytne na příslušný díl půdního bloku, na kterém bylo nesplnění zjištěno; výměra dílu půdního bloku, na který Fond dotaci podle tohoto odstavce neposkytne, se do zjištěné výměry podle čl. 2 odst. 1 bodu 23 a čl. 19 nařízení Komise v přenesené pravomoci (EU) č. 640/2014 nezahrne,
+
+d) při uplatnění podopatření integrovaná produkce zeleniny a jahodníku nesplnění podmínky uvedené v § 15 odst. 5 písm. a),
+
+e) při uplatnění podopatření ošetřování travních porostů
+
+1\. nesplnění podmínky uvedené v § 17 odst. 1 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla čtyřikrát nebo vícekrát v kontrolním období vyšší nebo rovna 0,2 a zároveň nižší než 0,3 velké dobytčí jednotky na 1 hektar trvalého travního porostu obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+2\. nesplnění podmínky uvedené v § 17 odst. 1 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla nižší než 0,2 velké dobytčí jednotky na 1 hektar trvalého travního porostu obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+3\. nesplnění podmínky uvedené v § 17 odst. 2 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla čtyřikrát nebo vícekrát v kontrolním období vyšší než 1,15 a zároveň nižší nebo rovna 1,3 velké dobytčí jednotky na 1 hektar zařazený v roce podání žádosti o dotaci do titulu podle § 2 písm. d) bodů 1 až 5 a 7 až 10, do titulu podle § 2 písm. e) bodů 1 až 6, a to od druhého roku trvání závazku podle § 3 odst. 3, do titulu podle § 2 písm. b) bodů 1 až 5 a 7 až 12 nařízení vlády č. 80/2023 Sb. a obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+4\. nesplnění podmínky uvedené v § 17 odst. 2 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla vyšší než 1,3 velké dobytčí jednotky na 1 hektar zařazený v roce podání žádosti o dotaci do titulu podle § 2 písm. d) bodů 1 až 5 a 7 až 10, do titulu podle § 2 písm. e) bodů 1 až 6, a to od druhého roku trvání závazku podle § 3 odst. 3, do titulu podle § 2 písm. b) bodů 1 až 5 a 7 až 12 nařízení vlády č. 80/2023 Sb. a obhospodařovaného žadatelem a vedeného v evidenci využití půdy,
+
+5\. nesplnění podmínky uvedené v § 17 odst. 3 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla čtyřikrát nebo vícekrát v kontrolním období vyšší než 1,5 a zároveň nižší nebo rovna 1,8 velké dobytčí jednotky na 1 hektar zemědělské půdy obhospodařované žadatelem a vedené v evidenci využití půdy, nebo
+
+6\. nesplnění podmínky uvedené v § 17 odst. 3 a zároveň Fondem zjištěná intenzita chovu hospodářských zvířat byla vyšší než 1,8 velké dobytčí jednotky na 1 hektar zemědělské půdy obhospodařované žadatelem a vedené v evidenci využití půdy, nebo
+
+f) při uplatnění podopatření ochrana čejky chocholaté nesplnění podmínky uvedené v § 22 odst. 5 písm. a), nebo
+
+g) při uplatnění podopatření zatravňování drah soustředěného odtoku
+
+1\. nesplnění podmínky uvedené v § 22a odst. 5 písm. a) bodu 2 nebo 3,
+
+2\. nesplnění podmínky uvedené v § 22a odst. 5 písm. b),
+
+3\. nesplnění podmínky uvedené v § 22a odst. 5 písm. c), jedná-li se o druhé a další nesplnění v průběhu trvání příslušného závazku,
+
+4\. nesplnění podmínky uvedené v § 22a odst. 5 písm. d),
+
+5\. nesplnění podmínky uvedené v § 22a odst. 5 písm. e),
+
+6\. nesplnění podmínky uvedené v § 22a odst. 6 písm. a),
+
+7\. nesplnění podmínky uvedené v § 22a odst. 6 písm. b), nebo
+
+8\. nesplnění podmínky uvedené v § 22a odst. 6 písm. f).
+
+(2) Dotaci v příslušném kalendářním roce v rámci příslušného titulu podle § 2 Fond neposkytne, zjistí-li u žadatele při uplatnění
+
+a) podopatření integrovaná produkce révy vinné
+
+1\. nesplnění podmínky uvedené v § 13 odst. 6 písm. b) nebo d), je-li Fondem zjištěno 10 aplikací uvedených v § 13 odst. 6 písm. b) nebo d),
+
+2\. nesplnění podmínky uvedené v § 13 odst. 7 písm. b) nebo d), je-li Fondem zjištěno 10 aplikací uvedených v § 13 odst. 7 písm. b) nebo d), nebo
+
+3\. nesplnění podmínky uvedené v § 13 odst. 7 písm. f).
+
+b) podopatření integrovaná produkce zeleniny a jahodníku
+
+1\. nesplnění podmínky uvedené v § 15 odst. 6 písm. a) nebo § 15 odst. 7 písm. a); dotace se neposkytne na příslušný díl půdního bloku, na kterém bylo nesplnění zjištěno,
+
+2\. nesplnění podmínky uvedené v § 15 odst. 6 písm. e), přičemž žadatel odebral alespoň 1 vzorek zeleniny, a to z druhu zeleniny převládajícího podle výměry,
+
+3\. nesplnění podmínky uvedené v § 15 odst. 6 písm. f), přičemž žadatel zajistil rozbor alespoň 1 vzorku zeleniny, a to z druhu zeleniny převládajícího podle výměry,
+
+4\. pokud ve vzorku zeleniny odebraném podle § 15 odst. 6 písm. e) a analyzovaném podle § 15 odst. 6 písm. f), nebo ve vzorku odebraném Fondem dojde k překročení mezní hodnoty obsahu některých z chemických látek obsažených v zelenině uvedené v části B přílohy č. 12 k tomuto nařízení a zároveň nedosáhne hodnoty obsahu některých z chemických látek obsažených v zelenině uvedené v části C přílohy č. 12 k tomuto nařízení,
+
+5\. nesplnění podmínky uvedené v § 15 odst. 7 písm. e), přičemž žadatel odebral alespoň 1 vzorek zeleniny,
+
+6\. nesplnění podmínky uvedené v § 15 odst. 7 písm. f), přičemž žadatel zajistil rozbor alespoň 1 vzorku zeleniny,
+
+7\. pokud ve vzorku zeleniny odebraném podle § 15 odst. 7 písm. e) a analyzovaném podle § 15 odst. 7 písm. f), nebo ve vzorku odebraném Fondem dojde k překročení mezní hodnoty obsahu některých z chemických látek obsažených v zelenině uvedené v části B přílohy č. 12 k tomuto nařízení a zároveň nedosáhne hodnoty obsahu některých z chemických látek obsažených v zelenině uvedené v části C přílohy č. 12 k tomuto nařízení,
+
+8\. nesplnění podmínky uvedené v § 15 odst. 7 písm. g), přičemž se jedná o 5 a více aplikací herbicidů v příslušném kalendářním roce,
+
+9\. nesplnění podmínky uvedené v § 15 odst. 8 písm. d), přičemž žadatel odebral alespoň 1 vzorek jahod,
+
+10\. nesplnění podmínky uvedené v § 15 odst. 8 písm. e), přičemž žadatel zajistil rozbor alespoň 1 vzorku jahod,
+
+11\. pokud ve vzorku jahod odebraném podle § 15 odst. 8 písm. d) a analyzovaném podle § 15 odst. 8 písm. e), nebo ve vzorku odebraném Fondem dojde k překročení mezní hodnoty obsahu olova v jahodách uvedené v části E přílohy č. 12 k tomuto nařízení a zároveň nedosáhne hodnoty obsahu olova obsaženého v jahodách uvedené v části F přílohy č. 12 k tomuto nařízení,
+
+12\. nesplnění podmínky uvedené v § 15 odst. 8 písm. i), přičemž se jedná o 8 a více aplikací herbicidů v příslušném kalendářním roce,
+
+13\. nesplnění podmínky uvedené v § 15 odst. 8 písm. j), přičemž se jedná o 7 a více aplikací insekticidů v příslušném kalendářním roce, nebo
+
+14\. nesplnění podmínky uvedené v § 15 odst. 10 písm. a) nebo b),
+
+c) podopatření ošetřování travních porostů
+
+1\. nesplnění podmínky uvedené v § 19 odst. 3 písm. c),
+
+2\. nesplnění podmínky uvedené v § 19 odst. 4 písm. c),
+
+3\. nesplnění podmínky uvedené v § 19 odst. 5 písm. c),
+
+4\. nesplnění podmínky uvedené v § 19 odst. 6 písm. c),
+
+5\. nesplnění podmínky uvedené v § 19 odst. 7 písm. g) nebo § 19 odst. 8 písm. h),
+
+6\. nesplnění podmínky uvedené v § 19 odst. 7 písm. b) až e),
+
+7\. nesplnění podmínky uvedené v § 19 odst. 8 písm. d),
+
+8\. nesplnění podmínky uvedené v § 19 odst. 9 písm. g),
+
+9\. nesplnění podmínky uvedené v § 19 odst. 10 písm. c),
+
+10\. nesplnění podmínky uvedené v § 19 odst. 10 písm. d) a zároveň Fondem zjištěné množství aplikovaného dusíku bylo vyšší než 65 kilogramů na 1 hektar dílu půdního bloku obhospodařovaného žadatelem, vedeného v evidenci využití půdy a zařazeného do podopatření podle § 2 písm. d) bodu 9,
+
+11\. nesplnění podmínky uvedené v § 19 odst. 10 písm. g),
+
+12\. nesplnění podmínky uvedené v § 19 odst. 10 písm. h),
+
+13\. nesplnění podmínky uvedené v § 19 odst. 11 písm. b), nebo
+
+14\. nesplnění podmínky uvedené v § 19 odst. 11 písm. d),
+
+d) podopatření zatravňování orné půdy
+
+1\. nesplnění podmínky uvedené v § 20 odst. 7 písm. a) bodech 2 až 4,
+
+2\. nesplnění podmínky uvedené v § 20 odst. 7 písm. b), jedná-li se o druhé a další nesplnění v průběhu trvání příslušného závazku,
+
+3\. nesplnění podmínky uvedené v § 20 odst. 7 písm. c),
+
+4\. nesplnění podmínky uvedené v § 20 odst. 7 písm. d),
+
+5\. nesplnění podmínky uvedené v § 20 odst. 8 písm. a) nebo b), nebo
+
+6\. nesplnění podmínky uvedené v § 20 odst. 8 písm. f), nebo
+
+e) podopatření biopásy
+
+1\. nesplnění podmínky uvedené v § 21 odst. 5 písm. a); dotace se neposkytne na příslušný díl půdního bloku, na kterém bylo nesplnění zjištěno,
+
+2\. nesplnění podmínky uvedené v § 21 odst. 5 písm. b); dotace se neposkytne na příslušný díl půdního bloku, na kterém bylo nesplnění zjištěno,
+
+3\. nesplnění podmínky uvedené v § 21 odst. 5 písm. c); dotace se neposkytne na příslušný díl půdního bloku, na kterém bylo nesplnění zjištěno,
+
+4\. nesplnění podmínky uvedené v § 21 odst. 6 písm. a),
+
+5\. nesplnění podmínky uvedené v § 21 odst. 6 písm. b),
+
+6\. nesplnění podmínky uvedené v § 21 odst. 7 písm. a) bodu 1 nebo 2,
+
+7\. nesplnění podmínky uvedené v § 21 odst. 7 písm. c),
+
+8\. nesplnění podmínky uvedené v § 21 odst. 8 písm. a) bodu 1 nebo 2, a zároveň rozhodne Fond o vrácení poskytnuté dotace za každý kalendářní rok, ve kterém nebyla podmínka splněna,
+
+9\. nesplnění podmínky uvedené v § 21 odst. 8 písm. b), nebo
+
+10\. nesplnění podmínky uvedené v § 21 odst. 8 písm. c).
+
+#### § 31 – Snížení dotace o 25 % vztahující se k celému období závazku
+
+(1) Dotace v příslušném kalendářním roce v rámci příslušného titulu podle § 2, vypočtená podle § 23, se sníží o 25 %, zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce révy vinné
+
+a) nesplnění podmínky uvedené v § 13 odst. 6 písm. a), je-li Fondem zjištěno nejméně 31 a nejvíce 32 aplikací uvedených v § 13 odst. 6 písm. a),
+
+b) nesplnění podmínky uvedené v § 13 odst. 6 písm. c), je-li Fondem zjištěno nejméně 31 a nejvíce 32 aplikací uvedených v § 13 odst. 6 písm. c),
+
+c) nesplnění podmínky uvedené v § 13 odst. 7 písm. a), je-li Fondem zjištěno nejméně 21 a nejvíce 22 aplikací uvedených v § 13 odst. 7 písm. a), nebo
+
+d) nesplnění podmínky uvedené v § 13 odst. 7 písm. c), je-li Fondem zjištěno nejméně 21 a nejvíce 22 aplikací uvedených v § 13 odst. 7 písm. c).
+
+(2) Na základě uplatnění snížení dotace podle odstavce 1 rozhodne Fond o vrácení poměrné části dotace poskytnuté od počátku závazku.
+
+#### § 32 – Snížení dotace o 50 % vztahující se k celému období závazku
+
+(1) Dotace v příslušném kalendářním roce v rámci příslušného titulu podle § 2, vypočtená podle § 23, se sníží o 50 %, zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce révy vinné
+
+a) nesplnění podmínky uvedené v § 13 odst. 6 písm. a), je-li Fondem zjištěno nejméně 33 a nejvíce 34 aplikací uvedených v § 13 odst. 6 písm. a),
+
+b) nesplnění podmínky uvedené v § 13 odst. 6 písm. c), je-li Fondem zjištěno nejméně 33 a nejvíce 34 aplikací uvedených v § 13 odst. 6 písm. c),
+
+c) nesplnění podmínky uvedené v § 13 odst. 7 písm. a), je-li Fondem zjištěno nejméně 23 a nejvíce 24 aplikací uvedených v § 13 odst. 7 písm. a), nebo
+
+d) nesplnění podmínky uvedené v § 13 odst. 7 písm. c), je-li Fondem zjištěno nejméně 23 a nejvíce 24 aplikací uvedených v § 13 odst. 7 písm. c).
+
+(2) Dotace v příslušném kalendářním roce v rámci příslušného titulu podle § 2 písm. d) bodu 4, vypočtená podle § 23, se sníží o 50 %, zjistí-li Fond u žadatele nesplnění podmínky uvedené v § 19 odst. 5 písm. d), jestliže na daném dílu půdního bloku nebyla zjištěna aplikace hnojiv nebo byly zjištěny 2 a více aplikací hnojiv v průběhu příslušného závazku.
+
+(3) Na základě uplatnění snížení dotace podle odstavce 1 nebo 2 rozhodne Fond o vrácení poměrné části dotace poskytnuté od počátku závazku.
+
+#### § 33 – Vyřazení z podopatření a vrácení dotace
+
+(1) Zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce ovoce
+
+a) nesplnění podmínky uvedené v § 12 odst. 5 písm. d), přičemž žadatel neodebral žádný vzorek ovoce,
+
+b) nesplnění podmínky uvedené v § 12 odst. 5 písm. e), přičemž žadatel nezajistí rozbor žádného vzorku ovoce podle § 12 odst. 5 písm. d), nebo
+
+c) ve vzorku ovoce odebraném podle § 12 odst. 5 písm. d) a analyzovaném podle § 12 odst. 5 písm. e) nebo ve vzorku odebraném Fondem překročení mezní hodnoty obsahu některých z chemických látek obsažených v ovoci uvedených v části C přílohy č. 5 k tomuto nařízení,
+
+dotace se v rámci podopatření podle § 2 neposkytne a Fond současně rozhodne o vyřazení žadatele z příslušného podopatření a o vrácení dotace poskytnuté za příslušné podopatření podle § 2 od počátku tohoto závazku.
+
+(2) Zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce révy vinné
+
+a) nesplnění podmínky uvedené v § 13 odst. 6 písm. a), je-li Fondem zjištěno 35 a více aplikací uvedených v § 13 odst. 6 písm. a),
+
+b) nesplnění podmínky uvedené v § 13 odst. 6 písm. b) nebo d), je-li Fondem zjištěno 11 a více aplikací uvedených v § 13 odst. 6 písm. b) nebo d),
+
+c) nesplnění podmínky uvedené v § 13 odst. 6 písm. c), je-li Fondem zjištěno 35 a více aplikací uvedených v § 13 odst. 6 písm. c),
+
+d) nesplnění podmínky uvedené v § 13 odst. 7 písm. b) nebo d), je-li Fondem zjištěno 11 a více aplikací uvedených v § 13 odst. 7 písm. b) nebo d),
+
+e) nesplnění podmínky uvedené v § 13 odst. 7 písm. a), je-li Fondem zjištěno 25 a více aplikací uvedených v § 13 odst. 7 písm. a), nebo
+
+f) nesplnění podmínky uvedené v § 13 odst. 7 písm. c), je-li Fondem zjištěno 25 a více aplikací uvedených v § 13 odst. 7 písm. c),
+
+dotace se v rámci titulu podle § 2 neposkytne a Fond současně rozhodne o vyřazení žadatele z příslušného titulu a vrácení dotace poskytnuté za příslušné podopatření podle § 2 od počátku tohoto závazku.
+
+(3) Zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce zeleniny a jahodníku
+
+1\. nesplnění podmínky uvedené v § 15 odst. 6 písm. e), přičemž žadatel neodebral žádný vzorek zeleniny,
+
+2\. nesplnění podmínky uvedené v § 15 odst. 6 písm. f) nebo v § 15 odst. 7 písm. f), přičemž žadatel nezajistil rozbor za účelem stanovení a zjištění dodržení limitu obsahu chemických látek žádného vzorku zeleniny nebo nezajistil rozbor za účelem zjištění dodržení limitu všech sledovaných chemických látek,
+
+3\. pokud ve vzorku zeleniny odebraném podle § 15 odst. 6 písm. e) a analyzovaném podle § 15 odst. 6 písm. f) nebo odebraném podle § 15 odst. 7 písm. e) a analyzovaném podle § 15 odst. 7 písm. f), nebo ve vzorku odebraném Fondem dojde k překročení mezní hodnoty obsahu některých z chemických látek obsažených v zelenině uvedené v části C přílohy č. 12 k tomuto nařízení,
+
+4\. nesplnění podmínky uvedené v § 15 odst. 7 písm. e), přičemž neodebral žádný vzorek zeleniny,
+
+5\. nesplnění podmínky uvedené v § 15 odst. 8 písm. d), přičemž žadatel neodebral žádný vzorek jahod,
+
+6\. nesplnění podmínky uvedené v § 15 odst. 8 písm. e), přičemž žadatel nezajistil rozbor za účelem stanovení a zjištění dodržení limitu obsahu chemických látek žádného vzorku jahod nebo nezajistil rozbor za účelem zjištění dodržení limitu všech sledovaných chemických látek, nebo
+
+7\. pokud ve vzorku jahod odebraném podle § 15 odst. 8 písm. d) a analyzovaném podle § 15 odst. 8 písm. e), nebo ve vzorku odebraném Fondem dojde k překročení mezní hodnoty obsahu některých z chemických látek obsažených v jahodách uvedené v části F přílohy č. 12 k tomuto nařízení,
+
+dotace se v rámci titulu podle § 2 neposkytne a Fond současně rozhodne o vyřazení žadatele z příslušného titulu a vrácení dotace poskytnuté za příslušný titul podle § 2 od počátku tohoto závazku.
+
+(4) Zjistí-li Fond u žadatele při uplatnění titulu zatravňování orné půdy nesplnění podmínky uvedené v § 20 odst. 6, § 20 odst. 7 písm. a) bodu 1 nebo v § 20 odst. 8 písm. e), dotace se neposkytne na díl půdního bloku, na kterém k nesplnění podmínky došlo, a Fond současně rozhodne o vyřazení tohoto dílu půdního bloku z příslušného titulu a rozhodne o vrácení dotace poskytnuté podle § 2 na daný díl půdního bloku od počátku tohoto závazku.
+
+(5) Zjistí-li Fond u žadatele při uplatnění podopatření zatravňování drah soustředěného odtoku nesplnění podmínky uvedené v § 22a odst. 5 písm. a) bodu 1 nebo v § 22a odst. 6 písm. e), dotace se neposkytne na díl půdního bloku, na kterém k nesplnění podmínky došlo, a Fond současně rozhodne o vyřazení tohoto dílu půdního bloku z příslušného podopatření a rozhodne o vrácení dotace poskytnuté podle § 2 na daný díl půdního bloku od počátku tohoto závazku.
+
+(6) Zjistí-li Fond nesplnění podmínky příslušného podopatření, které má za následek vrácení již poskytnuté dotace, uplatní se vrácení dotace nejvýše na dotaci poskytnutou v průběhu 4 kalendářních let bezprostředně předcházejících kalendářnímu roku, ve kterém došlo k nesplnění podmínky; v případě zjištění nesplnění podmínky opatření po skončení závazku se sankce uplatní nejvýše na dotaci poskytnutou za 5 kalendářních let.
+
+(7) Vyjde-li dodatečně najevo, že žadatel, jemuž byla dotace již poskytnuta, nesplňoval podmínky pro její poskytnutí, vrátí na základě rozhodnutí Fondu poskytnutou dotaci za příslušný kalendářní rok na bankovní účet Fondu, ze kterého mu byla dotace poskytnuta; obdobně se postupuje v případě dodatečného zjištění skutečností, které by byly důvodem pro snížení dotace.
+
+(8) Zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce ovoce nesplnění podmínky uvedené v § 12 odst. 5 písm. c) nebo překročení limitů obsahu chemických látek uvedených v příloze č. 4 k tomuto nařízení, nebo
+
+b) podopatření integrovaná produkce zeleniny a jahodníku nesplnění podmínky uvedené v § 15 odst. 5 písm. b) nebo překročení limitů obsahu chemických látek uvedených v příloze č. 4 k tomuto nařízení,
+
+dotace se neposkytne na díl půdního bloku, na kterém k nesplnění podmínky došlo, a Fond současně rozhodne o vyřazení tohoto dílu půdního bloku z příslušného podopatření a o vrácení dotace poskytnuté podle § 2 na daný díl půdního bloku od počátku tohoto závazku.
+
+(9) Zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce ovoce nesplnění podmínky uvedené v § 12 odst. 11 a nepředložení dokladů podle § 12 odst. 5 písm. e) do 15. února kalendářního roku následujícího po roce, ve kterém žadatel žádal o dotaci, dotace se v rámci podopatření podle § 2 neposkytne a Fond současně rozhodne o vyřazení žadatele z příslušného podopatření a o vrácení dotace poskytnuté za příslušné podopatření podle § 2 od počátku tohoto závazku.
+
+(10) Zjistí-li Fond u žadatele při uplatnění podopatření integrovaná produkce zeleniny a jahodníku nesplnění podmínky uvedené v § 15 odst. 12 písm. a) bodě 2 a nepředložení dokladů podle § 15 odst. 6 písm. f), § 15 odst. 7 písm. f) nebo § 15 odst. 8 písm. e) do 15. února kalendářního roku následujícího po roce, ve kterém žadatel žádal o dotaci, dotace se v rámci titulu podle § 2 neposkytne a Fond současně rozhodne o vyřazení žadatele z příslušného titulu a vrácení dotace poskytnuté za příslušný titul podle § 2 od počátku tohoto závazku.
+
+(11) Zjistí-li Fond u žadatele při uplatnění
+
+a) podopatření integrovaná produkce ovoce nesplnění podmínky uvedené v § 12 odst. 11 a nepředložení dokladů podle § 12 odst. 5 písm. c) do 15. února kalendářního roku následujícího po roce, ve kterém měl být rozbor nejpozději proveden, nebo
+
+b) podopatření integrovaná produkce zeleniny a jahodníku nesplnění podmínky uvedené v § 15 odst. 12 písm. a) bodě 1 a nepředložení dokladů podle § 15 odst. 5 písm. b) do 15. února kalendářního roku následujícího po roce, ve kterém měl být rozbor nejpozději proveden,
+
+dotace se neposkytne na díl půdního bloku, na kterém k nesplnění podmínky došlo, a Fond současně rozhodne o vyřazení tohoto dílu půdního bloku z příslušného podopatření a o vrácení dotace poskytnuté podle § 2 na daný díl půdního bloku od počátku tohoto závazku.
+
+#### § 33a – Lhůty pro podání žádosti v roce 2020
+
+(1) Pro rok 2020 lze žádost o zařazení podle § 3 odst. 4 doručit Fondu do 15. června 2020.
+
+(2) Pro rok 2020 lze žádost o změnu zařazení podle § 6 odst. 1 doručit Fondu do 15. června 2020.
+
+(3) Pro rok 2020 lze žádost o zvýšení zařazené výměry podle § 7 odst. 3 doručit Fondu do 15. června 2020.
+
+(4) Pro rok 2020 lze žádost o snížení zařazené výměry podle § 8 odst. 2 doručit Fondu do 15. června 2020, nejedná-li se o žádost o snížení zařazené výměry podle § 8 odst. 2 písm. a) nebo b).
+
+(5) Pro rok 2020 lze žádost o poskytnutí dotace podle § 9 odst. 1 doručit Fondu do 15. června 2020.
+
+(6) Je-li pro rok 2020 žádost o poskytnutí dotace doručena po lhůtě uvedené v odstavci 5, použije se § 9 odst. 4 obdobně.
+
+(7) Pro rok 2020 lze žádost o změnu zařazení v souvislosti s vyklučením podle § 14 odst. 1 písm. b) doručit Fondu nejpozději do 15. června 2020.
+
+#### § 33b – Posuzování podmínky povinného školení v integrované produkci pro rok 2020
+
+Jestliže žadatel v roce 2020 absolvuje nejpozději do 31. prosince 2020 školení zajišťované Ústředním kontrolním a zkušebním ústavem zemědělským, je tím splněna podmínka uvedená v § 12 odst. 5 písm. i) nebo v § 13 odst. 5 písm. i).
+
+#### § 33c – Posuzování splnění podmínky intenzity chovu hospodářských zvířat za rok 2020
+
+V případě žádosti o poskytnutí dotace pro rok 2020 se za nesplnění podmínky uvedené v § 17 vedoucí k postupu podle hlavy čtvrté nepovažuje, pokud k nesplnění podmínky dojde v období od 1. června do 15. června 2020.
+
+#### § 34 – Závěrečná ustanovení
+
+(1) Jestliže nebyly dodrženy podmínky stanovené tímto nařízením v důsledku zásahu vyšší moci<sup>2</sup>), ustanovení o snížení, neposkytnutí nebo vrácení dotace se nepoužijí.
+
+(2) Pokud je v průběhu trvání závazku na dílu půdního bloku znemožněno zemědělské hospodaření z důvodu změny zonace národního parku<sup>26</sup>), ustanovení o snížení, neposkytnutí nebo vrácení dotace se nepoužijí.
+
+(3) Dojde-li k vyřazení z agroenvironmentálně-klimatického opatření podle § 10 odst. 3 v důsledku uplatnění čl. 48 nařízení Evropského parlamentu a Rady (EU) č. 1305/2013, ustanovení o snížení, neposkytnutí nebo vrácení dotace se nepoužijí.
+
+(4) Fond při výpočtu číselných údajů podle tohoto nařízení použije matematické zaokrouhlování na 2 desetinná místa.
+
+#### § 35 – Přechodné ustanovení
+
+(1) Jestliže žadatel v roce 2015 absolvuje nejpozději do 31. října 2015 školení zajišťované Ústředním kontrolním a zkušebním ústavem zemědělským a zašle Fondu kopii potvrzení o absolvování tohoto školení nejpozději do 30. listopadu 2015, je tím splněna podmínka uvedená v § 12 odst. 5 písm. i) nebo v § 13 odst. 5 písm. i).
+
+(2) Pro rok 2015 lze žádost o zařazení podle § 3 odst. 4 doručit Fondu do 29. května 2015.
+
+(3) Pro rok 2015 lze žádost o poskytnutí dotace podle § 9 odst. 1 doručit Fondu do 29. května 2015.
+
+(4) Je-li pro rok 2015 žádost o poskytnutí dotace doručena po lhůtě uvedené v odstavci 3, použije se § 9 odst. 4 obdobně.
+
+## ČÁST DRUHÁ – Změna nařízení vlády o podmínkách provádění agroenvironmentálních opatření
+
+### § 36
+
+Nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění nařízení vlády č. 114/2008 Sb., nařízení vlády č. 45/2009 Sb., nařízení vlády č. 83/2009 Sb., nařízení vlády č. 480/2009 Sb., nařízení vlády č. 78/2010 Sb., nařízení vlády č. 112/2010 Sb., nařízení vlády č. 369/2010 Sb., nařízení vlády č. 282/2011 Sb., nařízení vlády č. 61/2012 Sb., nařízení vlády č. 263/2012 Sb., nařízení vlády č. 448/2012 Sb., nařízení vlády č. 298/2013 Sb., nařízení vlády č. 400/2013 Sb., nařízení vlády č. 29/2014 Sb. a nařízení vlády č. 308/2014, se mění takto:
+
+1\. V § 4 odst. 2 písm. f) body 1 a 2 znějí:
+
+> „1. první seč spolu s odklizením biomasy bude provedena nejpozději do 31. července kalendářního roku, pokud podmínky na dané ploše uplatňovaného agroenvironmentálního opatření podle tohoto nařízení, podle nařízení vlády č. 242/2004 Sb., o podmínkách provádění opatření na podporu rozvoje mimoprodukčních funkcí zemědělství spočívajících v ochraně složek životního prostředí (o provádění agroenvironmentálních opatření), ve znění pozdějších předpisů, nebo podle § 18 nebo 19 nařízení vlády č. 75/2015 Sb., o podmínkách provádění agroenvironmentálně-klimatických opatření, nestanoví jinak,
+
+> 2\. druhá seč spolu s odklizením biomasy bude provedena nejpozději do 31. října kalendářního roku, pokud podmínky na dané ploše uplatňovaného agroenvironmentálního opatření podle tohoto nařízení, podle nařízení vlády č. 242/2004 Sb. nebo podle § 18 nebo 19 nařízení vlády č. 75/2015 Sb. nestanoví jinak,“.
+
+2\. V § 7 odst. 6 a v § 9 odst. 6 písm. c) se slova „15. září“ nahrazují slovy „31. října“.
+
+3\. V § 13 se na konci odstavců 2 a 9 doplňují slova „nebo v rámci podopatření biopásy podle § 2 písm. f) nařízení vlády č. 75/2015 Sb.“.
+
+4\. V § 13 se za odstavec 10 vkládá nový odstavec 11, který zní:
+
+> „(11) Dotace v rámci titulu ekologické zemědělství se neposkytne na díl půdního bloku, na který je v příslušném kalendářním roce podána žádost o dotaci v rámci podopatření zatravňování orné půdy podle § 2 písm. e) nebo podopatření ochrana čejky chocholaté podle § 2 písm. g) nařízení vlády č. 75/2015 Sb.“.
+
+Dosavadní odstavce 11 až 13 se označují jako odstavce 12 až 14.
+
+5\. V § 13 odst. 13 se slova „odstavce 11“ nahrazují slovy „odstavce 12“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### § 37
+
+Toto nařízení nabývá účinnosti dnem 15. dubna 2015.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr zemědělství:
+
+Ing. Jurečka v. r.
+
+### Příloha č. 2 k nařízení vlády č. 75/2015 Sb.
+
+#### Rozsah zjišťovaných údajů a seznam technických zařízení, která lze používat ke zjišťování meteorologických prvků v sadu v podopatření integrovaná produkce ovoce (§ 12) a při pěstování zeleniny v podopatření integrovaná produkce zeleniny a jahodníku (§ 15)
+
+A. Rozsah zjišťovaných údajů o teplotě, vlhkosti a ovlhčení listů v ovocném sadu (§ 12)
+
+1\. Datum měření
+
+2\. Díl půdního bloku, ke kterému se měření vztahuje
+
+3\. Minimální denní teplota (v °C)
+
+4\. Maximální denní teplota (v °C)
+
+5\. Průměrná vlhkost vzduchu (v %); jestliže přístroj neuvádí průměrnou vlhkost vzduchu, zaznamená se vlhkost vzduchu zjištěná v průběhu sledovaného dne s uvedením hodiny měření
+
+6\. Doba ovlhčení listů v hodinách
+
+B. Rozsah zjišťovaných údajů o teplotě a srážkách při pěstování zeleniny a jahodníku (§ 15)
+
+1\. Datum měření
+
+2\. Díl půdního bloku, ke kterému se měření vztahuje
+
+3\. Minimální denní teplota (v °C)
+
+4\. Maximální denní teplota (v °C)
+
+5\. Množství srážek (v mm)
+
+C. Seznam technických zařízení, která lze používat ke zjišťování meteorologických prvků v sadu v podopatření integrovaná produkce ovoce (§ 12) a při pěstování zeleniny a jahodníku v podopatření integrovaná produkce zeleniny a jahodníku (§ 15)
+
+1\. Srážkoměr a maximo-minimální teploměr
+
+2\. Měřič teploty a srážkoměr
+
+3\. Meteorologická stanice
+
+D. Vzor vedení záznamu o hodnotách meteorologických prvků a vyhodnocení zjištěných údajů v sadu v podopatření integrovaná produkce ovoce (§ 12) a při pěstování zeleniny nebo jahodníku v podopatření integrovaná produkce zeleniny a jahodníku (§ 15)
+
+###### ![sbcr2015c036z0075_2018c015z0028p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879777/NAHLED/ZOBRAZ/sbcr2015c036z0075_2018c015z0028p002u001)
+
+### Příloha č. 3 k nařízení vlády č. 75/2015 Sb.
+
+#### Seznam účinných látek, které nesmí být obsaženy v přípravcích na ochranu rostlin používaných v rámci podopatření integrovaná produkce ovoce (§ 12), podopatření integrovaná produkce révy vinné (§ 13) a podopatření integrovaná produkce zeleniny a jahodníku (§ 15)
+
+A. Seznam účinných látek, které nesmí být obsaženy v přípravcích na ochranu rostlin používaných v rámci podopatření integrovaná produkce ovoce (§ 12)
+
+| | Účinná látka |
+|---|---|
+| 1. | Alpha- cypermethrin |
+| 2. | Cypermethrin |
+| 3. | Deltamethrin |
+| 4. | Fenpyroximate |
+| 5. | Chlorpyrifos |
+| 6. | Chlorothalonil |
+| 7. | Lambda-cyhalothrin |
+| 8. | Pirimiphos-methyl |
+| 9. | Zeta-cypermethrin |
+
+B. Seznam účinných látek, které nesmí být obsaženy v přípravcích na ochranu rostlin používaných v rámci podopatření integrovaná produkce révy vinné (§ 13)
+
+| | Účinná látka |
+|---|---|
+| 1. | Alpha-cypermethrin |
+| 2. | Deltamethrin |
+| 3 | Diquat dibromide |
+| 4. | Lambda-cyhalothrin |
+| 5. | Zeta-cypermethrin |
+
+C. Seznam účinných látek, které nesmí být obsaženy v přípravcích na ochranu rostlin používaných v rámci podopatření integrovaná produkce zeleniny a jahodníku (§ 15)
+
+| | Účinná látka |
+|---|---|
+| 1. | Bifenox |
+| 2. | Dimethoate |
+| 3. | Diquat dibromide |
+| 4. | Fenpyroximate |
+| 5. | Chlorpyrifos |
+| 6. | Pirimiphos-methyl |
+| 7. | Terbuthylazine |
+| 8. | Zeta-cypermethrin |
+
+### Příloha č. 4 k nařízení vlády č. 75/2015 Sb.
+
+#### Maximální limity obsahu sledovaných těžkých kovů, které může obsahovat vzorek půdy v podopatření integrovaná produkce ovoce (§ 12) a integrovaná produkce zeleniny a jahodníku (§ 15)
+
+| | Chemická látka | Mezní hodnota celkového obsahu chemické látky v půdě (mg.kg-1) |
+|---|---|---|
+| 1. | Olovo (Pb) | 100,0 |
+| 2. | Kadmium (Cd) | 0,4 |
+| 3. | Rtuť(Hg) | 0,6 |
+| 4. | Chrom (Cr) | 100,0 |
+| 5. | Arsen (As) | 30,0 |
+
+### Příloha č. 5 k nařízení vlády č. 75/2015 Sb.
+
+#### Maximální limity obsahu sledovaných těžkých kovů, které může obsahovat vzorek ovoce v podopatření integrovaná produkce ovoce
+
+A. Maximální obsah olova, při jehož překročení dojde ke snížení dotace
+
+| | Druh ovocných stromů a keřů | Olovo (Pb) mg.kg<sup>-1</sup> |
+|---|---|---|
+| 1. | Broskvoň<br> Prunus persica L. | 0,09 |
+| 2. | Hrušeň<br> Pyrus sp. | 0,09 |
+| 3. | Jabloň<br> Malus sp. | 0,09 |
+| 4. | Meruňka<br> Prunus armeniaca L. | 0,09 |
+| 5. | Slivoň švestka (kromě myrobalánu)<br> Prunus domestica L. | 0,09 |
+| 6. | Slivoň obecná<br> Prunus domestica ssp. insititia L. | 0,09 |
+| 7. | Slivoň renklóda<br> Prunus domestica ssp. italica L. | 0,09 |
+| 8. | Třešeň<br> Prunus avium L | 0,09 |
+| 9. | Višeň<br> Prunus cerasus L. | 0,09 |
+| 10. | Angrešt<br> Ribes uva-crispa L. | 0,09 |
+| 11. | Maliník<br> Rubus idaeus L. | 0,09 |
+| 12. | Ostružiník<br> Rubus fruticosus agg. L. | 0,09 |
+| 13. | Rybíz<br> Ribes sp. | 0,18 |
+
+B. Maximální obsah olova, při jehož překročení dojde k neposkytnutí dotace
+
+| | Druh ovocných stromů a keřů | Olovo (Pb) mg.kg<sup>-1</sup> |
+|---|---|---|
+| 1. | Broskvoň<br> Prunus persica L. | 0,1 |
+| 2. | Hrušeň<br> Pyrus sp. | 0,1 |
+| 3. | Jabloň<br> Malus sp. | 0,1 |
+| 4. | Meruňka<br> Prunus armeniaca L. | 0,1 |
+| 5. | Slivoň švestka (kromě myrobalánu)<br> Prunus domestica L. | 0,1 |
+| 6. | Slivoň obecná<br> Prunus domestica ssp. insititia L. | 0,1 |
+| 7. | Slivoň renklóda<br> Prunus domestica ssp. italica L | 0,1 |
+| 8. | Třešeň<br> Prunus avium L | 0,1 |
+| 9. | Višeň<br> Prunus cerasus L. | 0,1 |
+| 10. | Angrešt<br> Ribes uva-crispa L. | 0,1 |
+| 11. | Maliník<br> Rubus idaeus L | 0,1 |
+| 12. | Ostružiník<br> Rubus fruticosus agg. L. | 0,1 |
+| 13. | Rybíz<br> Ribes sp. | 0,2 |
+
+C. Maximální obsah těžkých kovů, při jehož překročení dojde k vyřazení z podopatření
+
+<table><tbody><tr><th></th><th>Chemická látka</th><th>Mezní hodnota celkového obsahu chemické látky v ovoci (mg.kg<sup>-1</sup>)</th></tr><tr><td>1.</td><td>Olovo (Pb)</td><td>0,4</td></tr><tr><td rowspan="3">2.</td><td>Kadmium (Cd)</td><td></td></tr><tr><td>a) broskvoň, hrušeň, jabloň, meruňka, slivoň švestka (kromě myrobalánu), slivoň obecná, slivoň renklóda, třešeň a višeň</td><td>0,02</td></tr><tr><td>b) angrešt, maliník, ostružiník a rybíz</td><td>0,03</td></tr><tr><td>3.</td><td>Rtuť (Hg)</td><td>0,005</td></tr><tr><td>4.</td><td>Chrom (Cr)</td><td>0,1</td></tr><tr><td>5.</td><td>Arsen (As)</td><td>0,5</td></tr></tbody></table>
+
+### Příloha č. 6 k nařízení vlády č. 75/2015 Sb.
+
+#### Použití prostředků pro sledování výskytu škodlivých organismů v sadu v podopatření integrovaná produkce ovoce (§ 12) a při pěstování zeleniny a jahodníku v podopatření integrovaná produkce zeleniny a jahodníku (§ 15)
+
+A. Seznam prostředků pro sledování výskytu škodlivých organismů v sadu v podopatření integrovaná produkce ovoce (§ 12) a při pěstování zeleniny a jahodníku v podopatření integrovaná produkce zeleniny a jahodníku (§ 15)
+
+1\. Feromonové lapače
+
+2\. Lepové desky
+
+3\. Světelné lapáky
+
+4\. Nasávací a zemní pasti
+
+5\. Zařízení ke sklepávání škodlivých organismů
+
+6\. Optické vodní lapače
+
+7\. Smýkadla
+
+B. Vzor vedení záznamu o použití prostředků pro sledování výskytu škodlivých organismů v sadu v podopatření integrovaná produkce ovoce (§ 12) a při pěstování zeleniny a jahodníku v podopatření integrovaná produkce zeleniny a jahodníku (§ 15)
+
+###### ![sbcr2015c036z0075_2016c024z0063p006u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879779/NAHLED/ZOBRAZ/sbcr2015c036z0075_2016c024z0063p006u001)
+
+### Příloha č. 7 k nařízení vlády č. 75/2015 Sb.
+
+#### Druhy ovocných stromů a keřů podporovaných v podopatření integrovaná produkce ovoce
+
+A. Stromy:
+
+| 1. | Broskvoň<br> Prunus persica L. |
+|---|---|
+| 2. | Hrušeň<br> Pyrus sp. |
+| 3. | Jabloň<br> Malus sp. |
+| 4. | Meruňka<br> Prunus armeniaca L. |
+| 5. | Slivoň švestka (kromě myrobalánu)<br> Prunus domestica L. |
+| 6. | Slivoň obecná<br> Prunus domestica ssp. insititia L. |
+| 7. | Slivoň renklóda<br> Prunus domestica ssp. italica L. |
+| 8. | Třešeň<br> Prunus avium L. |
+| 9. | Višeň<br> Prunus cerasus L. |
+
+B. Keře:
+
+| 1. | Angrešt<br> Ribes uva-crispa L. |
+|---|---|
+| 2. | Maliník<br> Rubus idaeusL |
+| 3. | Ostružiník<br> Rubus fruticosus agg L. |
+| 4. | Rybíz<br> Ribes sp. |
+
+### Příloha č. 8 k nařízení vlády č. 75/2015 Sb.
+
+#### Složení osevní směsi v podopatření integrovaná produkce révy vinné
+
+| | Druh | Množství ve směsi (%) | Minimální počet druhů ve směsi |
+|---|---|---|---|
+| 1. | Bobovité<br> Fabaceae | 50 - 70 | 5 |
+| 2. | Lipnicovité<br> Poaceae | 10 | 2 |
+| 3. | Ostatní dvouděložné | 20 - 40 | 3 |
+
+Poznámka: V osevní směsi je zastoupeno nejméně 5 druhů bobovitých podle bodu 1, nejméně dva druhy lipnicovitých podle bodu 2 a nejméně tři druhy ostatních dvouděložných bylin podle bodu 3. Zastoupení jednotlivých skupin ve směsi je uvedeno jako váhový poměr a činí pro bobovité 50 - 70 %, pro lipnicovité 10 % a pro ostatní dvouděložné byliny 20 - 40 %.
+
+### Příloha č. 9 k nařízení vlády č. 75/2015 Sb.
+
+#### Podporované druhy zeleniny v titulu integrovaná produkce zeleniny
+
+<table><tbody><tr><th></th><th>Podporované druhy zeleniny na dílu půdního bloku s druhem zemědělské kultury standardní orná půda</th></tr><tr><td>1.</td><td>Brokolice</td></tr><tr><td>2.</td><td>Celer bulvový</td></tr><tr><td>3.</td><td>Celer naťový</td></tr><tr><td>4.</td><td>Celer řapíkatý</td></tr><tr><td>5.</td><td>Cibule</td></tr><tr><td>6.</td><td>Šalotka</td></tr><tr><td>7.</td><td>Čekanka salátová</td></tr><tr><td>8.</td><td>Česnek</td></tr><tr><td>9.</td><td>Fazol zahradní</td></tr><tr><td>10.</td><td>Hrách zahradní</td></tr><tr><td>11.</td><td>Kapusta hlávková</td></tr><tr><td>12.</td><td>Kapusta růžičková</td></tr><tr><td>13.</td><td>Kapusta kadeřavá - kadeřávek</td></tr><tr><td>14.</td><td>Kedluben</td></tr><tr><td>15.</td><td>Kopr vonný</td></tr><tr><td>16.</td><td>Křen selský</td></tr><tr><td>17.</td><td>Kukuřice cukrová</td></tr><tr><td>18.</td><td>Květák</td></tr><tr><td>19.</td><td>Lilek vejcoplodý</td></tr><tr><td>20.</td><td>Meloun vodní</td></tr><tr><td>21.</td><td>Mrkev</td></tr><tr><td>22.</td><td>Okurka nakladačka</td></tr><tr><td>23.</td><td>Okurka salátová</td></tr><tr><td>24.</td><td>Paprika</td></tr><tr><td>25.</td><td>Pastinák</td></tr><tr><td>26.</td><td>Pažitka</td></tr><tr><td>27.</td><td>Petržel kořenová</td></tr><tr><td>28.</td><td>Petržel naťová</td></tr><tr><td>29.</td><td>Pór</td></tr><tr><td>30.</td><td>Rajče</td></tr><tr><td>31.</td><td>Reveň</td></tr><tr><td>32.</td><td>Ředkev</td></tr><tr><td>33.</td><td>Ředkvička</td></tr><tr><td>34.</td><td>Řepa salátová</td></tr><tr><td>35.</td><td>Salát</td></tr><tr><td>36.</td><td>Špenát</td></tr><tr><td>37.</td><td>Tykev <sup>*</sup>)</td></tr><tr><td>38.</td><td>Zelí hlávkové</td></tr><tr><td>39.</td><td>Zelí pekingské</td></tr><tr><th colspan="2">Podporované druhy zeleniny na dílu půdního bloku s bloku s druhem zemědělské kultury jiná trvalá kultura</th></tr><tr><td>1.</td><td>Chřest</td></tr></tbody></table>
+
+\*) S výjimkou tykve olejné, tykve fíkolisté a tykve pomíchané.
+
+### Příloha č. 10 k nařízení vlády č. 75/2015 Sb.
+
+A. Evidenční karta dílu půdního bloku v podopatření integrovaná produkce zeleniny a jahodníku
+
+##### ![sbcr2015c036z0075p010u001_2017c017z0047.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879781/NAHLED/ZOBRAZ/sbcr2015c036z0075p010u001_2017c017z0047)
+
+B. Evidenční karta provedených agrotechnických operací při pěstování jahodníku v podopatření integrovaná produkce zeleniny a jahodníku
+
+##### ![sbcr2015c036z0075_2016c024z0063p010u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/879783/NAHLED/ZOBRAZ/sbcr2015c036z0075_2016c024z0063p010u002)
+
+### Příloha č. 11 k nařízení vlády č. 75/2015 Sb.
+
+#### Minimální počet sadby nebo výsevu podporovaných druhů zeleniny a jahodníku a hmotnost tisíce semen v podopatření integrovaná produkce zeleniny a jahodníku
+
+| | Druh zeleniny a jahodník | Sadba<br> ks nebo kg na 1 hektar | Výsev volně <br> ks nebo kg na 1 hektar | Minimální hmotnost tisíce semen (HTS)<br> g |
+|---|---|---|---|---|
+| 1. | Brokolice | 20 000 | 30 000 semen | 2,65 |
+| 2. | Celer bulvový | 50 000 | - | - |
+| 3. | Celer naťový | 50 000 | - | |
+| 4. | Celer řapíkatý | 50 000 | - | - |
+| 5. | Cibule<sup>\*\*</sup>) | 110 000/500 kg | 625 000 semen | 2,7 |
+| 6. | Šalotka<sup>\*\*</sup>) | 110 000 | 500 000 semen | 3,2 |
+| 7. | Čekanka salátová | 50 000 | 50 000 semen | 1,1 |
+| 8. | Česnek | 800 kg | - | - |
+| 9. | Fazol zahradní | - | 200 000 semen | 150 |
+| 10. | Hrách zahradní | - | 900 000 semen | 110 |
+| 11. | Kapusta hlávková | 20 000 | 45 000 semen | 2,2 |
+| 12. | Kapusta růžičková | 25 000 | 50 000 semen | 2,9 |
+| 13. | Kapusta kadeřavá -kadeřávek | 20 000 | 40 000 semen | 2,88 |
+| 14. | Kedluben | 65 000 | 100 000 semen | 3,0 |
+| 15. | Kopr vonný | - | 4 kg | 1,31 |
+| 16. | Křen selský | 25 000 | - | - |
+| 17. | Kukuřice cukrová | - | 50 000 semen | 150 |
+| 18. | Květák | 20 000 | 30 000 semen | 2,30 |
+| 19. | Lilek vejcoplodý | 20 000 | 25 000 semen | 4,05 |
+| 20. | Meloun vodní | 5000 | 5000 semen | 22 |
+| 21. | Mrkev | - | 800 000 semen | 0,65 |
+| 22. | Okurka nakladačka | 15 000 | 25 000 semen | 16 |
+| 23. | Okurka salátová | 15 000 | 25 000 semen | 16 |
+| 24. | Paprika | 30 000 | - | - |
+| 25. | Pastinák | - | 250 000 semen | 2,3 |
+| 26. | Pažitka<sup>\*\*</sup>) | 50 000 | - | - |
+| 27. | Petržel kořenová | - | 800 000 semen | 0,9 |
+| 28. | Petržel naťová<sup>\*\*</sup>) | 65 000 | 1 000 000 | 1 |
+| 29. | Pór | 120 000 | 150 000 | 2,30 |
+| 30. | Rajče | 8 000 | 16 000 semen | 2,2 |
+| 31. | Reveň | 4 000 | - | - |
+| 32. | Ředkev | - | 120 000 semen | 8,0 |
+| 33. | Ředkvička | - | 1 000 000 semen | 5,6 |
+| 34. | Řepa salátová | - | 120 000 semen | 11,0 |
+| 35. | Salát | 50 000 | - | - |
+| 36. | Špenát | - | 900 000 semen | 8 |
+| 37. | Tykev<sup>\*</sup>) | 5000 | 5000 semen | 75 |
+| 38. | Zelí hlávkové | 25 000 | 35 000 semen | 2,0 |
+| 39. | Zelí pekingské | 40 000 | | 2,0 |
+| 40. | Chřest | 15 000 | - | - |
+| 41. | Jahodník | 29 000 | - | - |
+
+<sup>\*</sup>) S výjimkou tykve olejné, tykve fíkolisté a tykve pomíchané.
+
+<sup>\*\*</sup>) V případě cibule, šalotky, pažitky a petržele naťové se jedná o počet balíčků na 1 ha; u těchto plodin může být v každém balíčku více než 1 ks rostlin.
+
+### Příloha č. 12 k nařízení vlády č. 75/2015 Sb.
+
+#### Maximální limity obsahu sledovaných těžkých kovů, které může obsahovat vzorek zeleniny nebo vzorek jahod v podopatření integrovaná produkce zeleniny a jahodníku
+
+A. Maximální obsah těžkých kovů v zelenině, při jehož překročení dojde ke snížení dotace
+
+<table><tbody><tr><th colspan="2">Druh zeleniny</th><th>Olovo (Pb) <br> mg. kg<sup>-1</sup></th><th>Kadmium (Cd) <br> mg.kg<sup>-1</sup></th></tr><tr><td>1.</td><td>Brokolice</td><td>0,09</td><td>0,036</td></tr><tr><td>2.</td><td>Celer bulvový</td><td>0,09</td><td>0,14</td></tr><tr><td>3.</td><td>Celer naťový</td><td>0,09</td><td>0,09</td></tr><tr><td>4.</td><td>Celer řapíkatý</td><td>0,09</td><td>0,09</td></tr><tr><td>5.</td><td>Cibule</td><td>0,09</td><td>0,029</td></tr><tr><td>6.</td><td>Šalotka</td><td>0,09</td><td>0,029</td></tr><tr><td>7.</td><td>Čekanka salátová</td><td>0,27</td><td>0,18</td></tr><tr><td>8.</td><td>Česnek</td><td>0,09</td><td>0,045</td></tr><tr><td>9.</td><td>Fazol zahradní</td><td>0,09</td><td>0,018</td></tr><tr><td>10.</td><td>Hrách zahradní</td><td>0,09</td><td>0,018</td></tr><tr><td>11.</td><td>Kapusta hlávková</td><td>0,27</td><td>0,09</td></tr><tr><td>12.</td><td>Kapusta růžičková</td><td>0,27</td><td>0,09</td></tr><tr><td>13.</td><td>Kapusta kadeřavá - kadeřávek</td><td>0,27</td><td>0,09</td></tr><tr><td>14.</td><td>Kedluben</td><td>0,09</td><td>0,036</td></tr><tr><td>15.</td><td>Kopr vonný</td><td>0,27</td><td>0,18</td></tr><tr><td>16.</td><td>Křen selský</td><td>0,09</td><td>0,18</td></tr><tr><td>17.</td><td>Kukuřice cukrová</td><td>0,09</td><td>0,09</td></tr><tr><td>18.</td><td>Květák</td><td>0,09</td><td>0,036</td></tr><tr><td>19.</td><td>Lilek vejcoplodý</td><td>0,045</td><td>0,027</td></tr><tr><td>20.</td><td>Meloun vodní</td><td>0,045</td><td>0,018</td></tr><tr><td>21.</td><td>Mrkev</td><td>0,09</td><td>0,09</td></tr><tr><td>22.</td><td>Okurka nakládačka</td><td>0,045</td><td>0,018</td></tr><tr><td>23.</td><td>Okurka salátová</td><td>0,045</td><td>0,018</td></tr><tr><td>24.</td><td>Paprika</td><td>0,045</td><td>0,018</td></tr><tr><td>25.</td><td>Pastinák</td><td>0,09</td><td>0,18</td></tr><tr><td>26.</td><td>Pažitka</td><td>0,27</td><td>0,09</td></tr><tr><td>27.</td><td>Petržel kořenová</td><td>0,09</td><td>0,045</td></tr><tr><td>28.</td><td>Petržel naťová</td><td>0,27</td><td>0,09</td></tr><tr><td>29.</td><td>Pór</td><td>0,09</td><td>0,036</td></tr><tr><td>30.</td><td>Rajče</td><td>0,045</td><td>0,018</td></tr><tr><td>31.</td><td>Reveň</td><td>0,27</td><td>0,09</td></tr><tr><td>32.</td><td>Ředkev</td><td>0,09</td><td>0,018</td></tr><tr><td>33.</td><td>Ředkvička</td><td>0,09</td><td>0,09</td></tr><tr><td>34.</td><td>Řepa salátová</td><td>0,09</td><td>0,054</td></tr><tr><td>35.</td><td>Salát</td><td>0,27</td><td>0,18</td></tr><tr><td>36.</td><td>Špenát</td><td>0,27</td><td>0,18</td></tr><tr><td>37.</td><td>Tykev</td><td>0,045</td><td>0,019</td></tr><tr><td>38.</td><td>Zelí hlávkové</td><td>0,27</td><td>0,09</td></tr><tr><td>39.</td><td>Zelí pekingské</td><td>0,27</td><td>0,09</td></tr><tr><td>40.</td><td>Chřest</td><td>0,27</td><td>0,09</td></tr></tbody></table>
+
+B. Maximální obsah těžkých kovů v zelenině, při jehož překročení dojde k neposkytnutí dotace
+
+<table><tbody><tr><th colspan="2">Druh zeleniny</th><th>Olovo (Pb) <br> mg.kg<sup>-1</sup></th><th>Kadmium (Cd)<br> mg.kg<sup>-1</sup></th></tr><tr><td>1.</td><td>Brokolice</td><td>0,1</td><td>0,04</td></tr><tr><td>2.</td><td>Celer bulvový</td><td>0,1</td><td>0,15</td></tr><tr><td>3.</td><td>Celer naťový</td><td>0,1</td><td>0,1</td></tr><tr><td>4.</td><td>Celer řapíkatý</td><td>0,1</td><td>0,1</td></tr><tr><td>5.</td><td>Cibule</td><td>0,1</td><td>0,03</td></tr><tr><td>6.</td><td>Šalotka</td><td>0,1</td><td>0,03</td></tr><tr><td>7.</td><td>Čekanka salátová</td><td>0,3</td><td>0,2</td></tr><tr><td>8.</td><td>Česnek</td><td>0,1</td><td>0,05</td></tr><tr><td>9.</td><td>Fazol zahradní</td><td>0,1</td><td>0,02</td></tr><tr><td>10.</td><td>Hrách zahradní</td><td>0,1</td><td>0,02</td></tr><tr><td>11.</td><td>Kapusta hlávková</td><td>0,3</td><td>0,1</td></tr><tr><td>12.</td><td>Kapusta růžičková</td><td>0,3</td><td>0,1</td></tr><tr><td>13.</td><td>Kapusta kadeřavá - kadeřávek</td><td>0,3</td><td>0,1</td></tr><tr><td>14.</td><td>Kedluben</td><td>0,1</td><td>0,04</td></tr><tr><td>15.</td><td>Kopr vonný</td><td>0,3</td><td>0,2</td></tr><tr><td>16.</td><td>Křen selský</td><td>0,1</td><td>0,2</td></tr><tr><td>17.</td><td>Kukuřice cukrová</td><td>0,1</td><td>0,1</td></tr><tr><td>18.</td><td>Květák</td><td>0,1</td><td>0,04</td></tr><tr><td>19.</td><td>Lilek vejcoplodý</td><td>0,05</td><td>0,03</td></tr><tr><td>20.</td><td>Meloun vodní</td><td>0,05</td><td>0,02</td></tr><tr><td>21.</td><td>Mrkev</td><td>0,1</td><td>0,1</td></tr><tr><td>22.</td><td>Okurka nakládačka</td><td>0,05</td><td>0,02</td></tr><tr><td>23.</td><td>Okurka salátová</td><td>0,05</td><td>0,02</td></tr><tr><td>24.</td><td>Paprika</td><td>0,05</td><td>0,02</td></tr><tr><td>25.</td><td>Pastinák</td><td>0,1</td><td>0,2</td></tr><tr><td>26.</td><td>Pažitka</td><td>0,3</td><td>0,1</td></tr><tr><td>27.</td><td>Petržel kořenová</td><td>0,1</td><td>0,05</td></tr><tr><td>28.</td><td>Petržel naťová</td><td>0,3</td><td>0,1</td></tr><tr><td>29.</td><td>Pór</td><td>0,1</td><td>0,04</td></tr><tr><td>30.</td><td>Rajče</td><td>0,05</td><td>0,02</td></tr><tr><td>31.</td><td>Reveň</td><td>0,3</td><td>0,1</td></tr><tr><td>32.</td><td>Ředkev</td><td>0,1</td><td>0,02</td></tr><tr><td>33.</td><td>Ředkvička</td><td>0,1</td><td>0,1</td></tr><tr><td>34.</td><td>Řepa salátová</td><td>0,1</td><td>0,06</td></tr><tr><td>35.</td><td>Salát</td><td>0,3</td><td>0,2</td></tr><tr><td>36.</td><td>Špenát</td><td>0,3</td><td>0,2</td></tr><tr><td>37.</td><td>Tykev</td><td>0,05</td><td>0,02</td></tr><tr><td>38.</td><td>Zelí hlávkové</td><td>0,3</td><td>0,1</td></tr><tr><td>39.</td><td>Zelí pekingské</td><td>0,3</td><td>0,1</td></tr><tr><td>40.</td><td>Chřest</td><td>0,3</td><td>0,1</td></tr></tbody></table>
+
+C. Maximální obsah těžkých kovů v zelenině, při jehož překročení dojde k vyřazení z titulu integrovaná produkce zeleniny
+
+<table><tbody><tr><th colspan="2">Chemická látka</th><th>Mezní hodnota celkového obsahu chemické látky v zelenině <br> (mg.kg<sup>-1</sup>)</th></tr><tr><td>1.</td><td>Olovo (Pb)</td><td>0,33</td></tr><tr><td>2.</td><td>Kadmium (Cd)</td><td>0,25</td></tr><tr><td>3.</td><td>Rtuť (Hg)</td><td>0,027</td></tr></tbody></table>
+
+D. Maximální obsah těžkých kovů v jahodách, při jehož překročení dojde ke snížení dotace
+
+Olovo 0,09 mg/kg
+
+E. Maximální obsah těžkých kovů v jahodách, při jehož překročení dojde k neposkytnutí dotace
+
+Olovo 0,1 mg/kg
+
+F. Maximální obsah těžkých kovů v jahodách, při jehož překročení dojde k vyřazení z titulu integrovaná produkce jahodníku
+
+<table><tbody><tr><th colspan="2">Chemická látka</th><th>Mezní hodnota celkového obsahu chemické látky v jahodách (mg.kg-1)</th></tr><tr><td>1.</td><td>Olovo (Pb)</td><td>0,4</td></tr><tr><td>2.</td><td>Kadmium (Cd)</td><td>0,03</td></tr><tr><td>3.</td><td>Rtuť (Hg)</td><td>0,005</td></tr><tr><td>4.</td><td>Chrom (Cr)</td><td>0,1</td></tr><tr><td>5.</td><td>Arsen (As)</td><td>0,5</td></tr></tbody></table>
+
+### Příloha č. 13 k nařízení vlády č. 75/2015 Sb.
+
+#### Přepočítávací koeficienty hospodářských zvířat na velké dobytčí jednotky
+
+| Druh a kategorie hospodářských zvířat | Koeficient přepočtu na velké dobytčí jednotky <br> (VDJ) |
+|---|---|
+| Skot ve věku nad 2 roky | 1,00 |
+| Skot nad 6 měsíců do 2 let včetně | 0,60 |
+| Skot do 6 měsíců včetně | 0,40 |
+| Ovce ve věku nad 1 rok | 0,15 |
+| Kozy ve věku nad 1 rok | 0,15 |
+| Koně ve věku nad 6 měsíců | 1,00 |
+| Koně ve věku do 6 měsíců včetně | 0,40 |
+| Jelenovití ve farmovém chovu nad 1 rok | 0,30 |
+
+Pozn.: 1 rokem se rozumí 365 dní, 1 měsícem se rozumí 30 dní. U skotu a koní ve věku do 6 měsíců včetně se počítá stáří ode dne následujícího po dni narození.
+
+### Příloha č. 14 k nařízení vlády č. 75/2015 Sb.
+
+**Složení směsi osiv v podopatření biopásy**
+
+#### Část A. – Krmný biopás:
+
+1\. Druhy s povinným zastoupením ve směsi osiv
+
+| | Druh | Minimální množství ve <br> směsi (kg/ha) |
+|---|---|---|
+| 1. | Jarní obilovina<br> (oves setý Avena sativa L., Pšenice jarní Triticum aestivum L. nebo ječmen jarní Hordeum vulgare L.) | 65 |
+| 2. | Proso seté<br> Panicum miliaceum L. | 15 |
+| 3. | Kapusta krmná<br> Brassica oleracea L. conv. acephala (DC) Alof. var. medullosa | 0,8 |
+| 4. | Pohanka obecná<br> Fagopyrum esculentum Moench | 15 |
+
+2\. Volitelné druhy
+
+| | Druh | Minimální množství ve <br> směsi (kg/ha) |
+|---|---|---|
+| 1. | Slunečnice roční<br> Helianthus annuus L. | 2,5 |
+| 2. | Lesknice kanárská<br> Phalaris canariensis L. | 5 |
+| 3. | Svazenka vratičolistá<br> Phacelia tanacetifolia Benth. | 5 |
+| 4. | Len olejny<br> Linum usitatissimum L. | 20 |
+| 5. | Bobovité<br> (hrách setý polní (peluška) Pisum sativum L. ssp. Speciosum, hrách setý pravý Pisum sativum L. ssp. Sativum, nebo bob koňský polní Vida faba L. var. Equina) | 30 |
+| 6. | Lupina bílá<br> Lupinus albus L. | 5 |
+
+Poznámka: Osevní směs je složena z povinných druhů podle bodu 1, které musí být ve směsi vždy obsaženy, a dále z volitelných druhů podle bodu 2, kdy žadatel z uvedeného seznamu druhů volí vždy nejméně dva druhy.
+
+#### Část B. – Nektarodárný biopás:
+
+1\. Jeteloviny:
+
+Ve směsi osiv jsou použity minimálně 4 druhy ze seznamu v minimálním celkovém množství ve směsi 15 kg na 1 hektar
+
+Seznam jetelovin pro směsi osiv nektarodárného biopásu:
+
+| 1. | Jetel luční - diploidní odrůdy<br> Trifolium pratense L. |
+|---|---|
+| 2. | Komonice bílá (jednoleté i dvouleté odrůdy)<br> Melilotus albus Med. |
+| 3. | Uročník bolhoj<br> Anthyllis vulneraria L. |
+| 4. | Vičenec ligrus<br> Onobrychis viciaefolia L. |
+| 5. | Vikev setá<br> Vicia sativa L. |
+| 6. | Vojtěška setá<br> Medicago sativa L. |
+| 7. | Čičorka pestrá<br> Securigera varia (L.) Lassen |
+
+2\. Plodiny:
+
+Ve směsi osiv jsou použity minimálně dva druhy plodin ze seznamu v minimálním celkovém množství 5 kg na 1 hektar a maximálním celkovém množství 7 kg na hektar. Zastoupení hořčice bílé ve směsi osiv činí maximálně 1,5 kg na 1 hektar, zastoupení svazenky vratičolisté činí maximálně 1,0 kg na 1 hektar.
+
+Seznam plodin pro směsi osiv nektarodárného biopásu.
+
+| 1. | Hořčice bílá<br> Sinapis alba L. |
+|---|---|
+| 2. | Pohanka obecná<br> Fagopyrum esculentum Moench |
+| 3. | Svazenka vratičolistá<br> Phacelia tanacetifolia Benth. |
+| 4. | Slunečnice roční<br> Helianthus annuus L. |
+
+3\. Byliny:
+
+Ve směsi osiv je použit minimálně jeden druh ze seznamu bylin v minimálním celkovém množství 2,5 kg na 1 hektar a maximálním celkovém množství 5 kg na 1 hektar.
+
+Seznam bylin pro směsi osiv nektarodárného biopásu:
+
+| 1. | Kmín kořenný<br> Carum carvi L. |
+|---|---|
+| 2. | Mrkev krmná<br> Daucus carota L. ssp. sativus |
+| 3. | Sléz lesní<br> Malva sylvestris L. |
+| 4. | Divizna velkokvětá<br> Verbascum densiflorum Bertol. |
+
+### Příloha č. 15 k nařízení vlády č. 75/2015 Sb.
+
+**Složení osevních směsí v podopatření ochrana čejky chocholaté**
+
+#### Část A. – varianta krmná směs:
+
+| | Druh | Zastoupení ve směsi <br> (kg/ha) |
+|---|---|---|
+| 1. | Proso seté<br> Panicum miliaceum L. | 10 |
+| 2. | Lesknice kanárská<br> Phalaris canariensis L. | 10 |
+| 3. | Slunečnice roční<br> Helianthus annuus L. | 5 |
+
+Poznámka: Osevní směs je složena z uvedených plodin v určeném poměrném hmotnostním zastoupení.
+
+#### Část B. – varianta směs pro opylovače:
+
+| | Druh | Zastoupení ve směsi <br> (kg/ha) |
+|---|---|---|
+| 1. | Svazenka vratičolistá<br> Phacelia tanacetifolia Benth. | 6,25 |
+| 2. | Hořčice bílá<br> Sinapis alba L. | 5 |
+| 3. | Řepka jarní<br> Brassica napus L. var. arvensis Lam. (Thell) | 5 |
+| 4. | Pohanka obecná<br> Fagopyrum esculentum Moench | 5 |
+| 5. | Komonice bílá<br> Melilotus albus Med. | 3,75 |
+
+Poznámka: Osevní směs je složena z uvedených plodin v určeném poměrném hmotnostním zastoupení.
+
+### Příloha č. 16 k nařízení vlády č. 75/2015 Sb.
+
+#### Složení osevní směsi v podopatření zatravňování drah soustředěného odtoku
+
+| | Druh | Zastoupení ve směsi (%)\* |
+|---|---|---|
+| 1. | Lipnice luční <br> Poa pratensis L. | 40 |
+| 2. | Kostřava červená výběžkatá <br> Festuca rubra rubra L. | 25 |
+| 3. | Kostřava červená trstnatá <br> Festuca rubra commutata L. | 15 |
+| 4. | Jílek vytrvalý <br> Lolium perenne L. | 20 |
+
+\*) maximální přípustná odchylka od stanoveného procentuálního zastoupení jednotlivých komponent v osevní směsi činí 5 %.
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 1305/2013 ze dne 17. prosince 2013 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV) a o zrušení nařízení Rady (ES) č. 1698/2005, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (EU) č. 1306/2013 ze dne 17. prosince 2013 o financování, řízení a sledování společné zemědělské politiky a o zrušení nařízení Rady (EHS) č. 352/78, (ES) č. 165/94, (ES) č. 2799/98, (ES) č. 814/2000, (ES) č. 1290/2005 a (ES) č. 485/2008, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (EU) č. 1307/2013 ze dne 17. prosince 2013, kterým se stanoví pravidla pro přímé platby zemědělcům v režimech podpory v rámci společné zemědělské politiky a kterým se zrušují nařízení Rady (ES) č. 637/2008 a nařízení Rady (ES) č. 73/2009, v platném znění. 
+ Nařízení Komise v přenesené pravomoci (EU) č. 639/2014 ze dne 11. března 2014, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1307/2013, kterým se stanoví pravidla pro přímé platby zemědělcům v režimech podpory v rámci společné zemědělské politiky, a kterým se mění příloha X uvedeného nařízení. 
+ Nařízení Komise v přenesené pravomoci (EU) č. 640/2014 ze dne 11. března 2014, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, pokud jde o integrovaný administrativní a kontrolní systém a o podmínky pro zamítnutí nebo odnětí plateb a správní sankce uplatňované na přímé platby, podporu na rozvoj venkova a podmíněnost. 
+ Nařízení Komise v přenesené pravomoci (EU) č. 807/2014 ze dne 11. března 2014, kterým se doplňují některá ustanovení nařízení Evropského parlamentu a Rady (EU) č. 1305/2013 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV) a kterým se zavádějí přechodná ustanovení. 
+ Prováděcí nařízení Komise (EU) č. 808/2014 ze dne 17. července 2014, kterým se stanoví prováděcí pravidla k nařízení Evropského parlamentu a Rady (EU) č. 1305/2013 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV). 
+ Prováděcí nařízení Komise (EU) č. 809/2014 ze dne 17. července 2014, kterým se stanoví prováděcí pravidla k nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, pokud jde o integrovaný administrativní a kontrolní systém, opatření pro rozvoj venkova a podmíněnost.
+
+<sup>2</sup>) Čl. 2 odst. 2 nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, v platném znění. 
+ Čl. 4 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>3</sup>) Zákon č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů. 
+ Zákon č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi), ve znění nálezu Ústavního soudu, vyhlášeného pod č. 177/2013 Sb.
+
+<sup>4</sup>) Zákon č. 139/2002 Sb., o pozemkových úpravách a pozemkových úřadech a o změně zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Například zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetických zákon), ve znění pozdějších předpisů.
+
+<sup>6</sup>) Čl. 72 odst. 4 nařízení Evropského parlamentu a Rady č. 1306/2013, v platném znění. 
+ Čl. 11 nařízení Komise v přenesené pravomoci č. 640/2014.
+
+<sup>7</sup>) Čl. 67 nařízení Evropského parlamentu a Rady (EU) č. 1107/2009.
+
+<sup>8</sup>) Čl. 13 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>9</sup>) Zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>10</sup>) § 2 písm. a) zákona č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd, ve znění pozdějších předpisů.
+
+<sup>11</sup>) § 33 zákona č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů.
+
+<sup>12</sup>) § 38 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů.
+
+<sup>13</sup>) § 14 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.
+
+<sup>14</sup>) § 17 odst. 2 zákona č. 114/1992 Sb., ve znění pozdějších předpisů.
+
+<sup>15</sup>) Část čtvrtá zákona č. 114/1992 Sb.
+
+<sup>16</sup>) § 32 odst. 3 vyhlášky č. 136/2004 Sb., kterou se stanoví podrobnosti označování zvířat a jejich evidence a evidence hospodářství a osob stanovených plemenářským zákonem, ve znění pozdějších předpisů.
+
+<sup>17</sup>) § 2 písm. i) zákona č. 156/1998 Sb., ve znění pozdějších předpisů.
+
+<sup>18</sup>) § 2 písm. j) zákona č. 156/1998 Sb., ve znění pozdějších předpisů.
+
+<sup>19</sup>) § 2 a příloha č. 1 nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a o akčním programu, ve znění pozdějších předpisů.
+
+<sup>20</sup>) § 1 písm. q) nařízení vlády č. 307/2014 Sb.
+
+<sup>21</sup>) § 2 odst. 4 zákona č. 254/2001 Sb., ve znění pozdějších předpisů.
+
+<sup>22</sup>) § 30 zákona č. 254/2001 Sb., ve znění pozdějších předpisů.
+
+<sup>23</sup>) § 3 nařízení vlády č. 307/2014 Sb.
+
+<sup>24</sup>) Čl. 72 odst. 1 písm. a) nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, v platném znění.
+
+<sup>25</sup>) Čl. 16 nařízení Komise v přenesené pravomoci (EU) č. 640/2014.
+
+<sup>26</sup>) Zákon č. 114/1992 Sb., ve znění pozdějších předpisů.
+
+<sup>27</sup>) Čl. 15 odst. 1 a 2 prováděcího nařízení Komise (EU) č. 809/2014, v platném znění.

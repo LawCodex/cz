@@ -1,0 +1,83 @@
+---
+title: "Nařízení vlády č. 175/2017 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů"
+identifier: "175/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/175/2017-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2017-06-14
+effective: 2017-07-01
+last_amended: 2017-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/175"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 175/2017 Sb., kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+175
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. června 2017,
+
+kterým se mění nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 68 odst. 2 a 4 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 332/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 59/2015 Sb., o služebních tarifech a o zvláštním příplatku pro vojáky z povolání, ve znění nařízení vlády č. 282/2015 Sb., nařízení vlády č. 346/2016 Sb. a nařízení vlády č. 427/2016 Sb., se mění takto:
+
+1\. V § 2 odstavec 1 zní:
+
+> „(1) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 2 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | 11 770 |
+> | Svobodník | 22 590 |
+> | Desátník | 23 870 |
+> | Četař | 25 280 |
+> | Rotný | 29 480 |
+> | Rotmistr | 31 580 |
+> | Nadrotmistr | 33 700 |
+> | Praporčík | 36 030 |
+> | Nadpraporčík | 38 590 |
+> | Štábní praporčík | 50 280 |
+> | Poručík | 33 910 |
+> | Nadporučík | 38 590 |
+> | Kapitán | 44 440 |
+> | Major | 50 280 |
+> | Podplukovník | 56 130 |
+> | Plukovník | 67 820 |
+> | Brigádní generál | 79 520 |
+> | Generálmajor | 91 200 |
+> | Generálporučík | 102 900 |
+> | Armádní generál | 114 580“. |
+
+2\. V § 2 odstavec 2 zní:
+
+> „(2) Výše služebních tarifů náležejících vojenským hodnostem uvedeným v § 68 odst. 4 zákona o vojácích z povolání činí
+
+> | Vojenská hodnost | Služební tarif v Kč měsíčně |
+> |---|---|
+> | Vojín | 11 770 |
+> | Svobodník | 12 200 |
+> | Desátník | 12 630 |
+> | Četař | 13 060 |
+> | Rotný | 13 490 |
+> | Rotmistr | 13 910 |
+> | Nadrotmistr | 14 340“. |
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. července 2017.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr obrany:
+
+MgA. Stropnický v. r.

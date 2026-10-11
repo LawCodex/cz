@@ -1,0 +1,146 @@
+---
+title: "Vyhláška č. 83/2017 Sb., kterou se mění vyhláška č. 330/2012 Sb., o způsobu posuzování a vyhodnocení úrovně znečištění, rozsahu informování veřejnosti o úrovni znečištění a při smogových situacích"
+identifier: "83/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/83/2017-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-03-17
+effective: 2017-04-01
+last_amended: 2017-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/83"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 83/2017 Sb., kterou se mění vyhláška č. 330/2012 Sb., o způsobu posuzování a vyhodnocení úrovně znečištění, rozsahu informování veřejnosti o úrovni znečištění a při smogových situacích
+
+83
+
+VYHLÁŠKA
+
+ze dne 17. března 2017,
+
+kterou se mění vyhláška č. 330/2012 Sb., o způsobu posuzování a vyhodnocení úrovně znečištění, rozsahu informování veřejnosti o úrovni znečištění a při smogových situacích
+
+Ministerstvo životního prostředí stanoví podle § 5 odst. 6, § 30 odst. 4 a § 34 odst. 5 zákona č. 201/2012 Sb., o ochraně ovzduší:
+
+## Čl. I
+
+Vyhláška č. 330/2012 Sb., o způsobu posuzování a vyhodnocení úrovně znečištění, rozsahu informování veřejnosti o úrovni znečištění a při smogových situacích, se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se doplňuje věta „Směrnice Komise (EU) 2015/1480 ze dne 28. srpna 2015, kterou se mění několik příloh směrnice Evropského parlamentu a Rady 2004/107/ES a 2008/50/ES, kterými se stanoví pravidla pro referenční metody, ověřování údajů a umístění míst odběru vzorků při posuzování kvality vnějšího ovzduší.“.
+
+2\. V § 1 se na konci písmene b) slovo „a“ nahrazuje čárkou, na konci písmene c) se tečka nahrazuje slovem „a“ a doplňuje se písmeno d), které zní:
+
+> „d) obsahové náležitosti protokolu o měření úrovně znečištění.“.
+
+3\. V § 3 se doplňuje odstavec 8, který zní:
+
+> „(8) Obsahové náležitosti protokolu o měření úrovně znečištění jsou stanoveny v příloze č. 7 k této vyhlášce.“.
+
+4\. V § 4 odst. 2 větě druhé se za slova „Informace o“ vkládají slova „průměrných čtvrtletních“ a slova „, uváděné jako průměrné hodnoty za posledních 12 měsíců,“ se zrušují.
+
+5\. Příloha č. 1 zní:
+
+> **„Příloha č. 1 k vyhlášce č. 330/2012 Sb.**
+
+> **Cíle pro kvalitu údajů získaných posuzováním úrovně znečištění**
+
+> <table><tbody><tr><th></th><th>SO<sub>2</sub>, NO<sub>2</sub>,<br> NOx, CO</th><th>Benzen</th><th>Částice PM<sub>10</sub>,<br> PM<sub>2,5</sub>,<br> olovo</th><th>Troposférický ozon, související NO a NO<sub>2</sub></th><th>Benzo(a)pyren</th><th>As,<br> Cd,<br> Ni</th><th>PAH<sup>1)</sup>,<br> plynná rtuť</th><th>Celková depozice</th></tr><tr><td colspan="9">I. Stacionární měření</td></tr><tr><td>Nejistota</td><td>15%</td><td>25%</td><td>25%</td><td>15 %</td><td>50%</td><td>40%</td><td>50%</td><td>70%</td></tr><tr><td>Minimální sběr údajů<sup>2)</sup></td><td>90%</td><td>90%</td><td>90%</td><td>90 % během letního období<br> 75 % během zimního období</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td></tr><tr><td>Minimální časové pokrytí</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- městské prostředí a doprava</td><td>-</td><td>35%<sup>3)</sup></td><td>-</td><td>-</td><td>33%<sup>4)</sup></td><td>50%<sup>4)</sup></td><td>-</td><td>-</td></tr><tr><td>- průmyslové lokality</td><td>-</td><td>90%</td><td>-</td><td>-</td><td>33%<sup>4)</sup></td><td>50%<sup>4)</sup></td><td>-</td><td>-</td></tr><tr><td colspan="9">II. Orientační měření<sup>5)</sup></td></tr><tr><td>Nejistota</td><td>25%</td><td>30%</td><td>50%</td><td>30%</td><td>50%</td><td>40%</td><td>50%</td><td>70%</td></tr><tr><td>Minimální sběr údajů</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td></tr><tr><td>Minimální časové pokrytí</td><td>14%<sup>6)</sup></td><td>14%<sup>6)</sup></td><td>14%<sup>6)</sup></td><td>&gt;10% během letního období</td><td>14%<sup>4)</sup></td><td>14%<sup>4)</sup></td><td>14%<sup>4)</sup></td><td>33%<sup>4)</sup></td></tr><tr><td colspan="9">III. Modelování</td></tr><tr><td>Nejistota<sup>7)</sup> pro</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- hodinové průměry</td><td>50%</td><td>-</td><td>-</td><td>50 %</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- osmihodinové průměry</td><td>50%</td><td>-</td><td>-</td><td>50 %</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- denní průměry</td><td>50%</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- roční průměry</td><td>30%</td><td>50%</td><td>50%</td><td>-</td><td>60%</td><td>60%</td><td>60%</td><td>60%</td></tr></tbody></table>
+
+> Poznámky a vysvětlivky:
+
+> 1\) Polycyklické aromatické uhlovodíky kromě benzo(a)pyrenu.
+
+> 2\) Požadavek minimálního sběru údajů a časového pokrytí nezahrnuje ztráty údajů v důsledku pravidelných kalibrací nebo normální údržby přístrojové techniky.
+
+> 3\) Rozloženo během celého roku tak, aby byly hodnoty reprezentativní pro různé klimatické a dopravní podmínky.
+
+> 4\) Rozloženo během celého roku tak, aby hodnoty byly reprezentativní pro různé klimatické a antropogenní činnosti.
+
+> 5\) Orientační měření jsou měření prováděná s omezenou pravidelností, avšak splňující ostatní cíle týkající se kvality údajů.
+
+> 6\) Jedno namátkové měření v týdnu rovnoměrně rozložené během celého roku nebo v 8 týdnech rovnoměrně rozložených během roku.
+
+> 7\) U modelování se nejistota definuje jako maximální odchylka naměřených a vypočítaných úrovní koncentrace na 90 % jednotlivých měřicích míst za příslušné období ve vztahu k imisnímu limitu, přičemž se nebere v úvahu časové rozvržení událostí. Nejistota u modelování se považuje za platnou v oblasti příslušného imisního limitu. Stacionární měření, jež je třeba zvolit pro porovnání s výsledky modelování, musí být reprezentativní pro rozsah modelované situace.“.
+
+6\. V příloze č. 2 části B bodě 1 se věta „Alespoň jedno stacionární měření se umístí do předměstských lokalit v zónách, pokud je zde vyšší expozice populace.“ nahrazuje větou „Alespoň jedna stanice v zóně a aglomeraci se umístí v oblastech, kde může dojít k expozici obyvatelstva nejvyšší koncentraci troposférického ozónu.“.
+
+7\. V příloze č. 3 bodě 2.1 se za slova „minimálně 270°“ vkládají slova „nebo 180° pro místa odběru v linii obytné zástavby“.
+
+8\. V příloze č. 3 se na konci textu bodu 2.2 doplňují slova „a jakékoli odchylky jsou řádně zdokumentovány“.
+
+9\. V příloze č. 3 bodě 2.5 se na konci textu písmene a) doplňují slova „; velkou křižovatkou se pro účely tohoto ustanovení rozumí křižovatka, která naruší plynulost dopravy a kde vznikají emise odlišné od ostatních částí silnice“.
+
+10\. V příloze č. 3 bod 3.1 zní:
+
+> „3.1 Dokumentují se postupy výběru míst a umístění všech měřicích míst v síti, a to včetně pořízení fotografie okolí měřicí lokality v hlavních světových stranách, a podrobné mapy. V případě orientačního měření nebo modelování musí dokumentace obsahovat podrobné informace o těchto metodách a o plnění požadavků uvedených v příloze č. 1 k této vyhlášce.“.
+
+11\. V příloze č. 3 bodě 3.2 se za slova „pravidelně přezkoumává“ vkládají slova „nejméně každých 5 let“ a na konci textu bodu se doplňují slova „, koncepce sítě a měřicích míst“.
+
+12\. V příloze č. 6 část A zní:
+
+> **„Část A – Postupy pro odběr vzorků a provádění analýz při stacionárním měření**
+
+> 1.1. Pro stacionární měření oxidu siřičitého se použije referenční metoda podle české technické normy ČSN EN 14212:2013 „Kvalita ovzduší - Normovaná metoda stanovení oxidu siřičitého ultrafialovou fluorescencí“.
+
+> 1.2. Pro stacionární měření oxidu dusičitého a oxidů dusíku se použije referenční metoda podle české technické normy ČSN EN 14211:2013 „Kvalita ovzduší - Normovaná metoda stanovení oxidu dusičitého a oxidu dusnatého chemiluminiscencí“.
+
+> 1.3. Pro odběr vzorků olova, arsenu, kadmia a niklu se použije referenční metoda podle bodu 1.4 této přílohy. Pro stacionární měření olova, arsenu, kadmia a niklu se použije referenční metoda podle české technické normy ČSN EN 14902:2006 „Kvalita ovzduší - Normovaná metoda stanovení Pb, Cd, As a Ni ve frakci PM<sub>10</sub> aerosolových částic“.
+
+> 1.4. Pro odběr vzorků a stacionární měření PM<sub>10</sub> a PM<sub>2,5</sub> se použije referenční metoda podle české technické normy ČSN EN 12341:2014 „Kvalita ovzduší - Referenční gravimetrická metoda stanovení hmotnostní koncentrace frakcí aerosolových částic PM<sub>10</sub> a PM<sub>2,5</sub>“.
+
+> 1.5. Pro odběr vzorků a stacionární měření benzenu se použije referenční metoda podle částí 1, 2, a 3 české technické normy ČSN EN 14662:2006 „Kvalita ovzduší - Normovaná metoda stanovení benzenu“.
+
+> 1.6. Pro stacionární měření oxidu uhelnatého se použije referenční metoda podle české technické normy ČSN EN 14626:2012 „Kvalita ovzduší - Normovaná metoda stanovení oxidu uhelnatého nedisperzní infračervenou spektrometrií“.
+
+> 1.7. Pro stacionární měření troposférického ozonu se použije referenční metoda podle české technické normy EN ČSN 14625:2013 „Kvalita ovzduší - Normovaná metoda stanovení ozonu ultrafialovou fotometrií“.
+
+> 1.8. Pro odběr vzorků polycyklických aromatických uhlovodíků se použije referenční metoda podle bodu 1.4 této přílohy. Pro odběr vzorků a analýzu benzo(a)pyrenu se použije referenční metoda podle české technické normy ČSN EN 15549:2010 „Kvalita ovzduší - Normovaná metoda stanovení benzo(a)pyrenu ve venkovním ovzduší“.
+
+> 1.9. Pro měření celkové rtuti ve vnějším ovzduší se použije referenční metoda podle české technické normy ČSN EN 15852:2010 „Kvalita venkovního ovzduší - Normovaná metoda pro stanovení celkové plynné rtuti“. Pro měření celkové depozice rtuti se použije referenční metoda podle české technické normy ČSN EN 15853:2010 „Kvalita venkovního ovzduší - Normovaná metoda pro stanovení depozice rtuti“.
+
+> 1.10. Pro odběr vzorků a analýzu depozice benzo(a)pyrenu a dalších polycyklických aromatických uhlovodíků podle § 3 odst. 1 se použije referenční metoda podle technické normy ČSN EN 15980:2011 „Kvalita ovzduší - Stanovení depozice benzo[a]anthracenu, benzo[b]fluoranthenu, benzo[j]fluoranthenu, benzo[k]fluoranthenu, benzo[a]pyrenu, dibenzo[a,h]anthracenu a indeno[1,2,3-cd]pyrenu“.
+
+> 1.11. Pro odběr vzorků deponovaného arsenu, kadmia a niklu se použije referenční metoda podle české technické normy ČSN EN 15841:2009 „Kvalita venkovního ovzduší - Normovaná metoda pro stanovení arsenu, kadmia, olova a niklu v atmosférické depozici“.“.
+
+13\. Za přílohu č. 6 se doplňuje příloha č. 7, která zní:
+
+> **„Příloha č. 7 k vyhlášce č. 330/2012 Sb.**
+
+> **Obsahové náležitosti protokolu o měření úrovně znečištění**
+
+> 1\. Datum provedení měření úrovně znečištění a datum vystavení protokolu
+
+> 2\. Identifikace osoby provádějící měření úrovně znečištění, včetně informací umožňujících identifikaci oprávnění k provádění měření jako je autorizace a akreditace, byla-li udělena
+
+> 3\. Jméno a podpis osoby odpovědné za správnost a přesnost provedení měření
+
+> 4\. Účel měření úrovně znečištění
+
+> 5\. Typ a rozsah měření úrovně znečištění a doprovodných meteorologických veličin: metoda měření, odběru a zpracování vzorků a odkazy na normy a standardní operační postupy
+
+> 6\. Umístění měřicího místa v terénu včetně zeměpisných souřadnic a nadmořské výšky, popis lokality, typ a reprezentativnost lokality, porovnání s požadavky příslušných předpisů pro umisťování měřicího místa, stávající úroveň znečištění dané lokality dle databáze Informačního systému kvality ovzduší a map klouzavých pětiletých průměrných koncentrací znečišťujících látek
+
+> 7\. Popis meteorologických podmínek, zejména srážek, vlhkosti vzduchu, mlhy, teploty a rozptylových podmínek, při kterých bylo prováděno měření úrovně znečištění, resp. odběr vzorků pro následné laboratorní zpracování, lokalizace zdrojů znečišťování a dalších vlivů, které mohly přímo významně ovlivnit měření úrovně znečištění, jako jsou stacionární zdroje, pozemní komunikace, frekvence dopravy, otevřený oheň, stavební, zemědělská či jiná činnost s výrazným vlivem na znečištění ovzduší, a popis jejich vlivu
+
+> 8\. Kvalita dat, zejména zajištění správnosti a přesnosti odběru, manipulace, logistika a skladování odebraných vzorků a jejich laboratorní zpracování, vyhodnocení dat, zajištění kontroly a verifikace naměřených dat, nejistota měření, časová a prostorová reprezentativnost naměřených dat
+
+> 9\. Použitá přístrojová technika, zejména odběrová zařízení, měřidla, analyzátory a jejich rozsahy a přesnost, a popis zajištění metrologické návaznosti a způsob sběru dat
+
+> 10\. Oblast spolupráce, zejména identifikace spolupracující autorizované nebo akreditované osoby, předmět spolupráce stanovované znečišťující látky a metody stanovení
+
+> 11\. Výsledky měření úrovně znečištění, zejména verifikované hodnoty naměřených hmotnostních koncentrací z jednotlivých měření přepočtené na podmínky, za kterých je stanoven imisní limit, a vyjádřené v relevantní době průměrování, případně grafy průběhu, odpovídající imisní limit a podmínky, za jakých je stanoven, a nejistota tohoto měření
+
+> 12\. Soubory výsledků naměřených a doprovodných veličin
+
+> 13\. Seznam dokumentů použitých pro měření úrovně znečištění, zejména právních předpisů, norem, standardních operačních postupů, literatury a seznam zkratek, pokud jsou v protokolu použity“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2017.
+
+Ministr:
+
+Mgr. Brabec v. r.

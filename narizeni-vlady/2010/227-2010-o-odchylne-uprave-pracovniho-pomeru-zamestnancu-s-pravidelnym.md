@@ -1,0 +1,68 @@
+---
+title: "Nařízení vlády č. 227/2010 Sb., o odchylné úpravě pracovního poměru zaměstnanců s pravidelným pracovištěm v zahraničí"
+identifier: "227/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/227/2011-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2010-06-28
+effective: 2011-01-01
+last_amended: 2011-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/227"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 227/2010 Sb., o odchylné úpravě pracovního poměru zaměstnanců s pravidelným pracovištěm v zahraničí
+
+227
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 28. června 2010
+
+o odchylné úpravě pracovního poměru zaměstnanců s pravidelným pracovištěm v zahraničí
+
+Vláda nařizuje podle § 346 zákona č. 262/2006 Sb., zákoník práce, ve znění zákona č. 362/2007 Sb.:
+
+## § 1
+
+Toto nařízení zapracovává příslušné předpisy Evropské unie<sup>1</sup>) a upravuje u zaměstnance s pravidelným pracovištěm v zahraničí (dále jen „zaměstnanec v zahraničí“)
+
+a) sjednání délky pracovního poměru na dobu určitou na dobu vyslání na práci v zahraničí,
+
+b) prodlužování pracovního poměru na dobu určitou na dobu vyslání k výkonu práce v zahraničí a
+
+c) odchylné rozvržení pracovní doby v zahraničí ve vztahu ke dnům pracovního klidu.
+
+## § 2
+
+Trvání pracovního poměru na dobu určitou<sup>2</sup>) s přijímanou fyzickou osobou, jejíž pravidelné pracoviště má být v zahraničí, je možné sjednat na dobu vyslání k výkonu práce v zahraničí, nejdéle však na 5 let; tuto dobu je možné smluvně prodlužovat, nejdéle však celkem o 5 let.
+
+## § 3
+
+Zaměstnanci v zahraničí může zaměstnavatel nařídit výkon prací i na den, který je podle zákona o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu<sup>3</sup>) v České republice svátkem; v tomto případě se poskytne za 1 den, který je podle tohoto zákona v České republice svátkem, 1 den pracovního klidu v den, který je v příslušném státu svátkem.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2011.
+
+Předseda vlády:
+
+Ing. Fischer, CSc., v. r.
+
+Ministr práce a sociálních věcí:
+
+JUDr. Šimerka v. r.
+
+Místopředseda vlády a ministr zahraničních věcí:
+
+PhDr. Kohout v. r.
+
+---
+
+<sup>1</sup>) Směrnice Rady 99/70/ES ze dne 28. června 1999 o Rámcové dohodě o pracovních poměrech na dobu určitou uzavřené mezi organizacemi UNICE, CEEP a EKOS.
+
+<sup>2</sup>) § 39 odst. 1 zákoníku práce.
+
+<sup>3</sup>) Zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů.

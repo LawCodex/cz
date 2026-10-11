@@ -1,0 +1,70 @@
+---
+title: "Nařízení vlády č. 429/2016 Sb., kterým se mění nařízení vlády č. 60/2015 Sb., o stanovení seznamu činností pro jednotlivé vojenské hodnosti"
+identifier: "429/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/429/2017-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2016-12-14
+effective: 2017-01-01
+last_amended: 2017-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/429"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 429/2016 Sb., kterým se mění nařízení vlády č. 60/2015 Sb., o stanovení seznamu činností pro jednotlivé vojenské hodnosti
+
+429
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. prosince 2016,
+
+kterým se mění nařízení vlády č. 60/2015 Sb., o stanovení seznamu činností pro jednotlivé vojenské hodnosti
+
+Vláda nařizuje k provedení zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 155/2000 Sb., zákona č. 129/2002 Sb., zákona č. 254/2002 Sb., zákona č. 362/2003 Sb., zákona č. 546/2005 Sb., zákona č. 189/2006 Sb., zákona č. 261/2007 Sb., zákona č. 305/2008 Sb., zákona č. 306/2008 Sb., zákona č. 479/2008 Sb., zákona č. 272/2009 Sb., zákona č. 326/2009 Sb., zákona č. 147/2010 Sb., zákona č. 375/2011 Sb., zákona č. 470/2011 Sb., zákona č. 122/2012 Sb., zákona č. 332/2014 Sb., zákona č. 204/2015 Sb., zákona 377/2015 Sb. a zákona č. 47/2016 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 60/2015 Sb., o stanovení seznamu činností pro jednotlivé vojenské hodnosti, se mění takto:
+
+1\. V příloze v části XIII písmeno q) zní:
+
+> „q) vedení letadla na nepravidelné trati s přistáními na neznámém letišti nebo v neznámém terénu, s nepravidelnými přistáními na mezinárodních letištích při letech bezpečnostního charakteru nebo do krizových oblastí včetně koordinace činností s pozemními složkami a
+
+> 1\. komplexní řízení a velení posádce letadla v roji (kapitán letounu, kapitán vrtulníku),
+
+> 2\. vedení letounu transatlantického letu nebo strategického odsunu ve dvojici (pilot letounu dálkové přepravy),“.
+
+2\. V příloze v části XIV písm. m) se bod 2 zrušuje.
+
+Dosavadní body 3 až 10 se označují jako body 2 až 9.
+
+3\. V příloze v části XIV písmeno t) zní:
+
+> „t) transatlantické lety, strategický odsun, vedení letounu na nepravidelné trati s přistáními na neznámém letišti nebo v neznámém terénu, s nepravidelnými přistáními na mezinárodních letištích při letech bezpečnostního charakteru nebo do krizových oblastí včetně koordinace činností s pozemními složkami (kapitán letounu dálkové přepravy).“.
+
+4\. V příloze v části XV písm. a) se bod 1 zrušuje.
+
+Dosavadní body 2 až 11 se označují jako body 1 až 10.
+
+5\. V příloze v části XV se na konci písmene m) doplňuje bod 23, který zní:
+
+> „23. krajskému vojenskému velitelství (zástupce ředitele krajského vojenského velitelství),“.
+
+6\. V příloze v části XVI se na konci písmene b) doplňuje bod 29, který zní:
+
+> „29. krajskému vojenskému velitelství (ředitel krajského vojenského velitelství),“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2017.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr obrany:
+
+MgA. Stropnický v. r.

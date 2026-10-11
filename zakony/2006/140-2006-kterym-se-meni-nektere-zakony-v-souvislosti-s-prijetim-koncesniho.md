@@ -1,0 +1,70 @@
+---
+title: "Zákon č. 140/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím koncesního zákona"
+identifier: "140/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/140/2006-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2006-03-14
+effective: 2006-07-01
+last_amended: 2006-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/140"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 140/2006 Sb., kterým se mění některé zákony v souvislosti s přijetím koncesního zákona
+
+140
+
+ZÁKON
+
+ze dne 14. března 2006,
+
+kterým se mění některé zákony v souvislosti s přijetím koncesního zákona
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna rozpočtových pravidel
+
+### Čl. I
+
+Zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 493/2000 Sb., zákona č. 141/2001 Sb., zákona č. 187/2001 Sb., zákona č. 320/2001 Sb., zákona č. 450/2001 Sb., zákona č. 202/2002 Sb., zákona č. 320/2002 Sb., zákona č. 479/2003 Sb., zákona č. 186/2004 Sb., zákona č. 257/2004 Sb., zákona č. 436/2004 Sb., zákona č. 482/2004 Sb., zákona č. 1/2005 Sb., zákona č. 127/2005 Sb., zákona č. 361/2005 Sb., zákona č. 377/2005 Sb. a zákona č. 546/2005 Sb., se mění takto:
+
+1\. V § 4 se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno k), které včetně poznámky pod čarou č. 4e zní:
+
+> „k) přehled závazků státu vyplývajících ze schválených koncesních smluv<sup>4e</sup>).
+
+> <sup>4e</sup>) § 16 zákona č. 139/2006 Sb., o koncesních smlouvách a koncesním řízení (koncesní zákon).“.
+
+2\. V § 4 odst. 3 se za větu druhou vkládá věta „U závazků státu vyplývajících ze schválených koncesních smluv podle odstavce 1 písm. k) odpovídá období střednědobého výhledu době trvání závazku.“.
+
+## ČÁST DRUHÁ – Změna zákona o majetku České republiky a jejím vystupování v právních vztazích
+
+### Čl. II
+
+V § 12 zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 202/2002 Sb. a zákona č. 41/2004 Sb., se na konci odstavce 8 doplňuje věta „Při sjednávání koncesní smlouvy podle zvláštního právního předpisu<sup>18a</sup>) se věta první a věta druhá nepoužijí.“.
+
+Poznámka pod čarou č. 18a zní:
+
+> „<sup>18a</sup>) Zákon č. 139/2006 Sb., o koncesních smlouvách a koncesním řízení (koncesní zákon).“.
+
+## ČÁST TŘETÍ – Změna zákona o rozpočtových pravidlech územních rozpočtů
+
+### Čl. III
+
+V § 3 zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, odstavec 2 zní:
+
+> „(2) Rozpočtový výhled obsahuje souhrnné základní údaje o příjmech a výdajích, zejména o dlouhodobých závazcích a pohledávkách, o finančních zdrojích a potřebách dlouhodobě realizovaných záměrů. U dlouhodobých závazků se uvedou jejich dopady na hospodaření územního samosprávného celku po celou dobu trvání závazku.“.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. IV
+
+Tento zákon nabývá účinnosti prvním dnem třetího kalendářního měsíce po dni jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Paroubek v. r.

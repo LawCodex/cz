@@ -1,0 +1,96 @@
+---
+title: "Nařízení vlády č. 97/2010 Sb., kterým se mění nařízení vlády č. 515/2004 Sb., o hmotné podpoře na vytváření nových pracovních míst a hmotné podpoře rekvalifikace nebo školení zaměstnanců v rámci investičních pobídek, ve znění pozdějších předpisů"
+identifier: "97/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/97/2010-04-27"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2010-03-22
+effective: 2010-04-27
+last_amended: 2010-04-27
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/97"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 97/2010 Sb., kterým se mění nařízení vlády č. 515/2004 Sb., o hmotné podpoře na vytváření nových pracovních míst a hmotné podpoře rekvalifikace nebo školení zaměstnanců v rámci investičních pobídek, ve znění pozdějších předpisů
+
+97
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 22. března 2010,
+
+kterým se mění nařízení vlády č. 515/2004 Sb., o hmotné podpoře na vytváření nových pracovních míst a hmotné podpoře rekvalifikace nebo školení zaměstnanců v rámci investičních pobídek, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 111 odst. 12 zákona č. 435/2004 Sb., o zaměstnanosti:
+
+## Čl. I
+
+Nařízení vlády č. 515/2004 Sb., o hmotné podpoře na vytváření nových pracovních míst a hmotné podpoře rekvalifikace nebo školení zaměstnanců v rámci investičních pobídek, ve znění nařízení vlády č. 578/2004 Sb., nařízení vlády č. 338/2006 Sb. a nařízení vlády č. 68/2008 Sb., se mění takto:
+
+1\. § 2 včetně poznámek pod čarou č. 2, 3, 7 a 8 zní:
+
+> **„§ 2**
+
+> (1) Výše hmotné podpory rekvalifikace nebo školení zaměstnanců v rámci investičních pobídek činí v územní oblasti s mírou nezaměstnanosti nejméně o 50 % vyšší, než je průměrná míra nezaměstnanosti v České republice, 25 % z nákladů na rekvalifikaci nebo školení zaměstnanců<sup>2</sup>).
+
+> (2) Jestliže v době podání žádosti o hmotnou podporu určené organizaci<sup>5</sup>) je žadatelem
+
+> a) malý podnik<sup>3</sup>), činí v územní oblasti podle odstavce 1 výše hmotné podpory 45 %,
+
+> b) střední podnik<sup>3</sup>), činí v územní oblasti podle odstavce 1 výše hmotné podpory 35 %
+
+> z nákladů na rekvalifikaci nebo školení zaměstnanců<sup>2</sup>).
+
+> (3) V případě rekvalifikace nebo školení zaměstnanců se zdravotním postižením nebo znevýhodněných zaměstnanců podle nařízení Komise (ES) č. 800/2008 ze dne 6. srpna 2008<sup>7</sup>) činí výše hmotné podpory v územní oblasti podle odstavce 1 u
+
+> a) malých podniků<sup>3</sup>) 55 %,
+
+> b) středních podniků<sup>3</sup>) 45 %,
+
+> c) velkých podniků<sup>8</sup>) 35 %
+
+> z nákladů na rekvalifikaci nebo školení těchto zaměstnanců<sup>2</sup>).
+
+> (4) Při stanovení výše hmotné podpory rekvalifikace nebo školení se vychází z předpokládaných nákladů uvedených v dohodě sjednané podle § 111 odst. 7 zákona.
+
+> <sup>2</sup>) Čl. 38 ve spojení s čl. 39 odst. 2 nařízení Komise (ES) č. 800/2008 ze dne 6. srpna 2008, kterým se v souladu s články 87 a 88 Smlouvy o ES prohlašují určité kategorie podpory za slučitelné se společným trhem (obecné nařízení o blokových výjimkách), publikované v Úředním věstníku EU L 214 ze dne 9. srpna 2008.
+
+> <sup>3</sup>) Čl. 2 bod 7) ve spojení s Přílohou I. nařízení Komise (ES) č. 800/2008 ze dne 6. srpna 2008.
+
+> <sup>7</sup>) Čl. 2 bod 18) nařízení Komise (ES) č. 800/2008 ze dne 6. srpna 2008.
+
+> <sup>8</sup>) Čl. 2 bod 8) ve spojení s Přílohou I. nařízení Komise (ES) č. 800/2008 ze dne 6. srpna 2008.“.
+
+2\. V § 3 odstavce 2 a 3 znějí:
+
+> „(2) Počet nových pracovních míst v případě zavádění nové výroby se zjišťuje podle průměrného přepočteného počtu zaměstnanců v posledním kalendářním měsíci, který byl podle dohody stanoven pro vytvoření pracovních míst. Nebude-li v tomto období zjištěn dohodnutý počet vytvořených pracovních míst, zjišťuje se počet nových pracovních míst v případě zavádění nové výroby podle průměrného přepočteného počtu zaměstnanců za období 3 kalendářních měsíců následujících po termínu, který byl podle dohody stanoven pro vytvoření pracovních míst.
+
+> (3) Počet nových pracovních míst v případě rozšíření dosavadní výroby se zjišťuje jako rozdíl mezi průměrným přepočteným počtem zaměstnanců v posledním kalendářním měsíci, který byl podle dohody stanoven pro vytvoření pracovních míst, a průměrným přepočteným počtem zaměstnanců za období 12 kalendářních měsíců předcházejících předložení investičního záměru zaměstnavatelem. Nebude-li uvedeným způsobem zjištěn dohodnutý počet vytvořených pracovních míst, zjistí se počet nových pracovních míst v případě rozšíření dosavadní výroby jako rozdíl mezi průměrným přepočteným počtem zaměstnanců za 3 kalendářní měsíce následující po termínu, který byl podle dohody stanoven pro vytvoření pracovních míst, a průměrným přepočteným počtem zaměstnanců za období 12 kalendářních měsíců předcházejících předložení investičního záměru zaměstnavatelem.“.
+
+3\. V § 5 odst. 2 se částka „1 000 000 EUR“ nahrazuje částkou „2 000 000 EUR“.
+
+4\. Poznámka pod čarou č. 6 zní:
+
+> „<sup>6</sup>) Čl. 6 odst. 1 písm. g) nařízení Komise (ES) č. 800/2008.“.
+
+## Čl. II – Přechodné ustanovení
+
+Podle § 3 odst. 2 a 3 nařízení vlády č. 515/2004 Sb., ve znění účinném ode dne nabytí účinnosti tohoto nařízení, se postupuje také,
+
+a) připadne-li termín, který byl podle dohody stanoven pro vytvoření pracovních míst, do období po dni nabytí účinnosti tohoto nařízení, nebo
+
+b) připadl-li termín, který byl podle dohody stanoven pro vytvoření pracovních míst, do období přede dnem nabytí účinnosti tohoto nařízení a nebyl-li zjištěn dohodnutý počet pracovních míst podle nařízení vlády č. 515/2004 Sb., ve znění účinném do dne nabytí účinnosti tohoto nařízení.“.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti patnáctým dnem ode dne jeho vyhlášení.
+
+Předseda vlády:
+
+Ing. Fischer, CSc., v. r.
+
+Ministr práce a sociálních věcí:
+
+JUDr. Šimerka v. r.

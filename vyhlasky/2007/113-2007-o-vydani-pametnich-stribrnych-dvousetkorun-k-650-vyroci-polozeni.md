@@ -1,0 +1,58 @@
+---
+title: "Vyhláška č. 113/2007 Sb., o vydání pamětních stříbrných dvousetkorun k 650. výročí položení základního kamene Karlova mostu"
+identifier: "113/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/113/2007-06-20"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2007-04-23
+effective: 2007-06-20
+last_amended: 2007-06-20
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/113"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 113/2007 Sb., o vydání pamětních stříbrných dvousetkorun k 650. výročí položení základního kamene Karlova mostu
+
+113
+
+VYHLÁŠKA
+
+ze dne 23. dubna 2007
+
+o vydání pamětních stříbrných dvousetkorun k 650. výročí položení základního kamene Karlova mostu
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) K 650. výročí položení základního kamene Karlova mostu se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“). Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,2 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je stylizovaná podoba Karlova mostu zakončeného Staroměstskou věží, pod kterým protéká řeka Vltava. Na prvním oblouku mostu zleva je logo projektu Europa, v jehož rámci mince vychází, které má podobu hvězdy umístěné v symbolu €. V horní části dvousetkoruny je název státu „ČESKÁ REPUBLIKA“, jehož jednotlivá písmena jsou různě vysoká a částečně se prolínají. Ve spodní části dvousetkoruny je označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“. Písmena a číslice, z nichž je označení nominální hodnoty složeno, mají rovněž rozdílnou výšku. Značka mincovny, která dvousetkorunu razila, je umístěna při pravém horním okraji dvousetkoruny, mezi prvním slovem názvu státu a vyobrazením Staroměstské věže.
+
+(2) Na rubu dvousetkoruny jsou při pravém a levém okraji kamenné kvádry Karlova mostu. Uprostřed nich je nápis „POLOŽENÍ ZÁKLADNÍHO KAMENE KARLOVA MOSTU“, jehož jednotlivá písmena mají různou výšku, stejně jako data „1357 – 2007“ umístěná ve dvou řádcích. Autorem návrhu dvousetkoruny je MgA. Josef Šafařík, jehož iniciály, velké písmeno „J“, do kterého je vloženo menší písmeno „Š“, jsou umístěny při levém spodním okraji dvousetkoruny nalevo od data „2007“.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 20. června 2007.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### Příloha k vyhlášce č. 113/2007 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny k 650. výročí položení základního kamene Karlova mostu
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2007c041z0113o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873437/NAHLED/ZOBRAZ/sbcr2007c041z0113o002)
+
+#### ![sbcr2007c041z0113o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873439/NAHLED/ZOBRAZ/sbcr2007c041z0113o001)

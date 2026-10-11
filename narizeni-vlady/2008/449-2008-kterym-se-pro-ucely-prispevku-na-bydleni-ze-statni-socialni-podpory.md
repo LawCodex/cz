@@ -1,0 +1,78 @@
+---
+title: "Nařízení vlády č. 449/2008 Sb., kterým se pro účely příspěvku na bydlení ze státní sociální podpory pro rok 2009 stanoví výše nákladů srovnatelných s nájemným, částky, které se započítávají za pevná paliva, a částky normativních nákladů na bydlení"
+identifier: "449/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/449/2009-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2008-12-16
+effective: 2009-01-01
+last_amended: 2009-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/449"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 449/2008 Sb., kterým se pro účely příspěvku na bydlení ze státní sociální podpory pro rok 2009 stanoví výše nákladů srovnatelných s nájemným, částky, které se započítávají za pevná paliva, a částky normativních nákladů na bydlení
+
+449
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 16. prosince 2008,
+
+kterým se pro účely příspěvku na bydlení ze státní sociální podpory pro rok 2009 stanoví výše nákladů srovnatelných s nájemným, částky, které se započítávají za pevná paliva, a částky normativních nákladů na bydlení
+
+Vláda nařizuje podle § 28 zákona č. 117/1995 Sb., o státní sociální podpoře, ve znění zákona č. 112/2006 Sb., (dále jen „zákon“):
+
+## § 1
+
+(1) Výše nákladů srovnatelných s nájemným podle § 25 odst. 1 písm. b) zákona činí pro období od 1. ledna 2009 do 31. prosince 2009 za kalendářní měsíc částku:
+
+| Počet osob v rodině podle § 7 odst. 6 | Kč |
+|---|---|
+| jedna | 999 |
+| dvě | 1 367 |
+| tři | 1 788 |
+| čtyři a více | 2 156 |
+
+(2) Výše částek, které se započítávají za pevná paliva podle § 25 odst. 1 písm. c) zákona, činí pro období od 1. ledna 2009 do 31. prosince 2009 za kalendářní měsíc:
+
+| Počet osob v rodině podle § 7 odst. 6 | Kč |
+|---|---|
+| jedna | 598 |
+| dvě | 818 |
+| tři | 1 070 |
+| čtyři a více | 1 322 |
+
+## § 2
+
+Výše částek normativních nákladů na bydlení podle § 26 odst. 1 písm. a) a b) zákona činí pro období od 1. ledna 2009 do 31. prosince 2009 pro
+
+a) bydlení v bytech užívaných na základě nájemní smlouvy
+
+<table><tbody><tr><td rowspan="2">Počet osob v rodině podle § 7 odst. 6</td><td colspan="5">Měsíční náklady na bydlení podle počtu obyvatel obce v Kč </td></tr><tr><td>Praha</td><td>více než 100 000</td><td>50 000 – 99 999</td><td>10 000 – 49 999</td><td>do 9 999</td></tr><tr><td>jedna</td><td>5 088</td><td>4 045</td><td>3 804</td><td>3 380</td><td>3 165</td></tr><tr><td>dvě</td><td>7 380</td><td>5 952</td><td>5 622</td><td>5 042</td><td>4 747</td></tr><tr><td>tři</td><td>10 140</td><td>8 274</td><td>7 842</td><td>7 083</td><td>6 698</td></tr><tr><td>čtyři a více</td><td>12 737</td><td>10 487</td><td>9 966</td><td>9 051</td><td>8 587</td></tr></tbody></table>
+
+b) byty v družstevních bytech a bytech vlastníků
+
+<table><tbody><tr><td rowspan="2">Počet osob v rodině podle § 7 odst. 6</td><td colspan="5">Měsíční náklady na bydlení podle počtu obyvatel obce v Kč </td></tr><tr><td>Praha</td><td>více než 100 000</td><td>50 000 – 99 999</td><td>10 000 – 49 999</td><td>do 9 999</td></tr><tr><td>jedna</td><td>3 109</td><td>3 109</td><td>3 109</td><td>3 109</td><td>3 109</td></tr><tr><td>dvě</td><td>4 719</td><td>4 719</td><td>4 719</td><td>4 719</td><td>4 719</td></tr><tr><td>tři</td><td>6 654</td><td>6 654</td><td>6 654</td><td>6 654</td><td>6 654</td></tr><tr><td>čtyři a více</td><td>8 516</td><td>8 516</td><td>8 516</td><td>8 516</td><td>8 516</td></tr></tbody></table>
+
+## § 3
+
+Příspěvek na bydlení s přihlédnutím k § 1 a 2 se stanoví nejdříve, jde-li o nárok na příspěvek na bydlení za leden 2009.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2009.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+1\. místopředseda vlády a ministr pro místní rozvoj:
+
+Čunek v. r.
+
+Místopředseda vlády a ministr práce a sociálních věcí:
+
+RNDr. Nečas v. r.

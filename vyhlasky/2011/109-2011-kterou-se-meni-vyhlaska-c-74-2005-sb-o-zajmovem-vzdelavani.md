@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 109/2011 Sb., kterou se mění vyhláška č. 74/2005 Sb., o zájmovém vzdělávání"
+identifier: "109/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/109/2011-08-31"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2011-04-11
+effective: 2011-08-31
+last_amended: 2011-08-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/109"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 109/2011 Sb., kterou se mění vyhláška č. 74/2005 Sb., o zájmovém vzdělávání
+
+109
+
+VYHLÁŠKA
+
+ze dne 11. dubna 2011,
+
+kterou se mění vyhláška č. 74/2005 Sb., o zájmovém vzdělávání
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 112 a § 121 odst. 1 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon):
+
+## Čl. I
+
+Vyhláška č. 74/2005 Sb., o zájmovém vzdělávání, se mění takto:
+
+1\. V § 8 se na konci textu odstavce 1 doplňují slova „, případně i dětem v přípravné třídě jedné nebo více základních škol a dětem v přípravném stupni jedné nebo více základních škol speciálních“.
+
+2\. V § 9 odstavec 2 zní:
+
+> „(2) K pravidelné denní docházce lze přijímat i děti z přípravných tříd základní školy nebo přípravného stupně základní školy speciální, žáky druhého stupně základní školy, žáky nižšího stupně šestiletého nebo osmiletého gymnázia nebo odpovídajících ročníků osmiletého vzdělávacího programu konzervatoře. K pravidelné denní docházce nemohou být přijati žáci, kteří jsou přijati k činnosti klubu.“.
+
+3\. V § 9 odst. 3 se za slovo „žáci“ vkládají slova „nebo děti“.
+
+4\. V § 10 odstavec 3 včetně poznámky pod čarou č. 2 zní:
+
+> „(3) Je-li oddělení tvořeno pouze účastníky se zdravotním postižením, je nejvyšší počet účastníků v oddělení shodný s nejvyšším počtem žáků ve třídě zřízené pro žáky se zdravotním postižením stanoveným zvláštním právním předpisem<sup>2</sup>).
+
+> <sup>2</sup>) § 10 odst. 1 vyhlášky č. 73/2005 Sb., o vzdělávání dětí, žáků a studentů se speciálními vzdělávacími potřebami a dětí, žáků a studentů mimořádně nadaných.“.
+
+5\. V § 10 odst. 5 se za slova „činnosti účastníků“ vkládají slova „a jejich případné speciální vzdělávací potřeby“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 31. srpna 2011.
+
+Ministr:
+
+Mgr. Dobeš v. r.

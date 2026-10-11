@@ -1,0 +1,73 @@
+---
+title: "Nařízení vlády č. 97/2017 Sb., kterým se mění nařízení vlády č. 86/2011 Sb., o technických požadavcích na hračky, ve znění pozdějších předpisů"
+identifier: "97/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/97/2017-11-24"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2017-03-13
+effective: 2017-05-24
+last_amended: 2017-11-24
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/97"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 97/2017 Sb., kterým se mění nařízení vlády č. 86/2011 Sb., o technických požadavcích na hračky, ve znění pozdějších předpisů
+
+97
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 13. března 2017,
+
+kterým se mění nařízení vlády č. 86/2011 Sb., o technických požadavcích na hračky, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 12 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 71/2000 Sb., zákona č. 205/2002 Sb., zákona č. 226/2003 Sb. a zákona č. 490/2009 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 86/2011 Sb., o technických požadavcích na hračky, ve znění nařízení vlády č. 24/2013 Sb., nařízení vlády č. 339/2013 Sb. a nařízení vlády č. 151/2015 Sb., se mění takto:
+
+1\. Na konci poznámky pod čarou č. 1 se na samostatné řádky doplňují věty:
+
+> „Směrnice Komise (EU) 2015/2115 ze dne 23. listopadu 2015, kterou se za účelem přijetí zvláštních limitních hodnot pro chemické látky použité v hračkách mění dodatek C přílohy II směrnice Evropského parlamentu a Rady 2009/48/ES o bezpečnosti hraček, pokud jde o formamid.
+
+> Směrnice Komise (EU) 2015/2116 ze dne 23. listopadu 2015, kterou se za účelem přijetí zvláštních limitních hodnot pro chemické látky použité v hračkách mění dodatek C přílohy II směrnice Evropského parlamentu a Rady 2009/48/ES o bezpečnosti hraček, pokud jde o benzisothiazolinon.“.
+
+2\. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta:
+
+> „Směrnice Komise (EU) 2015/2117 ze dne 23. listopadu 2015, kterou se za účelem přijetí zvláštních limitních hodnot pro chemické látky použité v hračkách mění dodatek C přílohy II směrnice Evropského parlamentu a Rady 2009/48/ES o bezpečnosti hraček, pokud jde o chloromethylisothiazolinon a methylisothiazolinon, jak samostatně, tak v poměru 3 : 1.“.
+
+3\. V příloze č. 2 dodatku C se na konci tabulky doplňují položky, které znějí:
+
+> „
+>
+> | Formamid | 75-12-7 | 20 µg/m<sup>3</sup> (emisní limit) po nejvýše 28 dnech od zahájení zkoušek emisí u pěnových materiálů hraček s obsahem více než 200 mg/kg (mezní hodnota obsahu) |
+> |---|---|---|
+> | 1,2-benzisothiazol-3(2H)-on | 2634-33-5 | 5 mg/kg (limit obsahu) ve vodných materiálech v hračkách, v souladu s metodami stanovenými v normách<br> EN 71-10:2005 a EN 71-11:2005 |
+>
+> “.
+
+4\. V příloze č. 2 dodatku C se na konci tabulky doplňují položky, které znějí:
+
+> „
+>
+> | Reakční směs: 5-chlor-2-methyl-4-isothiazolin-3-on [ES č. 247-500-7] a 2-methyl-2H-isothiazol-3-on [ES č. 220-239-6] (3:1) | 55965-84-9 | 1 mg/kg (limit obsahu) ve vodných materiálech v hračkách |
+> |---|---|---|
+> | 5-chlor-2-methyl-isothiazolin-3(2H)-on | 26172-55-4 | 0,75 mg/kg (limit obsahu) ve vodných materiálech v hračkách |
+> | 2-methylisothiazolin-3(2H)-on | 2682-20-4 | 0,25 mg/kg (limit obsahu) ve vodných materiálech v hračkách |
+>
+> “.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 24. května 2017, s výjimkou bodů 2 a 4, které nabývají účinnosti dnem 24. listopadu 2017.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Předseda vlády pověřen řízením Ministerstva průmyslu a obchodu:
+
+Mgr. Sobotka v. r.

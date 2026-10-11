@@ -1,0 +1,91 @@
+---
+title: "Vyhláška č. 387/2012 Sb., o státní autorizaci na výstavbu výrobny elektřiny"
+identifier: "387/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/387/2021-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-11-13
+effective: 2012-12-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/387"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 387/2012 Sb., o státní autorizaci na výstavbu výrobny elektřiny ve znění vyhlášky č. 591/2020 Sb."
+---
+
+# Vyhláška č. 387/2012 Sb., o státní autorizaci na výstavbu výrobny elektřiny
+
+387
+
+VYHLÁŠKA
+
+ze dne 13. listopadu 2012
+
+o státní autorizaci na výstavbu výrobny elektřiny
+
+Ministerstvo průmyslu a obchodu stanoví podle § 98a odst. 1 písm. h) zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 211/2011 Sb. a zákona č. 165/2012 Sb.:
+
+## § 1 – Žádosti
+
+(1) Žádost o udělení autorizace podává žadatel Ministerstvu průmyslu a obchodu (dále jen „ministerstvo“), a to pro každou výrobnu elektřiny samostatně. Vzor žádosti o udělení autorizace je uveden v příloze č. 1 k této vyhlášce.
+
+(2) Změny údajů podle § 30c odst. 2 energetického zákona a konkrétní hodnoty údajů podle § 30c odst. 4 energetického zákona oznamuje držitel autorizace ministerstvu. Vzor oznámení je uveden v příloze č. 2 k této vyhlášce.
+
+(3) Žádost o zrušení autorizace podává držitel autorizace ministerstvu. Vzor žádosti o zrušení autorizace je uveden v příloze č. 3 k této vyhlášce.
+
+## § 2 – Posuzování žádostí
+
+Při posuzování žádostí o udělení autorizace ministerstvo ověřuje
+
+a) soulad předpokládané výrobny elektřiny se státní energetickou koncepcí, zejména s ohledem na požadovanou skladbu výroben elektřiny podle velikosti instalovaného výkonu výrobny elektřiny, druh výrobny elektřiny a napěťovou úroveň připojení výrobny elektřiny,
+
+b) použité primární zdroje energie, s ohledem na státní energetickou koncepci a surovinovou politiku státu, požadovanou skladbu výroben elektřiny podle jednotlivých zdrojů primární energie, podíl roční výroby elektřiny z domácích primárních zdrojů energie,
+
+c) soulad předpokládané výrobny elektřiny s integrovaným vnitrostátním plánem v oblasti energetiky a klimatu České republiky, s ohledem na podíl dosažené a předpokládané výroby elektřiny z obnovitelných zdrojů energie na hrubé konečné spotřebě energie, celkový předpokládaný instalovaný výkon výroben elektřiny a celkovou předpokládanou výrobu elektřiny z jednotlivých druhů obnovitelných zdrojů,
+
+d) soulad předpokládané výrobny elektřiny s plánem rozvoje elektroenergetických a plynárenských sítí, s ohledem na přenosové schopnosti elektrizační a plynárenské soustavy, časový soulad rozvoje sítí a předpokládaného termínu uvedení výrobny elektřiny do provozu,
+
+e) umístění předpokládané výrobny elektřiny a jeho soulad s územně plánovací dokumentací, soulad s požadavky na připojení výrobny elektřiny a rozsah vyvolaných úprav elektrizační soustavy a plynárenské soustavy, další stavby zajišťované žadatelem o autorizaci související s připojením k elektrizační soustavě a k plynárenské soustavě, možnost kombinované výroby elektřiny a tepla a zapojení výrobny elektřiny s možností kombinované výroby elektřiny a tepla do soustavy zásobování teplem a soulad s energetickým posudkem pro zajištění vysokoúčinné kombinované výroby elektřiny a tepla podle zákona o hospodaření energií, ve znění pozdějších předpisů, je-li pro danou výrobnu elektřiny energetický posudek podle zákona o hospodaření energií zpracován,
+
+f) energetickou účinnost předpokládané výrobny elektřiny, zejména s ohledem na minimální účinnost přeměny a užití energie podle jiného právního předpisu<sup>1</sup>),
+
+g) dopad předpokládané výrobny elektřiny na bezpečný a spolehlivý provoz elektrizační soustavy, zejména s ohledem na dostupnost podpůrných služeb, z hlediska jejich velikosti i struktury, udržení volné výrobní kapacity podle požadavků provozovatele přenosové soustavy, vliv provozu výrobny elektřiny na spolehlivost provozu elektrizační soustavy,
+
+h) předpoklady žadatele k zajištění financování výstavby předpokládané výrobny elektřiny z vlastních zdrojů nebo prostřednictvím cizích zdrojů financování,
+
+i) bezpečnost osob a majetku,
+
+j) bezpečnost dodávek elektřiny, zejména s ohledem na ochranu kritické infrastruktury,
+
+k) zda výstavba a provoz výrobny elektřiny je v souladu s požadavky na zajištění rovnováhy mezi budoucí nabídkou a budoucí poptávkou elektřiny, zejména s ohledem na očekávaný vývoj tuzemské spotřeby elektřiny a průběhu zatížení elektrizační soustavy.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. prosince 2012.
+
+Ministr:
+
+MUDr. Kuba v. r.
+
+### Příloha č. 1 k vyhlášce č. 387/2012 Sb.
+
+#### Vzor žádosti o udělení autorizace
+
+#### ![sbcr2012c143z0387_2020c241z0591p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791089/NAHLED/ZOBRAZ/sbcr2012c143z0387_2020c241z0591p001u001)
+
+### Příloha č. 2 k vyhlášce č. 387/2012 Sb.
+
+#### Vzor oznámení
+
+#### ![sbcr2012c143z0387_2020c241z0591p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791091/NAHLED/ZOBRAZ/sbcr2012c143z0387_2020c241z0591p002u001)
+
+### Příloha č. 3 k vyhlášce č. 387/2012 Sb.
+
+#### Vzor žádosti o zrušení autorizace
+
+#### ![sbcr2012c143z0387p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791093/NAHLED/ZOBRAZ/sbcr2012c143z0387p003u001)
+
+---
+
+<sup>1</sup>) Vyhláška č. 441/2012 Sb., o stanovení minimální účinnosti užití energie při výrobě elektřiny a tepelné energie.

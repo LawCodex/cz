@@ -1,0 +1,58 @@
+---
+title: "Vyhláška č. 71/2008 Sb., kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 332/2000 Sb., kterou se stanoví některé postupy při schvalování typu a ověřování stanovených měřidel označovaných značkou EHS, ve znění pozdějších předpisů"
+identifier: "71/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/71/2008-03-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2008-02-19
+effective: 2008-03-01
+last_amended: 2008-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/71"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 71/2008 Sb., kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 332/2000 Sb., kterou se stanoví některé postupy při schvalování typu a ověřování stanovených měřidel označovaných značkou EHS, ve znění pozdějších předpisů
+
+71
+
+VYHLÁŠKA
+
+ze dne 19. února 2008,
+
+kterou se mění vyhláška Ministerstva průmyslu a obchodu č. 332/2000 Sb., kterou se stanoví některé postupy při schvalování typu a ověřování stanovených měřidel označovaných značkou EHS, ve znění pozdějších předpisů
+
+Ministerstvo průmyslu a obchodu stanoví podle § 27 zákona č. 505/1990 Sb., o metrologii, ve znění zákona č. 4/1993 Sb., zákona č. 20/1993 Sb., zákona č. 119/2000 Sb. a zákona č. 137/2002 Sb., (dále jen „zákon“) k provedení § 6 odst. 2, 3 a 9 a § 9 odst. 1 a 2 zákona:
+
+## Čl. I
+
+Vyhláška č. 332/2000 Sb., kterou se stanoví některé postupy při schvalování typu a ověřování stanovených měřidel označovaných značkou EHS, ve znění vyhlášky č. 260/2003 Sb. a vyhlášky č. 509/2004 Sb., se mění takto:
+
+1\. Poznámka pod čarou č. 1a zní:
+
+> „<sup>1a</sup>) Směrnice Rady č. 71/316/EHS ze dne 26. července 1971 o sbližování právních předpisů členských států týkajících se společných ustanovení pro měřicí přístroje a pro metody metrologické kontroly. 
+>  Směrnice Rady č. 83/575/EHS ze dne 26. října 1983, kterou se mění směrnice 71/316/EHS ze dne 26. července 1971 o sbližování právních předpisů členských států týkajících se společných ustanovení pro měřicí přístroje a pro metody metrologické kontroly. 
+>  Směrnice Rady č. 87/355/EHS ze dne 25. června 1987, kterou se mění směrnice 71/316/EHS ze dne 26. července 1971 o sbližování právních předpisů členských států týkajících se společných ustanovení pro měřicí přístroje a pro metody metrologické kontroly. 
+>  Směrnice Rady č. 88/665/EHS ze dne 21. prosince 1988, kterou se mění několik směrnic o sbližování právních předpisů členských států obsahujících ustanovení o zveřejňování atestů a certifikátů v Úředním věstníku Evropských společenství. 
+>  Směrnice Komise 2007/13/EHS ze dne 7. března 2007, kterou se mění příloha II směrnice Rady č. 71/316/EHS o sbližování právních předpisů členských států týkajících se společných ustanovení pro měřicí přístroje a pro metody metrologické kontroly.“.
+
+2\. V příloze č. 2 bodě 3.2.2 se grafická podoba značky prvotního EHS ověření doplňuje následujícím označením pro Českou republiku:
+
+> **![sbcr2008c022z0071o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/819255/NAHLED/ZOBRAZ/sbcr2008c022z0071o001)**
+
+3\. V příloze č. 2 bodě 3.2.2 se příklad grafické podoby značky prvotního EHS ověření nahrazuje následujícím příkladem:
+
+> **![sbcr2008c022z0071o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/819257/NAHLED/ZOBRAZ/sbcr2008c022z0071o002)**
+
+## Čl. II
+
+Značky prvotního EHS ověření použité na základě dosavadní právní úpravy zůstávají v platnosti do uplynutí doby ověření měřidla.
+
+## Čl. III
+
+Tato vyhláška nabývá účinnosti dnem 1. března 2008.
+
+Ministr:
+
+Ing. Říman v. r.

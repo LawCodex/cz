@@ -1,0 +1,38 @@
+---
+title: "Vyhláška č. 78/2012 Sb., kterou se mění vyhláška č. 208/2004 Sb., o minimálních standardech pro ochranu hospodářských zvířat, ve znění pozdějších předpisů"
+identifier: "78/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/78/2012-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-02-29
+effective: 2012-04-01
+last_amended: 2012-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/78"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 78/2012 Sb., kterou se mění vyhláška č. 208/2004 Sb., o minimálních standardech pro ochranu hospodářských zvířat, ve znění pozdějších předpisů
+
+78
+
+VYHLÁŠKA
+
+ze dne 29. února 2012,
+
+kterou se mění vyhláška č. 208/2004 Sb., o minimálních standardech pro ochranu hospodářských zvířat, ve znění pozdějších předpisů
+
+Ministerstvo zemědělství stanoví podle § 29 odst. 1 zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění zákona č. 77/2004 Sb., zákona č. 312/2008 Sb. a zákona č. 291/2009 Sb., k provedení § 12c odst. 3 zákona:
+
+## Čl. I
+
+V § 2 odst. 6 vyhlášky č. 208/2004 Sb., o minimálních standardech pro ochranu hospodářských zvířat, ve znění vyhlášky č. 464/2009 Sb., se na konci textu písmene a) doplňují slova „, pokud nemá volný přístup do výběhu nebo na pastvu“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2012.
+
+Ministr:
+
+Ing. Bendl v. r.

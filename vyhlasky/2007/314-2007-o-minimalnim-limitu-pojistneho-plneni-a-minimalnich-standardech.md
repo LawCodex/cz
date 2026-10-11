@@ -1,0 +1,51 @@
+---
+title: "Vyhláška č. 314/2007 Sb., o minimálním limitu pojistného plnění a minimálních standardech pojistných smluv insolvenčních správců"
+identifier: "314/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/314/2014-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2007-11-22
+effective: 2008-01-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/314"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 314/2007 Sb., o minimálním limitu pojistného plnění a minimálních standardech pojistných smluv insolvenčních správců ve znění vyhlášky č. 360/2013 Sb."
+---
+
+# Vyhláška č. 314/2007 Sb., o minimálním limitu pojistného plnění a minimálních standardech pojistných smluv insolvenčních správců
+
+314
+
+VYHLÁŠKA
+
+ze dne 22. listopadu 2007
+
+o minimálním limitu pojistného plnění a minimálních standardech pojistných smluv insolvenčních správců
+
+Ministerstvo spravedlnosti stanoví podle § 39 zákona č. 312/2006 Sb., o insolvenčních správcích, (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška upravuje minimální limit pojistného plnění a minimální standardy pojistných smluv podle § 6 odst. 1 písm. f) a § 8 odst. 1 písm. c) zákona.
+
+## § 2 – Minimální limit pojistného plnění
+
+(1) Minimální limit pojistného plnění z pojištění odpovědnosti za škodu, která by mohla vzniknout v souvislosti s výkonem funkce insolvenčního správce podle insolvenčního zákona nebo s činností jeho zaměstnanců (dále jen „pojištění“), se pro fyzické osoby stanoví částkou 1 000 000 Kč; pro fyzické osoby, které mají právo vykonávat funkci insolvenčního správce dlužníka uvedeného v § 3 odst. 2 zákona, se stanoví částkou 10 000 000 Kč.
+
+(2) Minimální limit pojistného plnění z pojištění se pro veřejné obchodní společnosti a zahraniční společnosti stanoví jako součet částek, které by byly stanoveny jednotlivým ohlášeným společníkům podle odstavce 1.
+
+(3) Minimální limit pojistného plnění z pojištění se stanoví pro jednu pojistnou událost.
+
+## § 3 – Minimální standardy pojistných smluv
+
+Pojištění se vztahuje na odpovědnost insolvenčního správce za škodu, která je způsobena jeho konáním nebo opomenutím při výkonu funkce insolvenčního správce nebo v souvislosti s ní nebo konáním nebo opomenutím jeho zaměstnanců při výkonu jeho funkce, pokud ke konání nebo opomenutí došlo v době trvání pojištění.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2008.
+
+Ministr:
+
+JUDr. Pospíšil v. r.

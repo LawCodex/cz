@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 113/2012 Sb., o vydání zlaté mince „Barokní most v Náměšti nad Oslavou“ po 5 000 Kč"
+identifier: "113/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/113/2012-05-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-03-09
+effective: 2012-05-15
+last_amended: 2012-05-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/113"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 113/2012 Sb., o vydání zlaté mince „Barokní most v Náměšti nad Oslavou“ po 5 000 Kč
+
+113
+
+VYHLÁŠKA
+
+ze dne 9. března 2012
+
+o vydání zlaté mince „Barokní most v Náměšti nad Oslavou“ po 5 000 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 15. května 2012 se v rámci cyklu „Mosty“ vydává zlatá mince „Barokní most v Náměšti nad Oslavou“ po 5 000 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince v běžném i ve zvláštním provedení se razí ze zlata o ryzosti 999.9. Hmotnost mince je 15,55 g, její průměr 28 mm a síla 2,0 mm. Při ražbě mince v běžném provedení i ve zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká.
+
+## § 2
+
+(1) Na lícní straně mince je v obdélníkovém výřezu kompozice heraldických zvířat z velkého státního znaku - uprostřed je český lev, vpravo od něj slezská orlice a vlevo od něj je moravská orlice. Nad kompozicí heraldických zvířat je název státu „ČESKÁ REPUBLIKA“. Pod kompozicí heraldických zvířat je barokní most v Náměšti nad Oslavou. Pod vyobrazením mostu je ve dvou řádcích název cyklu „MOSTY“ a označení nominální hodnoty mince se zkratkou peněžní jednotky „5000 Kč“. Značka České mincovny, která je tvořena kompozicí písmen „Č“ a „M“, je při spodním okraji mince.
+
+(2) Na rubové straně mince je barokní most v Náměšti nad Oslavou. Nad vyobrazením mostu je text „BAROKNÍ MOST V NÁMĚŠTI“ a pod vyobrazením mostu je text „NAD OSLAVOU“. Ročník ražby je pod slovem „OSLAVOU“. Nad písmenem „U“ ve slově „OSLAVOU“ jsou iniciály autora výtvarného návrhu mince MgA. Martina Daška, které jsou tvořeny spojenými písmeny „M“ a „D“.
+
+(3) Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 15. května 2012.
+
+Guvernér:
+
+Ing. Singer, Ph.D., v. r.
+
+### Příloha k vyhlášce č. 113/2012 Sb.
+
+#### Vyobrazení zlaté mince „Barokní most v Náměšti nad Oslavou“
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2012c043z0113p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/831137/NAHLED/ZOBRAZ/sbcr2012c043z0113p001o001)
+
+#### ![sbcr2012c043z0113p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/831139/NAHLED/ZOBRAZ/sbcr2012c043z0113p001o002)

@@ -1,0 +1,52 @@
+---
+title: "Nařízení vlády č. 10/2014 Sb., kterým se mění nařízení vlády č. 515/2004 Sb., o hmotné podpoře na vytváření nových pracovních míst a hmotné podpoře rekvalifikace nebo školení zaměstnanců v rámci investičních pobídek, ve znění pozdějších předpisů"
+identifier: "10/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/10/2014-02-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2014-01-08
+effective: 2014-02-01
+last_amended: 2014-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/10"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 10/2014 Sb., kterým se mění nařízení vlády č. 515/2004 Sb., o hmotné podpoře na vytváření nových pracovních míst a hmotné podpoře rekvalifikace nebo školení zaměstnanců v rámci investičních pobídek, ve znění pozdějších předpisů
+
+10
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 8. ledna 2014,
+
+kterým se mění nařízení vlády č. 515/2004 Sb., o hmotné podpoře na vytváření nových pracovních míst a hmotné podpoře rekvalifikace nebo školení zaměstnanců v rámci investičních pobídek, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 111 odst. 12 zákona č. 435/2004 Sb., o zaměstnanosti, ve znění zákona č. 367/2011 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 515/2004 Sb., o hmotné podpoře na vytváření nových pracovních míst a hmotné podpoře rekvalifikace nebo školení zaměstnanců v rámci investičních pobídek, ve znění nařízení vlády č. 578/2004 Sb., nařízení vlády č. 338/2006 Sb., nařízení vlády č. 68/2008 Sb. a nařízení vlády č. 97/2010 Sb., se mění takto:
+
+1\. V § 1 odst. 1 se částka „50 000 Kč“ nahrazuje částkou „200 000 Kč“.
+
+2\. V § 3 odst. 2 větách první a druhé se za slovo „výroby“ vkládají slova „, vybudování technologického centra nebo zahájení činnosti centra strategických služeb“.
+
+3\. V § 3 odst. 3 se ve větách první a druhé za slovo „výroby“ vkládají slova „, rozšíření technologického centra nebo rozšíření činnosti centra strategických služeb“.
+
+## Čl. II – Přechodné ustanovení
+
+Na záměry získat investiční pobídku podané přede dnem nabytí účinnosti tohoto nařízení se vztahuje výše hmotné podpory podle § 1 odst. 1 nařízení vlády č. 515/2004 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. února 2014.
+
+Předseda vlády:
+
+Rusnok v. r.
+
+Ministr práce a sociálních věcí:
+
+Koníček v. r.

@@ -1,0 +1,260 @@
+---
+title: "Vyhláška č. 133/2013 Sb., o stanovení rozsahu a struktury údajů pro vypracování návrhu zákona o státním rozpočtu a návrhu střednědobého výhledu státního rozpočtu a lhůtách pro jejich předkládání"
+identifier: "133/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/133/2026-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2013-05-27
+effective: 2013-06-01
+last_amended: 2026-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/133"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 133/2013 Sb., o stanovení rozsahu a struktury údajů pro vypracování návrhu zákona o státním rozpočtu a návrhu střednědobého výhledu státního rozpočtu a lhůtách pro jejich předkládání
+
+133
+
+VYHLÁŠKA
+
+ze dne 27. května 2013
+
+o stanovení rozsahu a struktury údajů pro vypracování návrhu zákona o státním rozpočtu a návrhu střednědobého výhledu státního rozpočtu a lhůtách pro jejich předkládání
+
+Ministerstvo financí stanoví podle § 4 odst. 4 a § 8 odst. 2 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 320/2002 Sb., zákona č. 479/2003 Sb., zákona č. 482/2004 Sb. a zákona č. 26/2008 Sb.:
+
+## § 1
+
+Tato vyhláška upravuje rozsah a strukturu údajů pro vypracování návrhu zákona o státním rozpočtu a pro vypracování střednědobého výhledu státního rozpočtu a lhůty jejich předkládání.
+
+## § 2
+
+(1) Správce kapitoly zpracovává a předkládá návrh rozpočtu a střednědobý výhled v rozpočtovém systému<sup>1</sup>) v rozsahu a struktuře podle rozpočtové skladby včetně podrobného komentáře ve stanovené lhůtě<sup>3</sup>). Bezpečnostní informační služba zpracovává a předkládá návrh rozpočtu a střednědobý výhled v rozpočtovém systému podle zvláštního režimu v rozsahu a struktuře dohodnuté s Ministerstvem financí (dále jen „ministerstvo“) tak, aby byla zabezpečena ochrana utajovaných informací.
+
+(2) Správce kapitoly kromě údajů uvedených v odstavci 1 předloží ministerstvu další údaje v rozsahu a struktuře uvedené v přílohách č. 1, 5, 6, 7, 8, 9, 10 a 11 k této vyhlášce včetně podrobného komentáře ve stanovené lhůtě<sup>3</sup>). Údaje podle formuláře č. 1/5 uvedeného v příloze č. 1 k této vyhlášce předkládají státní příspěvkové organizace do centrálního systému účetních informací státu podle technické vyhlášky o účetních záznamech.
+
+(3) Státní fond předloží ministerstvu údaje pro sestavení návrhu zákona o státním rozpočtu a střednědobého výhledu v rozsahu a struktuře uvedené v příloze č. 2 k této vyhlášce včetně podrobného komentáře ve stanovené lhůtě<sup>3</sup>).
+
+(4) Kraje předloží ministerstvu údaje pro sestavení návrhu zákona o státním rozpočtu za obce v rozsahu a struktuře uvedené v příloze č. 3 k této vyhlášce ve lhůtě do 30 dnů od doručení žádosti ministerstva. Ve stejné lhůtě předkládá tyto údaje i hlavní město Praha.
+
+(5) Jiné právnické a fyzické osoby, které požadují prostředky ze státního rozpočtu z kapitoly Všeobecná pokladní správa nebo z kapitoly Operace státních finančních aktiv, předloží ministerstvu údaje pro sestavení návrhu zákona o státním rozpočtu do 30. dubna běžného roku v rozsahu a struktuře uvedené v příloze č. 4 k této vyhlášce.
+
+(6) Požadavky na změnu údajů oznámených ministerstvem<sup>4</sup>) předloží správce kapitoly ministerstvu podle přílohy č. 5 k této vyhlášce a podle přílohy č. 1 k této vyhlášce, a to vzor formuláře č. 1/1, a podle přílohy č. 9 k této vyhlášce. V těchto přílohách se neuvádějí údaje, které jsou podle § 3 součástí příloh č. 6 a 7 k této vyhlášce a podle § 4 součástí přílohy č. 8 k této vyhlášce.
+
+## § 3
+
+(1) Údaje o rozpočtových opatřeních v roce, který předchází roku, na nějž je návrh zákona o státním rozpočtu sestavován, v rámci kapitoly nebo mezi kapitolami, které mají trvalý charakter, předloží správce kapitoly ministerstvu podle přílohy č. 6 k této vyhlášce a podle přílohy č. 1 k této vyhlášce, a to vzor formuláře č. 1/1.
+
+(2) Navrhuje-li správce kapitoly v roce, na který je předkládán návrh zákona o státním rozpočtu, a pro roky střednědobého výhledu přesuny v rámci kapitoly nebo mezi kapitolami, které mají trvalý charakter, předloží ministerstvu údaje podle přílohy č. 7 k této vyhlášce a podle přílohy č. 1 k této vyhlášce, a to vzor formuláře č. 1/1.
+
+## § 4
+
+Uplatňuje-li správce kapitoly podle § 10 odst. 3 rozpočtových pravidel při přípravě návrhu zákona o státním rozpočtu a střednědobého výhledu požadavek na zařazení výdajů do kapitoly Všeobecná pokladní správa, předloží ministerstvu údaje podle přílohy č. 8 k této vyhlášce a podle přílohy č. 1 k této vyhlášce, a to vzor formuláře č. 1/1.
+
+## § 5
+
+V případě, že v kapitole státního rozpočtu mají být rozpočtovány prostředky na programy nebo projekty spolufinancované z rozpočtu Evropské unie nebo z finančních mechanismů<sup>5</sup>), předloží správce kapitoly ministerstvu údaje pro sestavení návrhu zákona o státním rozpočtu v rozsahu a struktuře uvedené v příloze č. 9 k této vyhlášce. Výdaje, které jsou nebo mají být kryty z rozpočtu Evropské unie bez stanoveného podílu státního rozpočtu na spolufinancování těchto výdajů, odsouhlasí příslušný Řídící orgán, případně také Zprostředkující subjekt, či jiný orgán v roli koordinátora, pokud je stanoven.
+
+## § 6
+
+Správce kapitoly nebo státní fond předloží ministerstvu údaje o výdajích vyplývajících z veřejných zakázek o předpokládané hodnotě 300 mil. Kč a vyšší, pokud je smlouva uzavírána na dobu delší než 1 rok, a o výdajích souvisejících s jejich přípravou a realizací ve struktuře podle jednotlivých akcí podle přílohy č. 10 k této vyhlášce.
+
+## § 7
+
+Zrušuje se:
+
+1\. Vyhláška č. 165/2008 Sb., kterou se stanoví rozsah a struktura údajů pro vypracování návrhu zákona o státním rozpočtu a termíny jejich předkládání.
+
+2\. Vyhláška č. 415/2008 Sb., kterou se stanoví rozsah a struktura podkladů pro vypracování střednědobého výhledu státního rozpočtu.
+
+## § 8 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. června 2013.
+
+Ministr:
+
+Ing. Kalousek v. r.
+
+### Příloha č. 1 k vyhlášce č. 133/2013 Sb.
+
+#### Vzor formuláře č. 1/1
+
+#### Návrh na změnu objemu prostředků na platy zaměstnanců, ostatní platby za provedenou práci (OPPP), ostatní osobní náklady (OON) a počty úvazků zaměstnanců na rok N, N+1 a N+2 mimo oblast EU/FM
+
+##### ![02_Formulář 1_1.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/53644/NAHLED/ZOBRAZ/02_Formulář 1_1)
+
+#### Vzor formuláře č. 1/3
+
+##### ![sbcr2013c061z0133p001u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832483/NAHLED/ZOBRAZ/sbcr2013c061z0133p001u003)
+
+#### Vzor formuláře č. 1/4
+
+##### ![sbcr2013c061z0133p001u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832485/NAHLED/ZOBRAZ/sbcr2013c061z0133p001u004)
+
+#### Vzor formuláře č. 1/5
+
+strana 1
+
+#### Přehled o rozpočtu nákladů a výnosů státních příspěvkových organizací a další doplňující údaje - hlavní činnost
+
+Metodické informace k předání výkazu:
+
+1\. Výkaz je do centrálního systému účetních informací státu (dále „CSÚIS“) předkládán v Kč s přesností na dvě desetinná místa.
+
+2\. Výkaz je Ministerstvem financí naplánován v CSÚIS k 31. 7. roku N-1.
+
+3\. Správce kapitoly:
+
+3.1 ověřuje v CSÚIS správnost sumáře za kapitolu na základě údajů předložených příslušnými státními příspěvkovými organizacemi (dále jen „SPO“);
+
+3.2 zajišťuje v případě zjištění nedostatků opravu předávaných údajů u příslušných SPO;
+
+3.3 schvaluje sumář za kapitolu v CSÚIS na úrovni kapitoly;
+
+3.4 opis sumáře za kapitolu celkem vytiskne v CSÚIS, podepíše a předloží v rámci návrhu rozpočtu své kapitoly.
+
+4\. V případě změn v údajích za danou SPO v návaznosti na další běhy návrhu rozpočtu (tj. v období srpen až prosinec roku N-1), je nutné zaslat nový Přehled, a to opětovně s datem k 31. 7. roku N-1. Následně je třeba opět schválit sumář za kapitolu. Do schválení zákona o státním rozpočtu na rok N Poslaneckou sněmovnou Parlamentu ČR nebude výkaz z úrovně Ministerstva financí schvalován.
+
+Technický způsob předávání výkazu:
+
+1\. Podrobnější popis zaslání přehledu do centrálního systému účetních informací státu (CSÚIS) je uveden v Technickém manuálu publikovaném na adrese https://statnipokladna.gov.cz/cs/csuis/technicke-informace.
+
+2\. K zaslání výkazu je nutno použít XSD schéma „Fin_SPO-RIS“ z XSD balíčku publikovaného na shodné adrese uvedené v předchozím bodě.
+
+3\. Vzorový výkaz XML je součástí výše uvedeného XSD balíčku.
+
+#### Přehled o rozpočtu nákladů a výnosů státních příspěvkových organizací a další doplňující údaje - hlavní činnost
+
+strana 2
+
+#### Část I - Přehled o rozpočtu nákladů a výnosů státních příspěvkových organizací
+
+##### ![sbcr2013c061z0133_2017c168z0467p001u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832487/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p001u003)
+
+strana 3
+
+#### Část II - Doplňující údaje - hlavní činnost státních příspěvkových organizací
+
+##### ![Formulář 1_5_SPO_final.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/53676/NAHLED/ZOBRAZ/Formulář 1_5_SPO_final)
+
+### Příloha č. 2 k vyhlášce č. 133/2013 Sb.
+
+#### Vzor formuláře č. 2/1
+
+##### ![sbcr2013c061z0133p002u001_n_2016c067z0177.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832491/NAHLED/ZOBRAZ/sbcr2013c061z0133p002u001_n_2016c067z0177)
+
+#### Vzor formuláře č. 2/2
+
+##### ![sbcr2013c061z0133p002u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832493/NAHLED/ZOBRAZ/sbcr2013c061z0133p002u002)
+
+#### Vzor formuláře č. 2/3
+
+#### Objem prostředků na platy zaměstnanců, ostatní platby za provedenou práci (OPPP) a počty úvazků zaměstnanců
+
+##### ![sbcr2013c061z0133_2017c168z0467p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832495/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p002u001)
+
+### Příloha č. 3 k vyhlášce č. 133/2013 Sb.
+
+#### Vzor formuláře č. 3
+
+##### ![sbcr2013c061z0133p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832497/NAHLED/ZOBRAZ/sbcr2013c061z0133p003u001)
+
+### Příloha č. 4 k vyhlášce č. 133/2013 Sb.
+
+#### Vzor formuláře č. 4
+
+##### ![sbcr2013c061z0133p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832499/NAHLED/ZOBRAZ/sbcr2013c061z0133p004u001)
+
+### Příloha č. 5 k vyhlášce č. 133/2013 Sb.
+
+#### Vzor formuláře č. 5/1
+
+#### Požadavky podle § 2 odst. 6 na změnu oznámeného předběžného objemu přijmu na rok N, N+1 a N+2
+
+##### ![sbcr2013c061z0133_2017c168z0467p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832501/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p005u001)
+
+#### Vzor formuláře č. 5/2
+
+#### Požadavky podle § 2 odst. 6 na změnu oznámeného předběžného objemu výdajů na rok N, N+1 a N+2
+
+##### ![sbcr2013c061z0133_2017c168z0467p005u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832503/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p005u002)
+
+### Příloha č. 6 k vyhlášce č. 133/2013 Sb.
+
+#### Vzor formuláře č. 6
+
+#### Změny podle § 3 odst. 1 vyhlášky (rok „N-1“)
+
+##### ![sbcr2013c061z0133_2017c168z0467p006u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832505/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p006u001)
+
+### Příloha č. 7 k vyhlášce č. 133/2013 Sb.
+
+#### Vzor formuláře č. 7
+
+#### Změny podle § 3 odst.2 vyhlášky (v roce N, N+1 a N+2) (v celoročním vyjádření)
+
+##### ![sbcr2013c061z0133_2017c168z0467p007u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832507/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p007u001)
+
+### Příloha č. 8 k vyhlášce č. 133/2013 Sb.
+
+#### Vzor formuláře č. 8
+
+##### ![sbcr2013c061z0133_2016c067z0177p008u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832509/NAHLED/ZOBRAZ/sbcr2013c061z0133_2016c067z0177p008u001)
+
+### Příloha č. 9
+
+#### Programy podporované z rozpočtu Evropské unie a finančních mechanismů
+
+##### ![sbcr2013c061z0133_2025c182z0182u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436123/NAHLED/ZOBRAZ/sbcr2013c061z0133_2025c182z0182u001)
+
+##### ![sbcr2013c061z0133_2025c182z0182u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436121/NAHLED/ZOBRAZ/sbcr2013c061z0133_2025c182z0182u002)
+
+##### ![sbcr2013c061z0133_2025c182z0182u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436119/NAHLED/ZOBRAZ/sbcr2013c061z0133_2025c182z0182u003)
+
+##### ![sbcr2013c061z0133_2025c182z0182u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436117/NAHLED/ZOBRAZ/sbcr2013c061z0133_2025c182z0182u004)
+
+### Příloha č. 10 k vyhlášce č. 133/2013 Sb.
+
+#### Vzor formuláře č. 10/1
+
+#### Výdaje státního rozpočtu na veřejné zakázky o předpokládané hodnotě 300 mil. Kč a vyšší, pokud je smlouva uzavírána na dobu delší než 1 rok, kromě údajů uvedených ve formuláři č. 10/2
+
+##### ![sbcr2013c061z0133_2017c168z0467p010u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832753/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p010u001)
+
+#### Vzor formuláře č. 10/2
+
+#### Výdaje státního rozpočtu na veřejné zakázky o předpokládané hodnotě 300 mil. Kč a vyšší, pokud je smlouva uzavírána na dobu delší než 1 rok, které jsou spolufinancovány ze zdrojů Evropské unie
+
+##### ![sbcr2013c061z0133_2017c168z0467p010u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832755/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p010u002)
+
+#### Vzor formuláře č. 10/3
+
+#### Výdaje státního fondu na veřejné zakázky o předpokládané hodnotě 300 mil. Kč a vyšší, pokud je smlouva uzavírána na dobu delší než 1 rok, kromě údajů uvedených ve formuláři č. 10/4
+
+##### ![sbcr2013c061z0133_2017c168z0467p010u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832757/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p010u003)
+
+#### Vzor formuláře č. 10/4
+
+#### Výdaje státního fondu na veřejné zakázky o předpokládané hodnotě 300 mil. Kč a vyšší, pokud je smlouva uzavírána na dobu delší než 1 rok, které jsou spolufinancovány ze zdrojů Evropské unie
+
+##### ![sbcr2013c061z0133_2017c168z0467p010u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832759/NAHLED/ZOBRAZ/sbcr2013c061z0133_2017c168z0467p010u004)
+
+### Příloha č. 11
+
+#### Vzor formuláře č. 11
+
+#### Informace o projektech ze smluv o energetických službách se zaručeným výsledkem v organizačních složkách státu a výdaje státního rozpočtu na tyto projekty
+
+#### ![Příloha 11 - EPC.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/57718/NAHLED/ZOBRAZ/Příloha 11 - EPC)
+
+---
+
+<sup>1</sup>) § 3 písm. o) zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 501/2012 Sb.
+
+<sup>3</sup>) § 8b zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 482/2004 Sb. a zákona č. 501/2012 Sb.
+
+<sup>4</sup>) § 8b odst. 3 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 482/2004 Sb. a zákona č. 501/2012 Sb.
+
+<sup>5</sup>) § 7 odst. 1 písm. a) zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 26/2008 Sb.

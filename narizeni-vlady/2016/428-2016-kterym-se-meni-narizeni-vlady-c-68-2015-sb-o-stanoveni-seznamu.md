@@ -1,0 +1,74 @@
+---
+title: "Nařízení vlády č. 428/2016 Sb., kterým se mění nařízení vlády č. 68/2015 Sb., o stanovení seznamu speciálních odborností a činností nezbytných pro plnění úkolů ozbrojených sil a Vojenské policie a výše stabilizačního příspěvku"
+identifier: "428/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/428/2017-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2016-12-14
+effective: 2017-01-01
+last_amended: 2017-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/428"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 428/2016 Sb., kterým se mění nařízení vlády č. 68/2015 Sb., o stanovení seznamu speciálních odborností a činností nezbytných pro plnění úkolů ozbrojených sil a Vojenské policie a výše stabilizačního příspěvku
+
+428
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. prosince 2016,
+
+kterým se mění nařízení vlády č. 68/2015 Sb., o stanovení seznamu speciálních odborností a činností nezbytných pro plnění úkolů ozbrojených sil a Vojenské policie a výše stabilizačního příspěvku
+
+Vláda nařizuje podle § 70b odst. 6 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 332/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 68/2015 Sb., o stanovení seznamu speciálních odborností a činností nezbytných pro plnění úkolů ozbrojených sil a Vojenské policie a výše stabilizačního příspěvku, se mění takto:
+
+1\. V § 2 písm. c) se slova „podmínkách získávání a uznávání způsobilosti k výkonu nelékařských zdravotnických povolání a k výkonu činností souvisejících s poskytováním zdravotní péče a dosáhl minimálně bakalářského vysokoškolského vzdělání“ nahrazují slovy „nelékařských zdravotnických povoláních<sup>1</sup>), a dosáhl minimálně bakalářského vysokoškolského vzdělání určeného tímto zákonem,“.
+
+Poznámka pod čarou č. 1 zní:
+
+> „<sup>1</sup>) Zákon č. 96/2004 Sb., o podmínkách získávání a uznávání způsobilosti k výkonu nelékařských zdravotnických povolání a k výkonu činností souvisejících s poskytováním zdravotní péče a o změně některých souvisejících zákonů, (zákon o nelékařských zdravotnických povoláních), ve znění pozdějších předpisů.“.
+
+2\. V § 2 se na konci písmene w) slovo „nebo“ zrušuje.
+
+3\. V § 2 se na konci písmene x) tečka nahrazuje čárkou a doplňují se písmena y) a z), která znějí:
+
+> „y) činnosti řídícího letového provozu stanoviště letových provozních služeb, nebo
+
+> z) činnosti
+
+> 1\. předsunutého leteckého návodčího oprávněného k samostatnému výkonu činnosti, nebo
+
+> 2\. návodčího společných paleb oprávněného k samostatnému výkonu činnosti.“.
+
+4\. V § 3 odstavec 2 zní:
+
+> „(2) Vojákovi ve speciální odbornosti nebo při výkonu některé z činností podle § 2 písm. c) až i), k) až q), y) nebo z) náleží stabilizační příspěvek ve výši 10 000 Kč měsíčně.“.
+
+5\. V § 3 odst. 4 se text „a), b),“ zrušuje.
+
+6\. V § 3 se za odstavec 4 vkládá nový odstavec 5, který zní:
+
+> „(5) Vojákovi ve speciální odbornosti nebo při výkonu některé z činností podle § 2 písm. a) nebo b) náleží stabilizační příspěvek ve výši 16 900 Kč měsíčně.“.
+
+Dosavadní odstavce 5 a 6 se označují jako odstavce 6 a 7.
+
+7\. V § 3 odst. 7 se text „1 až 5“ nahrazuje textem „1 až 6“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2017.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr obrany:
+
+MgA. Stropnický v. r.

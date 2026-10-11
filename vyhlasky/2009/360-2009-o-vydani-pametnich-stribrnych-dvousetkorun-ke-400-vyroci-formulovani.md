@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 360/2009 Sb., o vydání pamětních stříbrných dvousetkorun ke 400. výročí formulování Keplerových zákonů pohybu planet"
+identifier: "360/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/360/2009-10-21"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-09-15
+effective: 2009-10-21
+last_amended: 2009-10-21
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/360"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 360/2009 Sb., o vydání pamětních stříbrných dvousetkorun ke 400. výročí formulování Keplerových zákonů pohybu planet
+
+360
+
+VYHLÁŠKA
+
+ze dne 15. září 2009
+
+o vydání pamětních stříbrných dvousetkorun ke 400. výročí formulování Keplerových zákonů pohybu planet
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Ke 400. výročí formulování Keplerových zákonů pohybu planet se vydává pamětní stříbrná dvousetkoruna (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,3 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je nákres dráhy planety Mars pocházející z knihy Johanna Keplera „Astronomia nova“. Při levém horním a pravém okraji dvousetkoruny je název státu „ČESKÁ REPUBLIKA“. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je při spodním okraji dvousetkoruny. Mezi názvem státu a označením nominální hodnoty mince je značka mincovny, která dvousetkorunu razila, a logo projektu Europa, v jehož rámci dvousetkoruna vychází. Logo projektu Europa má podobu hvězdy umístěné v symbolu „€“.
+
+(2) Na rubu dvousetkoruny je portrét Johanna Keplera na pozadí nákresu zákonu ploch. Při pravém okraji dvousetkoruny je opis „KEPLEROVY ZÁKONY POHYBU PLANET“, který je za slovem „ZÁKONY“ přerušen nákresem zákonu ploch. Při levém spodním okraji dvousetkoruny jsou letopočty „1609 – 2009“, které čísly „09“ z letopočtu „2009“ částečně zasahují do vousů portrétu. Při levém okraji dvousetkoruny je vedle portrétu Johanna Keplera umístěna iniciála autora dvousetkoruny, Vojtěcha Dostála, DiS., která je tvořena obráceným písmenem „D“.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 21. října 2009.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### Příloha k vyhlášce č. 360/2009 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny ke 400. výročí formulování Keplerových zákonů pohybu planet
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2009c113z0360p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/869343/NAHLED/ZOBRAZ/sbcr2009c113z0360p001o001)
+
+#### ![sbcr2009c113z0360p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/869345/NAHLED/ZOBRAZ/sbcr2009c113z0360p001o002)

@@ -1,0 +1,79 @@
+---
+title: "Zákon č. 268/2014 Sb., o diagnostických zdravotnických prostředcích in vitro"
+identifier: "268/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/268/2022-12-22"
+type: act
+jurisdiction: cz
+language: cs
+date: 2014-10-22
+effective: 2015-04-01
+last_amended: 2022-12-22
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/268"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 268/2014 Sb., o diagnostických zdravotnických prostředcích in vitro ve znění zákona č. 183/2017 Sb., zákona č. 366/2017 Sb., zákona č. 90/2021 Sb. a zákona č. 375/2022 Sb."
+---
+
+# Zákon č. 268/2014 Sb., o diagnostických zdravotnických prostředcích in vitro
+
+268
+
+ZÁKON
+
+ze dne 22. října 2014
+
+o diagnostických zdravotnických prostředcích in vitro
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o správních poplatcích
+
+### § 103
+
+V položce 97 přílohy k zákonu č. 634/2004 Sb., o správních poplatcích, se doplňuje bod 3, který zní:
+
+> „3. Přijetí
+
+> | a) | žádosti o notifikaci nebo prodloužení notifikace sériově vyráběného zdravotnického prostředku nebo příslušenství zdravotnického prostředku uváděného na trh výrobcem nebo zplnomocněným zástupcem | Kč | 500 |
+> |---|---|---|---|
+> | | žádosti o změnu notifikace sériově vyráběného zdravotnického prostředku nebo příslušenství zdravotnického prostředku uváděného na trh výrobcem nebo zplnomocněným zástupcem | Kč | 50 |
+> | b) | ohlášení činnosti | | |
+> | | výrobce sériově vyráběných zdravotnických prostředků | Kč | 2 500 |
+> | | výrobce individuálně zhotovených zdravotnických prostředků | Kč | 2 500 |
+> | | zplnomocněného zástupce podle zákona o zdravotnických prostředcích | Kč | 2 500 |
+> | | distributora zdravotnických prostředků | Kč | 2 500 |
+> | | osoby provádějící servis zdravotnických prostředků | Kč | 2 500 |
+> | | dovozce zdravotnických prostředků | Kč | 2 500 |
+> | | zadavatele klinické zkoušky zdravotnického prostředku | Kč | 2 500 |
+> | c) | žádosti o povolení klinické zkoušky zdravotnického prostředku | Kč | 500 |
+> | d) | žádosti o vystavení certifikátu volného prodeje na zdravotnický prostředek | Kč | 500“. |
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### § 104
+
+Tento zákon nabývá účinnosti dnem 1. dubna 2015, s výjimkou ustanovení § 9 písm. d) a § 77, která nabývají účinnosti dnem 1. dubna 2018.
+
+Hamáček v. r.
+
+Zeman v. r.
+
+Sobotka v. r.
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 98/79/ES ze dne 27. října 1998 o diagnostických zdravotnických prostředcích in vitro, v platném znění. 
+ Rozhodnutí Komise 2010/227/EU ze dne 19. dubna 2010 o Evropské databance zdravotnických prostředků (Eudamed).
+
+<sup>2</sup>) Zákon č. 89/2021 Sb., o zdravotnických prostředcích a o změně zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 13 odst. 3 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.
+
+<sup>4</sup>) § 94 odst. 2 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Čl. 43 ústavního zákona č. 12/1993 Sb., Ústava České republiky, ve znění pozdějších předpisů. 
+ § 3 odst. 1 zákona č. 300/2013 Sb., o Vojenské policii a o změně některých zákonů (zákon o Vojenské policii), ve znění pozdějších předpisů.
+
+<sup>6</sup>) ČSN EN 62353 - Zdravotnické elektrické přístroje - Opakované zkoušky a zkoušky po opravách zdravotnických elektrických přístrojů.
+
+<sup>7</sup>) § 6 odst. 1 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.

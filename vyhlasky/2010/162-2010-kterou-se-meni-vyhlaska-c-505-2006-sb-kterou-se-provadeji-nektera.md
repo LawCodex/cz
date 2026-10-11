@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 162/2010 Sb., kterou se mění vyhláška č. 505/2006 Sb., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění pozdějších předpisů"
+identifier: "162/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/162/2010-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-05-17
+effective: 2010-06-01
+last_amended: 2010-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/162"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 162/2010 Sb., kterou se mění vyhláška č. 505/2006 Sb., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění pozdějších předpisů
+
+162
+
+VYHLÁŠKA
+
+ze dne 17. května 2010,
+
+kterou se mění vyhláška č. 505/2006 Sb., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění pozdějších předpisů
+
+Ministerstvo práce a sociálních věcí stanoví podle § 119 odst. 2 zákona č. 108/2006 Sb., o sociálních službách, ve znění zákona č. 261/2007 Sb. a zákona č. 206/2009 Sb.:
+
+## Čl. I
+
+Vyhláška č. 505/2006 Sb., kterou se provádějí některá ustanovení zákona o sociálních službách, ve znění vyhlášky č. 166/2007 Sb., vyhlášky č. 340/2007 Sb. a vyhlášky č. 239/2009 Sb., se mění takto:
+
+1\. V příloze č. 1 části I písm. b) se na konci bodu 6 středník nahrazuje čárkou a doplňuje se bod 7, který zní:
+
+> „7. stanovení jídelního plánu s každodenním podáváním stravy zvláštního složení, množství nebo četnosti, popřípadě léčebných nutričních doplňků;“.
+
+2\. V příloze č. 1 části I písm. b) závěrečné části ustanovení se slova „při úkonu“ nahrazují slovy „při činnostech uvedených v bodech 1 až 6“.
+
+3\. V příloze č. 1 části I písm. q) se na konci textu bodu 5 doplňují slova „, měření glykosurie a ketolátek v moči“.
+
+4\. V příloze č. 1 části I písm. r) bod 4 zní:
+
+> „4. aplikace injekcí, měření glykemie, stanovení aktuální dávky inzulinu,“.
+
+5\. V příloze č. 1 části II písm. e) se na konci bodu 3 středník nahrazuje čárkou a doplňuje se bod 4, který zní:
+
+> „4. přizpůsobení denního a nočního režimu potřebám léčby a ošetřování;“.
+
+6\. V příloze č. 1 části II písm. e) závěrečné části ustanovení se slova „u osob do 3 let věku se nepřihlíží k potřebě pomoci a dohledu při úkonu;“ zrušují.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. června 2010.
+
+Ministr:
+
+JUDr. Šimerka v. r.

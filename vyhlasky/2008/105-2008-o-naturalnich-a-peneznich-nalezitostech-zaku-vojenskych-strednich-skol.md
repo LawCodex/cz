@@ -1,0 +1,263 @@
+---
+title: "Vyhláška č. 105/2008 Sb., o naturálních a peněžních náležitostech žáků vojenských středních škol"
+identifier: "105/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/105/2025-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2008-03-25
+effective: 2008-04-01
+last_amended: 2025-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/105"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 105/2008 Sb., o naturálních a peněžních náležitostech žáků vojenských středních škol ve znění vyhlášky č. 198/2010 Sb., vyhlášky č. 165/2014 Sb., vyhlášky č. 155/2018 Sb., vyhlášky č. 17/2020 Sb., vyhlášky č. 318/2024 Sb. a vyhlášky č. 304/2025 Sb."
+---
+
+# Vyhláška č. 105/2008 Sb., o naturálních a peněžních náležitostech žáků vojenských středních škol
+
+105
+
+VYHLÁŠKA
+
+ze dne 25. března 2008
+
+o naturálních a peněžních náležitostech žáků vojenských středních škol
+
+Ministerstvo obrany stanoví podle § 166 zákona č. 221/1999 Sb., o vojácích z povolání:
+
+## § 1 – Předmět úpravy
+
+(1) Tato vyhláška upravuje rozsah, výši a způsob poskytování naturálních a peněžních náležitostí žákům vojenských středních škol, kteří nejsou vojáky v činné službě a kteří se soustavně studiem připravují k výkonu služby vojáka z povolání.
+
+(2) Naturální náležitosti se poskytují ve formě stravování, výstrojních a přepravních náležitostí a ubytování.
+
+(3) Peněžní náležitosti se poskytují ve formě opakujícího se měsíčního motivačního příspěvku, jednorázového pololetního motivačního příspěvku, jednorázové motivační odměny nebo náhrad v penězích za neposkytnuté naturální náležitosti.
+
+**Stravování**
+
+## § 2
+
+(1) Škola poskytuje žákovi stravování, které hradí Ministerstvo obrany ve výši 60 % finanční hodnoty stravní dávky pro žáka a přídavků potravin. Žák se na úhradě stravování podílí ve výši 40 % finanční hodnoty stravní dávky pro žáka a přídavků potravin.
+
+(2) V případech stanovených v § 3 odst. 3 písm. b) a § 4 odst. 2 hradí Ministerstvo obrany stravování žáka v plné výši finanční hodnoty stravní dávky pro žáka a přídavků potravin.
+
+(3) Žákovi, který podíl na úhradě stravování podle odstavce 1 neuhradí, se stravování neposkytne.
+
+(4) Stravování se poskytuje žákovi ode dne nástupu do školy do dne ukončení vzdělávání nebo do dne povolání do služebního poměru vojáka z povolání.
+
+## § 3
+
+(1) Stravování žáka se zabezpečuje výdejem hlavního jídla a přídavků potravin. Hlavní jídlo, kterým se rozumí snídaně, oběd nebo večeře, se vydává formou teplého jídla, a nelze-li to zabezpečit, pak formou
+
+a) studeného jídla, nebo
+
+b) potravin k samostatné nebo skupinové přípravě hlavního jídla.
+
+(2) Nelze-li stravování žáka zabezpečit žádnou formou uvedenou v odstavci 1, vyplácí se za něj náhrada v penězích podle § 5 odst. 1.
+
+(3) Stravování se žákovi neposkytuje v době jeho nepřítomnosti na vyučování v objektech školy nebo v době pobytu v objektech domova mládeže nesouvisejícího se vzděláváním, s výjimkou doby, po kterou
+
+a) žák koná praktické vyučování, na které byl vyslán školou v rámci svého vzdělávání, nebo
+
+b) je žák školou vyslán, aby se účastnil sportovní, kulturní, společenské nebo odborně zájmové akce za účelem reprezentace školy, akce organizované Ministerstvem obrany nebo akce pro nadané žáky.
+
+(4) Za dobu nepřítomnosti žáka ve škole nebo domově mládeže se nepovažuje první den neplánované nepřítomnosti žáka.
+
+## § 4 – Stravní dávka pro žáka a přídavek potravin
+
+(1) Hlavní jídlo a potraviny musí odpovídat stravní dávce pro žáka a přídavkům potravin, jejich energetickým normám a výživovým hodnotám stanoveným v příloze č. 1 k této vyhlášce a průměrné skladbě spotřeby potravin stanovené v příloze č. 2 k této vyhlášce.
+
+(2) Pokud žák koná praktické vyučování u vojenského útvaru nebo vojenského zařízení (dále jen „vojenský útvar“), poskytuje se mu hlavní jídlo nebo potraviny v hodnotě odpovídající stravní dávce, která se u vojenského útvaru připravuje.
+
+(3) Pokud žák koná praktické vyučování u vojenského útvaru, poskytují se mu ke stravní dávce stanovené v odstavci 2 podle náročnosti vykonávaného praktického vyučování rovněž přídavky potravin A a B, které jsou uvedeny v příloze č. 2 k této vyhlášce; pro poskytování přídavků potravin podle části věty před středníkem se přiměřeně použijí podmínky pro poskytování přídavků potravin A a B stanovené v § 8 a 9 vyhlášky č. 209/2025 Sb., o způsobu zabezpečování bezplatného stravování a výstrojních náležitostí vojáků z povolání, vojáků v záloze ve službě a vojáků v aktivní záloze.
+
+## § 5 – Náhrada v penězích a příplatek k náhradě v penězích
+
+(1) Náhrada v penězích za hlavní jídlo je finanční hodnota druhů a množství jednotlivých potravin, která odpovídá stravní dávce pro žáka a přídavků potravin stanovené v příloze č. 1 k této vyhlášce. Žákovi, který uhradil podíl na stravování podle § 2 odst. 1, se náhrada v penězích vyplácí za jednotlivá hlavní jídla, která měla být vydána, ve výši 60 % finanční hodnoty stravní dávky pro žáka a přídavků potravin podle § 6 odst. 1; současně s náhradou v penězích se žákovi vrátí rovněž jím uhrazený podíl na úhradě stravování.
+
+(2) Žákovi, kterému vznikl nárok na poskytnutí stravování podle § 2 odst. 2, avšak nebylo možné mu vydat jednotlivá hlavní jídla, se vyplatí náhrada v penězích ve výši 100 % finanční hodnoty stravní dávky pro žáka a přídavků potravin podle § 6 odst. 1.
+
+(3) Příplatek k náhradě v penězích se vyplácí žákovi spolu s náhradou v penězích, jestliže se účastní akce podle § 3 odst. 3 písm. b) a nemá-li možnost stravovat se ve škole nebo ve vojenském útvaru.
+
+(4) Výše příplatku k náhradě v penězích se rovná nejnižší výši stravného pro vojáka z povolání na služební cestě<sup>1</sup>). Z této částky se vyplácí k náhradě v penězích za snídani 20 %, za oběd 40 % a za večeři 40 %.
+
+## § 6 – Energetická, výživová a finanční hodnota stravní dávky pro žáka a přídavků potravin
+
+(1) Finanční hodnota stravní dávky pro žáka a přídavků potravin se vypočte tak, že průměrná skladba spotřeby jednotlivých potravin v kilogramech na osobu a den podle přílohy č. 2 k této vyhlášce se vynásobí jejich průměrnými spotřebitelskými cenami za kilogram. Průměrnou spotřebitelskou cenou se rozumí průměrná cena potraviny ověřená průzkumem trhu provedeným Ministerstvem obrany pro území České republiky. Ředitel školy finanční hodnotu stravní dávky pro žáka a přídavků potravin zveřejní na internetových stránkách školy.
+
+(2) Finanční hodnota stravní dávky pro žáka a přídavků potravin se zvýší pouze v případě přírůstku průměrného ročního indexu spotřebitelských cen zveřejňovaného Českým statistickým úřadem za kalendářní rok o více než 2 %. V tomto případě se finanční hodnota stravní dávky pro žáka a přídavků potravin zvýší o průměrnou roční míru inflace zveřejněnou Českým statistickým úřadem.
+
+(3) Finanční hodnota stravní dávky pro žáka a přídavků potravin se upravuje od prvního dne druhého měsíce následujícího po zjištění rozdílu podle odstavce 2.
+
+(4) Finanční hodnota stravní dávky pro žáka se žákovi vzdělávajícímu se v oboru vzdělání zaměřeném na proviantní zabezpečení zvyšuje o 10 % ve dnech přípravy stravy ve skupinách do 25 osob. Finanční hodnotu stravní dávky pro žáka vzdělávajícího se ve vojenské škole postižené živelní pohromou nebo jinou závažnou situací ohrožující život, zdraví nebo životní prostředí lze zvýšit až o 20 %.
+
+(5) Měsíční průměr čerpání energetické a výživové hodnoty stravních dávek, přídavků potravin a jejich finanční hodnoty v jednotlivých dnech, ve kterých je bezplatné stravování poskytováno, musí odpovídat hodnotám stanoveným touto vyhláškou pro jednotlivé stravní dávky a přídavky potravin, přičemž roční průměr čerpání těchto hodnot nesmí překročit odchylku 10 % nad stanovenou hodnotu nebo 3 % pod stanovenou hodnotu.
+
+## § 7 – Zabezpečování výstrojních náležitostí a bezplatných služeb
+
+(1) Výstrojní náležitosti se zabezpečují výdejem součástek vojenských stejnokrojů a zabezpečením bezplatných služeb nebo náhradou v penězích. Bezplatnými službami se rozumí praní, chemické čištění, úpravy, opravy a údržba vojenské výstroje (dále jen „péče o vojenské stejnokroje“) a úprava vlasů.
+
+(2) Žákovi se vydávají tyto vojenské stejnokroje:
+
+a) stejnokroj polní zelený potisk,
+
+b) stejnokroj polní letní zelený potisk,
+
+c) stejnokroj služební,
+
+d) stejnokroj vycházkový,
+
+e) stejnokroj pracovní a
+
+f) stejnokroj cvičební.
+
+(3) Výstrojní náležitosti se žákovi poskytují ode dne nástupu do školy do dne ukončení vzdělávání nebo do dne povolání do služebního poměru vojáka z povolání.
+
+(4) Žák je ke dni ukončení vzdělávání nebo ke dni povolání do služebního poměru vojáka z povolání povinen vydané součástky vojenských stejnokrojů vrátit, pokud ředitel školy neurčí, že jejich vracení není účelné nebo hospodárné.
+
+(5) Péče o vojenské stejnokroje uvedená v odstavci 1 se zabezpečuje podle skutečné potřeby a možností v místě plnění studijních úkolů formou
+
+a) zabezpečení služeb,
+
+b) výdeje spotřebního materiálu, nebo
+
+c) zabezpečení majetku k péči o vojenskou výstroj.
+
+(6) Péče o vojenské stejnokroje se nezabezpečuje v období hlavních prázdnin, s výjimkou dnů, ve kterých se žák účastní akcí podle § 3 odst. 3 písm. b).
+
+## § 9 – Vojenský stejnokroj při pohřbu
+
+Zemře-li žák, vydá se k jeho pohřbení vypraviteli pohřbu služební stejnokroj bez čepice a bot. Pokud je vypravitelem pohřbu škola, vydá se navíc jedna souprava prádla.
+
+## § 11 – Obměna součástek vojenských stejnokrojů
+
+(1) Součástky vojenských stejnokrojů vydávaných podle § 7 odst. 2 se obměňují v závislosti na době užívání součástky vojenského stejnokroje, po kterou je zaručeno udržení jejích užitných vlastností.
+
+(2) Náhradu ztracené nebo obměnu poškozené anebo opotřebené součástky vojenských stejnokrojů nutné k plnění studijních úkolů lze realizovat na základě žádosti žáka, pokud žádost schválil ředitel školy.
+
+## § 11a – Náhrada v penězích
+
+(1) Náhrada v penězích se žákovi vyplácí za
+
+a) prvotní pořízení nebo obměnu nepořizovaných součástek vojenských stejnokrojů,
+
+b) nezabezpečenou péči o vydané vojenské stejnokroje.
+
+(2) Pro vyplácení náhrady podle odstavce 1 a její výši se použijí § 15 a 16 vyhlášky č. 209/2025 Sb., o způsobu zabezpečování bezplatného stravování a výstrojních náležitostí vojáků z povolání, vojáků v záloze ve službě a vojáků v aktivní záloze, přiměřeně.
+
+## § 12 – Poskytování bezplatné přepravy a náhrada jízdních výdajů v penězích
+
+(1) Bezplatnou přepravu (dále jen „přeprava“) na akce související se vzděláváním a akce podle § 3 odst. 3 písm. b) zabezpečuje služební orgán<sup>2</sup>).
+
+(2) Není-li přeprava zabezpečena podle odstavce 1, poskytne se náhrada prokázaných jízdních výdajů v penězích (dále jen „náhrada jízdních výdajů“).
+
+(3) Žákovi náleží náhrada jízdních výdajů jako vojákovi z povolání při služební cestě<sup>13</sup>).
+
+## § 14 – Přeprava do zdravotnických zařízení
+
+Žákovi se poskytuje přeprava nebo náhrada jízdních výdajů ve výši podle § 12 odst. 3 za cestu z místa školy do místa zdravotnického zařízení poskytovatele zdravotních služeb určeného ošetřujícím zdravotnickým pracovníkem zdravotnického zařízení vojenského poskytovatele zdravotních služeb a zpět, pokud tato cesta přímo souvisí s poskytnutím neodkladné nebo akutní zdravotní péče anebo plánované zdravotní péče<sup>14</sup>) u změn zdravotního stavu, které vznikly v důsledku nebo v přímé souvislosti se vzděláváním žáka.
+
+## § 16 – Ubytování
+
+(1) Žákovi se poskytuje bezplatné ubytování v domově mládeže. Nelze-li poskytnout ubytování v domově mládeže, zabezpečí se ubytování v jiném vojenském ubytovacím zařízení nebo v ubytovacím zařízení jiného provozovatele; to neplatí, pokud byl žák z domova mládeže vyloučen podle § 31 odst. 2 školského zákona.
+
+(2) Ubytování podle odstavce 1 se poskytuje v souladu s vnitřním řádem domova mládeže ode dne nástupu do školy po dobu vzdělávání nebo do dne povolání do služebního poměru vojáka z povolání.
+
+(3) S výjimkou dnů, po nichž následuje vyučovací den, se ubytování podle odstavce 1 neposkytuje po dobu
+
+a) pobytů a cest mimo místo školy,
+
+b) školních prázdnin,
+
+c) volných dnů vyhlášených ředitelem školy, nebo
+
+d) dnů pracovního klidu.
+
+(4) Ustanovení odstavce 3 písm. b) až d) neplatí v případě, že se žák účastní akce podle § 3 odst. 3 písm. b).
+
+(5) Po dobu praktického vyučování u vojenského útvaru zajišťuje žákovi bezplatné ubytování vojenský útvar.
+
+## § 17 – Motivační příspěvek
+
+(1) Žákovi, který splňuje podmínky stanovené v odstavci 2, náleží motivační příspěvek. Motivační příspěvek se poskytuje jako měsíční nebo pololetní.
+
+(2) Měsíční motivační příspěvek škola žákovi poskytne v kalendářním měsíci, v němž se účastnil vyučování, v závislosti na jeho studijních výsledcích v předchozím pololetí, pokud
+
+a) byl žák klasifikován ze všech předmětů,
+
+b) bylo chování žáka hodnoceno stupněm 1 – velmi dobré,
+
+c) nebylo žákovi za porušení povinností stanovených školním řádem nebo vnitřním řádem domova mládeže uloženo výchovné opatření třídního učitele, ředitele školy nebo ředitele domova mládeže a
+
+d) žákova nepřítomnost ve vyučování byla omluvena v souladu se školním řádem.
+
+(3) Měsíční motivační příspěvek se vyplácí měsíčně v období školního vyučování ve výši
+
+a) 3 000 Kč, jestliže hodnocení výsledků vzdělávání žáka v žádném předmětu není vyšší než klasifikační stupeň prospěchu 3 – dobrý a průměr klasifikačních stupňů prospěchu není vyšší než 1,50,
+
+b) 2 000 Kč, jestliže hodnocení výsledků vzdělávání žáka v žádném předmětu není vyšší než klasifikační stupeň prospěchu 3 – dobrý a průměr klasifikačních stupňů prospěchu není vyšší než 2,00, nebo
+
+c) 1 000 Kč, jestliže hodnocení výsledků vzdělávání žáka v žádném předmětu není vyšší než klasifikační stupeň prospěchu 3 – dobrý a průměr klasifikačních stupňů prospěchu není vyšší než 2,50.
+
+(4) Pololetní motivační příspěvek škola žákovi poskytne v pololetí, v němž se účastnil vyučování, v závislosti na jeho studijních výsledcích v předchozím pololetí, pokud žák splnil podmínky stanovené v odstavci 2 písm. a) až d).
+
+(5) Pololetní motivační příspěvek se vyplácí pololetně, nejpozději do 15 dnů od skončení pololetí podle odstavce 4, ve výši 3 000 Kč, jestliže hodnocení výsledků vzdělávání žáka v žádném předmětu není vyšší než klasifikační stupeň prospěchu 2 – chvalitebný a průměr klasifikačních stupňů prospěchu není vyšší než 1,50.
+
+(6) U měsíčního motivačního příspěvku se splnění podmínek podle odstavce 2 písm. a) a b) zjišťuje za předchozí pololetí školního vyučování; splnění podmínek podle odstavce 2 písm. c) a d) se zjišťuje za předchozí kalendářní měsíc, v němž probíhalo vyučování. U pololetního motivačního příspěvku se splnění podmínek podle odstavce 2 písm. a) až d) zjišťuje za předchozí pololetí školního vyučování.
+
+(7) Pokud bylo žákovi za porušení povinností stanovených školním řádem nebo vnitřním řádem domova mládeže uloženo výchovné opatření třídního učitele, ředitele školy nebo ředitele domova mládeže, neposkytne mu škola měsíční motivační příspěvek po dobu 3 kalendářních měsíců, za které by mu jinak náležel, a to počínaje kalendářním měsícem následujícím po měsíci, ve kterém se uložení výchovného opatření stalo překážkou pro poskytnutí měsíčního motivačního příspěvku.
+
+## § 17a – Motivační odměna
+
+(1) Za dosažení jazykové způsobilosti podle NATO STANAG 6001 škola žákovi poskytne motivační odměnu ve výši
+
+a) 3 000 Kč za úroveň jazykové způsobilosti SLP 2222, SLP 3333 a SLP 4444 z anglického jazyka, nebo
+
+b) 1 500 Kč za úroveň jazykové způsobilosti SLP 1111, SLP 2222, SLP 3333 a SLP 4444 z dalších cizích jazyků stanovených rámcovým nebo školním vzdělávacím programem.
+
+(2) Motivační odměna podle odstavce 1 se žákovi poskytne v kalendářním měsíci následujícím po měsíci, ve kterém žák dosáhl stanovené úrovně jazykové způsobilosti.
+
+## § 18 – Náhrady při akcích v zahraničí
+
+Při účasti žáka na akcích podle § 3 odst. 3 písm. b), které se konají v zahraničí, se žákovi poskytují náhrady jako vojákovi z povolání při zahraniční služební cestě<sup>5</sup>).
+
+## § 19 – Zrušovací ustanovení
+
+Vyhláška č. 269/1999 Sb., o rozsahu, výši a způsobu poskytování naturálních náležitostí a peněžních náležitostí žákům vojenských středních škol, kteří nejsou vojáky v činné službě a kteří se soustavně studiem připravují k výkonu služby vojáka z povolání, se zrušuje.
+
+## § 20 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2008.
+
+Ministryně:
+
+JUDr. Parkanová v. r.
+
+### Příloha č. 1
+
+#### Stravní dávka pro žáka a přídavek potravin A a B na osobu a den, normy energetických a výživových hodnot
+
+<table><tbody><tr><th rowspan="2">Stravní dávka (SD)<br> Přídavek potravin (PP)</th><th rowspan="2">Energ. hodnota</th><th colspan="3">Bílkoviny</th><th>Tuky</th><th>Kyselina</th><th>Sacharidy</th><th colspan="3">Minerální látky</th><th colspan="5">Vitamíny</th></tr><tr><th>živočišné</th><th>rostlinné</th><th>celkem</th><th></th><th>linolová</th><th></th><th>vápník</th><th>fosfor</th><th>železo</th><th>A-ekv. retinolu</th><th>B<sub>1</sub></th><th>B<sub>2</sub></th><th>B<sub>3 <br></sub>ekv. niacinu</th><th>C</th></tr><tr><th></th><th>kJ</th><th colspan="6">g</th><th colspan="3">mg</th><th>μg</th><th colspan="4">mg</th></tr><tr><td>SD pro žáka</td><td>15 977</td><td>76</td><td>55,5</td><td>131,5</td><td>124</td><td>11,5</td><td>530</td><td>1 200</td><td>2 000</td><td>21</td><td>1 200</td><td>1,8</td><td>2</td><td>23</td><td>90</td></tr><tr><td>PP A</td><td>1520</td><td colspan="3">14</td><td>10</td><td>0,5</td><td>54</td><td>26,4</td><td>131</td><td>2,1</td><td>94</td><td>0,17</td><td>0,13</td><td>3,7</td><td>2,4</td></tr><tr><td>PP B</td><td>1596</td><td colspan="3">18</td><td>12</td><td>0,5</td><td>50</td><td>189</td><td>264</td><td>2,7</td><td>146</td><td>0,12</td><td>0,28</td><td>7,4</td><td>2,1</td></tr></tbody></table>
+
+### Příloha č. 2
+
+#### Průměrná skladba spotřeby potravin na osobu a den k dosažení požadovaných energetických a výživových hodnot podle stravní dávky pro žáka a přídavků potravin k určení výše jejich finanční hodnoty
+
+<table><tbody><tr><th rowspan="2">Druh potravin</th><th>Stravní dávka pro žáka</th></tr><tr><th>Dávka v gramech</th></tr><tr><td>Vepřové maso</td><td>70</td></tr><tr><td>Hovězí maso</td><td>69</td></tr><tr><td>Uzené maso</td><td>5</td></tr><tr><td>Ostatní maso</td><td>2</td></tr><tr><td>Vnitřnosti</td><td>15</td></tr><tr><td>Uzeniny a výrobky z masa</td><td>44</td></tr><tr><td>Masové konzervy</td><td>34</td></tr><tr><td><b>Maso celkem</b></td><td><b>239</b></td></tr><tr><td>Drůbež a drůbeží výrobky</td><td>32</td></tr><tr><td>Kosti</td><td>2</td></tr><tr><td>Ryby</td><td>9</td></tr><tr><td>Rybí výrobky a konzervy</td><td>15</td></tr><tr><td>Máslo</td><td>23</td></tr><tr><td>Sádlo a slanina</td><td>10</td></tr><tr><td>Jedlé tuky a oleje</td><td>21</td></tr><tr><td>Čerstvé mléko</td><td>410</td></tr><tr><td>Mléčné výrobky</td><td>97</td></tr><tr><td>Sýry</td><td>32</td></tr><tr><td>Vejce</td><td>48</td></tr><tr><td>Chléb</td><td>310</td></tr><tr><td>Běžné pečivo</td><td>92</td></tr><tr><td>Jemné pečivo</td><td>45</td></tr><tr><td>Trvanlivé pečivo</td><td>10</td></tr><tr><td>Těstoviny</td><td>17</td></tr><tr><td>Mouka, kroupy, vločky</td><td>65</td></tr><tr><td>Rýže</td><td>26</td></tr><tr><td>Cukr a cukrářské výrobky</td><td>68</td></tr><tr><td>Brambory</td><td>490</td></tr><tr><td>Čerstvá a mražená zelenina</td><td>190</td></tr><tr><td>Nakládaná a sušená zelenina</td><td>70</td></tr><tr><td>Kysané a sterilované zelí</td><td>20</td></tr><tr><td><b>Zelenina celkem</b></td><td><b>280</b></td></tr><tr><td>Čerstvé, mražené a sušené ovoce</td><td>88</td></tr><tr><td>Citrusové plody</td><td>40</td></tr><tr><td>Kompoty</td><td>35</td></tr><tr><td>Zahuštěné ovocné výrobky</td><td>36</td></tr><tr><td><b>Ovoce celkem</b></td><td><b>199</b></td></tr><tr><td>Přísady, nápoje, ostatní potraviny</td><td>362</td></tr></tbody></table>
+
+<table><tbody><tr><th rowspan="2">Druh potravin</th><th>Přídavek potravin A</th><th>Přídavek potravin B</th></tr><tr><th>Dávka v gramech</th><th>Dávka v gramech</th></tr><tr><td>Maso celkem</td><td>50</td><td>50</td></tr><tr><td>Chléb</td><td>100</td><td>100</td></tr><tr><td>Ovoce celkem</td><td>100</td><td>100</td></tr><tr><td>Cukr a cukrářské výrobky</td><td></td><td>25</td></tr><tr><td>Přísady, nápoje, ostatní potraviny</td><td></td><td>300</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) § 2 písm. a) vyhlášky č. 267/1999 Sb., kterou se stanoví výše náborového příspěvku, příspěvku při přestěhování a stravného a postup při přiznávání cestovních a jiných náhrad vojákům z povolání, ve znění pozdějších předpisů.
+
+<sup>2</sup>) § 2 odst. 2 zákona č. 221/1999 Sb., o vojácích z povolání.
+
+<sup>4</sup>) Nařízení vlády č. 39/2008 Sb., kterým se upravuje výše služného vojáků v záloze povolaných na vojenské cvičení.
+
+<sup>5</sup>) § 79 až 84 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 254/2002 Sb.
+
+<sup>13</sup>) § 74 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění pozdějších předpisů.
+
+<sup>14</sup>) § 5 odst. 1 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách).

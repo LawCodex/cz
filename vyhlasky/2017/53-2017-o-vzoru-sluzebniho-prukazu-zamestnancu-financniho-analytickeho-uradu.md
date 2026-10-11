@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 53/2017 Sb., o vzoru služebního průkazu zaměstnanců Finančního analytického úřadu"
+identifier: "53/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/53/2017-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-02-20
+effective: 2017-04-01
+last_amended: 2017-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/53"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 53/2017 Sb., o vzoru služebního průkazu zaměstnanců Finančního analytického úřadu
+
+53
+
+VYHLÁŠKA
+
+ze dne 20. února 2017
+
+o vzoru služebního průkazu zaměstnanců Finančního analytického úřadu
+
+Ministerstvo financí stanoví podle § 55 odst. 4 zákona č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění zákona č. 368/2016 Sb., a podle § 23 odst. 2 zákona č. 69/2006 Sb., o provádění mezinárodních sankcí, ve znění zákona č. 368/2016 Sb.:
+
+## § 1 – Vzor služebního průkazu
+
+(1) Služební průkaz zaměstnance Finančního analytického úřadu je oboustranně potištěná plastová karta, která splňuje normu ISO/IEC 7810:1966 ID - 1, o rozměrech 85,6 x 54,0 mm se zakulacenými rohy. Služební průkaz je zajištěn speciálními zajišťovacími prvky, z nichž jedním je holografický prvek. Na lícové straně je na prvním řádku uveden nadpis „FINANČNÍ ANALYTICKÝ ÚŘAD“. Na druhém řádku je uveden nadpis „FINANČNÍ ZPRAVODAJSKÁ JEDNOTKA ČESKÉ REPUBLIKY“. Pod těmito nadpisy je v levé části barevné vyobrazení držitele průkazu, které splňuje technické požadavky kladené na průkazové fotografie. Na třetím řádku je uveden nadpis „FAÚ“. V pravé části je vyobrazen velký státní znak v barevném provedení. Na čtvrtém řádku je uveden nadpis „Číslo služebního průkazu:“ a vedle něj je místo pro číslo služebního průkazu. Na pátém řádku je uveden text „Platnost do:“ a vedle něj je místo pro datum platnosti, uvedené ve formátu dd.mm.rrrr. Na rubové straně je uveden text: „Držitel tohoto služebního průkazu je zaměstnancem Finančního analytického úřadu a má oprávnění vykonávat úkony podle právních předpisů o opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu a o provádění mezinárodních sankcí. Nálezce tohoto služebního průkazu se žádá o odevzdání Finančnímu analytickému úřadu nebo Policii České republiky. Zneužití služebního průkazu je trestné.“ Na posledním řádku je uveden text „Vydal Finanční analytický úřad dne:“ a za ním je místo pro datum vydání, uvedené ve formátu dd.mm.rrrr. Nad ním je vyhrazené místo pro elektronicky vytištěný podpis ředitele Finančního analytického úřadu. Vpravo je umístěn kontaktní elektronický čip.
+
+(2) Vzor služebního průkazu zaměstnance Finančního analytického úřadu je uveden v příloze k této vyhlášce.
+
+## § 2 – Zrušovací ustanovení
+
+Vyhláška č. 282/2006 Sb., kterou se stanoví vzor služebního průkazu, se zrušuje.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2017.
+
+Ministr:
+
+Ing. Babiš v. r.
+
+### Příloha k vyhlášce č. 53/2017 Sb.
+
+#### Vzor služebního průkazu
+
+1\. Vyobrazení lícové strany služebního průkazu
+
+##### ![sbcr2017c019z0053p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832713/NAHLED/ZOBRAZ/sbcr2017c019z0053p001o001)
+
+2\. Vyobrazení rubové strany služebního průkazu
+
+##### ![sbcr2017c019z0053p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/832715/NAHLED/ZOBRAZ/sbcr2017c019z0053p001o002)

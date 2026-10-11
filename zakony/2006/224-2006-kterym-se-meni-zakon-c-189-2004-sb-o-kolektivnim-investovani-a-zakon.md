@@ -1,0 +1,49 @@
+---
+title: "Zákon č. 224/2006 Sb., kterým se mění zákon č. 189/2004 Sb., o kolektivním investování, a zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu a o změně a doplnění dalších zákonů, ve znění pozdějších předpisů"
+identifier: "224/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/224/2013-08-19"
+type: act
+jurisdiction: cz
+language: cs
+date: 2006-04-25
+effective: 2006-05-26
+last_amended: 2013-08-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/224"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 224/2006 Sb., kterým se mění zákon č. 189/2004 Sb., o kolektivním investování, a zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu a o změně a doplnění dalších zákonů, ve znění pozdějších předpisů ve znění zákona č. 241/2013 Sb."
+---
+
+# Zákon č. 224/2006 Sb., kterým se mění zákon č. 189/2004 Sb., o kolektivním investování, a zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu a o změně a doplnění dalších zákonů, ve znění pozdějších předpisů
+
+224
+
+ZÁKON
+
+ze dne 25. dubna 2006,
+
+kterým se mění zákon č. 189/2004 Sb., o kolektivním investování, a zákon č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu a o změně a doplnění dalších zákonů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o dohledu v oblasti kapitálového trhu
+
+### Čl. IV
+
+V § 13 zákona č. 15/1998 Sb., o dohledu v oblasti kapitálového trhu a o změně a doplnění dalších zákonů, ve znění zákona č. 308/2002 Sb., zákona č. 257/2004 Sb., zákona č. 56/2006 Sb. a zákona č. 57/2006 Sb., se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno u), které včetně poznámky pod čarou č. 20a zní:
+
+> „u) kategorií institucí uvedených ve statutech standardních fondů ve smyslu zákona upravujícího kolektivní investování<sup>20a</sup>).
+
+> <sup>20a</sup>) § 26 odst. 1 písm. g) bod 2 zákona č. 189/2004 Sb., o kolektivním investování, ve znění zákona č. 224/2006 Sb.“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. V
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+v z. Kasal v. r.
+
+Klaus v. r.
+
+Paroubek v. r.

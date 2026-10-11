@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 436/2010 Sb., kterou se mění vyhláška č. 108/2005 Sb., o školských výchovných a ubytovacích zařízeních a školských účelových zařízeních"
+identifier: "436/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/436/2011-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-12-22
+effective: 2011-09-01
+last_amended: 2011-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/436"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 436/2010 Sb., kterou se mění vyhláška č. 108/2005 Sb., o školských výchovných a ubytovacích zařízeních a školských účelových zařízeních
+
+436
+
+VYHLÁŠKA
+
+ze dne 22. prosince 2010,
+
+kterou se mění vyhláška č. 108/2005 Sb., o školských výchovných a ubytovacích zařízeních a školských účelových zařízeních
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 121 odst. 1 a § 123 odst. 5 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon):
+
+## Čl. I
+
+Vyhláška č. 108/2005 Sb., o školských výchovných a ubytovacích zařízeních a školských účelových zařízeních, se mění takto:
+
+1\. V § 2 se na konci odstavce 1 doplňuje věta „V případě hodném zvláštního zřetele může být do domova umístěn i žák druhého stupně základní školy.“.
+
+2\. V § 4 odst. 2 se slova „se rozhoduje“ nahrazují slovy „rozhoduje ředitel domova“.
+
+3\. V § 4 se na konci textu odstavce 3 doplňují slova „; termín se zveřejní rovněž způsobem umožňujícím dálkový přístup“.
+
+4\. V § 5 odstavec 4 zní:
+
+> „(4) Výše úplaty za ubytování v domově se nemění, i když žák nebo student není ubytován po všechny dny v kalendářním měsíci. Pokud však v průběhu školního roku žák nebo student z důvodů organizace vyučování ve škole, jejímž je žákem nebo studentem, opakovaně nebude v domově ubytován, úplata se mu přiměřeně sníží.“.
+
+5\. V § 8 odst. 2 se slova „se rozhoduje“ nahrazují slovy „rozhoduje ředitel internátu“.
+
+6\. V § 11 se na konci písmene e) čárka nahrazuje tečkou a písmeno f) se zrušuje.
+
+7\. § 17 se včetně nadpisu zrušuje.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2011, s výjimkou ustanovení čl. I bodu 1, které nabývá účinnosti dnem 1. ledna 2011.
+
+Ministr:
+
+Mgr. Dobeš v. r.

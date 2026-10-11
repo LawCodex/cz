@@ -1,0 +1,71 @@
+---
+title: "Nařízení vlády č. 168/2014 Sb., kterým se mění nařízení vlády č. 290/1995 Sb., kterým se stanoví seznam nemocí z povolání, ve znění nařízení vlády č. 114/2011 Sb."
+identifier: "168/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/168/2015-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2014-08-06
+effective: 2015-01-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/168"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 168/2014 Sb., kterým se mění nařízení vlády č. 290/1995 Sb., kterým se stanoví seznam nemocí z povolání, ve znění nařízení vlády č. 114/2011 Sb.
+
+168
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 6. srpna 2014,
+
+kterým se mění nařízení vlády č. 290/1995 Sb., kterým se stanoví seznam nemocí z povolání, ve znění nařízení vlády č. 114/2011 Sb.
+
+Vláda nařizuje podle § 107 odst. 1 písm. b) zákona č. 155/1995 Sb., o důchodovém pojištění:
+
+## Čl. I
+
+Nařízení vlády č. 290/1995 Sb., kterým se stanoví seznam nemocí z povolání, ve znění nařízení vlády č. 114/2011 Sb., se mění takto:
+
+1\. V § 1 odst. 3 se slova „zdravotnickými zařízeními platí zvláštní předpisy.<sup>1</sup>)“ nahrazují slovy „příslušnými poskytovateli zdravotních služeb platí jiné právní předpisy<sup>1</sup>).“.
+
+Poznámka pod čarou č. 1 zní:
+
+> „<sup>1</sup>) Zákon č. 373/2011 Sb., o specifických zdravotních službách, ve znění pozdějších předpisů. 
+>  Vyhláška č. 104/2012 Sb., o stanovení bližších požadavků na postup při posuzování a uznávání nemocí z povolání a okruh osob, kterým se předává lékařský posudek o nemoci z povolání, podmínky, za nichž nemoc nelze nadále uznat za nemoc z povolání, a náležitosti lékařského posudku (vyhláška o posuzování nemocí z povolání).“.
+
+2\. V příloze v kapitole II položce 9 se za slova „šlachových pochev“ vkládají slova „, tíhových váčků“.
+
+3\. V příloze v kapitole II se položky 11 a 12 zrušují.
+
+4\. V příloze v kapitole III položce 2c) se slova „pohrudnice nebo pobřišnice“ zrušují.
+
+5\. V příloze v kapitole III položce 2d) se slova „nebo rakovina hrtanu“ nahrazují slovy „, rakovina hrtanu nebo rakovina vaječníků“.
+
+6\. V příloze v kapitole III položce 5 se slova „gama oxidu hlinitého“ nahrazují slovy „hliníku“.
+
+7\. V příloze v kapitole III položce 11 se slova „, sisalu nebo cukrové třtiny“ nahrazují slovy „nebo sisalu“.
+
+8\. V příloze v kapitole III položka 13 zní:
+
+> „13. Chronická obstrukční plicní nemoc s FEV1/FVC méně než 0,70 a FEV1 50% referenčních hodnot nebo méně (CHOPN stadium III)
+
+> Nemoc vzniká při těžbě v podzemí černouhelných dolů po dosažení nejméně 80% nejvyšší přípustné expozice a je nově zjištěna nejpozději do dvou let po skončení práce s rizikem fibrogenního prachu s obsahem volného krystalického oxidu křemičitého.“.
+
+## Čl. II – Přechodné ustanovení
+
+Nemocemi z povolání jsou též nemoci, které byly uvedeny v seznamu nemocí z povolání a vznikly za podmínek podle nařízení vlády č. 290/1995 Sb., ve znění účinném do dne nabytí účinnosti tohoto nařízení.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2015.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministryně práce a sociálních věcí:
+
+Mgr. Marksová v. r.

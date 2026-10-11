@@ -1,0 +1,73 @@
+---
+title: "Vyhláška č. 318/2016 Sb., kterou se mění vyhláška č. 39/2012 Sb., o dispenzární péči"
+identifier: "318/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/318/2016-10-17"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2016-09-21
+effective: 2016-10-17
+last_amended: 2016-10-17
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/318"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 318/2016 Sb., kterou se mění vyhláška č. 39/2012 Sb., o dispenzární péči
+
+318
+
+VYHLÁŠKA
+
+ze dne 21. září 2016,
+
+kterou se mění vyhláška č. 39/2012 Sb., o dispenzární péči
+
+Ministerstvo zdravotnictví stanoví podle § 120 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), k provedení § 5 odst. 3 písm. b) zákona o zdravotních službách:
+
+## Čl. I
+
+Vyhláška č. 39/2012 Sb., o dispenzární péči, se mění takto:
+
+1\. V příloze se na konci položky „Poskytovatel v oboru všeobecné praktické lékařství, popřípadě jiný poskytovatel“ doplňují řádky 52 až 55, které znějí:
+
+> | „52 | Chronické onemocnění ledvin ve stádiích CKD 4 a 5 eGFR menší než 0,5 ml/s |
+> |---|---|
+> | 53 | Proteinurie větší než 1g/24 hod a mikroskopická hematurie renálního původu |
+> | 54 | Chronická glomerulonefritis, autosomálně dominantní polycystická degenerace ledvin, vrozená onemocnění ledvin |
+> | 55 | Stavy po cévní mozkové příhodě“. |
+
+2\. V příloze položka „Poskytovatel v oboru psychiatrie“ zní:
+
+> | „Poskytovatel v oboru psychiatrie | |
+> |---|---|
+> | 01 | Syndrom závislosti |
+> | 02 | Poruchy nálady středně těžké a těžké, včetně bipolární afektivní poruchy |
+> | 03 | Schizofrenie, schizoafektivní poruchy, schizotypní porucha, poruchy s bludy |
+> | 04 | Obsedantně kompulzivní porucha s těžkým průběhem |
+> | 05 | Posttraumatická stresová porucha |
+> | 06 | Poruchy sexuální preference včetně stavů po terapeutické kastraci |
+> | 07 | Poruchy příjmu potravy |
+> | 08 | Těžké poruchy osobnosti“. |
+
+3\. V příloze se za položku „Poskytovatel v oboru psychiatrie“ vkládá nová položka „Poskytovatel v oboru dětská a dorostová psychiatrie“, která zní:
+
+> | „Poskytovatel v oboru dětská a dorostová psychiatrie | |
+> |---|---|
+> | 01 | Syndrom závislosti |
+> | 02 | Poruchy nálady středně těžké a těžké, včetně bipolární afektivní poruchy |
+> | 03 | Schizofrenie, schizoafektivní poruchy, schizotypní porucha, poruchy s bludy |
+> | 04 | Obsedantně kompulzivní porucha s těžkým průběhem |
+> | 05 | Poruchy sexuálního vývoje včetně parafilie |
+> | 06 | Poruchy příjmu potravy |
+> | 07 | Poruchy autistického spektra |
+> | 08 | Těžká chronická tiková porucha - syndrom de la Tourette |
+> | 09 | Výše neuvedené duševní poruchy dětského a dorostového věku s těžkým disruptivním chováním“. |
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 17. října 2016.
+
+Ministr:
+
+MUDr. Němeček, MBA, v. r.

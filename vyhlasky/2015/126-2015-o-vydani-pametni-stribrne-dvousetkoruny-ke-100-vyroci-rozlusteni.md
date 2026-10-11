@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 126/2015 Sb., o vydání pamětní stříbrné dvousetkoruny ke 100. výročí rozluštění chetitštiny Bedřichem Hrozným"
+identifier: "126/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/126/2015-06-03"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-05-12
+effective: 2015-06-03
+last_amended: 2015-06-03
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/126"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 126/2015 Sb., o vydání pamětní stříbrné dvousetkoruny ke 100. výročí rozluštění chetitštiny Bedřichem Hrozným
+
+126
+
+VYHLÁŠKA
+
+ze dne 12. května 2015
+
+o vydání pamětní stříbrné dvousetkoruny ke 100. výročí rozluštění chetitštiny Bedřichem Hrozným
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 3. června 2015 se ke 100. výročí rozluštění chetitštiny Bedřichem Hrozným vydává pamětní stříbrná mince po 200 Kč (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,25 mm. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.925 \* 13 g \*“.
+
+## § 2
+
+(1) Na lícní straně dvousetkoruny jsou v levé polovině mincovního pole zobrazeny otisky čtyř pečetních válečků objevených Bedřichem Hrozným ve starověké Káneši. V pravé horní polovině mincovního pole je kompozice tří heraldických zvířat z velkého státního znaku ve štítech - nahoře je český lev a pod ním vedle sebe moravská orlice a slezská orlice. Pod vyobrazením heraldických zvířat je podpis Bedřicha Hrozného, který je umístěný i přes druhý pečetní váleček odspoda. Pod vyobrazením heraldických zvířat je název státu „ČESKÁ REPUBLIKA“ a označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“. Značka České mincovny tvořená kompozicí písmen „Č“ a „M“ je při spodním okraji dvousetkoruny.
+
+(2) Na rubové straně dvousetkoruny je portrét Bedřicha Hrozného na pozadí klínopisného textu, obsahujícího větu, která poskytla Bedřichu Hroznému první impuls k rozluštění chetitského jazyka. Při pravém spodním okraji portrétu je ve dvou řádcích text „VA-A-TAR...VODA...“. Pod portrétem je ve třech řádcích text „BEDŘICH HROZNÝ“ a „ROZLUŠTĚNÍ CHETITŠTINY“. Slovo „ROZLUŠTĚNÍ“ je na začátku a na konci ohraničeno tečkou. Nalevo od slova „ROZLUŠTĚNÍ“ je letopočet „1915“, napravo od něj je letopočet „2015“. Při spodním okraji dvousetkoruny jsou iniciály autora dvousetkoruny akademického malíře Vladimíra Pavlici, které jsou tvořeny spojenými písmeny „VP“.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 3. června 2015.
+
+Guvernér:
+
+v z. Ing. Hampl, MSc., Ph.D., v. r.
+
+viceguvernér
+
+### Příloha k vyhlášce č. 126/2015 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny ke 100. výročí rozluštění chetitštiny Bedřichem Hrozným
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2015c054z0126p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/871767/NAHLED/ZOBRAZ/sbcr2015c054z0126p001o001)![sbcr2015c054z0126p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/871769/NAHLED/ZOBRAZ/sbcr2015c054z0126p001o002)

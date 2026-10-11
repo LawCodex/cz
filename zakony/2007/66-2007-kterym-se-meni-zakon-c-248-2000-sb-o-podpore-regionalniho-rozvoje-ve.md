@@ -1,0 +1,62 @@
+---
+title: "Zákon č. 66/2007 Sb., kterým se mění zákon č. 248/2000 Sb., o podpoře regionálního rozvoje, ve znění pozdějších předpisů"
+identifier: "66/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/66/2007-05-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2007-03-07
+effective: 2007-05-01
+last_amended: 2007-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/66"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 66/2007 Sb., kterým se mění zákon č. 248/2000 Sb., o podpoře regionálního rozvoje, ve znění pozdějších předpisů
+
+66
+
+ZÁKON
+
+ze dne 7. března 2007,
+
+kterým se mění zákon č. 248/2000 Sb., o podpoře regionálního rozvoje, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 248/2000 Sb., o podpoře regionálního rozvoje, ve znění zákona č. 320/2002 Sb., zákona č. 109/2006 Sb., zákona č. 138/2006 Sb. a zákona č. 186/2006 Sb., se mění takto:
+
+1\. V § 16 odst. 1 se písmeno a) zrušuje.
+
+Dosavadní písmena b) až h) se označují jako písmena a) až g).
+
+2\. V § 16 se doplňuje odstavec 6, který včetně poznámky pod čarou č. 6g zní:
+
+> „(6) V regionu soudržnosti Praha vykonává pravomoci a působnosti Regionální rady hlavní město Praha v přenesené působnosti<sup>6g</sup>), které je řídícím orgánem operačních programů pro region soudržnosti Praha.
+
+> <sup>6g</sup>) Zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů.“.
+
+3\. V § 16e se doplňuje odstavec 3, který zní:
+
+> „(3) V regionu soudržnosti Praha vykonává pravomoci a působnosti výboru podle odstavce 1 rada hlavního města Prahy, s výjimkou působnosti podle písmene c), kterou vykonává zastupitelstvo hlavního města Prahy.“.
+
+## Čl. II
+
+1\. Regionální rada regionu soudržnosti Praha se dnem nabytí účinnosti tohoto zákona zrušuje.
+
+2\. Veškerá práva a závazky Regionální rady regionu soudržnosti Praha dnem nabytí účinnosti tohoto zákona přecházejí na hlavní město Prahu.
+
+3\. Práva a povinnosti z pracovněprávních vztahů zaměstnanců Regionální rady regionu soudržnosti Praha přecházejí z Regionální rady regionu soudržnosti Praha na hlavní město Prahu.
+
+## Čl. III
+
+Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Topolánek v. r.

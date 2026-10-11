@@ -1,0 +1,40 @@
+---
+title: "Zákon č. 139/2008 Sb., kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů"
+identifier: "139/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/139/2008-04-25"
+type: act
+jurisdiction: cz
+language: cs
+date: 2008-03-26
+effective: 2008-04-25
+last_amended: 2008-04-25
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/139"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 139/2008 Sb., kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů
+
+139
+
+ZÁKON
+
+ze dne 26. března 2008,
+
+kterým se mění zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+V § 27 odst. 3 zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., zákona č. 229/2001 Sb., zákona č. 320/2001 Sb., zákona č. 501/2001 Sb., zákona č. 202/2002 Sb., zákona č. 280/2002 Sb., zákona č. 476/2002 Sb., zákona č. 88/2003 Sb., zákona č. 354/2003 Sb., zákona č. 480/2003 Sb., zákona č. 41/2004 Sb., zákona č. 218/2004 Sb., zákona č. 217/2005 Sb., zákona č. 359/2005 Sb., zákona č. 22/2006 Sb., zákona č. 140/2006 Sb., zákona č. 342/2006 Sb. a zákona č. 296/2007 Sb., věta druhá zní: „Bezúplatné užívání lze sjednat jen s osobami, které se nezabývají podnikáním<sup>44a</sup>), a pouze k zajištění výkonu státní správy v přenesené působnosti anebo pro účely sociální, humanitární, požární ochrany, ochrany obyvatelstva, integrovaného záchranného systému, vzdělávací, vědecké, kulturní, sportovní a tělovýchovné, ochrany přírody a péče o životní prostředí a práce s dětmi a mládeží.“.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Topolánek v. r.

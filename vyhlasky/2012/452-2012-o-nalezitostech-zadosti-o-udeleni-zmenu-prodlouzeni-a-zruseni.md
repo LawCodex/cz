@@ -1,0 +1,128 @@
+---
+title: "Vyhláška č. 452/2012 Sb., o náležitostech žádosti o udělení, změnu, prodloužení a zrušení autorizace na výstavbu vybraných plynových zařízení včetně vzorů žádostí a podmínkách pro posuzování těchto žádostí"
+identifier: "452/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/452/2013-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-12-07
+effective: 2013-01-01
+last_amended: 2013-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/452"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 452/2012 Sb., o náležitostech žádosti o udělení, změnu, prodloužení a zrušení autorizace na výstavbu vybraných plynových zařízení včetně vzorů žádostí a podmínkách pro posuzování těchto žádostí
+
+452
+
+VYHLÁŠKA
+
+ze dne 7. prosince 2012
+
+o náležitostech žádosti o udělení, změnu, prodloužení a zrušení autorizace na výstavbu vybraných plynových zařízení včetně vzorů žádostí a podmínkách pro posuzování těchto žádostí
+
+Ministerstvo průmyslu a obchodu stanoví podle § 98a odst. 1 písm. d) zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 211/2011 Sb. a zákona č. 165/2012 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví náležitosti žádostí o udělení, změnu, prodloužení a zrušení autorizace na výstavbu vybraných plynových zařízení (dále jen „autorizace“), včetně vzorů žádostí, a podmínky pro posuzování těchto žádostí.
+
+## § 2 – Žádost o udělení, prodloužení a zrušení autorizace
+
+(1) Žádost o udělení autorizace se podává pro každé vybrané plynové zařízení zvlášť.
+
+(2) Žádost o udělení autorizace se podává na všechna nová vybraná plynová zařízení, a také v případech rekonstrukcí stávajících vybraných plynových zařízení, pokud výměnou zařízení dochází ke zvýšení jejich kapacity, s výjimkou přeložky vybraných plynových zařízení.
+
+(3) Vzor žádosti o udělení autorizace na výstavbu přímého plynovodu je uveden v příloze č. 1 k této vyhlášce, vzor žádosti o udělení autorizace na výstavbu zásobníku plynu je uveden v příloze č. 2 k této vyhlášce, vzor žádosti o udělení autorizace na výstavbu plynovodu spojujícího plynárenskou soustavu se zahraničními plynárenskými soustavami je uveden v příloze č. 3 k této vyhlášce, vzor žádosti o udělení autorizace na výstavbu plynovodu o tlakové úrovni vyšší než 0,4 MPa je uveden v příloze č. 4 k této vyhlášce, vzor žádosti o udělení autorizace na výstavbu výrobny plynu, produkující plyn<sup>1</sup>) a biometan<sup>2</sup>) je uveden v příloze č. 5 k této vyhlášce.
+
+(4) Žádost o prodloužení autorizace podává držitel autorizace a uvede v ní číslo udělené autorizace, požadovanou dobu prodloužení platnosti autorizace a důvod jejího prodloužení.
+
+(5) Žádost o zrušení autorizace podává držitel autorizace a uvede v ní číslo udělené autorizace a důvod jejího zrušení.
+
+## § 3 – Posuzování žádostí
+
+Při rozhodování o žádosti o udělení autorizace podle § 2 ministerstvo posuzuje
+
+a) zda výstavba vybraného plynového zařízení je v souladu se státní energetickou koncepcí,
+
+b) zda výstavba vybraného plynového zařízení je v souladu s územní energetickou koncepcí,
+
+c) účelnost, efektivnost a hospodárnost navržené výstavby vybraného plynového zařízení,
+
+d) finanční předpoklady žadatele k výstavbě vybraného plynového zařízení,
+
+e) význam výstavby vybraného plynového zařízení pro zvýšení bezpečnosti a spolehlivosti provozu plynárenské soustavy a zásobování zákazníků,
+
+f) zda výstavba vybraného plynového zařízení je v souladu s ochranou životního prostředí, pokud tak stanoví jiný právní předpis<sup>3</sup>),
+
+g) u výroben biometanu, zda jejich výstavba je v souladu s národním akčním plánem pro energii z obnovitelných zdrojů.
+
+## § 4 – Zrušovací ustanovení
+
+Zrušuje se:
+
+1\. Vyhláška č. 245/2001 Sb., o podrobnostech udělování státní autorizace na výstavbu vybraných plynových zařízení, její změny, prodloužení anebo zrušení.
+
+2\. Vyhláška č. 118/2005 Sb., kterou se mění vyhláška č. 245/2001 Sb., o podrobnostech udělování státní autorizace na výstavbu vybraných plynových zařízení, její změny, prodloužení anebo zrušení.
+
+3\. Vyhláška č. 52/2010 Sb., kterou se mění vyhláška č. 245/2001 Sb., o podrobnostech udělování státní autorizace na výstavbu vybraných plynových zařízení, její změny, prodloužení anebo zrušení, ve znění vyhlášky č. 118/2005 Sb.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2013.
+
+Ministr:
+
+MUDr. Kuba v. r.
+
+### Příloha č. 1 k vyhlášce č. 452/2012 Sb.
+
+#### VZOR
+
+#### Žádost o udělení autorizace na výstavbu přímého plynovodu
+
+#### ![sbcr2012c168z0452p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791749/NAHLED/ZOBRAZ/sbcr2012c168z0452p001u001)
+
+### Příloha č. 2 k vyhlášce č. 452/2012 Sb.
+
+**VZOR**
+
+#### Žádost o udělení autorizace na výstavbu zásobníku plynu
+
+#### ![sbcr2012c168z0452p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791751/NAHLED/ZOBRAZ/sbcr2012c168z0452p002u001)
+
+### Příloha č. 3 k vyhlášce č. 452/2012 Sb.
+
+**VZOR**
+
+#### Žádost o udělení autorizace na výstavbu plynovodu spojujícího plynárenskou soustavu se zahraničními plynárenskými soustavami
+
+#### ![sbcr2012c168z0452p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791753/NAHLED/ZOBRAZ/sbcr2012c168z0452p003u001)
+
+### Příloha č. 4 k vyhlášce č. 452/2012 Sb.
+
+**VZOR**
+
+#### Žádost o udělení autorizace na výstavbu plynovodu o tlakové úrovni vyšší než 0,4 MPa
+
+#### ![sbcr2012c168z0452p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791755/NAHLED/ZOBRAZ/sbcr2012c168z0452p004u001)
+
+### Příloha č. 5 k vyhlášce č. 452/2012 Sb.
+
+**VZOR**
+
+#### Žádost o udělení autorizace na výstavbu výrobny plynu
+
+#### ![sbcr2012c168z0452p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791757/NAHLED/ZOBRAZ/sbcr2012c168z0452p005u001)
+
+---
+
+<sup>1</sup>) § 2 zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 211/2011 Sb. a zákona č. 165/2012 Sb.
+
+<sup>2</sup>) Zákon č. 165/2012 Sb., o podpoře obnovitelných zdrojů energie a o změně některých zákonů.
+
+<sup>3</sup>) Zákon č. 100/2001 Sb., o posuzování vlivu na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivu na životní prostředí), ve znění zákona č. 167/2012 Sb.
+
+<sup>4</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 994/2010 ze dne 20. října 2010 o opatřeních na zajištění bezpečnosti dodávek plynu a o zrušení směrnice Rady 2004/67/ES.

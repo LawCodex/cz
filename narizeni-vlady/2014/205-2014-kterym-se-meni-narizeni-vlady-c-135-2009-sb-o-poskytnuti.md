@@ -1,0 +1,64 @@
+---
+title: "Nařízení vlády č. 205/2014 Sb., kterým se mění nařízení vlády č. 135/2009 Sb., o poskytnutí jednorázového příspěvku ke zmírnění některých křivd způsobených komunistickým režimem, ve znění nařízení vlády č. 51/2013 Sb."
+identifier: "205/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/205/2014-09-26"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2014-09-10
+effective: 2014-09-26
+last_amended: 2014-09-26
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/205"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 205/2014 Sb., kterým se mění nařízení vlády č. 135/2009 Sb., o poskytnutí jednorázového příspěvku ke zmírnění některých křivd způsobených komunistickým režimem, ve znění nařízení vlády č. 51/2013 Sb.
+
+205
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 10. září 2014,
+
+kterým se mění nařízení vlády č. 135/2009 Sb., o poskytnutí jednorázového příspěvku ke zmírnění některých křivd způsobených komunistickým režimem, ve znění nařízení vlády č. 51/2013 Sb.
+
+Vláda nařizuje podle § 8 odst. 1 zákona č. 198/1993 Sb., o protiprávnosti komunistického režimu a o odporu proti němu, ve znění zákona č. 220/2011 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 135/2009 Sb., o poskytnutí jednorázového příspěvku ke zmírnění některých křivd způsobených komunistickým režimem, ve znění nařízení vlády č. 51/2013 Sb., se mění takto:
+
+1\. V § 1 se za odstavec 2 vkládá nový odstavec 3, který zní:
+
+> „(3) Osoba uvedená v odstavci 2, které byl přiznán příspěvek podle odstavce 1 nebo 2, má nárok na poskytnutí příspěvku i za dobu zařazení v technickém praporu, pokud zařazení v technickém praporu bezprostředně navazovalo na zařazení ve vojenském táboře nucených prací; příspěvek za dobu zařazení v technickém praporu nenáleží za měsíc, za který již byl přiznán příspěvek za dobu zařazení ve vojenském táboře nucených prací.“.
+
+Dosavadní odstavec 3 se označuje jako odstavec 4.
+
+2\. V § 1 se na konci textu odstavce 4 doplňují slova „nebo v technickém praporu“.
+
+3\. V § 2 se za odstavec 2 vkládá nový odstavec 3, který zní:
+
+> „(3) O nároku na výplatu příspěvku podle § 1 odst. 3 rozhoduje Ministerstvo vnitra na základě písemné žádosti osoby uvedené v § 1 odst. 3, která k žádosti připojí doklady osvědčující její nárok. Žádost lze podat nejpozději do 31. března 2015, jinak nárok na výplatu příspěvku zaniká.“.
+
+Dosavadní odstavec 3 se označuje jako odstavec 4.
+
+4\. V § 3 se slova „v § 1 odst. 1 nebo 2“ nahrazují slovy „v § 1 odst. 1, 2 nebo 3“.
+
+5\. Na konci textu § 3 se doplňují slova „, a v případě žádosti o vyplacení příspěvku podle § 1 odst. 3 o vdovu po občanu České republiky splňujícím podmínky podle § 1 odst. 3, byl-li tomuto občanu České republiky nebo vdově po něm přiznán příspěvek podle § 1 odst. 1 nebo 2“.
+
+## Čl. II – Přechodné ustanovení
+
+Pokud byl osobě přiznán nárok na výplatu příspěvku podle nařízení vlády č. 135/2009 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, nelze jí nárok na výplatu příspěvku přiznat na základě týchž skutečností znovu.
+
+## Čl. III – Účinnost
+
+Toto nařízení nabývá účinnosti dnem jeho vyhlášení.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr vnitra:
+
+Chovanec v. r.

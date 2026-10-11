@@ -1,0 +1,174 @@
+---
+title: "Nařízení vlády č. 172/2016 Sb., o stanovení finančních limitů a částek pro účely zákona o zadávání veřejných zakázek"
+identifier: "172/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/172/2026-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2016-05-11
+effective: 2016-10-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/172"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 172/2016 Sb., o stanovení finančních limitů a částek pro účely zákona o zadávání veřejných zakázek ve znění nařízení vlády č. 471/2017 Sb., nařízení vlády č. 335/2019 Sb., nařízení vlády č. 475/2021 Sb., nařízení vlády č. 435/2023 Sb. a nařízení vlády č. 541/2025 Sb."
+---
+
+# Nařízení vlády č. 172/2016 Sb., o stanovení finančních limitů a částek pro účely zákona o zadávání veřejných zakázek
+
+172
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 11. května 2016
+
+o stanovení finančních limitů a částek pro účely zákona o zadávání veřejných zakázek
+
+Vláda nařizuje podle § 18 odst. 3 a § 25 zákona č. 134/2016 Sb., o zadávání veřejných zakázek:
+
+## § 1 – Úvodní ustanovení
+
+Toto nařízení zapracovává příslušné předpisy Evropské unie<sup>1</sup>), zároveň navazuje na přímo použitelný předpis Evropské unie<sup>2</sup>) a upravuje
+
+a) finanční limity pro určení nadlimitní veřejné zakázky,
+
+b) částky pro účely možnosti vyčlenění jednotlivé části veřejné zakázky, která nemusí být zadávána postupy odpovídajícími celkové předpokládané hodnotě veřejné zakázky.
+
+## § 2 – Finanční limit pro určení nadlimitní veřejné zakázky na dodávky
+
+(1) Není-li v odstavci 2 stanoveno jinak, činí finanční limit pro určení nadlimitní veřejné zakázky na dodávky
+
+a) 3 491 000 Kč pro zadavatele podle § 4 odst. 1 písm. a) až c) zákona o zadávání veřejných zakázek (dále jen „zákon“); to neplatí pro zadavatele působícího v oblasti obrany v případech uvedených v písmeni b) bodě 1,
+
+b) 5 386 000 Kč pro zadavatele podle
+
+1\. § 4 odst. 1 písm. a) až c) zákona působícího v oblasti obrany, pokud předmět veřejné zakázky nezahrnuje výrobky uvedené v příloze k tomuto nařízení,
+
+2\. § 4 odst. 1 písm. d) a e) zákona,
+
+3\. § 4 odst. 2 zákona, nebo
+
+4\. § 4 odst. 5 zákona.
+
+(2) Finanční limit pro určení nadlimitní sektorové veřejné zakázky na dodávky nebo pro určení nadlimitní veřejné zakázky na dodávky v oblasti obrany nebo bezpečnosti činí 10 773 000 Kč.
+
+## § 3 – Finanční limit pro určení nadlimitní veřejné zakázky na služby
+
+(1) Není-li v odstavcích 2 až 4 stanoveno jinak, činí finanční limit pro určení nadlimitní veřejné zakázky na služby
+
+a) 3 491 000 Kč pro zadavatele podle § 4 odst. 1 písm. a) až c) zákona,
+
+b) 5 386 000 Kč pro zadavatele podle
+
+1\. § 4 odst. 1 písm. d) a e) zákona,
+
+2\. § 4 odst. 2 zákona, nebo
+
+3\. § 4 odst. 5 zákona.
+
+(2) Finanční limit pro určení nadlimitní veřejné zakázky na služby v případě sektorové veřejné zakázky nebo v případě veřejné zakázky v oblasti obrany nebo bezpečnosti činí 10 773 000 Kč.
+
+(3) Finanční limit pro určení nadlimitní veřejné zakázky, která je koncesí na služby, činí 134 764 000 Kč.
+
+(4) Finanční limit pro určení nadlimitní veřejné zakázky na služby, u které více než 50 % předpokládané hodnoty tvoří sociální a jiné zvláštní služby podle přílohy č. 4 zákona, činí 18 703 000 Kč, s výjimkou
+
+a) sektorové veřejné zakázky na služby, u které činí 24 938 000 Kč,
+
+b) koncese na služby, u které činí 134 764 000 Kč.
+
+## § 4 – Finanční limit pro určení nadlimitní veřejné zakázky na stavební práce
+
+Finanční limit pro určení nadlimitní veřejné zakázky na stavební práce činí 134 764 000 Kč.
+
+## § 5 – Částka pro účely možnosti vyčlenění části veřejné zakázky
+
+Částka pro jednotlivou část veřejné zakázky, která nemusí být zadávána postupy odpovídajícími celkové předpokládané hodnotě veřejné zakázky podle § 18 odst. 3 zákona, činí
+
+a) 1 995 000 Kč v případě dodávek nebo služeb,
+
+b) 24 938 000 Kč v případě stavebních prací.
+
+## § 6 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. října 2016.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministryně pro místní rozvoj:
+
+Ing. Šlechtová v. r.
+
+### Příloha k nařízení vlády č. 172/2016 Sb.
+
+#### Seznam výrobků podle § 2 odst. 1 písm. b) bodu 1
+
+| Kapitola 25: | Sůl, síra, zeminy a kameny, sádra, vápno a cement |
+|---|---|
+| Kapitola 26: | Rudy kovů, strusky a popely |
+| Kapitola 27: | Nerostná paliva, minerální oleje a produkty jejich destilace, živičné látky, minerální vosky<br> s výjimkou<br> 27.10: speciální pohonné látky |
+| Kapitola 28: | Anorganické chemikálie, anorganické nebo organické sloučeniny drahých kovů, vzácných zemin, radioaktivních prvků nebo izotopů<br> s výjimkou:<br> 28.09: výbušniny<br> 28.13: výbušniny<br> 28.14: slzné plyny<br> 28.28: výbušniny<br> 28.32: výbušniny<br> 28.39: výbušniny<br> 28.50: toxické výrobky<br> 28.51: toxické výrobky<br> 28.54: výbušniny |
+| Kapitola 29: | Organické chemikálie<br> s výjimkou:<br> 29.03: výbušniny<br> 29.04: výbušniny<br> 29.07: výbušniny<br> 29.08: výbušniny<br> 29.11: výbušniny<br> 29.12: výbušniny<br> 29.13: toxické výrobky<br> 29.14: toxické výrobky<br> 29.15: toxické výrobky<br> 29.21: toxické výrobky<br> 29.22: toxické výrobky<br> 29.23: toxické výrobky<br> 29.26: výbušniny<br> 29.27: toxické výrobky<br> 29.29: výbušniny |
+| Kapitola 30: | Farmaceutické výrobky |
+| Kapitola 31: | Hnojiva |
+| Kapitola 32: | Tříselné nebo barvířské výtažky, taniny a jejich deriváty, barviva, pigmenty a jiné barvicí látky, nátěrové barvy a laky, tmely, plnidla a těsnící hmoty, inkousty |
+| Kapitola 33: | Vonné silice a pryskyřice, voňavkářské, kosmetické nebo toaletní přípravky |
+| Kapitola 34: | Mýdlo, organické povrchově aktivní prostředky, prací a čisticí prostředky, mazací přípravky, syntetické vosky, připravené vosky, lešticí nebo cídicí přípravky, svíčky a podobné výrobky, modelovací pasty a „dentální vosky“ |
+| Kapitola 35: | Albuminoidní látky, klihy, enzymy |
+| Kapitola 37: | Fotografické nebo kinematografické zboží |
+| Kapitola 38: | Různé chemické výrobky<br> s výjimkou:<br> 38.19: toxické výrobky |
+| Kapitola 39: | Umělé pryskyřice, plasty, étery celulózy a estery celulózy, výrobky z nich<br> s výjimkou:<br> 39.03: výbušniny |
+| Kapitola 40: | Kaučuk, syntetický kaučuk, faktis a výrobky z nich<br> s výjimkou:<br> 40.11: neprůstřelné pneumatiky |
+| Kapitola 41: | Surové kůže a kožky (jiné než kožešiny) a usně |
+| Kapitola 42: | Kožené zboží, sedlářské a řemenářské výrobky, cestovní potřeby, kabelky a podobné schránky, výrobky ze střev (jiných než z housenek bource morušového) |
+| Kapitola 43: | Kožešiny a umělé kožešiny, výrobky z nich |
+| Kapitola 44: | Dřevo a dřevěné výrobky, dřevěné uhlí |
+| Kapitola 45: | Korek a korkové výrobky |
+| Kapitola 46: | Výrobky ze slámy, esparta nebo jiných pletacích materiálů, košíkářské a proutěné výrobky |
+| Kapitola 47: | Materiály pro výrobu papíru |
+| Kapitola 48: | Papír, kartón a lepenka, výrobky z papírenských vláknin, papíru, kartónu nebo lepenky |
+| Kapitola 49: | Tištěné knihy, noviny, obrazy a jiné výrobky polygrafického průmyslu, rukopisy, strojopisy a plány |
+| Kapitola 65: | Pokrývky hlavy a jejich části a součásti |
+| Kapitola 66: | Deštníky, slunečníky, vycházkové hole, biče, jezdecké bičíky a jejich části a součásti |
+| Kapitola 67: | Upravená péra a prachové peří a výrobky z nich, umělé květiny, výrobky z lidských vlasů |
+| Kapitola 68: | Výrobky z kamene, sádry, cementu, osinku (azbestu), slídy nebo podobných materiálů |
+| Kapitola 69: | Keramické výrobky |
+| Kapitola 70: | Sklo a skleněné výrobky |
+| Kapitola 71: | Perly, drahokamy a polodrahokamy, drahé kovy, kovy plátované drahými kovy a výrobky z nich, umělá bižuterie |
+| Kapitola 73: | Železo a ocel a výrobky z nich |
+| Kapitola 74: | Měď a výrobky z mědi |
+| Kapitola 75: | Nikl a výrobky z niklu |
+| Kapitola 76: | Hliník a výrobky z hliníku |
+| Kapitola 77: | Hořčík a beryllium a výrobky z nich |
+| Kapitola 78: | Olovo a výrobky z olova |
+| Kapitola 79: | Zinek a výrobky ze zinku |
+| Kapitola 80: | Cín a výrobky z cínu |
+| Kapitola 81: | Ostatní obecné kovy používané v metalurgii a výrobky z nich |
+| Kapitola 82: | Nástroje, nářadí, náčiní, nožířské výrobky a jídelní příbory, z obecných kovů, jejich části a součásti z obecných kovů<br> s výjimkou:<br> 82.05: nástroje<br> 82.07: části nástrojů |
+| Kapitola 83: | Různé výrobky z obecných kovů |
+| Kapitola 84: | Kotle, stroje a mechanická zařízení, jejich části a součásti<br> s výjimkou:<br> 84.06: motory<br> 84.08: jiné motory<br> 84.45: stroje<br> 84.53: stroje pro automatické zpracování dat<br> 84.55: části strojů uvedených pod číslem 84.53<br> 84.59: jaderné reaktory |
+| Kapitola 85: | Elektrické stroje, přístroje a zařízení a jejich části a součásti<br> s výjimkou:<br> 85.13: telekomunikační zařízení<br> 85.15: zařízení pro vysílání |
+| Kapitola 86: | Železniční nebo tramvajové lokomotivy, kolejová vozidla a jejich části a součásti, kolejový svrškový upevňovací materiál a upevňovací zařízení, dopravní signalizační zařízení všeho druhu (nepoháněná elektřinou)<br> s výjimkou:<br> 86.02: elektrické obrněné lokomotivy<br> 86.03: jiné obrněné lokomotivy<br> 86.05: obrněné vagony<br> 86.06: opravářské vagony<br> 86.07: vagony |
+| Kapitola 87: | Vozidla, jiná než kolejová, a jejich části a součásti<br> s výjimkou:<br> 87.08: tanky a jiná obrněná vozidla<br> 87.01: traktory<br> 87.02: vojenská vozidla<br> 87.03: odtahová vozidla<br> 87.09: motocykly<br> 87.14: návěsy |
+| Kapitola 89: | Lodě, čluny a plovoucí konstrukce<br> s výjimkou:<br> 89.01A: válečné lodě |
+| Kapitola 90: | Optické, fotografické, kinematografické, měřicí, kontrolní, přesné, lékařské nebo chirurgické nástroje a přístroje, jejich části a součásti<br> s výjimkou:<br> 90.05: dalekohledy<br> 90.13: různé nástroje, lasery<br> 90.14: navigační nástroje a přístroje<br> 90.28: elektrické a elektronické měřicí přístroje<br> 90.11: mikroskopy<br> 90.17: lékařské nástroje<br> 90.18: přístroje pro mechanoterapii<br> 90.19: ortopedické přístroje<br> 90.20: rentgenové přístroje |
+| Kapitola 91: | Hodinky a hodiny |
+| Kapitola 92: | Hudební nástroje, zvuková nahrávací zařízení či reproduktory, televizní zvuková a audiovizuální zařízení či reproduktory, části, součásti a příslušenství těchto výrobků |
+| Kapitola 94: | Nábytek a jeho části, lůžkoviny, matrace, vložky do postelí, polštáře a podobné vycpávané výrobky<br> s výjimkou:<br> 94.01 A: sedadla pro použití v letadlech |
+| Kapitola 95: | Opracované řezbářské a tvarovací materiály a výrobky z nich |
+| Kapitola 96: | Košťata a smetáky, kartáče, labutěnky a síta |
+| Kapitola 98: | Různé zpracovatelské výrobky |
+
+---
+
+<sup>1</sup>) Čl. 4 a 13 směrnice Evropského parlamentu a Rady 2014/24/EU ze dne 26. února 2014 o zadávání veřejných zakázek a o zrušení směrnice 2004/18/ES. 
+ Čl. 15 směrnice Evropského parlamentu a Rady 2014/25/EU ze dne 26. února 2014 o zadávání zakázek subjekty působícími v odvětví vodního hospodářství, energetiky, dopravy a poštovních služeb a o zrušení směrnice 2004/17/ES. 
+ Čl. 8 směrnice Evropského parlamentu a Rady 2014/23/EU ze dne 26. února 2014 o udělování koncesí. 
+ Čl. 8 směrnice Evropského parlamentu a Rady 2009/81/ES ze dne 13. července 2009 o koordinaci postupů při zadávání některých zakázek na stavební práce, dodávky a služby zadavateli v oblasti obrany a bezpečnosti a o změně směrnic 2004/17/ES a 2004/18/ES. 
+ Sdělení Komise - Odpovídající hodnoty finančních limitů podle směrnic Evropského parlamentu a Rady 2014/23/EU, 2014/24/EU a 2014/25/EU (C/2025/7081).
+
+<sup>2</sup>) Nařízení Komise v přenesené pravomoci (EU) 2025/2151 ze dne 22. října 2025, kterým se mění směrnice Evropského parlamentu a Rady 2014/23/EU, pokud jde o finanční limity pro koncese pro roky 2026–2027. 
+ Nařízení Komise v přenesené pravomoci (EU) 2025/2152 ze dne 22. října 2025, kterým se mění směrnice Evropského parlamentu a Rady 2014/24/EU ohledně finančních limitů pro veřejné zakázky na dodávky, služby a stavební práce a pro soutěže o návrh pro roky 2026–2027. 
+ Nařízení Komise v přenesené pravomoci (EU) 2025/2150 ze dne 22. října 2025, kterým se mění směrnice Evropského parlamentu a Rady 2014/25/EU ohledně finančních limitů pro zakázky na dodávky, služby a stavební práce a pro soutěže o návrh pro roky 2026–2027. 
+ Nařízení Komise v přenesené pravomoci (EU) 2025/2487 ze dne 2. prosince 2025, kterým se mění směrnice Evropského parlamentu a Rady 2009/81/ES ohledně prahových hodnot pro zakázky na dodávky, na služby a na stavební práce.

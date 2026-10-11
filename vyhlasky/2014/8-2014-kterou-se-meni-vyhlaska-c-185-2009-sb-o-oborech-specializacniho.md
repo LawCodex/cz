@@ -1,0 +1,109 @@
+---
+title: "Vyhláška č. 8/2014 Sb., kterou se mění vyhláška č. 185/2009 Sb., o oborech specializačního vzdělávání lékařů, zubních lékařů a farmaceutů a oborech certifikovaných kurzů, ve znění pozdějších předpisů"
+identifier: "8/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/8/2014-02-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-01-10
+effective: 2014-02-01
+last_amended: 2014-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/8"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 8/2014 Sb., kterou se mění vyhláška č. 185/2009 Sb., o oborech specializačního vzdělávání lékařů, zubních lékařů a farmaceutů a oborech certifikovaných kurzů, ve znění pozdějších předpisů
+
+8
+
+VYHLÁŠKA
+
+ze dne 10. ledna 2014,
+
+kterou se mění vyhláška č. 185/2009 Sb., o oborech specializačního vzdělávání lékařů, zubních lékařů a farmaceutů a oborech certifikovaných kurzů, ve znění pozdějších předpisů
+
+Ministerstvo zdravotnictví stanoví podle § 37 odst. 1 písm. a) a g) zákona č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění zákona č. 189/2008 Sb.:
+
+## Čl. I
+
+Vyhláška č. 185/2009 Sb., o oborech specializačního vzdělávání lékařů, zubních lékařů a farmaceutů a oborech certifikovaných kurzů, ve znění vyhlášky č. 361/2010 Sb. a vyhlášky č. 286/2013 Sb., se mění takto:
+
+1\. V § 2 odst. 2 se za slovo „interní“ vkládá slovo „neurochirurgický“.
+
+2\. V příloze č. 1 části I. LÉKAŘI se za bod 7 vkládá nový bod 8, který zní:
+
+> „
+>
+> | 8. | dětská neurologie | dětský neurolog | 5 | neurologický nebo pediatrický |
+> |---|---|---|---|---|
+>
+> “.
+
+> Dosavadní body 8 až 44 se označují jako body 9 až 45.
+
+3\. V příloze č. 1 části I. LÉKAŘI bod 25 zní:
+
+> „
+>
+> | 25. | neurochirurgie | neurochirurg | 7 | neurochirurgický |
+> |---|---|---|---|---|
+>
+> “.
+
+4\. V příloze č. 1 části I. LÉKAŘI bod 30 zní:
+
+> „
+>
+> | 30. | otorinolaryngologie a chirurgie hlavy a krku | otorinolaryngolog | 5 | otorinolaryngologický |
+> |---|---|---|---|---|
+>
+> “.
+
+5\. V příloze č. 1 části I. LÉKAŘI se za bod 33 vkládá nový bod 34, který zní:
+
+> „
+>
+> | 34. | pracovní lékařství | pracovní lékař | 4 | interní nebo hygienický nebo všeobecné praktické lékařství |
+> |---|---|---|---|---|
+>
+> “.
+
+Dosavadní body 34 až 45 se označují jako body 35 až 46.
+
+6\. V příloze č. 2 části I. LÉKAŘI se za bod 4 vkládá nový bod 5, který zní:
+
+> „
+>
+> | 5. | dětská gynekologie | dětský gynekolog | 1 |
+> |---|---|---|---|
+>
+> “.
+
+Dosavadní body 5 až 51 se označují jako body 6 až 52.
+
+7\. V příloze č. 2 části I. LÉKAŘI se bod 8 zrušuje.
+
+Dosavadní body 9 až 52 se označují jako body 8 až 51.
+
+8\. V příloze č. 2 části I. LÉKAŘI se bod 43 zrušuje.
+
+Dosavadní body 44 až 51 se označují jako body 43 až 50.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Lékaři zařazení ke dni nabytí účinnosti této vyhlášky do vzdělávání do nástavbového oboru dětská neurologie a do nástavbového oboru pracovní lékařství podle vyhlášky č. 185/2009 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, dokončí vzdělávání podle vyhlášky č. 185/2009 Sb., ve znění účinném do dne nabytí účinnosti této vyhlášky.
+
+2\. Lékaři, kteří přede dnem nabytí účinnosti této vyhlášky získali specializovanou způsobilost v oboru otorinolaryngologie podle vyhlášky č. 185/2009 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, se považují za lékaře se specializovanou způsobilostí v oboru otorinolaryngologie a chirurgie hlavy a krku podle vyhlášky č. 185/2009 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky.
+
+3\. Lékaři, kteří po dni nabytí účinnosti této vyhlášky úspěšně dokončí atestační zkouškou specializační vzdělávání v oboru otorinolaryngologie podle vzdělávacího programu vydaného přede dnem nabytí účinnosti této vyhlášky, se považují za lékaře se specializovanou způsobilostí v oboru otorinolaryngologie a chirurgie hlavy a krku podle vyhlášky č. 185/2009 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky.
+
+4\. Lékaři, kteří jsou přede dnem nabytí účinnosti této vyhlášky zařazeni do základního kmene chirurgického, který je součástí základního oboru neurochirurgie, dokončí vzdělávání podle vyhlášky č. 185/2009 Sb., ve znění účinném do dne nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministr:
+
+MUDr. Holcát, MBA, v. r.

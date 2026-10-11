@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 177/2014 Sb., o vymezení zón ochrany přírody Chráněné krajinné oblasti Kokořínsko – Máchův kraj"
+identifier: "177/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/177/2014-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-07-31
+effective: 2014-09-01
+last_amended: 2014-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/177"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 177/2014 Sb., o vymezení zón ochrany přírody Chráněné krajinné oblasti Kokořínsko – Máchův kraj
+
+177
+
+VYHLÁŠKA
+
+ze dne 31. července 2014
+
+o vymezení zón ochrany přírody Chráněné krajinné oblasti Kokořínsko - Máchův kraj
+
+Ministerstvo životního prostředí stanoví podle § 27 odst. 2 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb.:
+
+## § 1 – Vymezení zón
+
+(1) Vymezují se zóny odstupňované ochrany přírody (dále jen „zóny“) na území Chráněné krajinné oblasti Kokořínsko - Máchův kraj<sup>1</sup>).
+
+(2) Vyznačení hranic zón na podkladě katastrální mapy, včetně elektronické podoby, je uloženo v ústředním seznamu<sup>2</sup>).
+
+(3) Orientační grafické znázornění zón na území Chráněné krajinné oblasti Kokořínsko - Máchův kraj je uvedeno v příloze k této vyhlášce.
+
+## § 2 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2014.
+
+Ministr:
+
+Mgr. Brabec v. r.
+
+### Příloha k vyhlášce č. 177/2014 Sb.
+
+#### Orientační grafické znázornění zón na území Chráněné krajinné oblasti Kokořínsko - Máchův kraj
+
+![sbcr2014c074z0177p001o001-p1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/835795/NAHLED/ZOBRAZ/sbcr2014c074z0177p001o001-p1) 
+ ![sbcr2014c074z0177p001o001-p2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/835797/NAHLED/ZOBRAZ/sbcr2014c074z0177p001o001-p2)
+
+---
+
+<sup>1</sup>) Nařízení vlády č. 176/2014 Sb., kterým se vyhlašuje Chráněná krajinná oblast Kokořínsko - Máchův kraj.
+
+<sup>2</sup>) § 42 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb. 
+ Vyhláška č. 64/2011 Sb., o plánech péče, o podkladech k vyhlašování, evidenci a označování chráněných území.

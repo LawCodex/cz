@@ -1,0 +1,48 @@
+---
+title: "Vyhláška č. 147/2015 Sb., kterou se mění vyhláška Ministerstva vnitra č. 326/2000 Sb., o způsobu označování ulic a ostatních veřejných prostranství názvy, o způsobu použití a umístění čísel k označení budov, o náležitostech ohlášení o přečíslování budov a o postupu a oznamování přidělení čísel a dokladech potřebných k přidělení čísel, ve znění vyhlášky č. 193/2001 Sb."
+identifier: "147/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/147/2015-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-06-15
+effective: 2015-07-01
+last_amended: 2015-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/147"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 147/2015 Sb., kterou se mění vyhláška Ministerstva vnitra č. 326/2000 Sb., o způsobu označování ulic a ostatních veřejných prostranství názvy, o způsobu použití a umístění čísel k označení budov, o náležitostech ohlášení o přečíslování budov a o postupu a oznamování přidělení čísel a dokladech potřebných k přidělení čísel, ve znění vyhlášky č. 193/2001 Sb.
+
+147
+
+VYHLÁŠKA
+
+ze dne 15. června 2015,
+
+kterou se mění vyhláška Ministerstva vnitra č. 326/2000 Sb., o způsobu označování ulic a ostatních veřejných prostranství názvy, o způsobu použití a umístění čísel k označení budov, o náležitostech ohlášení o přečíslování budov a o postupu a oznamování přidělení čísel a dokladech potřebných k přidělení čísel, ve znění vyhlášky č. 193/2001 Sb.
+
+Ministerstvo vnitra stanoví podle § 153 odst. 2 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění zákona č. 313/2002 Sb., a podle § 120 odst. 2 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění zákona č. 312/2002 Sb.:
+
+## Čl. I
+
+Vyhláška Ministerstva vnitra č. 326/2000 Sb., o způsobu označování ulic a ostatních veřejných prostranství názvy, o způsobu použití a umístění čísel k označení budov, o náležitostech ohlášení o přečíslování budov a o postupu a oznamování přidělení čísel a dokladech potřebných k přidělení čísel, ve znění vyhlášky č. 193/2001 Sb., se mění takto:
+
+1\. V § 4 se odstavec 2 včetně poznámky pod čarou č. 3 zrušuje a zároveň se zrušuje označení odstavce 1.
+
+2\. V § 5 odst. 1 se za slova „arabských číslic“ vkládají slova „v rozmezí 1 až 9999“.
+
+3\. V § 5 odst. 2 se za slovo „jeden“ vkládá slovo „malý“.
+
+4\. V § 7 písm. b) se slova „katastru nemovitostí“ nahrazují slovy „základního registru územní identifikace, adres a nemovitostí“.
+
+5\. § 8 se včetně nadpisu zrušuje.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2015.
+
+Ministr:
+
+Chovanec v. r.

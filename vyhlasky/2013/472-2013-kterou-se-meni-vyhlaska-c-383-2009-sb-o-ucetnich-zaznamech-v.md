@@ -1,0 +1,215 @@
+---
+title: "Vyhláška č. 472/2013 Sb., kterou se mění vyhláška č. 383/2009 Sb., o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech), ve znění pozdějších předpisů"
+identifier: "472/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/472/2014-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2013-12-20
+effective: 2014-01-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/472"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 472/2013 Sb., kterou se mění vyhláška č. 383/2009 Sb., o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech), ve znění pozdějších předpisů
+
+472
+
+VYHLÁŠKA
+
+ze dne 20. prosince 2013,
+
+kterou se mění vyhláška č. 383/2009 Sb., o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech), ve znění pozdějších předpisů
+
+Ministerstvo financí stanoví podle § 37b odst. 1 zákona č. 563/1991 Sb., o účetnictví, ve znění zákona č. 437/2003 Sb. a zákona č. 304/2008 Sb., k provedení § 4 odst. 8:
+
+## Čl. I
+
+Vyhláška č. 383/2009 Sb., o účetních záznamech v technické formě vybraných účetních jednotek a jejich předávání do centrálního systému účetních informací státu a o požadavcích na technické a smíšené formy účetních záznamů (technická vyhláška o účetních záznamech), ve znění vyhlášky č. 434/2010 Sb., vyhlášky č. 437/2011 Sb. a vyhlášky č. 461/2012 Sb., se mění takto:
+
+1\. V § 5 se doplňuje odstavec 10, který zní:
+
+> „(10) Má-li vybraná účetní jednotka povinnost zachovávat mlčenlivost o skutečnostech, jejichž předávání upravuje tato vyhláška, předkládá tato účetní jednotka účetní záznamy v agregované podobě způsobem stanoveným v Technickém manuálu centrálního systému účetních informací státu.“.
+
+2\. V § 8 odst. 4 se za slova „požadovaných úrovní agregace“ vkládají slova „, případně je oprávněn vyžadovat v této souvislosti doplňující informace, a to“.
+
+3\. V § 8 se doplňuje odstavec 5, který zní:
+
+> „(5) Správce centrálního systému účetních informací státu zajistí podmínky pro vyžádání a přenos jiných účetních záznamů ve stanoveném rozsahu a termínech standardní přenosovou cestou v souladu s Technickým manuálem centrálního systému účetních informací státu, včetně podmínek pro osoby, které jsou oprávněny vyžádat si jiný účetní záznam.“.
+
+4\. V § 9 se doplňuje odstavec 5, který zní:
+
+> „(5) Vybraná účetní jednotka zajistí podmínky pro vyžádání a přenos jiných účetních záznamů ve stanoveném rozsahu a termínech standardní přenosovou cestou v souladu s Technickým manuálem centrálního systému účetních informací státu.“.
+
+5\. Příloha č. 2a zní:
+
+> **„Příloha č. 2a k vyhlášce č. 383/2009 Sb.**
+
+> **Vzor pro rok 2014**
+
+> **Pomocný analytický přehled**
+
+> **Část I: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech**
+
+> **![sbcr2013c181z0472p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892933/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u001)**
+
+> **Část II: Vybrané náklady od počátku roku za hlavní a hospodářskou činnost**
+
+> **![sbcr2013c181z0472p001u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892935/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u002)**
+
+> **Část III: Vybrané výnosy od počátku roku za hlavní a hospodářskou činnost**
+
+> **![sbcr2013c181z0472p001u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892937/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u003)**
+
+> **Část IV: DNHM a DHM - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892939/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u004)**
+
+> **Část V: Zásoby - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u005.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892941/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u005)**
+
+> **Část VI: Pohledávky - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u006.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892943/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u006)**
+
+> **Část VII: Závazky - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u007.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892945/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u007)**
+
+> **Část VIII: Ostatní aktiva - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u008.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892947/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u008)**
+
+> **Část IX: Jmění účetní jednotky - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u009.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892949/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u009)**
+
+> **Část X: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech v členění podle jednotlivých partnerů aktiva / pasiva nebo partnerů transakce**
+
+> **![sbcr2013c181z0472p001u010.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892951/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u010)**
+
+> **Část XI: Vybrané náklady a výnosy od počátku roku za hlavní a hospodářskou činnost v členění podle jednotlivých partnerů transakce**
+
+> **![sbcr2013c181z0472p001u011.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892953/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u011)**
+
+> **Část XII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů transakce**
+
+> **![sbcr2013c181z0472p001u012.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/892955/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u012)**
+
+> **Část XIII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů aktiva / pasiva a partnerů transakce**
+
+> **![sbcr2013c181z0472p001u013.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893297/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u013)**
+
+> **Část XIV: Přehled majetkových účasti a jejich změn**
+
+> **![sbcr2013c181z0472p001u014.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893299/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u014)**
+
+> **Část XV: Přehled podrozvahových účtů**
+
+> **![sbcr2013c181z0472p001u015.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893301/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u015)**
+
+> **Část XVI: Počáteční a koncové stavy na vybraných podrozvahových účtech v členění podle jednotlivých partnerů podrozvahového účtu**
+
+> **![sbcr2013c181z0472p001u016.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893303/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u016)**
+
+> **Část XVII: Vysvětlení významných částek<sup>1)</sup>**
+
+> **![sbcr2013c181z0472p001u017.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893305/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u017)**
+
+> **Pomocný analytický přehled**
+
+> **Část I: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech**
+
+> **![sbcr2013c181z0472p001u018.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893307/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u018)**
+
+> **Část II: Vybrané náklady od počátku roku za hlavní a hospodářskou činnost**
+
+> **![sbcr2013c181z0472p001u019.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893309/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u019)**
+
+> **Část III: Vybrané výnosy od počátku roku za hlavní a hospodářskou činnost**
+
+> **![sbcr2013c181z0472p001u020.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893311/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u020)**
+
+> **Část IV: DNHM a DHM - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u021.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893313/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u021)**
+
+> **Část V: Zásoby - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u022.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893315/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u022)**
+
+> **Část VI: Pohledávky - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u023.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893317/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u023)**
+
+> **Část VII: Závazky - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u024.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893319/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u024)**
+
+> **Část VIII: Ostatní aktiva - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u025.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893321/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u025)**
+
+> **Část IX: Jmění účetní jednotky - typy změn na straně MD a D vybraných rozvahových účtů**
+
+> **![sbcr2013c181z0472p001u026.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893323/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u026)**
+
+> **Část X: Počáteční a koncové stavy a obraty na vybraných rozvahových účtech v členění podle jednotlivých partnerů aktiva / pasiva nebo partnerů transakce**
+
+> **![sbcr2013c181z0472p001u027.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893325/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u027)**
+
+> **Část XI: Vybrané náklady a výnosy od počátku roku za hlavní a hospodářskou činnost v členění podle jednotlivých partnerů transakce**
+
+> **![sbcr2013c181z0472p001u028.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893327/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u028)**
+
+> **Část XII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů transakce**
+
+> **![sbcr2013c181z0472p001u029.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893329/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u029)**
+
+> **Část XIII: Typy změn na straně MD a D vybraných rozvahových účtů v členění podle jednotlivých partnerů aktiva / pasiva a partnerů transakce**
+
+> **![sbcr2013c181z0472p001u030.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893331/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u030)**
+
+> **Část XIV: Přehled majetkových účastí a jejich změn**
+
+> **![sbcr2013c181z0472p001u031.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893333/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u031)**
+
+> **Část XV: Přehled podrozvahových účtů**
+
+> **![sbcr2013c181z0472p001u032.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893591/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u032)**
+
+> **Část XVI: Počáteční a koncové stavy na vybraných podrozvahových účtech v členění podle jednotlivých partnerů podrozvahového účtu**
+
+> **![sbcr2013c181z0472p001u033.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893593/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u033)**
+
+> **Část XVII: Vysvětlení významných částek<sup>1</sup><sup>)</sup>**
+
+> **![sbcr2013c181z0472p001u034.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/893595/NAHLED/ZOBRAZ/sbcr2013c181z0472p001u034)“.**
+
+6\. V příloze č. 4 se na konci tabulky doplňuje řádek:
+
+> „
+>
+> | 16a | Informace o schválení <br> nebo neschválení účetní závěrky, <br> včetně souvisejících informací | v případě řádné účetní závěrky do 31. 7. roku následujícího po účetním období, za které je účetní závěrka schvalována; v případě mimořádné účetní závěrky do 3 měsíců od rozvahového dne |
+> |---|---|---|
+>
+> “.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Ustanovení vyhlášky č. 383/2009 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, se použijí poprvé v účetním období započatém 1. ledna 2014 a později, nestanoví-li následující body jinak.
+
+2\. Informaci o schválení nebo neschválení účetní závěrky za účetní období roku 2012 a mimořádné účetní závěrky s rozvahovým dnem v průběhu roku 2012 podle přílohy č. 4 vyhlášky č. 383/2009 Sb., ve znění účinném ke dni účinnosti této vyhlášky předává účetní jednotka ve lhůtě stanovené v příloze č. 3 vyhlášky č. 383/2009 Sb., ve znění účinném ke dni účinnosti této vyhlášky pro předávání řádné účetní závěrky za rok 2013.
+
+3\. V případě sestavení účetní závěrky podle § 19 odst. 1 a 3 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, v účetním období roku 2014 použije účetní jednotka vzor částí Pomocného analytického přehledu podle § 3a odst. 3 vyhlášky č. 383/2009 Sb., ve znění účinném ke dni účinnosti této vyhlášky, označený jako „VZOR pro rok 2014“ v příloze č. 2a vyhlášky č. 383/2009 Sb., ve znění účinném ke dni účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2014.
+
+Ministr:
+
+Ing. Fischer, CSc., v. r.

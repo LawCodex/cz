@@ -1,0 +1,72 @@
+---
+title: "Vyhláška č. 248/2009 Sb., kterou se stanoví seznam jednotných kontaktních míst"
+identifier: "248/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/248/2009-12-28"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-07-29
+effective: 2009-12-28
+last_amended: 2009-12-28
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/248"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 248/2009 Sb., kterou se stanoví seznam jednotných kontaktních míst
+
+248
+
+VYHLÁŠKA
+
+ze dne 29. července 2009,
+
+kterou se stanoví seznam jednotných kontaktních míst
+
+Ministerstvo průmyslu a obchodu stanoví podle § 32 zákona č. 222/2009 Sb., o volném pohybu služeb, k provedení § 13 tohoto zákona:
+
+## § 1
+
+Seznam jednotných kontaktních míst stanoví příloha k této vyhlášce.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem 28. prosince 2009.
+
+Ministr:
+
+Ing. Tošovský v. r.
+
+### Příloha k vyhlášce č. 248/2009 Sb.
+
+#### Seznam jednotných kontaktních míst
+
+Magistrát města Brna – obecní živnostenský úřad
+
+Městský úřad Černošice – obecní živnostenský úřad
+
+Magistrát města České Budějovice – obecní živnostenský úřad
+
+Magistrát města Hradec Králové – obecní živnostenský úřad
+
+Magistrát města Jihlavy – obecní živnostenský úřad
+
+Magistrát města Karlovy Vary – obecní živnostenský úřad
+
+Magistrát města Liberec – obecní živnostenský úřad
+
+Magistrát města Olomouce – obecní živnostenský úřad
+
+Magistrát města Ostravy – obecní živnostenský úřad
+
+Magistrát města Pardubic – obecní živnostenský úřad
+
+Magistrát města Plzně – obecní živnostenský úřad
+
+Magistrát města Ústí nad Labem – obecní živnostenský úřad
+
+Magistrát města Zlína – obecní živnostenský úřad
+
+Úřad městské části Praha 1 – obecní živnostenský úřad
+
+Úřad městské části Praha 7 – obecní živnostenský úřad

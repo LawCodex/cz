@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 119/2017 Sb., o vydání zlaté mince „Hrad Bouzov“ po 5 000 Kč"
+identifier: "119/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/119/2017-05-30"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-04-06
+effective: 2017-05-30
+last_amended: 2017-05-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/119"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 119/2017 Sb., o vydání zlaté mince „Hrad Bouzov“ po 5 000 Kč
+
+119
+
+VYHLÁŠKA
+
+ze dne 6. dubna 2017
+
+o vydání zlaté mince „Hrad Bouzov“ po 5 000 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 30. května 2017 se v rámci cyklu „Hrady“ vydává zlatá mince „Hrad Bouzov“ po 5 000 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince v běžném i ve zvláštním provedení se razí ze zlata o ryzosti 999.9. Hmotnost mince je 15,55 g, její průměr 28 mm a síla 2,15 mm. Při ražbě mince v běžném provedení i ve zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká.
+
+## § 2
+
+(1) Na lícní straně mince je zobrazen detail hradní zdi s arkádou. Pod oblouky jsou zavěšeny prapory s heraldickými zvířaty z velkého státního znaku. Uprostřed je český lev, vlevo od něj moravská orlice a vpravo od něj slezská orlice. Po obvodu mince je v neuzavřeném opisu název státu „ČESKÁ REPUBLIKA“, označení nominální hodnoty mince „5 000“ se zkratkou peněžní jednotky „Kč“ a název cyklu „HRADY“. Jednotlivá slova a označení jsou oddělena tečkami. Značka České mincovny, která je tvořena kompozicí písmen „Č“ a „M“, je umístěna pod hradní zdí.
+
+(2) Na rubové straně mince je zobrazen hrad Bouzov s částí vstupního mostu a hradeb. V neuzavřeném opisu při horním okraji je text „HRAD BOUZOV“, ročník ražby „2017“ a následují iniciály autora mince MgA. Josefa Oplištila, které jsou tvořeny spojenými písmeny „J“ a „O“. Jednotlivá slova a označení jsou oddělena tečkami.
+
+(3) Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 30. května 2017.
+
+Guvernér:
+
+Ing. Rusnok v. r.
+
+### Příloha k vyhlášce č. 119/2017 Sb.
+
+#### Vyobrazení zlaté mince „Hrad Bouzov“ po 5 000 Kč
+
+(lícní a rubová strana)
+
+#### ![sbcr2017c043z0119p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834629/NAHLED/ZOBRAZ/sbcr2017c043z0119p001o001)
+
+#### ![sbcr2017c043z0119p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834631/NAHLED/ZOBRAZ/sbcr2017c043z0119p001o002)

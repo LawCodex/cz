@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 329/2009 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 485/2000 Sb., o výši odměny správců podniku, způsobu jejího určení a určení náhrady jejich hotových výdajů"
+identifier: "329/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/329/2009-10-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-09-11
+effective: 2009-10-15
+last_amended: 2009-10-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/329"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 329/2009 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 485/2000 Sb., o výši odměny správců podniku, způsobu jejího určení a určení náhrady jejich hotových výdajů
+
+329
+
+VYHLÁŠKA
+
+ze dne 11. září 2009,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 485/2000 Sb., o výši odměny správců podniku, způsobu jejího určení a určení náhrady jejich hotových výdajů
+
+Ministerstvo spravedlnosti stanoví podle § 374a písm. d) zákona č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 263/1992 Sb., zákona č. 24/1993 Sb. a zákona č. 30/2000 Sb.:
+
+## Čl. I
+
+Ve vyhlášce č. 485/2000 Sb., o výši odměny správců podniku, způsobu jejího určení a určení náhrady jejich hotových výdajů, § 2 zní:
+
+> **„§ 2**
+
+> (1) Základem pro určení odměny správce podniku je zjištěná cena podniku (§ 338n odst. 2 zákona). Odměna činí z částky
+
+> | do 1 000 000 Kč | 10 %, |
+> |---|---|
+> | z přebývající částky až do 10 000 000 Kč | 5 %, |
+> | z přebývající částky až do 50 000 000 Kč | 2 %, |
+> | z přebývající částky až do 100 000 000 Kč | 1 %, |
+> | z přebývající částky nad 100 000 000 Kč | 0,5 %, |
+> | nejméně však 45 000 Kč. | |
+
+> (2) Nebyla-li soudem určena zjištěná cena podniku podle § 338n odst. 1 a 2 zákona, činí odměna správce podniku 45 000 Kč.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 15. října 2009.
+
+Ministryně:
+
+JUDr. Kovářová v. r.

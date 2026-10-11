@@ -1,0 +1,53 @@
+---
+title: "Zákon č. 282/2009 Sb., kterým se mění zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců, ve znění pozdějších předpisů, a další související zákony"
+identifier: "282/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/282/2015-10-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2009-07-22
+effective: 2009-08-31
+last_amended: 2015-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/282"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 282/2009 Sb., kterým se mění zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců, ve znění pozdějších předpisů, a další související zákony ve znění zákona č. 205/2015 Sb."
+---
+
+# Zákon č. 282/2009 Sb., kterým se mění zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců, ve znění pozdějších předpisů, a další související zákony
+
+282
+
+ZÁKON
+
+ze dne 22. července 2009,
+
+kterým se mění zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců, ve znění pozdějších předpisů, a další související zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PÁTÁ – Změna zákona č. 261/2007 Sb.
+
+### Čl. V
+
+Zákon č. 261/2007 Sb., o stabilizaci veřejných rozpočtů, ve znění zákona č. 2/2009 Sb. a zákona č. 206/2009 Sb., se mění takto:
+
+1\. V části padesáté druhé čl. LXXXI bodě 1 písmeno e) zní:
+
+> „e) čl. I bodu 66, který nabývá účinnosti dnem 1. ledna 2010,“.
+
+2\. V části padesáté druhé čl. LXXXI bodě 1 se za písmeno e) doplňuje písmeno f), které zní:
+
+> „f) čl. I bodu 4, který nabývá účinnosti dnem 1. ledna 2013.“.
+
+## ČÁST SEDMÁ – ÚČINNOST
+
+### Čl. VII
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+v z. Němcová v. r.
+
+Klaus v. r.
+
+Fischer v. r.

@@ -1,0 +1,87 @@
+---
+title: "Zákon č. 402/2010 Sb., kterým se mění zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů (zákon o podpoře využívání obnovitelných zdrojů), ve znění pozdějších předpisů, a některé další zákony"
+identifier: "402/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/402/2014-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2010-12-14
+effective: 2011-01-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/402"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 402/2010 Sb., kterým se mění zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů (zákon o podpoře využívání obnovitelných zdrojů), ve znění pozdějších předpisů, a některé další zákony ve znění zákona č. 165/2012 Sb., zákonného opatření senátu č. 340/2013 Sb. a zákonného opatření senátu č. 344/2013 Sb."
+---
+
+# Zákon č. 402/2010 Sb., kterým se mění zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů (zákon o podpoře využívání obnovitelných zdrojů), ve znění pozdějších předpisů, a některé další zákony
+
+402
+
+ZÁKON
+
+ze dne 14. prosince 2010,
+
+kterým se mění zákon č. 180/2005 Sb., o podpoře výroby elektřiny z obnovitelných zdrojů energie a o změně některých zákonů (zákon o podpoře využívání obnovitelných zdrojů), ve znění pozdějších předpisů, a některé další zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST TŘETÍ – Změna zákona o ochraně zemědělského půdního fondu
+
+### Čl. IV
+
+Zákon č. 334/1992 Sb., o ochraně zemědělského půdního fondu, ve znění zákona č. 10/1993 Sb., zákona č. 98/1999 Sb., zákona č. 132/2000 Sb., zákona č. 76/2002 Sb., zákona č. 320/2002 Sb., zákona č. 444/2005 Sb., zákona č. 186/2006 Sb., zákona č. 222/2006 Sb., zákona č. 167/2008 Sb., zákona č. 9/2009 Sb., zákona č. 227/2009 Sb. a zákona č. 281/2009 Sb., se mění takto:
+
+1\. V § 11 odst. 2 se věta druhá nahrazuje větami „Výše odvodů je odvislá od tříd ochrany zemědělského půdního fondu (dále jen „třídy ochrany“). Třídy ochrany jsou kritériem kvality půdy a stanoví je Ministerstvo životního prostředí vyhláškou. Část odvodů ve výši 75 % je příjmem státního rozpočtu, 15 % je příjmem rozpočtu Státního fondu životního prostředí České republiky<sup>3</sup>) a 10 % je příjmem rozpočtu obce, v jejímž obvodu se odnímaná půda nachází.“.
+
+2\. V § 22 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Ministerstvo životního prostředí stanoví vyhláškou třídy ochrany (§ 11 odst. 2).“.
+
+3\. V příloze zákona část A včetně poznámky pod čarou č. 27 zní: „Základní hodnotové ukazatele zemědělské půdy vycházejí ze základní ceny zemědělských pozemků podle bonitovaných půdně ekologických jednotek stanovené oceňovací vyhláškou<sup>27</sup>).
+
+> <sup>27</sup>) Příloha č. 22 k vyhlášce č. 3/2008 Sb., o provedení některých ustanovení zákona č. 151/1997 Sb., o oceňování majetku a o změně některých zákonů, ve znění pozdějších předpisů (oceňovací vyhláška), ve znění vyhlášky č. 456/2008 Sb.“.
+
+4\. V příloze zákona části D bod 1 zní:
+
+> „1. Zjistí zařazení pozemku nebo jeho částí do bonitovaných půdně ekologických jednotek a jeho základní cenu podle oceňovací vyhlášky<sup>27</sup>).“.
+
+5\. V příloze zákona části D bod 3 zní:
+
+> „3. Základní cenu zemědělské půdy dotčené odnětím ze zemědělského půdního fondu (bod 1.) vynásobí ekologickou vahou ovlivnění příslušného faktoru životního prostředí nebo součtem těchto vah (bod 2.). Tím je stanovena základní sazba odvodů za odnětí.“.
+
+6\. V příloze zákona části D bodu 4 se slova „1 ha“ zrušují.
+
+7\. V příloze zákona části D bodu 5 se slova „1 ha“ zrušují.
+
+8\. V příloze zákona části D bod 6 zní:
+
+> „6. Výslednou sazbu odvodů zjistí tak, že základní sazbu odvodů za odnětí půdy ze zemědělského půdního fondu zjištěnou podle bodů 2 až 5 vynásobí koeficientem třídy ochrany.
+
+> | Třída ochrany | koeficient |
+> |---|---|
+> | I. třída | 9 |
+> | II. třída | 6 |
+> | III. třída | 4 |
+> | IV. třída | 2 |
+> | V. třída | 2 |
+
+> Celková výsledná částka odvodů za odnětí půdy ze zemědělského půdního fondu je součtem výsledných sazeb podle výměr jednotlivých bonitovaných půdně ekologických jednotek a jejich zařazení do tříd ochrany zastoupených na odnímaném pozemku.“.
+
+### Čl. V – Přechodná ustanovení
+
+1\. Řízení podle § 9 odst. 6 zákona č. 334/1992 Sb. zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů.
+
+2\. Při rozhodování o odvodech podle § 11 odst. 2 zákona č. 334/1992 Sb. orgán ochrany zemědělského půdního fondu vychází z právního stavu ke dni nabytí právní moci prvního rozhodnutí vydaného podle zvláštních právních předpisů.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. VI
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2011, s výjimkou ustanovení části první čl. I bodu 1 a čl. II bodu 1, které nabývají účinnosti dnem vyhlášení tohoto zákona.
+
+Němcová v. r.
+
+Klaus v. r.
+
+Nečas v. r.

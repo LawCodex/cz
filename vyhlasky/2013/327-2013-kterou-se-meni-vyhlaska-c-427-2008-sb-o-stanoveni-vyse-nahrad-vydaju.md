@@ -1,0 +1,498 @@
+---
+title: "Vyhláška č. 327/2013 Sb., kterou se mění vyhláška č. 427/2008 Sb., o stanovení výše náhrad výdajů za odborné úkony vykonávané v působnosti Státního ústavu pro kontrolu léčiv a Ústavu pro státní kontrolu veterinárních biopreparátů a léčiv, ve znění vyhlášky č. 160/2012 Sb."
+identifier: "327/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/327/2013-10-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2013-10-07
+effective: 2013-10-15
+last_amended: 2013-10-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/327"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 327/2013 Sb., kterou se mění vyhláška č. 427/2008 Sb., o stanovení výše náhrad výdajů za odborné úkony vykonávané v působnosti Státního ústavu pro kontrolu léčiv a Ústavu pro státní kontrolu veterinárních biopreparátů a léčiv, ve znění vyhlášky č. 160/2012 Sb.
+
+327
+
+VYHLÁŠKA
+
+ze dne 7. října 2013,
+
+kterou se mění vyhláška č. 427/2008 Sb., o stanovení výše náhrad výdajů za odborné úkony vykonávané v působnosti Státního ústavu pro kontrolu léčiv a Ústavu pro státní kontrolu veterinárních biopreparátů a léčiv, ve znění vyhlášky č. 160/2012 Sb.
+
+Ministerstvo zdravotnictví a Ministerstvo zemědělství stanoví podle § 114 odst. 2 zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění zákona č. 70/2013 Sb.:
+
+## Čl. I
+
+Vyhláška č. 427/2008 Sb., o stanovení výše náhrad výdajů za odborné úkony vykonávané v působnosti Státního ústavu pro kontrolu léčiv a Ústavu pro státní kontrolu veterinárních biopreparátů a léčiv, ve znění vyhlášky č. 160/2012 Sb., se mění takto:
+
+1\. V § 2 odst. 1 se slova „nebo žádosti o povolení souběžného dovozu léčivého přípravku, žádosti o povolení, změny nebo rozšíření povolení k výrobě nebo distribuci, žádosti o povolení činnosti kontrolní laboratoře, žádosti o povolení výroby v zařízení transfuzní služby“ nahrazují slovy „, žádosti o povolení souběžného dovozu léčivého přípravku nebo o změnu nebo prodloužení platnosti povolení souběžného dovozu, žádosti o povolení nebo změny nemocniční výjimky, žádosti o povolení, změny nebo rozšíření povolení k výrobě nebo distribuci, žádosti o povolení a změnu činnosti kontrolní laboratoře, žádosti o povolení a změnu výroby v zařízení transfuzní služby, žádosti o registraci zprostředkovatele léčivých přípravků, žádosti o změnu v údajích vedených v registru zprostředkovatelů léčivých přípravků“.
+
+2\. V § 2 odst. 4, § 3 a v § 4 odst. 6 a 7 se slova „Evropských společenství“ nahrazují slovy „Evropské unie“.
+
+3\. V § 4 se odstavec 5 zrušuje.
+
+Dosavadní odstavce 6 a 7 se označují jako odstavce 5 a 6.
+
+4\. V § 4 se doplňují odstavce 7 a 8, které znějí:
+
+> „(7) Jedná-li se o změny registrací související s podrobným popisem systému farmakovigilance nebo systému řízení rizik, který má zaveden držitel rozhodnutí o registraci, náhrada výdajů se nestanoví.
+
+> (8) Jedná-li se o případy seskupení změn, mohou se náhrady výdajů pro změny typu IA snížit tak, že se
+
+> a) v případě, kdy žádost zahrnuje jednu změnu pro více registračních čísel, hradí náhrada výdajů pro první registrační číslo v plné výši, pro všechny zbývající registrační čísla může žadatel požádat o 50% snížení náhrady výdajů,
+
+> b) v případě skupiny identických změn pro více registračních čísel pro první změnu ze skupiny identických změn IA hradí náhrada výdajů v plné výši, pro všechny zbývající změny ze skupiny identických změn může žadatel požádat o 50% snížení náhrady výdajů.“.
+
+5\. V § 5 odst. 1 se slovo „Společenství“ nahrazuje slovy „Evropské unie“.
+
+6\. V § 5 odst. 3 a 4 se slova „odst. 7“ nahrazují slovy „odst. 6“.
+
+7\. V příloze č. 1 části A položce s kódem O-001 se text ve sloupci „Podkategorie nebo upřesnění“ zrušuje.
+
+8\. V příloze č. 1 části A položce s kódem O-002 text sloupce „Podkategorie nebo upřesnění“ zní: „Např. rozlišení, zda jde o klinické hodnocení, nemocniční výjimku, stanovisko k používání čistého lihu na jeden přípravek, stanovisko k zaměnitelnosti názvu léčivého přípravku vyžádané mimo registrační řízení, a to nejvýše 3 různé názvy k jednomu přípravku najednou, stanovisko k návrhu reklamy na humánní léčivý přípravek šířené mimo rozhlasové a televizní vysílání a předběžné posouzení reklamního materiálu.“.
+
+9\. V příloze č. 1 části A položce s kódem O-003 text sloupce „Podkategorie nebo upřesnění“ zní: „Např. posouzení designu navrhované klinické studie, nemocniční výjimky, preklinického testování, analytické metody, statistické analýzy, posouzení navrhovaných textů (SPC, PIL) z odborného hlediska.“.
+
+10\. V příloze č. 1 části A položce s kódem O-004 se ve sloupci „Kategorie prováděných odborných úkonů“ slova „Poskytnutí hodinové odborné přednášky na žádost“ nahrazují slovy „Příprava a poskytnutí odborné přednášky na žádost osoby, která je podnikatelem,“ a ve sloupci „Výše náhrady“ se částka „12 000 Kč“ nahrazuje slovy „2 000 Kč/hod.“.
+
+11\. V příloze č. 1 části A se za položku s kódem O-004 vkládají položky s kódy O-005 a O-006, které znějí:
+
+> | „O-005 | Odborné úkony provedené na žádost zahraniční společnosti | Provedení odborných úkonů v hodinové sazbě. | 2 000 Kč/hod. |
+> |---|---|---|---|
+> | O-006 | Žádost o zpracování výstupů z databázových systémů vytvářených na základě hlášení distributorů a provozovatelů oprávněných k výdeji léčivých přípravků | Zpracování specifických výstupů o distribuovaných a vydávaných léčivých přípravcích z příslušných databází s využitím odborných hledisek podle požadovaných kritérií a nad rámec běžně a pravidelně zveřejňovaných údajů.“. | 1 000 Kč/hod. |
+
+12\. V příloze č. 1 části A položce s kódem R-001 se ve sloupci „Podkategorie nebo upřesnění“ doplňují slova:
+
+> „\* registrace homeopatika
+
+> \* registrace tradičního rostlinného přípravku
+
+> \* registrace podobného biologického přípravku.“.
+
+13\. V příloze č. 1 části A položce s kódem R-002 se ve sloupci „Podkategorie nebo upřesnění“ slova „registrace tradičního rostlinného přípravku“ zrušují.
+
+14\. V příloze č. 1 části A se za položku s kódem R-007 vkládá položka s kódem R-049, která zní:
+
+> | „R-049 | Žádost o změnu registrace typu II v modulu 3, jejíž součástí je nová studie bioekvivalence | | 90 000 Kč“. |
+> |---|---|---|---|
+
+15\. V příloze č. 1 části A položce s kódem R-008 se ve sloupci „Kategorie prováděných odborných úkonů“ za slova „typu I A“ vkládají slova „, žádost o změnu označení na obalu nebo příbalové informace, která nesouvisí se souhrnem údajů o přípravku,“ a ve sloupci „Výše náhrady“ se částka „4 700 Kč“ nahrazuje částkou „6 000 Kč“.
+
+16\. V příloze č. 1 části A položce s kódem R-040 se ve sloupci „Kategorie prováděných odborných úkonů“ slova „nebo o změnu označení na obalu nebo příbalové informace, která nesouvisí se souhrnem údajů o přípravku“ zrušují a ve sloupci „Výše náhrady“ se částka „6 700 Kč“ nahrazuje částkou „15 000 Kč“.
+
+17\. V příloze č. 1 části A položce s kódem R-013 se ve sloupci „Výše náhrady“ částka „33 900 Kč“ nahrazuje částkou „70 000 Kč“.
+
+18\. V příloze č. 1 části A se za položku s kódem R-013 vkládá položka s kódem R-050, která zní:
+
+> | „R-050 | Následná žádost autorizované osoby o vydání stanoviska k léčivu, které je integrální součástí zdravotnického prostředku, pro který již bylo vydáno stanovisko dříve (změna) | \* změna, která by mohla ovlivnit kvalitu, bezpečnost či prospěšnost léčivé látky ve zdravotnickém prostředku, např. změna výrobce léčivé látky, změna výroby léčivé látky, změna způsobu sterilizace, rozšíření doby použitelnosti“. | 15 000 Kč |
+> |---|---|---|---|
+
+19\. V příloze č. 1 části A se položka s kódem R-016 zrušuje.
+
+20\. V příloze č. 1 části A položce s kódem R-017 se ve sloupci „Podkategorie nebo upřesnění“ doplňují slova:
+
+> „\* registrace tradičního rostlinného přípravku“.
+
+21\. V příloze č. 1 části A položce s kódem R-018 se ve sloupci „Podkategorie nebo upřesnění“ slova „registrace tradičního rostlinného přípravku“ zrušují a za slovo „homeopatika“ se doplňují slova „zjednodušeným postupem“.
+
+22\. V příloze č. 1 části A se za položku s kódem R-023 vkládá položka s kódem R-051, která zní:
+
+> | „R-051 | Žádost o změnu registrace typu II v modulu 3, jejíž součástí je nová studie bioekvivalence v rámci postupu vzájemného uznání s Českou republikou jako referenčním členským státem | Řešení žádosti tohoto typu zahrnuje jak rozhodnutí o příslušné změně nebo prodloužení registrace, tak i zajištění procedury vzájemného uznávání pro danou žádost“. | 120 000 Kč |
+> |---|---|---|---|
+
+23\. V příloze č. 1 části A položce s kódem R-024 se ve sloupci „Kategorie prováděných odborných úkonů“ slova „nebo o změnu označení na obalu nebo příbalové informace, která nesouvisí se souhrnem údajů o přípravku“ zrušují a ve sloupci „Výše náhrady“ se částka „13 900 Kč“ nahrazuje částkou „25 000 Kč“.
+
+24\. V příloze č. 1 části A položce s kódem R-025 se ve sloupci „Kategorie prováděných odborných úkonů“ za slova „typu IA“ vkládají slova „a žádost o změnu označení na obalu nebo příbalové informace, která nesouvisí se souhrnem údajů o přípravku,“ a ve sloupci „Výše náhrady“ se částka „12 800 Kč“ nahrazuje částkou „12 000 Kč“.
+
+25\. V příloze č. 1 části A položce s kódem R-027 se ve sloupci „Podkategorie nebo upřesnění“ doplňují slova:
+
+> „\* registrace tradičního rostlinného přípravku
+
+> \* registrace podobného biologického přípravku.“.
+
+26\. V příloze č. 1 části A položce s kódem R-028 se ve sloupci „Podkategorie nebo upřesnění“ slova „registrace tradičního rostlinného přípravku“ zrušují a za slovo „homeopatika“ se vkládají slova „zjednodušeným postupem“.
+
+27\. V příloze č. 1 části A se za položku s kódem R-032 vkládá položka s kódem R-052, která zní:
+
+> | „R-052 | Žádost o změnu registrace typu II v modulu 3, jejíž součástí je nová studie bioekvivalence v rámci postupu vzájemného uznání rozhodnutí vydaného pro léčivý přípravek příslušným orgánem jiného členského státu“. | | 70 000 Kč |
+> |---|---|---|---|
+
+28\. V příloze č. 1 části A položce s kódem R-033 se ve sloupci „Kategorie prováděných odborných úkonů“ slova „nebo o změnu označení na obalu nebo příbalové informace, která nesouvisí se souhrnem údajů“ zrušují a ve sloupci „Výše náhrady“ se částka „4 700 Kč“ nahrazuje částkou „10 000 Kč“.
+
+29\. V příloze č. 1 části A položce s kódem R-034 se ve sloupci „Kategorie prováděných odborných úkonů“ za slova „typu IA“ vkládají slova „a žádost o změnu označení na obalu nebo příbalové informace, která nesouvisí se souhrnem údajů o přípravku,“ a ve sloupci „Výše náhrady“ se částka „4 700 Kč“ nahrazuje částkou „4 000 Kč“.
+
+30\. V příloze č. 1 části A položce s kódem R-036 se ve sloupci „Výše náhrady“ částka „40 000 Kč“ nahrazuje částkou „60 000 Kč“.
+
+31\. V příloze č. 1 části A položce s kódem R-037 se ve sloupci „Výše náhrady“ částka „15 000 Kč“ nahrazuje částkou „25 000 Kč“.
+
+32\. V příloze č. 1 části A položce s kódem R-038 se ve sloupci „Výše náhrady“ částka „60 000 Kč“ nahrazuje částkou „80 000 Kč“.
+
+33\. V příloze č. 1 části A položce s kódem R-041 se ve sloupci „Podkategorie nebo upřesnění“ doplňují slova:
+
+> „\* registrace tradičního rostlinného přípravku“.
+
+34\. V příloze č. 1 části A položce s kódem R-042 se ve sloupci „Podkategorie nebo upřesnění“ slova „registrace tradičního rostlinného přípravku“ zrušují a za slovo „homeopatika“ se doplňují slova „zjednodušeným postupem“.
+
+35\. V příloze č. 1 části A se za položku s kódem R-048 doplňují věty:
+
+> „Kalkulační vzorec pro výpočet celkové výše náhrad výdajů pro změny registrace předložené podle tzv. seskupování změn a postupu dělby práce v rámci jedné žádosti:
+
+> Jednotlivé výše náhrady výdajů za každou změnu registrace předloženou v rámci jedné žádosti se pro první registrační číslo platí v plné výši, pro každé další registrační číslo v rámci této žádosti se pro každou změnu registrace uplatňuje sleva 50 % ze stanovené výše náhrady výdajů.
+
+> Výše náhrad výdajů (v Kč) = (IA\*m<sub>IA</sub>) + (IB\*m<sub>IB</sub>) + (II\*m<sub>II</sub>) + (n-1)\*0,5\*((IA\*m<sub>IA</sub>) + (IB\*m<sub>IB</sub>) + (II\*m<sub>II</sub>))
+
+> kde:
+
+> IA, IB, II = výše náhrady výdajů za příslušnou změnu registrace typu IA, IB nebo II
+
+> m<sub>IA</sub>, m<sub>IB</sub>, m<sub>II</sub> = počet změn registrace jednotlivých typů v rámci jedné žádosti a
+
+> (n-1) = počet dalších registračních čísel v rámci jedné žádosti.“.
+
+36\. V příloze č. 1 části A položce s kódem I-001 se ve sloupci „Kategorie“ slova „Žádost o povolení k výrobě léčivých přípravků“ nahrazují slovy „Žádost o povolení k výrobě léčivých přípravků/hodnocených léčivých přípravků“, slova „; v případě zúžení druhu a rozsahu výroby nebo zrušení některého místa výroby se provede náhrada jako u změny bez kontroly“ se zrušují a ve sloupci „Podkategorie nebo upřesnění“ se doplňují slova:
+
+> „pouze propuštění šarží
+
+> výroba ostatních léčivých přípravků
+
+> výroba hodnocených léčivých přípravků
+
+> k povolené výrobě léčivých přípravků
+
+> nebo naopak (sterilní i nesterilní)“.
+
+37\. V příloze č. 1 části A položce s kódem I-002 se ve sloupci „Podkategorie nebo upřesnění“ slova „výrobně odlišná“ zrušují, za slova „místě výroby“ se vkládají slova „primárního balení, sekundárního balení a propouštění“ a ve sloupci „Výše náhrady“ se částka „48 900 Kč“ nahrazuje částkou „56 200 Kč“.
+
+38\. V příloze č. 1 části A položce s kódem I-003 se ve sloupci „Podkategorie nebo upřesnění“ slova „každá další výrobně odlišná léková forma a/nebo výrobní jednotka/linka“ nahrazují slovy „navýšení za každou další výrobně odlišnou lékovou formu a/nebo výrobní jednotku/linku“ a doplňují se slova:
+
+> „nemůže být použita samostatně
+
+> včetně primárního balení, sekundárního balení a propouštění“.
+
+39\. V příloze č. 1 části A položce s kódem I-004 se ve sloupci „Podkategorie nebo upřesnění“ slova „výrobně odlišná“ zrušují, za slova „místě výroby“ se vkládají slova „včetně sekundárního balení a propouštění“ a ve sloupci „Výše náhrady“ se částka „64 500 Kč“ nahrazuje částkou „74 200 Kč“.
+
+40\. V příloze č. 1 části A položce s kódem I-005 se ve sloupci „Podkategorie nebo upřesnění“ slova „každá další výrobně odlišná léková forma a/nebo výrobní jednotka/linka“ nahrazují slovy „navýšení za každou další výrobně odlišnou lékovou formu a/nebo výrobní jednotku/linku“ a doplňují se slova:
+
+> „nemůže být použita samostatně
+
+> včetně sekundárního balení a propouštění“.
+
+41\. V příloze č. 1 části A položce s kódem I-006 se ve sloupci „Podkategorie nebo upřesnění“ doplňují slova:
+
+> „nemůže být použita samostatně“.
+
+42\. V příloze č. 1 části A položce s kódem I-007 se ve sloupci „Podkategorie nebo upřesnění“ slova „výrobně odlišná“ zrušují.
+
+43\. V příloze č. 1 části A položce s kódem I-008 se ve sloupci „Podkategorie nebo upřesnění“ slova „každá další výrobně odlišná léková forma a/nebo výrobní jednotka/linka“ nahrazují slovy „navýšení za každou další výrobně odlišnou lékovou formu a/nebo výrobní jednotku/linku“ a doplňují se slova:
+
+> „nemůže být použita samostatně
+
+> nepoužije se položka I-001“.
+
+44\. V příloze č. 1 části A položce s kódem I-009 se ve sloupci „Podkategorie nebo upřesnění“ doplňují slova:
+
+> „nepoužije se položka I-001“.
+
+45\. V příloze č. 1 části A položce s kódem I-010 se ve sloupci „Kategorie“ slova „; v případě smluvní výroby a kontroly léčivých přípravků ve třetích zemích, kdy nelze uznat výsledek kontroly jiného úřadu, se provede náhrada jako u žádosti o osvědčení dodržování požadavků správné výrobní praxe s provedením inspekce u zahraničního výrobce“ zrušují a ve sloupci „Podkategorie nebo upřesnění“ se doplňují slova:
+
+> „změna identifikačních údajů
+
+> změna nebo další kvalifikovaná osoba
+
+> změna nebo další smluvní partner pro výrobu nebo kontrolu jakosti
+
+> v případě zúžení druhu a rozsahu výroby nebo zrušení některého místa výroby se provede náhrada jako u změny bez kontroly
+
+> společná úhrada za všechny změny“.
+
+46\. V příloze č. 1 části A položce s kódem I-013 se ve sloupci „Kategorie“ za slova „pomocných látek“ vkládají slova „, plynů používaných při poskytování zdravotních služeb“.
+
+47\. V příloze č. 1 části A položce s kódem I-016 se ve sloupci „Podkategorie nebo upřesnění“ doplňují slova:
+
+> „jedna úhrada pro kontrolu vyráběných a/nebo dovážených léčivých přípravků a/nebo hodnocených léčivých přípravků“.
+
+48\. V příloze č. 1 části A položce s kódem I-017 se ve sloupci „Podkategorie nebo upřesnění“ slova „(fyzikální, fyzikálně-chemické a chemické zkoušení léčiv, případně mikrobiologické zkoušení)“ nahrazují slovy „(fyzikálně-chemické, mikrobiologické zkoušení, biologické zkoušení) jedna úhrada pro kontrolu vyráběných a/nebo dovážených léčivých přípravků a/nebo hodnocených léčivých přípravků“.
+
+49\. V příloze č. 1 části A položce s kódem I-018 se ve sloupci „Podkategorie nebo upřesnění“ doplňují věty:
+
+> „Kontrola hodnocených léčivých přípravků k povolené kontrole léčivých přípravků nebo naopak ve stejném rozsahu.
+
+> Kontrola dovozu k výrobě a naopak upřesnění ve stejném rozsahu:
+
+> změna identifikačních údajů žadatele nový/změna nebo další smluvní partner pro kontrolu jakosti společná úhrada za všechny změny“.
+
+50\. V příloze č. 1 části A položce s kódem I-027 se ve sloupci „Kategorie“ slovo „nebo“ nahrazuje slovem „a“.
+
+51\. V příloze č. 1 části A se za položku s kódem I-031 vkládají položky s kódy I-037 až I-042, které znějí:
+
+> | „I-037 | Žádost o zápis do registru zprostředkovatelů léčivých přípravků | | 3 300 Kč |
+> |---|---|---|---|
+> | I-038 | Žádost o změnu údajů v registru zprostředkovatelů léčivých přípravků | | 1 500 Kč |
+> | I-039 | Žádost o vydání osvědčení o splnění požadavků správné klinické praxe s provedením inspekce na základě žádosti o registraci léčivého přípravku společností/zadavatelem klinického hodnocení v rámci DCP | Na náhradě cestovních a pobytových výdajů se může podílet několik žadatelů v případě, že v průběhu jedné cesty lze provést více inspekcí, v případě kontrol na území České republiky a účasti inspektorů jiných členských států kalkulace nákladů na překladatele | 55 000 Kč <br> + náhrada cestovních a pobytových výdajů |
+> | I-040 | Žádost o vydání osvědčení o splnění požadavků správné klinické praxe s provedením inspekce na základě žádosti o registraci léčivého přípravku společností/zadavatelem klinického hodnocení v rámci DCP | Za každé další místo kontroly v rámci jedné žádosti <br> + náhrada cestovních a pobytových výdajů | 30 000 Kč |
+> | I-041 | Žádost o povolení k výrobě léčivých přípravků nebo o změnu povolení k výrobě s kontrolou <br> Žádost o povolení samostatného skladu výrobce léčivých přípravků | s kontrolou jednoho skladu samostatný výrobní sklad | 25 300 Kč |
+> | I-042 | Žádost o povolení k výrobě léčivých přípravků nebo o změnu povolení k výrobě s kontrolou <br> Žádost o povolení samostatného skladu výrobce léčivých přípravků“. | za každý další sklad v rámci jednoho povolení | 13 300 Kč |
+
+52\. V příloze č. 1 části A položce s kódem L-001 se ve sloupci „Kategorie“ slovo „léčiv“ nahrazuje slovy „léčivých přípravků“.
+
+53\. V příloze č. 1 části A položce s kódem L-002 se ve sloupci „Kategorie“ slova „osvědčení o věcném a technickém vybavení lékárny“ nahrazují slovy „závazného stanoviska k technickému a věcnému vybavení zdravotnického zařízení, v němž bude poskytována lékárenská péče“ a ve sloupci „Podkategorie nebo upřesnění“ se za slovo „lékárny“ vkládají slova „nebo výdejny zdravotnických prostředků“.
+
+54\. V příloze č. 1 části A položce s kódem L-003 se ve sloupci „Podkategorie nebo upřesnění“ za slova „lékárny“ vkládají slova „nebo výdejny zdravotnických prostředků“, slova „oddělení výdeje léčiv“ se nahrazují slovy „oddělení pro výdej léčivých přípravků“ a na konci textu sloupce se doplňují slova „změna rozsahu činnosti lékárny nebo zřízení odborného pracoviště spojené se změnou dispozičního uspořádání lékárny“.
+
+55\. V příloze č. 1 části A položce s kódem L-004 se ve sloupci „Podkategorie nebo upřesnění“ za slovo „lékárny“ vkládají slova „nebo výdejny zdravotnických prostředků“, za slovo „vybavení“ se vkládají slova „lékárny nebo výdejny zdravotnických prostředků“ a slovo „osvědčení“ se nahrazuje slovy „závazném stanovisku“.
+
+56\. V příloze č. 1 části A se za položku s kódem K-006 vkládají položky s kódy K-007 až K-009, které znějí:
+
+> | „K-007 | Povolení nemocniční výjimky | | 90 000 Kč |
+> |---|---|---|---|
+> | K-008 | Změna v nemocniční výjimce – změny ve výrobním procesu, v jakosti výchozího materiálu | | 20 000 Kč |
+> | K-009 | Změna v nemocniční výjimce – přidání dalšího pracoviště, kde by byl přípravek nemocniční výjimky podáván, anebo navýšení maximálního počtu pacientů“. | | 2 500 Kč |
+
+57\. V příloze č. 1 část B zní:
+
+> „B. Sazebník náhrad výdajů za laboratorní rozbory léčiv a pomocných látek vykonávané v působnosti Ústavu
+
+> <table><tbody><tr><td><b>Položka</b></td><td colspan="2"><b>Zkouška</b></td><td><b>Výše náhrady</b></td></tr><tr><td colspan="4">PŘÍPRAVNÉ A POMOCNÉ PRÁCE</td></tr><tr><td>1.</td><td colspan="2">Příjem vzorku k analýze včetně vypracování plánu zkoušky</td><td>500 Kč</td></tr><tr><td>2.</td><td colspan="2">Přípravné práce před analýzou</td><td>610 Kč</td></tr><tr><td>3.</td><td colspan="2">Validace biologických metod</td><td>1 950 Kč</td></tr><tr><td colspan="4">FYZIKÁLNÍ A CHEMICKÉ ZKOUŠKY</td></tr><tr><td>4.</td><td colspan="2">Čirost a stupeň opalescence tekutin – za každou prohlédnutou jednotku</td><td>40 Kč</td></tr><tr><td>5.</td><td colspan="2">Stupeň zbarvení tekutin – za každou prohlédnutou jednotku</td><td>40 Kč</td></tr><tr><td>6.</td><td colspan="2">Potenciometrické stanovení pH</td><td>810 Kč</td></tr><tr><td>7.</td><td colspan="2">Hustota a relativní hustota</td><td>1 010 Kč</td></tr><tr><td>8.</td><td colspan="2">Index lomu</td><td>810 Kč</td></tr><tr><td>9.</td><td colspan="2">Optická otáčivost</td><td>1 010 Kč</td></tr><tr><td>10.</td><td colspan="2">Viskozita – měření kapilárním viskozimetrem</td><td>1 620 Kč</td></tr><tr><td>11.</td><td colspan="2">Viskozita – měření rotačním viskozimetrem</td><td>1 620 Kč</td></tr><tr><td>12.</td><td colspan="2">Viskozita – měření tělískovým viskozimetrem</td><td>1 210 Kč</td></tr><tr><td>13.</td><td colspan="2">Destilační rozmezí</td><td>610 Kč</td></tr><tr><td>14.</td><td colspan="2">Teplota varu</td><td>610 Kč</td></tr><tr><td>15.</td><td colspan="2">Stanovení vody destilací</td><td>610 Kč</td></tr><tr><td>16.</td><td colspan="2">Teplota tání – kapilární metoda</td><td></td></tr><tr><td>16a.</td><td></td><td>u látky deklarované</td><td>610 Kč</td></tr><tr><td>16b.</td><td></td><td>u látky nedeklarované</td><td>1 210 Kč</td></tr><tr><td>17.</td><td colspan="2">Teplota skápnutí</td><td>610 Kč</td></tr><tr><td>18.</td><td colspan="2">Teplota tuhnutí</td><td>610 Kč</td></tr><tr><td>19.</td><td colspan="2">Stanovení obsahu látek potenciometrickou titrací ve vodném i nevodném prostředí</td><td>1 620 Kč</td></tr><tr><td>20.</td><td colspan="2">Stanovení totožnosti látek infračervenou spektrometrií</td><td>2 830 Kč</td></tr><tr><td>21.</td><td colspan="2">Stanovení UV-VIS spektrofotometrií</td><td>2 020 Kč</td></tr><tr><td>22.</td><td colspan="2">Stanovení totožnosti, čistoty a obsahu látek tenkovrstvou chromatografií</td><td></td></tr><tr><td>22a.</td><td></td><td>kvalitativní stanovení – za každou soustavu</td><td>1 130 Kč</td></tr><tr><td>22b.</td><td></td><td>semikvantitativní stanovení – za každou soustavu</td><td>1 740 Kč</td></tr><tr><td>23.</td><td colspan="2">Stanovení totožnosti, čistoty a obsahu látek plynovou chromatografií</td><td></td></tr><tr><td>23a.</td><td></td><td>stanovení jednoduché</td><td>5 660 Kč</td></tr><tr><td>23b.</td><td></td><td>stanovení složitější</td><td>6 460 Kč</td></tr><tr><td>24.</td><td colspan="2">Stanovení totožnosti, čistoty a obsahu látek vysokoúčinnou kapalinovou chromatografií</td><td></td></tr><tr><td>24a.</td><td></td><td>stanovení jednoduché</td><td>5 040 Kč</td></tr><tr><td>24b.</td><td></td><td>stanovení složitější</td><td>7 460 Kč</td></tr><tr><td>25.</td><td colspan="2">Stanovení totožnosti látek vysokoúčinnou kapalinovou chromatografií s hmotnostním detektorem</td><td>12 740 Kč</td></tr><tr><td>26.</td><td colspan="2">Vylučovací chromatografie</td><td></td></tr><tr><td>26a.</td><td></td><td>vylučovací chromatografie albuminu</td><td>10 040 Kč</td></tr><tr><td>26b.</td><td></td><td>vylučovací chromatografie imunoglobulinů</td><td>12 740 Kč</td></tr><tr><td>27.</td><td colspan="2">Zónová elektroforéza albuminu a imunoglobulinů</td><td>4040 Kč</td></tr><tr><td>28.</td><td colspan="2">Měrná elektrická vodivost</td><td>810 Kč</td></tr><tr><td>29.</td><td colspan="2">Zkoušky totožnosti iontů a skupin</td><td>480 Kč</td></tr><tr><td>30.</td><td colspan="2">Pach</td><td>200 Kč</td></tr><tr><td>31.</td><td colspan="2">Amonium (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>32.</td><td colspan="2">Arsen (limitní zkouška)</td><td>2 020 Kč</td></tr><tr><td>33.</td><td colspan="2">Vápník (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>34.</td><td colspan="2">Chloridy (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>35.</td><td colspan="2">Fluoridy (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>36.</td><td colspan="2">Hořčík (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>37.</td><td colspan="2">Hořčík a kovy alkalických zemin (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>38.</td><td colspan="2">Těžké kovy (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>39.</td><td colspan="2">Železo (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>40.</td><td colspan="2">Fosforečnany (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>41.</td><td colspan="2">Draslík (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>42.</td><td colspan="2">Sírany (limitní zkouška)</td><td>480 Kč</td></tr><tr><td>43.</td><td colspan="2">Síranový popel</td><td>2 420 Kč</td></tr><tr><td>44.</td><td colspan="2">Celkový popel</td><td>2 420 Kč</td></tr><tr><td>45.</td><td colspan="2">Volný formaldehyd</td><td></td></tr><tr><td>45a.</td><td></td><td>metoda A</td><td>480 Kč</td></tr><tr><td>45b.</td><td></td><td>metoda B</td><td>1 620 Kč</td></tr><tr><td>46.</td><td colspan="2">Totožnost a kontrola zbytkových rozpouštědel</td><td>6 460 Kč</td></tr><tr><td>47.</td><td colspan="2">Zbytkový ethylenoxid a dioxan</td><td>6 460 Kč</td></tr><tr><td>48.</td><td colspan="2">Číslo kyselosti</td><td>1 210 Kč</td></tr><tr><td>49.</td><td colspan="2">Číslo esterové</td><td>1 210 Kč</td></tr><tr><td>50.</td><td colspan="2">Číslo hydroxylové</td><td>1 210 Kč</td></tr><tr><td>51.</td><td colspan="2">Číslo jodové</td><td>1 210 Kč</td></tr><tr><td>52.</td><td colspan="2">Číslo peroxidové</td><td>1 210 Kč</td></tr><tr><td>53.</td><td colspan="2">Číslo zmýdelnění</td><td>1 210 Kč</td></tr><tr><td>54.</td><td colspan="2">Dusík mineralizací s kyselinou sírovou</td><td>4 040 Kč</td></tr><tr><td>55.</td><td colspan="2">Chelatometrické titrace</td><td>1 010 Kč</td></tr><tr><td>56.</td><td colspan="2">Semimikrostanovení vody</td><td>2 020 Kč</td></tr><tr><td>57.</td><td colspan="2">Fenol v imunních sérech a vakcínách</td><td>1 620 Kč</td></tr><tr><td>58.</td><td colspan="2">Oxidanty</td><td>1 010 Kč</td></tr><tr><td>59.</td><td colspan="2">Celkové bílkoviny</td><td>1 620 Kč</td></tr><tr><td>60.</td><td colspan="2">Zkouška rozpadavosti tablet a tobolek (bez stanovení)</td><td></td></tr><tr><td>60a.</td><td></td><td>rozpadavost ve vodě</td><td>400 Kč</td></tr><tr><td>60b.</td><td></td><td>rozpadavost v žaludeční šťávě</td><td>1 010 Kč</td></tr><tr><td>60c.</td><td></td><td>rozpadavost v duodenální šťávě</td><td>1 820 Kč</td></tr><tr><td>61.</td><td colspan="2">Zkouška rozpadavosti rektálních a vaginálních přípravků (bez stanovení)</td><td>400 Kč</td></tr><tr><td>62.</td><td colspan="2">Zkouška disoluce pevných lékových forem (bez stanovení)</td><td></td></tr><tr><td>62a.</td><td></td><td>disoluce krátkodobá</td><td>1 010 Kč</td></tr><tr><td>62b.</td><td></td><td>disoluce dlouhodobá</td><td>4 850 Kč</td></tr><tr><td>63.</td><td colspan="2">Zkouška disoluce transdermálních přípravků (bez stanovení)</td><td>4 850 Kč</td></tr><tr><td>64.</td><td colspan="2">Hmotnostní stejnoměrnost pevných jednodávkových lékových forem – za každou navážku</td><td>100 Kč</td></tr><tr><td>65.</td><td colspan="2">Oděr neobalených tablet</td><td>400 Kč</td></tr><tr><td>66.</td><td colspan="2">Pevnost tablet</td><td>200 Kč</td></tr><tr><td>67.</td><td colspan="2">Stanovení ethanolu v tekutých přípravcích</td><td>6 460 Kč</td></tr><tr><td>68.</td><td colspan="2">Stanovení methanolu a 2-propanolu v tekutých přípravcích</td><td>6 460 Kč</td></tr><tr><td>69.</td><td colspan="2">Zkouška na využitelný objem parenterálních přípravků</td><td>200 Kč</td></tr><tr><td>70.</td><td colspan="2">Hmotnostní stejnoměrnost jednotlivých dávek ve vícedávkových obalech</td><td>100 Kč</td></tr><tr><td>71.</td><td colspan="2">Stejnoměrnost dávkových jednotek</td><td>100 Kč</td></tr><tr><td>72.</td><td colspan="2">Odměrné stanovení látek</td><td></td></tr><tr><td>72a.</td><td></td><td>Titrace</td><td>1 010 Kč</td></tr><tr><td>72b.</td><td></td><td>Retitrace</td><td>1 210 Kč</td></tr><tr><td>72c.</td><td></td><td>titrace v heterogenním prostředí</td><td>1 210 Kč</td></tr><tr><td>72d.</td><td></td><td>titrace v bezvodém prostředí (bez izolace)</td><td>1 210 Kč</td></tr><tr><td>73.</td><td colspan="2">Vážení jednotlivých dávek léků – za každou navážku</td><td>100 Kč</td></tr><tr><td>74.</td><td colspan="2">Makroskopický popis, vzhled</td><td>200 Kč</td></tr><tr><td colspan="4">MIKROBIOLOGICKÉ A BIOLOGICKÉ ZKOUŠKY</td></tr><tr><td>75.</td><td colspan="2">Zkouška na sterilitu</td><td></td></tr><tr><td>75a.</td><td></td><td>zkouška na sterilitu – metoda přímého očkování do živných půd (přípravky bez protimikrobních účinků)</td><td>1 210 Kč</td></tr><tr><td>75b.</td><td></td><td>zkouška na sterilitu – metoda přímého očkování do živných půd (přípravky s protimikrobními účinky)</td><td>1 410 Kč</td></tr><tr><td>75c.</td><td></td><td>zkouška na sterilitu – metoda membránové filtrace</td><td>2 210 Kč</td></tr><tr><td>75d.</td><td></td><td>zkouška na sterilitu antibiotik – metoda membránové filtrace</td><td>2 210 Kč</td></tr><tr><td>76.</td><td colspan="2">Mikrobiologické zkoušení nesterilních výrobků (celkový počet živých aerobů)</td><td></td></tr><tr><td>76a.</td><td></td><td>mikrobiologické zkoušení nesterilních výrobků – kategorie 2</td><td>2 020 Kč</td></tr><tr><td>76b.</td><td></td><td>mikrobiologické zkoušení nesterilních výrobků – kategorie 3B</td><td>2 020 Kč</td></tr><tr><td>76c.</td><td></td><td>mikrobiologické zkoušení nesterilních výrobků – kategorie 4A</td><td>1 620 Kč</td></tr><tr><td>76d.</td><td></td><td>mikrobiologické zkoušení nesterilních výrobků – kategorie 4B</td><td>2 020 Kč</td></tr><tr><td>77.</td><td colspan="2">Mikrobiologická jakost nesterilních výrobků a látek pro farmaceutické použití (celkový počet živých aerobů TAMC a hub TYMC, zkoušky na specifikované mikroorganismy)</td><td></td></tr><tr><td>77a.</td><td></td><td>nevodné perorální přípravky</td><td>2 020 Kč</td></tr><tr><td>77b.</td><td></td><td>vodné perorální přípravky</td><td>2 020 Kč</td></tr><tr><td>77c.</td><td></td><td>přípravky pro rektální podání</td><td>2 020 Kč</td></tr><tr><td>77d.</td><td></td><td>přípravky pro podání orální, na dásně, kožní, do nosu, do ucha</td><td>2 020 Kč</td></tr><tr><td>77e.</td><td></td><td>přípravky pro vaginální podání</td><td>2 020 Kč</td></tr><tr><td>77f.</td><td></td><td>transdermální náplasti</td><td>2 020 Kč</td></tr><tr><td>77g.</td><td></td><td>přípravky pro inhalační podání</td><td>2 020 Kč</td></tr><tr><td>77h.</td><td></td><td>lékové formy obsahující suroviny přírodního charakteru</td><td>2 020 Kč</td></tr><tr><td>77i.</td><td></td><td>látky pro farmaceutické použití</td><td>2 020 Kč</td></tr><tr><td>78.</td><td colspan="2">Mikrobiologická jakost rostlinných LP pro perorální použití</td><td></td></tr><tr><td>78a.</td><td></td><td>rostlinné LP kategorie A</td><td>2 020 Kč</td></tr><tr><td>78b.</td><td></td><td>rostlinné LP kategorie B</td><td>2 020 Kč</td></tr><tr><td>78c.</td><td></td><td>rostlinné LP kategorie C</td><td>2 020 Kč</td></tr><tr><td>79.</td><td colspan="2">Účinnost protimikrobních konzervačních látek</td><td>6 000 Kč</td></tr><tr><td>80.</td><td colspan="2">Bakteriální endotoxiny</td><td>1 620 Kč</td></tr><tr><td>81.</td><td colspan="2">Nepřímá metoda stanovení hemaglutininů anti-A a anti-B – Coombsův nepřímý test</td><td>2 830 Kč</td></tr><tr><td>82.</td><td colspan="2">Imunochemické metody</td><td></td></tr><tr><td>82a.</td><td></td><td>metody používající značený antigen nebo protilátku (ELISA)</td><td>4 040 Kč</td></tr><tr><td>82b.</td><td></td><td>imunoprecipitační metody – Ouchterlony</td><td>4 040 Kč</td></tr><tr><td>82c.</td><td></td><td>imunoprecipitační metody – Mancini</td><td>2 420 Kč</td></tr><tr><td>83.</td><td colspan="2">Stanovení účinnosti adsorbované vakcíny proti tetanu</td><td>70 000 Kč</td></tr><tr><td>84.</td><td colspan="2">Zkoušky totožnosti, zkoušky teplotní stability a stanovení účinnosti na tkáňových kulturách</td><td></td></tr><tr><td>84a.</td><td></td><td>Monovakcína</td><td>5 460 Kč</td></tr><tr><td>84b.</td><td></td><td>Divakcína</td><td>7 850 Kč</td></tr><tr><td>84c.</td><td></td><td>Trivakcína</td><td>13 090 Kč</td></tr><tr><td>85.</td><td colspan="2">Zkoušky cytotoxicity na tkáňových kulturách</td><td>11 850 Kč</td></tr></tbody></table>
+
+> Poznámka: Pokud by jednotlivý úkon nebo součet dílčích sazeb za jednotlivé úkony podle tabulky činil částku nižší než 1 000 Kč, výše náhrady činí 1 000 Kč.“.
+
+58\. V příloze č. 2 části A položce s kódem U-001 se ve sloupci „Úhrada“ částka „4 800 Kč“ nahrazuje částkou „6 500 Kč“.
+
+59\. V příloze č. 2 části A položce s kódem O-01 se ve sloupci „Úhrada“ částka „2 200 Kč“ nahrazuje částkou „2 600 Kč“.
+
+60\. V příloze č. 2 části A položce s kódem O-02 se ve sloupci „Úhrada“ částka „4 600 Kč“ nahrazuje částkou „5 400 Kč“.
+
+61\. V příloze č. 2 části A položce s kódem O-03 se ve sloupci „Úhrada“ částka „6 100 Kč“ nahrazuje částkou „7 100 Kč“.
+
+62\. V příloze č. 2 části A kapitole „Registrace“ položky s kódy RN-01 až RC-041 znějí:
+
+> | „RN – 01 | Žádost o registraci veterinárního léčivého přípravku - samostatná registrace podložená úplnými experimentálními nebo literárními údaji -veterinární léčivý přípravek pro více než dva cílové druhy zvířat (národní registrace) | 111 100 Kč |
+> |---|---|---|
+> | RN-D – 51 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 24 500 Kč |
+> | RN – 02 | Žádost o registraci veterinárního léčivého přípravku - samostatná registrace podložená úplnými experimentálními nebo literárními údaji - veterinární léčivý přípravek pro max. dva cílové druhy zvířat (národní registrace) | 85 700 Kč |
+> | RN-D– 52 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 24 500 Kč |
+> | RN – 03 | Žádost o registraci veterinárního léčivého přípravku - registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele | 52 400 Kč |
+> | RN-D – 53 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 9 800 Kč |
+> | RN – 04 | Žádost o registraci veterinárního léčivého přípravku - hybridní registrace, tj. registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele s údaji nad rámec zásadní podobnosti (národní registrace) | 75 900 Kč |
+> | RN-D – 54 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 19 600 Kč |
+> | RN – 05 | Vícenásobná žádost o registraci zcela totožného veterinárního léčivého přípravku pod jiným názvem (opakování registrace veterinárního léčivého přípravku pod jiným názvem a případně pro jiného držitele - duplikát či kopie) | 17 600 Kč |
+> | RN-D – 55 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 4 900 Kč |
+> | RN – 06 | Žádost o registraci veterinárního léčivého přípravku - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace veterinárního léčivého přípravku pro více než jednu vlastnost (např. síla, léková forma, přidání cílového druhu potravinového zvířete) | 58 800 Kč |
+> | RN-D– 56 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 7 300 Kč |
+> | RN – 07 | Žádost o registraci veterinárního léčivého přípravku - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace veterinárního léčivého přípravku o maximálně jednu vlastnost (např. síla, léková forma, přidání cílového druhu potravinového zvířete)) | 31 800 Kč |
+> | RN-D – 57 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 4 900 Kč |
+> | RN – 08 | Žádost o registraci veterinárního léčivého přípravku - registrace homeopatika zjednodušeným postupem | 48 500 Kč |
+> | RN-D – 58 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 9 800 Kč |
+> | RN – 09 | Žádost o registraci homeopatického veterinárního léčivého přípravku - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití homeopatického veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace (národní registrace) | 25 000 Kč |
+> | RN-D – 59 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 3 900 Kč |
+> | RN– 10 | Žádost o změnu registrace - typu II (národní postup) | 24 000 Kč |
+> | RN-D – 60 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 4 900 Kč |
+> | RN – 11 | Žádost o změnu registrace - typu IA (národní postup) | 3 900 Kč |
+> | RN – 43 | Žádost o změnu registrace - typu IB (národní postup) | 5 900 Kč |
+> | RN – 12 | Žádost o prodloužení registrace veterinárního léčivého přípravku - všechny léčivé přípravky kromě homeopatik (národní postup) | 43 600 Kč |
+> | RN-D – 62 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 14 700 Kč |
+> | RN – 13 | Žádost o prodloužení registrace veterinárního léčivého přípravku - homeopatika (národní postup) | 23 500 Kč |
+> | RN-D – 63 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 4 900 Kč |
+> | RN – 14 | Žádost o převod registrace veterinárního léčivého přípravku na jiného držitele | 4 900 Kč |
+> | R – 15 | Žádost o zrušení registrace VLP - bez dalších požadavků | není úhrada |
+> | RN – 16 | Žádost o zrušení registrace veterinárního léčivého přípravku - s požadavkem postupného doprodeje | 2 900 Kč |
+> | | Česká republika jako referenční členský stát | |
+> | RRMS/NR – 17a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - samostatná registrace podložená úplnými experimentálními nebo literárními údaji. Případ, kdy veterinární léčivý přípravek není v České republice registrován a v proceduře je zahrnuto max. 5 CMS. | 197 800 Kč |
+> | RRMS/NR – 17b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - samostatná registrace podložená úplnými experimentálními nebo literárními údaji. Případ, kdy veterinární léčivý přípravek není v České republice registrován a v proceduře je zahrnuto max. 6-15 CMS. | 227 200 Kč |
+> | RRMS/NR – 17c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - samostatná registrace podložená úplnými experimentálními nebo literárními údaji. Případ, kdy veterinární léčivý přípravek není v České republice registrován a v proceduře je zahrnuto více než 15 CMS. | 256 500 Kč |
+> | RRMS/NR-D – 67 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 24 500 Kč |
+> | RRMS/R – 18a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - samostatná registrace podložená úplnými experimentálními nebo literárními údaji. Případ, kdy veterinární léčivý přípravek má v České republice platnou registraci a v proceduře je zahrnuto max. 5 CMS. | 107 700 Kč |
+> | RRMS/R – 18b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - samostatná registrace podložená úplnými experimentálními nebo literárními údaji. Případ, kdy veterinární léčivý přípravek má v České republice platnou registraci a v proceduře je zahrnuto max. 6-15 CMS. | 137 100 Kč |
+> | RRMS/R – 18c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - samostatná registrace podložená úplnými experimentálními nebo literárními údaji. Případ, kdy veterinární léčivý přípravek má v České republice platnou registraci a v proceduře je zahrnuto více než 15 CMS. | 166 500 Kč |
+> | RRMS/R-D – 68 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 14 700 Kč |
+> | RRMS/NR – 19a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele. Případ, kdy veterinární léčivý přípravek není v České republice registrován a v proceduře je zahrnuto max. 5 CMS. | 102 300 Kč |
+> | RRMS/NR – 19b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele. Případ, kdy veterinární léčivý přípravek není v České republice registrován a v proceduře je zahrnuto max. 6-15 CMS. | 117 000 Kč |
+> | RRMS/NR – 19c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele. Případ, kdy veterinární léčivý přípravek není v České republice registrován a v proceduře je zahrnuto více než 15 CMS. | 131 700 Kč |
+> | RRMS/NR-D – 69 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 9 800 Kč |
+> | RRMS/R – 20a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele. Případ, kdy veterinární léčivý přípravek má v České republice platnou registraci a v proceduře je zahrnuto max. 5 CMS. | 78 300 Kč |
+> | RRMS/R – 20b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele. Případ, kdy veterinární léčivý přípravek má v České republice platnou registraci a v proceduře je zahrnuto max. 6-15 CMS. | 93 000 Kč |
+> | RRMS/R – 20c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele. Případ, kdy veterinární léčivý přípravek má v České republice platnou registraci a v proceduře je zahrnuto více než 15 CMS. | 107 700 Kč |
+> | RRMS/R-D – 70 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 9 800 Kč |
+> | RRMS/NR – 21a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - hybridní registrace, tj registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele s údaji nad rámec zásadní podobnosti. Případ, kdy veterinární léčivý přípravek není v České republice registrován a v proceduře je zahrnuto max. 5 CMS. | 137 600 Kč |
+> | RRMS/NR – 21b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - hybridní registrace, tj registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele s údaji nad rámec zásadní podobnosti. Případ, kdy veterinární léčivý přípravek není v České republice registrován a v proceduře je zahrnuto max. 6 - 15 CMS. | 157 200 Kč |
+> | RRMS/NR – 21c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - hybridní registrace, tj registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele s údaji nad rámec zásadní podobnosti. Případ, kdy veterinární léčivý přípravek není v České republice registrován a v proceduře je zahrnuto více než 15 CMS. | 176 700 Kč |
+> | RRMS/NR-D – 71 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 19 600 Kč |
+> | RRMS/R – 22a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - hybridní registrace, tj registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele s údaji nad rámec zásadní podobnosti. Případ, kdy veterinární léčivý přípravek má v České republice platnou registraci a v proceduře je zahrnuto max. 5 CMS. | 93 000 Kč |
+> | RRMS/R – 22b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - hybridní registrace, tj registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele s údaji nad rámec zásadní podobnosti. Případ, kdy veterinární léčivý přípravek má v České republice platnou registraci a v proceduře je zahrnuto 6 - 15 CMS. | 112 600 Kč |
+> | RRMS/R – 22c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - hybridní registrace, tj registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele s údaji nad rámec zásadní podobnosti. Případ, kdy veterinární léčivý přípravek má v České republice platnou registraci a v proceduře je zahrnuto více než 15 CMS. | 132 200 Kč |
+> | RRMS/R – 72 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 14 700 Kč |
+> | RRMS/EX – 23a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace veterinárního léčivého přípravku o maximálně jednu vlastnost (např. síla, léková forma, přidání cílového druhu potravinového zvířete) a pro případ, kdy v proceduře je zahrnuto max. 5 CMS | 73 400 Kč |
+> | RRMS/EX – 23b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace veterinárního léčivého přípravku o maximálně jednu vlastnost (např. síla, léková forma, přidání cílového druhu potravinového zvířete) a pro případ, kdy v proceduře je zahrnuto max. 6 -15 CMS | 88 100 Kč |
+> | RRMS/EX – 23c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace veterinárního léčivého přípravku o maximálně jednu vlastnost (např. síla, léková forma, přidání cílového druhu potravinového zvířete) a pro případ, kdy v proceduře je zahrnuto více než 15 CMS | 102 800 Kč |
+> | RRMS/EX-D – 73 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 7 300 Kč |
+> | RRMS/EX – 42a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace veterinárního léčivého přípravku o více než jednu vlastnost (např. síla, léková forma, přidání cílového druhu potravinového zvířete) a pro případ, kdy v proceduře je zahrnuto max. 5 CMS | 97 900 Kč |
+> | RRMS/EX – 42b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace veterinárního léčivého přípravku o více než jednu vlastnost (např. síla, léková forma, přidání cílového druhu potravinového zvířete) a pro případ, kdy v proceduře je zahrnuto max. 6 - 15 CMS | 112 600 Kč |
+> | RRMS/EX – 42c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace veterinárního léčivého přípravku o více než jednu vlastnost (např. síla, léková forma, přidání cílového druhu potravinového zvířete) a pro případ, kdy v proceduře je zahrnuto více než 15 CMS | 127 300 Kč |
+> | RRMS/EX-D – 82 | Další úkony, které jsou prováděny pouze v případech, kdy jsou předkládány žádosti, které neobsahují údaje a dokumentaci (registrační dokumentaci), které odpovídají platným požadavkům | 7 300 Kč |
+> | RRMS/CC – 24a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - vícenásobná žádost o registraci zcela totožného veterinárního léčivého přípravku pod jiným názvem (opakování registrace veterinárního léčivého přípravku pod jiným názvem a případně pro jiného držitele - duplikát či kopie). Případ, kdy v proceduře je zahrnuto max. 5 CMS. | 31 800 Kč |
+> | RRMS/CC – 24b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - vícenásobná žádost o registraci zcela totožného veterinárního léčivého přípravku pod jiným názvem (opakování registrace veterinárního léčivého přípravku pod jiným názvem a případně pro jiného držitele - duplikát či kopie). Případ, kdy v proceduře je zahrnuto max. 6 - 15 CMS. | 41 600 Kč |
+> | RRMS/CC – 24c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - vícenásobná žádost o registraci zcela totožného veterinárního léčivého přípravku pod jiným názvem (opakování registrace veterinárního léčivého přípravku pod jiným názvem a případně pro jiného držitele - duplikát či kopie). Případ, kdy v proceduře je zahrnuto více než 15 CMS. | 46 500 Kč |
+> | RRMS/RU – 25a | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - opakování postupu vzájemného uznání pro veterinární léčivý přípravek již registrovaný na základě postupu vzájemného uznání pro maximálně 5 nových CMS | 68 500 Kč |
+> | RRMS/RU – 25b | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - opakování postupu vzájemného uznání pro veterinární léčivý přípravek již registrovaný na základě postupu vzájemného uznání pro maximálně 6 - 15 nových CMS | 78 300 Kč |
+> | RRMS/RU – 25c | Žádost o zahájení postupu vzájemného uznání registrace s Českou republikou jako referenčním členským státem - opakování postupu vzájemného uznání pro veterinární léčivý přípravek již registrovaný na základě postupu vzájemného uznání pro více než 15 nových CMS | 83 200 Kč |
+> | RRMS/ZII – 26a | Žádost o změnu registrace typu II v rámci postupu vzájemného uznání s Českou republikou jako referenčním členským státem pro maximálně 5 CMS | 28 400 Kč |
+> | RRMS/ZII – 26b | Žádost o změnu registrace typu II v rámci postupu vzájemného uznání s Českou republikou jako referenčním členským státem pro maximálně 6 - 15 CMS | 30 800 Kč |
+> | RRMS/ZII – 26c | Žádost o změnu registrace typu II v rámci postupu vzájemného uznání s Českou republikou jako referenčním členským státem pro více než 15 CMS | 33 300 Kč |
+> | RRMS/ZIB – 27 | Žádost o změnu registrace typu IB v rámci postupu vzájemného uznání s Českou republikou jako referenčním členským státem | 6 400 Kč |
+> | RRMS/ZIA – 28 | Žádost o změnu registrace typu IA v rámci postupu vzájemného uznání s Českou republikou jako referenčním členským státem | 3 900 Kč |
+> | RRMS/PR – 29 | Žádost o prodloužení registrace v rámci postupu vzájemného uznání s Českou republikou jako referenčním členským státem | 89 100 Kč |
+> | | Česká republika jako příslušný členský stát (CMS) | |
+> | RCMS – 30 | Žádost o uznání rozhodnutí o registraci vydaného pro léčivý přípravek příslušným orgánem jiného členského státu - samostatná registrace podložená úplnými experimentálními nebo literárními údaji | 65 100 Kč |
+> | RCMS – 31 | Žádost o uznání rozhodnutí o registraci vydaného pro léčivý přípravek příslušným orgánem jiného členského státu - registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele. | 38 200 Kč |
+> | RCMS – 32 | Žádost o uznání rozhodnutí o registraci vydaného pro léčivý přípravek příslušným orgánem jiného členského státu - hybridní registrace, tj registrace předkládaná na základě neúplné dokumentace s odkazem na registraci originálního přípravku po uplynutí délky ochrany dat (generická žádost) či na základě informovaného souhlasu jiného držitele s údaji nad rámec zásadní podobnosti. | 55 300 Kč |
+> | RCMS – 33 | Žádost o uznání rozhodnutí o registraci vydaného pro léčivý přípravek příslušným orgánem jiného členského státu - ve stanovených případech, kdy s ohledem na významnou změnu povahy, vlastností nebo způsobu použití veterinárního léčivého přípravku nelze požádat o změnu registrace příslušného přípravku - rozšíření registrace veterinárního léčivého přípravku. | 21 100 Kč |
+> | RCMS – 34 | Žádost o uznání rozhodnutí o registraci vydaného pro léčivý přípravek příslušným orgánem jiného členského státu - vícenásobná žádost o registraci zcela totožného veterinárního léčivého přípravku pod jiným názvem (opakování registrace veterinárního léčivého přípravku pod jiným názvem a případně pro jiného držitele - duplikát či kopie). | 8 800 Kč |
+> | RCMS/ZII– 35 | Žádost o změnu registrace typu II v rámci postupu vzájemného uznání rozhodnutí vydaného pro léčivý přípravek příslušným orgánem jiného členského státu | 16 600 Kč |
+> | RCMS/ZIB – 36 | Žádost o změnu registrace typu IB v rámci postupu vzájemného uznání rozhodnutí vydaného pro léčivý přípravek příslušným orgánem jiného členského státu | 2 900 Kč |
+> | RCMS/ZIA – 37 | Žádost o změnu registrace typu IA v rámci postupu vzájemného uznání rozhodnutí vydaného pro léčivý přípravek příslušným orgánem jiného členského státu | 2 900 Kč |
+> | RCMS/PR – 38 | Žádost o prodloužení registrace v rámci postupu vzájemného uznání rozhodnutí vydaného pro léčivý přípravek příslušným orgánem jiného členského státu | 35 300 Kč |
+> | | Souběžný dovoz | |
+> | RSD – 39 | Žádost o povolení souběžného dovozu veterinárního léčivého přípravku | 14 700 Kč |
+> | RSD – 40 | Žádost o prodloužení platnosti rozhodnutí o povolení souběžného dovozu veterinárního léčivého přípravku | 9 300 Kč |
+> | | Vydání certifikátu pro léčivý přípravek | |
+> | RC – 41 | Žádost o vydání certifikátu pro léčivý přípravek v souladu se schématem WHO | 1 200 Kč“. |
+
+63\. V příloze č. 2 části A se za položku s kódem I-05 vkládá položka s kódem I-27, která zní:
+
+> | „I-27 | Žádost o změnu povolení k výrobě veterinárních léčivých přípravků – přidání skladu výrobce“. | | 8 400 Kč |
+> |---|---|---|---|
+
+64\. V příloze č. 2 části A se za položku s kódem I-25 vkládají položky s kódy I-28 a I-29, které znějí:
+
+> | „I-28 | Žádost o povolení k výrobě veterinárních léčivých přípravků – pro rozsah propouštění šarží | | 17 700 Kč |
+> |---|---|---|---|
+> | I-29 | Žádost o povolení k výrobě veterinárních léčivých přípravků nebo o změnu v povolení – pro rozsah propouštění šarží – každé další místo propouštění šarží/léková forma“. | | 8 400 Kč |
+
+65\. V příloze č. 2 části A položce s kódem I-2 se ve sloupci „Úhrada“ částka „8 400 Kč“ nahrazuje slovy „8 400 Kč + náhrada cestovních a pobytových výdajů“.
+
+66\. V příloze č. 2 části A položce s kódem L-0 se ve sloupci „Úhrada“ částka „700 Kč“ nahrazuje částkou „1 500 Kč“.
+
+67\. V příloze č. 2 části A se za položku s kódem L-02 vkládají položky s kódy L-03 až L-05, které znějí:
+
+> | „L-03 | Uvolnění šarže veterinárního léčivého přípravku na základě posouzení záznamů o výrobě, bez laboratorního rozboru – s předloženým atestem členského státu Evropské unie – OBPR | | 500 Kč |
+> |---|---|---|---|
+> | L-04 | Uvolnění šarže veterinárního léčivého přípravku na základě posouzení záznamů o výrobě, bez laboratorního rozboru – bez doložení atestu členského státu Evropské unie – OBPR | | 1 500 Kč |
+> | L-05 | Laboratorní rozbor na žádost | | Náhrada podle užitých metod (část B této přílohy)“. |
+
+68\. V příloze č. 2 části A se slova „ČINNOSTI V RÁMCI EVROPSKÝCH SPOLEČENSTVÍ“ nahrazují slovy „ČINNOSTI V RÁMCI EVROPSKÉ UNIE“.
+
+69\. V příloze č. 2 části A se za položku s kódem E-01 vkládá položka s kódem E-02, která zní:
+
+> | „E-02 | Odborné úkony provedené na žádost Evropského ředitelství pro kvalitu léčiv a zdravotní péče (EDQM) | V souladu se smluvním ujednáním mezi Veterinárním ústavem a EDQM“. |
+> |---|---|---|
+
+70\. V příloze č. 2 část B zní:
+
+> „B. Sazebník náhrad výdajů za laboratorní rozbory léčiv a pomocných látek vykonávané v působnosti Veterinárního ústavu:
+
+> | Položka | Zkouška | Úhrada |
+> |---|---|---|
+> | | FYZIKÁLNĚ – CHEMICKÉ ZKOUŠKY | |
+> | 1 | Vzhled | 250 Kč |
+> | 2 | Stanovení velikosti částic | |
+> | 2a | Mikroskopicky | 1 800 Kč |
+> | 2b | sítováním - 1 síto | 1 300 Kč |
+> | 2c | za každé další síto se přičítá k položce 2b | 220 Kč |
+> | 3 | Vzduchotěsnost | 290 Kč |
+> | 4 | Stanovení rozpustnosti | 450 Kč |
+> | 5 | Ztráta sušením | 1 800 Kč |
+> | 6 | Karl Fisher titrace | 2 500 Kč |
+> | 7 | Stanovení sušiny, odparku | 1 000 Kč |
+> | 8 | Stanovení popela | |
+> | 8a | celkový popel | 2 600 Kč |
+> | 8b | síranový popel příp. složitější zpopelnění | 2 600 Kč |
+> | 9 | Stanovení teploty tání instrumentálně | 850 Kč |
+> | 10 | Stanovení hustoty | |
+> | 10a | Pyknometricky | 1 010 Kč |
+> | 10b | Hustoměrem | 1 010 Kč |
+> | 11 | Stanovení viskosity rotačním viskosimetrem | 1 700 Kč |
+> | 12 | Stanovení indexu lomu (refraktometrie) | 1 000 Kč |
+> | 13 | Stanovení spektrofotometrické | 3 700 Kč |
+> | 14 | Titrační stanovení | 2 000 Kč |
+> | 15 | Měření pH (elektrometricky) | 810 Kč |
+> | 16 | Měření elektrické vodivosti | 810 Kč |
+> | 17 | Chromatografie na tenké vrstvě | 2 800 Kč |
+> | 18 | Chromatografie kapalinová vysokoúčinná | |
+> | 18a | 1 analyt | 6 500 Kč |
+> | 18b | 1 analyt ve dvou vzorcích | 7 980 Kč |
+> | 18c | 1 analyt ve dvou a více vzorcích položka se zvyšuje o | 1 750 Kč |
+> | 18d | 1 analyt – 3 vzorky | 9 730 Kč |
+> | 18e | 1 analyt – 4 vzorky | 11 480 Kč |
+> | 18f | 2 analyty v jednom stanovení | 8 500 Kč |
+> | 18g | 3 a více analytů v 1 stanovení | 10 600 Kč |
+> | 19 | Plynová chromatografie | 6 500 Kč |
+> | 20 | Barevné a srážecí reakce | 700 Kč |
+> | 21 | Stanovení účinnosti pepsinu | 6 000 Kč |
+> | 22 | Disoluce - UV/VIS | 6 400 Kč |
+> | 23 | Disoluce – HPLC | 7 200 Kč |
+> | 24 | Průměrná hmotnost a hmotnostní stejnoměrnost | 770 Kč |
+> | 25 | Spektrofotometrie v infračervené oblasti | 3 000 Kč |
+> | 26 | Zkoušky totožnosti iontů a skupin | 550 Kč |
+> | 27 | Zkouška rozpadavosti tablet a tobolek (bez stanovení) | |
+> | 27a | rozpadavost ve vodě | 480 Kč |
+> | 27b | rozpadavost v žaludeční šťávě | 1 300 Kč |
+> | 27c | rozpadavost v duodenální šťávě | 2 000 Kč |
+> | 28 | Zkouška na využitelný objem parenterálních přípravků | 400 Kč |
+> | | MIKROBIOLOGICKÉ A BIOLOGICKÉ ZKOUŠKY | |
+> | 29 | Zkouška na sterilitu | 7 210 Kč |
+> | 30 | Mikrobiologické zkoušení nesterilních výrobků (celkový počet živých aerobů) | |
+> | 30a | mikrobiologické zkoušení nesterilních výrobků – přípravky pro místní podání (kožní, nosní, ušní podání apod.) | 2 320 Kč |
+> | 30b | mikrobiologické zkoušení nesterilních výrobků – přípravky pro perorální podání, které neobsahují vodu | 2 390 Kč |
+> | 30c | mikrobiologické zkoušení nesterilních výrobků – přípravky obsahující suroviny přírodního původu, které nelze protimikrobně ošetřit | 3 200 Kč |
+> | 30d | mikrobiologické zkoušení nesterilních výrobků - přípravky z rostlin, k nimž se před použitím vroucí voda nepřidává | 3 400 Kč |
+> | 30e | mikrobiologické zkoušení nesterilních výrobků – přípravky z rostlin, k nimž se před použitím přidává vroucí voda | 2 390 Kč |
+> | 30f | mikrobiologické zkoušení nesterilních výrobků pro vaginální podání | 2 420 Kč |
+> | 31 | Mikrobiologické stanovení účinnosti antibiotik difúzní plotnovou metodou | 3 200 Kč |
+> | 32 | Stanovení počtu zárodků v živých bakteriálních vakcínách | 2 200 Kč |
+> | 33 | Identifikace bakteriálního kmene | 700 Kč |
+> | 34 | Vyloučení bakteriální a houbové kontaminace | 2 900 Kč |
+> | 35a | Zkouška na mykoplazmata – kultivačně | 6 890 Kč |
+> | 35b | Zkouška na mykoplazmata – PCR | 3 400 Kč |
+> | 36 | Bakteriální endotoxiny | 2 100 Kč |
+> | 37 | Stanovení účinnosti vakcíny proti vzteklině pro veterinární použití inaktivované NIH testem | 43 300 Kč |
+> | 38 | Stanovení účinnosti vakcíny proti chřipce koní na morčatech (HIT,SRH) | 18 500 Kč |
+> | 39 | Stanovení účinnosti vakcíny proti července prasat na myších – stanovením nárůstu protilátek metodou ELISA | 14 300 Kč |
+> | 40 | Stanovení účinnosti dezinfekčních přípravků suspenzní metodou měřením elektrické vodivosti vyšetřením u sbírkových kmenů | 6 260 Kč |
+> | 41 | Stanovení titru viru mikrotitrační metodou na buněčných kulturách v živých virových vakcínách - obecně (př. myxomatoza) | 10 000 Kč |
+> | 42 | Stanovení účinnosti vakcíny proti vzteklině inaktivované pro veterinární použití serologickou metodou s imunofluorescenční detekcí | 22 000 Kč |
+> | 43 | Stanovení titru viru Newcastleské nemoci drůbeže na kuřecích embryích | 11 100 Kč |
+> | 44 | Stanovení počtu hyf ve vakcínách | 1 500 Kč |
+> | 45 | Stanovení titru viru infekční bursitidy drůbeže | 10 300 Kč |
+> | 46 | Stanovení titru viru vztekliny mikrotitrační metodou | 12 200 Kč |
+
+> **PŘEZKOUŠENÍ ŠARŽÍ IMUNOLOGICKÝCH VETERINÁRNÍCH LÉČIVÝCH PŘÍPRAVKŮ**
+
+> | OC - 01 | Kontrola vakcíny proti července prasat inaktivované (vzhled, účinnost - Elisa) | 14 550 Kč |
+> |---|---|---|
+> | OC - 02 | Kontrola vakcíny proti července prasat živé (vzhled, rozpustnost, počet zárodků, čistota, typizace kmene) | 6 500 Kč |
+> | OC - 05 | Kontrola vakcíny proti vzteklině perorální pro lišky živá (vzhled, titr viru na TK) | 12 450 Kč |
+> | OC - 06 | Kontrola vakcíny proti vzteklině pro veterinární použití inaktivovaná (vzhled, účinnost) | 43 550 Kč |
+> | OC - 07 | Kontrola vakcíny proti chřipce koní (vzhled, účinnost) | 18 750 Kč |
+> | OC - 08 | Kontrola vakcíny proti vzteklině inaktivované pro veterinární použití (stanovení účinnosti sérologicky, vzhled) “. | 22 250 Kč |
+
+71\. V příloze č. 3 se částka „556 Kč“ nahrazuje částkou „1 500 Kč“ a částka „420,90 Kč“ se nahrazuje částkou „490 Kč“.
+
+## Čl. II – Přechodné ustanovení
+
+Byla-li přede dnem nabytí účinnosti této vyhlášky podána žádost o provedení odborného úkonu podle příloh č. 1 až 3 vyhlášky č. 427/2008 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, účtují se žadateli náhrady výdajů za provedení tohoto odborného úkonu podle vyhlášky č. 427/2008 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 15. října 2013.
+
+Ministr zdravotnictví:
+
+MUDr. Holcát, MBA, v. r.
+
+Ministr zemědělství:
+
+Ing. Toman, CSc., v. r.

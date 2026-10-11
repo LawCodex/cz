@@ -1,0 +1,103 @@
+---
+title: "Vyhláška č. 172/2015 Sb., o informační povinnosti příjemce potravin v místě určení"
+identifier: "172/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/172/2024-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-07-01
+effective: 2015-08-01
+last_amended: 2024-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/172"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 172/2015 Sb., o informační povinnosti příjemce potravin v místě určení
+
+172
+
+VYHLÁŠKA
+
+ze dne 1. července 2015
+
+o informační povinnosti příjemce potravin v místě určení
+
+Ministerstvo zemědělství stanoví podle § 18 odst. 1 písm. f) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 139/2014 Sb.:
+
+## § 1 – Předmět úpravy
+
+(1) Tato vyhláška upravuje v návaznosti na přímo použitelný předpis Evropské unie<sup>1</sup>) provozovateli potravinářského podniku v místě určení (dále jen „příjemce potravin v místě určení“) rozsah informačních povinností.
+
+(2) Tato vyhláška se vztahuje na
+
+a) jablka,
+
+b) brambory konzumní rané a brambory konzumní pozdní,
+
+c) mák setý<sup>5</sup>),
+
+d) doplňky stravy<sup>6</sup>),
+
+e) potraviny živočišného původu<sup>7</sup>) s výjimkou
+
+1\. čerstvých produktů rybolovu, živých mlžů, plžů, ostnokožců a pláštěnců určených pro lidskou spotřebu,
+
+2\. kolagenu a přírodních a kolagenových střev určených pro výrobu potravin,
+
+3\. medu.
+
+(3) Tato vyhláška se vztahuje pouze na případy, kdy místem určení je místo prvního příjmu včetně jakéhokoli prvního zacházení nebo manipulace na území České republiky s potravinou uvedenou v odstavci 2.
+
+## § 2 – Rozsah informačních povinností, termín a způsob předávání informací
+
+(1) Příjemce potravin z jiného členského státu Evropské unie nebo třetí země v místě určení, jde-li o potravinu uvedenou v § 1 odst. 2 písm. a) až d) a místo určení podle § 1 odst. 3, oznámí prostřednictvím informačního systému Státní zemědělské a potravinářské inspekce nejpozději 24 hodin před příchodem potravin na místo určení
+
+a) druh potraviny přicházející na místo určení,
+
+b) množství potraviny přicházející na místo určení,
+
+c) členský stát Evropské unie nebo třetí zemi, název a adresu provozovatele potravinářského podniku dodávajícího potravinu na místo určení,
+
+d) název, adresu a identifikační číslo místa určení a příjemce potraviny v místě určení a
+
+e) datum příchodu potraviny na místo určení.
+
+(2) Příjemce potravin z jiného členského státu Evropské unie v místě určení, jde-li o potravinu uvedenou v § 1 odst. 2 písm. e) a místo určení podle § 1 odst. 3, oznámí prostřednictvím informačního systému Státní veterinární správy nejpozději 24 hodin před příchodem potravin na místo určení
+
+a) druh potraviny přicházející na místo určení,
+
+b) množství potraviny přicházející na místo určení,
+
+c) fyzikální stav nebo způsob úpravy potraviny přicházející na místo určení,
+
+d) členský stát Evropské unie, název a adresu provozovatele potravinářského podniku dodávajícího potravinu na místo určení, včetně čísla schválení nebo registrace<sup>8</sup>), pokud mu bylo příslušným orgánem dozoru přiděleno,
+
+e) adresu místa určení a příjemce potraviny v místě určení, včetně čísla schválení nebo registrace, pokud mu bylo příslušným orgánem dozoru přiděleno<sup>8</sup>), a
+
+f) datum příchodu potraviny na místo určení.
+
+## § 3 – Zrušovací ustanovení
+
+Vyhláška č. 320/2014 Sb., o informační povinnosti příjemce potravin v místě určení ve vztahu k některým druhům potravin, se zrušuje.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2015.
+
+Ministr:
+
+Ing. Jurečka v. r.
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 178/2002 ze dne 28. ledna 2002, kterým se stanoví obecné zásady a požadavky potravinového práva, zřizuje se Evropský úřad pro bezpečnost potravin a stanoví postupy týkající se bezpečnosti potravin, v platném znění. 
+ Čl. 9 odst. 7 nařízení Evropského parlamentu a Rady (EU) 2017/625 ze dne 15. března 2017 o úředních kontrolách a jiných úředních činnostech prováděných s cílem zajistit uplatňování potravinového a krmivového práva a pravidel týkajících se zdraví zvířat a dobrých životních podmínek zvířat, zdraví rostlin a přípravků na ochranu rostlin, o změně nařízení Evropského parlamentu a Rady (ES) č. 999/2001, (ES) č. 396/2005, (ES) č. 1069/2009, (ES) č. 1107/2009, (EU) č. 1151/2012, (EU) č. 652/2014, (EU) 2016/429 a (EU) 2016/2031, nařízení Rady (ES) č. 1/2005 a (ES) č. 1099/2009 a směrnic Rady 98/58/ES, 1999/74/ES, 2007/43/ES, 2008/119/ES a 2008/120/ES a o zrušení nařízení Evropského parlamentu a Rady (ES) č. 854/2004 a (ES) č. 882/2004, směrnic Rady 89/608/EHS, 89/662/EHS, 90/425/EHS, 91/496/EHS, 96/23/ES, 96/93/ES a 97/78/ES a rozhodnutí Rady 92/438/EHS (nařízení o úředních kontrolách), v platném znění.
+
+<sup>5</sup>) § 12 odst. 4 vyhlášky Ministerstva zemědělství č. 329/1997 Sb., kterou se provádí § 18 písm. a), b), e), f), g) a h) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, pro škrob a výrobky ze škrobu, luštěniny a olejnatá semena, ve znění vyhlášky č. 399/2013 Sb.
+
+<sup>6</sup>) § 2 písm. g) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 139/2014 Sb.
+
+<sup>7</sup>) § 2 písm. o) zákona č. 110/1997 Sb., ve znění zákona č. 139/2014 Sb.
+
+<sup>8</sup>) Čl. 6 nařízení Evropského parlamentu a Rady (ES) č. 852/2004 ze dne 29. dubna 2004 o hygieně potravin.

@@ -1,0 +1,714 @@
+---
+title: "Vyhláška č. 88/2017 Sb., o provedení některých ustanovení zákona o vinohradnictví a vinařství"
+identifier: "88/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/88/2024-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-03-21
+effective: 2017-04-01
+last_amended: 2024-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/88"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 88/2017 Sb., o provedení některých ustanovení zákona o vinohradnictví a vinařství ve znění vyhlášky č. 305/2023 Sb."
+---
+
+# Vyhláška č. 88/2017 Sb., o provedení některých ustanovení zákona o vinohradnictví a vinařství
+
+88
+
+VYHLÁŠKA
+
+ze dne 21. března 2017
+
+o provedení některých ustanovení zákona o vinohradnictví a vinařství
+
+Ministerstvo zemědělství stanoví podle § 42 zákona č. 321/2004 Sb., o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství), ve znění zákona č. 179/2005 Sb., zákona č. 411/2005 Sb., zákona č. 215/2006 Sb., zákona č. 256/2011 Sb. a zákona č. 26/2017 Sb., (dále jen „zákon“) k provedení § 4 odst. 4 písm. d), § 6 odst. 4, § 11 odst. 3, § 12 odst. 7, § 14b odst. 2, § 16 odst. 4 a 11, § 17 odst. 1 písm. a) a c), § 17a odst. 2, § 23 odst. 14, § 26 odst. 12, § 26a, § 27 odst. 14, § 28 odst. 8, § 30 odst. 6 a § 37 odst. 10:
+
+## § 1 – Seznam odrůd pro výrobu jakostního vína stanovené oblasti
+
+[K § 4 odst. 4 písm. d) zákona]
+
+(1) Seznam moštových odrůd révy vinné, ze kterých je dovoleno vyrábět jakostní víno stanovené oblasti, je tvořen moštovými odrůdami ve Státní odrůdové knize<sup>1</sup>) nebo v Odrůdových knihách ostatních zemí Evropské unie<sup>11</sup>). Uvádí-li odrůdová kniha podle věty první synonyma názvů moštových odrůd, lze používat tato synonyma.
+
+(2) Názvy některých odrůd podle odstavce 1 lze nahradit synonymy uvedenými v příloze č. 1.
+
+(3) Názvy odrůd podle odstavce 1 lze nahradit zkratkami. Použití zkratek se týká pouze obalů, které nejsou určeny pro spotřebitele, evidenčních knih a průvodních dokladů. Seznam zkratek pro jednotlivé odrůdy je stanoven v příloze č. 2.
+
+## § 2 – Podrobnější požadavky na výrobu některých produktů a fyzikální, chemické a smyslové požadavky na jakost produktů
+
+[K § 11 odst. 3 písm. a) zákona]
+
+(1) Seznam chorob a vad vína týkající se vzhledu, barvy, vůně, chuti a perlení vína je uveden v příloze č. 3.
+
+(2) Smyslové požadavky na jakost vína, s výjimkou šumivého vína, perlivého vína, likérového vína, odalkoholizovaného vína a nízkoalkoholického vína, jsou uvedeny v příloze č. 4.
+
+(3) Smyslové požadavky na jakost perlivého vína a šumivého vína jsou uvedeny v příloze č. 5.
+
+(4) Smyslové požadavky na jakost likérového vína jsou uvedeny v příloze č. 6.
+
+(5) Smyslové požadavky na jakost odalkoholizovaného vína a nízkoalkoholického vína jsou uvedeny v příloze č. 8.
+
+(6) Fyzikální a chemické požadavky na jakost vína, s výjimkou odalkoholizovaného vína a nízkoalkoholického vína, jsou uvedeny v příloze č. 9.
+
+## § 3
+
+(1) U vína s chráněným označením původu a chráněným zeměpisným označením vyrobeného z hroznů révy vinné sklizených v České republice lze zvýšit celkový obsah alkoholu na 15 % objemových<sup>2</sup>).
+
+(2) U jakostních vín s přívlastkem výběr z bobulí nebo ledové víno nesmí obsah těkavých kyselin překročit 30 miliekvivalentů na litr vína. U jakostních vín s přívlastkem výběr z cibéb nebo slámové víno nesmí obsah těkavých kyselin překročit 35 miliekvivalentů na litr vína<sup>3</sup>).
+
+## § 4 – Odstranění vedlejších produktů vznikajících při zpracování nebo výrobě produktů
+
+[K § 11 odst. 3 písm. b) zákona]
+
+(1) Odstranění vedlejších produktů vznikajících při zpracování nebo výrobě produktů se provádí
+
+a) jejich prodejem,
+
+b) jejich destilací,
+
+c) jejich likvidací ve vinici, nebo
+
+d) jiným prokazatelným způsobem.
+
+(2) O množství vedlejších produktů vznikajících při zpracování nebo výrobě produktů provede výrobce záznam do evidenční knihy podle přílohy č. 16 a přílohy č. 22, 23 nebo 24. V případě odstranění vedlejších produktů podle odstavce 1 písm. a) nebo b) přiloží doklad prokazující, že došlo tímto způsobem k odstranění vedlejších produktů.
+
+(3) Minimální obsah alkoholu ve vedlejších produktech, zejména matolinách a vinných kalech, musí činit minimálně 5 % z objemu celkového alkoholu obsaženého v získaném víně.
+
+## § 5 – Hodnoty přípustných technologických ztrát při výrobě produktů
+
+(K § 12 odst. 7 zákona)
+
+(1) Přípustné technologické ztráty při výrobě produktů (dále jen „normy ztrát“) se vztahují k manipulovanému množství, přičemž základem je objem produktu po zkvašení před prvním stáčením z kvasničných kalů.
+
+(2) Normy ztrát při výrobě produktů podle jednotlivých operací s přihlédnutím k technologii výroby produktu jsou stanoveny takto:
+
+a) první stáčení
+
+1\. bez použití bentonitu do 6,0 %,
+
+2\. s použitím bentonitu do 8,0 %,
+
+b) druhé stáčení
+
+1\. bez použití bentonitu do 1,5 %,
+
+2\. s použitím bentonitu do 2,0 %,
+
+c) školení, přičemž školením se rozumí technologický postup při výrobě vína vedoucí k odstranění nežádoucích látek a zvýšení jakosti vína,
+
+1\. bez použití bentonitu do 0,5 %,
+
+2\. s použitím bentonitu do 1,0 %,
+
+d) filtrace do 1 %,
+
+e) plnění produktu do obalu do 2 %,
+
+f) manipulační ztráty do 1 %,
+
+g) skladovací ztráty (odpar) pro dřevěné sudy za každý měsíc do 0,4 %.
+
+(3) Souhrn norem ztrát z jednotlivých výrobních operací podle odstavce 2 písm. a) až f) nesmí překročit celkovou povolenou výši ztrát 12,5 %.
+
+(4) Pro samostatné hodnocení jednotlivých operací se při
+
+a) prvním stáčení produktu vyrobené množství produktu před prvním stáčením násobí normou ztrát pro první stáčení,
+
+b) druhém stáčení produktu vyrobené množství produktu před druhým stáčením násobí normou ztrát pro druhé stáčení,
+
+c) školení množství školeného produktu násobí normou ztrát pro školení,
+
+d) filtraci násobí filtrované množství produktu normou ztrát pro filtraci,
+
+e) plnění produktu násobí množství produktu předaného k plnění výše uvedenou normou ztrát pro daný typ plnění,
+
+f) manipulaci bere pro výpočet normy ztrát za základ objem manipulace při přetáčení, mísení a dalších činnostech, provedených mimo první nebo druhé stáčení kalů,
+
+g) skladování bere pro výpočet normy ztrát za základ počáteční zásoba produktu po druhém stáčení.
+
+(5) Ustanovení odstavců 1 až 4 se nevztahují na produkty vyrobené v rámci výzkumných a šlechtitelských úkolů a uložené do nádob s obsahem do 60 litrů.
+
+## § 6 – Lhůty pro sdělení výsledku rozborů u nebaleného vína
+
+(K § 14b zákona)
+
+Lhůty pro doručení výsledků rozborů nebaleného vína podle § 14b zákona jsou stanoveny v příloze č. 10. Při kombinaci více rozborů platí lhůta delší. Za skutečnost určující počátek lhůty se považuje odebrání vzorku nebaleného vína.
+
+## § 7 – Podrobnosti týkající se označování produktů
+
+(K § 16 odst. 11 zákona)
+
+(1) Víno s chráněným označením původu nebo chráněným zeměpisným označením lze označit slovem „barrique“, pokud takové víno zrálo nejméně 6 měsíců v dubovém sudu o objemu větším než 210 litrů a menším než 250 litrů, který nebyl používán pro výrobu vína déle než 36 měsíců. Toto označení lze doplnit údajem o době zrání vína v měsících nebo rocích.
+
+(2) Víno vyrobené v České republice z hroznů sklizených v České republice s chráněným označením původu nebo s chráněným zeměpisným označením lze označit tradičním výrazem
+
+a) „růžák“ nebo „ryšák“, pokud je barva vína meruňková, růžová, lososová nebo tmavorůžová a pokud bylo víno vyrobeno výhradně ze směsi
+
+1\. modrých a bílých nebo červených vinných hroznů, přičemž je přípustná i směs modrých, bílých a červených vinných hroznů, nebo
+
+2\. hroznového moštu z modrých a bílých nebo červených vinných hroznů, přičemž je přípustná i směs modrých, bílých a červených vinných hroznů;
+
+b) „archivní víno“, pokud je víno uváděno do oběhu nejméně 3 roky po roku sklizně,
+
+c) „mladé víno“, pokud je víno nabízeno ke spotřebě konečnému spotřebiteli nejpozději do 30. dubna následujícího roku po roce sklizně vinných hroznů použitých při výrobě tohoto vína,
+
+d) „panenská sklizeň“ nebo „panenské víno“, pokud víno pochází z první sklizně vinice; za první sklizeň vinice se považuje sklizeň uskutečněná nejdříve ve druhém roce po výsadbě vinice,
+
+e) „zrálo na kvasnicích“ nebo „školeno na kvasnicích“ anebo „krášleno na kvasnicích“ nebo „sur lie“, pokud víno při výrobě bylo ponecháno na kvasnicích po dobu nejméně 6 měsíců,
+
+f) „klaret“, pokud se jedná o bílé víno vyrobené z modrých vinných hroznů bez nakvášení,
+
+g) „labín“, pokud se jedná o víno vyrobené z modrých vinných hroznů bez nakvášení ve vinařské oblasti Čechy.
+
+(3) Víno vyrobené v České republice z hroznů sklizených v České republice s chráněným označením původu lze označit tradičním výrazem
+
+a) „rezerva“, pokud víno, s výjimkou šumivého a perlivého vína, zrálo nejméně 24 měsíců, z toho v dřevěném sudu nejméně 12 měsíců u červeného vína a 6 měsíců u bílého nebo růžového vína a zbytek uvedené doby v lahvích,
+
+b) „rezerva“, pokud jakostní šumivé víno nebo jakostní šumivé víno stanovené oblasti nebo pěstitelský sekt, vyrobené tradiční metodou druhotného kvašení v lahvi, zrálo nejméně 18 měsíců v lahvi na kalech,
+
+c) „grand rezerva“, pokud jakostní šumivé víno nebo jakostní šumivé víno stanovené oblasti nebo pěstitelský sekt, vyrobené tradiční metodou druhotného kvašení v lahvi, zrálo nejméně 30 měsíců v lahvi na kalech,
+
+d) „botrytický sběr“ nebo „premium“, pokud jakostní víno s přívlastkem druhů výběr z hroznů nebo výběr z bobulí nebo výběr z cibéb bylo vyrobeno z hroznů, které byly aspoň z 30 % napadeny ušlechtilou plísní šedou Botrytis cinerea P.
+
+(4) Víno s chráněným označením původu nebo chráněným zeměpisným označením lze označit slovy
+
+a) „zrálo v sudu“, pokud víno zrálo v dřevěném sudu po dobu nejméně 6 měsíců, dále lze uvést druh dřeva, ve kterém takové víno zrálo<sup>12</sup>),
+
+b) „kvašeno v sudu“ nebo „školeno v sudu“, pokud takové víno bylo kvašeno nebo školeno v dřevěném sudu, dále lze uvést druh dřeva, ve kterém bylo takové víno kvašeno nebo školeno<sup>12</sup>).
+
+(5) Víno lze označit údajem o barvě vína slovy „bílé“, „růžové“ nebo „červené“; označení barvy růžové lze nahradit označením „rose“ nebo „rosé“. Vína s chráněným označením původu nebo vína s chráněným zeměpisným označením nelze označit jako „rose“, „rosé“ nebo „růžové“, pokud vznikla mísením bílého a červeného vína.
+
+(6) Víno s chráněným zeměpisným označením nebo víno s názvem odrůdy nebo označením ročníku nebo víno bez názvu odrůdy nebo označení ročníku původem z České republiky lze označit údajem o barvě slovy „Oranžové“, případně „Orange“; pokud víno prošlo dlouhou macerací, drobné odchylky ve vzhledu jsou povoleny, a to s ohledem k deklarované technologii. U těchto vín není přípustné zvyšování přirozeného obsahu alkoholu, slazení a přidávání jiných činidel a přípravků pro úpravu moštu nebo vína s výjimkou bentonitu a konzervantu oxidu siřičitého; maximální přípustný obsah zbytkového cukru je 4 g/l; maximální přípustný obsah celkového oxidu siřičitého je 70 mg/l. Užití názvů, jako je „natural“ nebo „natural wine“ nebo „naturální víno“ nebo „živé víno“ a dalších výrazů majících podobný význam, je zakázáno.
+
+(7) Šumivé nebo perlivé víno s chráněným zeměpisným označením nebo šumivé nebo perlivé víno s názvem odrůdy nebo označením ročníku nebo šumivé nebo perlivé víno bez názvu odrůdy nebo označení ročníku původem z České republiky, lze označit výrazem „pétillant naturel“, případně „pét nat“, případně „PET NAT“, pokud je proces primárního kvašení dokončen v lahvi bez přídavku tirážního likéru. Drobné odchylky ve vzhledu jsou povoleny, a to s ohledem k deklarované technologii. Užití názvů, jako je „natural“ nebo „natural wine“ nebo „naturální víno“ nebo „živé víno“ a dalších výrazů majících podobný význam, je zakázáno.
+
+(8) Víno s chráněným zeměpisným označením nebo víno s názvem odrůdy nebo označením ročníku nebo víno bez názvu odrůdy nebo označení ročníku původem z České republiky lze označit údajem „Nefiltrované víno“, případně „Nefiltrováno“ s ohledem k deklarované technologii bez použití ostré filtrace, tj. pod 20 mikrometrů, přičemž drobné odchylky ve vzhledu jsou povoleny, a to s ohledem k deklarované technologii. U těchto vín není přípustné zvyšování přirozeného obsahu alkoholu a slazení; maximální přípustný obsah zbytkového cukru je 4 g/l; maximální přípustný obsah celkového oxidu siřičitého je 70 mg/l. Užití názvů, jako je „natural“ nebo „natural wine“ nebo „naturální víno“ nebo „živé víno“ a dalších výrazů majících podobný význam, je zakázáno.
+
+(9) Tam, kde je dovoleno v označení vína uvádět název odrůdy nebo jeho synonymum, uvede se tento název nebo jeho synonymum v souladu s ustanovením § 1 odst. 2 nebo podle příloh č. 1 a 11.
+
+(10) V označení produktu v obalu určeném pro spotřebitele lze uvést informace pro spotřebitele týkající se
+
+a) způsobu výroby produktu,
+
+b) charakteristických smyslových nebo analytických vlastností produktu,
+
+c) historie produktu, jeho výrobce nebo osob, které se podílely na uvádění produktu do oběhu, nebo činností v odvětví vinohradnictví nebo vinařství vážících se k území České republiky, pokud je produkt vyroben z hroznů sklizených na území České republiky,
+
+d) přírodních nebo technických podmínek, které dávají základní charakteristické vlastnosti tomuto produktu,
+
+e) vyzrálosti produktu dosažené skladováním produktu,
+
+f) doporučení, ke kterému jídlu je vhodné produkt podávat,
+
+g) způsobu, jakým je vhodné produkt předložit ke spotřebě,
+
+h) způsobu skladování produktu,
+
+i) označení „víno ze šlechtitelských a výzkumných ploch“, pokud víno pochází z vinic, kde se provádí uznávací řízení ke sklizni množitelských materiálů révy vinné nebo se řeší výzkumný úkol financovaný grantem z veřejných prostředků.
+
+(11) V označení produktu v obalu určeném pro spotřebitele lze uvést vyobrazení nebo obrazové připomenutí místa nebo objektu nacházejícího se na území České republiky nebo symbolu, znaku, erbu nebo obdobného prvku vážícího se k území České republiky, pokud je
+
+a) produkt vyroben z hroznů sklizených na území České republiky a
+
+b) jeho výroba proběhla na území České republiky v místě majícím blízký geografický nebo historický vztah k vyobrazenému nebo připomenutému místu, objektu nebo prvku nebo jeho výrobce má blízký geografický nebo historický vztah k vyobrazenému nebo připomenutému místu, objektu nebo prvku.
+
+(12) Názvy tradičních výrazů lze nahradit zkratkami. Použití zkratek se týká pouze obalů, které nejsou určeny pro spotřebitele. Seznam zkratek tradičních výrazů je stanoven v příloze č. 2.
+
+## § 8 – Zemské víno
+
+[K § 17 odst. 1 písm. a) a c) zákona]
+
+(1) Požadavky na jakost zemského vína vyplývají ze zeměpisného označení:
+
+a) české zemské víno, nebo
+
+b) moravské zemské víno.
+
+(2) Zemské víno lze vyrábět z odrůd, ze kterých je dovoleno vyrábět jakostní víno stanovené oblasti podle § 1 odst. 1, a dále z odrůd uvedených v příloze č. 11.
+
+## § 9 – Rozsah charakteristiky vlastností vína uvedeného v žádosti o povolení přiznávat označení vína originální certifikace
+
+(K § 23 odst. 14 zákona)
+
+Charakteristika vína uvedeného v žádosti podle § 23 odst. 5 písm. d) zákona musí obsahovat smyslové požadavky na jakost vína a chemické a fyzikální požadavky na jakost vína, a to nejméně v rozsahu potřebném pro hodnocení jakostního vína stanovené oblasti podle § 2 tak, aby tato charakteristika vína definovala odlišnost vína originální certifikace.
+
+## § 10 – Způsob odběru, velikost vzorků vína a přípustné odchylky od výsledků rozboru z laboratoře
+
+(K § 26 odst. 12 zákona)
+
+(1) Odběr vzorků vína podle § 26 odst. 4 zákona se provádí tak, že se odebere
+
+a) dílčí vzorek A pro potřebu rozboru laboratoře - jedna láhev o minimálním objemu 1 litr, u vína již nalahvovaného tolik lahví, aby jejich celkový objem činil nejméně 1 litr,
+
+b) dílčí vzorek B pro smyslové hodnocení vína - jedna láhev o minimálním objemu 0,5 litru, u vína již nalahvovaného tolik lahví, aby jejich celkový objem činil nejméně 0,5 litru,
+
+c) dílčí vzorek C k uložení jako referenční vzorek u Inspekce k případnému prověření výsledků rozborů z laboratoře, nebo k ověření identity zatřiďované šarže vína, nebo jako záložní vzorek ke smyslovému hodnocení vína v případě, že by byl dílčí vzorek B nevyhovující po korku - jedna láhev o minimálním objemu 1 litr, u vína již nalahvovaného tolik lahví, aby jejich celkový objem činil nejméně 1 litr.
+
+(2) Předkládané dílčí vzorky vína A, B a C musí být odebrány takovým způsobem, aby byly reprezentativní pro celou šarži vína předkládanou k zatřídění.
+
+(3) Hodnoty skutečného obsahu alkoholu, celkového obsahu alkoholu a obsahu bezcukerného extraktu u vína uváděného do oběhu musí odpovídat hodnotám zjištěným při zatřídění vína vyrobeného z vinných hroznů vypěstovaných na území České republiky. Přípustné jsou následující odchylky, které zahrnují rozšířené nejistoty stanovení pro použité metody rozboru u
+
+a) skutečného obsahu alkoholu +/- 0,9 % objemových, u vína skladovaného v lahvích déle než 3 roky je přípustná odchylka +/- 1,2 % objemových,
+
+b) celkového obsahu alkoholu +/- 0,9 % objemových, u vína skladovaného v lahvích déle než 3 roky je přípustná odchylka +/- 1,2 % objemových,
+
+c) obsahu bezcukerného extraktu +/- 2,5 g na litr.
+
+## § 11 – Náležitosti a doba platnosti průvodního dokladu pro přepravu vinařského produktu, která se uskutečňuje výlučně na území České republiky
+
+(K § 27 odst. 14 zákona)
+
+(1) Osoba, která má sídlo nebo bydliště na celním území Evropské unie a přepravuje nebo nechává přepravovat vinařský produkt pouze na území České republiky (dále jen „přepravce“), může při této přepravě místo průvodních dokladů podle čl. 10 odst. 1 nařízení Komise (EU) 2018/273<sup>4</sup>) použít průvodní doklad, který obsahuje tyto údaje:
+
+a) obchodní firmu anebo jméno nebo název, adresu sídla nebo bydliště a identifikační číslo osoby, která má sídlo nebo bydliště na celním území Evropské unie a odesílá nebo nechává odeslat vinařský produkt (dále jen „odesílatel“),
+
+b) adresu místa odeslání, pokud se liší od adresy podle písmene a),
+
+c) obchodní firmu anebo jméno nebo název, adresu sídla nebo bydliště a identifikační číslo osoby, která má sídlo nebo bydliště na celním území Evropské unie a které je odesílán vinařský produkt (dále jen „příjemce“), pokud jde o osobu odlišnou od odesílatele,
+
+d) adresu cílového místa dodání vinařského produktu, pokud jde o adresu odlišnou od adresy podle písmene c), popřípadě od adresy podle písmene a),
+
+e) obchodní firmu anebo jméno nebo název, adresu sídla nebo bydliště a identifikační číslo osoby přepravce vinařského produktu, pokud jde o osobu odlišnou od odesílatele nebo příjemce,
+
+f) datum zahájení přepravy vinařského produktu,
+
+g) datum ukončení přepravy vinařského produktu, pokud je odlišné od data podle písmene f),
+
+h) číslo průvodního dokladu, které jednoznačně odlišuje jednotlivé přepravy vinařských produktů příslušného odesílatele,
+
+i) označení druhu vinařského produktu podle přílohy I části XII nebo přílohy VII části II nařízení Evropského parlamentu a Rady (EU) č. 1308/2013,
+
+j) identifikaci vinařského produktu, která spočívá v označení
+
+1\. moštové odrůdy nebo uvedení tradičního výrazu, jde-li o víno v obalu určeném pro spotřebitele, označeném údaji podle čl. 118 a 119 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013 a opatřeném jednorázovým uzávěrem, pokud je toto víno některým z těchto údajů označeno, nebo
+
+2\. provenience, jde-li o jiný vinařský produkt než podle bodu 1,
+
+k) označení šarže<sup>5</sup>),
+
+l) jednoznačné identifikační údaje stáčírny nebo výrobce, pokud jsou odlišné od údajů o odesílateli podle písmene a),
+
+m) množství přepravovaného vinařského produktu podle přílohy V oddílu A nařízení Komise (EU) 2018/273 v
+
+1\. objemových jednotkách, pokud jde o nebalený vinařský produkt,
+
+2\. počtu balení a jejich objemu, pokud jde o balený vinařský produkt, nebo
+
+3\. hmotnostních jednotkách, pokud jde o vinné hrozny čerstvé, jiné než stolní, a
+
+n) osvědčení o chráněném označení původu, chráněném zeměpisném označení nebo osvědčení vín s označením roku sklizně nebo moštové odrůdy podle přímo použitelného předpisu Evropské unie<sup>6</sup>), nejde-li o víno vyrobené na území České republiky, které v celé fázi distribuce nepřekročilo hranice tohoto území.
+
+(2) Údaje podle odstavce 1 písm. l) a n) se nevyžadují v případě přepravy vinařského produktu v obalu určeném pro spotřebitele, který je označen údaji podle čl. 118 a 119 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013 a je opatřen jednorázovým uzávěrem.
+
+(3) U vinařského produktu pocházejícího ze třetích zemí propuštěného do celního režimu volného oběhu obsahuje průvodní doklad vedle náležitostí podle odstavce 1 také číslo dokladu VI 1 vystaveného podle přímo použitelného předpisu Evropské unie<sup>7</sup>) nebo referenční číslo rovnocenného dokladu schváleného příslušnými orgány země původu za podmínek stanovených v přímo použitelném předpisu Evropské unie<sup>8</sup>), který byl při přepravě přiložen.
+
+(4) Průvodní doklad má listinnou formu a obsahuje jméno, příjmení a podpis osoby, která jej vystavuje, je-li odesílatelem fyzická osoba, popřípadě jméno, příjmení a podpis osoby nebo osob, které jednají za odesílatele, je-li jím právnická osoba.
+
+(5) Za průvodní doklad se považuje daňový doklad, dodací list nebo jiný doklad, pokud splňují náležitosti podle odstavců 1 až 4.
+
+(6) Průvodní doklad vystavený podle této vyhlášky lze použít pouze pro jednu přepravu vinařského produktu, a to nejpozději do konce třetího dne ode dne zahájení přepravy.
+
+(7) Názvy tradičních výrazů lze v průvodním dokladu nahradit zkratkami. Seznam zkratek tradičních výrazů je stanoven v příloze č. 2.
+
+## § 12 – Registr vinic
+
+(K § 28 odst. 8 zákona)
+
+(1) Registr vede Ústřední kontrolní a zkušební ústav zemědělský (dále jen „Ústav“).
+
+(2) Údaje zapisované podle § 11, 28 a 29 zákona do Registru se předávají Ústavu prostřednictvím internetových stránek ministerstva nebo písemně Ústavu, podle vzorů zveřejněných ministerstvem na jeho internetových stránkách.
+
+(3) Údaje zapisované podle § 14a a § 16b odst. 3 zákona do Registru se předávají Ústavu prostřednictvím internetových stránek ministerstva podle vzorů zveřejněných ministerstvem na jeho internetových stránkách.
+
+## § 13 – Evidenční knihy
+
+[K § 6 odst. 4, § 11 odst. 3 písm. c) a § 30 odst. 6 zákona]
+
+(1) Evidenční knihy tvoří evidence vedená na vzorech uvedených v odstavcích 2 až 11. Tato evidence může být rozdělena do několika evidenčních knih. Evidenční knihy se vedou v rozsahu a ve lhůtách stanovených přímo použitelnými předpisy Evropské unie<sup>13</sup>) a mají jednu z podob uvedených v čl. 13 odst. 2 nařízení Komise (EU) 2018/274. Pokud jsou evidenční knihy vedeny v pevné vazbě, záznamy musí být provedeny nevratně a nesmazatelně. Je-li provedena oprava záznamu, tak pouze takovým způsobem, že je viditelný i původní záznam a je uveden podpis osoby, která opravu provedla. V případě, že jsou evidenční knihy vedeny v elektronické podobě, musí použitý program zabezpečit, aby každý záznam byl proveden nevratně s uvedením jména osoby, která záznam provedla. Je-li provedena oprava záznamu, tak pouze takovým způsobem, že je viditelný i původní záznam a je uvedeno jméno osoby, která opravu provedla.
+
+(2) Každá evidenční kniha musí být označena identifikačními údaji v rozsahu
+
+a) u fyzických osob jméno, příjmení, trvalý pobyt a místo podnikání, liší-li se od trvalého pobytu, identifikační číslo osoby nebo rodné číslo,
+
+b) u právnických osob obchodní firma nebo název, sídlo, identifikační číslo osoby.
+
+(3) Evidenci o hmotnosti a cukernatosti
+
+a) sklizených vinných hroznů a záznamy o vinicích a na nich dosažených hektarových výnosech vede pěstitel na vzoru uvedeném v příloze č. 12,
+
+b) nakoupených vinných hroznů nebo hroznového moštu vede osoba uvedená v § 30 odst. 1 zákona na vzoru uvedeném v příloze č. 13. Výkup vinných hroznů provádí osoba uvedená v § 30 odst. 1 zákona na výkupním lístku, jehož vzor je uveden v příloze č. 14; výkupní lístek může být nahrazen i jiným dokladem, zejména vážním lístkem nebo dodacím listem, pokud tento doklad má veškeré náležitosti a údaje obsažené ve výkupním lístku; výkupní lístek nebo doklad jej nahrazující uchová osoba uvedená v § 30 odst. 1 zákona a současně jeho kopii uchová i pěstitel hroznů,
+
+c) prodaných vinných hroznů nebo hroznového moštu vede pěstitel na vzoru uvedeném v příloze č. 15,
+
+d) zpracovaných vinných hroznů nebo hroznového moštu a množství vyrobeného vína s členěním podle jakostních tříd vede výrobce na vzoru uvedeném v příloze č. 16.
+
+(4) Evidenci o hmotnosti nakoupené a zpracované sacharózy vede výrobce na vzoru uvedeném v příloze č. 17.
+
+(5) Evidenci o nakoupeném a zpracovaném množství zahuštěného hroznového moštu, rektifikovaného moštového koncentrátu, látek používaných k přikyselení, látek používaných k odkyselení a alkoholu získaného z vína vede výrobce na vzoru uvedeném v příloze č. 18.
+
+(6) Evidenci o výrobě a užití alkoholických nápojů vyrobených z výluhu matolin vede výrobce na vzoru uvedeném v příloze č. 19.
+
+(7) Evidenci o výrobě a užití alkoholických nápojů vyrobených ze zředěných vinných kalů vede výrobce na vzoru uvedeném v příloze č. 20.
+
+(8) Evidenci o zásobách vína a částečně zkvašeného hroznového moštu vede osoba uvedená v § 30 odst. 1 zákona na vzoru uvedeném v příloze č. 21, a to pro každý kalendářní měsíc samostatně.
+
+(9) Kontrola produkce podle § 11 odst. 2 písm. e) zákona musí být prováděna takovým způsobem, aby bylo vyloučeno uvedení zdravotně závadného produktu do oběhu. Osoba uvedená v § 30 odst. 1 zákona vede evidenci o zásobách produktu, způsobech ošetřování a přídavcích jiných látek než vína k produktu, s výjimkou šumivých vín, na vzoru stanoveném v příloze č. 22. Evidence o zásobách produktu, způsobech ošetřování a přídavcích jiných látek než vína k produktu se vede podle jednotlivých nádob. Označení nádoby se provede tak, aby bylo nesmazatelné a na dané provozovně jedinečné.
+
+(10) Výrobce, jehož výroba produktů za vinařský rok nepřesáhne 500 hl vína, není povinen vést evidenci způsobem podle ustanovení odstavce 9 věty třetí. Tento výrobce vede evidenci o zásobách produktu, způsobech ošetřování a přídavcích jiných látek než vína k produktu na vzoru uvedeném v příloze č. 22 nebo souhrnně pro všechny své produkty na jednom formuláři podle vzoru stanoveného v příloze č. 23 nebo 24.
+
+(11) Evidenční knihy při prodeji sudového vína vede osoba uvedená v § 30 odst. 1 zákona podle vzoru uvedeného v příloze č. 25. Záznamy o naskladnění vína se provedou nejpozději první pracovní den následující po dni, kdy bylo víno naskladněno. Záznamy o zásobách vína na počátku měsíce se provedou nejpozději třetí pracovní den daného měsíce. Záznamy o zásobách vína na konci daného měsíce se provedou nejpozději třetí pracovní den následujícího měsíce.
+
+(12) Výrobce šumivých vín vede evidenci na vzoru uvedeném v příloze č. 26.
+
+(13) V případě, že jsou evidenční knihy vedeny v elektronické podobě, nahradí se u příloh č. 12, 15, 16 a 19 až 22 nebo 23 nebo 24 podpis uvedením jména osoby odpovědné za vedení evidence.
+
+(14) Názvy tradičních výrazů lze v evidenčních knihách nahradit zkratkami. Seznam zkratek tradičních výrazů je stanoven v příloze č. 2.
+
+## § 14 – Paušální částky nákladů na certifikaci vína a ověření souladu se specifikacemi
+
+(K § 17a odst. 2, § 26a a § 37 odst. 10 zákona)
+
+Výše paušální částky nákladů na certifikaci vína bez chráněného označení původu, chráněného zeměpisného označení nebo tradičního výrazu s názvem odrůdy nebo označením ročníku je 500 Kč na jednoho inspektora za každou započatou hodinu výkonu činnosti. Shodná výše paušální částky nákladů je určena za každou započatou hodinu výkonu činnosti jednoho inspektora při ověřování souladu se specifikacemi chráněného označení původu nebo chráněného zeměpisného označení.
+
+## § 15 – Použití logotypu na obalu určeném pro spotřebitele
+
+(K § 16 odst. 4 zákona)
+
+(1) Logotyp se uvede na obalu určeném pro spotřebitele podle § 16 odst. 4 zákona v barevném provedení na bílém podkladu v souladu s přílohou č. 27.
+
+(2) V případě obalů určených pro spotřebitele typu lahev se uvede na horní části uzávěru nebo na etiketě v hlavním zorném poli<sup>9</sup>). Výška loga je 12-16 mm.
+
+(3) V případě obalů určených pro spotřebitele, s výjimkou lahví, se uvede spolu s povinným údajem o provenienci<sup>10</sup>). Výška loga je 12-80 mm.
+
+(2) Vzor logotypu je uveden v příloze č. 27.
+
+## § 16 – Přechodné ustanovení
+
+Povinnost výrobců vést evidenční knihy podle § 13 této vyhlášky, se nevztahuje na výrobce, který již příslušnou evidenci vede v evidenčních knihách podle vyhlášky č. 323/2004 Sb., ve znění pozdějších předpisů, a to do konce vinařského roku 2016/2017, tedy do 31. 7. 2017.
+
+## § 17 – Závěrečné ustanovení
+
+Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady (EU) 2015/1535 ze dne 9. září 2015 o postupu při poskytování informací v oblasti technických předpisů a předpisů pro služby informační společnosti.
+
+## § 18 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Vyhláška č. 323/2004 Sb., kterou se provádějí některá ustanovení zákona o vinohradnictví a vinařství.
+
+2\. Vyhláška č. 437/2005 Sb., kterou se mění vyhláška č. 323/2004 Sb., kterou se provádějí některá ustanovení zákona o vinohradnictví a vinařství.
+
+3\. Vyhláška č. 28/2010 Sb., kterou se mění vyhláška č. 323/2004 Sb., kterou se provádějí některá ustanovení zákona o vinohradnictví a vinařství, ve znění vyhlášky č. 437/2005 Sb.
+
+4\. Vyhláška č. 305/2012 Sb., kterou se mění vyhláška č. 323/2004 Sb., kterou se provádějí některá ustanovení zákona o vinohradnictví a vinařství, ve znění pozdějších předpisů.
+
+## § 19 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2017.
+
+Ministr:
+
+Ing. Jurečka v. r.
+
+### Příloha č. 1 k vyhlášce č. 88/2017 Sb.
+
+#### Seznam některých moštových odrůd révy vinné pro výrobu jakostního vína stanovené oblasti a jejich synonym
+
+Moštové odrůdy
+
+| Název odrůdy | Synonymum |
+|---|---|
+| 1. Bouvierovo hrozno | Bouvierův hrozen |
+| 2. Muškát žltý | Muškát žlutý |
+| 3. Roter Riesling | Ryzlink rýnský červený |
+| 4. Sauvignon gris | Sauvignon šedý |
+| 5. Blauer Silvaner | Sylvánské modré, Sylvánské červené |
+
+### Příloha č. 2 k vyhlášce č. 88/2017 Sb.
+
+#### Zkratky moštových odrůd révy vinné zapsaných ve Státní odrůdové knize České republiky a odrůd révy vinné pro výrobu zemských vín a zkratky některých tradičních výrazů, které lze používat v průvodním dokladu a v evidenčních knihách
+
+I. Bílé moštové odrůdy
+
+| Název odrůdy | Zkratka |
+|---|---|
+| 1. Aurelius | Au |
+| 2. Auxerrois | Ax |
+| 3. Děvín | De |
+| 4. Erilon | Eri |
+| 5. Florianka | Fl |
+| 6. Hibernal | Hi |
+| 7. Chardonnay | Ch |
+| 8. Irsai Oliver | IO |
+| 9. Kerner | Ke |
+| 10. Lena | Le |
+| 11. Malverina | Mal |
+| 12. Medea | Med |
+| 13. Mery | Mr |
+| 14. Muškát moravský | MM |
+| 15. Muškát Ottonel | MO |
+| 16. Műller Thurgau | MT |
+| 17. Neuburské | Ng |
+| 18. Pálava | Pa |
+| 19. Rinot | Ri |
+| 20. Rulandské bílé | RB |
+| 21. Rulandské šedé | RŠ, RS |
+| 22. Rulenka | Rul |
+| 23. Ryzlink rýnský | RR |
+| 24. Ryzlink vlašský | RV |
+| 25. Sauvignon | Sg |
+| 26. Savilon | Svl |
+| 27. Svojsen | Svj |
+| 28. Sylvánské zelené | SZ |
+| 29. Tramín červený | TČ, TC |
+| 30. Tristar | Tri |
+| 31. Veltlínské červené rané | VČR, VCR |
+| 32. Veltlínské zelené | VZ |
+| 33. Veritas | Ve |
+| 34. Vesna | Ves |
+| 35. Vrboska | Vr |
+
+II. Modré moštové odrůdy
+
+| Název odrůdy | Zkratka |
+|---|---|
+| 1. Acolon | Ac |
+| 2. Agni | Ag |
+| 3. Alibernet | Al |
+| 4. André | An |
+| 5. Ariana | Ar |
+| 6. Blauburger | Bl |
+| 7. Cabernet Cortis | CC |
+| 8. Cabernet Dorsa | CD |
+| 9. Cabernet Moravia | CM |
+| 10. Cabernet Sauvignon | CS |
+| 11. Cerason | Ce |
+| 12. Dornfelder | Dr |
+| 13. Frankovka | Fr |
+| 14. Fratava | Ftv |
+| 15. Jakubské | Jkb |
+| 16. Kofranka | Kof |
+| 17. Laurot | La |
+| 18. Merlot | Me |
+| 19. Modrý Portugal | MP |
+| 20. Nativa | Nat |
+| 21. Neronet | Ne |
+| 22. Rubinet | Ru |
+| 23. Rulandské modré | RM |
+| 24. Sevar | Sev |
+| 25. Svatovavřinecké | Sv |
+| 26. Zweigeltrebe | Zw |
+
+III. Odrůdy pro výrobu zemských vín
+
+| Název odrůdy | Zkratka |
+|---|---|
+| 1. Bílý Portugal | BP |
+| 2. Modrý Janek | MJ |
+| 3. Ranuše muškátová | RMu |
+| 4. Šedý Portugal | ŠP, SP |
+| 5. Tramín žlutý | TŽ, TZ |
+| 6. Veltlínské červenobílé | VČB, VCB |
+
+IV. Seznam zkratek pro některé tradiční výrazy
+
+| Tradiční výraz | Zkratka |
+|---|---|
+| 1. Jakostní víno | JAK |
+| 2. Kabinetní víno | KAB |
+| 3. Pozdní sběr | PS |
+| 4. Výběr z hroznů | VzH, VH |
+| 5. Výběr z bobulí | VzB, VB |
+| 6. Výběr z cibéb | VzC, VC |
+| 7. Ledové víno | LED |
+| 8. Slámové víno | SLA |
+| 9. Moravské zemské víno | MZV |
+| 10. České zemské víno | ČZV |
+| 11. Víno originální certifikace | VOC, V.O.C. |
+
+*Poznámka: Malá písmena ve zkratkách mohou být nahrazena velkými.*
+
+### Příloha č. 3 k vyhlášce č. 88/2017 Sb.
+
+#### Seznam chorob a vad vína týkající se vzhledu, barvy, vůně, chuti a perlení
+
+<table><tbody><tr><th>Znak</th><th>Negativní hodnocení</th><th>Senzorický vjem</th></tr><tr><td rowspan="3">Vzhled</td><td>neodpovídající, plovoucí nečistoty</td><td>pevné částice a nečistoty ve víně</td></tr><tr><td>neodpovídající, zakalené, opalizující</td><td>vykazující mlhavý až mléčný zákal, víno postrádá jiskrnost</td></tr><tr><td>neodpovídající, sediment na dně láhve</td><td>usazenina na dně láhve, mimo vinný kámen</td></tr><tr><td rowspan="2">Barva</td><td>netypická, neodpovídající označení a jakosti</td><td>barva vína je jiná, než je typické pro víno a deklarovanou jakost</td></tr><tr><td>neodpovídající, nahnědlý odstín</td><td>nahnědlý odstín způsobený oxidací, případně jinými nežádoucími biochemickými pochody ve víně</td></tr><tr><td rowspan="10">Vůně</td><td>cizí, netypická pro víno vyrobené z hroznů révy vinné</td><td>jiná než určuje tato vyhláška a charakteristika pro víno, např. po aromatech, kovu, ropných produktech, filtračním materiálu, po plastu</td></tr><tr><td>netypická, neodpovídající označení</td><td>jiná než určuje tato vyhláška a charakteristika pro danou odrůdu</td></tr><tr><td>netypická, po nežádoucích těkavých látkách</td><td>ostrá, štiplavá po octu, kyselině octové a etylacetátu (odlakovači)</td></tr><tr><td>netypická, po nežádoucích biologických procesech</td><td>nečistá, po negativních živočišných, jogurtových a máselno-mléčných tónech, zkažených vejcích, mléčné, máselné, druhotná fermentace, sirka</td></tr><tr><td>neodpovídající, po myšině</td><td>po myších výkalech až vypečeném toastu</td></tr><tr><td>neodpovídající, po oxidu siřičitém</td><td>štiplavá po oxidu siřičitém</td></tr><tr><td>neodpovídající, oxidativní</td><td>navětralé až jablečné tóny bez aroma vína po oxidaci, až aldehydické tóny</td></tr><tr><td>neodpovídající, po plísni</td><td>tóny plesnivého chleba napadeného zelenou plísní Penicilium a trouchnivělého starého dřeva, sudu</td></tr><tr><td>neodpovídající, po korku</td><td>po korku, korek</td></tr><tr><td>neodpovídající, po pelargonii</td><td>tóny po listu pelargonie, muškátu</td></tr><tr><td rowspan="12">Chuť</td><td>cizí, netypická pro víno vyrobené z hroznů révy vinné</td><td>jiná než určuje tato vyhláška, a charakteristika pro danou odrůdu např. po aromatech, kovu, ropných produktech, filtračním materiálu, po plastu</td></tr><tr><td>netypická, neodpovídající označení</td><td>jiná než určuje tato vyhláška, a charakteristika pro danou odrůdu</td></tr><tr><td>netypická, po nežádoucích těkavých látkách</td><td>ostrá, štiplavá po octu, kyselině octové a etylacetátu (odlakovači)</td></tr><tr><td>netypická, po nežádoucích biologických procesech</td><td>nečistá, po negativních živočišných, jogurtových a máselno-mléčných tónech, po žluklém másle, zkažených vejcích, druhotná fermentace, sirka</td></tr><tr><td>neodpovídající, po myšině</td><td>po myších výkalech až vypečeném toastu</td></tr><tr><td>neodpovídající, po oxidu siřičitém</td><td>štiplavá po oxidu siřičitém</td></tr><tr><td>neodpovídající, oxidativní</td><td>navětralé až jablečné tóny bez aroma vína po oxidaci, až aldehydické tóny</td></tr><tr><td>neodpovídající, po plísni</td><td>tóny plesnivého chleba napadeného zelenou plísní Penicilium a trouchnivělého starého dřeva, sudu</td></tr><tr><td>neodpovídající, po pelargonii</td><td>tóny po listu pelargonie, muškátu</td></tr><tr><td>neodpovídající, po korku</td><td>po korku, korek</td></tr><tr><td>neodpovídající, prázdná</td><td>dochuť vodová, bez extraktu</td></tr><tr><td>neodpovídající, neharmonická, nevýrazná</td><td>jiná než určuje tato vyhláška, méně příjemná až nepříjemná</td></tr><tr><td>Perlení (u šumivého a perlivého vína)</td><td>neodpovídající označení</td><td>jiná než určuje tato vyhláška, bez perlení, slabé perlení vykazující známky tichého vína u šumivého nebo perlivého vína, hrubé, krátkotrvající</td></tr></tbody></table>
+
+### Příloha č. 4 k vyhlášce č. 88/2017 Sb.
+
+#### Smyslové požadavky na jakost vína, s výjimkou šumivého vína, perlivého vína, likérového vína, odalkoholizovaného vína a nízkoalkoholického vína
+
+<table><tbody><tr><th>Znaky jakosti</th><th colspan="9">Druhy vína</th></tr><tr><td></td><td colspan="5">Jakostní víno s přívlastkem</td><td colspan="2">Jakostní víno</td><td>Zemské víno</td><td>Víno</td></tr><tr><td></td><td>ledové <br> víno slámové víno</td><td>výběr <br> z bobulí výběr<br> z <br> cibéb</td><td>výběr <br> z <br> hroznů</td><td>pozdní <br> sběr</td><td>kabinetní víno</td><td>odrůdové</td><td>známkové</td><td></td><td></td></tr><tr><td>Vzhled</td><td colspan="9">čirý s jiskrou</td></tr><tr><td>Odchylky</td><td colspan="9">ojedinělé jasné krystalky vinného kamene</td></tr><tr><td>Barva</td><td colspan="7">u bílých a červených vín odpovídající odrůdě, ročníku <br> a deklarované technologii</td><td colspan="2">odpovídající označení a deklarované technologii</td></tr><tr><td>Odchylky</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>slabě odlišné tóny</td><td>mírně odlišná barva</td><td colspan="2"></td></tr><tr><td>Vůně</td><td colspan="2">výrazná, <br> typická pro <br> daný druh, <br> stupeň <br> vyzrálosti a <br> deklarovanou <br> technologii <br> bez chorob a <br> vad</td><td colspan="3">výrazná, typická pro <br> danou odrůdu, stupeň <br> vyzrálosti, vinařskou <br> oblast a deklarovanou <br> technologii <br> bez chorob a vad</td><td>výrazná, typická pro danou odrůdu bez chorob a vad, odpovídající označení a deklarované technologii</td><td>výrazná, typická pro jakostní víno bez chorob a vad, odpovídající označení a deklarované technologii</td><td>výrazná, odpovídající pro víno z révy vinné uvedené vinařské oblasti, typická pro danou odrůdu, pokud je víno názvem odrůdy označeno bez chorob a vad, odpovídající označení a deklarované technologii</td><td>výrazná, odpovídající pro víno z révy vinné bez chorob a vad, odpovídající označení a deklarované technologii</td></tr><tr><td>Odchylky</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan="4">menší odchylky ve výraznosti a typičnosti</td></tr><tr><td>Chuť</td><td colspan="2">čistá, <br> harmonická, <br> typická pro <br> daný druh <br> bez chorob a <br> vad, <br> odpovídající <br> označení a <br> deklarované <br> technologii</td><td colspan="3">čistá, odrůdová, <br> harmonická <br> bez chorob a vad, <br> odpovídající označení <br> a deklarované <br> technologii</td><td>výrazná, typická pro danou odrůdu, harmonická, odpovídající označení bez chorob a vad, odpovídající označení a deklarované technologii</td><td>výrazná, typická pro jakostní víno, harmonická, odpovídající označení bez chorob a vad, odpovídající označení a deklarované technologii</td><td>výrazná, odpovídající pro víno z révy vinné, typická pro danou odrůdu, pokud je víno názvem odrůdy označeno bez chorob a vad, odpovídající označení a deklarované technologii</td><td>výrazná, odpovídající pro víno z révy vinné uvedené vinařské oblasti bez chorob a vad, odpovídající označení a deklarované technologii</td></tr><tr><td>Odchylky</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td colspan="4">dovoluje se menší stupeň výraznosti</td></tr></tbody></table>
+
+### Příloha č. 5 k vyhlášce č. 88/2017 Sb.
+
+#### Smyslové požadavky na jakost perlivého vína a šumivého vína
+
+<table><tbody><tr><th>Znaky jakosti</th><th colspan="5">Druhy vína</th></tr><tr><td></td><td colspan="2">Perlivé víno</td><td colspan="3">Šumivé víno</td></tr><tr><td></td><td>Perlivé</td><td>Jakostní <br> perlivé</td><td>Šumivé víno</td><td>Jakostní šumivé <br> víno, Aromatické jakostní šumivé víno</td><td>Jakostní šumivé víno s.o., Aromatické jakostní šumivé víno s. o.</td></tr><tr><td>Vzhled</td><td colspan="5">čirý s jiskrou</td></tr><tr><td>Odchylky</td><td colspan="5">ojedinělé krystalky vinného kamene</td></tr><tr><td>Barva</td><td colspan="2">odpovídající označení a <br> deklarované technologii</td><td colspan="3">odpovídající označení a deklarované technologii, typická</td></tr><tr><td>Odchylky</td><td colspan="4">slabě odlišné tóny</td><td>-</td></tr><tr><td>Vůně</td><td colspan="4">výrazná, typická pro dané označení a deklarovanou technologii <br> bez chorob a vad</td><td>výrazná, odpovídající danému označení, dané oblasti a deklarované technologii <br> bez chorob a vad</td></tr><tr><td>Odchylky</td><td>menší odchylky <br> ve výraznosti</td><td>-</td><td>menší odchylky <br> ve výraznosti a typičnosti</td><td>-</td><td>-</td></tr><tr><td>Chuť</td><td colspan="4">výrazná, typická, harmonická, odpovídající označení <br> bez chorob a vad</td><td>výrazná, typická, harmonická, odpovídající <br> označení, typická pro <br> danou oblast <br> bez chorob a vad</td></tr><tr><td>Odchylky</td><td>dovoluje se <br> menší stupeň <br> výraznosti</td><td>-</td><td>dovoluje se<br> menší stupeň <br> výraznosti</td><td>-</td><td>-</td></tr><tr><td>Perlení</td><td colspan="2">odpovídající perlivému <br> vínu</td><td colspan="2">jemné dlouhotrvající</td><td>jemné dlouhotrvající</td></tr></tbody></table>
+
+### Příloha č. 6 k vyhlášce č. 88/2017 Sb.
+
+#### Smyslové požadavky na jakost likérového vína
+
+<table><tbody><tr><th>Znak jakosti</th><th colspan="2">Požadavky</th></tr><tr><td></td><td>likérové víno</td><td>jakostní likérové víno</td></tr><tr><td>Vzhled</td><td colspan="2">čirý</td></tr><tr><td>Odchylky</td><td colspan="2">slabě postřehnutelný závoj, viditelný pouze proti světelnému zdroji, ojedinělé jemné <br> krystalky vinného kamene</td></tr><tr><td>Barva</td><td colspan="2">odpovídající označení</td></tr><tr><td>Odchylky</td><td colspan="2">slabě odlišné oranžové až nahnědlé tóny v závislosti na použité oxidativní technologii</td></tr><tr><td>Vůně</td><td colspan="2">výrazná, typická, čistá, odpovídající označení bez chorob a vad</td></tr><tr><td>Odchylky</td><td>slabé oxidativní tóny v závislosti na použité <br> technologii</td><td>-</td></tr><tr><td>Chuť</td><td colspan="2">výrazná, typická, plná, harmonická, čistá, odpovídající označení bez chorob a vad</td></tr><tr><td>Odchylky</td><td>slabé oxidativní tóny v závislosti na použité <br> technologii</td><td>-</td></tr></tbody></table>
+
+### Příloha č. 8 k vyhlášce č. 88/2017 Sb.
+
+#### Smyslové požadavky na jakost odalkoholizovaného vína a nízkoalkoholického vína
+
+| Znak jakosti | Požadavky |
+|---|---|
+| Vzhled | čirý |
+| Odchylky | ojedinělé jemné krystalky vinného kamene |
+| Barva | odpovídající podle označení |
+| Odchylky | jemné odstíny od barvy podle označení |
+| Vůně | odpovídající označení bez chorob a vad |
+| Chuť | odpovídající označení bez chorob a vad |
+
+### Příloha č. 9 k vyhlášce č. 88/2017 Sb.
+
+#### Fyzikální a chemické požadavky na jakost vína
+
+<table><tbody><tr><th rowspan="2">Barva vína</th><th colspan="5">Jakostní víno s přívlastkem</th><th rowspan="2">Jakostní víno</th><th rowspan="2">Zemské víno</th><th rowspan="2">Víno</th><th rowspan="2">Perlivé víno</th><th colspan="4">Šumivé víno</th><th rowspan="2">Likérové víno, jakostní likérové víno</th></tr><tr><th>Kabinetní víno</th><th>Pozdní sběr</th><th>Výběr z hroznů</th><th>Výběr z bobulí, výběr z cibéb, ledové víno</th><th>Slámové víno</th><th>Šumivé víno</th><th>Jakostní šumivé víno</th><th>Aromatické jakostní šumivé víno a aromatické jakostní šumivé víno s. o.</th><th>Jakostní šumivé víno s. o., pěstitelský sekt</th></tr><tr><th colspan="15">Skutečný obsah alkoholu v % objemových</th></tr><tr><th>Bílé</th><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 8,5</td><td>min. 7</td><td rowspan="2">min. 8,5</td><td rowspan="2">min. 9</td><td rowspan="2">min. 10</td><td rowspan="2">min. 10</td><td rowspan="2">min. 15<br> max. 22</td></tr><tr><th>Červené</th><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 4,5</td><td>min. 8,5</td><td>min. 7</td></tr></tbody></table>
+
+Poznámky:
+
+Pro růžové víno platí hodnoty předepsané pro bílé víno.
+
+Mezní hodnoty pro hustotu, celkový suchý extrakt, bezcukerný extrakt, redukující cukry, popel, zásaditost popela, veškerý obsah kyselin, vázané kyseliny, pH a volný SO<sub>2</sub> nejsou stanoveny.
+
+### Příloha č. 10 k vyhlášce č. 88/2017 Sb.
+
+#### Lhůty pro sdělení výsledku rozborů u nebaleného vína
+
+| Rozbor | Lhůta |
+|---|---|
+| celkový rozbor<br> (těkavé kyseliny, skutečný alkohol, volný a celkový oxid siřičitý, obsah cukru vyjádřený jako fruktóza a glukóza, bezcukerný extrakt, celkový suchý extrakt, hustota, celková kyselost) | 16 dnů |
+| syntetická barviva | 16 dnů |
+| maltóza, sacharóza | 22 dnů |
+| měď | 16 dnů |
+| kyselina citrónová, konzervační látky<br> (kyselina sorbová, kyselina benzoová) | 17 dnů |
+| syntetický glycerol, syntetická aromata | 17 dnů |
+| náhradní sladidla<br> (acesulfám-K, aspartam, sacharin) | 17 dnů |
+| exogenní voda | 30 dnů |
+| botanický původ etanolu | 33 dnů |
+| ochratoxin A | 22 dnů |
+| rezidua pesticidů | 33 dnů |
+| nespecifické anthokyany | 22 dnů |
+| senzorická analýza | 16 dnů |
+| geografický původ | 33 dnů |
+
+### Příloha č. 11 k vyhlášce č. 88/2017 Sb.
+
+#### Seznam dalších odrůd, ze kterých je dovoleno vyrábět zemské víno
+
+1\. Bílý Portugal
+
+2\. Modrý Janek
+
+3\. Ranuše muškátová
+
+4\. Šedý Portugal
+
+5\. Tramín žlutý
+
+6\. Veltlínské červenobílé
+
+### Příloha č. 12 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834383/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u001)
+
+### Příloha č. 13 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u011.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834385/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u011)
+
+### Příloha č. 14 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834387/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u002)
+
+### Příloha č. 15 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u012.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834389/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u012)
+
+### Příloha č. 16 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834391/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u003)
+
+### Příloha č. 17 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834393/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u004)
+
+### Příloha č. 18 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u005.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834395/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u005)
+
+### Příloha č. 19 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088p019u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834397/NAHLED/ZOBRAZ/sbcr2017c033z0088p019u001)
+
+### Příloha č. 20 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088p020u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834399/NAHLED/ZOBRAZ/sbcr2017c033z0088p020u001)
+
+### Příloha č. 21 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u006.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834401/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u006)
+
+### Příloha č. 22 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u007.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834403/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u007)
+
+### Příloha č. 23 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u008.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834405/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u008)
+
+### Příloha č. 24 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u009.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834407/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u009)
+
+### Příloha č. 25 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088p025u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834597/NAHLED/ZOBRAZ/sbcr2017c033z0088p025u001)
+
+### Příloha č. 26 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305u010.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834599/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305u010)
+
+### Příloha č. 27 k vyhlášce č. 88/2017 Sb.
+
+#### ![sbcr2017c033z0088_2023c143z0305p001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834601/NAHLED/ZOBRAZ/sbcr2017c033z0088_2023c143z0305p001)
+
+---
+
+<sup>1</sup>) Zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů.
+
+<sup>2</sup>) Příloha VIII část I bod B odst. 7 písm. b) nařízení Evropského parlamentu a Rady (EU) č. 1308/2013 ze dne 17. prosince 2013, kterým se stanoví společná organizace trhů se zemědělskými produkty a zrušují nařízení Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007, v platném znění.
+
+<sup>3</sup>) Příloha I část C bod 3 nařízení Komise v přenesené pravomoci (EU) 2019/934, ze dne 12. března 2019, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o vinařské oblasti, kde lze zvýšit obsah alkoholu, povolené enologické postupy a omezení týkající se výroby a ošetření výrobků z révy vinné, minimální procentní podíl alkoholu pro vedlejší výrobky a jejich likvidaci a zveřejnění složek OIV, v platném znění.
+
+<sup>4</sup>) Nařízení Komise (EU) 2018/273, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, v platném znění.
+
+<sup>5</sup>) Příloha V nařízení Komise (EU) 2018/273, v platném znění. 
+ § 3 písm. j) zákona č. 321/2004 Sb., ve znění pozdějších předpisů.
+
+<sup>6</sup>) Čl. 11 a příloha VI část I nařízení Komise (EU) 2018/273, v platném znění.
+
+<sup>7</sup>) Čl. 20 nařízení Komise (EU) 2018/273, v platném znění.
+
+<sup>8</sup>) Čl. 26 nebo 27 nařízení Komise (EU) 2018/273, v platném znění.
+
+<sup>9</sup>) Čl. 2 odst. 2 písm. l) nařízení Evropského parlamentu a Rady (EU) č. 1169/2011.
+
+<sup>10</sup>) Čl. 45 nařízení Komise (EU) 2019/33, v platném znění.
+
+<sup>11</sup>) Čl. 81 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, v platném znění. 
+ Čl. 50 odst. 1 písm. g) a čl. 51 odst. 2 nařízení Komise v přenesené pravomoci (EU) 2018/273 ze dne 11. prosince 2017, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o systém povolení pro výsadbu révy, registr vinic, průvodní doklady a certifikaci, evidenční knihu vstupů a výstupů, povinná prohlášení, oznámení a zveřejňování oznamovaných informací, doplňuje se nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, pokud jde o příslušné kontroly a sankce, mění se nařízení Komise (ES) č. 555/2008, (ES) č. 606/2009 a (ES) č. 607/2009 a zrušuje se nařízení Komise (ES) č. 436/2009 a nařízení Komise v přenesené pravomoci (EU) 2015/560, v platném znění. 
+ Čl. 50 nařízení Komise v přenesené pravomoci (EU) 2019/33 ze dne 17. října 2018, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o žádosti o ochranu označení původu, zeměpisných označení a tradičních výrazů v odvětví vína, řízení o námitce, omezení použití, změny specifikace výrobku, zrušení ochrany a označování a obchodní úpravu, v platném znění.
+
+<sup>12</sup>) Čl. 53 odst. 2 nařízení Komise (EU) 2019/33.
+
+<sup>13</sup>) Kapitola V nařízení Komise v přenesené pravomoci (EU) 2018/273 ze dne 11. prosince 2017, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o systém povolení pro výsadbu révy, registr vinic, průvodní doklady a certifikaci, evidenční knihu vstupů a výstupů, povinná prohlášení, oznámení a zveřejňování oznamovaných informací, doplňuje se nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, pokud jde o příslušné kontroly a sankce, mění se nařízení Komise (ES) č. 555/2008, (ES) č. 606/2009 a (ES) č. 607/2009 a zrušuje se nařízení Komise (ES) č. 436/2009 a nařízení Komise v přenesené pravomoci (EU) 2015/560, v platném znění. 
+ Kapitola IV prováděcího nařízení Komise (EU) 2018/274 ze dne 11. prosince 2017, kterým se stanoví prováděcí pravidla k nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o systém povolení pro výsadbu révy, certifikaci, evidenční knihu vstupů a výstupů, povinná prohlášení a oznámení, a k nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, pokud jde o příslušné kontroly, a zrušuje prováděcí nařízení Komise (EU) 2015/561, v platném znění.

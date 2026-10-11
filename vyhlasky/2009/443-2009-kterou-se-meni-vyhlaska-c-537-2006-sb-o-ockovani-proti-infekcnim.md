@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 443/2009 Sb., kterou se mění vyhláška č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění vyhlášky č. 65/2009 Sb."
+identifier: "443/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/443/2009-12-11"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-12-04
+effective: 2009-12-11
+last_amended: 2009-12-11
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/443"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 443/2009 Sb., kterou se mění vyhláška č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění vyhlášky č. 65/2009 Sb.
+
+443
+
+VYHLÁŠKA
+
+ze dne 4. prosince 2009,
+
+kterou se mění vyhláška č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění vyhlášky č. 65/2009 Sb.
+
+Ministerstvo zdravotnictví stanoví podle § 108 odst. 1 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 392/2005 Sb., a zákona č. 222/2006 Sb., (dále jen „zákon“) k provedení § 45 odst. 2, § 46 odst. 1, 2, 6 a § 47 odst. 3 zákona:
+
+## Čl. I
+
+Vyhláška č. 537/2006 Sb., o očkování proti infekčním nemocem, ve znění vyhlášky č. 65/2009 Sb., se mění takto:
+
+1\. V § 2 odst. 1 písm. a) a písm. b) se před slovo „chřipce“ vkládá slovo „sezónní“.
+
+2\. Nadpis § 6 zní: „Pravidelné očkování proti sezónní chřipce a pneumokokovým nákazám“.
+
+3\. V § 6 odst. 1 se za slova „Očkování proti“ vkládá slovo „sezónní“.
+
+4\. Nadpis § 12 zní: „Zvláštní očkování proti sezónní chřipce“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministryně:
+
+Jurásková v. r.

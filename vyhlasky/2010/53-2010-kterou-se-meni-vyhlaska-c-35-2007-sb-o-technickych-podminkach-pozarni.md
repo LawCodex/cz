@@ -1,0 +1,584 @@
+---
+title: "Vyhláška č. 53/2010 Sb., kterou se mění vyhláška č. 35/2007 Sb., o technických podmínkách požární techniky"
+identifier: "53/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/53/2010-03-12"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-02-11
+effective: 2010-03-12
+last_amended: 2010-03-12
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/53"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 53/2010 Sb., kterou se mění vyhláška č. 35/2007 Sb., o technických podmínkách požární techniky
+
+53
+
+VYHLÁŠKA
+
+ze dne 11. února 2010,
+
+kterou se mění vyhláška č. 35/2007 Sb., o technických podmínkách požární techniky
+
+Ministerstvo vnitra stanoví podle § 24 odst. 2 zákona č. 133/1985 Sb., o požární ochraně, ve znění zákona č. 203/1994 Sb., zákona č. 237/2000 Sb. a zákona č. 186/2006 Sb.:
+
+## Čl. I
+
+Vyhláška č. 35/2007 Sb., o technických podmínkách požární techniky, se mění takto:
+
+1\. V § 1 se za odstavec 1 vkládá nový odstavec 2, který zní:
+
+> „(2) Technické podmínky stanovené pro požární techniku uvedenou v odstavci 1 písm. b) a c) se vztahují pouze na jednotky hasičských záchranných sborů krajů a na jednotky sborů dobrovolných hasičů obcí.“.
+
+Dosavadní odstavec 2 se označuje jako odstavec 3.
+
+2\. Přílohy č. 1 až 3 včetně poznámek pod čarou č. 2 až 6 znějí:
+
+> **„Příloha č. 1 k vyhlášce č. 35/2007 Sb.**
+
+> **TECHNICKÉ PODMÍNKY PRO ZÁSAHOVÝ POŽÁRNÍ AUTOMOBIL**
+
+> 1\. Technické podmínky zásahového požárního automobilu splňují požadavky ČSN EN 1846-1, ČSN EN 1846-2, ČSN EN 1846-3, ČSN EN 1777, ČSN EN 14043, ČSN EN 14044, ČSN EN 1028-1, ČSN EN 1028-2, ČSN EN 14466, ČSN 07 8304, ČSN 38 9427, ČSN 38 9409.
+
+> 2\. V zásahovém požárním automobilu lze použít požární příslušenství, které splňuje požadavky českých technických norem a harmonizovaných českých technických norem upravujících technické podmínky součástí požárního příslušenství, pokud nejsou v této vyhlášce stanoveny jiné technické podmínky. Technické podmínky hydraulického vyprošťovacího zařízení, je-li umístěno v zásahovém požárním automobilu, splňují požadavky ČSN EN 13204.
+
+> 3\. Technické podmínky zásahového požárního automobilu podle odst. 1 a jeho požárního příslušenství a technické podmínky hydraulického vyprošťovacího zařízení podle odst. 2 se považují za splněné, je-li prokázáno provedení posouzení shody podle jiného právního předpisu<sup>2</sup>).
+
+> 4\. Pokud se používá požární kontejner ke stejnému účelu jako zásahový požární automobil, vztahují se na něj technické podmínky stanovené pro zásahový požární automobil.
+
+> 5\. Provedení zásahového požárního automobilu se podle rozsahu vybavení požárním příslušenstvím člení na
+
+> a) základní (Z),
+
+> b) speciální
+
+> 1\. redukované (R),
+
+> 2\. rozšířené (V),
+
+> 3\. technické (T),
+
+> 4\. pro hašení (H),
+
+> 5\. pro hašení lesních požárů (LP),
+
+> 6\. pro velkoobjemové hašení (VH),
+
+> 7\. s požárním čerpadlem (PC),
+
+> 8\. s motorovou stříkačkou (MS),
+
+> 9\. chemické (CH),
+
+> 10\. ropné (N).
+
+> Speciální provedení zásahového požárního automobilu jsou uvedena v tabulce č. 1. Pokud není uvedeno jinak, platí technické podmínky pro všechna provedení zásahového požárního automobilu.
+
+> **Tabulka č. 1**
+
+> <table><tbody><tr><th></th><th>Zásahový požární automobil</th><th colspan="10">Provedení speciální</th></tr><tr><td>1.</td><td>Dopravní automobil (DA)</td><td></td><td></td><td>T</td><td></td><td></td><td></td><td></td><td>MS</td><td></td><td></td></tr><tr><td>2.</td><td>Automobilová stříkačka (AS)</td><td>R</td><td></td><td>T</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.</td><td>Cisternová automobilová stříkačka (CAS)</td><td>R</td><td></td><td>T</td><td></td><td>LP</td><td>VH</td><td></td><td></td><td></td><td></td></tr><tr><td>4.</td><td>Pěnový hasicí automobil (PHA)</td><td>R</td><td></td><td></td><td></td><td></td><td>VH</td><td></td><td></td><td></td><td></td></tr><tr><td>5.</td><td>Plynový hasicí automobil (PLHA)</td><td>R</td><td></td><td>T</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.</td><td>Práškový hasicí automobil (PRHA)</td><td>R</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7.</td><td>Kombinovaný hasicí automobil (KHA)</td><td>R</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8.</td><td>Rychlý zásahový automobil (RZA)</td><td>R</td><td></td><td>T</td><td>H</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9.</td><td>Automobilový žebřík (AZ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>PC</td><td></td><td></td><td></td></tr><tr><td>10.</td><td>Automobilová plošina (AP)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>PC</td><td></td><td></td><td></td></tr><tr><td>11.</td><td>Hadicový automobil (HA)</td><td>R</td><td></td><td></td><td></td><td></td><td></td><td>PC</td><td></td><td></td><td></td></tr><tr><td>12.</td><td>Technický automobil (TA)</td><td>R</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>CH</td><td>N</td></tr><tr><td>13.</td><td>Protiplynový automobil (PPLA)</td><td>R</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14.</td><td>Velitelský automobil (VEA)</td><td></td><td>V</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>15.</td><td>Vyšetřovací automobil (VA)</td><td></td><td>V</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>16.</td><td>Vyprošťovací automobil (VYA)</td><td></td><td>V</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>17.</td><td>Automobilový jeřáb (AJ)</td><td></td><td>V</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18.</td><td>Automobilová cisterna (AC)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>PC</td><td></td><td></td><td></td></tr></tbody></table>
+
+> 6\. Není-li v technických podmínkách zásahového požárního automobilu podle přílohy č. 2 nebo 3 stanoveno jinak, platí technické podmínky uvedené v této příloze.
+
+> 7\. Instruktážní nebo příkazový nápis na zásahovém požárním automobilu a jeho příslušenství je uveden v českém jazyce a použitý symbol je stanoven podle ČSN ISO 7000(01 8024) a podle ISO/DIS 10085:2000.
+
+> 8\. Zásahový požární automobil je vybaven úložným prostorem s úchytnými prvky, ve kterých je upevněno požární příslušenství uvedené v tabulce č. 2. Uvedené počty a parametry požárního příslušenství jsou stanoveny jako minimální.
+
+> **Tabulka č. 2**
+
+> <table><tbody><tr><th rowspan="2">Název</th><th colspan="3">Hmotnostní třída<sup>1</sup></th><th rowspan="2">Jednotka</th></tr><tr><th>L</th><th>M</th><th>S</th></tr><tr><td>Lékárnička velikost II<sup>2, 3</sup></td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Lékárnička velikost III<sup>2, 4, 5</sup></td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Přenosný hasicí přístroj práškový s hasicí schopností 34A a zároveň 183B<sup>6</sup></td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Ruční svítilna<sup>4</sup></td><td>2</td><td></td><td></td><td>ks</td></tr><tr><td>Ruční vyprošťovací nástroj</td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Rukavice lékařské pro jednorázové použití nesterilní<sup>7</sup></td><td>12</td><td>12</td><td>12</td><td>pár</td></tr><tr><td>Vyprošťovací nůž (řezák) na bezpečnostní pásy</td><td>2</td><td>2</td><td>2</td><td>ks</td></tr></tbody></table>
+
+> Doplňující poznámky k tabulce č. 2:
+
+> 1\. Hmotnostní třídy L, M a S definuje ČSN EN 1846-1.
+
+> 2\. Lékárnička je vybavena podle přílohy č. 14 vyhlášky č. 341/2002 Sb., o schvalování technické způsobilosti a o technických podmínkách provozu vozidel na pozemních komunikacích.
+
+> 3\. Platí pro zásahové požární automobily s počtem nejvýše tři sedadla.
+
+> 4\. Platí pro zásahové požární automobily s počtem čtyři a více sedadel.
+
+> 5\. Lékárnička velikost III je rozšířena o sadu Kramerových dlah, fixační krční límec, rozvírač úst a popáleninový balíček bez Kendalovy roušky.
+
+> 6\. Minimální požadavky na hasicí schopnost stanoví část 4 ČSN EN 3-7+A1; hasicí přístroj je v provedení pro umístění v zásahovém požárním automobilu.
+
+> 7\. V zásahovém požárním automobilu se sedmi a více sedadly jsou nejméně 2 páry na každé sedadlo.
+
+> 9\. Zásahový požární automobil je uzpůsoben k průběžnému dobíjení akumulátorových baterií pomocí prvků umístěných v prostoru pro řidiče nebo v blízkosti místa nástupu řidiče do zásahového požárního automobilu. U zásahového požárního automobilu s vestavěnou výpočetní technikou, kde je nutný připojovací konektor pro kabelový přenos dat z automobilu do počítačové sítě a naopak, je konektor umístěn v blízkosti místa pro napojení průběžného dobíjení. Připojovací místa jsou konstruována tak, aby byla přístupná osobám stojícím na zemi, a jsou viditelně označena.
+
+> 10\. Zásahový požární automobil je vybaven motorem o měrném výkonu nejméně 11 kW.1000 kg<sup>-1</sup> (11 W.kg<sup>-1</sup>) největší technicky přípustné hmotnosti. Rychlý zásahový automobil lehké hmotnostní třídy a střední hmotnostní třídy, velitelský automobil lehké hmotnostní třídy a vyšetřovací automobil lehké hmotnostní třídy jsou vybaveny motorem o měrném výkonu nejméně 20 kW.1000 kg<sup>-1</sup> největší technicky přípustné hmotnosti.
+
+> 11\. Elektrický proud je v zásahovém požárním automobilu odebírán z celé akumulátorové baterie; při použití více akumulátorových baterií je elektrický proud odebírán z celé sestavy akumulátorových baterií.
+
+> 12\. Zásahový požární automobil má pro užití komunikačního prostředku provedenou úpravu elektrických rozvodů a prostoru konečné montáže. Jeho elektroinstalace umožňuje provoz při veškerých režimech automobilu a prostor pro konečnou montáž umožňuje dostatečný přístup k instalovanému zařízení a jeho jistícím prvkům.
+
+> 13\. Napájení komunikačního prostředku elektrickou energií s napětím 12 V, je zajištěno pomocí měniče napětí elektrického proudu, pokud je stejnosměrné napětí elektrického proudu rozvodu automobilu vyšší, než 13,5 V. Pro napájení každého radiového zařízení je použit samostatně jištěný měnič napětí elektrického proudu; radiové zařízení je za měničem napětí samostatně jištěno pojistkou.
+
+> 14\. Pokud konstrukce zásahového požárního automobilu vyžaduje průběžné doplňování energií, je přípojný prvek umístěn tak, aby byl dobře přístupný, rychle a snadno ovladatelný z prostoru pro řidiče nebo z místa blízkého nástupu řidiče do automobilu.
+
+> 15\. Zásahový požární automobil je vpředu osazen světlomety do mlhy.
+
+> 16\. Zásahový požární automobil je osazen přípojnými a úchytnými prvky pro současné umístění nejméně dvou požárních světlometů k osvětlení místa zásahu. Tyto prvky pro světlomety mohou být nahrazeny osvětlovacím stožárem nebo obdobným osvětlovacím zařízením s příslušným energetickým zdrojem. Energetický zdroj tvoří vložená nebo pevně zabudovaná elektrocentrála nebo generátor s pohonem od motoru zásahového požárního automobilu.
+
+> **Kabina osádky**
+
+> 17\. Podle konstrukčního provedení kabiny osádky se antény vozidlových komunikačních prostředků umísťují tak, aby byla zajištěna jejich dostatečná elektrická protiváha, tvořená kovovou konstrukcí střechy kabiny osádky nebo ukostřenou folií na nekovové konstrukci střechy kabiny osádky.
+
+> 18\. Antény vozidlových komunikačních prostředků se na kabině osádky umísťují v takové vzdálenosti od konstrukčních prvků, zařízení, jiných prostředků a navzájem tak, aby činnost k nim připojených komunikačních prostředků nebyla konstrukčními prvky, zařízeními a jinými prostředky ovlivněna, a aby se neovlivňovaly navzájem.
+
+> 19\. Umístěním antén vozidlových komunikačních prostředků a činností k nim připojených komunikačních prostředků nesmí být ovlivněna činnost zařízení a jiných prostředků zásahového požárního automobilu.
+
+> 20\. Kabina osádky pro čtyři a více osob umožňuje montáž topení nezávislého na chodu motoru a jízdě.
+
+> 21\. Osvětlení ke čtení dokumentace na místě velitele osádky je konstruováno tak, aby neoslňovalo ani neomezovalo řidiče při řízení automobilu.
+
+> 22\. V zásahovém požárním automobilu jsou nejméně dvě sedadla pro osádku. Při větším počtu sedadel pro osádku jsou tato umístěna tak, aby umožňovala sedět pouze čelem nebo zády ke směru jízdy. Všechna sedadla jsou vybavena opěrkami hlavy.
+
+> 23\. Součástí zásahového požárního automobilu je zvláštní výstražné světelné zařízení modré barvy doplněné zvukovým výstražným zařízením (dále jen „zvláštní výstražné zařízení“), které umožňuje reprodukci mluveného slova. U zásahového požárního automobilu lehké, střední a těžké hmotnostní třídy je světelná část zvláštního výstražného zařízení umístěna i na zádi karosérie.
+
+> **Účelová nástavba**
+
+> 24\. Uzamykatelné prvky dveří a uzávěrů úložného prostoru účelové nástavby jsou vybaveny zámky se shodným klíčem.
+
+> 25\. Požární příslušenství opatřené spalovacím motorem vložené do zásahového požárního automobilu, které lze používat bez vyjmutí, má nezávisle na lidské obsluze vyvedeny výfukové plyny mimo prostor karosérie a mimo prostor obsluhy a má zajištěno chlazení stanovené výrobcem.
+
+> 26\. Karosérie účelové nástavby zásahového požárního automobilu je konstruována tak, aby umožnila snadný a bezpečný přístup k veškerému příslušenství. Umístění požárního příslušenství včetně povinné výbavy automobilu je provedeno tak, aby každou položku bylo možné vyjmout samostatně, bez vyjmutí jiné, pokud toto příslušenství není uloženo v přepravních zásuvkách nebo na odklopných či posuvných prvcích.
+
+> 27\. Účelová nástavba je konstruována tak, aby umožnila bezpečný přístup k místům určeným ke kontrole a doplňování provozních kapalin a náplní.
+
+> 28\. Zásahový požární automobil podle bodů 3, 4, 5, 7 a 8 tabulky č. 1 je vybaven nejméně jedním zařízením pro prvotní zásah, které umožňuje do 30 sekund provést účinný zásah ve vzdálenosti nejméně 20 m. Toto zařízení pro
+
+> a) cisternovou automobilovou stříkačku a pěnový hasicí automobil je tvořeno
+
+> 1\. izolovanou požární hadicí o světlosti 52 mm a délce 20 m uloženou v lůžku nebo na navijáku, která trvale spojuje výtlačné hrdlo požárního čerpadla s proudnicí pro hašení vodou i pěnou,
+
+> 2\. průtokovým navijákem s hadicí podle ČSN EN 1947 a připojenou proudnicí, naviják umožňuje stříkání i s částečně odvinutou hadicí, nebo
+
+> 3\. pevně zabudovanou lafetovou proudnicí s ovládáním uzávěru vtoku z místa obsluhy a s proudnicí umožňující stříkání vodou nebo pěnou,
+
+> b) plynový hasicí automobil a kombinovaný hasicí automobil je tvořeno hadicí s proudnicí, která je pevně spojena s tlakovým zdrojem plynného hasiva,
+
+> c) rychlý zásahový automobil je tvořeno průtokovým navijákem s hadicí a připojenou proudnicí, který umožňuje stříkání i s částečně odvinutou hadicí při tlaku nejméně 4 MPa, průtoku nejméně 20 l.min<sup>-1</sup> na proudnici, a to ve vzdálenosti nejméně 20 m od zařízení a nepřetržitě po dobu delší než 5 minut.
+
+> 29\. Veškeré programovatelně nebo automaticky ovládané armatury účelové nástavby pro rozvod hasiva jsou vybaveny nouzovým ručním ovládáním, přístupným bez demontáže krycích prvků nebo jiných součástí.
+
+> 30\. Stupně a plošiny pro snazší přístup k požárnímu příslušenství jsou konstruovány tak, aby umožňovaly bezpečné vyjmutí požárního příslušenství z účelové nástavby. Za tím účelem jsou doplněny o madla.
+
+> 31\. Ovládací prvek a zajišťovací mechanizmus pro uložení požárního příslušenství je konstruován tak, aby jej bylo možné ovládat v zásahových rukavicích pro hasiče.
+
+> 32\. Zvláštní výstražné zařízení nebo rozměrné požární příslušenství uložené nad kabinou osádky nebo nad účelovou nástavbou zásahového požárního automobilu lehké, střední a těžké hmotnostní třídy s podvozkem kategorie 2 a 3 o celkové výšce větší než 2000 mm, které převyšuje kabinu osádky nebo účelovou nástavbu o více než 200 mm, je opatřeno ochranným prvkem proti zachycení větví, který neomezuje jeho užití a funkčnost.
+
+> 33\. Tlaková nádoba, zařízení vybavené tlakovou nádobou nebo hasicí přístroj jsou v zásahovém požárním automobilu uloženy v úchytech v poloze svislé nebo v poloze vodorovné. Při vodorovné poloze úchytu jsou uloženy příčně.
+
+> 34\. Na vnitřní straně uzávěru úložného prostoru je umístěn čitelný seznam požárního příslušenství. Při osazení skříně roletami je seznam umístěn ve skříních u uzávěrů. U skříně s více otvory je seznam umístěn u každého otvoru.
+
+> 35\. Na zadní stěně účelové nástavby zásahového požárního automobilu, určeného k zásahové činnosti na pozemních komunikacích, jsou umístěny nejméně dva kusy oranžových blikajících světel, které jsou určeny pro označení požárního automobilu na místě zásahu jakožto překážky silničního provozu<sup>3</sup>). Umístěny jsou tak, aby při zásahu nebyly zakryty žádnou částí zasahujícího zásahového požárního automobilu. Ovládání a signalizace činnosti oranžových blikajících světel jsou umístěny v zorném poli řidiče. Konstrukce oranžových blikajících světel vylučuje jejich použití během jízdy.
+
+> **Barevná úprava a nápisy**
+
+> 36\. Zásahový požární automobil je proveden jednotně v jasně červené barvě. Zvýrazňující prvek tvoří bílý vodorovný pruh po bocích, případně po obvodu karosérie. Pro jeho zvýraznění jsou použity reflexní pruhy<sup>4</sup>). Další zvýrazňující prvek u zásahového požárního automobilu hmotnostní třídy M a S tvoří bílé provedení předního nárazníku.
+
+> 37\. Bílý vodorovný pruh má výšku nejméně 200 mm a nejvíce 350 mm. Bílý vodorovný pruh je umístěn na bočních plochách kabiny osádky a jeho horní liniová část je situována pod okny. Na něj navazuje pruh o stejné výšce umístěný na karosérii účelové nástavby, pokud je opatřena pevnou karosérií a je v červené barevné úpravě. V místech s nesouvislým povrchem nebo jinou povrchovou úpravou kabiny osádky a karosérie účelové nástavby je bílý vodorovný pruh přerušen. Bílý vodorovný pruh může být zúžen v místě, kde do něj zasahuje blatník, prosklení dveří nebo čelní okno.
+
+> 38\. Vnitřní úložný prostor účelové nástavby je proveden v barvě světlého odstínu.
+
+> 39\. Nápis s uvedením sponzora je umístěn na pravé straně karosérie v její zadní části tak, aby horní hrana nápisu byla cca 50 mm pod podélným zvýrazňujícím pruhem nebo pod úrovní prostoru pro okna u osobních automobilů. Nápis je uveden na samolepicí fólii o ploše nejvíce 0,08 m<sup>2</sup>.
+
+> 40\. Karosérie účelové nástavby požárního kontejneru je označena symbolem charakterizujícím jeho hlavní vybavení podle vzoru č. 1 této přílohy. Velikost strany symbolu je 250 mm. Symbol je umístěn vpravo nahoře na přední a zadní straně karosérie. Karosérie účelové nástavby zásahového požárního automobilu podle bodu 2, 3, 4, 5, 6, 7, 11, 12 a 13 tabulky č. 1 je označena tímto symbolem vpravo nahoře na zadní straně karosérie.
+
+> 41\. Zásahový požární automobil se označuje textem umístěným na boku ve střední části bílého zvýrazňujícího pruhu, výška písmen činí nejméně 100 mm a nejvíce polovinu výšky pruhu. Text tvoří zkratka popisující:
+
+> a) druh zásahového požárního automobilu,
+
+> b) hodnotu hlavního výkonového, popřípadě rozměrového parametru účelové nástavby nebo údaj o množství zásoby hasiva,
+
+> c) hmotnostní třídu,
+
+> d) kategorii zásahového požárního automobilu,
+
+> e) provedení zásahového požárního automobilu podle rozsahu požárního příslušenství u zásahového požárního automobilu podle bodu 3 této přílohy.
+
+> Údaj podle písmena c) se uvádí za pomlčkou.
+
+> 42\. Nápis použitý na zásahovém požárním automobilu je proveden kolmým písmem písmeny velké abecedy. Přitom šíře písmena je 4/7 výšky písmena a tloušťka čáry 1/7 výšky písmena. Mezera mezi písmeny je 1/7, mezera mezi slovy 4/7 a mezera mezi řádky 8/7 výšky písmena.
+
+> 43\. Nápis na bílé ploše je proveden v barvě černé a nápis na červené ploše je proveden v barvě bílé; to se nevztahuje na nápis tvořící součást znaku jednotky požární ochrany.
+
+> **Symboly vybavení požární techniky**
+
+> **Vzor č. 1**
+
+> **![sbcr2010c019z0053p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889405/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o001)**
+
+> a) Stříkačka (čerpadlo)
+
+> **![sbcr2010c019z0053p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889407/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o002)**
+
+> b) Pěnomet
+
+> **![sbcr2010c019z0053p001o003.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889409/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o003)**
+
+> c) Odsávač kouře
+
+> **![sbcr2010c019z0053p001o004.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889411/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o004)**
+
+> d) Zdroj elektrické energie
+
+> **![sbcr2010c019z0053p001o005.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889413/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o005)**
+
+> e) Osvětlovací zařízení
+
+> **![sbcr2010c019z0053p001o006.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889415/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o006)**
+
+> f) Vysokotlaké hasicí zařízení
+
+> **![sbcr2010c019z0053p001o007.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889417/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o007)**
+
+> g) Práškové hasicí zařízení
+
+> **![sbcr2010c019z0053p001o008.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889419/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o008)**
+
+> h) Plynové hasicí zařízení
+
+> **![sbcr2010c019z0053p001o009.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889421/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o009)**
+
+> i) Likvidace chemických látek
+
+> **![sbcr2010c019z0053p001o010.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889423/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o010)**
+
+> j) Likvidace radioaktivních látek
+
+> **![sbcr2010c019z0053p001o011.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889425/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o011)**
+
+> k) Dekontaminační zařízení
+
+> **![sbcr2010c019z0053p001o012.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889427/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o012)**
+
+> l) Likvidace ropných látek
+
+> **![sbcr2010c019z0053p001o013.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889429/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o013)**
+
+> m) Protiplynová zařízení
+
+> **![sbcr2010c019z0053p001o014.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889431/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o014)**
+
+> n) Práce na vodě
+
+> **![sbcr2010c019z0053p001o015.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889433/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o015)**
+
+> o) Hadice
+
+> **![sbcr2010c019z0053p001o016.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889435/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o016)**
+
+> p) Hydraulické vyprošťovací zařízení
+
+> **![sbcr2010c019z0053p001o017.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889437/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o017)**
+
+> r) Spojovací zařízení
+
+> **![sbcr2010c019z0053p001o018.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/889439/NAHLED/ZOBRAZ/sbcr2010c019z0053p001o018)**
+
+> s) Týlové zařízení
+
+> **Příloha č. 2 k vyhlášce č. 35/2007 Sb.**
+
+> **TECHNICKÉ PODMÍNKY PRO DOPRAVNÍ AUTOMOBIL**
+
+> 1\. Konstrukce dopravního automobilu umožňuje přepravu jednotky požární ochrany na místo zásahu nebo přepravu osob při plnění úkolů na úseku ochrany obyvatelstva<sup>5</sup>).
+
+> **Provedení**
+
+> 2\. Dopravní automobil v provedení základním může být doplněn požárním přívěsem pro uložení požárního příslušenství pro zásah.
+
+> 3\. Konstrukce dopravního automobilu v provedení speciálním technickém umožňuje provádění záchranných prací nebo prací při plnění úkolů na úseku ochrany obyvatelstva.
+
+> 4\. Konstrukce dopravního automobilu v provedení speciálním s motorovou stříkačkou umožňuje provádět
+
+> a) požární zásah vodou, střední nebo těžkou pěnou, a to z volného vnějšího zdroje nebo z vnějšího tlakového zdroje vody,
+
+> b) dálkovou dopravu vody za použití přenosné motorové stříkačky,
+
+> 5\. Dopravní automobil v provedení speciálním s motorovou stříkačkou a přívěs pro hašení „PH“ jsou vybaveny přenosnou motorovou stříkačkou<sup>6</sup>)
+
+> a) o jmenovitém výkonu 750 l.min<sup>-1</sup> (DA 7,5),
+
+> b) o jmenovitém výkonu 1000 l.min<sup>-1</sup> (DA 10), nebo
+
+> c) o jmenovitém výkonu 1500 l.min<sup>-1</sup> (DA 15).
+
+> Hodnota jmenovitého výkonu vychází z ČSN EN 1028-1 a je charakterizována jmenovitým tlakem 10 bar a jmenovitým průtokem (l.min<sup>-1</sup>).
+
+> **Podvozek**
+
+> 6\. Hnací náprava dopravního automobilu v provedení speciálním s motorovou stříkačkou a v provedení speciálním technickém je vybavena uzávěrkou diferenciálu nebo obdobným zařízením.
+
+> 7\. Dopravní automobil je vybaven závěsným zařízením pro tažení požárního přívěsu.
+
+> **Kabina osádky**
+
+> 8\. Kabina osádky dopravního automobilu je vybavena nejméně 6 sedadly.
+
+> **Požární příslušenství**
+
+> 9\. Dopravní automobil a přívěs pro hašení jsou vybaveny úložným prostorem s úchytnými prvky, ve kterých je upevněno základní požární příslušenství definované v tabulce č. 1. Uvedené počty a parametry požárního příslušenství jsou stanoveny jako minimální.
+
+> **Tabulka č. 1**
+
+> <table><tbody><tr><th rowspan="2">Název</th><th colspan="4">Provedení</th><th rowspan="2">Jednotka</th></tr><tr><th>Z</th><th>T</th><th>MS</th><th>PH</th></tr><tr><td>Cestářské koště</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Dýchací přístroj s min. zásobou 1600 l vzduchu<sup>1, 2</sup></td><td></td><td>4</td><td>4</td><td></td><td>ks</td></tr><tr><td>Hadicový držák v obalu</td><td></td><td></td><td>4</td><td>2</td><td>ks</td></tr><tr><td>Hadicový můstek</td><td></td><td></td><td>2</td><td>2</td><td>ks</td></tr><tr><td>Hydrantový nástavec</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Izolovaná požární hadice 52x20 m</td><td></td><td></td><td>6</td><td>4</td><td>ks</td></tr><tr><td>Izolovaná požární hadice 75x20 m</td><td></td><td></td><td>8</td><td>5</td><td>ks</td></tr><tr><td>Izolovaná požární hadice 75x5 m</td><td></td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Klíč k nadzemnímu hydrantu</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Klíč k podzemnímu hydrantu</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Klíč na hadice a armatury 75/52</td><td></td><td></td><td>2</td><td>2</td><td>ks</td></tr><tr><td>Klíč na sací hadice</td><td></td><td></td><td>2</td><td>2</td><td>ks</td></tr><tr><td>Kombinovaná proudnice 52</td><td></td><td></td><td>2</td><td>2</td><td>ks</td></tr><tr><td>Krumpáč</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Lékárnička velikost III<sup>3</sup></td><td>1</td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Lopata</td><td></td><td>2</td><td>2</td><td></td><td>ks</td></tr><tr><td>Motorová řetězová pila s výkonem 2,7 kW a délkou řetězové lišty 380 mm s příslušenstvím, mimo provedení „Hobby“</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Nádoba na pohonné hmoty a olej k motorové řetězové pile</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Nádoba nebo nádoby na pěnidlo o celkovém objemu</td><td></td><td></td><td>40</td><td></td><td>litr</td></tr><tr><td>Náhradní tlaková láhev</td><td></td><td></td><td>2</td><td></td><td>ks</td></tr><tr><td>Objímka na izolovanou požární hadici 52 v obalu</td><td></td><td></td><td>4</td><td>4</td><td>ks</td></tr><tr><td>Objímka na izolovanou požární hadici 75 v obalu</td><td></td><td></td><td>4</td><td>4</td><td>ks</td></tr><tr><td>Pákové kleště</td><td></td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Pěnotvorná proudnice na střední pěnu</td><td></td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Pěnotvorná proudnice na těžkou pěnu</td><td></td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Ploché páčidlo</td><td></td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Požární sekera bourací</td><td></td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Požární světlomet s kloubovým držákem</td><td></td><td>2</td><td>2</td><td></td><td>ks</td></tr><tr><td>Proudnice 75</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Přechod 110/75</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Přechod 75/52</td><td></td><td></td><td>4</td><td>2</td><td>ks</td></tr><tr><td>Přenosná motorová stříkačka podle ČSN EN 14466</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Přenosný hasicí přístroj práškový s hasicí schopností 34A a zároveň 183B<sup>4</sup></td><td>1</td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Přenosný hasicí přístroj CO<sub>2</sub> s hasicí schopností 89B<sup>4</sup></td><td>1</td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Přenosný kulový kohout</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Přenosný přiměšovač</td><td></td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Přenosný zásahový žebřík pro hasiče pro nejméně dvě osoby s dostupnou výškou 8 m</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Přetlakový ventil</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Příslušenství k přenosné motorové stříkačce</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Rozdělovač</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Ruční pila na dřevo</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Ruční svítilna</td><td>2</td><td>4</td><td>4</td><td>2</td><td>ks</td></tr><tr><td>Rukavice proti tepelným rizikům do 600° C</td><td></td><td></td><td>2</td><td></td><td>pár</td></tr><tr><td>Rukavice lékařské pro jednorázové použití nesterilní</td><td>12</td><td>12</td><td>12</td><td></td><td>pár</td></tr><tr><td>Sací hadice, celková délka sady 10 m</td><td></td><td></td><td>1</td><td>1</td><td>sada</td></tr><tr><td>Sací koš</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Savice přiměšovače</td><td></td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Sběrač 2 x 75</td><td></td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Skříňka s nástroji</td><td></td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Tlumnice</td><td></td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Trhací hák</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Ventilové lano na vidlici</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Vyprošťovací nůž (řezák) na bezpečnostní pásy</td><td>1</td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Vytyčovací páska červeno-bílá 100 m</td><td>1</td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Záchranná a evakuační nosítka</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Záchytné lano na vidlici</td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr></tbody></table>
+
+> Doplňující poznámky k tabulce č. 1:
+
+> 1\. Autonomní dýchací přístroj na stlačený vzduch s otevřeným okruhem (izolační dýchací přístroj). U jednotky sboru dobrovolných hasičů obce nebo sboru dobrovolných hasičů podniku lze použít dýchací přístroj s min. zásobou 1400 l vzduchu.
+
+> 2\. Dopravní automobil nemusí být vybaven dýchacími přístroji ani příslušnými úchyty, pro uložení dýchacích přístrojů však musí být vymezena prostorová a hmotnostní rezerva s vyznačenými kotevními body.
+
+> 3\. Lékárnička velikost III je rozšířena o sadu Kramerových dlah, fixační krční límec, rozvírač úst a popáleninový balíček bez Kendalovy roušky.
+
+> 4\. Minimální požadavky na hasicí schopnost stanoví část 4 ČSN EN 3-7+A1; hasicí přístroj je v provedení pro umístění v automobilu.
+
+> **Příloha č. 3 k vyhlášce č. 35/2007 Sb.**
+
+> **TECHNICKÉ PODMÍNKY PRO CISTERNOVOU AUTOMOBILOVOU STŘÍKAČKU**
+
+> 1\. Konstrukce cisternové automobilové stříkačky umožňuje
+
+> a) přepravu jednotky požární ochrany,
+
+> b) dálkovou dopravu vody,
+
+> c) požární zásah vodou z vlastní nádrže, z vnějšího volného zdroje a z vnějšího tlakového zdroje vody,
+
+> d) požární zásah střední a těžkou pěnou s výjimkou cisternové automobilové stříkačky v provedení speciálním pro hašení lesních požárů, a to z volného vnějšího zdroje pěnidla a s výjimkou cisternové automobilové stříkačky v provedení speciálním redukovaném z vlastní nádrže na pěnidlo,
+
+> e) provedení záchranných prací.
+
+> 2\. Konstrukce čerpacího zařízení cisternové automobilové stříkačky umožňuje
+
+> a) zavodnění sacího vedení
+
+> 1\. z vlastní nádrže,
+
+> 2\. z vnějšího zdroje,
+
+> b) stříkání
+
+> 1\. tlakovou vodou s pracovním tlakem, který nepřekročí hodnotu 1,7 MPa,
+
+> 2\. tlakovou vodou z vysokotlaké části požárního čerpadla se jmenovitým tlakem 4 MPa na čerpadle a s průtokem hasiva na konci hadice nejméně 150 l.min<sup>-1</sup> s výjimkou cisternové automobilové stříkačky v provedení speciálním redukovaném a v provedení speciálním pro velkoobjemové hašení,
+
+> 3\. vodou s přísadami, například se smáčedly,
+
+> 4\. střední a těžkou pěnou, s výjimkou cisternové automobilové stříkačky v provedení speciálním pro hašení lesních požárů,
+
+> c) plnění vlastní nádrže,
+
+> d) napojení na vnější tlakový zdroj vody.
+
+> **Provedení**
+
+> 3\. Cisternová automobilová stříkačka je vybavena požárním čerpadlem
+
+> a) o jmenovitém výkonu 750 l.min<sup>-1</sup> (CAS 7,5),
+
+> b) o jmenovitém výkonu 1000 l.min<sup>-1</sup> (CAS 10),
+
+> c) o jmenovitém výkonu 1500 l.min<sup>-1</sup> (CAS 15),
+
+> d) o jmenovitém výkonu 2000 l.min<sup>-1</sup> (CAS 20),
+
+> e) o jmenovitém výkonu 3000 l.min<sup>-1</sup> (CAS 30),
+
+> f) o jmenovitém výkonu 4000 l.min<sup>-1</sup> (CAS 40), nebo
+
+> g) o jmenovitém výkonu 6000 l.min<sup>-1</sup> (CAS 60).
+
+> Hodnota jmenovitého výkonu vychází z ČSN EN 1028-1, tab. 4 a je charakterizována jmenovitým tlakem 10 bar a jmenovitým průtokem (l.min<sup>-1</sup>) po zabudování do cisternové automobilové stříkačky. Nachází-li se jmenovitý výkon požárního čerpadla mezi hodnotami podle písmen a) až g), požární čerpadlo se zařadí do kategorie požárních čerpadel s nejbližším nižším jmenovitým výkonem.
+
+> 4\. Cisternová automobilová stříkačka v provedení speciálním technickém kromě požadavků stanovených pro cisternovou automobilovou stříkačku v provedení základním splňuje následující požadavky
+
+> a) má účelovou nástavbu vybavenou osvětlovacím stožárem nebo obdobným osvětlovacím zařízením s příslušným energetickým zdrojem,
+
+> b) je v přední části vybavena lanovým navijákem s tažnou sílou nejméně 35 kN pro střední a těžkou hmotnostní třídu a nejméně 20 kN pro lehkou hmotnostní třídu,
+
+> c) zadní část účelové nástavby je uzpůsobená pro případnou montáž úchytného prvku pro uložení vyjímatelného kolového hadicového navijáku, určeného pro tvoření dopravního hadicového vedení 75 o délce nejméně 100 m.
+
+> 5\. Cisternová automobilová stříkačka v provedení speciálním pro hašení lesních požárů splňuje následující požadavky
+
+> a) má pohon všech náprav, každá náprava je vybavena uzávěrkou diferenciálu nebo obdobným zařízením,
+
+> b) střední a těžká hmotnostní třída je v přední části vybavena lanovým navijákem s tažnou sílou nejméně 35 kN.
+
+> 6\. Cisternová automobilová stříkačka v provedení speciálním pro velkoobjemové hašení splňuje následující požadavky
+
+> a) má pohon všech náprav, každá náprava je vybavena uzávěrkou diferenciálu nebo obdobným zařízením,
+
+> b) má nádrž na vodu o objemu nejméně 8000 l,
+
+> c) je konstruována pro použití dvěma osobami.
+
+> **Kabina osádky**
+
+> 7\. Kabina osádky cisternové automobilové stříkačky je vybavena nejméně
+
+> a) 6 sedadly u provedení základního,
+
+> b) 4 sedadly u provedení speciálního redukovaného nebo u provedení speciálního technického,
+
+> c) 3 sedadly u provedení speciálního pro hašení lesních požárů,
+
+> d) 2 sedadly u provedení speciálního pro velkoobjemové hašení.
+
+> **Podvozek**
+
+> 8\. Podvozek pro smíšený a terénní provoz je konstruován tak, aby umožnil pohon přední nápravy a nejméně jedné zadní nápravy, užití uzávěrky diferenciálu nebo obdobného zařízení alespoň na jedné hnací nápravě.
+
+> **Čerpací zařízení**
+
+> 9\. Čerpací zařízení tvoří požární čerpadlo, zavodňovací zařízení požárního čerpadla, ventily, kohouty a rozvody hasiva. Čerpací zařízení má pohon nezávislý na souběžné činnosti a pohonu ostatních zařízení.
+
+> 10\. Čerpací zařízení má výtlačná hrdla se spojkami 75 mm. Výtlačná hrdla jsou vyvedena na obě strany čerpacího zařízení, mimo prostor obsluhy čerpacího zařízení. Počet výtlačných hrdel na každé straně odpovídá jmenovitému výkonu požárního čerpadla. U požárního čerpadla se jmenovitým výkonem 1500 l.min<sup>-1</sup> a vyšším jsou na každou stranu vyvedena nejméně dvě výtlačná hrdla.
+
+> 11\. Čerpací zařízení je opatřeno zpětnou klapkou k ochraně sacích hadic před poškozením tlakem a zařízením na odtlakování hadicového vedení pod tlakem, připojeného na výtlačné hrdlo čerpacího zařízení.
+
+> 12\. Výtlačné hrdlo vysokotlaké části čerpacího zařízení je vyvedeno do zařízení pro prvotní zásah a je osazeno nezáměnnou spojkou.
+
+> 13\. Sací hrdlo požárního čerpadla je závitové 110 mm, 125 mm nebo 150 mm. Jmenovité parametry požárního čerpadla se jmenovitým výkonem 750 až 3000 l.min<sup>-1</sup>jsou dosažitelné při sání jedním sacím hrdlem.
+
+> 14\. Účelovou nástavbu lze mimo sací a výtlačná hrdla požárního čerpadla také osadit tlakovými hrdlovými spojkami 52 mm.
+
+> 15\. Sací a výtlačné hrdlo čerpacího zařízení a plnicí hrdlo nádrže jsou vyvedena tak, aby neomezovala obsluhu čerpacího zařízení a bezpečný pohyb strojníka; vzdálenost spodní hrany od země je nejméně 500 mm. Sací hrdlo je vyvedeno dozadu nebo na obě strany účelové nástavby.
+
+> 16\. Čerpací zařízení a rozvod hasiva jsou konstruovány tak, aby umožňovaly jejich snadné odvodnění vypouštěcími kohouty soustředěnými na přístupném místě. Jmenovitá světlost kohoutu je nejméně 4 mm.
+
+> 17\. Obslužné místo čerpacího zařízení je konstruováno tak, aby bylo snadno a bezpečně přístupné a osvětlené neoslňujícím světlem.
+
+> 18\. Obslužné místo čerpacího zařízení je vybaveno
+
+> a) ukazatelem množství hasiv v nádržích v hodnotách nejméně 1/4, 2/4, 3/4 a 4/4,
+
+> b) ukazatelem otáček požárního čerpadla s vyznačenou hodnotou maximálních otáček,
+
+> c) přípojnými body pro dodatečnou montáž nejméně reproduktoru pro odposlech analogové radiostanice.
+
+> 19\. Čerpací zařízení a nádrže na hasiva jsou chráněny proti zamrznutí při jízdě a za provozu na místě.
+
+> 20\. Čerpací zařízení je konstruováno tak, aby nedošlo k jeho znečištění a mechanickému poškození při jízdě a provozu.
+
+> 21\. Pohon čerpacího zařízení umožňuje zapnutí i při volnoběžném chodu motoru cisternové automobilové stříkačky. Dále pohon čerpacího zařízení umožňuje vypnutí i při částečném zatížení čerpacího zařízení. Signalizace zapnutí pohonu čerpacího zařízení je umístěna v zorném poli řidiče.
+
+> **Zařízení pro výrobu pěny**
+
+> 22\. Zařízení pro výrobu pěny tvoří zejména
+
+> a) pevně vestavěná nádrž nebo nevestavěné nádoby na pěnidlo,
+
+> b) přiměšovací zařízení,
+
+> c) příslušné potrubí s ventily a kohouty,
+
+> d) čerpadlo k plnění nádrže nebo nádrží na pěnidlo se zdrojem nezávislým na pohonu čerpacího zařízení, a to u cisternové automobilové stříkačky s nádrží nebo nádržemi na pěnidlo většími než 400 l.
+
+> 23\. Zařízení pro výrobu pěny umožňuje stříkání nejméně jedním proudem těžké pěny.
+
+> 24\. Zařízení pro výrobu pěny je konstruováno tak, aby umožňovalo přimísení v rozsahu od 0 do 6 % plynule nebo skokově po 1 %. Procento přimísení je signalizováno v zorném poli obsluhy čerpacího zařízení.
+
+> **Nádrž na hasivo**
+
+> 25\. Nádrž na hasivo je konstrukčně upravena tak, aby
+
+> a) umožňovala úplné vypuštění hasiva,
+
+> b) nebyla poškozena přetlakem při maximálním plnění hasivem,
+
+> c) nebyla poškozena podtlakem při maximálním odběru hasiva,
+
+> d) hasivo při jízdě nevytékalo,
+
+> e) umožňovala průběžné doplňování nádrže na vodu z vnějšího zdroje.
+
+> 26\. Plnicí zařízení nádrže na vodu je tvořeno nejméně jedním potrubím o průměru 75 mm se spojkami 75 mm a zpětnou klapkou nebo kohoutem, případně zařízením zabraňujícím zpětnému vytékání vody z nádrže.
+
+> 27\. Mezi nádrží na vodu a čerpacím zařízením je filtr z nekorodujícího síta o průměru ok nejvíce 5 mm.
+
+> 28\. Nádrž na vodu je vybavena tlumícími přepážkami. Rozpojitelné spoje na tlumicích přepážkách jsou zajištěny proti samovolnému uvolnění.
+
+> 29\. Pevně zabudovaná nádrž na vodu má objem nejméně 1700 l.
+
+> 30\. Pevně zabudovaná nádrž nebo nádrže na pěnidlo mají objem o velikosti nejméně 6 % objemu pevně zabudované nádrže na vodu. Pevně zabudovaná nádrž na pěnidlo a pevně zabudované zařízení pro výrobu pěny nemusí být součástí účelové nástavby cisternové automobilové stříkačky v provedení speciálním redukovaném nebo v provedení speciálním pro hašení lesních požárů.
+
+> 31\. Průměr průlezného otvoru do nádrže na hasivo s objemem 1000 l a větším je nejméně 450 mm.
+
+> **Povrchová úprava**
+
+> 32\. Čerpací zařízení, rozvody a armatury umístěné v účelové nástavbě jsou opatřeny světlým krycím nátěrem nebo antikorozní úpravou.
+
+> **Požární příslušenství**
+
+> 33\. Cisternová automobilová stříkačka je vybavena úložným prostorem s úchytnými prvky, ve kterých je upevněno požární příslušenství uvedené v tabulce č. 1. Uvedené počty a parametry požárního příslušenství jsou stanoveny jako minimální.
+
+> **Tabulka č. 1**
+
+> <table><tbody><tr><th rowspan="2">Název</th><th colspan="5">Provedení</th><th rowspan="2">Jednotka</th></tr><tr><th>Z</th><th>R</th><th>T</th><th>LP</th><th>VH</th></tr><tr><td>Cestářské koště</td><td>1</td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Dalekohled</td><td>1</td><td></td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Detekční přístroj hořlavých plynů a par (explozimetr kalibrovaný na metan)<sup>1</sup></td><td>1</td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Dýchací přístroj s min. zásobou 1600 l vzduchu<sup>2</sup></td><td colspan="5">shodně s počtem sedadel</td><td>ks</td></tr><tr><td>Džberová stříkačka nebo obdobné hasicí zařízení</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Ejektor ležatý</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Elektrické kalové čerpadlo 400 V s výtlačným hrdlem 52, výkonem 2,3 kW</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Elektrocentrála 230/400 V, 4,5 kW, krytí IP 44</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Hadicový držák v obalu</td><td>4</td><td>4</td><td>2</td><td>1</td><td></td><td>ks</td></tr><tr><td>Hadicový můstek</td><td>2</td><td>2</td><td>2</td><td></td><td>2</td><td>ks</td></tr><tr><td>HVZ - hadice o délce 20 m k propojení nástroje s pohonnou jednotkou</td><td></td><td></td><td>2</td><td></td><td></td><td>ks</td></tr><tr><td>HVZ - motorová pohonná jednotka hydraulického vyprošťovacího zařízení pro současnou činnost dvou vyprošťovacích nástrojů</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>HVZ - přímočarý teleskopický rozpínací nástroj - stojka v základním stavu nejvíce 600 mm s pracovním zdvihem 570 mm</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>HVZ - rozpínací nástroj s čelistmi s rozpínací vzdáleností 600 mm a rozpínací silou 30 kN podle ČSN EN 13204</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>HVZ - ruční pohonná jednotka hydraulického vyprošťovacího zařízení</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>HVZ - řetězový úvazek</td><td></td><td></td><td>1</td><td></td><td></td><td>pár</td></tr><tr><td>HVZ - stabilizační podpěry a klíny</td><td></td><td></td><td>1</td><td></td><td></td><td>sada</td></tr><tr><td>HVZ - střihací nástroj na pedály</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>HVZ - střihací nástroj s minimálním rozevřením 150 mm a se schopností stříhání podle kategorie G ČSN EN 13204</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>HVZ - zachycovač airbagů pro opakované použití</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Hydrantový nástavec</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Izolovaná požární hadice 75x5 m</td><td>2</td><td>2</td><td>2</td><td>1</td><td>2</td><td>ks</td></tr><tr><td>Izolovaná požární hadice 52x20 m</td><td>8</td><td>8</td><td>6</td><td>6</td><td>6</td><td>ks</td></tr><tr><td>Izolovaná požární hadice 75x20 m</td><td>8</td><td>8</td><td>6</td><td></td><td>10</td><td>ks</td></tr><tr><td>Izolované požární hadice 25 v celkové délce sady 100 m</td><td></td><td></td><td></td><td>1</td><td></td><td>sada</td></tr><tr><td>Kanálová rychloucpávka</td><td>1</td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Kbelík 10 l</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Klíč k nadzemnímu hydrantu</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Klíč k podzemnímu hydrantu</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Klíč na hadice a armatury 75/52</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>ks</td></tr><tr><td>Klíč na sací hadice</td><td>2</td><td>2</td><td>2</td><td></td><td>2</td><td>ks</td></tr><tr><td>Kombinovaná proudnice 52 pro plný a roztříštěný proud</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Krumpáč</td><td>1</td><td>1</td><td>2</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Lékárnička velikost II</td><td></td><td></td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Lékárnička velikost III</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Lopata</td><td>2</td><td>2</td><td>3</td><td>2</td><td>1</td><td>ks</td></tr><tr><td>Motorová kotoučová (rozbrušovací) pila s výkonem 3,7 kW a kotoučem o průměru 250 mm s příslušenstvím, mimo provedení „Hobby“</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Motorová řetězová pila s výkonem 2,7 kW a délkou řetězové lišty 380 mm s příslušenstvím, mimo provedení „Hobby“</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Nádoba na pohonné hmoty a olej k motorové kotoučové pile</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Nádoba na pohonné hmoty a olej k motorové řetězové pile</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Motykosekera</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Nádoba na úkapy</td><td>1</td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Nádoba nebo nádoby na pěnidlo<sup>4</sup></td><td></td><td>1</td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Náhradní tlaková láhev<sup>5</sup></td><td colspan="6">50 % z počtu dýchacích přístrojů, nejméně 2 ks</td></tr><tr><td>Nízkoprůtažné lano<sup>6</sup> s opláštěným jádrem typu A 30 m, průměrem min. 10 mm</td><td>2</td><td>2</td><td>2</td><td></td><td></td><td>ks</td></tr><tr><td>Nízkoprůtažné lano<sup>6</sup> s opláštěným jádrem typu A 60 m, průměrem min. 10 mm</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Objímka na izolovanou požární hadici 52 v obalu</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>ks</td></tr><tr><td>Objímka na izolovanou požární hadici 75 v obalu</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>ks</td></tr><tr><td>Pákové kleště</td><td>1</td><td></td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Papírové ručníky</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>balení</td></tr><tr><td>Pěnotvorná proudnice na střední pěnu<sup>7</sup></td><td>1</td><td></td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Pěnotvorná proudnice na těžkou pěnu</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Ploché páčidlo</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Plovoucí čerpadlo</td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>ks</td></tr><tr><td>Plynotěsný protichemický ochranný oděv typu 1a podle ČSN EN 943-1<sup>8</sup></td><td>4</td><td></td><td>4</td><td></td><td></td><td>ks</td></tr><tr><td>Požární sekera bourací</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Požární světlomet s kloubovým držákem, není-li použit osvětlovací stožár</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>ks</td></tr><tr><td>Prodlužovací kabel 230 V, 25 m na navijáku</td><td>1</td><td></td><td>2</td><td></td><td></td><td>ks</td></tr><tr><td>Prodlužovací kabel 400 V, 25 m na navijáku</td><td></td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Protichemický ochranný oděv typu 3 podle ČSN EN 14605 pro opakované použití</td><td></td><td>3</td><td></td><td></td><td></td><td>ks</td></tr><tr><td>Proudnice 25 s uzávěrem</td><td></td><td></td><td></td><td>2</td><td></td><td></td></tr><tr><td>Proudnice 52 s uzávěrem</td><td>1</td><td>1</td><td></td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Proudnice 75</td><td>1</td><td>1</td><td></td><td></td><td>2</td><td>ks</td></tr><tr><td>Průtokový kartáč na mytí s hadicí 25x10 m</td><td>1</td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Přechod 110/75</td><td>1</td><td></td><td></td><td></td><td></td><td>ks</td></tr><tr><td>Přechod 52/25</td><td>1</td><td></td><td></td><td>3</td><td></td><td>ks</td></tr><tr><td>Přechod 75/52</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>ks</td></tr><tr><td>Přenosná lafetová proudnice</td><td></td><td></td><td></td><td></td><td>1</td><td>ks</td></tr><tr><td>Přenosné výstražné světlo oranžové barvy</td><td>1</td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Přenosný hasicí přístroj práškový s hasicí schopností 34A a zároveň 183B<sup>9</sup></td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Přenosný hasicí přístroj CO<sub>2</sub> s hasicí schopností 89B<sup>9</sup></td><td>1</td><td>1</td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Přenosný kulový kohout</td><td>1</td><td></td><td>1</td><td></td><td>2</td><td>ks</td></tr><tr><td>Přenosný přiměšovač</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Přenosný záchranný a zásahový žebřík pro hasiče pro tři osoby s dostupnou výškou min. 8 m</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Přetlakový ventil</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Přetlakový ventilátor, jmenovitý výkon 12.000 m<sup>3</sup>.h<sup>-1</sup></td><td>1</td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Přikrývka (deka) v obalu</td><td>1</td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Pytel polyetylénový</td><td>5</td><td></td><td>5</td><td></td><td></td><td>ks</td></tr><tr><td>Rozdělovač</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Ruční svítilna</td><td>4</td><td>2</td><td>4</td><td>2</td><td>2</td><td>ks</td></tr><tr><td>Rukavice proti tepelným rizikům do 600° C</td><td>2</td><td>2</td><td>2</td><td></td><td></td><td>pár</td></tr><tr><td>Rukavice lékařské pro jednorázové použití nesterilní</td><td>15</td><td>10</td><td>15</td><td>10</td><td>10</td><td>pár</td></tr><tr><td>Rýč</td><td></td><td></td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Sací hadice, celková délka sady 10 m</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Sací koš</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Sací nástavec na pěnidlo</td><td>1</td><td></td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Savice přiměšovače</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Sběrač 2 x 75</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Skříňka s elektrotechnickými nástroji</td><td>1</td><td></td><td>1</td><td></td><td></td><td>sada</td></tr><tr><td>Skříňka s nástroji</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>sada</td></tr><tr><td>Tekuté mýdlo 500 ml</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Termofólie 2x2 m</td><td>1</td><td>1</td><td>2</td><td></td><td></td><td>ks</td></tr><tr><td>Tlumnice</td><td></td><td></td><td></td><td>1</td><td></td><td>ks</td></tr><tr><td>Trhací hák</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Ventilové lano na vidlici</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Vyprošťovací nůž (řezák) na bezpečnostní pásy</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>ks</td></tr><tr><td>Vytyčovací páska 100 m</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr><tr><td>Záchranné a evakuační nosítka</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Záchranný kyslíkový přístroj</td><td>1</td><td></td><td>1</td><td></td><td></td><td>ks</td></tr><tr><td>Záchytné lano na vidlici</td><td>1</td><td>1</td><td>1</td><td></td><td>1</td><td>ks</td></tr></tbody></table>
+
+> Doplňující poznámky k tabulce č. 1:
+
+> 1\. Rozsah měření 0-5 % obj. metanu (0-100 % dolní meze výbušnosti metanu).
+
+> 2\. Autonomní dýchací přístroj na stlačený vzduch s otevřeným okruhem (izolační dýchací přístroj). U jednotky sboru dobrovolných hasičů obce nebo sboru dobrovolných hasičů podniku lze použít dýchací přístroj s min. zásobou 1400 l vzduchu.
+
+> 3\. Lékárnička velikost III je rozšířena o sadu Kramerových dlah, fixační krční límec, rozvírač úst a popáleninový balíček bez Kendalovy roušky.
+
+> 4\. Platí, pokud cisternová automobilová stříkačka není vybavena vestavěnou nádrží na pěnidlo; minimální množství pěnidla u provedení speciálního pro hašení lesních požárů odpovídá nejméně 1 % a u provedení speciálního redukovaného 3 % objemu pevně zabudované nádrže na vodu.
+
+> 5\. U jednotky sboru dobrovolných hasičů obce nebo sboru dobrovolných hasičů podniku lze použít dýchací přístroj s minimální zásobou 1400 l vzduchu.
+
+> 6\. Technické parametry stanoví ČSN EN 1891.
+
+> 7\. S průtokem nejméně 200 l.min.<sup>-1</sup> roztoku při jmenovitých podmínkách.
+
+> 8\. U jednotky sboru dobrovolných hasičů obce nebo sboru dobrovolných hasičů podniku lze plynotěsné protichemické ochranné oděvy nahradit neplynotěsnými protichemickými ochrannými oděvy.
+
+> 9\. Minimální požadavky na hasicí schopnost stanoví část 4 ČSN EN 3-7+A1; hasicí přístroj je v provedení pro umístění v automobilu.
+
+> 34\. Pokud je v cisternové automobilové stříkačce umístěna elektrocentrála, s výjimkou provedení speciálního technického, pak její výkon je nejméně 3,5 kW a krytí nejméně IP 44.
+
+> 35\. Nejméně čtyři izolované požární hadice 52x20 m u cisternové automobilové stříkačky v provedení základním a v provedení speciálním technickém jsou po dvou uloženy v přenosných kazetách na hadice.
+
+> 36\. Prostorová a hmotnostní rezerva pro uložení nadstandardního požárního příslušenství je situována v přední pravé části účelové nástavby, u cisternové automobilové stříkačky v provedení speciálním technickém může být situována i do jiných částí účelové nástavby.
+
+> 37\. Cisternová automobilová stříkačka je vybavena pěnotvornou proudnicí na těžkou pěnu podle jmenovitého výkonu požárního čerpadla, a to při jmenovitém výkonu
+
+> a) 750 l.min<sup>-1</sup> a 1000 l.min<sup>-1</sup> proudnicí s průtokem roztoku nejméně 300 l.min<sup>-1</sup>,
+
+> b) 1500 l.min<sup>-1</sup> a 2000 l.min<sup>-1</sup> proudnicí s průtokem roztoku nejméně 600 l.min<sup>-1</sup>,
+
+> c) 3000 l.min<sup>-1</sup>, 4000 l.min<sup>-1</sup> a 6000 l.min<sup>-1</sup> proudnicí s průtokem roztoku nejméně 1200 l.min<sup>-1</sup>.
+
+> 38\. Na automobilovou stříkačku, pěnový hasicí automobil, kombinovaný hasicí automobil a ostatní zásahové požární automobily s požárním čerpadlem podle ČSN EN 1028-1 se vztahuje ustanovení této přílohy v bodech 3, 9, 11, 13, 15 až 17, 18b, 19 až 21.
+
+> <sup>2</sup>) § 13 odst. 1 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.
+
+> <sup>3</sup>) § 45 odst. 3 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu).
+
+> <sup>4</sup>) Předpis Evropské hospodářské komise č. 48 - Jednotná ustanovení pro homologaci vozidel z hlediska montáže zařízení pro osvětlení a světelnou signalizaci.
+
+> <sup>5</sup>) § 70 odst. 5 zákona č. 133/1985 Sb., o požární ochraně, ve znění zákona č. 203/1994 Sb. a zákona č. 237/2000 Sb.
+
+> <sup>6</sup>) Vyhláška č. 255/1999 Sb., o technických podmínkách věcných prostředků požární ochrany, ve znění pozdějších předpisů.“.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Pro požární techniku zařazenou do vybavení jednotek požární ochrany přede dnem nabytí účinnosti této vyhlášky platí technické podmínky stanovené dosavadním právním předpisem.
+
+2\. Výroba požární techniky zahájená přede dnem nabytí účinnosti této vyhlášky se dokončí podle dosavadního právního předpisu.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem ode dne jejího vyhlášení.
+
+Ministr:
+
+Ing. Pecina, MBA, v. r.

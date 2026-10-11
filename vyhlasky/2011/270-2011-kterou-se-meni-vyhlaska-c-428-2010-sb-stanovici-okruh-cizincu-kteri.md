@@ -1,0 +1,106 @@
+---
+title: "Vyhláška č. 270/2011 Sb., kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza"
+identifier: "270/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/270/2011-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2011-09-07
+effective: 2011-10-01
+last_amended: 2011-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/270"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 270/2011 Sb., kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza
+
+270
+
+VYHLÁŠKA
+
+ze dne 7. září 2011,
+
+kterou se mění vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza
+
+Ministerstvo vnitra po projednání s Ministerstvem zahraničních věcí stanoví podle § 182 odst. 1 písm. b) zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 427/2010 Sb.:
+
+## Čl. I
+
+Příloha k vyhlášce č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza, zní:
+
+> **„Příloha k vyhlášce č. 428/2010 Sb.**
+
+> **Seznam států, jejichž státní občané nebo cizinci, kteří jsou držiteli cestovních dokladů vydaných těmito státy, mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza**
+
+> 1\. Alžírská demokratická a lidová republika,
+
+> 2\. Bangladéšská lidová republika,
+
+> 3\. Čadská republika,
+
+> 4\. Egyptská arabská republika,
+
+> 5\. Etiopská federativní demokratická republika,
+
+> 6\. Ghanská republika,
+
+> 7\. Indická republika,
+
+> 8\. Irácká republika,
+
+> 9\. Íránská islámská republika,
+
+> 10\. Islámský stát Afghánistán,
+
+> 11\. Jemenská republika,
+
+> 12\. Jihosúdánská republika,
+
+> 13\. Jordánské hášimovské království,
+
+> 14\. Kazašská republika,
+
+> 15\. Konžská demokratická republika,
+
+> 16\. Kyrgyzská republika,
+
+> 17\. Libanonská republika,
+
+> 18\. Libyjská arabská lidová socialistická džamáhírie,
+
+> 19\. Maliská republika,
+
+> 20\. Mauritánská islámská republika,
+
+> 21\. Nigerijská federativní republika,
+
+> 22\. Nigerská republika,
+
+> 23\. Pákistánská islámská republika,
+
+> 24\. Somálská republika,
+
+> 25\. Srílanská demokratická socialistická republika,
+
+> 26\. Stát Eritrea,
+
+> 27\. Stát Palestina,
+
+> 28\. Súdánská republika,
+
+> 29\. Syrská arabská republika,
+
+> 30\. Turecká republika,
+
+> 31\. Turkmenistán,
+
+> 32\. Uzbecká republika.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. října 2011.
+
+Ministr:
+
+Kubice v. r.

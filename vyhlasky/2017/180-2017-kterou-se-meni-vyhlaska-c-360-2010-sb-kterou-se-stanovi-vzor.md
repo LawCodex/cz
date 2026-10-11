@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 180/2017 Sb., kterou se mění vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání"
+identifier: "180/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/180/2017-07-11"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-06-12
+effective: 2017-07-11
+last_amended: 2017-07-11
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/180"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 180/2017 Sb., kterou se mění vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání
+
+180
+
+VYHLÁŠKA
+
+ze dne 12. června 2017,
+
+kterou se mění vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání
+
+Český telekomunikační úřad stanoví podle § 150 odst. 5 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 310/2006 Sb., zákona č. 304/2007 Sb., zákona č. 247/2008 Sb., zákona č. 153/2010 Sb. a zákona č. 468/2011 Sb., k provedení § 129 odst. 2 zákona o elektronických komunikacích, ve znění zákona č. 153/2010 Sb., zákona č. 468/2011 Sb. a zákona č. 378/2015 Sb.:
+
+## Čl. I
+
+Vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání, se mění takto:
+
+1\. V § 2 odstavec 4 zní:
+
+> „(4) Velikost datového souboru obsahujícího formulář včetně všech připojených příloh musí být taková, aby umožnila učinit elektronické podání, jehož maximální souhrnná velikost je 20 MB.“.
+
+2\. V § 2 se odstavec 5 zrušuje.
+
+3\. Příloha zní:
+
+> **„Příloha k vyhlášce č. 360/2010 Sb.**
+
+> **Vzor elektronického formuláře návrhu na rozhodnutí sporu podle § 129 odst. 1 zákona, který se týká povinnosti účastníka, popřípadě uživatele, k peněžitému plnění**
+
+> **![sbcr2017c065z0180p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/835045/NAHLED/ZOBRAZ/sbcr2017c065z0180p001u001)**
+
+> “.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Předseda Rady:
+
+Ing. Mgr. Novák v. r.

@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 351/2014 Sb., kterou se mění vyhláška Ministerstva obrany č. 268/1999 Sb., kterou se pro účely výsluhových náležitostí stanoví, kdo je považován za výkonného letce a která služba je službou zvláštní povahy nebo zvláštního stupně nebezpečnosti, a postup při výplatě výsluhových náležitostí, ve znění pozdějších předpisů"
+identifier: "351/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/351/2015-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2014-12-22
+effective: 2015-01-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/351"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 351/2014 Sb., kterou se mění vyhláška Ministerstva obrany č. 268/1999 Sb., kterou se pro účely výsluhových náležitostí stanoví, kdo je považován za výkonného letce a která služba je službou zvláštní povahy nebo zvláštního stupně nebezpečnosti, a postup při výplatě výsluhových náležitostí, ve znění pozdějších předpisů
+
+351
+
+VYHLÁŠKA
+
+ze dne 22. prosince 2014,
+
+kterou se mění vyhláška Ministerstva obrany č. 268/1999 Sb., kterou se pro účely výsluhových náležitostí stanoví, kdo je považován za výkonného letce a která služba je službou zvláštní povahy nebo zvláštního stupně nebezpečnosti, a postup při výplatě výsluhových náležitostí, ve znění pozdějších předpisů
+
+Ministerstvo obrany stanoví podle § 133 odst. 2 a § 143 odst. 12 zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 272/2009 Sb.:
+
+## Čl. I
+
+Vyhláška Ministerstva obrany č. 268/1999 Sb., kterou se pro účely výsluhových náležitostí stanoví, kdo je považován za výkonného letce a která služba je službou zvláštní povahy nebo zvláštního stupně nebezpečnosti, a postup při výplatě výsluhových náležitostí, ve znění vyhlášky č. 458/2002 Sb., vyhlášky č. 335/2008 Sb. a vyhlášky č. 367/2008 Sb., se mění takto:
+
+1\. V § 2 odst. 1 se za písmeno i) vkládá nové písmeno j), které zní:
+
+> „j) spojeném s výkonem činnosti příslušníka Speciálních sil při plnění úkolů Speciálních sil Armády České republiky,“.
+
+Dosavadní písmena j) a k) se označují jako písmena k) a l).
+
+2\. V § 2 odst. 2 se v první větě slovo „j)“ nahrazuje slovem „k)“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2015.
+
+Ministr:
+
+MgA. Stropnický v. r.

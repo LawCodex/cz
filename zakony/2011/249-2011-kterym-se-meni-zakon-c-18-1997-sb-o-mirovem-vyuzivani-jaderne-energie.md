@@ -1,0 +1,210 @@
+---
+title: "Zákon č. 249/2011 Sb., kterým se mění zákon č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů"
+identifier: "249/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/249/2012-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2011-07-20
+effective: 2011-08-30
+last_amended: 2012-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/249"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 249/2011 Sb., kterým se mění zákon č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+249
+
+ZÁKON
+
+ze dne 20. července 2011,
+
+kterým se mění zákon č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna atomového zákona
+
+### Čl. I
+
+Zákon č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů, ve znění zákona č. 83/1998 Sb., zákona č. 71/2000 Sb., zákona č. 132/2000 Sb., zákona č. 13/2002 Sb., zákona č. 310/2002 Sb., zákona č. 320/2002 Sb., zákona č. 279/2003 Sb., zákona č. 186/2004 Sb., zákona č. 1/2005 Sb., zákona č. 253/2005 Sb., zákona č. 413/2005 Sb., zákona č. 186/2006 Sb., zákona č. 342/2006 Sb., zákona č. 296/2007 Sb., zákona č. 124/2008 Sb., zákona č. 189/2008 Sb., zákona č. 274/2008 Sb., zákona č. 158/2009 Sb., zákona č. 223/2009 Sb. a zákona č. 227/2009 Sb., se mění takto:
+
+1\. V § 3 odst. 2 se na konci textu písmene t) doplňují slova „a zajišťuje plnění dalších povinností vyplývajících z předpisů Evropské unie<sup>41</sup>) týkajících se zejména vnitrostátního a mezinárodního hodnocení státního dozoru nad jadernou bezpečností jaderných zařízení“.
+
+Poznámka pod čarou č. 41 zní:
+
+> „<sup>41</sup>) Směrnice Rady 2009/71/Euratom ze dne 25. června 2009, kterou se stanoví rámec Společenství pro jadernou bezpečnost jaderných zařízení.“.
+
+2\. Za § 3 se vkládají nové § 3a až 3g, které včetně nadpisů znějí:
+
+> **„§ 3a – Poplatky na odbornou činnost Úřadu**
+
+> Poplatky na odbornou činnost Úřadu jsou
+
+> a) poplatek za žádost o vydání povolení (dále jen „poplatek za žádost“),
+
+> b) udržovací poplatek.
+
+> **§ 3b – Subjekty poplatků na odbornou činnost Úřadu**
+
+> (1) Poplatníkem poplatku za žádost je žadatel o vydání povolení.
+
+> (2) Poplatníkem udržovacího poplatku je držitel povolení.
+
+> **§ 3c – Předmět poplatků na odbornou činnost Úřadu**
+
+> (1) Předmětem poplatku za žádost je činnost Úřadu související s vydáním
+
+> a) povolení k umístění jaderného zařízení,
+
+> b) povolení k výstavbě
+
+> 1\. jaderného zařízení, nebo
+
+> 2\. pracoviště IV. kategorie s otevřenými radionuklidovými zářiči,
+
+> c) prvního povolení k provozu
+
+> 1\. jaderného zařízení,
+
+> 2\. pracoviště III. kategorie pro těžbu a zpracování uranové rudy, nebo
+
+> 3\. pracoviště IV. kategorie s otevřenými radionuklidovými zářiči, nebo
+
+> d) povolení k jednotlivým etapám vyřazování z provozu
+
+> 1\. jaderného zařízení,
+
+> 2\. pracoviště III. kategorie pro těžbu a zpracování uranové rudy, nebo
+
+> 3\. pracoviště IV. kategorie s otevřenými radionuklidovými zářiči.
+
+> (2) Předmětem udržovacího poplatku je činnost Úřadu související s výkonem státního dozoru nad činností držitelů povolení k
+
+> a) provozu
+
+> 1\. jaderného zařízení,
+
+> 2\. pracoviště III. kategorie pro těžbu a zpracování uranové rudy, nebo
+
+> 3\. pracoviště IV. kategorie s otevřenými radionuklidovými zářiči, nebo
+
+> b) jednotlivým etapám vyřazování z provozu
+
+> 1\. jaderného zařízení,
+
+> 2\. pracoviště III. kategorie pro těžbu a zpracování uranové rudy, nebo
+
+> 3\. pracoviště IV. kategorie s otevřenými radionuklidovými zářiči.
+
+> **§ 3d – Osvobození od poplatků na odbornou činnost Úřadu**
+
+> (1) Od poplatků na odbornou činnost Úřadu se osvobozují
+
+> a) veřejné vysoké školy a zdravotnická zařízení, která činnosti podle tohoto zákona vykonávají za úhradu z veřejného zdravotního pojištění,
+
+> b) osoby, které činnosti podle tohoto zákona vykonávají pouze za úhradu z veřejných prostředků na vědu a výzkum včetně prostředků z fondů Evropské unie.
+
+> (2) Skutečnosti rozhodné pro osvobození od poplatků na odbornou činnost Úřadu dokládá poplatník při podání žádosti o vydání povolení nebo na výzvu Úřadu.
+
+> (3) Dojde-li ke změně skutečností rozhodných pro osvobození od poplatků na odbornou činnost Úřadu, oznámí poplatník tuto skutečnost Úřadu do 15 dnů ode dne, kdy k této změně došlo.
+
+> **§ 3e – Sazba poplatků na odbornou činnost Úřadu**
+
+> (1) Sazba poplatku za žádost činí v případě žádosti o vydání povolení podle
+
+> a) § 3c odst. 1 písm. a) nejvýše 30 000 000 Kč,
+
+> b) § 3c odst. 1 písm. b) nejvýše 150 000 000 Kč,
+
+> c) § 3c odst. 1 písm. c) nejvýše 60 000 000 Kč,
+
+> d) § 3c odst. 1 písm. d) nejvýše 60 000 000 Kč.
+
+> (2) Sazba udržovacího poplatku činí za každý kalendářní měsíc, ve kterém trvala poplatková povinnost, nejvýše 4 000 000 Kč.
+
+> (3) Vláda stanoví nařízením sazby poplatků na odbornou činnost Úřadu pro jednotlivé činnosti Úřadu podle § 3c.
+
+> **§ 3f – Poplatková povinnost k udržovacímu poplatku**
+
+> (1) Poplatková povinnost k udržovacímu poplatku vzniká prvním dnem kalendářního měsíce, ve kterém nabylo rozhodnutí o vydání povolení právní moci.
+
+> (2) Poplatková povinnost k udržovacímu poplatku zaniká posledním dnem kalendářního měsíce, ve kterém povolení zaniklo.
+
+> **§ 3g – Správa a rozpočtové určení poplatků na odbornou činnost Úřadu**
+
+> (1) Poplatek za žádost je splatný do 30 dnů ode dne podání žádosti o vydání povolení.
+
+> (2) Udržovací poplatek je splatný do 30 dnů ode dne skončení poplatkového období, kterým je kalendářní rok.
+
+> (3) Správu poplatků na odbornou činnost Úřadu vykonává Úřad.
+
+> (4) Poplatky na odbornou činnost Úřadu jsou příjmem státního rozpočtu.“.
+
+3\. V § 12 odst. 1 se za písmeno a) vkládá nové písmeno b), které zní:
+
+> „b) pro činnosti vedoucí k ozáření související s lékařskou radiodiagnostikou při poskytování zdravotní péče zubními lékaři odborná způsobilost k výkonu povolání zubního lékaře podle zákona o výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta,“.
+
+> Dosavadní písmeno b) se označuje jako písmeno c).
+
+4\. V § 12 odst. 1 písm. c) se za slovo „pro“ vkládá slovo „ostatní“.
+
+5\. V § 12 odst. 2 se slova „písm. a) a b)“ nahrazují slovy „písm. a) a c)“.
+
+6\. V § 17 odst. 1 písm. a) se za slovo „bezpečnost“ vkládají slova „, přičemž odpovědnost za zajištění jaderné bezpečnosti nelze přenést na jinou osobu“.
+
+7\. V § 18 odst. 1 písm. p) se slova „Evropských společenství“ nahrazují slovy „Evropské unie“.
+
+8\. V § 18 se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno s), které zní:
+
+> „s) zajistit a udržovat odpovídající finanční a lidské zdroje potřebné k plnění povinností souvisejících s jadernou bezpečností jaderného zařízení.“.
+
+## ČÁST DRUHÁ – Změna zákona o správních poplatcích
+
+### Čl. II
+
+Položka 106 v příloze k zákonu č. 634/2004 Sb., o správních poplatcích, včetně poznámky pod čarou č. 65 zní:
+
+> „**Položka 106**
+
+> Přijetí žádosti o povolení<sup>65</sup>)
+
+> | a) | k umístění jaderného zařízení nebo úložiště radioaktivních odpadů | Kč | 5 000 |
+> |---|---|---|---|
+> | b) | k výstavbě jaderného zařízení nebo pracoviště IV. kategorie | Kč | 5 000 |
+> | c) | k jednotlivým etapám uvádění jaderného zařízení do provozu | Kč | 3 000 |
+> | d) | k provedení rekonstrukce nebo jiných změn ovlivňujících jadernou bezpečnost, radiační ochranu, fyzickou ochranu a havarijní připravenost jaderného zařízení nebo pracoviště III. nebo IV. kategorie | Kč | 3 000 |
+> | e) | k nakládání s jadernými materiály | Kč | 1 000 |
+> | f) | k provozu pracoviště III. kategorie | Kč | 3 000 |
+> | g) | k provozu jaderného zařízení nebo pracoviště IV. kategorie | Kč | 5 000 |
+> | h) | k uvádění radionuklidů do životního prostředí | Kč | 1 000 |
+> | i) | k nakládání s radioaktivními odpady | Kč | 1 000 |
+> | j) | k jednotlivým etapám vyřazování jaderného zařízení nebo pracoviště III. nebo IV. kategorie z provozu | Kč | 1 000 |
+> | k) | k nakládání se zdroji ionizujícího záření | Kč | 1 000 |
+> | l) | k dovozu nebo vývozu jaderných položek | Kč | 500 |
+> | m | k přepravě | | |
+> | | - velmi významných zdrojů ionizujícího záření | Kč | 500 |
+> | | - jaderných materiálů | Kč | 2 000 |
+> | n) | ke zpětnému dovozu radioaktivních odpadů vzniklých při zpracování materiálů vyvezených z České republiky | Kč | 1 000 |
+> | o) | k provádění osobní dozimetrie a dalších služeb významných z hlediska radiační ochrany | Kč | 1 000 |
+> | p) | k přidávání radioaktivních látek do spotřebních výrobků při jejich výrobě nebo přípravě nebo k dovozu či vývozu těchto výrobků | Kč | 1 000 |
+
+> **Osvobození**
+
+> Od poplatků uvedených v této položce je osvobozena Správa úložišť radioaktivních odpadů a s. p. DIAMO.
+
+> <sup>65</sup>) § 9 odst. 1 zákona č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. III
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení, s výjimkou ustanovení čl. I bodu 2 a čl. II, která nabývají účinnosti dnem 1. ledna 2012.
+
+Němcová v. r.
+
+Klaus v. r.
+
+Nečas v. r.

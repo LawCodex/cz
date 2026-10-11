@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 4/2013 Sb., kterou se mění vyhláška Ministerstva dopravy a spojů č. 108/1997 Sb., kterou se provádí zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů"
+identifier: "4/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/4/2013-01-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-12-19
+effective: 2013-01-15
+last_amended: 2013-01-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/4"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 4/2013 Sb., kterou se mění vyhláška Ministerstva dopravy a spojů č. 108/1997 Sb., kterou se provádí zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů
+
+4
+
+VYHLÁŠKA
+
+ze dne 19. prosince 2012,
+
+kterou se mění vyhláška Ministerstva dopravy a spojů č. 108/1997 Sb., kterou se provádí zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů
+
+Ministerstvo dopravy stanoví podle § 102 odst. 1 zákona č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění zákona č. 146/2000 Sb., zákona č. 258/2002 Sb., zákona č. 225/2006 Sb., zákona č. 274/2008 Sb., zákona č. 301/2009 Sb., zákona č. 407/2010 Sb. a zákona č. 137/2011 Sb.:
+
+## Čl. I
+
+Vyhláška č. 108/1997 Sb., kterou se provádí zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů, ve znění vyhlášky č. 101/1999 Sb., vyhlášky č. 244/2003 Sb., vyhlášky č. 359/2006 Sb., vyhlášky č. 410/2006 Sb., vyhlášky č. 64/2010 Sb. a vyhlášky č. 314/2010 Sb., se mění takto:
+
+1\. V příloze č. 3 částech A a B se text „letištní službu řízení letového provozu nebo Letištní letovou informační službu v českém jazyce a pohotovostní službu známému provozu,“ nahrazuje textem „letištní službu řízení letového provozu nebo letištní letovou informační službu v českém jazyce a pohotovostní službu známému provozu na letišti a v jeho letištní provozní zóně (ATZ), anebo poskytování informací známému provozu na letišti a v jeho letištní provozní zóně (ATZ) jiným způsobem v českém jazyce,“.
+
+2\. V příloze č. 3 části B se za slova „Provozní doba“ vkládají slova „musí být stanovena a publikována prostřednictvím letecké informační služby a musí splňovat tyto požadavky:“.
+
+3\. V příloze č. 3 části C se text „letištní službu řízení letového provozu nebo Letištní letovou informační službu v jazycích českém a anglickém a pohotovostní službu známému provozu,“ nahrazuje textem „letištní službu řízení letového provozu nebo letištní letovou informační službu v českém a anglickém jazyce a pohotovostní službu známému provozu na letišti a v jeho letištní provozní zóně (ATZ), anebo poskytování informací známému provozu na letišti a v jeho letištní provozní zóně (ATZ) jiným způsobem v českém a anglickém jazyce,“.
+
+4\. V příloze č. 3 části D se za slova „Provozní doba“ vkládají slova „musí být stanovena a publikována prostřednictvím letecké informační služby a musí splňovat tyto požadavky:“.
+
+5\. V příloze č. 3 části D se text „letištní službu řízení letového provozu nebo Letištní letovou informační službu v jazyce českém a anglickém a pohotovostní službu známému provozu,“ nahrazuje textem „letištní službu řízení letového provozu nebo letištní letovou informační službu v českém a anglickém jazyce a pohotovostní službu známému provozu na letišti a v jeho letištní provozní zóně (ATZ), anebo poskytování informací známému provozu na letišti a v jeho letištní provozní zóně (ATZ) jiným způsobem v českém a anglickém jazyce,“.
+
+6\. V příloze č. 3 se text „Poznámky:“ nahrazuje textem „Poznámka:“.
+
+7\. V příloze č. 3 se poznámka č. 1 zrušuje.
+
+Dosavadní poznámky č. 2 a 3 se označují jako poznámky č. 1 a 2.
+
+8\. V příloze č. 3 se poznámka č. 2 zrušuje.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 15. ledna 2013.
+
+Ministr:
+
+Ing. Stanjura v. r.

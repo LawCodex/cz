@@ -1,0 +1,53 @@
+---
+title: "Vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání"
+identifier: "360/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/360/2025-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-12-06
+effective: 2011-01-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/360"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání ve znění vyhlášky č. 180/2017 Sb. a vyhlášky č. 181/2025 Sb."
+---
+
+# Vyhláška č. 360/2010 Sb., kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání
+
+360
+
+VYHLÁŠKA
+
+ze dne 6. prosince 2010,
+
+kterou se stanoví vzor elektronického formuláře návrhu na rozhodnutí sporu o povinnosti k peněžitému plnění a technické náležitosti jeho užívání
+
+Český telekomunikační úřad stanoví podle § 150 odst. 5 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů, (dále jen „zákon“) k provedení § 129 odst. 2 zákona, ve znění zákona č. 153/2010 Sb.:
+
+## § 1
+
+Vzor elektronického formuláře (dále jen „formulář“) návrhu na rozhodnutí sporu podle § 129 odst. 1 nebo § 129a odst. 1 zákona, který se týká povinnosti účastníka, popřípadě uživatele, k peněžitému plnění, je upraven v příloze této vyhlášky.
+
+## § 2
+
+(1) Formulář Úřad zpřístupní prostřednictvím informačního systému veřejné správy ve formě online HTML (HyperText Markup Language) formuláře s výstupem ve formátu PDF (Portable Document Format). Formulář je možné odeslat také z informačního systému osoby vykonávající komunikační činnost prostřednictvím rozhraní pro aplikační programy (API) po autentizaci na základě API klíče vydaného Úřadem.
+
+(2) Ve formuláři jsou označeny položky, jejichž vyplnění je povinné.
+
+(3) Velikost datového souboru obsahujícího formulář včetně všech připojených příloh musí být taková, aby umožnila učinit elektronické podání, jehož maximální souhrnná velikost je v případě podání na adresu elektronické pošty 20 MB, v případě jiného elektronického podání 100 MB.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2011.
+
+Předseda Rady Českého telekomunikačního úřadu:
+
+PhDr. Dvořák, CSc., v. r.
+
+### Příloha
+
+#### Vzor elektronického formuláře návrhu na rozhodnutí sporu podle § 129 odst. 1 nebo podle § 129a odst. 1 zákona, který se týká povinnosti účastníka, popřípadě uživatele, k peněžitému plnění
+
+#### ![sbcr2010c130z0360_2025c181z0181u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1436107/NAHLED/ZOBRAZ/sbcr2010c130z0360_2025c181z0181u001)

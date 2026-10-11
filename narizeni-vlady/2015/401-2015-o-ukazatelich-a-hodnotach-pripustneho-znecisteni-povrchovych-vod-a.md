@@ -1,0 +1,1134 @@
+---
+title: "Nařízení vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech"
+identifier: "401/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/401/2022-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2015-12-14
+effective: 2016-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/401"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech ve znění nařízení vlády č. 445/2021 Sb."
+---
+
+# Nařízení vlády č. 401/2015 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech
+
+401
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. prosince 2015
+
+o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech
+
+Vláda nařizuje podle § 31, § 32 odst. 2 a 3, § 34 odst. 2, § 38 odst. 5 a 8 a § 39 odst. 3 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb.:
+
+## § 1 – Předmět úpravy
+
+Toto nařízení
+
+a) v souladu s právem Evropské unie<sup>1</sup>) stanoví
+
+1\. ukazatele vyjadřující stav povrchové vody,
+
+2\. ukazatele a hodnoty přípustného znečištění povrchových vod,
+
+3\. ukazatele a hodnoty přípustného znečištění odpadních vod,
+
+4\. ukazatele a hodnoty přípustného znečištění odpadních vod pro citlivé oblasti a pro vypouštění odpadních vod do povrchových vod ovlivňujících kvalitu vody v citlivých oblastech,
+
+5\. ukazatele a hodnoty přípustného znečištění pro zdroje povrchových vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody,
+
+6\. ukazatele a hodnoty přípustného znečištění povrchových vod, které jsou vhodné pro život a reprodukci původních druhů ryb a dalších vodních živočichů,
+
+7\. ukazatele a hodnoty přípustného znečištění povrchových vod, které jsou využívány ke koupání,
+
+8\. normy environmentální kvality pro prioritní látky a některé další znečišťující látky,
+
+9\. náležitosti a podmínky povolení k vypouštění odpadních vod do vod povrchových a kanalizace,
+
+10\. seznam prioritních látek a prioritních nebezpečných látek,
+
+11\. nejlepší dostupné technologie v oblasti zneškodňování městských odpadních vod a podmínky jejich použití,
+
+b) v souladu s právem Evropské unie<sup>2</sup>) vymezuje citlivé oblasti.
+
+## § 2 – Vymezení pojmů
+
+Pro účely tohoto nařízení se rozumí
+
+a) průmyslovými odpadními vodami odpadní vody z výrob uvedených v části B přílohy č. 1 k tomuto nařízení, jakož i odpadní vody v této části přílohy neuvedené, jsou-li vypouštěny z výrobních nebo jim obdobných zařízení, včetně odpadních vod vypouštěných z průmyslových areálů, které vznikají převážně jako produkt průmyslové činnosti,
+
+b) splašky odpadní vody z domácností a služeb, které vznikají převážně jako produkt lidského metabolizmu a činností v domácnostech,
+
+c) městskými odpadními vodami splašky nebo směs splašků a průmyslových odpadních vod a nebo srážkových vod,
+
+d) zdrojem znečištění území obce, popřípadě její územně oddělená a samostatně odkanalizovaná část, území vojenského újezdu nebo areál průmyslového podniku či jiného objektu, pokud se z nich vypouštějí samostatně odpadní vody do vod povrchových. Za samostatný zdroj znečištění se považuje i areál či část areálu průmyslového podniku či jiného objektu, z nichž se odpadní vody vypouštějí do systému průtočného chlazení parních turbin, z něhož se vypouštějí do vod povrchových,
+
+e) emisními standardy nejvýše přípustné hodnoty ukazatelů znečištění odpadních vod uvedené v příloze č. 1 k tomuto nařízení,
+
+f) emisními limity nejvýše přípustné hodnoty ukazatelů znečištění odpadních vod, které stanoví vodoprávní úřad v povolení k vypouštění odpadních vod do vod povrchových,
+
+g) typem emisních standardů a limitů jejich vyjádření jako
+
+1\. koncentrace v jednotkách hmotnosti látky nebo skupiny látek na litr,
+
+2\. minimální účinnost čištění v čistírně odpadních vod v procentech,
+
+3\. množství vypouštěného znečištění v jednotkách hmotnosti látky nebo skupiny látek za určité časové období,
+
+4\. poměrné množství vypouštěného znečištění v jednotkách hmotnosti látky nebo skupiny látek na jednotku hmotnosti látky nebo suroviny použité při výrobě nebo výrobku,
+
+h) dobrým stavem povrchových vod stav povrchové vody, který odpovídá ukazatelům uvedeným v příloze č. 2 k tomuto nařízení,
+
+i) požadavky na užívání vod ukazatele a hodnoty přípustného znečištění zdrojů povrchových vod, které jsou využívány nebo u kterých se předpokládá jejich využití jako zdroje pitné vody, ukazatele a hodnoty přípustného znečištění povrchových vod, které jsou vhodné pro život a reprodukci původních druhů ryb a dalších vodních živočichů a ukazatele a hodnoty přípustného znečištění povrchových vod, které jsou využívány ke koupání,
+
+j) kombinovaným přístupem způsob stanovení emisních limitů při současném nepřekročení emisních standardů na základě ukazatelů vyjadřujících stav povrchové vody, norem environmentální kvality a požadavků na užívání vod podle přílohy č. 3 k tomuto nařízení a cílového stavu povrchových vod s přihlédnutím ke specifikaci nejlepších dostupných technik ve výrobě<sup>3</sup>) a nejlepších dostupných technologií<sup>4</sup>),
+
+k) průmyslovou čistírnou odpadních vod zařízení pro čištění průmyslových odpadních vod vybavené technologií pro likvidaci specifického znečištění v těchto vodách obsaženého, a jsou-li v tomto zařízení likvidovány také městské odpadní vody, technologií pro čištění městských odpadních vod,
+
+l) komunální čistírnou odpadních vod zařízení pro čištění městských odpadních vod vybavené technologií pro likvidaci splašků,
+
+m) aglomerací oblast, v níž jsou obyvatelé nebo hospodářská činnost koncentrovány natolik, že jsou městské odpadní vody shromažďovány a odváděny do komunální čistírny odpadních vod nebo do společného místa vypouštění.
+
+## § 3 – Náležitosti povolení k vypouštění odpadních vod do vod povrchových nebo do kanalizace
+
+(1) Povolení k vypouštění odpadních vod vedle obecných náležitostí<sup>5</sup>) obsahuje
+
+a) druh odpadních vod vypouštěných do povrchových vod, popřípadě do kanalizace,
+
+b) charakteristiku výrobní činnosti a její označení podle Klasifikace ekonomických činností (CZ-NACE)<sup>6</sup>),
+
+c) určení místa výpusti odpadních vod, pro kterou je povolení vydáno, s názvem vodního toku, číslem hydrologického pořadí povodí, s názvem a kódem vodního útvaru a uvedením kilometráže výpusti (staničení), popřípadě určení místa výpusti do kanalizace.
+
+(2) Dále vodoprávní úřad v povolení k vypouštění odpadních vod vždy stanoví
+
+a) emisní limity,
+
+b) způsob, četnost, typ a místo odběrů vzorků vypouštěných odpadních vod a místo a způsob měření jejich objemu na výpusti, popřípadě i na přítoku do čistírny odpadních vod,
+
+c) způsob provádění rozborů vypouštěných odpadních vod podle jednotlivých ukazatelů znečištění uvedených v povolení k vypouštění odpadních vod, způsob vyhodnocení výsledků rozborů jednotlivých ukazatelů znečištění a výsledků měření a stanovení objemu vypouštěných odpadních vod a zjištěného množství vypouštěných znečišťujících látek pro účely evidence a kontroly.
+
+## § 4 – Povolování vypouštění odpadních vod z vybraných výrob
+
+(1) Vypouštění odpadních vod do vod povrchových s obsahem biologicky rozložitelných organických látek ze zpracování mléka, výroby ovocných a zeleninových výrobků, výroby a stáčení nealkoholických nápojů, zpracování brambor, masného průmyslu, pivovarů, výroby alkoholu a alkoholických nápojů, výroby krmiv z rostlinných produktů, výroby želatiny a klihu z kůží a kostí, sladoven, průmyslu zpracování ryb, koželužen a cukrovarů, výrob biopaliv a rostlinných olejů lze povolit pouze za podmínky zajištění jejich biologického čištění.
+
+(2) Povolení k vypouštění odpadních vod s obsahem radioaktivních látek vyjádřených v jednotkách objemové aktivity do vod povrchových vydá vodoprávní úřad v souladu se souhlasným stanoviskem Státního úřadu pro jadernou bezpečnost<sup>7</sup>).
+
+**Stanovení emisních limitů**
+
+## § 5
+
+(1) Pokud jsou odpadní vody vypouštěny z jednoho zdroje znečištění více výpustmi, stanoví vodoprávní úřad emisní limity pro každou z nich. Městské odpadní vody odváděné stokovými soustavami z aglomerací o velikosti nad 2 000 ekvivalentních obyvatel musí být před vypouštěním do povrchových vod podrobeny čištění minimálně na úroveň emisních standardů odpovídajících velikosti aglomerace uvedených v příloze č. 1 k tomuto nařízení.
+
+(2) Vodoprávní úřad stanoví v povolení k vypouštění odpadních vod do vod povrchových emisní limity kombinovaným přístupem maximálně do výše emisních standardů uvedených v příloze č. 1 k tomuto nařízení. Vodoprávní úřad je zároveň vázán ukazateli vyjadřujícími stav povrchové vody, ukazateli a hodnotami přípustného znečištění povrchových vod, normami environmentální kvality uvedenými v přílohách č. 2 a 3 k tomuto nařízení a hodnocením výhledového stavu<sup>8</sup>).
+
+(3) Ovlivňují-li vypouštěné odpadní vody úsek lososových nebo kaprových vod, vodárenské nádrže nebo jiné zdroje povrchových vod, které jsou využívány nebo se předpokládá jejich využití jako zdroje pitné vody, nebo úsek povrchových vod využívaných ke koupání, použije vodoprávní úřad pro výpočet emisních limitů hodnoty přípustného znečištění těchto vod uvedené v tabulkách 1a až 1c přílohy č. 3 k tomuto nařízení a v jiných právních předpisech<sup>9</sup>).
+
+(4) Emisní limity pro vypouštění městských odpadních vod podle odstavce 2 stanoví vodoprávní úřad tak, aby byly zohledněny hodnoty vypočtené kombinovaným přístupem, nejvýše však do hodnot, které jsou při použití čistícího zařízení využívajícího nejlepší dostupnou technologii<sup>4</sup>) podle přílohy č. 7 k tomuto nařízení v místních přírodních a provozních podmínkách dosažitelné.
+
+## § 6
+
+(1) Jsou-li průmyslové odpadní vody čištěny v zařízení určeném k jejich čištění nebo zneškodňování, může vodoprávní úřad stanovit emisní limity pro místo výpusti z tohoto zařízení do kanalizace.
+
+(2) V povolení k vypouštění odpadních vod do vod povrchových stanoví vodoprávní úřad emisní limity pro místo výpusti. Emisní limity pro vypouštění průmyslových odpadních vod s obsahem zvlášť nebezpečné závadné látky do kanalizace podle § 16 vodního zákona stanoví vodoprávní úřad v místě odtoku ze zařízení, ve kterém tyto odpadní vody vznikají, pokud je nestanoví pro místo výpusti podle odstavce 1.
+
+(3) V povolení k vypouštění městských odpadních vod do vod povrchových stanoví vodoprávní úřad emisní limity do výše emisních standardů uvedených v tabulce 1a přílohy č. 1 k tomuto nařízení nebo stanoví emisní limity účinností čištění podle hodnot uvedených v tabulce 1b přílohy č. 1 k tomuto nařízení. Vodoprávní úřad stanoví pro každý ukazatel znečištění pouze jeden z těchto typů emisních limitů; v jednom rozhodnutí je možno typy emisních limitů pro různé ukazatele znečištění vzájemně kombinovat.
+
+(4) Vodoprávní úřad nepoužije emisní limity stanovené minimální účinností čištění podle tabulky 1b přílohy č. 1 k tomuto nařízení v případě, že by takový způsob neumožňoval vzhledem k výsledné koncentraci znečištění ve vypouštěných odpadních vodách dosažení dobrého stavu vodního útvaru, do něhož je odpadní voda vypouštěna, nebo způsobil zhoršení stavu vodního útvaru.
+
+## § 7
+
+(1) Obsahují-li odpadní vody na přítoku do komunální čistírny odpadních vod podíl průmyslových odpadních vod nebo jsou-li průmyslové odpadní vody na komunální čistírnu dováženy a likvidovány s využitím technologie čistírny, stanoví vodoprávní úřad ukazatele znečištění ve vypouštěných odpadních vodách včetně způsobu a četnosti sledování, v rozsahu umožňujícím posouzení účinnosti likvidace znečištění nebo s přihlédnutím k množství, typu a složení likvidovaných odpadních vod nebo odpadů stanoví pro vybrané ukazatele znečištění emisní limity ve vypouštěných odpadních vodách.
+
+(2) Na komunální čistírně odpadních vod mohou být likvidovány průmyslové odpadní vody pouze v případě, že v nich obsažené znečištění je technologií použitou na čistírně odstranitelné a nedojde-li k negativnímu ovlivnění stability čistícího procesu a zhoršení kvality vypouštěných odpadních vod.
+
+(3) Při povolování vypouštění průmyslových odpadních vod do vod povrchových stanoví vodoprávní úřad emisní limity podle druhu výroby maximálně do výše emisních standardů uvedených v tabulkách 2 a 3 přílohy č. 1 k tomuto nařízení. U zařízení podle zákona o integrované prevenci<sup>10</sup>) stanoví vodoprávní úřad pro ukazatele, které jsou upraveny v rozhodnutích o závěrech o nejlepších dostupných technikách<sup>11</sup>), emisní limity maximálně do výše hodnot stanovených v těchto rozhodnutích.
+
+(4) Není-li v tabulce 2 přílohy č. 1 k tomuto nařízení ukazatel uveden, může vodoprávní úřad v odůvodněných případech stanovit v povolení k vypouštění průmyslových odpadních vod způsob a četnost sledování tohoto ukazatele na určitou dobu, a po vyhodnocení sledování stanovit s přihlédnutím k ukazatelům podle přílohy č. 3 k tomuto nařízení emisní limit pro tento ukazatel.
+
+(5) Vodoprávní úřad stanoví v povolení k vypouštění průmyslových odpadních vod pro jednotlivé ukazatele znečištění též jejich nepřekročitelné hodnoty „m“.
+
+## § 8
+
+(1) Při povolování vypouštění odpadních vod s obsahem nebezpečných závadných látek do vod povrchových stanoví vodoprávní úřad emisní limity přiměřeně k emisním standardům ukazatelů znečištění obdobné míry škodlivosti.
+
+(2) Při povolování vypouštění odpadních vod s obsahem zvlášť nebezpečné závadné látky do kanalizace stanoví vodoprávní úřad emisní limity přiměřeně k emisním standardům stanoveným v příloze č. 1 k tomuto nařízení, a to maximálně do výše limitů stanovených kanalizačním řádem kanalizace pro veřejnou potřebu<sup>5</sup>).
+
+(3) Při povolování vypouštění odpadních vod obsahujících ukazatele znečištění neuvedené v příloze č. 1 ani v příloze č. 3 k tomuto nařízení stanoví vodoprávní úřad emisní limity přiměřeně k emisním standardům ukazatelů znečištění obdobné míry škodlivosti, normám environmentální kvality, požadavkům na užívání vod a místním podmínkám.
+
+(4) Seznam prioritních látek a prioritních nebezpečných látek v oblasti vodní politiky je stanoven v příloze č. 6 k tomuto nařízení.
+
+**Dodržení emisních limitů**
+
+## § 9
+
+(1) Emisní standardy „p“ uvedené v tabulce 1a přílohy č. 1 k tomuto nařízení, emisní standardy uvedené v tabulkách 2 a 3 přílohy č. 1 k tomuto nařízení a emisní limity podle nich stanovené vodoprávním úřadem v povolení k vypouštění odpadních vod se považují za dodržené, jestliže míra jejich překročení nepřesáhne hodnoty uvedené v příloze č. 5 k tomuto nařízení.
+
+(2) Emisní standardy „m“ uvedené v tabulce 1a přílohy č. 1 k tomuto nařízení a emisní limity „m“ stanovené vodoprávním úřadem v povolení k vypouštění odpadních vod jsou nepřekročitelnými hodnotami.
+
+(3) Emisní standardy stanovené jako roční poměrná množství vypouštěného znečištění v jednotkách hmotnosti na jednotku hmotnosti látky nebo suroviny použité při výrobě nebo výrobku uvedené v tabulce 2 přílohy č. 1 k tomuto nařízení, a emisní limity podle nich stanovené vodoprávním úřadem v povolení k vypouštění odpadních vod jsou nepřekročitelnými hodnotami.
+
+(4) Emisní standardy uvedené v tabulce 3 přílohy č. 1 k tomuto nařízení jako denní nebo měsíční průměrné koncentrace vypouštěných zvlášť nebezpečných závadných látek a denní nebo měsíční poměrná množství vypouštěných zvlášť nebezpečných závadných látek a emisní limity podle nich stanovené vodoprávním úřadem v povolení k vypouštění odpadních vod jsou nepřekročitelnými hodnotami.
+
+## § 10
+
+(1) Emisní limit stanovený jako minimální účinnost čištění je dodržen, jestliže počet negativních výsledků nepřekročí počet uvedený v příloze č. 5 k tomuto nařízení.
+
+(2) Pro posouzení dodržení hodnot ročního množství vypouštěného znečištění pro stanovenou znečišťující látku nebo skupinu látek stanovených v povolení k vypouštění odpadních vod je rozhodující součin ročního objemu vypuštěných odpadních vod a ročního aritmetického průměru výsledků rozborů odpadních vod; při posouzení dodržení hodnot ročního množství vypouštěného znečištění se vychází z údajů uplynulého kalendářního roku.
+
+(3) Pro posouzení dodržení hodnot ročního poměrného množství vypouštěného znečištění, stanovených v povolení k vypouštění odpadních vod, je rozhodující poměr vypočteného ročního množství vypouštěného znečištění k ročnímu množství látky nebo suroviny použité při výrobě nebo výrobku; přitom se použijí hodnoty za minulý kalendářní rok.
+
+(4) Pro posouzení dodržení povolení k vypouštění odpadních vod se použijí sledování za běžných provozních podmínek.
+
+(5) Emisní limity se nepovažují za dodržené v případě, že jich bylo dosaženo prokázaným zřeďováním odpadních vod.
+
+(6) Emisní standardy uvedené v tomto nařízení a emisní limity stanovené na základě tohoto nařízení zohledňují nejistotu metody analýzy a odběru vzorku, výsledek rozboru se tedy přímo porovnává s limitní hodnotou pro daný ukazatel.
+
+**Měření objemu vypouštěných odpadních vod a míry jejich znečištění**
+
+## § 11
+
+(1) Stanoví-li vodoprávní úřad emisní limit jako přípustnou účinnost čištění, stanoví místo měření jakosti vypouštěných odpadních vod i na přítoku do čistírny odpadních vod. Pokud je emisní limit stanoven jako poměrné množství, určí vodoprávní úřad i způsob sledování a evidence množství látek charakterizujících výrobní proces. Toto ustanovení se nevztahuje na čištění odpadních vod prostřednictvím ohlášeného vodního díla.
+
+(2) V povolení k vypouštění městských odpadních vod stanoví vodoprávní úřad minimální četnost sledování a typ vzorku podle hodnot uvedených v příloze č. 4 k tomuto nařízení; v povolení k vypouštění ostatních druhů odpadních vod stanoví četnost sledování a typ vzorku přiměřeně k těmto hodnotám.
+
+(3) V povolení k vypouštění městských odpadních vod z čistíren odpadních vod v kategoriích nad 2 000 ekvivalentních obyvatel stanoví vodoprávní úřad četnost a způsob sledování znečištění v ukazatelích znečištění N<sub>celk</sub> a P<sub>celk</sub> podle přílohy č. 4 k tomuto nařízení. V povolení k vypouštění městských odpadních vod z čistíren odpadních vod v kategoriích nad 10 000 ekvivalentních obyvatel stanoví vodoprávní úřad četnost a způsob sledování znečištění v ukazateli N-NH<sub>4</sub><sup>+</sup> podle přílohy č. 4 k tomuto nařízení. V povolení k vypouštění městských odpadních vod z čistíren odpadních vod v kategorii nad 100 000 ekvivalentních obyvatel stanoví vodoprávní úřad četnost a způsob sledování znečištění v ukazateli znečištění celkový organický uhlík (TOC) podle přílohy č. 4 k tomuto nařízení.
+
+(4) V povolení k vypouštění odpadních vod s obsahem zvlášť nebezpečných závadných látek může vodoprávní úřad k žádosti znečišťovatele pro účely stanovení četnosti odběru vzorků odečíst množství zvlášť nebezpečné závadné látky obsažené v jím odebrané vodě od množství této látky vypouštěného v odpadní vodě. Takto vodoprávní úřad postupuje pouze v případě, že znečištění odebrané vody zvlášť nebezpečnými závadnými látkami nezpůsobil svou činností žadatel.
+
+(5) Množství znečištění v odebrané vodě podle odstavce 4 se vypočte jako součin ročního objemu odebrané vody a průměrné roční koncentrace znečištění vypočtené jako aritmetický průměr ze všech vzorků odebraných za kalendářní rok. Pokud jsou odebrané vody použity k odečtu u více zdrojů znečišťování, rozdělí vodoprávní úřad množství znečištění v ukazatelích znečištění pro účely odečtu v poměru objemů vypouštěných odpadních vod u jednotlivých zdrojů znečišťování. Vodoprávní úřad může odečíst množství znečištění obsažené pouze v takovém množství odebrané vody, které odpovídá množství vypouštěných odpadních vod.
+
+## § 12
+
+(1) Odběry vzorků musejí být rovnoměrně rozloženy v průběhu celého kalendářního roku, a to i v případě, že se odebírá větší než minimální počet vzorků stanovený tímto nařízením; to se nevztahuje na řízené nebo nepravidelné vypouštění odpadních vod a vypouštění odpadních vod z kampaňových výrob, pro které způsob sledování stanoví vodoprávní úřad přiměřeně k požadavkům tohoto nařízení a k místním podmínkám.
+
+(2) Při povolování vypouštění odpadních vod s obsahem zvlášť nebezpečných závadných látek uvedených v tabulce 3 přílohy č. 1 k tomuto nařízení do vod povrchových stanoví vodoprávní úřad způsob jejich sledování na základě 24hodinových směsných vzorků při současném měření denního objemu vypouštěných odpadních vod. Měsíční průměry koncentrací a poměrných množství se stanoví na základě denního měření koncentrací, objemu odpadních vod a hodnot charakterizujících výrobu. Při povolování vypouštění průmyslových odpadních vod s obsahem těchto zvlášť nebezpečných závadných látek v množství menším, než je množství stanovené v tabulce 3 přílohy č. 3 k tomuto nařízení, stanoví vodoprávní úřad způsob jejich sledování přiměřeně k místním podmínkám.
+
+(3) Při povolování vypouštění odpadních vod s obsahem nebezpečných závadných látek do vod povrchových stanoví způsob jejich sledování vodoprávní úřad s četností 12 odběrů směsných 24hodinových vzorků za rok při současném měření objemu vypouštěných odpadních vod se sledováním koncentrace a množství těchto látek. Při určení způsobu sledování vodoprávní úřad vychází z míry jejich škodlivosti, vypouštěného množství za časové období, koncentrace ve vypouštěných odpadních vodách, místních podmínek a požadavků tohoto nařízení. Nelze-li například z důvodu diskontinuálního vypouštění stanovený typ odběru vzorku provést, stanoví vodoprávní úřad způsob a četnost sledování individuálně.
+
+(4) Při povolování vypouštění odpadních vod s obsahem zvlášť nebezpečných závadných látek nebo prioritních nebezpečných látek do kanalizace stanoví vodoprávní úřad způsob jejich měření obdobně postupu podle odstavců 1 a 2.
+
+(5) Při povolování vypouštění odpadních vod s obsahem závadných látek neuvedených v příloze č. 1 k tomuto nařízení stanoví způsob jejich měření vodoprávní úřad obdobně podle odstavců 1 a 3.
+
+## § 13
+
+(1) Jsou-li odpadní vody před vypuštěním do vod povrchových čištěny a vodoprávní úřad stanoví emisní limit jako minimální účinnost čištění, musí být ve stejné době odebírány vzorky odpadních vod na přítoku na čistírnu odpadních vod i na výpusti z ní do vod povrchových. Toto ustanovení se nevztahuje na čištění odpadních vod prostřednictvím ohlášeného vodního díla.
+
+(2) Vodoprávní úřad v povolení k vypouštění odpadních vod stanoví místo a způsob měření objemu vypouštěných odpadních vod, a to pro každou výpusť odpadních vod. Pokud je k měření objemu použit systém měřidel s volnou hladinou, s přihlédnutím k množství vypouštěných odpadních vod stanoví také časový interval pro kontrolu způsobilosti měrného systému, a to s četností maximálně 6 let. Kontrolu měrného systému mohou provádět pouze měřící skupiny, mající autorizaci k výkonu úředního měření průtoku měřidly s volnou hladinou<sup>12</sup>).
+
+(3) Není-li u čistírny odpadních vod pod 500 ekvivalentních obyvatel instalováno měření množství vypouštěných odpadních vod, stanoví se množství vypouštěných odpadních vod podle údajů vodoměru odebrané vody. Není-li vodoměr instalován, použijí se směrná čísla roční potřeby vody<sup>13</sup>).
+
+## § 14 – Vypouštění důlních vod, průsakových vod ze starých ekologických zátěží, odkališť a skládek odpadů a odpadních vod z jednotlivých rodinných domů a staveb pro rodinnou rekreaci a jiných staveb obdobné velikosti
+
+(1) Při stanovení způsobu a podmínek pro vypouštění důlních vod, průsakových vod ze starých ekologických zátěží, odkališť a skládek odpadů po rekultivaci s následnou péčí do vod povrchových postupuje vodoprávní úřad podle tohoto nařízení přiměřeně.
+
+(2) Při povolování vypouštění odpadních vod do vod povrchových z jednotlivých rodinných domů a staveb pro rodinnou rekreaci<sup>14</sup>) a jiných staveb obdobné velikosti postupuje vodoprávní úřad podle tohoto nařízení přiměřeně.
+
+(3) Minimální požadavky na kategorii výrobku označovaného CE, který je podstatnou součástí vodních děl ohlášených podle § 15a vodního zákona, včetně minimální přípustné účinnosti čištění v procentech jsou uvedeny v tabulce 1c přílohy č. 1 k tomuto nařízení.
+
+## § 15 – Citlivé oblasti
+
+(1) Všechny útvary povrchových vod na území České republiky se vymezují jako citlivé oblasti.
+
+(2) Emisní standardy pro citlivé oblasti a pro vypouštění odpadních vod do vod povrchových ovlivňujících kvalitu vody v citlivých oblastech v ukazatelích znečištění celkový dusík a sloučeniny dusíku a celkový fosfor odpovídají hodnotám těchto ukazatelů znečištění uvedeným v tabulkách 1a a 1b přílohy č. 1 k tomuto nařízení.
+
+## § 16 – Zrušovací ustanovení
+
+Zrušuje se:
+
+1\. Nařízení vlády č. 61/2003 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech.
+
+2\. Nařízení vlády č. 229/2007 Sb., kterým se mění nařízení vlády č. 61/2003 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech.
+
+3\. Nařízení vlády č. 23/2011 Sb., kterým se mění nařízení vlády č. 61/2003 Sb., o ukazatelích a hodnotách přípustného znečištění povrchových vod a odpadních vod, náležitostech povolení k vypouštění odpadních vod do vod povrchových a do kanalizací a o citlivých oblastech.
+
+## § 17 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2016.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr životního prostředí:
+
+Mgr. Brabec v. r.
+
+### Příloha č. 1 k nařízení vlády č. 401/2015 Sb.
+
+#### Emisní standardy ukazatelů přípustného znečištění odpadních vod
+
+A.
+
+#### Odpadní vody vypouštěné z komunálních čistíren odpadních vod
+
+#### Tabulka 1a: Emisní standardy: přípustné hodnoty (p)<sup>3</sup><sup>)</sup>, maximální hodnoty (m)<sup>4</sup><sup>)</sup> a hodnoty průměru<sup>5</sup><sup>)</sup> koncentrace ukazatelů znečištění vypouštěných odpadních vod v mg/l
+
+<table><tbody><tr><th rowspan="2">Kategorie ČOV (EO) <sup>1)7) </sup>nebo velikost aglomerace</th><th colspan="2">CHSK<sub>Cr</sub></th><th colspan="2">BSK<sub>5</sub></th><th colspan="2">NL</th><th colspan="2">N-NH<sub>4</sub><sup>+</sup><sup>*</sup></th><th colspan="2">N<sub>celk </sub><sup>2), 8)</sup><sup>*</sup></th><th colspan="2">P<sub>celk</sub>*</th></tr><tr><th>p <sup>3</sup><sup>)</sup></th><th>m <sup>4</sup><sup>)</sup></th><th>p <sup>3</sup><sup>)</sup></th><th>m <sup>4</sup><sup>)</sup></th><th>p <sup>3</sup><sup>)</sup></th><th>m <sup>4</sup><sup>)</sup></th><th>průměr <sup>5</sup><sup>)</sup></th><th><sub>m </sub><sup>4</sup><sup>)</sup><sup>,</sup><sup>6</sup><sup>)</sup></th><th>průměr <sup>5</sup><sup>)</sup></th><th><sub>m </sub><sup>4</sup><sup>)</sup><sup>,</sup><sup>6</sup><sup>)</sup></th><th>průměr <sup>5</sup><sup>)</sup></th><th>m <sup>4</sup><sup>)</sup></th></tr><tr><td>&lt; 500</td><td>150</td><td>220</td><td>40</td><td>80</td><td>50</td><td>80</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>500 - 2 000</td><td>125</td><td>180</td><td>30</td><td>60</td><td>40</td><td>70</td><td>20</td><td>40</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2 001 - 10 000</td><td>120</td><td>170</td><td>25</td><td>50</td><td>30</td><td>60</td><td>15</td><td>30</td><td>-</td><td>-</td><td>3</td><td>8</td></tr><tr><td>10 001 - 100 000</td><td>90</td><td>130</td><td>20</td><td>40</td><td>25</td><td>50</td><td>-</td><td>-</td><td>15</td><td>30</td><td>2</td><td>6</td></tr><tr><td>&gt; 100 000</td><td>75</td><td>125</td><td>15</td><td>30</td><td>20</td><td>40</td><td>-</td><td>-</td><td>10</td><td>20</td><td>1</td><td>3</td></tr></tbody></table>
+
+\* Neexistence konkrétního emisního standardu nevylučuje možnost stanovení emisního limitu pro daný ukazatel při postupu podle § 5 odst. 2 a 3.
+
+<sup>1)</sup> Rozumí se kategorie čistírny odpadních vod vyjádřená v počtu ekvivalentních obyvatel. Ekvivalentní obyvatel (EO) je definovaný produkcí znečištění 60 g BSK5 za den. Počet ekvivalentních obyvatel se pro účel zařazení čistírny odpadních vod do velikostní kategorie vypočítává z maximálního průměrného týdenního zatížení na přítoku do čistírny odpadních vod během roku s výjimkou neobvyklých situací, přívalových dešťů a povodní. Pro určení velikosti aglomerace se použije stejný postup pro všechny odpadní vody odváděné kanalizací pro veřejnou potřebu. Pro účely stanovení limitů se použije vyšší z obou hodnot.
+
+U kategorií ČOV pod 2000 EO lze použít pro účel zařazení čistírny do velikostní kategorie (v tabulce 1a nebo 1b v příloze č. 1 a v tabulce v příloze č. 4 k tomuto nařízení) výpočet z bilance v ukazateli BSK<sub>5</sub> v kg za kalendářní rok na přítoku do čistírny vydělený koeficientem 18,7. U nových ČOV se pro zařazení do velikostní kategorie v prvním roce po výstavbě (zkušební provoz) použije návrhový parametr v zatížení BSK<sub>5</sub>. Po prvotním provedení kategorizace je v případě změny zatížení další kategorizace prováděna až s ukončením platnosti povolení k vypouštění odpadních vod.
+
+<sup>2)</sup> Celkový dusík je ukazatel, který zahrnuje všechny formy dusíku.
+
+<sup>3)</sup> Uváděné přípustné koncentrace „p“ nejsou aritmetické průměry za kalendářní rok a mohou být překročeny v povolené míře podle hodnot uvedených v příloze č. 5 k tomuto nařízení. Vodoprávní úřad stanoví typ vzorku A nebo B nebo C podle poznámky 2) k tabulce v příloze č. 4 k tomuto nařízení.
+
+<sup>4)</sup> Uváděné maximální koncentrace „m“ jsou nepřekročitelné. Vodoprávní úřad stanoví typ vzorku uvedený v tabulce 1 přílohy č. 4 k tomuto nařízení v souladu se stanovením hodnoty „p“.
+
+<sup>5)</sup> Uváděné hodnoty jsou aritmetické průměry koncentrací za kalendářní rok a nesmí být překročeny. Počet vzorků odpovídá ročnímu počtu vzorků stanovenému vodoprávním úřadem. Vodoprávní úřad stanoví typ vzorku A nebo B nebo C podle poznámky 2) k tabulce v příloze č. 4 k tomuto nařízení.
+
+<sup>6)</sup> Hodnota platí pro období, ve kterém je teplota odpadní vody na odtoku z biologického stupně vyšší než 12°C. Teplota odpadní vody se pro tento účel považuje za vyšší než 12°C, pokud z pěti měření provedených v průběhu dne byla tři měření vyšší než 12°C. V případě odběru vzorku A nebo prostého vzorku se stanovení teploty provedou v době odběru vzorku.
+
+<sup>7)</sup> Rozbory odtoků z biologických dočišťovacích nádrží zkolaudovaných do 3. 3. 2011 se provádějí ve filtrovaných vzorcích, koncentrace celkových nerozpuštěných látek však nesmí přesáhnout hodnotu 100 mg/l.
+
+<sup>8)</sup> Požadavky na dusík je možno kontrolovat pomocí denních průměrů, jestliže se prokáže, že je takto zajištěna stejná úroveň ochrany vod. V tomto případě denní průměr nesmí přesáhnout 20 mg/l celkového dusíku pro všechny vzorky, jestliže teplota na odtoku biologického stupně čistírny odpadních vod je vyšší nebo rovná 12°C. Zohlednění požadavků na funkci biologického odstranění dusíku a plnění limitů při teplotách na odtoku nižších než 12°C může být nahrazeno zohledněním pro časově určené zimní období podle oblastních klimatických podmínek, které stanoví vodoprávní úřad u tohoto ukazatele znečištění.
+
+#### Tabulka 1b: Emisní standardy: přípustná minimální účinnost čištění vypouštěných odpadních vod (minimální procento úbytku)<sup>1),2)</sup> v procentech
+
+| Kategorie ČOV (EO) nebo velikost aglomerace | CHSK<sub>Cr</sub> | BSK<sub>5</sub> | N-NH<sub>4</sub><sup>+ \*</sup> | N<sub>celk</sub><sup>3</sup><sup>)</sup> <sup>\*</sup> | P<sub>celk</sub><sup>\*</sup> |
+|---|---|---|---|---|---|
+| &lt; 500 | 70 | 80 | - | - | - |
+| 500 - 2 000 | 70 | 80 | 50 | - | - |
+| 2 001 - 10 000 | 75 | 85 | 60 | - | 70 |
+| 10 001 - 100 000 | 75 | 85 | - | 70 | 80 |
+| &gt; 100 000 | 75 | 85 | - | 70 | 80 |
+
+\* Neexistence konkrétního emisního standardu nevylučuje možnost stanovení emisního limitu pro daný ukazatel při postupu podle § 5 odst. 2 a 3 k tomuto nařízení.
+
+<sup>1)</sup> Účinnost čištění vztažená k zátěži na přítoku do čistírny odpadních vod.
+
+<sup>2)</sup> Uváděné přípustné hodnoty účinnosti čištění mají charakter „p“ hodnot a mohou být v povoleném počtu jednotlivých stanovení nedosaženy podle hodnot v příloze č. 5 k tomuto nařízení. Pro stanovení hodnot minimální účinnosti čištění použije vodoprávní úřad typ vzorku A nebo B nebo C podle poznámky 2) k tabulce v příloze č. 4 k tomuto nařízení.
+
+<sup>3)</sup> Celkový dusík je ukazatel, který zahrnuje všechny formy dusíku.
+
+#### Tabulka 1c: Minimální účinnost čištění pro kategorie výrobků označovaných CE v procentech
+
+| Kategorie<br> výrobku<br> označovaného CE | CHSK<sub>Cr</sub> | BSK<sub>5</sub> | N-NH<sub>4</sub><sup>+</sup> | Ncelk | P<sub>celk</sub> |
+|---|---|---|---|---|---|
+| I | 70 | 80 | - | - | - |
+| II | 75 | 85 | 75 | - | - |
+| III | 75 | 85 | 80 | 50 | 80 |
+
+Domovní čistírna odpadních vod je certifikována podle nařízení Evropského parlamentu a Rady 305/2011 ze dne 9. března 2011, kterým se stanoví harmonizované podmínky pro uvádění stavebních výrobků na trh a kterým se zrušuje směrnice Rady 89/106/EHS, a podle ČSN EN 12566-3+A2 Malé čistírny odpadních vod do 50 ekvivalentních obyvatel - Část 3: Balené a/nebo na místě montované domovní čistírny odpadních vod (dále jen „DČOV“).
+
+Kategorie I - DČOV určené pro obvyklé vypouštění do vod povrchových. S DČOV kategorie I se uvažuje jako s obvyklým řešením pro většinu lokalit, ve kterých se využití DČOV předpokládá, a to zejména tam, kde se prokáže, že použitím zařízení této kategorie nebudou překročeny normy environmentální kvality uvedené v příloze č. 3 k tomuto nařízení. Příslušným certifikátem dle ČSN EN 12566-3 je doložena požadovaná úroveň odstranění uhlíkatého znečištění.
+
+Kategorie II - DČOV, u nichž je vyšší účinnost odstranění uhlíkatého znečištění a stabilní nitrifikace nutná vzhledem ke zvýšené ochraně povrchových vod, zejména tam, kde zvýšený obsah amoniaku může působit toxicky na vodní ekosystémy a tam, kde malá vodnost toku nezaručuje dosažení norem environmentální kvality a požadavků na užívání vod uvedených v příloze č. 3 k tomuto nařízení. DČOV musí garantovat při navrhovaném zatížení dostatečné aerobní stáří kalu tj. větší objem aktivace ve srovnání s kategorií I nebo jiný konstrukční prvek zaručující zvýšení koncentrace vhodných mikroorganismů v systému např. nosič biomasy apod.
+
+Kategorie III - DČOV, u nichž je vyšší účinnost nitrifikace, částečné odstraňování dusíku denitrifikací a odstranění fosforu nutné z důvodu vypouštění do vod povrchových s přísnějšími požadavky z důvodu užívání vod pro vodárenské účely apod. Jedná se nejčastěji o DČOV kategorie II, doplněné např. membránovou filtrací nebo jiným dalším stupněm čištění - chemickým srážením, filtrací (pískový filtr, zemní filtr), sorpcí apod. Tyto DČOV musí být vybaveny odděleným prostorem pro akumulaci kalu.
+
+B.
+
+#### Průmyslové odpadní vody
+
+#### Tabulka 2: Emisní standardy: přípustné hodnoty znečištění pro odpadní vody vypouštěné z vybraných průmyslových a zemědělských odvětví
+
+<table><tbody><tr><th>CZ-NACE</th><th>Průmyslový obor/ukazatel</th><th>Jednotka</th><th>Přípustné hodnoty "p"<sup>a</sup><sup>)</sup></th></tr><tr><td>01.00</td><td colspan="3">Rostlinná a živočišná výroba, myslivost a související činnosti</td></tr><tr><td rowspan="8">01.46</td><td colspan="3">Chov prasat</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>500</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>100</td></tr><tr><td>NL</td><td>mg/l</td><td>140</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>60</td></tr><tr><td>N-NH<sub>4</sub><sup>+ </sup>(Z)</td><td>mg/l</td><td>400</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>250</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>500</td></tr><tr><td rowspan="9">01.47</td><td colspan="3">Chov drůbeže</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>200</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>NL</td><td>mg/l</td><td>80</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>20</td></tr><tr><td>N-NH<sub>4</sub><sup>+ </sup>(Z)</td><td>mg/l</td><td>36</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>40</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>80</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>10</td></tr><tr><td>05.00</td><td colspan="3">Těžba a úprava černého a hnědého uhlí</td></tr><tr><td rowspan="6">05.10</td><td colspan="3">Těžba a úprava černého uhlí</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>PAU</td><td>mg/l</td><td>0,01</td></tr><tr><td>Železo</td><td>mg/l</td><td>3</td></tr><tr><td>Mangan</td><td>mg/l</td><td>1</td></tr><tr><td rowspan="6">05.20</td><td colspan="3">Těžba a úprava hnědého uhlí a lignitu</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>PAU</td><td>mg/l</td><td>0,01</td></tr><tr><td>Železo</td><td>mg/l</td><td>3</td></tr><tr><td>Mangan</td><td>mg/l</td><td>1</td></tr><tr><td>07.00</td><td colspan="3">Těžba a úprava rud</td></tr><tr><td rowspan="9">7.10<br> 7.29</td><td colspan="3">Těžba a úprava železných a ostatních neželezných rud<sup>1</sup><sup>)</sup></td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>3</td></tr><tr><td>Arsen</td><td>mg/l</td><td>0,5</td></tr><tr><td>Měď</td><td>mg/l</td><td>1</td></tr><tr><td>Olovo</td><td>mg/l</td><td>0,5</td></tr><tr><td>Zinek</td><td>mg/l</td><td>3</td></tr><tr><td>Železo</td><td>mg/l</td><td>5</td></tr><tr><td rowspan="3">07.21</td><td colspan="3">Těžba a úprava uranových a thoriových rud</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>30</td></tr><tr><td>08.00</td><td colspan="3">Ostatní těžba a dobývání</td></tr><tr><td rowspan="3">8.11</td><td colspan="3">Dobývání kamene pro výtvarné nebo stavební účely, vápence, sádrovce, křídy a břidlice</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>3</td></tr><tr><td>10.00</td><td colspan="3">Výroba potravinářských výrobků</td></tr><tr><td rowspan="10">10.1</td><td colspan="3">Zpracování a konzervování masa a výroba masných výrobků</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>200</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>NL</td><td>mg/l</td><td>80</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>20</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup>(Z)</td><td>mg/l</td><td>36</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>30</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>50</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>10</td></tr><tr><td>EL</td><td>mg/l</td><td>10</td></tr><tr><td rowspan="8">10.2</td><td colspan="3">Zpracování a konzervování ryb, korýšů a měkkýšů</td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>250</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>10</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>25</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>2</td></tr><tr><td>EL</td><td>mg/l</td><td>10</td></tr><tr><td rowspan="11">10.3</td><td colspan="3">Zpracování a konzervování ovoce a zeleniny</td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>200</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>20</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup>(Z)</td><td>mg/l</td><td>36</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>30</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>50</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>10</td></tr><tr><td>EL</td><td>mg/l</td><td>10</td></tr><tr><td rowspan="6">10.4</td><td colspan="3">Výroba rostlinných a živočišných olejů a tuků</td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>250</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>EL</td><td>mg/l</td><td>10</td></tr><tr><td rowspan="12">10.5</td><td colspan="3">Výroba mléčných výrobků</td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>120</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>30</td></tr><tr><td>NL</td><td>mg/l</td><td>50</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>10</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup>(Z)</td><td>mg/l</td><td>18</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>30</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>50</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>5</td></tr><tr><td>EL</td><td>mg/l</td><td>10</td></tr><tr><td>AOX</td><td>mg/l</td><td>0,5</td></tr><tr><td rowspan="10">10.62</td><td colspan="3">Výroba škrobárenských výrobků</td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>200</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>NL</td><td>mg/l</td><td>80</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>20</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup>(Z)</td><td>mg/l</td><td>36</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>30</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>50</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>10</td></tr><tr><td rowspan="10">10.81</td><td colspan="3">Výroba cukru (přírodního)</td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>160</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>40</td></tr><tr><td>NL</td><td>mg/l</td><td>80</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>10</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup>(Z)</td><td>mg/l</td><td>20</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>20</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>35</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>10</td></tr><tr><td rowspan="2">10.89</td><td colspan="3">Výroba droždí</td></tr><tr><td>ukazatele a přípustné hodnoty podle CZ-NACE 10.62 (Výroba škrobárenských výrobků)</td><td></td><td></td></tr><tr><td rowspan="5">10.91 <br> 10.92</td><td colspan="3">Výroba průmyslových krmiv</td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>250</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>100</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>10</td></tr><tr><td>11.00</td><td colspan="3">Výroba nápojů</td></tr><tr><td rowspan="11">11.05 <br> 11.06</td><td colspan="3">Výroba piva a sladu</td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>130</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>40</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>10</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup>(Z)</td><td>mg/l</td><td>18</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>20</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>34</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>5</td></tr><tr><td>AOX</td><td>mg/l</td><td>0,5</td></tr><tr><td rowspan="5">11.07</td><td colspan="3">Stáčení minerální a pitné vody do lahví a výroba nealkoholických nápojů</td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>110</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>25</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>2</td></tr><tr><td>13.00</td><td colspan="3">Výroba textilií</td></tr><tr><td rowspan="13">13.1<br> 13.2<br> 13.3<br> 13.9</td><td colspan="3">Úprava a spřádání textilních vláken a příze, tkaní, úprava a výroba textilií<sup>2</sup><sup>)</sup></td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>300</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>5</td></tr><tr><td>RAS</td><td>mg/l</td><td>2000</td></tr><tr><td>Chrom šestimocný</td><td>mg/l</td><td>0,3</td></tr><tr><td>Chrom</td><td>mg/l</td><td>0,5</td></tr><tr><td>Měď</td><td>mg/l</td><td>0,5</td></tr><tr><td>Nikl</td><td>mg/l</td><td>0,5</td></tr><tr><td>Zinek</td><td>mg/l</td><td>3</td></tr><tr><td>Železo</td><td>mg/l</td><td>3</td></tr><tr><td>AOX</td><td>mg/l</td><td>5</td></tr><tr><td>15.00</td><td colspan="3">Výroba usní a souvisejících výrobků</td></tr><tr><td rowspan="24">15.11</td><td colspan="3">Činění a úprava usní (vyčiněných kůží); zpracování a barvení kožešin</td></tr><tr><td colspan="3">Koželužny s chromčiněním:</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>500</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>%</td><td>80</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50(25<sup>18</sup><sup>)</sup>)</td></tr><tr><td>NL</td><td>mg/l</td><td>40(35<sup>18</sup><sup>)</sup>)</td></tr><tr><td>RAS</td><td>mg/l</td><td>5000</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>80(10<sup>18</sup><sup>)</sup>)</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup>(Z)</td><td>mg/l</td><td>150(20<sup>18</sup><sup>)</sup>)</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>100</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>175</td></tr><tr><td>Sulfidy</td><td>mg/l</td><td>1,5(1<sup>18</sup><sup>)</sup>)</td></tr><tr><td>Chrom</td><td>mg/l</td><td>1</td></tr><tr><td colspan="3">Koželužny s jiným způsobem činění (třísločinění, aldehydické činění):</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>1000</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>%</td><td>70</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>100</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>RAS</td><td>mg/l</td><td>5000</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>100</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup>(Z)</td><td>mg/l</td><td>175</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>120</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>200</td></tr><tr><td>Sulfidy</td><td>mg/l</td><td>2</td></tr><tr><td>16.00</td><td colspan="3">Zpracování dřeva, výroba dřevěných, korkových, proutěných a slaměných výrobků, kromě nábytku</td></tr><tr><td>16.1</td><td colspan="3" rowspan="2">Zpracování dřeva, výroba dřevařských, korkových, proutěných a slaměných výrobků kromě nábytku<sup>3</sup><sup>)</sup></td></tr><tr><td rowspan="3">16.2</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>3</td></tr><tr><td>PAU</td><td>mg/l</td><td>0,01</td></tr><tr><td>17.00</td><td colspan="3">Výroba papíru a výrobků z papíru</td></tr><tr><td rowspan="36">17.11</td><td colspan="3">Výroba vlákniny</td></tr><tr><td colspan="3">Výroba sulfitové buničiny:</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>400</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>30<sup>19),</sup></td></tr><tr><td>CHSK<sub>Cr</sub> (proces Magnefite)</td><td>kg/t</td><td>35<sup>19),</sup></td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>40</td></tr><tr><td>BSK<sub>5</sub></td><td>kg/t</td><td>20</td></tr><tr><td>NL</td><td>mg/l</td><td>60</td></tr><tr><td>NL</td><td>kg/t</td><td>1,5<sup>19),</sup></td></tr><tr><td>NL (proces Magnefite)</td><td>kg/t</td><td>2<sup>19),</sup></td></tr><tr><td>N<sub>celk.</sub></td><td>kg/t</td><td>0,3<sup>19),</sup></td></tr><tr><td>N<sub>celk.</sub> (proces Magnefite)</td><td>kg/t</td><td>0,25<sup>19),</sup></td></tr><tr><td>P<sub>celk.</sub></td><td>kg/t</td><td>0,05<sup>19),</sup></td></tr><tr><td>P<sub>celk.</sub> (proces Magnefite)</td><td>kg/t</td><td>0,07<sup>19),</sup></td></tr><tr><td>AOX</td><td>mg/l</td><td>1</td></tr><tr><td>AOX</td><td>kg/t</td><td>1,5<sup>19),</sup></td></tr><tr><td colspan="3">Výroba sulfátové buničiny:</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>300</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>8<sup>19</sup><sup>)</sup></td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>25</td></tr><tr><td>BSK<sub>5</sub></td><td>kg/t</td><td>5</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>NL</td><td>kg/t</td><td>1<sup>19</sup><sup>)</sup></td></tr><tr><td>N<sub>celk.</sub></td><td>kg/t</td><td>0,2<sup>19</sup><sup>)</sup></td></tr><tr><td>P<sub>celk.</sub></td><td>kg/t</td><td>0,02<sup>19</sup><sup>)</sup></td></tr><tr><td>AOX</td><td>mg/l</td><td>1</td></tr><tr><td colspan="3">Výroba vlákniny z celulózy chemotermomechanicky nebo chemickomechanicky</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>20<sup>19</sup><sup>)</sup></td></tr><tr><td>NL</td><td>kg/t</td><td>0,9<sup>19</sup><sup>)</sup></td></tr><tr><td>N<sub>celk.</sub></td><td>kg/t</td><td>0,18<sup>19</sup><sup>)</sup></td></tr><tr><td>P<sub>celk.</sub></td><td>kg/t</td><td>0,01<sup>19</sup><sup>)</sup></td></tr><tr><td colspan="3">Bělení buničiny sloučeninami chloru:</td></tr><tr><td>AOX</td><td>mg/l</td><td>5</td></tr><tr><td>AOX</td><td>kg/t</td><td>1,5<sup>19</sup><sup>)</sup></td></tr><tr><td colspan="3">Bezchlorové bělení buničiny:</td></tr><tr><td>AOX</td><td>mg/l</td><td>1</td></tr><tr><td rowspan="30">17.12</td><td colspan="3">Výroba papíru a lepenky<sup>4</sup><sup>)</sup></td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>200</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>40 (25<sup>21</sup><sup>)</sup>)</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>AOX</td><td>mg/l</td><td>5</td></tr><tr><td>AOX</td><td>kg/t</td><td>0,5</td></tr><tr><td colspan="3">Integrovaná výroba papíru a lepenky z buničiny z recyklovaných vláken bez zesvětlování<sup>21</sup><sup>)</sup></td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>1,4</td></tr><tr><td>NL</td><td>kg/t</td><td>0,2</td></tr><tr><td>N<sub>celk.</sub></td><td>kg/t</td><td>0,09</td></tr><tr><td>P<sub>celk.</sub></td><td>kg/t</td><td>0,005<sup>22</sup><sup>)</sup></td></tr><tr><td>AOX</td><td>kg/t</td><td>0,05<sup>23</sup><sup>)</sup></td></tr><tr><td colspan="3">Integrovaná výroba papíru a lepenky z buničiny z recyklovaných vláken se zesvětlováním<sup>21</sup><sup>)</sup></td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>3(4<sup>24</sup><sup>)</sup>)</td></tr><tr><td>NL</td><td>kg/t</td><td>0,3 (0,4<sup>24</sup><sup>)</sup>)</td></tr><tr><td>N<sub>celk.</sub></td><td>kg/t</td><td>0,1 (0,15<sup>24</sup><sup>)</sup>)</td></tr><tr><td>P<sub>celk.</sub></td><td>kg/t</td><td>0,01 (0,015<sup>24</sup><sup>)</sup>)</td></tr><tr><td>AOX</td><td>kg/t</td><td>0,05<sup>23</sup><sup>)</sup></td></tr><tr><td colspan="3">Neintegrovaná výroba papíru a lepenky (s výjimkou speciálních druhů papírů)<sup>21</sup><sup>)</sup></td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>1,5</td></tr><tr><td>NL</td><td>kg/t</td><td>0,35</td></tr><tr><td>N<sub>celk.</sub></td><td>kg/t</td><td>0,1 (0,15<sup>25</sup><sup>)</sup>)</td></tr><tr><td>P<sub>celk.</sub></td><td>kg/t</td><td>0,012</td></tr><tr><td>AOX</td><td>kg/t</td><td>0,05<sup>26</sup><sup>)</sup></td></tr><tr><td colspan="3">Neintegrovaná výroba speciálních druhů papírů papíru<sup>21</sup><sup>)</sup></td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>5</td></tr><tr><td>NL</td><td>kg/t</td><td>1</td></tr><tr><td>N<sub>celk.</sub></td><td>kg/t</td><td>0,4</td></tr><tr><td>P<sub>celk.</sub></td><td>kg/t</td><td>0,04</td></tr><tr><td>AOX</td><td>kg/t</td><td>0,05<sup>26</sup><sup>)</sup></td></tr><tr><td>19.00</td><td colspan="3">Výroba koksu a rafinovaných ropných produktů</td></tr><tr><td rowspan="10">19.1</td><td colspan="3">Výroba koksárenských produktů</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>20</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>200</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup> + N-NO<sub>2</sub><sup>-</sup> + N-NO<sub>3</sub><sup>-</sup></td><td>mg/l</td><td>35</td></tr><tr><td>Fenoly</td><td>mg/l</td><td>0,5</td></tr><tr><td>Kyanidy snadno uvolnitelné</td><td>mg/l</td><td>0,1</td></tr><tr><td>Sulfidy</td><td>mg/l</td><td>0,1</td></tr><tr><td>PAU</td><td>mg/l</td><td>0,01</td></tr><tr><td rowspan="14">19.2</td><td colspan="3">Výroba rafinovaných ropných produktů</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>125<sup>27</sup><sup>)</sup></td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>NL</td><td>mg/l</td><td>25<sup>27</sup><sup>)</sup></td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>20</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup>(Z)</td><td>mg/l</td><td>40</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>25<sup>27</sup><sup>)</sup></td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>2,5<sup>27</sup><sup>)</sup></td></tr><tr><td>PAU</td><td>mg/l</td><td>0,01</td></tr><tr><td>Olovo</td><td>mg/l</td><td>0,03<sup>27</sup><sup>)</sup></td></tr><tr><td>Kadmium</td><td>mg/l</td><td>0,008<sup>27</sup><sup>)</sup></td></tr><tr><td>Nikl</td><td>mg/l</td><td>0,1<sup>27</sup><sup>)</sup></td></tr><tr><td>Rtuť</td><td>mg/l</td><td>0,001<sup>27</sup><sup>)</sup></td></tr><tr><td>Benzen</td><td>mg/l</td><td>0,05<sup>27</sup><sup>)</sup></td></tr><tr><td>20.00</td><td colspan="3">Výroba chemických látek a chemických přípravků</td></tr><tr><td rowspan="27">20.12</td><td colspan="3">Výroba barviv a pigmentů <sup>5</sup>)</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>40</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>15</td></tr><tr><td>RL</td><td>mg/l</td><td>4000</td></tr><tr><td>RAS</td><td>mg/l</td><td>3500</td></tr><tr><td>NL</td><td>mg/l</td><td>30</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>4</td></tr><tr><td>Fluoridy</td><td>mg/l</td><td>9</td></tr><tr><td>Sírany</td><td>mg/l</td><td>3000</td></tr><tr><td>Železo</td><td>mg/l</td><td>8</td></tr><tr><td colspan="3">Výroba organických barviv:</td></tr><tr><td>BSK<sub>5</sub></td><td>%</td><td>40</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>%</td><td>80</td></tr><tr><td>RAS</td><td>kg/t</td><td>1250</td></tr><tr><td>Výroba oxidu titaničitého sulfátovým procesem:</td><td></td><td></td></tr><tr><td>pH</td><td>-</td><td>7-10</td></tr><tr><td>NL</td><td>mg/l</td><td>30</td></tr><tr><td>Železo</td><td>mg/l</td><td>8</td></tr><tr><td>Sírany</td><td>kg/t</td><td>550</td></tr><tr><td colspan="3">Výroba oxidu titaničitého chloridovým způsobem<sup>27a</sup>)</td></tr><tr><td>pH</td><td>mg/l</td><td>7-10</td></tr><tr><td>NL</td><td>mg/l</td><td>30</td></tr><tr><td>železo</td><td>mg/l</td><td>8</td></tr><tr><td>chloridy</td><td>kg/t</td><td>130<sup>27b</sup>)</td></tr><tr><td>chloridy</td><td>kg/t</td><td>228<sup>27c</sup>)</td></tr><tr><td>chloridy</td><td>kg/t</td><td>330<sup>27d</sup>)</td></tr><tr><td rowspan="6">20.13</td><td colspan="3">Výroba jiných základních anorganických chemických látek</td></tr><tr><td colspan="3">Výroba sloučenin síry (mimo kyseliny sírové):</td></tr><tr><td>RAS</td><td>kg/t</td><td>150</td></tr><tr><td colspan="3">Amalgamová elektrolýza:<sup>6</sup><sup>)</sup></td></tr><tr><td>RAS</td><td>kg/t Cl<sub>2</sub></td><td>100</td></tr><tr><td>Volný chlor (vyjádřený jako Cl<sub>2</sub>)</td><td>mg/l</td><td>0,2<sup>28</sup><sup>)</sup></td></tr><tr><td rowspan="11">20.14</td><td colspan="3">Výroba jiných základních organických chemických látek<sup>7</sup><sup>)</sup></td></tr><tr><td colspan="3">Organické syntézy:</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>500</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>80</td></tr><tr><td>RAS</td><td>mg/l</td><td>1000</td></tr><tr><td colspan="3">Výroba epichlorhydrinu:</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>60</td></tr><tr><td>RAS</td><td>kg/t</td><td>1800</td></tr><tr><td>AOX</td><td>kg/t</td><td>0,5</td></tr><tr><td>Výroba etylalkoholu kvašením:</td><td></td><td></td></tr><tr><td>ukazatele a přípustné hodnoty podle CZ-NACE 10.62 (Výroba škrobárenských výrobků)</td><td></td><td></td></tr><tr><td rowspan="8">20.15</td><td colspan="3">Výroba hnojiv a dusíkatých sloučenin</td></tr><tr><td colspan="3">Výroba hnojiv (kromě draselných):<sup>8</sup><sup>)</sup></td></tr><tr><td>RAS</td><td>mg/l</td><td>1500</td></tr><tr><td>RAS</td><td>kg/t</td><td>85</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>30</td></tr><tr><td>N-NO<sub>3</sub><sup>-</sup></td><td>mg/l</td><td>50</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>10</td></tr><tr><td>Fluoridy</td><td>mg/l</td><td>20</td></tr><tr><td rowspan="5">20.16</td><td colspan="3">Výroba plastů v primárních formách</td></tr><tr><td colspan="3">Výroba organických pryskyřic:</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>%</td><td>65</td></tr><tr><td>BSK<sub>5</sub></td><td>%</td><td>90</td></tr><tr><td>RAS</td><td>kg/t</td><td>170</td></tr><tr><td rowspan="3">20.3</td><td colspan="3">Výroba nátěrových barev laků a jiných nátěrových materiálů, tiskařských barev a tmelů</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>200</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>30</td></tr><tr><td rowspan="5">20.4</td><td colspan="3">Výroba mýdel a detergentů, čisticích a leštících prostředků, parfémů a toaletních přípravků</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>250</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>Tenzidy aniontové</td><td>mg/l</td><td>10</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>3</td></tr><tr><td rowspan="8">20.52 20.59</td><td>Výroba klihů a želatiny</td><td colspan="2"></td></tr><tr><td>pH</td><td>-</td><td>6-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>250</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>10</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>30</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>3</td></tr><tr><td>EL</td><td>mg/l</td><td>10</td></tr><tr><td rowspan="3">20.6</td><td colspan="3">Výroba syntetických vláken (polyamidových, polyesterových, viskózových)</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>300</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>60</td></tr><tr><td>21.00</td><td colspan="3">Výroba základních farmaceutických výrobků a farmaceutických přípravků</td></tr><tr><td rowspan="6">21.1 21.2</td><td colspan="3">Výroba základních farmaceutických výrobků a farmaceutických přípravků</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>250</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>40</td></tr><tr><td>RAS</td><td>kg/t</td><td>350</td></tr><tr><td>AOX</td><td>mg/l</td><td>0,5</td></tr><tr><td>PAU</td><td>mg/l</td><td>0,01</td></tr><tr><td>23.00</td><td colspan="3">Výroba ostatních nekovových minerálních výrobků</td></tr><tr><td rowspan="17">23.1</td><td colspan="3">Výroba skla a skleněných výrobků</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>150 (130 <sup>29</sup><sup>)</sup>)</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>Fluoridy</td><td>mg/l</td><td>16 (6 <sup>29</sup><sup>)</sup>)</td></tr><tr><td>N-NH4+</td><td>mg/l</td><td>8 <sup>29</sup><sup>)</sup></td></tr><tr><td>Sírany</td><td>mg/l</td><td>1000 <sup>29</sup><sup>)</sup></td></tr><tr><td>Arsen</td><td>mg/l</td><td>1,5 (0,3 <sup>29</sup><sup>)</sup>)</td></tr><tr><td>Olovo</td><td>mg/l</td><td>1 (0,3 <sup>29</sup><sup>)</sup>)</td></tr><tr><td>Baryum</td><td>mg/l</td><td>5 (3 <sup>29</sup><sup>)</sup>)<b><br></b></td></tr><tr><td>Antimon</td><td>mg/l</td><td>0,5<sup>29</sup><sup>)</sup></td></tr><tr><td>Zinek</td><td>mg/l</td><td>0,5 <sup>29</sup><sup>)</sup></td></tr><tr><td>Měď</td><td>mg/l</td><td>0,3 <sup>29</sup><sup>)</sup></td></tr><tr><td>Chrom</td><td>mg/l</td><td>0,3 <sup>29</sup><sup>)</sup></td></tr><tr><td>Kadmium</td><td>mg/l</td><td>0,05 <sup>29</sup><sup>)</sup></td></tr><tr><td>Cín</td><td>mg/l</td><td>0,5 <sup>29</sup><sup>)</sup></td></tr><tr><td>Nikl</td><td>mg/l</td><td>0,5 <sup>29</sup><sup>)</sup></td></tr><tr><td>Bor</td><td>mg/l</td><td>3 <sup>29</sup><sup>)</sup></td></tr><tr><td rowspan="3">23.2</td><td colspan="3">Výroba žáruvzdorných výrobků</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>150</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td rowspan="3">23.31 23.4</td><td colspan="3">Výroba keramických obkládaček a dlaždic a výroba ostatních porcelánových a keramických výrobků (kromě výrobků pro stavební účely)</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>150</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td rowspan="13">23.99</td><td colspan="3">Výroba ostatních nekovových minerálních výrobků j. n.</td></tr><tr><td colspan="3">Výroba termomechanických vláken:</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>250</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>50</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>40</td></tr><tr><td>BSK<sub>5</sub></td><td>kg/t</td><td>15</td></tr><tr><td>NL</td><td>mg/l</td><td>50</td></tr><tr><td colspan="2">Výroba chemitermomechanických vláken:</td><td></td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>500</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>kg/t</td><td>100</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>50</td></tr><tr><td>BSK<sub>5</sub></td><td>kg/t</td><td>20</td></tr><tr><td>NL</td><td>mg/l</td><td>60</td></tr><tr><td>24.00</td><td colspan="3">Výroba základních kovů, hutní zpracování kovů; slévárenství</td></tr><tr><td rowspan="14">24.1</td><td colspan="3">Výroba surového železa, oceli a feroslitin, plochých výrobků (kromě pásky za studena), tváření výrobků za tepla<sup>9</sup><sup>)</sup></td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>40 (30<sup>30</sup><sup>)</sup>)</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>3</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>100<sup>30</sup><sup>)</sup></td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>15<sup>30</sup><sup>)</sup></td></tr><tr><td>Kyanidy snadno uvolnitelné</td><td>mg/l</td><td>0,1<sup>30</sup><sup>)</sup></td></tr><tr><td>Mangan</td><td>mg/l</td><td>1</td></tr><tr><td>Železo</td><td>mg/l</td><td>3</td></tr><tr><td>Zinek</td><td>mg/l</td><td>2<sup>30</sup><sup>)</sup></td></tr><tr><td>Olovo</td><td>mg/l</td><td>0,5<sup>30</sup><sup>)</sup></td></tr><tr><td>Nikl</td><td>mg/l</td><td>0,5<sup>30</sup><sup>)</sup></td></tr><tr><td>Chrom<sub>celk.</sub></td><td>mg/l</td><td>0,5<sup>30</sup><sup>)</sup></td></tr><tr><td>PAU</td><td>mg/l</td><td>0,01<sup>30</sup><sup>)</sup></td></tr><tr><td rowspan="2">24.2</td><td colspan="3">Výroba ocelových trub, trubek, dutých profilů a souvisejících potrubních tvarovek</td></tr><tr><td>ukazatele a přípustné hodnoty podle CZ-NACE 24.1 (Výroba železa, oceli, feroslitin a plochých výrobků, tváření výrobků za tepla)</td><td></td><td></td></tr><tr><td rowspan="2">24.3</td><td colspan="3">Jiné hutní zpracování železa a oceli</td></tr><tr><td>ukazatele a přípustné hodnoty podle CZ-NACE 24.1 (Výroba železa, oceli, feroslitin a plochých výrobků, tváření výrobků za tepla)</td><td></td><td></td></tr><tr><td rowspan="13">24.4</td><td colspan="3">Výroba a hutní zpracování drahých a neželezných kovů<sup>10</sup><sup>)</sup></td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>30</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>3</td></tr><tr><td>AOX</td><td>mg/l</td><td>2</td></tr><tr><td>Hliník</td><td>mg/l</td><td>3</td></tr><tr><td>Chrom</td><td>mg/l</td><td>0,5</td></tr><tr><td>Měď</td><td>mg/l</td><td>0,5</td></tr><tr><td>Nikl</td><td>mg/l</td><td>0,5</td></tr><tr><td>Olovo</td><td>mg/l</td><td>0,5</td></tr><tr><td>Zinek</td><td>mg/l</td><td>2</td></tr><tr><td colspan="3">Výroba kryolitu:</td></tr><tr><td>RAS</td><td>mg/l</td><td>150</td></tr><tr><td rowspan="2">24.51</td><td colspan="3">Výroba odlitků z litiny</td></tr><tr><td>ukazatele a přípustné hodnoty podle CZ-NACE 24.1 (Výroba železa, oceli, feroslitin a plochých výrobků, tváření výrobků za tepla)</td><td></td><td></td></tr><tr><td rowspan="2">24.52</td><td colspan="3">Výroba odlitků z oceli</td></tr><tr><td>ukazatele a přípustné hodnoty podle CZ-NACE 24.1 (Výroba železa, oceli, feroslitin a plochých výrobků, tváření výrobků za tepla)</td><td></td><td></td></tr><tr><td rowspan="2">24.53</td><td colspan="3">Výroba odlitků z lehkých neželezných kovů</td></tr><tr><td>ukazatele a přípustné hodnoty podle CZ NACE 24.4 (Výroba a hutní zpracování drahých a neželezných kovů)</td><td></td><td></td></tr><tr><td rowspan="2">24.54</td><td colspan="3">Výroba odlitků z ostatních neželezných kovů</td></tr><tr><td>ukazatele a přípustné hodnoty podle CZ NACE 24.4 (Výroba a hutní zpracování drahých a neželezných kovů)</td><td></td><td></td></tr><tr><td>25.00</td><td colspan="3">Výroba kovových konstrukcí a kovodělných výrobků, kromě strojů a zařízení</td></tr><tr><td rowspan="72">25.61</td><td colspan="3">Povrchová úprava a zušlechťování kovů</td></tr><tr><td colspan="3">Povrchová úprava kovů včetně plastů:<sup>11</sup><sup>)</sup></td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>300</td></tr><tr><td>NL</td><td>mg/l</td><td>30</td></tr><tr><td>N-NO<sub>2</sub><sup>-</sup></td><td>mg/l</td><td>5</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>3</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>2</td></tr><tr><td>AOX</td><td>mg/l</td><td>2</td></tr><tr><td>Fluoridy</td><td>mg/l</td><td>20</td></tr><tr><td>Sulfidy</td><td>mg/l</td><td>1</td></tr><tr><td>Kyanidy celkové</td><td>mg/l</td><td>1</td></tr><tr><td>Kyanidy snadno uvolnitelné</td><td>mg/l</td><td>0,1</td></tr><tr><td>Celkový zbytkový chlor</td><td></td><td></td></tr><tr><td>Arsen</td><td>mg/l</td><td>0,5</td></tr><tr><td>Cín</td><td>mg/l</td><td>2</td></tr><tr><td>Kobalt</td><td>mg/l</td><td>1</td></tr><tr><td>Hliník</td><td>mg/l</td><td>2</td></tr><tr><td>Chrom</td><td>mg/l</td><td>0,5</td></tr><tr><td>Chrom šestimocný</td><td>mg/l</td><td>0,1</td></tr><tr><td>Měď</td><td>mg/l</td><td>0,5</td></tr><tr><td>Molybden</td><td>mg/l</td><td>1</td></tr><tr><td>Nikl</td><td>mg/l</td><td>0,8</td></tr><tr><td>Olovo</td><td>mg/l</td><td>0,5</td></tr><tr><td>Rtuť</td><td>mg/l</td><td>0,05</td></tr><tr><td>Selen</td><td>mg/l</td><td>0,1</td></tr><tr><td>Stříbro</td><td>mg/l</td><td>0,1</td></tr><tr><td>Zinek</td><td>mg/l</td><td>2</td></tr><tr><td>Železo</td><td>mg/l</td><td>2</td></tr><tr><td colspan="3">Tepelná úprava kovů:</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>30</td></tr><tr><td>N-NO<sub>2</sub><sup>-</sup></td><td>mg/l</td><td>5</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>3</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>2</td></tr><tr><td>Kyanidy celkové</td><td>mg/l</td><td>1</td></tr><tr><td>Kyanidy snadno uvolnitelné</td><td>mg/l</td><td>0,1</td></tr><tr><td>Celkový zbytkový chlor</td><td></td><td></td></tr><tr><td>Baryum</td><td>mg/l</td><td>2</td></tr><tr><td>Chrom</td><td>mg/l</td><td>0,5</td></tr><tr><td>Chrom šestimocný</td><td>mg/l</td><td>0,1</td></tr><tr><td>Železo</td><td>mg/l</td><td>2</td></tr><tr><td colspan="3">Smaltování:</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>30</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>3</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>2</td></tr><tr><td>AOX</td><td>mg/l</td><td>2</td></tr><tr><td>Baryum</td><td>mg/l</td><td>2</td></tr><tr><td>Kadmium</td><td>mg/l</td><td>0,2</td></tr><tr><td>Kobalt</td><td>mg/l</td><td>1</td></tr><tr><td>Chrom</td><td>mg/l</td><td>0,5</td></tr><tr><td>Chrom šestimocný</td><td>mg/l</td><td>0,1</td></tr><tr><td>Měď</td><td>mg/l</td><td>0,5</td></tr><tr><td>Molybden</td><td>mg/l</td><td>1</td></tr><tr><td>Olovo</td><td>mg/l</td><td>0,5</td></tr><tr><td>Zinek</td><td>mg/l</td><td>2</td></tr><tr><td>Železo</td><td>mg/l</td><td>2</td></tr><tr><td colspan="3">Lakování:</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>50</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>3</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>2</td></tr><tr><td>AOX</td><td>mg/l</td><td>2</td></tr><tr><td>Baryum</td><td>mg/l</td><td>2</td></tr><tr><td>Kadmium</td><td>mg/l</td><td>0,2</td></tr><tr><td>Chrom</td><td>mg/l</td><td>0,5</td></tr><tr><td>Chrom šestimocný</td><td>mg/l</td><td>0,1</td></tr><tr><td>Měď</td><td>mg/l</td><td>0,5</td></tr><tr><td>Olovo</td><td>mg/l</td><td>0,5</td></tr><tr><td>Zinek</td><td>mg/l</td><td>2</td></tr><tr><td>Železo</td><td>mg/l</td><td>2</td></tr><tr><td rowspan="10">25.62</td><td colspan="3">Všeobecné strojírenské činnosti</td></tr><tr><td colspan="3">Obrábění:</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>NL</td><td>mg/l</td><td>50</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>30</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>3</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>2</td></tr><tr><td>AOX</td><td>mg/l</td><td>2</td></tr><tr><td>Kadmium</td><td>mg/l</td><td>0,2</td></tr><tr><td>Železo</td><td>mg/l</td><td>2</td></tr><tr><td>27.00</td><td colspan="3">Výroba elektrických zařízení</td></tr><tr><td rowspan="30"></td><td colspan="3">Výroba elektrických strojů a zařízení (elektrotechnická výroba)<sup>12</sup><sup>)</sup>:</td></tr><tr><td>pH</td><td>-</td><td>6-9</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>300</td></tr><tr><td>NL</td><td>mg/l</td><td>20</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>30</td></tr><tr><td>N-NO<sub>2</sub><sup>-</sup></td><td>mg/l</td><td>2</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>3</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>2</td></tr><tr><td>AOX</td><td>mg/l</td><td>2</td></tr><tr><td>Fluoridy</td><td>mg/l</td><td>20</td></tr><tr><td>Sulfidy</td><td>mg/l</td><td>1</td></tr><tr><td>Kyanidy celkové</td><td>mg/l</td><td>1</td></tr><tr><td>Kyanidy snadno uvolnitelné</td><td>mg/l</td><td>0,1</td></tr><tr><td>Celkový zbytkový chlor</td><td></td><td></td></tr><tr><td>Arsen</td><td>mg/l</td><td>0,5</td></tr><tr><td>Cín</td><td>mg/l</td><td>2</td></tr><tr><td>Kadmium</td><td>mg/l</td><td>0,2</td></tr><tr><td>Chrom</td><td>mg/l</td><td>0,5</td></tr><tr><td>Chrom šestimocný</td><td>mg/l</td><td>0,1</td></tr><tr><td>Měď</td><td>mg/l</td><td>0,5</td></tr><tr><td>Molybden</td><td>mg/l</td><td>1</td></tr><tr><td>Nikl</td><td>mg/l</td><td>0,5</td></tr><tr><td>Olovo</td><td>mg/l</td><td>0,5</td></tr><tr><td>Rtuť</td><td>mg/l</td><td>0,05</td></tr><tr><td>Selen</td><td>mg/l</td><td>0,1</td></tr><tr><td>Stříbro</td><td>mg/l</td><td>0,1</td></tr><tr><td>Zinek</td><td>mg/l</td><td>2</td></tr><tr><td>Železo</td><td>mg/l</td><td>2</td></tr><tr><td>Mangan</td><td></td><td></td></tr><tr><td>Lithium</td><td></td><td></td></tr><tr><td>35.00</td><td colspan="3">Výroba a rozvod elektřiny, plynu, tepla a klimatizovaného vzduchu</td></tr><tr><td rowspan="13">35.11<br> 35.30.1</td><td colspan="3">Výroba elektřiny a tepla<sup>13</sup><sup>)</sup></td></tr><tr><td>pH</td><td>-</td><td>6-10</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>RAS</td><td>mg/l</td><td>1500</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>1</td></tr><tr><td colspan="3">Odkaliště popele:</td></tr><tr><td>pH</td><td>-</td><td>6-10</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>RAS</td><td>mg/l</td><td>2000</td></tr><tr><td colspan="3">Čistírna odpadních vod z odsíření:</td></tr><tr><td>pH</td><td>-</td><td>6-10</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>RAS</td><td>mg/l</td><td>15000</td></tr><tr><td>38.00</td><td colspan="3">Shromažďování, sběr a odstraňování odpadů, úprava odpadů k dalšímu využití</td></tr><tr><td rowspan="14">38.20</td><td colspan="3">Odstraňování odpadů</td></tr><tr><td colspan="3">Spalování odpadů a spoluspalování odpadů:<sup>14</sup>)</td></tr><tr><td>pH</td><td>-</td><td>6,5-8,5</td></tr><tr><td>NL</td><td>mg/l</td><td>30</td></tr><tr><td>Rtuť</td><td>mg/l</td><td>0,03</td></tr><tr><td>Kadmium</td><td>mg/l</td><td>0,05</td></tr><tr><td>Thallium</td><td>mg/l</td><td>0,05</td></tr><tr><td>Arsen</td><td>mg/l</td><td>0,15</td></tr><tr><td>Olovo</td><td>mg/l</td><td>0,2</td></tr><tr><td>Chrom</td><td>mg/l</td><td>0,5</td></tr><tr><td>Měď</td><td>mg/l</td><td>0,5</td></tr><tr><td>Nikl</td><td>mg/l</td><td>0,5</td></tr><tr><td>Zinek</td><td>mg/l</td><td>1,5</td></tr><tr><td>Součet dioxinů a furanů<sup>15</sup>)</td><td>ng/l</td><td>0,3</td></tr><tr><td>52.00</td><td colspan="3">Skladování a vedlejší činnosti v dopravě</td></tr><tr><td rowspan="6">52.10</td><td colspan="3">Skladování</td></tr><tr><td colspan="3">Distribuční sklady ropných látek:</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>250</td></tr><tr><td>NL</td><td>mg/l</td><td>50</td></tr><tr><td>C<sub>10</sub> - C<sub>40</sub></td><td>mg/l</td><td>5</td></tr><tr><td>PAU</td><td>mg/l</td><td>0,01</td></tr><tr><td>75.00</td><td colspan="3">Veterinární činnosti</td></tr><tr><td rowspan="11"></td><td colspan="3">Kafilérie:</td></tr><tr><td>pH</td><td>-</td><td>6,5-8,5</td></tr><tr><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>200</td></tr><tr><td>BSK<sub>5</sub></td><td>mg/l</td><td>40</td></tr><tr><td>NL</td><td>mg/l</td><td>40</td></tr><tr><td>EL</td><td>mg/l</td><td>10</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>40</td></tr><tr><td>N-NH<sub>4</sub><sup>+</sup> (Z)</td><td>mg/l</td><td>75</td></tr><tr><td>N<sub>celk.</sub></td><td>mg/l</td><td>60</td></tr><tr><td>N<sub>celk.</sub> (Z)</td><td>mg/l</td><td>105</td></tr><tr><td>P<sub>celk.</sub></td><td>mg/l</td><td>10</td></tr><tr><td>86.00 87.00</td><td colspan="3">Zdravotní a sociální péče<sup>16</sup><sup>)</sup></td></tr><tr><td></td><td>Celkový zbytkový chlor</td><td>-</td><td><sup><sup>17</sup><sup>)</sup></sup></td></tr></tbody></table>
+
+<sup>a)</sup> Uváděné přípustné hodnoty „p“ koncentrací a účinností čištění nejsou roční průměry a mohou být překročeny v povolené míře podle hodnot uvedených v příloze č. 5 k tomuto nařízení, pokud není dále uvedeno jinak. Vodoprávní úřad stanoví typ vzorku podle poznámky 2) k tabulce v příloze č. 4 k tomuto nařízení.
+
+<sup>1)</sup> Hodnoty přípustných koncentrací a poměrných množství vypouštěného kadmia při těžbě zinku jsou uvedeny v tabulce 3 bod 2.1 této přílohy.
+
+<sup>2)</sup> Hodnoty přípustných koncentrací vypouštěného trichlorbenzenu jsou uvedeny v tabulce 3 bod 14.4 této přílohy.
+
+<sup>3</sup>) Hodnoty přípustných koncentrací vypouštěného pentachlorfenolu při ošetřování dřeva jsou uvedeny v tabulce 3 bod 6.5 této přílohy.
+
+<sup>4</sup>) Hodnoty přípustných koncentrací vypouštěné rtuti jsou uvedeny v tabulce 3 bod 1.2.9. této přílohy.
+
+<sup>5)</sup> Hodnoty přípustných koncentrací a poměrných množství vypouštěného kadmia při výrobě pigmentů jsou uvedeny v tabulce 3 bod 2.3 této přílohy.
+
+<sup>6)</sup> Hodnoty přípustných koncentrací vypouštěné rtuti jsou uvedeny v tabulce 3 bod 1.1 této přílohy.
+
+<sup>7)</sup> Hodnoty přípustných koncentrací vypouštěných zvlášť nebezpečných závadných látek jsou uvedeny v tabulce 3 této přílohy.
+
+<sup>8)</sup> Hodnoty přípustných koncentrací vypouštěného kadmia při výrobě fosforečných hnojiv jsou uvedeny v tabulce 3 bod 2.7 této přílohy.
+
+<sup>9)</sup> Hodnoty přípustných koncentrací vypouštěné rtuti při výrobě oceli jsou uvedeny v tabulce 3 bod 1.2.10 této přílohy.
+
+<sup>10)</sup> Hodnoty přípustných koncentrací a poměrných množství vypouštěné rtuti jsou uvedeny v tabulce 3 bod 1.2.7 a kadmia v tabulce 3 bod 2.1 této přílohy.
+
+<sup>11)</sup> Hodnoty přípustných koncentrací vypouštěného kadmia pro elektrolytické pokovování jsou uvedeny v tabulce 3 bod 2.6 této přílohy.
+
+<sup>12)</sup> Hodnoty přípustných koncentrací vypouštěného kadmia pro výrobu galvanických článků a baterií jsou uvedeny v tabulce 3 bod 2.5 této přílohy.
+
+<sup>13)</sup> Hodnoty přípustných koncentrací vypouštěné rtuti ze zařízení spalujících uhlí jsou uvedeny v tabulce 3, bod 1.2.11 této přílohy.
+
+<sup>14</sup>) U spaloven odpadů a zařízení na spoluspalování odpadů jde o odpadní vody z čištění plynů. Limitní hodnoty koncentrací budou pokládány za splněné, pokud
+
+a) pro nerozpuštěné látky 95 % denně (bodově) měřených hodnot nebo měření reprezentativních vzorků úměrných průtoku za 24 hodin nepřekročí limitní hodnotu 30 mg/l a žádná hodnota nepřekročí 45 mg/l,
+
+b) pro těžké kovy a arsen žádná hodnota v reprezentativních vzorcích úměrných průtoku za 24 hodin odebíraných s četností nejméně jednou za měsíc nepřekročí limitní hodnotu koncentrace a
+
+c) pro dioxiny a furany měřené každých 6 měsíců, první rok provozu každé 3 měsíce, nepřekročí žádná měřená hodnota limitní hodnotu koncentrace.
+
+Limitní hodnoty musejí být dodrženy v místě, ve kterém jsou odpadní vody ze zařízení na čištění spalin obsahující uvedené látky vypouštěny ze spalovacího nebo spoluspalovacího zařízení do vodního prostředí. Pokud jsou odpadní vody z čištění spalin čištěny mimo spalovací nebo spoluspalovací zařízení v čistírně odpadních vod určené k čištění pouze tohoto druhu odpadních vod, limitní hodnoty se uplatňují na odtoku z této čistírny odpadních vod. Pokud jsou odpadní vody z čištění odpadních plynů čištěny v místě svého vzniku společně s odpadními vodami z jiných zdrojů ve spalovacím zařízení, provádí provozovatel měření
+
+a) v toku odpadních vod z procesů čištění odpadních plynů před příjmem do společného zařízení na čištění odpadních vod,
+
+b) v toku či tocích ostatních odpadních vod před jejich příjmem do společného zařízení na čištění odpadních vod, nebo
+
+c) v bodě konečného vypouštění odpadních vod po čištění ze zařízení na spalování odpadu nebo zařízení na spoluspalování odpadu.
+
+Pokud jsou odpadní vody z čištění spalin čištěny v místě nebo mimo místo svého vzniku společně s jinými odpadními vodami, musejí být limitní hodnoty bilančně přepočteny.
+
+V povolení se stanoví provozní kontinuální kontrolní měření odpadních vod, a to alespoň pH, teploty a průtoku.
+
+<sup>15)</sup> Součet dioxinů a furanů je součet množství jednotlivých látek, násobený těmito koeficienty ekvivalentu toxicity:
+
+| 2,3,7,8-tetrachlordibenzodioxin (TCDD) | 1 |
+|---|---|
+| 1,2,3,7,8-pentachlordibenzodioxin (PeCDD) | 0,5 |
+| 1,2,3,4,7,8-hexachlordibenzodioxin (HxCDD) | 0,1 |
+| 1,2,3,7,8,9-hexachlordibenzodioxin (HxCDD) | 0,1 |
+| 1,2,3,6,7,8-hexachlordibenzodioxin (HxCDD) | 0,1 |
+| 1,2,3,4,6,7,8-heptachlordibenzodioxin (HxCDD) | 0,01 |
+| oktachlordibenzodioxin (OCDD) | 0,001 |
+| 2,3,7,8-tetrachlordibenzofuran (TCDF) | 0,1 |
+| 2,3,4,7,8-pentachlordibenzofuran (PeCDF) | 0,5 |
+| 1,2,3,7,8-pentachlordibenzofuran (PeCDF) | 0,05 |
+| 1,2,3,4,7,8-hexachlordibenzofuran (HxCDF) | 0,1 |
+| 1,2,3,7,8,9-hexachlordibenzofuran (HxCDF) | 0,1 |
+| 1,2,3,6,7,8-hexachlordibenzofuran (HxCDF) | 0,1 |
+| 2,3,4,6,7,8-hexachlordibenzofuran (HxCDF) | 0,1 |
+| 1,2,3,4,6,7,8-heptachlordibenzofuran (HpCDF) | 0,01 |
+| 1,2,3,4,7,8,9-heptachlordibenzofuran (HpCDF) | 0,01 |
+| oktachlordibenzofuran (OCDF) | 0,001 |
+
+<sup>16)</sup> Hodnoty přípustných koncentrací vypouštěné rtuti ze stomatologických zařízení jsou uvedeny v tabulce 3 bod 1.2.13.1. této přílohy.
+
+<sup>17)</sup> Pouze sledovat.
+
+<sup>18)</sup> Hodnota přípustné koncentrace platí podle Prováděcího rozhodnutí Komise o BAT 2013/84/EU pro závody na čištění kůží a kožek se zpracovatelskou kapacitou větší než 12 t za den hotového produktu.
+
+<sup>19)</sup> Hodnoty přípustných koncentrací platí podle Prováděcího rozhodnutí Komise o BAT 2014/687/EU pro závody na výrobu buničiny, papíru a lepenky. Hodnota přípustné koncentrace je vyjádřena jako roční průměr. Hodnota vyjádřená v kg/t je vztažena na tunu vyrobené vzduchosuché buničiny o suchosti 90 % nebo na tunu papíru nebo lepenky.
+
+<sup>20)</sup> Nelze-li kvůli požadavkům na kvalitu (např. vysokou bělost) použít biologicky rozložitelná nebo odstranitelná chelatační činidla, mohou být emise celkového dusíku vyšší než uvedená limitní hodnota a měly by být vyhodnoceny zvlášť pro každý jednotlivý případ.
+
+<sup>21)</sup> Hodnoty přípustných koncentrací platí podle Prováděcího rozhodnutí Komise o BAT 2014/687/EU pro závody na výrobu papíru nebo lepenky při výrobní kapacitě větší než 20 t za den. Hodnoty přípustné koncentrace jsou vyjádřeny jako roční průměr. Ten je dán jako průměr všech denních průměrů vypočítaných v průběhu jednoho roku, vážený podle denního objemu výroby a vyjádřený jako hmotnost emitovaných látek na jednotku hmotnosti vyrobených či vzniklých výrobků nebo materiálů.
+
+<sup>22)</sup> V provozech s průtokem odpadní vody 5 až 10 m<sup>3</sup>/t hodnota přípustné koncentrace činí 0,008 kg/t.
+
+<sup>23)</sup> Hodnota přípustné koncentrace platná pro výrobu pevného papíru za mokra.
+
+<sup>24)</sup> Hodnota přípustné koncentrace platná pro výrobu hygienického papíru.
+
+<sup>25)</sup> Hodnota přípustné koncentrace platná pro výrobu tenkého papíru.
+
+<sup>26)</sup> Hodnota přípustné koncentrace platná pro výrobu dekorativního papíru a pevného papíru za mokra.
+
+<sup>27)</sup> Hodnota koncentrace je vyjádřena jako roční průměr. Platí podle Prováděcího rozhodnutí Komise o BAT 2014/738/EU pro rafinaci minerálních olejů a plynů.
+
+<sup>27a</sup>) V případě použití více než 1 druhu rudy se uvedené mezní hodnoty emisí uplatní úměrně k používanému množství těchto rud.
+
+<sup>27b</sup>) Při užívání neutrálního rutilu.
+
+<sup>27c</sup>) Při užívání syntetického rutilu.
+
+<sup>27d</sup>) Při užívání strusky.
+
+<sup>28)</sup> Hodnota přípustné koncentrace platí podle Prováděcího rozhodnutí Komise o BAT 2013/732/EU pro výrobu chloru a alkalických hydroxidů.
+
+<sup>29)</sup> Hodnota přípustné koncentrace platí podle Prováděcího rozhodnutí Komise o BAT 2012/134/EU pro závody na výrobu skla, včetně skleněných vláken, o kapacitě tavení větší než 20 t za den a pro závody na tavení nerostných materiálů, včetně výroby nerostných vláken, o kapacitě větší než 20 t za den.
+
+<sup>30)</sup> Hodnota přípustné koncentrace platí podle Prováděcího rozhodnutí Komise o BAT 2012/135/EU pro závody na výrobu surového železa nebo oceli (primární nebo sekundární tavení) včetně plynulého odlévání s kapacitou překračující 2,5 t za hodinu.
+
+<sup>31)</sup> Tyto úrovně emisí spojené s nejlepšími dostupnými technikami (BAT) neplatí pro závody vyrábějící rozpustnou buničinu a na výrobu speciální buničiny pro chemické použití.
+
+Značky a zkratky:
+
+CZ-NACE klasifikace ekonomických činností vydaná Českým statistickým úřadem
+
+CHSK<sub>Cr</sub> chemická spotřeba kyslíku dichromanovou metodou
+
+BSK<sub>5</sub> biochemická spotřeba kyslíku pětidenní s potlačením nitrifikace
+
+NL nerozpuštěné látky
+
+RAS rozpuštěné anorganické soli
+
+C10 - C40 uhlovodíky C10 - C40
+
+EL extrahovatelné látky
+
+N-NH<sub>4</sub><sup>+</sup> amoniakální dusík
+
+N-NO<sub>2</sub><sup>-</sup> dusitanový dusík
+
+N-NO<sub>3</sub><sup>-</sup> dusičnanový dusík
+
+N<sub>celk.</sub> celkový dusík
+
+P<sub>celk.</sub> celkový fosfor
+
+AOX adsorbovatelné organicky vázané halogeny
+
+PAU polycyklické aromatické uhlovodíky vyjádřené jako součet koncentrací šesti sloučenin: 
+ fluoranthen, benzo[b]fluoranthen, benzo[k]fluoranthen, benzo[a]pyren, benzo[ghi]perylen a indeno[1,2,3-cd]pyren. Pro účely ohlašování prostřednictvím integrovaného systému plnění ohlašovacích povinností podle § 126 odst. 6 zákona se uvádějí i koncentrace jednotlivých výše uvedených látek.
+
+Z hodnota platí pro období, ve kterém je teplota odpadní vody na odtoku z biologického stupně nižší než 12°C; teplota odpadní vody se pro tento účel považuje za nižší než 12°C, pokud z 5 měření provedených v průběhu dne byly alespoň ve 2 měřeních zjištěny teploty nižší než 12°C
+
+BAT Best Available Techniques (Nejlepší dostupné techniky)
+
+BREF BAT Reference Document (Referenční dokument o BAT)
+
+% minimální účinnost čištění
+
+kg/t roční poměrné množství vypouštěného znečištění v kg na tunu vyrobeného produktu
+
+C.
+
+#### Odpadní vody s obsahem uvedených zvlášť nebezpečných závadných látek
+
+#### Tabulka 3: Emisní standardy: přípustné hodnoty ukazatelů znečištění odpadních vod s obsahem uvedených zvlášť nebezpečných závadných látek:
+
+1\. rtuť, 2. kadmium, 3. hexachlorcyklohexan (HCH), 4. Tetrachlormethan (CCl<sub>4</sub>), 5. DDT, 6. pentachlorfenol (PCP) a jeho soli, 7. aldrin, dieldrin, endrin a isodrin (driny), 8. hexachlorbenzen (HCB), 9. hexachlorbutadien (HCBD), 10. trichlormethan (chloroform, CHCl<sub>3</sub> ), 11. 1,2-dichlorethan (EDC), 12. trichlorethen (trichlorethylen, TRI), 13. Tetrachlorethen ( perchlorethylen, PER), 14. Trichlorbenzen (TCB)
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="2">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th></tr><tr><td>1.</td><td colspan="3">Rtuť(chemický prvek rtuť a rtuť obsažená ve všech jejích sloučeninách a směsích</td></tr><tr><td>1.1</td><td colspan="3">Výroba chloru a alkalických hydroxidů elektrolýzou</td></tr><tr><td rowspan="7">1.1.1</td><td colspan="3">Technologie s recyklovanou solankou<sup>3</sup><sup>)</sup></td></tr><tr><td colspan="3">Výpusti z výroby chloru<sup>1</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td>0,5</td><td></td></tr><tr><td>denní průměr</td><td>2</td><td></td></tr><tr><td colspan="3">Odpadní vody<sup>2</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td>1</td><td>0,05</td></tr><tr><td>denní průměr</td><td>4</td><td>0,2</td></tr><tr><td rowspan="4">1.1.2</td><td colspan="3">Technologie se „ztracenou“ solankou<sup>3</sup><sup>)</sup></td></tr><tr><td colspan="3">Odpadní vody<sup>2</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td>5</td><td>0,05</td></tr><tr><td>denní průměr</td><td>20</td><td>0,2</td></tr><tr><td>1.2</td><td colspan="3">Výroby jiné než 1.1</td></tr><tr><td rowspan="3">1.2.1</td><td colspan="3">Použití rtuti jako katalyzátoru při výrobě vinylchloridu<sup>4</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td>0,1</td><td>0,05</td></tr><tr><td>denní průměr</td><td>0,2</td><td>0,1</td></tr><tr><td rowspan="3">1.2.2</td><td colspan="3">Použití rtuti jako katalyzátoru ve výrobách chemického průmyslu (mimo 1.2.1)<sup>5</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td>5 000</td><td>0,05</td></tr><tr><td>denní průměr</td><td>10 000</td><td>0,1</td></tr><tr><td rowspan="3">1.2.3</td><td colspan="3">Výroba rtuťových katalyzátorů pro výrobu vinylchloridu<sup>5</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td>700</td><td>0,05</td></tr><tr><td>denní průměr</td><td>1 400</td><td>0,1</td></tr><tr><td rowspan="3">1.2.4</td><td colspan="3">Výroba organických a anorganických sloučenin rtuti (mimo 1.2.3)<sup>5</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td>50</td><td>0,05</td></tr><tr><td>denní průměr</td><td>100</td><td>0,1</td></tr><tr><td rowspan="3">1.2.5</td><td colspan="3">Výroba galvanických článků obsahujících rtuť<sup>5</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td>30</td><td>0,05</td></tr><tr><td>denní průměr</td><td>60</td><td>0,1</td></tr><tr><td rowspan="3">1.2.6</td><td colspan="3">Závody na regeneraci rtuti a metalurgie barevných kovů</td></tr><tr><td>měsíční průměr</td><td></td><td>0,05</td></tr><tr><td>denní průměr</td><td></td><td>0,1</td></tr><tr><td rowspan="3">1.2.7</td><td colspan="3">Extrakce a rafinace neželezných kovů</td></tr><tr><td>měsíční průměr</td><td></td><td>0,05</td></tr><tr><td>denní průměr</td><td></td><td>0,1</td></tr><tr><td rowspan="3">1.2.8</td><td colspan="3">Úpravny toxických odpadů s obsahem rtuti</td></tr><tr><td>měsíční průměr</td><td></td><td>0,05</td></tr><tr><td>denní průměr</td><td></td><td>0,1</td></tr><tr><td rowspan="3">1.2.9</td><td colspan="3">Výroba papíru<sup>6</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td></td><td>0,05</td></tr><tr><td>denní průměr</td><td></td><td>0,1</td></tr><tr><td rowspan="3">1.2.10</td><td>Výroba oceli<sup>6</sup><sup>)</sup></td><td></td><td></td></tr><tr><td>měsíční průměr</td><td></td><td>0,01</td></tr><tr><td>denní průměr</td><td></td><td>0,02</td></tr><tr><td rowspan="3">1.2.11</td><td colspan="3">Elektrárny spalující uhlí<sup>6</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td></td><td>0,01</td></tr><tr><td>denní průměr</td><td></td><td>0,02</td></tr><tr><td rowspan="3">1.2.12</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, neuvedené v tab. 2a a 2b, s vypouštěním nad 7,5 kg/rok<sup>6</sup><sup>)</sup></td></tr><tr><td>měsíční průměr</td><td></td><td>0,05</td></tr><tr><td>denní průměr</td><td></td><td>0,1</td></tr><tr><td rowspan="5">1.2.13<br> 1.2.13.1<br> 1.2.13.2</td><td colspan="3">Malé a neprůmyslové zdroje, s vypouštěním pod 7,5 kg/rok</td></tr><tr><td>Stomatologická zařízení</td><td></td><td></td></tr><tr><td>minimální procento účinnosti separátoru amalgamu pro rtuť stanovené výrobcem separátoru</td><td></td><td>95%</td></tr><tr><td>Ostatní malé průmyslové zdroje</td><td></td><td></td></tr><tr><td>přípustná hodnota „p“</td><td></td><td>0,05</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot. Přípustná hodnota „p“ není roční průměr a může být v povolené míře překročena podle hodnot uvedených v příloze č. 5 k tomuto nařízení.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Hodnoty platné pro rtuť obsaženou ve výpusti z výrobní jednotky chloru.
+
+<sup>2)</sup> Hodnoty platné pro celkové množství rtuti ve všech rtuť obsahujících vodách vypouštěných z lokality závodu.
+
+<sup>3)</sup> Přípustné hodnoty poměrného množství rtuti jsou uvedeny v g/t instalované výrobní kapacity chloru. Množství rtuti vypouštěné za měsíc se počítá jako součet denních množství v daném měsíci.
+
+<sup>4)</sup> Přípustné hodnoty poměrného množství rtuti jsou uvedeny v g/t instalované výrobní kapacity vinylchloridu.
+
+<sup>5)</sup> Přípustné hodnoty poměrného množství jsou uvedeny v g/t zpracované rtuti.
+
+<sup>6)</sup> Uváděné přípustné hodnoty jsou mezní. Vodoprávní úřad je při stanovení emisních limitů povinen přihlížet k nejlepším dostupným technikám ve výrobě a nejlepším dostupným technologiím v oblasti zneškodňování odpadních vod.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>2.</td><td colspan="4">Kadmium(chemický prvek kadmium a kadmium obsažené ve všech jeho sloučeninách a směsích)</td></tr><tr><td rowspan="3">2.1</td><td colspan="3">Těžba zinku, rafinace olova a zinku a metalurgie kadmia a neželezných kovů</td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,2</td></tr><tr><td>denní průměr</td><td></td><td>0,4</td></tr><tr><td rowspan="3">2.2</td><td colspan="3">Výroba sloučenin kadmia<sup>1</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>500</td><td>0,2</td></tr><tr><td>denní průměr</td><td>1 000</td><td>0,4</td></tr><tr><td rowspan="3">2.3</td><td colspan="3">Výroba pigmentů<sup>1</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>300</td><td>0,2</td></tr><tr><td>denní průměr</td><td>600</td><td>0,4</td></tr><tr><td rowspan="3">2.4</td><td colspan="3">Výroba stabilizátorů<sup>1</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>500</td><td>0,2</td></tr><tr><td>denní průměr</td><td>1 000</td><td>0,4</td></tr><tr><td rowspan="3">2.5</td><td colspan="3">Výroba galvanických článků a baterií<sup>1</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>1 500</td><td>0,2</td></tr><tr><td>denní průměr</td><td>3 000</td><td>0,4</td></tr><tr><td rowspan="3">2.6</td><td colspan="3">Galvanické pokovování<sup>1</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>300</td><td>0,2</td></tr><tr><td>denní průměr</td><td>600</td><td>0,4</td></tr><tr><td rowspan="3">2.7</td><td colspan="3">Výroba kyseliny fosforečné a/nebo fosforečných hnojiv z fosfátových hornin</td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,2</td></tr><tr><td>denní průměr</td><td></td><td>0,4</td></tr><tr><td rowspan="3">2.8</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, neuvedené v tabulce 2, s vypouštěním nad 10 kg/rok<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,2</td></tr><tr><td>denní průměr</td><td></td><td>0,4</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu (tj. spotřebovaného kadmia). Jestliže nelze zjistit množství zpracovaného kadmia, může být monitorovací postup založen na výrobní kapacitě kadmia stanoveném v povolení. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Přípustné hodnoty poměrného množství kadmia jsou uvedeny v g/t zpracovaného kadmia.
+
+<sup>2)</sup> Uváděné přípustné hodnoty jsou nepřekročitelné („m“).
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty <sup>a), 1)</sup></th></tr><tr><th>g/t</th><th>mg/l <sup>b), c)</sup></th><th></th></tr><tr><td>3.</td><td colspan="4">Hexachlorcykohexan (HCH) <sup>2</sup><sup>)</sup></td></tr><tr><td rowspan="3">3.1</td><td colspan="3">Výroba HCH <sup>3</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2</td><td>2</td></tr><tr><td>denní průměr</td><td>4</td><td>4</td></tr><tr><td rowspan="3">3.2</td><td colspan="3">Extrakce lindanu <sup>4</sup><sup>), </sup><sup>5</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>4</td><td>2</td></tr><tr><td>denní průměr</td><td>8</td><td>4</td></tr><tr><td rowspan="3">3.3</td><td colspan="3">Výroba HCH s extrakcí lindanu<sup>3</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>5</td><td>2</td></tr><tr><td>denní průměr</td><td>10</td><td>4</td></tr><tr><td rowspan="3">3.4</td><td colspan="3">Zpracování lindanu <sup>6), 7)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>0</td><td>0</td></tr><tr><td>denní průměr</td><td>0</td><td>0</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>c)</sup> Mezní hodnoty koncentrace (měsíční průměr koncentrace HCH vážený průtokem).
+
+<sup>1)</sup> Přípustné hodnoty se vztahují na celkové množství všech izomerů HCH obsažených ve všech odpadních vodách pocházejících z místa průmyslového závodu.
+
+<sup>2)</sup> HCH značí izomery 1,2,3,4,5,6-hexachlorcyklohexanu.
+
+<sup>3)</sup> Přípustné hodnoty poměrného množství hexachlorcyklohexanu jsou uvedeny v g/t vyrobeného HCH.
+
+<sup>4)</sup> Lindan je produkt obsahující nejméně 99% γ-HCH; extrakce je separace lindanu ze směsi izomerů HCH.
+
+<sup>5)</sup> Přípustné hodnoty poměrného množství hexachlorcyklohexanu jsou uvedeny v g/t zpracovaného HCH.
+
+<sup>6)</sup> Zpracování lindanu na prostředky pro ochranu rostlin, dřeva a lan při respektování nejlepších dostupných technik ve výrobě.
+
+<sup>7)</sup> Přípustné jsou pouze technologie neprodukující odpadní vody.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>4.</td><td colspan="4">Tetrachlormethan (CCl<sub>4</sub>)<sup>1</sup><sup>)</sup></td></tr><tr><td rowspan="3">4.1</td><td colspan="3">Výroba tetrachlormethanu perchlorací s promýváním<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>40</td><td>1,5</td></tr><tr><td>denní průměr</td><td>80</td><td>3</td></tr><tr><td rowspan="3">4.2</td><td colspan="3">Výroba tetrachlormethanu perchlorací bez promývání<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2,5</td><td>1,5</td></tr><tr><td>denní průměr</td><td>5</td><td>3</td></tr><tr><td rowspan="3">4.3</td><td colspan="3">Výroba chlormethanů chlorováním methanu<sup>3</sup><sup>)</sup> a z methanolu<sup>4</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>10</td><td>1,5</td></tr><tr><td>denní průměr</td><td>20</td><td>3</td></tr><tr><td rowspan="3">4.4</td><td colspan="3">Výroba fluorchloruhlovodíků (freonů)<sup>5),6)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>20</td><td>1</td></tr><tr><td>denní průměr</td><td>40</td><td>2</td></tr><tr><td rowspan="3">4.5</td><td colspan="3">Závody používající tetrachlormethan jako rozpouštědlo, s vypouštěním nad 30 kg/rok<sup>5),7)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>20</td><td>1</td></tr><tr><td>denní průměr</td><td>40</td><td>2</td></tr><tr><td rowspan="2">4.6</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, s vypouštěním pod 30 kg/rok<sup>5),8),9)</sup></td><td rowspan="2"></td></tr><tr><td>přípustná hodnota „p“</td><td></td><td>1</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot. Přípustná hodnota „p“ není roční průměr a může být v povolené míře překročena podle hodnot uvedených v příloze č. 5 k tomuto nařízení.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Vzhledem k těkavosti tetrachlormethanu a k zamezení jeho úniků do ovzduší se u procesů, které zahrnují manipulaci s odpadními vodami s obsahem tetrachlormethanu v kontaktu s ovzduším, vyžaduje dodržení přípustných koncentrací i směrem proti proudu u daného závodu. Při tom je třeba vzít v úvahu veškeré pravděpodobně znečištěné odpadní vody.
+
+<sup>2)</sup> Přípustné hodnoty poměrného množství tetrachlormethanu jsou uvedeny v g/t celkové výrobní kapacity tetrachlormethanu a tetrachlorethenu.
+
+<sup>3)</sup> Včetně vysokotlakého elektrolytického vyvíjení chloru.
+
+<sup>4)</sup> Přípustné hodnoty poměrného množství tetrachlormethanu jsou uvedeny v g/t celkové výrobní kapacity chlormethanů.
+
+<sup>5)</sup> Uváděné přípustné hodnoty jsou mezní.
+
+<sup>6)</sup> Přípustné hodnoty koncentrace a poměrného množství jsou uvedeny jako AOX v mg/l resp. v g/t celkové výrobní kapacity fluorchloruhlovodíků.
+
+<sup>7)</sup> Přípustné hodnoty koncentrace a poměrného množství jsou uvedeny jako AOX v mg/l resp. v g/t celkové spotřeby tetrachlormethanu.
+
+<sup>8)</sup> Přípustná hodnota koncentrace je uvedena jako AOX v mg/l.
+
+<sup>9)</sup> Jedná se zejména o použití tetrachlormethanu jako rozpouštědla v průmyslových prádelnách a čistírnách.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>),</sup><sup>1</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>5.</td><td colspan="4">DDT<sup>2</sup><sup>)</sup></td></tr><tr><td rowspan="6">5.1.1<br><br><br><br> 5.1.2</td><td colspan="3">Výroba DDT</td><td rowspan="6"></td></tr><tr><td>měsíční průměr</td><td>8</td><td>0,7</td></tr><tr><td>denní průměr</td><td>16</td><td>1,3</td></tr><tr><td>Zpracování DDT na místě výroby<sup>3</sup><sup>)</sup></td><td></td><td></td></tr><tr><td>měsíční průměr</td><td>4</td><td>0,2</td></tr><tr><td>denní průměr</td><td>8</td><td>0,4</td></tr><tr><td rowspan="3">5.2</td><td colspan="3">Zpracování DDT mimo místo výroby<sup>3),5)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>0</td><td>0</td></tr><tr><td>denní průměr</td><td>0</td><td>0</td></tr><tr><td rowspan="3">5.3</td><td colspan="3">Průmyslová výroba dikofolu<sup>4),5)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>1</td><td>0,2</td></tr><tr><td>denní průměr</td><td>2</td><td>0,4</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> U nových závodů již musejí nejlepší dostupné techniky ve výrobě umožnit dosáhnout emisních standardů nižších než I g/t vyrobených látek.
+
+<sup>2)</sup> Přípustné hodnoty se vztahují na sumu izomerů a kongenerů DDT: 1,1,1-trichlor-2,2-bis(p-chlorfenyl)ethan, 1,1,1-trichlor-2-(o-chlorfenyl)-2-(p-chlorfenyl)ethan, 1,1-dichlor-2,2-bis(p-chlorfenyl)ethen a 1,1-dichlor-2,2-bis(p-chlorfenyl)ethan.
+
+<sup>3)</sup> Přípustné hodnoty poměrného množství jsou uvedeny v g/t vyrobeného nebo zpracovaného DDT.
+
+<sup>4)</sup> Přípustné hodnoty poměrného množství jsou uvedeny v g/t vyrobeného dikofolu.
+
+<sup>5)</sup> Přípustné jsou pouze technologie neprodukující odpadní vody.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>6.</td><td colspan="4">Pentachlorfenol (PCP) a jeho soli</td></tr><tr><td rowspan="3">6.1</td><td colspan="3">Výroba pentachlorfenolátu sodného hydrolýzou hexachlorbenzenu<sup>1</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>25</td><td>1</td></tr><tr><td>denní průměr</td><td>50</td><td>2</td></tr><tr><td rowspan="3">6.2</td><td colspan="2">Výroba pentachlorfenolátu sodného zmýdelňováním<sup>1),2)</sup></td><td></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>25</td><td>1</td></tr><tr><td>denní průměr</td><td>50</td><td>2</td></tr><tr><td rowspan="3">6.3</td><td colspan="3">Výroba pentachlorfenolu chlorací<sup>2),3)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>25</td><td>1</td></tr><tr><td>denní průměr</td><td>50</td><td>2</td></tr><tr><td rowspan="3">6.4</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, s vypouštěním nad 3 kg/rok<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>1</td></tr><tr><td>denní průměr</td><td></td><td>2</td></tr><tr><td rowspan="2">6.5</td><td colspan="3">Použití pentachlorfenolu a jeho solí k ošetřování dřeva, s vypouštěním pod 3 kg/rok<sup>2</sup><sup>)</sup></td><td rowspan="2"></td></tr><tr><td>přípustná hodnota „p“</td><td></td><td>1</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot. Přípustná hodnota „p“ není roční průměr a může být v povolené míře překročena podle hodnot uvedených v příloze č. 5 k tomuto nařízení.
+
+<sup>b)</sup> V povolení stanovené mezní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Přípustné hodnoty poměrného množství pentachlorfenolu jsou uvedeny v g/t výrobní kapacity pentachlorfenolátu sodného.
+
+<sup>2)</sup> Uváděné přípustné hodnoty jsou mezní.
+
+<sup>3)</sup> Přípustné hodnoty poměrného množství pentachlorfenolu jsou uvedeny v g/t výrobní kapacity pentachlorfenolu.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a),1)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b)c)</sup></th><th></th></tr><tr><td>7.</td><td colspan="4">Aldrin<sup>2</sup><sup>)</sup>, dieldrin<sup>3)</sup>, endrin<sup>4</sup><sup>)</sup> a isodrin<sup>5</sup><sup>)</sup> (driny)</td></tr><tr><td rowspan="3">7.1</td><td colspan="3">Výroba aldrinu a/nebo dieldrinu a/nebo endrinu včetně zpracování těchto látek na stejném místě<sup>6</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>3</td><td>0,002</td></tr><tr><td>denní průměr</td><td>15</td><td>0,01<sup>8</sup><sup>)</sup></td></tr><tr><td rowspan="3">7.2</td><td colspan="3">Zpracování těchto látek mimo místo výroby<sup>7</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>3</td><td>0,002</td></tr><tr><td>denní průměr</td><td>15</td><td>0,01</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>c)</sup> U těchto hodnot se počítá s celkovým množstvím vod prošlého zařízením (výrobní jednotkou).
+
+<sup>1)</sup> Uvedené přípustné hodnoty platí pro celkové množství vypouštěného aldrinu, dieldrinu a endrinu. Jestliže odpadní voda z výroby, zpracování nebo použití aldrinu a/nebo dieldrinu a/nebo endrinu obsahují též isodrin, uplatní se přípustné hodnoty na celkové množství vypouštěného aldrinu, dieldrinu, endrinu a isodrinu.
+
+<sup>2)</sup> Aldrin je chemická sloučenina C<sub>12</sub>H<sub>8</sub>Cl<sub>6</sub> (1,2,3,4,10,10-hexachlor-1,4,4a,5,8,8a-hexahydro-1,4-endo-5,8-exo-dimethylnaftalen).
+
+<sup>3)</sup> Dieldrin je chemická sloučenina C<sub>12</sub>H<sub>8</sub>Cl<sub>6</sub>O (1,2,3,4,10,10-hexachlor-6,7-epoxy-1,4,4a,5,6,7,8,8a-oktahydro-1,4-endo-5,8-exo-dimethylnaftalen).
+
+<sup>4)</sup> Endrin je chemická sloučenina C<sub>12</sub>H<sub>8</sub>Cl<sub>6</sub>O (1,2,3,4,10,10-hexachlor-6,7-epoxy-1,4,4a,5,6,7,8,8a-oktahydro-1,4-endo-5,8-endo-dimethylnaftalen).
+
+<sup>5)</sup> Isodrin je chemická sloučenina C<sub>12</sub>H<sub>8</sub>Cl<sub>6</sub> (1,2,3,4,10,10-hexachlor-1,4,4a,5,8,8a-hexahydro-1,4-endo-5,8-endo-dimethylnaftalen).
+
+<sup>6)</sup> Přípustné hodnoty poměrného množství jsou uvedeny v g/t celkové výrobní kapacity drinů.
+
+<sup>7)</sup> Uváděné přípustné hodnoty jsou mezní.
+
+<sup>8)</sup> Denní přípustné hodnoty nemají pokud možno překračovat dvojnásobek měsíční hodnoty.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>8.</td><td colspan="4">Hexachlorbenzen (HCB)</td></tr><tr><td rowspan="3">8.1</td><td colspan="3">Výroba a zpracování hexachlorbenzenu<sup>1</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>10</td><td>1</td></tr><tr><td>denní průměr</td><td>20</td><td>2</td></tr><tr><td rowspan="3">8.2</td><td colspan="3">Výroba tetrachlorethenu a tetrachlormethanu chlorací<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>1,5</td><td>1,5</td></tr><tr><td>denní průměr</td><td>3</td><td>3</td></tr><tr><td rowspan="3">8.3</td><td colspan="3">Výroba trichlorethenu a/nebo tetrachlorethenu jinými procesy<sup>3</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>1,5</td><td>1,5</td></tr><tr><td>denní průměr</td><td>3</td><td>3</td></tr><tr><td rowspan="3">8.4</td><td colspan="3">Výroba quintozenu a tecnazenu<sup>4),5)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>10</td><td>1,5</td></tr><tr><td>denní průměr</td><td>20</td><td>3</td></tr><tr><td rowspan="3">8.5</td><td colspan="3">Výroba chloru elektrolýzou alkalických chloridů s použitím grafitových elektrod<sup>4),6)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>1</td></tr><tr><td>denní průměr</td><td></td><td>2</td></tr><tr><td rowspan="3">8.6</td><td colspan="3">Závody na zpracování technické pryže, s vypouštěním nad 1 kg/rok<sup>4),6)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>3,5</td></tr><tr><td>denní průměr</td><td></td><td>7</td></tr><tr><td rowspan="3">8.7</td><td colspan="3">Závody na výrobu pyrotechnických výrobků s vypouštěním nad 1 kg/rok<sup>4),7)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>20</td><td>1</td></tr><tr><td>denní průměr</td><td>40</td><td>2</td></tr><tr><td rowspan="3">8.8</td><td>Závody na výrobu vinylchloridu<sup>4),8)</sup></td><td></td><td></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2</td><td>1</td></tr><tr><td>denní průměr</td><td>4</td><td>2</td></tr><tr><td rowspan="3">8.9</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, s vypouštěním nad 1 kg/rok<sup>4),6)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>1</td></tr><tr><td>denní průměr</td><td></td><td>2</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Přípustné hodnoty poměrného množství hexachlorbenzenu jsou uvedeny v g/t celkové výrobní kapacity hexachlorbenzenu.
+
+<sup>2)</sup> Přípustné hodnoty poměrného množství hexachlorbenzenu jsou uvedeny v g/t celkové výrobní kapacity tetrachlorethenu a tetrachlormethanu.
+
+<sup>3</sup><sup>)</sup> Přípustné hodnoty poměrného množství hexachlorbenzenu jsou uvedeny v g/t celkové výrobní kapacity trichlorethenu a tetrachlorethenu.
+
+<sup>4)</sup> Uváděné přípustné hodnoty jsou mezní.
+
+<sup>5)</sup> Přípustné hodnoty poměrného množství hexachlorbenzenu jsou uvedeny v g/t celkové výrobní kapacity quintozenu a tecnazenu.
+
+<sup>6)</sup> Přípustné hodnoty koncentrace AOX jsou uvedeny v mg/l.
+
+<sup>7)</sup> Přípustné hodnoty koncentrace a poměrného množství AOX jsou uvedeny v mg/l resp. v g/t celkové výrobní kapacity pyrotechnických výrobků.
+
+<sup>8)</sup> Přípustné hodnoty koncentrace a poměrného množství AOX jsou uvedeny v mg/l resp. v g/t celkové výrobní kapacity vinylchloridu.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>9.</td><td colspan="4">Hexachlorbutadien (HCBD)</td></tr><tr><td rowspan="3">9.1</td><td colspan="3">Výroba tetrachlorethenu a tetrachlormethanu chlorací<sup>1</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>1,5</td><td>1,5</td></tr><tr><td>denní průměr</td><td>3</td><td>3</td></tr><tr><td rowspan="3">9.2</td><td colspan="3">Výroby trichlorethenu a tetrachlorethenu jinými procesy<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>1,5</td><td>1</td></tr><tr><td>denní průměr</td><td>3</td><td>3</td></tr><tr><td rowspan="3">9.3</td><td colspan="3">Závody používající hexachlorbutadien pro technické účely s vypouštěním nad 1 kg/rok<sup>3),4)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2</td><td>1</td></tr><tr><td>denní průměr</td><td>4</td><td>2</td></tr><tr><td rowspan="3">9.4</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, s vypouštěním nad 1 kg/rok<sup>3),5)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>1,5</td></tr><tr><td>denní průměr</td><td></td><td>3</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Přípustné hodnoty poměrného množství hexachlorbutadienu jsou uvedeny v g/t celkové výrobní kapacity tetrachlorethenu a tetrachlormethanu.
+
+<sup>2)</sup> Přípustné hodnoty poměrného množství hexachlorbutadienu jsou uvedeny v g/t celkové výrobní kapacity trichlorethenu a tetrachlorethanu.
+
+<sup>3)</sup> Uváděné přípustné hodnoty jsou mezní.
+
+<sup>4)</sup> Přípustné hodnoty koncentrace a poměrného množství jsou uvedeny jako AOX v mg/l resp. v g/t celkové spotřeby hexachlorbutadienu.
+
+<sup>5)</sup> Přípustné hodnoty koncentrace jsou uvedeny jako AOX v mg/l.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>10.</td><td colspan="4">Trichlormethan (chloroform, CHCl<sub>3</sub>)<sup>1</sup><sup>)</sup></td></tr><tr><td rowspan="3">10.1</td><td colspan="3">Výroba trichlormethanu z methanolu a ze směsi methanolu s methanem<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>10</td><td>1</td></tr><tr><td>denní průměr</td><td>20</td><td>2</td></tr><tr><td rowspan="3">10.2</td><td colspan="3">Výroba chlormethanů chlorací methanu<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>7,5</td><td>1</td></tr><tr><td>denní průměr</td><td>15</td><td>2</td></tr><tr><td rowspan="3">10.3</td><td colspan="3">Výroba fluorchloruhlovodíků (freonů)<sup>3),4)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>20</td><td>1</td></tr><tr><td>denní průměr</td><td>40</td><td>2</td></tr><tr><td rowspan="3">10.4</td><td colspan="3">Výroba vinylchloridu pyrolýzou dichlorethanu<sup>3),5)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2</td><td>1</td></tr><tr><td>denní průměr</td><td>4</td><td>2</td></tr><tr><td rowspan="3">10.5</td><td colspan="3">Provozy používající trichlormethan jako rozpouštědlo, s vypouštěním nad 30 kg/rok<sup>3),6)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2</td><td>10</td></tr><tr><td>denní průměr</td><td>4</td><td>20</td></tr><tr><td rowspan="3">10.6</td><td colspan="3">Závody, kde se chlorují chladicí nebo odpadní vody<sup>3),7)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,5</td></tr><tr><td>denní průměr</td><td></td><td>1</td></tr><tr><td rowspan="3">10.7</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, s vypouštěním nad 30 kg/rok<sup>3),7)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>1</td></tr><tr><td>denní průměr</td><td></td><td>2</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Vzhledem k těkavosti trichlormethanu a k zamezení jeho úniků do ovzduší se u procesů, které zahrnují manipulaci s odpadními vodami s obsahem trichlormethanu v kontaktu s ovzduším, se vyžaduje dodržení přípustných koncentrací i směrem proti proudu u daného závodu. Při tom je třeba vzít v úvahu veškeré pravděpodobně znečištěné odpadní vody.
+
+<sup>2)</sup> Přípustné hodnoty poměrného množství trichlormethanu jsou uvedeny v g/t celkové výrobní kapacity chlormethanů.
+
+<sup>3)</sup> Uváděné přípustné hodnoty jsou mezní.
+
+<sup>4)</sup> Přípustné hodnoty koncentrace a poměrného množství jsou uvedeny jako AOX v mg/l resp. v g/t celkové výrobní kapacity fluorchloruhlovodíků.
+
+<sup>5)</sup> Přípustné hodnoty koncentrace a poměrného množství jsou uvedeny jako AOX v mg/l resp. v g/t celkové výrobní kapacity vinylchloridu.
+
+<sup>6)</sup> Přípustné hodnoty koncentrace a poměrného množství jsou uvedeny jako AOX v mg/l resp. v g/t celkové spotřeby trichlormethanu.
+
+<sup>7)</sup> Přípustné hodnoty koncentrace jsou uvedeny jako AOX v mg/l.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>11.</td><td colspan="4">1,2-dichlorethan(EDC)<sup>1</sup><sup>)</sup></td></tr><tr><td rowspan="3">11.1</td><td colspan="3">Výroba 1,2-dichlorethanu, bez zpracování a používání na místě<sup>2),3)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2,5</td><td>1,25</td></tr><tr><td>denní průměr</td><td>5</td><td>2,5</td></tr><tr><td rowspan="3">11.2</td><td colspan="3">Výroba 1,2-dichlorethanu včetně zpracování a používání na místě (mimo 11.5)<sup>3)4)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>5</td><td>2,5</td></tr><tr><td>denní průměr</td><td>10</td><td>5</td></tr><tr><td rowspan="3">11.3</td><td colspan="3">Přepracování 1,2-dichlorethanu na jiné látky než vinylchlorid<sup>3),5),6)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2,5</td><td>1</td></tr><tr><td>denní průměr</td><td>5</td><td>2</td></tr><tr><td rowspan="3">11.4</td><td colspan="3">Užití 1,2-dichlorethanu k odmašťování kovů (mimo 11.2), s vypouštěním nad 30 kg/rok</td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,1</td></tr><tr><td>denní průměr</td><td></td><td>0,2</td></tr><tr><td rowspan="3">11.5</td><td colspan="3">Užití 1,2-dichlorethanu při výrobě iontoměničů<sup>7</sup><sup>),</sup><sup>8</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2</td><td>10</td></tr><tr><td>denní průměr</td><td>4</td><td>20</td></tr><tr><td rowspan="3">11.6</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, s vypouštěním nad 30 kg/rok<sup>7),9)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,2</td></tr><tr><td>denní průměr</td><td></td><td>0,4</td></tr><tr><td rowspan="2">11.7</td><td colspan="3">Užití 1,2-dichlormethanu jako rozpouštědla, s vypouštěním pod 30 kg/rok<sup>7),9)</sup></td><td rowspan="2"></td></tr><tr><td>přípustná hodnota „p“</td><td></td><td>0,5</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot. Přípustná hodnota „p“ není roční průměr a může být v povolené míře překročena podle hodnot uvedených v příloze č. 5 k tomuto nařízení.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Vzhledem k těkavosti 1,2-dichlorethanu a k zamezení jeho úniků do ovzduší se u procesů, které zahrnují manipulaci s odpadními vodami s obsahem 1,2-dichlorethanu v kontaktu s ovzduším, vyžaduje dodržení přípustných koncentrací i směrem proti proudu u daného závodu. Při tom je třeba vzít v úvahu veškeré pravděpodobně znečištěné odpadní vody.
+
+<sup>2)</sup> Přípustné hodnoty poměrného množství 1,2-dichlorethanu jsou uvedeny v g/t čisté výrobní kapacity 1,2-dichlorethanu. Přípustné hodnoty koncentrací jsou vztaženy k referenčnímu objemu odpadních vod 2 m<sup>3</sup>/t rafinační výrobní kapacity 1,2-dichlorethanu.
+
+<sup>3)</sup> Čistá výrobní kapacita 1,2-dichlorethanu zahrnuje tu část 1,2-dichlorethanu, která není zpracovávána na vinylchlorid v příslušném provozu výrobního závodu, a která je recyklována. Výrobní nebo zpracovatelská kapacita je úředně stanovená kapacita nebo nejvyšší roční množství vyrobené nebo zpracované ve čtyřech letech předcházejících udělení povolení. Úředně stanovená kapacita by se neměla příliš lišit od běžné výroby.
+
+<sup>4)</sup> Přípustné hodnoty poměrného množství 1,2-dichlorethanu jsou uvedeny v g/t čisté výrobní kapacity 1,2-dichlorethanu. Překročí-li však zpracovatelská kapacita kapacitu výrobní, vztahují se přípustné hodnoty na celkovou výrobní a zpracovatelskou kapacitu. Přípustné hodnoty koncentrací jsou vztaženy k referenčnímu objemu odpadních vod 2,5 m<sup>3</sup>/t výrobní a zpracovatelské kapacity 1,2-dichlorethanu.
+
+<sup>5)</sup> Přípustné hodnoty poměrného množství 1,2-dichlorethanu jsou uvedeny v g/t spotřeby 1,2-dichlorethanu. Přípustné hodnoty koncentrací jsou vztaženy k referenčnímu objemu odpadních vod 2,5 m<sup>3</sup>/t zpracovatelské kapacity 1,2-dichlorethanu.
+
+<sup>6)</sup> Zejména jedná-li se o výrobu ethylendiaminu, ethylenpolyaminu, 1,1,1-trichlorethanu, trichlorethenu, a tetrachlorethenu.
+
+<sup>7)</sup> Uváděné přípustné hodnoty jsou mezní.
+
+<sup>8)</sup> Přípustné hodnoty koncentrace a poměrného množství jsou uvedeny jako AOX v mg/l resp. v g/t celkové výrobní kapacity iontoměničů.
+
+<sup>9)</sup> Přípustná hodnota koncentrace je uvedena jako AOX v mg/l.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>12.</td><td colspan="4">Trichlorethen (trichlorethylen, TRI)<sup>1</sup><sup>)</sup></td></tr><tr><td rowspan="3">12.1</td><td colspan="3">Výroba trichlorethenu a tetrachlorethenu<sup>2),3)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2,5</td><td>0,5</td></tr><tr><td>denní průměr</td><td>5</td><td>1</td></tr><tr><td rowspan="3">12.2</td><td colspan="3">Užití trichlorethenu k odmašťování kovů, s vypouštěním nad 30 kg/rok</td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,1</td></tr><tr><td>denní průměr</td><td></td><td>0,2</td></tr><tr><td rowspan="3">12.3</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, s vypouštěním nad 30 kg/rok<sup>4),5)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,2</td></tr><tr><td>denní průměr</td><td></td><td>0,4</td></tr><tr><td rowspan="2">12.4</td><td colspan="3">Užití trichlorethenu jako rozpouštědla, s vypouštěním pod 30 kg/rok<sup>4),5),6)</sup></td><td rowspan="2"></td></tr><tr><td>přípustná hodnota „p“</td><td></td><td>0,5</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot. Přípustná hodnota „p“ není roční průměr a může být v povolené míře překročena podle hodnot uvedených v příloze č. 5 k tomuto nařízení.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Vzhledem k těkavosti trichlorethenu a k zamezení jeho úniků do ovzduší se u procesů, které zahrnují manipulaci s odpadními vodami s obsahem trichlorethenu v kontaktu s ovzduším, vyžaduje dodržení přípustných koncentrací i směrem proti proudu u daného závodu. Při tom je třeba vzít v úvahu veškeré pravděpodobně znečištěné odpadní vody.
+
+<sup>2)</sup> Přípustné hodnoty poměrného množství trichlorethenu jsou uvedeny v g/t celkové výrobní kapacity trichlorethenu a tetrachlorethenu. Přípustné hodnoty koncentrací jsou vztaženy k referenčnímu objemu odpadních vod 5 m<sup>3</sup>/t výrobní kapacity trichlorethenu a tetrachlorethenu.
+
+<sup>3)</sup> Pro stávající závody užívající proces dehydrochlorace tetrachlorethanu je výrobní kapacita rovna kapacitě TRI-PER a poměr TRI/PER se bere za 1 : 3.
+
+<sup>4)</sup> Vodoprávní úřad je při stanovení emisních limitů povinen přihlížet k nejlepším dostupným technikám ve výrobě a nejlepším dostupným technologiím v oblasti zneškodňování odpadních vod.
+
+<sup>5)</sup> Přípustná hodnota koncentrace je uvedena jako AOX v mg/l.
+
+<sup>6)</sup> Užití trichlorethenu zejména jako rozpouštědla pro chemické čištění, pro extrakci tuků nebo aromatických látek, k odmašťování kovů a podobně.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>13.</td><td colspan="4">Tetrachlorethen (perchlorethylen, PER)<sup>1</sup><sup>)</sup></td></tr><tr><td rowspan="3">13.1</td><td colspan="3">Výroba trichlorethenu a tetrachlorethenu (technologie TRI-PER)<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2,5</td><td>0,5</td></tr><tr><td>denní průměr</td><td>5</td><td>1</td></tr><tr><td rowspan="3">13.2</td><td colspan="3">Výroba tetrachlormethanu a tetrachlorethenu (technologie TETRA-PER)<sup>3</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2,5</td><td>1,25</td></tr><tr><td>denní průměr</td><td>5</td><td>2,5</td></tr><tr><td rowspan="3">13.3</td><td colspan="3">Užití tetrachlorethenu k odmašťování kovů, s vypouštěním nad 30 kg/rok</td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,1</td></tr><tr><td>denní průměr</td><td></td><td>0,2</td></tr><tr><td rowspan="3">13.4</td><td colspan="3">Výroba fluorchloruhlovodíků (freonů)<sup>4),5)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>2</td><td>10</td></tr><tr><td>denní průměr</td><td>4</td><td>20</td></tr><tr><td rowspan="3">13.5</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, s vypouštěním nad 30 kg/rok<sup>4),6)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>0,2</td></tr><tr><td>denní průměr</td><td></td><td>0,4</td></tr><tr><td rowspan="2">13.6</td><td colspan="3">Užití tetrachlorethenu jako rozpouštědla, s vypouštěním pod 30 kg/rok<sup>4),6),7)</sup></td><td rowspan="2"></td></tr><tr><td>přípustná hodnota „p“</td><td></td><td>0,5</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot. Přípustná hodnota „p“ není roční průměr a může být v povolené míře překročena podle hodnot uvedených v příloze č. 5 k tomuto nařízení.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Vzhledem k těkavosti tetrachlorethenu a k zamezení jeho úniků do ovzduší se u procesů, které zahrnují manipulaci s odpadními vodami s obsahem tetrachlorethenu v kontaktu s ovzduším, vyžaduje dodržení přípustných koncentrací i směrem proti proudu u daného závodu. Při tom je třeba vzít v úvahu veškeré pravděpodobně znečištěné odpadní vody.
+
+<sup>2)</sup> Přípustné hodnoty poměrného množství tetrachlorethenu jsou uvedeny v g/t celkové výrobní kapacity trichlorethenu a tetrachlorethenu. Přípustné hodnoty koncentrací jsou vztaženy k referenčnímu objemu odpadních vod 5 m<sup>3</sup>/t výrobní kapacity trichlorethenu + tetrachlorethenu.
+
+<sup>3)</sup> Přípustné hodnoty poměrného množství tetrachlorethenu jsou uvedeny v g/t celkové výrobní kapacity tetrachlormethanu a tetrachlorethenu. Přípustné hodnoty koncentrací jsou vztaženy k referenčnímu objemu odpadních vod 2 m<sup>3</sup>/t výrobní kapacity tetrachlormethanu + tetrachlorethenu.
+
+<sup>4)</sup> Vodoprávní úřad je při stanovení emisních limitů povinen přihlížet k nejlepším dostupným technikám ve výrobě a nejlepším dostupným technologiím v oblasti zneškodňování odpadních vod.
+
+<sup>5)</sup> Přípustné hodnoty koncentrace a poměrného množství jsou uvedeny jako AOX v mg/l resp. v g/t celkové výrobní kapacity fluorchloruhlovodíků.
+
+<sup>6)</sup> Přípustné hodnoty koncentrace jsou uvedeny jako AOX v mg/l.
+
+<sup>7)</sup> Užití tetrachlorethenu zejména jako rozpouštědla pro chemické čištění, pro extrakci tuků nebo aromatických látek, k odmašťování kovů a podobně.
+
+<table><tbody><tr><th rowspan="2">Pořadí</th><th rowspan="2">Látka, průmyslové odvětví a druh výroby</th><th colspan="3">Přípustné hodnoty<sup>a</sup><sup>)</sup></th></tr><tr><th>g/t</th><th>mg/l<sup>b</sup><sup>)</sup></th><th></th></tr><tr><td>14.</td><td colspan="4">Trichlorbenzen (TCB)<sup>1</sup><sup>)</sup></td></tr><tr><td rowspan="3">14.1</td><td colspan="3">Výroba trichlorbenzenu dehydrochlorací hexachlorcyklohexanu a zpracování trichlorbenzenu<sup>2</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>10</td><td>1</td></tr><tr><td>denní průměr</td><td>20</td><td>2</td></tr><tr><td rowspan="3">14.2</td><td colspan="3">Výroba chlorbenzenů chlorací benzenu a/nebo jejich zpracování<sup>3</sup><sup>)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td>0,5</td><td>0,05</td></tr><tr><td>denní průměr</td><td>1</td><td>0,1</td></tr><tr><td rowspan="3">14.3</td><td colspan="3">Ostatní průmyslová odvětví, výroby a neprůmyslové zdroje, s vypouštěním nad 3 kg/rok<sup>4),5)</sup></td><td rowspan="3"></td></tr><tr><td>měsíční průměr</td><td></td><td>1</td></tr><tr><td>denní průměr</td><td></td><td>2</td></tr><tr><td rowspan="2">14.4</td><td colspan="3">Použití trichlorbenzenu, s vypouštěním pod 3 kg/rok<sup>4),5),6)</sup></td><td rowspan="2"></td></tr><tr><td>přípustná hodnota „p“</td><td></td><td>1</td></tr></tbody></table>
+
+<sup>a)</sup> Přípustné hodnoty denních a měsíčních průměrů jsou nepřekročitelné hodnoty. Denní průměry se stanovují podle § 12 odst. 2. Měsíční průměry se stanoví na základě denních hodnot. Přípustná hodnota „p“ není roční průměr a může být v povolené míře překročena podle hodnot uvedených v příloze č. 5 k tomuto nařízení.
+
+<sup>b)</sup> V povolení stanovené limitní koncentrace nesmějí být větší než hodnoty vyjádřené v g/t dělené spotřebou vody v m<sup>3</sup>/t parametru charakterizujícího výrobu. Mezní hodnoty vyjádřené v g/t musejí být v každém případě dodrženy.
+
+<sup>1)</sup> Trichlorbenzen je tvořen směsí tří izomerů: 1,2,3-trichlorbenzenu, 1,2,4-trichlorbenzenu a 1,3,5-trichlorbenzenu. Ustanovení se vztahují na sumu těchto tří izomerů.
+
+<sup>2)</sup> Přípustné hodnoty poměrného množství trichlorbenzenu jsou uvedeny v g/t celkové výrobní kapacity trichlorbenzenu. Přípustné hodnoty koncentrací jsou vztaženy k referenčnímu objemu odpadních vod 10 m<sup>3</sup>/t výrobní kapacity TCB.
+
+<sup>3)</sup> Přípustné hodnoty poměrného množství trichlorbenzenu jsou uvedeny v g/t celkové výrobní nebo zpracovatelskou kapacitu mono a dichlorbenzenů. Přípustné hodnoty koncentrací jsou vztaženy k referenčnímu objemu odpadních vod 10 m<sup>3</sup>/t výrobní nebo zpracovatelské kapacity mono a dichlorbenzenů.
+
+<sup>4)</sup> Vodoprávní úřad je při stanovení emisních limitů povinen přihlížet k nejlepším dostupným technikám ve výrobě a nejlepším dostupným technologiím v oblasti zneškodňování odpadních vod.
+
+<sup>5)</sup> Přípustné hodnoty koncentrace jsou uvedeny jako AOX v mg/l.
+
+<sup>6)</sup> Užití o trichlorbenzenu zejména jako rozpouštědla a nosiče barviv v textilním průmyslu, jako složky transformátorových olejů a podobně.
+
+### Příloha č. 2 k nařízení vlády č. 401/2015 Sb.
+
+#### Ukazatele vyjadřující dobrý stav povrchové vody
+
+1\. Neporušená samočistící schopnost.
+
+2\. Stav bez přítomnosti organizmů s potenciálně patogenními a toxickými vlastnostmi.
+
+3\. Stav, při němž nedochází k nadměrnému rozvoji autotrofních organismů a ke zvýšení produktivity vodního ekosystému, ani k závažné změně druhové rozmanitosti vodních organizmů.
+
+4\. Stav, při němž nedochází ke vzniku kalových lavic nebo pokrytí vodní hladiny pěnou, tuky, oleji nebo jinými závadnými látkami.
+
+5\. Pro prioritní látky uvedené v příloze č. 6 k tomuto nařízení pod čísly 2, 5, 6, 7, 12, 15, 16, 17, 18, 20, 21, 26, 28, 30, 34, 35, 36, 37, 43 a 44 platí, že se koncentrace zjištěná v rámci provádění monitoringu vod podle schváleného plánu monitoringu nesmí v sedimentu nebo biotě výrazně v čase zvyšovat.<sup>\*</sup>
+
+6\. Stav, při němž nedochází k porušování hygienických požadavků na ochranu zdraví před ionizujícím zářením.
+
+7\. Stav, při němž nedochází v důsledku škodlivého působení látek ke změně produktivity vodního ekosystému, ani k závažnému omezení druhové rozmanitosti vodních organizmů nebo překročení pro ně nejvýše přípustných hodnot dávky nebo objemové aktivity radionuklidů.
+
+\* Monitoring pro určení trendů bude prováděn v matrici zvolené na základě charakteristik dané prioritní látky v souladu s plánem monitoringu zpracovaným podle vyhlášky č. 98/2011 Sb.
+
+### Příloha č. 3 k nařízení vlády č. 401/2015 Sb.
+
+#### Ukazatele vyjadřující stav povrchové vody, normy environmentální kvality a požadavky na užívání vod
+
+A.
+
+#### Povrchové vody
+
+Tabulka 1a: Ukazatele a hodnoty přípustného znečištění povrchových vod a vod užívaných pro vodárenské účely, koupání osob a lososové a kaprové vody, vztahující se k místu odběru vody pro úpravu na vodu pitnou, místu provozování koupání, respektive k úseku vodního toku stanoveného jako lososová nebo kaprová voda.
+
+<table><tbody><tr><th rowspan="2">Ukazatel</th><th rowspan="2">Značka, zkratka nebo číslo CAS<sup>A</sup><sup>)</sup></th><th rowspan="2">Jednotka</th><th>Přípustné znečištění pro účely § 31, § 34 a § 35 zákona<sup>B),C),D),E),F)</sup></th><th colspan="2">Přípustné znečištění</th></tr><tr><th>roční průměr<sup>G</sup><sup>)</sup></th><th>roční průměr</th><th>maximum</th></tr><tr><th colspan="6">Všeobecné ukazatele</th></tr><tr><td>teplota vody</td><td>t</td><td>°C</td><td></td><td></td><td>29</td></tr><tr><td>reakce vody</td><td>pH</td><td>-</td><td></td><td>5-9</td><td></td></tr><tr><td>nasycení vody kyslíkem</td><td>O<sub>2</sub></td><td>mg/l</td><td></td><td>&gt;9</td><td></td></tr><tr><td>biochemická spotřeba kyslíku</td><td>BSK<sub>5</sub></td><td>mg/l</td><td>2,7<sup>B</sup><sup>)</sup> 1,8<sup>D</sup><sup>)</sup> 3,2<sup>E</sup><sup>)</sup></td><td>3,8</td><td></td></tr><tr><td>chemická spotřeba kyslíku</td><td>CHSK<sub>Cr</sub></td><td>mg/l</td><td>5,9<sup>B</sup><sup>)</sup></td><td>26</td><td></td></tr><tr><td>celkový organický uhlík</td><td>TOC</td><td>mg/l</td><td>4,5<sup>B</sup><sup>)</sup></td><td>10</td><td></td></tr><tr><td>celkový fosfor</td><td>P<sub>celk.</sub></td><td>mg/l</td><td>0,05</td><td>0,15</td><td></td></tr><tr><td>celkový dusík</td><td>N<sub>celk.</sub></td><td>mg/l</td><td></td><td>6</td><td></td></tr><tr><td>dusičnanový dusík</td><td>N-NO<sub>3</sub><sup>-</sup></td><td>mg/l</td><td></td><td>5,4</td><td></td></tr><tr><td>dusitanový dusík</td><td>N-NO<sub>2</sub><sup>-</sup></td><td>mg/l</td><td>0,08<sup>D</sup><sup>)</sup> 0,12<sup>E</sup><sup>)</sup></td><td></td><td></td></tr><tr><td>amoniakální dusík</td><td>N-NH<sub>4</sub><sup>+</sup></td><td>mg/l</td><td>0,03<sup>D</sup><sup>)</sup> 0,16<sup>E</sup><sup>)</sup></td><td>0,23</td><td></td></tr><tr><td>rozpuštěné látky sušené</td><td>RL<sub>105</sub></td><td>mg/l</td><td></td><td>750</td><td></td></tr><tr><td>rozpuštěné látky žíhané</td><td>RL<sub>550</sub></td><td>mg/l</td><td></td><td>470</td><td></td></tr><tr><td>nerozpuštěné látky</td><td>NL<sub>105</sub></td><td>mg/l</td><td></td><td>20</td><td></td></tr><tr><td>chloridy</td><td>Cl<sup>-</sup></td><td>mg/l</td><td>65<sup>B</sup><sup>)</sup></td><td>150</td><td></td></tr></tbody></table>
+
+<table><tbody><tr><th rowspan="2">Ukazatel</th><th rowspan="2">Značka, zkratka nebo číslo CAS<sup>A</sup><sup>)</sup></th><th rowspan="2">Jednotka</th><th>Přípustné znečištění pro účely § 31, § 34 a § 35zákona<sup>B),C),D),E),F)</sup></th><th colspan="2">Přípustné znečištění</th></tr><tr><th>roční průměr<sup>G</sup><sup>)</sup></th><th>roční průměr</th><th>maximum</th></tr><tr><td>sírany</td><td>SO<sub>4</sub><sup>2-</sup></td><td>mg/l</td><td>180<sup>B</sup><sup>)</sup></td><td>200</td><td></td></tr><tr><td>hořčík</td><td>Mg</td><td>mg/l</td><td></td><td>120</td><td></td></tr><tr><td>vápník</td><td>Ca</td><td>mg/l</td><td></td><td>190</td><td></td></tr><tr><th colspan="6">Mikrobiologické ukazatele</th></tr><tr><td>Escherichia coli</td><td>ECOLI</td><td>KTJ/100 ml</td><td><sup>B</sup><sup>)</sup>900<sup>C)</sup></td><td></td><td>2500</td></tr><tr><td>intestinální (střevní) enterokoky</td><td>ENT</td><td>KTJ/100 ml</td><td>1000<sup>B)</sup> 330<sup>C)</sup></td><td></td><td><sub>2000</sub></td></tr><tr><td>termotolerantní (fekální) koliformní bakterie</td><td>FC</td><td>KTJ/100 ml</td><td>2000<sup>B) </sup></td><td></td><td>4000</td></tr><tr><td></td><td></td><td></td><td><sup>B) C)</sup></td><td></td><td></td></tr><tr><th colspan="6">Ukazatele radioaktivity</th></tr><tr><td>celková objemová aktivita alfa</td><td>cα</td><td>Bq/l</td><td>0,2<sup>F) </sup></td><td>0,2</td><td>0,3</td></tr><tr><td>celková objemová aktivita beta</td><td>cβ</td><td>Bq/l</td><td></td><td>0,5</td><td>1</td></tr><tr><td>celková objemová aktivita beta opravená na 40K</td><td>cß-40K</td><td>Bq/l</td><td>0,5<sup>F) </sup></td><td>0,5</td><td>0,5</td></tr><tr><td>cesium 137</td><td><sup>137</sup>Cs</td><td>Bq/l</td><td></td><td></td><td>2</td></tr><tr><td>radium 226</td><td><sup>226</sup>Ra</td><td>Bq/l</td><td></td><td></td><td>0,5</td></tr><tr><td>stroncium 90</td><td><sup>90</sup>Sr</td><td>Bq/l</td><td></td><td></td><td>1</td></tr><tr><td>tritium</td><td><sup>3</sup>H</td><td>Bq/l</td><td>100<sup>F) </sup></td><td></td><td>3500</td></tr></tbody></table>
+
+<sup>A)</sup> CAS: Chemical Abstracts Service.
+
+<sup>B)</sup> Pro hodnocení, zda povrchová voda vyhovuje užívání pro úpravu na vodu pitnou, se využijí rovněž ustanovení vyhlášky č. 428/2001 Sb., ve znění pozdějších předpisů.
+
+<sup>C)</sup> Pro hodnocení, zda povrchová voda vyhovuje užívání pro koupání, se využijí rovněž ustanovení vyhlášky č. 238/2011 Sb.
+
+<sup>D)</sup> Pro hodnocení, zda povrchová voda vyhovuje podmínkám pro lososové vody, se využijí rovněž ustanovení nařízení vlády č. 71/2003 Sb.
+
+<sup>E)</sup> Pro hodnocení, zda povrchová voda vyhovuje podmínkám pro kaprové vody, se využijí rovněž ustanovení nařízení vlády č. 71/2003 Sb.
+
+<sup>F)</sup> Pro hodnocení, zda povrchová voda vyhovuje užívání pro úpravu na vodu pitnou, se využijí rovněž ustanovení vyhlášky č. 422/2016 Sb., o radiační ochraně a zabezpečení radionuklidového zdroje.
+
+<sup>G)</sup> Tam, kde není všeobecný požadavek nebo NEK-RP vyjádřená jako celoroční průměrná hodnota, se neuplatňuje kombinovaný přístup.
+
+#### Tabulka 1b: Normy environmentální kvality pro útvary povrchových vod pro látky uvedené v příloze II Směrnice Evropského parlamentu a Rady 2013/39/EU - prioritní látky a některé další znečišťující látky
+
+<table><tbody><tr><th rowspan="2">Ukazatel</th><th rowspan="2">Značka, zkratka nebo číslo CAS<sup>A</sup><sup>)</sup></th><th rowspan="2">Jednotka</th><th colspan="2">Norma environmentálni kvality (NEK)<sup>B</sup><sup>)</sup></th></tr><tr><th>NEK-RP<sup>C</sup><sup>)</sup></th><th>NEK-NPK<sup>D</sup><sup>)</sup></th></tr><tr><td>aclonifen<sup>1</sup><sup>)</sup></td><td>74070-46-5</td><td>μg/l</td><td>0,12</td><td>0,12</td></tr><tr><td>alachlor</td><td>15972-60-8</td><td>μg/l</td><td>0,3</td><td>0,7</td></tr><tr><td>anthracen<sup>*</sup></td><td>120-12-7</td><td>μg/l</td><td>0,1</td><td>0,1<sup>2</sup><sup>)</sup></td></tr><tr><td>atrazin</td><td>1912-24-9</td><td>μg/l</td><td>0,6</td><td>2</td></tr><tr><td>benzen</td><td>71-43-2</td><td>μg/l</td><td>10</td><td>50</td></tr><tr><td>bifenox<sup>1</sup><sup>)</sup></td><td>42576-02-3</td><td>μg/l</td><td>0,012</td><td>0,04</td></tr><tr><td>bis(2-ethylhexyl)ftalát</td><td>DEHP 117-81-7</td><td>μg/l</td><td>1,3</td><td>nepoužije se</td></tr><tr><td>brómované difenylethery<sup>* 3</sup><sup>)</sup></td><td>32534-81-9</td><td>μg/l</td><td></td><td>0,14<sup>2</sup><sup>)</sup></td></tr><tr><td>chinoxyfen<sup>* 1</sup><sup>)</sup></td><td>124495-18-7</td><td>μg/l</td><td>0,15</td><td>2,7</td></tr><tr><td>chlorované alkany<sup>* 4</sup><sup>)</sup></td><td>C<sub>10</sub>-C<sub>13<br></sub>85535-84-8</td><td>μg/l</td><td>0,4</td><td>1,4</td></tr><tr><td>chlorfenvinfos</td><td>470-90-6</td><td>μg/l</td><td>0,1</td><td>0,3</td></tr><tr><td>chlorpyrifos (chlorpyrifos-ethyl)</td><td>2921-88-2</td><td>μg/l</td><td>0,03</td><td>0,1</td></tr><tr><td>cybutryn<sup>1</sup><sup>)</sup></td><td>28159-98-0</td><td>μg/l</td><td>0,0025</td><td>0,016</td></tr><tr><td>cypermethrin<sup>1</sup><sup>)</sup></td><td>52315-07-8</td><td>μg/l</td><td>8x10<sup>-5</sup></td><td>6x10<sup>-4</sup></td></tr><tr><td>cyklodienové pesticidy<sup>* 5</sup><sup>)</sup></td><td></td><td></td><td rowspan="5">∑=0,01</td><td rowspan="5">nepoužije se</td></tr><tr><td>aldrin<sup>* 5</sup><sup>)</sup></td><td>309-00-2</td><td>μg/l</td></tr><tr><td>endrin<sup>* 5</sup><sup>)</sup></td><td>72-20-8</td><td>μg/l</td></tr><tr><td>dieldrin<sup>* 5</sup><sup>)</sup></td><td>60-57-1</td><td>μg/l</td></tr><tr><td>isodrin<sup>* 5</sup><sup>)</sup></td><td>465-73-6</td><td>μg/l</td></tr><tr><td>DDT<sup>* 5),6)</sup></td><td></td><td>μg/l</td><td>0,025</td><td>nepoužije se</td></tr><tr><td>p,p'-DDT<sup>* 5</sup><sup>)</sup></td><td>50-29-3</td><td>μg/l</td><td>0,01</td><td>nepoužije se</td></tr><tr><td>1,2-dichlorethan</td><td>107-06-2</td><td>μg/l</td><td>10</td><td>nepoužije se</td></tr><tr><td>dichlormethan</td><td>75-09-2</td><td>μg/l</td><td>20</td><td>nepoužije se</td></tr><tr><td>dichlorvos<sup>1</sup><sup>)</sup></td><td>62-73-7</td><td>μg/l</td><td>6x10<sup>-4</sup></td><td>7x10<sup>-4</sup></td></tr><tr><td>dikofol<sup>* 1</sup><sup>)</sup></td><td>115-32-2</td><td>μg/l</td><td>1,3x10<sup>-3</sup></td><td>nepoužije se</td></tr><tr><td>diuron</td><td>330-54-1</td><td>μg/l</td><td>0,2</td><td>1,8</td></tr><tr><td>endosulfan<sup>* 7</sup><sup>)</sup></td><td>115-29-7</td><td>μg/l</td><td>0,005</td><td>0,01</td></tr><tr><td>fluoranthen</td><td>206-44-0</td><td>μg/l</td><td>0,0063<sup>2</sup><sup>)</sup></td><td>0,12<sup>2</sup><sup>)</sup></td></tr><tr><td>heptachlor a heptachlorepoxid<sup>* 1</sup><sup>)</sup></td><td>76-44-8/<br> 1024-57-3</td><td>μg/l</td><td>2x10<sup>-7</sup></td><td>3x10<sup>-4</sup></td></tr><tr><td>hexabromcyklododekany<sup>* 1),8)</sup></td><td>HBCDD</td><td>μg/l</td><td>0,0016</td><td>0,5</td></tr><tr><td>hexachlorbenzen<sup>*</sup></td><td>HCB<br> 118-74-1</td><td>μg/l</td><td></td><td>0,05</td></tr><tr><td>hexachlorbutadien<sup>*</sup></td><td>HCBUT<br> 87-68-3</td><td>μg/l</td><td></td><td>0,6</td></tr><tr><td>hexachlorcyklohexan<sup>* 9</sup><sup>)</sup></td><td>608-73-1</td><td>μg/l</td><td>0,02</td><td>0,04</td></tr><tr><td>isoproturon</td><td>34123-59-6</td><td>μg/l</td><td>0,3</td><td>1</td></tr><tr><td>naftalen</td><td>91-20-3</td><td>μg/l</td><td>2<sup>2</sup><sup>)</sup></td><td>130<sup>2</sup><sup>)</sup></td></tr><tr><td>nonylfenoly (4- nonylfenol)<sup>*</sup></td><td>84852-15-3</td><td>μg/l</td><td>0,3</td><td>2</td></tr><tr><td>oktylfenoly(4-(1,1',3,3'-tetramethylbutyl)-fenol)</td><td>140-66-9</td><td>μg/l</td><td>0,1</td><td>nepoužije se</td></tr><tr><td>pentachlorbenzen<sup>*</sup></td><td>608-93-5</td><td>μg/l</td><td>0,007</td><td>nepoužije se</td></tr><tr><td>pentachlorfenol<sup>*</sup></td><td>PCP<br> 87-86-5</td><td>μg/l</td><td>0,4</td><td>1</td></tr><tr><td>perfluoroktansulfonová kyselina a její deriváty<sup>* 1</sup><sup>)</sup></td><td>PFOS<br> 1763-23-1</td><td>μg/l</td><td>6,5x10<sup>-4 2</sup><sup>)</sup></td><td>36</td></tr><tr><td>polycyklické aromatické uhlovodíky:<sup>* 10</sup><sup>)</sup></td><td>PAU</td><td></td><td>nepoužije se</td><td>nepoužije se</td></tr><tr><td>benzo[a]pyren<sup>*</sup></td><td>50-32-8</td><td>μg/l</td><td>1,7x10<sup>-4 </sup><sup>2</sup><sup>)</sup></td><td>0,27<sup>2</sup><sup>)</sup></td></tr><tr><td>benzo[b]fluoranthen<sup>*</sup></td><td>205-99-2</td><td>μg/l</td><td></td><td>0,017<sup>2</sup><sup>)</sup></td></tr><tr><td>benzo[k]fluoranthen<sup>*</sup></td><td>207-08-9</td><td>μg/l</td><td></td><td>0,017<sup>2</sup><sup>)</sup></td></tr><tr><td>benzo[ghi]perylen<sup>*</sup></td><td>191-24-2</td><td>μg/l</td><td></td><td>8,2x10<sup>-3 2</sup><sup>)</sup></td></tr><tr><td>indeno[1,2,3-cd]pyren<sup>*</sup></td><td>193-39-5</td><td>μg/l</td><td></td><td>nepoužije se</td></tr><tr><td>simazin</td><td>122-34-9</td><td>μg/l</td><td>1</td><td>4</td></tr><tr><td>terbutryn<sup>1</sup><sup>)</sup></td><td>886-50-0</td><td>μg/l</td><td>0,065</td><td>0,34</td></tr><tr><td>tetrachlorethen<sup>* 5</sup><sup>)</sup></td><td>PCE (PER)<br> 127-18-4</td><td>μg/l</td><td>10</td><td>nepoužije se</td></tr><tr><td>tetrachlormethan<sup>* 5</sup><sup>)</sup></td><td>56-23-5</td><td>μg/l</td><td>12</td><td>nepoužije se</td></tr><tr><td>1,1,2-trichlorethen (trichlorethylen)<sup>*</sup></td><td>TCE (TRI)<br> 79-01-6</td><td>μg/l</td><td>10</td><td>nepoužije se</td></tr><tr><td>tributylstannan kationt (kationt tributylcínu)<sup>*</sup></td><td>36643-28-4</td><td>μg/l</td><td>0,0002</td><td>0,0015</td></tr><tr><td>trichlorbenzeny<sup>* 11</sup><sup>)</sup></td><td>12002-48-1</td><td>μg/l</td><td>0,4</td><td>nepoužije se</td></tr><tr><td>trichlormethan (chloroform)<sup>*</sup></td><td>TCM<br> 67-66-3</td><td>μg/l</td><td>2,5</td><td>nepoužije se</td></tr><tr><td>trifluralin<sup>*</sup></td><td>1582-09-8</td><td>μg/l</td><td>0,03</td><td>nepoužije se</td></tr><tr><td>kadmium a jeho sloučeniny-rozpuštěné<sup>* 12), 13)<br></sup>(v závislosti na třídách tvrdosti vody)<sup>14</sup><sup>)</sup></td><td>Cd-rozp.<br> 7440-43-9</td><td>μg/l</td><td>≤0,08 (třída 1)<br> 0,08 (třída 2)<br> 0,09 (třída 3)<br> 0,15 (třída 4)<br> 0,25 (třída 5)</td><td>≤0,45 (třída 1)<br> 0,45 (třída 2)<br> 0,6 (třída 3)<br> 0,9 (třída 4)<br> 1,5 (třída 5)</td></tr><tr><td>nikl a jeho sloučeniny - rozpuštěné<sup>12),13)</sup></td><td>Ni-rozp.<br> 7440-02-0</td><td>μg/l</td><td>4<sup>2),15)</sup></td><td>34<sup>2</sup><sup>)</sup></td></tr><tr><td>olovo a jeho sloučeniny - rozpuštěné<sup>12),13)</sup></td><td>Pb-rozp.<br> 7439-92-1</td><td>μg/l</td><td>1,2<sup>2),15)</sup></td><td>14<sup>2</sup><sup>)</sup></td></tr><tr><td>rtuť a její sloučeniny - rozpuštěné<sup>* 12),13)</sup></td><td>Hg-rozp.<br> 7439-97-6</td><td>μg/l</td><td></td><td>0,07</td></tr></tbody></table>
+
+<sup>A)</sup> CAS: Chemical Abstracts Service.
+
+<sup>B)</sup> Normy environmentální kvality jsou vyjádřeny jako celkové koncentrace v celém vzorku vody, pokud není uvedeno jinak.
+
+<sup>C)</sup> NEK-RP: norma environmentální kvality vyjádřená jako celoroční průměrná hodnota. Není-li uvedeno jinak, použije se na celkovou koncentraci všech izomerů. Pro každý daný útvar povrchových vod se použitím NEK-RP rozumí, že aritmetický průměr koncentrací naměřených v různých časech průběhu roku v žádném reprezentativním monitorovacím místě ve vodním útvaru nepřekračuje dotyčnou normu.
+
+<sup>D)</sup> NEK-NPK: norma environmentální kvality vyjádřená jako nejvyšší přípustná koncentrace je nepřekročitelná. U každého daného útvaru povrchových vod použití NEK-NPK znamená, že naměřené koncentrace v každém reprezentativním monitorovacím místě ve vodním útvaru nepřekračují dotyčnou normu. Je-li NEK-NPK označena výrazem „nepoužije se“, pak se hodnoty NEK-RP považují za hodnoty, které v případě trvalého vypouštění chrání proti krátkodobým maximům znečištění, neboť jsou výrazně nižší než hodnoty odvozené na základě akutní toxicity.
+
+Pozn.: Látky označené symbolem „<sup>\*</sup>“ jsou zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky.
+
+<sup>1)</sup> Nově určené látky s účinností od 22. prosince 2018.
+
+<sup>2)</sup> Revidovaná NEK s účinností od 22. prosince 2015.
+
+<sup>3)</sup> Limitní hodnota stanovená pro sumu kongenerů bromovaných difenyletherů s čísly 28, 47, 99, 100, 153 a 154.
+
+<sup>4)</sup> Pro tuto skupinu látek není k dispozici žádný směrný parametr. Směrný parametr (směrné parametry) musí být stanoven (stanoveny) analytickou metodou.
+
+<sup>5)</sup> Tato látka není látkou prioritní, nýbrž jednou z ostatních znečišťujících látek, pro něž jsou NEK shodné s těmi, jež byly stanoveny v právních předpisech používaných před 13. lednem 2009.
+
+<sup>6)</sup> DDT celkem je součtem izomerů 1,1,1-trichlor-2,2-bis(p-chlorofenyl)ethan (číslo CAS 50-29-3; číslo EU 200-024-3); 1,1,1-trichlor-2 (o-chlorfenyl)-2-(p-chlorfenyl) ethan (číslo CAS 789-02-6; číslo EU 212-332-5); 1,1-dichlor-2,2 bis (p-chlorfenyl) ethylen (číslo CAS 72-55-9; číslo EU 200-784-6); a 1,1-dichlor-2,2 bis (p-chlorfenyl) ethan (číslo CAS 72-54-8; číslo EU 200-783-0).
+
+<sup>7)</sup> Endosulfan zahrnuje sumu α-endosulfanu a β-endosulfanu.
+
+<sup>8)</sup> Vztahuje se na 1,3,5,7,9,11-hexabromcyklododekan (číslo CAS 25637-99-4), 1,2,5,6,9,10-hexabromcyklododekan (číslo CAS 3194- 55-6), α-hexabromcyklododekan (číslo CAS 134237-50-6), β-hexabromcyklododekan (číslo CAS 134237-51-7) a γ-hexabromcyklododekan (číslo CAS 134237-52-8).
+
+<sup>9)</sup> Suma hexachlorcyklohexanů zahrnuje: α-HCH, β-HCH, γ-HCH a δ- HCH.
+
+<sup>10)</sup> V případě skupiny prioritních látek, jimiž jsou polycyklické aromatické uhlovodíky (PAU) (č. 28), se NEK-RP ve vodě vztahují ke koncentraci benzo(a)pyrenu, z jehož toxicity vycházejí. Benzo(a)pyren lze považovat za referenční ukazatel pro ostatní PAU, proto je třeba monitorovat a porovnávat s NEK pro odpovídající NEK-RP ve vodě pouze benzo(a)pyren.
+
+<sup>11)</sup> Suma trichlorbenzenů zahrnuje: 1,2,3-trichlorbenzen, 1,2,4-trichlorbenzen a 1,3,5-trichlorbenzen.
+
+<sup>12)</sup> V případě kadmia, olova, rtuti a niklu se hodnoty NEK pro vodu vztahují ke koncentraci rozpuštěných látek, tj. k rozpuštěné fázi vzorku vody získané filtrací filtrem s otvory 0,45 μm nebo jinou rovnocennou předúpravou.
+
+<sup>13)</sup> V případě kovů je možno zohlednit přirozené koncentrace pozadí, pokud takové koncentrace brání souladu s hodnotou příslušných NEK.
+
+<sup>14)</sup> V případě kadmia a jeho sloučenin se hodnoty NEK liší podle tvrdosti vody, která je charakterizovaná pomocí pětistupňové škály tvrdosti: (třída 1: &lt; 40 mg CaCO<sub>3</sub>/l, třída 2: 40 až &lt; 50 mg CaCO<sub>3</sub>/l, třída 3: 50 až &lt; 100 mg CaCO<sub>3</sub>/l, třída 4: 100 až &lt; 200 mg CaCO<sub>3</sub>/l a třída 5: ≥ 200 mg CaCO<sub>3</sub>/l).
+
+<sup>15)</sup> Tyto NEK se vztahují k biologicky dostupným koncentracím látek.
+
+#### Tabulka 1c: Normy environmentální kvality pro specifické znečišťující látky pro útvary povrchových vod a hodnoty přípustného znečištění povrchových vod užívaných pro vodárenské účely, vztahující se k místu odběru vody pro úpravu na vodu pitnou.
+
+<table><tbody><tr><th rowspan="2">Ukazatel</th><th rowspan="2">Značka, zkratka nebo číslo CAS<sup>A</sup><sup>)</sup></th><th rowspan="2">Jednotka</th><th>Přípustné znečištění pro účely § 31 zákona<sup>B</sup><sup>)</sup></th><th>Norma environmentální kvality (NEK)<sup>D</sup><sup>)</sup></th></tr><tr><th>roční průměr<sup>C</sup><sup>)</sup></th><th>NEK-RP<sup>E</sup><sup>)</sup></th></tr><tr><td>1,2,4,5-tetrachlorbenzen</td><td>95-94-3</td><td>μg/l</td><td></td><td>0,32</td></tr><tr><td>1,2-cis-dichlorethen</td><td>156-59-2</td><td>μg/l</td><td></td><td>1</td></tr><tr><td>1,2-trans-dichlorethen</td><td>156-60-5</td><td>μg/l</td><td></td><td>6,8</td></tr><tr><td>1,3 - dichlor-2-propyl (2,3-dichlor-1-propyl) ether</td><td>59440-90-3</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>2,4-dichlorfenol</td><td>120-83-2</td><td>μg/l</td><td></td><td>5</td></tr><tr><td>2,4-dichlorfenoxyoctová kyselina</td><td>2,4-D<br> 94-75-7</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>adsorbovatelné organicky vázané halogeny</td><td>AOX</td><td>μg/l</td><td>12<sup>B</sup><sup>)</sup></td><td>25</td></tr><tr><td>anilín</td><td>62-53-3</td><td>μg/l</td><td></td><td>5</td></tr><tr><td>acetochlor a jeho metabolity</td><td>34256-82-1</td><td>μg/l</td><td></td><td>0,4</td></tr><tr><td>AMPA</td><td>1066-51-9</td><td>μg/l</td><td></td><td>250</td></tr><tr><td>bentazon</td><td>25057-89-0</td><td>μg/l</td><td></td><td>4,5</td></tr><tr><td>bis(1,3 - dichlor-2-propyl)ether</td><td>63283-80-7</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>bis(2,3 - dichlor-1-propyl)ether</td><td>7774-68-7</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>bisfenol A</td><td>80-05-7</td><td>μg/l</td><td></td><td>0,035</td></tr><tr><td>benzo(a)antracen</td><td>56-55-3</td><td>μg/l</td><td></td><td>0,03</td></tr><tr><td>desethylatrazin</td><td>6190-65-4</td><td>μg/l</td><td></td><td>0,3</td></tr><tr><td>dibenzo(a,h)antracen</td><td>53-70-3</td><td>μg/l</td><td></td><td>0,016</td></tr><tr><td>dichlorprop</td><td>7547-66-2</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>dimethachlor</td><td>50563-36-5</td><td>μg/l</td><td></td><td>0,09</td></tr><tr><td>ethylbenzen</td><td>100-41-4</td><td>μg/l</td><td></td><td>1</td></tr><tr><td>fenanthren</td><td>85-01-8</td><td>μg/l</td><td></td><td>0,03</td></tr><tr><td>epoxiconazol</td><td>106325-08-0</td><td>μg/l</td><td></td><td>0,4</td></tr><tr><td>fenitrothion</td><td>122-14-5</td><td>μg/l</td><td></td><td>0,01</td></tr><tr><td>fenol</td><td>108-95-2</td><td>μg/l</td><td></td><td>3</td></tr><tr><td>fenthion</td><td>55-38-9</td><td>μg/l</td><td></td><td>0,01</td></tr><tr><td>fluoridy</td><td>F<sup>-</sup></td><td>mg/l</td><td></td><td>0,8</td></tr><tr><td>fluoren</td><td>86-73-7</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>galaxolid</td><td>1222-05-5</td><td>μg/l</td><td></td><td>6,8</td></tr><tr><td>glyfosát</td><td>1071-83-6</td><td>μg/l</td><td></td><td>36</td></tr><tr><td>chlorbenzen</td><td>108-90-7</td><td>μg/l</td><td></td><td>1</td></tr><tr><td>hexazinon</td><td>51235-04-2</td><td>μg/l</td><td></td><td>0,048</td></tr><tr><td>chlorotoluron</td><td>15545-48-9</td><td>μg/l</td><td></td><td>0,4</td></tr><tr><td>chrysen</td><td>218-01-9</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>isopropylbenzen</td><td>98-82-8</td><td>μg/l</td><td></td><td>0,7</td></tr><tr><td>kyanidy celkové</td><td>CN<sub>celk.</sub></td><td>mg/l</td><td>0,023<sup>B</sup><sup>)</sup></td><td>0,3</td></tr><tr><td>kyanidy snadno uvolnitelné</td><td>CN<sup>-</sup></td><td>mg/l</td><td></td><td>0,005</td></tr></tbody></table>
+
+<table><tbody><tr><th rowspan="2">Ukazatel</th><th rowspan="2">Značka, zkratka nebo číslo CAS<sup>A</sup><sup>)</sup></th><th rowspan="2">Jednotka</th><th>Přípustné znečištění pro účely § 31 zákona<sup>B</sup><sup>)</sup></th><th>Norma environmentálni kvality (NEK)<sup>D</sup><sup>)</sup></th></tr><tr><th>roční průměr<sup>C</sup><sup>)</sup></th><th>NEK-RP<sup>E</sup><sup>)</sup></th></tr><tr><td>kyselina 1,3-diaminopropantetraoctová</td><td>PDTA<br> 1939-36-2</td><td>μg/l</td><td></td><td>10</td></tr><tr><td>kyselina ethylendiamintetraoctová</td><td>EDTA<br> 60-00-04</td><td>μg/l</td><td></td><td>5</td></tr><tr><td>kyselina nitrilotrioctová</td><td>NTA<br> 139-13-9</td><td>μg/l</td><td></td><td>5</td></tr><tr><td>lindan</td><td>γ-HCH<br> 58-89-9</td><td>μg/l</td><td></td><td>0,01</td></tr><tr><td>malathion</td><td>121-75-5</td><td>μg/l</td><td></td><td>0,01</td></tr><tr><td>MCPA</td><td>94-74-6</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>MCPB</td><td>94-81-5</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>MCPP</td><td>7085-19-0</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>mecoprop-P</td><td>16484-77-8</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>metabolity alachloru<sup>1</sup><sup>)</sup></td><td>171262-17-2 (OA)<br> 142363-53-9<br> (ESA)</td><td>μg/l</td><td></td><td>0,1</td></tr><tr><td>metazachlor</td><td>67129-08-2</td><td>μg/l</td><td></td><td>0,4</td></tr><tr><td>metolachlor a jeho metabolity<sup>2</sup><sup>)</sup></td><td>51218-45-2</td><td>μg/l</td><td></td><td>0,2</td></tr><tr><td>(m + p)-xylen</td><td>108-38-3 (m-X) 106-42-3 (p-X)</td><td>μg/l</td><td></td><td>4</td></tr><tr><td>nitrobenzen</td><td>98-95-3</td><td>μg/l</td><td></td><td>3</td></tr><tr><td>o-xylen</td><td>95-47-6</td><td>μg/l</td><td></td><td>3,2</td></tr><tr><td>parathion-ethyl</td><td>56-38-2</td><td>μg/l</td><td></td><td>0,002</td></tr><tr><td>parathion-methyl</td><td>298-00-0</td><td>μg/l</td><td></td><td>0,005</td></tr><tr><td>pyren</td><td>129-00-0</td><td>μg/l</td><td></td><td>0,024</td></tr><tr><td>sulfan</td><td>H<sub>2</sub>S</td><td>mg/l</td><td></td><td>0,05</td></tr><tr><td>suma dichlorbenzenů<sup>4</sup><sup>)</sup></td><td>S-DCB</td><td>μg/l</td><td></td><td>0,25</td></tr><tr><td>suma polycyklických aromatických uhlovodíků<sup>5</sup><sup>)</sup></td><td>S-PAU</td><td>μg/l</td><td>0,1<sup>B) 6)</sup></td><td>nepoužije se</td></tr><tr><td>suma polychlorovaných bifenylů<sup>7</sup><sup>)</sup></td><td>S-PCB</td><td>μg/l</td><td></td><td>0,007</td></tr><tr><td>tenzidy aniontové</td><td>MBAS</td><td>mg/l</td><td>0,1<sup>B</sup><sup>)</sup></td><td>0,3</td></tr><tr><td>terbuthylazine a jeho metabolity<sup>8</sup><sup>)</sup></td><td>5915-41-3</td><td>μg/l</td><td></td><td>0,5</td></tr><tr><td>toluen</td><td>108-88-3</td><td>μg/l</td><td></td><td>5</td></tr><tr><td>tonalide</td><td>21145-77-7</td><td>μg/l</td><td></td><td>3,5</td></tr><tr><td>tributylstannan (tributylcín)</td><td>688-73-3</td><td>μg/l</td><td></td><td>0,0005</td></tr><tr><td>trifenylstannan (trifenylcín)</td><td>668-34-8</td><td>μg/l</td><td></td><td>0,0002</td></tr><tr><td>uhlovodíky C<sub>10</sub>-C<sub>40</sub></td><td>C<sub>10</sub>-C<sub>40</sub></td><td>mg/l</td><td>0,05<sup>B</sup><sup>)</sup></td><td>0,1</td></tr><tr><td>vinylchlorid</td><td>75-01-4</td><td>μg/l</td><td>0,05<sup>B</sup><sup>)</sup></td><td>1</td></tr><tr><td colspan="5">Prvky<sup>F</sup><sup>)</sup></td></tr><tr><td>antimon</td><td>Sb</td><td>ug/l</td><td><sup>21</sup></td><td>250</td></tr><tr><td>arsen</td><td>As</td><td>ug/l</td><td>5<sup>B</sup><sup>)</sup></td><td>11</td></tr><tr><td>baryum</td><td>Ba</td><td>ug/l</td><td></td><td>180</td></tr></tbody></table>
+
+<table><tbody><tr><th rowspan="2">Ukazatel</th><th rowspan="2">Značka, zkratka nebo číslo CAS<sup>A</sup><sup>)</sup></th><th rowspan="2">Jednotka</th><th>Přípustné znečištění pro účely § 31 zákona<sup>B</sup><sup>)</sup></th><th>Norma environmentálni kvality (NEK)<sup>D)</sup></th></tr><tr><th>roční průměr<sup>C</sup><sup>)</sup></th><th>NEK-RP<sup>E</sup><sup>)</sup></th></tr><tr><td>beryllium</td><td>Be</td><td>μg/l</td><td></td><td>0,5</td></tr><tr><td>bor</td><td>B</td><td>μg/l</td><td></td><td>300</td></tr><tr><td>cesium 137</td><td><sup>137</sup>Cs</td><td>Bq/l</td><td></td><td>0,5</td></tr><tr><td>cín</td><td>Sn</td><td>μg/l</td><td></td><td>25</td></tr><tr><td>hliník</td><td>Al</td><td>μg/l</td><td>380<sup>B</sup><sup>)</sup></td><td>1 000</td></tr><tr><td>chrom</td><td>Cr</td><td>μg/l</td><td></td><td>18</td></tr><tr><td>kobalt</td><td>Co</td><td>μg/l</td><td></td><td>3</td></tr><tr><td>mangan</td><td>Mn</td><td>mg/l</td><td>0,24<sup>B</sup><sup>)</sup></td><td>0,3</td></tr><tr><td>měď</td><td>Cu</td><td>μg/l</td><td></td><td>14</td></tr><tr><td>molybden</td><td>Mo</td><td>μg/l</td><td></td><td>18</td></tr><tr><td>radium 226</td><td><sup>226</sup>Ra</td><td>Bq/l</td><td></td><td>0,3</td></tr><tr><td>selen</td><td>Se</td><td>μg/l</td><td></td><td>2</td></tr><tr><td>stroncium 90</td><td><sup>90</sup>Sr</td><td>Bq/l</td><td></td><td>0,2</td></tr><tr><td>stříbro</td><td>Ag</td><td>μg/l</td><td></td><td>3,5</td></tr><tr><td>tritium</td><td><sup>3</sup>H</td><td>Bq/l</td><td>100<sup>G) 9)</sup></td><td>1000</td></tr><tr><td>uran</td><td>U</td><td>μg/l</td><td>6<sup>10</sup><sup>)</sup></td><td>24</td></tr><tr><td>vanad</td><td>V</td><td>μg/l</td><td></td><td>18</td></tr><tr><td>zinek</td><td>Zn</td><td>μg/l</td><td></td><td>92</td></tr><tr><td>železo</td><td>Fe</td><td>mg/l</td><td>0,52<sup>B</sup><sup>)</sup></td><td>1</td></tr></tbody></table>
+
+<sup>A)</sup> CAS: Chemical Abstracts Service.
+
+<sup>B)</sup> Pro hodnocení, zda povrchová voda vyhovuje užívání pro úpravu na vodu pitnou, se využijí rovněž ustanovení vyhlášky č. 428/2001 Sb., ve znění pozdějších předpisů.
+
+<sup>C)</sup> Tam, kde není všeobecný požadavek nebo NEK-RP vyjádřená jako celoroční průměrná hodnota, se neuplatňuje kombinovaný přístup.
+
+<sup>D)</sup> Normy environmentální kvality jsou vyjádřeny jako celkové koncentrace v celém vzorku vody, pokud není uvedeno jinak.
+
+<sup>E)</sup> NEK-RP: norma environmentální kvality vyjádřená jako celoroční průměrná hodnota. Není-li uvedeno jinak, použije se na celkovou koncentraci všech izomerů. Pro každý daný útvar povrchových vod se použitím NEK-RP rozumí, že aritmetický průměr koncentrací naměřených v různých časech průběhu roku v žádném reprezentativním monitorovacím místě ve vodním útvaru nepřekračuje dotyčnou normu.
+
+<sup>F)</sup> V případě kovů je možno zohlednit hodnoty jejich přirozeného pozadí.
+
+<sup>G)</sup> Pro hodnocení, zda povrchová voda vyhovuje užívání pro úpravu na vodu pitnou, se využijí rovněž ustanovení vyhlášky č. 422/2016 Sb..
+
+<sup>1)</sup> Metabolity alachloru zahrnují OA, ESA. NEK-RP se vztahuje jednotlivě ke každému z uvedených metabolitů.
+
+<sup>2)</sup> NEK-RP se vztahuje souhrnně pro metolachlor a jeho metabolity OA (CAS 152019-73-3) a ESA (CAS 171118-09-5); koncentrace těchto metabolitů musí být vyjádřena jako metolachlor.
+
+<sup>4)</sup> Suma dichlorbenzenů zahrnuje: 1,2-dichlorbenzen (CAS 95-50-1), 1,3-dichlorbenzen (CAS 541-73-1) a 1,4-dichlorbenzen (CAS 106-46-7).
+
+<sup>5)</sup> Suma PAU zahrnuje: benzo[b]fluoranthen, benzo[k]fluoranthen, benzo[a]pyren, benzo[ghi]perylen a indeno[1,2,3-cd]pyren.
+
+<sup>6)</sup> Limitní hodnota vyjádřena jako percentil P95.
+
+<sup>7)</sup> Suma PCB zahrnuje: PCB 28 (CAS 7012-37-5), PCB 52 (CAS 35693-99-3), PCB 101 (CAS 37680-73-2), PCB 118 (CAS 31508-00-6), PCB 138 (CAS 35065-28-2), PCB 153 (CAS 35065-27-1) a PCB 180 (CAS 35065-29-3).
+
+<sup>8)</sup> NEK-RP se vztahuje souhrnně pro terbuthylazin a jeho metabolity: terbuthylazin-2-hydroxy (CAS 66753-07-9) a terbuthylazin-desethyl (CAS 30125-63-4); koncentrace těchto metabolitů musí být vyjádřena jako terbuthylazin.
+
+<sup>9)</sup> Indikativní hodnota, při překročení se zjišťuje příčina, respektive zdroj radioaktivního znečištění.
+
+<sup>10)</sup> Limitní hodnota a je dána Pokynem hlavního hygienika ČR č.j. OVZ-32.4-19.4.2007/13199 z 16.4.2007, kde je vyjádřena jako maximum Cmax= 15μg/l.
+
+B.
+
+#### Biota
+
+#### Tabulka 2: Normy environmentální kvality pro útvary povrchových vod - pevné matrice
+
+| Č. látky<sup>A</sup><sup>)</sup> | Název látky | Značka, zkratka nebo číslo CAS<sup>B</sup><sup>)</sup> | Číslo EU<sup>C</sup><sup>)</sup> | Jednotka | NEK-RP<sup>D)<br></sup>pro biotu<sup>E)</sup> |
+|---|---|---|---|---|---|
+| 5) | bromované difenylethery<sup>1</sup><sup>)</sup> | 32534-81-9 | nepoužije se | μg/kg | 0,0085 |
+| 15) | fluoranthen | 206-44-0 | 205-912-4 | μg/kg | 30 |
+| 16) | hexachlorbenzen | HCB<br> 118-74-1 | 204-273-9 | μg/kg | 10 |
+| 17) | hexachlorbutadien | HCBUT<br> 87-68-3 | 201-765-5 | μg/kg | 55 |
+| 21) | rtuť<sup>2</sup><sup>)</sup> | 7439-97-6 | 231-106-7 | μg/kg | 20 |
+| 28) | PAU: benzo(a)pyren<sup>3</sup><sup>)</sup> | 50-32-8 | 200-028-5 | μg/kg | 5 |
+| 34) | dikofol | 115-32-2 | 204-082-0 | μg/kg | 33<sup>4</sup><sup>)</sup> |
+| 35) | perfluoroktansulfonová kyselina a její deriváty | PFOS<br> 1763-23-1 | 217-179-8 | μg/kg | 9,1<sup>4</sup><sup>)</sup> |
+| 37) | dioxiny a sloučeniny s dioxinovým efektem | nepoužije se | nepoužije se | μg/kg | součet PCDD + PCDF + PCB-DL<br> 0,0065 ug/kg<br> TEQ<sup>4),5)</sup> |
+| 43) | Hexabromcyklododekan<sup>6</sup><sup>)</sup> | HBCDD | nepoužije se | μg/kg | 167<sup>4</sup><sup>)</sup> |
+| 44) | heptachlor a heptachlorepoxid | 76-44-8/<br> 1024-57-3 | 200-962-3/ 213-831-0 | μg/kg | 6,7x10<sup>-3</sup><sup>4</sup><sup>)</sup> |
+
+<sup>A)</sup> Číslo látky podle Přílohy č. 6 k tomuto nařízení
+
+<sup>B)</sup> CAS: Chemical Abstracts Service
+
+<sup>C)</sup> Číslo EU: Evropský seznam existujících obchodovaných chemických látek (EINECS) nebo Evropský seznam oznámených chemických látek (ELINCS).
+
+<sup>D)</sup> NEK: norma environmentální kvality vyjádřená jako celoroční průměrná hodnota. Koncentrace látky pro potřeby zjištění souladu s normou environmentální kvality je vztažena na čerstvou hmotnost vzorku.
+
+<sup>E)</sup> Pokud není uvedeno jinak, NEK pro biotu se vztahují na ryby. Je možné na místo toho monitorovat alternativní biologický taxon nebo jinou matrici, pokud použitá NEK zajišťuje stejnou úroveň ochrany. V případě látek s čísly 15 (fluoranthen) a 28 (PAU) se NEK pro biotu vztahují na měkkýše nebo na plůdek ryb. Biotickým taxonem se rozumí vodní taxon odpovídající taxonomickému zařazení podkmene, třídy nebo jejich ekvivalentu.
+
+<sup>1)</sup> V případě skupiny prioritních látek spadajících pod bromované difenylethery (č. 5) se NEK vztahují k součtu koncentrací kongenerů čísel 28, 47, 99, 100, 153 a 154.
+
+<sup>2)</sup> V případě kovů je možno zohlednit hodnoty jejich přirozeného pozadí.
+
+<sup>3)</sup> Benzo(a)pyren lze považovat za referenční ukazatel pro ostatní PAU, proto je třeba monitorovat a porovnávat s NEK pro biotu nebo odpovídající NEK-RP ve vodě pouze benzo(a)pyren.
+
+<sup>4)</sup> NEK s účinností od 22. prosince 2018.
+
+<sup>5)</sup> PCDD: polychlorované dibenzo-p-dioxiny; PCDF: polychlorované dibenzofurany; PCB-DL: polychlorované bifenyly s dioxinovým efektem; TEQ: toxické ekvivalenty podle faktorů ekvivalentní toxicity Světové zdravotnické organizace z roku 2005.
+
+<sup>6)</sup> Vztahuje se na 1,3,5,7,9,11-hexabromcyklododekan (číslo CAS 25637-99-4), 1,2,5,6,9,10-hexabromcyklododekan (číslo CAS 3194- 55-6), α-hexabromcyklododekan (číslo CAS 13437-50-6), β-hexabromcyklododekan (číslo CAS 134237-51-7) a γ-hexabromcyklododekan (číslo CAS 134237-52-8).
+
+#### Tabulka 3: Prahová množství vypouštěných uvedených zvlášť nebezpečných závadných látek obsažených v průmyslových odpadních vodách, při jejichž nedosažení není nutné vyžadovat denní 24 hodinové sledování
+
+| Látka | Roční množství (kg) |
+|---|---|
+| Rtuť | 7,5 |
+| Kadmium | 10 |
+| Hexachlorcyklohexan<sup>1</sup><sup>)</sup> (suma) | 3 |
+| Tetrachlormethan | 30 |
+| DDT<sup>1</sup><sup>)</sup> (suma) | 1 |
+| Driny (suma) (aldrin, dieldrin, eldrin, isodrin)<sup>1</sup><sup>)</sup> | 1 |
+| Pentachlorfenol | 3 |
+| Hexachlorbenzen | 1 |
+| Hexachlorbutadien | 1 |
+| Trichlormethan | 30 |
+| 1,2-dichlorethan | 30 |
+| Tetrachlorethen | 30 |
+| Trichlorethen | 30 |
+| Trichlorbenzen (suma) | 3 |
+
+<sup>1)</sup> Hodnoty se vztahují zejména na sledování průsakových vod z odkališť, ze skládek odpadů či kontaminovaných zemin a jiných ekologických zátěží.
+
+Zvlášť nebezpečné závadné látky musí být sledovány denními 24 hodinovými směsnými vzorky vody při současném měření denního množství odpadních vod. Jednodušší postup sledování je možno zvolit při vypouštěném množství menším než je uvedeno v tabulce 3 této přílohy.
+
+### Příloha č. 4 k nařízení vlády č. 401/2015 Sb.
+
+#### Minimální roční četnosti odběrů vzorků vypouštěných městských odpadních vod pro sledování jejich znečištění
+
+| Velikost zdroje znečištění (EO)<sup>1</sup><sup>)</sup> | Typ vzorku<sup>2</sup><sup>)</sup> | četnost |
+|---|---|---|
+| &lt; 500<sup>4</sup><sup>)</sup> | A<sup>3</sup><sup>)</sup> | 4 |
+| 500 - 2 000 | A<sup>3</sup><sup>)</sup> | 12 |
+| 2 001 - 10 000 | B<sup>3</sup><sup>)</sup> | 12 |
+| 10 001 - 100 000 | C | 26 |
+| &gt; 100 000 | C | 52 |
+
+<sup>1)</sup> Je-li zdrojem znečištění čistírna odpadních vod, je velikost zdroje znečištění určena postupem uvedeným v poznámce 1) k Tabulce 1a přílohy č. 1 k tomuto nařízení.
+
+<sup>2)</sup> Typ vzorku stanoví vodoprávní úřad takto: 
+ typ A - dvouhodinový směsný vzorek získaný sléváním 8 dílčích vzorků stejného objemu v intervalu 15 minut, 
+ typ B - 24 hodinový směsný vzorek, získaný sléváním 12 objemově stejných dílčích vzorků odebíraných v intervalu 2 hodin, 
+ typ C - 24 hodinový směsný vzorek získaný sléváním 12 dílčích vzorků odebíraných v intervalu 2 hodin o objemu úměrném aktuální hodnotě průtoku v době odběru dílčího vzorku, 
+ Typ vzorku prostý, jednorázově odebraný - pro kategorie ČOV do 500 EO.
+
+<sup>3)</sup> Pro čistírny odpadních vod s diskontinuálním vypouštěním odpadních vod stanoví vodoprávní úřad způsob odběru vzorku individuálně.
+
+<sup>4)</sup> V kategorii zdrojů znečištění do 50 EO, kde vodní dílo nebylo ohlášeno dle § 15a, může vodoprávní úřad stanovit menší četnost odběrů, než je uvedeno pro kategorii do 500 EO. Pokud je ČOV vybavena akumulačním prostorem pro vyčištěnou odpadní vodu, umožňující hydraulickou dobu zdržení alespoň 2 hodiny, je možné použití typu vzorku „prostý, jednorázově odebraný“
+
+Odběry vzorků musí být rovnoměrně rozloženy v průběhu roku. Odběry by neměly být prováděny za neobvyklých situací, při přívalových deštích a povodních.
+
+### Příloha č. 5 k nařízení vlády č. 401/2015 Sb.
+
+#### Přípustný počet vzorků nesplňujících v jednotlivých ukazatelích znečištění statisticky formulované limity („p“) ve vypouštěných odpadních vodách v období kalendářního roku
+
+| Celkový počet vzorků | Přípustný počet nevyhovujících vzorků |
+|---|---|
+| 4 - 7 | 1 |
+| 8 - 16 | 2 |
+| 17 - 28 | 3 |
+| 29 - 40 | 4 |
+| 41 - 53 | 5 |
+| 54 - 67 | 6 |
+| 68 - 81 | 7 |
+| 82 - 95 | 8 |
+| 96 - 110 | 9 |
+| 111 - 125 | 10 |
+| 126 - 140 | 11 |
+| 141 - 155 | 12 |
+| 156 - 171 | 13 |
+| 172 - 187 | 14 |
+| 188 - 203 | 15 |
+| 204 - 219 | 16 |
+| 220 - 235 | 17 |
+| 236 - 251 | 18 |
+| 252 - 268 | 19 |
+| 269 - 284 | 20 |
+| 285 - 300 | 21 |
+| 301 - 317 | 22 |
+| 318 - 334 | 23 |
+| 335 - 351 | 24 |
+| 352 - 366 | 25 |
+
+### Příloha č. 6 k nařízení vlády č. 401/2015 Sb.
+
+#### Seznam prioritních látek a prioritních nebezpečných látek v oblasti vodní politiky
+
+| Číslo látky | Číslo CAS<sup>A</sup><sup>)</sup> | Číslo EU<sup>B</sup><sup>)</sup> | Název prioritní látky<sup>C</sup><sup>)</sup> | Identifikována jako prioritní nebezpečná látka |
+|---|---|---|---|---|
+| 1 | 15972-60-8 | 240-110-8 | alachlor | |
+| 2 | 120-12-7 | 204-371-1 | anthracen | X |
+| 3 | 1912-24-9 | 217-617-8 | atrazin | |
+| 4 | 71-43-2 | 200-753-7 | benzen | |
+| 5 | nepoužije se | nepoužije se | bromované difenylethery | X<sup>1</sup><sup>)</sup> |
+| 6 | 7440-43-9 | 231-152-8 | kadmium a jeho sloučeniny | X |
+| 7 | 85535-84-8 | 287-476-5 | chloralkany, C<sub>10</sub>-<sub>13</sub> | X |
+| 8 | 470-90-6 | 207-432-0 | chlorfenvinfos | |
+| 9 | 2921-88-2 | 220-864-4 | chlorpyrifos (chlorpyrifos-ethyl) | |
+| 10 | 107-06-2 | 203-458-1 | 1,2-dichlorethan | |
+| 11 | 75-09-2 | 200-838-9 | dichlormethan | |
+| 12 | 117-81-7 | 204-211-0 | bis(2-ethylhexyl)ftalát (DEHP) | X |
+| 13 | 330-54-1 | 206-354-4 | diuron | |
+| 14 | 115-29-7 | 204-079-4 | endosulfan | X |
+| 15 | 206-44-0 | 205-912-4 | fluoranthen | |
+| 16 | 118-74-1 | 204-273-9 | hexachlorbenzen | X |
+| 17 | 87-68-3 | 201-765-5 | hexachlorbutadien | X |
+| 18 | 608-73-1 | 210-158-9 | hexachlorcyklohexan | X |
+| 19 | 34123-59-6 | 251-835-4 | isoproturon | |
+| 20 | 7439-92-1 | 231-100-4 | olovo a jeho sloučeniny | |
+| 21 | 7439-97-6 | 231-106-7 | rtuť a její sloučeniny | X |
+| 22 | 91-20-3 | 202-049-5 | naftalen | |
+| 23 | 7440-02-0 | 231-111-4 | nikl a jeho sloučeniny | |
+| 24 | nepoužije se | nepoužije se | nonylfenoly | X<sup>2</sup><sup>)</sup> |
+| 25 | nepoužije se | nepoužije se | oktylfenoly<sup>3</sup><sup>)</sup> | |
+| 26 | 608-93-5 | 210-172-5 | pentachlorbenzen | X |
+| 27 | 87-86-5 | 201-778-6 | pentachlorfenol | |
+| 28 | nepoužije se | nepoužije se | polycyklické aromatické uhlovodíky (PAU)<sup>4</sup><sup>)</sup> | X |
+| 29 | 122-34-9 | 204-535-2 | simazin | |
+| 30 | nepoužije se | nepoužije se | tributylcín a jeho sloučeniny | <sub>X</sub>5) |
+| 31 | 12002-48-1 | 234-413-4 | trichlorbenzeny | |
+| 32 | 67-66-3 | 200-663-8 | trichlormethan (chloroform) | |
+| 33 | 1582-09-8 | 216-428-8 | trifluralin | X |
+| 34 | 115-32-2 | 204-082-0 | dikofol | X |
+| 35 | 1763-23-1 | 217-179-8 | perfluoroktansulfonová kyselina a její deriváty (PFOS) | X |
+| 36 | 124495-18-7 | nepoužije se | chinoxyfen | X |
+| 37 | nepoužije se | nepoužije se | dioxiny a sloučeniny s dioxinovým efektem | <sub>X</sub>6) |
+| 38 | 74070-46-5 | 277-704-1 | aclonifen | |
+| 39 | 42576-02-3 | 255-894-7 | bifenox | |
+| 40 | 28159-98-0 | 248-872-3 | cybutryn | |
+| 41 | 52315-07-8 | 257-842-9 | cypermethrin<sup>7</sup><sup>)</sup> | |
+| 42 | 62-73-7 | 200-547-7 | dichlorvos | |
+| 43 | nepoužije se | nepoužije se | hexabromcyklododekany (HBCDD) | <sub>X</sub>8) |
+| 44 | 76-44-8/<br> 1024-57-3 | 200-962-3/<br> 213-831-0 | heptachlor a heptachlorepoxid | X |
+| 45 | 886-50-0 | 212-950-5 | terbutryn | |
+
+<sup>A)</sup> CAS: Chemical Abstracts Service.
+
+<sup>B)</sup> Číslo EU: Evropský seznam existujících obchodovaných chemických látek (EINECS) nebo Evropský seznam oznámených chemických látek (ELINCS).
+
+<sup>C)</sup> V případech, kdy byly vybrány skupiny látek, jsou, pokud to není výslovně zmíněno, uvedeni jednotliví typičtí zástupci v rámci stanovení norem environmentální kvality.
+
+<sup>1)</sup> Pouze tetra-, penta-, hexa- a heptabromdifenylether (čísla CAS 40088-47-9, 32534-81-9, 36483-60-0, 68928-80-3).
+
+<sup>2)</sup> Nonylfenol (čísla CAS 25154-52-3, EU 246-672-0), včetně izomerů 4-nonylfenolu (čísla CAS 104-40-5, 203-199-4 EU) a rozvětveného 4-nonylfenolu (čísla CAS 84852-15-3, EU 284-325-5).
+
+<sup>3)</sup> Oktylfenol (čísla CAS 1806-26-4, EU 217-302-5), včetně izomeru 4-(1,1',3,3'-tetramethylbutyl)fenolu (čísla CAS 140-66-9, EU 205- 426-2).
+
+<sup>4)</sup> Včetně benzo(a)pyrenu (čísla CAS 50-32-8, EU 200-028-5), benzo(b)fluoranthenu (čísla CAS 205-99-2, EU 205-911-9), benzo(g,h,i)perylenu (čísla CAS 191-24-2, EU 205-883-8), benzo(k)fluoranthenu (čísla CAS 207-08-9, EU 205-916-6), indeno(1,2,3-cd)pyrenu (čísla CAS 193-39-5, EU 205-893-2) a bez anthracenu, fluoranthenu a naftalenu, které jsou uvedeny samostatně.
+
+<sup>5)</sup> Včetně kationtu tributylcínu (číslo CAS 36643-28-4).
+
+<sup>6)</sup> Vztahuje se na tyto sloučeniny: 7 polychlorovaných dibenzo-p-dioxinů (PCDD): 2,3,7,8-T4CDD (číslo CAS 1746-01-6), 1,2,3,7,8-P5CDD (číslo CAS 40321-76-4), 1,2,3,4,7,8-H6CDD (číslo CAS 39227-28-6), 1,2,3,6,7,8-H6CDD (číslo CAS 57653-85-7), 1,2,3,7,8,9-H6CDD (číslo CAS 19408-74- 3), 1,2,3,4,6,7,8-H7CDD (číslo CAS 35822-46-9), 1,2,3,4,6,7,8,9-O8CDD (číslo CAS 3268-87-9) 10 polychlorovaných dibenzofuranů (PCDF): 2,3,7,8-T4CDF (číslo CAS 51207-31-9), 1,2,3,7,8-P5CDF (číslo CAS 57117-41-6), 2,3,4,7,8-P5CDF (číslo CAS 57117-31-4), 1,2,3,4,7,8-H6CDF (číslo CAS 70648-26-9), 1,2,3,6,7,8-H6CDF (číslo CAS 57117-44- 9), 1,2,3,7,8,9-H6CDF (číslo CAS 72918-21-9), 2,3,4,6,7,8-H6CDF (číslo CAS 60851-34-5), 1,2,3,4,6,7,8-H7CDF (číslo CAS 67562- 39-4), 1,2,3,4,7,8,9-H7CDF (číslo CAS 55673-89-7), 1,2,3,4,6,7,8,9-O8CDF (číslo CAS 39001-02-0) 12 polychlorovaných bifenylů s dioxinovým efektem (PCB-DL): 3,3',4,4'-T4CB (PCB 77, číslo CAS 32598-13-3), 3,3',4',5-T4CB (PCB 81, číslo CAS 70362-50-4), 2,3,3',4,4'-P5CB (PCB 105, číslo CAS 32598-14-4), 2,3,4,4',5-P5CB (PCB 114, číslo CAS 74472-37-0), 2,3',4,4',5-P5CB (PCB 118, číslo CAS 31508-00-6), 2,3',4,4',5'-P5CB (PCB 123, číslo CAS 65510-44-3), 3,3',4,4',5-P5CB (PCB 126, číslo CAS 57465-28-8), 2,3,3',4,4',5-H6CB (PCB 156, číslo CAS 38380-08-4), 2,3,3',4,4',5'-H6CB (PCB 157, číslo CAS 69782-90-7), 2,3',4,4',5,5'-H6CB (PCB 167, číslo CAS 52663-72-6), 3,3',4,4',5,5'-H6CB (PCB 169, číslo CAS 32774-16-6), 2,3,3',4,4',5,5'-H7CB (PCB 189, číslo CAS 39635-31-9).
+
+<sup>7)</sup> Číslo CAS 52315-07-8 se vztahuje ke směsi izomerů cypermethrinu, alfa-cypermethrinu (číslo CAS 67375-30-8), beta-cypermethrinu (číslo CAS 65731-84-2), theta-cypermethrinu (číslo CAS 71697-59-1) a zeta-cypermethrinu (52315-07-8).
+
+<sup>8)</sup> Vztahuje se na 1,3,5,7,9,11-hexabromcyklododekan (číslo CAS 25637-99-4), 1,2,5,6,9,10-hexabromcyklododekan (číslo CAS 3194- 55-6), α-hexabromcyklododekan (číslo CAS 134237-50-6), β-hexabromcyklododekan (číslo CAS 134237-51-7) a γ-hexabromcyklododekan (číslo CAS 134237-52-8)
+
+### Příloha č. 7 k nařízení vlády č. 401/2015 Sb.
+
+#### Nejlepší dostupné technologie v oblasti zneškodňování odpadních vod a podmínky jejich použití
+
+Dosažitelné hodnoty koncentrací a účinností pro jednotlivé ukazatele znečištění při použití nejlepší dostupné technologie v oblasti zneškodňování městských odpadních vod (pro uvedené hodnoty analogicky platí poznámky k tabulkám 1a a 1b přílohy č. 1 k tomuto nařízení vlády)
+
+<table><tbody><tr><th rowspan="3">Kategorie ČOV [EO]</th><th rowspan="3">Nejlepší dostupná technologie</th><th colspan="3">CHSK<sub>Cr</sub></th><th colspan="3">BSK<sub>5</sub></th><th colspan="2">NL</th><th colspan="3">N-NH<sub>4</sub><sup>+</sup></th><th colspan="3">N<sub>celk</sub></th><th colspan="3">P<sub>celk</sub></th></tr><tr><th colspan="2">koncentrace</th><th rowspan="2">účinnost<br> [%]</th><th colspan="2">koncentrace</th><th rowspan="2">účinnost<br> [%]</th><th colspan="2">koncentrace</th><th colspan="2">koncentrace</th><th rowspan="2">účinnost<br> [%]</th><th colspan="2">koncentrace</th><th rowspan="2">účinnost<br> [%]</th><th colspan="2">koncentrace</th><th></th></tr><tr><th>p<br> mg/l</th><th>m<br> mg/l</th><th>p<br> mg/l</th><th>m<br> mg/l</th><th>p<br> mg/l</th><th>m<br> mg/l</th><th>prům<br> mg/l</th><th>m<br> mg/l</th><th>prům<br> mg/l</th><th>m<br> mg/l</th><th>prům<br> mg/l</th><th>m<br> mg/l</th><th>účinnost<br> [%]</th></tr><tr><td>&lt; 500</td><td>Nízko až středně zatěžovaná aktivace nebo biofilmové reaktory</td><td>110</td><td>170</td><td>75</td><td>30</td><td>50</td><td>85</td><td>40</td><td>60</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>500 - 2 000</td><td>Nízko zatěžovaná aktivace se stabilní nitrifikací</td><td>75</td><td>140</td><td>75</td><td>22</td><td>30</td><td>85</td><td>25</td><td>30</td><td>12</td><td>20</td><td>75</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2 001 - 10 000</td><td>Nízko zatěžovaná aktivace se stabilní nitrifikací a se simultánním srážením fosforu + mikrosíta či jiná filtrace</td><td>70</td><td>120</td><td>80</td><td>18</td><td>25</td><td>90</td><td>20</td><td>30</td><td>8</td><td>15</td><td>80</td><td>-</td><td>-</td><td>-</td><td>2</td><td>5</td><td>75</td></tr><tr><td>10 001 - 100 000</td><td>Nízko zatěžovaná aktivace s odstraňováním nutrientů +terciární stupeň včetně srážení fosforu eventuelně dávkování externího substrátu</td><td>60</td><td>100</td><td>80</td><td>14</td><td>20</td><td>90</td><td>18</td><td>25</td><td>-</td><td>-</td><td>-</td><td>14</td><td>25</td><td>70</td><td>1,5</td><td>3</td><td>80</td></tr><tr><td>&gt; 100 000</td><td>Nízko zatěžovaná aktivace s odstraňováním nutrientů + terciární stupeň včetně srážení fosforu, dávkování externího substrátu</td><td>55</td><td>90</td><td>85</td><td>10</td><td>15</td><td>95</td><td>14</td><td>20</td><td>-</td><td>-</td><td>-</td><td>10</td><td>16</td><td>75</td><td>0,7</td><td>2</td><td>85</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Směrnice Rady 91/271/EHS ze dne 21. května 1991 o čištění městských odpadních vod. 
+ Směrnice Komise 98/15/ES ze dne 27. února 1998, kterou se mění směrnice Rady 91/271/EHS s ohledem na určité požadavky stanovené v příloze I uvedené směrnice. 
+ Směrnice Rady 98/83/ES ze dne 3. listopadu 1998 o jakosti vody určené k lidské spotřebě. 
+ Směrnice Evropského parlamentu a Rady 2000/60/ES ze dne 23. října 2000 stanovující rámec pro činnost Společenství v oblasti vodní politiky. 
+ Směrnice Evropského parlamentu a Rady 2006/7/ES ze dne 15. února 2006 o řízení jakosti vod ke koupání a o zrušení směrnice 76/160/EHS. 
+ Směrnice Evropského parlamentu a Rady 2006/11/ES ze dne 15. února 2006 o znečišťování některými nebezpečnými látkami vypouštěnými do vodního prostředí. 
+ Směrnice Evropského parlamentu a Rady 2008/105/ES ze dne 16. prosince 2008 o normách environmentální kvality v oblasti vodní politiky, změně a následném zrušení směrnic Rady 82/176/EHS, 83/513/EHS, 84/156/EHS, 84/491/EHS a 86/280/EHS a změně směrnice Evropského parlamentu a Rady 2000/60/ES. 
+ Směrnice Evropského parlamentu a Rady 2013/39/EU ze dne 12. srpna 2013, kterou se mění směrnice 2000/60/ES a 2008/105/ES, pokud jde o prioritní látky v oblasti vodní politiky.
+
+<sup>2</sup>) Směrnice Rady 91/271/EHS ze dne 21. května 1991 o čištění městských odpadních vod.
+
+<sup>3</sup>) § 2 písm. e) zákona č. 76/2002 Sb., o integrované prevenci a omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů (zákon o integrované prevenci), ve znění zákona č. 222/2009 Sb. a zákona č. 25/2008 Sb.
+
+<sup>4</sup>) § 38 odst. 3 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 150/2010 Sb.
+
+<sup>5</sup>) § 68 a 69 zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů.
+
+<sup>6</sup>) Sdělení Českého statistického úřadu č. 244/2007 Sb., o zavedení Klasifikace ekonomických činností (CZ-NACE).
+
+<sup>7</sup>) § 8 odst. 2 zákona č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření a o změně a doplnění některých zákonů (atomový zákon), ve znění pozdějších předpisů.
+
+<sup>8</sup>) Vyhláška č. 431/2001 Sb., o obsahu vodní bilance, způsobu jejího sestavení a o údajích pro vodní bilanci, ve znění pozdějších předpisů.
+
+<sup>9</sup>) Vyhláška č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění pozdějších předpisů. 
+ Vyhláška č. 238/2011 Sb., o stanovení hygienických požadavků na koupaliště, sauny a hygienické limity písku v pískovištích venkovních hracích ploch, ve znění pozdějších předpisů. 
+ Nařízení vlády č. 71/2003 Sb., o stanovení povrchových vod vhodných pro život a reprodukci původních druhů ryb a dalších vodních živočichů a o zjišťování a hodnocení stavu jakosti těchto vod, ve znění pozdějších předpisů.
+
+<sup>10</sup>) Zákon č. 76/2002 Sb., o integrované prevenci a omezování znečištění, o integrovaném registru znečišťování a o změně některých zákonů (zákon o integrované prevenci), ve znění pozdějších přepisů.
+
+<sup>11</sup>) Například prováděcí rozhodnutí Komise 2013/84/EU ze dne 11. února 2013, kterým se stanoví závěry o nejlepších dostupných technikách (BAT) podle směrnice Evropského parlamentu a Rady 2010/75/EU o průmyslových emisích pro vydělávání kůží a kožešin. 
+ Prováděcí rozhodnutí Komise 2013/163/EU ze dne 26. března 2013, kterým se stanoví závěry o nejlepších dostupných technikách (BAT) podle směrnice Evropského parlamentu a Rady 2010/75/EU o průmyslových emisích pro výrobu cementu, vápna a oxidu hořečnatého. 
+ Prováděcí rozhodnutí Komise 2012/135/EU ze dne 28. února 2012, kterým se stanoví závěry o nejlepších dostupných technikách (BAT) podle směrnice Evropského parlamentu a Rady 2010/75/EU o průmyslových emisích pro výrobu železa a oceli. 
+ Prováděcí rozhodnutí Komise 2013/732/EU ze dne 9. prosince 2013, kterým se stanoví závěry o nejlepších dostupných technikách (BAT) podle směrnice Evropského parlamentu a Rady 2010/75/EU o průmyslových emisích pro výrobu chlóru a alkalických hydroxidů.
+
+<sup>12</sup>) § 21 zákona č. 505/1990 Sb., o metrologii, ve znění zákona č. 119/2000 Sb.
+
+<sup>13</sup>) § 29 až 31 vyhlášky č. 428/2001 Sb., kterou se provádí zákon č. 274/2001 Sb., o vodovodech a kanalizacích pro veřejnou potřebu a o změně některých zákonů (zákon o vodovodech a kanalizacích), ve znění vyhlášky č. 48/2014 Sb.
+
+<sup>14</sup>) § 2 vyhlášky č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů.

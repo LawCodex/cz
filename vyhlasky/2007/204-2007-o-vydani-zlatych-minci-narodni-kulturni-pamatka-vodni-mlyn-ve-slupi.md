@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 204/2007 Sb., o vydání zlatých mincí „Národní kulturní památka vodní mlýn ve Slupi“ po 2 500 Kč"
+identifier: "204/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/204/2007-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2007-06-29
+effective: 2007-10-01
+last_amended: 2007-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/204"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 204/2007 Sb., o vydání zlatých mincí „Národní kulturní památka vodní mlýn ve Slupi“ po 2 500 Kč
+
+204
+
+VYHLÁŠKA
+
+ze dne 29. června 2007
+
+o vydání zlatých mincí „Národní kulturní památka vodní mlýn ve Slupi“ po 2 500 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 3. října 2007 se v rámci cyklu „Kulturní památky technického dědictví“ vydávají zlaté mince „Národní kulturní památka vodní mlýn ve Slupi“ po 2 500 Kč (dále jen „mince“). Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince v běžném i ve zvláštním provedení se razí ze zlata o ryzosti 999.9. Hmotnost mince je 7,78 g, její průměr 22 mm a síla 1,55 mm. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká. Při ražbě mince v běžném provedení i ve zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %.
+
+## § 2
+
+(1) Na lícní straně mince je průčelí vodního mlýnu ve Slupi. Nad průčelím vodního mlýnu jsou stylizovaná heraldická zvířata z velkého státního znaku. Uprostřed je český lev, napravo je slezská orlice a nalevo je moravská orlice. Pod průčelím vodního mlýnu je ve dvou řádcích název státu „ČESKÁ REPUBLIKA“ a označení nominální hodnoty se zkratkou peněžní jednotky „2500 Kč“. Při levém, spodním a pravém okraji mince je v neuzavřeném opisu název cyklu „KULTURNÍ PAMÁTKY TECHNICKÉHO DĚDICTVÍ“. Značka mincovny, která minci razila, je umístěna při spodním okraji mince mezi označením nominální hodnoty a druhým slovem názvu cyklu.
+
+(2) Na rubové straně mince je soustava čtyř mlýnských kol ze zadní části vodního mlýnu ve Slupi. Nad ní je dobový znak vodního mlýnu ve Slupi. Při levém, horním a pravém okraji mince je neuzavřený opis „VODNÍ MLÝN VE SLUPI“ a letopočet „2007“, který je od opisu oddělen tečkami. Autorem výtvarného návrhu mince je akademický sochař Zbyněk Fojtů, jehož iniciály, spojená písmena „FZ“, jsou umístěny pod dobovým znakem vodního mlýnu ve Slupi.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. října 2007.
+
+Guvernér:
+
+v z. RNDr. Niedermayer v. r.
+
+viceguvernér
+
+### Příloha k vyhlášce č. 204/2007 Sb.
+
+#### Vyobrazení zlaté mince „Národní kulturní památka vodní mlýn ve Slupi“
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2007c065z0204o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873845/NAHLED/ZOBRAZ/sbcr2007c065z0204o001)
+
+#### ![sbcr2007c065z0204o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873847/NAHLED/ZOBRAZ/sbcr2007c065z0204o002)

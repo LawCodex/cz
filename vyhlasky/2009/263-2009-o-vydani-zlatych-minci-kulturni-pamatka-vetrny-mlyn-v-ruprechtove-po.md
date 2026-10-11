@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 263/2009 Sb., o vydání zlatých mincí „Kulturní památka větrný mlýn v Ruprechtově“ po 2 500 Kč"
+identifier: "263/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/263/2009-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-07-31
+effective: 2009-10-01
+last_amended: 2009-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/263"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 263/2009 Sb., o vydání zlatých mincí „Kulturní památka větrný mlýn v Ruprechtově“ po 2 500 Kč
+
+263
+
+VYHLÁŠKA
+
+ze dne 31. července 2009
+
+o vydání zlatých mincí „Kulturní památka větrný mlýn v Ruprechtově“ po 2 500 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 7. října 2009 se v rámci cyklu „Kulturní památky technického dědictví“ vydávají zlaté mince „Kulturní památka větrný mlýn v Ruprechtově“ po 2 500 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince v běžném i ve zvláštním provedení se razí ze zlata o ryzosti 999.9. Hmotnost mince je 7,78 g, její průměr 22 mm a síla 1,7 mm. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká. Při ražbě mince v běžném provedení i ve zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %.
+
+## § 2
+
+(1) Na lícní straně mince je kompozice stylizovaných heraldických zvířat z velkého státního znaku. Nahoře je český lev, pod ním je moravská orlice a slezská orlice. Pod kompozicí heraldických zvířat je dvouřádkový název státu „ČESKÁ REPUBLIKA“ a označení nominální hodnoty mince se zkratkou peněžní jednotky „2500 Kč“. Po celém obvodu mince je v opisu název cyklu „KULTURNÍ PAMÁTKY TECHNICKÉHO DĚDICTVÍ“. Jednotlivá slova opisu jsou mezi sebou oddělena tečkami. Značka mincovny, která minci razila, je umístěna při spodním okraji mince.
+
+(2) Na rubové straně mince je ve středu mincovního pole větrný mlýn v Ruprechtově. Při spodním okraji zobrazení větrného mlýnu je dvouřádkový nápis „VĚTRNÝ MLÝN V RUPRECHTOVĚ“ a ročník ražby „2009“. Pod ročníkem ražby je umístěna iniciála autora výtvarného návrhu mince, akademického sochaře Jiřího Harcuby, která je tvořena písmenem „H“.
+
+(3) Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. října 2009.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### Příloha k vyhlášce č. 263/2009 Sb.
+
+#### Vyobrazení zlaté mince „Kulturní památka větrný mlýn v Ruprechtově“
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2009c078z0263p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868953/NAHLED/ZOBRAZ/sbcr2009c078z0263p001o001)
+
+#### ![sbcr2009c078z0263p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868955/NAHLED/ZOBRAZ/sbcr2009c078z0263p001o002)

@@ -1,0 +1,71 @@
+---
+title: "Vyhláška č. 294/2006 Sb., o odchylném postupu pro usmrcování špačka obecného"
+identifier: "294/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/294/2006-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-06-02
+effective: 2006-07-01
+last_amended: 2006-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/294"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 294/2006 Sb., o odchylném postupu pro usmrcování špačka obecného
+
+294
+
+VYHLÁŠKA
+
+ze dne 2. června 2006
+
+o odchylném postupu pro usmrcování špačka obecného
+
+Ministerstvo životního prostředí stanoví podle § 5b odst. 4 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb., (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví odchylný postup pro usmrcování<sup>1</sup>) jedinců špačka obecného (Sturnus vulgaris) (dále jen „špaček obecný“), a to z důvodu prevence závažných škod na úrodě révy vinné na vinicích. Účelem usmrcování podle této vyhlášky není snižování početních stavů špačka obecného lovem<sup>2</sup>), ale zvýšení účinnosti střelby jako metody plašení jedinců špačka obecného.
+
+## § 2 – Prostředky, způsob a metody odchylného postupu
+
+Odchylný postup spočívá v možnosti úmyslně usmrtit špačka obecného, a to pouze loveckou zbraní brokovou, popř. kombinovanou, při využití maximálně dvou hromadných střel s broky do velikosti 2,5 mm včetně. Střílet lze pouze do okraje hejna čítajícího odhadem minimálně 1000 špačků obecných v dohledu osoby uplatňující odchylný postup. Odchylný postup lze uplatňovat opakovaně v případě návratu hejna do dohledu střelce.
+
+## § 3 – Časové a místní okolnosti
+
+(1) Odchylný postup lze uplatňovat od 15. srpna do 31. října kalendářního roku, pouze ve vymezeném denním období začínajícím po východu slunce a končícím hodinu před západem slunce.
+
+(2) Odchylný postup lze uplatňovat na druhu pozemku vinice<sup>3</sup>) (dále jen „vinice“) a v pásmu o šířce 50 metrů kolem vinice, a to na území vinařské oblasti Morava<sup>4</sup>) s výjimkou pozemků nacházejících se na území Národního parku Podyjí.
+
+## § 4 – Další podmínky uplatnění odchylného postupu
+
+(1) Odchylný postup lze uplatňovat, jestliže se na vinicích ve správním obvodu místně příslušného orgánu ochrany přírody vyskytuje v období podle § 3 odst. 1 nejméně jedno hejno špačka obecného čítající odhadem minimálně 1000 jedinců a jestliže tato skutečnost byla místně příslušným orgánem ochrany přírody vyhlášena.
+
+(2) Odchylný postup mohou uplatňovat fyzické osoby, které jsou oprávněny lovit zvěř za podmínek stanovených zvláštním právním předpisem<sup>5</sup>), a které se předem písemně ohlásí osobně nebo prostřednictvím uživatele honitby místně příslušnému orgánu ochrany přírody (dále jen „lovec“).
+
+(3) Odchylný postup nelze uplatňovat v případě, kdy je hejno již střelbou vyplašeno a odlétá z vinice.
+
+(4) Podmínkou uplatnění odchylného postupu je následné dohledání usmrcených špačků obecných, sejmutí ornitologických kroužků, pokud jsou jimi usmrcení jedinci označeni a jejich odevzdání místně příslušnému orgánu ochrany přírody s informací o datu a lokalitě zástřelu.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2006.
+
+Ministr:
+
+RNDr. Ambrozek v. r.
+
+---
+
+<sup>1</sup>) § 5a odst. 1 písm. a) a § 5b odst. 4 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 218/2004 Sb.
+
+<sup>2</sup>) § 54 odst. 3 zákona č. 449/2001 Sb., o myslivosti.
+
+<sup>3</sup>) Zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů. 
+ Vyhláška č. 190/1996 Sb., kterou se provádí zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění zákona č. 210/1993 Sb. a zákona č. 90/1996 Sb., a zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb., ve znění pozdějších předpisů.
+
+<sup>4</sup>) Vyhláška č. 324/2004 Sb., kterou se stanoví seznam vinařských podoblastí, vinařských obcí a viničních tratí, včetně jejich územního vymezení.
+
+<sup>5</sup>) § 46 až 48 zákona č. 449/2001 Sb.

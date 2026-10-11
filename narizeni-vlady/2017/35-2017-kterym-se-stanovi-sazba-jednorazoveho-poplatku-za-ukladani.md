@@ -1,0 +1,75 @@
+---
+title: "Nařízení vlády č. 35/2017 Sb., kterým se stanoví sazba jednorázového poplatku za ukládání radioaktivních odpadů a výše příspěvků z jaderného účtu obcím a pravidla jejich poskytování"
+identifier: "35/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/35/2026-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2017-01-25
+effective: 2017-02-14
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/35"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 35/2017 Sb., kterým se stanoví sazba jednorázového poplatku za ukládání radioaktivních odpadů a výše příspěvků z jaderného účtu obcím a pravidla jejich poskytování ve znění nařízení vlády č. 342/2024 Sb. a nařízení vlády č. 98/2025 Sb."
+---
+
+# Nařízení vlády č. 35/2017 Sb., kterým se stanoví sazba jednorázového poplatku za ukládání radioaktivních odpadů a výše příspěvků z jaderného účtu obcím a pravidla jejich poskytování
+
+35
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. ledna 2017,
+
+kterým se stanoví sazby poplatků za ukládání radioaktivních odpadů a výše příspěvků z jaderného účtu obcím a pravidla jejich poskytování
+
+Vláda nařizuje podle § 117 odst. 4 a § 131 odst. 2 zákona č. 263/2016 Sb., atomový zákon:
+
+## § 1 – Sazba jednorázového poplatku
+
+(1) Sazba jednorázového poplatku činí
+
+a) 145 000 Kč pro radioaktivní odpad ve formě standardní ukládací jednotky splňující limity a podmínky pro nakládání s radioaktivním odpadem schválené Státním úřadem pro jadernou bezpečnost, nebo
+
+b) 174 000 Kč pro radioaktivní odpad jiný než uvedený v písmenu a).
+
+(2) Sazba jednorázového poplatku podle odstavce 1 se počínaje dnem 1. ledna 2018 zvyšuje každý kalendářní rok o 2 % oproti roku bezprostředně předcházejícímu, nejvýše však do 250 000 Kč, jde-li o sazbu podle odstavce 1 písm. a), nebo do 300 000 Kč, jde-li o sazbu podle odstavce 1 písm. b); sazba se zaokrouhluje na celé koruny nahoru.
+
+## § 1a – Sazba pravidelného poplatku
+
+Sazba pravidelného poplatku za ukládání radioaktivních odpadů pro období od 1. ledna 2026 do 31. prosince 2030 činí
+
+a) 88 Kč za množství vyrobené elektrické energie v MWh měřené na svorkách generátoru u poplatníka provozujícího energetické jaderné zařízení,
+
+b) 35 Kč za množství vyrobené tepelné energie v MWh u poplatníka provozujícího výzkumné jaderné zařízení nebo jaderné zařízení, jehož hlavním účelem je výroba tepelné energie.
+
+## § 2 – Výše příspěvků z jaderného účtu a pravidla jejich poskytování
+
+(1) Výše příspěvku z jaderného účtu pro obec, na jejímž katastrálním území je stanoveno průzkumné území pro zvláštní zásah do zemské kůry k ukládání radioaktivního odpadu v podzemních prostorech (dále jen „průzkumné území“), činí 850 000 Kč ročně, a dále 0,60 Kč ročně za každý m<sup>2</sup> katastrálního území obce, na němž je průzkumné území stanoveno. Tento příspěvek převede Správa úložišť radioaktivních odpadů (dále jen „Správa“) obci poprvé do 3 měsíců ode dne nabytí právní moci rozhodnutí o stanovení průzkumného území a následně vždy v prvním pololetí kalendářního roku.
+
+(2) Výše příspěvku z jaderného účtu pro obec, na jejímž katastrálním území je stanoveno chráněné území pro zvláštní zásah do zemské kůry k ukládání radioaktivních odpadů v podzemních prostorech (dále jen „chráněné území“), činí 850 000 Kč ročně, a dále 0,90 Kč ročně za každý m<sup>2</sup> katastrálního území obce, na němž je chráněné území stanoveno. Tento příspěvek převede Správa obci poprvé do 3 měsíců ode dne nabytí právní moci rozhodnutí o stanovení chráněného území a následně vždy v prvním pololetí kalendářního roku.
+
+(3) Výše příspěvku z jaderného účtu pro obec, na jejímž katastrálním území je povoleno provozování úložiště radioaktivního odpadu, činí 5 750 000 Kč ročně. Tento příspěvek převede Správa obci v prvním pololetí daného kalendářního roku. Dále tato obec obdrží příspěvek ve výši 14 000 Kč za každý m<sup>3</sup> uloženého radioaktivního odpadu v daném kalendářním roce. Tento příspěvek převede Správa obci v prvním pololetí následujícího kalendářního roku.
+
+(4) Obci, na jejímž katastrálním území je stanoveno chráněné území, převede Správa jednorázový příspěvek z jaderného účtu ve výši 60 000 000 Kč do 1 roku ode dne nabytí právní moci rozhodnutí o stanovení chráněného území.
+
+(5) Plocha průzkumného území nebo chráněného území, která je podkladem pro výpočet výše příspěvku podle odstavce 1 nebo 2, se vypočte podle vymezení daného průzkumného území nebo chráněného území v rozhodnutí, jímž bylo toto území stanoveno.
+
+(6) Příspěvek podle odstavce 1 nebo 2 náleží obci, na jejímž katastrálním území je stanoveno průzkumné území nebo chráněné území, pouze po dobu platnosti příslušného rozhodnutí o stanovení průzkumného území nebo chráněného území.
+
+## § 3 – Přechodné ustanovení
+
+Obci, na jejímž katastrálním území je ke dni nabytí účinnosti tohoto nařízení stanoveno chráněné území, převede Správa jednorázový příspěvek z jaderného účtu ve výši 50 000 000 Kč do 1 roku ode dne nabytí účinnosti tohoto nařízení.
+
+## § 4 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem vyhlášení.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr průmyslu a obchodu:
+
+Ing. Mládek, CSc., v. r.

@@ -1,0 +1,80 @@
+---
+title: "Zákon č. 209/2011 Sb., kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní infrastruktury"
+identifier: "209/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/209/2011-10-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2011-06-08
+effective: 2011-10-01
+last_amended: 2011-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/209"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 209/2011 Sb., kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní infrastruktury
+
+209
+
+ZÁKON
+
+ze dne 8. června 2011,
+
+kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní infrastruktury
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 416/2009 Sb., o urychlení výstavby dopravní infrastruktury, se mění takto:
+
+1\. V názvu zákona a v nadpisu části první se za slovo „dopravní“ vkládají slova „, vodní a energetické“.
+
+2\. V § 1 odst. 1 se za slovo „dopravní“ vkládají slova „, vodní a energetické“.
+
+3\. V § 1 se doplňují odstavce 3 a 4, které včetně poznámky pod čarou č. 5 znějí:
+
+> „(3) Vodní infrastrukturou se pro účely tohoto zákona rozumí stavba vodního díla umisťovaného v plochách a koridorech vymezených v platné politice územního rozvoje nebo veřejně prospěšné stavby na ochranu před povodněmi.
+
+> (4) Energetickou infrastrukturou se pro účely tohoto zákona rozumějí stavby zařízení elektrizační soustavy a plynárenské soustavy podle jiného zákona zřizované ve veřejném zájmu<sup>5</sup>), pokud nejsou v rozporu s platnou politikou územního rozvoje nebo zásadami územního rozvoje kraje.
+
+> <sup>5</sup>) § 2 zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů.“.
+
+4\. V § 2 odstavec 1 včetně poznámky pod čarou č. 2 zní:
+
+> „(1) U stavby dopravní a energetické infrastruktury stavební úřad<sup>2</sup>) na žádost stavebníka může spojit územní a stavební řízení, s výjimkou staveb uvedených v § 16 odst. 2 písm. d) zákona č. 183/2006 Sb., které jsou součástí energetické infrastruktury.
+
+> <sup>2</sup>) § 13 odst. 1 zákona č. 183/2006 Sb.“.
+
+5\. V § 2 se za odstavec 2 vkládá nový odstavec 3, který včetně poznámky pod čarou č. 3 zní:
+
+> „(3) Speciální stavební úřad<sup>3</sup>) je ve spojeném řízení podle odstavce 1 dotčeným orgánem příslušným k vydání závazného stanoviska.
+
+> <sup>3</sup>) § 15 odst. 1 zákona č. 183/2006 Sb.“.
+
+> Dosavadní odstavce 3 a 4 se označují jako odstavce 4 a 5.
+
+6\. V § 2 odst. 4 se za slovo „dopravní“ vkládají slova „, vodní a energetické“.
+
+7\. V § 2 odst. 5 se za slovo „přezkoumání“ vkládají slova „nebo nahrazení“ a na konci odstavce se doplňuje věta „Ustanovení předchozí věty obdobně platí i pro řízení o opravných prostředcích proti rozhodnutí soudu o žalobě.“.
+
+8\. V § 3 odst. 1 se za slovo „dopravní“ vkládají slova „, vodní a energetické“.
+
+9\. V § 3 odst. 2 písm. b) se slova „, nemá-li trvalý pobyt na území České republiky,“ zrušují.
+
+10\. V § 5 odst. 1 se za slovo „dopravní“ vkládají slova „, vodní a energetické“.
+
+## Čl. II – Přechodné ustanovení
+
+Správní řízení zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadní právní úpravy.
+
+## Čl. III – Účinnost
+
+Tento zákon nabývá účinnosti prvním dnem třetího kalendářního měsíce po dni jeho vyhlášení.
+
+Němcová v. r.
+
+Klaus v. r.
+
+Nečas v. r.

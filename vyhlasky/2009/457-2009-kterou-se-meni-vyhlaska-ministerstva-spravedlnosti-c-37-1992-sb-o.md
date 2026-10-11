@@ -1,0 +1,58 @@
+---
+title: "Vyhláška č. 457/2009 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 37/1992 Sb., o jednacím řádu pro okresní a krajské soudy, ve znění pozdějších předpisů"
+identifier: "457/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/457/2010-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2009-12-11
+effective: 2010-01-01
+last_amended: 2010-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/457"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 457/2009 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 37/1992 Sb., o jednacím řádu pro okresní a krajské soudy, ve znění pozdějších předpisů
+
+457
+
+VYHLÁŠKA
+
+ze dne 11. prosince 2009,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 37/1992 Sb., o jednacím řádu pro okresní a krajské soudy, ve znění pozdějších předpisů
+
+Ministerstvo spravedlnosti stanoví podle § 469 zákona č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění pozdějších předpisů:
+
+## Čl. I
+
+Ve vyhlášce č. 37/1992 Sb., o jednacím řádu pro okresní a krajské soudy, ve znění vyhlášky č. 315/2007 Sb., část sedmá zní:
+
+> **„ČÁST SEDMÁ – Trest domácího vězení**
+
+> **§ 34**
+
+> Soud může před uložením trestu domácího vězení požádat středisko Probační a mediační služby příslušné podle místa bydliště obviněného o opatření písemného slibu obviněného podle § 60 odst. 1 písm. b) trestního zákoníku. Před podpisem písemného slibu je třeba obviněnému vysvětlit podstatu výkonu a kontroly trestu domácího vězení, způsob jeho součinnosti a jaká omezení jsou pro něho a osoby žijící s ním ve společném obydlí s tímto trestem spojena.
+
+> **§ 34a**
+
+> Obdrží-li soud písemný slib obviněného za okolností, z nichž není dostatečně patrné, že obviněnému je známa podstata trestu domácího vězení a s ním spojená omezení ve způsobu jeho života, soud před uložením tohoto trestu obviněného poučí nebo pověří tímto úkonem úředníka Probační a mediační služby.
+
+> **§ 34b**
+
+> (1) Jakmile se rozhodnutí, podle něhož se má vykonat trest domácího vězení, stane vykonatelným, předseda senátu zašle jeho opis spolu s nařízením výkonu trestu příslušnému středisku Probační a mediační služby.
+
+> (2) Opisy všech rozhodnutí týkající se trestu domácího vězení zašle soud po právní moci středisku Probační a mediační služby.
+
+> **§ 34c**
+
+> Zjistí-li soud, že obviněný, který je ve vazbě nebo odsouzený, který je ve výkonu trestu odnětí svobody, má zároveň vykonávat trest domácího vězení, vyrozumí bezodkladně o této skutečnosti soud, který trest domácího vězení uložil.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2010.
+
+Ministryně:
+
+JUDr. Kovářová v. r.

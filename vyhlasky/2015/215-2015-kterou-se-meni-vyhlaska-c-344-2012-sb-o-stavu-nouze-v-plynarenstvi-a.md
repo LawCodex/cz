@@ -1,0 +1,318 @@
+---
+title: "Vyhláška č. 215/2015 Sb., kterou se mění vyhláška č. 344/2012 Sb., o stavu nouze v plynárenství a o způsobu zajištění bezpečnostního standardu dodávky plynu"
+identifier: "215/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/215/2016-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-08-26
+effective: 2015-09-10
+last_amended: 2016-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/215"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 215/2015 Sb., kterou se mění vyhláška č. 344/2012 Sb., o stavu nouze v plynárenství a o způsobu zajištění bezpečnostního standardu dodávky plynu
+
+215
+
+VYHLÁŠKA
+
+ze dne 26. srpna 2015,
+
+kterou se mění vyhláška č. 344/2012 Sb., o stavu nouze v plynárenství a o způsobu zajištění bezpečnostního standardu dodávky plynu
+
+Ministerstvo průmyslu a obchodu stanoví podle § 98a odst. 1 písm. e) zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 158/2009 Sb., zákona č. 211/2011 Sb. a zákona č. 165/2012 Sb.:
+
+## Čl. I
+
+Vyhláška č. 344/2012 Sb., o stavu nouze v plynárenství a o způsobu zajištění bezpečnostního standardu dodávky plynu, se mění takto:
+
+1\. V § 2 odst. 1 písm. f) se slova „pohon vozidel městské hromadné dopravy“ nahrazují slovy „provoz plnících stanic určených pro pohon vozidel“ a na konci textu písmene se doplňují slova „; pro účely výpočtu bezpečnostního standardu dodávky plynu se tato skupina dělí na
+
+> 1\. podskupinu D1 s převažujícím otopovým odběrem, do níž náležejí odběrná místa zákazníků, pokud součet hodnot spotřeb za poslední čtvrtletí předchozího roku a první čtvrtletí daného roku činí 70 % a více z celkové spotřeby za období od 1. dubna předchozího roku do 31. března daného roku; pokud není k dispozici údaj o skutečné spotřebě, nahradí se plánovanou měsíční spotřebou uvedenou ve smlouvě o distribuci,
+
+> 2\. podskupinu D2 s převažujícím technologickým odběrem, do níž náležejí odběrná místa zákazníků, pokud součet hodnot spotřeb za poslední čtvrtletí předchozího roku a první čtvrtletí daného roku činí méně než 70 % z celkové spotřeby za období od 1. dubna předchozího roku do 31. března daného roku; pokud není k dispozici skutečná spotřeba, nahradí se plánovanou měsíční spotřebou uvedenou ve smlouvě o distribuci“.
+
+2\. V § 2 se doplňují odstavce 6 až 8, které znějí:
+
+> „(6) Do skupin podle odstavce 1 se z důvodu zajištění provozuschopnosti plynárenské soustavy České republiky nezařazují odběrná místa s technologickou spotřebou plynu nezbytnou pro zajištění bezpečného provozu daného plynárenského zařízení
+
+> a) provozovatele přepravní soustavy,
+
+> b) provozovatelů distribučních soustav,
+
+> c) provozovatelů zásobníků plynu,
+
+> d) provozovatelů výroben plynu.
+
+> (7) K přerušení sjednané přepravy plynu nebo distribuce plynu a sjednané dodávky plynu do odběrných míst podle odstavce 6 dochází při havarijním odběrovém stupni až poté, co byla přerušena dodávka plynu do všech odběrných míst skupin zákazníků A, B1, B2, C1, C2, D, E a F.
+
+> (8) Tato vyhláška se nevztahuje na distribuční soustavy, jimiž jsou distribuovány jiné druhy plynů než plyn zemní, a na výrobny plynu, které jsou s těmito distribučními soustavami propojeny.“.
+
+3\. § 3 včetně nadpisu a poznámek pod čarou č. 10 a 11 zní:
+
+> **„§ 3 – Předcházení stavu nouze**
+
+> (1) Při předcházení stavu nouze ve fázi včasného varování<sup>5</sup>) oznámeného provozovatelem přepravní soustavy pro celé území státu
+
+> a) provozovatel přepravní soustavy využívá akumulace přepravní soustavy, provozovatelé distribučních soustav využívají akumulace distribučních soustav,
+
+> b) provozovatelé zásobníků plynu ověřují připravenost zásobníků plynu k těžbě na maximální hodnotu těžebního výkonu, výrobce plynu ověřuje připravenost k maximalizaci provozu výrobny plynu a těžebních plynovodů; provozovatelé zásobníků plynu a výrobce plynu podávají o výsledku ověřování bez zbytečného odkladu zprávu provozovateli přepravní soustavy,
+
+> c) obchodníci s plynem ověřují možnosti zvýšení dovozů plynu a podávají o výsledku ověřování bez zbytečného odkladu zprávu provozovateli přepravní soustavy,
+
+> d) operátor trhu na základě pokynu provozovatele přepravní soustavy neprodleně oznámí elektronicky všem subjektům zúčtování a registrovaným účastníkům trhu s plynem, že následující plynárenský den bude zahájeno obchodní vyrovnávání odchylek při předcházení stavu nouze.
+
+> (2) Při předcházení stavu nouze ve fázi výstrahy<sup>5</sup>) oznámeného provozovatelem přepravní soustavy pro celé území státu
+
+> a) se omezuje sjednaná přeprava plynu nebo distribuce plynu a sjednaná dodávka plynu do všech odběrných míst zákazníků skupiny A v rozsahu jejich možností přechodu na náhradní palivo prostřednictvím odběrového stupně číslo 1,
+
+> b) není-li opatření podle písmene a) dostatečné, přerušuje se na pokyn provozovatele přepravní soustavy sjednaná přeprava plynu nebo distribuce plynu a sjednaná dodávka plynu do všech odběrných míst zákazníků skupin B1, B2, C2 a E, za která přebírají odpovědnost za odchylku subjekty zúčtování<sup>10</sup>) se zápornou předběžnou celkovou odchylkou<sup>4</sup>) za předcházející plynárenský den.
+
+> (3) K přerušení sjednané přepravy plynu nebo distribuce plynu a sjednané dodávky plynu do všech odběrných míst zákazníků skupin B1, B2, C2 a E dojde postupně od subjektů zúčtování s nejvyšším poměrem předběžné celkové odchylky subjektu zúčtování k celkové předběžné spotřebě odběrných míst zákazníků, za která tento subjekt zúčtování přebírá odpovědnost za odchylku, až po ten subjekt zúčtování, kdy kumulativní hodnota spotřeby odběrných míst zákazníků skupin B1, B2, C2 a E za předchozí plynárenský den, která byla tímto postupem přerušena, dosáhne hodnoty stanovené provozovatelem přepravní soustavy.
+
+> (4) Identifikaci dotčených odběrných míst oznamuje operátor trhu bezodkladně po vyhodnocení odchylek provozovateli přepravní soustavy nebo provozovatelům distribučních soustav, ke kterým jsou odběrná místa připojena, a rovněž příslušnému obchodníkovi s plynem.
+
+> (5) Při předcházení stavu nouze ve fázi včasného varování nebo ve fázi výstrahy se postupuje podle havarijního plánu plynárenské soustavy České republiky a podle havarijních plánů provozovatele přepravní soustavy, provozovatelů distribuční soustavy, provozovatelů zásobníků plynu nebo výrobců plynu.
+
+> (6) O předcházení stavu nouze ve fázi včasného varování informuje provozovatel přepravní soustavy nebo provozovatel příslušné distribuční soustavy bez zbytečného odkladu provozovatele připojených distribučních soustav, provozovatele zásobníků plynu, výrobce plynu, operátora trhu a obchodníky s plynem dodávající plyn zákazníkům v dotčené oblasti, a to zasláním zprávy prostředky elektronické komunikace, případně dalšími vhodnými prostředky. Nejpozději do jedné hodiny po zahájení činností předcházení stavu nouze ve fázi včasného varování oznamuje provozovatel přepravní soustavy nebo provozovatel příslušné distribuční soustavy předcházení stavu nouze ve fázi včasného varování prostředky elektronické komunikace ministerstvu, Energetickému regulačnímu úřadu a Ministerstvu vnitra. Stejnou informaci současně sděluje provozovatel přepravní soustavy ještě všem krajským úřadům a Magistrátu hlavního města Prahy a provozovatel distribuční soustavy pak místně příslušnému krajskému úřadu nebo Magistrátu hlavního města Prahy, a to prostředky elektronické komunikace. Obdobně postupuje při ukončení předcházení stavu nouze.
+
+> (7) O předcházení stavu nouze ve fázi výstrahy provozovatel přepravní soustavy nebo provozovatel příslušné distribuční soustavy informuje stejným způsobem jako v odstavci 6 a dále ji oznamuje prostřednictvím celoplošného rozhlasového programu<sup>11</sup>) podle zákona o Českém rozhlasu. Obdobně postupuje při ukončení předcházení stavu nouze. Provozovatel přepravní soustavy informuje o postupu podle odstavce 2 písm. b), odstavců 3 a 4 stejným způsobem, jakým informuje o předcházení stavu nouze ve fázi výstrahy.
+
+> <sup>10</sup>) Zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů.
+
+> <sup>11</sup>) Rozhlasový program Český rozhlas Radiožurnál.“.
+
+4\. V § 4 se za odstavec 1 vkládá nový odstavec 2, který zní:
+
+> „(2) Pokud došlo při předcházení stavů nouze k omezení nebo přerušení sjednané přepravy plynu nebo distribuce plynu a sjednané dodávky plynu do odběrných míst některých skupin zákazníků podle § 3 odst. 2, zůstávají tato omezení nebo přerušení v platnosti i po vyhlášení stavu nouze.“.
+
+Dosavadní odstavce 2 až 5 se označují jako odstavce 3 až 6.
+
+5\. V § 5 písm. d) se slova „všech skupin“ nahrazují slovem „skupiny“ a na konci textu písmene d) se doplňují slova „A, B1, B2, C1, C2, D, E a F“.
+
+6\. V § 8 se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno c), které zní:
+
+> „c) rozdělení zákazníků do podskupiny D1 a D2 pro účely výpočtu bezpečnostního standardu dodávky plynu provádí příslušný provozovatel podle podmínek uvedených v § 2 odst. 1 písm. f) bodech 1 a 2 a sdělí to do 31. července daného roku operátorovi trhu.“.
+
+7\. § 11 včetně nadpisu zní:
+
+> **„§ 11 – Způsob zajištění bezpečnostního standardu**
+
+> (1) Rozsah bezpečnostního standardu pro chráněné zákazníky pro případy podle přímo použitelného právního předpisu<sup>8</sup>) se stanovuje podle přílohy č. 3 k této vyhlášce.
+
+> (2) Operátor trhu k 1. květnu daného roku aktualizuje a zveřejňuje způsobem umožňujícím dálkový přístup vstupní údaje pro výpočet bezpečnostního standardu. Vzor vstupních údajů pro výpočet minimální velikosti bezpečnostního standardu uveřejňovaných operátorem trhu je uveden v příloze č. 4 k této vyhlášce.
+
+> (3) V období od 1. října do 31. března se bezpečnostní standard uvedený v příloze č. 3 odst. 1 písm. a) a b) zajišťuje minimálně z 30 % uskladněním plynu v zásobnících plynu na území Evropské unie.
+
+> (4) Obchodník s plynem dodávající plyn chráněným zákazníkům poskytuje písemné doklady o způsobu zajištění bezpečnostního standardu dodávky plynu na nadcházející období Energetickému regulačnímu úřadu do 31. srpna daného roku. Údaje o rozsahu bezpečnostního standardu stanoveného podle odstavce 1 a o způsobu jeho zajištění předkládá obchodník s plynem na formuláři, jehož vzor je uveden v příloze č. 5 k této vyhlášce, a to nejpozději do 15. dne následujícího měsíce operátorovi trhu a Energetickému regulačnímu úřadu. Zajištění bezpečnostního standardu prokazuje:
+
+> a) u plynu uloženého v zásobnících plynu na území České republiky písemným dokladem o uskladněném množství plynu od provozovatele zásobníku plynu,
+
+> b) u plynu uloženého v zásobnících plynu mimo území České republiky písemným dokladem o uskladněném množství plynu od provozovatele zásobníku plynu a současně písemným dokladem prokazujícím zajištění pevné přepravní kapacity do České republiky,
+
+> c) u diverzifikovaných zdrojů plynu písemným dokladem o dodávce příslušného objemu plynu od dodavatele a současně písemným dokladem prokazujícím zajištění pevné přepravní kapacity do České republiky,
+
+> d) u výroby plynu, který je prokazatelně vytěžitelný, smlouvou nebo její ověřenou kopií nebo písemným dokladem od příslušného držitele licence na výrobu plynu; výroba plynu je rovnocennou alternativou zajištění bezpečnostního standardu dodávky podle § 11 odst. 3,
+
+> e) písemným dokladem dotčeného chráněného zákazníka, že má možnost využití alternativních paliv, a kopií smlouvy o dodávce plynu, podle které lze dodávku plynu přerušit,
+
+> f) písemným dokladem o zajištění bezpečnostního standardu jiným účastníkem trhu s plynem, jehož vzor je uveden v příloze č. 6 k této vyhlášce.
+
+> (5) Účastník trhu s plynem, který přebírá zajištění bezpečnostního standardu podle odstavce 4 písm. f), musí do rozsahu svého bezpečnostního standardu dodávek plynu zahrnout rozsah bezpečnostního standardu obchodníka s plynem, pro kterého vydal potvrzení o zajištění bezpečnostního standardu.
+
+> (6) Bezpečnostní standard uvedený v příloze č. 3 odst. 1 písm. c) musí být zajištěn jinak než plynárenskou infrastrukturou<sup>9</sup>), která byla provozovatelem přepravní soustavy určena jedinou největší plynárenskou infrastrukturou za účelem stanovení standardu pro infrastrukturu podle přímo použitelného předpisu Evropské unie<sup>1</sup>). Informaci o určení jediné největší plynárenské infrastruktury zveřejňuje provozovatel přepravní soustavy na svých internetových stránkách nejpozději do 15. února daného roku.
+
+> (7) Pokud je obchodník s plynem veden u provozovatele distribuční soustavy jako zákazník s odběrným předávacím místem a nemá možnost přístupu ke vstupním údajům nezbytným pro výpočet bezpečnostního standardu, tak v případech, že takové odběrné místo
+
+> a) nespadá do kategorie chráněných zákazníků, se nezajišťuje bezpečnostní standard dodávky plynu pro případy podle přímo použitelného předpisu Evropské unie<sup>8</sup>),
+
+> b) spadá do kategorie chráněných zákazníků, zajišťuje a prokazuje bezpečnostní standard dodávky plynu jiný účastník trhu s plynem s možností přístupu ke vstupním údajům tohoto odběrného místa nezbytným pro výpočet bezpečnostního standardu pro případy podle přímo použitelného předpisu Evropské unie<sup>8</sup>).
+
+> Skutečnosti podle písmene a) nebo b) obchodník s plynem písemně oznamuje Energetickému regulačnímu úřadu nejpozději do 31. srpna daného roku.“.
+
+8\. Na konci textu přílohy č. 1 se doplňuje věta, která zní: „Havarijní plán plynárenské soustavy České republiky dále obsahuje ustanovení o složení Centrálního krizového štábu plynárenské soustavy České republiky včetně jeho statutu a jednacího řádu.“.
+
+9\. Přílohy č. 3 a 4 znějí:
+
+> **„Příloha č. 3 k vyhlášce č. 344/2012 Sb.**
+
+> **Stanovení bezpečnostního standardu dodávky plynu**
+
+> (1) Rozsah bezpečnostního standardu se stanovuje následujícím způsobem:
+
+> a) Pro případ mimořádných teplotních hodnot v průběhu sedmidenního období poptávkových špiček operátor trhu stanoví z údajů zveřejňovaných Českým hydrometeorologickým ústavem 7 nejchladnějších po sobě následujících dnů za celou Českou republiku za posledních 20 let a z těchto dnů vybere den s nejnižší dosaženou teplotou. Operátor trhu stanoví tento den s uvedením roku, pro který obchodník stanoví rozsah svého bezpečnostního standardu dodávky plynu, jako den G. Dále stanoví den H, který je stejným dnem předcházejícího kalendářního roku.
+
+> Obchodník s plynem stanoví rozsah svého bezpečnostního standardu R<sup>max.den</sup> pro období G (tj. předpokládanou maximální denní kapacitu při nejnižší teplotě dosažené za posledních 20 let) jako součet bezpečnostního standardu <sup>C1,D1,F</sup>R<sup>C</sup> pro odběrná místa zákazníků skupin C1, D1 a F s měřením typu C a bezpečnostního standardu <sup>C1,D1,F</sup>R<sup>A,B</sup> pro odběrná místa zákazníků skupin C1, D1 a F s měřením typu A a B a bezpečnostní standard <sup>D2</sup>R<sup>A,B,C</sup> pro odběrná místa zákazníků skupiny D2, tedy
+
+> R<sup>max.den</sup> = <sup>C1,D1,F</sup>R<sup>C</sup> + <sup>C1,D1,F</sup>R<sup>A,B</sup> + <sup>D2</sup>R<sup>A,B,C</sup>.
+
+> Bezpečnostní standard <sup>C1,D1,F</sup>R<sup>C</sup> se spočítá podle vztahu
+
+> **<sup>C1,D1,F</sup>R<sup>C</sup>=M×∑i<sup><sup>C1,D1,F</sup></sup>S<sub>i</sub><sup>C</sup>×K<sub>i</sub><sup>max.den</sup>,**
+
+> kde
+
+> <sup>C1,D1,F</sup>S<sub>i</sub><sup>C</sup> je součet aktuální plánované roční spotřeby odběrných míst chráněných zákazníků skupin C1, D1 a F s měřením typu C v i-té třídě typového diagramu dodávky (dále jen „TDD“),
+
+> K<sub>i</sub><sup>max.den</sup> je koeficient i-té třídy TDD pro den G přepočtený na nejnižší teplotu dosaženou ve stejném dni a měsíci za posledních 20 let,
+
+> M je koeficient, korigující rozsah bezpečnostního standardu pro daný měsíc a jeho výše pro jednotlivé měsíce v roce je uvedena v následující tabulce:
+
+> | říjen | listopad | prosinec | leden | únor | březen | duben | květen | červen | červenec | srpen | září |
+> |---|---|---|---|---|---|---|---|---|---|---|---|
+> | 0,4 | 0,7 | 0,9 | 1,0 | 0,9 | 0,7 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+> Podobně, bezpečnostní standard<sup>C1,D1,F</sup>R<sup>A,B</sup> se spočítá podle vztahu
+
+> <sup>C1,D1,F</sup>R<sup>A,B</sup> = M × <sup>C1,D1,F</sup>S<sup>A,B</sup> × L<sup>max.den</sup>,
+
+> kde
+
+> <sup>C1,D1,F</sup>S<sup>A,B</sup> je součet skutečných spotřeb odběrných míst chráněných zákazníků skupin C1, D1 a F s měřením typu A a B ve dni H,
+
+> **L<sup>max.den</sup>=(TDD<sub>G</sub><sup>S03</sup>)/(TDD<sub>H</sub><sup>S03</sup>)**
+
+> TDD<sub>G</sub><sup>SO3</sup> je koeficient podle platné metodiky TDD pro třídu SO3 pro den G, přepočtený na nejnižší teplotu dosaženou ve stejném dni a měsíci za posledních 20 let,
+
+> TDD<sub>H</sub><sup>SO3</sup> je koeficient podle platné metodiky TDD pro třídu SO3 pro den H, přepočtený na skutečnou teplotu v tomto dni.
+
+> Bezpečnostní standard <sup>D2</sup>R<sup>A,B,C</sup> se spočítá podle vztahu
+
+> <sup>D2</sup>R<sup>A,B,C</sup> = M × <sup>D2</sup>S<sup>A,B,C</sup>,
+
+> kde
+
+> <sup>D2</sup>S<sup>A,B,C</sup> je maximální denní spotřeba odběrných míst chráněných zákazníků skupiny D2 od 1. 10. do 31. 3. předcházejícího období.
+
+> b) Pro případ výjimečně vysoké poptávky po plynu v délce nejméně 30 dnů operátor trhu stanoví z údajů zveřejňovaných Českým hydrometeorologickým ústavem 30 nejchladnějších po sobě následujících dnů za celou Českou republiku za posledních 20 let. Operátor trhu stanoví těchto 30 dnů s uvedením roku, pro který obchodník stanoví rozsah svého bezpečnostního standardu, jako období I. Dále stanoví období J, které je stejným obdobím předcházejícího kalendářního roku.
+
+> Obchodník s plynem stanoví rozsah svého bezpečnostního standardu dodávky plynu R<sup>30dnů</sup> jako součet bezpečnostního standardu <sup>C1,D1,F</sup>R<sup>C</sup> pro odběrná místa zákazníků skupin C1, D1 a F s měřením typu C a bezpečnostního standardu <sup>C1,D1,F</sup>R<sup>A,B</sup> pro odběrná místa zákazníků skupin C1, D1 a F s měřením typu A a B a bezpečnostní standard <sup>D2</sup>R<sup>A,B,C</sup> pro odběrná místa zákazníků skupiny D2, tedy
+
+> R<sup>30dnů</sup> = <sup>C1,D1,F</sup>R<sup>C</sup> + <sup>C1,D1,F</sup>R<sup>A,B</sup> + <sup>D2</sup>R<sup>A,B,C</sup>
+
+> Bezpečnostní standard<sup>C1,D1,F</sup>R<sup>C</sup> se spočítá podle vztahu
+
+> **<sup>C1,D1,F</sup>R<sup>C</sup>=M×∑i<sup>C1,D1,F</sup>S<sub>i</sub><sup>C</sup>×K<sub>i</sub><sup>30dnů</sup>,**
+
+> kde
+
+> <sup>C1,D1,F</sup>S<sub>i</sub><sup>C</sup> je součet aktuální plánované roční spotřeby odběrných míst chráněných zákazníků skupin C1, D1 a F s měřením typu C v i-té třídě TDD,
+
+> K<sub>i</sub><sup>30dnů</sup> je součet koeficientů i-té třídy TDD v období I, přepočtených na teploty dosažené v průběhu 30 nejchladnějších po sobě následujících dnů za celou Českou republiku za posledních 20 let.
+
+> Podobně, bezpečnostní standard <sup>C1,D1,F</sup>R<sup>A,B</sup> se spočítá podle vztahu
+
+> <sup>C1,D1,F</sup>R<sup>A,B</sup> = M × <sup>C1,D1,F</sup>S<sup>A,B</sup> × L<sup>30dnů</sup>,
+
+> kde
+
+> <sup>C1,D1,F</sup>S<sup>A,B</sup> je součet skutečných spotřeb odběrných míst chráněných zákazníků skupin C1, D1 a F s měřením typu A a B v období J,
+
+> **L<sup>30dnů</sup>=(∑TDD<sub>I</sub><sup>S03</sup>)/(∑TDD<sub>j</sub><sup>S03</sup>)**
+
+> ∑TDD<sub>I</sub><sup>SO3</sup> je součet koeficientů TDD pro třídu SO3 za období I, přepočtených na teploty dosažené v průběhu 30 nejchladnějších po sobě následujících dnů za celou Českou republiku za posledních 20 let,
+
+> ∑TDD<sub>J</sub><sup>SO3</sup> je součet koeficientů TDD pro třídu SO3 za období J, přepočtených na skutečné teploty dosažené v jednotlivých dnech tohoto období.
+
+> Bezpečnostní standard <sup>D2</sup>R<sup>A,B,C</sup> se spočítá podle vztahu
+
+> <sup>D2</sup>R<sup>A,B,C</sup> = M × <sup>D2</sup>S<sup>A,B,C</sup>,
+
+> kde
+
+> <sup>D2</sup>S<sup>A,B,C</sup> je maximální měsíční spotřeba odběrných míst chráněných zákazníků skupiny D2 od října až do března předcházejícího období.
+
+> c) Pro případ narušení jediné největší plynárenské infrastruktury v trvání nejméně 30 dnů operátor trhu stanoví 30 nejchladnějších po sobě následujících dnů z aktuálních normálových teplot za celou Českou republiku. Operátor trhu stanoví těchto 30 dnů s uvedením roku, pro který obchodník stanoví rozsah svého bezpečnostního standardu, jako období T. Dále stanoví období U, které je stejným obdobím předcházejícího kalendářního roku.
+
+> Obchodník s plynem stanoví rozsah svého bezpečnostního standardu dodávky plynu R<sup>N-1</sup> jako součet bezpečnostního standardu <sup>C1,D1,F</sup>R<sup>C</sup> pro odběrná místa chráněných zákazníků skupin C1, D1 a F s měřením typu C a bezpečnostního standardu <sup>C1,D1,F</sup>R<sup>A,B</sup> pro odběrná místa chráněných zákazníků skupin C1, D1 a F s měřením typu A a B a bezpečnostní standard <sup>D2</sup>R<sup>A,B,C</sup> pro odběrná místa zákazníků skupiny D2, tedy
+
+> R<sup>N-1</sup> <sub>=</sub><sup>C1,D1,F</sup>R<sup>C</sup> + <sup>C1,D1,F</sup>R<sup>A,B</sup> + <sup>D2</sup>R<sup>A,B,C</sup>
+
+> Bezpečnostní standard <sup>C1,D1,F</sup>R<sup>C</sup> se spočítá podle vztahu
+
+> **<sup>C1,D1,F</sup>R<sup>C</sup>=M×∑i<sup>C1,D1,F</sup>S<sub>i</sub><sup>C</sup>×K<sub>i</sub><sup>N-1</sup>,**
+
+> kde
+
+> <sup>C1,D1,F</sup>S<sub>i</sub><sup>C</sup> je součet aktuální plánované roční spotřeby odběrných míst chráněných zákazníků skupin C1, D1 a F s měřením typu C v i-té třídě TDD,
+
+> K<sub>i</sub><sup>N-1</sup> je součet koeficientů i-té třídy TDD za období T, přepočtených na aktuální normálové teploty v tomto období.
+
+> Podobně, bezpečnostní standard <sup>C1,D1,F</sup>R<sup>A,B</sup> se spočítá podle vztahu
+
+> <sup>C1,D1,F</sup>R<sup>A,B</sup> = M × <sup>C1,D1,F</sup>S<sup>A,B</sup> × L<sup>N-1</sup>,
+
+> kde
+
+> <sup>C1,D1,F</sup>S<sup>A,B</sup> je součet skutečných spotřeb odběrných míst chráněných zákazníků skupin C1, D1 a F s měřením typu A a B za období U,
+
+> **L<sup>N-1</sup>=(∑TDD<sub>T</sub><sup>S03</sup>)/(∑TDD<sub>U</sub><sup>S03</sup>)**
+
+> ∑TDD<sub>T</sub><sup>SO3</sup> je součet koeficientů TDD pro třídu SO3 za období T, přepočtených na aktuální normálové teploty v tomto období,
+
+> ∑TDD<sub>U</sub><sup>SO3</sup> je součet koeficientů TDD pro třídu SO3 za období U, přepočtených na skutečné teploty dosažené v jednotlivých dnech tohoto období.
+
+> Bezpečnostní standard <sup>D2</sup>R<sup>A,B,C</sup> se spočítá podle vztahu
+
+> <sup>D2</sup>R<sup>A,B,C</sup> = M × <sup>D2</sup>S<sup>A,B,C</sup>,
+
+> kde
+
+> <sup>D2</sup>S<sup>A,B,C</sup> je maximální měsíční spotřeba odběrných míst chráněných zákazníků skupiny D2 od října až do března předcházejícího období.
+
+> (2) Koeficienty K<sub>max.den</sub>, L<sub>max.den</sub>, K<sub>30dnů</sub>, L<sub>30dnů</sub>, K<sub>N-1</sub>, L<sub>N-1</sub> jsou uvedeny na čtyři desetinná místa, konstanta M na jedno desetinné místo. Operátor trhu stanoví tyto koeficienty na dny G a H a období I, J, T a U a zveřejní je podle přílohy č. 4 k této vyhlášce.
+
+> (3) Údaje o skutečných spotřebách odběrných míst chráněných zákazníků s měřením typu A a B a o plánovaných ročních spotřebách odběrných míst zákazníků s měřením typu C s rozlišením třídy TDD jsou k dispozici v systému operátora trhu.
+
+> (4) Rozsah bezpečnostního standardu se stanoví jen pro ta odběrná místa chráněných zákazníků s měřením typu A a B, která byla připojena před dnem H a před prvním dnem období J a U.
+
+> (5) V případě, že na odběrném místě chráněného zákazníka dojde ke změně typu měření z C na A nebo B, stanoví obchodník s plynem denní podíl spotřeby rozpočítáním poslední známé plánované roční spotřeby a třídy TDD do jednotlivých dnů období J nebo U nebo dne H podle platné metodiky TDD.
+
+> (6) Hodnota bezpečnostního standardu se udává v MWh zaokrouhlená na jedno desetinné místo.
+
+> **Příloha č. 4 k vyhlášce č. 344/2012 Sb.**
+
+> **Vzor vstupních údajů pro výpočet bezpečnostního standardu uveřejňovaných operátorem trhu**
+
+> ![sbcr2015c090z0215p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/872505/NAHLED/ZOBRAZ/sbcr2015c090z0215p004u001) 
+>  “.
+
+10\. Za přílohu č. 4 se doplňují nové přílohy č. 5 a 6, které znějí:
+
+> **Příloha č. 5 k vyhlášce č. 344/2012 Sb.**
+
+> **Bezpečnostní standard dodávky (BSD)**
+
+> **![sbcr2015c090z0215p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/872507/NAHLED/ZOBRAZ/sbcr2015c090z0215p005u001)**
+
+> **Příloha č. 6 k vyhlášce č. 344/2012 Sb.**
+
+> **Doklad na zajištění Bezpečnostního standardu dodávek plynu (BSD) jiným účastníkem trhu s plynem podle § 11 odst. 4 písm. f)**
+
+> ![sbcr2015c090z0215p006u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/872509/NAHLED/ZOBRAZ/sbcr2015c090z0215p006u001) 
+>  “.
+
+## Čl. II – Přechodná ustanovení
+
+1\. Provozovatel přepravní soustavy poprvé zveřejní informaci o určení jediné největší plynárenské infrastruktury podle § 11 odst. 6 vyhlášky č. 344/2012 Sb., ve znění účinném po dni nabytí účinnosti této vyhlášky, na svých internetových stránkách do 15. září 2015.
+
+2\. Rozdělení zákazníků do podskupiny D1 a D2 podle § 8 odst. 2 písm. c) vyhlášky č. 344/2012 Sb., ve znění účinném po dni nabytí účinnosti této vyhlášky, pro období od 1. října 2015 do 30. září 2016 sdělí poprvé příslušný provozovatel operátorovi trhu do 15. září 2015.
+
+3\. Obchodník s plynem dodávající plyn chráněným zákazníkům poskytne poprvé písemné doklady podle § 11 odst. 4 vyhlášky č. 344/2012 Sb., ve znění účinném po dni nabytí účinnosti této vyhlášky, Energetickému regulačnímu úřadu do 30. září 2015.
+
+4\. Obchodník s plynem poprvé písemně oznámí skutečnosti podle § 11 odst. 7 písm. a) nebo b) vyhlášky č. 344/2012 Sb., ve znění účinném po dni nabytí účinnosti této vyhlášky, Energetickému regulačnímu úřadu do 30. září 2015.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 10. září 2015, s výjimkou ustanovení
+
+a) čl. I bodu 1, které nabývá účinnosti dnem 1. října 2015,
+
+b) čl. I bodu 7, pokud jde o § 11 odst. 3, které nabývá účinnosti dnem 1. října 2016.
+
+Ministr:
+
+Ing. Mládek, CSc., v. r.

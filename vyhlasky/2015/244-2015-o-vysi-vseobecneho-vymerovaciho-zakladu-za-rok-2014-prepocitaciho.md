@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 244/2015 Sb., o výši všeobecného vyměřovacího základu za rok 2014, přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2014, redukčních hranic pro stanovení výpočtového základu pro rok 2016 a základní výměry důchodu stanovené pro rok 2016 a o zvýšení důchodů v roce 2016"
+identifier: "244/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/244/2016-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-09-24
+effective: 2016-01-01
+last_amended: 2016-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/244"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 244/2015 Sb., o výši všeobecného vyměřovacího základu za rok 2014, přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2014, redukčních hranic pro stanovení výpočtového základu pro rok 2016 a základní výměry důchodu stanovené pro rok 2016 a o zvýšení důchodů v roce 2016
+
+244
+
+VYHLÁŠKA
+
+ze dne 24. září 2015
+
+o výši všeobecného vyměřovacího základu za rok 2014, přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2014, redukčních hranic pro stanovení výpočtového základu pro rok 2016 a základní výměry důchodu stanovené pro rok 2016 a o zvýšení důchodů v roce 2016
+
+Ministerstvo práce a sociálních věcí stanoví podle § 108 odst. 1 a odst. 2 písm. a) a b) zákona č. 155/1995 Sb., o důchodovém pojištění, ve znění zákona č. 220/2011 Sb.:
+
+## § 1 – Výše všeobecného vyměřovacího základu za rok 2014 a přepočítacího koeficientu pro úpravu tohoto všeobecného vyměřovacího základu
+
+(1) Výše všeobecného vyměřovacího základu za rok 2014 činí 26 357 Kč.
+
+(2) Výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2014 činí 1,0246.
+
+## § 2 – Výše redukčních hranic pro stanovení výpočtového základu
+
+Pro rok 2016 výše
+
+a) první redukční hranice pro stanovení výpočtového základu činí 11 883 Kč,
+
+b) druhé redukční hranice pro stanovení výpočtového základu činí 108 024 Kč.
+
+## § 3 – Výše základní výměry důchodu
+
+Výše základní výměry starobního, invalidního, vdovského, vdoveckého a sirotčího důchodu pro rok 2016 činí 2 440 Kč.
+
+## § 4 – Zvýšení důchodů v roce 2016
+
+Důchody starobní, invalidní, vdovské, vdovecké a sirotčí přiznané před 1. lednem 2016 se zvyšují od splátky důchodu splatné po 31. prosinci 2015 tak, že základní výměra důchodu se zvyšuje o 40 Kč měsíčně.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2016.
+
+Ministryně:
+
+Mgr. Marksová v. r.

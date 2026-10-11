@@ -1,0 +1,83 @@
+---
+title: "Zákon č. 77/2011 Sb., kterým se mění zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony"
+identifier: "77/2011 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2011/77/2021-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2011-03-03
+effective: 2011-03-25
+last_amended: 2021-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2011/77"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 77/2011 Sb., kterým se mění zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony ve znění zákona č. 201/2012 Sb. a zákona č. 541/2020 Sb."
+---
+
+# Zákon č. 77/2011 Sb., kterým se mění zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony
+
+77
+
+ZÁKON
+
+ze dne 3. března 2011,
+
+kterým se mění zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí
+
+### Čl. I
+
+Zákon č. 25/2008 Sb., o integrovaném registru znečišťování životního prostředí a integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí a o změně některých zákonů, ve znění zákona č. 227/2009 Sb. a zákona č. 281/2009 Sb., se mění takto:
+
+1\. V § 3 odst. 1 písm. a) se za slova „znečišťujících látek“ vkládají slova „a přenosy odpadů“.
+
+2\. V § 3 se na konci textu odstavce 5 doplňují slova „nebo prostřednictvím datové schránky ministerstva určené k plnění ohlašovacích povinností v oblasti životního prostředí, nechalo-li ji ministerstvo zřídit“.
+
+3\. V § 4 odst. 3 se za slovo „prostředí“ vkládají slova „nebo prostřednictvím datové schránky ministerstva určené k plnění ohlašovacích povinností v oblasti životního prostředí“ a slova „každý ohlašovací rok“ se nahrazují slovy „každou ohlašovací povinnost“.
+
+4\. V § 4 se doplňují odstavce 4 až 8, které včetně poznámky pod čarou č. 6a znějí:
+
+> „(4) Datový standard pro předávání údajů prostřednictvím integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí nebo prostřednictvím datové schránky ministerstva určené k plnění ohlašovacích povinností v oblasti životního prostředí popisuje pro jednotlivé ohlašovací povinnosti plněné jejich prostřednictvím datovou strukturu a datový formát elektronického dokumentu a automatizované kontroly obsahu podaných hlášení.
+
+> (5) Do integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí vstupuje povinný subjekt plnící ohlašovací povinnost prostřednictvím k tomu určené elektronické služby.
+
+> (6) Podmínkou pro využití integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí nebo datové schránky ministerstva určené k plnění ohlašovacích povinností v oblasti životního prostředí k podání hlášení je předchozí registrace v integrovaném systému plnění ohlašovacích povinností v oblasti životního prostředí.
+
+> (7) Zmocnění k zastoupení povinného subjektu plnícího ohlašovací povinnost se prokazuje plnou mocí v elektronické podobě nebo výstupem vzniklým převedením plné moci v listinné podobě autorizovanou konverzí dokumentů<sup>6a</sup>) podanými prostřednictvím integrovaného systému plnění ohlašovacích povinností v oblasti životního prostředí nebo prostřednictvím datové schránky ministerstva určené k plnění ohlašovacích povinností v oblasti životního prostředí.
+
+> (8) Integrovaný systém plnění ohlašovacích povinností v oblasti životního prostředí zpracovává osobní údaje.
+
+> <sup>6a</sup>) § 22 zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění zákona č. 190/2009 Sb.“.
+
+5\. V § 5 odst. 1 písm. a) se za slova „znečišťující látky“ vkládají slova „nebo přenosy odpadů“.
+
+6\. V § 5 odst. 2 písm. a) se za slova „znečišťující látky“ vkládají slova „nebo přenosy odpadů“.
+
+7\. V § 7 písm. c) se slova „do 31. prosince kalendářního roku pro následující ohlašovací rok“ nahrazují slovy „nejméně šest měsíců před termínem plnění jednotlivých ohlašovacích povinností“.
+
+## ČÁST ČTVRTÁ – Změna vodního zákona
+
+### Čl. IV
+
+V § 126 odst. 6 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 25/2008 Sb., se před slova „podle zákona“ vkládají slova „nebo datové schránky ministerstva určené k plnění ohlašovacích povinností v oblasti životního prostředí“.
+
+## ČÁST PÁTÁ – Změna zákona o obalech
+
+### Čl. V
+
+V § 15 odst. 1 písm. b) zákona č. 477/2001 Sb., o obalech a o změně některých zákonů (zákon o obalech), ve znění zákona č. 25/2008 Sb., se před slova „podle zákona“ vkládají slova „nebo datové schránky ministerstva určené k plnění ohlašovacích povinností v oblasti životního prostředí“.
+
+## ČÁST ŠESTÁ – ÚČINNOST
+
+### Čl. VI
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Němcová v. r.
+
+Klaus v. r.
+
+Nečas v. r.

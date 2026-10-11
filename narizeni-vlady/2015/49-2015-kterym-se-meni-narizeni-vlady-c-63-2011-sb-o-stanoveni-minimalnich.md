@@ -1,0 +1,56 @@
+---
+title: "Nařízení vlády č. 49/2015 Sb., kterým se mění nařízení vlády č. 63/2011 Sb., o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících"
+identifier: "49/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/49/2015-05-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2015-02-23
+effective: 2015-05-01
+last_amended: 2015-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/49"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 49/2015 Sb., kterým se mění nařízení vlády č. 63/2011 Sb., o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících
+
+49
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 23. února 2015,
+
+kterým se mění nařízení vlády č. 63/2011 Sb., o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících
+
+Vláda nařizuje podle § 36 odst. 1 a k provedení § 8 odst. 4 zákona č. 194/2010 Sb., o veřejných službách v přepravě cestujících a o změně dalších zákonů:
+
+## Čl. I
+
+Nařízení vlády č. 63/2011 Sb., o stanovení minimálních hodnot a ukazatelů standardů kvality a bezpečnosti a o způsobu jejich prokazování v souvislosti s poskytováním veřejných služeb v přepravě cestujících, se mění takto:
+
+1\. V § 3 odstavce 2 a 3 znějí:
+
+> „(2) Jestliže dopravce poskytuje veřejné služby v přepravě cestujících ve veřejné linkové dopravě na základě smlouvy uzavřené s objednatelem po celou dobu účinnosti smlouvy pouze vozidly, která byla při zahájení plnění smlouvy nová, nejde-li po dobu nezbytně nutnou o použití náhradního vozidla, nepřesahuje průměrné stáří vozidel použitých k plnění smlouvy 11 let. Za nová vozidla se považují vozidla pořízená za účelem plnění smlouvy uzavřené s objednatelem, která dosud nebyla žádným způsobem provozována v České republice ani v jiném státě ani nebyla používána ke zkušebním či předváděcím účelům.
+
+> (3) Průměrné stáří vozidel použitých k poskytování veřejných služeb v přepravě cestujících ve veřejné linkové dopravě nepřesahuje 15 let, jestliže dopravce tyto služby poskytuje podle smlouvy
+
+> a) uzavřené na základě přímého zadání nebo rozšířené bez nabídkového řízení v mimořádné situaci podle § 22 zákona o veřejných službách v přepravě cestujících a o změně dalších zákonů, nebo
+
+> b) uzavřené v krajně naléhavém případě na základě zadání veřejné zakázky v jednacím řízení bez uveřejnění podle zákona o zadávání veřejných zakázek.“.
+
+2\. V § 4 se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno e), které zní:
+
+> „e) uvede dobu a důvod využití vozidla, pokud se jedná o náhradní vozidlo podle § 3 odst. 2.“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po jeho vyhlášení.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr dopravy:
+
+Ing. Ťok v. r.

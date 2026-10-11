@@ -1,0 +1,688 @@
+---
+title: "Vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací"
+identifier: "117/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/117/2024-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2007-05-10
+effective: 2007-07-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/117"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací ve znění vyhlášky č. 231/2008 Sb., vyhlášky č. 267/2009 Sb., vyhlášky č. 53/2011 Sb., vyhlášky č. 124/2012 Sb., vyhlášky č. 22/2022 Sb. a vyhlášky č. 376/2023 Sb."
+---
+
+# Vyhláška č. 117/2007 Sb., o číslovacích plánech sítí a služeb elektronických komunikací
+
+117
+
+VYHLÁŠKA
+
+ze dne 10. května 2007
+
+o číslovacích plánech sítí a služeb elektronických komunikací
+
+Ministerstvo informatiky stanoví podle § 150 odst. 2 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů, (dále jen „zákon“) k provedení § 29 odst. 4 zákona:
+
+## ČÁST PRVNÍ – ÚVODNÍ USTANOVENÍ
+
+### § 1 – Předmět úpravy
+
+(1) Touto vyhláškou se stanoví číslovací plány veřejných komunikačních sítí, veřejných datových sítí, síťových směrovacích čísel, signalizačních bodů veřejných komunikačních sítí se signalizačním systémem č. 7, čísel identifikujících vydavatele mezinárodních telekomunikačních platebních karet a vydavatele identifikačních účastnických karet a číslovací plán mnemotechnických adres veřejných administračních managementových domén pro systém zprostředkování zpráv.
+
+(2) Číslovací plány podle odstavce 1 obsahují pravidla pro tvorbu a využívání čísel, kódů, identifikátorů, adres a jmen pro adresování a číslování koncových bodů veřejných komunikačních sítí určených pro přístup ke službám elektronických komunikací a k neveřejným komunikačním sítím a dále pravidla pro tvorbu a využívání čísel identifikujících vydavatele mezinárodních telekomunikačních platebních karet a vydavatele identifikačních účastnických karet.
+
+### § 2 – Vymezení pojmů
+
+Pro účely této vyhlášky se rozumí
+
+a) číslem posloupnost číslic stanoveného počtu,
+
+b) kódem definovaná část čísla, definovaná posloupnost číslic, binární číslo nebo hexadecimální číslo,
+
+c) identifikátorem posloupnost číslic,
+
+d) jménem posloupnost znaků v adrese systému zprostředkování zpráv,
+
+e) adresou
+
+1\. číslo,
+
+2\. posloupnost kódu a čísla,
+
+3\. posloupnost znaku, kódu a čísla,
+
+4\. jméno, nebo
+
+5\. posloupnost jmen,
+
+f) sítí ISDN digitální síť integrovaných služeb,
+
+g) evropským harmonizovaným číslem jednotné telefonní číslo stanovené právním předpisem Evropské unie.
+
+## ČÁST DRUHÁ – ČÍSLOVACÍ PLÁN VEŘEJNÝCH TELEFONNÍCH SÍTÍ
+
+### § 3
+
+Číslovací plán veřejných komunikačních sítí stanovuje číslování služeb, adresy koncových bodů veřejných komunikačních sítí a koncových bodů veřejných komunikačních sítí, určených pro přenos hlasu, podle doporučení CEPT/ECTRA REC(98)03 a doporučení CEPT/ECTRA REC(98)04 mezinárodní organizace CEPT (Conférence Européene des Administrations des Postes et des Télécommunications) - Evropská konference poštovních a telekomunikačních správ. Telefonním číslem podle tohoto číslovacího plánu se rozumí národní (významové) číslo v národním formátu podle doporučení CEPT/ECTRA REC(98)04.
+
+### § 4 – Mezinárodní číslo
+
+(1) Mezinárodní číslo, stanovené podle doporučení Mezinárodní telekomunikační unie ITU-T E.164, určuje mezinárodní adresu koncového bodu sítí uvedených v § 3.
+
+(2) Mezinárodní číslo se skládá z kódu země a telefonního čísla. Pro Českou republiku je kód země 420. Formát mezinárodního čísla je uveden v příloze č. 1.
+
+(3) Ve veřejných pevných komunikačních sítích a ve veřejných komunikačních sítích, určených pro přenos hlasu, je pro volbu mezinárodního čísla stanoven mezinárodní přestupný znak „00“ („nula“ „nula“), ve veřejných mobilních komunikačních sítích je mezinárodní přestupný znak „00“ („nula“ „nula“) nebo „+“ („plus“).
+
+### § 5 – Telefonní číslo ve veřejných komunikačních sítích
+
+(1) Telefonní číslo je část mezinárodního čísla, která následuje po kódu země a která stanovuje v národním formátu adresu koncového bodu sítí uvedených v § 3 pro přístup k uživatelům těchto sítí nebo pro přístup ke službám elektronických komunikací poskytovaným prostřednictvím těchto sítí.
+
+(2) Telefonní číslo pro veřejnou pevnou komunikační sít se skládá z kódu číslovací oblasti a doplňkových číslic nebo z přístupového kódu k síti a doplňkových číslic. Telefonní číslo pro veřejnou mobilní komunikační sít a pro veřejnou komunikační síť, určenou pro přenos hlasu, se skládá z přístupového kódu k síti a doplňkových číslic.
+
+(3) Telefonní číslo pro přístup ke službě elektronických komunikací se skládá z přístupového kódu ke službě elektronických komunikací a doplňkových číslic, popřípadě směrovacího kódu a doplňkových číslic. Přístupový kód ke službě elektronických komunikací určuje charakter služby nebo skupiny služeb.
+
+(4) Formáty telefonního čísla jsou uvedeny v příloze č. 1.
+
+(5) Telefonní číslo se podle této vyhlášky použije i pro stanovení adresy koncového bodu pro připojení neveřejné komunikační sítě.
+
+(6) Pro stanovení národní adresy koncového bodu sítí uvedených v § 3 lze použít i mezinárodní číslo podle § 4 odst. 2 s mezinárodním přestupným znakem podle § 4 odst. 3, pokud to tato síť technicky umožňuje.
+
+### § 6 – Zkrácené telefonní číslo
+
+(1) Zkrácené telefonní číslo stanovuje adresu koncových bodů sítí uvedených v § 3 pro přístup ke službě poskytované prostřednictvím těchto sítí.
+
+(2) Zkrácené telefonní číslo se skládá z přístupového kódu ke službě a doplňkových číslic. Přístupový kód ke službě určuje charakter služby nebo skupiny služeb. Zkrácená telefonní čísla jsou uvedena v příloze č. 1.
+
+### § 7 – Symetrická a lehce zapamatovatelná čísla
+
+(1) Symetrickým číslem se pro účely této vyhlášky rozumí telefonní číslo, jehož symetrie je vymezena středovou číslicí.
+
+(2) Lehce zapamatovatelným číslem se pro účely této vyhlášky rozumí každé telefonní číslo ve formátech uvedených v příloze č. 1 a každé třímístné, čtyřmístné, pětimístné zkrácené telefonní číslo nebo evropské harmonizované číslo.
+
+### § 8 – Kódy pro volbu a předvolbu operátora
+
+Kódy pro volbu operátora a předvolbu operátora jsou uvedeny v příloze č. 1. Po volbě kódu volby operátora nebo při nastaveném kódu předvolby operátora se při uskutečňování národního volání volí a předává telefonní číslo bez mezinárodního přestupného znaku podle § 4 odst. 3 a bez kódu země podle § 4 odst. 2.
+
+### § 9 – Mezinárodní identifikátor účastníka mobilní komunikační sítě
+
+(1) Mezinárodní identifikátor účastníka mobilní komunikační sítě identifikuje účastníka v mobilní komunikační síti podle doporučení Mezinárodní telekomunikační unie ITU-T E.212.
+
+(2) Mezinárodní identifikátor účastníka mobilní komunikační sítě se skládá z kódu země mobilní komunikační sítě, kódu mobilní komunikační sítě a identifikačního čísla účastníka mobilní komunikační sítě. Pro Českou republiku je stanoven kód země mobilní komunikační sítě 230. Formát mezinárodního identifikátoru účastníka mobilní komunikační sítě je uveden v příloze č. 1.
+
+### § 10 – Pravidla pro přidělování telefonních čísel
+
+(1) Telefonní čísla pro přístup k účastníkům veřejných komunikačních sítí se přidělují v číselné řadě po sobě jdoucích čísel s přírůstkem o velikosti „1“, a to v řadě 1 000 čísel a jejích násobcích pro veřejné pevné komunikační sítě a v řadě 10 000 čísel a jejích násobcích pro veřejné mobilní komunikační sítě.
+
+(2) Telefonní čísla pro přístup k účastníkům veřejné komunikační sítě určené pro přenos hlasu se přidělují v číselné řadě po sobě jdoucích čísel s přírůstkem o velikosti „1“, a to v řadě 10 000 čísel a jejích násobcích.
+
+(3) Telefonní čísla pro přístup ke službám elektronických komunikací se přidělují podle charakteru služby uvedeného v příloze č. 1 a v počtu uvedeném v žádosti o udělení oprávnění k využívání čísel.
+
+(4) Zkrácená telefonní čísla se přidělují podle charakteru služby uvedeného v příloze č. 1 a v počtu uvedeném v žádosti o udělení oprávnění k využívání čísel.
+
+(5) Telefonní čísla pro přístup k neveřejným komunikačním sítím s délkou 9 číslic se přidělují v číselné řadě po sobě jdoucích čísel s přírůstkem o velikosti „1“, a to v řadě 10 000 čísel a jejich násobcích.
+
+(6) Jednotné evropské tísňové číslo 112 a zkrácená telefonní čísla s kódem SAC = 15 se nepřidělují.
+
+## ČÁST TŘETÍ – ČÍSLOVACÍ PLÁN VEŘEJNÝCH DATOVÝCH SÍTÍ
+
+### § 11
+
+Číslovací plán veřejných datových sítí stanovuje číslování koncových bodů podle doporučení Mezinárodní telekomunikační unie ITU-T X.121 ve veřejných datových sítích provozovaných podle doporučení Mezinárodní telekomunikační unie ITU-T X.25 a ITU-T X.75.
+
+### § 12 – Mezinárodní datové číslo ve veřejných datových sítích
+
+(1) Mezinárodní datové číslo určuje adresu koncového bodu veřejné datové sítě podle doporučení Mezinárodní telekomunikační unie ITU-T X.121.
+
+(2) Mezinárodní datové číslo se skládá z datového kódu země a národního datového čísla, nebo identifikačního kódu veřejné datové sítě (dále jen „identifikační kód“) a síťového koncového datového čísla. Pro Českou republiku je stanoven datový kód země 230. Formát mezinárodního datového čísla je uveden v příloze č. 2.
+
+(3) Identifikační kód identifikuje veřejnou datovou síť nebo skupinu veřejných datových sítí nebo skupinu neveřejných datových sítí připojených k veřejným datovým sítím. Identifikační kód se skládá z datového kódu země a čísla veřejné datové sítě. Formát identifikačního kódu je uveden v příloze č. 2.
+
+### § 13 – Pravidla pro využívání identifikačních kódů a přestupných znaků
+
+(1) Jednomu operátorovi lze přidělit pouze jeden identifikační kód, který identifikuje všechny jeho datové sítě.
+
+(2) Identifikační kód neveřejné datové sítě připojené k veřejné datové síti stanoví operátor, jemuž byl přidělen identifikační kód veřejné datové sítě.
+
+(3) Přestupný znak pro datové spojení z veřejných datových sítí do veřejných dálnopisných sítí je číslice „8“, z veřejných datových sítí do veřejných komunikačních sítí s analogovým rozhraním je číslice „9“ a z veřejných datových sítí do veřejných komunikačních sítí s digitálním rozhraním ISDN je číslice „0“ („nula“) podle doporučení Mezinárodní telekomunikační unie ITU-T X.121.
+
+(4) V případě, že identifikační kód je společný pro skupinu veřejných datových sítí, je příslušná veřejná datová síť identifikována první číslicí následující po identifikačním kódu, kterou je číslice B ze síťového koncového datového čísla.
+
+## ČÁST ČTVRTÁ – ČÍSLOVACÍ PLÁN SÍŤOVÝCH SMĚROVACÍCH ČÍSEL
+
+### § 14
+
+Číslovací plán síťových směrovacích čísel stanovuje tvorbu síťových směrovacích čísel, hodnoty identifikačních čísel ústředen a identifikačních čísel sítí pro směrování volání ve veřejných komunikačních sítích.
+
+### § 15 – Síťové směrovací číslo
+
+(1) Síťové směrovací číslo určuje adresní informaci metodou sdružené adresy s telefonním číslem. Skládá se z kódu síťového směrovacího čísla a identifikačního čísla ústředny nebo z kódu síťového směrovacího čísla a identifikačního čísla sítě.
+
+(2) Formát síťového směrovacího čísla je uveden v příloze č. 3.
+
+### § 16 – Pravidla pro využívání síťových směrovacích čísel
+
+(1) Identifikační čísla ústředen se přidělují minimálně v řadě 10 čísel po sobě jdoucích s přírůstkem o velikosti „1“ z intervalu hodnot 1000 až 9999.
+
+(2) Identifikační čísla veřejné komunikační sítě se přidělují z intervalu hodnot 200 až 999.
+
+## ČÁST PÁTÁ – ČÍSLOVACÍ PLÁN SIGNALIZAČNÍCH SÍTÍ SE SIGNALIZAČNÍM SYSTÉMEM Č. 7
+
+### § 17
+
+(1) Číslovací plán signalizačních sítí se signalizačním systémem č. 7 stanovuje způsob přiřazování síťových indikátorů těmto sítím, způsob přiřazování kódů signalizačním bodům části mezinárodní signalizační sítě náležející České republice a způsob přiřazování kódů signalizačním bodům národní signalizační sítě.
+
+(2) Signalizačním systémem č. 7 se rozumí signalizační systém podle doporučení Mezinárodní telekomunikační unie ITU-T série Q.
+
+(3) Signalizačním bodem se pro účely této vyhlášky rozumí zařízení signalizační sítě se signalizačním systémem č. 7, které vysílá a přijímá signalizační zprávy mezi těmito sítěmi nebo uvnitř těchto sítí.
+
+### § 18 – Číslování mezinárodní signalizační sítě se signalizačním systémem č. 7
+
+(1) Mezinárodní signalizační síť se signalizačním systémem č. 7 je určena síťovým indikátorem mezinárodní signalizační sítě a kódy mezinárodních signalizačních bodů podle doporučení Mezinárodní telekomunikační unie ITU-T Q.708.
+
+(2) Kód mezinárodního signalizačního bodu je binární kód, který určuje signalizační bod v mezinárodní signalizační síti se signalizačním systémem č. 7.
+
+(3) Formát kódu mezinárodního signalizačního bodu je uveden v příloze č. 4.
+
+### § 19 – Číslování národní signalizační sítě se signalizačním systémem č. 7
+
+(1) Národní signalizační síť se signalizačním systémem č. 7 České republiky je určena síťovým indikátorem přechodové signalizační sítě se signalizačním systémem č. 7 a síťovými indikátory signalizačních sítí operátorů podle doporučení Mezinárodní telekomunikační unie ITU-T Q.708.
+
+(2) Formát kódu národního signalizačního bodu je uveden v příloze č. 4.
+
+### § 20 – Hodnoty síťových indikátorů
+
+Hodnoty síťových indikátorů signalizačních sítí se signalizačním systémem č. 7 jsou uvedeny v příloze č. 4.
+
+## ČÁST ŠESTÁ – ČÍSLOVACÍ PLÁN ČÍSEL IDENTIFIKUJÍCÍCH VYDAVATELE MEZINÁRODNÍCH TELEKOMUNIKAČNÍCH PLATEBNÍCH KARET A VYDAVATELE IDENTIFIKAČNÍCH ÚČASTNICKÝCH KARET
+
+### § 21
+
+Číslovací plán čísel identifikujících vydavatele mezinárodních telekomunikačních platebních karet a vydavatele identifikačních účastnických karet stanovuje způsob tvorby čísel identifikujících vydavatele mezinárodních telekomunikačních platebních karet a vydavatele identifikačních účastnických karet (SIM karet).
+
+### § 22 – Základní číslo účtu
+
+(1) Základní číslo účtu se využívá k číslování mezinárodních telekomunikačních platebních karet a identifikačních účastnických karet (SIM karet) (dále jen „karty“) podle doporučení Mezinárodní telekomunikační unie ITU-T E.118.
+
+(2) Základní číslo účtu se skládá z identifikačního čísla vydavatele karet, čísla identifikujícího individuální účet a Luhnovy kontrolní číslice, která slouží ke kontrole validity základního čísla účtu.
+
+(3) Identifikační číslo vydavatele karet se skládá z identifikátoru hlavního odvětví, kódu země, pro kterou jsou karty určeny, a identifikátoru vydavatele karet.
+
+(4) Identifikátor hlavního odvětví pro elektronické komunikace je stanoven číslem 89.
+
+(5) Pro karty používané v České republice je stanoven kód země 420.
+
+(6) Formát základního čísla účtu je uveden v příloze č. 5.
+
+## ČÁST SEDMÁ – ČÍSLOVACÍ PLÁN MNEMOTECHNICKÝCH ADRES VEŘEJNÝCH ADMINISTRAČNÍCH MANAGEMENTOVÝCH DOMÉN PRO SYSTÉM ZPROSTŘEDKOVÁNÍ ZPRÁV
+
+### § 23
+
+Číslovací plán mnemotechnických adres veřejných administračních managementových domén pro systém zprostředkování zpráv stanovuje způsob tvorby mnemotechnických adres veřejných administračních managementových domén v systému zprostředkování zpráv podle doporučení Mezinárodní telekomunikační unie ITU-T F.400 a ITU-T F.401.
+
+### § 24 – Pravidla pro tvorbu mnemotechnických adres veřejných administračních managementových domén
+
+(1) Veřejnou administrační managementovou doménou (dále jen „doména“) se rozumí oblast, která obsahuje systémy výměny zpráv provozované jedním poskytovatelem služby. Tento poskytovatel je správcem domény.
+
+(2) Uživatelem systému výměny zpráv se rozumí každý, kdo přijímá nebo vysílá zprávy v tomto systému.
+
+(3) Mnemotechnická adresa domény se skládá vždy ze jména země a jména domény a volitelných atributů podle přílohy č. 6. V mnemotechnické adrese domény musí být z volitelných atributů vždy obsažen alespoň atribut „jméno“ nebo atribut „příjmení“ anebo atribut „název organizace“.
+
+(4) Pro Českou republiku je stanoveno jméno země „CZ“.
+
+(5) Jméno domény je určeno k adresování odesílaných a přijímaných zpráv.
+
+(6) Ustanovení odstavců 1 až 5 se vztahují obdobně i na neveřejné managementové domény, které jsou připojeny k doméně.
+
+## ČÁST OSMÁ – ZVLÁŠTNÍ PŘÍPADY VYUŽÍVÁNÍ ČÍSEL
+
+### § 25
+
+Ve veřejné komunikační síti se mohou používat kódy tvořené kombinací číslic se znaky „\*“ („hvězdička“) nebo „#“ („dvojitý křížek“), nebo kombinací číslic, která nesmí začínat číslicí „1“, a které umožňují v závislosti na jejich délce směrování na služby pouze uvnitř sítě operátora. Služby adresované těmito kódy nejsou uživatelům z ostatních veřejných komunikačních sítí dostupné.
+
+### § 26
+
+K zasílání krátkých textových zpráv (SMS) a multimediálních zpráv (MMS) ve veřejných komunikačních sítích se využívají krátké kódy, tvořené kombinací číslic, které nejsou telefonními čísly ani zkrácenými telefonními čísly, to neplatí pro tísňová čísla.
+
+### § 26a
+
+Pro účely zasílání krátkých textových zpráv v rámci tísňové komunikace s centrem tísňové komunikace ze strany účastníka, který je na území České republiky roamingovým zákazníkem v navštívené síti ve smyslu přímo použitelného předpisu Evropské unie upravujícího roaming ve veřejných mobilních komunikačních sítích v Unii<sup>2</sup>), se použije telefonní číslo „+420 720 000 112“. Využití tohoto čísla má povahu a důsledky využívání tísňového čísla.
+
+### § 27
+
+Telefonní čísla označená jako rezerva bez konkrétního účelu nebo rezerva pro konkrétní účel se nepřidělují.
+
+## ČÁST DEVÁTÁ – PŘENOSITELNOST ČÍSEL
+
+### § 27a
+
+(1) Geografická komunikační čísla lze přenášet jen v příslušné číslovací oblasti, jejíž kód TC uvedený v příloze č. 1 se shoduje s první nebo s první i druhou číslicí telefonního čísla.
+
+(2) Blok telefonních čísel určených pro připojení telekomunikačního koncového zařízení ve funkci pobočkové ústředny k veřejné pevné komunikační síti lze ze sítě, ke které je v době přenášení připojeno, přenášet do veřejné pevné komunikační sítě jiného operátora pouze jako celý blok.
+
+(3) Blok telefonních čísel určených pro připojení telekomunikačního koncového zařízení ve funkci pobočkové ústředny k veřejné mobilní komunikační síti lze ze sítě, ke které je v době přenášení připojeno, přenášet do veřejné mobilní komunikační sítě jiného operátora pouze jako celý blok.
+
+(4) Mezinárodní identifikátor účastníka mobilní komunikační sítě (IMSI) je nepřenositelný.
+
+(5) Povinnost přenositelnosti podle zákona o elektronických komunikacích se nevztahuje na
+
+a) čísla pro přístup ke službě využívaná současně ve veřejných komunikačních sítích více operátorů,
+
+b) zkrácená komunikační čísla,
+
+c) čísla s přístupovým kódem ke službě (SAC) 800 a číslicemi A=0, B=0,
+
+d) čísla se směrovacím kódem 701, 93, 960 až 969, 970 a 977,
+
+e) čísla s přístupovým kódem 972 až 974, 980, 983 a 98900 až 98999 a
+
+f) jednotlivá čísla z přiděleného bloku čísel s přístupovým kódem 95000 až 95999.
+
+## ČÁST DESÁTÁ – ZÁVĚREČNÁ USTANOVENÍ
+
+### § 28 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2007.
+
+Ministr:
+
+MUDr. Mgr. Langer v. r.
+
+### Příloha č. 1 k vyhlášce č. 117/2007 Sb.
+
+#### Číslovací plán veřejných telefonních sítí
+
+1\. Formát mezinárodního čísla
+
+##### ![sbcr2007c043z0117p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873445/NAHLED/ZOBRAZ/sbcr2007c043z0117p001o001)
+
+2\. Formáty telefonního čísla
+
+##### ![sbcr2007c043z0117p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873447/NAHLED/ZOBRAZ/sbcr2007c043z0117p001o002)
+
+kde je:
+
+TC – kód číslovací oblasti,
+
+DNe – přístupový kód k síti,
+
+SAC – přístupový kód ke službě,
+
+n – počet číslic kódu číslovací oblasti nebo přístupového kódu k síti nebo přístupového kódu ke službě.
+
+3\. Kódy volby a předvolby operátora
+
+| 1000 až 1059 | Kód volby a předvolby podnikatele poskytujícího hlasovou komunikační službu | |
+|---|---|---|
+| 10600 až 10999 | Rezerva | |
+
+4\. Zkrácená komunikační čísla
+
+4.1. Zkrácená komunikační čísla pro přístup ke službám s kódem SAC = 11
+
+| 110 až 111 | Rezerva | |
+|---|---|---|
+| 112 | Jednotné evropské tísňové číslo | |
+| 113 až 115 | Rezerva | |
+| 116000 až 116111 | Evropská harmonizovaná čísla | 1) |
+| 116112 | Rezerva | 1) |
+| 116113 až 116999 | Evropská harmonizovaná čísla | 1) |
+| 117 | Rezerva | |
+| 1180 až 1189 | Informace o národních a mezinárodních telefonních číslech účastníků a další související informace | |
+| 119 | Rezerva | |
+
+1\) Rozhodnutí Komise 2007/116/ES o vyhrazení vnitrostátního číselného rozsahu „116“ pro harmonizovaná čísla harmonizovaných služeb se sociální hodnotou.
+
+4.2. Zkrácená komunikační čísla pro přístup ke službám s kódem SAC = 12
+
+| 1200 až 1240 | Služby pro zdravotně postižené, sociální a zdravotní služby, havarijní služby | |
+|---|---|---|
+| 12410 až 12999 | Služby pro zdravotně postižené, sociální a zdravotní služby, havarijní služby, informační služby | |
+
+4.3. Zkrácená komunikační čísla pro přístup ke službám s kódem SAC = 13
+
+| 130000 až 130199 | Přístup na zkušební a testovací zařízení | 1) |
+|---|---|---|
+| 130200 až 130999 | Rezerva pro zkušební a testovací zařízení | 1) |
+| 13100 až 13199 | Ohlašovna poruch veřejně dostupné služby elektronických komunikací | |
+| 1132000 až 132100 | Rezerva pro ohlašovny poruch | |
+| 132101 | Ohlašovna poruch ostatních veřejně dostupných služeb elektronických komunikací | |
+| 132102 až 132999 | Rezerva pro ohlašovny poruch | |
+| 133000 | Rezerva pro ohlašovnu volání | |
+| 133001 | Telefonické podávání telegramů | |
+| 133002 | Ohlašovna národních volání | |
+| 133003 až 133007 | Ohlašovna mezinárodních volání | |
+| 133008 | Rezerva pro ohlašovnu mezinárodních volání | |
+| 133009 | Ohlašovna účelové komunikační sítě | |
+| 133010 až 133989 | Rezerva pro nekomerční služby operátorů | |
+| 133990 až 133993 | Ohlašovna národních volání | |
+| 133994 až 133999 | Rezerva pro ohlašovny národních volání | |
+| 13400 až 13999 | Rezerva | |
+
+1\) Číslo se nezveřejňuje v telefonním seznamu.
+
+4.4. Zkrácená komunikační čísla pro přístup ke službám s kódem SAC = 14
+
+| 14000 až 14500 | Služby pro zdravotně postižené, sociální a zdravotní služby, havarijní služby, informační, asistenční a bezpečnostní služby | |
+|---|---|---|
+| 14501 až 14999 | Rezerva pro zdravotně postižené, sociální a zdravotní služby, havarijní služby, informační služby | |
+
+4.5. Zkrácená komunikační čísla tísňových volání s kódem SAC = 15
+
+| 150 | Hasičský záchranný sbor | |
+|---|---|---|
+| 151 | Rezerva pro národní tísňové volaní | |
+| 152 | Ministerstvo vnitra – Generální ředitelství Hasičského záchranného sboru | 1) |
+| 153 | Rezerva pro národní tísňové volání | |
+| 154 | Rezerva pro národní tísňové volaní | |
+| 155 | Zdravotní záchranná služba | |
+| 156 | Obecní policie | |
+| 157 | Rezerva pro národní tísňové volaní | |
+| 158 | Policie České republiky | |
+| 159 | Rezerva pro národní tísňové volaní | |
+
+1\) Číslo je určeno pro testování, nezveřejňuje se v telefonním seznamu.
+
+4\. 6. Zkrácená telefonní čísla pro přístup ke službám s kódem SAC = 16, s kódem SAC = 17 a s kódem SAC = 18
+
+| 1600 až 1899 | Rezerva |
+|---|---|
+
+4.7. Zkrácená komunikační čísla pro přístup ke službám s kódem SAC = 19
+
+| 190 až 198 | Rezerva | |
+|---|---|---|
+| 199 | Protikorupční linka | |
+
+5\. Kódy číslovacích oblastí (kódy TC)
+
+| Kódy TC | Číslovací oblast |
+|---|---|
+| 2<sup>1</sup>), 31<sup>1</sup>), 32<sup>1</sup>)<sup><br></sup> | Hlavní město Praha, Středočeský kraj |
+| 35 | Karlovarský kraj |
+| 37 | Plzeňský kraj |
+| 38, 39 | Jihočeský kraj |
+| 41, 47 | Ústecký kraj |
+| 46 | Pardubický kraj |
+| 48 | Liberecký kraj |
+| 49 | Královéhradecký kraj |
+| 51, 53, 54 | Jihomoravský kraj |
+| 55, 59 | Moravskoslezský kraj |
+| 56 | Kraj Vysočina |
+| 57 | Zlínský kraj |
+| 58 | Olomoucký kraj |
+| 01 až 09, 20, 30, 33, 34, 36, 40, 42, 43, <br> 44, 45, 50, 52 | Rezerva |
+
+1\) Krajskou příslušnost telefonního čísla určuje geografická poloha koncového bodu veřejné pevné komunikační sítě.
+
+6\. Přístupové kódy k síti elektronických komunikací
+
+<table><tbody><tr><th rowspan="2">Přístupové kódy k síti<br> (DNe)</th><th rowspan="2">Síť elektronických komunikací</th><th colspan="4">Číslice následující po přístupovém kódu</th><th rowspan="2">Poznámky</th></tr><tr><th>A</th><th>B</th><th>C</th><th>D</th></tr><tr><td>600</td><td>Rezerva pro veřejné mobilní komunikační sítě</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>601 až 608</td><td>Veřejná mobilní komunikační síť</td><td></td><td></td><td></td><td></td><td>Nelze použít pro poskytování hlasové komunikační služby v pevném místě.</td></tr><tr><td>609, 620 až 699</td><td>Rezerva pro veřejné mobilní komunikační sítě</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>610 až 614</td><td>Veřejná mobilní komunikační síť</td><td></td><td></td><td></td><td></td><td>Poskytování služeb elektronických komunikací jiných, než jsou interpersonální komunikační služby, na celém území Evropské unie<sup>1</sup>).</td></tr><tr><td>615 až 619</td><td>Rezerva pro veřejné mobilní komunikační sítě</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>700</td><td>Veřejná síť univerzálních osobních telekomunikací (UPT) podle doporučení ITU-T E.168, ITU-T F.851 a ITU-T F.852</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>702 až 719</td><td>Veřejná mobilní komunikační síť</td><td></td><td></td><td></td><td></td><td>Nelze použít pro poskytování hlasové komunikační služby v pevném místě.</td></tr><tr><td>72, 73</td><td>Veřejná mobilní komunikační síť</td><td></td><td></td><td></td><td></td><td>Nelze použít pro poskytování hlasové komunikační služby v pevném místě.</td></tr><tr><td>74 až 76</td><td>Rezerva pro veřejné mobilní komunikační sítě</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>77</td><td>Veřejná mobilní komunikační síť</td><td></td><td></td><td></td><td></td><td>Nelze použít pro poskytování hlasové komunikační služby v pevném místě.</td></tr><tr><td>78</td><td>Rezerva pro veřejné mobilní komunikační sítě</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7900 až 7999</td><td>Veřejná mobilní komunikační síť</td><td></td><td></td><td></td><td></td><td>Nelze použít pro poskytování hlasové komunikační služby v pevném místě.</td></tr><tr><td>910</td><td>Veřejné komunikační sítě pro přenos hlasu</td><td></td><td></td><td></td><td></td><td>Pro poskytování hlasové komunikační služby je možné využít nomadicitu koncového bodu sítě.</td></tr><tr><td>911 až 919</td><td>Rezerva pro veřejné komunikační sítě určené pro přenos hlasu</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>971</td><td>Přístup k síti Internet prostřednictvím poskytovatele přístupu ke službě</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>976</td><td>Přístup k veřejné datové síti a k síti Internet s vyjádřenou cenou prostřednictvím poskytovatele přístupu ke službě.</td><td>+</td><td>+</td><td></td><td></td><td>Kombinace číslic A, B určuje výši ceny volání za minutu v Kč vč. DPH.<br> Pokud A=0, pak B≠0.</td></tr></tbody></table>
+
+7\. Přístupové kódy ke službě elektronických komunikací
+
+<table><tbody><tr><th rowspan="2">Přístupové kódy<br> (SAC)</th><th rowspan="2">Služba elektronických komunikací</th><th colspan="4">Číslice následující po přístupovém kódu</th><th rowspan="2">Poznámky</th></tr><tr><th>A</th><th>B</th><th>C</th><th>D</th></tr><tr><td>800</td><td>Přístup ke službám na účet volaného podle normy ETS 300 208 a doporučení ITU-T E.152</td><td>+</td><td>+</td><td></td><td></td><td></td></tr><tr><td>800</td><td>Přístup ke službám přímého volání ze zahraničí do vlastní země (Home Country Direct) podle doporučení ITU-T E. 153</td><td>+</td><td>+</td><td>+</td><td>+</td><td>A=0, B=0<br> Kombinace číslic C, D určuje poskytovatele přístupu ke službě</td></tr><tr><td>801 až 809</td><td>Rezerva pro přístup ke službám se sdílenými náklady</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>810 až 819</td><td>Přístup ke službám se sdílenými náklady podle normy ETS 300 710 a doporučení ITU-T E.154</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>820 až 829</td><td>Přístup ke službám virtuálních volacích karet podle normy ETS 300711 a doporučení ITU-T E.116 a ITU-T E.118</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>830 až 839</td><td>Přístup ke službám se sdílenými náklady podle normy ETS 300 710 a doporučení ITU-T E.154</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>840 až 842, 847 až 849</td><td>Přístup ke službám univerzálního přístupového čísla podle normy ETS 300 710 a doporučení ITU-T E.154</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>843 až 846</td><td>Přístup ke službám se sdílenými náklady podle normy ETS 300 710 a doporučení ITU-T E.154</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>850 až 899</td><td>Rezerva pro přístup ke službám se sdílenými náklady</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>900</td><td>Přístup ke službám s vyjádřenou cenou - hlasové služby - zejména obchodní, odborné, inzertní a soutěžní služby podle normy ETS 300 712 a doporučení ITU-T E.155</td><td>+</td><td>+</td><td></td><td></td><td>Pokud číslice A=0, pak 1 číslice B≠0.<br> Kombinace číslic A, B určuje výši ceny volání v Kč za minutu, vč. DPH.</td></tr><tr><td>901 až 904</td><td>Rezerva pro přístup ke službám s vyjádřenou cenou zejména obchodní, odborné, inzertní a soutěžní služby</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>905</td><td>Přístup ke službám s vyjádřenou cenou - hlasové služby - jednorázová cena za spojení podle normy ETS 300 712 a doporučení ITU-T E.155</td><td>+</td><td>+</td><td></td><td></td><td>Číslice A≠0<br> Desetinásobek kombinace číslic A, B určuje výši ceny za jedno volání v Kč, vč. DPH</td></tr><tr><td>906</td><td>Přístup ke službám s vyjádřenou cenou -hlasové služby -zejména obchodní, odborné, inzertní a soutěžní služby podle normy ETS 300 712 a doporučení ITU-T E.155</td><td>+</td><td>+</td><td></td><td></td><td>Pokud číslice A=0, pak 1 číslice B≠0.<br> Kombinace číslic A, B určuje výši ceny volání v Kč za minutu, vč. DPH.</td></tr><tr><td>907</td><td>Rezerva pro přístup ke službám s vyjádřenou cenou zejména obchodní, odborné, inzertní a soutěžní služby</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>908</td><td>Přístup ke službám s vyjádřenou cenou -hlasové služby jednorázová cena za spojení podle normy ETS 300 712 a doporučení ITU-T E.155</td><td>+</td><td>+</td><td></td><td></td><td>Kombinace číslic A, B určuje výši ceny zajedno volání v Kč, vč. DPH.</td></tr><tr><td>909</td><td>Přístup ke službám s vyjádřenou cenou -hlasové služby - zábavné služby pro dospělé podle normy ETS 300 712 a doporučení ITU-T E.155</td><td>+</td><td>+</td><td></td><td></td><td>Pokud číslice A=0, pak 1 číslice B≠0.<br> Kombinace číslic A, B určuje výši ceny volání v Kč za minutu, vč. DPH.</td></tr><tr><td>92</td><td>Rezerva pro přístup ke službám s vyjádřenou cenou</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>940 až 949</td><td>Rezerva pro přístup ke službám s vyjádřenou cenou</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Vysvětlivka:
+
+Symbol „+“ označuje regulované číslice telefonního čísla z rozsahu 0 až 9, pokud v tabulce není uvedeno jinak.
+
+8\. Směrovací kódy
+
+| Směrovací kódy | Veřejná komunikační síť <br> nebo služba <br> elektronických <br> komunikací | Poznámka |
+|---|---|---|
+| 701 | Přístup k veřejné síti univerzálních osobních telekomunikací (UPTAN) podle doporučení ITU-T E.168, ITU-T F.851 a ITU-T F.852 | Po směrovacím kódu následuje kombinace 3 číslic A,B,C a kód země České republiky (420). Přístupové číslo UPTAN je 9 místné. Kombinace číslic A,B,C určuje poskytovatele služby univerzálních osobních telekomunikací. Směrovací kód se přiděluje jako součást přístupového čísla UPTAN. |
+| 970 | Přístup k veřejné komunikační síti určené pro přenos hlasu prostřednictvím internetového protokolu | Po volbě směrovacího kódu se volí komunikační číslo nebo mezinárodní přestupný znak a mezinárodní číslo. Směrovací kód se nepřiděluje. |
+| 977 | Přístup k veřejným datovým sítím a interaktivním službám s výjimkou přístupu k síti Internet | Po volbě směrovacího kódu se volí mezinárodní datové číslo. Směrovací kód se nepřiděluje. |
+| 978 až 979 | Rezerva pro přístup k veřejným datovým sítím a interaktivním službám s výjimkou přístupu k síti Internet | |
+| 93 | Celostátní záznamníková služba a služba předávání hlasových zpráv | Délka telefonního čísla je 11 číslic. Směrovací kód se přiděluje. |
+| 960 až 969 | Celostátní záznamníková služba a služba předávání hlasových zpráv | Délka telefonního čísla je 9 až 12 číslic. Směrovací kód se přiděluje. |
+
+9\. Přístupové kódy k neveřejným komunikačním sítím
+
+| Přístupové kódy | Druh neveřejných sítí | Poznámka |
+|---|---|---|
+| 95000 až 95999 | Přístup k neveřejným komunikačním sítím | Délka telefonního čísla je 9 číslic. |
+| 972 až 974 | Přístup k neveřejným komunikačním sítím | Délka telefonního 1 čísla je 9 číslic. |
+| 975 | Rezerva přístupu k neveřejným komunikačním sítím | |
+| 980 | Přístup k virtuální neveřejné komunikační síti (VPN) | Délka telefonního 1 čísla je 9 až 12 číslic. |
+| 981 až 982 | Rezerva pro přístup k virtuální neveřejné komunikační síti (VPN) | |
+| 983 | Přístup k virtuální neveřejné komunikační síti (VPN) | Délka telefonního 1 čísla je 7 číslic. |
+| 984 až 988 | Rezerva pro přístup k virtuální neveřejné komunikační síti (VPN) | |
+| 98900 až 98999 | Přístup k virtuální neveřejné komunikační síti (VPN) | Délka telefonního čísla je 9 číslic. |
+| 990 až 999 | Rezerva | |
+
+10\. Formáty lehce zapamatovatelných čísel
+
+Formáty lehce zapamatovatelných čísel jsou:
+
+10.1 SAC YYY ZZZ, nebo SAC XYZ XYZ, kde kód SAC je trojmístný a kde X, Y a Z je v čísle jedna jediná hodnota z intervalu 0 až 9;
+
+10.2 DNe YYY ZZZ, nebo DNe XYZ XYZ, kde kód DNe je trojmístný a kde X,Y a Z je v čísle jedna jediná hodnota z intervalu 0 až 9;
+
+10.3 SAC XYX YXY, kde kód SAC je trojmístný a kde X a Y je v čísle jedna jediná hodnota z intervalu 0 až 9;
+
+10.4 DNe XYX YXY, kde kód DNe je trojmístný a kde X a Y je v čísle jedna jediná hodnota z intervalu 0 až 9;
+
+10.5 SAC XYZ UVW nebo DNe XYZ UVW, kde kód SAC je trojmístný, kód DNe je trojmístný a kde X je jedna jediná hodnota z intervalu 0 až 4 a hodnoty Y, Z, U, V, W následují vzestupně s přírůstkem o velikosti „1“, nebo X je v čísle jedna jediná hodnota z intervalu 5 až 9 a hodnoty Y, Z, U, V, W následují sestupně s úbytkem o velikosti „1“.
+
+11\. Formát mezinárodního identifikátoru účastníka mobilní komunikační sítě
+
+##### ![sbcr2007c043z0117_2012c046z0124o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873449/NAHLED/ZOBRAZ/sbcr2007c043z0117_2012c046z0124o002)
+
+kde je:
+
+MCC – mezinárodní kód mobilní komunikační sítě,
+
+MNC – kód mobilní komunikační sítě,
+
+MSIN – identifikační číslo účastníka mobilní komunikační sítě,
+
+IMSI – mezinárodní identifikátor účastníka mobilní komunikační sítě.
+
+12\. Číselný rozsah pro využívání kódu mobilní komunikační sítě
+
+| Číselný rozsah | Kód mobilní komunikační sítě |
+|---|---|
+| 00 | Rezerva |
+| 01 až 49 | Kód mobilní komunikační sítě |
+| 50 až 90 | Rezerva |
+| 91 až 99 | Kód mobilní komunikační sítě |
+
+### Příloha č. 2 k vyhlášce č. 117/2007 Sb.
+
+#### Číslovací plán veřejných datových sítí
+
+1\. Formát mezinárodního datového čísla
+
+##### ![sbcr2007c043z0117p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873451/NAHLED/ZOBRAZ/sbcr2007c043z0117p002o001)
+
+kde je:
+
+DCC – datový kód země, 3 číslice,
+
+NN – národní datové číslo, maximálně 11 číslic,
+
+DNIC – identifikační kód veřejné datové sítě, 4 číslice,
+
+NTN – síťové koncové datové číslo, maximálně 10 číslic,
+
+N – číslo veřejné datové sítě, 1 číslice,
+
+B – první číslice NTN.
+
+2\. Formát mezinárodního datového čísla koncových bodů neveřejných datových sítí připojených na veřejné datové sítě
+
+##### ![sbcr2007c043z0117p002o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873453/NAHLED/ZOBRAZ/sbcr2007c043z0117p002o002)
+
+kde je:
+
+DCC – datový kód země, 3 číslice,
+
+N – číslo veřejné datové sítě, 1 číslice,
+
+DNIC – identifikační kód veřejné datové sítě, 4 číslice,
+
+PNIC – identifikační kód neveřejné datové sítě, 2 až 6 číslic; první číslice nabývá hodnot z intervalu 2 až 9,
+
+kód PNIC identifikuje koncový bod veřejné datové sítě, který je přístupovým bodem pro neveřejnou datovou síť,
+
+PvtNTN – číslo koncového bodu neveřejné datové sítě, 4 až 8 číslic.
+
+### Příloha č. 3 k vyhlášce č. 117/2007 Sb.
+
+#### Číslovací plán síťových směrovacích čísel
+
+1\. Formát síťového směrovacího čísla ve sdružené adrese s telefonním číslem
+
+1.1
+
+###### ![sbcr2007c043z0117.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873753/NAHLED/ZOBRAZ/sbcr2007c043z0117)
+
+1.2
+
+###### ![sbcr2007c043z0117 (2).tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873755/NAHLED/ZOBRAZ/sbcr2007c043z0117 (2))
+
+kde je:
+
+C<sub>14</sub> – kód síťového směrovacího čísla vyjádřený v hexadecimální soustavě má hodnotu 14,
+
+ExID – identifikační číslo ústředny, 4 číslice,
+
+0 – číslo 0 (nula) určuje, že následuje identifikační číslo sítě,
+
+OpID – identifikační číslo sítě, 3 číslice,
+
+DN – telefonní číslo, maximálně 9 číslic,
+
+NRN – síťové směrovací číslo.
+
+2\. Formát síťového směrovacího čísla pro směrování tísňové komunikace prostřednictvím volání a směrování volání na zkrácená telefonní čísla pro přístup ke službám
+
+##### ![sbcr2007c043z0117 (3).tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873757/NAHLED/ZOBRAZ/sbcr2007c043z0117 (3))
+
+kde je:
+
+C<sub>14</sub> – kód síťového směrovacího čísla, má hodnotu 14,
+
+ExID – identifikační číslo ústředny, 4 číslice,
+
+NRN – síťové směrovací číslo.
+
+### Příloha č. 4 k vyhlášce č. 117/2007 Sb.
+
+#### Číslovací plán signalizačních sítí se signalizačním systémem č. 7
+
+1\. Formát kódu mezinárodního signalizačního bodu mezinárodní signalizační sítě se signalizačním systémem č. 7
+
+<table><tbody><tr><th colspan="3">Kód mezinárodního signalizačního bodu (14 bitů) </th></tr><tr><th colspan="2">Kód signalizační oblasti nebo sítě <br> (11 bitů) </th><th rowspan="2">Kód identifikace <br> signalizačního <br> bodu <br> (3 bity) </th></tr><tr><th>Kód <br> identifikace <br> geografické <br> zóny <br> (3 bity)</th><th>Kód identifikace oblasti nebo sítě <br> (8 bitů)</th></tr><tr><td>NML</td><td>KJIHGFED</td><td>CBA</td></tr></tbody></table>
+
+Poznámky:
+
+První vyhodnocovaný bit kódu mezinárodního signalizačního bodu je bit A.
+
+Kódy signalizačních oblastí pro Českou republiku jsou 2-060, 2-228, 2-229, 2-230, 2-231 a 6-234.
+
+2\. Formát kódu signalizačního bodu přechodové signalizační sítě se signalizačním systémem č. 7
+
+<table><tbody><tr><th colspan="2"> Kód signalizačního bodu přechodové sítě (14 bitů)</th></tr><tr><th>Kód identifikace operátora nebo jiného subjektu (SPC<sub>p</sub>) (6 bitů)</th><th>Kód identifikace individuálního signalizačního bodu (SPC<sub>b</sub>) (8 bitů)</th></tr><tr><td>N´ M´ L´ K´ J´ I´</td><td>H´ G´ F´ E´ D´ C´ B´ A´</td></tr></tbody></table>
+
+Poznámka:
+
+První vyhodnocovaný bit kódu signalizačního bodu je bit A'.
+
+3\. Hodnoty síťových indikátorů signalizačních sítí se signalizačním systémem č. 7
+
+##### ![sbcr2007c043z0117p004o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873759/NAHLED/ZOBRAZ/sbcr2007c043z0117p004o001)
+
+kde je:
+
+NI – síťový indikátor,
+
+SS č. 7 – signalizační systém č. 7.
+
+### Příloha č. 5 k vyhlášce č. 117/2007 Sb.
+
+#### Číslovací plán čísel identifikujících vydavatele mezinárodních telekomunikačních platebních karet a vydavatele identifikačních účastnických karet
+
+1\. Formát základního čísla účtu
+
+##### ![sbcr2007c043z0117 (4).tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/873761/NAHLED/ZOBRAZ/sbcr2007c043z0117 (4))
+
+kde je:
+
+MII – identifikátor hlavního odvětví,
+
+IIN – identifikátor vydavatele karty,
+
+L – Luhnova kontrolní číslice.
+
+### Příloha č. 6 k vyhlášce č. 117/2007 Sb.
+
+#### Číslovací plán mnemotechnických adres veřejných administračních managementových domén pro systém zprostředkování zpráv
+
+1.Tabulka atributů mnemotechnické adresy
+
+| Atributy | Název atributu | Status | Max. počet znaků |
+|---|---|---|---|
+| C | Jméno země | P | 2 |
+| A | Jméno ADMD | P | 16 |
+| P | Jméno PRMD | P v případě, že existuje | 16 |
+| PN | Osobní jméno | V | 64 |
+| S | Příjmení | V | 40 |
+| G | Jméno | V | 16 |
+| I | Iniciály | V | 5 |
+| Q | Generační označení | V | 3 |
+| O | Název organizace | V | 64 |
+| OU | Organizační jednotka | V | 32 |
+| CN | Společné jméno | V | 64 |
+
+kde je:
+
+P – povinný atribut,
+
+V – volitelný atribut.
+
+2\. Využití znaků v mnemotechnických adresách veřejných administračních managementových domén a neveřejných managementových domén
+
+Názvy atributů mnemotechnické adresy veřejné administrační managementové domény nebo neveřejné managementové domény mohou být vytvořeny pouze z následujících znaků:
+
+a) velkých písmen z Mezinárodní referenční abecedy podle doporučení CCITT T.50 (bez znaků s diakritickými znaménky) „ A, B, C, D, ...... Z “,
+
+b) malých písmen z Mezinárodní referenční abecedy podle doporučení CCITT T.50 (bez znaků s diakritickými znaménky) „ a, b, c, d, ...... z “,
+
+c) číslic „0, 1, ............. 9“,
+
+d) znaku mezera „ “,
+
+e) znaku apostrof „ ' “,
+
+f) znaku levá závorka „ ( “,
+
+g) znaku pravá závorka „ ) “,
+
+h) znaku plus „ + “,
+
+i) znaku čárka „ , “,
+
+j) znaku pomlčka „ - “,
+
+k) znaku tečka „ . “,
+
+l) znaku lomítko „ / “,
+
+m) znaku dvojtečka „ : “,
+
+n) znaku rovnítko „ = “,
+
+o) znaku otazník „ ? “.
+
+Nelze použít jména veřejných administračních managementových domén nebo neveřejných managementových domén, která se liší pouze počtem nebo umístěním znaků „mezera“ nebo velkými či malými písmeny.
+
+---
+
+<sup>1</sup>) Čl. 93 odst. 4 směrnice Evropského parlamentu a Rady (EU) 2018/1972 ze dne 11. prosince 2018, kterou se stanoví evropský kodex pro elektronické komunikace.
+
+<sup>2</sup>) Nařízení Evropského parlamentu a Rady (EU) 2022/612 ze dne 6. dubna 2022 o roamingu ve veřejných mobilních komunikačních sítích v Unii (přepracované znění).

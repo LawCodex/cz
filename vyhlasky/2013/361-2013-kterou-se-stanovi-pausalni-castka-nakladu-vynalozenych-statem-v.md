@@ -1,0 +1,48 @@
+---
+title: "Vyhláška č. 361/2013 Sb., kterou se stanoví paušální částka nákladů vynaložených státem v souvislosti s převzetím odsouzeného"
+identifier: "361/2013 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2013/361/2014-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2013-11-04
+effective: 2014-01-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2013/361"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 361/2013 Sb., kterou se stanoví paušální částka nákladů vynaložených státem v souvislosti s převzetím odsouzeného
+
+361
+
+VYHLÁŠKA
+
+ze dne 4. listopadu 2013,
+
+kterou se stanoví paušální částka nákladů vynaložených státem v souvislosti s převzetím odsouzeného
+
+Ministerstvo spravedlnosti stanoví podle § 132 odst. 3 zákona č. 104/2013 Sb., o mezinárodní justiční spolupráci ve věcech trestních:
+
+## § 1
+
+Paušální částka nákladů, které Česká republika vynaložila v souvislosti s převzetím odsouzeného, který byl se svým souhlasem převzat z cizího státu k výkonu nepodmíněného trestu odnětí svobody uloženého uznaným cizozemským rozhodnutím, činí
+
+a) 5 000 Kč, předává-li odsouzeného cizí stát, se kterým má Česká republika společnou státní hranici,
+
+b) 65 000 Kč, předává-li odsouzeného cizí stát z jiného místa nacházejícího se na území Evropy, a
+
+c) 150 000 Kč v ostatních případech.
+
+## § 2
+
+Vyhláška č. 24/2002 Sb., kterou se stanoví paušální částka nákladů vynaložených státem v souvislosti s předáním odsouzených, se zrušuje.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2014.
+
+Ministryně:
+
+Mgr. Benešová v. r.

@@ -1,0 +1,54 @@
+---
+title: "Nařízení vlády č. 283/2010 Sb., kterým se pro účely důchodového pojištění stanoví výše všeobecného vyměřovacího základu za rok 2009 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2009 a upravují částky pro stanovení výpočtového základu"
+identifier: "283/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/283/2011-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2010-09-29
+effective: 2011-01-01
+last_amended: 2011-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/283"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 283/2010 Sb., kterým se pro účely důchodového pojištění stanoví výše všeobecného vyměřovacího základu za rok 2009 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2009 a upravují částky pro stanovení výpočtového základu
+
+283
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 29. září 2010,
+
+kterým se pro účely důchodového pojištění stanoví výše všeobecného vyměřovacího základu za rok 2009 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2009 a upravují částky pro stanovení výpočtového základu
+
+Vláda nařizuje podle § 17 odst. 2 a 4 a § 107 odst. 2 zákona č. 155/1995 Sb., o důchodovém pojištění, ve znění zákona č. 134/1997 Sb., zákona č. 289/1997 Sb. a zákona č. 353/2001 Sb.:
+
+## § 1
+
+Výše všeobecného vyměřovacího základu za rok 2009 činí 24 091 Kč.
+
+## § 2
+
+Výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2009 činí 1,0269.
+
+## § 3
+
+Částky pro stanovení výpočtového základu uvedené v § 15 zákona č. 155/1995 Sb. a naposledy zvýšené nařízením vlády č. 365/2008 Sb. se zvyšují takto:
+
+a) částky 10 500 Kč se zvyšují na 11 000 Kč,
+
+b) částky 27 000 Kč se zvyšují na 28 200 Kč.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2011.
+
+Předseda vlády:
+
+RNDr. Nečas v. r.
+
+Ministr práce a sociálních věcí:
+
+Dr. Ing. Drábek v. r.

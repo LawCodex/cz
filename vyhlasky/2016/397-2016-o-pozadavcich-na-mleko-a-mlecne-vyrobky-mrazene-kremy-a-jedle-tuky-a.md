@@ -1,0 +1,789 @@
+---
+title: "Vyhláška č. 397/2016 Sb., o požadavcích na mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje"
+identifier: "397/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/397/2026-06-14"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2016-12-02
+effective: 2017-01-01
+last_amended: 2026-06-14
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/397"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 397/2016 Sb., o požadavcích na mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje ve znění vyhlášky č. 274/2019 Sb. a vyhlášky č. 377/2025 Sb."
+---
+
+# Vyhláška č. 397/2016 Sb., o požadavcích na mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje
+
+397
+
+VYHLÁŠKA
+
+ze dne 2. prosince 2016
+
+o požadavcích na mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje
+
+Ministerstvo zemědělství stanoví podle § 18 odst. 1 písm. a), b), g) a h) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 119/2000 Sb., zákona č. 306/2000 Sb., zákona č. 146/2002 Sb., zákona č. 131/2003 Sb., zákona č. 274/2003 Sb., zákona č. 316/2004 Sb., zákona č. 120/2008 Sb. a zákona č. 139/2014 Sb., (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška zapracovává příslušné předpisy Evropské unie<sup>1</sup>), zároveň navazuje na přímo použitelné předpisy Evropské unie<sup>2</sup>) a upravuje
+
+a) způsob označování potravin, v návaznosti na jejich členění podle druhu, skupiny nebo podskupiny, a složení potraviny,
+
+b) druhy potravin s členěním na skupiny a podskupiny,
+
+c) pro jednotlivé druhy potravin požadavky na jakost, technologické požadavky, požadavky na jakost vztahující se k názvu a přípustné záporné hmotnostní a objemové odchylky balení,
+
+d) pro jednotlivé druhy potravin, jež jsou uvedeny v této vyhlášce,
+
+1\. teplotní režimy při uchovávání či zmrazování potravin,
+
+2\. způsoby uchovávání a manipulace s potravinami během jejich uvádění na trh,
+
+3\. zvláštní požadavky na přepravu,
+
+4\. minimální technologické požadavky.
+
+## ČÁST PRVNÍ – MLÉKO A MLÉČNÉ VÝROBKY
+
+### § 2 – Základní pojmy
+
+(1) Pro účely této vyhlášky se rozumí
+
+a) mlékem mléko podle nařízení o společné organizaci trhů se zemědělskými produkty<sup>2</sup>) splňující požadavky právních předpisů upravujících veterinární a hygienické požadavky na živočišné produkty<sup>3</sup>) a předpisů Evropské unie upravujících hygienická pravidla pro potraviny živočišného původu<sup>4</sup>) a ošetřené podle právních předpisů upravujících veterinární a hygienické požadavky na veterinární produkty<sup>3</sup>) a podle nařízení, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>),
+
+b) smetanou tekutý mléčný výrobek ošetřený podle právních předpisů upravujících veterinární a hygienické požadavky na živočišné produkty<sup>3</sup>) a podle nařízení, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>) s obsahem tuku nejméně 10 % hmotnostních ve formě emulze (mléčného tuku v plazmě) získaný fyzikální separací z mléka,
+
+c) kysaným nebo zakysaným mléčným výrobkem mléčný výrobek získaný kysáním mléka, smetany, podmáslí, syrovátky nebo jejich směsi za použití mikroorganismů uvedených v příloze č. 1 k této vyhlášce, tepelně neošetřený po kysacím procesu,
+
+d) jogurtem kysaný mléčný výrobek získaný kysáním mléka, smetany, podmáslí nebo jejich směsi pomocí mikroorganismů uvedených v příloze č. 1 k této vyhlášce, u kterého lze zvýšit obsah sušiny pouze přidáním mléčné bílkoviny, sušeného nebo zahuštěného mléka, nebo odebráním syrovátky, tepelně neošetřený po kysacím procesu,
+
+e) zahuštěným mlékem nebo zahuštěnou smetanou mléčný výrobek, slazený nebo neslazený, získaný částečným odpařením vody ze smetany nebo z mléka plnotučného, odtučněného nebo částečně odtučněného nebo z jejich směsi, ke kterým mohou být přidány smetana nebo sušené mléko nebo obojí, přičemž přídavek sušeného mléka nesmí v konečném výrobku přesahovat 25 % obsahu celkové sušiny,
+
+f) sušeným mlékem nebo sušenou smetanou mléčný výrobek v prášku získaný sušením mléka plnotučného, odtučněného nebo částečně odtučněného nebo smetany nebo jejich směsi, s obsahem vody nejvýše 5 % hmotnostních,
+
+g) sýrem mléčný výrobek vyrobený vysrážením mléčné bílkoviny z mléka působením syřidla nebo jiných vhodných koagulačních činidel, oddělením podílu syrovátky a následným prokysáním nebo zráním,
+
+h) syrovátkou mléčný výrobek vznikající jako vedlejší produkt při výrobě sýrů, včetně tvarohů a potravinářských kaseinů; syrovátkou může být i mléčná složka uvolňovaná po fermentaci při výrobě jiných mléčných výrobků, zejména u jogurtů či mléčných dezertů,
+
+i) tvarohem nezrající sýr, získaný kyselým srážením, nebo u kterého převládá kyselé srážení nad srážením pomocí syřidla,
+
+j) máslem mléčný výrobek podle nařízení o společné organizaci trhů se zemědělskými produkty<sup>2</sup>),
+
+k) podmáslím mléčný výrobek vznikající jako vedlejší produkt při výrobě másla,
+
+l) máselným koncentrátem mléčný výrobek s celkovým obsahem mléčného tuku vyšším než 90 % hmotnostních získaný z mléka, smetany nebo másla,
+
+m) máselným tukem bezvodý mléčný tuk získaný z mléka, smetany nebo másla obsahující více než 99,3 % hmotnostních mléčného tuku,
+
+n) tradičním pomazánkovým mléčný výrobek ze zakysané smetany, s přídavkem sušeného mléka s možností obohacení sušenou syrovátkou nebo sušeným podmáslím, obsahující nejméně 31 % hmotnostních a nejvíce 36 % hmotnostních mléčného tuku, a nejméně 42 % hmotnostních sušiny, který se vyrábí tradiční technologií pomocí vysokotlaké homogenizace smetanové směsi, následným prokysáním směsi a termizací s finální homogenizací před plněním do obalu,
+
+o) mléčným bílkovinným výrobkem sušený mléčný výrobek získaný oddělením bílkovin z mléka nebo syrovátky,
+
+p) potravinářským kaseinem kyselým mléčný výrobek získaný oddělením, promytím a vysušením sraženiny vzniklé kyselým srážením odtučněného mléka nebo jiných výrobků získaných z mléka, splňující požadavky uvedené v příloze č. 2 k této vyhlášce,
+
+q) potravinářským kaseinem sladkým mléčný výrobek získaný oddělením, promytím a vysušením sraženiny získané reakcí syřidla nebo jiných koagulujících enzymů z odtučněného mléka nebo jiných výrobků získaných z mléka, splňující požadavky uvedené v příloze č. 2 k této vyhlášce,
+
+r) potravinářským kaseinátem mléčný výrobek získaný reakcí potravinářského kaseinu nebo jeho sraženiny s neutralizačními činidly a splňující požadavky uvedené v příloze č. 3 k této vyhlášce,
+
+s) mléčným retentátem výrobek získaný koncentrací mléčných bílkovin na základě ultrafiltrace mléka, částečně odstředěného mléka nebo odstředěného mléka,
+
+t) mléčným permeátem výrobek získaný odstraněním mléčných bílkovin a mléčného tuku z mléka, částečně odstředěného mléka nebo odstředěného mléka na základě ultrafiltrace,
+
+u) laktózou přírodní složka mléka, která se běžně získává ze syrovátky s obsahem bezvodé laktózy ve výši nejméně 99,0 % hmotnostních v sušině; může být bezvodá nebo obsahovat jednu molekulu krystalové vody nebo může být směsí obou forem,
+
+v) tepelným ošetřením technologický proces podle nařízení, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>),
+
+w) termizací tepelné ošetření mléčných výrobků po ukončení kysacího procesu a před balením k potlačení nebo zastavení aktivity přítomné mléčné mikroflóry až do teploty 80 °C,
+
+x) vysokotepelným ošetřením (UHT) tepelné ošetření mléka a mléčných výrobků podle nařízení, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>),
+
+y) sterilací mléka a mléčných výrobků tepelné ošetření mléka a mléčných výrobků jejich nepřímým ohřevem v hermeticky uzavřených obalech na teplotu nad 100 °C po dobu zajišťující splnění požadavku na mikrobiologickou nezávadnost podle nařízení, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>) bez porušení uzávěru, a
+
+z) průměrným množstvím potraviny hmotnost potraviny bez obalu se zohledněním záporné hmotnostní nebo objemové odchylky.
+
+(2) Pro účely této vyhlášky se dále rozumí
+
+a) smetanovým zákysem mléčný výrobek vyrobený kysáním mléka, smetany, podmáslí, syrovátky nebo jejich směsi za použití mezofilní kultury mikroorganismů uvedených v příloze č. 1 k této vyhlášce, tepelně neošetřený po kysacím procesu,
+
+b) kysaným mlékem mléčný výrobek vyrobený kysáním mléka za použití mikroorganismů uvedených v příloze č. 1 k této vyhlášce, tepelně neošetřený po kysacím procesu,
+
+c) kysaným podmáslím mléčný výrobek vyrobený kysáním podmáslí nebo jeho směsi s mlékem za použití mikroorganismů uvedených v příloze č. 1 k této vyhlášce, tepelně neošetřený po kysacím procesu,
+
+d) kysanou nebo zakysanou smetanou mléčný výrobek vyrobený kysáním smetany, za použití mikroorganismů uvedených v příloze č. 1 k této vyhlášce, tepelně neošetřený po kysacím procesu,
+
+e) kysaným nebo zakysaným mléčným nápojem tekutý mléčný výrobek vyrobený kysáním mléka, smetany, podmáslí, syrovátky nebo jejich směsi za použití mikroorganismů uvedených v příloze č. 1 k této vyhlášce, tepelně neošetřený po kysacím procesu,
+
+f) acidofilním mlékem mléčný výrobek vyrobený kysáním mléka, za použití mikroorganismů uvedených v příloze č. 1 k této vyhlášce, tepelně neošetřený po kysacím procesu,
+
+g) jogurtovým mlékem tekutý mléčný výrobek vyrobený kysáním mléka, smetany, podmáslí nebo jejich směsi za použití mikroorganismů uvedených v příloze č. 1 k této vyhlášce, tepelně neošetřený po kysacím procesu,
+
+h) kefírem mléčný výrobek získaný kysáním mléka, smetany, podmáslí nebo jejich směsi za použití mikroorganismů uvedených v příloze č. 1 k této vyhlášce, u kterého probíhá i alkoholové kvašení za vzniku oxidu uhličitého, tepelně neošetřený po kysacím procesu,
+
+i) kefírovým mlékem tekutý mléčný výrobek vyrobený kysáním mléka, smetany, podmáslí, syrovátky nebo jejich směsi za použití mikroorganismů uvedených v příloze č. 1 k této vyhlášce, tepelně neošetřený po kysacím procesu.
+
+### § 3 – Členění na druhy, skupiny a podskupiny
+
+Členění mléka a mléčných výrobků na druhy, skupiny a podskupiny je uvedeno v příloze č. 4 k této vyhlášce.
+
+### § 4 – Označování
+
+(1) U mléčného výrobku, který prošel na konci výrobního procesu ošetřením podle § 2 písm. v) až y), se připojí k názvu povaha tepelného ošetření podle nařízení, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>).
+
+(2) Údaj o čistém množství se u polotuhých nebo polotekutých výrobků spadajících pod druhy a skupiny výrobků „smetana tekutá“, „smetana zahuštěná“, „mléko zahuštěné“ a „kysané nebo zakysané mléčné výrobky“ vyjma skupiny „jogurt“ uvádí v jednotkách hmotnostních nebo objemových.
+
+(3) Záporné hmotnostní odchylky pro mléko a mléčné výrobky jsou stanoveny v příloze č. 5 k této vyhlášce.
+
+(4) Údaje o obsahu tuku a obsahu tuku v sušině u mléka a mléčných výrobků podle této vyhlášky jsou jakostními údaji.
+
+(5) U mléka a mléčných výrobků, které jsou na obale pro konečného spotřebitele označeny informací, že byly vyrobeny z plnotučného mléka bez standardizace, nemusí být jakostní údaj a údaj o obsahu sušiny uvedeny.
+
+(6) U mléka a mléčných výrobků, které jsou označeny výživovými údaji, nemusí být s výjimkou požadavků stanovených v § 9 odst. 1 až 3 uvedeny jakostní údaje a údaj o obsahu sušiny.
+
+**Mléko a smetana**
+
+### § 5
+
+(1) Mléko a smetana se označí
+
+a) názvem druhu a skupiny,
+
+b) názvem podskupiny podle obsahu tuku, který je pro jednotlivé výrobky stanoven nařízením o společné organizaci trhů se zemědělskými produkty<sup>2</sup>) nebo v příloze č. 6 k této vyhlášce, a
+
+c) obsahem tuku.
+
+(2) Tekuté mléko kravské nebo tekutá smetana z kravského mléka se označí pouze jako mléko nebo smetana.
+
+(3) U tekutého mléka a tekuté smetany se označí způsob tepelného ošetření podle nařízení, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>).
+
+(4) Jako „čerstvé“ lze označit tekuté mléko nebo tekutou smetanu, které nebyly ošetřeny teplotou vyšší než 125 °C.
+
+(5) Názvem „trvanlivé mléko“ nebo „trvanlivá smetana“ se označí pouze tekuté mléko nebo tekutá smetana, u kterých bylo dosaženo prodloužení doby trvanlivosti vysokotepelným ošetřením nebo sterilací.
+
+### § 6
+
+(1) Označení „mléčný nápoj“ lze použít u tekutého mléčného výrobku obsahujícího více než 50 % hmotnostních mléka nebo syrovátky. U ochuceného tekutého mléčného výrobku se u názvu výrobku uvede druh ochucující složky nebo údaje o ochucení potraviny podle vyhlášky o některých způsobech označování potravin.
+
+(2) Označením „mléčný“ lze označit mléčný výrobek, v němž mléko nebo mléčný výrobek tvoří nejméně 50 % hmotnostních tohoto výrobku.
+
+(3) Jako „smetanový krém z vysokotučné smetany“ se označí výrobek z vysokotučné smetany bez přídavku cukru. Dále se tento výrobek označí obsahem tuku a obsahem sušiny v procentech hmotnostních.
+
+(4) Jako „smetanový krém“ se označí výrobek z tvarohu, mléka nebo smetany s přídavkem cukru a s obsahem nejméně 30 % hmotnostních tuku v sušině. Tento výrobek se označí obsahem sušiny v procentech hmotnostních a dále obsahem tuku v sušině nebo obsahem tuku.
+
+**Zahuštěné a sušené mléčné výrobky**
+
+### § 7
+
+(1) Jako zdroj sacharózy pro zahuštěné slazené mléčné výrobky se smí použít pouze cukr extra bílý, cukr bílý nebo cukr polobílý podle vyhlášky o požadavcích pro přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony<sup>6</sup>).
+
+(2) Při výrobě zahuštěných slazených mléčných výrobků se povoluje přídavek laktózy v množství nejvýše 0,03 % hmotnostních z celkové hmotnosti výrobku.
+
+(3) Přídavek sacharózy u zahuštěných slazených mléčných výrobků musí odpovídat hodnotě cukerného poměru 60,5 až 64,5 daného následujícím vzorcem:
+
+cukerný poměr=(%sacharózy×100)/(%sacharózy+%vody)
+
+(4) Trvanlivosti u zahuštěných neslazených mléčných výrobků lze dosáhnout pouze tepelným ošetřením podle nařízení, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>).
+
+(5) Trvanlivosti u zahuštěných slazených mléčných výrobků lze dosáhnout pouze přídavkem sacharózy v souladu s odstavcem 1.
+
+### § 8
+
+(1) Trvanlivosti u sušených mléčných výrobků lze dosáhnout pouze procesem sušení.
+
+(2) U zahuštěných mléčných výrobků a sušených mléčných výrobků se povoluje přídavek vitaminů a minerálních látek podle nařízení o přidávání vitaminů a minerálních látek a některých dalších látek do potravin<sup>7</sup>).
+
+(3) Aniž jsou dotčeny požadavky na složení, lze u zahuštěného mléka a sušeného mléka obsah bílkovin v mléku upravit na minimální hranici 34 % hmotnostních v tukuprosté sušině, a to přidáním nebo odstraněním mléčných složek takovým způsobem, aby v upravovaném mléku nebyl změněn poměr mezi syrovátkovými bílkovinami a kaseinem. K této úpravě lze použít mléčný permeát, mléčný retentát a laktózu.
+
+(4) U zahuštěného a sušeného mléka lze snížit obsah laktózy přeměnou na glukózu a galaktózu. Změny ve složení mléka v důsledku tohoto způsobu zpracování se označí na obale údajem o obsahu laktózy.
+
+### § 9
+
+(1) Zahuštěný mléčný výrobek se u názvu výrobku označí obsahem tukuprosté sušiny v procentech hmotnostních podle přílohy č. 6 k této vyhlášce tabulky 2.
+
+(2) Zahuštěný mléčný výrobek, s výjimkou zahuštěného slazeného i neslazeného odtučněného mléka, se u názvu výrobku označí obsahem tuku v procentech hmotnostních podle přílohy č. 6 k této vyhlášce tabulky 2.
+
+(3) Sušený mléčný výrobek, s výjimkou sušeného odtučněného mléka, se u názvu výrobku označí obsahem tuku v procentech hmotnostních podle přílohy č. 6 k této vyhlášce tabulky 3.
+
+(4) U sušeného mléka a sušené smetany v balení určeném pro konečného spotřebitele se uvede doporučený způsob ředění nebo způsob uvedení do původního stavu včetně údaje o obsahu tuku v procentech hmotnostních v takto upraveném výrobku.
+
+(5) Je-li zahuštěný mléčný výrobek a sušený mléčný výrobek o hmotnosti menší než 20 g zabalen ve skupinovém obalu<sup>8</sup>), mohou být údaje o označení uvedeny pouze na skupinovém obalu, s výjimkou uvedení názvu druhu výrobku.
+
+(6) U sušeného mléčného výrobku, s výjimkou výrobku určeného pro zvláštní výživu<sup>9</sup>), se na obalu určeném pro konečného spotřebitele uvede označení „není určeno pro výživu kojenců do 12 měsíců“.
+
+### § 10
+
+(1) Mléčný bílkovinný výrobek musí být vyroben ze suroviny tepelně ošetřené podle nařízení, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>).
+
+(2) Při výrobě potravinářského kaseinu kyselého lze použít pouze kyselinu mléčnou, kyselinu chlorovodíkovou, kyselinu sírovou, kyselinu citrónovou, kyselinu octovou, kyselinu orthofosforečnou, syrovátku nebo bakteriální kultury mléčného kysání, pokud splňují požadavky nařízení o potravinářských přídatných látkách a enzymech<sup>10</sup>).
+
+(3) Při výrobě potravinářského kaseinu sladkého lze použít pouze syřidlo nebo ostatní enzymy koagulující mléko jako technologické pomocné látky a bakteriální kultury, pokud splňují požadavky nařízení o potravinářských přídatných látkách a enzymech<sup>10</sup>).
+
+(4) Při výrobě potravinářského kaseinátu lze použít pouze hydroxidy, uhličitany, fosforečnany nebo citronany sodné, draselné, vápenaté, amonné nebo hořečnaté jako neutralizační a tlumivé činidlo, pokud splňují požadavky nařízení o potravinářských přídatných látkách a enzymech<sup>10</sup>).
+
+### § 11
+
+(1) Kromě údajů uvedených v nařízení o poskytování informací o potravinách spotřebitelům<sup>11</sup>) se bílkovinné mléčné výrobky na obale označí
+
+a) názvem druhu nebo skupiny a dále pak názvem podskupiny podle požadavků uvedených v příloze č. 2 k této vyhlášce; u potravinářského kaseinátu se uvede specifikace podle kationtu uvedeného v § 10 odst. 4,
+
+b) čistou hmotností v kilogramech nebo gramech,
+
+c) jménem nebo obchodním názvem a adresou provozovatele potravinářského podniku, který uvádí potravinu na trh,
+
+d) u výrobků dovážených ze třetích zemí názvem země původu a
+
+e) datem výroby nebo jiným označením, podle kterého může být identifikována šarže.
+
+(2) Bílkovinné mléčné výrobky uváděné na trh jako směsi se na obale dále označí
+
+a) slovem „směs...“ následovaným vymezením složek podle nařízení o poskytování informací o potravinách spotřebitelům<sup>11</sup>),
+
+b) u potravinářského kaseinátu specifikací podle kationtu uvedeného v § 10 odst. 4 a
+
+c) u mléčné bílkoviny ze syrovátky a u směsi kaseinátů obsahem bílkovin v procentech hmotnostních.
+
+(3) Údaje podle odstavce 1 písm. b) až d) a údaje podle odstavce 2 písm. c) lze uvést pouze v průvodní dokumentaci výrobku.
+
+**Kysané nebo zakysané mléčné výrobky**
+
+### § 12
+
+(1) Jednotlivé skupiny mléčných výrobků a druhy mikroorganizmů mléčného kysání pro výrobu kysaných mléčných výrobků musí splňovat požadavky uvedené v nařízení o společné organizaci trhů se zemědělskými produkty<sup>2</sup>), v příloze č. 1 k této vyhlášce a v příloze č. 6 k této vyhlášce tabulce 4. Fyzikální, chemické a mikrobiologické požadavky se týkají základních druhů výrobků bez ochucujících přísad.
+
+(2) Ochucené kysané mléčné výrobky mohou obsahovat nejvýše 30 % hmotnostních ochucující složky.
+
+(3) Kysaný nebo zakysaný mléčný výrobek se označí
+
+a) názvem skupiny,
+
+b) obsahem tuku a
+
+c) použitou ochucující složkou.
+
+(4) Jako bílý jogurt lze označit všechny druhy jogurtu bez přidané ochucující složky.
+
+(5) Jako „koncentrovaný mléčný výrobek“ lze označit mléčný výrobek, u kterého byl obsah mléčných bílkovin před fermentací nebo po fermentaci navýšen na nejméně 5,6 %.
+
+### § 13
+
+(1) Jako „jogurtový“ lze označit mléčný výrobek, v němž jogurt tvoří nejméně 50 % hmotnostních tohoto výrobku.
+
+(2) Mléčný výrobek tepelně ošetřený po kysacím procesu a mléčný výrobek obohacený přídavkem mikroorganismů podle přílohy č. 1 k této vyhlášce se označí
+
+a) názvem druhu,
+
+b) obsahem tuku a
+
+c) použitou ochucující složkou.
+
+**Sýry a tvarohy**
+
+### § 14
+
+(1) Sýr se označí
+
+a) názvem druhu; tavený sýr, tavený sýrový výrobek, tavený mléčný výrobek a syrovátkový sýr rovněž názvem skupiny,
+
+b) obsahem tuku nebo tuku v sušině,
+
+c) obsahem sušiny a
+
+d) použitou ochucující složkou.
+
+(2) Jako „čerstvý sýr“ lze označit nezrající sýr, včetně nezrajících sýrů termizovaných.
+
+(3) Jako „zrající sýr“ lze označit sýr, u kterého po prokysání došlo k dalším biochemickým a fyzikálním procesům.
+
+(4) Jako „tavený sýr“ se označí sýr, který byl tepelně upraven tavením.
+
+(5) Jako „tavený sýrový výrobek“ se označí mléčný výrobek, který je tepelně ošetřen tavením, obsahuje více než 5 % laktózy a v němž sýr tvoří nejméně 50 % hmotnostních sušiny tohoto výrobku.
+
+(6) Jako „tavený mléčný výrobek“ se označí mléčný výrobek, který je tepelně ošetřen tavením a obsahuje více než 5 % laktózy.
+
+(7) Jako „pařený sýr“ lze označit sýr, který byl po prokysání ošetřený napařením horkou vodou, horkou párou, horkým mlékem nebo smetanou.
+
+(8) Jako „syrovátkový sýr“ se označí mléčný výrobek získaný vysrážením syrovátky nebo směsi syrovátky s mlékem.
+
+(9) Přírodní sýr lze označit názvem podskupiny, pokud splňuje požadavky stanovené v příloze č. 6 k této vyhlášce tabulkách 5 až 7.
+
+(10) Přehled povolených složek jiných než sýry pro výrobu tavených sýrů, tavených sýrových výrobků a tavených mléčných výrobků je uveden v příloze č. 6 k této vyhlášce tabulce 9.
+
+### § 15
+
+(1) Označením „sýrový“ lze označit mléčný výrobek, v němž sýr tvoří nejméně 50 % hmotnostních tohoto výrobku.
+
+(2) Pro vícesložkový výrobek ze sýrů lze použít označení „sýrový dort“, „sýrový dezert“, „sýrová roláda“, „salámový tavený sýr“.
+
+(3) Tvaroh se označí
+
+a) názvem druhu, skupiny nebo podskupiny,
+
+b) obsahem tuku nebo tuku v sušině,
+
+c) obsahem sušiny a
+
+d) použitou ochucující složkou.
+
+(4) U sýra a tvarohu se připouští vyšší obsah sušiny a tuku, než je uvedeno na obale. Obsah tuku v sušině nesmí překročit rozmezí hodnot stanovené pro příslušnou kategorii sýrů a tvarohů v příloze č. 6 k této vyhlášce tabulkách 5 a 8.
+
+### § 16 – Máslo a mléčné tuky
+
+(1) Jako „čerstvé máslo“ lze označit máslo do 20 dnů od data výroby.
+
+(2) Jako „stolní máslo“ se označí máslo skladované nejdéle 24 měsíců od data výroby při teplotách minus 18 °C a nižších,
+
+(3) U spotřebitelsky baleného stolního másla je datum použitelnosti 20 dnů od data vyskladnění z mrazírenského skladu. Datum výroby označí na obal určený pro spotřebitele výrobce, datum vyskladnění z mrazírenského skladu označí na vnější obal distributor a datum použitelnosti označí prodejce.
+
+(4) Tradiční pomazánkové se označí
+
+a) obsahem sušiny a
+
+b) použitou ochucující složkou.
+
+(5) U koncentrátů mléčného tuku se obsah tuku uvádí na celá procenta hmotnostní.
+
+### § 17 – Uvádění mléka a mléčných výrobků na trh
+
+Mléko a mléčné výrobky se skladují, přepravují a uvádějí na trh při teplotě od 2 °C do 8 °C s výjimkou mléka, smetany a mléčných výrobků ošetřených vysokotepelným ošetřením (UHT) nebo sterilací, zahuštěného mléka, sušeného mléka a bílkovinných mléčných výrobků, tavených sýrů, tavených sýrových výrobků a jiných tavených výrobků, které se skladují, přepravují a uvádějí na trh při teplotě stanovené výrobcem.
+
+## ČÁST DRUHÁ – MRAŽENÉ KRÉMY
+
+### § 18 – Základní pojmy
+
+Pro účely této vyhlášky se rozumí
+
+a) mraženým krémem výrobek získaný zmrazením směsi připravené v závislosti na skupině mraženého krému zejména z vody, mléka, smetany, tuku, cukru a dalších složek, pevné nebo pastovité konzistence, který je uváděn na trh a určen ke konečné spotřebě ve zmrazeném stavu,
+
+b) zmrazením technologický proces konzervace výrobků rychlým snížením teploty na teplotu minus 18 °C a nižší v souladu s vyhláškou o požadavcích vztahujících se na některé zmrazené potraviny<sup>12</sup>),
+
+c) mraženými krémy smetanovými a mléčnými mražené krémy vyrobené zmrazením našlehané směsi připravené z mléčných surovin, zejména smetany, mléčného tuku, másla, mléka a sušeného mléka, cukrů nebo sladidel, s přídavkem dalších složek a ochucujících přísad, vyjma rostlinného tuku,
+
+d) mraženými krémy s rostlinným tukem mražené krémy vyrobené zmrazením našlehané směsi připravené z mléka nebo jiných mléčných surovin, vody, rostlinných tuků, cukrů nebo sladidel, s přídavkem dalších složek a ochucujících přísad,
+
+e) mraženými krémy vodovými mražené krémy vyrobené zmrazením směsi připravené z vody a cukrů nebo sladidel s přídavkem dalších složek a ochucujících přísad,
+
+f) sorbetem mražený výrobek získaný zmrazením směsi vyrobené z vody a cukrů s přídavkem ovoce, popřípadě i vína včetně aromatizovaného vína anebo alkoholu a s přídavkem dalších složek a ochucujících přísad,
+
+g) zmrzlinovými směsmi polovýrobky nebo polotovary v kapalném stavu, v zahuštěném stavu anebo v práškovém stavu, určené pro výrobu zmrzliny,
+
+h) sušenou zmrzlinovou směsí práškový polovýrobek nebo práškový polotovar, který obsahuje maximálně 4 % vody, a
+
+i) průměrným množstvím potraviny hmotnost potraviny bez obalu se zohledněním záporné hmotnostní odchylky podle přílohy č. 7 k této vyhlášce.
+
+### § 19 – Členění na skupiny a podskupiny
+
+Členění mražených krémů na druhy, skupiny a podskupiny je uvedeno v příloze č. 8 k této vyhlášce.
+
+### § 20 – Označování
+
+(1) Mražený krém se označí názvem druhu, skupiny a podskupiny.
+
+(2) Mražený krém ovocný se označí názvem druhu a podskupiny, pokud byla ovocná složka nahrazena suchými skořápkovými plody podle § 21 odst. 1 písm. c).
+
+(3) Mražený krém balený lze označit rovněž jako zmrzlina.
+
+**Požadavky na jakost**
+
+### § 21
+
+(1) V názvu mraženého krému lze uvést výraz
+
+a) podle použitých druhů suchých skořápkových plodů, obsahuje-li nejméně 1,0 % hmotnostní těchto plodů nebo jejich past, s výjimkou mraženého krému ovocného a mraženého krému sorbet, nebo
+
+b) označující název použitého druhu ovoce.
+
+(2) V názvu mraženého krému mléčného lze výraz „mléčný“ nahradit názvem mléčného výrobku, který byl jako složka použit při jeho výrobě, například jogurtový nebo tvarohový.
+
+(3) U výrobku s alkoholickou složkou musí být tato složka v názvu výrobku uvedena, přičemž obsah alkoholu nesmí být vyšší než 3,0 % hmotnostní.
+
+### § 22
+
+(1) Fyzikální a chemické požadavky na jakost mražených krémů jsou uvedeny v příloze č. 9 k této vyhlášce.
+
+(2) Konzistence mraženého krému musí být jemná, hladká, krémovitá, bez hrudek, větších krystalů a velkých vzduchových bublin; výrobek může obsahovat viditelné částice přidaných ochucujících složek v nerozmělněné formě.
+
+(3) Mražený krém mléčný a mražený krém smetanový nesmí obsahovat záměrně přidaný tuk a bílkoviny jiné než mléčný tuk a mléčné bílkoviny.
+
+(4) Jako ovocnou složku lze použít ovoce, ovocnou dřeň, ovocnou šťávu nebo jiný ovocný výrobek čerstvý nebo konzervovaný vhodným technologickým postupem.
+
+(5) Ovocnou složku u mraženého krému ovocného a mraženého krému sorbet lze nahradit suchými skořápkovými plody nebo pastami ze suchých skořápkových plodů.
+
+(6) Mražený krém vodový a mražený krém sorbet nesmí obsahovat žádný záměrně přidaný tuk.
+
+### § 23
+
+(1) Podíl ovocné složky lze snížit maximálně na 10 % hmotnostních u mraženého krému ovocného a maximálně na 15 % hmotnostních u mraženého krému sorbet u citrusového ovoce a dalšího ovoce nebo jejich směsí, u kterých celková kyselost šťáv, vyjádřená jako kyselina citrónová, je vyšší než 2,5 % hmotnostních.
+
+(2) Podíl ovocné složky lze snížit maximálně na 10 % hmotnostních u mraženého krému ovocného a maximálně na 15 % hmotnostních u mraženého krému sorbet u exotického ovoce s výrazným aromatem a chutí a hustou konzistencí, jako ananas, banán, kiwi, mango, avokádo, lochie nebo maracuja.
+
+(3) Podíl suchých skořápkových plodů nebo past ze suchých skořápkových plodů u mraženého krému sorbet lze z technologických důvodů snížit maximálně na 5 % hmotnostních.
+
+**Uvádění na trh**
+
+### § 24
+
+(1) Mražený krém určený pro konečného spotřebitele se dodává pouze balený.
+
+(2) Mražený krém se přepravuje dopravním prostředkem, který umožňuje zachování teploty mraženého krému minus 18 °C nebo nižší. Při přepravě se může teplota výrobku krátkodobě zvýšit nejvýše na minus 15 °C. Dopravní prostředek musí být vybaven přístrojem pro záznam teploty vzduchu schváleným podle zákona o metrologii<sup>13</sup>). Záznam s registrovanými teplotami musí být označen datem pořízení záznamu a uchován po dobu nejméně 1 roku; v případě, že minimální trvanlivost výrobku je delší než 1 rok, záznam se uchovává do data minimální trvanlivosti.
+
+(3) Dopravní prostředek nemusí být vybaven přístrojem pro záznam teploty vzduchu podle odstavce 2 v případě, že jde o rozvoz mražených krémů do maloobchodu, zařízení společného stravování a domácností, maximálně však do vzdálenosti 200 km; v tomto případě musí být dopravní prostředek vybaven jedním teploměrem umístěným na viditelném místě.
+
+(4) Mražený krém se skladuje v mrazírenském skladě při teplotě vzduchu minus 18 °C a nižší. Teplota vzduchu v mrazírenském skladě, s výjimkou skladů menších než 10 m<sup>3</sup>, musí být měřena vhodným přístrojem pro záznam teplot. V mrazírenském skladě o objemu mrazícího prostoru menším než 10 m<sup>3</sup> stačí, aby teplota byla měřena alespoň jedním dobře viditelným teploměrem, který měří teplotu v nejteplejším místě skladovacího prostoru. Záznam s registrovanými teplotami musí být označen datem pořízení záznamu a uchován po dobu nejméně 1 roku. V případě, že minimální trvanlivost skladovaného mraženého krému je delší než 1 rok, záznam se uchovává až do data minimální trvanlivosti.
+
+### § 25
+
+(1) Mražený krém se uchovává při prodeji o teplotě minus 18 °C a nižší, v mrazicích boxech a mrazicím zařízení, schopných udržet jeho teplotu a vybavených ukazatelem teploty vzduchu umístěným na viditelném místě. V otevřeném mrazicím nábytku se teplota měří v místě sání vzduchu na úrovni vyznačeného maximálního plnění.
+
+(2) Teplota ve všech bodech mraženého krému během doby skladování nesmí být vyšší než minus 18 °C.
+
+(3) Zmrazování roztátých výrobků a jejich uvádění na trh není dovoleno.
+
+**Závěrečná ustanovení**
+
+## ČÁST TŘETÍ – JEDLÉ TUKY A OLEJE
+
+### § 26 – Základní pojmy
+
+Pro účely této vyhlášky se rozumí
+
+a) jedlým tukem a olejem směs smíšených triacylglycerolů, které se v závislosti na poměrném zastoupení mastných kyselin v triacylglycerolu vyskytují za normálních podmínek v tekutém nebo tuhém stavu,
+
+b) rostlinným tukem a olejem jedlý tuk a olej získaný ze semen, plodů nebo jader plodů olejnatých rostlin,
+
+c) živočišným tukem a olejem jedlý tuk a olej získaný z poživatelných tukových tkání živočichů za podmínek stanovených veterinárním zákonem<sup>14</sup>) a nařízením, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu<sup>5</sup>),
+
+d) ztuženým tukem jedlý tuk, který byl získán ztužováním rostlinných a živočišných tuků a olejů nebo jejich směsí,
+
+e) přeesterifikovaným tukem jedlý tuk, který byl získán přeesterifikací rostlinných nebo živočišných tuků a olejů, nebo jejich směsí, včetně ztužených tuků,
+
+f) pokrmovým tukem jedlý tuk, který prošel procesem ztužování nebo přeesterifikace, nebo kombinací těchto procesů, nebo směsi ztužených tuků a jedlých tuků a olejů, nebo směsi jedlých rostlinných a živočišných olejů a tuků,
+
+g) roztíratelným tukem jedlý tuk, nebo směs ztužených nebo přeesterifikovaných tuků, nebo kombinací těchto procesů, splňující požadavky stanovené nařízením o společné organizaci trhů se zemědělskými produkty<sup>2</sup>),
+
+h) směsným roztíratelným tukem jedlý tuk podle nařízení o společné organizaci trhů se zemědělskými produkty<sup>2</sup>),
+
+i) tekutým emulgovaným tukem jedlý tuk nebo směs ztužených nebo přeesterifikovaných tuků nebo směs ztužených a přeesterifikovaných tuků s jedlými oleji a tuky ve formě emulze vody a tuku s obsahem 10 % až 90 % hmotnostních tuku, který je při teplotě 20 °C tekutý,
+
+j) koncentrovaným tukem tuk, jehož celkový obsah tuku je vyšší než 90 % hmotnostních a nižší než 99,5 % hmotnostních,
+
+k) olejem lisovaným za studena olej získaný pouze mechanickými postupy vyluhování nebo lisování bez tepelného ohřevu, které nevedou ke změnám charakteru oleje a pro jeho vyčištění se používá pouze promývání vodou, usazování, filtrování a odstřeďování,
+
+l) fritovacím tukem nebo fritovacím olejem jedlý tuk nebo jedlý olej vhodný pro fritování, který je stabilní při vysokých teplotách, s číslem kyselosti nejvýše 0,6, bodem zakouření nejméně +205 °C a peroxidovým číslem nejvýše 2 mikromol (1/2 ROOH)/g tuku,
+
+m) panenským olejem jedlý olej získaný beze změny povahy oleje pouze mechanickými postupy, zejména vytlačováním nebo lisováním, případně za použití tepla, pro jehož vyčištění se používá pouze promývání vodou, usazování, filtrování a odstřeďování,
+
+n) průměrným množstvím potraviny hmotnost potraviny bez obalu se zohledněním záporné hmotnostní odchylky podle přílohy č. 10 k této vyhlášce.
+
+### § 27 – Členění na druhy, skupiny a podskupiny
+
+Členění jedlých tuků a olejů na druhy, skupiny a podskupiny je uvedeno v příloze č. 11 k této vyhlášce.
+
+### § 28 – Požadavky na jakost a označování
+
+(1) Požadavky na jakost a označování roztíratelných tuků a olivových olejů jsou upraveny v přímo použitelných předpisech Evropské unie<sup>15</sup>).
+
+(2) Jedlý tuk a jedlý olej se označí názvem druhu, skupiny a popřípadě podskupiny podle tabulky 1 přílohy č. 11 k této vyhlášce.
+
+### § 29 – Uvádění na trh
+
+(1) Jedlé tuky a oleje se skladují a přepravují tak, aby byly chráněny před přímým slunečním světlem.
+
+(2) Teplota při skladování nesmí přesáhnout
+
+a) u rostlinných tuků a olejů 20 °C,
+
+b) u živočišných tuků a olejů, roztíratelných tuků, směsných roztíratelných tuků a tekutých emulgovaných tuků 15 °C, nebo
+
+c) u ztužených a pokrmových tuků 20 °C.
+
+(3) Jedlé rostlinné a živočišné tuky a oleje a výrobky z nich určené pro konečného spotřebitele jsou uváděny na trh pouze balené.
+
+(4) Olivový olej se uvádí na trh podle přímo použitelných předpisů Evropské unie<sup>16</sup>).
+
+(5) Jedlé tuky obsahující rostlinný olej nebo rostlinný tuk se uvádějí na trh konečnému spotřebiteli umístěné odděleně od živočišných tuků a mléčných výrobků způsobem, který neuvádí konečného spotřebitele v omyl.
+
+### § 30 – Přechodná ustanovení
+
+(1) Potraviny vyrobené a uvedené na trh přede dnem nabytí účinnosti této vyhlášky se posuzují podle vyhlášky č. 77/2003 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+(2) Potraviny uvedené na trh nebo označené v souladu s vyhláškou č. 77/2003 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky, mohou být prodávány do vyprodání zásob.
+
+### § 31
+
+Zrušují se:
+
+1\. Vyhláška č. 77/2003 Sb., kterou se stanoví požadavky pro mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje.
+
+2\. Vyhláška č. 124/2004 Sb., kterou se mění vyhláška č. 77/2003 Sb., kterou se stanoví požadavky pro mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje.
+
+3\. Vyhláška č. 78/2005 Sb., kterou se mění vyhláška č. 77/2003 Sb., kterou se stanoví požadavky pro mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje, ve znění vyhlášky č. 124/2004 Sb.
+
+4\. Vyhláška č. 370/2008 Sb., kterou se mění vyhláška č. 77/2003 Sb., kterou se stanoví požadavky pro mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje, ve znění pozdějších předpisů.
+
+5\. Vyhláška č. 336/2013 Sb., kterou se mění vyhláška č. 77/2003 Sb., kterou se stanoví požadavky pro mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje, ve znění pozdějších předpisů.
+
+### § 32
+
+Tato vyhláška byla oznámena v souladu se směrnicí Evropského parlamentu a Rady 2015/1535 ze dne 9. září 2015 o postupu při poskytování informací v oblasti technických předpisů a předpisů pro služby informační společnosti.
+
+### § 33 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2017, s výjimkou ustanovení § 12 odst. 5 a 6, § 14 odst. 5 a 6 a § 18 písm. c) až h), která nabývají účinnosti dnem 1. července 2017.
+
+Ministr:
+
+Ing. Jurečka v. r.
+
+### Příloha č. 1
+
+#### Mikrobiologické požadavky na jednotlivé mléčné výrobky a na druhy živých mikroorganismů mléčného kysání v kysaných mléčných výrobcích
+
+<table><tbody><tr><th>Výrobek</th><th>Použité mikroorganismy</th><th>Mléčná mikroflóra výrobku v KTJ v 1 g</th></tr><tr><td>Kysané nebo zakysané mléčné výrobky dále neuvedené, například kysané mléko, smetanový zákys, zakysané podmáslí, zakysaná smetana, kysané mléčné nápoje</td><td>monokultury nebo směsné kultury bakterií mléčného kysání</td><td>10<sup>6</sup></td></tr><tr><td>Acidofilní mléko</td><td>Lactobacillus acidophilus a další mezofilní, případně termofilní kultury bakterií mléčného kysání</td><td>10<sup>6</sup> Lactobacillus acidophilus</td></tr><tr><td>Jogurt a jogurtové mléko</td><td>symbiotická směs Streptococcus thermophilus a Lactobacillus delbrueckii subsp. bulgaricus</td><td>10<sup>7</sup></td></tr><tr><td>Kefír</td><td>zákys připravený z kefírových zrn nebo kefírové kultury, jehož mikroflóra se skládá z kvasinek zkvašujících i/nebo nezkvašujících laktózu a mezofilních a termofilních bakterií mléčného kysání, rostoucí ve vzájemném společenství</td><td>bakterie mléčného kysání 10<sup>7</sup> a kvasinky 10<sup>4</sup></td></tr><tr><td>Kefírové mléko neochucené</td><td>zákys skládající se z kvasinkových kultur zkvašujících i/nebo nezkvašujících laktózu a mezofilních a termofilních kultur bakterií mléčného kysání rostoucích ve vzájemné symbióze</td><td>bakterie mléčného kysání 10<sup>6</sup> a kvasinky 10<sup>2</sup></td></tr><tr><td>Kefírové mléko ochucené</td><td>zákys skládající se z mezofilních a termofilních kultur bakterií mléčného kysání rostoucích ve vzájemné symbióze s kvasinkami v kefírovém zrnu s možnou přítomností kvasinek zkvašujících i/nebo nezkvašujících laktózu</td><td colspan="2">bakterie mléčného kysání 10<sup>6</sup> a kvasinky 0 a více</td></tr><tr><td>Kysaný mléčný výrobek s bifidokulturou</td><td>Bifidobacterium sp. v kombinaci s mezofilními a termofilními bakteriemi mléčného kysání</td><td colspan="2">10<sup>6</sup> bifidobakterie</td></tr></tbody></table>
+
+Poznámka: u jogurtových výrobků mohou být kromě základní jogurtové kultury přidávány kmeny produkující kyselinu mléčnou a pomáhající dotvářet specifickou chuťovou nebo texturovou charakteristiku výrobku. Musí však být zachován optimální poměr obou základních kmenů jogurtové kultury.
+
+### Příloha č. 2 k vyhlášce č. 397/2016 Sb.
+
+#### Fyzikální a chemické požadavky na potravinářský kasein
+
+<table><tbody><tr><th></th><th>Sladký (v % hmot.)</th><th>Kyselý (v % hmot.)</th></tr><tr><td>Obsah vlhkosti</td><td>méně než 12,0 včetně</td><td>méně než 12,0 včetně</td></tr><tr><td>Obsah bílkoviny v sušině z toho obsah kaseinu</td><td>více než 84,0 včetně více než 95,0 včetně</td><td>více než 90,0 včetně více než 95,0 včetně</td></tr><tr><td>Obsah mléčného tuku</td><td>méně než 2,0 včetně</td><td>méně než 2,0 včetně</td></tr><tr><td>Obsah bezvodé laktózy</td><td>méně než 1,0 včetně</td><td>méně než 1,0 včetně</td></tr><tr><td>Titrační kyselost</td><td></td><td>méně než 0,27 ml 1 N roztoku NaOH na 1 g včetně</td></tr><tr><td>Obsah popela (včetně P205)</td><td>více než 7,5 včetně</td><td>méně než 2,5 včetně</td></tr><tr><td>Obsah sedimentu (připálené částice)</td><td>méně než 15 mg v 25 g</td><td>méně než 22,5 mg v 25 g</td></tr><tr><td>Přítomnost látek cizího původu</td><td colspan="2">nepřítomny ve 25 g</td></tr><tr><td>Maximální obsah olova</td><td colspan="2">0,75 mg/kg</td></tr><tr><td>Vůně</td><td colspan="2">bez cizích pachů</td></tr><tr><td>Barva</td><td colspan="2">bílá až krémově bílá</td></tr><tr><td>Vzhled</td><td colspan="2">připouští se hrudky, které lze rozmělnit mírným tlakem</td></tr></tbody></table>
+
+### Příloha č. 3 k vyhlášce č. 397/2016 Sb.
+
+#### Fyzikální a chemické požadavky na potravinářský kaseinát
+
+Potravinářský kaseinát
+
+| | Kaseináty (v % hmot.) |
+|---|---|
+| Obsah vlhkosti | méně než 8,0 včetně |
+| Obsah kaseinu přepočteného na suchý extrakt<br> z toho obsah kaseinu | více než 88,0 včetně<br> více než 95,0 včetně |
+| Obsah mléčného tuku | méně než 2,0 včetně |
+| Obsah bezvodé laktózy | méně než 1,0 včetně |
+| Hodnota pH | 6,0 až 8,0 |
+| Obsah sedimentu (připálené částice) | méně než 22,5 mg v 25 g |
+| Přítomnost látek cizího původu | nepřítomny ve 25 g |
+| Maximální obsah olova | 0,75 mg/kg |
+| Vůně | velmi slabá cizí vůně nebo zápach |
+| Barva | bílá až krémově bílá |
+| Vzhled | připouští se přítomnost hrudek, které lze rozmělnit mírným tlakem |
+| Rozpustnost | téměř zcela rozpustný v destilované vodě, s výjimkou kaseinátu vápenatého |
+
+### Příloha č. 4 k vyhlášce č. 397/2016 Sb.
+
+#### Členění mléka a mléčných výrobků na druhy, skupiny a podskupiny
+
+<table><tbody><tr><th>Druh</th><th>Skupina</th><th>Podskupina</th></tr><tr><td rowspan="3">Mléko</td><td>tekuté</td><td>kategorie konzumního mléka podle bodu 1 odst. III část IV přílohy VII nařízení Evropského parlamentu a Rady (EU) č. 1308/2013</td></tr><tr><td>zahuštěné</td><td>Odtučněné nebo odstředěné, slazené nebo neslazené <br> částečně odtučněné nebo částečně odstředěné nebo polotučné, slazené nebo neslazené <br> plnotučné, slazené nebo neslazené</td></tr><tr><td>sušené</td><td>odtučněné nebo odstředěné <br> částečně odtučněné nebo částečně odstředěné nebo polotučné <br> plnotučné</td></tr><tr><td rowspan="3">Smetana</td><td>tekutá</td><td>ke šlehání <br> vysokotučná</td></tr><tr><td>zahuštěná</td><td></td></tr><tr><td>sušená</td><td></td></tr><tr><td rowspan="10">Kysaný nebo zakysaný mléčný výrobek</td><td>jogurt<br> jogurt smetanový<br> jogurt bílý<br> jogurt bílý smetanový</td><td></td></tr><tr><td></td><td></td></tr><tr><td>jogurtové mléko</td><td></td></tr><tr><td>acidofilní mléko</td><td></td></tr><tr><td>kefír</td><td></td></tr><tr><td>kefírové mléko</td><td></td></tr><tr><td>kysané mléko nebo smetanový zákys</td><td></td></tr><tr><td>kysaná nebo zakysaná smetana</td><td></td></tr><tr><td>kysané podmáslí</td><td></td></tr><tr><td>kysaný mléčný výrobek s bifido kulturou</td><td></td></tr><tr><td>Mléčný výrobek tepelně ošetřený po kysacím procesu</td><td></td><td></td></tr><tr><td>Mléčný výrobek obohacený přídavkem mléčné kultury</td><td></td><td></td></tr><tr><td rowspan="5">Máslo a koncentráty mléčného tuku</td><td>máselný tuk nebo mléčný tuk bezvodý</td><td></td></tr><tr><td>máselný koncentrát</td><td></td></tr><tr><td>čerstvé máslo</td><td></td></tr><tr><td>máslo</td><td></td></tr><tr><td>máslo stolní</td><td></td></tr><tr><td rowspan="2">Tvaroh</td><td>měkký nebo odtučněný <br> nízkotučný nebo jemný <br> polotučný <br> tučný</td><td>termizovaný</td></tr><tr><td>tvrdý</td><td></td></tr><tr><td rowspan="7">Sýr</td><td rowspan="3">přírodní</td><td>čerstvý</td></tr><tr><td>zrající<br> zrající pod mazem<br> zrající v celé hmotě<br> s plísní na povrchu<br> s plísní uvnitř hmoty<br> dvouplísňový<br> v solném nálevu, bílý<br> pařený</td></tr><tr><td>extra tvrdý (ke strouhání)<br> tvrdý<br> polotvrdý<br> poloměkký<br> měkký</td></tr><tr><td>tavený</td><td>roztíratelný <br> s lomem</td></tr><tr><td>tavený sýrový výrobek</td><td></td></tr><tr><td>tavený mléčný výrobek</td><td></td></tr><tr><td>syrovátkový</td><td></td></tr><tr><td rowspan="3">Bílkovinný mléčný výrobek</td><td>potravinářský kasein</td><td>kyselý <br> sladký</td></tr><tr><td>potravinářský kaseinát</td><td></td></tr><tr><td>mléčná bílkovina</td><td></td></tr><tr><td>Mléčný výrobek ostatní</td><td></td><td></td></tr></tbody></table>
+
+### Příloha č. 5
+
+#### Přípustné záporné hmotnostní a objemové odchylky balení mléka a mléčných výrobků
+
+<table><tbody><tr><th>Výrobek</th><th>Hmotnost nebo objem balení</th><th>Přípustná záporná hmotnostní nebo objemová odchylka</th></tr><tr><td rowspan="4">Mléko tekuté, smetana tekutá, kysaný nebo zakysaný mléčný výrobek, mléčné výrobky ostatní</td><td>do 250 ml nebo 250 g</td><td>- 5,0 % u jednotlivého balení</td></tr><tr><td>do 500 ml nebo 500 g</td><td>- 3,0 % u jednotlivého balení</td></tr><tr><td>do 1 000 ml nebo 1 000 g</td><td>- 2,0 % u jednotlivého balení</td></tr><tr><td>nad 1 000 ml nebo 1 000 g</td><td>- 1,5 % u jednotlivého balení</td></tr><tr><td rowspan="2">Zahuštěný mléčný výrobek</td><td>do 1 000 g</td><td>- 3,0 % u jednotlivého balení<br> - 1,0 % u 20 ks balení</td></tr><tr><td>nad 1 000 g</td><td>- 2,0 % u jednotlivého balení<br> - 0,5 % u 20 ks balení</td></tr><tr><td rowspan="3">Sušený mléčný výrobek, bílkovinný mléčný výrobek</td><td>do 250 g</td><td>- 3,0 % u jednotlivého balení<br> - 1,0 % u 20 ks balení</td></tr><tr><td>do 1 000 g</td><td>- 2,0 % u jednotlivého balení<br> - 0,5 % u 20 ks balení</td></tr><tr><td>nad 1 000 g</td><td>- 1,0 % u jednotlivého balení</td></tr><tr><td rowspan="4">Sýr a tvaroh včetně porcovaného a plátkovaného</td><td>do 125 g</td><td>- 10,0 % u jednotlivého balení<br> - 2,0 % u 20 ks balení</td></tr><tr><td>do 250 g</td><td>- 5,0 % u jednotlivého balení<br> - 1,0 % u 20 ks balení</td></tr><tr><td>do 500 g</td><td>- 3,0 % u jednotlivého balení<br> - 1,0 % u 20 ks balení</td></tr><tr><td>nad 500 g</td><td>- 1,0 % u jednotlivého balení</td></tr><tr><td rowspan="4">Sýr v nálevu po odkapání nálevu</td><td>do 125 g</td><td>- 15,0 % u jednotlivého balení<br> - 2,0 % u 20 ks balení</td></tr><tr><td>do 250 g</td><td>- 10,0 % u jednotlivého balení<br> - 2,0 % u 20 ks balení</td></tr><tr><td>do 500 g</td><td>- 5,0 % u jednotlivého balení<br> - 1,0 % u 20 ks balení</td></tr><tr><td>nad 500 g</td><td>- 2,0 % u jednotlivého balení<br> - 1,0 % u 20 ks balení</td></tr><tr><td rowspan="3">Máslo a koncentráty mléčného tuku a složené mléčné výrobky</td><td>do 20 g</td><td>- 10,0 % u jednotlivého balení<br> - 2,0 % u 20 ks balení</td></tr><tr><td>do 250 g</td><td>- 1,5 % u jednotlivého balení<br> - 1,0 % u 20 ks balení</td></tr><tr><td>nad 250 g</td><td>- 1,0 % u jednotlivého balení</td></tr></tbody></table>
+
+### Příloha č. 6 k vyhlášce č. 397/2016 Sb.
+
+#### Fyzikální a chemické požadavky na jednotlivé mléčné výrobky
+
+Tabulka 1 - Smetana tekutá
+
+| Druh výrobku | Obsah tuku (v % hmot. nejméně) |
+|---|---|
+| Smetana | 10,0 |
+| Smetana ke šlehání | 30,0 |
+| Smetana vysokotučná | 35,0 |
+
+Tabulka 2 - Zahuštěné mléčné výrobky
+
+Zahuštěné neslazené mléčné výrobky
+
+<table><tbody><tr><th>Druh výrobku</th><th>Obsah tuku (v % hmot.)</th><th>Mléčná sušina (v % hmot. nejméně)</th><th>Mléčná sušina tukuprostá (v % hmot. nejméně)</th></tr><tr><td>Zahuštěná neslazená smetana</td><td>nejméně 15,0</td><td>26,5</td><td>11,5</td></tr><tr><td>Zahuštěné neslazené plnotučné mléko</td><td>nejméně 7,5</td><td>25,0</td><td></td></tr><tr><td>Zahuštěné částečně odstředěné mléko</td><td>nejméně 1,0 méně než 7,5</td><td rowspan="3">20,0</td><td rowspan="2">17,5</td></tr><tr><td>v tom polotučné</td><td>4,0 – 4,5</td></tr><tr><td>Zahuštěné odstředěné mléko</td><td>nejvíce 1,0</td><td></td></tr></tbody></table>
+
+Zahuštěné slazené mléčné výrobky
+
+<table><tbody><tr><th>Druh výrobku</th><th>Obsah tuku (v % hmot.)</th><th>Mléčná sušina (v % hmot. nejméně)</th><th>Mléčná sušina tukuprostá (v % hmot. nejméně)</th></tr><tr><td>Zahuštěná slazená smetana</td><td>nejméně 16,0</td><td></td><td>14,0</td></tr><tr><td>Zahuštěné slazené plnotučné mléko</td><td>nejméně 8,0</td><td>28,0</td><td></td></tr><tr><td>Zahuštěné slazené mléko částečně odstředěné</td><td>nejméně 1,0 méně než 8,0</td><td rowspan="2">24,0</td><td rowspan="2">20,0</td></tr><tr><td>v tom polotučné</td><td>4,0 – 4,5</td></tr><tr><td>Zahuštěné slazené mléko odstředěné</td><td>nejvíce 1,0</td><td>24,0</td><td>20,0</td></tr></tbody></table>
+
+Tabulka 3 - Sušené mléčné výrobky
+
+| Druh výrobku | Obsah tuku (v % hmot.) |
+|---|---|
+| Sušená smetana | nejméně 42,0 |
+| Sušené plnotučné mléko | nejméně 26,0 a méně než 42,0 |
+| Sušené částečně odstředěné mléko | více než 1,5 a méně než 26,0 |
+| v tom polotučné | 14,0 až 16,0 |
+| Sušené odstředěné mléko | nejvíce 1,5 |
+
+Tabulka 4 - Kysané mléčné výrobky
+
+| Kysané mléčné výrobky | Obsah tuku (v % hmot.) | Obsah sušiny tukuprosté (v % hmot. nejméně) |
+|---|---|---|
+| Kysaná smetana | nejméně 10,0 | |
+| Kysané mléko včetně jogurtového | nejméně 0,5 | 8,0 |
+| Podmáslí | nejvíce 1,5 | 7,0 |
+| Jogurt bílý smetanový | nejméně 10,0 | |
+| Jogurt bílý | méně než 10,0 | 8,2 |
+
+Tabulka 5 – Klasifikace přírodních sýrů podle obsahu tuku v sušině
+
+| Kategorie sýra | Tuk v sušině (v % hmot.) |
+|---|---|
+| Vysokotučný | nejméně 60,0 |
+| Plnotučný | nejméně 45,0 a méně než 60,0 |
+| Polotučný | nejméně 25,0 a méně než 45,0 |
+| Nízkotučný | nejméně 10,0 a méně než 25,0 |
+| Odtučněný | méně než 10,0 |
+
+Obsah tuku v sušině v procentech hmotnostních se stanoví podle následujícího vzorce:
+
+%hmot. tuku v sušině=(hmotnost tuku v g)/(100-hmotnost vody v g)×100
+
+Tabulka 6 - Klasifikace přírodních sýrů podle konzistence ve vztahu k obsahu vody v tukuprosté hmotě sýra
+
+| Sýr | % VVTPH |
+|---|---|
+| Extra tvrdý | nejvíce 51 |
+| Tvrdý | 49 až 56 |
+| Polotvrdý | 54 až 63 |
+| Poloměkký | 61 až 69 |
+| Měkký | nejméně 67 |
+
+VVTPH = voda v tukuprosté hmotě sýra, která se stanoví podle následujícího vzorce:
+
+%VVTPH=(hmotnost vody v g)/(100-hmotnost tuku v g)×100
+
+Tabulka 7 - Klasifikace přírodního sýra podle zrání
+
+<table><tbody><tr><th>Sýr</th><th>Charakteristika</th></tr><tr><td rowspan="2">Sýr čerstvý</td><td>nezrající</td></tr><tr><td>termizovaný</td></tr><tr><td rowspan="3">Sýr zrající</td><td>na povrchu</td></tr><tr><td>s mazem na povrchu</td></tr><tr><td>v celé hmotě</td></tr><tr><td rowspan="3">z toho Plísňový sýr</td><td>s plísní na povrchu</td></tr><tr><td>s plísní uvnitř hmoty sýra</td></tr><tr><td>dvouplísňový</td></tr></tbody></table>
+
+Tabulka 8 - Klasifikace tvarohu podle konzistence a obsahu tuku v sušině
+
+| Tvaroh | Tuk v sušině (v % hmot.) |
+|---|---|
+| Tučný | nejméně 38,0 |
+| Polotučný | 15,0 až 25,0 |
+| Nízkotučný nebo jemný | nejvíce 15,0 |
+| Odtučněný nebo měkký nebo tvrdý | nejvíce 5,0 |
+
+Tabulka 9 – Přehled povolených složek jiných než sýry pro výrobu tavených sýrů a tavených sýrových výrobků a tavených mléčných výrobků
+
+<table><tbody><tr><th>Složka jiná než sýr</th><th colspan="2">Tavený sýr a tavený roztíratelný sýr</th><th>Tavený sýrový výrobek a tavený mléčný výrobek</th></tr><tr><td></td><td>druhově pojmenovaný</td><td>druhově nepojmenovaný</td><td></td></tr><tr><td>Máslo, máselný tuk, smetana, máselný koncentrát</td><td>pouze pro standardizaci obsahu tuku</td><td>ano</td><td>ano</td></tr><tr><td>Ostatní mléčné složky</td><td>ne</td><td>ano<br> obsah nejvýše 5 % hmot. laktózy ve finálním taveném sýru</td><td>ano</td></tr><tr><td>Jedlá sůl</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>Bakteriální kultury</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>Enzymy<sup>*</sup>)</td><td>ano</td><td>ano</td><td>ano</td></tr><tr><td>Cukry (sacharidy se sladícím účinkem)</td><td>ne</td><td>ne</td><td>ano</td></tr><tr><td>Koření a sezónní zelenina</td><td colspan="3">podle druhu výrobku a v množství, které postačuje, aby dodalo konečnému výrobku charakteristickou chuť</td></tr><tr><td>Ostatní zdravotně nezávadné potraviny</td><td colspan="2">ano</td><td>ano</td></tr></tbody></table>
+
+<sup>\*</sup>) zdravotně nezávadné se specifickými účinky
+
+### Příloha č. 7 k vyhlášce č. 397/2016 Sb.
+
+#### Přípustné záporné hmotnostní a objemové odchylky balení mražených krémů
+
+<table><tbody><tr><th>Výrobek</th><th>Hmotnost nebo objem balení</th><th>Přípustná záporná hmotnostní nebo objemová odchylka</th></tr><tr><td rowspan="3">Mražený krém</td><td>do 100 g</td><td>- 5,0 % u jednotlivého balení</td></tr><tr><td>do 500 g</td><td>- 3,0 % u jednotlivého balení</td></tr><tr><td>nad 500 g</td><td>- 1,0 % u jednotlivého balení</td></tr></tbody></table>
+
+### Příloha č. 8 k vyhlášce č. 397/2016 Sb.
+
+#### Členění mražených krémů na druhy, skupiny a podskupiny
+
+<table><tbody><tr><th>Druh</th><th>Skupina</th><th>Podskupina</th></tr><tr><td rowspan="6">Mražený krém</td><td>smetanový</td><td rowspan="6">podle použité ochucující složky např.:<br> vanilkový<br> jahodový<br> malinový<br> meruňkový<br> citrónový<br> pomerančový<br> oříškový<br> pistáciový<br> čokoládový<br> karamelový<br> kávový<br> kakaový</td></tr><tr><td>mléčný</td></tr><tr><td>s rostlinným tukem</td></tr><tr><td>vodový</td></tr><tr><td>ovocný</td></tr><tr><td>sorbet</td></tr></tbody></table>
+
+### Příloha č. 9 k vyhlášce č. 397/2016 Sb.
+
+#### Fyzikální a chemické požadavky na jakost mražených krémů
+
+| Druh | Celková sušina (v % hmot. | Tukuprostá mléčná sušina (v % hmot. nejméně) | Mléčný tuk (v % hmot. nejméně) | Ovocná složka (v % hmot. nejméně) | Suché skořápkové plody<br> (v % hmot. nejméně) |
+|---|---|---|---|---|---|
+| Mražený krém smetanový | | | 8,0 | | |
+| Mražený krém mléčný | | 6,0 | 2,5 | | |
+| Mražený krém s rostlinným tukem | | | 5,0 (obsah rostlinného tuku) | | |
+| Mražený krém vodový | 12,0 | | | | |
+| Mražený krém ovocný | 12,0 | | | 15,0 | 5,0 |
+| Mražený krém sorbet | 12,0 | | | 25,0 | 7,0 |
+
+Poznámka: U mraženého krému ovocného a mraženého krému sorbet platí v závislosti na použité ochucující složce požadavek pro obsah ovocné složky nebo pro obsah suchých skořápkových plodů.
+
+### Příloha č. 10 k vyhlášce č. 397/2016 Sb.
+
+#### Přípustné záporné hmotnostní a objemové odchylky balení jedlých tuků a olejů
+
+<table><tbody><tr><th>Výrobek</th><th>Hmotnost nebo objem balení</th><th>Přípustná záporná hmotnostní nebo objemová odchylka</th></tr><tr><td rowspan="2">Rostlinný olej</td><td rowspan="2">do 1 litru</td><td>- 4,0 % u jednotlivého balení</td></tr><tr><td>- 2,0 % u 20 ks balení</td></tr><tr><td rowspan="2">Tekutý emulgovaný tuk</td><td>1 až 15 litrů</td><td>- 1,0 % u jednotlivého balení</td></tr><tr><td>nad 15 litrů</td><td>- 0,1 % u jednotlivého balení</td></tr><tr><td rowspan="4">Roztíratelný tuk, směsný roztíratelný tuk, ztužené a pokrmové tuky, živočišné tuky</td><td rowspan="2">do 500 g</td><td>- 1,5 % u jednotlivého balení</td></tr><tr><td>- 1,0 % u 20 ks balení</td></tr><tr><td>0,5 až 5,0 kg</td><td>- 1,0 % u jednotlivého balení</td></tr><tr><td>nad 5 kg</td><td>- 0,1 % u jednotlivého balení</td></tr></tbody></table>
+
+### Příloha č. 11 k vyhlášce č. 397/2016 Sb.
+
+#### Členění jedlých tuků a olejů na druhy, skupiny a podskupiny
+
+#### Tabulka 1 - Základní členění jedlých tuků a olejů na druhy, skupiny a podskupiny
+
+<table><tbody><tr><th>Druh</th><th>Skupina</th><th>Podskupina</th></tr><tr><td rowspan="5">Jedlý tuk nebo jedlý olej</td><td>rostlinný jednodruhový nebo podle konkrétního rostlinného původu<br><br> rostlinný vícedruhový</td><td>fritovací <br> panenský</td></tr><tr><td>vepřové sádlo <br> výběrový hovězí lůj <br> hovězí lůj <br> podle druhu živočicha</td><td></td></tr><tr><td>plně ztužený <br> částečně ztužený</td><td></td></tr><tr><td>pokrmový</td><td></td></tr><tr><td>tekutý emulgovaný</td><td></td></tr></tbody></table>
+
+Tabulka 2 - Členění a požadavky na jednodruhové rostlinné tuky a oleje
+
+| Výrobek | Požadavky |
+|---|---|
+| Olej z podzemnice olejné | olej vyrobený z jader podzemnice olejné(jádra druhu Arachis hypogaea L.) |
+| Babassový olej | vyrobený z jader plodů několika druhů palem Orbignya spp. |
+| Kokosový tuk | vyrobený z dužiny (kopry) kokosových ořechů, plodů palmy kokosové (Cocos nucifera L.) |
+| Bavlníkový olej | vyrobený ze semen různých kultivovaných druhů bavlníku Gossypum spp. |
+| Hroznový olej | vyrobený ze semen hroznů révy vinné (Vitis vinifera L.) |
+| Kukuřičný olej | vyrobený z klíčků kukuřice (zárodek Zea mays L.) |
+| Hořčičný olej | Vyrobený ze semen hořčice bílé (Sinapis alba L. nebo Brassica hirta Moench), hořčice hnědé nebo žluté (Brassica juncea (L.) Czernajev a Cossen) a hořčice černé (Brassica negra (L.) Koch). |
+| Palmojádrový tuk | vyrobený z jader plodů palmy olejové (Elaeis guineensis) |
+| palmojádrový tuk frakcionovaný - olein | tekutá frakce získaná z palmojádrového tuku frakcionací |
+| palmojádrový tuk frakcionovaný - stearin | pevná frakce s vysokým bodem tání získaná z palmojádrového tuku frakcionací |
+| Palmový tuk | vyrobený z dužiny plodů palmy olejové(Elaeis guineensis) |
+| palmový tuk frakcionovaný - olein | tekutá frakce získaná z palmového tuku frakcionací |
+| palmojádrový tuk frakcionovaný - stearin | pevná frakce s vysokým bodem tání získaná z palmového tuku frakcionací |
+| palmojádrový tuk frakcionovaný - superolein | tekutá frakce získaná z palmového tuku speciálním procesem řízené krystalizace tak, aby bylo dosaženo hodnoty jodového čísla 60 nebo více |
+| Řepkový olej | vyrobený ze semen druhů řepky olejné Brassica napus L., Brassica campestris L., Brassica juncea L. a Brassica tournefortii Gouan |
+| Řepkový olej nízkoerukový | vyrobený ze semen s nízkým obsahem kyseliny erukové vyšlechtěných druhů řepky olejné Brassica napus L., Brassica campestris L. a Brassica juncea L. musí obsahovat nejvíce 2 % hmot. erukové kyseliny z celkového obsahu mastných kyselin |
+| Rýžový olej | vyrobený z otrub rýže (Oriza sativa L.) |
+| Světlicový olej | vyrobený ze semen světlice barvířské (Carthamus tinctorius L.) |
+| Světlicový olej s vysokým obsahem kyseliny olejové | vyrobený ze semen s vysokým obsahem kyseliny olejové kultivovaných druhů světlice barvířské (Carthamus tinctorius L.) musí obsahovat nejméně 70 % hmot. kyseliny olejové z celkového množství mastných kyselin |
+| Sezamový olej | vyrobený ze semen sezamu (Sesamum indicum L.) |
+| Sójový olej | vyrobený ze semen sóji (Glycine max (L.) Merr.) |
+| Slunečnicový olej | vyrobený ze semen slunečnice (Helianthus annuu L.) |
+| Slunečnicový olej s vysokým obsahem kyseliny olejové | vyrobený ze semen s vysokým obsahem kyseliny olejové kultivovaných druhů semen slunečnice(Helianthus annuu L.) musí obsahovat nejméně 75 % hmot. kyseliny olejové z celkového množství mastných kyselin |
+| Olivový olej | olej získaný z plodů olivovníku (Olea europaea sativa Hoff. et Link) |
+| Konopný olej | vyrobený ze semen konopí setého *(Cannabis sativa**)* |
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady (EU) 2015/2203 ze dne 25. listopadu 2015 o sbližování právních předpisů členských států týkajících se kaseinů a kaseinátů určených k lidské spotřebě a o zrušení směrnice Rady 83/417/EHS. 
+ Směrnice 2001/114/ES ze dne 20. prosince 2001 o některých druzích zahuštěného a sušeného mléka určeného k lidské spotřebě. 
+ Směrnice Rady 2007/61/ES ze dne 26. září 2007, kterou se mění směrnice 2001/114/ES o některých druzích zahuštěného a sušeného mléka určeného k lidské spotřebě. 
+ Směrnice Evropského parlamentu a Rady (EU) 2024/1438 ze dne 14. května 2024, kterou se mění směrnice Rady 2001/110/ES o medu, 2001/112/ES o ovocných šťávách a některých podobných produktech určených k lidské spotřebě, 2001/113/ES o ovocných džemech, rosolech a marmeládách a kaštanovém krému určených k lidské spotřebě a 2001/114/ES o některých druzích zahuštěného a sušeného mléka určeného k lidské spotřebě.
+
+<sup>2</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 1308/2013 ze dne 17. prosince 2013, kterým se stanoví společná organizace trhů se zemědělskými produkty a zrušují nařízení Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (EU) č. 1169/2011 o poskytování informací o potravinách spotřebitelům, o změně nařízení Evropského parlamentu a Rady (ES) č. 1924/2006 a (ES) č. 1925/2006 a o zrušení směrnice Komise 87/250/EHS, směrnice Rady 90/496/EHS, směrnice Komise 1999/10/ES, směrnice Evropského parlamentu a Rady 2000/13/ES, směrnic Komise 2002/67/ES a 2008/5/ES a nařízení Komise (ES) č. 608/2004, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 853/2004 ze dne 29. dubna 2004, kterým se stanoví zvláštní hygienická pravidla pro potraviny živočišného původu, v platném znění.
+
+<sup>3</sup>) Zákon č. 166/1999 Sb., o veterinární péči a o změně a doplnění některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů. 
+ Vyhláška č. 289/2007 Sb., o veterinárních a hygienických požadavcích na živočišné produkty, které nejsou upraveny přímo použitelnými předpisy Evropských společenství, ve znění vyhlášky č. 61/2009 Sb. 
+ Vyhláška č. 128/2009 Sb., o přizpůsobení veterinárních a hygienických požadavků pro některé potravinářské podniky, v nichž se zachází se živočišnými produkty.
+
+<sup>4</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 852/2004 ze dne 29. dubna 2004 o hygieně potravin. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+<sup>5</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 853/2004.
+
+<sup>6</sup>) Vyhláška č. 76/2003 Sb., kterou se stanoví požadavky pro přírodní sladidla, med, cukrovinky, kakaový prášek a směsi kakaa s cukrem, čokoládu a čokoládové bonbony, ve znění vyhlášky č. 43/2005 Sb.
+
+<sup>7</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1925/2006 ze dne 20. prosince 2006 o přidávání vitaminů a minerálních látek a některých dalších látek do potravin, v platném znění.
+
+<sup>8</sup>) Zákon č. 477/2001 Sb., o obalech a o změně některých zákonů (zákon o obalech), ve znění pozdějších předpisů.
+
+<sup>9</sup>) Vyhláška č. 54/2004 Sb., o potravinách určených pro zvláštní výživu a o způsobu jejich použití, ve znění pozdějších předpisů.
+
+<sup>10</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1333/2008 ze dne 16. prosince 2008 o potravinářských přídatných látkách. 
+ Nařízení Evropského parlamentu a Rady (ES) č. 1332/2008 ze dne 16. prosince 2008 o potravinářských enzymech a o změně směrnice Rady 83/417/EHS, nařízení Rady (ES) č. 1493/1999, směrnice 2000/13/ES, směrnice Rady 2001/112/ES a nařízení (ES) č. 258/97.
+
+<sup>11</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 1169/2011.
+
+<sup>12</sup>) Vyhláška č. 366/2005 Sb., o požadavcích vztahujících se na některé zmrazené potraviny.
+
+<sup>13</sup>) Zákon č. 505/1990 Sb., o metrologii, ve znění pozdějších předpisů.
+
+<sup>14</sup>) Zákon č. 166/1999 Sb., ve znění pozdějších předpisů.
+
+<sup>15</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 1308/2013. 
+ Nařízení Evropského parlamentu a Rady (EU) č. 1169/2011.
+
+<sup>16</sup>) Nařízení Evropského parlamentu a Rady (EU) č. 1308/2013. 
+ Nařízení Komise v přenesené pravomoci (EU) 2022/2104 ze dne 29. července 2022, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o obchodní normy pro olivový olej, a zrušuje nařízení Komise (EHS) č. 2568/91 a prováděcí nařízení Komise (EU) č. 29/2012, v platném znění.

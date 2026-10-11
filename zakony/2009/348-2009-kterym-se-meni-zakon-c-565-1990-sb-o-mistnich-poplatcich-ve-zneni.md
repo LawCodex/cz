@@ -1,0 +1,54 @@
+---
+title: "Zákon č. 348/2009 Sb., kterým se mění zákon č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů"
+identifier: "348/2009 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2009/348/2010-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2009-09-11
+effective: 2010-01-01
+last_amended: 2010-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2009/348"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 348/2009 Sb., kterým se mění zákon č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů
+
+348
+
+ZÁKON
+
+ze dne 11. září 2009,
+
+kterým se mění zákon č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ
+
+### Čl. I
+
+Zákon č. 565/1990 Sb., o místních poplatcích, ve znění zákona č. 184/1991 Sb., zákona č. 338/1992 Sb., zákona č. 48/1994 Sb., zákona č. 305/1997 Sb., zákona č. 149/1998 Sb., zákona č. 185/2001 Sb., zákona č. 274/2001 Sb., zákona č. 320/2002 Sb., zákona č. 229/2003 Sb. a zákona č. 270/2007 Sb., se mění takto:
+
+1\. V § 7 odstavec 1 zní:
+
+> „(1) Poplatek z ubytovací kapacity se vybírá v obcích a městech v zařízeních určených k přechodnému ubytování za úplatu.“.
+
+2\. V § 7 odst. 2 se písmeno b) zrušuje.
+
+3\. V § 7 odstavec 4 zní:
+
+> „(4) Sazba poplatku z ubytovací kapacity činí až 6 Kč za každé využité lůžko a den. Obec může po dohodě s poplatníkem stanovit poplatek roční paušální částkou.“.
+
+## ČÁST DRUHÁ
+
+### Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2010.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Fischer v. r.

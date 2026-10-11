@@ -1,0 +1,46 @@
+---
+title: "Vyhláška č. 252/2007 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění pozdějších předpisů"
+identifier: "252/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/252/2007-10-09"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2007-09-27
+effective: 2007-10-09
+last_amended: 2007-10-09
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/252"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 252/2007 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění pozdějších předpisů
+
+252
+
+VYHLÁŠKA
+
+ze dne 27. září 2007,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění pozdějších předpisů
+
+Ministerstvo spravedlnosti stanoví podle § 40 odst. 2 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění zákona č. 14/2002 Sb. a zákona č. 79/2006 Sb.:
+
+## Čl. I
+
+Ve vyhlášce č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 88/2005 Sb., se za § 7a vkládá nový § 7b, který zní:
+
+> **„§ 7b – Krajské státní zastupitelství v Brně - pobočka v Jihlavě**
+
+> (1) V obvodu Krajského státního zastupitelství v Brně se zřizuje jeho pobočka v Jihlavě.
+
+> (2) Sídlem pobočky je město Jihlava.“.
+
+Dosavadní § 7b se označuje jako § 7c.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+JUDr. Pospíšil v. r.

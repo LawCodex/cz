@@ -1,0 +1,64 @@
+---
+title: "Vyhláška č. 330/2008 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 330/2001 Sb., o odměně a náhradách soudního exekutora, o odměně a náhradě hotových výdajů správce podniku a o podmínkách pojištění odpovědnosti za škody způsobené exekutorem, ve znění pozdějších předpisů"
+identifier: "330/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/330/2008-11-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2008-08-25
+effective: 2008-11-01
+last_amended: 2008-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/330"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 330/2008 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 330/2001 Sb., o odměně a náhradách soudního exekutora, o odměně a náhradě hotových výdajů správce podniku a o podmínkách pojištění odpovědnosti za škody způsobené exekutorem, ve znění pozdějších předpisů
+
+330
+
+VYHLÁŠKA
+
+ze dne 25. srpna 2008,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 330/2001 Sb., o odměně a náhradách soudního exekutora, o odměně a náhradě hotových výdajů správce podniku a o podmínkách pojištění odpovědnosti za škody způsobené exekutorem, ve znění pozdějších předpisů
+
+Ministerstvo spravedlnosti stanoví podle § 131 písm. a) zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů:
+
+## Čl. I
+
+Vyhláška č. 330/2001 Sb., o odměně a náhradách soudního exekutora, o odměně a náhradě hotových výdajů správce podniku a o podmínkách pojištění odpovědnosti za škody způsobené exekutorem, ve znění vyhlášky č. 233/2004 Sb., vyhlášky č. 291/2006 Sb. a vyhlášky č. 94/2007 Sb., se mění takto:
+
+1\. V § 11 odst. 1 písmeno a) zní:
+
+> „a) ve výši 50 % odměny podle § 6 odst. 1 a 2, jde-li o exekuci ukládající zaplacení peněžité částky,“.
+
+2\. V § 11 odst. 2 písm. a) se za slova „exekuční titul,“ vkládají slova „jakož i k úhradě nákladů exekuce,“.
+
+3\. V § 11 odst. 2 písm. b) se slovo „přiměřené“ nahrazuje slovem „patnáctidenní“.
+
+4\. V § 11 se za odstavec 2 vkládá nový odstavec 3, který zní:
+
+> „(3) Ve výzvě podle odstavce 2 písm. a) exekutor povinného poučí o tom, že bude-li povinnost, kterou ukládá exekuční titul, splněna ve lhůtě podle odstavce 2 písm. b), a v téže lhůtě budou uhrazeny náklady exekuce, náleží exekutorovi v rámci nákladů exekuce odměna podle odstavce 1. Ve výzvě exekutor poučí povinného rovněž o podmínkách, za nichž mu náleží odměna podle odstavce 2.“.
+
+Dosavadní odstavce 3 až 6 se označují jako odstavce 4 až 7.
+
+5\. V § 11 odst. 5 se číslo „3“ nahrazuje číslem „4“.
+
+6\. V § 11 odst. 7 se číslo „5“ nahrazuje číslem „6“.
+
+7\. V § 12 odst. 2 větě první se číslo „30“ nahrazuje číslem „50“.
+
+8\. V § 13 se odstavec 5 zrušuje.
+
+## Čl. II – Přechodné ustanovení
+
+Exekuční řízení zahájená a nedokončená do dne nabytí účinnosti této vyhlášky se dokončí podle vyhlášky č. 330/2001 Sb., ve znění účinném do dne nabytí účinnosti této vyhlášky.
+
+## Čl. III – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. listopadu 2008.
+
+Ministr:
+
+JUDr. Pospíšil v. r.

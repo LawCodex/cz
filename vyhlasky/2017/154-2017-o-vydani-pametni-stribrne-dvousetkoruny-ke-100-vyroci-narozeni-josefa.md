@@ -1,0 +1,62 @@
+---
+title: "Vyhláška č. 154/2017 Sb., o vydání pamětní stříbrné dvousetkoruny ke 100. výročí narození Josefa Kainara"
+identifier: "154/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/154/2017-06-14"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-05-05
+effective: 2017-06-14
+last_amended: 2017-06-14
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/154"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 154/2017 Sb., o vydání pamětní stříbrné dvousetkoruny ke 100. výročí narození Josefa Kainara
+
+154
+
+VYHLÁŠKA
+
+ze dne 5. května 2017
+
+o vydání pamětní stříbrné dvousetkoruny ke 100. výročí narození Josefa Kainara
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 14. června 2017 se ke 100. výročí narození Josefa Kainara vydává pamětní stříbrná mince po 200 Kč (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,25 mm. Při ražbě dvousetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.925 \* 13 g \*“.
+
+## § 2
+
+(1) Na lícní straně dvousetkoruny je ve spodní části zobrazena otevřená kniha, nad kterou se vznáší ve čtyřech řádcích rozvlněný text „STŘÍHALI DOHOLA MALÉHO CHLAPEČKA KADEŘE PADALY K ZEMI A ZMÍRALY“. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ a názvem státu „ČESKÁ REPUBLIKA“ je umístěno v horní polovině mince. Mincovní pole nad knihou je dále vyplněno vznášejícími se plastickými prvky, které dotvářejí celkovou výtvarnou kompozici mince. Značka České mincovny tvořená písmeny „Č“ a „M“ je umístěna při spodním okraji mince.
+
+(2) Na rubové straně dvousetkoruny je ztvárněn portrét Josefa Kainara. Při horním okraji mince jsou umístěny letopočty „1917 – 2017“, pod kterými se nachází text „JOSEF KAINAR“. Iniciála autora mince Vojtěcha Dostála, DiS., která je tvořena obráceným písmenem „D“, je umístěna při pravém spodním okraji dvousetkoruny.
+
+(3) Vyobrazení dvousetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 14. června 2017.
+
+Guvernér:
+
+v z. Ing. Hampl, MSc., Ph.D., v. r.
+
+viceguvernér
+
+### Příloha k vyhlášce č. 154/2017 Sb.
+
+#### Vyobrazení pamětní stříbrné dvousetkoruny ke 100. výročí narození Josefa Kainara
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2017c053z0154p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834837/NAHLED/ZOBRAZ/sbcr2017c053z0154p001o001)
+
+#### ![sbcr2017c053z0154p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/834839/NAHLED/ZOBRAZ/sbcr2017c053z0154p001o002)

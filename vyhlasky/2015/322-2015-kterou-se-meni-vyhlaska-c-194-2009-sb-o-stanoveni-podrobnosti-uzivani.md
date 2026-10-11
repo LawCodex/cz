@@ -1,0 +1,38 @@
+---
+title: "Vyhláška č. 322/2015 Sb., kterou se mění vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, ve znění vyhlášky č. 422/2010 Sb."
+identifier: "322/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/322/2016-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-11-26
+effective: 2016-01-01
+last_amended: 2016-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/322"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 322/2015 Sb., kterou se mění vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, ve znění vyhlášky č. 422/2010 Sb.
+
+322
+
+VYHLÁŠKA
+
+ze dne 26. listopadu 2015,
+
+kterou se mění vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, ve znění vyhlášky č. 422/2010 Sb.
+
+Ministerstvo vnitra stanoví podle § 20 odst. 3 zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění zákona č. 190/2009 Sb. a zákona č. 263/2011 Sb.:
+
+## Čl. I
+
+V § 5 vyhlášky č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, se číslo „10“ nahrazuje číslem „20“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2016.
+
+Ministr:
+
+Chovanec v. r.

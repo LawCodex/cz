@@ -1,0 +1,412 @@
+---
+title: "Nařízení vlády č. 239/2007 Sb., o stanovení podmínek pro poskytování dotací na zalesňování zemědělské půdy"
+identifier: "239/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/239/2023-04-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2007-08-29
+effective: 2007-10-01
+last_amended: 2023-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/239"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 239/2007 Sb., o stanovení podmínek pro poskytování dotací na zalesňování zemědělské půdy ve znění nařízení vlády č. 148/2008 Sb., nařízení vlády č. 83/2009 Sb., nařízení vlády č. 480/2009 Sb., nařízení vlády č. 369/2010 Sb., nařízení vlády č. 448/2012 Sb., nařízení vlády č. 298/2013 Sb., nařízení vlády č. 400/2013 Sb., nařízení vlády č. 29/2014 Sb., nařízení vlády č. 308/2014 Sb., nařízení vlády č. 113/2015 Sb., nařízení vlády č. 61/2016 Sb., nařízení vlády č. 49/2017 Sb., nařízení vlády č. 64/2020 Sb., nařízení vlády č. 217/2020 Sb., nařízení vlády č. 177/2021 Sb. a nařízení vlády č. 84/2023 Sb."
+---
+
+# Nařízení vlády č. 239/2007 Sb., o stanovení podmínek pro poskytování dotací na zalesňování zemědělské půdy
+
+239
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 29. srpna 2007
+
+o stanovení podmínek pro poskytování dotací na zalesňování zemědělské půdy
+
+Vláda nařizuje podle § 2c odst. 5 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 85/2004 Sb., (dále jen „zákon“) k provedení § 2c odst. 2 písm. b) zákona a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb.:
+
+## § 1 – Předmět úpravy
+
+(1) Toto nařízení<sup>1</sup>) upravuje v návaznosti na přímo použitelné předpisy Evropských společenství<sup>2</sup>) (dále jen „předpis Evropských společenství“) bližší podmínky poskytování dotací na zalesňování zemědělské půdy.
+
+(2) Dotace podle odstavce 1 se poskytují na založení lesního porostu výsadbou na pozemku evidovaném v evidenci využití zemědělské půdy podle uživatelských vztahů<sup>3</sup>) (dále jen „evidence půdy“) na žadatele a následné pečování o takto vzniklý lesní porost.
+
+## § 2 – Dotace na zalesňování zemědělské půdy
+
+(1) Na zalesňování zemědělské půdy lze poskytnout
+
+a) dotaci na založení lesního porostu (dále jen „dotace na zalesnění“),
+
+b) dotaci na péči o lesní porost po dobu 5 kalendářních let, počínaje rokem následujícím po roce, v němž bylo provedeno zalesnění, (dále jen „dotace na péči o lesní porost“),
+
+c) náhradu za ukončení zemědělské výroby na zalesněném pozemku po dobu 15 kalendářních let, počínaje rokem následujícím po roce, v němž bylo provedeno zalesnění, (dále jen „náhrada za ukončení zemědělské výroby“).
+
+(2) Dotace na péči o lesní porost se poskytne nejvýše na výměru, na kterou byla poskytnuta dotace na zalesnění, nestanoví-li toto nařízení jinak.
+
+(3) Náhrada za ukončení zemědělské výroby se poskytne
+
+a) nejvýše na výměru, na kterou byla poskytnuta dotace na zalesnění, nestanoví-li toto nařízení jinak,
+
+b) pokud tento pozemek byl alespoň po dobu nejméně 12 měsíců předcházejících datu podání žádosti o poskytnutí dotace na zalesnění evidován v evidenci půdy.
+
+(4) Dotace na zalesňování zemědělské půdy se poskytne žadateli, který je
+
+a) vlastníkem pozemku určeného k zalesnění,
+
+b) sdružením vlastníků pozemků určených k zalesnění, jde-li o sdružení s právní subjektivitou,
+
+c) spoluvlastníkem pozemku určeného k zalesnění, a to za podmínky písemného souhlasu spoluvlastníků většiny spoluvlastnických podílů<sup>4</sup>),
+
+d) nájemcem pozemku určeného k zalesnění, a to za podmínky písemného souhlasu vlastníka, popřípadě spoluvlastníků většiny spoluvlastnických podílů<sup>4</sup>) k využití pozemku pro zalesnění, a za podmínky, že nájemní smlouva umožňuje dodržení podmínky pro poskytnutí dotace podle § 6 odst. 1 písm. a), nebo
+
+e) sdružením nájemců pozemků určených k zalesnění, jde-li o sdružení s právní subjektivitou, a to za podmínky písemného souhlasu vlastníků, popřípadě spoluvlastníků většiny spoluvlastnických podílů<sup>4</sup>) k využití pozemků pro zalesnění, a za podmínky, že nájemní smlouvy umožňují dodržení podmínky pro poskytnutí dotace podle § 6 odst. 1 písm. a).
+
+(5) Dotace na péči o lesní porost a náhrada za ukončení zemědělské výroby se neposkytne státnímu podniku, obci, sdružení obcí, kraji, sdružení krajů, sdružení obcí a krajů, státu a jimi zřízeným příspěvkovým organizacím a organizačním složkám a veřejným výzkumným institucím. Dotace na péči o lesní porost a náhrada za ukončení zemědělské výroby se neposkytne rovněž právnické osobě, v níž mají osoby uvedené ve větě první alespoň 50% majetkovou účast.
+
+(6) Dotaci na zalesnění, dotaci na péči o lesní porost a náhradu za ukončení zemědělské výroby nelze poskytnout na pozemek, který se nachází na území hlavního města Prahy<sup>5</sup>).
+
+(7) Dotaci na zalesňování nelze poskytnout na část půdního bloku<sup>6</sup>), popřípadě na část dílu půdního bloku, evidovanou v evidenci půdy, na které byl uplatněn postup podle § 3g odst. 4 zákona.
+
+## § 3 – Žádost o poskytnutí dotace na zalesnění
+
+(1) Žádost o poskytnutí dotace na zalesnění pro příslušný kalendářní rok doručí žadatel Státnímu zemědělskému intervenčnímu fondu (dále jen „Fond“) na Fondem vydaném formuláři po provedení zalesnění, a to nejpozději do 30. listopadu příslušného kalendářního roku, ve kterém byl pozemek zalesněn; k žádostem doručeným po tomto datu se nepřihlíží.
+
+(2) Nedílnou součástí žádosti o poskytnutí dotace na zalesnění je
+
+a) seznam zalesněných pozemků, jejich označení v katastru nemovitostí a příslušnost do půdního bloku<sup>6</sup>), popřípadě jeho dílu, včetně druhu kultury v evidenci půdy před zalesněním a výměry, druhu a počtu dřevin,
+
+b) výpis z katastru nemovitostí pro zalesňované pozemky, který není starší 3 měsíců,
+
+c) písemný souhlas vlastníka, popřípadě spoluvlastníků většiny spoluvlastnických podílů<sup>4</sup>) pozemku se zalesňováním tohoto pozemku, jde-li o žadatele podle § 2 odst. 4 písm. c), d) nebo e),
+
+d) úředně ověřená kopie nájemní smlouvy umožňující dodržet podmínku stanovenou v § 6 odst. 1 písm a), jde-li o žadatele podle § 2 odst. 4 písm. d) nebo e),
+
+e) rozhodnutí orgánu státní správy lesů o prohlášení zalesněného pozemku za pozemek určený k plnění funkcí lesa podle zvláštního právního předpisu<sup>7</sup>); lhůta, která uplyne ode dne nabytí právní moci rozhodnutí k datu zalesnění, nesmí být delší než lhůta stanovená pro zalesnění podle zvláštního právního předpisu<sup>7</sup>),
+
+f) vyjádření místně příslušného pozemkového úřadu v těch případech, kdy zalesněný pozemek je na základě rozhodnutí pozemkového úřadu v řízení o pozemkových úpravách evidován v katastru nemovitostí již jako lesní pozemek; doklad podle tohoto písmene nahrazuje doklad podle písmene e), k) a l); lhůta, která uplyne ode dne nabytí právní moci rozhodnutí k datu zalesnění, nesmí být delší než 24 měsíců,
+
+g) projekt zalesnění, jehož náležitosti jsou stanoveny v příloze č. 1 k tomuto nařízení,
+
+h) potvrzení odborného lesního hospodáře, že projekt zalesnění byl zpracován v souladu s vyjádřením Ústavu pro hospodářskou úpravu lesů o typologickém zařazení zalesňovaných pozemků a zalesnění bylo provedeno v souladu s projektem zalesnění,
+
+i) doklad o původu reprodukčního materiálu lesních dřevin použitého při zalesnění<sup>8</sup>),
+
+j) zákres příslušných půdních bloků<sup>6</sup>), popřípadě jejich dílů v mapě půdních bloků z evidence půdy v měřítku 1 : 10 000, s vyznačením rozmístění jednotlivých druhů dřevin a umístění oplocení, pokud je navrhováno,
+
+k) kopie ohlášení změny druhu pozemku na lesní pozemek potvrzená podatelnou příslušného katastrálního úřadu podle zvláštního právního předpisu<sup>9</sup>),
+
+l) rozhodnutí o změně využití území podle zvláštního právního předpisu<sup>10</sup>).
+
+(3) Žádost podle odstavce 1 nelze Fondu podat pro období počínající rokem 2014 a pro období následující.
+
+## § 4 – Žádost o poskytnutí dotace na péči o lesní porost a žádost o poskytnutí náhrady za ukončení zemědělské výroby
+
+(1) Žádost o poskytnutí dotace na péči o lesní porost doručí žadatel Fondu na jím vydaném formuláři pro příslušný kalendářní rok každoročně po dobu 5 kalendářních let počínaje rokem následujícím po roce zalesnění, a to do 15. května příslušného kalendářního roku.
+
+(2) Žádost o poskytnutí náhrady za ukončení zemědělské výroby doručí žadatel Fondu na jím vydaném formuláři pro příslušný kalendářní rok každoročně po dobu 15 kalendářních let počínaje rokem následujícím po roce zalesnění, a to do 15. května příslušného kalendářního roku. Byl-li žadatel v době zalesnění zemědělským podnikatelem<sup>12</sup>), přikládá k žádosti v prvním roce, ve kterém žádá o náhradu za ukončení zemědělské výroby, osvědčení o zápisu do evidence zemědělského podnikatele<sup>12</sup>).
+
+(3) Je-li žádost doručena po lhůtě uvedené v odstavci 1 nebo 2, bude platba za podmínek stanovených předpisem Evropských společenství<sup>13</sup>) snížena nebo žádost zamítnuta.
+
+(4) Současně s doručením žádosti uvedené v odstavci 1 nebo 2 žadatel doručí formulář jednotné žádosti, ve kterém uvede veškerou plochu v souladu s předpisy Evropských společenství<sup>13</sup>).
+
+(5) Případnou změnu žádosti o poskytnutí náhrady za ukončení zemědělské výroby podle podmínek stanovených přímo použitelným předpisem Evropské unie<sup>34</sup>) doručí žadatel Fondu do 31. května příslušného kalendářního roku na formuláři vydaném Fondem.
+
+## § 5 – Výše dotace na zalesnění, dotace na péči o lesní porost a náhrady za ukončení zemědělské výroby
+
+(1) Sazba
+
+a) dotace na zalesnění
+
+1\. listnatými dřevinami činí 2 590 EUR na 1 hektar; v méně příznivých oblastech<sup>14</sup>) 2 961 EUR na 1 hektar,
+
+2\. jehličnatými dřevinami činí 1 954 EUR na 1 hektar; v méně příznivých oblastech<sup>14</sup>) 2 233 EUR na 1 hektar,
+
+b) dotace na péči o lesní porost činí 437 EUR na 1 hektar za kalendářní rok,
+
+c) náhrady za ukončení zemědělské výroby u pozemku, který byl před jeho zalesněním travním porostem nebo jinou kulturou podle evidence půdy, činí 149 EUR na 1 hektar za kalendářní rok,
+
+d) náhrady za ukončení zemědělské výroby u pozemku, který byl před jeho zalesněním ornou půdou, chmelnicí, vinicí, ovocným sadem, školkou nebo zelinářskou zahradou podle evidence půdy, pro žadatele, který v době zalesnění
+
+1\. byl zemědělským podnikatelem<sup>12</sup>), činí 294 EUR na 1 hektar za kalendářní rok,
+
+2\. nebyl zemědělským podnikatelem<sup>12</sup>), činí 149 EUR na 1 hektar za kalendářní rok.
+
+(2) Pokud se více než 50 % výměry zalesněného půdního bloku<sup>6</sup>), popřípadě jeho dílu nachází v méně příznivých oblastech<sup>14</sup>), pro dotaci na zalesnění se použije sazba pro tyto oblasti uvedená v odstavci 1.
+
+(3) Výši dotace na zalesnění, dotace na péči o lesní porost a náhrady za ukončení zemědělské výroby Fond vypočte jako součin výměry, na kterou je poskytována dotace, a sazby uvedené v odstavci 1.
+
+(4) Z výměry, na kterou se poskytuje dotace na zalesnění, se neodečítají neosázené plochy do šířky 4 metrů včetně, sloužící zejména jako rozčleňovací průseky nebo nezpevněné lesní cesty<sup>7</sup>).
+
+(5) Je-li v příslušném kalendářním roce zalesněný pozemek deklarován žadatelem v jednotné žádosti jako plocha využívaná v ekologickém zájmu podle § 16 odst. 2 nařízení vlády č. 50/2015 Sb., o stanovení některých podmínek poskytování přímých plateb zemědělcům a o změně některých souvisejících nařízení vlády, náhrada za ukončení zemědělské výroby podle odstavce 1 písm. c) a d) se neposkytne na výměru zalesněného pozemku vyhrazenou jako plocha využívaná v ekologickém zájmu.
+
+(6) Fond poskytne dotaci v měně České republiky; sazba dotace podle odstavce 1 se přepočte podle směnného kurzu, který je uveřejněn v prvním Úředním věstníku Evropské unie vydaném v kalendářním roce, za který se platba poskytuje, a který je uveden k datu, které je nejblíže začátku tohoto kalendářního roku.
+
+## § 6 – Podmínky poskytnutí dotace na zalesnění, dotace na péči o lesní porost a náhrady za ukončení zemědělské výroby
+
+(1) Dotaci na zalesnění, dotaci na péči o lesní porost a náhradu za ukončení zemědělské výroby lze poskytnout, jestliže pozemek žadatele byl před zalesněním evidován v evidenci půdy, je součástí půdního bloku<sup>6</sup>), popřípadě jeho dílu, a je součástí souvisle zalesňované plochy o výměře alespoň 0,5 hektaru, nejde-li o plochu navazující na stávající pozemek určený podle lesního zákona<sup>7</sup>) k plnění funkcí lesa; tato podmínka se považuje za splněnou i v případě, že překážka návaznosti nebo souvislosti pozemku není širší než 4 metry. Další podmínkou je závazek žadatele
+
+a) dodržet výměru zalesněné plochy, na kterou Fond poskytne dotaci podle § 2 odst. 1 písm. a), po dobu 15 kalendářních let počínaje rokem následujícím po roce zalesnění,
+
+b) zajistit, že v období od 15. května kalendářního roku následujícího po roce zalesnění do konce pátého roku po roce zalesnění porost vykazuje znaky péče a ochrany směřující k jeho zajištění, tedy stav, kdy stromky nejsou výrazně poškozeny, vykazují trvalý výškový růst, jsou jednotlivě nebo skupinovitě rovnoměrně rozmístěny po ploše a počet životaschopných jedinců neklesne v období od 15. května kalendářního roku následujícího po roce zalesnění do konce pátého roku po roce zalesnění pod 80 % minimálního počtu stanoveného zvláštním právním předpisem<sup>15</sup>),
+
+c) dodržovat pravidla podmíněnosti uvedená v nařízení vlády upravujícím pravidla podmíněnosti plateb zemědělcům po dobu celého kalendářního roku na všech půdních blocích<sup>6</sup>) nebo jejich dílech evidovaných v evidenci půdy na žadatele.
+
+(2) Kromě podmínek stanovených v odstavci 1 musí být pro poskytnutí dotace na zalesnění splněny tyto další podmínky:
+
+a) plochy jehličnatých nebo listnatých dřevin uvedené v žádosti o poskytnutí dotace na zalesnění jsou na pozemku vysázeny v souladu s předloženým projektem zalesnění,
+
+b) žadatel po provedení zalesnění ohlásil změnu kultury v evidenci půdy,
+
+c) počet životaschopných jedinců rovnoměrně rozmístěných po ploše neklesne v období ode dne doručení žádosti o poskytnutí dotace na zalesnění do 14. května kalendářního roku následujícího po kalendářním roce, v němž bylo provedeno zalesnění, pod 90 % minimálního počtu jedinců jednotlivých druhů dřevin na 1 ha pozemku, jde-li o obnovu lesa a zalesňování, stanoveného vyhláškou upravující podrobnosti o přenosu semen a sazenic lesních dřevin, o evidenci o původu reprodukčního materiálu a podrobnosti o obnově lesních porostů a o zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa<sup>15</sup>).
+
+(3) Při poskytnutí náhrady za ukončení zemědělské výroby se nezohledňuje skladba dřevin.
+
+## § 7 – Snížení nebo neposkytnutí dotace na zalesnění, dotace na péči o lesní porost a náhrady za ukončení zemědělské výroby
+
+(1) Zjistí-li Fond, že plocha jehličnatých nebo listnatých dřevin uvedená v žádosti o poskytnutí dotace na zalesnění je větší než plocha zjištěná, dotaci na zalesnění listnatými nebo jehličnatými dřevinami poskytne pouze na zjištěnou plochu, pokud tento rozdíl nepřesahuje 30 %. Pokud je rozdíl větší než 30 % zjištěné plochy, Fond dotaci na zalesnění listnatými nebo jehličnatými dřevinami neposkytne.
+
+(2) Zjistí-li Fond porušení podmínky uvedené v § 6 odst. 2 písm. c), a to tak, že počet životaschopných jedinců rovnoměrně rozmístěných po ploše klesl
+
+a) pod 90 do 80 %, dotaci na zalesnění sníží o 5 %,
+
+b) pod 80 do 70 %, dotaci na zalesnění sníží o 10 %,
+
+c) pod 70 %, dotaci na zalesnění neposkytne.
+
+(3) Bylo-li příčinou porušení podmínky uvedené v § 6 odst. 2 písm. c) působení biotických nebo abiotických činitelů bez zavinění žadatele, žadatel bez zbytečného odkladu provede dosadbu v souladu s projektem zalesnění zajišťující splnění stanovených podmínek a provedení dosadby oznámí Fondu na jím vydaném formuláři; postup podle odstavce 2 se neuplatní.
+
+(4) Zjistí-li Fond porušení podmínky stanovené v § 6 odst. 1 písm. b) pro poskytnutí dotace na péči o lesní porost a náhrady za ukončení zemědělské výroby, spočívající v tom, že počet životaschopných jedinců rovnoměrně rozmístěných po ploše klesl
+
+a) pod 80 % do 70 %, dotaci na péči o lesní porost a náhradu za ukončení zemědělské výroby sníží o 10 %,
+
+b) pod 70 % do 60 %, dotaci na péči o lesní porost a náhradu za ukončení zemědělské výroby sníží o 20 %,
+
+c) pod 60 %, dotaci na péči o lesní porost a náhradu za ukončení zemědělské výroby neposkytne.
+
+(5) Zjistí-li Fond, že žadatel porušil podmínku uvedenou v § 6 odst. 2 písm. b), sníží Fond dotaci na zalesnění o 3 %.
+
+(6) Zjistí-li Fond, že žadatel ve formuláři jednotné žádosti podle § 4 odst. 4 neuvedl veškerou plochu v souladu s předpisy Evropských společenství<sup>13</sup>) a rozdíl mezi celkovou plochou uvedenou ve formuláři jednotné žádosti a souhrnem celkové plochy uvedené ve formuláři jednotné žádosti a ve formuláři jednotné žádosti nevykázané je
+
+a) vyšší než 3 %, avšak nižší nebo roven 4 % plochy uvedené v jednotné žádosti, sníží platbu o 1 %<sup>13</sup>),
+
+b) vyšší než 4 %, avšak nižší nebo roven 5 % plochy uvedené v jednotné žádosti, sníží platbu o 2 %<sup>13</sup>),
+
+c) vyšší než 5 % plochy uvedené v jednotné žádosti, sníží platbu o 3 %<sup>13</sup>).
+
+## § 8 – Vrácení dotace na zalesnění, dotace na péči o lesní porost a náhrady za ukončení zemědělské výroby
+
+(1) Zjistí-li Fond, že žadatel porušil podmínku uvedenou v § 6 odst. 1 písm. a), rozhodne o vrácení poskytnuté dotace na zalesnění, dotace na péči o lesní porost a náhrady za ukončení zemědělské výroby na výměru, na které žadatel podmínku porušil.
+
+(2) Zjistí-li Fond, že žadatel porušil podmínku uvedenou v § 6 odst. 1 písm. b), a to tak, že počet životaschopných jedinců rovnoměrně rozmístěných po ploše klesl
+
+a) pod 80 do 70 %, je žadatel povinen vrátit poskytnutou dotaci na zalesnění ve výši 5 %,
+
+b) pod 70 do 60 %, je žadatel povinen vrátit poskytnutou dotaci na zalesnění ve výši 10 %,
+
+c) pod 60 %, je žadatel povinen vrátit poskytnutou dotaci na zalesnění ve výši 30 %.
+
+(3) Ustanovení odstavce 1 o vrácení dotace se nepoužije, dojde-li u žadatele k porušení podmínky uvedené v § 6 odst. 1 písm. a) v důsledku
+
+a) restituce nebo majetkového vyrovnání s církvemi a náboženskými společnostmi<sup>18</sup>),
+
+b) provedení pozemkové úpravy<sup>19</sup>), nebo
+
+c) zřízení stavby ve veřejném zájmu<sup>20</sup>).
+
+(4) Dojde-li u žadatele k nesplnění podmínky podle § 6 odst. 1 písm. a) v případě stanoveném v předpise Evropských společenství<sup>21</sup>), zejména v důsledku ukončení zemědělské činnosti fyzické osoby nebo zániku právnické osoby bez likvidace<sup>22</sup>) anebo v důsledku převodu, nájmu nebo prodeje části nebo celého podniku<sup>23</sup>), ustanovení o vrácení dotace podle odstavce 1 se neuplatní, jestliže se právní nástupce zaniklé osoby nebo nabyvatel podniku nebo nový uživatel půdy dříve obhospodařované žadatelem písemně zaváže pokračovat v plnění podmínek na dotčených pozemcích.
+
+## § 9 – Společné ustanovení
+
+Jestliže nebyly dodrženy podmínky stanovené tímto nařízením v důsledku zásahu vyšší moci<sup>25</sup>), ustanovení § 7 a 8 se nepoužijí.
+
+## § 10 – Zaokrouhlování
+
+Fond při výpočtu číselných údajů podle tohoto nařízení použije matematické zaokrouhlování na 2 desetinná místa.
+
+## § 10a – Lhůty pro podání žádosti o poskytnutí náhrady za ukončení zemědělské výroby v roce 2020
+
+(1) Pro rok 2020 lze žádost o poskytnutí náhrady za ukončení zemědělské výroby podle § 4 odst. 2 doručit Fondu do 15. června 2020.
+
+(2) Je-li pro rok 2020 žádost o poskytnutí náhrady za ukončení zemědělské výroby doručena po lhůtě uvedené v odstavci 1, použije se § 4 odst. 3 obdobně.
+
+## § 11 – Přechodné ustanovení
+
+(1) Za splnění podmínky pro poskytnutí náhrady za ukončení zemědělské výroby uvedené v § 2 odst. 3 písm. b) se do 12 měsíců ode dne nabytí účinnosti tohoto nařízení považuje rovněž předložení prohlášení o zemědělském obhospodařování na formuláři vydaném Fondem.
+
+(2) Pro rok 2015 lze žádost o poskytnutí dotace na péči o lesní porost podle § 4 odst. 1 doručit Fondu do 29. května 2015.
+
+(3) Pro rok 2015 lze žádost o poskytnutí náhrady za ukončení zemědělské výroby podle § 4 odst. 2 doručit Fondu do 29. května 2015.
+
+(4) Je-li pro rok 2015 žádost o poskytnutí dotace na péči o lesní porost nebo žádost o poskytnutí náhrady za ukončení zemědělské výroby doručena po lhůtě uvedené v odstavci 2 nebo 3, použije se § 4 odst. 3 obdobně.
+
+## § 12 – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. října 2007.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+Ministr zemědělství:
+
+Mgr. Gandalovič v. r.
+
+### Příloha č. 1 k nařízení vlády č. 239/2007 Sb.
+
+#### Náležitosti projektu zalesnění
+
+A. Povinné údaje uváděné v projektu zalesnění
+
+I. Identifikace žadatele:
+
+a) je-li fyzickou osobou
+
+1\. jméno, popřípadě jména, příjmení, titul, popřípadě název nebo obchodní firma,
+
+2\. datum narození,
+
+3\. identifikační číslo, bylo-li přiděleno,
+
+4\. adresa místa trvalého pobytu - ulice, číslo popisné, číslo orientační, PSČ, obec (městská část, část obce),
+
+5\. telefon, fax, popřípadě e-mail,
+
+b) je-li právnickou osobou
+
+1\. obchodní firma nebo název právnické osoby,
+
+2\. identifikační číslo,
+
+3\. sídlo právnické osoby - ulice, číslo popisné, číslo orientační, PSČ, obec (městská část, část obce),
+
+4\. telefon, fax, popřípadě e-mail,
+
+5\. statutární orgán právnické osoby, jméno, popřípadě jména, příjmení, titul.
+
+II. Identifikace zpracovatele projektu zalesnění:
+
+a) je-li fyzickou osobou
+
+1\. jméno, popřípadě jména, příjmení, titul, popřípadě název nebo obchodní firma,
+
+2\. adresa místa trvalého pobytu - ulice, číslo popisné, číslo orientační, PSČ, obec (městská část, část obce),
+
+3\. telefon, fax, popřípadě e-mail,
+
+b) je-li právnickou osobou
+
+1\. obchodní firma nebo název právnické osoby,
+
+2\. identifikační číslo,
+
+3\. sídlo právnické osoby - ulice, číslo popisné, číslo orientační, PSČ, obec (městská část, část obce),
+
+4\. telefon, fax, popřípadě e-mail,
+
+5\. statutární orgán právnické osoby, jméno, popřípadě jména, příjmení, titul.
+
+III. Identifikace zalesňovaných pozemků:
+
+a) soupis parcel podle evidence katastru nemovitostí
+
+1\. kód a název katastrálního území,
+
+2\. parcelní číslo,
+
+3\. kód druhu pozemku,
+
+4\. výměra v hektarech na čtyři desetinná místa,
+
+5\. součet výměr k zalesnění v hektarech na čtyři desetinná místa,
+
+b) identifikace půdních bloků<sup>6</sup>), popřípadě jejich dílů (kód půdního bloku/dílu),
+
+c) zařazení pozemků do souborů lesních typů a cílových hospodářských souborů podle vyjádření Ústavu pro hospodářskou úpravu lesů o typologickém zařazení zalesňovaných pozemků,
+
+d) počty a plochy jednotlivých druhů dřevin na jednotlivých parcelách v kusech a v hektarech a plochy jehličnatých a listnatých dřevin celkem, při dodržení minimálního podílu melioračních a zpevňujících dřevin, s určením základních dřevin a jejich podílu<sup>26</sup>),
+
+e) druh, kvalita, způsob pěstování a původ sadebního materiálu odpovídající zásadám přenosu<sup>27</sup>),
+
+f) kopie katastrální mapy včetně částí okolních parcel, v níž nesmí být žadatelem provedeny úpravy; v případě zalesnění zemědělských pozemků menších než 0,5000 ha musí být součástí mapového podkladu i části parcely přiléhajícího lesního pozemku,
+
+g) kopie katastrální mapy včetně částí okolních parcel s vyznačením rozmístění jednotlivých dřevin a umístění oplocení, pokud je navrhováno.
+
+B. Doplňkové údaje uváděné v projektu zalesnění
+
+I. Způsob přípravy půdy před zalesněním.
+
+II. Technologie výsadby jednotlivých druhů dřevin.
+
+III. Způsoby a četnost ochrany do doby zajištění porostu proti buřeni, proti zvěři, klikorohu, popřípadě dalším škůdcům.
+
+IV. U oplocení minimální technické parametry, u individuálních způsobů ochrany druh a počet kusů, popřípadě další činnosti nutné k zdárnému vývoji založeného porostu (například přihnojení, výsek nežádoucích náletových dřevin).
+
+---
+
+<sup>1</sup>) Je vydáno k provedení a v mezích zákona, jehož obsah umožňuje provést úpravu v návaznosti na přímo použitelný předpis Evropských společenství nařízením vlády.
+
+<sup>2</sup>) Nařízení Rady (ES) č. 1698/2005 ze dne 20. září 2005 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV). 
+ Nařízení Komise (ES) č. 1974/2006 ze dne 15. prosince 2006, kterým se stanoví podrobná pravidla pro použití nařízení 
+ Rady (ES) č. 1698/2005 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV). 
+ Nařízení Komise (ES) č. 1975/2006 ze dne 7. prosince 2006, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 1698/2005, pokud jde o provádění kontrolních postupů a podmíněnosti s ohledem na opatření na podporu rozvoje venkova. 
+ Nařízení Komise (ES) č. 1320/2006 ze dne 5. září 2006, kterým se stanoví pravidla pro přechod na podporu pro rozvoj venkova podle nařízení Rady (ES) č. 1698/2005. 
+ Nařízení Komise (ES) č. 796/2004 ze dne 21. dubna 2004, kterým se stanoví prováděcí pravidla pro podmíněnost, odlišení a integrovaný administrativní a kontrolní systém podle nařízení Rady (ES) č. 1782/2003, kterým se stanoví společná pravidla pro režimy přímých podpor v rámci společné zemědělské politiky a kterým se zavádějí některé režimy podpor pro zemědělce.
+
+<sup>3</sup>) § 3a až 3i zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb. a zákona č. 441/2005 Sb.
+
+<sup>4</sup>) § 139 odst. 2 občanského zákoníku.
+
+<sup>5</sup>) Příloha k zákonu č. 131/2000 Sb., o hlavním městě Praze.
+
+<sup>6</sup>) § 3a odst. 3 a 4 zákona č. 252/1997 Sb., ve znění zákona č. 128/2003 Sb.
+
+<sup>7</sup>) Zákon č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění pozdějších předpisů.
+
+<sup>8</sup>) Vyhláška č. 29/2004 Sb., kterou se provádí zákon č. 149/2003 Sb., o obchodu s reprodukčním materiálem lesních dřevin.
+
+<sup>9</sup>) Zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů.
+
+<sup>10</sup>) § 77 odst. 1 písm. b) zákona č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon).
+
+<sup>12</sup>) § 2e a 2f zákona č. 252/1997 Sb., ve znění zákona č. 85/2004 Sb., zákona č. 441/2005 Sb., zákona č. 409/2006 Sb., zákona č. 230/2006 Sb. a zákona č. 267/2006 Sb.
+
+<sup>13</sup>) Čl. 7 nařízení Komise (ES) č. 1975/2006.
+
+<sup>14</sup>) Nařízení vlády č. 75/2007 Sb., o podmínkách poskytování plateb za přírodní znevýhodnění v horských oblastech, oblastech s jinými znevýhodněními a v oblastech Natura 2000 na zemědělské půdě.
+
+<sup>15</sup>) Vyhláška č. 139/2004 Sb., kterou se stanoví podrobnosti o přenosu semen a sazenic lesních dřevin, o evidenci o původu reprodukčního materiálu a podrobnosti o obnově lesních porostů a o zalesňování pozemků prohlášených za pozemky určené k plnění funkcí lesa.
+
+<sup>18</sup>) Zákon č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů. 
+ Zákon č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi), ve znění nálezu Ústavního soudu, vyhlášeného pod č. 177/2013 Sb.
+
+<sup>19</sup>) Zákon č. 139/2002 Sb., o pozemkových úpravách a pozemkových úřadech a o změně zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů, ve znění zákona č. 309/2002 Sb. a zákona č. 53/2004 Sb.
+
+<sup>20</sup>) § 170 zákona č. 183/2006 Sb.
+
+<sup>21</sup>) Čl. 44 nařízení Komise (ES) č. 1974/2006.
+
+<sup>22</sup>) § 68 obchodního zákoníku.
+
+<sup>23</sup>) § 476 až 488i obchodního zákoníku.
+
+<sup>25</sup>) Čl. 47 nařízení Komise (ES) č. 1974/2006.
+
+<sup>26</sup>) Vyhláška č. 83/1996 Sb., o zpracování oblastních plánů rozvoje lesů a o vymezení hospodářských souborů.
+
+<sup>27</sup>) Vyhláška č. 29/2004 Sb., kterou se provádí zákon č. 149/2003 Sb., o obchodu s reprodukčním materiálem lesních dřevin. 
+ Vyhláška č. 139/2004 Sb.
+
+<sup>28</sup>) § 2 písm. h) zákona č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění zákona č. 9/2009 Sb.
+
+<sup>29</sup>) § 7 vyhlášky Ministerstva zemědělství č. 274/1998 Sb., o skladování a způsobu používání hnojiv, ve znění vyhlášky č. 91/2007 Sb.
+
+<sup>30</sup>) Například § 75 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 132/2000 Sb., zákona č. 76/2002 Sb., zákona č. 320/2002 Sb. a zákona č. 218/2004 Sb.
+
+<sup>31</sup>) Například zákon č. 114/1992 Sb., ve znění pozdějších předpisů, nařízení vlády č. 79/2007 Sb., o podmínkách provádění agroenvironmentálních opatření, ve znění pozdějších předpisů.
+
+<sup>32</sup>) § 8 odst. 1 písm. a) a b) zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon).
+
+<sup>33</sup>) Nařízení vlády č. 103/2003 Sb., o stanovení zranitelných oblastí a o používání a skladování hnojiv a statkových hnojiv, střídání plodin a provádění protierozních opatření v těchto oblastech, ve znění pozdějších předpisů.
+
+<sup>34</sup>) Čl. 15 odst. 1 a 2 prováděcího nařízení Komise (EU) č. 809/2014 ze dne 17. července 2014, kterým se stanoví prováděcí pravidla k nařízení Evropského parlamentu a Rady (EU) č. 1306/2013, pokud jde o integrovaný administrativní a kontrolní systém, opatření pro rozvoj venkova a podmíněnost, v platném znění.

@@ -1,0 +1,45 @@
+---
+title: "Vyhláška č. 304/2015 Sb., kterou se mění vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti lidské krve a jejích složek (vyhláška o lidské krvi), ve znění pozdějších předpisů"
+identifier: "304/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/304/2015-12-31"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-11-09
+effective: 2015-12-31
+last_amended: 2015-12-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/304"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 304/2015 Sb., kterou se mění vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti lidské krve a jejích složek (vyhláška o lidské krvi), ve znění pozdějších předpisů
+
+304
+
+VYHLÁŠKA
+
+ze dne 9. listopadu 2015,
+
+kterou se mění vyhláška č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti lidské krve a jejích složek (vyhláška o lidské krvi), ve znění pozdějších předpisů
+
+Ministerstvo zdravotnictví stanoví podle § 114 odst. 1 zákona č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění zákona č. 50/2013 Sb. a zákona č. 70/2013 Sb.:
+
+## Čl. I
+
+V příloze č. 3 části B oddílu 2 na konci bodu 2.1 vyhlášky č. 143/2008 Sb., o stanovení bližších požadavků pro zajištění jakosti lidské krve a jejích složek, ve znění vyhlášky č. 351/2010 Sb., položka „Virus západonilské horečky“ včetně poznámky pod čarou č. 10 zní:
+
+> „
+>
+> | Virus západonilské horečky\* | 28 dní po opuštění oblasti s rizikem místního získání viru západonilské horečky, ledaže je jednotlivě provedená zkouška metodou amplifikace nukleových kyselin (NAT) negativní<sup>10</sup>). |
+> |---|---|
+
+> <sup>10</sup>) Směrnice Komise 2014/110/EU ze dne 17. prosince 2014, kterou se mění směrnice 2004/33/ES, pokud jde o kritéria dočasného vyloučení dárců allogenních odběrů krve.“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 31. prosince 2015.
+
+Ministr:
+
+MUDr. Němeček, MBA, v. r.

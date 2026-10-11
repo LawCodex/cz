@@ -1,0 +1,82 @@
+---
+title: "Vyhláška č. 205/2012 Sb., o obecných zásadách integrované ochrany rostlin"
+identifier: "205/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/205/2014-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-06-06
+effective: 2014-01-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/205"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 205/2012 Sb., o obecných zásadách integrované ochrany rostlin
+
+205
+
+VYHLÁŠKA
+
+ze dne 6. června 2012
+
+o obecných zásadách integrované ochrany rostlin
+
+Ministerstvo zemědělství stanoví podle § 88 odst. 1 písm. e) zákona č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění zákona č. 199/2012 Sb., (dále jen „zákon“) k provedení § 5 odst. 3 zákona:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška zapracovává příslušné předpisy Evropské unie<sup>1</sup>) a stanoví obecné zásady integrované ochrany rostlin.
+
+## § 2 – Základní pojmy
+
+Pro účely této vyhlášky se rozumí:
+
+a) prahem škodlivosti vědecky podložený stupeň výskytu škodlivého organismu, při kterém je nutno provést ochranné opatření, aby se zabránilo hospodářské škodě v důsledku negativního vlivu škodlivého organismu na snížení výnosu nebo kvality rostliny nebo rostlinného produktu,
+
+b) systémem varování postup informování o očekávaném nebo potvrzeném výskytu nebo o šíření škodlivého organismu, který může způsobit ekonomicky významnou škodu.
+
+## § 3 – Obecné zásady integrované ochrany rostlin
+
+(1) K předcházení nebo potlačení výskytu škodlivých organismů se z nepřímých metod ochrany rostlin použijí zejména tato opatření:
+
+a) střídání plodin,
+
+b) používání pěstitelských postupů,
+
+c) používání odrůd odolných nebo tolerantních ke škodlivým organismům a osiva a sadby splňující požadavky stanovené jiným právním předpisem<sup>2</sup>),
+
+d) vyvážené hnojení, vápnění a vodní režim,
+
+e) hygienická opatření, nebo
+
+f) ochrana a podpora užitečných organismů využíváním vhodných opatření na ochranu rostlin.
+
+(2) Sledování výskytu škodlivých organismů se provádí pomocí postupů a nástrojů zveřejněných podle zákona, které zahrnují zejména pozorování na místě, systémy varování, předpovědi výskytu škodlivých organismů a metody jejich včasného určení nebo využívání poradenství poradců odborně kvalifikovaných podle zákona.
+
+(3) Výběr způsobu ochrany rostlin je založen na základě objektivní analýzy předpokladu napadení škodlivým organismem nebo výsledků sledování výskytu škodlivých organismů, přičemž se využijí prahy škodlivosti, pokud jsou pro dotčený škodlivý organismus nebo pěstovanou rostlinu stanoveny a zveřejněny podle § 5 odst. 4 písm. b) a e) zákona.
+
+(4) Před chemickými metodami se dává přednost biologickým, fyzikálním a jiným nechemickým metodám, pokud zajistí účinnou ochranu proti dotčeným škodlivým organismům.
+
+(5) Využívají se přípravky nebo metody ochrany, které jsou co nejvíce specifické pro dotčený škodlivý organismus a mají co nejmenší vedlejší účinky na lidské zdraví, necílové organismy a životní prostředí.
+
+(6) Přípravek nebo další způsob přímé ochrany rostlin se použije pouze v nezbytném rozsahu, například aplikací dávek přípravků na spodní hranici doporučení, snížením četnosti použití přípravků nebo prováděním výběrového ošetření. Současně se přihlédne k tomu, aby se nezvyšovalo riziko vzniku rezistence škodlivých organismů k přípravkům.
+
+(7) Dostupné antirezistentní strategie se používají tak, aby byla zachována účinnost přípravků a zpomaleno šíření rezistence škodlivého organismu k přípravkům, pokud je riziko vzniku rezistence škodlivého organismu vůči určitému způsobu ochrany rostlin zveřejněno rostlinolékařskou správou nebo je profesionálnímu uživateli známo jiným způsobem a pokud stupeň výskytu škodlivého organismu vyžaduje opakované ošetření pěstované rostliny.
+
+(8) Ověřuje se úspěšnost používaných opatření na ochranu rostlin na základě záznamů o používání přípravků a sledování stupně výskytu škodlivých organismů.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2014.
+
+Ministr:
+
+Ing. Bendl v. r.
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2009/128/ES ze dne 21. října 2009, kterou se stanoví rámec pro činnost Společenství za účelem dosažení udržitelného používání pesticidů.
+
+<sup>2</sup>) Zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů.

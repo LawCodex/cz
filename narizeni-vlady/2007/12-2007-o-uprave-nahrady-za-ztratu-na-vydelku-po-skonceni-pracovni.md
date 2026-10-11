@@ -1,0 +1,61 @@
+---
+title: "Nařízení vlády č. 12/2007 Sb., o úpravě náhrady za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě vzniklé služebním úrazem nebo nemocí z povolání vojáků při výkonu vojenské základní nebo náhradní služby a výkonu vojenských cvičení a o úpravě náhrady za ztrátu na platu po skončení neschopnosti výkonu služby nebo při invaliditě vzniklé služebním úrazem nebo nemocí z povolání vojáků z povolání (úprava náhrady za ztrátu na výdělku vojáků)"
+identifier: "12/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/12/2007-02-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2007-01-29
+effective: 2007-02-01
+last_amended: 2007-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/12"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 12/2007 Sb., o úpravě náhrady za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě vzniklé služebním úrazem nebo nemocí z povolání vojáků při výkonu vojenské základní nebo náhradní služby a výkonu vojenských cvičení a o úpravě náhrady za ztrátu na platu po skončení neschopnosti výkonu služby nebo při invaliditě vzniklé služebním úrazem nebo nemocí z povolání vojáků z povolání (úprava náhrady za ztrátu na výdělku vojáků)
+
+12
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 29. ledna 2007
+
+o úpravě náhrady za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě vzniklé služebním úrazem nebo nemocí z povolání vojáků při výkonu vojenské základní nebo náhradní služby a výkonu vojenských cvičení a o úpravě náhrady za ztrátu na platu po skončení neschopnosti výkonu služby nebo při invaliditě vzniklé služebním úrazem nebo nemocí z povolání vojáků z povolání (úprava náhrady za ztrátu na výdělku vojáků)
+
+Vláda nařizuje podle § 71 odst. 3 zákona č. 220/1999 Sb., o průběhu základní nebo náhradní služby a vojenských cvičení a o některých právních poměrech vojáků v záloze, a podle § 127 odst. 3 zákona č. 221/1999 Sb., o vojácích z povolání:
+
+## § 1
+
+Náhrada za ztrátu na výdělku po skončení pracovní neschopnosti nebo při uznání plné invalidity nebo částečné invalidity vzniklé služebním úrazem nebo nemocí z povolání a náhrada za ztrátu na platu po skončení neschopnosti výkonu služby nebo při uznání plné invalidity nebo částečné invalidity vzniklé služebním úrazem nebo nemocí z povolání (dále jen „náhrada za ztrátu na výdělku“), příslušející vojákovi podle zvláštního právního předpisu<sup>1</sup>), se upravuje tak, že průměrný výdělek rozhodný pro výpočet náhrady za ztrátu na výdělku, popřípadě zvýšený podle zvláštního právního předpisu<sup>2</sup>), se zvyšuje o 6 %.
+
+## § 2
+
+Vznikl-li nárok na náhradu za ztrátu na výdělku po 31. prosinci 2006, průměrný výdělek se podle § 1 nezvyšuje.
+
+## § 3
+
+Úprava podle § 1 se provede bez žádosti vojáka; na žádost vojáka se provede v případech, kdy mu náhrada za ztrátu na výdělku nepříslušela pouze v důsledku zvýšení invalidního nebo částečného invalidního důchodu podle předpisů o sociálním zabezpečení nebo zvýšení plného invalidního nebo částečného invalidního důchodu podle předpisů o důchodovém pojištění.
+
+## § 4
+
+Náhrada za ztrátu na výdělku upravená podle tohoto nařízení přísluší od 1. února 2007.
+
+## § 5
+
+Toto nařízení nabývá účinnosti dnem 1. února 2007.
+
+Předseda vlády:
+
+Ing. Topolánek v. r.
+
+Ministryně obrany:
+
+JUDr. Parkanová v. r.
+
+---
+
+<sup>1</sup>) § 62 zákona č. 220/1999 Sb., o průběhu základní nebo náhradní služby a vojenských cvičení a o některých právních poměrech vojáků v záloze. 
+ § 118 zákona č. 221/1999 Sb., o vojácích z povolání.
+
+<sup>2</sup>) Nařízení vlády č. 329/2005 Sb., o úpravě náhrady za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě vzniklé služebním úrazem nebo nemocí z povolání vojáků při výkonu vojenské základní nebo náhradní služby a výkonu vojenských cvičení a o úpravě náhrady za ztrátu na platu po skončení neschopnosti výkonu služby nebo při invaliditě vzniklé služebním úrazem nebo nemocí z povolání vojáků z povolání (úprava náhrady za ztrátu na výdělku vojáků).

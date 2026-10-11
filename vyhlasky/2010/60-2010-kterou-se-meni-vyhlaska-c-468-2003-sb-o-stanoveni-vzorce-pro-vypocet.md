@@ -1,0 +1,54 @@
+---
+title: "Vyhláška č. 60/2010 Sb., kterou se mění vyhláška č. 468/2003 Sb., o stanovení vzorce pro výpočet extraktu původní mladiny před zakvašením a metodách určení extraktu původní mladiny"
+identifier: "60/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/60/2010-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-02-15
+effective: 2010-04-01
+last_amended: 2010-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/60"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 60/2010 Sb., kterou se mění vyhláška č. 468/2003 Sb., o stanovení vzorce pro výpočet extraktu původní mladiny před zakvašením a metodách určení extraktu původní mladiny
+
+60
+
+VYHLÁŠKA
+
+ze dne 15. února 2010,
+
+kterou se mění vyhláška č. 468/2003 Sb., o stanovení vzorce pro výpočet extraktu původní mladiny před zakvašením a metodách určení extraktu původní mladiny
+
+Ministerstvo financí stanoví podle § 139 odst. 1 zákona č. 353/2003 Sb., o spotřebních daních, ve znění zákona č. 217/2005 Sb., zákona č. 379/2005 Sb., zákona č. 575/2006 Sb., zákona č. 37/2008 Sb. a zákona č. 292/2009 Sb., k provedení § 81 odst. 3 zákona:
+
+## Čl. I
+
+Vyhláška č. 468/2003 Sb., o stanovení vzorce pro výpočet extraktu původní mladiny před zakvašením a metodách určení extraktu původní mladiny, se mění takto:
+
+1\. V nadpisu vyhlášky se slova „před zakvašením“ zrušují.
+
+2\. § 1 včetně nadpisu zní:
+
+> **„§ 1 – Vzorec pro výpočet extraktu původní mladiny**
+
+> Extrakt původní mladiny se stanoví výpočtem podle velkého Ballingova vzorce uvedeného v příloze této vyhlášky.“.
+
+3\. V příloze č. 1 se bod 2 zrušuje.
+
+Dosavadní bod 3 se označuje jako bod 2.
+
+4\. V příloze č. 1 vyhlášky nadpisu bodu 2 se slovo „vzorcům“ nahrazuje slovem „vzorci“, slova „před zakvašením“ se zrušují, za slovy „stanovené v destilátu pyknometricky, popřípadě denzitometricky“ se čárka nahrazuje tečkou a slova „K – korekční činitel, který je stanoven v příloze č. 2 k této vyhlášce.“ se zrušují.
+
+5\. Příloha č. 2 vyhlášky se zrušuje a zároveň se v označení přílohy č. 1 zrušují slova „č. 1“.
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2010.
+
+Ministr:
+
+Ing. Janota v. r.

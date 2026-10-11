@@ -1,0 +1,91 @@
+---
+title: "Vyhláška č. 43/2015 Sb., kterou se mění vyhláška Ministerstva dopravy a spojů č. 31/2001 Sb., o řidičských průkazech a o registru řidičů, ve znění pozdějších předpisů"
+identifier: "43/2015 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2015/43/2018-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2015-02-23
+effective: 2015-03-27
+last_amended: 2018-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2015/43"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 43/2015 Sb., kterou se mění vyhláška Ministerstva dopravy a spojů č. 31/2001 Sb., o řidičských průkazech a o registru řidičů, ve znění pozdějších předpisů ve znění vyhlášky č. 456/2017 Sb."
+---
+
+# Vyhláška č. 43/2015 Sb., kterou se mění vyhláška Ministerstva dopravy a spojů č. 31/2001 Sb., o řidičských průkazech a o registru řidičů, ve znění pozdějších předpisů
+
+43
+
+VYHLÁŠKA
+
+ze dne 23. února 2015,
+
+kterou se mění vyhláška Ministerstva dopravy a spojů č. 31/2001 Sb., o řidičských průkazech a o registru řidičů, ve znění pozdějších předpisů
+
+Ministerstvo dopravy stanoví podle § 137 odst. 2 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění zákona č. 411/2005 Sb., zákona č. 226/2006 Sb., zákona č. 274/2008 Sb., zákona č. 133/2011 Sb., zákona č. 297/2011 Sb., zákona č. 230/2014 Sb. a zákona č. 249/2014 Sb.:
+
+## Čl. I
+
+Vyhláška Ministerstva dopravy a spojů č. 31/2001 Sb., o řidičských průkazech a o registru řidičů, ve znění vyhlášky č. 154/2003 Sb., vyhlášky č. 177/2004 Sb., vyhlášky č. 194/2006 Sb., vyhlášky č. 27/2012 Sb., vyhlášky č. 243/2012 Sb. a vyhlášky č. 1/2014 Sb., se mění takto:
+
+1\. V úvodní větě vyhlášky se slova „§ 115 odst. 8 a § 122 odst. 2“ nahrazují slovy „§ 115 odst. 8, § 122 odst. 2 a § 125j odst. 3“.
+
+2\. § 2 a 3 včetně nadpisů znějí:
+
+> **„§ 2 – Mezinárodní řidičský průkaz vydaný Českou republikou**
+
+> (1) Vzor mezinárodního řidičského průkazu vydaného Českou republikou je stanoven v příloze č. 2 této vyhlášky. Údaje se do mezinárodního řidičského průkazu zapisují způsobem podle Úmluvy o silničním provozu (Vídeň 1968).
+
+> (2) Vzor mezinárodního řidičského průkazu vydaného Českou republikou je stanoven v příloze č. 3 této vyhlášky. Údaje se do mezinárodního řidičského průkazu zapisují způsobem podle Úmluvy o silničním provozu (Ženeva 1949).
+
+> **§ 3 – Mezinárodní řidičský průkaz vydaný cizím státem**
+
+> (1) Mezinárodní řidičský průkaz vydaný cizím státem podle Úmluvy o silničním provozu (Vídeň 1968) se posuzuje podle přílohy č. 7 této Úmluvy.
+
+> (2) Mezinárodní řidičský průkaz vydaný cizím státem podle Úmluvy o silničním provozu (Ženeva 1949) se posuzuje podle přílohy č. 10 této Úmluvy.“.
+
+3\. § 4 a 5 se včetně nadpisů zrušují.
+
+4\. V § 6 odst. 1 se slova „nebo podle § 5“ zrušují.
+
+5\. V § 6 odst. 2 se slova „a spojů“ zrušují.
+
+6\. § 7 včetně nadpisu zní:
+
+> **„§ 7 – Řidičský průkaz vydaný cizím státem**
+
+> (1) Náležitosti řidičského průkazu vydaného cizím státem podle Úmluvy o silničním provozu (Vídeň 1968) se posuzují podle přílohy č. 6 této Úmluvy.
+
+> (2) Náležitosti řidičského průkazu vydaného cizím státem podle Úmluvy o silničním provozu (Ženeva 1949) se posuzují podle přílohy č. 9 této Úmluvy.“.
+
+7\. § 8 se včetně nadpisu zrušuje.
+
+8\. Za § 18a se vkládá nový § 18b, který včetně nadpisu a poznámky pod čarou č. 3 zní:
+
+> **„§ 18b – Informační formulář**
+
+> Vzor informačního formuláře<sup>3</sup>) zasílaného společně s oznámením o zahájení řízení o přestupku osobě podezřelé ze spáchání přestupku, která má bydliště v jiném členském státě, je stanoven v příloze č. 4 této vyhlášky.
+
+> <sup>3</sup>) Čl. 5 směrnice Evropského parlamentu a Rady 2011/82/EU ze dne 25. října 2011 o usnadnění přeshraniční výměny informací o dopravních deliktech v oblasti bezpečnosti silničního provozu.“.
+
+10\. Příloha č. 4 zní:
+
+> **„Příloha č. 4 k vyhlášce č. 31/2001 Sb.**
+
+> **Vzor**
+
+> **Informační formulář**
+
+> **Příloha oznámení o zahájení řízení o přestupku podle § 125j zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů**
+
+> **![sbcr2015c021z0043p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/871641/NAHLED/ZOBRAZ/sbcr2015c021z0043p004u001)“.**
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti patnáctým dnem po jejím vyhlášení.
+
+Ministr:
+
+Ing. Ťok v. r.

@@ -1,0 +1,50 @@
+---
+title: "Nařízení vlády č. 407/2016 Sb., kterým se mění nařízení vlády č. 307/2014 Sb., o stanovení podrobností evidence využití půdy podle uživatelských vztahů, ve znění nařízení vlády č. 61/2016 Sb."
+identifier: "407/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/407/2017-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2016-11-23
+effective: 2017-01-01
+last_amended: 2017-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/407"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 407/2016 Sb., kterým se mění nařízení vlády č. 307/2014 Sb., o stanovení podrobností evidence využití půdy podle uživatelských vztahů, ve znění nařízení vlády č. 61/2016 Sb.
+
+407
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 23. listopadu 2016,
+
+kterým se mění nařízení vlády č. 307/2014 Sb., o stanovení podrobností evidence využití půdy podle uživatelských vztahů, ve znění nařízení vlády č. 61/2016 Sb.
+
+Vláda nařizuje podle § 3a odst. 14 písm. i), § 3aa odst. 5 písm. f), § 3i, 3l a 3m zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 128/2003 Sb., zákona č. 441/2005 Sb., zákona č. 291/2009 Sb. a zákona č. 179/2014 Sb.:
+
+## Čl. I
+
+Nařízení vlády č. 307/2014 Sb., o stanovení podrobností evidence využití půdy podle uživatelských vztahů, ve znění nařízení vlády č. 61/2016 Sb., se mění takto:
+
+1\. V § 3 odstavec 4 zní:
+
+> „(4) Úhorem se rozumí zemědělsky obhospodařovaná orná půda ležící ladem, včetně ploch vyňatých z produkce v souladu s požadavky stanovenými v předpise Evropské unie<sup>8</sup>), která byla v bezprostředně předcházejícím období nejméně po dobu 1 roku vedena v evidenci půdy s kulturou standardní orná půda, chmelnice, vinice, ovocný sad, rychle rostoucí dřeviny pěstované ve výmladkových plantážích, jiná trvalá kultura nebo školka. Úhor vznikne přírodním osemeněním, založením porostu plodiny nebo udržováním bez porostu. Úhor je nejméně jedenkrát ročně sečen, mulčován nebo pasen, včetně sečení nedopasků, a to v době od 1. června do 31. srpna příslušného kalendářního roku. Úhor bez porostu je udržován mechanickou kultivací nebo chemickými prostředky.“.
+
+2\. V § 3 se na konci textu odstavce 9 doplňuje věta „Do plochy této zemědělsky obhospodařované půdy se započítává související manipulační prostor, který nesmí přesahovat šířku 12 metrů okolo záhonů a netvoří součást cesty.“.
+
+3\. V § 3 odst. 10 se za slovo „osázena“ vkládají slova „rychle rostoucími“.
+
+## Čl. II – Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2017.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr zemědělství:
+
+Ing. Jurečka v. r.

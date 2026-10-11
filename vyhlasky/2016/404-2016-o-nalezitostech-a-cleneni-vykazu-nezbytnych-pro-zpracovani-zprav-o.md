@@ -1,0 +1,389 @@
+---
+title: "Vyhláška č. 404/2016 Sb., o náležitostech a členění výkazů nezbytných pro zpracování zpráv o provozu soustav v energetických odvětvích, včetně termínů, rozsahu a pravidel pro sestavování výkazů (statistická vyhláška)"
+identifier: "404/2016 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2016/404/2024-02-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2016-12-06
+effective: 2017-01-01
+last_amended: 2024-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2016/404"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 404/2016 Sb., o náležitostech a členění výkazů nezbytných pro zpracování zpráv o provozu soustav v energetických odvětvích, včetně termínů, rozsahu a pravidel pro sestavování výkazů (statistická vyhláška) ve znění vyhlášky č. 154/2018 Sb. a vyhlášky č. 4/2024 Sb."
+---
+
+# Vyhláška č. 404/2016 Sb., o náležitostech a členění výkazů nezbytných pro zpracování zpráv o provozu soustav v energetických odvětvích, včetně termínů, rozsahu a pravidel pro sestavování výkazů (statistická vyhláška)
+
+404
+
+VYHLÁŠKA
+
+ze dne 6. prosince 2016
+
+o náležitostech a členění výkazů nezbytných pro zpracování zpráv o provozu soustav v energetických odvětvích, včetně termínů, rozsahu a pravidel pro sestavování výkazů (statistická vyhláška)
+
+Energetický regulační úřad (dále jen „Úřad“) stanoví podle § 98a odst. 2 písm. m) zákona č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění zákona č. 131/2015 Sb.:
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška stanoví náležitosti a členění výkazů nezbytných pro zpracování zpráv o provozu soustav v energetických odvětvích (dále jen „výkazy“), včetně termínů, rozsahu a pravidel pro sestavování výkazů.
+
+## § 2 – Pravidla a termíny pro sestavování a předkládání výkazů
+
+(1) Výkazy sestavuje a předkládá Úřadu držitel licence na
+
+a) výrobu elektřiny,
+
+b) přenos elektřiny,
+
+c) distribuci elektřiny,
+
+d) výrobu plynu,
+
+e) přepravu plynu,
+
+f) distribuci plynu,
+
+g) uskladňování plynu,
+
+h) výrobu tepelné energie,
+
+i) rozvod tepelné energie a
+
+j) činnosti operátora trhu.
+
+(2) Držitel licence předkládá výkazy v termínech uvedených pro jednotlivé držitele licence v příloze č. 1 k této vyhlášce.
+
+## § 3 – Členění, náležitosti a rozsah výkazů
+
+(1) Členění výkazů je uvedeno v příloze č. 1 k této vyhlášce. Formální a věcné náležitosti výkazů pro jednotlivé držitele licence jsou uvedeny v přílohách č. 2 až 20 k této vyhlášce.
+
+(2) Držitel licence na
+
+a) výrobu elektřiny sestavuje výkazy v rozsahu podle přílohy č. 2 k této vyhlášce,
+
+b) přenos elektřiny sestavuje výkazy v rozsahu podle příloh č. 4 a 5 k této vyhlášce,
+
+c) distribuci elektřiny provozující lokální distribuční soustavu s vývozem nebo dovozem elektřiny mimo území České republiky sestavuje výkazy v rozsahu podle přílohy č. 3 k této vyhlášce,
+
+d) distribuci elektřiny provozující lokální distribuční soustavu sestavuje výkazy v rozsahu podle přílohy č. 5 k této vyhlášce,
+
+e) distribuci elektřiny provozující regionální distribuční soustavu sestavuje výkazy v rozsahu podle příloh č. 3, 5 a 20 k této vyhlášce,
+
+f) výrobu plynu sestavuje výkazy v rozsahu podle příloh č. 6 a 18 k této vyhlášce,
+
+g) přepravu plynu sestavuje výkazy v rozsahu podle příloh č. 7, 8, 12 a 19 k této vyhlášce,
+
+h) distribuci plynu sestavuje výkazy v rozsahu podle příloh č. 9 až 12 a 19 k této vyhlášce,
+
+i) uskladňování plynu sestavuje výkazy v rozsahu podle příloh č. 13 a 14 k této vyhlášce,
+
+j) výrobu tepelné energie sestavuje výkazy v rozsahu podle přílohy č. 15 k této vyhlášce,
+
+k) rozvod tepelné energie sestavuje výkazy v rozsahu podle přílohy č. 15 k této vyhlášce,
+
+l) činnosti operátora trhu sestavuje výkazy v rozsahu podle příloh č. 16 a 17 k této vyhlášce.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2017.
+
+Předsedkyně:
+
+Ing. Vitásková v. r.
+
+### Příloha č. 1
+
+#### Seznam výkazů a termíny pro jejich předkládání
+
+1\. **Držitel licence na výrobu elektřiny**
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-E1 | Měsíční výkaz držitele licence na výrobu elektřiny o bilanci elektřiny a tepla a palivech | Příloha č. 2 | do 20. kalendářního dne následujícího měsíce |
+
+V případě držitele licence na výrobu elektřiny, který při výrobě elektřiny nevyužívá paliva (zejména fotovoltaické elektrárny, větrné elektrárny a vodní elektrárny) a vykazuje množství vyrobené elektřiny podle vyhlášky upravující vykazování energie z podporovaných zdrojů<sup>1)</sup>, využije Úřad jako podklady pro zpracování čtvrtletních a ročních zpráv o provozu soustav v energetických odvětvích údaje vykázané držitelem licence podle vyhlášky upravující vykazování energie z podporovaných zdrojů ze systému operátora trhu.
+
+2\. **Držitel licence na přenos elektřiny**
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-E3 | Měsíční výkaz provozovatele přenosové soustavy | Příloha č. 4 | do 20. kalendářního dne následujícího měsíce |
+| ERÚ-E4 | Roční výkaz provozovatele přenosové soustavy a provozovatele distribuční soustavy | Příloha č. 5 | do konce února následujícího roku |
+
+3\. **Držitel licence na distribuci elektřiny**
+
+3.1 Držitel licence na distribuci elektřiny provozující lokální distribuční soustavu (LDS)
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-E2 | Měsíční výkaz provozovatele RDS a LDS s exportem/importem | Příloha č. 3 | do 20. kalendářního dne následujícího měsíce |
+| ERÚ-E4 | Roční výkaz provozovatele přenosové soustavy a provozovatele distribuční soustavy | Příloha č. 5 | do konce února následujícího roku |
+
+Výkaz ERÚ-E2 se vyplňuje za předpokladu, že držitel licence dováží elektřinu do České republiky nebo ji vyváží z České republiky.
+
+3.2 Držitel licence na distribuci elektřiny provozující regionální distribuční soustavu (RDS)
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-E2 | Měsíční výkaz provozovatele RDS a LDS s exportem/importem | Příloha č. 3 | do 20. kalendářního dne následujícího měsíce |
+| ERÚ-E4 | Roční výkaz provozovatele přenosové soustavy a provozovatele distribuční soustavy | Příloha č. 5 | do konce února následujícího roku |
+| ERÚ-E5 | Měsíční výkaz provozovatele RDS o výrobnách s instalovaným výkonem do 50 kW včetně | Příloha č. 20 | do 20. kalendářního dne následujícího měsíce |
+
+4\. **Držitel licence na výrobu plynu**
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-P1 | Výkaz držitele licence na výrobu plynu | Příloha č. 6 | měsíční data do 15. dne následujícího měsíce,<br> roční data do 31. ledna následujícího roku |
+| ERÚ-P10 | Výkaz držitele licence na výrobu plynu (biometan) | Příloha č. 18 | měsíční data do 15. dne následujícího měsíce,<br> roční data do 31. ledna následujícího roku |
+
+Výkaz ERÚ-P10 se vyplňuje za předpokladu, že držitel licence vyrábí biometan.
+
+5\. **Držitel licence na přepravu plynu**
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-P2 | Měsíční výkaz držitele licence na přepravu plynu (souhrnné množství přepravovaného plynu) | Příloha č. 7 | do 15. dne následujícího měsíce |
+| ERÚ-P3 | Výkaz držitele licence na přepravu plynu (bilance soustavy) | Příloha č. 8 | měsíční data do 15. dne následujícího měsíce,<br> roční data do 31. ledna následujícího roku |
+| ERÚ-P7 | Roční výkaz držitele licence na přepravu plynu a na distribuci plynu (technické údaje o soustavě) | Příloha č. 12 | do 31. ledna následujícího roku |
+| ERÚ-P11 | Výkaz držitele licence na přepravu plynu a na distribuci plynu (paroplynové elektrárny) | Příloha č. 19 | do 15. dne následujícího měsíce |
+
+6\. **Držitel licence na distribuci plynu**
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-P4 | Výkaz držitele licence na distribuci plynu (vstupy do soustavy) | Příloha č. 9 | měsíční data do 15. dne následujícího měsíce,<br> roční data do 31. ledna následujícího roku |
+| ERÚ-P5 | Výkaz držitele licence na distribuci plynu (množství distribuovaného plynu) | Příloha č. 10 | měsíční data do 15. dne následujícího měsíce,<br> roční data do 31. ledna následujícího roku |
+| ERÚ-P6 | Výkaz držitele licence na distribuci plynu (výstupy ze soustavy) | Příloha č. 11 | měsíční data do 15. dne následujícího měsíce,<br> roční data do 31. ledna následujícího roku |
+| ERÚ-P7 | Roční výkaz držitele licence na přepravu plynu a na distribuci plynu (technické údaje o soustavě) | Příloha č. 12 | do 31. ledna následujícího roku |
+| ERÚ-P11 | Výkaz držitele licence na přepravu plynu a na distribuci plynu (paroplynové elektrárny) | Příloha č. 19 | do 15. dne následujícího měsíce |
+
+7\. **Držitel licence na uskladňování plynu**
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-P8 | Měsíční výkaz držitele licence na uskladňování plynu | Příloha č. 13 | do 15. dne následujícího měsíce |
+| ERÚ-P9 | Roční výkaz držitele licence na uskladňování plynu | Příloha č. 14 | do 31. ledna následujícího roku |
+
+8\. **Držitel licence na výrobu tepelné energie**
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-T1 | Čtvrtletní výkaz držitele licence na výrobu tepelné energie nebo licence na rozvod tepelné energie o bilanci tepla a palivech v měsíčním členění | Příloha č. 15 | do konce měsíce následujícího po skončení daného čtvrtletí |
+
+9\. **Držitel licence na rozvod tepelné energie**
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-T1 | Čtvrtletní výkaz držitele licence na výrobu tepelné energie nebo licence na rozvod tepelné energie o bilanci tepla a palivech v měsíčním členění | Příloha č. 15 | do konce měsíce následujícího po skončení daného čtvrtletí |
+
+10\. **Držitel licence na činnosti operátora trhu**
+
+| Označení výkazu | Název výkazu | Náležitosti výkazu | Termín předložení |
+|---|---|---|---|
+| ERÚ-O1 | Výkazy držitele licence na činnost operátora trhu o vybraných zdrojích energie | Příloha č. 16 | měsíční data do konce následujícího měsíce,<br> roční data do 15. května následujícího roku |
+| ERÚ-O2 | Výkazy držitele licence na činnost operátora trhu za oblast plynárenství | Příloha č. 17 | měsíční data do 15. dne následujícího měsíce,<br> roční data do 15. května následujícího roku<br> kontrolní hodinový odečet do 30. dubna daného roku,<br> denně informace o skutečné spotřebě plynu a průměrné denní teplotě |
+
+Držitel licence zasílá Úřadu výkazy v elektronické podobě prostřednictvím uživatelského rozhraní provozovaného Úřadem na jeho internetových stránkách za účelem sběru dat.
+
+<sup>1)</sup> Vyhláška č. 166/2022 Sb., o vykazování energie z podporovaných zdrojů.
+
+### Příloha č. 2 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825311/NAHLED/ZOBRAZ/sbcr2016c164z0404p002u001)
+
+### Příloha č. 3 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825313/NAHLED/ZOBRAZ/sbcr2016c164z0404p003u001)
+
+### Příloha č. 4
+
+#### ![sbcr2016c164z0404_2024c004z0004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825315/NAHLED/ZOBRAZ/sbcr2016c164z0404_2024c004z0004u001)
+
+### Příloha č. 5
+
+#### ![sbcr2016c164z0404_2024c004z0004u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825317/NAHLED/ZOBRAZ/sbcr2016c164z0404_2024c004z0004u002)
+
+### Příloha č. 6 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404p006_2024c004z0004u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825319/NAHLED/ZOBRAZ/sbcr2016c164z0404p006_2024c004z0004u002)
+
+### Příloha č. 7 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404p007_2024c004z0004u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825779/NAHLED/ZOBRAZ/sbcr2016c164z0404p007_2024c004z0004u002)
+
+### Příloha č. 8 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404_2018c080z0154_2024c004z0004u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825781/NAHLED/ZOBRAZ/sbcr2016c164z0404_2018c080z0154_2024c004z0004u003)
+
+### Příloha č. 9 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404p006_2024c004z0004u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825319/NAHLED/ZOBRAZ/sbcr2016c164z0404p006_2024c004z0004u002)
+
+### Příloha č. 10 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404_2018c080z0154_2024c004z0004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825783/NAHLED/ZOBRAZ/sbcr2016c164z0404_2018c080z0154_2024c004z0004u001)
+
+### Příloha č. 11 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404p011_2024c004z0004u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825785/NAHLED/ZOBRAZ/sbcr2016c164z0404p011_2024c004z0004u002)
+
+### Příloha č. 12 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404p012_2024c004z0004u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825787/NAHLED/ZOBRAZ/sbcr2016c164z0404p012_2024c004z0004u002)
+
+### Příloha č. 13
+
+#### ![sbcr2016c164z0404_2024c004z0004u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825789/NAHLED/ZOBRAZ/sbcr2016c164z0404_2024c004z0004u003)
+
+### Příloha č. 14
+
+#### ![sbcr2016c164z0404_2024c004z0004u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825791/NAHLED/ZOBRAZ/sbcr2016c164z0404_2024c004z0004u004)
+
+### Příloha č. 15 k vyhlášce č. 404/2016 Sb.
+
+#### ![sbcr2016c164z0404p015u001_2018c080z0154.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825793/NAHLED/ZOBRAZ/sbcr2016c164z0404p015u001_2018c080z0154)
+
+### Příloha č. 16
+
+#### ERÚ-O1: Výkazy držitele licence na činnost operátora trhu o vybraných zdrojích energie
+
+a) měsíční data o výrobě elektřiny za palivové zdroje a technologie MVE, VTE a FVE do konce následujícího měsíce:
+
+• identifikační údaje výrobce, výrobny a zdroje a období
+
+• instalovaný elektrický výkon zdroje
+
+• údaje o výrobě a dodávkách zdroje
+
+b) roční data o výrobě elektřiny za palivové zdroje a technologie MVE, VTE a FVE do 15. května následujícího roku:
+
+• výkazy v rozsahu podle písm. a) za každý měsíc sledovaného roku
+
+### Příloha č. 17
+
+#### ERÚ-O2: Výkazy držitele licence na činnosti operátora trhu za oblast plynárenství
+
+a) měsíční data do 15. dne následujícího měsíce
+
+• denní přetoky z přepravní soustavy do jednotlivých distribučních soustav
+
+• přetoky mezi jednotlivými distribučními soustavami
+
+• množství plynu ve vstupních a výstupních hraničních bodech a přeshraničních plynovodech
+
+• množství plynu ve vstupních a výstupních bodech jednotlivých virtuálních zásobníků plynu
+
+• dodávku plynu z jednotlivých výroben
+
+• výrobu biometanu
+
+• denní průměrné teploty v rozlišení na plynárenské zóny a celou ČR
+
+• počty odběrných předávacích míst po jednotlivých dodavatelích plynu
+
+• měsíční dodávku plynu koncovým zákazníkům po jednotlivých dodavatelích plynu
+
+• měsíční nákupy a prodeje na virtuálním prodejním bodě v rozlišení na bilaterální kontrakty, flexibilitu a vnitrodenní trh po jednotlivých dodavatelích plynu
+
+• měsíční těžbu a vtláčení z/do zásobníků plynu po jednotlivých dodavatelích plynu
+
+• měsíční dovoz a vývoz plynu do/z ČR po jednotlivých dodavatelích plynu
+
+• k poslednímu dni v měsíci změny dodavatele plynu v rozlišení na získaná a ztracená odběrná předávací místa s informací o kategorii odběru po jednotlivých dodavatelích plynu
+
+• seznam všech účastníků trhu s plynem s informací o aktivních činnostech v systému operátora trhu
+
+• počty chráněných zákazníků a měsíční skutečnou dodávku chráněným zákazníkům po jednotlivých dodavatelích plynu
+
+• množství uskladněného plynu na všech stavových podúčtech českého vstupně-výstupního systému na konci každého plynárenského dne předchozího měsíce
+
+• množství uskladněného plynu na všech stavových podúčtech zahraničního vstupně-výstupního systému na konci každého plynárenského dne předchozího měsíce
+
+• množství plynu předaného ze stavových podúčtů českého vstupně-výstupního systému na stavové podúčty sousedního vstupně-výstupního systému na konci každého plynárenského dne předchozího měsíce
+
+• množství plynu předaného ze stavových podúčtů zahraničního vstupně-výstupního systému na stavové podúčty českého vstupně-výstupního systému na konci každého plynárenského dne předchozího měsíce
+
+b) roční data do 15. května následujícího roku
+
+• výkazy dle písm. a) v roční verzi
+
+c) měsíční data v průběhu topné sezóny do 15. dne následujícího měsíce
+
+• množství zajištění bezpečnostního standardu dodávky plynu vycházející ze systému operátora trhu po jednotlivých dodavatelích plynu
+
+d) kontrolní hodinový odečet do 30. dubna daného roku
+
+• kontrolní hodinový odečet podle provozovatele přepravní soustavy ČR
+
+• kontrolní hodinový odečet podle výrobců plynu v ČR
+
+e) denně
+
+• informace o skutečné spotřebě plynu a průměrné denní teplotě
+
+### Příloha č. 18
+
+#### ![sbcr2016c164z0404_2024c004z0004u005.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825795/NAHLED/ZOBRAZ/sbcr2016c164z0404_2024c004z0004u005)
+
+### Příloha č. 19
+
+#### ![sbcr2016c164z0404_2024c004z0004u006.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825797/NAHLED/ZOBRAZ/sbcr2016c164z0404_2024c004z0004u006)
+
+### Příloha č. 20
+
+#### ERÚ-E5: Měsíční výkaz provozovatele RDS o výrobnách elektřiny s instalovaným výkonem do 50 kW včetně
+
+Měsíční data o výrobnách s instalovaným výkonem do 50 kW včetně, do 20. dne následujícího měsíce:
+
+• Vykazovaný rok
+
+• Vykazovaný měsíc
+
+• Provozovatel distribuční soustavy
+
+• IČO provozovatele distribuční soustavy
+
+• Licence
+
+• EAN spotřební
+
+• EAN výrobní
+
+• IČO výrobce
+
+• Lokalita výrobny - kraj
+
+• Okres
+
+• Obec
+
+• Ulice
+
+• PSČ
+
+• Katastrální území
+
+• Parcelní číslo
+
+• Datum uvedení do provozu
+
+• Typ výrobny (technologie)
+
+• Specifikace zdroje energie
+
+• Typ připojení
+
+• Tarifní sazba
+
+• Instalovaný elektrický výkon [MW]
+
+• Baterie (Ano/Ne)
+
+• Kapacita baterie [MWh]
+
+• Výkon baterie [MWh]
+
+• Dodávky do distribuční soustavy [MWh]

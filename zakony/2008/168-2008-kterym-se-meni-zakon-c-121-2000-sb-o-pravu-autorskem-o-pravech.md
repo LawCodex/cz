@@ -1,0 +1,48 @@
+---
+title: "Zákon č. 168/2008 Sb., kterým se mění zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů"
+identifier: "168/2008 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2008/168/2008-05-19"
+type: act
+jurisdiction: cz
+language: cs
+date: 2008-04-22
+effective: 2008-05-19
+last_amended: 2008-05-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2008/168"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 168/2008 Sb., kterým se mění zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů
+
+168
+
+ZÁKON
+
+ze dne 22. dubna 2008,
+
+kterým se mění zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění zákona č. 81/2005 Sb., zákona č. 61/2006 Sb., zákona č. 186/2006 Sb. a zákona č. 216/2006 Sb., se mění takto:
+
+1\. V § 23 se věta druhá nahrazuje větou „Za zpřístupňování díla pomocí přístrojů technicky způsobilých k příjmu rozhlasového a televizního vysílání ubytovaným v rámci poskytování služeb spojených s ubytováním, jsou-li tyto přístroje umístěny v prostorách určených k soukromému užívání ubytovanými osobami, přísluší autorům odměna, která v úhrnu za všechny kolektivní správce nesmí přesáhnout 50 % výše poplatku za jeden přístroj stanovenou zvláštním zákonem<sup>1b</sup>).“ a ve větě třetí se slovo „rovněž“ zrušuje.
+
+Poznámka pod čarou č. 1b zní:
+
+> „<sup>1b</sup>) Zákon č. 348/2005 Sb., o rozhlasových a televizních poplatcích a o změně některých zákonů, ve znění pozdějších předpisů.“.
+
+2\. V § 97 odst. 2 se slova „se sídlem v České republice“ zrušují.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Topolánek v. r.

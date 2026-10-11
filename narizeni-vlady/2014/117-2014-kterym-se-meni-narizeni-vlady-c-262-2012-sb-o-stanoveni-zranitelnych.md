@@ -1,0 +1,196 @@
+---
+title: "Nařízení vlády č. 117/2014 Sb., kterým se mění nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů, a nařízení vlády č. 479/2009 Sb., o stanovení důsledků porušení podmíněnosti poskytování některých podpor, ve znění pozdějších předpisů"
+identifier: "117/2014 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2014/117/2015-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2014-06-16
+effective: 2014-07-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2014/117"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 117/2014 Sb., kterým se mění nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů, a nařízení vlády č. 479/2009 Sb., o stanovení důsledků porušení podmíněnosti poskytování některých podpor, ve znění pozdějších předpisů ve znění nařízení vlády č. 309/2014 Sb."
+---
+
+# Nařízení vlády č. 117/2014 Sb., kterým se mění nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů, a nařízení vlády č. 479/2009 Sb., o stanovení důsledků porušení podmíněnosti poskytování některých podpor, ve znění pozdějších předpisů
+
+117
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 16. června 2014,
+
+kterým se mění nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění pozdějších předpisů, a nařízení vlády č. 479/2009 Sb., o stanovení důsledků porušení podmíněnosti poskytování některých podpor, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 33 odst. 2 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb., podle § 2b odst. 2 a § 2c odst. 5 zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 85/2004 Sb. a zákona č. 291/2009 Sb., a podle § 1 odst. 3 zákona č. 256/2000 Sb., o Státním zemědělském intervenčním fondu a o změně některých dalších zákonů (zákon o Státním zemědělském intervenčním fondu), ve znění zákona č. 441/2005 Sb. a zákona č. 291/2009 Sb.:
+
+## ČÁST PRVNÍ – Změna nařízení vlády o stanovení zranitelných oblastí a akčním programu
+
+### Čl. I
+
+Nařízení vlády č. 262/2012 Sb., o stanovení zranitelných oblastí a akčním programu, ve znění nařízení vlády č. 448/2012 Sb. a nařízení vlády č. 400/2013 Sb., se mění takto:
+
+1\. Poznámka pod čarou č. 7 zní:
+
+> „<sup>7</sup>) Vyhláška č. 377/2013 Sb., o skladování a způsobu používání hnojiv.“.
+
+2\. V § 7 odstavec 6 zní:
+
+> „(6) Pokud je zemědělská půda zaplavená, přesycená vodou, promrzlá nebo pokrytá sněhem, nelze na ní používat dusíkaté hnojivé látky, s výjimkou skliditelných rostlinných zbytků.“.
+
+Poznámka pod čarou č. 10 se zrušuje, a to včetně odkazu na poznámku pod čarou.
+
+3\. V § 8 odstavec 3 zní:
+
+> „(3) Výpočet dávky dusíku použité v průměru na 1 ha lze provést na základě údajů
+
+> a) z evidence hnojení o produkci dusíku hospodářskými zvířaty na pastvě nebo jiném pobytu na zemědělské půdě a o přívodu celkového dusíku v použitých organických a organominerálních hnojivech a statkových hnojivech, nebo
+
+> b) o produkci dusíku ve výkalech a moči, popřípadě trusu chovaných hospodářských zvířat, po odpočtu ztrát dusíku ve stájích a při skladování statkových hnojiv, podle jiného právního předpisu<sup>7</sup>); u jednotlivých kategorií hospodářských zvířat se zohlední průměrné stavy zvířat ve sledovaném kalendářním roce.“.
+
+4\. V § 8 se odstavec 4 zrušuje.
+
+Dosavadní odstavce 5 a 6 se označují jako odstavce 4 a 5.
+
+5\. V § 9 odstavec 1 včetně poznámky pod čarou č. 14 zní:
+
+> „(1) Kapacita skladovacích prostor pro statková hnojiva<sup>6</sup>) musí odpovídat potřebě uskladnění jejich šestiměsíční produkce; to neplatí pro
+
+> a) hnojůvku, u které musí být kapacita skladovacích prostor dostatečná pro minimálně pětiměsíční produkci, a zároveň pro uskladnění v období zákazu hnojení podle tabulky 1 přílohy č. 2 k tomuto nařízení a v období, kdy nelze hnojit s ohledem na půdně klimatické podmínky zranitelné oblasti a pěstované plodiny, a
+
+> b) tuhá statková hnojiva, při možnosti jejich uložení na zemědělském pozemku před jejich použitím;
+
+> snížení potřeby kapacit skladovacích prostor je možné jen při splnění podmínek podle jiného právního předpisu<sup>7</sup>); technický stav skladovacích zařízení musí splňovat kvalitativní požadavky z hlediska ochrany vod<sup>14</sup>).
+
+> <sup>14</sup>) § 39 odst. 4 písm. b) a c) zákona č. 254/2001 Sb., ve znění zákona č. 20/2004 Sb. a zákona č. 150/2010 Sb.“.
+
+6\. V § 9 se odstavec 2 zrušuje.
+
+Dosavadní odstavce 3 a 4 se označují jako odstavce 2 a 3.
+
+7\. V § 9 odst. 2 se za slova „lze uložit na zemědělském pozemku“ vkládají slova „pouze způsobem, který neohrozí životní prostředí a“.
+
+8\. V § 11 odstavec 3 zní:
+
+> „(3) Na zemědělských pozemcích s kulturou orná půda a travní porost se sklonitostí převyšující 10 stupňů se nesmí používat žádné dusíkaté hnojivé látky. Výjimkou je použití tuhých statkových hnojiv a tuhých organických hnojiv, v případě orné půdy zapravených do 24 hodin po jejich použití. To se nevztahuje na ponechané skliditelné rostlinné zbytky, ani na přívod dusíku ve výkalech a moči při pastvě hospodářských zvířat nebo při jejich jiném pobytu na travním porostu.“.
+
+9\. § 13 se včetně nadpisu zrušuje.
+
+10\. V § 15 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1.
+
+11\. V příloze č. 2 tabulka č. 1 zní:
+
+> **„Tabulka č. 1**
+
+> **Období zákazu používání dusíkatých hnojivých látek na zemědělské půdě**
+
+> <table><tbody><tr><th><p>Klimatický region<sup>*</sup>)</p></th><th><p>Minerální dusíkatá hnojiva</p></th><th><p>Hnojiva s rychle uvolnitelným dusíkem</p></th><th><p>Hnojiva s pomalu uvolnitelným dusíkem<sup>**</sup>)</p></th></tr><tr><td rowspan="2">0-5</td><td>1.11.-31.1.<br> (pro ozimé plodiny)</td><td>15.11.-31.1.<br> (pro ozimé plodiny)</td><td>1.6.-31.7.<sup>***</sup>)</td></tr><tr><td>15.10.-15.2.<br> (pro ostatní plodiny a kultury)</td><td>15.11.-15.2.<br> (pro ostatní plodiny a kultury)</td><td>15.12.-15.2.</td></tr><tr><td rowspan="2">6-9</td><td>15.10.-15.2.<br> (pro ozimé plodiny)</td><td>5.11.-15.2.<br> (pro ozimé plodiny)</td><td>1.6.-31.7.<sup>***</sup>)</td></tr><tr><td>1.10.-28.2.<br> (pro ostatní plodiny a kultury)</td><td>5.11.-28.2.<br> (pro ostatní plodiny a kultury)</td><td>15.12.-28.2.</td></tr></tbody></table>
+
+> Vysvětlivky:
+
+> \*<sup>)</sup> První číslice kódu bonitované půdně ekologické jednotky.
+
+> <sup>\*\*</sup><sup>)</sup> Platí i pro upravené kaly.
+
+> <sup>\*\*\*</sup><sup>)</sup> Pokud nedojde k následnému pěstování ozimých plodin nebo meziplodin.“.
+
+12\. Příloha č. 3 zní:
+
+> **„Příloha č. 3 k nařízení vlády č. 262/2012 Sb.**
+
+> **Limity hnojení jednotlivých plodin**
+
+> | Plodina | Limit hnojení<sup>\*)</sup>v kg N/ha | Výnos hlavního produktu (t) <br> stanovený dle koeficientu potřeby N <br> na 1 t hlavního produktu a příslušného <br> množství vedlejšího produktu |
+> |---|---|---|
+> | pšenice ozimá | 190 | 7,7 |
+> | pšenice jarní | 120 | 5,5 |
+> | žito ozimé | 120 | 6,0 |
+> | ječmen ozimý | 140 | 6,7 |
+> | ječmen jarní | 110 | 6,0 |
+> | oves | 120 | 4,8 |
+> | triticale | 140 | 6,1 |
+> | kukuřice na zrno | 230 | 11,0 |
+> | luskoviny | 30 | 5,0 |
+> | brambory sadbové | 140 | 30,0 |
+> | brambory ostatní | 180 | 40,0 |
+> | brambory rané | 120 | 25,0 |
+> | cukrovka | 210 | 70,0 |
+> | krmná řepa | 150 | 70,0 |
+> | řepka ozimá | 230 | 4,5 |
+> | slunečnice | 140 | 2,9 |
+> | mák | 85 | 1,2 |
+> | len | 80 | 2,0 |
+> | hořčice bílá | 80 | 1,2 |
+> | kukuřice na siláž | 230 | 60,0 |
+> | jetel<sup>\*\*</sup>) | 40 | 10,0 |
+> | vojtěška<sup>\*\*</sup>) | 40 | 10,0 |
+> | trávy na orné půdě | 200 | 10,0 |
+> | trvalé travní porosty | 160 | 8,0 |
+> | zelí | 250 | 70,0 |
+> | květák | 220 | 27,0 |
+> | mrkev | 200 | 50,0 |
+> | brokolice | 200 | 13,0 |
+> | kapusta hlávková | 180 | 28,0 |
+> | kapusta růžičková | 180 | 6,0 |
+> | celer bulvový | 180 | 35^0 |
+> | kedluben | 150 | 30,0 |
+> | zelí pekingské | 150 | 55,0 |
+> | rajčata | 150 | 55,0 |
+> | cibule kuchyňská | 135 | 45,0 |
+> | pór pravý, | 120 | 43,0 |
+> | pažitka pravá | 120 | 30,0 |
+> | petržel zahradní naťová | 120 | 17,0 |
+> | okurky salátové | 120 | 70,0 |
+> | okurky nakládačky | 100 | 60,0 |
+> | špenát setý | 100 | 20,0 |
+> | salát | 100 | 43,0 |
+> | pastiňák setý | 100 | 30,0 |
+> | paprika zeleninová | 100 | 37,0 |
+> | kukuřice cukrová | 100 | 9,0 |
+> | řepa salátová | 95 | 30,0 |
+> | ředkvička | 80 | 32,0 |
+> | petržel zahradní kořenová | 80 | 37,0 |
+> | kopr vonný | 60 | 12,0 |
+> | hrách zahradní | 60 | 7,0 |
+> | fazol obecný | 60 | 6,0 |
+> | česnek | 30 | 11,0 |
+
+> Dusík použitý k podpoře rozkladu slámy nebo k meziplodině se nezapočítává do limitu přívodu dusíku pro následně pěstovanou plodinu.
+
+> Pro účely hodnocení limitu hnojení se u hnojiv s pomalu uvolnitelným dusíkem a upravených kalů započítává 30 % přívodu celkového dusíku a pro hnojiva s rychle uvolnitelným dusíkem 60 % přívodu celkového dusíku, s výjimkou kejdy prasat a digestátu z bioplynové stanice (příp. jejich tekutých podílů po mechanické separaci), kde se započítává 70 %.
+
+> Pro účely hodnocení limitu hnojení se tedy zohledňuje pouze přímé působení dusíku v prvním roce po použití uvedených statkových, organických a organominerálních hnojiv, popřípadě upravených kalů.
+
+> Pro určení přívodu dusíku do půdy ve statkových hnojivech živočišného původu se použijí údaje zjištěné vlastními rozbory nebo údaje z přílohy č. 3 vyhlášky č. 377/2013 Sb., o skladování a způsobu používání hnojiv.
+
+> Limity uvedené v tabulce je nutné dodržet na jednotlivých zemědělských pozemcích.
+
+> Při pěstování plodin ve směsích je limit určen nejvyšším limitem plodiny ve směsi.
+
+> Plodiny v tabulce neuvedené limit nemají, hnojí se podle jejich potřeby na konkrétních stanovištích a podle pěstitelských podmínek.
+
+> Výnosy víceletých pícnin na orné půdě a trvalých travních porostů jsou uvedeny v přepočtu na seno.
+
+> Limity hnojení pro pěstování zeleniny se nevztahují na její pěstování ve sklenících a fóliovnících.
+
+> Vysvětlivky:
+
+> <sup>\*</sup>) V limitu hnojení je započítán celkový dusík z minerálních hnojiv a podíl dusíku využitelného pěstovanou plodinou ze statkových hnojiv živočišného původu a z organických a organominerálních hnojiv, popřípadě upravených kalů.
+
+> <sup>\*\*</sup>) Limit se vztahuje k celkové dávce za všechny roky pěstování. Do uvedeného limitu se nezapočítává případné hnojení krycí plodiny do doby její sklizně.“.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. IV
+
+Toto nařízení nabývá účinnosti dnem 1. července 2014.
+
+Předseda vlády:
+
+Mgr. Sobotka v. r.
+
+Ministr zemědělství:
+
+Ing. Jurečka v. r.

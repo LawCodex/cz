@@ -1,0 +1,453 @@
+---
+title: "Vyhláška č. 330/2012 Sb., o způsobu posuzování a vyhodnocení úrovně znečištění, rozsahu informování veřejnosti o úrovni znečištění a při smogových situacích"
+identifier: "330/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/330/2025-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-10-08
+effective: 2012-10-15
+last_amended: 2025-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/330"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 330/2012 Sb., o způsobu posuzování a vyhodnocení úrovně znečištění, rozsahu informování veřejnosti o úrovni znečištění a při smogových situacích ve znění vyhlášky č. 83/2017 Sb., vyhlášky č. 68/2020 Sb. a vyhlášky č. 91/2025 Sb."
+---
+
+# Vyhláška č. 330/2012 Sb., o způsobu posuzování a vyhodnocení úrovně znečištění, rozsahu informování veřejnosti o úrovni znečištění a při smogových situacích
+
+330
+
+VYHLÁŠKA
+
+ze dne 8. října 2012
+
+o způsobu posuzování a vyhodnocení úrovně znečištění, rozsahu informování veřejnosti o úrovni znečištění a při smogových situacích
+
+Ministerstvo životního prostředí stanoví podle § 5 odst. 6 a § 30 odst. 4 zákona č. 201/2012 Sb., o ochraně ovzduší (dále jen „zákon“):
+
+## § 1 – Předmět úpravy
+
+Tato vyhláška zapracovává příslušné předpisy Evropské unie<sup>1</sup>) a upravuje
+
+a) způsob a podmínky posuzování a vyhodnocení úrovně znečištění,
+
+b) rozsah informování veřejnosti o úrovni znečištění,
+
+c) rozsah informací podávaných veřejnosti při vzniku smogové situace a
+
+d) obsahové náležitosti protokolu o měření úrovně znečištění.
+
+## § 2 – Způsob posuzování úrovně znečištění
+
+(1) Posuzování úrovně znečištění se provádí
+
+a) měřením prováděným v souladu s cíli kvality údajů podle části I přílohy č. 1 k této vyhlášce na místech určených v souladu s požadavky přílohy č. 2 a 3 k této vyhlášce (dále jen „stacionární měření“) ve všech aglomeracích a v těch zónách, kde úroveň znečištění dosahuje nebo přesahuje horní mez pro posuzování úrovně znečištění a kde, v případě troposférického ozonu, úroveň znečištění překračuje během posledních 5 let imisní limit stanovený v bodu 4 přílohy č. 1 zákona,
+
+b) výpočtem prostřednictvím modelu (dále jen „modelování“) v zónách, kde úroveň znečištění nepřesahuje dolní mez pro posuzování úrovně znečištění, nebo
+
+c) kombinací stacionárního měření a měření prováděného v souladu s cíli kvality údajů podle části II přílohy č. 1 k této vyhlášce (dále jen „orientační měření“) nebo kombinací stacionárního měření a modelování v zónách, kde je úroveň znečištění ovzduší nižší než horní mez pro posuzování.
+
+(2) Horní a dolní meze pro posuzování úrovně znečištění a povolený počet překročení jsou stanoveny v příloze č. 4 k této vyhlášce. Způsob posuzování úrovně znečištění v každé zóně a aglomeraci se na základě mezí pro posuzování dle věty první hodnotí nejméně každých 5 let; v případě významných změn činností souvisejících s koncentracemi oxidu siřičitého, oxidu dusičitého nebo případně oxidů dusíku, částic PM<sub>10</sub>, částic PM<sub>2,5</sub>, olova, benzenu a oxidu uhelnatého ve vnějším ovzduší se toto hodnocení provádí častěji.
+
+(3) Mez pro posuzování úrovně znečištění se považuje za překročenou, pokud byla překročena nejméně ve 3 z předcházejících 5 kalendářních let. U znečišťujících látek s dobou průměrování kratší než 1 kalendářní rok se mez považuje za překročenou, pokud je překročena v průběhu jednoho kalendářního roku vícekrát, než je maximální počet překročení stanovený v příloze č. 4 k této vyhlášce.
+
+(4) Pokud jsou pro některou znečišťující látku k dispozici údaje pouze za dobu kratší než 5 kalendářních let, určí se překročení horních a dolních mezí pro posuzování úrovně znečištění na základě spojení výsledků krátkodobých měřicích kampaní během roku a v místech, která budou pravděpodobně reprezentativní pro nejvyšší úrovně znečištění a výsledků získaných z údajů z emisních inventur a modelování.
+
+## § 3 – Podmínky posuzování a vyhodnocení úrovně znečištění
+
+(1) Posuzování a vyhodnocení úrovně znečištění se provádí pro znečišťující látky, které mají zákonem stanovený imisní limit, a látky uvedené v odstavci 2. Společně se stacionárním měřením benzo(a)pyrenu se alespoň na jedné měřicí lokalitě v každé zóně nebo aglomeraci provádí stacionární měření benzo(a)anthracenu, benzo(b)fluoranthenu, benzo(j)fluoranthenu, benzo(k)fluoranthenu, indeno(1,2,3-cd)pyrenu a dibenz(a,h)anthracenu.
+
+(2) Posuzování a vyhodnocení plnění národního cíle snížení expozice se provádí prostřednictvím ukazatele průměrné expozice obyvatelstva částicemi PM<sub>2,5</sub> vyjádřeného jako tříletá klouzavá průměrná roční koncentrace částic PM<sub>2,5</sub> stanovená na základě měření v lokalitách umístěných podle části A bodu 1 přílohy č. 2 k této vyhlášce.
+
+(3) Aniž je dotčen § 2 odst. 1, provádí se alespoň v jedné lokalitě na území České republiky, kde je patrná úroveň znečištění reprezentativní pro danou oblast bez jednoznačného vlivu některého zdroje (dále jen „pozaďová měřicí lokalita“), posuzování úrovně znečištění
+
+a) orientačním a stacionárním měřením celkové depozice u arsenu, kadmia, výparů elementární rtuti a reaktivní plynné rtuti, niklu, benzo(a)pyrenu, benzo(a)anthracenu, benzo(b)fluoranthenu, benzo(j)fluoranthenu, benzo(k)fluoranthenu, indeno(1,2,3-cd)pyrenu a dibenz(a,h)anthracenu,
+
+b) stacionárním měřením u prekurzorů troposférického ozonu uvedených v příloze č. 5 k této vyhlášce a měřením celkové depozice znečišťujících látek vyjmenovaných v písmenu a) a
+
+c) stacionárním měřením hmotnostní koncentrace částic PM<sub>2,5</sub> a koncentrací chemických složek částic PM<sub>2,5</sub>, tedy alespoň koncentrace celkového organického uhlíku, elementárního uhlíku, hořečnatých, vápenatých, sodných, draselných a amonných kationtů a síranových, chloridových a dusičnanových aniontů; toto měření se provádí ve venkovské pozaďové měřicí lokalitě.
+
+(4) V případě, že se pro posouzení úrovně znečištění využívá
+
+a) stacionární měření, dodržují se postupy pro odběr vzorků a provádění analýz stanovené v části A přílohy č. 6 k této vyhlášce; ke stacionárnímu měření lze použít i jiný postup, jestliže lze testem ekvivalence prokázat, že jím lze dosáhnout rovnocenných výsledků,
+
+b) výpočet modelem, použijí se modely stanovené v části B přílohy č. 6 k této vyhlášce; k výpočtu modelem lze použít i jiné modely, jestliže lze prokázat, že jimi lze dosáhnout rovnocenných výsledků,
+
+c) rozptylová studie v případech podle § 11 odst. 9 zákona, použijí se referenční modely stanovené v části C přílohy č. 6 k této vyhlášce; ke zpracování rozptylové studie podle § 11 odst. 9 zákona lze použít i jiné modely, jestliže lze prokázat, že jimi lze dosáhnout rovnocenných výsledků.
+
+(5) Údaje získané při posuzování úrovně znečištění musí splňovat cíle kvality uvedené v příloze č. 1 k této vyhlášce.
+
+(6) Úroveň znečištění ovzduší z rozptýlených zdrojů znečišťování ovzduší se posuzuje v minimálním počtu měřicích lokalit stanoveném v části A přílohy č. 2 k této vyhlášce. Úroveň znečištění ovzduší v blízkosti jednoho konkrétního stacionárního zdroje znečišťování ovzduší se posuzuje v počtu měřicích lokalit zvoleném s přihlédnutím k úrovni znečišťování, pravděpodobnému prostorovému rozložení koncentrací znečišťujících látek a jejich distribuci v ovzduší a potenciální expozici populace. Minimální počet měřicích lokalit pro stacionární měření úrovně znečištění troposférickým ozonem a jeho prekurzory je stanoven v části B přílohy č. 2 k této vyhlášce.
+
+(7) Požadavky na měřicí lokality a požadavky na umístění bodů vzorkování pro stacionární měření stanovuje příloha č. 3 k této vyhlášce.
+
+(8) Vyhodnocení úrovní znečištění pro plynné znečišťující látky se vztahuje na standardní podmínky, tedy objem odběru vzorků přepočtený na teplotu 293,15 K a normální tlak 101,325 kPa. U částic PM<sub>10</sub>, PM<sub>2,5</sub> a znečišťujících látek, které se analyzují v částicích PM<sub>10</sub>, se objem odběru vzorků vztahuje k vnějším podmínkám v den měření. Při vyhodnocení úrovní znečištění se používá aritmetický průměr zjištěných hodnot.
+
+(9) Obsahové náležitosti protokolu o měření úrovně znečištění jsou stanoveny v příloze č. 7 k této vyhlášce.
+
+## § 4 – Rozsah informování veřejnosti o úrovni znečištění
+
+(1) Veřejnost musí být příslušnými orgány ochrany ovzduší informována o překročení zákonem stanovených imisních limitů a jeho účincích na zdraví lidí nebo na ekosystémy a vegetaci. Informace o úrovni znečištění poskytované veřejnosti se uvádějí jako průměrná hodnota za příslušnou dobu průměrování uvedenou v příloze č. 1 zákona.
+
+(2) Informace o úrovních znečištění oxidem siřičitým, oxidem dusičitým, částicemi PM<sub>10</sub>, PM<sub>2,5</sub>, troposférickým ozonem a oxidem uhelnatým se aktualizují každou hodinu. Informace o průměrných čtvrtletních úrovních znečištění olovem a benzenem se aktualizují jednou za 3 měsíce.
+
+## § 5 – Rozsah informací poskytovaných veřejnosti při vzniku smogových situací
+
+(1) Při vzniku smogové situace poskytuje ministerstvo veřejnosti podle § 30 odst. 2 zákona informace o
+
+a) zjištěném překročení prahových hodnot dle přílohy č. 6 zákona, oblasti výskytu smogové situace, druhu překročené prahové hodnoty, začátku a době trvání daného překročení, nejvyšší hodinové a denní koncentraci a v případě troposférického ozonu navíc i o nejvyšším osmihodinovém průměru,
+
+b) předpovědi pro následující období, zejména očekávané změny úrovně znečištění a důvody těchto změn,
+
+c) ohrožených skupinách obyvatelstva, jako jsou děti, starší lidé nebo nemocní, možných účincích na zdraví, doporučených preventivních opatřeních, která mají dotyční obyvatelé učinit, a odkaz na zdroje dalších podrobných informací.
+
+(2) Při vzniku smogové situace poskytují krajské úřady veřejnosti podle § 30 odst. 2 zákona informace o
+
+a) skutečnostech uvedených v odstavci 1, a to na základě podkladů poskytnutých ministerstvem nebo jím zřízenou právnickou osobou,
+
+b) výčtu zdrojů, kterým byly stanoveny zvláštní podmínky provozu pro případ překročení regulačních prahových hodnot podle § 12 odst. 4 písm. g) zákona,
+
+c) doporučených opatřeních v oblasti dopravy a stacionárních zdrojů neuvedených v písmenu b).
+
+## § 6 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 15. října 2012.
+
+Ministr:
+
+Mgr. Chalupa v. r.
+
+### Příloha č. 1 k vyhlášce č. 330/2012 Sb.
+
+#### Cíle pro kvalitu údajů získaných posuzováním úrovně znečištění
+
+<table><tbody><tr><th></th><th>SO<sub>2</sub>, NO<sub>2</sub>,<br> NOx, CO</th><th>Benzen</th><th>Částice PM<sub>10</sub>,<br> PM<sub>2,5</sub>,<br> olovo</th><th>Troposférický ozon, související NO a NO<sub>2</sub></th><th>Benzo(a)pyren</th><th>As,<br> Cd,<br> Ni</th><th>PAH<sup>1</sup><sup>)</sup>,<br> plynná rtuť</th><th>Celková depozice</th></tr><tr><td colspan="9">I. Stacionární měření</td></tr><tr><td>Nejistota</td><td>15%</td><td>25%</td><td>25%</td><td>15%</td><td>50%</td><td>40%</td><td>50%</td><td>70%</td></tr><tr><td>Minimální sběr údajů<sup>2</sup><sup>)</sup></td><td>90%</td><td>90%</td><td>90%</td><td>90% během letního období<br> 75% během zimního období</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td></tr><tr><td>Minimální časové pokrytí</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- městské prostředí a doprava</td><td>-</td><td>35%<sup>3</sup><sup>)</sup></td><td>-</td><td>-</td><td>33%<sup>4</sup><sup>)</sup></td><td>50%<sup>4</sup><sup>)</sup></td><td>-</td><td>-</td></tr><tr><td>- průmyslové lokality</td><td>-</td><td>90%</td><td>-</td><td>-</td><td>33%<sup>4</sup><sup>)</sup></td><td>50%<sup>4</sup><sup>)</sup></td><td>-</td><td>-</td></tr><tr><td colspan="9">II. Orientační měření<sup>5</sup><sup>)</sup></td></tr><tr><td>Nejistota</td><td>25%</td><td>30%</td><td>50%</td><td>30%</td><td>50%</td><td>40%</td><td>50%</td><td>70%</td></tr><tr><td>Minimální sběr údajů</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td><td>90%</td></tr><tr><td>Minimální časové pokrytí</td><td>14%<sup>6</sup><sup>)</sup></td><td>14%<sup>6</sup><sup>)</sup></td><td>14%<sup>6</sup><sup>)</sup></td><td>&gt;10% během letního období</td><td>14%<sup>4</sup><sup>)</sup></td><td>14%<sup>4</sup><sup>)</sup></td><td>14%<sup>4</sup><sup>)</sup></td><td>33%<sup>4</sup><sup>)</sup></td></tr><tr><td colspan="9">III. Modelování</td></tr><tr><td>Nejistota<sup>7</sup><sup>)</sup> pro</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- hodinové průměry</td><td>50%</td><td>-</td><td>-</td><td>50%</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- osmihodinové průměry</td><td>50%</td><td>-</td><td>-</td><td>50%</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- denní průměry</td><td>50%</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>- roční průměry</td><td>30%</td><td>50%</td><td>50%</td><td>-</td><td>60%</td><td>60%</td><td>60%</td><td>60%</td></tr></tbody></table>
+
+Poznámky a vysvětlivky:
+
+1\) Polycyklické aromatické uhlovodíky kromě benzo(a)pyrenu.
+
+2\) Požadavek minimálního sběru údajů a časového pokrytí nezahrnuje ztráty údajů v důsledku pravidelných kalibrací nebo normální údržby přístrojové techniky.
+
+3\) Rozloženo během celého roku tak, aby byly hodnoty reprezentativní pro různé klimatické a dopravní podmínky.
+
+4\) Rozloženo během celého roku tak, aby hodnoty byly reprezentativní pro různé klimatické a antropogenní činnosti.
+
+5\) Orientační měření jsou měření prováděná s omezenou pravidelností, avšak splňující ostatní cíle týkající se kvality údajů.
+
+6\) Jedno namátkové měření v týdnu rovnoměrně rozložené během celého roku nebo v 8 týdnech rovnoměrně rozložených během roku.
+
+7\) U modelování se nejistota definuje jako maximální odchylka naměřených a vypočítaných úrovní koncentrace na 90 % jednotlivých měřicích míst za příslušné období ve vztahu k imisnímu limitu, přičemž se nebere v úvahu časové rozvržení událostí. Nejistota u modelování se považuje za platnou v oblasti příslušného imisního limitu. Stacionární měření, jež je třeba zvolit pro porovnání s výsledky modelování, musí být reprezentativní pro rozsah modelované situace.
+
+### Příloha č. 2 k vyhlášce č. 330/2012 Sb.
+
+#### Minimální počty měřicích lokalit pro stacionární měření
+
+#### Část A – Minimální počet měřicích lokalit pro stacionární měření úrovně znečištění znečišťujícími látkami s výjimkou troposférického ozonu
+
+1\. Minimální počet měřicích lokalit pro účely posouzení dodržování imisních limitů uvedených v bodu 1 přílohy č. 1 zákona a prahových hodnot uvedených v příloze č. 6 zákona
+
+<table><tbody><tr><th rowspan="3">Počet obyvatel <br> aglomerace nebo zóny</th><th colspan="4">Minimální počet měřicích lokalit pokud</th></tr><tr><th colspan="2">je překročena horní mez pro <br> posuzování úrovně znečištění<sup>1</sup><sup>)</sup></th><th colspan="2">není překročena horní mez pro <br> posuzování úrovně znečištění, ale je <br> překročena dolní mez</th></tr><tr><th>Znečišťující látky<br> kromě částic <br> PM<sub>10</sub> a PM<sub>2,5</sub></th><th>Součet<sup>2</sup><sup>)</sup>,<sup>3</sup><sup>)</sup><br> pro částice <br> PM<sub>10</sub> a PM<sub>2,5</sub></th><th>Znečišťující látky <br> kromě částic PM<sub>10</sub> a <br> PM<sub>2,5</sub></th><th>Součet<sup>2</sup><sup>)</sup>,<sup>3</sup><sup>)</sup> pro <br> částice PM<sub>10</sub> a <br> PM<sub>2,5</sub></th></tr><tr><td>0-249 999</td><td>1</td><td>2</td><td>1</td><td>1</td></tr><tr><td>250 000-749 999</td><td>2</td><td>3</td><td>1</td><td>2</td></tr><tr><td>750 000-999 999</td><td>3</td><td>4</td><td>1</td><td>2</td></tr><tr><td>1 000 000-1 499 999</td><td>4</td><td>6</td><td>2</td><td>3</td></tr><tr><td>1 500 000-1 999 999</td><td>5</td><td>7</td><td>2</td><td>3</td></tr><tr><td>2 000 000-2 749 999</td><td>6</td><td>8</td><td>3</td><td>4</td></tr><tr><td>2 750 000-3 749 999</td><td>7</td><td>10</td><td>3</td><td>4</td></tr></tbody></table>
+
+Poznámky:
+
+1\) Pro oxid dusičitý, oxid uhelnatý, částice PM<sub>10</sub>a PM<sub>2,5</sub> a benzen se zřizuje nejméně 1 lokalita pro měření městské pozaďové úrovně znečištění a 1 lokalita orientovaná na měření vlivu dopravy, pokud se tím nezvýší počet lokalit. V zónách a aglomeracích se celkový počet městských pozaďových lokalit a celkový počet lokalit zaměřených na dopravu nesmí lišit o více než dvojnásobek. Měřicí lokality, kde byl v posledních 3 letech překročen imisní limit pro částice PM<sub>10</sub>, jsou zachovány, pokud není nutné tyto lokality ze zvláštních důvodů změnit.
+
+2\) Pokud se částice PM<sub>2,5</sub> a částice PM<sub>10</sub> měří na stejné lokalitě, počítají se jako 2 samostatná místa odběru vzorků. V zónách a aglomeracích se celkový počet míst odběru vzorků částic PM<sub>2,5</sub>a částic PM<sub>10</sub> nesmí lišit o více než dvojnásobek.
+
+3\) V aglomeracích a dalších městských oblastech s počtem obyvatel vyšším než 100 000 se za účelem výpočtu ukazatele průměrné expozice a posouzení dodržování národního cíle snížení expozice zřídí alespoň 1 měřicí lokalita na milion obyvatel pro stacionární měření částic PM<sub>2,5</sub>. Tato místa odběru vzorků mohou být totožná s místy odběru vzorků podle části A bodu 1.
+
+2\. Minimální počet měřicích lokalit pro posouzení dodržování imisních limitů uvedených v bodu 2 přílohy č. 1 zákona v zónách jiných než aglomeracích
+
+<table><tbody><tr><th colspan="2">Minimální počet měřicích lokalit pokud</th></tr><tr><td><b>je překročena horní mez pro posuzování<br> úrovně znečištění</b></td><td><b>není překročena horní mez pro posuzování<br> úrovně znečištění, ale je překročena dolní me</b>z</td></tr><tr><td>1 lokalita na každých 20 000 km<sup>2</sup></td><td>1 lokalita na každých 40 000 km<sup>2</sup></td></tr></tbody></table>
+
+3\. Minimální počet měřicích lokalit pro účely posouzení dodržování imisních limitů uvedených v bodu 3 přílohy č. 1 zákona
+
+<table><tbody><tr><th rowspan="3">Počet obyvatel <br> aglomerace nebo zóny</th><th colspan="4">Minimální počet měřicích lokalit pokud</th></tr><tr><th colspan="2">je překročena horní mez pro <br> posuzování úrovně znečištění<sup>1</sup><sup>)</sup></th><th colspan="2">není překročena horní mez pro <br> posuzování úrovně znečištění, ale je <br> překročena dolní mez</th></tr><tr><th>As, Cd, Ni</th><th>Benzo(a)pyren</th><th>As, Cd, Ni</th><th>Benzo(a)pyren</th></tr><tr><td>0-749 999</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>750 000-1 999 999</td><td>2</td><td>2</td><td>1</td><td>1</td></tr><tr><td>2 000 000-3 749 999</td><td>2</td><td>3</td><td>1</td><td>1</td></tr></tbody></table>
+
+Vysvětlivky:
+
+1\) Zahrnuje nejméně jednu lokalitu v městském prostředí a pro benzo(a)pyren také jednu lokalitu zaměřenou na vliv dopravy, pokud to nezvýší počet bodů vzorkování.
+
+#### Část B – Minimální počet měřicích lokalit pro stacionární měření troposférického ozonu a jeho prekurzorů
+
+1\. Minimální počet měřicích lokalit pro stacionární měření pro účely posouzení dodržování imisních limitů a informativních a varovných prahových hodnot
+
+<table><tbody><tr><th rowspan="2">Počet obyvatel aglomerace <br> nebo zóny</th><th colspan="3">Minimální počet měřicích lokalit</th></tr><tr><th>Aglomerace</th><th>Zóna</th><th>Venkovská pozaďová lokalita</th></tr><tr><td>0-249 999</td><td>-</td><td>1</td><td rowspan="7">1 stanice/25 000 km<sup>2</sup> jako<br> průměrná hustota pro zóny</td></tr><tr><td>250 000-499 999</td><td>1</td><td>2</td></tr><tr><td>500 000-999 999</td><td>2</td><td>2</td></tr><tr><td>1 000 000-1 499 999</td><td>3</td><td>3</td></tr><tr><td>1 500 000-1 999 999</td><td>3</td><td>4</td></tr><tr><td>2 000 000-2 749 999</td><td>4</td><td>5</td></tr><tr><td>2 750 000-3 749 999</td><td>5</td><td>6</td></tr></tbody></table>
+
+Alespoň jedna stanice v zóně a aglomeraci se umístí v oblastech, kde může dojít k expozici obyvatelstva nejvyšší koncentraci troposférického ozónu. V aglomeracích se nejméně 50 % stacionárních měření umístí do předměstských lokalit.
+
+2\. Stacionární měření oxidů dusíku se provádí minimálně u 50 % stacionárního měření pro troposférický ozon. Stacionární měření oxidů dusíku je kontinuální, vyjma venkovských pozaďových lokalit, na kterých mohou být použity jiné měřicí metody.
+
+3\. Minimální počet měřicích lokalit v zónách a aglomeracích, kde jsou dosahovány imisní limity pro troposférický ozon stanovené v bodu 4 přílohy č. 1 zákona, musí být, v kombinaci s dalšími prostředky posuzování úrovně znečištění, jako je modelování a souběžná měření koncentrace oxidu dusičitého, dostatečný pro hodnocení trendu úrovně znečištění troposférickým ozonem a pro kontrolu dodržování imisních limitů stanovených v bodu 4 přílohy č. 1 zákona.
+
+### Příloha č. 3 k vyhlášce č. 330/2012 Sb.
+
+#### Požadavky na měřicí lokality a umístění bodů vzorkování pro stacionární měření
+
+#### Část A – Měřicí lokality a body vzorkování pro stacionární měření úrovně znečištění znečišťujícími látkami s výjimkou troposférického ozonu
+
+1\. Požadavky na měřicí lokality
+
+1.1. Měřicí lokality zaměřené na ochranu zdraví lidí
+
+1.1.1. Měřicí lokality zaměřené na ochranu zdraví lidí se vybírají tak, aby poskytly údaje o
+
+a) oblastech v rámci zón a aglomerací, v nichž se vyskytují nejvyšší úrovně znečištění, jimž bude obyvatelstvo pravděpodobně přímo nebo nepřímo vystaveno po dobu významnou ve vztahu k průměrované době dotyčného imisního limitu,
+
+b) úrovních znečištění v jiných oblastech v rámci zón a aglomerací, které jsou reprezentativní pro expozici obyvatelstva obecně.
+
+1.1.2. Měřicí lokality se zpravidla vybírají tak, aby se zamezilo měření velmi malých mikroprostředí v jejich bezprostřední blízkosti. To znamená, že měřicí lokalita je vybrána tak, aby vzorky vzduchu byly pokud možno reprezentativní pro úsek komunikace o délce minimálně 100 m u dopravních lokalit, pro 1000 m u předměstských lokalit a pro území o rozměrech alespoň 250 m x 250 m u průmyslových lokalit.
+
+1.1.3. Městské pozaďové lokality se vybírají tak, aby na úroveň znečištění v těchto lokalitách působily veškeré zdroje umístěné proti větru od měřicí lokality. Úroveň znečištění by neměl převážně způsobovat pouze jeden zdroj znečišťování, pokud taková situace není typická pro rozsáhlejší městskou oblast. Měřicí lokalita by měla být reprezentativní pro území o rozloze několika km<sup>2</sup>.
+
+1.1.4. Pokud je cílem zjištění pozaďových úrovní znečištění, nesmí být měřící lokalita ovlivněna aglomeracemi nebo průmyslovými zónami nacházejícími se blíže než v okruhu 5 kilometrů.
+
+1.1.5. Pokud má být posouzen příspěvek z průmyslových zdrojů znečišťování, je alespoň jedna měřicí lokalita vybrána po převládajícím směru větru od zdroje znečišťování v nejbližší rezidenční oblasti. Pokud není známa pozaďová úroveň znečištění, vybere se jedna měřicí lokalita také na návětrné straně stacionárního zdroje (při zohlednění převládajícího směru větru).
+
+1.1.6. Měřicí lokality se zpravidla vybírají tak, aby naměřené úrovně znečištění byly reprezentativní i pro podobné oblasti, které neleží v jejich bezprostřední blízkosti.
+
+1.1.7. Stacionární měření prekurzorů troposférického ozonu se provádí zejména v městských a předměstských lokalitách.
+
+1.2. Měřicí lokality zaměřené na ochranu ekosystémů a vegetace
+
+Měřicí lokality zaměřené na ochranu vegetace se vybírají ve vzdálenosti více než 20 km od aglomerací nebo více než 5 km od jiných zastavěných oblastí, stacionárních zdrojů nebo dálnic nebo hlavních silnic s dopravním zatížením větším než 50 000 vozidel za den. Měřicí lokalita je vybrána tak, aby naměřené úrovně znečištění ovzduší byly reprezentativní pro území o rozloze nejméně 1 000 km<sup>2</sup>.
+
+2\. Požadavky na umístění bodů vzorkování pro stacionární měření
+
+2.1. Proud vzduchu kolem vstupního otvoru odběrové sondy nesmí být omezen (musí být volný v sektoru minimálně 270° nebo 180° pro místa odběru v linii obytné zástavby) a v blízkosti nesmí být žádné překážky ovlivňující proud vzduchu (odběrové zařízení musí být zpravidla vzdáleno od budov, balkonů, stromů a jiných překážek více než dvojnásobek počtu metrů, než je výška překážky, která odběrové zařízení přesahuje, minimálně 0,5 m od nejbližší budovy v případě míst odběru vzorků reprezentujících úroveň znečištění v linii obytné zástavby),
+
+2.2. Vstupní otvor odběrové sondy se zpravidla umístí ve výšce mezi 1,5 m (dýchací zóna) a 4 m nad zemí, za určitých okolností může být zapotřebí vyšší poloha (až 8 m), vyšší umístění může být rovněž vhodné, je-li stanice reprezentativní pro velkou oblast a jakékoli odchylky jsou řádně zdokumentovány,
+
+2.3. Vstupní otvor odběrové sondy nesmí být umístěn v bezprostřední blízkosti zdrojů, aby bylo zamezeno přímému vlivu emisí nesmísených s okolním vzduchem,
+
+2.4. Výstupní otvor odběrového zařízení musí být umístěn tak, aby byl znemožněn vstup vytékajícího odebraného vzduchu zpět do vstupního otvoru odběrového zařízení,
+
+2.5. U odběrových zařízení zaměřených na dopravu by
+
+a) body vzorkování měly být alespoň 25 m od okraje velkých křižovatek a nejméně 4 m od středu nejbližšího dopravního pruhu; velkou křižovatkou se pro účely tohoto ustanovení rozumí křižovatka, která naruší plynulost dopravy a kde vznikají emise odlišné od ostatních částí silnice,
+
+b) body vzorkování pro měření oxidu dusičitého a oxidu uhelnatého měly být nejdále 5 m od okraje vozovky,
+
+c) body vzorkování měly být umístěny tak, aby měření byla reprezentativní pro úroveň znečištění ovzduší v blízkosti linie obytné zástavby, ale nejdále 10 m od okraje vozovky.
+
+2.6. Body vzorkování se umisťují tak, aby byly brány v úvahu následující faktory
+
+a) rušivé zdroje,
+
+b) bezpečnost, zejména bezpečnost veřejnosti a provozního personálu,
+
+c) přístupnost,
+
+d) dostupnost elektrické energie a telefonního spojení,
+
+e) viditelnost místa v jeho okolí,
+
+f) vhodnost sloučení míst odběru vzorků pro různé znečišťující látky,
+
+g) požadavky územního plánování.
+
+3\. Dokumentace a přezkum výběru míst
+
+3.1 Dokumentují se postupy výběru míst a umístění všech měřicích míst v síti, a to včetně pořízení fotografie okolí měřicí lokality v hlavních světových stranách, a podrobné mapy. V případě orientačního měření nebo modelování musí dokumentace obsahovat podrobné informace o těchto metodách a o plnění požadavků uvedených v příloze č. 1 k této vyhlášce.
+
+3.2. Vhodnost výběru měřicích lokalit a umístění bodů vzorkování se pravidelně přezkoumává nejméně každých 5 let a pořizuje se nová dokumentace, aby byla doložena průběžná platnost výběrových kritérií, koncepce sítě a měřicích míst.
+
+#### Část B – Měřicí lokality a body vzorkování pro stacionární měření troposférického ozonu
+
+1\. Požadavky na měřicí lokality
+
+| Typ lokality | Cíle měření | Reprezentativnost | Kritéria pro umístění v makroměřítku |
+|---|---|---|---|
+| Městská | **Ochrana zdraví lidí:**<br> expozice městské populace troposférickému ozonu, tj. v místech, kde je zároveň relativně vysoká hustota obyvatelstva a úroveň znečištění troposférickým ozonem | Několik km<sup>2</sup> | V místech, kde nepůsobí vliv zdrojů místních emisí, jako je doprava, benzinové stanice apod.;<br> Větraná místa, kde je předpokládáno dobré promíchávání vzduchu;<br> Místa jako jsou obytné a obchodní oblasti měst, parky (daleko od stromů), velké ulice nebo náměstí s velmi malou nebo žádnou dopravou, otevřené oblasti charakterizované vzdělávacími, sportovními nebo rekreačními zařízeními. |
+| Předměstská | **Ochrana zdraví lidí a vegetace:**<br> expozice populace a vegetace nacházející se ve vnějších částech aglomerací, kde bývají nejvyšší úrovně znečištění troposférickým ozonem | Několik desítek km<sup>2</sup> | V určité vzdálenosti od oblasti s maximálními emisemi, po hlavním směru (hlavních směrech) větru v době, kdy jsou dobré podmínky pro tvorbu troposférického ozonu;<br> V místech na vnějším okraji aglomerace, kde obyvatelstvo, citlivé plodiny nebo přírodní ekosystémy jsou vystaveny vysokým úrovním znečištění;<br> Kde je to vhodné, některé předměstské stanice se mohou nacházet také proti směru větru od oblasti s maximálními emisemi, za účelem určení regionálních pozaďových úrovní znečištění. |
+| Venkovská | **Ochrana zdraví lidí a vegetace:**<br> expozice populace, plodin a přírodních ekosystémů troposférickému ozonu v subregionálním měřítku | Subregionální úrovně znečištění<br> (několik stovek km<sup>2</sup> ) | V malých obcích nebo oblastech s přírodními ekosystémy, lesy;<br> Místa reprezentativní pro úrovně znečištění troposférickým ozonem mimo oblasti působnosti lokálních emisí ze stacionárních zdrojů nebo dopravních komunikací;<br> V otevřených oblastech, nikoli však na vrcholech vyšších hor. |
+| Venkovská pozaďová | **Ochrana zdraví lidí a vegetace:** expozice užitkových rostlin a přirozených ekosystémů, jakož i obyvatelstva troposférickému ozonu v regionálním měřítku | Regionální/ národní/ kontinentální úrovně znečištění<br> (1000 do 10000 km<sup>2</sup>) | Měření umístěné v oblastech s nižší hustotou obyvatelstva, např. v oblastech s přirozenými ekosystémy a lesy, značně vzdálených od městských a průmyslových oblastí a stranou od emisí z lokálních zdrojů;<br> Mimo místa, v nichž se tvoří přízemní inverze, jako jsou například konkávní formy reliéfu terénu, a také mimo vyšší horské vrcholy. |
+
+2\. Požadavky na umístění bodů vzorkování pro stacionární měření
+
+Postupuje se přiměřeně podle části A bodu 2 této přílohy a zajistí se, aby vstupní sonda byla umístěna v dostatečné vzdálenosti od stacionárních zdrojů, jako jsou vysoké pece a spalovny, tak aby jimi nebylo měření významně ovlivněno, a více než 10 m od nejbližší silnice, přičemž tato vzdálenost roste úměrně intenzitě dopravního provozu.
+
+3\. Dokumentace a přezkum výběru míst
+
+Postupuje se podle části A bodu 3 této přílohy, přičemž se uplatní správné přezkoumání a interpretace monitorovacích údajů v kontextu s meteorologickými a fotochemickými procesy, které ovlivňují úroveň znečištění ovzduší troposférickým ozonem v konkrétních lokalitách.
+
+### Příloha č. 4 k vyhlášce č. 330/2012 Sb.
+
+#### Horní a dolní meze pro posuzování úrovně znečištění
+
+| Znečišťující látka/doba průměrování<sup>1</sup><sup>)</sup> | Horní mez pro <br> posuzování | Dolní mez pro <br> posuzování |
+|---|---|---|
+| Oxid siřičitý/24 hodin | 75 µg.m<sup>-3</sup> / 3<sup>2</sup><sup>)</sup> | 50 µg.m<sup>-3</sup> / 3<sup>2</sup><sup>)</sup> |
+| Oxid siřičitý/kalendářní rok a zimní <br> období (1. října - 31. března) | 12 µg.m<sup>-3</sup> | 8 µg.m<sup>-3</sup> |
+| Oxid dusičitý/1 hodina | 140 µg.m<sup>-3</sup> / 18<sup>2</sup><sup>)</sup> | 100 µg.m<sup>-3</sup> / 18<sup>2</sup><sup>)</sup> |
+| Oxid dusičitý | 32 µg.m<sup>-3</sup> | 26 µg.m<sup>-3</sup> |
+| Oxidy dusíku | 24 µg.m<sup>-3</sup> | 19,5 µg.m<sup>-3</sup> |
+| Částice PM<sub>10</sub> /24 hodin | 35 µg.m<sup>-3</sup> / 35<sup>2</sup><sup>)</sup> | 25 µg.m<sup>-3</sup> / 35<sup>2</sup><sup>)</sup> |
+| Částice PM<sub>10</sub> | 28 µg.m<sup>-3</sup> | 20 µg.m<sup>-3</sup> |
+| Částice PM<sub>2,5</sub> | 17 µg.m<sup>-3</sup> | 12 µg.m<sup>-3</sup> |
+| Oxid uhelnatý | 7 mg.m<sup>-3</sup> | 5 mg.m<sup>-3</sup> |
+| Benzen | 3,5 µg.m<sup>-3</sup> | 2 µg.m<sup>-3</sup> |
+| Olovo | 0,35 µg.m<sup>-3</sup> | 0,25 µg.m<sup>-3</sup> |
+| Arsen | 3,6 ng.m<sup>-3</sup> | 2,4 ng.m<sup>-3</sup> |
+| Kadmium | 3 ng.m<sup>-3</sup> | 2 ng.m<sup>-3</sup> |
+| Nikl | 14 ng.m<sup>-3</sup> | 10 ng.m<sup>-3</sup> |
+| Benzo(a)pyren | 0,6 ng.m<sup>-3</sup> | 0,4 ng.m<sup>-3</sup> |
+
+Poznámky: 1) Pokud není uvedeno jinak, je doba průměrování 1 kalendářní rok.
+
+2\) Maximální počet překročení za kalendářní rok.
+
+### Příloha č. 5 k vyhlášce č. 330/2012 Sb.
+
+#### Prekurzory troposférického ozonu
+
+a) Oxidy dusíku:
+
+oxid dusnatý
+
+oxid dusičitý
+
+b) Těkavé organické látky:
+
+ethan
+
+ethylen
+
+acetylen
+
+propan
+
+propen
+
+n-butan
+
+i-butan
+
+but-1-en
+
+trans-but-2-en
+
+cis-but-2-en
+
+buta-1,3-dien
+
+n-pentan
+
+i-pentan
+
+pent-1-en
+
+pent-2-en
+
+isopren
+
+n-hexan
+
+i-hexan
+
+n-heptan
+
+n-oktan
+
+i-oktan
+
+benzen
+
+toluen
+
+ethylbenzen
+
+m,p-xylen
+
+o-xylen
+
+1,2,4-trimethylbenzen
+
+1,2,3-trimethylbenzen
+
+1,3,5-trimethylbenzen formaldehyd
+
+nemethanové uhlovodíky celkem
+
+### Příloha č. 6 k vyhlášce č. 330/2012 Sb.
+
+**Referenční metody sledování kvality ovzduší**
+
+#### Část A – Postupy pro odběr vzorků a provádění analýz při stacionárním měření
+
+1.1. Pro stacionární měření oxidu siřičitého se použije referenční metoda podle české technické normy ČSN EN 14212 "Kvalita ovzduší - Normovaná metoda stanovení oxidu siřičitého ultrafialovou fluorescencí".
+
+1.2. Pro stacionární měření oxidu dusičitého a oxidů dusíku se použije referenční metoda podle české technické normy ČSN EN 14211 "Kvalita ovzduší - Normovaná metoda stanovení oxidu dusičitého a oxidu dusnatého chemiluminiscencí".
+
+1.3. Pro odběr vzorků olova, arsenu, kadmia a niklu se použije referenční metoda podle bodu 1.4 této přílohy. Pro stacionární měření olova, arsenu, kadmia a niklu se použije referenční metoda podle české technické normy ČSN EN 14902 "Kvalita ovzduší - Normovaná metoda stanovení Pb, Cd, As a Ni ve frakci PM<sub>10</sub> aerosolových částic".
+
+1.4. Pro odběr vzorků a stacionární měření PM<sub>10</sub> a PM<sub>25</sub> se použije referenční metoda podle české technické normy ČSN EN 12341 "Kvalita ovzduší - Referenční gravimetrická metoda stanovení hmotnostní koncentrace frakcí aerosolových částic PM<sub>10</sub> a PM<sub>2,5</sub>".
+
+1.5. Pro odběr vzorků a stacionární měření benzenu se použije referenční metoda podle částí 1, 2, a 3 české technické normy ČSN EN 14662 "Kvalita ovzduší - Normovaná metoda stanovení benzenu".
+
+1.6. Pro stacionární měření oxidu uhelnatého se použije referenční metoda podle české technické normy ČSN EN 14626 "Kvalita ovzduší - Normovaná metoda stanovení oxidu uhelnatého nedisperzní infračervenou spektrometrií".
+
+1.7. Pro stacionární měření troposférického ozonu se použije referenční metoda podle české technické normy EN ČSN 14625 "Kvalita ovzduší - Normovaná metoda stanovení ozonu ultrafialovou fotometrií".
+
+1.8. Pro odběr vzorků a analýzu benzo(a)pyrenu se použije referenční metoda podle české technické normy ČSN EN 15549 "Kvalita ovzduší - Normovaná metoda stanovení benzo(a)pyrenu ve venkovním ovzduší". Pro odběr vzorků a analýzu dalších polycyklických aromatických uhlovodíků se použije referenční metoda ČSN P CEN/TS 16645 – „Kvalita ovzduší – Metoda měření benzo[a]anthracenu, benzo[b]fluorantenu, benzo[j]fluorantenu, benzo[k]fluorantenu, dibenz[a,h]anthracenu, indeno[1,2,3-cd]pyrenu a benzo[ghi]perylenu".
+
+1.9. Pro měření celkové rtuti ve vnějším ovzduší se použije referenční metoda podle české technické normy ČSN EN 15852 "Kvalita venkovního ovzduší - Normovaná metoda pro stanovení celkové plynné rtuti". Pro měření celkové depozice rtuti se použije referenční metoda podle české technické normy ČSN EN 15853 "Kvalita venkovního ovzduší - Normovaná metoda pro stanovení depozice rtuti".
+
+1.10. Pro odběr vzorků a analýzu depozice benzo(a)pyrenu a dalších polycyklických aromatických uhlovodíků podle § 3 odst. 1 se použije referenční metoda podle technické normy ČSN EN 15980 "Kvalita ovzduší - Stanovení depozice benzo[a]anthracenu, benzo[b]fluoranthenu, benzo[j]fluoranthenu, benzo[k]fluoranthenu, benzo[a]pyrenu, dibenzo[a,h]anthracenu a indeno[1,2,3-cd]pyrenu".
+
+1.11. Pro odběr vzorků deponovaného arsenu, kadmia a niklu se použije referenční metoda podle české technické normy ČSN EN 15841 "Kvalita venkovního ovzduší - Normovaná metoda pro stanovení arsenu, kadmia, olova a niklu v atmosférické depozici".
+
+#### Část B – Modely pro posuzování úrovně znečistění výpočtem podle § 5 odst. 3 zákona
+
+1\. Eulerovský regionální fotochemický disperzní model CAMx (Comprehensive Air quality Model with extensions)
+
+2\. Chemické transportní modely evropského centra EMEP
+
+3\. Gaussovský disperzní model SYMOS'97
+
+#### Část C – Referenční modely pro zpracování rozptylových studií podle § 11 odst. 9 zákona
+
+| Název modelu | Oblasti použití | Velikost výpočetní oblasti |
+|---|---|---|
+| SYMOS'97 | Městské oblasti nad úrovní střech budov a venkovské oblasti<br> (všechny zdroje znečišťování) | do 70 km od zdroje znečišťování |
+| ATEM | Městské oblasti nad úrovní střech budov a venkovské oblasti<br> (všechny zdroje znečišťování) | do 70 km od zdroje znečišťování |
+
+Tyto modely nejsou vhodné pro znečišťující látky s krátkou dobou setrvání v atmosféře, sekundární nebo rychle reagující znečišťující látky (např. troposférický ozon nebo sekundární částice), ani pro zjištění pozaďových úrovní znečištění způsobených vzdálenějšími zdroji znečišťování. Modely musí být používány v aktuální verzi programu a v souladu s manuálem k dané verzi.
+
+### Příloha č. 7 k vyhlášce č. 330/2012 Sb.
+
+#### Obsahové náležitosti protokolu o měření úrovně znečištění
+
+1\. Datum provedení měření úrovně znečištění a datum vystavení protokolu
+
+2\. Identifikace osoby provádějící měření úrovně znečištění, včetně informací umožňujících identifikaci oprávnění k provádění měření jako je autorizace a akreditace, byla-li udělena
+
+3\. Jméno a podpis osoby odpovědné za správnost a přesnost provedení měření
+
+4\. Účel měření úrovně znečištění
+
+5\. Typ a rozsah měření úrovně znečištění a doprovodných meteorologických veličin: metoda měření, odběru a zpracování vzorků a odkazy na normy a standardní operační postupy
+
+6\. Umístění měřicího místa v terénu včetně zeměpisných souřadnic a nadmořské výšky, popis lokality, typ a reprezentativnost lokality, porovnání s požadavky příslušných předpisů pro umisťování měřicího místa, stávající úroveň znečištění dané lokality dle databáze Informačního systému kvality ovzduší a map klouzavých pětiletých průměrných koncentrací znečišťujících látek
+
+7\. Popis meteorologických podmínek, zejména srážek, vlhkosti vzduchu, mlhy, teploty a rozptylových podmínek, při kterých bylo prováděno měření úrovně znečištění, resp. odběr vzorků pro následné laboratorní zpracování, lokalizace zdrojů znečišťování a dalších vlivů, které mohly přímo významně ovlivnit měření úrovně znečištění, jako jsou stacionární zdroje, pozemní komunikace, frekvence dopravy, otevřený oheň, stavební, zemědělská či jiná činnost s výrazným vlivem na znečištění ovzduší, a popis jejich vlivu
+
+8\. Kvalita dat, zejména zajištění správnosti a přesnosti odběru, manipulace, logistika a skladování odebraných vzorků a jejich laboratorní zpracování, vyhodnocení dat, zajištění kontroly a verifikace naměřených dat, nejistota měření, časová a prostorová reprezentativnost naměřených dat
+
+9\. Použitá přístrojová technika, zejména odběrová zařízení, měřidla, analyzátory a jejich rozsahy a přesnost, a popis zajištění metrologické návaznosti a způsob sběru dat
+
+10\. Oblast spolupráce, zejména identifikace spolupracující autorizované nebo akreditované osoby, předmět spolupráce stanovované znečišťující látky a metody stanovení
+
+11\. Výsledky měření úrovně znečištění, zejména verifikované hodnoty naměřených hmotnostních koncentrací z jednotlivých měření přepočtené na podmínky, za kterých je stanoven imisní limit, a vyjádřené v relevantní době průměrování, případně grafy průběhu, odpovídající imisní limit a podmínky, za jakých je stanoven, a nejistota tohoto měření
+
+12\. Soubory výsledků naměřených a doprovodných veličin
+
+13\. Seznam dokumentů použitých pro měření úrovně znečištění, zejména právních předpisů, norem, standardních operačních postupů, literatury a seznam zkratek, pokud jsou v protokolu použity
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 2008/50/ES ze dne 21. května 2008 o kvalitě vnějšího ovzduší a čistším ovzduší pro Evropu. 
+ Směrnice Evropského parlamentu a Rady 2004/107/ES ze dne 15. prosince 2004 o obsahu arsenu, kadmia, rtuti, niklu a polycyklických aromatických uhlovodíků ve vnějším ovzduší. 
+ Směrnice Komise (EU) 2015/1480 ze dne 28. srpna 2015, kterou se mění několik příloh směrnice Evropského parlamentu a Rady 2004/107/ES a 2008/50/ES, kterými se stanoví pravidla pro referenční metody, ověřování údajů a umístění míst odběru vzorků při posuzování kvality vnějšího ovzduší.

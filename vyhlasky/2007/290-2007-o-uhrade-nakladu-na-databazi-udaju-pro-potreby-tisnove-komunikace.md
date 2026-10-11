@@ -1,0 +1,112 @@
+---
+title: "Vyhláška č. 290/2007 Sb., o úhradě nákladů na databázi údajů pro potřeby tísňové komunikace"
+identifier: "290/2007 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2007/290/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2007-11-19
+effective: 2007-12-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2007/290"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 290/2007 Sb., o úhradě nákladů na databázi údajů pro potřeby tísňové komunikace ve znění vyhlášky č. 469/2021 Sb."
+---
+
+# Vyhláška č. 290/2007 Sb., o úhradě nákladů na databázi údajů pro potřeby tísňové komunikace
+
+290
+
+VYHLÁŠKA
+
+ze dne 19. listopadu 2007
+
+o úhradě nákladů na databázi údajů pro potřeby tísňové komunikace
+
+Český telekomunikační úřad stanoví podle § 150 odst. 5 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 310/2006 Sb., k provedení § 33 odst. 5 tohoto zákona:
+
+## § 1 – Výše úhrady nákladů na zřízení a vedení databáze
+
+(1) Pro účely výpočtu účelně vynaložených nákladů podle § 33 odst. 4 zákona o elektronických komunikacích se za odpisy majetku považují účetní odpisy technologických zařízení využívaných pro vedení databáze, včetně serverů, nehmotného majetku, zejména licencí a softwaru, nutného k vedení databáze, a za provozní náklady takové provozní náklady, které byly vynaloženy na zřízení, údržbu a provoz těchto zařízení.
+
+(2) Do výpočtu účelně vynaložených nákladů podle odstavce 1 se zahrnou pouze takové náklady, o nichž vede podnikatel zajišťující připojení centra tísňové komunikace k veřejné pevné komunikační síti účetní záznamy podle zákona o účetnictví.
+
+(3) Výše měsíční úhrady fakturované centru tísňové komunikace, se určuje podle vzorce
+
+| | P | | O<sub>i</sub> | |
+|---|---|---|---|---|
+| Ui = | —— | . | —— | . N, |
+| | P<sub>c</sub> | | O | |
+
+kde:
+
+U<sub>i</sub> je výše měsíční úhrady účelně vynaložených nákladů podle odstavce 1 fakturovaná jednotlivému centru tísňové komunikace,
+
+P je počet dnů v příslušném kalendářním měsíci, kdy je databáze schopna po dobu celého dne poskytovat osobní a identifikační údaje v souladu s vyhláškou o lokalizaci a identifikaci účastníka tísňové komunikace,
+
+P<sub>c</sub> je počet dnů v příslušném kalendářním měsíci celkem,
+
+O<sub>i</sub> je počet obyvatel přiřazený k příslušnému tísňovému číslu, kterému se přisuzuje pro jednotlivá tísňová čísla následující hodnota:
+
+pro tísňové číslo 112 počet obyvatel České republiky,
+
+pro tísňové číslo 150 počet obyvatel České republiky,
+
+pro tísňové číslo 155 počet obyvatel příslušného kraje, který je zřizovatelem poskytovatele zdravotnické záchranné služby tohoto kraje,
+
+pro tísňové číslo 156 počet obyvatel obce, která je zřizovatelem příslušné obecní policie,
+
+pro tísňové číslo 158 počet obyvatel České republiky,
+
+O je součet všech O<sub>i</sub>,
+
+N je celková výše měsíčních nákladů podle odstavce 1.
+
+(4) Hodnota počtu obyvatel O<sub>i</sub> se určuje podle Statistické ročenky České republiky vydávané Českým statistickým úřadem, aktuální v době vystavení faktury podle § 2.
+
+## § 2 – Způsob úhrady nákladů na zřízení a vedení databáze
+
+(1) Úhrada nákladů podle § 1 náleží podnikateli podle § 1 odst. 2 pouze za dobu, kdy je databáze schopna poskytovat osobní a identifikační údaje v souladu s vyhláškou o lokalizaci a identifikaci účastníka tísňové komunikace.
+
+(2) Fakturu podnikatel podle § 1 odst. 2 doručí kontaktnímu pracovišti, které mu určí subjekt, který provozuje centrum tísňové komunikace, do dvacátého pátého dne kalendářního měsíce následujícího po uskutečnění plnění. Fakturu za měsíc listopad doručí podnikatel podle § 1 odst. 2 nejpozději do 10. prosince téhož roku.
+
+(3) Splatnost faktury je 30 kalendářních dnů ode dne jejího doručení.
+
+(4) Přílohou faktury jsou tyto údaje a doklady:
+
+a) výpočet výše měsíční úhrady nákladů podle § 1 odst. 3, včetně uvedení hodnot proměnných P, P<sub>c</sub>, O<sub>i</sub>, O a N,
+
+b) výpočet výše celkových nákladů N podle § 1 odst. 1,
+
+c) kopie dodavatelských faktur na pořízení dlouhodobého majetku podle § 1 odst. 1, včetně příloh a s vyznačením položek a jim odpovídající pořizovací ceny zařízení, jehož odpisy se zahrnují do úhrady nákladů, a výpočet odpisů majetku v návaznosti na pořizovací cenu a odpisový plán,
+
+d) kopie dokladů o nákladech vynaložených na zabezpečení vedení databáze prováděné vlastními zaměstnanci, zejména výkazy práce s počtem odpracovaných hodin a hodinové sazby vypočtené z posledních známých údajů z oddělené evidence nákladů a výnosů,
+
+e) kopie dodavatelských faktur na zabezpečení vedení databáze,
+
+f) přehled všech subjektů, kterým byla v příslušném kalendářním měsíci fakturována úhrada nákladů podle § 1 odst. 3, včetně uvedení odpovídajícího počtu obyvatel O<sub>i</sub> pro příslušné tísňové číslo,
+
+g) přehled dnů, po které nesplňovala databáze podmínku podle odstavce 1.
+
+(5) Se souhlasem subjektu, který provozuje centrum tísňové komunikace, může podnikatel podle § 1 odst. 2 použít způsob doložení faktury odlišný od způsobu uvedeného v odstavci 4.
+
+(6) Podnikatel podle § 1 odst. 2 zašle doklady podle odstavce 4 nebo 5 jako přílohu k faktuře subjektu, který provozuje centrum tísňové komunikace, s první fakturou. V případě, že dojde v jednotlivých dokladech ke změně údajů, zašle podnikatel podle § 1 odst. 2 doklad o příslušné změně spolu s nejbližší příští fakturou.
+
+(7) Se souhlasem subjektu, který provozuje centrum tísňové komunikace, může podnikatel podle § 1 odst. 2 zaslat doklady k faktuře podle odstavce 4 nebo 5, případně doklad o změně údajů v jiném okamžiku, než je uvedeno v odstavci 6.
+
+## § 3 – Přechodná ustanovení
+
+(1) Souhrnnou fakturu obsahující vyúčtování úhrady nákladů za období od 1. července 2006 do dne předcházejícího dni nabytí účinnosti této vyhlášky doručí podnikatel subjektu, který provozuje pracoviště pro příjem volání na čísla tísňového volání, nejpozději do 90 dnů ode dne nabytí účinnosti této vyhlášky.
+
+(2) Splatnost souhrnné faktury podle odstavce 1 je 90 kalendářních dnů ode dne jejího doručení.
+
+(3) Pro stanovení výše úhrady za období uvedené v odstavci 1 a pro její vyúčtování platí přiměřeně § 1 a 2.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti prvního dne měsíce následujícího po dni jejího vyhlášení.
+
+Předseda Rady Českého telekomunikačního úřadu:
+
+PhDr. Dvořák, CSc. v. r.

@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 169/2017 Sb., o vydání pamětní stříbrné pětisetkoruny ke 100. výročí bitvy u Zborova"
+identifier: "169/2017 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2017/169/2017-06-28"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2017-05-26
+effective: 2017-06-28
+last_amended: 2017-06-28
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2017/169"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 169/2017 Sb., o vydání pamětní stříbrné pětisetkoruny ke 100. výročí bitvy u Zborova
+
+169
+
+VYHLÁŠKA
+
+ze dne 26. května 2017
+
+o vydání pamětní stříbrné pětisetkoruny ke 100. výročí bitvy u Zborova
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 28. června 2017 se ke 100. výročí bitvy u Zborova vydává pamětní stříbrná mince po 500 Kč (dále jen „pětisetkoruna“).
+
+(2) Pětisetkoruna se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Pětisetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 925 dílů stříbra a 75 dílů mědi. Hmotnost pětisetkoruny je 25 g, její průměr 40 mm a síla 2,65 mm. Při ražbě pětisetkoruny v běžném i zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,50 g a v obsahu stříbra odchylka nahoru 1 %. Hrana pětisetkoruny v běžném provedení je vroubkovaná, hrana pětisetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA\* Ag 0.925 \* 25 g \*“.
+
+## § 2
+
+(1) Na lícní straně pětisetkoruny je pomocí zemských znaků budoucího Československa symbolicky vyjádřen boj proti rakousko-uherské monarchii reprezentované rakouským císařským heraldicky stylizovaným orlem. Po obvodu pětisetkoruny je v opisu text „ČESKÁ REPUBLIKA“ a označení nominální hodnoty mince se zkratkou peněžní jednotky „500 Kč“. Značka České mincovny, která je tvořena kompozicí písmen „Č“ a „M“, je umístěna při pravém horním okraji mince.
+
+(2) Na rubové straně pětisetkoruny je zobrazen výjev z bitevního pole. V neuzavřeném opisu při horním okraji mince je text „BITVA U ZBOROVA“ a při spodním okraji letopočty „1917 - 2017“. Vpravo od letopočtu 2017 je umístěna značka autora mince Asamata Baltaeva, DiS.
+
+(3) Vyobrazení pětisetkoruny je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 28. června 2017.
+
+Guvernér:
+
+v z. prof. PhDr. Ing. Tomšík, Ph.D., v. r.
+
+viceguvernér
+
+### Příloha k vyhlášce č. 169/2017 Sb.
+
+#### Vyobrazení pamětní stříbrné pětisetkoruny ke 100. výročí bitvy u Zborova
+
+(lícní a rubová strana)
+
+#### ![sbcr2017c060z0169p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/835041/NAHLED/ZOBRAZ/sbcr2017c060z0169p001o001)![sbcr2017c060z0169p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/835043/NAHLED/ZOBRAZ/sbcr2017c060z0169p001o002)

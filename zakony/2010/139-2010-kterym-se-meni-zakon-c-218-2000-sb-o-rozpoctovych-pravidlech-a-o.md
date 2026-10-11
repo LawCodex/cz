@@ -1,0 +1,59 @@
+---
+title: "Zákon č. 139/2010 Sb., kterým se mění zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů"
+identifier: "139/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/139/2010-05-20"
+type: act
+jurisdiction: cz
+language: cs
+date: 2010-04-22
+effective: 2010-05-20
+last_amended: 2010-05-20
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/139"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 139/2010 Sb., kterým se mění zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů
+
+139
+
+ZÁKON
+
+ze dne 22. dubna 2010,
+
+kterým se mění zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna rozpočtových pravidel
+
+### Čl. I
+
+Zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 493/2000 Sb., zákona č. 141/2001 Sb., zákona č. 187/2001 Sb., zákona č. 320/2001 Sb., zákona č. 450/2001 Sb., zákona č. 202/2002 Sb., zákona č. 320/2002 Sb., zákona č. 479/2003 Sb., zákona č. 186/2004 Sb., zákona č. 257/2004 Sb., zákona č. 436/2004 Sb., zákona č. 482/2004 Sb., zákona č. 1/2005 Sb., zákona č. 127/2005 Sb., zákona č. 361/2005 Sb., zákona č. 377/2005 Sb., zákona č. 546/2005 Sb., zákona č. 112/2006 Sb., zákona č. 130/2006 Sb., zákona č. 138/2006 Sb., zákona č. 140/2006 Sb., zákona č. 230/2006 Sb., zákona č. 267/2006 Sb., zákona č. 174/2007 Sb., zákona č. 270/2007 Sb., zákona č. 26/2008 Sb., zákona č. 306/2008 Sb., zákona č. 109/2009 Sb., zákona č. 154/2009 Sb., zákona č. 214/2009 Sb., zákona č. 227/2009 Sb. a zákona č. 281/2009 Sb., se mění takto:
+
+1\. V § 14 se za odstavec 6 vkládá nový odstavec 7, který včetně poznámky pod čarou č. 15b zní:
+
+> „(7) Poskytovatel může v rozhodnutí o dotaci stanovit u programů nebo projektů spolufinancovaných z rozpočtu Evropské unie výdaje nebo náklady, které budou vyúčtovány jako paušální<sup>15b</sup>), jejichž výše nemusí být prokazována. Paušální výdaje nebo náklady se stanoví
+
+> a) procentem ze skutečně vynaložených a prokázaných, poskytovatelem stanovených výdajů nebo nákladů projektu,
+
+> b) na základě poskytovatelem stanovených jednotkových nákladů, nebo
+
+> c) jako pevná částka pokrývající veškeré výdaje či náklady projektu nebo jejich část.
+
+> <sup>15b</sup>) Čl. 7 nařízení Evropského parlamentu a Rady (ES) č. 1080/2006 ze dne 5. července 2006 o Evropském fondu pro regionální rozvoj a o zrušení nařízení (ES) č. 1783/1999, ve znění nařízení Evropského parlamentu a Rady (ES) č. 397/2009. 
+>  Čl. 11 odst. 3 nařízení Evropského parlamentu a Rady (ES) č. 1081/2006 ze dne 5. července 2006 o Evropském sociálním fondu a o zrušení nařízení (ES) č. 1784/1999, ve znění nařízení Evropského parlamentu a Rady (ES) č. 396/2009.“.
+
+Dosavadní odstavce 7 až 11 se označují jako odstavce 8 až 12.
+
+2\. V § 14 odst. 9 se číslo „7“ nahrazuje číslem „8“.
+
+## ČÁST DRUHÁ – ÚČINNOST
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+Vlček v. r.
+
+Klaus v. r.
+
+Fischer v. r.

@@ -1,0 +1,54 @@
+---
+title: "Zákon č. 377/2012 Sb., kterým se mění zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů"
+identifier: "377/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/377/2013-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2012-10-25
+effective: 2013-01-01
+last_amended: 2013-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/377"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 377/2012 Sb., kterým se mění zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů
+
+377
+
+ZÁKON
+
+ze dne 25. října 2012,
+
+kterým se mění zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 285/2009 Sb., zákona č. 199/2010 Sb., zákona č. 139/2011 Sb., zákona č. 420/2011 Sb., zákona č. 428/2011 Sb., zákona č. 457/2011 Sb. a zákona č. 18/2012 Sb., se mění takto:
+
+1\. V § 41 odst. 1 se slova „anebo vysoce hodnotných komodit, jako jsou zejména drahé kovy nebo drahé kameny,“ zrušují.
+
+2\. V § 41 odstavec 6 zní:
+
+> „(6) Oznámení se podává na společném ohlašovacím formuláři Evropské unie, jehož vzor je uveden v příloze k tomuto zákonu. Tiskopis společného ohlašovacího formuláře Evropské unie je k dispozici u celního úřadu; ministerstvo společný ohlašovací formulář Evropské unie, včetně všech jeho ostatních jazykových verzí zveřejněných Evropskou komisí, rovněž zveřejní způsobem umožňujícím dálkový přístup. Osoba, která oznámení podává, odpovídá za správnost a úplnost v něm vyplněných údajů.“.
+
+3\. V § 41 odst. 7 se slova „a vysoce hodnotných komodit“ zrušují.
+
+4\. Příloha k zákonu zní:
+
+> **„Příloha k zákonu č. 253/2008 Sb.**
+
+> **![sbcr2012c141z0377p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791083/NAHLED/ZOBRAZ/sbcr2012c141z0377p001u001) “.**
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2013.
+
+Němcová v. r.
+
+Klaus v. r.
+
+Nečas v. r.

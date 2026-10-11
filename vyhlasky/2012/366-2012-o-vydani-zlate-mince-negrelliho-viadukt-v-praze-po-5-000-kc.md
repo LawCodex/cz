@@ -1,0 +1,60 @@
+---
+title: "Vyhláška č. 366/2012 Sb., o vydání zlaté mince „Negrelliho viadukt v Praze“ po 5 000 Kč"
+identifier: "366/2012 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2012/366/2012-11-13"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2012-10-23
+effective: 2012-11-13
+last_amended: 2012-11-13
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2012/366"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 366/2012 Sb., o vydání zlaté mince „Negrelliho viadukt v Praze“ po 5 000 Kč
+
+366
+
+VYHLÁŠKA
+
+ze dne 23. října 2012
+
+o vydání zlaté mince „Negrelliho viadukt v Praze“ po 5 000 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb.:
+
+## § 1
+
+(1) Dnem 13. listopadu 2012 se v rámci cyklu „Mosty“ vydává zlatá mince „Negrelliho viadukt v Praze“ po 5 000 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince v běžném i ve zvláštním provedení se razí ze zlata o ryzosti 999.9. Hmotnost mince je 15,55 g, její průměr 28 mm a síla 1,9 mm. Při ražbě mince v běžném provedení i ve zvláštním provedení je přípustná odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je přípustná odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká.
+
+## § 2
+
+(1) Na lícní straně mince je oblouk Negrelliho viaduktu, v němž je ztvárněna kompozice heraldických zvířat z velkého státního znaku - uprostřed je český lev, vpravo od něj slezská orlice a vlevo od něj moravská orlice. Uprostřed oblouku je ve třech řádcích název cyklu „MOSTY“, název státu „ČESKÁ REPUBLIKA“ a označení nominální hodnoty mince se zkratkou peněžní jednotky „5000 Kč“. Všechny texty jsou na svých okrajích a mezi sebou odděleny tečkami. Značka České mincovny, která je tvořena kompozicí písmen „Č“ a „M“, je při spodním okraji mince.
+
+(2) Na rubové straně mince je část Negrelliho viaduktu vyobrazená z boku, nad kterou je jeden oblouk viaduktu. Nad obloukem je opis „NEGRELLIHO VIADUKT V PRAZE“, který je na okrajích ohraničen tečkami. Pod vyobrazením Negrelliho viaduktu je ročník ražby „2012“ a iniciály autora výtvarného návrhu mince akademického sochaře Zbyňka Fojtů, které jsou tvořeny spojenými písmeny „F“ a „Z“. Iniciály autora výtvarného návrhu mince a ročník ražby jsou odděleny tečkou.
+
+(3) Vyobrazení mince je uvedeno v příloze k této vyhlášce.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 13. listopadu 2012.
+
+Guvernér:
+
+Ing. Singer, PhD., v. r.
+
+### Příloha k vyhlášce č. 366/2012 Sb.
+
+#### Vyobrazení zlaté mince „Negrelliho viadukt v Praze“ po 5 000 Kč
+
+#### (lícní a rubová strana)
+
+#### ![sbcr2012c136z0366p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791073/NAHLED/ZOBRAZ/sbcr2012c136z0366p001o001)
+
+#### ![sbcr2012c136z0366p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791075/NAHLED/ZOBRAZ/sbcr2012c136z0366p001o002)

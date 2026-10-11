@@ -1,0 +1,289 @@
+---
+title: "Vyhláška č. 118/2006 Sb., kterou se určují zastupitelské úřady, kterým budou při volbách do Poslanecké sněmovny hlasovací lístky dodány, a zastupitelské úřady, kterým bude hlasovací lístek zaslán k vytištění nebo rozmnožení přenosovou technikou"
+identifier: "118/2006 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2006/118/2021-09-14"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2006-03-27
+effective: 2006-03-31
+last_amended: 2021-09-14
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2006/118"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 118/2006 Sb., kterou se určují zastupitelské úřady, kterým budou při volbách do Poslanecké sněmovny hlasovací lístky dodány, a zastupitelské úřady, kterým bude hlasovací lístek zaslán k vytištění nebo rozmnožení přenosovou technikou ve znění vyhlášky č. 93/2010 Sb., vyhlášky č. 324/2013 Sb., vyhlášky č. 287/2017 Sb. a vyhlášky č. 336/2021 Sb."
+---
+
+# Vyhláška č. 118/2006 Sb., kterou se určují zastupitelské úřady, kterým budou při volbách do Poslanecké sněmovny hlasovací lístky dodány, a zastupitelské úřady, kterým bude hlasovací lístek zaslán k vytištění nebo rozmnožení přenosovou technikou
+
+118
+
+VYHLÁŠKA
+
+ze dne 27. března 2006,
+
+kterou se určují zastupitelské úřady, kterým budou při volbách do Poslanecké sněmovny hlasovací lístky dodány, a zastupitelské úřady, kterým bude hlasovací lístek zaslán k vytištění nebo rozmnožení přenosovou technikou
+
+Ministerstvo zahraničních věcí stanoví podle § 92 odst. 3 zákona č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů, ve znění zákona č. 204/2000 Sb.:
+
+## § 1
+
+(1) Při volbách do Poslanecké sněmovny budou hlasovací lístky dodány<sup>1</sup>) na zastupitelské úřady, jejichž seznam je uveden v příloze č. 1 k této vyhlášce.
+
+(2) Při volbách do Poslanecké sněmovny bude hlasovací lístek zaslán<sup>1</sup>) k vytištění nebo rozmnožení přenosovou technikou na zastupitelské úřady, jejichž seznam je uveden v příloze č. 2 k této vyhlášce.
+
+## § 2
+
+Zrušuje se:
+
+1\. Vyhláška Ministerstva zahraničních věcí č. 351/2001 Sb., kterou se určují zastupitelské úřady České republiky v zahraničí, kterým budou při volbách do Poslanecké sněmovny Parlamentu hlasovací lístky dodány, a zastupitelské úřady České republiky v zahraničí, kterým budou hlasovací lístky zaslány k vytištění nebo rozmnožení přenosovou technikou.
+
+2\. Vyhláška Ministerstva zahraničních věcí č. 100/2002 Sb., kterou se mění vyhláška Ministerstva zahraničních věcí č. 351/2001 Sb., kterou se určují zastupitelské úřady České republiky v zahraničí, kterým budou při volbách do Poslanecké sněmovny Parlamentu hlasovací lístky dodány, a zastupitelské úřady České republiky v zahraničí, kterým budou hlasovací lístky zaslány k vytištění nebo rozmnožení přenosovou technikou.
+
+3\. Vyhláška č. 143/2003 Sb., kterou se mění vyhláška č. 351/2001 Sb., kterou se určují zastupitelské úřady České republiky v zahraničí, kterým budou při volbách do Poslanecké sněmovny Parlamentu hlasovací lístky dodány, a zastupitelské úřady České republiky v zahraničí, kterým budou hlasovací lístky zaslány k vytištění nebo rozmnožení přenosovou technikou, ve znění vyhlášky č. 100/2002 Sb.
+
+4\. Vyhláška č. 196/2004 Sb., kterou se mění vyhláška č. 351/2001 Sb., kterou se určují zastupitelské úřady České republiky v zahraničí, kterým budou při volbách do Poslanecké sněmovny Parlamentu hlasovací lístky dodány, a zastupitelské úřady České republiky v zahraničí, kterým budou hlasovací lístky zaslány k vytištění nebo rozmnožení přenosovou technikou, ve znění pozdějších předpisů.
+
+5\. Vyhláška č. 566/2004 Sb., kterou se mění vyhláška Ministerstva zahraničních věcí č. 351/2001 Sb., kterou se určují zastupitelské úřady České republiky v zahraničí, kterým budou při volbách do Poslanecké sněmovny Parlamentu hlasovací lístky dodány, a zastupitelské úřady České republiky v zahraničí, kterým budou hlasovací lístky zaslány k vytištění nebo rozmnožení přenosovou technikou, ve znění pozdějších předpisů.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem jejího vyhlášení.
+
+Ministr:
+
+JUDr. Svoboda v. r.
+
+### Příloha č. 1 k vyhlášce č. 118/2006 Sb.
+
+#### Seznam zastupitelských úřadů, na které budou hlasovací lístky dodány
+
+Berlín - velvyslanectví
+
+Bratislava - velvyslanectví
+
+Drážďany - generální konzulát
+
+Düsseldorf - generální konzulát
+
+Mnichov - generální konzulát
+
+Varšava - velvyslanectví
+
+Vídeň - velvyslanectví
+
+### Příloha č. 2 k vyhlášce č. 118/2006 Sb.
+
+#### Seznam zastupitelských úřadů, kterým bude hlasovací lístek zaslán k vytištění nebo rozmnožení přenosovou technikou
+
+Abú Dhabí - velvyslanectví
+
+Abuja - velvyslanectví
+
+Addis Abeba - velvyslanectví
+
+Akkra - velvyslanectví
+
+Alžír - velvyslanectví
+
+Ammán - velvyslanectví
+
+Ankara - velvyslanectví
+
+Athény - velvyslanectví
+
+Bagdád - velvyslanectví
+
+Baku - velvyslanectví
+
+Bamako - velvyslanectví
+
+Bangkok - velvyslanectví
+
+Bejrút - velvyslanectví
+
+Bělehrad - velvyslanectví
+
+Bern - velvyslanectví
+
+Bogota - velvyslanectví
+
+Brasília - velvyslanectví
+
+Brusel - velvyslanectví
+
+Budapešť - velvyslanectví
+
+Buenos Aires - velvyslanectví
+
+Bukurešť - velvyslanectví
+
+Canberra - velvyslanectví
+
+Dakar - velvyslanectví
+
+Damašek - velvyslanectví
+
+Dillí - velvyslanectví
+
+Dublin - velvyslanectví
+
+Erbíl - generální konzulát
+
+Haag - velvyslanectví
+
+Hanoj - velvyslanectví
+
+Havana - velvyslanectví
+
+Helsinky - velvyslanectví
+
+Hongkong - generální konzulát
+
+Chengdu - generální konzulát
+
+Chicago - generální konzulát
+
+Islámábád - velvyslanectví
+
+Istanbul - generální konzulát
+
+Jakarta - velvyslanectví
+
+Jekatěrinburg - generální konzulát
+
+Jerevan - velvyslanectví
+
+Káhira - velvyslanectví
+
+Kišiněv - velvyslanectví
+
+Kodaň - velvyslanectví
+
+Kuala Lumpur - velvyslanectví
+
+Kuvajt - velvyslanectví
+
+Kyjev - velvyslanectví
+
+Lima - velvyslanectví
+
+Lisabon - velvyslanectví
+
+Londýn - velvyslanectví
+
+Los Angeles - generální konzulát
+
+Lublaň - velvyslanectví
+
+Lucemburk - velvyslanectví
+
+Lusaka - velvyslanectví
+
+Lvov - generální konzulát
+
+Madrid - velvyslanectví
+
+Manchester - generální konzulát
+
+Manila - velvyslanectví
+
+Ménaka - konzulární jednatelství
+
+Mexiko - velvyslanectví
+
+Milán - generální konzulát
+
+Minsk - velvyslanectví
+
+Moskva - velvyslanectví
+
+Nairobi - velvyslanectví
+
+New York - generální konzulát
+
+Nikósie - velvyslanectví
+
+Nur-Sultan - velvyslanectví
+
+Oslo - velvyslanectví
+
+Ottawa - velvyslanectví
+
+Paříž - velvyslanectví
+
+Peking - velvyslanectví
+
+Phnompenh - velvyslanectví
+
+Podgorica - velvyslanectví
+
+Pretoria - velvyslanectví
+
+Priština - velvyslanectví
+
+Rabat - velvyslanectví
+
+Rangún - velvyslanectví
+
+Riga - velvyslanectví
+
+Rijád - velvyslanectví
+
+Řím - velvyslanectví
+
+Sankt Peterburg - generální konzulát
+
+Santiago de Chile - velvyslanectví
+
+Sao Paulo - generální konzulát
+
+Sarajevo - velvyslanectví
+
+Singapur - velvyslanectví
+
+Skopje - velvyslanectví
+
+Sofie - velvyslanectví
+
+Soul - velvyslanectví
+
+Stockholm - velvyslanectví
+
+Sydney - generální konzulát
+
+Šanghaj - generální konzulát
+
+Tallinn - velvyslanectví
+
+Taškent - velvyslanectví
+
+Tbilisi - velvyslanectví
+
+Tchaj-pej - česká ekonomická a kulturní kancelář
+
+Teherán - velvyslanectví
+
+Tel Aviv - velvyslanectví
+
+Tirana - velvyslanectví
+
+Tokio - velvyslanectví
+
+Toronto - generální konzulát
+
+Tunis - velvyslanectví
+
+Ulánbátar - velvyslanectví
+
+Vatikán - velvyslanectví
+
+Vilnius - velvyslanectví
+
+Washington - velvyslanectví
+
+Záhřeb - velvyslanectví
+
+---
+
+<sup>1</sup>) § 38 odst. 5 zákona č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů, ve znění zákona č. 204/2000 Sb., zákona č. 171/2002 Sb. a zákona č. 230/2002 Sb.

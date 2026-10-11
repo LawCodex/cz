@@ -1,0 +1,111 @@
+---
+title: "Vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza"
+identifier: "428/2010 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2010/428/2022-11-21"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2010-12-21
+effective: 2011-01-01
+last_amended: 2022-11-21
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2010/428"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza ve znění vyhlášky č. 270/2011 Sb., vyhlášky č. 46/2013 Sb., vyhlášky č. 20/2014 Sb., vyhlášky č. 198/2014 Sb., vyhlášky č. 255/2018 Sb., vyhlášky č. 69/2019 Sb., vyhlášky č. 308/2019 Sb. a vyhlášky č. 338/2022 Sb."
+---
+
+# Vyhláška č. 428/2010 Sb., stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza
+
+428
+
+VYHLÁŠKA
+
+ze dne 21. prosince 2010
+
+stanovící okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza
+
+Ministerstvo vnitra po projednání s Ministerstvem zahraničních věcí stanoví podle § 182 odst. 1 písm. b) zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. 428/2005 Sb., zákona č. 379/2007 Sb. a zákona č. 427/2010 Sb.:
+
+## § 1
+
+Tato vyhláška v návaznosti na přímo použitelný předpis Evropské unie<sup>1</sup>) a v něm obsažený seznam<sup>2</sup>) upravuje okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza.
+
+## § 2
+
+(1) Pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza může cizinec, který je státním občanem nebo se prokáže cestovním dokladem státu, který je zařazen do seznamu uvedeného v příloze k této vyhlášce.
+
+(2) Cizinec podle odstavce 1 může pobývat v tranzitním prostoru mezinárodního letiště bez uděleného letištního průjezdního víza na základě přímo použitelného předpisu Evropské unie<sup>3</sup>).
+
+## § 3 – Zrušovací ustanovení
+
+Zrušuje se:
+
+1\. Vyhláška č. 446/2005 Sb., kterou se stanoví okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního víza.
+
+2\. Vyhláška č. 356/2006 Sb., kterou se mění vyhláška č. 446/2005 Sb., kterou se stanoví okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního víza.
+
+3\. Vyhláška č. 418/2006 Sb., kterou se mění vyhláška č. 446/2005 Sb., kterou se stanoví okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního víza, ve znění vyhlášky č. 356/2006 Sb.
+
+4\. Vyhláška č. 13/2007 Sb., kterou se mění vyhláška č. 446/2005 Sb., kterou se stanoví okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního víza, ve znění pozdějších předpisů.
+
+5\. Vyhláška č. 246/2007 Sb., kterou se mění vyhláška č. 446/2005 Sb., kterou se stanoví okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního víza, ve znění pozdějších předpisů.
+
+6\. Vyhláška č. 111/2008 Sb., kterou se mění vyhláška č. 446/2005 Sb., kterou se stanoví okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního víza, ve znění pozdějších předpisů.
+
+7\. Vyhláška č. 92/2010 Sb., kterou se mění vyhláška č. 446/2005 Sb., kterou se stanoví okruh cizinců, kteří mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního víza, ve znění pozdějších předpisů.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2011.
+
+Ministr:
+
+Mgr. John v. r.
+
+### Příloha k vyhlášce č. 428/2010 Sb.
+
+#### Seznam států, jejichž státní občané nebo cizinci, kteří jsou držiteli cestovních dokladů vydaných těmito státy, mohou pobývat v tranzitním prostoru mezinárodního letiště na území České republiky pouze na základě uděleného letištního průjezdního víza
+
+1\. Alžírsko,
+
+2\. Arménie,
+
+3\. Čad,
+
+4\. Egypt,
+
+5\. Indie,
+
+6\. Jemen,
+
+7\. Jižní Súdán,
+
+8\. Kuba,
+
+9\. Libanon,
+
+10\. Libye,
+
+11\. Mali,
+
+12\. Mauritánie,
+
+13\. Niger,
+
+14\. Palestina,
+
+15\. Rusko,
+
+16\. Súdán,
+
+17\. Sýrie,
+
+18\. Turecko.
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 810/2009 ze dne 13. července 2009 o kodexu Společenství o vízech (vízový kodex), v platném znění.
+
+<sup>2</sup>) Čl. 3 odst. 1 nařízení Evropského parlamentu a Rady (ES) č. 810/2009.
+
+<sup>3</sup>) Čl. 3 odst. 5 nařízení Evropského parlamentu a Rady (ES) č. 810/2009.
