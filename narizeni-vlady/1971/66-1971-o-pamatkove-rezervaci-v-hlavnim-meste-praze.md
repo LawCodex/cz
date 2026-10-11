@@ -1,0 +1,60 @@
+---
+title: "Nařízení vlády České socialistické republiky č. 66/1971 Sb., o památkové rezervaci v hlavním městě Praze"
+identifier: "66/1971 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1971/66/1971-08-13"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1971-07-21
+effective: 1971-08-13
+last_amended: 1971-08-13
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1971/66"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády České socialistické republiky č. 66/1971 Sb., o památkové rezervaci v hlavním městě Praze
+
+66
+
+NAŘÍZENÍ VLÁDY
+
+České socialistické republiky
+
+ze dne 21. července 1971
+
+o památkové rezervaci v hlavním městě Praze
+
+Vláda České socialistické republiky nařizuje podle § 4 zákona č. 22/1958 Sb., o kulturních památkách:
+
+## § 1
+
+Historické jádro hlavního města Prahy se prohlašuje za památkovou rezervaci (dále jen „rezervace“).
+
+## § 2
+
+Rozsah rezervace se vymezuje katastrálním územím Starého Města s Josefovem, Malé Strany, Hradčan s Pražským hradem a Nového Města s Vyšehradem a částmi přilehlých katastrálních území. Hranice rezervace je vyznačena v plánu, který je přílohou tohoto nařízení.
+
+## § 3
+
+(1) Pro stavební činnost v rezervaci se stanoví tyto podmínky:
+
+a) veškeré úpravy nemovitých kulturních památek i jejich souborů a objektů, které vykazují dílčí památkové nebo urbanistické hodnoty (objekty památkového zájmu), dotýkající se vnitřní i vnější architektury, musí být řešeny a prováděny se zřetelem k trvalému zabezpečení jejich hmotné podstaty, k jejich přiměřenému společenskému využití a dalšímu zhodnocování výtvarných a dokumentárních funkcí,
+
+b) při nové výstavbě a při vnějších úpravách nechráněných objektů se musí dbát architektonických vztahů ke kulturním památkám a jejich souborům, navazovat na jejich objemovou a prostorovou skladbu i prostředí a dotvářet jejich celky přiměřenými prostředky současné architektonické tvorby,
+
+c) řešení a provádění veškerých úprav terénních i staveb dopravních, vodohospodářských, energetických, telekomunikačních, podzemních, jakož i inženýrských sítí v rezervaci nesmí narušovat její prostředí a ohrožovat jednotlivé kulturní památky,
+
+d) zpracování, posuzování a schvalování všech územních plánů, soutěžních úkolů i přípravné a projektové dokumentace staveb na území rezervace musí být prováděno se zřetelem ke kulturní hodnotě prostředí.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem vyhlášení.
+
+Korčák v. r.
+
+### Příloha k nařízení vlády ČSR č. 66/1971 Sb.
+
+#### PAMÁTKOVÁ REZERVACE V HLAVNÍM MĚSTĚ PRAZE
+
+#### ![sbcr1971c020z0066o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/779663/NAHLED/ZOBRAZ/sbcr1971c020z0066o001)

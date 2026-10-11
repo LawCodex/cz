@@ -1,0 +1,54 @@
+---
+title: "Nařízení vlády č. 315/1948 Sb., jímž se zřizují státní lesní a zemědělské podniky ve formě národních podniků"
+identifier: "315/1948 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1948/315/1949-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1948-12-30
+effective: 1949-01-01
+last_amended: 1949-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1948/315"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 315/1948 Sb., jímž se zřizují státní lesní a zemědělské podniky ve formě národních podniků
+
+315.
+
+Vládní nařízení
+
+ze dne 30. prosince 1948,
+
+jímž se zřizují státní lesní a zemědělské podniky ve formě národních podniků.
+
+Vláda republiky Československé nařizuje podle § 1, odst. 1 zákona ze dne 22. prosince 1948, č. 312 Sb., o organisaci státních lesů a statků:
+
+## § 1. – Zřízení podniků.
+
+Dnem 1. ledna 1949 se zřizují tyto státní lesní a zemědělské podniky ve formě národních podniků (dále jen „podniky“):
+
+1\. Československé státní lesy, národní podnik, se sídlem v Praze,
+
+2\. Československé státní statky, národní podnik, se sídlem v Praze.
+
+## § 2. – Majetková podstata.
+
+Majetkovou podstatu podniků tvoří majetkové podstaty dosavadního podniku Státní lesy a statky; ministr zemědělství určí, které části těchto majetkových podstat připadnou jednotlivým podnikům.
+
+## § 3. – Předmět podnikání.
+
+(1) Československé státní lesy, národní podnik, provozuje lesní hospodářství a přidružené závody lesní k zužitkování lesní výroby a podstaty půdy vyjma vyhrazené nerosty.
+
+(2) Československé státní statky, národní podnik, provozuje polní a rybniční hospodářství a přidružené závody k statkovému zužitkování rostlinné a živočišné výroby a podstaty půdy vyjma vyhrazené nerosty.
+
+(3) Podniky mohou vykonávati nebo obstarávati samostatně všechny práce a pomocné úkony, jež slouží úkolům podle odstavců 1 a 2, jakož i vyvíjeti činnosti, jež souvisí s jejich provozem.
+
+## § 4. – Závěrečné ustanovení.
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1949; provede je ministr zemědělství v dohodě se zúčastněnými členy vlády.
+
+Zápotocký v. r.
+
+Ďuriš v. r.

@@ -1,0 +1,88 @@
+---
+title: "Zákon Slovenskej národnej rady č. 129/1981 Sb., o štátnom rozpočte Slovenskej socialistickej republiky na rok 1982"
+identifier: "129/1981 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1981/129/1982-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1981-12-18
+effective: 1982-01-01
+last_amended: 1982-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1981/129"
+retrieved: 2026-10-11
+---
+
+# Zákon Slovenskej národnej rady č. 129/1981 Sb., o štátnom rozpočte Slovenskej socialistickej republiky na rok 1982
+
+129
+
+ZÁKON
+
+Slovenskej národnej rady
+
+z 18. decembra 1981
+
+o štátnom rozpočte Slovenskej socialistickej republiky na rok 1982
+
+Slovenská národná rada sa uzniesla na tomto zákone:
+
+## § 1
+
+| (1) Celkové príjmy štátneho rozpočtu Slovenskej socialistickej republiky (ďalej len „štátny rozpočet republiky“) sa určujú sumou | 72 723 767 000 Kčs |
+|---|---|
+| celkové výdavky štátneho rozpočtu republiky sa určujú sumou | 72 723 767 000 Kčs |
+| (príloha č. 1). | |
+| (2) V štátnom rozpočte republiky je obsiahnutý <br> súhrnný finančný vzťah rozpočtov národných výborov k štátnemu rozpočtu republiky (dotácie zo štátneho rozpočtu republiky) vo výške | 10 151 100 000 Kčs |
+| a účelové subvencie poskytované zo štátneho rozpočtu republiky do rozpočtov národných výborov vo výške | 8 414 400 000 Kčs |
+| (príloha č. 2). | |
+
+## § 2
+
+Vláda Slovenskej socialistickej republiky alebo na základe jej splnomocnenia minister financií zabezpečí vyjadrenie finančných údajov štátneho rozpočtu republiky určených týmto zákonom v cenách platných k 1. januáru 1982; pritom zabezpečí vyrovnanosť štátneho rozpočtu republiky a rozpočtov národných výborov.
+
+## § 3
+
+Vláda Slovenskej socialistickej republiky alebo na základe jej splnomocnenia minister financií môže premietnuť do štátneho rozpočtu republiky, ak sa tým nenaruší jeho vyrovnanosť, najmä zmeny štátneho plánu rozvoja národného hospodárstva Slovenskej socialistickej republiky, organizačné a cenové zmeny, úpravy ekonomických nástrojov v zahraničnom obchode a v poľnohospodárstve, upraviť súhrnný finančný vzťah a účelové subvencie národným výborom, ak sa zmenia predpoklady, za ktorých boli tieto vzťahy k štátnemu rozpočtu republiky určené.
+
+## § 4
+
+Tento zákon nadobúda účinnosť 1. januárom 1982.
+
+Šalgovič v. r.
+
+Colotka v. r.
+
+### Príloha č. 1 zákona SNR č. 129/1981 Zb.
+
+#### Celkový prehľad **štátneho rozpočtu Slovenskej socialistickej republiky na rok 1982**
+
+| Príjmy | v tis. Kčs |
+|---|---|
+| Príjmy zo socialistického hospodárstva<br> z toho: | 13 185 440 |
+| z hospodárstva | 10 696 234 |
+| z vedy a techniky | 95 337 |
+| z peňažných a technických služieb | 1 178 750 |
+| zo spoločenských služieb a činností | 1 148 419 |
+| z obrany a bezpečnosti | 66 700 |
+| Dane od obyvateľstva a poplatky | 12 209 000 |
+| Ostatné príjmy | 217 527 |
+| Dotácie a subvencie zo štátneho rozpočtu federácie | 47 111 800 |
+| Spolu | 72 723 767 |
+
+| Výdavky | v tis. Kčs |
+|---|---|
+| Hospodárstvo | 22 559 650 |
+| Veda a technika | 1 557 731 |
+| Peňažné a technické služby | 1 377 935 |
+| Spoločenské služby a činnosti pre obyvateľstvo | 26 124 012 |
+| Obrana a bezpečnosť | 1 584 400 |
+| Správa | 954 539 |
+| Súhrnný finančný vzťah a účelové subvencie národným výborom | 18 565 500 |
+| Spolu | 72 723 767 |
+
+### Príloha č. 2 zákona SNR č. 129/1981 Zb.
+
+#### Súhrnný finančný vzťah (dotácie) a účelové subvencie národným výborom zo štátneho rozpočtu Slovenskej socialistickej republiky na rok 1982
+
+<table><tbody><tr><th rowspan="2"><b></b> Kraj<b></b></th><th>Dotácie<b></b></th><th>Účelové <br> subvencie</th></tr><tr><th colspan="2"><b></b> v tis. Kčs</th></tr><tr><td>Národný výbor hlavného mesta Slovenskej<br> socialistickej republiky Bratislavy<b></b></td><td>972 600<b></b></td><td>1 850 400<b></b></td></tr><tr><td>Západoslovenský krajský národný výbor<b></b></td><td>2 328 100</td><td>2 116 100<b></b></td></tr><tr><td>Stredoslovenský krajský národný výbor<b></b></td><td>3 332 600<b></b></td><td>2 189 700<b></b></td></tr><tr><td>Východoslovenský krajský národný výbor<b></b></td><td>3 517 800<b></b></td><td>2 258 200<b></b></td></tr><tr><td>Spolu<b></b></td><td>10 151 100<b></b></td><td>8 414 400<b></b></td></tr></tbody></table>

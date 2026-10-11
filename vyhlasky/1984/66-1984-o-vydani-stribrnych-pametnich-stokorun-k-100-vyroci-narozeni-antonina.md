@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 66/1984 Sb., o vydání stříbrných pamětních stokorun k 100. výročí narození Antonína Zápotockého"
+identifier: "66/1984 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1984/66/1984-11-16"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1984-06-12
+effective: 1984-11-16
+last_amended: 1984-11-16
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1984/66"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 66/1984 Sb., o vydání stříbrných pamětních stokorun k 100. výročí narození Antonína Zápotockého
+
+66
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 12. června 1984
+
+o vydání stříbrných pamětních stokorun k 100. výročí narození Antonína Zápotockého
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) K 100. výročí narození Antonína Zápotockého se vydávají stříbrné pamětní stokoruny (dále jen „stokoruny“).
+
+(2) Stokoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku. Hmotnost stokoruny je 9 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 29 mm; její hrana je vroubkovaná.
+
+## § 2
+
+(1) Na líci stokoruny je uprostřed státní znak Československé socialistické republiky a pod ním ve třech řádcích název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“. Po stranách státního znaku je umístěno označení hodnoty, vlevo číslo „100“, vpravo zkratka „Kčs“.
+
+(2) Na rubu stokoruny je portrét Antonína Zápotockého. Jeho jméno „ANTONÍN ZÁPOTOCKÝ“ je v opise vpravo, letopočty „1884“ a „1984“ rozdělené snítkou vavřínu jsou v opise vlevo.
+
+(3) Autorem návrhu stokoruny je národní umělec Jan Simota, jehož značka „S“ je pod portrétem dole.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 16. listopadu 1984.
+
+Ministr:
+
+Ing. Lér CSc. v. r.
+
+### ![sbcr1984c013z0066_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/782299/NAHLED/ZOBRAZ/sbcr1984c013z0066_o_1)
+
+### ![sbcr1984c013z0066_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/782301/NAHLED/ZOBRAZ/sbcr1984c013z0066_o_2)

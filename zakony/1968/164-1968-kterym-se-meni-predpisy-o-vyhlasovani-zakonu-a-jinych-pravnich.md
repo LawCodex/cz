@@ -1,0 +1,60 @@
+---
+title: "Zákon č. 164/1968 Sb., kterým se mění předpisy o vyhlašování zákonů a jiných právních předpisů"
+identifier: "164/1968 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1968/164/1969-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1968-12-19
+effective: 1969-01-01
+last_amended: 1969-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1968/164"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 164/1968 Sb., kterým se mění předpisy o vyhlašování zákonů a jiných právních předpisů
+
+164
+
+ZÁKON
+
+ze dne 19. prosince 1968,
+
+kterým se mění předpisy o vyhlašování zákonů a jiných právních předpisů
+
+Národní shromáždění Československé socialistické republiky se usneslo na tomto zákoně:
+
+## Čl. I
+
+Zákonné opatření předsednictva Národního shromáždění č. 4/1962 Sb., o vyhlašování zákonů a jiných právních předpisů, se mění takto.
+
+1\. Ustanovení § 1 zní:
+
+> **„§ 1**
+
+> Zákony Federálního shromáždění a zákonná opatření jeho předsednictva se vyhlašují ve Sbírce zákonů.“
+
+2\. Ustanovení § 2 písm. d) se vypouští.
+
+3\. Ustanovení § 3 zní:
+
+> **„§ 3**
+
+> Stanoví-li tak zákon České národní rady a Slovenské národní rady, vyhlašují se ve Sbírce zákonů též zákony národních rad a zákonná opatření jejich předsednictev, nařízení vlády České socialistické republiky a vlády Slovenské socialistické republiky, ostatní obecně závazné právní předpisy ministerstev a ostatních ústředních orgánů republik, jakož i jiná opatření těchto orgánů; za téže podmínky se vyhlašují ve Sbírce zákonů též vyhlášky krajských národních výborů.“
+
+4\. Ustanovení § 8 odst. 2 zní:
+
+> „(2) Redakci Sbírky zákonů zabezpečuje orgán, který vláda Československé socialistické republiky tím pověří.“
+
+5\. Kde se v ostatních ustanoveních tohoto zákonného opatření mluví o Národním shromáždění, vládě, ministerstvech a ústředních orgánech, rozumí se tím Federální shromáždění a vláda, ministerstva a ústřední orgány Československé socialistické republiky.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1969.
+
+Svoboda v. r.
+
+Smrkovský v. r.
+
+Ing. Černík v. r.

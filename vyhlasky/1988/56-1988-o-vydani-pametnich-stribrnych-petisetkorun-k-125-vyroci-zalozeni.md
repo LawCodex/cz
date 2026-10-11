@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 56/1988 Sb., o vydání pamětních stříbrných pětisetkorun k 125. výročí založení Matice slovenské"
+identifier: "56/1988 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1988/56/1988-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1988-04-12
+effective: 1988-05-01
+last_amended: 1988-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1988/56"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 56/1988 Sb., o vydání pamětních stříbrných pětisetkorun k 125. výročí založení Matice slovenské
+
+56
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 12. dubna 1988
+
+o vydání pamětních stříbrných pětisetkorun k 125. výročí založení Matice slovenské
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) K 125. výročí založení Matice slovenské se vydávají pamětní stříbrné pětisetkoruny (dále jen „pětisetkoruny“).
+
+(2) Pětisetkoruny se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost pětisetkoruny je 24 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr pětisetkoruny je 40 mm. Na její hraně je nápis „HOJ VLASŤ MOJA • TY ZEM DRAHÁ“.
+
+## § 2
+
+(1) Na líci pětisetkoruny je uprostřed nahoře státní znak Československé socialistické republiky a okolo něho v neuzavřeném opise název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“. V řádku pod státním znakem je označení hodnoty „500 Kčs“. Uprostřed dole jsou ozdobné iniciály „MS“.
+
+(2) Na rubu pětisetkoruny je ve slovenském kroji žena s pozdviženýma rukama; v pravé ruce drží květy a knihu, v levé lipovou ratolest. Uprostřed dole je nápis „MATICA SLOVENSKÁ“. Vlevo ve dvou řádcích jsou letopočty „1863“ a „1988“.
+
+(3) Autorem návrhu je národní umělec Ján Kulich. Jeho jméno „J. KULICH“ je umístěno na rubu v řádku vlevo.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. května 1988.
+
+Ministr:
+
+Ing. Žák v. r.
+
+### ![sbcr1988c009z0056_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792427/NAHLED/ZOBRAZ/sbcr1988c009z0056_o_1)
+
+### ![sbcr1988c009z0056_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792429/NAHLED/ZOBRAZ/sbcr1988c009z0056_o_2)

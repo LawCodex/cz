@@ -1,0 +1,78 @@
+---
+title: "Nařízení vlády Slovenskej socialistickej republiky č. 39/1986 Sb., o medaile Za hrdinský čin a o čestnom titule Zaslúžilý príslušník Zboru požiarnej ochrany"
+identifier: "39/1986 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1986/39/1986-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1986-05-16
+effective: 1986-07-01
+last_amended: 1986-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1986/39"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády Slovenskej socialistickej republiky č. 39/1986 Sb., o medaile Za hrdinský čin a o čestnom titule Zaslúžilý príslušník Zboru požiarnej ochrany
+
+39
+
+NARIADENIE VLÁDY
+
+Slovenskej socialistickej republiky
+
+zo 16. mája 1986
+
+o medaile Za hrdinský čin a o čestnom titule Zaslúžilý príslušník Zboru požiarnej ochrany
+
+Vláda Slovenskej socialistickej republiky nariaďuje podľa § 9 ods. 4 zákona č. 62/1962 Zb. o udeľovaní vyznamenaní:
+
+## § 1
+
+Zriaďujú sa čestné uznania
+
+a) medaila Za hrdinský čin,
+
+b) čestný titul Zaslúžilý príslušník Zboru požiarnej ochrany.
+
+## § 2
+
+(1) Medailu Za hrdinský čin možno udeliť príslušníkom Zboru požiarnej ochrany, pracovníkom závodných požiarnych útvarov, členom dobrovoľných verejných požiarnych zborov, členom dobrovoľných závodných požiarnych zborov, členom požiarnych hliadok a občanom na ocenenie ich odvahy a obetavosti pri zdolávaní požiaru alebo pri záchranných prácach pri živelnej pohrome alebo inej mimoriadnej udalosti.<sup>1</sup>)
+
+(2) S medailou Za hrdinský čin sa odovzdáva listina o jej udelení.
+
+## § 3
+
+(1) Čestný titul Zaslúžilý príslušník Zboru požiarnej ochrany možno udeliť príslušníkom Zboru požiarnej ochrany na ocenenie
+
+a) mimoriadnych pracovných výsledkov pri ochrane života a zdravia občanov a majetku pred požiarmi, živelnými pohromami a inými mimoriadnymi udalosťami,<sup>1</sup>)
+
+b) osobitných zásluh o rozvoj požiarnej ochrany; pritom sa prihliada aj na spoločenskú angažovanosť príslušníka.
+
+(2) S udelením čestného titulu Zaslúžilý príslušník Zboru požiarnej ochrany sa odovzdáva listina o jeho udelení.
+
+(3) S čestným titulom Zaslúžilý príslušník Zboru požiarnej ochrany je spojené právo nosiť čestný odznak.
+
+## § 4
+
+(1) Medailu Za hrdinský čin a čestný titul Zaslúžilý príslušník Zboru požiarnej ochrany udeľuje minister vnútra Slovenskej socialistickej republiky.
+
+(2) Minister vnútra Slovenskej socialistickej republiky môže odňať medailu Za hrdinský čin alebo čestný titul Zaslúžilý príslušník Zboru požiarnej ochrany tomu, kto sa dopustil konania, ktorým sa stal nehodným tohto čestného uznania alebo ak vyjde najavo, že mu bolo čestné uznanie udelené nezaslúžene.
+
+(3) Ten, komu boli medaila Za hrdinský čin alebo čestný titul Zaslúžilý príslušník Zboru požiarnej ochrany odňaté, je povinný vrátiť listinu o ich udelení a medailu alebo čestný odznak orgánu, ktorý spravuje veci týchto čestných uznaní.
+
+## § 5
+
+(1) Minister vnútra Slovenskej socialistickej republiky vydá štatút medaily Za hrdinský čin a štatút čestného titulu Zaslúžilý príslušník Zboru požiarnej ochrany.
+
+(2) Veci medaily Za hrdinský čin a čestného titulu Zaslúžilý príslušník Zboru požiarnej ochrany spravuje Ministerstvo vnútra Slovenskej socialistickej republiky.
+
+## § 6
+
+Toto nariadenie nadobúda účinnosť 1. júlom 1986.
+
+Prof. JUDr. Colotka v. r.
+
+---
+
+<sup>1</sup>) § 92 zákona Slovenskej národnej rady č. 126/1985 Zb. o požiarnej ochrane.

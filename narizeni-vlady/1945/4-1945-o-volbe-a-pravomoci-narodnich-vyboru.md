@@ -1,0 +1,169 @@
+---
+title: "Nařízení vlády č. 4/1945 Sb., o volbě a pravomoci národních výborů"
+identifier: "4/1945 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1945/4/1949-04-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1945-05-05
+effective: 1945-05-09
+last_amended: 1949-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1945/4"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 4/1945 Sb., o volbě a pravomoci národních výborů ve znění nařízení vlády č. 44/1945 Sb. a zákona č. 76/1949 Sb."
+---
+
+# Nařízení vlády č. 4/1945 Sb., o volbě a pravomoci národních výborů
+
+4.
+
+Vládní nařízení
+
+ze dne 5. května 1945
+
+o volbě a pravomoci národních výborů.
+
+Podle ústavního dekretu presidenta republiky ze dne 4. prosince 1944 číslo 18 Úředního věstníku československého o národních výborech a prozatímním Národním shromáždění vydává vláda republiky Československé za podpisu presidenta republiky toto nařízení:
+
+## § 1.
+
+(1) Na osvobozeném území Československé republiky buďtež vytvořeny a pokud možno v nejkratší době po vytvoření volbami podle zásad československých volebních řádů a podle zvláštního vládního nařízení obnoveny místní, okresní a zemské národní výbory jakožto orgány zastupitelské a orgány veřejné správy ve všech jejích oborech.
+
+(2) Dokud nebudou vydány podrobnější předpisy o organisaci národních výborů a jejich jednací řády, určí zatímně vnitřní organisaci národních výborů, způsob, jakým vykonávají svou působnost, a způsob jednání jejich složek ministr vnitra.
+
+(3) Jakožto orgány státní správy jsou národní výbory podřízeny vládě.
+
+(4) Národní výbory podléhají kontrole lidu. Lid může jejich členy odvolati a nahraditi jinými. Způsob odvolávání a nahrazování bude určen volebním řádem; dokud se tak nestane, pečují o řádné ustavení, odvolávání nebo doplňování národních výborů nadřízené orgány.
+
+## § 2.
+
+(1) V každé obci se ustaví místní národní výbor.
+
+(2) Místní národní výbor spravuje v obvodu své působnosti všechny veřejné záležitosti, pokud nejsou spravovány jiným veřejným orgánem.
+
+(3) Místní národní výbor vykonává, vedle jiných úkolů zvláštními předpisy jemu uložených, přímo nebo svým úřadem pravomoc, kterou podle dosavadních předpisů vykonávalo obecní (městské) zastupitelstvo, obecní (městská) rada a starosta obce (města). Ve městech, která podle svých zřízení vykonávala dosud též působnost okresních úřadů, vykonává místní národní výbor též působnost okresního národního výboru.
+
+(4) Dnem ustavení místního národního výboru zaniká obecní (městské) zastupitelstvo.
+
+(5) Obecní (městský) úřad stává se po zániku obecního (městského) zastupitelstva úřadem místního národního výboru a provádí jeho rozhodnutí a opatření.
+
+(6) Místní národní výbor ihned propustí zaměstnance všech kategorií, kteří se provinili proti národním a státním zájmům.
+
+(7) Místní národní výbor je podřízen okresnímu národnímu výboru, ve městech se zvláštním statutem zemskému národnímu výboru.
+
+(8) Počet členů místního národního výboru je stejný jako počet členů obecního (městského) zastupitelstva.
+
+(9) Plenární schůze místního národního výboru jsou veřejné.
+
+## § 3.
+
+(1) V sídle každého okresního úřadu ustaví se okresní národní výbor.
+
+(2) Okresní národní výbor spravuje v obvodu své působnosti všechny veřejné záležitosti, pokud nejsou spravovány jiným veřejným orgánem.
+
+(3) Okresní národní výbor vykonává, vedle jiných úkolů zvláštními předpisy jemu uložených, přímo nebo svým úřadem pravomoc, kterou podle dosavadních předpisů vykonávalo okresní zastupitelstvo, okresní úřad a okresní hejtman (náčelník).
+
+(4) Dnem ustavení okresního národního výboru zaniká okresní zastupitelstvo.
+
+(5) Okresní úřad stává se po zániku okresního zastupitelstva úřadem okresního národního výboru a provádí jeho rozhodnutí a opatření.
+
+(6) Okresní národní výbor ihned propustí zaměstnance všech kategorií, kteří se provinili proti národním nebo státním zájmům.
+
+(7) Okresní národní výbor jest podřízen zemskému národnímu výboru, ve věcech politické správy také ministru vnitra nebo jinému věcně příslušnému ministru.
+
+(8) Počet členů okresního národního výboru je stejný jako počet členů okresního zastupitelstva.
+
+(9) Plenární schůze okresního národního výboru jsou veřejné.
+
+## § 4.
+
+(1) V sídle každého zemského zastupitelstva ustaví se zemský národní výbor.
+
+(2) Zemský národní výbor spravuje v obvodu své působnosti všechny veřejné záležitosti, pokud nejsou spravovány jiným veřejným orgánem.
+
+(3) Zemský národní výbor vykonává, vedle jiných úkolů zvláštními předpisy jemu uložených, přímo nebo svým úřadem pravomoc, kterou podle dosavadních předpisů vykonávalo zemské zastupitelstvo, zemský úřad a zemský president.
+
+(4) Dnem ustavení zemského národního výboru zaniká zemské zastupitelstvo.
+
+(5) Zemský úřad stává se po zániku zemského zastupitelstva úřadem zemského národního výboru a provádí jeho rozhodnutí a opatření.
+
+(6) Zemský národní výbor ihned propustí zaměstnance všech kategorií, kteří se provinili proti národním nebo státním zájmům.
+
+(7) Zemské národní výbory jsou ve věcech politické správy podřízeny ministru vnitra, a pokud tyto věci spadají do působnosti jiných ministerstev, příslušným ministrům. O odvolání z rozhodnutí a opatření zemských národních výborů rozhoduje, pokud je odvolání přípustné, věcně příslušné ministerstvo.
+
+(8) Počet členů zemského národního výboru je stejný jako počet členů zemského zastupitelstva.
+
+(9) Plenární schůze zemského národního výboru jsou veřejné.
+
+## § 5.
+
+Ministr vnitra nebo jiný příslušný ministr mohou v mezích své působnosti učiniti rozhodnutí a opatření ve věcech spadajících do působnosti národních výborů také přímo, uzná-li vláda anebo v nebezpečí z prodlení předsednictvo vlády,
+
+a) že toho vyžaduje řádný chod veřejné správy, anebo
+
+b) že rozhodnutí nebo opatření národního výboru odporuje demokratickým řádům republiky nebo veřejnému zájmu.
+
+## § 6.
+
+(1) Pro dočasnou správu obcí nebo okresů, kde pro převážnou většinu obyvatelstva státně nespolehlivého nemůže býti ustaven národní výbor, budou jmenovány správní komise, které mají přibrati k spolupráci zástupce státně spolehlivého obyvatelstva.
+
+(2) Pro okresy jmenuje správní komise ministerstvo vnitra, pro obce okresní národní výbor, a není-li ho, okresní správní komise.
+
+(3) Pravomoc správních komisí je stejná jako pravomoc národních výborů místních, pokud se týče okresních.
+
+## § 7.
+
+Toto nařízení nabývá účinnosti dnem vyhlášení a provedou je všichni členové vlády.
+
+Dr. Eduard Beneš v. r.
+
+Zd. Fierlinger v. r.
+
+Gottwald v. r.
+
+Šrámek v. r.
+
+David v. r.
+
+Ján Ursíny v. r.
+
+Široký v. r.
+
+Václ. Nosek v. r.
+
+Dr. V. Šrobár v. r.
+
+Pietor v. r.
+
+J. Ďuriš v. r.
+
+Dr. Šoltész v. r.
+
+A. Procházka v. r.
+
+Svoboda v. r.
+
+Nejedlý v. r.
+
+V. Kopecký v. r.
+
+gen. Hasal v. r.
+
+Frant. Hála v. r.
+
+J. Stránský v. r.
+
+V. Majer v. r.
+
+B. Laušman v. r.
+
+Dr. V. Clementis v. r.,
+
+též za min. J. Masaryka.
+
+gen. Dr. Ferjenčík v. r.
+
+J. Lichner v. r.,
+
+též za min. Dr. H. Ripku.

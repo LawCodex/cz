@@ -1,0 +1,70 @@
+---
+title: "Zákon č. 50/1919 Sb., kterým se zřizuje druhá česká universita"
+identifier: "50/1919 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1919/50/1919-02-05"
+type: act
+jurisdiction: cz
+language: cs
+date: 1919-01-28
+effective: 1919-02-05
+last_amended: 1919-02-05
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1919/50"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 50/1919 Sb., kterým se zřizuje druhá česká universita
+
+Čís. 50.
+
+Zákon ze dne 28. ledna 1919,
+
+kterým se zřizuje druhá česká universita.
+
+Na základě usnesení Národního shromáždění se nařizuje:
+
+## § 1.
+
+V Brně se zřizuje československá státní „Masarykova universita“ o čtyřech fakultách: právnické, lékařské, přírodovědecké a filosofické.
+
+## § 2.
+
+Fakulta právnická prvním ročníkem, fakulta lékařská prvním a druhým ročníkem budiž zřízena počátkem studijního roku 1919/20, fakulta přírodovědecká a filosofická nejpozději počátkem studijního roku 1921/22.
+
+## § 3.
+
+Konečné umístění a výprava nové university, její všech ústavů a klinik ve vhodných budovách k účelu tomu vybudovaných staniž se nejdéle do roku 1930.
+
+## § 4.
+
+Ministerstvo školství a národní osvěty se zplnomocňuje, aby vyslechnuvši poradní sbor pro vysoké školy při něm zřízený, vydalo pro dobu počátečnou potřebná nařízení.
+
+## § 5.
+
+Provedení tohoto zákona ukládá se vládě.
+
+## § 6.
+
+Zákon tento nabývá platnosti dnem, kdy bude vyhlášen.
+
+T. G. Masaryk v. r.
+
+Švehla v. r., v zast. min. předsedy.
+
+Dr. Stránský v. r.
+
+Stříbrný v. r.
+
+Dr. Vrbenský v. r.
+
+Dr. Winter v. r.
+
+Dr. Rašín v. r.
+
+Habermann v. r.
+
+Staněk v. r.
+
+Dr. Zahradník v. r.
+
+Dr. Hruban v. r.

@@ -1,0 +1,58 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 98/1983 Sb., o vydání pamětních stříbrných stokorun a pamětních stříbrných pětisetkorun k 100. výročí otevření Národního divadla"
+identifier: "98/1983 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1983/98/1983-10-03"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1983-08-17
+effective: 1983-10-03
+last_amended: 1983-10-03
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1983/98"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 98/1983 Sb., o vydání pamětních stříbrných stokorun a pamětních stříbrných pětisetkorun k 100. výročí otevření Národního divadla
+
+98
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 17. srpna 1983
+
+o vydání pamětních stříbrných stokorun a pamětních stříbrných pětisetkorun k 100. výročí otevření Národního divadla
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) K 100. výročí otevření Národního divadla se vydávají pamětní stříbrné stokoruny (dále jen „stokoruny“) a pamětní stříbrné pětisetkoruny (dále jen „pětisetkoruny“).
+
+(2) Stokoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku, pětisetkoruny ze slitiny o 900 dílech stříbra a 100 dílech mědi. Hmotnost stokoruny je 9 g, pětisetkoruny 24 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 29 mm, pětisetkoruny 40 mm. Hrana stokoruny je vroubkovaná, na hraně pětisetkoruny je plastický třikrát se opakující nápis „NÁROD SOBĚ“ a tři dvojice lipových lístků.
+
+(3) Na líci stokoruny je uprostřed státní znak Československé socialistické republiky a pod ním ve vnitřním opise označení „100 Kčs“, ve vnějším opise zleva v neuzavřeném kruhu je název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“.
+
+(4) Na líci pětisetkoruny je uprostřed státní znak Československé socialistické republiky a pod ním označení hodnoty „500 Kčs“. Název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“ je v neuzavřeném opise zleva, uprostřed dole je znak Národního divadla.
+
+(5) Na rubu stokoruny je historická budova Národního divadla. V opise nad ní je název „NÁRODNÍ DIVADLO“, pod ní letopočty „1883-1983“. Autorem stokoruny je akademický sochař Vladimír Oppl, jehož iniciály „OV“ jsou při levém dolním kraji budovy.
+
+(6) Na rubu pětisetkoruny je vlevo žena s lyrou podle sochy J. V. Myslbeka „Hudba“, vpravo za ní historická budova Národního divadla. V opise při okraji mince vlevo a nahoře je název „NÁRODNÍ DIVADLO“. Pod budovou jsou ve dvou řádcích nad sebou letopočty „1883“ „1983“. Autorem návrhu pětisetkoruny je zasloužilý umělec Zdeněk Kolářský, jehož jméno „KOLÁŘSKÝ“ je při okraji mince dole.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem 3. října 1983.
+
+Ministr:
+
+Ing. Lér CSc. v. r.
+
+### ![sbcr1983c021z0098_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780427/NAHLED/ZOBRAZ/sbcr1983c021z0098_o_1)
+
+## ![sbcr1983c021z0098_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/782249/NAHLED/ZOBRAZ/sbcr1983c021z0098_o_2)
+
+## ![sbcr1983c021z0098_o_3.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/782251/NAHLED/ZOBRAZ/sbcr1983c021z0098_o_3)
+
+## ![sbcr1983c021z0098_o_4.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/782253/NAHLED/ZOBRAZ/sbcr1983c021z0098_o_4)

@@ -1,0 +1,70 @@
+---
+title: "Nařízení vlády č. 317/1924 Sb., kterým se obec Dolní Věžnice vylučuje ze zastupitelského a soudního okresu štockého, připojuje k zastupitelskému a soudnímu okresu polenskému a slučuje s obcí Horní Věžnicí v jednu místní obec pod názvem „Věžnice“."
+identifier: "317/1924 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1924/317/1925-03-31"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1924-12-23
+effective: 1925-03-31
+last_amended: 1925-03-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1924/317"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 317/1924 Sb., kterým se obec Dolní Věžnice vylučuje ze zastupitelského a soudního okresu štockého, připojuje k zastupitelskému a soudnímu okresu polenskému a slučuje s obcí Horní Věžnicí v jednu místní obec pod názvem „Věžnice“.
+
+317.
+
+Vládní nařízení
+
+ze dne 23. prosince 1924,
+
+kterým se obec Dolní Věžnice vylučuje ze zastupitelského a soudního okresu štockého, připojuje k zastupitelskému a soudnímu okresu polenskému a slučuje s obcí Horní Věžnicí v jednu místní obec pod názvem „Věžnice“.
+
+Vláda republiky Československé nařizuje podle § 1 zákona ze dne 18. března 1921, č. 117 Sb. z. a n., ve znění zákonů ze dne 21. prosince 1922, č. 406 Sb. z. a n., a ze dne 21. prosince 1923, č. 257 Sb. z. a n., o zmocnění vlády k dalšímu slučování a rozlučování obcí, k změnám hranic obcí, okresů, žup a zemí, jakož i k potřebným opatřením s tím souvisejícím:
+
+## § 1.
+
+Místní obec Dolní Věžnice vylučuje se v mezích svého katastru ze zastupitelského a soudního okresu štockého, připojuje se k zastupitelskému a soudnímu okresu polenskému a slučuje se s obcí Horní Věžnicí v jednu místní obec pod názvem „Věžnice“.
+
+## § 2.
+
+Majetkové vyrovnání mezi zastupitelskými okresy štockým a polenským, pokud jest podmíněno změnou hranic těchto okresů, upraví se vzájemnou dohodou obou zastupitelských okresů. Nedojde-li k dohodě, rozhodne o majetkovém vyrovnání vláda, slyševši zemský správní výbor, při čemž vezme za základ stav jmění a dluhů obou zastupitelských okresů ze dne 31. prosince 1924.
+
+## § 3.
+
+Obec Věžnice jest povinna nahraditi státní správě veškeré výlohy, jež jí vzejdou provedením výše uvedené změny hranic v knihách pozemkových, mapách a operátech katastrálních.
+
+## § 4.
+
+Nařízení toto nabývá účinnosti 3 měsíce po vyhlášení a provedou je ministři vnitra, financí a spravedlnosti.
+
+Švehla v. r.
+
+Dr. Beneš v. r.
+
+Bečka v. r.
+
+Novák v. r.
+
+Srba v. r.
+
+Udržal v. r.
+
+Šrámek v. r.
+
+Malypetr v. r.
+
+Dr. Dolanský v. r.
+
+Stříbrný v. r.
+
+Dr. Hodža v. r.
+
+Habrman v. r.
+
+Dr. Franke v. r.
+
+Dr. Markovič v. r.

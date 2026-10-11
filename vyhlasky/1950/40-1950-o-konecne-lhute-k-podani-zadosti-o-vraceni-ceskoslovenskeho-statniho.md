@@ -1,0 +1,42 @@
+---
+title: "Vyhláška č. 40/1950 Sb., o konečné lhůtě k podání žádostí o vrácení československého státního občanství"
+identifier: "40/1950 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1950/40/1950-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1950-04-05
+effective: 1950-05-01
+last_amended: 1950-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1950/40"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 40/1950 Sb., o konečné lhůtě k podání žádostí o vrácení československého státního občanství
+
+40.
+
+Vyhláška ministra vnitra
+
+ze dne 5. dubna 1950
+
+o konečné lhůtě k podání žádostí o vrácení československého státního občanství.
+
+Ministr vnitra stanoví podle § 3 dekretu č. 33/1945 Sb., o úpravě československého státního občanství osob národnosti německé a maďarské:
+
+## § 1.
+
+(1) Osoby německé národnosti, které pozbyly podle § 1 dekretu č. 33/1945 Sb. československého státního občanství a bydlí trvale na území Československé republiky, mohou v konečné lhůtě od 1. května 1950 do 31. října 1950 žádat u okresního národního výboru svého bydliště o jeho vrácení.
+
+(2) Žádost mohou podat také osoby, jejichž žádosti byly podle § 1 odst. 3 nebo 4, § 2, § 3 nebo § 4 citovaného dekretu zamítnuty nebo odmítnuty, po případě jejichž žádosti nebyly dosud z jakéhokoliv důvodu vyřízeny.
+
+## § 2.
+
+O žádostech o vrácení československého státního občanství, podaných v době od 1. prosince 1949 do 30. dubna 1950, se má za to, že byly podány ve lhůtě stanovené v § 1.
+
+## § 3.
+
+Tato vyhláška nabývá účinnosti dnem 1. května 1950.
+
+Nosek v. r.

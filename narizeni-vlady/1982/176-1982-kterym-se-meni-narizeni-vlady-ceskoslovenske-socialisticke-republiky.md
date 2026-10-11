@@ -1,0 +1,40 @@
+---
+title: "Nařízení vlády Československé socialistické republiky č. 176/1982 Sb., kterým se mění nařízení vlády Československé socialistické republiky č. 40/1982 Sb., o dodatkovém odvodu a postihu za překročení závazných limitů odběru některých druhů ropných výrobků"
+identifier: "176/1982 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1982/176/1983-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1982-12-22
+effective: 1983-01-01
+last_amended: 1983-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1982/176"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády Československé socialistické republiky č. 176/1982 Sb., kterým se mění nařízení vlády Československé socialistické republiky č. 40/1982 Sb., o dodatkovém odvodu a postihu za překročení závazných limitů odběru některých druhů ropných výrobků
+
+176
+
+NAŘÍZENÍ VLÁDY
+
+Československé socialistické republiky
+
+ze dne 22. prosince 1982,
+
+kterým se mění nařízení vlády Československé socialistické republiky č. 40/1982 Sb., o dodatkovém odvodu a postihu za překročení závazných limitů odběru některých druhů ropných výrobků
+
+Vláda Československé socialistické republiky nařizuje podle § 9 odst. 1 písm. e) zákona č. 161/1982 Sb., o odvodech do státního rozpočtu, a k provedení zákona č. 134/1970 Sb., o pravidlech státního rozpočtu československé federace a o zásadách hospodaření s rozpočtovými prostředky státních rozpočtů federace a republik (rozpočtová pravidla):
+
+## Čl. I
+
+Nařízení vlády Československé socialistické republiky č. 40/1982 Sb., o dodatkovém odvodu a postihu za překročení závazných limitů odběru některých druhů ropných výrobků, se mění takto:
+
+V § 8 se vypouští odstavec 2 a označení odstavce 1.
+
+## Čl. II
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1983.
+
+Dr. Štrougal v. r.

@@ -1,0 +1,62 @@
+---
+title: "Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 83/1982 Sb., ktorou sa mení vyhláška č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike"
+identifier: "83/1982 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1982/83/1982-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1982-06-29
+effective: 1982-09-01
+last_amended: 1982-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1982/83"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 83/1982 Sb., ktorou sa mení vyhláška č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike
+
+83
+
+VYHLÁŠKA
+
+Slovenského úradu bezpečnosti práce a Slovenského banského úradu
+
+z 29. júna 1982,
+
+ktorou sa mení vyhláška č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike
+
+Slovenský úrad bezpečnosti práce podľa § 5 ods. 1 písm. d) zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce a Slovenský banský úrad podľa § 57 ods. 1 písm. d) zákona č. 41/1957 Zb. o využití nerastného bohatstva (banský zákon) a podľa § 10 písm. a) a c) zákona Slovenskej národnej rady č. 42/1972 Zb. o organizácii a o rozšírení dozoru štátnej banskej správy po dohode s príslušnými ústrednými orgánmi ustanovujú:
+
+## Čl. I
+
+Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 51/1978 Zb. o odbornej spôsobilosti v elektrotechnike sa mení takto:
+
+§ 17 znie:
+
+> „(1) Osvedčenia na vykonávanie revízií elektrických zariadení vydané pred 1. januárom 1979 platia do 30. júna 1983.
+
+> (2) Organizácie podajú žiadosť o vydanie nového osvedčenia pre svojich pracovníkov na príslušnom orgáne dozoru najneskôr do 31. decembra 1982.
+
+> (3) Pracovníka prihlasuje na skúšku organizácia (§ 9), s ktorou je v pracovnom pomere.
+
+> (4) Osvedčenia vydané orgánmi štátnej banskej správy ostávajú v platnosti, ak sa oprávnení pracovníci podrobili preskúšaniu podľa osobitného predpisu.<sup>1</sup>)“.
+
+## Čl. II
+
+Táto vyhláška nadobúda účinnosť 1. septembrom 1982.
+
+Predseda
+
+Slovenského banského úradu:
+
+Ing. Baran CSc. v.r.
+
+Riaditeľ
+
+Slovenského úradu bezpečnosti práce:
+
+Ing. Macháč v.r.
+
+---
+
+<sup>1</sup>) Úprava Slovenského banského úradu č. 3800/1973 z 19. 7. 1974, ktorou sa ustanovujú podmienky pre vykonávanie revízií elektrických zariadení a pre priznávanie odbornej spôsobilosti revíznych technikov elektrických zariadení (reg. v čiastke 7/1975 Zbierky zákonov).

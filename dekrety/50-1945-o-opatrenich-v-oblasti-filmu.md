@@ -1,0 +1,59 @@
+---
+title: "Dekret č. 50/1945 Sb., o opatřeních v oblasti filmu"
+identifier: "50/1945 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1945/50/1993-11-11"
+type: decree_of_the_president
+jurisdiction: cz
+language: cs
+date: 1945-08-11
+effective: 1945-08-28
+last_amended: 1993-11-11
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1945/50"
+retrieved: 2026-10-11
+citation_with_amendments: "Dekret č. 50/1945 Sb., o opatřeních v oblasti filmu ve znění zákona č. 273/1993 Sb."
+---
+
+# Dekret č. 50/1945 Sb., o opatřeních v oblasti filmu
+
+50.
+
+Dekret presidenta republiky
+
+ze dne 11. srpna 1945
+
+o opatřeních v oblasti filmu.
+
+Aby byly odborně zajištěny a zachovány všechny prostředky a zařízení pro výrobu, rozšiřování a veřejné promítání světelných kinematografických filmů a aby jich mohlo býti plně využito k prospěchu lidu a státu,
+
+aby v oboru výroby, rozšiřování a veřejného promítání takových filmů byla řádně zabezpečena, udržena a dále rovnoměrně a plánovitě rozvíjena zaměstnanost,
+
+aby tato kulturní a hospodářská práce byla trvale zbavena všech rušivých cizích a všech škodlivých neodborných a z hlediska zájmu lidu a státu nespolehlivých vlivů a činitelů,
+
+a aby byly umožněny řádné přípravy a včasné provedení trvalé úpravy v oboru výroby, rozšiřování a veřejného promítání osvětlených kinematografických filmů podle potřeb a zájmů lidu a státu,
+
+k návrhu vlády a po dohodě se Slovenskou národní radou ustanovuji:
+
+## § 2.
+
+(1) Dosavadní provozovatelé podniků, uvedení v § 1, odst. 1 a 2 jsou povinni odevzdati ministerstvu informací všechny předměty provozu, provozní prostředky, zásoby surovin a jiného materiálu, jakož i všechna provozní zařízení podniků, včetně provozoven, které mají ve vlastnictví, v nájmu nebo v užívání kdekoli v zemi České a Moravskoslezské nebo v celní cizině, kteréžto ministerstvo vstupuje tím do práv a závazků dosavadních provozovatelů (§ 2, odst. 3).
+
+(2) Veškerý majetek podniků uvedených v § 1, odst. 1 a 2 přechází dnem odevzdání do vlastnictví státu, který jej může přenésti v celku nebo v částech na právní subjekty jím zřízené.
+
+(3) Za majetek převzatý podle odst. 1 bude poskytnuta náhrada podle směrnic, které vydá ministr informací v dohodě s ministry financí, průmyslu, vnitřního obchodu a nejvyšším úřadem cenovým. Spolkům a veřejnoprávním korporacím bude poskytnuta náhrada ve výši obecné ceny. Československý stát ručí za závazky podniků, převzatých podle tohoto dekretu až do výše hodnoty převzatého jmění.
+
+(4) Náhrada se neposkytuje za majetek osob, které jest považovati za státně nespolehlivé podle ustanovení dekretu presidenta republiky ze dne 19. května 1945, č. 5 Sb., o neplatnosti některých majetkově-právních jednání z doby nesvobody a o národní správě majetkových hodnot Němců, Maďarů, zrádců a kolaborantů a některých organisací a ústavů, nebo osob odsouzených podle ustanovení dekretu presidenta republiky ze dne 19. června 1945, č. 16 Sb., o potrestání nacistických zločinců, zrádců a jejich pomahačů a o mimořádných lidových soudech, pokud v rozsudku bylo vysloveno propadnutí jmění. V pochybnostech rozhodne ministerstvo informací v dohodě s ministerstvem vnitra.
+
+## § 3.
+
+(1) Výtěžků, získaných z podnikání podle tohoto dekretu, použije ministr informací především k provozu, k výstavbě a k dalšímu rozvoji československého filmovnictví ve všech jeho odvětvích. Ve věcech hospodářských a finančních zásadního významu rozhoduje ministr informací v dohodě s ministrem financí.
+
+## § 5.
+
+Tento dekret nabývá účinnosti dnem vyhlášení; provede jej ministr informací v dohodě se zúčastněnými ministry.
+
+Dr. Beneš v. r.
+
+Fierlinger v. r.
+
+Kopecký v. r.

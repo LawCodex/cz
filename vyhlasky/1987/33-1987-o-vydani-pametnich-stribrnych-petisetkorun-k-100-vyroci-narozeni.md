@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 33/1987 Sb., o vydání pamětních stříbrných pětisetkorun k 100. výročí narození Josefa Lady"
+identifier: "33/1987 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1987/33/1987-05-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1987-04-22
+effective: 1987-05-15
+last_amended: 1987-05-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1987/33"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 33/1987 Sb., o vydání pamětních stříbrných pětisetkorun k 100. výročí narození Josefa Lady
+
+33
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 22. dubna 1987
+
+o vydání pamětních stříbrných pětisetkorun k 100. výročí narození Josefa Lady
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) U příležitosti 100. výročí narození národního umělce Josefa Lady se vydávají pamětní stříbrné pětisetkoruny (dále jen „pětisetkoruny“).
+
+(2) Pětisetkoruny se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost pětisetkoruny je 24 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr pětisetkoruny je 40 mm. Na její hraně je text „ČESKÝ MALÍŘ NÁRODNÍ UMĚLEC“.
+
+## § 2
+
+(1) Na líci pětisetkoruny je uprostřed nahoře státní znak Československé socialistické republiky a pod ním ve třech řádcích název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“. V řádku uprostřed, rozděleném státním znakem, je označení hodnoty „500 Kčs“.
+
+(2) Na rubu pětisetkoruny je v popředí dole zobrazena podle Ladových kreseb skupina dětí se sněhulákem. Za nimi jsou Hrusice, rodná obec Josefa Lady, z konce devatenáctého století, rovněž podle jeho malby. V dolní části jsou v rozděleném řádku letopočty „1887“ a „1987“ a pod nimi uprostřed dole nápis „JOSEF LADA“.
+
+(3) Autorem návrhu pětisetkoruny je Jaroslav Bejvl. Jeho jméno „J. BEJVL“ je umístěno v plastice vyobrazení obce Hrusice vpravo dole.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 15. května 1987.
+
+Ministr:
+
+Ing. Žák v. r.
+
+### ![sbcr1987c008z0033_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792381/NAHLED/ZOBRAZ/sbcr1987c008z0033_o_1)
+
+### ![sbcr1987c008z0033_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792383/NAHLED/ZOBRAZ/sbcr1987c008z0033_o_2)

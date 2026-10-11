@@ -1,0 +1,62 @@
+---
+title: "Vyhláška Ministerstva energetiky a vodního hospodářství č. 74/1960 Sb., kterou se mění a doplňuje vyhláška ministra lesů a dřevařského průmyslu č. 58/1954 Ú. l., o úplatách za dodávku vody z veřejných vodovodů a vodáren a za odvádění odpadních vod veřejnými kanalizacemi"
+identifier: "74/1960 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1960/74/1962-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1960-05-30
+effective: 1962-01-01
+last_amended: 1962-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1960/74"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva energetiky a vodního hospodářství č. 74/1960 Sb., kterou se mění a doplňuje vyhláška ministra lesů a dřevařského průmyslu č. 58/1954 Ú. l., o úplatách za dodávku vody z veřejných vodovodů a vodáren a za odvádění odpadních vod veřejnými kanalizacemi
+
+74
+
+VYHLÁŠKA
+
+ministerstva energetiky a vodního hospodářství
+
+ze dne 30. května 1960,
+
+kterou se mění a doplňuje vyhláška ministra lesů a dřevařského průmyslu č. 58/1954 Ú. l., o úplatách za dodávku vody z veřejných vodovodů a vodáren a za odvádění odpadních vod veřejnými kanalizacemi
+
+Ministerstvo energetiky a vodního hospodářství vyhlašuje podle § 10 odst. 2 vládního nařízení č. 60/1959 Sb., o působnosti v oboru plánování, tvorby a kontroly cen:
+
+## Čl. I
+
+Vyhláška ministra lesů a dřevařského průmyslu č. 58/1954 Ú. l., o úplatách za dodávku vody z veřejných vodovodů a vodáren a za odvádění odpadních vod veřejnými kanalizacemi se mění a doplňuje takto:
+
+K § 4 se připojují odstavce 3, 4, 5 a 6 tohoto znění:
+
+> „(3) Výše vodného se stanoví částkou Kčs 1,- za 1 m<sup>3</sup> prokázaného nebo předpokládaného množství dodané vody, jsou-li odběrateli organizace socialistického sektoru.
+
+> (4) Výše stočného se stanoví částkou Kčs 0,90 za 1 m<sup>3</sup> prokázaného nebo předpokládaného množství vody vypuštěného do kanalizace, jsou-li uživateli organizace socialistického sektoru.
+
+> (5) Povinnost platit zvýšené vodné a stočné podle odstavců 3 a 4 se nevztahuje na
+
+> a) jednotná zemědělská družstva,
+
+> b) výrobní organizace ministerstva zemědělství,
+
+> c) zdravotnická zařízení včetně lázeňských ústavů,
+
+> d) veřejné očistné lázně,
+
+> e) veřejné školy,
+
+> f) organizace bytového hospodářství.
+
+> (6) Výjimky z ustanovení odstavců 3 a 4 může v odůvodněných případech povolit ministerstvo energetiky a vodního hospodářství.“
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti ode dne 1. ledna 1962.
+
+První náměstek ministra:
+
+inž. Baier v. r.

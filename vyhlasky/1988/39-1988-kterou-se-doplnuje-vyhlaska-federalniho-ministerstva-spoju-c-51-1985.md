@@ -1,0 +1,46 @@
+---
+title: "Vyhláška Federálního ministerstva spojů č. 39/1988 Sb., kterou se doplňuje vyhláška federálního ministerstva spojů č. 51/1985 Sb., kterou se vydává Rozhlasový a televizní řád, ve znění vyhlášky č. 76/1987 Sb."
+identifier: "39/1988 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1988/39/1988-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1988-04-06
+effective: 1988-05-01
+last_amended: 1988-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1988/39"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva spojů č. 39/1988 Sb., kterou se doplňuje vyhláška federálního ministerstva spojů č. 51/1985 Sb., kterou se vydává Rozhlasový a televizní řád, ve znění vyhlášky č. 76/1987 Sb.
+
+39
+
+VYHLÁŠKA
+
+federálního ministerstva spojů
+
+ze dne 6. dubna 1988,
+
+kterou se doplňuje vyhláška federálního ministerstva spojů č. 51/1985 Sb., kterou se vydává Rozhlasový a televizní řád, ve znění vyhlášky č. 76/1987 Sb.
+
+Federální ministerstvo spojů podle § 22 zákona č. 110/1964 Sb., o telekomunikacích stanoví:
+
+## Čl. I
+
+1\. § 6 odst. 2 vyhlášky federálního ministerstva spojů č. 51/1985 Sb., kterou se vydává Rozhlasový a televizní řád, ve znění vyhlášky č. 76/1987 Sb., se doplňuje písmeny e) a f), která zní:
+
+> „e) osamělým důchodcům, kteří pobírají důchod starobní, invalidní, za výsluhu let, osobní, sociální nebo vdovský a jsou držiteli osvědčení ministerstva národní obrany podle zákona č. 255/1946 Sb., o příslušnících československé armády v zahraničí a o některých jiných účastnících národního boje za osvobození, nebo držiteli potvrzení ministerstva národní obrany o účasti v I. nebo II. odboji (dále jen „účastníci odboje“), a vdovám po účastnících odboje, které byly za ně provdány již v době odboje manžela, pokud se znovu neprovdaly nebo nežijí ve společné domácnosti s druhem, jejichž důchod spolu s jiným čistým příjmem nepřesahuje 13 200 Kčs ročně,
+
+> f) manželům, z nichž alespoň jeden je důchodce - účastník odboje, jestliže úhrn jejich důchodů a jiných čistých příjmů nepřesahuje 21 600 Kčs ročně.“.
+
+2\. Nezbytnou součástí žádosti o osvobození od sazeb za používání přijímačů podle této vyhlášky je doporučení vydané okresním (obvodním, městským) výborem Českého svazu protifašistických bojovníků nebo Slovenského svazu protifašistických bojovníků.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. května 1988.
+
+Ministr:
+
+Ing. Jíra v. r.

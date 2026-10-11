@@ -1,0 +1,66 @@
+---
+title: "Vyhláška Federálního cenového úřadu č. 96/1976 Sb., kterou se mění a doplňuje vyhláška č. 60/1964 Sb., o úhradě za užívání bytu a za služby spojené s užíváním bytu"
+identifier: "96/1976 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1976/96/1977-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1976-06-18
+effective: 1977-01-01
+last_amended: 1977-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1976/96"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního cenového úřadu č. 96/1976 Sb., kterou se mění a doplňuje vyhláška č. 60/1964 Sb., o úhradě za užívání bytu a za služby spojené s užíváním bytu
+
+96
+
+VYHLÁŠKA
+
+Federálního cenového úřadu
+
+ze dne 18. června 1976,
+
+kterou se mění a doplňuje vyhláška č. 60/1964 Sb., o úhradě za užívání bytu a za služby spojené s užíváním bytu
+
+Federální cenový úřad stanoví podle § 47 písm. a) zákona č. 133/1970 Sb., o působnosti federálních ministerstev:
+
+## Čl. I
+
+Vyhláška č. 60/1964 Sb., o úhradě za užívání bytu a za služby spojené s užíváním bytu, se mění a doplňuje takto:
+
+1\. Nadpis pod označením § 8 se přesunuje nad toto označení.
+
+2\. V § 8 se vypouští označení odstavce 1.
+
+3\. V § 8 se vypouští odstavec 2, označuje se jako § 8b a vkládá se za § 8a.
+
+4\. Za § 8 se vkládá § 8a, který zní:
+
+> **„§ 8a**
+
+> (1) Sazby uvedené v § 8 platí pro zařízení a vybavení (dále jen „vybavení“) bytu užívaného ke dni 31. prosince 1976; pro vybavení bytu přiděleného<sup>1</sup>) po 1. lednu 1977 v domě, pro jehož užívání bylo vydáno kolaudační rozhodnutí<sup>2</sup>) (dále jen „kolaudovaném“) po tomto datu, platí jen pokud nejde o vybavení uvedené v odstavci 4.
+
+> (2) Roční sazby za vybavení bytu přiděleného po 1. lednu 1977 v domě kolaudovaném po tomto datu, uvedené v odstavci 4, se stanoví procentem z velkoobchodních (maloobchodních) cen tohoto vybavení platných v době přidělení bytu, popřípadě z velkoobchodní ceny výrobku a jeho zabudování.
+
+> (3) Ustanovení odstavce 2 platí také pro adaptace, rekonstrukce a modernizace ve stávajících domech, byl-li byt přidělen po 1. lednu 1977 a došlo-li ke kolaudaci po tomto datu.
+
+> (4) Roční sazby za dále uvedené vybavení bytu činí:
+
+> <table><tbody><tr><td>1. </td><td>za přestavitelné, shrnovací a montované skříňové příčky bytové z velkoobchodní ceny výrobku </td><td>9,6 % </td></tr><tr><td>2. </td><td>za doplňkové sanitární instalace druhý a další kloset samostatný sprchový kout, je-li nadto vybaven byt koupelnou druhé a další umyvadlo z velkoobchodní ceny výrobku a jeho zabudování </td><td>6,6 % </td></tr><tr><td rowspan="2">3. </td><td>za kuchyňský sporák plynový v maloobchodní ceně nad 2000 Kčs za kus </td><td>14,7 % </td></tr><tr><td>za kuchyňský sporák elektrický v maloobchodní ceně nad 2900 Kčs za kus </td><td>14,7 % </td></tr><tr><td rowspan="5">4. </td><td>za dveře vstupní ve velkoobchodní ceně nad 245 Kčs za kus </td><td>4,5 % </td></tr><tr><td>dvoukřídlové v šířce 125 cm ve velkoobchodní ceně nad 305 Kčs za kus </td><td>4,5 % </td></tr><tr><td>vnitřní v šířce 80 cm ve velkoobchodní ceně nad 185 Kčs za kus </td><td>4,5 % </td></tr><tr><td>vnitřní v šířce 70 cm ve velkoobchodní ceně nad 155 Kčs za kus </td><td>4,5 % </td></tr><tr><td>vnitřní v šířce 60 cm ve velkoobchodní ceně nad 145 Kčs za kus </td><td>4,5 % </td></tr><tr><td rowspan="4">5. </td><td>za okna a balkónové dveře </td><td></td></tr><tr><td>do 1,0 m<sup>2</sup> ve velkoobchodní ceně nad 415 Kčs za m<sup>2</sup></td><td>5,7 % </td></tr><tr><td>od 1,0 m<sup>2</sup> do 1,5 m<sup>2</sup> ve velkoobchodní ceně nad 400 Kčs za m<sup>2</sup></td><td>5,7 % </td></tr><tr><td>nad 1,5 m<sup>2</sup> ve velkoobchodní ceně nad 300 Kčs za m<sup>2</sup></td><td>5,7 % </td></tr><tr><td rowspan="3">6. </td><td>za vestavěnou nebo zabudovanou skříň </td><td></td></tr><tr><td>šatní ve velkoobchodní ceně nad 410 Kčs za m<sup>3</sup></td><td>8,6 % </td></tr><tr><td>úklidovou a spížní ve velkoobchodní ceně nad 650 Kčs za m<sup>3</sup></td><td>8,6 % </td></tr><tr><td rowspan="4">7. </td><td>za kuchyňskou sestavu </td><td></td></tr><tr><td>120 cm dlouhou ve velkoobchodní ceně nad 1850 Kčs za kus </td><td>8,6 % </td></tr><tr><td>150 cm dlouhou ve velkoobchodní ceně nad 2000 Kčs za kus </td><td>8,6 % </td></tr><tr><td>180 cm dlouhou ve velkoobchodní ceně nad 2150 Kčs za kus </td><td>8,6 %</td></tr></tbody></table>
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1977.
+
+Ministr:
+
+Doc. Sabolčík, CSc. v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 41/1964 Sb., o hospodaření s byty.
+
+<sup>2</sup>) Zákon č. 50/1976 Sb., o územním plánování a stavebním řádu.

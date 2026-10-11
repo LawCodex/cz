@@ -1,0 +1,36 @@
+---
+title: "Vyhláška č. 102/1948 Sb., o přenesení působnosti poplatkového úřadu Praha-obvod"
+identifier: "102/1948 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1948/102/1948-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1948-04-30
+effective: 1948-05-01
+last_amended: 1948-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1948/102"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 102/1948 Sb., o přenesení působnosti poplatkového úřadu Praha-obvod
+
+102.
+
+Vyhláška ministra financí
+
+ze dne 30. dubna 1948
+
+o přenesení působnosti poplatkového úřadu Praha-obvod.
+
+Podle § 15, odst. 1, písm. a) dekretu presidenta republiky ze dne 27. října 1945, č. 128 Sb., o zatímní územní organisaci některých finančních úřadů a změnách s tím spojených v zemích České a Moravskoslezské, ustanovuji:
+
+## § 1.
+
+Působnost poplatkového úřadu Praha-obvod se přenáší na poplatkový úřad Praha-střed, jehož název se mění na „poplatkový úřad v Praze“.
+
+## § 2.
+
+Tato vyhláška nabývá účinnosti dnem 1. května 1948.
+
+Dr. Dolanský v. r.

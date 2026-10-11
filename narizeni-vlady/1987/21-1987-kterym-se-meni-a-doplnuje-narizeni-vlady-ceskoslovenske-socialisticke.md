@@ -1,0 +1,57 @@
+---
+title: "Nařízení vlády Československé socialistické republiky č. 21/1987 Sb., kterým se mění a doplňuje nařízení vlády Československé socialistické republiky č. 157/1980 Sb., o udělování povolení k uzavírání, změně nebo zrušení některých smluv o výrobní specializaci nebo výrobní kooperaci se zahraničím"
+identifier: "21/1987 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1987/21/1987-05-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1987-01-29
+effective: 1987-05-01
+last_amended: 1987-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1987/21"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády Československé socialistické republiky č. 21/1987 Sb., kterým se mění a doplňuje nařízení vlády Československé socialistické republiky č. 157/1980 Sb., o udělování povolení k uzavírání, změně nebo zrušení některých smluv o výrobní specializaci nebo výrobní kooperaci se zahraničím
+
+21
+
+NAŘÍZENÍ VLÁDY
+
+Československé socialistické republiky
+
+ze dne 29. ledna 1987,
+
+kterým se mění a doplňuje nařízení vlády Československé socialistické republiky č. 157/1980 Sb., o udělování povolení k uzavírání, změně nebo zrušení některých smluv o výrobní specializaci nebo výrobní kooperaci se zahraničím
+
+Vláda Československé socialistické republiky nařizuje podle § 28 odst. 2 zákona č. 42/1980 Sb., o hospodářských stycích se zahraničím:
+
+## Čl. I
+
+Nařízení vlády Československé socialistické republiky č. 157/1980 Sb., o udělování povolení k uzavírání, změně nebo zrušení některých smluv o výrobní specializaci nebo výrobní kooperaci se zahraničím, se mění a doplňuje takto:
+
+Za § 5 se vkládá nový § 5a, který zní:
+
+> **„§ 5a**
+
+> (1) Povolení podle § 26 zákona se nevyžaduje též u smluv uzavíraných s organizacemi členských států Rady vzájemné hospodářské pomoci. Československé právnické osoby, které jsou organizovány ve výrobních hospodářských jednotkách, mohou smlouvy uzavřít, změnit nebo zrušit jen se souhlasem generálního ředitele příslušné výrobní hospodářské jednotky.<sup>1</sup>) Československé právnické osoby, které nejsou organizovány ve výrobních hospodářských jednotkách, mohou smlouvy uzavřít, změnit nebo zrušit jen se souhlasem nadřízeného orgánu.
+
+> (2) Československé právnické osoby, které nemají odpovídající povolení k zahraničně obchodní činností mohou smlouvu schválenou podle odstavce 1 uzavřít, změnit nebo zrušit jen se souhlasem generálního ředitele (ředitele) příslušného podniku zahraničního obchodu nebo právnické osoby mající odpovídající povolení k zahraničně obchodní činnosti; není-li tento souhlas udělen, může jej udělit ústřední orgán, který československou právnickou osobu řídí, v dohodě s federálním ministerstvem zahraničního obchodu.
+
+> (3) U československé právnické osoby řízené národním výborem se za řídící ústřední orgán podle odstavce 2 považuje ústřední orgán státní správy České socialistické republiky nebo Slovenské socialistické republiky, který by byl jinak příslušný udělit této právnické osobě povolení podle § 26 odst. 2 zákona.<sup>2</sup>)
+
+> (4) Ustanovení § 2 až 5 se u smluv uvedených v odst. 1 nepoužije.“.
+
+## Čl. II
+
+Toto nařízení nabývá účinnosti dnem 1. května 1987.
+
+Štrougal v. r.
+
+---
+
+<sup>1</sup>) § 5 odst. 1 nařízení vlády ČSSR č. 91/1974 Sb., o organizaci výrobních hospodářských jednotek a o jejich statutech.
+
+<sup>2</sup>) § 1 nařízení vlády ČSR č. 81/1980 Sb., o příslušnosti k udělování, změně a odnímání povolení k uzavření smlouvy o výrobní specializaci nebo výrobní kooperace se zahraničím československým právnickým osobám řízeným národními výbory. 
+ § 1 nařízení vlády SSR č. 150/1980 Sb., o příslušnosti k udělování, změně a odnímání povolení k uzavření, změně nebo zrušení smlouvy o výrobní specializaci nebo výrobní kooperaci se zahraničím československým právnickým osobám řízeným národními výbory.

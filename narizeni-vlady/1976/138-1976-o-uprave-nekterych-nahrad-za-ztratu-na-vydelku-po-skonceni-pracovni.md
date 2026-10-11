@@ -1,0 +1,68 @@
+---
+title: "Nařízení vlády Československé socialistické republiky č. 138/1976 Sb., o úpravě některých náhrad za ztrátu na výdělku po skončení pracovní neschopnosti vzniklé pracovním úrazem nebo nemocí z povolání"
+identifier: "138/1976 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1976/138/1977-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1976-11-18
+effective: 1977-01-01
+last_amended: 1977-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1976/138"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády Československé socialistické republiky č. 138/1976 Sb., o úpravě některých náhrad za ztrátu na výdělku po skončení pracovní neschopnosti vzniklé pracovním úrazem nebo nemocí z povolání
+
+138
+
+NAŘÍZENÍ VLÁDY
+
+Československé socialistické republiky
+
+ze dne 18. listopadu 1976,
+
+o úpravě některých náhrad za ztrátu na výdělku po skončení pracovní neschopnosti vzniklé pracovním úrazem nebo nemocí z povolání
+
+Vláda Československé socialistické republiky v dohodě s Ústřední radou odborů nařizuje podle § 202 odst. 2 zákoníku práce (úplné znění č. 55/1975 Sb.):
+
+## § 1
+
+(1) Náhrada za ztrátu na výdělku, příslušející podle zákoníku práce, popřípadě podle dřívějších předpisů<sup>1</sup>) pracovníkům po skončení pracovní neschopnosti vzniklé pracovním úrazem nebo nemocí z povolání, se vzhledem ke změnám, které nastaly ve vývoji mzdové úrovně, upravuje tak, že průměrný výdělek rozhodný pro výpočet této náhrady se zvyšuje o 2 % za každý kalendářní rok následující po vzniku nároku na tuto náhradu do 31. prosince 1971.
+
+(2) Náhrada za ztrátu na výdělku se na žádost pracovníka určí na základě průměrného měsíčního výdělku zvýšeného podle odstavce 1 i tehdy, jestliže pracovníku nebyla do 31. prosince 1971 poskytována, protože to neumožňovaly právní předpisy o částkách omezujících způsob výpočtu a poskytování těchto náhrad.<sup>2</sup>)
+
+## § 2
+
+(1) Pro náhradu za ztrátu na výdělku po skončení pracovní neschopnosti platí i po úpravě provedené podle § 1 ustanovení § 195 odst. 2 zákoníku práce.
+
+(2) Ke zvýšení invalidního, popřípadě částečného invalidního důchodu podle § 136 až 141, 144 a 145 zákona č. 121/1975 Sb., o sociálním zabezpečení, popřípadě k obdobnému zvýšení, provedenému podle dříve platných předpisů,<sup>3</sup>) se při výpočtu náhrady za ztrátu na výdělku po skončení pracovní neschopnosti nepřihlíží.
+
+## § 3
+
+Náhrada za ztrátu na výdělku upravená, popřípadě stanovená podle § 1 přísluší ode dne účinnosti tohoto nařízení.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1977.
+
+Štrougal v. r.
+
+---
+
+<sup>1</sup>) Jde zejména o tyto předpisy: 
+ § 193 a 195 zákoníku práce 
+ § 112 zákona č. 99/1948 Sb., o národním pojištění 
+ § 6 zákona č. 58/1956 Sb., o náhradě za pracovní úrazy a o náhradě nákladů léčebné péče a dávek nemocenského pojištění a důchodového zabezpečení 
+ § 7 a 31 zákona č. 150/1961 Sb., o náhradách při úrazech a nemocech z povolání 
+ § 8 zákona č. 30/1965 Sb., o odškodňování pracovních úrazů a nemocí z povolání.
+
+<sup>2</sup>) § 7 odst. 3, § 8, § 31 odst. 2 zákona č. 150/1961 Sb., 
+ § 8 vyhlášky č. 7/1962 Sb., kterou se provádějí některá ustanovení zákona o náhradách při úrazech a nemocech z povolání, 
+ § 8 odst. 2 zákona č. 30/1965 Sb., 
+ čl. II odst. 4 zákona č. 153/1969 Sb., kterým se mění a doplňuje zákoník práce, 
+ § 195 odst. 2 zákoníku práce.
+
+<sup>3</sup>) Zákon č. 106/1971 Sb., o zvýšení důchodů starodůchodců a některých nízkých důchodů v sociálním zabezpečení 
+ zákon č. 161/1968 Sb., o zvláštním přídavku k dávkám, o změnách v důchodovém zabezpečení účastníků odboje a o některých dalších změnách v sociálním zabezpečení.

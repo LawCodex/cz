@@ -1,0 +1,538 @@
+---
+title: "Vyhláška Ministerstva lesního a vodního hospodářství Slovenské socialistické republiky č. 154/1978 Sb., o veřejných vodovodech a veřejných kanalizacích"
+identifier: "154/1978 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1978/154/1979-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1978-12-27
+effective: 1979-04-01
+last_amended: 1979-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1978/154"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva lesního a vodního hospodářství Slovenské socialistické republiky č. 154/1978 Sb., o veřejných vodovodech a veřejných kanalizacích
+
+154
+
+VYHLÁŠKA
+
+ministerstva lesního a vodního hospodářství Slovenské socialistické republiky
+
+ze dne 27. prosince 1978
+
+o veřejných vodovodech a veřejných kanalizacích
+
+Ministerstvo lesního a vodního hospodářství Slovenské socialistické republiky, pokud jde o část šestou vyhlášky, v dohodě s Federálním cenovým úřadem, stanoví podle § 24 odst. 6 a § 30 odst. 4 zákona č. 138/1973 Sb., o vodách (vodní zákon):
+
+## Část první – **Všeobecná ustanovení**
+
+### § 1
+
+(1) Veřejný vodovod je soubor objektů a zařízení k hromadnému zásobování obyvatelstva vodou a ke krytí potřeby vody pro národní hospodářství.
+
+(2) K souboru objektů a zařízení veřejného vodovodu patří:
+
+a) veřejné vodovody řady I. až III. kategorie<sup>1</sup>) uložené v kolektorech nebo technických chodbách,<sup>2</sup>)
+
+b) veřejné části vodovodních přípojek,<sup>3</sup>)
+
+c) hydroforové stanice<sup>4</sup>) vybudované u vodního zdroje nebo u vodojemu jako samostatné objekty k zásobování obcí,
+
+d) veřejné výtokové stojany,
+
+e) hydranty.
+
+(3) Za veřejný vodovod nebo jeho součást se nepovažují:
+
+a) vodovody k samostatnému zásobování vodou jednotlivých závodů, objektů a zařízení a pro účely požární ochrany,
+
+b) hydroforové stanice zásobující jednotlivé vyšší budovy nebo skupiny takových budov, popřípadě průmyslové nebo zemědělské závody a hydroforové stanice, které jsou součástí víceúčelových zařízení (energobloky apod.).
+
+### § 2
+
+(1) Veřejná kanalizace je soubor objektů a zařízení k odvádění, popřípadě i zneškodňování odpadních a srážkových vod z obcí a sídlišť.
+
+(2) K souboru objektů a zařízení veřejné kanalizace patří:
+
+a) veřejné stoky I. až III. kategorie<sup>1</sup>) a objekty na nich uložené v kolektorech nebo technických chodbách,<sup>2</sup>)
+
+b) veřejné části kanalizačních přípojek,<sup>3</sup>)
+
+c) kanalizační přečerpávací stanice<sup>5</sup>) vybudované
+
+1\. na stokové síti,
+
+2\. na veřejné části kanalizační přípojky,
+
+d) ve zvláštních případech úchytné příkopy.
+
+(3) Za veřejnou kanalizaci nebo její součást se nepovažují:
+
+a) samostatné kanalizace k odvádění odpadních a srážkových vod z jednotlivých závodů, objektů a zařízení,
+
+b) kanalizační přečerpávací stanice umístěné na nemovitostech připojených na veřejnou kanalizaci, vybudované pro skupiny objektů, které pro odvádění odpadních vod vyžadují výstavbu vlastní stokové sítě, popřípadě vybudované pro jednotlivé nemovitosti.
+
+## Část druhá – **Správa veřejných vodovodů a veřejných kanalizací**
+
+### § 3
+
+Organizace, které spravují veřejné vodovody, veřejné kanalizace a jejich soustavy (dále jen „správce"), jsou povinny soustavně zabezpečovat potřebné kapacity veřejného vodovodu a veřejné kanalizace, jakož i vytvářet předpoklady a podmínky (např. včasnou údržbou) pro jejich hospodárný a bezporuchový provoz v souladu s technickými normami; dojde-li k porušení veřejného vodovodu nebo veřejné kanalizace, je správce povinen neprodleně zajistit provedení jejich oprav.
+
+### § 4
+
+(1) Správce je povinen vyznačit podzemní vedení veřejného vodovodu a veřejné kanalizace podle skutečného provedení stavby<sup>6</sup>) graficky na mapách velkého měřítka,<sup>7</sup>) a to polohu, výšku, jakož i jejich popis a jejich změny. K tomu poskytne<sup>8</sup>) investor stavby správci potřebné části dokumentace.
+
+(2) Správce je oprávněn umístit na budovách, plotech, ohradách, pozemcích apod. orientační označení (tabulky, tyče apod.) a je povinen tato označení udržovat v řádném stavu a v souladu s technickými normami; při umisťování na pozemních komunikacích, popřípadě na pozemcích k nim patřících je třeba souhlasu správce pozemní komunikace. Správce (vlastník, uživatel) nemovitosti nemá nárok na náhradu za toto omezení.
+
+### § 5
+
+(1) Správce je povinen na žádost projektanta nebo investora stavby (zařízení), s níž jsou spojeny zemní práce, poskytnout mu podklady a údaje o umístění podzemního potrubí veřejného vodovodu a veřejné kanalizace v prostoru staveniště, popřípadě v jeho okolí, jestliže by v něm mohlo dojít k poškození těchto potrubí zemními pracemi.
+
+(2) V jednotlivých případech může správce na žádost projektanta nebo investora stavby (zařízení) za úplatu zakreslit směr a výšku podzemního potrubí veřejného vodovodu a veřejné kanalizace do jeho dokumentace nebo směr a výšku vytyčit v terénu.
+
+(3) Investor nových úprav terénu, u pozemních komunikací jen jde-li o nové stavby, rekonstrukce a velké opravy, je povinen v dohodě se správcem provést neprodleně na svůj náklad přizpůsobení poklopů, vstupů do šachet, šoupátkových hrnců a jiných zařízení objektů veřejného vodovodu nebo veřejné kanalizace úrovni nově upraveného terénu, stavby nebo pozemní komunikace.
+
+### § 6
+
+(1) Bez souhlasu správce nelze na zařízeních veřejného vodovodu a veřejné kanalizace nic upravovat nebo měnit.
+
+(2) Manipulovat se zařízením veřejného vodovodu a veřejné kanalizace mohou jen ti, kteří jsou k tomu správcem určeni.
+
+(3) Přeložky veřejných vodovodních a kanalizačních zařízení mohou být provedeny jen na základě povolení vodohospodářského orgánu, popřípadě na základě povolení jiného příslušného orgánu státní správy.
+
+### § 7
+
+(1) Odvádění odpadních vod veřejnými kanalizacemi do povrchových vod se uskutečňuje výústným objektem umístěným do svahu nebo při dně koryta vodního toku. Správce je povinen udržovat výústný objekt podle podmínek stanovených vodohospodářským orgánem.
+
+(2) Výústný objekt s uzávěry a odlehčovacími objekty musí být správcem zabezpečen proti manipulaci nepovolanými osobami.
+
+(3) Uzávěry stokové sítě, které zabezpečují ochranu území před povodněmi, je správce povinen obsluhovat v době povodňové aktivity podle povodňových plánů, popřípadě podle pokynů povodňových orgánů.
+
+### § 8
+
+Správce je povinen
+
+a) sledovat jakost a měřit množství odpadních vod vypouštěných z veřejné kanalizace do vod povrchových a dbát, aby nepřesáhly hodnoty stanovené v povolení vodohospodářského orgánu podle § 8 odst. 1 písm. c) vodního zákona,
+
+b) pravidelně kontrolovat, zda za bezsrážkových průtoků nepřetéká z dešťových výústí odpadní voda přímo do recipientu, a zjištěné závady urychleně odstranit.
+
+### § 9
+
+Pracovníci pověření správcem jsou oprávněni vstupovat na nemovitost připojenou na veřejný vodovod nebo na veřejnou kanalizaci za účelem zjištění a odstranění havarijních a jiných poruch na veřejném vodovodu nebo veřejné kanalizaci, zjištění stavu vnitřního vodovodu nebo vnitřní kanalizace, spotřeby vody, chodu vodoměru a kontrolního měření množství a jakosti vypouštěných vod. Pokud je k tomu zapotřebí povolení podle zvláštních předpisů, je pověřený pracovník povinen se tímto povolením prokázat správci (vlastníku, uživateli) nemovitosti připojené na veřejný vodovod nebo na veřejnou kanalizaci; správce (vlastník, uživatel) nemovitosti je oprávněn se těchto kontrol zúčastnit.
+
+## Část třetí – Provoz veřejných vodovodů a veřejných kanalizací a podmínky připojení na veřejné vodovody a veřejné kanalizace
+
+### § 10
+
+(1) Nemovitosti se připojí na veřejný vodovod, jsou-li vzdáleny maximálně 50 m od vybudovaného veřejného vodovodního řádu a umožňuje-li kapacita veřejného vodovodu připojení nemovitostí.
+
+(2) Nemovitosti, ve kterých vznikají odpadní vody, připojí se na veřejnou kanalizaci, jsou-li vzdáleny maximálně 50 m od vybudované uliční stoky veřejné kanalizace a umožňuje-li připojení kapacita veřejné kanalizace a podmínky kanalizačního řádu.<sup>9</sup>) Není dovoleno zřizovat žumpy a vsakovací jímky na samostatné odstraňování odpadních vod z nemovitostí, které je možno připojit na veřejnou kanalizaci.
+
+(3) Nemovitosti se připojují na veřejný vodovod vodovodní přípojkou a na veřejnou kanalizaci kanalizační přípojkou. Pro každou připojovanou nemovitost se zásadně zřizuje samostatná vodovodní a kanalizační přípojka. Výjimečně se souhlasem správce lze zřídit jednu přípojku pro více nemovitostí, jsou-li pro to technické nebo ekonomické důvody, nebo více vodovodních a kanalizačních přípojek pro jednu nemovitost, jde-li o rozsáhlou nemovitost, o odběr vody v rozdílné ceně, o odběr pro požární účely apod.
+
+(4) Pokud má kanalizace oddílnou soustavu,<sup>10</sup>) je třeba odpadní a srážkové vody z jednotlivých nemovitostí odvádět v oddílné soustavě.
+
+(5) O zřizování vodovodních a kanalizačních přípojek platí zvláštní předpisy.<sup>11</sup>)
+
+### § 11
+
+(1) Investor domovní části vodovodní přípojky je povinen oznámit správci předpokládané množství vod, které bude odebírat z veřejného vodovodu, a investor domovní části kanalizační přípojky je mu povinen oznámit údaje o množství a jakosti odpadních vod, které bude vypouštět do veřejné kanalizace.
+
+(2) Umístění vodovodní přípojky a vodoměru na její domovní části, popřípadě umístění kontrolní měrné šachty na domovní části kanalizační přípojky určí správce.
+
+(3) Připojení vodovodní přípojky na veřejný vodovodní řád nebo kanalizační přípojky na stoku veřejné kanalizace může provést správce nebo s jeho souhlasem stavební organizace.
+
+(4) Část pozemku nad veřejnou částí vodovodní a kanalizační přípojky o šířce 1,5 m musí být upravena tak, aby bylo možno veřejnou část přípojky opravit; tato úprava se nevyžaduje na pozemních komunikacích. Dále musí být zajištěn přístup k důležitým zařízením vodovodní a kanalizační sítě (např. k požárním hydrantům, hlavním uzávěrům apod.).
+
+### § 12
+
+(1) Na veřejný vodovod nebo veřejnou kanalizaci může se připojit jen nemovitost, na níž vybudovaný vnitřní vodovod nebo vnitřní kanalizace odpovídají technickým normám.<sup>12</sup>)
+
+(2) Před připojením nemovitosti na veřejný vodovod nebo veřejnou kanalizaci musí být vnitřní vodovod a vnitřní kanalizace prohlédnuta a přezkoušena organizací oprávněnou k provádění stavebních prací. Zápis o přezkoušení a stavební výkres vnitřního vodovodu a vnitřní kanalizace předloží správce (vlastník, uživatel) nemovitosti správci.
+
+(3) K provedení úprav na vnitřním vodovodu, kterými se podstatně mění dosavadní podmínky odběru vody z veřejného vodovodu nebo podmínky vypouštění odpadových nebo zvláštních vod do veřejné kanalizace, je třeba souhlasu správce.
+
+(4) Odpojit nemovitosti z veřejného vodovodu nebo z veřejné kanalizace může správce nebo s jeho souhlasem a podle jeho podmínek správce (vlastník, uživatel) nemovitosti.
+
+### § 13
+
+Hydroforové stanice, které nejsou součástí veřejného vodovodu lze zřídit a připojit na veřejný vodovod vodovodní přípojkou jen se souhlasem správce a podle jeho podmínek.
+
+### § 14
+
+(1) Vodoměrná šachta je součástí vnitřního vodovodu. Zřizuje ji na připojované nemovitosti její správce (vlastník, uživatel).
+
+(2) Vodoměrná šachta musí být vybudována tak, aby byla chráněna proti vnikání vody, plynů a nečistot; musí být odvodněna, větratelná a bezpečně přístupná.
+
+(3) Podmínky pro vybudování vodoměrné šachty určí správce. Vyžaduje-li to řádný a bezpečný provoz veřejného vodovodu, může správce požadovat od správce (vlastníka, uživatele) nemovitosti zřízení, přestavbu, popřípadě zrušení vodoměrné šachty, i když se neruší vodovodní přípojka.
+
+### § 15
+
+Kanalizační přečerpávací stanice, které nejsou součástí veřejné kanalizace lze zřídit a připojit na veřejnou kanalizaci kanalizační přípojkou jen se souhlasem správce a podle jeho podmínek.
+
+## Část čtvrtá – Všeobecné podmínky dodávky vody z veřejných vodovodů
+
+### § 16
+
+(1) Správce, který dodává vodu z veřejného vodovodu (dále jen „dodavatel“), zabezpečuje dodávku vody v souladu s podmínkami pro připojení nemovitosti na veřejný vodovod stanovenými touto vyhláškou a technickými normami.
+
+(2) Správce (vlastník, uživatel)<sup>13</sup>) nemovitosti, pro niž se dodává voda z veřejného vodovodu (dále jen „odběratel"), může odebírat vodu do sjednané výše, a není-li výše odběru sjednána, podle skutečné potřeby; přitom musí dbát na předpisy a opatření vydaná k zajištění správné funkce vnitřního vodovodu a jeho součástí a řídit se pokyny dodavatele.
+
+(3) Nedodrží-li odběratel podmínky odběru, je dodavatel oprávněn v případech uvedených v § 24 odst. 1 písm. d) až j) omezit nebo přerušit dodávku vody.
+
+(4) Dodavatel není povinen splnit požadavky odběratele na dobu dodávky, množství, tlak, odlišnou kvalitu vody, které přesahují možnosti dodávky vody stávajícími zařízeními veřejného vodovodu. Splnění těchto požadavků si zajišťuje odběratel na vlastní náklady a vlastním zařízením po schválení dodavatelem.
+
+### § 17
+
+Odběr vody z veřejného vodovodu měří dodavatel vodoměrem, přivádí-li se voda z veřejného vodovodního řádu do nemovitosti vodovodní přípojkou. Množství vody odebrané pro různé účely, za které se úplata platí podle různých sazeb, se měří pro každou úplatu zvláštním vodoměrem, který si zajišťuje odběratel; nelze-li takové měření provádět, zjišťuje se množství podle ročních směrných čísel spotřeby vody uvedených v příloze k této vyhlášce. Rozhodne-li se dodavatel osadit vodoměr na vodovodní přípojku, z níž se dosud odběr vody neměřil, je odběratel povinen provést podle jeho pokynů a technických norem potřebné úpravy vnitřního vodovodu.
+
+### § 18
+
+(1) Odběr vody z hydrantů, s výjimkou odběru pro požární potřeby, který dodatečně požární útvar ohlásí, se měří podle podmínek dodavatele; v případech, kdy dodavatel umožní krátkodobé odběry vody pro provozní účely, měří se odběr vody vodoměrem na hydrantovém nástavci.
+
+(2) Odběr vody z veřejných výtokových stojanů zřizovaných výjimečně v případech, kdy není účelné zřizovat vodovodní přípojky k jednotlivým nemovitostem, měří se vodoměrem anebo se jeho výše určí podle ročních směrných čísel spotřeby vody.
+
+### § 19
+
+Podle ročních směrných čísel spotřeby vody se určí výše odběru vody ve všech případech, kdy není vodoměr osazen.
+
+### § 20
+
+(1) Vodoměr je ve správě dodavatele, který provádí jeho osazení (montáž), údržbu, a může jej na svůj náklad kdykoli vyměnit.
+
+(2) Vodoměr podléhá úřednímu ověření podle zvláštních předpisů.<sup>14</sup>) Má-li odběratel pochybnosti o správnosti údajů vodoměru, je oprávněn požádat dodavatele o přezkoušení vodoměru. Dodavatel je povinen do 30 dnů ode dne doručení oznámení odběratele zajistit zkoušku vodoměru, která se provede podle technické normy.<sup>15</sup>) Výsledek dodavatel neprodleně oznámí odběrateli.
+
+(3) Zjistí-li se při zkoušce vodoměru vyžádané odběratelem,
+
+a) že vodoměr je vadný anebo že jeho údaje se odchylují od skutečnosti více, než připouští technická norma,<sup>15</sup>) uhradí ten, jemuž byla odchylka k prospěchu, druhé straně finanční rozdíl, a to ode dne posledního poruchou neovlivněného odečtu. Náklady na přezkoušení a výměnu vodoměru hradí dodavatel,
+
+b) že jeho údaje se neodchylují od skutečné hodnoty více, než připouští technická norma,<sup>15</sup>) hradí odběratel náklady spojené s přezkoušením.
+
+(4) Žádost o přezkoušení vodoměru nezbavuje odběratele povinnosti zaplatit ve stanovené lhůtě úplaty. Nelze-li přesně zjistit výši odběru vody za dobu poruchy vodoměru, vypočte se podle odběru ve stejném období minulého roku. Jde-li o nový odběr nebo změnu v odběrových poměrech, určí se výše tohoto odběru podle ročních směrných čísel spotřeby vody.
+
+### § 21
+
+(1) Odběratel si může na svůj náklad osadit na vnitřním vodovodu vlastní podružný vodoměr<sup>16</sup>) (např. pro ubytovnu, prodejnu, výrobnu apod. umístěnou v obytném domě); osazení tohoto vodoměru oznámí dodavateli.
+
+(2) Osadí-li podružný vodoměr u odběratele dodavatel, je tento vodoměr ve správě dodavatele a může být z důvodů provozu veřejného vodovodu kdykoli odběrateli vyměněn nebo odebrán na náklad dodavatele.
+
+(3) Výše odběru vody pro nemovitost se určuje podle odpočtu na vodoměru.
+
+### § 22
+
+(1) Odběratel je povinen umožnit dodavateli přístup k vodoměru a k hlavnímu uzávěru vody, chránit vodoměr před poškozením a bez zbytečného odkladu oznámit dodavateli závadu v měření, jakož i poruchy vnitřního vodovodu.
+
+(2) Odběratel je povinen neprodleně odstranit překážky, které znemožňují odečítání na hlavním vodoměru, zejména neprodleně provést opatření proti zaplavení prostoru, v němž je vodoměr umístěn.
+
+### § 23
+
+(1) Dodávka vody je splněna přechodem vody ze zařízení veřejného vodovodu do zařízení odběratele.
+
+(2) Při dodávání vody vodovodními přípojkami je dodávka splněna
+
+a) průtokem vody hlavním vodoměrem, je-li osazen,
+
+b) průtokem vody v místě, kde veřejná část přípojky přechází v domovní část přípojky.<sup>3</sup>)
+
+(3) Pokud není dohodnuto mezi dodavatelem a odběratelem jinak, platí, že sjednaná dodávka vody má jakost pitné vody.<sup>17</sup>)
+
+(4) Odběratel je povinen zajistit u podružně připojených uživatelů zachovávání všech předpisů týkajících se odběru a hospodaření vodou z veřejných vodovodů.
+
+### § 24
+
+(1) Dodavatel je oprávněn omezit nebo přerušit dodávku vody z veřejného vodovodu
+
+a) při provádění plánovaných oprav, údržbových a revizních pracích,
+
+b) z důvodů způsobených živelnými pohromami (např. povodní, sesutím půdy, bouří, požárem apod.),
+
+c) při havárii na vodovodní síti nebo v jiných případech vyvolaných provozní potřebou, je-Ii nebezpečí z prodlení,
+
+d) nevyhovuje-li odběratelovo zařízení nebo způsob odběru předpisům tou měrou, že může ohrozit zdraví, bezpečnost osob nebo majetek, popřípadě způsobit mimořádný pokles nebo kolísání tlaku vody u jiných odběratelů,
+
+e) zabraňuje-li odběratel dodavateli v přístupu k měřicím přístrojům,
+
+f) bylo-li u odběratele zjištěno připojení vodovodní přípojky bez souhlasu dodavatele,
+
+g) neodstranil-li odběratel ve lhůtě stanovené dodavatelem závady na vnitřním vodovodu nebo závady ovlivňující měření nebo neučinil-li opatření k ochraně vodoměru a hlavního uzávěru vody,
+
+h) přenechá-li odběratel vodu bez souhlasu dodavatele dalšímu uživateli,
+
+i) odebírá-li odběratel větší než sjednané množství vody, je-li množství sjednáno,
+
+j) nezaplatil-li odběratel úplaty za odběr vody po dvě po sobě jdoucí zúčtovací období ani v dodatečné přiměřené lhůtě, kterou mu dodavatel stanovil s upozorněním, že jinak přeruší dodávku,
+
+k) při omezování nebo jiné úpravě zásobování pitnou vodou vodohospodářským orgánem,<sup>18</sup>)
+
+(2) Dodavatel je povinen omezení nebo přerušení dodávky vody oznámit vhodným způsobem odběrateli, a to alespoň 15 dnů předem, s výjimkou přerušení dodávky z důvodů uvedených v odstavci 1 písm. b), c) a d), kdy učiní oznámení nejpozději do 24 hodin od vzniku důvodu k omezení nebo přerušení dodávky vody.
+
+(3) Po odstranění závad nebo příčin, pro které byla dodávka omezena nebo přerušena, je dodavatel povinen dodávku vody obnovit.
+
+(4) Dodavatel je povinen přerušit dodávku vody, požádá-li o to odběratel z důvodů odstranění závad na domovní části vodovodní přípojky.
+
+### § 25
+
+(1) Při odběrech vody z veřejného vodovodu uskutečněných
+
+a) bez smlouvy s dodavatelem,
+
+b) v rozporu se smlouvou, k nimž dojde
+
+1\. odebírá-li odběratel vodu k jiným účelům nebo ve větším množství, než bylo sjednáno,
+
+2\. provedl-li odběratel taková opatření, aby vodoměr buď odběr nezaznamenával nebo jej zaznamenával nesprávně ke škodě dodavatele, používá-li vědomě nesprávně upraveného vodoměru anebo jestliže vodoměr poškodil, poškodil jeho plombu nebo neohlásil jeho náhodné poškození do tří dnů poté, kdy je zjistil, a dále vodoměru používal,
+
+3\. použitím požárního obtoku vodoměru<sup>19</sup>) k jiným účelům než požárním,
+
+účtují se tyto odběry vody ve výši úplaty spojené s dodáváním vody z veřejných vodovodů za množství odebrané vody zjištěné technickým výpočtem, přičemž se vychází ze světlosti potrubí, z prokázané nebo předpokládané doby odběru vody a z účelu, k němuž bylo vody použito.
+
+(2) K takto stanoveným částkám za odběr se připočtou náklady spojené se zjišťováním případů odběru uvedených v odstavci 1, nejméně však 50 Kčs.
+
+### § 26
+
+(1) V případech uvedených v § 24 odst. 1 písm. a) až c), které brání dodávkám vody, má dodavatel povinnost náhradního plnění (např. dovážením pitné vody v cisternách), a to v rozsahu nouzového zásobování obyvatelstva pitnou vodou v dosažitelné vzdálenosti a v cenách pro fakturování úplaty spojené s dodáváním vody z veřejných vodovodů.
+
+(2) Po dobu nouzového zásobování vodou nelze odběr vody fakturovat ve výši směrných čísel spotřeby vody; odběrateli se fakturuje pouze množství vody skutečně dodané při náhradním plnění. Toto množství je dodavatel oprávněn rozvrhnout na jednotlivé odběratele v poměru, v jakém odebírali vodu ve stejném období minulého roku.
+
+(3) Odběratel spolupracuje s dodavatelem na umožnění náhradního plnění dodávky vody.
+
+### § 27
+
+(1) Dodavatel neodpovídá za škody vzniklé nedostatkem tlaku vody při omezeném zásobování vodou pro poruchu na vodovodu nebo na veřejné části vodovodní přípojky nebo při přerušení dodávky elektrické energie pro čerpací stanice, popřípadě při nedostatku pitné vody nebo pro některý další důvod, kdy je dodavatel oprávněn dodávku vody omezit nebo přerušit.
+
+(2) Dojde-li k poruše na zařízení veřejného vodovodu, je dodavatel povinen zabezpečit provedení opravy; stejnou povinnost má odběratel při poruše svých zařízení (vnitřní vodovod, domovní část přípojky).
+
+(3) Odběratel nesmí přímo spojovat vnitřní vodovod připojený na veřejnou vodovodní síť s potrubím zásobovaným z jiného zdroje (např. z vlastního hydroforu, zásobní nádrže apod.) a přívod vody přes spotřebič spojovat s potrubím, kterým se odvádí odpadní voda. K propojení vnitřního rozvodného potrubí přivádějícího vodu z různých přípojek je třeba souhlasu dodavatele. Odběratel je povinen i v ostatních případech dodržovat technické normy.<sup>20</sup>)
+
+## Část pátá – Všeobecné podmínky pro odvádění odpadních vod veřejnými kanalizacemi
+
+### § 28
+
+(1) Veřejnou kanalizací mohou být odváděny jen vody v jakosti a množství podle podmínek kanalizačního řádu, popřípadě podle povolení vydaného vodohospodářským orgánem.<sup>21</sup>)
+
+(2) Správce (vlastník, uživatel)<sup>13</sup>) nemovitosti, popřípadě její části, a zařízení, v nichž vznikají odpadní vody (dále jen „odběratel"), je může připojit na veřejnou kanalizaci pouze kanalizační přípojkou.
+
+(3) Jestliže kanalizační přípojka je vodohospodářským dílem, musí mít šachtu pro kontrolní měření množství odpadní vody a odběr jejích vzorků. Šachta musí být umístěna tak, aby byla vždy přístupná.
+
+(4) Správce, který odvádí odpadní vodu veřejnou kanalizací (dále jen „dodavatel"), je povinen kontrolovat měření množství a jakosti předčištěných odpadních vod vypouštěných do veřejné kanalizace, aby odpovídaly hodnotám kanalizačního řádu.
+
+### § 29
+
+(1) Odpadní vodu vypouštěnou do veřejné kanalizace a jí odváděnou měří odběratel svými měřicími zařízeními, dohodnutými s dodavatelem, zpravidla v místě, kde odpadní voda vypouštěná z nemovitosti přechází ze zařízení odběratele do zařízení dodavatele, je-li to technicky možné. Měřicí zařízení může být umístěno též v nejbližší šachtě veřejné stoky nebo v měrném profilu, popřípadě v jiném místě, na kterém se dodavatel s odběratelem dohodnou.
+
+(2) Stálé měřicí zařízení musí být ověřeno a udržováno ve stavu schopném provozu. Druh měřicího zařízení a jeho velikost musí odpovídat průtoku, jakosti vypouštěné vody a způsobu jejího odtoku podle technické normy.<sup>22</sup>)
+
+(3) Jestliže dodavatel má pochybnosti o správnosti měření, písemně požádá odběratele o přezkoušení měřicího zařízení. Odběratel je povinen do 30 dnů od doručení žádosti zajistit zkoušku měřicího zařízení; zjistí-li se zkouškou, že měřicí zařízení je vadné, je odběratel povinen vyměnit je za správné.
+
+(4) Zkouška měřicího zařízení se provádí podle zvláštních předpisů.<sup>14</sup>) Zjistí-li se zkouškou, že údaje měřicího zařízení
+
+a) se neodchylují od skutečnosti více, než připouštějí technické podmínky měřicího zařízení nebo odchylka dohodnutá mezi dodavatelem a odběratelem, hradí náklady spojené se zkouškou dodavatel,
+
+b) se odchylují od skutečných hodnot více, než připouštějí technické podmínky měřicího zařízení nebo odchylka dohodnutá mezi dodavatelem a odběratelem, provede se majetkoprávní vypořádání vzniklých rozdílů úplat za odvádění odpadních vod; náklady na přezkoušení a výměnu měřicího zařízení hradí odběratel.
+
+### § 30
+
+(1) Pokud není množství vypouštěné vody měřeno, předpokládá se, že odběratel, který odebírá vodu z veřejného vodovodu, vypouští do veřejné kanalizace takové množství vody, které podle zjištění na vodoměru nebo podle ročních směrných čísel spotřeby vody z vodovodu odebral, s připočtením množství vody získaného z jiných zdrojů.
+
+(2) Jestliže odběratel vodu odebranou z veřejného vodovodu zčásti spotřebuje a nevypouští ji do veřejné kanalizace (např. pivovary, sodovkárny, zahradnictví a jiné podniky), zjistí se množství vypouštěné vody odborným výpočtem podle výkazů a technických výpočtů předložených odběratelem a prověřených dodavatelem, pokud se dodavatel předem nedohodl s odběratelem jinak.
+
+(3) Vypouští-li odběratel do veřejné kanalizace vodu z jiných zdrojů než z veřejného vodovodu (např. z vlastních studní, z vodních toků a jiných) a není-li možno zjistit vypouštěné množství vody vždy měřením nebo podle ročních směrných čísel spotřeby vody, zjistí dodavatel množství vypouštěné vody odborným výpočtem, popřípadě zjištěním na místě samém. Odběratel je povinen za tím účelem předložit dodavateli požadované technické výpočty a ukazatele.
+
+(4) V případě havárie vnitřního vodovodu, která způsobí únik vody mimo veřejnou kanalizaci, poskytne dodavatel odběrateli dobropis za množství vody zjištěné na základě kontrolního odečtu spotřeby vody, provedeného po odstranění havárie. Odběratel však musí prokázat a technicky zdůvodnit únik a množství vody neodvedené kanalizací.
+
+(5) Nelze-li přesně zjistit množství vypouštěné vody po dobu poruchy měřicího zařízení, určí se toto množství odborným výpočtem.
+
+### § 31
+
+Odvádění vod veřejnou kanalizací je splněno okamžikem přechodu vypouštěné vody ze zařízení odběratele do zařízení dodavatele, tj. v místě, kde domovní část kanalizační přípojky přechází do její veřejné části.<sup>3</sup>)
+
+### § 32
+
+(1) Odběratel může vypouštět do veřejné kanalizace odpadní a srážkové vody za podmínek stanovených v kanalizačním řádu podle skutečné potřeby, není-li omezen výší povoleného množství při dodržování mezní hodnoty jejich znečištění stanovené kanalizačním řádem nebo povolením vodohospodářského orgánu podle § 24 odst. 3 vodního zákona.
+
+(2) V místech, kde je vybudována veřejná kanalizace, ale není vybudován veřejný vodovod, je odběratel povinen dohodnout se s dodavatelem o odvádění odpadních vod a o způsobu jejich měření.
+
+### § 33
+
+(1) Dodavatel je oprávněn omezit nebo přerušit odvádění odpadních vod veřejnou kanalizací
+
+a) při provádění plánovaných oprav, údržbových a revizních pracích projednaných s odběratelem alespoň 40 dnů předem,
+
+b) z důvodů způsobených živelními pohromami (např. povodněmi, sesutím půdy, bouří, požáry apod.),
+
+c) při havárii v provozu kanalizační sítě bránící odvádění vod nebo v jiných případech vyvolaných provozní potřebou, vzniká-li nebezpečí z prodlení,
+
+d) nevyhovuje-li odběratelovo zařízení předpisům do té míry, že může ohrozit zdraví, bezpečnost osob a majetku,
+
+e) zabraňuje-li odběratel dodavateli v přístupu k zařízením vnitřní kanalizace a v jejich kontrole,
+
+f) zjistilo-li se u odběratele vypouštění odpadních vod
+
+1\. bez potřebného povolení vodohospodářského orgánu,<sup>21</sup>)
+
+2\. které je v rozporu s povolením vodohospodářského orgánu,<sup>21</sup>)
+
+3\. které je v rozporu s kanalizačním řádem,<sup>23</sup>)
+
+g) zjistilo-li se u odběratele připojení kanalizační přípojky bez souhlasu dodavatele,
+
+h) neodstranil-li odběratel ve lhůtě stanovené dodavatelem vady ve vnitřní kanalizaci.
+
+(2) Omezení nebo přerušení odvádění odpadních vod veřejnou kanalizací je dodavatel povinen s výjimkou případů uvedených v odstavci 1 písm. a), b), c) a d) oznámit 15 dnů předem způsobem v místě obvyklým. V případech uvedených v odstavci 1 písm. b), c) a d) dodavatel oznámí odběrateli omezení nebo přerušení odvádění odpadních vod dodatečně, nejpozději do 24 hodin od vzniku důvodu pro omezení nebo přerušení.
+
+(3) Odvádění odpadních vod, které bylo omezeno nebo přerušeno, je dodavatel povinen obnovit po odstranění závad, pro které bylo odvádění odpadních vod omezeno nebo přerušeno.
+
+### § 34
+
+(1) Při vypouštění odpadních vod do veřejné kanalizace
+
+a) bez smlouvy s dodavatelem,
+
+b) které je v rozporu se smlouvou,
+
+1\. vypouští-li odběratel odpadní vody v jiném množství nebo v jiné jakosti, než bylo sjednáno,
+
+2\. provedl-li odběratel takové opatření, aby měřicí zařízení vypouštěné vody nezaznamenávalo nebo je zaznamenávalo nesprávně ke škodě dodavatele, užívá-li odběratel vědomě nesprávně upraveného zařízení nebo jestliže měrné zařízení poškodil nebo neohlásil jeho poškození do tří dnů ode dne, kdy poškození zjistil,
+
+zjišťuje se množství vypouštěné odpadní vody technickým výpočtem, přičemž se vychází ze zdrojů vody, světlosti potrubí a z prokázané nebo předpokládané doby vypouštění.
+
+(2) K částkám účtovaným za takto určené množství vypouštěných odpadních vod se připočítají náklady spojené se zjišťováním případů uvedených v odstavci 1, nejméně však částka 50 Kčs.
+
+### § 35
+
+(1) Dodavatel neodpovídá odběrateli za škody, které vznikly poruchou na veřejné kanalizaci, popřípadě na veřejné části kanalizační přípojky, nebo za škody, k nimž došlo omezením nebo přerušením odvádění odpadních vod podle ustanovení § 33 této vyhlášky.
+
+(2) Odběratel je povinen udržovat domovní část kanalizační přípojky, vnitřní kanalizaci a ostatní zařízení sloužící k odvádění a k měření odpadních vod, která jsou v jeho správě ve stavu schopném provozu, přičemž je povinen dodržovat ustanovení technických norem;<sup>24</sup>) dojde-li k zanesení kanalizační přípojky provozem vnitřní kanalizace, které brání odtoku odpadních vod, je dodavatel povinen na náklady odběratele poruchu odstranit.
+
+(3) Po dobu, po kterou pro poruchu veřejné kanalizace nelze vypouštět odpadní vody do veřejné kanalizace a odvádět je jí, nesmí dodavatel fakturovat úplaty spojené s odváděním odpadních vod veřejnou kanalizací včetně jejich případného vyčištění.
+
+### § 36
+
+(1) Dojde-li k porušení veřejné kanalizace živelní pohromou, havárií na kanalizační síti, kanalizačních objektech nebo při provádění plánovaných oprav, údržbových a revizních pracích na nich, které brání odvádění odpadních a srážkových vod, je dodavatel povinen zajistit náhradní odvádění odpadních vod (např. provizorním přečerpáváním odpadních vod, omezením dodávky vody a zřízením obtoku), a to v cenách pro fakturování úplaty spojené s odváděním odpadních vod veřejnou kanalizací.
+
+(2) Po dobu náhradního odvádění odpadních vod se odběrateli fakturuje pouze množství skutečně odváděné odpadní vody. Dodavatel je oprávněn toto množství rozvrhnout na jednotlivé odběratele v poměru, v jakém vypouštěli odpadní vody ve stejném období minulého roku.
+
+(3) Odběratel v případech vyžadujících náhradní plnění spolupracuje s dodavatelem na umožnění náhradního odvádění odpadních vod.
+
+## Část šestá – Úplaty spojené s dodáváním vody z veřejných vodovodů a s odváděním odpadních vod veřejnými kanalizacemi včetně jejich případného vyčištění
+
+### § 37
+
+(1) Odběratel je povinen platit dodavateli úplatu za dodávání pitné nebo užitkové vody z veřejných vodovodů pro nemovitost k jakýmkoli účelům (dále jen „vodné") a za odvádění, popřípadě zneškodnění odpadních a srážkových vod veřejnou kanalizací (dále jen „stočné"); tato úplata se však nevztahuje na odvádění srážkových vod z kanalizačního systému veřejné komunikace.
+
+(2) Způsob výpočtu vodného se stanoví součinem odebraného množství vody změřeného vodoměrem, a není-li vodoměr osazen, podle ročních směrných čísel spotřeby vody a ceny za 1 m<sup>3</sup> vody. Ceny se stanoví podle cenového předpisu.<sup>25</sup>)
+
+(3) Způsob výpočtu stočného se stanoví součinem měřeného nebo podle § 30 předpokládaného množství odpadní vody vypouštěné kanalizační přípojkou do veřejné kanalizace a ceny za 1 m<sup>3</sup> vypouštěné vody, stanovené cenovým předpisem.<sup>25</sup>)
+
+(4) Za vodu odebranou z veřejných výtokových stojanů, neměří-li se vodoměrem, platí odběratel vodné vypočtené podle ročních směrných čísel spotřeby vody, snížené o 50 %, je-li stojan vzdálen do 100 m, a o 70 %, je-li stojan vzdálen více než 100 m od nemovitosti odběratele.
+
+(5) Vypouští-li se z nemovitosti do veřejné kanalizace pouze srážková voda, stanoví se stočné ve výši 30 % stočného za množství vody dodané z veřejného vodovodu za předpokladu, že by do nemovitosti byla zavedena voda z veřejného vodovodu. Je-li nemovitost napojena na veřejný vodovod, stanoví se stočné v plné výši.
+
+(6) Povinnost platit vodné a stočné se nevztahuje na jednotky požární ochrany za vodu odebranou z veřejného vodovodu a vypouštěnou do veřejné kanalizace v souvislosti s výkonem požární ochrany a cvičením s hasicími přístroji.
+
+### § 38
+
+(1) Jestliže pro některý druh spotřeby vody není v příloze k této vyhlášce uvedeno roční směrné číslo spotřeby vody, vypočte se spotřeba vody pro placení vodného paušálem samostatně podle ukazatelů, jako je vybavenost objektu, délka pracovní doby nebo délka provozu, technologie výroby apod.
+
+(2) Má-li být odběrateli účtováno vodné a stočné podle různých cen za 1 m<sup>3</sup>, je odběratel povinen dodavateli každoročně písemně nejpozději do 20. prosince oznámit rozdělení odebrané vody podle těchto cen. Nového oznámení není třeba, jestliže proti údajům oznámeným odběratelem v posledním oznámení nenastaly změny. Odběratel je povinen bez zbytečného odkladu oznámit též každou podstatnou změnu v rozdělení odběru vody podle cen (sazeb), k níž dojde během roku. Dodavatel přihlíží k oznámené změně při první fakturaci vodného a stočného po oznámení; je oprávněn oznámení přezkoušet a při fakturacích vycházet z výsledků přezkoušení.
+
+## Část sedmá – **Společná, zrušovací a závěrečná ustanovení**
+
+### § 39
+
+(1) Dodávky vody z veřejných vodovodů a odvádění odpadních vod veřejnými kanalizacemi se fakturují a platí podle zvláštního předpisu.<sup>26</sup>)
+
+(2) Voda odebraná dodavatelem z jiného veřejného vodovodu nebo odpadní voda převedená z jiné veřejné kanalizace se hradí správcům těchto zařízení ve výši nákladů potřebných k výrobě (čištění), rozvodu a provozu zařízení, z nichž se voda odebírá nebo převádí, a to v přímé závislosti na množství jednotek odebrané nebo odváděné vody.
+
+(3) Je-li odpadní voda odběratelem dovážena přímo do čistírny odpadních vod (např. v cisternách) a je pouze čištěna, bude dodavatel účtovat odběrateli jen skutečné náklady spojené s čištěním odpadních vod.
+
+### § 40
+
+(1) Vztahy, které vznikly mezi dodavatelem a odběratelem dodáváním vody z veřejného vodovodu a odváděním odpadních vod veřejnou kanalizací, se dále řídí občanským zákoníkem, je-li odběratelem občan nebo organizace jiná než socialistická.
+
+(2) Je-li odběratelem socialistická organizace, pro vztahy vzniklé mezi dodavatelem a odběratelem dodáváním vody z veřejného vodovodu a odváděním odpadních vod veřejnou kanalizací neplatí ustanovení § 3, § 16 odst. 3 a 4, § 23 až 26, § 27 odst. 1 a 2, § 30 odst. 1, 2, 3 a 5, § 31, § 32 odst. 2, § 33 až 35 a § 39. Tyto vztahy se řídí hospodářským zákoníkem a základními podmínkami dodávky vody z veřejných vodovodů a odvádění vod veřejnými kanalizacemi.<sup>27</sup>)
+
+## § 41
+
+Zrušují se:
+
+1\. vyhláška č. 78/1954 Ú. v., o úplatách za dodávku vody z veřejných vodovodů a vodáren a za odvádění odpadních vod veřejnými kanalizacemi, ve znění vyhlášky č. 74/1960 Sb., vládního nařízení č. 99/1966 Sb. a vyhlášky č. 63/1970 Sb.,
+
+2\. směrnice č. 112/1955 Ú. v. k provedení vyhlášky č. 78/1954 Ú. v., o úplatách za dodávku vody z veřejných vodovodů a vodáren a za odvádění odpadních vod veřejnými kanalizacemi, ve znění vyhlášky č. 63/1970 Sb.
+
+## § 42
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 1979.
+
+Ministr:
+
+Ing. Margetin v. r.
+
+### Příloha k vyhlášce č. 154/1978
+
+#### Roční směrná čísla spotřeby vody
+
+<table><tbody><tr><th>Položka<br> č.</th><th>Druh spotřeby vody</th><th>Roční směrné č., popř. jiný ukazatel spotř. vody</th><td></td></tr><tr><td colspan="3">I. BYTOVÝ FOND</td><td></td></tr><tr><td rowspan="2"></td><td>byty </td><td rowspan="2"></td><td></td></tr><tr><td>na jednoho obyvatele bytu</td><td></td></tr><tr><td>1.</td><td>v domech pouze s výtoky</td><td>16 m<sup>3</sup></td><td></td></tr><tr><td>2.</td><td>v domech pouze s výtoky a společnými WC (pavlačový typ)</td><td>25 m<sup>3</sup></td><td></td></tr><tr><td>3.</td><td>je-li v bytě výtok a WC (bez koupelny, sprchového nebo vanového koutu)</td><td>31 m<sup>3</sup></td><td></td></tr><tr><td>4.</td><td>je-li v bytě výtok, WC a koupelna (sprchový nebo vanový kout) s kamny na pevná paliva</td><td>41 m<sup>3</sup></td><td></td></tr><tr><td>5.</td><td>je-li v bytě výtok, WC a koupelna<br> (sprchový nebo vanový kout) s průtokovým ohřívačem nebo elektrickým bojlerem</td><td>46 m<sup>3</sup></td><td></td></tr><tr><td>6.</td><td>je-li v bytě výtok, WC a koupelna<br> (sprchový nebo vanový kout) s centrální přípravou teplé vody</td><td>56 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">7.</td><td>rekreační chaty </td><td rowspan="2"></td><td></td></tr><tr><td>na jednoho obyvatele rekreační chaty se spotřeba vypočte jako u položek 1 až 6 s přihlédnutím k délce užívání chaty během roku</td><td></td></tr><tr><td colspan="3">II. VEŘEJNÉ BUDOVY</td><td></td></tr><tr><td rowspan="3"></td><td>(kancelářské budovy, školy, mateřské školy, družiny mládeže, internáty, učňovské domovy, studentské koleje)</td><td rowspan="3"></td><td></td></tr><tr><td>kancelářské budovy</td><td></td></tr><tr><td>na jednoho pracovníka</td><td></td></tr><tr><td>8.</td><td>v budově pouze s výtoky a WC</td><td>14 m<sup>3</sup></td><td></td></tr><tr><td>9.</td><td>v budově s umyvadly, WC a s centrální přípravou teplé vody nebo s průtokovými ohřívači, popřípadě bojlery</td><td>20 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2"></td><td>školy</td><td rowspan="2"></td><td></td></tr><tr><td>na jednu osobu (žáka, učitele, pracovníka) při průměru 200 pracovních dní</td><td></td></tr><tr><td>10.</td><td>v budově pouze s výtoky</td><td>4 m<sup>3</sup></td><td></td></tr><tr><td>11.</td><td>v budově pouze s výtoky a WC</td><td>6 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2"></td><td>mateřské školy s denním provozem</td><td rowspan="2"></td><td></td></tr><tr><td>na jednu osobu (učitele, pracovníka, dítě)</td><td></td></tr><tr><td>12.</td><td>v objektech pouze s výtoky a WC</td><td>8 m<sup>3</sup></td><td></td></tr><tr><td>13.</td><td>v objektech s WC, kuchyní a umývárnou s přípravou teplé vody ke koupání nebo sprchování</td><td>16 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">14.</td><td>družiny mládeže<br> (pouze s výtoky a WC) </td><td></td><td></td></tr><tr><td>na 1 osobu včetně pracovníků</td><td>4 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2"></td><td>internáty, učňovské domovy, studentské koleje</td><td rowspan="2"></td><td></td></tr><tr><td>na 1 osobu včetně pracovníků</td><td></td></tr><tr><td>15.</td><td>v budovách s umyvadly, WC a umývárnou s přípravou teplé vody ke koupání nebo sprchování</td><td>20 m<sup>3</sup></td><td></td></tr><tr><td>16.</td><td>v budovách s umyvadly, WC, umývárnou s přípravou teplé vody ke koupání nebo sprchování a s kuchyní <br><br></td><td>32 m<sup>3</sup></td><td></td></tr><tr><td></td><td>ve veřejných budovách, kde jsou byty, připočte se roční směrné číslo podle vybavení bytu</td><td></td><td></td></tr><tr><td colspan="3">III. HOTELY A UBYTOVNY<br></td><td></td></tr><tr><td rowspan="2"></td><td>hotely s restaurací</td><td rowspan="2"></td><td></td></tr><tr><td>na jedno lůžko</td><td></td></tr><tr><td>17.</td><td>v budovách, kde většina pokojů je vybavena WC a koupelnami (sprchami)</td><td>360 m<sup>3</sup></td><td></td></tr><tr><td>18.</td><td>v budovách, kde většina pokojů je bez koupelen (sprch) nebo WC</td><td>180 m<sup>3</sup></td><td></td></tr><tr><td>19.</td><td>v budovách, kde jsou pokoje bez koupelen (sprch) a WC</td><td>60 m<sup>3</sup></td><td></td></tr><tr><td>20.</td><td>hotely bez restaurací<br> (WC a koupelny-sprchy jsou na chodbě společné) na jedno lůžko</td><td>36 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2"></td><td>ubytovny (umyvadla, WC bez koupelen či sprch) </td><td rowspan="2"></td><td></td></tr><tr><td>na jedno lůžko</td><td></td></tr><tr><td>21.</td><td>do 5 hostinských pokojů</td><td>18 m<sup>3</sup></td><td></td></tr><tr><td>22.</td><td>do 20 hostinských pokojů</td><td>24 m<sup>3</sup></td><td></td></tr><tr><td>23.</td><td>nad 20 hostinských pokojů</td><td>30 m<sup>3</sup></td><td></td></tr><tr><td></td><td>v případě, že lze použít koupelny, připočte se k jednotlivým směrným číslům na jedno lůžko 10 m<sup>3</sup></td><td></td><td></td></tr><tr><td colspan="3">IV. ZDRAVOTNICKÁ A SOCIÁLNÍ ZAŘÍZENÍ</td><td></td></tr><tr><td rowspan="3">24.</td><td>zdravotnická střediska, ambulatoria, lékařské ordinace (umyvadla, WC) </td><td></td><td></td></tr><tr><td>na jednoho pracovníka</td><td>18 m<sup>3</sup></td><td></td></tr><tr><td>na jednu ošetřovanou osobu v denním průměru</td><td>2 m<sup>3</sup></td><td></td></tr><tr><td rowspan="6">25.</td><td>jesle s denním provozem</td><td rowspan="2"></td><td></td></tr><tr><td>(WC, kuchyně, umývárna s přípravou teplé vody ke koupání nebo sprchování)</td><td></td></tr><tr><td>na jednoho pracovníka</td><td>18 m<sup>3</sup></td><td></td></tr><tr><td>na 1 lůžko</td><td>12 m<sup>3</sup></td><td></td></tr><tr><td>lékárny (WC, umyvadla) </td><td></td><td></td></tr><tr><td>na jednoho pracovníka </td><td></td><td></td></tr><tr><td>26.</td><td>s destilačním přístrojem</td><td>30 m<sup>3</sup></td><td></td></tr><tr><td>27.</td><td>bez destilačního přístroje</td><td>20 m<sup>3</sup></td><td></td></tr><tr><td rowspan="3">28.</td><td>hygienicko-epidemiologická stanice<br> (WC, umyvadla) </td><td></td><td></td></tr><tr><td>na jednoho pracovníka</td><td>20 m<sup>3</sup></td><td></td></tr><tr><td>na jednu vyšetřovanou osobu v denním průměru</td><td>4 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">29.</td><td>zubní střediska s celoročním provozem<br> (WC, umyvadla) </td><td></td><td></td></tr><tr><td>na jednoho pracovníka</td><td>38 m<sup>3</sup></td><td></td></tr><tr><td></td><td>na jednu ošetřovanou osobu v denním průměru </td><td>2 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">30.</td><td>očistné lázně s celoročním provozem</td><td></td><td></td></tr><tr><td>vanová lázeň na 1 koupání</td><td>240 l</td><td></td></tr><tr><td>31.</td><td>sprchová lázeň na jedno sprchování</td><td>120 l</td><td></td></tr><tr><td colspan="3">V. KULTURNÍ A OSVĚTOVÉ PODNIKY</td><td></td></tr><tr><td rowspan="2">32.</td><td>kina a divadla s celoročním provozem(WC, umyvadla)</td><td></td><td></td></tr><tr><td>na jedno sedadlo při jednom představení denně</td><td>0,6 m<sup>3</sup></td><td></td></tr><tr><td>33.</td><td>klubovny, společenské nebo kulturní místnosti<br> (WC, umyvadla k dispozici)</td><td>10 m<sup>3</sup></td><td></td></tr><tr><td rowspan="3">34.</td><td>přednáškové síně, knihovny, čítárny, studovny a muzea<br> (WC a umyvadla k dispozici)</td><td></td><td></td></tr><tr><td>na jednoho stálého pracovníka</td><td>20 m<sup>3</sup></td><td></td></tr><tr><td>na jednoho návštěvníka v denním průměru</td><td>2 m<sup>3</sup></td><td></td></tr><tr><td colspan="3">VI. PROVOZOVNY, PRODEJNY A VÝROBNY</td><td></td></tr><tr><td rowspan="2"></td><td>pohostinství — restaurace<br> (WC, umyvadla)</td><td rowspan="2"></td><td></td></tr><tr><td>na jednoho pracovníka v jedné směně</td><td></td></tr><tr><td>35.</td><td>kde je jen výčep</td><td>30 m<sup>3</sup></td><td></td></tr><tr><td>36.</td><td>kde je výčep a podávání studených jídel</td><td>50 m<sup>3</sup></td><td></td></tr><tr><td>37.</td><td>kde je výčep, podávání studených a teplých jídel</td><td>80 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">38.</td><td>výčepní pult s trvalým průtokem<br> 3 l/min. (připočítává se k položkám 35—37) —</td><td></td><td></td></tr><tr><td>za jednu směnu ročně</td><td>450 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">39.</td><td>jídelny závodního stravování,<br> kde se jídlo dováží (WC, umyvadla) </td><td></td><td></td></tr><tr><td>na 1 strávníka v denním průměru</td><td>6 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">40.</td><td>závodní kuchyně a jídelny<br> (WC, umyvadla)</td><td></td><td></td></tr><tr><td>na jednoho strávníka v denním průměru</td><td>12 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2"></td><td>provozovny místního významu kde se voda nepoužívá k výrobě,</td><td rowspan="2"></td><td></td></tr><tr><td>na jednoho pracovníka v jedné směně</td><td></td></tr><tr><td>41.</td><td>pouze s výtoky</td><td>6 m<sup>3</sup></td><td></td></tr><tr><td>42.</td><td>s výtoky a WC</td><td>16 m<sup>3</sup></td><td></td></tr><tr><td>42.</td><td>s výtoky a WC</td><td>16 m<sup>3</sup></td><td></td></tr><tr><td>43.</td><td>s výtoky, WC a přípravou teplé vody v průtokovém ohřívači (bojleru)</td><td>20 m<sup>3</sup></td><td></td></tr><tr><td>44.</td><td>s výtoky, WC, přípravou teplé vody v průtokovém ohřívači (bojleru) a s možností sprchování teplou vodou</td><td>30 m<sup>3</sup></td><td></td></tr><tr><td>45.</td><td>s výtoky, WC, přípravou teplé vody v průtokovém ohřívači (bojleru) a možností sprchování teplou vodou v provozovnách s nečistým provozem (kominíci, teplé a prašné provozy apod.)</td><td>40 m<sup>3</sup></td><td></td></tr><tr><td rowspan="3">46.</td><td>samostatné prádelny (zakázkové) </td><td></td><td></td></tr><tr><td>na 1 q vypraného prádla (tzv. technologická voda)</td><td>6 m<sup>3</sup></td><td></td></tr><tr><td>na jednoho pracovníka v jedné směně podle položek 41—45</td><td></td><td></td></tr><tr><td rowspan="2"></td><td>holičství a kadeřnictví<br> (WC, umyvadla)</td><td rowspan="2"></td><td></td></tr><tr><td>na jednoho pracovníka</td><td></td></tr><tr><td>47.</td><td>v pánské provozovně bez přípravy teplé vody (bez průtokového ohřívače, bojleru apod.)</td><td>16 m<sup>3</sup></td><td></td></tr><tr><td>48.</td><td>v pánské provozovně s přípravou teplé vody</td><td>40 m<sup>3</sup></td><td></td></tr><tr><td>49.</td><td>v pánské a dámské provozovně s přípravou teplé vody</td><td>40 m<sup>3</sup></td><td></td></tr><tr><td>50.</td><td>v dámské provozovně s přípravou teplé vody</td><td>60 m<sup>3</sup></td><td></td></tr><tr><td rowspan="4">51.</td><td>fotografické provozovny do 5 výrobních pracovníků<br> (WC, umyvadla, příprava teplé vody, laboratoř)</td><td></td><td></td></tr><tr><td>na 1 výrobního pracovníka</td><td>200 m<sup>3</sup></td><td></td></tr><tr><td>na 1 nevýrobního pracovníka </td><td>16 m<sup>3</sup></td><td></td></tr><tr><td>v<b></b>provozovnách s více než 5 výrobními pracovníky se provádí individuální technický výpočet spotřeby vody</td><td></td><td></td></tr><tr><td rowspan="3">52.</td><td>potravinářské prodejny<br> (WC/umyvadla) </td><td></td><td></td></tr><tr><td>na 1 pracovníka</td><td>20 m<sup>3</sup></td><td></td></tr><tr><td>kde je chladicí zařízení s kompresorem chlazeným vodou bez recirkulace vody, vypočte se spotřeba vody individuálně</td><td></td><td></td></tr><tr><td rowspan="4">53.</td><td rowspan="2">prodejny ryb, drůbeže a zvěřiny<br> (WC, umyvadla)</td><td rowspan="2"></td><td></td></tr><tr><td></td></tr><tr><td>na jednoho pracovníka</td><td>20 m<sup>3</sup></td><td></td></tr><tr><td>na 100 kg prodaných živých ryb</td><td>34 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">54.</td><td>prodej ryb v jiné prodejně nebo jen v sádce na volném prostranství</td><td></td><td></td></tr><tr><td>na 100 kg živých ryb</td><td>6 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">55.</td><td>ostatní prodejny a sběrny služeb<br> (WC, umyvadla) </td><td></td><td></td></tr><tr><td>na jednoho pracovníka</td><td>16 m<sup>3</sup></td><td></td></tr><tr><td rowspan="4">56.</td><td>potravinářské výrobny místního<br> významu</td><td rowspan="2"></td><td></td></tr><tr><td>jako řeznictví, výroba uzenin, salátů, pečivá apod. (WC a umyvadla)</td><td></td></tr><tr><td>na jednoho pracovníka</td><td>36 m<sup>3</sup></td><td></td></tr><tr><td>spotřeba vody k výrobě se vypočte podle technologie výroby a vybavení prodejny</td><td></td><td></td></tr><tr><td colspan="3">VII. HOSPODÁŘSKÁ ZVÍŘATA A DRŮBEŽ</td><td></td></tr><tr><td rowspan="2"></td><td>hospodářská zvířata</td><td rowspan="2"></td><td></td></tr><tr><td>na jeden kus</td><td></td></tr><tr><td>57.</td><td>dojnice včetně ošetřování mléka</td><td>22 m<sup>3</sup></td><td></td></tr><tr><td></td><td>z toho spotřeba vody pro mléčnici</td><td>4 m<sup>3</sup></td><td></td></tr><tr><td>58.</td><td>býk</td><td>18 m<sup>3</sup></td><td></td></tr><tr><td>59.</td><td>tele, ovce, koza, vepř</td><td>4 m<sup>3</sup></td><td></td></tr><tr><td>60.</td><td>prasnice</td><td>8 m<sup>3</sup></td><td></td></tr><tr><td>61.</td><td>kůň</td><td>16 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2"></td><td>drůbež</td><td rowspan="2"></td><td></td></tr><tr><td>na 100 ks</td><td></td></tr><tr><td>62.</td><td>slepice, perličky, krůty</td><td>16 m<sup>3</sup></td><td></td></tr><tr><td>63.</td><td>husy, kachny</td><td>48 m<sup>3</sup></td><td></td></tr><tr><td colspan="3">VIII. RŮZNÉ</td><td></td></tr><tr><td>64.</td><td>zahrady okrasné nebo osázené zeleninou</td><td></td><td></td></tr><tr><td></td><td>na jeden ar</td><td>16 m<sup>3</sup></td><td></td></tr><tr><td rowspan="2">65.</td><td>zahrady osázené ovocnými stromy nebo jinak využívané</td><td></td><td></td></tr><tr><td>na jeden ar</td><td>4 m<sup>3</sup></td><td></td></tr><tr><td>66.</td><td>osobní nebo dodávkové auto<br> (stříkání a umývání)</td><td>30 m<sup>3</sup></td><td></td></tr><tr><td></td><td>autobus nebo nákladní auto<br> (stříkání a umývání)</td><td></td><td></td></tr><tr><td>67.</td><td>do tří tun nosnosti</td><td>60 m<sup>3</sup></td><td></td></tr><tr><td>68.</td><td>nad tři tuny nosnosti</td><td>80 m<sup>3</sup></td><td></td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) ČSN 73 6005 — Prostorová úprava vedení technického vybavení.
+
+<sup>2</sup>) ČSN 73 7505 — Kolektory pro sdružené trasy městských podzemních vedení.
+
+<sup>3</sup>) Směrnice Státního výboru pro výstavbu a Ústřední správy vodního hospodářství č. 129/1957 Ú. v. o způsobu plánování, financování, projektování a provádění vodovodních a kanalizačních přípojek.
+
+<sup>4</sup>) Hydroforová stanice je čerpací zařízení místního významu zabezpečující automatickou dodávku vody v podobném tlaku tlakovou nádobou. ON 73 6521 — Názvosloví vodárenství.
+
+<sup>5</sup>) Kanalizační přečerpací stanice je čerpací zařízení místního významu k přečerpání odpadních vod z nemovitostí do výše uložených stokových sítí veřejné kanalizace.
+
+<sup>6</sup>) § 69 vyhlášky federálního ministerstva pro technický a investiční rozvoj č. 163/1973 Sb., o dokumentaci staveb, § 43 vyhlášky č. 104/1973 Sb., kterou se vydávají základní podmínky dodávky stavebních prací, a § 4 odst. 3 vyhlášky Slovenského úřadu geodézie a kartografie č. 11/1974 Sb., o geodetických pracích ve výstavbě.
+
+<sup>7</sup>) ČSN 73 0402 — Názvosloví mapování.
+
+<sup>8</sup>) Poskytnutím se rozumí umožnění nahlédnout do souborného zpracování geodetických prací tvořících součást dokumentace skutečného provedení celé stavby nebo do dokladů dodavatele, zapůjčení těchto elaborátů, odevzdání kopií a výpisů nebo převedení jejich originálů k archivování. Investor před skartací odevzdá správci měřické záznamy a náčrty k provedeným pracím. Je-li vyhotovena technická mapa města, správce na jejích otiscích vyznačuje podzemní vedení veřejného vodovodu a veřejné kanalizace a na žádost pořizovatele této mapy mu poskytne podklady pro její údržbu.
+
+<sup>9</sup>) § 24 odst. 2 zákona č. 138/1973 Sb., o vodách (vodní zákon). Směrnice ministerstva lesního a vodního hospodářství Slovenské socialistické republiky ze dne 22. 9. 1975 čj. 313/1975-240 pro vypracování návrhů kanalizačních řádů — publikovány ve Zpravodaji MLVH SSR v částce 5/1975 — registrovány v částce 37/1975 Sb.
+
+<sup>10</sup>) Oddílná soustava je stoková soustava, která odvádí jednotlivé druhy nebo skupiny odpadních vod odděleně. (ON 73 6522 — Názvosloví kanalizace, čl. 14).
+
+<sup>11</sup>) § 9 zákona č. 138/1973 Sb., o vodách (vodní zákon). 
+ Vyhláška ministerstva lesního a vodního hospodářství Slovenské socialistické republiky č. 98/1975 Sb., o vodovodních a kanalizačních přípojkách, které považují za vodohospodářská díla. 
+ Směrnice Státního výboru pro výstavbu a Ústřední správy vodního hospodářství č. 129/1957 Ú. v., o způsobu plánování, financování, projektování a provádění vodovodních a kanalizačních přípojek.
+
+<sup>12</sup>) ČSN 73 6660 — Vnitřní vodovody. 
+ ČSN 73 6760 — Vnitřní kanalizace.
+
+<sup>13</sup>) § 139 odst. 4 zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon).
+
+<sup>14</sup>) Vyhláška Úřadu pro normalizaci a měření č. 61/1963 Sb., o zajišťování správnosti měřidel a měření, ve znění vyhlášky Úřadu pro normalizaci a měření č. 102/1967 Sb.
+
+<sup>15</sup>) ČSN 25 7801 — Vodoměry — Všeobecná ustanovení.
+
+<sup>16</sup>) Podružný vodoměr je vodoměr osazený za hlavním vodoměrem na potrubí vnitřního vodovodu, který měří část množství vody dodávané odběrateli. Slouží k určení množství vody odebírané jednotlivými spotřebiteli.
+
+<sup>17</sup>) ČSN 83 0611 — Pitná voda.
+
+<sup>18</sup>) § 30 odst. 3 zákona č. 138/1973 Sb., o vodách (vodní zákon).
+
+<sup>19</sup>) ČSN 73 6622 — Požární vodovody (čl. 69).
+
+<sup>20</sup>) ČSN 73 6660 — Vnitřní vodovody.
+
+<sup>21</sup>) § 24 odst. 3 zákona č. 138/1973 Sb., o vodách (vodní zákon).
+
+<sup>22</sup>) ČSN 83 0604 — Kontrola odpadních vod.
+
+<sup>23</sup>) Kanalizační řád vypracovaný podle směrnic ministerstva lesního a vodního hospodářství Slovenské socialistické republiky ze dne 22. 9. 1975 čj. 133/1975-240 pro vypracování návrhů kanalizačních řádů a schválený vodohospodářským orgánem.
+
+<sup>24</sup>) ČSN 73 6760 — Vnitřní kanalizace, ČSN 73 6701 — Stokové sítě a kanalizační přípojky a ČSN 83 0604 — Kontrola odpadních vod.
+
+<sup>25</sup>) § 46 zákona č. 138/1973 Sb., o vodách (vodní zákon). 
+ Ceník velkoobchodních a maloobchodních cen — obor 795, evid. č. VC-MC-17/9, vydaný ministerstvem lesního a vodního hospodářství ČSR a SSR po projednání s Českým cenovým úřadem (čj. 22/2229/74 z 30. 9. 1974), Slovenským cenovým úřadem (čj. 572/12/74 z 3. 10. 1974) se souhlasem Federálního cenového úřadu (čj. 10 067/1976 z 22. 6. 1976) (Cenový věstník, částka 28/1976, příloha k pokynu Federálního cenového úřadu č. 42 z 25. 6. 1976). Do ceníku lze nahlédnout v podnicích vodáren a kanalizací a v jejich odštěpných závodech.
+
+<sup>26</sup>) Vyhláška federálního ministerstva financí č. 154/1975 Sb., o fakturování a placení dodávek neinvestiční povahy.
+
+<sup>27</sup>) § 392 odst. 1 hospodářského zákoníku č. 109/1964 Sb. (úplné znění vyhlášené pod č. 37/1971 Sb.).

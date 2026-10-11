@@ -1,0 +1,92 @@
+---
+title: "Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky a Ministerstva spravodlivosti Slovenskej socialistickej republiky č. 78/1981 Sb., ktorou sa mení a dopĺňa vyhláška č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení vyhlášky č. 84/1967 Zb."
+identifier: "78/1981 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1981/78/1981-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1981-07-15
+effective: 1981-09-01
+last_amended: 1981-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1981/78"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva zdravotníctva Slovenskej socialistickej republiky a Ministerstva spravodlivosti Slovenskej socialistickej republiky č. 78/1981 Sb., ktorou sa mení a dopĺňa vyhláška č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení vyhlášky č. 84/1967 Zb.
+
+78
+
+VYHLÁŠKA
+
+Ministerstva zdravotníctva Slovenskej socialistickej republiky a Ministerstva spravodlivosti Slovenskej socialistickej republiky
+
+z 15. júla 1981,
+
+ktorou sa mení a dopĺňa vyhláška č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení vyhlášky č. 84/1967 Zb.
+
+Ministerstvo zdravotníctva Slovenskej socialistickej republiky a Ministerstvo spravodlivosti Slovenskej socialistickej republiky po dohode so Slovenskou odborovou radou a s ostatnými zúčastnenými ústrednými orgánmi podľa § 203 ods. 2 Zákonníka práce č. 65/1965 Zb. (úplné znenie vyhlásené pod č. 55/1975 Zb.) a § 508 ods. 1 Občianskeho zákonníka č. 40/1964 Zb. ustanovujú:
+
+## Čl. I
+
+Vyhláška č. 32/1965 Zb. o odškodňovaní bolesti a sťaženia spoločenského uplatnenia v znení vyhlášky č. 84/1967 Zb. sa mení a dopĺňa takto:
+
+1\. § 2 ods. 3 sa vypúšťa. Doterajší odsek 4 sa označuje ako odsek 3.
+
+2\. § 4 ods. 3 sa vypúšťa. Doterajší odsek 4 sa označuje ako odsek 3.
+
+3\. § 7 ods. 1 a 2 vrátane nadpisu znie:
+
+> **„§ 7 – Výška odškodnenia**
+
+> (1) Výška odškodnenia za bolesť a za sťaženie spoločenského uplatnenia sa určuje sumou 15 Kčs za jeden bod.
+
+> (2) Celková výška odškodnenia za bolesť a za sťaženie spoločenského uplatnenia z jedného poškodenia na zdraví nesmie presiahnuť sumu 60 000 Kčs; z toho odškodnenie za bolesť nesmie presiahnuť sumu 18 000 Kčs, a to ani s pripočítaním odškodnenia podľa § 3 ods. 2.“.
+
+4\. § 9 ods. 4 znie:
+
+> „(4) Ak ide o chorobu z povolania, profesionálnu otravu alebo iné poškodenie zdravia pri práci,<sup>1</sup>) podáva posudok výlučne oddelenie (klinika) pracovného lekárstva nemocnice s poliklinikou príslušné podľa sídla pracoviska poškodeného; ak ide o také poškodenie na zdraví v odbore vojenskej správy, podáva posudok vojenská nemocnica.“.
+
+5\. § 12 znie:
+
+> **„§ 12**
+
+> Posudok možno preskúmať podľa predpisov o rozhodovaní pri výkone zdravotníckych služieb.<sup>2</sup>)“.
+
+6\. Príloha vyhlášky sa v časti B mení a dopĺňa takto:
+
+a) Oddiel III sa dopĺňa o položku 41b, ktorá znie:
+
+> | „41b Ochorenie kostí, kĺbov, šliach a nervov končatín z dlhodobého, nadmerného a jednostranného zaťaženia | 30 - 150“. |
+> |---|---|
+
+b) V oddiele IV položka 100 znie:
+
+> | „100. Ťažká nedoslýchavosť až hluchota z hluku | 200 - 650“. |
+> |---|---|
+
+c) Oddiel IV sa dopĺňa o položky 106 a 107, ktoré znejú:
+
+> | „106. Profesionálna astma bronchiale | 200 - 1300 |
+> |---|---|
+> | 107. Ochorenie kostí, kĺbov, šliach a nervov končatín z dlhodobého, nadmerného a jednostranného zaťaženia | 150 - 400“. |
+
+Bolesti a sťaženie spoločenského uplatnenia z poškodenia na zdraví spôsobené predo dňom začiatku účinnosti tejto vyhlášky, a pokiaľ ide o chorobu z povolania z takej choroby, ktorá bola zistená pred týmto dňom, sa posudzujú podľa doterajších predpisov.
+
+## Čl. III
+
+Táto vyhláška nadobúda účinnosť 1. septembrom 1981.
+
+Minister spravodlivosti SSR:
+
+JUDr. Király v. r.
+
+Minister zdravotníctva SSR:
+
+Prof. MUDr. Matejíček DrSc. v. r.
+
+---
+
+<sup>1</sup>) Smernice č. 4/1974 Vestníka Ministerstva zdravotníctva SSR o hlásení a evidencii chorôb z povolania, profesionálnych otráv a iných poškodení zdravia pri práci (registrované v čiastke 18/1974 Zb.).
+
+<sup>2</sup>) § 77 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu.

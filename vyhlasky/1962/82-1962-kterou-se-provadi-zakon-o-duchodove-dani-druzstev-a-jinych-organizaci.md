@@ -1,0 +1,44 @@
+---
+title: "Vyhláška Ministerstva financí č. 82/1962 Sb., kterou se provádí zákon o důchodové dani družstev a jiných organizací"
+identifier: "82/1962 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1962/82/1963-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1962-08-03
+effective: 1963-01-01
+last_amended: 1963-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1962/82"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva financí č. 82/1962 Sb., kterou se provádí zákon o důchodové dani družstev a jiných organizací
+
+82.
+
+VYHLÁŠKA
+
+ministerstva financí
+
+ze dne 3. srpna 1962
+
+o změně vyhlášky, kterou se provádí zákon o důchodové dani družstev a jiných organizací
+
+K provedení usnesení vlády ze dne 12. července 1962, kterým byly osvobozeny s účinností od 1. ledna 1963 podniky některých dobrovolných organizací od důchodové daně družstev a jiných organizací, stanoví ministerstvo financí podle § 11 odst. 3 písm. d) zákona č. 75/1952 Sb., o důchodové dani družstev a jiných organizací, ve znění zákona č. 59/1956 Sb.:
+
+## Čl. I
+
+Vyhláška ministerstva financí č. 128/1960 Sb., kterou se provádí zákon o důchodové dani družstev a jiných organizací, se mění takto:
+
+1\. § 1 odst. 2 zní: „Podle § 1 odst. 1 písm. b) zákona podléhají dani podniky těchto organizací: Čs. svazu zahrádkářů a ovocnářů, Čs. mysliveckého svazu, Čs. svazu rybářů, Čs. svazu včelařů, socialistických sdružení osob a spolků zřízených podle dřívějších všeobecných předpisů o spolčování a společné družstevní podniky jednotných zemědělských družstev.“
+
+2\. Kde se v dalších ustanoveních vyhlášky č. 128/1960 Sb. používá vymezení „podniky dobrovolných a jiných organizací“ [§ 3 odst. 2, § 4 odst. 2 druhá věta, § 5 odst. 3 a odst. 6 předposlední věta, § 7 odst. 3 písm. g)], rozumějí se tím podniky uvedené v bodě 1.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1963.
+
+První náměstek ministra:
+
+Dvořák v. r.

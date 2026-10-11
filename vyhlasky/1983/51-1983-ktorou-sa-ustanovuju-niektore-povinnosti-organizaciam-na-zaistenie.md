@@ -1,0 +1,111 @@
+---
+title: "Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 51/1983 Sb., ktorou sa ustanovujú niektoré povinnosti organizáciám na zaistenie bezpečnosti práce pri dovážaných technických zariadeniach"
+identifier: "51/1983 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1983/51/1983-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1983-03-09
+effective: 1983-10-01
+last_amended: 1983-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1983/51"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 51/1983 Sb., ktorou sa ustanovujú niektoré povinnosti organizáciám na zaistenie bezpečnosti práce pri dovážaných technických zariadeniach
+
+51
+
+VYHLÁŠKA
+
+Slovenského úradu bezpečnosti práce a Slovenského banského úradu
+
+z 9. marca 1983,
+
+ktorou sa ustanovujú niektoré povinnosti organizáciám na zaistenie bezpečnosti práce pri dovážaných technických zariadeniach
+
+Slovenský úrad bezpečnosti práce podľa § 5 ods. 1 písm. d) zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce a Slovenský banský úrad podľa § 57 ods. 1 písm. d) zákona č. 41/1957 Zb. o využití nerastného bohatstva (banský zákon) a podľa § 10 písm. a) zákona Slovenskej národnej rady č. 42/1972 Zb. o organizácii a o rozšírení dozoru štátnej banskej správy ustanovujú po dohode s príslušnými ústrednými orgánmi:
+
+## § 1
+
+(1) Vyhláška sa vzťahuje na organizácie, ktoré uzavierajú hospodárske zmluvy o dovoze technických zariadení (ďalej len „odberatelia“) s organizáciami zahraničného obchodu alebo s československými právnickými osobami, ktoré majú povolenie na zahraničnoobchodnú činnosť a sú socialistickými organizáciami.
+
+(2) Odberateľmi podľa tejto vyhlášky sú i organizácie, ktoré majú povolenie na zahraničnoobchodnú činnosť, ak dovážajú technické zariadenia pre vlastnú potrebu.
+
+## § 2
+
+(1) Dovážanými technickými zariadeniami podľa tejto vyhlášky sú:
+
+a) vyhradené tlakové zariadenia<sup>1</sup>) vrátane vodoznakov a poistných ventilov kotlov a vyhradené zdvíhacie zariadenia,<sup>2</sup>) ktoré sa dovážajú samostatne alebo ako súčasť investičného celku,
+
+b) stroje, súbory strojov a technických zariadení spracúvajúce rôzne látky, suroviny alebo polotovary tak, že ich obrábajú, upravujú, pretvárajú, spájajú, miesia, triedia, sušia alebo podrobujú iným procesom, dovážané samostatne alebo ako súčasť investičného celku,
+
+c) vyhradené elektrické zariadenia<sup>3</sup>) a vyhradené plynové zariadenia,<sup>4</sup>) ktoré sa dovážajú ako súčasť investičného celku (ďalej len „dovážané zariadenia“).
+
+(2) Stroje, súbory strojov a technických zariadení uvedené v odseku 1 písm. b), ktoré podliehajú dozoru orgánov štátnej banskej správy, určuje osobitný predpis.<sup>5</sup>)
+
+(3) Za dovážané zariadenia sa nepovažujú zariadenia, ktoré podliehajú schvaľovaniu orgánov štátneho skúšobníctva.<sup>6</sup>)
+
+## § 3
+
+(1) Dovážané zariadenia posudzuje z hľadiska bezpečnosti práce a technických zariadení inšpektorát bezpečnosti práce<sup>7</sup>) príslušný podľa sídla odberateľa alebo Slovenský úrad bezpečnosti práce, ak si výkon dozoru vyhradí,<sup>8</sup>) a ak dovážané zariadenie podlieha podľa osobitných predpisov<sup>9</sup>) dozoru orgánov štátnej banskej správy, Slovenský banský úrad (ďalej len „orgán dozoru“).
+
+(2) Predmetom posúdenia sú prvé kusy dovážaných zariadení uvedených v § 2 ods. 1 písm. a) a b) a všetky dovážané zariadenia uvedené v § 2 ods. 1 písm. c).
+
+(3) Za prvý kus dovážaného zariadenia sa považuje zariadenie, ktoré
+
+a) nebolo doteraz dovezené,
+
+b) bolo už skôr dovezené, avšak došlo na ňom k zmenám, ktoré podstatne ovplyvňujú bezpečnosť práce a technických zariadení.
+
+(4) Ak vznikne pochybnosť o tom, či ide o zmenu, ktorá podstatne ovplyvňuje bezpečnosť práce a technických zariadení, je príslušný vec posúdiť orgán dozoru.
+
+## § 4
+
+(1) Odberateľ je povinný pred uzavretím hospodárskej zmluvy o dovoze
+
+a) písomne požiadať orgán dozoru o posúdenie dovážaného zariadenia, uviesť jeho technickú charakteristiku, základné vlastnosti, miesto a spôsob používania, množstvo v akom má byť dovezené, predpokladaný termín dovozu a organizáciu zahraničného obchodu,
+
+b) uviesť, aké požiadavky na zaistenie bezpečnosti práce a technických zariadení ustanovené všeobecne záväznými predpismi a technickými normami uplatní v návrhu hospodárskej zmluvy o dovoze,
+
+c) navrhnúť zodpovedajúce náhradné opatrenia, ak dovážané zariadenie nezodpovedá požiadavkám bezpečnosti práce a technických zariadení.
+
+(2) Odberateľ je povinný na výzvu orgánu dozoru doplniť údaje uvedené v odseku 1.
+
+## § 5
+
+Orgán dozoru po písomnom požiadaní o posúdenie dovážaného zariadenia vydá odberateľovi najneskôr do 30 dní vyjadrenie (stanovisko) s prípadnými náhradnými opatreniami. Ak bude predmetom hospodárskej zmluvy dovážané zariadenie vystavené v Československej socialistickej republike, vydá orgán dozoru odborné vyjadrenie (stanovisko) s prípadnými náhradnými opatreniami do 5 dní od písomného požiadania.
+
+## § 6
+
+Vyhláška nadobúda účinnosť 1. októbrom 1983.
+
+Predseda Slovenského banského úradu:
+
+Ing. Baran CSc. v. r.
+
+Riaditeľ Slovenského úradu bezpečnosti práce:
+
+Ing. Macháč v. r.
+
+---
+
+<sup>1</sup>) Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 23/1979 Zb., ktorou sa určujú vyhradené tlakové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti.
+
+<sup>2</sup>) Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 24/1979 Zb., ktorou sa určujú vyhradené zdvíhacie zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti.
+
+<sup>3</sup>) Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 25/1979 Zb., ktorou sa určujú vyhradené elektrické zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti.
+
+<sup>4</sup>) Vyhláška Slovenského úradu bezpečnosti práce a Slovenského banského úradu č. 26/1979 Zb., ktorou sa určujú vyhradené plynové zariadenia a ustanovujú niektoré podmienky na zaistenie ich bezpečnosti.
+
+<sup>5</sup>) § 2 ods. 1 úpravy Slovenského banského úradu č. 4400/1980, ktorou sa vydáva zoznam vybraných strojových a elektrických zariadení a určujú podmienky organizáciám na overovaciu prevádzku a používanie týchto zariadení (registrované v čiastke 9/1981 Zb.).
+
+<sup>6</sup>) Zákon č. 30/1968 Zb. o štátnom skúšobníctve.
+
+<sup>7</sup>) Vyhláška Slovenského úradu bezpečnosti práce č. 36/1970 Zb. o zriadení inšpektorátov bezpečnosti práce doplnená vyhláškou č. 15/1977 Zb.
+
+<sup>8</sup>) § 5 ods. 1 písm. h) zákona č. 174/1968 Zb. o štátnom odbornom dozore nad bezpečnosťou práce.
+
+<sup>9</sup>) Zákon č. 41/1957 Zb. o využití nerastného bohatstva (banský zákon). 
+ Zákon Slovenskej národnej rady č. 42/1972 Zb. o organizácii a o rozšírení dozoru štátnej banskej správy.

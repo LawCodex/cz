@@ -1,0 +1,189 @@
+---
+title: "Zákon č. 113/1979 Sb., kterým se mění a doplňuje zákon o zemědělské dani"
+identifier: "113/1979 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1979/113/1980-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1979-10-25
+effective: 1980-01-01
+last_amended: 1980-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1979/113"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 113/1979 Sb., kterým se mění a doplňuje zákon o zemědělské dani
+
+113
+
+ZÁKON
+
+ze dne 25. října 1979,
+
+kterým se mění a doplňuje zákon o zemědělské dani
+
+Federální shromáždění Československé socialistické republiky se usneslo na tomto zákoně:
+
+## Čl. I
+
+Zákon č. 103/1974 Sb., o zemědělské dani, ve znění pozdějších předpisů (úplné znění č. 74/1977 Sb.), se mění a doplňuje takto:
+
+1\. V § 1 se vypouští ustanovení písmena c).
+
+2\. § 5 odst. 2 písm. a) zní:
+
+> „a) pozemky patřící k rodinným domkům, jakož i zahrady členů jednotných zemědělských družstev, které souvisejí s pozemkem, na němž je obytná budova, nebo jsou v zastavěné části obce, <sup>3a</sup>) činí-li jejich úhrnná výměra mimo zastavěnou plochu nejvýše 800 m<sup>2</sup>,“.
+
+3\. V § 5 odst. 2 vypouští ustanovení písmena c).
+
+4\. § 8 písm. b) zní:
+
+> „b) státní statky, státní hospodářské organizace vojenských lesů a statků, státní hospodářské organizace výzkumné a vývojové základny zemědělské výroby a zemědělských služeb a další státní hospodářské organizace odvětví zemědělství a výživy určené federálním ministerstvem financí v dohodě s příslušným ministerstvem financí republiky,“.
+
+5\. V § 12 odst. 1 písm. b) se vypouštějí slova:
+
+> „přidělených do fondu výstavby“.
+
+6\. § 12 odst. 2 písm. b) zní:
+
+> „b) přirážky k úplatě za vypouštění odpadních vod.“.
+
+7\. V § 13 odst. 1 se vypouští ustanovení písmena b).
+
+8\. § 14 včetně nadpisu zní:
+
+> **„§ 14 – Sazba daně**
+
+> (1) Sazba daně, s výjimkou podle odstavce 4, ze základu daně
+
+> <table><tbody><tr><th>při rentabilitě % </th><th colspan="2">činí %</th></tr><tr><td>do 5</td><td>0</td><td></td></tr><tr><td>nad 5 do 15</td><td>0</td><td>+ 2,– à</td></tr><tr><td>nad 15 do 20</td><td>20,–</td><td>+ 1,9 à</td></tr><tr><td>nad 20 do 25</td><td>29,5</td><td>+ 1,5 à</td></tr><tr><td>nad 25 do 30</td><td>37,–</td><td>+ 1,2 à</td></tr><tr><td>nad 30 do 35</td><td>43,–</td><td>+ 0,9 à</td></tr><tr><td>nad 35 do 40</td><td>47,5</td><td>+ 0,7 à</td></tr><tr><td>nad 40 do 48</td><td>51,–</td><td>+ 0,5 à</td></tr><tr><td>nad 48</td><td>55,–</td><td></td></tr></tbody></table>
+
+> (2) Rentabilita se vypočítává s přesností na setiny jako poměr bilančního zisku sníženého o zaplacenou daň z pozemků a zvýšeného o připočitatelnou položku podle § 12 odst. 1 písm. a) k nákladům celkem sníženým o připočitatelnou položku podle § 12 odst. 1 písm. a) a zvýšeným o hodnotu nakoupených zvířat.
+
+> (3) Činitel „á“ se rovná procentu rentability přesahujícímu spodní hranici příslušného pásma daně s přesností na setiny.
+
+> (4) Sazba daně u organizací zemědělského zásobování a nákupu, strojních a traktorových stanic, opraven zemědělských strojů, generálních ředitelství, sdružení státních hospodářských organizací a poplatníků v likvidaci činí 50 % ze základu daně; po ukončení likvidace 50 % z případného likvidačního přebytku.“.
+
+9\. § 15 a 16 včetně nadpisu se vypouštějí.
+
+10\. Část třetí se vypouští.
+
+11\. § 27 včetně nadpisu zní:
+
+> **„§ 27 – Poplatníci**
+
+> Příspěvek na sociální zabezpečení (dále jen „příspěvek“) odvádějí organizace zemědělského zásobování a nákupu, státní hospodářské organizace vojenských lesů a statků, generální ředitelství a sdružení státních hospodářských organizací, pokud alespoň polovina podřízených, popřípadě sdružených organizací má povinnost odvádět příspěvek podle tohoto zákona. Federální ministerstvo financí může v dohodě s příslušným ministerstvem financí republiky stanovit, které další organizace určené v § 8 za poplatníky daně ze zisku odvádějí příspěvek.“.
+
+12\. § 28 odst. 1 zní:
+
+> „(1) Základem příspěvku je objem mzdových prostředků zúčtovaný v běžném roce k výplatě, snížený o odměny uvedené v odstavci 3.“.
+
+13\. V § 28 se vypouští odstavec 2.
+
+14\. § 29 včetně nadpisu zní:
+
+> **„§ 29 – Sazba příspěvku**
+
+> Sazba příspěvku činí 10 % ze základu.“.
+
+15\. § 31 písm. b) zní:
+
+> „b) pracovníci a členové socialistických zemědělských organizací, státních organizací, které plní vědeckovýzkumné úkoly a úkoly výuky pro odvětví zemědělství, vojenských lesů a statků, státních organizací lesního a vodního hospodářství, školních lesních podniků vysokých škol a státních hospodářství lesnických škol a učilišť z příjmů ze zemědělské výroby na pozemcích, které jim byly těmito organizacemi přenechány do dočasného užívání; osvobození se však nevztahuje na příjmy z pěstování zvláštních kultur a ze specializované živočišné výroby;“.
+
+16\. V § 40 odst. 2, v § 41 odst. 4 a v § 48 odst. 4 se vypouštějí slova:
+
+> „daň z překročení mezd a odměn“.
+
+17\. V § 45 odst. 2 písm. e) se vypouštějí slova: „včetně zvýšení za nezemědělskou činnost“.
+
+18\. § 46 se vypouští.
+
+19\. V § 55 se vypouští odstavec 1.
+
+20\. § 56 odst. 2 písm. d) zní:
+
+> „d) rozhodnout o způsobu zdanění ve sporných případech a u nově vzniklých organizací zemědělské výroby a zemědělských služeb a dále u státních hospodářských organizací v odvětví zemědělství a výživy, u nichž došlo k výrazné změně ekonomických podmínek, rozhodnout o tom, zda budou platit daň ze zisku podle § 14 odst. 1 nebo odst. 4;“.
+
+21\. V § 57 se vypouští v citaci § 15, § 16, § 19, § 22, § 23, § 26.
+
+22\. § 59 se doplňuje odstavcem 4, který zní:
+
+> „(4) Poplatníci uvedení v § 45 odst. 1, kteří vykázali za rok 1979 rentabilitu podle § 14 odst. 1 nižší než 5,01 %, neplatí v roce 1980 zálohy na daň ze zisku a případnou daň vyrovnají ve lhůtě pro podání přiznání.“.
+
+23\. § 61 odst. 5 zní:
+
+> „(5) Státní hospodářské organizace zemědělské výroby a zemědělských služeb, které nemají povinnost platit příspěvek na sociální zabezpečení, jednotná zemědělská družstva, společné zemědělské podniky a meliorační družstva se osvobozují od placení pojistného nemocenského pojištění.<sup>16</sup>)“.
+
+## Čl. II
+
+Přílohy č. 1 a č. 2 k zákonu č. 103/1974 Sb., o zemědělské dani, se nahrazují novými přílohami č. 1 a č. 2 uvedenými v příloze tohoto zákona.
+
+## Čl. III
+
+(1) Daň z pozemků a daň z příjmů občanů ze zemědělské výroby podle tohoto zákona se vyměří poprvé na rok 1980 podle stavu k 1. lednu 1980. Příjmy z pěstování zvláštních kultur a ze specializované živočišné výroby se zdaní podle výše dosažené v roce 1979.
+
+(2) Daň ze zisku a příspěvek podle tohoto zákona se vyměří poprvé za kalendářní rok 1980.
+
+(3) Zrušují se:
+
+čl. 4 odst. 2, čl. 6 bod 19 a 20, čl. 10 odst. 2, čl. 11, čl. 12, čl. 13 vyhlášky federálního ministerstva financí č. 106/1974 Sb., kterou se provádí zákon o zemědělské dani
+
+(4) Tento zákon nabývá účinnosti dnem 1. ledna 1980.
+
+Husák v. r.
+
+Indra v. r.
+
+Štrougal v. r.
+
+### Příloha č. 1 k zákonu č. 113/1979 Sb.
+
+#### Sazebník daně z pozemků
+
+| Třída | Sazba daně na 1 ha<br> zemědělské půdy v Kčs | Přírodní stanoviště<sup>17</sup>) |
+|---|---|---|
+| 1 | 1500 | ČMt 14, ČM 15 |
+| 2 | 1300 | ČMt 9, ČM 1 |
+| 3 | 1100 | ČMt 15 |
+| 4 | 1000 | ČMt 1, ČM 2, HM 1 |
+| 5 | 900 | ČM 12 |
+| 6 | 800 | ČMt 2, HM 2 |
+| 7 | 750 | ČMt 8, ČM 3 |
+| 8 | 700 | ČMt 3, ČMt 6, ČM 13 |
+| 9 | 650 | ČMt 4, ČMt 16, HMt 1 |
+| 10 | 600 | ČMt 12, ČM 4, ČM 5, HM 3 |
+| 11 | 550 | HM 5 |
+| 12 | 500 | ČM 6, ČM 7, ČM 14, ČMt 10, ČMt 17 |
+| 13 | 400 | ČMt 13, ČM 9, ČM 10, HM 4 |
+| 14 | 350 | ČM 8, HM 6, HM 8, HM 14 |
+| 15 | 300 | ČMt 7, HMt 7 |
+| 16 | 250 | ČMt 5, ČMt 11, HMt 2, HM 15, P 1 |
+| 17 | 150 | ČMt 23, ČM 11, HM 7, HM 10, P 2, P 3, P 9 |
+| 18 | 100 | HM 13, P 19 |
+| 19 | 50 | HM 9, HM 11 |
+| 20 | - | ČMt 18 až 22, HMt 3 až 6, 8 až 13, HM 12, 16 až 24, P 4 až 8, 10 až 18, 20 až 31, V 1 až 16 H 1 až 17 |
+
+### Příloha č. 2 k zákonu č. 113/1979 Sb.
+
+#### Průměrné normy výnosnosti na 1 ha zemědělské půdy
+
+<table><tbody><tr><th>Skupina</th><th>Přírodní stanoviště<sup>18</sup>)</th><th>Průměrná norma výnosnosti v Kčs</th></tr><tr><td rowspan="3">I.</td><td>ČMt 1, 2, 9, 14, 15</td><td rowspan="3">5000</td></tr><tr><td>ČM 1, 2, 12, 15</td></tr><tr><td>HM 1, 2</td></tr><tr><td rowspan="5">II.</td><td>ČMt 3 až 8, 10 až 13, 16, 17, 23</td><td rowspan="5">4000</td></tr><tr><td>ČM 3 až 11, 13, 14</td></tr><tr><td>HMt 1, 2, 7</td></tr><tr><td>HM 3 až 11, 13, 14, 15</td></tr><tr><td>P 1 až 3, 9, 19</td></tr><tr><td rowspan="7">III.</td><td>ČMt 18 až 22</td><td rowspan="7">3000</td></tr><tr><td>HMt 3 až 6, 8 až 13</td></tr><tr><td>HM 12, 16 až 24</td></tr><tr><td>P 4 až 8, 10 až 14, 16, 17, 18,</td></tr><tr><td>20 až 27</td></tr><tr><td>V 1 až 4, 7, 8, 10 až 13</td></tr><tr><td>H 1, 7 až 10</td></tr><tr><td rowspan="3">IV.</td><td>P 15, 28 až 31</td><td rowspan="3">2200</td></tr><tr><td>V 5, 6, 9, 14 až 16</td></tr><tr><td>H 2 až 6, 11 až 17</td></tr></tbody></table>
+
+---
+
+<sup>3a</sup>) § 36 odst. 2 písm. b) zákona č. 122/1975 Sb., o zemědělském družstevnictví.
+
+<sup>16</sup>) § 57 zákona č. 54/1956 Sb., o nemocenském pojištění zaměstnanců.
+
+<sup>17</sup>) Jednotlivá přírodní stanoviště jsou zařazena do těchto skupin: 
+ I. černozemní velmi teplé oblasti (ČMt 1 až 23) 
+ II. černozemní oblasti (ČM 1 až 15) 
+ III. hnědozemní teplé oblasti (HMt 1 až 13) 
+ IV. hnědozemní oblasti (HM 1 až 24) 
+ V. hnědých půd pahorkatin (P 1 až 31) 
+ VI. hnědých půd vrchovin (V 1 až 16) 
+ VII. hnědých a podzolovaných půd horských oblastí (H 1 až 17) 
+ Čísla v jednotlivých skupinách vyjadřují rozdílné klimatické a terénní podmínky.
+
+<sup>18</sup>) Označení přírodních stanovišť je uvedeno v příloze č. 1.

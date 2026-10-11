@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 30/1985 Sb., o vydání pamětních stříbrných stokorun k 10. výročí konference o bezpečnosti a spolupráci v Evropě"
+identifier: "30/1985 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1985/30/1985-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1985-03-21
+effective: 1985-05-01
+last_amended: 1985-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1985/30"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 30/1985 Sb., o vydání pamětních stříbrných stokorun k 10. výročí konference o bezpečnosti a spolupráci v Evropě
+
+30
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 21. března 1985
+
+o vydání pamětních stříbrných stokorun k 10. výročí konference o bezpečnosti a spolupráci v Evropě
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) K 10. výročí konference o bezpečnosti a spolupráci v Evropě se vydávají pamětní stříbrné stokoruny (dále jen „stokoruny“).
+
+(2) Stokoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku. Hmotnost stokoruny je 9 g. Při ražbě je povolena odchylka nahoru a dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 29 mm, její hrana je vroubkovaná.
+
+## § 2
+
+(1) Na líci stokoruny je uprostřed státní znak Československé socialistické republiky a pod ním ve třech řádcích název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“. Po stranách státního znaku je v rozděleném řádku označení hodnoty „100 Kčs“.
+
+(2) Na rubu stokoruny se prolíná obraz symbolické holubice s obrysem Evropy, na kterém jsou ve čtyřech řádcích nápisy „HELSINKY“ a „KONFERENCE O BEZPEČNOSTI A SPOLUPRÁCI V EVROPĚ“. V opise dole jsou letopočty „1975-1985“.
+
+(3) Autorem návrhu stokoruny je akademický sochař Vladimír Oppl, iniciály jeho jména „V.O“ jsou umístěny za letopočty.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. května 1985.
+
+Ministr:
+
+Ing. Lér CSc. v. r.
+
+### ![sbcr1985c007z0030o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791227/NAHLED/ZOBRAZ/sbcr1985c007z0030o001)
+
+### ![sbcr1985c007z0030o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791229/NAHLED/ZOBRAZ/sbcr1985c007z0030o002)

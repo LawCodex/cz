@@ -1,0 +1,42 @@
+---
+title: "Nařízení vlády Československé socialistické republiky č. 155/1976 Sb., kterým se mění nařízení vlády Československé socialistické republiky č. 151/1975 Sb., o finančním hospodaření státních hospodářských a některých dalších socialistických organizací"
+identifier: "155/1976 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1976/155/1977-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1976-11-18
+effective: 1977-01-01
+last_amended: 1977-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1976/155"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády Československé socialistické republiky č. 155/1976 Sb., kterým se mění nařízení vlády Československé socialistické republiky č. 151/1975 Sb., o finančním hospodaření státních hospodářských a některých dalších socialistických organizací
+
+155
+
+NAŘÍZENÍ VLÁDY
+
+Československé socialistické republiky
+
+ze dne 18. listopadu 1976,
+
+kterým se mění nařízení vlády Československé socialistické republiky č. 151/1975 Sb., o finančním hospodaření státních hospodářských a některých dalších socialistických organizací
+
+Vláda Československé socialistické republiky nařizuje podle § 16 odst. 3 zákona č. 111/1971 Sb, o odvodech do státního rozpočtu a příspěvku na sociální zabezpečení:
+
+## Čl. I
+
+Nařízení vlády Československé socialistické republiky č. 151/1975 Sb., o finančním hospodaření státních hospodářských a některých dalších socialistických organizací, se mění takto:
+
+1\. V § 62 odst. 1 se slova „činí 25 %“ nahrazují slovy „činí 20 %“.
+
+2\. V § 72 odst. 1 se slova „25 % ze základu“ nahrazují slovy „20 % ze základu“.
+
+## Čl. II
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1977.
+
+Dr. Štrougal v. r.

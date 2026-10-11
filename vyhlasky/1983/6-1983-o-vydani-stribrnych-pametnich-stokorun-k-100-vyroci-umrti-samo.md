@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 6/1983 Sb., o vydání stříbrných pamětních stokorun k 100. výročí úmrtí Samo Chalupky"
+identifier: "6/1983 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1983/6/1983-05-05"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1982-12-01
+effective: 1983-05-05
+last_amended: 1983-05-05
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1983/6"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 6/1983 Sb., o vydání stříbrných pamětních stokorun k 100. výročí úmrtí Samo Chalupky
+
+6
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 1. prosince 1982
+
+o vydání stříbrných pamětních stokorun k 100. výročí úmrtí Samo Chalupky
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) U příležitosti 100. výročí úmrtí Samo Chalupky se vydávají pamětní stříbrné stokoruny.
+
+(2) Pamětní stříbrné stokoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku. Hmotnost stokoruny je 9 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 29 mm, její hrana je vroubkovaná.
+
+## § 2
+
+(1) Na líci pamětní stříbrné stokoruny je uprostřed státní znak Československé socialistické republiky a pod ním v pěti řádcích název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“ a označení hodnoty „100 Kčs“.
+
+(2) Na rubu pamětní stříbrné stokoruny je portrét Samo Chalupky v čelném pohledu. Jeho jméno „Samo Chalupka“ je ve dvou řádcích vpravo, letopočty „1883 1983“ ve dvou řádcích vlevo.
+
+(3) Autorem návrhu pamětní stříbrné stokoruny je Štefan Novotný, jehož značka „N“ je umístěna na rubu pod portrétem.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 5. května 1983.
+
+Ministr:
+
+Ing. Lér CSc. v. r.
+
+### ![sbcr1983c001z0006_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780395/NAHLED/ZOBRAZ/sbcr1983c001z0006_o_1)
+
+## ![sbcr1983c001z0006_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780397/NAHLED/ZOBRAZ/sbcr1983c001z0006_o_2)

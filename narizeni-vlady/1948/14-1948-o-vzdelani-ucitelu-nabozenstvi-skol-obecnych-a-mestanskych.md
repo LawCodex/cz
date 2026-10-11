@@ -1,0 +1,80 @@
+---
+title: "Nařízení vlády č. 14/1948 Sb., o vzdělání učitelů náboženství škol obecných a měšťanských"
+identifier: "14/1948 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1948/14/1948-02-17"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1948-12-19
+effective: 1948-02-17
+last_amended: 1948-02-17
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1948/14"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 14/1948 Sb., o vzdělání učitelů náboženství škol obecných a měšťanských
+
+14.
+
+Vládní nařízení
+
+ze dne 19. prosince 1947
+
+o vzdělání učitelů náboženství škol obecných a měšťanských.
+
+Vláda republiky Československé nařizuje podle § 2 dekretu presidenta republiky ze dne 27. října 1945, č. 132 Sb., o vzdělání učitelstva:
+
+## § 1.
+
+Kandidáti učitelství náboženství škol obecných a měšťanských nabývají vzdělání na bohosloveckých a pedagogických fakultách.
+
+## § 2.
+
+(1) Povinná studijní doba pro kandidáty učitelství náboženství škol obecných a měšťanských se určuje na šest semestrů.
+
+(2) Pro přechodnou dobu ode dne vyhlášení tohoto nařízení do dne, který určí vláda nařízením, se zkracuje studijní doba pro kandidáty učitelství náboženství škol obecných na čtyři semestry.
+
+(3) Studijní a zkušební řády vydá ministr školství a osvěty, pokud jde o Slovensko po vyjádření pověřence školství a osvěty.
+
+## § 3.
+
+Dobu zahájení studia podle tohoto nařízení na jednotlivých fakultách stanoví ministr školství a osvěty, na Slovensku po vyjádření pověřence školství a osvěty.
+
+## § 4.
+
+Ustanovení tohoto nařízení vztahují se toliko na vzdělání pro vyučování náboženství těch vyznání, jejichž duchovní se vzdělávají na bohosloveckých fakultách, a jen na ty kandidáty učitelství náboženství, kteří neabsolvovali normální studium bohoslovecké.
+
+## § 5.
+
+Toto nařízení nabývá účinnosti dnem vyhlášení; provede je ministr školství a osvěty.
+
+Gottwald v. r.
+
+Dr. Zenkl v. r.
+
+Dr. Kočvara v. r.
+
+Široký v. r.
+
+Masaryk v. r.
+
+Dr. Stránský v. r.
+
+Dr. Drtina v. r.
+
+Dr. Pietor v. r.
+
+Ing. Kopecký v. r.
+
+Hála v. r.
+
+Dr. Procházka v. r.
+
+Majer v. r.
+
+Dr. Franek v. r.
+
+Dr. Clementis v. r.
+
+Lichner v. r.

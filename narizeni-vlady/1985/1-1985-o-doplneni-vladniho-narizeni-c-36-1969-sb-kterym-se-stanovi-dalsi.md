@@ -1,0 +1,46 @@
+---
+title: "Nařízení vlády České socialistické republiky č. 1/1985 Sb., o doplnění vládního nařízení č. 36/1969 Sb., kterým se stanoví další případy, kdy lze přidělit byt ve státním zájmu, ve znění nařízení vlády České socialistické republiky č. 88/1970 Sb."
+identifier: "1/1985 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1985/1/1985-01-31"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1984-12-19
+effective: 1985-01-31
+last_amended: 1985-01-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1985/1"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády České socialistické republiky č. 1/1985 Sb., o doplnění vládního nařízení č. 36/1969 Sb., kterým se stanoví další případy, kdy lze přidělit byt ve státním zájmu, ve znění nařízení vlády České socialistické republiky č. 88/1970 Sb.
+
+1
+
+NAŘÍZENÍ VLÁDY
+
+České socialistické republiky
+
+ze dne 19. prosince 1984
+
+o doplnění vládního nařízení č. 36/1969 Sb., kterým se stanoví další případy, kdy lze přidělit byt ve státním zájmu, ve znění nařízení vlády České socialistické republiky č. 88/1970 Sb.
+
+Vláda České socialistické republiky nařizuje podle § 20 odst. 2 zákona č. 41/1964 Sb., o hospodaření s byty:
+
+## Čl. I
+
+Vládní nařízení č. 36/1969 Sb., kterým se stanoví další případy, kdy lze přidělit byt ve státním zájmu, ve znění nařízení vlády ČSR č. 88/1970 Sb., se doplňuje takto:
+
+V článku I se na konci připojuje ustanovení písmene n), které zní:
+
+> „n) lékařům a farmaceutům zdravotnických zařízení poskytujících zdravotnické služby<sup>1</sup>) v okresech Sokolov, Chomutov, Most, Teplice, Ústí nad Labem, v okrese Česká Lípa s výjimkou obce Doksy a dále v okrese Louny v obcích Počerady, Blažim, Výškov a Břvany.“.
+
+## Čl. II
+
+Toto nařízení vlády nabývá účinnosti dnem vyhlášení.
+
+Korčák v. r.
+
+---
+
+<sup>1</sup>) § 12 a 32 zákona č. 20/1966 Sb., o péči o zdraví lidu.

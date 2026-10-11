@@ -1,0 +1,62 @@
+---
+title: "Nařízení vlády č. 100/1920 Sb., o zvýšení tax zkoušky pro uchazeče o oprávnění ku koncesovaným živnostem stavebním."
+identifier: "100/1920 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1920/100/1920-02-25"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1920-02-17
+effective: 1920-02-25
+last_amended: 1920-02-25
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1920/100"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 100/1920 Sb., o zvýšení tax zkoušky pro uchazeče o oprávnění ku koncesovaným živnostem stavebním.
+
+Čís. 100.
+
+Nařízení vlády republiky Československé ze dne 17. února 1920
+
+o zvýšení tax zkoušky pro uchazeče o oprávnění ku koncesovaným živnostem stavebním.
+
+Dle § 13, odst. 2. zákona ze dne 26. prosince 1893, č. 193 ř. z., jímž upraveny byly koncesované živnosti stavební, nařizuje se toto:
+
+## § 1.
+
+Zkušební taxy, které dle § 14 ministerského nařízení ze dne 27. prosince 1893, č. 195 ř. z., povinni jsou zaplatiti uchazeči o oprávnění stavitele, mistra zednického, tesařského, kamenického a studnařského, zvyšují se o 100% dosavadního svého obnosu, stanoveného ministerským nařízením ze dne 11. dubna 1894, č. 72 ř. z.
+
+## § 2.
+
+V témž poměru zvyšují se také částky připadající ze zkušebních tax na členy zkušebních komisí a úředního sluhu.
+
+## § 3.
+
+Nařízení toto, jež nabývá účinnosti dnem vyhlášení, nevztahuje se na zkoušky již započaté. Výkonem nařízení pověřuje se ministr průmyslu, obchodu a živností.
+
+Tusar v. r.
+
+Dr. Beneš v. r.
+
+Habrman v. r.
+
+Prášek v. r.
+
+Dr. Franke v. r.
+
+Sonntág v. r.
+
+Klofáč v. r.
+
+Dr. Winter v. r.
+
+Hampl v. r.
+
+Dr. Veselý v. r.
+
+Staněk v. r.
+
+Dr. Heidler v. r.
+
+Houdek v. r.

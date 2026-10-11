@@ -1,0 +1,60 @@
+---
+title: "Vyhláška Ministerstva spravodlivosti Slovenskej socialistickej republiky č. 70/1980 Sb., ktorou sa ustanovuje paušálna suma trov trestného konania"
+identifier: "70/1980 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1980/70/1980-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1980-05-27
+effective: 1980-07-01
+last_amended: 1980-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1980/70"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva spravodlivosti Slovenskej socialistickej republiky č. 70/1980 Sb., ktorou sa ustanovuje paušálna suma trov trestného konania
+
+70
+
+VYHLÁŠKA
+
+Ministerstva spravodlivosti Slovenskej socialistickej republiky
+
+z 27. mája 1980,
+
+ktorou sa ustanovuje paušálna suma trov trestného konania
+
+Ministerstvo spravodlivosti Slovenskej socialistickej republiky ustanovuje podľa § 152 ods. 3 a § 153 ods. 1 zákona č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov:
+
+## § 1
+
+Paušálna suma trov trestného konania, ktoré znáša štát a sú uvedené v ustanoveniach § 152 ods. 1 písm. c) a § 153 ods. 1 Trestného poriadku, je
+
+1\. v trestnom konaní, v ktorom bol vydaný trestný rozkaz, ktorý sa stal právoplatným, 500 Kčs,
+
+2\. v ostatných trestných konaniach,
+
+a) ak sa nepribral znalec, 800 Kčs,
+
+b) ak sa pribral znalec<sup>1</sup>) z iného odboru ako psychiatrie, 1200 Kčs,
+
+c) ak sa pribrali znalci z odboru psychiatrie, 1800 Kčs.
+
+## § 2
+
+(1) Zrušuje sa vyhláška ministra spravodlivosti Slovenskej socialistickej republiky č. 64/1970 Zb., ktorou sa ustanovuje paušálna suma trov trestného konania.
+
+(2) Ustanovenia § 1 sa nevzťahujú na trovy trestného konania vo veciach, ktoré boli právoplatne skončené do 30. júna 1980.
+
+## § 3
+
+Táto vyhláška nadobúda účinnosť 1. júlom 1980.
+
+Námestník ministra:
+
+JUDr. Kubek v.r.
+
+---
+
+<sup>1</sup>) Pribratím znalca sa rozumie aj vyžiadanie posudku štátneho orgánu alebo štátneho ústavu podľa § 110 Trestného poriadku, nie však jeho odborné vyjadrenie podľa § 105 ods. 1 vety 2 Trestného poriadku.

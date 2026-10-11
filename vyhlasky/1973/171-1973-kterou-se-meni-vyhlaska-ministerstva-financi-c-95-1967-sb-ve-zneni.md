@@ -1,0 +1,76 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 171/1973 Sb., kterou se mění vyhláška ministerstva financí č. 95/1967 Sb., ve znění vyhlášky č. 122/1967 Sb., kterou se provádí zákon č. 73/1952 Sb., o dani z obratu"
+identifier: "171/1973 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1973/171/1974-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1973-12-21
+effective: 1974-01-01
+last_amended: 1974-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1973/171"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 171/1973 Sb., kterou se mění vyhláška ministerstva financí č. 95/1967 Sb., ve znění vyhlášky č. 122/1967 Sb., kterou se provádí zákon č. 73/1952 Sb., o dani z obratu
+
+171
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 21. prosince 1973,
+
+kterou se mění vyhláška ministerstva financí č. 95/1967 Sb., ve znění vyhlášky č. 122/1967 Sb., kterou se provádí zákon č. 73/1952 Sb., o dani z obratu
+
+Federální ministerstvo financí podle § 18 a 19 zákona č. 73/1952 Sb., o dani z obratu, stanoví:
+
+## Článek I
+
+Vyhláška ministerstva financí č. 95/1967 Sb., ve znění vyhlášky č. 122/1967 Sb., kterou se provádí zákon č. 73/1952 Sb., o dani z obratu, se mění takto:
+
+1\. Článek 5 odst. 1 a 2 zní:
+
+> „(1) Daň z obratu se vypočítává:
+
+> a) rozdílem mezi maloobchodní cenou, popř. sníženou o přípustnou obchodní srážku nebo její část (čl. 6) nebo stanovenou odbytovou přirážku, a mezi velkoobchodní cenou. U kterých výrobků se daň z obratu podle tohoto ustanovení vypočítává, stanoví federální ministerstvo financí,
+
+> b) rozdílem mezi velkoobchodní cenou stanovenou včetně daně z obratu podle příslušných ceníků a mezi velkoobchodní cenou bez daně z obratu,
+
+> c) procentní sazbou podle sazebníku daně z obratu (základní daň) z velkoobchodní ceny (popř. zvýšené o přirážky za jinou jakost nebo za jiné provedení) nebo z nákladů a přípustné ziskové přirážky; při prodeji odběratelům, kteří nemají nárok na obchodní srážku, se použije ještě sazba dodatkové daně (sloupec 4 sazebníku daně z obratu),
+
+> d) procentní sazbou podle sloupce 3 sazebníku daně z obratu z obchodní ceny při prodeji odběrateli, který má nárok na obchodní srážku,
+
+> e) procentními sazbami podle sloupců 3 a 4 sazebníku daně z obratu z obchodní ceny při prodeji odběrateli, který nemá nárok na obchodní srážku,
+
+> f) pevnou částkou na jednotku zboží.
+
+> (2) Bez újmy ustanovení čl. 6 odst. 4 se o odbytovou přirážku snižuje rozdílová daň z obratu (odstavec 1 písm. a)). V případech, kdy se výrobek fakturuje s procentní daní, odečte se odbytová přirážka jen z dodatkové daně. Není-li dodatková daň fakturována anebo není-li stanovena, nesmí odbytová přirážka snižovat základní daň.
+
+2\. V čl. 5 se vypouštějí odstavce 3 a 4, dosavadní odstavce 5 až 9 se označují jako odstavce 3 až 7 a v odstavcích nově označených 4 a 5 se vypouštějí slova „zařazené do kategorie pevných cen“.
+
+3\. V čl. 6 se vypouští v odst. 2 slovo „pevné“ a v odstavcích 3 a 4 slova „zařazené do kategorie pevných cen“.
+
+4\. V čl. 10 odst. 1 písm. c) se text v závorce mění a zní:
+
+> „(čl. 5 odst. 4 a 5)“.
+
+5\. Čl. 13 odst. 3 se vypouští.
+
+## Článek II
+
+Zrušuje se vyhláška ministerstva financí č. 122/1967 Sb., kterou se mění a doplňuje vyhláška ministerstva financí č. 95/1967 Sb., kterou se provádí zákon č. 73/1952 Sb., o dani z obratu.
+
+## Článek III
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1974.<sup>1</sup>)
+
+První náměstek ministra:
+
+Hájek v. r.
+
+---
+
+<sup>1</sup>) Tímto dnem nabývá účinnosti také nový sazebník daně z obratu čj. VI/2-22 700/73. V důsledku toho neplatí poznámka pod čarou u čl. 4 vyhl. č. 95/1967 Sb.

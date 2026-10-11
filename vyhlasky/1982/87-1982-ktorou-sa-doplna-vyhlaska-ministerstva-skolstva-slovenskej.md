@@ -1,0 +1,52 @@
+---
+title: "Vyhláška Ministerstva školstva Slovenskej socialistickej republiky a Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 87/1982 Sb., ktorou sa dopĺňa vyhláška Ministerstva školstva Slovenskej socialistickej republiky a Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 96/1979 Zb. o poskytovaní štipendií a hmotného zabezpečenia žiakom gymnázií, odborných škôl, stredných odborných škôl, konzervatórií a stredných škôl pre pracujúcich"
+identifier: "87/1982 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1982/87/1982-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1982-07-08
+effective: 1982-09-01
+last_amended: 1982-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1982/87"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva školstva Slovenskej socialistickej republiky a Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 87/1982 Sb., ktorou sa dopĺňa vyhláška Ministerstva školstva Slovenskej socialistickej republiky a Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 96/1979 Zb. o poskytovaní štipendií a hmotného zabezpečenia žiakom gymnázií, odborných škôl, stredných odborných škôl, konzervatórií a stredných škôl pre pracujúcich
+
+87
+
+VYHLÁŠKA
+
+Ministerstva školstva Slovenskej socialistickej republiky a Ministerstva zdravotníctva Slovenskej socialistickej republiky
+
+z 8. júla 1982,
+
+ktorou sa dopĺňa vyhláška Ministerstva školstva Slovenskej socialistickej republiky a Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 96/1979 Zb. o poskytovaní štipendií a hmotného zabezpečenia žiakom gymnázií, odborných škôl, stredných odborných škôl, konzervatórií a stredných škôl pre pracujúcich
+
+Ministerstvo školstva Slovenskej socialistickej republiky a Ministerstvo zdravotníctva Slovenskej socialistickej republiky po dohode s Ministerstvom práce a sociálnych vecí Slovenskej socialistickej republiky a po prerokovaní so zúčastnenými ústrednými orgánmi ustanovujú podľa § 40 ods. 3 písm. b) zákona č. 63/1978 Zb. o opatreniach v sústave základných a stredných škôl a podľa § 25 ods. 2 zákona Slovenskej národnej rady č. 79/1978 Zb. o štátnej správe v školstve:
+
+## Čl. I
+
+Vyhláška Ministerstva školstva Slovenskej socialistickej republiky a Ministerstva zdravotníctva Slovenskej socialistickej republiky č. 96/1979 Zb. o poskytovaní štipendií a hmotného zabezpečenia žiakom gymnázií, odborných škôl, stredných odborných škôl, konzervatórií a stredných škôl pre pracujúcich sa dopĺňa takto:
+
+§ 3 ods. 3 sa dopĺňa o písm. p), ktoré znie:
+
+> „p) suma, o ktorú sa zvýšil dôchodok podľa zákonného opatrenia Predsedníctva Federálneho zhromaždenia č. 7/1982 Zb. o zvýšení dôchodkov a o niektorých zmenách zákona o sociálnom zabezpečení.“.
+
+## Čl. II
+
+Táto vyhláška nadobúda účinnosť 1. septembrom 1982.
+
+Minister zdravotníctva
+
+Slovenskej socialistickej republiky:
+
+Prof. MUDr. Matejíček DrSc. v. r.
+
+Minister školstva
+
+Slovenskej socialistickej republiky:
+
+Prof. Ing. Buša CSc. v. r.

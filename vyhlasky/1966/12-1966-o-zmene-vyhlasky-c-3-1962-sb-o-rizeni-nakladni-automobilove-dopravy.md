@@ -1,0 +1,64 @@
+---
+title: "Vyhláška Ministerstva dopravy č. 12/1966 Sb., o změně vyhlášky č. 3/1962 Sb., o řízení nákladní automobilové dopravy národními výbory"
+identifier: "12/1966 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1966/12/1966-03-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1966-02-12
+effective: 1966-03-01
+last_amended: 1966-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1966/12"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva dopravy č. 12/1966 Sb., o změně vyhlášky č. 3/1962 Sb., o řízení nákladní automobilové dopravy národními výbory
+
+12
+
+VYHLÁŠKA
+
+ministerstva dopravy
+
+ze dne 12. února 1966
+
+o změně vyhlášky č. 3/1962 Sb., o řízení nákladní automobilové dopravy národními výbory
+
+Ministerstvo dopravy stanoví v dohodě se zúčastněnými ministerstvy a ústředními orgány podle § 8 odst. 1 zákona č. 57/1950 Sb., o úpravě podnikání v silniční dopravě:
+
+## Článek I
+
+Ustanovení § 2 až 5 vyhlášky č. 3/1962 Sb., o řízení nákladní automobilové dopravy národními výbory, se ruší a nahrazují tímto zněním:
+
+> **„§ 2**
+
+> Plány přepravy se sestavují jako plány pětileté a roční, a to podle předpisů o plánování.
+
+> **§ 3**
+
+> (1) Organizace veřejné dopravy a provozovatelé plánované závodové dopravy\*) jsou povinni hlásit krajskému dopravnímu středisku k sestavení měsíčního přepravního přehledu:
+
+> a) organizace veřejné dopravy (podniky za své závody) zejména objemy přeprav, na které jsou v příslušném měsíci uzavřeny hospodářské smlouvy,\*\*) a objemy dalších zajišťovaných přeprav, na něž nebyly hospodářské smlouvy uzavřeny. Obsah hlášení stanoví krajské dopravní středisko po projednání s příslušnou organizací veřejné dopravy,
+
+> b) provozovatelé plánované závodové dopravy objemy a druhy přeprav, které zajišťují v příslušném měsíci vlastní závodovou dopravou. Obsah hlášení stanoví ministerstvo dopravy v dohodě se zúčastněnými ministerstvy a ústředními orgány.\*\*\*) Hlášení se předkládá podle základních plánujících jednotek organizace, a to té pobočce krajského dopravního střediska, v jejímž obvodu má být přeprava započata.
+
+> (2) Organizace jsou povinny předložit hlášení podle odstavce 1 nejpozději pátého dne před počátkem měsíce, jehož se hlášení týká. Na vyzvání krajského dopravního střediska jsou organizace povinny umožnit nahlédnutí do podkladů hlášení a poskytnout další informace a vysvětlení o potřebě přeprav a jejich zajištění, zejména o průběhu uzavírání hospodářských smluv v silniční nákladní dopravě, o sjednávání dílčích specifikací těchto smluv a o plnění smluvních závazků.
+
+> (3) V odůvodněných případech může krajské dopravní středisko zjednodušit obsah hlášení stanovený podle odstavce 1 písm. b) a výjimečně provozovatele závodové dopravy této povinnosti i zprostit“.
+
+## Článek II
+
+Tato vyhláška nabývá účinnosti dnem 1. března 1966.
+
+Náměstek ministra:
+
+inž. Tichý v. r.
+
+---
+
+\*) Článek 64 odst. 1 písm. b) metodických pokynů Státní plánovací komise č. 55/1965 Sb.
+
+\*\*) Vyhláška č. 11/1966 Sb., o hospodářských smlouvách v silniční nákladní dopravě.
+
+\*\*\*) Tato úprava se vyhlásí v Přepravním a tarifním věstníku ministerstva dopravy.

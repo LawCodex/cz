@@ -1,0 +1,52 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 176/1980 Sb., o vydání pamětních stříbrných pětisetkorun ke 125. výročí úmrtí Ĺudovíta Štúra"
+identifier: "176/1980 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1980/176/1981-01-19"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1980-11-21
+effective: 1981-01-19
+last_amended: 1981-01-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1980/176"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 176/1980 Sb., o vydání pamětních stříbrných pětisetkorun ke 125. výročí úmrtí Ĺudovíta Štúra
+
+176
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 21. listopadu 1980
+
+o vydání pamětních stříbrných pětisetkorun ke 125. výročí úmrtí Ľudovíta Štúra
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) U příležitosti 125. výročí úmrtí slovenského národního buditele Ľudovíta Štúra se vydávají pamětní stříbrné pětisetkoruny.
+
+(2) Pamětní stříbrné pětisetkoruny se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost pětisetkoruny je 24 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr pětisetkoruny je 40 mm. Na její hraně je text „125 ROKOV OD SMRTI Ľ. ŠTÚRA“ provedený vlisem.
+
+## § 2
+
+(1) Na líci pamětní stříbrné pětisetkoruny je uprostřed nahoře státní znak Československé socialistické republiky a pod ním ve čtyřech řádcích název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“ a označení hodnoty „500 Kčs“. Vlevo od státního znaku v úrovni jeho základny je stylizovaný lipový list.
+
+(2) Na rubu pamětní stříbrné pětisetkoruny je portrét Ľudovíta Štúra. Pod portrétem je ve třech řádcích jméno „ĽUDOVÍT ŠTÚR“ a letopočty „1856 1981“. Vlevo od portrétu v úrovni jeho základny je stylizovaný lipový list. Autorem návrhu na minci je národní umělec Ján Kulich, jehož jméno „KULICH“ je dole pod letopočty.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 19. ledna 1981.
+
+Ministr:
+
+Ing. Lér CSc. v. r.
+
+### ![sbcr1980c044z0176o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780101/NAHLED/ZOBRAZ/sbcr1980c044z0176o001)
+
+### ![sbcr1980c044z0176o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780103/NAHLED/ZOBRAZ/sbcr1980c044z0176o002)

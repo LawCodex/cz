@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 34/1987 Sb., o vydání pamětních stříbrných padesátikorun s motivem koně Převalského"
+identifier: "34/1987 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1987/34/1987-05-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1987-04-22
+effective: 1987-05-15
+last_amended: 1987-05-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1987/34"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 34/1987 Sb., o vydání pamětních stříbrných padesátikorun s motivem koně Převalského
+
+34
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 22. dubna 1987
+
+o vydání pamětních stříbrných padesátikorun s motivem koně Převalského
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) K připomenutí trvalé péče o zachování ohrožených druhů zvířat a úspěchů pražské Zoologické zahrady v chovu divokých koní Převalského se vydávají pamětní stříbrné padesátikoruny (dále jen „padesátikoruny“).
+
+(2) Padesátikoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku. Hmotnost padesátikoruny je 7 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr padesátikoruny je 27 mm, hrana je vroubkovaná.
+
+## § 2
+
+(1) Na líci padesátikoruny je uprostřed státní znak Československé socialistické republiky a okolo něho v neuzavřeném opise název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“. Pod státním znakem je ve dvou řádcích označení hodnoty „50 Kčs“ a letopočet „1987“.
+
+(2) Na rubu padesátikoruny je vyobrazeno hříbě a klisna koně Převalského. V dolní části je ve dvou řádcích český název „KŮŇ PŘEVALSKÉHO“ a latinský název „EQUUS PRZEWALSKII“.
+
+(3) Autorem návrhu je Anton Gábrik, iniciály jeho jména „AG“ jsou nad názvem „KŮŇ PŘEVALSKÉHO“ vpravo.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 15. května 1987.
+
+Ministr:
+
+Ing. Žák v. r.
+
+### ![sbcr1987c008z0034_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792385/NAHLED/ZOBRAZ/sbcr1987c008z0034_o_1)
+
+### ![sbcr1987c008z0034_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792387/NAHLED/ZOBRAZ/sbcr1987c008z0034_o_2)

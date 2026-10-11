@@ -1,0 +1,56 @@
+---
+title: "Vyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 97/1982 Sb., kterou se mění a doplňuje vyhláška č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti"
+identifier: "97/1982 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1982/97/1982-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1982-06-11
+effective: 1982-09-01
+last_amended: 1982-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1982/97"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 97/1982 Sb., kterou se mění a doplňuje vyhláška č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti
+
+97
+
+VYHLÁŠKA
+
+Českého úřadu bezpečnosti práce a Českého báňského úřadu
+
+ze dne 11. června 1982,
+
+kterou se mění a doplňuje vyhláška č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti
+
+Český úřad bezpečnosti práce podle § 5 odst. 1 písm. d) zákona č. 174/1968 Sb., o státním odborném dozoru nad bezpečností práce, a Český báňský úřad podle § 57 odst. 1 písm. d) zákona č. 41/1957 Sb., o využití nerostného bohatství (horní zákon), a podle § 10 písm. a) zákona České národní rady č. 24/1972 Sb., o organizaci a o rozšíření dozoru státní báňské správy, v dohodě s příslušnými ústředními orgány, stanoví:
+
+## Čl. I
+
+Vyhláška Českého úřadu bezpečnosti práce a Českého báňského úřadu č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, se mění a doplňuje takto:
+
+1\. § 14 odst. 3 zní:
+
+> „(3) Oprávnění vydaná organizacím a osvědčení vydaná revizním technikům a zkušebním orgánům před 1. 7. 1979 platí do 30. 6. 1983.“.
+
+2\. § 14 se doplňuje odstavcem 5, který zní:
+
+> „(5) Organizace jsou povinny žádost o vydání nového oprávnění nebo osvědčení pro své pracovníky podat u příslušného orgánu dozoru nejpozději do 31. 12. 1982.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. září 1982.
+
+Předseda
+
+Českého báňského úřadu:
+
+Ing. Zíka v. r.
+
+Předseda
+
+Českého úřadu bezpečnosti práce:
+
+Dr. Bartík v. r.

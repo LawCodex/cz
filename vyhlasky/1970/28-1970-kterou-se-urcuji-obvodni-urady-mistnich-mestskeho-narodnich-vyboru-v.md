@@ -1,0 +1,46 @@
+---
+title: "Vyhláška Rady Okresního národního výboru v Nových Zámcích č. 28/1970 Sb., kterou se určují obvodní úřady místních (městského) národních výborů v okrese stavebními úřady"
+identifier: "28/1970 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1970/28/1970-03-26"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1970-02-27
+effective: 1970-03-26
+last_amended: 1970-03-26
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1970/28"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Rady Okresního národního výboru v Nových Zámcích č. 28/1970 Sb., kterou se určují obvodní úřady místních (městského) národních výborů v okrese stavebními úřady
+
+28
+
+VYHLÁŠKA
+
+rady Okresního národního výboru v Nových Zámcích
+
+ze dne 27. února 1970,
+
+kterou se určují obvodní úřady místních (městského) národních výborů v okrese stavebními úřady
+
+## § 1
+
+Rada Okresního národního výboru v Nových Zámcích určuje podle § 9 odst. 2 písm. a) zákona č. 87/1958 Sb., o stavebním řádu, ve spojení s čl. 6 zákona Slovenské národní rady č. 72/1969 Sb., o některých opatřeních v organizaci a působnosti národních výborů v Slovenské socialistické republice, stavebními úřady
+
+1\. Obvodní úřad městského a místních národních výborů se sídlem v Šuranech s územní působností pro město Šurany a obce Kostolný Sek, Lipová a Nitriansky Hrádok;
+
+2\. Obvodní úřad místních národních výborů se sídlem v Tvrdošovcích s územní působností pro obce Tvrdošovce a Jatov.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Tajemník:
+
+Ing. Hagara v. r.
+
+Předseda:
+
+Ing. Vajda v. r.

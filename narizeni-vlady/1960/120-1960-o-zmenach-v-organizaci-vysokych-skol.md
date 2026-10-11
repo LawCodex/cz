@@ -1,0 +1,84 @@
+---
+title: "Nařízení vlády č. 120/1960 Sb., o změnách v organizaci vysokých škol"
+identifier: "120/1960 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1960/120/1960-09-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1960-08-05
+effective: 1960-09-01
+last_amended: 1960-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1960/120"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 120/1960 Sb., o změnách v organizaci vysokých škol
+
+120
+
+VLÁDNÍ NAŘÍZENÍ
+
+ze dne 5. srpna 1960
+
+o změnách v organizaci vysokých škol
+
+Vláda Československé socialistické republiky nařizuje podle § 3 zákona č. 58/1950 Sb., o vysokých školách:
+
+## § 1
+
+Na Českém vysokém učení technickém v Praze se slučují fakulta inženýrského stavitelství s fakultou architektury a pozemního stavitelství ve fakultu stavební a zrušuje se fakulta ekonomickoinženýrská.
+
+## § 2
+
+Sídlo Vysoké školy dopravní v Praze se postupně přenáší z Prahy do Žiliny; název Vysoké školy dopravní v Praze se proto s účinností od 1. září 1962 mění a zní: Vysoká škola dopravní v Žilině.
+
+## § 3
+
+Na Vysoké škole chemickotechnologické v Praze se zřizuje fakulta automatizace a ekonomiky chemické výroby.
+
+## § 4
+
+Vysoká škola strojní a elektrotechnická v Plzni se rozděluje na fakultu strojní a na fakultu elektrotechnickou.
+
+## § 5
+
+(1) Název Vysoké školy strojní v Liberci se mění a zní: Vysoká škola strojní a textilní v Liberci.
+
+(2) Vysoká škola strojní a textilní v Liberci se rozděluje na fakultu strojní a na fakultu textilní.
+
+## § 6
+
+Na Vysoké škole zemědělské v Praze se zřizuje fakulta provozně ekonomická se sídlem v Českých Budějovicích.
+
+## § 7
+
+Na Vysokém učení technickém v Brně se slučují fakulta inženýrského stavitelství s fakultou architektury a pozemního stavitelství ve fakultu stavební.
+
+## § 8
+
+Na Slovenské vysoké škole technické v Bratislavě se slučují fakulta inženýrského stavitelství s fakultou architektury a pozemního stavitelství ve fakultu stavební a zrušuje se fakulta ekonomickoinženýrská.
+
+## § 9
+
+Na Universitě Karlově v Praze se zřizuje fakulta s názvem institut osvěty a novinářství.
+
+## § 10
+
+Název university v Brně zní Universita Jana Evangelisty Purkyně v Brně.
+
+## § 11
+
+(1) Fakulta farmaceutická University Jana Evangelisty Purkyně v Brně a fakulta farmaceutická University Komenského v Bratislavě se slučují ve fakultu farmaceutickou University Komenského v Bratislavě.
+
+(2) Na Universitě Komenského v Bratislavě se zřizuje fakulta s názvem institut tělesné výchovy a sportu.
+
+## § 12
+
+Název fakulty výrobně ekonomické na Vysoké škole ekonomické v Bratislavě se mění a zní: fakulta odvětvových ekonomik.
+
+## § 13
+
+Toto nařízení nabývá účinnosti ode dne 1. září 1960.
+
+Široký v. r.

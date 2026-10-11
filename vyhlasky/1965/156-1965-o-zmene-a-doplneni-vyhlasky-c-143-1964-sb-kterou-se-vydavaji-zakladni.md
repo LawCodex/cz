@@ -1,0 +1,56 @@
+---
+title: "Vyhláška Ministerstva hornictví č. 156/1965 Sb., o změně a doplnění vyhlášky č. 143/1964 Sb., kterou se vydávají základní podmínky dodávky topných plynů, rop a gazolinu"
+identifier: "156/1965 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1965/156/1966-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1965-12-30
+effective: 1966-01-01
+last_amended: 1966-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1965/156"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva hornictví č. 156/1965 Sb., o změně a doplnění vyhlášky č. 143/1964 Sb., kterou se vydávají základní podmínky dodávky topných plynů, rop a gazolinu
+
+156
+
+VYHLÁŠKA
+
+ministerstva hornictví
+
+ze dne 30. prosince 1965,
+
+o změně a doplnění vyhlášky č. 143/1964 Sb., kterou se vydávají základní podmínky dodávky topných plynů, rop a gazolinu
+
+Ministerstvo hornictví v dohodě se zúčastněnými ústředními orgány a po schválení hlavním arbitrem Československé socialistické republiky stanoví podle § 392 hospodářského zákoníku č. 109/1964 Sb.
+
+## Článek I
+
+Vyhláška č. 143/1964 Sb., kterou se vydávají základní podmínky dodávky topných plynů, rop a gazolinu, se mění a doplňuje takto:
+
+1\. § 7 odst. 2 - zní:
+
+> „Požaduje-li odběratel změnu množství stanoveného čtvrtletním rozpisem spotřeby na jednotlivé měsíce, je povinen požádat o to nejpozději týden před počátkem stanoveného období.“
+
+2\. v § 14 se za odstavec 3 vkládá další odstavec tohoto znění:
+
+> „(4) Odběratelé, kteří odebírají topné plyny v maloobchodním rozsahu, jsou povinni hlásit dodavateli skutečně odebrané množství topných plynů za uplynulý měsíc nejpozději do 2 dnů po jeho uplynutí na formuláři vydaném dodavatelem.“
+
+3\. § 46 zní:
+
+> „O fakturování a placení dodávek topných plynů z plynovodní sítě v maloobchodním rozsahu platí zvláštní předpisy;<sup>\*</sup>) dodavatel je povinen odeslat sběrné faktury za tyto dodávky do 7 dnů po skončení uplynulého měsíce.“
+
+## Článek II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1966.
+
+První náměstek ministra:
+
+Odvárka v. r.
+
+---
+
+\*) Vyhláška ministerstva financí č. 204/1964 Sb., o fakturování a placení dodávek neinvestiční povahy a výnos ministerstva financí ze dne 14. prosince 1965 čj. 117/54 583/1965.

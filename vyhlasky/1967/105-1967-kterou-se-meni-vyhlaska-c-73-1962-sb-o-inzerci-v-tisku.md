@@ -1,0 +1,62 @@
+---
+title: "Vyhláška Ministerstva kultury a informací č. 105/1967 Sb., kterou se mění vyhláška č. 73/1962 Sb., o inzerci v tisku"
+identifier: "105/1967 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1967/105/1967-12-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1967-11-01
+effective: 1967-12-01
+last_amended: 1967-12-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1967/105"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva kultury a informací č. 105/1967 Sb., kterou se mění vyhláška č. 73/1962 Sb., o inzerci v tisku
+
+105
+
+VYHLÁŠKA
+
+ministerstva kultury a informací
+
+ze dne 1. listopadu 1967,
+
+kterou se mění vyhláška č. 73/1962 Sb., o inzerci v tisku
+
+Ministerstvo kultury a informací stanoví v dohodě s ministerstvy financí, zahraničního obchodu a se Státní plánovací komisí podle § 1 zákona č. 272/1949 Sb., o řízení výroby a distribuce v oboru působnosti ministra informací a osvěty:
+
+## Čl. I
+
+Vyhláška č. 73/1962 Sb., o inzerci v tisku, se mění takto:
+
+1\. Ustanovení § 3 zní:
+
+> **„§ 3 – Rozsah inzerce**
+
+> (1) V denním ústředním, krajském a okresním periodickém tisku může inzerce dosáhnout <sup>1</sup>/<sub>6</sub> celkového týdenního rozsahu; v jednotlivém čísle nesmí přesahovat <sup>1</sup>/<sub>4</sub> rozsahu čísla.
+
+> (2) V ostatním periodickém tisku může inzerce dosahovat až <sup>1</sup>/<sub>5</sub> celkového rozsahu jednotlivého čísla.
+
+> (3) Vyšší rozsah inzerce, než se uvádí v odstavcích 1 a 2, je přípustný jen tehdy, zvětší-li se příslušné číslo periodického tisku o tento větší rozsah inzerce; zvětšení rozsahu čísla musí být v souladu s tiskovými předpisy.
+
+> (4) Omezení rozsahu inzerce podle odstavců 1 až 3 se nevztahuje na tisk státní a obchodní propagace určený pro zahraničí a na tiskoviny určené výlučně pro inzerci zahraničních inzerentů v tuzemsku.
+
+> (5) Do celkového rozsahu tiskoviny se započítávají též přílohy, obálka a přebal, tvořící s tiskovinou jednotný organický celek.
+
+> (6) Vkládané informační nebo propagační tiskoviny a vlastní oznámení vydavatele se do rozsahu inzerce nezapočítávají.“
+
+2\. Ustanovení § 2, § 4 až 12 a § 14 se zrušují.
+
+## Čl. II
+
+Za časopis podle § 1 se považuje veškerý periodický tisk ve smyslu zákona č. 81/1966 Sb., o periodickém tisku a o ostatních hromadných informačních prostředcích.
+
+## Čl. III
+
+Tato vyhláška nabývá účinnosti dnem 1. prosince 1967.
+
+Ministr:
+
+v z. Ing. Chňoupek v. r.

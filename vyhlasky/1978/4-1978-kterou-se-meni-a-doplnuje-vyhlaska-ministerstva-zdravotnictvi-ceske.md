@@ -1,0 +1,108 @@
+---
+title: "Vyhláška Ministerstva zdravotnictví České socialistické republiky č. 4/1978 Sb., kterou se mění a doplňuje vyhláška ministerstva zdravotnictví České socialistické republiky č. 72/1971 Sb., o zdravotnických pracovnících a jiných odborných pracovnících ve zdravotnictví"
+identifier: "4/1978 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1978/4/1978-03-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1977-12-27
+effective: 1978-03-01
+last_amended: 1978-03-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1978/4"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva zdravotnictví České socialistické republiky č. 4/1978 Sb., kterou se mění a doplňuje vyhláška ministerstva zdravotnictví České socialistické republiky č. 72/1971 Sb., o zdravotnických pracovnících a jiných odborných pracovnících ve zdravotnictví
+
+4
+
+VYHLÁŠKA
+
+ministerstva zdravotnictví České socialistické republiky
+
+ze dne 27. prosince 1977,
+
+kterou se mění a doplňuje vyhláška ministerstva zdravotnictví České socialistické republiky č. 72/1971 Sb., o zdravotnických pracovnících a jiných odborných pracovnících ve zdravotnictví
+
+Ministerstvo zdravotnictví České socialistické republiky stanoví v dohodě s ministerstvem školství České socialistické republiky a s ostatními zúčastněnými ústředními orgány podle § 54 odst. 1 a § 58 odst. 2 zákona č. 20/1966 Sb., o péči o zdraví lidu:
+
+## Čl. I
+
+Vyhláška č. 72/1971 Sb., o zdravotnických pracovnících a jiných odborných pracovnících ve zdravotnictví, se mění a doplňuje takto:
+
+1\. § 24 zní:
+
+> **„§ 24 – Specializace I. a II. stupně**
+
+> (1) Lékaři mohou získat specializaci I. stupně v oboru všeobecného lékařství.
+
+> (2) Specializaci I. a II. stupně mohou získat lékaři v těchto oborech:
+
+> interní lékařství
+
+> pediatrie
+
+> gynekologie a porodnictví
+
+> chirurgie
+
+> urologie
+
+> ortopedie
+
+> neurologie
+
+> psychiatrie
+
+> dermatovenerologie
+
+> stomatologie
+
+> otorinolaryngologie
+
+> oftalmologie
+
+> radiodiagnostika
+
+> radioterapie
+
+> patologická anatomie
+
+> lékařská mikrobiologie
+
+> hygiena a epidemiologie
+
+> anesteziologie a resuscitace
+
+> klinická biochemie“.
+
+2\. § 25 se doplňuje za oborem hygieny a epidemiologie takto:
+
+> „Všeobecné lékařství
+
+> hygiena práce a nemoci z povolání
+
+> dorostové lékařství“.
+
+3\. § 27 zní:
+
+> **„§ 27 – Příprava pro výkon funkce obvodního lékaře**
+
+> (1) Funkci obvodního lékaře mohou vykonávat lékaři, kteří získali specializaci I. stupně v oboru všeobecného lékařství s označením „odborník všeobecného lékařství“.
+
+> (2) Lékaři, kteří získali specializaci I. stupně v některém z oborů uvedených v § 24 odst. 2 a vykonávají v den počátku účinnosti této vyhlášky funkci obvodního lékaře, mohou do 5 let od tohoto dne získat způsobilost k výkonu této funkce podle dosavadních předpisů.“.
+
+4\. Za § 56 se vkládá § 56a, který zní:
+
+> **„§ 56a**
+
+> Lékaři, kteří získali způsobilost k výkonu funkce obvodního lékaře podle dosavadních předpisů, mají specializaci I. stupně v oboru všeobecného lékařství.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. března 1978.
+
+Ministr:
+
+Prof. MUDr. Prokopec, CSc. v. r.

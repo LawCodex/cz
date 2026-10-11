@@ -1,0 +1,56 @@
+---
+title: "Vyhláška Ministerstva stavebnictví č. 76/1965 Sb., o změně a doplnění základních podmínek dodávky stavebních hmot, konstrukcí a dílců"
+identifier: "76/1965 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1965/76/1965-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1965-06-17
+effective: 1965-08-01
+last_amended: 1965-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1965/76"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva stavebnictví č. 76/1965 Sb., o změně a doplnění základních podmínek dodávky stavebních hmot, konstrukcí a dílců
+
+76
+
+VYHLÁŠKA
+
+ministerstva stavebnictví
+
+ze dne 17. června 1965
+
+o změně a doplnění základních podmínek dodávky stavebních hmot, konstrukcí a dílců
+
+Ministerstvo stavebnictví v dohodě se zúčastněnými ústředními orgány a po schválení hlavním arbitrem Československé socialistické republiky stanoví podle § 392 hospodář. zákoníku č. 109/1964 Sb. (dále jen zákon):
+
+## Článek I
+
+Vyhláška ministerstva stavebnictví č. 173/1964 Sb., kterou se vydávají základní podmínky dodávky stavebních hmot, konstrukcí a dílců se mění a doplňuje takto:
+
+1\. § 13 odst. 5 zní:
+
+> „(5) U zásilek štěrkopísků a kopaných písků, pokud se množství určuje objemem zásilky, je přípustné zmenšení objemu nejvýše o 8 % v důsledku setřesení při dopravě.“
+
+2\. § 27 zní:
+
+> „Nástroje a pracovní formy, zhotovené pro výrobky nenormalizované v celostátním měřítku a fakturované odběrateli, je výrobní organizace povinna uschovat nejméně po dobu jednoho roku a jde-li o formy nebo nástroje na žárovzdorné nebo kyselinovzdorné tvárnice, nejméně po dobu tří let od splnění poslední dodávky. Odbytové místo musí znát rozmístění těchto nástrojů a pracovních forem.“
+
+3\. § 28 zní:
+
+> „Ustanovení § 4 odst. 6, § 9 až 24 odst. 1, § 25 až 27 se vztahují i na dodávky, uskutečněné mezi výrobními organizacemi a odbytovými místy.“
+
+4\. § 33 odst. 3 zní:
+
+> „Odbytová místa zasílají odvolávky 17 dní před měsícem dodávky. Dodatečná změna odvolávek je možná jen se souhlasem výrobní organizace.“
+
+## Článek II
+
+Tato vyhláška nabývá účinnosti dnem 1. 8. 1965.
+
+Náměstek ministra:
+
+Zajíček v. r.

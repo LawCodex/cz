@@ -1,0 +1,70 @@
+---
+title: "Vyhláška Federálního ministerstva vnitra č. 70/1979 Sb., kterou se mění a doplňuje vyhláška č. 100/1975 Sb., o pravidlech silničního provozu"
+identifier: "70/1979 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1979/70/1979-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1979-07-06
+effective: 1979-08-01
+last_amended: 1979-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1979/70"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva vnitra č. 70/1979 Sb., kterou se mění a doplňuje vyhláška č. 100/1975 Sb., o pravidlech silničního provozu
+
+70
+
+VYHLÁŠKA
+
+federálního ministerstva vnitra
+
+ze dne 6. července 1979,
+
+kterou se mění a doplňuje vyhláška č. 100/1975 Sb., o pravidlech silničního provozu
+
+Federální ministerstvo vnitra stanoví v dohodě se zúčastněnými ústředními orgány podle § 16 odst. 1 písm. a) vládního nařízení č. 54/1953 Sb., o provozu na silnicích, ve znění zákonného opatření předsednictva Národního shromáždění č. 13/1956 Sb.:
+
+## Čl. I
+
+Vyhláška federálního ministerstva vnitra č. 100/1975 Sb., o pravidlech silničního provozu, ve znění vyhlášky č. 136/1978 Sb., se mění a doplňuje takto:
+
+1\. § 12 odst. 1 zní:
+
+> „(1) Rychlost jízdy je řidič povinen přizpůsobit zejména svým schopnostem, vlastnostem vozidla a nákladu, povětrnostním podmínkám a jiným okolnostem, které může předvídat; smí jet jen takovou rychlostí, aby byl schopen zastavit vozidlo na vzdálenost, na kterou má rozhled. Přitom smí jet řidič
+
+> a) motocyklu rychlostí nejvýše 80 km za hodinu,
+
+> b) osobního a osobního dodávkového automobilu rychlostí nejvýše
+
+> \- na dálnici 110 km za hodinu,
+
+> \- na ostatních silnicích 90 km za hodinu,
+
+> c) nákladního nebo speciálního automobilu o celkové hmotnosti
+
+> \- do 6000 kg nejvýše rychlostí 80 km za hodinu,
+
+> \- nad 6000 kg nejvýše rychlostí 70 km za hodinu,
+
+> d) autobusu
+
+> \- dálkové pravidelné veřejné dopravy osob nejvýše rychlostí 90 km za hodinu,
+
+> \- veřejné a závodové přepravy osob nejvýše rychlostí 70 km za hodinu.
+
+> Ustanovení předchozí věty se vztahuje i na jízdu v obci v době od 23 do 5 hodin.“.
+
+2\. § 12 se doplňuje odstavcem 4, který zní:
+
+> „(4) Nejvyšší rychlosti stanovené v odstavci 1 se nevztahují na řidiče vozidel ozbrojených sil, ozbrojených sborů a na řidiče zkušebních vozidel výzkumně vývojových pracovišť, pokud jsou tato vozidla opatřena zvláštní poznávací značkou.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 1979.
+
+Náměstek ministra:
+
+plk. Dr. Kováč v. r.

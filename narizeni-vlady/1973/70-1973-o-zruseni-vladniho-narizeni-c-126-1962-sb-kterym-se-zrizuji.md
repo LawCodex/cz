@@ -1,0 +1,38 @@
+---
+title: "Nařízení vlády Slovenské socialistické republiky č. 70/1973 Sb., o zrušení vládního nařízení č. 126/1962 Sb., kterým se zřizují interrupční komise a provádí zákon o umělém přerušení těhotenství"
+identifier: "70/1973 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1973/70/1973-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1973-05-16
+effective: 1973-07-01
+last_amended: 1973-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1973/70"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády Slovenské socialistické republiky č. 70/1973 Sb., o zrušení vládního nařízení č. 126/1962 Sb., kterým se zřizují interrupční komise a provádí zákon o umělém přerušení těhotenství
+
+70
+
+NAŘÍZENÍ VLÁDY
+
+Slovenské socialistické republiky
+
+ze dne 16. května 1973
+
+o zrušení vládního nařízení č. 126/1962 Sb., kterým se zřizují interrupční komise a provádí zákon o umělém přerušení těhotenství
+
+Vláda Slovenské socialistické republiky nařizuje podle zákona č. 68/1957 Sb., o umělém přerušení těhotenství, a zákona č. 69/1967 Sb., o národních výborech, ve znění pozdějších předpisů (úplné znění č. 27/1972 Sb.):
+
+## § 1
+
+Zrušuje se vládní nařízení č. 126/1962 Sb., kterým se zřizují interrupční komise a provádí zákon o umělém přerušení těhotenství, ve znění vládního nařízení č. 95/1964 Sb. a vládního nařízení č. 54/1966 Sb.
+
+## § 2
+
+Toto nařízení nabývá účinnosti dnem 1. července 1973.
+
+Dr. Colotka v. r.

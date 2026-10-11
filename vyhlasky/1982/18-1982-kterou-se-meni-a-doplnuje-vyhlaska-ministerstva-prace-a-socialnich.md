@@ -1,0 +1,48 @@
+---
+title: "Vyhláška Ministerstva práce a sociálních věcí České socialistické republiky č. 18/1982 Sb., kterou se mění a doplňuje vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 130/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení"
+identifier: "18/1982 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1982/18/1982-02-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1982-01-29
+effective: 1982-02-01
+last_amended: 1982-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1982/18"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva práce a sociálních věcí České socialistické republiky č. 18/1982 Sb., kterou se mění a doplňuje vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 130/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení
+
+18
+
+VYHLÁŠKA
+
+ministerstva práce a sociálních věcí České socialistické republiky
+
+ze dne 29. ledna 1982,
+
+kterou se mění a doplňuje vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 130/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení
+
+Ministerstvo práce a sociálních věcí České socialistické republiky stanoví v dohodě s federálním ministerstvem práce a sociálních věcí, ostatními zúčastněnými ústředními orgány a s Českou odborovou radou a po projednání s Českým výborem Svazu družstevních rolníků podle § 172 odst. 7 zákona č. 121/1975 Sb., o sociálním zabezpečení, ve znění zákona č. 150/1979 Sb., a podle § 50 zákona České národní rady č. 129/1975 Sb., o působnosti orgánů České socialistické republiky v sociálním zabezpečení:
+
+## Čl. I
+
+Vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 130/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení, ve znění vyhlášky č. 4/1982 Sb., se mění a doplňuje takto:
+
+1\. V § 35 v první větě se částka 200 Kčs nahrazuje částkou 300 Kčs a ve druhé větě se vypouští slova „nebo sirotčí“.
+
+2\. § 38 se doplňuje odstavcem 4, který zní:
+
+> „(4) Občanu se závažným postižením končetin poskytne okresní národní výbor na žádost příspěvek na úpravu motorového vozidla na ruční ovládání za podmínek stanovených v odstavci 1 ve výši plné ceny této úpravy. Ustanovení odstavce 2 platí obdobně.“.
+
+3\. V § 98 odst. 2 se částka 500 Kčs nahrazuje částkou 1000 Kčs.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. února 1982.
+
+Ministr:
+
+Dr. Hamerník v. r.

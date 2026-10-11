@@ -1,0 +1,84 @@
+---
+title: "Nařízení vlády č. 31/1945 Sb., jímž se stanoví konec doby nesvobody pro obor předpisů o obnovení právního pořádku"
+identifier: "31/1945 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1945/31/1945-08-08"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1945-07-27
+effective: 1945-08-08
+last_amended: 1945-08-08
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1945/31"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 31/1945 Sb., jímž se stanoví konec doby nesvobody pro obor předpisů o obnovení právního pořádku
+
+31.
+
+Vládní nařízení
+
+ze dne 27. července 1945,
+
+jímž se stanoví konec doby nesvobody pro obor předpisů o obnovení právního pořádku.
+
+Vláda republiky Československé nařizuje podle čl. 1, odst. 2, věty druhé ústavního dekretu presidenta republiky ze dne 3. srpna 1944, č. 11 Úř. věst. čsl. (příloha k vyhlášce č. 30/1945 Sb.), o obnovení právního pořádku:
+
+## § 1.
+
+Doba nesvobody ve smyslu ústavního dekretu č. 11/1944 Úř. věst. čsl. se končí dnem 4. května 1945.
+
+## § 2.
+
+Toto nařízení nabývá účinnosti dnem vyhlášení; provedou je všichni členové vlády.
+
+Fierlinger v. r.
+
+David v. r.
+
+Gottwald v. r.
+
+Široký v. r.
+
+Dr. Šrámek v. r.
+
+Ursíny v. r.
+
+Masaryk v. r.
+
+gen. Svoboda v. r.
+
+Dr. Ripka v. r.
+
+Nosek v. r.
+
+Dr. Šrobár v. r.
+
+Dr. Nejedlý v. r.
+
+Dr. Stránský v. r.
+
+Kopecký v. r.
+
+Laušman v. r.
+
+Ďuriš v. r.
+
+Dr. Pietor v. r.
+
+gen. Hasal v. r.
+
+Hála v. r.
+
+Dr. Šoltész v. r.
+
+Dr. Procházka v. r.
+
+Majer v. r.
+
+Dr. Clementis v. r.
+
+gen. Dr. Ferjenčík v. r.
+
+Lichner v. r.

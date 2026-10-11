@@ -1,0 +1,68 @@
+---
+title: "Nařízení vlády č. 43/1953 Sb., kterým se upravují procenta zvýšení a snížení daně ze mzdy"
+identifier: "43/1953 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1953/43/1953-06-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1953-05-30
+effective: 1953-06-01
+last_amended: 1953-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1953/43"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 43/1953 Sb., kterým se upravují procenta zvýšení a snížení daně ze mzdy
+
+43.
+
+Vládní nařízení
+
+ze dne 30. května 1953,
+
+kterým se upravují procenta zvýšení a snížení daně ze mzdy.
+
+Vláda republiky Československé nařizuje podle § 22 odst. 2 zákona č. 76/1952 Sb., o dani ze mzdy:
+
+## § 1.
+
+(1) Daň podle § 6 zákona č. 76/1952 Sb., o dani ze mzdy (dále jen „zákon“), se zvyšuje:
+
+a) poplatníkům, kteří nevyživují žádnou osobu nebo vyživují jen jednu osobu, o 100% daně;
+
+b) poplatníkům, kteří vychovali alespoň jedno dítě, i když o ně již nepečují, o 66% daně;
+
+c) manželkám (družkám), které pobírají mzdu a žijí s manželem (druhem) ve společné domácnosti, o 66% daně, jestliže pečují alespoň o jedno dítě, nebo alespoň jedno dítě vychovaly.
+
+(2) Zvýšení o 100% se vybírá, přesahuje-li daňový základ 460 Kčs měsíčně a zvýšení o 66%, přesahuje-li daňový základ 560 Kčs měsíčně.
+
+## § 2.
+
+Daň podle § 6 zákona se snižuje o 30% poplatníkům, kteří vyživují 3 osoby, o 50% poplatníkům, kteří vyživují 4 osoby a o 70% poplatníkům, kteří vyživují 5 nebo více osob.
+
+## § 3.
+
+(1) Procenta zvýšení a snížení daně stanovená v §§ 1 a 2 nahrazují procenta zvýšení a snížení daně stanovená v §§ 7 a 8 zákona.
+
+(2) Vzhledem ke změně procenta snížení daně může, odchylkou od § 10 zákona, daň po snížení podle §§ 8 a 9 zákona činit u poplatníka méně než 8% daňového základu.
+
+## § 4.
+
+Peněžité částky uvedené v tomto nařízení se rozumějí v nových penězích podle zákona č. 41/1953 Sb., o peněžní reformě.
+
+## § 5.
+
+Toto nařízení nabývá účinnosti dnem 1. června 1953 a platí pro zdanění
+
+a) mezd za práci (§ 3 odst. 2 zákona) vyplácených na dobu po 31. květnu 1953,
+
+b) mezd za práci vyplácených po 10. červnu 1953, za dobu před 1. červnem 1953,
+
+c) důchodů (§ 3 odst. 3 zákona) a stipendií vyplácených po 30. červnu 1953;
+
+provede je ministr financí.
+
+Široký v. r.
+
+Kabeš v. r.

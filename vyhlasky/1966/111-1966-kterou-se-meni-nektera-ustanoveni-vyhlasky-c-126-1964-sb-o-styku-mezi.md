@@ -1,0 +1,91 @@
+---
+title: "Vyhláška Ministerstva dopravy č. 111/1966 Sb., kterou se mění některá ustanovení vyhlášky č. 126/1964 Sb., o styku mezi dráhami celostátními a vlečkami a o vztazích mezi zúčastněnými organizacemi (vlečkové podmínky)"
+identifier: "111/1966 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1966/111/1967-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1966-12-16
+effective: 1967-01-01
+last_amended: 1967-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1966/111"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva dopravy č. 111/1966 Sb., kterou se mění některá ustanovení vyhlášky č. 126/1964 Sb., o styku mezi dráhami celostátními a vlečkami a o vztazích mezi zúčastněnými organizacemi (vlečkové podmínky)
+
+111
+
+VYHLÁŠKA
+
+ministerstva dopravy
+
+ze dne 16. prosince 1966,
+
+kterou se mění některá ustanovení vyhlášky č. 126/1964 Sb., o styku mezi dráhami celostátními a vlečkami a o vztazích mezi zúčastněnými organizacemi (vlečkové podmínky)
+
+Ministerstvo dopravy v dohodě se zúčastněnými ústředními orgány podle § 4 zákona č. 51/1964 Sb., o dráhách stanoví:
+
+## Čl. I
+
+Vyhláška č. 126/1964 Sb., o styku mezi dráhami celostátními a vlečkami a o vztazích mezi zúčastněnými organizacemi (vlečkové podmínky) se mění takto:
+
+> 1\. § 6 - celý text se nahrazuje takto:
+
+> **§ 6 – Bezpečnost provozu a používání železničních vozů**
+
+> (1) V zájmu bezpečnosti železničního provozu je vlečkař zejména povinen:
+
+> a) oznámit přípojové stanici každou nehodu a každé poškození vozu na vlečce, zejména vyšinutí vozu a zjištěné závady na voze,
+
+> b) oznámit přípojové stanici zjištěnou závadu na vlečce, která by mohla ohrozit bezpečnost na vlečce,
+
+> c) zachovávat průjezdní průřez a předepsané volné plochy podél kolejí,
+
+> d) řádně zajišťovat vozy proti ujetí,
+
+> e) brzdové spojky vzájemně svěšovat nebo zavěšovat,
+
+> f) zajišťovat předepsaným způsobem všechny odnímatelné součásti na vozech,
+
+> g) pro manipulaci s vozy užívat pouze zařízení schválených ČSD, a to stanoveným způsobem.
+
+> (2) Bez předchozího souhlasu přípojové stanice vlečky vlečkař nesmí:
+
+> a) použít vozu železnice po vyložení nebo před naložením zásilky pro místní převozy,
+
+> b) naložit vůz cizích železničních správ po vyložení došlé zásilky opětně k přepravě,
+
+> c) použít nádržkového nebo chladícího vozu pro nakládku jiného než povoleného zboží,
+
+> d) odeslat prázdný nádržkový nebo chladící vůz ČSD do jiné stanice určení, než jakou stanovila přípojová stanice vlečky.
+
+> (3) Za nedodržení některého z uvedených ustanovení vlečkař zaplatí:
+
+> | za každý vůz podle odst. 1, písm. a), f) | Kčs 400,-, |
+> |---|---|
+> | za každou vozovou jednotku podle odst. 2 | Kčs 400,-, |
+> | za každý případ podle odst. 1, písm. b), c), g) | Kčs 400,-, |
+> | za každý případ podle odst. 1, písm. d) | Kčs 100,- |
+> | za každý případ podle odst. 1, písm. e) | Kčs 50.-. |
+
+> 2\. § 8 - celý text se nahrazuje takto:
+
+> **§ 8 – Sledování pobytu vozů na vlečkách**
+
+> (1) Vyžadují-li to provozní poměry železniční stanice a vlečky, ČSD v součinnosti s vlečkařem vypracují a na jeho náklad vydají jednotné technologické postupy práce stanice a vlečky.
+
+> (2) Vlečkař i ČSD musí vytvářet podmínky pro nepřetržitou, plynulou vykládku a rovnoměrnou nakládku.
+
+> (3) Za dobu pobytu vozů na vlečce vybírají ČSD poplatek podle Tarifu vozových zásilek (TVZ).
+
+> (4) Přípojová stanice vykazuje vozy přistavené železnicí na vlečku a opačně a sleduje hospodaření s nimi na vlečce.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1967.
+
+Náměstek ministra:
+
+Ing. Filinský v. r.

@@ -1,0 +1,103 @@
+---
+title: "Zákon Slovenské národní rady č. 152/1979 Sb., o státním rozpočtu Slovenské socialistické republiky na rok 1980"
+identifier: "152/1979 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1979/152/1980-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1979-12-19
+effective: 1980-01-01
+last_amended: 1980-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1979/152"
+retrieved: 2026-10-11
+---
+
+# Zákon Slovenské národní rady č. 152/1979 Sb., o státním rozpočtu Slovenské socialistické republiky na rok 1980
+
+152
+
+ZÁKON
+
+Slovenské národní rady
+
+ze dne 19. prosince 1979
+
+o státním rozpočtu Slovenské socialistické republiky na rok 1980
+
+Slovenská národní rada se usnesla na tomto zákoně:
+
+## § 1
+
+(1) Celkové příjmy státního rozpočtu Slovenské socialistické republiky (dále jen „státní rozpočet republiky“) se stanoví 
+ částkou 71 356 664 000 Kčs
+
+celkové výdaje státního rozpočtu republiky se stanoví částkou 71 356 664 000 Kčs
+
+(příloha č. 1).
+
+(2) Ve státním rozpočtu republiky je obsažen
+
+souhrnný finanční vztah rozpočtů národních výborů ke státnímu rozpočtu republiky (dotace ze státního rozpočtu republiky) ve výši 8 400 300 000 Kčs
+
+a účelové subvence poskytované ze státního rozpočtu republiky do rozpočtů národních výborů ve výši 10 261 200 000 Kčs
+
+(příloha č. 2).
+
+## § 2
+
+Vláda Slovenské socialistické republiky nebo na základě jejího zmocnění ministr financí může promítnout do státního rozpočtu republiky, nenaruší-li se tím jeho vyrovnanost, zejména změny státního plánu rozvoje národního hospodářství Slovenské socialistické republiky, organizační a cenové změny, upravit souhrnný finanční vztah a účelové subvence národním výborům, jestliže se změní předpoklady, za nichž byly tyto vztahy ke státnímu rozpočtu republiky stanoveny.
+
+## § 3
+
+(1) Výnos úplat za odběry podzemní vody a výnos penále souvisejícího s těmito úplatami<sup>1</sup>) je příjmem státního rozpočtu republiky.
+
+(2) Výnos úplat za vypouštění odpadních vod do vod povrchových a výnos penále souvisejícího s těmito úplatami<sup>2</sup>) je příjmem Státního fondu vodního hospodářství Slovenské socialistické republiky.
+
+## § 4
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1980.
+
+Šalgovič v. r.
+
+Colotka v. r.
+
+### Příloha č. 1 k zákonu SNR č. 152/1979 Sb.
+
+#### Celkový přehled státního rozpočtu Slovenské socialistické republiky na rok 1980
+
+| Příjmy | v tis. Kčs |
+|---|---|
+| Příjmy ze socialistického hospodářství | 15 428 940 |
+| Daně od obyvatelstva a poplatky | 11 419 000 |
+| Ostatní příjmy | 718 724 |
+| Dotace a subvence ze státního rozpočtu federace | 43 790 000 |
+| Úhrn | 71 356 664 |
+
+| Výdaje | **v**tis. Kčs |
+|---|---|
+| Hospodářství | 26 216 698 |
+| Kulturní a sociální opatření | 24 289 745 |
+| Obrana a bezpečnost | 1 469 100 |
+| Správa | 491 695 |
+| Soudy, prokuratury a arbitráž | 227 926 |
+| Souhrnný finanční vztah a účelové subvence národním výborům | 18 661 500 |
+| Úhrn | 71 356 664 |
+
+### Příloha č. 2 k zákonu SNR č. 152/1979 Sb.
+
+#### **Souhrnný finanční vztah (dotace)** **a účelové subvence národním výborům ze státního rozpočtu** **Slovenské socialistické republiky na rok 1980**
+
+| Kraj | Dotace<br> (v tis. Kčs) | Účelové<br> subvence<br> (v tis. Kčs) |
+|---|---|---|
+| Národní výbor hlavního města Slovenské socialistické republiky Bratislavy | 602 800 | 2 197 000 |
+| Západoslovenský krajský národní výbor | 1 724 200 | 2 703 800 |
+| Středoslovenský krajský národní výbor | 3 004 500 | 2 749 600 |
+| Východoslovenský krajský národní výbor | 3 068 800 | 2 610 800 |
+| Úhrn | 8 400 300 | 10 261 200 |
+
+---
+
+<sup>1</sup>) Část druhá nařízení vlády Československé socialistické republiky č. 35/1979 Sb., o úplatách ve vodním hopodářství.
+
+<sup>2</sup>) Část třetí nařízení vlády Československé socialistické republiky č. 35/1979 Sb.

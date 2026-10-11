@@ -1,0 +1,67 @@
+---
+title: "Vyhláška Ministerstva práce a sociálních věcí České socialistické republiky č. 109/1979 Sb., o změně vyhlášky č. 130/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení"
+identifier: "109/1979 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1979/109/1979-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1979-09-19
+effective: 1979-10-01
+last_amended: 1979-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1979/109"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva práce a sociálních věcí České socialistické republiky č. 109/1979 Sb., o změně vyhlášky č. 130/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení
+
+109
+
+VYHLÁŠKA
+
+ministerstva práce a sociálních věcí České socialistické republiky
+
+ze dne 19. září 1979
+
+o změně vyhlášky č. 130/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení
+
+Ministerstvo práce a sociálních věcí České socialistické republiky stanoví podle § 172 odst. 6 zákona č. 121/1975 Sb., o sociálním zabezpečení ve znění zákonného opatření předsednictva Federálního shromáždění č. 76/1979 Sb., o zvýšení důchodů a podle § 50 zákona České národní rady č. 129/1975 Sb., o působnosti orgánů České socialistické republiky v sociálním zabezpečení ve znění zákonného opatření předsednictva České národní rady č. 78/1979 Sb., kterým se mění zákon České národní rady č. 129/1975 Sb., o působnosti orgánů České socialistické republiky v sociálním zabezpečení, v dohodě s federálním ministerstvem práce a sociálních věcí, ostatními zúčastněnými ústředními orgány a s Českou odborovou radou a po projednání se Svazem družstevních rolníků České socialistické republiky:
+
+## Čl. I
+
+Vyhláška ministerstva práce a sociálních věcí České socialistické republiky č. 130/1975 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České socialistické republiky v sociálním zabezpečení se mění takto:
+
+Příloha č. 2 vyhlášky č. 130/1975 Sb. včetně nadpisu zní:
+
+> **„Příspěvek na provoz motorových vozidel a příspěvek na úhradu pojistného**
+
+> (Nejvyšší výměra)
+
+> A. Jednostopá motorová vozidla
+
+> \- motorové tříkolky a vozítka zn. Velorex
+
+> | Obsah válců | Příspěvek na provoz Kčs ročně | Příspěvek na úhradu pojistného Kčs ročně |
+> |---|---|---|
+> | do 50 ccm | 675,– | 12,– |
+> | nad 50 do 100 ccm | 675,– | 24,– |
+> | nad 100 do 350 ccm | 675,– | 48,– |
+> | nad 350 ccm | 1050,– | 48,– |
+
+> B. Automobily
+
+> | Obsah válců | Příspěvek na provoz Kčs ročně | Příspěvek na úhradu pojistného Kčs ročně |
+> |---|---|---|
+> | do 500 ccm | 1050,– | 60,– |
+> | nad 500 do 800 ccm | 1050,– | 144,– |
+> | nad 800 do 1250 ccm | 1350,– | 144,– |
+> | nad 1250 do 2000 ccm | 1950,– | 144,– |
+> | nad 2000 ccm | 2400,– | 144,–“. |
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. října 1979.
+
+Náměstek ministra:
+
+Ing. Kohoutek v. r.

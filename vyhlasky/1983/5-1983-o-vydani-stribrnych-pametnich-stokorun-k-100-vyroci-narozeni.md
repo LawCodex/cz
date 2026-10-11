@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 5/1983 Sb., o vydání stříbrných pamětních stokorun k 100. výročí narození Jaroslava Haška"
+identifier: "5/1983 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1983/5/1983-04-21"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1982-12-01
+effective: 1983-04-21
+last_amended: 1983-04-21
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1983/5"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 5/1983 Sb., o vydání stříbrných pamětních stokorun k 100. výročí narození Jaroslava Haška
+
+5
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 1. prosince 1982
+
+o vydání stříbrných pamětních stokorun k 100. výročí narození Jaroslava Haška
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) U příležitosti 100. výročí narození Jaroslava Haška se vydávají pamětní stříbrné stokoruny.
+
+(2) Pamětní stříbrné stokoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku. Hmotnost stokoruny je 9 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 29 mm, její hrana je vroubkovaná.
+
+## § 2
+
+(1) Na líci pamětní stříbrné stokoruny je uprostřed státní znak Československé socialistické republiky a pod ním ve dvou řádcích je označení hodnoty „100 Kčs“. V opise do kruhu zleva je název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“.
+
+(2) Na rubu pamětní stříbrné stokoruny je portrét Jaroslava Haška v čelném pohledu. Pod portrétem je ve třech řádcích jméno „Jaroslav Hašek“ a letopočty „1883 1983“.
+
+(3) Autorem návrhu pamětní stříbrné stokoruny je Štefan Novotný, jehož značka „N“ je umístěna na rubu vlevo pod portrétem.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 21. dubna 1983.
+
+Ministr:
+
+Ing. Lér CSc. v. r.
+
+### ![sbcr1983c001z0005_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780391/NAHLED/ZOBRAZ/sbcr1983c001z0005_o_1)
+
+### ![sbcr1983c001z0005_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780393/NAHLED/ZOBRAZ/sbcr1983c001z0005_o_2)

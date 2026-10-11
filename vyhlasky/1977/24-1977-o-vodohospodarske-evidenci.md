@@ -1,0 +1,127 @@
+---
+title: "Vyhláška Ministerstva lesního a vodního hospodářství Slovenské socialistické republiky č. 24/1977 Sb., o vodohospodářské evidenci"
+identifier: "24/1977 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1977/24/1978-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1977-03-01
+effective: 1978-01-01
+last_amended: 1978-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1977/24"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva lesního a vodního hospodářství Slovenské socialistické republiky č. 24/1977 Sb., o vodohospodářské evidenci
+
+24
+
+VYHLÁŠKA
+
+ministerstva lesního a vodního hospodářství Slovenské socialistické republiky
+
+ze dne 1. března 1977
+
+o vodohospodářské evidenci
+
+Ministerstvo lesního a vodního hospodářství Slovenské socialistické republiky stanoví podle § 15 odst. 2 zákona Slovenské národní rady č. 135/1974 Sb., o státní správě ve vodním hospodářství (dále jen „zákon“):
+
+## § 1 – Vodohospodářská evidence
+
+(1) Vodohospodářská evidence obsahuje evidenční listy (kartotéku), na něž se zaznamenávají opatření uvedená v § 2 (dále jen „opatření“), seznam evidenčních listů, seznam oprávněných (žadatelů), kterým bylo vydáno opatření, a. sbírku listin a dokumentace.
+
+(2) Vodohospodářskou evidenci vedou o svých opatřeních vodohospodářské orgány, které v ní zaznamenávají i výsledky přezkumného řízení provedeného vyššími orgány.
+
+(3) Okresní a jim naroveň postavené národní výbory se pověřují vedením souhrnné vodohospodářské evidence okresu. Souhrnná vodohospodářská evidence okresu obsahuje kromě vodohospodářské evidence okresu evidenční listy a jedno vyhotovení opatření jiných vodohospodářských orgánů, která se týkají území okresu, s případnými dalšími písemnostmi a přehlednou mapu podávající místopisný přehled o evidovaných opatřeních (dále jen „přehledná mapa“).
+
+(4) Správci vodohospodářsky významných vodních toků (dále jen „podniky povodí“) se pověřují vedením souhrnné vodohospodářské evidence povodí. Souhrnná vodohospodářská evidence povodí obsahuje evidenční listy, seznam evidenčních listů, seznam oprávněných (žadatelů), kterým bylo vydáno opatření, sbírku listin, dokumentaci a přehlednou mapu. Na evidenčních listech se zaznamenávají opatření vodohospodářských orgánů, která se týkají povodí vodních toků spravovaných příslušným podnikem povodí.
+
+(5) Výzkumný ústav vodohospodářský Bratislava se pověřuje vedením souhrnné vodohospodářské evidence Slovenské socialistické republiky; vede ji podle pokynů ministerstva lesního a vodního hospodářství Slovenské socialistické republiky (dále jen „ministerstvo“).
+
+## § 2 – Evidovaná opatření
+
+V rámci vodohospodářské evidence se evidují:
+
+a) povolení k nakládání s vodami,<sup>1</sup>) k vodohospodářským dílům,<sup>2</sup>) k některým činnostem a stavbám ve vodohospodářsky významných územích,<sup>3</sup>) k vypouštění odpadních vod do veřejných kanalizací<sup>4</sup>) a změny, zrušení a zániky těchto povolení,
+
+b) souhlasy ke stavbám, zařízením a činnostem, které mohou ovlivnit vodní poměry,<sup>5</sup>) a zániky platnosti těchto souhlasů,
+
+c) vyjádření, zda je plánovaná investice, změna ve výrobním procesu nebo v rozsahu výroby, změna nebo úprava vodohospodářského díla z vodohospodářského hlediska možná, popřípadě za jakých podmínek, pokud k realizaci záměru bude třeba povolení nebo souhlasu vodohospodářského orgánu,<sup>6</sup>)
+
+d) další opatření vodohospodářských orgánů
+
+1\. o stanovení území při vodních tocích, v jehož rámci je ke stavbám, zařízením, popřípadě činnostem třeba souhlasu vodohospodářského orgánu,<sup>7</sup>)
+
+2\. o stanovení zátopových území,<sup>8</sup>)
+
+3\. o ochranných pásmech k ochraně vydatnosti, jakosti nebo zdravotní nezávadnosti vodních zdrojů<sup>9</sup>) a u vodohospodářských děl.<sup>10</sup>)
+
+## § 3 – Jednotlivé složky vodohospodářské evidence
+
+(1) Evidenční list je formulář pro záznam údajů o opatřeních podléhajících vodohospodářské evidenci podle § 2 s výjimkou opatření místních (městských) národních výborů, popřípadě okresních národních výborů v rozsahu stanoveném v § 3 odst. 2 zákona a ostatních opatření okresních národních výborů týkajících se jednotlivých občanů (opatření místního významu), která se zaznamenávají na seznamech opatření místního významu. Opatření podléhající vodohospodářské evidenci podle § 2, navazující na předchozí opatření k témuž případu, se zaznamenává na evidenčním listě předchozího opatření.
+
+(2) Seznam evidenčních listů je soubor vázaných sešitů členěných podle skupin opatření pro chronologický záznam evidenčních listů uložených ve vodohospodářské evidenci. Slouží pro kontrolu úplnosti evidence a pro jednoznačné stanovení čísel evidenčních listů.
+
+(3) Seznam oprávněných (žadatelů) je vázaný sešit pro přehledné uvedení všech oprávněných (žadatelů) a jim vydaných opatření vodohospodářských orgánů.
+
+(4) Sbírka listin a dokumentace je souborem spisů k evidovaným opatřením. Obsahuje stejnopisy evidovaných opatření a další listiny, výkresy a ostatní dokumentaci potřebnou jako podklad pro vydání opatření.
+
+(5) Přehledná mapa je soubor listů základní vedohospodářské mapy v měřítku 1 : 50 000, popřípadě též podrobnějších map většího měřítka, zobrazujících území příslušného okresu nebo povodí, do nichž se pomocí symbolů zakreslují opatření podléhající evidenci.
+
+**Společná, přechodná a zrušovací ustanovení**
+
+## § 4
+
+Žadatel o opatření podléhající vodohospodářské evidenci předloží vodohospodářskému orgánu spolu se žádostí doklady a na předepsaném tiskopise údaje potřebné k jejímu vyřízení, ověřené, popřípadě doplněné příslušným podnikem povodí, a vhodný situační podklad pro zakreslení požadovaného opatření do přehledné mapy.
+
+## § 5
+
+(1) Vodohospodářská evidence se ukládá na bezpečném místě tak, aby byla chráněna před jakýmkoliv poškozením, ztrátou nebo odcizením.
+
+(2) Při manipulaci s utajovanými písemnostmi je nutno dodržovat předpisy o ochraně státního, hospodářského a služebního tajemství.
+
+## § 6
+
+(1) Vodohospodářské orgány přešetří dosavadní evidenci vodohospodářských děl a zařízení a vodohospodářských povolení a souhlasů, jakož i jejich změn, podle potřeby doplní a popřípadě zpřesní evidované údaje a nejpozději do pěti let ode dne účinnosti vyhlášky je převedou, ve spolupráci s podniky povodí, v rozsahu určeném ministerstvem do nové evidence. V souvislosti s tím provedou jednorázovou prověrku evidovaných skutečností.
+
+(2) Vodohospodářské orgány si mohou vyžádat potřebné doplnění údajů od organizací, jimž bylo vydáno příslušné opatření.
+
+## § 7
+
+Vodohospodářská evidence se vede na tiskopisech předepsaných ministerstvem.
+
+## § 8
+
+Zrušuje se vyhláška Ústřední správy vodního hospodářství č. 96/1957 Ú. v., o evidenci vodohospodářských děl a zařízení a vodohospodářských povolení a souhlasů, jakož i jejich změn.
+
+## § 9
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1978.
+
+Ministr:
+
+Ing. Margetin v. r.
+
+---
+
+<sup>1</sup>) § 8 zákona č. 138/1973 Sb., o vodách (vodní zákon).
+
+<sup>2</sup>) § 9 vodního zákona.
+
+<sup>3</sup>) § 10, § 40 odst. 3 vodního zákona.
+
+<sup>4</sup>) § 24 vodního zákona.
+
+<sup>5</sup>) § 13, § 20 vodního zákona. 
+ § 3 vyhlášky ministerstva lesního a vodního hospodářství Slovenské socialistické republiky č. 10/1977 Sb., kterou se určují vodárenské toky a jejich povodí a stanoví seznam vodohospodářsky významných vodních toků.
+
+<sup>6</sup>) § 14 vodního zákona.
+
+<sup>7</sup>) § 13 odst. 1 vodního zákona.
+
+<sup>8</sup>) § 13 odst. 2 vodního zákona.
+
+<sup>9</sup>) § 19 odst. 1 vodního zákona.
+
+<sup>10</sup>) § 40 odst. 3 vodního zákona.

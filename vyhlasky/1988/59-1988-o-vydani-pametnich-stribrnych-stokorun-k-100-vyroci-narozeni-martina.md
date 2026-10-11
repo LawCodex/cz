@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 59/1988 Sb., o vydání pamětních stříbrných stokorun k 100. výročí narození Martina Benky"
+identifier: "59/1988 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1988/59/1988-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1988-04-12
+effective: 1988-06-01
+last_amended: 1988-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1988/59"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 59/1988 Sb., o vydání pamětních stříbrných stokorun k 100. výročí narození Martina Benky
+
+59
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 12. dubna 1988
+
+o vydání pamětních stříbrných stokorun k 100. výročí narození Martina Benky
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) K 100. výročí narození malíře Martina Benky se vydávají pamětní stříbrné stokoruny (dále jen „stokoruny“).
+
+(2) Stokoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku. Hmotnost stokoruny je 13 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 31 mm, její hrana je vroubkovaná.
+
+## § 2
+
+(1) Na líci stokoruny je uprostřed státní znak Československé socialistické republiky a okolo něho v neuzavřeném opise název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“ a dole stylizovaná snítka s ptákem. Označení hodnoty „100 Kčs“ je v řádku pod státním znakem.
+
+(2) Na rubu stokoruny je před vrcholy horských štítů zobrazena žena ve slovenském kroji vypouštějící holubici míru a pošlapávající zbraně. Vlevo v opise je jméno „MARTIN BENKA“, v opise vpravo jsou letopočty „1888–1988“.
+
+(3) Autorem návrhu stokoruny je národní umělec Ján Kulich. Iniciály jeho jména „J.K.“ jsou umístěny na rubu vpravo dole.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. června 1988.
+
+Ministr:
+
+Ing. Žák v. r.
+
+### ![sbcr1988c009z0059_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792439/NAHLED/ZOBRAZ/sbcr1988c009z0059_o_1)
+
+### ![sbcr1988c009z0059_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792441/NAHLED/ZOBRAZ/sbcr1988c009z0059_o_2)

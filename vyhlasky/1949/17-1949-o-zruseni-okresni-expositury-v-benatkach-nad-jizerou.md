@@ -1,0 +1,36 @@
+---
+title: "Vyhláška č. 17/1949 Sb., o zrušení okresní expositury v Benátkách nad Jizerou"
+identifier: "17/1949 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1949/17/1949-02-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1949-01-25
+effective: 1949-02-01
+last_amended: 1949-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1949/17"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 17/1949 Sb., o zrušení okresní expositury v Benátkách nad Jizerou
+
+17.
+
+Vyhláška ministerstva vnitra
+
+ze dne 25. ledna 1949
+
+o zrušení okresní expositury v Benátkách nad Jizerou.
+
+Podle § 16, odst. 2 dekretu presidenta republiky ze dne 27. října 1945, č. 121 Sb., o územní organisaci správy, vykonávané národními výbory, činím toto opatření:
+
+## § 1.
+
+Zrušuje se expositura okresního národního výboru v Mladé Boleslavi, zřízená v Benátkách nad Jizerou pro obce soudního okresu benátského vyhláškou ministra vnitra ze dne 10. července 1937, č. 187 Sb., o zřízení politické expositury v Nových Benátkách, ve znění § 10, odst. 1 dekretu č. 121/1945 Sb.
+
+## § 2.
+
+Tato vyhláška nabývá účinnosti dnem 1. února 1949.
+
+Nosek v. r.

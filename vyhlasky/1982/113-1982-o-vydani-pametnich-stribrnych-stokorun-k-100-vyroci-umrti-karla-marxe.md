@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 113/1982 Sb., o vydání pamětních stříbrných stokorun k 100. výročí úmrtí Karla Marxe"
+identifier: "113/1982 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1982/113/1983-01-10"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1982-08-30
+effective: 1983-01-10
+last_amended: 1983-01-10
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1982/113"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 113/1982 Sb., o vydání pamětních stříbrných stokorun k 100. výročí úmrtí Karla Marxe
+
+113
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 30. srpna 1982
+
+o vydání pamětních stříbrných stokorun k 100. výročí úmrtí Karla Marxe
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) U příležitosti 100. výročí úmrtí Karla Marxe se vydávají pamětní stříbrné stokoruny.
+
+(2) Pamětní stříbrné stokoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku. Hmotnost stokoruny je 9 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 29 mm, její hrana je vroubkovaná.
+
+## § 2
+
+(1) Na líci pamětní stříbrné stokoruny je uprostřed státní znak Československé socialistické republiky. Pod státním znakem je ve třech řádcích název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“ a uprostřed dole při okraji mince lipový list. Uprostřed po stranách státního znaku je umístěno označení hodnoty; vpravo číslo „100“, vlevo zkratka „Kčs“.
+
+(2) Na rubu pamětní stříbrné stokoruny je portrét Karla Marxe v čelném pohledu. V opise vpravo nahoře je jeho jméno „KAREL MARX“, vlevo dole letopočty „1883-1983“.
+
+(3) Autorem návrhu pamětní stříbrné stokoruny je akademický sochař Ladislav Kozák, jehož značka „LK“ je umístěna na rubu dole.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 10. ledna 1983.
+
+Ministr:
+
+Ing. Lér CSc. v. r.
+
+### ![sbcr1982c022z0113_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780233/NAHLED/ZOBRAZ/sbcr1982c022z0113_o_1)
+
+### ![sbcr1982c022z0113_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780235/NAHLED/ZOBRAZ/sbcr1982c022z0113_o_2)

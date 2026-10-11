@@ -1,0 +1,82 @@
+---
+title: "Vyhláška Federálního ministerstva pro technický a investiční rozvoj č. 68/1978 Sb., kterou se mění a doplňují některá ustanovení vyhlášky č. 163/1973 Sb., o dokumentaci staveb, ve znění vyhlášky č. 31/1976 Sb."
+identifier: "68/1978 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1978/68/1978-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1978-06-15
+effective: 1978-07-01
+last_amended: 1978-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1978/68"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva pro technický a investiční rozvoj č. 68/1978 Sb., kterou se mění a doplňují některá ustanovení vyhlášky č. 163/1973 Sb., o dokumentaci staveb, ve znění vyhlášky č. 31/1976 Sb.
+
+68
+
+VYHLÁŠKA
+
+federálního ministerstva pro technický a investiční rozvoj
+
+ze dne 15. června 1978,
+
+kterou se mění a doplňují některá ustanovení vyhlášky č. 163/1973 Sb., o dokumentaci staveb, ve znění vyhlášky č. 31/1976 Sb.
+
+Federální ministerstvo pro technický a investiční rozvoj stanoví podle § 53 zákona č. 133/1970 Sb., o působnosti federálních ministerstev:
+
+## Čl. I
+
+Vyhláška č. 163/1973 Sb., o dokumentaci staveb, ve znění vyhlášky č. 31/1976 Sb., se mění a doplňuje takto:
+
+1\. Za § 63f se vkládá § 63g, který včetně nadpisu zní:
+
+> **„§ 63g – Rozpočet souhrnné ceny typového stavebního objektu**
+
+> (1) Rozpočet souhrnné ceny typového stavebního objektu, pro který se stanoví velkoobchodní cena podle zvláštního předpisu,<sup>5</sup>) se zpracovává jako součást jednostupňového projektu; výjimečně se zpracovává jako součást prováděcího projektu v těch případech, kdy
+
+> a) při použití podrobné dokumentace k typovému podkladu,<sup>6</sup>) popřípadě typového podkladu<sup>7</sup>) (dále jen „podklad“) se zaměňují konstrukce a práce podle zvláštního předpisu,<sup>8</sup>) a vyžadují-li tyto změny úpravu podkladu pro úvodní projekt;
+
+> b) úvodní projekt se zpracovává před stanovením velkoobchodní ceny typového stavebního objektu;
+
+> c) technické vyjasnění části typového stavebního objektu doplňující podklad je mimořádně náročné.
+
+> (2) Zpracovává-li rozpočet souhrnné ceny typového stavebního objektu generální projektant, je povinen odevzdat jako součást projektové dokumentace v jednom vyhotovení oceněné popisy prací a dodávek celého typového stavebního objektu; přitom využije oceněných popisů prací a dodávek z podkladů, které jsou součástí základních rozpočtových nákladů.<sup>9</sup>)
+
+> (3) Rozpočet souhrnné ceny v případě uvedeném v odstavci 1 písm. a) zajišťuje dodavatel jako součást prováděcího projektu podle ustanovení § 63b odst. 4 a § 63d odst. 2 v případě, že požaduje sám změny. Přitom je povinen bez úplaty požadované změny uplatnit u generálního projektanta již při zpracovávání úvodního projektu a promítnout je pro něho do podkladu pro úvodní projekt.
+
+> (4) V souhrnném rozpočtu stavby se pro typový stavební objekt, pro který se stanoví souhrnná cena, zahrne do hlavy VIII jako rezerva částka odpovídající 4 % z rozpočtových nákladů uvedených v hlavě III; pro typové stavební objekty technické a občanské vybavenosti komplexní bytové výstavby se rezerva stanoví ve výši 2 %, pro typové bytové stavební objekty ve výši 1 %.
+
+> (5) Ustanovení § 55 odst. 2 první věty, § 63b odst. 4 a 6 a § 63d odst. 2 se nepoužijí. Jde-li o postup podle odstavce 3, nepoužijí se pouze ustanovení § 55 odst. 2 první věty a § 63b odst. 6.
+
+> (6) Podrobný způsob rozpočtování souhrnných cen typových stavebních objektů stanoví zvláštní předpis.<sup>10</sup>)“.
+
+2\. V § 71 se za odstavec 4 vkládá nový odstavec 5, který zní:
+
+> „(5) Při přípravě staveb na území hlavního města Prahy a hlavního města Slovenské socialistické republiky Bratislavy se postupuje podle této vyhlášky, pokud zvláštní předpisy<sup>11</sup>) nestanoví jinak.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. července 1978.
+
+Ministr:
+
+Ing. Šupka v. r.
+
+---
+
+<sup>5</sup>) Pokyn FCÚ, ČCÚ a SCÚ č. P-5/77 o tvorbě velkoobchodních cen typových stavebních objektů (Cenový věstník č. 1, ročník 1978).
+
+<sup>6</sup>) § 10 vyhlášky č. 95/1977 Sb., o typizaci ve výstavbě.
+
+<sup>7</sup>) § 9 vyhlášky č. 95/1977 Sb.
+
+<sup>8</sup>) § 9 odst. 8 vyhlášky č. 95/1977 Sb.
+
+<sup>9</sup>) § 10 odst. 3 a § 9 odst. 6 vyhlášky č. 95/1977 Sb.
+
+<sup>10</sup>) Výnos FMTIR č. 4/1978 o rozpočtování souhrnných cen typových stavebních objektů a opakovaných stavebních objektů nebo provozních souborů (Zpravodaj FMTIR, MVT ČSR a MVT SSR, částka 3–4, ročník 1978).
+
+<sup>11</sup>) Výnos FMTIR č. 3/1978 o zvláštním postupu při přípravě staveb na území hlavního města Prahy (Zpravodaj FMTIR, MVT ČSR a MVT SSR, částka 3–4, ročník 1978).

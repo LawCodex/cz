@@ -1,0 +1,116 @@
+---
+title: "Vyhláška Federálního ministerstva zemědělství a výživy č. 137/1985 Sb., o změně a doplnění vyhlášky federálního ministerstva zemědělství a výživy č. 49/1977 Sb., kterou se vydávají základní podmínky dodávky potravinářských a některých jiných výrobků"
+identifier: "137/1985 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1985/137/1986-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1985-12-20
+effective: 1986-01-01
+last_amended: 1986-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1985/137"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva zemědělství a výživy č. 137/1985 Sb., o změně a doplnění vyhlášky federálního ministerstva zemědělství a výživy č. 49/1977 Sb., kterou se vydávají základní podmínky dodávky potravinářských a některých jiných výrobků
+
+137
+
+VYHLÁŠKA
+
+federálního ministerstva zemědělství a výživy
+
+ze dne 20. prosince 1985
+
+o změně a doplnění vyhlášky federálního ministerstva zemědělství a výživy č. 49/1977 Sb., kterou se vydávají základní podmínky dodávky potravinářských a některých jiných výrobků
+
+Federální ministerstvo zemědělství a výživy v dohodě se zúčastněnými ústředními orgány a Státní arbitráží Československé socialistické republiky stanoví podle § 392 odst. 1 hospodářského zákoníku č. 109/1964 Sb., v úplném znění vyhlášeném pod č. 45/1983 Sb. (dále jen „zákon“):
+
+## Čl. I
+
+Vyhláška federálního ministerstva zemědělství a výživy č. 49/1977 Sb., kterou se vydávají základní podmínky dodávky potravinářských a některých jiných výrobků, se mění a doplňuje takto:
+
+1\. § 2 včetně nadpisu zní:
+
+> **„§ 2 – Přípravné smlouvy**
+
+> (1) V zájmu zlepšení uspokojování potřeb vnitřního trhu a stabilizace dlouhodobých dodavatelsko-odběratelských vztahů uzavírají organizace, popřípadě orgány hospodářského řízení přípravné smlouvy, kterými jsou smlouvy o přípravě dodávek nebo smlouvy o spolupráci.<sup>1</sup>)
+
+> (2) V přípravných smlouvách organizace zejména
+
+> a) uvádějí předpokládaný celkový roční objem dodávek členěný na čtvrtletí a jejich sortimentní skladbu,
+
+> b) sjednávají způsob uzavírání smluv o dodávce, případně termíny společných kontraktačních jednání,
+
+> c) sjednávají podmínky průzkumu trhu a vzájemné koordinace při jeho provádění,
+
+> d) sjednávají podmínky spolupráce na úseku inovace výrobků v souladu se schválenými programy se zvláštním zřetelem na požadavky racionální výživy a rozšiřování sortimentu,
+
+> e) sjednávají podmínky spolupráce na úseku propagace, zejména o rozsahu dodávek propagačního materiálu nebo jiných prostředků, které dodavatel poskytuje k propagaci vlastních výrobků zdarma,
+
+> f) sjednávají postup při nakládání se zásobami, které vzniknou dodavateli v důsledku toho, že celkový objem dodávek nebo objem dodávek v určitém sortimentu výrobků byl nižší, než bylo dohodnuto v přípravné smlouvě.
+
+> (3) V případech, kdy je jmenovitě stanovena nebo uložena povinnost projednat dodavatelsko-odběratelské vztahy<sup>2</sup>) a nebyla-li smlouva o přípravě dodávek uzavřena namísto protokolu o projednávání dodavatelsko-odběratelských vztahů,<sup>3</sup>) předkládá odběratel návrh smlouvy o přípravě dodávek nejpozději do jednoho měsíce od pořízení protokolu, a pokud došlo k rozporu, od rozhodnutí rozporu nadřízenými orgány hospodářského řízení. V ostatních případech předkládá odběratel návrh smlouvy o přípravě dodávek nejpozději do 30. září roku předcházejícího uskutečnění prvé dodávky.
+
+> (4) Smlouva o přípravě dodávek se uzavírá nejméně na dobu jednoho roku.
+
+> (5) Nepředložil-li odběratel návrh smlouvy o dodávce ke splnění závazku ze smlouvy o přípravě dodávek na celý předpokládaný rozsah a obsah dodávek výrobků, je povinen zaplatit dodavateli penále ve výši 5 % z ceny výrobků, popřípadě průměrné ceny skupin výrobků, u nichž nesplnil povinnost předložit návrh smlouvy. Toto penále nemusí být účtováno a vymáháno.“.
+
+2\. § 3 včetně nadpisu zní:
+
+> **„§ 3 – Smlouva o dodávce**
+
+> (1) Odběratel je povinen předložit návrh smlouvy o dodávce (objednávku) nejpozději do 45 dnů před začátkem čtvrtletí, v němž má být dodávka uskutečněna.
+
+> (2) V případě, že se na základě dohody organizací nebo jejich nadřízených orgánů uzavírají u některých výrobků měsíční dodávkové smlouvy, je odběratel povinen předložit návrh smlouvy nejpozději do 12. dne předcházejícího měsíce, pokud si organizace nesjednají jinou lhůtu.
+
+> (3) V návrhu smlouvy odběratel vymezí předmět plnění uvedením podrobného sortimentu, včetně balení a čísla jednotné klasifikace průmyslových oborů a výrobků. Dodavatel je povinen vyjádřit se k návrhu smlouvy do 10 dnů po jeho obdržení, a to i v případě, že byl návrh smlouvy předložen opožděně.
+
+> (4) Dohodnou-li se organizace nebo jejich nadřízené orgány, že množství a podrobný sortiment výrobků se sjednává na společných kontraktačních jednáních, která se konají nejpozději 35 dnů před počátkem čtvrtletí, v němž mají být dodávky uskutečněny, je zápis z těchto jednání smlouvou, pokud obsahuje náležitosti hospodářské smlouvy a je podepsaný odběratelem a dodavatelem.
+
+> (5) V případech, kdy množství a sortiment výrobků jsou určovány na jednotlivá čtvrtletí nebo měsíce operativními rozpisy prováděnými nadřízenými orgány, jsou těmito rozpisy uloženy dodavatelům a odběratelům závazky ve smyslu § 118 zákona.“.
+
+3\. V § 4 odst. 2 se vypouští druhá věta.
+
+4\. V § 8 se odstavce 1 a 2 nahrazují novým odstavcem 1, který zní:
+
+> „(1) Přepravu výrobků do místa určení zajišťuje dodavatel. V případě, že odběratel zajistí na svůj náklad odvoz výrobků ze závodu (skladu) dodavatele, přičemž náklady dopravy jsou zahrnuty v ceně, je dodavatel povinen poskytnout srážku z velkoobchodní ceny (odbytové přirážky) podle zvláštních předpisů.<sup>2a</sup>)“.
+
+Dosavadní odstavce 3, 4 a 5 se označují jako odstavce 2, 3 a 4.
+
+5\. § 10 se doplňuje odstavcem 4, který zní:
+
+> „(4) Dodavatel je povinen umožnit odběrateli provést jeho vstupní kontrolu v závodě dodavatele před splněním dodávky. K provedení vstupní kontroly odběratele jsou oprávněny odborně způsobilí pracovníci, které pověří nadřízený orgán odběratele, pokud se organizace nedohodnou jinak. V případech, kdy při takto prováděné kontrole se zjistí, že výrobky jsou vadné, je pracovník odběratele provádějící vstupní kontrolu oprávněn k ověření jakosti výrobků i během výrobního procesu.“.
+
+6\. § 13 včetně nadpisu zní:
+
+> **„§ 13 – Označování výrobků**
+
+> Dojde-li ke změně maloobchodní ceny, postupuje se při označování výrobků podle zvláštních předpisů.<sup>5a</sup>)“.
+
+7\. § 16 zní:
+
+> **„§ 16**
+
+> Organizace se nemohou dohodnout ve smlouvě odchylně od ustanovení této vyhlášky, s výjimkou § 4 odst. 2, § 5, § 8 odst. 4, § 9 odst. 1 a § 10 odst. 2 a 4.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1986.
+
+Ministr:
+
+Ing. Toman CSc. v. r.
+
+---
+
+<sup>1</sup>) § 162 až 164 zákona.
+
+<sup>2</sup>) § 4 odst. 5 vyhlášky Státní plánovací komise a Státní arbitráže Československé socialistické republiky č. 48/1980 Sb., o hmotném bilancování a projednávání dodavatelsko-odběratelských vztahů v plánovacím procesu.
+
+<sup>3</sup>) § 7 odst. 6 vyhlášky č. 48/1980 Sb.
+
+<sup>2a</sup>) § 24 odst. 7 vyhlášky Federálního cenového úřadu, Českého cenového úřadu a Slovenského cenového úřadu č. 113/1985 Sb., o cenách.
+
+<sup>5a</sup>) Výnos Federálního cenového úřadu, Českého cenového úřadu a Slovenského cenového úřadu ze dne 29. 11. 1985 č. V-3/86 o cenících a označování výrobků maloobchodními cenami, registrovaný v částce 32/1985 Sb.

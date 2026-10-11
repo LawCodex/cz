@@ -1,0 +1,46 @@
+---
+title: "Nařízení vlády č. 54/1951 Sb., o územních změnách v Karlovarském kraji"
+identifier: "54/1951 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1951/54/1951-08-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1951-07-10
+effective: 1951-08-01
+last_amended: 1951-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1951/54"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 54/1951 Sb., o územních změnách v Karlovarském kraji
+
+54.
+
+Vládní nařízení
+
+ze dne 10. července 1951
+
+o územních změnách v Karlovarském kraji.
+
+Vláda republiky Československé nařizuje se souhlasem presidenta republiky podle § 42 odst. 1 zákona č. 241/1948 Sb., o prvním pětiletém hospodářském plánu rozvoje Československé republiky (zákon o pětiletém plánu), a podle § 15 odst. 1 dekretu presidenta republiky č. 121/1945 Sb., o územní organisaci správy, vykonávané národními výbory:
+
+## § 1.
+
+(1) Zrušuje se okres Jáchymov. Obce tohoto okresu se připojují k okresu Karlovy Vary s výjimkou obce Kryštofovy Hamry, která se připojuje k okresu Kadaň.
+
+(2) K okresu Karlovy Vary se připojují obce Bošířany, Dvory, Háje, Horní Slavkov, Kfely, Krásno, Ležnice, Ležnička, Nadlesí a Údolí z okresu Sokolov a obce Bečov nad Teplou, Hlinky, Krásná, Milešov a Vodná z okresu Toužim.
+
+(3) Ministerstvo vnitra může po slyšení dotčených národních výborů připojit k okresu Karlovy Vary také jiné obce anebo některé obce tohoto okresu připojit k okresům sousedním, bude-li toho třeba k tomu, aby byly vytvořeny předpoklady pro plné využití hospodářských možností v průmyslové výrobě v Karlovarském kraji.
+
+## § 2.
+
+(1) Toto nařízení nabývá účinnosti dnem 1. srpna 1951; opatření nutná k jeho provedení lze však učinit již před tímto dnem.
+
+(2) Toto nařízení provede ministr vnitra v dohodě se zúčastněnými členy vlády.
+
+Gottwald v. r.
+
+Zápotocký v. r.
+
+Nosek v. r.

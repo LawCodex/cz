@@ -1,0 +1,96 @@
+---
+title: "Zákon č. 95/1988 Sb., o užívání půdy a jiného zemědělského majetku k zajištění výroby"
+identifier: "95/1988 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1988/95/1988-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1988-06-15
+effective: 1988-07-01
+last_amended: 1988-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1988/95"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 95/1988 Sb., o užívání půdy a jiného zemědělského majetku k zajištění výroby
+
+95
+
+ZÁKON
+
+ze dne 15. června 1988,
+
+kterým se mění a doplňuje zákon č. 123/1975 Sb., o užívání půdy a jiného zemědělského majetku k zajištění výroby
+
+Federální shromáždění Československé socialistické republiky se usneslo na tomto zákoně:
+
+## Čl. I
+
+Zákon č. 123/1975 Sb., o užívání půdy a jiného zemědělského majetku k zajištění výroby, se mění a doplňuje takto:
+
+1\. § 8 se vypouští.
+
+2\. § 9 včetně nadpisu zní:
+
+> **„§ 9 – Dočasné užívání**
+
+> (1) Pozemky nevhodné pro socialistickou zemědělskou velkovýrobu může zemědělská organizace, které k nim náleží právo užívání, přenechat do dočasného užívání v tomto pořadí
+
+> a) svým členům anebo svým pracovníkům k zemědělskému využití,
+
+> b) státní nebo družstevní organizaci k zemědělskému a výjimečně i k nezemědělskému využití,
+
+> c) společenské organizaci k zemědělskému využití,
+
+> d) jiným občanům k zemědělskému využití.
+
+> (2) Členům nebo pracovníkům zemědělské organizace nebo jiným občanům nelze přenechat do dočasného užívání vodní plochy a rybníky s chovem ryb.
+
+> (3) Zemědělská organizace může v odůvodněných případech přenechat do dočasného užívání socialistickým organizacím i stavby, k nimž jí náleží právo užívání, popřípadě jejich části, a pozemky, na nichž jsou tyto stavby zřízeny.
+
+> (4) Dočasné užívání vzniká písemnou smlouvou, k jejíž účinnosti je třeba souhlasu okresního národního výboru. Ve smlouvě o přenechání pozemku do dočasného užívání občanovi může být dohodnuta i přiměřená úplata.
+
+> (5) Uživatel, jemuž byly přenechány pozemky do dočasného užívání k zemědělskému využití, může na nich s předchozím souhlasem zemědělské organizace provádět úpravy a zřizovat dočasné stavby potřebné z hlediska zemědělského využití. To platí i pro stavby přenechané zemědělskou organizací do dočasného užívání, pokud jde o stavební úpravy. Souhlas zemědělské organizace je podkladem, bez něhož nemůže stavební úřad vydat územní rozhodnutí, stavební povolení nebo sdělení, že proti provedení stavby nemá námitek.<sup>1</sup>)
+
+> (6) Všechny porosty, které na pozemku vzešly v době dočasného užívání, jsou majetkem dočasného uživatele.
+
+> (7) Dočasné užívání skončí uplynutím doby, na kterou bylo sjednáno. Není-li doba sjednána, skončí uplynutím doby, v níž bylo anebo mohlo být dosaženo účelu, ke kterému byl pozemek do užívání přenechán. Užívání může skončit výpovědí s šestiměsíční výpovědní lhůtou ke dni 31. prosince běžného roku, pokud obecně závazný právní předpis nebo dohoda účastníků nestanoví jinak.
+
+> (8) Jsou-li pozemek nebo stavba, přenechané zemědělskou organizací do dočasného užívání, užívány v rozporu se zájmem společnosti, okresní národní výbor smlouvu o dočasném užívání zruší.
+
+> (9) Ke dni skončení dočasného užívání je uživatel povinen uvést pozemek do původního stavu, nevyplývá-li ze smlouvy o přenechání pozemku do dočasného užívání nebo z pozdějšího ujednání něco jiného; přitom je třeba dbát, aby nedocházelo k neodůvodněným hospodářským ztrátám.“.
+
+3\. Za § 11 se vkládá nový § 11a, který zní:
+
+> **„§ 11a**
+
+> Právo užívání pozemku, na němž byla nebo má být zřízena malá vodní elektrárna, může zemědělská organizace převést na socialistickou organizaci nebo může pozemek přenechat do užívání občanovi písemnou smlouvou, k jejíž účinnosti je třeba souhlasu okresního národního výboru.“.
+
+4\. Nadpis pod § 12 se uvede nad tímto paragrafem.
+
+5\. Za § 12 se vkládá nový § 12a, který zní:
+
+> **„§ 12a**
+
+> (1) Právo užívání pozemku nebo jeho části může okresní národní výbor zrušit na návrh jeho vlastníka se souhlasem zemědělské organizace, pokud jde o nezastavěný stavební pozemek a pokud by pozemek vzhledem ke svému určení a výměře mohl být předmětem práva osobního užívání.<sup>2</sup>)
+
+> (2) Právo užívání hospodářské budovy nebo jiné stavby (dále jen „hospodářská budova“), kterou zemědělská organizace již nepotřebuje, může okresní národní výbor zrušit na návrh zemědělské organizace se souhlasem vlastníka. Rozhodnutím o zrušení práva užívání hospodářské budovy musí být zrušeno i právo užívání zastavěné plochy s nádvořím nebo přilehlou zahradou; výměra zahrady nesmí přesáhnout 400 m<sup>2</sup>. Nejvyšší přípustná výměra zahrady může být výjimečně překročena, jen kdyby jinak vznikl pozemek nevhodného tvaru anebo zbylá část pozemku byla zcela nevhodná pro hospodaření zemědělské organizace.
+
+> (3) Byla-li hospodářská budova na náklady zemědělské organizace zhodnocena, je vlastník povinen poskytnout náhradu zemědělské organizaci odpovídající účelnému a trvalému zhodnocení podle stavu v době zrušení práva užívání.“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem 1. července 1988.
+
+Husák v. r.
+
+Indra v. r.
+
+Štrougal v. r.
+
+---
+
+<sup>1</sup>) § 39, § 57 odst. 2 a § 66 zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon).
+
+<sup>2</sup>) § 199, 200 a § 490 odst. 2 občanského zákoníku.

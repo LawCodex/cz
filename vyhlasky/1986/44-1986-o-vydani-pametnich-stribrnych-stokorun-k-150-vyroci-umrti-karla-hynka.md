@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 44/1986 Sb., o vydání pamětních stříbrných stokorun k 150. výročí úmrtí Karla Hynka Máchy"
+identifier: "44/1986 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1986/44/1986-07-28"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1986-07-02
+effective: 1986-07-28
+last_amended: 1986-07-28
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1986/44"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 44/1986 Sb., o vydání pamětních stříbrných stokorun k 150. výročí úmrtí Karla Hynka Máchy
+
+44
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 2. července 1986
+
+o vydání pamětních stříbrných stokorun k 150. výročí úmrtí Karla Hynka Máchy
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) K 150. výročí úmrtí básníka Karla Hynka Máchy se vydávají pamětní stříbrné stokoruny (dále jen „stokoruny“).
+
+(2) Stokoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku. Hmotnost stokoruny je 13 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 31 mm, její hrana je vroubkovaná.
+
+## § 2
+
+(1) Na líci stokoruny je uprostřed v horní části umístěn státní znak Československé socialistické republiky a pod ním ve třech řádcích název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“. Po stranách státního znaku je v rozděleném řádku označení hodnoty „100 Kčs“.
+
+(2) Na rubu stokoruny je portrét Karla Hynka Máchy. Jeho jméno „KAREL HYNEK MÁCHA“ je ve třech řádcích vlevo, letopočty „1836“ a „1986“ ve dvou řádcích vpravo.
+
+(3) Autorem návrhu stokoruny je Miloš Vavro, iniciály jeho jména „V“ a „M“ jsou umístěny vpravo dole.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 28. července 1986.
+
+Ministr:
+
+Ing. Žák v. r.
+
+### ![sbcr1986c014z0044_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791271/NAHLED/ZOBRAZ/sbcr1986c014z0044_o_1)
+
+### ![sbcr1986c014z0044_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/791273/NAHLED/ZOBRAZ/sbcr1986c014z0044_o_2)

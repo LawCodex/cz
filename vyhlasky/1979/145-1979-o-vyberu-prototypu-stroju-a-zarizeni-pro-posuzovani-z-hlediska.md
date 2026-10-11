@@ -1,0 +1,82 @@
+---
+title: "Vyhláška Slovenského úřadu bezpečnosti práce č. 145/1979 Sb., o výběru prototypů strojů a zařízení pro posuzování z hlediska požadavků bezpečnosti práce a technických zařízení"
+identifier: "145/1979 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1979/145/1980-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1979-11-16
+effective: 1980-01-01
+last_amended: 1980-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1979/145"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Slovenského úřadu bezpečnosti práce č. 145/1979 Sb., o výběru prototypů strojů a zařízení pro posuzování z hlediska požadavků bezpečnosti práce a technických zařízení
+
+145
+
+VYHLÁŠKA
+
+Slovenského úřadu bezpečnosti práce
+
+ze dne 16. listopadu 1979
+
+o výběru prototypů strojů a zařízení pro posuzování z hlediska požadavků bezpečnosti práce a technických zařízení
+
+Slovenský úřad bezpečnosti práce stanoví podle § 5 odst. 1 písm. d) zákona č. 174/1968 Sb., o státním odborném dozoru nad bezpečností práce, v dohodě s příslušnými ústředními orgány:
+
+## § 1
+
+(1) Vyhláška se vztahuje na organizace, které vyrábějí prototypy strojů a zařízení (dále jen „výrobce“).
+
+(2) Za prototypy strojů a zařízení se pro účely této vyhlášky považují prvé kusy
+
+a) vyhrazených tlakových zařízení<sup>1</sup>) včetně vodoznaků a pojistných ventilů kotlů,
+
+b) vyhrazených zdvihacích zařízení,<sup>2</sup>)
+
+c) pracovních strojů, které zpracovávají různé látky, suroviny nebo polotovary tak, že je obrábějí, upravují, přetvářejí, spojují, mísí, třídí, suší nebo podrobují jiným procesům,
+
+které nebyly dosud vyráběny, nebo byly již vyráběny, avšak má na nich dojít ke konstrukčním změnám, ovlivňujícím bezpečnost práce (dále jen „prototypy“).
+
+(3) Vyhláška se nevztahuje na prototypy, které
+
+a) podléhají dozoru orgánů, uvedených v § 3 odst. 2 zákona č. 174/1968 Sb.,
+
+b) podléhají schvalování orgánů státního zkušebnictví,<sup>3</sup>)
+
+c) jsou zhotoveny jednotlivě podle požadavků odběratele,
+
+d) jsou určeny pro experimentální účely.
+
+## § 2
+
+(1) Výrobce je povinen písemně oznámit inspektorátu bezpečnosti práce příslušnému podle místa výroby (dále jen „inspektorát“), že zamýšlí zahájit výrobu prototypu s uvedením jeho stručné technické charakteristiky a termínu zahájení výroby.
+
+(2) Na žádost inspektorátu je výrobce povinen
+
+a) předložit dokumentaci prototypu v rozsahu určeném inspektorátem,
+
+b) předvést prototyp v provozu ve lhůtě určené inspektorátem.
+
+## § 3
+
+Inspektorát oznámí výrobci výsledek svého posouzení nejpozději do 30 dnů po splnění povinností uvedených v § 2; nemůže-li tuto lhůtu dodržet, uvědomí o tom výrobce a stanoví konečný termín.
+
+## § 4
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1980.
+
+Ředitel:
+
+Ing. Kováč v. r.
+
+---
+
+<sup>1</sup>) Vyhláška Slovenského úřadu bezpečnosti práce a Slovenského báňského úřadu č. 23/1979 Sb, kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti.
+
+<sup>2</sup>) Vyhláška Slovenského úřadu bezpečnosti práce a Slovenského báňského úřadu č. 24/1979 Sb., kterou se určují vyhrazená zdvihací zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti.
+
+<sup>3</sup>) Zákon č. 30/1968 Sb., o státním zkušebnictví.

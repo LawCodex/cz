@@ -1,0 +1,46 @@
+---
+title: "Vyhláška Rady Okresního národního výboru v Galantě č. 9/1970 Sb., kterou se určuje obvodní úřad místních národních výborů v okrese stavebním úřadem"
+identifier: "9/1970 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1970/9/1970-02-25"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1970-02-05
+effective: 1970-02-25
+last_amended: 1970-02-25
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1970/9"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Rady Okresního národního výboru v Galantě č. 9/1970 Sb., kterou se určuje obvodní úřad místních národních výborů v okrese stavebním úřadem
+
+9
+
+VYHLÁŠKA
+
+rady Okresního národního výboru v Galantě
+
+ze dne 5. února 1970,
+
+kterou se určuje obvodní úřad místních národních výborů v okresu stavebním úřadem
+
+## § 1
+
+Rada Okresního národního výboru v Galantě určuje podle § 9 odst. 2 písm. a) zákona č. 87/1958 Sb., o stavebním řádu, ve spojení s čl. 6 zákona Slovenské národní rady č. 72/1969 Sb., o některých opatřeních v organizaci a působnosti národních výborů v Slovenské socialistické republice, stavebním úřadem:
+
+1\. Obvodní úřad místních národních výborů se sídlem v Sládkovičově s územní působností pro obec Sládkovičovo, Malá Mača, Hoste a Abrahám;
+
+2\. Obvodní úřad místních národních výborů se sídlem ve Vlčanech s územní působností pro obce Vlčany a Neded.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Tajemník:
+
+Horváth v. r.
+
+Předseda:
+
+Boľo v. r.

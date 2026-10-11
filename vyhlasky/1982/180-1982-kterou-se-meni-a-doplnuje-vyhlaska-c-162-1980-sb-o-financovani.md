@@ -1,0 +1,50 @@
+---
+title: "Vyhláška Federálního ministerstva financí a předsedy Státní banky československé č. 180/1982 Sb., kterou se mění a doplňuje vyhláška č. 162/1980 Sb., o financování reprodukce základních prostředků"
+identifier: "180/1982 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1982/180/1983-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1982-12-17
+effective: 1983-01-01
+last_amended: 1983-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1982/180"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí a předsedy Státní banky československé č. 180/1982 Sb., kterou se mění a doplňuje vyhláška č. 162/1980 Sb., o financování reprodukce základních prostředků
+
+180
+
+VYHLÁŠKA
+
+federálního ministerstva financí a předsedy Státní banky československé
+
+ze dne 17. prosince 1982,
+
+kterou se mění a doplňuje vyhláška č. 162/1980 Sb., o financování reprodukce základních prostředků
+
+Federální ministerstvo financí podle § 391 odst. 1 hospodářského zákoníku č. 109/1964 Sb., ve znění vyhlášeném pod č. 37/1971 Sb., doplněném zákonem č. 144/1975 Sb. a zákonem č. 165/1982 Sb. a předseda Státní banky československé podle § 7 odst. 5 písm. d) zákona č. 144/1970 Sb., o Státní bance československé stanoví:
+
+## § 1
+
+Vyhláška č. 162/1980 Sb., o financování reprodukce základních prostředků se mění a doplňuje takto:
+
+V § 14 odst. 1 písm. b) se připojuje text tohoto znění: „nadnormativní příděl lze zvýšit o další příděl z fondu hmotné stimulace vývozu ve výši 25 % celkového plánovaného přídělu ze zisku podle normativu, přičemž celková výše nadnormativního přídělu do fondu rozvoje v tomto případě může činit nejvýše 50 % celkového plánovaného přídělu ze zisku podle normativu;“
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1983.
+
+Předseda
+
+Státní banky československé:
+
+Stejskal v. r.
+
+Ministr financí
+
+Československé socialistické republiky:
+
+Lér v. r.

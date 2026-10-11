@@ -1,0 +1,50 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 102/1978 Sb., o vydání pamětních stříbrných stokorun k 600. výročí úmrtí Karla IV."
+identifier: "102/1978 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1978/102/1978-10-02"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1978-09-04
+effective: 1978-10-02
+last_amended: 1978-10-02
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1978/102"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 102/1978 Sb., o vydání pamětních stříbrných stokorun k 600. výročí úmrtí Karla IV.
+
+102
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 4. září 1978
+
+o vydání pamětních stříbrných stokorun k 600. výročí úmrtí Karla IV.
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) U příležitosti 600. výročí úmrtí českého krále Karla IV. se vydávají pamětní stříbrné stokoruny.
+
+(2) Pamětní stříbrné stokoruny se razí ze slitiny o 700 dílech stříbra a 300 dílech mědi. Hmotnost stokoruny je 15 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 33 mm, na její hraně je opakující se vlis kroužku a na obou stranách rozdvojené čárky.
+
+(3) Na líci pamětní stříbrné stokoruny je uprostřed v horní části státní znak Československé socialistické republiky a pod ním v pěti řádcích název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“, označení hodnoty „100 Kčs“ a letopočet ražby „1978“.
+
+(4) Na rubu pamětní stříbrné stokoruny je portrét Karla IV. s českou královskou korunou v pravém profilu. Vlevo od portrétu je v opise umístěno jméno „KAREL ● IV ●“, vpravo titul „KRÁL ● ČESKÝ“ a dole pod portrétem ve dvou řádcích letopočty jeho vlády „1346“ a „1378“. Autorem návrhu pamětní stříbrné stokoruny je akademický sochař Jaroslav Štursa, jehož iniciála „Š“ je umístěna v šikmém řezu zakončení portrétu dole nad letopočtem „1346“.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem 2. října 1978.
+
+Ministr:
+
+Ing. Lér, CSc. v. r.
+
+### ![sbcr1978c023z0102_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780013/NAHLED/ZOBRAZ/sbcr1978c023z0102_o_1)
+
+### ![sbcr1978c023z0102_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780015/NAHLED/ZOBRAZ/sbcr1978c023z0102_o_2)

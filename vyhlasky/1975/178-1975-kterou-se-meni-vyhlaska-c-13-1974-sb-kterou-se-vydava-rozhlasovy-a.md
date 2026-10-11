@@ -1,0 +1,52 @@
+---
+title: "Vyhláška Federálního ministerstva spojů č. 178/1975 Sb., kterou se mění vyhláška č. 13/1974 Sb., kterou se vydává rozhlasový a televizní řád"
+identifier: "178/1975 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1975/178/1976-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1975-12-30
+effective: 1976-01-01
+last_amended: 1976-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1975/178"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva spojů č. 178/1975 Sb., kterou se mění vyhláška č. 13/1974 Sb., kterou se vydává rozhlasový a televizní řád
+
+178
+
+VYHLÁŠKA
+
+federálního ministerstva spojů
+
+ze dne 30. prosince 1975,
+
+kterou se mění vyhláška č. 13/1974 Sb., kterou se vydává rozhlasový a televizní řád
+
+Federální ministerstvo spojů v dohodě s Československým rozhlasem a Československou televizí v souvislosti se zdokonalováním důchodové soustavy jak vyplývá zejména ze zákona č. 121/1975 Sb., o sociálním zabezpečení, stanoví podle § 8 odst. 4 zákona č. 110/1964 Sb., o telekomunikacích:
+
+## Článek I
+
+Vyhláška č. 13/1974 Sb., kterou se vydává rozhlasový a televizní řád, se mění takto:
+
+1\. § 9 odst. 3 zní:
+
+> „(3) Při částečném osvobození se platí rozhlasový poplatek 5,- Kčs, televizní poplatek 15,- Kčs. Částečné osvobození lze přiznat účastníkům:
+
+> a) osamělým důchodcům, jejichž důchod spolu s jiným čistým příjmem nepřesahuje částku 8400,- Kčs ročně,
+
+> b) manželům, z nichž aspoň jeden je důchodce, jestliže úhrn jejich důchodů a jiných čistých příjmů nepřesahuje ročně částku 15600,- Kčs.
+
+2\. § 9 odst. 4 zní:
+
+> „(4) Do částek rozhodných pro přiznání úplného osvobození (odst. 2) nebo částečného osvobození (odst. 3) se nezapočítávají příjmy ve smyslu zákona č. 121/1975 Sb., o sociálním zabezpečení (tj. výchovné, zvýšení důchodu pro bezmocnost, příspěvky z doplňkové sociální péče, pracovní příjem z činnosti, která netrvá déle než 60 dní v kalendářním roce, pracovní příjmy důchodce nebo jeho rodinného příslušníka staršího 70 let).“.
+
+## Článek II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1976.
+
+První náměstek ministra:
+
+Maňák v. r.

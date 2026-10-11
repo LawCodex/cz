@@ -1,0 +1,44 @@
+---
+title: "Zákon č. 196/1946 Sb., jímž se doplňují některá ustanovení zákona ze dne 24. července 1919, č. 462 Sb., o propůjčování míst legionářům."
+identifier: "196/1946 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1946/196/1946-10-31"
+type: act
+jurisdiction: cz
+language: cs
+date: 1946-10-03
+effective: 1946-10-31
+last_amended: 1946-10-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1946/196"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 196/1946 Sb., jímž se doplňují některá ustanovení zákona ze dne 24. července 1919, č. 462 Sb., o propůjčování míst legionářům.
+
+196.
+
+Zákon
+
+ze dne 3. října 1946,
+
+jímž se doplňují některá ustanovení zákona ze dne 24. července 1919, č. 462 Sb., o propůjčování míst legionářům.
+
+Ústavodárné Národní shromáždění republiky Československé usneslo se na tomto zákoně:
+
+## Čl. I.
+
+Zákon ze dne 24. července 1919, č. 462 Sb., o propůjčování míst legionářům, se doplňuje takto:
+
+V § 2 se vkládá mezi odstavce 4 a 5 nový odstavec tohoto znění:
+
+> „Spojeneckým a spřáteleným armádám uvedeným v předchozích dvou odstavcích se klade na roveň Rudá armáda Svazu sovětských socialistických republik.“
+
+## Čl. II.
+
+Tento zákon nabývá účinnosti dnem vyhlášení; provede jej ministr národní obrany v dohodě se zúčastněnými členy vlády.
+
+Dr. Beneš v. r.
+
+Gottwald v. r.
+
+arm. gen. Svoboda v. r.

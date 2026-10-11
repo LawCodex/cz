@@ -1,0 +1,50 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 3/1979 Sb., o vydání pamětních stříbrných stokorun k 150. výročí narození Jána Botta"
+identifier: "3/1979 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1979/3/1979-01-24"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1979-01-02
+effective: 1979-01-24
+last_amended: 1979-01-24
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1979/3"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 3/1979 Sb., o vydání pamětních stříbrných stokorun k 150. výročí narození Jána Botta
+
+3
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 2. ledna 1979
+
+o vydání pamětních stříbrných stokorun k 150. výročí narození Jána Botta
+
+Federální ministerstvo financí vyhlašuje podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích:
+
+## § 1
+
+(1) U příležitosti 150. výročí narození slovenského básníka Jána Botta se vydávají pamětní stříbrné stokoruny.
+
+(2) Pamětní stříbrné stokoruny se razí ze slitiny o 700 dílech stříbra a 300 dílech mědi. Hmotnost stokoruny je 15 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 33 mm, na její hraně je opakující se vlis hvězdičky a tří kroužků.
+
+(3) Na líci pamětní stříbrné stokoruny je státní znak Československé socialistické republiky a pod ním v pěti řádcích název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“ a označení hodnoty „100 Kčs“.
+
+(4) Na rubu pamětní stříbrné stokoruny je portrét Jána Botta v levém tříčtvrtečním profilu, faksimile jeho podpisu „Ján Botto“ je umístěno v pravé spodní části portrétu. Při okraji mince vlevo od portrétu je letopočet „1829“, pod portrétem letopočet „1979“. Autorem návrhu pamětní stříbrné stokoruny je akademický sochař Jiří Harcuba, jehož značka „H“ je umístěna vpravo při okraji mince pod konečky vlasů.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti dnem 24. ledna 1979.
+
+Ministr:
+
+Ing. Lér CSc. v. r.
+
+### ![sbcr1979c001z0003_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780025/NAHLED/ZOBRAZ/sbcr1979c001z0003_o_1)
+
+### ![sbcr1979c001z0003_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/780027/NAHLED/ZOBRAZ/sbcr1979c001z0003_o_2)

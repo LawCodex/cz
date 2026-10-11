@@ -1,0 +1,56 @@
+---
+title: "Vyhláška č. 27/1938 Sb., o změnách úředních názvů měst, obcí, osad a částí osad, povolených v roce 1937."
+identifier: "27/1938 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1938/27/1938-02-09"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1938-01-27
+effective: 1938-02-09
+last_amended: 1938-02-09
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1938/27"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 27/1938 Sb., o změnách úředních názvů měst, obcí, osad a částí osad, povolených v roce 1937.
+
+27.
+
+Vyhláška ministra vnitra
+
+ze dne 27. ledna 1938
+
+o změnách úředních názvů měst, obcí, osad a částí osad, povolených v roce 1937.
+
+Podle § 5 zákona ze dne 14. dubna 1920, č. 266 Sb. z. a n., o názvech měst, obcí, osad a ulic, jakož i označování obcí místními tabulkami a číslování domů, vyhlašuji, že v roce 1937 byly povoleny tyto změny úředních názvů míst:
+
+**V zemi České:**
+
+1\. Název obce a osady Lipnice v politickém okresu německobrodském byl doplněn přídomkem „nad Sázavou“;
+
+2\. pro místní obce vzniklé rozloučením obce Lohenic v politickém okresu humpoleckém byly stanoveny názvy Lohenice a Holušice;
+
+3\. pro místní obce vzniklé rozloučením obce Blížňovic v politickém okresu chrudimském byly stanoveny názvy Blížňovice a Blansko;
+
+4\. pro osadu vzniklou sloučením osad Čeřeniště a Vimperku, tvořících místní obec Čeřeniště v politickém okresu litoměřickém, byl stanoven název Čeřeniště, německy Tschersing, který je též názvem místní obce. Název Vimperk, německy Winterberg, zaniká;
+
+5\. název místní obce Železná Huť v politickém okresu přeštickém byl změněn na Dvorec;
+
+6\. pro osadu vzniklou sloučením osad Panošova Újezda a Velkého Újezda, tvořících místní obec Velký Újezd v politickém okresu rakovnickém, byl stanoven název Panoší Újezd. Zároveň byl změněn název místní obce Velký Újezd na Panoší Újezd;
+
+7\. název města Krásné Hory v politickém okresu sedlčanském byl doplněn přídomkem „nad Vltavou“;
+
+8\. název místní obce Mezimostí v politickém okresu třeboňském byl doplněn přídomkem „nad Nežárkou“.
+
+**V zemi Moravskoslezské:**
+
+1\. Název místní obce Rozseče v politickém okresu boskovickém byl doplněn přídomkem „nad Kunštátem“;
+
+2\. pro osadu vzniklou sloučením osad Jáchymova a Nákla, tvořících místní obec Náklo v politickém okresu litovelském, byl stanoven název Náklo, který zůstává názvem místní obce. Název Jáchymov zaniká.
+
+**V zemi Slovenské:**
+
+Název obce Ilianovo v politickém okresu Liptovský Svätý Mikuláš byl změněn na Iľanovo.
+
+Dr. Černý v. r.

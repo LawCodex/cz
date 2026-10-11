@@ -1,0 +1,76 @@
+---
+title: "Vyhláška Federálního ministerstva paliv a energetiky č. 74/1988 Sb., kterou se mění a doplňuje vyhláška federálního ministerstva paliv a energetiky č. 172/1982 Sb., o základních podmínkách dodávky topných plynů, ropy a gazolinu"
+identifier: "74/1988 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1988/74/1988-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1988-04-25
+effective: 1988-06-01
+last_amended: 1988-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1988/74"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva paliv a energetiky č. 74/1988 Sb., kterou se mění a doplňuje vyhláška federálního ministerstva paliv a energetiky č. 172/1982 Sb., o základních podmínkách dodávky topných plynů, ropy a gazolinu
+
+74
+
+VYHLÁŠKA
+
+federálního ministerstva paliv a energetiky
+
+ze dne 25. dubna 1988,
+
+kterou se mění a doplňuje vyhláška federálního ministerstva paliv a energetiky č. 172/1982 Sb., o základních podmínkách dodávky topných plynů, ropy a gazolinu
+
+Federální ministerstvo paliv a energetiky v dohodě se zúčastněnými ústředními orgány a Státní arbitráží Československé socialistické republiky stanoví podle § 392 odst. 1 hospodářského zákoníku a podle § 26 zákona č. 67/1960 Sb., o výrobě, rozvodu a využití topných plynů (plynárenský zákon):
+
+## Článek I
+
+Vyhláška č. 172/1982 Sb., o základních podmínkách dodávky topných plynů, ropy a gazolinu, se mění a doplňuje takto:
+
+1\. V § 7 odst. 1 se na konci připojuje tato věta:
+
+> „Tato povinnost se nevztahuje na odběry uvedené v odstavci 7.“.
+
+2\. § 7 odst. 7 zní:
+
+> „(7) Pro nově budované závody a provozy, popřípadě rekonstruovaná odběrní zařízení sjednává dodavatel s odběratelem po dobu jejich výstavby a uvádění do provozu zvláštní podmínky odběru, zejména způsob usměrnění odběru v době vyhlášení regulačních opatření a vyhodnocování spotřeby. Trvání zvláštních podmínek se určí s přihlédnutím k technickým podmínkám odběratele na dobu nezbytně nutnou. Denní odběrový diagram se sjednává na předpokládanou hodnotu.“.
+
+3\. § 13 odst. 2 zní:
+
+> „(2) Otopové křivky jsou:
+
+> 1\. křivka – základní odběr podle sjednaného diagramu,
+
+> 2\. křivka – odběr snížen na smluvně dohodnutá množství; to se netýká zdravotnictví, školství, bytového fondu apod.,
+
+> 3\. křivka – odběr snížen na smluvně dohodnutou úroveň bezpečnostního a technického minima. Snížení se netýká nezbytných zdravotních služeb, denního zásobování obyvatelstva základními životními potřebami a zvláštních zemědělských provozů.“.
+
+4\. § 13 odst. 3 písm. b) zní:
+
+> „b) pro odběratele otopového charakteru [§ 2 odst. 2 písm. b)]
+
+> | 1. křivka | + 2 až - 3 % |
+> |---|---|
+> | 2. a 3. křivka | + 0 až - neomezeno.“. |
+
+5\. V § 25 odst. 1 písm. b) poslední věta zní:
+
+> „V případě zjištěného porušení odběratelské kázně při vyhlášení regulačních opatření u odběratelů technologického charakteru a 3. otopové křivky u odběratelů otopového charakteru se penále vypočte za celou dobu regulace po jednotlivých dnech.“.
+
+6\. V § 25 se za odstavec 1 vkládá nový odstavec 2, který zní:
+
+> „(2) Odběratelé se sjednanými zvláštními podmínkami odběru podle § 7 odst. 7 jsou penalizováni pouze při vyhlášení omezujících stupňů a havarijního stupně.“.
+
+> Dosavadní odstavec 2 se označuje jako odstavec 3.
+
+## Článek II
+
+Tato vyhláška nabývá účinnosti dnem 1. června 1988.
+
+Ministr:
+
+Ing. Ehrenberger CSc. v. r.

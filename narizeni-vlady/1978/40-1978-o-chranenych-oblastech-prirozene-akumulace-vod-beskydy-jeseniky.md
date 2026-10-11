@@ -1,0 +1,100 @@
+---
+title: "Nařízení vlády České socialistické republiky č. 40/1978 Sb., o chráněných oblastech přirozené akumulace vod Beskydy, Jeseníky, Jizerské hory, Krkonoše, Orlické hory, Šumava a Žďárské vrchy"
+identifier: "40/1978 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1978/40/1979-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1978-04-19
+effective: 1979-01-01
+last_amended: 1979-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1978/40"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády České socialistické republiky č. 40/1978 Sb., o chráněných oblastech přirozené akumulace vod Beskydy, Jeseníky, Jizerské hory, Krkonoše, Orlické hory, Šumava a Žďárské vrchy
+
+40
+
+NAŘÍZENÍ VLÁDY
+
+České socialistické republiky
+
+ze dne 19. dubna 1978
+
+o chráněných oblastech přirozené akumulace vod Beskydy, Jeseníky, Jizerské hory, Krkonoše, Orlické hory, Šumava a Žďárské vrchy
+
+Vláda České socialistické republiky nařizuje podle § 18 zákona č. 138/1973 Sb., o vodách (vodní zákon):
+
+## § 1
+
+(1) Oblasti Beskyd, Jeseníků, Jizerských hor, Krkonoš, Orlických hor, Šumavy a Žďárských vrchů, které pro své přírodní podmínky tvoří významnou přirozenou akumulaci podzemních i povrchových vod, jsou chráněnými oblastmi přirozené akumulace vod (dále jen „chráněné vodohospodářské oblasti“).
+
+(2) Hranice chráněných vodohospodářských oblastí uvedených v odstavci 1 jsou vymezeny shodně s hranicemi těchto chráněných krajinných oblastí;<sup>1</sup>) mapy chráněných vodohospodářských oblastí jsou uloženy u okresních národních výborů, v jejichž územní působnosti tyto oblasti jsou.
+
+## § 2
+
+(1) V chráněných vodohospodářských oblastech se zakazuje
+
+a) zmenšovat rozsah lesních pozemků v jednotlivých případech o více než 25 ha; v jednotlivé chráněné vodohospodářské oblasti smí být celkově rozsah lesních pozemků snížen nejvýše o 500 ha proti stavu k 1. lednu 1979,
+
+b) odvodňovat lesní pozemky ve výměře přesahující 250 ha souvislé plochy,
+
+c) odvodňovat zemědělské pozemky ve výměře přesahující 50 ha souvislé plochy, pokud nebude na základě hydrologického průzkumu prokázáno, že odvodnění neohrozí kapacitu jímací oblasti,
+
+d) těžit rašelinu v množství přesahujícím 500 000 m<sup>3</sup> v jedné lokalitě, pokud nebude na základě hydrologického průzkumu prokázáno, že těžba rašeliny neohrozí kapacitu jímací oblasti,
+
+e) těžit nerosty povrchovým způsobem nebo provádět jiné zemní práce, které by vedly k odkrytí souvislé hladiny podzemních vod, s výjimkou kamenolomů, v nichž je nutno přejít k polojámové nebo jámové těžbě, a nedojde-li k většímu plošnému odkrytí než 10 ha,
+
+f) těžit a zpracovávat radioaktivní suroviny, u nichž není zajištěno zneškodňování odpadů v souladu s předpisy na ochranu jakosti vod,
+
+g) ukládat radioaktivní odpady,
+
+h) provádět výstavbu
+
+1\. zařízení pro výkrm prasat o celkové kapacitě zástavu nad 5000 kusů,
+
+2\. skladů ropných látek o objemu jednotlivých nádrží nad 1000 m<sup>3</sup>,
+
+3\. tepelných elektráren na tuhá paliva s výkonem nad 200 MW,
+
+4\. průmyslových závodů, u nichž by v době provozu došlo k vypouštění nečištěných nebo nedostatečně čištěných odpadních vod, jejichž znečištění přesahuje u
+
+| BSK<sub>5</sub> | 5 t/rok |
+|---|---|
+| nerozpuštěných látek | 10 t/rok |
+| minerálních olejů | 5 t/rok |
+| zjevné acidity | 500 kg ekv./rok |
+| zjevné alkality | 500 kg ekv./rok |
+| rozpuštěné anorganické soli | 50 t/rok. |
+
+(2) Zákazy podle odstavce 1 se v chráněných vodohospodářských oblastech nevztahují na
+
+a) stavby a zařízení, které byly přede dnem účinnosti tohoto nařízení v souladu s předpisy ve výstavbě nebo v užívání,
+
+b) činnosti, které byly přede dnem účinnosti tohoto nařízení v souladu s předpisy provozovány,
+
+c) činnosti uvedené v odstavci 1 písm. a), d) a e), souvisí-li s výstavbou vodních nádrží.
+
+(3) V mimořádných případech může vláda republiky povolit výjimky z ustanovení odstavce 1 písm. a), e) a h) č. 3 a 4.
+
+## § 3
+
+V chráněných vodohospodářských oblastech mohou být zřizovány skládky městských a průmyslových odpadů pouze na místech, na nichž nemůže dojít k vyluhování obsahu odpadů do podzemních nebo povrchových vod, anebo jsou-li na nich provedena technická opatření, která zabrání unikání výluhů do podzemních nebo povrchových vod.
+
+## § 4
+
+Tímto nařízením není dotčena působnost orgánů a úkoly organizací vyplývající z předpisů o státní ochraně přírody a z jiných zvláštních předpisů.<sup>2</sup>)
+
+## § 5
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1979.
+
+Korčák v. r.
+
+---
+
+<sup>1</sup>) § 4 zákona č. 40/1956 Sb., o státní ochraně přírody.
+
+<sup>2</sup>) Např. nařízení vlády České socialistické republiky č. 25/1975 Sb., jímž se stanoví ukazatele přípustného stupně znečištění vod, vyhláška ministerstva lesního a vodního hospodářství České socialistické republiky č. 28/1975 Sb., kterou se určují vodárenské toky a jejich povodí a stanoví seznam vodohospodářsky významných vodních toků, § 16 vyhlášky ministerstva zdravotnictví č. 45/1966 Sb., o vytváření a ochraně zdravých životních podmínek.

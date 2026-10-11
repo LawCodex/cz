@@ -1,0 +1,75 @@
+---
+title: "Nařízení vlády České socialistické republiky č. 34/1986 Sb., o jednorázovém mimořádném odškodňování osob za poškození na zdraví při plnění úkolů požární ochrany"
+identifier: "34/1986 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1986/34/2018-11-30"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1986-05-13
+effective: 1986-07-01
+last_amended: 2018-11-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1986/34"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády České socialistické republiky č. 34/1986 Sb., o jednorázovém mimořádném odškodňování osob za poškození na zdraví při plnění úkolů požární ochrany ve znění nařízení vlády č. 168/1989 Sb., nařízení vlády č. 195/1995 Sb., nařízení vlády č. 497/2002 Sb. a nařízení vlády č. 257/2018 Sb."
+---
+
+# Nařízení vlády České socialistické republiky č. 34/1986 Sb., o jednorázovém mimořádném odškodňování osob za poškození na zdraví při plnění úkolů požární ochrany
+
+34
+
+NAŘÍZENÍ VLÁDY
+
+České socialistické republiky
+
+ze dne 13. května 1986
+
+o jednorázovém mimořádném odškodňování osob za poškození na zdraví při plnění úkolů požární ochrany
+
+Vláda České socialistické republiky nařizuje podle § 81 zákona České národní rady č. 133/1985 Sb., o požární ochraně:
+
+## § 1
+
+(1) Jednorázové mimořádné odškodnění náleží
+
+a) zaměstnanci právnické osoby nebo podnikající fyzické osoby zařazenému do jednotky hasičského záchranného sboru podniku, členu jednotky sboru dobrovolných hasičů obce, členu jednotky sboru dobrovolných hasičů podniku a členu požární hlídky, který při zdolávání požáru, při cvičení v jednotce požární ochrany nebo při záchranných pracích při živelní pohromě nebo jiné mimořádné události<sup>1</sup>) anebo v přímé souvislosti s plněním těchto úkolů a
+
+b) občanu, který při osobní pomoci, kterou poskytl
+
+1\. při zdolávání požáru nebo záchraně osob nebo majetku při požáru,
+
+2\. při záchranných pracích při živelní pohromě nebo jiné mimořádné události<sup>1</sup>) jednotce požární ochrany na výzvu velitele zásahu, velitele jednotky požární ochrany nebo s jejich vědomím anebo na výzvu obce,
+
+utrpěl poškození na zdraví, jehož následkem se stal osobou se zdravotním postižením podle zákona o zaměstnanosti<sup>2</sup>) (dále jen „poškozený“).
+
+(2) Jednorázové mimořádné odškodnění podle odstavce 1 se poskytuje ve výši sedminásobku až dvanáctinásobku průměrné hrubé měsíční nominální mzdy na přepočtené počty zaměstnanců v národním hospodářství dosažené podle zveřejněných údajů Českého statistického úřadu za předminulý kalendářní rok (dále jen „průměrná mzda“) podle stupně poškození na zdraví a s přihlédnutím k míře ztížení společenského uplatnění, k podílu poškozeného na zdolávání požáru nebo záchranných pracích, jakož i k osobním, rodinným a sociálním poměrům poškozeného.
+
+## § 2
+
+(1) Jestliže poškozený následkem poškození na zdraví zemřel, náleží jednorázové mimořádné odškodnění jeho manželu a dítěti, které má nárok na sirotčí důchod; v případech odůvodněných osobními, rodinnými a sociálními poměry lze jednorázové mimořádné odškodnění přiznat i jeho rodičům, popřípadě dalším osobám, které na něho byly odkázány výživou.
+
+(2) Jednorázové mimořádné odškodnění podle odstavce 1 se poskytuje
+
+a) dítěti poškozeného ve výši dvanáctinásobku průměrné mzdy,
+
+b) manželu poškozeného ve výši dvanáctinásobku průměrné mzdy,
+
+c) rodičům poškozeného v úhrnné výši dvanáctinásobku průměrné mzdy,
+
+d) dalším osobám, které byly odkázány výživou na poškozeného, do úhrnné výše dvanáctinásobku průměrné mzdy.
+
+## § 3
+
+Jednorázové mimořádné odškodnění podle § 1 a 2 náleží vedle nároků podle předpisů o odškodňování pracovních úrazů.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem 1. července 1986.
+
+Korčák v. r.
+
+---
+
+<sup>1</sup>) § 92 zákona ČNR č. 133/1985 Sb., o požární ochraně, ve znění zákona č. 203/1994 Sb.
+
+<sup>2</sup>) § 67 odst. 2 zákona č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů.

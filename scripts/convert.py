@@ -86,6 +86,46 @@ def file_url(fid, name, kind="NAHLED", op="ZOBRAZ"):
     return FILES.format(id=fid, kind=kind, op=op, name=name)
 
 
+def _lname(el):
+    return el.tag.split("}")[-1].lower() if isinstance(el.tag, str) else ""
+
+
+def math_html(el):
+    """Render a (simple) MathML subtree as text with <sub>/<sup>."""
+    name = _lname(el)
+    kids = [k for k in el if isinstance(k.tag, str)]
+    if name in ("mi", "mn", "mo", "mtext", "ms"):
+        return esc(norm_ws(el.text_content()))
+    if name == "none" or name == "mprescripts":
+        return ""
+    if name == "msup" and len(kids) == 2:
+        return math_html(kids[0]) + f"<sup>{math_html(kids[1])}</sup>"
+    if name == "msub" and len(kids) == 2:
+        return math_html(kids[0]) + f"<sub>{math_html(kids[1])}</sub>"
+    if name == "msubsup" and len(kids) == 3:
+        return math_html(kids[0]) + f"<sub>{math_html(kids[1])}</sub><sup>{math_html(kids[2])}</sup>"
+    if name == "mfrac" and len(kids) == 2:
+        return f"({math_html(kids[0])})/({math_html(kids[1])})"
+    if name == "msqrt":
+        return "√(" + "".join(math_html(k) for k in kids) + ")"
+    if name == "mmultiscripts" and kids:
+        base, rest = kids[0], kids[1:]
+        names = [_lname(k) for k in rest]
+        if "mprescripts" in names:
+            i = names.index("mprescripts")
+            post, pre = rest[:i], rest[i + 1:]
+        else:
+            post, pre = rest, []
+        def scripts(lst):
+            o = ""
+            for j in range(0, len(lst) - 1, 2):
+                sb, sp = math_html(lst[j]), math_html(lst[j + 1])
+                o += (f"<sub>{sb}</sub>" if sb else "") + (f"<sup>{sp}</sup>" if sp else "")
+            return o
+        return scripts(pre) + math_html(base) + scripts(post)
+    return "".join(math_html(k) for k in kids) if kids else esc(norm_ws(el.text_content()))
+
+
 class Ctx:
     def __init__(self, files):
         self.files = {f["souborovyDokumentId"]: f for f in files or []}
@@ -99,7 +139,9 @@ def inline(el, ctx, in_table=False):
     for ch in el:
         tag = ch.tag if isinstance(ch.tag, str) else ""
         tag = tag.lower()
-        if tag == "br":
+        if tag == "math" or tag.endswith("}math"):
+            out.append(math_html(ch))
+        elif tag == "br":
             out.append("<br>" if in_table else "  \n")
         elif tag in ("sup", "sub"):
             out.append(f"<{tag}>{inline(ch, ctx, in_table).strip()}</{tag}>")
@@ -163,6 +205,10 @@ def table(t, ctx):
             info = ctx.files.get(int(fid))
             name = (info or {}).get("nazev") or re.sub(r"\.tif$", "", alt, flags=re.I) or "obrazek"
             img.set("src", file_url(fid, name))
+    for m in t.xpath(".//*[local-name()='math']"):
+        repl = lhtml.fragment_fromstring("<span>" + math_html(m) + "</span>")
+        repl.tail = m.tail
+        m.getparent().replace(m, repl)
     for el in t.iter():
         if not isinstance(el.tag, str):
             continue
@@ -214,16 +260,22 @@ def plain(s):
 def convert_doc(d):
     item, detail, frags = d["item"], d["detail"], d["fragments"]
     body = []
-    pending_heading = None  # (level, text, hloubka)
+    pending_heading = None  # (level, text, hloubka, quoted)
+    quote = []  # stack of Block_Citace depths (quoted text inside amending provisions)
+
+    def emit(block, quoted):
+        if quoted:
+            block = "\n".join(("> " + ln) if ln.strip() else ">" for ln in block.split("\n"))
+        body.append(block)
 
     def flush():
         nonlocal pending_heading
         if pending_heading:
-            lvl, txt, _ = pending_heading
-            if lvl <= 6:
-                body.append("#" * lvl + " " + txt)
+            lvl, txt, _, q = pending_heading
+            if lvl <= 6 and not q:
+                emit("#" * lvl + " " + txt, q)
             else:
-                body.append(f"**{txt}**")
+                emit(f"**{txt}**", q)
             pending_heading = None
 
     skip_depth = None
@@ -234,9 +286,14 @@ def convert_doc(d):
             if depth > skip_depth:
                 continue
             skip_depth = None
+        while quote and depth <= quote[-1]:
+            quote.pop()
         if t in SKIP:
             skip_depth = depth
             continue
+        if t in ("Block_Citace", "Eu_Block_Citace"):
+            quote.append(depth)
+        q = bool(quote)
         ctx = Ctx(f.get("souboroveDokumenty"))
         x = f.get("xhtml") or ""
         text = render_xhtml(x, ctx)
@@ -246,7 +303,7 @@ def convert_doc(d):
                 name = info.get("nazev") or str(fid)
                 extra.append(f"[{esc(name)}]({file_url(fid, name, 'ORIGINAL', 'STAHNI')})")
         if t.startswith("Virtual_"):
-            if t == "Virtual_PPC" and frags:
+            if t == "Virtual_PPC":
                 flush()
                 body.append("---")
             continue
@@ -254,23 +311,24 @@ def convert_doc(d):
             continue
         if t in HEADINGS and text and "\n" not in text and len(text) < 300:
             flush()
-            pending_heading = (max(2, min(depth, 7)), text, depth)
+            pending_heading = (max(2, min(depth, 7)), text, depth, q)
             if extra:
                 flush()
-                body.append(block_escape("  \n".join(extra)))
+                emit(block_escape("  \n".join(extra)), q)
             continue
-        if t == "Nadpis_pod" and pending_heading and depth == pending_heading[2] + 1 and "\n" not in text:
-            lvl, txt, hd = pending_heading
-            pending_heading = (lvl, f"{txt} – {text}", hd)
+        if (t == "Nadpis_pod" and pending_heading and depth == pending_heading[2] + 1
+                and "\n" not in text and pending_heading[3] == q):
+            lvl, txt, hd, _ = pending_heading
+            pending_heading = (lvl, f"{txt} – {text}", hd, q)
             continue
         flush()
         if t in ("Nadpis_nad", "Nadpis_pod", "Nadpis_pod_velkymi") and "\n" not in text:
-            body.append(f"**{text}**")
+            emit(f"**{text}**", q)
         else:
             if text:
-                body.append(block_escape(text))
+                emit(block_escape(text), q)
             if extra:
-                body.append("  \n".join(extra))
+                emit("  \n".join(extra), q)
     flush()
     return "\n\n".join(body)
 

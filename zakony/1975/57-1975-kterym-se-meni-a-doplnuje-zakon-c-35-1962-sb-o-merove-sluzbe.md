@@ -1,0 +1,90 @@
+---
+title: "Zákon č. 57/1975 Sb., kterým se mění a doplňuje zákon č. 35/1962 Sb., o měrové službě"
+identifier: "57/1975 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1975/57/1975-08-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1975-06-11
+effective: 1975-08-01
+last_amended: 1975-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1975/57"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 57/1975 Sb., kterým se mění a doplňuje zákon č. 35/1962 Sb., o měrové službě
+
+57
+
+ZÁKON
+
+ze dne 11. června 1975,
+
+kterým se doplňuje zákon č. 35/1962 Sb., o měrové službě
+
+Federální shromáždění Československé socialistické republiky se usneslo na tomto zákoně:
+
+## Čl. I
+
+Zákon č. 35/1962 Sb., o měrové službě, se mění a doplňuje takto:
+
+1\. § 2 včetně nadpisu zní:
+
+> **„§ 2 – Druhy zákonných měr**
+
+> Zákonnými měrami jsou jednotky základní (§ 3) a jednotky ostatní (§ 4).“
+
+2\. § 3 včetně nadpisu zní:
+
+> **„§ 3 – Základní jednotky**
+
+> (1) Základní jednotky jsou:
+
+> a) jednotka délky metr (m),
+
+> b) jednotka hmotnosti kilogram (kg),
+
+> c) jednotka času sekunda (s),
+
+> d) jednotka elektrického proudu ampér (A),
+
+> e) jednotka termodynamické teploty kelvin (K),
+
+> f) jednotka látkového množství mol (mol),
+
+> g) jednotka svítivosti kandela (cd).
+
+> (2) Definice základních jednotek a jejich násobky a díly stanoví státní technická norma.“
+
+3\. § 4 včetně nadpisu zní:
+
+> **„§ 4 – Ostatní jednotky**
+
+> Ostatní jednotky, jejich označování a definice a jejich násobky a díly stanoví státní technická norma.“
+
+4\. V § 5 odst. 2 se připojuje na konci tato věta:
+
+> „Používání jiných než zákonných měr v ostatních případech může být na přechodnou dobu povoleno státní technickou normou.“
+
+5\. § 6 zní:
+
+> **„§ 6**
+
+> (1) Federálním ústředním orgánem státní správy pro obor státní měrové služby je Úřad pro normalizaci a měření.<sup>1</sup>)
+
+> (2) Úřad řídí a za jeho činnost odpovídá jeho předseda. Předsedu zastupuje první náměstek. Je-li předsedou Úřadu občan České socialistické republiky, je prvním náměstkem občan Slovenské socialistické republiky a naopak. Předsedu Úřadu pro normalizaci a měření a jeho prvního náměstka jmenuje vláda Československé socialistické republiky.“
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem 1. srpna 1975.
+
+Husák v. r.
+
+Indra v. r.
+
+Dr. Štrougal v. r.
+
+---
+
+<sup>1</sup>) Vztah Úřadu pro normalizaci a měření, určený v § 54 odst. 1 zákona č. 133/1970 Sb., o působnosti federálních ministerstev, se nemění.

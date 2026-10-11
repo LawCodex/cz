@@ -1,0 +1,56 @@
+---
+title: "Zákon č. 11/1918 Sb., o zřízení samostatného státu československého."
+identifier: "11/1918 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1918/11/1918-10-28"
+type: act
+jurisdiction: cz
+language: cs
+date: 1918-10-28
+effective: 1918-10-28
+last_amended: 1918-10-28
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1918/11"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 11/1918 Sb., o zřízení samostatného státu československého.
+
+Čís. 11.
+
+Zákon ze dne 28. října 1918
+
+o zřízení samostatného státu československého.
+
+(Veřejně vyhlášen dne 28. října 1918.)
+
+Samostatný stát československý vstoupil v život. Aby zachována byla souvislost dosavadního právního řádu se stavem novým, aby nenastaly zmatky a upraven byl nerušený přechod k novému státnímu životu, nařizuje Národní výbor jménem československého národa jako vykonavatel státní svrchovanosti toto:
+
+## čl. 1.
+
+Státní formu československého státu určí národní shromáždění ve srozumění s Československou Národní radou v Paříži. Orgánem jednomyslné vůle národa a také vykonavatelem státní svrchovanosti je Národní výbor;
+
+## čl. 2.
+
+veškeré dosavadní zemské a říšské zákony a nařízení zůstávají prozatím v platnosti;
+
+## čl. 3.
+
+všechny úřady samosprávné, státní a župní, ústavy státní, zemské, okresní a zejména i obecní jsou podřízeny Národnímu výboru a prozatím úřadují a jednají dle dosavadních platných zákonů a nařízení;
+
+## čl. 4.
+
+zákon tento nabývá účinnosti dnešním dnem;
+
+## čl. 5.
+
+Národnímu výboru se ukládá, aby tento zákon provedl.
+
+JUDr. Al. Rašín v. r.
+
+JUDr. Fr. Soukup v. r.
+
+Ant. Švehla v. r.
+
+Jiří Stříbrný v. r.
+
+Dr. Vavro Šrobár v. r.
