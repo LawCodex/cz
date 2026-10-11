@@ -219,6 +219,7 @@ def table(t, ctx):
     for el in t.xpath(".//var|.//a|.//czechvoc-termin|.//span"):
         el.drop_tag()
     s = lhtml.tostring(t, encoding="unicode")
+    s = re.sub(r"[\r\n\t ]+", " ", s.replace("\u00a0", " "))
     s = re.sub(r">\s+<", "><", s)
     return s.strip()
 
