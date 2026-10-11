@@ -1,0 +1,103 @@
+---
+title: "Zákon č. 273/1993 Sb., o některých podmínkách výroby, šíření a archivování audiovizuálních děl, o změně a doplnění některých zákonů a některých dalších předpisů"
+identifier: "273/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/273/2013-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1993-10-15
+effective: 1993-11-11
+last_amended: 2013-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/273"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 273/1993 Sb., o některých podmínkách výroby, šíření a archivování audiovizuálních děl, o změně a doplnění některých zákonů a některých dalších předpisů ve znění zákona č. 40/1995 Sb., zákona č. 121/2000 Sb., zákona č. 132/2000 Sb., zákona č. 499/2004 Sb., zákona č. 249/2006 Sb., zákona č. 130/2008 Sb., zákona č. 281/2009 Sb., zákona č. 142/2012 Sb. a zákona č. 496/2012 Sb."
+---
+
+# Zákon č. 273/1993 Sb., o některých podmínkách výroby, šíření a archivování audiovizuálních děl, o změně a doplnění některých zákonů a některých dalších předpisů
+
+273
+
+ZÁKON
+
+ze dne 15. října 1993
+
+o některých podmínkách výroby, šíření a archivování audiovizuálních děl, o změně a doplnění některých zákonů a některých dalších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST II – Změna zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů
+
+### § 11
+
+Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění zákona č. 231/1992 Sb., zákona č. 591/1992 Sb. a zákona č. 600/1992 Sb., se mění takto:
+
+1\. V poznámce č. 1) k § 3 odst. 1 písm. a) se vypouštějí slova „§ 1 odst. 1 dekretu presidenta republiky č. 50/1945 Sb., o opatřeních v oblasti filmu“.
+
+2\. V § 3 odst. 1 písm. c) bodu 9 se vypouštějí slova „filmových a jiných audiovizuálních“.
+
+## ČÁST IV – Přechodná a závěrečná ustanovení
+
+### § 14
+
+Státní organizace Filmové studio Barrandov – Copyright a Filmové studio Zlín – Copyright, které vykonávají autorská práva výrobce kinematografických děl,<sup>19</sup>) se slučují dnem účinnosti tohoto zákona s Fondem; na Fond jako na právního nástupce přecházejí jejich práva a závazky z majetkových a jiných vztahů, včetně práv a závazků na úseku duševního vlastnictví. Tím není dotčeno právo hospodaření příslušející Archivu k veškerým originálním nosičům, z nichž tato práva a závazky vyplývají.
+
+### § 15
+
+Zrušují se § 1, § 3 odst. 2 a § 4 dekretu presidenta republiky č. 50/1945 Sb., o opatřeních v oblasti filmu.
+
+### § 16
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.
+
+---
+
+<sup>1</sup>) § 62 zákona č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon).
+
+<sup>1a</sup>) Autorský zákon.
+
+<sup>2</sup>) § 4 autorského zákona.
+
+<sup>3</sup>) § 2 zákona č. 526/1990 Sb., o cenách.
+
+<sup>3a</sup>) Živnostenský zákon. 
+ Zákon č. 483/1991 Sb., o České televizi, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Živnostenský zákon.
+
+<sup>6</sup>) § 64 autorského zákona.
+
+<sup>7</sup>) § 7 autorského zákona.
+
+<sup>8</sup>) § 67 autorského zákona.
+
+<sup>8a</sup>) § 53 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů. 
+ § 54 zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů.
+
+<sup>9</sup>) § 80 odst. 2 zákona č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů.
+
+<sup>10</sup>) Zákon č. 83/1990 Sb., o sdružování občanů, ve znění pozdějších předpisů.
+
+<sup>10a</sup>) Zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů.
+
+<sup>10b</sup>) Zákon č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů (zákon o vysokých školách), ve znění pozdějších předpisů.
+
+<sup>11</sup>) § 2 odst. 1 zákona ČNR č. 241/1992 Sb., o Státním fondu České republiky pro podporu a rozvoj české kinematografie.
+
+<sup>13</sup>) § 9 odst. 1 zákona č. 241/1992 Sb.
+
+<sup>15</sup>) § 2 odst. 2 obchodního zákoníku.
+
+<sup>17</sup>) Nařízení vlády ČSFR č. 429/1990 Sb., kterým se ruší vládní nařízení č. 13/1962 Sb., o nové organizaci čs. filmu.
+
+<sup>18</sup>) § 6 a § 33 odst. 4 zákona č. 35/1965 Sb., ve znění zákona č. 89/1990 Sb.
+
+<sup>19</sup>) § 6 zákona č. 35/1965 Sb., ve znění zákona č. 89/1990 Sb.

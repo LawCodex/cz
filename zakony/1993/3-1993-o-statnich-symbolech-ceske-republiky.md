@@ -1,0 +1,105 @@
+---
+title: "Zákon České národní rady č. 3/1993 Sb., o státních symbolech České republiky"
+identifier: "3/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/3/1998-07-28"
+type: act
+jurisdiction: cz
+language: cs
+date: 1992-12-17
+effective: 1993-01-01
+last_amended: 1998-07-28
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/3"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon České národní rady č. 3/1993 Sb., o státních symbolech České republiky ve znění zákona č. 154/1998 Sb."
+---
+
+# Zákon České národní rady č. 3/1993 Sb., o státních symbolech České republiky
+
+3
+
+ZÁKON
+
+České národní rady
+
+ze dne 17. prosince 1992
+
+o státních symbolech České republiky
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## § 1
+
+Státními symboly České republiky jsou velký a malý státní znak, státní barvy, státní vlajka, vlajka prezidenta republiky, státní pečeť a státní hymna.
+
+## § 2 – Velký a malý státní znak
+
+(1) Velký státní znak tvoří čtvrcený štít, v jehož prvním a čtvrtém červeném poli je stříbrný dvouocasý lev ve skoku se zlatou korunou a zlatou zbrojí. Ve druhém modrém poli je stříbrno-červeně šachovaná orlice se zlatou korunou a zlatou zbrojí. Ve třetím zlatém poli je černá orlice se stříbrným půlměsícem zakončeným jetelovými trojlístky a uprostřed s křížkem, se zlatou korunou a červenou zbrojí.
+
+(2) Vyobrazení velkého státního znaku je přílohou 1 tohoto zákona.
+
+(3) Malý státní znak tvoří červený štít, v němž je stříbrný dvouocasý lev ve skoku se zlatou korunou a zlatou zbrojí.
+
+(4) Vyobrazení malého státního znaku je přílohou 2 tohoto zákona.
+
+## § 3 – Státní barvy
+
+Státní barvy jsou bílá, červená, modrá v uvedeném pořadí.
+
+## § 4 – Státní vlajka
+
+(1) Státní vlajka se skládá z horního pruhu bílého a dolního pruhu červeného, mezi něž je vsunut žerďový modrý klín do poloviny délky vlajky. Poměr šířky vlajky k její délce je 2:3.
+
+(2) Vyobrazení státní vlajky je přílohou 3 tohoto zákona.
+
+## § 5 – Vlajka prezidenta republiky
+
+(1) Vlajka prezidenta republiky je bílá, s okrajem skládajícím se z plaménků střídavě bílých, červených a modrých. Uprostřed bílého pole je velký státní znak. Pod ním je bílý (stříbrný) nápis PRAVDA VÍTĚZÍ na červené stuze podložené žlutými (zlatými) lipovými ratolestmi.
+
+(2) Vyobrazení vlajky prezidenta republiky je přílohou 4 tohoto zákona.
+
+## § 6 – Státní pečeť
+
+(1) Státní pečeť tvoří velký státní znak podložený lipovými ratolestmi po stranách, kolem něhož je opis „ČESKÁ REPUBLIKA“.
+
+(2) Vyobrazení státní pečeti je přílohou 5 tohoto zákona.
+
+(3) Pečetidlo státní pečeti uchovává prezident republiky.
+
+## § 7 – Státní hymna
+
+(1) Státní hymnu tvoří první sloka písně Františka Škroupa a Josefa Kajetána Tyla „Kde domov můj“.
+
+(2) Text a notový záznam státní hymny jsou přílohou 6 tohoto zákona.
+
+## § 8
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1993.
+
+Uhde v. r.
+
+Klaus v. r.
+
+### Příloha 1
+
+#### ![sbcr1993c002z0003p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868441/NAHLED/ZOBRAZ/sbcr1993c002z0003p001o001)
+
+### Příloha 2
+
+#### ![sbcr1993c002z0003p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868443/NAHLED/ZOBRAZ/sbcr1993c002z0003p002o001)
+
+### Příloha 3
+
+#### ![sbcr1993c002z0003p003o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868445/NAHLED/ZOBRAZ/sbcr1993c002z0003p003o001)
+
+### Příloha 4
+
+#### ![sbcr1993c002z0003p004o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868447/NAHLED/ZOBRAZ/sbcr1993c002z0003p004o001)
+
+### Příloha 5
+
+#### ![sbcr1993c002z0003p005o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868449/NAHLED/ZOBRAZ/sbcr1993c002z0003p005o001)
+
+### Příloha 6
+
+#### ![sbcr1993c002z0003_1998c054z0154p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/868451/NAHLED/ZOBRAZ/sbcr1993c002z0003_1998c054z0154p001o001)

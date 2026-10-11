@@ -1,0 +1,71 @@
+---
+title: "Zákon č. 141/2001 Sb., kterým se mění zákon č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů, a některé další zákony"
+identifier: "141/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/141/2004-05-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2001-04-03
+effective: 2001-07-01
+last_amended: 2004-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/141"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 141/2001 Sb., kterým se mění zákon č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů, a některé další zákony ve znění zákona č. 354/2003 Sb. a zákona č. 237/2004 Sb."
+---
+
+# Zákon č. 141/2001 Sb., kterým se mění zákon č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů, a některé další zákony
+
+141
+
+ZÁKON
+
+ze dne 3. dubna 2001,
+
+kterým se mění zákon č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů, a některé další zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o spotřebních daních
+
+## ČÁST DRUHÁ – Změna zákona o zrušení státního tabákového monopolu
+
+## ČÁST ČTVRTÁ – Změna zákona o cenách
+
+### Čl. VI
+
+Zákon č. 526/1990 Sb., o cenách, ve znění zákona č. 135/1994 Sb., zákona č. 151/1997 Sb. a zákona č. 29/2000 Sb., se mění takto:
+
+1\. V § 1 odst. 6 se za slovy „mimořádná tržní situace“ vkládají slova „a pro účely odvodu spotřební daně u tabákových výrobků podle zákona o spotřebních daních,<sup>2a</sup>)“.
+
+2\. Poznámka pod čarou č. 2a) zní:
+
+> „<sup>2a</sup>) Část druhá hlava V a část třetí zákona č. 587/1992 Sb., o spotřebních daních, ve znění zákona č. 141/2001 Sb.“.
+
+3\. V § 13 se doplňuje odstavec 4, který zní:
+
+> „(4) Značení tabákových výrobků cenou pro konečného spotřebitele se řídí zákonem o spotřebních daních.<sup>2a</sup>)“.
+
+## ČÁST PÁTÁ – Změna zákona o rozpočtových pravidlech
+
+### Čl. VII
+
+Zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 493/2000 Sb., se mění takto:
+
+1\. V § 7 odst. 1 písm. o) se slova „zvláštního zákona“ nahrazují slovy „zvláštního právního předpisu“.
+
+2\. V § 45 odstavec 6 zní:
+
+> „(6) Zůstatky na účtech podle odstavce 5 koncem roku nepropadají. Úroky z těchto účtů jsou příjmem státního rozpočtu a úhrady za bankovní služby jsou výdajem státního rozpočtu, pokud tento zákon nestanoví jinak.“.
+
+## ČÁST ŠESTÁ – ÚČINNOST
+
+### Čl. VIII
+
+Tento zákon nabývá účinnosti dnem 1. července 2001, s výjimkou části první čl. I bodů 5 až 7, 9, 10, 12 až 15, 19, 25, 28, 50, 56, 72 až 88, 90 až 106, 108 a čl. II bodů 1 až 3, které nabývají účinnosti dnem 1. srpna 2001, a části páté čl. VII, který nabývá účinnosti dnem vyhlášení tohoto zákona.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

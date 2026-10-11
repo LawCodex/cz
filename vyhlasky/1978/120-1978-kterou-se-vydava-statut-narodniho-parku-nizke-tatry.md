@@ -329,7 +329,7 @@ Funkční objekty a zařízení lesního hospodářství a myslivosti, vyplývaj
 
 ### Příloha č. 3 k vyhlášce č. 120/1978 Sb.
 
-#### **ZVLÁŠTNÍ PODMÍNKY VYUŽÍVÁNÍ ÚZEMÍ ZÁJMOVÝCH PROSTORŮ V OCHRANNÉM PÁSMU** **NÁRODNÍHO PARKU NÍZKE TATRY**
+#### ZVLÁŠTNÍ PODMÍNKY VYUŽÍVÁNÍ ÚZEMÍ ZÁJMOVÝCH PROSTORŮ V OCHRANNÉM PÁSMU NÁRODNÍHO PARKU NÍZKE TATRY
 
 ****Zájmový prostor BYSTRÁ****— ČERTOVICA — MALUŽINÁ (B VIII)****
 

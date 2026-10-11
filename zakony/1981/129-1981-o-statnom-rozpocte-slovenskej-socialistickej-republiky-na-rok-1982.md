@@ -55,7 +55,7 @@ Colotka v. r.
 
 ### Príloha č. 1 zákona SNR č. 129/1981 Zb.
 
-#### Celkový prehľad **štátneho rozpočtu Slovenskej socialistickej republiky na rok 1982**
+#### Celkový prehľad štátneho rozpočtu Slovenskej socialistickej republiky na rok 1982
 
 | Príjmy | v tis. Kčs |
 |---|---|

@@ -1,0 +1,57 @@
+---
+title: "Zákon č. 409/2000 Sb., kterým se mění zákon č. 147/1996 Sb., o rostlinolékařské péči a změnách některých souvisejících zákonů, a zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů"
+identifier: "409/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/409/2004-05-31"
+type: act
+jurisdiction: cz
+language: cs
+date: 2000-10-25
+effective: 2001-01-01
+last_amended: 2004-05-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/409"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 409/2000 Sb., kterým se mění zákon č. 147/1996 Sb., o rostlinolékařské péči a změnách některých souvisejících zákonů, a zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů ve znění zákona č. 326/2004 Sb."
+---
+
+# Zákon č. 409/2000 Sb., kterým se mění zákon č. 147/1996 Sb., o rostlinolékařské péči a změnách některých souvisejících zákonů, a zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů
+
+409
+
+ZÁKON
+
+ze dne 25. října 2000,
+
+kterým se mění zákon č. 147/1996 Sb., o rostlinolékařské péči a změnách některých souvisejících zákonů, a zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna živnostenského zákona
+
+### Čl. III
+
+Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění zákona č. 231/1992 Sb., zákona č. 591/1992 Sb., zákona č. 273/1993 Sb., zákona č. 303/1993 Sb., zákona č. 38/1994 Sb., zákona č. 42/1994 Sb., zákona č. 136/1994 Sb., zákona č. 200/1994 Sb., zákona č. 237/1995 Sb., zákona č. 286/1995 Sb., zákona č. 94/1996 Sb., zákona č. 95/1996 Sb., zákona č. 147/1996 Sb., zákona č. 19/1997 Sb., zákona č. 49/1997 Sb., zákona č. 61/1997 Sb., zákona č. 79/1997 Sb., zákona č. 217/1997 Sb., zákona č. 280/1997 Sb., zákona č. 15/1998 Sb., zákona č. 83/1998 Sb., zákona č. 157/1998 Sb., zákona č. 167/1998 Sb., zákona č. 159/1999 Sb., zákona č. 356/1999 Sb., zákona č. 358/1999 Sb., zákona č. 360/1999 Sb., zákona č. 363/1999 Sb., zákona č. 27/2000 Sb., zákona č. 29/2000 Sb., zákona č. 121/2000 Sb., zákona č. 122/2000 Sb., zákona č. 123/2000 Sb., zákona č. 124/2000 Sb., zákona č. 149/2000 Sb., zákona č. 151/2000 Sb., zákona č. 158/2000 Sb., zákona č. 247/2000 Sb., zákona č. 249/2000 Sb. a zákona č. 258/2000 Sb., se mění takto:
+
+V příloze č. 2 Vázané živnosti, skupina 214: Ostatní, obor Ošetřování rostlin, rostlinných produktů, objektů a půdy proti škodlivým organismům přípravky na ochranu rostlin se ve sloupci 2 na konci doplňují tato slova: „a odborná způsobilost podle § 10 a § 18 až 20 zákona č. 157/1998 Sb., o chemických látkách a chemických přípravcích a o změně některých dalších zákonů, ve znění pozdějších předpisů“.
+
+### Čl. IV
+
+Nepředložila-li osoba, která získala živnostenské oprávnění pro živnost „Ošetřování rostlin, rostlinných produktů, objektů a půdy proti škodlivým organismům přípravky na ochranu rostlin“, přede dnem nabytí účinnosti tohoto zákona do 6 měsíců ode dne nabytí účinnosti tohoto zákona doklad o získání odborné způsobilosti, živnostenský úřad jí živnostenské oprávnění neprodleně zruší.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### Čl. V
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2001, s výjimkou čl. I bodů 7, 8 a bodu 10, pokud se týká § 8 odst. 3, které nabývají účinnosti dnem 1. července 2001.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.
+
+---
+
+<sup>15</sup>) Zákon č. 71/1967 Sb.
+
+<sup>22</sup>) Zákon č. 157/1998 Sb., ve znění pozdějších předpisů.

@@ -1,0 +1,56 @@
+---
+title: "Vyhláška České národní banky č. 36/1997 Sb., o vydání pamětních stříbrných dvousetkorun k 1000. výročí úmrtí sv. Vojtěcha"
+identifier: "36/1997 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1997/36/1997-04-16"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1997-02-18
+effective: 1997-04-16
+last_amended: 1997-04-16
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1997/36"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 36/1997 Sb., o vydání pamětních stříbrných dvousetkorun k 1000. výročí úmrtí sv. Vojtěcha
+
+36
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 18. února 1997
+
+o vydání pamětních stříbrných dvousetkorun k 1000. výročí úmrtí sv. Vojtěcha
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K 1000. výročí mučednické smrti sv. Vojtěcha se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,40 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je stylizovaný velký státní znak České republiky bez štítu. Název státu „ČESKÁ REPUBLIKA“ a označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ jsou v opisu při okrajích dvousetkoruny. Název státu je umístěn při horním a pravém okraji dvousetkoruny, označení nominální hodnoty mince se zkratkou peněžní jednotky je umístěno při spodním okraji dvousetkoruny. Označení nominální hodnoty mince se zkratkou peněžní jednotky odděluje od názvu státu po levé straně tečka, po pravé straně levá zadní noha lva ze čtvrtého pole státního znaku. Značka mincovny, která dvousetkorunu razila, je umístěna dole uprostřed pod státním znakem.
+
+(2) Na rubu dvousetkoruny je vyobrazení sv. Vojtěcha jako biskupa s mitrou, berlou v levé ruce a štólou přehozenou přes pravou ruku, ztvárněné podle předlohy z kostelních vrat v Hnězdně. Při levém okraji dvousetkoruny je neuzavřený opis „+ SV. VOJTĚCH“, při pravém spodním okraji jsou rovněž v neuzavřeném opisu letopočty „997 - 1997“. Autorem návrhu dvousetkoruny je akademický sochař Ladislav Kozák. Iniciály jeho jména „LK“ jsou umístěny na štóle při spodním okraji dvousetkoruny.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 16. dubna 1997.
+
+Guvernér:
+
+v z. Ing. Vít v. r.
+
+viceguvernér
+
+### ![sbcr1997c011z0036o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/830753/NAHLED/ZOBRAZ/sbcr1997c011z0036o001)
+
+### ![sbcr1997c011z0036o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/830755/NAHLED/ZOBRAZ/sbcr1997c011z0036o002)

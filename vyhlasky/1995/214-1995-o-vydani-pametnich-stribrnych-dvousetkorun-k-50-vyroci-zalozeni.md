@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 214/1995 Sb., o vydání pamětních stříbrných dvousetkorun k 50. výročí založení Organizace spojených národů"
+identifier: "214/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/214/1995-10-11"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1995-08-24
+effective: 1995-10-11
+last_amended: 1995-10-11
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/214"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 214/1995 Sb., o vydání pamětních stříbrných dvousetkorun k 50. výročí založení Organizace spojených národů
+
+214
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 24. srpna 1995
+
+o vydání pamětních stříbrných dvousetkorun k 50. výročí založení Organizace spojených národů
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K 50. výročí založení Organizace spojených národů se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,25 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka nahoru i dolů v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je velký státní znak České republiky umístěný blíže k levému hornímu okraji mince. Název státu „ČESKÁ REPUBLIKA“ je v neuzavřeném opisu při pravém okraji mince. Pod státním znakem vlevo je ve dvou řádcích označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“. Značka mincovny, která dvousetkorunu razila, je umístěna pod státním znakem vpravo.
+
+(2) Na rubu dvousetkoruny vychází hlavní motiv ze znaku Organizace spojených národů. Kruhová mapa světa, která pokrývá převážnou část mincovního pole, je stylizována do podoby obrazovky radiolokátoru se směrovou anténou. V levé horní části obrazovky radiolokátoru jsou mezi překříženými vavřínovými snítkami nad sebou umístěny letopočty „1945“ a „1995“. Letopočty jsou odděleny vodorovnou linkou. Při spodním a pravém okraji mince je neuzavřený opis „ORGANIZACE SPOJENÝCH NÁRODŮ“. Autorem návrhu dvousetkoruny je František Skrbek. Iniciála jeho příjmení „S“ je umístěna ve spodní části mince mezi svislou osou radiolokátoru a vyobrazením afrického kontinentu.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 11. října 1995.
+
+Guvernér:
+
+Ing. Tošovský v. r.
+
+### ![sbcr1995c057z0214o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/789957/NAHLED/ZOBRAZ/sbcr1995c057z0214o001)
+
+### ![sbcr1995c057z0214o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/789959/NAHLED/ZOBRAZ/sbcr1995c057z0214o002)

@@ -1,0 +1,44 @@
+---
+title: "Zákon č. 303/1990 Sb., kterým se mění a doplňuje trestní řád"
+identifier: "303/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/303/1990-07-20"
+type: act
+jurisdiction: cz
+language: cs
+date: 1990-07-20
+effective: 1990-07-20
+last_amended: 1990-07-20
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/303"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 303/1990 Sb., kterým se mění a doplňuje trestní řád
+
+303
+
+ZÁKON
+
+ze dne 20. července 1990,
+
+kterým se mění a doplňuje trestní řád
+
+Federální shromáždění České a Slovenské Federativní Republiky se usneslo na tomto zákoně:
+
+## Čl. I
+
+Zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění zákonů č. 57/1965 Sb., č. 58/1969 Sb., č. 149/1969 Sb., č. 48/1973 Sb., č. 29/1978 Sb., č. 43/1980 Sb., č. 159/1989 Sb. a č. 178/1990 Sb., se mění a doplňuje takto:
+
+§ 71 odst. 2 zní:
+
+> „(2) V řízení před soudem může vazba trvat nejvýše jeden rok. Je-li však obviněný stíhán pro trestný čin teroru (§ 93 a 93a), obecného ohrožení (§ 179 odst. 2, 3), nedovolené výroby a držení omamných a psychotropních látek a jedů (§ 187 odst. 3), vraždy (§ 219), loupeže (§ 234 odst. 2, 3), braní rukojmí (§ 234a odst. 3), znásilnění (§ 241 odst. 2, 3) a pohlavního zneužívání (§ 242 odst. 3, 4), může vazba v řízení před soudem trvat takovou dobu, která spolu s vazbou vykonanou v přípravném řízení nepřesáhne dva roky. Je-li takový obviněný vzat do vazby až v řízení před soudem, vazba může trvat nejvýše dva roky. Není-li v těchto lhůtách trestní stíhání skončeno, musí být obviněný propuštěn na svobodu.“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Havel v. r.
+
+Dubček v. r.
+
+Čalfa v. r.

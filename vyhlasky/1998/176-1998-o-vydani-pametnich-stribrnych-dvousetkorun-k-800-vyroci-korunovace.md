@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 176/1998 Sb., o vydání pamětních stříbrných dvousetkorun k 800. výročí korunovace Přemysla I. Otakara českým králem"
+identifier: "176/1998 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1998/176/1998-08-05"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1998-06-22
+effective: 1998-08-05
+last_amended: 1998-08-05
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1998/176"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 176/1998 Sb., o vydání pamětních stříbrných dvousetkorun k 800. výročí korunovace Přemysla I. Otakara českým králem
+
+176
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 22. června 1998
+
+o vydání pamětních stříbrných dvousetkorun k 800. výročí korunovace Přemysla I. Otakara českým králem
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K 800. výročí korunovace Přemysla I. Otakara českým králem se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,45 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je umístěna kompozice znakových znamení historických zemí Koruny české, která je svým uspořádáním a orámováním stylizována do podoby velkého státního znaku České republiky. Název státu „ČESKÁ REPUBLIKA“ je v neuzavřeném opisu při levém, spodním a pravém okraji dvousetkoruny. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je umístěno pod stylizací státního znaku. Značka mincovny, která dvousetkorunu razila, je umístěna při horním okraji dvousetkoruny uprostřed.
+
+(2) Na rubu dvousetkoruny je portrét Přemysla I. Otakara z reliéfu Petra Parléře, ztvárňujícího dobovou představu panovníkovy podoby. Portrét je doplněn pečetí Přemysla I. Otakara, umístěnou v pozadí v levé části mincovního pole. Při spodním okraji dvousetkoruny je neuzavřený opis „PŘEMYSL•I•OTAKAR“, při levém horním okraji jsou rovněž v neuzavřeném opisu umístěny letopočty „1198/1998“. Autorem návrhu dvousetkoruny je akademický sochař Jiří Věneček. Jeho iniciály „jv“ jsou umístěny při okraji dvousetkoruny vpravo od portrétu.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 5. srpna 1998.
+
+Guvernér:
+
+v z. Ing. Kysilka, CSc. v. r.
+
+### ![sbcr1998c059z0176o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/870183/NAHLED/ZOBRAZ/sbcr1998c059z0176o001)
+
+### ![sbcr1998c059z0176o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/870185/NAHLED/ZOBRAZ/sbcr1998c059z0176o002)

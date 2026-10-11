@@ -1,0 +1,111 @@
+---
+title: "Zákon č. 136/1994 Sb., o barvení a značkování některých uhlovodíkových paliv a maziv a o opatřeních s tím souvisejících, a o změně dalších zákonů"
+identifier: "136/1994 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1994/136/2007-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1994-06-03
+effective: 1994-07-01
+last_amended: 2007-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1994/136"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 136/1994 Sb., o barvení a značkování některých uhlovodíkových paliv a maziv a o opatřeních s tím souvisejících, o doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, zákona České národní rady č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů, a o změně zákona České národní rady č. 588/1992 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů ve znění zákona č. 95/1996 Sb., zákona č. 304/2000 Sb., zákona č. 354/2003 Sb., zákona č. 442/2003 Sb., zákona č. 237/2004 Sb., zákona č. 291/2005 Sb. a zákona č. 575/2006 Sb."
+---
+
+# Zákon č. 136/1994 Sb., o barvení a značkování některých uhlovodíkových paliv a maziv a o opatřeních s tím souvisejících, a o změně dalších zákonů
+
+136
+
+ZÁKON
+
+ze dne 3. června 1994
+
+o barvení a značkování některých uhlovodíkových paliv a maziv a o opatřeních s tím souvisejících, a o změně dalších zákonů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů
+
+### § 15
+
+Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění zákona č. 231/1992 Sb., zákona České národní rady č. 591/1992 Sb., zákona č. 273/1993 Sb., zákona č. 303/1993 Sb., zákona č. 38/1994 Sb. a zákona č. 42/1994 Sb., se doplňuje takto:
+
+1\. V § 58 odst. 1 se doplňuje nové písmeno e), které včetně poznámky č. 16) zní:
+
+> „e) výrobce paliv a maziv, u nichž je stanovena zvláštním zákonem<sup>16</sup>) povinnost barvení a značkování, nesplní tuto povinnost, dovozce těchto paliv a maziv nezajistí, aby tato paliva a maziva byla dovážena pouze přes celní přechody stanovené zvláštním zákonem<sup>16</sup>) a aby tato paliva a maziva byla obarvena a označkována před zahájením celního řízení o propuštění do volného oběhu, do režimu aktivního zušlechťovacího styku v systému navracení nebo přepracování pod celním dohledem,<sup>2</sup>) a to již při prvním porušení této povinnosti.
+
+> <sup>16</sup>) Zákon č. 136/1994 Sb., o barvení a značkování některých uhlovodíkových paliv a maziv a o opatřeních s tím souvisejících, o doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, zákona České národní rady č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů, a o změně zákona České národní rady č. 588/1992 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů.“.
+
+2\. Příloha č. 3 se doplňuje takto:
+
+> | 1 | 2 | 3 | 4 | 5 |
+> |---|---|---|---|---|
+> | Výroba a zpracování paliv a maziv | a) vysokoškolské vzdělání v oboru chemie a 5 let praxe v oboru<br> b) středoškolské vzdělání v oboru chemie zakončené maturitní zkouškou a 10 let praxe v oboru | | Ministerstvo průmyslu a obchodu | zákon č. 136/1994 Sb., o barvení a značkování některých uhlovodíkových paliv a maziv a o opatřeních s tím souvisejících, o doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, zákona ČNR č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů, a o změně zákona ČNR č. 588/1992 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů |
+> | Nákup, prodej a skladování paliv a maziv včetně jejich dovozu s výjimkou výhradního nákupu, prodeje a skladování paliv a maziv ve spotřebitelském balení do 50 kg na jeden kus balení | | | Ministerstvo průmyslu a obchodu | zákon č. 136/1994 Sb. |
+> | Provozování čerpacích stanic s palivy a mazivy | | | Ministerstvo průmyslu a obchodu | zákon č. 136/1994 Sb. |
+
+## ČÁST PÁTÁ – Přechodná a závěrečná ustanovení
+
+### § 18
+
+V činnosti, která se stává tímto zákonem koncesovanou živností, mohou fyzické a právnické osoby pokračovat po dobu šesti měsíců ode dne nabytí účinnosti tohoto zákona, a to na základě dosavadního oprávnění; uplynutím této lhůty však taková oprávnění zanikají.
+
+### § 19
+
+Tento zákon nabývá účinnosti dnem 1. července 1994.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.
+
+---
+
+<sup>1</sup>) Směrnice Rady č. 95/60/ES ze dne 27. listopadu 1995 o daňovém označování nafty a topného oleje.
+
+<sup>1a</sup>) Nařízení Rady č. 2658/87/ES ze dne 23. července 1987 o celní a statistické nomenklatuře a o společném celním sazebníku.
+
+<sup>1b</sup>) § 77 zákona č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích.
+
+<sup>2</sup>) Zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+
+<sup>2a</sup>) Zákon č. 13/1993 Sb., celní zákon, ve znění pozdějších předpisů.
+
+<sup>2b</sup>) Vyhláška č. 186/1996 Sb., kterou se stanoví podrobnosti barvení a značkování některých uhlovodíkových paliv a maziv, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 10 odst. 1 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 205/2002 Sb.
+
+<sup>4</sup>) § 2 písm. g) zákona ČNR č. 587/1992 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+
+<sup>4a</sup>) § 2 odst. 1 zákona č. 513/1991 Sb., obchodní zákoník.
+
+<sup>5</sup>) Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+
+<sup>6</sup>) Zákon č. 22/1997 Sb.
+
+<sup>7</sup>) Zákon ČNR č. 531/1990 Sb., o územních finančních orgánech, ve znění pozdějších předpisů.
+
+<sup>8</sup>) Zákon ČNR č. 64/1986 Sb., o České obchodní inspekci, ve znění pozdějších předpisů.
+
+<sup>9</sup>) § 1 odst. 2, § 2 odst. 1 zákona ČNR č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů.
+
+<sup>10</sup>) Zákon ČNR č. 552/1991 Sb., o státní kontrole, ve znění pozdějších předpisů.
+
+<sup>11</sup>) Zákon ČNR č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů. 
+ Zákon ČNR č. 64/1986 Sb. 
+ Zákon č. 22/1997 Sb. 
+ Zákon ČNR č. 531/1990 Sb. 
+ Zákon ČNR č. 283/1991 Sb.Zákon ČNR č. 13/1993 Sb., celní zákon, ve znění pozdějších předpisů.
+
+<sup>11a</sup>) Zákon č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví.
+
+<sup>12</sup>) § 2 odst. 2 obchodního zákoníku.
+
+<sup>13</sup>) § 2 odst. 1 obchodního zákoníku.
+
+<sup>14</sup>) Zákon č. 71/1967 Sb., o správním řízení (správní řád).
+
+<sup>15</sup>) Např. zákon č. 337/1992 Sb., ve znění pozdějších předpisů.

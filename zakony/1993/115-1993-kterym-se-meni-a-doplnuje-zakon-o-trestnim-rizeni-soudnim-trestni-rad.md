@@ -1,0 +1,48 @@
+---
+title: "Zákon č. 115/1993 Sb., kterým se mění a doplňuje zákon o trestním řízení soudním (trestní řád)"
+identifier: "115/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/115/1993-04-15"
+type: act
+jurisdiction: cz
+language: cs
+date: 1993-03-24
+effective: 1993-04-15
+last_amended: 1993-04-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/115"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 115/1993 Sb., kterým se mění a doplňuje zákon o trestním řízení soudním (trestní řád)
+
+115
+
+ZÁKON
+
+ze dne 24. března 1993,
+
+kterým se mění a doplňuje zákon o trestním řízení soudním (trestní řád)
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 141/1961 Sb., o trestním řízení soudním (trestní řád), ve znění zákonů č. 57/1965 Sb., č. 58/1969 Sb., č. 149/1969 Sb., č. 48/1973 Sb., č. 29/1978 Sb., č. 43/1980 Sb., č. 159/1989 Sb., č. 178/1990 Sb., č. 303/1990 Sb., č. 558/1991 Sb. a č. 25/1993 Sb., se doplňuje takto:
+
+V § 161 se doplňuje odstavec 5, který zní:
+
+> „(5) Vyšetřování trestných činů příslušníků Bezpečnostní informační služby České republiky<sup>4)</sup> konají vyšetřovatelé inspekce této služby.“.
+
+Poznámka č. 4) pod čarou zní:
+
+> „<sup>4</sup>) Zákon ČNR č. 527/1992 Sb., o Bezpečnostní informační službě České republiky.“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem 15. dubna 1993.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.

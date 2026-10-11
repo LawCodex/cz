@@ -1,0 +1,420 @@
+---
+title: "Zákon č. 290/2002 Sb., o přechodu některých dalších věcí, práv a závazků České republiky na kraje a obce, občanská sdružení působící v oblasti tělovýchovy a sportu a o souvisejících změnách a o změně zákona č. 157/2000 Sb., o přechodu některých věcí, práv a závazků z majetku České republiky, ve znění zákona č. 10/2001 Sb., a zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů"
+identifier: "290/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/290/2012-04-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2002-06-13
+effective: 2002-07-01
+last_amended: 2012-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/290"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 290/2002 Sb., o přechodu některých dalších věcí, práv a závazků České republiky na kraje a obce, občanská sdružení působící v oblasti tělovýchovy a sportu a o souvisejících změnách a o změně zákona č. 157/2000 Sb., o přechodu některých věcí, práv a závazků z majetku České republiky, ve znění zákona č. 10/2001 Sb., a zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů ve znění zákona č. 150/2003 Sb., nálezu Ústavního soudu, vyhlášeného pod č. 211/2003 Sb., zákona č. 485/2004 Sb., zákona č. 1/2005 Sb., zákona č. 317/2006 Sb., zákona č. 485/2008 Sb., zákona č. 183/2010 Sb. a zákona č. 375/2011 Sb."
+---
+
+# Zákon č. 290/2002 Sb., o přechodu některých dalších věcí, práv a závazků České republiky na kraje a obce, občanská sdružení působící v oblasti tělovýchovy a sportu a o souvisejících změnách a o změně zákona č. 157/2000 Sb., o přechodu některých věcí, práv a závazků z majetku České republiky, ve znění zákona č. 10/2001 Sb., a zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů
+
+290
+
+ZÁKON
+
+ze dne 13. června 2002
+
+o přechodu některých dalších věcí, práv a závazků České republiky na kraje a obce, občanská sdružení působící v oblasti tělovýchovy a sportu a o souvisejících změnách a o změně zákona č. 157/2000 Sb., o přechodu některých věcí, práv a závazků z majetku České republiky, ve znění zákona č. 10/2001 Sb., a zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – PŘECHOD NĚKTERÝCH DALŠÍCH VĚCÍ, PRÁV A ZÁVAZKŮ ČESKÉ REPUBLIKY NA KRAJE A OBCE, OBČANSKÁ SDRUŽENÍ PŮSOBÍCÍ V OBLASTI TĚLOVÝCHOVY A SPORTU A SOUVISEJÍCÍ ZMĚNY
+
+### § 1
+
+(1) Dnem 1. ledna 2003 přecházejí z vlastnictví České republiky (dále jen „stát“) do vlastnictví krajů věci, se kterými k 31. prosinci 2002 (dále jen „rozhodný den“) byly příslušné hospodařit<sup>1</sup>) organizační složky státu a státní příspěvkové organizace, u nichž funkci zřizovatele vykonávaly k rozhodnému dni okresní úřady (dále jen „zřizovatel“), pokud tento zákon nebo zvláštní zákon nestanoví jinak.
+
+(2) Na jednotlivé kraje dnem 1. ledna 2003 zároveň přecházejí
+
+a) práva státu a jiné majetkové hodnoty, se kterými k rozhodnému dni byly příslušné hospodařit organizační složky státu uvedené v odstavci 1,
+
+b) závazky státu, u nichž organizační složky státu uvedené v odstavci 1 k rozhodnému dni zabezpečovaly úkoly podle zvláštního právního předpisu,<sup>2</sup>)
+
+c) práva a povinnosti z pracovněprávních vztahů,<sup>3</sup>) ve kterých za stát jednaly k rozhodnému dni organizační složky státu uvedené v odstavci 1.
+
+(3) Na jednotlivé kraje dnem 1. ledna 2003 zároveň přecházejí veškerá práva a jiné majetkové hodnoty státu, se kterými byly k rozhodnému dni příslušné hospodařit státní příspěvkové organizace uvedené v odstavci 1, pokud tento zákon nestanoví jinak.
+
+(4) Nabývajícím krajem je kraj, na jehož území<sup>4</sup>) mají organizační složky státu a státní příspěvkové organizace uvedené v odstavci 1 k rozhodnému dni své sídlo.
+
+### § 2
+
+(1) Dnem 1. ledna 2003 se stávají organizační složky státu uvedené v § 1 organizačními složkami kraje. Do 30. dubna 2003 je kraj povinen přizpůsobit jejich dosavadní zřizovací listiny náležitostem zřizovací listiny vydávané podle zvláštního právního předpisu.<sup>5</sup>)
+
+(2) Dnem 1. ledna 2003 se stávají státní příspěvkové organizace uvedené v § 1 příspěvkovými organizacemi kraje. Příspěvkové organizace kraje zůstávají nositeli závazků, včetně práv a povinností z pracovněprávních vztahů. Do 30. dubna 2003 je kraj povinen přizpůsobit jejich dosavadní zřizovací listiny náležitostem zřizovací listiny vydávané podle zvláštního právního předpisu<sup>6</sup>) a podat návrh na zápis do obchodního rejstříku.
+
+### § 3
+
+(1) Dnem účinnosti zvláštního právního předpisu<sup>7</sup>) se stává Stálá divadelní scéna se sídlem Denisova 148, 339 01 Klatovy, identifikační číslo 00075094 (dále jen „Stálá divadelní scéna“), která byla ke dni předcházejícímu účinnosti zvláštního právního předpisu<sup>7</sup>) státní příspěvkovou organizací, příspěvkovou organizací Plzeňského kraje.
+
+(2) Stálá divadelní scéna zůstává nositelem závazků, včetně práv a povinností z pracovněprávních vztahů. Do 30. dubna 2005 je Plzeňský kraj povinen přizpůsobit její dosavadní zřizovací listinu náležitostem zřizovací listiny vydávané podle zvláštního právního předpisu<sup>6</sup>) a podat návrh na zápis do obchodního rejstříku.
+
+(3) Dnem účinnosti zvláštního právního předpisu<sup>7</sup>) přecházejí z vlastnictví státu do vlastnictví Plzeňského kraje věci, se kterými ke dni předcházejícímu účinnosti zvláštního právního předpisu<sup>7</sup>) byla příslušná hospodařit Stálá divadelní scéna.
+
+(4) Na Plzeňský kraj dnem účinnosti zvláštního právního předpisu<sup>7</sup>) zároveň přecházejí veškerá práva a jiné majetkové hodnoty státu, se kterými byla ke dni předcházejícímu účinnosti zvláštního právního předpisu<sup>7</sup>) příslušná hospodařit Stálá divadelní scéna.
+
+(5) O předání a převzetí majetku státu připraví a sepíše Stálá divadelní scéna s Plzeňským krajem nejpozději do 28. února 2005 protokol o předání a převzetí majetku podle tohoto zákona. Protokol je listinou, kterou nabyvatel zašle do 30. června 2005 s ohlášením přechodu vlastnického práva z České republiky na kraj k provedení záznamu práv do katastru nemovitostí.<sup>16</sup>) Nejpozději do 31. března 2005 budou k protokolu připojeny přílohy zpracované na základě výsledků mimořádné účetní závěrky provedené ke dni předcházejícímu účinnosti zvláštního právního předpisu<sup>7</sup>) podle zvláštního právního předpisu,<sup>14</sup>) jejichž seznam bude v protokolu uveden. V ostatním pro tento protokol platí § 8 obdobně.
+
+### § 3a
+
+(1) Dnem účinnosti zvláštního právního předpisu<sup>7a</sup>) se stává Úrazová nemocnice v Brně se sídlem Ponávka 6, 662 50 Brno, identifikační číslo 00209813 (dále jen „Úrazová nemocnice“), která byla ke dni předcházejícímu účinnosti zvláštního právního předpisu<sup>7a</sup>) státní příspěvkovou organizací, příspěvkovou organizací statutárního města Brna.
+
+(2) Úrazová nemocnice zůstává nositelem závazků, včetně práv a povinností z pracovněprávních vztahů. Do 4 měsíců od dne, kdy se stane Úrazová nemocnice jeho příspěvkovou organizací, je statutární město Brno povinno přizpůsobit její dosavadní zřizovací listinu náležitostem zřizovací listiny vydávané podle zvláštního právního předpisu<sup>6</sup>) a podat návrh na zápis do obchodního rejstříku.
+
+(3) Dnem účinnosti zvláštního právního předpisu<sup>7a</sup>) přecházejí z vlastnictví státu do vlastnictví statutárního města Brna věci, se kterými ke dni předcházejícímu účinnosti zvláštního právního předpisu<sup>7a</sup>) byla příslušná hospodařit Úrazová nemocnice.
+
+(4) Na statutární město Brno dnem účinnosti zvláštního právního předpisu<sup>7a</sup>) zároveň přecházejí veškerá práva a jiné majetkové hodnoty státu, se kterými byla ke dni předcházejícímu účinnosti zvláštního právního předpisu<sup>7a</sup>) příslušná hospodařit Úrazová nemocnice.
+
+(5) O předání a převzetí majetku státu sepíše Úrazová nemocnice se statutárním městem Brnem nejpozději do 3 měsíců od dne, kdy se Úrazová nemocnice stane příspěvkovou organizací statutárního města Brna, protokol o předání a převzetí majetku podle tohoto zákona. Protokol je listinou, kterou nabyvatel zašle do 2 měsíců od jeho vyhotovení s ohlášením přechodu vlastnického práva z České republiky na kraj k provedení záznamu práv do katastru nemovitostí<sup>16</sup>). K protokolu budou připojeny přílohy zpracované na základě výsledků mimořádné účetní závěrky provedené podle zvláštního právního předpisu<sup>14</sup>) ke dni předcházejícímu dni, kdy se stane Úrazová nemocnice příspěvkovou organizací statutárního města Brna, jejichž seznam bude v protokolu uveden. V ostatním pro tento protokol platí § 8 obdobně.
+
+(6) Pokud nebudou v Úrazové nemocnici poskytovány statutárním městem Brnem zdravotní služby, je statutární město Brno povinno ji bezplatně převést zpět státu. Toto ustanovení se použije i při prodeji či pronájmu Úrazové nemocnice.
+
+### § 4
+
+(1) Dnem 1. ledna 2003 přecházejí do vlastnictví obcí uvedených v příloze č. 1 k tomuto zákonu (dále jen „obec“) z vlastnictví státu věci, s nimiž k rozhodnému dni byly příslušné hospodařit organizační složky státu a státní příspěvkové organizace uvedené v této příloze.
+
+(2) Na obce dnem 1. ledna 2003 zároveň přecházejí
+
+a) práva státu a jiné majetkové hodnoty, se kterými k rozhodnému dni byly příslušné hospodařit organizační složky státu uvedené v odstavci 1,
+
+b) závazky státu, u nichž organizační složky státu uvedené v odstavci 1 k rozhodnému dni zabezpečovaly úkoly podle zvláštního právního předpisu,<sup>2</sup>)
+
+c) práva a povinnosti z pracovněprávních vztahů,<sup>3</sup>) ve kterých za stát jednaly k rozhodnému dni organizační složky státu uvedené v odstavci 1.
+
+(3) Na obce dnem 1. ledna 2003 zároveň přecházejí veškerá práva a jiné majetkové hodnoty státu, se kterými byly k rozhodnému dni příslušné hospodařit státní příspěvkové organizace uvedené v odstavci 1.
+
+### § 5
+
+(1) Dnem 1. ledna 2003 se stávají organizační složky státu uvedené v § 4 organizačními složkami obce. Do 30. dubna 2003 je obec povinna přizpůsobit jejich zřizovací listiny náležitostem zřizovací listiny vydávané podle zvláštního právního předpisu.<sup>5</sup>)
+
+(2) Dnem 1. ledna 2003 se stávají státní příspěvkové organizace uvedené v § 4 příspěvkovými organizacemi obce. Příspěvkové organizace obce přitom zůstávají nositeli závazků, včetně práv a povinností z pracovněprávních vztahů. Do 30. dubna 2003 je obec povinna přizpůsobit jejich dosavadní zřizovací listiny náležitostem zřizovací listiny vydávané podle zvláštního právního předpisu<sup>6</sup>) a podat návrh na zápis do obchodního rejstříku.
+
+### § 7
+
+(1) Ode dne nabytí účinnosti tohoto zákona mohou organizační složky státu a státní příspěvkové organizace uvedené v § 1 a 4 nakládat s majetkem státu, s nímž jsou příslušné hospodařit, pouze v rámci jim stanoveného předmětu činnosti.
+
+(2) Ustanovení odstavce 1 se nevztahuje na převod vlastnictví majetku státu podle zákona o převodu majetku státu na jiné osoby.<sup>11</sup>)
+
+(3) Výjimku z odstavce 1 může ze závažných důvodů povolit věcně příslušné ministerstvo. Tím není dotčen postup pro nakládání s majetkem státu stanovený zvláštním právním předpisem.<sup>12</sup>)
+
+### § 8
+
+(1) O předání a převzetí majetku státu připraví a sepíší předávající organizační složky státu a státní příspěvkové organizace s nabývajícími kraji a obcemi v období od nabytí účinnosti zákona nejpozději do 31. prosince 2002 protokol o předání a převzetí majetku podle tohoto zákona.
+
+(2) Protokol podle odstavce 1 obsahuje název, sídlo a identifikační číslo předávajícího a nabyvatele a výčet nemovitých věcí, které se zapisují do katastru nemovitostí, s uvedením údajů nezbytných pro zápis do katastru nemovitostí.<sup>13</sup>) Dále bude v protokolu uveden seznam příloh, které k němu budou připojeny nejpozději do 31. března 2003 na základě zpracování výsledků řádné účetní závěrky provedené k 31. prosinci 2002 podle zvláštního právního předpisu.<sup>14</sup>) K protokolu se připojí veškerá technická dokumentace k předávaným nemovitostem,<sup>15</sup>) kterou odevzdá předávající nabyvateli již ke dni podpisu protokolu. Protokol musí být podepsán vedoucím organizační složky státu nebo statutárním orgánem státní příspěvkové organizace za předávajícího a hejtmanem nebo starostou za nabyvatele. Jedno vyhotovení protokolu předávající současně zašle Ministerstvu financí.
+
+(3) Protokol podle odstavce 1, jsou-li předmětem předání nemovitosti, je listinou, kterou nabyvatel zašle do 30. června 2003 s ohlášením přechodu vlastnického práva z České republiky na kraj nebo obec k provedení záznamu práv do katastru nemovitostí.<sup>16</sup>) Pokud tak nabyvatel neučiní, zašle protokol s ohlášením přechodu vlastnického práva z České republiky na kraj nebo obec k provedení záznamu práv do katastru nemovitostí Ministerstvo financí.
+
+**Přechod některých zřizovatelských a zakladatelských funkcí**
+
+### § 9
+
+Dnem 1. ledna 2003 přísluší výkon funkce zřizovatele státních příspěvkových organizací uvedených v příloze č. 2 k tomuto zákonu Ministerstvu kultury, v příloze č. 3 Ministerstvu zdravotnictví. Ustanovení § 1 a 2 se nepoužijí.
+
+### § 10
+
+Dnem 1. ledna 2003 přísluší výkon funkce zakladatele státních podniků<sup>17</sup>) včetně státních podniků v likvidaci, u nichž tuto funkci k rozhodnému dni vykonávaly okresní úřady, Ministerstvu pro místní rozvoj.
+
+### § 11 – Přechod majetku do správy Pozemkového fondu České republiky
+
+(1) Dnem nabytí účinnosti tohoto zákona přecházejí z okresních úřadů do správy Pozemkového fondu České republiky (dále jen „Pozemkový fond“) pozemky, které tvoří zemědělský půdní fond a nebo do něj náleží podle § 1 odst. 2 a 3 zákona č. 334/1992 Sb., o ochraně zemědělského půdního fondu, pokud tento majetek stát nabyl po 24. červnu 1991, s výjimkou pozemků, které Pozemkový fond podle zákona o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku nespravuje,<sup>18</sup>) a pokud tento zákon dále nestanoví jinak.
+
+(2) Na Pozemkový fond současně přecházejí práva a závazky s tímto majetkem související.
+
+(3) Podle odstavce 1 nepřecházejí do správy Pozemkového fondu pozemky, pokud tvoří jeden funkční celek s obytnými budovami a jinými stavbami, které neslouží a nejsou určeny k zemědělské výrobě.
+
+(4) O předání a převzetí majetku uvedeného v odstavci 1 sepíší okresní úřady a Pozemkový fond do 31. prosince 2002 protokol. V protokolu musí být uveden název, sídlo a identifikační číslo okresního úřadu a Pozemkového fondu a výčet pozemků s uvedením údajů nezbytných pro zápis do katastru nemovitostí.<sup>13</sup>) Protokol podepisuje přednosta okresního úřadu a osoba pověřená statutárním orgánem Pozemkového fondu.
+
+(5) Dnem 1. července 2003 přecházejí do správy Pozemkového fondu pozemky, které tvoří zemědělský půdní fond nebo do něj náležejí podle § 1 odst. 2 a 3 zákona č. 334/1992 Sb., o ochraně zemědělského půdního fondu, s nimiž ke dni 30. června 2003 je příslušný hospodařit Úřad pro zastupování státu ve věcech majetkových, pokud tento zákon nestanoví jinak.
+
+(6) Podle odstavce 5 nepřecházejí do správy Pozemkového fondu pozemky uvedené v § 17 odst. 1 písm. a), b) a d) zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění zákona č. 183/1993 Sb. Do správy Pozemkového fondu podle odstavce 5 rovněž nepřecházejí pozemky, pokud tvoří jeden funkční celek s obytnými budovami a jinými stavbami, které neslouží a nejsou určeny k zemědělské výrobě.
+
+(7) O předání a převzetí majetku uvedeného v odstavci 5 sepíše Úřad pro zastupování státu ve věcech majetkových a Pozemkový fond do 30. června 2003 protokol. V protokolu musí být uveden název, sídlo a identifikační číslo Úřadu pro zastupování státu ve věcech majetkových a Pozemkového fondu a výčet pozemků s uvedením údajů nezbytných pro zápis do katastru nemovitostí.<sup>13</sup>)
+
+(8) Protokol podle odstavce 4 a 7 je listinou, kterou Pozemkový fond zašle s ohlášením vzniku správy podle tohoto zákona k provedení záznamu do katastru nemovitostí.<sup>16</sup>)
+
+### § 12 – Přechod majetku do vlastnictví Všeobecné zdravotní pojišťovny České republiky
+
+(1) Dnem 1. ledna 2003 přecházejí z vlastnictví státu do vlastnictví Všeobecné zdravotní pojišťovny České republiky (dále jen „pojišťovna“)
+
+a) nemovité věci užívané pojišťovnou na základě práv, kterých nabyla podle zvláštního zákona jako právní nástupce správy všeobecného zdravotního pojištění zřízené při Ministerstvu zdravotnictví České republiky,<sup>19</sup>)
+
+b) nemovité věci užívané pojišťovnou na základě smluv o převodu práva hospodaření s národním majetkem, uzavřených před 31. prosincem 1993 mezi pojišťovnou jako nabyvatelem a převodci tohoto majetku.
+
+(2) Nemovité věci, které přecházejí do vlastnictví pojišťovny, musí být po dobu 10 let ode dne jejich nabytí užívány pouze k účelu, ke kterému byly užívány ke dni převodu vlastnictví věcí podle odstavce 1. Stanou-li se před uplynutím této doby pro pojišťovnu nepotřebnými, musí být nabídnuty k bezúplatnému převodu do vlastnictví státu. Organizační složkou státu příslušnou k přijetí nabídky je věcně příslušné ministerstvo. Pokud stát nepřijme písemnou nabídku pojišťovny ve lhůtě tří měsíců od jejího doručení, naloží pojišťovna s těmito věcmi podle svého uvážení.
+
+(3) O předání a převzetí majetku státu sepíší původní předávající organizační složky státu a ostatní příspěvkové organizace s pojišťovnou nejpozději do 31. prosince 2002 protokol o předání a převzetí majetku podle tohoto zákona. Protokol obsahuje název, sídlo a identifikační číslo předávajícího a pojišťovny a výčet nemovitých věcí, které se zapisují do katastru nemovitostí, s uvedením údajů nezbytných pro zápis do katastru nemovitostí.<sup>13</sup>) Protokol musí být podepsán vedoucím organizační složky státu nebo statutárním orgánem státní příspěvkové organizace za předávajícího a statutárním zástupcem pojišťovny za nabyvatele. Jedno vyhotovení protokolu předávající současně zašle Ministerstvu financí.
+
+(4) Protokol podle odstavce 3 je listinou, kterou pojišťovna zašle do 30. června 2003 s ohlášením přechodu vlastnického práva z České republiky na pojišťovnu k provedení záznamu do katastru nemovitostí.<sup>16</sup>) Pokud tak pojišťovna neučiní, zašle protokol s ohlášením přechodu vlastnického práva z České republiky na pojišťovnu k provedení záznamu do katastru nemovitostí Ministerstvo financí.
+
+### § 13 – Příslušnost Agentury ochrany přírody a krajiny České republiky hospodařit s pozemky, které jsou součástí zvláště chráněných území
+
+(1) Dnem nabytí účinnosti tohoto zákona přísluší Agentuře ochrany přírody a krajiny České republiky (dále jen „Agentura“) hospodařit s pozemky, se kterými k tomuto dni byly příslušné hospodařit okresní úřady a které jsou alespoň zčásti součástí zvláště chráněného území vyhlášeného podle zvláštního právního předpisu.<sup>20</sup>) Na Agenturu současně přecházejí práva a závazky s tímto majetkem související.
+
+(2) O předání a převzetí majetku uvedeného v odstavci 1 sepíší okresní úřady a Agentura do 31. prosince 2002 protokol. V protokolu musí být uveden název, sídlo a identifikační číslo okresního úřadu a Agentury a výčet pozemků s uvedením údajů nezbytných pro zápis do katastru nemovitostí.<sup>13</sup>)
+
+(3) Protokol podle odstavce 2 je listinou, kterou Agentura zašle s ohlášením změny příslušnosti hospodařit s těmito pozemky podle odstavce 1 k provedení záznamu do katastru nemovitostí.<sup>16</sup>)
+
+(4) Dnem 1. ledna 2005 přísluší Úřadu pro zastupování státu ve věcech majetkových hospodařit s pozemky, které jsou součástí zvláště chráněných území uvedených v ustanovení § 14 odst. 2 písm. a) a b) zákona č. 114/1992 Sb., o ochraně přírody a krajiny, a nacházejí se v současně zastavěných územích obcí. Agentura je příslušnou hospodařit s těmito pozemky podle odstavce 1 a hospodaří s nimi ke dni 31. prosince 2004. Na Úřad pro zastupování státu ve věcech majetkových současně přechází výkon práv a závazků České republiky s těmito pozemky souvisejících, které Agentura vykonávala a plnila.
+
+(5) O předání a převzetí majetku uvedeného v odstavci 4 sepíší Agentura a Úřad pro zastupování státu ve věcech majetkových do 31. prosince 2005 protokol. V protokolu musí být uveden název, sídlo a identifikační číslo Agentury a Úřadu pro zastupování státu ve věcech majetkových a výčet pozemků s uvedením údajů nezbytných pro zápis do katastru nemovitostí.<sup>13</sup>)
+
+(6) Protokol podle odstavce 5 je listinou, kterou Úřad pro zastupování státu ve věcech majetkových zašle s ohlášením změny příslušnosti hospodařit s těmito pozemky podle odstavce 4 k provedení záznamu do katastru nemovitostí.<sup>16</sup>)
+
+### § 14
+
+Dnem 1. ledna 2003 přecházejí do vlastnictví občanských sdružení působících v oblasti tělovýchovy a sportu z vlastnictví České republiky sportovní zařízení,<sup>21</sup>) u kterých trvají vztahy trvalého užívání, nebo se změnily na výpůjčku.<sup>22</sup>)
+
+### § 15
+
+(1) O předání a převzetí majetku státu sepíší předávající organizační složky státu s nabývajícími občanskými sdruženími působícími v oblasti tělovýchovy a sportu (dále jen „nabyvatel“) nejpozději do 31. prosince 2003 protokol o předání a převzetí majetku podle tohoto zákona.
+
+(2) Protokol podle odstavce 1 musí obsahovat název, sídlo a identifikační číslo předávajícího a nabyvatele a výčet nemovitých věcí, které se zapisují do katastru nemovitostí, s uvedením údajů nezbytných pro zápis do katastru nemovitostí.<sup>13</sup>) Protokol musí být podepsán vedoucím organizační složky státu za předávajícího a statutárním zástupcem nabyvatele.
+
+(3) Protokol podle odstavce 1 je listina, kterou nabyvatel zašle s ohlášením přechodu vlastnického práva z České republiky na nabyvatele k provedení záznamu práv do katastru nemovitostí.<sup>16</sup>)
+
+(4) Nemovité věci, které přecházejí do vlastnictví nabyvatele, musí být po dobu 10 let ode dne jejich nabytí užívány pouze k účelu, ke kterému byly užívány ke dni přechodu vlastnictví podle § 14.
+
+### § 15a
+
+Dnem nabytí účinnosti tohoto zákona přecházejí z vlastnictví České republiky bezúplatně do vlastnictví odborových organizací, které mají podle zákona č. 83/1990 Sb., o sdružování občanů, postavení právnické osoby, pozemky tvořící jeden funkční celek se stavbou ve vlastnictví těchto odborových organizací, jestliže zároveň
+
+a) k těmto pozemkům bylo uvedeným odborovým organizacím nebo jejich právním předchůdcům zřízeno právo trvalého užívání,
+
+b) trvalé užívání se podle zvláštních právních předpisů<sup>22</sup>) změnilo na výpůjčku,
+
+c) výpůjčka ke dni nabytí účinnosti tohoto zákona trvá,
+
+d) pozemky slouží k naplňování poslání a činnosti odborových organizací v souladu s čl. 27 Listiny základních práv a svobod.
+
+### § 15b
+
+(1) Nabývající odborová organizace (dále jen „nabyvatel“) požádá předávající organizační složku státu (dále jen „předávající“) o předání majetku uvedeného v § 15a nejpozději do 6 měsíců ode dne účinnosti tohoto zákona; neučiní-li tak, ke změně vlastnického práva podle § 15a nedojde a výpůjčka podle zvláštních právních předpisů<sup>22</sup>) odborové organizaci nadále trvá.
+
+(2) O předání a převzetí majetku uvedeného v § 15a sepíše předávající s nabyvatelem nejpozději do 12 měsíců ode dne účinnosti tohoto zákona protokol o předání a převzetí.
+
+(3) Protokol podle odstavce 2 musí obsahovat název, sídlo a identifikační číslo předávajícího a nabyvatele a výčet pozemků s uvedením údajů nezbytných pro zápis do katastru nemovitostí. Protokol musí být podepsán za předávajícího jeho vedoucím a za nabyvatele jeho statutárním orgánem.
+
+(4) Protokol podle odstavce 1 je listina, kterou nabyvatel zašle s ohlášením přechodu vlastnického práva z České republiky na nabyvatele k provedení záznamu do katastru nemovitostí<sup>16</sup>).
+
+(5) Majetek, který přechází do vlastnictví nabyvatele podle § 15a, musí být po dobu 5 let ode dne nabytí užíván pouze k naplňování poslání a činnosti nabyvatele. Stane-li se před uplynutím této doby pro nabyvatele pro tento účel nepotřebným, musí být přednostně nabídnut bezúplatně do vlastnictví státu; organizační složkou státu příslušnou k přijetí nabídky je předávající. Pokud předávající nepřijme písemnou nabídku nabyvatele ve lhůtě 6 měsíců od jejího doručení, naloží nabyvatel s majetkem bez uvedených omezujících podmínek.
+
+## ČÁST DRUHÁ – Změna zákona o přechodu některých věcí, práv a závazků z majetku České republiky do majetku krajů
+
+### § 16
+
+Zákon č. 157/2000 Sb., o přechodu některých věcí, práv a závazků z majetku České republiky do majetku krajů, ve znění zákona č. 10/2001 Sb. a zákona č. 408/2001 Sb., se mění takto:
+
+1\. V příloze č. 1 se v části Ministerstvo zdravotnictví kraj Ústecký na konci textu doplňují tato slova:
+
+> „územní středisko Záchranné služby Ústí nad Labem
+
+> Pasteurova 9, 401 13 Ústí nad Labem
+
+> 00829013“.
+
+2\. V příloze č. 1 se v části Ministerstvo zdravotnictví kraj Budějovický na konci textu doplňují tato slova:
+
+> „územní středisko Záchranné služby
+
+> Boženy Němcové 6, 370 01 České Budějovice
+
+> 48199931“.
+
+3\. V příloze č. 1 se v části Ministerstvo zdravotnictví na konci doplňují tato slova:
+
+> „Plzeňský kraj
+
+> územní středisko Záchranné služby v Plzni
+
+> tř. dr. Edwarda Beneše 19, 301 00 Plzeň
+
+> 45333009
+
+> Liberecký kraj
+
+> územní středisko Záchranné služby v Liberci
+
+> Husova 976/37, 460 63 Liberec
+
+> 46744991
+
+> Královéhradecký kraj
+
+> územní středisko Záchranné služby Hradec Králové
+
+> Hradecká 1690, 512 00 Hradec Králové
+
+> 48145122
+
+> Kraj Vysočina
+
+> územní středisko Záchranné služby v Jihlavě
+
+> Vrchlického 61, 586 01 Jihlava
+
+> 47366630
+
+> Jihomoravský kraj
+
+> územní středisko Záchranné služby
+
+> náměstí 28. října 23, 602 00 Brno
+
+> 00346292
+
+> Olomoucký kraj
+
+> územní středisko Záchranné služby v Olomouci
+
+> Aksamitova 8, 772 00 Olomouc
+
+> 00849103
+
+> Kraj Moravskoslezský
+
+> územní středisko Záchranné služby
+
+> 17\. listopadu 1790, 708 56 Ostrava-Poruba
+
+> 48804525“.
+
+## ČÁST ČTVRTÁ – PŘECHODNÁ USTANOVENÍ
+
+#### § 18
+
+(1) Ve lhůtě do 2 let ode dne, kdy kraj nabyl podle § 1 tohoto zákona do svého vlastnictví věci, se kterými byly příslušné hospodařit organizační složky státu a státní příspěvkové organizace poskytující služby sociální péče,<sup>23</sup>) včetně veškerých práv a závazků, a které se staly organizačními složkami kraje nebo příspěvkovými organizacemi kraje podle § 2 tohoto zákona, může obec, na jejímž území se toto zařízení nachází, kraj písemně požádat o převod věcí, práv a závazků této organizační složky kraje nebo příspěvkové organizace kraje do vlastnictví obce. Ustanovení § 4 odst. 2 a 3, § 5 a § 6 odst. 1 a 3 se použijí přiměřeně.
+
+(2) Kraj je povinen ve lhůtě tří měsíců od doručení písemné žádosti obce převést do vlastnictví obce bezúplatně věci, práva a závazky příspěvkové organizace kraje nebo organizační složky kraje poskytující službu sociální péče, jejíž věci, práva a závazky přešly na kraj podle tohoto zákona.
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### § 19
+
+Tento zákon nabývá účinnosti dnem 1. července 2002.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.
+
+### Příloha č. 1 k zákonu č. 290/2002 Sb.
+
+#### Seznam organizačních složek státu a státních příspěvkových organizací, u nichž funkci zřizovatele vykonávají okresní úřady, které se stávají organizačními složkami a příspěvkovými organizacemi vyjmenovaných obcí
+
+| Název<br> Sídlo<br> IČ<br> *Organizační složka státu* |
+|---|
+| **Okresní knihovna v Mostě**<br> Moskevská 12, 434 21 Most<br> 00080713<br> **Nabyvatel: Obec Most** |
+| **Okresní knihovna v Teplicích**<br> Lípová 796/13, 415 01 Teplice<br> 00361216<br> **Nabyvatel: Obec Teplice** |
+| **Okresní knihovna**<br> Máchova alej 1, 568 02 Svitavy<br> 00371700<br> **Nabyvatel: Obec Svitavy** |
+| **Okresní knihovna Hodonín**<br> Národní 36, 695 14 Hodonín<br> 00090344<br> **Nabyvatel: Obec Hodonín** |
+
+| Název<br> Sídlo<br> IČ<br> *Státní příspěvková organizace* |
+|---|
+| **Poradna**<br> Koliště 17, 602 00 Brno<br> 67009085<br> **Nabyvatel: Obec Šlapanice** |
+| **Husova knihovna Praha-východ**<br> Masarykovo náměstí 83, 251 01 Říčany<br> 66002001<br> **Nabyvatel: Obec Říčany** |
+| **Divadlo Fráni Šrámka v Písku**<br> Tylova 68, 397 11 Písek<br> 00071579<br> **Nabyvatel: Obec Písek** |
+| **Okresní knihovna v Písku**<br> Alšovo náměstí 85, 397 01 Písek<br> 70869197<br> **Nabyvatel: Obec Písek** |
+| **Okresní knihovna Prachatice**<br> Husova 71, 383 01 Prachatice<br> 00583197<br> **Nabyvatel: Obec Prachatice** |
+| **Šmidingerova knihovna**<br> Zámek 1, 386 11 Strakonice<br> 70884552<br> **Nabyvatel: Obec Strakonice** |
+| **Okresní knihovna Tábor**<br> Jiráskova 1775, 390 01 Tábor<br> 70886634<br> **Nabyvatel: Obec Tábor** |
+| **Okresní knihovna Plzeň-sever**<br> Pivovarská 2, 331 01 Plasy<br> 00368555<br> **Nabyvatel: Obec Plasy** |
+| **Okresní knihovna v Chebu**<br> Obrněné brigády 18, 350 37 Cheb<br> 00074250<br> **Nabyvatel: Obec Cheb** |
+| **Okresní knihovna Sokolov**<br> Zámecká 1, 356 00 Sokolov<br> 0865949<br> **Nabyvatel: Obec Sokolov** |
+| **Středisko knihovnických a kulturních služeb okresu Chomutov**<br> Palackého 4995/85, 430 11 Chomutov<br> 00360589<br> **Nabyvatel: Obec Chomutov** |
+| **Okresní knihovna Karla Hynka Máchy <br> Litoměřice**<br> Mírové náměstí 26, 412 01 Litoměřice<br> 00360627<br> **Nabyvatel: Obec Litoměřice** |
+| **Okresní knihovna**<br> Husova 74, 513 01 Semily<br> 00085791<br> **Nabyvatel: Obec Semily** |
+| **Okresní knihovna v Hradci Králové**<br> Tomkova 177, 500 01 Hradec Králové<br> 00125491<br> **Nabyvatel: Obec Hradec Králové** |
+| **Knihovna Karla Dvořáčka**<br> Žižkova 1/3, 682 01 Vyškov<br> 00092398<br> **Nabyvatel: Obec Vyškov** |
+| **Okresní knihovna Brno-venkov**<br> Tyršova 161, 667 01 Židlochovice<br> 00089249<br> **Nabyvatel: Obec Židlochovice** |
+| **Knihovna Vincence Priessnitze**<br> Lipovská 296, 790 01 Jeseník<br> 64095401<br> **Nabyvatel: Obec Jeseník** |
+| **Okresní knihovna v Olomouci**<br> nám. Republiky 1, 771 66 Olomouc<br> 00096733<br> **Nabyvatel: Obec Olomouc** |
+| **Knihovna Kroměřížska**<br> Slovanské náměstí 3920, 767 01 Kroměříž<br> 00091120<br> **Nabyvatel: Obec Kroměříž** |
+| **Knihovna Bedřicha Beneše Buchlovana**<br> Velehradská 714, 686 01 Uherské Hradiště<br> 00092118<br> **Nabyvatel: Obec Uherské Hradiště** |
+| **Slovácké divadlo**<br> Tyršovo náměstí 480, 686 12 Uherské Hradiště<br> 00094846<br> **Nabyvatel: Obec Uherské Hradiště** |
+| **Centrum sociálních služeb**<br> Rudoleckého 23, 669 02 Znojmo<br> 45671770<br> **Nabyvatel: Obec Znojmo** |
+| **Domov-penzion pro důchodce**<br> U Lesíka 11, 669 02 Znojmo<br> 45671796<br> **Nabyvatel: Obec Znojmo** |
+| **Nemocnice**<br> Nemocniční 15, 466 01 Jablonec nad Nisou<br> 00829938<br> **Nabyvatel: Obec Jablonec nad Nisou** |
+| **Léčebna dlouhodobě nemocných**<br> Komenského 440, 512 51 Lomnice nad Popelkou<br> 00854875<br> **Nabyvatel: Obec Lomnice nad Popelkou** |
+| **Ústav chirurgie ruky a plastické chirurgie**<br> dr. Farského 3101, 512 11 Vysoké nad Jizerou<br> 00193011<br> **Nabyvatel: Obec Vysoké nad Jizerou** |
+| **Domov důchodců**<br> Pražská 273, 471 21 Mimoň<br> 48282901<br> **Nabyvatel: Město Mimoň** |
+
+### Příloha č. 2 k zákonu č. 290/2002 Sb.
+
+#### Seznam státních příspěvkových organizací, u nichž přechází funkce zřizovatele z okresních úřadů na Ministerstvo kultury
+
+| Název<br> Sídlo<br> IČ<br> Státní příspěvková organizace |
+|---|
+| **Muzeum skla a bižuterie**<br>U muzea 398/4, 466 01 Jablonec nad Nisou<br> 00079481 |
+| **Husitské muzeum**<br>Žižkovo náměstí 1, 390 01 Tábor<br> 00072486 |
+
+### Příloha č. 3 k zákonu č. 290/2002 Sb.
+
+#### Seznam státních příspěvkových organizací, u nichž přechází funkce z okresních úřadů na Ministerstvo zdravotnictví
+
+| **Psychiatrická léčebna v Kroměříži**<br>Havlíčkova 1265, 767 40 Kroměříž<br> 00567914 |
+|---|
+| **Psychiatrická léčebna Jihlava**<br>Brněnská 54, 586 24 Jihlava<br> 00600601 |
+| **Psychiatrická léčebna Bílá Voda**<br>760 69 Bílá Voda u Javorníka 1<br> 00851388 |
+| **Psychiatrická léčebna Červený Dvůr**<br>Červený Dvůr 1, 382 08 Chvalšiny<br> 00583600 |
+| **Dětská psychiatrická léčebna**<br>Čeňka Zemana 431, 440 01 Louny<br> 00831034 |
+| **Dětská psychiatrická léčebna**<br>U stadionu 285, 595 01 Velká Bíteš<br> 00842052 |
+| **Dětská psychiatrická léčebna**<br>756 45 Branky č. 202<br> 00851655 |
+
+---
+
+<sup>1</sup>) § 9 zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích.
+
+<sup>2</sup>) § 38 zákona č. 219/2000 Sb.
+
+<sup>3</sup>) § 249 odst. 1 zákoníku práce, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Čl. 1 ústavního zákona č. 347/1997 Sb., o vytvoření vyšších územních samosprávných celků a o změně ústavního zákona č. 1/1993 Sb., Ústava České republiky, ve znění zákona č. 176/2001 Sb.
+
+<sup>5</sup>) § 26 zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů.
+
+<sup>6</sup>) § 27 zákona č. 250/2000 Sb.
+
+<sup>7</sup>) Zákon č. 1/2005 Sb., kterým se mění zákon č. 243/2000 Sb., o rozpočtovém určení výnosů některých daní územním samosprávným celkům a některým státním fondům (zákon o rozpočtovém určení daní), ve znění pozdějších předpisů, a některé další zákony.
+
+<sup>7a</sup>) Zákon č. 485/2008 Sb., o přechodu Úrazové nemocnice v Brně a o změně zákona č. 290/2002 Sb., o přechodu některých dalších věcí, práv a závazků České republiky na kraje a obce, občanská sdružení působící v oblasti tělovýchovy a sportu a o souvisejících změnách a o změně zákona č. 157/2000 Sb., o přechodu některých věcí, práv a závazků z majetku České republiky, ve znění zákona č. 10/2001 Sb., a zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů, ve znění pozdějších předpisů.
+
+<sup>8</sup>) Zákon č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů.
+
+<sup>9</sup>) Zákon č. 122/2000 Sb., o ochraně sbírek muzejní povahy a o změně některých dalších zákonů.
+
+<sup>10</sup>) § 35 odst. 2 zákona č. 128/2000 Sb., o obcích (obecní zřízení).
+
+<sup>11</sup>) Zákon č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby, ve znění pozdějších předpisů.
+
+<sup>12</sup>) Část třetí zákona č. 219/2000 Sb., ve znění zákona č. 229/2001 Sb.
+
+<sup>13</sup>) § 5 zákona č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění zákona č. 89/1996 Sb. a zákona č. 120/2000 Sb.
+
+<sup>14</sup>) Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.
+
+<sup>15</sup>) § 103 odst. 1 zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění zákona č. 83/1998 Sb.
+
+<sup>16</sup>) § 7 zákona č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění zákona č. 90/1996 Sb.
+
+<sup>17</sup>) § 20 a 20a zákona č. 77/1997 Sb., o státním podniku, ve znění zákona č. 103/2001 Sb.
+
+<sup>18</sup>) § 17 odst. 1 písm. a) až d) zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění zákona č. 183/1993 Sb.
+
+<sup>19</sup>) § 28 zákona č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky.
+
+<sup>20</sup>) Zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.
+
+<sup>21</sup>) § 2 zákona č. 115/2001 Sb., o podpoře sportu.
+
+<sup>22</sup>) § 59 zákona č. 219/2000 Sb., ve znění zákona č. 229/2001 Sb.
+
+<sup>23</sup>) § 45 zákona č. 114/1988 Sb., o působnosti orgánů České republiky v sociálním zabezpečení, ve znění pozdějších předpisů.

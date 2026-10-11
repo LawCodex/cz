@@ -1,0 +1,111 @@
+---
+title: "Vyhláška Ministerstva dopravy a spojů č. 84/2000 Sb., o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby"
+identifier: "84/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/84/2002-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-03-27
+effective: 2000-04-19
+last_amended: 2002-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/84"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva dopravy a spojů č. 84/2000 Sb., o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby ve znění vyhlášky č. 467/2001 Sb."
+---
+
+# Vyhláška Ministerstva dopravy a spojů č. 84/2000 Sb., o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby
+
+84
+
+VYHLÁŠKA
+
+Ministerstva dopravy a spojů
+
+ze dne 27. března 2000
+
+o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby
+
+Ministerstvo dopravy a spojů podle § 52 zákona č. 114/1995 Sb., o vnitrozemské plavbě, ve znění zákona č. 358/1999 Sb., (dále jen „zákon“) k provedení § 33a zákona stanoví:
+
+## § 1
+
+(1) Odborná způsobilost k provozování vodní dopravy se prokazuje osvědčením o úspěšně vykonané zkoušce z předmětů uvedených v příloze složené před Státní plavební správou (dále jen „plavební správa“) a dokladem o vykonání pětileté praxe v oboru vodní dopravy uznaným plavební správou.
+
+(2) Praxí v oboru vodní dopravy se rozumí činnost v oblasti
+
+a) odborného řízení v provozu vnitrozemské vodní dopravy, nebo
+
+b) lodního provozu osoby, která získala průkaz způsobilosti vůdce plavidla,<sup>1</sup>) které není malým plavidlem.
+
+(3) Zkouška se skládá před nejméně tříčlennou zkušební komisí ustanovenou plavební správou. O zkoušce se vyhotoví protokol podepsaný členy komise. Podmínkou pro vykonání zkoušky je prokázání totožnosti žadatele.
+
+## § 2
+
+Tato vyhláška nabývá účinnosti patnáctým dnem následujícím po dni vyhlášení.
+
+Ministr:
+
+doc. Ing. Peltrám, CSc. v. r.
+
+### Příloha k vyhlášce č. 84/2000 Sb.
+
+#### Zkušební předměty pro získání odborné způsobilosti k provozování vodní dopravy a jejich náplň
+
+1\. Vnitrozemská vodní doprava
+
+a) opatření stanovená právními předpisy, týkající se provozu na vodních cestách a jeho bezpečnosti,
+
+b) předcházení plavebních nehod a opatření, která mají být podniknuta v případě nehody,
+
+c) opatření týkající se přepravy osob a věcí na vnitrozemských vodních cestách mimo území České republiky.
+
+2\. Základy závazkového a pracovního práva, jejichž znalosti jsou důležité pro provozování vnitrozemské vodní dopravy
+
+a) obchodně závazkové vztahy v dopravě,
+
+b) dopravní kontrakty, zvláště odpovědnost dopravce,
+
+c) obchodní společnosti,
+
+d) pracovněprávní předpisy a sociální zabezpečení.
+
+3\. Obchodní a finanční řízení podnikání
+
+a) obchodní smlouvy,
+
+b) kalkulace ceny nákladů,
+
+c) systém cen,
+
+d) účetnictví,
+
+e) pojištění, poplatky,
+
+f) celní řízení,
+
+g) obchod s devizovými prostředky,
+
+h) marketing.
+
+4\. Provozování vodní dopravy
+
+a) opatření vztahující se k započetí a provozování činnosti,
+
+b) systém nájmu (charter),
+
+c) dopravní dokumenty.
+
+5\. Technické standarty vodní dopravy
+
+a) technická charakteristika lodí,
+
+b) výběr lodí,
+
+c) doby nakládky/vykládky,
+
+d) užívání povrchových vod k plavbě.
+
+---
+
+<sup>1</sup>) Vyhláška č. 224/1995 Sb., o způsobilosti osob k vedení a obsluze plavidel.

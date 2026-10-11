@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 389/2002 Sb., o vydání zlatých mincí „Renesance - zámek v Litomyšli“ po 2 000 Kč"
+identifier: "389/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/389/2002-09-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2002-08-05
+effective: 2002-09-15
+last_amended: 2002-09-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/389"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 389/2002 Sb., o vydání zlatých mincí „Renesance - zámek v Litomyšli“ po 2 000 Kč
+
+389
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 5. srpna 2002
+
+o vydání zlatých mincí „Renesance – zámek v Litomyšli“ po 2 000 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Dnem 25. září 2002 se v rámci cyklu „Deset století architektury“ vydávají zlaté mince „Renesance – zámek v Litomyšli“ po 2 000 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince se razí ze zlata o ryzosti 999.9. Hmotnost mince je 6,22 g, její průměr 20 mm a síla 1,4 mm. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká. Při ražbě mince v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %.
+
+## § 2
+
+(1) Na lícní straně je v horní polovině mince volná kompozice stylizovaných heraldických zvířat z velkého státního znaku České republiky. Český lev je uprostřed mezi moravskou orlicí (vpravo) a slezskou orlicí (vlevo) a je umístěn výše než obě orlice. Pod kompozicí heraldických zvířat je název státu „ČESKÁ REPUBLIKA“. Název cyklu „DESET STOLETÍ ARCHITEKTURY“ je v neuzavřeném opisu při levém a pravém okraji mince. Pod názvem státu je v dolní polovině mince zobrazen motiv mořské panny z figurálního sgrafita z fasády litomyšlského zámku. Při spodním okraji mince pod tímto motivem je v neuzavřeném opisu označení nominální hodnoty mince se zkratkou peněžní jednotky „2000 Kč“. Značka mincovny, která minci razila, je umístěna v horní polovině mince pod českým lvem.
+
+(2) Na rubové straně je vyobrazen zámek v Litomyšli z nadhledu. Vpravo od zámku je při horním okraji mince umístěna zubří hlava s houžví v chřípí, znak rodu Pernštejnů. Při levém, horním a pravém okraji mince je neuzavřený opis „RENESANCE LITOMYŠL ZÁMEK“ a letopočet „2002“, označující ročník ražby. Letopočet odděluje od slova „ZÁMEK“ tečka. Při spodním okraji mince je zobrazen gryf na kamenné kouli ze sgrafita z fasády litomyšlského zámku. Gryf částečně překrývá vyobrazení zámku. Autorem návrhu mince je akademický sochař Jiří Věneček. Iniciály jeho jména tvořené spojenými písmeny „jv“ jsou umístěny při levém spodním okraji mince pod levým předním spárem gryfa.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 15. září 2002.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### ![sbcr2002c138z0389o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/818993/NAHLED/ZOBRAZ/sbcr2002c138z0389o001)
+
+### ![sbcr2002c138z0389o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/818995/NAHLED/ZOBRAZ/sbcr2002c138z0389o002)

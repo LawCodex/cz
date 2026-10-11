@@ -1,0 +1,46 @@
+---
+title: "Vyhláška Ministerstva dopravy a spojů č. 467/2001 Sb., kterou se mění vyhláška Ministerstva dopravy a spojů č. 84/2000 Sb., o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby"
+identifier: "467/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/467/2002-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2001-12-12
+effective: 2002-01-01
+last_amended: 2002-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/467"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva dopravy a spojů č. 467/2001 Sb., kterou se mění vyhláška Ministerstva dopravy a spojů č. 84/2000 Sb., o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby
+
+467
+
+VYHLÁŠKA
+
+Ministerstva dopravy a spojů
+
+ze dne 12. prosince 2001,
+
+kterou se mění vyhláška Ministerstva dopravy a spojů č. 84/2000 Sb., o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby
+
+Ministerstvo dopravy a spojů podle § 52 zákona č. 114/1995 Sb., o vnitrozemské plavbě, ve znění zákona č. 358/1999 Sb., (dále jen „zákon“) stanoví:
+
+## Čl. I
+
+Vyhláška č. 84/2000 Sb., o způsobilosti osob k provozování vnitrozemské vodní dopravy pro cizí potřeby, se mění takto:
+
+1\. V § 1 odst. 2 písm. a) se slova „koncesované živnosti“ zrušují.
+
+2\. V § 1 odst. 2 písm. b) se slovo „kapitána<sup>1</sup>)“ nahrazuje slovy „vůdce plavidla,<sup>1</sup>) které není malým plavidlem“.
+
+3\. V § 1 se odstavce 4 a 5 včetně poznámek pod čarou č. 2) a 3) zrušují.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2002.
+
+Ministr:
+
+Ing. Schling v. r.

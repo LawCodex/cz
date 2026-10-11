@@ -1,0 +1,48 @@
+---
+title: "Nařízení vlády České socialistické republiky č. 168/1989 Sb., kterým se mění nařízení vlády České socialistické republiky č. 34/1986 Sb., o jednorázovém mimořádném odškodňování osob za poškození na zdraví při plnění úkolů požární ochrany"
+identifier: "168/1989 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1989/168/1990-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1989-11-15
+effective: 1990-01-01
+last_amended: 1990-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1989/168"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády České socialistické republiky č. 168/1989 Sb., kterým se mění nařízení vlády České socialistické republiky č. 34/1986 Sb., o jednorázovém mimořádném odškodňování osob za poškození na zdraví při plnění úkolů požární ochrany
+
+168
+
+NAŘÍZENÍ VLÁDY
+
+České socialistické republiky
+
+ze dne 15. listopadu 1989,
+
+kterým se mění nařízení vlády České socialistické republiky č. 34/1986 Sb., o jednorázovém mimořádném odškodňování osob za poškození na zdraví při plnění úkolů požární ochrany
+
+Vláda České socialistické republiky nařizuje podle § 81 zákona České národní rady č. 133/1985 Sb., o požární ochraně:
+
+## Čl. I
+
+Ustanovení § 2 odst. 2 nařízení vlády České socialistické republiky č. 34/1986 Sb., o jednorázovém mimořádném odškodňování osob za poškození na zdraví při plnění úkolů požární ochrany, zní takto:
+
+> „(2) Jednorázové mimořádné odškodnění podle odstavce 1 se poskytuje
+
+> a) dítěti poškozeného ve výši 8000 Kčs,
+
+> b) manželu poškozeného ve výši 5000 Kčs,
+
+> c) rodičům poškozeného v úhrnné výši 5000 Kčs,
+
+> d) dalším osobám, které byly odkázány výživou na poškozeného, do úhrnné výše 5000 Kčs.“.
+
+## Čl. II
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1990.
+
+Pitra v. r.

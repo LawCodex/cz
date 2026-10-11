@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 64/1995 Sb., o vydání pamětních stříbrných dvousetkorun k 200. výročí narození Pavla Josefa Šafaříka"
+identifier: "64/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/64/1995-04-26"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1995-03-21
+effective: 1995-04-26
+last_amended: 1995-04-26
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/64"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 64/1995 Sb., o vydání pamětních stříbrných dvousetkorun k 200. výročí narození Pavla Josefa Šafaříka
+
+64
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 21. března 1995
+
+o vydání pamětních stříbrných dvousetkorun k 200. výročí narození Pavla Josefa Šafaříka
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K 200. výročí narození Pavla Josefa Šafaříka se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,25 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka nahoru i dolů v hmotnosti 0,13 g, v průměru 0,1 mm, v síle 0,15 mm a v obsahu stříbra 0,5 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je stylizovaný velký státní znak České republiky. Název státu „ČESKÁ REPUBLIKA“ je v neuzavřeném opisu nad státním znakem. Pod státním znakem je označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ a uprostřed pod ním letopočet ražby dvousetkoruny „1995“. Značka mincovny, která dvousetkorunu razila, je umístěna při spodním okraji mince vlevo od drápů slezské orlice ve státním znaku České republiky.
+
+(2) Na rubu dvousetkoruny je stylizovaný portrét Pavla Josefa Šafaříka. Nad portrétem je v neuzavřeném opisu jméno „PAVEL JOSEF ŠAFAŘÍK“ a pod portrétem rovněž v neuzavřeném opisu letopočty „1795-1995“. Autorem návrhu dvousetkoruny je magistr umění Petr Horák. Iniciály jeho jména „HP“ jsou umístěny v dolní části mince při pravé straně portrétu.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 26. dubna 1995.
+
+Guvernér:
+
+Ing. Tošovský v. r.
+
+### ![sbcr1995c013z0064o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/804991/NAHLED/ZOBRAZ/sbcr1995c013z0064o001)
+
+### ![sbcr1995c013z0064o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/804993/NAHLED/ZOBRAZ/sbcr1995c013z0064o002)

@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 4/1997 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí výroby prvního osobního automobilu ve střední Evropě Präsident"
+identifier: "4/1997 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1997/4/1997-03-05"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1996-12-13
+effective: 1997-03-05
+last_amended: 1997-03-05
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1997/4"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 4/1997 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí výroby prvního osobního automobilu ve střední Evropě Präsident
+
+4
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 13. prosince 1996
+
+o vydání pamětních stříbrných dvousetkorun ke 100. výročí výroby prvního osobního automobilu ve střední Evropě „Präsident“
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Ke 100. výročí výroby prvního osobního automobilu ve střední Evropě „Präsident“ se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,25 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je stylizovaný velký státní znak České republiky se čtvercovým štítem. Název státu „ČESKÁ REPUBLIKA“ je umístěn v jednom řádku pod státním znakem. Souběžně s pravou stranou druhého pole státního znaku je umístěna zkratka peněžní jednotky s označením nominální hodnoty mince „Kč 200“. Značka mincovny, která dvousetkorunu razila, je umístěna ve spodní části dvousetkoruny, vpravo od státního znaku.
+
+(2) Na rubu dvousetkoruny je vyobrazen osobní automobil „Präsident“ na pozadí čtvercové plochy. Pod spodním okrajem čtvercové plochy je ve dvou řádcích nápis „AUTOMOBIL PRÄSIDENT“. Letopočty „1897 - 1997“ jsou umístěny souběžně s levým okrajem čtvercové plochy nad přední částí automobilu. Autorem návrhu dvousetkoruny je akademický sochař Ladislav Kozák. Iniciály jeho jména „L • K“ jsou umístěny při pravém spodním okraji dvousetkoruny.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 5. března 1997.
+
+Guvernér:
+
+Ing. Tošovský v. r.
+
+### ![sbcr1997c001z0004o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/830741/NAHLED/ZOBRAZ/sbcr1997c001z0004o001)
+
+### ![sbcr1997c001z0004o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/830743/NAHLED/ZOBRAZ/sbcr1997c001z0004o002)

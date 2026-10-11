@@ -332,7 +332,7 @@ e) u koz 2 % z celkového stavu koz.
 
 (3) Bližší podrobnosti o kontrole užitkovosti prasat stanoví technická norma.<sup>10</sup>)
 
-### § 30 – **Kontrola užitkovosti koní**
+### § 30 – Kontrola užitkovosti koní
 
 (1) Kontrola užitkovosti se provádí
 
@@ -346,7 +346,7 @@ c) u sportovních koní<sup>11</sup>) chovatelů.
 
 (3) Kontrola užitkovosti se provádí u koní uvedených v odstavci 1 písm. a) při dostizích a u hřebců, klisen a sportovních koní uvedených v odstavci 1 písm. b) a c) zkouškou výkonnosti; bližší podrobnosti stanoví technická norma.<sup>12</sup>)
 
-### § 31 – **Kontrola užitkovosti ovcí**
+### § 31 – Kontrola užitkovosti ovcí
 
 (1) Kontrola užitkovosti se provádí zejména v šlechtitelských chovech socialistických organizací.
 

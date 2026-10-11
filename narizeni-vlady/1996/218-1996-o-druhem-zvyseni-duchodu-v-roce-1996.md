@@ -1,0 +1,67 @@
+---
+title: "Nařízení vlády č. 218/1996 Sb., o druhém zvýšení důchodů v roce 1996"
+identifier: "218/1996 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1996/218/1996-10-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1996-07-23
+effective: 1996-10-01
+last_amended: 1996-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1996/218"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 218/1996 Sb., o druhém zvýšení důchodů v roce 1996
+
+218
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 23. července 1996
+
+o druhém zvýšení důchodů v roce 1996
+
+Vláda nařizuje k provedení zákona č. 155/1995 Sb., o důchodovém pojištění, (dále jen „zákon“):
+
+## § 1
+
+Důchody starobní, plné invalidní, částečné invalidní, vdovské, vdovecké a sirotčí přiznané před 1. říjnem 1996 se zvyšují od splátky důchodu splatné po 30. září 1996 tak, že
+
+a) základní výměra důchodu se zvyšuje o 140 Kč měsíčně,
+
+b) procentní výměra důchodu se zvyšuje o 6 % procentní výměry důchodu, která náleží ke dni, od něhož se procentní výměra zvyšuje.
+
+## § 2
+
+(1) Základní výměry důchodů přiznávaných po 30. září 1996 uvedené v § 33 odst. 1, § 41 odst. 1, § 45 odst. 1, § 51 odst. 1 a § 53 odst. 1 zákona činí 1060 Kč měsíčně.
+
+(2) Procentní výměry důchodů přiznávaných od 1. října 1996 do 31. prosince 1996 se zvyšují ode dne přiznání o 6 % procentní výměry důchodu, která náleží ke dni přiznání důchodu po zvýšení podle § 2 odst. 2 nařízení vlády č. 19/1996 Sb., o zvýšení důchodů v roce 1996, a to před její úpravou podle § 46 nebo § 59 zákona.
+
+## § 3
+
+(1) Procentní výměry vdovských, vdoveckých a sirotčích důchodů se zvyšují, jen jestliže nebyly vyměřeny z procentních výměr důchodů zvýšených podle tohoto nařízení.
+
+(2) Je-li důchod náležející ke dni splátky důchodu v měsíci, do něhož spadá den, od něhož se důchody zvyšují, upraven pro souběh s jiným důchodem nebo s příjmem z výdělečné činnosti, upraví se při změně výše vypláceného důchodu, která souvisí s důvody úpravy důchodu, zvýšení procentní výměry důchodu podle § 1 písm. b) nebo § 2 odst. 2 podle té výše procentní výměry důchodu, která náleží ode dne této změny.
+
+## § 4
+
+Základní výměry důchodů přiznávaných po 30. září 1996, pokud se jejich výše stanoví s použitím předpisů platných před 1. lednem 1996, činí 1060 Kč měsíčně; v této částce je zahrnuto zvýšení důchodu o pevnou částku.<sup>1</sup>)
+
+## § 5
+
+Toto nařízení nabývá účinnosti dnem 1. října 1996.
+
+Předseda vlády:
+
+Prof. Ing. Klaus CSc. v. r.
+
+Ministr práce a sociálních věcí:
+
+Ing. Vodička v. r.
+
+---
+
+<sup>1</sup>) § 99 odst. 1 zákona. 
+ Zákon č. 76/1995 Sb., o zvýšení vyplácených důchodů a důchodů přiznávaných v roce 1995.

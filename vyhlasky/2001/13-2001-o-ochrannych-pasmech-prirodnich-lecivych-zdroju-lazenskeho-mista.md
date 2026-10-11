@@ -1,0 +1,158 @@
+---
+title: "Vyhláška Ministerstva zdravotnictví č. 13/2001 Sb., o ochranných pásmech přírodních léčivých zdrojů lázeňského místa Bludov"
+identifier: "13/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/13/2001-04-11"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-12-22
+effective: 2001-04-11
+last_amended: 2001-04-11
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/13"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva zdravotnictví č. 13/2001 Sb., o ochranných pásmech přírodních léčivých zdrojů lázeňského místa Bludov
+
+13
+
+VYHLÁŠKA
+
+Ministerstva zdravotnictví
+
+ze dne 22. prosince 2000
+
+o ochranných pásmech přírodních léčivých zdrojů lázeňského místa Bludov
+
+Ministerstvo zdravotnictví stanoví podle § 46 odst. 1 zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění zákona č. 548/1991 Sb.:
+
+## § 1 – Úvodní ustanovení
+
+(1) K ochraně přírodních léčivých zdrojů lázeňského místa Bludov se stanoví ochranná pásma 1. a 2. stupně.<sup>1</sup>)
+
+(2) Ochranné pásmo 1. stupně tvoří území, na kterém se nacházejí cesty výstupu přírodních léčivých zdrojů. Ochranné pásmo 2. stupně tvoří infiltrační oblast zřídelní struktury minerálních vod severně od bušínského zlomu, který v dané oblasti probíhá od jižního kraje Bohutína přes Chromeč k severnímu okraji Postřelmova. Je rozděleno v závislosti na geologických podmínkách na části A a B s rozdílným stupněm ochrany.
+
+(3) Situování ochranného pásma 1. stupně je graficky vyznačeno v kopii katastrální mapy, která je přílohou č. 1 této vyhlášky. Situování obou ochranných pásem je graficky vyznačeno na mapě v měřítku 1 : 50 000, která je přílohou č. 2 této vyhlášky.
+
+## § 2 – Ochranné pásmo 1. stupně
+
+(1) V ochranném pásmu 1. stupně<sup>2</sup>) nelze
+
+a) budovat nebo provozovat
+
+1\. jiné objekty než objekty potřebné pro provoz přírodních léčebných lázní nebo pro využití přírodních léčivých zdrojů,
+
+2\. skládky odpadů, skladování odpadů<sup>3</sup>) a strojených hnojiv,
+
+3\. parkoviště nezajištěná proti únikům ropných látek do terénu,
+
+4\. jakékoliv objekty, v nichž se manipuluje s ropou, ropnými produkty, toxickými nebo radioaktivními látkami;
+
+b) aplikovat tekutá čpavková hnojiva, kejdu skotu a prasat;
+
+c) vypouštět, vylévat nebo odkapávat do půdy nebo povrchových vod kapaliny, které by mohly negativně ovlivnit kvalitu přírodních léčivých zdrojů;<sup>4</sup>)
+
+d) používat chemické posypové materiály, které by mohly způsobit kontaminaci přírodních léčivých zdrojů;
+
+e) parkovat s motorovými vozidly mimo vyznačená parkoviště nebo uzavřené garáže.
+
+(2) V ochranném pásmu 1. stupně<sup>2</sup>) nelze
+
+a) provádět
+
+1\. vrty a trhací práce,
+
+2\. hornickou činnost nebo činnost prováděnou hornickým způsobem,<sup>5</sup>) které jsou spojeny se zásahem do pozemku,
+
+3\. jakoukoliv stavební činnost,
+
+4\. odběr vody přírodního léčivého zdroje nad hodnoty stanovené rozhodnutím o povolení využívání zdroje,
+
+5\. odběr prostých podzemních vod;
+
+b) aplikovat průmyslová a statková hnojiva a chemické přípravky na ochranu rostlin,
+
+pokud k těmto činnostem nevydal Český inspektorát lázní a zřídel (dále jen „Inspektorát“)<sup>6</sup>) kladný závazný posudek nebo nebyly splněny podmínky v tomto posudku stanovené.
+
+## § 3 – Ochranné pásmo 2. stupně
+
+(1) V ochranném pásmu 2. stupně<sup>7</sup>) části A nelze
+
+a) provádět
+
+1\. trhací práce velkého rozsahu,<sup>8</sup>)
+
+2\. těžbu fluviálních uloženin řeky Moravy, s výjimkou těžby povolené před účinností této vyhlášky,
+
+3\. hornickou činnost nebo činnost prováděnou hornickým způsobem,<sup>5</sup>) které jsou spojeny se zásahem do pozemku, s výjimkou průzkumu a jímání přírodních léčivých zdrojů,<sup>9</sup>)
+
+4\. těžbou surovin za pomoci chemických technologií;
+
+b) budovat a provozovat skládky a skladování všech odpadů<sup>3</sup>) a strojených hnojiv.
+
+(2) V ochranném pásmu 2. stupně<sup>7</sup>) části A dále nelze
+
+a) provádět hydrotechnické úpravy povrchových toků a rybníků;
+
+b) využívat fluviálních náplavů řeky Moravy k jímání podzemních vod<sup>10</sup>) se snížením hladiny větším než 5 m nebo v množství vyšším než 2 l/s pro jednotlivého využivatele,
+
+pokud k těmto činnostem nevydal Inspektorát<sup>6</sup>) kladný závazný posudek nebo pokud nebyly splněny podmínky v tomto posudku stanovené.
+
+(3) V ochranném pásmu 2. stupně<sup>7</sup>) části B nelze provádět trhací práce velkého rozsahu<sup>8</sup>) a těžbu surovin za použití chemických technologií.
+
+(4) V ochranném pásmu 2. stupně<sup>7</sup>) části B dále nelze provádět
+
+a) hydrotechnické úpravy povrchových toků a rybníků;
+
+b) hornickou činnost a činnost prováděnou hornickým způsobem,<sup>5</sup>) které jsou spojeny se zásahem do pozemku;
+
+c) vrtné práce do hornin skalního podloží a odběr podzemní vody<sup>10</sup>) z těchto hornin,
+
+pokud k těmto činnostem nevydal Inspektorát<sup>6</sup>) kladný závazný posudek nebo nebyly splněny podmínky v tomto posudku stanovené.
+
+## § 4
+
+Objekty a činnosti dosud provozované na území, které tvoří ochranné pásmo 1. stupně a ochranné pásmo 2. stupně, je třeba uvést do souladu s ustanoveními § 2 odst. 1 písm. a) bodů 2, 3, 4 a § 3 odst. 1 písm. b) nejpozději do dvou let od nabytí účinnosti této vyhlášky.
+
+## § 5
+
+Tato vyhláška nabývá účinnosti uplynutím tří měsíců ode dne jejího vyhlášení.
+
+Ministr:
+
+prof. MUDr. Fišer, CSc. v. r.
+
+### Příloha č. 1 k vyhlášce č. 13/2001 Sb.
+
+#### ![sbcr2001c003z0013p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790759/NAHLED/ZOBRAZ/sbcr2001c003z0013p001o001)
+
+### Příloha č. 2 k vyhlášce č. 13/2001 Sb.
+
+#### ![sbcr2001c003z0013p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790761/NAHLED/ZOBRAZ/sbcr2001c003z0013p002o001)
+
+---
+
+<sup>1</sup>) § 23 a 24 vyhlášky č. 26/1972 Sb., o ochraně a rozvoji přírodních léčebných lázní a přírodních léčivých zdrojů.
+
+<sup>2</sup>) § 48 zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů. 
+ § 24 odst. 2 vyhlášky č. 26/1972 Sb.
+
+<sup>3</sup>) Zákon č. 125/1997 Sb., o odpadech, ve znění pozdějších předpisů.
+
+<sup>4</sup>) § 1 vyhlášky č. 6/1977 Sb., o ochraně jakosti povrchových a podzemních vod.
+
+<sup>5</sup>) § 2 a 3 zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a státní báňské správě.
+
+<sup>6</sup>) § 72 odst. 1 písm. c) zákona č. 20/1966 Sb., ve znění zákona č. 548/1991 Sb. 
+ § 30 odst. 2 vyhlášky č. 26/1972 Sb.
+
+<sup>7</sup>) § 48 zákona č. 20/1966 Sb., ve znění pozdějších předpisů. 
+ § 24 odst. 3 vyhlášky č. 26/1972 Sb.
+
+<sup>8</sup>) § 34 vyhlášky č. 72/1988 Sb., o výbušninách.
+
+<sup>9</sup>) § 47 a § 50 odst. 3 zákona č. 20/1966 Sb., ve znění pozdějších předpisů. 
+ Vyhláška č. 26/1972 Sb.
+
+<sup>10</sup>) § 2 odst. 1 zákona č. 138/1973 Sb., o vodách (vodní zákon), ve znění zákona č. 425/1990 Sb., zákona č. 114/1995 Sb., zákona č. 14/1998 Sb. a zákona č. 58/1998 Sb.

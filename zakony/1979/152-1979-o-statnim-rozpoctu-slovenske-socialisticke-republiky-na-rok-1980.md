@@ -86,7 +86,7 @@ Colotka v. r.
 
 ### Příloha č. 2 k zákonu SNR č. 152/1979 Sb.
 
-#### **Souhrnný finanční vztah (dotace)** **a účelové subvence národním výborům ze státního rozpočtu** **Slovenské socialistické republiky na rok 1980**
+#### Souhrnný finanční vztah (dotace) a účelové subvence národním výborům ze státního rozpočtu Slovenské socialistické republiky na rok 1980
 
 | Kraj | Dotace<br> (v tis. Kčs) | Účelové<br> subvence<br> (v tis. Kčs) |
 |---|---|---|

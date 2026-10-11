@@ -1,0 +1,102 @@
+---
+title: "Vyhláška č. 513/2002 Sb., kterou se stanoví ochranná pásma zdroje přírodní minerální vody v Byňově a vymezují se konkrétní ochranná opatření (vyhláška o ochranných pásmech zdroje přírodní minerální vody v Byňově)"
+identifier: "513/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/513/2003-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2002-11-26
+effective: 2003-01-01
+last_amended: 2003-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/513"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 513/2002 Sb., kterou se stanoví ochranná pásma zdroje přírodní minerální vody v Byňově a vymezují se konkrétní ochranná opatření (vyhláška o ochranných pásmech zdroje přírodní minerální vody v Byňově)
+
+513
+
+VYHLÁŠKA
+
+ze dne 26. listopadu 2002,
+
+kterou se stanoví ochranná pásma zdroje přírodní minerální vody v Byňově a vymezují se konkrétní ochranná opatření (vyhláška o ochranných pásmech zdroje přírodní minerální vody v Byňově)
+
+Ministerstvo zdravotnictví stanoví podle § 46 odst. 3 písm. b) zákona č. 164/2001 Sb., o přírodních léčivých zdrojích, zdrojích přírodních minerálních vod, přírodních léčebných lázních a lázeňských místech a o změně některých souvisejících zákonů (lázeňský zákon), (dále jen „zákon“):
+
+**Vymezení ochranných pásem a stanovení konkrétních ochranných opatření**
+
+## § 1
+
+(K § 21 odst. 1 zákona)
+
+(1) K ochraně zdroje přírodní minerální vody, který je jímán vrtem HV-5 nacházejícím se na pozemkové parcele č. 1353/2, katastrální území Byňov, okres České Budějovice, kraj Jihočeský (dále jen „zdroj“),<sup>1</sup>) se stanoví ochranná pásma I. a II. stupně.
+
+(2) Ochranné pásmo I. stupně tvoří bezprostřední okolí výstupu zdroje. Je situováno na pozemkové parcele č. 1353/2, katastrální území Byňov, a je vymezeno kruhem o poloměru 10 m se středem ve vrtu HV-5.
+
+(3) Ochranné pásmo II. stupně se stanoví k ochraně části infiltračního území zřídelní struktury zdroje (§ 23 odst. 1 zákona). Je vymezeno plochou hydrologického povodí Stropnice mezi profilem pod mostkem přes Stropnici u obce Byňov nad levostranným přítokem od rybníka Pytlák (horní profil) a profilem pod mostkem přes Stropnici u osady Terezín (obec Petříkov) a plochou dolní části povodí Nakolického potoka pod Nakolickým rybníkem. Toto vymezení je graficky vyznačeno v Základní mapě České republiky v měřítku 1 : 50 000,<sup>2</sup>) která je přílohou této vyhlášky.
+
+## § 2
+
+(K § 22 odst. 2 a § 23 odst. 3 zákona)
+
+(1) Ochranné pásmo I. stupně tvoří pásmo fyzické ochrany zdroje.
+
+(2) V ochranném pásmu II. stupně je zakázáno:
+
+a) provozovat skládky nebezpečných odpadů,<sup>3</sup>)
+
+b) těžit nerosty a rašelinu,<sup>4</sup>)
+
+c) provádět hornickou činnost a činnost prováděnou hornickým způsobem, pokud je spojena se zásahem do pozemku,<sup>5</sup>) s výjimkou činností spojených s ochranou, využitím a dalším rozvojem zdroje,
+
+d) zacházet se závadnými látkami ve větším rozsahu,<sup>6</sup>)
+
+e) vypouštět odpadní vody do vod podzemních,<sup>6</sup>)
+
+f) zřizovat kafilerie, jatky, spalovny odpadů,
+
+g) budovat produktovody nebezpečných závadných látek.<sup>6</sup>)
+
+(3) Činnosti uvedené v odstavci 2, pokud jsou v ochranném pásmu II. stupně prováděny, budou ukončeny do 1 roku od nabytí účinnosti této vyhlášky.
+
+## § 3
+
+(K § 24 odst. 2 zákona)
+
+Ochranné pásmo I. stupně se oplotí a označí tabulkou s nápisem „Pásmo fyzické ochrany zdroje přírodní minerální vody. Nepovolaným vstup zakázán“.
+
+**Závěrečná ustanovení**
+
+## § 4
+
+Vymezení ochranného pásma II. stupně zdroje v Základní mapě České republiky v měřítku 1 : 10 000 je k nahlédnutí na Ministerstvu zdravotnictví a na Městském úřadě Nové Hrady.
+
+## § 5
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2003.
+
+Ministryně:
+
+MUDr. Součková v. r.
+
+### Příloha k vyhlášce č. 513/2002 Sb.
+
+1 : 50 000 (zmenšeno)
+
+#### ![sbcr2002c178z0513p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/820905/NAHLED/ZOBRAZ/sbcr2002c178z0513p001o001)
+
+---
+
+<sup>1</sup>) Osvědčení o zdroji přírodní minerální vody v Byňově – rozhodnutí Ministerstva zdravotnictví ze dne 25. 9. 2002 čj. ČIL-23. 9. 2002/26418-J.
+
+<sup>2</sup>) § 2 odst. 1 písm. c) nařízení vlády č. 116/1995 Sb., kterým se stanoví geodetické referenční systémy, státní mapová díla závazná na celém území státu a zásady jejich používání.
+
+<sup>3</sup>) Zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Zákon č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění pozdějších předpisů.
+
+<sup>5</sup>) Zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů.
+
+<sup>6</sup>) Zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 76/2002 Sb. a zákona č. 320/2002 Sb.

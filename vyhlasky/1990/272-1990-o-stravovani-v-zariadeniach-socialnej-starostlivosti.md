@@ -1,0 +1,246 @@
+---
+title: "Vyhláška Ministerstva zdravotníctva a sociálnych vecí Slovenskej republiky č. 272/1990 Sb., o stravovaní v zariadeniach sociálnej starostlivosti"
+identifier: "272/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/272/1991-11-12"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1990-06-21
+effective: 1990-07-01
+last_amended: 1991-11-12
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/272"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva zdravotníctva a sociálnych vecí Slovenskej republiky č. 272/1990 Sb., o stravovaní v zariadeniach sociálnej starostlivosti ve znění vyhlášky č. 354/1990 Sb. a vyhlášky č. 443/1991 Sb."
+---
+
+# Vyhláška Ministerstva zdravotníctva a sociálnych vecí Slovenskej republiky č. 272/1990 Sb., o stravovaní v zariadeniach sociálnej starostlivosti
+
+272
+
+VYHLÁŠKA
+
+Ministerstva zdravotníctva a sociálnych vecí Slovenskej republiky
+
+z 21. júna 1990
+
+o stravovaní v zariadeniach sociálnej starostlivosti
+
+Ministerstvo zdravotníctva a sociálnych vecí Slovenskej republiky po dohode so zúčastnenými ústrednými orgánmi podľa § 58 písm. f) a h) zákona Slovenskej národnej rady č. 106/1988 Zb. o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení zákona Slovenskej národnej rady č. 131/1990 Zb. ustanovuje:
+
+## PRVÁ ČASŤ – VŠEOBECNÉ USTANOVENIA
+
+### § 1 – Predmet úpravy
+
+Táto vyhláška upravuje podmienky stravovania v zariadeniach sociálnej starostlivosti<sup>1</sup>) (ďalej len „zariadenie“), spoločného stravovania starých občanov a ťažko zdravotne postihnutých občanov zabezpečované z týchto zariadení<sup>2</sup>) stravovania príjemcov niektorých ďalších služieb sociálnej starostlivosti<sup>2a</sup>) (ďalej len „stravovanie“) a určuje výšku úhrady za poskytovanú stravu.
+
+### § 2 – Stravníci
+
+(1) Stravovanie sa poskytuje
+
+a) zverencom a obyvateľom ústavov sociálnej starostlivosti (ďalej len „ústav“),2c)
+
+b) starým občanom,
+
+c) ťažko zdravotne postihnutým občanom,
+
+d) deťom umiestneným v stanici opatrovateľskej služby pre deti,
+
+e) účastníkom výchovno-rekreačných a letných rekreačno-výchovných táborov a sociálno-zdravotných a iných kurzov,
+
+f) občanom vykonávajúcim civilnú službu,<sup>2b</sup>)
+
+g) dobrovoľným pracovníkom opatrovateľskej služby,
+
+h) pracovníkom zariadení podľa osobitného predpisu.<sup>3</sup>)
+
+(2) Stravovanie možno poskytovať so súhlasom vedúceho zariadenia aj ďalším občanom, ak to umožňujú prevádzkové podmienky zariadenia, nebránia tomu hygienicko-epidemiologické a bezpečnostné dôvody, a nezhorší sa tým úroveň stravovania stravníkov uvedených v odseku 1.
+
+### § 3
+
+(1) Celodenným stravovaním sa rozumejú raňajky, obed, večera a dve vedľajšie jedlá, pri diéte diabetickej, bielkovinovej a výživnej tri vedľajšie jedlá.
+
+(2) Diétnu stravu možno poskytovať na základe odporúčania príslušného lekára; stravníkom uvedeným v § 2 ods. 1 písm. h) a v odseku 2 možno diétnu stravu poskytovať za predpokladu, že sa príslušný druh diéty v zariadení pravidelne pripravuje.
+
+### § 4 – Poskytovanie stravy
+
+(1) Strava sa poskytuje v súlade so zásadami správnej výživy, s prihliadnutím na vek a zdravotný stav stravníkov a podľa určených stravných jednotiek. Stravovanie sa zabezpečuje prípravou stravy vo vlastnej stravovacej prevádzke zariadenia, odberom stravy z iného zariadenia, prípadné odberom stravy z iných organizácií.
+
+(2) Odber stravy z ústavov sociálnej starostlivosti,<sup>2c</sup>) zo zariadení opatrovateľskej služby na dlhodobý pobyt starých občanov,<sup>4</sup>) zo samostatných jedální s vlastnou kuchyňou pre dôchodcov<sup>5</sup>) a zo staníc opatrovateľskej služby<sup>6</sup>) do iného zariadenia, prípadne do domácností stravníkov uvedených v § 2 ods. 1 písm. b) a c) možno dohodnúť len za predpokladu dostatočnej kapacity a vybavenosti stravovacích prevádzok týchto zariadení; pritom sa nesmie zhoršiť úroveň stravovania stravníkov uvedených v § 2 ods. 1 písm. a) až d) umiestnených v týchto zariadeniach.
+
+(3) Odber stravy z iných organizácií do zariadení sa musí dohodnúť písomne; v dohode sa upravia najmä konkrétne podmienky odberu stravy a výška úhrady za ňu.
+
+(4) Spôsob prihlasovania a odhlasovania stravy určí vedúci zariadenia.
+
+### § 5 – Stravné jednotky
+
+(1) Stravnou jednotkou v zariadení s celodenným stravovaním sa rozumie finančná norma priemerných nákladov na potraviny (na suroviny) pripadajúca na jeden ubytovací deň; v zariadení, v ktorom sa neposkytuje celodenné stravovanie, sa stravnou jednotkou rozumie denná finančná norma priemerných nákladov na potraviny (na suroviny) pripadajúca na jedno hlavné jedlo (raňajky, obed, večeru), prípadne jedno vedľajšie jedlo.
+
+(2) Obstarávacou cenou surovín sa rozumejú náklady na potraviny (suroviny) spotrebované na prípravu jedál, včítane strát, ktoré vznikli prirodzeným úbytkom surovín (ďalej len „obstarávacia cena surovín“).
+
+### § 6 – Náklady na stravovanie
+
+Dodržiavanie finančných noriem priemerných nákladov na potraviny zariadenie sleduje najmenej raz mesačne tak, že hodnota skutočne spotrebovaných potravín sa porovnáva s nákladmi vypočítanými vynásobením skutočného počtu stravníkov za sledované obdobie príšlušnou stravnou jednotkou. Prípadné rozdiely sa musia vyrovnať k 31. decembru kalendárneho roka.
+
+## DRUHÁ ČASŤ – STRAVOVANIE V JEDNOTLIVÝCH DRUHOCH ZARIADENÍ
+
+### PRVÝ DIEL – STRAVOVANIE V ÚSTAVOCH
+
+#### § 7
+
+V ústavoch, s výminkou domovov-penziónov pre dôchodcov, sa poskytuje celodenné stravovanie ako súčasť komplexnej starostlivosti podľa určených stravných jednotiek; v ústavoch (samostatných oddeleniach) na denný pobyt sa poskytuje obed a dve vedľajšie jedlá.
+
+#### § 8 – Stravné jednotky
+
+(1) Stravné jednotky pre zverencov sú:
+
+a) v ústavoch pre telesne postihnutú mládež, v ústavoch pre telesne postihnutú mládež s pridruženým mentálnym postihnutím, v ústavoch pre zmyslovo postihnutú mládež, v ústavoch pre telesne postihnutú mládež s viacerými chybami, v ústavoch pre mentálne postihnutú mládež a v ústavoch (samostatných oddeleniach) na týždenný pobyt telesne postihnutej mládeže, telesne postihnutej mládeže s pridruženým mentálnym postihnutím, zmyslovo postihnutej mládeže, telesne postihnutej mládeže s viacerými chybami alebo mentálne postihnutej mládeže
+
+<table><tbody><tr><td rowspan="3">vo veku</td><td>od 3 do 6 rokov</td><td>24,30 Kčs,</td></tr><tr><td>od 6 do 12 rokov</td><td>29,50 Kčs,</td></tr><tr><td>od 12 rokov</td><td>33,00 Kčs;</td></tr></tbody></table>
+
+uvedené stravné jednotky sa zvyšujú o 5 Kčs na osobu a deň pre všetky vekové skupiny zverencov, ktorým sa poskytuje diétna strava s výnimkou diabetickej diéty, pri poskytovaní ktorej sa uvedené stravné jednotky zvyšujú o 10 Kčs na osobu a deň,
+
+b) v ústavoch (samostatných oddeleniach) na denný pobyt telesne postihnutej mládeže, telesne postihnutím mládeže s pridruženým mentálnym postihnutej, zmyslovo postihnutej mládeže, telesne postihnutej mládeže s viacerými chybami, mentálne postihnutej mládeže a pre mládež dochádzajúcu do ústavov pre telesne postihnutú mládež
+
+<table><tbody><tr><td rowspan="3">vo veku</td><td>od 3 do 6 rokov</td><td>13,30 Kčs,</td></tr><tr><td>od 6 do 12 rokov</td><td>16,30Kčs,</td></tr><tr><td>od 12 rokov</td><td>18,10 Kčs;</td></tr></tbody></table>
+
+uvedené stravné jednotky sa zvyšujú o 3 Kčs na osobu a deň pre všetky vekové skupiny zverencov, ktorým sa poskytuje diétna strava s výnimkou diabetickej diéty, pri poskytovaní ktorej sa uvedené stravné jednotky zvyšujú o 6 Kčs na osobu a deň.
+
+(2) Stravné jednotky pre obyvateľov v ostatných ústavoch sú:
+
+a) v domovoch dôchodcov v ostatných ústavoch pre dospelých občanov včítane ústavov na týždenný pobyt
+
+| 1. strava normálna - racionálna | 33,00 Kčs, |
+|---|---|
+| 2. strava diétna <br> (napr. šetriaca, neslaná, redukčná) | 35,00 Kčs, |
+| 3. strava diabetická, bielkovinová a výživná | 43,00 Kčs, |
+
+b) v ústavoch (samostatných oddeleniach) na denný pobyt dospelých občanov
+
+| 1. strava normálna - racionálna | 18,10 Kčs, |
+|---|---|
+| 2. strava diétna <br> (napr. šetriaca, neslaná, redukčná) | 19,30 Kčs, |
+| 3. strava diabetická, bielkovinová a výživná | 21,50 Kčs. |
+
+(3) Ak ústav výnimočne zabezpečuje stravovanie obyvateľov a zverencov odberom stravy z iných organizácií (§ 4 ods. 3), obec alebo príslušný orgán sociálneho zabezpečenia, ktorý ústav spravuje, určí na návrh tohto ústavu stravné jednotky odchylne.
+
+(4) Ak je v ústave výnimočne umiestnený obyvateľ alebo zverenec, ktorý s ohľadom na vek patrí do iného druhu ústavu, poskytuje sa mu strava vo výške stravnej jednotky platnej v ústave, v ktorom by mal byť umiestnený.
+
+(5) U obyvateľov a zverencov ústavov sa zvyšujú náklady na potraviny o 100 Kčs na osobu za kalendárny rok na prilepšenie stravy počas sviatkov.
+
+(6) Pri stravovaní v zotavovacích táboroch, pri rekreačných pobytoch, zájazdoch a pri športových hrách zverencov a obyvateľov ústavov môže obec alebo príslušný orgán sociálneho zabezpečenia, ktorý ústav spravuje, určiť stravnú jednotku až do výšky 52 Kčs; túto sumu môže zvýšiť o ďalších 20 Kčs pri odbere stravy z iných organizácií.
+
+(7) Stravná jednotka pri zvýšení alebo znížení indexu cien potravín vykazovaného Slovenským štatistickým úradom o viac než 10 % sa zvýši alebo zníži tiež o 10 %.
+
+#### § 9 – Úhrady za stravu
+
+(1) Obyvatelia a zverenci ústavov uhrádzajú náklady za stravu v úhradách za pobyt v ústave podľa osobitných predpisov.<sup>9</sup>)
+
+(2) Starí občania, ťažko zdravotne postihnutí občania a dobrovolní pracovníci opatrovateľskej služby, ktorým sa stravovanie zabezpečuje z ústavu, uhrádzajú za stravu sumy zodpovedajúce obstarávacej cene surovín, zvýšené o vecné a osobné náklady súvisiace s prípravou stravy (ďalej len „réžia“) vo výške 35 % obstarávacej ceny surovín; réžia sa zaokrúhľuje na desaťhaliere.
+
+(3) Pracovníci zariadení uhrádzajú stravu podľa osobitného predpisu.<sup>3</sup>)
+
+(4) Stravníci uvedení v § 2 ods. 2 uhrádzajú za stravu sumy určené podľa odseku 2; túto úhradu možno zvýšiť o prirážku až do výšky 20 % obstarávacej ceny surovín.
+
+(5) V zotavovacích táboroch, pri rekreačných pobytoch, zájazdoch a pri športových hrách zverencov a obyvateľov ústavov sa doprevádzajúcim pracovníkom poskytuje stravovanie bezplatne, a to v rovnakej hodnote ako účastníkom zotavovacích táborov, rekreačných pobytov, zájazdov a športových hier zverencov a obyvateľov, ak sa im neposkytuje za príslušný deň stravné podľa predpisov o náhradách cestovných výdavkov.<sup>10</sup>)
+
+(6) Pri celodennom stravovaní sa zo stravnej jednotky počíta
+
+<table><tbody><tr><td rowspan="5">a)</td><td colspan="3">pri strave normálnej - racionálnej </td></tr><tr><td>na raňajky</td><td>15 %</td><td>5,00 Kčs,</td></tr><tr><td>na obed</td><td>35 %</td><td>11,50 Kčs,</td></tr><tr><td>na večeru</td><td>30 %</td><td>9,90 Kčs,</td></tr><tr><td>na jedno vedľajšie jedlo</td><td>10 %</td><td>3,30 Kčs, </td></tr><tr><td rowspan="5">b)</td><td colspan="3">pri strave diétnej (napr. šetriacej, neslanej, redukčnej) </td></tr><tr><td>na raňajky</td><td>15%</td><td>5,20 Kčs,</td></tr><tr><td>na obed</td><td>35 %</td><td>12,30 Kčs,</td></tr><tr><td>na večeru</td><td>30 %</td><td>10,50 Kčs,</td></tr><tr><td>na jedno vedlajšie jedlo</td><td>10 %</td><td>3,50 Kčs, </td></tr><tr><td rowspan="5">c)</td><td colspan="3">pri diéte diabetickej, bielkovinovej a výživnej </td></tr><tr><td>na raňajky</td><td>14 %</td><td>6,00 Kčs,</td></tr><tr><td>na obed</td><td>32 %</td><td>13,70 Kčs,</td></tr><tr><td>na večeru</td><td>27 %</td><td>11,60 Kčs,</td></tr><tr><td>na jedno vedlajšie jedlo</td><td>9 %</td><td>3,90 Kčs.</td></tr></tbody></table>
+
+### TRETÍ DIEL – STRAVOVANIE V DOMOVOCH PENZIÓNOCH PRE DÔCHODCOV, V ZARIADENIACH OPATROVATEĽSKEJ SLUŽBY NA DLHODDOBY POBYT STARÝCH OBČANOV, V SAMOSTATNÝCH JEDÁLŇACH S VLASTNOU KUCHYŇOU PRE DÔCHODCOV V ZARIADENIACH NA DENNÝ POBYT, V STANICIACH OPATROVATEĽSKEJ SLUŽBY PRE STARÝCH OBČANOV A V STANICIACH OPATROVATEĽSKEJ SLUŽBY PRE DETI
+
+#### § 15
+
+(1) Stravovanie v domovoch-penziónoch pre dôchodcov (ďalej len „penzion“) je ďalšou službou poskytovanou podľa prevadzkovych podmienok tohto ústavu a požiadaviek obyvateľov. Obyvateľom penzionu možno poskytnuť celodenné stravovanie alebo jednotlive hlavne alebo vedľajšie jedla.
+
+(2) Pre stravovanie v zariadeniach opatrovateľskej služby na dlhodobý pobyt starých občanov (ďalej len „zariadenie na dlohodobý pobyt“) platí ustanovenie odseku 1.
+
+(3) V samostatných jedálňach s vlastnou kuchyňou pre dôchodcov (ďalej len „jedáleň“) sa poskytuje obed.
+
+(4) V zariadeniach na denný pobyt sa poskytuje obed, prípadne aj dve vedľajšie jedlá.
+
+(5) V staniciach opatrovateľskej služby pre starých občanov (ďalej len „stanica pre starých občanov“) a v staniciach opatrovateľskej služby pre deti (ďalej len „stanica pre deti“) sa poskytuje celodenné stravovanie.
+
+#### § 16 – Stravné jednotky
+
+(1) Stravné jednotky pre obyvateľov penziónu a zariadenia na dlhodobý pobyt určí príslušný orgán sociálneho zabezpečenia, ktorý penzión a zariadenie na dlhodobý pobyt spravuje, po dohode s obyvateľmi; pritom možno vychádzať zo stravných jednotiek určených pre obyvateľov ústavov [§ 8 ods. 2 písm. a)].
+
+(2) Stravné jednotky pre dôchodcov stravujúcich sa v jedálni pre starých občanov a ťažko zdravotne postihnutých občanov umiestnených v zariadení na denný pobyt a v stanici pre starých občanov, a pre deti umiestnené v stanici pre deti určí obec alebo príslušný orgán sociálneho zabezpečenia, ktorý tieto zariadenia spravuje; pritom možno vychádzať, ak ide o jedáleň, z 35 % hodnoty stravnej jednotky určenej pre obyvateľov ústavov [§ 8 ods. 2 písm. a)], ak ide o zariadenie na denný pobyt, z 35 % hodnoty stravnej jednotky určenej pre obyvateľov ústavov [§ 8 ods. 2 písm. a)] alebo z 55 % hodnoty stravnej jednotky určenej pre obyvateľov ústavov [§ 8 ods. 2 písm. a)] v prípade poskytovania obedu a dvoch vedľajších jedál, ak ide o stanicu pre starých občanov, zo stravnej jednotky určenej pre obyvateľov ústavov [§ 8 ods. 2 písm. a)], a ak ide o stanicu pre deti, zo stravnej jednotky určenej pre zverencov ústavov [§ 8 ods. 1 písm. a)].
+
+#### § 17 – Úhrady za stravu
+
+(1) Obyvatelia penziónov, zariadení na dlhodobý pobyt, občania stravujúci sa v jedálňach, starí občania a ťažko zdravotne postihnutí občania umiestnení v zariadení na denný pobyt, v stanici pre starých občanov, starí občania a ťažko zdravotne postihnutí občania, ktorým sa stravovanie zabezpečuje z penziónu, zo zariadenia na dlhodobý pobyt, z jedálne, zo zariadenia na denný pobyt alebo zo stanice pre starých občanov, ako aj dobrovolní pracovníci opatrovateľskej služby, uhrádzajú za stravu sumy určené podľa § 9 ods. 2 a 6.
+
+(2) Rodičia detí umiestnených v stanici pre deti (iné osoby zodpovedné za ich výchovu) uhrádzajú za stravu sumy zodpovedajúce obstarávacej cene surovín. Celkovú úhradu za starostlivosť v stanici pre deti ustanovujú osobitné predpisy.<sup>1</sup><sup>4</sup>)
+
+(3) Stravníci uvedení v § 2 ods. 2 uhrádzajú za stravu poskytovanú v penzióne, v zariadení na dlhodobý pobyt, v jedálni, v zariadení na denný pobyt, v stanici pre starých občanov alebo v stanici pre deti sumu určenú podľa § 9 ods. 2 a 6; túto úhradu možno zvýšiť o prirážku až do výšky 20 % obstarávacej ceny surovín.
+
+### ŠTVRTÝ DIEL – STRAVOVANIE VO VÝCHOVNO-REKREAČNÝCH A V LETNÝCH REKREAČNO-VÝCHOVNÝCH TÁBOROCH A V SOCIÁLNO-ZDRAVOTNÝCH A INÝCH KURZOCH
+
+#### § 17a – Stravné jednotky
+
+Stravné jednotky pre účastníkov výchovno-rekreačných a letných rekreačno-výchovných táborov a sociálno-zdravotných a iných kurzov (ďalej len „kurz“) určí příslušný orgán sociálneho zabezpečenia, ktorý kurz usporadúva (ďalej len „usporiadateľ“) pri celodennom stravovaní až do výšky 52 Kčs; ak usporiadateľ zabezpečuje stravu odberom z iných organizácií alebo v iných organizáciách, môže usporiadateľ zvýšiť túto sumu o ďalších 20 Kčs.
+
+#### § 17b – Úhrady za stravu
+
+(1) Účastníkom kurzov sa poskytuje stravovanie bezplatne.
+
+(2) Pracovníkom usporiadateľa sa poskytuje stravovanie podľa § 9 ods. 5. Ak sa pracovníkom usporiadateľa neposkytuje strava bezplatne, uhrádzajú za stravu sumy uvedené v § 9 ods. 2 a 6.
+
+## TRETIA ČASŤ – SPOLOČNÉ A ZÁVEREČNÉ USTANOVENIA
+
+### § 18
+
+(1) Ak je stravovanie zabezpečené odberom stravy z iných organizácií (§ 4 ods. 3), stravníci uhrádzajú za stravu sumy dohodnuté zariadením a organizáciou.
+
+(2) Od stravníkov uvedených v § 2 ods. 1 sa úhrada za dopravu stravy nepožaduje.
+
+(3) Príslušný orgán sociálneho zabezpečenia alebo obec môže uhradiť pri stravovaní starých občanov a ťažko zdravotne postihnutých občanov zo svojho rozpočtu réžiu do výšky 35 % obstarávacej ceny surovín. Réžia sa uhrádza zariadeniu alebo organizácii, v ktorej sa spoločné stravovanie zabezpečuje.
+
+### § 19 – Zrušovacie ustanovenie
+
+Zrušuje sa výnos Ministerstva práce a sociálnych vecí Slovenskej socialistickej republiky z 30. júna 1987 č. 31-3673/1987 o stravných jednotkách v zariadeniach sociálnej starostlivosti (reg. v čiastke 14/1987 Zb.).
+
+### § 20 – Účinnosť
+
+Táto vyhláška nadobúda účinnosť 1. júlom 1990.
+
+Minister:
+
+MUDr. Novák CSc. v. r.
+
+---
+
+<sup>1</sup>) § 27 zákona SNR č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia.
+
+<sup>2</sup>) § 73 ods. 6 písm. f) a i) zákona č. 100/1988 Zb. o sociálnom zabezpečení. 
+ § 58 vyhlášky MZSV SSR č. 151/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení a zákon SNR o pôsobnosti orgánov SSR v sociálnom zabezpečení v znení vyhlášky č. 145/1990 Zb.
+
+<sup>2a</sup>) § 13 ods. 3 vyhlášky MZSV SSR č. 151/1988 Zb. 
+ § 65 ods. 1 a 2 vyhlášky MZSV SSR č. 151/1988 Zb.
+
+<sup>2b</sup>) § 8 ods. 1 zákona č. 73/1990 Zb. o civilnej službe.
+
+<sup>2c</sup>) § 28 zákona SNR č. 543/1990 Zb.
+
+<sup>3</sup>) Nariadenie vlády ČSSR č. 137/1989 Zb. o závodnom stravovaní.
+
+<sup>4</sup>) § 130 vyhlášky MZSV SSR č. 151/1988 Zb.
+
+<sup>5</sup>) § 127 vyhlášky MZSV SSR č. 151/1988 Zb.
+
+<sup>6</sup>) § 122 a 129 vyhlášky MZSV SSR č. 151/1988 Zb.
+
+<sup>9</sup>) § 93 zákona o sociálnom zabezpečení. 
+ § 122 až 125 vyhlášky FMPSV č. 149/1988 Zb., ktorou sa vykonáva zákon o sociálnom zabezpečení v znení vyhlášky č. 123/1990 Zb.
+
+<sup>10</sup>) Vyhláška FMPSV č. 33/1984 Zb. o cestovných náhradách v znení vyhlášky č. 81/1988 Zb. a vyhlášky č. 241/1988 Zb.
+
+<sup>11</sup>) § 10 nariadenia vlády ČSSR č. 137/1989 Zb. o závodnom stravovaní.
+
+<sup>12</sup>) § 9 nariadenia vlády ČSSR č. 137/1989 Zb.
+
+<sup>13</sup>) § 92 ods. 2 písm. d) zákona o sociálnom zabezpečení.
+
+<sup>14</sup>) § 122 ods. 2 vyhlášky č. 151/1988 Zb.

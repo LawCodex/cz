@@ -1,0 +1,539 @@
+---
+title: "Vyhláška Ministerstva dopravy č. 100/1995 Sb., kterou se stanoví podmínky pro provoz, konstrukci a výrobu určených technických zařízení a jejich konkretizace (Řád určených technických zařízení)"
+identifier: "100/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/100/2017-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1995-05-18
+effective: 1995-06-20
+last_amended: 2017-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/100"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva dopravy č. 100/1995 Sb., kterou se stanoví podmínky pro provoz, konstrukci a výrobu určených technických zařízení a jejich konkretizace (Řád určených technických zařízení) ve znění vyhlášky č. 279/2000 Sb., vyhlášky č. 210/2006 Sb. a vyhlášky č. 128/2017 Sb."
+---
+
+# Vyhláška Ministerstva dopravy č. 100/1995 Sb., kterou se stanoví podmínky pro provoz, konstrukci a výrobu určených technických zařízení a jejich konkretizace (Řád určených technických zařízení)
+
+100
+
+VYHLÁŠKA
+
+Ministerstva dopravy
+
+ze dne 18. května 1995,
+
+kterou se stanoví podmínky pro provoz, konstrukci a výrobu určených technických zařízení a jejich konkretizace (Řád určených technických zařízení)
+
+Ministerstvo dopravy stanoví podle § 66 odst. 1 zákona č. 266/1994 Sb., o dráhách:
+
+## § 1 – Určená technická zařízení
+
+(1) Určená technická zařízení (dále jen „zařízení“) jsou zařízení tlaková, plynová, elektrická, zdvihací, dopravní, pro ochranu před účinky atmosférické a statické elektřiny a pro ochranu před negativními účinky zpětných trakčních proudů.
+
+(2) Zařízení tlaková jsou
+
+a) lokomotivní kotle,
+
+b) parní generátory na drážních vozidlech, jakož i parní a horkovodní kotle o pracovním přetlaku větším než 0,05 MPa nebo o dovolené teplotě větší než 110 °C.
+
+c) zásobníky páry akumulačních lokomotiv,
+
+d) vzduchojemy drážních vozidel o pracovním přetlaku větším než 0,07 MPa, u nichž bezpečnostní součin z pracovního přetlaku v MPa a objemu v litrech je větší než 5,
+
+e) tlakové nádoby stabilní o pracovním přetlaku větším než 0,07 MPa, u nichž bezpečnostní součin z pracovního přetlaku v MPa a objemu v litrech je větší než 10,
+
+f) tlakové nádoby železničních cisternových vozidel, cisternových kontejnerů, cisternových výměnných nástaveb a bateriových vozů k dopravě nebezpečných věcí<sup>1</sup>) včetně jejich výstroje,
+
+g) tlakové nádoby železničních cisternových vozidel a cisternových kontejnerů k dopravě bezpečných věcí včetně jejich výstroje.
+
+(3) Zařízení plynová jsou
+
+a) zařízení pro plnění nádob plyny,
+
+b) zařízení pro regulaci tlaku plynů,
+
+c) tlakové stanice plynů,
+
+d) zařízení pro spalování plynů s výkonem od 50 kW,
+
+e) zařízení pro rozvod plynů,
+
+f) zařízení pro odpařování plynů.
+
+(4) Zařízení elektrická jsou
+
+a) elektrické sítě drah a elektrické rozvody drah,
+
+b) elektrická rozvodná zařízení drah a elektrické stanice drah,
+
+c) trakční napájecí a spínací stanice,
+
+d) trakční vedení,
+
+e) elektrická zařízení napájená z trakčního vedení,
+
+f) elektrická zařízení drážních vozidel,
+
+g) silnoproudá zařízení drážní zabezpečovací, sdělovací, požární, signalizační a výpočetní techniky,
+
+h) elektrická zařízení lanových drah,
+
+i) náhradní zdroje elektrické energie pro provozování dráhy,
+
+j) zkušebny elektrických zařízení drah,
+
+k) zabezpečovací zařízení, jehož elektrické obvody plní funkci přímého zajišťování bezpečnosti drážní dopravy.
+
+(5) Zařízení zdvihací jsou
+
+a) jeřáby železniční,
+
+b) jeřáby a zdvihací zařízení s motorovým pohonem na drážním vozidle nebo na drážním podvozku,
+
+c) nehodové jeřáby pro drážní vozidla tramvajové dráhy,
+
+d) jeřáby a zdvihací zařízení s motorovým pohonem, nezahrnutá pod písmeny a) až c),
+
+e) jeřáby kontejnerové, čelní a boční nakladače a překladače kontejnerů,
+
+f) soupravy stojanových zvedáků s motorovým pohonem na zvedání drážního vozidla,
+
+g) hříže k vyvazování podvozků drážního vozidla,
+
+h) pohyblivé pracovní plošiny na drážním vozidle, na drážním podvozku a pohyblivé pracovní plošiny nepřenosné,
+
+i) pohyblivé pracovní plošiny na silničním podvozku, určené pro činnost na trakčním vedení pod napětím.
+
+(6) Zařízení dopravní jsou
+
+a) strojní a mechanická zařízení lanových drah, lana a nosné konstrukce lanových drah,
+
+b) pohyblivé schody a pohyblivé chodníky,
+
+c) elektrické, pneumatické a hydraulické výtahy,
+
+d) pohyblivé plošiny pro dopravu osob se sníženou mobilitou,
+
+e) lyžařské a vodní vleky.
+
+**Podmínky pro provoz zařízení**
+
+## § 2
+
+Při provozování dráhy, drážní dopravy a lyžařských a vodních vleků lze používat jen zařízení, které má platný průkaz způsobilosti vydaný drážním správním úřadem, a jsou-li splněny tyto podmínky provozní způsobilosti:
+
+a) provádění pravidelných revizí, prohlídek a zkoušek,
+
+b) zajištění řádné a bezpečné funkce zařízení obsluhou,
+
+c) trvalé dodržování provozně technických parametrů podle technické dokumentace.
+
+## § 3
+
+(1) K bezpečnému, spolehlivému, hygienickému a ekologickému provozu musí konstrukce zařízení podle zvláštních předpisů<sup>2</sup>)
+
+a) zajistit přístup k místu obsluhy a k místům údržby a zamezit možnosti vzniku újmy na životě nebo zdraví osob a pádu předmětů ze zařízení,
+
+b) zamezit možnosti vzniku nebezpečných situací v provozu, vzniklých při přerušení nebo obnově dodávky energie,
+
+c) zajistit dostatečně účinnou protikorozní ochranu úložných zařízení v blízkosti trakčního vedení dráhy,
+
+d) zajistit způsob označení zařízení bezpečnostními značkami a nápisy pro bezpečný provoz, obsluhu a údržbu,
+
+e) zamezit úniku zbytkových par, vznikajících při plnění a vyprazdňování tlakových nádob železničních cisteren a nádržkových kontejnerů benziny a dalšími těkavými organickými látkami v čerpacích stanicích a terminálech, s používáním meziskladování par.
+
+(2) Konstrukce zařízení musí určovat použití takového materiálu, který odpovídá provozním podmínkám a vlivům prostředí, zejména s ohledem na únavu materiálu, jeho stárnutí, korozi a opotřebení.
+
+## § 4
+
+Technická dokumentace zařízení musí obsahovat
+
+a) název zařízení, označení typu a výrobce,
+
+b) technické podmínky zařízení,
+
+c) technický popis zařízení včetně popisu funkcí jednotlivých částí bezpečnostních a ochranných prvků,
+
+d) výkresovou dokumentaci a schémata zařízení,
+
+e) technické výpočty,
+
+f) návod na obsluhu a údržbu zařízení, kontrolu a hodnocení provozní způsobilosti.
+
+## § 5
+
+(1) Revize jednotlivých zařízení se provádí v časových intervalech uvedených v příloze č. 1 a v příloze č. 2, které jsou součástí této vyhlášky.
+
+(2) Při revizích podle odstavce 1 se zjišťuje dodržení podmínek stanovených v § 3
+
+a) u tlakových zařízení
+
+1\. kontrolou tlakového zařízení za provozu, zaměřenou na stav a funkčnost tlakového celku včetně bezpečnostní výstroje (provozní revize),
+
+2\. vizuální kontrolou tlakového zařízení a jeho výstroje se zaměřením na stav vnějšího a vnitřního povrchu stěn a svarových spojů včetně zkoušky těsnosti tlakového zařízení maximálním pracovním přetlakem (vnitřní revize),
+
+b) u plynových zařízení vizuální prohlídkou, kontrolou těsnosti, funkce větrání, funkce uzávěrů, regulačních, zabezpečovacích a měřicích zařízení a dodržování technických parametrů,
+
+c) u elektrických zařízení vizuální prohlídkou zařízení, měřením elektrických parametrů a zkoušením funkce se provede kontrola celkového stavu zařízení se zaměřením na jeho bezpečnost,
+
+d) u zdvihacích a dopravních zařízení
+
+1\. vizuální kontrolou stavu zařízení a kontrolou funkce zařízení bez zatížení (provozní revize),
+
+2\. kontrolou v rozsahu provozní revize doplněnou o funkční zkoušku s provozním zatížením (revize).
+
+(3) Zpráva o revizi vyhotovená oprávněnou odborně způsobilou osobou obsahuje vždy přesné označení zařízení, zaměření revize, obchodní jméno provozovatele zařízení, umístění zařízení, zjištěný stav zařízení, vyjádření o provozní způsobilosti zařízení, jméno, příjmení a podpis oprávněné odborně způsobilé osoby, číslo jeho osvědčení a datum, kdy byla revize provedena.
+
+## § 6
+
+(1) Prohlídky a zkoušky zařízení v provozu<sup>3</sup>) se provádějí v časových intervalech stanovených v příloze č. 3.
+
+(2) Při prohlídce a zkoušce podle odstavce 1 se kontrolují doklady, shoda zařízení s technickou dokumentací a dále se provádí
+
+a) u tlakových zařízení
+
+1\. vizuální kontrola tlakového zařízení a jeho výstroje se zaměřením na stav vnějšího a vnitřního povrchu stěn a svarových spojů (prohlídka),
+
+2\. zkouška tlakového zařízení s výstrojí zkušební nebo pracovní látkou o nejvyšším pracovním přetlaku, sloužící ke kontrole těsnosti tlakového celku (zkouška těsnosti),
+
+3\. zkouška tlakového zařízení kapalinou o zkušebním přetlaku, sloužící ke kontrole těsnosti a pevnosti tlakového celku (tlaková zkouška),
+
+4\. po provedení prohlídky s tlakovou zkouškou se u zařízení uvedených pod pol. 4, 5, 6 přílohy č. 3 provede vždy provozní revize,
+
+b) u plynových zařízení
+
+vizuální prohlídka zařízení, kontrola těsnosti zařízení, funkce větrání, funkce uzávěrů, regulačních, zabezpečovacích a měřicích zařízení, dodržování technických parametrů zařízení, vybavení bezpečnostními značkami, tabulkami a protipožární technikou,
+
+c) u elektrických zařízení
+
+vizuální kontrola celkového stavu a vybavení, kontrola hlavních parametrů zařízení měřením a funkční zkouška zařízení (prohlídka a zkouška),
+
+d) u zdvihacích zařízení
+
+kontrola stavu zařízení a vybavení, kontrola provozních parametrů měřením, funkční zkouška bez zatížení a funkční zkouška s maximálním provozním zatížením (prohlídka a zkouška),
+
+e) u dopravních zařízení
+
+kontrola stavu zařízení a vybavení, kontrola provozních parametrů měřením, funkční zkouška bez zatížení a funkční zkouška s maximálním provozním zatížením (prohlídka a zkouška). Funkční zkouška s maximálním provozním zatížením se neprovádí u pohyblivých schodů, pohyblivých chodníků, lanových drah a lyžařských a vodních vleků.
+
+(3) Protokol o provedené prohlídce a zkoušce zařízení v provozu, vyhotovený oprávněnou odborně způsobilou osobou, obsahuje vždy přesné označení zařízení, název jeho provozovatele, umístění, popis provedené prohlídky a zkoušky, zjištěný stav, hodnocení rizik, vyjádření o provozní způsobilosti a stanovení její doby, jméno, příjmení a podpis oprávněné odborně způsobilé osoby, číslo jejího osvědčení a datum, kdy byly prohlídka a zkouška provedeny.
+
+(4) Protokol o provedené prohlídce a zkoušce zařízení v provozu se pořizuje ve třech vyhotoveních, z nichž jedno obdrží provozovatel zařízení, jedno Drážní úřad a jedno si ponechá oprávněná odborně způsobilá osoba, která prohlídku a zkoušku provedla.
+
+(5) Zprávy o revizích a protokoly o prohlídkách a zkouškách musí být přiloženy k průkazu způsobilosti zařízení uloženého u provozovatele zařízení.
+
+(6) Prohlídce a zkoušce mimo časový interval stanovený v příloze č. 3 podléhá zařízení
+
+a) po přemístění, předcházela-li demontáž,
+
+b) nebylo-li více než dva roky v činnosti,
+
+c) po mimořádné události s vlivem na provozní způsobilost a bezpečnost zařízení.
+
+(7) Po zásahu do zařízení svařováním (oprava, rekonstrukce) anebo zásahu do zařízení znamenajícím odchylku od technické dokumentace musí být s výjimkou tlakových nádob pro dopravu nebezpečných věcí<sup>1</sup>) provedena technická prohlídka a zkouška
+
+a) autorizovanou osobou<sup>4</sup>), jde-li o stanovený výrobek podle zvláštního právního předpisu<sup>4a</sup>),
+
+b) osobou pověřenou Ministerstvem dopravy, jedná-li se o jiné zařízení, popřípadě jiný výrobek.
+
+(8) Po zásahu ovlivňujícím bezpečnost tlakové nádoby určené k dopravě nebezpečných věcí<sup>1</sup>) nebo její výstroje musí být provedena mimořádná prohlídka a zkouška oprávněnou osobou podle zvláštního právního předpisu<sup>4b</sup>).
+
+## § 7
+
+(1) Revize, prohlídky a zkoušky se provádějí nejpozději v časových intervalech stanovených v přílohách č. 1, 2 a 3.
+
+(2) Zařízení, které ohrožuje život nebo zdraví osob nebo které může způsobit škodu na majetku, musí být spolehlivě zabezpečeno tak, aby nemohlo být dále používáno.
+
+(3) Technická dokumentace pro zařízení podle § 1 odst. 3 písm. e) a odst. 4 písm. a), b), g) a k) se pořizuje ve dvou vyhotoveních a ukládá se tak, aby i při mimořádné události bylo zachováno alespoň jedno vyhotovení.
+
+## § 8
+
+(1) Obsluhou, údržbou a opravami zařízení může být pověřena jen osoba, která byla s činností na zařízení řádně seznámena, prakticky zacvičena a přezkoušena. Činností na elektrickém zařízení může být pověřena jen osoba s elektrotechnickou kvalifikací podle přílohy č. 4. Tyto požadavky se nevztahují na cestující veřejnost obsluhující zařízení, které je určeno pro používání cestujícími.
+
+(2) O skutečnostech uvedených v odstavci 1 vede provozovatel zařízení evidenci.
+
+(3) Obsluhou lokomotivního kotle může být pověřena jen osoba, která byla s činností na zařízení řádně seznámena, prakticky zacvičena a její způsobilost prokázána přezkoušením provedeným oprávněnou odborně způsobilou osobou pro tlaková zařízení.
+
+## § 9 – Ustanovení přechodná a závěrečná
+
+(1) Zařízení uvedená v § 1 odst. 4 písm. k) a odst. 6 písm. d) se považují za provozně způsobilá za podmínky, že nejpozději do jednoho roku od nabytí účinnosti této vyhlášky požádá provozovatel Drážní úřad o vydání průkazu způsobilosti určeného technického zařízení. Nepožádá-li provozovatel v této lhůtě o vydání průkazu způsobilosti, pozbývá uplynutím této lhůty zařízení provozní způsobilost.
+
+(2) Ostatní zařízení uvedená do provozu před účinností této vyhlášky, jejichž provozní způsobilost byla prověřena podle dřívějších předpisů, se do vykonání prohlídky a zkoušky podle této vyhlášky považují za provozně způsobilá. Od vykonání první prohlídky a zkoušky podle této vyhlášky se způsobilost určeného technického zařízení posuzuje podle podmínek touto vyhláškou stanovených.
+
+(3) Podmínky pro konstrukci a výrobu uvedené v § 3 se nepoužijí na výrobky, které jsou stanovenými výrobky podle zvláštního právního předpisu.<sup>5</sup>)
+
+## § 10
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+PhDr. Stráský v. r.
+
+### Příloha č. 1 k vyhlášce č. 100/1995 Sb.
+
+#### Časové intervaly revizí určených technických zařízení
+
+<table><tbody><tr><th>Pol.</th><th>Tlaková zařízení</th><th>Zaměření</th><th>Časový interval</th><th>Poznámka</th></tr><tr><td>1.</td><td>Lokomotivní kotle</td><td>vnitřní revize</td><td>1 rok</td><td></td></tr><tr><td rowspan="2">2.</td><td rowspan="2">Lokomotivní vytápěcí kotle</td><td>provozní revize</td><td>3 měsíce</td><td></td></tr><tr><td>vnitřní revize</td><td>1 rok</td><td></td></tr><tr><td rowspan="2">3.</td><td rowspan="2">Parní generátory na drážních vozidlech</td><td>provozní revize</td><td>3 měsíce</td><td></td></tr><tr><td>vnitřní revize</td><td>2 roky</td><td></td></tr><tr><td>4.</td><td>Zásobníky páry akumulačních lokomotiv</td><td>provozní revize</td><td>1 rok</td><td></td></tr><tr><td rowspan="2">5.</td><td rowspan="2">vzduchojemy hnacích drážních vozidel</td><td rowspan="2">provozní revize</td><td rowspan="2">1 rok</td><td rowspan="2">U vzduchojemů trolejbusů<br> se provozní revize<br> neprovádí</td></tr><tr></tr><tr><td>6.</td><td>Vzduchojemy tažených drážních vozidel o pracovním přetlaku do 0,6 MPa</td><td>provozní revize</td><td>6 roků</td><td></td></tr><tr><td rowspan="2">7.</td><td rowspan="2">Vzduchojemy tažených drážních vozidel o pracovním přetlaku větším než 0,6 MPa</td><td>provozní revize</td><td>2 roky</td><td></td></tr><tr><td>vnitřní revize</td><td>24 roků</td><td></td></tr><tr><td rowspan="2">8.</td><td rowspan="2">Tlakové nádoby stabilní</td><td>provozní revize</td><td>1 rok</td><td></td></tr><tr><td>vnitřní revize</td><td>5 roků</td><td></td></tr><tr><td>9.</td><td>Tlakové nádoby železničních cisternových vozidel, tlakové nádrže cisternových kontejnerů, cisternových výměnných nástaveb, bateriových vozů a vícečlánkových kontejnerů na plyn, určené k dopravě nebezpečných věcí</td><td></td><td></td><td>podle mezinárodní smlouvy<sup><sup>1</sup></sup>)</td></tr><tr><td>10.</td><td>Tlakové nádoby železničních cisteren k dopravě bezpečných látek s tlakovým vyprazdňováním</td><td>vnitřní revize</td><td>4 roky</td><td></td></tr><tr><td>11.</td><td>Tlakové nádoby nádržkových kontejnerů k dopravě bezpečných látek s tlakovým vyprazdňováním</td><td>vnitřní revize</td><td>2,5 roku</td><td></td></tr><tr><td rowspan="2">12.</td><td rowspan="2">parní a horkovodní kotle</td><td>provozní revize</td><td>3 měsíce</td><td></td></tr><tr><td>vnitřní revize</td><td>2 roky</td></tr></tbody></table>
+
+| Pol. | Plynová zařízení | Zaměření | Časový interval | Poznámka |
+|---|---|---|---|---|
+| 1. | Zařízení pro regulaci tlaku plynů | revize | 3 roky | |
+| 2. | Tlakové stanice plynů | revize | 1 rok | |
+| 3. | Zařízení pro spalování plynů s výkonem od 50 kW | revize | 3 roky | |
+| 4. | Zařízení pro rozvod plynů | revize | 3 roky | |
+| 5. | Zařízení pro odpařování plynů | revize | 1 rok | |
+
+| Pol. | Elektrická zařízení, zařízení pro ochranu před účinky atmosférické a statické elektřiny, zařízení pro ochranu před negativními účinky zpětných trakčních proudů | Zaměření | Časový interval | Poznámka |
+|---|---|---|---|---|
+| 1. | Elektrické sítě drah a elektrické rozvody drah, elektrická rozvodná zařízení drah a elektrické stanice drah, zdroje a spotřebiče elektrické energie pro provozování dráhy, elektrická silnoproudá zařízení drážní zabezpečovací, sdělovací, požární, signalizační a výpočetní techniky a zařízení pro ochranu před účinky atmosférické a statické elektřiny | revize | viz příloha č. 2 | |
+| 2. | Trakční napájecí a spínací stanice | revize | 5 roků | |
+| 3. | Trakční vedení | revize | 6 roků | |
+| 4. | Elektrická zařízení napájená z trakčního vedení | revize | 6 roků | |
+| 5. | Elektrická zařízení drážních vozidel | revize | 5 roků | |
+| 6. | Elektrická zařízení speciálních vozidel s elektrickým přenosem výkonu | revize | 3 roky | |
+| 7. | Elektrická zařízení lanových drah | revize | viz příloha č. 2 | |
+| 8. | Zkušebny elektrických zařízení drah | revize | 1 rok | |
+| 9. | Zařízení pro ochranu před negativními účinky zpětných trakčních proudů | revize | 2 roky | |
+
+<table><tbody><tr><th>Pol.</th><th>Zdvihací zřízení</th><th>Zaměření</th><th>Časový interval</th><th>Poznámka</th></tr><tr><td rowspan="2">1.</td><td rowspan="2">Jeřáby železniční</td><td>provozní revize</td><td>6 měsíců</td><td></td></tr><tr><td>revize</td><td>2 roky</td><td></td></tr><tr><td rowspan="2">2.</td><td rowspan="2">Jeřáby a zdvihací zařízení na drážním vozidle nebo na drážním podvozku</td><td>provozní revize</td><td>1 rok</td><td></td></tr><tr><td>revize</td><td>3 roky</td><td></td></tr><tr><td rowspan="2">3.</td><td rowspan="2">Nehodové jeřáby pro drážní vozidla tramvajové dráhy</td><td>provozní revize</td><td>1 rok</td><td></td></tr><tr><td>revize</td><td>3 roky</td><td></td></tr><tr><td rowspan="8">4.</td><td rowspan="8">Jeřáby a zdvihací zařízení nezahrnutá pod pol. 1 až 3</td><td rowspan="4">provozní revize</td><td>1 rok</td><td rowspan="4">dle tabulky č. 1 ČSN 27 0142</td></tr><tr><td>2 roky</td></tr><tr><td>3 roky</td></tr><tr><td>4 roky</td></tr><tr><td rowspan="4">revize</td><td>2 roky</td><td rowspan="4">dle tabulky č. 1 ČSN 27 0142</td></tr><tr><td>4 roky</td></tr><tr><td>6 roků</td></tr><tr><td>8 roků</td></tr><tr><td rowspan="2">5.</td><td rowspan="2">Jeřáby kontejnerové, čelní a boční nakladače a překladače kontejnerů</td><td>provozní revize</td><td>6 měsíců</td><td></td></tr><tr><td>revize</td><td>1 rok</td><td></td></tr><tr><td rowspan="2">6.</td><td rowspan="2">Soupravy stojanových zvedáků drážního vozidla</td><td>provozní revize</td><td>3 měsíce</td><td></td></tr><tr><td>revize</td><td>1 rok</td><td></td></tr><tr><td rowspan="2">7.</td><td rowspan="2">Hříže k vyvazování podvozku drážního vozidla</td><td>provozní revize</td><td>1 rok</td><td></td></tr><tr><td>revize</td><td>2 roky</td><td></td></tr><tr><td rowspan="2">8.</td><td rowspan="2">Pohyblivé pracovní plošiny na drážním vozidle, na drážním podvozku a pohyblivé pracovní plošiny nepřenosné</td><td>provozní revize</td><td>1 rok</td><td></td></tr><tr><td>revize</td><td>2 roky</td><td></td></tr><tr><td rowspan="2">9.</td><td rowspan="2">Pohyblivé pracovní plošiny na silničním podvozku, určené pro činnost na trakčním vedení pod napětím</td><td>provozní revize</td><td>1 rok</td><td></td></tr><tr><td>revize</td><td>2 roky</td><td></td></tr></tbody></table>
+
+<table><tbody><tr><th>Pol.</th><th>Dopravní zařízení</th><th>Zaměření</th><th>Časový interval</th><th>Poznámka</th></tr><tr><td>1.</td><td>Strojní a mechanická zařízení lanových drah, jejich lana a nosné konstrukce</td><td>provozní revize</td><td>1 rok</td><td></td></tr><tr><td>2.</td><td>Pohyblivé schody a pohyblivé chodníky</td><td>provozní revize</td><td>3 měsíce</td><td></td></tr><tr><td rowspan="2">3.</td><td rowspan="2">Výtahy pro dopravu osob a výtahy pro dopravu osob a nákladu</td><td>provozní revize</td><td>3 měsíce</td><td></td></tr><tr><td>revize</td><td>1 rok</td><td></td></tr><tr><td rowspan="2">4.</td><td rowspan="2">Výtahy se zakázanou dopravou osob</td><td>provozní revize</td><td>6 měsíců</td><td></td></tr><tr><td>revize</td><td>3 roky</td><td></td></tr><tr><td rowspan="2">5.</td><td rowspan="2">Pohyblivé plošiny pro dopravu osob se sníženou mobilitou</td><td>provozní revize</td><td>1 rok</td><td></td></tr><tr><td>revize</td><td>2 roky</td><td></td></tr><tr><td rowspan="2">6.</td><td rowspan="2">Lyžařské a vodní vleky</td><td rowspan="2">provozní revize</td><td rowspan="2">1 rok</td><td rowspan="2"></td></tr><tr></tr></tbody></table>
+
+### Příloha č. 2 k vyhlášce č. 100/1995 Sb.
+
+#### Časové intervaly revizí určených technických zařízení elektrických
+
+I. Stanovené podle působení vnějších vlivů určených dle ČSN 33 2000-3 diferencovaně v jednotlivých prostorech
+
+| Druhy prostorů | Časový interval roky |
+|---|---|
+| prostory normální (AA4, AB5, xx1 pro ostatní parametry s výjimkou xx2 pro parametr BC) | 5 |
+| prostory s nízkou teplotou (AA1, AA2, AA3, AB1, AB2, AB3) | 3 |
+| prostory s vysokou teplotou (AA6, AB6) | 3 |
+| prostory s výskytem páry a vodních kapek (AD2) | 3 |
+| prostory s výskytem vody (AD3, AD4, AD5, AD6, AD7) | 1 |
+| prostory s občasným výskytem korozivních nebo znečišťujících látek (AF3) | 3 |
+| prostory s trvalým výskytem korozivních nebo znečišťujících látek (AF4) | 1 |
+| prostory s výskytem prachu (AE4, AE5, AE6) | 3 |
+| prostory s mechanickým namáháním (AG2, AG3, AH2, AH3) | 2 |
+| prostory s výskytem rostlinstva nebo plísní, živočichů (AK2, AL2) | 3 |
+| prostory s nebezpečím požáru zpracovávaných nebo skladovaných látek <br> (BE2, BE2N1, BE2N2, BE2N3) | 2 |
+| prostory s nebezpečím výbuchu zpracovávaných nebo skladovaných látek<br> (BE3, BE3N1, BE3N2, BE3N3) | 2 |
+| prostory venkovní (AB8, AD4) | 4 |
+
+II. Stanovené podle druhu prostoru se zvýšeným rizikem ohrožení osob
+
+| Umístění elektrického zařízení | Časový interval roky |
+|---|---|
+| stanice hromadné dopravy | 2 |
+| objekty s velkou hustotou obsazení a obtížnými podmínkami pro únik v případě nebezpečí (třída vnějších vlivů BD4) | 2 |
+| drážní provozní budovy | 5 |
+| objekty nebo části objektů provedené ze stavebních hmot odpovídajících stupni hořlavosti C2, C3 podle ČSN 73 0823 | 2 |
+| pojízdné a převozné prostředky | 1 |
+| prozatímní zařízení staveniště | 0,5 |
+
+III. Zařízení pro ochranu před účinky atmosférické a statické elektřiny
+
+| Druh objektu | Časový interval roky |
+|---|---|
+| objekty s prostory s prostředím s nebezpečím výbuchu nebo požáru, objekty konstruované ze stavebních hmot odpovídajících stupni hořlavosti C1, C2, C3 podle ČSN 73 0823 | 2 |
+| ostatní objekty (Platí i pro ochranné prostory, které nehranící se žádným prostorem se stupněm nebezpečí výbuchu.) | 5 |
+
+IV. Elektrická zařízení lanových drah
+
+| Druh elektrického zařízení | Časový interval |
+|---|---|
+| poháněcí zařízení, náhradní proudový zdroj, nouzové osvětlení, řídicí obvody, vozy včetně příslušných obvodů nebo obvodů přímo souvisejících s těmito zařízeními, zařízení pro ochranu před bleskem | 13 měsíců |
+| ostatní elektrické zařízení | podle částí I, II této přílohy, nejméně však lx za 3 roky |
+
+Při provádění pravidelných revizí platí vždy nejkratší z časových intervalů stanovených podle vnějších vlivů (část I této přílohy) a podle druhu prostoru se zvýšeným rizikem ohrožení osob (část II této přílohy).
+
+### Příloha č. 3 k vyhlášce č. 100/1995 Sb.
+
+#### Časové intervaly prohlídek a zkoušek určených technických zařízení
+
+| Pol. | Tlaková zařízení | Zaměření | Časový interval | Poznámka |
+|---|---|---|---|---|
+| 1. | Lokomotivní kotle | prohlídka a tlaková zkouška | 5 roků | |
+| 2. | Lokomotivní vytápěcí kotle | prohlídka a tlaková zkouška | 6 roků | |
+| 3. | Zásobníky páry akumulačních lokomotiv | prohlídka a tlaková zkouška | 6 roků | |
+| 4. | Vzduchojemy hnacích drážních vozidel | prohlídka a tlaková zkouška | 6 roků | |
+| 5. | Tlakové nádoby stabilní | prohlídka a tlaková zkouška | 10 roků | |
+| 6. | Kovové tlakové nádoby k dopravě plynů na drážních vozidlech | prohlídka a tlaková zkouška | 8 roků | |
+| 7. | Tlakové nádoby železničních cisternových vozidel, cisternových kontejnerů, cisternových výměnných nástaveb, bateriových vozů a vícečlánkových kontejnerů na plyn, určené k dopravě nebezpečných věcí | prohlídka a tlaková zkouška | podle mezinárodní smlouvy<sup>1</sup>) | |
+| 8. | Tlakové nádoby železničních cisteren k dopravě bezpečných látek s tlakovým vyprazdňováním | prohlídka a tlaková zkouška | 8 roků | |
+| 9. | Tlakové nádoby nádržkových kontejnerů k dopravě bezpečných látek s tlakovým vyprazdňováním | prohlídka a tlaková zkouška | 5 roků | |
+| 10. | Parní a horkovodní kotle | prohlídka a tlaková zkouška | 10 roků | |
+
+| Pol. | Plynová zařízení | Zaměření | Časový interval | Poznámka |
+|---|---|---|---|---|
+| 1. | Zařízení pro plnění nádob plyny | prohlídka a zkouška | 5 roků | |
+| 2. | Zařízení pro regulaci tlaku plynů | prohlídka a zkouška | 6 roků | |
+| 3. | Tlakové stanice plynů | prohlídka a zkouška | 3 roky | |
+| 4. | Zařízení pro spalování plynů s výkonem od 50 kW | prohlídka a zkouška | 6 roků | |
+| 5. | Zařízení pro rozvod plynů | prohlídka a zkouška | 6 roků | |
+| 6. | Zařízení pro odpařování plynů | prohlídka a zkouška | 3 roky | |
+
+| Pol. | Elektrická zařízení, zařízení pro ochranu před účinky atmosférické a statické elektřiny, zařízení pro ochranu před negativními účinky zpětných trakčních proudů | Zaměření | Časový interval | Poznámka |
+|---|---|---|---|---|
+| 1. | Trakční napájecí a spínací stanice, elektrické stanice vn | prohlídka a zkouška | 5 roků | |
+| 2. | Elektrická zařízení lanových drah | prohlídka a zkouška | 3 roky | |
+| 3. | Zabezpečovací zařízení, jehož elektrické obvody plní funkci přímého zajišťování bezpečnosti drážní dopravy | prohlídka a zkouška | 5 roků | |
+| 4. | Zařízení pro ochranu před negativními účinky zpětných trakčních proudů | prohlídka a zkouška | 3 roky | |
+
+| Pol. | Zdvihací zařízení | Zaměření | Časový interval | Poznámka |
+|---|---|---|---|---|
+| 1. | Jeřáby železniční | prohlídka a zkouška | 6 roků | |
+| 2. | Jeřáby a zdvihací zařízení na drážním vozidle nebo na drážním podvozku | prohlídka a zkouška | 6 roků | |
+| 3. | Nehodové jeřáby pro drážní vozidla tramvajové dráhy | prohlídka a zkouška | 6 roků | |
+| 4. | Jeřáby a zdvihací zařízení nezahrnutá pod pol. 1 až 3 | prohlídka a zkouška | 8 roků | |
+| 5. | Jeřáby kontejnerové, čelní a boční nakladače a překladače kontejnerů | prohlídka a zkouška | 3 roky | |
+| 6. | Soupravy stojanových zvedáků drážního vozidla | prohlídka a zkouška | 6 roků | |
+| 7. | Hříže k vyvazování podvozků drážního vozidla | prohlídka a zkouška | 8 roků | |
+| 8. | Pohyblivé pracovní plošiny na drážním vozidle, na drážním podvozku a pohyblivé pracovní plošiny nepřenosné | prohlídka a zkouška | 6 roků | |
+| 9. | Pohyblivé pracovní plošiny na silničním podvozku, určené pro činnost na trakčním vedení pod napětím | prohlídka a zkouška | 6 roků | |
+
+| Pol. | Dopravní zařízení | Zaměření | Časový interval | Poznámka |
+|---|---|---|---|---|
+| 1. | Strojní a mechanická zařízení lanových drah, jejich lana a nosné konstrukce | prohlídka a zkouška | 3 roky | |
+| 2. | Pohyblivé schody a pohyblivé chodníky | prohlídka a zkouška | 4 roky | |
+| 3. | Výtahy pro dopravu osob a výtahy pro dopravu osob a nákladu | prohlídka a zkouška | 3 roky | |
+| 4. | Výtahy se zakázanou dopravou osob | prohlídka a zkouška | 6 roků | |
+| 5. | Pohyblivé plošiny pro dopravu osob se sníženou mobilitou | prohlídka a zkouška | 6 roků | |
+| 6. | Lyžařské a vodní vleky | prohlídka a zkouška | 5 roků | |
+
+### Příloha č. 4 k vyhlášce č. 100/1995 Sb.
+
+#### Elektrotechnická kvalifikace při činnostech na určených technických zařízeních
+
+1\. Činnosti (obsluha, prohlídka, oprava, údržba, montáž a zkoušení) na technických zařízeních elektrických, zařízeních pro ochranu před účinky atmosférické a statické elektřiny, zařízeních pro ochranu před negativními účinky zpětných trakčních proudů, jsou-li tato určenými technickými zařízeními (dále jen „elektrická zařízení“), mohou provádět pouze osoby, které splňují odbornou kvalifikaci v elektrotechnice podle podmínek uvedených v této příloze.
+
+2\. Pro zajištění odborné kvalifikace v elektrotechnice se stanovují tři stupně, a to „osoba poučená“, „osoba znalá“ a „osoba znalá s vyšší kvalifikací“.
+
+3\. Za „osobu poučenou“ se považuje osoba, která byla v rozsahu své pracovní činnosti prokazatelně seznámena s technickými normami souvisejícími s činností na elektrických zařízeních příslušného druhu a napětí, kterou má vykonávat, popřípadě řídit, dále s pokyny výrobce elektrického zařízení, s pokyny provozovatele elektrického zařízení, seznámena se zásadami první pomoci při úrazech elektrickým proudem, upozorněna na možné ohrožení elektrickým zařízením a prakticky zacvičena.
+
+4\. Za „osobu znalou“ se považuje osoba
+
+a) se středním odborným vzděláním získaným v oboru vzdělávání zařazeném do skupiny oborů 26 podle Jednotné klasifikace oborů vzdělání, popřípadě Klasifikace kmenových oborů vzdělání,<sup>1</sup>)
+
+b) s úplným středním odborným vzděláním získaným v oboru vzdělávání zařazeném do skupiny oborů 26 podle Jednotné klasifikace oborů vzdělání, popřípadě Klasifikace kmenových oborů vzdělání,<sup>1</sup>)
+
+c) s vyšším odborným vzděláním získaným v oboru vzdělávání zařazeném do skupiny oborů 26 podle Jednotné klasifikace oborů vzdělání, popřípadě Klasifikace kmenových oborů vzdělání,<sup>1</sup>) nebo
+
+d) s vysokoškolským vzděláním dosaženým ve studijních programech skupiny oborů 26 Klasifikace kmenových oborů vzdělání,<sup>1</sup>)
+
+která byla zaškolena v rozsahu své pracovní činnosti na elektrickém zařízení a její znalosti byly ověřeny zkouškou, kterou zajistí provozovatel elektrického zařízení a provede osoba znalá s vyšší kvalifikací pro činnost na elektrickém zařízení příslušného druhu a napětí.
+
+5\. Za „osobu znalou s vyšší kvalifikací“ se považuje osoba, která splňuje kvalifikaci osoby znalé a má odbornou praxi v délce
+
+a) nejméně dva roky, má-li vysokoškolské vzdělání, vyšší odborné vzdělání nebo úplné střední odborné vzdělání, nebo
+
+b) nejméně tři roky, má-li střední odborné vzdělání,
+
+z toho nejméně jeden rok na elektrických zařízeních příslušného druhu a napětí a její znalosti byly ověřeny zkouškou, kterou zajistí provozovatel elektrického zařízení. Komise, před kterou se skládá tato zkouška, má 3 členy, přičemž alespoň jeden člen komise má kvalifikaci ve stupni osoba znalá s vyšší kvalifikací pro řízení činnosti nebo provozu elektrického zařízení příslušného druhu a napětí.
+
+6\. Osoba poučená může vykonávat tyto činnosti:
+
+a) obsluhovat elektrické zařízení,
+
+b) provádět ostatní činnosti dle bodu 1, vyjma obsluhy, na elektrickém zařízení nízkého napětí bez napětí,
+
+c) provádět pod dohledem osoby s elektrotechnickou kvalifikací vyššího stupně, která se přesvědčí o provedení nutných bezpečnostních opatření, vydá podrobnější pokyny pro činnost a podle potřeby občas kontroluje dodržování bezpečnostních předpisů, ostatní činnosti dle bodu 1, vyjma obsluhy, na elektrickém zařízení vysokého a velmi vysokého napětí bez napětí a v blízkosti živých částí elektrického zařízení nízkého napětí, při dodržení minimálních vzdáleností daných příslušnými bezpečnostními předpisy,
+
+d) provádět pod dozorem osoby znalé s vyšší kvalifikací, odpovídající za dodržování příslušných bezpečnostních předpisů, ostatní činnosti dle bodu 1, vyjma obsluhy, v blízkosti živých částí elektrického zařízení vysokého a velmi vysokého napětí, při dodržení minimálních vzdáleností daných příslušnými bezpečnostními předpisy,
+
+e) řídit nebo provádět činnosti na kolejovém svršku a spodku, včetně ukolejnění na elektrizovaných tratích a na tratích, jejichž koleje jsou součástí obvodů pro elektrické vytápění vlaků,
+
+f) obsluhovat elektrické předtápěcí zařízení včetně manipulace se spojkami pro napájení drážních vozidel elektrickou energií,
+
+g) obsluhovat úsekové odpojovače a zkratovače trakčního vedení.
+
+7\. Osoba znalá může vykonávat veškeré činnosti osoby poučené a dále
+
+a) provádět činnosti dle bodu 1 na elektrickém zařízení bez napětí,
+
+b) pracovat pod dozorem osoby znalé s vyšší kvalifikací v blízkosti živých částí vysokého a velmi vysokého napětí, při dodržení minimálních vzdáleností daných příslušnými bezpečnostními předpisy a na těchto částech pod napětím,
+
+c) pracovat samostatně v blízkosti živých částí nízkého napětí, při dodržení minimálních vzdáleností daných příslušnými bezpečnostními předpisy,
+
+d) pracovat samostatně na živých částech nízkého napětí mimo případů daných příslušnými bezpečnostními předpisy.
+
+8\. Osoba znalá s vyšší kvalifikací může vykonávat veškeré činnosti osoby znalé a dále
+
+a) vykonávat činnosti dle bodu 1 na elektrickém zařízení bez omezení, mimo případů daných příslušnými bezpečnostními předpisy,
+
+b) řídit činnost osob na elektrickém zařízení nebo provoz elektrického zařízení,
+
+c) projektovat elektrické zařízení.
+
+9\. Seznámení, upozornění, praktické zacvičení a ověření znalostí osoby poučené zajistí provozovatel elektrického zařízení a provede
+
+a) pro obsluhu elektrického zařízení osoba s elektrotechnickou kvalifikací odpovídající charakteru pracovní činnosti, nejméně však osoba poučená,
+
+b) pro ostatní pracovní činnosti dle bodu 1, vyjma obsluhy, osoba znalá.
+
+10\. Praktické zacvičení osoby poučené se provádí v rozsahu pracovních činností, které bude tato osoba vykonávat.
+
+11\. Předmětem zkoušek a přezkoušení podle bodů 4 a 5 jsou
+
+a) technické normy související s pracovní činností na elektrickém zařízení příslušného druhu a napětí, kterou má zkoušený pracovník vykonávat, popřípadě řídit,
+
+b) předpisy k zajištění bezpečnosti a ochrany zdraví při práci, které souvisejí s pracovní činností na elektrickém zařízení příslušného druhu a napětí, kterou má zkoušený pracovník vykonávat, popřípadě řídit,
+
+c) místní pracovní a bezpečnostní předpisy, příkazy, směrnice a návody k obsluze, které souvisí s pracovní činností na elektrickém zařízení příslušného druhu a napětí, kterou má zkoušený pracovník vykonávat, popřípadě řídit,
+
+d) teoretické a praktické znalosti o poskytování první pomoci, zejména při úrazech elektrickým proudem.
+
+12\. O elektrotechnické kvalifikaci pro výkon příslušné pracovní činnosti ve stupni „osoba poučená“ nebo „osoba znalá“ vydává doklad osoba, která ověření provedla.
+
+13\. O vykonání zkoušky „osoby znalé s vyšší kvalifikací“ vyhotoví zkušební komise písemný protokol, jehož přílohou jsou doklady o písemném ověření znalostí zkoušeného. Obsahem protokolu, který podepisují spolu se zkoušeným i všichni členové komise, je vyhodnocení zkoušky prováděné podle stupnice
+
+a) „prospěl“,
+
+b) „neprospěl“.
+
+14\. Provozovatel elektrického zařízení zajišťující zkoušky osob podle bodu 5 oznámí termín a místo konání zkoušek alespoň čtyři týdny předem Drážnímu úřadu.
+
+15\. O ověření elektrotechnické kvalifikace „osoby znalé s vyšší kvalifikací“ zkouškou vydá zkušební komise osvědčení. V osvědčení uvede jakou činnost na elektrickém zařízení může osoba vykonávat, to znamená, zda může provádět pouze samostatnou činnost, zda může řídit činnost osob, zda může řídit provoz elektrického zařízení nebo zda může projektovat elektrické zařízení. Není-li činnost podle tohoto osvědčení vykonávána jeho držitelem po dobu delší než tři roky, považuje se držitel za osobu bez této elektrotechnické kvalifikace.
+
+16\. Provozovatel elektrického zařízení
+
+a) ukládá protokoly o zkoušce,
+
+b) vede evidenci vydaných dokladů o příslušné elektrotechnické kvalifikaci,
+
+c) vede evidenci vydaných osvědčení o příslušné elektrotechnické kvalifikaci.
+
+17\. Zjistí-li drážní správní úřad, že osoba s elektrotechnickou kvalifikací podle této přílohy vykazuje nedostatky ve své činnosti, které podstatným způsobem ovlivňují správnou funkci a bezpečný provoz elektrického zařízení, může nařídit mimořádné přezkoušení v potřebném rozsahu.
+
+---
+
+<sup>1</sup>) Vyhláška č. 8/1985 Sb., o Úmluvě o mezinárodní železniční přepravě (COTIF), ve znění sdělení č. 61/1991 Sb., sdělení č. 251/1991 Sb. a sdělení č. 274/1996 Sb. 
+ Sdělení Ministerstva zahraničních věcí č. 34/2005 Sb. m. s., kterým se doplňují sdělení č. 61/1991 Sb., č. 251/1991 Sb., č. 274/1996 Sb., č. 29/1998 Sb., č. 60/1999 Sb., č. 9/2002 Sb. m. s., č. 46/2003 Sb. m. s. a č. 8/2004 Sb. m. s., o vyhlášení změn a doplňků Úmluvy o mezinárodní železniční přepravě (COTIF), vyhlášené pod č. 8/1985 Sb.
+
+<sup>2</sup>) Např. zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění zákona ČNR č. 210/1990 Sb., zákona ČNR č. 425/1990 Sb., zákona ČNR č. 548/1991 Sb., zákona ČNR č. 550/1991 Sb., zákona ČNR č. 590/1992 Sb., zákona ČNR č. 15/1993 Sb., zákona č. 161/1993 Sb., zákona č. 307/1993 Sb. a zákona č. 60/1995 Sb., zákon ČNR č. 133/1985 Sb., o požární ochraně, ve znění zákona ČNR č. 425/1990 Sb., zákona č. 40/1994 Sb. a zákona č. 203/1994 Sb., zákon č. 17/1992 Sb., o životním prostředí, zákon ČNR č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákonného opatření Předsednictva ČNR č. 347/1992 Sb., zákon č. 309/1991 Sb., o ochraně ovzduší před znečišťujícími látkami (zákon o ovzduší), ve znění zákona č. 218/1992 Sb. a zákona č. 158/1994 Sb., vyhláška Ministerstva lesního a vodního hospodářství ČSR č. 6/1977 Sb., o ochraně jakosti povrchových a podzemních vod.
+
+<sup>3</sup>) § 48 zákona č. 266/1994 Sb., o dráhách, ve znění zákona č. 23/2000 Sb.
+
+<sup>4</sup>) § 11 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 71/2000 Sb., zákona č. 102/2001 Sb., zákona č. 205/2002 Sb., zákona č. 226/2003 Sb. a zákona č. 277/2003 Sb.
+
+<sup>4a</sup>) § 12 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů.
+
+<sup>4b</sup>) § 17 odst. 4 vyhlášky č. 101/1995 Sb., kterou se vydává Řád pro zdravotní a odbornou způsobilost osob při provozování dráhy a drážní dopravy, ve znění vyhlášky č. 194/2005 Sb.
+
+<sup>5</sup>) Zákon č. 22/1997 Sb., o technických požadavcích na výrobky, ve znění zákona č. 71/2000 Sb.
+
+<sup>1</sup>) Vyhláška č. 8/1985 Sb., o Úmluvě o mezinárodní železniční přepravě (COTIF), ve znění sdělení č. 61/1991 Sb., sdělení č. 251/1991 Sb. a sdělení č. 274/1996 Sb. 
+ Sdělení Ministerstva zahraničních věcí č. 34/2005 Sb. m. s., kterým se doplňují sdělení č. 61/1991 Sb., č. 251/1991 Sb., č. 274/1996 Sb., č. 29/1998 Sb., č. 60/1999 Sb., č. 9/2002 Sb. m. s., č. 46/2003 Sb. m. s. a č. 8/2004 Sb. m. s., o vyhlášení změn a doplňků Úmluvy o mezinárodní železniční přepravě (COTIF), vyhlášené pod č. 8/1985 Sb.
+
+<sup>1</sup>) ČSN 73 0823.
+
+<sup>2</sup>) Platí i pro ochranné prostory, které nehraničí se žádným prostorem se stupněm nebezpečí výbuchu.
+
+<sup>1</sup>) Vyhláška č. 8/1985 Sb., o Úmluvě o mezinárodní železniční přepravě (COTIF), ve znění sdělení č. 61/1991 Sb., sdělení č. 251/1991 Sb. a sdělení č. 274/1996 Sb. 
+ Sdělení Ministerstva zahraničních věcí č. 34/2005 Sb. m. s., kterým se doplňují sdělení č. 61/1991 Sb., č. 251/1991 Sb., č. 274/1996 Sb., č. 29/1998 Sb., č. 60/1999 Sb., č. 9/2002 Sb. m. s., č. 46/2003 Sb. m. s. a č. 8/2004 Sb. m. s., o vyhlášení změn a doplňků Úmluvy o mezinárodní železniční přepravě (COTIF), vyhlášené pod č. 8/1985 Sb.
+
+<sup>1</sup>) Opatření Českého statistického úřadu ze dne 16. června 1998 k zavedení Klasifikace kmenových oborů vzdělání, oznámené v částce 68/1998 Sb.

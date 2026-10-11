@@ -1,0 +1,98 @@
+---
+title: "Zákon č. 60/2000 Sb., o ochraně olympijských symbolik"
+identifier: "60/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/60/2000-05-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2000-02-24
+effective: 2000-05-01
+last_amended: 2000-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/60"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 60/2000 Sb., o ochraně olympijských symbolik
+
+60
+
+ZÁKON
+
+ze dne 24. února 2000
+
+o ochraně olympijských symbolik
+
+V zájmu posílení myšlenky a ducha olympijského hnutí jako prostředku mírového dorozumění a spolupráce mezi národy, úlohy mezinárodních a národních olympijských výborů jakožto řídících orgánů tohoto hnutí a k zabezpečení závazků z toho vyplývajících usnesl se Parlament na tomto zákoně České republiky:
+
+## § 1 – Předmět úpravy
+
+Tento zákon upravuje některá práva a povinnosti v souvislosti s užíváním olympijských symbolik a ochranou před jeho zneužitím; tím nejsou dotčena ustanovení jiných právních předpisů.<sup>1</sup>)
+
+## § 2 – Olympijská symbolika
+
+(1) Olympijská symbolika jsou
+
+a) olympijský symbol,
+
+b) olympijská vlajka,
+
+c) olympijské heslo,
+
+d) olympijský oheň,
+
+e) olympijská pochodeň,
+
+f) olympijská hymna,
+
+g) olympijské emblémy,
+
+h) výrazy „olympijský“ a „olympiáda“,
+
+(dále jen „olympijská symbolika“).
+
+(2) Olympijská symbolika jsou registrována podle platných právních předpisů a mezinárodních dohod na ochranu průmyslového a duševního vlastnictví, jimiž je Česká republika vázána.<sup>2</sup>)
+
+## § 3 – Užívání olympijských symbolik
+
+(1) Jakékoliv užívání olympijských symbolik pro obchodní, reklamní nebo jiné obdobné účely je možné pouze na základě předchozího písemného zmocnění; tím nejsou dotčena ustanovení části třetí zákona č. 137/1995 Sb., o ochranných známkách, ve znění pozdějších předpisů. Písemné zmocnění může udělit oprávněné osobě Český olympijský výbor.
+
+(2) Zákaz užívání podle předchozího odstavce se rovněž vztahuje na jakékoliv označení, které tvoří nebo obsahuje olympijská symbolika nebo jejich část.
+
+## § 4 – Řešení sporů
+
+Spory týkající se práv a povinností upravených tímto zákonem rozhoduje příslušný soud.<sup>3</sup>) Český olympijský výbor nebo oprávněná osoba se může rovněž domáhat náhrady škody, která byla způsobena neoprávněným užitím olympijských symbolik.
+
+## § 5 – Český olympijský výbor
+
+(1) Český olympijský výbor řídí a organizuje olympijské hnutí v rámci České republiky.
+
+(2) Český olympijský výbor je sdružením podle zvláštních předpisů.<sup>4</sup>)
+
+## § 6 – Symboly Českého olympijského výboru
+
+(1) Symboly Českého olympijského výboru jsou zejména emblém a vlajka Českého olympijského výboru. Český olympijský výbor může vytvářet i další odvozené olympijské symboly.
+
+(2) Symboly Českého olympijského výboru jsou zapsány jako ochranné známky do příslušného rejstříku podle zvláštního zákona.<sup>1</sup>)
+
+(3) Pro užívání a ochranu symbolů Českého olympijského výboru platí ustanovení § 3 a 4 tohoto zákona obdobně.
+
+## § 7 – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. května 2000.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 137/1995 Sb., o ochranných známkách, ve znění zákona č. 191/1999 Sb.
+
+<sup>2</sup>) Například vyhláška č. 65/1975 Sb., o Madridské dohodě o mezinárodním zápisu továrních nebo obchodních známek ze dne 14. dubna 1891, revidované v Bruselu dne 14. prosince 1900, ve Washingtonu dne 2. června 1911, v Haagu dne 6. listopadu 1925, v Londýně dne 2. června 1934, v Nice dne 15. června 1957 a ve Stockholmu dne 14. července 1967, ve znění vyhlášky č. 78/1985 Sb.
+
+<sup>3</sup>) § 9 odst. 3 písmeno c) písm. ee) zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Zákon č. 83/1990 Sb., o sdružování občanů, ve znění pozdějších předpisů.

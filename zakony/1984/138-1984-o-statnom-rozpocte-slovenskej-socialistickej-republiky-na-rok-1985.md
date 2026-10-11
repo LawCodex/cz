@@ -68,8 +68,8 @@ P. Colotka v. r.
 
 ### Príloha č. 2 zákona SNR č. 138/1984 Zb.
 
-#### **Súhrnný finančný vzťah (dotácie)**
+#### Súhrnný finančný vzťah (dotácie)
 
-#### **a účelové subvencie národným výborom zo štátneho rozpočtu Slovenskej socialistickej republiky na rok 1985**
+#### a účelové subvencie národným výborom zo štátneho rozpočtu Slovenskej socialistickej republiky na rok 1985
 
 <table><tbody><tr><th rowspan="2"><b></b> Kraj<b></b></th><th>Dotácie<b></b></th><th>Účelové subvencie </th></tr><tr><th colspan="2">v tis. Kčs<b></b></th></tr><tr><td>Národný výbor hlavného mesta Slovenskej socialistickej republiky Bratislavy<b></b></td><td>1 512 800<b></b></td><td>2 338 800<b></b></td></tr><tr><td>Západoslovenský krajský národný výbor<b></b></td><td>2 808 500</td><td>2 366 500<b></b></td></tr><tr><td>Stredoslovenský krajský národný výbor<b></b></td><td>4 164 100<b></b></td><td>2 668 900<b></b></td></tr><tr><td>Východoslovenský krajský národný výbor<b></b></td><td>4 451 400<b></b></td><td>2 633 000<b></b></td></tr><tr><td>Spolu<b></b></td><td>12 936 800<b></b></td><td>10 007 200<b></b></td></tr></tbody></table>

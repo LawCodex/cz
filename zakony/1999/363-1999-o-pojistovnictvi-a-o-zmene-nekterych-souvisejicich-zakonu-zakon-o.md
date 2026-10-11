@@ -1,0 +1,382 @@
+---
+title: "Zákon č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví)"
+identifier: "363/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/363/2014-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1999-12-21
+effective: 2000-04-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/363"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví) ve znění zákona č. 159/2000 Sb., zákona č. 316/2001 Sb., zákona č. 12/2002 Sb., zákona č. 126/2002 Sb., zákona č. 39/2004 Sb., zákona č. 257/2004 Sb., zákona č. 377/2005 Sb., zákona č. 381/2005 Sb., zákona č. 413/2005 Sb., zákona č. 444/2005 Sb., zákona č. 57/2006 Sb., zákona č. 70/2006 Sb., zákona č. 296/2007 Sb., zákona č. 124/2008 Sb., zákona č. 126/2008 Sb., zákona č. 137/2008 Sb., zákona č. 254/2008 Sb., zákona č. 198/2009 Sb., zákona č. 223/2009 Sb., zákona č. 278/2009 Sb. a zákona č. 89/2012 Sb."
+---
+
+# Zákon č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví)
+
+363
+
+ZÁKON
+
+ze dne 21. prosince 1999
+
+o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví)
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST TŘETÍ – Změna zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+### § 46
+
+Příloha k zákonu č. 368/1992 Sb., o správních poplatcích, ve znění zákona č. 305/1997 Sb., zákona č. 149/1998 Sb., zákona č. 157/1998 Sb., zákona č. 167/1998 Sb., zákona č. 63/1999 Sb., zákona č. 166/1999 Sb., zákona č. 167/1999 Sb., zákona č. 223/1999 Sb., zákona č. 326/1999 Sb., zákona č. 352/1999 Sb., zákona č. 357/1999 Sb. a zákona č. 360/1999 Sb., se mění takto:
+
+V položce 64 písmena a) a b) znějí:
+
+> <table><tbody><tr><td colspan="2">„a) podání žádosti o udělení povolení k provozování pojišťovací <br> nebo zajišťovací činnosti</td><td>Kč</td><td>50 000,-</td></tr></tbody></table>
+
+> b) podání žádosti
+
+> <table><tbody><tr><td colspan="2">– o registraci zprostředkovatele pojištění jako pojišťovacího nebo zajišťovacího makléře</td><td>Kč</td><td>20 000,-</td></tr></tbody></table>
+
+> <table><tbody><tr><td colspan="2">– o udělení souhlasu s nabytím účasti v pojišťovně</td><td>Kč</td><td>20 000,-</td></tr></tbody></table>
+
+> <table><tbody><tr><td colspan="2">– o schválení převodu pojistného kmene pojišťovny</td><td>Kč</td><td>20 000,-</td></tr></tbody></table>
+
+> <table><tbody><tr><td colspan="2">– o schválení záměru sloučení, splynutí, rozdělení nebo přeměny pojišťovny nebo zajišťovny, nejedná-li se o rozdělení pojišťovny provozující souběžně životní a neživotní pojištění</td><td>Kč</td><td>20 000,-</td></tr></tbody></table>
+
+> <table><tbody><tr><td colspan="2">– o schválení všeobecných pojistných podmínek nebo jejich změny</td><td>Kč</td><td>20 000,-“.</td></tr></tbody></table>
+
+### § 47
+
+Pro poplatky splatné přede dnem účinnosti tohoto zákona platí dosavadní předpisy.
+
+## ČÁST ČTVRTÁ – Změna zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně některých souvisejících zákonů, ve znění pozdějších předpisů
+
+### § 48
+
+V § 61 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně některých souvisejících zákonů, ve znění zákona č. 242/1997 Sb., zákona č. 2/1998 Sb. a zákona č. 127/1998 Sb., se slova „31. prosince 1999“ nahrazují slovy „31. prosince 2000“.
+
+## ČÁST PÁTÁ – Změna zákona č. 593/1992 Sb., o rezervách pro zjištění základu daně z příjmů, ve znění pozdějších předpisů
+
+### § 49
+
+Zákon č. 593/1992 Sb., o rezervách pro zjištění základu daně z příjmů, ve znění zákona č. 157/1993 Sb., zákona č. 323/1993 Sb., zákona č. 244/1994 Sb., zákona č. 132/1995 Sb., zákona č. 211/1997 Sb. a zákona č. 333/1998 Sb., se mění takto:
+
+1\. V § 6 se slova „pojistné jiných období<sup>9</sup>)“ nahrazují slovy „nezasloužené pojistné<sup>9</sup>)“.
+
+Poznámka pod čarou č. 8) se zrušuje a poznámky pod čarou č. 9) a 11) znějí:
+
+> „<sup>9</sup>) § 13 odst. 2 písm. a) a § 13 odst. 3 písm. a) zákona č. 363/1999 Sb.
+
+> <sup>11</sup>) § 13 odst. 2 zákona č. 363/1999 Sb.“.
+
+2\. V § 6 písmeno a) včetně poznámek pod čarou č. 7) a 10) zní:
+
+> „a) rezerv na neživotní pojištění<sup>10</sup>) ve výši, která nesmí překročit objem závazků vypočtený metodami stanovenými zvláštním právním předpisem,<sup>7</sup>)
+
+> <sup>7</sup>) Zákon č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví).
+
+> <sup>10</sup>) § 13 odst. 3 zákona č. 363/1999 Sb.“.
+
+## ČÁST ŠESTÁ – Změna zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů
+
+### § 50
+
+V § 3 odst. 3 písm. a) zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění zákona č. 231/1992 Sb., zákona č. 591/1992 Sb., zákona č. 273/1993 Sb., zákona č. 303/1993 Sb., zákona č. 38/1994 Sb., zákona č. 42/1994 Sb., zákona č. 136/1994 Sb., zákona č. 200/1994 Sb., zákona č. 237/1995 Sb., zákona č. 286/1995 Sb., zákona č. 94/1996 Sb., zákona č. 95/1996 Sb., zákona č. 147/1996 Sb., zákona č. 19/1997 Sb., zákona č. 49/1997 Sb., zákona č. 61/1997 Sb., zákona č. 79/1997 Sb., zákona č. 217/1997 Sb., zákona č. 280/1997 Sb., zákona č. 15/1998 Sb., zákona č. 83/1998 Sb., zákona č. 157/1998 Sb., zákona č. 167/1998 Sb., zákona č. 159/1999 Sb., zákona č. 356/1999 Sb. a zákona č. 358/1999 Sb., se za slova „pojišťoven“ doplňují slova „zajišťoven, pojišťovacích agentů, pojišťovacích a zajišťovacích makléřů a odpovědných pojistných matematiků,<sup>12</sup>)“.
+
+Poznámka pod čarou č. 12) zní:
+
+> „<sup>12</sup>) Zákon č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví).“.
+
+## ČÁST SEDMÁ – ÚČINNOST
+
+### § 51
+
+Tento zákon nabývá účinnosti dnem 1. dubna 2000, kromě ustanovení § 48, které nabývá účinnosti dnem 31. prosince 1999.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.
+
+### Příloha č. 1 k zákonu č. 363/1999 Sb.
+
+**Odvětví a skupiny pojištění**
+
+#### Část A – Odvětví životních pojištění
+
+1\. Pojištění pouze pro případ smrti, pojištění pouze pro případ dožití, pojištění pro případ dožití se stanoveného věku nebo dřívější smrti, pojištění spojených životů, životní pojištění s vrácením pojistného.
+
+2\. Svatební pojištění nebo pojištění prostředků na výživu dětí.
+
+3\. Důchodové pojištění.
+
+4\. Pojištění podle bodů 1 až 3 spojené s investičním fondem.
+
+5\. Kapitálové činnosti
+
+a) umořování kapitálu založené na pojistně matematickém výpočtu, jimiž jsou proti jednorázovým nebo periodickým platbám dohodnutým předem přijaty závazky se stanovenou dobou trvání a ve stanovené výši,
+
+b) správa skupinových penzijních fondů,
+
+c) činnosti doprovázené pojištěním zabezpečujícím zachování kapitálu nebo platbu minimálního úroku,
+
+d) pojištění týkající se délky lidského života, které je upraveno právními předpisy z oblasti sociálního pojištění, pokud zákon umožňuje jeho provádění pojišťovnou na její vlastní riziko.
+
+6\. Pojištění pro případ úrazu nebo nemoci, je-li doplňkem pojištění podle odvětví 1 až 5.
+
+#### Část B – Odvětví neživotních pojištění
+
+1\. Úrazové pojištění
+
+a) s jednorázovým plněním,
+
+b) s plněním povahy náhrady škody,
+
+c) s kombinovaným plněním,
+
+d) cestujících.
+
+2\. Pojištění nemoci
+
+a) s jednorázovým plněním,
+
+b) s plněním povahy náhrady škody,
+
+c) s kombinovaným plněním,
+
+d) smluvní zdravotní pojištění.
+
+3\. Pojištění škod na pozemních dopravních prostředcích jiných než drážních vozidlech
+
+a) motorových,
+
+b) nemotorových.
+
+4\. Pojištění škod na drážních vozidlech.
+
+5\. Pojištění škod na leteckých dopravních prostředcích.
+
+6\. Pojištění škod na plavidlech
+
+a) vnitrozemských,
+
+b) námořních.
+
+7\. Pojištění přepravovaných věcí včetně zavazadel a jiného majetku bez ohledu na použitý dopravní prostředek.
+
+8\. Pojištění škod na majetku jiném než uvedeném v bodech 3 až 7 způsobených
+
+a) požárem,
+
+b) výbuchem,
+
+c) vichřicí,
+
+d) přírodními živly jinými než vichřicí (např. blesk, povodně, záplavy),
+
+e) jadernou energií,
+
+f) sesuvem nebo poklesem půdy.
+
+9\. Pojištění jiných škod na majetku jiném než uvedeném v bodech 3 až 7 vzniklých krupobitím nebo mrazem anebo jinými příčinami (např. loupeží, krádeží nebo škody způsobené lesní zvěří), nejsou-li tyto příčiny zahrnuty v odvětví č. 8, včetně pojištění škod na hospodářských zvířatech způsobených nákazou nebo jinými příčinami.
+
+10\. Pojištění odpovědnosti za škodu vyplývající
+
+a) z provozu pozemního motorového a jeho přípojného vozidla,
+
+b) z provozu drážního vozidla,
+
+c) z činnosti dopravce.
+
+11\. Pojištění odpovědnosti za škodu vyplývající z vlastnictví nebo užití leteckého dopravního prostředku, včetně odpovědnosti dopravce.
+
+12\. Pojištění odpovědnosti za škodu vyplývající z vlastnictví nebo užití vnitrozemského nebo námořního plavidla, včetně odpovědnosti dopravce.
+
+13\. Všeobecné pojištění odpovědnosti za škodu jinou než uvedenou v odvětvích č. 10 až 12,
+
+a) odpovědnost za škodu na životním prostředí,
+
+b) odpovědnost za škodu způsobenou jaderným zařízením,
+
+c) odpovědnost za škodu způsobenou vadou výrobku,
+
+d) ostatní.
+
+14\. Pojištění úvěru
+
+a) obecná platební neschopnost,
+
+b) vývozní úvěr,
+
+c) splátkový úvěr,
+
+d) hypoteční úvěr,
+
+e) zemědělský úvěr.
+
+15\. Pojištění záruky (kauce)
+
+a) přímé záruky,
+
+b) nepřímé záruky.
+
+16\. Pojištění různých finančních ztrát vyplývajících
+
+a) z výkonu povolání,
+
+b) z nedostatečného příjmu,
+
+c) ze špatných povětrnostních podmínek,
+
+d) ze ztráty zisku,
+
+e) ze stálých nákladů,
+
+f) z nepředvídaných obchodních výdajů,
+
+g) ze ztráty tržní hodnoty,
+
+h) ze ztráty pravidelného zdroje příjmu,
+
+i) z jiné nepřímé obchodní finanční ztráty,
+
+j) z ostatních finančních ztrát.
+
+17\. Pojištění právní ochrany.
+
+18\. Pojištění pomoci osobám v nouzi během cestování nebo pobytu mimo místa svého bydliště, včetně pojištění finančních ztrát bezprostředně souvisejících s cestováním (asistenční služby).
+
+#### Část C – Skupiny neživotních pojištění
+
+a) „Pojištění úrazu a nemoci“ pro odvětví č. 1 a 2,
+
+b) „Pojištění motorových vozidel“ pro odvětví č. 3, 7 a 10,
+
+c) „Pojištění požáru a jiných majetkových škod“ pro odvětví č. 8 a 9,
+
+d) „Letecké pojištění, pojištění vnitrozemské plavby a námořní pojištění a pojištění přepravovaných věcí“ pro odvětví č. 4, 5, 6, 7, 11 a 12,
+
+e) „Pojištění odpovědnosti za škodu“ pro odvětví č. 10, 11, 12 a 13,
+
+f) „Pojištění úvěru a záruky“ pro odvětví č. 14 a 15,
+
+g) „Pojištění jiných ztrát“ pro odvětví č. 16, 17 a 18.
+
+### Příloha č. 2 k zákonu č. 363/1999 Sb.
+
+#### Rozdělení pojistných odvětví pro výkaznictví pojišťoven podle § 26 odst. 4
+
+I. Pojištění uvedená v části A přílohy č. 1, s výjimkou pojištění uvedených v bodech II., III., VI. a VII.
+
+II. Pojištění uvedená v části A bodu 2 přílohy č. 1.
+
+III. Pojištění uvedené v části A bodu 4 přílohy č. 1.
+
+IV. Trvalé zdravotní pojištění.
+
+V. Tontiny.
+
+VI. Činnosti uvedené v části A bodu 5 písm. a) přílohy č. 1.
+
+VII. Správa skupinových penzijních fondů uvedená v části A bodu 5 písm. b) přílohy č. 1.
+
+VIII. Činnosti uskutečňované pojišťovnami uvedené v Kapitole 1, Hlavě 4, Knize IV francouzského „Code des Assurances“.
+
+IX. Pojištění týkající se délky lidského života, které je upraveno právními předpisy sociálního pojištění, pokud je prováděno nebo řízeno pojišťovnou na její vlastní riziko v souladu s právní úpravou členského státu.
+
+X. Úrazové pojištění a pojištění v případě nemoci uvedené v části B bodech 1 a 2 přílohy č. 1.
+
+XI. Pojištění s vazbou na motorová vozidla uvedená v části B bodech 3, 7 a 10 přílohy č. 1.
+
+XII. Pojištění proti požáru a jiným majetkovým škodám uvedená v části B bodech 8 a 9 přílohy č. 1.
+
+XIII. Pojištění škod na drážních vozidlech, letecké, námořní a dopravní pojištění uvedená v části B bodech 4, 5, 6, 7, 11 a 12 přílohy č. 1.
+
+XIV. Všeobecné pojištění odpovědnosti za škodu uvedené v části B bodu 13 přílohy č. 1.
+
+XV. Pojištění úvěru a pojištění záruky uvedená v části B bodech 14 a 15 přílohy č. 1.
+
+XVI. Ostatní pojištění uvedená v části B bodech 16, 17 a 18 přílohy č. 1.
+
+---
+
+<sup>1</sup>) První směrnice Rady 73/239/EHS ze dne 24. července 1973 o koordinaci právních a správních předpisů týkajících se přístupu k podnikatelské činnosti v přímém jiném než životním pojištění a jejího výkonu, ve znění směrnice Rady 76/580/EHS, směrnice Rady 84/641/EHS, směrnice Rady 87/343/EHS, směrnice Rady 87/344/EHS, směrnice Rady 88/357/EHS, směrnice Rady 90/357/EHS, směrnice Rady 90/618/EHS, směrnice Rady 92/49/EHS, směrnice Evropského parlamentu a Rady 95/26/ES, směrnice Evropského parlamentu a Rady 2000/26/ES a směrnice Evropského parlamentu a Rady 2002/13/ES. 
+ Směrnice Rady 78/473/EHS ze dne 30. května 1978 o koordinaci právních a správních předpisů týkajících se soupojištění v rámci Společenství. 
+ Směrnice Rady 87/344/EHS ze dne 22. června 1987 o koordinaci právních a správních předpisů týkajících se pojištění právní ochrany. 
+ Druhá směrnice Rady 88/357/EHS ze dne 22. června 1988 o koordinaci právních a správních předpisů týkajících se přímého jiného než životního pojištění, kterou se stanoví opatření k usnadnění účinného výkonu volného pohybu služeb a kterou se mění směrnice Rady 73/23/EHS, ve znění směrnice Rady 90/618/EHS, směrnice Rady 92/42/EHS a směrnice Evropského parlamentu a Rady 2000/26/ES. 
+ Směrnice Rady 92/49/EHS ze dne 18. června 1992 o koordinaci právních a správních předpisů týkajících se přímého jiného než životního pojištění a o změně směrnic 73/239/EHS a 88/357/EHS (třetí směrnice o neživotním pojištění), ve znění směrnice Evropského parlamentu a Rady 95/26/ES a směrnice Evropského parlamentu a Rady 2000/64/ES. 
+ Směrnice Evropského parlamentu a Rady 98/78/ES ze dne 27. října 1998 o doplňkovém dozoru nad pojišťovnami v pojišťovací skupině. 
+ Směrnice Evropského parlamentu a Rady 2001/17/ES ze dne 19. března 2001 o restrukturalizaci a likvidaci pojišťoven. 
+ Směrnice Evropského parlamentu a Rady 2002/83/ES ze dne 5. listopadu 2002 týkající se životního pojištění.
+
+<sup>1a</sup>) Zákon č. 54/1956 Sb., o nemocenském pojištění zaměstnanců, ve znění pozdějších předpisů. 
+ Zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů. 
+ Zákon č. 100/1988 Sb., o sociálním zabezpečení, ve znění pozdějších předpisů. 
+ Zákon č. 42/1994 Sb., o penzijním připojištění se státním příspěvkem a o změnách některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů. 
+ Zákon č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>2</sup>) § 788 odst. 1 občanského zákoníku.
+
+<sup>2a</sup>) Zákon č. 38/2004 Sb., o pojišťovacích zprostředkovatelích a samostatných likvidátorech pojistných událostí a o změně živnostenského zákona (zákon o pojišťovacích zprostředkovatelích a likvidátorech pojistných událostí).
+
+<sup>2b</sup>) § 9b zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 137/2008 Sb.
+
+<sup>2c</sup>) § 9a zákona č. 168/1999 Sb.,ve znění zákona č. 137/2008 Sb.
+
+<sup>2d</sup>) Například zákon č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění pozdějších předpisů, zákon č. 42/1994 Sb., ve znění pozdějších předpisů, zákon č. 38/2004 Sb., o pojišťovacích zprostředkovatelích a samostatných likvidátorech pojistných událostí a o změně živnostenského zákona (zákon o pojišťovacích zprostředkovatelích a likvidátorech pojistných událostí).
+
+<sup>3</sup>) Zákon č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů.
+
+<sup>3a</sup>) § 31a zákona č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů.
+
+<sup>6</sup>) § 66a odst. 1 obchodního zákoníku.
+
+<sup>6a</sup>) § 18 odst. 6 zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění pozdějších předpisů.
+
+<sup>7</sup>) § 797 odst. 3 občanského zákoníku.
+
+<sup>8</sup>) § 66a a 66b obchodního zákoníku.
+
+<sup>8a</sup>) § 66r zákona č. 328/1991 Sb., o konkursu a vyrovnání, ve znění zákona č. 377/2005 Sb. 
+ § 11d odst. 10 zákona č. 97/1963 Sb., o mezinárodním právu soukromém a procesním, ve znění zákona č. 377/2005 Sb.
+
+<sup>9</sup>) Zákon č. 377/2005 Sb., o doplňkovém dozoru nad bankami, spořitelními a úvěrními družstvy, institucemi elektronických peněz, pojišťovnami a obchodníky s cennými papíry ve finančních konglomerátech a o změně některých dalších zákonů (zákon o finančních konglomerátech).
+
+<sup>10</sup>) International Actuarial Association se sídlem v Kanadě.
+
+<sup>11</sup>) Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.
+
+<sup>11a</sup>) § 2 písm. f) zákona č. 377/2005 Sb.
+
+<sup>11b</sup>) § 24 zákona č. 377/2005 Sb.
+
+<sup>12</sup>) Zákon č. 254/2000 Sb., o auditorech a o změně zákona č. 165/1998 Sb., ve znění zákona č. 209/2002 Sb.
+
+<sup>12a</sup>) § 16 odst. 3 zákona č. 37/2004 Sb., o pojistné smlouvě a o změně souvisejících zákonů (zákon o pojistné smlouvě). 
+ § 9 odst. 3 zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 47/2004 Sb.
+
+<sup>12b</sup>) § 24a a 24b zákona č. 168/1999 Sb., ve znění zákona č. 47/2004 Sb.
+
+<sup>12c</sup>) Obchodní zákoník.
+
+<sup>12d</sup>) Zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění zákona č. 635/2004 Sb.
+
+<sup>12e</sup>) § 24a a 24b zákona č. 168/1999 Sb., ve znění zákona č. 47/2004 Sb. a zákona č. 137/2008 Sb.
+
+<sup>12f</sup>) Zákon č. 38/2004 Sb., o pojišťovacích zprostředkovatelích a samostatných likvidátorech pojistných událostí a o změně živnostenského zákona (zákon o pojišťovacích zprostředkovatelích a likvidátorech pojistných událostí).
+
+<sup>12g</sup>) § 24a a 24b zákona č. 168/1999 Sb.
+
+<sup>12h</sup>) Zákon č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.
+
+<sup>13a</sup>) Zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů.
+
+<sup>13b</sup>) Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.
+
+<sup>14</sup>) § 23 odst. 1 zákona č. 71/1967 Sb., o správním řízení (správní řád), ve znění pozdějších předpisů.
+
+<sup>15a</sup>) § 2 odst. 5 zákona č. 12/2002 Sb., o státní pomoci při obnově území postiženého živelní nebo jinou pohromou a o změně zákona č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví), ve znění pozdějších předpisů, (zákon o státní pomoci při obnově území).

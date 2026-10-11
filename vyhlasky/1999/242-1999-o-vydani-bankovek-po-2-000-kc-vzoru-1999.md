@@ -1,0 +1,62 @@
+---
+title: "Vyhláška České národní banky č. 242/1999 Sb., o vydání bankovek po 2 000 Kč vzoru 1999"
+identifier: "242/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/242/1999-11-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1999-10-22
+effective: 1999-11-15
+last_amended: 1999-11-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/242"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 242/1999 Sb., o vydání bankovek po 2 000 Kč vzoru 1999
+
+242
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 22. října 1999
+
+o vydání bankovek po 2 000 Kč vzoru 1999
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+Dnem 1. prosince 1999 se vydávají do oběhu bankovky po 2 000 Kč vzoru 1999 (dále jen „bankovka vzoru 1999“).
+
+## § 2
+
+(1) Bankovka vzoru 1999 má stejné rozměry včetně přípustné tolerance jako bankovka po 2 000 Kč vzoru 1996<sup>1</sup>) (dále jen „bankovka vzoru 1996“). Pro bankovku vzoru 1999 je použit papír stejné kvality a zabarvení, s ochranným okénkovým proužkem a vodoznakem stejným jako u bankovky vzoru 1996.
+
+(2) Bankovkový papír použitý pro tisk bankovek vzoru 1999 je opatřen viditelnými oranžovými ochrannými vlákny o délce 6 mm.
+
+(3) Bankovkový papír u bankovky vzoru 1999 je rovněž opatřen ochranným iridiscentním pruhem o šířce 20 mm s povolenou tolerancí 0,5 mm, umístěným na lícní straně ve vzdálenosti 130 mm od levého kraje bankovky s tolerancí posunu 3 mm. Ochranný iridiscentní pruh je průhledný, slabě stříbřitě zbarvený a při určitém úhlu dopadu světla získává zlaté zabarvení s kovovým leskem. Při pravém okraji ochranného iridiscentního pruhu jsou shora dolů negativně vyznačena čísla „2 000“.
+
+(4) Ochranná soutisková značka u bankovek vzoru 1999 má v průhledu proti světlu podobu písmen „ČR“, umístěných v bílé kruhové ploše. Část ochranné soutiskové značky viditelná na lícní straně je vytištěna v barvě fialové, část ochranné soutiskové značky viditelná na rubové straně je vytištěna v barvě olivově zelené.
+
+## § 3
+
+(1) Na líci i na rubu bankovky vzoru 1999 jsou vyobrazení a texty stejné jako u bankovky vzoru 1996. Pro jejich vytištění se s výjimkou letopočtu používají stejné tiskové techniky jako u bankovky vzoru 1996.
+
+(2) Letopočet vydání bankovky na lícní straně je vytištěn tiskem z plochy v barvě šedozelené a je vyznačen číslem „1999“.
+
+## § 4
+
+Tato vyhláška nabývá účinnosti dnem 15. listopadu 1999.
+
+Guvernér:
+
+v z. Ing. Dědek, CSc. v. r.
+
+viceguvernér
+
+---
+
+<sup>1</sup>) Vyhláška č. 226/1996 Sb., o vydání bankovek po 2 000 Kč.

@@ -1,0 +1,69 @@
+---
+title: "Vyhláška Ministerstva spravedlnosti České republiky č. 44/1992 Sb., o náhradách za vykonávání funkce přísedícího"
+identifier: "44/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/44/2025-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1992-01-07
+effective: 1992-01-28
+last_amended: 2025-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/44"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva spravedlnosti České republiky č. 44/1992 Sb., o náhradách za vykonávání funkce přísedícího ve znění vyhlášky č. 313/1995 Sb. a vyhlášky č. 402/2024 Sb."
+---
+
+# Vyhláška Ministerstva spravedlnosti České republiky č. 44/1992 Sb., o náhradách za vykonávání funkce přísedícího
+
+44
+
+VYHLÁŠKA
+
+ministerstva spravedlnosti České republiky
+
+ze dne 7. ledna 1992,
+
+o náhradách za vykonávání funkce přísedícího
+
+Ministerstvo spravedlnosti stanoví podle § 93 odst. 2 až 4 zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění zákona č. 218/2021 Sb.:
+
+**Náhrada ušlého výdělku**
+
+## § 1
+
+Přísedícím, kteří nejsou v pracovním poměru ani v poměru obdobném pracovnímu poměru, jsou však výdělečně činní, přísluší náhrada ušlého výdělku za dobu výkonu funkce přísedícího nebo jiných povinností spojených s touto funkcí v jimi prokázané výši, nejvýše však v částce odpovídající trojnásobku hodinové minimální mzdy nebo dvacetičtyřnásobku hodinové minimální mzdy za jeden den.
+
+## § 2
+
+(1) Základem pro výpočet náhrady ušlého výdělku přísedících uvedených v § 1 je základ daně z příjmů fyzických osob.
+
+(2) Přísedícímu uvedenému v § 1 náleží za 1 hodinu náhrada ušlého výdělku, vypočtená dělením základu podle odstavce 1 počtem pracovních hodin, připadajících na kalendářní rok, kterou zákoník práce stanoví jako nejvyšší rozsah stanovené pracovní doby zaměstnanců pracujících v jednosměnném pracovním režimu.
+
+(3) Pro výpočet náhrady ušlého výdělku podle odstavce 1 se použije částka základu daně, podle které je určena poslední známá daň přísedícího za poslední zdaňovací období, které skončilo přede dnem vzniku nároku na náhradu ušlého výdělku a za které již byla daň stanovena.
+
+## § 3
+
+Nemohou-li přísedící uvedení v § 1 prokázat výši ušlého výdělku způsobem stanoveným v § 2, přísluší jim náhrada ušlého výdělku v částce odpovídající výši hodinové minimální mzdy, nejvýše však osminásobku hodinové minimální mzdy za jeden den.
+
+## § 4 – Náhrada hotových výdajů
+
+Hotové výdaje, které vzniknou vykonáváním funkce přísedícího nebo jiných povinností spojených s touto funkcí, se nahrazují za podmínek, v rozsahu a ve výši stanovené podle právních předpisů upravujících cestovní náhrady.
+
+## § 5 – Paušální náhrada za výkon funkce přísedícího
+
+Přísedícím přísluší za každý den jednání paušální náhrada za výkon jejich funkce ve výši 500 Kč.
+
+**Ustanovení závěrečné**
+
+## § 6
+
+Zrušuje se vyhláška ministra spravedlnosti České socialistické republiky č. 14/1970 Sb., o náhradách příslušejícím soudcům z lidu.
+
+## § 7
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+JUDr. Richter v. r.

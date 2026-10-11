@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 308/2001 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Jaroslava Seiferta"
+identifier: "308/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/308/2001-09-19"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2001-08-15
+effective: 2001-09-19
+last_amended: 2001-09-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/308"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 308/2001 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Jaroslava Seiferta
+
+308
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 15. srpna 2001
+
+o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Jaroslava Seiferta
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Ke 100. výročí narození básníka a nositele Nobelovy ceny za literaturu Jaroslava Seiferta se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,40 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je umělecká kompozice stylizovaných heraldických zvířat z velkého státního znaku České republiky. Název státu „ČESKÁ REPUBLIKA“ je v neuzavřeném opisu při levém, horním a pravém okraji dvousetkoruny. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je v neuzavřeném opisu při spodním okraji dvousetkoruny a od názvu státu je odděleno tečkami. Značka mincovny, která dvousetkorunu razila, je umístěna ve spodní části mincovního pole nad označením nominální hodnoty mince a pod nohama slezské orlice a českého lva.
+
+(2) Na rubu dvousetkoruny je v levé polovině mincovního pole umístěn portrét Jaroslava Seiferta. Do spodní části portrétu zasahují letopočty „1901“ a „2001“ umístěné ve dvou řádcích nad sebou při levém okraji dvousetkoruny. Při pravém okraji dvousetkoruny je neuzavřený opis „SEIFERT JAROSLAV“. Autorem návrhu dvousetkoruny je akademický sochař Ladislav Kozák. Iniciály jeho jména „L•K“ jsou umístěny pod letopočty.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 19. září 2001.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### ![sbcr2001c117z0308o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/820455/NAHLED/ZOBRAZ/sbcr2001c117z0308o001)
+
+### ![sbcr2001c117z0308o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/820457/NAHLED/ZOBRAZ/sbcr2001c117z0308o002)

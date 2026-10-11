@@ -1,0 +1,44 @@
+---
+title: "Zákon České národní rady č. 19/1992 Sb., o některých opatřeních týkajících se působnosti ministerstev České republiky"
+identifier: "19/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/19/1992-01-16"
+type: act
+jurisdiction: cz
+language: cs
+date: 1991-12-16
+effective: 1992-01-16
+last_amended: 1992-01-16
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/19"
+retrieved: 2026-10-11
+---
+
+# Zákon České národní rady č. 19/1992 Sb., o některých opatřeních týkajících se působnosti ministerstev České republiky
+
+19
+
+ZÁKON
+
+České národní rady
+
+ze dne 16. prosince 1991
+
+o některých opatřeních týkajících se působnosti ministerstev České republiky
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## Čl. I
+
+Zákon České národní rady č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České socialistické republiky, ve znění zákona České národní rady č. 34/1970 Sb., zákona České národní rady č. 60/1988 Sb., zákona České národní rady č. 173/1989 Sb., zákonného opatření předsednictva České národní rady č. 9/1990 Sb., zákona České národní rady č. 93/1990 Sb., zákona České národní rady č. 126/1990 Sb., zákona České národní rady č. 203/1990 Sb., zákona České národní rady č. 288/1990 Sb., zákonného opatření předsednictva České národní rady č. 305/1990 Sb., zákona České národní rady č. 575/1990 Sb., zákona České národní rady č. 173/1991 Sb. a zákona České národní rady č. 283/1991 Sb., se doplňuje takto:
+
+§ 12 se doplňuje odstavcem 4, který zní:
+
+> „(4) Ministerstvo vnitra provádí kontrolu ochrany státního, hospodářského a služebního tajemství ve státních orgánech a organizacích České republiky.“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Burešová v. r.
+
+Pithart v. r.

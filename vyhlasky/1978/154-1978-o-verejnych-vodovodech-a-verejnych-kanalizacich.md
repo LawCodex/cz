@@ -27,7 +27,7 @@ o veřejných vodovodech a veřejných kanalizacích
 
 Ministerstvo lesního a vodního hospodářství Slovenské socialistické republiky, pokud jde o část šestou vyhlášky, v dohodě s Federálním cenovým úřadem, stanoví podle § 24 odst. 6 a § 30 odst. 4 zákona č. 138/1973 Sb., o vodách (vodní zákon):
 
-## Část první – **Všeobecná ustanovení**
+## Část první – Všeobecná ustanovení
 
 ### § 1
 
@@ -75,7 +75,7 @@ a) samostatné kanalizace k odvádění odpadních a srážkových vod z jednotl
 
 b) kanalizační přečerpávací stanice umístěné na nemovitostech připojených na veřejnou kanalizaci, vybudované pro skupiny objektů, které pro odvádění odpadních vod vyžadují výstavbu vlastní stokové sítě, popřípadě vybudované pro jednotlivé nemovitosti.
 
-## Část druhá – **Správa veřejných vodovodů a veřejných kanalizací**
+## Část druhá – Správa veřejných vodovodů a veřejných kanalizací
 
 ### § 3
 
@@ -439,7 +439,7 @@ zjišťuje se množství vypouštěné odpadní vody technickým výpočtem, př
 
 (2) Má-li být odběrateli účtováno vodné a stočné podle různých cen za 1 m<sup>3</sup>, je odběratel povinen dodavateli každoročně písemně nejpozději do 20. prosince oznámit rozdělení odebrané vody podle těchto cen. Nového oznámení není třeba, jestliže proti údajům oznámeným odběratelem v posledním oznámení nenastaly změny. Odběratel je povinen bez zbytečného odkladu oznámit též každou podstatnou změnu v rozdělení odběru vody podle cen (sazeb), k níž dojde během roku. Dodavatel přihlíží k oznámené změně při první fakturaci vodného a stočného po oznámení; je oprávněn oznámení přezkoušet a při fakturacích vycházet z výsledků přezkoušení.
 
-## Část sedmá – **Společná, zrušovací a závěrečná ustanovení**
+## Část sedmá – Společná, zrušovací a závěrečná ustanovení
 
 ### § 39
 

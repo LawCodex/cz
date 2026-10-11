@@ -1,0 +1,496 @@
+---
+title: "Zákon č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů"
+identifier: "242/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/242/2022-10-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2000-06-29
+effective: 2001-01-01
+last_amended: 2022-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/242"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů ve znění zákona č. 320/2002 Sb., zákona č. 444/2005 Sb., zákona č. 553/2005 Sb., zákona č. 227/2009 Sb., zákona č. 281/2009 Sb., zákona č. 344/2011 Sb., zákona č. 183/2017 Sb. a zákona č. 247/2022 Sb."
+---
+
+# Zákon č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+242
+
+ZÁKON
+
+ze dne 29. června 2000
+
+o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – EKOLOGICKÉ ZEMĚDĚLSTVÍ
+
+### HLAVA I – OBECNÁ USTANOVENÍ
+
+#### § 1 – Předmět úpravy
+
+Tento zákon upravuje v návaznosti na přímo použitelný předpis Evropské unie<sup>1</sup>) podmínky hospodaření v ekologickém zemědělství a k němu se vztahující certifikaci a označování bioproduktů, biopotravin a ostatních bioproduktů, a dále výkon kontroly a dozoru nad dodržováním povinností s tím spojených.
+
+#### § 2
+
+Ministerstvo zemědělství (dále jen „ministerstvo“) je příslušným orgánem a vykonává úkoly svěřené členskému státu podle přímo použitelných předpisů Evropské unie upravujících ekologickou produkci a označování ekologických produktů<sup>1</sup>).
+
+#### § 3 – Vymezení pojmů
+
+(1) V tomto zákoně se rozumí
+
+a) bioproduktem surovina rostlinného nebo živočišného původu, hospodářské zvíře podle veterinárního zákona<sup>2</sup>) nebo osivo a další rozmnožovací materiál rostlin získané v ekologickém zemědělství podle přímo použitelných předpisů Evropské unie<sup>3</sup>),
+
+b) biopotravinou potravina vyrobená za podmínek uvedených v tomto zákoně a přímo použitelných předpisech Evropské unie<sup>4</sup>), splňující požadavky na jakost a zdravotní nezávadnost stanovené zvláštními právními předpisy<sup>5</sup>),
+
+c) ostatním bioproduktem ekologické krmivo<sup>6</sup>),
+
+d) ekologickým zemědělcem fyzická nebo právnická osoba, která je evidována podle zvláštního právního předpisu<sup>8</sup>) a registrována podle tohoto zákona, a hospodaří na ekofarmě,
+
+e) osobou podnikající v ekologickém zemědělství ekologický zemědělec, výrobce biopotravin<sup>9</sup>), osoba uvádějící biopotraviny nebo bioprodukty na trh<sup>9</sup>), výrobce nebo dodavatel ekologických krmiv<sup>6</sup>) nebo dodavatel ekologického rozmnožovacího materiálu rostlin,
+
+f) ekologickým chovatelem včel osoba, která není ekologickým zemědělcem, chová včely v ekologickém zemědělství a je registrována v souladu s tímto zákonem,
+
+g) ekofarmou uzavřená hospodářská jednotka zahrnující pozemky včetně vodních ploch, hospodářské budovy, provozní zařízení a popřípadě i hospodářská zvířata uvedená v § 4 odst. 1, sloužící ekologickému zemědělství.
+
+(2) Kde se v přímo použitelném předpisu Evropské unie<sup>1</sup>) používá pojmu hospodářský subjekt, rozumí se jím pro účely tohoto zákona osoba podnikající v ekologickém zemědělství.
+
+#### § 4
+
+(1) V ekologickém zemědělství je možné chovat pouze ty druhy hospodářských zvířat,<sup>2</sup>) které stanoví prováděcí právní předpis.
+
+(2) Druhy hospodářských zvířat neuvedené v odstavci 1 lze na ekofarmě chovat pouze jako zájmové chovy, které nejsou předmětem podnikání v ekologickém zemědělství. Pokud je chov takových zvířat předmětem podnikání, nesmí být součástí ekofarmy.
+
+(3) Ustanovení tohoto zákona o ekologickém zemědělci se přiměřeně použijí i na ekologického chovatele včel.
+
+### HLAVA II – EKOLOGICKÉ ZEMĚDĚLSTVÍ
+
+##### § 6 – Registrace osob podnikajících v ekologickém zemědělství
+
+(1) Osoba, která hodlá podnikat v ekologickém zemědělství (dále jen „žadatel“), podá v souladu s přímo použitelnými předpisy Evropské unie<sup>10</sup>) ministerstvu žádost o registraci; pro žadatele začíná období přechodu na ekologickou produkci<sup>60</sup>) dnem, kdy byla jeho žádost o registraci doručena ministerstvu.
+
+(2) Povinnost stanovená podle odstavce 1 se nevztahuje na
+
+a) osoby podle čl. 34 odst. 2 nařízení Evropského parlamentu a Rady (EU) 2018/848 a
+
+b) osoby, které poskytují v ekologickém zemědělství své služby přeshraničně<sup>61</sup>).
+
+(3) Žadatel je povinen uzavřít s osobou pověřenou vydávat certifikát podle čl. 35 nařízení Evropského parlamentu a Rady (EU) 2018/848, vybranou ministerstvem podle § 29 (dále jen „pověřená osoba“) smlouvu o kontrolní činnosti podle zvláštního právního předpisu<sup>11</sup>).
+
+(4) V žádosti o registraci žadatel uvádí
+
+a) je-li fyzickou osobou, jméno, popřípadě jména a příjmení, státní občanství, adresu místa trvalého pobytu, jinak adresu určenou pro doručování, a to zpravidla v místě pobytu fyzické osoby na území České republiky nebo v místě podnikání (název obce, její části, název ulice, číslo popisné a orientační, bylo-li přiděleno, poštovní směrovací číslo), rodné číslo, bylo-li přiděleno, nebo datum narození a identifikační číslo osoby, bylo-li přiděleno, registrační číslo hospodářství, bylo-li přiděleno<sup>62</sup>), a cizinec rovněž adresu bydliště mimo území České republiky,
+
+b) je-li právnickou osobou, obchodní firmu nebo název, sídlo, název obce, její části, název ulice, číslo popisné, a bylo-li přiděleno, i číslo orientační, poštovní směrovací číslo a název obchodní firmy nebo uvede jméno a příjmení, popřípadě jména a příjmení, státní občanství, rodné číslo, bylo-li přiděleno, nebo datum narození, adresu místa trvalého pobytu osoby nebo osob, které jsou jejím statutárním orgánem nebo jeho členy, a údaje týkající se odpovědného zástupce uvedené v písmenu a), registrační číslo hospodářství, bylo-li přiděleno<sup>62</sup>), a identifikační číslo osoby, bylo-li přiděleno; u zahraniční právnické osoby, která za účelem podnikání zřizuje na území České republiky organizační složku, její umístění v České republice a údaje týkající se vedoucího organizační složky,
+
+c) další údaje uvedené v přímo použitelných předpisech Evropské unie<sup>12</sup>).
+
+(5) Žadatel současně s podáním žádosti o registraci doloží potvrzení o vstupní kontrole, kterou provedla pověřená osoba a při které nebylo zjištěno porušení podmínek tohoto zákona a přímo použitelných předpisů Evropské unie<sup>1</sup>), a v případě osoby hodlající hospodařit na ekofarmě také osvědčení o zápisu do evidence zemědělského podnikatele podle zvláštního právního přímo použitelných předpisů<sup>8</sup>). Pověřená osoba je povinna vstupní kontrolu provést nejpozději do 60 dnů ode dne uzavření smlouvy o kontrolní činnosti.
+
+(6) Žadatel je povinen pověřené osobě poskytnout o každé ekofarmě, na které bude hospodařit
+
+a) údaje o hospodářských budovách a provozních zařízeních, které bude užívat k ekologickému zemědělství, podle údajů v katastru nemovitostí<sup>13</sup>),
+
+b) označení pozemků, včetně vodních ploch a přehledně vyznačené mapy pozemků, včetně vodních ploch, na nichž bude ekologicky hospodařit, podle evidence využití půdy podle uživatelských vztahů v souladu se zvláštním právním předpisem<sup>14</sup>) a jde-li o nezemědělskou půdu ve vztahu k opatřením podle § 10, pak podle údajů v katastru nemovitostí<sup>13</sup>) a
+
+c) další údaje uvedené v přímo použitelných předpisech Evropské unie<sup>12</sup>).
+
+(7) Žadatel je povinen poskytnout ministerstvu a pověřené osobě součinnost za účelem ověření skutečností uvedených v žádosti.
+
+(8) Pokud žadatel splní požadavky stanovené v odstavcích 4 a 5, ministerstvo žádosti vyhoví, vydá rozhodnutí o registraci a certifikát o činnosti v ekologickém zemědělství a zapíše osobu podnikající v ekologickém zemědělství na seznam osob podnikajících v ekologickém zemědělství (dále jen „seznam“). Seznam, v případě ekologických zemědělců i s informací o výměře obhospodařovaných pozemků, zveřejní ministerstvo způsobem umožňujícím dálkový přístup.
+
+(9) Pokud žadatel požadavky stanovené v odstavcích 4 a 5 nesplní, ministerstvo žádost o registraci zamítne.
+
+(10) Vzor žádosti o registraci ministerstvo zveřejní na svých internetových stránkách.
+
+##### § 7 – Změny týkající se pozemků na ekofarmě a ekofarmy
+
+(1) Dojde-li ke změně výměry pozemků ekofarmy včetně vodních ploch, je ekologický zemědělec povinen bez zbytečného odkladu písemně oznámit tuto skutečnost pověřené osobě. Pověřená osoba provede do 30 dnů od doručení tohoto oznámení příslušnou změnu v evidenci využití půdy podle uživatelských vztahů, v souladu se zvláštním právním předpisem<sup>14</sup>), a v seznamu.
+
+(2) V případě převodu či přechodu vlastnictví ekofarmy na jinou právnickou či fyzickou osobu, která zemědělsky podniká<sup>8</sup>), je tato osoba povinna, pokud hodlá nadále na ekofarmě hospodařit v ekologickém zemědělství, podat bez zbytečného odkladu žádost o registraci. Pro náležitosti žádosti, jakož i pro řízení o ní platí § 6 obdobně. Doba trvání přechodného období není změnou vlastnictví ekofarmy dotčena.
+
+##### § 8 – Zrušení a zánik registrace
+
+(1) Ministerstvo zruší registraci osoby podnikající v ekologickém zemědělství, jestliže
+
+a) o to písemně sama požádá, nebo
+
+b) porušila opakovaně požadavky stanovené tímto zákonem nebo přímo použitelnými předpisy Evropské unie<sup>1</sup>); za opakované porušení se považuje takové porušení povinnosti, k němuž došlo v době do 1 roku ode dne nabytí právní moci předchozího rozhodnutí o přestupku podle tohoto zákona, jímž byla uložena pokuta.
+
+(2) Ministerstvo též zruší registraci, jestliže
+
+a) ekologický zemědělec nezíská do 12 měsíců od ukončení období přechodu na ekologickou produkci<sup>60</sup>) alespoň jeden certifikát na bioprodukt a v průběhu dalších kalendářních let vždy alespoň jeden certifikát na bioprodukt za 24 měsíců; tuto dobu může ministerstvo na žádost ekologického zemědělce v odůvodněných případech prodloužit, a to i opakovaně,
+
+b) výrobce biopotravin<sup>9</sup>), výrobce nebo dodavatel ekologických krmiv<sup>6</sup>) nebo dodavatel ekologického rozmnožovacího materiálu rostlin nezíská do 24 měsíců od registrace alespoň jeden certifikát na biopotravinu, bioprodukt nebo ostatní bioprodukt a v průběhu dalších kalendářních let vždy alespoň jeden certifikát na biopotravinu, bioprodukt nebo ostatní bioprodukt za 24 měsíců, nebo
+
+c) smlouva o kontrolní činnosti podle § 6 odst. 3 pozbude platnosti a osoba podnikající v ekologickém zemědělství do 30 dnů ode dne pozbytí platnosti smlouvy neuzavře smlouvu s pověřenou osobou.
+
+(3) Registrace osoby podnikající v ekologickém zemědělství zaniká, jestliže
+
+a) zemřela,
+
+b) zanikla, nebo
+
+c) došlo k převodu či přechodu ekofarmy na jinou osobu a osoba podnikající v ekologickém zemědělství již nehospodaří na jiné ekofarmě.
+
+(4) Ministerstvo zruší registraci na základě žádosti ke dni, který mu žadatel oznámí, nejdříve však ke dni doručení žádosti. Není-li datum zrušení žadatelem uvedeno, je registrace zrušena ke dni nabytí právní moci rozhodnutí ministerstva.
+
+(5) Pokud je registrace zrušena na základě odstavce 1 písm. b) nebo odstavce 2, ministerstvo zároveň se zrušením registrace odejme certifikát o činnosti v ekologickém zemědělství a certifikát na biopotravinu, bioprodukt nebo ostatní bioprodukt.
+
+(6) Po nabytí právní moci rozhodnutí o zrušení registrace a v případě zániku registrace ministerstvo neprodleně provede výmaz ze seznamu.
+
+##### § 9 – Výjimky z pravidel ekologického hospodaření
+
+(1) Výjimky z pravidel ekologického hospodaření týkající se původu hospodářských zvířat a podmínek jejich chovu, katastrofických situací a povolování zemědělských složek pocházejících z konvenční produkce podle přímo použitelného předpisu Evropské unie<sup>63</sup>) povoluje ministerstvo na základě žádosti osoby podnikající v ekologickém zemědělství.
+
+(2) Ministerstvo si může před rozhodnutím o žádosti vyžádat odborné stanovisko pověřené osoby.
+
+(3) Žádost o povolení výjimky podle odstavce 1 musí kromě obecných náležitostí obsahovat odůvodnění nemožnosti plnit požadavky přímo použitelného předpisu Evropské unie<sup>1</sup>), popis opatření, která žadatel přijme, aby splnil tyto požadavky, a termín, do kterého tato opatření přijme.
+
+(4) Povolení pro používání rozmnožovacího materiálu rostlin nezískaného v ekologickém zemědělství podle přímo použitelného předpisu Evropské unie<sup>64</sup>) vydává Ústřední kontrolní a zkušební ústav zemědělský na základě žádosti.
+
+(5) Žádost o vydání povolení podle odstavce 4 musí kromě obecných náležitostí obsahovat
+
+a) botanický název druhu osiva anebo dalšího rozmnožovacího materiálu rostlin, popřípadě název odrůdy, na které má být žadateli vydáno povolení,
+
+b) odůvodnění nemožnosti použít osivo nebo další rozmnožovací materiál rostlin pocházející z ekologického zemědělství podle přímo použitelného předpisu Evropské unie<sup>1</sup>),
+
+c) množství osiva anebo dalšího rozmnožovacího materiálu rostlin, na které má být žadateli vydáno povolení.
+
+(6) Ústřední kontrolní a zkušební ústav zemědělský je správcem elektronické databáze obsahující seznam odrůd a dalšího rozmnožovacího materiálu rostlin, k nimž jsou na území České republiky k dispozici osiva, další rozmnožovací materiál rostlin nebo sadbové brambory získané ekologickým způsobem produkce podle přímo použitelného předpisu Evropské unie upravujícího ekologickou produkci a označování ekologických produktů<sup>65</sup>).
+
+(7) Ministerstvo je správcem elektronické databáze zvířat, ve které jsou zveřejňovány údaje podle čl. 26 odst. 2 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+##### § 10 – Omezení působení škodlivých vlivů na ekologicky obhospodařované pozemky
+
+Tam, kde sousedí ekologicky obhospodařované pozemky s pozemky, které nejsou obhospodařovány ekologickým způsobem, musí ekologický zemědělec učinit vhodná opatření, kterými sníží riziko škodlivých vlivů na jím ekologicky obhospodařované pozemky, a to na nejnižší možnou míru; takovými opatřeními jsou zejména výsadba živých plotů, větrolamů, pásů zeleně, izolačních travnatých pásů nebo zřizování cest.
+
+##### § 14 – Chov hospodářských zvířat v ekologickém zemědělství
+
+(1) Omezenou dobou používání ekologické pastviny hospodářskými zvířaty mimo ekologický chov podle přímo použitelného předpisu Evropské unie upravujícího ekologickou produkci a označování ekologických produktů<sup>16</sup>) se rozumí doba nejvýše 90 dnů během kalendářního roku.
+
+(2) Podmínky chovu hmyzu v ekologickém zemědělství stanoví v souladu s přímo použitelnými předpisy Evropské unie<sup>1</sup>) prováděcí právní předpis.
+
+### HLAVA IV – CERTIFIKACE A OZNAČOVÁNÍ BIOPRODUKTU, BIOPOTRAVINY A OSTATNÍHO BIOPRODUKTU
+
+#### § 22 – Certifikát bioproduktu, biopotraviny nebo ostatního bioproduktu
+
+(1) Certifikát bioproduktu, biopotraviny nebo ostatního bioproduktu vydá pověřená osoba na žádost do 30 dnů ode dne provedení kontroly, u rostlinných produktů pěstovaných na orné půdě a rostlinných produktů z trvalých kultur nejpozději do sklizně dané plodiny, a to nejméně na 1 kalendářní rok, nejdéle však na 26 měsíců, pokud osoba podnikající v ekologickém zemědělství splnila požadavky tohoto zákona a přímo použitelných předpisů Evropské unie<sup>1</sup>). Tento certifikát je osoba podnikající v ekologickém zemědělství povinna uchovávat po dobu 5 let.
+
+(2) Odepření vydání certifikátu musí být písemné a odůvodněné a musí být vydáno do 30 dnů ode dne provedené kontroly, u rostlinných produktů nejpozději do sklizně dané plodiny; v případě odepření vydání certifikátu je osoba podnikající v ekologickém zemědělství povinna bez zbytečného odkladu předat pověřené osobě originál původního certifikátu.
+
+(3) Vydání certifikátu nebo odepření vydání certifikátu vyznačí pověřená osoba bez zbytečného odkladu v seznamu.
+
+#### § 23 – Označování bioproduktu, biopotraviny nebo ostatního bioproduktu
+
+Bioprodukt, biopotravina a ostatní bioprodukt se označí v souladu s předpisy Evropské unie<sup>18</sup>). Balená biopotravina, certifikovaná na území České republiky a neurčená pro zahraniční trh, se na obalu označí také grafickým znakem podle věty třetí. Balenou biopotravinu určenou pouze pro zahraniční trh, jinou než balenou biopotravinu, bioprodukt a ostatní bioprodukt, certifikované na území České republiky, lze také označit grafickým znakem, jehož podobu stanoví prováděcí právní předpis. Tento grafický znak smí být užíván pouze pro účely tohoto zákona nebo přímo použitelných předpisů Evropské unie<sup>1</sup>) a v souladu s nimi.
+
+### HLAVA V – KONTROLNÍ SYSTÉM
+
+#### § 28
+
+(1) Dozor nad dodržováním tohoto zákona a přímo použitelných předpisů Evropské unie<sup>1</sup>) vykonává ministerstvo.
+
+(2) Příslušnými orgány provádějícími kontrolu dovozu produktů ekologického zemědělství ze třetích zemí podle nařízení Evropského parlamentu a Rady (EU) 2018/848 jsou Státní zemědělská a potravinářská inspekce, Státní veterinární správa a Ústřední kontrolní a zkušební ústav zemědělský v souladu s jejich věcnou příslušností podle zvláštních právních předpisů<sup>80</sup>).
+
+(3) Osoba, která dováží produkt ekologického zemědělství ze třetí země, je povinna uhradit náklady, které vznikly v souvislosti s kontrolou dovozu těchto produktů. Tyto náklady zahrnují zejména náklady provedených laboratorních rozborů a paušální náklady. V případě, že laboratorní rozbor provedl orgán dozoru, hradí kontrolovaná osoba náklady rozboru podle právního předpisu upravujícího sazebník náhrad nákladů za rozbory prováděné laboratořemi Státní zemědělské a potravinářské inspekce<sup>81</sup>) nebo podle právního předpisu upravujícího sazebník náhrad nákladů za odborné a zkušební úkony vykonávané v působnosti Ústředního kontrolního a zkušebního ústavu zemědělského<sup>82</sup>). Náklady, které vznikly v souvislosti se vstupem potravin ze třetích zemí, hradí kontrolovaná osoba podle vyhlášky o paušálních nákladech<sup>83</sup>). O náhradě nákladů rozhodne orgán dozoru. Tato náhrada je příjmem státního rozpočtu a vybírá ji orgán, který ji uložil. V případě kontroly dovozu spočívající výhradně v kontrole dokladů, která trvá nejvýše 1 hodinu, se náklady nehradí.
+
+(4) Náhradu nákladů kontroly dovozu produktů ekologického zemědělství ze třetích zemí provedené Státní veterinární správou v rámci pohraniční veterinární kontroly upravuje veterinární zákon<sup>84</sup>).
+
+#### § 29
+
+(1) Ministerstvo může s organizační složkou státu<sup>19</sup>) uzavřít dohodu<sup>20</sup>) nebo může na základě výsledků řízení provedeného formou výběru žádosti<sup>21</sup>) uzavřít s právnickou osobou veřejnoprávní smlouvu, na základě níž je pověřená osoba oprávněna vydávat certifikát bioproduktu, biopotraviny nebo ostatního bioproduktu a provádět kontroly a další odborné úkony. Pověřená osoba, která je organizační složkou státu, se považuje za kontrolní orgán a pověřená osoba, která je právnickou osobou, se považuje za kontrolní subjekt podle přímo použitelného předpisu Evropské unie<sup>66</sup>).
+
+(2) Zaměstnanci pověřené osoby a další osoby, které jsou jí pověřeny prováděním kontroly (dále jen „osoba provádějící kontrolu“) žadatele, ekologického zemědělce, výrobce nebo dodavatele ekologických krmiv<sup>6</sup>) nebo dodavatele ekologického rozmnožovacího materiálu rostlin, musí mít alespoň střední vzdělání s maturitní zkouškou<sup>22</sup>) a nejméně 5 let odborné praxe v oboru zemědělství nebo potravinářství nebo veterinářství a veterinární prevence nebo vysokoškolské vzdělání<sup>24</sup>) příslušného směru a nejméně 1 rok odborné praxe.
+
+(3) Osoba provádějící kontrolu žadatele výrobce biopotravin nebo osoby, která uvádí biopotraviny nebo bioprodukty na trh, musí mít alespoň střední vzdělání s maturitní zkouškou<sup>22</sup>) a nejméně 5 let odborné praxe v oboru zemědělství a lesnictví nebo potravinářství a potravinářská chemie nebo vysokoškolské vzdělání příslušného směru a nejméně 1 rok odborné praxe.
+
+(4) Osoba provádějící kontrolu podle tohoto zákona je povinna zachovávat mlčenlivost o skutečnostech, o nichž se dověděla během výkonu kontroly.
+
+(5) Postup ministerstva při uznávání odborné kvalifikace a jiné způsobilosti pro zahájení závislé nebo nezávislé regulované činnosti a pro její výkon na území České republiky, pokud byla odborná kvalifikace pro výkon této činnosti získána nebo tato činnost byla vykonávána v jiném členském státě státními příslušníky členských států nebo jejich rodinnými příslušníky, upravuje zvláštní právní předpis<sup>26</sup>).
+
+#### § 30
+
+(1) Smlouvu podle § 29 odst. 1 uzavře ministerstvo na dobu neurčitou. Tato smlouva musí obsahovat výpovědní lhůtu a důvody, za kterých může ministerstvo smlouvu vypovědět, k nimž zejména patří porušení povinnosti pověřené osoby stanovené tímto zákonem. Tím nejsou dotčeny další způsoby ukončení smluvního vztahu s pověřenou osobou podle čl. 33 písm. b) nařízení Evropského parlamentu a Rady (EU) 2017/625.
+
+(2) Osoba provádějící kontrolu prokáže svoji totožnost a předloží pověření k výkonu kontroly od pověřené osoby.
+
+#### § 33 – Přestupky fyzických osob
+
+(1) Fyzická osoba se dopustí přestupku tím, že
+
+a) použije v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů výrazy odkazující na ekologickou produkci<sup>29</sup>),
+
+b) doveze ze třetí země a uvede na trh jako ekologický takový produkt, který nevyhovuje požadavkům přímo použitelného předpisu Evropské unie upravujícího ekologickou produkci a označování ekologických produktů<sup>30</sup>),
+
+c) poruší povinnost uloženou zvláštním opatřením podle § 34 odst. 1,
+
+d) použije produkty a látky v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů<sup>31</sup>),
+
+e) nevede záznamy o ekologické produkci podle přímo použitelného předpisu Evropské unie upravujícího ekologickou produkci a označování ekologických produktů<sup>32</sup>),
+
+f) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů nezpracuje, neaktualizuje nebo neuchovává popis hospodářské jednotky a záznamy o přijatých opatřeních<sup>33</sup>),
+
+g) používá v chovu zvířat chemicky syntetizovaná alopatická veterinární léčiva nebo antibiotika v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů<sup>35</sup>),
+
+h) nedodrží pravidla přechodu na ekologickou produkci podle přímo použitelných předpisů Evropské unie upravujících ekologickou produkci a označování ekologických produktů<sup>36</sup>),
+
+i) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů nerozdělí zřetelně zemědělský podnik na ekofarmu a ostatní provozní jednotky nebo neudržuje pozemky, zvířata a produkty určené ke konvenční produkci odděleně od pozemků, zvířat a produktů využívaných pro ekologickou produkci<sup>37</sup>), nebo
+
+j) nesplní jinou povinnost stanovenou přímo použitelnými předpisy Evropské unie upravujícími ekologickou produkci a označování ekologických produktů<sup>1</sup>).
+
+(2) Za přestupek lze uložit pokutu do
+
+a) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), c) nebo d),
+
+b) 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. g), h) nebo i),
+
+c) 20 000 Kč, jde-li o přestupek podle odstavce 1 písm. e), f) nebo j).
+
+#### § 33a – Přestupky právnických osob a podnikajících fyzických osob
+
+(1) Právnická nebo podnikající fyzická osoba jako osoba podnikající v ekologickém zemědělství se dopustí přestupku tím, že
+
+a) v rozporu s přímo použitelnými předpisy Evropské unie upravujícími ekologickou produkci a označování ekologických produktů použije osivo nebo další rozmnožovací materiál rostlin nezískaný ekologickým způsobem produkce<sup>67</sup>),
+
+b) nevede záznamy o ekologické produkci podle přímo použitelného předpisu Evropské unie upravujícího ekologickou produkci a označování ekologických produktů<sup>32</sup>),
+
+c) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů nezpracuje, neaktualizuje nebo neuchovává popis hospodářské jednotky a záznamy o přijatých opatřeních<sup>33</sup>),
+
+d) jako ekologický zemědělec neoznámí ministerstvu skutečnost podle § 7 odst. 1,
+
+e) v rozporu s § 10 neučiní vhodná opatření k omezení působení škodlivých vlivů na ekologicky obhospodařované pozemky,
+
+f) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů<sup>80</sup>) překročí množství dusíku stanovené na rok a hektar zemědělsky obhospodařované půdy,
+
+g) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů<sup>81</sup>) umístí na ekofarmu zvířata pocházející z konvenčního chovu bez povolení ministerstva,
+
+h) nezajistí při chovu zvířat nebo při produkci řas nebo živočichů pocházejících z akvakultury podmínky podle přímo použitelných předpisů Evropské unie upravujících ekologickou produkci a označování ekologických produktů<sup>69</sup>),
+
+i) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů nezajistí při skladování jednoznačnou identifikaci bioproduktů, biopotravin nebo ostatních bioproduktů<sup>70</sup>),
+
+j) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů neoddělí produkci ekologických krmiv nebo potravin od jiných zpracovávaných krmiv nebo potravin<sup>71</sup>),
+
+k) nedodrží pravidla přechodu na ekologickou produkci podle přímo použitelných předpisů Evropské unie upravujících ekologickou produkci a označování ekologických produktů<sup>36</sup>),
+
+l) použije při pěstování rostlin, chovu zvířat a při ekologické produkci potravin produkty a látky v rozporu s přímo použitelnými předpisy Evropské unie upravujícími ekologickou produkci a označování ekologických produktů<sup>31</sup>),
+
+m) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů nerozdělí zřetelně zemědělský podnik na ekofarmu a ostatní provozní jednotky nebo neudržuje pozemky, zvířata a produkty určené ke konvenční produkci odděleně od pozemků, zvířat a produktů využívaných pro ekologickou produkci<sup>37</sup>),
+
+n) použije geneticky modifikované organismy nebo produkty získané z geneticky modifikovaných organismů v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů<sup>73</sup>),
+
+o) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů<sup>82</sup>) nepřijme dostatečná bezpečnostní opatření s cílem zabránit přítomnosti nepovolených produktů a látek, nebo
+
+p) nesplní jinou povinnost stanovenou přímo použitelnými předpisy Evropské unie upravujícími ekologickou produkci a označování ekologických produktů<sup>1</sup>).
+
+(2) Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+
+a) použije v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů výrazy odkazující na ekologickou produkci<sup>29</sup>),
+
+b) doveze ze třetí země a uvede na trh jako ekologický takový produkt, který nevyhovuje požadavkům přímo použitelného předpisu Evropské unie upravujícího ekologickou produkci a označování ekologických produktů<sup>30</sup>),
+
+c) poruší povinnost uloženou zvláštním opatřením podle § 34 odst. 1, nebo
+
+d) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů<sup>83</sup>) před uvedením bioproduktů, biopotravin, ostatních bioproduktů nebo takovýchto produktů z přechodného období nebo před přechodným obdobím na trh nepodá žádost o registraci podle § 6.
+
+(3) Pověřená osoba se dopustí přestupku tím, že
+
+a) nesplní informační povinnost podle přímo použitelného předpisu Evropské unie upravujícího ekologickou produkci a označování ekologických produktů<sup>74</sup>),
+
+b) v rozporu s přímo použitelným předpisem Evropské unie upravujícím úřední kontroly<sup>84</sup>) neplní obecné povinnosti kontrolních orgánů pro ekologickou produkci,
+
+c) v rozporu s přímo použitelným předpisem Evropské unie upravujícím úřední kontroly<sup>85</sup>) neplní povinnosti pověřených subjektů,
+
+d) v rozporu s přímo použitelným předpisem Evropské unie upravujícím ekologickou produkci a označování ekologických produktů při první kontrole řádně neověří u kontrolované osoby celkový popis jednotky nebo činnosti a všech přijatých opatření<sup>77</sup>),
+
+e) v rozporu s § 22 odst. 3 nevyznačí bez zbytečného odkladu vydání certifikátu nebo odepření vydání certifikátu v seznamu, nebo
+
+f) v rozporu s přímo použitelným předpisem Evropské unie upravujícím úřední kontroly<sup>86</sup>) nepřijme opatření v případě zjištěného nesouladu.
+
+(4) Za přestupek lze uložit pokutu do
+
+a) 2 000 000 Kč, jde-li o přestupek podle odstavce 2,
+
+b) 250 000 Kč, jde-li o přestupek podle odstavce 1 písm. l), m), n) nebo podle odstavce 3,
+
+c) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. i), j), k) nebo o),
+
+d) 70 000 Kč, jde-li o přestupek podle odstavce 1 písm. h),
+
+e) 20 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), c), d), e), f), g) nebo p).
+
+#### § 33b – Společné ustanovení k přestupkům
+
+Přestupky podle tohoto zákona projednává ministerstvo.
+
+#### § 34 – Zvláštní opatření
+
+(1) Ministerstvo uloží rozhodnutím zvláštní opatření podle přímo použitelných předpisů Evropské unie upravujících ekologickou produkci a označování ekologických produktů<sup>1</sup>) v případě nesouladu podle nařízení Evropského parlamentu a Rady (EU) 2018/848<sup>78</sup>) nebo v případě podezření na nesoulad podle nařízení Evropského parlamentu a Rady (EU) 2018/848<sup>79</sup>).
+
+(2) Rozklad proti rozhodnutí o zvláštním opatření nemá odkladný účinek.
+
+### HLAVA VI – PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+
+#### § 35 – Zmocňovací ustanovení
+
+Ministerstvo vydá vyhlášku k provedení § 4 odst. 1, § 14 odst. 2 a § 23.
+
+## ČÁST DRUHÁ – Změna zákona o správních poplatcích
+
+### § 38
+
+V sazebníku správních poplatků, uvedeném v příloze k zákonu č. 368/1992 Sb., o správních poplatcích, ve znění zákona č. 85/1994 Sb., zákona č. 273/1994 Sb., zákona č. 36/1995 Sb., zákona č. 301/1995 Sb., zákona č. 305/1997 Sb., zákona č. 149/1998 Sb., zákona č. 157/1998 Sb., zákona č. 167/1998 Sb., zákona č. 63/1999 Sb., zákona č. 166/1999 Sb., zákona č. 167/1999 Sb., zákona č. 326/1999 Sb., zákona č. 352/1999 Sb., zákona č. 357/1999 Sb., zákona č. 360/1999 Sb., zákona č. 363/1999 Sb., zákona č. 46/2000 Sb., zákona č. 62/2000 Sb., zákona č. 117/2000 Sb., zákona č. 133/2000 Sb., zákona č. 151/2000 Sb., zákona č. 153/2000 Sb., zákona č. 154/2000 Sb., zákona č. 156/2000 Sb., zákona č. 158/2000 Sb. a zákona č. 227/2000 Sb., se za část XII doplňuje část XIII, která zní:
+
+> **„ČÁST XIII – Ekologické zemědělství**
+
+> Položka 163
+
+> a) Podání žádosti o registraci ekologického podnikatele pro ekologické zemědělství na ekofarmě Kč 1 000,-
+
+> b) Podání žádosti o registraci pozemků nově zařazených do přechodného období Kč 500,-
+
+> Poznámka:
+
+> Podání žádosti o registraci zpoplatňované podle této položky je upraveno v § 6 odst. 8 a § 9 odst. 1 zákona č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů.“.
+
+> **ČÁST TŘETÍ – ÚČINNOST**
+
+> **§ 39**
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2001.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.
+
+---
+
+<sup>1</sup>) Nařízení Evropského parlamentu a Rady (EU) 2018/848 ze dne 30. května 2018 o ekologické produkci a označování ekologických produktů a o zrušení nařízení Rady (ES) č. 834/2007, v platném znění. 
+ Nařízení Komise (ES) č. 889/2008 ze dne 5. září 2008, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 834/2007 o ekologické produkci a označování ekologických produktů, pokud jde o ekologickou produkci, označování a kontrolu, v platném znění. 
+ Nařízení Komise (ES) č. 1235/2008 ze dne 8. prosince 2008, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 834/2007, pokud jde o opatření pro dovoz ekologických produktů ze třetích zemí, v platném znění. 
+ Nařízení Evropského parlamentu a Rady (EU) 2017/625 ze dne 15. března 2017 o úředních kontrolách a jiných úředních činnostech prováděných s cílem zajistit uplatňování potravinového a krmivového práva a pravidel týkajících se zdraví zvířat a dobrých životních podmínek zvířat, zdraví rostlin a přípravků na ochranu rostlin, o změně nařízení Evropského parlamentu a Rady (ES) č. 999/2001, (ES) č. 396/2005, (ES) č. 1069/2009, (ES) č. 1107/2009, (EU) č. 1151/2012, (EU) č. 652/2014, (EU) 2016/429 a (EU) 2016/2031, nařízení Rady (ES) č. 1/2005 a (ES) č. 1099/2009 a směrnic Rady 98/58/ES, 1999/74/ES, 2007/43/ES, 2008/119/ES a 2008/120/ES a o zrušení nařízení Evropského parlamentu a Rady (ES) č. 854/2004 a (ES) č. 882/2004, směrnic Rady 89/608/EHS, 89/662/EHS, 90/425/EHS, 91/496/EHS, 96/23/ES, 96/93/ES a 97/78/ES a rozhodnutí Rady 92/438/EHS (nařízení o úředních kontrolách), v platném znění.
+
+<sup>2</sup>) § 3 odst. 1 písm. c) zákona č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění zákona č. 131/2003 Sb.
+
+<sup>3</sup>) Čl. 2 odst. 1 písm. a) nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>4</sup>) Čl. 2 odst. 1 písm. b) nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>5</sup>) Například zákon č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů, vyhláška č. 58/2018 Sb., o doplňcích stravy a složení potravin, vyhláška č. 253/2018 Sb., o požadavcích na extrakční rozpouštědla používaná při výrobě potravin.
+
+<sup>6</sup>) Čl. 2 odst. 1 písm. c) nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>8</sup>) § 2e až 2g zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 85/2004 Sb.
+
+<sup>9</sup>) Zákon č. 110/1997 Sb., ve znění pozdějších předpisů.
+
+<sup>10</sup>) Čl. 34 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>11</sup>) § 2652 a násl. občanského zákoníku.
+
+<sup>12</sup>) Čl. 34 odst. 1 a 3 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>13</sup>) Zákon č. 256/2013 Sb., o katastru nemovitostí (katastrální zákon), ve znění pozdějších předpisů.
+
+<sup>14</sup>) § 3a až 3f zákona č. 252/1997 Sb., ve znění zákona č. 128/2003 Sb.
+
+<sup>16</sup>) Čl. 14 odst. 1 a příloha II část II bod 1.4.2.1. nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>17</sup>) Čl. 42 nařízení Rady (ES) č. 834/2007.
+
+<sup>18</sup>) Čl. 30 až 33 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>19</sup>) Zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů.
+
+<sup>20</sup>) § 160 odst. 3 správního řádu.
+
+<sup>21</sup>) § 146 správního řádu.
+
+<sup>22</sup>) § 58 odst. 1 písm. c) zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů.
+
+<sup>23</sup>) Příloha I oddíl C vyhlášky č. 354/1991 Sb., o středních školách, ve znění vyhlášky č. 187/1992 Sb. a vyhlášky č. 144/2003 Sb.
+
+<sup>24</sup>) § 55 a 57 zákona č. 111/1998 Sb., o vysokých školách a o změně a o doplnění dalších zákonů (zákon o vysokých školách).
+
+<sup>26</sup>) Zákon č. 18/2004 Sb., o uznávání odborné kvalifikace a jiné způsobilosti státních příslušníků členských států Evropské unie a o změně některých zákonů (zákon o uznávání odborné kvalifikace), ve znění zákona č. 96/2004 Sb. 
+ Vyhláška č. 213/2004 Sb., kterou se stanoví seznam teoretických a praktických oblastí, které tvoří obsah vzdělání a přípravy vyžadovaný v České republice pro výkon regulované činnosti v rámci působnosti Ministerstva zemědělství.
+
+<sup>29</sup>) Čl. 30 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>30</sup>) Čl. 45 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>31</sup>) Čl. 24 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>32</sup>) Čl. 39 odst. 1 písm. a) nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>33</sup>) Čl. 39 odst. 1 písm. d) nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>35</sup>) Čl. 14 odst. 1 a příloha II část II bod 1.5. nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>36</sup>) Čl. 10 odst. 1, příloha II část I bod 1.7. a příloha II část II bod 1.2. nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>37</sup>) Čl. 9 odst. 7 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>60</sup>) Čl. 10 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>61</sup>) § 5 zákona č. 222/2009 Sb., o volném pohybu služeb.
+
+<sup>62</sup>) § 29 odst. 7 vyhlášky č. 136/2004 Sb., kterou se stanoví podrobnosti označování zvířat a jejich evidence a evidence hospodářství a osob stanovených plemenářským zákonem, ve znění vyhlášky č. 199/2007 Sb.
+
+<sup>63</sup>) Čl. 22, čl. 25 a příloha II část II body 1.3.4.4., 1.3.4.4.3., 1.7.5., 1.7.8., 3.1.2.1. a 3.2.1. písm. d) nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>64</sup>) Příloha II část II bod 1.8.5.1. nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>65</sup>) Čl. 26 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>66</sup>) Čl. 3 odst. 56 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>67</sup>) Čl. 12 odst. 1 a příloha II část I bod 1.8. nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>69</sup>) Čl. 14 odst. 1, příloha II část II bod 1.2. až 1.9. a příloha II část III body 1 až 3 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>70</sup>) Čl. 9 odst. 10 písm. b) a příloha III bod 7 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>71</sup>) Čl. 9 odst. 10 písm. a) nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>73</sup>) Čl. 11 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>74</sup>) Čl. 40 odst. 10 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>77</sup>) Čl. 38 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>78</sup>) Čl. 42 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>79</sup>) Čl. 41 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>80</sup>) Zákon č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů. 
+ Zákon č. 146/2002 Sb., o Státní zemědělské a potravinářské inspekci a o změně některých souvisejících zákonů, ve znění pozdějších předpisů. 
+ Zákon č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů. 
+ Zákon č. 147/2002 Sb., o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých souvisejících zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském), ve znění pozdějších předpisů.
+
+<sup>80</sup>) Čl. 12 odst. 1 a příloha II část I bod 1.9.4. nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>81</sup>) Vyhláška č. 132/2015 Sb., o sazebníku náhrad nákladů za rozbory prováděné laboratořemi Státní zemědělské a potravinářské inspekce pro účely kontroly, ve znění pozdějších předpisů.
+
+<sup>81</sup>) Čl. 14 odst. 1 a příloha II část II bod 1.3. nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>82</sup>) Vyhláška č. 221/2002 Sb., kterou se stanoví sazebník náhrad nákladů za odborné a zkušební úkony vykonávané v působnosti Ústředního kontrolního a zkušebního ústavu zemědělského, ve znění pozdějších předpisů.
+
+<sup>82</sup>) Čl. 28 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>83</sup>) Vyhláška č. 227/2008 Sb., kterou se stanoví výše paušální částky nákladů dodatečné kontroly, nákladů vynaložených na ověření souladu se specifikacemi a nákladů vzniklých příslušným orgánům v souvislosti se vstupem nebo dovozem potravin a surovin ze třetích zemí (vyhláška o paušálních nákladech), ve znění pozdějších předpisů.
+
+<sup>83</sup>) Čl. 34 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2018/848.
+
+<sup>84</sup>) § 75 odst. 5 zákona č. 166/1999 Sb., ve znění pozdějších předpisů.
+
+<sup>84</sup>) Čl. 5 nařízení Evropského parlamentu a Rady (EU) 2017/625.
+
+<sup>85</sup>) Čl. 32 nařízení Evropského parlamentu a Rady (EU) 2017/625.
+
+<sup>86</sup>) Čl. 138 odst. 1 písm. b) nařízení Evropského parlamentu a Rady (EU) 2017/625.

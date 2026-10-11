@@ -1,0 +1,371 @@
+---
+title: "Vyhláška Českého báňského úřadu č. 35/1998 Sb., o požadavcích k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu důlní dráhy hnědouhelného lomu"
+identifier: "35/1998 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1998/35/2007-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1998-02-09
+effective: 1998-04-01
+last_amended: 2007-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1998/35"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Českého báňského úřadu č. 35/1998 Sb., o požadavcích k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu důlní dráhy hnědouhelného lomu ve znění vyhlášky č. 485/2006 Sb."
+---
+
+# Vyhláška Českého báňského úřadu č. 35/1998 Sb., o požadavcích k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu důlní dráhy hnědouhelného lomu
+
+35
+
+VYHLÁŠKA
+
+Českého báňského úřadu
+
+ze dne 9. února 1998
+
+o požadavcích k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu důlní dráhy hnědouhelného lomu
+
+Český báňský úřad stanoví podle § 6 odst. 6 písm. a) zákona České národní rady č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě:
+
+## ČÁST PRVNÍ – ÚVODNÍ USTANOVENÍ
+
+### § 1 – Rozsah platnosti
+
+Vyhláška stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu (dále jen „bezpečnost práce a provozu“) důlní dráhy hnědouhelného lomu.
+
+### § 2 – Výklad některých pojmů
+
+Pro účely této vyhlášky se považuje za
+
+a) drážní vozidlo dopravní prostředek závislý při svém pohybu na stanovené součásti dráhy (koleji, troleji, lanu apod.),
+
+b) důlní dráhu dráha s kolejovou tratí určená k pohybu drážních vozidel o rozchodu 1435 mm a 900 mm se stálými kolejemi a zařízením nebo pohyblivými kolejemi a zařízením v hnědouhelném lomu a jeho úpravně,
+
+c) hnací drážní vozidlo drážní vozidlo schopné vyvíjet tažnou, případně brzdicí sílu pro pohyb a brzdění vlastní a zpravidla i jiných drážních vozidel,
+
+d) vlak sestavená a svěšená skupina drážních vozidel tvořená alespoň jedním hnacím a jedním taženým nebo sunutým drážním vozidlem nebo samostatné hnací drážní vozidlo nebo speciální vozidlo<sup>1</sup>) nebo svěšená nejméně dvě hnací drážní vozidla označená stanovenými návěstmi,
+
+e) zábrzdnou vzdálenost dráha, na které musí vlak bezpečně zastavit při nejvyšší dovolené rychlosti v daném úseku tratě,
+
+f) zařízení všechny stálé a pohyblivé části důlní dráhy a jejich soubory potřebné pro provoz a údržbu, například koleje na skrývkových a uhelných řezech a na výsypkách, koleje, prostředky a objekty pro odstavování, prohlídky a opravy drážních vozidel a pro čištění drážních vozů, sdělovací a zabezpečovací technika a prostředky pro zásobování tratí elektrickou energií a pro udržování kolejového svršku a trakčního vedení,
+
+g) tabulkami traťových poměrů pomůcka obsahující seznamy a označení částí dráhy (traťové úseky) a technickoprovozní údaje, rozhodné pro bezpečné provozování drážní dopravy.
+
+### § 3 – Hranice mezi drahami
+
+Hranice mezi důlní dráhou a dráhou železniční, které jsou vzájemně propojeny tak, že umožňují plynulý přechod drážních vozidel z jedné dráhy na druhou, se stanoví dohodou jejich provozovatelů a označí se mezníkem.
+
+### § 4 – Provozní dokumentace
+
+(1) Před započetím prací nebo činností podle této vyhlášky musí být vypracována příslušná provozní dokumentace, a to pravidla technického provozu důlní dráhy, dopravní (provozní) řád<sup>2</sup>) a případně technologický postup. Za provozní dokumentaci se považují též pravidla vydaná zaměstnavatelem, například předpisy pro obsluhu zabezpečovacích zařízení, předpisy pro železniční přejezdy a přechody na důlní dráze, dopravní předpisy pro důlní dráhu, předpisy pro traťové hospodářství důlní dráhy, návěstní předpisy pro důlní dráhu a pravidla o bezpečnosti a ochraně zdraví při práci na důlní dráze.
+
+(2) Pravidla technického provozu důlní dráhy stanoví zejména
+
+a) požadavky na provedení důlní dráhy a zařízení,
+
+b) požadavky na drážní vozidla, jejich vybavení,
+
+c) organizaci dopravního provozu,
+
+d) odpovědnost zaměstnanců za provoz a údržbu důlní dráhy a zařízení,
+
+e) zábrzdnou vzdálenost.
+
+(3) Technologický postup stanoví zejména
+
+a) rozsah pracoviště s vymezením odpovědnosti,
+
+b) organizaci práce,
+
+c) postup a návaznost jednotlivých operací,
+
+d) vymezení podmínek vzájemné součinnosti s jinými pracovními skupinami,
+
+e) způsob zajištění pracoviště,
+
+f) způsob odstavení a zajištění drážních vozidel,
+
+g) osobní ochranné pracovní prostředky,
+
+h) bezpečnostní opatření při práci v blízkosti trolejového vedení,
+
+ch) další opatření podle podmínek pracoviště.
+
+(4) Součástí provozního řádu důlní dráhy jsou tabulky traťových poměrů.
+
+(5) Provozní dokumentace se uchovává nejméně jeden rok od ukončení prací nebo činností, pro které byla vypracována.
+
+## ČÁST DRUHÁ – DŮLNÍ DRÁHA A ZAŘÍZENÍ
+
+### § 5 – Zařízení a materiály důlní dráhy, drážní vozidla
+
+(1) Důlní dráha, drážní vozidla, stroje, zařízení, přístroje, pomůcky a materiály (kolejnice, pražce apod.) se smí používat, jen pokud svou konstrukcí, provedením a technickým stavem odpovídají předpisům k zajištění bezpečnosti práce a provozu, nezhoršují pracovní prostředí nad dovolené hodnoty a odpovídají požadavkům zvláštních předpisů<sup>3</sup>) a bezpečnostním požadavkům na obsluhu a údržbu.
+
+(2) Zařízení smí uvádět do chodu nebo používat jen zaměstnanci určení k jeho obsluze.
+
+(3) Zařízení a materiály důlní dráhy musí být kontrolovány ve lhůtách určených provozovatelem, pokud lhůty nejsou stanoveny výrobcem, dovozcem nebo dodavatelem.
+
+(4) Na důlní dráze se mohou používat pouze schválené typy drážních vozidel.<sup>4</sup>)
+
+### § 6 – Křížení důlní dráhy
+
+(1) Křížení důlní dráhy s pozemní komunikací v úrovni kolejí (přejezd) musí být označeno a zabezpečeno podle zvláštního předpisu.<sup>5</sup>) Označení a zabezpečení přejezdu stanoví provozní dokumentace.
+
+(2) Na přejezdu má důlní doprava přednost před provozem na pozemní komunikaci.
+
+### § 7 – Návěstidla a návěsti
+
+(1) Návěstidla a návěsti tvoří jednotný systém viditelných návěstí ve stanoveném provedení, tvaru a barvě a zvukových slyšitelných návěstí ve stanoveném provedení (dále jen „návěstní soustava“). Návěstní soustava musí umožňovat snadné, rychlé a jednoznačné vyjádření a vnímání návěstí a zajišťovat bezpečné provozování důlní dráhy.
+
+(2) Při provozu důlní dráhy se smí používat jen návěstní soustava v předepsaném tvaru, velikosti, barvě nebo počtu zvuků. Základní návěsti návěstní soustavy jsou uvedeny v příloze, která je součástí této vyhlášky.
+
+(3) Při provozu důlní dráhy mohou být používány další návěsti, které nejsou upraveny touto vyhláškou. Jejich provedení, význam a použití musí být na důlní dráze, pro kterou bylo vydáno povolení provozovatelem, jednotné a nesmí být zaměnitelné s návěstmi podle této vyhlášky.
+
+(4) Návěsti se dávají návěstní pomůckou, například návěstním praporkem, svítilnou, návěstní tabulí, případně rukou (ruční viditelné návěsti) nebo zvukem (zvukové návěsti) nebo prostřednictvím návěstních znaků mechanických nebo světelných návěstidel a neproměnných návěstidel (viditelné návěsti) nebo slovním pokynem.
+
+(5) Návěstní soustava používá při návěstění červené, žluté, zelené a bílé barvy světel nebo návěstních nátěrů a dále návěstní nátěry barvy černé, modré, zelené. Základní význam barvy návěstního světla je:
+
+a) červená – návěst „Stůj“,
+
+b) žlutá – návěst „Výstraha“,
+
+c) zelená – návěst „Volno“,
+
+d) bílá – návěst „Posun dovolen“.
+
+(6) Zhaslé světlo návěstidla, které není označeno jako neplatné, a pochybný či nezřetelný návěstní znak znamená vždy návěst závažnějšího charakteru nebo návěst zakazující, pokud není pokynem provozovatele důlní dráhy stanoveno jinak.
+
+(7) Každý vlak musí být označen návěstmi „Začátek vlaku“ a „Konec vlaku“ a první vůz sunutého vlaku musí být vybaven akustickou signalizací.
+
+(8) Hnací drážní vozidlo při posunu musí být za snížené viditelnosti označeno vpředu bílým světlem a vzadu červeným světlem.
+
+(9) Drážní vozidlo jedoucí jako posun mezi místy na důlní dráze, které slouží k řízení jízd vlaků a posunům (dopravny), musí být označeno jako vlak.
+
+(10) Neplatnost návěstidla se označí způsobem stanoveným provozní dokumentací.
+
+### § 8 – Viditelnost návěstidel a návěstí
+
+(1) Návěsti hlavních návěstidel musí být ze stanoviště strojvedoucího nebo řidiče jak za dne, tak za snížené viditelnosti dobře viditelná na vzdálenost, kterou projede vlak největší stanovenou rychlostí za 12 sekund zvětšenou o délku zábrzdné vzdálenosti.
+
+(2) Nelze-li takto určené viditelnosti dosáhnout, musí se před hlavním návěstidlem na zábrzdnou vzdálenost postavit předvěst.
+
+### § 9 – Rizikové činnosti v kolejišti
+
+(1) Za rizikovou činnost v kolejišti se považuje práce v kolejišti za provozu, posun a činnosti při posunu, výluky kolejí a trakčního vedení.
+
+(2) Před započetím činnosti podle odstavce 1 organizace vypracuje provozní dokumentaci.
+
+(3) Za snížené viditelnosti lze práce při údržbě a opravách zařízení v kolejišti provádět jen při výluce a při zajištění koleje proti vjezdu vozidel.
+
+### § 9a – Práce skupiny osob v kolejišti
+
+(1) V kolejišti za provozu, při opravě a údržbě zařízení smí pracovat skupina nejméně dvou zaměstnanců. Samotný zaměstnanec smí v kolejišti za provozu vykonávat jen takovou kontrolní činnost nebo úkony související s prohlídkou zařízení a výkonem práce, která mu umožní sledovat provoz na koleji v obou směrech.
+
+(2) Použije-li pracovní skupina kolejiště jako cestu na pracoviště a z pracoviště, vykoná tuto cestu celá skupina zaměstnanců společně pod dozorem vedoucího práce (dále jen „předák“). Všichni zaměstnanci postupují stanoveným způsobem, v čele jde určený zaměstnanec, poslední zaměstnanec pracovní skupiny je předák. Za snížené viditelnosti je povinen mít ve směru postupu první zaměstnanec rozsvícenou svítilnu s bílým světlem. Spatří-li zaměstnanci blížící se vozidlo, opustí bezodkladně stanoveným způsobem ohrožený prostor. Zařízení, zabezpečení a pomůcky nezbytné pro danou činnost stanoví v provozní dokumentaci organizace.
+
+(3) Při pracovní přestávce se pracovní skupina zdržuje v bezpečném prostoru stanoveném pravidly provozu.
+
+(4) Nářadí, pomůcky a materiál se odklidí stanoveným způsobem z koleje, po které jede vozidlo, a to zaměstnanci, kteří s nimi pracovali.
+
+### § 9b – Dozor nad skupinou osob pracujících v kolejišti
+
+(1) Pracuje-li v kolejišti skupina dvou a více zaměstnanců, technický dozor určí předáka.
+
+(2) Předák i samotný zaměstnanec vykonávající činnost dle § 9a odst. 1 je povinen předem oznámit zaměstnanci odpovědnému za provoz příslušného úseku dráhy (hradlaři), popřípadě jinému zaměstnanci určenému provozním řádem druh a místo práce nebo činnosti. Stejným způsobem pak oznámit ukončení práce nebo činnosti. Oznámení musí být zaznamenáno stanoveným způsobem.
+
+(3) Organizací určený zaměstnanec je povinen před započetím výluky a po jejím ukončení provést záznam do provozní dokumentace.
+
+(4) Předák stanoví bezpečnostní hlídku v případech, kdy
+
+a) je zaneprázdněn řízením nebo výkonem práce,
+
+b) jeho rozhled na obě strany kolejí pracoviště je menší než zábrzdná vzdálenost stanovená touto vyhláškou,
+
+c) pracovní skupina je rozmístěna tak, že sám nemůže zajistit její bezpečnost.
+
+(5) Bezpečnostní hlídce určí předák stanoviště tak, aby mohla zpozorovat blížící se vozidlo v zábrzdné vzdálenosti stanovené touto vyhláškou a bezpečně viděla na pracovní skupinu a skupina na ni. Bezpečnostní hlídka varuje pracovní skupinu hlasitým voláním „Pozor vlak“, případně jiným optickým nebo akustickým signálem. Varování bezpečnostní hlídky potvrdí předák vzpažením ruky. Zjistí-li bezpečnostní hlídka, že pracovní skupina varování nevzala na vědomí, využije všech možností k zastavení vozidla.
+
+(6) Bezpečnostní hlídka vykonává stálý dozor. Bezpečnostní hlídka zaujímá stanoviště dříve, než pracovní skupina zahájí práci nebo činnost. Do doby, než je práce nebo činnost ukončena, popřípadě přerušena a kolej vyklizena, setrvává bezpečnostní hlídka na svém stanovišti.
+
+### § 10 – Brzdění vlaku
+
+(1) Účinek brzd při brzdění vlaku musí zajistit bezpečné zastavení vlaku na stanovenou zábrzdnou vzdálenost.
+
+(2) Zábrzdná vzdálenost se stanovuje jednotně podle technických parametrů tratě a používaných drážních vozidel a uvádí se v tabulkách traťových poměrů. Zábrzdné vzdálenosti musí být menší než
+
+a) 150 m pro tratě s rychlostí 30 km.h<sup>-1</sup> a nižší,
+
+b) 400 m pro tratě s rychlostí vyšší než 30 km.h<sup>-1</sup>.
+
+### § 11 – Doprava osob
+
+Doprava osob na důlní dráze je zakázána. Za dopravu osob se nepovažuje spolujízda v kabinách hnacích drážních vozidel a speciálních hnacích vozidel.
+
+## ČÁST TŘETÍ – PŘECHODNÉ A ZÁVĚREČNÁ USTANOVENÍ
+
+### § 12 – Přechodné ustanovení
+
+Důlní dráha a zařízení uvedené do provozu před nabytím účinnosti této vyhlášky mohou být používány, vyhovují-li požadavkům právních předpisů platných v době jejich uvedení do provozu.
+
+### § 13 – Výjimky
+
+Od ustanovení této vyhlášky je možné se odchýlit na nezbytnou dobu v případech, kdy hrozí nebezpečí z prodlení při záchraně osob nebo při likvidaci závažné provozní nehody (havárie), pokud jsou provedena nejnutnější bezpečnostní opatření.
+
+### § 14 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 1998.
+
+Předseda:
+
+doc. JUDr. Ing. Makarius, CSc. v. r.
+
+### Příloha k vyhlášce č. 35/1998 Sb.
+
+#### Návěstní soustava
+
+Návěstidlo je technické zařízení, pomůcka nebo předmět, kterým se dává návěst vlakové osádce a ostatním zaměstnancům při vlakové dopravě nebo posunu.
+
+Návěst je viditelné nebo slyšitelné vyjádření rozkazu nebo zprávy stanoveným návěstním znakem.
+
+Návěstní znak je způsob vyjadřování návěsti, je tvořen např. barvou světla, skupinou světel, barvou a tvarem návěstidla, druhem zvuku, přerušováním zvuku apod.
+
+#### Základní návěsti
+
+1\. Návěst „Stůj, zastavte všemi prostředky“, dávaná kroužením návěstním praporkem, jakýmkoliv předmětem, nebo i jen rukou, za snížené viditelnosti kroužením světlem jakékoliv barvy kromě zelené, nebo zvukovou návěstí, tvořenou třemi krátkými zvuky píšťaly, trubky, houkačky, několikrát opakovanou. Na návěst „Stůj, zastavte všemi prostředky“, musí být drážní vozidlo co nejdříve všemi dostupnými prostředky zastaveno.
+
+![sbcr1998c017z0035_2006c159z0485o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837747/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o001)![sbcr1998c017z0035_2006c159z0485o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837749/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o002)![sbcr1998c017z0035_2006c159z0485o003.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837751/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o003)
+
+2\. Návěst „Stůj“, dávaná světlem, návěstním praporkem, červeným kruhovým terčem, červenou obdélníkovou deskou; návěst označuje místo, kde musí drážní vozidlo zastavit předepsaným způsobem. Je-li návěst „Stůj“ dávána v případě mimořádného zastavení, musí být předvěstěna tak, aby drážní vozidlo mohlo na stanoveném místě bezpečně zastavit.
+
+![sbcr1998c017z0035_2006c159z0485o004.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837753/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o004)![sbcr1998c017z0035_2006c159z0485o005.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837755/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o005)
+
+Návěst „Stůj“, dávaná žlutou obdélníkovou deskou; návěst označuje místo, kterým nesmí projet čelo lokomotivy sunutého vlaku.
+
+![sbcr1998c017z0035_2006c159z0485o006.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837757/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o006)![sbcr1998c017z0035_2006c159z0485o007.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837759/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o007)
+
+3\. Zvuková návěst „Pozor“ dávaná dlouhým zvukem píšťaly nebo houkačky vedoucího drážního vozidla; návěst dává osoba, řídící drážní vozidlo vždy, aby varovala před jedoucím drážním vozidlem a upozornila osoby při provozování dráhy a drážní dopravy na jízdu drážního vozidla.
+
+##### ![sbcr1998c017z0035_2006c159z0485o008.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837761/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o008)
+
+4\. Ruční návěsti při posunu:
+
+4.1. „Vzdálit“ je návěst, dávaná svislými pohyby rukou nebo návěstním praporkem, za snížené viditelnosti svislými pohyby ruční svítilny s bílým světlem; podle potřeby doplněná jedním dlouhým zvukem návěstní píšťalky. Návěst „Vzdálit“ nařizuje pohyb drážního vozidla směrem od osoby, která ji dává.
+
+![sbcr1998c017z0035_2006c159z0485o009.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837763/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o009)![sbcr1998c017z0035_2006c159z0485o010.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837765/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o010)![sbcr1998c017z0035_2006c159z0485o011.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837767/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o011)
+
+4.2. „Přiblížit“ je návěst, dávaná vodorovnými dlouhými pohyby rukou nebo návěstním praporkem, za snížené viditelnosti vodorovnými dlouhými pohyby ruční svítilny s bílým světlem; podle potřeby doplněná dvěma dlouhými zvuky návěstní píšťaly. Návěst nařizuje pohyb drážního vozidla směrem k osobě, která ji dává.
+
+![sbcr1998c017z0035_2006c159z0485o012.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837769/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o012)![sbcr1998c017z0035_2006c159z0485o013.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837771/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o013)![sbcr1998c017z0035_2006c159z0485o014.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837773/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o014)
+
+4.3. „Stlačit“ je návěst, dávaná krátkými vodorovnými pohyby rukama k sobě a od sebe; v jedné ruce drží osoba praporek, za snížené viditelnosti místo praporku svítilnu s bílým světlem nebo dvěma krátkými zvuky návěstní píšťalky rychle za sebou. Viditelná návěst nesmí být dávána osobou, stojící mezi drážními vozidly. Návěst nařizuje stlačit vozidla, aby mohla být svěšena nebo rozvěšena.
+
+![sbcr1998c017z0035_2006c159z0485o015.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837775/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o015)![sbcr1998c017z0035_2006c159z0485o016.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837777/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o016)![sbcr1998c017z0035_2006c159z0485o017.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837779/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o017)
+
+4.4. „Popotáhnout“ je návěst, dávaná krátkými svislými pohyby rukama zdviženýma šikmo vzhůru; v jedné ruce drží osoba praporek, za snížené viditelnosti svítilnu s bílým světlem. Návěst se vždy doplňuje slyšitelnou návěstí „Vzdálit“ nebo „Přiblížit“ podle požadovaného směru pohybu. Používá se pro krátký pohyb drážních vozidel.
+
+![sbcr1998c017z0035_2006c159z0485o018.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837781/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o018)![sbcr1998c017z0035_2006c159z0485o019.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837783/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o019)
+
+4.5. „Odraz“ je návěst, dávaná volným pohybem ruky, držící praporek, shora dolů a pak rychle vpravo šikmo vzhůru, za snížené viditelnosti je praporek nahrazen svítilnou s bílým světlem. Návěst se podle potřeby doplní jedním dlouhým a jedním krátkým zvukem návěstní píšťalky, přičemž slyšitelná návěst je platná jen tehdy, jestliže je současně dávána i návěst viditelná. Návěst nařizuje upravit jízdu posunujícího hnacího drážního vozidla tak, aby byla odražena posunovaná vozidla.
+
+![sbcr1998c017z0035_2006c159z0485o020.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837785/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o020)![sbcr1998c017z0035_2006c159z0485o021.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837787/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o021)![sbcr1998c017z0035_2006c159z0485o022.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838311/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o022)
+
+4.6. „Pomalu“ je návěst, dávaná rukou, držící praporek šikmo vzhůru, za snížené viditelnosti místo praporku svítilnou s bílým světlem; podle potřeby doplněná několika dlouhými zvuky návěstní píšťalky. Návěst nařizuje osobě řídící drážní vozidlo zmenšovat rychlost při posunu a očekávat návěst „Stůj“.
+
+![sbcr1998c017z0035_2006c159z0485o023.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838313/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o023)![sbcr1998c017z0035_2006c159z0485o024.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838315/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o024)![sbcr1998c017z0035_2006c159z0485o025.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838317/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o025)
+
+4.7. „Stůj“ je návěst, dávaná kruhovými pohyby praporkem v natažené ruce, popř. jakýmkoliv předmětem nebo jen rukou, za snížené viditelnosti místo praporku svítilnou s bílým světlem; nebo slyšitelná návěst dávaná třemi krátkými zvuky návěstní píšťalky rychle za sebou. Na viditelnou nebo slyšitelnou návěst „Stůj“ musí být vozidlo co nejdříve zastaveno.
+
+![sbcr1998c017z0035_2006c159z0485o026.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838319/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o026)![sbcr1998c017z0035_2006c159z0485o027.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838321/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o027)![sbcr1998c017z0035_2006c159z0485o028.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838323/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o028)
+
+#### Návěstidla
+
+5\. Výstražné návěstidlo s návěstí „Pískejte“ je sloupek, na kterém je pás střídavě červených a bílých pruhů stejné délky z materiálu odrážejícího světlo nebo s bílými odrazkami v červených pruzích. Návěstidlo se umísťuje před nezabezpečenými přejezdy na stanovenou vzdálenost podle technické normy a před místa na traťových úsecích, kde není dostatečný prostor pro pobyt osob pohybujících se na trati během jízdy vlaku, zejména před tunely, mosty, zářezy, kde není zajištěn schůdný a manipulační prostor. Podmínky použití návěsti „Pískejte“ se upraví ve vnitřním předpisu.
+
+##### ![sbcr1998c017z0035_2006c159z0485o029.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838325/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o029)
+
+6\. Návěstidlo pracovních čet s návěstí „Pracovní místo, pískejte“ je výstražný terč lichoběžníkového tvaru s dolní kratší hranou a horní hranou, tvořenou půlkružnicí, na kterém je černý obraz kopáče nad zeleným lichoběžníkem; terč se umísťuje na sloupku, označeném vodorovnými červenými a bílými pruhy. Návěstidlo se umisťuje před pracovní místo na traťovém úseku, je-li třeba varovat pracující osoby před jízdou drážního vozidla, a to ve vzdálenosti nejméně 100m před pracovním místem.
+
+##### ![sbcr1998c017z0035_2006c159z0485o030.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838327/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o030)
+
+7\. Návěstidla pro trvalé a přechodné omezení traťové rychlosti:
+
+7.1. Návěstidlo pro trvalé snížení rychlosti „Rychlostník“, tvořený návěstní deskou bílé barvy, na které je černými číslicemi vyznačena dále povolená traťová rychlost v km.h<sup>-1</sup>. Nařizuje-li rychlostník snížení rychlosti, nutno sníženou rychlostí jet ihned za rychlostníkem.
+
+###### ![sbcr1998c017z0035_2006c159z0485o031.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838329/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o031)
+
+7.2. Návěstidla pro přechodné omezení rychlosti
+
+7.2.1. Návěstidlo „Předvěstní štít“ je žlutá trojúhelníková deska s bílým okrajem z materiálu odrážejícího světlo, na které je černou číslicí označena v desítkách km.h<sup>-1</sup> hodnota přechodně snížené traťové rychlosti. Deska se staví přednostně na vrchol, není-li pro umístění např. mezi kolejemi dostatek místa, umístí se na základnu. Sloupek návěstidla se označí dvěmi kulatými odrazovými skly žluté barvy, umístěnými v nestejné výši, přičemž pravá odrazka je níže. Návěstidlo se umísťuje na zábrzdnou vzdálenost před návěst „Začátek pomalé jízdy“.
+
+![sbcr1998c017z0035_2006c159z0485o032.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838331/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o032)![sbcr1998c017z0035_2006c159z0485o033.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838333/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o033)
+
+7.2.2. Návěstidlo „Začátek pomalé jízdy“ je žlutá obdélníková tabule s bílým okrajem z materiálu, odrážejícího světlo postavená na výšku, na které je černé písmeno Z. Označuje místo, kde začíná pomalá jízda o rychlosti, určené předvěstním štítem.
+
+**![sbcr1998c017z0035_2006c159z0485o034.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838335/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o034)**
+
+7.2.3. Návěstidlo „Konec pomalé jízdy“ je bílá obdélníková černě orámovaná tabule z materiálu, odrážejícího světlo postavená na výšku, na které je černé písmeno K. Označuje místo, kde omezení rychlosti, určené předvěstním štítem, končí. Vlak smí zvyšovat rychlost až poslední vozidlo mine tabuli „Konec pomalé jízdy“.
+
+**![sbcr1998c017z0035_2006c159z0485o035.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838337/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o035)**
+
+8\. Návěstidla pro elektrický provoz:
+
+Návěstidla pro elektrický provoz jsou modré čtvercové desky postavené na vrcholu, černě orámované s bílým okrajem.
+
+8.1. Návěst „Vypněte proud“ má návěstní znak v podobě bílého písmene „U“ s přerušenými svislými čárami. Označuje začátek úseku, který se musí projíždět bez odběru trakčního proudu.
+
+###### ![sbcr1998c017z0035_2006c159z0485o036.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838339/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o036)
+
+8.2. Návěst „Zapněte proud“ má návěstní znak v podobě bílého písmene „U“. Označuje konec úseku, který se musí projíždět bez odběru proudu z trakčního vedení.
+
+###### ![sbcr1998c017z0035_2006c159z0485o037.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838341/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o037)
+
+8.3. Návěst „Konec trakčního vedení“ má návěstní znak, který tvoří čtvercový bílý rám postavený na vrcholu s bílým středem. Označuje ukončení trakčního vedení a zákaz jízdy se zdviženými sběrači.
+
+###### ![sbcr1998c017z0035_2006c159z0485o038.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838343/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o038)
+
+8.4. Návěst „Připravte se ke stažení sběračů“ má návěstní znak, tvořený dvěma bílými krátkými vodorovnými pruhy, umístěný symetricky, levý ve spodní části a pravý v horní části návěstní desky. Návěst se umísťuje před návěst „Stáhněte sběrače“.
+
+###### ![sbcr1998c017z0035_2006c159z0485o039.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838345/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o039)
+
+8.5. Návěst „Stáhněte sběrače“ má návěstní znak, tvořený bílým vodorovným pruhem v úhlopříčce návěstní desky. Označuje začátek úseku, který se smí projíždět jen se staženým sběračem. V úrovni návěstidla musí být již sběrač stažen.
+
+###### ![sbcr1998c017z0035_2006c159z0485o040.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838347/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o040)
+
+8.6. Návěst „Zdvihněte sběrače“ má návěstní znak, tvořený svislým bílým pruhem v úhlopříčce návěstní desky. Označuje konec úseku, který se smí projíždět jen se staženými sběrači. Osoba, řídící drážní vozidlo, smí sběrače zdvihnout až poslední sběrač vlaku (soupravy vozidel) mine návěstidlo.
+
+###### ![sbcr1998c017z0035_2006c159z0485o041.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838349/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o041)
+
+8.7. Návěst „Vyměňte sběrače“ má návěstní znak, tvořený bílým křížem umístěným symetricky. Označuje místo, kde je nutno výškové sběrače vyměnit za boční nebo opačně, nebo levé boční za pravé boční nebo opačně.
+
+###### ![sbcr1998c017z0035_2006c159z0485o042.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838351/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o042)
+
+9\. Další návěstidla pro jízdu drážního vozidla:
+
+9.1. „Námezník“ je bílý vodorovný trámec s černými pruhy na obou koncích před šikmým ukončením a označuje u sbíhajících se nebo křížících se kolejí hranici, přes kterou nesmí přesahovat drážní vozidlo, aby nebyla ohrožena jízda po sbíhající se nebo křižující se koleji.
+
+###### ![sbcr1998c017z0035_2006c159z0485o043.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838353/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o043)
+
+9.2. Vyčkávací návěstidla
+
+9.2.1. Vyčkávací návěstidlo „Lichoběžníková tabulka“ je deska lichoběžníkového tvaru, postavená na delší základně, s černým orámováním, umístěná na sloupku, označeném označovacím pásem se šikmými černými a bílými pruhy, které přikazuje vlaku nebo posunujícímu dílu vyčkat u návěstidla na návěst nebo jiný příkaz (ústní, rozhlasem, radiostanicí apod.), dovolující jízdu za toto návěstidlo. Na tratích se zjednodušenou vlakovou dopravou nahrazuje vjezdové návěstidlo dopravny.
+
+**![sbcr1998c017z0035_2006c159z0485o044.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838355/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o044)**
+
+9.2.2. Vyčkávací návěstidlo „Tabulka V“. Bílé písmeno V s černým okrajem; sloupek má šikmé černé bílé pruhy. Návěstidlo zakazuje projetí návěstidla začátkem vlaku nebo čelem posunujícího dílu a vyčkat u návěstidla na návěst nebo jiný příkaz (ústní, rozhlasem, radiostanicí apod.), dovolující jízdu za toto návěstidlo.
+
+**![sbcr1998c017z0035_2006c159z0485o045.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/838357/NAHLED/ZOBRAZ/sbcr1998c017z0035_2006c159z0485o045)**
+
+---
+
+<sup>1</sup>) § 1 písm. h) vyhlášky Ministerstva dopravy č. 173/1995 Sb., kterou se vydává dopravní řád, ve znění vyhlášky č. 242/1996 Sb.
+
+<sup>2</sup>) § 159 vyhlášky Českého báňského úřadu č. 26/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při hornické činnosti a při činnosti prováděné hornickým způsobem na povrchu, ve znění pozdějších předpisů.
+
+<sup>3</sup>) Např. zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů, zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů.
+
+<sup>4</sup>) § 43 a násl. zákona č. 266/1994 Sb., o dráhách.
+
+<sup>5</sup>) Zákon č. 13/1997 Sb., o pozemních komunikacích.
+
+<sup>6</sup>) § 17 odst. 2 vyhlášky Českého báňského úřadu č. 26/1989 Sb.

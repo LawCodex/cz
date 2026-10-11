@@ -1,0 +1,62 @@
+---
+title: "Vyhláška Ministerstva hospodářství č. 233/1993 Sb., kterou se mění a doplňuje vyhláška Úřadu pro normalizaci a měření č. 101/1988 Sb., o certifikaci výrobků"
+identifier: "233/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/233/1993-09-03"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1993-08-17
+effective: 1993-09-03
+last_amended: 1993-09-03
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/233"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva hospodářství č. 233/1993 Sb., kterou se mění a doplňuje vyhláška Úřadu pro normalizaci a měření č. 101/1988 Sb., o certifikaci výrobků
+
+233
+
+VYHLÁŠKA
+
+ministerstva hospodářství
+
+ze dne 17. srpna 1993,
+
+kterou se mění a doplňuje vyhláška Úřadu pro normalizaci a měření č. 101/1988 Sb., o certifikaci výrobků
+
+Ministerstvo hospodářství podle § 35 odst. 1 zákona č. 30/1968 Sb., o státním zkušebnictví, ve znění zákona č. 54/1987 Sb., stanoví:
+
+## Čl. I
+
+Vyhláška Úřadu pro normalizaci a měření č. 101/1988 Sb., o certifikaci výrobků, se mění a doplňuje takto:
+
+1\. § 8 odst. 1 zní:
+
+> „(1) Česká certifikační značka (dále jen „značka“) je uvedena v příloze této vyhlášky. Vedle této značky může být umístěn kód státní zkušebny, která provedla certifikaci.“.
+
+2\. Za § 9 se vkládá nový § 9a, který včetně nadpisu zní:
+
+> **„§ 9a – Přechodné ustanovení**
+
+> Dosavadní certifikační značku lze používat i nadále, pokud příslušné rozhodnutí státní zkušebny o certifikaci nabylo právní moci před dnem nabytí účinnosti této vyhlášky.“.
+
+3\. Pokud se v této vyhlášce používá názvu Úřad pro normalizaci a měření, rozumí se tím Úřad pro technickou normalizaci, metrologii a státní zkušebnictví.
+
+## Čl. II
+
+Příloha k vyhlášce č. 101/1988 Sb. zní:
+
+> „Značka podle § 8 odst. 1
+
+> **![sbcr1993c056z0233o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/794777/NAHLED/ZOBRAZ/sbcr1993c056z0233o001)**
+
+> **Česká certifikační značka“.**
+
+## Čl. III
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+Doc. Ing. Dyba CSc. v. r.

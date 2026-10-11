@@ -1,0 +1,58 @@
+---
+title: "Vyhláška České národní banky č. 33/1998 Sb., o vydání bankovek po 500 Kč vzoru 1997"
+identifier: "33/1998 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1998/33/1998-03-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1998-02-06
+effective: 1998-03-15
+last_amended: 1998-03-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1998/33"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 33/1998 Sb., o vydání bankovek po 500 Kč vzoru 1997
+
+33
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 6. února 1998
+
+o vydání bankovek po 500 Kč vzoru 1997
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Dnem 18. března 1998 se vydávají do oběhu bankovky po 500 Kč vzoru 1997.
+
+(2) Bankovky po 500 Kč vzoru 1997 se od bankovek po 500 Kč vzoru 1993<sup>1</sup>) a od bankovek po 500 Kč vzoru 1995<sup>2</sup>) liší použitým bankovkovým papírem, provedením ochranné soutiskové značky a letopočtem vydání bankovky.
+
+## § 2
+
+(1) Bankovkový papír použitý pro tisk bankovek po 500 Kč vzoru 1997 je opatřen viditelnými oranžovými ochrannými vlákny o délce 6 mm.
+
+(2) Ochranná soutisková značka u bankovek po 500 Kč vzoru 1997 má v průhledu proti světlu podobu písmen „ČR“ umístěných v bílé kruhové ploše. Část ochranné soutiskové značky viditelná na lícní straně je vytištěna v barvě hnědé a je umístěna v levé horní části tiskového obrazce bankovky. Část ochranné soutiskové značky viditelná na rubové straně je vytištěna v barvě hnědé a je umístěna v pravé horní části tiskového obrazce bankovky.
+
+(3) Letopočet vydání bankovky na lícní straně je vytištěn tiskem z plochy a je vyznačen číslem „1997“.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 15. března 1998.
+
+Guvernér:
+
+v z. Ing. Kysilka, CSc. v. r.
+
+viceguvernér
+
+---
+
+<sup>1</sup>) Vyhláška České národní banky č. 159/1993 Sb., o vydání bankovek po 500 Kč, o ukončení platnosti bankovek po 500 Kčs opatřených kolkem a jejich výměně.
+
+<sup>2</sup>) Vyhláška České národní banky č. 268/1995 Sb., o vydání bankovek po 500 Kč vzoru 1995.

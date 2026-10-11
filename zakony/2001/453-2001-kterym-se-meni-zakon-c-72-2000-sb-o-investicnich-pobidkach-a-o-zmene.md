@@ -1,0 +1,221 @@
+---
+title: "Zákon č. 453/2001 Sb., kterým se mění zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 9/1991 Sb., o zaměstnanosti a působnosti orgánů České republiky na úseku zaměstnanosti, ve znění pozdějších předpisů"
+identifier: "453/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/453/2004-10-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2001-11-29
+effective: 2002-01-30
+last_amended: 2004-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/453"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 453/2001 Sb., kterým se mění zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 9/1991 Sb., o zaměstnanosti a působnosti orgánů České republiky na úseku zaměstnanosti, ve znění pozdějších předpisů ve znění zákona č. 436/2004 Sb."
+---
+
+# Zákon č. 453/2001 Sb., kterým se mění zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 9/1991 Sb., o zaměstnanosti a působnosti orgánů České republiky na úseku zaměstnanosti, ve znění pozdějších předpisů
+
+453
+
+ZÁKON
+
+ze dne 29. listopadu 2001,
+
+kterým se mění zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů, a zákon č. 9/1991 Sb., o zaměstnanosti a působnosti orgánů České republiky na úseku zaměstnanosti, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o investičních pobídkách
+
+### Čl. I
+
+Zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), se mění takto:
+
+1\. V § 1 odst. 2 se v úvodní větě slovo „jsou“ nahrazuje slovy „se rozumí“.
+
+2\. V § 1 odst. 2 písmeno b) zní:
+
+> „b) převod technicky vybaveného území za zvýhodněnou cenu,“.
+
+3\. V § 1 odst. 2 se doplňuje nové písmeno e), které včetně poznámek pod čarou č. 2), 2a) a 2b) zní:
+
+> „e) převod pozemků podle zvláštního právního předpisu,<sup>2</sup>) evidovaných v katastru nemovitostí<sup>2a</sup>) jako zemědělské pozemky a převod ostatních druhů pozemků, a to za ceny zjištěné podle zvláštního právního předpisu<sup>2b</sup>) účinného ke dni uzavření smlouvy o převodu. Zvláštní zákony omezující převody pozemků ve vlastnictví České republiky tím nejsou dotčeny.
+
+> <sup>2</sup>) § 17 odst. 3 zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění zákona č. 183/1993 Sb.
+
+> <sup>2a</sup>) § 2 odst. 3 zákona č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů.
+
+> <sup>2b</sup>) § 11 zákona č. 151/1997 Sb., o oceňování majetku a o změně některých zákonů (zákon o oceňování majetku).“.
+
+4\. V § 2 odst. 2 písm. c) se slova „hmotného a nehmotného investičního majetku“ nahrazují slovy, které včetně poznámky pod čarou č. 4a) znějí: „majetku, který je podle zvláštního právního předpisu<sup>4a</sup>) dlouhodobým hmotným a nehmotným majetkem, (dále jen „dlouhodobý hmotný a nehmotný majetek“).
+
+> <sup>4a</sup>) Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.“.
+
+5\. V § 2 odst. 2 písmeno d) včetně poznámky pod čarou č. 5) zní:
+
+> „d) šetrnost výroby, činností, procesů, stavby nebo zařízení k životnímu prostředí,<sup>5</sup>)
+
+> <sup>5</sup>) Například zákon č. 309/1991 Sb., o ochraně ovzduší před znečišťujícími látkami (zákon o ovzduší), ve znění pozdějších předpisů, zákon č. 334/1992 Sb., o ochraně zemědělského půdního fondu, ve znění pozdějších předpisů, zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů, zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, zákon č. 157/1998 Sb., o chemických látkách a chemických přípravcích a o změně některých dalších zákonů, ve znění pozdějších předpisů.“.
+
+6\. V § 2 odst. 2 písmeno e) včetně poznámky pod čarou č. 6) zní:
+
+> „e) pořízení dlouhodobého hmotného a nehmotného majetku nejméně v částce 350 000 000 Kč, přičemž nejméně částka 145 000 000 Kč musí být kryta vlastním kapitálem právnické osoby nebo vlastními prostředky fyzické osoby; za splnění této podmínky se nepovažuje vynaložení investičních prostředků vytvořených ze zisku dosaženého z investiční akce posuzované pro účely poskytnutí veřejné podpory,<sup>6</sup>)
+
+> <sup>6</sup>) Zákon č. 59/2000 Sb., o veřejné podpoře.“.
+
+7\. V § 2 odst. 2 písmeno f) zní:
+
+> „f) splnění podmínek podle písmen a) až c) a e) nejdéle do 3 let od vydání rozhodnutí o příslibu podle § 5; v odůvodněných případech může Ministerstvo průmyslu a obchodu (dále jen „ministerstvo“) na žádost tuto lhůtu prodloužit nejdéle o 2 roky,“.
+
+8\. V § 2 odst. 2 se doplňuje písmeno g), které zní:
+
+> „g) pořizování dlouhodobého hmotného a nehmotného majetku v rámci investiční akce je možné nejdříve ode dne předložení záměru získat investiční pobídky.“.
+
+9\. V § 2 odstavec 4 zní:
+
+> „(4) Pokud ze záměru získat investiční pobídky vyplývá, že celá investiční akce by měla být realizována v okrese nebo okresech, kde je v době předložení záměru míra nezaměstnanosti nejméně o 50 % vyšší než průměrná míra nezaměstnanosti v České republice, uvedená ve statistických údajích Ministerstva práce a sociálních věcí za uplynulá dvě pololetí, ministerstvo sníží částku uvedenou v odstavci 2 písm. e) na částku 100 000 000 Kč; polovina této částky musí být kryta vlastním kapitálem právnické osoby nebo vlastními prostředky fyzické osoby. Za splnění této podmínky se nepovažuje vynaložení investičních prostředků ze zisku dosaženého z investiční akce posuzované pro účely poskytnutí veřejné podpory.“.
+
+10\. V § 2 se odstavec 5 zrušuje.
+
+11\. V § 3 odst. 2 písm. c) se slova „hmotného a nehmotného investičního majetku“ nahrazují slovy „dlouhodobého hmotného a nehmotného majetku“.
+
+12\. V § 4 odst. 1 se ve druhé větě slovo „měly“ nahrazuje slovem „mohly“.
+
+13\. V § 4 odstavec 2 zní:
+
+> „(2) Ministerstvo práce a sociálních věcí a Ministerstvo financí, každé ve své působnosti, na základě žádosti ministerstva udělí souhlas nebo zamítne poskytnutí investičních pobídek ve své působnosti do 14 dnů od obdržení žádosti. Ministerstvo životního prostředí se do 14 dnů od obdržení žádosti ministerstva vyjádří k předpokladům splnění všeobecné podmínky podle § 2 odst. 2 písm. d). Obec, na jejímž katastrálním území bude uskutečněna výstavba a umístěno strojní zařízení, se na základě žádosti ministerstva vyjádří k poskytnutí investiční pobídky podle § 1 odst. 2 písm. b) do 14 dnů od obdržení žádosti.“.
+
+14\. V § 4 se za odstavec 2 vkládá nový odstavec 3, který zní:
+
+> „(3) Ministerstvo podá žádost o povolení výjimky ze zákazu veřejné podpory podle zákona o veřejné podpoře.<sup>6</sup>)“.
+
+Dosavadní odstavce 3 a 4 se označují jako odstavce 4 a 5.
+
+15\. V § 4 odstavec 4 zní:
+
+> „(4) Ministerstvo po posouzení podkladů podle odstavce 1, po předchozím souhlasu Ministerstva financí s poskytnutím investiční pobídky podle § 1 odst. 2 písm. a), po předchozím souhlasu Ministerstva práce a sociálních věcí s poskytnutím investičních pobídek podle § 1 odst. 2 písm. c) a d), na základě vyjádření Ministerstva životního prostředí k předpokladům splnění všeobecné podmínky podle § 2 odst. 2 písm. d), na základě předchozího vyjádření obce, na jejímž katastrálním území bude uskutečněna výstavba a umístěno strojní zařízení, s poskytnutím investiční pobídky podle § 1 odst. 2 písm. b) a na základě rozhodnutí Úřadu pro ochranu hospodářské soutěže (dále jen „Úřad“) podle zákona o veřejné podpoře<sup>6</sup>) vydá nabídku na poskytnutí investičních pobídek v členění na jednotlivé druhy pobídek, jejich hodnoty vyjádřené v orientační výši, včetně podmínek, za kterých lze investiční pobídky čerpat, nebo vydá rozhodnutí, kterým předložený záměr zamítne. Nabídku na poskytnutí investičních pobídek nebo rozhodnutí, kterým předložený záměr zamítne, zašle ministerstvo prostřednictvím určené organizace žadateli, kopii nabídky zašle ministerstvům, která se k žádosti vyjádřila, a Úřadu.“.
+
+16\. V § 4 se odstavec 5 zrušuje.
+
+17\. V § 5 odst. 1 se slova „§ 4 odst. 3“ nahrazují slovy „§ 4 odst. 4“.
+
+18\. V § 5 odstavec 3 zní:
+
+> „(3) Rozhodnutí o příslibu investičních pobídek vydává ministerstvo zájemci na základě předchozího souhlasu Ministerstva financí, jde-li o pobídky podle § 1 odst. 2 písm. a), na základě předchozího souhlasu Ministerstva práce a sociálních věcí, jde-li o pobídky podle § 1 odst. 2 písm. c) a d), na základě předchozího vyjádření obce, na jejímž území má být investice uskutečněna, jde-li o pobídku podle § 1 odst. 2 písm. b), a v souladu s rozhodnutím Úřadu podle zákona o veřejné podpoře.<sup>6</sup>) Kopii rozhodnutí zašle Ministerstvu financí, Ministerstvu práce a sociálních věcí, Úřadu, místně příslušnému správci daně a obci, na jejímž katastrálním území má být investice uskutečněna, přichází-li v úvahu uplatnění investiční pobídky podle § 1 odst. 2 písm. b).“.
+
+19\. V § 5 odst. 4 písmeno d) zní:
+
+> „d) přípustná míra veřejné podpory stanovená rozhodnutím Úřadu podle zákona o veřejné podpoře.<sup>6</sup>)“.
+
+20\. V § 5 odst. 5 se slova „hmotného a nehmotného investičního majetku“ nahrazují slovy „dlouhodobého hmotného a nehmotného majetku“.
+
+21\. § 6 včetně poznámky pod čarou č. 8) se zrušuje.
+
+22\. V § 7 se odstavec 1 zrušuje.
+
+Dosavadní odstavce 2 až 5 se označují jako odstavce 1 až 4.
+
+23\. V § 7 odst. 3 písmeno a) zní:
+
+> „a) ministerstvu u investičních pobídek uvedených v § 1 odst. 2 písm. b) a e) a u všeobecných podmínek uvedených v § 2 odst. 2 písm. a) a b),“.
+
+24\. V § 7 odst. 3 písmeno d) zní:
+
+> „d) Ministerstvu financí a územním finančním orgánům u investiční pobídky uvedené v § 1 odst. 2 písm. a) a u všeobecných podmínek uvedených v § 2 odst. 2 písm. c), e), f) a g).“.
+
+25\. V § 7 odstavec 4 včetně poznámek pod čarou č. 9) a 10) zní:
+
+> „(4) Kontrolu podle odstavce 3 písm. a) a d) jsou příslušné orgány povinny provést nejpozději po uplynutí 3 let od vydání rozhodnutí o příslibu podle § 5. Další kontrola splnění všeobecné podmínky uvedené v § 2 odst. 2 písm. b) musí být prováděna každoročně po dobu poskytování investičních pobídek a další kontrola splnění všeobecné podmínky uvedené v § 2 odst. 2 písm. c) musí být provedena po dokončení investiční akce posuzované pro účely poskytnutí veřejné podpory, nejpozději však v kalendářním roce bezprostředně následujícím po uplynutí posledního zdaňovacího období, v němž bylo možno naposledy uplatnit investiční pobídku podle § 1 odst. 2 písm. a). Kontrola podle odstavce 3 písm. b) se provádí podle zvláštních právních předpisů upravujících ochranu životního prostředí.<sup>9</sup>) Kontrola podle odstavce 3 písm. c) se provádí po uplynutí lhůty uvedené v písemné dohodě podle zvláštního právního předpisu.<sup>10</sup>)
+
+> <sup>9</sup>) Například zákon č. 309/1991 Sb., o ochraně ovzduší před znečišťujícími látkami (zákon o ovzduší), ve znění pozdějších předpisů, zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), zákon č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů.
+
+> <sup>10</sup>) § 5a odst. 2 zákona č. 9/1991 Sb., o zaměstnanosti a působnosti orgánů České republiky na úseku zaměstnanosti, ve znění pozdějších předpisů.“.
+
+26\. V § 8 odstavec 1 včetně poznámky pod čarou č. 11) zní:
+
+> „(1) Při rozhodování podle tohoto zákona se postupuje podle správního řádu,<sup>11</sup>) pokud tento zákon nestanoví jinak.
+
+> <sup>11</sup>) Zákon č. 71/1967 Sb., o správním řízení (správní řád), ve znění pozdějších předpisů.“.
+
+27\. V § 8 odst. 2 se slova „§ 4 odst. 3, § 5 odst. 3 a § 6 odst. 2“ nahrazují slovy „§ 4 odst. 4 a § 5 odst. 3“.
+
+28\. V § 9 se slova „zvláštního právního předpisu“ nahrazují slovy „zákona o veřejné podpoře<sup>6</sup>)“.
+
+### Čl. II – Přechodná ustanovení k části první
+
+1\. Řízení zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních předpisů.
+
+2\. Investiční pobídky udělené v souladu s dosavadními předpisy zůstávají v platnosti za podmínek, za kterých byly uděleny.
+
+3\. Ustanovení § 7 se přiměřeně použijí i pro příjemce investičních pobídek, kterým bylo vydáno rozhodnutí o příslibu investičních pobídek v rámci řízení zahájených přede dnem nabytí účinnosti tohoto zákona.
+
+## ČÁST DRUHÁ – Změna zákona o daních z příjmů
+
+### Čl. III
+
+Zákon č. 586/1992 Sb., o daních z příjmů, ve znění zákona č. 35/1993 Sb., zákona č. 96/1993 Sb., zákona č. 157/1993 Sb., zákona č. 196/1993 Sb., zákona č. 323/1993 Sb., zákona č. 42/1994 Sb., zákona č. 85/1994 Sb., zákona č. 114/1994 Sb., zákona č. 259/1994 Sb., zákona č. 32/1995 Sb., zákona č. 87/1995 Sb., zákona č. 118/1995 Sb., zákona č. 149/1995 Sb., zákona č. 248/1995 Sb., zákona č. 316/1996 Sb., zákona č. 18/1997 Sb., zákona č. 151/1997 Sb., zákona č. 209/1997 Sb., zákona č. 210/1997 Sb., zákona č. 227/1997 Sb., zákona č. 111/1998 Sb., zákona č. 149/1998 Sb., zákona č. 168/1998 Sb., zákona č. 333/1998 Sb., zákona č. 63/1999 Sb., zákona č. 129/1999 Sb., zákona č. 144/1999 Sb., zákona č. 170/1999 Sb., zákona č. 225/1999 Sb., nálezu Ústavního soudu č. 3/2000 Sb., zákona č. 17/2000 Sb., zákona č. 27/2000 Sb., zákona č. 72/2000 Sb., zákona č. 100/2000 Sb., zákona č. 103/2000 Sb., zákona č. 121/2000 Sb., zákona č. 132/2000 Sb., zákona č. 241/2000 Sb., zákona č. 340/2000 Sb., zákona č. 492/2000 Sb., zákona č. 117/2001 Sb., zákona č. 120/2001 Sb. a zákona č. 239/2001 Sb., se mění takto:
+
+1\. V § 35a odst. 1 se slovo „splňuje-li“ nahrazuje slovem „splnil-li“.
+
+2\. V § 35a odst. 2 písmeno b) zní:
+
+> „b) poplatník bude u dlouhodobého hmotného majetku,<sup>20</sup>) s výjimkou nemovitostí, pořízeného v rámci investiční akce posuzované pro účely poskytnutí veřejné podpory, prvním vlastníkem na území České republiky; toto se nevztahuje na majetek nabytý v rámci zpeněžení konkursní podstaty podle zvláštního právního předpisu,“.
+
+3\. V § 35a odst. 2 písm. c) se slova „nebo se s ním nesloučí jiný subjekt“ nahrazují včetně poznámky pod čarou č. 69) slovy „nesloučí se s jiným subjektem, nebo nepřevezme jmění společnosti, jenž bude zrušena bez likvidace (převod jmění na společníka),<sup>69</sup>) nebo v případě fyzické osoby neukončí nebo nepřeruší podnikatelskou činnost.
+
+> <sup>69</sup>) § 69b zákona č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů.“.
+
+4\. V § 35a odst. 2 písmeno d) zní:
+
+> „d) poplatník nezvýší základ pro výpočet slevy na dani obchodními operacemi ve vztazích s osobami uvedenými v ustanovení § 23 odst. 7 způsobem, který neodpovídá ekonomickým principům běžných obchodních vztahů, nebo převodem majetku nebo jeho části výše uvedených osob, který u nich bude mít za následek snížení základu daně nebo zvýšení daňové ztráty.“.
+
+5\. V § 35a odstavec 3 zní:
+
+> „(3) Slevu na dani podle odstavce 1 lze uplatňovat po dobu deseti po sobě bezprostředně následujících zdaňovacích období, přičemž prvním zdaňovacím obdobím, za které lze slevu na dani uplatnit, je zdaňovací období, ve kterém poplatník splnil všeobecné podmínky podle zvláštního právního předpisu<sup>67</sup>) a zvláštní podmínky stanovené tímto zákonem, nejpozději však zdaňovací období, ve kterém uplynuly 3 roky od vydání rozhodnutí o příslibu investičních pobídek podle zvláštního právního předpisu. V případě, že byla lhůta pro splnění všeobecných podmínek prodloužena podle zvláštního právního předpisu,<sup>67</sup>) posunuje se počátek pro uplatnění slevy na dani z příjmů, nejdéle však o 2 roky.“.
+
+6\. V § 35a odstavec 4 včetně poznámky pod čarou č. 67a) zní:
+
+> „(4) Sleva na dani nesmí v jednotlivých zdaňovacích obdobích překročit míru veřejné podpory<sup>67a</sup>) vztaženou k dosud skutečně vynaloženým nákladům, které mohou být podpořeny, a současně nemůže v celkovém souhrnu překročit přípustnou hodnotu veřejné podpory stanovené rozhodnutím podle zvláštního právního předpisu.<sup>67</sup>)
+
+> <sup>67a</sup>) § 3 písm. f) zákona č. 59/2000 Sb., o veřejné podpoře.“.
+
+7\. V § 35a odstavec 6 zní:
+
+> „(6) Nedodrží-li poplatník některou z podmínek uvedených v odstavci 2, s výjimkou podmínky uvedené v odstavci 2 písm. a), nebo některou ze všeobecných podmínek stanovených zvláštním právním předpisem, nárok na slevu podle odstavce 1 zaniká a poplatník je povinen podat dodatečné daňové přiznání<sup>28b</sup>) za všechna zdaňovací období, ve kterých slevu uplatnil. Nedodrží-li poplatník podmínku uvedenou v odstavci 2 písm. a), je povinen podat dodatečné daňové přiznání za všechna zdaňovací období, ve kterých podmínku nedodržel.“.
+
+8\. V § 35a se odstavec 7 zrušuje.
+
+9\. V § 35b odst. 1 se slovo „splňuje-li“ nahrazuje slovem „splnil-li“.
+
+10\. V § 35b odstavec 4 zní:
+
+> „(4) Slevu na dani podle odstavce 1 lze uplatňovat po dobu pěti po sobě bezprostředně následujících zdaňovacích období, přičemž prvním zdaňovacím obdobím, za které lze slevu na dani uplatnit, je zdaňovací období, ve kterém poplatník splnil všeobecné podmínky podle zvláštního právního předpisu<sup>67</sup>) a zvláštní podmínky stanovené tímto zákonem, nejpozději však zdaňovací období, ve kterém uplynuly 3 roky od vydání rozhodnutí o příslibu investičních pobídek podle zvláštního právního předpisu. V případě, že byla lhůta pro splnění všeobecných podmínek prodloužena podle zvláštního právního předpisu,<sup>67</sup>) posunuje se počátek pro uplatnění slevy na dani z příjmů, nejdéle však o 2 roky.“.
+
+11\. V § 35b odstavec 5 zní:
+
+> „(5) Sleva na dani nesmí v jednotlivých zdaňovacích obdobích překročit míru veřejné podpory<sup>67a</sup>) vztaženou k dosud skutečně vynaloženým nákladům, které mohou být podpořeny, a současně nemůže v celkovém souhrnu překročit přípustnou hodnotu veřejné podpory stanovené rozhodnutím podle zvláštního právního předpisu.<sup>67</sup>)“.
+
+12\. V § 35b odstavec 7 zní:
+
+> „(7) Nedodrží-li poplatník některou z podmínek uvedených v § 35a odst. 2, s výjimkou podmínky uvedené v odstavci 2 písm. a), nebo některou ze všeobecných podmínek stanovených zvláštním právním předpisem, nárok na slevu podle odstavce 1 zaniká a poplatník je povinen podat dodatečné daňové přiznání<sup>28b</sup>) za všechna zdaňovací období, ve kterých slevu uplatnil. Nedodrží-li poplatník podmínku uvedenou v § 35a odst. 2 písm. a), je povinen podat dodatečné daňové přiznání za všechna zdaňovací období, ve kterých podmínku nedodržel.“.
+
+13\. V § 35b se odstavec 8 zrušuje.
+
+14\. V § 38r odst. 1 se číslice „15“ nahrazuje číslicí „10“.
+
+### Čl. IV – Přechodná ustanovení k části druhé
+
+Ustanovení § 35a odst. 6 a § 35b odst. 7 zákona č. 586/1992 Sb., ve znění tohoto zákona, se použijí i pro poplatníky, kteří uplatnili nárok na slevu na dani přede dnem nabytí účinnosti tohoto zákona. Ustanovení § 35a odst. 4 a 35b odst. 5 zákona č. 586/1992 Sb., o daních z příjmů, ve znění tohoto zákona, se použijí i pro poplatníky, kterým bylo vydáno rozhodnutí o příslibu investičních pobídek podle zvláštního právního předpisu<sup>67</sup>) přede dnem nabytí účinnosti tohoto zákona.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. VII
+
+Tento zákon nabývá účinnosti třicátým dnem následujícím po dni vyhlášení.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

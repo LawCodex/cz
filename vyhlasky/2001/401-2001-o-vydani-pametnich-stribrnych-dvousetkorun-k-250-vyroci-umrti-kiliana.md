@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 401/2001 Sb., o vydání pamětních stříbrných dvousetkorun k 250. výročí úmrtí Kiliána Ignáce Dientzenhofera"
+identifier: "401/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/401/2001-11-21"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2001-10-10
+effective: 2001-11-21
+last_amended: 2001-11-21
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/401"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 401/2001 Sb., o vydání pamětních stříbrných dvousetkorun k 250. výročí úmrtí Kiliána Ignáce Dientzenhofera
+
+401
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 10. října 2001
+
+o vydání pamětních stříbrných dvousetkorun k 250. výročí úmrtí Kiliána Ignáce Dientzenhofera
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K 250. výročí úmrtí barokního architekta a stavitele Kiliána Ignáce Dientzenhofera se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,50 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je umělecká kompozice stylizovaných heraldických zvířat z velkého státního znaku České republiky se dvěma českými lvy umístěnými diagonálně na zvýrazněných obdélníkových ploškách. Název státu „ČESKÁ REPUBLIKA“ je ve dvou řádcích pod heraldickými zvířaty. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je umístěno v pravé části mincovního pole kolmo k názvu státu. Značka mincovny, která dvousetkorunu razila, je umístěna při spodním okraji dvousetkoruny uprostřed.
+
+(2) Na rubu dvousetkoruny je v horní polovině mincovního pole umístěn fragment barokního portálu, do kterého jsou zakomponovány další motivy typické pro barokní architekturu Kiliána Ignáce Dientzenhofera, v pozadí půdorys chrámu sv. Mikuláše v Praze a v popředí dobový nástroj - odpichovadlo. V dolní polovině mincovního pole je ve třech řádcích nad sebou při pravém a spodním okraji dvousetkoruny umístěn nápis „KILIÁN IGNÁC DIENTZENHOFER“ a pod ním letopočty „1751 ♦ 2001“. Autorem návrhu dvousetkoruny je Petr Pyciak. Iniciály jeho jména, dvě přes sebe položená písmena „P“, jsou umístěny pod letopočty uprostřed při spodním okraji dvousetkoruny.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 21. listopadu 2001.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### ![sbcr2001c149z0401o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/824935/NAHLED/ZOBRAZ/sbcr2001c149z0401o001)
+
+### ![sbcr2001c149z0401o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/824937/NAHLED/ZOBRAZ/sbcr2001c149z0401o002)

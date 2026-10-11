@@ -192,7 +192,7 @@ Ministr financí stanoví vyhláškou ve Sbírce zákonů a nařízení obrazec 
 
 (2) Pro poplatky (daně), které se mají zapravovati kolky nebo užitím úředních kolkovaných blanketů, jest rozhodným poslední uveřejněný přepočítací kurs.
 
-## Oddíl druhý. – **PŘEDPISY PLATNÉ JEN PRO ZEMĚ ČESKOU A MORAVSKOSLEZSKOU.**
+## Oddíl druhý. – PŘEDPISY PLATNÉ JEN PRO ZEMĚ ČESKOU A MORAVSKOSLEZSKOU.
 
 **Poplatky ze smluv společenských.**
 
@@ -240,7 +240,7 @@ Nebyl-li poplatek z účtů obchodníků a živnostníků zaplacen vůbec, sprá
 
 (2) Úřady a důchodkové soudy, rozhodující o přestupcích předpisů o poplatcích, poplatkovém ekvivalentu, dani z obohacení, dani z obchodu cennými papíry, daních dopravních a dávkách za úřední úkony ve věcech správních hodnotí provedené důkazy podle volného uvážení.
 
-## Oddíl třetí. – **PŘEDPISY PLATNÉ JEN NA SLOVENSKU.**
+## Oddíl třetí. – PŘEDPISY PLATNÉ JEN NA SLOVENSKU.
 
 #### § 24. – Ustanovení přechodná.
 

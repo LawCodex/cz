@@ -1,0 +1,261 @@
+---
+title: "Zákon Slovenskej národnej rady č. 84/1991 Sb., o územných finančných orgánoch"
+identifier: "84/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/84/1992-11-16"
+type: act
+jurisdiction: cz
+language: cs
+date: 1991-02-13
+effective: 1991-03-20
+last_amended: 1992-11-16
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/84"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon Slovenskej národnej rady č. 84/1991 Sb., o daňových orgánoch ve znění zákona č. 136/1992 Sb. a zákona č. 511/1992 Sb."
+---
+
+# Zákon Slovenskej národnej rady č. 84/1991 Sb., o územných finančných orgánoch
+
+84
+
+ZÁKON
+
+Slovenskej národnej rady
+
+z 13. februára 1991
+
+o územných finančných orgánoch
+
+Slovenská národná rada sa uzniesla na tomto zákone:
+
+## § 1 – Úvodné ustanovenia
+
+(1) Územné finančné orgány sú orgány miestnej štátnej správy, ktoré
+
+a) vykonávajú správu daní, odvodov, poplatkov a pokút (ďalej len „dane“), ktoré sú príjmom štátneho rozpočtu Slovenskej republiky, štátneho rozpočtu federácie a rozpočtov obcí okrem správy pokút, ktoré sú príjmom rozpočtov obcí<sup>1a</sup>), ak osobitné predpisy neustanovujú inak,<sup>1</sup>)
+
+b) vykonávajú správu dotácií poskytovaných zo štátneho rozpočtu Slovenskej republiky alebo štátneho rozpočtu federácie a zo štátnych účelových fondov Slovenskej republiky alebo federálnych účelových fondov,
+
+c) vykonávajú kontrolu spravovaných daní a dotácií poskytovaných zo štátneho rozpočtu Slovenskej republiky alebo štátneho rozpočtu federácie a zo štátnych účelových fondov Slovenskej republiky alebo federálnych účelových fondov do podnikateľskej sféry,
+
+d) prejednávajú priestupky<sup>2</sup>) vo veciach nimi spravovaných daní a dotácií,
+
+e) vykonávajú kontrolu hospodárenia rozpočtových a príspevkových organizácií,
+
+f) vykonávajú štátny dozor a kontrolu podľa osobitného predpisu.<sup>2a</sup>)
+
+(2) Správou daní sa rozumie určovanie preddavkov k daňovej povinnosti, vyrubovanie, vymáhanie a účtovanie daní vrátane finančného usporiadania preplatkov a nedoplatkov právnických a fyzických osôb podliehajúcim daniam podľa príslušných daňových predpisov (ďalej len „daňové subjekty“). Súčasťou správy daní je aj overovanie podkladov na výkon správy daní predložených daňovým subjektom priamo v daňovom subjekte, podkladov potrebných pre výkon správy, ktoré technicky zabezpečil územný finančný orgán a vyhľadávacia činnosť.
+
+(3) Správou dotácií sa rozumie určenie nároku na čerpanie dotácií, usporiadanie preplatkov a nedoplatkov s príslušným štátnym rozpočtom. Príjemcom dotácie je každý, kto uplatňuje nárok a čerpá z účtu v peňažnom ústave prostriedky štátneho rozpočtu Slovenskej republiky alebo štátneho rozpočtu federácie, štátnych účelových fondov Slovenskej republiky alebo federrálnych účelových fondov.
+
+(4) Kontrolou sa pre účely tohto zákona rozumie podrobné preskúmanie účtovných a iných dokladov daňových subjektov potrebných na určenie daňovej povinnosti a nároku na čerpanie dotácií z hľadiska ich hodnovernosti a úplnosti, ako aj overovanie ďalších skutočností, rozhodujúcich pre výpočet daní a podmienok pre poskytovanie dotácií s právom uložiť dodatočnú daňovú povinnosť a vymáhať vrátenie dotácií v prípade ich neoprávneného použitia. Kontrolou sa pre účely tohto zákona rozumie aj podrobné preskúmanie účtovných a iných dokladov rozpočtových a príspevkových organizácií.
+
+(5) Pod vyhľadávacou činnosťou sa pre účely tohto zákona rozumie zisťovanie nových a k daňovej registrácii neprihlásených daňových subjektov. Daňové subjekty zistené vyhľadávacou činnosťou sa vždy považujú za subjekty, ktoré si nesplnili oznamovaciu povinnosť.
+
+## § 2
+
+(1) Sústavu územných finančných orgánov tvoria daňové úrady, Ústredné daňové riaditeľstvo Slovenskej republiky (ďalej len „ústredné riaditeľstvo“) a správy finančnej kontroly.
+
+(2) Daňový úrad sa zriaďuje pre územný obvod obce alebo viacerých obcí.
+
+(3) Ústredné riaditeľstvo sa zriaďuje pre územné obvody všetkých daňových úradov. Sídlo ústredného riaditeľstva určí Ministerstvo financií Slovenskej republiky (ďalej len „ministerstvo“) všeobecne záväzným právnym predpisom.
+
+(4) Správa finančnej kontroly sa zriaďuje pre územné obvody viacerých daňových úradov.
+
+(5) Sídla a obvody pôsobnosti daňových úradov a správ finančnej kontroly ustanoví ministerstvo všeobecne záväzným právnym predpisom.
+
+**Miestna príslušnosť**
+
+## § 3
+
+Miestna príslušnosť územných finančných orgánov sa riadi, pokiaľ tento zákon alebo osobitné predpisy neustanovujú inak, trvalým bydliskom alebo sídlom daňového subjektu, platiteľa daní<sup>3</sup>) a príjemcu dotácie a sídlom rozpočtovej alebo príspevkovej organizácie.
+
+## § 4
+
+(1) Pre daňové subjekty, ktoré
+
+a) nemajú v Slovenskej republike trvalý pobyt, ale obvykle sa tu zdržujú,<sup>4</sup>) je príslušný daňový úrad, v ktorého územnom obvode sa zdržujú. Pre daňové subjekty, ktoré nemajú v Slovenskej republike trvalý pobyt a ani sa tu obvykle nezdržujú, je príslušný daňový úrad Bratislava I,
+
+b) majú sídlo v cudzine, ale zdroj príjmov plynie z činnosti vykonávanej v stálej prevádzkárni<sup>5</sup>) na území Slovenskej republiky, je príslušný daňový úrad, v ktorého územnom obvode je zriadená stála prevádzkáreň.
+
+(2) Ak je daň vyberaná zrážkou,<sup>6</sup>) je príslušný daňový úrad, v ktorého územnom obvode má dlžník trvalý pobyt alebo sídlo.
+
+(3) Na vyrubenie dane z príjmov obyvateľstva je príslušný daňový úrad, v ktorého územnom obvode mal daňový subjekt trvalé bydlisko 31. decembra roku, za ktorý sa vyrubuje daň.
+
+(4) V pochybnostiach určí miestnu príslušnosť ústredné riaditeľstvo.
+
+## § 5 – Pôsobnosť územných finančných orgánov
+
+(1) Daňové úrady
+
+a) vykonávajú správu daní,
+
+b) prejednávajú priestupky vo veciach nimi spravovaných daní,
+
+c) vykonávajú správu a kontrolu dotácií.
+
+(2) Ústredné riaditeľstvo
+
+a) riadi daňové úrady a určuje vnútornú štruktúru daňových úradov,
+
+b) rozhoduje o odvolaniach proti rozhodnutiam daňových úradov a preskúmava rozhodnutia daňových úradov mimo odvolacieho konania,
+
+c) vykonáva vo vybraných daňových subjektoch a u príjemcov dotácií kontrolu daní a dotácií.
+
+(3) Správy finančnej kontroly
+
+a) vykonávajú kontrolu hospodárenia rozpočtových a príspevkových organizácií,
+
+b) vykonávajú ďalšie kontroly podľa poverenia ministerstva.<sup>6a</sup>)
+
+## § 6 – Pôsobnosť a právomoc ministerstva
+
+Ministerstvo
+
+a) riadi ústredné riaditeľstvo a správy finančnej kontroly a určuje ich vnútornú štruktúru,
+
+b) môže poveriť ústredné riaditeľstvo a správy finančnej kontroly vykonaním kontroly v rozsahu svojej pôsobnosti s výnimkou kontroly ústredných orgánov,
+
+c) rozhoduje o odvolaniach proti rozhodnutiam ústredného riaditeľstva a správ finančnej kontroly a preskúmava ich rozhodnutia mimo odvolacieho konania.
+
+## § 7 – Právna povaha územných finančných orgánov
+
+(1) Ústredné riaditeľstvo je rozpočtovou organizáciou. Na jeho čele je riaditeľ, ktorého vymenúva a odvoláva minister financií Slovenskej republiky. Ústredné riaditeľstvo obstaráva osobné a vecné potreby daňových úradov, ktoré riadi.
+
+(2) Na čele daňového úradu je riaditeľ. Riaditeľov daňových úradov vymenúva a odvoláva riaditeľ ústredného riaditeľstva.
+
+(3) Správa finančnej kontroly je rozpočtovou organizáciou. Na jej čele je riaditeľ, ktorého vymenúva a odvoláva minister financií Slovenskej republiky.
+
+## § 8 – Práva a povinnosti pracovníkov územných finančných orgánov
+
+(1) Pracovníci územných finančných orgánov sú oprávnení
+
+a) vykonávať všetky úkony potrebné na výkon správy a kontroly daní a dotácií v zmysle tohto zákona,
+
+b) vstupovať do všetkých prevádzkových priestorov a zariadení kontrolovaného subjektu, ak si to vyžaduje vykonanie kontrolných úkonov,
+
+c) zabezpečiť preverovaný materiál alebo obstarať si odpisy, výpisy a kópie preverovaných dokladov, ak je nebezpečenstvo, že sa stratí alebo zničí a vykonať technické zabezpečenie proti zneužitiu počítadiel a podobných technických zariadení, ktoré sú podkladom pre vyčíslenie základu dane,
+
+d) požadovať od kontrolovaných subjektov v určených termínoch predloženie potrebných dokladov, ktorých povinnosť vedenia je ustanovená všeobecne záväznými právnymi predpismi,
+
+e) požadovať výsledky previerok vykonaných inými poverenými štátnymi orgánmi, pokiaľ je predpoklad, že predmet a výsledky ich kontroly napomôžu k riadnemu výkonu kontroly,
+
+f) požadovať od kontrolovaných subjektov preukázanie ich totožnosti a doklady oprávňujúce na podnikateľskú činnosť,
+
+g) ak daňovník nemôže alebo odmieta preukázať pôvod zdroja nadobudnutého majetku, je daňový orgán oprávnený predbežným opatrením majetok zabezpečiť až do času, kým daňovník preukáže jeho zdroj nadobudnutia, resp. do zaplatenia vyrubenej dane.
+
+(2) Pracovníci územných finančných orgánov sú povinní
+
+a) preukázať sa pred začatím kontroly daňovému subjektu, príjemcovi dotácie a ostatným kontrolovaným subjektom kontrolným preukazom a príkazom na výkon kontroly podpísaným oprávneným pracovníkom daňového orgánu,
+
+b) vyhotoviť a prerokovať s daňovým subjektom, príjemcom dotácií a ostatnými kontrolovanými subjektmi protokol o vykonanej kontrole, v ktorom bude záväzne deklarovaný výsledok kontroly,
+
+c) zachovávať mlčanlivosť o skutočnostiach, ktoré sa dozvedeli pri výkone správy a kontrole daní a dotácií v daňových subjektoch a u príjemcov dotácií, ako aj pri kontrole ostatných kontrolovaných subjektov, ak osobitný predpis neustanovuje inak.<sup>8</sup>) Nedodržanie tejto povinnosti sa posudzuje ako zneužitie právomoci verejného činiteľa.
+
+(3) Pracovníci územných finančných orgánov nesmú zárobkovo vykonávať kontrolnú, daňovú a účtovnú poradenskú alebo podobnú činnosť pre daňovníkov, platiteľov daní a príjemcov dotácií. Zároveň nesmú vykonávať činnosť audítorov, komerčných právnikov,<sup>8a</sup>) advokátov,<sup>8b</sup>) revízorov účtov, členov dozorných alebo správnych rád alebo členov predstavenstiev.
+
+(4) Pracovníci územných finančných orgánov musia konať a rozhodovať nestranne. Nesmú zneužívať informácie nadobudnuté v súvislosti s výkonom svojej činnosti ani prijímať v súvislosti s výkonom svojej činnosti od kohokoľvek dary, bezodplatné služby a iné výhody.
+
+(5) Porušenie povinností podľa odsekov 3 a 4 sa posudzuje ako porušenie pracovnej disciplíny zvlášť hrubým spôsobom podľa osobitného predpisu.<sup>8c</sup>)
+
+(6) Práva a povinnosti uvedené v odsekoch 1 a 2 majú aj pracovníci ministerstva pri výkone kontroly podľa § 6 ods. 1 písm. c).
+
+## § 9 – Právna ochrana pracovníkov územných finančných orgánov
+
+(1) Pracovníci územných finančných orgánov požívajú pri plnení úloh podľa tohto zákona právnu ochranu verejných činiteľov.<sup>9</sup>)
+
+(2) V prípade požiadania územných finančných orgánov o ochranu pri výkone správy a kontroly sú príslušné oddelenia polície povinné v odôvodnených prípadoch zabezpečiť účasť svojich pracovníkov pri výkone kontroly, aby nedošlo k ohrozeniu ich zdravia.
+
+## § 10 – Pokuty
+
+(1) Územné finančné orgány môžu uložiť právnickým a fyzickým osobám pokutu až do výšky do výšky 1 000 000 Kčs, alebo 10 % daňového základu za marenie výkonu kontroly a neplnenie povinností ustanovených týmto zákonom, ak sa neuloží pokuta podľa osobitného predpisu<sup>9a</sup>). Pri ukladaní pokuty sa prihliada najmä na závažnosť, dobu trvania a následky porušenia povinností vyplývajúcich z § 11 ako aj na výšku daňového základu.
+
+(2) Právo uložiť pokutu podľa odseku 1 má aj ministerstvo pri výkone kontroly podľa § 6 ods. 1 písm. c).
+
+(3) Pre konanie o uložení pokuty platia ustanovenia zákona o správnom konaní.<sup>10</sup>)
+
+(4) Pokutu možno uložiť najneskôr do jedného roka odo dňa, keď sa príslušný orgán dozvedel o porušení povinnosti a do troch rokov odo dňa porušenia povinnosti podľa odseku 1.
+
+(5) Výnos pokút je príjmom štátneho rozpočtu Slovenskej republiky.
+
+## § 11 – Povinnosti daňových subjektov, príjemcov dotácií a ostatných kontrolovaných subjektov
+
+(1) Daňové subjekty, príjemcovia dotácií a ostatné kontrolované subjekty sú povinné preukázať svoju totožnosť, poskytnúť preukaznú dokumentáciu a predložiť oprávnenie na podnikanie, viesť účtovníctvo podľa osobitného predpisu,<sup>10a</sup>) ktorým preukazujú príjmy, výdavky a výsledky podnikateľskej činnosti, majetok slúžiaci na jej prevádzkovanie a záväzky vyplývajúce z tejto činnosti. Ďalej sú povinné vytvárať primerané vecné a priestorové podmienky na výkon kontroly. V prípade nepredloženia príslušnej preukaznej dokumentácie pracovníci územných finančných orgánov uložia príslušnú povinnosť na základe vlastných podkladov alebo preukázaných skutočností.
+
+(2) Povinnosti daňových subjektov, príjemcov dotácií a ostatných kontrolovaných subjektov a ich pracovníkov sa vzťahujú aj na výkon kontroly vykonávaný ministerstvom podľa § 6 ods. 1 písm. c).
+
+(3) Daňové subjekty sú povinné na požiadanie daňových orgánov preukázať zdanenie príjmov, ktoré boli použité na obstaranie majetku.
+
+**Spoločné, prechodné a záverečné ustanovenia**
+
+## § 12
+
+(1) Pre konanie vo veciach daní platia osobitné predpisy.<sup>11</sup>)
+
+(2) Daňové úrady a daňové riaditeľstvá sa zriaďujú z doterajších krajských finančných správ, Finančnej správy hlavného mesta Slovenskej republiky Bratislavy, okresných finančných správ, Mestskej finančnej správy Košice a obvodných finančných správ v hlavnom meste Slovenskej republiky Bratislave.
+
+(3) Právo hospodárenia s národným majetkom doposiaľ užívaným finančnými správami prechádza bezodplatne na daňové riaditeľstvá a ministerstvo.
+
+(4) Práva a povinnosti z pracovnoprávnych vzťahov pracovníkov finančných správ prechádzajú v rozsahu pôsobnosti tohto zákona na daňové orgány.
+
+(5) Na daňové úrady a daňové riaditeľstvá prechádzajú pohľadávky a záväzky finančných správ v rozsahu pôsobnosti tohto zákona.
+
+(6) Pokiaľ sa v doterajších zákonoch a iných všeobecne záväzných právnych predpisoch používajú názvy okresné finančné správy a krajské finančné správy, rozumejú sa tým daňové úrady a daňové riaditeľstvá.
+
+(7) Daňové úrady zriadené podľa zákona Slovenskej národnej rady č. 193/1990 Zb., ktorým sa mení a dopĺňa zákon č. 115/1970 Zb. o finančných správach v znení neskorších predpisov, o zmenách v správe dôchodkovej dane a poľnohospodárskej dane a o rozpočtovom určení výnosu a správe dane z príjmov obyvateľstva, sa považujú za zriadené podľa tohto zákona.
+
+(8) Do nadobudnutia účinnosti novely zákona č. 472/1990 Zb. o organizácii miestnej štátnej správy v znení zákona SNR č. 595/1990 Zb. vykonávajú správu pokút, ktoré sú príjmom rozpočtov obcí, územné finančné orgány.
+
+## § 13
+
+Zrušuje sa zákon Slovenskej národnej rady č. 115/1970 Zb. o finančných správach v znení čl. II zákona Slovenskej národnej rady č. 124/1985 Zb., čl. II zákona Slovenskej národnej rady č. 212/1988 Zb. a čl. I, čl. IV bod 3 a čl. V zákona Slovenskej národnej rady č. 193/1990 Zb.
+
+## § 14
+
+Tento zákon nadobúda účinnosť dňom vyhlásenia.
+
+F. Mikloško v. r.
+
+V. Mečiar v. r.
+
+---
+
+<sup>1</sup>) Zákon SNR č. 193/1990 Zb., ktorým sa mení a dopĺňa zákon SNR č. 115/1970 Zb. o finančných správach v znení neskorších predpisov, o zmenách v správe dôchodkovej dane a poľnohospodárskej dane a o rozpočtovom určení výnosu a správe dane z príjmov obyvateľstva. 
+ Zákon č. 143/1961 Zb. o domovej dani. 
+ Zákon SNR č. 544/1990 Zb. o miestnych poplatkoch.
+
+<sup>1a</sup>) Napr. § 13 zákona SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
+
+<sup>2</sup>) Zákon SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
+
+<sup>2a</sup>) § 46 zákona SNR č. 194/1990 Zb. o lotériách a iných podobných hrách v znení zákona SNR č. 68/1992 Zb.
+
+<sup>3</sup>) § 9 zákona č. 36/1965 Zb. o dani z príjmov z literárnej a umeleckej činnosti v znení zákona č. 160/1968 Zb. 
+ § 10 vyhlášky Federálneho ministerstva financií, Ministerstva financií Českej socialistickej republiky a Ministerstva financií Slovenskej socialistickej republiky č. 161/1976 Zb., ktorou sa vykonáva zákon o dani zo mzdy.
+
+<sup>4</sup>) § 1 ods. 3 zákona č. 389/1990 Zb. o dani z príjmov obyvateľstva.
+
+<sup>5</sup>) § 3 ods. 7 zákona č. 157/1989 Zb. o dôchodkovej dani v znení zákona č. 108/1990 Zb.
+
+<sup>6</sup>) § 19 zákona č. 157/1989 Zb. v znení zákona č. 108/1990 Zb. § 12 a 21 zákona č. 389/1990 Zb.
+
+<sup>6a</sup>) Napr. zákon SNR č. 127/1991 Zb. o pôsobnosti orgánov Slovenskej republiky v oblasti cien, zákon SNR č. 592/1990 Zb. o rozpočtových pravidlách Slovenskej republiky v znení zákona SNR č. 574/1991 Zb.
+
+<sup>8</sup>) Vyhláška ministra štátnej kontroly č. 75/1959 Ú. v., ktorou sa vydávajú metodické pokyny pre kontrolnú činnosť.
+
+<sup>8a</sup>) Zákon SNR č. 129/1991 Zb. o komerčných právnikoch.
+
+<sup>8b</sup>) Zákon SNR č. 132/1990 Zb. o advokácii.
+
+<sup>8c</sup>) § 53 ods. 1 písm. b) Zákonníka práce.
+
+<sup>9</sup>) § 89 ods. 8 zákona č. 140/1961 Zb. Trestný zákon v znení neskorších predpisov.
+
+<sup>9a</sup>) Napr. zákon SNR č. 372/1990 Zb. o priestupkoch v znení zákona SNR č. 524/1990 Zb.
+
+<sup>10</sup>) Zákon č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+<sup>10a</sup>) Zákon č. 563/1991 Zb. o účtovníctve.
+
+<sup>11</sup>) Vyhláška Ministerstva financií č. 16/1962 Zb. o konaní vo veciach daní a poplatkov. 
+ Zákon č. 71/1967 Zb.

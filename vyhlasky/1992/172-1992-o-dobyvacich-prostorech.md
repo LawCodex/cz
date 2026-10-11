@@ -1,0 +1,215 @@
+---
+title: "Vyhláška Českého báňského úřadu č. 172/1992 Sb., o dobývacích prostorech"
+identifier: "172/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/172/2001-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1992-03-16
+effective: 1992-04-16
+last_amended: 2001-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/172"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Českého báňského úřadu č. 172/1992 Sb., o dobývacích prostorech ve znění vyhlášky č. 351/2000 Sb."
+---
+
+# Vyhláška Českého báňského úřadu č. 172/1992 Sb., o dobývacích prostorech
+
+172
+
+VYHLÁŠKA
+
+Českého báňského úřadu
+
+ze dne 16. března 1992
+
+o dobývacích prostorech
+
+Český báňský úřad stanoví podle § 27 odst. 9 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona České národní rady č. 541/1991 Sb.:
+
+## ČÁST PRVNÍ – DOBÝVACÍ PROSTOR
+
+### § 1 – Název dobývacího prostoru
+
+(1) Dobývací prostor se označí názvem katastrálního území, v němž leží dobývací prostor nebo jeho největší část.
+
+(2) Jestliže se v témže katastrálním území stanoví další dobývací prostor, označí se názvem podle odstavce 1 a římskou číslicí.
+
+### § 2 – Návrh na stanovení dobývacího prostoru
+
+(1) Návrh na stanovení dobývacího prostoru předkládá organizace<sup>1</sup>) obvodnímu báňskému úřadu. Jestliže dobývací prostor zasahuje do obvodu působnosti více obvodních báňských úřadů, předkládá se návrh obvodnímu báňskému úřadu, v jehož obvodu působnosti leží největší část dobývacího prostoru.
+
+(2) Obvodní báňský úřad oznámí zahájení řízení o stanovení dobývacího prostoru územnímu orgánu Ministerstva životního prostředí.
+
+(3) Návrh obsahuje
+
+a) název, sídlo a identifikační číslo organizace,
+
+b) název dobývacího prostoru, jeho plošný obsah, označení a souřadnice vrcholů geometrického obrazce, popřípadě jeho výškové ohraničení a zdůvodnění hranic dobývacího prostoru; souřadnice vrcholů se zjistí odsunutím z mapy nebo měřickými metodami,
+
+c) název a identifikační číslo katastrálního území<sup>1a</sup>) s názvem a kódem okresu,<sup>2</sup>) v němž leží dobývací prostor,
+
+d) nerost nebo skupinu nerostů výhradního ložiska, rozsah, uložení, tvar a mocnost ložiska, charakter jeho tektonického porušení a množství zásob,<sup>4</sup>)
+
+e) termín předpokládaného započetí dobývání výhradního ložiska a nejvyšší uvažovaný objem roční těžby,
+
+f) způsob dobývání a jeho vliv na povrch,
+
+g) závěry projednání návrhu na stanovení dobývacího prostoru,<sup>5</sup>) který se dotýká zájmů chráněných podle zvláštních předpisů,<sup>6</sup>) s orgány a fyzickými a právnickými osobami, jimž přísluší ochrana těchto zájmů,
+
+h) název a sídlo organizace, která dobývá totéž nebo sousední ložisko.
+
+(4) K návrhu se přiloží
+
+a) kopie mapy povrchu v měřítku do 1:25 000 včetně se zakreslením hranic dobývacího prostoru a vrcholů jeho geometrického obrazce, jakož i sousedních dobývacích prostorů a stanovených chráněných ložiskových území, chráněných území a ochranných pásem. Je-li dobývací prostor pod povrchem ohraničen přirozenými hranicemi nebo hloubkově, vyznačí se tvar dobývacího prostoru v řezech. V případě dobývání s vlivem na povrch se na kopii mapy povrchu vyznačí nemovitosti dotčené vlivy dobývání,
+
+b) seznam souřadnic vrcholů s hodnotami uvedenými s přesností na celé metry, výpočet plošného obsahu dobývacího prostoru s přesností na m<sup>2</sup> a seznam katastrálních území nebo jejich částí, na kterých se dobývací prostor nachází, s uvedením jejich poměrného zastoupení v ploše dobývacího prostoru. Plochy katastrálních území se určují planimetricky, a to aritmetickým průměrem vypočítaným ze tří měření s přesností na dvě desetinná místa s vyrovnáním na plochu dobývacího prostoru v km<sup>2</sup> nebo jinými metodami dosahujícími alespoň téže přesnosti,
+
+c) posouzený výpočet zásob;<sup>8</sup>) k výpočtu zásob se přiloží geologická mapa ložiska, mapa zásob nebo strukturní mapa u ložisek ropy a hořlavého zemního plynu, popřípadě technicky využitelného přírodního plynu, jakož i charakteristické příčné a podélné řezy ložiskem,
+
+d) osvědčení o výhradním ložisku,
+
+e) rozhodnutí o stanovení chráněného ložiskového území, pokud bylo stanoveno,
+
+f) předchozí souhlas k podání návrhu na stanovení dobývacího prostoru,<sup>3</sup>)
+
+g) při dobývání s vlivem na povrch seznam dotčených pozemků s uvedením parcelních čísel, druhů pozemků (kultur) a právních vztahů podle katastru nemovitostí,<sup>7</sup>)
+
+h) seznam a adresy fyzických a právnických osob, které jsou účastníky řízení,
+
+i) doklady a dokumentaci stanovenou prováděcími předpisy k hornímu zákonu, případně zvláštními právními předpisy,<sup>6</sup>)
+
+j) kopii příslušné části územně plánovací dokumentace<sup>7a</sup>) vztahující se k dobývacímu prostoru a k území mimo dobývací prostor, které bude při hornické činnosti využíváno, např. pro zřízení výsypek, odvalů nebo odkališť, pokud je územně plánovací dokumentace vypracována a schválena,
+
+k) návrh řešení komplexní úpravy území a územních struktur dotčených těžbou;<sup>7b</sup>) v návaznosti na plánované využití území po ukončení dobývání vymezuje tento návrh sanaci a rekultivaci všech pozemků dotčených těžbou v celém území dobývacího prostoru i v území mimo dobývací prostor, které má být při hornické činnosti využíváno, (dále jen „souhrnný plán sanace a rekultivace“). V případě, že životnost dolu, popř. lomu je delší než 10 let, zpracuje se souhrnný plán sanace a rekultivace dolu, popř. lomu nejméně na dobu 10 let. Souhrnný plán sanace a rekultivace obsahuje
+
+1\. návrh na provedení těžby a zdůvodnění takového řešení, které je nejvýhodnější z hlediska ochrany zemědělského půdního fondu,<sup>7c</sup>) bude-li těžbou dotčena zemědělská půda, a z hlediska ochrany pozemků určených k plnění funkcí lesa,<sup>7d</sup>) budou-li dotčeny tyto pozemky,
+
+2\. technické řešení komplexní úpravy území a územních struktur (textová i grafická část),
+
+3\. předpokládaný rozsah všech sanačních a rekultivačních prací podle jednotlivých typů rekultivací a způsob jejich provedení,<sup>7e</sup>)
+
+4\. technické, ekonomické a jiné údaje pro určení výše finančních prostředků potřebných na sanaci a rekultivaci,
+
+l) doklad, že organizace je oprávněna vykonávat hornickou činnost,
+
+m) stanovisko o posouzení vlivu na životní prostředí, pokud toto posouzení je nutno podle zvláštních právních předpisů<sup>7f</sup>) provést,
+
+n) rozhodnutí, popřípadě stanoviska orgánů a organizací, jimž přísluší ochrana zákonem chráněných zájmů podle zvláštních právních předpisů.<sup>6</sup>)
+
+(5) Mapu podle odstavce 4 písm. a) a údaje podle odstavce 4 písm. b) ověří hlavní důlní měřič. Ověřená mapa se předloží v 9 vyhotoveních. Mapa může být zpracována v digitální formě.<sup>9</sup>)
+
+(6) Jestliže předložené podklady nestačí ke spolehlivému posouzení návrhu, především z hlediska ochrany a hospodárného využití výhradního ložiska, důsledků jeho dobývání nebo z hlediska dopadu na zákonem chráněné zájmy, příslušný obvodní báňský úřad si vyžádá další potřebné podklady, stanoviska nebo vyšší počet vyhotovení podkladů potřebných pro řízení a rozhodnutí.
+
+### § 3 – Rozhodnutí o stanovení dobývacího prostoru
+
+(1) V rozhodnutí o stanovení dobývacího prostoru se uvede
+
+a) název, sídlo a identifikační číslo organizace, která bude výhradní ložisko dobývat,
+
+b) název dobývacího prostoru, název a identifikační číslo katastrálního území<sup>1</sup>) s názvem a kódem okresu,<sup>2</sup>) v němž leží dobývací prostor,
+
+c) souřadnice vrcholů a plošný obsah geometrického obrazce, plošný obsah jednotlivých katastrálních území či jejich částí, na kterých se dobývací prostor nalézá, popřípadě výškové označení dobývacího prostoru,
+
+d) druh nerostu nebo skupina nerostů výhradního ložiska, pro jehož dobývání se stanoví dobývací prostor,
+
+e) omezení nebo zvláštní technické podmínky dobývání pro zajištění zákonem chráněných obecných zájmů podle zvláštních předpisů<sup>6</sup>) vyplývající z výsledků řízení o stanovení dobývacího prostoru,
+
+f) termín započetí dobývání výhradního ložiska,
+
+g) podmínky vztahující se k tvorbě jednotné surovinové politiky České republiky.<sup>10</sup>)
+
+(2) Příslušný obvodní báňský úřad zašle rozhodnutí o stanovení dobývacího prostoru účastníkům řízení.<sup>11</sup>) Rozhodnutí a ověřenou mapu povrchové situace [§ 2 odst. 4 písm. a)] zašle
+
+a) navrhující organizaci,
+
+b) územním orgánům životního prostředí, s nimiž bylo stanovení dobývacího prostoru dohodnuto, obvodnímu báňskému úřadu, v jehož obvodu leží část dobývacího prostoru a orgánům územního plánování, stavebnímu úřadu a obecnímu úřadu, v jejichž obvodě leží dobývací prostor nebo jeho část,
+
+c) Českému báňskému úřadu,
+
+d) příslušnému územnímu orgánu geodézie a kartografie,
+
+e) Ministerstvu životního prostředí a Ministerstvu průmyslu a obchodu.
+
+### § 4 – Změna a zrušení dobývacího prostoru
+
+(1) Organizace navrhne
+
+a) změnu dobývacího prostoru, jestliže se na základě dobývání nebo dalšího průzkumu změnily údaje o výhradním ložisku, které odůvodňují změnu hranic dobývacího prostoru nebo zvláštních technických podmínek dobývání,
+
+b) zrušení dobývacího prostoru, jestliže bylo dobývání výhradního ložiska trvale zastaveno, byly odepsány zásoby<sup>12</sup>) a byla ukončena likvidace hlavních důlních děl a lomů.<sup>13</sup>)
+
+(2) Pro změnu a zrušení dobývacího prostoru platí přiměřeně ustanovení § 2 a 3. Při rozšíření dobývacího prostoru upraví organizace podklady podle § 2 o navrhovanou změnu.
+
+### § 5 – Evidence dobývacích prostorů
+
+(1) Evidenci dobývacích prostorů a jejich změn vede obvodní báňský úřad.
+
+(2) Evidence sestává z
+
+a) evidenční knihy,
+
+b) pomocných rejstříků,
+
+c) sbírky listin.
+
+(3) Souhrnnou evidenci dobývacích prostorů a jejich změn vede Český báňský úřad.
+
+## ČÁST DRUHÁ – ZÁVĚREČNÁ USTANOVENÍ
+
+### § 6 – Zrušovací ustanovení
+
+Zrušuje se část druhá vyhlášky Českého báňského úřadu č. 78/1988 Sb., o chráněných ložiskových územích a dobývacích prostorech.
+
+### § 7 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Předseda:
+
+Ing. Bartoš v. r.
+
+---
+
+<sup>1</sup>) § 5a zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona č. 541/1991 Sb.
+
+<sup>1a</sup>) § 3 vyhlášky č. 120/1979 Sb., o prostorové identifikaci informací.
+
+<sup>2</sup>) Opatření č. 13/99 Českého statistického úřadu ze dne 27. dubna 1999 k zavedení klasifikace územních statistických jednotek, vyhlášené v částce 33/1999 Sb.
+
+<sup>3</sup>) § 24 odst. 2 horního zákona.
+
+<sup>4</sup>) § 14 horního zákona.
+
+<sup>5</sup>) § 27 odst. 5 horního zákona.
+
+<sup>6</sup>) Například zákon č. 367/1990 Sb., o obcích (obecní zřízení), zákon č. 425/1990 Sb., o okresních úřadech, úpravě jejich působnosti a o některých dalších opatřeních s tím souvisejících, zákon č. 266/1994 Sb., o dráhách, vyhláška č. 28/1967 Sb., kterou se stanoví pravidla pro styk drah s hornickou činností, zákon č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů, zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů, zákon č. 334/1992 Sb., o ochraně zemědělského půdního fondu, ve znění pozdějších předpisů, zákon č. 138/1973 Sb., o vodách (vodní zákon), ve znění pozdějších předpisů, zákon č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon), ve znění pozdějších předpisů, zákon č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů, zákon č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů.
+
+<sup>7</sup>) Zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů.
+
+<sup>7a</sup>) § 8 zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů.
+
+<sup>7b</sup>) § 31 odst. 5 horního zákona.
+
+<sup>7c</sup>) § 6 zákona č. 334/1992 Sb. 
+ § 5 a § 8 až 11 vyhlášky č. 13/1994 Sb., kterou se upravují některé podrobnosti ochrany zemědělského půdního fondu.
+
+<sup>7d</sup>) § 13 a 14 zákona č. 289/1995 Sb. 
+ Vyhláška č. 77/1996 Sb., o náležitostech žádosti o odnětí nebo omezení a podrobnostech o ochraně pozemků určených k plnění funkcí lesa.
+
+<sup>7e</sup>) Zákon č. 334/1992 Sb., ve znění pozdějších předpisů, a zákon č. 289/1995 Sb., ve znění pozdějších předpisů.
+
+<sup>7f</sup>) Zákon č. 244/1992 Sb., o posuzování vlivů na životní prostředí.
+
+<sup>8</sup>) § 14 odst. 3 horního zákona.
+
+<sup>9</sup>) § 19 odst. 4 vyhlášky č. 435/1992 Sb., o důlně měřické dokumentaci při hornické činnosti a některých činnostech prováděných hornickým způsobem, ve znění vyhlášky č. 158/1997 Sb.
+
+<sup>10</sup>) § 24 odst. 2 horního zákona.
+
+<sup>11</sup>) § 28 odst. 2 horního zákona.
+
+<sup>12</sup>) § 14b odst. 1 horního zákona.
+
+<sup>13</sup>) § 10 odst. 5 a 6 zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona č. 542/1991 Sb.

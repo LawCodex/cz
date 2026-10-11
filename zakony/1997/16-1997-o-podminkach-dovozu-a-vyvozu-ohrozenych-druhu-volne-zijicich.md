@@ -1,0 +1,165 @@
+---
+title: "Zákon č. 16/1997 Sb., o podmínkách dovozu a vývozu ohrožených druhů volně žijících živočichů a planě rostoucích rostlin a dalších opatřeních k ochraně těchto druhů a o změně a doplnění zákona České národní rady č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů"
+identifier: "16/1997 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1997/16/2004-05-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1997-01-22
+effective: 1997-04-01
+last_amended: 2004-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1997/16"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 16/1997 Sb., o podmínkách dovozu a vývozu ohrožených druhů volně žijících živočichů a planě rostoucích rostlin a dalších opatřeních k ochraně těchto druhů a o změně a doplnění zákona České národní rady č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů ve znění zákona č. 320/2002 Sb. a zákona č. 100/2004 Sb."
+---
+
+# Zákon č. 16/1997 Sb., o podmínkách dovozu a vývozu ohrožených druhů volně žijících živočichů a planě rostoucích rostlin a dalších opatřeních k ochraně těchto druhů a o změně a doplnění zákona České národní rady č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů
+
+16
+
+ZÁKON
+
+ze dne 22. ledna 1997
+
+o podmínkách dovozu a vývozu ohrožených druhů volně žijících živočichů a planě rostoucích rostlin a dalších opatřeních k ochraně těchto druhů a o změně a doplnění zákona České národní rady č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST OSMÁ – ZMĚNA A DOPLNĚNÍ ZÁKONA ČESKÉ NÁRODNÍ RADY Č. 114/1992 SB., O OCHRANĚ PŘÍRODY A KRAJINY, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ
+
+### § 33
+
+Zákon České národní rady č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákonného opatření Předsednictva České národní rady č. 347/1992 Sb., zákona č. 289/1995 Sb. a nálezu Ústavního soudu České republiky č. 3/1997 Sb., se mění a doplňuje takto:
+
+1\. V § 5 odst. 6 se slova „Česká a Slovenská Federativní Republika“ nahrazují slovy „Česká republika“ a na konci se připojuje věta, která včetně poznámky č. 4a) zní: „ , s výjimkou vývozu a dovozu ohrožených druhů volně žijících živočichů a planě rostoucích rostlin, který je upraven zvláštním předpisem.<sup>4a</sup>)
+
+> <sup>4a</sup>) Zákon č. 16/1997 Sb., o podmínkách dovozu a vývozu ohrožených druhů volně žijících živočichů a planě rostoucích rostlin a dalších opatřeních k ochraně těchto druhů a o změně a doplnění zákona ČNR č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.“.
+
+2\. § 56 se doplňuje odstavcem 2, který zní:
+
+> „(2) Orgán ochrany přírody v rozhodnutí o výjimce je oprávněn stanovit povinnost označení živočicha zvláště chráněného druhu nezaměnitelnou a nesejmutelnou značkou, popřípadě uvede, že identifikační označení není třeba.“.
+
+3\. V § 80 odst. 1 se na konci připojuje tato věta: „Inspekce je oprávněna, stejně jako okresní úřady a správy, vyžadovat prokázání původu podle § 54, ukládat opatření podle § 66 a odebírat nedovoleně držené jedince podle § 89.“.
+
+4\. V § 87 odst. 1 písm. g) se na konci připojují tato slova: „nebo rostliny nebo živočicha chráněného podle mezinárodních úmluv, popřípadě zvláštního právního předpisu,<sup>4a</sup>)“.
+
+5\. V § 87 odst. 3 písm. i) se na konci připojují tato slova: „nebo nedovoleně vyváží zvláště chráněné druhy; je-li naplněna skutková podstata přestupku podle zvláštního předpisu,<sup>4a</sup>) toto ustanovení se nepoužije,“.
+
+6\. V § 88 odst. 1 se za písmenem m) nahrazuje tečka čárkou a připojuje se písmeno n), které zní:
+
+> „n) neprokáže předepsaným způsobem podle § 54 původ zvláště chráněné rostliny nebo živočicha, nebo rostliny a živočicha chráněného podle mezinárodních úmluv, popřípadě zvláštního právního předpisu.<sup>4a</sup>)“.
+
+7\. V § 88 odst. 2 písm. k) se na konci připojují tato slova: „nebo nedovoleně vyváží zvláště chráněné druhy; je-li naplněna skutková podstata přestupku podle zvláštního předpisu,<sup>4a</sup>) toto ustanovení se nepoužije,“.
+
+8\. § 88 odst. 4 zní:
+
+> „(4) Pokutu podle odstavců 1 a 2 lze uložit nejpozději do tří let ode dne, kdy k protiprávnímu jednání došlo.“.
+
+9\. V § 89 odst. 1 věta druhá zní: „Odebrat může i jedince zvláště chráněných rostlin a živočichů nebo rostlin a živočichů chráněných podle mezinárodních úmluv, pokud držitel takového jedince neprokáže jeho původ podle § 54 odst. 1 nebo je-li obchod s nimi omezen nebo zakázán podle mezinárodních úmluv.“; současně se na konci připojuje tato věta: „V případě odebrání na základě zvláštního předpisu<sup>4a</sup>) se toto ustanovení nepoužije.“.
+
+## ČÁST DEVÁTÁ
+
+### § 34 – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. dubna 1997.
+
+Zeman v. r.
+
+Havel v. r.
+
+Klaus v. r.
+
+### Příloha k zákonu č. 16/1997 Sb.
+
+#### Údaje, které musí obsahovat doklad CITES
+
+#### (§ 20 odst. 1 zákona)
+
+1\. Úplný název mezinárodní úmluvy<sup>1</sup>) nebo zkratku CITES (v záhlaví dokladu);
+
+2\. evidenční číslo a typ dokladu (vývoz, dovoz, opětovný vývoz, ostatní);
+
+3\. název vyvážející země, název země určení;
+
+4\. jména a adresy vývozce a dovozce;
+
+5\. latinský vědecký název druhu exempláře;
+
+6\. popis exempláře (např. živý exemplář, pohlaví, stáří, o jakou část těla nebo výrobek jde);
+
+7\. způsob označení a číslo značky, je-li dotčený exemplář označen;
+
+8\. číslo přílohy mezinárodní úmluvy,<sup>1</sup>) ve které je uveden druh exempláře;
+
+9\. původ exempláře (např. exemplář z volné přírody, živočich odchovaný v zajetí nebo rostlina vypěstovaná člověkem, exemplář rozmnožený člověkem v první generaci, státem zabavený exemplář, neznámý původ s uvedením data, kdy je prokazatelně v držení člověka) a země původu (kde byl exemplář odebrán z přírody, narozen nebo vypěstován);
+
+10\. přesně specifikované množství exemplářů (přednostně počet kusů a váhu zásilky, nelze-li stanovit počet kusů);
+
+11\. pro opětovný vývoz název státu, odkud byl exemplář předtím dovezen, a číslo vývozního povolení příslušného úřadu té země;
+
+12\. specifikace účelu pro jiný vývoz, opětovný vývoz nebo dovoz než obchodní (např. zoologické zahrady, botanické zahrady, cirkus, vědecký, lovecká trofej, osobní, biolékařský výzkum, výchova, reintrodukce nebo introdukce do přírody, odchov v zajetí nebo pěstování v kultuře);
+
+13\. datum vydání a poslední datum platnosti povolení nebo potvrzení;
+
+14\. jméno a podpis pověřeného pracovníka vydávajícího úřadu;
+
+15\. razítko vydávajícího úřadu.
+
+---
+
+<sup>1</sup>) Sdělení Federálního ministerstva zahraničních věcí č. 572/1992 Sb., o sjednání Úmluvy o mezinárodním obchodu ohroženými druhy volně žijících živočichů a rostlin.
+
+<sup>2</sup>) § 139 odst. 8 zákona ČNR č. 13/1993 Sb., celní zákon, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 75 odst. 1 písm. c) zákona ČNR č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Např. zákon č. 23/1962 Sb., o myslivosti, ve znění pozdějších předpisů.
+
+<sup>5</sup>) § 48 zákona ČNR č. 114/1992 Sb.
+
+<sup>6</sup>) Např. zákon ČNR č. 114/1992 Sb., ve znění pozdějších předpisů, zákon č. 87/1987 Sb., o veterinární péči, ve znění pozdějších předpisů, zákon č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů.
+
+<sup>7</sup>) Zákon č. 111/1994 Sb., o silniční dopravě, ve znění zákona č. 38/1995 Sb. 
+ Zákon ČNR č. 246/1992 Sb., o ochraně zvířat proti týrání, ve znění pozdějších předpisů. 
+ Zákon č. 87/1987 Sb., ve znění pozdějších předpisů.
+
+<sup>8</sup>) § 53 zákona ČNR č. 114/1992 Sb.
+
+<sup>9</sup>) Zákon č. 87/1987 Sb., ve znění pozdějších předpisů. 
+ § 13 zákona ČNR č. 246/1992 Sb. 
+ Vyhláška Ministerstva zemědělství č. 75/1996 Sb., kterou se stanoví nebezpečné druhy zvířat.
+
+<sup>10</sup>) § 52 zákona ČNR č. 114/1992 Sb.
+
+<sup>11</sup>) § 47 zákona ČNR č. 13/1993 Sb.
+
+<sup>12</sup>) § 54 zákona ČNR č. 114/1992 Sb.
+
+<sup>13</sup>) Např. zákon ČNR č. 246/1992 Sb., ve znění pozdějších předpisů, zákon č. 87/1987 Sb., ve znění pozdějších předpisů.
+
+<sup>14</sup>) § 3 a 10 zákona ČNR č. 13/1993 Sb.
+
+<sup>15</sup>) Zákon č. 87/1987 Sb., ve znění pozdějších předpisů. 
+ Zákon č. 147/1996 Sb., o rostlinolékařské péči a změnách některých souvisejících zákonů.
+
+<sup>16</sup>) § 309 zákona ČNR č. 13/1993 Sb.
+
+<sup>17</sup>) § 300 a 303 zákona ČNR č. 13/1993 Sb.
+
+<sup>18</sup>) § 13 zákona ČNR č. 246/1992 Sb. 
+ Vyhláška Ministerstva zemědělství č. 75/1996 Sb.
+
+<sup>19</sup>) Zákon ČNR č. 13/1993 Sb., ve znění pozdějších předpisů.
+
+<sup>20</sup>) Zákon ČNR č. 388/1991 Sb., o Státním fondu životního prostředí České republiky, ve znění zákona ČNR č. 334/1992 Sb.
+
+<sup>21</sup>) Zákon ČNR č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů.
+
+<sup>22</sup>) Např. zákon ČNR č. 114/1992 Sb., ve znění pozdějších předpisů, zákon ČNR č. 13/1993 Sb., ve znění pozdějších předpisů, zákon č. 87/1987 Sb., ve znění pozdějších předpisů.
+
+<sup>23</sup>) § 56 zákona ČNR č. 114/1992 Sb.
+
+<sup>24</sup>) Zákon č. 71/1967 Sb., o správním řízení (správní řád).
+
+<sup>25</sup>) Zákon ČNR č. 114/1992 Sb., ve znění pozdějších předpisů.

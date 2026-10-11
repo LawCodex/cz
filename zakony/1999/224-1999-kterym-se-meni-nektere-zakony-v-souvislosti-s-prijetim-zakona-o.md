@@ -1,0 +1,68 @@
+---
+title: "Zákon č. 224/1999 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o ozbrojených silách České republiky a zákona o zajišťování obrany České republiky"
+identifier: "224/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/224/1999-12-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1999-09-14
+effective: 1999-12-01
+last_amended: 1999-12-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/224"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 224/1999 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o ozbrojených silách České republiky a zákona o zajišťování obrany České republiky
+
+224
+
+ZÁKON
+
+ze dne 14. září 1999,
+
+kterým se mění některé zákony v souvislosti s přijetím zákona o ozbrojených silách České republiky a zákona o zajišťování obrany České republiky
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 15/1993 Sb., o Armádě České republiky a o změnách a doplnění některých souvisejících předpisů, se mění takto:
+
+1\. § 1, 2 a 4 se zrušují.
+
+2\. Část šestá se zrušuje.
+
+## Čl. II
+
+Zákon č. 114/1993 Sb., o Kanceláři prezidenta republiky, se mění takto:
+
+1\. § 5 včetně poznámky pod čarou č. 3) zní:
+
+> **„§ 5**
+
+> Vojenská kancelář prezidenta republiky je vojenským útvarem ozbrojených sil České republiky. Úkoly Vojenské kanceláře prezidenta republiky, jmenování a odvolávání náčelníka Vojenské kanceláře prezidenta republiky a jeho pravomoci upravuje zvláštní právní předpis.<sup>3</sup>)
+
+> <sup>3</sup>) Zákon č. 219/1999 Sb., o ozbrojených silách České republiky.“.
+
+2\. Poznámka pod čarou č. 4) se zrušuje.
+
+## Čl. III
+
+Zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění zákona č. 134/1997 Sb. a zákona č. 289/1997 Sb., se mění takto:
+
+1\. V § 5 odst. 1 písm. p) a v § 16 odst. 4 písm. d) se slova „Armádě České republiky“ nahrazují slovy „ozbrojených silách České republiky“.
+
+2\. Poznámka pod čarou č. 5) zní:
+
+> „<sup>5</sup>) Zákon č. 221/1999 Sb., o vojácích z povolání.“.
+
+## Čl. IV
+
+Tento zákon nabývá účinnosti dnem 1. prosince 1999.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

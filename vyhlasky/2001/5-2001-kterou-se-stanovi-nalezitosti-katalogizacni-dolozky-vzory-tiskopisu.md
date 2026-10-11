@@ -1,0 +1,88 @@
+---
+title: "Vyhláška Ministerstva obrany č. 5/2001 Sb., kterou se stanoví náležitosti katalogizační doložky, vzory tiskopisů žádostí, oznámení a přehledů souvisejících s katalogizací a vzor osvědčení o způsobilosti zpracovávat návrh katalogizačních dat o výrobku"
+identifier: "5/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/5/2001-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-12-12
+effective: 2001-04-01
+last_amended: 2001-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/5"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva obrany č. 5/2001 Sb., kterou se stanoví náležitosti katalogizační doložky, vzory tiskopisů žádostí, oznámení a přehledů souvisejících s katalogizací a vzor osvědčení o způsobilosti zpracovávat návrh katalogizačních dat o výrobku
+
+5
+
+VYHLÁŠKA
+
+Ministerstva obrany
+
+ze dne 12. prosince 2000,
+
+kterou se stanoví náležitosti katalogizační doložky, vzory tiskopisů žádostí, oznámení a přehledů souvisejících s katalogizací a vzor osvědčení o způsobilosti zpracovávat návrh katalogizačních dat o výrobku
+
+Ministerstvo obrany stanoví podle § 16 zákona č. 309/2000 Sb., o obranné standardizaci, katalogizaci a státním ověřování jakosti výrobků a služeb určených k zajištění obrany státu a o změně živnostenského zákona:
+
+## § 1 – Náležitosti katalogizační doložky
+
+(1) Katalogizační doložka na dosud nekatalogizovaný výrobek obsahuje
+
+a) obchodní jméno, identifikační číslo a daňové identifikační číslo, sídlo nebo místo podnikání,
+
+b) název výrobku, jeho referenční číslo; referenčním číslem výrobku se rozumí číslo přidělené výrobcem, které výrobek jednoznačně identifikuje a odlišuje od jiných výrobků (například číslo výkresu, označení technických podmínek, identifikační číslo z katalogu výrobce a podobně),
+
+c) požadavek na předložení návrhu katalogizačních dat o výrobku, návrhu katalogizačních dat komponentů a příslušenství, z nichž se výrobek skládá a u nichž je požadována katalogizace (dále jen „návrh katalogizačních dat o výrobku“),
+
+d) stanovení způsobu zpřístupnění dokumentace o výrobku,
+
+e) požadavek bezodkladně informovat o provedených změnách v dokumentaci o výrobku, jejichž důsledkem je změna předloženého návrhu katalogizačních dat o výrobku,
+
+f) požadavek informovat o změnách údajů podle písmene a) výrobce a ztrátě jeho schopnosti vyrábět výrobek.
+
+## § 2 – Vzory tiskopisů žádostí, oznámení, osvědčení a přehledů
+
+Vzory tiskopisů žádostí, oznámení, osvědčení a přehledů souvisejících s katalogizací jsou uvedeny v přílohách č. 1 až 8.
+
+## § 3 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 2001.
+
+Ministr:
+
+RNDr. Vetchý, CSc. v. r.
+
+### Příloha č. 1 k vyhlášce č. 5/2001 Sb.
+
+#### ![sbcr2001c002z0005p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790731/NAHLED/ZOBRAZ/sbcr2001c002z0005p001u001)
+
+### Příloha č. 2 k vyhlášce č. 5/2001 Sb.
+
+#### ![sbcr2001c002z0005p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790733/NAHLED/ZOBRAZ/sbcr2001c002z0005p002u001)
+
+### Příloha č. 3 k vyhlášce č. 5/2001 Sb.
+
+#### ![sbcr2001c002z0005p003u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790735/NAHLED/ZOBRAZ/sbcr2001c002z0005p003u001)
+
+### Příloha č. 4 k vyhlášce č. 5/2001 Sb.
+
+#### ![sbcr2001c002z0005p004u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790737/NAHLED/ZOBRAZ/sbcr2001c002z0005p004u001)
+
+### Příloha č. 5 k vyhlášce č. 5/2001 Sb.
+
+#### ![sbcr2001c002z0005p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790739/NAHLED/ZOBRAZ/sbcr2001c002z0005p005u001)
+
+### Příloha č. 6 k vyhlášce č. 5/2001 Sb.
+
+#### ![sbcr2001c002z0005p006u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790741/NAHLED/ZOBRAZ/sbcr2001c002z0005p006u001)
+
+### Příloha č. 7 k vyhlášce č. 5/2001 Sb.
+
+#### ![sbcr2001c002z0005p007u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790743/NAHLED/ZOBRAZ/sbcr2001c002z0005p007u001)
+
+### Příloha č. 8 k vyhlášce č. 5/2001 Sb.
+
+#### ![sbcr2001c002z0005p008u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/790745/NAHLED/ZOBRAZ/sbcr2001c002z0005p008u001)

@@ -1,0 +1,179 @@
+---
+title: "Zákon č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů"
+identifier: "18/1997 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1997/18/2017-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1997-01-24
+effective: 1997-07-01
+last_amended: 2017-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1997/18"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů ve znění zákona č. 83/1998 Sb., zákona č. 71/2000 Sb., zákona č. 132/2000 Sb., zákona č. 13/2002 Sb., zákona č. 310/2002 Sb., zákona č. 320/2002 Sb., zákona č. 279/2003 Sb., zákona č. 186/2004 Sb., zákona č. 1/2005 Sb., zákona č. 253/2005 Sb., zákona č. 413/2005 Sb., zákona č. 186/2006 Sb., zákona č. 342/2006 Sb., zákona č. 296/2007 Sb., zákona č. 124/2008 Sb., zákona č. 189/2008 Sb., zákona č. 274/2008 Sb., zákona č. 158/2009 Sb., zákona č. 223/2009 Sb., zákona č. 227/2009 Sb., zákona č. 249/2011 Sb., zákona č. 250/2011 Sb., zákona č. 375/2011 Sb., zákona č. 350/2012 Sb., zákona č. 64/2014 Sb., zákona č. 250/2014 Sb. a zákona č. 264/2016 Sb."
+---
+
+# Zákon č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů
+
+18
+
+ZÁKON
+
+ze dne 24. ledna 1997
+
+o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST I
+
+### HLAVA PÁTÁ – OBČANSKOPRÁVNÍ ODPOVĚDNOST ZA JADERNÉ ŠKODY
+
+#### § 32
+
+(1) Pro účely občanskoprávní odpovědnosti za jaderné škody se použijí ustanovení mezinárodní smlouvy,<sup>26</sup>) kterou je Česká republika vázána.
+
+(2) Ustanovení občanského zákoníku se použijí jen tehdy, nestanoví-li mezinárodní smlouva<sup>26</sup>) nebo tento zákon jinak.
+
+#### § 33
+
+(1) Držitel povolení k provozu jaderného zařízení<sup>29</sup>) nebo k jakékoliv činnosti spojené s užíváním jaderného zařízení nebo držitel povolení k přepravě jaderných materiálů<sup>30</sup>) je provozovatelem<sup>31</sup>) odpovědným za jadernou škodu<sup>32</sup>) podle mezinárodní smlouvy,<sup>26</sup>) kterou je Česká republika vázána.
+
+(2) Pokud jedna osoba je držitelem povolení k více jaderným zařízením nacházejícím se na území, pro něž byl schválen společný vnitřní havarijní plán, jsou tato zařízení považována pro účely odpovědnosti za jaderné škody za jedno jaderné zařízení. Za jedno jaderné zařízení ve vztahu k odpovědnosti za jaderné škody však nelze považovat více jaderných zařízení, ke kterým mají povolení různé osoby, i když tato zařízení na sebe přímo navazují.
+
+#### § 34
+
+(1) Při stanovení rozsahu a způsobu náhrady jaderné škody se použijí ustanovení občanského zákoníku. Pro stanovení výše škody se použijí předpisy platné v době vzniku jaderné události,<sup>33</sup>) která jadernou škodu způsobila.
+
+(2) Jadernou škodou je také škoda vzniklá vynaložením nákladů na nezbytná opatření k odvrácení nebo snížení ozáření nebo k obnovení původního nebo obdobného stavu životního prostředí, pokud byla tato opatření vyvolána v důsledku jaderné události a povaha škody to umožňuje.
+
+(3) Státní úřad pro jadernou bezpečnost (dále jen „Úřad“) stanoví vyhláškou limity koncentrace a množství jaderného materiálu, na které se ustanovení o jaderných škodách v souladu s mezinárodní smlouvou<sup>34</sup>) nevztahují.
+
+#### § 35
+
+Odpovědnost držitele povolení za jadernou škodu způsobenou každou jednotlivou jadernou událostí je omezena v případě
+
+a) jaderných zařízení pro energetické účely,<sup>35</sup>) skladů a úložišť vyhořelého jaderného paliva, určeného pro tato zařízení, nebo jaderných materiálů, vzniklých zpracováním tohoto paliva, na částku 8 mld. Kč,
+
+b) ostatních jaderných zařízení a přeprav na částku 2 mld. Kč.
+
+#### § 36
+
+(1) Držitel povolení podle § 33 je povinen sjednat pojištění své vzniku povinnosti k náhradě jaderné škody s pojistitelem oprávněným podle zvláštního zákona,<sup>36</sup>) pokud není stanoveno jiné finanční zajištění pro případ vzniku povinnosti k náhradě jaderné škody.
+
+(2) Ministerstvo financí v dohodě s Úřadem a Ministerstvem průmyslu a obchodu stanoví formou rozhodnutí o výjimce z odstavce 1 v zájmu hospodárného vynakládání státních prostředků, u kterého držitele povolení se namísto pojištění vyžaduje jiné finanční zajištění pro případ vzniku povinnosti k náhradě jaderné škody.
+
+(3) Limit pojistného plnění v případech podle § 35 písm. a) nesmí být nižší než 2 mld. Kč, v případech podle § 35 písm. b) nižší než 300 mil. Kč.
+
+(4) Pojištění se uzavírá nebo jiné finanční zajištění se stanoví zvlášť pro každé jaderné zařízení nebo přepravu jaderných materiálů ve smyslu § 33 odst. 2.
+
+(5) Bližší podmínky jiného finančního zajištění stanoví Ministerstvo financí.
+
+#### § 37
+
+(1) Stát poskytuje záruku za uspokojení přiznaných nároků na náhradu jaderné škody, pokud nejsou uhrazeny z povinného pojištění nebo jiného stanoveného finančního zajištění, a to do částky
+
+a) 8 mld. Kč po vyčerpání plnění pojistitele v rozsahu 2 mld. Kč v případech zařízení podle § 35 písm. a),
+
+b) 2 mld. Kč po vyčerpání plnění pojistitele v rozsahu 300 mil. Kč v případech zařízení podle § 35 písm. b).
+
+(2) Právo státu jako ručitele na postih za uspokojení přiznaných nároků na náhradu jaderné škody vůči držiteli povolení není dotčeno.
+
+#### § 38
+
+(1) Právo na náhradu jaderné škody se promlčí, jestliže nárok na její náhradu nebyl uplatněn ve lhůtě tří let ode dne, kdy se poškozený o události, která vedla k jaderné škodě, a o tom, kdo za ni odpovídá, dozvěděl nebo mohl dozvědět, nejpozději však ve lhůtě deseti let ode dne vzniku takové události; v případě pojištění začínají tyto lhůty běžet uplynutím jednoho roku ode dne vzniku pojistné události.
+
+(2) Držitel povolení je v případě, kdy u něj dojde ke vzniku jaderné události, povinen písemně oznámit v oblasti ovlivněné touto událostí podle zjištění Úřadu na základě činnosti celostátní radiační monitorovací sítě, že má povinnost k náhradě jaderné škody způsobené touto událostí. Toto písemné oznámení musí být veřejně přístupné u držitele povolení a na příslušném krajském úřadu a na všech obecních úřadech v této oblasti.
+
+## ČÁST IV – DOPLNĚNÍ ZÁKONA ČESKÉ NÁRODNÍ RADY Č. 586/1992 SB., O DANÍCH Z PŘÍJMŮ, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ
+
+### § 45
+
+Zákon České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění zákona České národní rady č. 35/1993 Sb., zákona č. 96/1993 Sb., zákona č. 157/1993 Sb., zákona č. 196/1993 Sb., zákona č. 323/1993 Sb., zákona č. 42/1994 Sb., zákona č. 85/1994 Sb., zákona č. 114/1994 Sb., zákona č. 259/1994 Sb., zákona č. 32/1995 Sb., zákona č. 87/1995 Sb., zákona č. 118/1995 Sb., zákona č. 149/1995 Sb., zákona č. 248/1995 Sb. a zákona č. 316/1996 Sb., se doplňuje takto:
+
+V § 18 odst. 2 písm. b) se tečka nahrazuje čárkou a vkládá se nové písmeno c), které včetně poznámky č. 19e) zní:
+
+> „c) příjmy z vlastní činnosti Správy úložišť radioaktivních odpadů<sup>19e</sup>) s výjimkou příjmů podléhajících zvláštní sazbě daně vybírané srážkou podle § 36 tohoto zákona.
+
+> <sup>19e</sup>) § 26 odst. 8 zákona č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů.“.
+
+## ČÁST V – USTANOVENÍ SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ
+
+### § 49 – Závěrečná ustanovení
+
+Zrušují se:
+
+1\. Zákon č. 287/1993 Sb., o působnosti Státního úřadu pro jadernou bezpečnost, ve znění zákona č. 85/1995 Sb.
+
+2\. Zákon č. 28/1984 Sb., o státním dozoru nad jadernou bezpečností jaderných zařízení.
+
+3\. Vyhláška Ministerstva zdravotnictví České socialistické republiky č. 59/1972 Sb., o ochraně zdraví před ionizujícím zářením.
+
+4\. Vyhláška Československé komise pro atomovou energii č. 28/1977 Sb., o evidenci a kontrole jaderných materiálů, ve znění vyhlášky č. 100/1989 Sb.
+
+5\. Vyhláška Československé komise pro atomovou energii č. 67/1987 Sb., o zajištění jaderné bezpečnosti při zacházení s radioaktivními odpady.
+
+6\. Vyhláška Československé komise pro atomovou energii č. 100/1989 Sb., o bezpečnostní ochraně jaderných zařízení a jaderných materiálů.
+
+7\. Vyhláška Československé komise pro atomovou energii č. 191/1989 Sb., kterou se stanoví způsob, lhůty a podmínky ověřování zvláštní odborné způsobilosti vybraných pracovníků jaderných zařízení.
+
+8\. Vyhláška Československé komise pro atomovou energii č. 436/1990 Sb., o zajištění jakosti vybraných zařízení z hlediska jaderné bezpečnosti jaderných zařízení.
+
+9\. Vyhláška Ministerstva zdravotnictví České republiky č. 76/1991 Sb., o požadavcích na omezování ozáření z radonu a dalších přírodních radionuklidů.
+
+10\. Výnos Československé komise pro atomovou energii č. 2/1978 o zajištění jaderné bezpečnosti při navrhování, povolování a provádění staveb s jaderně energetickým zařízením (registrován v částce 28/1978 Sb.).
+
+11\. Výnos Československé komise pro atomovou energii č. 4/1979 o obecných kritériích zajištění jaderné bezpečnosti při umisťování staveb s jaderně energetickým zařízením (registrován v částce 9/1979 Sb.).
+
+12\. Výnos Československé komise pro atomovou energii č. 6/1980 o zajištění jaderné bezpečnosti při spouštění a provozu jaderně energetických zařízení (registrován v částce 13/1980 Sb.).
+
+13\. Výnos Československé komise pro atomovou energii č. 8/1981 o zkoušení zařízení pro přepravu a ukládání radioaktivních materiálů (registrován v částce 20/1981 Sb.).
+
+14\. Výnos Československé komise pro atomovou energii č. 9/1985 o zajištění jaderné bezpečnosti výzkumných jaderných zařízení (registrován v částce 11/1985 Sb.).
+
+### § 50
+
+Tento zákon nabývá účinnosti dnem 1. července 1997, s výjimkou hlavy čtvrté a páté a § 48, které nabývají účinnosti dnem vyhlášení.
+
+Zeman v. r.
+
+Havel v. r.
+
+Klaus v. r.
+
+---
+
+<sup>2b</sup>) § 11 zákona č. 22/1997 Sb., ve znění pozdějších předpisů.
+
+<sup>3b</sup>) Zákon č. 164/2001 Sb., o přírodních léčivých zdrojích, zdrojích přírodních minerálních vod, přírodních léčivých lázních a lázeňských místech a o změně některých souvisejících zákonů (lázeňský zákon).
+
+<sup>26</sup>) Vídeňská úmluva o občanskoprávní odpovědnosti za jaderné škody a Společný protokol týkající se aplikace Vídeňské úmluvy a Pařížské úmluvy, vyhlášené pod č. 133/1994 Sb.
+
+<sup>27</sup>) Zákon č. 40/1964 Sb., ve znění pozdějších předpisů.
+
+<sup>28</sup>) § 5 odst. 2 zákona ČNR č. 425/1990 Sb., o okresních úřadech, úpravě jejich působnosti a o některých dalších opatřeních s tím souvisejících, ve znění zákona č. 254/1994 Sb.
+
+<sup>29</sup>) Čl. I bod 1 písm. j) Vídeňské úmluvy o občanskoprávní odpovědnosti za jaderné škody.
+
+<sup>30</sup>) Čl. I bod 1 písm. h) Vídeňské úmluvy o občanskoprávní odpovědnosti za jaderné škody.
+
+<sup>31</sup>) Čl. I bod 1 písm. c) Vídeňské úmluvy o občanskoprávní odpovědnosti za jaderné škody.
+
+<sup>32</sup>) Čl. I bod 1 písm. k) Vídeňské úmluvy o občanskoprávní odpovědnosti za jaderné škody.
+
+<sup>33</sup>) Čl. I bod 1 písm. l) Vídeňské úmluvy o občanskoprávní odpovědnosti za jaderné škody.
+
+<sup>34</sup>) Čl. I bod 2 Vídeňské úmluvy o občanskoprávní odpovědnosti za jaderné škody.
+
+<sup>35</sup>) Zákon č. 222/1994 Sb.
+
+<sup>36</sup>) Zákon ČNR č. 185/1991 Sb., o pojišťovnictví, ve znění pozdějších předpisů.
+
+<sup>38a</sup>) Zákon č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění pozdějších předpisů.
+
+<sup>38b</sup>) § 1 zákona č. 133/2000 Sb., ve znění zákona č. 53/2004 Sb.
+
+<sup>38c</sup>) Zákon č. 40/1993 Sb., o nabývání a pozbývání státního občanství České republiky, ve znění pozdějších předpisů.
+
+<sup>42</sup>) Čl. 81 Smlouvy o založení Evropského společenství pro atomovou energii.

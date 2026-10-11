@@ -1,0 +1,270 @@
+---
+title: "Nařízení vlády č. 337/2002 Sb., o prohlášení a zrušení prohlášení některých kulturních památek za národní kulturní památky"
+identifier: "337/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/337/2014-06-13"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2002-06-19
+effective: 2002-08-01
+last_amended: 2014-06-13
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/337"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 337/2002 Sb., o prohlášení a zrušení prohlášení některých kulturních památek za národní kulturní památky ve znění nařízení vlády č. 422/2005 Sb. a nařízení vlády č. 94/2014 Sb."
+---
+
+# Nařízení vlády č. 337/2002 Sb., o prohlášení a zrušení prohlášení některých kulturních památek za národní kulturní památky
+
+337
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 19. června 2002
+
+o prohlášení a zrušení prohlášení některých kulturních památek za národní kulturní památky
+
+Vláda nařizuje podle § 4 odst. 1 zákona č. 20/1987 Sb., o státní památkové péči:
+
+## ČÁST PRVNÍ – PROHLÁŠENÍ NĚKTERÝCH KULTURNÍCH PAMÁTEK ZA NÁRODNÍ KULTURNÍ PAMÁTKY
+
+### § 1
+
+(1) Za národní kulturní památky se prohlašují tyto kulturní památky:
+
+a) v hlavním městě Praze
+
+1\. České korunovační klenoty,
+
+2\. Betlémská kaple,
+
+3\. Karolinum,
+
+4\. Národní muzeum,
+
+5\. Novoměstská radnice;
+
+b) v Jihočeském kraji
+
+Rožmberská rybniční soustava;
+
+c) v Ústeckém kraji
+
+Památník obětem katastrofy na dole Nelson;
+
+d) v kraji Vysočina
+
+1\. Rodný dům Karla Havlíčka Borovského,
+
+2\. Klášter s kostelem sv. Prokopa v Třebíči,
+
+3\. Židovský hřbitov v Třebíči;
+
+e) v Moravskoslezském kraji
+
+Důl Hlubina a vysoké pece a koksovna Vítkovických železáren.
+
+(2) Umístění, popis a prostorová identifikace národních kulturních památek podle odstavce 1 jsou uvedeny v příloze k tomuto nařízení.
+
+(3) Státní ústav památkové péče vyznačí národní kulturní památky podle odstavce 1 do 2 vyhotovení kopií katastrálních map do 60 dnů ode dne nabytí účinnosti tohoto nařízení; 1 vyhotovení uloží do Ústředního seznamu kulturních památek a 1 vyhotovení neprodleně zašle krajskému úřadu, v jehož správním obvodu se národní kulturní památka podle odstavce 1 nachází.
+
+(4) Pokud se v příloze k tomuto nařízení uvádí v prostorových identifikačních znacích část pozemku, rozumí se jí ta jeho část, která je zakreslena v kopiích katastrálních map podle odstavce 3.
+
+## ČÁST DRUHÁ – ZRUŠENÍ PROHLÁŠENÍ NĚKTERÝCH KULTURNÍCH PAMÁTEK ZA NÁRODNÍ KULTURNÍ PAMÁTKY
+
+### § 2
+
+Zrušuje se prohlášení těchto národních kulturních památek:
+
+a) České korunovační klenoty, Karolinum v Praze, Betlémská kaple v Praze, Novoměstská radnice v Praze a Národní muzeum v Praze,
+
+b) Pomník obětem důlní katastrofy na dole Nelson v Oseku a Rodný dům Karla Havlíčka Borovského v Havlíčkově Borové
+
+učiněné usneseními vlády.<sup>1</sup>)
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### § 3
+
+Toto nařízení nabývá účinnosti dnem 1. srpna 2002.
+
+Předseda vlády:
+
+Ing. Zeman v. r.
+
+Ministr kultury:
+
+Dostál v. r.
+
+### Příloha k nařízení vlády č. 337/2002 Sb.
+
+#### Umístění, popis a prostorová identifikace národních kulturních památek prohlášených tímto nařízením
+
+a) **v hlavním městě Praze**
+
+1.
+
+Název: **České korunovační klenoty**
+
+Popis: Soubor věcí tvořený Svatováclavskou korunou, pouzdrem na korunu, poduškou pod korunu, žezlem, pouzdrem na žezlo, jablkem, pouzdrem na jablko, pláštěm s hermelínovými doplňky, štolou, pásem a tzv. manipulem s hermelínovým lemem, uložený na Pražském hradě,
+
+2.
+
+Název: **Betlémská kaple**
+
+Popis: areál kaple tvořený budovami, jejich pozůstatky a jinými nemovitými objekty na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků
+
+Prostorové identifikační znaky:
+
+Obec: hlavní město Praha
+
+Městská část: Praha 1
+
+Katastrální území: Staré Město
+
+Pozemky, parcelní čísla: 198/2, 200, 201
+
+Budovy, čísla popisná: 256,169,
+
+3.
+
+Název: **Karolinum**
+
+Popis: budova Karolina na pozemku vymezeném prostorovými identifikačními znaky, včetně tohoto pozemku
+
+Prostorové identifikační znaky:
+
+Obec: hlavní město Praha
+
+Městská část: Praha 1
+
+Katastrální území: Staré Město
+
+Pozemek, parcelní číslo: 568
+
+Budova, číslo popisné: 541,
+
+4.
+
+Název: **Národní muzeum**
+
+Popis: budova muzea s objektem vnější vstupní rampy na pozemku vymezeném prostorovými identifikačními znaky, včetně tohoto pozemku
+
+Prostorové identifikační znaky:
+
+Obec: hlavní město Praha
+
+Městská část: Praha 1
+
+Katastrální území: Nové Město
+
+Pozemek, parcelní číslo: 1
+
+Budova, číslo popisné: 1700,
+
+5.
+
+Název: **Novoměstská radnice**
+
+Popis: areál radnice tvořený budovami na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků
+
+Prostorové identifikační znaky:
+
+Obec: hlavní město Praha
+
+Městská část: Praha 2
+
+Katastrální území: Nové Město
+
+Pozemky, parcelní čísla: 768, 769/2
+
+Budovy, čísla popisná: 1;
+
+b) **v Jihočeském kraji**
+
+Název: **Rožmberská rybniční soustava**
+
+Popis: rybniční soustava tvořená Zlatou stokou, Starou řekou, Novou řekou, rybníkem Rožmberk, Rožmberskou baštou, rybníkem Svět a dalšími nemovitými objekty na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků
+
+<table><tbody><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Zlatá stoka</td><td></td></tr><tr><td>Okres:</td><td>Jindřichův Hradec</td></tr><tr><td>Obec:</td><td>Majdalena</td></tr><tr><td>Katastrální území:</td><td>Majdalena</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 535/1, 535/2, 535/3</td></tr><tr><td>Obec:</td><td>Třeboň</td></tr><tr><td>Katastrální území:</td><td>Branná</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 2817/1</td></tr><tr><td>Katastrální území:</td><td>Třeboň</td></tr><tr><td rowspan="2">Pozemky, parcelní čísla:</td><td rowspan="2">pozemkové parcely: 102, 2012/1, 2012/2, 2012/3, 2036/1, 2036/2, 2040, 2041/1,2116, 2419</td></tr><tr></tr><tr><td>Katastrální území:</td><td>Břilice</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 1746</td></tr><tr><td>Katastrální území:</td><td>Stará Hlína</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>495</td></tr><tr><td>Katastrální území:</td><td>Přeseka</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 1154/1</td></tr><tr><td>Obec:</td><td>Lomnice nad Lužnicí</td></tr><tr><td>Katastrální území:</td><td>Lomnice nad Lužnicí</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 3570/1</td></tr><tr><td>Obec:</td><td>Záblatí</td></tr><tr><td>Katastrální území:</td><td>Záblatí u Ponědraže</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 1384</td></tr><tr><td>Obec:</td><td>Smržov u Lomnice nad Lužnicí</td></tr><tr><td>Katastrální území:</td><td>Smržov u Lomnice nad Lužnicí</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 1017/1, 1017/2</td></tr><tr><td>Obec:</td><td>Ponědraž</td></tr><tr><td>Katastrální území:</td><td>Ponědraž</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 2034/1, 2034/2</td></tr><tr><td>Obec:</td><td>Ponědrážka</td></tr><tr><td>Katastrální území:</td><td>Ponědrážka</td></tr><tr><td rowspan="2">Pozemky, parcelní čísla:</td><td rowspan="2">pozemkové parcely: 2091/1, 2091/5, 2091/9, 2091/10, 2091/11, 2091/12, 2091/13</td></tr><tr></tr><tr><td>Okres:</td><td>Tábor</td></tr><tr><td>Obec:</td><td>Horusice</td></tr><tr><td>Katastrální území:</td><td>Horusice</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 2305/1, 2311</td></tr><tr><td>Obec:</td><td>Veselí nad Lužnicí</td></tr><tr><td>Katastrální území:</td><td>Veselí nad Lužnicí</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 4219</td></tr><tr><td>Stará řeka</td><td></td></tr><tr><td>Okres:</td><td>Jindřichův Hradec</td></tr><tr><td>Obec:</td><td>Třeboň</td></tr><tr><td>Katastrální území:</td><td>Holičky u Staré Hlíny</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 518, 548/4, 549/1, 549/2, 550, 605, 660,</td></tr><tr><td></td><td>703/2, 727/1,727/2, 727/6</td></tr><tr><td>Katastrální území:</td><td>Stará Hlína</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 461/2</td></tr><tr><td>Nová řeka</td><td></td></tr><tr><td>Okres:</td><td>Jindřichův Hradec</td></tr><tr><td>Obec:</td><td>Novosedly nad Nežárkou</td></tr><tr><td>Katastrální území:</td><td>Mláka</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 398/1, 398/2, 398/3, 398/4</td></tr><tr><td>Katastrální území:</td><td>Novosedly nad Nežárkou</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 2846/2</td></tr><tr><td>Obec:</td><td>Pístina</td></tr><tr><td>Katastrální území:</td><td>Pístina</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 992/3, 992/5, 992/6, 992/8</td></tr><tr><td>Obec:</td><td>Třeboň</td></tr><tr><td>Katastrální území:</td><td>Holičky u Staré Hlíny</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 731/1</td></tr><tr><td>Rybník Rožmberk</td><td></td></tr><tr><td>Okres:</td><td>Jindřichův Hradec</td></tr><tr><td>Obec:</td><td>Třeboň</td></tr><tr><td>Katastrální území:</td><td>Stará Hlína</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 455/2, 456/1, 456/2, 461/2, 493 (část)</td></tr><tr><td></td><td>stavební parcela: 121</td></tr><tr><td>Rožmberská bašta</td><td></td></tr><tr><td>Okres:</td><td>Jindřichův Hradec</td></tr><tr><td>Obec:</td><td>Lužnice</td></tr><tr><td>Katastrální území:</td><td>Lužnice</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>stavební parcela: 50</td></tr><tr><td>Budova, číslo popisné:</td><td>40</td></tr><tr><td>Rybník Svět</td><td></td></tr><tr><td>Okres:</td><td>Jindřichův Hradec</td></tr><tr><td>Obec:</td><td>Třeboň</td></tr><tr><td>Katastrální území:</td><td>Třeboň</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>pozemkové parcely: 94, 95, 1989/1, 1989/4, 2008, 2009</td></tr><tr><td>Obec:</td><td>Domanín u Třeboně</td></tr><tr><td>Katastrální území:</td><td>Domanín u Třeboně</td></tr><tr><td>Pozemek, parcelní číslo:</td><td>pozemková parcela: 487/13;</td></tr></tbody></table>
+
+c) **v Ústeckém kraji**
+
+Název: **Památník obětem katastrofy na dole Nelson**
+
+Popis: pomník na pozemku vymezeném prostorovými identifikačními znaky, včetně tohoto pozemku
+
+Prostorové identifikační znaky:
+
+Okres: Teplice
+
+Obec: Osek u Duchcova
+
+Katastrální území: Osek u Duchcova
+
+Pozemek, parcelní číslo: 737/4;
+
+d) **v kraji Vysočina**
+
+1.
+
+Název: **Rodný dům Karla Havlíčka Borovského**
+
+Popis: budova na pozemku vymezeném prostorovými identifikačními znaky, včetně tohoto pozemku
+
+Prostorové identifikační znaky:
+
+Okres: Havlíčkův Brod
+
+Obec: Havlíčkova Borová
+
+Katastrální území: Havlíčkova Borová
+
+Pozemek, parcelní číslo: stavební parcela: 160
+
+Budova, číslo popisné: 163,
+
+2.
+
+Název: **Klášter s kostelem sv. Prokopa v Třebíči**
+
+Popis: areál bývalého benediktinského kláštera s kostelem sv. Prokopa tvořený budovami, jejich pozůstatky a jinými nemovitými objekty na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků
+
+Prostorové identifikační znaky:
+
+Okres: Třebíč
+
+Obec: Třebíč
+
+Katastrální území: Podklášteří
+
+Pozemky, parcelní čísla: stavební parcely: 4, 12, 13, 10/1 (část), 10/2, 10/3, 10/4, 
+ pozemkové parcely: 18/1, 18/2
+
+Budovy, čísla popisná: 1, 2, 163,
+
+3.
+
+Název: **Židovský hřbitov v Třebíči**
+
+Popis: židovský hřbitov s náhrobky, budovami a jinými nemovitými objekty na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků
+
+Prostorové identifikační znaky:
+
+Okres: Třebíč
+
+Obec: Třebíč
+
+Katastrální území: Podklášteří
+
+Pozemky, parcelní čísla: stavební parcely: 312, 570 
+ pozemkové parcely: 94, 95, 89/2;
+
+e) **v Moravskoslezském kraji**
+
+<table><tbody><tr><td>Název:</td><td><b>Důl Hlubina a vysoké pece a koksovna Vítkovických železáren</b></td></tr><tr><td>Popis:</td><td>areál kamenouhelného dolu tvořený budovami, jinými nemovitými objekty a technickým zařízením na pozemcích vymezených prostorovými identifikačními znaky, včetně těchto pozemků</td></tr><tr><td colspan="2">Prostorové identifikační znaky:</td></tr><tr><td>Okres:</td><td>Ostrava-město</td></tr><tr><td>Obec:</td><td>Ostrava</td></tr><tr><td>Katastrální území:</td><td>Moravská Ostrava</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>3206/2, 3207, 3209, 3211, 3212, 3214, 3220/1 (část), 3220/2, 3220/3, 3226/1, 3226/2, 3226/3</td></tr><tr><td>Budova číslo popisné:</td><td>3263</td></tr><tr><td>Katastrální území:</td><td>Vítkovice</td></tr><tr><td>Pozemky, parcelní čísla:</td><td>1051/1 (část), 1051/24, 1051/44, 1051/78, 1051/90 (část), 1051/92, 1051/93, 1051/95 (část), 1051/105, 1051/106, 1051/107, 1051/108</td></tr><tr><td>Budovy čísla popisná:</td><td>2993,2994</td></tr><tr><td colspan="2">Budovy, jiné nemovité objekty a technická zařízení:</td></tr><tr><td>Katastrální území:</td><td>Moravská Ostrava</td></tr><tr><td></td><td>těžní věž a těžní budova včetně 2 mostů pro oběh důlních vozíků, strojovna těžních strojů a elektrický těžní stroj Škoda Plzeň, koupelny mužstva (staré), kotelna se 4 parními kotly Garbe, úpravna uhlí, třídírna uhlí, komín kotelny, koupelny mužstva (nové), kompresorovna s turbokompresorem Breitfeld Daněk</td></tr><tr><td>Katastrální území:</td><td>Vítkovice</td></tr><tr><td></td><td>vykládka uhlí z vagonů, mlýnice uhlí, budova zásobníků, uhelná věž, koksárenská baterie č. 5 – fragment kolejí výtlačného a vodícího vozu a komín, západní hasící věž, hrubá třídírna koksu, zavážení vysokých pecí, vysoká pec č. 1 včetně skipu pro dopravu surovin k sazebně, strojovny s elektrickým těžním strojem, prašníku, ohřívačů větru, komínu, velínu a odlévací haly, vysoká pec č. 4 včetně skipu pro dopravu surovin k sazebně, strojovny s elektrickým těžním strojem, prašníku, ohřívačů větru, komínu, velínu a odlévací haly, vysoká pec č. 6 včetně skipu pro dopravu surovin k sazebně, strojovny s elektrickým těžním strojem, prašníku, ohřívačů větru, velínu a odlévací haly, plynojem a energetická ústředna č. VI včetně 2 pístových dmychadel.</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Usnesení vlády ČSR ze dne 30. března 1962 č. 251. 
+ Usnesení vlády ČSR ze dne 24. února 1978 č. 70.

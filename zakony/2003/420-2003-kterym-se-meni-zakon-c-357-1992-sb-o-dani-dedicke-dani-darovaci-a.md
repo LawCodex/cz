@@ -1,0 +1,51 @@
+---
+title: "Zákon č. 420/2003 Sb., kterým se mění zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů, a související zákony"
+identifier: "420/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/420/2014-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2003-11-05
+effective: 2004-01-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/420"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 420/2003 Sb., kterým se mění zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů, a související zákony ve znění zákonného opatření senátu č. 340/2013 Sb. a zákonného opatření senátu č. 344/2013 Sb."
+---
+
+# Zákon č. 420/2003 Sb., kterým se mění zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů, a související zákony
+
+420
+
+ZÁKON
+
+ze dne 5. listopadu 2003,
+
+kterým se mění zákon č. 357/1992 Sb., o dani dědické, dani darovací a dani z převodu nemovitostí, ve znění pozdějších předpisů, a související zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o Všeobecné zdravotní pojišťovně České republiky
+
+### Čl. IV
+
+V zákoně č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky, ve znění zákona č. 305/1997 Sb. a zákona č. 127/1998 Sb., se § 11 včetně poznámky pod čarou č. 11) zrušuje.
+
+## ČÁST TŘETÍ – Změna zákona o resortních, oborových, podnikových a dalších zdravotních pojišťovnách
+
+### Čl. V
+
+V zákoně č. 280/1992 Sb., o resortních, oborových, podnikových a dalších zdravotních pojišťovnách, ve znění zákona č. 127/1998 Sb., se § 20 včetně nadpisu a poznámky pod čarou č. 19) zrušuje.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. VI
+
+Tento zákon nabývá účinnosti dnem 1. ledna 2004.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Špidla v. r.

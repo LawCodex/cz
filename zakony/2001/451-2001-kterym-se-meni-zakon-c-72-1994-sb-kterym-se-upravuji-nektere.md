@@ -1,0 +1,65 @@
+---
+title: "Zákon č. 451/2001 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, a některé další zákony"
+identifier: "451/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/451/2014-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2001-11-27
+effective: 2001-12-31
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/451"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 451/2001 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, a některé další zákony ve znění zákona č. 89/2012 Sb."
+---
+
+# Zákon č. 451/2001 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, a některé další zákony
+
+451
+
+ZÁKON
+
+ze dne 27. listopadu 2001,
+
+kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, a některé další zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o soudních poplatcích
+
+### Čl. IV
+
+V zákoně č. 549/1991 Sb., o soudních poplatcích, ve znění zákona č. 271/1992 Sb., zákona č. 273/1994 Sb., zákona č. 36/1995 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 151/1997 Sb., zákona č. 209/1997 Sb., zákona č. 227/1997 Sb., zákona č. 103/2000 Sb., zákona č. 155/2000 Sb., zákona č. 241/2000 Sb. a zákona č. 255/2000 Sb., § 11 odst. 2 písmeno n) včetně poznámky pod čarou č. 3a) zní:
+
+> „n) společenství vlastníků jednotek<sup>3a</sup>) ve věcech rejstříku společenství vlastníků jednotek,
+
+> <sup>3a</sup>) Zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů.“.
+
+## ČÁST TŘETÍ – Změna občanského soudního řádu
+
+### Čl. V
+
+Zákon č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 36/1967 Sb., zákona č. 158/1969 Sb., zákona č. 49/1973 Sb., zákona č. 20/1975 Sb., zákona č. 133/1982 Sb., zákona č. 180/1990 Sb., zákona č. 328/1991 Sb., zákona č. 519/1991 Sb., zákona č. 263/1992 Sb., zákona č. 24/1993 Sb., zákona č. 171/1993 Sb., zákona č. 117/1994 Sb., zákona č. 152/1994 Sb., zákona č. 216/1994 Sb., zákona č. 84/1995 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 238/1995 Sb., zákona č. 247/1995 Sb., nálezu Ústavního soudu č. 31/1996 Sb., zákona č. 142/1996 Sb., nálezu Ústavního soudu č. 269/1996 Sb., zákona č. 202/1997 Sb., zákona č. 227/1997 Sb., zákona č. 15/1998 Sb., zákona č. 91/1998 Sb., zákona č. 165/1998 Sb., zákona č. 326/1999 Sb., zákona č. 360/1999 Sb., nálezu Ústavního soudu č. 2/2000 Sb., zákona č. 27/2000 Sb., zákona č. 30/2000 Sb., zákona č. 46/2000 Sb., zákona č. 105/2000 Sb., zákona č. 130/2000 Sb., zákona č. 155/2000 Sb., zákona č. 204/2000 Sb., zákona č. 220/2000 Sb., zákona č. 227/2000 Sb., zákona č. 367/2000 Sb., zákona č. 370/2000 Sb., zákona č. 120/2001 Sb., zákona č. 137/2001 Sb., zákona č. 231/2001 Sb., zákona č. 271/2001 Sb., nálezu Ústavního soudu č. 276/2001 Sb. a zákona č. 317/2001 Sb., se mění takto:
+
+1\. V § 35 odst. 1 písmeno i) včetně poznámky pod čarou č. 57a) zní:
+
+> „i) obchodního rejstříku, rejstříku obecně prospěšných společností, nadačního rejstříku a rejstříku společenství vlastníků jednotek,<sup>57a</sup>)
+
+> <sup>57a</sup>) Zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů.“.
+
+2\. V § 35 odst. 1 se na konci písmene k) tečka nahrazuje čárkou a doplňuje se písmeno l), které zní:
+
+> „l) společenství vlastníků jednotek.“.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+### Čl. VI
+
+Tento zákon nabývá účinnosti dnem 31. prosince 2001.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

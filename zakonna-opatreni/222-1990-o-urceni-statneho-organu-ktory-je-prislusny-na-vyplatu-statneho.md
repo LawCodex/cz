@@ -1,0 +1,62 @@
+---
+title: "Zákonné opatření Predsedníctva Slovenskej národnej rady č. 222/1990 Sb., o určení štátneho orgánu, ktorý je príslušný na výplatu štátneho vyrovnávacieho príspevku"
+identifier: "222/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/222/1990-07-01"
+type: legislative_measure
+jurisdiction: cz
+language: cs
+date: 1990-05-29
+effective: 1990-07-01
+last_amended: 1990-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/222"
+retrieved: 2026-10-11
+---
+
+# Zákonné opatření Predsedníctva Slovenskej národnej rady č. 222/1990 Sb., o určení štátneho orgánu, ktorý je príslušný na výplatu štátneho vyrovnávacieho príspevku
+
+222
+
+ZÁKONNÉ OPATRENIE
+
+Predsedníctva Slovenskej národnej rady
+
+z 29. mája 1990
+
+o určení štátneho orgánu, ktorý je príslušný na výplatu štátneho vyrovnávacieho príspevku
+
+Predsedníctvo Slovenskej národnej rady sa uznieslo podľa článku 121 ods. 3 ústavného zákona č. 143/1968 Zb. o československej federácii na tomto zákonnom opatrení:
+
+## § 1
+
+Štátny vyrovnávací príspevok (ďalej len „príspevok“) vypláca osobám, ktoré
+
+a) nie sú požívateľmi dôchodku,
+
+b) nie sú v pracovnom, členskom alebo služobnom pomere a
+
+c) nepoberajú peňažné dávky nemocenského zabezpečenia alebo materský príspevok, alebo na ktoré nepatria prídavky na deti alebo výchovné,
+
+okresná správa sociálneho zabezpečenia príslušná podľa miesta trvalého pobytu týchto osôb.
+
+## § 2
+
+(1) Okresná správa sociálneho zabezpečenia, príslušná podľa miesta platcu príspevku, rozhoduje o povinnosti platcu nahradiť neprávom vyplatené sumy kontroluje správnosť výplaty príspevku; ak ide o príspevok vyplácaný príslušníkom Zboru národnej bezpečnosti, plní tieto úlohy Ministerstvo vnútra Slovenskej republiky, a ak ide o príspevok vyplácaný príslušníkom Zboru nápravnej výchovy, Ministerstvo spravodlivosti Slovenskej republiky.
+
+(2) Ak je platcom príspevku k dôchodku Slovenská správa sociálneho zabezpečenia, plní úlohy uvedené v odseku 1 Ministerstvo práce a sociálnych vecí Slovenskej republiky.
+
+## § 3
+
+Do 31. augusta 1990 plnia úlohy uložené týmto zákonným opatrením okresným správam sociálneho zabezpečenia okresné národné výbory a úlohy uložené Slovenskej správe sociálneho zabezpečenia krajské národné výbory a Úrad dôchodkového zabezpečenia.
+
+## § 4
+
+Ministerstvo práce a sociálnych vecí Slovenskej republiky môže určiť vyhláškou ďalšie štátne orgány, ktoré sú príslušné na výplatu príspevku.
+
+## § 5
+
+Toto zákonné opatrenie nadobúda účinnosť 1. júlom 1990.
+
+R. Schuster v. r.
+
+M. Čič v. r.

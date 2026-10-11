@@ -1,0 +1,56 @@
+---
+title: "Vyhláška České národní banky č. 185/1999 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí založení Vysokého učení technického v Brně"
+identifier: "185/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/185/1999-09-16"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1999-08-09
+effective: 1999-09-16
+last_amended: 1999-09-16
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/185"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 185/1999 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí založení Vysokého učení technického v Brně
+
+185
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 9. srpna 1999
+
+o vydání pamětních stříbrných dvousetkorun ke 100. výročí založení Vysokého učení technického v Brně
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Ke 100. výročí založení Vysokého učení technického v Brně se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,20 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je stylizovaný velký státní znak České republiky bez štítu. Název státu je umístěn po stranách státního znaku tak, že slovo „ČESKÁ“ je souběžné s levou stranou a slovo „REPUBLIKA“ se spodní stranou státního znaku. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je umístěno ve dvou řádcích pod slovem „REPUBLIKA“. Značka mincovny, která dvousetkorunu razila, je umístěna při okraji dvousetkoruny vlevo od čísla „200“. Státní znak a všechny nápisy jsou ohraničeny sítí jemných linek symbolizujících architektonické zaměření Vysokého učení technického v Brně.
+
+(2) Na rubu dvousetkoruny je v levé horní části seskupení počátečních písmen názvu vysoké školy „VUT“. Název školy je umístěn tak, že slova „VYSOKÉ UČENÍ“ jsou ve dvou řádcích ve vodorovném směru pod písmeny „VUT“, slova „TECHNICKÉ V BRNĚ“ rovněž ve dvou řádcích ve svislém směru při pravé straně dvousetkoruny. Při spodním okraji dvousetkoruny jsou letopočty „1899·1999“. Nápisy jsou doplněny linkami vytvářejícími na pozadí stylizované geometrické obrazce připomínající období konstruktivismu a funkcionalismu charakteristické pro Vysoké učení technické v Brně. Přes nápisy je položen jako symbol vědění velký trojúhelník. Autorem návrhu dvousetkoruny je akademický sochař Jiří Harcuba. Iniciála jeho příjmení „H“ je umístěna při spodním okraji dvousetkoruny pod letopočty.
+
+## § 3
+
+Tato vyhláška nabývá účinosti dnem 16. září 1999.
+
+Guvernér:
+
+v z. doc. Ing. Tůma, CSc. v. r.
+
+viceguvernér
+
+### ![sbcr1999c063z0185o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/816917/NAHLED/ZOBRAZ/sbcr1999c063z0185o001)
+
+### ![sbcr1999c063z0185o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/816919/NAHLED/ZOBRAZ/sbcr1999c063z0185o002)

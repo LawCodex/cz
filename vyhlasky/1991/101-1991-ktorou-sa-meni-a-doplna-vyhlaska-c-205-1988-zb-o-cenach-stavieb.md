@@ -1,0 +1,150 @@
+---
+title: "Vyhláška Ministerstva financií Slovenskej republiky č. 101/1991 Sb., ktorou sa mení a dopĺňa vyhláška č. 205/1988 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a o náhradách za dočasné užívanie pozemkov v znení vyhlášky č. 289/1990 Zb."
+identifier: "101/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/101/1991-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1991-02-25
+effective: 1991-04-01
+last_amended: 1991-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/101"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva financií Slovenskej republiky č. 101/1991 Sb., ktorou sa mení a dopĺňa vyhláška č. 205/1988 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a o náhradách za dočasné užívanie pozemkov v znení vyhlášky č. 289/1990 Zb.
+
+101
+
+VYHLÁŠKA
+
+Ministerstva financií Slovenskej republiky
+
+z 25. februára 1991,
+
+ktorou sa mení a dopĺňa vyhláška č. 205/1988 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a o náhradách za dočasné užívanie pozemkov v znení vyhlášky č. 289/1990 Zb.
+
+Ministerstvo financií Slovenskej republiky podľa § 1 ods. 7 zákona č. 526/1990 Zb. a podľa § 2 ods. 2 zákona Slovenskej národnej rady č. 135/1973 Zb. o pôsobnosti orgánov Slovenskej republiky v oblasti cien v znení neskorších predpisov (úplné znenie č. 27/1989 Zb.) ustanovuje:
+
+## Čl. I
+
+Vyhláška Ministerstva financií, cien a miezd Slovenskej socialistickej republiky č. 205/1988 Zb. o cenách stavieb, pozemkov, trvalých porastov, úhradách za zriadenie práva osobného užívania pozemkov a o náhradách za dočasné užívanie pozemkov v znení vyhlášky č. 289/1990 Zb. sa mení a dopĺňa takto:
+
+1\. § 1 vrátane nadpisov znie:
+
+> **„ PRVÁ ČASŤ – ÚVODNÉ USTANOVENIE**
+
+> **§ 1 – Predmet úpravy**
+
+> (1) Táto vyhláška sa vzťahuje na zisťovanie a dojednávanie cien stavieb, pozemkov a trvalých porastov pri ich prevodoch a prechodoch podľa Občianskeho zákonníka, Hospodárskeho zákonníka a pri prevodoch na česko-slovenský subjekt so zahraničnou majetkovou účasťou alebo iný než česko-slovenský subjekt.
+
+> (2) Ďalej táto vyhláška ustanovuje spôsob zistenia alebo dojednania:
+
+> a) úhrady za zriadenie práva osobného užívania pozemkov,
+
+> b) náhrady za dočasné užívanie pozemkov,
+
+> c) ceny stavieb, ktoré príslušný stavebný úrad nariadil alebo povolil odstrániť<sup>5</sup>) z dôvodov na strane vlastníka,
+
+> d) ceny stavieb, ktoré majú byť v súlade s územnoplánovacou dokumentáciou odstránené z dôvodu investičnej výstavby, a ceny pozemkov a trvalých porastov prevádzaných z tohto dôvodu na stavebníka.
+
+> (3) Táto vyhláška sa ďalej vzťahuje na prevody vlastnícta k stavbám, pozemkom a trvalým porastom a na náhrady za dočasné užívanie pozemkov medzi občanmi, ak sa nedohodnú inak.
+
+> (4) Táto vyhláška tiež ustanovuje spôsob zistenia vyvolávacej ceny stavieb, pozemkov a trvalých porastov vo vlastníctve štátu<sup>5a</sup>) pre verejné dražby.
+
+> (5) Vyhláška sa nevzťahuje na:
+
+> a) ceny bytov v osobnom vlastníctve,<sup>3</sup>)
+
+> b) náhrady pri vyvlastnení,<sup>4</sup>)
+
+> c) určenie hodnoty základných prostriedkov pre účely ich evidencie,
+
+> d) náhrady škôd vzniknutých na stavbách, pozemkov a trvalých porastoch.“.
+
+2\. Poznámky pod čiarou č. 1 a 2 sa vypúšťajú.
+
+3\. Nadpis nad § 2 znie:
+
+> **„ DRUHÁ ČASŤ – CENY STAVIEB, POZEMKOV A TRVALÝCH PORASTOV PRI ICH PREVODOCH A PRECHODOCH MEDZI ČESKO-SLOVENSKÝMI SUBJEKTAMI, ÚHRADY ZA ZRIADENIE PRÁVA OSOBNÉHO UŽÍVANIA POZEMKOV A NÁHRADY ZA DOČASNÉ UŽÍVANIE POZEMKOV (NÁJOM) PODĽA OBČIANSKEHO ZÁKONNÍKA“.**
+
+4\. Nadpis siedmeho oddielu znie: „NEDOKONČENÉ A INÉ STAVBY“.
+
+5\. Pod § 13 sa vkladá nadpis: „Nedokončené stavby“.
+
+6\. Za § 13 sa vkladajú nové § 13a a § 13b, ktoré znejú:
+
+> **„§ 13a – Stavby určené na demoláciu**
+
+> Ceny stavieb, ktoré príslušný stavebný úrad nariadil alebo povolil odstrániť<sup>5</sup>) z dôvodu na strane vlastníka, sa rovnajú cene materiálu, ktorý je možné získať ich demoláciou.
+
+> **§ 13b – Iné stavby**
+
+> Ceny stavieb, ktoré v tejto vyhláške nie sú osobitne uvedené, sa rovnajú nákladom na obstaranie rovnakej alebo porovnateľnej stavby v mieste a dobe jej prevodu alebo prechodu, po odpočítaní primeraného opotrebenia.“.
+
+7\. Nadpis dvanásteho oddielu znie: „SPOLOČNÉ USTANOVENIA“.
+
+8\. Za § 23 sa vkladá nová tretia časť, štvrtá časť a piata časť, ktoré znejú:
+
+> **„ TRETIA ČASŤ – CENY PRI PREVODOCH STAVIEB, POZEMKOV A TRVALÝCH PORASTOV A NÁHRADY ZA DOČASNÉ UŽÍVANIE POZEMKOV DOHODNUTÉ MEDZI ČESKO-SLOVENSKÝMI SUBJEKTAMI PODĽA HOSPODÁRSKEHO ZÁKONNÍKA**
+
+> **§ 23a**
+
+> (1) Pri odplatných prevodoch vlastníctva alebo práva hospodárenia ku stavbám, pozemkom a trvalým porastom medzi česko-slovenskými subjektami bez zahraničnej účasti sa cena určuje dohodou, pokiaľ nie je v § 23b ustanovené inak.
+
+> (2) Náhrada za dočasné užívanie pozemkov prenechaných do užívania podľa Hospodárskeho zákonníka sa určuje dohodou, pokiaľ nie je v § 23b ustanovené inak.
+
+> **§ 23b**
+
+> (1) Ceny stavieb, ktoré majú byť podľa územnoplánovacej dokumentácie odstránené z dôvodov investičnej výstavby, a ceny pozemkov a trvalých porastov prevádzaných z tohto dôvodu na stavebníkov, pokiaľ sa strany nedohodnú inak, sa rovnajú nákladom na obstaranie rovnakých alebo porovnateľných stavieb a pozemkov v mieste stavby a v dobe jej prevodu, pričom cena stavieb sa sníži o primerané opotrebenie.
+
+> (2) Náhrady za dočasné užívanie pozemkov z dôvodov investičnej výstavby podľa územnoplánovacej dokumentácie musia zodpovedať náhradám obvyklým v mieste, kde sa nehnuteľnosť nachádza.
+
+> **ŠTVRTÁ ČASŤ – CENY STAVIEB, POZEMKOV A TRVALÝCH PORASTOV PRI PREVODOCH NA ČESKO-SLOVENSKÝ SUBJEKT SO ZAHRANIČNOU MAJETKOVOU ÚČASŤOU ALEBO INÝ NEŽ ČESKO-SLOVENSKÝ SUBJEKT**
+
+> **§ 23c**
+
+> (1) Pri prevodoch vlastníctva stavieb, pozemkov a trvalých porastov na česko-slovenský subjekt so zahraničnou majetkovou účasťou alebo iný než česko-slovenský subjekt sa cena zistí v cenovej úrovni zahraničného trhu prepočítanej na česko-slovenskú menu obchodným kurzom platným ku dňu uzavretia zmluvy. Pri zmluvných prevodoch je možné dohodnúť aj inú cenu ako zistenú.
+
+> (2) Cena pri prevodoch vlastníctva na česko-slovenský subjekt so zahraničnou majetkovou účasťou alebo iný než česko-slovenský subjekt je platná až po schválení Ministerstvom financií Slovenskej republiky.
+
+> (3) Náhrada za dočasné užívanie pozemkov, ktorých užívateľom je česko-slovenský subjekt so zahraničnou majetkovou účasťou alebo iný než česko-slovenský subjekt,sa určuje dohodou.
+
+> **PIATA ČASŤ – VYVOLÁVACIE CENY STAVIEB, POZEMKOV A TRVALÝCH PORASTOV VO VLASTNÍCTVE ŠTÁTU PRE VEREJNÉ DRAŽBY**
+
+> **§ 23d – Stavby**
+
+> (1) Cena stavby vo vlastníctve štátu určenej pre verejnú dražbu sa zistí vynásobením nadobúdacej ceny indexom uvedeným v tabuľke č. 1. Minimálna vyvolávacia cena sa rovná takto zistenej cene stavby, upravenej koeficientom uvedeným v tabuľke č. 2.
+
+> <table><tbody><tr><th colspan="2"><b>Tabuľka č. 1</b></th></tr><tr><th><b>Nadobúdacia cena v cenovej úrovni</b></th><th><b>index</b></th></tr><tr><td>do 20. 6. 1939</td><td>1,89</td></tr><tr><td>20. 6. 1939-31. 12. 1942</td><td>1,07</td></tr><tr><td>1. 1. 1943-31. 12. 1945</td><td>0,94</td></tr><tr><td>1. 1. 1946-31. 12. 1951</td><td>0,44</td></tr><tr><td>1. 1. 1952-31. 5. 1953</td><td>0,35</td></tr><tr><td>1. 6. 1953-30. 6. 1959</td><td>1,80</td></tr><tr><td>1. 7. 1959-31. 3. 1964</td><td>2,12</td></tr><tr><td>1. 4. 1964-31. 12. 1966</td><td>2,26</td></tr><tr><td>1. 1. 1967-31. 12. 1969</td><td>1,51</td></tr><tr><td>1. 1. 1970-31. 12. 1976</td><td>1,38</td></tr><tr><td>1. 1. 1977-31. 12. 1981</td><td>1,36</td></tr><tr><td>1. 1. 1982-31. 12. 1984</td><td>1,24</td></tr><tr><td>1. 1. 1985-31. 12. 1988</td><td>1,11</td></tr><tr><td>1. 1. 1989-31. 12. 1989</td><td>1,07</td></tr><tr><td>1. 1. 1990 a ďalej</td><td>1,00</td></tr></tbody></table>
+
+> <table><tbody><tr><th colspan="2"><b>Tabuľka č. 2</b></th></tr><tr><th>stavba z roku</th><th>koeficient</th></tr><tr><td>do r. 1930</td><td>0,25</td></tr><tr><td>1931 až 1940</td><td>0,40</td></tr><tr><td>1941 až 1950</td><td>0,50</td></tr><tr><td>1951 až 1960</td><td>0,60</td></tr><tr><td>1961 až 1970</td><td>0,70</td></tr><tr><td>1971 až 1980</td><td>0,85</td></tr><tr><td>1981 a ďalej</td><td>0,95</td></tr></tbody></table>
+
+> (2) Nadobúdacou cenou pre potreby tejto vyhlášky je cena, za ktorú stavba bola alebo mohla byť nadobudnutá v čase svojho vzniku. Táto cena sa zistí z účtovnej evidencie organizácie, ktorá má k stavbe právo hospodárenia.
+
+> (3) Ak bola po roku 1970 vykonaná generálna oprava objektu alebo jeho rekonštrukcia, modernizácia, prístavba alebo nadstavba, zvyšuje sa minimálna vyvolávacia cena zistená podľa predchádzajúceho odseku o 10 %. Na stavebné úpravy vykonané pred rokom 1970 sa neprihliada.
+
+> (4) Ak nie je možné zistiť nadobúdaciu cenu podľa odseku 2, zistí sa minimálna vyvolávacia cena stavby vo vlastníctve štátu určenej pre verejnú dražbu podľa § 2 až 13 tejto vyhlášky.
+
+> **§ 23e – Pozemky a trvalé porasty**
+
+> (1) Cena pozemkov sa nereguluje. Pri určení vyvolávacej ceny pozemku sa prihliada najmä na veľkosť a význam obce, druh stavebného pozemku, obchodnú a priemyselnú polohu, prístupnosť a infraštruktúru, prípadne na ďalšie osobitné podmienky, ktoré môžu mať vplyv na výšku ceny.
+
+> (2) Vyvolávacia cena trvalých porastov sa nereguluje. Pri jej určení sa prihliada najmä na kvalitu, druh a prostredie, v ktorom sa trvalé porasty nachádzajú.
+
+> **§ 23f**
+
+> Zvýšenie ceny podľa § 20 tejto vyhlášky nemožno uplatniť pri cene dosiahnutej vo verejnej dražbe.“.
+
+## Čl. II
+
+Táto vyhláška nadobúda účinnosť 1. aprílom 1991.
+
+Minister:
+
+Ing. Kováč CSc. v. r.
+
+---
+
+<sup>5a</sup>) § 8 a 16 zákona č. 427/1990 Zb. o prevode vlastníctva štátu k niektorým veciam na iné právnické alebo fyzické osoby.

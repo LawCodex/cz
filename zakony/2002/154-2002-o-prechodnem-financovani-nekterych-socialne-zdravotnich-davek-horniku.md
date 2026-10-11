@@ -1,0 +1,57 @@
+---
+title: "Zákon č. 154/2002 Sb., o přechodném financování některých sociálně zdravotních dávek horníků"
+identifier: "154/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/154/2002-04-16"
+type: act
+jurisdiction: cz
+language: cs
+date: 2002-03-14
+effective: 2002-04-16
+last_amended: 2002-04-16
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/154"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 154/2002 Sb., o přechodném financování některých sociálně zdravotních dávek horníků
+
+154
+
+ZÁKON
+
+ze dne 14. března 2002
+
+o přechodném financování některých sociálně zdravotních dávek horníků
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1
+
+(1) Tento zákon upravuje financování
+
+a) zvláštního příspěvku horníkům, na které vznikl nárok do 31. 12. 1992,
+
+b) deputátního uhlí a dříví, na které vznikl nárok do 16. 1. 1992, a
+
+c) náhrad za ztrátu na výdělku, na které vznikl nárok do 31. 12. 1992,
+
+vyplácených po dni účinnosti tohoto zákona podle zvláštních právních předpisů<sup>1</sup>) právnickými osobami – organizacemi uhelného, uranového a rudného hornictví (dále jen „sociálně zdravotní dávky horníků“).
+
+(2) Výplaty sociálně zdravotních dávek horníků se hradí dotací poskytovanou ze státního rozpočtu podle zvláštního právního předpisu.<sup>2</sup>) Na poskytnutí této dotace mají právnické osoby uvedené v odstavci 1 právní nárok.
+
+## § 2 – Účinnost
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Klaus v. r.
+
+Zeman v. r.
+
+---
+
+<sup>1</sup>) § 10 až 11a vyhlášky č. 129/1979 Sb., o pracovním uplatnění a hmotném zabezpečení pracovníků trvale nezpůsobilých k dosavadní práci v podzemí hlubinných dolů. 
+ Zákon č. 98/1987 Sb., o zvláštním příspěvku horníků, ve znění zákona č. 160/1989 Sb. 
+ § 23 zákona č. 1/1992 Sb., o mzdě, odměně za pracovní pohotovost a o průměrném výdělku. 
+ § 195 zákona č. 65/1965 Sb., zákoník práce.
+
+<sup>2</sup>) § 7 odst. 1 písm. d) a § 14 a další zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 197/2001 Sb.

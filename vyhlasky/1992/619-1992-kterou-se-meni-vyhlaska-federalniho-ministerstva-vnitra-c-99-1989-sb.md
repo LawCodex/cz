@@ -1,0 +1,56 @@
+---
+title: "Vyhláška Federálního ministerstva vnitra č. 619/1992 Sb., kterou se mění vyhláška federálního ministerstva vnitra č. 99/1989 Sb., o pravidlech provozu na pozemních komunikacích (pravidla silničního provozu), ve znění vyhlášek č. 24/1990 Sb. a č. 533/1992 Sb."
+identifier: "619/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/619/1992-12-18"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1992-12-16
+effective: 1992-12-18
+last_amended: 1992-12-18
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/619"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva vnitra č. 619/1992 Sb., kterou se mění vyhláška federálního ministerstva vnitra č. 99/1989 Sb., o pravidlech provozu na pozemních komunikacích (pravidla silničního provozu), ve znění vyhlášek č. 24/1990 Sb. a č. 533/1992 Sb.
+
+619
+
+VYHLÁŠKA
+
+federálního ministerstva vnitra
+
+ze dne 16. prosince 1992,
+
+kterou se mění vyhláška federálního ministerstva vnitra č. 99/1989 Sb., o pravidlech provozu na pozemních komunikacích (pravidla silničního provozu), ve znění vyhlášek č. 24/1990 Sb. a č. 533/1992 Sb.
+
+Federální ministerstvo vnitra stanoví podle § 16 odst. 1 písm. a) vládního nařízení č. 54/1953 Sb., o provozu na silnicích, ve znění zákonného opatření předsednictva Národního shromáždění č. 13/1956 Sb.:
+
+## Čl. I
+
+Vyhláška federálního ministerstva vnitra č. 99/1989 Sb., o pravidlech provozu na pozemních komunikacích (pravidla silničního provozu), ve znění vyhlášek federálního ministerstva vnitra č. 24/1990 Sb. a č. 533/1992 Sb., se mění takto:
+
+Ustanovení § 34 odst. 1 zní:
+
+> „(1) V období od 15. dubna do 30. září je na dálnici, silnici pro motorová vozidla, silnici I. třídy a silnici pro mezinárodní provoz zakázána jízda motorovým vozidlům o celkové hmotnosti převyšující 3500 kg a na silnici I. třídy a silnici pro mezinárodní provoz mimo obec též jízda zvláštním motorovým vozidlům, ručním vozíkům o celkové šířce větší než 600 mm a potahovým vozidlům
+
+> a) v poslední pracovní den před dnem pracovního klidu nebo pracovního volna v době od 15 do 21 hodin,
+
+> b) v první den pracovního klidu nebo pracovního volna v době od 7 do 11 hodin,
+
+> c) v poslední den pracovního klidu nebo pracovního volna v době od 15 do 21 hodin.“.
+
+Odstavec 2 se zrušuje a dosavadní odstavce 3, 4 a 5 se označují jako odstavce 2, 3 a 4.
+
+## Čl. II
+
+Zrušuje se vyhláška federálního ministerstva vnitra č. 533/1992 Sb., kterou se mění vyhláška federálního ministerstva vnitra č. 99/1989 Sb., o pravidlech provozu na pozemních komunikacích (pravidla silničního provozu), ve znění vyhlášky č. 24/1990 Sb.
+
+## Čl. III
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+MUDr. Čermák CSc. v. r.

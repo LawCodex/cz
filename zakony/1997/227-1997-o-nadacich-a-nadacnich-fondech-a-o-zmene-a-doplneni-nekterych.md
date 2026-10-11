@@ -1,0 +1,117 @@
+---
+title: "Zákon č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech)"
+identifier: "227/1997 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1997/227/2014-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1997-09-03
+effective: 1998-01-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1997/227"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech) ve znění zákona č. 210/2002 Sb., zákona č. 257/2004 Sb., zákona č. 296/2007 Sb., zákona č. 126/2008 Sb., zákona č. 227/2009 Sb., zákona č. 158/2010 Sb., zákona č. 160/2010 Sb., zákona č. 188/2011 Sb., zákona č. 89/2012 Sb., zákonného opatření senátu č. 340/2013 Sb. a zákonného opatření senátu č. 344/2013 Sb."
+---
+
+# Zákon č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech)
+
+227
+
+ZÁKON
+
+ze dne 3. září 1997
+
+o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech)
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST TŘETÍ – DOPLNĚNÍ OBČANSKÉHO SOUDNÍHO ŘÁDU
+
+### § 29
+
+Zákon č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 36/1967 Sb., zákona č. 158/1969 Sb., zákona č. 49/1973 Sb., zákona č. 20/1975 Sb., zákona č. 133/1982 Sb., zákona č. 180/1990 Sb., zákona č. 328/1991 Sb., zákona č. 519/1991 Sb., zákona č. 263/1992 Sb., zákona České národní rady č. 24/1993 Sb., zákona č. 171/1993 Sb., zákona č. 117/1994 Sb., zákona č. 152/1994 Sb., zákona č. 216/1994 Sb., zákona č. 84/1995 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 238/1995 Sb., zákona č. 247/1995 Sb., nálezu Ústavního soudu České republiky č. 31/1996 Sb., zákona č. 142/1996 Sb., nálezu Ústavního soudu České republiky č. 269/1996 Sb. a zákona č. 202/1997 Sb., se doplňuje takto:
+
+V § 9 odst. 2 písm. j) se tečka na konci nahrazuje čárkou a doplňuje se písmeno k), které včetně poznámky č. 1a) zní:
+
+> „k) v řízení o zrušení nadace nebo nadačního fondu a jejich likvidaci, o jmenování likvidátora nadace nebo nadačního fondu a o jmenování nových členů správní rady nadace nebo nadačního fondu.<sup>1a</sup>)
+
+> <sup>1a</sup>) § 7 odst. 3 až 5, § 9 odst. 2 a § 16 zákona č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech).“.
+
+## ČÁST ČTVRTÁ – DOPLNĚNÍ ZÁKONA ČESKÉ NÁRODNÍ RADY Č. 549/1991 SB., O SOUDNÍCH POPLATCÍCH, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ
+
+### § 30
+
+Zákon České národní rady č. 549/1991 Sb., o soudních poplatcích, ve znění zákona České národní rady č. 271/1992 Sb., zákona č. 273/1994 Sb., zákona č. 36/1995 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 151/1997 Sb. a zákona č. 209/1997 Sb., se doplňuje takto:
+
+V § 11 odst. 2 písm. k) se tečka na konci nahrazuje čárkou a doplňují se písmena l) a m), která znějí:
+
+> „l) nadace nebo nadační fond ve věcech nadačního rejstříku,
+
+> m) obecně prospěšné společnosti ve věcech rejstříku obecně prospěšných společností.“.
+
+## ČÁST ŠESTÁ – DOPLNĚNÍ ZÁKONA ČESKÉ NÁRODNÍ RADY Č. 586/1992 SB., O DANÍCH Z PŘÍJMŮ, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ
+
+### § 32
+
+Zákon České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění zákona České národní rady č. 35/1993 Sb., zákona č. 96/1993 Sb., zákona č. 157/1993 Sb., zákona č. 196/1993 Sb., zákona č. 323/1993 Sb., zákona č. 42/1994 Sb., zákona č. 85/1994 Sb., zákona č. 114/1994 Sb., zákona č. 259/1994 Sb., zákona č. 32/1995 Sb., zákona č. 87/1995 Sb., zákona č. 118/1995 Sb., zákona č. 149/1995 Sb., zákona č. 248/1995 Sb., zákona č. 316/1996 Sb., zákona č. 18/1997 Sb., zákona č. 151/1997 Sb., zákona č. 209/1997 Sb. a zákona č. 210/1997 Sb., se doplňuje takto:
+
+1\. V § 18 odst. 7 se za slovo „nadace,“ vkládají tato slova: „nadační fondy,“.
+
+2\. V § 19 odst. 1 písm. p) se tečka na konci nahrazuje čárkou a doplňuje se písmeno r), které včetně poznámky č. 57) zní:
+
+> „r) příjmy plynoucí z pronájmu nemovitostí, které jsou součástí nadačního jmění a jsou zapsány v nadačním rejstříku, příjmy plynoucí z pronájmu uměleckých děl, které jsou součástí nadačního jmění a jsou zapsány v nadačním rejstříku, úrokové a dividendové příjmy plynoucí z cenných papírů, které jsou součástí nadačního jmění a jsou zapsány v nadačním rejstříku, příjmy plynoucí z úroků z finančních prostředků, které jsou součástí nadačního jmění a jsou zapsány v nadačním rejstříku, za podmínky, že jsou uloženy na zvláštním účtu u banky, příjmy plynoucí z autorských a patentových práv, které jsou součástí nadačního jmění a jsou zapsány v nadačním rejstříku; osvobození se nevztahuje na příjmy, které byly nadací použity v rozporu se zvláštním zákonem.<sup>57</sup>).
+
+> <sup>57</sup>) Zákon č. 227/1997 Sb., o nadacích a nadačních fondech a o změně a doplnění některých souvisejících zákonů (zákon o nadacích a nadačních fondech).“.
+
+## ČÁST SEDMÁ – ZMĚNA ZÁKONA Č. 563/1991 SB., O ÚČETNICTVÍ, VE ZNĚNÍ ZÁKONA Č. 117/1994 SB.
+
+### § 33
+
+Zákon č. 563/1991 Sb., o účetnictví, ve znění zákona č. 117/1994 Sb., se mění takto:
+
+V § 9 odst. 1 písm. d) se za slovy „sdružení právnických osob a“ slovo „nadace“ nahrazuje slovy „nadační fondy“.
+
+## ČÁST DEVÁTÁ – PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+
+#### § 37 – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1998.
+
+Zeman v. r.
+
+Havel v. r.
+
+Klaus v. r.
+
+---
+
+<sup>1</sup>) § 18 odst. 2 písm. b) občanského zákoníku.
+
+<sup>1a</sup>) § 8 odst. 2 písm. b) a § 8 odst. 3 písm. a) a f) zákona č. 591/1992 Sb., o cenných papírech, ve znění zákona č. 362/2000 Sb.
+
+<sup>2</sup>) § 200d občanského soudního řádu.
+
+<sup>2a</sup>) Zákon č. 111/2009 Sb., o základních registrech.
+
+<sup>3</sup>) § 70 a násl. obchodního zákoníku.
+
+<sup>3a</sup>) Zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.
+
+<sup>3b</sup>) Zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu.
+
+<sup>3c</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1060/2009 ze dne 16. září 2009 o ratingových agenturách.
+
+<sup>3d</sup>) Zákon č. 248/1995 Sb., o obecně prospěšných společnostech a o změně a doplnění některých zákonů.
+
+<sup>4</sup>) § 116 občanského zákoníku.
+
+<sup>5</sup>) Zejména zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.
+
+<sup>6</sup>) Např. § 17 zákona č. 219/1995 Sb., devizový zákon.
+
+<sup>7</sup>) Zákon č. 116/1985 Sb., o podmínkách činnosti organizací s mezinárodním prvkem v Československé socialistické republice, ve znění zákona č. 157/1989 Sb.
+
+<sup>8</sup>) § 55 odst. 2 zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění zákona č. 230/2008 Sb. a zákona č. 188/2011 Sb.
+
+<sup>9</sup>) § 55 odst. 3 zákona č. 256/2004 Sb., ve znění zákona č. 230/2008 Sb. a zákona č. 188/2011 Sb.

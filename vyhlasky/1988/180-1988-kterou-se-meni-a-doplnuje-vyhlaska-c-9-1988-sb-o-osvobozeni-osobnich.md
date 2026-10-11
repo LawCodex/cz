@@ -1,0 +1,62 @@
+---
+title: "Vyhláška Federálního ministerstva zahraničního obchodu č. 180/1988 Sb., kterou se mění a doplňuje vyhláška č. 9/1988 Sb., o osvobození osobních počítačů, mikropočítačů a barevných televizních přijímačů od dovozního cla"
+identifier: "180/1988 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1988/180/1988-11-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1988-11-11
+effective: 1988-11-15
+last_amended: 1988-11-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1988/180"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva zahraničního obchodu č. 180/1988 Sb., kterou se mění a doplňuje vyhláška č. 9/1988 Sb., o osvobození osobních počítačů, mikropočítačů a barevných televizních přijímačů od dovozního cla
+
+180
+
+VYHLÁŠKA
+
+federálního ministerstva zahraničního obchodu
+
+ze dne 11. listopadu 1988,
+
+kterou se mění a doplňuje vyhláška č. 9/1988 Sb., o osvobození osobních počítačů, mikropočítačů a barevných televizních přijímačů od dovozního cla
+
+Federální ministerstvo zahraničního obchodu stanoví podle § 44 odst. 2 zákona č. 44/1974 Sb., celní zákon, ve znění zákona č. 117/1983 Sb.:
+
+## Čl. I
+
+Vyhláška č. 9/1988 Sb., o osvobození osobních počítačů, mikropočítačů a barevných televizních přijímačů od dovozního cla, se mění a doplňuje takto:
+
+1\. Název vyhlášky zní: „o celních úlevách při dovozu některých druhů neobchodního zboží“.
+
+2\. V § 1 se vypouštějí slova: „do 512 KB operační paměti“.
+
+3\. Za § 2 se vkládá nový § 2a, který zní:
+
+> **„§ 2a**
+
+> Sazba cla u zboží patřícího do položek celního sazebníku neobchodního zboží (příloha k vyhlášce č. 10/1988 Sb.) položka 4 a) až 4 c) - motorová vozidla, položka 11 a) a 11 b) - videorekordéry a videopřehrávače, položka 12 - videokamery pro barevný záznam, položka 14 a) až 14 e) přístroje zvukové a reprodukční techniky se snižuje o 50 %“.
+
+4\. § 3 zní:
+
+> **„§ 3**
+
+> Celní úlevy podle této vyhlášky se poskytují jen na zboží dovážené v přiměřeném množství podle předpisů o neobchodních dovozech věcí.<sup>1</sup>)“.
+
+5\. Ustanovení § 4 se vypouští.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 15. listopadu 1988.
+
+Ministr:
+
+Ing. Štěrba v. r.
+
+---
+
+<sup>1</sup>) Vyhláška č. 41/1985 Sb., o neobchodních vývozech a dovozech věcí, ve znění pozdějších předpisů.

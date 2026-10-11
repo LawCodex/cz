@@ -1,0 +1,433 @@
+---
+title: "Zákon č. 147/2002 Sb., o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých souvisejících zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském)"
+identifier: "147/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/147/2026-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2002-03-20
+effective: 2002-06-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/147"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 147/2002 Sb., o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých souvisejících zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském) ve znění zákona č. 21/2004 Sb., zákona č. 317/2004 Sb., zákona č. 321/2004 Sb., zákona č. 441/2005 Sb., zákona č. 553/2005 Sb., zákona č. 296/2007 Sb., zákona č. 291/2009 Sb., zákona č. 279/2013 Sb., zákona č. 179/2014 Sb., zákona č. 250/2014 Sb., zákona č. 183/2017 Sb., zákona č. 299/2017 Sb., zákona č. 369/2019 Sb., zákona č. 261/2021 Sb. a zákona č. 251/2025 Sb."
+---
+
+# Zákon č. 147/2002 Sb., o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých souvisejících zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském)
+
+147
+
+ZÁKON
+
+ze dne 20. března 2002
+
+o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých souvisejících zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském)
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – ÚSTŘEDNÍ KONTROLNÍ A ZKUŠEBNÍ ÚSTAV ZEMĚDĚLSKÝ
+
+### § 1
+
+(1) Ústřední kontrolní a zkušební ústav zemědělský (dále jen „Ústav“) je správním úřadem podřízeným Ministerstvu zemědělství (dále jen „ministerstvo“). Ústav provádí rovněž odborné a zkušební úkony (§ 2) a odborné činnosti (§ 3).
+
+(2) Ústav je organizační složkou státu,<sup>1</sup>) je účetní jednotkou.<sup>2</sup>) Sídlem Ústavu je Brno.
+
+(3) V čele Ústavu je ředitel; jeho výběr, jmenování a odvolání se řídí zákonem o státní službě.
+
+### § 2 – Působnost Ústavu na jednotlivých úsecích podle zvláštních zákonů
+
+(1) Ústav provádí správní řízení a vykonává jiné správní činnosti, odborné a zkušební úkony a kontrolní a dozorové činnosti podle zvláštních zákonů,<sup>4</sup>)<sup>,20</sup>) a to na úseku
+
+a) vinohradnictví,
+
+b) krmiv,
+
+c) odrůd, osiv a sadby pěstovaných rostlin,
+
+d) ochrany chmele,
+
+e) hnojiv, pomocných půdních látek, pomocných rostlinných přípravků a substrátů, upravených kalů a sedimentů,
+
+f) monitoringu zemědělských půd a agrochemického zkoušení zemědělských půd,
+
+g) ochrany práv k odrůdám rostlin,
+
+h) rostlinolékařské péče.
+
+(2) Ústav na úseku nakládání s geneticky modifikovanými organismy a produkty podle zákona o nakládání s geneticky modifikovanými organismy<sup>5</sup>) provádí státní odbornou kontrolu, kontrolu a zkoušky těchto organismů a produktů a sleduje účinnost geneticky modifikovaných organismů využívaných k ochraně rostlin a rezistenci škodlivých organismů k produktům geneticky modifikovaných organismů. V případě zjištění porušení stanovených povinností Ústav podává podnět České inspekci životního prostředí k zahájení správního řízení a informuje o tom Ministerstvo životního prostředí. Ústav dále provádí pro Státní zemědělský intervenční fond odborné a kontrolní činnosti v oblasti pěstování geneticky modifikovaných odrůd podle zákona o zemědělství<sup>4a</sup>).
+
+(3) Ústav dále plní úkoly vyplývající pro něj z přímo použitelných předpisů Evropské unie, zejména vykonává úřední kontrolu<sup>28</sup>) a dozor nad plněním povinností vyplývajících pro fyzické a právnické osoby z těchto přímo použitelných předpisů Evropské unie.
+
+(4) Ústav dále provádí kontrolní a dozorové činnosti podle zákona o ekologickém zemědělství<sup>21</sup>) a podle zákona o zemědělství<sup>4a</sup>) v souladu s předpisy Evropské unie v rozsahu stanoveném podle zvláštního zákona<sup>20</sup>) a v rámci své působnosti je orgánem dozoru podle nařízení Evropské unie upravujícího akreditaci a dozor nad trhem<sup>22</sup>).
+
+(5) Ústav dále provádí kontroly podmíněnosti podle zákona o zemědělství<sup>5c</sup>) v souladu s přímo použitelným předpisem Evropské unie upravujícím prováděcí pravidla pro podmíněnost, odlišení a integrovaný administrativní a kontrolní systém<sup>5d</sup>). Ústav dále také provádí tyto kontroly podmíněnosti v oblasti povrchových nebo podzemních vod.
+
+(6) Ústav dále kontroluje řádné vedení systému náležité péče podle jiného právního předpisu<sup>29</sup>) v rozsahu své působnosti.
+
+### § 3 – Další činnosti Ústavu
+
+(1) Ústav vykonává i odborné činnosti spočívající
+
+a) ve vyvíjení a ověřování laboratorních postupů, metod zkoušení a metod provádění a vyhodnocování vegetačních a biologických zkoušek, popřípadě ve spoluúčasti na jejich vývoji nebo ověřování, a ve zpracovávání jednotných pracovních postupů provádění odborných a zkušebních úkonů a zajišťování jejich harmonizace s evropskými a mezinárodními technickými normami (dále jen „postupy a metody“),
+
+b) v metodickém vedení fyzických nebo právnických osob, které splňují podmínky pro provádění odborných a zkušebních úkonů stanovených tímto zákonem a zvláštními zákony,<sup>4</sup>)
+
+c) v organizování mezilaboratorních porovnávacích zkoušek pro zajištění kvality práce laboratoří Ústavu a laboratoří fyzických nebo právnických osob, které splňují podmínky pro provádění odborných a zkušebních úkonů stanovených tímto zákonem a zvláštními zákony,<sup>4</sup>)
+
+d) v monitoringu
+
+1\. vstupů do půdy ve vazbě na komplexní zajištění nezávadnosti zemědělských výrobků a potravin,
+
+2\. vlivu přípravků na ošetřené pěstované rostliny, rostlinné produkty a účinků na škodlivé organismy,
+
+e) ve vydávání odborných posudků, stanovisek nebo osvědčení na žádost organizační složky státu nebo fyzické anebo právnické osoby. Vyžaduje-li zpracování a vydání odborného posudku, stanoviska nebo osvědčení uskutečnění chemické, biochemické, mikrobiologické nebo jiné zkoušky, hradí náklady na její provedení žadatel; způsob úhrady a další podrobnosti jejího provedení dohodne se žadatelem Ústav. Organizační složka státu vydání odborného posudku, stanoviska nebo osvědčení nehradí,
+
+f) v zajišťování vzdělávání zaměstnanců pracujících v Ústavu,
+
+g) ve vedení evidencí potřebných k plnění svých úkolů,
+
+h) ve vedení evidence ovocných sadů podle zákona o zemědělství.<sup>4a</sup>)
+
+(2) Kromě činností uvedených v odstavci 1 může Ústav provádět chemické, biochemické, mikrobiologické, biologické a jiné zkoušky, a to na základě žádosti organizační složky státu nebo na základě žádosti fyzické anebo právnické osoby.
+
+(3) Kromě činností uvedených v odstavcích 1 a 2 může Ústav vydávat osvědčení o původu bioproduktu, biopotraviny nebo ostatního bioproduktu, provádět kontroly a další odborné úkony podle zvláštního právního předpisu.
+
+(4) Zkoušku podle odstavce 2 na vyžádání fyzické nebo právnické osoby Ústav provede za předpokladu, že k tomu nebude oprávněna žádná pověřená laboratoř podle § 5 odst. 1.
+
+(5) K provádění odborných a zkušebních úkonů a odborných činností provozuje Ústav laboratoře, biologické testační stanice, zkušební stanice, ověřovací střediska (známkovny chmele) a jiná odborná pracoviště. Zkoušky na základě vyžádání organizačních složek státu nebo fyzických a právnických osob podle odstavce 2 provádí Ústav tak, aby nebyla omezena zkušební kapacita pro výkon zkušebních činností podle § 2. Pozemky, k nimž má Ústav příslušnost hospodaření a na kterých v dané vegetační sezóně neprobíhají odborné zkoušky, Ústav obhospodařuje nebo může přenechat k dočasnému užívání fyzickým nebo právnickým osobám.
+
+(6) Ústav při plnění svých úkolů spolupracuje s obdobnými odbornými a zkušebními úřady v zahraničí. Ústav rovněž spolupracuje s příslušnými mezinárodními organizacemi, případně se podílí na jejich činnosti prováděním odborných a zkušebních úkonů na základě jejich vyžádání. Spolupráce s úřady Evropské unie a s odbornými institucemi probíhá také řešením společných projektů v rámci věcné působnosti Ústavu.
+
+(7) Ústav je národní organizací ochrany rostlin podle Mezinárodní úmluvy o ochraně rostlin a vykonává činnosti v oblasti rostlinolékařské péče, vymezené tímto zákonem a zvláštním zákonem<sup>20</sup>), a vyplývající z přímo použitelných předpisů Evropské unie<sup>24</sup>).
+
+(8) V rozsahu působnosti podle § 2 a 3 se Ústav podílí na organizování školicích, vzdělávacích a informačních aktivit včetně publikace výsledků a metodik.
+
+(9) Příjmy za provádění odborných zkušebních a vzdělávacích činností a dalších činností podle odstavce 1 písm. c) a e) a odstavců 2, 5, 6 a 8 nejsou příjmy státního rozpočtu podle zákona o rozpočtových pravidlech<sup>27</sup>), ale jsou příjmy zvláštního účtu Ústavu, kterými jsou hrazeny náklady Ústavu vynaložené na jejich provádění.
+
+### § 4 – Zajišťování odborných a zkušebních úkonů Ústavem
+
+(1) Ústav provádí odborné a zkušební úkony k plnění svých úkolů v rámci správních činností podle zvláštních zákonů.<sup>4</sup>)<sup>,20</sup>) Ústav může v souladu se zvláštním zákonem<sup>4</sup>) a přímo použitelnými předpisy Evropské unie<sup>25</sup>) provádění těchto úkonů zajistit uzavřením smlouvy s fyzickou nebo právnickou osobou, jestliže
+
+a) její technické vybavení odpovídá příslušnému druhu a rozsahu odborných a zkušebních úkonů,
+
+b) odborné a zkušební úkony budou provádět fyzické osoby nejméně s úplným středním odborným vzděláním zemědělského, chemického nebo biologického zaměření,
+
+c) výsledky ověřovacích laboratorních zkoušek podle zvláštních zákonů<sup>4</sup>) byly shledány v rozmezí přípustných tolerancí,
+
+d) vůči ní nebylo vydáno rozhodnutí o úpadku podle zvláštního právního předpisu,
+
+e) má příslušné oprávnění k podnikání.<sup>6</sup>)
+
+(2) Před uzavřením smlouvy musí fyzická nebo právnická osoba, se kterou má být uzavřena smlouva, předložit
+
+a) doklad o oprávnění k podnikání včetně výpisu z obchodního rejstříku, je-li v něm zapsána, ne starší než 6 měsíců,
+
+b) další doklady nezbytné k ověření splnění podmínek podle odstavce 1 písm. a) až c) a e).
+
+(3) Doklady uvedené v odstavci 2 mohou být předloženy též ve formě úředně ověřené kopie.
+
+(4) Smlouva podle odstavce 1 upraví rovněž
+
+a) vymezení rozsahu prováděných odborných a zkušebních úkonů,
+
+b) určení technického vybavení, které bude k provádění odborných a zkušebních úkonů použito,
+
+c) určení postupů a metod, podle kterých budou odborné a zkušební úkony prováděny,
+
+d) způsob náhrady nákladů za provádění odborných a zkušebních úkonů,
+
+e) způsob výkonu odborného dozoru Ústavu nad odbornými a zkušebními úkony, které budou prováděny na základě této smlouvy.
+
+### § 5 – Pověření udělovaná Ústavem k výkonu odborných činností, národní referenční laboratoře a referenční laboratoře
+
+(1) Zkušební úkony při biologickém zkoušení krmných surovin, krmných produktů nebo doplňkových látek určených pro silážování a laboratorní zkoušky jakosti krmiv, doplňkových látek a premixů podle zvláštního zákona, odběry vzorků půd a jejich chemické rozbory pro účely agrochemického zkoušení zemědělských půd podle zvláštního zákona, zkušební úkony při chemických rozborech hnojiv, pomocných půdních látek, pomocných rostlinných přípravků, substrátů a statkových hnojiv podle zvláštního zákona, odborné a zkušební úkony při uznávání množitelských porostů nebo rozmnožovacího materiálu a při registraci odrůdy podle zvláštního zákona, odborné rostlinolékařské činnosti podle zákona o rostlinolékařské péči<sup>20</sup>) a odborné a zkušební úkony při označování a certifikaci chmele podle zvláštního zákona mohou kromě Ústavu provádět pouze fyzické nebo právnické osoby, které mají k výkonu odborných činností pověření udělené Ústavem.
+
+(2) Podmínky, za kterých lze pověření k výkonu odborných činností podle odstavce 1 udělit, změnit, odejmout nebo zrušit, upravují zvláštní zákony<sup>26</sup>) a přímo použitelný předpis Evropské unie.<sup>28</sup>)
+
+(3) Za účelem prohlubování, koordinace a sjednocování laboratorní, diagnostické a jiné zkušební činnosti jsou laboratoře Ústavu národní referenční laboratoří s rozsahem činností podle odstavce 1.
+
+(4) Ústav pověřuje fyzické nebo právnické osoby, které se přihlásí na jeho výzvu, výkonem odborné činnosti referenční laboratoře. Ústav vydá pověření, pokud z předložených dokumentů, které jsou součástí žádosti, vyplývá, že
+
+a) fyzická nebo právnická osoba je schopna zajistit nestrannost, kvalitu a ochranu důvěrných informací,
+
+b) mezi prováděním úkolů, k jejichž provádění je zmocněna, a jejími dalšími činnostmi nebude docházet ke střetu zájmů a
+
+c) fyzická nebo právnická osoba splňuje požadavky pro pověření referenční laboratoře stanovené podle odstavce 9.
+
+(5) Ústav odejme vydané pověření, jestliže pověřená referenční laboratoř nedodržuje požadavky nebo podmínky podle odstavce 4.
+
+(6) Postupem podle odstavců 1 až 5 nejsou dotčeny přímo použitelné předpisy Evropské unie<sup>25</sup>).
+
+(7) Ministerstvo stanoví prováděcím právním předpisem požadavky na materiální a personální vybavení národních referenčních laboratoří a referenčních laboratoří a na zaměření, organizaci a metody jejich činnosti.
+
+### § 6 – Náhrada nákladů za provedení odborných a zkušebních úkonů
+
+(1) Ústav je oprávněn požadovat za provedení odborných a zkušebních úkonů podle zvláštních zákonů<sup>4</sup>)<sup>,20</sup>) a za provedení odborných a zkušebních úkonů na základě vyžádání organizačních složek státu nebo fyzických a právnických osob podle § 3 odst. 2 náhradu vynaložených nákladů, které je povinen hradit žadatel. Výše náhrad nákladů vychází z propočtu nákladů spojených s odbornými a zkušebními úkony.
+
+(2) Náhrady nákladů za odborné a zkušební úkony se stanoví
+
+a) v oblasti biologického zkoušení krmiv, doplňkových látek nebo jejich nového užití podle zvláštního zákona,<sup>10</sup>) a to podle jednotlivých druhů zvířat, k jejichž krmení jsou krmiva nebo doplňkové látky určeny; celkové náklady jsou tvořeny součtem nákladů za všechny provedené zkušební úkony,
+
+b) v oblasti zkoušení odrůd pro registraci podle zvláštního zákona<sup>11</sup>) a pro udělení ochranných práv podle zvláštního zákona<sup>12</sup>) za každoročně provedené zkoušky odrůd zařazených do skupin podle náročnosti zkoušek, a to pro zkoušky odlišnosti, uniformity, stálosti a užitné hodnoty a pro technologické rozbory a speciální testy,
+
+c) v oblasti uznávacího řízení množitelských porostů a rozmnožovacího materiálu podle zvláštního zákona,<sup>11</sup>) a to podle plochy množitelských porostů, počtu přehlídek a rozsahu laboratorního zkoušení,
+
+d) v oblasti registrace hnojiv, pomocných půdních látek, pomocných rostlinných přípravků a substrátů podle zvláštního zákona,<sup>13</sup>) a to jako souhrn nákladů za provedené biologické zkoušky a testy, chemické rozbory a související úkony,
+
+e) v oblasti rostlinolékařské péče<sup>20</sup>).
+
+(3) Ústav je rovněž oprávněn požadovat náhradu nákladů na provedení odborných úkonů od osoby, která nesplněním nebo porušením povinnosti stanovené tímto zákonem nebo nařízené na jeho základě způsobila nutnost provedení takových úkonů.
+
+(4) Při stanovení výše náhrad nákladů se zohlední průměrná pracovní a materiálová náročnost jednotlivých typů odborných úkonů a míra vyžadované odbornosti pro jejich provádění, přičemž v kalkulaci lze promítnout pouze náklady vzniklé v důsledku podané žádosti, které by jinak Ústavem vynaloženy nebyly.
+
+(5) Náhrady nákladů za odborné a zkušební úkony podle zvláštních zákonů<sup>4</sup>) prováděné na smluvním základě zkušebními úřady v zahraničí se hradí v plné výši, přičemž výše nákladů musí být předem známa.
+
+(6) Celkové náklady za odborné a zkušební úkony podle odstavce 2 jsou tvořeny součtem náhrad nákladů za všechny provedené jednotlivé odborné a zkušební úkony, jejichž výše je stanovena v prováděcím právním předpisu (§ 11). Pokud není u plodiny výše nákladů za odborné a zkušební úkony podle odstavce 2 stanovena, Ústav ji stanoví nejpozději před zahájením zkoušek a seznámí s ní žadatele.
+
+(7) Náklady za odborné a zkušební úkony provedené osobou pověřenou podle § 4 hradí žadatel této osobě.
+
+(8) Náklady za odborné a zkušební úkony provedené zkušebním úřadem v zahraničí hradí žadatel tomuto úřadu.
+
+(9) Ústav je oprávněn požadovat od žadatele podle zvláštních zákonů,<sup>4</sup>) na jehož žádost se mají odborné a zkušební úkony provést, přiměřenou zálohu, popřípadě i náhradu nákladů předem, je-li nepochybné, že tyto úkony budou muset být Ústavem provedeny a je-li známa výše jejich náhrady.
+
+(10) Výdaje vynaložené Ústavem v souvislosti s prováděním odborných a zkušebních úkonů podle § 4 odst. 1 lze kompenzovat<sup>14</sup>) náhradami nákladů za odborné a zkušební úkony podle odstavce 2 hrazenými žadatelem podle zvláštních zákonů.<sup>4</sup>)<sup>,20</sup>) Kompenzovat lze i výdaje vynaložené Ústavem na odborné a zkušební úkony prováděné na vyžádání fyzických a právnických osob.
+
+(11) Od náhrady nákladů jsou osvobozeny
+
+a) státní orgány,
+
+b) územní samosprávné celky, požadují-li provedení úkonů souvisejících s výkonem státní správy v přenesené působnosti,
+
+c) osoby, podávají-li žádost o vzájemné uznání přípravku ve veřejném zájmu nebo rozšíření povolení na menšinová použití ve veřejném zájmu.
+
+(12) Ustanovení odstavců 1 až 11 se vztahují obdobně i na činnosti podle § 3 odst. 1 písm. e) a § 3 odst. 2 a 3, provádí-li je Ústav pro fyzické nebo právnické osoby.
+
+### § 7 – Kontrola a státní dozor
+
+(1) Ústav u osob vymezených zvláštními zákony<sup>4</sup>)<sup>,20</sup>), formou auditu<sup>16a</sup>) systematicky zkoumá, zda jsou všechny činnosti prováděné podle těchto právních předpisů a výsledky těchto činností v souladu s předem stanovenými opatřeními, zda jsou tato opatření účinně prosazována a zda jsou vhodná pro dosažení stanovených cílů.
+
+(2) Zaměstnanci Ústavu vykonávající kontrolu se při výkonu kontrolní činnosti prokazují průkazem Ústavu, který je současně dokladem o jejich pověření ke kontrole.
+
+(3) Zaměstnanci Ústavu postupují podle odstavců 1 a 2, pokud přímo použitelné předpisy Evropské unie nestanoví jinak.
+
+### § 8 – Vyžadování a poskytování informací a spolupráce
+
+(1) Ústav je v rozsahu své působnosti stanovené tímto zákonem a zvláštními zákony<sup>4</sup>)<sup>,20</sup>) oprávněn vyžadovat od organizačních složek státu, zejména od orgánů ochrany veřejného zdraví, orgánů veterinární správy, živnostenských úřadů a celních úřadů, a od orgánů územních samosprávných celků bezúplatné poskytování informací souvisejících se zajišťováním kontroly.
+
+(2) Ústav v rozsahu své působnosti stanovené tímto zákonem a zvláštními zákony<sup>4</sup>)<sup>,20</sup>) poskytuje informace a spolupracuje s organizačními složkami státu a orgány územních samosprávných celků a se zájmovými a profesními sdruženími.
+
+(3) Orgány Celní správy České republiky poskytují na vyžádání Ústavu o kontrolované právnické nebo podnikající fyzické osobě, která dováží ze třetích zemí hnojiva, krmiva, krmné směsi, přípravky na ochranu rostlin a rostlinné produkty propuštěné do režimu volného oběhu, tyto informace:
+
+a) identifikační údaje kontrolované osoby, a to jméno, popřípadě jména, a příjmení, místo pobytu, popřípadě místo podnikání, obchodní firmu, nebo název a sídlo adresáta,
+
+b) popis, včetně obchodního názvu a druhu výrobku podle svého zařazení v kombinované nomenklatuře uvedené v Příloze č. 1 nařízení Rady (EHS) č. 2658/87 o celní a statistické nomenklatuře a o společném celním sazebníku, v platném znění,
+
+c) informace o zemi odeslání a zemi původu výrobku,
+
+d) množství vyjádřené v objemu, hmotnosti nebo počtu jednotek a
+
+e) informace o realizovaných dovozech.
+
+Poskytnutí těchto informací není porušením mlčenlivosti podle daňového řádu.
+
+(4) Ústav je oprávněn z důvodů ochrany zdraví lidí, zvířat, životního prostředí a ochrany spotřebitele zveřejnit způsobem umožňujícím dálkový přístup zjištění a výsledky z kontrolní činnosti prováděné podle zvláštních právních předpisů<sup>4</sup>). Tyto informace mohou obsahovat
+
+a) údaje o osobě, která v rozporu se zvláštními právními předpisy<sup>4</sup>) uvedla na trh rozmnožovací materiál, hnojivo, pomocnou půdní látku, pomocný rostlinný přípravek, substrát, krmivo, přípravek na ochranu rostlin nebo pomocný prostředek na ochranu rostlin,
+
+b) identifikační údaje o rozmnožovacím materiálu, hnojivu, pomocné půdní látce, pomocném rostlinném přípravku, substrátu, krmivu, přípravku na ochranu rostlin nebo pomocném prostředku na ochranu rostlin,
+
+c) povahu případného rizika, přijatá opatření a další informace nezbytné pro ochranu zdraví lidí, zvířat, životního prostředí a spotřebitele.
+
+(5) Zveřejňování informací podle odstavce 4 není porušením mlčenlivosti podle kontrolního řádu a správního řádu.
+
+### § 9 – Využívání údajů katastru nemovitostí a výsledků zeměměřických činností
+
+Ústav je při výkonu své působnosti stanovené tímto zákonem a zvláštními zákony<sup>4</sup>)<sup>,20</sup>) oprávněn v nezbytném rozsahu a bezúplatně využívat údajů katastru nemovitostí<sup>17</sup>) včetně katastrálních map a výsledků zeměměřických činností,<sup>18</sup>) zejména státních mapových děl.<sup>19</sup>)
+
+### § 10 – Věstník Ústředního kontrolního a zkušebního ústavu zemědělského
+
+(1) Ústav vydává Věstník Ústředního kontrolního a zkušebního ústavu zemědělského (dále jen „Věstník“). Věstník vychází periodicky nejméně čtyřikrát ročně.
+
+(2) Ve Věstníku se zveřejňují zejména
+
+a) údaje stanovené zvláštními zákony,<sup>4</sup>)<sup>,</sup><sup>20</sup>)
+
+b) postupy a metody podle § 3 odst. 1 písm. a),
+
+c) oznámení a informace Ústavu,
+
+d) seznam referenčních laboratoří pověřených podle § 5 odst. 4 a 5, včetně zaměření jejich činnosti.
+
+(3) Ústav zveřejňuje Věstník způsobem umožňujícím dálkový přístup.
+
+(4) Ústav při zveřejňování údajů obsažených ve Věstníku postupuje při nakládání s osobními údaji fyzických osob podle zvláštního právního předpisu.
+
+### § 11 – Zmocňovací ustanovení
+
+Ministerstvo stanoví vyhláškou sazebník náhrad nákladů a způsob výpočtu jejich výše za odborné a zkušební úkony vykonávané v působnosti Ústavu podle zvláštních zákonů<sup>4</sup>),<sup>20</sup>) a za odborné a zkušební úkony vykonávané na základě vyžádání organizačních složek státu nebo fyzických a právnických osob podle § 3 odst. 2.
+
+## ČÁST DRUHÁ – Změna zákona o vinohradnictví a vinařství a o změně některých souvisejících právních předpisů
+
+### § 12
+
+Zákon č. 115/1995 Sb., o vinohradnictví a vinařství a o změně některých souvisejících právních předpisů, ve znění zákona č. 216/2000 Sb. a zákona č. 50/2002 Sb., se mění takto:
+
+1\. V § 2 písm. d) se za slova „Ústřednímu kontrolnímu a zkušebnímu ústavu zemědělskému“ vkládá odkaz na poznámku pod čarou č. 1a), která zní:
+
+> „<sup>1a</sup>) Zákon č. 147/2002 Sb., o Ústředním kontrolním a zkušebním ústavu zemědělském a o změně některých souvisejících zákonů (zákon o Ústředním kontrolním a zkušebním ústavu zemědělském).“.
+
+Dosavadní poznámka pod čarou č. 1a) se označuje jako poznámka pod čarou č. 1b) včetně odkazu na ni.
+
+2\. § 3 včetně poznámky pod čarou č. 2) se zrušuje.
+
+## ČÁST TŘETÍ – Změna zákona o krmivech
+
+### § 13
+
+Zákon č. 91/1996 Sb., o krmivech, ve znění zákona č. 244/2000 Sb., se mění takto:
+
+1\. V § 10 odst. 1 se slovo „ministerstvo“ nahrazuje slovem „ústav“ a slova „Věstníku Ministerstva zemědělství“ se nahrazují slovy „Věstníku Ústředního kontrolního a zkušebního ústavu zemědělského“.
+
+2\. V § 17 odstavce 2 až 4 znějí:
+
+> „(2) Ústav může k provádění některých laboratorních zkoušek udělit oprávnění osobám, které o to požádají, (dále jen „provozovatelé laboratoří“).
+
+> (3) Seznam laboratoří ústavu provádějících laboratorní zkoušení jakosti krmiv, doplňkových látek a premixů v rámci výkonu odborného dozoru a seznam osob oprávněných provádět laboratorní zkoušky zveřejní ústav ve Věstníku Ústředního kontrolního a zkušebního ústavu zemědělského.
+
+> (4) Žádost o udělení oprávnění musí obsahovat
+
+> a) jméno a příjmení, popřípadě obchodní firmu, místo výkonu činnosti, bydliště a identifikační číslo, jde-li o osobu fyzickou, nebo název, popřípadě obchodní firmu, sídlo a identifikační číslo, jde-li o osobu právnickou,
+
+> b) údaje o přístrojovém vybavení laboratoře,
+
+> c) údaje o vzdělání pracovníků laboratoře,
+
+> d) rozsah činností, pro které má být oprávnění uděleno.“.
+
+3\. V § 17 odst. 5 až 7 a 9 se slovo „pověření“ nahrazuje slovem „oprávnění“.
+
+## ČÁST ČTVRTÁ – Změna zákona o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech)
+
+### § 14
+
+Zákon č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění zákona č. 308/2000 Sb., se mění takto:
+
+1\. V § 6 odst. 3 se slovo „ministerstvo“ nahrazuje slovem „ústav“ a slova „Věstníku Ministerstva zemědělství České republiky“ se nahrazují slovy „Věstníku Ústředního kontrolního a zkušebního ústavu zemědělského“.
+
+2\. V 10 odstavec 2 zní:
+
+> „(2) Ústav provádí odběry vzorků půd a jejich chemické rozbory pro účely agrochemického zkoušení zemědělských půd. Ústav může k provádění odběru vzorků půd a jejich chemických rozborů udělit oprávnění osobám, které o to požádají. Žádost o udělení oprávnění obsahuje
+
+> a) jméno a příjmení, popřípadě obchodní firmu, místo výkonu činnosti, bydliště a identifikační číslo, jde-li o osobu fyzickou, nebo název, popřípadě obchodní firmu, sídlo a identifikační číslo, jde-li o osobu právnickou,
+
+> b) údaje o technickém vybavení,
+
+> c) údaje o vzdělání odborných pracovníků,
+
+> d) rozsah činností, pro které má být oprávnění uděleno.“.
+
+3\. V § 10 odst. 3 a 4 se slovo „pověření“ nahrazuje slovem „oprávnění“.
+
+4\. V § 10 odst. 4 a 6 se slovo „pověřená“ nahrazuje slovem „oprávněná“.
+
+## ČÁST PÁTÁ – Změna zákona o ochraně práv k odrůdám rostlin a o změně zákona č. 92/1996 Sb., o odrůdách, osivu a sadbě pěstovaných rostlin, ve znění pozdějších předpisů, (zákon o ochraně práv k odrůdám)
+
+### § 15
+
+Zákon č. 408/2000 Sb., o ochraně práv k odrůdám rostlin a o změně zákona č. 92/1996 Sb., o odrůdách, osivu a sadbě pěstovaných rostlin, ve znění pozdějších předpisů, (zákon o ochraně práv k odrůdám), se mění takto:
+
+1\. V § 13 odst. 1 se slova „Věstníku Ministerstva zemědělství (dále jen „Věstník“)“ nahrazují slovy "Věstníku Ústředního kontrolního a zkušebního ústavu zemědělského (dále jen „Věstník“)“.
+
+2\. V § 26 odst. 1 se slovo „ministerstvo“ nahrazuje slovem „Ústav“.
+
+## ČÁST ŠESTÁ – PŘECHODNÁ USTANOVENÍ
+
+#### § 16
+
+(1) Žádosti o udělení pověření k laboratorním zkouškám jakosti krmiv, doplňkových látek a premixů podle zákona o krmivech nebo žádosti o udělení pověření k odběru vzorků půd a k jejich chemickým rozborům pro účely agrochemického zkoušení zemědělských půd podle zákona o hnojivech podané přede dnem nabytí účinnosti tohoto zákona se považují za žádosti o udělení oprávnění podle tohoto zákona.
+
+(2) Pověření udělená Ústavem k laboratorním zkouškám jakosti krmiv, doplňkových látek a premixů podle zákona o krmivech a pověření udělená Ústavem k odběru vzorků půd a k jejich chemickým rozborům pro účely agrochemického zkoušení zemědělských půd podle zákona o hnojivech přede dnem nabytí účinnosti tohoto zákona se považují za oprávnění udělená podle tohoto zákona.
+
+## ČÁST SEDMÁ – ÚČINNOST
+
+### § 17
+
+Tento zákon nabývá účinnosti dnem 1. června 2002.
+
+Klaus v. r.
+
+Havel v. r.
+
+v z. Rychetský v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Zákon č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 27 odst. 4 zákoníku práce, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Zákon č. 321/2004 Sb., o vinohradnictví a vinařství a o změně některých souvisejících zákonů (zákon o vinohradnictví a vinařství), ve znění pozdějších předpisů. 
+ Zákon č. 91/1996 Sb., o krmivech, ve znění pozdějších předpisů. 
+ Zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů. 
+ Zákon č. 97/1996 Sb., o ochraně chmele, ve znění pozdějších předpisů. 
+ Zákon č. 156/1998 Sb., o hnojivech, pomocných půdních látkách, pomocných rostlinných přípravcích a substrátech a o agrochemickém zkoušení zemědělských půd (zákon o hnojivech), ve znění pozdějších předpisů. 
+ Zákon č. 78/2004 Sb., o nakládání s geneticky modifikovanými organismy a genetickými produkty, ve znění pozdějších předpisů. 
+ Zákon č. 408/2000 Sb., o ochraně práv k odrůdám rostlin a o změně zákona č. 92/1996 Sb., o odrůdách, osivu a sadbě pěstovaných rostlin, ve znění pozdějších předpisů, (zákon o ochraně práv k odrůdám). 
+ Zákon č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>4a</sup>) Zákon č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Zákon č. 78/2004 Sb., o nakládání s geneticky modifikovanými organismy a genetickými produkty, ve znění pozdějších předpisů.
+
+<sup>5c</sup>) § 4c a 4e zákona č. 252/1997 Sb., o zemědělství, ve znění zákona č. 291/2009 Sb.
+
+<sup>5d</sup>) Čl. 48 nařízení Komise (ES) č. 796/2004 ze dne 21. dubna 2004, kterým se stanoví prováděcí pravidla k podmíněnosti, odlišení a integrovanému administrativnímu a kontrolnímu systému uvedených v nařízení Rady (ES) č. 1782/2003, kterým se stanoví společná pravidla pro režimy přímých podpor v rámci společné zemědělské politiky a kterým se zavádějí některé režimy podpor pro zemědělce, v platném znění. 
+ Čl. 19 odst. 2 nařízení Komise (ES) č. 1975/2006 ze dne 7. prosince 2006, kterým se stanoví prováděcí pravidla k nařízení Rady (ES) č. 1698/2005, pokud jde o provádění kontrolních postupů a podmíněnosti s ohledem na opatření na podporu rozvoje venkova, v platném znění.
+
+<sup>6</sup>) Například zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+
+<sup>10</sup>) Zákon č. 91/1996 Sb., ve znění pozdějších předpisů.
+
+<sup>11</sup>) Zákon č. 92/1996 Sb., ve znění pozdějších předpisů.
+
+<sup>12</sup>) Zákon č. 408/2000 Sb.
+
+<sup>13</sup>) Zákon č. 156/1998 Sb., ve znění pozdějších předpisů.
+
+<sup>14</sup>) § 49 odst. 9 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů.
+
+<sup>16a</sup>) Například čl. 3 bod 30, čl. 6, čl. 14 písm. f), čl. 33 písm. a) a čl. 39 nařízení Evropského parlamentu a Rady (EU) 2017/625 o úředních kontrolách.
+
+<sup>17</sup>) § 22 odst. 4 zákona č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů.
+
+<sup>18</sup>) § 4 a 6 zákona č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění zákona č. 186/2001 Sb.
+
+<sup>19</sup>) § 2 písm. g) a h) zákona č. 200/1994 Sb., ve znění zákona č. 186/2001 Sb. 
+ § 2 odst. 1 písm. b) a c) nařízení vlády č. 116/1995 Sb., kterým se stanoví geodetické referenční systémy, státní mapová díla závazná na celém území státu a zásady jejich používání.
+
+<sup>20</sup>) Zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů.
+
+<sup>21</sup>) Zákon č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění pozdějších předpisů.
+
+<sup>22</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 765/2008 ze dne 9. července 2008, kterým se stanoví požadavky na akreditaci a dozor nad trhem týkající se uvádění výrobků na trh a kterým se zrušuje nařízení (EHS) č. 339/93.
+
+<sup>24</sup>) Nařízení Evropského parlamentu a Rady (ES) č. 1107/2009 ze dne 21. října 2009 o uvádění přípravků na ochranu rostlin na trh a o zrušení směrnic Rady 79/117/EHS a 91/414/EHS. 
+ Nařízení Evropského parlamentu a Rady (EU) 2016/2031 ze dne 26. října 2016 o ochranných opatřeních proti škodlivým organismům rostlin, o změně nařízení Evropského parlamentu a Rady (EU) č. 228/2013, (EU) č. 652/2014 a (EU) č. 1143/2014 a o zrušení směrnic Rady 69/464/EHS, 74/647/EHS, 93/85/EHS, 98/57/ES, 2000/29/ES, 2006/91/ES a 2007/33/ES, v platném znění.
+
+<sup>25</sup>) Například čl. 28 nařízení Evropského parlamentu a Rady (EU) 2017/625 o úředních kontrolách, čl. 22 nařízení Komise (ES) č. 1850/2006, kterým se stanoví prováděcí pravidla pro TC1 ověřování chmele a chmelových produktů, v platném znění, čl. 29 a 30 nařízení Evropského parlamentu a Rady (ES) č. 2003/2003 o hnojivech, v platném znění.
+
+<sup>26</sup>) Zákon č. 91/1996 Sb., ve znění pozdějších předpisů. 
+ Zákon č. 156/1998 Sb., ve znění pozdějších předpisů. 
+ Zákon č. 219/2003 Sb., ve znění pozdějších předpisů. 
+ Zákon č. 97/1996 Sb., ve znění pozdějších předpisů. 
+ Zákon č. 326/2004 Sb., ve znění pozdějších předpisů.
+
+<sup>27</sup>) § 6 odst. 1 písm. d) zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů.
+
+<sup>28</sup>) Nařízení Evropského parlamentu a Rady (EU) 2017/625 ze dne 15. března 2017 o úředních kontrolách a jiných úředních činnostech prováděných s cílem zajistit uplatňování potravinového a krmivového práva a pravidel týkajících se zdraví zvířat a dobrých životních podmínek zvířat, zdraví rostlin a přípravků na ochranu rostlin, o změně nařízení Evropského parlamentu a Rady (ES) č. 999/2001, (ES) č. 396/2005, (ES) č. 1069/2009, (ES) č. 1107/2009, (EU) č. 1151/2012, (EU) č. 652/2014, (EU) 2016/429 a (EU) 2016/2031, nařízení Rady (ES) č. 1/2005 a (ES) č. 1099/2009 a směrnic Rady 98/58/ES, 1999/74/ES, 2007/43/ES, 2008/119/ES a 2008/120/ES a o zrušení nařízení Evropského parlamentu a Rady (ES) č. 854/2004 a (ES) č. 882/2004, směrnic Rady 89/608/EHS, 89/662/EHS, 90/425/EHS, 91/496/EHS, 96/23/ES, 96/93/ES a 97/78/ES a rozhodnutí Rady 92/438/EHS (nařízení o úředních kontrolách).
+
+<sup>29</sup>) Zákon č. 226/2013 Sb., o dodávání na trh a vývozu dřeva, dřevařských výrobků a některých dalších komodit, ve znění pozdějších předpisů.

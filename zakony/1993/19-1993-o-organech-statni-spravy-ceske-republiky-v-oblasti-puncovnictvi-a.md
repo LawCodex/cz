@@ -1,0 +1,201 @@
+---
+title: "Zákon České národní rady č. 19/1993 Sb., o orgánech státní správy České republiky v oblasti puncovnictví a zkoušení drahých kovů"
+identifier: "19/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/19/2024-12-13"
+type: act
+jurisdiction: cz
+language: cs
+date: 1992-12-20
+effective: 1993-01-01
+last_amended: 2024-12-13
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/19"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon České národní rady č. 19/1993 Sb., o orgánech státní správy České republiky v oblasti puncovnictví a zkoušení drahých kovů ve znění zákona č. 157/2006 Sb., zákona č. 227/2009 Sb., zákona č. 250/2014 Sb., zákona č. 261/2021 Sb. a zákona č. 387/2024 Sb."
+---
+
+# Zákon České národní rady č. 19/1993 Sb., o orgánech státní správy České republiky v oblasti puncovnictví a zkoušení drahých kovů
+
+19
+
+ZÁKON
+
+České národní rady
+
+ze dne 20. prosince 1992
+
+o orgánech státní správy České republiky v oblasti puncovnictví a zkoušení drahých kovů
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## ČÁST PRVNÍ – ÚVODNÍ USTANOVENÍ
+
+### § 1
+
+(1) Zřizuje se Puncovní úřad jako správní úřad, který je podřízen ministerstvu průmyslu a obchodu (dále jen „ministerstvo“).
+
+(2) V čele Puncovního úřadu je předseda; jeho výběr, jmenování a odvolání se řídí zákonem o státní službě.
+
+### § 2
+
+Orgány státní správy České republiky v oblasti puncovnictví a zkoušení drahých kovů jsou
+
+a) ministerstvo,
+
+b) Puncovní úřad.
+
+## ČÁST DRUHÁ – PŮSOBNOST ORGÁNŮ STÁTNÍ SPRÁVY ČESKÉ REPUBLIKY V OBLASTI PUNCOVNICTVÍ A ZKOUŠENÍ DRAHÝCH KOVŮ
+
+### § 3
+
+Ministerstvo
+
+a) organizuje a řídí státní službu pro drahé kovy,<sup>2</sup>)
+
+b) řídí Puncovní úřad,
+
+c) rozhoduje o opravných prostředcích proti rozhodnutím Puncovního úřadu,
+
+d) stanoví obecně závazným právním předpisem výši poplatků za úkony prováděné Puncovním úřadem (dále jen „puncovní poplatky“) a způsob jejich placení.
+
+### § 4
+
+Puncovní úřad
+
+a) vykonává puncovní kontrolu<sup>3</sup>) a puncovní inspekci,<sup>4</sup>)
+
+b) přiděluje a zrušuje výrobní značky výrobcům tuzemského zboží,<sup>5</sup>) a přiděluje a zrušuje odpovědnostní značky obchodníkům dovážejícím cizí zboží,<sup>5a</sup>)
+
+c) vede seznam registrovaných slitin z drahých kovů,<sup>6</sup>)
+
+d) vydává, popřípadě odebírá výrobcům slitin drahých kovů osvědčení o další odborné způsobilosti<sup>7</sup>) a vydává osvědčení o zápisu klenotnické slitiny do seznamu registrovaných slitin,
+
+e) rozhoduje o ponechání přidělené výrobní značky nebo odpovědnostní značky,
+
+f) ověřuje ryzost dentálních drahých kovů<sup>8</sup>) a slitin při ražbě českých mincí z drahých kovů,<sup>9</sup>)
+
+g) na žádost ověřuje ryzost lístkového zlata nebo stříbra<sup>10</sup>) a jiných věcí z drahých kovů,<sup>11</sup>)
+
+h) na žádost provádí expertní činnost v oboru puncovnictví, zkoušení a analytické chemie drahých kovů a hospodaření s drahými kovy,
+
+i) nakládá s výrobky a věcmi z drahých kovů, které stát nabyl podle zvláštních předpisů<sup>12</sup>) nebo na základě mezinárodních smluv,
+
+j) vyjadřuje se k návrhům českých norem v oboru zkoušení a analytické chemie drahých kovů,
+
+k) ukládá pokuty podle puncovního zákona,<sup>13</sup>)
+
+l) vykonává dozor nad bezpečností výrobků z drahých kovů,
+
+m) plní další úkoly vyplývající ze zvláštních právních předpisů.
+
+### § 5
+
+(1) Předseda Puncovního úřadu může pro výkon činností podle puncovního zákona zřizovat podle potřeby pracoviště Puncovního úřadu, kterými jsou pobočky a expozitury.
+
+(2) Ke zřízení nebo zrušení pobočky je třeba předchozího souhlasu ministerstva.
+
+(3) Pobočka
+
+a) vykonává puncovní kontrolu<sup>3</sup>) a puncovní inspekci,<sup>4</sup>)
+
+b) ověřuje ryzost dentálních drahých kovů<sup>8</sup>) a slitin při ražbě českých mincí z drahých kovů,<sup>9</sup>)
+
+c) na žádost ověřuje ryzost lístkového zlata nebo stříbra<sup>10</sup>) a v rozsahu stanoveném předsedou Puncovního úřadu i jiných věcí z drahých kovů.<sup>11</sup>)
+
+(4) Expozitura
+
+a) vykonává puncovní kontrolu,<sup>3</sup>)
+
+b) na žádost ověřuje ryzost lístkového zlata nebo stříbra<sup>10</sup>) a v rozsahu stanoveném předsedou Puncovního úřadu i jiných věcí z drahých kovů.<sup>11</sup>)
+
+### § 6
+
+(1) Za úkony podle § 4 písm. b), c), d) a e) vybírá Puncovní úřad správní poplatky podle zvláštních předpisů.<sup>14</sup>)
+
+(2) Za výkon puncovní kontroly<sup>3</sup>) a za úkony podle § 4 písm. f) až h) a l) vybírá Puncovní úřad puncovní poplatky, jejichž výše je stanovena obecně závazným právním předpisem [§ 3 písm. d)].
+
+(3) V případech, kdy za úkon Puncovního úřadu podle § 4 písm. g), h) a l) není stanoven puncovní poplatek obecně závazným právním předpisem, sjedná se cena za tento úkon podle cenových předpisů.
+
+(4) Příjmy za úkony Puncovního úřadu jsou příjmem státního rozpočtu.
+
+### § 7
+
+(1) Puncovní úřad při splnění oznamovací povinnosti<sup>15</sup>) určí výrobci nebo obchodníkovi<sup>16</sup>) pracoviště Puncovního úřadu (dále jen „příslušné pracoviště“), které je svým umístěním nejbližší jeho sídlu nebo místu trvalého pobytu, pokud se o příslušném pracovišti nedohodnou jinak.
+
+(2) Výrobce nebo obchodník má právo po předchozím písemném oznámení Puncovnímu úřadu změnit příslušné pracoviště. Bez souhlasu Puncovního úřadu se výrobce nebo obchodník nemůže současně obracet na více pracovišť Puncovního úřadu.
+
+(3) Jiné fyzické a právnické osoby než výrobci a obchodníci<sup>16</sup>) se mohou obrátit na kterékoliv pracoviště Puncovního úřadu. Požadovaný úkon nesmí být odmítnut, pokud pracoviště tuto činnost vykonává.
+
+## ČÁST TŘETÍ – PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+
+### § 8
+
+(1) Puncovní úřad užívá státní symboly a označuje písemnosti spojené s výkonem státní správy v oblasti puncovnictví a zkoušení drahých kovů v souladu se zvláštními předpisy.<sup>17</sup>)
+
+(2) Nálezy, osvědčení nebo posudky Puncovního úřadu opatřené otiskem úředního razítka nebo pečeti jsou veřejnými listinami.<sup>18</sup>)
+
+### § 9
+
+(1) Zrušuje se Státní zkušebna pro drahé kovy v Praze<sup>19</sup>) a její práva a závazky, včetně práv a povinností z pracovněprávních vztahů, přecházejí dnem účinnosti tohoto zákona na Puncovní úřad.
+
+(2) Řízení započatá Státní zkušebnou pro drahé kovy v Praze přede dnem účinnosti tohoto zákona dokončí Puncovní úřad podle dosavadních předpisů.
+
+### § 10
+
+§ 39 odst. 2 zákona č. 539/1992 Sb., o puncovnictví a zkoušení drahých kovů (puncovní zákon), zní:
+
+> „(2) Obchodníci jsou povinni při prodeji vydat doklad s uvedením druhu, ceny, hmotnosti a ryzosti prodaných výrobků z drahých kovů. Jde-li však o prodej stříbrného zboží, jehož hmotnost nepřevyšuje 10 gramů, nemusí tento doklad údaj o hmotnosti obsahovat.“.
+
+### § 11
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1993.
+
+Uhde v. r.
+
+Klaus v. r.
+
+---
+
+<sup>2</sup>) § 13 odst. 2 zákona ČNR č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České socialistické republiky, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 8 až 29 zákona č. 539/1992 Sb., o puncovnictví a zkoušení drahých kovů (puncovní zákon).
+
+<sup>4</sup>) § 41 a 42 puncovního zákona.
+
+<sup>5</sup>) § 46 a 47 puncovního zákona.
+
+<sup>5a</sup>) § 46a a 47 puncovního zákona.
+
+<sup>6</sup>) § 49 puncovního zákona.
+
+<sup>7</sup>) § 48 puncovního zákona.
+
+<sup>8</sup>) § 31 puncovního zákona.
+
+<sup>9</sup>) § 30 puncovního zákona.
+
+<sup>10</sup>) § 32 puncovního zákona.
+
+<sup>11</sup>) § 33 puncovního zákona.
+
+<sup>12</sup>) Např. § 462 zákona č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů.
+
+<sup>13</sup>) § 43 až 45 puncovního zákona.
+
+<sup>14</sup>) Zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů.
+
+<sup>15</sup>) § 35 puncovního zákona.
+
+<sup>16</sup>) § 4 puncovního zákona.
+
+<sup>16b</sup>) Zákon č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění pozdějších předpisů.
+
+<sup>16c</sup>) § 1 zákona č. 133/2000 Sb., ve znění zákona č. 53/2004 Sb.
+
+<sup>17</sup>) Zákon ČNR č. 68/1990 Sb., o užívání státního znaku a státní vlajky České republiky, ve znění zákona č. 114/1992 Sb. a zákona č. 358/1992 Sb. 
+ Vyhláška ministerstva vnitra České republiky č. 435/1990 Sb., kterou se stanoví podrobnosti o užívání státního znaku a státní vlajky České republiky.
+
+<sup>18</sup>) § 134 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (úplné znění č. 501/1992 Sb.). 
+ § 176 zákona č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů.
+
+<sup>19</sup>) Zřízena vyhláškou ministra financí č. 123/1955 Ú.l., o státní službě pro drahé kovy, a zařazena do soustavy orgánů státní služby pro drahé kovy vyhláškou ministra hutního průmyslu a rudných dolů č. 93/1962 Sb., o státní službě pro drahé kovy, ve znění pozdějších předpisů.

@@ -113,13 +113,13 @@ Zákon ze dne 29. listopadu 1961 č. 141 Sb., o trestním řízení soudním (tr
 
 30\. § 157 až 179 včetně nadpisů části, hlav, oddílů a paragrafů zní takto:
 
-> **„ČÁST DRUHÁ – **PŘÍPRAVNÉ ŘÍZENÍ****
+> **„ČÁST DRUHÁ – PŘÍPRAVNÉ ŘÍZENÍ**
 
 > **§ 157 – Obecné ustanovení**
 
 > Prokurátor, vyšetřovatel a vyhledávací orgán jsou povinni organizovat svou činnost tak, aby účinně přispívali k včasnosti a důvodnosti trestního stíhání.
 
-> **HLAVA DEVÁTÁ – **POSTUP PŘED ZAHÁJENÍM TRESTNÍHO STÍHÁNÍ****
+> **HLAVA DEVÁTÁ – POSTUP PŘED ZAHÁJENÍM TRESTNÍHO STÍHÁNÍ**
 
 > **§ 158**
 
@@ -157,7 +157,7 @@ Zákon ze dne 29. listopadu 1961 č. 141 Sb., o trestním řízení soudním (tr
 
 > (5) Odevzdat místnímu lidovému soudu lze jen věc náležitě objasněnou.
 
-> **HLAVA DESÁTÁ – **ZAHÁJENÍ TRESTNÍHO STÍHÁNÍ A DALŠÍ POSTUP V NĚM****
+> **HLAVA DESÁTÁ – ZAHÁJENÍ TRESTNÍHO STÍHÁNÍ A DALŠÍ POSTUP V NĚM**
 
 > **Oddíl první – Zahájení trestního stíhání**
 

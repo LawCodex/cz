@@ -1,0 +1,103 @@
+---
+title: "Zákon č. 225/1999 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o vojácích z povolání"
+identifier: "225/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/225/2015-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1999-09-14
+effective: 1999-12-01
+last_amended: 2015-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/225"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 225/1999 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o vojácích z povolání ve znění zákona č. 189/2006 Sb., zákona č. 264/2006 Sb. a zákona č. 332/2014 Sb."
+---
+
+# Zákon č. 225/1999 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o vojácích z povolání
+
+225
+
+ZÁKON
+
+ze dne 14. září 1999,
+
+kterým se mění některé zákony v souvislosti s přijetím zákona o vojácích z povolání
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění zákona č. 590/1992 Sb., zákona č. 37/1993 Sb., zákona č. 160/1993 Sb., zákona č. 307/1993 Sb., zákona č. 241/1994 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 134/1997 Sb., zákona č. 306/1997 Sb. a zákona č. 93/1998 Sb., se mění takto:
+
+1\. V § 9 se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno c), které včetně poznámky pod čarou č. 73) zní:
+
+> „c) jde o příslušníka ozbrojených sil, který splnil podmínky nároku na výsluhový příspěvek podle zvláštního právního předpisu.<sup>73</sup>)
+
+> <sup>73</sup>) § 132 a násl. zákona č. 221/1999 Sb., o vojácích z povolání.“.
+
+2\. V § 112 se slova „§ 108 a 109“ nahrazují slovy „§ 109“.
+
+## Čl. II
+
+V § 4 odst. 1 písmeno o) zákona č. 586/1992 Sb., o daních z příjmů, včetně poznámky pod čarou č. 3), zní:
+
+> „o) výsluhové náležitosti a přídavek na bydlení u vojáků z povolání a nároky souvisící se skončením služebního poměru příslušníků bezpečnostních sborů a služeb a příslušníků celní správy České republiky, podle zvláštních právních předpisů,<sup>3</sup>)
+
+> <sup>3</sup>) Například zákon č. 221/1999 Sb., o vojácích z povolání, zákon č. 186/1992 Sb., o služebním poměru příslušníků Policie České republiky, ve znění pozdějších předpisů, zákon č. 154/1994 Sb., o Bezpečnostní informační službě, ve znění zákona č. 160/1995 Sb.“.
+
+## Čl. V
+
+V § 11 odst. 3 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, se poslední věta nahrazuje větou, která včetně poznámek pod čarou č. 22a) a č. 22b) zní: „Za vojáky v činné službě,<sup>22a</sup>) s výjimkou vojáků v záloze povolaných k vojenskému cvičení, a za žáky vojenských škol,<sup>22b</sup>) kteří se připravují na službu vojáka z povolání a nejsou vojáky v činné službě, uhradí Ministerstvo obrany prostřednictvím Vojenské zdravotní pojišťovny
+
+> a) rozdíl mezi výší úhrady zdravotní péče poskytnuté či předepsané lékařem nebo zdravotnickým zařízením uvedeným ve větě druhé a třetí, která je částečně hrazena z veřejného zdravotního pojištění podle tohoto zákona, a výší úhrady poskytnuté Vojenskou zdravotní pojišťovnou; to neplatí pro úhradu stomatologických výrobků,
+
+> b) preventivní péči poskytnutou nad rámec preventivní péče hrazené ze zdravotního pojištění podle § 29 v rozsahu stanoveném vyhláškou Ministerstva obrany.
+
+> <sup>22a</sup>) § 16 odst. 2 a 3 zákona č. 218/1999 Sb., o rozsahu branné povinnosti a o vojenských správních úřadech (branný zákon).
+
+> <sup>22b</sup>) § 166 zákona č. 221/1999 Sb., o vojácích z povolání.“.
+
+## Čl. VI
+
+Zákon č. 280/1992 Sb., o resortních, oborových, podnikových a dalších zdravotních pojišťovnách, ve znění zákona č. 10/1993 Sb., zákona č. 15/1993 Sb., zákona č. 60/1995 Sb., zákona č. 149/1996 Sb., zákona č. 48/1997 Sb., zákona č. 93/1998 Sb. a zákona č. 127/1998 Sb., se mění takto:
+
+1\. V § 8 se doplňuje odstavec 3, který včetně poznámky pod čarou č. 5b) zní:
+
+> „(3) Vojenská zdravotní pojišťovna zprostředkovává úhradu zdravotní péče hrazené Ministerstvem obrany podle zvláštního právního předpisu.<sup>5b</sup>)
+
+> <sup>5b</sup>) § 11 odst. 3 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 225/1999 Sb.“.
+
+2\. V § 16 se za odstavec 1 vkládají nové odstavce 2 a 3, které včetně poznámky pod čarou č. 16a) znějí:
+
+> „(2) Vojenská zdravotní pojišťovna vytváří a spravuje vedle fondů uvedených v odstavci 1 fond zprostředkování úhrady zdravotní péče hrazené Ministerstvem obrany podle zvláštního právního předpisu.<sup>16a</sup>)
+
+> (3) Vojenská zdravotní pojišťovna může vytvářet fond pro úhradu preventivní péče poskytované nad rámec preventivní péče hrazené ze zdravotního pojištění pro vojáky v činné službě a žáky vojenských škol.
+
+> <sup>16a</sup>) § 11 odst. 3 zákona č. 48/1997 Sb., ve znění zákona č. 225/1999 Sb.“.
+
+Dosavadní odstavce 2 až 5 se označují jako odstavce 4 až 7.
+
+3\. V § 16 odst. 6 se na konci doplňuje tato věta: „Ministerstvo financí po projednání s Ministerstvem zdravotnictví a s Ministerstvem obrany stanoví vyhláškou podrobné podmínky tvorby a užití finančních prostředků fondů uvedených v odstavcích 2 a 3.“.
+
+## Čl. VIII
+
+Čl. I zákona č. 74/1990 Sb., kterým se stanoví nové znění vojenské přísahy a služební přísahy příslušníků Sboru národní bezpečnosti a Sborů nápravné výchovy, upravuje název československé armády, upravuje řádná dovolená vojáků v základní službě a jímž se mění zákon č. 40/1974 Sb., o Sboru národní bezpečnosti, se zrušuje.
+
+## Čl. IX
+
+Čl. I zákona č. 77/1992 Sb., kterým se mění zákon č. 76/1959 Sb., o některých služebních poměrech vojáků, ve znění pozdějších předpisů, a zákon č. 100/1970 Sb., o služebním poměru příslušníků Sboru národní bezpečnosti, ve znění pozdějších předpisů, se zrušuje.
+
+## Čl. X
+
+Čl. XII zákona č. 160/1995 Sb., kterým se mění a doplňují některé zákony v souvislosti s přijetím zákona o důchodovém pojištění, se zrušuje.
+
+## Čl. XI
+
+Tento zákon nabývá účinnosti dnem 1. prosince 1999.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

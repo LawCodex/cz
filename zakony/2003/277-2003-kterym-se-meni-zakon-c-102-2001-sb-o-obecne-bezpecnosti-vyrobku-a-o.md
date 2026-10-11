@@ -1,0 +1,77 @@
+---
+title: "Zákon č. 277/2003 Sb., kterým se mění zákon č. 102/2001 Sb., o obecné bezpečnosti výrobků a o změně některých zákonů (zákon o obecné bezpečnosti výrobků), ve znění zákona č. 146/2002 Sb., zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, a zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů"
+identifier: "277/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/277/2024-12-13"
+type: act
+jurisdiction: cz
+language: cs
+date: 2003-08-06
+effective: 2004-05-01
+last_amended: 2024-12-13
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/277"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 277/2003 Sb., kterým se mění zákon č. 102/2001 Sb., o obecné bezpečnosti výrobků a o změně některých zákonů (zákon o obecné bezpečnosti výrobků), ve znění zákona č. 146/2002 Sb., zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, a zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů ve znění zákona č. 387/2024 Sb."
+---
+
+# Zákon č. 277/2003 Sb., kterým se mění zákon č. 102/2001 Sb., o obecné bezpečnosti výrobků a o změně některých zákonů (zákon o obecné bezpečnosti výrobků), ve znění zákona č. 146/2002 Sb., zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, a zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů
+
+277
+
+ZÁKON
+
+ze dne 6. srpna 2003,
+
+kterým se mění zákon č. 102/2001 Sb., o obecné bezpečnosti výrobků a o změně některých zákonů (zákon o obecné bezpečnosti výrobků), ve znění zákona č. 146/2002 Sb., zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, a zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o technických požadavcích na výrobky
+
+### Čl. II
+
+V § 4a zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 205/2002 Sb., se doplňuje odstavec 4, který včetně poznámky pod čarou č. 1b) zní:
+
+> „(4) Úřad zveřejňuje ve Věstníku Úřadu odkaz na evropskou normu uveřejněnou podle práva Evropských společenství<sup>1b</sup>) Komisí Evropského společenství v Úředním věstníku Evropských společenství, která splňuje podmínky této směrnice.
+
+> <sup>1b</sup>) Čl. 4 směrnice Evropského parlamentu a Rady 2001/95/ES o všeobecné bezpečnosti výrobků.“.
+
+## ČÁST TŘETÍ – Změna zákona o ochraně spotřebitele
+
+### Čl. III
+
+Zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění zákona č. 217/1993 Sb., zákona č. 40/1995 Sb., zákona č. 104/1995 Sb., zákona 110/1997 Sb., zákona č. 356/1999 Sb., zákona č. 64/2000 Sb., zákona č. 145/2000 Sb., zákona č. 258/2000 Sb., zákona č. 102/2001 Sb., zákona č. 452/2001 Sb., zákona č. 477/2001 Sb., zákona č. 151/2002 Sb. a zákona č. 320/2002 Sb., se mění takto:
+
+1\. V § 2 odst. 1 písmeno d) zní:
+
+> „d) dovozcem podnikatel, který uvede na trh výrobek z jiného než členského státu Evropské unie,“.
+
+2\. V § 2 odst. 1 písm. m) bod 2 zní:
+
+> „2. stélka a podšívka, které jsou sestavou stélky a podšívky svršku, tvořící vnitřní část obuvi,“.
+
+3\. V § 3 se na konci písmene c) tečka nahrazuje středníkem a doplňují se slova, která včetně poznámky pod čarou č. 6a) znějí: „při konečném účtování prodávaných výrobků a poskytovaných služeb v hotovosti se celková částka zaokrouhluje vždy k nejbližší platné nominální hodnotě zákonných peněz v oběhu.<sup>6a</sup>)
+
+> <sup>6a)</sup> Zákon č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů.“.
+
+4\. V § 10 se odstavec 9 zrušuje.
+
+5\. § 10a včetně poznámky pod čarou č. 9b) zní:
+
+> **„§ 10a**
+
+> Výrobce nebo jeho zplnomocněný zástupce<sup>9b</sup>) odpovídá za označení materiálů použitých v hlavních částech obuvi v souladu s prováděcím právním předpisem a za přesnost informací v označení obsažených. Tyto údaje je povinen poskytnout dodavateli, jakož i prodávajícímu. Pokud výrobce ani jeho zplnomocněný zástupce nemají sídlo v členském státě Evropské unie, přechází tato povinnost na osobu odpovědnou za první uvedení obuvi na trh Evropského společenství.
+
+> <sup>9b</sup>) § 5 odst. 1 písm. b) zákona č. 102/2001 Sb., ve znění zákona č. 277/2003.“.
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### Čl. V
+
+Tento zákon nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost, s výjimkou části třetí bodu 3, který nabývá účinnosti dnem jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Špidla v. r.

@@ -1,0 +1,114 @@
+---
+title: "Zákon č. 235/1992 Sb., o zrušení pracovních kategorií a o některých dalších změnách v sociálním zabezpečení"
+identifier: "235/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/235/2012-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1992-04-28
+effective: 1992-06-01
+last_amended: 2012-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/235"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 235/1992 Sb., o zrušení pracovních kategorií a o některých dalších změnách v sociálním zabezpečení ve znění zákona č. 155/1995 Sb., zákona č. 189/2006 Sb. a zákona č. 329/2011 Sb."
+---
+
+# Zákon č. 235/1992 Sb., o zrušení pracovních kategorií a o některých dalších změnách v sociálním zabezpečení
+
+235
+
+ZÁKON
+
+ze dne 28. dubna 1992
+
+o zrušení pracovních kategorií a o některých dalších změnách v sociálním zabezpečení
+
+Federální shromáždění České a Slovenské Federativní Republiky se usneslo na tomto zákoně:
+
+## Čl. IV
+
+Pokud jsou nároky podle
+
+a) zákona č. 98/1987 Sb., o zvláštním příspěvku horníkům, ve znění zákona č. 160/1989 Sb.,
+
+b) nařízení vlády České a Slovenské Federativní Republiky č. 557/1990 Sb., o mimořádném poskytování starobního důchodu některým horníkům, ve znění zákona č. 578/1991 Sb.,
+
+c) vyhlášky federálního ministerstva práce a sociálních věcí č. 45/1987 Sb., o zásadách pro zkrácení pracovní doby bez snížení mzdy ze zdravotních důvodů pracovníkům do 21 let v podzemí hlubinných dolů,
+
+d) vyhlášky federálního ministerstva práce a sociálních věcí č. 95/1987 Sb., o dodatkové dovolené pracovníků, kteří pracují s chemickými karcinogeny,
+
+e) vyhlášky federálního ministerstva práce a sociálních věcí č. 96/1987 Sb., o krácení pracovní doby bez snížení mzdy ze zdravotních důvodů pracovníků, kteří pracují s chemickými karcinogeny, ve znění vyhlášky č. 108/1989 Sb.,
+
+f) vyhlášky federálního ministerstva práce a sociálních věcí č. 19/1991 Sb., o pracovním uplatnění a hmotném zabezpečení pracovníků v hornictví dlouhodobě nezpůsobilých k dosavadní práci,
+
+podmíněny zařazením zaměstnání do I. pracovní kategorie pro účely důchodového zabezpečení, hodnotí se pro účely těchto předpisů po 31. květnu 1992 takové zaměstnání podle předpisů o sociálním zabezpečení platných ke dni 31. května 1992, pokud bylo takové zaměstnání zařazeno do I. pracovní kategorie k tomuto dni.
+
+## Čl. VII – Přechodná ustanovení
+
+(1) Převádí-li se část organizace vyplácející příspěvek poskytovaný organizacemi Československé státní dráhy poživatelům některých důchodů,<sup>1</sup>) příspěvek k důchodu poživatelům některých důchodů vybraných profesí strojírenské metalurgie<sup>2</sup>) nebo výsluhový přídavek ve stavebnictví<sup>3</sup>) do jiné organizace, přecházejí nároky na výplatu uvedených dávek pracovníků v této části organizace na přejímající organizaci. Při zrušení organizace spojeném s likvidací organizace vyplácející uvedené dávky přechází uvedené povinnosti na stát.
+
+(2) Pokud občan utrpěl pracovní úraz nebo onemocněl nemocí z povolání přede dnem 1. června 1992, má nárok na zvýšení invalidního důchodu o 10 % jeho průměrného měsíčního výdělku podle předpisů platných před tímto dnem.
+
+(3) Dávky uvedené v odstavci 1 vyplácené ke dni 31. května 1992 se vyplácejí po tomto dni dále za podmínek a ve výši stanovených předpisy platnými před tímto dnem.
+
+## Čl. VIII
+
+(1) Zrušují se
+
+1\. Zákon č. 23/1985 Sb., o výsluhovém přídavku ve stavebnictví.
+
+2\. § 2 odst. 2 a v § 2 odst. 3 ve větě první slova „v případech uvedených v odstavci 1 i“ a věta druhá nařízení vlády Československé socialistické republiky č. 118/1988 Sb., o mimořádném poskytování starobního důchodu, ve znění nařízení vlády Československé socialistické republiky č. 116/1989 Sb.
+
+3\. Nařízení vlády Československé socialistické republiky č. 117/1988 Sb., o zařazování zaměstnání do I. a II. pracovní kategorie pro účely důchodového zabezpečení.
+
+4\. Vyhláška federálního ministerstva práce a sociálních věcí č. 40/1985 Sb., kterou se provádí zákon o výsluhovém přídavku ve stavebnictví.
+
+5\. Výnos federálního ministerstva dopravy ze dne 20. listopadu 1979 č. j. 25005/79-032 o poskytování příspěvku organizacemi ČSD poživatelům některých důchodů (reg. v částce 30/1979 Sb.).
+
+6\. Výnos federálního ministerstva práce a sociálních věcí č. j. F 43-5324-4303-1982, kterým se vydává pro účely důchodového zabezpečení srovnávací seznam vybraných zaměstnání v hornictví (reg. v částce 27/1982 Sb.), ve znění výnosu federálního ministerstva práce a sociálních věcí č. j. F 72-17147-7203-315 (reg. v částce 25/1985 Sb.).
+
+7\. Výnos federálního ministerstva hutnictví a těžkého strojírenství ze dne 12. dubna 1983 č. j. 033/53/83 o poskytování příspěvku poživatelům některých důchodů vybraných profesí strojírenské metalurgie (reg. v částce 21/1983 Sb.).
+
+8\. Výnos federálního ministerstva všeobecného strojírenství č. j. 060/351/83 o poskytování příspěvku k důchodu poživatelům některých důchodů za výkon práce ve vybraných profesích strojírenské metalurgie (reg. v částce 21/1983 Sb.).
+
+9\. Výnos federálního ministerstva elektrotechnického průmyslu č. j. 011/1042/83 ze dne 16. srpna 1983 o poskytování příspěvku organizacemi v působnosti federálního ministerstva elektrotechnického průmyslu poživatelům některých důchodů ve vybraných profesích strojírenské metalurgie (reg. v částce 30/1983 Sb.).
+
+(2) Resortní seznamy zaměstnání zařazených do I. a II. pracovní kategorie nebo do I. a II. kategorie funkcí pro účely důchodového zabezpečení pozbývají platnosti dnem 1. června 1992.
+
+## Čl. IX
+
+Předsednictvo Federálního shromáždění se zmocňuje, aby ve Sbírce zákonů vyhlásilo úplné znění zákona o sociálním zabezpečení, jak vyplývá z pozdějších zákonů.
+
+## Čl. X
+
+Tento zákon nabývá účinnosti dnem 1. června 1992.
+
+Havel v. r.
+
+Dubček v. r.
+
+Čalfa v. r.
+
+---
+
+<sup>27</sup>) § 14 odst. 1 písm. a) zákona č. 1/1991 Sb., o zaměstnanosti.
+
+<sup>28</sup>) Zákon č. 244/1991 Sb., o Federální bezpečnostní informační službě a o používání zpravodajských prostředků. 
+ Zákon č. 333/1991 Sb., o Federálním policejním sboru a Sboru hradní policie. 
+ Zákon České národní rady č. 283/1991 Sb., o Policii České republiky. 
+ Zákon Slovenské národní rady č. 204/1991 Sb., o Policejním sboru Slovenské republiky.
+
+<sup>29</sup>) Zákon Slovenské národní rady č. 79/1992 Sb., o Sboru vězeňské a justiční stráže Slovenské republiky.
+
+<sup>x</sup>) § 18 odst. 4 zákona č. 172/1990 Sb., o vysokých školách.
+
+<sup>xx</sup>) § 29, 31 a 33 zákona č. 29/1984 Sb., o soustavě základních a středních škol (školský zákon), ve znění zákona č. 171/1990 Sb.
+
+<sup>1</sup>) Výnos federálního ministerstva dopravy ze dne 20. listopadu 1979 č. j. 25005/79-032 o poskytování příspěvku organizacemi ČSD poživatelům některých důchodů (reg. v částce 30/1979 Sb.).
+
+<sup>2</sup>) Výnos federálního ministerstva hutnictví a těžkého strojírenství ze dne 12. dubna 1983 č. j. 033/53/83 o poskytování příspěvku poživatelům některých důchodů vybraných profesí strojírenské metalurgie (reg. v částce 21/1983 Sb.). 
+ Výnos federálního ministerstva elektrotechnického průmyslu č. j. 011/1042/83 ze dne 16. srpna 1983 o poskytování příspěvku organizacemi v působnosti federálního ministerstva elektrotechnického průmyslu poživatelům některých důchodů vybraných profesí strojírenské metalurgie (reg. v částce 30/1983 Sb.). 
+ Výnos federálního ministerstva všeobecného strojírenství č. j. 060/351/83 ze dne 10. května 1983 o poskytování příspěvku k důchodu poživatelům některých důchodů za výkon práce ve vybraných profesích strojírenské metalurgie (reg. v částce 21/1983 Sb.).
+
+<sup>3</sup>) Zákon č. 23/1985 Sb., o výsluhovém přídavku ve stavebnictví.

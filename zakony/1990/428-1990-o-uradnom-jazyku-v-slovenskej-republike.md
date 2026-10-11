@@ -1,0 +1,82 @@
+---
+title: "Zákon Slovenskej národnej rady č. 428/1990 Sb., o úradnom jazyku v Slovenskej republike"
+identifier: "428/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/428/1990-10-25"
+type: act
+jurisdiction: cz
+language: cs
+date: 1990-10-25
+effective: 1990-10-25
+last_amended: 1990-10-25
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/428"
+retrieved: 2026-10-11
+---
+
+# Zákon Slovenskej národnej rady č. 428/1990 Sb., o úradnom jazyku v Slovenskej republike
+
+428
+
+ZÁKON
+
+Slovenskej národnej rady
+
+z 25. októbra 1990
+
+o úradnom jazyku v Slovenskej republike
+
+Slovenská národná rada sa uzniesla na tomto zákone:
+
+## § 1 – Úvodné ustanovenia
+
+(1) Účelom zákona je ustanoviť v Slovenskej republike úradný jazyk ako nástroj vzájomného dorozumenia a komunikácie na jej štátnom území a tým zabezpečiť potrebné podmienky na plynulý a účinný výkon štátnej moci a správy, samosprávy a všestranný spoločenský rozvoj.
+
+(2) Uplatňovanie úradného jazyka musí napomáhať rozvoju demokracie a kultúry slovenského národa a národnostných menšín v Slovenskej republike v duchu porozumenia, posilňovania národnostnej znášanlivosti, humanity a medzinárodných záväzkov v oblasti ľudských práv.
+
+## § 2 – Úradný jazyk
+
+Úradným jazykom na štátnom území Slovenskej republiky je slovenský jazyk.
+
+## § 3 – Používanie úradného jazyka
+
+(1) Štátne orgány a orgány samosprávy obcí a ich pracovníci sú povinní používať vo svojej činnosti úradný jazyk. Fyzické a právnické osoby v úradnom styku používajú v ústnej i písomnej forme úradný jazyk, ak osobitné predpisy neustanovujú inak.<sup>1</sup>)
+
+(2) Verejné listiny sa vydávajú v úradnom jazyku.
+
+(3) Štátne orgány a orgány samosprávy obcí a ich pracovníci musia vytvárať podmienky na to, aby boli spôsobilí používať úradný jazyk slovom, písmom, prípadne v inej štátom uznanej forme.
+
+(4) Názvy obcí, miest a ich častí, ulíc, námestí, verejných priestranstiev a iné zemepisné názvy sa označujú v úradnom jazyku.
+
+## § 4 – Výučba úradného jazyka
+
+Štát je povinný v školskom a vzdelávacom systéme vytvárať podmienky na to, aby si občania Slovenskej republiky osvojili slovenský jazyk v miere žiadúcej na používanie v úradnom a v bežnom styku.
+
+## § 5 – Starostlivosť o úradný jazyk
+
+Štát sa stará o vedecký výskum a o zvyšovanie kultúry a čistoty úradného jazyka.
+
+## § 6 – Používanie iných jazykov
+
+(1) V úradnom styku občania môžu používať aj český jazyk.
+
+(2) Ak príslušníci národnostnej menšiny tvoria v meste alebo obci najmenej 20 % obyvateľstva, môžu v takýchto mestách a obciach používať v úradnom styku svoj jazyk. Ak v takýchto mestách alebo obciach vystupuje v úradnom styku občan, ktorý nie je príslušníkom národnostnej menšiny, vedie sa konanie v úradnom jazyku. Pracovníci štátnych orgánov a orgánov samosprávy obcí nie sú povinní ovládať a používať jazyk národnostnej menšiny. Verejné listiny a spisová agenda sa vyhotovujú v úradnom jazyku.
+
+(3) Štátne orgány a orgány samosprávy obcí posudzujú možnosť, účelnosť a spôsob používania jazyka v úradnom styku podľa odsekov 1 a 2, s prihliadnutím na § 1 a 4 tohto zákona.
+
+(4) Ustanoveniami odsekov 1 a 2 nie sú dotknuté práva príslušníkov národnostných menšín, vyplývajúce z osobitných predpisov.<sup>1</sup>)
+
+## § 7
+
+Spory o používaní úradného jazyka rozhodujú príslušné orgány štátnej správy (okresné úrady) v správnom konaní a ich rozhodnutia preskúmavajú súdy.
+
+## § 8
+
+Tento zákon nadobúda účinnosť dňom vyhlásenia.
+
+F. Mikloško v. r.
+
+V. Mečiar v. r.
+
+---
+
+<sup>1</sup>) Napr.: § 18 zákona č. 99/1963 Zb. Občiansky súdny poriadok v znení neskorších predpisov, § 2 ods. 14 zákona č. 141/1961 Zb. o trestnom konaní súdnom (Trestný poriadok) v znení neskorších predpisov.

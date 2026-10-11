@@ -1,0 +1,478 @@
+---
+title: "Zákon Slovenskej národnej rady č. 377/1990 Sb., o hlavnom meste Slovenskej republiky Bratislave"
+identifier: "377/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/377/1992-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1990-09-13
+effective: 1990-11-23
+last_amended: 1992-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/377"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon Slovenskej národnej rady č. 377/1990 Sb., o hlavnom meste Slovenskej republiky Bratislave ve znění zákona č. 523/1990 Sb., zákona č. 130/1991 Sb. a zákona č. 295/1992 Sb."
+---
+
+# Zákon Slovenskej národnej rady č. 377/1990 Sb., o hlavnom meste Slovenskej republiky Bratislave
+
+377
+
+ZÁKON
+
+Slovenskej národnej rady
+
+z 13. septembra 1990
+
+o hlavnom meste Slovenskej republiky Bratislave
+
+Slovenská národná rada sa uzniesla na tomto zákone:
+
+## PRVÁ ČASŤ – POSTAVENIE HLAVNÉHO MESTA SLOVENSKEJ REPUBLIKY BRATISLAVY
+
+### § 1 – Základné ustanovenia
+
+(1) Bratislava je hlavným mestom Slovenskej republiky a pravidelným sídlom Slovenskej národnej rady a vlády Slovenskej republiky (ďalej len „vláda“).
+
+(2) Hlavné mesto Slovenskej republiky Bratislava (ďalej len „hlavné mesto“) je samostatný samosprávny územný celok Slovenskej republiky; združuje občanov, ktorí majú na jej území trvalý pobyt.
+
+(3) Slovenská národná rada, vláda, ministerstvá a ostatné ústredné orgány štátnej správy Slovenskej republiky pomáhajú hlavnému mestu plniť funkcie hlavného mesta. Hlavné mesto utvára podmienky pre činnosť týchto orgánov, ako aj pre činnosť zastupiteľských orgánov iných krajín, ktoré majú sídlo v hlavnom meste.
+
+(4) Ministerstvá a ostatné ústredné orgány štátnej správy Slovenskej republiky prerokúvajú s hlavným mestom návrhy stratégie hospodárskeho a sociálneho rozvoja, ktoré sa týkajú záujmov a potrieb hlavného mesta. Rovnako hlavné mesto prerokúva s týmito orgánmi svoju stratégiu hospodárskeho a sociálneho rozvoja.
+
+### § 2
+
+(1) Hlavné mesto je právnickou osobou, ktorá za podmienok ustanovených zákonom samostatne hospodári s vlastným majetkom, s vlastnými príjmami a s majetkom, ktorý mu bol zverený.
+
+(2) Mestské časti sú právnickými osobami, ktoré za podmienok ustanovených zákonom alebo štatútom hlavného mesta (ďalej len „štatút“) hospodária so zvereným majetkom a so zverenými finančnými prostriedkami a s vlastnými príjmami i vlastným majetkom získaným vlastnou činnosťou.
+
+(3) Majetok hlavného mesta, mestských častí, jeho nadobúdanie, nakladanie a hospodárenie s ním upravia osobitné predpisy.
+
+### § 3
+
+(1) Územie hlavného mesta tvoria katastrálne územia uvedené v prílohe tohto zákona.
+
+(2) Jednotlivé mestské časti tvoria územia priamo spravované obvodnými národnými výbormi a miestnymi národnými výbormi ku dňu účinnosti tohto zákona; zriaďujú sa samostatné mestské časti Devín, Lamač a Dúbravka.
+
+(3) Podrobné vymedzenie územia mestských častí ustanoví mestské zastupiteľstvo všeobecne záväzným nariadením hlavného mesta.
+
+(4) Vytvoriť, zrušiť, zlúčiť alebo rozdeliť mestské časti alebo vykonať iné zmeny ich hraníc môže mestské zastupiteľstvo len so súhlasom alebo na návrh obyvateľov<sup>1</sup>) dotknutých mestských častí; ich názor sa zisťuje hlasovaním podľa osobitných predpisov.<sup>2</sup>)
+
+### § 4 – Vzťah hlavného mesta k okolitým obciam
+
+Veci spoločného záujmu hlavného mesta a okolitých obcí sa riešia dohodou hlavného mesta, mestských častí a okolitých obcí.
+
+## DRUHÁ ČASŤ – SAMOSPRÁVA HLAVNÉHO MESTA
+
+### § 5 – Výkon samosprávy
+
+Samosprávu hlavného mesta vykonávajú obyvatelia hlavného mesta
+
+a) orgánmi hlavného mesta,
+
+b) orgánmi mestských častí,
+
+c) hlasovaním obyvateľov hlavného mesta,
+
+d) hlasovaním obyvateľov mestskej časti,
+
+e) verejným zhromaždením obyvateľov mestskej časti.
+
+### § 6 – Orgány hlavného mesta
+
+(1) Orgánmi hlavného mesta sú:
+
+a) mestské zastupiteľstvo,
+
+b) primátor hlavného mesta.
+
+(2) Orgánmi mestského zastupiteľstva sú:
+
+a) mestská rada,
+
+b) komisie.
+
+(3) Mestské zastupiteľstvo zriaďuje podľa potreby, alebo ak to ustanovuje osobitný zákon, ďalšie svoje stále alebo dočasné výkonné, kontrolné a poradné orgány a určuje im náplň práce.
+
+(4) Mestské zastupiteľstvo v súlade s osobitnými predpismi zriaďuje mestskú políciu a mestský požiarny zbor.
+
+(5) Mestské zastupiteľstvo volí mestského kontrolóra.
+
+### § 7 – Orgány mestskej časti
+
+(1) Orgánmi mestskej časti sú:
+
+a) miestne zastupiteľstvo,
+
+b) starosta.
+
+(2) Orgánmi miestneho zastupiteľstva sú:
+
+a) miestna rada,
+
+b) komisie.
+
+(3) Miestne zastupiteľstvo zriaďuje podľa potreby, alebo ak to ustanovuje štatút, ďalšie svoje stále alebo dočasné výkonné, kontrolné a poradné orgány a určuje im náplň práce.
+
+(4) Miestne zastupiteľstvo volí miestneho kontrolóra.
+
+(5) Miestne zastupiteľstvo môže zriadiť na zabezpečenie odborných, administratívnych a organizačných vecí mestskej časti miestny úrad.
+
+### § 8 – Hlasovanie obyvateľov hlavného mesta
+
+(1) Mestské zastupiteľstvo vyhlási hlasovanie obyvateľov hlavného mesta, ak ide
+
+a) o návrh na zavedenie a zrušenie celomestskej verejnej dávky a tiež, ak ide o návrh na zavedenie a zrušenie miestnej dane alebo celomestského miestneho poplatku, o ktorom sa má podľa uznesenia mestského zastupiteľstva rozhodnúť hlasovaním obyvateľov hlavného mesta,
+
+b) o petíciu skupiny obyvateľov hlavného mesta v počte 20 % všetkých oprávnených voličov,
+
+c) o požiadavku aspoň tretiny miestnych zastupiteľstiev, ktorá musí byť podaná písomne s uvedením dôvodu.
+
+(2) Mestské zastupiteľstvo môže vyhlásiť hlasovanie obyvateľov hlavného mesta o ďalších dôležitých veciach celomestskej povahy, ak s tým súhlasí aspoň tretina miestnych zastupiteľstiev, alebo ak to umožňuje štatút.
+
+(3) Výsledok hlasovania obyvateľov hlavného mesta nahrádza rozhodnutie mestského zastupiteľstva, ak sa ho zúčastnilo aspoň 50 % oprávnených voličov.
+
+(4) Nemožno vyhlásiť hlasovanie obyvateľov mesta o rozpočte.
+
+### § 9 – Hlasovanie obyvateľov mestskej časti
+
+(1) Miestne zastupiteľstvo vyhlási hlasovanie obyvateľov mestskej časti, ak ide
+
+a) o návrh na zmenu názvu mestskej časti, jej zlúčenie s inou mestskou časťou, rozdelenie mestskej časti alebo zmenu jej hranice,
+
+b) o návrh na zavedenie alebo zrušenie verejnej dávky v mestskej časti, a ak ide o návrh na zavedenie alebo zrušenie miestneho poplatku v mestskej časti, o ktorom sa má podľa uznesenia miestneho zastupiteľstva rozhodnúť hlasovaním obyvateľov mestskej časti,
+
+c) o petíciu skupiny obyvateľov v mestskej časti v počte 20 % všetkých oprávnených voličov v mestskej časti alebo aspoň 5000 zo všetkých oprávnených voličov v mestskej časti,
+
+d) o prípady, v ktorých je podľa štatútu povinné.
+
+(2) Miestne zastupiteľstvo môže vyhlásiť hlasovanie obyvateľov mestskej časti o ďalších dôležitých veciach týkajúcich sa postavenia alebo rozvoja mestskej časti alebo života obyvateľov mestskej časti.
+
+(3) Výsledok hlasovania obyvateľov mestskej časti o zavedení alebo zrušení miestneho poplatku v mestskej časti nahrádza rozhodnutie miestneho zastupiteľstva, ak sa ho zúčastnilo aspoň 50 % oprávnených voličov.
+
+(4) Nemožno vyhlásiť hlasovanie obyvateľov mestskej časti o rozpočte.
+
+### § 10 – Verejné zhromaždenie
+
+Na posúdenie vecí týkajúcich sa mestskej časti môže miestne zastupiteľstvo zvolať verejné zhromaždenie obyvateľov mestskej časti.
+
+## TRETIA ČASŤ – POSTAVENIE ORGÁNOV HLAVNÉHO MESTA
+
+### § 11 – Mestské zastupiteľstvo
+
+(1) Mestské zastupiteľstvo je zastupiteľským zborom obyvateľov hlavného mesta a orgánom samosprávy hlavného mesta. Rozhoduje o najdôležitejších otázkach celomestského charakteru.
+
+(2) Mestské zastupiteľstvo má 80 poslancov volených obyvateľmi hlavného mesta v priamych voľbách. Počet poslancov volených v jednotlivých mestských častiach určí mestské zastupiteľstvo podľa podielu počtu obyvateľov mestskej časti na celkovom počte obyvateľov hlavného mesta, pričom každá z nich má v mestskom zastupiteľstve aspoň jedného poslanca.
+
+(3) Pre voľby poslancov mestského zastupiteľstva možno vytvoriť volebné obvody odchylne od ustanovení zákona Slovenskej národnej rady o voľbách do orgánov samosprávy obcí.<sup>3</sup>)
+
+(4) Poslancom mestského zastupiteľstva môže byť aj poslanec miestneho zastupiteľstva, ako aj starosta.
+
+(5) Mestskému zastupiteľstvu je vyhradené:
+
+a) uznášať sa na všeobecne záväzných nariadeniach hlavného mesta a schvaľovať štatút,
+
+b) určovať zásady hospodárenia a nakladania s majetkom patriacim hlavnému mestu a s majetkom vo vlastníctve štátu prenechaným hlavnému mestu a schvaľovať najdôležitejšie úkony týkajúce sa tohto majetku a kontrolovať hospodárenie s ním,
+
+c) určovať podľa potreby a špecifík hlavného mesta zásady ochrany a tvorby životného prostredia,
+
+d) schvaľovať rozpočet hlavného mesta a jeho zmeny, kontrolovať jeho čerpanie a schvaľovať záverečný účet,
+
+e) schvaľovať územný plán hlavného mesta a celomestské koncepcie rozvoja jednotlivých oblastí života hlavného mesta,
+
+f) rozhodovať o zavedení alebo zrušení miestnej dane alebo celomestského miestneho poplatku v hlavnom meste podľa osobitných predpisov,<sup>1</sup>) pokiaľ sa neuznesie, že rozhodnutie o tom prenechá na hlasovanie obyvateľov hlavného mesta podľa § 8 ods. 1 písm. a) a okrem prípadu, ak sa o zavedení alebo zrušení miestnej dane alebo celomestského miestneho poplatku rozhodlo hlasovaním na základe petície skupiny obyvateľov hlavného mesta podľa § 8 ods. 1 písm. b) alebo na základe požiadavky aspoň tretiny miestnych zastupiteľstiev podľa § 8 ods. 1 písm. c) tohto zákona,
+
+g) určovať náležitosti miestnej dane a celomestského miestneho poplatku a celomestskej verejnej dávky v hlavnom meste, ako aj rozhodovať o prijatí úveru alebo pôžičky,
+
+h) vyhlasovať hlasovanie obyvateľov hlavného mesta,
+
+ch) zriaďovať a zrušovať účelové fondy,
+
+i) zriaďovať podniky hlavného mesta a rozpočtové a príspevkové organizácie celomestskej povahy,
+
+j) schvaľovať združovanie prostriedkov hlavného mesta a účasť hlavného mesta v regionálnych a územných združeniach,
+
+k) určovať organizáciu magistrátu hlavného mesta, určovať plat primátora a mestského kontrolóra,
+
+l) schvaľovať poriadok odmeňovania pracovníkov magistrátu hlavného mesta.
+
+### § 12 – Primátor hlavného mesta
+
+(1) Primátor hlavného mesta (ďalej len „primátor“), je výkonným orgánom hlavného mesta a zastupuje ho navonok. Má právo nosiť primátorské insígnie.
+
+(2) Primátor je oprávnený zúčastňovať sa na rokovaní vlády pri prerokúvaní otázok, ktoré sa týkajú záujmov a potrieb hlavného mesta, a predkladať vláde v týchto veciach samostatne vlastné návrhy.
+
+(3) Primátora volia obyvatelia hlavného mesta v priamych voľbách. Volebné pravidlá upravuje osobitný zákon.<sup>3</sup>) Funkcia primátora je nezlučiteľná s funkciou starostu mestskej časti.
+
+(4) Primátor je štatutárnym orgánom hlavného mesta v majetkovoprávnych vzťahoch hlavného mesta<sup>4</sup>) a v pracovnoprávnych vzťahoch pracovníkov magistrátu hlavného mesta;<sup>5</sup>) v administratívnoprávnych vzťahoch je správnym orgánom.<sup>6</sup>)
+
+(5) Primátor zvoláva a vedie zasadnutia mestského zastupiteľstva, mestskej rady a podpisuje ich uznesenia.
+
+(6) Primátora zastupujú jeho námestníci, ktorých na tento účel zvolí mestské zastupiteľstvo z radov svojich poslancov. Mestské zastupiteľstvo vymedzí v štatúte okruh právomocí primátora, ktoré nie sú oprávnení vykonávať námestníci.
+
+### § 13 – Mestská rada
+
+(1) Mestská rada je iniciatívnym, výkonným a kontrolným orgánom mestského zastupiteľstva. Plní aj funkciu poradného orgánu primátora.
+
+(2) Mestská rada sa skladá z 10 členov, ktorých volí mestské zastupiteľstvo zo svojich poslancov na celé funkčné obdobie, starostov všetkých mestských častí a primátora. V zložení mestskej rady sa prihliada na zastúpenie politických strán a politických hnutí<sup>7</sup>) (ďalej len „politické strany“) zastúpených v mestskom zastupiteľstve.
+
+(3) Mestská rada sa schádza podľa potreby, najmenej raz za mesiac. Jej zasadnutie zvoláva a vedie primátor.
+
+(4) Úlohy mestskej rady, ako aj vzťahy k iným orgánom hlavného mesta upraví štatút.
+
+### § 14 – Magistrát hlavného mesta
+
+(1) Odborné, administratívne a organizačné práce súvisiace s plnením úloh orgánov hlavného mesta plní magistrát hlavného mesta. Magistrát sa vnútorne člení na oddelenia a referáty.
+
+(2) Na čele magistrátu hlavného mesta je riaditeľ, ktorého na návrh primátora na dobu neurčitú vymenúva a odvoláva mestské zastupiteľstvo. Riaditeľ magistrátu sa môže zúčastňovať zasadnutí mestskej rady s hlasom poradným.
+
+## ŠTVRTÁ ČASŤ – POSTAVENIE ORGÁNOV MESTSKEJ ČASTI
+
+### § 15 – Miestne zastupiteľstvo
+
+(1) Miestne zastupiteľstvo je zastupiteľským orgánom obyvateľov mestskej časti a orgánom samosprávy mestskej časti.
+
+(2) Miestne zastupiteľstvo rozhoduje o najdôležitejších otázkach miestneho významu, najmä:
+
+a) uznáša sa na všeobecne záväzných nariadeniach mestskej časti,
+
+b) rozhoduje vo veciach týkajúcich sa nakladania a zásad hospodárenia so zvereným majetkom a so zverenými finančnými príjmami a vlastnými finančnými príjmami i vlastným majetkom získaným vlastnou činnosťou, schvaľuje najdôležitejšie úkony týkajúce sa tohto majetku a finančných príjmov a kontroluje hospodárenie s ním,
+
+c) rozhoduje vo veciach týkajúcich sa ochrany a tvorby životného prostredia mestskej časti,
+
+d) schvaľuje rozpočet mestskej časti a jeho zmeny, kontroluje jeho čerpanie a schvaľuje záverečný účet,
+
+e) rozhoduje o zavedení a zrušení miestneho poplatku v mestskej časti podľa osobitných predpisov,1) pokiaľ sa neuznesie, že rozhodnutie o tom prenechá na hlasovanie obyvateľov mestskej časti podľa § 9 ods. 1 písm. b) a okrem prípadu, že o zavedení alebo zrušení tohto poplatku sa rozhodlo hlasovaním na základe petície skupiny obyvateľov mestskej časti podľa § 9 ods. 1 písm. c) tohto zákona.
+
+f) určuje náležitosti miestneho poplatku a verejnej dávky v mestskej časti a rozhoduje o prijatí úveru alebo pôžičky,
+
+g) zriaďuje a zrušuje účelové fondy,
+
+h) vyhlasuje hlasovanie obyvateľov mestskej časti,
+
+ch) zriaďuje podniky mestskej časti a rozpočtové a príspevkové organizácie,
+
+i) rozhoduje o združení prostriedkov mestskej časti a o účasti v regionálnych a záujmových združeniach,
+
+j) určuje organizáciu miestneho úradu, plat starostu a miestneho kontrolóra a schvaľuje poriadok odmeňovania pracovníkov miestneho úradu.
+
+(3) Podrobnejšiu úpravu právomoci a pôsobnosti miestnych zastupiteľstiev a ich vzťahy k orgánom hlavného mesta upravuje štatút.
+
+### § 16
+
+(1) Poslancov miestneho zastupiteľstva volia občania mestskej časti v priamych voľbách.
+
+(2) Počet poslancov miestneho zastupiteľstva určí miestne zastupiteľstvo tak, aby malo:
+
+a) v mestských častiach do 3000 obyvateľov 9 -13 poslancov,
+
+b) v mestských častiach nad 3000 do 20 000 obyvateľov 11 - 30 poslancov,
+
+c) v mestských častiach nad 20 000 obyvateľov 31 - 60 poslancov.
+
+(3) Volebné pravidlá pre voľbu poslancov miestneho zastupiteľstva upravuje osobitný zákon.<sup>3</sup>)
+
+### § 17 – Starosta
+
+(1) Starosta je výkonným orgánom mestskej časti, zastupuje ju navonok. Má právo nosiť insígnie.
+
+(2) Starostu volia obyvatelia mestskej časti v priamych voľbách. Volebné pravidlá upravuje osobitný zákon.<sup>3</sup>)
+
+(3) Starosta je štatutárnym orgánom v majetkovoprávnych vzťahoch mestskej časti<sup>4</sup>) a v pracovnoprávnych vzťahoch pracovníkov miestneho úradu;<sup>5</sup>) v administratívnoprávnych vzťahoch je správnym orgánom.<sup>6</sup>)
+
+(4) Starosta zvoláva a vedie zasadnutia miestneho zastupiteľstva a miestnej rady a podpisuje ich uznesenia.
+
+(5) Starostu zastupuje jeho zástupca, ktorého na tento účel zvolí miestne zastupiteľstvo z radov svojich poslancov. Miestne zastupiteľstvo vymedzí okruh právomocí starostu, ktoré nie je oprávnený vykonávať zástupca.
+
+### § 18 – Miestna rada
+
+(1) Miestna rada je iniciatívnym, výkonným a kontrolným orgánom miestneho zastupiteľstva. Plní aj funkciu poradného orgánu starostu.
+
+(2) Počet členov miestnej rady určí miestne zastupiteľstvo. V zložení miestnej rady sa prihliada na zastúpenie politických strán zastúpených v miestnom zastupiteľstve.
+
+(3) Miestna rada sa schádza podľa potreby. Jej zasadnutie zvoláva a vedie starosta.
+
+### § 19
+
+(1) Odborné, administratívne a organizačné práce súvisiace s plnením úloh mestskej časti plní miestny úrad.
+
+(2) Na čele miestneho úradu je prednosta, ktorého na návrh starostu na dobu neurčitú vymenúva a odvolává miestne zastupiteľstvo. Prednosta miestneho úradu sa môže zúčastňovať zasadnutí miestnej rady s hlasom poradným.
+
+## PIATA ČASŤ – SYMBOLY HLAVNÉHO MESTA, ČESTNÉ OBČIANSTVO A CENY
+
+### § 20
+
+(1) Symbolmi hlavného mesta sú:
+
+a) erb Bratislavy,
+
+b) zástava Bratislavy,
+
+c) pečať Bratislavy.
+
+(2) Podrobné vyobrazenie mestských symbolov je v prílohe štatútu, ktorý upraví aj ich používanie.
+
+### § 21 – Erb Bratislavy
+
+Erb Bratislavy tvorí v červenom neskorogotickom štíte strieborné trojvežové opevnenie s bránou, na červených strechách veží sú po dve zlaté gule so zlatými hrotmi a v bráne zlaté, do polovice vytiahnuté mreže.
+
+### § 22 – Zástava Bratislavy
+
+Zástavu Bratislavy tvoria dva vodorovné pruhy horný biely a spodný červený rovnakej šírky. Jej rozmery sú 2:3 a je ukončená lastovičím chvostom (zástrihom) siahajúcim do jednej tretiny jej dĺžky.
+
+### § 23 – Pečať Bratislavy
+
+Pečať Bratislavy tvorí erb Bratislavy s kruhopisom „Pečať mesta Bratislavy“ v slovenskom a v latinskom jazyku.
+
+### § 24 – Čestné občianstvo a ceny
+
+(1) Osobám, ktoré sa obzvlášť významným spôsobom zaslúžili o hlavné mesto a jeho obyvateľov alebo o mier a priateľstvo medzi národmi, alebo ktoré obohatili ľudské poznanie vynikajúcimi tvorivými výkonmi, môže mestské zastupiteľstvo udeliť čestné občianstvo hlavného mesta.
+
+(2) Vynikajúce tvorivé výkony, ktoré obohacujú ľudské poznanie, alebo ktoré prispeli významným spôsobom k ďalšiemu rozvoju hlavného mesta, môže mestské zastupiteľstvo odmeniť udelením Ceny hlavného mesta Slovenskej republiky Bratislavy.
+
+(3) Primátor alebo starosta môže významnú činnosť osôb, ktoté sa zaslúžili o hlavné mesto alebo mestskú časť, oceniť udelením verejného uznania za zásluhy.
+
+(4) Podrobnosti o podmienkach a spôsobe udeľovania čestného občianstva, Ceny hlavného mesta Slovenskej republiky Bratislavy a verejného uznania za zásluhy upraví štatút.
+
+## ŠIESTA ČASŤ – SPOLOČNÉ USTANOVENIA
+
+### § 25 – Spolupráca s orgánmi štátu
+
+(1) Orgány samosprávy hlavného mesta a mestských častí pri plnení úloh súvisiacich so zabezpečením potrieb mesta a jeho obyvateľov spolupracujú so štátnymi orgánmi na území hlavného mesta. Orgány miestnej samosprávy pri plnení svojich úloh spolupracujú so štátnymi orgánmi, ktoré majú pôsobnosť na území mestskej časti.
+
+(2) Orgány štátu poskytujú orgánom samosprávy v hlavnom meste pomoc v odborných veciach, najmä:
+
+a) poskytujú údaje a informácie z evidencií vedených štátnymi orgánmi,
+
+b) podieľajú sa na odbornej príprave pracovníkov samosprávnych orgánov v hlavnom meste, na príprave poslancov mestského a miestnych zastupiteľstiev,
+
+c) pomáhajú pri riešení mimoriadnych situácií, ktoré majú negatívny dopad na uspokojovanie potrieb obyvateľstva hlavného mesta.
+
+### § 26 – Spolupráca s právnickými a fyzickými osobami
+
+(1) Právnické a fyzické osoby vykonávajúce podnikateľskú činnosť na území hlavného mesta spolupracujú s orgánmi samosprávy hlavného mesta a mestských častí pri zabezpečovaní rozvoja mesta.
+
+(2) Orgány samosprávy hlavného mesta a mestských častí podporujú podnikateľskú a inú činnosť právnických a fyzických osôb, ktorá je na prospech rozvoja mesta a v súlade s územným plánom.
+
+### § 27 – Pomoc pri mimoriadnych situáciách
+
+(1) Primátor alebo starosta môže uložiť právnickej alebo fyzickej osobe povinnosť poskytnúť osobnú alebo vecnú pomoc pri odstraňovaní následkov živelnej pohromy alebo podobnej mimoriadnej udalosti, ak osobitný zákon neustanovuje inak.
+
+(2) Právnická alebo fyzická osoba, ktorá poskytla osobnú alebo vecnú pomoc, má právo na úhradu účelne vynaložených nákladov. Toto právo môže uplatniť do troch mesiacov odo dňa zistenia nákladov, najneskôr do dvoch rokov od ich vzniku, u primátora alebo starostu, inak toto právo zanikne.
+
+### § 28 – Pokuty
+
+(1) Primátor môže uložiť právnickej osobe pokutu do 200 000 Kčs, ak právnická osoba
+
+a) poruší všeobecne záväzné nariadenia hlavného mesta,
+
+b) nesplní v určenej lehote bez vážneho dôvodu povinnosť uloženú primátorom poskytnúť osobnú alebo vecnú pomoc pri odstraňovaní následkov živelnej pohromy alebo inej mimoriadnej udalosti.
+
+(2) Starosta môže uložiť právnickej osobe pokutu do 200 000 Kčs, ak právnická osoba
+
+a) neudržuje čistotu a poriadok na užívanom pozemku alebo inej nehnuteľnosti, a tým naruší vzhľad alebo prostredie mestskej časti, alebo znečistí verejné priestranstvo, alebo odkladá veci mimo vyhradených miest,
+
+b) poruší všeobecne záväzné nariadenie mestskej časti,
+
+c) nesplní v určenej lehote bez vážneho dôvodu povinnosť uloženú starostom poskytnúť osobnú alebo vecnú pomoc pri odstraňovaní následkov živelnej pohromy alebo inej mimoriadnej udalosti.
+
+(3) Pokuta je príjmom rozpočtu hlavného mesta, ak ju uložil primátor, alebo rozpočtu mestskej časti, ak ju uložil starosta.
+
+(4) Pokutu podľa odsekov 1 a 2 možno uložiť do 2 mesiacov odo dňa, kedy sa primátor, resp. starosta dozvedel o tom, kto sa porušenia dopustil, najneskôr do jedného roka od spáchania konania opodstatňujúceho uloženie pokuty. Pri ukladaní pokút sa postupuje podľa všeobecných predpisov o správnom konaní.
+
+**Záverečné a zrušovacie ustanovenia**
+
+### § 29
+
+Ak tento zákon neustanovuje inak, vzťahujú sa na hlavné mesto ustanovenia zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
+
+### § 30
+
+Podrobnejšiu deľbu pôsobnosti medzi orgánmi miestnej samosprávy a mestskej samosprávy upraví štatút. Mestské zastupiteľstvo schváli štatút najneskôr do šiestich mesiacov odo dňa nadobudnutia účinnosti tohto zákona.
+
+### § 31
+
+Práva a zävazky Národného výboru hlavného mesta Slovenskej republiky Bratislavy, obvodných národných výborov a miestnych národných výborov v hlavnom meste prechádzajú dňom účinnosti tohto zákona na hlavné mesto a mestské časti v rozsahu vymedzenom týmto zákonom, ak osobitný zákon neustanovuje inak.
+
+### § 32
+
+Zrušujú sa
+
+1\. Zákon Slovenskej národnej rady č. 43/1968 Zb. o hlavnom meste Slovenska Bratislave v znení zákona Slovenskej národnej rady č. 63/1971 Zb., zákonného opatrenia Predsedníctva Slovenskej národnej rady č. 90/1971 Zb. a zákona Slovenskej národnej rady č. 127/1985 Zb.
+
+2\. Vyhláška Ministerstva vnútra Slovenskej socialistickej republiky č. 3/1986 Zb. o podrobnom vymedzení územia mestských obvodov hlavného mesta Slovenskej socialistickej republiky Bratislavy.
+
+### § 33
+
+Tento zákon nadobúda účinnosť dňom vykonania volieb do orgánov samosprávy hlavného mesta.
+
+F. Mikloško v. r.
+
+V. Mečiar v. r.
+
+### Príloha zákona SNR č. 377/1990 Zb.
+
+#### Zoznam katastrálnych území, ktoré tvoria územie hlavného mesta Slovenskej republiky Bratislavy
+
+1\. Staré Mesto
+
+2\. Ružinov
+
+3\. Nivy
+
+4\. Trnávka
+
+5\. Vrakuňa
+
+6\. Podunajské Biskupice
+
+7\. Vinohrady
+
+8\. Nové Mesto
+
+9\. Rača
+
+10\. Vajnory
+
+11\. Karlova Ves
+
+12\. Dúbravka
+
+13\. Lamač
+
+14\. Devín
+
+15\. Devínska Nová Ves
+
+16\. Záhorská Bystrica
+
+17\. Petržalka
+
+18\. Jarovce
+
+19\. Rusovce
+
+20\. Čuňovo
+
+#### Prehľad mestských častí, kde sa budú voliť miestne zastupiteľstvá podľa zákona SNR o hlavnom meste Slovenskej republiky Bratislave
+
+<table><tbody><tr><th colspan="2">Mestská časť</th><th>počet obyvateľov (r. 1989)</th></tr><tr><td> 1.</td><td>Staré Mesto</td><td>51 120</td></tr><tr><td> 2.</td><td>Ružinov (aj pre k.ú. Nivy a Trnávka)</td><td>78 436</td></tr><tr><td> 3.</td><td>Vrakuňa</td><td>15 500</td></tr><tr><td> 4.</td><td>Podunajské Biskupice</td><td>20 960</td></tr><tr><td> 5.</td><td>Nové Mesto (aj pre k.ú. Vinohrady)</td><td>43 763</td></tr><tr><td> 6.</td><td>Rača</td><td>19 460</td></tr><tr><td> 7.</td><td>Vajnory</td><td>3 405</td></tr><tr><td> 8.</td><td>Karlova Ves</td><td>18 893</td></tr><tr><td> 9.</td><td>Dúbravka</td><td>34 307</td></tr><tr><td> 10.</td><td>Lamač</td><td>7 867</td></tr><tr><td> 11.</td><td>Devín</td><td>907</td></tr><tr><td> 12.</td><td>Devínska Nová Ves</td><td>12 974</td></tr><tr><td> 13.</td><td>Záhorská Bystrica</td><td>1 939</td></tr><tr><td> 14.</td><td>Petržalka</td><td>126 684</td></tr><tr><td> 15.</td><td>Jarovce</td><td>1 276</td></tr><tr><td> 16.</td><td>Rusovce</td><td>2 145</td></tr><tr><td> 17.</td><td>Čuňovo</td><td>785</td></tr><tr><td></td><td></td><td>440 421</td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Zákon č. 85/1990 Zb. o petičnom práve.
+
+<sup>1</sup>) Napr. zákon SNR č. 544/1990 Zb. o miestnych poplatkoch.
+
+<sup>2</sup>) § 11 ods. 7 zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení.
+
+<sup>3</sup>) Zákon Slovenskej národnej rady č. 346/1990 Zb. o voľbách do orgánov samosprávy obcí.
+
+<sup>4</sup>) § 20 Občianskeho zákonníka 
+ § 24f ods. 2 Hospodárskeho zákonníka.
+
+<sup>5</sup>) § 9 ods. 1 Zákonníka práce.
+
+<sup>6</sup>) § 5 ods. 1 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok).
+
+<sup>7</sup>) Zákon č. 15/1990 Zb. o politických stranách.

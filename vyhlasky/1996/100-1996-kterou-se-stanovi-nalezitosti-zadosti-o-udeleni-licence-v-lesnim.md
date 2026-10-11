@@ -1,0 +1,96 @@
+---
+title: "Vyhláška Ministerstva zemědělství č. 100/1996 Sb., kterou se stanoví náležitosti žádosti o udělení licence v lesním hospodářství a podrobnosti o udělování licencí v lesním hospodářství"
+identifier: "100/1996 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1996/100/2020-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1996-03-28
+effective: 1996-04-29
+last_amended: 2020-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1996/100"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva zemědělství č. 100/1996 Sb., kterou se stanoví náležitosti žádosti o udělení licence v lesním hospodářství a podrobnosti o udělování licencí v lesním hospodářství ve znění vyhlášky č. 324/2003 Sb. a vyhlášky č. 278/2020 Sb."
+---
+
+# Vyhláška Ministerstva zemědělství č. 100/1996 Sb., kterou se stanoví náležitosti žádosti o udělení licence v lesním hospodářství a podrobnosti o udělování licencí v lesním hospodářství
+
+100
+
+VYHLÁŠKA
+
+Ministerstva zemědělství
+
+ze dne 28. března 1996,
+
+kterou se stanoví náležitosti žádosti o udělení licence v lesním hospodářství a podrobnosti o udělování licencí v lesním hospodářství
+
+Ministerstvo zemědělství stanoví podle § 44 odst. 5 zákona č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon):
+
+## § 1 – Náležitosti žádosti o udělení licence
+
+(1) Je-li žadatelem o udělení licence fyzická osoba, žádost o udělení licence obsahuje:
+
+a) jméno a příjmení, trvalý pobyt, rodné číslo a číslo občanského průkazu,
+
+b) obchodní jméno, pokud pod tímto jménem podniká,
+
+c) identifikační číslo, bylo-li mu přiděleno,
+
+d) označení předmětu licence,<sup>1</sup>) o jejíž udělení je žádáno, popř. i doba, na kterou je licence žádána,
+
+e) úředně ověřenou<sup>2</sup>) kopii dokladu o dosažení odborného lesnického vzdělání,
+
+f) popis dosavadní odborné lesnické praxe žadatele s uvedením počtu let trvání praxe.
+
+(2) Je-li žadatelem o udělení licence právnická osoba, žádost o udělení licence obsahuje:
+
+a) obchodní jméno, sídlo a právní formu žadatele,
+
+b) jméno a příjmení a trvalý pobyt osoby nebo osob, které jsou statutárním orgánem žadatele,
+
+c) identifikační číslo,
+
+d) výpis z obchodního rejstříku, který nesmí být starší než tři měsíce,
+
+e) označení předmětu licence, o jejíž udělení je žádáno, popř. i doba, na kterou je licence žádána,
+
+f) jméno a příjmení, trvalý pobyt, rodné číslo a číslo občanského průkazu odpovědného zástupce,
+
+g) úředně ověřenou<sup>2</sup>) kopii dokladu o dosažení odborného lesnického vzdělání odpovědným zástupcem,
+
+h) popis dosavadní odborné lesnické praxe odpovědného zástupce s uvedením počtu let trvání praxe.
+
+## § 2 – Odborné lesnické vzdělání
+
+Při posuzování podmínek pro udělení licence se odborné lesnické vzdělání dokládá
+
+a) vysokoškolským diplomem o absolvování studia v oblasti vzdělávání lesnictví a dřevařství v magisterském studijním programu lesní inženýrství,
+
+b) vysokoškolským diplomem o absolvování studia v oblasti vzdělávání lesnictví a dřevařství v bakalářském studijním programu lesnictví,
+
+c) vysvědčením o absolvování a diplomem absolventa vyššího odborného vzdělávání získaného ve studijním oboru lesnictví, vyšší odborné lesnictví anebo v akreditovaném vzdělávacím programu oboru vzdělání lesnictví, nebo
+
+d) vysvědčením o maturitní zkoušce na střední škole, obor vzdělání lesnictví.
+
+## § 4
+
+Právnické a fyzické osoby, kterým byla udělena licence, vedou evidenci o odborných úkonech a o činnostech prováděných na základě udělené licence. Doklady vztahující se k těmto činnostem jsou povinny archivovat po dobu nejméně tří let po skončení kalendářního roku, ve kterém byla činnost vykonána nebo ukončena, pokud zvláštní předpisy nestanoví jinak.<sup>3</sup>)
+
+## § 5
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+Ing. Lux v. r.
+
+---
+
+<sup>1</sup>) § 26 odst. 1, § 30 odst. 1 a § 37 odst. 2 zákona č. 289/1995 Sb., o lesích a o změně a doplnění některých zákonů (lesní zákon).
+
+<sup>2</sup>) Zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád). 
+ Zákon č. 41/1993 Sb., o ověřování shody opisů nebo kopie s listinou a o ověřování pravosti podpisu obecními úřady a o vydávání potvrzení orgány obcí a okresními úřady.
+
+<sup>3</sup>) Např. zákon č. 563/1991 Sb., o účetnictví.

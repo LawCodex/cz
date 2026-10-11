@@ -1,0 +1,78 @@
+---
+title: "Vyhláška Federálního ministerstva zemědělství a výživy č. 148/1989 Sb., kterou se mění a doplňuje vyhláška federálního ministerstva zemědělství a výživy č. 84/1978 Sb., kterou se vydávají základní podmínky dodávky oprav zemědělské techniky"
+identifier: "148/1989 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1989/148/1990-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1989-10-27
+effective: 1990-01-01
+last_amended: 1990-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1989/148"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva zemědělství a výživy č. 148/1989 Sb., kterou se mění a doplňuje vyhláška federálního ministerstva zemědělství a výživy č. 84/1978 Sb., kterou se vydávají základní podmínky dodávky oprav zemědělské techniky
+
+148
+
+VYHLÁŠKA
+
+federálního ministerstva zemědělství a výživy
+
+ze dne 27. října 1989,
+
+kterou se mění a doplňuje vyhláška federálního ministerstva zemědělství a výživy č. 84/1978 Sb., kterou se vydávají základní podmínky dodávky oprav zemědělské techniky
+
+Federální ministerstvo zemědělství a výživy v dohodě se zúčastněnými ústředními orgány a Státní arbitráží Československé socialistické republiky stanoví podle § 392 odst. 1 hospodářského zákoníku č. 109/1964 Sb., v úplném znění vyhlášeném pod č. 80/1989 Sb.:
+
+## Čl. I
+
+Vyhláška federálního ministerstva zemědělství a výživy č. 84/1978 Sb., kterou se vydávají základní podmínky dodávky oprav zemědělské techniky, se mění a doplňuje takto:
+
+1\. V § 1 odst. 3 se doplňuje písmeno c), které zní:
+
+> „c) modernizace a přestavby stroje (skupiny).“.
+
+2\. V § 1 odst. 4 se vypouštějí slova: „ke kterým se již nevyrábějí (nedovážejí) náhradní díly, nebo těch,“.
+
+3\. Do § 1 se vkládá nový odstavec 5, který zní:
+
+> „(5) Ustanovení části druhé této vyhlášky platí i pro modernizaci a přestavby stroje (skupiny).“.
+
+4\. § 2 zní:
+
+> **„§ 2**
+
+> Podmínky pro převzetí stroje (skupiny) do opravy a jeho funkční vlastnosti po provedení opravy stanoví technické normy, popřípadě dohodnuté technické a dodací podmínky (dále jen „technické normy“).“.
+
+5\. V § 4 odst. 1 se vypouštějí slova: „podle zvláštních předpisů <sup>2</sup>)“; zároveň se vypouští poznámka pod čarou č. 2.
+
+6\. V § 4 odst. 4 se vypouštějí slova: „ve lhůtách stanovených organizačními podmínkami [§ 2 odst. 1 písm. b)]“.
+
+7\. V § 6 odst. 1 se vypouští závěr věty za středníkem; zároveň se vypouští poznámka pod čarou č. 3.
+
+8\. V § 8 se vypouští poslední věta a zároveň se vypouští poznámka pod čarou č. 4.
+
+9\. § 14 odst. 1 zní:
+
+> „(1) Záruční doba činí šest měsíců.“.
+
+10\. § 17 zní:
+
+> **„§ 17**
+
+> Údržby (prohlídky) a opravy zemědělské techniky, včetně odstraňování běžných poruch, zajišťují dodavatelským způsobem opravárenské organizace.“.
+
+11\. V § 22 se vypouštějí odstavce 2 a 3. Dosavadní odstavec 4 se označuje jako odstavec 2.
+
+12\. § 26 se vypouští.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1990.
+
+Ministr:
+
+Ing. Algayer v. r.

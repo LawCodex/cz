@@ -1,0 +1,382 @@
+---
+title: "Zákon č. 36/1995 Sb., kterým se mění a doplňuje zákon České národní rady č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, a zákon České národní rady č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů"
+identifier: "36/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/36/1995-04-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1995-02-07
+effective: 1995-04-01
+last_amended: 1995-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/36"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 36/1995 Sb., kterým se mění a doplňuje zákon České národní rady č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, a zákon České národní rady č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+36
+
+ZÁKON
+
+ze dne 7. února 1995,
+
+kterým se mění a doplňuje zákon České národní rady č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, a zákon České národní rady č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon České národní rady č. 549/1991 Sb., o soudních poplatcích, ve znění zákona České národní rady č. 271/1992 Sb. a zákona č. 273/1994 Sb., se mění a doplňuje takto:
+
+1\. V § 2 odst. 1 písm. d) se za slova „v řízení“ vkládají tato slova: „v prvním stupni“.
+
+2\. V § 2 se za odstavec 1 vkládá nový odstavec 2, který zní:
+
+> „(2) Poplatníkem je i odpůrce, který se vzájemným návrhem domáhá vyššího nároku, než je cena poplatného úkonu navrhovatele; odpůrce je poplatníkem jen v rozsahu, v němž jím uplatněný vzájemný návrh přesahuje cenu poplatného úkonu navrhovatele.".
+
+> Dosavadní odstavce 2, 3 a 4 se označují jako odstavce 3, 4 a 5.
+
+3\. § 2 odst. 5 zní:
+
+> „(5) Poplatníkem je i ten, kdo podal opravný prostředek proti rozhodnutí soudu nebo proti rozhodnutí orgánu veřejné správy anebo žalobu proti rozhodnutí orgánu veřejné správy.“.
+
+4\. V § 3 se vypouští odstavec 1 včetně poznámky č. 1) a zrušuje se označení odstavce 2.
+
+5\. § 5 odst. 1 zní:
+
+> „(1) Sazby poplatků jsou stanoveny pevnou částkou nebo procentem ze základu poplatku (dále jen „procentní poplatek“). Sazby poplatků jsou uvedeny v sazebníku.“.
+
+6\. V § 5 odst. 2 se částka „500 Kč“ nahrazuje částkou „1000 Kč“.
+
+7\. § 6 odst. 1 včetně poznámky č. 2) zní:
+
+> „(1) Základem procentního poplatku je cena předmětu poplatného úkonu podle zvláštních předpisů.<sup>2</sup>) Nelze-li cenu takto zjistit, je základem poplatku cena obvyklá v místě a čase vzniku poplatkové povinnosti.
+
+> <sup>2</sup>) Zákon č. 526/1990 Sb., o cenách. 
+>  Vyhláška Ministerstva financí č. 178/1994 Sb., o oceňování staveb, pozemků a trvalých porostů.“.
+
+8\. § 6 odst. 3 až 11 včetně poznámky č. 2a) znějí:
+
+> „(3) Základem procentního poplatku v řízení o vypořádání bezpodílového spoluvlastnictví manželů je cena všech věcí patřících do bezpodílového spoluvlastnictví manželů a ostatních hodnot, které se vypořádávají.
+
+> (4) Základem poplatku v řízení o zrušení a vypořádání podílového spoluvlastnictví je cena věci po odečtení ceny podílu navrhovatele, směřuje-li návrh na přikázání věci navrhovateli nebo v případě návrhu na prodej věci. Směřuje-li návrh na přikázání věci ostatním spoluvlastníkům, je základem poplatku cena věci po odečtení ceny podílu ostatních spoluvlastníků. V případě reálného rozdělení věci je základem poplatku cena dělené věci.
+
+> (5) Cena příslušenství předmětu poplatného úkonu je základem poplatku jen v případech, je-li příslušenství předmětem samostatného poplatného úkonu. U poplatných úkonů prováděných ve věcech obchodních však základ poplatku zahrnuje i výši smluvených úroků splatných do dne podání návrhu na zahájení řízení, pokud se jejich přiznání navrhovatel domáhá, jakož i výši úroků stanovených zvláštním předpisem.<sup>2a</sup>)
+
+> (6) Je-li předmětem poplatného úkonu opětující se plnění, je základem poplatku cena odpovídající součtu všech opětujících se plnění. Jde-li o plnění na dobu neurčitou, na dobu života nebo na dobu delší než pět let, považuje se za základ poplatku pětinásobek ceny ročního plnění.
+
+> (7) Nelze-li stanovit základ poplatku podle odstavce 6, je základem procentního poplatku částka ve výši 10 000 Kč.
+
+> (8) Je-li v návrhu na zahájení řízení uplatněno více peněžitých nároků z jednoho nebo z různých závazkových vztahů, je základem procentního poplatku součet cen všech uplatňovaných nároků, pokud jejich úhrn nepřesahuje výši 10 000 Kč a sazba procentního poplatku z jednotlivých nároků je stanovena ve stejné výši. Přesahuje-li součet všech uplatňovaných nároků tuto výši nebo je-li procentní poplatek z jednotlivých nároků stanoven rozdílnou sazbou, je základem procentního poplatku cena každého jednotlivého nároku uvedená v návrhu tak, jako by šlo o samostatně podaný návrh.
+
+> (9) V řízení o opravném prostředku proti rozhodnutí soudu je základem procentního poplatku cena nároku uplatňovaného v tomto řízení, není-li v § 5 odst. 2 stanoveno jinak.
+
+> (10) Je-li základ poplatku vyjádřen v cizí měně, vypočte se procentní poplatek ze základu poplatku přepočteného na českou měnu podle příslušného kurzu platného pro nákup valut, který je uveden v kurzovním lístku České národní banky vydaném k prvnímu dni měsíce, v němž je poplatek splatný nebo v němž soud o výši poplatku rozhodl. Pro přepočet měny, která není uvedena v kurzovním lístku České národní banky, se použije kurz USD k této měně vyhlášený ústřední nebo jí na roveň postavenou bankou státu, v němž platí přepočítávaná měna. Platnost použitého kurzu měn, které nejsou vedeny v kurzovním lístku České národní banky, je poplatník povinen soudu prokázat dokladem získaným prostřednictvím Ministerstva zahraničních věcí. Placení poplatku poplatníky s bydlištěm nebo sídlem na území Slovenské republiky v měně Slovenské republiky se řídí platebními dohodami uzavřenými mezi Českou republikou a Slovenskou republikou nebo obecně platnými devizovými předpisy.
+
+> (11) Základ poplatku se zaokrouhluje na celé stokoruny nahoru a poplatek vypočtený ze základu na celé koruny dolů.
+
+> <sup>2a</sup>) § 502 obchodního zákoníku.“.
+
+9\. Za § 6 se vkládá nový § 6a, který včetně nadpisu zní:
+
+> **„§ 6a – Stanovení výše poplatku**
+
+> (1) Je-li jedním návrhem uplatněno více nároků, činí poplatek z tohoto návrhu součet procentních poplatků vypočtených podle § 6 odst. 8, jde-li o nároky peněžité, a poplatků stanovených pevnou sazbou, jde-li o nároky nepeněžité.
+
+> (2) Rozšíří-li se po podání návrhu předmět poplatného úkonu, poplatník je povinen doplatit poplatek. V řízení o opravném prostředku proti rozhodnutí soudu doplatí poplatek jen v případě, že se rozšíří předmět poplatného úkonu na návrh.
+
+> (3) Omezí-li se předmět poplatného úkonu dříve, než soud začal jednat ve věci samé, sníží soud zaplacený poplatek o odpovídající část. Přeplatek vrátí soud poplatníkovi podle § 10 zákona.“.
+
+10\. § 7 odst. 1 zní:
+
+> „(1) Poplatek za podání návrhu je splatný vznikem poplatkové povinnosti, jde-li o poplatky stanovené pevnou sazbou placené kolkovou známkou. V ostatních případech jsou poplatky splatné na základě výzvy soudu do tří dnů ode dne jejího doručení.“.
+
+11\. V § 7 odst. 2 se slova „,odvolání nebo dovolání“ nahrazují slovy „nebo odvolání“.
+
+12\. § 7 odst. 4 zní:
+
+> „(4) Rozšíří-li se po podání návrhu předmět poplatného úkonu, poplatek se doplatí ve lhůtě a za podmínek stanovených v odstavci 1.“.
+
+13\. § 8 včetně nadpisu zní:
+
+> **„§ 8 – Způsob placení poplatků**
+
+> (1) Poplatky vybírají, vyměřují, doměřují a vymáhají soudy. Poplatky se platí v české měně. Poplatky, které nejsou vyšší než 5000 Kč, lze platit kolkovými známkami vydanými Ministerstvem financí. Ostatní poplatky se platí na účet státního rozpočtu zřízený u České národní banky pro jednotlivé soudy (dále jen „účet soudu“).
+
+> (2) Poplatky se platí na účet soudu, který provádí řízení, s výjimkou uvedenou v odstavcích 3 a 4.
+
+> (3) Za řízení o opravných prostředcích proti rozhodnutí soudu se platí poplatky na účet soudu, proti jehož rozhodnutí je opravný prostředek podáván.
+
+> (4) Za řízení o povolení obnovy řízení se platí poplatek na účet soudu, který rozhoduje o povolení obnovy řízení.“.
+
+14\. § 10 odst. 1 a 2 znějí:
+
+> „(1) Soud vrátí poplatek z účtu soudu, jestliže jej zaplatil ten, kdo k tomu nebyl povinen. Bylo-li na poplatku zaplaceno více, než činila poplatková povinnost, vrátí soud přeplatek. Z účtu soudu vrátí soud obdobně i poplatek, popřípadě přeplatek na poplatku zaplaceném kolkovou známkou. Poplatek (přeplatek) a 50 % ze zaplaceného poplatku podle odstavců 2 a 3 soud nevrátí, nepřevyšují-li částku 50 Kč.
+
+> (2) Soud vrátí z účtu soudu, u kterého byl poplatek zaplacen, 50 % z poplatku, zastaví-li soud řízení dříve, než začal jednat ve věci samé. Soud však nevrátí poplatek ani jeho část, zastaví-li dovolací řízení z důvodu zpětvzetí dovolání. Soud vrátí 50 % z poplatku za návrh na vydání platebního rozkazu, byl-li vzat zpět nejpozději poslední den lhůty pro podání odporu, a za návrh na povolení obnovy řízení nebo za odvolání, zamítl-li je soud pro opožděnost, nepřípustnost nebo proto, že je podal ten, kdo k jejich podání není oprávněn.“.
+
+15\. V § 10 se vypouštějí odstavce 3 a 5.
+
+Dosavadní odstavce 4 a 6 se označují jako odstavce 3 a 4.
+
+16\. V § 10 novém odstavci 3 se na konci druhé věty slova „vrací se polovina poplatku“ nahrazují slovy „soud vrátí 50 % ze zaplaceného poplatku“ a na konci třetí věty se slova „vrátí se polovina poplatků zaplacených v obou stupních řízení“ nahrazují slovy „soud vrátí 50 % ze zaplaceného poplatku za odvolání“.
+
+17\. § 11 odst. 1, 2 a 3 včetně poznámek č. 3), 4) a 4a) znějí:
+
+> „(1) Od poplatku se osvobozují poplatné úkony ve věcech
+
+> a) opatrovnických, péče o nezletilé děti, osvojení a povolení uzavřít manželství,
+
+> b) sociálního zabezpečení, nemocenského pojištění, pojistného na všeobecné zdravotní pojištění, pojistného na sociální zabezpečení, příspěvku na státní politiku zaměstnanosti, státních dávek a sociální péče,
+
+> c) vzájemné vyživovací povinnosti rodičů a dětí,
+
+> d) sporů o plnění závazků z kolektivních smluv, ze kterých nevznikají nároky jednotlivým zaměstnancům,
+
+> e) souvisejících s uplatňováním volebního práva,
+
+> f) dědických v prvním stupni řízení,
+
+> g) náhrady škody způsobené nezákonným rozhodnutím nebo nesprávným úředním postupem,
+
+> h) způsobilosti k právním úkonům,
+
+> ch) výkonu rozhodnutí k vymožení pohledávek ze soudních poplatků, z peněžitých trestů, pokut a nákladů řízení vymáhaných státem.
+
+> (2) Od poplatku se osvobozují
+
+> a) Česká republika a státní fondy,
+
+> b) obce v případech, kdy se spor týká výkonu státní správy, který je na ně přenesen,
+
+> c) navrhovatel v řízení o určení výživného, nejde-li o vzájemnou vyživovací povinnost rodičů a dětí,
+
+> d) navrhovatel v řízení o náhradu škody na zdraví včetně náhrady škody na věcech vzniklé v souvislosti s ublížením na zdraví,
+
+> e) navrhovatel v řízení o náhradu škody z pracovního úrazu a nemoci z povolání,
+
+> f) neprovdaná matka v řízení o příspěvek na výživu a úhradu nákladů spojených s těhotenstvím a slehnutím,
+
+> g) navrhovatel v řízení o určení otcovství, s výjimkou navrhovatele v řízení o popření otcovství,
+
+> h) diplomatická zastupitelství cizích států a delegovaní diplomatičtí zástupci, konzulové z povolání a další osoby, jsou-li státními příslušníky cizích států, požívající podle mezinárodního práva<sup>3</sup>) výsady a imunity, je-li zaručena vzájemnost a nejde-li o poplatné úkony prováděné v osobním zájmu nebo k osobnímu prospěchu těchto osob,
+
+> ch) cizinec v řízení o přiznání statutu uprchlíka,
+
+> i) navrhovatel v řízení o vydání věci nebo uplatnění nároku podle zvláštních předpisů,<sup>4</sup>) je-li v těchto předpisech zakotven nárok na osvobození,
+
+> j) navrhovatel, který uplatňuje nároky podle zákona o mimosoudních rehabilitacích.<sup>4a</sup>)
+
+> (3) Osvobození podle odstavců 1 a 2 se vztahuje i na řízení o opravných prostředcích a na řízení o výkonu rozhodnutí.
+
+> <sup>3</sup>) Vyhláška ministra zahraničních věcí č. 157/1964 Sb., o Vídeňské úmluvě o diplomatických stycích. 
+>  Vyhláška ministra zahraničních věcí č. 32/1969 Sb., o Vídeňské úmluvě o konsulárních stycích.
+
+> <sup>4</sup>) Např. zákon č. 403/1990 Sb., o zmírnění následků některých majetkových křivd, ve znění pozdějších předpisů, a zákon č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů.
+
+> <sup>4a</sup>) Zákon č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění pozdějších předpisů.“.
+
+18\. V § 12 se na konci druhé věty tečka nahrazuje čárkou a připojují se tato slova: "popřípadě se poplatek doměří.". V poslední větě se za slova „O vrácení poplatku“ vkládají tato slova: „,popřípadě doměření poplatku,“.
+
+19\. V § 13 odst. 2 se slova „sjednal dohodu o splácení dlužné částky“ nahrazují slovy „předseda soudu povolil<sup>4b</sup>) posečkání poplatku nebo jeho zaplacení ve splátkách,“.
+
+Poznámka č. 4b) zní:
+
+> <sup>„</sup><sup>4b</sup>) § 60 zákona ČNR č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.“.
+
+20\. Za § 13 se vkládá nový § 13a, který včetně nadpisu a poznámek č. 4c) a 4d) zní:
+
+> **„§ 13a – Evidence a řízení**
+
+> Soudy vedou evidenci poplatkových povinností, jejich úhrad nebo zániků a z toho vyplývajících přeplatků či nedoplatků. Při evidenci o soudních poplatcích soudy postupují podle zvláštního předpisu.<sup>4c</sup>) V řízení ve věcech poplatků rozhoduje a postupuje soud podle občanského soudního řádu, jestliže tento zákon, popřípadě zvláštní předpis<sup>4d</sup>) nestanoví jinak.
+
+> <sup>4c</sup>) § 62 zákona ČNR č. 337/1992 Sb.
+
+> <sup>4d</sup>) Zákon ČNR č. 337/1992 Sb.“.
+
+21\. V § 16 odst. 1 se vypouštějí slova „obecně závazným“.
+
+22\. V § 16 odst. 2 se vypouští slovo „krajského“.
+
+Poznámka č. 5) zní:
+
+> <sup>„</sup><sup>5</sup>) § 65 zákona ČNR č. 337/1992 Sb.“.
+
+23\. V § 17 se slova „vybírané za úkony prokuratury“ nahrazují slovy „vrácené z účtu soudu“.
+
+24\. Příloha k zákonu ČNR č. 549/1991 Sb., ve znění pozdějších předpisů, zní:
+
+> **„Příloha k zákonu ČNR č. 549/1991 Sb.**
+
+> **SAZEBNÍK SOUDNÍCH POPLATKŮ**
+
+> Poznámky k sazebníku:
+
+> 1\. Poplatky za řízení podle příslušných položek sazebníku se vybírají za řízení v prvním stupni, ale i za odvolání a za dovolání.
+
+> 2\. Došlo-li ke zrušení rozsudku v důsledku odvolání, dovolání, nebo povolení obnovy řízení, neplatí poplatek z odvolání nebo dovolání proti novému rozhodnutí soudu prvního stupně poplatník, který již jednou poplatek z odvolání nebo dovolání zaplatil; jde o položky 1, 6, 8, 9 a 18 sazebníku.
+
+> Položka 1
+
+> <table><tbody><tr><td>Návrh na zahájení občanského soudního řízení</td><td></td></tr><tr><td>a) z ceny předmětu řízení</td><td>4 % <br> nejméně Kč 500,-<br> nejvýše Kč 500 000,-</td></tr><tr><td>b) nelze-li předmět řízení ocenit</td><td>Kč 1000,-</td></tr><tr><td colspan="2">Poznámky:</td></tr><tr><td colspan="2">1. Za návrh na předběžné opatření se vybere poplatek podle písmene b) této položky ve výši 50 %.</td></tr><tr><td colspan="2">2. Podle této položky se postupuje jen v případech, není-li v dalších položkách sazebníku stanoveno jinak.</td></tr><tr><td colspan="2">3. Poplatek za odvolání nebo dovolání do rozhodnutí soudu, kterým bylo rozhodováno jen o předmětu řízení, se neplatí.</td></tr><tr><td colspan="2">4. Podle této položky vybere soud poplatek i za návrh na vydání platebního rozkazu; odpor proti platebnímu rozkazu poplatku nepodléhá. To platí obdobně pro řízení směnečné a šekové a pro námitky v těchto řízeních.</td></tr><tr><td colspan="2">5. Ze vzájemného návrhu odpůrce se platí poplatek tak, jako by byl tento návrh podáván samostatně.</td></tr></tbody></table>
+
+> Položka 2
+
+> <table><tbody><tr><td colspan="3">Návrh na přikázání věci jinému soudu z důvodu vhodnosti</td><td>Kč 300,-</td></tr></tbody></table>
+
+> Položka 3
+
+> <table><tbody><tr><td colspan="4">Návrh na uznání cizích rozhodnutí v manželských věcech a ve věcech zjištění nebo popření otcovství</td><td> Kč 500,-</td></tr></tbody></table>
+
+> Položka 4
+
+> | Návrh na zahájení řízení | |
+> |---|---|
+> | a) na ochranu osobnosti | |
+> | - bez návrhu na náhradu nemajetkové újmy | Kč 1000,- |
+> | - s návrhem na náhradu nemajetkové újmy | Kč 4000,- |
+> | b) ve věcech podle zákona o periodickém tisku a ostatních informačních prostředcích | Kč 2000,- |
+
+> Položka 5
+
+> <table><tbody><tr><td>a) Za schválený smír uzavřený ve smírčím řízení</td><td></td></tr><tr><td>- z ceny předmětu smíru</td><td>2 % <br> nejméně Kč 300,-<br> nejvýše Kč 20 000,-</td></tr><tr><td>- nelze-li předmět smíru ocenit</td><td>Kč 500,-</td></tr><tr><td>b) Návrh na zrušení usnesení o schválení smíru</td><td>Kč 500,-</td></tr><tr><td colspan="2">Poznámky:</td></tr><tr><td colspan="2">1. Návrh na smírčí řízení poplatku nepodléhá.</td></tr><tr><td colspan="2">2. Za řízení ve věci samé se poplatek znovu neplatí, bylo-li na návrh zrušeno usnesení o schválení smíru.</td></tr></tbody></table>
+
+> Položka 6
+
+> <table><tbody><tr><td>Návrh na povolení obnovy řízení </td><td>Kč 500,-</td></tr><tr><td colspan="2">Poznámka:</td></tr><tr><td colspan="2">Jestliže se v původním řízení nekonalo řízení odvolací nebo dovolací a v obnoveném řízení je podáváno odvolání či dovolání, platí se za odvolání nebo dovolání poplatek podle příslušné položky sazebníku. Za řízení ve věci samé se poplatek neplatí.</td></tr></tbody></table>
+
+> Položka 7
+
+> <table><tbody><tr><td colspan="2">Návrh na zrušení bezpodílového spoluvlastnictví manželů</td><td>Kč 500,-</td></tr></tbody></table>
+
+> Položka 8
+
+> | a) Za vypořádání bezpodílového spoluvlastnictví manželů,z ceny předmětu řízení | 3 % <br> nejméně Kč 1000,-<br> nejvýše Kč 200 000,- |
+> |---|---|
+> | b) Za odvolání proti rozhodnutí o vypořádání bezpodílového spoluvlastnictví manželů | Kč 1000,- |
+> | c) Za dovolání proti rozhodnutí o vypořádání bezpodílového spoluvlastnictví manželů | Kč 500,- |
+
+> Položka 9
+
+> <table><tbody><tr><td>a) Návrh na rozvod manželství</td><td>Kč 600,-</td></tr><tr><td>b) Návrh na řízení o neplatnost manželství, návrh na určení, zda tu manželství je či není</td><td>Kč 500,-</td></tr><tr><td>c) Návrh na určení nebo popření otcovství</td><td>Kč 1000,-</td></tr><tr><td colspan="2">Poznámka:</td></tr><tr><td colspan="2">Za odvolání nebo dovolání jen proti výroku o úpravě poměrů manželů k nezletilým dětem z jejich manželství pro dobu po rozvodu, popřípadě proti výroku o výchově a výživě nezletilého dítěte (§ 113 o. s. ř.) se poplatek nevybere.</td></tr></tbody></table>
+
+> Položka 10
+
+> | Návrh na určení výživného | 1 % z navrhované částky<br> nejméně Kč 300,- <br> nejvíce Kč 10 000,- |
+> |---|---|
+
+> Položka 11
+
+> <table><tbody><tr><td>Za pomoc soudu před nařízením výkonu rozhodnutí</td><td>Kč 200,-</td></tr><tr><td colspan="2">Poznámka:</td></tr><tr><td colspan="2">Poplatek podle této položky se nevybere, poskytuje-li soud pomoc před vymáháním výživného pro nezletilé děti.</td></tr></tbody></table>
+
+> Položka 12
+
+> <table><tbody><tr><td colspan="2">Návrh na zahájení řízení ve věcech obchodních</td></tr><tr><td>a) z ceny předmětu řízení</td><td>4 %<br> nejméně Kč 500,-<br> nejvýše Kč 1 mil.</td></tr><tr><td>b) nelze-li předmět řízení ocenit</td><td>Kč 5000,-</td></tr><tr><td colspan="2">Poznámky:</td></tr><tr><td colspan="2">1. Za návrh na předběžné opatření se vybere poplatek podle písmene b) této položky ve výši 50 %.</td></tr><tr><td colspan="2">2. Podle této položky vybere soud poplatek i za návrh na vydání platebního rozkazu; odpor proti platebnímu rozkazu poplatku nepodléhá. To platí obdobně pro řízení směnečné a šekové a pro námitky v těchto řízeních.</td></tr><tr><td colspan="2">3. Poplatek za odvolání nebo za dovolání do rozhodnutí soudu, kterým bylo rozhodováno jen o základu předmětu řízení, se neplatí.</td></tr><tr><td colspan="2">4. Podle této položky se postupuje jen v případech, není-li předmět řízení ve věcech obchodních stanoven dále.</td></tr><tr><td colspan="2">5. Ze vzájemného návrhu odpůrce se platí poplatek tak, jako by byl tento návrh podáván samostatně.</td></tr></tbody></table>
+
+> Položka 13
+
+> <table><tbody><tr><td colspan="2">a) Návrh na zápis do obchodního rejstříku</td></tr><tr><td>- zapisuje-li se vklad společníka nebo jmění</td><td>0,5 %<br> nejméně Kč 3000,-<br> nejvýše Kč 20 000,-</td></tr><tr><td>- nezapisuje-li se vklad nebo jmění</td><td>Kč 3000,-</td></tr><tr><td>b) Návrh na výmaz z obchodního rejstříku</td><td>Kč 1000,-</td></tr><tr><td>c) Návrh na změnu zápisu v obchodním rejstříku</td><td>Kč 500,-</td></tr><tr><td>d) Návrh na doplnění zápisu v obchodním rejstříku</td><td>Kč 500,-</td></tr><tr><td colspan="2">Poznámky:</td></tr><tr><td colspan="2">1. Základem procentního poplatku podle písmene a) této položky je</td></tr><tr><td colspan="2">- součet zapisovaných vkladů jednotlivých společníků pro komanditní společnosti,</td></tr><tr><td colspan="2">- zapisovaná částka základního jmění pro společnosti s ručením omezeným, akciové společnosti a pro družstva,</td></tr><tr><td colspan="2">- zapisovaná částka kmenového jmění pro státní podnik.</td></tr><tr><td colspan="2">2. Poplatek podle písmene c) této položky se vybere za každou skutečnost, která se mění v zápise v obchodním rejstříku, s výjimkou uvedenou v poznámce 3.</td></tr><tr><td colspan="2">3. Za změnu zápisu výše jmění nebo vkladů se vybere poplatek podle písmene a) této položky.</td></tr><tr><td colspan="2">4. Poplatek podle písmene d) této položky se vybere za doplnění každé skutečnosti do zápisu v obchodním rejstříku.</td></tr></tbody></table>
+
+> Položka 14
+
+> <table><tbody><tr><td colspan="2">Návrh na zahájení řízení ve věcech</td></tr><tr><td>a) ochrany hospodářské soutěže nebo nekalé soutěže</td><td>Kč 5000,-</td></tr><tr><td>b) práv k obchodnímu jménu, práv k ochranné známce nebo práv k označení původu</td><td>Kč 5000,-</td></tr><tr><td>c) neplatnosti rozhodčích smluv nebo zrušení nálezů vydaných rozhodci na základě rozhodčí smlouvy</td><td>Kč 5000,-</td></tr></tbody></table>
+
+> Položka 15
+
+> <table><tbody><tr><td>a) Za konkurzní řízení</td><td>1 % zpeněžené částky z podstaty<br> nejméně Kč 1000,-<br> nejvýše Kč 500 000,-</td></tr><tr><td>b) Za konkurzní řízení ukončené nuceným vyrovnáním</td><td>0,5 % z částky použité k uspokojení věřitelů<br> nejméně Kč 1000,-<br> nejvýše Kč 200 000,-</td></tr><tr><td>c) Za vyrovnací řízení</td><td>0,25 % z částky použité k uspokojení věřitelů<br> nejméně Kč 500,-<br> nejvýše Kč 100 000,-</td></tr><tr><td colspan="2">Poznámka:</td></tr><tr><td colspan="2">Návrhy na zahájení řízení, která s konkurzním řízením souvisejí a nejsou uvedena v této položce, se zpoplatňují podle položky 12 sazebníku. Jde např. o řízení podle § 15 odst. 1, § 19 odst. 2, § 23 odst. 2 zákona č. 328/1991 Sb., ve znění pozdějších předpisů.</td></tr></tbody></table>
+
+> Položka 16
+
+> <table><tbody><tr><td colspan="2">Za dožádání rozhodců v rozhodčím řízení v obchodním styku o provedení úkonu soudem nebo za návrh na předběžné opatření v tomto řízení</td></tr><tr><td>a) z ceny předmětu řízení</td><td>2 %<br> nejméně Kč 500,-<br> nejvýše Kč 20 000,-</td></tr><tr><td>b) nelze-li předmět řízení ocenit</td><td>Kč 2000,-</td></tr><tr><td colspan="2">Poznámka:</td></tr><tr><td colspan="2">Za návrh na předběžné opatření v tomto řízení se vybere poplatek podle písmene b) této položky ve výši 50 %.</td></tr></tbody></table>
+
+> Položka 17
+
+> <table><tbody><tr><td colspan="2">Za žalobu nebo opravný prostředek proti rozhodnutí orgánu veřejné správy</td><td> Kč 1000,-</td></tr></tbody></table>
+
+> Položka 18
+
+> <table><tbody><tr><td colspan="2">1. Návrh na nařízení výkonu rozhodnutí</td></tr><tr><td>a) z ceny vymáhaného nároku</td><td>2 %<br> nejméně Kč 300,-<br> nejvýše Kč 50 000,-</td></tr><tr><td>b) nelze-li vymáhaný nárok ocenit</td><td>Kč 500,-</td></tr><tr><td colspan="2">Poznámky:</td></tr><tr><td colspan="2">1. Z návrhu na druhé a další nařízení výkonu rozhodnutí na základě téhož vykonatelného rozhodnutí proti témuž účastníku se zaplatí tři čtvrtiny příslušných poplatků.</td></tr><tr><td colspan="2">2. Za návrhy na zastavení výkonu rozhodnutí nebo za jeho odklad a za odvolání nebo dovolání ve věci výkonu rozhodnutí se poplatek nevybere.</td></tr></tbody></table>
+
+> Položka 19
+
+> <table><tbody><tr><td colspan="2">Za sepsání návrhu na zahájení řízení do protokolu nebo za sepsání odvolání (protestu) proti rozhodnutí do protokolu</td></tr><tr><td>a) z ceny předmětu řízení</td><td>1 %<br> nejméně Kč 500,-<br> nejvýše Kč 5000,-</td></tr><tr><td>b) nelze-li předmět řízení ocenit</td><td>Kč 500,-</td></tr></tbody></table>
+
+> Položka 20
+
+> <table><tbody><tr><td>Za vystavení úředního vysvědčení o skutečnostech známých ze soudních spisů</td><td>Kč 100,-</td></tr><tr><td colspan="2">Poznámka:</td></tr><tr><td colspan="2">Spisy vedenými soudem se rozumí i spisy bývalých státních notářství, státních arbitráží, vojenských soudů, Nejvyššího soudu ČSFR, bývalého Nejvyššího soudu, popřípadě dalších orgánů, jejichž spisy jsou uloženy u soudů České republiky.</td></tr></tbody></table>
+
+> Položka 21
+
+> <table><tbody><tr><td colspan="2">Za vyhotovení stejnopisu, opisu, kopie listin, protokolů, příloh, záznamu, rejstříku, evidencí, knih a jiných částí spisů vedených soudem včetně pořízených výpisů z nich</td></tr><tr><td>a) v jazyce českém nebo slovenském</td><td></td></tr><tr><td>- bez ověření za každou i započatou stránku</td><td>Kč 50,-</td></tr><tr><td>- s ověřením za každou i započatou stránku</td><td>Kč 70,-</td></tr><tr><td>b) v cizím jazyce</td><td></td></tr><tr><td>- bez ověření za každou i započatou stránku</td><td>Kč 60,-</td></tr><tr><td>- s ověřením za každou i započatou stránku</td><td>Kč 100,-</td></tr><tr><td colspan="2">Poznámky:</td></tr><tr><td colspan="2">1. Poplatku nepodléhá opis protokolu o jednání soudu vyhotovený průklepem bez záhlaví a bez ověření.</td></tr><tr><td colspan="2">2. Za kopie pořízené na kopírovacích strojích se sníží poplatek o 50 %.</td></tr><tr><td colspan="2">3. Poplatek podle této položky se vybere i za vyhotovení stejnopisů podání a jeho příloh soudem, byl-li k jejich předložení poplatník marně soudem vyzýván.</td></tr><tr><td colspan="2">4. Spisy vedenými soudem se rozumí i spisy bývalých státních notářství, státních arbitráží, vojenských soudů, Nejvyššího soudu ČSFR, bývalého Nejvyššího soudu, popřípadě dalších orgánů, jejichž spisy jsou uloženy u soudů České republiky.</td></tr><tr><td colspan="2">5. Na vyhotoveních podle této položky se vyznačí účel, k němuž budou použita, je-li uplatněno osvobození od poplatku podle § 11 zákona.</td></tr></tbody></table>
+
+> Položka 22
+
+> <table><tbody><tr><td colspan="2">Za ověření listiny</td></tr><tr><td>- v českém nebo slovenském jazyce</td><td>Kč 20,-</td></tr><tr><td>- v cizím jazyce</td><td>Kč 50,-</td></tr><tr><td colspan="2">Poznámky:</td></tr><tr><td colspan="2">1. Poplatek se vybere za každou i započatou stránku, kterou soud ověřuje.</td></tr><tr><td colspan="2">2. Listina v cizím jazyce je listina, na níž je alespoň část textu v cizím jazyce.</td></tr><tr><td colspan="2">3. Za ověření listiny v cizím jazyce, který je pro osoby s povoleným trvalým pobytem na území České republiky mateřským jazykem, se vybere poplatek ve výši stanovené pro český nebo slovenský jazyk.</td></tr></tbody></table>
+
+> Položka 23
+
+> <table><tbody><tr><td colspan="3">Za ověření podpisu na listině nebo jejím stejnopisu za každý podpis</td><td> Kč 30,-</td></tr></tbody></table>
+
+> Položka 24
+
+> <table><tbody><tr><td>Za zaslání soudních spisů k jinému soudu, aby do nich žadatel nahlédl</td><td>Kč 100,-</td></tr><tr><td colspan="2">Poznámka:</td></tr><tr><td colspan="2">Poplatek podle této položky se vybere, i když je žadatel poplatníkem za zahájené řízení.</td></tr></tbody></table>
+
+> Položka 25
+
+> | Návrh na přijetí movitých věcí do úschovy za účelem splnění závazku, z ceny věcí | 1 %<br> nejméně Kč 200,-<br> nejvýše Kč 3000,- |
+> |---|---|
+
+> Položka 26
+
+> Návrh na umoření listiny Kč 350,-
+
+> Položka 27
+
+> | a) Za jmenování soudním znalcem nebo tlumočníkem včetně zapsání do seznamu soudních znalců a tlumočníků | Kč 300,- |
+> |---|---|
+> | b) Za rozšíření jmenování o každý další obor nebo jazyk | Kč 100,- |
+> | c) Za oznámení údajů ze seznamu soudních znalců a tlumočníků | Kč 50,- |
+
+> Položka 28
+
+> | Za sepsání věcí soudním vykonavatelem | Kč 500,-“. |
+> |---|---|
+
+## Čl. II
+
+Zákon České národní rady č. 368/1992 Sb., o správních poplatcích, ve znění zákona č. 85/1994 Sb. a zákona č. 273/1994 Sb., se doplňuje takto:
+
+Příloha k zákonu České národní rady č. 368/1992 Sb., ve znění zákona č. 85/1994 Sb. a zákona č. 273/1994 Sb., „Sazebník správních poplatků“ se doplňuje takto:
+
+1\. V položce 2 se za písmeno b) připojuje nové písmeno c), které zní:
+
+> „c) Za nahlédnutí do opisu z evidence Rejstříků trestů Kč 50,-“.
+
+2\. V položce 65 písmeno a) se za slova „nejméně Kč 10 000,-“ připojují tato slova: „nejvýše Kč 1 mil.“.
+
+3\. V položce 66 se doplňuje osvobození, které zní:
+
+> „Osvobození:
+
+> Od poplatku podle písmene j) této položky se osvobozuje Česká exportní banka, a. s.“.
+
+**PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ**
+
+## Čl. III
+
+Podle tohoto zákona se vybírají poplatky z poplatných úkonů navržených nebo zahájených za jeho účinnosti, a to včetně podaných odvolání nebo dovolání. Za poplatné úkony navržené nebo za řízení zahájená před účinností tohoto zákona se vybírají poplatky podle dosavadních předpisů, i když se stanou splatnými za účinnosti tohoto zákona.
+
+## Čl. IV
+
+Předseda Poslanecké sněmovny Parlamentu se zmocňuje, aby ve Sbírce zákonů vyhlásil úplné znění zákona České národní rady č. 549/1991 Sb., o soudních poplatcích, jak vyplývá z pozdějších předpisů.
+
+## Čl. V – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. dubna 1995.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.

@@ -1,0 +1,61 @@
+---
+title: "Zákon č. 159/2000 Sb., kterým se mění zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění zákona č. 15/1998 Sb., a některé další zákony"
+identifier: "159/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/159/2016-10-18"
+type: act
+jurisdiction: cz
+language: cs
+date: 2000-05-18
+effective: 2000-08-01
+last_amended: 2016-10-18
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/159"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 159/2000 Sb., kterým se mění zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění zákona č. 15/1998 Sb., a některé další zákony ve znění zákona č. 254/2008 Sb., zákona č. 278/2009 Sb., zákona č. 281/2009 Sb. a zákona č. 323/2016 Sb."
+---
+
+# Zákon č. 159/2000 Sb., kterým se mění zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění zákona č. 15/1998 Sb., a některé další zákony
+
+159
+
+ZÁKON
+
+ze dne 18. května 2000,
+
+kterým se mění zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění zákona č. 15/1998 Sb., a některé další zákony
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST TŘETÍ – Změna zákona o organizaci a provádění sociálního zabezpečení
+
+### Čl. III
+
+Zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění zákona č. 590/1992 Sb., zákona č. 37/1993 Sb., zákona č. 160/1993 Sb., zákona č. 307/1993 Sb., zákona č. 241/1994 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 134/1997 Sb., zákona č. 306/1997 Sb., zákona č. 93/1998 Sb., zákona č. 225/1999 Sb., zákona č. 356/1999 Sb., zákona č. 360/1999 Sb., zákona č. 18/2000 Sb., zákona č. 29/2000 Sb., zákona č. 132/2000 Sb., zákona č. 133/2000 Sb. a zákona č. 155/2000 Sb., se mění takto:
+
+V § 14 odst. 3 se na konci písmene g) tečka nahrazuje čárkou a doplňuje se písmeno h), které včetně poznámky pod čarou č. 50a) zní:
+
+> „h) příslušné organizační složce Ministerstva financí<sup>50a</sup>) na její žádost seznam plátců pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti a údaje o výši příjmů a výdajů jednotlivých osob samostatně výdělečně činných, které osoba samostatně výdělečně činná uvedla v přehledu podle zvláštního zákona;<sup>48</sup>) u malých organizací též počet jejich zaměstnanců.
+
+> <sup>50a</sup>) § 4 odst. 1 zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění pozdějších předpisů.“.
+
+## ČÁST PÁTÁ – Změna zákona o svobodném přístupu k informacím
+
+### Čl. V
+
+V § 11 odst. 4 zákona č. 106/1999 Sb., o svobodném přístupu k informacím, se na konci písmene d) tečka nahrazuje čárkou a doplňuje se písmeno e), které včetně poznámky pod čarou č. 12a) zní:
+
+> „e) činnosti příslušné organizační složky Ministerstva financí podle zvláštního právního předpisu.<sup>12a</sup>)
+
+> <sup>12a</sup>) Zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění pozdějších předpisů.“.
+
+## ČÁST SEDMÁ – ÚČINNOST
+
+### Čl. VII
+
+Tento zákon nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po jeho vyhlášení.
+
+Klaus v. r.
+
+Havel v. r.
+
+v z. Špidla v. r.

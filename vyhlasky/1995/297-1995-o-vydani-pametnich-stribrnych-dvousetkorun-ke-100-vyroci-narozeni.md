@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 297/1995 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Karla Svolinského"
+identifier: "297/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/297/1996-01-10"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1995-11-22
+effective: 1996-01-10
+last_amended: 1996-01-10
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/297"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 297/1995 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Karla Svolinského
+
+297
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 22. listopadu 1995
+
+o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Karla Svolinského
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Ke 100. výročí narození malíře a grafika Karla Svolinského se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,4 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka nahoru i dolů v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je velký státní znak České republiky umístěný k hornímu okraji mince. Název státu „ČESKÁ REPUBLIKA“ je v neuzavřeném opisu nad spodním okrajem mince. Název státu je shora i zdola lemován drobnými kvítky, uspořádanými do tvaru náhrdelníku, který se v horní části z obou stran dotýká státního znaku. Pod státním znakem uprostřed je ve dvou řádcích označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“. Značka mincovny, která dvousetkorunu razila, je umístěna při horním okraji mince uprostřed nad státním znakem.
+
+(2) Na rubu dvousetkoruny je hlavním motivem vyobrazení kytice polních a lučních květů ve váze s lidovým dekorem, ztvárněné podle Svolinského kresby na dvacetikorunové bankovce z roku 1949. Při spodním a pravém okraji mince je neuzavřený opis „KAREL SVOLINSKÝ 1896•1996“, dole uprostřed přerušený vyobrazením vázy. Autorem návrhu dvousetkoruny je akademický sochař Vladimír Oppl. Iniciály jeho jména „VO“ jsou umístěny vpravo od hrdla vázy.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 10. ledna 1996.
+
+Guvernér:
+
+Ing. Tošovský v. r.
+
+### ![sbcr1995c079z0297o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792291/NAHLED/ZOBRAZ/sbcr1995c079z0297o001)
+
+### ![sbcr1995c079z0297o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792293/NAHLED/ZOBRAZ/sbcr1995c079z0297o002)

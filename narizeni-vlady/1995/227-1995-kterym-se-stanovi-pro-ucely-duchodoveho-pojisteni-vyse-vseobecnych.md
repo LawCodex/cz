@@ -1,0 +1,98 @@
+---
+title: "Nařízení vlády č. 227/1995 Sb., kterým se stanoví pro účely důchodového pojištění výše všeobecných vyměřovacích základů za období před rokem 1995 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 1994"
+identifier: "227/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/227/1996-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1995-09-13
+effective: 1996-01-01
+last_amended: 1996-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/227"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 227/1995 Sb., kterým se stanoví pro účely důchodového pojištění výše všeobecných vyměřovacích základů za období před rokem 1995 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 1994
+
+227
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 13. září 1995,
+
+kterým se stanoví pro účely důchodového pojištění výše všeobecných vyměřovacích základů za období před rokem 1995 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 1994
+
+Vláda nařizuje podle § 107 odst. 1 písm. a) zákona č. 155/1995 Sb., o důchodovém pojištění (dále jen „zákon“):
+
+## § 1
+
+(1) Výše všeobecného vyměřovacího základu podle § 17 odst. 1 a 2 zákona činí za rok 1947 a za kalendářní roky předcházející tomuto roku 780 Kč.
+
+(2) Výše všeobecného vyměřovacího základu podle § 17 odst. 1 a 2 zákona činí
+
+| za rok | Kč |
+|---|---|
+| 1948 | 834 |
+| 1949 | 888 |
+| 1950 | 968 |
+| 1951 | 1027 |
+| 1952 | 1068 |
+| 1953 | 1097 |
+| 1954 | 1162 |
+| 1955 | 1192 |
+| 1956 | 1222 |
+| 1957 | 1237 |
+| 1958 | 1255 |
+| 1959 | 1276 |
+| 1960 | 1303 |
+| 1961 | 1344 |
+| 1962 | 1356 |
+| 1963 | 1360 |
+| 1964 | 1411 |
+| 1965 | 1453 |
+| 1966 | 1494 |
+| 1967 | 1582 |
+| 1968 | 1717 |
+| 1969 | 1852 |
+| 1970 | 1915 |
+| 1971 | 1997 |
+| 1972 | 2090 |
+| 1973 | 2164 |
+| 1974 | 2237 |
+| 1975 | 2313 |
+| 1976 | 2382 |
+| 1977 | 2462 |
+| 1978 | 2537 |
+| 1979 | 2597 |
+| 1980 | 2656 |
+| 1981 | 2699 |
+| 1982 | 2765 |
+| 1983 | 2822 |
+| 1984 | 2875 |
+| 1985 | 2920 |
+| 1986 | 2964 |
+| 1987 | 3026 |
+| 1988 | 3095 |
+| 1989 | 3170 |
+| 1990 | 3286 |
+| 1991 | 3792 |
+| 1992 | 4644 |
+| 1993 | 5817 |
+| 1994 | 6896. |
+
+## § 2
+
+Výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu podle § 17 odst. 1 a 4 zákona činí za rok 1994 1,1914.
+
+## § 3
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1996.
+
+Předseda vlády:
+
+Doc. Ing. Klaus CSc. v. r.
+
+Ministr práce a sociálních věcí:
+
+Ing. Vodička v. r.

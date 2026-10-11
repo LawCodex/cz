@@ -1,0 +1,2279 @@
+---
+title: "Vyhláška Ministerstva spravedlnosti č. 418/2001 Sb., o postupech při výkonu exekuční a další činnosti"
+identifier: "418/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/418/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2001-11-19
+effective: 2001-11-28
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/418"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva spravedlnosti č. 418/2001 Sb., o postupech při výkonu exekuční a další činnosti ve znění vyhlášky č. 463/2009 Sb., vyhlášky č. 491/2012 Sb., vyhlášky č. 149/2013 Sb., vyhlášky č. 365/2014 Sb., vyhlášky č. 461/2017 Sb., vyhlášky č. 264/2021 Sb., vyhlášky č. 517/2021 Sb., vyhlášky č. 394/2023 Sb., vyhlášky č. 311/2024 Sb. a vyhlášky č. 241/2025 Sb."
+---
+
+# Vyhláška Ministerstva spravedlnosti č. 418/2001 Sb., o postupech při výkonu exekuční a další činnosti
+
+418
+
+VYHLÁŠKA
+
+Ministerstva spravedlnosti
+
+ze dne 19. listopadu 2001
+
+o postupech při výkonu exekuční a další činnosti
+
+Ministerstvo spravedlnosti stanoví podle § 131 písm. e) zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, (dále jen „zákon“):
+
+## ČÁST PRVNÍ – OBECNÁ USTANOVENÍ
+
+### HLAVA I – ÚVODNÍ USTANOVENÍ
+
+#### § 1 – Provádění úkonů
+
+(1) Úkony, které jsou předmětem exekuční a další činnosti, provádí soudní exekutor (dále jen „exekutor“). Za podmínek stanovených zákonem může tyto úkony provádět též exekutorský kandidát (dále jen „kandidát“) a exekutorský koncipient. Úkony, které ve výkonu rozhodnutí podle občanského soudního řádu provádí vykonavatel, může za podmínek stanovených zákonem provádět též vykonavatel exekutora. Další zaměstnance může exekutor pověřit prováděním jednoduchých úkonů, které jsou předmětem exekuční nebo další činnosti.
+
+(2) Úkony se provádějí podle okolností případu v takové době, kdy se dá nejspíše předpokládat dosažení výsledku. Tyto úkony lze provádět i mimo obvyklou pracovní dobu a ve dnech pracovního klidu.
+
+(3) Má-li být úkon proveden ve vojenském objektu nebo v objektu ozbrojeného sboru nebo zpravodajské služby, musí si k tomu exekutor předem vyžádat svolení příslušného velitele nebo ředitele.
+
+(4) Úkon, který má být proveden v budovách a místnostech osob, které požívají diplomatické výsady a imunity, může být proveden jen tehdy, pokud to připouští mezinárodní právo. O provedení úkonu musí exekutor včas vyrozumět Ministerstvo spravedlnosti a Ministerstvo zahraničních věcí a požádat je o vyslání zástupce k takovému úkonu.
+
+(5) Exekutor je oprávněn učinit opatření, jichž je třeba k zachování pořádku a k nerušenému výkonu exekuce. Dojde-li při provádění exekuce k napadení exekutora, případně k jiné situaci, která znemožňuje provedení úkonu, upustí se od dalšího provádění úkonu a učiní se o tom záznam ve spise; exekutor určí nový termín a místo provedení úkonu. Jsou-li splněny podmínky stanovené zvláštním právním předpisem,<sup>1</sup>) může exekutor požádat příslušný policejní orgán o poskytnutí ochrany.
+
+#### § 2 – Protokol
+
+(1) O každém úkonu provedeném v rámci exekuční činnosti sepíše exekutor protokol. Byl-li úkon učiněn v písemné formě a listina, v níž je úkon zachycen, je založena do spisu, protokol se nevyhotovuje.
+
+(2) V protokolu se uvede
+
+a) označení exekutorského úřadu a spisová značka,
+
+b) označení oprávněného a povinného,
+
+c) místo, čas a předmět úkonu,
+
+d) jména a příjmení zaměstnanců exekutora, kteří se zúčastnili úkonu, jména a příjmení přítomných účastníků a jejich zástupců a jména a příjmení dalších osob, které byly při úkonu přítomny, pokud bylo možno zjistit jejich totožnost,
+
+e) stručné vylíčení průběhu úkonu, zejména obsah návrhů, které byly při něm podány.
+
+(3) Protokol musí být sepsán bezprostředně po skončení úkonu, pokud možno ještě na místě úkonu. Protokol podepíše exekutor, dále přítomní účastníci, jejich přítomní zástupci a ti, kteří potvrzují příjem peněz nebo jiných věcí, a osoby přibrané k úkonu. Protokol podepíší i ti, jejichž prohlášení je nutno v protokolu uvést.
+
+(4) Jestliže se přítomný účastník nebo jeho zástupce vzdálí před podpisem protokolu, poznamená se tato skutečnost v protokolu. Pokud někdo z těch, kteří by měli protokol podepsat, podpis odmítne, poznamená se to v protokolu s uvedením důvodů, pokud byly sděleny.
+
+(5) Výjimečně může být protokol sepsán dodatečně podle poznámek učiněných při úkonu. Takový protokol exekutor podepíše sám a v protokolu uvede důvod, proč byl sepsán dodatečně. Takto nelze postupovat, má-li být protokolem osvědčen příjem peněz nebo jiných věcí nebo má-li protokol podepsat osoba přibraná k úkonu nebo ten, jehož prohlášení je třeba uvést v protokolu.
+
+#### § 3
+
+(1) Při provádění exekuce exekutor poskytuje účastníkům, jakož i dalším osobám, kterých se exekuce týká, poučení o jejich procesních právech a povinnostech.
+
+(2) Exekutor vyhotoví vyrozumění o tom, že doložka provedení exekuce byla zapsána do rejstříku zahájených exekucí nebo že usnesení o odkladu exekuce a zastavení exekuce, exekuční příkaz a příkaz k úhradě nákladů exekuce nabyly právní moci, a doručí je.
+
+#### § 4
+
+(1) V žádosti o součinnost s peněžním ústavem exekutor uvede, že požaduje zjištění následujících údajů o majetku povinného:
+
+a) čísla účtů nebo jiné jedinečné identifikátory a jejich druh,
+
+b) čísla vkladních knížek nebo jiné jedinečné identifikátory,
+
+c) aktuální zůstatky na účtech a vkladních knížkách,
+
+d) informaci o vedení předchozích exekucí či jiných omezeních,
+
+e) změny na účtech za období posledních 90 dnů zpětně ode dne doručení žádosti ve formě výpisu z účtu,
+
+f) informaci o dalším majetku, který peněžní ústav povinnému spravuje nebo který je povinným nebo pro povinného u peněžního ústavu uschován.
+
+(2) V žádosti o součinnost s finanční institucí exekutor uvede, že požaduje zjištění následujících údajů o majetku povinného:
+
+a) číslo účtu nebo jiný jedinečný identifikátor, jeho druh, aktuální zůstatek na účtu,
+
+b) údaje o emitentovi cenného papíru, další identifikační údaje týkající se cenných papírů, počet cenných papírů,
+
+c) číslo smlouvy penzijního připojištění nebo doplňkového penzijního spoření, údaje o dávce z penzijního připojištění nebo doplňkového penzijního spoření,
+
+d) údaje týkající se plnění z pojistné smlouvy,
+
+e) údaje o kryptoaktivech a o prostředcích přístupu ke kryptoaktivům,
+
+f) informaci o vedení předchozích exekucí či jiných omezeních,
+
+g) údaje o ostatních pohledávkách povinného vůči finanční instituci, případně další údaje potřebné k vedení exekuce.
+
+(3) Formát a struktura datového souboru obsahujícího žádost o součinnost s peněžním ústavem a datového souboru obsahujícího odpověď peněžního ústavu jsou upraveny v příloze č. 1 k této vyhlášce. Formát a struktura datového souboru obsahujícího žádost o součinnost s finanční institucí a datového souboru obsahujícího odpověď finanční instituce jsou upraveny v příloze č. 3 k této vyhlášce.
+
+(4) Má-li povinný pronajatou u peněžního ústavu bezpečnostní schránku, uvede peněžní ústav v odpovědi namísto údajů podle odstavce 1 písm. f) identifikační údaje k bezpečnostní schránce a místo, kde se nachází.
+
+(5) Ustanovení odstavců 1 až 4 se použijí i na zjištění údajů o majetku manžela povinného obdobně.
+
+#### § 5
+
+(1) Formulář žádosti exekutora o součinnost podle § 34 odst. 4 zákona obsahuje
+
+a) označení exekutora s uvedením jeho sídla a dalších údajů,
+
+b) označení osoby, kterou exekutor žádá o součinnost,
+
+c) označení oprávněného a povinného,
+
+d) označení exekučního titulu a orgánu, který ho vydal, nebo osoby, která jej vyhotovila,
+
+e) označení exekučního řízení spisovou značkou, pod kterou je vedeno, a údaj o pověření exekutora,
+
+f) údaje podle § 33 odst. 5 zákona, které exekutor požaduje,
+
+g) jiné údaje než údaje podle písmene f) potřebné k vedení exekuce a odůvodnění potřebnosti poskytnutí těchto údajů,
+
+h) informace týkající se postupu v exekučním řízení,
+
+i) datum a podpis.
+
+(2) Formulář odpovědi na žádost exekutora o součinnost podle odstavce 1 obsahuje
+
+a) označení osoby, která exekutorovi poskytuje součinnost,
+
+b) označení exekutora s uvedením jeho sídla,
+
+c) označení povinného,
+
+d) označení exekučního řízení spisovou značkou, pod kterou je vedeno,
+
+e) údaje podle § 33 odst. 5 zákona, které exekutor požaduje,
+
+f) jiné údaje než údaje podle písmene e) potřebné k vedení exekuce,
+
+g) datum a podpis.
+
+(3) Formát a struktura datového souboru obsahujícího formuláře podle odstavců 1 a 2 jsou upraveny v příloze č. 2 k této vyhlášce. Vzor formulářů podle odstavců 1 a 2 je upraven v příloze č. 8 k této vyhlášce.
+
+#### § 5a
+
+(1) Formát a struktura datového souboru, který je přílohou exekučního příkazu a přílohou vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona, jde-li o provedení exekuce srážkami z jiných příjmů vyplácených Úřadem práce České republiky nebo Českou správou sociálního zabezpečení, a datového souboru, kterým Úřad práce České republiky nebo Česká správa sociálního zabezpečení sdělují exekutorovi pořadí vymáhané pohledávky, jsou upraveny v příloze č. 4 k této vyhlášce.
+
+(2) Formát a struktura datového souboru, který je přílohou exekučního příkazu, přílohou vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona, nebo přílohou usnesení o změně nebo zrušení exekučního příkazu, jde-li o provedení exekuce srážkami ze mzdy a jiných příjmů vyplácené plátcem mzdy nebo plátcem jiného příjmu, a datového souboru, kterým kvalifikovaný plátce mzdy nebo plátce jiného příjmu sděluje exekutorovi pořadí vymáhané pohledávky, jsou upraveny v příloze č. 2 k této vyhlášce, nestanoví-li se v odstavci 1 jinak.
+
+(3) Formát a struktura datového souboru, který je přílohou exekučního příkazu, přílohou vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona, nebo přílohou usnesení o změně nebo zrušení exekučního příkazu, jde-li o provedení exekuce přikázáním pohledávky povinného z účtu u peněžního ústavu, a datového souboru, kterým peněžní ústav sděluje exekutorovi pořadí vymáhané pohledávky, jsou upraveny v příloze č. 5 k této vyhlášce.
+
+(4) Formát a struktura datového souboru, který je přílohou exekučního příkazu, přílohou vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona, nebo přílohou usnesení o změně nebo zrušení exekučního příkazu, jde-li o provedení exekuce přikázáním jiné pohledávky povinného než z účtu u peněžního ústavu a je-li dlužníkem povinného finanční instituce, a datového souboru, kterým finanční instituce sděluje exekutorovi pořadí vymáhané pohledávky, jsou upraveny v příloze č. 3 k této vyhlášce.
+
+#### § 5b
+
+(1) Vyrozumění o zahájení exekuce, exekuční příkaz nebo příkaz k úhradě nákladů exekuce vyhotoví exekutor s použitím vzorů uvedených v příloze č. 7 k této vyhlášce.
+
+(2) Vyžaduje-li to konkrétní exekuční řízení, může exekutor písemnost vyhotovit odchylně od vzorů uvedených v příloze č. 7 k této vyhlášce.
+
+#### § 6 – Náklady exekuce a náklady oprávněného
+
+(1) V exekučním příkazu uvede exekutor způsob exekuce určený k provedení exekuce ukládající zaplacení peněžité částky, jímž budou případně na základě příkazu k úhradě nákladů exekuce vymoženy náklady exekuce a náklady oprávněného.
+
+(2) Jsou-li v exekučním příkazu uvedeny pravděpodobné náklady exekuce a pravděpodobné náklady oprávněného, případně je v něm uložena povinnost k úhradě nákladů plátce mzdy, vydá exekutor příkaz k úhradě nákladů exekuce neprodleně poté, kdy dojde ke splnění nebo vymožení povinnosti vymáhané v exekučním řízení s výjimkou nákladů exekuce a nákladů oprávněného, případně nákladů plátce mzdy. Exekutor je povinen poučit o této skutečnosti účastníky řízení v exekučním příkazu, ve kterém tyto pravděpodobné náklady uvedl.
+
+(3) Jestliže se náklady exekuce nebo náklady oprávněného po vydání příkazu podle odstavce 1 zvýší nebo vzniknou další náklady, vydá exekutor další příkaz k úhradě nákladů exekuce.
+
+(4) Formulář potvrzení o osobních, majetkových a výdělkových poměrech podle § 55 odst. 10 zákona obsahuje,
+
+a) je-li oprávněný fyzickou osobou, zejména
+
+1\. označení exekučního řízení spisovou značkou, pod kterou je vedeno,
+
+2\. označení oprávněného a údaj o jeho osobních poměrech,
+
+3\. údaj o rodinných poměrech oprávněného,
+
+4\. údaj o příjmu oprávněného,
+
+5\. údaj o majetku oprávněného,
+
+6\. označení manžela, partnera nebo druha oprávněného, údaje o jeho příjmu a majetku,
+
+7\. údaj o dluzích a výdajích oprávněného,
+
+8\. jiné údaje, které by mohly mít vliv na zproštění od složení zálohy na náklady exekuce,
+
+9\. datum a podpis,
+
+b) je-li oprávněný právnickou osobou, zejména
+
+1\. označení exekučního řízení spisovou značkou, pod kterou je vedeno,
+
+2\. označení oprávněného,
+
+3\. údaj o majetkových poměrech oprávněného,
+
+4\. důvod k podání návrhu na zproštění od složení zálohy na další vedení exekuce,
+
+5\. datum a podpis.
+
+#### § 6b
+
+Smlouva o zvláštním účtu podle § 46 odst. 5 a podle § 75 odst. 2 zákona musí obsahovat také ujednání, že oprávnění nakládat s peněžními prostředky na tomto účtu mají též zástupce exekutora po dobu zastupování a exekutor jmenovaný do exekutorského úřadu, jehož výkon zanikl exekutorovi, který uzavřel smlouvu o zvláštním účtu.
+
+### HLAVA II – DORUČOVÁNÍ
+
+##### § 8
+
+(1) Soud může podle § 76 odst. 1 zákona pověřit doručením písemnosti jen exekutora, který byl jmenován do obvodu okresního soudu, v němž má být doručení provedeno, nebo exekutora, který má sídlo v obci, v níž má být doručení provedeno.
+
+(2) Má-li být písemnost soudu podle odstavce 1 doručena v obvodu jiného okresního soudu, pověří exekutora doručením písemnosti na žádost příslušného soudu soud, v jehož obvodu má být doručení provedeno. Dožádanému soudu se zašle spolu se žádostí rovněž písemnost, která má být doručena.
+
+(3) Písemnost soudu uvedenou v odstavcích 1 a 2 může soudní exekutor doručovat jen sám (osobně nebo prostřednictvím svého zaměstnance).
+
+##### § 9 – Doručování písemností exekutora
+
+(1) Vyrozumění o tom, že doložka provedení exekuce byla zapsána do rejstříku zahájených exekucí, a o tom, že exekuční příkaz nabyl právní moci, se doručuje osobám, kterým se podle zvoleného způsobu exekuce doručuje vyrozumění o právní moci usnesení o nařízení výkonu rozhodnutí podle občanského soudního řádu.
+
+(2) Příkaz k úhradě nákladů exekuce se doručuje oprávněnému a povinnému. Po nabytí právní moci se příkaz k úhradě nákladů exekuce doručuje osobám podle odstavce 1.
+
+(3) Vyrozumění o tom, že usnesení o odkladu exekuce nebo o zastavení exekuce nabylo právní moci, doručuje exekutor těm, jimž se vyrozumění o odkladu nebo zastavení výkonu rozhodnutí doručuje podle občanského soudního řádu.
+
+##### § 10 – Společné ustanovení o doručování
+
+(1) Při doručování se postupuje podle občanského soudního řádu a vyhlášky o jednacím řádu pro okresní a krajské soudy<sup>2</sup>). Provádí-li doručení exekutor, má přitom stejná práva a povinnosti, jaké tyto právní předpisy přiznávají a ukládají soudu nebo soudnímu doručovateli; totéž platí, provádí-li se doručování prostřednictvím provozovatele poštovních služeb nebo jiné osoby, která provádí přepravu zásilek. Ustanovení § 48 odst. 4 občanského soudního řádu platí i pro písemnosti exekutora obdobně.
+
+(2) Použije-li exekutor k doručení písemnosti provozovatele poštovních služeb nebo jiné osoby, která provádí přepravu zásilek, odpovídá za doručení stejně, jako kdyby je provedl sám (osobně nebo prostřednictvím svého zaměstnance).
+
+## ČÁST DRUHÁ – POSTUP EXEKUTORA PŘI EXEKUČNÍ A DALŠÍ ČINNOSTI
+
+### § 10a
+
+(1) Předkládá-li exekutor exekučnímu, odvolacímu nebo dovolacímu soudu věc k rozhodnutí, předloží zároveň s exekučním spisem předkládací zprávu a spisový přehled.
+
+(2) Vzory předkládacích zpráv pro předkládání věcí soudu jsou upraveny v příloze č. 6 k této vyhlášce. Je-li soudu předkládána věc, k níž není v příloze č. 6 k této vyhlášce upraven vzor předkládací zprávy, použijí se vzory uvedené v příloze č. 6 k této vyhlášce obdobně.
+
+(3) Učiní-li exekutor po postoupení spisu soudu v exekučním řízení další úkon, informuje o tomto úkonu soud, případně mu zašle stejnopis rozhodnutí.
+
+### § 10b
+
+(1) Elektronický spis se soudu předkládá se soubory podle § 10c odst. 1 a předkládací zprávou v jednom adresáři, který může být komprimován do formátu zip či rar.
+
+(2) Elektronický spis exekutor předkládá elektronicky prostřednictvím elektronické aplikace.
+
+(3) Není-li technicky možné elektronický spis předložit způsobem podle odstavce 2, předloží exekutor elektronický spis
+
+a) prostřednictvím veřejné datové sítě do datové schránky; z odeslané datové zprávy musí být patrné, že se jedná o předložení elektronického spisu, nebo
+
+b) na pevném datovém nosiči.
+
+(4) Každý dokument je uložen v samostatném souboru v přípustném datovém formátu. Přípustným datovým formátem je přípustný formát datové zprávy dodávané do datové schránky podle vyhlášky upravující užívání a provozování informačního systému datových schránek<sup>4</sup>) nebo proprietární formát dokumentů vytvářených kancelářskými aplikacemi.
+
+(5) Odchozí dokumenty exekutor či jeho pověřený zaměstnanec opatří kvalifikovaným elektronickým podpisem. Autorizovaná konverze se provede u příchozích dokumentů, které jsou důležité pro vedení exekuce, zejména u rozhodnutí soudu, opravných prostředků, procesních podání účastníků a plných mocí.
+
+(6) Název souboru v adresáři je totožný s názvem dokumentu ve spisovém přehledu a obsahuje číslo jednací (pořadové číslo úkonu).
+
+(7) Název souboru s doručenkou obsahuje vedle názvu dokumentu i jméno adresáta.
+
+### § 10c
+
+(1) V adresáři s elektronickým spisem se předloží soubor se spisovým přehledem. Tento soubor obsahuje spisovou značku exekutora, spisovou značku soudu, pod kterou příslušný soud pověřil exekutora provedením exekuce, označení oprávněného, povinného a exekučního titulu, popřípadě souvislost s jiným spisem, údaj o pořadovém číslu související úschovy a další údaje podle uvážení exekutora; je-li exekučním titulem ukládáno peněžité plnění, uvede se výše tohoto plnění. Týká-li se řešená věc vymáhaného plnění, předkládá se v adresáři i soubor obsahující finanční přehled.
+
+(2) Exekutor předkládá elektronický exekuční spis
+
+a) se spisovým přehledem, který obsahuje čísla jednací (pořadová čísla úkonu), výstižné názvy dokumentů a odkazy na všechny soubory s jednotlivými odchozími či příchozími dokumenty (§ 10b odst. 4 a 5), nebo
+
+b) se spisovým přehledem, který umožňuje přímý přechod na jednotlivé soubory s dokumenty a doručenkami (interaktivní spisový přehled); přímým přechodem se rozumí kliknutí na název dokumentu ve spisovém přehledu.
+
+(3) Spisový přehled a jednotlivé soubory jsou řazeny chronologicky.
+
+### § 10d
+
+Ustanovení § 10b a 10c se použijí přiměřeně i pro předkládání listinných spisů soudům a pro předkládání spisů Exekutorské komoře České republiky, Ministerstvu spravedlnosti a předsedům okresních soudů (dále jen „dohledový orgán“), nedohodne-li se exekutor s dohledovým orgánem jinak.
+
+### § 10e
+
+(1) Na rozhodnutí odvolacího soudu vyznačuje doložku právní moci exekutor.
+
+(2) Vede-li exekutor elektronický spis, uchová originál rozhodnutí odvolacího nebo dovolacího soudu, protokol o hlasování v zalepené obálce, popřípadě další listiny postoupené odvolacím nebo dovolacím soudem v pomocném listinném spise. V elektronickém spise učiní exekutor odkaz na takový pomocný listinný spis.
+
+### § 11
+
+Nestanoví-li zákon nebo tato vyhláška jinak, použijí se pro postup exekutora při provádění jednotlivých způsobů exekuce přiměřeně ustanovení části deváté oddílu druhého až pátého vyhlášky o jednacím řádu pro okresní a krajské soudy.<sup>3</sup>)
+
+**Exekuce k vymožení peněžitého plnění**
+
+### § 12
+
+Požádá-li o to při provádění exekuce srážkami ze mzdy a jiných příjmů plátce mzdy, oprávněný nebo povinný a není-li exekuce prováděna ve prospěch více oprávněných, určí exekutor, jaká částka má být v příslušném výplatním období ze mzdy povinného sražena.
+
+### § 13
+
+Povolí-li soud nebo exekutor při provádění exekuce přikázáním pohledávky z účtu u peněžního ústavu odklad exekuce a bylo-li peněžnímu ústavu doručeno usnesení o povolení odkladu před provedením exekuce, neprovede peněžní ústav exekuci, dokud mu nebude exekutorem doručeno vyrozumění, že odklad byl zrušen, nebo v případě, že soud nebo exekutor povolil odklad exekuce podle § 54 odst. 3 zákona, vyrozumění, že doba odkladu uplynula.
+
+### § 15
+
+(1) Zvukově obrazový záznam, který se pořizuje o průběhu prohlídky bytu a jiných místností, obsahuje datum a čas, v němž pořizování záznamu probíhá. Zaznamenány musí být všechny úkony, k nimž při prohlídce bytu a jiných místností dochází.
+
+(2) Zlato v jiné podobě než světově obchodovatelných slitcích, jiné drahé kovy a drahé kameny odhadne znalec. Exekutor je následně prodá v dražbě jako jiné movité věci.
+
+### § 16
+
+Dražební jednání při provádění exekuce prodejem nemovité věci a prodejem obchodního závodu může řídit jen exekutor nebo kandidát; jednotlivé úkony při jednání, jimiž se nerozhoduje, může na základě pověření exekutora provést jiný zaměstnanec exekutora; řídí se přitom pokyny exekutora nebo kandidáta.
+
+### § 16a – Dražba nemovité věci provedená elektronicky
+
+(1) Rozhodne-li exekutor provést dražbu elektronicky, dražební jednání se nenařizuje. Bezprostředně před časem zahájení elektronické dražby na adrese internetové stránky, na které se dražba bude konat, exekutor zveřejní rozhodnutí, zda je prokázáno předkupní právo nebo výhrada zpětné koupě, a oznámení, která další věcná břemena, výměnky a nájemní, pachtovní či předkupní práva neuvedená v dražební vyhlášce na nemovité věci váznou. Dále uvede, zda bylo zjištěno, že byla podána žaloba na vyloučení prodávané nemovité věci z exekuce.
+
+(2) Totožnost dražitelů a dalších účastníků dražby lze ověřit přihláškou k účasti na dražbě podepsanou
+
+a) před exekutorem nebo jeho zaměstnancem po prokázání totožnosti platným úředním průkazem,
+
+b) úředně ověřeným podpisem,
+
+c) uznávaným elektronickým podpisem, nebo
+
+d) prostřednictvím kvalifikovaného systému elektronické identifikace podle zákona o elektronické identifikaci<sup>5</sup>).
+
+(3) Každý dražitel je v dražbě navenek označen identifikátorem, ze kterého nelze zjistit jeho totožnost.
+
+(4) Dražba se koná, pokud dražitelé činí podání. Exekutor nevyzývá dražitele, aby činili vyšší podání, a neupozorňuje dražitele, že bude udělovat příklep.
+
+(5) Je-li v posledních pěti minutách před časem ukončení dražby učiněno podání, posouvá se čas ukončení dražby o pět minut od okamžiku posledního podání. Je-li v této lhůtě učiněno vyšší podání, posouvá se čas ukončení dražby o pět minut. Uplyne-li od posledního učiněného podání pět minut, aniž by bylo učiněno vyšší podání, elektronická dražba se tím končí.
+
+(6) Bezprostředně po ukončení dražby exekutor udělí příklep dražiteli, který učinil nejvyšší podání.
+
+(7) O provedené dražbě se pořizuje záznam, ve kterém se uvedou
+
+a) údaje podle § 2 odst. 2 písm. a) až c),
+
+b) stručný obsah úkonů a rozhodnutí podle odstavce 1,
+
+c) seznam jednotlivých dražitelů s přiřazeným identifikátorem podle odstavce 3,
+
+d) přehled učiněných příhozů s uvedením částky, času a osoby, která příhoz učinila,
+
+e) údaje o skutečnostech podle odstavce 6.
+
+### § 16b – Dražba movitých věcí provedená elektronicky
+
+Pro dražbu movitých věcí provedenou elektronicky platí § 16a obdobně.
+
+### § 17 – Exekuce k vymožení nepeněžitého plnění
+
+Pokuty uložené při exekuci provedením prací nebo výkonů podle § 351 občanského soudního řádu připadají státu a povinný je vždy povinen pokuty zaplatit na účet exekučního soudu; o tom musí být exekutorem poučen.
+
+### § 18 – Dobrovolná dražba
+
+(1) Na dražební jednání při provádění dražby movité nebo nemovité věci na návrh vlastníka či osoby oprávněné disponovat s věcí se vztahuje ustanovení § 16 a 16a.
+
+(2) Výtěžek dražby se vyplatí navrhovateli.
+
+## ČÁST TŘETÍ – ÚČINNOST
+
+### § 19
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+JUDr. Bureš v. r.
+
+### Příloha č. 1 k vyhlášce č. 418/2001 Sb.
+
+#### Formát a struktura datového souboru obsahujícího žádost o součinnost a odpověď na žádost o součinnost – peněžní ústav
+
+Tato příloha stanovuje definici datových struktur, formátů dotazů a odpovědí, jakož i pravidel jejich výměny.
+
+I. PRAVIDLA STANDARDIZOVANÉ VÝMĚNY DAT
+
+1\. Obecná pravidla
+
+a) Jedná se o výměnu dat typu dotaz/odpověď (request/response), kde dotaz je vytvářen Exekutorem a odpověď dotazovanou Bankou.
+
+b) Datový formát Dotazu/Odpovědi bude využívat syntaxe jazyka XML (eXtensible Markup Language)
+
+c) V jednom souboru dávky Dotazů a Odpovědí je pouze jedna struktura uvozená jednou hlavičkou obsahující jednu dávku s více Dotazy
+
+d) Soubor je kódován v UTF-8
+
+e) Řádky souboru jsou odřádkovány znaky CR+LF (ASCII 13+10), včetně posledního řádku
+
+f) Řádky XML struktury mohou, ale nemusí být strukturovány
+
+g) Soubor musí mít uvozující XML hlavičku „&lt;? xml version="1.0" encoding="UTF-8" ?&gt;“ + odřádkování
+
+h) Přípona souboru vždy „. xml“
+
+i) Standardizovanou formu nelze použít pro Dotazy na subjekty bez IČO nebo RČ (Dotazy jsou elektronicky zasílány samostatně, bez použití standardizované datové struktury)
+
+j) Datový soubor s Dotazem exekutora musí splňovat všechny definované podmínky Definice dotazu XSD uvedené níže ve výpisu definičního souboru
+
+k) Datový soubor s odpovědí na výzvu musí splňovat všechny definované podmínky Definice odpovědi XSD uvedené níže ve výpisu definičního souboru
+
+l) Soudní exekutoři požadují elektronickou cestou výhradně informace potřebné k provedení konkrétní exekuce.
+
+m) Datový soubor s odpovědí neobsahuje zrušené a úvěrové účty
+
+n) Na každý Dotaz Exekutora generuje dotazovaná Banka právě jednu Odpověď, tj. i v případě, že se např. v Odpovědi vrací údaje o více účtech Subjektu, je Odpověď jedna, obsahující více příslušných položek.
+
+o) Odpověď na Dotaz vždy obsahuje všechny informace z Dotazu 
+ Nelze-li Dotaz vyřídit z věcného hlediska (neexistující účty atd.), nebude Odpověď obsahovat příslušné datové struktury odpovědi (čísla účtů atd.).
+
+p) Pokud vznikne při zpracování očekávaná i neočekávaná chyba technického charakteru (špatně forma XML, verze), bude Odpovědí informace o chybě a zpracování Dotazu jako celku se v tomto případě odmítne.
+
+q) V případě evidované duplicity Subjektů k danému RČ nebo IČO v databázi Banky bude odpověď obsahovat informaci, upozorňující na nejednoznačnou identifikaci Subjektu. Exekutorský úřad po obdržení Odpovědi s uvedenou chybou postupuje tak, že zašle bance dodatečný písemný dotaz s upřesňujícími informacemi, potřebnými pro správný výběr Subjektu. Banka vytvoří písemnou odpověď, kterou zasílá mimo systém standardizované výměny.
+
+r) V případě, jde-li o Dotaz na účet vedený pro více osob, z nichž každá má postavení majitele účtu (spolumajitelé), bude v Odpovědi Banky generována zpráva o této skutečnosti.
+
+2\. Způsob předávání dat
+
+a) Žádost o součinnost zasílá exekutor bance prostřednictvím Informačního systému datových schránek (ISDS) případně jiným způsobem na základě dohody s Bankou.
+
+b) V předmětu zprávy obsahující Žádost o součinnost a v předmětu odpovědi na součinnost bude vždy uveden text „XMLEXE SOUC“.
+
+3\. Povinné náležitosti žádosti o součinnost
+
+a) Průvodní dopis
+
+b) Datový XML soubor vygenerovaný v souladu s Definicí dotazu
+
+4\. Povinné náležitosti odpovědi na žádost o součinnost
+
+a) Průvodní dopis
+
+b) Datový XML soubor vygenerovaný v souladu s Definicí odpovědi
+
+II. NÁZVY DATOVÝCH SOUBORŮ
+
+1\. Datový soubor s žádostí o součinnost má vždy příponu „xml“, jeho název je tvořen z těchto částí:
+
+| Pořadí | Část | Délka | Popis |
+|---|---|---|---|
+| 1 | „EU“ | 2 | zkratka pro „exekutorský úřad“ |
+| 2 | Kód EU | 3 | Číslo dotazujícího se EÚ |
+| 3 | Kód zaměstnance | 3 | Jedinečný kód odpovědného zaměstnance Exekutora v rámci exekutorského úřadu |
+| 4 | „\_“ | 1 | Oddělovač |
+| 5 | Datum vytvoření | 6 | Datum vytvoření souboru – dávky Dotazů ve tvaru YYMMDD |
+| 6 | „\_“ | 1 | Oddělovač |
+| 7 | Pořadové číslo souboru | 3 | Pořadové číslo souboru jedinečné pro kombinaci Kódu EÚ, kódu odpovědného zaměstnance EU a data vytvoření souboru |
+| 8 | „\_“ | 1 | Oddělovač |
+| 9 | „dot“ | 3 | Identifikace typu souboru – dávka Dotazů |
+| 10 | „.xml“ | 4 | Přípona indikující formát souboru – XML. |
+
+2\. Datový soubor s odpovědí banky na žádost o součinnost má vždy příponu „xml“, jeho název je tvořen z těchto částí:
+
+| Pořadí | Část | Délka | Popis |
+|---|---|---|---|
+| 1 | „EU“ | 2 | zkratka pro „exekutorský úřad“. |
+| 2 | Kód EU | 3 | Číslo dotazujícího se EÚ. |
+| 3 | Kód zaměstnance | 3 | Jedinečný kód odpovědného zaměstnance v rámci exekutorského úřadu |
+| 4 | „\_“ | 1 | Oddělovač |
+| 5 | Datum vytvoření | 6 | Datum vytvoření souboru – dávky Dotazů ve tvaru YYMMDD |
+| 6 | „\_“ | 1 | Oddělovač |
+| 7 | Pořadové číslo souboru | 3 | Pořadové číslo souboru jedinečné pro kombinaci Kódu EÚ, kódu odpovědného zaměstnance a data vytvoření souboru |
+| 8 | „\_“ | 1 | Oddělovač |
+| 9 | Kód Banky | 4 | Kód Banky,která vygenerovala dávku Odpovědí |
+| 10 | „\_“ | 1 | Oddělovač |
+| 11 | „odp“ | 3 | Identifikace typu souboru – dávka Odpovědí |
+| 12 | „.xml“ | 4 | Přípona indikující formát souboru – XML. |
+
+III. PRAVIDLA PLNĚNÍ POLÍ DATOVÝCH SOUBORŮ
+
+1\. Datový soubor žádosti o součinnost obsahuje elementy a atributy označené „I“
+
+2\. Datový soubor odpovědi na žádost o součinnost obsahuje elementy a atributy označené „I“ a „O“
+
+3\. Nepovinné elementy a atributy jsou označeny znaky „\*)“
+
+4\. Pokud banka nesděluje některý z údajů, které Odpověď na Dotaz Typu 02 obsahuje navíc oproti Odpovědi na Dotaz Typu 01, uvede tuto skutečnost přímo v konkrétním poli Odpovědi.
+
+5\. Na jeden Dotaz Typu 01,02 je jedna Odpověď obsahující více položek.
+
+6\. U Dotazů 01,02 je uvedena vždy jen jedna identifikace - buď jen IČO (pro právnickou osobu) nebo jen RČ (pro osobu fyzickou i fyzickou-podnikatele).
+
+<table><tbody><tr><th rowspan="2">Element / Atribut</th><th colspan="2">Typ dotazu</th></tr><tr><td>01</td><td>02</td></tr><tr><td>Vyzva / Vygeneroval</td><td>I*)</td><td>I*)</td></tr><tr><td>Vyzva / Odpovedel</td><td>O</td><td>O</td></tr><tr><td>Vyzva / EUrad</td><td>I*)</td><td>I*)</td></tr><tr><td>Vyzva / Banka</td><td>O</td><td>O</td></tr><tr><td>Vyzva / CJVyzvy</td><td>I</td><td>I</td></tr><tr><td>Vyzva / TypDotazu</td><td>I</td><td>I</td></tr><tr><td>Subjekt / ID</td><td>I</td><td>I</td></tr><tr><td>Subjekt / TypID</td><td>I</td><td>I</td></tr><tr><td>Subjekt / CJEU</td><td>I</td><td>I</td></tr><tr><td>Subjekt / Nazev</td><td>I</td><td>I</td></tr><tr><td>Subjekt / Dokument</td><td>I</td><td>I</td></tr><tr><td>Subjekt / Zprava</td><td>O</td><td>O</td></tr><tr><td>Prilohy / Priloha</td><td>O*)</td><td>O*)</td></tr><tr><td>Ucet / CisloUctu</td><td>O</td><td>O</td></tr><tr><td>Účty / MenaUctu</td><td>O</td><td>O</td></tr><tr><td>Účty / TypUctu</td><td>O</td><td>O</td></tr><tr><td>Účty / Zustatek</td><td>O</td><td>O</td></tr><tr><td>Účty / DatumZustatku</td><td>O</td><td>O</td></tr><tr><td>Transakce / Datum</td><td></td><td>O</td></tr><tr><td>Transakce / Castka</td><td></td><td>O</td></tr><tr><td>Transakce / Popis</td><td></td><td>O</td></tr><tr><td>Exekuce / VystavceEP</td><td>O</td><td>O</td></tr><tr><td>Exekuce / DatumEP</td><td>O</td><td>O</td></tr><tr><td>Exekuce / CisloJednaci</td><td>O</td><td>O</td></tr><tr><td>Exekuce / Blokace</td><td>O</td><td>O</td></tr><tr><td>VkladniKnizka / ZustatekVkladniKnizky</td><td></td><td>O</td></tr><tr><td>VkladniKnizka / DatumZustatku</td><td></td><td>O</td></tr><tr><td>VkladniKnizka / IDVkladniKnizky</td><td></td><td>O</td></tr><tr><td>CennyPapir / Emitent</td><td></td><td>O</td></tr><tr><td>CennyPapir / PocetCP</td><td></td><td>O</td></tr><tr><td>CennyPapir / DatumStavuCP</td><td></td><td>O</td></tr><tr><td>Safesové schránky / CisloSchranky</td><td></td><td>O</td></tr><tr><td>Safesové schránky / Ulice</td><td></td><td>O</td></tr><tr><td>Safesové schránky / Mesto</td><td></td><td>O</td></tr><tr><td>Safesové schránky / PSC</td><td></td><td>O</td></tr></tbody></table>
+
+IV. POPIS ELEMENTŮ A ATRIBUTŮ DATOVÝCH SOUBORŮ
+
+| Element / Atribut | Popis |
+|---|---|
+| Vyzva | Kořenový element |
+| Vyzva / Vygeneroval | Jméno/Kód zaměstnance exekutorského úřadu, který soubor vytvořil |
+| Vyzva / EUrad | Číselný kód exekutorského úřadu, případně doplněný na 3 místa nulami zleva |
+| Vyzva / Banka | 4 místný číselný kód banky |
+| Vyzva / CJVyzvy | Číslo jednací výzvy, pod kterým ji eviduje exekutorský úřad |
+| Vyzva / TypDotazu | Typ dotazu 01 nebo 02, dle požadavku na požadovaný rozsah odpovědi (viz kap. 3 této Přílohy) |
+| Vyzva / Subjekty | |
+| Subjekty / Subjekt | |
+| Subjekt / ID | Rodné nebo identifikační číslo osoby prověřovaného subjektu uvedené bez mezer, pomlček, lomítek apod. v délce 8-10 číslic. |
+| Subjekt / TypID | Typ identifikátoru, přípustné hodnoty pouze „RČ“ a „IČO“. |
+| Subjekt / CJEU | Číslo jednací případu/exekuce, pod kterým jej eviduje exekutorský úřad |
+| Subjekt / Nazev | Název prověřovaného subjektu |
+| Subjekt / Zprava | Zpráva banky obsahující číselný kód a případné sdělení vztahující se k poskytování informací o konkrétním subjektu. Přípustné hodnoty: 001 Subjekt nenalezen, 002 Chybný Dokument, 003 Nejednoznačná identifikace Subjektu, 000 Doplnění volného textu (např. poznámky) |
+| Subjekt / Prilohy | |
+| Prilohy / Priloha | Přesný název souboru obsahujícího Přílohu k součinnosti, který je zaslán stejnou datovou zprávou spolu s datovým souborem odpovědi. |
+| Subjekt / Ucty | |
+| Ucty / Ucet | |
+| Ucet / CisloUctu | Šestnáctimístné číslo účtu bez pomlček a mezer případně doplněné na 16 míst nulami zleva. |
+| Ucet / MenaUctu | ISO kód měny účtu |
+| Ucet / TypUctu | B – běžný účet, S – Vkladní knížka / Vkladový účet, T – Termínovaný vklad, X - Chráněný účet |
+| Ucet / Zustatek | Zůstatek v měně účtu |
+| Ucet / DatumZustatku | Datum zůstatku účtu |
+| Ucet / TransakceUctu | |
+| TransakceUctu / Transakce | Do odpovědi banka připojí informace o transakcích za období posledních 3 měsíců. Pokud by počet transakcí přesahoval 100, bude uvedeno pouze posledních 100 transakcí. |
+| Transakce / Datum | Datum transakce |
+| Transakce / Castka | Částka transakce |
+| Transakce / Popis | Doplňující informace k transakci |
+| Ucet / ExekuceUctu | |
+| ExekuceUctu / Exekuce | |
+| Exekuce / VystavceEP | Výstavce exekučního příkazu |
+| Exekuce / DatumEP | Datum zadání exekučního příkazu |
+| Exekuce / CisloJednaci | Číslo jednací exekučního příkazu |
+| Exekuce / Blokace | Nařízená výše blokace |
+| Subjekt / Schranky | |
+| Schranky / Schranka | |
+| Schranka / CisloSchranky | Identifikace bezpečnostní schránky |
+| Schranka / Ulice | Ulice, kde se schránka nachází |
+| Schranka / Mesto | Město, kde se schránka nachází |
+| Schranka / PSC | Směrovací číslo, kde se schránka nachází |
+| Subjekt / VkladniKnizky | |
+| VkladniKnizky / VkladniKnizka | |
+| VkladniKnizka / ZustatekVkladniKnizky | Zůstatek vkladní knížky v CZK |
+| VkladniKnizka / DatumZustatku | Datum zůstatku vkladní knížky |
+| VkladniKnizka / IDVkladniKnizky | Identifikátor vkladní knížky |
+| Subjekt / CennePapiry | |
+| CennePapiry / CennyPapir | |
+| CennyPapir / Emitent | ISIN emitenta |
+| CennyPapir / PocetCP | Počet cenných papírů |
+| CennyPapir / DatumStavuCP | Datum, ke kterému je informace sdělována |
+
+### Příloha č. 2 k vyhlášce č. 418/2001 Sb.
+
+#### Formát a struktura datového souboru obsahujícího žádost o součinnost, odpověď na žádost o součinnost, informace o exekučním příkazu a o vyrozumění o provedení exekuce - plátce mzdy nebo jiného příjmu
+
+Tato příloha stanoví definici dat obsažených v datovém souboru doprovázejícím žádost o součinnost adresovanou plátci mzdy (§ 34 odst. 4 zákona), odpověď plátce mzdy na žádost o součinnost (§ 34 odst. 4 zákona), exekuční příkaz nebo usnesení o změně nebo zrušení exekučního příkazu (§ 49 odst. 3 zákona), vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona a sdělení plátce mzdy po obdržení exekučního příkazu (§ 49 odst. 3 zákona), stejně tak pravidla pro samotné předávání dat.
+
+1\. Obecná pravidla k datovým souborům
+
+a) Datový soubor využívá syntaxe jazyka XML (eXtensible Markup Language).
+
+b) Soubor je kódován v UTF-8.
+
+c) U názvů elementů a atributů je nutné rozlišovat velká a malá písmena.
+
+d) Jeden datový soubor odpovídá jedné žádosti o součinnost adresované plátci mzdy týkající se jedné osoby povinného - příjemce mzdy nebo platu, jedné odpovědi plátce mzdy týkající se jedné osoby povinného - příjemce mzdy nebo platu, jednomu exekučnímu příkazu a jedné osobě povinného - příjemci mzdy nebo platu, nebo jednoho sdělení plátce mzdy po obdržení exekučního příkazu týkajícího se jedné osoby povinného - příjemce mzdy nebo platu.
+
+e) Název datového souboru doprovázejícího žádost o součinnost adresovanou plátci mzdy je tvořen následovně (údaje v hranatých závorkách se nahradí skutečnými - bez závorek):
+
+SOUC\_[číslo exekutora]\_EX\_[kmen čísla jednacího]-[rok vydání]\_[číslo listu].xml
+
+název datového souboru doprovázejícího odpověď plátce mzdy na žádost o součinnost:
+
+SOUC_ODP\_[číslo exekutora]\_EX\_[kmen čísla jednacího]-[rok vydání]\_[číslo listu].xml
+
+název datového souboru doprovázejícího exekuční příkaz nebo usnesení o změně nebo zrušení exekučního příkazu:
+
+EP\_[číslo exekutora]\_EX\_[kmen čísla jednacího]-[rok vydání]\_[číslo listu].xml
+
+název datového souboru doprovázejícího sdělení plátce mzdy po obdržení exekučního příkazu:
+
+EP_ODP\_[číslo exekutora]\_EX\_[kmen čísla jednacího]-[rok vydání]\_[číslo listu].xml
+
+f) Datový soubor je vždy odesílán společně v rámci jedné datové zprávy s elektronickým vyhotovením žádosti o součinnost adresované plátci mzdy, odpovědi plátce mzdy na žádost o součinnost, exekučního příkazu, sdělení plátce mzdy po obdržení exekučního příkazu, vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona, nebo usnesení o změně nebo zrušení exekučního příkazu.
+
+g) Datový soubor vyhovuje xsd definici, kterou zveřejní Exekutorská komora způsobem umožňujícím dálkový přístup.
+
+2\. Způsob předávání dat
+
+Datová výměna mezi soudním exekutorem a plátcem mzdy bude probíhat prostřednictvím Informačního systému datových schránek (ISDS).
+
+3\. Opakovaně používané datové typy a elementy
+
+Jednoduché datové typy
+
+<table><tbody><tr><th>Název</th><th>Datový <br> typ</th><th>Rozsah</th><th>Povolený vzor</th></tr><tr><td>castka</td><td>decimal</td><td></td><td>0-999999999999.99, tedy 1-12 číslic a 0-2 desetinná místa.</td></tr><tr><td>cisloListu</td><td>normalized String</td><td>5</td><td>Řetězec může obsahovat kombinaci písmen (malých nebo velkých) a číslic. Délka řetězce musí být mezi 1 a 5 znaky.</td></tr><tr><td rowspan="12">druhDokumentu</td><td rowspan="12">string</td><td rowspan="12"></td><td>Povolené hodnoty:</td></tr><tr><td>exekucni_prikaz</td></tr><tr><td>exekucni_prikaz_odpoved</td></tr><tr><td>exekucni_prikaz_zmena</td></tr><tr><td>soucinnost</td></tr><tr><td>soucinnost_odpoved</td></tr><tr><td>nabyti_pm</td></tr><tr><td>nabyti_pm_odpoved</td></tr><tr><td>zustatek_dotaz</td></tr><tr><td>zustatek</td></tr><tr><td>ukonceni_ep</td></tr><tr><td>chybne_zpracovani</td></tr><tr><td rowspan="4">druhPohledavky</td><td rowspan="4">string</td><td rowspan="4"></td><td>Povolené hodnoty:</td></tr><tr><td>prednostni</td></tr><tr><td>neprednostni</td></tr><tr><td>vyzivne</td></tr><tr><td rowspan="4">druhPrilohy</td><td rowspan="4">string</td><td rowspan="4"></td><td>Povolené hodnoty:</td></tr><tr><td>exekucni_prikaz</td></tr><tr><td>soucinnost</td></tr><tr><td>ostatni</td></tr><tr><td rowspan="4">druhSoucinnosti</td><td rowspan="4">list</td><td rowspan="4"></td><td>Minimálně jedna z hodnot:</td></tr><tr><td>vyse_srazek</td></tr><tr><td>trvani_pracovniho_pomeru</td></tr><tr><td>poradi_exekuce</td></tr><tr><td>email</td><td>normalized<br> String</td><td></td><td>Validní e-mailová adresa obsahující povinný znak @.</td></tr><tr><td>ico</td><td>normalized<br> String</td><td>8</td><td>Hodnota řetězce musí být tvořena přesně osmi číslicemi. Žádné jiné znaky nejsou povoleny.</td></tr><tr><td>identifikator</td><td>normalized<br> String</td><td>18</td><td>Tři číslice následované pomlčkou, poté osm číslic, opět následované pomlčkou, a nakonec 1 až 5 alfanumerických znaků (může to být kombinace písmen a číslic).</td></tr><tr><td rowspan="10">interval</td><td rowspan="10">string</td><td rowspan="10">5</td><td>Povolené hodnoty:</td></tr><tr><td>U0001 – Denní</td></tr><tr><td>U0007 – Týdenní</td></tr><tr><td>U0014 – Čtrnáctidenní</td></tr><tr><td>U0100 – Měsíční</td></tr><tr><td>U0300 – Čtvrtletní</td></tr><tr><td>U0600 – Půlroční</td></tr><tr><td>U1200 – Roční</td></tr><tr><td>R0001 – REPO FIX</td></tr><tr><td>R0002 – REPO pohyblivá</td></tr><tr><td>obdobi</td><td>normalized<br> String</td><td>7</td><td>Hodnota řetězce musí odpovídat specifickému vzoru: První čtyři číslice odpovídají roku (RRRR). Následuje pomlčka. Poté následuje měsíc ve formátu MM v rozmezí 01-12. Příklad: 2023-09.</td></tr><tr><td>mena</td><td>string</td><td>3</td><td>Kód měny, 3 velká písmena podle ISO 4217</td></tr><tr><td>neprazdnyDate</td><td>normalized<br> String</td><td>10</td><td>Povolený vzor pro tento řetězec musí mít formát data ve tvaru RRRR-MM-DD, kde: RRRR je rok, který začíná číslem 1 nebo 2 následovaným třemi číslicemi (tj. rok může být v rozmezí 1000-2999). MM je měsíc, který je dvouciferný a může být v rozmezí 01-12. DD je den, který je dvouciferný a může být v rozmezí 01-31.</td></tr><tr><td>neprazdnyString7</td><td>string</td><td>7</td><td>Textový řetězec v délce 1-7 znaků.</td></tr><tr><td>neprazdnyString50</td><td>string</td><td>50</td><td>Textový řetězec v délce 1-50 znaků.</td></tr><tr><td>neprazdnyString250</td><td>string</td><td>250</td><td>Textový řetězec v délce 1-250 znaků.</td></tr><tr><td>prazdnyDate</td><td>normalized<br> String</td><td>10</td><td>Povolený vzor pro tento řetězec musí mít formát data ve tvaru RRRR-MM-DD, kde: RRRR je rok, který začíná číslem 1 nebo 2 následovaným třemi číslicemi (tj. rok může být v rozmezí 1000-2999). MM je měsíc, který je dvouciferný a může být v rozmezí 01-12. DD je den, který je dvouciferný a může být v rozmezí 01-31. Může být také prázdný řetězec (tj. žádný znak).</td></tr><tr><td>prazdnyString20</td><td>string</td><td>20</td><td>Textový řetězec v délce 0-20 znaků.</td></tr><tr><td>prazdnyString250</td><td>string</td><td>250</td><td>Textový řetězec v délce 0-250 znaků.</td></tr><tr><td>procento</td><td>decimal</td><td></td><td>0-9999.9999, tedy 1-4 číslice a 0-4 desetinná místa.</td></tr><tr><td>rc</td><td>normalized<br> String</td><td>11</td><td>Hodnota řetězce musí odpovídat vzoru: Šest číslic, následovaných lomítkem '/', a poté třemi nebo čtyřmi číslicemi.</td></tr><tr><td>senat</td><td>normalized<br> String</td><td>3</td><td>Přesně tři číslice</td></tr><tr><td>spisovaZnacka</td><td>normalized<br> String</td><td>12</td><td>Hodnota řetězce musí odpovídat specifickému vzoru: Začíná slovem 'EX', následované mezerou. Poté následuje šest číslic, obsahujících pořadové číslo řízení v daném roce případně doplněné nulami zleva. Po šesti číslicích následuje lomítko '/' a nakonec dvě číslice.</td></tr><tr><td>telefon</td><td>normalized<br> String</td><td></td><td>Hodnota řetězce musí odpovídat vzoru: Volitelný znak plus ('+') následovaný libovolným počtem číslic (0-9).</td></tr><tr><td>vsnss</td><td>normalized<br> String</td><td>10</td><td>Až 10 číslic nebo prázdný řetězec (tj. žádný znak).</td></tr></tbody></table>
+
+Složené elementy
+
+a) Element exekutor obsahuje tyto elementy:
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| nazev | neprazdnyString250 | ANO | Název exekutora |
+| adresa | neprazdnyString250 | ANO | Sídlo exekutora |
+| senat | senat | ANO | Číslo exekutora |
+| ic | ico | ANO | IČO exekutora |
+| idds | neprazdnyString7 | ANO | ID datové schránky exekutora |
+| email | email | NE | Kontaktní email |
+| telefon | telefon | NE | Kontaktní telefonní číslo |
+| platebni_udaje | String | ANO | Číslo účtu exekutora pro zasílání plateb |
+
+Element platebni_udaje obsahuje tyto atributy:
+
+| Atribut | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| vs | vsnss | ANO | Variabilní symbol pro platby |
+| ss | vsnss | NE | Specifický symbol pro platby |
+
+b) Element oprávněný obsahuje tyto elementy:
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| nazev | neprazdnyString250 | ANO | Název oprávněného, v případě fyzické osoby se uvede jméno a příjmení, v případě právnické osoby se uvede název právnické osoby (firma) |
+| adresa | neprazdnyString250 | ANO | Adresa oprávněného |
+| ic | prazdnyString20 | ANO | IČO oprávněného |
+| narozen | prazdnyDate | ANO | Datum narození oprávněného, uvede se pouze v případech, kdy je oprávněným fyzická osoba bez IČO |
+
+c) Element povinny obsahuje tyto elementy:
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| jmeno | neprazdnyString250 | ANO | Jméno povinného |
+| prijmeni | neprazdnyString250 | ANO | Příjmení povinného |
+| narozen | neprazdnyDate | ANO | Datum narození povinného |
+| rc | rc | ANO | Rodné číslo povinného, pokud bylo přiděleno |
+| adresa | neprazdnyString250 | NE | Adresa povinného |
+
+d) Element exekucniprikaz obsahuje tyto elementy:
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| spisova_znacka | spisovaZnacka | ANO | Spisová značka exekutora |
+| cislo_listu | cisloListu | ANO | Číslo listu předmětného rozhodnutí |
+| datum_vystaveni | neprazdnyDate | ANO | Datum vystavení rozhodnutí |
+| pravni_moc | prazdnyDate | ANO | Datum nabytí právní moci předmětného rozhodnutí |
+
+e) Element pohledavka obsahuje tyto elementy:
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| druh_pohledavky | druhPohledavky | ANO | Druh pohledávky |
+| zustatek | castka | ANO | Zůstatek dluhu |
+| finance | finance | ANO | Výčet vymáhaných povinností, viz níže |
+
+Element zustatek obsahuje tyto atributy:
+
+| Atribut | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| datum | neprazdnyDate | ANO | Datum uvedeného zůstatku |
+
+Element finance obsahuje element povinnost datového typu castka, ten se může vyskytnout nula až neomezeněkrát, rozlišuje se na
+
+typ jistina a naklady, které obsahují tyto atributy:
+
+| Atribut | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| mena | mena | ANO | Měna povinnosti |
+| popis | neprazdnyString250 | ANO | Popis povinnosti |
+
+typ jistina_opakovana, který obsahuje tyto atributy:
+
+| Atribut | Datový typ | Povinná položka | Povolený vzor |
+|---|---|---|---|
+| mena | mena | ANO | Měna povinnosti |
+| popis | neprazdnyString250 | ANO | Popis povinnosti |
+| od_data | neprazdnyDate | ANO | Od jakého data se povinnost počítá |
+| do_data | prazdnyDate | ANO | Do jakého data se povinnost počítá, <br> v případě prázdné hodnoty se počítá do zaplacení |
+| vypocet | interval | ANO | Jakým výpočtem se povinnost počítá |
+| zaklad | castka | ANO | Z jakého základu se povinnost počítá |
+
+typ prislusenstvi, který obsahuje tyto atributy:
+
+| Atribut | Datový typ | Povinná položka | Povolený vzor |
+|---|---|---|---|
+| mena | mena | ANO | Měna povinnosti |
+| popis | neprazdnyString250 | ANO | Popis povinnosti |
+| od_data | prazdnyDate | ANO | Od jakého data se povinnost počítá |
+| do_data | prazdnyDate | ANO | Do jakého data se povinnost počítá, <br> v případě prázdné hodnoty se počítá do zaplacení |
+| procento | procento | ANO | Jakým procentem se povinnost počítá |
+| vypocet | interval | ANO | Jakým výpočtem se povinnost počítá |
+| zaklad | castka | ANO | Z jakého základu se povinnost počítá |
+| min_castka | castka | ANO | Jaká je minimální částka povinnosti |
+| max_castka | castka | ANO | Jaká je maximální částka povinnosti |
+
+f) Element kontakt_zamestnavatel obsahuje tyto elementy:
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| telefon | telefon | NE | Telefonní kontakt na plátce mzdy, tato položka nemá omezen počet výskytů |
+| email | email | NE | Email na plátce mzdy, tato položka nemá omezen počet výskytů |
+
+g) Element poradi_exekucniho_prikazu
+
+Tento element je datového typu short, který obsahuje jediný atribut sdilene_poradi datového typu boolean. Tímto elementem sděluje plátce mzdy pořadí předmětného rozhodnutí, případně sděluje to, že na daném pořadí eviduje více záznamů.
+
+h) Element pracovni_pomer obsahuje tyto elementy:
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| aktivni | boolean | ANO | Údaj o tom, zda pracovní poměr trvá |
+| zamestnan_od | prazdnyDate | ANO | Od kdy je u daného plátce mzdy zaměstnán |
+| zamestnan_do | prazdnyDate | ANO | Do kdy je u daného plátce mzdy zaměstnán |
+| mzda_prehled | | ANO | Přehled mzdy a srážek povinného |
+| exekuce\_prehled | | ANO | Přehled exekucí povinného |
+
+Element mzda_prehled obsahuje element mzda datového typu castka, který se může vyskytnout nula až neomezeně-krát a obsahuje tyto atributy:
+
+| Atribut | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| obdobi | obdobi | ANO | Jaké období tento údaj představuje |
+| srazeno_celkem | castka | ANO | Kolik celkem bylo povinnému za dané období sraženo |
+| vyzivovane_osoby | short | ANO | Kolik měl povinný vyživovaných osob zohledňovaných při výpočtu srážek ze mzdy za dané období |
+
+Element exekuce\_prehled obsahuje element exekuce datového typu castka, který se může vyskytnout nula až neomezeněkrát a obsahuje tyto atributy:
+
+| Atribut | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| poradi | short | ANO | Pořadí exekuce |
+| subjekt | neprazdnyString250 | ANO | Název exekutora |
+| senat | senat | ANO | Číslo exekutora |
+| spisova_znacka | neprazdnyString50 | ANO | Spisová značka exekutora |
+| druh_pohledavky | druhPohledavky | ANO | Druh pohledávky |
+| datum_doruceni | neprazdnyDate | ANO | Datum doručení rozhodnutí |
+| datum_poradi | neprazdnyDate | ANO | Rozhodné datum pro určení pořadí exekuce |
+
+i) Element povereniprehled obsahuje element povereni datového typu string, který se může vyskytnout jednou až neomezeněkrát a obsahuje tyto atributy:
+
+| Atribut | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| vydal | neprazdnyString250 | ANO | Název soudu, který pověření vydal |
+| cislo | neprazdnyString250 | ANO | Číslo jednací předmětného pověření |
+| vydano | neprazdnyDate | ANO | Datum vydání předmětného pověření |
+| pravni_moc | prazdnyDate | ANO | Datum nabytí právní moci předmětného pověření |
+
+j) Element prilohy obsahuje element priloha datového typu neprazdnyString250, který se může vyskytnout nula až neomezeněkrát a obsahuje tyto atributy:
+
+| Atribut | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| druh | druhPrilohy | ANO | Upřesnění druhu přílohy |
+
+4\. Struktura datového souboru k žádosti o součinnost adresované plátci mzdy
+
+a) Datový soubor obsahuje právě jeden kořenový element dokument, je nezbytné uvést typ dokumentu pro validaci podle xsd, v tomto případě se uvede xs:type=“soucinnost“.
+
+b) Seznam elementů datového souboru k žádosti o součinnost
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| identifikator | identifikator | ANO | Jedinečný identifikátor dokumentu |
+| znacka_rizeni | spisovaZnacka | ANO | Spisová značka exekuce |
+| datum | neprazdnyDate | ANO | Datum vydání dokumentu |
+| druh_dokumentu | druhDokumentu | ANO | Druh dokumentu, v tomto případě se uvede soucinnost |
+| druh_soucinnosti | druhSoucinnosti | ANO | Druh součinnosti |
+| poznamka | prazdnyString250 | NE | Nepovinná poznámka |
+| exekutor | exekutor | ANO | Definice exekutora (viz 3.a) |
+| opravneny | opravneny | ANO | Definice oprávněného (viz 3.b) |
+| povinny | povinny | ANO | Definice povinného (viz 3.c) |
+| exekucni_prikaz | exekucni_prikaz | NE | Definice exekučního příkazu (viz 3.d) |
+| pohledavka | pohledavka | NE | Definice pohledávky (viz 3.e) |
+| povereni_prehled | povereni_prehled | ANO | Pověření exekutora (viz 3.i) |
+| prilohy | prilohy | ANO | Seznam příloh (viz 3.j) |
+
+5\. Struktura datového souboru k odpovědi plátce mzdy na žádost o součinnost
+
+a) Datový soubor obsahuje právě jeden kořenový element dokument, je nezbytné uvést typ dokumentu pro validaci podle xsd, v tomto případě se uvede xs:type=“soucinnost_odpoved“.
+
+b) Seznam elementů datového souboru k odpovědi na žádost o součinnost
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| identifikator | identifikator | ANO | Jedinečný identifikátor dokumentu |
+| reakce_na | identifikator | ANO | Identifikátor dokumentu, na který je reagováno |
+| datum | neprazdnyDate | ANO | Datum vydání dokumentu |
+| druh_dokumentu | druhDokumentu | ANO | Druh dokumentu, v tomto případě se uvede soucinnost_odpoved |
+| poznamka | prazdnyString250 | NE | Nepovinná poznámka |
+| kontakt_zamestnavatel | kontakt_zamestnavatel | NE | Definice kontaktu zaměstnavatele (viz 3.f) |
+| poradi_exekucniho_prikazu | poradi_exekucniho_prikazu | ANO | Definice pořadí exekučního příkazu (viz 3.g) |
+| pracovni_pomer | pracovni_pomer | ANO | Definice pracovního poměru (viz 3.h) |
+| prilohy | prilohy | NE | Seznam příloh (viz 3.j) |
+
+6\. Struktura datového souboru k exekučnímu příkazu a k usnesení o změně exekučního příkazu
+
+a) Datový soubor obsahuje právě jeden kořenový element dokument, je nezbytné uvést typ dokumentu pro validaci podle xsd, v tomto případě se uvede xs:type=“exekucni_prikaz“.
+
+b) Seznam elementů datového souboru k exekučnímu příkazu
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| identifikator | identifikator | ANO | Jedinečný identifikátor dokumentu |
+| znacka_rizeni | spisovaZnacka | ANO | Spisová značka exekuce |
+| datum | neprazdnyDate | ANO | Datum vydání dokumentu |
+| druh_dokumentu | druhDokumentu | ANO | Druh dokumentu, v tomto případě se uvede exekucni_prikaz |
+| poznamka | prazdnyString250 | NE | Nepovinná poznámka |
+| exekutor | exekutor | ANO | Definice exekutora (viz 3.a) |
+| opravneny | opravneny | ANO | Definice oprávněného (viz 3.b) |
+| povinny | povinny | ANO | Definice povinného (viz 3.c) |
+| exekucni_prikaz | exekucni_prikaz | ANO | Definice exekučního příkazu (viz 3.d) |
+| pohledavka | pohledavka | ANO | Definice pohledávky (viz 3.e) |
+| povereni_prehled | povereni_prehled | ANO | Pověření exekutora (viz 3.i) |
+| prilohy | prilohy | ANO | Seznam příloh (viz 3.j) |
+
+c) V případě datového souboru k usnesení o změně exekučního příkazu se přiměřeně užije seznam elementů podle odstavce b) s tím, že hodnota elementu druh_dokumentu bude exekucni_prikaz_zmena.
+
+7\. Struktura datového souboru k sdělení plátce mzdy po obdržení exekučního příkazu
+
+a) Datový soubor obsahuje právě jeden kořenový element dokument, je nezbytné uvést typ dokumentu pro validaci podle xsd, v tomto případě se uvede xs:type=“exekucni_prikaz_odpoved“.
+
+b) Seznam elementů datového souboru k odpovědi na exekuční příkaz
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| identifikator | identifikator | ANO | Jedinečný identifikátor dokumentu |
+| reakce_na | identifikator | ANO | Identifikátor dokumentu, na který je reagováno |
+| datum | neprazdnyDate | ANO | Datum vydání dokumentu |
+| druh_dokumentu | druhDokumentu | ANO | Druh dokumentu, v tomto případě se uvede exekucni_prikaz_odpoved |
+| poznamka | prazdnyString250 | NE | Nepovinná poznámka |
+| kontakt_zamestnavatel | kontakt_zamestnavatel | NE | Definice kontaktu zaměstnavatele (viz 3.f) |
+| poradi_exekucniho_prikazu | poradi_exekucniho_prikazu | ANO | Definice pořadí exekučního příkazu (viz 3.g) |
+| prilohy | prilohy | NE | Seznam příloh (viz 3.j) |
+
+8\. Struktura datového souboru k vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona
+
+a) Datový soubor obsahuje právě jeden kořenový element dokument, je nezbytné uvést typ dokumentu pro validaci podle xsd, v tomto případě se uvede xs:type=“nabyti_pm“.
+
+b) Seznam elementů datového souboru k vyrozumění o splnění podmínek
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| identifikator | identifikator | ANO | Jedinečný identifikátor dokumentu |
+| znacka_rizeni | spisovaZnacka | ANO | Spisová značka exekuce |
+| datum | neprazdnyDate | ANO | Datum vydání dokumentu |
+| druh_dokumentu | druhDokumentu | ANO | Druh dokumentu, v tomto případě se uvede nabyti_pm |
+| poznamka | prazdnyString250 | NE | Nepovinná poznámka |
+| exekutor | exekutor | ANO | Definice exekutora (viz 3.a) |
+| povinny | povinny | ANO | Definice povinného (viz 3.c) |
+| exekucni_prikaz | exekucni_prikaz | ANO | Definice exekučního příkazu (viz 3.d) |
+| | pohledavka | ANO | Definice pohledávky (viz 3.e) |
+| povereni_prehled | povereni_prehled | ANO | Pověření exekutora (viz 3.i) |
+| prilohy | prilohy | ANO | Seznam příloh (viz 3.j) |
+
+9\. Struktura datového souboru ke zrušení exekučního příkazu
+
+a) Datový soubor obsahuje právě jeden kořenový element dokument, je nezbytné uvést typ dokumentu pro validaci podle xsd, v tomto případě se uvede xs:type=“ukonceni_ep“.
+
+b) Seznam elementů datového souboru ke zrušení exekučního příkazu
+
+<table><tbody><tr><th>Element</th><th>Datový typ</th><th>Povinná položka</th><th colspan="2">Popis</th></tr><tr><td>identifikator</td><td>identifikator</td><td>ANO</td><td colspan="2">Jedinečný identifikátor dokumentu</td></tr><tr><td>znacka_rizeni</td><td>spisovaZnacka</td><td>ANO</td><td colspan="2">Spisová značka exekuce</td></tr><tr><td>datum</td><td>neprazdnyDate</td><td>ANO</td><td colspan="2">Datum vydání dokumentu</td></tr><tr><td>druh_dokumentu</td><td>druhDokumentu</td><td>ANO</td><td colspan="2">Druh dokumentu, v tomto případě se uvede <br> ukonceni_ep</td></tr><tr><td>poznamka</td><td>prazdnyString250</td><td>NE</td><td colspan="2">Nepovinná poznámka</td></tr><tr><td>exekutor</td><td>exekutor</td><td>ANO</td><td colspan="2">Definice exekutora (viz 3.a)</td></tr><tr><td>povinny</td><td>povinny</td><td colspan="2">ANO</td><td>Definice povinného (viz 3.c)</td></tr><tr><td>exekucni_prikaz</td><td>exekucni_prikaz</td><td colspan="2">ANO</td><td>Definice exekučního příkazu (viz 3.d)</td></tr><tr><td>prilohy</td><td>prilohy</td><td colspan="2">ANO</td><td>Seznam příloh (viz 3.j)</td></tr></tbody></table>
+
+10\. Struktura datového souboru pro případ chybného zpracování
+
+a) Datový soubor obsahuje právě jeden kořenový element dokument, je nezbytné uvést typ dokumentu pro validaci podle xsd, v tomto případě se uvede xs:type=“chybne_zpracovani“.
+
+b) Seznam elementů datového souboru pro případ chybného zpracování
+
+| Element | Datový typ | Povinná položka | Popis |
+|---|---|---|---|
+| identifikator | identifikator | ANO | Jedinečný identifikátor dokumentu |
+| znacka_rizeni | spisovaZnacka | NE | Spisová značka exekuce |
+| reakce_na | identifikator | ANO | Identifikátor dokumentu, na který je reagováno |
+| datum | neprazdnyDate | ANO | Datum vydání dokumentu |
+| druh_dokumentu | druhDokumentu | ANO | Druh dokumentu, v tomto případě se uvede chybne_zpracovani |
+| poznamka | prazdnyString250 | ANO | Povinná poznámka, specifikuje se zde, z jakého důvodu nebylo možné dokument zpracovat |
+| prilohy | prilohy | NE | Seznam příloh (viz 3.j) |
+
+### Příloha č. 3
+
+#### Formát a struktura datového souboru obsahujícího žádost o součinnost, odpověď na žádost o součinnost, informace o exekučním příkazu, o usnesení o změně nebo zrušení exekučního příkazu a o vyrozumění o provedení exekuce - finanční instituce
+
+Tato příloha stanoví definici dat obsažených v datovém souboru doprovázejícím žádost o součinnost adresovanou finanční instituci, odpověď finanční instituce na žádost o součinnost (§ 34 odst. 3 zákona) a také pravidla pro předávání dat a datových souborů. Tato příloha dále stanoví definici dat obsažených v datovém souboru doprovázejícím exekuční příkaz nebo usnesení o změně, částečném nebo úplném zrušení exekučního příkazu, oznámení o skončení exekuce, vyčíslení vymáhané pohledávky, vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona, sdělení finanční instituce po obdržení exekučního příkazu (§ 49 odst. 5 zákona) a také pravidla pro předávání dat a datových souborů.
+
+1\. **Obecná pravidla k datovým souborům**
+
+a) Datový soubor využívá syntaxe jazyka XML (eXtensible Markup Language).
+
+b) Soubor je kódován v UTF-8.
+
+c) U názvů elementů a atributů je nutné rozlišovat velká a malá písmena.
+
+d) Jeden datový soubor odpovídá jedné žádosti o součinnost ***v rozsahu nejvíce 2000 dotazovaných subjektů*** adresované finanční instituci, jedné odpovědi finanční instituce, jednomu exekučnímu příkazu, jednomu sdělení finanční instituce po obdržení exekučního příkazu, jednomu vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona, jednomu usnesení o změně nebo částečném nebo úplném zrušení exekučního příkazu, jednomu vyčíslení vymáhané pohledávky.
+
+e) Název datového souboru je tvořen následovně (údaje v hranatých závorkách se nahradí skutečnými - bez závorek):
+
+název datového souboru doprovázejícího žádost o součinnost:
+
+FINSOUC\_[číslo exekutora]\_[jednoznačný identifikátor]\_[datum vytvoření souboru YYYYMMDD].xml
+
+název datového souboru doprovázejícího odpověď finanční instituce na žádost o součinnost:
+
+FINSOUC_ODP\_[číslo exekutora]\_[jednoznačný identifikátor z žádosti o součinnost]\_[datum vytvoření souboru YYYYMMDD].xml
+
+název datového souboru doprovázejícího exekuční příkaz:
+
+FINEP\_[číslo exekutora]\_EX\_[kmen čísla jednacího]\_[rok vydání]\_[číslo listu].xml
+
+název datového souboru doprovázejícího usnesení o změně exekučního příkazu:
+
+FINEP_ZMENA\_[číslo exekutora]\_EX\_[kmen čísla jednacího]\_[rok vydání]\_[číslo listu].xml
+
+název datového souboru doprovázejícího usnesení o zrušení exekučního příkazu, usnesení o částečném zrušení exekučního příkazu a oznámení o skončení exekuce:
+
+FINEP_UPRAVA\_[číslo exekutora]\_EX\_[kmen čísla jednacího]\_[rok vydání]\_[číslo listu].xml
+
+název datového souboru doprovázejícího sdělení finanční instituce po obdržení exekučního příkazu:
+
+FINEP_ODP\_[číslo exekutora]\_EX\_[kmen čísla jednacího]\_[rok vydání]\_[číslo listu].xml
+
+název datového souboru doprovázejícího vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona:
+
+FINEP_PM\_[číslo exekutora]\_EX\_[kmen čísla jednacího]\_[rok vydání]\_[číslo listu].xml
+
+název datového souboru doprovázejícího vyčíslení vymáhané pohledávky:
+
+FINEP_VYCISLENI\_[číslo exekutora]\_EX\_[kmen čísla jednacího]\_[rok vydání]\_[číslo listu].xml
+
+f) Datový soubor je vždy odesílán společně v rámci jedné datové zprávy s elektronickým vyhotovením žádosti o součinnost adresované finanční instituci, jedné odpovědi finanční instituce na žádost o součinnost, jednomu exekučnímu příkazu, jednoho usnesení o změně nebo zrušení exekučního příkazu, jednoho sdělení finanční instituce po obdržení exekučního příkazu, jednoho vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona, jednoho vyčíslení vymáhané pohledávky.
+
+g) Datový soubor vyhovuje xsd definici, kterou zveřejní Exekutorská komora způsobem umožňujícím dálkový přístup.
+
+2\. **Způsob předávání dat**
+
+Datová výměna mezi soudním exekutorem a finanční institucí bude probíhat prostřednictvím Informačního systému datových schránek (ISDS).
+
+3\. **Opakovaně používané jednoduché a složené elementy**
+
+###### Jednoduché elementy
+
+| Název | Datový typ | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|
+| Castka | xs:decimal | 0-999999999999.99 | 1-12 číslic a 0-2 desetinná místa. | |
+| CisloEvidencni | xs:string | E následované číslicemi | E[číslice]+ | Evidenční číslo budovy |
+| CPForma | xs:short | 1-4 | Hodnoty: 1, 2, 3, 4 | Forma cenného papíru<br> Číselník: 1 = na doručitele<br> 2 = na řad<br> 3 = na jméno<br> 4 = na jméno / na majitele |
+| CPPDruh | xs:string | 000-800 | Hodnoty: 000, 100, 200, 300, 305, 400, 500, 510, 520, 521, 522, 600, 610, 650, 660, 700, 800 | Druh cenného papíru<br> Číselník: 000 = akcie<br> 100 = dluhopis<br> 200 = kupón<br> 300 = přednostní právo<br> 305 = právo upsání<br> 400 = zatímní list<br> 500 = podílový list uzavřeného podílového fondu<br> 510 = podílový list otevřeného podílového fondu<br> 520 = cenný papír fondu kolektivního investování - akcie<br> 521 = cenný papír fondu kolektivního investování - podíly otevřeného podílového fondu<br> 522 = cenný papír fondu kolektivního investování - podíly uzavřeného podílového fondu<br> 600 = investiční certifikát nepákový<br> 610 = warrant nepákový<br> 650 = investiční certifikát pákový<br> 660 = warrant pákový<br> 700 = futures<br> 800 = Exchange Traded Fund |
+| CPPodoba | xs:string | I, K, L | Hodnoty: I, K, L | Podoba cenného papíru<br> Číselník: I = imobilizovaný cenný papír<br> K = zaknihovaný cenný papír<br> L = listinný cenný papír |
+| CPTypSubjektu | xs:string | A, E, S | Hodnoty: A, E, S | Typ subjektu u cenného papíru<br> Číselník: A = administrátor emise<br> E = emitent<br> S = správce emise |
+| Datum | date | Platné datum | ISO 8601 formát<br> (YYYY-MM-DD) | |
+| DruhMajetku | xs:string | UCET,<br> SCHRANKA,<br> CENNY_PAPIR,<br> PENZIJNI_FOND,<br> POJISTENI, SKODA,<br> OSTATNI | | Druh majetku <br> Číselník: UCET,<br> SCHRANKA,<br> CENNY_PAPIR,<br> PENZIJNI_FOND,<br> POJISTENI, SKODA,<br> OSTATNI |
+| DruhUkonceni | xs:string | ZASTAVENO,<br> VYMOZENO,<br> CASTECNE | | Způsob ukončení exekuce<br> Číselník: ZASTAVENO,<br> VYMOZENO, CASTECNE |
+| Email | xs:normalizedString | Platná e-mailová adresa | Standardní e-mailová syntaxe | E-mailová adresa |
+| IC | xs:string | 8 číslic | [0-9]{8} | IČO |
+| KodBanky | xs:string | 4 číslice | [0-9]{4} | Kód banky |
+| KodMeny | xs:string | 3 písmena | [A-Z]{3} | Kód měny |
+| KodPrijeti | xs:short | 0, 1 | Hodnoty: 0, 1 | Formální validace dokumentu, 0 - dokument zpracován<br> 1 - dokument není validní |
+| KodStatu | xs:string | 2 písmena | [A-Z]{2} | |
+| KodVystavce | xs:string | 3 číslice | [0-9]{3} | |
+| KodZpracovani | xs:short | 0, 1, 2 | Hodnoty: 0, 1, 2 | 0 = Blokace neprovedena<br> 1 = Blokace provedena<br> 2 = Povinný není majitelem |
+| KonecSmlouvyType | xs:short | 0, 2, 3, 4 | Hodnoty: 0, 2, 3, 4 | 0 - neukončená<br> 2 - jednorázové vyrovnání<br> 3 - penze<br> 4 - odbytné |
+| Length3Text | xs:string | 3 číslice | [0-9]{3} | |
+| Max10Text | xs:string | 1-10 znaků | Řetězec délky 1-10 | |
+| Max255Text | xs:string | 1-255 znaků | Řetězec délky 1-255 | |
+| Max40Text | xs:string | 1-40 znaků | Řetězec délky 1-40 | |
+| NeprazdnyRetezec | xs:string | Minimálně 1 znak | Řetězec nesmí být prázdný | |
+| NumerickyRetezec | xs:string | Číslice | [0-9]+ | |
+| Perioda | xs:string | U následované 4 číslicemi | U[0-9]{4} | |
+| PlatebniSymbol | xs:string | 1-10 číslic | [0-9]{1,10} | |
+| PrazdnyElement | xs:string | 0 znaků | Řetězec musí být prázdný | |
+| RC | xs:string | 9-10 číslic | [0-9]{9,10} | |
+| StavPU | xs:short | 0, 1 | Hodnoty: 0, 1 | Stav řešení pojistné události<br> 0 - Uzavřená PU<br> 1 - Otevřená PU |
+| StavSmlouvyType | xs:string | N, A, U | Hodnoty: N, A, U | N - neznámý (v případě neexistence smlouvy u penzijní společnosti)<br> A – aktivní<br> U - ukončená |
+| SystemVypoctu | xs:string | U nebo R následované 4 číslicemi | (U\|R)[0-9]{4} | Systém výpočtu vyjadřuje metodiku, dle které má být pohledávka úročena a periodu úročení<br> U0001 - Denní<br> U0007 - Týdenní<br> U0014 - Čtrnáctidenní<br> U0100 - Měsíční<br> U0300 - Čtvrtletní<br> U0600 - Pololetní<br> U1200 - Roční<br> R0001 - REPO - FIX<br> R0002 - Repo - Pohyblivá |
+| Telefon | xs:normalizedString | Telefonní číslo | Může obsahovat + a číslice | Telefonní číslo |
+| TypID | xs:string | RČ, IČO, DN | Hodnoty: RČ, IČO, DN | Typ identifikátoru. RČ = rodné číslo, IČO = identifikační číslo osoby a DN = datum narození |
+| TypPS | xs:short | 0, 1, 2 | Hodnoty: 0, 1, 2 | 0 - Neživotní pojištění<br> 1 - Životní pojištění rizikové<br> 2 - Životní pojištění rezervotvorné |
+| TypVystavce | xs:string | SOUDNI_EXEKUTOR | Hodnota:<br> SOUDNI_EXEKUTOR | |
+| VyplataPenzeType | xs:string | D, U | Hodnoty: D, U | D - doživotní<br> U - na dobu určitou |
+| VysledekZprava | xs:string | 000, 001, 002 | | Hodnoty: 000 Subjekt byl nalezen, 001 Subjekt nebyl nalezen, 002 Nalezeno více subjektů |
+
+###### Složené elementy
+
+a) Adresa, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| ulice | NeprazdnyRetezec | NE | Musí obsahovat alespoň jeden znak. | Ulice, nepovinný údaj |
+| budova | Komplexní typ | ANO | Musí obsahovat alespoň jedno z cisloPopisne, cisloOrientacni nebo cisloEvidencni. Jediná povolená kombinace dvou hodnot je cisloPopisne a cisloOrientacni. | Určení budovy |
+| obec | NeprazdnyRetezec | ANO | Musí obsahovat alespoň jeden znak. | Město nebo obec |
+| psc | xs:string | ANO | Musí obsahovat přesně pět číslic. | PSČ, pětimístné číslo |
+| stat | KodStatu | ANO | Musí obsahovat přesně dvě velká písmena podle standardu ISO 3166-1. | Dvouznakový kód státu dle ISO 3166-1 (např. CZ) |
+
+Podřízený element budova, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| cisloPopisne | NumerickyRetezec | NE | Může obsahovat pouze číslice. | Číslo popisné budovy |
+| cisloOrientacni | NeprazdnyRetezec | NE | Musí obsahovat alespoň jeden znak. | Číslo orientační budovy |
+| cisloEvidencni | CisloEvidencni | NE | Musí začínat písmenem „E“ a následovat číslice. | Číslo evidenční budovy |
+
+b) CisloUctu, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| predcisli | xs:string | NE | Musí obsahovat 1 až 6 číslic. | Předčíslí účtu, nepovinný údaj |
+| cisloUctu | xs:string | ANO | Musí obsahovat 1 až 10 číslic. | Číslo účtu, povinný údaj |
+| kodBanky | xs:string | ANO | Musí obsahovat přesně 4 číslice. | Kód banky, povinný údaj |
+
+c) DavkaType, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| Odbytne | xs:boolean | ANO | Hodnota true nebo false. | Smlouva má nárok na odbytné |
+| OdbytnePoplatek | xs:decimal | ANO | Číselná hodnota s desetinnými místy. | K vyplacení odbytného je vyžadován poplatek v určené výši |
+| StarobniPenze | xs:boolean | ANO | Hodnota true nebo false. | Smlouva má nárok na starobní penzi |
+| VyplataStarobniPenze | VyplataPenzeType | ANO | Musí být "D" (Doživotní) nebo "U" (Určitá doba). | Způsob výplaty penze |
+| VysluhovaPenze | xs:boolean | ANO | Hodnota true nebo false. | Smlouva má nárok na výsluhovou penzi |
+| VyplataVysluhova Penze | VyplataPenzeType | ANO | Musí být "D" (Doživotní) nebo "U" (Určitá doba). | Způsob výplaty výsluhové penze |
+
+d) FyzickaOsoba, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| rodneCislo | xs:string | NE | Musí obsahovat 9 nebo 10 číslic. | Rodné číslo osoby bez lomítka. Rodné číslo nebo datum narození musí být uvedeno |
+| datumNarozeni | xs:date | NE | Datum ve formátu YYYY-MM-DD. | Datum narození osoby |
+| jmenoPrijmeni | JmenoPrijmeni | ANO | Komplexní typ obsahující jméno a příjmení. | Jméno a příjmení fyzické osoby |
+| bydliste | Adresa | ANO | Komplexní typ obsahující adresu. | Adresa bydliště osoby |
+
+e) FyzickaOsobaPodnikatel, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| IC | IC | ANO | Musí obsahovat přesně 8 číslic. | IČO fyzické osoby podnikající |
+| jmenoPrijmeni | JmenoPrijmeni | NE | Komplexní typ obsahující jméno a příjmení. | Jméno a příjmení FOP |
+| nazev | NeprazdnyRetezec | NE | Musí obsahovat alespoň jeden znak. | Firma fyzické osoby podnikající |
+| sidlo | Adresa | ANO | Komplexní typ obsahující adresu. | Sídlo fyzické osoby podnikající |
+
+f) IdentifikaceDokumentu, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| spisovaZnacka | NeprazdnyRetezec | ANO | Musí obsahovat alespoň jeden znak. | ID exekučního případu, např. 067 EX 1243/13 |
+| poradoveCislo | NeprazdnyRetezec | ANO | Musí obsahovat alespoň jeden znak. | Jednoznačné ID dokumentu v rámci jednoho případu |
+
+g) JmenoPrijmeni, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| jmeno | NeprazdnyRetezec | ANO | Musí obsahovat alespoň jeden znak. | Jméno osoby |
+| prijmeni | NeprazdnyRetezec | ANO | Musí obsahovat alespoň jeden znak. | Příjmení osoby |
+
+h) Osoba, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| Osoba | Komplexní typ | ANO (jako základ) | - | Základní typ, který je rozšiřován typy FyzickaOsoba, FyzickaOsobaPodnikatel a PravnickaOsoba |
+
+i) PlatebniUdaje, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| ucetPrijemce | CisloUctu | ANO | Komplexní typ obsahující číslo účtu. | Účet, na který má být pohledávka uhrazena |
+| variabilniSymbol | PlatebniSymbol | NE | Musí obsahovat 1 až 10 číslic. | Variabilní symbol pro úhradu pohledávky |
+| specifickySymbol | PlatebniSymbol | NE | Musí obsahovat 1 až 10 číslic. | Specifický symbol pro úhradu pohledávky |
+
+j) Pohledavka, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| id | xs:positiveInteger | ANO | Musí být kladné celé číslo. | Jednoznačný identifikátor položky - důležité pro identifikaci v případě změny |
+| castka | xs:decimal | ANO | Číselná hodnota s desetinnými místy. | Jistina, základ pro výpočet úroku, pevná částka |
+| mena | KodMeny | ANO | Musí obsahovat přesně tři velká písmena dle ISO 4217. | Měna pohledávky |
+| typ | TypPohledavky | ANO | Komplexní typ určující základní typ pohledávky. | Určuje, o jaký typ položky jde - Jistina, Jistina s úrokem, Samostatný úrok, Opakující se pevná částka |
+| poradi | xs:positiveInteger | ANO | Musí být kladné celé číslo. | Priorita/Pořadí – Priorita pro výpočet při placení |
+| platebniUdaje | PlatebniUdaje | ANO | Komplexní typ obsahující platební údaje. | Platební údaje pro úhradu pohledávky |
+
+k) PravidelnaCastka, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| perioda | Perioda | ANO | Musí být ve formátu 'U' následovaném čtyřmi číslicemi. | Perioda navyšování pohledávky. Možné hodnoty: U0001 – Denní, U0007 – Týdenní, U0014 – Čtrnáctidenní, U0100 – Měsíční, U0300 – Čtvrtletní, U0600 – Pololetní, U1200 – Roční |
+| datumOd | xs:date | ANO | Datum ve formátu YYYY-MM-DD. | Počátek období pro nápočet pohledávky |
+| datumDo | xs:date | NE | Datum ve formátu YYYY-MM-DD. | Konec období pro nápočet pohledávky |
+| min | xs:decimal | NE | Číselná hodnota s desetinnými místy. | Minimální částka |
+| max | xs:decimal | NE | Číselná hodnota s desetinnými místy. | Maximální částka |
+
+l) PravnickaOsoba, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| IC | IC | ANO | Musí obsahovat přesně 8 číslic. | IČO právnické osoby |
+| nazev | NeprazdnyRetezec | ANO | Musí obsahovat alespoň jeden znak. | Název právnické osoby |
+| sidlo | Adresa | ANO | Komplexní typ obsahující adresu. | Adresa (sídlo) právnické osoby |
+
+m) TypPohledavky, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| jistina | PrazdnyElement | ANO (1 z možností) | Element bez obsahu. | Základní pohledávka bez úroků |
+| pravidelnaCastka | PravidelnaCastka | ANO (1 z možností) | Komplexní typ obsahující informace o periodickém navyšování. | Pohledávka, která se pravidelně navyšuje o pevnou částku |
+| jistinaVcetneUroku | UrocenyTyp | ANO (1 z možností) | Komplexní typ obsahující úrokovou sazbu a dobu trvání. | Pohledávka s jistinou a zahrnutým úrokem |
+| samostatnyUrok | UrocenyTyp | ANO (1 z možností) | Komplexní typ obsahující úrokovou sazbu a dobu trvání. | Samostatný úrok, který není součástí jistiny |
+
+n) UrocenyTyp, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| systemVypoctuUroku | SystemVypoctu | ANO | Formát: 'U' nebo 'R' následované čtyřmi číslicemi. | Určuje systém (periodu) výpočtu úroků. Možné hodnoty: U0001 – Denní, U0007 – Týdenní, U0014 – Čtrnáctidenní, U0100 – Měsíční, U0300 – Čtvrtletní, U0600 – Pololetní, U1200 – Roční, R0001 – REPO - FIX, R0002 – Repo - Pohyblivá |
+| urokovaSazba | xs:decimal | ANO | Číselná hodnota s desetinnými místy. | Sazba vyjádřená v procentech, v případě výpočtu dle REPO sazby pak výše odchylky od REPO sazby |
+| datumOd | xs:date | ANO | Datum ve formátu YYYY-MM-DD. | Počátek periody pro výpočet úroku |
+| datumDo | xs:date | NE | Datum ve formátu YYYY-MM-DD. | Konec periody pro výpočet úroku; nevyplněno znamená 'do splacení' |
+| min | xs:decimal | NE | Číselná hodnota s desetinnými místy. | Minimální částka |
+| max | xs:decimal | NE | Číselná hodnota s desetinnými místy. | Maximální částka |
+
+o) Vystavce, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| IC | IC | ANO | Musí obsahovat přesně 8 číslic. | IČO právnické osoby |
+| nazev | NeprazdnyRetezec | ANO | Musí obsahovat alespoň jeden znak. | Název právnické osoby |
+| sidlo | Adresa | ANO | Komplexní typ obsahující adresu. | Adresa (sídlo) právnické osoby |
+| typVystavce | TypVystavce | ANO | Možné hodnoty: 'SOUDNI_EXEKUTOR'. | Určuje typ výstavce |
+| kodVystavce | KodVystavce | ANO | Tříciferný kód obsahující pouze číslice. | Kód výstavce exekučního příkazu |
+
+p) ZustatekType, který obsahuje následující podřízené elementy:
+
+| Element | Datový typ | Povinná položka | Povolený vzor | Popis |
+|---|---|---|---|---|
+| SumaCelkem | xs:decimal | ANO | Číselná hodnota s desetinnými místy. | Celkový zůstatek smlouvy |
+| SumaPU | xs:decimal | ANO | Číselná hodnota s desetinnými místy. | Suma příspěvků účastníka, třetích osob, nedaněných příspěvků zaměstnavatele |
+| SumaPS | xs:decimal | ANO | Číselná hodnota s desetinnými místy. | Suma státních příspěvků |
+| SumaPZ | xs:decimal | ANO | Číselná hodnota s desetinnými místy. | Suma příspěvků zaměstnavatele (daněných) |
+| SumaVU | xs:decimal | ANO | Číselná hodnota s desetinnými místy. | Suma výnosů z příspěvků účastníka a příspěvků zaměstnavatele |
+| SumaVS | xs:decimal | ANO | Číselná hodnota s desetinnými místy. | Suma výnosů ze státních příspěvků |
+
+4\. **Struktura datového souboru k žádosti o součinnost adresované finanční instituci**
+
+a) Datový soubor obsahuje jeden kořenový element Vyzva, který obsahuje následující atributy:
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| CJVyzvy | Max40Text | | | ANO | Identifikace součinnosti |
+| EUrad | Length3Text | | | ANO | Přidělené číslo exekutora |
+| Vygeneroval | Max255Text | | | ANO | Identifikace uživatele/systému, který součinnost generoval |
+| VyzvaVerze | xs:short | Číslo | Celé číslo | ANO | Verze struktury pro případ budoucích úprav |
+
+b) Kořenový element Vyzva obsahuje podřízený složený element Subjekty, který dále obsahuje opakující se podelement Subjekt v maximálním výskytu X (není určeno, ale je neomezené).
+
+Každý element Subjekt obsahuje následující atributy:
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| TypID | TypID | | | ANO | Typ ID, podle kterého je požadována lustrace (Rodné číslo, IČO, Datum narození) |
+| ID | Union (RC, IC, Datum) | Číselný/datumový údaj | Formát podle typu | ANO | Údaj, dle kterého je požadována lustrace |
+| CJEU | Max40Text | | | ANO | Číslo jednací nebo identifikátor subjektu na straně exekutora |
+| Nazev | Max255Text | | | NE | Název subjektu (právnická osoba) |
+| Jmeno | Max255Text | | | NE | Jméno subjektu (fyzická osoba) |
+| Prijmeni | Max255Text | | | NE | Příjmení subjektu (fyzická osoba) |
+
+5\. **Struktura datového souboru k odpovědi finanční instituce na žádost o součinnost**
+
+a) Datový soubor obsahuje jeden kořenový element VyzvaOdpoved, který obsahuje následující atributy:
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| CJVyzvy | Max40Text | | | Ano | Identifikace součinnosti |
+| EUrad | Length3Text | | | Ano | Přidělené číslo exekutora |
+| Vygeneroval | Max255Text | | | Ano | Identifikace uživatele/systému, který odpověď generoval |
+| Odpovedel | Max255Text | | | Ano | Identifikace subjektu, který odpověď vytvořil |
+| ICO | IC | | | Ne | IČO odpovídajícího subjektu |
+| VyzvaVerze | xs:short | Celé číslo | - | Ano | Verze struktury pro případ budoucích úprav |
+
+b) Kořenový element VyzvaOdpoved obsahuje složený element Subjekty, který může obsahovat vícenásobný výskyt elementu Subjekt.
+
+Element Subjekt má následující atributy:
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| TypID | TypID | | | Ano | Typ ID pro lustraci (RC = rodné číslo, IC = IČO, DN = datum narození) |
+| ID | RC / IC / Datum | | | Ano | Identifikátor osoby |
+| CJEU | Max40Text | | | Ano | Číslo jednací nebo identifikátor subjektu na straně exekutora |
+| Nazev | Max255Text | | | Ne | Název subjektu v případě právnické osoby |
+| Jmeno | Max255Text | | | Ne | Jméno subjektu v případě fyzické osoby |
+| Prijmeni | Max255Text | | | Ne | Příjmení subjektu v případě fyzické osoby |
+
+c) Element Subjekt obsahuje další složené elementy:
+
+ca) Zprava
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| Zprava | VysledekZprava | | | Ano | Stav subjektu (000 = Nalezen, 001 = Nenalezen, 002 = Více subjektů) |
+
+cb) Identifikace obsahuje volbu mezi Právnickou osobou nebo Fyzickou osobou. Jde o povinnou položku pouze v případě dotazu v kombinaci jméno, příjmení a datum narození.
+
+Právnická osoba:
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| Spolecnost | Max255Text | | | Ano | Název společnosti |
+| Adresa | Adresa | | | Ano | Adresa subjektu |
+
+Fyzická osoba:
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| Jmeno | Max255Text | | | Ano | Jméno subjektu |
+| Prijmeni | Max255Text | | | Ano | Příjmení subjektu |
+| Adresa | Adresa | | | Ano | Adresa subjektu |
+| RC | RC | | | Ne | Rodné číslo subjektu |
+| JID | Max10Text | | | Ne | Jiný identifikátor subjektu |
+
+cc) Kontakty
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| Email | Email | | | Ne | E-mailová adresa |
+| Telefon | Telefon | | | Ne | Telefonní číslo |
+| Adresa | Adresa | | | Ne | Poštovní adresa |
+
+cd) Ucty je nepovinný element, který obsahuje neomezený výskyt podřízeného elementu Ucet.
+
+Podřízený element Ucet má následující atributy:
+
+| Název atributu | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| Zustatek | Castka | | | Ano | Poslední známý zůstatek |
+| DatumZustatku | Datum | | | Ano | Datum uvedeného zůstatku |
+| CisloUctu | Max40Text | | | Ano | Číslo nebo jiný identifikátor účtu |
+
+a obsahuje podřízený element ExekuceUctu v neomezeném výskytu s následujícími atributy:
+
+| Název atributu | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| VystavceEP | Max255Text | 1-255 znaků | - | Ano | Název subjektu, který exekuční příkaz vydal |
+| DatumEP | Datum | - | - | Ano | Datum přijetí exekučního příkazu |
+| CisloJednaci | Max40Text | 1-40 znaků | - | Ano | Identifikace exekuce/exekučního příkazu |
+| Blokace | Castka | - | - | Ano | Blokovaná částka |
+
+ce) Schranky je nepovinný element, který obsahuje neomezený výskyt podřízeného elementu Schranka. Podřízený element Schranka má následující atributy:
+
+| Název atributu | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| Ulice | Max255Text | | | Ano | Ulice, kde se schránka nachází |
+| Mesto | Max255Text | | | Ano | Město, kde se schránka nachází |
+| PSC | Max10Text | | | Ano | Poštovní směrovací číslo |
+| Identifikace | Max40Text | | | Ano | Identifikace nebo jiné označení schránky |
+
+cf) CennePapiry je nepovinný element, který obsahuje neomezený výskyt podřízeného elementu CennyPapir. Podřízený element CennyPapir má následující atributy:
+
+| Název atributu | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| PocetCP | xs:int | | | Ano | Počet cenných papírů |
+| DatumStavuCP | xs:date | | | Ano | Poslední známé datum stavu |
+| Emitent | Max40Text | | | Ano | Vydavatel finančního instrumentu |
+| Druh | CPPDruh | | | Ano | Druh cenného papíru |
+| Forma | CPForma | | | Ano | Forma cenného papíru |
+| Podoba | CPPodoba | | | Ano | Podoba cenného papíru |
+
+cg) PenzijniFondy je nepovinný element, který obsahuje neomezený výskyt podřízeného elementu PenzijniFond. Podřízený element PenzijniFond má následující atributy:
+
+| Název atributu | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| Smlouva | xs:integer | 10 číslic | - | Ano | Číslo smlouvy penzijního připojištění / doplňkového penzijního spoření |
+| SmlouvaEvidovana | xs:boolean | | | Ano | Smlouva je v evidenci penzijní společnosti (ano/ne) |
+| SmlouvaStav | StavSmlouvyType | | | Ne | Stav smlouvy (aktivní/ukončená) |
+| SmlouvaKonec | KonecSmlouvyType | | | Ne | Důvod ukončení smlouvy |
+
+a obsahuje podřízený element Data v jednom výskytu s následujícími elementy:
+
+| Název elementu | Datový typ | Rozsah | Povolený vzor | Povinné | Popis |
+|---|---|---|---|---|---|
+| DalsiEP | xs:boolean | | | Ne | Indikace, zda je evidován jiný exekuční příkaz (ano/ne) |
+| DalsiEPPocet | xs:int | | | Ne | Počet evidovaných exekučních příkazů ke smlouvě (včetně tohoto) |
+| Zustatek | ZustatekType | | | Ne | Finanční zůstatek smlouvy k datu odpovědi |
+| Davka | DavkaType | | | Ne | Přehled možných dávek k datu odpovědi |
+| VyplataDatum | xs:date | | | Ne | Datum předpokládané výplaty dávky |
+
+ch) Pojisteni je nepovinný element, který může obsahovat jeden podřízený element Smlouvy a jeden podřízený element Skody.
+
+Podřízený element Smlouvy může obsahovat neomezený výskyt podřízeného elementu PS.
+
+Element PS obsahuje následující atributy:
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinná položka | Popis |
+|---|---|---|---|---|---|
+| Exekuce | xs:boolean | 1 | true/false | Ano | Informace, zda je k pojistné smlouvě evidován jiný exekuční příkaz |
+| Redukce | xs:boolean | 1 | true/false | Ne | Informace, zda došlo k redukci pojistné částky, ročního důchodu nebo pojistné doby |
+| NarokCastka | Castka | | | Ano | |
+| PredpisPojistneho | Castka | | | Ano | |
+| DatumKonce | xs:date | 1 | YYYY-MM-DD | Ne | Předpokládané datum zániku pojištění. Je-li pojištění sjednáno na dobu neurčitou, pojistitel vyplní datum 2199-31-12 |
+| DatumPocatku | xs:date | 1 | YYYY-MM-DD | Ano | Datum počátku pojištění |
+| JePojisteny | xs:boolean | 1 | true/false | Ano | Zda je subjekt (povinný) v roli pojištěného |
+| JePojistnik | xs:boolean | 1 | true/false | Ano | Zda je subjekt (povinný) v roli pojistníka |
+| TypPS | xs:short | 1..3 | | Ano | Typ pojistné smlouvy<br> 0 – Neživotní pojištění<br> 1 – Životní pojištění rizikové<br> 2 – Životní pojištění rezervotvorné |
+| CisloPS | Max40Text | | | Ano | Číslo (označení) pojistné smlouvy |
+
+Podřízený element Skody může obsahovat neomezený výskyt podřízeného elementu PU.
+
+Element PU obsahuje následující atributy:
+
+| Název | Datový typ | Rozsah | Povolený vzor | Povinná položka | Popis |
+|---|---|---|---|---|---|
+| JePojisteny | xs:boolean | 1 | true/false | Ano | Zda je subjekt (povinný) v roli pojištěného |
+| JePojistnik | xs:boolean | 1 | true/false | Ano | Zda je subjekt (povinný) v roli pojistníka |
+| VysePlneni | Castka | | | Ano | Celková výše vyplaceného plnění subjektu (povinnému) |
+| VyseRezervy | Castka | | | Ne | Výše pojistitelem stanovené rezervy |
+| JePrijemce | xs:boolean | 1 | true/false | Ano | Zda je subjekt (povinný) jinou osobou, které vznikl nárok na pojistné plnění |
+| JePoskozeny | xs:boolean | 1 | true/false | Ano | Zda je subjekt (povinný) v roli poškozeného |
+| DatumVzniku | xs:date | 1 | YYYY-MM-DD | Ano | Datum vzniku pojistné události |
+| StavPU | StavPU | | | Ano | |
+| CisloPU | Max40Text | | | Ano | Číslo (označení) pojistné události |
+
+ci) Ostatní je nepovinný element, který obsahuje neomezený výskyt podřízeného elementu OstatniPohledavka. Podřízený element OstatniPohledavka obsahuje následující podřízené elementy:
+
+| Název | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| CisloSmlouvy | Max40Text | | Ano | Číslo smlouvy nebo identifikátor pohledávky |
+| Popis | Max255Text | | Ano | Stručný popis pohledávky |
+| Poznamka | xs:string | | Ne | Doplňková poznámka k pohledávce |
+| Castka | Castka | | Ano | Poslední známá alespoň přibližná hodnota pohledávky uváděná v CZK |
+
+6\. **Struktura datového souboru k exekučnímu příkazu**
+
+Datový soubor obsahuje jeden kořenový element elektronickyPrikaz, který obsahuje následující elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| identifikace | IdentifikaceDokumentu | Ano | 1 | | Identifikace dokumentu |
+| datumVydani | xs:date | Ano | 1 | YYYY-MM-DD | Datum vydání dokumentu |
+| obecneUdaje | Complex | Ano | 1 | | Obecné údaje dokumentu |
+| vystavce | Vystavce | Ano | 1 | | Údaje o vystaviteli |
+| povinny | Complex | Ano | 1 | | Údaje o povinném subjektu |
+| opravneny | Complex | Ano | 1..n | | Údaje o oprávněném subjektu |
+| Zustatek | Complex | Ano | 1 | | Informace o zůstatku |
+| pohledavka | Pohledavka | Ano | 1..n | | Seznam pohledávek |
+
+Podřízený element obecneUdaje obsahuje následující podřízený element:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| zakladniMena | KodMeny | Ano | | | Základní měna |
+
+Podřízený element povinny obsahuje následující podřízené elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| fyzicka_osoba | FyzickaOsoba | Podmíněně | 0..1 | | Povinné pokud se jedná o fyzickou osobu |
+| pravnicka_osoba | PravnickaOsoba | Podmíněně | 0..1 | | Povinné pokud se jedná o právnickou osobu |
+| status | xs:string | Ano | 1..2 | | Status povinného <br> Číselník: 1 = povinný<br> 2 = manžel |
+| postizene_majetky | Complex | Ano | 1 | | Seznam postiženého majetku |
+
+Podřízený element postizene_majetky obsahuje minimálně jeden výskyt podřízeného elementu majetek. Podřízený element majetek obsahuje následující podřízené elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| druh | DruhMajetku | Ano | 1 | | Druh majetku podle číselníku |
+| cislo_smlouvy | Max40Text | Ano | 1 | | Identifikátor majetku |
+| popis | xs:string | Ne | 0..1 | | Nepovinný popis majetku |
+
+Podřízený element opravneny obsahuje následující podřízené elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| fyzicka_osoba | FyzickaOsoba | Podmíněně | 0..1 | | Povinné pokud se jedná o fyzickou osobu |
+| pravnicka_osoba | PravnickaOsoba | Podmíněně | 0..1 | | Povinné pokud se jedná o právnickou osobu |
+
+Podřízený element Zustatek obsahuje následující podřízené elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| Castka | Castka | Ano | 1 | | Výše zůstatku v CZK |
+| Datum | Datum | Ano | 1 | | Datum zůstatku |
+
+7\. **Struktura datového souboru k sdělení finanční instituce po obdržení exekučního příkazu**
+
+Datový soubor obsahuje jeden kořenový element odpoved, který obsahuje následující elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| nevalidniSoubor | xs:string | Podmíněně | 0..1 | | Přítomno pouze, pokud soubor je nevalidní |
+| validniSoubor | IdentifikaceDokumentu | Podmíněně | 1 | | Přítomno pouze, pokud soubor je validní |
+| idZpracovani | Max40Text | Ano | 1 | | Identifikátor zpracování |
+| datumVydani | xs:date | Ano | 1 | YYYY-MM-DD | Datum vydání odpovědi |
+| kodPrijeti | KodPrijeti | Ano | 1 | 0, 1 | Kód přijetí souboru |
+| zprava | Max255Text | Ne | 0..1 | | Nepovinná zpráva, důvod neprovedení |
+| zpracovani | Complex | Ne | 1 | | Informace o zpracování |
+
+Podřízený element validniSoubor obsahuje následující podřízené elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| spisovaZnacka | Max40Text | Ano | 1 | | Spisová značka |
+| poradoveCislo | xs:string | Ano | 1 | | Pořadové číslo dokumentu |
+
+Podřízený element zpracovani obsahuje minimálně jeden výskyt podřízeného elementu majetek. Podřízený element majetek obsahuje následující podřízené elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| druh | DruhMajetku | Ano | 1 | | Druh majetku podle číselníku |
+| cislo_smlouvy | Max40Text | Ano | 1 | | Identifikátor majetku |
+| popis | xs:string | Ano | 1 | | Popis majetku |
+| kodZpracovani | KodZpracovani | Ano | 1 | 0, 1, 2 | Kód zpracování (blokace) |
+| zprava | Max255Text | Ne | 0..1 | | Nepovinná zpráva k zpracování |
+| beznyZustatek | Castka | Ano | 1 | | Poslední známý zůstatek |
+| mena | KodMeny | Ano | 1 | | Měna |
+| poradi | xs:int | Ano | 1 | Celé číslo | Pořadí exekučního příkazu |
+| stavKeDni | xs:date | Ano | 1 | YYYY-MM-DD | Platnost údajů k datu |
+
+8\. **Struktura datového souboru k usnesení o změně exekučního příkazu**
+
+Struktura datového souboru je identická s datovým souborem doprovázejícím exekuční příkaz s tím, že kořenový element je elektronickyPrikazZmena, který nad rámec obsahu elementu elektronickyPrikaz obsahuje element exekucniPrikaz, který je typem IdentifikaceDokumentu a jeho výskyt je povinný.
+
+9\. **Struktura datového souboru k usnesení o zrušení exekučního příkazu, usnesení o částečném zrušení exekučního příkazu a oznámení o skončení exekuce**
+
+Datový soubor obsahuje jeden kořenový element upravaExekuce, který obsahuje následující elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| identifikace | IdentifikaceDokumentu | Ano | 1 | | Identifikace dokumentu |
+| datumVydani | xs:date | Ano | 1 | YYYY-MM-DD | Datum vydání dokumentu |
+| druhUkonceni | DruhUkonceni | Ano | 1 | | Druh ukončení exekuce |
+| castka | Castka | Ne | 0..1 | | Částka pro částečné zastavení |
+| Zustatek | Complex | Ne | 0..1 | | Zbývající dlužná částka v případě částečného zastavení |
+| exekucniPrikaz | IdentifikaceDokumentu | Ano | 1 | | Identifikace exekučního příkazu |
+
+Podřízený element Zustatek obsahuje následující atributy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| Castka | Castka | Ano | 1 | | Výše zbývající dlužné částky v CZK |
+| Datum | Datum | Ano | 1 | | Datum, ke kterému je částka platná |
+
+10\. **Struktura datového souboru k vyrozumění o tom, že byly splněny podmínky podle § 52 odst. 3 zákona**
+
+Datový soubor obsahuje jeden kořenový element pravniMoc, který obsahuje následující elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| identifikace | IdentifikaceDokumentu | Ano | 1 | | Identifikace dokumentu |
+| datumVydani | xs:date | Ano | 1 | YYYY-MM-DD | Datum vydání dokumentu |
+| exekucniPrikaz | Complex | Ano | 1 | | Exekuční příkaz s datem právní moci |
+| nahrazeni_vule | IdentifikaceDokumentu | Ne | 0..1 | | Identifikace nahrazení vůle |
+| Zustatek | Complex | Ano | 1 | | Zbývající dlužná částka |
+| neucetniData | Complex | Ano | 1 | | Přehled vymáhaných povinností |
+
+Podřízený element exekucniPrikaz obsahuje následující elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| spisovaZnacka | Max40Text | Ano | 1 | | Spisová značka |
+| poradoveCislo | xs:string | Ano | 1 | | Pořadové číslo dokumentu |
+| pravniMoc | Datum | Ano | 1 | YYYY-MM-DD | Datum nabytí právní moci |
+
+Podřízený element Zustatek obsahuje následující atributy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| Castka | Castka | Ano | 1 | | Výše zbývající dlužné částky |
+| Datum | Datum | Ano | 1 | | Datum, ke kterému je částka platná |
+
+Podřízený element neucetniData obsahuje minimálně jeden výskyt podřízeného elementu pohledavka typu Pohledavka.
+
+11\. **Struktura datového souboru k vyčíslení vymáhané pohledávky**
+
+Datový soubor obsahuje jeden kořenový element vycisleni, který obsahuje následující elementy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| identifikace | IdentifikaceDokumentu | Ano | 1 | | Identifikace dokumentu |
+| datumVydani | xs:date | Ano | 1 | YYYY-MM-DD | Datum vydání dokumentu |
+| exekucniPrikaz | IdentifikaceDokumentu | Ano | 1 | | Identifikace exekučního příkazu |
+| nahrazeni_vule | IdentifikaceDokumentu | Ne | 0..1 | | Identifikace nahrazení vůle |
+| Zustatek | Complex | Ano | 1 | | Zbývající dlužná částka |
+| neucetniData | Complex | Ano | 1 | | Přehled vymáhaných povinností |
+
+Podřízený element Zustatek obsahuje následující atributy:
+
+| Název | Typ | Povinné | Rozsah | Povolený vzor | Popis |
+|---|---|---|---|---|---|
+| Castka | Castka | Ano | 1 | | Výše zbývající dlužné částky v CZK |
+| Datum | Datum | Ano | 1 | | Datum, ke kterému je částka platná |
+
+Podřízený element neucetniData obsahuje minimálně jeden výskyt podřízeného elementu pohledavka typu Pohledavka.
+
+### Příloha č. 4 k vyhlášce č. 418/2001 Sb.
+
+#### Formát a struktura datového souboru obsahujícího informace o exekučním příkazu a o vyrozumění o provedení exekuce – Česká správa sociálního zabezpečení a Úřad práce ČR
+
+Tato příloha stanoví definici dat obsažených v datovém souboru doprovázejícím běžně vydaný exekuční příkaz nebo vyrozumění o provedení exekuce, stejně tak pravidla pro samotné předávání dat.
+
+1\. Obecná pravidla k datovým souborům
+
+a) Datový soubor využívá syntaxe jazyka XML (eXtensible Markup Language).
+
+b) Soubor je kódován v UTF-8.
+
+c) U názvů elementů a atributů je nutné rozlišovat velká a malá písmena.
+
+d) Jeden datový soubor odpovídá jednomu exekučnímu příkazu a jedné osobě povinného nebo manžela povinného - příjemci postihované dávky, případně jednomu vyrozumění o splnění podmínek podle § 52 odst. 3 zákona (vyrozumění o provedení exekuce, případně o právní moci exekučního příkazu).
+
+e) Název datového souboru doprovázejícího exekuční příkaz je tvořen následovně (údaje v hranatých závorkách se nahradí skutečnými - bez závorek):
+
+epdv\_[číslo_exekutora]\_EX\_[kmen čísla jednacího]-[rok vydání]\_[číslo_listu]. xml
+
+název datového souboru s vyrozuměním o provedení exekuce:
+
+vpdv\_[číslo_exekutora]\_EX\_[kmen čísla jednacího]-[rok vydání]\_[číslo_listu]. xml
+
+f) Datový soubor je vždy odesílán společně v rámci jedné datové zprávy s elektronickým vyhotovením exekučního příkazu, případně vyrozuměním o provedení exekuce.
+
+g) Příjemce datového souboru přiloženého k exekučnímu příkazu zašle odesílateli zpět datovou zprávu ve formátu podle bodu 7.
+
+h) Datový soubor vyhovuje xsd definici, kterou zveřejní Ministerstvo práce a sociálních věcí.
+
+2\. Způsob předávání dat
+
+Při vyhotovení exekučního příkazu exekutor přiloží datový soubor a v rámci jedné zprávy odešle prostřednictvím Informačního systému datových schránek (ISDS).
+
+3\. Struktura datového souboru k exekučnímu příkazu
+
+a) Datový soubor obsahuje právě jeden element exPrikaz.
+
+b) Kořenový element *exPrikaz* povinně obsahuje *podelementy hlavicka, ucastnici, postizena_davka, povinnosti* a *vyplata*.
+
+c) Element *hlavicka* popisuje základní údaje o exekučním příkazu, může obsahovat *exekucni_tituly* a *povereni_ex*, a dále tyto elementy s daty:
+
+| Element | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| spzn_predcisli | String | 10 | ANO | Číslo exekutora |
+| spzn_kmen | String | 60 | ANO | Označení rejstříku „EX“ následované pořadovým číslem věci a posledním dvojčíslím kalendářního roku oddělené lomítkem |
+| spzn_koncovka | String | 10 | ANO | Číslo listu |
+| exekutor_ic | String | 10 | ANO | Identifikační číslo exekutora |
+| exekutor_jmeno | String | 100 | ANO | Jméno exekutora |
+| exekutor_prijmeni | String | 100 | ANO | Příjmení exekutora |
+| ep_vydan | Date | | ANO | Datum vydání exekučního příkazu |
+| ep_pravni_moc | Date | | NE | Datum nabytí právní moci exekučního příkazu |
+| druh_pohledavky | DruhPohledavky | 10 | ANO | Druh pohledávky podle bodu 5 (přednostní nebo nepřednostní) |
+| soubor_ep | String | 150 | ANO | Název souboru s vyhotovením exekučního příkazu (v datové zprávě) |
+| zpusob_odectu | DruhOdectu | 10 | ANO | Způsob odečtu podle bodu 5 (běžný, s odečtem, bez odečtu, celkový odečet) |
+| castka_odectu | Decimal | | NE | Případná srážená částka (je-li uveden způsob odečtu „s odečtem“) |
+| doh_vyse_srazky | Decimal | | NE | Dohodnutá výše srážky |
+| predani_prvni_platce | Date | | NE | Den doručení exekučního příkazu prvnímu plátci mzdy |
+
+d) Nepovinný element *exekucni_tituly* popisuje tituly, na základě kterých byl exekutor pověřen, obsahuje prázdné elementy *titul* (alespoň jeden) s těmito atributy:
+
+| Atribut | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| cis | Integer | | ANO | Pořadové číslo exekučního titulu |
+| cj | String | 50 | ANO | Číslo jednací exekučního titulu |
+| druh | String | 50 | NE | Druh exekučního titulu |
+| vydal | String | 200 | ANO | Popis subjektu, který vydal exekuční titul |
+| pm | Date | | ANO | Datum nabytí právní moci exekučního titulu |
+| vykonatelnost | Date | | ANO | Datum vykonatelnosti exekučního titulu |
+
+e) Nepovinný element *povereni_ex* nesoucí informace o pověření exekutora příslušným soudem, obsahuje prázdné elementy *povereni* (alespoň jeden) s těmito atributy:
+
+| Atribut | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| cj | String | 50 | ANO | Číslo jednací pověření exekutora |
+| vydal | String | 200 | ANO | Soud, který pověření vydal |
+| vydano | date | | ANO | Datum vydání pověření |
+
+f) Element *ucastnici* obsahuje data o účastnících exekučního řízení a dalších subjektech. Obsahuje prázdné elementy *ucastnik* s těmito atributy:
+
+| Atribut | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| druh | DruhUcastnika | 1 | ANO | Druh účastníka podle bodu 5 <br> (povinný, oprávněný, manžel, zástupce) |
+| cis | Integer | | ANO | Pořadové číslo účastníka |
+| nadr | Integer | | NE | Vazba zástupce na pořadové číslo účastníka |
+| pfo | DruhOsoby | 1 | ANO | Druh osoby podle bodu 5 <br> (právnická, fyzická osoba) |
+| firma | String | 150 | NE | Obchodní firma subjektu |
+| jmeno | String | 100 | NE | Jméno fyzické osoby |
+| prijmeni | String | 100 | NE | Příjmení fyzické osoby |
+| titulpred | String | 35 | NE | Titul před jménem |
+| titulza | String | 50 | NE | Titul za jménem |
+| narozen | Date | | NE | Datum narození fyzické osoby |
+| identifikator | String | 20 | NE | Hodnota identifikátoru osoby |
+| druh_id | DruhIdentifikatoru | 5 | NE | Druh identifikátoru osoby <br> (rodné číslo, IČO, případně další) |
+
+Pravidla pro označování osob:
+
+U osob je uveden identifikátor a jeho druh, tedy rodné číslo nebo IČO.
+
+Osoby jsou očíslovány v atributu cis, případné právní nebo jiné zastoupení je vyjádřeno v atributu nadr, kde je označen subjekt, ke kterému se zastoupení váže (hodnota jeho atributu cis). V elementu musí být dostatek údajů k jednoznačné identifikaci osoby, je tedy nutno dodržet tato pravidla:
+
+Právnická osoba je označena s pomocí IČO a obchodní firmy.
+
+Fyzická osoba je označena s pomocí:
+
+Jména, příjmení a rodného čísla
+
+nebo Jména, příjmení a IČO
+
+nebo Jména, příjmení, data narození a adresy místa trvalého pobytu, případně pobytu
+
+g) Je-li potřeba doplnit adresu subjektu, obsahuje element *ucastnik* prázdný element adresa s následujícími atributy:
+
+| Atribut | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| ulice | String | 100 | NE | Název ulice |
+| cp | String | 10 | NE | Číslo popisné |
+| co | String | 10 | NE | Číslo orientační |
+| ce | String | 10 | NE | Číslo evidenční |
+| obec | String | 450 | ANO | Název obce |
+| psc | String | 60 | ANO | Poštovní směrovací číslo |
+| stat | String | 3 | ANO | Stát, 3 písmenný kód podle ISO 3166-1 alpha-3 |
+| kod_adresy | String | 50 | NE | Případný kód adresního místa podle RUIAN |
+
+Pravidla pro označení adresy:
+
+Adresa je validní, obsahuje-li tyto informace:
+
+číslo popisné nebo číslo orientační nebo evidenční číslo
+
+a název obce a případně ulice, je-li adresní místo v nějaké ulici
+
+a poštovní směrovací číslo
+
+h) Element *postizena_davka* obsahuje jeden prázdný element *davka*, v kterém je pomocí atributu platce označen plátce dávky a pomocí atributu prijemce označen pořadovým číslem (atribut cis elementu ucastnik) ten účastník řízení, který vystupuje v roli povinného a je příjemcem postihovaného příjmu nebo dávky.
+
+| Atribut | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| platce | DruhPlatce | 4 | ANO | Označení plátce srážené dávky („CSSZ“, „UP“) |
+| prijemce | Integer | | ANO | Číselné označení příjemce srážené dávky (atribut „cis“ u subjektu) |
+
+i) Element *povinnosti* popisuje povinnosti vymáhané v rámci exekučního řízení, a tedy i výši pohledávky, která je vymáhána exekučním příkazem. Element povinnosti může obsahovat atributy:
+
+| Atribut | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| aktualni_vyse | Decimal | | NE | Aktuální hodnota vymáhané povinnosti |
+| k_datu | Date | | NE | Datum, ke kterému je aktuální hodnota vyjádřena |
+
+Element povinnosti dále obsahuje alespoň jeden prázdný podelement povinnost s těmito atributy:
+
+| Atribut | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| cis | Integer | | ANO | Pořadové číslo povinnosti |
+| nadr | Integer | | NE | Vazba příslušenství k jiné povinnosti (atribut „cis“) |
+| druh | DruhPovinnosti | | ANO | Druh vymáhané povinnosti podle bodu 5 |
+| castka | Decimal | | NE | Částka vymáhané povinnosti, případně základ u příslušenství |
+| mena | String | 3 | ANO | Měna vymáhané povinnosti (podle číselníku ČNB BA0010) |
+| interval | DruhUroceni | | NE | Interval u opakovaných plnění, případně u příslušenství (týdenní, denní, měsíční, roční – podle bodu 5) |
+| proc | Decimal | | NE | Procento pro výpočet ze základu |
+| od | Date | | NE | Den, od kdy je povinnost počítána (u příslušenství, případně opakovaného plnění) |
+| do | Date | | NE | Den, do kdy povinnost trvá, pokud není uvedeno, u příslušenství platí trvání do okamžiku zaplacení hlavní povinnosti |
+| repo | Boolean | | NE | Příznak výpočtu úroku s pomocí REPO sazby (v atributu „proc“ je poté uveden počet procentních bodů, o které je příslušná REPO sazba zvýšena) |
+| max | Decimal | | NE | Maximální výše příslušenství v daném intervalu „max_interval“ |
+| min | Decimal | | NE | Minimální výše příslušenství v daném intervalu „min_interval“ |
+| max_interval | DruhUroceni | | NE | Časový interval pro určení maximální částky příslušenství |
+| min_interval | DruhUroceni | | NE | Časový interval pro určení minimální částky příslušenství |
+| popis | String | 25<br> 5 | NE | Popis povinnosti (především pro druh „jine“) |
+
+Pravidla pro vyplňování atributů elementu povinnost:
+
+Jednotlivé povinnosti jsou očíslovány v atributu cis, případně je-li povinnost příslušenstvím jiné povinnosti, nebo z ní jinak vychází, je to vyjádřeno v atributu nadr, kde je označena povinnost, ke které se váže (hodnota jejího atributu cis).
+
+V atributu druh se nachází právě jedna z možných hodnot, podle kterých se mění požadavky na specifikaci dané povinnosti:
+
+| Druh | Nutné atributy |
+|---|---|
+| Jistina,<br> dluzne_vyzivne,<br> dluzne_osetrovne | mena, castka |
+| opakovane_plneni,<br> bezne_vyzivne,<br> bezne_osetrovne | mena, castka, interval |
+| urok_z_prodleni | mena, zaklad, proc, interval, od |
+| poplatek_z_prodleni | mena, zaklad, proc, interval, od |
+| Urok | mena, zaklad, proc, interval, od |
+| smluvni_pokuta | mena, castka, nebo zaklad, proc, interval, od |
+| naklady_predch_riz | mena, castka |
+| Naklady_odv_riz | mena, castka |
+| naklady_pr_zast | mena, castka |
+| naklady_ex | mena, castka |
+| Jiné | Popis |
+
+j) Element *vyplaty* obsahuje informace o bankovním nebo jiném spojení, kam má být odesíláno vymožené plnění, obsahuje jeden element *vyplata* s těmito atributy:
+
+| Atribut | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| ucet | String | 34 | ANO | Číslo účtu pro výplatu vymoženého plnění |
+| banka\_kod | String | 5 | ANO | Kód banky |
+| banka | String | 200 | NE | Název banky |
+| ss | Integer | | NE | Specifický symbol platby |
+| vs | Integer | | ANO | Variabilní symbol platby |
+| IBAN | String | 34 | NE | Kód IBAN |
+| bic | String | 40 | NE | Kód BIC |
+| stat | String | 3 | NE | Stát, 3 písmenný kód dle ISO 3166-1 alpha-3 |
+| id\_banky | Integer | | NE | Identifikátor banky |
+| pobocka | String | 250 | NE | Název pobočky banky, u které je účet zřízen |
+| mesto | String | 250 | NE | Město sídla banky |
+
+4\. Struktura datového souboru k vyrozumění o provedení exekuce / právní moci exekučního příkazu
+
+a) Datový soubor obsahuje právě jeden kořenový element *vyrozumeni*.
+
+b) Kořenový element vyrozumění povinně obsahuje elementy *hlavicka_ep*, *exekutor* a *subjekt_srazky*.
+
+c) Element *hlavicka_ep* a obsahuje informace o datu provedení exekuce, nebo o datu nabytí právní moci exekučního příkazu (nastane-li tento okamžik po datu, ke kterému může být exekuce provedena) ve smyslu § 46 odst. 6 zákona:
+
+| Element | Datový typ | Rozsah | Povinná položka | Popis |
+|---|---|---|---|---|
+| spzn_predcisli | String | 10 | ANO | Číslo exekutora |
+| spzn_kmen | String | 60 | ANO | Označení rejstříku „EX“ následované pořadovým číslem věci a posledním dvojčíslím kalendářního roku oddělené lomítkem |
+| spzn_koncovka | String | 10 | ANO | Číslo listu |
+| spzn_cl_ep | String | 5 | ANO | Číslo listu exekučního příkazu, který nabyl právní moci |
+| datum_vydani | Date | | ANO | Datum vydání vyrozumění |
+| exekutor_ic | String | 8 | ANO | IČO exekutora |
+| ep_vydan | Date | | ANO | Datum vydání exekučního příkazu |
+| ep_pravni_moc | Date | | ANO | Datum nabytí právní moci exekučního příkazu |
+| vp_soubor | String | 150 | ANO | Název souboru dokumentu s vyrozuměním |
+
+Pravidla pro vyplňování elementu hlavicka_ep:
+
+Elementy *spzn_predcisli*, *spzn_kmen*, *spzn_koncovka* a *ep_vydan* slouží pro identifikace jednotlivého exekučního příkazu, následně musí být vyplněno datum v elementu *ep_pravni_moc*. Element *vp_soubor* obsahuje název souboru, který tento datový soubor doprovází.
+
+d) Element *subjekt_srazky* obsahuje informace o osobě, vůči níž je vedena exekuce srážkou ze mzdy nebo jiného příjmu. Strukturou dat i pravidly pro vyplnění se element přesně shoduje s elementem *ucastnik* z bodu 3 písm. f), případně může obsahovat podelement *adresa* s uvedením adresy ve struktuře podle bodu 3 písm. g), je-li to potřeba pro ztotožnění osoby.
+
+5\. Speciální datové typy
+
+a) Datový typ *DruhPohledavk**y* může obsahovat pouze hodnoty typu String v rozsahu 12 znaků, navíc pouze hodnoty odpovídající tomuto konečnému výčtu:
+
+PREDNOSTNI, NEPREDNOSTNI
+
+b) Datový typ *DruhUcastnika* označuje postavení účastníka v exekučním řízení, může obsahovat pouze hodnoty typu String v rozsahu 2 znaky, navíc pouze hodnoty odpovídající tomuto konečnému výčtu:
+
+P – povinný, M – manžel povinného, O – oprávněný, PZ – právní zástupce, OZ – obecný zmocněnec, ZZ – zákonný zástupce
+
+c) Datový typ *DruhOsoby* označuje status osoby, může obsahovat pouze hodnoty typu String v rozsahu 2 znaky, navíc pouze hodnoty odpovídající tomuto konečnému výčtu:
+
+P – právnická osoba, F – fyzická osoba
+
+d) Datový typ *DruhPovinnost**i* označuje povinnost, může obsahovat pouze hodnoty typu String v rozsahu 20 znaků, navíc pouze hodnoty odpovídající tomuto konečnému výčtu:
+
+jistina, opakovane_plneni, bezne_vyzivne, dluzne_vyzivne, bezne_osetrovne, dluzne_osetrovne, urok_z_prodleni, poplatek_z_prodleni, urok, smluvni_pokuta, naklady_predch_riz, naklady_pr_zast, naklady_odvolaci_riz, naklady_ex, jine
+
+e) Datový typ *DruhUroceni* označuje povinnost, může obsahovat pouze hodnoty typu String v rozsahu 2 znaky, navíc pouze hodnoty odpovídající tomuto konečnému výčtu:
+
+D – denní, T – týdenní, M – měsíční, R – roční
+
+f) Datový typ DruhIdentifikatoru označuje identifikátor účastníka, může obsahovat pouze hodnoty typu String v rozsahu 5 znaků, a to RC nebo ICO. V případě zavedení jiného vhodného obecně užívaného identifikátoru, může být seznam rozšířen.
+
+g) Datový typ DruhPlatce označuje plátce srážené dávky, může obsahovat pouze hodnoty typu String v rozsahu 5 znaků, navíc pouze hodnoty odpovídající tomuto konečnému výčtu: CSSZ, UP
+
+h) Datový typ DruhOdectu označuje způsob odečtu (běžný, s odečtem, bez odečtu, celkový odečet), může obsahovat pouze hodnoty typu String v rozsahu 15 znaků, navíc pouze hodnoty odpovídající tomuto konečnému výčtu: bezny, s_odectem, bez_odectu, cela_davka.
+
+6\. Běžné datové typy
+
+a) Datový typ String odpovídá alfanumerickému řetězci, o maximální délce určené sloupcem „Rozsah“ v tabulkách popisujících jednotlivé elementy a atributy.
+
+b) Datový typ Integer odpovídá celému číslu.
+
+c) Datový typ Decimal odpovídá desetinnému číslu, desetinná část je oddělena znakem tečka.
+
+d) Datový typ Boolean odpovídá výčtovému typu s přípustnými hodnotami 0 a 1 (případně true a false).
+
+e) Datový typ Date odpovídá zápisu data v pořadí rok, měsíc a den (RRRR-MM-DD).
+
+7\. Struktura odpovědi na datové soubory podle bodu 3
+
+a) Datový soubor s odpovědí na zaslaný exekuční příkaz obsahuje právě jeden element exPrikazOdpoved, v němž je specifikován původní exekuční příkaz a pořadí vymáhané pohledávky
+
+b) Kořenový element *exPrikazOdpoved* obsahuje elementy:
+
+| Element | Datový typ | Rozsah | Povinná <br> položka | Popis |
+|---|---|---|---|---|
+| spzn_predcisli | String | 10 | ANO | Číslo exekutora |
+| spzn_kmen | String | 60 | ANO | Označení rejstříku „EX“ následované pořadovým číslem věci a posledním dvojčíslím kalendářního roku oddělené lomítkem |
+| spzn_koncovka | String | 10 | ANO | Číslo listu dokumentu, na který je reagováno (exekuční příkaz) |
+| ep_predchazi | Integer | | ANO | Informace o počtu příkazů, na které je nebo bude povinnému sráženo, které předchází exekuční příkaz, ke kterému se váže tato odpověď. 0 - žádný. |
+| poznamka | String | 1000 | NE | Další informace o srážkách |
+
+### Příloha č. 5 k vyhlášce č. 418/2001 Sb.
+
+#### Formát a struktura datového souboru obsahujícího informace o exekučním příkazu a o vyrozumění o provedení exekuce – peněžní ústav
+
+a) Datový soubor využívá syntaxe jazyka XML (eXtensible Markup Language).
+
+b) Soubor je kódován v UTF-8.
+
+c) Jeden datový soubor odpovídá jednomu exekučnímu příkazu a jedné osobě povinného nebo manžela povinného - majiteli účtu, případně jednomu vyrozumění o splnění podmínek podle § 52 odst. 3 zákona (vyrozumění o provedení exekuce, případně o právní moci exekučního příkazu).
+
+d) Název datového souboru doprovázejícího exekuční příkaz je tvořen následovně (údaje v hranatých závorkách se nahradí skutečnými - bez závorek):
+
+EU\_[číslo_exekutora]\_EP\_[datum ve formátu YYYYMMDD]\_[jedinečné číslo dokumentu pro daný den, ve kterém byl dokument vydán, doplněné nulami zleva na 5 míst]\_[kód banky, která vede postihovaný účet]\_V.xml
+
+název datového souboru s vyrozuměním o splnění podmínek podle § 52 odst. 3 exekučního řádu:
+
+EU\_[číslo_exekutora]\_PM\_[datum ve formátu YYYYMMDD]\_[jedinečné číslo dokumentu pro daný den, ve kterém byl dokument vydán, doplněné nulami zleva na 5 míst]\_[kód banky, která vede postihovaný účet]\_V.xml
+
+#### TYPY DATOVÝCH SOUBORŮ
+
+1\. Datový soubor Definiční struktura exekučního příkazu a jeho změny
+
+• Definuje jednoduché i komplexní datové typy
+
+Jednoduché datové typy
+
+Jednoduché datové typy
+
+| název | datový typ | rozsah | hodnota | Popis |
+|---|---|---|---|---|
+| NeprazdnyRetezec | string | | | Neprázdný řetězec, délka větší či rovnající se 1 |
+| PrazdnyElement | string | 0 | | Prázdný řetězec |
+| KodMeny | string | 3 | | Kód měny, pouze 3 velká písmena |
+| KodStatu | string | 2 | | Kód státu, pouze 2 velká písmena |
+| NumerickyRetezec | string | | | Pouze číslice |
+| CisloEvidencni | string | | | „E“ a čísla |
+| TelefonniCislo | string | 13 | | Telefonní číslo ve tvaru<br> +XXX XXXXXXXXX |
+| TypVystavce | string | | SOUDNI_EXEKUTOR – soudní exekutor | Číselník typů výstavců. <br> Podporované hodnoty: |
+| KodVystavce | string | 3 | | 3 číslicový kód výstavce exekučního příkazu |
+| PlatebniSymbol | string | 10 | | 1 až 10 čísel |
+| IC | string | 8 | | Identifikační číslo exekutora |
+| StatusMajitele | string | | POVINNY | P - Povinný |
+| | | | MANŽEL_KA | M – Manžel/manželka |
+| | | | SPOLUDLUZNIK | S – Spoludlužník |
+
+Komplexní datové typy
+
+Element Common/CisloUctu
+
+| element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| predcisli | String | 6 | Ne | Předčíslí čísla účtu |
+| cisloUctu | String | 10 | Ano | Číslo účtu |
+| kodBanky | String | 4 | Ano | Kód banky |
+
+Element Common/IdentifikaceDokumentu
+
+| element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| spisovaZnacka | NeprazdnyRetezec | | Ano | ID exekučního případu, např. 067 EX 1243/13 |
+| poradoveCislo | NeprazdnyRetezec | | Ano | jednoznačné ID dokumentu v rámci jednoho případu |
+
+Element Common/Ucet
+
+| Element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| cisloUctu | CisloUctu | | Ano | Číslo účtu ve tvaru PPPPPP-CCCCCCCCCC/KKKK resp. CCCCCCCCCC/KKKK |
+| poradi | positive integer | | Ne | Pořadí bude doplněno pouze v případě, že je povinný majitelem účtu. Pořadí účtů povinných musí být unikátní i v případě více povinných (povinný – 1, Manžel – 2, Povinný – 3, 4, atd.). |
+
+Element Common/Adresa
+
+<table><tbody><tr><th>Element</th><th>datový typ</th><th>rozsah</th><th>povinná</th><th>popis</th></tr><tr><td>ulice</td><td>NeprazdnyRetezec</td><td></td><td>Ne</td><td>Ulice, nepovinný údaj</td></tr><tr><td>budova/cisloPopisne</td><td>NumerickyRetezec</td><td></td><td>Ne</td><td rowspan="2">Určení budovy. Všechny elementy jsou nepovinné, ale alespoň jedno z <br> cisloPopisne, <br> cisloOrientacni,</td></tr><tr><td>budova/cisloOrientacni</td><td>NeprazdnyRetezec</td><td></td><td>Ne</td></tr><tr><td>budova/cisloEvidencni</td><td>CisloEvidencni</td><td></td><td>Ne</td><td>CisloEvidencni musí být vyplněno. Jediná povolená kombinace 2 hodnot je vyplnění cisloPopisne a cisloOrientacni.</td></tr><tr><td>obec</td><td>NeprazdnyRetezec</td><td></td><td>Ano</td><td>Město nebo obec</td></tr><tr><td>psc</td><td>String</td><td>5</td><td>Ano</td><td>PSČ</td></tr><tr><td>stat</td><td>KodStatu</td><td></td><td>Ano</td><td>Dvouznakový kód státu dle ISO 3166-1; Česká republika: CZ</td></tr></tbody></table>
+
+Element Common/JmenoPrijmeni
+
+| Element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| jmeno | NeprazdnyRetezec | | Ano | Jméno osoby |
+| prijmeni | NeprazdnyRetezec | | Ano | Příjmení osoby |
+
+Element Common/Osoba
+
+Element Common/ZastupitelnaOsoba popisuje osobu (libovolného typu – fyzická, FOP, právnická), která může být zastupována jinou osobou, opět libovolného typu.
+
+| Element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| osoba | Osoba | | Ano | |
+| zastupce | Osoba | | Ne | |
+
+Element Common/KontaktniOsoba
+
+| Element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| jmenoPrijmeni | JmenoPrijmeni | | Ne | Jméno a příjmení kontaktní osoby |
+| funkce | NeprazdnyRetezec | | Ne | Funkce osoby v organizaci/úřadě |
+| telefon | TelefonniCislo | | Ne | Telefon kontaktní osoby včetně mezinárodní předvolby (+420775332675) |
+
+Element Common/MajitelUctu
+
+| Element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| osoba | ZastupitelnaOsoba | | Ano | |
+| status | StatusMajitele | | Ano | Status majitele účtu – (P)ovinný / (M)anžel/ka / (S)poludlužník |
+| ucet | Ucet | | Ano | Účty osoby - majitele |
+
+Element Common/FyzickaOsoba popisuje fyzickou osobu. Identifikace: alespoň jedno z: {rodné číslo (preferované), datum narození} je povinné
+
+| Element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| rodneCislo | String | 10 | Ne | Rodné číslo osoby ve formátu 8752025403 resp. 470328688 (bez lomítka). Rodné číslo a datum narození jsou nepovinné, ale alespoň jedno musí být uvedeno. V opačném případě je zpráva nevalidní. |
+| datumNarozeni | Date | | Ne | Datum narození osoby ve formátu yyyy-mm-dd, např. 1987-02-02 |
+| jmenoPrijmeni | JmenoPrijmeni | | Ano | Jméno a příjmení fyzické osoby |
+| bydliste | Adresa | | Ano | Adresa bydliště osoby |
+| telefon | TelefonniCislo | | Ne | Kontaktní telefon na osobu |
+
+Element Common/FyzickaOsobaPodnikatel
+
+| Element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| IC | Simple | | Ano | IČ fyzické osoby - podnikatele |
+| jmenoPrijmeni | JmenoPrijmeni | | Ne | Jméno a příjmení fyzické osoby podnikatele („FOP“). Jméno a příjmení a název jsou nepovinné, ale alespoň jedno musí být uvedeno. V opačném případě je zpráva nevalidní. |
+| nazev | NeprazdnyRetezec | | Ne | Obchodní firma FOP |
+| sidlo | Adresa | | Ano | Sídlo FOP |
+| telefon | TelefonniCislo | | Ne | Kontaktní telefon na FOP |
+
+Element Common/PravnickaOsoba
+
+| Element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| IC | Simple | | Ano | IČ právnické osoby |
+| nazev | NeprazdnyRetezec | | Ano | Název právnické osoby |
+| sidlo | Adresa | | Ano | Adresa (sídlo) právnické osoby |
+| kontakt | KontaktniOsoba | | Ne | Kontaktní osoba v právnické osobě, mělo by se to řídit především metadaty a ČJ a proto není nezbytně nutné pracovat s kontaktní osobou v rámci organizace/úřadu. |
+
+Element Common/Vystavce
+
+| Element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| PravnickaOsoba | | | Ano | |
+| typVystavce | TypVystavce | | Ano | Typ výstavce. Podporované hodnoty:<br> SOUDNI_EXEKUTOR – soudní exekutor |
+| kodVystavce | KodVystavce | 3 | Ano | 3 číslicový kód výstavce exekučního příkazu |
+
+2\. Datový soubor Elektronický exekuční příkaz
+
+• Substituční skupina Common.xsd
+
+Element elektronickyPrikaz definuje strukturu údajů elektronického příkazu, dle specifikace výstavce pro banku.
+
+| element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| identifikace | IdentifikaceDokumentu | | Ano | Identifikační údaje exekučního příkazu |
+| datumVydani | Date | | Ano | Datum vydání exekučního příkazu ve formátu yyyy-mm-dd, např. 2014-04-05. Mandatorní údaj, pro zpracování nemá význam |
+| obecneUdaje | zakladniMena | | Ano | Obecné údaje exekučního příkazu |
+| vystavce | Výstavce | | Ano | Výstavce exekučního příkazu |
+| majitelUctu | MajitelUctu | | Ano | Majitelé a jejich účty |
+| opravneny | ZastupitelnaOsoba | | Ano | Oprávněný – účastník (účastníci) exekučního řízení, v jehož prospěch je toto vedeno |
+| pohledavka | Pohledávka | | Ano | Pohledávka v exekuci |
+
+Element elektronickyPrikaz/obecneUdaje/zakladniMena popisuje kód měny.
+
+| element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| SystemVypoctu | String | | Ano | Kód měny dle ISO 4217. <br> Mandatorní údaj, měna by měla odpovídat měně hlavní pohledávky. Další propočty jsou právě v této měně. Česká koruna: CZK |
+
+Jednoduchý datový typ elektronickyPrikaz/SystemVypoctu pro výpočet systému úroků.
+
+| element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| zakladniMena | KodMeny | 4 | Ano | Systém výpočtu úroků |
+
+Jednoduchý datový typ elektronickyPrikaz/Perioda
+
+| element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| Perioda | String | 4 | Ano | Perioda vyplácení pravidelné částky |
+
+Element elektronickyPrikaz/Pohledavka popisuje základní strukturu pohledávky.
+
+| element | datový typ | Rozsah | povinná | popis |
+|---|---|---|---|---|
+| id | positive integer | | Ano | Jednoznačný identifikátor položky - důležité pro identifikaci v případě změny |
+| castka | Decimal | | Ano | Jistina, základ pro výpočet úroku, pevná částka |
+| mena | KodMeny | | Ano | Měna pohledávky |
+| typ | TypPohledavky | | Ano | Určuje, o jaký typ položky jde – 4 základní typy, Jistina, Jistina s úrokem, Samostatný úrok, Opakující se pevná částka. |
+| poradi | positive integer | | Ano | Priorita/Pořadí – Priorita pro výpočet při placení |
+| platebniUdaje | PlatebniUdaje | | Ano | Platební údaje pro úhradu pohledávky |
+
+Element elektronickyPrikaz/PlatebniUdaje definuje platební údaje pro úhradu pohledávky.
+
+| element | datový typ | rozsah | povinná | Popis |
+|---|---|---|---|---|
+| ucetPrijemce | CisloUctu | | Ano | Účet, na který má být pohledávka uhrazena |
+| variabilniSymbol | PlatebniSymbol | | Ne | Variabilní symbol pro úhradu pohledávky |
+| specifickySymbol | PlatebniSymbol | | Ne | Specifický symbol pro úhradu pohledávky |
+
+Element elektronickyPrikaz/TypPohledavky určuje, o jaký typ položky jde – 4 základní typy, Jistina, Jistina s úrokem, Samostatný úrok, Opakující se pevná částka.
+
+| element | datový typ | rozsah | povinná | Popis |
+|---|---|---|---|---|
+| Jistina | PrazdnyElement | | Ano | |
+| pravidelnaCastka | PravidelnaCastka | | Ano | |
+| jistinaVcetneUroku | UrocenyTyp | | Ano | |
+| samostatnyUrok | UrocenyTyp | | Ano | |
+
+Element elektronickyPrikaz/UrocenyTyp definuje výši pohledávky, která se pravidelně navyšuje úročením. Výsledná částka se omezuje minimální a maximální zasílanou částkou.
+
+| element | datový typ | rozsah | povinná | Popis |
+|---|---|---|---|---|
+| systemVypoctuUroku | SystemVypoctu | | Ano | Určuje systém (periodu) výpočtu úroků |
+| urokovaSazba | Decimal | | Ano | Sazba vyjádřená v procentech, v případě výpočtu dle REPO sazby pak výše odchylky od REPO sazby (Ano pouze v případě, že vyžadují úročení) |
+| datumOd | Date | | Ano | Počátek periody pro výpočet úroku |
+| datumDo | Date | | Ne | Konec periody pro výpočet úroku; nevyplněno znamená "do splacení" |
+| Min | Decimal | | Ne | Minimální zasílaná částka |
+| Max | Decimal | | Ne | Maximální zasílaná částka |
+
+Jednoduchý datový typ elektronickyPrikaz/SystemVypoctu definuje výčet možných period výpočtu úroků.
+
+| hodnota | Popis |
+|---|---|
+| U0001 | Denní |
+| U0007 | Týdenní |
+| U0014 | Čtrnáctidenní |
+| U0100 | Měsíční |
+| U0300 | Čtvrtletní |
+| U0600 | Pololetní |
+| U1200 | Roční |
+| R0001 | REPO - FIX |
+| R0002 | Repo - pohyblivá |
+
+Element elektronickyPrikaz/PravidelnaCastka definuje výši pohledávky, která se pravidelně navyšuje o danou pevnou částku. Výsledná částka se omezuje minimální a maximální zasílanou částkou.
+
+| element | datový typ | rozsah | povinná | Popis |
+|---|---|---|---|---|
+| perioda | Perioda | | Ano | Perioda navyšování pohledávky |
+| datumOd | Date | | Ano | Počátek období pro začátek výpočtu výše pohledávky |
+| datumDo | Date | | Ne | Konec období pro výpočet výše pohledávky |
+| min | Decimal | | Ne | Minimální zasílaná částka |
+| max | Decimal | | Ne | Maximální zasílaná částka |
+
+Jednoduchý datový typ elektronickyPrikaz/Perioda výčtem definuje vyplácení pravidelné částky
+
+| hodnota | Popis |
+|---|---|
+| U0001 | Denní |
+| U0007 | Týdenní |
+| U0014 | Čtrnáctidenní |
+| U0100 | Měsíční |
+| U0300 | Čtvrtletní |
+| U0600 | Pololetní |
+| U1200 | Roční |
+| R0001 | REPO - FIX |
+| R0002 | Repo - pohyblivá |
+
+3\. Datový soubor Právní moc
+
+• Substituční skupina Common.xsd
+
+• Kořenový element pravniMoc
+
+| element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| identifikace | IdentifikaceDokumentu | | Ano | Identifikační údaje právní moci |
+| datumVydani | Date | | Ano | Datum nabytí právní moci ve formátu yyyy-mm-dd, např. 2014-04-05. Mandatorní údaj, pro zpracování nemá význam |
+| exekucniPrikaz | IdentifikaceDokumentu | | Ano | Identifikace exekučního příkazu, ke kterému se váže právní moc |
+| neucetniData | NeucetniDataEP | | Ne | Neúčetní data EP v rozsahu Povinný, Oprávněný a Výstavce EP shodně s Exekučním příkazem. Pouze pro účely konverze datového souboru na textový dokument. Při elektronickém zpracování nebudou tato neúčetní data zpracovávána. |
+
+Element pravniMoc /NeucetniDataEP
+
+| element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| vystavce | PravnickaOsoba | | Ano | Výstavce exekučního příkazu |
+| majitelUctu | MajitelUctu | | Ano | Majitelé a jejich účty |
+| opravneny | ZastupitelnaOsoba | | Ano | Oprávněný – účastník (účastníci) exekučního řízení, v jehož prospěch je toto vedeno |
+
+4\. Datový soubor Odpověď banky
+
+• Substituční skupina Common.xsd
+
+Element Odpoved je abstraktní (obecný) typ pro odpovědi. Vždy je nutné použít konkrétní typ (nevalidniSoubor/validniSoubor).
+
+| element | datový typ | rozsah | povinná | popis |
+|---|---|---|---|---|
+| nevalidniSoubor | String | | Výběr | Pokud se nepodaří validovat soubor, identifikuje se názvem. |
+| validniSoubor | IdentifikaceDokumentu | | Výběr | Pokud se podaří validovat soubor, identifikuje se číslem jednacím (spisová značka + pořadové číslo listu). |
+| idPridelenoBankou | String | | Ne | ID přiděleno bankou – použité pro zpětnou identifikaci |
+| datumVydaniBankou | Date | | Ano | Datum zpracování v bance |
+| kodPrijeti | String | | Ano | Obecný kód vyjadřující, zda banka dokument přijala ke zpracování nebo jej odmítla. Kód vyjadřující vlastní výsledek zpracování je dále v odpovědi (v elementu pro konkrétní typ dokumentu, na který banka odpovídá). |
+| zprava | String | | Ne | Libovolný text, který si banka přeje sdělit |
+
+Element Odpoved/OdpovedNaPravniMoc popisuje speciální typ odpovědi – odpověď na přijetí právní moci. Rozšiřuje (dědí) obecnou odpověď, avšak rozšíření je prázdné.
+
+| element | datový typ | rozsah | povinná | Popis |
+|---|---|---|---|---|
+| Odpoved | | | Ano | |
+
+Element Odpoved/OdpovedNaExekucniPrikaz je speciální typ odpovědi – odpověď na exekuční příkaz. Rozšiřuje (dědí) obecnou odpověď o informace týkající se pouze zpracování exekučního příkazu.
+
+| element | datový typ | Rozsah | povinná | Popis |
+|---|---|---|---|---|
+| Odpoved | | | Ano | |
+| kodZpracovaniEP | KodZpracovaniEP | | Ano | Specifický kód zpracování exekučního příkazu |
+| zpracovaniUctu | ZpracovaniUctu | | Ano | Výsledek zpracování na konkrétním účtu |
+
+Element Odpoved/OdpovedNaExekucniPrikaz/ZpracovaniUctu/cisloUctu
+
+| element | datový typ | rozsah | povinná | Popis |
+|---|---|---|---|---|
+| predcisli | string | | Ne | Předčíslí účtu |
+| cisloUctu | string | 10 | Ano | Číslo účtu |
+| kodBanky | string | 4 | Ano | Kód banky |
+
+Element Odpoved/NeuspesneZpracovaniUctu je speciální typ pro informace o neúspěšném zpracování na konkrétním účtu. Rozšiřuje (dědí) obecný typ o informace týkající se pouze neúspěšného zpracování, avšak rozšíření je prázdné.
+
+| element | datový typ | rozsah | povinná | Popis |
+|---|---|---|---|---|
+| ZpracovaniUctu | | | Ano | |
+
+Element Odpoved/UspesneZpracovaniUctu je speciální typ pro informace o úspěšném zpracování na konkrétním účtu. Rozšiřuje (dědí) obecný typ o informace týkající se pouze úspěšného zpracování, kdy byl účet nalezen a je možné k němu poskytnout informace.
+
+| element | datový typ | Rozsah | povinná | Popis |
+|---|---|---|---|---|
+| ZpracovaniUctu | | | Ano | |
+| beznyZustatek | String | | Ano | Částka zůstatku na účtu by měla být konečná ke dni uvedenému v datu. Pokud je běžný zůstatek záporný, uvádí se 0. |
+| mena | KodMeny | | Ano | Měna účtu |
+| predchoziEP | Boolean | | Ano | Indikace předchozích EP na účtu |
+| vysePredchozichEP | Decimal | | Ne | Zbývající výše všech vymáhaných pohledávek doručených D-l a starších. Uvádí se v měně účtu. Povinné, pokud je predchoziEP = true. |
+| stavKeDni | Date | | Ano | Udává, k jakému datu se vztahuje běžný zůstatek a suma předchozích exekucí. |
+
+Jednoduché datové typy
+
+| element | datový typ | hodnota | Popis |
+|---|---|---|---|
+| KodPrijetiDokumentu | String | 001 | Dokument přijat ke zpracování |
+| | String | 500 | Dokument odmítnut - nesplňuje formální kritéria. Neprošel validačními kritérii nebo jej např. nelze napárovat na odkazovaný dokument. |
+| | String | 999 | Obecná zpráva (v poli Zpráva) - v případě, že se nejedná o odpověď na konkrétní dokument |
+| KodZpracovaniEP | string | 010 | EP zpracován, banka jej dále eviduje (detaily blokací jsou sděleny u jednotlivých účtů) |
+| | String | 510 | EP odmítnut, banka jej zpracovala, ale dále jej neeviduje |
+| KodZpracovaniUctu | String | 011 | Blokace na účtu provedena |
+| | String | 511 | Účet nenalezen |
+| | String | 512 | Účet ukončen |
+| | String | 513 | Daný typ účtu nepodléhá režimu PPzU |
+
+### Příloha č. 6 k vyhlášce č. 418/2001 Sb.
+
+#### Vzory předkládacích zpráv
+
+#### ![sbcr2001c156z0418_2012c184z0491p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/824955/NAHLED/ZOBRAZ/sbcr2001c156z0418_2012c184z0491p002u001)
+
+#### ![sbcr2001c156z0418_2012c184z0491p002u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/824957/NAHLED/ZOBRAZ/sbcr2001c156z0418_2012c184z0491p002u002)
+
+#### ![sbcr2001c156z0418_2012c184z0491p002u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/824959/NAHLED/ZOBRAZ/sbcr2001c156z0418_2012c184z0491p002u003)
+
+### Příloha č. 7 k vyhlášce č. 418/2001 Sb.
+
+#### Vzory písemností v exekučním řízení
+
+Seznam vzorů písemností:
+
+1a. vzor vyrozumění o zahájení exekuce pro povinného – vymožení peněžitého plnění,
+
+1b. vzor vyrozumění o zahájení exekuce pro povinného – vymožení nepeněžitého plnění,
+
+1c. vzor vyrozumění o zahájení exekuce pro oprávněného,
+
+2\. vzor vyrozumění o zahájení exekuce – zřízení exekutorského zástavního práva,
+
+3\. vzor exekučního příkazu k provedení exekuce srážkami ze mzdy a jiných příjmů,
+
+4\. vzor exekučního příkazu k provedení exekuce přikázáním pohledávky povinného z účtu u peněžního ústavu,
+
+5\. vzor exekučního příkazu k provedení exekuce přikázáním pohledávky z účtu manžela povinného u peněžního ústavu,
+
+6\. vzor exekučního příkazu k provedení exekuce přikázáním jiné peněžité pohledávky,
+
+7\. vzor exekučního příkazu k provedení exekuce postižením jiných majetkových práv (vydání nebo dodání movitých věcí),
+
+8\. vzor exekučního příkazu k provedení exekuce postižením jiných majetkových práv (postižení účasti povinného ve veřejné obchodní společnosti, komplementáře v komanditní společnosti nebo účasti povinného ve společnosti s ručením omezeným, v družstvu a komanditisty v komanditní společnosti, není-li jejich podíl převoditelný),
+
+9\. vzor exekučního příkazu k provedení exekuce postižením jiných majetkových práv (postižení účasti povinného ve společnosti s ručením omezeným, v družstvu a komanditisty v komanditní společnosti, je-li jejich podíl převoditelný),
+
+10\. vzor exekučního příkazu k provedení exekuce prodejem movitých věcí,
+
+11\. vzor exekučního příkazu k provedení exekuce prodejem nemovitých věcí,
+
+12\. vzor exekučního příkazu k provedení exekuce postižením obchodního závodu,
+
+13\. vzor exekučního příkazu k provedení exekuce správou nemovité věci,
+
+14\. vzor exekučního příkazu k provedení exekuce pozastavením řidičského oprávnění,
+
+15\. vzor exekučního příkazu k provedení exekuce vyklizením,
+
+16\. vzor exekučního příkazu k provedení exekuce odebráním věci,
+
+17\. vzor exekučního příkazu k provedení exekuce rozdělením společné věci (prodej společné movité věci),
+
+18\. vzor exekučního příkazu k provedení exekuce rozdělením společné věci (prodej společné nemovité věci),
+
+19\. vzor exekučního příkazu k provedení exekuce rozdělením společné věci (rozdělení společné věci jinak než prodejem),
+
+20\. vzor exekučního příkazu k provedení exekuce provedením prací a výkonů (provedení práce, kterou může vykonat někdo jiný než povinný),
+
+21\. vzor exekučního příkazu k provedení exekuce provedením prací a výkonů (nezastupitelné jednání),
+
+22\. vzor exekučního příkazu ke zřízení exekutorského zástavního práva,
+
+23\. vzor příkazu k úhradě nákladů exekuce.
+
+#### Vzor 1a
+
+##### ![sbcr2001c156z0418_2024c311z0311u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026429/NAHLED/ZOBRAZ/sbcr2001c156z0418_2024c311z0311u001)
+
+#### Vzor 1b
+
+##### ![sbcr2001c156z0418_2024c311z0311u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026427/NAHLED/ZOBRAZ/sbcr2001c156z0418_2024c311z0311u002)
+
+#### Vzor 1c
+
+##### ![sbcr2001c156z0418_2024c311z0311u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026425/NAHLED/ZOBRAZ/sbcr2001c156z0418_2024c311z0311u003)
+
+#### Vzor 2
+
+##### ![sbcr2001c156z0418_2024c311z0311u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/1026423/NAHLED/ZOBRAZ/sbcr2001c156z0418_2024c311z0311u004)
+
+#### Vzor 3
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825475/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u003)
+
+#### Vzor 4
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u004.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825477/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u004)
+
+#### Vzor 5
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u005.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825479/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u005)
+
+#### Vzor 6
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u006.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825481/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u006)
+
+#### Vzor 7
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u007.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825483/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u007)
+
+#### Vzor 8
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u008.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825485/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u008)
+
+#### Vzor 9
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u009.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825487/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u009)
+
+#### Vzor 10
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u010.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825489/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u010)
+
+#### Vzor 11
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u011.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825491/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u011)
+
+#### Vzor 12
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u012.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825493/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u012)
+
+#### Vzor 13
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u013.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825495/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u013)
+
+#### Vzor 14
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u014.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825497/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u014)
+
+#### Vzor 15
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u015.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825499/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u015)
+
+#### Vzor 16
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u016.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825501/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u016)
+
+#### Vzor 17
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u017.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825503/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u017)
+
+#### Vzor 18
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u018.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825505/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u018)
+
+#### Vzor 19
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u019.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825507/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u019)
+
+#### Vzor 20
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u020.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825509/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u020)
+
+#### Vzor 21
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u021.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825511/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u021)
+
+#### Vzor 22
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u022.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825897/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u022)
+
+#### Vzor 23
+
+##### ![sbcr2001c156z0418_2017c166z0461p005u023.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825899/NAHLED/ZOBRAZ/sbcr2001c156z0418_2017c166z0461p005u023)
+
+### Příloha č. 8 k vyhlášce č. 418/2001 Sb.
+
+![sbcr2001c156z0418_2023c185z0394u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/825901/NAHLED/ZOBRAZ/sbcr2001c156z0418_2023c185z0394u001)
+
+---
+
+<sup>1</sup>) § 44 zákona č. 283/1991 Sb., o Policii České republiky, ve znění zákona č. 105/2000 Sb. a zákona č. 120/2001 Sb.
+
+<sup>2</sup>) § 28a až 28g vyhlášky č. 37/1992 Sb., o jednacím řádu pro okresní a krajské soudy, ve znění pozdějších předpisů.
+
+<sup>3</sup>) Vyhláška č. 37/1992 Sb., ve znění vyhlášky č. 584/1992 Sb., vyhlášky č. 194/1993 Sb., vyhlášky č. 246/1995 Sb., vyhlášky č. 278/1996 Sb., vyhlášky č. 234/1997 Sb. a vyhlášky č. 482/2000 Sb.
+
+<sup>4</sup>) Vyhláška č. 194/2009 Sb., o stanovení podrobností užívání a provozování informačního systému datových schránek, ve znění pozdějších předpisů.
+
+<sup>5</sup>) Zákon č. 250/2017 Sb., o elektronické identifikaci, ve znění pozdějších předpisů.

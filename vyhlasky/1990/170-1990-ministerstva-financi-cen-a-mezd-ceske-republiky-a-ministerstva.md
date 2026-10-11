@@ -1,0 +1,95 @@
+---
+title: "Vyhláška Federálního cenového úřadu, ministerstva financí, cen a mezd České republiky a ministerstva financí, cen a mezd Slovenské republiky č. 170/1990 Sb., kterou se mění a doplňuje vyhláška č. 35/1990 Sb., o smluvních cenách"
+identifier: "170/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/170/1990-05-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1990-05-03
+effective: 1990-05-15
+last_amended: 1990-05-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/170"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního cenového úřadu, ministerstva financí, cen a mezd České republiky a ministerstva financí, cen a mezd Slovenské republiky č. 170/1990 Sb., kterou se mění a doplňuje vyhláška č. 35/1990 Sb., o smluvních cenách
+
+170
+
+VYHLÁŠKA
+
+Federálního cenového úřadu, ministerstva financí, cen a mezd České republiky a ministerstva financí, cen a mezd Slovenské republiky
+
+ze dne 3. května 1990,
+
+kterou se mění a doplňuje vyhláška č. 35/1990 Sb., o smluvních cenách
+
+Federální cenový úřad podle § 104 zákona č. 194/1988 Sb., o působnosti federálních ústředních orgánů státní správy, ministerstvo financí, cen a mezd České republiky podle § 6 zákona České národní rady č. 134/1973 Sb., o působnosti orgánů České socialistické republiky v oblasti cen, úplné znění č. 23/1989 Sb., a ministerstvo financí, cen a mezd Slovenské republiky podle § 2 odst. 2 písm. e) zákona Slovenské národní rady č. 135/1973 Sb., o působnosti orgánů Slovenské socialistické republiky v oblasti cen, úplné znění č. 27/1989 Sb., stanoví:
+
+## Čl. 1
+
+Seznam výrobků a výkonů, u nichž se uplatňují smluvní ceny a smluvní přirážky a srážky (dále jen „seznam“), který tvoří přílohu vyhlášky Federálního cenového úřadu, ministerstva financí, cen a mezd České socialistické republiky a ministerstva financí, cen a mezd Slovenské socialistické republiky č. 35/1990 Sb., o smluvních cenách, se mění a doplňuje takto:
+
+1\. V části I. seznamu se doplňuje položka č. 3., která zní:
+
+> | „3. | Nájem a podnájem nebytových prostor (dále jen „nájem“) ve vlastnictví občanů; cena (dále jen „nájemné“) včetně služeb s nájmem spojených se sjednává v rámci maximálních cen způsobem a za podmínek stanovených v položce č. 252a. části II. seznamu.“. |
+> |---|---|
+
+2\. V části II. seznamu se v položce č. 155. druhá věta vypouští.
+
+3\. V části II. seznamu položka č. 251. zní:
+
+> | „251. | Úplatné převody vlastnictví nebo práva hospodaření k nemovitosti, není-li zvláštními předpisy stanoveno jinak;<sup>48a</sup>) jde-li o převod na československý subjekt se zahraniční účastí nebo jiný než československý subjekt, je smluvní cena platná až po její registraci<sup>48b</sup>) ministerstvem financí, cen a mezd České republiky nebo ministerstvem financí, cen a mezd Slovenské republiky podle sídla nemovitosti. Nemovitostí se pro potřeby této vyhlášky rozumějí pozemky, trvalé porosty, vodní plochy a stavby již používané.“. |
+> |---|---|
+
+4\. V části II. seznamu položka č. 252. zní:
+
+> | „252. | Úplatné užívání nemovitostí včetně služeb s ním spojených, není-li zvláštními předpisy<sup>49</sup>) stanoveno jinak a kromě nájmu nebytových prostor oceňovaného podle položky č. 252a. tohoto seznamu.“. |
+> |---|---|
+
+5\. Část II. seznamu se doplňuje o položku č. 252a., která zní:
+
+> <table><tbody><tr><td>„252a.</td><td>1.</td><td colspan="2">Nájem nebytových prostor včetně služeb s ním spojených. Nájemné podle této položky platí pro všechny formy vlastnictví, jakož i práva hospodaření s nebytovými prostory, pokud jsou nájemci československé subjekty. V případě pronájmu cizím státním občanům, zahraničním právnickým osobám, právnickým osobám se zahraniční účastí se nájemné sjednává dohodou.<sup>49a</sup>) S rozpočtovými a příspěvkovými organizacemi lze změnu dosud platného nájemného sjednat až pro období od 1. ledna 1991.</td></tr><tr><td></td><td>2.</td><td colspan="2">Nájemné (bez připočtení ceny služeb) se sjednává v rámci maximální výše vypočtené z ročních sazeb za 1 m<sup>2</sup> podlahové plochy nebytového prostoru, jež činí pro účely</td></tr><tr><td></td><td></td><td>a) obchodní, restaurační, reprezentační, školské, zdravotnické, kancelářské a další prostory podobných užitných vlastností</td><td>190,– Kčs</td></tr><tr><td></td><td></td><td>b) výrobní, dílenské, skladové a pro účely garáží a další prostory podobných užitných vlastností</td><td>165,– Kčs</td></tr><tr><td></td><td></td><td>c) společenské, kulturní a další prostory podobných užitných vlastností</td><td>130,– Kčs</td></tr><tr><td></td><td></td><td>d) ostatní nebytové prostory, především provizoria</td><td>96,– Kčs.</td></tr><tr><td></td><td>3.</td><td colspan="2">Nájemné za užívání ateliérů umělci<sup>49b</sup>) se sjednává do výše maximálních cen, jimiž jsou ceny určené podle předpisu o úhradě za užívání bytů.<sup>49c</sup>)</td></tr><tr><td></td><td>4.</td><td colspan="2">Ceny služeb spojených s užíváním nebytového prostoru se sjednávají v případech, kdy pro příslušný výkon nejsou ceny stanoveny.</td></tr><tr><td></td><td>5.</td><td colspan="2"> Místní národní výbor může s přihlédnutím k atraktivitě prostředí nebo výhodnosti polohy nebytového prostoru určit objekty, popř. lokality, kde lze sjednat nájemné bez omezení uvedeného v odstavci 2.</td></tr></tbody></table>
+
+## Čl. 2
+
+Úplatné převody vlastnictví, popř. práva hospodaření k nemovitosti na československé subjekty se zahraniční účastí provedené před účinností tohoto předpisu jsou nabyvatelé povinni oznámit orgánu uvedenému v položce č. 251. nejpozději do 31. 7. 1990 zasláním opisu převodní smlouvy.
+
+## Čl. 3
+
+Zrušuje se vyhláška ministerstva vnitra č. 98/1967 Sb., o úhradě za užívání nebytových prostor.
+
+## Čl. 4
+
+Vyhláška nabývá účinnosti dnem 15. května 1990.
+
+Ministr pověřený řízením Federálního cenového úřadu:
+
+Ing. Dvořák v. r.
+
+Ministr financí, cen a mezd ČR:
+
+Ing. Nikodým v. r.
+
+Ministr financí, cen a mezd SR:
+
+Ing. Kováč CSc. v. r.
+
+---
+
+<sup>48a</sup>) Vyhláška ministerstva financí, cen a mezd České socialistické republiky č. 182/1988 Sb., o cenách staveb, pozemků, trvalých porostů, úhradách za zřízení práva osobního užívání pozemků a náhradách za dočasné užívání pozemků. 
+ Vyhláška ministerstva financí, cen a mezd Slovenské socialistické republiky č. 205/1988 Sb., o cenách staveb, pozemků, trvalých porostů, úhradách za zřízení práva osobního užívání pozemků a o náhradách za dočasné užívání pozemků. 
+ Vyhláška federálního ministerstva financí č. 122/1984 Sb., o náhradách při vyvlastnění staveb, pozemků, porostů a práv k nim. 
+ Vyhláška federálního ministerstva financí, ministerstva financí České socialistické republiky, ministerstva financí Slovenské socialistické republiky, Českého cenového úřadu a Slovenského cenového úřadu č. 47/1978 Sb., o prodeji bytů z národního majetku občanům a o finanční pomoci při modernizaci zakoupených bytů, ve znění pozdějších předpisů.
+
+<sup>48b</sup>) § 6 nařízení vlády Československé socialistické republiky č. 112/1985 Sb., o státním řízení cen.
+
+<sup>49</sup>) Vyhláška č. 200/1956 Ú. l., o nájemném z pozemků, na nichž se těží písky. 
+ Vyhláška č. 119/1988 Sb., o hospodaření s národním majetkem.<sup></sup>
+
+<sup>49a</sup>) § 7 zákona č. 116/1990 Sb., o nájmu a podnájmu nebytových prostor.
+
+<sup>49b</sup>) Zákon č. 35/1965 Sb., o dílech literárních, vědeckých a uměleckých (autorský zákon).
+
+<sup>49c</sup>) Vyhláška č. 60/1964 Sb., o úhradě za užívání bytu a za služby s užíváním bytu spojené, ve znění pozdějších předpisů.

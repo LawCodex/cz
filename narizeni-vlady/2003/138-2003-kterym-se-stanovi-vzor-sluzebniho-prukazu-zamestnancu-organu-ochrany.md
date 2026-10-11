@@ -1,0 +1,60 @@
+---
+title: "Nařízení vlády č. 138/2003 Sb., kterým se stanoví vzor služebního průkazu zaměstnanců orgánů ochrany veřejného zdraví"
+identifier: "138/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/138/2003-10-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2003-04-23
+effective: 2003-10-01
+last_amended: 2003-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/138"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 138/2003 Sb., kterým se stanoví vzor služebního průkazu zaměstnanců orgánů ochrany veřejného zdraví
+
+138
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 23. dubna 2003,
+
+kterým se stanoví vzor služebního průkazu zaměstnanců orgánů ochrany veřejného zdraví
+
+Vláda nařizuje podle § 108 odst. 3 k provedení § 88 odst. 1 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 320/2002 Sb.:
+
+## § 1
+
+Vzor služebního průkazu zaměstnanců orgánů ochrany veřejného zdraví, kterým se prokazují při plnění úkolů a výkonu oprávnění orgánů ochrany veřejného zdraví, je uveden v příloze k tomuto nařízení.
+
+## § 2
+
+Zrušuje se nařízení vlády č. 79/2001 Sb., kterým se stanoví vzor služebního průkazu orgánů ochrany veřejného zdraví, jejich zaměstnanců a zástupců hlavního hygienika České republiky, krajských a okresních hygieniků.
+
+## § 3
+
+Toto nařízení nabývá účinnosti dnem 1. října 2003.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Ministryně zdravotnictví:
+
+MUDr. Součková v. r.
+
+### Příloha k nařízení vlády č. 138/2003 Sb.
+
+#### Vzor služebního průkazu zaměstnanců orgánů ochrany veřejného zdraví
+
+#### Rozměry služebního průkazu jsou: 74 mm × 105 mm
+
+#### Lícová strana služebního průkazu
+
+##### ![sbcr2003c053z0138p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/833241/NAHLED/ZOBRAZ/sbcr2003c053z0138p001o001)
+
+#### Rubová strana služebního průkazu
+
+##### ![sbcr2003c053z0138p001o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/833243/NAHLED/ZOBRAZ/sbcr2003c053z0138p001o002)

@@ -1,0 +1,111 @@
+---
+title: "Vyhláška Českého báňského úřadu č. 15/1995 Sb., o oprávnění k hornické činnosti a činnosti prováděné hornickým způsobem, jakož i k projektování objektů a zařízení, které jsou součástí těchto činností"
+identifier: "15/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/15/2012-12-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1995-01-03
+effective: 1995-03-01
+last_amended: 2012-12-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/15"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Českého báňského úřadu č. 15/1995 Sb., o oprávnění k hornické činnosti a činnosti prováděné hornickým způsobem, jakož i k projektování objektů a zařízení, které jsou součástí těchto činností ve znění vyhlášky č. 298/2005 Sb. a vyhlášky č. 380/2012 Sb."
+---
+
+# Vyhláška Českého báňského úřadu č. 15/1995 Sb., o oprávnění k hornické činnosti a činnosti prováděné hornickým způsobem, jakož i k projektování objektů a zařízení, které jsou součástí těchto činností
+
+15
+
+VYHLÁŠKA
+
+Českého báňského úřadu
+
+ze dne 3. ledna 1995
+
+o oprávnění k hornické činnosti a činnosti prováděné hornickým způsobem, jakož i k projektování objektů a zařízení, které jsou součástí těchto činností
+
+Český báňský úřad stanoví podle § 5 odst. 2 zákona České národní rady č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona České národní rady č. 425/1990 Sb., zákona České národní rady č. 542/1991 Sb. a zákona č.169/1993 Sb.:
+
+## § 1
+
+(1) Oprávnění k hornické činnosti a činnosti prováděné hornickým způsobem, jakož i k projektování a navrhování objektů a zařízení, které jsou součástí hornické činnosti nebo činnosti prováděné hornickým způsobem (dále jen „oprávnění“), lze vydat právnické nebo fyzické osobě, která prokáže, že je odborně způsobilá sama nebo prostřednictvím k tomu odborně způsobilých zaměstnanců (závodní, závodní dolu, závodní lomu, báňský projektant nebo hlavní důlní měřič) zabezpečovat činnosti v rozsahu požadovaného oprávnění.
+
+(2) K vydání oprávnění je místně příslušný obvodní báňský úřad, v jehož obvodu působnosti<sup>1</sup>) má právnická nebo fyzická osoba sídlo, popřípadě místo podnikání nebo bydliště. Není-li takové místo na území České republiky, řídí se příslušnost podle místa zamýšlené činnosti, k níž je oprávnění třeba.
+
+(3) Oprávnění může být vykonáváno na celém území České republiky.
+
+## § 2
+
+(1) Právnická nebo fyzická osoba v žádosti o vydání oprávnění uvede
+
+a) obchodní jméno,<sup>2</sup>) popřípadě jméno a příjmení,
+
+b) sídlo, popřípadě místo podnikání nebo místo trvalého pobytu, popřípadě bydliště, nemá-li trvalý pobyt na území České republiky,<sup>3</sup>)
+
+c) identifikační číslo, popřípadě datum narození,
+
+d) požadovaný předmět činnosti,
+
+e) jméno, příjmení, místo trvalého pobytu, popřípadě bydliště, nemá-li trvalý pobyt na území České republiky, a datum narození závodního, popřípadě závodního dolu nebo závodního lomu nebo báňského projektanta nebo hlavního důlního měřiče, včetně jeho osvědčení o způsobilosti k výkonu činnosti<sup>6</sup>).
+
+(2) K žádosti se připojí doklady, popřípadě jejich ověřené kopie, kterými právnická nebo fyzická osoba prokáže skutečnosti uvedené v odstavci 1.
+
+(3) Požadavky na kvalifikaci a odbornou způsobilost stanoví zvláštní předpis.<sup>5</sup>)
+
+## § 3
+
+(1) V oprávnění se uvede:
+
+a) obchodní jméno, popřípadě jméno a příjmení,
+
+b) sídlo, popřípadě místo podnikání nebo místo trvalého pobytu, popřípadě bydliště, nemá-li trvalý pobyt na území České republiky,
+
+c) identifikační číslo, popřípadě datum narození,
+
+d) předmět činnosti,
+
+e) jméno, příjmení, místo trvalého pobytu, popřípadě bydliště, nemá-li trvalý pobyt na území České republiky, a datum narození závodního, popřípadě závodního dolu, závodního lomu nebo báňského projektanta nebo hlavního důlního měřiče, včetně jeho osvědčení o způsobilosti k výkonu činnosti<sup>6</sup>),
+
+f) datum vydání oprávnění.
+
+(2) Obvodní báňský úřad zašle opis oprávnění příslušnému správci daně a orgánu státní statistiky.
+
+## § 4
+
+(1) Oprávnění pozbývá platnosti
+
+a) uplynutím doby platnosti, pokud byla v oprávnění uvedena,
+
+b) zánikem právnické osoby nebo smrtí fyzické osoby,
+
+c) uplynutím doby platnosti osvědčení o způsobilosti k výkonu činnosti nebo ukončením pracovněprávního vztahu nebo jiného obdobného poměru závodního dolu, popřípadě závodního lomu, závodního, báňského projektanta nebo hlavního důlního měřiče, neuzavře-li právnická, popřípadě fyzická osoba ke dni skončení tohoto poměru nový obdobný poměr s odborně způsobilou osobou<sup>6</sup>). Obvodní báňský úřad může povolit vykonávání hornické činnosti nebo činnosti prováděné hornickým způsobem, jakož i projektování objektů a zařízení, které jsou součástí těchto činností, na přechodnou dobu bez této odpovědné fyzické osoby, pokud tím nemůže dojít k ohrožení životů a zdraví lidí nebo ke značným škodám na majetku.
+
+(2) Právnická nebo fyzická osoba je povinna oznámit obvodnímu báňskému úřadu všechny změny týkající se údajů a dokladů, které jsou stanoveny jako náležitosti žádosti o oprávnění, a předložit o nich doklady do 15 dnů od vzniku změn. Opis rozhodnutí o změnách zašle obvodní báňský úřad orgánům uvedeným v § 3 odst. 2.
+
+## § 5
+
+Právnické nebo fyzické osoby, kterým bylo vydáno oprávnění přede dnem účinnosti této vyhlášky a nesplňují její požadavky, mohou ve lhůtě jednoho roku od tohoto dne požádat o vydání nového oprávnění podle této vyhlášky, jinak oprávnění pozbývá platnosti.
+
+## § 6
+
+Tato vyhláška nabývá účinnosti dnem 1. března 1995.
+
+Předseda:
+
+Ing. Bartoš v. r.
+
+---
+
+<sup>1</sup>) Vyhláška Českého báňského úřadu č. 56/1982 Sb., kterou se určují obvody působnosti obvodních báňských úřadů, ve znění vyhlášky č. 120/1993 Sb.
+
+<sup>2</sup>) § 9 zákona č. 513/1991 Sb., obchodní zákoník.
+
+<sup>3</sup>) § 2 odst. 3 zákona č. 513/1991 Sb.
+
+<sup>4</sup>) § 4 odst. 7 vyhlášky Českého báňského úřadu č. 340/1992 Sb., o požadavcích na kvalifikaci a odbornou způsobilost a o ověřování odborné způsobilosti pracovníků k hornické činnosti a činnosti prováděné hornickým způsobem a o změně některých předpisů vydaných Českým báňským úřadem k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při hornické činnosti a činnosti prováděné hornickým způsobem.
+
+<sup>5</sup>) Vyhláška Českého báňského úřadu č. 340/1992 Sb.
+
+<sup>6</sup>) Vyhláška č. 298/2005 Sb., o požadavcích na odbornou kvalifikaci a odbornou způsobilost při hornické činnosti nebo činnosti prováděné hornickým způsobem a o změně některých právních předpisů, ve znění vyhlášky č. 240/2006 Sb. a vyhlášky č. 378/2012 Sb.

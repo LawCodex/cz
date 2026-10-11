@@ -1,0 +1,107 @@
+---
+title: "Zákon Slovenskej národnej rady č. 95/1990 Sb., o štátnom rozpočte Slovenskej republiky na rok 1990 a o zmenách zákona Slovenskej národnej rady č. 169/1982 Zb. o rozpočtovom určení výnosu a správe odvodov, dôchodkovej dane a príspevku na sociálne zabezpečenie"
+identifier: "95/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/95/1990-04-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1990-03-30
+effective: 1990-04-01
+last_amended: 1990-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/95"
+retrieved: 2026-10-11
+---
+
+# Zákon Slovenskej národnej rady č. 95/1990 Sb., o štátnom rozpočte Slovenskej republiky na rok 1990 a o zmenách zákona Slovenskej národnej rady č. 169/1982 Zb. o rozpočtovom určení výnosu a správe odvodov, dôchodkovej dane a príspevku na sociálne zabezpečenie
+
+95
+
+ZÁKON
+
+Slovenskej národnej rady
+
+z 30. marca 1990
+
+o štátnom rozpočte Slovenskej republiky na rok 1990 a o zmenách zákona Slovenskej národnej rady č. 169/1982 Zb. o rozpočtovom určení výnosu a správe odvodov, dôchodkovej dane a príspevku na sociálne zabezpečenie
+
+Slovenská národná rada sa uzniesla na tomto zákone:
+
+## PRVÁ ČASŤ – Štátny rozpočet Slovenskej republiky na rok 1990
+
+### § 1
+
+<table><tbody><tr><td>(1) Celkové príjmy štátneho rozpočtu Slovenskej republiky (ďalej len „štátny rozpočet republiky“) sa určujú sumou</td><td>90 330 700 000 </td></tr><tr><td>celkové výdavky štátneho rozpočtu republiky sa určujú sumou</td><td>90 330 700 000 </td></tr><tr><td colspan="2">(príloha č. 1). </td></tr></tbody></table>
+
+<table><tbody><tr><td>(2) V štátnom rozpočte republiky sú obsiahnuté</td><td></td></tr><tr><td>globálne dotácie zo štátneho rozpočtu republiky do rozpočtov národných výborov vo výške </td><td>6 735 800 000 </td></tr><tr><td>a účelové dotácie poskytované zo štátneho rozpočtu republiky do rozpočtov národných výborov vo výške</td><td>11 467 100 000 </td></tr><tr><td colspan="2">(príloha č. 2).</td></tr></tbody></table>
+
+### § 2
+
+Vláda Slovenskej republiky alebo na základe jej splnomocnenia minister financií, cien a miezd môže vykonať zmenu záväzných ukazovateľov štátneho rozpočtu republiky, uvedených v prílohe č. 1 a 2 tohto zákona v prípade, že sa zmenia podmienky, za ktorých boli tieto ukazovatele schválené, ak sa tým nenaruší vyrovnanosť štátneho rozpočtu republiky. O týchto zmenách informuje vláda Slovenskej republiky Slovenskú národnú radu.
+
+## DRUHÁ ČASŤ – Novelizácia zákona Slovenskej národnej rady č. 169/1982 Zb.
+
+### § 3
+
+Zákon Slovenskej národnej rady č. 169/1982 Zb. o rozpočtovom určení výnosu a správe odvodov, dôchodkovej dane a príspevku na sociálne zabezpečenie sa mení takto:
+
+1\. V § 2 ods. 1 sa slová „odvodu voľného zostatku zisku,“ nahrádzajú slovami „odvodu zo zisku na základe finančného plánu,“.
+
+2\. V § 2 ods. 2 sa slová „Výnos dodatkových odvodov, s výnimkou dodatkových odvodov na znovurozdelenie prostriedkov,“ nahrádzajú slovami „Výnos regulačných, cenových a dodatkových odvodov,“.
+
+3\. V § 3 ods. 2 sa slová „Mestská finančná správa v Bratislave.“ nahrádzajú slovami „Obvodná finančná správa I. v Bratislave.“.
+
+## TRETIA ČASŤ – Záverečné ustanovenia
+
+### § 4
+
+Ministerstvo financií, cien a miezd Slovenskej republiky upraví všeobecne záväzným právnym predpisom
+
+a) spôsob a rozsah financovania geologických prác zo štátneho rozpočtu republiky a finančného zabezpečenia alebo likvidácie starých banských diel a ich následkov zo štátneho rozpočtu republiky,
+
+b) spôsob tvorby a použitia účelových fondov zriaďovaných úplne alebo čiastočne z iných zdrojov ako zo zisku štátnych podnikov založených národnými výbormi.
+
+### § 5
+
+Do účinnosti novej právnej úpravy sa nepoužijú ustanovenia všeobecne záväzných právnych predpisov, týkajúce sa komplexného štátneho plánu hospodárskeho a sociálneho rozvoja Slovenskej republiky, rozpočtových výhľadov, ako aj úhrnného finančného plánu.
+
+### § 6
+
+Tento zákon nadobúda účinnosť 1. aprílom 1990.
+
+R. Schuster v. r.
+
+M. Čič v. r.
+
+### Príloha č. 1 zákona SNR č. 95/1990 Zb.
+
+#### Celkový prehľad štátneho rozpočtu Slovenskej republiky na rok 1990
+
+| Príjmy | v tis. Kčs |
+|---|---|
+| Hospodárstvo | 65 174 960 |
+| Veda a technika | 128 867 |
+| Peňažné a technické služby | 1 717 628 |
+| Spoločenské služby a činnosti | 855 595 |
+| Obrana a bezpečnosť | 35 900 |
+| Dane od obyvateľstva a poplatky | 604 000 |
+| Ostatné príjmy | 493 950 |
+| Dotácie zo štátneho rozpočtu federácie | 21 319 800 |
+| Spolu | 90 330 700 |
+
+| Výdavky | v tis. Kčs |
+|---|---|
+| Hospodárstvo | 26 430 763 |
+| Veda a technika | 2 133 980 |
+| Peňažné a technické služby | 1 952 295 |
+| Spoločenské služby a činnosti pre obyvateľstvo | 38 564 521 |
+| Obrana a bezpečnosť | 2 039 700 |
+| Správa | 1 006 541 |
+| Globálne a účelové dotácie národným výborom | 18 202 900 |
+| Spolu | 90 330 700 |
+
+### Príloha č. 2 zákona SNR č. 95/1990 Zb.
+
+#### Globálne a účelové dotácie národným výborom zo štátneho rozpočtu Slovenskej republiky na rok 1990
+
+<table><tbody><tr><td rowspan="2">Kraj</td><td>Globálne dotácie</td><td>Účelové dotácie</td></tr><tr><td colspan="2">v tis. Kčs</td></tr><tr><td>Národný výbor hlavného mesta Slovenskej republiky Bratislavy</td><td>- 26 600</td><td>2 403 800</td></tr><tr><td>Západoslovenský krajský národný výbor</td><td>2 239 700</td><td>2 831 900</td></tr><tr><td>Stredoslovenský krajský národný výbor</td><td>1 729 100</td><td>3 055 900</td></tr><tr><td>Východoslovenský krajský národný výbor</td><td>2 793 600</td><td>3 175 500</td></tr><tr><td>Spolu</td><td>6 735 800</td><td>11 467 100</td></tr></tbody></table>

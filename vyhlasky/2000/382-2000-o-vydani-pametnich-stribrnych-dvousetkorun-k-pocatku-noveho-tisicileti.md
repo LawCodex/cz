@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 382/2000 Sb., o vydání pamětních stříbrných dvousetkorun k počátku nového tisíciletí"
+identifier: "382/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/382/2000-11-29"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-10-04
+effective: 2000-11-29
+last_amended: 2000-11-29
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/382"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 382/2000 Sb., o vydání pamětních stříbrných dvousetkorun k počátku nového tisíciletí
+
+382
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 4. října 2000
+
+o vydání pamětních stříbrných dvousetkorun k počátku nového tisíciletí
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K počátku nového tisíciletí v roce 2001 se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,40 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je pod horním okrajem umístěn stylizovaný velký státní znak České republiky bez štítu. Název státu je v neuzavřeném opisu při pravé a spodní straně dvousetkoruny. Za názvem státu je při levém horním okraji dvousetkoruny v opisu ročník ražby dvousetkoruny „2000“. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je umístěno ve dvou řádcích pod státním znakem. Značka mincovny, která dvousetkorunu razila, je umístěna v řádku při levém okraji dvousetkoruny mezi názvem státu a ročníkem ražby.
+
+(2) Na rubu dvousetkoruny je stylizovaná podoba bájného ptáka Fénixe v plamenech, symbolizující nové tisíciletí rodící se z tisíciletí končícího a současně naději na šťastnou budoucnost Země. Při pravém, spodním a levém okraji dvousetkoruny je neuzavřený opis „POČÁTEK NOVÉHO TISÍCILETÍ“, jehož jednotlivá slova jsou od sebe oddělena tečkami. Letopočet „2001“, který je prvním rokem třetího tisíciletí, je umístěn pod Fénixem. Autorem návrhu dvousetkoruny je akademický sochař Jiří Harcuba. Iniciála jeho příjmení „H“ je umístěna při levém horním okraji dvousetkoruny za opisem.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 29. listopadu 2000.
+
+Guvernér:
+
+doc. Ing. Tošovský v. r.
+
+### ![sbcr2000c105z0382o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/783989/NAHLED/ZOBRAZ/sbcr2000c105z0382o001)
+
+### ![sbcr2000c105z0382o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/783991/NAHLED/ZOBRAZ/sbcr2000c105z0382o002)

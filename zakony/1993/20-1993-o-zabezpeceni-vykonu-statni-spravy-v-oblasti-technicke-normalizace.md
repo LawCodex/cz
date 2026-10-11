@@ -1,0 +1,111 @@
+---
+title: "Zákon České národní rady č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví"
+identifier: "20/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/20/2015-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1992-12-20
+effective: 1993-01-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/20"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon České národní rady č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví ve znění zákona č. 22/1997 Sb., zákona č. 119/2000 Sb., zákona č. 137/2002 Sb. a zákona č. 250/2014 Sb."
+---
+
+# Zákon České národní rady č. 20/1993 Sb., o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví
+
+20
+
+ZÁKON
+
+České národní rady
+
+ze dne 20. prosince 1992
+
+o zabezpečení výkonu státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## ČÁST PRVNÍ – Úvodní ustanovení
+
+### § 1
+
+(1) Zřizuje se Úřad pro technickou normalizaci, metrologii a státní zkušebnictví (dále jen „Úřad“) jako správní úřad se sídlem v Praze, který je podřízen Ministerstvu průmyslu a obchodu (dále jen „ministerstvo“). Úřad je účetní jednotkou.
+
+(2) V čele Úřadu je předseda; jeho výběr, jmenování a odvolání se řídí zákonem o státní službě.
+
+### § 2
+
+Orgány státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví jsou
+
+a) ministerstvo,
+
+b) Úřad.
+
+## ČÁST DRUHÁ – Působnost orgánů státní správy v oblasti technické normalizace, metrologie a státního zkušebnictví
+
+### § 3
+
+Ministerstvo v oblasti technické normalizace, metrologie a státního zkušebnictví
+
+a) vypracovává návrh koncepce rozvoje tohoto odvětví,
+
+b) řídí Úřad a Český metrologický institut,
+
+c) rozhoduje o opravných prostředcích proti rozhodnutím Úřadu.<sup>2</sup>)
+
+### § 4
+
+Úřad v oblasti technické normalizace, metrologie a státního zkušebnictví
+
+a) řídí a zabezpečuje metrologii v rozsahu stanoveném zvláštním právním předpisem,3)
+
+b) zabezpečuje jednotnost a správnost stanovených měřidel a měření a výkon státní metrologie v rozsahu stanoveném zákonem,<sup>3</sup>)
+
+c) rozhoduje o opravných prostředcích proti rozhodnutím metrologických orgánů,<sup>7</sup>)
+
+d) zabezpečuje organizaci přípravy převzetí technických předpisů Evropských společenství přejímaných nařízeními vlády,
+
+e) smluvně zabezpečuje úkoly vyplývající z mezinárodních smluv, kterými je Česká republika vázána, a úkoly vyplývající z požadavků ministerstev a jiných ústředních správních úřadů.
+
+## ČÁST TŘETÍ – Přechodná a závěrečná ustanovení
+
+### § 7
+
+(1) Výnosy a výměry týkající se stanovených měřidel a výrobků podléhajících schvalování nebo povinné certifikaci vydané Federálním úřadem pro normalizaci a měření podle dosavadních předpisů zůstávají nadále v platnosti.
+
+(2) Pokud je ve výnosech nebo výměrech podle odstavce 1 uvedena jako státní zkušebna organizace se sídlem ve Slovenské republice, podává se přihláška ke schvalování nebo povinné certifikaci Úřadu.
+
+### § 8
+
+(1) Technické normy vydané před účinností tohoto zákona podle dosavadních předpisů zůstávají nadále v platnosti.
+
+(2) Československé technické normy se považují ode dne nabytí účinnosti tohoto zákona za České technické normy; písmenná značka „ČSN“ se nemění.
+
+### § 9
+
+Osvědčení o autorizaci a akreditaci<sup>11</sup>) vydaná Federálním úřadem pro normalizaci a měření podle dosavadních předpisů subjektům se sídlem v České republice zůstávají nadále v platnosti.
+
+### § 10
+
+Správní akty vydané podle právních předpisů o metrologii a státním zkušebnictví před účinností tohoto zákona zůstávají nadále v platnosti.
+
+### § 11
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1993.
+
+Uhde v. r.
+
+Klaus v. r.
+
+---
+
+<sup>2</sup>) Zákon č. 71/1967 Sb., o správním řízení (správní řád).
+
+<sup>3</sup>) Zákon č. 505/1990 Sb., o metrologii, ve znění zákona č. 119/2000 Sb.
+
+<sup>7</sup>) § 4 odst. 1 zákona č. 505/1990 Sb.
+
+<sup>11</sup>) § 13 odst. 2 písm. c), § 16, 20 a 21 zákona č. 505/1990 Sb.

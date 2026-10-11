@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 275/2003 Sb., o vydání zlatých mincí „Baroko - zámek Buchlovice“ po 2 000 Kč"
+identifier: "275/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/275/2003-09-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2003-07-31
+effective: 2003-09-15
+last_amended: 2003-09-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/275"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 275/2003 Sb., o vydání zlatých mincí „Baroko - zámek Buchlovice“ po 2 000 Kč
+
+275
+
+VYHLÁŠKA
+
+ze dne 31. července 2003
+
+o vydání zlatých mincí „Baroko – zámek Buchlovice“ po 2 000 Kč
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Dnem 24. září 2003 se v rámci cyklu „Deset století architektury“ vydávají zlaté mince „Baroko – zámek Buchlovice“ po 2 000 Kč (dále jen „mince“).
+
+(2) Mince se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Mince se razí ze zlata o ryzosti 999.9. Hmotnost mince je 6,22 g, její průměr 20 mm a síla 1,55 mm. Hrana mince v běžném provedení je vroubkovaná, hrana mince ve zvláštním provedení je hladká. Při ražbě mince v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,062 g a v ryzosti zlata odchylka nahoru 0,01 %.
+
+## § 2
+
+(1) Na lícní straně jsou při horním okraji mince stylizovaná heraldická zvířata z velkého státního znaku České republiky. Český lev je uprostřed mezi moravskou orlicí (vpravo) a slezskou orlicí (vlevo) a je umístěn výše než obě orlice. Pod heraldickými zvířaty je v řádku název státu „ČESKÁ REPUBLIKA“ a pod ním rovněž v řádku název cyklu „DESET STOLETÍ ARCHITEKTURY“. Oba texty jsou psány kurzívou a všechna počáteční písmena jednotlivých slov jsou velká. Pod texty je vyobrazena jedna ze dvou budov buchlovického zámku nazývaná horní zámek. Při spodním okraji mince uprostřed je označení nominální hodnoty mince se zkratkou peněžní jednotky „2 000 Kč“. Značka mincovny, která minci razila, je umístěna při pravém spodním okraji mince.
+
+(2) Na rubové straně je vyobrazena hlavní zámecká budova nazývaná dolní zámek. Nad budovou je kurzívou nápis „BAROKO“ a pod ní rovněž kurzívou nápis „ZÁMEK BUCHLOVICE“. Počáteční písmena všech slov jsou velká. U spodního okraje mince uprostřed je letopočet „2003“, označující ročník ražby. Autorem návrhu mince je Jakub Vlček, jehož autorská značka je umístěna při pravém spodním okraji mince.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 15. září 2003.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### ![sbcr2003c092z0275o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/835673/NAHLED/ZOBRAZ/sbcr2003c092z0275o001)
+
+### ![sbcr2003c092z0275o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/835675/NAHLED/ZOBRAZ/sbcr2003c092z0275o002)

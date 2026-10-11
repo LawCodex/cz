@@ -93,8 +93,15 @@ def download(name, raw):
 
 def select(raw):
     meta = json.load(gzip.open(download("006PravniAktMetadata.json.gz", raw)))["položky"]
-    out = []
+    # the dump holds several metadata records per act (one per metadata version):
+    # keep only the latest (highest metadata-id) record of each act
+    latest = {}
     for m in meta:
+        k = m["akt-iri"]
+        if k not in latest or m["metadata-id"] > latest[k]["metadata-id"]:
+            latest[k] = m
+    out = []
+    for m in latest.values():
         parts = m["akt-iri"].split("/")  # esel-esb:eli/cz/sb/1993/1
         if parts[2] != "sb":
             continue

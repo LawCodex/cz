@@ -1,0 +1,59 @@
+---
+title: "Vyhláška Ministerstva práce a sociálních věcí České republiky č. 329/1990 Sb., kterou se mění a doplňuje vyhláška ministerstva zdravotnictví a sociálních věcí České republiky č. 271/1990 Sb., o stravování v zařízeních sociální péče"
+identifier: "329/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/329/1990-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1990-08-08
+effective: 1990-09-01
+last_amended: 1990-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/329"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva práce a sociálních věcí České republiky č. 329/1990 Sb., kterou se mění a doplňuje vyhláška ministerstva zdravotnictví a sociálních věcí České republiky č. 271/1990 Sb., o stravování v zařízeních sociální péče
+
+329
+
+VYHLÁŠKA
+
+ministerstva práce a sociálních věcí České republiky
+
+ze dne 8. srpna 1990,
+
+kterou se mění a doplňuje vyhláška ministerstva zdravotnictví a sociálních věcí České republiky č. 271/1990 Sb., o stravování v zařízeních sociální péče
+
+Ministerstvo práce a sociálních věcí České republiky stanoví v dohodě s federálním ministerstvem práce a sociálních věcí a ostatními zúčastněnými ústředními orgány podle § 177 odst. 4 zákona č. 100/1988 Sb., o sociálním zabezpečení, ve znění zákona č. 110/1990 Sb., a podle § 58 písm. d), f) a h) zákona České národní rady č. 114/1988 Sb., o působnosti orgánů České socialistické republiky v sociálním zabezpečení, ve znění zákona České národní rady č. 125/1990 Sb.:
+
+## Čl. I
+
+Vyhláška ministerstva zdravotnictví a sociálních věcí České republiky č. 271/1990 Sb., o stravování v zařízeních sociální péče, se mění a doplňuje takto:
+
+1\. V § 8 odst. 1 písm. a) se na konci připojují slova: „u diety diabetické o 8,30 Kčs na osobu a den,“.
+
+2\. V § 8 odst. 1 písm. b) se na konci připojují slova: „u diety diabetické o 4,60 Kčs na osobu a den,“.
+
+3\. V § 8 odst. 1 písm. c) bodu 3 se částka „29,70 Kčs“ nahrazuje částkou „35,00 Kčs“.
+
+4\. V § 8 odst. 1 písm. d) bodu 3 se částka „16,40 Kčs“ nahrazuje částkou „19,30 Kčs“.
+
+5\. § 9 odst. 3 písm. c) zní:
+
+> | „c) dieta diabetická, bílkovinná a výživná | |
+> |---|---|
+> | snídaně | 4,90 |
+> | oběd | 11,20 |
+> | večeře | 9,60 |
+> | 1 vedlejší jídlo | 3,10.“. |
+
+6\. V § 13 odst. 1 větě druhé se částka „29,70 Kčs“ nahrazuje částkou „35,00 Kčs“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. září 1990.
+
+Ministr:
+
+Ing. Horálek CSc. v. r.

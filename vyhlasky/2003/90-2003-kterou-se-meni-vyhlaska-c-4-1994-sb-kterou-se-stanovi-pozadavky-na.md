@@ -1,0 +1,104 @@
+---
+title: "Vyhláška č. 90/2003 Sb., kterou se mění vyhláška č. 4/1994 Sb., kterou se stanoví požadavky na provedení a stavbu objektů a zařízení pro rozvod a izolaci větrů a uzavírání důlních děl"
+identifier: "90/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/90/2003-04-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2003-03-18
+effective: 2003-04-15
+last_amended: 2003-04-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/90"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 90/2003 Sb., kterou se mění vyhláška č. 4/1994 Sb., kterou se stanoví požadavky na provedení a stavbu objektů a zařízení pro rozvod a izolaci větrů a uzavírání důlních děl
+
+90
+
+VYHLÁŠKA
+
+ze dne 18. března 2003,
+
+kterou se mění vyhláška č. 4/1994 Sb., kterou se stanoví požadavky na provedení a stavbu objektů a zařízení pro rozvod a izolaci větrů a uzavírání důlních děl
+
+Český báňský úřad stanoví podle § 6 odst. 6 písm. a) zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě:
+
+## Čl. I
+
+Vyhláška č. 4/1994 Sb., kterou se stanoví požadavky na provedení a stavbu objektů a zařízení pro rozvod a izolaci větrů a uzavírání důlních děl, se mění takto:
+
+1\. § 1 včetně nadpisu a poznámek pod čarou č. 1) a č. 1a) zní:
+
+> **„§ 1 – Předmět úpravy**
+
+> (1) Tato vyhláška se vztahuje na projektování, výrobu a zřizování větrních a hrázových objektů na uhelných dolech. Určuje technické a bezpečnostní požadavky na větrní a hrázové objekty a na vybavení hrázových objektů.
+
+> (2) Vyhláška se nevztahuje na uzavírání hlavních důlních děl<sup>1</sup>) a uzavírání starých důlních děl.<sup>1a</sup>)
+
+> <sup>1</sup>) Vyhláška č. 52/1997 Sb., kterou se stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při likvidaci hlavních důlních děl, ve znění vyhlášky č. 32/2000 Sb.
+
+> <sup>1a</sup>) § 13 zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě.“.
+
+Dosavadní poznámka pod čarou č. 1) se označuje jako poznámka č. 1b).
+
+2\. V § 12 odst. 4 se písmeno c) zrušuje.
+
+3\. V § 12 se za odstavec 5 vkládá nový odstavec 6, který zní:
+
+> „(6) U větrních dveří izolačních musí být dveřní rám kovový a příčka z cihlového zdiva o tloušťce nejméně 30 cm. U větrních dveří regulačních může být příčka a dveřní rám i ze dřeva.“.
+
+Dosavadní odstavec 6 se označuje jako odstavec 7.
+
+4\. V § 18 odstavec 1 zní:
+
+> „(1) Pro stavbu hráze z rychletuhnoucích a speciálních hmot smí být použito sádry nebo jiných materiálů, pokud byly schváleny zkušebnou určenou Českým báňským úřadem.<sup>2</sup>)“.
+
+5\. Za § 20 se vkládá nový § 20a, který včetně nadpisu a poznámky pod čarou č. 6a) zní:
+
+> **„§ 20a – Uzavírací hráze pytlové**
+
+> (1) Uzavírací hráze pytlové lze v dole použít při zdolávání havárie<sup>6a</sup>) pro rychlé, výbuchuvzdorné a těsné uzavření ohroženého prostoru.
+
+> (2) Pro stavbu uzavírací hráze pytlové mohou být použity jen pytle naplněné ze dvou třetin jemnozrnným pískem (dále jen „písek“) nebo popílkem. Hmotnost naplněného pytle může být nejvíce 22 kg.
+
+> (3) Hráz se staví volným pokládáním pytlů od zadního čela hráze stupňovitě tak, aby pytle byly mezi sebou provázány. Mezery mezi pytli a dutiny u boků důlního díla a okolo potrubí nebo hrázových luten se zaplňují pískem.
+
+> (4) Tloušťka hráze se bez ohledu na tvar průřezu důlního díla určuje takto:
+
+> <table><tbody><tr><th rowspan="2">Světlý průřez díla v m<sup>2</sup></th><th colspan="2">Minimální tloušťka hráze z pytlů plněných</th></tr><tr><th>pískem </th><th>popílkem</th></tr><tr><td>méně než 6</td><td>5,0</td><td> 8,0</td></tr><tr><td>6 až 10</td><td>6,0</td><td>10,0</td></tr><tr><td>10 až 12</td><td>7,0</td><td>12,0</td></tr><tr><td>12 až 14</td><td>8,0 </td><td>14,0.</td></tr></tbody></table>
+
+> (5) Hráz musí být po jejím dokončení zajištěna vzpěrnou konstrukcí. Vzpěrná konstrukce se buduje z pevně vzepřených stojek přitlačených na čelo hráze příčnými podvlaky. Podvlaky se rozpínají proti stropu a počvě nebo proti bokům důlního díla vzpěrami.
+
+> (6) Hráz musí být utěsněna. Utěsnění může být provedeno i předplavením hráze popílkovou nebo sádrovou zátkou a případnou injektáží hornin v okolí hráze.
+
+> <sup>6a</sup>) Vyhláška č. 71/2002 Sb., o zdolávání havárií v dolech a při těžbě ropy a zemního plynu.“.
+
+6\. V § 28 odstavce 1 a 2 znějí:
+
+> „(1) Potrubí pro odběr vzorků důlního ovzduší se ukončuje na přístupové straně uzavíratelným zařízením pro odběr vzorků důlního ovzduší.
+
+> (2) Zásahové potrubí je kovové potrubí o minimálním průměru 100 mm. Na přístupové straně musí být ukončeno přírubou a zaslepeno tak, aby umožnilo montáž ventilu.“.
+
+7\. V § 28 se doplňují odstavce 5 a 6, které znějí:
+
+> „(5) Volná potrubí o průměru větším než 150 mm v hrázovém objektu, který neslouží k uzavření důlních děl, musí být z obou stran uzavřena slepou přírubou.
+
+> (6) Všechna potrubí zabudovaná v uzavírací hrázi musí být vyvedena do vzdálenosti nejméně 2 m za hráz.“.
+
+8\. Za § 28 se vkládá nový § 28a, který včetně nadpisu zní:
+
+> **„§ 28a – Kontroly hrázových objektů**
+
+> (1) Hrázové objekty včetně zabudovaných zařízení a výrobků (§ 23 odst. 1) se kontrolují nejméně jednou za 14 dní.
+
+> (2) Hrázové objekty musí být označeny tabulkou s číslem hrázového objektu. Na tabulce se vyznačuje datum poslední kontroly a podpis kontrolujícího.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 15. dubna 2003.
+
+Předseda:
+
+prof. JUDr. Ing. Makarius, CSc. v. r.

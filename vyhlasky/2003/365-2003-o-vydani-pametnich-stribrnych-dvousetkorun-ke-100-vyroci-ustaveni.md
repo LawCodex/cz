@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 365/2003 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí ustavení Svazu lyžařů v Království českém"
+identifier: "365/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/365/2003-11-19"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2003-10-13
+effective: 2003-11-19
+last_amended: 2003-11-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/365"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 365/2003 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí ustavení Svazu lyžařů v Království českém
+
+365
+
+VYHLÁŠKA
+
+ze dne 13. října 2003
+
+o vydání pamětních stříbrných dvousetkorun ke 100. výročí ustavení Svazu lyžařů v Království českém
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Ke 100. výročí ustavení Svazu lyžařů v Království českém, prvního národního lyžařského svazu na světě, se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,3 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*". Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je na mezikruží v horní a pravé části v neuzavřeném opisu název státu „ČESKÁ REPUBLIKA“, v levé spodní části rovněž v neuzavřeném opisu označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“. Hlavním motivem lícní strany je portrét Josefa Rösslera-Ořovského, průkopníka a propagátora lyžování v Čechách, od jehož úmrtí uplynulo v letošním roce 70 let. Po stranách portrétu je při vnitřním okraji mezikruží ve dvouřádkovém neuzavřeném opisu text „JOSEF RÖSSLER OŘOVSKÝ 1869 1933“, a to tak, že slova „JOSEF RÖSSLER“ a letopočet „1869“ jsou umístěny vlevo od portrétu, zbývající text vpravo. V pravé spodní části dvousetkoruny je umístěn oválný medailon s dobovým českým lvem, položený přes dvě soudobé lyže, který částečně zakrývá portrét a přesahuje ze středu dvousetkoruny na mezikruží. Na mezikruží je vlevo uprostřed umístěna značka mincovny, která dvousetkorunu razila.
+
+(2) Na rubu dvousetkoruny je ve středu vyobrazen lyžař v dobovém oblečení a s dobovými lyžemi s jednou holí. Pravá lyže a hůl přesahují ze středu dvousetkoruny na mezikruží. Vlevo od lyžaře jsou ve dvou řádcích nad sebou letopočty „1903“ a „2003“ oddělené linkou. Na mezikruží je opis „SVAZ LYŽAŘŮ V KRÁLOVSTVÍ ČESKÉM“. Autorem návrhu dvousetkoruny je akademický sochař Ladislav Kozák, jehož iniciály „L•K“ jsou umístěny v pravé spodní části středu dvousetkoruny při vnitřním okraji mezikruží.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 19. listopadu 2003.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### ![sbcr2003c122z0365o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837827/NAHLED/ZOBRAZ/sbcr2003c122z0365o001)
+
+### ![sbcr2003c122z0365o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/837829/NAHLED/ZOBRAZ/sbcr2003c122z0365o002)

@@ -1,0 +1,58 @@
+---
+title: "Zákon č. 133/1993 Sb., kterým se mění a doplňuje zákon č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění zákona č. 267/1992 Sb., a zákon České národní rady č. 231/1991 Sb., o působnosti orgánů České republiky v mimosoudních rehabilitacích, ve znění zákona České národní rady č. 544/1991 Sb."
+identifier: "133/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/133/1993-05-12"
+type: act
+jurisdiction: cz
+language: cs
+date: 1993-04-21
+effective: 1993-05-12
+last_amended: 1993-05-12
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/133"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 133/1993 Sb., kterým se mění a doplňuje zákon č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění zákona č. 267/1992 Sb., a zákon České národní rady č. 231/1991 Sb., o působnosti orgánů České republiky v mimosoudních rehabilitacích, ve znění zákona České národní rady č. 544/1991 Sb.
+
+133
+
+ZÁKON
+
+ze dne 21. dubna 1993,
+
+kterým se mění a doplňuje zákon č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění zákona č. 267/1992 Sb., a zákon České národní rady č. 231/1991 Sb., o působnosti orgánů České republiky v mimosoudních rehabilitacích, ve znění zákona České národní rady č. 544/1991 Sb.
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění zákona č. 267/1992 Sb., se mění a doplňuje takto:
+
+1\. § 14 odst. 2 zní:
+
+> „(2) Oprávněnými osobami jsou rovněž fyzické osoby, jimž byla způsobena jiná křivda orgány státní správy, jejichž rozhodnutí jsou zrušena podle ustanovení § 16, 17, 18 a na základě protestu prokurátora podaného podle § 31.“.
+
+2\. V § 29 odst. 2 se za slova „podle § 17 zákona“ vkládají slova „a řeholníkům a kněžím internovaným v centralizačních klášterech s režimem obdobným táborům nucených prací (§ 18 odst. 2 zákona)“.
+
+3\. V § 29 odst. 3 písm. d) se za slova „v táboře nucených prací“ vkládají slova „nebo centralizačních klášterech s režimem obdobným táborům nucených prací“.
+
+4\. V § 31 se za slova „jiným aktům“ vkládají slova „státní správy“ a slova „do 31. prosince 1992“ se nahrazují slovy „do 31. prosince 1993“.
+
+## Čl. II
+
+Zákon České národní rady č. 231/1991 Sb., o působnosti orgánů České republiky v mimosoudních rehabilitacích, ve znění zákona České národní rady č. 544/1991 Sb., se mění a doplňuje takto:
+
+§ 1 písm. c) zní:
+
+> „c) ministerstvo vnitra České republiky v oblasti správních vztahů (§ 16 odst. 3, § 17 odst. 2 a § 18 odst. 2 zákona).“.
+
+## Čl. III
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.

@@ -1,0 +1,72 @@
+---
+title: "Nařízení vlády č. 329/2002 Sb., kterým se mění nařízení vlády č. 173/1997 Sb., kterým se stanoví vybrané výrobky k posuzování shody, ve znění pozdějších předpisů"
+identifier: "329/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/329/2002-12-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2002-06-26
+effective: 2002-12-01
+last_amended: 2002-12-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/329"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 329/2002 Sb., kterým se mění nařízení vlády č. 173/1997 Sb., kterým se stanoví vybrané výrobky k posuzování shody, ve znění pozdějších předpisů
+
+329
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 26. června 2002,
+
+kterým se mění nařízení vlády č. 173/1997 Sb., kterým se stanoví vybrané výrobky k posuzování shody, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 22 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 71/2000 Sb. a zákona č. 205/2002 Sb., (dále jen „zákon“) k provedení § 12 odst. 1 písm. a), § 12 odst. 4 a § 13 odst. 2 a 4 zákona:
+
+## Čl. I
+
+Nařízení vlády č. 173/1997 Sb., kterým se stanoví vybrané výrobky k posuzování shody, ve znění nařízení vlády č. 174/1998 Sb., nařízení vlády č. 78/1999 Sb. a nařízení vlády č. 323/2000 Sb., se mění takto:
+
+1\. V § 1 odst. 2 se slova „zákona a technických“ nahrazují slovem „právních“.
+
+2\. Příloha č. 1 včetně poznámky pod čarou č. 1) zní:
+
+> **„Příloha č. 1 k nařízení vlády č. 173/1997 Sb.**
+
+> | Poř. č. | Název položky |
+> |---|---|
+> | 1 | lešení trubková, dílcová a kozová včetně trubek, spojovacích a doplňkových součástí (kromě určených pro použití v podzemí) |
+> | 2 | zásahové požární automobily velitelské a vyšetřovací s celkovou hmotností do 2 000 kg<sup>1)</sup>. |
+>
+> <sup></sup>
+
+> <sup>1</sup><sup>)</sup> Zákon č. 133/1985 Sb., o požární ochraně, ve znění pozdějších předpisů.
+
+> Přílohy č. 2, 10 a 11 vyhlášky č. 254/1999 Sb., o technických podmínkách požární techniky.“.
+
+3\. Příloha č. 2 včetně poznámky pod čarou č. 2) zní:
+
+> **„Příloha č. 2 k nařízení vlády č. 173/1997 Sb.**
+
+> <table><tbody><tr><th>Poř. č.</th><th>Název položky</th></tr><tr><td>1</td><td>zemědělské a lesnické traktory - motorová vozidla vybavená koly nebo pásy, jejichž hlavní funkcí je tažná síla, a které jsou konstruovány k tažení, tlačení, nesení nebo pohonu přídavného nářadí, zařízení, strojů a přípojných vozidel určených pro použití v zemědělství nebo lesnictví a lze je použít k provozu na pozemních komunikacích podle zvláštního právního předpisu<sup>2)</sup></td></tr><tr><td>2</td><td>hasicí přístroje</td></tr><tr><td>3</td><td>hasiva (kromě vody bez přísad)</td></tr><tr><td>4</td><td>požární hadice</td></tr><tr><td>5</td><td>požární proudnice a požární armatury</td></tr><tr><td rowspan="7">6</td><td>výrobky určené pro zásahovou činnost jednotek požární ochrany, a to:</td></tr><tr><td>a) žebříky,</td></tr><tr><td>b) hydraulická vyprošťovací zařízení,</td></tr><tr><td>c) zásahové požární automobily (s výjimkou automobilů velitelských a vyšetřovacích s celkovou hmotností do 2 000 kg, automobilových jeřábů a automobilů vyprošťovacích) a kontejnery,</td></tr><tr><td>d) požární čerpadla,</td></tr><tr><td>e) záchranná zařízení pro nouzový únik osob z výšek (seskokové matrace, plachty a záchranné tunely),</td></tr><tr><td>f) zvedací vaky</td></tr><tr><td>7</td><td>prostředky lidové zábavy (zařízení s pohyblivými stanovišti osob, zařízení s omezeně řízeným pohybem osob, zařízení dětských hřišť, zařízení s možností pádu z výšky více než 40 cm, zařízení s možností zvýšené psychické zátěže)</td></tr><tr><td>8</td><td>stavební výtahy určené pro dopravu osob nebo osob a nákladů.</td></tr></tbody></table>
+
+> <sup>2</sup>) Zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb., ve znění zákona č. 478/2001 Sb. a zákona č. 175/2002 Sb. 
+>  Vyhláška č. 301/2001 Sb., o schvalování technické způsobilosti a o technických podmínkách provozu vozidel na pozemních komunikacích.“.
+
+## Čl. II
+
+1\. Toto nařízení nabývá účinnosti prvním dnem pátého měsíce po dni jeho vyhlášení.
+
+2\. V příloze č. 2 k nařízení vlády č. 173/1997 Sb., ve znění tohoto nařízení, položka uvedená pod pořadovým číslem 1 pozbývá platnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+Předseda vlády:
+
+Ing. Zeman v. r.
+
+Místopředseda vlády
+
+a ministr průmyslu a obchodu:
+
+doc. Ing. Grégr v. r.

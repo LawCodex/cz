@@ -1,0 +1,60 @@
+---
+title: "Vyhláška Ministerstva spravedlnosti č. 218/1998 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 265/1997 Sb."
+identifier: "218/1998 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1998/218/1998-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1998-09-17
+effective: 1998-10-01
+last_amended: 1998-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1998/218"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva spravedlnosti č. 218/1998 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 265/1997 Sb.
+
+218
+
+VYHLÁŠKA
+
+Ministerstva spravedlnosti
+
+ze dne 17. září 1998,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 265/1997 Sb.
+
+Ministerstvo spravedlnosti stanoví podle § 40 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění zákona č. 261/1994 Sb.:
+
+## Čl. I
+
+Vyhláška č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 265/1997 Sb., se mění takto:
+
+1\. § 12 zní:
+
+> **„§ 12**
+
+> K výkonu dozoru nad zachováváním zákonnosti v přípravném řízení je příslušný státní zástupce přidělený ke státnímu zastupitelství, které působí při soudu, jenž by byl příslušný konat ve věci po podání obžaloby řízení v prvním stupni.“.
+
+2\. § 13 zní:
+
+> **„§ 13**
+
+> Ustanovení § 12 se obdobně užije i na určení příslušnosti státního zástupce k úkonům trestního řízení před zahájením trestního stíhání. Nemůže-li takový úkon pro jeho neodkladnost provést příslušný státní zástupce, může jej provést i státní zástupce nepříslušný; v takovém případě je třeba příslušného státního zástupce o provedení úkonu bez zbytečného odkladu vyrozumět a věc mu předat.“.
+
+3\. § 14 zní:
+
+> **„§ 14**
+
+> Vyšší státní zastupitelství je příslušné k úkonům trestního řízení před zahájením trestního stíhání a k výkonu dozoru nad zachováváním zákonnosti v přípravném řízení ve věci, kterou odňalo bezprostředně nižšímu státnímu zastupitelství, a působí v ní samo.“.
+
+4\. § 15 se zrušuje.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. října 1998.
+
+Ministr:
+
+JUDr. Motejl v. r.

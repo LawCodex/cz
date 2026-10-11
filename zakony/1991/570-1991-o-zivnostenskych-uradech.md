@@ -1,0 +1,172 @@
+---
+title: "Zákon České národní rady č. 570/1991 Sb., o živnostenských úřadech"
+identifier: "570/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/570/2015-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1991-12-17
+effective: 1992-01-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/570"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon České národní rady č. 570/1991 Sb., o živnostenských úřadech ve znění zákona č. 286/1995 Sb., zákona č. 132/2000 Sb., zákona č. 320/2002 Sb., zákona č. 284/2004 Sb., zákona č. 70/2006 Sb., zákona č. 214/2006 Sb., zákona č. 223/2009 Sb. a zákona č. 458/2011 Sb."
+---
+
+# Zákon České národní rady č. 570/1991 Sb., o živnostenských úřadech
+
+570
+
+ZÁKON
+
+České národní rady
+
+ze dne 17. prosince 1991
+
+o živnostenských úřadech
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## § 1 – Živnostenské úřady
+
+Živnostenskými úřady jsou
+
+a) obecní živnostenské úřady, kterými jsou odbory obecních úřadů obcí s rozšířenou působností,<sup>1</sup>) a na území hlavního města Prahy živnostenské odbory úřadů městských částí určených Statutem hlavního města Prahy,<sup>2</sup>)
+
+b) krajské živnostenské úřady, kterými jsou odbory krajských úřadů,<sup>3</sup>) a na území hlavního města Prahy živnostenský odbor Magistrátu hlavního města Prahy,<sup>4</sup>)
+
+c) Živnostenský úřad České republiky.
+
+## § 2 – Obecní živnostenský úřad
+
+(1) Obecní živnostenský úřad vykonává činnosti v rozsahu stanoveném živnostenským zákonem<sup>5</sup>), plní další úkoly stanovené zvláštními právními předpisy a dále jako centrální registrační místo
+
+a) přijímá přihlášky k registraci nebo oznámení určené správci daně od osob podnikajících na základě živnostenského oprávnění,
+
+b) přijímá oznámení a hlášení v oblasti sociálního zabezpečení od fyzických osob podnikajících na základě živnostenského oprávnění, a to v rozsahu stanoveném zvláštními právními předpisy<sup>5b</sup>),
+
+c) přijímá oznámení osob podnikajících na základě živnostenského oprávnění o vzniku volných pracovních míst nebo jejich obsazení<sup>5c</sup>),
+
+d) přijímá oznámení a hlášení fyzických osob podnikajících na základě živnostenského oprávnění vůči zdravotním pojišťovnám v rozsahu stanoveném zvláštním právním předpisem<sup>5d</sup>).
+
+(2) Obecní živnostenský úřad předává ve lhůtě stanovené zvláštním právním předpisem<sup>5e</sup>) podání, která obdrží podle odstavce 1, příslušným správním úřadům<sup>5f</sup>), které dále postupují podle příslušných zvláštních právních předpisů. Přitom obecní živnostenský úřad neposuzuje úplnost nebo věcnou správnost těchto podání.
+
+(3) Obecní živnostenský úřad je provozovatelem<sup>5g</sup>) živnostenského rejstříku.
+
+(4) Obecní živnostenský úřad plní funkci jednotného kontaktního místa podle zvláštního právního předpisu<sup>5h</sup>).
+
+## § 3 – Krajský živnostenský úřad
+
+(1) Krajský živnostenský úřad
+
+a) vykonává řídící, koordinační, kontrolní a metodickou činnost, a to včetně výkonu funkce centrálních registračních míst a jednotných kontaktních míst, vůči obecním živnostenským úřadům ve svém správním obvodu; obecním živnostenským úřadům ve svém správním obvodu může nařídit provedení živnostenské kontroly,
+
+b) rozhoduje o odvolání proti rozhodnutím obecních živnostenských úřadů<sup>6</sup>) ve svém správním obvodu,
+
+c) spolupracuje na úseku živnostenského podnikání s příslušnými správními úřady, v jejichž působnosti jsou odvětví, ve kterých se provozuje živnostenské podnikání, s hospodářskými komorami, podnikatelskými svazy a sdruženími,
+
+d) je oprávněn vyžadovat od ústředních správních úřadů potřebná stanoviska a vyjádření,
+
+e) je provozovatelem<sup>5g</sup>) živnostenského rejstříku,
+
+f) plní další úkoly stanovené zvláštními právními předpisy.
+
+(2) Stanoviska a vyjádření podle odstavce 1 písm. d) jsou příslušné orgány povinny sdělit krajskému živnostenskému úřadu do 15 dnů.
+
+## § 5 – Živnostenský úřad České republiky
+
+(1) Živnostenský úřad České republiky
+
+a) zpracovává koncepce v oblasti živnostenského podnikání,
+
+b) vykonává řídící, koordinační, kontrolní a metodickou činnost vůči krajským živnostenským úřadům; může nařídit živnostenským úřadům provedení živnostenské kontroly,
+
+c) v zákonem stanovených případech rozhoduje jako správní orgán první instance,
+
+d) rozhoduje o odvolání proti rozhodnutím krajských živnostenských úřadů,<sup>6</sup>)
+
+e) je správcem<sup>5g</sup>) živnostenského rejstříku,
+
+f) spolupracuje na úseku živnostenského podnikání s příslušnými správními úřady, v jejichž působnosti jsou odvětví, ve kterých se provozuje živnostenské podnikání, s hospodářskými komorami, podnikatelskými svazy a sdruženími,
+
+g) je oprávněn vyžadovat od ústředních správních úřadů potřebná stanoviska a vyjádření,
+
+h) plní další úkoly stanovené zvláštními právními předpisy.
+
+(2) Stanoviska a vyjádření podle odstavce 1 písm. g) jsou příslušné orgány povinny sdělit Živnostenskému úřadu České republiky do 15 dnů.
+
+**Společná, přechodná a závěrečná ustanovení**
+
+## § 6
+
+(1) Zaměstnanci obcí, krajů a státu zařazení do živnostenských úřadů jsou oprávněni
+
+požadovat potřebné doklady, údaje a písemná nebo ústní vysvětlení týkající se předmětu jejich činnosti v rozsahu stanoveném živnostenským zákonem.
+
+(2) Zaměstnanci obcí, krajů a státu zařazení do živnostenských úřadů jsou povinni
+
+zachovávat mlčenlivost o skutečnostech, o kterých se dozvěděli v souvislosti s výkonem své činnosti. Porušením povinnosti mlčenlivosti není plnění povinností vůči příslušnému orgánu podle zvláštního právního předpisu o boji proti legalizaci výnosů z trestné činnosti nebo zvláštního právního předpisu o provádění mezinárodních sankcí za účelem udržování mezinárodního míru a bezpečnosti, ochrany základních lidských práv a boje proti terorismu.
+
+(3) Činnosti vykonávané obecními živnostenskými úřady a krajskými živnostenskými úřady jsou výkonem státní správy v přenesené působnosti.
+
+## § 7
+
+Do doby zřízení Živnostenského úřadu České republiky vykonává jeho působnost Ministerstvo průmyslu a obchodu České republiky.
+
+## § 8
+
+Zrušují se:
+
+1\. zákon České národní rady č. 127/1990 Sb., o některých opatřeních souvisejících s vydáním zákona o soukromém podnikání;
+
+2\. zákon České národní rady č. 127/1981 Sb., o vnitřním obchodě, ve znění zákona České národní rady č. 116/1988 Sb., kterým se mění a doplňuje zákon o vnitřním obchodě, zákona České národní rady č. 127/1990 Sb. a zákona České národní rady č. 200/1990 Sb.;
+
+3\. vyhláška ministerstva obchodu ČSR č. 93/1982 Sb., kterou se provádějí některá ustanovení zákona České národní rady č. 127/1981 Sb., o vnitřním obchodě, ve znění vyhlášky ministerstva obchodu a cestovního ruchu ČSR č. 138/1988 Sb. a zákona České národní rady č. 127/1990 Sb.
+
+## § 9
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1992.
+
+Burešová v. r.
+
+Pithart v. r.
+
+---
+
+<sup>1</sup>) § 66 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů. 
+ Zákon č. 314/2002 Sb., o stanovení obcí s pověřeným obecním úřadem a stanovení obcí s rozšířenou působností.
+
+<sup>2</sup>) § 17 odst. 1 písm. a) zákona č. 131/2000 Sb., o hlavním městě Praze.
+
+<sup>3</sup>) § 68 odst. 2 zákona č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů.
+
+<sup>4</sup>) § 81 odst. 4 zákona č. 131/2000 Sb., ve znění zákona č. 145/2001 Sb.
+
+<sup>5</sup>) Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů.
+
+<sup>5a</sup>) § 33 zákona č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.
+
+<sup>5b</sup>) § 10a zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění zákona č. 214/2006 Sb.
+
+<sup>5c</sup>) § 35 zákona č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů.
+
+<sup>5d</sup>) § 10a zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 214/2006 Sb.
+
+<sup>5e</sup>) § 45a odst. 6 živnostenského zákona.
+
+<sup>5f</sup>) § 45a odst. 4 živnostenského zákona.
+
+<sup>5g</sup>) § 2 zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění zákona č. 517/2002 Sb.
+
+<sup>5h</sup>) Zákon č. 222/2009 Sb., o volném pohybu služeb.
+
+<sup>6</sup>) Zákon č. 71/1967 Sb., o správním řízení (správní řád), ve znění pozdějších předpisů.
+
+<sup>8</sup>) § 66 zákona č. 455/1991 Sb.
+
+<sup>9</sup>) § 60 odst. 1 zákona č. 455/1991 Sb.
+
+<sup>10</sup>) § 49 odst. 2 zákona č. 455/1991 Sb.
+
+<sup>11</sup>) Např. zákon č. 169/1949 Sb., o vojenských újezdech, zákon č. 102/1971 Sb., o ochraně státního tajemství, v platném znění.

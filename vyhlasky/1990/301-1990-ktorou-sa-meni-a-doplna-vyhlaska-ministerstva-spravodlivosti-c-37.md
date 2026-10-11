@@ -1,0 +1,75 @@
+---
+title: "Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 301/1990 Sb., ktorou sa mení a dopĺňa vyhláška Ministerstva spravodlivosti č. 37/1967 Zb. na vykonanie zákona o znalcoch a tlmočníkoch v znení vyhlášky č. 6/1985 Zb."
+identifier: "301/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/301/1990-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1990-07-03
+effective: 1990-08-01
+last_amended: 1990-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/301"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 301/1990 Sb., ktorou sa mení a dopĺňa vyhláška Ministerstva spravodlivosti č. 37/1967 Zb. na vykonanie zákona o znalcoch a tlmočníkoch v znení vyhlášky č. 6/1985 Zb.
+
+301
+
+VYHLÁŠKA
+
+Ministerstva spravodlivosti Slovenskej republiky
+
+z 3. júla 1990,
+
+ktorou sa mení a dopĺňa vyhláška Ministerstva spravodlivosti č. 37/1967 Zb. na vykonanie zákona o znalcoch a tlmočníkoch v znení vyhlášky č. 6/1985 Zb.
+
+Ministerstvo spravodlivosti Slovenskej republiky ustanovuje podľa § 26 zákona č. 36/1967 Zb. o znalcoch a tlmočníkoch:
+
+## Čl. I
+
+Vyhláška Ministerstva spravodlivosti č. 37/1967 Zb. na vykonanie zákona o znalcoch a tlmočníkoch, v znení vyhlášky Ministerstva spravodlivosti Slovenskej socialistickej republiky č. 6/1985 Zb., sa mení a dopĺňa takto:
+
+1\. Za časť druhú sa vsúva nová časť tretia, ktorá vrátane nadpisu znie:
+
+> **„ČASŤ III – Odmeňovanie ústavov**
+
+> **§ 15a**
+
+> Ústavom a iným pracoviskám uvedeným v § 21 zákona (ďalej len „znalecké ústavy“) patrí za výkon znaleckej činnosti odmena a náhrada nákladov (ďalej len „znalečné“) vo výške zodpovedajúcej cenám, určenými osobitnými predpismi.<sup>1</sup>)
+
+> **§ 15b**
+
+> Ak ustanovuje osobitný predpis<sup>2</sup>) pre niektoré druhy znaleckých posudkov paušálne odmeny a náhrady, znalecké ústavy podľa tohto osobitného predpisu nepostupujú.
+
+> **§ 15c**
+
+> Pri rozhodovaní o znalečnom platí ustanovenie § 25 ods. 2 vyhlášky. Štátny orgán je oprávnený znalečné znížiť, ak bol znalecký úkon vykonaný oneskorene alebo nekvalitne.“.
+
+2\. Doterajšie časti III a IV sa označujú ako časti IV a V.
+
+3\. V § 25 sa vypúšťa odsek 6.
+
+## Čl. II
+
+Za znalecké posudky, ktoré boli doručené štátnemu orgánu predo dňom účinnosti tejto vyhlášky, patrí znaleckým ústavom odmena a náhrada nákladov podľa doterajších predpisov.
+
+## Čl. III
+
+Táto vyhláška nadobúda účinnosť 1. augustom 1990.
+
+Minister:
+
+Doc. JUDr. Košťa CSc. v. r.
+
+---
+
+<sup>1</sup>) Vyhláška Federálneho cenového úradu, Ministerstva financií, cien a miezd Českej socialistickej republiky a Ministerstva financií cien a miezd Slovenskej socialistickej republiky č. 22/1990 Zb. o tvorbe a kontrole cien 
+ Vyhláška Federálneho cenového úradu, Ministerstva financií, cien a miezd Českej socialistickej republiky a Ministerstva financií, cien a miezd Slovenskej socialistickej republiky č. 35/1990 Zb. o zmluvných cenách, pol. 236 prílohy vyhlášky 
+ Vyhláška Federálneho ministerstva financií č. 21/1990 Zb. o kalkulácii 
+ Smernica Federálneho ministerstva financií č. 19/1985 pre kalkuláciu vlastných nákladov a dalších položiek ceny výkonu (reg. v čiastke 31/1978 Zb.)
+
+<sup>2</sup>) Napr. Inštrukcia Ministerstva spravodlivosti SSR č. 5/1975 Zbierky inštrukcií a oznámení Ministerstva spravodlivosti SSR o paušálnych odmenách a náhradách nákladov za znalecké posudky z odvetvia ľudskej genetiky 
+ Výnos Ministerstva spravodlivosti SSR č. 5285/89-50 o paušálnych odmenách a náhradách nákladov za znalecké posudky spojené s vykonaním pitvy, súdnolekárskych vyšetrení histologických, toxikologických, biologických a s posúdením ujmy na zdraví (reg. v čiastke 35/1989 Zb. 
+ Výnos Ministerstva spravodlivosti SSR č. 5694/89-50 o paušálnych odmenách a náhradách za znalecké posudky o cene stavieb, pozemkov, trvalých porastov a o náhradách za zriadenie práva osobného užívania pozemkov (reg. v čiastke 35/1989 Zb.).

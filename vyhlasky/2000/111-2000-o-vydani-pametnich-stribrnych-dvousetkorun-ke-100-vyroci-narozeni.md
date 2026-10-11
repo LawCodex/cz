@@ -1,0 +1,56 @@
+---
+title: "Vyhláška České národní banky č. 111/2000 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Vítězslava Nezvala"
+identifier: "111/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/111/2000-05-17"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-04-07
+effective: 2000-05-17
+last_amended: 2000-05-17
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/111"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 111/2000 Sb., o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Vítězslava Nezvala
+
+111
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 7. dubna 2000
+
+o vydání pamětních stříbrných dvousetkorun ke 100. výročí narození Vítězslava Nezvala
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Ke 100. výročí narození básníka, dramatika, prozaika a překladatele Vítězslava Nezvala se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,20 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*“. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je stylizovaný velký státní znak České republiky. Heraldická zvířata jsou umístěna na čtvercovém štítu, jehož pravou a levou stranu částečně přesahují. Název státu je umístěn v řádku pod státním znakem. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je umístěno rovněž v řádku pod názvem státu. Značka mincovny, která dvousetkorunu razila, je umístěna uprostřed nad státním znakem.
+
+(2) Na rubu dvousetkoruny je vpravo umístěn stylizovaný portrét Vítězslava Nezvala, volně ztvárněný podle karikatury Adolfa Hoffmeistra. Při levém okraji dvousetkoruny je neuzavřený opis „VÍTĚZSLAV NEZVAL“. Písmena příjmení jsou větší než písmena jména. Při pravém spodním okraji dvousetkoruny jsou ve dvou řádcích letopočty „1900“ a „2000“, které z větší části zasahují do portrétu. Autorem návrhu dvousetkoruny je akademický sochař Ladislav Kozák. Iniciály jeho jména „L·K“ jsou umístěny při pravém spodním okraji dvousetkoruny pod letopočty.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 17. května 2000.
+
+Guvernér:
+
+v z. Ing. Dědek, CSc. v. r.
+
+viceguvernér
+
+### ![sbcr2000c033z0111o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/786411/NAHLED/ZOBRAZ/sbcr2000c033z0111o001)
+
+### ![sbcr2000c033z0111o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/786413/NAHLED/ZOBRAZ/sbcr2000c033z0111o002)

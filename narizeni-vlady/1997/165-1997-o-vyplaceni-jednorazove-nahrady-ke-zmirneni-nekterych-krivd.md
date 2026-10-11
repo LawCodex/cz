@@ -1,0 +1,65 @@
+---
+title: "Nařízení vlády č. 165/1997 Sb., o vyplacení jednorázové náhrady ke zmírnění některých křivd způsobených komunistickým režimem"
+identifier: "165/1997 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1997/165/1998-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1997-06-25
+effective: 1998-01-01
+last_amended: 1998-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1997/165"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 165/1997 Sb., o vyplacení jednorázové náhrady ke zmírnění některých křivd způsobených komunistickým režimem
+
+165
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. června 1997
+
+o vyplacení jednorázové náhrady ke zmírnění některých křivd způsobených komunistickým režimem
+
+Vláda nařizuje podle § 8 zákona č. 198/1993 Sb., o protiprávnosti komunistického režimu a o odporu proti němu:
+
+## § 1
+
+(1) Osoby, které vykonaly trest odnětí svobody, jeho část nebo vazbu pro trestný čin, za který byly rehabilitovány podle zákona č. 82/1968 Sb., o soudní rehabilitaci, podle zákona č. 119/1990 Sb., o soudní rehabilitaci, ve znění zákona č. 47/1991 Sb. a zákona č. 633/1992 Sb., nebo jejichž odsouzení pro trestný čin uvedený v § 2 zákona č. 119/1990 Sb., ve znění zákona č. 47/1991 Sb., bylo zrušeno cestou obnovy řízení, stížnosti pro porušení zákona anebo bylo zrušeno podle § 6 zákona č. 198/1993 Sb., o protiprávnosti komunistického režimu a odporu proti němu, dále osoby zařazené do tábora nucených prací, u nichž rozhodnutí o zařazení do tábora nucených prací bylo zrušeno podle § 17 odst. 1 zákona č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění zákona č. 267/1992 Sb., a dále řeholníci a kněží, kteří byli internováni v centralizovaných klášterech s režimem obdobným táborům nucených prací,<sup>1</sup>) (dále jen „rehabilitované osoby“) mají nárok na poskytnutí jednorázové finanční náhrady ke zmírnění některých křivd způsobených jim komunistickým režimem v oblasti zdravotní (dále jen „jednorázová náhrada“).
+
+(2) Jednorázová náhrada se stanoví ve výši 625 Kč za každý započatý měsíc vazby, výkonu trestu odnětí svobody, doby strávené v táboře nucených prací nebo v centralizovaném klášteře s režimem obdobným táborům nucených prací.
+
+## § 2
+
+(1) Jednorázová náhrada bude přiznána rozhodnutím místně příslušného pověřeného obecního úřadu<sup>2</sup>) vydaným na základě písemné žádosti, ke které rehabilitované osoby připojí doklady o svém nároku.
+
+(2) Jednorázová náhrada je splatná do 15 dnů od právní moci rozhodnutí.
+
+## § 3
+
+Právo žádat o vyplacení jednorázové náhrady nepřechází na dědice rehabilitovaných osob.
+
+## § 4
+
+Toto nařízení se nevztahuje na rehabilitované osoby, které vykonaly trest odnětí svobody, jeho část nebo vazbu kratší než 12 měsíců anebo byly na dobu kratší než 12 měsíců zařazeny do tábora nucených prací nebo centralizovaného kláštera s režimem obdobným táborům nucených prací.
+
+## § 5
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1998.
+
+Předseda vlády:
+
+prof. Ing. Klaus CSc. v. r.
+
+Ministr zdravotnictví:
+
+PhDr. Stráský v. r.
+
+---
+
+<sup>1</sup>) § 18 odst. 2 zákona č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění zákona č. 267/1992 Sb.
+
+<sup>2</sup>) § 60 odst. 1 zákona ČNR č. 367/1990 Sb., o obcích (obecní zřízení), ve znění zákona ČNR č. 302/1992 Sb. 
+ Zákon č. 71/1967 Sb., o správním řízení (správní řád).

@@ -1,0 +1,57 @@
+---
+title: "Vyhláška Ministerstva zdravotnictví České republiky č. 376/1991 Sb., o závaznosti Doplňku k Československému lékopisu - čtvrtému vydání v České republice"
+identifier: "376/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/376/1991-12-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1991-08-29
+effective: 1991-12-01
+last_amended: 1991-12-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/376"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva zdravotnictví České republiky č. 376/1991 Sb., o závaznosti Doplňku k Československému lékopisu - čtvrtému vydání v České republice
+
+376
+
+VYHLÁŠKA
+
+ministerstva zdravotnictví České republiky
+
+ze dne 29. srpna 1991
+
+o závaznosti Doplňku k Československému lékopisu - čtvrtému vydání v České republice
+
+Ministerstvo zdravotnictví České republiky stanoví podle § 70 odst. 1 písm. c) zákona č. 20/1966 Sb., o péči o zdraví lidu:
+
+## § 1
+
+Tato vyhláška stanoví pro území České republiky závaznost Doplňku k Československému lékopisu - čtvrtému vydání (dále jen „Doplněk“).<sup>1</sup>)
+
+## § 2
+
+Doplněk tvoří nedílnou součást Československého lékopisu - čtvrtého vydání.<sup>2</sup>)
+
+## § 3
+
+Doplněk je uložen na Magistrátním úřadu hlavního města Prahy, na okresních úřadech, na městských úřadech a v organizacích, pro které je Československý lékopis - čtvrté vydání závazný.<sup>3</sup>)
+
+## § 4
+
+Tato vyhláška nabývá účinnosti dnem 1. prosince 1991.
+
+Ministr:
+
+MUDr. Bojar CSc. v. r.
+
+---
+
+<sup>1</sup>) Doplněk společně vydávají ministerstvo zdravotnictví České republiky a ministerstvo zdravotnictví Slovenské republiky v Avicenu, zdravotnickém nakladatelství.
+
+<sup>2</sup>) Vyhláška ministerstva zdravotnictví České socialistické republiky č. 10/1987 Sb., o závaznosti Československého lékopisu - čtvrtého vydání v České socialistické republice. 
+ Vyhláška ministerstva zdravotnictví a sociálních věcí České socialistické republiky č. 62/1990 Sb., o závaznosti Oprav a změn Československého lékopisu - čtvrtého vydání v České socialistické republice.
+
+<sup>3</sup>) § 2 odst. 1 vyhlášky č. 10/1987 Sb.

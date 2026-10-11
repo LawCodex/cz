@@ -1,0 +1,58 @@
+---
+title: "Vyhláška České národní banky č. 236/1997 Sb., o vydání bankovek po 100 Kč vzoru 1997"
+identifier: "236/1997 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1997/236/1997-10-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1997-09-14
+effective: 1997-10-01
+last_amended: 1997-10-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1997/236"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 236/1997 Sb., o vydání bankovek po 100 Kč vzoru 1997
+
+236
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 14. září 1997
+
+o vydání bankovek po 100 Kč vzoru 1997
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Dnem 15. října 1997 se vydávají do oběhu bankovky po 100 Kč vzoru 1997.
+
+(2) Bankovky po 100 Kč vzoru 1997 se od bankovek po 100 Kč vzoru 1993<sup>1</sup>) a od bankovek po 100 Kč vzoru 1995<sup>2</sup>) liší použitým bankovkovým papírem, provedením ochranné soutiskové značky, letopočtem vydání bankovky a velikostí grafického symbolu.
+
+## § 2
+
+(1) Bankovkový papír použitý pro tisk bankovek po 100 Kč vzoru 1997 je opatřen viditelnými oranžovými ochrannými vlákny o délce 6 mm.
+
+(2) Ochranná soutisková značka u bankovek po 100 Kč vzoru 1997 má v průhledu proti světlu podobu písmen „ČR“ umístěných v bílé kruhové ploše. Část ochranné soutiskové značky viditelná na lícní straně je vytištěna v barvě fialové a je umístěna v pravé horní části tiskového obrazce bankovky. Část ochranné soutiskové značky viditelná na rubové straně je vytištěna v barvě tmavě zelenošedé a je umístěna v levé horní části tiskového obrazce bankovky.
+
+(3) Letopočet vydání bankovky na lícní straně je vytištěn tiskem z plochy v barvě fialové, je umístěn v levé dolní části tiskového obrazce lícní strany bankovky a je vyznačen číslem „1997“. V podtisku pod číslicemi letopočtu chybí fialová barva.
+
+(4) Grafický symbol na rubové straně bankovky je výrazně větší než u bankovek po 100 Kč vzoru 1995.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. října 1997.
+
+Guvernér:
+
+Ing. Tošovský v. r.
+
+---
+
+<sup>1</sup>) Vyhláška České národní banky č. 158/1993 Sb., o vydání bankovek po 100 Kč, o ukončení platnosti bankovek po 100 Kčs opatřených kolkem a jejich výměně.
+
+<sup>2</sup>) Vyhláška České národní banky č. 65/1995 Sb., o vydání bankovek po 100 Kč vzoru 1995.

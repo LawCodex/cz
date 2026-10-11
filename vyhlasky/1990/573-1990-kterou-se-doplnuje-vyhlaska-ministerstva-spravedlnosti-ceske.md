@@ -1,0 +1,44 @@
+---
+title: "Vyhláška Ministerstva spravedlnosti České republiky č. 573/1990 Sb., kterou se doplňuje vyhláška ministerstva spravedlnosti České republiky č. 270/1990 Sb., o odměnách advokátů a komerčních právníků za poskytování právní pomoci"
+identifier: "573/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/573/1991-02-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1990-12-17
+effective: 1991-02-01
+last_amended: 1991-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/573"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva spravedlnosti České republiky č. 573/1990 Sb., kterou se doplňuje vyhláška ministerstva spravedlnosti České republiky č. 270/1990 Sb., o odměnách advokátů a komerčních právníků za poskytování právní pomoci
+
+573
+
+VYHLÁŠKA
+
+ministerstva spravedlnosti České republiky
+
+ze dne 17. prosince 1990,
+
+kterou se doplňuje vyhláška ministerstva spravedlnosti České republiky č. 270/1990 Sb., o odměnách advokátů a komerčních právníků za poskytování právní pomoci
+
+Ministerstvo spravedlnosti České republiky podle § 51 zákona České národní rady č. 128/1990 Sb., o advokacii, a podle § 46 zákona České národní rady č. 209/1990 Sb., o komerčních právnících a právní pomoci jimi poskytované, stanoví:
+
+## Čl. I
+
+Vyhláška ministerstva spravedlnosti České republiky č. 270/1990 Sb., o odměnách advokátů a komerčních právníků za poskytování právní pomoci, se doplňuje takto:
+
+§ 15 se doplňuje odstavcem 3, který zní:
+
+> „(3) Za převzetí obhajoby a za každý další úkon právní pomoci ve věcech, ve kterých soud prvního stupně rozhoduje v neveřejném zasedání, náleží odměna ve výši 100 Kčs; k sazbám podle odstavce 1 se nepřihlíží.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. února 1991.
+
+Ministr:
+
+JUDr. Richter v. r.

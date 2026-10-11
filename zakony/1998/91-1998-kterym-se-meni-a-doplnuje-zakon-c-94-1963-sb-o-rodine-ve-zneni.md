@@ -1,0 +1,101 @@
+---
+title: "Zákon č. 91/1998 Sb., kterým se mění a doplňuje zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, a o změně a doplnění dalších zákonů"
+identifier: "91/1998 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1998/91/2014-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1998-04-03
+effective: 1998-08-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1998/91"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 91/1998 Sb., kterým se mění a doplňuje zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, a o změně a doplnění dalších zákonů ve znění zákona č. 281/2009 Sb., zákona č. 329/2011 Sb. a zákona č. 89/2012 Sb."
+---
+
+# Zákon č. 91/1998 Sb., kterým se mění a doplňuje zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, a o změně a doplnění dalších zákonů
+
+91
+
+ZÁKON
+
+ze dne 3. dubna 1998,
+
+kterým se mění a doplňuje zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, a o změně a doplnění dalších zákonů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. III
+
+Zákon č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 36/1967 Sb., zákona č. 158/1969 Sb., zákona č. 49/1973 Sb., zákona č. 20/1975 Sb., zákona č. 133/1982 Sb., zákona č. 180/1990 Sb., zákona č. 328/1991 Sb., zákona č. 519/1991 Sb., zákona č. 263/1992 Sb., zákona České národní rady č. 24/1993 Sb., zákona č. 171/1993 Sb., zákona č. 117/1994 Sb., zákona č. 152/1994 Sb., zákona č. 216/1994 Sb., zákona č. 84/1995 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 238/1995 Sb., zákona č. 247/1995 Sb., nálezu Ústavního soudu České republiky č. 31/1996 Sb., zákona č. 142/1996 Sb., nálezu Ústavního soudu České republiky č. 269/1996 Sb., zákona č. 202/1997 Sb., zákona č. 227/1997 Sb. a zákona č. 15/1998 Sb., se mění a doplňuje takto:
+
+1\. § 74 odst. 4 věta první zní: „K rozhodnutí o návrhu na předběžné opatření podle § 76a je příslušný okresní soud, který je místně příslušný pro obvod (okres) navrhovatele.“.
+
+2\. § 113 odst. 1 se vypouští a zároveň se zrušuje číslování odstavců.
+
+3\. V § 142 odst. 1 větě druhé se slovo „prokurátora“ nahrazuje slovy „nejvyššího státního zástupce“.
+
+4\. V § 176 odst. 1 se slova „o omezení nebo zbavení rodičovských práv“ nahrazují slovy „o přiznání, omezení nebo zbavení rodičovské zodpovědnosti anebo o pozastavení jejího výkonu, o poručenství“.
+
+5\. V § 181 odst. 1 se za slovo „rodiče“ vkládají tato slova: „, popřípadě poručník“.
+
+6\. § 181 odst. 2 a 3 včetně poznámek č. 37) a 38) znějí:
+
+> „(2) Rozhodne-li soud v řízení, jehož účastníky jsou rodiče a dítě, že k osvojení není třeba souhlasu rodičů osvojovaného dítěte, ačkoliv jsou jeho zákonnými zástupci,<sup>37</sup>) nejsou rodiče osvojovaného dítěte účastníky řízení o osvojení.
+
+> (3) Rodiče osvojovaného dítěte nejsou účastníky řízení o osvojení, jestliže
+
+> a) jsou zbaveni rodičovské zodpovědnosti, nebo
+
+> b) nemají způsobilost k právním úkonům v plném rozsahu, nebo
+
+> c) dali souhlas k osvojení předem bez vztahu k určitým osvojitelům.<sup>38</sup>)
+
+> <sup>37</sup>) § 68 odst. 1 zákona č. 94/1963 Sb., ve znění zákona č. 132/1982 Sb.
+
+> <sup>38</sup>) § 68a zákona č. 94/1963 Sb.“.
+
+7\. § 181 se doplňuje odstavcem 4, který zní:
+
+> „(4) Manžel osvojitele není účastníkem řízení, není-li k osvojení třeba jeho souhlasu.“.
+
+8\. § 238 odst. 2 písm. b) zní:
+
+> „b) ve věcech upravených zákonem o rodině, ledaže jde o rozsudek o omezení nebo zbavení rodičovské zodpovědnosti nebo pozastavení jejího výkonu, určení (popření) otcovství nebo mateřství nebo nezrušitelného osvojení.“.
+
+## Čl. VI
+
+Zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění zákona č. 137/1996 Sb., zákona č. 132/1997 Sb. a zákona č. 242/1997 Sb., se mění takto:
+
+1\. V § 24 odst. 1 a § 25 odst. 1 se číslo „1,40“ nahrazuje číslem „1,60“.
+
+2\. § 43 odst. 2 zní:
+
+> „(2) Jestliže poručník o dítě osobně pečuje, náleží poručníkovi a dítěti dávky podle § 37 až 42.“.
+
+## Čl. VIII – Přechodná ustanovení
+
+1\. Manžel, který přijal před účinností tohoto zákona příjmení druhého manžela, může do 31. prosince 1998 oznámit matričnímu úřadu, že bude užívat a na druhém místě uvádět příjmení předchozí.
+
+2\. Věci, které ke dni 1. srpna 1998 tvořily bezpodílové spoluvlastnictví manželů, se stávají součástí společného jmění manželů. Pohledávky a dluhy, které vznikly před 1. srpnem 1998 a které se podle tohoto zákona považují za součást společného jmění manželů, se stávají jeho součástí. Pokud jiné předpisy mluví o bezpodílovém spoluvlastnictví manželů, rozumí se tím společné jmění manželů.
+
+3\. Opatrovníci ustanovení podle § 78 zákona o rodině se považují od 1. srpna 1998 za poručníky s právy a povinnostmi zde uvedenými. Pokud jiné předpisy mluví o opatrovnictví a opatrovnících podle § 78 zákona o rodině, rozumí se tím podle povahy věci poručenství a poručníci.
+
+4\. Církvemi a náboženskými společnostmi oprávněnými ve smyslu § 3 odst. 1 zákona o rodině jsou církve a náboženské společnosti, které jsou registrovány podle zákona č. 308/1991 Sb., o svobodě náboženské víry a postavení církví a náboženských společností.
+
+5\. Ustanoveními tohoto zákona se řídí i právní vztahy vzniklé před 1. srpnem 1998; vznik těchto právních vztahů, jakož i práva a povinnosti z nich vzniklé do 31. července 1998 se však posuzují podle dosavadních předpisů.
+
+## Čl. IX
+
+Předseda Poslanecké sněmovny se zmocňuje, aby ve Sbírce zákonů České republiky vyhlásil úplné znění zákona č. 94/1963 Sb., o rodině, jak vyplývá z pozdějších předpisů.
+
+## Čl. X – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. srpna 1998, s výjimkou čl. VI bodu 1, který nabývá účinnosti dnem 1. července 1998.
+
+Zeman v. r.
+
+Havel v. r
+
+Tošovský v. r.

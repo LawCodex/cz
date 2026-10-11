@@ -1,0 +1,82 @@
+---
+title: "Nariadenie vlády Slovenskej republiky č. 645/1992 Sb., ktorým sa menia a dopĺňajú niektoré vykonávacie predpisy k Zákonníku práce a k zákonu o mzde"
+identifier: "645/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/645/1993-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1992-12-15
+effective: 1993-01-01
+last_amended: 1993-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/645"
+retrieved: 2026-10-11
+---
+
+# Nariadenie vlády Slovenskej republiky č. 645/1992 Sb., ktorým sa menia a dopĺňajú niektoré vykonávacie predpisy k Zákonníku práce a k zákonu o mzde
+
+645
+
+NARIADENIE VLÁDY
+
+Slovenskej republiky
+
+z 15. decembra 1992,
+
+ktorým sa menia a dopĺňajú niektoré vykonávacie predpisy k Zákonníku práce a k zákonu o mzde
+
+Vláda Slovenskej republiky podľa § 111 ods. 3, § 121 ods. 2 Zákonníka práce, § 4 ods. 4, § 7 ods. 2 a § 14 ods. 2 zákona č. 1/1992 Zb. o mzde, odmene za pracovnú pohotovosť a o priemernom zárobku a podľa čl. III bodu 1 ústavného zákona č. 143/1968 Zb. o československej federácii v znení ústavného zákona č. 493/1992 Zb. nariaďuje:
+
+## Čl. I
+
+Nariadenie vlády Československej socialistickej republiky č. 223/1988 Zb., ktorým sa vykonáva Zákonník práce, v znení nariadenia vlády Českej a Slovenskej Federatívnej Republiky č. 13/1991 Zb. sa mení a dopĺňa takto:
+
+1\. § 21 ods. 1 prvá veta znie: „Zo mzdy sa zrazí najprv poistné na zdravotné poistenie, nemocenské poistenie a dôchodkové poistenie,<sup>5</sup>) príspevok do fondu zamestnanosti<sup>5a</sup>) a daň z príjmov fyzických osôb.<sup>5b</sup>)“.
+
+2\. Poznámka pod čiarou č. 5) znie:
+
+> „<sup>5</sup>) Zákon Národnej rady Slovenskej republiky č. 7/1993 Zz. o zriadení Národnej poisťovne a o financovaní zdravotného poistenia, nemocenského poistenia a dôchodkového poistenia.“.
+
+3\. Poznámka pod čiarou č. 5a) znie:
+
+> „<sup>5a</sup>) Zákon Národnej rady Slovenskej republiky č. 10/1993 Zz. o Fonde zamestnanosti Slovenskej republiky a o zmene a doplnení niektorých zákonov.“.
+
+4\. Poznámka pod čiarou č. 5b) znie:
+
+> „<sup>5b</sup>) § 6 zákona č. 286/1992 Zb. o daniach z príjmov.“.
+
+5\. § 27 ods. 2 znie:
+
+> „(2) Pri priznávaní náhrady mzdy sa prihliada len na osoby, ktoré sa uznávajú na účely dane z príjmov fyzických osôb za osoby vyživované pracovníkom,<sup>5c</sup>) a to bez ohľadu na to, či sa mu na ne priznáva zníženie dane z príjmov fyzických osôb; prihliada sa však aj na deti, na ktoré patria prídavky na deti alebo výchovné, aj keď sa na účely zníženia dane z príjmov fyzických osôb nepovažujú za vyživované osoby.“.
+
+6\. Poznámka pod čiarou č. 5c) znie:
+
+> „<sup>5c</sup>) § 15 zákona č. 286/1992 Zb.“.
+
+7\. V § 48 ods. 2 sa slová „dane zo mzdy“ nahrádzajú slovami „dane z príjmov fyzických osôb“.
+
+## Čl. II
+
+Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 43/1992 Zb. o ustanovení minimálnych, mzdových taríf a mzdového zvýhodnenia za prácú v sťaženom a zdraviu škodlivom pracovnom prostredí a za prácu v noci sa mení takto:
+
+1\. V § 2 ods. 1 v tabuľkovej časti „Sadzba v Kčs za hodinu“ a „Sadzba v Kčs za mesiac“ sa vypúštajú stĺpce sadzieb „znížená o 15 %“.
+
+2\. § 2 ods. 2 sa vypúšťa.
+
+Doterajšie odseky 3 až 5 sa označujú ako odseky 2 až 4.
+
+## Čl. III
+
+Nariadenie vlády Českej a Slovenskej Federatívnej Republiky č. 53/1992 Zb. o minimálnej mzde sa mení takto:
+
+§ 2 ods. 1 písm. a) a b) znejú:
+
+> „a) za každú hodinu odpracovanú zamestnancom 12 Kčs,
+
+> b) za mesiac 2200 Kčs pre zamestnanca odmeňovaného mesačnou mzdou,“.
+
+## Čl. IV
+
+Toto nariadenie vlády nadobúda účinnosť 1. januárom 1993.
+
+Mečiar v. r.

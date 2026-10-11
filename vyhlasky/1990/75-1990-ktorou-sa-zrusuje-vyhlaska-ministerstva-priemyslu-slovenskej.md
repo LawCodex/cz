@@ -1,0 +1,40 @@
+---
+title: "Vyhláška Ministerstva priemyslu Slovenskej republiky č. 75/1990 Sb., ktorou sa zrušuje vyhláška Ministerstva priemyslu Slovenskej socialistickej republiky č. 155/1970 Zb. o zriaďovaní a pôsobnosti tlačiarní a rozmnožovní a o povinnej evidencii tlačiarenských strojov v znení vyhlášky č. 161/1971 Zb."
+identifier: "75/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/75/1990-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1990-03-06
+effective: 1990-04-01
+last_amended: 1990-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/75"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva priemyslu Slovenskej republiky č. 75/1990 Sb., ktorou sa zrušuje vyhláška Ministerstva priemyslu Slovenskej socialistickej republiky č. 155/1970 Zb. o zriaďovaní a pôsobnosti tlačiarní a rozmnožovní a o povinnej evidencii tlačiarenských strojov v znení vyhlášky č. 161/1971 Zb.
+
+75
+
+VYHLÁŠKA
+
+Ministerstva priemyslu Slovenskej republiky
+
+zo 6. marca 1990,
+
+ktorou sa zrušuje vyhláška Ministerstva priemyslu Slovenskej socialistickej republiky č.155/1970 Zb. o zriaďovaní a pôsobnosti tlačiarní a rozmnožovní a o povinnej evidencii tlačiarenských strojov v znení vyhlášky č. 161/1971 Zb.
+
+Ministerstvo priemyslu Slovenskej republiky podľa § 1 zákona č. 272/1949 Zb. o vedení výroby a distribúcie v odbore pôsobnosti ministra informácií a osvety ustanovuje:
+
+## § 1
+
+Zrušuje sa vyhláška Ministerstva priemyslu Slovenskej socialistickej republiky č. 155/1970 Zb. o zriaďovaní a pôsobnosti tlačiarní a rozmnožovní a o povinnej evidencii tlačiarenských strojov v znení vyhlášky Ministerstva priemyslu Slovenskej socialistickej republiky č. 161/1971 Zb., ktorou sa mení a dopĺňa vyhláška Ministerstva priemyslu Slovenskej socialistickej republiky č. 155/1970 Zb.
+
+## § 2
+
+Táto vyhláška nadobúda účinnosť 1. aprílom 1990.
+
+Minister:
+
+Ing. Ducký v. r.

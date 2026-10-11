@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 67/1994 Sb., o vydání pamětních stříbrných dvousetkorun k 650. výročí založení pražského arcibiskupství a položení základního kamene ke Katedrále sv. Víta"
+identifier: "67/1994 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1994/67/1994-04-20"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1994-03-28
+effective: 1994-04-20
+last_amended: 1994-04-20
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1994/67"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 67/1994 Sb., o vydání pamětních stříbrných dvousetkorun k 650. výročí založení pražského arcibiskupství a položení základního kamene ke Katedrále sv. Víta
+
+67
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 28. března 1994
+
+o vydání pamětních stříbrných dvousetkorun k 650. výročí založení pražského arcibiskupství a položení základního kamene ke Katedrále sv. Víta
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) U příležitosti 650. výročí založení pražského arcibiskupství a položení základního kamene ke Katedrále sv. Víta se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,3 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká. Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolena odchylka nahoru i dolů v hmotnosti 0,13 g, v průměru 0,1 mm, v síle 0,1 mm a v obsahu stříbra 0,5 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je velký státní znak České republiky. Při spodním okraji mince je v neuzavřeném opisu název státu „ČESKÁ REPUBLIKA“. Pod státním znakem vpravo je ve dvou řádcích označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“, vlevo značka mincovny, která dvousetkorunu razila.
+
+(2) Na rubu dvousetkoruny je vyobrazena východní část Katedrály sv. Víta v perspektivě. V pravé části mince je umístěn znak pražského arcibiskupství, který částečně překrývá vyobrazení katedrály. Při spodním a pravém okraji mince je v neuzavřeném opise text „ARCIBISKUPSTVÍ PRAŽSKÉ • KATEDRÁLA SV. VÍTA“. Nad opisem jsou v pravé dolní části mince umístěny ve dvou řádcích letopočty „1344“ a „1994“. Autorkou návrhu dvousetkoruny je akademická sochařka Jarmila Truhlíková-Spěváková. Iniciály jejího jména „JTS“ jsou umístěny při spodním okraji mince v okenním oblouku katedrály vlevo od opisu.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 20. dubna 1994.
+
+Guvernér:
+
+Ing. Tošovský v. r.
+
+### ![sbcr1994c020z0067o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/797713/NAHLED/ZOBRAZ/sbcr1994c020z0067o001)
+
+### ![sbcr1994c020z0067o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/797715/NAHLED/ZOBRAZ/sbcr1994c020z0067o002)

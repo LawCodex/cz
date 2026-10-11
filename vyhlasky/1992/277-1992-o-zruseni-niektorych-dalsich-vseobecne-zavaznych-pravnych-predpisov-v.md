@@ -1,0 +1,64 @@
+---
+title: "Vyhláška Ministerstva kultúry Slovenskej republiky č. 277/1992 Sb., o zrušení niektorých ďalších všeobecne záväzných právnych predpisov v odvetví kultúry"
+identifier: "277/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/277/1992-06-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1992-01-17
+effective: 1992-06-01
+last_amended: 1992-06-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/277"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva kultúry Slovenskej republiky č. 277/1992 Sb., o zrušení niektorých ďalších všeobecne záväzných právnych predpisov v odvetví kultúry
+
+277
+
+VYHLÁŠKA
+
+Ministerstva kultúry Slovenskej republiky
+
+zo 17. januára 1992
+
+o zrušení niektorých ďalších všeobecne záväzných právnych predpisov v odvetví kultúry
+
+Ministerstvo kultúry Slovenskej republiky po dohode so zúčastnenými orgánmi podľa § 6 ods. 1 ústavného zákona č. 23/1991 Zb., ktorým sa uvádza Listina základných práv a slobôd ako ústavný zákon Federálného zhromaždenia Českej a Slovenskej Federatívnej Republiky, a § 13 ods. 3 zákona č. 35/1965 Zb. o literárnych, vedeckých a umeleckých dielach (autorský zákon) v znení neskorších predpisov ustanovuje:
+
+## § 1
+
+Zrušujú sa:
+
+1\. § 1 až 11 a § 17 až 22 vyhlášky Ministerstva školstva a kultúry č. 149/1961 Zb. o nákupe, zadávaní a predaji diel výtvarných umení a o niektorých iných opatreniach v odbore výtvarných umení v znení vyhlášky Ministerstva kultúry Slovenskej socialistickej republiky č. 2/1986 Zb. a zákona SNR č. 96/1991 Zb.;
+
+2\. vyhláška Ministerstva školstva a kultúry č. 23/1965 Zb. o súťažnom poriadku pre diela výtvarných umení;
+
+3\. vyhláška Ministerstva kultúry a informácií č. 25/1967 Zb. o úprave autorských odmien za vydanie slovesných diel v znení vyhlášok Ministerstva kultúry Slovenskej socialistickej republiky č. 156/1979 Zb. a vyhlášky Ministerstva kultúry Slovenskej socialistickej republiky č. 17/1987 Zb.;
+
+4\. vyhláška Ministerstva školstva, vied a umení a Ministerstva informácií a osvety č. 174/1950 Ú. v. o úlohách a pôsobnosti krajských národných výborov v odbore školského a osvetového filmu a diapozitívu;
+
+5\. vyhláška ministra kultúry č. 146/1954 Ú. v. o spôsobilosti na premietanie 35 mm filmov;
+
+6\. § 1 až 9a a § 17, § 18 až § 35 vyhlášky Ministerstva kultúry Slovenskej socialistickej republiky č. 60/1978 Zb., ktorou sa vykonávajú niektoré ustanovenia divadelného zákona, v znení vyhlášky Ministerstva kultúry Slovenskej socialistickej republiky č. 149/1989 Zb., vyhlášky Ministerstva kultúry Slovenskej republiky č. 215/1990 Zb. a zákona SNR č. 96/1991 Zb.;
+
+7\. úprava Ministerstva kultúry Slovenskej socialistickej republiky z 29. júna 1981 č. MK 4121/1981-13/PaM o odmeňovaní činností a prác na základe dohôd o prácach vykonávaných mimo pracovného pomeru (reg. v čiastke 3/1982 Zb.);
+
+8\. úprava Ministerstva kultúry Slovenskej socialistickej republiky z 22. marca 1982 č. MK 2104/1982-13/PaM, ktorou sa mení a dopĺňa úprava Ministerstva kultúry Slovenskej socialistickej republiky z 29. júna 1981 č. MK 4121/1981-13/PaM o odmeňovaní činností a prác na základe dohôd o prácach vykonávaných mimo pracovného pomeru (reg. v čiastke 17/1982 Zb.);
+
+9\. úprava Ministerstva kultúry Slovenskej socialistickej republiky z 1. júna 1984 č. MK 4020/1984-13//PaM, ktorou sa mení a dopĺňa úprava Ministerstva kultúry Slovenskej socialistickej republiky z 29. júna 1981 č. MK 4121/1981-13/PaM o odmeňovaní činností a prác na základe dohôd o prácach vykonávaných mimo pracovného pomeru v znení úpravy z 22. marca 1982 č. MK 2104/1982-13//PaM (reg. v čiastke 22/1984 Zb.);
+
+10\. smernice Ministerstva kultúry Slovenskej socialistickej republiky z 24. mája 1982 č. MK 3621/1982-13/PaM o náhradách cestovných výdavkov členom kolektívov záujmovej umeleckej činnosti (reg. v čiastke 18/1982 Zb.).
+
+## § 2
+
+Táto vyhláška nadobúda účinnosť 1. júnom 1992.
+
+Minister:
+
+Snopko v. r.
+
+---
+
+<sup>1</sup>) § 2 zákona č. 36/1960 Sb., o územním členění státu, ve znění pozdějších předpisů.

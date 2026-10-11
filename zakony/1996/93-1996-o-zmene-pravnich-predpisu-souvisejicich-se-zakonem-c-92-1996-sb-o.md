@@ -1,0 +1,68 @@
+---
+title: "Zákon č. 93/1996 Sb., o změně právních předpisů souvisejících se zákonem č. 92/1996 Sb., o odrůdách, osivu a sadbě pěstovaných rostlin"
+identifier: "93/1996 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1996/93/1996-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1996-03-15
+effective: 1996-07-01
+last_amended: 1996-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1996/93"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 93/1996 Sb., o změně právních předpisů souvisejících se zákonem č. 92/1996 Sb., o odrůdách, osivu a sadbě pěstovaných rostlin
+
+93
+
+ZÁKON
+
+ze dne 15. března 1996
+
+o změně právních předpisů souvisejících se zákonem č. 92/1996 Sb., o odrůdách, osivu a sadbě pěstovaných rostlin
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ
+
+### § 1
+
+Zákon č. 61/1964 Sb., o rozvoji rostlinné výroby, ve znění zákona č. 132/1989 Sb. a zákona č. 115/1995 Sb., se mění takto:
+
+1\. Část první a druhá se vypouštějí.
+
+2\. § 29 a 30 se vypouštějí.
+
+3\. V § 31 se vypouštějí písmena a), b) a ch).
+
+Dosavadní písmena c), d), e), f), g), h) a i) se označují jako písmena a) až g).
+
+4\. V § 32 se vypouští písmeno a).
+
+Dosavadní písmena b) až e) se označují jako písmena a) až d).
+
+5\. V § 35 se vypouštějí slova „s osivy, sadbou včetně chmelové sádě a kořenáčů, školkařskými výpěstky,“ a „lesního a vodního hospodářství“.
+
+## ČÁST DRUHÁ
+
+### § 2
+
+Zákon č. 132/1989 Sb., o ochraně práv k novým odrůdám rostlin a plemenům zvířat, se mění takto:
+
+§ 2 písm. a) zní:
+
+> „a) odrůdou soubor jedinců, náležející k jediné nejnižší kategorii botanického třídění, definovaný projevem znaků určitého genotypu nebo kombinace genotypů, odlišující se od jiných souborů rostlin projevem nejméně jednoho z těchto znaků a rozmnožovatelný bez změny,“.
+
+## ČÁST TŘETÍ
+
+### § 3 – Účinnost
+
+Tento zákon nabývá účinnosti dnem 1. července 1996.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.

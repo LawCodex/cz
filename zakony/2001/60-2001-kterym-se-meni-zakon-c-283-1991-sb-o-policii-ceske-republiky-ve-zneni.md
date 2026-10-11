@@ -1,0 +1,55 @@
+---
+title: "Zákon č. 60/2001 Sb., kterým se mění zákon č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů"
+identifier: "60/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/60/2009-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2001-01-11
+effective: 2001-02-19
+last_amended: 2009-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/60"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 60/2001 Sb., kterým se mění zákon č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů ve znění zákona č. 413/2005 Sb. a zákona č. 274/2008 Sb."
+---
+
+# Zákon č. 60/2001 Sb., kterým se mění zákon č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů
+
+60
+
+ZÁKON
+
+ze dne 11. ledna 2001,
+
+kterým se mění zákon č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST TŘETÍ – Změna zákona o provozu na pozemních komunikacích
+
+### Čl. III
+
+Zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů, se mění takto:
+
+V § 6 odst. 1 písm. c) zní:
+
+> „c) přepravovat při jízdě po dálnici nebo po silnici pro motorová vozidla osoby mladší 18 let a menší než 150 cm na sedadle jiném než uvedeném v písmenu b), které je vybaveno bezpečnostním pásem, pouze za použití zádržného systému; toto neplatí pro osoby, u kterých jejich zdravotní stav nebo tělesná dispozice použití zádržného systému neumožňuje,“.
+
+## ČÁST ČTVRTÁ – ZMOCNĚNÍ K VYHLÁŠENÍ ÚPLNÉHO ZNĚNÍ ZÁKONA
+
+### Čl. IV
+
+Předseda vlády se zmocňuje, aby ve Sbírce zákonů vyhlásil úplné znění zákona č. 283/1991 Sb., o Policii České republiky, jak vyplývá ze zákonů a nálezů Ústavního soudu jej měnících.
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### Čl. V
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+v z. Buzková v. r.
+
+Havel v. r.
+
+Zeman v. r.

@@ -1,0 +1,71 @@
+---
+title: "Zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu"
+identifier: "245/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/245/2026-05-13"
+type: act
+jurisdiction: cz
+language: cs
+date: 2000-06-29
+effective: 2000-08-09
+last_amended: 2026-05-13
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/245"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu ve znění zákona č. 101/2004 Sb., zákona č. 129/2006 Sb., zákona č. 162/2013 Sb., zákona č. 359/2015 Sb., zákona č. 226/2017 Sb., zákona č. 48/2019 Sb., zákona č. 49/2019 Sb., zákona č. 356/2019 Sb., zákona č. 92/2022 Sb., zákona č. 170/2024 Sb., zákona č. 279/2024 Sb. a zákona č. 59/2026 Sb."
+---
+
+# Zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu
+
+245
+
+ZÁKON
+
+ze dne 29. června 2000
+
+o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1 – Státní svátky
+
+Dny 1. leden – Den obnovy samostatného českého státu, 8. květen – Den vítězství, 5. červenec – Den slovanských věrozvěstů Cyrila a Metoděje, 6. červenec – Den upálení mistra Jana Husa, 28. září – Den české státnosti, 28. říjen – Den vzniku samostatného československého státu a 17. listopad – Den boje za svobodu a demokracii a Mezinárodní den studentstva se prohlašují za státní svátky České republiky (dále jen „státní svátek“).
+
+## § 2 – Ostatní svátky
+
+Ostatními svátky jsou 1. leden - Nový rok, Velký pátek, Velikonoční pondělí, 1. květen - Svátek práce, 24. prosinec - Štědrý den, 25. prosinec - 1. svátek vánoční a 26. prosinec - 2. svátek vánoční (dále jen „ostatní svátek“).
+
+## § 3 – Dny pracovního klidu
+
+Státní svátky a ostatní svátky jsou dny pracovního klidu, kromě dnů nepřetržitého odpočinku zaměstnance v týdnu.
+
+## § 4 – Významné dny
+
+(1) Významnými dny České republiky jsou 16. leden – Den památky Jana Palacha, 27. leden – Den památky obětí holocaustu a předcházení zločinům proti lidskosti, 8. březen – Mezinárodní den žen, 9. březen – Den památky obětí vyhlazení terezínského rodinného tábora v Osvětimi – Březince, 12. březen – Den přístupu České republiky k Severoatlantické smlouvě (NATO), 28. březen - Den narození Jana Ámose Komenského, 30. březen – Den české vlajky, 7. duben – Den vzdělanosti, 1. květen – Den přistoupení České republiky k Evropské unii, 5. květen – Květnové povstání českého lidu, 15. květen – Den rodin, 27. květen - Den národního vzdoru, 10. červen – Den památky obětí vyhlazení obce Lidice, 18. červen – Den hrdinů druhého odboje, 25. červen - Den odchodu okupačních vojsk, 27. červen – Den památky obětí komunistického režimu, 21. srpen – Den památky obětí invaze a následné okupace vojsky Varšavské smlouvy, 8. říjen – Památný den sokolstva, 12. říjen – Den samizdatu a 11. listopad – Den válečných veteránů (dále jen „významný den“).
+
+(2) Významné dny jsou dny pracovními, nejsou-li zároveň státním svátkem nebo ostatním svátkem.
+
+## § 5 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Zákon č. 93/1951 Sb., o státním svátku, o dnech pracovního klidu a o památných a významných dnech, ve znění zákona č. 65/1965 Sb. a zákona č. 74/1994 Sb.
+
+2\. Zákon č. 56/1975 Sb., kterým se mění zákon č. 93/1951 Sb., o státním svátku, o dnech pracovního klidu a o památných a významných dnech.
+
+3\. Zákonné opatření Předsednictva Federálního shromáždění č. 141/1988 Sb., kterým se mění a doplňuje zákon č. 93/1951 Sb., o státním svátku, o dnech pracovního klidu a o památných a významných dnech.
+
+4\. Zákon č. 167/1990 Sb., kterým se mění a doplňuje zákon č. 93/1951 Sb., o státních svátcích, o dnech pracovního klidu a o památných a významných dnech, ve znění pozdějších předpisů.
+
+5\. Zákon č. 204/1990 Sb., o prohlášení šestého července, dne upálení mistra Jana Husa, za státní svátek České republiky.
+
+6\. Zákon č. 218/1991 Sb., kterým se mění a doplňuje zákon č. 93/1951 Sb., o státním svátku, o dnech pracovního klidu a o památných a významných dnech, ve znění pozdějších předpisů.
+
+## § 6 – Účinnost
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

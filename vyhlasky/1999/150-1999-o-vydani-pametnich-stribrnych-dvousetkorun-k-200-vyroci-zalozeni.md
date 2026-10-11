@@ -1,0 +1,56 @@
+---
+title: "Vyhláška České národní banky č. 150/1999 Sb., o vydání pamětních stříbrných dvousetkorun k 200. výročí založení Akademie výtvarných umění"
+identifier: "150/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/150/1999-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1999-06-25
+effective: 1999-09-01
+last_amended: 1999-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/150"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 150/1999 Sb., o vydání pamětních stříbrných dvousetkorun k 200. výročí založení Akademie výtvarných umění
+
+150
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 25. června 1999
+
+o vydání pamětních stříbrných dvousetkorun k 200. výročí založení Akademie výtvarných umění
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K 200. výročí založení Akademie výtvarných umění v Praze se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,40 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem "ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*". Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je stylizovaný velký státní znak České republiky umístěný do abstraktního obrazce nahrazujícího štít státního znaku. Název státu „ČESKÁ REPUBLIKA“ je v neuzavřeném opisu při okrajích dvousetkoruny. Označení nominální hodnoty mince „200“ je umístěno vlevo od státního znaku nad prodlouženou linkou, která odděluje horní část státního znaku od části spodní, zkratka peněžní jednotky „Kč“ je umístěna pod touto linkou. Značka mincovny, která dvousetkorunu razila, je nad opisem názvu státu mezi písmeny „R“ a „E“.
+
+(2) Na rubu dvousetkoruny je abstraktní výtvarná kompozice inspirovaná obrazem Františka Kupky Dvojbarevná fuga. Název školy „AKADEMIE VÝTVARNÝCH UMĚNÍ“ je v opisu při okrajích dvousetkoruny. Opis v levé spodní části přerušují letopočty „1799 - 1999“. Autorem návrhu dvousetkoruny je Lukáš Rudolf. Iniciála jeho příjmení „R“ je umístěna v pravé horní části dvousetkoruny mezi výtvarnou kompozicí a opisem.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 1. září 1999.
+
+Guvernér:
+
+v z. Ing. Dědek, CSc. v. r.
+
+viceguvernér
+
+### ![sbcr1999c051z0150o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/814731/NAHLED/ZOBRAZ/sbcr1999c051z0150o001)
+
+### ![sbcr1999c051z0150o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/814733/NAHLED/ZOBRAZ/sbcr1999c051z0150o002)

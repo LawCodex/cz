@@ -1,0 +1,62 @@
+---
+title: "Nařízení vlády č. 170/2000 Sb., o prohlášení archivní sbírky Historica Třeboň za národní kulturní památku"
+identifier: "170/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/170/2000-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2000-05-31
+effective: 2000-07-01
+last_amended: 2000-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/170"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 170/2000 Sb., o prohlášení archivní sbírky Historica Třeboň za národní kulturní památku
+
+170
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 31. května 2000
+
+o prohlášení archivní sbírky Historica Třeboň za národní kulturní památku
+
+Vláda nařizuje podle § 4 zákona č. 97/1974 Sb., o archivnictví, ve znění zákona č. 343/1992 Sb.:
+
+## § 1
+
+Archivní sbírka Historica Třeboň, která je jedním z nejvýznamnějších pramenů k politickým, kulturním, právním a církevním dějinám Koruny české a sousedních oblastí střední Evropy, se prohlašuje za národní kulturní památku.
+
+## § 2
+
+Archivní sbírku Historica Třeboň tvoří 8 020 archiválií z let 1216 až 1659. Archiválie této archivní sbírky jsou podle inventárních čísel a časového řazení členěny do 5 dílů inventáře, vymezených v příloze k tomuto nařízení.
+
+## § 3
+
+Archivní sbírka Historica Třeboň je trvale uložena ve Státním oblastním archivu v Třeboni.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem 1. července 2000.
+
+Předseda vlády:
+
+v z. PhDr. Špidla v. r.
+
+Ministr vnitra:
+
+Mgr. Gross v. r.
+
+### Příloha k nařízení vlády č. 170/2000 Sb.
+
+#### Členění inventáře archivní sbírky Historica Třeboň
+
+| Inventární číslo | Název | Časový rozsah |
+|---|---|---|
+| 1 – 2021 | Historica Třeboň, inventář, I. díl | 1216 – 1450 |
+| 2022 – 4674 | Historica Třeboň, inventář, II. díl | 1451 – 1526 |
+| 4675 – 5722 | Historica Třeboň, inventář, III. díl | 1527 – 1570 |
+| 5723 – 7007 | Historica Třeboň, inventář, IV. díl | 1571 – 1592 |
+| 7008 – 8020 | Historica Třeboň, inventář, V. díl | 1593 – 1659 |

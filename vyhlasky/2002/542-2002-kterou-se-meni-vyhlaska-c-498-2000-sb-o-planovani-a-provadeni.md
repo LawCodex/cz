@@ -1,0 +1,80 @@
+---
+title: "Vyhláška č. 542/2002 Sb., kterou se mění vyhláška č. 498/2000 Sb., o plánování a provádění hospodářských opatření pro krizové stavy"
+identifier: "542/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/542/2003-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2002-12-10
+effective: 2003-01-01
+last_amended: 2003-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/542"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 542/2002 Sb., kterou se mění vyhláška č. 498/2000 Sb., o plánování a provádění hospodářských opatření pro krizové stavy
+
+542
+
+VYHLÁŠKA
+
+ze dne 10. prosince 2002,
+
+kterou se mění vyhláška č. 498/2000 Sb., o plánování a provádění hospodářských opatření pro krizové stavy
+
+Správa státních hmotných rezerv stanoví podle § 29 písm. a) až e) zákona č. 241/2000 Sb., o hospodářských opatřeních pro krizové stavy a o změně některých souvisejících zákonů, (dále jen „zákon“):
+
+## Čl. I
+
+Vyhláška č. 498/2000 Sb., o plánování a provádění hospodářských opatření pro krizové stavy, se mění takto:
+
+1\. V § 1 odst. 1 větě první se slova „Správní úřad“ nahrazují slovy „Ústřední správní úřad a krajský úřad“. Poznámka pod čarou č. 1) se zrušuje.
+
+2\. V § 1 odst. 1 se věta druhá nahrazuje větou „Ústřední správní úřad doplní tento seznam o nezbytné dodávky uplatněné u něj krajskými úřady podle § 10 odst. 4 zákona.“ a na začátek věty třetí se vkládají slova „Zpracovatel plánu nezbytných dodávek“.
+
+3\. V § 1 odst. 2 se slova „Správní úřad“ nahrazují slovy „Ústřední správní úřad a krajský úřad“ a poznámka pod čarou č. 4) zní:
+
+> „<sup>4</sup>) Například § 15 odst. 3 zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění zákona č. 320/2002 Sb., § 27 zákona č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky.“.
+
+4\. V § 1 odstavec 3 včetně poznámky pod čarou č. 5) zní:
+
+> „(3) Ústřední správní úřad a krajský úřad si vyžádají podle zvláštního právního předpisu<sup>5</sup>) od dodavatelů nezbytných dodávek údaje nezbytné pro zpracování svého plánu nezbytných dodávek.
+
+> <sup>5</sup>) § 15 odst. 3 zákona č. 240/2000 Sb., ve znění zákona č. 320/2002 Sb.“.
+
+5\. V § 1 odst. 4 větě první se slova „správní úřad“ nahrazují slovy „krajský úřad“.
+
+6\. V § 1 odst. 5 se slova „Správní úřad“ nahrazují slovy „Ústřední správní úřad a krajský úřad“.
+
+7\. V § 1 odst. 6 se slova „Správní úřad“ nahrazují slovy „Ústřední správní úřad a krajský úřad“ a slova „na vlastním správním území“ se nahrazují slovy „ve svém správním obvodu“.
+
+8\. V § 2 odst. 3 se věta před středníkem nahrazuje větou „Pokud je zpracovatelem plánu nezbytných dodávek ústřední správní úřad, uvede celkový počet dostupných nezbytných dodávek v členění podle správních obvodů krajů“.
+
+9\. V § 2 odst. 4 se zrušují slova „v písemné formě“, slovo „jiných“ se nahrazuje slovy „odborně příslušných ústředních“ a před slovo „způsobu“ se vkládá slovo „o“.
+
+10\. V § 2 odst. 5 písm. b) se slova „rodné číslo“ nahrazují slovy „adresu místa trvalého pobytu“.
+
+11\. V § 2 odst. 7 se slova „Správní úřad“ nahrazují slovy „Ústřední správní úřad a krajský úřad“.
+
+12\. V § 3 odst. 3 se před slovo „ústřední“ vkládají slova „odborně příslušný“.
+
+13\. Poznámka pod čarou č. 12) zní:
+
+> „<sup>12</sup>) § 10 odst. 4 zákona č. 241/2000 Sb.“.
+
+14\. Poznámka pod čarou č. 15) zní:
+
+> „<sup>15</sup>) Například § 2 odst. 4 a § 13 až 20 zákona č. 222/1999 Sb., o zajišťování obrany České republiky, ve znění zákona č. 320/2002 Sb., § 2 písm. e) a § 29 odst. 3 a 5 zákona č. 240/2000 Sb.“.
+
+V § 12 odst. 2 písm. b) se slova „místně příslušnému okresnímu“ nahrazují slovy „územně příslušnému krajskému“.
+
+16\. V § 12 odst. 4 se slovo „správním“ nahrazuje slovem „krajským“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2003.
+
+Předseda:
+
+Ing. Štrauch, CSc. v. r.

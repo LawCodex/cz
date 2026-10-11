@@ -23,9 +23,9 @@ ze dne 4. prosince 1963
 
 Národní shromáždění Československé socialistické republiky se usneslo na tomto zákoně:
 
-## ČÁST PRVNÍ – **OBECNÁ USTANOVENÍ**
+## ČÁST PRVNÍ – OBECNÁ USTANOVENÍ
 
-### Hlava první – **ZÁKLADNÍ USTANOVENÍ**
+### Hlava první – ZÁKLADNÍ USTANOVENÍ
 
 #### § 1
 
@@ -397,7 +397,7 @@ S výjimkou dovolání si účastník může zvolit zástupcem též patentovéh
 
 (2) Ochránce práv dětí je v řízení podle odstavce 1 oprávněn ke všem úkonům, které může vykonat účastník řízení, pokud nejde o úkony, které může vykonat jen účastník právního poměru.
 
-### Hlava čtvrtá – **ÚKONY SOUDU A ÚČASTNÍKŮ**
+### Hlava čtvrtá – ÚKONY SOUDU A ÚČASTNÍKŮ
 
 **Úkony soudu**
 
@@ -919,9 +919,9 @@ Nestanoví-li tento zákon lhůtu k provedení úkonu, určí ji, jestliže je t
 
 (2) Soud může k žádosti účastníka přiznat odkladný účinek návrhu, aby bylo prominuto zmeškání lhůty.
 
-## ČÁST DRUHÁ – **ČINNOST SOUDU PŘED ZAHÁJENÍM ŘÍZENÍ**
+## ČÁST DRUHÁ – ČINNOST SOUDU PŘED ZAHÁJENÍM ŘÍZENÍ
 
-### Hlava první – **PŘEDBĚŽNÁ ŘÍZENÍ**
+### Hlava první – PŘEDBĚŽNÁ ŘÍZENÍ
 
 **Smírčí řízení**
 
@@ -941,7 +941,7 @@ Nestanoví-li tento zákon lhůtu k provedení úkonu, určí ji, jestliže je t
 
 Účelem smírčího řízení je uzavření smíru. Ustanovení § 99 platí i pro tento smír.
 
-### Hlava druhá – **PŘEDBĚŽNÁ OPATŘENÍ A ZAJIŠTĚNÍ DŮKAZU**
+### Hlava druhá – PŘEDBĚŽNÁ OPATŘENÍ A ZAJIŠTĚNÍ DŮKAZU
 
 **Předběžná opatření**
 
@@ -1145,9 +1145,9 @@ c) řízení o věci samé bylo pravomocně skončeno, aniž by v něm byl prove
 
 (4) Pravomocně přiznaná náhrada škody nebo jiné újmy se uspokojí z navrhovatelem složené jistoty; nepostačuje-li k uspokojení všech poškozených, rozdělí soud jistotu mezi ně poměrně. Povinnost navrhovatele nahradit škodu nebo jinou újmu, která nebyla zajištěna složenou jistotou, tím není dotčena.
 
-## ČÁST TŘETÍ – **ŘÍZENÍ V PRVNÍM STUPNI**
+## ČÁST TŘETÍ – ŘÍZENÍ V PRVNÍM STUPNI
 
-### Hlava první – **PRŮBĚH ŘÍZENÍ**
+### Hlava první – PRŮBĚH ŘÍZENÍ
 
 **Zahájení řízení**
 
@@ -2377,7 +2377,7 @@ Ustanovení § 196 se použije ve sporech o vyklizení bytu nebo domu z důvodu 
 
 (3) Nejsou-li dány důvody zvláštního zřetele hodné, vydá soud rozhodnutí ve věci samé zpravidla do 6 měsíců od zahájení řízení; vydá-li soud rozhodnutí po uplynutí této lhůty, uvede v odůvodnění rozhodnutí skutečnosti, pro které nebylo možné tuto lhůtu dodržet.
 
-## ČÁST ČTVRTÁ – **OPRAVNÉ PROSTŘEDKY**
+## ČÁST ČTVRTÁ – OPRAVNÉ PROSTŘEDKY
 
 ### Hlava první – ODVOLÁNÍ
 
@@ -3245,7 +3245,7 @@ Nahrazuje-li rozsudek soudu alespoň zčásti rozhodnutí správního orgánu (�
 
 ## ČÁST ŠESTÁ – VÝKON ROZHODNUTÍ
 
-### Hlava první – **NAŘÍZENÍ A PROVEDENÍ VÝKONU ROZHODNUTÍ**
+### Hlava první – NAŘÍZENÍ A PROVEDENÍ VÝKONU ROZHODNUTÍ
 
 **Předpoklady výkonu rozhodnutí**
 
@@ -3603,7 +3603,7 @@ s výjimkou titulu, který se vykonává ve správním nebo daňovém řízení.
 
 (3) Před zastavením výkonu rozhodnutí soud v případech uvedených v § 274 zpravidla si vyžádá vyjádření orgánu, který vydal rozhodnutí, popřípadě jiný exekuční titul, anebo který schválil smír nebo dohodu, o jejichž výkon jde.
 
-### Hlava druhá – **SRÁŽKY ZE MZDY**
+### Hlava druhá – SRÁŽKY ZE MZDY
 
 **Rozsah srážek**
 
@@ -3859,7 +3859,7 @@ l) mzdové nároky podle zákona upravujícího ochranu zaměstnanců při plate
 
 (2) Jestliže povinný po nařízení výkonu rozhodnutí srážkami ze mzdy získá místo mzdy nebo vedle ní právo na některý z příjmů uvedených v § 299, vztahuje se nařízení výkonu rozhodnutí i na tento příjem.
 
-### Hlava třetí – **PŘIKÁZÁNÍ POHLEDÁVKY**
+### Hlava třetí – PŘIKÁZÁNÍ POHLEDÁVKY
 
 **Přikázání pohledávky z účtu u peněžního ústavu**
 
@@ -5577,7 +5577,7 @@ d) dluhy náležející k vydraženému závodu, které nebyly uspokojeny při r
 
 (2) Při výkonu rozhodnutí prodejem zastaveného závodu se nepoužijí ustanovení § 338f odst. 2 a 3, ledaže jde o návrh dalšího oprávněného z usnesení o nařízení prodeje zástavy, a ustanovení § 338s, ledaže by věřitel přihlásil pohledávku zajištěnou prodávanou zástavou.
 
-### Hlava osmá – **USPOKOJENÍ PRÁV NA NEPENĚŽITÉ PLNĚNÍ**
+### Hlava osmá – USPOKOJENÍ PRÁV NA NEPENĚŽITÉ PLNĚNÍ
 
 **Návrh**
 

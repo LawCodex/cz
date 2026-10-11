@@ -309,6 +309,8 @@ def convert_doc(d):
             continue
         if not text and not extra:
             continue
+        if t in HEADINGS or t == "Nadpis_pod":
+            text = re.sub(r"(?<!\\)\*\*", "", text).strip() if "\n" not in text else text
         if t in HEADINGS and text and "\n" not in text and len(text) < 300:
             flush()
             pending_heading = (max(2, min(depth, 7)), text, depth, q)
@@ -398,9 +400,19 @@ def main():
     ap.add_argument("--raw", default=os.path.join(here, "..", "..", "_raw", "cz"))
     ap.add_argument("--out", default=os.path.join(here, ".."))
     ap.add_argument("--retrieved", default=datetime.date.today().isoformat())
+    ap.add_argument("--clean", action="store_true", help="remove generated category dirs first")
     ap.add_argument("files", nargs="*")
     a = ap.parse_args()
     files = a.files or sorted(glob.glob(os.path.join(a.raw, "api", "*", "*.json.gz")))
+    selected = None
+    sel_path = os.path.join(a.raw, "selection.json")
+    if os.path.exists(sel_path):
+        sel_items = {(str(x["year"]), x["number"]): x for x in json.load(open(sel_path))}
+        selected = set(sel_items)
+    if a.clean and not a.files:
+        import shutil
+        for dname in set(DIRS.values()) | {"ustava"}:
+            shutil.rmtree(os.path.join(a.out, dname), ignore_errors=True)
     n = 0
     stats = {}
     for p in files:
@@ -409,6 +421,10 @@ def main():
         except Exception as e:  # noqa
             print(f"BAD {p}: {e}", file=sys.stderr)
             continue
+        key = (str(d["item"]["year"]), d["item"]["number"])
+        if selected is not None and key not in selected:
+            continue  # no longer in force according to the latest metadata
+        d["item"] = sel_items.get(key, d["item"]) if selected is not None else d["item"]
         if not d.get("fragments"):
             print(f"EMPTY {p}", file=sys.stderr)
             continue

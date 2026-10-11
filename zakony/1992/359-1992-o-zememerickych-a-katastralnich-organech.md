@@ -1,0 +1,287 @@
+---
+title: "Zákon České národní rady č. 359/1992 Sb., o zeměměřických a katastrálních orgánech"
+identifier: "359/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/359/2024-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1992-05-07
+effective: 1993-01-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/359"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon České národní rady č. 359/1992 Sb., o zeměměřických a katastrálních orgánech ve znění zákona č. 107/1994 Sb., zákona č. 200/1994 Sb., zákona č. 62/1997 Sb., zákona č. 132/2000 Sb., zákona č. 186/2001 Sb., zákona č. 175/2003 Sb., zákona č. 499/2004 Sb., zákona č. 227/2009 Sb., zákona č. 250/2014 Sb., zákona č. 277/2019 Sb. a zákona č. 88/2023 Sb."
+---
+
+# Zákon České národní rady č. 359/1992 Sb., o zeměměřických a katastrálních orgánech
+
+359
+
+ZÁKON
+
+České národní rady
+
+ze dne 7. května 1992
+
+o zeměměřických a katastrálních orgánech
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## ČÁST PRVNÍ – ZEMĚMĚŘICKÉ A KATASTRÁLNÍ ORGÁNY A JEJICH PŮSOBNOST
+
+### § 1
+
+(1) Zřizuje se Český úřad zeměměřický a katastrální (dále jen „Úřad“), jako ústřední správní úřad zeměměřictví a katastru nemovitostí České republiky se sídlem v Praze. Úřad je účetní jednotkou.<sup>1</sup>)
+
+(2) V čele Úřadu je předseda, kterého jmenuje a odvolává vláda; jeho výběr, jmenování a odvolání se řídí zákonem o státní službě.
+
+### § 2
+
+(1) Zřizuje se Zeměměřický úřad jako jiný správní úřad zeměměřictví s celostátní působností se sídlem v Praze. Zeměměřický úřad je účetní jednotkou.<sup>1</sup>)
+
+(2) Zřizují se zeměměřické a katastrální inspektoráty (dále jen „inspektoráty“) a katastrální úřady jako jiné správní úřady pro zeměměřictví a katastr nemovitostí České republiky. Inspektoráty a katastrální úřady jsou účetními jednotkami.<sup>1</sup>)
+
+(3) Zeměměřický úřad, inspektoráty a katastrální úřady řídí ředitelé; jejich výběr, jmenování a odvolání se řídí zákonem o státní službě.
+
+(4) Sídla a územní působnost inspektorátů jsou stanoveny v příloze č. 1 tohoto zákona. Sídla a územní působnost katastrálních úřadů jsou stanoveny v příloze č. 2 tohoto zákona.
+
+### § 3
+
+(1) Úřad
+
+a) zabezpečuje jednotné provádění těchto činností
+
+1\. správy katastru nemovitostí České republiky,<sup>1a</sup>)
+
+2\. budování a údržby bodových polí,
+
+3\. tvorby, obnovy a vydávání základních a tématických státních mapových děl a jiných publikací,
+
+4\. standardizace jmen nesídelních geografických objektů z území České republiky a jmen sídelních a nesídelních geografických objektů z území mimo Českou republiku,
+
+5\. vytváření a vedení automatizovaného informačního systému zeměměřictví a katastru nemovitostí České republiky,
+
+6\. dokumentace výsledků zeměměřických činností,
+
+b) koordinuje výzkum v zeměměřictví a katastru nemovitostí České republiky a systém vědeckotechnických informací pro tyto oblasti,
+
+c) zajišťuje a koordinuje mezinárodní spolupráci v zeměměřictví a katastru nemovitostí České republiky,
+
+d) řídí Zeměměřický úřad, inspektoráty a katastrální úřady, není-li v tomto zákoně stanoveno jinak,
+
+e) vykonává správu centrální databáze katastru nemovitostí České republiky, která je vedena v celostátním rozsahu počítačovými prostředky, obsahuje data o nemovitostech a poskytuje údaje katastru nemovitostí formou dálkového přístupu,
+
+f) rozhoduje v případě pochybností, zda jde o výkon zeměměřických činností,<sup>4</sup>)
+
+g) schvaluje standardizovaná jména geografických objektů a názvy katastrálních území,
+
+h) rozhoduje o odvoláních proti rozhodnutím Zeměměřického úřadu a inspektorátů,
+
+i) stanovuje správce základních a tématických státních mapových děl,
+
+j) vydává základní státní mapová díla<sup>5a</sup>) a tématická státní mapová díla,<sup>5b</sup>)
+
+k) vykonává správu základního registru územní identifikace, adres a nemovitostí a informačního systému územní identifikace,
+
+l) plní další úkoly na úseku zeměměřictví podle zvláštního předpisu<sup>6</sup>) a provádí další činnosti potřebné pro rozvoj zeměměřictví a katastru nemovitostí České republiky.
+
+(2) Ministerstvo obrany při výkonu zeměměřických činností pro potřeby obrany státu plní obdobné úkoly jako Úřad.
+
+### § 3a
+
+Zeměměřický úřad
+
+a) vykonává správu geodetických základů České republiky,<sup>6a</sup>)
+
+b) rozhoduje o umístění, přemístění či odstranění měřických značek základního bodového pole,<sup>6a</sup>) včetně signalizačního a ochranného zařízení bodu bodového pole,
+
+c) vykonává správu základních státních mapových děl<sup>5a</sup>) a tématických státních mapových děl<sup>5b</sup>) stanovených Úřadem,
+
+d) vede databázové soubory bodů bodového pole evidovaných v technických jednotkách,
+
+e) vykonává správu základní báze geografických dat České republiky,
+
+f) vede Ústřední archiv zeměměřictví a katastru, který je specializovaným archivem,<sup>2</sup>)
+
+g) provádí zeměměřické činnosti<sup>6b</sup>) na státních hranicích v dohodě se správcem dokumentárního díla státních hranic,<sup>6c</sup>)
+
+h) projednává porušení pořádku na úseku zeměměřictví podle zvláštního zákona,<sup>6d</sup>)
+
+i) plní další úkoly na úseku zeměměřictví, kterými ho pověří Úřad.
+
+### § 4
+
+Inspektoráty
+
+a) kontrolují výkon státní správy katastru nemovitostí České republiky katastrálními úřady,
+
+b) dohlížejí na ověřování výsledků zeměměřických činností, které jsou využívány pro katastr nemovitostí České republiky a státní mapové dílo,
+
+c) předkládají Úřadu návrhy na opatření k odstranění nedostatků zjištěných při kontrole a dohledu podle písmen a) a b),
+
+d) rozhodují o odvoláních proti rozhodnutím katastrálních úřadů,<sup>7</sup>)
+
+e) projednávají porušení pořádku na úseku zeměměřictví podle zvláštního zákona,<sup>8a</sup>)
+
+f) plní další úkoly na úseku zeměměřictví podle zvláštního předpisu<sup>9</sup>) a úkoly na úseku zeměměřictví, kterými je pověří Úřad.
+
+### § 5
+
+(1) Katastrální úřady
+
+a) vykonávají státní správu katastru nemovitostí České republiky,<sup>1a</sup>)
+
+b) vykonávají správu zhušťovacích bodů a podrobných polí polohového a výškového,
+
+c) projednávají porušení pořádku na úseku katastru nemovitostí České republiky podle zvláštního zákona,<sup>10</sup>)
+
+d) schvalují změny pomístního názvosloví a zabezpečují činnosti spojené se standardizací geografického názvosloví,
+
+e) schvalují změny hranic katastrálních území,
+
+f) vykonávají správu základních státních mapových děl<sup>5a</sup>) stanovených Úřadem,
+
+g) plní další úkoly na úseku zeměměřictví a katastru nemovitostí České republiky, kterými je pověří Úřad.
+
+(2) Seznam katastrálních pracovišť, která jsou vnitřními organizačními jednotkami katastrálních úřadů podle zvláštního právního předpisu,<sup>10a</sup>) jejich názvy, sídla a územní obvody, ve kterých vykonávají působnost příslušného katastrálního úřadu, vyhlásí Úřad sdělením ve Sbírce zákonů a mezinárodních smluv<sup>10b</sup>).
+
+### § 6
+
+Obecné předpisy o správním řízení<sup>11</sup>) se vztahují na rozhodování Úřadu, Zeměměřického úřadu, inspektorátů a katastrálních úřadů ve věcech podle § 3 písm. f), h) a j), § 3a písm. b) a g), § 4 písm. d) a f) a § 5 odst. 1 písm. a), c) a e) tohoto zákona.
+
+## ČÁST TŘETÍ – ZMĚNA ZÁKONA ČESKÉ NÁRODNÍ RADY č. 2/1969 Sb., O ZŘÍZENÍ MINISTERSTEV A JINÝCH ÚSTŘEDNÍCH ORGÁNŮ STÁTNÍ SPRÁVY ČESKÉ REPUBLIKY, VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ
+
+### § 11
+
+Zákon České národní rady č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění pozdějších předpisů, se mění takto:
+
+§ 2 odst. 1 bod 2. zní:
+
+> „2. Český úřad zeměměřický a katastrální,“.
+
+## ČÁST ČTVRTÁ – ZÁVĚREČNÁ USTANOVENÍ
+
+### § 12
+
+(1) Práva a povinnosti z pracovněprávních a jiných vztahů přecházejí dnem účinnosti tohoto zákona z Českého úřadu geodetického a kartografického na Český úřad zeměměřický a katastrální.
+
+(2) Práva a závazky, které měl ke dni účinnosti tohoto zákona Zeměměřický ústav, přecházejí na Zeměměřický úřad. Práva a povinnosti z pracovněprávních vztahů zaměstnanců Zeměměřického ústavu přecházejí na Zeměměřický úřad.
+
+### § 13
+
+Zrušují se:
+
+1\. Zákon České národní rady č. 36/1973 Sb., o orgánech geodézie a kartografie.
+
+2\. Ustanovení § 37 odst. 1 písm. a) a b) a odst. 2 zákona České národní rady č. 200/1990 Sb., o přestupcích.
+
+### § 14
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1993.
+
+Burešová v. r.
+
+Pithart v. r.
+
+### Příloha č. 1 k zákonu č. 359/1992 Sb.
+
+#### Sídla a územní působnost inspektorátů
+
+Zeměměřický a katastrální inspektorát v Brně, který vykonává působnost pro územní obvody Jihomoravského kraje, Vysočiny a Zlínského kraje.
+
+Zeměměřický a katastrální inspektorát v Českých Budějovicích, který vykonává působnost pro územní obvod Jihočeského kraje.
+
+Zeměměřický a katastrální inspektorát v Liberci, který vykonává působnost pro územní obvody Libereckého kraje a Ústeckého kraje.
+
+Zeměměřický a katastrální inspektorát v Opavě, který vykonává působnost pro územní obvody Olomouckého kraje a Moravskoslezského kraje.
+
+Zeměměřický a katastrální inspektorát v Pardubicích, který vykonává působnost pro územní obvody Pardubického kraje a Královéhradeckého kraje.
+
+Zeměměřický a katastrální inspektorát v Plzni, který vykonává působnost pro územní obvody Plzeňského kraje a Karlovarského kraje.
+
+Zeměměřický a katastrální inspektorát v Praze, který vykonává působnost pro územní obvody hlavního města Prahy a Středočeského kraje.
+
+### Příloha č. 2 k zákonu č. 359/1992 Sb.
+
+#### Územní působnost a sídla katastrálních úřadů
+
+1\. Katastrální úřad pro hlavní město Prahu se sídlem v Praze,
+
+2\. Katastrální úřad pro Jihočeský kraj se sídlem v Českých Budějovicích,
+
+3\. Katastrální úřad pro Karlovarský kraj se sídlem v Karlových Varech,
+
+4\. Katastrální úřad pro Královéhradecký kraj se sídlem v Hradci Králové,
+
+5\. Katastrální úřad pro Liberecký kraj se sídlem v Liberci,
+
+6\. Katastrální úřad pro Plzeňský kraj se sídlem v Plzni,
+
+7\. Katastrální úřad pro Pardubický kraj se sídlem v Pardubicích,
+
+8\. Katastrální úřad pro Středočeský kraj se sídlem v Praze,
+
+9\. Katastrální úřad pro Ústecký kraj se sídlem v Ústí nad Labem,
+
+10\. Katastrální úřad pro Jihomoravský kraj se sídlem v Brně,
+
+11\. Katastrální úřad pro Moravskoslezský kraj se sídlem v Opavě,
+
+12\. Katastrální úřad pro Olomoucký kraj se sídlem v Olomouci,
+
+13\. Katastrální úřad pro Vysočinu se sídlem v Jihlavě,
+
+14\. Katastrální úřad pro Zlínský kraj se sídlem ve Zlíně.
+
+---
+
+<sup>1</sup>) § 3 odst. 3 zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb., zákona č. 229/2001 Sb., zákona č. 320/2001 Sb., zákona č. 501/2001 Sb., zákona č. 202/2002 Sb., zákona č. 280/2002 Sb. a zákona č. 476/2002 Sb.
+
+<sup>1a</sup>) Zákon č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem. 
+ Zákon ČNR č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon).
+
+<sup>2</sup>) § 80 odst. 2 zákona č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů.
+
+<sup>4</sup>) § 3 odst. 2 zákona č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením.
+
+<sup>5a</sup>) § 2 písm. g) zákona č. 200/1994 Sb.
+
+<sup>5b</sup>) § 2 písm. h) zákona č. 200/1994 Sb.
+
+<sup>6</sup>) Např. § 14 zákona č. 35/1965 Sb., o dílech literárních, vědeckých a uměleckých (autorský zákon), ve znění zákona č. 89/1990 Sb.
+
+<sup>6a</sup>) § 2 písm. c) a e) zákona č. 200/1994 Sb., ve znění zákona č. 186/2001 Sb.
+
+<sup>6b</sup>) § 3 odst. 1 zákona č. 200/1994 Sb.
+
+<sup>6c</sup>) § 12 odst. 1 písm. j) zákona ČNR č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění zákona ČNR č. 21/1993 Sb.
+
+<sup>6d</sup>) § 17a odst. 1 písm. b) bod 1, § 17a odst. 1 písm. c) a § 17b odst. 1 písm. a) zákona č. 200/1994 Sb., ve znění pozdějších předpisů.
+
+<sup>7</sup>) § 8 odst. 4, § 16 odst. 4, § 24 a 25 zákona ČNR č. 344/1992 Sb.
+
+<sup>8a</sup>) § 17a odst. 1 písm. a), b) bod 2, § 17a odst. 1 písm. d) a e), § 17b odst. 1 zákona č. 200/1994 Sb., ve znění pozdějších předpisů.
+
+<sup>9</sup>) Např. § 7 odst. 3 písm. a) zákona č. 200/1994 Sb.
+
+<sup>10</sup>) Zákon ČNR č. 344/1992 Sb.
+
+<sup>10a</sup>) § 52 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých zákonů (rozpočtová pravidla).
+
+<sup>10b</sup>) § 4 písm. h) zákona č. 222/2016 Sb., o Sbírce zákonů a mezinárodních smluv a o tvorbě právních předpisů vyhlašovaných ve Sbírce zákonů a mezinárodních smluv (zákon o Sbírce zákonů a mezinárodních smluv).
+
+<sup>11</sup>) Zákon č. 71/1967 Sb., o správním řízení (správní řád).
+
+<sup>11a</sup>) § 6 odst. 2 písm. a) zákona č. 200/1994 Sb.
+
+<sup>11b</sup>) § 9 odst. 2 zákona č. 200/1994 Sb.
+
+<sup>11c</sup>) § 6 odst. 2 písm. b) a c) zákona č. 200/1994 Sb.
+
+<sup>11d</sup>) § 6 odst. 3 zákona č. 200/1994 Sb.
+
+<sup>12</sup>) Nařízení vlády ČSFR č. 53/1992 Sb., o minimální mzdě.
+
+<sup>13</sup>) Zákon ČNR č. 200/1990 Sb., o přestupcích. 
+ Zákon č. 71/1967 Sb.

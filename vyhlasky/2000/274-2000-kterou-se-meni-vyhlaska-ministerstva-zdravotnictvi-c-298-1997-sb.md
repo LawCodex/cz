@@ -1,0 +1,48 @@
+---
+title: "Vyhláška Ministerstva zdravotnictví č. 274/2000 Sb., kterou se mění vyhláška Ministerstva zdravotnictví č. 298/1997 Sb., kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky jejich použití, jejich označování na obalech, požadavky na čistotu a identitu přídatných látek a potravních doplňků a mikrobiologické požadavky na potravní doplňky a látky přídatné, ve znění vyhlášky č. 3/1999 Sb. a vyhlášky č. 323/1999 Sb."
+identifier: "274/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/274/2000-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-07-28
+effective: 2000-09-01
+last_amended: 2000-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/274"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva zdravotnictví č. 274/2000 Sb., kterou se mění vyhláška Ministerstva zdravotnictví č. 298/1997 Sb., kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky jejich použití, jejich označování na obalech, požadavky na čistotu a identitu přídatných látek a potravních doplňků a mikrobiologické požadavky na potravní doplňky a látky přídatné, ve znění vyhlášky č. 3/1999 Sb. a vyhlášky č. 323/1999 Sb.
+
+274
+
+VYHLÁŠKA
+
+Ministerstva zdravotnictví
+
+ze dne 28. července 2000,
+
+kterou se mění vyhláška Ministerstva zdravotnictví č. 298/1997 Sb., kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky jejich použití, jejich označování na obalech, požadavky na čistotu a identitu přídatných látek a potravních doplňků a mikrobiologické požadavky na potravní doplňky a látky přídatné, ve znění vyhlášky č. 3/1999 Sb. a vyhlášky č. 323/1999 Sb.
+
+Ministerstvo zdravotnictví stanoví podle § 19 písm. a) a b) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů:
+
+## Čl. I
+
+Vyhláška č. 298/1997 Sb., kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky jejich použití, jejich označování na obalech, požadavky na čistotu a identitu přídatných látek a potravních doplňků a mikrobiologické požadavky na potravní doplňky a látky přídatné, ve znění vyhlášky č. 3/1999 Sb. a vyhlášky č. 323/1999 Sb., se mění takto:
+
+1\. V § 1 odst. 1 se slova „a zbytků veterinárních léčiv a biologicky aktivních látek používaných v živočišné výrobě“ zrušují.
+
+2\. V § 3 se odstavec 4 zrušuje.
+
+3\. Dosavadní odstavce 5 a 6 se označují jako odstavce 4 a 5.
+
+4\. Příloha č. 5 se zrušuje.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. září 2000.
+
+Ministr:
+
+prof. MUDr. Fišer, CSc. v. r.

@@ -1,0 +1,232 @@
+---
+title: "Zákon České národní rady č. 231/1991 Sb., o působnosti orgánů České republiky v mimosoudních rehabilitacích"
+identifier: "231/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/231/2022-02-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1991-05-21
+effective: 1991-06-01
+last_amended: 2022-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/231"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon České národní rady č. 231/1991 Sb., o působnosti orgánů České republiky v mimosoudních rehabilitacích ve znění zákona č. 544/1991 Sb., zákonného opatření č. 345/1992 Sb., zákona č. 133/1993 Sb., zákona č. 320/2002 Sb., zákona č. 250/2008 Sb., zákona č. 227/2009 Sb., zákona č. 183/2017 Sb. a zákona č. 261/2021 Sb."
+---
+
+# Zákon České národní rady č. 231/1991 Sb., o působnosti orgánů České republiky v mimosoudních rehabilitacích
+
+231
+
+ZÁKON
+
+České národní rady
+
+ze dne 21. května 1991
+
+o působnosti orgánů České republiky v mimosoudních rehabilitacích
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## ČÁST I – UPLATŇOVÁNÍ NÁROKŮ ZE VZTAHŮ OBČANSKOPRÁVNÍCH, TRESTNĚPRÁVNÍCH A SPRÁVNÍCH
+
+### § 1
+
+Ve věcech finančních náhrad, na které vznikl nárok podle zákona č. 87/1991 Sb., o mimosoudních rehabilitacích (dále jen „zákon“), jsou příslušné tyto ústřední orgány státní správy České republiky (dále jen „příslušný ústřední orgán“):
+
+a) ministerstvo financí České republiky ve věcech vrácení kupní ceny (§ 11 zákona), ve věcech finanční náhrady v oblasti občanskoprávních vztahů (§ 13 odst. 3 a 4 zákona), s výjimkou případů uvedených v § 2 odst. 3 druhá věta zákona a dále ve věcech finanční náhrady za majetek, který připadl do vlastnictví státu na základě trestu propadnutí jmění (§ 16 odst. 2 zákona) a trestu propadnutí majetku, propadnutí nebo zabrání věci (§ 20 odst. 1 a 2 zákona),
+
+b) ministerstvo pro správu národního majetku a jeho privatizaci České republiky v případech, kdy k odnětí vlastnického práva podle předpisů o znárodnění z let 1945 až 1948 došlo v rozhodném období, aniž byla poskytnuta příslušná náhrada (§ 2 odst. 3 druhá věta zákona),
+
+c) ministerstvo vnitra České republiky v oblasti správních vztahů (§ 16 odst. 3, § 17 odst. 2 a § 18 odst. 2 zákona).
+
+### § 2
+
+Písemná žádost o finanční náhradu musí obsahovat skutečnosti rozhodné pro posouzení oprávněnosti uplatněného nároku příslušným ústředním orgánem.
+
+### § 3
+
+(1) K žádosti o poskytnutí finanční náhrady (dále jen „žádost“) za odnětí věci způsobem uvedeným v § 6 odst. 1 písm. a) až j) a odst. 2, § 16 odst. 2 a § 20 odst. 2 zákona připojí oprávněná osoba potvrzení Úřadu pro zastupování státu ve věcech majetkových<sup>1</sup>) o důvodu odnětí věci.
+
+(2) V případě, že k odnětí vlastnického práva došlo podle předpisů o znárodnění,<sup>2</sup>) připojí oprávněná osoba k žádosti potvrzení odvětvového ministerstva o znárodnění nebo výměr tohoto ministerstva o znárodnění a jeho rozsahu a o tom, komu byla věc odňata.
+
+(3) Doklady uvedené v odstavci 1 a 2 lze nahradit výpisem z pozemkové knihy nebo jiným dokladem, obsahují-li důvod odnětí a jméno osoby, které byla věc odňata.
+
+### § 4
+
+(1) Pokud oprávněnými osobami jsou osoby rehabilitované podle zákona č. 119/1990 Sb., o soudní rehabilitaci, ve znění pozdějších předpisů, a v případě jejich úmrtí nebo prohlášení za mrtvého, osoby uvedené v § 3 odst. 2 zákona,<sup>3</sup>) připojí oprávněné osoby k žádosti rozhodnutí soudu<sup>4</sup>) opatřené doložkou právní moci.
+
+(2) Podle odstavce 1 se postupuje i tehdy, jestliže žádost podají osoby, kterým vznikl nárok na odškodnění podle § 27 odst. 1 písm. f) zákona č. 82/1968 Sb., o soudní rehabilitaci, ve znění pozdějších předpisů, pokud jde o nemovité věci, které jim nebyly vráceny.
+
+### § 5
+
+K žádosti připojí oprávněné osoby potvrzení Úřadu pro zastupování státu ve věcech majetkových<sup>1</sup>)
+
+a) o výši pohledávky peněžního ústavu zajištěné omezením převodu nemovitosti a vypořádané podle zvláštních předpisů,<sup>5</sup>) tato částka se od finanční náhrady odečte,
+
+b) o výši kupní ceny nebo náhrady, která byla původnímu vlastníkovi vyplacena.<sup>6</sup>)
+
+### § 6
+
+Oprávněné osoby podle § 3 odst. 2 zákona k žádosti připojí doklad osvědčující jejich vztah k původnímu vlastníkovi.<sup>7</sup>)
+
+### § 7
+
+(1) Poskytuje-li se finanční náhrada za nemovitost, předloží oprávněná osoba znalecký posudek nebo posudek vypracovaný příslušným stavebním úřadem o ceně nemovitosti anebo doklady nutné k jejímu ocenění. Nezbytné náklady spojené s pořízením znaleckého posudku nese příslušný ústřední orgán.
+
+(2) Požádá-li oprávněná osoba o finanční náhradu podle § 7 odst. 3, 4 a 5 zákona, připojí k žádosti též vyjádření stavebního úřadu, v jehož územním obvodu se nemovitost nachází, o jejím stavebním stavu. Toto vyjádření lze nahradit znaleckým posudkem.
+
+### § 8
+
+Nelze-li doložit dobu strávenou v táborech nucených prací nebo v pracovním útvaru (§ 17 odst. 2 zákona) rozhodnutím správního orgánu a jinými doklady, mohou být tyto doklady nahrazeny ověřenými čestnými prohlášeními nejméně dvou osob, které nejsou osobami blízkými<sup>8</sup>) osobě oprávněné.
+
+### § 9
+
+Neúplnou žádost vrátí příslušný ústřední orgán oprávněné osobě k doplnění. Od doby vrácení žádosti do doby doručení doplněné žádosti lhůta stanovená zákonem<sup>9</sup>) neběží.
+
+### § 10
+
+Při projednání žádosti postupuje příslušný ústřední orgán přiměřeně podle zákona č. 58/1969 Sb., o odpovědnosti za škodu způsobenou rozhodnutím orgánu státu nebo jeho nesprávným úředním postupem.
+
+### § 11
+
+(1) Příslušný ústřední orgán posoudí oprávněnost uplatněného nároku a vyplatí finanční náhradu v hotovosti ve výši stanovené zvláštním předpisem.<sup>10</sup>) Pokud finanční náhrada spočívá též ve vydání cenných papírů a nebo pouze v tomto způsobu náhrady,<sup>11</sup>) věc neprodleně postoupí k dalšímu opatření ministerstvu pro správu národního majetku a jeho privatizaci České republiky; o postoupení žadatele vyrozumí.
+
+(2) Finanční náhradu v cenných papírech vydá oprávněné osobě ministerstvo pro správu národního majetku a jeho privatizaci České republiky.
+
+## ČÁST II – UPLATŇOVÁNÍ NÁROKŮ ZE VZTAHŮ PRACOVNĚPRÁVNÍCH A SLUŽEBNÍCH A ZE VZTAHŮ SOCIÁLNÍHO ZABEZPEČENÍ
+
+### § 12
+
+(1) Osvědčení o zániku pracovního vztahu soudců soudů České republiky vydá na žádost ministerstvo spravedlnosti České republiky.<sup>12</sup>)
+
+(2) Osvědčení o zániku služebního vztahu příslušníků ozbrojených sborů ministerstva vnitra České republiky vydá ministerstvo vnitra České republiky.<sup>13</sup>)
+
+(3) Osvědčení o zániku služebního vztahu příslušníků Sboru nápravné výchovy České republiky, jejichž služební vztah zanikl po 31. prosinci 1968, vydá ministerstvo spravedlnosti České republiky.<sup>13</sup>)
+
+### § 13
+
+(1) O neplatnosti rozhodnutí ve věcech sociálního zabezpečení umělců<sup>14</sup>) rozhoduje ministerstvo práce a sociálních věcí České republiky.
+
+(2) Posouzení toho, kdo se pro účely zákona považuje za umělce,<sup>14</sup>) náleží do působnosti ministerstva kultury České republiky.
+
+## ČÁST III – USTANOVENÍ SPOLEČNÁ A ZÁVĚREČNÁ
+
+### § 14
+
+(1) Vlastník nebo uživatel věci (dále jen „povinný“), která je předmětem uplatněného nároku na poskytnutí finanční náhrady, je povinen umožnit osobám provádějícím ocenění prohlídku věci pro účely ocenění.
+
+(2) Povinný se dopustí přestupku tím, že nesplní povinnost podle odstavce 1.
+
+(3) Za přestupek podle odstavce 2 lze uložit pokutu do 5 000 Kč.
+
+(4) Přestupek podle odstavce 2 projednává krajský úřad.
+
+### § 15
+
+(1) Při vyřizování žádosti poskytují krajské úřady, obecní úřady, soudy, státní notářství, katastrální úřady a archívy příslušnému ústřednímu orgánu potřebnou součinnost.
+
+(2) Orgány uvedené v odstavci 1 jsou povinny provést požadované šetření a předložit spisy ve lhůtě stanovené v dožádání příslušného ústředního orgánu. Pokud tato lhůta stanovena není, jsou povinny dožádání vyhovět do 30 dnů ode dne jeho doručení. Pokud se dožádání netýká jejich působnosti, jsou povinny dožádání postoupit příslušnému orgánu uvedenému v odstavci 1 nebo dožádání vrátit příslušnému ústřednímu orgánu do pěti dnů ode dne jeho doručení.
+
+(3) Potvrzení podle § 3 odst. 1 a § 5 tohoto zákona vydá Úřad pro zastupování státu ve věcech majetkových<sup>1</sup>) do 30 dnů.
+
+### § 16
+
+(1) Osoba, které vznikl nárok na vrácení kupní ceny,<sup>16</sup>) připojí k žádosti dohodu o vydání věci, výpis z evidence nemovitostí a smlouvu, na jejímž základě nabyla věc od státu.
+
+(3) Kupní cena vyplacená státu před 1. červnem 1953 se přepočte v poměru 5:1.<sup>17</sup>)
+
+### § 17
+
+(1) Vyplatil-li stát za převzatou věc kupní cenu nebo náhradu,<sup>18</sup>) je osoba, které byla věc vydána, povinna vyplacenou částku odvést do 30 dnů ode dne uzavření dohody Ministerstvu financí.
+
+(2) K návrhu na registraci dohody<sup>19</sup>) je oprávněná osoba povinna předložit státnímu notářství doklad o odvedení částky uvedené v odstavci 1 tohoto zákona, popřípadě o tom, že byla uzavřena dohoda o splátkách nebo dohoda o odkladu splatnosti.
+
+(3) Kupní cena nebo náhrada vyplacená občanovi před 1. červnem 1953 se přepočte v poměru 5:1.<sup>17</sup>)
+
+(4) Kupní cena nebo náhrada podle odstavce 1 je příjmem státního rozpočtu České republiky.
+
+### § 18
+
+(1) Právo České republiky na vydání věci<sup>20</sup>) uplatňuje proti povinné osobě Úřad pro zastupování státu ve věcech majetkových.<sup>1</sup>)
+
+(2) Pro účely tohoto zákona se povinnými osobami rozumějí fyzické osoby uvedené v § 4 odst. 2 zákona.
+
+### § 18a
+
+S věcí vydanou České republice se naloží podle zvláštních předpisů.<sup>22</sup>)
+
+### § 18b
+
+Výtěžek z prodeje věcí, které Česká republika nabyla do svého vlastnictví (§ 18), je příjmem státního rozpočtu České republiky.
+
+### § 18c
+
+Vypořádal-li stát za vydávanou věc pohledávku peněžního ústavu,<sup>23</sup>) postupuje se podle § 17 tohoto zákona.
+
+### § 18d
+
+Působnosti stanovené krajském úřadu nebo obecnímu úřadu podle tohoto zákona jsou výkonem přenesené působnosti.
+
+### § 19
+
+Tento zákon nabývá účinnosti dnem 1. června 1991.
+
+Burešová v. r.
+
+Pithart v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 201/2002 Sb., o Úřadu pro zastupování státu ve věcech majetkových.
+
+<sup>2</sup>) § 2 odst. 3 a § 6 odst. 1 písm. k) zákona č. 87/1991 Sb., o mimosoudních rehabilitacích.
+
+<sup>3</sup>) § 19 odst. 1 zákona č. 87/1991 Sb.
+
+<sup>4</sup>) § 2 odst. 2 a § 14 odst. 1 až 3 zákona č. 119/1990 Sb., o soudní rehabilitaci, ve znění pozdějších předpisů.
+
+<sup>5</sup>) § 10 odst. 2 zákona č. 87/1991 Sb.
+
+<sup>6</sup>) § 10 odst. 4 zákona č. 87/1991 Sb.
+
+<sup>7</sup>) Např. rodný list nebo oddací list, úmrtní list nebo pravomocné rozhodnutí, kterým soud prohlásil občana za mrtvého, závěť, pravomocné rozhodnutí státního notářství vydané v dědickém řízení apod.
+
+<sup>8</sup>) § 116 občanského zákoníku.
+
+<sup>9</sup>) § 13 odst. 4 zákona č. 87/1991 Sb.
+
+<sup>10</sup>) Nařízení vlády České republiky č. 233/1991 Sb., o výši finanční náhrady v hotovosti poskytované podle zákona o mimosoudních rehabilitacích.
+
+<sup>11</sup>) § 13 odst. 5 a 6 zákona č. 87/1991 Sb.
+
+<sup>12</sup>) § 22 odst. 5 písm. c) zákona č. 87/1991 Sb.
+
+<sup>13</sup>) § 22 odst. 5 písm. b) zákona č. 87/1991 Sb.
+
+<sup>14</sup>) § 23 odst. 2 zákona č. 87/1991 Sb.
+
+<sup>15a</sup>) Zákon č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů (zákon o evidenci obyvatel), ve znění pozdějších předpisů.
+
+<sup>15b</sup>) § 1 zákona č. 133/2000 Sb.
+
+<sup>15c</sup>) Zákon č. 40/1993 Sb., o nabývání a pozbývání státního občanství České republiky, ve znění pozdějších předpisů.
+
+<sup>16</sup>) § 11 zákona č. 87/1991 Sb.
+
+<sup>17</sup>) Zákon č. 41/1953 Sb., o peněžní reformě.
+
+<sup>18</sup>) § 10 odst. 4 zákona č. 87/1991 Sb.
+
+<sup>19</sup>) § 5 odst. 3 zákona č. 87/1991 Sb.
+
+<sup>20</sup>) Článek 4 odst. 4 ústavního zákona č. 143/1968 Sb., o československé federaci, ve znění pozdějších předpisů. 
+ § 34 zákona č. 87/1991 Sb.
+
+<sup>21</sup>) § 3 odst. 3 zákona ČNR č. 367/1990 Sb., o obcích. 
+ § 22 odst. 2 písm. a) zákona ČNR č. 418/1990 Sb., o hlavním městě Praze.
+
+<sup>22</sup>) Vyhláška č. 61/1986 Sb., o prozatímní správě národního majetku. 
+ Vyhláška č. 119/1988 Sb., o hospodaření s národním majetkem, ve znění pozdějších předpisů.
+
+<sup>23</sup>) § 10 odst. 2 zákona č. 87/1991 Sb.

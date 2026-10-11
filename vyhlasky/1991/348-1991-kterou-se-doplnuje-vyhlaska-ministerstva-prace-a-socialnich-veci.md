@@ -1,0 +1,50 @@
+---
+title: "Vyhláška Ministerstva práce a sociálních věcí České republiky č. 348/1991 Sb., kterou se doplňuje vyhláška ministerstva práce a sociálních věcí České republiky č. 20/1991 Sb., kterou se stanoví bližší podmínky poskytování hmotného zabezpečení uchazečům o zaměstnání"
+identifier: "348/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/348/1991-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1991-07-24
+effective: 1991-09-01
+last_amended: 1991-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/348"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva práce a sociálních věcí České republiky č. 348/1991 Sb., kterou se doplňuje vyhláška ministerstva práce a sociálních věcí České republiky č. 20/1991 Sb., kterou se stanoví bližší podmínky poskytování hmotného zabezpečení uchazečům o zaměstnání
+
+348
+
+VYHLÁŠKA
+
+ministerstva práce a sociálních věcí České republiky
+
+ze dne 24. července 1991,
+
+kterou se doplňuje vyhláška ministerstva práce a sociálních věcí České republiky č. 20/1991 Sb., kterou se stanoví bližší podmínky poskytování hmotného zabezpečení uchazečům o zaměstnání
+
+Ministerstvo práce a sociálních věcí České republiky stanoví podle § 31 odst. 1 písm. a) a odst. 3 písm. a) zákona č. 1/1991 Sb., o zaměstnanosti:
+
+## Čl. I
+
+Vyhláška ministerstva práce a sociálních věcí České republiky č. 20/1991 Sb., kterou se stanoví bližší podmínky poskytování hmotného zabezpečení uchazečům o zaměstnání, se doplňuje takto:
+
+Za § 4 se vkládá nový § 4a, který zní:
+
+> **„§ 4a**
+
+> Uchazeči o zaměstnání, se kterým v jeho posledním zaměstnání byla sjednána kratší pracovní doba v důsledku dočasného snižování výroby (služeb) ve vybrané organizaci pro přechodné odbytové nebo finanční potíže způsobené neplněním mezinárodních hospodářských smluv a nepříznivými ekonocnickými dopady restrukturalizace,<sup>22</sup>) přestože tato vybraná organizace má perspektivní výrobní program, se poskytuje hmotné zabezpečení ve výši podle § 4, jako kdyby ke sjednání kratší pracovní doby nedošlo.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. září 1991.
+
+Ministr:
+
+Ing. Horálek CSc. v. r.
+
+---
+
+<sup>22</sup>) Vyhláška ministerstva práce a sociálních věcí ČR č.347/1991 Sb., o zabezpečení pracovníků organizací, kteří pracují po kratší pracovní dobu pro přechodné odbytové a finanční potíže.

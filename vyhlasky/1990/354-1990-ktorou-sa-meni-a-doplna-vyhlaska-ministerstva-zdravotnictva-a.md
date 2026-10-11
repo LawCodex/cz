@@ -1,0 +1,92 @@
+---
+title: "Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 354/1990 Sb., ktorou sa mení a dopĺňa vyhláška Ministerstva zdravotníctva a sociálnych vecí Slovenskej republiky č. 272/1990 Zb. o stravovaní v zariadeniach sociálnej starostlivosti"
+identifier: "354/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/354/1990-09-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1990-08-27
+effective: 1990-09-01
+last_amended: 1990-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/354"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 354/1990 Sb., ktorou sa mení a dopĺňa vyhláška Ministerstva zdravotníctva a sociálnych vecí Slovenskej republiky č. 272/1990 Zb. o stravovaní v zariadeniach sociálnej starostlivosti
+
+354
+
+VYHLÁŠKA
+
+Ministerstva práce a sociálnych vecí Slovenskej republiky
+
+z 27. augusta 1990,
+
+ktorou sa mení a dopĺňa vyhláška Ministerstva zdravotníctva a sociálnych vecí Slovenskej republiky č. 272/1990 Zb. o stravovaní v zariadeniach sociálnej starostlivosti
+
+Ministerstvo práce a sociálnych vecí Slovenskej republiky po dohode s Federálnym ministerstvom práce a sociálnych vecí a s ostatnými zúčastnenými ústrednými orgánmi podľa § 177 ods. 4 zákona č. 100/1988 Zb. o sociálnom zabezpečení v znení zákona č. 110/1990 Zb. a podľa § 58 písm. d), f) a h) zákona Slovenskej národnej rady č. 106/1988 Zb. o pôsobnosti orgánov Slovenskej socialistickej republiky v sociálnom zabezpečení v znení zákona Slovenskej národnej rady č. 131/1990 Zb. ustanovuje:
+
+## Čl. I
+
+Vyhláška Ministerstva zdravotníctva a sociálnych vecí Slovenskej republiky č. 272/1990 Zb. o stravovaní v zariadeniach sociálnej starostlivosti sa mení a dopĺňa takto:
+
+1\. V § 1 sa za slová „z týchto zariadení<sup>2</sup>)“ vkladajú slová „stravovania príjemcov niektorých ďalších služieb sociálnej starostlivosti<sup>2a</sup>)“.
+
+2\. V § 2 ods. 1 sa pripájajú nové písmená e) a f), ktoré znejú:
+
+> „e) účastníkom výchovno-rekreačných a letných rekreačno-výchovných táborov a sociálno-zdravotných a iných kurzov,
+
+> f) občanom vykonávajúcim civilnú službu.<sup>2b</sup>)“.
+
+3\. V § 8 ods. 1 písm. a) sa na konci pripájajú tieto slová: „s výnimkou diabetickej diéty, pri poskytovaní ktorej sa uvedené stravné jednotky zvyšujú o 8,30 Kčs na osobu a deň,“.
+
+4\. V § 8 ods. 1 písm. b) sa na konci pripájajú slová: „s výnimkou diabetickej diéty, pri poskytovaní ktorej sa uvedené stravné jednotky zvyšujú o 4,60 Kčs na osobu a deň.“.
+
+5\. V § 8 ods. 2 písm. a) bod 2 znie:
+
+> „2. strava diétna (napr. šetriaca, neslaná, redukčná), strava pre pracujúcich obyvateľov a pre občanov vykonávajúcich civilnú službu 26,70 Kčs“.
+
+6\. V § 8 ods. 2 písm. a) v bode 3 sa suma „29,70 Kčs“, nahrádza sumou „35,00 Kčs,“.
+
+7\. V § 8 ods. 2 písm. b) v bode 3 sa suma „16,30 Kčs.“ nahrádza sumou „19,30 Kčs.“.
+
+8\. § 9 ods. 3 písm. c) znie:
+
+> | „c) diéta diabetická, bielkovinová a výživná | Kčs |
+> |---|---|
+> | raňajky | 4,90 |
+> | obed | 11,20 |
+> | večera | 9,60 |
+> | 1 vedľajšie jedlo | 3,10.“. |
+
+9\. V § 13 ods. 1 v druhej vete sa suma „29,70 Kčs.“ nahrádza sumou „35,00 Kčs.“.
+
+10\. V druhej časti sa dopĺňa štvrtý diel, ktorý znie:
+
+> **„ŠTVRTÝ DIEL – STRAVOVANIE VO VÝCHOVNO-REKREAČNÝCH A V LETNÝCH REKREAČNO-VÝCHOVNÝCH TÁBOROCH A V SOCIÁLNO-ZDRAVOTNÝCH A INÝCH KURZOCH**
+
+> **§ 17a – Stravné jednotky**
+
+> Stravné jednotky pre účastníkov výchovno-rekreačných a letných rekreačno-výchovných táborov a sociálno-zdravotných a iných kurzov (ďalej len „kurz“) určí příslušný orgán sociálneho zabezpečenia, ktorý kurz usporadúva (ďalej len „usporiadateľ“) pri celodennom stravovaní až do výšky 40 Kčs; ak usporiadateľ zabezpečuje stravu odberom z iných organizácií alebo v iných organizáciách, môže usporiadateľ zvýšiť túto sumu o ďalších 15 Kčs.
+
+> **§ 17b – Úhrady za stravu**
+
+> (1) Účastníkom kurzov sa poskytuje stravovanie bezplatne.
+
+> (2) Pracovníkom usporiadateľa sa poskytuje stravovanie podľa § 9 ods. 10. Ak sa pracovníkom usporiadateľa neposkytuje strava bezplatne, uhrádzajú za stravu sumy uvedené v § 17 ods. 1.“
+
+## Čl. II
+
+Táto vyhláška nadobúda účinnosť 1. septembrom 1990.
+
+Minister:
+
+MUDr. Novák CSc. v. r.
+
+---
+
+<sup>2a</sup>) § 13 ods. 3 vyhlášky MZSV SSR č. 151/1988 Zb. 
+ § 65 ods. 1 a 2 vyhlášky MZSV SSR č. 151/1988 Zb.
+
+<sup>2b</sup>) § 8 ods. 1 zákona č. 73/1990 Zb. o civilnej službe.

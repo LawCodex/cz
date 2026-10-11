@@ -1,0 +1,50 @@
+---
+title: "Vyhláška Českého báňského úřadu č. 331/2002 Sb., kterou se mění vyhláška Českého báňského úřadu č. 415/1991 Sb., o konstrukci, vypracování dokumentace a stanovení ochranných pilířů, celíků a pásem pro ochranu důlních a povrchových objektů, ve znění vyhlášky č. 340/1992 Sb."
+identifier: "331/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/331/2002-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2002-07-08
+effective: 2002-08-01
+last_amended: 2002-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/331"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Českého báňského úřadu č. 331/2002 Sb., kterou se mění vyhláška Českého báňského úřadu č. 415/1991 Sb., o konstrukci, vypracování dokumentace a stanovení ochranných pilířů, celíků a pásem pro ochranu důlních a povrchových objektů, ve znění vyhlášky č. 340/1992 Sb.
+
+331
+
+VYHLÁŠKA
+
+Českého báňského úřadu
+
+ze dne 8. července 2002,
+
+kterou se mění vyhláška Českého báňského úřadu č. 415/1991 Sb., o konstrukci, vypracování dokumentace a stanovení ochranných pilířů, celíků a pásem pro ochranu důlních a povrchových objektů, ve znění vyhlášky č. 340/1992 Sb.
+
+Český báňský úřad stanoví podle § 6 odst. 6 písm. a) zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě:
+
+## Čl. I
+
+Vyhláška č. 415/1991 Sb., o konstrukci, vypracování dokumentace a stanovení ochranných pilířů, celíků a pásem pro ochranu důlních a povrchových objektů, ve znění vyhlášky č. 340/1992 Sb., se mění takto:
+
+V § 16 odstavec 3 zní:
+
+> „(3) Účelem vedení dlouhých důlních děl v orientačním bezpečnostním celíku musí být mimo jiné upřesnění průběhu a stavby zvodněného nebo plynonosného horizontu nebo zatopeného důlního díla, snížení tlaků v nebezpečných horizontech a spolehlivé odvodnění stařin, pokud je to technicky možné. Důlní díla musí být zajišťována zabezpečovacími vrty, určenými v projektu důlní činnosti v orientačním bezpečnostním celíku tak, aby jimi bylo důlní dílo vždy bezpečně zajištěno
+
+> a) v bližším pásmu orientačního bezpečnostního celíku – alespoň trojicí vrtů,
+
+> b) ve vzdálenějším pásmu orientačního bezpečnostního celíku – alespoň dvojicí vrtů.
+
+> Délka vrtů a další parametry, tj. staničení, ústí, směr a úklon, musí být z projektu přeneseny do technologického postupu důlního díla.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 2002.
+
+Předseda:
+
+prof. JUDr. Ing. Makarius, CSc. v. r.

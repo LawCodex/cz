@@ -1,0 +1,708 @@
+---
+title: "Vyhláška Ministerstva dopravy č. 222/1995 Sb., o vodních cestách, plavebním provozu v přístavech, společné havárii a dopravě nebezpečných věcí"
+identifier: "222/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/222/2019-06-19"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1995-09-14
+effective: 1995-10-13
+last_amended: 2019-06-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/222"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva dopravy č. 222/1995 Sb., o vodních cestách, plavebním provozu v přístavech, společné havárii a dopravě nebezpečných věcí ve znění vyhlášky č. 412/2004 Sb., vyhlášky č. 666/2004 Sb., vyhlášky č. 423/2005 Sb., vyhlášky č. 517/2006 Sb., vyhlášky č. 44/2008 Sb., vyhlášky č. 66/2015 Sb., vyhlášky č. 259/2016 Sb. a vyhlášky č. 139/2019 Sb."
+---
+
+# Vyhláška Ministerstva dopravy č. 222/1995 Sb., o vodních cestách, plavebním provozu v přístavech, společné havárii a dopravě nebezpečných věcí
+
+222
+
+VYHLÁŠKA
+
+Ministerstva dopravy
+
+ze dne 14. září 1995
+
+o vodních cestách, plavebním provozu v přístavech, společné havárii a dopravě nebezpečných věcí
+
+Ministerstvo dopravy stanoví podle § 52 zákona č. 114/1995 Sb., o vnitrozemské plavbě (dále jen „zákon“):
+
+**Zařazení vodních cest do tříd**
+
+(k § 3 odst. 2 zákona)
+
+## § 1
+
+(1) Vodní cesty v České republice se zařazují do tříd podle klasifikace vnitrozemských vodních cest uvedené v příloze č. 1.
+
+(2) Určená třída vodní cesty stanoví, pro jaké největší plavidlo (dále jen „návrhové plavidlo“) jsou na vodní cestě podmínky k jeho bezpečnému a plynulému provozu.
+
+## § 2
+
+(1) Dopravně významná využívaná vodní cesta uvedená v příloze č. 2 odstavci 1 písm. a) zákona je vodní cestou IV. třídy v úseku Kunětice - Mělník a vodní cestou Va. třídy v úseku Mělník - státní hranice se Spolkovou republikou Německo.
+
+(2) Dopravně významná využívaná vodní cesta uvedená v příloze č. 2 odstavci 1 písm. b) bodu 1 zákona je vodní cestou IV. třídy.
+
+(3) Dopravně významná využívaná vodní cesta uvedená v příloze č. 2 odstavci 1 písm. b) bodu 2 zákona je vodní cestou I. třídy.
+
+(4) Dopravně významná využívaná vodní cesta uvedená v příloze č. 2 odstavci 1 písm. c) zákona je vodní cestou 0. třídy.
+
+## § 3 – Vodní cesty účelové
+
+Za vodní cesty účelové se považují
+
+a) vodní tok Labe od říčního km 1012,58 (Jaroměř) po říční km 987,80 (Opatovice),
+
+vodní tok Chrudimky od říčního km 0,596 (silniční most – Pardubice) po říční km 0,00 (ústí do vodního toku Labe),
+
+vodní tok Cidliny od říčního km 2,113 (železniční most – Libice nad Cidlinou) po říční km 0,00 (ústí do vodního toku Labe),
+
+vodní tok Lužnice od říčního km 4,20 (silniční most – Koloděje nad Lužnicí) po říční km 0,00 (ústí do vodního toku Vltavy),
+
+vodní tok Otavy od říčního km 18,30 (Kavkovna) po říční km 0,00 (Zvíkov, ústí do vodního toku Vltavy),
+
+vodní tok Sázavy od říčního km 2,50 (Pikovice) po říční km 0,00 (Davle, ústí do vodního toku Vltavy),
+
+vodní tok Zámecká Dyje od říčního km 12,50 (odbočení z Dyje) po soutok s vodním tokem Dyje, včetně Staré Dyje,
+
+přehradní nádrž Baška,
+
+přehradní nádrž Brněnská (Kníničky),
+
+přehradní nádrž Dalešice,
+
+přehradní nádrž Stráž pod Ralskem,
+
+přehradní nádrž Hracholusky,
+
+přehradní nádrž Jesenice,
+
+přehradní nádrž Lipno,
+
+přehradní nádrž Nechranice,
+
+přehradní nádrž Nové Mlýny I,
+
+přehradní nádrž Nové Mlýny III,
+
+přehradní nádrž Olešná,
+
+přehradní nádrž Pastviny,
+
+přehradní nádrž Plumlov,
+
+přehradní nádrž Rozkoš,
+
+přehradní nádrž Seč,
+
+přehradní nádrž Skalka,
+
+přehradní nádrž Slezská Harta,
+
+přehradní nádrž Těrlicko,
+
+přehradní nádrž Vranov,
+
+přehradní nádrž Žermanice,
+
+Máchovo jezero,
+
+vodní plocha Barbora,
+
+vodní plocha Matylda (Most),
+
+vodní plocha Předměřice nad Labem (Správčický písník),
+
+vodní plocha Velké Žernoseky,
+
+rybník Bezdrev,
+
+rybník Oleksovice,
+
+rybník Svět,
+
+rybník Velké Dářko,
+
+b) těžební jezera štěrkopísku s těžbou prováděnou plovoucími stroji.
+
+**Rozměry vodních cest dopravně významných**
+
+(k § 3 odst. 2 zákona)
+
+## § 4
+
+Základními určujícími objekty dopravně významných vodních cest je plavební dráha a plavební komora.
+
+## § 5 – Plavební dráha
+
+(1) Rozměry vyznačené části vodního toku s udržovanými vyznačenými parametry, nebo vodního toku vymezeného jeho břehy s přihlédnutím ke sklonu jejich svahů (dále jen „plavební dráha“) jsou
+
+a) nejmenší šířka přímé plavební dráhy v hloubce odpovídající ponoru návrhového plavidla
+
+1\. v řece
+
+| pro klasifikační tř. 0. | 14 m, |
+|---|---|
+
+| pro klasifikační tř. I. | 20 m, |
+|---|---|
+
+| pro klasifikační tř. IV., Va., Vb. | 50 m, |
+|---|---|
+
+2\. v plavebním kanálu
+
+| pro klasifikační tř. 0. | 6 m, |
+|---|---|
+
+| pro klasifikační tř. I. | 15 m, |
+|---|---|
+
+| pro klasifikační tř. IV., Va., Vb. | 40 m, |
+|---|---|
+
+b) nejmenší plavební hloubka tvořená součtem nejvýše přípustného ponoru plavidla a bezpečnostní vzdálenosti dna plavidla nade dnem vodní cesty (dále jen „bezpečnostní marže“). U nových a nově upravovaných vodních cest činí nejmenší plavební hloubka 1,20 m + bezpečnostní marže pro vodní cestu klasifikační třídy 0., 2,20 m + bezpečnostní marže pro vodní cestu klasifikační třídy I. a 2,80 m + bezpečnostní marže pro vodní cestu klasifikační třídy IV., Va. a Vb. V případě, že nové nebo nově upravené vodní cestě bezprostředně předchází po proudu vodního toku vodní cesta s nižším přípustným ponorem plavidla, může u této nové nebo nově upravené vodní cesty plavební hloubka dosáhnout hodnoty součtu přípustného ponoru plavidla na bezprostředně předcházejícím úseku vodní cesty a bezpečnostní marže; stavební konstrukce musí v budoucnu umožnit dosažení plavební hloubky podle příslušné klasifikační třídy. Bezpečnostní marže činí
+
+1\. v řece
+
+u stávajících vodních cest nejméně 0,30 m,
+
+u nových a nově upravovaných vodních cest nebo jejich úseků nejméně 0,30 m pro klasifikační tř. 0., a nejméně 0,50 m pro klasifikační tř. I., IV., Va. nebo Vb.,
+
+2\. v plavebním kanálu
+
+u stávajících vodních cest nebo jejich úseků nejméně tolik, kolik činí stávající dosažená bezpečnostní marže,
+
+u nově upravovaných vodních cest nebo jejich úseků nejméně tolik, kolik činí stávající dosažená bezpečnostní marže, ne však méně než 0,30 m pro klasifikační tř. 0. a 0,50 m pro klasifikační tř. I., IV., Va. nebo Vb.,
+
+u nových vodních cest nebo jejich úseků nejméně 0,30 m pro klasifikační tř. 0., nejméně 0,50 m pro klasifikační tř. I. a nejméně 1,00 m pro klasifikační tř. IV., Va. nebo Vb.
+
+(2) Plavební dráha se v oblouku rozšiřuje v závislosti na délce návrhové sestavy a poloměru oblouku. U nových a nově upravovaných vodních cest nebo jejich úseků se šířka plavební dráhy v oblouku vypočítává podle přílohy č. 2 k této vyhlášce; výpočet šířky plavební dráhy podle věty první musí být obsažen v dokumentaci stavby předávané plavebnímu úřadu pro účely vydání závazného stanoviska podle zákona.
+
+## § 6 – Plavební komora
+
+(1) U nově budovaných plavebních komor jsou
+
+<table><tbody><tr><td rowspan="4">a)</td><td>nejmenší šířka</td><td></td></tr><tr><td>pro tř. 0.</td><td>5,30 m,</td></tr><tr><td>pro tř. I.</td><td>6,0 m,</td></tr><tr><td>pro tř. IV, Va., Vb.</td><td>12,0 m,</td></tr><tr><td rowspan="6">b)</td><td>nejmenší délka</td><td></td></tr><tr><td>pro tř. 0.</td><td>38,40 m,</td></tr><tr><td>pro tř. I..</td><td></td></tr><tr><td>pro tř. IV.</td><td></td></tr><tr><td>pro tř. Va.</td><td>115 m,</td></tr><tr><td>pro tř. Vb.</td><td>190 m,</td></tr><tr><td rowspan="5">c)</td><td>nejmenší hloubka nad záporníkem</td><td></td></tr><tr><td>pro tř. 0.</td><td>1,5 m,</td></tr><tr><td>pro tř. I.</td><td>3,0 m,</td></tr><tr><td>pro tř. IV.</td><td>3,5 m,</td></tr><tr><td>pro tř. Va., Vb.</td><td>4,0 m.</td></tr></tbody></table>
+
+(2) Rozměry rejdy plavební komory musí být v souladu s rozměry a kapacitou plavební komory.
+
+(3) Rejdy jsou od řečiště odděleny dělicími zdmi nebo hrázemi, které svým lícem navazují na líc zdi plavební komory. Zhlaví dělicí zdi nebo hráze musí být situováno a uspořádáno tak, aby příčná složka rychlosti proudění vody v plavební dráze bezprostředně před svodidly nebo zhlavím dělicí zdi nepřekročila 0,2 m/sec.
+
+(4) Horní hrana zdi plavební komory, dělicí zdi, dalb a svodidel musí být nejméně 1 m a 0,5 m, jde-li o klasifikační třídu I. a 0. nad nejvyšší plavební hladinou, stanovenou plavebním úřadem (dále jen „nejvyšší plavební hladina“). Při rozmísťování dalb a vázacích prvků na dělicí zdi je vhodné dodržovat vzdálenost max. 33 m.
+
+(5) Plavební komora musí být vybavena bezpečnostním zařízením, tj. vjezdovou, případně výjezdovou signalizací, úvaznými prvky ve zdech a na zdi plavební komory, výstupovými žebříky a vyhovujícím osvětlením po obou jejích stranách. Pro zvýšení plavební bezpečnosti může správce vodní cesty vybavit plavební komoru dalším zařízením. Při rozdílu hladin větším než 5 m je třeba kromě pevných vázacích prvků zřídit, u nově budovaných plavebních komor, i plovoucí vázací zařízení. Výškové členění pevných vázacích prvků činí nejvýše 1,5 m.
+
+(6) Rejdy musí být vybaveny vyhovujícím osvětlením.
+
+**Plavebně provozní podmínky vodních cest**
+
+(k § 3 odst. 1 zákona)
+
+## § 7
+
+(1) Pro zajištění bezpečné plavby je třeba na sledovaných vodních cestách udržovat plavební hloubky, odstraňovat překážky v plavební dráze a provádět značení signálními znaky podle vyhlášky o pravidlech plavebního provozu, udržovat manipulační stezky, výstupová zařízení v břehovém opevnění a říční staničení.
+
+(2) Na vodní cestě dopravně významné jsou mimo rejdy plavebních komor zřizována vývaziště s možností vyvázat loď ke břehu nebo kotviště k zakotvení lodi mimo plavební dráhu. V blízkosti přístavů, překladišť a plavebních zařízení je nutno zřídit obratiště plavidel.
+
+## § 8 – Křížení vodních cest
+
+(1) Nejmenší podjezdná výška nově stavěných nebo rekonstruovaných mostů, u nichž dochází k výměně nebo zásadní stavební úpravě nosné konstrukce, na vodní cestě dopravně významné je 7,0 m nad nejvyšší plavební hladinou, stanovenou plavebním úřadem (dále jen „nejvyšší plavební hladina“). U nově stavěných obloukových mostů musí být tato výška dodržena v šířce nejméně dvou třetin plavební dráhy podle § 5.
+
+(2) Nelze-li z důvodů, které nejsou na straně stavebníka, dodržet u nově stavěného nebo rekonstruovaného mostu nejmenší podjezdnou výšku podle odstavce 1, může být podjezdná výška u takového mostu menší, je-li konstrukce mostu zřízena jako pohyblivá. U rekonstruovaného mostu nemusí být jeho konstrukce zřízena jako pohyblivá, je-li podjezdná výška u takového mostu stejná jako před rekonstrukcí, nejméně však 5,25 m nad nejvyšší plavební hladinou. Současně musí stavebně technické řešení spodní stavby a mostovky umožňovat bez demoličních prací dodatečné dosažení nejmenší podjezdné výšky rekonstruovaného mostu podle odstavce 1 po odpadnutí důvodu, pro který to nebylo možné. Splnění podmínek podle věty první až třetí musí být obsaženo v dokumentaci stavby předávané plavebnímu úřadu pro účely vydání závazného stanoviska podle zákona.
+
+(3) Při rekonstrukci mostních objektů, při nichž nedochází k výměně nebo zásadní stavební úpravě nosné konstrukce, musí být zachována podjezdná výška před rekonstrukcí.
+
+(4) Mostní objekty musí být řešeny tak, aby nezpůsobovaly odrazy, které jsou nebezpečné pro radarovou navigaci na vodní cestě.
+
+(5) Vzdálenost mezi jednotlivými pilíři plavebního mostního otvoru, měřená kolmo na osu plavební dráhy, musí u nových mostů nebo u mostů s novými mostními pilíři, s výjimkou pohyblivých mostů, odpovídat šířce přilehlé plavební dráhy podle § 5.
+
+(6) Nejmenší podjezdná výška nově stavěných nebo rekonstruovaných mostů, u nichž dochází k výměně nebo zásadní stavební úpravě nosné konstrukce, na vodní cestě dopravně významné klasifikační třídy I., je 5,25 m nad nejvyšší plavební hladinou, a vodní cestě dopravně významné klasifikační třídy 0., vedené plavebním kanálem, je 4,0 m nad nejvyšší plavební hladinou. Nejmenší podjezdná výška nově stavěných mostů na vodní cestě dopravně významné klasifikační třídy 0. v říčním úseku je 4,0 m nad nejvyšší plavební hladinou. V případech rekonstrukce stávajících mostů na vodní cestě dopravně významné klasifikační třídy 0. v říčním úseku musí být nejméně zachována stávající podjezdná výška před rekonstrukcí.
+
+(7) Nad vodní cestou dopravně významnou mohou být zřizovány lanové dráhy a sdělovací vedení nejméně 15,5 m a elektrická vedení do napětí 110 kV nejméně 19,0 m nad nejvyšší plavební hladinou. Elektrická vedení o napětí vyšším než 110 kV mohou být zřízena nad vodní cestou dopravně významnou, bude-li jejich výška nad nejvyšší plavební hladinou stanovená v odstavci 4 zvýšena o 1 cm na každý 1 kV, o který přesahuje napětí 110 kV.
+
+(8) Elektrická vzdušná vedení nesmí být vedena přes objekt plavební komory s rejdami nebo jezem nebo v jeho blízkosti; jsou-li vedena přes vodní cestu, musí být vedena tak, aby nezpůsobovala nebezpečné odrazy pro radarovou navigaci na vodní cestě.
+
+(9) Kabelové vedení nebo potrubí může být uloženo do dna vodní cesty dopravně významné technologií podvrtu, v rýze chráněné záhozem, nebo jinou technologií, která zabezpečí ochranu kabelového vedení nebo potrubí před poškozením plavebním provozem. Vrch potrubí, kabelů nebo chráničky kabelů musí být u potrubí a slaboproudých kabelů nejméně 120 cm pod dnem vodní cesty, a u silnoproudých kabelů nejméně 200 cm pod dnem vodní cesty. V případě uložení v rýze musí být nejméně polovina výšky uvedeného krytí z kamene.
+
+## § 9
+
+(1) Horní vodič přívozu na dopravně významné vodní cestě musí být nejméně 12,0 m nad nejvyšší plavební hladinou, na účelové vodní cestě nejméně 5,0 m.
+
+(2) Spodní vodič přívozu musí být v každém případě označen.
+
+## § 9a – Rozsah a obsah činností vykonávaných při správě sledované vodní cesty
+
+(K § 5 odst. 6 zákona)
+
+Činnosti vykonávané při správě sledované vodní cesty jsou
+
+a) pravidelná kontrola plavební hloubky a odstraňování zjištěných nedostatků,
+
+b) pravidelná kontrola plavebního značení, operativní osazování, přemisťování nebo odstraňování plavebního značení a jeho řádná údržba,
+
+c) údržba a oprava plavebních objektů a ostatních součástí vodní cesty při minimálním omezení plavebního provozu a v souladu s požadavky se zákonem o vodách<sup>9</sup>),
+
+d) rozrušování ledové celiny v přístavech stanovených vyhláškou o stanovení veřejných přístavů, ve kterých se rozrušují ledové celiny<sup>10</sup>).
+
+**Požadavky na stavební uspořádání a zařízení pozemní části přístavu**
+
+(K § 6 odst. 7 zákona)
+
+## § 9b
+
+(1) Pozemní část každého přístavu zahrnuje zejména tyto stavby a zařízení
+
+a) pozemní komunikace a dráhy, včetně komunikací pro příjezd vozidel integrovaného záchranného systému ke stojícím plavidlům,
+
+b) stanoviště pro stání plavidel, ke kterým musí být zajištěn trvalý pozemní přístup,
+
+c) manipulační prostory podél stání plavidel s přístupem na plavidla,
+
+d) připojení plavidel na elektrickou energii a vodu tak, aby všechna plavidla stojící v přístavu měla během stání možnost zásobování elektrickou energií a vodou z veřejné sítě,
+
+e) servisní zázemí pro odběr pevných a tekutých odpadů,
+
+f) otevřené a kryté skladovací plochy umožňující krátkodobé skladování zboží,
+
+g) provozní zázemí přístavu.
+
+(2) Zařízení pozemní části přístavu se přednostně umísťuje mimo aktivní zónu záplavového území podle zákona o vodách<sup>11</sup>).
+
+(3) Trvalý pozemní přístup ke každému stání plavidla nemusí být zajištěn v období, ve kterém je plavba zakázána. Nástup osob na plavidlo a výstup osob z plavidla je osvětlen a zpevněn tak, aby byl bezpečně použitelný i za zhoršených povětrnostních podmínek.
+
+(4) V přístavu, který má sloužit k nástupu cestujících na plavidlo a výstupu cestujících z plavidla, je tento přístup z veřejné komunikace až na plavidlo zabezpečen z hlediska bezpečného průchodu a přístupu osob se zhoršenou schopností pohybu a orientace; v takovém přístavu je umístěno zázemí pro cestující zahrnující základní hygienické zařízení a prostor pro vyčkávání na nástup na plavidlo.
+
+(5) Stanoviště pro stání plavidel je uzpůsobeno pro nakládku a vykládku věcí a pro zásobování plavidel. Pozemní přístup ke stanovištím pro stání plavidel
+
+a) umožňuje provoz vozidel a jejich krátkodobé parkování,
+
+b) je uzpůsoben tak, aby byl zachován i při provádění nakládky a vykládky zboží na ostatních místech určených ke stání plavidel.
+
+(6) Přístav umožňuje manipulaci s věcmi z plavidla a na plavidlo pomocí jeřábu. V přístavu, ve kterém je prováděna nakládka a vykládka zboží na plavidla určená k přepravě nákladů, je podél stání plavidel určených pro tuto nakládku a vykládku zřízena manipulační plocha nebo zařízení umožňující provádění manipulace se zbožím mezi plavidlem a prostředkem jiného druhu dopravní infrastruktury nebo skladovacím prostorem.
+
+## § 9c
+
+(1) Přístav umožňuje provádění základní opravy a údržby plavidel a tankování pohonných hmot pomocí stabilního zařízení nebo servisního plavidla. Místa určená pro provádění opravy a údržby plavidel zahrnuje pozemní manipulační plochu přístupnou vozidly a jeřábem. V přístavu nebo v jeho blízkosti je zajištěn odběr odpadních vod včetně zaolejovaných nádních vod z plavidel a zásobování plavidel vodou. Zachází-li se v přístavu se závadnými látkami, řídí se tato činnost zákonem o vodách<sup>12</sup>).
+
+(2) Přístav umožňuje bezpečné stání a obsluhu plavidel odpovídající třídě vodní cesty uvedené v příloze č. 1 k této vyhlášce. Umístění a vyvazovací prvky přístavu s ochrannou funkcí umožňují bezpečné stání plavidel odpovídající třídě vodní cesty uvedené v příloze č. 1 k této vyhlášce od minimální plavební hladiny až do úrovně hladiny odpovídající nejvýše zaznamenané povodně. V celém tomto rozsahu je zachován přístup na plavidlo nebo na vzájemně svázanou skupinu plavidel z okolí nezasaženého povodní.
+
+(3) Veřejný přístav
+
+a) umožňuje vytažení malých plavidel z vody a jejich spuštění do vody s přístupem s pozemní komunikace,
+
+b) vytváří podmínky pro možnost vykonávání zpracovatelských činností přímo v přístavu.
+
+(4) Na každém úseku vodní cesty, který není delší než 100 km, je zabezpečena možnost provádění opravy, údržby a technické prohlídky plavidel odpovídající třídě vodní cesty uvedené v příloze č. 1 včetně možnosti jejich vytažení z vody.
+
+**Zajištění bezpečného provozování plavidla v přístavu**
+
+(K § 8 odst. 6 zákona)
+
+**Provoz v přístavu**
+
+## § 10
+
+(1) Před vplutím do vjezdu přístavu a do jednotlivých přístavních bazénů, jakož i před vyplutím z nich dávají plavidla zvukové signály stanovené vyhláškou o pravidlech plavebního provozu.
+
+(2) V přístavních bazénech smějí plavidla manévrovat a spojovat se do sestav, pokud k tomu mají dostatek místa a neohrozí-li ostatní provoz přístavu. Při tomto manévrování nesmí vznikat škodlivé sání a vlnobití. Po celé délce přístavního bazénu musí být zachován prostor umožňující proplutí plavidel.
+
+## § 13
+
+Provozovatel pozemní části přístavu zajišťuje, aby
+
+a) k osvětlování přístupových cest a lávek bylo používáno jen bezpečných svítidel,
+
+b) použité světelné zdroje byly vždy zastíněny tak, aby nepůsobily rušivě na přístavní a plavební provoz.
+
+## § 14
+
+(1) Plavidla musí být na stanovištích bezpečně vyvázána, a to na zařízeních k tomu určených.
+
+(2) Posádka plavidla smí odvázat jiné plavidlo jen se svolením jeho vůdce, hlídky nebo osoby pověřené dohledem na plavidlo a musí je potom, co odpadl důvod k odvázání, ihned řádně vyvázat.
+
+(3) Mezi plavidla a mezi plavidla a přístavní zdi musí být vloženy odrazníky.
+
+(4) Napínat lana nebo řetězy přes plavební dráhu nebo přístavní bazén je dovoleno jen v případech nouze. O tom je nutno ihned vyrozumět plavební úřad, zajistit stálý dohled a lana nebo řetězy zřetelně označit.
+
+(5) Vůdci plavidel stojících v přístavu musí v případě potřeby dovolit jinému plavidlu, aby se k jeho plavidlu vyvázalo, pokud tím není ohrožena bezpečnost nebo činnost jeho vlastního plavidla. To neplatí pro
+
+a) vůdce plavidla plavebního úřadu, Policie České republiky, obecní policie a správce vodní cesty,
+
+b) vůdce plavidla složky integrovaného záchranného systému plujícího k místu provádění záchranných nebo likvidačních prací,
+
+c) vůdce plavidla, které přepravuje osoby podle veřejně vyhlášeného jízdního řádu, a
+
+d) vůdce malého plavidla, které využívá veřejný přístav k dlouhodobému stání.
+
+(6) Kotvení v přístavních bazénech je dovoleno jen v případě nouze.
+
+(7) Při stání plavidla v přístavu nesmí žádné předměty, s výjimkou použitých sochorů, přesahovat přes okraj plavidla.
+
+## § 15
+
+(1) Plavidla stojící u břehu musí být opatřena bezpečným přechodem na břeh. V noci musí být přechod osvětlen.
+
+(2) Stojí-li plavidla vedle sebe, musí vůdci plavidel, která jsou blíže k břehu, dovolit zřízení přechodů přes tato plavidla.
+
+(3) Vypouštění páry a horké vody z plavidel v přístavech se musí provádět tak, aby nedošlo k ohrožení osob nebo poškození majetku.
+
+## § 16
+
+Na plavidle manévrujícím v přístavu musí být úplná posádka.
+
+**Provoz v přístavu za zvláštních okolností**
+
+## § 17
+
+Při zámraze vodní části přístavu je posádka plavidla povinna uvolňovat plavidlo z ledu. Posádka plavidla je rovněž povinna udržovat protipožární otvory o rozměrech alespoň 1 m x 1 m v ledu před přídí a za zádí plavidla.
+
+## § 18
+
+Při výskytu velkých vod, při vyhlášeném zastavení plavby nebo při jiném zákazu pokračování v plavbě může vůdce plavidla využít k ochraně přístav na nezbytně nutnou dobu při dodržení podmínek stanovených touto vyhláškou.
+
+**Provoz ve veřejných přístavech**
+
+## § 19
+
+Plavidlo může volně vplout do veřejného přístavu, nebrání-li tomu bezpečnostní, hygienické a protiepidemické nebo celní předpisy.
+
+## § 23
+
+Hlášení připlutí a odplutí do veřejného přístavu se podává písemně nebo elektronicky provozovateli pozemní části přístavu. V hlášení musí být uveden druh a označení plavidla, jeho nosnost, ponor, výkon strojního pohonu, místo, odkud plavidlo připlulo a kam pluje, čas připlutí (odplutí) a nutná data o nákladu.
+
+**Zdravotní a veterinární péče**
+
+## § 25
+
+Plavidla v přístavu podléhají zdravotnímu a veterinárnímu dozoru podle zvláštních předpisů.<sup>3</sup>) Vůdci plavidel jsou povinni ihned hlásit provozovateli pozemní části přístavu každý výskyt infekce nebo podezření z jejího výskytu a každý úraz nebo úmrtí na plavidle. Provozovatel pozemní části přístavu je povinen uvědomit o výskytu infekce nebo podezření z jejího výskytu ošetřujícího lékaře nebo veterináře a plavební úřad, o úrazu nebo úmrtí Policii České republiky.
+
+## § 26
+
+(1) Byla-li nařízena karanténa plavidla, řídí se styk s takovým plavidlem pokyny ošetřujícího lékaře a veterináře a provozovatele pozemní části přístavu.
+
+(2) Opatření zdravotního nebo veterinárního dozoru jsou závazná pro všechny uživatele přístavu a pro všechny osoby zdržující se na přístavním území a na plavidlech.
+
+## § 27 – Jiná bezpečnostní a provozní opatření
+
+Vypukne-li na plavidle požár, je třeba učinit opatření k uhašení požáru a v případě ohrožení okolí musí být plavidlo ihned přemístěno na bezpečné místo, popřípadě vůbec odstraněno z přístavu. Není-li to podle daných okolností možné, musí být ihned odstraněna plavidla, která jsou v dosahu nebezpečí.
+
+**Bezpečnostní poradci pro přepravu nebezpečných věcí**
+
+(K § 36a odst. 7 a 8 zákona)
+
+## § 37
+
+(1) Plavební úřad může pověřit výkonem činností souvisejících se zajišťováním školení a zkoušek žadatelů o vydání osvědčení o odborné způsobilosti bezpečnostního poradce právnickou nebo fyzickou osobu podle § 36a odst. 6 zákona (dále jen „pověřená osoba“) za podmínky, že
+
+a) schválil pověřenou osobou navržený podrobný program školení, které je podmínkou získání osvědčení o odborné způsobilosti bezpečnostního poradce (dále jen „školení“), upřesňující náplň výuky a uvádějící časový rozvrh a plánované vyučovací metody; v rámci školení musí být jeho účastníkům poskytnuty dostatečné informace o rizicích spojených s přepravou nebezpečných věcí, o právních předpisech v oblasti vnitrozemské plavby a o povinnostech bezpečnostního poradce, v rozsahu znalostí uvedených v příloze č. 2,
+
+b) schválil pověřenou osobou vytvořený seznam otázek, které jsou ve formě testu zahrnovány do zkoušky, jejíž složení je podmínkou získání osvědčení o odborné způsobilosti bezpečnostního poradce (dále jen „zkouška“),
+
+c) pověřená osoba se zaváže, že bude plavební úřad včas informovat o době a místě konání školení a zkoušek tak, aby se školení a zkoušek mohli zúčastnit zástupci plavebního úřadu,
+
+d) pověřená osoba výpisem z obchodního, živnostenského nebo obdobného rejstříku jiného členského státu Evropské unie, který není starší než 3 měsíce, doloží, že její předmět podnikání nezahrnuje činnosti spojené s nakládkou, vykládkou nebo přepravou nebezpečných věcí po vnitrozemských vodních cestách a že fyzické osoby, které pro ni zajišťují školení, mají požadované odborné znalosti podle odstavce 2,
+
+e) schválil pověřenou osobou navržený způsob organizace zkoušek, která zejména zajišťuje nestrannost zkoušek, včetně zkušebního řádu.
+
+(2) Fyzické osoby, které provádějí školení, musí mít odborné znalosti o předmětech, o kterých v rámci školení poskytují informace, potvrzené praxí v trvání dvou let. Fyzické osoby, které provádějí zkoušky, musí mít odborné znalosti v rozsahu podle přílohy č. 2 potvrzené praxí v trvání dvou let.
+
+## § 38
+
+(1) Osvědčení o odborné způsobilosti bezpečnostního poradce (dále jen „osvědčení“) vydá plavební úřad na základě žádosti podané plavebnímu úřadu. Žádost musí obsahovat jméno, příjmení, adresu bydliště a datum a místo narození žadatele a musí být doložena dokladem o úspěšně vykonané maturitní zkoušce, dokladem o absolvování školení vydaným pověřenou osobou a protokolem o úspěšném složení zkoušky podle odstavců 2 až 6.
+
+(2) Zkoušku organizuje pověřená osoba. Plavební úřad písemně jmenuje a odvolává tříčlennou zkušební komisi složenou z osob oprávněných provádět zkoušky podle § 37 odst. 2, která se usnáší většinou hlasů. Žadatel o vydání osvědčení podá přihlášku ke zkoušce pověřené osobě. Po obdržení přihlášky pověřená osoba vyrozumí uchazeče o termínu, místě konání zkoušky a výši úhrady nákladů za zkoušku, kterou uchazeč uhradí před jejím konáním. Úhrada nákladů za zkoušky se stanoví podle účelně vynaložených nákladů spojených s organizací zkoušky.
+
+(3) Zkouška zahrnuje písemný test obsahující nejméně 20 otázek alespoň v rozsahu znalostí uvedených v příloze č. 2. V případě otázek s několika možnými odpověďmi se takové dvě otázky považují za jednu otázku. Otázky musí být zaměřeny zejména na obecná ochranná a bezpečnostní opatření, klasifikaci nebezpečných věcí, obecné požadavky na obaly, označování nebezpečnosti a bezpečnostní značky, náležitosti přepravních dokladů, manipulaci s nebezpečnými věcmi, odborné školení posádek, lodní listiny, bezpečnostní pokyny a technické požadavky na plavidla. Součástí zkoušky je písemné řešení případové studie v souladu s povinnostmi bezpečnostního poradce. Písemná zkouška může být v případě potřeby dalšího ověření znalostí žadatele o vydání osvědčení doplněna ústní zkouškou. V rámci zkoušky je postupováno podle zkušebního řádu schváleného plavebním úřadem, který zveřejní Ministerstvo dopravy (dále jen „ministerstvo“) ve Věstníku dopravy. Zkušební řád stanoví zejména způsob vyhlašování termínů konání zkoušek společně se lhůtami pro podávání přihlášek na jednotlivé termíny konání zkoušek, způsob přihlášení ke zkoušce a přijímání přihlášek ke zkoušce, pravidla pro průběh zkoušky včetně účasti dotčených osob ve zkušební místnosti během konání zkoušky, způsob hodnocení celé zkoušky a případy, kdy písemná zkouška musí být doplněna ústní zkouškou.
+
+(4) Při uznávání odborné kvalifikace nebo jiné způsobilosti, kterou státní příslušníci členských států získali v jiném členském státě Evropské unie, se postupuje podle zvláštního zákona<sup>4</sup>).
+
+(5) Pokud zkušební komise uzná odbornou kvalifikaci pouze částečně, může uchazeč skládat rozdílovou zkoušku. U rozdílové zkoušky není uchazeč zkoušen z těch oblastí, ve kterých mu byla uznána odborná kvalifikace.
+
+(6) O úspěšném složení zkoušky vydá pověřená osoba žadateli o vydání osvědčení protokol podepsaný všemi členy zkušební komise. V případě, že žadatel u zkoušky neuspěl, může celou zkoušku nebo část, ve které neuspěl, opakovat pouze jednou, bez absolvování nového školení. Další opakování zkoušky je možné až po absolvování nového školení.
+
+(7) Osvědčení bezpečnostního poradce, jehož vzor je uveden v příloze č. 3, je platné po dobu 5 let ode dne vydání. Dobu platnosti osvědčení prodlouží plavební úřad o 5 let, pokud bezpečnostní poradce během posledního roku před uplynutím platnosti osvědčení složil úspěšně zkoušku a tuto skutečnost doložil.
+
+## § 38a – Účet vodní dopravy
+
+(K § 37f odst. 3 zákona)
+
+(1) Účet vodní dopravy (dále jen „účet“) je zřízen ve formě zvláštního běžného účtu, na kterém eviduje ministerstvo prostředky provozovatelů odděleně na třech zvláštních podúčtech: podúčtu provozovatelů provádějících přepravu suchého zboží, podúčtu provozovatelů provádějících přepravu tekutého zboží a podúčtu provozovatelů provádějících přepravu pomocí remorkérů.
+
+(2) Příjmy účtu se řídí předpisy Evropských společenství, které upravují politiku Společenství v oblasti kapacity vnitrozemského lodního parku a jeho obnovy<sup>5</sup>).
+
+(3) Finanční prostředky z účtu lze přidělit pouze na základě žádosti, která obsahuje následující náležitosti:
+
+a) identifikační údaje o žadateli (jméno, popřípadě jména a příjmení, popřípadě obchodní firma, adresa bydliště, místo podnikání a identifikační číslo podnikající fyzické osoby nebo obchodní firma nebo název, sídlo a identifikační číslo právnické osoby),
+
+b) identifikační údaje o plavidle (jméno plavidla, druh plavidla, evidenční označení, identifikační údaje o vlastníkovi plavidla, místo registrace a rejstříkové číslo),
+
+c) výše požadované šrotovací prémie,
+
+d) datum sešrotování plavidla.
+
+(4) Žádost o přidělení finančních prostředků z účtu musí být doložena:
+
+a) lodním osvědčením platným v době sešrotování plavidla,
+
+b) dokladem o tom, že plavidlo bylo sešrotováno rozlomením trupu, popřípadě zničením trupu a motoru,
+
+c) dokladem o tom, že plavidlo vykonalo v průběhu 24 měsíců předcházejících podání žádosti nejméně deset plaveb za účelem přepravy zboží na vzdálenost nad 50 km při nákladové kapacitě alespoň 70 %.
+
+(5) Má-li ministerstvo důvodné pochybnosti o technické a provozní způsobilosti plavidla, je žadatel povinen na jeho výzvu ve stanovené lhůtě předložit také odborný technický posudek prokazující tuto způsobilost, vydaný uznanou klasifikační organizací<sup>6</sup>).
+
+(6) Na poskytnutí finančních prostředků z účtu není právní nárok.
+
+## § 39 – Závěrečné ustanovení
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Ministr:
+
+PhDr. Stráský v. r.
+
+### Příloha č. 1
+
+#### 1A Klasifikace vnitrozemských vodních cest
+
+<table><tbody><tr><th rowspan="4">Druh cesty</th><th rowspan="4">Třída cesty <br> (1)</th><th colspan="4">Motorové nákladní lodě a čluny</th><th colspan="4">Tlačná sestava</th><th rowspan="2">Nejmenší výška pod mosty</th></tr><tr><th colspan="4">Hlavní charakteristika plavidla</th><th colspan="4">Hlavní charakteristika sestavy</th></tr><tr><th>délka</th><th>šířka</th><th>ponor</th><th>nosnost</th><th>délka</th><th>šířka</th><th>ponor</th><th>nosnost</th><th></th></tr><tr><th>m</th><th>m</th><th>m (2)</th><th>t</th><th>m</th><th>m</th><th>m (2)</th><th>t (3)</th><th>m (4)</th></tr><tr><td rowspan="3">Místního významu</td><td>I</td><td>38,5</td><td>5,05</td><td>1,80- 2,20</td><td>250 - 400</td><td></td><td></td><td></td><td></td><td>4,00</td></tr><tr><td>II</td><td>50-55</td><td>6,60</td><td>2,50</td><td>400 - 650</td><td></td><td></td><td></td><td></td><td>4,00-5,00</td></tr><tr><td>III</td><td>67-70</td><td>8,20</td><td>2,50</td><td>650 - 1 000</td><td></td><td></td><td></td><td></td><td>4,00-5,00</td></tr><tr><td rowspan="7">Mezinárodního významu</td><td>IV</td><td>80-85</td><td>9,50</td><td>2,50</td><td>1000 - 1 500</td><td>85</td><td>9,50</td><td>2,50- 2,80</td><td>1 250 - 1 450</td><td>5,25 nebo 7,00(5)</td></tr><tr><td>Va</td><td>95-110</td><td>11,40</td><td>2,50- 2,80</td><td>1500 - 2 400</td><td>95-110 (6)</td><td>11,40</td><td>2,50- 2,80</td><td>1 600 - 1 850</td><td rowspan="2">5,25 nebo 7,00(5)</td></tr><tr><td>Vb</td><td></td><td></td><td></td><td></td><td>172- 185 (6)</td><td>11,40</td><td>2,50- 2,80</td><td>3 200 - 3 700</td></tr><tr><td>VIa</td><td></td><td></td><td></td><td></td><td>95-110 (6)</td><td>22,80</td><td>2,50- 4,50</td><td>3 200 - 6 000</td><td>7,00 nebo 9,10</td></tr><tr><td>VIb</td><td></td><td></td><td></td><td></td><td>185-195 (6)</td><td>22,80</td><td>2,50- 4,50</td><td>6 400 - 12 000</td><td>7,00 nebo 9,10</td></tr><tr><td>VIc</td><td></td><td></td><td></td><td></td><td>270-280 193-200 (6)</td><td>22,80 33,00- 34,20 (6)</td><td>2,50- 4,50</td><td>9 600 - 18 000</td><td>9,10</td></tr><tr><td>VII</td><td></td><td></td><td></td><td></td><td>285-295 (6)</td><td>33,00- 34,20 (6)</td><td>2,50- 4,50</td><td>14 000 - 27 000</td><td>9,10</td></tr></tbody></table>
+
+Poznámky ke klasifikační tabulce:
+
+(1) Třída vodních cest je určena půdorysnými rozměry člunů nebo tlačných sestav.
+
+(2) Údaj ponoru pro konkrétní vodní cestu musí být určen s přihlédnutím k místním podmínkám.
+
+(3) Uvedené údaje jsou charakteristické pro sestavy s nejrozšířenější nosností používané na daných vodních cestách.
+
+(4) S přihlédnutím k bezpečnostní vzdálenosti, která je cca 30 cm mezi vrchním bodem konstrukce lodi nebo jejího nákladu a spodní hranou mostní konstrukce.
+
+(5) Pro přepravu kontejnerů jsou schváleny následující údaje:
+
+5,25 m - pro plavidla přepravující kontejnery ve dvou vrstvách,
+
+7,00 m - pro plavidla přepravující kontejnery ve třech vrstvách.
+
+(6) Prvé označení se uvádí podle současné situace, druhé s přihlédnutím k budoucím změnám a v některých případech i současné situace.
+
+**1B Klasifikace vnitrozemských vodních cest regionálního významu**
+
+<table><tbody><tr><th rowspan="3">Druh cesty</th><th rowspan="3">Třída cesty</th><th colspan="3">Charakteristika plavidla</th></tr><tr><th>délka</th><th>šířka</th><th>ponor</th></tr><tr><th>m</th><th>m</th><th>m</th></tr><tr><td>Regionálního významu</td><td>0</td><td>20</td><td>5</td><td>1,20</td></tr></tbody></table>
+
+### Příloha č. 2 k vyhlášce č. 222/1995 Sb.
+
+#### Šířka plavební dráhy v oblouku
+
+Rozšíření plavební dráhy v obloucích se provádí na vnitřní straně oblouku, kdy rozšířený okraj plavební dráhy je dán ekvidistantní kružnicí o poloměru R — e. Ve stísněných poměrech je možné provést rozšíření plavební dráhy shodnou hodnotou na vnější i vnitřní straně oblouku. Při stanovení velikosti rozšíření e se pro nové a nově upravované vodní cesty užívá vztah:
+
+###### e=(L<sup>2</sup>)/(2R),
+
+kdy:
+
+e - výpočtová hodnota rozšíření plavební dráhy,
+
+L - délka největšího plavidla či sestavy,
+
+R - poloměr vnitřního okraje plavební dráhy.
+
+Výsledná šířka plavební dráhy v oblouku pro nové a nově upravované vodní cesty vyjma úprav charakteru údržby plavební dráhy dosahuje:
+
+a) Pro vodní cestu na vodním toku volně tekoucím
+
+B = nejmenší šířka přímé plavební dráhy podle § 5 odst. 1 písm. a) bod 1. + e, nebo
+
+b) Pro vodní cestu s hladinou udržovanou pomocí jezu nebo v plavebním kanálu
+
+B = 2b + 2Δb' + Δb“ + e, ne však méně než je šířka přímé plavební dráhy podle § 5 odst. 1 písm. a),
+
+kdy:
+
+b - největší šířka plavidla či sestavy,
+
+Δb' - boční rezerva plavební dráhy, pro klasifikační tř. Va. nebo Vb. nejméně 5,0 m,
+
+Δb“ - střední rezerva plavební dráhy, pro klasifikační tř. IV, Va. nebo Vb. nejméně 5,0 m.
+
+**Konstrukce přechodových oblouků**
+
+V případě velkého středového úhlu se pomocné tečny t<sub>t</sub> a t<sub>2</sub>, jež protínají normály na začátku a konci oblouku v poloviční vzdálenosti mezi nerozšířeným a rozšířeným okrajem plavební dráhy, dotýkají ekvidistantní kružnice s poloměrem R — e ve dvou bodech T<sub>1</sub> a T<sub>2</sub>. V případě malého středového úhlu a body průniku T<sub>1</sub> a T<sub>2</sub> splynou do jednoho bodu T<sub>1,2</sub>,
+
+kdy:
+
+R<sub>p</sub> - poloměr přechodové kružnice,
+
+t<sub>1</sub>, t<sub>2</sub> - pomocné tečny, jež protínají normály na začátku a konci oblouku v poloviční vzdálenosti mezi nerozšířeným a rozšířeným okrajem plavební dráhy,
+
+α - středový úhel oblouku,
+
+β' - krajní úhly vytvořené tečnami t<sub>1</sub> a t<sub>2</sub>.
+
+**Konstrukce přechodových oblouků pro velký středový úhel**
+
+V případě velkého středového úhlu α je možno určit charakteristiku oblouku β' podle vztahu:
+
+**β'=arccos(R<sub>i</sub>-e)/(R<sub>i</sub>-(e)/(2)) , přičemž platí α=γ+2β'.**
+
+Návrhové prvky přechodových oblouků se spočítají podle vztahu:
+
+**t'<sub>1,2</sub>=R-e.tg β' , přičemž platí β'=β'',**
+
+**t''<sub>1,2</sub>=(e)/(2sinβ''),**
+
+**t<sub>Rp</sub>=t'<sub>1,2</sub>+t''<sub>1,2</sub> a R<sub>p</sub>=(t<sub>Rp</sub>)/(tg(β'')/(2)).**
+
+Rozšíření plavební dráhy na vnitřní straně oblouku se v tomto případě rozdělí do tří úseků. Vnitřní úsek okraje plavební dráhy o středovém úhlu y má tvar ekvidistantní kružnice k původnímu oblouku okraje plavební dráhy o poloměru R. Krajní úseky okraje dráhy budou mít charakter přechodových kružnic o poloměrech R<sub>p</sub> svírajících středové úhly β“. Přechodové oblouky spojí původní vnitřní okraj plavební dráhy v přímých úsecích na středový oblouk ve tvaru ekvidistanty odsazený od původního okraje o hodnotu e.
+
+**![sbcr1995c061z0222_2019c059z0139p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/789965/NAHLED/ZOBRAZ/sbcr1995c061z0222_2019c059z0139p002o001)**
+
+**Konstrukce přechodových oblouků pro malý středový úhel**
+
+V případě malého středového úhlu α vytváří na ekvidistantní kružnici normály vedené na začátku a konci oblouku v poloviční vzdálenosti mezi nerozšířeným a rozšířeným okrajem dráhy pouze jeden bod. Přičemž platí: α = g + 2β' = 2β'.
+
+Návrhové parametry jednoho přechodového oblouku se vypočítají ze vztahů:
+
+**t'<sub>1,2</sub>=R-etg β' a R¯=(R<sub>i</sub>-e)/(cosβ'),**
+
+přičemž platí:
+
+**e¯=R<sub>i</sub>-R¯, β'=β'',**
+
+**t''<sub>1,2</sub>=(e¯)/(sinβ''), t<sub>Rp</sub>=t'<sub>1,2</sub>+t''<sub>1,2</sub> a R<sub>p</sub>=(t<sub>Rp</sub>)/(tg(β'')/(2)).**
+
+Rozšíření plavební dráhy na vnitřní straně oblouku se v tomto případě bude skládat z jednoho přechodového oblouku rozděleného na dva krajní úseky. Přechodový oblouk bude mít poloměr R<sub>p</sub> a bude opisovat středový úhel 2β“. Ekvidistantní kružnici vedenou ve vzdálenosti e od okraje původní plavební dráhy protne v jediném bodě T<sub>1,2</sub>.
+
+**![sbcr1995c061z0222_2019c059z0139p002o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/789967/NAHLED/ZOBRAZ/sbcr1995c061z0222_2019c059z0139p002o002)**
+
+### Příloha č. 3
+
+**Znalosti požadované pro vydání osvědčení o odborné způsobilosti bezpečnostního poradce**
+
+I. Všeobecná preventivní a bezpečnostní opatření:
+
+– znalost následků nehod při přepravě nebezpečných věcí,
+
+– znalosti hlavních příčin nehod.
+
+II. Ustanovení vnitrostátních právních předpisů, právních předpisů Evropských společenství (ES) a mezinárodních úmluv a dohod, které se vztahují k vnitrozemské vodní dopravě, s tím, že jde zejména o:
+
+1\. klasifikaci nebezpečných věcí:
+
+– postupy pro klasifikaci roztoků a směsí,
+
+– struktura výčtu látek,
+
+– třídy nebezpečných věcí a zásady jejich klasifikace,
+
+– vlastnosti přepravovaných nebezpečných látek a předmětů,
+
+– jejich fyzikální, chemické a toxikologické vlastnosti;
+
+2\. obecné požadavky na obaly včetně cisteren, cisternových kontejnerů apod.:
+
+– druhy obalů, kódování a značení,
+
+– požadavky na balení a předpisy pro zkoušení obalů,
+
+– stav obalů a pravidelné kontroly;
+
+3\. označování nebezpečnosti a bezpečnostní značky:
+
+– údaje na bezpečnostních značkách,
+
+– umísťování a odstraňování bezpečnostních značek,
+
+– označování;
+
+4\. náležitosti přepravních dokladů:
+
+– informace v přepravních dokladech,
+
+– prohlášení odesilatele o shodě;
+
+5\. způsob přepravy a omezení při odesílání:
+
+– celolodní náklad,
+
+– přeprava volně ložených a kusových zásilek,
+
+– přeprava ve velkých kontejnerech pro volně ložené zásilky,
+
+– přeprava v kontejnerech,
+
+– přeprava v nesnímatelných a snímatelných cisternách;
+
+6\. přeprava cestujících;
+
+7\. zákazy a bezpečnostní opatření při přepravě týkající se společné nakládky;
+
+8\. vzájemné oddělování látek;
+
+9\. omezování přepravovaných množství a osvobozená množství;
+
+10\. manipulace a uložení nákladu:
+
+– nakládka a vykládka (stupeň plnění),
+
+– uložení a vzájemné oddělování;
+
+11\. čistění nebo odplynování před nakládkou a po vykládce;
+
+12\. posádky: odborné školení;
+
+13\. průvodní doklady:
+
+– přepravní doklad,
+
+– písemné pokyny,
+
+– lodní listiny včetně osvědčení, že plavidlo je způsobilé k přepravě nebezpečných věcí,
+
+– osvědčení o školení posádky,
+
+– ostatní doklady;
+
+14\. bezpečnostní pokyny: uplatňování pokynů a ochranné prostředky posádky;
+
+15\. povinnost dozoru nad plavidly: kotvení a stání;
+
+16\. plavební předpisy a omezení podle vyhlášky o pravidlech plavebního provozu a dalších zvláštních právních předpisů<sup>7</sup>);
+
+17\. únik znečisťujících látek během provozu a při nehodách, havárie<sup>8</sup>);
+
+18\. požadavky týkající se plavidel.
+
+### Příloha č. 4
+
+#### Vzor osvědčení
+
+#### Osvědčení ES o odborné způsobilosti bezpečnostního poradce pro přepravu nebezpečných věcí ve vnitrozemské vodní dopravě
+
+#### ![sbcr1995c061z0222_2004c134z0412p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/789969/NAHLED/ZOBRAZ/sbcr1995c061z0222_2004c134z0412p001u001)
+
+---
+
+<sup>3</sup>) Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), ve znění pozdějších předpisů. 
+ Zákon č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů. 
+ Vyhláška Ministerstva spravedlnosti České socialistické republiky č. 104/1987 Sb., kterou se určují nakažlivé lidské choroby ve smyslu trestního zákona.
+
+<sup>4</sup>) Zákon č. 18/2004 Sb., o uznávání odborné kvalifikace a jiné způsobilosti státních příslušníků členských států Evropské unie a o změně některých zákonů (zákon o uznávání odborné kvalifikace).
+
+<sup>5</sup>) Nařízení Rady (ES) č. 718/1999 z 29. března 1999 o politice podpory vnitrozemské vodní dopravy, pokud jde o kapacitu loďstva společenství.
+
+<sup>6</sup>) Vyhláška č. 223/1995 Sb., o způsobilosti plavidel k provozu na vnitrozemských vodních cestách, ve znění vyhlášky č. 83/2000 Sb.
+
+<sup>7</sup>) Zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů. 
+ Zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů.
+
+<sup>8</sup>) § 40 a 41 zákona č. 254/2001 Sb., ve znění pozdějších předpisů.
+
+<sup>9</sup>) § 47 odst. 5 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 150/2010 Sb.
+
+<sup>10</sup>) Vyhláška č. 105/2012 Sb., o stanovení veřejných přístavů, ve kterých se rozrušují ledové celiny.
+
+<sup>11</sup>) § 66 odst. 2 a 7 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb., zákona č. 186/2006 Sb. a zákona č. 150/2010 Sb.
+
+<sup>12</sup>) § 39 zákona č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění zákona č. 20/2004 Sb., zákona č. 105/2010 Sb., zákona č. 85/2012 Sb., zákona č. 275/2013 Sb. a zákona č. 61/2014 Sb.
+
+<sup>13</sup>) Vyhláška č. 138/2000 Sb., o radiotelefonním provozu na vnitrozemských vodních cestách.

@@ -1,0 +1,66 @@
+---
+title: "Nařízení vlády Slovenskej republiky č. 273/1991 Sb., o vynimkách z § 45 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby"
+identifier: "273/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/273/1992-09-07"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1991-06-04
+effective: 1991-07-10
+last_amended: 1992-09-07
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/273"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády Slovenskej republiky č. 273/1991 Sb., o vynimkách z § 45 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby ve znění nařízení vlády č. 430/1992 Sb."
+---
+
+# Nařízení vlády Slovenskej republiky č. 273/1991 Sb., o vynimkách z § 45 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby
+
+273
+
+NARIADENIE VLÁDY
+
+Slovenskej republiky
+
+zo 4. júna 1991
+
+o výnimkách z § 45 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby
+
+Vláda Slovenskej republiky podľa § 45 ods. 2 zákona č. 92/1991 Zb. o podmienkach prevodu majetku štátu na iné osoby (ďalej len „zákon“) nariaďuje:
+
+## § 1
+
+Štátne podniky, štátne peňažné ústavy, štátne poisťovne a iné štátne organizácie s výnimkou rozpočtových a príspevkových organizácií (ďalej len „podnik“) môžu mimo obvyklého hospodárenia uzavierať zmluvy o odplatnom prevode majetku štátu, ku ktorému majú právo hospodárenia, ak ide o:
+
+a) nepotrebné zásoby,
+
+b) predmet postupnej spotreby (do 5000 Kčs),
+
+c) základný prostriedok so zostatkovou hodnotou do 25 000 Kčs,
+
+d) osobný a nákladný automobil, autobus a dopravný prostriedok s nadstavbou pre stavebné, poľnohospodárske a lesné práce starší ako 5 rokov; prevod sa vykoná za cenu určenú znalcom,
+
+e) hnuteľné veci slúžiace na prevádzku činnosti, umiestnené v nehnuteľnosti vydávanej oprávneným osobám podľa osobitného predpisu,<sup>1</sup>) ako aj v prípadoch, ak orávnené osoby o zakúpenie týchto vecí neprejavia záujem,
+
+f) vec, ktorá je príslušenstvom alebo funkčne súvisí s nehnuteľnosťou vydávanou podľa osobitného predpisu,<sup>2</sup>)
+
+g) prevod bytov na ich nájomcov<sup>3</sup>) alebo bytového domu na nájomcov bytov v nich, a to za cenu určenú znalcom.
+
+## § 2
+
+Ministri a vedúci ostatných ústredných orgánov štátnej správy Slovenskej republiky posudzujú vo svojej pôsobnosti jednotlivé žiadosti o povolenie ďalších výnimiek k § 45 ods. 1 zákona a žiadosti, ktorým odporúčajú vyhovieť, predkladajú vláde Slovenskej republiky.
+
+## § 3
+
+Toto nariadenie nadobúda účinnosť dňom vyhlásenia.
+
+J. Čarnogurský v. r.
+
+---
+
+<sup>1</sup>) § 13 zákona č. 403/1990 Zb. o zmiernení následkov niektorých majetkových krívd (v znení neskorších predpisov).
+
+<sup>2</sup>) Zákon č. 403/1990 Zb.
+
+<sup>3</sup>) § 14 zákona č. 52/1966 Zb. o osobnom vlastníctve bytov v znení zákona č. 30/1978 Zb. 
+ Vyhláška Federálneho ministerstva financií, Ministerstva financií ČR, Ministerstva financií SR, Českého cenového úradu a Slovenského cenového úradu č. 47/1978 Zb. o predaji bytov z národného majetku občanom a o finančnej pomoci pri modernizácii zakúpených bytov v znení vyhlášky č. 2/1982 Zb., vyhlášky č. 160/1983 Z6. a vyhlášky Ministerstva financií SR č. 547/1991 Zb.

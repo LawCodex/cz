@@ -1,0 +1,58 @@
+---
+title: "Nařízení vlády České a Slovenské Federativní Republiky č. 128/1992 Sb., o úpravě náhrady za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě"
+identifier: "128/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/128/1992-04-03"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1992-02-20
+effective: 1992-04-03
+last_amended: 1992-04-03
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/128"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády České a Slovenské Federativní Republiky č. 128/1992 Sb., o úpravě náhrady za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě
+
+128
+
+NAŘÍZENÍ VLÁDY
+
+České a Slovenské Federativní Republiky
+
+ze dne 20. února 1992
+
+o úpravě náhrady za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě
+
+Vláda České a Slovenské Federativní Republiky nařizuje podle § 447 odst. 3 občanského zákoníku:
+
+## § 1
+
+(1) Náhrada za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě náležející podle občanskoprávních předpisů se upravuje tak, že průměrný výdělek rozhodný pro výpočet této náhrady se zvyšuje o takto stanovená procenta:
+
+a) 2 % za každý kalendářní rok následující po vzniku nároku na tuto náhradu do 31. prosince 1989,
+
+b) 5 % za kalendářní rok 1990,
+
+c) 5 % za I. pololetí roku 1991.
+
+(2) Náhrada podle odstavce 1 písm. a) nepřísluší poškozenému za dobu, za kterou mu na úpravu náhrady za ztrátu na výdělku vznikl nárok podle nařízení vlády Československé socialistické republiky č. 17/1983 Sb., o úpravě některých náhrad za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě.
+
+(3) Úprava podle odstavce 1 se provede na žádost poškozeného i v případech, kdy po 31. prosinci 1980 mu náhrada za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě nepříslušela, protože to neumožňovaly právní předpisy o částkách omezujících způsob výpočtu a poskytování těchto náhrad.
+
+## § 2
+
+(1) Pro náhradu za ztrátu na výdělku po skončení pracovní neschopnosti nebo při invaliditě platí i po úpravě provedené podle § 1 ustanovení § 447 odst. 2 občanského zákoníku.
+
+(2) Ke zvýšení invalidního, popřípadě částečného invalidního důchodu podle právních předpisů o sociálním zabezpečení se při úpravě náhrady za ztrátu na výdělku podle § 1 nepřihlíží.
+
+## § 3
+
+Náhrada za ztrátu na výdělku upravená podle tohoto nařízení vlády přísluší od 1. prosince 1991.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem vyhlášení.
+
+Čalfa v. r.

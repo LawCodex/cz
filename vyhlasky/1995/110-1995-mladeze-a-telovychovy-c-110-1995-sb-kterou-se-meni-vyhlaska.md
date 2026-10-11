@@ -1,0 +1,52 @@
+---
+title: "Vyhláška Ministerstva školství, mládeže a tělovýchovy č. 110/1995 Sb., kterou se mění vyhláška Ministerstva školství, mládeže a tělovýchovy České republiky č. 67/1991 Sb., o poskytování stipendií studentům postgraduálního studia"
+identifier: "110/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/110/1995-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1995-06-02
+effective: 1995-07-01
+last_amended: 1995-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/110"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva školství, mládeže a tělovýchovy č. 110/1995 Sb., kterou se mění vyhláška Ministerstva školství, mládeže a tělovýchovy České republiky č. 67/1991 Sb., o poskytování stipendií studentům postgraduálního studia
+
+110
+
+VYHLÁŠKA
+
+Ministerstva školství, mládeže a tělovýchovy
+
+ze dne 2. června 1995,
+
+kterou se mění vyhláška Ministerstva školství, mládeže a tělovýchovy České republiky č. 67/1991 Sb., o poskytování stipendií studentům postgraduálního studia
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 35 odst. 2 písm. a) zákona č. 172/1990 Sb., o vysokých školách:
+
+## Čl. I
+
+Vyhláška Ministerstva školství, mládeže a tělovýchovy č. 67/1991 Sb., o poskytování stipendií studentům postgraduálního studia, se mění takto:
+
+1\. § 1 odst. 2 včetně poznámek č. 1) a 2) zní:
+
+> „(2) Tato vyhláška se vztahuje na státní občany České republiky, jakož i na cizince,<sup>1</sup>) jimž bylo uděleno povolení k trvalému pobytu nebo přiznáno postavení uprchlíka na území České republiky; <sup>2</sup>) ustanovení § 4 se vztahuje též na cizince, jimž bylo uděleno povolení ke krátkodobému nebo dlouhodobému pobytu na území České republiky.
+
+> <sup>1</sup>) § 1 odst. 3 zákona č. 123/1992 Sb., o pobytu cizinců na území České a Slovenské Federativní Republiky.
+
+> <sup>2</sup>) Zákon č. 498/1990 Sb., o uprchlících, ve znění zákona č. 317/1993 Sb.“.
+
+2\. V § 3 odst. 1 se částka „3000 Kčs“ nahrazuje částkou „5000 Kč“.
+
+3\. § 5 a 6 se vypouštějí.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. července 1995.
+
+Ministr:
+
+Ing. Pilip v. r.

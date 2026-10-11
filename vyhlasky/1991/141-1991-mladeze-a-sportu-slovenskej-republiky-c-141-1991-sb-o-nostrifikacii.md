@@ -1,0 +1,114 @@
+---
+title: "Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 141/1991 Sb., o nostrifikácii diplomov a iných dokladov o štúdiu na zahraničných vysokých školách"
+identifier: "141/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/141/1991-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1991-03-13
+effective: 1991-05-01
+last_amended: 1991-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/141"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 141/1991 Sb., o nostrifikácii diplomov a iných dokladov o štúdiu na zahraničných vysokých školách
+
+141
+
+VYHLÁŠKA
+
+Ministerstva školstva, mládeže a športu Slovenskej republiky
+
+z 13. marca 1991
+
+o nostrifikácii diplomov a iných dokladov o štúdiu na zahraničných vysokých školách
+
+Ministerstvo školstva, mládeže a športu Slovenskej republiky (ďalej len „ministerstvo“) podľa § 35 ods. 2 písm. c) zákona č. 172/1990 zb. o vysokých školách ustanovuje:
+
+## § 1
+
+(1) Táto vyhláška upravuje podmienky a postup pri nostrifikácii diplomov alebo iných dokladov, ktoré osvedčujú ukončenie vysokoškolského alebo postgraduálneho štúdia na zahraničnej vysokej škole (ďalej len „doklady o štúdiu“).<sup>1</sup>)
+
+(2) Doklady o štúdiu, ktoré obsahom a rozsahom iba čiastočne zodpovedajú štúdiu rovnakého alebo podobného študijného odboru na vysokej škole v Slovenskej republike, možno nostrifikovať po vykonaní rozdielových skúšok alebo po absolvovaní chýbajúcej praxe. Rozdielové skúšky a obsah praxe určí vysoká škola, ktorá rozhoduje o nostrifikácii.
+
+(3) Podľa tejto vyhlášky sa nostrifikujú aj doklady osvedčujúce vykonanie skúšok na zahraničnej vysokej škole, ktoré svojím obsahom a rozsahom zodpovedajú skúškam vykonaným na vysokej škole v Slovenskej republike.
+
+## § 2
+
+(1) Doklady podľa § 1 možno nostrifikovať na žiadosť absolventa zahraničnej vysokej školy alebo toho, kto vykonal skúšky na zahraničnej vysokej škole (ďalej len „žiadateľ“).
+
+(2) Žiadost o nostrifikáciu podáva žiadateľ na vysokej škole v Slovenskej republike, na ktorej je rovnaký alebo podobný študijný odbor; ak niet takej vysokej školy, podáva žiadost na Ministerstvo školstva, mládeže a športu Slovenskej republiky (ďalej len „ministerstvo“).
+
+(3) Doklady uchádzača o štúdium na vysokej škole v Slovenskej republike alebo cudzinca, ktorý bude pôsobiť ako učiteľ na školách v Slovenskej republike, možno nostrifikovať na základe podnetu rektora vysokej školy alebo dekana fakulty alebo ministerstva.
+
+## § 3
+
+(1) K žiadosti o nostrifikáciu žiadateľ pripojí overené kópie
+
+a) diplomu alebo iných dokladov o štúdiu, alebo
+
+b) výkazu o štúdiu alebo iných dokladov o vykonaných skúškach, alebo
+
+c) vysvedčenia alebo iných dokladov o štátnych alebo rigoróznych skúškach.
+
+(2) Žiadateľ súčasne pripojí overené preklady dokladov uvedených v písmenách a) až c), a to do slovenského, českého, anglického, francúzskeho, nemeckého, ruského alebo španielskeho jazyka.
+
+(3) K podnetu na nostrifikáciu dokladov o štúdiu podľa § 2 ods. 3 pripoja sa len overené kópie dokladov o štúdiu.
+
+(4) Žiadateľ o nostrifikáciu vykonaných skúšok nepredkladá doklady uvedené v odseku 1 písm. a).
+
+## § 4
+
+Pravosť podpisov a odtlačkov pečiatok na origináloch dokladov musí byť overená ministerstvom zahraničných vecí štátu, v ktorom má sídlo vysoká škola, ktorá doklad vydala, a zastupiteľským úradom Českej a Slovenskej Federatívnej Republiky v tomto štáte.
+
+## § 5
+
+(1) O nostrifikácii rozhodne vysoká škola alebo ministerstvo najneskôr do 60 dní od doručenia žiadosti alebo podnetu.
+
+(2) Ak nostrifikuje vysoká škola alebo ministerstvo doklady o štúdiu, vydá nostrifikačnú doložku podľa vzoru uvedeného v prílohe 1 tejto vyhlášky.
+
+(3) Ak nostrifikuje vysoká škola alebo ministerstvo doklady o vykonaných skúškach vydané zahraničnou vysokou školou, vydá nostrifikačnú doložku podľa vzoru uvedeného v prílohe 2 tejto výhlášky.
+
+(4) Nostrifikačnou doložkou sa potvrdzuje platnosť dokladov o štúdiu s účinnosťou odo dňa jej vydania.
+
+(5) Ak vysoká škola alebo ministerstvo nenostrifikuje doklady o štúdiu alebo o vykonaných skúškach, oznámi to s uvedením dôvodov písomne žiadateľovi a doklady mu vráti.<sup>2</sup>)
+
+## § 6
+
+Doklady o štúdiu nostrifikované v Českej republike platia aj na území Slovenskej republiky.
+
+## § 7
+
+Evidenciu nostrifikačných doložiek vedie ten, kto rozhodol o nostrifikácii a súčasne uschováva overené kópie dokladov o štúdiu vydaných zahraničnou vysokou školou.
+
+## § 8
+
+Nenostrifikujú sa doklady o štúdiu vydané zahraničnou vysokou školou štátu, s ktorým Česká a Slovenská Federatívna Republika uzavrela medzinárodnú zmluvu o vzájomnom uznávaní rovnocennosti dokladov o vzdelaní.<sup>1</sup>)
+
+## § 9
+
+Zrušuje sa vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 114/1982 Zb., ktorou sa ustanovujú bližšie podmienky nostrifikácie diplomov a iných dokladov o vysokoškolskom štúdiu vydaných zahraničnými vysokými školami a postup pri nej.
+
+## § 10
+
+Táto vyhláška nadobúda účinnosť 1. májom 1991.
+
+Minister:
+
+Pišut v. r.
+
+### Príloha 1
+
+#### ![sbcr1991c027z0141p001u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/783337/NAHLED/ZOBRAZ/sbcr1991c027z0141p001u001)
+
+### Príloha 2
+
+#### ![sbcr1991c027z0141p002u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/783339/NAHLED/ZOBRAZ/sbcr1991c027z0141p002u001)
+
+---
+
+<sup>1</sup>) § 25 ods. 2 zákona č. 172/1990 Zb. o vysokých školách.
+
+<sup>2</sup>) § 34 zákona č. 172/1990 Zb.

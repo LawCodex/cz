@@ -1,0 +1,54 @@
+---
+title: "Nařízení vlády č. 234/1998 Sb., kterým se pro účely důchodového pojištění stanoví výše všeobecného vyměřovacího základu za rok 1997 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 1997 a upravují částky pro stanovení výpočtového základu"
+identifier: "234/1998 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1998/234/1999-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1998-09-23
+effective: 1999-01-01
+last_amended: 1999-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1998/234"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 234/1998 Sb., kterým se pro účely důchodového pojištění stanoví výše všeobecného vyměřovacího základu za rok 1997 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 1997 a upravují částky pro stanovení výpočtového základu
+
+234
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 23. září 1998,
+
+kterým se pro účely důchodového pojištění stanoví výše všeobecného vyměřovacího základu za rok 1997 a výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 1997 a upravují částky pro stanovení výpočtového základu
+
+Vláda nařizuje podle § 17 odst. 2 a 4 a § 107 odst. 2 zákona č. 155/1995 Sb., o důchodovém pojištění, ve znění zákona č. 134/1997 Sb. a zákona č. 289/1997 Sb.:
+
+## § 1
+
+Výše všeobecného vyměřovacího základu za rok 1997 činí 10 696 Kč.
+
+## § 2
+
+Výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 1997 činí 1,0891.
+
+## § 3
+
+Částky pro stanovení výpočtového základu uvedené v § 15 zákona č. 155/1995 Sb. a naposledy zvýšené nařízením vlády č. 254/1997 Sb. se upravují takto:
+
+a) částky 5 900 Kč se zvyšují na 6 100 Kč,
+
+b) částky 11 800 Kč se zvyšují na 13 000 Kč.
+
+## § 4
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1999.
+
+Předseda vlády:
+
+Ing. Zeman v. r.
+
+1\. místopředseda vlády a ministr práce a sociálních věcí:
+
+PhDr. Špidla v. r.

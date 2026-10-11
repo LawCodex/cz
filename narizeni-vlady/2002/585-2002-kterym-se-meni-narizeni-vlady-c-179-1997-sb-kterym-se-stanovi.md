@@ -1,0 +1,44 @@
+---
+title: "Nařízení vlády č. 585/2002 Sb., kterým se mění nařízení vlády č. 179/1997 Sb., kterým se stanoví grafická podoba české značky shody, její provedení a umístění na výrobku"
+identifier: "585/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/585/2003-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2002-12-09
+effective: 2003-01-01
+last_amended: 2003-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/585"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 585/2002 Sb., kterým se mění nařízení vlády č. 179/1997 Sb., kterým se stanoví grafická podoba české značky shody, její provedení a umístění na výrobku
+
+585
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 9. prosince 2002,
+
+kterým se mění nařízení vlády č. 179/1997 Sb., kterým se stanoví grafická podoba české značky shody, její provedení a umístění na výrobku
+
+Vláda nařizuje podle § 22 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 71/2000 Sb. a zákona č. 205/2002 Sb., (dále jen „zákon“) k provedení § 12 zákona:
+
+## Čl. I
+
+V § 3 nařízení vlády č. 179/1997 Sb., kterým se stanoví grafická podoba české značky shody, její provedení a umístění na výrobku, se na konci textu odstavce 2 doplňují slova „, pokud jiné nařízení vlády vydané k provedení zákona nestanoví jinak“.
+
+## Čl. II
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2003.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Ministr průmyslu a obchodu:
+
+v z. JUDr. Rychetský v. r.
+
+místopředseda vlády a ministr spravedlnosti

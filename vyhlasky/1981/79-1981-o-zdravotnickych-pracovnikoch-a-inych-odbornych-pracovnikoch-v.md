@@ -479,7 +479,7 @@ Prof. MUDr. Matejíček DrSc. v. r.
 
 ### Príloha č. 1 vyhlášky č. 79/1981 Zb.
 
-#### **Špecializácie lekárov a farmaceutov**
+#### Špecializácie lekárov a farmaceutov
 
 A. ŠPECIALIZÁCIE LEKÁROV
 
@@ -537,7 +537,7 @@ lekárenstvo
 
 ### Príloha č. 2 vyhlášky č. 79/1981 Zb.
 
-#### **Nadstavbové špecializácie lekárov a farmaceutov**
+#### Nadstavbové špecializácie lekárov a farmaceutov
 
 A. NADSTAVBOVÉ ŠPECIALIZÁCIE LEKÁROV
 
@@ -719,7 +719,7 @@ Po dosiahnutí špecializácie I. stupňa môžu farmaceuti získať nadstavbov�
 
 ### Príloha č. 3 vyhlášky č. 79/1981 Zb.
 
-#### **Nadstavbové špecializácie lekárov a farmaceutov vo zvlášť úzkych odboroch**
+#### Nadstavbové špecializácie lekárov a farmaceutov vo zvlášť úzkych odboroch
 
 A. NADSTAVBOVÉ ŠPECIALIZÁCIE LEKÁROV
 
@@ -911,7 +911,7 @@ veterinárna farmácia.
 
 ### Príloha č. 4 vyhlášky č. 79/1981 Zb.
 
-#### **Špecializácie stredných zdravotníckych pracovníkov**
+#### Špecializácie stredných zdravotníckych pracovníkov
 
 A. ŠPECIALIZÁCIE STREDNÝCH ZDRAVOTNÍCKYCH PRACOVNÍKOV
 
@@ -1083,7 +1083,7 @@ sociálna služba.
 
 ### Príloha č. 5 vyhlášky č. 79/1981 Zb.
 
-#### **Špeciálna príprava a pomaturitné špecializačné štúdium iných odborných pracovníkov v zdravotníctve**
+#### Špeciálna príprava a pomaturitné špecializačné štúdium iných odborných pracovníkov v zdravotníctve
 
 A. ŠPECIÁLNA PRÍPRAVA INÝCH ODBORNÝCH PRACOVNÍKOV S VYSOKOŠKOLSKÝM VZDELANÍM NA VÝKON PRÁCE V ZDRAVOTNÍCTVE
 

@@ -1,0 +1,480 @@
+---
+title: "Vyhláška č. 432/2003 Sb., kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli"
+identifier: "432/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/432/2026-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2003-12-04
+effective: 2004-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/432"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška č. 432/2003 Sb., kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli ve znění vyhlášky č. 107/2013 Sb., vyhlášky č. 181/2015 Sb., vyhlášky č. 240/2015 Sb. a vyhlášky č. 402/2025 Sb."
+---
+
+# Vyhláška č. 432/2003 Sb., kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli
+
+432
+
+VYHLÁŠKA
+
+ze dne 4. prosince 2003,
+
+kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli
+
+Ministerstvo zdravotnictví stanoví podle § 108 odst. 1 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 274/2003 Sb., (dále jen „zákon“) k provedení § 37 odst. 1, § 39 odst. 3 a odst. 4 a § 41 odst. 1 zákona:
+
+## § 1 – Předmět úpravy
+
+(1) Tato vyhláška zapracovává předpisy Evropské unie<sup>1</sup>) a stanoví kritéria, faktory a limity pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů, podmínky odběru biologického materiálu pro provádění biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli.
+
+(2) Faktorem se pro účely této vyhlášky rozumí fyzikální, chemické a biologické činitele, prach, fyzická zátěž, zátěž teplem a chladem, psychická a zraková zátěž a další faktory, které mohou mít nebo mají vliv na zdraví.
+
+(3) Kritéria, faktory a limity pro zařazování prací do kategorií upravuje příloha č. 1. Limitní hodnoty biologických expozičních testů a podmínky odběru biologického materiálu pro provádění biologických expozičních testů upravuje příloha č. 2.
+
+**Zařazování prací do kategorií**
+
+## § 2
+
+(K § 37 zákona)
+
+(1) Zařazení práce do kategorie vyjadřuje souhrnné hodnocení úrovně zátěže faktory rozhodujícími ze zdravotního hlediska o kvalitě pracovních podmínek.
+
+(2) Při zařazování prací do kategorií se ve smyslu § 37 odst. 3 písm. e) zákona stanoví kategorie rozhodujících faktorů v charakteristické směně. Za rozhodující faktory se považují faktory, které při dané práci podle současné úrovně vědeckého poznání mohou významně ovlivňovat nebo ovlivňují zdraví. Při zařazení jednotlivých faktorů do kategorie práce se do návrhu podle § 37 odst. 3 písm. e) zákona uvede zařazení práce s jednotlivými rozhodujícími faktory podle přílohy č. 1 v charakteristické směně. Za charakteristickou směnu se pokládá směna, která probíhá za obvyklých provozních podmínek, při níž doba výkonu práce s jednotlivými rozhodujícími faktory v daném časovém úseku odpovídá celoročně nebo v rozhodujícím období skutečné míře zátěže těmto faktorům. Pro účely hodnocení faktorů celková fyzická zátěž, lokální svalová zátěž, ruční manipulace s břemenem a hodnocení pracovních poloh se za charakteristickou směnu považuje průměrná směna stanovená právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>).
+
+(3) Při zařazování prací do kategorií se bere v úvahu vzájemné ovlivňování účinků jednotlivých faktorů, pokud je toto ovlivňování na podkladě současných vědeckých poznatků známé.
+
+## § 3
+
+(1) Ve smyslu § 2 se za práce
+
+a) kategorie první považují práce, při nichž podle současného poznání není pravděpodobný nepříznivý vliv na zdraví,
+
+b) kategorie druhé považují práce, při nichž podle současné úrovně poznání lze očekávat jejich nepříznivý vliv na zdraví jen výjimečně, zejména u vnímavých jedinců, tedy práce, při nichž nejsou překračovány hygienické limity faktorů stanovené jinými právními předpisy<sup>2</sup>) (dále jen „hygienické limity“), a práce naplňující další kritéria pro jejich zařazení do kategorie druhé podle přílohy č. 1,
+
+c) kategorie třetí považují práce, při nichž jsou překračovány hygienické limity, a práce naplňující další kritéria pro zařazení práce do kategorie třetí podle přílohy č. 1, přičemž expozice fyzických osob, které práce vykonávají (dále jen „osob“), není spolehlivě snížena technickými opatřeními pod úroveň těchto limitů, a pro zajištění ochrany zdraví osob je proto nezbytné využívat osobní ochranné pracovní prostředky, organizační a jiná ochranná opatření, a dále práce, při nichž se vyskytují opakovaně nemoci z povolání nebo statisticky významně častěji nemoci, jež lze pokládat podle současné úrovně poznání za nemoci související s prací,
+
+d) kategorie čtvrté považují práce, při nichž je vysoké riziko ohrožení zdraví, které nelze zcela vyloučit ani při používání dostupných a použitelných ochranných opatření.
+
+(2) Kategorie, do které má být práce zařazena podle § 37 odst. 3 písm. c) zákona, se v případě, že jde o práci spojenou s expozicí několika faktorům, stanoví podle nejméně příznivě hodnoceného faktoru.
+
+## § 4 – Limitní hodnoty ukazatelů biologických expozičních testů a podmínky odběru biologického materiálu pro provedení biologických expozičních testů
+
+(K § 39 zákona)
+
+(1) Biologické expoziční testy jsou jedním z prostředků hodnocení expozice skupin osob nebo jednotlivých osob chemickým látkám na základě stanovení vhodných ukazatelů ve vzorcích biologického materiálu, odebraného exponovaným osobám ve vhodnou dobu.
+
+(2) Limitní hodnoty ukazatelů biologických expozičních testů, jejichž překročení svědčí o zvýšení expozice chemickým látkám nad hygienicky přípustnou úroveň, a podmínky doby odběrů biologického materiálu pro provádění biologických expozičních testů jsou upraveny v příloze č. 2.
+
+## § 5 – Náležitosti hlášení prací s azbestem a jiných prací, které mohou být zdrojem expozice azbestu
+
+(K § 41 zákona)
+
+(1) Hlášení o provádění prací s azbestem a jiných prací, které mohou být zdrojem expozice azbestu, včetně prací při odstraňování staveb nebo jejich částí, konstrukcí, zařízení, instalací nebo výrobků, jejichž součástí je azbest, musí obsahovat
+
+a) u právnické osoby obchodní firmu nebo název, identifikační číslo, u podnikající fyzické osoby její jméno, případně jména a příjmení, popřípadě obchodní firmu a místo podnikání, a u fyzické osoby její jméno, případně jména a příjmení, datum narození, adresu místa bydliště,
+
+b) počet exponovaných osob, jejich jmenný seznam, včetně doložení osvědčení o absolvování školení o uplatňování správné prevence ohrožení zdraví při nakládání s azbestem u všech exponovaných osob a u každého zaměstnance datum vydání posledního lékařského posudku o zdravotní způsobilosti k práci,
+
+c) místo výkonu prací, jejich povahu, termín započetí prací a pravděpodobnou dobu jejich trvání, druh a množství azbestu, vymezení kontrolovaného pásma a způsob zajištění místa výkonu prací proti vstupu nepovolaných osob,
+
+d) technologické postupy, které budou používány v zájmu omezení expozice osob prachu azbestu,
+
+e) technická a organizační opatření k zajištění ochrany zdraví osob vykonávajících práci s azbestem a materiály obsahujícími azbest a jiných osob přítomných na pracovišti a v blízkosti pracoviště, kde dochází nebo může docházet k expozici azbestu,
+
+f) vybavení osob pracujících v kontrolovaném pásmu ochranným pracovním oděvem a osobními ochrannými pracovními prostředky k zamezení expozice azbestu dýchacím ústrojím, místo a způsob jejich ukládání, zajištění jejich čištění, praní a kontroly jejich funkčnosti po použití, popřípadě způsob jejich likvidace,
+
+g) rozsah a způsob uplatňování režimových opatření, zejména zákazu jídla, pití a kouření v prostorech, kde je nebezpečí expozice azbestu,
+
+h) způsob manipulace s odpady obsahujícími azbest, popis určených prostředků a způsob technologie jejich sbírání a odstraňování z pracoviště,
+
+i) identifikační údaje poskytovatele pracovnělékařských služeb v rozsahu uvedeném v rozhodnutí o oprávnění k poskytování zdravotních služeb,
+
+j) jméno a příjmení a kvalifikace osoby odpovědné za plnění úkolů zaměstnavatele v péči o bezpečnost a ochranu zdraví při práci,
+
+k) způsob zajištění dokumentace o evidenci expozice jednotlivých osob azbestu,
+
+l) způsob zajištění kontroly koncentrace azbestu v pracovním ovzduší.
+
+(2) Podává-li hlášení osoba uvedená
+
+a) v § 12 písm. a) až c) a e) zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci<sup>14</sup>), v hlášení neuvádí
+
+1\. údaje podle odstavce 1 písm. b) týkající se data vydání posledního lékařského posudku o zdravotní způsobilosti k práci a
+
+2\. údaje podle odstavce 1 písm. i) až k),
+
+b) v § 12 písm. d) zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci<sup>14</sup>), v hlášení neuvádí údaje podle písmene a) a dále nedokládá osvědčení o absolvování školení o uplatňování správné prevence ohrožení zdraví při nakládání s azbestem podle odstavce 1 písm. b).
+
+## § 6 – Náležitosti hlášení o zacházení s biologickými činiteli
+
+(K § 41 zákona)
+
+(1) Hlášení o zacházení s biologickými činiteli, které podává zaměstnavatel, na jehož pracovištích budou nově používány biologické činitele skupin 2 až 4, musí obsahovat:
+
+a) obchodní firmu nebo název, identifikační číslo, u právnické osoby a u podnikající fyzické osoby její jméno, příjmení, popřípadě obchodní firmu a místo podnikání,
+
+b) jméno a kvalifikaci osoby odpovědné za plnění úkolů zaměstnavatele v péči o bezpečnost a ochranu zdraví při práci,
+
+c) počet exponovaných osob,
+
+d) druhy biologických činitelů,
+
+e) popis činností, při nichž jsou nebo mohou být osoby exponovány biologickým činitelům skupin 2 až 4, a hodnocení míry rizika spojeného s jejich vykonáváním,
+
+f) havarijní plán, obsahující opatření k ochraně pracovníků před expozicí biologickým činitelům skupin 3 a 4, která může vzniknout v důsledku selhání ochranných opatření,
+
+g) popis uskutečněných a plánovaných ochranných opatření,
+
+h) identifikační údaje poskytovatele pracovnělékařských služeb v rozsahu uvedeném v rozhodnutí o oprávnění k poskytování zdravotních služeb,
+
+i) výčet a popis prostředků umožňujících shromažďování, ukládání a likvidaci odpadů obsahujících biologické činitele skupin 2 až 4 a způsoby jejich dekontaminace a dezinfekce.
+
+(2) Popis ochranných opatření podle odstavce 1 písm. g) musí obsahovat údaje o:
+
+a) úpravách pracovních procesů a o technických opatřeních sloužících k vyloučení nebo omezení úniku biologických činitelů skupin 2 až 4 při práci a při jejich přepravě do pracovního prostředí,
+
+b) rozsahu úprav pracovních a pomocných prostor a o jejich prostorových dispozicích,
+
+c) hygienických opatřeních, jejichž účelem je zamezení nebo omezení možného úniku biologického činitele z pracoviště,
+
+d) postupech používaných při odebírání, manipulaci a zpracování vzorků materiálů lidského nebo živočišného původu, o vybavení pracoviště šatnami, umývárnami, sprchami, záchody a denními místnostmi pro osoby,
+
+e) vybavení osob osobními ochrannými pracovními prostředky včetně ochranného pracovního oblečení, jejich kontroly před použitím, čištění a desinfekci po použití, jejich ukládání, zajištění oprav a údržby, způsobech likvidace prostředků pro jedno použití,
+
+f) zajištění první pomoci a desinfekce kůže, sliznic, desinfekce povrchů a dekontaminace,
+
+g) rozsahu a způsobech uplatňování režimových opatření, zejména zákazu jídla, pití a kouření v prostorech, kde je nebezpečí expozice biologickým činitelům,
+
+h) testech používaných ke zjišťování přítomnosti biologických činitelů skupin 2 až 4, mimo určená pracovní místa nebo uzavřená zařízení, pokud je používání takových testů při daném zacházení s biologickými činiteli účelné a technicky možné,
+
+i) zajištění specifické odolnosti osob například očkováním, antibiotiky, antivirotiky a chemoterapeutiky,
+
+j) výsledcích projednaných opatření k předcházení a omezení rizik s příslušným orgánem ochrany veřejného zdraví.
+
+(3) Seznam biologických činitelů skupin 2 až 4 je upraven v právním předpisu upravujícím podmínky ochrany zdraví při práci<sup>10</sup>).
+
+## § 7 – Závěrečné ustanovení
+
+Zrušuje se vyhláška č. 89/2001 Sb., kterou se stanoví podmínky pro zařazování prací do kategorií, limitní hodnoty ukazatelů biologických expozičních testů a náležitosti hlášení prací s azbestem a biologickými činiteli.
+
+## § 8 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2004.
+
+Ministryně:
+
+MUDr. Součková v. r.
+
+### Příloha č. 1 k vyhlášce č. 432/2003 Sb.
+
+#### Kritéria kategorizace prací
+
+1\. PRACH
+
+(1) Přípustný expoziční limit (PEL) se vztahuje podle povahy prachu buď na hodnoty vyjádřené v mg.m<sup>-3</sup> nebo, jde-li o vláknité prachy, na počet vláken.cm<sup>-3</sup>.
+
+(2) Při nestandardních časových charakteristikách pracovní expozice, jimiž jsou týdenní expozice rozdělené jinak než na 5 osmihodinových směn, jiný počet směn za pracovní týden než 5 a proměnlivý počet hodin za sledované období, tj. týden, 30 kalendářních dnů nebo delší dobu, se pro zařazení práce do kategorie druhé a třetí použije hodnocení expozice prachu podle celotýdenního časově váženého průměru koncentrací, pokud celosměnová průměrná koncentrace v žádném z pracovních dnů nepřekročí trojnásobek hodnoty PEL.
+
+##### Kategorie druhá
+
+Do druhé kategorie se zařazuje práce, při níž jsou osoby vykonávající tuto práci exponovány prachu, jehož průměrné celosměnové koncentrace v pracovním ovzduší jsou vyšší než 30 % hodnoty PEL stanoveného pro tento druh prachu právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>), hodnotu PEL však nepřekračují.
+
+##### Kategorie třetí
+
+Do třetí kategorie se zařazuje práce, při níž jsou osoby exponovány prachu, jehož průměrné celosměnové koncentrace v pracovním ovzduší jsou vyšší než hodnota PEL pro tento druh prachu stanoveného právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>), avšak nepřekračují jeho trojnásobek.
+
+##### Kategorie čtvrtá
+
+Do čtvrté kategorie se zařazuje práce, při níž jsou osoby exponovány prachu, jehož koncentrace jsou vyšší, než je uvedeno pro třetí kategorii.
+
+2\. CHEMICKÉ LÁTKY A SMĚSI
+
+(1) Zařazování prací s chemickými látkami nebo směsmi do kategorií se provádí na základě hodnocení expozice podle naměřených koncentrací těchto látek nebo směsí v pracovním ovzduší v dýchací zóně osoby a jejich srovnání s kriteriálními hodnotami uvedenými pro jednotlivé kategorie v této vyhlášce.
+
+(2) S ohledem na to, že dýchací ústrojí osoby nemusí být jedinou cestou vstupu chemických látek nebo směsí do organismu, neboť na expozici se může podílet i vstup zažívacím ústrojím a kůží a množství látky nebo směsi přijaté dýchacím ústrojím může výrazně kolísat zejména v závislosti na plicní ventilaci, zohledňují se při zařazování práce s nimi i výsledky vyšetření osob pomocí biologických expozičních testů a schopnost některých látek pronikat do organismu jinými cestami vstupu, například neporušenou kůží.
+
+(3) U prací s chemickými látkami nebo směsmi klasifikovanými jako karcinogenní kategorie 1A nebo 1B se standardní větou o nebezpečnosti H350, H350i, mutagenní v zárodečných buňkách kategorie 1A nebo 1B se standardní větou o nebezpečnosti H340, toxické pro reprodukci kategorie 1A a 1B se standardní větou o nebezpečnosti H360, H360F, H360D, H360FD, H360Fd, H360Df a dále se standardní větou o nebezpečnosti H300, H310, H330, H370, H334, H317 podle přímo použitelného předpisu Evropské unie<sup>1</sup>) se při jejich zařazování do kategorie postupuje individuálně na základě hodnocení jejich toxikologických vlastností, jejich cest vstupu do organismu a jejich míry expozice.
+
+(4) Pro hodnocení expozice genotoxických látek vyvolávajících chromozómové a chromatidové aberace lze použít konvenční cytogenetickou analýzu, pokud nejsou pro hodnocení expozice dané látce k dispozici metody měření inhalační expozice nebo biologické expoziční testy, nebo pokud může být podle současného poznání u dané látky významná i expozice jinými cestami, než dýchacím ústrojím.
+
+(5) Práce s chemickými látkami, pro které nejsou stanoveny hodnoty PEL nebo nejvyšší přípustné koncentrace (NPK-P) v pracovním ovzduší, se zařazuje do kategorie individuálně na základě hodnocení toxikologických vlastností látek, cesty vstupu těchto látek do organismu a míry expozice osob těmto látkám.
+
+##### Kategorie druhá
+
+Do druhé kategorie se zařazuje práce, při níž jsou osoby exponovány
+
+a) chemickým látkám, jejichž průměrné celosměnové koncentrace v pracovním ovzduší jsou vyšší než 0,3 jejich hodnot PEL, avšak nepřekračují hodnotu PEL ani hodnotu NPK-P stanovenou právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>),
+
+b) směsím chemických látek s předpokládaným aditivním účinkem, jestliže součet podílů celosměnových průměrných koncentrací jednotlivých látek v ovzduší z jejich hodnot PEL je vyšší než 0,3, ale nižší než 1, nebo
+
+c) chemickým látkám a směsím klasifikovaným jako karcinogenní kategorie 1A nebo 1B se standardní větou o nebezpečnosti H350, H350i, mutagenní v zárodečných buňkách kategorie 1A nebo 1B se standardní větou o nebezpečnosti H340, toxické pro reprodukci kategorie 1A a 1B se standardní větou o nebezpečnosti H360, H360F, H360D, H360FD, H360Fd, H360Df a látkám nebo směsím se standardní větou o nebezpečnosti H300, H310, H330, H370, H334, H317 podle přímo použitelného předpisu Evropské unie<sup>1</sup>), pokud práce s nimi nenáleží podle výsledků komplexního hodnocení expozice osob do kategorie vyšší.
+
+##### Kategorie třetí
+
+Do třetí kategorie se zařazuje práce, při níž jsou osoby exponovány
+
+a) chemickým látkám, jejichž průměrné celosměnové koncentrace v pracovním ovzduší překračují hodnotu PEL, avšak nepřekračují hodnotu NPK-P stanovenou právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>) nebo, pokud pro danou látku není hodnota NPK-P stanovena, nepřekračují trojnásobek hodnoty jejího PEL,
+
+b) směsím chemických látek s předpokládaným aditivním účinkem, jestliže součet podílů celosměnových průměrných koncentrací jednotlivých látek v ovzduší z jejich hodnot PEL je vyšší nebo roven 1, ale nižší než 2, nebo
+
+c) chemickým látkám a směsím klasifikovaným jako karcinogenní kategorie 1A nebo 1B se standardní větou o nebezpečnosti H350, H350i, mutagenní v zárodečných buňkách kategorie 1A nebo 1B se standardní větou o nebezpečnosti H340, toxické pro reprodukci kategorie 1A a 1B se standardní větou o nebezpečnosti H360, H360F, H360D, H360FD, H360Fd, H360Df a látkám nebo směsím se standardní větou o nebezpečnosti H300, H310, H330, H370, H334, H317 podle přímo použitelného předpisu Evropské unie<sup>1</sup>), pokud práce s nimi nenáleží podle výsledků komplexního hodnocení expozice zaměstnanců do kategorie druhé.
+
+##### Kategorie čtvrtá
+
+Do čtvrté kategorie se zařazuje práce, při níž jsou překročeny kriteriální hodnoty pro zařazení do třetí kategorie.
+
+3\. HLUK
+
+(1) Při nestandardních časových charakteristikách pracovní expozice, jimiž jsou týdenní expozice rozdělená jinak než na 5 osmihodinových směn, jiný počet směn za pracovní týden než 5 a proměnlivý počet hodin za sledované období, tj. týden, 30 kalendářních dnů nebo delší dobu, se pro zařazení práce do kategorií vychází z průměrné expozice hluku stanovené právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>).
+
+(2) Při měření a hodnocení ustáleného proměnného a impulsního hluku na pracovišti pro účely kategorizace práce se vychází výlučně z ekvivalentních hladin akustického tlaku stanovených s kmitočtovým vážením A, a v případě impulsního hluku navíc z hladin špičkového akustického tlaku stanovených s kmitočtovým vážením C. Kmitočtová vážení A a C zohledňují souhrnně v celém rozsahu slyšitelných kmitočtů míru škodlivosti, rušivosti a dalších nepříznivých účinků jednotlivých kmitočtových složek hluku na pracovišti.
+
+(3) Vysokofrekvenční hluk, ultrazvuk, infrazvuk a nízkofrekvenční hluk se podle právního předpisu upravujícího ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>) <sup></sup>pro účely zařazení práce samostatně nehodnotí, proto se pro ně kritéria pro zařazení do kategorií nestanoví.
+
+##### Kategorie druhá
+
+Do druhé kategorie se zařazuje práce, při níž jsou osoby exponovány
+
+a) ustálenému nebo proměnnému hluku, jehož ekvivalentní hladina akustického tlaku A L<sub>Aeq,8h</sub> je v rozmezí od 80 do 84,9 dB, avšak přípustný expoziční limit 85 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>) nepřekračuje, nebo
+
+b) impulsnímu hluku, jehož ekvivalentní hladina akustického tlaku A L<sub>Aeq,8h</sub> je v rozmezí od 80 do 84,9 dB, avšak přípustný expoziční limit 85 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>) nepřekračuje, a jehož hladina špičkového akustického tlaku C L<sub>Cpeak</sub> je v rozmezí od 130,0 do 139,9 dB, avšak přípustný expoziční limit 140 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>) nepřekračuje.
+
+##### Kategorie třetí
+
+Do třetí kategorie se zařazuje práce, při níž jsou osoby exponovány
+
+a) ustálenému nebo proměnnému hluku, jehož ekvivalentní hladina akustického tlaku A L<sub>Aeq,8h</sub> dosahuje nebo je vyšší než přípustný expoziční limit 85 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>), avšak nepřekračuje 105 dB, nebo
+
+b) impulsnímu hluku, jehož ekvivalentní hladina akustického tlaku A L<sub>Aeq,8h</sub> dosahuje nebo je vyšší než přípustný expoziční limit 85 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>), avšak nepřekračuje 105 dB, a jehož hladina špičkového akustického tlaku C L<sub>Cpeak</sub> dosahuje nebo je vyšší než přípustný expoziční limit 140 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>), avšak nepřekračuje 150 dB.
+
+##### Kategorie čtvrtá
+
+Do čtvrté kategorie se zařazuje práce, při níž jsou osoby exponovány
+
+a) ustálenému nebo proměnnému hluku, jehož ekvivalentní hladina akustického tlaku A L<sub>eq,8h</sub> je vyšší, než je stanoveno u kategorie třetí, nebo
+
+b) impulsnímu hluku, jehož ekvivalentní hladina akustického tlaku A L<sub>Aeq,8h</sub> nebo hladina špičkového akustického tlaku C L<sub>Cpeak</sub> je vyšší, než je stanoveno u kategorie třetí.
+
+4\. VIBRACE
+
+Při nestandardních časových charakteristikách pracovní expozice, jimiž jsou týdenní expozice rozdělená jinak než na 5 osmihodinových směn, jiný počet směn za pracovní týden než 5 a proměnlivý počet hodin za sledované období, tj. týden, 30 kalendářních dnů nebo delší dobu, se pro zařazení práce do kategorií vychází z průměrné expozice vibracím přenášeným na ruce nebo celkovým vertikálním a horizontálním vibracím stanovené podle právního předpisu upravujícího ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>).
+
+##### Kategorie druhá
+
+(1) Do druhé kategorie se zařazuje práce, při níž jsou osoby exponovány
+
+a) vibracím přenášeným na ruce, jejichž průměrná souhrnná vážená hladina zrychlení L<sub>ahv,8h</sub> je v rozmezí od 118,0 do 127,9 dB, avšak přípustný expoziční limit 128 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>) nepřekračuje,
+
+b) celkovým horizontálním nebo vertikálním vibracím, jejichž průměrná vážená hladina zrychlení L<sub>aw, 8h</sub> je v rozmezí od 104,0 do 113,9 dB, avšak přípustný expoziční limit 114 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>)nepřekračuje, nebo
+
+c) vibracím přenášeným na ruce po dobu trvání některé dílčí pracovní operace, jejichž průměrná souhrnná vážená hladina zrychlení L<sub>ahv,T</sub> překračuje 128 dB, nebo celkovým vertikálním a horizontálním vibracím po dobu trvání některé dílčí pracovní operace, jejichž průměrná vážená hladina zrychlení L<sub>aw,T</sub> překračuje 114 dB, avšak ani u jedné z měřených dílčích pracovních operací nebyl překročen přípustný expoziční limit pro osmihodinovou směnu podle právního předpisu upravujícího ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>).
+
+(2) Do druhé kategorie se zařazuje také práce, při které dochází k expozici osob vibracím přenášeným na ruce nepravidelně jen v některých pracovních dnech, ale vždy po dobu kratší než 20 minut v osmihodinové směně, jejichž průměrná souhrnná vážená hladina zrychlení L<sub>ahv,T</sub> stanovená za dobu expozice T podle právního předpisu upravujícího ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>) 142 dB není překročena o více než 3 dB.
+
+##### Kategorie třetí
+
+Do třetí kategorie se zařazuje práce, při níž jsou osoby exponovány
+
+a) vibracím přenášeným na ruce, jejichž průměrná souhrnná vážená hladina zrychlení vibrací L<sub>ahv,8h</sub> dosahuje nebo je vyšší než přípustný expoziční limit 128 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>), avšak nepřekračuje 134 dB, nebo
+
+b) celkovým horizontálním či vertikálním vibracím, jejichž průměrná souhrnná vážená hladiny zrychlení vibrací L<sub>aw,8h</sub> dosahuje nebo je vyšší než přípustný expoziční limit 114 dB stanovený právním předpisem upravujícím ochranu zdraví před nepříznivými účinky hluku a vibrací<sup>12</sup>), avšak nepřekračuje 120 dB.
+
+##### Kategorie čtvrtá
+
+Do čtvrté kategorie se zařazuje práce, při níž jsou osoby exponovány vibracím přenášeným na ruce, jejichž průměrná souhrnná vážená hladina zrychlení vibrací L<sub>ahv,8h</sub> je vyšší, než je stanoveno u kategorie třetí, nebo celkovým horizontálním či vertikálním vibracím, jejichž průměrná vážená hladina zrychlení vibrací L<sub>aw,8h</sub> je vyšší, než je stanoveno u třetí kategorie.
+
+5\. NEIONIZUJÍCÍ ZÁŘENÍ
+
+##### Kategorie třetí
+
+Do třetí kategorie se zařazuje práce, při níž je používáno zařízení, které je zdrojem neionizujícího záření, včetně laserů, jemuž jsou osoby exponovány a které přesahuje nejvyšší přípustné hodnoty stanovené právním předpisem upravujícím ochranu zdraví před neionizujícím zářením<sup>13</sup>), ochranu osob je však možné zajistit osobními ochrannými pracovními prostředky.
+
+6\. FYZICKÁ ZÁTĚŽ
+
+##### Kategorie druhá
+
+Do druhé kategorie se zařazuje práce
+
+a) převážně dynamická, vykonávaná velkými svalovými skupinami, při níž
+
+1\. celosměnový energetický výdej (netto) je u mužů v rozmezí od 4,5 MJ do 6,8 MJ, u žen od 3,4 MJ do 4,5 MJ a minutový přípustný energetický výdej (netto) se pohybuje u mužů v rozmezí 400 až 575 W (24,1 až 34,5 kJ.min) a u žen v rozmezí 240 až 395 W (14,5 až 23,7 kJ.min),
+
+2\. směnová průměrná srdeční frekvence se pohybuje v rozmezí od 92 do 102 tepů.minE<sup>-1</sup> u mužů i u žen, přičemž minutová srdeční frekvence při hlavní pracovní operaci nepřekročí ani krátkodobě 150 tepů.min<sup>-1</sup>,
+
+3\. roční energetický výdej je větší než dvě třetiny přípustné hodnoty, ale nepřekročí tuto hodnotu stanovenou právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>), jde-li o nerovnoměrnou zátěž v průběhu roku, např. sezónní práce, přičemž zátěž v průběhu celé průměrné směny nepřekročí minutový přípustný energetický výdej u mužů 34,5 kJ a u žen 23,7 kJ,
+
+b) vykonávaná malými svalovými skupinami při převaze dynamické složky, při níž se
+
+1\. průměrná celosměnově vynakládaná svalová síla pohybuje v rozmezí 15 až 30 % Fmax nebo se vyskytují pracovní úkony vyžadující krátkodobě použít síly od 55 do 70 % Fmax maximálně 600krát za průměrnou směnu, pokud je použito měřicí zařízení umožňující snímání jedenkrát za sekundu, nebo práce, při níž se vyskytují občasně úkony, při nichž sice dochází k vynakládání svalových sil větších než 70 % Fmax, avšak tyto nejsou pravidelnou součástí pracovní činnosti,
+
+2\. maximální počty pohybů v závislosti na vynakládaných svalových silách nepřekračují nejvyšší přípustné hodnoty počtů pohybů stanovené právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>), ale jsou vyšší, než jejich dvoutřetinové hodnoty,
+
+3\. počty pohybů vykonávaných malými svalovými skupinami ruky a prstů se pohybují v rozmezí 110 až 90 za minutu při uplatnění svalových sil mezi 3 % až 6 % Fmax, celkový počet pohybů nepřekročí 40 000 pro 3 % Fmax a 32 000 pro 6 % Fmax za průměrnou směnu,
+
+c) vykonávána malými svalovými skupinami při převaze statické složky, při níž se průměrná celosměnově vynakládaná svalová síla pohybuje v rozmezí od 6 do 10 % Fmax, nebo práce, při níž se vyskytují občasně úkony, při nichž sice dochází k vynakládání svalových sil větších než 45 % Fmax, avšak tyto nejsou pravidelnou součástí pracovní činnosti, nebo
+
+d) spojená s ruční manipulací s břemeny,
+
+1\. při které se hmotnost ručně přenášených břemen muži pohybuje při občasné manipulaci v rozmezí od 30 do 50 kg a při časté manipulaci v rozmezí od 15 do 30 kg nebo kumulativní hmotnost břemen přenášených za průměrnou směnu je vyšší než 7000 kg, ale nepřekračuje hodnotu 10 000 kg,
+
+2\. při které se hmotnost ručně přenášených břemen ženami pohybuje při občasné manipulaci v rozmezí od 15 do 20 kg a při časté manipulaci v rozmezí od 5 do 15 kg nebo je kumulativní hmotnost břemen přenášených za průměrnou směnu vyšší než 4500 kg, ale nepřekračuje hodnotu 6500 kg.
+
+##### Kategorie třetí
+
+(1) Do třetí kategorie se zařazuje práce uvedená v kapitole „Kategorie druhá“ písmenu a), b) bodech 2 a 3 a písmenu d) vykonávaná za podmínek, při nichž jsou překračovány kritériální hodnoty pro zařazení do druhé kategorie.
+
+(2) Do třetí kategorie se dále zařazuje práce
+
+a) vykonávaná malými svalovými skupinami při převaze dynamické složky, při níž průměrná celosměnově vynakládaná svalová síla překračuje 30 % Fmax nebo se vyskytují pracovní úkony vyžadující krátkodobě použití síly od 55 do 70 % Fmax více než 600krát za průměrnou směnu, pokud je použito měřicí zařízení umožňující snímání jedenkrát za sekundu nebo se při práci vyskytují úkony, při nichž dochází k vynakládání svalových sil větších než 70 % Fmax a tyto jsou pravidelnou součástí pracovní činnosti,
+
+b) vykonávaná malými svalovými skupinami při převaze statické složky, při níž průměrná celosměnově vynakládaná svalová síla překračuje 10 % Fmax nebo se při práci vyskytují úkony, při nichž dochází k vynakládání svalových sil větších než 45 % Fmax a tyto jsou pravidelnou součástí pracovní činnosti.
+
+7\. PRACOVNÍ POLOHA
+
+##### Kategorie druhá
+
+Do druhé kategorie se zařazuje práce vykonávaná převážně v základní pracovní poloze vstoje, vsedě nebo při střídání těchto poloh, kdy v průběhu práce se vyskytují i podmíněně přijatelné a nepřijatelné pracovní polohy. Přitom součet doby práce vykonávané v jednotlivých podmíněně přijatelných pracovních polohách je delší než 100 minut za průměrnou směnu, ale nepřesáhne 160 minut a doba trvání jednotlivé podmíněně přijatelné pracovní polohy nepřekračuje hygienický limit stanovený právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>). Celková doba práce v jednotlivé nepřijatelné pracovní poloze je vyšší než 20 minut, ale nepřekračuje 30 minut za průměrnou směnu. Zátěž prací v podmíněně přijatelné a nepřijatelné poloze se hodnotí pro jednotlivé části těla samostatně.
+
+##### Kategorie třetí
+
+Do kategorie třetí se zařazuje práce vykonávaná za podmínek, kdy jsou překračovány limity stanovené pro kategorii druhou.
+
+8\. ZÁTĚŽ TEPLEM
+
+##### Kategorie druhá
+
+Do druhé kategorie se zařazuje práce, při níž jsou osoby na nevenkovním nebo na venkovním pracovišti v charakteristické směně exponovány zátěži teplem vyšší, než je maximální přípustná teplota stanovená pro kalendářní rok právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>), avšak míra této zátěže ještě nevyžaduje k ochraně zdraví osob v rámci dodržování dlouhodobě a krátkodobě přípustné doby práce ve směně režim střídání práce a bezpečnostní přestávky.
+
+##### Kategorie třetí
+
+Do třetí kategorie se zařazuje práce, při níž jsou osoby na nevenkovním nebo na venkovním pracovišti v charakteristické směně exponovány zátěži teplem vyšší, než je maximální přípustná teplota stanovená pro kalendářní rok právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>), a míra této zátěže již vyžaduje k ochraně zdraví osob v rámci dodržování dlouhodobě a krátkodobě přípustné doby práce ve směně režim střídání práce a bezpečnostní přestávky.
+
+##### Kategorie čtvrtá
+
+Do čtvrté kategorie se zařazuje práce vykonávaná v charakteristické směně za podmínek, kdy jsou překračovány přípustné hodnoty zátěže teplem stanovené právním předpisem upravujícím podmínky ochrany zdraví při práci<sup>10</sup>) a ani při používání osobních ochranných pracovních prostředků a úpravy režimu střídání práce a bezpečnostní přestávky nelze vyloučit poškození zdraví osob.
+
+9\. ZÁTĚŽ CHLADEM
+
+##### Kategorie druhá
+
+Do druhé kategorie se zařazuje práce
+
+a) vykonávaná v charakteristické směně na venkovním pracovišti, na němž korigovaná teplota vzduchu není nižší než + 4 ° C,
+
+b) vykonávaná v prostorách s udržovanou teplotou jako technologickým požadavkem nezbytným k vytvoření a udržení standardizovaných tepelně-vlhkostních podmínek pro ochranu výroby, výrobku nebo produktu, v nichž nejsou teploty nižší než + 4 °C, nebo
+
+c) spojená se střídáním pobytu v teple a v chladu, například v chladírnách a mrazírnách.
+
+##### Kategorie třetí
+
+Do třetí kategorie se zařazuje práce vykonávaná po dobu delší než 4 hodiny za směnu v prostorách s udržovanou teplotou nezbytnou k vytvoření a udržení standardizovaných tepelně-vlhkostních podmínek pro ochranu výroby, výrobku nebo produktu nebo na venkovním pracovišti v charakteristické směně, která je nižší než + 4 °C.
+
+10\. PSYCHICKÁ ZÁTĚŽ
+
+##### Kategorie druhá
+
+Do druhé kategorie se zařazuje práce vykonávaná po dobu delší než 4 hodiny za směnu
+
+a) ve vnuceném pracovním tempu,
+
+b) spojená s monotonií, nebo
+
+c) vykonávaná v třísměnném a nepřetržitém pracovním režimu.
+
+##### Kategorie třetí
+
+Do třetí kategorie se zařazuje práce vykonávaná po dobu delší než 4 hodiny za směnu,
+
+a) při níž je osoba zároveň souběžně exponována všem faktorům uvedeným v písmenech a) až c) pro druhou kategorii, nebo
+
+b) v noční době v jednosměnném provozu.
+
+11\. ZRAKOVÁ ZÁTĚŽ
+
+##### Kategorie druhá
+
+Do druhé kategorie se zařazuje práce vykonávaná po dobu delší než 4 hodiny za směnu
+
+a) se zařízeními určenými k nepřetržitému monitorování činností strojů nebo zařízení, nebo kontrole výroby nebo výrobků prostřednictvím obrazovkových terminálů,
+
+b) spojená s náročností na rozlišení detailů, kdy je nutno rozlišit části pozorovaného předmětu, aby byl správně identifikován, nebo je nutno rozlišit pozorovaný předmět od pozadí, nebo
+
+c) vykonávaná za zvláštních světelných podmínek, kdy pracovní postup vyžaduje zvláštní druh osvětlení z důvodu technického požadavku, nebo jde o práci vykonávanou jen při umělém nebo sdruženém osvětlení, při níž se rozlišují barvy, odstíny nebo detaily.
+
+##### Kategorie třetí
+
+Do třetí kategorie se zařazuje práce vykonávaná po dobu delší než 4 hodiny za směnu,
+
+a) při níž je osoba zároveň souběžně exponována alespoň dvěma faktorům uvedeným v kategorii druhé,
+
+b) spojená s technicky neodstranitelným oslňováním, nebo
+
+c) kterou lze vykonávat jen pomocí zvětšovacího přístroje.
+
+12\. PRÁCE S BIOLOGICKÝMI ČINITELI
+
+##### Kategorie druhá
+
+Do kategorie druhé se zařazuje práce, jejíž obvyklou součástí nejsou činnosti spojené s vědomým záměrem zacházet s biologickými činiteli nebo jejich zdroji nebo přenášeči, ale ze současné úrovně poznání nebo z vyhodnocení rizika provedeného podle právního předpisu upravujícího podmínky ochrany zdraví při práci<sup>10</sup>) vyplývá, že je při jejím vykonávání pravděpodobnost expozice biologickým činitelům skupin 2 až 4 vyšší než u ostatní populace.
+
+##### Kategorie třetí
+
+Do kategorie třetí se zařazuje práce, jejíž obvyklou součástí jsou činnosti spojené s vědomým záměrem zacházet s biologickými činiteli skupin 2 a 3 nebo jejich zdroji nebo přenášeči.
+
+##### Kategorie čtvrtá
+
+Do kategorie čtvrté se zařazuje práce, jejíž obvyklou součástí jsou činnosti spojené s vědomým záměrem zacházet s biologickými činiteli skupiny 4 nebo jejich zdroji nebo přenášeči.
+
+13\. PRÁCE VE ZVÝŠENÉM TLAKU VZDUCHU
+
+##### Kategorie druhá
+
+Do kategorie druhé se zařazuje práce ve zvýšeném tlaku vzduchu do 100 kPa.
+
+##### Kategorie třetí
+
+Do kategorie třetí se zařazuje práce ve zvýšeném tlaku od 100 do 400 kPa.
+
+##### Kategorie čtvrtá
+
+Do kategorie čtvrté se zařazuje práce ve zvýšeném tlaku nad 400 kPa nebo jakákoliv potápěčská práce vykonávaná pod hladinou bez ohledu na hloubku ponoru.
+
+### Příloha č. 2 k vyhlášce č. 432/2003 Sb.
+
+#### Limitní hodnoty ukazatelů biologických expozičních testů a podmínky odběru biologického materiálu pro provádění biologických expozičních testů
+
+##### Tabulka č. 1 – Limitní hodnoty ukazatelů biologických expozičních testů v moči
+
+<table><tbody><tr><th>Látka</th><th>Ukazatel</th><th colspan="2">Limitní hodnoty</th><th>Doba odběru</th></tr><tr><td>Anilin</td><td>p-Aminofenol</td><td>50 mg/g <br> kreatininu</td><td>52 μmol/mmol<br> kreatininu</td><td>konec směny</td></tr><tr><td>Arsen a arsenovodík</td><td>Arsen</td><td>0,05 mg/g <br> kreatininu</td><td>0,075 μmol/mmol kreatininu</td><td>konec pracovního týdne</td></tr><tr><td>Benzen</td><td>S-Fenylmerkapturová kyselina,<br><br> t,t-Mukonová kyselina</td><td>0,05 mg/g <br> kreatininu<br> 1,5 mg/g <br> kreatininu</td><td>0,024 μmol/mmol kreatininu<br> 1,2 μmol/mmol kreatininu</td><td>konec směny konec směny</td></tr><tr><td>Cyklohexanon</td><td>1,2-Cyklohexandiol<br> (po hydrolýze)</td><td>50 mg/g <br> kreatininu</td><td>0,049 mmol/mmol kreatininu</td><td>konec směny na konci pracovního týdne</td></tr><tr><td>Dimethylformamid</td><td>N-Methylformamid</td><td>15 mg/g <br> kreatininu</td><td>0,029 mmol/mmol kreatininu</td><td>konec směny</td></tr><tr><td>Ethylbenzen</td><td>Mandlová kyselina</td><td>1500 mg/g <br> kreatininu</td><td>1100 μmol/mmol kreatininu</td><td>konec směny</td></tr><tr><td>Ethylenglykolmono-butylether</td><td>Butoxyoctová kyselina<br> (po hydrolýze)</td><td>200 mg/g <br> kreatininu</td><td>0,17 mmol/mmol kreatininu</td><td>konec směny 1 na konci pracovního týdne</td></tr><tr><td>Ethylenglykolmono-butyletheracetát</td><td>Butoxyoctová kyselina<br> (po hydrolýze)</td><td>200 mg/g <br> kreatininu</td><td>0,17 mmol/mmol kreatininu</td><td>konec směny 1 na konci pracovního týdne</td></tr><tr><td>Ethylenglykolmono-ethylether</td><td>Ethoxyoctová kyselina</td><td>50 mg/g <br> kreatininu</td><td>0,048 mmol/mmol kreatininu</td><td>konec směny 1 na konci pracovního týdne</td></tr><tr><td>Ethylenglykolmono-ethyletheracetát</td><td>Ethoxyoctová kyselina</td><td>50 mg/g <br> kreatininu</td><td>0,048 mmol/mmol kreatininu</td><td>konec směny na konci pracovního týdne</td></tr><tr><td>Fenol</td><td>Fenol</td><td>300 mg/g<br> kreatininu</td><td>360 μmol/mmol kreatininu</td><td>konec směny</td></tr><tr><td>Fluoridy</td><td>Fluorid</td><td>10 mg/g <br> kreatininu</td><td>60 μmol/mmol <br> kreatininu</td><td>konec směny</td></tr><tr><td>Fural</td><td>Pyroslizová kyselina</td><td>200 mg/g<br> kreatininu</td><td>200 μmol/mmol kreatininu</td><td>konec směny</td></tr><tr><td>Chrom (VI) sloučeniny</td><td>Celkový chrom</td><td>0,030 mg/g <br> kreatininu</td><td>0,065 μmol/mmol kreatininu</td><td>konec směny na konci pracovního týdne</td></tr><tr><td>Kadmium</td><td>Kadmium</td><td>0,005 mg/g <br> kreatininu</td><td>0,005 μmol/mmol kreatininu</td><td>nerozhoduje</td></tr><tr><td>Methanol</td><td>Methanol</td><td>15 mg/l</td><td>0,47 mmol/l</td><td>konec směny</td></tr><tr><td>Nikl</td><td>Nikl</td><td>0,04 mg/g <br> kreatininu</td><td>0,077 μmol/mmol kreatininu</td><td>nerozhoduje</td></tr><tr><td>Nitrobenzen</td><td>p-Nitrofenol</td><td>5 mg/g <br> kreatininu</td><td>4 μmol/mmol kreatininu</td><td>konec směny</td></tr><tr><td>Olovo*</td><td>5-Aminolevulová kyselina<br> Koproporfyrin</td><td>15 mg/g kreatininu<br> 0,2 mg/g kreatininu</td><td>13 μmol/mmol<br> kreatininu<br> 0,035 μmol/mmol kreatininu</td><td>nerozhoduje</td></tr><tr><td>Pentachlorfenol</td><td>Pentachlorfenol</td><td>2 mg/g <br> kreatininu</td><td>0,85 μmol/mmol kreatininu</td><td>předposlední 1 směnou pracovního týdne</td></tr><tr><td>Rtuť a její sloučeniny anorganické a fenylrtuťnaté</td><td>Rtuť</td><td>0,1 mg/g <br> kreatininu</td><td>0,056 μmol/mmol kreatininu</td><td>nerozhoduje</td></tr><tr><td>Sirouhlík</td><td>2-Thiothiazolidin-4-karboxylová kyselina</td><td>1,5 mg/g <br> kreatininu</td><td>1,04 μmol/mmol kreatininu</td><td>konec směny</td></tr><tr><td rowspan="2">Styren</td><td>Mandlová kyselina</td><td>400 mg/g <br> kreatininu</td><td>300 μmol/mmol kreatininu</td><td>konec směny</td></tr><tr><td>Mandlová + fenylglyoxylová kyselina</td><td>600 mg/g <br> kreatininu</td><td></td><td>konec směny</td></tr><tr><td>Toluen</td><td>o-Kresol (po hydrolýze)<br> Hippurová kyselina<sup>**</sup></td><td>1,5 mg/g kreatininu<br> 1600 mg/g</td><td>1,6 μmol/mmol kreatininu<br> 1000 mikromol/mmol kreatininu</td><td>konec směny</td></tr><tr><td rowspan="2">Trichlorethylen</td><td>Trichloroctová kyselina</td><td>100 mg/g <br> kreatininu</td><td>70 μmol/mmol kreatininu</td><td>konec pracovního týdne</td></tr><tr><td>Trichlorethanol</td><td>200 mg/g<br> kreatininu</td><td>150 μmol/mmol kreatininu</td><td>konec směny</td></tr><tr><td>Xyleny</td><td>Methylhippurová kyselina</td><td>1400 mg/g <br> kreatininu</td><td>820 μmol/mmol kreatininu</td><td>konec směny</td></tr></tbody></table>
+
+Pro hodnocení je vhodná pouze moč s koncentrací kreatininu v rozmezí od 0,3 g/l do 3 g/l (tj. od 2,65 mmol/l do 26,6 mmol/l).
+
+\* Vhodné pro krátkodobé kontinuální expozice osob nepřekračující 30 kalendářních dnů.
+
+\*\* Je-li hodnota při nálezu kyseliny hippurové vyšší než 1600 mg/g, avšak nepřesahuje 2500 mg/g kreatininu, použije se ke zpřesnění expozice toluenu biologický expoziční test podle ukazatele o-Kresol. Je-li hodnota při nálezu kyseliny hippurové vyšší než 2 500 mg/g, považuje se za hodnotu prokazující, že jde o pracovní expozici toluenu, jehož hodnota PEL je překračována a biologický expoziční test podle ukazatele o-Kresol se již neprovádí.
+
+##### Tabulka č. 2 – Limitní hodnoty ukazatelů biologických expozičních testů v krvi
+
+<table><tbody><tr><th>Látka v krvi</th><th>Ukazatel</th><th>Limity</th><th>Doba odběru</th><th>Časová použitelnost limitu</th></tr><tr><td>Anilin</td><td>Methemoglobin</td><td>1,5 % hemoglobinu</td><td>konec směny</td><td></td></tr><tr><td>Ethylenoxid</td><td>N-(2-Hydroxyethyl) valin v globinu</td><td>0,3 μg/g globinu 1,9 nmol/g globinu</td><td>nerozhoduje</td><td></td></tr><tr><td>Inhibitory cholinesterázy a acetylcholinesterázy</td><td>Aktivita cholinesterázy a acetylcholinesterázy</td><td>pokles o 20% z hodnoty před započetím prací</td><td>konec směny</td><td></td></tr><tr><td>Kadmium</td><td>Kadmium</td><td>0,005 mg/l <br> 0,045 μmol/l</td><td>nerozhoduje</td><td></td></tr><tr><td>Nitrobenzen</td><td>Methemoglobin</td><td>1,5% hemoglobinu</td><td>konec směny</td><td></td></tr><tr><td>Oxid uhelnatý</td><td>Karbonylhemoglobin</td><td>5 % hemoglobinu</td><td>konec směny</td><td></td></tr><tr><td rowspan="2">Olovo</td><td rowspan="2">Olovo</td><td>0,3 mg/l</td><td>nerozhoduje</td><td>do 31. prosince 2028</td></tr><tr><td>0,15 mg/l</td><td>nerozhoduje</td><td>od 1. ledna 2029</td></tr><tr><td>Polychlorované bifenyly</td><td>Polychlorované bifenyly</td><td>0,05 mg/l</td><td>nerozhoduje</td><td></td></tr></tbody></table>
+
+---
+
+<sup>1</sup>) Směrnice Rady 98/24/ES ze dne 7. dubna 1998 o bezpečnosti a ochraně zdraví zaměstnanců před riziky spojenými s chemickými činiteli používanými při práci (čtrnáctá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS). 
+ Směrnice Evropského parlamentu a Rady 2000/54/ES ze dne 18. září 2000 o ochraně zaměstnanců před riziky spojenými s expozicí biologickým činitelům při práci (sedmá samostatná směrnice ve smyslu čl. 16 odst. 1 směrnice 89/391/EHS). 
+ Nařízení Evropského parlamentu a Rady (ES) č. 1272/2008 o klasifikaci, označování a balení látek a směsí, o změně a zrušení směrnic 67/548/EHS a 1999/45/ES a o změně nařízení (ES) č. 1907/2006, ve znění nařízení Komise (ES) č. 790/2009, ve znění nařízení Komise (EU) č. 286/2011 a ve znění nařízení Komise EU č. 618/2012. 
+ Směrnice Evropského parlamentu a Rady 2009/148/ES ze dne 30. listopadu 2009 o ochraně zaměstnanců před riziky spojenými s expozicí azbestu při práci (kodifikované znění). 
+ Směrnice Evropského parlamentu a Rady (EU) 2023/2668 ze dne 22. listopadu 2023, kterou se mění směrnice 2009/148/ES o ochraně zaměstnanců před riziky spojenými s expozicí azbestu při práci. 
+ Směrnice Evropského parlamentu a Rady (EU) 2024/869 ze dne 13. března 2024, kterou se mění směrnice Evropského parlamentu a Rady 2004/37/ES a směrnice Rady 98/24/ES, pokud jde o limitní hodnoty olova a jeho anorganických sloučenin a diisokyanátů.
+
+<sup>2</sup>) Například nařízení vlády č. 361/2007 Sb., kterým se stanoví podmínky ochrany zdraví při práci, ve znění pozdějších předpisů, nařízení vlády č. 272/2011 Sb., o ochraně zdraví před nepříznivými účinky hluku a vibrací, nařízení vlády č. 1/2008 Sb., o ochraně zdraví před neionizujícím zářením, ve znění nařízení vlády č. 106/2010 Sb.
+
+<sup>10</sup>) Nařízení vlády č. 361/2007 Sb., kterým se stanoví podmínky ochrany zdraví při práci, ve znění pozdějších předpisů.
+
+<sup>12</sup>) Nařízení vlády č. 272/2011 Sb., o ochraně zdraví před nepříznivými účinky hluku a vibrací.
+
+<sup>13</sup>) Nařízení vlády č. 291/2015 Sb., o ochraně zdraví před neionizujícím zářením.
+
+<sup>14</sup>) Zákon č. 309/2006 Sb., kterým se upravují další požadavky bezpečnosti a ochrany zdraví při práci v pracovněprávních vztazích a o zajištění bezpečnosti a ochrany zdraví při činnosti nebo poskytování služeb mimo pracovněprávní vztahy (zákon o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci), ve znění pozdějších předpisů.

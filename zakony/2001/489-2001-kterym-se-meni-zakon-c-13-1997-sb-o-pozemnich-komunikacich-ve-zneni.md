@@ -1,0 +1,52 @@
+---
+title: "Zákon č. 489/2001 Sb., kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů"
+identifier: "489/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/489/2001-12-31"
+type: act
+jurisdiction: cz
+language: cs
+date: 2001-12-18
+effective: 2001-12-31
+last_amended: 2001-12-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/489"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 489/2001 Sb., kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů
+
+489
+
+ZÁKON
+
+ze dne 18. prosince 2001,
+
+kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění zákona č. 102/2000 Sb. a zákona č. 132/2000 Sb., se mění takto:
+
+1\. V § 9 odst. 2 se slova „vlastnických práv ve věcech“ nahrazují slovy „práv a povinností státu jako vlastníka“.
+
+2\. V § 9 se za odstavec 2 vkládá nový odstavec 3, který včetně poznámky pod čarou č. 2b) zní:
+
+> „(3) Ministerstvo dopravy a spojů po projednání s Ministerstvem financí může na dobu určitou, nejdéle na dobu 30 let, smluvně převést výkon některých práv a povinností státu jako vlastníka dálnic na právnickou osobu vybranou postupem podle zákona o zadávání veřejných zakázek<sup>2b</sup>) za cenu sjednanou v souladu s cenovými předpisy<sup>2a</sup>) a splatnou způsobem sjednaným ve smlouvě.
+
+> <sup>2b</sup>) Zákon č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů.“.
+
+Dosavadní odstavec 3 se označuje jako odstavec 4.
+
+3\. V § 44 odst. 1 se doplňuje tato věta: „Obecné předpisy o správním řízení<sup>19</sup>) se nevztahují na řízení podle § 25 odst. 8, 9, 10 a 11 a § 31 odst. 6 a 7.“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

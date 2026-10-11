@@ -1,0 +1,50 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 311/1990 Sb., kterou se doplňuje vyhláška č. 161/1976 Sb., kterou se provádí zákon o dani ze mzdy, ve znění vyhlášky č. 14/1982 Sb. a vyhlášky č. 86/1984 Sb."
+identifier: "311/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/311/1990-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1990-07-30
+effective: 1990-08-01
+last_amended: 1990-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/311"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 311/1990 Sb., kterou se doplňuje vyhláška č. 161/1976 Sb., kterou se provádí zákon o dani ze mzdy, ve znění vyhlášky č. 14/1982 Sb. a vyhlášky č. 86/1984 Sb.
+
+311
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 30. července 1990,
+
+kterou se doplňuje vyhláška č. 161/1976 Sb., kterou se provádí zákon o dani ze mzdy, ve znění vyhlášky č. 14/1982 Sb. a vyhlášky č. 86/1984 Sb.
+
+Federální ministerstvo financí stanoví v dohodě s ministerstvem financí České republiky a ministerstvem financí a cen Slovenské republiky podle § 22 odst. 3 zákona č. 76/1952 Sb., o dani ze mzdy, ve znění článku I zákona č. 71/1957 Sb.:
+
+## Čl. I
+
+Vyhláška federálního ministerstva financí, ministerstva financí České socialistické republiky a ministerstva financí Slovenské socialistické republiky č. 161/1976 Sb., kterou se provádí zákon o dani ze mzdy, ve znění vyhlášky č. 14/1982 Sb. a vyhlášky č. 86/1984 Sb., se doplňuje takto:
+
+V § 6 se za odstavec 13 doplňuje odstavec 14, který zní:
+
+> „(14) Odstupné poskytované podle příslušného předpisu<sup>x</sup>) pracovníkům uvolňovaným v souvislosti s prováděním organizačních změn nebo racionalizačních opatření se zdaňuje odděleně od jejich ostatní mzdy, a to paušální sazbou ve výši 15 %.“.
+
+> Dosavadní odstavec 14 se označuje jako odstavec 15.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. srpna 1990.
+
+Ministr:
+
+Ing. Klaus CSc. v. r.
+
+---
+
+<sup>x</sup>) Vyhláška federálního ministerstva práce a sociálních věcí č. 195/1989 Sb., o zabezpečení pracovníků při organizačních změnách a občanů před nástupem do zaměstnání, ve znění zákona č. 162/1990 Sb. a vyhlášky č. 312/1990 Sb.

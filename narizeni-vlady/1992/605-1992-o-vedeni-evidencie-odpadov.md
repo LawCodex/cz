@@ -1,0 +1,151 @@
+---
+title: "Nařízení vlády Slovenskej republiky č. 605/1992 Sb., o vedení evidencie odpadov"
+identifier: "605/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/605/1993-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1992-09-22
+effective: 1993-01-01
+last_amended: 1993-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/605"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády Slovenskej republiky č. 605/1992 Sb., o vedení evidencie odpadov
+
+605
+
+NARIADENIE VLÁDY
+
+Slovenskej republiky
+
+z 22. septembra 1992
+
+o vedení evidencie odpadov
+
+Vláda Slovenskej republiky podľa § 13 písm. a) zákona č. 238/1991 Zb. o odpadoch nariaďuje:
+
+**Základné ustanovenia**
+
+## § 1
+
+Pre účely vedenia evidencie odpadov sa odpady zaraďujú do kategórií a druhov podľa Kategorizácie a katalógu odpadov.<sup>1</sup>)
+
+## § 2
+
+(1) Evidenciu odpadov vedú:
+
+a) pôvodca odpadov,<sup>2</sup>)
+
+b) právnická alebo fyzická osoba oprávnená na zber, výkup alebo úpravu odpadov,<sup>3</sup>)
+
+c) prevádzkovateľ zariadenia na zneškodňovanie odpadov (ďalej len „prevádzkovateľ“),<sup>4</sup>)
+
+d) prepravca a dopravca pri preprave odpadov.<sup>5</sup>)
+
+(2) Evidencia odpadov podľa § 3 až 5 tohto nariadenia sa nevedie, ak ročné množstvo odpadu neprekročilo
+
+a) 100 kg nebezpečného odpadu s výnimkou nebezpečných odpadov uvedených v prílohe tohto nariadenia,
+
+b) 1 tonu zvláštneho odpadu,
+
+c) 10 ton ostatného odpadu.
+
+## § 3 – Evidenčný list o odpadoch
+
+Právnické a fyzické osoby uvedené v § 2 písm. a) až c) tohto nariadenia vedú a spracúvajú za kalendárny rok na osobitnom tlačive evidenčný list o odpadoch.<sup>6</sup>)
+
+## § 4 – Hlásenie o vzniku a nakladaní so zvláštnym a nebezpečným odpadom
+
+(1) Pôvodca zvláštneho odpadu a právnická alebo fyzická osoba oprávnená na zber, výkup alebo úpravu zvláštnych odpadov vypracúva za kalendárny rok na osobitnom tlačive hlásenie o vzniku a nakladaní so zvláštnym a nebezpečným odpadom (ďalej len „hlásenie“)<sup>7</sup>) a zasiela ho príslušnému obvodnému úradu životného prostredia najneskôr do 31. januára nasledujúceho kalendárneho roku.<sup>8</sup>)
+
+(2) Prevádzkovateľ a prepravca a dopravca vypracúva a zasiela hlásenie podľa odseku 1 len o nebezpečných odpadoch.<sup>9</sup>)
+
+## § 5 – Sprievodný list nebezpečných odpadov
+
+(1) Právnické a fyzické osoby uvedené v § 2 písm. a) až d) tohto nariadenia vyhotovujú pri preprave nebezpečných odpadov na osobitnom tlačive sprievodný list nebezpečných odpadov (ďalej len „sprievodný list“)<sup>10</sup>) a o vyhotovených sprievodných listoch vedú evidenciu.
+
+(2) Sprievodný list je neoddeliteľnou súčasťou prepravných dokladov, vedených osobami uvedenými v odseku 1 podľa osobitných predpisov.<sup>11</sup>)
+
+(3) Evidencia vedená prepravcom a dopravcom podľa osobitných predpisov<sup>11</sup>) nie je týmto nariadením dotknutá.
+
+## § 6 – Registračný list skládky odpadov
+
+(1) Prevádzkovateľ skládky odpadov vedie na osobitnom tlačive registračný list skládky odpadov.<sup>12</sup>) Súčasťou registračného listu skládky je zoznam druhov odpadov, ktorých skládkovanie je na skládke povolené.
+
+(2) Registračný list skládky odpadov prevádzkovateľ zašle obvodnému úradu životného prostredia, ktorý vydal súhlas na prevádzkovanie skládky,<sup>13</sup>) najneskôr do 31. januára kalendárneho roka nasledujúceho po dni začatia prevádzkovania skládky a aktualizuje ho každoročne najneskôr do 31. januára.
+
+## § 7 – Prechodné ustanovenia
+
+(1) Ustanovenia § 6 tohto nariadenia sa použije aj na vedenie evidencie skládok odpadov založených pred účinnosťou zákona o odpadoch s tým, že prevádzkovateľ zašle vyhotovený registračný list skládky odpadov príslušnému obvodnému úradu životného prostredia najneskôr do 31. januára 1994.
+
+(2) Ak prevádzkovateľ skládky nie je známy, lehota na zaslanie registračného listu skládky odpadov uplynie po 6 mesiacoch odo dňa určenia prevádzkovateľa skládky;<sup>14</sup>) táto lehota však neuplynie skôr ako lehota uvedená v odseku 1.
+
+## § 8 – Účinnosť
+
+Toto nariadenie nadobúda účinnosť 1. januárom 1993.
+
+Mečiar v. r.
+
+### Príloha nariadenia vlády SR č. 605/1992 Zb.
+
+#### Zoznam vybraných nebezpečných odpadov
+
+| č. | Názov druh odpadu | kód<sup>1</sup>) |
+|---|---|---|
+| 1. | Odpad ortuti, zvyšky obsahujúce ortuť, ortuťové výbojky a žiarivky | 35326 |
+| 2. | Kal z galvanovní s obsahom kyanidov | 51101 |
+| 3. | Kal z galvanovní s obsahom šesťmocného chrómu | 51102 |
+| 4. | Odpadová kaliarenská soľ s obsahom kyanidov | 51533 |
+| 5. | Odpadové koncentráty s obsahom šesťmocného chrómu | 52712 |
+| 6. | Kal s obsahom kyanidov po spracovaní zemných olejov a zušľachťovaní uhlia | 54923 |
+| 7. | Odpadový etylénchlorid (1,2-dichlóretán) | 55201 |
+| 8. | Odpadové chlórbenzény | 55202 |
+| 9. | Odpadový chloroform (trichlórmetán) | 55203 |
+| 10. | Odpadový metylénchlorid (dichlórmetán) | 55206 |
+| 11. | Odpadový monochlórfenol | 55207 |
+| 12. | Odpadové chlórované parafíny | 55208 |
+| 13. | Odpadový perchlóretylén (tetrachlóretylén) | 55209 |
+| 14. | Odpadový tetrachlórmetán | 55211 |
+| 15. | Odpadový trichlóretán | 55212 |
+| 16. | Odpadový trichlóretylén | 55213 |
+| 17. | Odpadové čistiace prostriedky (čistenie za studena) | 55214 |
+| 18. | Odpadové zmesi rozpúšťadiel s obsahom halogenovaných organických rozpúšťadiel | 55220 |
+| 19. | Kal s obsahom halogenovaných rozpúšťadiel | 55401 |
+| 20. | Odpadové zmäkčovadlá s halogenovanými organickými zložkami | 57201 |
+| 21. | Kal s obsahom plastov a halogenovaných rozpúšťadiel | 57305 |
+| 22. | Polychlórované bifenyly a terfenyly (PCB a PCT) | 59901 |
+
+---
+
+<sup>1</sup>) Opatrenie Federálneho výboru pre životné prostredie, ktorým sa vyhlasuje Kategorizácia a katalóg odpadov, vyhlásené v čiastke 69/1991 Zb.
+
+<sup>2</sup>) § 2 ods. 7, § 5 ods. 1 písm. g) zákona č. 238/1991 Zb. o odpadoch.
+
+<sup>3</sup>) § 7 ods. 2 písm. c) zákona č. 238/1991 Zb.
+
+<sup>4</sup>) § 8 ods. 2 písm. c) zákona č. 238/1991 Zb.
+
+<sup>5</sup>) § 6 ods. 1 písm. b) zákona č. 238/1991 Zb.
+
+<sup>6</sup>) Tlačivo ŠEVT 01 300 0 (MŽP SR).
+
+<sup>7</sup>) Tlačivo ŠEVT 01 301 0 (MŽP SR).
+
+<sup>8</sup>) § 5 ods. 1 písm. d) a § 7 ods. 2 písm. c) zákona č. 238/1991 Zb.
+
+<sup>9</sup>) § 8 ods. 2 písm. d) a § 6 ods. 1 písm. c) zákona č. 238/1991 Zb.
+
+<sup>10</sup>) Tlačivo ŠEVT 01 304 0 (MŽP SR).
+
+<sup>11</sup>) Napr. zákon č. 68/1979 Zb. o cestnej doprave a vnútroštátnom zasielateľstve v znení zákona č. 118/1990 Zb.
+
+<sup>12</sup>) Tlačivo ŠEVT 01 303 0 (MŽP SR).
+
+<sup>13</sup>) § 5 ods. 1 písm. a) zákona SNR č. 494/1991 Zb. o štátnej správe v odpadovom hospodárstve.
+
+<sup>14</sup>) § 17 ods. 2 zákona SNR č. 494/1991 Zb.
+
+<sup>1</sup>) Kód druhu odpadu podľa opatrenia Federálneho výboru pre životné prostredie, ktorým sa vyhlasuje Kategorizácia a katalóg odpadov, vyhlásené v čiastke 69/1991 Zb.

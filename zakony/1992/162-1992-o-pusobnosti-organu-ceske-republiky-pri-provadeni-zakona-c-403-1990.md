@@ -1,0 +1,96 @@
+---
+title: "Zákon České národní rady č. 162/1992 Sb., o působnosti orgánů České republiky při provádění zákona č. 403/1990 Sb., o zmírnění následků některých majetkových křivd, ve znění zákonů č. 458/1990 Sb., č. 528/1990 Sb. a č. 137/1991 Sb."
+identifier: "162/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/162/2006-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1992-03-20
+effective: 1992-04-01
+last_amended: 2006-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/162"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon České národní rady č. 162/1992 Sb., o působnosti orgánů České republiky při provádění zákona č. 403/1990 Sb., o zmírnění následků některých majetkových křivd, ve znění zákonů č. 458/1990 Sb., č. 528/1990 Sb. a č. 137/1991 Sb. ve znění zákona č. 320/2002 Sb. a zákona č. 179/2005 Sb."
+---
+
+# Zákon České národní rady č. 162/1992 Sb., o působnosti orgánů České republiky při provádění zákona č. 403/1990 Sb., o zmírnění následků některých majetkových křivd, ve znění zákonů č. 458/1990 Sb., č. 528/1990 Sb. a č. 137/1991 Sb.
+
+162
+
+ZÁKON
+
+České národní rady
+
+ze dne 20. března 1992
+
+o působnosti orgánů České republiky při provádění zákona č. 403/1990 Sb., o zmírnění následků některých majetkových křivd, ve znění zákonů č. 458/1990 Sb., č. 528/1990 Sb. a č. 137/1991 Sb.
+
+Česká národní rada se usnesla na tomto zákoně:
+
+**Vrácení kupní ceny a úhrady za zřízení práva osobního užívání pozemku**
+
+## § 1
+
+Ústředním orgánem státní správy České republiky, u něhož se uplatňuje nárok podle § 15 odst. 1 zákona č. 403/1990 Sb., o zmírnění následků některých majetkových křivd, ve znění zákonů č. 458/1990 Sb., č. 528/1990 Sb. a č. 137/1991 Sb. (dále jen „zákon“), je ministerstvo pro správu národního majetku a jeho privatizaci České republiky (dále jen „ministerstvo“).
+
+## § 2
+
+K uplatnění nároku na vrácení kupní ceny a úhrady za zřízení práva osobního užívání pozemku připojí povinná osoba<sup>1</sup>) doklad o výši kupní ceny a úhrady za zřízení práva osobního užívání pozemku a doklad o vydání věci oprávněné osobě.
+
+## § 3
+
+(1) Při vyřizování uplatněného nároku poskytují krajské úřady, obecní úřady, katastrální úřad a archivy ministerstvu potřebnou součinnost.
+
+(2) Orgány uvedené v odstavci 1 jsou povinny provést požadované šetření a předložit spisy stanovené v dožádání ministerstva. Dožádání jsou povinny vyhovět nejpozději do 30 dnů ode dne jeho doručení, pokud ministerstvo nestanoví lhůtu delší.
+
+## § 4
+
+Pro zajištění peněžní částky, kterou je oprávněná osoba povinna uhradit podle § 10 odst. 3 zákona, vázne na vydané věci zástavní právo.
+
+**Uplatnění nároku České republiky na vydání věci**
+
+## § 5
+
+(1) Pro uplatnění nároku České republiky na vydání věci podle § 23a zákona je příslušný Úřad pro zastupování státu ve věcech majetkových podle zvláštního právního předpisu.<sup>1a</sup>)
+
+(2) Povinnou osobou<sup>2</sup>) pro účely tohoto ustanovení nejsou organizační složky státu a státní organizace.
+
+## § 6
+
+(1) Úřad pro zastupování státu ve věcech majetkových zjišťuje věci, kterých se týká nárok České republiky na vydání podle § 23a zákona, v součinnosti s krajskými úřady, obecními úřady i fyzickými a právnickými osobami.
+
+(2) Nevydá-li povinná osoba věc dobrovolně, domáhá se Úřad pro zastupování státu ve věcech majetkových jejího vydání v občanském soudním řízení.
+
+## § 7
+
+S věcí vydanou České republice se naloží podle zvláštních předpisů.<sup>3</sup>)
+
+## § 8
+
+Výnos z prodeje věcí, které Česká republika nabyla do svého vlastnictví podle § 23a, je ve výši 80 % příjmem státního rozpočtu a ve výši 20 % příjmem rozpočtu obce a v hlavním městě Praze městské části, v jejímž územním obvodu se věc nachází.
+
+**Ustanovení společná a závěrečná**
+
+## § 9
+
+Působnosti stanovené krajskému úřadu nebo obecnímu úřadu podle tohoto zákona jsou výkonem přenesené působnosti.
+
+## § 10
+
+Tento zákon nabývá účinnosti dnem 1. dubna 1992.
+
+Burešová v. r.
+
+Pithart v. r.
+
+---
+
+<sup>1</sup>) § 4 odst. 2 zákona č. 403/1990 Sb., o zmírnění následků některých majetkových křivd, ve znění zákonů č. 458/1990 Sb., č. 528/1990 Sb. a č. 137/1991 Sb.
+
+<sup>1a</sup>) Zákon č. 201/2002 Sb., o Úřadu pro zastupování státu ve věcech majetkových.
+
+<sup>2</sup>) § 4 zákona č. 403/1990 Sb., ve znění zákonů č. 458/1990 Sb., č. a 137/1991 Sb., č. 528/1990 Sb.
+
+<sup>3</sup>) Vyhláška č. 61/1986 Sb., o prozatímní správě národního majetku. 
+ Vyhláška č. 119/1988 Sb., o hospodaření s národním majetkem.

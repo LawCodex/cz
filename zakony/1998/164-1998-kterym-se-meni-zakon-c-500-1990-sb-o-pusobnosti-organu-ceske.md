@@ -1,0 +1,52 @@
+---
+title: "Zákon č. 164/1998 Sb., kterým se mění zákon č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby, ve znění pozdějších předpisů"
+identifier: "164/1998 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1998/164/1998-07-13"
+type: act
+jurisdiction: cz
+language: cs
+date: 1998-06-11
+effective: 1998-07-13
+last_amended: 1998-07-13
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1998/164"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 164/1998 Sb., kterým se mění zákon č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby, ve znění pozdějších předpisů
+
+164
+
+ZÁKON
+
+ze dne 11. června 1998,
+
+kterým se mění zákon č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby, ve znění zákona č. 438/1991 Sb., zákona č. 282/1992 Sb., zákona č. 473/1992 Sb., zákona č. 170/1993 Sb., zákona č. 155/1994 Sb., zákona č. 191/1994 Sb., zákona č. 218/1994 Sb. a zákona č. 161/1997 Sb., se mění takto:
+
+1\. V § 15 odst. 2 se na konci písmene l) tečka nahrazuje čárkou a doplňují se písmena m) a n), která znějí:
+
+> „m) k převodu 5,48 mld Kč na zvláštní účet státních finančních aktiv ke krytí nezbytných výdajů vyvolaných zánikem věcných břemen váznoucích na majetku vydaném oprávněným osobám a ke krytí nezbytných výdajů souvisejících s náhradou za majetek státu sloužící účelům výzkumu a vývoje vydaný oprávněným osobám, v tomto členění: Ministerstvo práce a sociálních věcí 2,75 mld Kč,Ministerstvo školství, mládeže a tělovýchovy 2,293 mld Kč, Ministerstvo kultury 0,324 mld Kč, Ministerstvo zdravotnictví 0,113 mld Kč,
+
+> n) k převodu 4 mld Kč na zvláštní účet státních finančních aktiv k navýšení dosud vyčleněných finančních prostředků na krytí nezbytných výdajů v souvislosti s obnovou budov, infrastruktury, telekomunikačních sítí, vodních toků a vodohospodářských zařízení poškozených nebo zničených v důsledku povodňové katastrofy v roce 1997 a na krytí dalších škod s ní souvisejících.“.
+
+2\. V § 15 se za odstavec 3 vkládá nový odstavec 4, který zní:
+
+> „(4) Vláda České republiky o použití prostředků, včetně skutečných nákladů na konkrétní akce podle odstavce 2 písm. l) až n), informuje Poslaneckou sněmovnu Parlamentu České republiky nejméně jedenkrát ročně, poprvé za rok 1998.“.
+
+Dosavadní odstavce 4 až 6 se označují jako odstavce 5 až 7.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Zeman v. r.
+
+Havel v. r.
+
+Tošovský v. r.

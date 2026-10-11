@@ -1,0 +1,58 @@
+---
+title: "Zákon č. 169/1993 Sb., kterým se doplňuje zákon České národní rady č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona České národní rady č. 425/1990 Sb. a zákona České národní rady č. 542/1991 Sb."
+identifier: "169/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/169/1993-06-22"
+type: act
+jurisdiction: cz
+language: cs
+date: 1993-05-18
+effective: 1993-06-22
+last_amended: 1993-06-22
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/169"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 169/1993 Sb., kterým se doplňuje zákon České národní rady č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona České národní rady č. 425/1990 Sb. a zákona České národní rady č. 542/1991 Sb.
+
+169
+
+ZÁKON
+
+ze dne 18. května 1993,
+
+kterým se doplňuje zákon České národní rady č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona České národní rady č. 425/1990 Sb. a zákona České národní rady č. 542/1991 Sb.
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon České národní rady č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona České národní rady č. 425/1990 Sb. a zákona České národní rady č. 542/1991 Sb., se doplňuje takto:
+
+1\. V § 10 odst. 2 se na konci doplňují nové věty, které znějí: „Součástí plánu otvírky, přípravy a dobývání je vyčíslení předpokládaných nákladů na vypořádání očekávaných důlních škod a na sanaci a rekultivaci pozemků dotčených vlivem dobývání výhradního ložiska. Současně musí být předložen návrh na vytvoření potřebných finančních rezerv a návrh na časový průběh jejich vytvoření.<sup>8a</sup>)“.
+
+Poznámka č. 8a) zní:
+
+> „<sup>8a</sup>) § 31 odst. 6 a § 37a zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona České národní rady č. 541/1991 Sb. a zákona České národní rady č. 10/1993 Sb.“.
+
+2\. V § 41 odst. 2 se za písmeno b) vkládá nové písmeno c), které zní:
+
+> „c) schvalují v rámci povolování otvírky, přípravy a dobývání výhradních ložisek návrh na vytvoření finančních rezerv pro vypořádání důlních škod a na sanaci a rekultivaci pozemků dotčených vlivem dobývání<sup>8a</sup>) a rozhodují o jejich čerpání,“.
+
+Dosavadní písmena c) až k) se označují jako písmena d) až l).
+
+3\. V § 41 odst. 2 se za písmeno k) vkládá nové písmeno l), které zní:
+
+> „l) kontrolují v pravidelných intervalech vytváření finančních rezerv pro vypořádání důlních škod a pro sanaci a rekultivaci pozemků dotčených vlivy dobývání výhradních ložisek. O průběhu těchto kontrol vedou evidenci,“.
+
+Dosavadní písmeno l) se označuje jako písmeno m).
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.

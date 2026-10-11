@@ -1,0 +1,108 @@
+---
+title: "Nariadenie vlády Slovenskej republiky č. 233/1990 Sb., ktorým sa ustanovujú odchýlky od Zákonníka práce pre pracovníkov v osobitnom zapojení"
+identifier: "233/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/233/1990-07-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1990-05-16
+effective: 1990-07-01
+last_amended: 1990-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/233"
+retrieved: 2026-10-11
+---
+
+# Nariadenie vlády Slovenskej republiky č. 233/1990 Sb., ktorým sa ustanovujú odchýlky od Zákonníka práce pre pracovníkov v osobitnom zapojení
+
+233
+
+NARIADENIE VLÁDY
+
+Slovenskej republiky
+
+zo 16. mája 1990,
+
+ktorým sa ustanovujú odchýlky od Zákonníka práce pre pracovníkov v osobitnom zapojení
+
+Vláda Slovenskej republiky podľa § 267 ods. 5 Zákonníka práce po prerokovaní s príslušnými odborovými orgánmi a Slovenským Roľníckym družstevným zväzom nariaďuje:
+
+**Dohoda o osobitnom zapojení**
+
+## § 1
+
+Organizácia môže s pracovníkom uzavrieť dohodu o osobitnom zapojení.
+
+**Postup pri určení mzdy**
+
+## § 2
+
+(1) Pracovníkom v osobitnom zapojení<sup>1</sup>) (ďalej len „pracovník“) určí organizácia mzdu na základe ich tržieb. Organizácia súčasne určí minimálne mesačné odvody jednotlivých pracovníkov na základe kalkulácie vlastných nákladov a ďalších zložiek ceny výkonu.<sup>2</sup>)
+
+(2) Pri vyššom mesačnom odvode patrí pracovníkovi mzda podľa vnútorných mzdových predpisov a kolektívnych zmlúv organizácie.
+
+(3) Mesačný odvod sa pomerne zníži za dobu dovolenky na zotavenie a celodenných prekážok v práci<sup>3</sup>) a za sviatok, pokiaľ nepripadá na deň nepretržitého odpočinku v týždni.
+
+(4) Nárok na mzdu vzniká pracovníkovi po splnení mesačnej odvodovej povinnosti.
+
+**Odmeňovanie prestojov**
+
+## § 3
+
+Pri prestojoch<sup>4</sup>) kratších ako jeden deň alebo jednu smenu nepatrí pracovníkom náhrada mzdy.
+
+**Náhrada mzdy za dôležité osobné prekážky v práci**
+
+## § 4
+
+(1) Pri dôležitých osobných prekážkach v práci<sup>5</sup>) kratších ako jeden deň alebo jednu smenu pracovníkom nepatrí náhrada mzdy.
+
+(2) Ak sa organizácia a pracovník dohodli na rozsahu a rozvrhnutí pracovného času (§ 7), poskytuje sa pracovníkovi náhrada mzdy aj pri dôležitých osobných prekážkach v práci kratších ako jeden deň, pokiaľ nevyhnutne zasiahli do tohto pracovného času.
+
+## § 5
+
+Za celodennú prekážku v práci sa považuje prekážka, ktorá trvá po dobu zodpovedajúcu priemernej dĺžke pracovnej smeny vyplývajúcej z určeného týždenného pracovného času pracovníka.
+
+**Práca nadčas a príplatky za prácu vo sviatok**
+
+## § 6
+
+(1) Na pracovníkov sa nevzťahujú ustanovenia Zákonníka práce o práci nadčas.<sup>6</sup>)
+
+(2) Pracovníkom nepatrí príplatok za prácu vo sviatok.<sup>7</sup>)
+
+**Podrobnosti o pracovných podmienkach**
+
+## § 7
+
+Organizácia a pracovník si môžu dohodnúť v pracovnej zmluve rozsah a rozvrhnutie pracovného času, ktorý pracovník odpracuje v určenom pracovnom čase, ako aj to, ktoré dni v týždni sa budú pre účely náhrady mzdy za sviatok považovať za dni nepretržitého odpočinku v týždni.
+
+**Zrušovacie ustanovenie**
+
+## § 8
+
+Zrušujú sa smernice Ministerstva vnútra Slovenskej socialistickej republiky a Ministerstva financií Slovenskej socialistickej republiky zo 4. 2. 1970 č. MH-78/1970 a MF 3/266/1970 na vykonávanie činnosti formou osobitného zapojenia pracovníkov v podnikoch miestneho priemyslu a komunálnych služieb, registrované v čiastke 27/1970 Zb.
+
+**Účinnosť**
+
+## § 9
+
+Toto nariadenie nadobúda účinnosť 1. júlom 1990.
+
+M. Čič v. r.
+
+---
+
+<sup>1</sup>) § 267 ods. 4 Zákonníka práce.
+
+<sup>2</sup>) § 6 až 10 vyhlášky Federálneho ministerstva financií č. 21/1990 Zb. o kalkulácii.
+
+<sup>3</sup>) § 124 až 130 Zákonníka práce.
+
+<sup>4</sup>) § 129 Zákonníka práce.
+
+<sup>5</sup>) § 127 a 128 Zákonníka práce.
+
+<sup>6</sup>) § 96 až 98 Zákonníka práce a § 116 Zákonníka práce.
+
+<sup>7</sup>) § 117 ods. 1 Zákonníka práce.

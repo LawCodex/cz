@@ -1,0 +1,64 @@
+---
+title: "Vyhláška Státní arbitráže Československé socialistické republiky č. 180/1989 Sb., o změně vyhlášky č. 91/1981 Sb., kterou se vydávají základní podmínky dodávky zeleniny a ovoce mezi organizacemi vnitřního obchodu a pro průmyslové zpracování"
+identifier: "180/1989 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1989/180/1990-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1989-11-17
+effective: 1990-01-01
+last_amended: 1990-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1989/180"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Státní arbitráže Československé socialistické republiky č. 180/1989 Sb., o změně vyhlášky č. 91/1981 Sb., kterou se vydávají základní podmínky dodávky zeleniny a ovoce mezi organizacemi vnitřního obchodu a pro průmyslové zpracování
+
+180
+
+VYHLÁŠKA
+
+Státní arbitráže Československé socialistické republiky
+
+ze dne 17. listopadu 1989
+
+o změně vyhlášky č. 91/1981 Sb., kterou se vydávají základní podmínky dodávky zeleniny a ovoce mezi organizacemi vnitřního obchodu a pro průmyslové zpracování
+
+Státní arbitráž Československé socialistické republiky na základě návrhů ministerstva obchodu a cestovního ruchu České socialistické republiky a ministerstva obchodu a cestovního ruchu Slovenské socialistické republiky a po projednání se zúčastněnými ústředními orgány stanoví podle § 392 odst. 2 hospodářského zákoníku č. 109/1964 Sb., v úplném znění vyhlášeném pod č. 80/1989 Sb.:
+
+## Čl. I
+
+Vyhláška Státní arbitráže Československé socialistické republiky č. 91/1981 Sb., kterou se vydávají základní podmínky dodávky zeleniny a ovoce mezi organizacemi vnitřního obchodu a pro průmyslové zpracování, se mění takto:
+
+1\. Z názvu vyhlášky se vypouštějí slova „a pro průmyslové zpracování“.
+
+2\. V § 1 odst. 1 se vypouští písmeno b).
+
+3\. V § 3 odst. 1 se vypouštějí slova „a § 16 odst. 1“.
+
+4\. § 5 se vypouští.
+
+5\. V § 6 se vypouští odstavec 1 a z odstavce 2 se vypouštějí slova „a 17“; zároveň se zrušuje číslování odstavců. Z nadpisu pod § 6 se vypouštějí slova „Prověřování plnění a“.
+
+6\. § 7 se vypouští.
+
+7\. § 8 se vypouští.
+
+8\. § 12 odst. 2 zní:
+
+> „(2) Organizace se dohodnou, koho zmocní k podání posudku o jakosti a o rozdílech dodaného množství.“.
+
+Poznámka č. 2 pod čarou se vypouští.
+
+9\. § 12 odst. 3 první věta zní: „V případě nepřítomnosti dodavatele při splnění dodávky je odběratel povinen učinit oznámení o rozdílech oproti stavu, který uvedl dodavatel v průvodních dokladech, a o vadách telefonicky, telegraficky nebo dálnopisem.“.
+
+10\. Část třetí se vypouští. Poznámky č. 3 a 4 pod čarou se vypouštějí.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 1990.
+
+Hlavní arbitr Československé socialistické republiky:
+
+Vaněk v. r.

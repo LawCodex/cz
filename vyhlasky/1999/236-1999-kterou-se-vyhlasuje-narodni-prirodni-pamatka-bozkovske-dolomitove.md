@@ -1,0 +1,101 @@
+---
+title: "Vyhláška Ministerstva životního prostředí č. 236/1999 Sb., kterou se vyhlašuje národní přírodní památka Bozkovské dolomitové jeskyně a stanoví její bližší ochranné podmínky"
+identifier: "236/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/236/2005-05-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1999-10-05
+effective: 1999-11-25
+last_amended: 2005-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/236"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva životního prostředí č. 236/1999 Sb., kterou se vyhlašuje národní přírodní památka Bozkovské dolomitové jeskyně a stanoví její bližší ochranné podmínky ve znění vyhlášky č. 165/2005 Sb."
+---
+
+# Vyhláška Ministerstva životního prostředí č. 236/1999 Sb., kterou se vyhlašuje národní přírodní památka Bozkovské dolomitové jeskyně a stanoví její bližší ochranné podmínky
+
+236
+
+VYHLÁŠKA
+
+Ministerstva životního prostředí
+
+ze dne 5. října 1999,
+
+kterou se vyhlašuje národní přírodní památka Bozkovské dolomitové jeskyně a stanoví její bližší ochranné podmínky
+
+Ministerstvo životního prostředí stanoví podle § 79 odst. 3 písm. b) se zřetelem na § 35 odst. 1 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, (dále jen „zákon“):
+
+## § 1 – Vyhlášení národní přírodní památky Bozkovské dolomitové jeskyně
+
+(1) Vyhlašuje se národní přírodní památka Bozkovské dolomitové jeskyně a její bližší ochranné podmínky (dále jen „národní přírodní památka“).
+
+(2) Předmětem ochrany je krasové území s komplexem Bozkovských dolomitových jeskyní a všemi dalšími krasovými jevy.
+
+## § 2 – Vymezení národní přírodní památky
+
+(1) Národní přírodní památka se rozkládá v okrese Semily v katastrálním území Bozkov na pozemkových parcelách č. 853, 854, 857, 858, 859/1, 859/2, 859/3, 861/2, 865, 866, 867, 868, 869/1, 869/2, 869/3, 870, 872, 905/1, 905/2, 905/3, 905/4, 905/5, 906, 907/1, 907/2, 908, 909, 913/3, 915/1, 915/2, 1823/1 (část), 1825/1, 1826/1 (část), 1826/3, 1827 (část), 1828 a na stavebních parcelách č. 403, 404 a 405.
+
+(2) Mapový podklad, v němž je zakresleno území národní přírodní památky, je kromě evidence v ústředním seznamu ochrany přírody<sup>1</sup>) uložen na Ministerstvu životního prostředí, na Okresním úřadě Semily a na Obecním úřadě Bozkov.
+
+(3) Hranice národní přírodní památky jsou vyznačeny v příloze k této vyhlášce.
+
+## § 3 – Bližší ochranné podmínky pro národní přírodní památku
+
+(1) V souladu s ustanovením § 35 odst. 2 a § 44 odst. 2 zákona se stanoví, že jen se souhlasem příslušného orgánu ochrany přírody<sup>2</sup>) lze:
+
+a) provozovat pro veřejnost zpřístupněné části Bozkovských jeskyní,<sup>3</sup>)
+
+b) provádět výzkumnou činnost, jež nezpůsobí změny či poškozování národní přírodní památky,<sup>4</sup>)
+
+c) měnit druh pozemku, nevyplývá-li to z plánu péče<sup>5</sup>) o národní přírodní památku,
+
+d) provádět změny staveb a technických zařízení v národní přírodní památce nebo změny jejich provozu či využívání,
+
+e) poskytovat prodejní nebo jiné služby mimo budovy,
+
+f) provádět opravy stávající cestní sítě,
+
+g) vstupovat do veřejnosti nepřístupných jeskyní,
+
+h) provádět geologické práce spojené se zásahem do pozemku,
+
+i) provádět těžební, výchovné nebo pěstební práce v lesích, kde vlastník lesa hospodaří bez schváleného lesního hospodářského plánu nebo bez převzaté lesní hospodářské osnovy,
+
+j) zřizovat deponie dřeva, a to i přechodné.
+
+(2) Je-li ke splnění ochranných podmínek uvedených v odstavci 1 třeba pozemky a stavby vyvlastnit nebo práva k nim omezit, postupuje se podle zvláštních předpisů.<sup>6</sup>)
+
+## § 4 – Ochranné pásmo
+
+Ochranné pásmo národní přírodní památky a činnosti, k nimž je v něm nezbytný souhlas orgánu ochrany přírody, jsou stanoveny zákonem.<sup>7</sup>)
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti třicátým dnem po vyhlášení.
+
+Ministr:
+
+RNDr. Kužvart v. r.
+
+### Příloha k vyhlášce č. 236/1999 Sb.
+
+#### ![sbcr1999c079z0236p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/816945/NAHLED/ZOBRAZ/sbcr1999c079z0236p001o001)
+
+---
+
+<sup>1</sup>) § 42 zákona č. 114/1992 Sb., o ochraně přírody a krajiny.
+
+<sup>2</sup>) § 79 odst. 3 písm. g) zákona č. 114/1992 Sb.
+
+<sup>3</sup>) § 3 písm. f) zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů.
+
+<sup>4</sup>) § 35 odst. 2 zákona č. 114/1992 Sb.
+
+<sup>5</sup>) § 38 zákona č. 114/1992 Sb.
+
+<sup>6</sup>) § 108 odst. 1 a odst. 2 písm. f) zákona č. 50/1976 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů.
+
+<sup>7</sup>) § 37 odst. 1 a 2 zákona č. 114/1992 Sb.

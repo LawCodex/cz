@@ -1,0 +1,76 @@
+---
+title: "Zákon České národní rady č. 26/1993 Sb., kterým se mění a doplňují některé zákony v oblasti vnitřního pořádku a bezpečnosti, a o opatřeních s tím souvisejících"
+identifier: "26/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/26/2009-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1992-12-21
+effective: 1993-01-01
+last_amended: 2009-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/26"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon České národní rady č. 26/1993 Sb., kterým se mění a doplňují některé zákony v oblasti vnitřního pořádku a bezpečnosti, a o opatřeních s tím souvisejících ve znění zákona č. 111/1998 Sb., zákona č. 362/2003 Sb. a zákona č. 274/2008 Sb."
+---
+
+# Zákon České národní rady č. 26/1993 Sb., kterým se mění a doplňují některé zákony v oblasti vnitřního pořádku a bezpečnosti, a o opatřeních s tím souvisejících
+
+26
+
+ZÁKON
+
+České národní rady
+
+ze dne 21. prosince 1992,
+
+kterým se mění a doplňují některé zákony v oblasti vnitřního pořádku a bezpečnosti, a o opatřeních s tím souvisejících
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## Čl. V
+
+(1) Zřizuje se policejní vysoká škola<sup>7</sup>) s názvem Policejní akademie České republiky.
+
+(2) Sídlem Policejní akademie České republiky je Praha.
+
+## Čl. VIII
+
+Zrušují se:
+
+1\. Zákon č. 333/1991 Sb., o Federálním policejním sboru a Sboru hradní policie, a předpisy vydané k jeho provedení.
+
+2\. Zákon č. 334/1991 Sb., o služebním poměru policistů zařazených ve Federálním policejním sboru a Sboru hradní policie, ve znění zákona č. 245/1992 Sb., a předpisy vydané k jeho provedení.
+
+3\. Zákon č. 230/1992 Sb., o Federální železniční policii, a předpisy vydané k jeho provedení.
+
+## Čl. IX
+
+Tento zákon nabývá účinnosti dnem 1. ledna 1993, s výjimkou čl. VIII bodu 3, který nabývá účinnosti dnem 31. prosince 1993.
+
+Uhde v. r.
+
+Klaus v. r.
+
+---
+
+<sup>1</sup>) § 24 zákona ČNR č. 186/1992 Sb., o služebním poměru příslušníků Policie České republiky.
+
+<sup>2</sup>) § 16 zákona ČNR č. 186/1992 Sb.
+
+<sup>3</sup>) Výnos ministerstva vnitra České republiky č. 428/1992 Sb., o náležitostech a náhradách výdajů poskytovaných příslušníkům Policie České republiky v souvislosti s výkonem služby.
+
+<sup>4</sup>) Zákon ČNR č. 186/1992 Sb.
+
+<sup>5</sup>) § 15 a 16 zákona ČNR č. 186/1992 Sb.
+
+<sup>6</sup>) § 114 až 119 zákona ČNR č. 186/1992 Sb., ve znění zákona ČNR č. 26/1993 Sb. 
+ Výnos ministerstva vnitra České republiky č. 428/1992 Sb.
+
+<sup>7</sup>) § 1 až 6 zákona č. 232/1992 Sb., o policejních vysokých školách a o zřízení Policejní akademie.
+
+<sup>1</sup>) Část 1 zákona č. 92/1949 Sb., branný zákon, ve znění pozdějších předpisů (úplné znění č. 331/1992 Sb.).
+
+<sup>2</sup>) Zákon č. 76/1959 Sb., o některých služebních poměrech vojáků, ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 27 zákona č. 92/1949 Sb.

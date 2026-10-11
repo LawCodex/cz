@@ -1,0 +1,90 @@
+---
+title: "Vyhláška Ministerstva životního prostředí č. 192/2000 Sb., kterou se vyhlašuje národní přírodní rezervace Čerchovské hvozdy a stanoví její ochranné pásmo a bližší ochranné podmínky"
+identifier: "192/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/192/2000-08-06"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-06-27
+effective: 2000-08-06
+last_amended: 2000-08-06
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/192"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva životního prostředí č. 192/2000 Sb., kterou se vyhlašuje národní přírodní rezervace Čerchovské hvozdy a stanoví její ochranné pásmo a bližší ochranné podmínky
+
+192
+
+VYHLÁŠKA
+
+Ministerstva životního prostředí
+
+ze dne 27. června 2000,
+
+kterou se vyhlašuje národní přírodní rezervace Čerchovské hvozdy a stanoví její ochranné pásmo a bližší ochranné podmínky
+
+Ministerstvo životního prostředí stanoví podle § 79 odst. 3 písm. b) se zřetelem na § 28 odst. 1 a § 37 odst. 1 zákona č. 114/1992 Sb., o ochraně přírody a krajiny, (dále jen „zákon“):
+
+## § 1 – Vyhlášení národní přírodní rezervace Čerchovské hvozdy
+
+(1) Vyhlašuje se národní přírodní rezervace Čerchovské hvozdy (dále jen „národní přírodní rezervace“) v Českém lese.
+
+(2) Předmětem ochrany jsou zbytky přirozených a přírodě blízkých ekosystémů horských a podhorských smíšených bučin s výskytem zvláště chráněných druhů živočichů a rostlin typických pro oblast Českého lesa.
+
+## § 2 – Vymezení národní přírodní rezervace
+
+(1) Národní přírodní rezervace se rozkládá v okrese Domažlice, a to v katastrálním území Česká Kubice na pozemku parcelní č. 357/41, v katastrálním území Dolní Folmava na pozemku parcelní č. 375/20, v katastrálním území Chodov na pozemku parcelní č. 1845/10 a v katastrálním území Pec na pozemcích parcelní č. 1592/8 a 1592/19. Celková výměra národní přírodní rezervace je 326,9255 ha.
+
+(2) Orientační zákres území národní přírodní rezervace do mapy v měřítku 1 : 50 000 je přílohou č. 1 a zákres části ochranného pásma do katastrální mapy v měřítku 1 : 2880 přílohou č. 2 této vyhlášky.
+
+(3) Katastrální mapy, do nichž je zakresleno území národní přírodní rezervace, jsou kromě evidence v ústředním seznamu ochrany přírody<sup>1</sup>) uloženy na Ministerstvu životního prostředí, na Okresním úřadu Domažlice, na Městském úřadu Domažlice, na Obecním úřadu Česká Kubice, na Obecním úřadu Chodov a na Obecním úřadu Pec.
+
+## § 3 – Bližší ochranné podmínky
+
+V návaznosti na základní ochranné podmínky<sup>2</sup>) se jako bližší ochranné podmínky stanoví, že jen se souhlasem příslušného orgánu ochrany přírody<sup>3</sup>) lze
+
+a) provádět změny druhu pozemků a změny způsobu jejich využití, nevyplývá-li to z plánu péče<sup>4</sup>) o národní přírodní rezervaci,
+
+b) provádět těžební, výchovné nebo pěstební zásahy v lesích, kde vlastník lesa hospodaří bez schváleného lesního hospodářského plánu,
+
+c) provádět geologické práce spojené se zásahem do území,
+
+d) provádět opravy stávajících lesních cest,
+
+e) přikrmovat zvěř, zřizovat myslivecká zařízení s výjimkou jednoduchých posedů,
+
+f) pořádat hromadné veřejné akce, zejména sportovní a turistické.
+
+## § 4 – Ochranné pásmo
+
+Do ochranného pásma stanoveného zákonem,<sup>5</sup>) které slouží k zabezpečení národní přírodní rezervace před rušivými vlivy z okolí, nejsou zahrnuty pozemkové parcely č. 1592/3 a 1592/14 a stavební parcely č. 485, 486, 489, 490 a 491 v katastrálním území Pec, pozemkové parcely č. 375/2, 375/15, 375/16 a stavební parcely č. 217, 233, 236, 237, 375/11, 375/12, 375/13 a 375/14 v katastrálním území Dolní Folmava, které se nacházejí na vrcholu Čerchova.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti třicátým dnem po dni vyhlášení.
+
+Ministr:
+
+RNDr. Kužvart v. r.
+
+### Příloha č. 1
+
+#### ![sbcr2000c060z0192p001o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/786591/NAHLED/ZOBRAZ/sbcr2000c060z0192p001o001)
+
+### Příloha č. 2
+
+#### ![sbcr2000c060z0192p002o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/786593/NAHLED/ZOBRAZ/sbcr2000c060z0192p002o001)
+
+---
+
+<sup>1</sup>) § 42 zákona č. 114/1992 Sb.
+
+<sup>2</sup>) § 29 zákona č. 114/1992 Sb.
+
+<sup>3</sup>) § 44 odst. 2 a § 79 odst. 3 písm. g) zákona č. 114/1992 Sb.
+
+<sup>4</sup>) § 38 zákona č. 114/1992 Sb.
+
+<sup>5</sup>) § 37 zákona č. 114/1992 Sb.

@@ -1,0 +1,49 @@
+---
+title: "Zákon č. 62/2002 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů"
+identifier: "62/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/62/2017-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2002-01-29
+effective: 2002-04-01
+last_amended: 2017-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/62"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 62/2002 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů ve znění zákona č. 250/2016 Sb."
+---
+
+# Zákon č. 62/2002 Sb., kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů
+
+62
+
+ZÁKON
+
+ze dne 29. ledna 2002,
+
+kterým se mění zákon č. 200/1990 Sb., o přestupcích, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Změna zákona o provozu na pozemních komunikacích
+
+Zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změně některých zákonů, ve znění zákona č. 60/2001 Sb., se mění takto:
+
+1\. V § 67 se na konci odstavce 4 doplňuje tato věta: „O odstranění vozidla, které neoprávněně stojí na parkovišti vyhrazeném pro vozidlo označené znakem O 1, rozhoduje policista; vozidlo se odstraní na náklad jeho provozovatele.“.
+
+2\. V § 124 odst. 6 se na konci písmene i) doplňují tato slova: „nebo vozidla, které neoprávněně stojí na parkovišti vyhrazeném pro vozidlo označené znakem O 1,“.
+
+## ČÁST TŘETÍ – ZMOCNĚNÍ K VYHLÁŠENÍ ÚPLNÉHO ZNĚNÍ ZÁKONA
+
+Předseda vlády se zmocňuje, aby ve Sbírce zákonů vyhlásil úplné znění zákona č. 200/1990 Sb., o přestupcích, jak vyplývá z pozdějších zákonů.
+
+## ČÁST ČTVRTÁ – ÚČINNOST
+
+Tento zákon nabývá účinnosti dnem 1. dubna 2002.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

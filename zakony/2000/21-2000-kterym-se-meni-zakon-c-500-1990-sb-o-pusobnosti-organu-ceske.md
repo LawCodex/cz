@@ -1,0 +1,42 @@
+---
+title: "Zákon č. 21/2000 Sb., kterým se mění zákon č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby, ve znění pozdějších předpisů"
+identifier: "21/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/21/2000-02-18"
+type: act
+jurisdiction: cz
+language: cs
+date: 2000-01-13
+effective: 2000-02-18
+last_amended: 2000-02-18
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/21"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 21/2000 Sb., kterým se mění zákon č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby, ve znění pozdějších předpisů
+
+21
+
+ZÁKON
+
+ze dne 13. ledna 2000,
+
+kterým se mění zákon č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+V § 15 odst. 2 zákona č. 500/1990 Sb., o působnosti orgánů České republiky ve věcech převodů vlastnictví státu k některým věcem na jiné právnické nebo fyzické osoby, ve znění zákona č. 438/1991 Sb., zákona č. 282/1992 Sb., zákona č. 170/1993 Sb., zákona č. 155/1994 Sb., zákona č. 218/1994 Sb., zákona č. 161/1997 Sb., zákona č. 164/1998 Sb. a zákona č. 269/1998 Sb., se na konci tečka nahrazuje čárkou a doplňuje se písmeno o), které zní:
+
+> „o) k převodu částky 4 mld. Kč na zvláštní účet státních finančních aktiv k navýšení dosud vyčleněných finančních prostředků určených ke krytí nezbytných výdajů vyvolaných zánikem věcných břemen váznoucích na majetku vydaném oprávněným osobám, který je dosud užíván v nájemním vztahu pro účely zařízení sociální péče.“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

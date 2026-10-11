@@ -1,0 +1,84 @@
+---
+title: "Vyhláška Ministerstva spravedlnosti č. 311/2000 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 265/1997 Sb. a vyhlášky č. 218/1998 Sb."
+identifier: "311/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/311/2000-10-05"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-08-23
+effective: 2000-10-05
+last_amended: 2000-10-05
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/311"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva spravedlnosti č. 311/2000 Sb., kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 265/1997 Sb. a vyhlášky č. 218/1998 Sb.
+
+311
+
+VYHLÁŠKA
+
+Ministerstva spravedlnosti
+
+ze dne 23. srpna 2000,
+
+kterou se mění vyhláška Ministerstva spravedlnosti č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 265/1997 Sb. a vyhlášky č. 218/1998 Sb.
+
+Ministerstvo spravedlnosti stanoví podle § 7 a 40 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů:
+
+## Čl. I
+
+Vyhláška č. 23/1994 Sb., o jednacím řádu státního zastupitelství, zřízení poboček některých státních zastupitelství a podrobnostech o úkonech prováděných právními čekateli, ve znění vyhlášky č. 265/1997 Sb. a vyhlášky č. 218/1998 Sb., se mění takto:
+
+1\. § 8 zní:
+
+> **„§ 8 – Vrchní státní zastupitelství v Olomouci - pobočka v Brně a pobočka v Ostravě**
+
+> (1) V obvodu Vrchního státního zastupitelství v Olomouci se zřizují pobočky v Brně a v Ostravě.
+
+> (2) Vrchní státní zastupitelství v Olomouci - pobočka v Brně vykonává dozor nad zachováváním zákonnosti v přípravném řízení a úkony před zahájením trestního stíhání ve věcech trestných činů uvedených v § 15 odst. 1 a 2 spáchaných v obvodu Krajského státního zastupitelství v Brně a rozhoduje v těchto věcech podle § 15 odst. 3.
+
+> (3) Vrchní státní zastupitelství v Olomouci - pobočka v Ostravě vykonává dozor nad zachováváním zákonnosti v přípravném řízení a úkony před zahájením trestního stíhání ve věcech trestných činů uvedených v § 15 odst. 1 a 2 spáchaných v obvodu Krajského státního zastupitelství v Ostravě a rozhoduje v těchto věcech podle § 15 odst. 3.“.
+
+2\. § 15 včetně poznámek pod čarou č. 3a), 3b) a 3c) zní:
+
+> **„§ 15**
+
+> (1) K výkonu dozoru nad zachováváním zákonnosti v přípravném řízení a k úkonům před zahájením trestního stíhání ve věcech úmyslných trestných činů
+
+> a) spáchaných při činnosti banky, investiční společnosti nebo investičního fondu, obchodníka s cennými papíry, pojišťovny, zdravotní pojišťovny, penzijního fondu, stavební spořitelny anebo spořitelního a úvěrního družstva, byla-li jimi způsobena škoda nejméně 100 mil. Kč,
+
+> b) fyzických nebo právnických osob spáchaných v souvislosti s neoprávněným výkonem činnosti subjektů uvedených v písmenu a),
+
+> c) jimiž byla způsobena na majetku státu škoda nejméně 50 mil. Kč, nebo
+
+> d) podle hlavy druhé nebo deváté zvláštní části trestního zákona, jestliže byly spáchány ve prospěch zločinného spolčení,<sup>3a</sup>) nebo pokud v souvislosti s jejich odhalováním či vyšetřováním byl nebo měl být spáchán trestný čin zneužívání pravomoci veřejného činitele podle § 158 trestního zákona nebo trestné činy podplácení, přijímání úplatku nebo nepřímého úplatkářství podle § 160 až 162 trestního zákona,
+
+> je příslušný státní zástupce vrchního státního zastupitelství, v jehož obvodu je nižší státní zastupitelství, které by bylo jinak ve věci příslušné.
+
+> (2) Vrchní státní zastupitelství je příslušné ve věci některého z trestných činů uvedených v odstavci 1 i k výkonu dozoru nad zachováváním zákonnosti v přípravném řízení a k úkonům před zahájením trestního stíhání též ve věcech dalších trestných činů, ohledně nichž je konáno společné řízení,<sup>3b</sup>) nebude-li věc vyloučena ze společného řízení.<sup>3c</sup>)
+
+> (3) Vrchní státní zastupitelství může po předchozím souhlasu nejvyššího státního zástupce rozhodnout, že k výkonu dozoru nad zachováváním zákonnosti v přípravném řízení a k úkonům před zahájením trestního stíhání ve věcech trestných činů uvedených v odstavcích 1 a 2 je příslušné nižší státní zastupitelství; jeho příslušnost se určí podle zásad uvedených v § 12 až 14 a 16.
+
+> <sup>3a</sup>) § 89 odst. 17 trestního zákona.
+
+> <sup>3b</sup>) § 20 odst. 1 trestního řádu.
+
+> <sup>3c</sup>) § 23 odst. 1 trestního řádu.“.
+
+3\. V nadpisu třetího oddílu části druhé a v § 27 odst. 1 se číslovka „24“ nahrazuje číslovkou „48“.
+
+4\. V § 29 a v jeho nadpisu se za slova „podle § 62“ vkládají slova „a podle § 62a“.
+
+## Čl. II – Přechodné ustanovení
+
+Ve věcech, v nichž bylo zahájeno trestní stíhání nebo byly prováděny úkony před zahájením trestního stíhání před účinností této vyhlášky a přípravné řízení nebylo skončeno, se postupuje podle dříve platných předpisů; tím není dotčeno právo vrchního státního zastupitelství, aby rozhodlo o tom, že s ohledem na závažnost, skutkovou či právní náročnost přebírá k výkonu dozoru nad zachováváním zákonnosti v přípravném řízení nebo k úkonům před zahájením trestního stíhání od nižšího státního zastupitelství ve svém obvodu kteroukoli věc uvedenou v § 15 odst. 1.
+
+## Čl. III
+
+Tato vyhláška nabývá účinnosti třicátým dnem po vyhlášení.
+
+Ministr:
+
+JUDr. Motejl v. r.

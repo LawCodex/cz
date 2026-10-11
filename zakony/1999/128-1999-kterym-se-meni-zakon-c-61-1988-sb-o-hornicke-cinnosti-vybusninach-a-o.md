@@ -1,0 +1,60 @@
+---
+title: "Zákon č. 128/1999 Sb., kterým se mění zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů"
+identifier: "128/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/128/1999-09-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1999-06-09
+effective: 1999-09-01
+last_amended: 1999-09-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/128"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 128/1999 Sb., kterým se mění zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů
+
+128
+
+ZÁKON
+
+ze dne 9. června 1999,
+
+kterým se mění zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona č. 425/1990 Sb., zákona č. 542/1991 Sb. a zákona č. 169/1993 Sb., se mění takto:
+
+1\. V § 3 se na konci písmene i) tečka nahrazuje čárkou a doplňuje se písmeno j), které zní:
+
+> „j) práce na zpřístupnění starých a opuštěných důlních děl a práce na jejich udržování v bezpečném stavu.“.
+
+2\. V § 44 odst. 1 se částka „100 000 Kčs“ nahrazuje částkou „1 000 000 Kč“.
+
+3\. V § 44 odst. 4 se částka „5 000 Kčs“ nahrazuje částkou „50 000 Kč“.
+
+4\. V § 44 odst. 6 se částka „200 Kčs“ nahrazuje částkou „2 000 Kč“.
+
+5\. V § 44 se doplňuje odstavec 12, který včetně poznámky pod čarou č. 20a) zní:
+
+> „(12) Orgán státní báňské správy, který pokutu uložil v prvním stupni, ji vybírá a vymáhá podle zákona o správě daní a poplatků.<sup>20a</sup>)
+
+> <sup>20a</sup>) Zákon č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů.“.
+
+## Čl. II – Přechodné ustanovení
+
+Jestliže k porušení povinností, za které lze pokutu uložit, došlo před nabytím účinnosti tohoto zákona, uloží se pokuta ve výši podle dosavadních předpisů.
+
+## Čl. III – Účinnost
+
+Tento zákon nabývá účinnosti prvním dnem třetího kalendářního měsíce po dni vyhlášení.
+
+Klaus v. r.
+
+Havel v. r.
+
+Zeman v. r.

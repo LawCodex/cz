@@ -1,0 +1,91 @@
+---
+title: "Vyhláška Ministerstva vnitra č. 326/2000 Sb., o způsobu označování ulic a ostatních veřejných prostranství názvy, o způsobu použití a umístění čísel k označení budov, o náležitostech ohlášení o přečíslování budov a o postupu a oznamování přidělení čísel a dokladech potřebných k přidělení čísel"
+identifier: "326/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/326/2015-07-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-09-11
+effective: 2000-11-12
+last_amended: 2015-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/326"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva vnitra č. 326/2000 Sb., o způsobu označování ulic a ostatních veřejných prostranství názvy, o způsobu použití a umístění čísel k označení budov, o náležitostech ohlášení o přečíslování budov a o postupu a oznamování přidělení čísel a dokladech potřebných k přidělení čísel ve znění vyhlášky č. 193/2001 Sb. a vyhlášky č. 147/2015 Sb."
+---
+
+# Vyhláška Ministerstva vnitra č. 326/2000 Sb., o způsobu označování ulic a ostatních veřejných prostranství názvy, o způsobu použití a umístění čísel k označení budov, o náležitostech ohlášení o přečíslování budov a o postupu a oznamování přidělení čísel a dokladech potřebných k přidělení čísel
+
+326
+
+VYHLÁŠKA
+
+Ministerstva vnitra
+
+ze dne 11. září 2000
+
+o způsobu označování ulic a ostatních veřejných prostranství názvy, o způsobu použití a umístění čísel k označení budov, o náležitostech ohlášení o přečíslování budov a o postupu a oznamování přidělení čísel a dokladech potřebných k přidělení čísel
+
+Ministerstvo vnitra stanoví podle § 153 odst. 2 k provedení § 33 zákona č. 128/2000 Sb., o obcích (obecní zřízení), a podle § 120 odst. 2 k provedení § 14 odst. 9 zákona č. 131/2000 Sb., o hlavním městě Praze:
+
+**Označování ulic a ostatních veřejných prostranství názvy**
+
+## § 1
+
+Provedení tabulek k označování ulic a ostatních veřejných prostranství názvy včetně barvy a velikosti stanoví obec a hlavní město Praha (dále jen „obec“) jednotně pro celé území obce.
+
+## § 2
+
+(1) Tabulky s názvem ulice nebo ostatních veřejných prostranství v obci se umístí tak, aby byly viditelné.
+
+(2) Tabulky s názvem ulice v obci se umístí vždy na začátku a na konci každé ulice a před a za křižovatkou s jinou ulicí.
+
+## § 3
+
+Uvádějí-li se názvy ulic a ostatních veřejných prostranství v obci též v jazyce národnostní menšiny,<sup>1</sup>) je název v jazyce národnostní menšiny umístěn na téže tabulce pod názvem v českém jazyce. Velikost a typ písma jsou ve shodném provedení.
+
+**Použití a umístění čísel k označení budov v obci**
+
+## § 4
+
+Každá budova<sup>2</sup>) se označuje pouze jediným číslem popisným nebo evidenčním. Spojí-li se dvě nebo více budov stavebně v jednu, má tato budova všechna čísla původních budov do nového rozhodnutí obce o přečíslování budov.
+
+## § 5
+
+(1) Popisná, evidenční a orientační čísla se barevně liší. K číslování se užívá arabských číslic v rozmezí 1 až 9999, u čísel popisných a evidenčních bez jakýchkoliv dodatků.
+
+(2) Jako dodatek čísel orientačních může být použit jeden malý znak české abecedy bez diakritických znamének.
+
+## § 6
+
+(1) Čísla se umísťují tak, aby byla viditelná.
+
+(2) Čísla orientační se umísťují vždy pod tabulku s číslem popisným.
+
+## § 7 – Náležitosti ohlášení o přečíslování budov
+
+K ohlášení o přečíslování budov, které obec zasílá příslušnému katastrálnímu úřadu, se přikládá
+
+a) rozhodnutí obce o přečíslování budov,
+
+b) srovnávací sestava dosavadních a nových čísel budov, která obsahuje údaje o budově podle základního registru územní identifikace, adres a nemovitostí.
+
+**Závěrečná ustanovení**
+
+## § 9
+
+Zrušuje se vyhláška č. 97/1961 Sb., o názvech obcí, označování ulic a číslování domů.
+
+## § 10
+
+Tato vyhláška nabývá účinnosti dnem voleb do zastupitelstev krajů v roce 2000.
+
+Ministr:
+
+Mgr. Gross v. r.
+
+---
+
+<sup>1</sup>) § 29 odst. 2 zákona č. 128/2000 Sb., o obcích (obecní zřízení).
+
+<sup>2</sup>) § 3 odst. 1 písm. a) bod 1 zákona č. 151/1997 Sb., o oceňování majetku a o změně některých zákonů (zákon o oceňování majetku).

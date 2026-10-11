@@ -1,0 +1,58 @@
+---
+title: "Vyhláška Federálního ministerstva financí č. 139/1989 Sb., o vydání pamětních stříbrných stokorun k 250. výročí úmrtí Jana Kupeckého"
+identifier: "139/1989 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1989/139/1989-12-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1989-10-24
+effective: 1989-12-15
+last_amended: 1989-12-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1989/139"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva financí č. 139/1989 Sb., o vydání pamětních stříbrných stokorun k 250. výročí úmrtí Jana Kupeckého
+
+139
+
+VYHLÁŠKA
+
+federálního ministerstva financí
+
+ze dne 24. října 1989
+
+o vydání pamětních stříbrných stokorun k 250. výročí úmrtí Jana Kupeckého
+
+Federální ministerstvo financí podle § 3 odst. 2 zákona č. 41/1953 Sb., o peněžní reformě, a na základě § 2 odst. 2 vládního nařízení č. 35/1954 Sb., o pamětních mincích, v dohodě se Státní bankou československou vyhlašuje:
+
+## § 1
+
+(1) K 250. výročí úmrtí malíře Jana Kupeckého se vydávají pamětní stříbrné stokoruny (dále jen „stokoruny“).
+
+(2) Stokoruny se razí ze slitiny o 500 dílech stříbra, 400 dílech mědi, 50 dílech niklu a 50 dílech zinku. Hmotnost stokoruny je 13 g. Při ražbě je povolena odchylka nahoru i dolů v hmotnosti 10/1000 a v obsahu stříbra 5/1000. Průměr stokoruny je 31 mm, její hrana je vroubkovaná.
+
+## § 2
+
+(1) Na líci stokoruny je uprostřed státní znak Československé socialistické republiky a okolo něho v neuzavřeném opise je název státu „ČESKOSLOVENSKÁ SOCIALISTICKÁ REPUBLIKA“. Pod státním znakem je v řádku označení hodnoty „100 Kčs“.
+
+(2) Na rubu stokoruny je zobrazen malíř Jan Kupecký v baretu, s paletou v levé a štětcem v pravé ruce. Jeho jméno „JAN KUPECKÝ“ je v opise vpravo, letopočty „1740–1990“ v opise vlevo.
+
+(3) Autorem návrhu stokoruny je akademická sochařka Jarmila Truhlíková-Spěváková. Iniciály jejího jména „JTS“ jsou umístěny v horní části palety.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 15. prosince 1989.
+
+Ministr financí Československé socialistické republiky:
+
+Ing. Stejskal v. r.
+
+Předseda Státní banky československé:
+
+Ing. Potáč v. r.
+
+### ![sbcr1989c031z0139_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/782603/NAHLED/ZOBRAZ/sbcr1989c031z0139_o_1)
+
+### ![sbcr1989c031z0139_o_2.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/782605/NAHLED/ZOBRAZ/sbcr1989c031z0139_o_2)

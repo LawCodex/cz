@@ -1,0 +1,148 @@
+---
+title: "Vyhláška Ministerstva průmyslu a obchodu č. 379/2000 Sb., kterou se stanoví podmínky pro určování jednotlivých druhů křišťálového skla, jejich vlastností a způsoby označování výrobků z křišťálového skla"
+identifier: "379/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/379/2001-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-10-10
+effective: 2001-01-01
+last_amended: 2001-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/379"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva průmyslu a obchodu č. 379/2000 Sb., kterou se stanoví podmínky pro určování jednotlivých druhů křišťálového skla, jejich vlastností a způsoby označování výrobků z křišťálového skla
+
+379
+
+VYHLÁŠKA
+
+Ministerstva průmyslu a obchodu
+
+ze dne 10. října 2000,
+
+kterou se stanoví podmínky pro určování jednotlivých druhů křišťálového skla, jejich vlastností a způsoby označování výrobků z křišťálového skla
+
+Ministerstvo průmyslu a obchodu stanoví podle § 28a písm. f) zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění zákona č. 104/1995 Sb. a zákona č. 64/2000 Sb.:
+
+## § 1
+
+(1) Vyhláška stanoví podmínky pro určování jednotlivých druhů křišťálového skla včetně názvů těchto druhů, vlastností, které je charakterizují, jim přidaných symbolů a metod stanovení příslušných chemických a fyzikálních vlastností, jakož i podmínky pro označování výrobků z křišťálového skla včetně stanovení výrobků z křišťálového skla, které označování podléhají.
+
+(2) Označování se vztahuje na výrobky z jednotlivých druhů křišťálového skla zařazené do číselného kódu 7013 Harmonizovaného systému celní nomenklatury.<sup>1</sup>)
+
+(3) Jednotlivé druhy křišťálového skla se označují těmito názvy:
+
+a) vysoce olovnaté křišťálové sklo 30 % PbO,
+
+b) olovnaté křišťálové sklo 24 % PbO,
+
+c) křišťálové sklo krystalin, nebo
+
+d) křišťálové sklo.
+
+(4) Podmínky pro určování jednotlivých druhů křišťálového skla a způsob jejich označování jsou uvedeny v příloze č. 1.
+
+(5) Metody stanovení chemických a fyzikálních vlastností jednotlivých druhů křišťálového skla jsou uvedeny v příloze č. 2.
+
+## § 2
+
+Název druhu a symbol podle přílohy č. 1 lze použít pouze pro jednotlivé druhy křišťálového skla, pokud splňují podmínky stanovené v této příloze.
+
+## § 3
+
+Názvy druhů křišťálového skla a symboly uvedené v příloze č. 1 mohou být umístěny společně na jedné etiketě.
+
+## § 4
+
+Tam, kde obchodní označení, název výrobce, dovozce nebo prodávajícího nebo kterékoliv jiné označení nebo jeho část by bylo shodné nebo podobné s označením jednotlivých druhů křišťálového skla podle této vyhlášky nebo by mohlo s nimi vést k jakékoli záměně, a to jak při nabídce a v obchodní dokumentaci, tak i při reklamě těchto výrobků, označí se před uvedením na trh takovým způsobem, aby
+
+a) u jednotlivých druhů křišťálového skla bylo možno jednoznačně určit, zda odpovídají požadavkům uvedeným v § 2, a
+
+b) výrobky, které nesplňují požadavky uvedené pod písmenem a), nebyly opatřeny symbolem a názvem druhu křišťálového skla podle přílohy č. 1; takový výrobek se označí v souladu s jeho vlastnostmi.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2001.
+
+Ministr:
+
+doc. Ing. Grégr v. r.
+
+### Příloha č. 1 k vyhlášce č. 379/2000 Sb.
+
+#### Podmínky pro určování jednotlivých druhů křišťálového skla a způsob jejich označování
+
+<table><tbody><tr><th rowspan="2">č.</th><th colspan="2">Druh a název křišťálového skla</th><th colspan="4">Chemické a fyzikální vlastnosti</th><th>Označování</th><th rowspan="2">Poznámky</th></tr><tr><th></th><th>vysvětlivky</th><th>oxidy kovů (%)</th><th>hustota (g.cm<sup>-3</sup>)</th><th>index lomu</th><th>tvrdost povrchu</th><th>symbol</th></tr><tr><th>a</th><th>b</th><th>c</th><th>d</th><th>e</th><th>f</th><th>g</th><th>h</th><th>i</th></tr><tr><td>1</td><td>Vysoce olovnaté křišťálové sklo 30 %</td><td rowspan="2">Údaj v procentech udává obsah oxidu olovnatého</td><td>PbO ≥30%</td><td>≥ 3,00</td><td>x</td><td></td><td rowspan="2"><img src="https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/783981/NAHLED/ZOBRAZ/sbcr2000c104z0379_o_1" alt="sbcr2000c104z0379_o_1.tif"></td><td rowspan="2">Kulatá nálepka, barva zlatá průměr ≥1 cm</td></tr><tr><td>2</td><td>Olovnaté křišťálové sklo 24 %</td><td>PbO ≥24%</td><td>≥ 2,90</td><td>x</td><td></td></tr><tr><td>3</td><td>Křišťálové sklo krystalin</td><td rowspan="2">Údaj v procentech udává hodnotu součtu obsahu oxidů, uvedených ve sloupci d</td><td>Jednotlivě nebo v kombinaci<br><br> ZnO<br><br> BaO<br><br> PbO<br><br> K<sub>2</sub>O<br><br> ≥ 10%</td><td>≥ 2,45</td><td>n<sub>D</sub> ≥1,520</td><td></td><td><img src="https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/783983/NAHLED/ZOBRAZ/sbcr2000c104z0379_o_2" alt="sbcr2000c104z0379_o_2.tif"></td><td>Čtvercová nálepka, barva stříbrná, délka strany ≥ 1 cm</td></tr><tr><td>4</td><td>Křišťálové sklo</td><td>Jednotlivě nebo v kombinaci<br><br> BaO<br><br> PbO<br><br> K<sub>2</sub>O<br><br> ≥ 10%</td><td>≥ 2,40</td><td></td><td>Vickers<br><br> — 550 ± 20</td><td><img src="https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/783985/NAHLED/ZOBRAZ/sbcr2000c104z0379_o_3" alt="sbcr2000c104z0379_o_3.tif"></td><td>Nálepka ve tvaru rovnostranného trojúhelníku, barva stříbrná, délka strany ≥ 1 cm</td></tr></tbody></table>
+
+x n<sub>D</sub> ≥ 1,545 jako kritérium pro další nedestruktivní zkoušení (v době provozu)
+
+### Příloha č. 2 k vyhlášce č. 379/2000 Sb.
+
+#### METODY STANOVENÍ CHEMICKÝCH A FYZIKÁLNÍCH VLASTNOSTÍ JEDNOTLIVÝCH DRUHŮ KŘIŠŤÁLOVÉHO SKLA
+
+1\. CHEMICKÉ ANALÝZY
+
+1.1 BaO a PbO
+
+1.1.1 Stanovení kombinace BaO + PbO
+
+Do platinové misky se s přesností na 0,0001 g naváží přibližně 0,5 g jemně rozetřeného skla. Po zvlhčení vodou se přidá 10 ml 15% roztoku kyseliny sírové a 10 ml kyseliny fluorovodíkové. Potom se zahřívá na pískové lázni, až se začnou vyvíjet bílé dýmy. Po vychladnutí se znovu přidá 10 ml kyseliny fluorovodíkové a zahřívá se, dokud nezačne vývin bílých dýmů. Nechá se zchladnout, stěny misky se opláchnou vodou a zahřívá se, až se začnou vyvíjet bílé dýmy. Po zchladnutí se opatrně přidá 10 ml vody a obsah misky se převede do kádinky 400 ml. Miska se několikrát vypláchne 10% roztokem kyseliny sírové a zředí se stejným roztokem na objem 100 ml. Roztok se sraženinou se vaří 2 až 3 minuty. Pak se nechá stát po dobu nejméně 12 hodin.
+
+Sraženina se zfiltruje filtračním kelímkem o porozitě 4 a promyje se nejprve 10% roztokem kyseliny sírové, potom dvakrát až třikrát ethylalkoholem. Kelímek se sraženinou se suší 1 hodinu v sušárně při 150 °C. Zváží se BaSO<sub>4</sub> + PbSO<sub>4</sub>.
+
+1.1.2 Stanovení BaO
+
+Do platinové misky se s přesností na 0,0001 g naváží přibližně 0,5 g jemně rozetřeného skla. Po zvlhčení vodou se přidá 10 ml kyseliny fluorovodíkové a 5 ml kyseliny chloristé a zahřívá se na pískové lázni, až se začnou vyvíjet bílé dýmy.
+
+Po ochlazení se přidá dalších 10 ml kyseliny fluorovodíkové a zahřívá se, dokud znovu nenastane vývin bílých dýmů. Nechá se vychladnout a stěny misky se opláchnou destilovanou vodou. Znovu se zahřívá a odpařuje se téměř do sucha. Odparek se rozpustí v 50 ml 10% roztoku kyseliny chlorovodíkové a opatrně se zahřívá, aby se usnadnilo rozpouštění. Roztok se převede do kádinky 400 ml a zředí se vodou na objem 200 ml. Zahřeje se k varu a za horka se vhání proud sirovodíku. Přívod sirovodíku se ukončí, jakmile sraženina sulfidu olovnatého klesne ke dnu kádinky. Sraženina se zfiltruje přes hustý filtrační papír a promyje se studenou vodou nasycenou sirovodíkem.
+
+Filtrát se přivede k varu a potom, je-li to nutné, sníží se jeho objem odpařováním na 300 ml. K vroucí směsi se přidá 10 ml 10% roztoku kyseliny sírové a odstaví se od tepelného zdroje. Po nejméně čtyřhodinovém stání se sraženina zfiltruje přes hustý filtrační papír a promyje se studenou vodou. Sraženina se vyžíhá při 1050 °C a zváží se BaSO<sub>4</sub>.
+
+1.2 Stanovení ZnO
+
+Filtrát po oddělení BaSO<sub>4</sub> se odpaří na objem 200 ml. Zneutralizuje se amoniakem na methylčerveň, přidá se 20 ml kyseliny sírové c(<sup>1</sup>/<sub>2</sub>H<sub>2</sub>SO<sub>4</sub>) = 0,1 mol/l [dříve 0,1N]. Přídavkem kyseliny sírové c (<sup>1</sup>/<sub>2</sub>H<sub>2</sub>SO<sub>4</sub>) = 0,1 mol/l [dříve 0,1N], případně hydroxidu sodného c (NaOH) = 0,1 mol/l [dříve 0,1N], se upraví pH roztoku na hodnotu 2 za kontroly pH metrem. Za studena se uváděním proudu sirovodíku vysráží sulfid zinečnatý. Po 4 hodinách stání se sraženina filtruje přes hustý filtrační papír a promyje se studenou vodou nasycenou sirovodíkem. Sraženina na filtru se rozpustí přidáním 25 ml horkého 10% roztoku kyseliny chlorovodíkové. Filtr se promývá vroucí vodou, až se získá asi 150 ml filtrátu. Filtrát se zneutralizuje amoniakem na lakmusový papírek, potom se přidá 1 - 2 g pevného urotropinu, aby pH roztoku mělo hodnotu přibližně 5. Přidá se několik kapek čerstvě připraveného 0,5% vodného roztoku xylenolové oranže a titruje se roztokem komplexonu III c (C<sub>10</sub>H<sub>14</sub>N<sub>2</sub>O<sub>8</sub>Na<sub>2</sub>.2H<sub>2</sub>O) = 0,1 mol/l [dříve 0,1N] až do barevného přechodu z růžové do citrónové žluti.
+
+1.3 Stanovení K<sub>2</sub>O
+
+K<sub>2</sub>O se stanoví srážením a vážením jako tetrafenylboritan draselný.
+
+Do platinové misky se s přesností na 0,0001 g naváží přibližně 2 g rozdrceného a prosátého skla, přidají se 2 ml koncentrované HNO<sub>3</sub> (kyseliny dusičné), 15 ml HClO<sub>4</sub> (kyseliny chloristé) a 25 ml HF (kyseliny fluorovodíkové). Zahřívá se na vodní a následně na pískové lázni. Po ukončení vývinu hustých bílých dýmů kyseliny chloristé se odpařuje do sucha. Odparek se rozpustí přídavkem 20 ml horké vody a 2 - 3 ml koncentrované HCl. Roztok se převede do odměrné baňky 200 ml a doplní destilovanou vodou po značku.
+
+Činidla: 6% roztok tetrafenylboritanu sodného: rozpustí se 1,5 g činidla ve 250 ml destilované vody, případný lehký zákal se odstraní přidáním 1 g hydratovaného oxidu hlinitého. Protřepává se po dobu 5 minut a zfiltruje se, přičemž prvních získaných 20 ml se znovu zfiltruje.
+
+Promývací roztok pro sraženinu: Malé množství draselné soli se připraví tak, že se do roztoku 0,1 g KCl v 50 ml kyseliny chlorovodíkové c (HCl)=0,1 mol/l [dříve 0,1N] přidává za stálého míchání roztok tetrafenylboritanu sodného do ukončení tvorby sraženiny. Sraženina se zfiltruje na fritě, promyje destilovanou vodou a vysuší se v exsikátoru při teplotě místnosti. Potom se přidá 20 - 30 mg této sraženiny do 250 ml destilované vody a občas se zamíchá. Po 30 minutách se přidá 0,5 - 1 g hydratovaného oxidu hlinitého, několik minut se míchá a pak se zfiltruje.
+
+Pracovní postup: Alikvotní podíl po kyselinovém rozkladu odpovídající přibližně 10 mg K<sub>2</sub>O se zředí na přibližně 100 ml. Za mírného míchání se pomalu přilévá přibližně 10 ml srážecího činidla na každých předpokládaných 5 mg K<sub>2</sub>O. Nechá se stát nejvýše 15 minut, potom se zfiltruje na předem zváženém filtračním kelímku o porozitě 3 nebo 4. Promyje se promývacím roztokem a suší se 30 minut při 120 °C. Přepočítávací faktor pro K<sub>2</sub>O je 0,13143.
+
+1.4 Dovolené odchylky
+
+1.4.1 Pro stanovení kterékoliv složky je dovolená odchylka ± 0,1 absolutní hodnoty.
+
+1.4.2 Jestliže analýza poskytne, v rámci dovolených odchylek, hodnotu nižší než je pevně stanovený limit (30, 24 nebo 10%), počítá se průměr alespoň ze 3 analýz. Je-li tento průměr vyšší nebo roven 29,95, sklo se zařadí do kategorie odpovídající 30%, je-li vyšší nebo roven 23,95, sklo se zařadí do kategorie odpovídající 24% a je-li vyšší nebo roven 9,95, sklo se zařadí do kategorie odpovídající 10%.
+
+1.5 Jiné metody chemické analýzy
+
+Pro chemické analýzy křišťálového skla se mohou použít i jiné vhodné analytické metody, pokud budou prokazatelně splňovat požadavky na přesnost a správnost výsledků stanovení, definované dle podbodu 1.4.1. Při použití více způsobů měření nebo v případě zpochybnění měření dle věty první je rozhodujícím výsledkem ten, který byl získán pomocí metod uvedených v bodech 1.1 až 1.3.
+
+2\. STANOVENÍ FYZIKÁLNÍCH VLASTNOSTÍ
+
+2.1 Hustota
+
+Stanoví se metodou hydrostatického vážení s přesností ± 0,01. Vzorek o hmotnosti nejméně 20 g se zváží na vzduchu a potom se zváží ponořený v destilované vodě při teplotě 20 °C.
+
+2.2 Index lomu
+
+Index se měří refraktometrem s přesností na ± 0,001.
+
+2.3 Mikrotvrdost
+
+Stanoví se zkouškou tvrdosti podle Vickerse se zatížením 50 g. Jako výsledek se bere průměr z 15 stanovení.
+
+---
+
+<sup>1</sup>) Vyhláška ministra zahraničních věcí č. 160/1988 Sb., o Mezinárodní úmluvě o harmonizovaném systému popisu a číselného označování zboží a Protokolu o její změně. 
+ § 56 a násl. zákona č. 13/1993 Sb., celní zákon. 
+ Nařízení vlády č. 318/1999 Sb., kterým se provádí celní sazebník.

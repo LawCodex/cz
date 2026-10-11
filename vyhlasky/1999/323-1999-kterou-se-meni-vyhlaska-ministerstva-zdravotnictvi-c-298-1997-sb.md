@@ -1,0 +1,165 @@
+---
+title: "Vyhláška Ministerstva zdravotnictví č. 323/1999 Sb., kterou se mění vyhláška Ministerstva zdravotnictví č. 298/1997 Sb., kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky jejich použití, jejich označování na obalech, požadavky na čistotu a identitu přídatných látek a potravních doplňků a mikrobiologické požadavky na potravní doplňky a látky přídatné, ve znění vyhlášky č. 3/1999 Sb."
+identifier: "323/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/323/2000-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1999-11-29
+effective: 2000-01-01
+last_amended: 2000-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/323"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva zdravotnictví č. 323/1999 Sb., kterou se mění vyhláška Ministerstva zdravotnictví č. 298/1997 Sb., kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky jejich použití, jejich označování na obalech, požadavky na čistotu a identitu přídatných látek a potravních doplňků a mikrobiologické požadavky na potravní doplňky a látky přídatné, ve znění vyhlášky č. 3/1999 Sb.
+
+323
+
+VYHLÁŠKA
+
+Ministerstva zdravotnictví
+
+ze dne 29. listopadu 1999,
+
+kterou se mění vyhláška Ministerstva zdravotnictví č. 298/1997 Sb., kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky jejich použití, jejich označování na obalech, požadavky na čistotu a identitu přídatných látek a potravních doplňků a mikrobiologické požadavky na potravní doplňky a látky přídatné, ve znění vyhlášky č. 3/1999 Sb.
+
+Ministerstvo zdravotnictví stanoví podle § 19 písm. a) a b) zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů:
+
+## Čl. I
+
+Vyhláška č. 298/1997 Sb., kterou se stanoví chemické požadavky na zdravotní nezávadnost jednotlivých druhů potravin a potravinových surovin, podmínky jejich použití, jejich označování na obalech, požadavky na čistotu a identitu přídatných látek a potravních doplňků a mikrobiologické požadavky na potravní doplňky a látky přídatné, ve znění vyhlášky č. 3/1999 Sb., se mění takto:
+
+1\. V § 1 odst. 1 se slova „reziduí pesticidů“ zrušují.
+
+2\. V § 2 se odstavec 3 zrušuje.
+
+Dosavadní odstavec 4 se označuje jako odstavec 3.
+
+3\. V § 3 se odstavec 4 zrušuje.
+
+Dosavadní odstavce 5 až 7 se označují jako odstavce 4 až 6.
+
+4\. V příloze č. 1 části 1 odst. 7 se na konci písmene b) doplňují slova: „nejde-li o révové víno,“.
+
+5\. V příloze č. 1 části 1 se na konci odstavce 8 doplňuje věta: „Potraviny, u kterých byla trvanlivost prodloužena použitím balicích plynů, se označí údajem „Baleno v ochranné atmosféře“. Přítomnost oxidu siřičitého a kyseliny sorbové se neuvádí u révového vína.“.
+
+6\. V příloze č. 1 části 5 v tabulce č. 2 položka 5 zní: „kysané mléčné výrobky (neochucené)“.
+
+7\. V příloze č. 1 části 5 v tabulce č. 2 položka 22 zní: „pražená káva, kávoviny, čaj, extrakty z čaje, vč. ovocných a bylinných, přípravky na bázi čaje, ovoce a obilovin pro přípravu čajů a instantní produkty a směsi z nich“.
+
+8\. V příloze č. 1 části 6 v tabulce č. 2 položka „vína se zbytkovým obsahem cukru nejméně 5 g.kg<sup>-1</sup>, fermentované ovocné šťávy kromě vína, např. cidr, perry, ovocná vína“ se nahrazuje tímto zněním: „vína, ovocná vína, fermentované ovocné šťávy, např. cidr, perry“.
+
+9\. V příloze č. 1 části 6 v tabulce č. 2 se do položky „emulgované studené omáčky, majonézy s obsahem tuku nejméně 60 % se NPM mg.l<sup>-1</sup> resp. mg.kg<sup>-1</sup>“ vkládá do sloupce B hodnota „500“ a do sloupce S+B hodnota „1000“.
+
+10\. V příloze č. 1 části 6 v tabulce č. 2 se do položky „emulgované studené omáčky, majonézy s obsahem tuku pod 60 % se NPM mg.l<sup>-1</sup> resp. mg.kg<sup>-1</sup>“ vkládá do sloupce B hodnota „1000“ a do sloupce S+B hodnota „2000“.
+
+11\. V příloze č. 1 části 6 v tabulce č. 2 položka „sirupy se sníženým obsahem využitelné energie pro prodej přímému spotřebiteli“ se nahrazuje tímto zněním: „sirupy a nízkoenergetické nápojové koncentráty pro prodej přímému spotřebiteli“.
+
+12\. V příloze č. 1 části 6 v tabulce č. 2 se položka „ovocné a zeleninové sirupy pro prodej přímému spotřebiteli (xx), (xxx)“ zrušuje.
+
+13\. V příloze č. 1 části 6 v tabulce č. 4 se v položce „citrónová šťáva, limetová šťáva“ hodnota „100“ nahrazuje hodnotou „350“.
+
+14\. V příloze č. 1 části 6 se do tabulky č. 4 vkládají nové položky, které včetně poznámek pod čarou č.<sup>7a</sup>) a<sup>7b</sup>) znějí:
+
+> „- jakostní vína z České republiky splňující požadavky<sup>7a</sup>) na označení názvem „pozdní sběr“ a jakostní vína dovážená ze zemí EU splňující požadavky<sup>7b</sup>) na označení názvem „pozdní sběr“ ... 300 mg.l<sup>-1</sup>,
+
+> \- jakostní vína bílá dovážená splňující požadavky<sup>7b</sup>) na označení původu z oblasti Francie (Bordeaux supérieur, Graves de Vayres, Côtes des Bourdeaux St. Macaire, Premieres Côtes de Bourdeaux, Sainte-Foy Bordeaux, Côtes de Bergerac s dodatkem i bez dodatku „Côtes de Saussignac“, Haut-Montravel, Côtes de Montravel a Rosette) a z oblasti Španělska (Allela, La Mancha, Navarra, Penedés, Rioja, Rueda, Tarragona a Valencia) ... 300 mg.l<sup>-1</sup>,
+
+> \- jakostní vína bílá dovážená z oblasti Spojeného království Velké Británie a Severního Irska splňující požadavky na označení „botrytis“, „noble harwest“ nebo „noble late harvested"a „special late harvested“ ... 300 mg.l<sup>-1</sup>,
+
+> \- jakostní vína z České republiky splňující požadavky<sup>7a</sup>) na označení názvem „výběr z hroznů“, dovážená vína splňující požadavky<sup>7b</sup>) na označení „Auslese“ a jakostní vína bílá z Rumunska splňující požadavky na označení některým z následujících názvů (Murfatlar, Cotnari, Tirnave, Pietroasele, Valea Calugareasca) ... 350 mg.l<sup>-1</sup>,
+
+> \- jakostní vína z České republiky splňující požadavky<sup>7a</sup>) na označení „ledové víno“ a „slámové víno“ a dovážená vína splňující požadavky<sup>7b</sup>) na označení „Beerenauslese“, „Ausbruch“, „Ausbruchwein“, „Trockenbeerenauslese“, „Eiswein“ a jakostní vína bílá z oblastí Francie splňující požadavky na označení oblasti původu (Sauternes, Barsac, Cadillac, Cérons, Loupiac, Sainte-Crois-du-Mont, Monbazillac, Bonnezeaux, Quarts de Chaume, Coteaux du Layon, Coteaux de lʹAubance, Graves Supérieures, Jurancon) ... 400 mg.l<sup>-1</sup>.
+
+> <sup>7a</sup>) Zákon č. 115/1995 Sb., o vinohradnictví a vinařství a o změně některých souvisejících právních předpisů.
+
+> <sup>7b</sup>) Průvodní certifikát vystavený příslušným orgánem v zemi původu.“.
+
+15\. V příloze č. 1 části 8 odst. 3 se v první větě ke slovům „stolních sladidel“ vkládá poznámka pod čarou č. 10a), která zní:
+
+> „<sup>10a</sup>) Potraviny obsahující náhradní sladidla, příp. další složky, určené k přislazování pokrmů před spotřebou.“.
+
+16\. V příloze č. 1 části 8 se v tabulce do položky „E 950 Acesulfam K“ vkládá do skupiny potravin položka „ovocné pomazánky se sníženým obsahem využitelné energie NPM mg.l<sup>-1</sup> resp. mg.kg<sup>-1</sup> 1000“.
+
+17\. V příloze č. 1 části 9 odstavec 5 zní:
+
+> „(5) Při použití kofeinu (kofein, kofeinmonohydrátu) nebo chininu (chininsulfátu, chininhydrochloridu) k výrobě nealkoholických nápojů nebo koncentrátů k přípravě nealkoholických nápojů na bázi vody musí být na obalu uvedeno upozornění na obsah těchto látek. Obsah těchto látek v koncentrátu k přípravě nealkoholických nápojů smí být nejvýše takový, aby při přípravě podle návodu nebyla překročena hodnota nejvyššího povoleného množství pro tuto látku, stanovená pro nealkoholické nápoje na bázi vody. Při obsahu přidaného kofeinu v nealkoholickém nápoji nebo koncentrátu k přípravě nealkoholických nápojů musí být uvedeno označení „Obsahuje kofein“.
+
+18\. V příloze č. 1 části 9 odstavec 6 zní:
+
+> „(6) Při obsahu přidaného chininu v nápoji, v koncentrátu na přípravu nealkoholických nápojů musí být uvedeno označení „Obsahuje chinin“.“.
+
+19\. V příloze č. 2 části 3 se odstavec 3 zrušuje.
+
+20\. V příloze č. 2 části 3 v tabulce se hodnota NPM<sup>1</sup>) mg.l<sup>-1</sup> resp. mg.kg<sup>-1</sup> v položce „L-a D, L-Menthol"mění z hodnoty „400“ na hodnotu „NM“.
+
+21\. V příloze č. 3 části 1 se na konci odstavce 3 doplňuje tento text: „Jedlým podílem se rozumí potravina zbavená nejedlých částí (například slupka, pecky, kosti). Limitní hodnoty pro čaj jsou stanoveny pro čaj jako nápoj podle ČSN ISO 3103 (58 0420) Čaj. Příprava nálevu pro senzorické hodnocení. Sušené a zahuštěné potraviny určené pro kojeneckou a dětskou výživu se hodnotí po obnovení dle návodu.“.
+
+22\. V příloze č. 3 části 1 se v tabulce „OSTATNÍ POTRAVINY, POCHUTINY“ slovo „pochutiny“ a text „čaj fermentovaný i nefermentovaný, aromatizovaný, bylinné čaje, čaje ze suchých plodů a květů, čajové směsi“ zrušují.
+
+23\. V příloze č. 3 části 1 se do tabulky „NÁPOJE“ vkládá tento text: „čaj fermentovaný i nefermentovaný, aromatizovaný, bylinné čaje, čaje ze suchých plodů a květů, čajové směsi A“.
+
+24\. V příloze č. 3 části 1 se do tabulky „MLÝNSKÉ A PEKAŘSKÉ VÝROBKY“ vkládá položka „müsli B“.
+
+25\. V příloze č. 3 části 1 se do tabulky „ZELENINA A ZELENINOVÉ VÝROBKY“ vkládá položka „tekuté výrobky ze zeleniny (zeleninové šťávy) B“.
+
+26\. V příloze č. 3 části 1 se do tabulky „OSTATNÍ POTRAVINY“ vkládají položky „doplňky stravy B“ a „instantní polévky B“.
+
+27\. V příloze č. 3 části 2 „ARSEN“ se ve sloupci „Potravina“ v položkách „potraviny obecně A“ a „potraviny obecně B“ doplňují slova „včetně nápojů“.
+
+28\. V příloze č. 3 části 2 „ARSEN“ položka „rýže“ zní: „rýže kromě parboild rýže“.
+
+29\. V příloze č. 3 části 6 „KADMIUM“ se hodnota "PM mg.kg<sup>-1</sup> v položce „čaj“ mění z hodnoty „1,0“ na hodnotu „0,1“.
+
+30\. V příloze č. 3 částech 7 a 8 se položka „čaj“ zrušuje.
+
+31\. V příloze č. 3 části 9 se hodnota „PM mg.kg<sup>-1</sup> v položce „čaj“ mění z hodnoty „5,0“ na hodnotu „0,2“.
+
+32\. V příloze č. 3 části 15 položka „nealkoholické nápoje, pivo, víno“ se nahrazuje položkou „nápoje, pivo, víno, čaj (výluh připravený podle návodu, případně podle ČSN ISO 3103 (58 0420) Čaj. Příprava nálevu pro senzorické hodnocení)“.
+
+33\. V příloze č. 3 části 19 se v tabulkách č. 1, 3, 4, 6 a 7 položky „potraviny obecně A“ doplňují slovy „včetně nápojů A a B“.
+
+34\. V příloze č. 3 části 19 v tabulce č. 3 se slovo „potravina“ nahrazuje slovem „potraviny“.
+
+35\. V příloze č. 3 části 20 v tabulce č. 3 se na konci doplňuje položka „olomoucké tvarůžky PM mg.kg<sup>-1</sup> 350,0“.
+
+36\. Příloha č. 4 se zrušuje.
+
+37\. V příloze č. 8 položka E 953 zní:
+
+> „E 953 - ISOMALT
+
+> <table><tbody><tr><td>Synonyma</td><td>Hydrogenovaná isomaltulóza, hydrogenovaná palatinóza </td></tr><tr><td><b>Definice</b></td><td></td></tr><tr><td>Chemický název</td><td>Isomalt je směsí hydrogenovaných mono- a disacharidů, z nichž hlavními jsou tyto:</td></tr><tr><td></td><td>6-O-α-D-glukopyranosyl-D-sorbitol (1,6 GPS) a</td></tr><tr><td></td><td>1-O-α-D-glukopyranosyl-D-mannitoldihydrát (1,1 GPM)</td></tr><tr><td><b>Einecs</b></td><td></td></tr><tr><td>Kód E</td><td>E 953 </td></tr><tr><td rowspan="2">Chemický vzorec</td><td>6-O-α-D-glukopyranosyl-1,6-D-sorbitol C<sub>12</sub>H<sub>24</sub>O<sub>11</sub></td></tr><tr><td>1-O-α-D-glukopyranosyl-1,1-D-mannitoldihydrát C<sub>12</sub>H<sub>24</sub>O<sub>11 </sub>. 2H<sub>2</sub>O </td></tr><tr><td>Molekulová hmotnost</td><td>6-O-α-D-glukopyranosyl-1,6-D-sorbitol: 344,32 <br> 1-O-α-D-glukopyranosyl-1,1-D-mannitoldihydrát: 380,32 </td></tr><tr><td>Obsah</td><td>Obsah ne méně než 98 % hydrogenovaných mono- a disacharidů a ne méně než 86 % směsi 6-O-α-D-glukopyranosyl-D-sorbitolu a 1-O-α-D-glukolpyranosyl-D-mannitolu stanovené na bezvodé bázi </td></tr><tr><td><b>Popis</b></td><td>Bílá, krystalická, lehce hygroskopická látka bez zápachu</td></tr><tr><td><b>Identifikace</b></td><td></td></tr><tr><td>A. Rozpustnost</td><td>Rozpustný ve vodě, velmi mírně rozpustný v ethanolu </td></tr><tr><td>B. Chromatografie na tenké vrstvě </td><td>Zkouší se metodou chromatografie na tenké vrstvě s použitím desky s vrstvou 0,2 mm chromatografického silikagelu. Na chromatografu jsou základní skvrny pro 1,1-GPM a 1,6-GPS </td></tr><tr><td><b>Čistota</b></td><td></td></tr><tr><td>Obsah vody</td><td>Ne více než 7 % (Karl-Fischerova metoda)</td></tr><tr><td>Sulfátový popel </td><td>Ne více než 0,05 % vztaženo na sušinu </td></tr><tr><td>D-mannitol </td><td>Ne více než 3 % </td></tr><tr><td>D-sorbitol </td><td>Ne více než 6 %</td></tr><tr><td>Redukující cukry</td><td>Ne více než 0,3 % vyjádřeno jako glukóza v sušině </td></tr><tr><td>Nikl</td><td>Ne více než 2 mg.kg<sup>-1 </sup>vztaženo na sušinu </td></tr><tr><td>Arzen</td><td>Ne více než 3 mg.kg<sup>-1</sup> vztaženo na sušinu </td></tr><tr><td>Olovo</td><td>Ne více než 1 mg.kg<sup>-1</sup> vztaženo na sušinu </td></tr><tr><td>Těžké kovy</td><td>Ne více než 10 mg.kg<sup>-1 </sup>vztaženo na sušinu</td></tr></tbody></table>
+
+38\. V příloze č. 9 se pod název části E 160a(i) SMĚS KAROTENŮ vkládají slova „1. Karoteny pocházející z rostlin“.
+
+39\. V příloze č. 9 se na konci části E 160a(i) SMĚS KAROTENŮ doplňuje nový bod 2, který zní: „2. Karoteny pocházející z řas.
+
+> | **Definice** | Směs karotenů produkovaných řasou Dunaliella salina, rostoucí ve velkých slaných jezerech lokality Whyalla v Jižní Austrálii. Beta-karoten se extrahuje olejem. 20 - 30 % suspenze v sójovém oleji obsahuje přírodní tokoferoly (do 0,3 %). Podíl trans a cis izomerů je v rozsahu 50/50 - 71/29. |
+> |---|---|
+> | | Většina barviva sestává z karotenů, z nichž převážnou část tvoří beta-karoten. Mohou být přítomny alfa-karoten, lutein, zeaxanthin a beta-kryptoxanthin. Kromě barevných pigmentů mohou být přítomny oleje, tuky a vosky přirozeně se vyskytující v surovině. |
+> | Skupina | Karotenoid |
+> | Číslo Color Index | 75130 |
+> | Obsah | Obsah karotenů (počítáno jako beta-karoten) nesmí být nižší než 20 % |
+> | **Identifikace** | |
+> | A. Spektrometricky | Maximum v cyklohexanu při 448 nm - 457 nm a 474 nm - 486 nm |
+> | **Čistota** | |
+> | Arzen | Ne více než 3 mg.kg<sup>-1</sup> |
+> | Olovo | Ne více než 10 mg.kg<sup>-1</sup> |
+> | Rtuť | Ne více než 1 mg.kg<sup>-1</sup> |
+> | Kadmium | Ne více než 1 mg.kg<sup>-1</sup> |
+> | Těžké kovy (jako Pb) | Ne více než 40 mg.kg<sup>-1</sup>“. |
+
+## Čl. II – Přechodné ustanovení
+
+Výrobky vyrobené přede dnem účinnosti vydání této vyhlášky se posuzují podle dosavadních právních předpisů.
+
+## Čl. III
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2000.
+
+Ministr:
+
+MUDr. David, CSc. v. r.

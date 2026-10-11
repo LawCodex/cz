@@ -1,0 +1,54 @@
+---
+title: "Vyhláška Ministerstva dopravy a spojů č. 83/2000 Sb., kterou se mění vyhláška Ministerstva dopravy č. 223/1995 Sb., o způsobilosti plavidel k provozu na vnitrozemských vodních cestách"
+identifier: "83/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/83/2000-04-19"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-03-27
+effective: 2000-04-19
+last_amended: 2000-04-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/83"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva dopravy a spojů č. 83/2000 Sb., kterou se mění vyhláška Ministerstva dopravy č. 223/1995 Sb., o způsobilosti plavidel k provozu na vnitrozemských vodních cestách
+
+83
+
+VYHLÁŠKA
+
+Ministerstva dopravy a spojů
+
+ze dne 27. března 2000,
+
+kterou se mění vyhláška Ministerstva dopravy č. 223/1995 Sb., o způsobilosti plavidel k provozu na vnitrozemských vodních cestách
+
+Ministerstvo dopravy a spojů podle § 52 zákona č. 114/1995 Sb., o vnitrozemské plavbě, ve znění zákona č. 358/1999 Sb., (dále jen „zákon“) k provedení § 19 odst. 3 zákona stanoví:
+
+## Čl. I
+
+Ve vyhlášce č. 223/1995 Sb., o způsobilosti plavidel k provozu na vnitrozemských vodních cestách, se v § 8 dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:
+
+> „(2) Minimální limit plnění, na který musí být sjednáno pojištění odpovědnosti za škodu způsobenou provozem plavidla, činí
+
+> a) 250 000 Kč u malých plavidel do maximálního výtlaku 10 tun, kterými se provádí koncesovaná vodní doprava, a u převozních lodí určených k přepravě méně než 12 cestujících,
+
+> b) 500 000 Kč u malých plavidel nad maximální výtlak 10 tun, kterými se provádí koncesovaná vodní doprava,
+
+> c) 40 000 Kč na jednoho cestujícího z celkového počtu cestujících uvedeného v lodním osvědčení u osobních lodí a převozních lodí určených k přepravě více než 12 cestujících,
+
+> d) 2 000 Kč na jeden kilowat (kW) z celkového výkonu motoru u remorkérů uvedeného v lodním osvědčení,
+
+> e) 1 000 Kč na jednu tunu maximálního výtlaku u nákladních motorových lodí, speciálních lodí a plovoucích strojů uvedeného v lodním osvědčení,
+
+> f) 1 500 Kč na jednu tunu nosnosti u tankových motorových lodí a lodí přepravujících nebezpečný náklad uvedené v lodním osvědčení.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti patnáctým dnem následujícím po dni vyhlášení.
+
+Ministr:
+
+doc. Ing. Peltrám, CSc. v. r.

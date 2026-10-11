@@ -1,0 +1,115 @@
+---
+title: "Zákon Slovenskej národnej rady č. 572/1991 Sb., o štátnej správe v živnostenskom podnikaní"
+identifier: "572/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/572/1992-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1991-12-17
+effective: 1992-01-01
+last_amended: 1992-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/572"
+retrieved: 2026-10-11
+---
+
+# Zákon Slovenskej národnej rady č. 572/1991 Sb., o štátnej správe v živnostenskom podnikaní
+
+572
+
+ZÁKON
+
+Slovenskej národnej rady
+
+zo 17. decembra 1991
+
+o štátnej správe v živnostenskom podnikaní
+
+Slovenská národná rada sa uzniesla na tomto zákone:
+
+## § 1 – Orgány štátnej správy v živnostenskom podnikaní
+
+Orgánmi štátnej správy v živnostenskom podnikaní<sup>1</sup>) sú:
+
+a) Ministerstvo vnútra Slovenskej republiky (ďalej len „ministerstvo vnútra“),
+
+b) okresné úrady,
+
+c) obvodné úrady.
+
+## § 2 – Pôsobnosť ministerstva vnútra
+
+Ministerstvo vnútra ako ústredný orgán štátnej správy Slovenskej republiky pre živnostenské podnikanie
+
+a) riadi a kontroluje výkon štátnej správy v živnostenskom podnikaní,<sup>2</sup>)
+
+b) zabezpečuje jednotný informačný systém v živnostenskom podnikaní,
+
+c) spolupracuje s ústrednými orgánmi, hospodárskymi komorami a živnostenskými spoločenstvami, s obcami a s inými právnickými osobami vo veciach živnostenského podnikania, najmä pri vypracúvaní koncepcií alebo iných opatrení všeobecnej povahy,
+
+d) zabezpečuje zvyšovanie odbornosti pracovníkov okresných a obvodných úradov v živnostenskom podnikaní, vrátane overovania osobitnej odbornej spôsobilosti.<sup>3</sup>)
+
+## § 3 – Pôsobnosť okresného úradu
+
+Okresný úrad v živnostenskom podnikaní
+
+a) riadi a kontroluje výkon štátnej správy uskutočňovanej obvodnými úradmi,
+
+b) rozhoduje v pochybnostiach o rozsahu živnostenského oprávnenia,<sup>4</sup>)
+
+c) vykonáva v druhom stupni štátnu správu vo veciach, v ktorých v správnom konaní v prvom stupni konajú obvodné úrady.<sup>5</sup>)
+
+## § 4 – Pôsobnosť obvodného úradu
+
+Obvodný úrad vykonáva v prvom stupni štátnu správu v živnostenskom podnikaní<sup>1</sup>) s výnimkou uvedenou v § 3 písm. b) tohto zákona.
+
+## § 5 – Kontrolóri obvodných úradov
+
+Pracovníci obvodných úradov, ktorí plnia úlohy na úseku kontroly živnostenského podnikania (ďalej len „kontrolóri“), sú oprávnení pri výkone prehliadky prevádzkarne<sup>6</sup>) v prítomnosti podnikateľa vstupovať do všetkých priestorov prevádzkarne.<sup>7</sup>) Pri výkone prehliadky prevádzkarne sa preukazujú preukazom kontrolóra.
+
+## § 6 – Zrušovacie ustanovenie
+
+Zrušujú sa:
+
+1\. zákon č. 63/1948 Zb. o zhodnotení činnosti národných správcov živnostenských podnikov a o právach ich vdov a sirôt;
+
+2\. zákon Slovenskej národnej rady č. 130/1981 Zb. o vnútornom obchode v znení neskorších predpisov;
+
+3\. zákon Slovenskej národnej rady č. 130/1990 Zb. o niektorých opatreniach súvisiacich s vydaním zákona o súkromnom podnikaní občanov;
+
+4\. položky č. 45 prílohy B, č. 105 až 108 a 155 prílohy D a č. 39 až 41 a 86 prílohy E zákona Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy;
+
+5\. vyhláška Osídľovacieho úradu a Fondu národnej obnovy v Prahe č. 414/1949 Ú. v. o obsadzovaní uvoľnených národných správ drobných živnostenských podnikov;
+
+6\. vyhláška ministra priemyslu č. 54/1950 Zb., ktorou sa určuje začiatok účinnosti pre presuny pôsobnosti v niektorých veciach živnostenského a iného podnikania;
+
+7\. vyhláška Ministerstva financií č. 359/1951 Ú. v. o zrušení niektorých obmedzení uložených prídelcom živnostenských podnikov;
+
+8\. vyhláška ministra vnútorného obchodu č. 206/1953 Ú. v. o výkupe prázdnych fliaš;
+
+9\. vyláška Ministerstva vnútra Slovenskej socialistickej republiky, Ministerstva obchodu Slovenskej socialistickej republiky, Ministerstva poľnohospodárstva a výživy Slovenskej socialistickej republiky, Ministerstva stavebníctva Slovenskej socialistickej republiky a Slovenského cenového úradu č. 67/1979 Zb., ktorou sa vykonávajú niektoré ustanovenia Občianskeho zákonníka upravujúce poskytovanie služieb občanom.
+
+## § 7 – Účinnosť
+
+Tento zákon nadobúda účinnosť spolu s účinnosťou zákona č. 455/1991 Zb.
+
+F. Mikloško v. r.
+
+J. Čarnogurský v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon).
+
+<sup>2</sup>) § 10 písm. a) zákona Slovenskej národnej rady č. 472/1990 Zb. o organizácii miestnej štátnej správy.
+
+<sup>3</sup>) § 9 písm. c) zákona Slovenskej národnej rady č. 472/1990 Zb. 
+ Bod II/12 prílohy nariadenia vlády Slovenskej republiky č. 176/1991 Zb., ktorým sa ustanovujú predpoklady pre výkon funkcií v okresných a v obvodných úradoch, ktoré si vyžadujú osobitnú odbornú spôsobilosť.
+
+<sup>4</sup>) § 28 ods. 2 zákona č. 455/1991 Zb.
+
+<sup>5</sup>) § 7 ods. 2 zákona SNR č. 472/1990 Zb.
+
+<sup>6</sup>) § 30 ods. 1 zákona č. 455/1991 Zb.
+
+<sup>7</sup>) § 17 ods. 1 a 2 zákona č. 455/1991 Zb.

@@ -1,0 +1,196 @@
+---
+title: "Vyhláška Federálního ministerstva paliv a energetiky č. 3/1990 Sb., o změně a doplnění vyhlášky federálního ministerstva paliv a energetiky č. 106/1977 Sb., kterou se vydávají základní podmínky dodávky tuhých paliv, ve znění vyhlášky č. 1/1987 Sb."
+identifier: "3/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/3/1990-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1989-12-08
+effective: 1990-04-01
+last_amended: 1990-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/3"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva paliv a energetiky č. 3/1990 Sb., o změně a doplnění vyhlášky federálního ministerstva paliv a energetiky č. 106/1977 Sb., kterou se vydávají základní podmínky dodávky tuhých paliv, ve znění vyhlášky č. 1/1987 Sb.
+
+3
+
+VYHLÁŠKA
+
+federálního ministerstva paliv a energetiky
+
+ze dne 8. prosince 1989
+
+o změně a doplnění vyhlášky federálního ministerstva paliv a energetiky č. 106/1977 Sb., kterou se vydávají základní podmínky dodávky tuhých paliv, ve znění vyhlášky č. 1/1987 Sb.
+
+Federální ministerstvo paliv a energtiky v dohodě se zúčastněnými ústředními orgány a Státní arbitráží Československé socialistické republiky stanoví podle § 392 hodpodářského zákoníku č. 109/1964 Sb., v úplném znění vyhlášeném pod č. 80/1989 Sb. (dále jen „zákon“):
+
+## Čl. I
+
+1\. § 2 a 3 se vypouštějí včetně poznámky č. 2, 3 a 4.
+
+2\. § 4 zní:
+
+> **„§ 4**
+
+> (1) Smlouva se uzavírá zpravidla na období jednoho roku, u dodávek pod 1000 t za rok zpravidla na čtvrtletí období.
+
+> (2) Odběratel předkládá návrh smlouvy dodavateli nejpozději 1 měsíc před začátkem smluvního období.
+
+> (3) V návrhu smlouvy uvede odběratel kromě náležitostí nutných pro vznik smlouvy podle zákona dále též zpravidla
+
+> a) číselné označení své organizace podle jednotného čísleníku organizací v ČSSR,<sup>5</sup>)
+
+> b) u roční smlouvy požadované množství na jednotlivá čtvrtletí,
+
+> c) maximální skladovací kapacitu jednotlivých odběrních míst,
+
+> d) maximální denní kapacitu vykládky jednotlivých odběrních míst a organizace obchodu palivy uvede též požadovanou maximální denní expedici dodavatele,
+
+> e) způsob vykládky a vykládací zařízení a tomu odpovídající požadavek na dodávky v železničních vozech příslušné řady a druhu.
+
+> (4) Odběratel, který předkládá organizaci obchodu palivy návrh smlouvy na dodávku tuhých paliv do 200 t, zpravidla neuvádí údaje uvedené v odstavci 3 písm. b) až e).“.
+
+3\. § 5 se vypouští.
+
+4\. § 6 zní:
+
+> **„§ 6 – Splnění dodávky**
+
+> Jsou-li paliva dopravována lanovkou, dopravním pásem nebo jiným dopravním prostředkem odběratele, popřípadě po železniční vlečce bez účasti veřejného dopravce, je dodávka splněna naložením.“.
+
+5\. § 7 zní:
+
+> **„§ 7**
+
+> Dodavatel může uskutečnit dodávku paliv před sjednaným časem plnění pouze s předchozím písemným souhlasem odběratele. Dodavatel je povinen uskutečňovat tyto dodávky tak, aby množství dodávaného paliva nepřesahovalo maximální skladovací kapacitu jednotlivých odběrních míst, maximální denní kapacitu vykládky jednotlivých odběrních míst a u dodávek pro organizace obchodu palivy též sjednanou maximální denní expedici.“.
+
+6\. § 8 se vypuští.
+
+7\. § 9 včetně nadpisu a poznámky č. 5a zní:
+
+> **„§ 9**
+
+> **Jakost**
+
+> Organizace sjednávají dodávky v bilančním třídění. Bilančním tříděním se rozumí rozdělení paliv na tříděné, prachové a ostatní druhy. Požaduje-li to odběratel, je dodavatel povinen sjednat dodávky podle tříd zrnění.<sup>5a</sup>)
+
+> <sup>5a</sup>) ČSN 44 1406.“.
+
+8\. § 10 zní:
+
+> **„§ 10 – Jakostní skupiny**
+
+> Dodavatel oznamuje organizaci obchodu palivy jakostní skupiny, které budou dodávány v běžném měsíci, a to vždy do konce předchozího měsíce.“.
+
+9\. § 11 zní:
+
+> **„§ 11 – Způsob zjišťování jakosti paliva**
+
+> Znaky jakosti paliva se zjišťují a sdělují odběratelům stanoveným v technických normách.<sup>1</sup>)“.
+
+10\. § 12 se vypouští.
+
+11\. § 13 včetně poznámky č. 5b zní:
+
+> **„§ 13 – Množství**
+
+> (1) Za úřední zjištění množství se považuje také vážení na úředně ověřených vahách dodavatele nebo odběratele provedené osobou, jejíž způsobilost byla prověřena podle zvláštního předpisu.<sup>5b</sup>)
+
+> (2) Dodané množství se může odchylovat od smluveného množství o + 3 % a - 3 %.
+
+> <sup>5b</sup>) § 23 vyhlášky Úřadu pro normalizaci a měření č. 61/1963 Sb., o zajišťování správnosti měřidel a měření.“.
+
+12\. § 14 zní:
+
+> **„§ 14 – Přeprava**
+
+> Dodavatelé jsou povinni ve spolupráci se železničními orgány a odběrateli využít všech expedičních možností pro soustřeďování železničních vozových zásilek a tvorbu ucelených vlaků.“.
+
+13\. § 15 a 16 se vypouštějí.
+
+14\. § 17 zní:
+
+> **„§ 17 – Předisponování zásilky**
+
+> (1) Dodavatel je oprávněn z dopravních<sup>8</sup>) nebo technických důvodů předisponovat vozovou zásilku podanou již k přepravě na jiné místo určení. V takovém případě se ruší účinky předání zásilky k přepravě původnímu odběrateli a platí, že bylo plněno novému odběrateli. Původnímu odběrateli je dodavatel povinen splnit dodávku tak, aby nedošlo k ohrožení jeho provozu.
+
+> (2) Dodavatel je povinen nejpozději do 2 pracovních dnů po obdržení oznámení o oprávněném odmítnutí převzetí zásilky odběratelem předat odběrateli dispozice potřebné k odeslání nepřevzatého paliva. Náklady s tím spojené hradí dodavatel.“.
+
+15\. § 18 se vypouští.
+
+16\. Nadpis oddílu čtvrtého zní:
+
+> **„Prověřování plnění a odpovědnost za vady“**
+
+17\. § 19 odst. 2 zní:
+
+> „(2) Nedostaví-li se dodavatel do 2 pracovních dnů ode dne, kdy obdržel oznámení o vadné dodávce (u dodávek v přímých odesilatelských vlacích do 24 hodin od oznámení), ke kontrolní přejímce, je odběratel oprávněn ji provést podle příslušné technické normy. V tom případě je podkladem pro reklamační řízení kontrolní vzorek odebraný podle příslušné technické normy<sup>1</sup>) a zápis o odběru.“.
+
+18\. § 21 se vypouští.
+
+19\. § 22 včetně nadpisu a poznámky č. 10 a 10a zní:
+
+> **„§ 22 – Odpovědnost za vady**
+
+> (1) Bylo-li dodáno palivo, jehož jakost zjištěná rozborem kontrolního vzorku (laboratorním či mechanickým) nevyhovuje účelovým znakům jakosti stanoveným technickou normou,<sup>10</sup>) má odběratel
+
+> a) může-li použít dodané palivo, právo na přiměřenou slevu,
+
+> b) nemůže-li použít dodané palivo, právo požadovat v rozsahu vadného plnění nové bezvadné plnění nebo zrušení smlouvy.
+
+> (2) V případě stanoveném v odstavci 1 písm. b), je odběratel povinen vyrozumět dodavatele o svém požadavku na nové bezvadné plnění nebo zrušení smlouvy současně s oznámením o zjištěných vadách dodávky podle § 19. Dodavatel je v tom případě povinen dát odběrateli do 2 pracovních dnů dispozice, jak má s vadným palivem na náklady dodavatele naložit.
+
+> (3) Dodávky uhlí a briket uskutečněné organizaci obchodu palivy, jejichž vady spočívají v překročení technickou normou přípustného obsahu viditelné hlušiny, prachu a podsítného oproti deklarovanému druhu, převezme organizace obchodu palivy jako dodávky kvalitativně nižšího druhu podle přílohy této vyhlášky.
+
+> (4) Dodávky uhlí a briket uskutečněné organizaci obchodu palivy u nichž došlo k narušení kvalitativních znaků v důsledku samovznícení v záruční době při dodržení ustanovení technické normy,<sup>10a</sup>) jsou posuzovány jako dodávky kvalitativně nižšího druhu podle přílohy této vyhlášky. Organizace obchodu palivy má právo požadovat na dodavateli určení odběratele tohoto vadného paliva.
+
+> (5) Samovznícením se pro účely posouzení kvality uhlí a briket podle odstavce 4 rozumí zvýšení teploty paliva nad 100°C.
+
+> <sup>10</sup>) ČSN 44 1400.
+
+> <sup>10a</sup>) ČSN 44 1315.“.
+
+20\. § 23 včetně nadpisu zní:
+
+> **„§ 23 – Penále za vadné plnění**
+
+> (1) Dodavatel je povinen zaplatit odběrateli penále ve výši 5 % z ceny vadného paliva jen v případech, nemůže-li odběratel dodaného vadného paliva použít.
+
+> (2) Penále za vadné plnění podle odstavce 1 se neplatí
+
+> a) v případě, kdy si odběratel vadnou dodávku uvedenou v § 22 odst. 1 ponechá.
+
+> b) v případě dodávek hnědého uhlí a briket pro organizace obchodu palivy, kdy práva z odpovědnosti za vady jsou řešena podle § 22 odst. 3 a 4.“.
+
+21\. § 24 až 26 se vypouštějí.
+
+22\. § 27 zní:
+
+> **„§ 27**
+
+> (1) Organizace se nemohou dohodnout odchylně od ustanovení § 6 a 17 vyhlášky.
+
+> (2) Ustanoveními této vyhlášky se řídí i právní vztahy vzniklé před 1. dubnem 1990; vznik těchto právních vztahů, jakož i práva z nich vzniklá před 1. dubnem 1990 se však řídí dosavadními předpisy.“.
+
+23\. § 28 se vypouští.
+
+## Čl. II
+
+Příloha k vyhlášce se zrušuje a nahrazuje novým zněním.
+
+## Čl. III
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 1990.
+
+Ministr:
+
+Prof. Ing. Krumnikl DrSc. v. r.
+
+### Příloha vyhlášky č. 3/1990 Sb.
+
+#### Převzetí vadných dodávek uhlí a briket obchodem palivy
+
+<table><tbody><tr><th colspan="2">Původní deklarace dodávky</th><th>Kritérium vad</th><th colspan="2">Nová deklarace dodávky</th></tr><tr><td colspan="5"><b>1. Obsah viditelné hlušiny</b></td></tr><tr><td rowspan="5">uhlí jak. skupiny</td><td rowspan="2">A</td><td>101 – 200 % normy</td><td>jak. skupina </td><td>B </td></tr><tr><td>nad 201 % normy</td><td></td><td>C </td></tr><tr><td rowspan="2">B</td><td>101 – 200 % normy</td><td></td><td>C</td></tr><tr><td>nad 201 % normy</td><td>prach </td><td>C </td></tr><tr><td>C </td><td>nad 100 % normy</td><td>prach </td><td>C </td></tr><tr><td colspan="5"><b>2. Obsah prachu</b></td></tr><tr><td rowspan="5">uhlí jak. skupiny</td><td rowspan="2">A</td><td>101 – 200 % normy</td><td>jak. skupina </td><td>B </td></tr><tr><td>nad 201 % normy</td><td></td><td>C </td></tr><tr><td rowspan="2">B</td><td>101 – 200 % normy</td><td></td><td>C </td></tr><tr><td>nad 201 % normy</td><td>prach </td><td>C </td></tr><tr><td>C </td><td>nad 100 % normy</td><td>prach </td><td>C </td></tr><tr><td colspan="5"><b>3. Obsah podsítného</b></td></tr><tr><td rowspan="2">brikety</td><td rowspan="2"></td><td>101 – 200 % normy</td><td>zlomky</td><td></td></tr><tr><td>nad 201 % normy</td><td>třísky</td><td></td></tr><tr><td colspan="5"><b>4. Samovznícení v záruční době</b></td></tr><tr><td>hnědé uhlí</td><td></td><td colspan="3"></td></tr><tr><td>jakostní skupiny </td><td>A </td><td></td><td>prach </td><td>B </td></tr><tr><td>jakostní skupiny </td><td>B </td><td></td><td>prach </td><td>C </td></tr><tr><td>jakostní skupiny </td><td>C </td><td></td><td>těžné a ostatní</td><td></td></tr><tr><td>brikety</td><td></td><td></td><td>třísky</td><td></td></tr></tbody></table>

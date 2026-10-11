@@ -1,0 +1,316 @@
+---
+title: "Vyhláška Ministerstva zdravotnictví č. 490/2000 Sb., o rozsahu znalostí a dalších podmínkách k získání odborné způsobilosti v některých oborech ochrany veřejného zdraví"
+identifier: "490/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/490/2016-02-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-12-15
+effective: 2001-01-01
+last_amended: 2016-02-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/490"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva zdravotnictví č. 490/2000 Sb., o rozsahu znalostí a dalších podmínkách k získání odborné způsobilosti v některých oborech ochrany veřejného zdraví ve znění vyhlášky č. 472/2006 Sb. a vyhlášky č. 41/2016 Sb."
+---
+
+# Vyhláška Ministerstva zdravotnictví č. 490/2000 Sb., o rozsahu znalostí a dalších podmínkách k získání odborné způsobilosti v některých oborech ochrany veřejného zdraví
+
+490
+
+VYHLÁŠKA
+
+Ministerstva zdravotnictví
+
+ze dne 15. prosince 2000
+
+o rozsahu znalostí a dalších podmínkách k získání odborné způsobilosti v některých oborech ochrany veřejného zdraví
+
+Ministerstvo zdravotnictví stanoví podle § 108 odst. 1 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, (dále jen „zákon“) k provedení § 19 odst. 3, § 59 odst. 2, § 60 odst. 1 a 3 a § 83e odst. 2 zákona:
+
+## § 1 – Úvodní ustanovení
+
+Tato vyhláška upravuje
+
+a) obsah a rozsah kursů v oboru speciální ochranné dezinfekce, dezinsekce a deratizace, rozsah znalostí nutných k ochraně veřejného zdraví při výkonu činností epidemiologicky závažných a znalosti, které musí osoba prokázat při zkoušce odborné způsobilosti k provádění hodnocení zdravotních rizik,
+
+b) náležitosti přihlášky ke zkoušce odborné způsobilosti v oboru speciální ochranné dezinfekce, dezinsekce a deratizace a základní obsah této zkoušky,
+
+c) složení zkušebních komisí, podmínky provedení zkoušky v oborech podle písmene a), vzory osvědčení o odborné způsobilosti a vzor osvědčení o autorizaci k hodnocení zdravotních rizik.
+
+**Zkoušky odborné způsobilosti a obsah a rozsah kursů v oboru speciální ochranné dezinfekce, dezinsekce a deratizace**
+
+## § 2
+
+Obsah a rozsah kursů k získání znalostí pro výkon speciální ochranné dezinfekce, dezinsekce a deratizace, jejichž absolvování je jednou z podmínek výkonu odborných činností v oblasti speciální ochranné dezinfekce, dezinsekce a deratizace, upravuje příloha č. 1.
+
+## § 3
+
+(1) V přihlášce ke zkoušce odborné způsobilosti se uvede
+
+a) jméno, popřípadě jména, příjmení, akademický titul, datum narození a adresa místa trvalého pobytu, popřípadě bydliště, nemá-li osoba trvalý pobyt na území České republiky,
+
+b) délka a obsah odborné praxe,
+
+c) obor činnosti, pro kterou žádá uchazeč o provedení zkoušky odborné způsobilosti.
+
+(2) K přihlášce ke zkoušce odborné způsobilosti podle § 58 odst. 1 až 3 zákona musí být připojena úředně ověřená kopie dokladu o absolvování příslušného odborného kursu, pokud ho osoba absolvovala.
+
+## § 4
+
+(1) Zkouška odborné způsobilosti sestává z písemné a ústní části; jejím obsahem je ověření znalostí získaných v rozsahu stanoveném v příloze č. 1.
+
+(2) Podmínkou pro připuštění k ústní části zkoušky odborné způsobilosti je úspěšné vykonání písemného testu, čímž se rozumí správné zodpovězení alespoň dvou třetin otázek.
+
+(3) Zkouška odborné způsobilosti je neveřejná.
+
+## § 5
+
+(1) Zkušební komise je tříčlenná. Skládá se z předsedy a dvou dalších členů, které jmenuje příslušný orgán ochrany veřejného zdraví, který komisi zřídil (§ 60 odst. 1 zákona). Předsedou zkušební komise může být jmenována jen vysokoškolsky vzdělaná osoba činná na úseku hygieny práce nebo speciální ochranné dezinfekce, dezinsekce a deratizace nebo jejího odborného usměrňování nejméně 5 let. Členy zkušební komise mohou být jmenovány jen vysokoškolsky nebo středoškolsky vzdělané osoby činné na úseku hygieny práce nebo speciální ochranné dezinfekce, dezinsekce a deratizace nebo jejího odborného usměrňování nejméně 5 let. Členství ve zkušební komisi je neslučitelné s výkonem živnosti v oboru speciální ochranné dezinfekce, dezinsekce a deratizace.
+
+(2) Zkušební komise hodnotí zvlášť výsledky zkoušky odborné způsobilosti v jejích jednotlivých oborech, kterými jsou speciální ochranná dezinfekce, dezinsekce a deratizace. Pokud uchazeč uspěl ve všech těchto oborech, hodnotí zkušební komise výsledek zkoušky odborné způsobilosti výrokem „zkoušku odborné způsobilosti úspěšně složil“. Pokud uchazeč v jednom nebo více oborech zkoušky odborné způsobilosti neuspěl, hodnotí komise výsledek výrokem „zkoušku odborné způsobilosti nesložil“. Zkušební komise se usnáší většinou hlasů.
+
+## § 6
+
+Zkušební komise nejméně 14 dní před konáním zkoušky odborné způsobilosti vyrozumí uchazeče o jejím termínu, časovém rozvrhu a místě konání.
+
+## § 7
+
+(1) O průběhu zkoušky odborné způsobilosti vyhotoví předseda zkušební komise protokol, ve kterém uvede
+
+a) jména a příjmení členů zkušební komise,
+
+b) datum a místo konání písemné a ústní části zkoušky odborné způsobilosti a dobu jejich zahájení a ukončení,
+
+c) seznam uchazečů a výsledky jejich hodnocení,
+
+d) datum vyhotovení protokolu.
+
+(2) Přílohou protokolu jsou odevzdané písemné testy.
+
+(3) Protokol podepisují všichni členové zkušební komise. Protokol se ukládá na příslušné krajské hygienické stanici.<sup>1</sup>)
+
+## § 8
+
+Vzor osvědčení o odborné způsobilosti podle § 58 odst. 1 až 3 zákona je uveden v příloze č. 5 k této vyhlášce.
+
+**Zkouška znalostí nutných k ochraně veřejného zdraví při výkonu činností epidemiologicky závažných**
+
+## § 10
+
+(1) Zkouška znalostí nutných k ochraně veřejného zdraví při výkonu činností epidemiologicky závažných<sup>2</sup>) sestává pouze z ústní části. Rozsah znalostí nutných k ochraně veřejného zdraví při výkonu činností epidemiologicky závažných je upraven v příloze č. 3.
+
+(2) Na zkušební komisi a na její složení a členství v ní se vztahuje § 5 odst. 1 s tím rozdílem, že kvalifikace předsedy a členů komise se zakládá na činnosti na úseku epidemiologie, hygieny výživy a předmětů běžného užívání nebo hygieny všeobecné a komunální vykonávané po dobu nejméně 5 let.
+
+## § 11
+
+Pro zkoušku a její průběh platí § 5 odst. 2 a § 7 odst. 1 a 3 obdobně.
+
+## § 11a – Zkouška odborné způsobilosti k provádění hodnocení zdravotních rizik
+
+(1) Zkouška znalostí nutných k provádění hodnocení zdravotních rizik se sestává
+
+a) z písemné části, ve které má žadatel prokázat obecné znalosti o zásadách hodnocení zdravotních rizik podle části A přílohy č. 4 k této vyhlášce, a
+
+b) z ústní části, ve které má žadatel prokázat obecné znalosti metod hodnocení zdravotních rizik a znalosti v rozsahu hodnocení zdravotních rizik expozic ve specifických oblastech podle přílohy č. 4 k této vyhlášce.
+
+Písemnou část zkoušky žadatel vykoná před ústní zkouškou. Podmínkou pro připuštění k ústní části zkoušky odborné způsobilosti k provádění hodnocení zdravotních rizik je úspěšné vykonání její písemné části, které spočívá ve správných odpovědích alespoň na dvě třetiny položených otázek. Zkouška je neveřejná.
+
+(2) Zkušební komise ustavená ke zkoušce odborné způsobilosti k získání autorizace pro hodnocení zdravotních rizik je tříčlenná. Skládá se z předsedy a dvou dalších členů. Předsedou zkušební komise a jejími členy může být jmenována jen vysokoškolsky vzdělaná osoba činná nejméně 5 let na úseku hodnocení zdravotních rizik.
+
+(3) Pro vyrozumění žadatele o konání zkoušky a o průběhu zkoušky platí ustanovení § 6 a 7 obdobně. Protokol o průběhu zkoušky se ukládá u autorizující osoby po dobu 10 let.
+
+(4) Znalosti, které musí žadatel prokázat při zkoušce odborné způsobilosti k získání autorizace pro provádění hodnocení zdravotních rizik, jsou upraveny v příloze č. 4 k této vyhlášce.
+
+## § 11b
+
+Vzor osvědčení o autorizaci podle § 83e odst. 1 zákona je uveden v příloze č. 6 k této vyhlášce.
+
+## § 12 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2001.
+
+Ministr:
+
+prof. MUDr. Fišer, CSc. v. r.
+
+### Příloha č. 1 k vyhlášce č. 490/2000 Sb.
+
+#### Kursy v oboru speciální ochranné dezinfekce, dezinsekce a deratizace
+
+1\. Odborný kurs podle § 58 odst. 1 zákona. Celkový rozsah kursu je 82 hodin teoretické výuky a 18 hodin praktické výuky.
+
+| Obsah kursu: | Rozsah kursu: |
+|---|---|
+| 1. Úkoly speciální ochranné dezinfekce, dezinsekce a deratizace | 2 hodiny |
+| 2. Zásady hygieny a bezpečnosti práce, ochrana životního prostředí při práci | 2 hodiny |
+| 3. Základy epidemiologie a mikrobiologie | 2 hodiny |
+| 4. Obsah právní úpravy v ochranné dezinfekci, dezinsekci a deratizaci podle zákona v rozsahu povinností osob v oblasti speciální ochranné dezinfekce, dezinsekce a deratizace | 4 hodiny |
+| 5. Toxikologie - vlastnosti látek a přípravků, používaných v ochranné dezinfekci, dezinsekci a deratizaci | 2 hodiny |
+| 6. Zásady první pomoci | 2 hodiny |
+| 7. Dezinfekce | 22 hodin a 6 hod. praktické výuky |
+| 8. Dezinsekce a entomologie | 24 hodin a 6 hod. praktické výuky |
+| 9. Deratizace a hlodavci a další obratlovci | 18 hodin a 6 hodin praktické výuky |
+| 10. Způsoby komunikace s orgány ochrany veřejného zdraví, způsoby hlášení zásahu | 1 hodina |
+| 11. Doplnění výuky s ohledem na pracovní zaměření účastníků kursu | 2 hodiny |
+| 12. Zhodnocení kursu, organizace zkoušek | 1 hodina |
+
+2\. Speciální mistrovský kurs podle § 58 odst. 2 zákona. Celkový rozsah kursu je 91 hodin teoretické výuky a 11 hodin praktické výuky.
+
+| Obsah kursu: | Rozsah kursu: |
+|---|---|
+| 1. Úkoly vedoucích pracovníků při provádění speciální ochranné dezinfekce, dezinsekce a deratizace | 1 hodina |
+| 2. Zásady hygieny a bezpečnosti práce, ochrana životního prostředí při práci | 1 hodina |
+| 3. Rozšířené základy epidemiologie a mikrobiologie | 1 hodina |
+| 4. Právní předpisy v ochranné dezinfekci, dezinsekci a deratizaci | 4 hodiny |
+| 5. Způsoby bezpečného používání přípravků speciální ochranné dezinfekce, dezinsekce a deratizace | 15 hodin |
+| 6. Zásady první pomoci | 2 hodiny |
+| 7. Dezinfekce, způsoby kontroly prováděných zásahů a účinnosti | 15 hodin a 3 hodiny praktické výuky |
+| 8. Dezinsekce, entomologie, způsoby kontroly prováděných zásahů a účinnosti | 30 hodin a 5 hodin praktické výuky |
+| 9. Hlodavci a další obratlovci, deratizace, způsoby kontroly prováděných zásahů a účinnosti | 18 hodin a 3 hodiny praktické výuky |
+| 10. Dokumentace, způsoby komunikace a spolupráce s orgány ochrany veřejného zdraví, způsoby hlášení <br> zásahu | 1 hodina |
+| 11. Doplnění výuky s ohledem na pracovní zaměření účastníků kurzu | 2 hodiny |
+| 12. Zhodnocení kursu, organizace zkoušek | 1 hodina |
+
+3\. Odborný kurs pro práci s toxickými a vysoce toxickými chemickými látkami a chemickými přípravky podle § 58 odst. 3 zákona. Celkový rozsah kursu je 83 hodin teoretické výuky a 16 hodin praktické výuky.
+
+| Obsah kursu: | Rozsah kursu: |
+|---|---|
+| 1. Účel a specifikace používání toxických přípravků v ochranné speciální dezinfekci, dezinsekci a deratizaci | 2 hodiny |
+| 2. Toxické přípravky pro dezinfekci a metody jejich použití | 12 hodin a 3 hodiny praktické výuky |
+| 3. Toxické přípravky pro dezinsekci a metody jejich použití | 12 hodin a 3 hodiny praktické výuky |
+| 4. Metody a způsoby použití plynných jedovatých přípravků v dezinsekci | 25 hodin a 6 hodin praktické výuky |
+| 5. Metody a způsoby použití inertních plynů jako řízených atmosfér v dezinfekci, dezinsekci a deratizaci | 5 hodin a 2 hodiny praktické výuky |
+| 6. Toxické látky v deratizaci, příprava nástrah | 10 hodin a 5 hodin praktické výuky |
+| 7. Zásady bezpečnosti práce a hygieny | 7 hodin |
+| 8. První pomoc při otravách, poleptání a úrazech | 7 hodin |
+
+### Příloha č. 3 k vyhlášce č. 490/2000 Sb.
+
+#### Rozsah znalostí nutných k ochraně veřejného zdraví při výkonu činnosti epidemiologicky závažné
+
+1\. Znalosti nutné k ochraně veřejného zdraví z hlediska prevence alimentárních nákaz u osob vykonávajících pracovní činnosti při výrobě a oběhu potravin a ve stravovacích službách jsou:
+
+a) požadavky na zdravotní stav osob vykonávajících příslušnou činnost,
+
+b) zásady osobní hygieny při práci,
+
+c) zásady hygienicky nezávadného čištění a dezinfekce, technologie výroby, hygienicky nezávadný režim přepravy, skladování a uvádění do oběhu epidemiologicky rizikových výrobků,
+
+d) alimentární nákazy a otravy z potravin (základní znalosti o jejich epidemiologii a zásadách předcházení jejich vzniku a šíření),
+
+e) speciální hygienická problematika podle příslušné pracovní činnosti.
+
+2\. Znalosti nutné k ochraně veřejného zdraví z hlediska prevence raných kožních a pohlavních nákaz u osob vykonávajících pracovní činnosti při kterých přicházejí do styku s tělem zákazníka, dále osob činných v provozovnách masérských, regeneračních a rekondičních služeb, v provozovnách kadeřnictví, pedikúry, manikúry, kosmetické péče a výrobě kosmetických prostředků, jsou:
+
+a) požadavky na zdravotní stav osob vykonávajících příslušnou činnost,
+
+b) základní hygienické zásady při práci,
+
+c) základy dezinfekce a sterilizace,
+
+d) rané a kožní nákazy (základní znalosti o jejich epidemiologii a prevenci),
+
+e) zacházení s prádlem a jeho ukládání,
+
+f) pohlavní nákazy (základní znalosti o jejich epidemiologii a prevenci),
+
+g) speciální hygienická problematika podle pracovní činnosti v rozsahu provozního řádu.
+
+3\. Znalosti nutné k ochraně veřejného zdraví z hlediska prevence nemocí způsobených vodou u osob přicházejících při pracovních činnostech v úpravnách vod a při provozování vodovodů do přímého styku s vodou jsou:
+
+a) požadavky na zdravotní stav osob vykonávajících příslušnou činnost,
+
+b) zásady osobní hygieny při práci,
+
+c) zásady hygienicky nezávadné obsluhy a údržby vodárenských zařízení,
+
+d) 1. základní znalosti o příčinách, epidemiologii a zásadách předcházení vzniku a šíření nákaz, na kterých se může podílet voda,
+
+2\. základní znalosti o příčinách otravy z vody,
+
+e) speciální hygienická problematika podle pracovní činnosti v rozsahu provozního řádu úpravny vody nebo vodovodu.
+
+### Příloha č. 4 k vyhlášce č. 490/2000 Sb.
+
+#### Náležitosti osvědčení o úspěšném složení zkoušky znalostí nutných k ochraně veřejného zdraví při výkonu činností epidemiologicky závažných
+
+#### Znalosti nutné ke zkoušce odborné způsobilosti k získání autorizace pro hodnocení zdravotních rizik
+
+A. Obecné znalosti o zásadách hodnocení zdravotních rizik:
+
+1\. Základy systému hodnocení zdravotních rizik a jeho návaznost na epidemiologii.
+
+2\. Nebezpečné vlastnosti hluku a vztah expozice a biologického účinku.
+
+3\. Nebezpečné vlastnosti neionizujícího záření a vztah expozice a biologického účinku.
+
+4\. Nebezpečné vlastnosti chemických látek a prachu.
+
+5\. Nebezpečné vlastnosti biologických agens a vztah expozice a biologického účinku.
+
+6\. Identifikace nebezpečnosti a vybrané kapitoly z toxikologie, tj. reprodukční a vývojová toxicita, neurotoxicita, genotoxicita, karcinogenita, alergická hypersenzitivita, hepatotoxicita, nefrotoxicita, imunotoxicita, lokální a systémové účinky, akutní a chronické účinky látek.
+
+7\. Vztah dávky (expozice) a účinku (odezvy) chemických látek.
+
+8\. Odhad expozice biologickým agens v prostředí, charakterizace zdravotních rizik.
+
+9\. Odhad expozice hluku v životním prostředí a vnitřním prostředí, charakterizace zdravotních rizik.
+
+10\. Odhad expozice neionizujícímu záření v životním prostředí a vnitřním prostředí, charakterizace zdravotních rizik.
+
+11\. Odhad expozice chemickým látkám v ovzduší a půdě, charakterizace zdravotních rizik.
+
+12\. Odhad expozice chemickým a biologickým agens ve vodách, charakterizace zdravotních rizik.
+
+13\. Odhad expozice chemickým látkám z výrobků a materiálů, charakterizace zdravotních rizik.
+
+14\. Odhad expozice chemickým a biologickým agens z potravin a pokrmů, charakterizace zdravotních rizik.
+
+15\. Odhad expozice vyšetřením biomarkerů.
+
+16\. Odhad expozice a zdravotních rizik z pracovního prostředí.
+
+17\. Vybrané statistické metody, modelování dat, expoziční modely používané v hodnocení zdravotních rizik.
+
+18\. Vztah laboratorních dat na hodnocení expozice.
+
+19\. Zásady pro popis a charakterizaci zdravotního rizika.
+
+B. Obecné znalosti metod hodnocení zdravotních rizik.
+
+1\. Identifikace nebezpečnosti agens – základní nebezpečné vlastnosti a nepříznivé účinky fyzikálních, chemických a biologických agens.
+
+2\. Posouzení vztahu mezi dávkou a odezvou – stanovení vztahu mezi expozicí a projevem anebo intenzitou účinku.
+
+3\. Odhad expozice – posouzení zdrojů nebezpečných agens, expozičních cest a míst interakce s organismem, stanovení veličin popisujících expozice nebo dávky, u chemických látek jejich osud v organismu, jejich přeměny a vylučování; popis exponované populace.
+
+4\. Charakterizace zdravotního rizika – odhad výskytu a intenzity nepříznivých účinků agens, které se mohou projevit v populaci osob v důsledku skutečné nebo předpokládané expozice, a který zahrnuje kvantitativní odhad nebo hodnocení zdravotního rizika.
+
+5\. Posuzování vlivu na veřejné zdraví, negativní a pozitivní vlivy, vliv socioekonomických faktorů, vnímání zdravotních rizik a komunikace v oblasti zdravotních rizik.
+
+### Příloha č. 5 k vyhlášce č. 490/2000 Sb.
+
+A. Vzor osvědčení o odborné způsobilosti podle § 58 odst. 1 zákona o ochraně veřejného zdraví
+
+##### ![sbcr2000c141z0490_2016c015z0041p005u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/788035/NAHLED/ZOBRAZ/sbcr2000c141z0490_2016c015z0041p005u001)
+
+B. Vzor osvědčení o odborné způsobilosti podle § 58 odst. 2 zákona o ochraně veřejného zdraví
+
+##### ![sbcr2000c141z0490_2016c015z0041p005u002.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/789551/NAHLED/ZOBRAZ/sbcr2000c141z0490_2016c015z0041p005u002)
+
+C. Vzor osvědčení o odborné způsobilosti podle § 58 odst. 3 zákona o ochraně veřejného zdraví
+
+##### ![sbcr2000c141z0490_2016c015z0041p005u003.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/789553/NAHLED/ZOBRAZ/sbcr2000c141z0490_2016c015z0041p005u003)
+
+### Příloha č. 6 k vyhlášce č. 490/2000 Sb.
+
+#### Vzor osvědčení o autorizaci podle § 83e odst. 1 zákona o ochraně veřejného zdraví
+
+##### ![sbcr2000c141z0490_2016c015z0041p006u001.pdf](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/789555/NAHLED/ZOBRAZ/sbcr2000c141z0490_2016c015z0041p006u001)
+
+---
+
+<sup>1</sup>) § 82 zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění zákona č. 274/2003 Sb. a zákona č. 392/2005 Sb.
+
+<sup>2</sup>) § 19 zákona č. 258/2000 Sb.

@@ -1,0 +1,54 @@
+---
+title: "Vyhláška České národní banky č. 158/2001 Sb., o vydání pamětních stříbrných dvousetkorun k 200. výročí narození Františka Škroupa"
+identifier: "158/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/158/2001-05-30"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2001-04-05
+effective: 2001-05-30
+last_amended: 2001-05-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/158"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 158/2001 Sb., o vydání pamětních stříbrných dvousetkorun k 200. výročí narození Františka Škroupa
+
+158
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 5. dubna 2001
+
+o vydání pamětních stříbrných dvousetkorun k 200. výročí narození Františka Škroupa
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) K 200. výročí narození hudebního skladatele Františka Škroupa se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,30 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem "ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*". Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je umělecká kompozice stylizovaných heraldických zvířat z velkého státního znaku České republiky. Název státu je v neuzavřeném opisu při levé, spodní a pravé straně dvousetkoruny a jeho jednotlivá slova jsou od sebe oddělena tečkou. Označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ je umístěna pod seskupením heraldických zvířat tak, že číslice „200“ je ve směru vodorovném a zkratka peněžní jednotky „Kč“ je vůči ní pootočena o 90º vlevo. Značka mincovny, která dvousetkorunu razila, je umístěna při spodním okraji dvousetkoruny mezi písmeny „E“ a „P“ názvu státu.
+
+(2) Na rubu dvousetkoruny je v levé polovině mincovního pole umístěn netradičně pojatý portrét Františka Škroupa ve výtvarné zkratce. Do pravé strany portrétu je volně zakomponována notová osnova se stylizovaným podpisem skladatele, přičemž příjmení je položeno na notové osnově, jméno je umístěno šikmo mezi notovou osnovou a pravým okrajem dvousetkoruny. Mezi notovou osnovou a spodním okrajem dvousetkoruny jsou ve dvou řádcích nad sebou letopočty „1801“ a „2001“. Autorem návrhu dvousetkoruny je akademický sochař Jiří Harcuba. Iniciála jeho příjmení „H“ je umístěna při pravém okraji dvousetkoruny nad notovou osnovou.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 30. května 2001.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### ![sbcr2001c062z0158o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/831551/NAHLED/ZOBRAZ/sbcr2001c062z0158o001)
+
+### ![sbcr2001c062z0158o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/831553/NAHLED/ZOBRAZ/sbcr2001c062z0158o002)

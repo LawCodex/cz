@@ -1,0 +1,81 @@
+---
+title: "Vyhláška Ministerstva financí České republiky č. 114/1991 Sb., o odměně zprostředkovateli a rozhodci, výši poplatku za stejnopis kolektivní smlouvy vyššího stupně a výši a způsobu úhrady nákladů řízení před rozhodcem"
+identifier: "114/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/114/2002-02-22"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1991-03-14
+effective: 1991-04-01
+last_amended: 2002-02-22
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/114"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva financí České republiky č. 114/1991 Sb., o odměně zprostředkovateli a rozhodci, výši poplatku za stejnopis kolektivní smlouvy vyššího stupně a výši a způsobu úhrady nákladů řízení před rozhodcem ve znění vyhlášky č. 210/1995 Sb. a vyhlášky č. 57/2002 Sb."
+---
+
+# Vyhláška Ministerstva financí České republiky č. 114/1991 Sb., o odměně zprostředkovateli a rozhodci, výši poplatku za stejnopis kolektivní smlouvy vyššího stupně a výši a způsobu úhrady nákladů řízení před rozhodcem
+
+114
+
+VYHLÁŠKA
+
+ministerstva financí České republiky
+
+ze dne 14. března 1991
+
+o odměně zprostředkovateli a rozhodci, výši poplatku za stejnopis kolektivní smlouvy vyššího stupně a výši a způsobu úhrady nákladů řízení před rozhodcem
+
+Ministerstvo financí České republiky stanoví podle § 15 odst. 2 zákona č. 2/1991 Sb., o kolektivním vyjednávání, v dohodě s ministerstvem práce a sociálních věcí České republiky:
+
+## § 1 – Odměna zprostředkovatele
+
+Nedohodnou-li se smluvní strany se zprostředkovatelem<sup>1</sup>) o odměně za jeho činnost při řešení kolektivního sporu,<sup>2</sup>) činí tato odměna 7 000 Kč.
+
+## § 2 – Odměna rozhodce
+
+(1) Odměna rozhodce za jeho činnost při řešení kolektivního sporu<sup>3</sup>) činí 10 000 Kč; v této výši je zahrnuta i odměna za nové rozhodnutí v tomtéž sporu, bylo-li předchozí rozhodnutí krajským soudem zrušeno a ve sporu rozhoduje týž rozhodce.<sup>4</sup>)
+
+(2) Rozhoduje-li v kolektivním sporu po zrušení předchozího rozhodnutí<sup>4</sup>) nový rozhodce, činí jeho odměna 5 000 Kč.
+
+## § 3 – Poplatek za poskytnutí stejnopisu kolektivní smlouvy
+
+Poplatek za poskytnutí stejnopisu kolektivní smlouvy vyššího stupně<sup>5</sup>) činí 10 Kč za každou i započatou stranu.
+
+## § 4 – Výše úhrady nákladů řízení před rozhodcem
+
+(1) Výše úhrady nákladů řízení před rozhodcem činí 2 000 Kč; rozhodci přísluší náhrada cestovních výdajů podle zvláštního předpisu.<sup>6</sup>)
+
+(2) Bylo-li předchozí rozhodnutí krajským soudem zrušeno a ve sporu rozhoduje týž rozhodce, přísluší mu pouze náhrada cestovních výdajů; rozhoduje-li nový rozhodce, postupuje se podle odstavce 1.
+
+## § 5 – Způsob úhrady nákladů řízení před rozhodcem
+
+Ministerstvo práce a sociálních věcí České republiky uhradí rozhodci odměnu a náklady řízení a náhradu prokázaných cestovních výdajů do 30 dnů poté, co rozhodce písemně sdělil, že rozhodnutí bylo smluvním stranám doručeno.
+
+**Společná a závěrečná ustanovení**
+
+## § 6
+
+Tato vyhláška se uplatní též v případech, které nastaly po 31. lednu 1991. Doby uvedené v § 5 počínají dnem účinnosti této vyhlášky.
+
+## § 7
+
+Tato vyhláška nabývá účinnosti dnem 1. dubna 1991.
+
+Ministr:
+
+Ing. Špaček v. r.
+
+---
+
+<sup>1</sup>) § 12 odst. 3 zákona č. 2/1991 Sb., o kolektivním vyjednávání.
+
+<sup>2</sup>) § 10 zákona č. 2/1991 Sb.
+
+<sup>3</sup>) § 13 zákona č. 2/1991 Sb.
+
+<sup>4</sup>) § 14 odst. 3 zákona č. 2/1991 Sb.
+
+<sup>5</sup>) § 2 odst. 3 písm. b) zákona č. 2/1991 Sb.
+
+<sup>6</sup>) Zákon č. 119/1992 Sb., o cestovních náhradách, ve znění zákona č. 44/1994 Sb.

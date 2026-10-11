@@ -1,0 +1,44 @@
+---
+title: "Vyhláška České národní banky č. 232/1995 Sb., kterou se mění vyhláška České národní banky č. 110/1993 Sb., o vydání mincí po 10 Kč vzoru 1993, o ukončení platnosti mincí po 10 Kčs a bankovek po 10 Kčs a jejich výměně"
+identifier: "232/1995 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1995/232/1995-11-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1995-10-05
+effective: 1995-11-01
+last_amended: 1995-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1995/232"
+retrieved: 2026-10-11
+---
+
+# Vyhláška České národní banky č. 232/1995 Sb., kterou se mění vyhláška České národní banky č. 110/1993 Sb., o vydání mincí po 10 Kč vzoru 1993, o ukončení platnosti mincí po 10 Kčs a bankovek po 10 Kčs a jejich výměně
+
+232
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 5. října 1995,
+
+kterou se mění vyhláška České národní banky č. 110/1993 Sb., o vydání mincí po 10 Kč vzoru 1993, o ukončení platnosti mincí po 10 Kčs a bankovek po 10 Kčs a jejich výměně
+
+Česká národní banka stanoví podle § 22 písm. a) zákona České národní rady č. 6/1993 Sb., o České národní bance:
+
+## Čl. I
+
+Vyhláška České národní banky č. 110/1993 Sb., o vydání mincí po 10 Kč vzoru 1993, o ukončení platnosti mincí po 10 Kčs a bankovek po 10 Kčs a jejich výměně, se mění takto:
+
+V § 3 odst. 2 se tečka na konci poslední věty nahrazuje středníkem a věta se doplňuje textem, který zní: „u desetikorun vydaných do oběhu po 1. listopadu 1995 jsou u spodního okraje mince pod číslicí „1“.“.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. listopadu 1995.
+
+Guvernér:
+
+Ing. Tošovský v. r.
+
+### ![sbcr1995c063z0232o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/792247/NAHLED/ZOBRAZ/sbcr1995c063z0232o001)

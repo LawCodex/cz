@@ -1,0 +1,115 @@
+---
+title: "Zákon č. 217/1994 Sb., o poskytnutí jednorázové peněžní částky některým obětem nacistické perzekuce"
+identifier: "217/1994 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1994/217/2014-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1994-11-02
+effective: 1994-12-01
+last_amended: 2014-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1994/217"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 217/1994 Sb., o poskytnutí jednorázové peněžní částky některým obětem nacistické perzekuce ve znění zákona č. 77/1995 Sb. a zákona č. 458/2011 Sb."
+---
+
+# Zákon č. 217/1994 Sb., o poskytnutí jednorázové peněžní částky některým obětem nacistické perzekuce
+
+217
+
+ZÁKON
+
+ze dne 2. listopadu 1994
+
+o poskytnutí jednorázové peněžní částky některým obětem nacistické perzekuce
+
+S vědomím
+
+neodčiněného historického bezpráví způsobeného obětem nacistické perzekuce,
+
+nutnosti řešit tento problém především s ohledem na věk osob, postižených nacistickou perzekucí,
+
+skutečnosti, že tento zákon nemá vliv na uplatňování nároků občanů České republiky ve smyslu platných mezinárodně právních závazků, ale také ve smyslu morálně politickém,
+
+nemožnosti zmírnit cestou tohoto zákona veškeré utrpení, které občanům České republiky způsobila nacistická perzekuce,
+
+se Parlament usnesl na tomto zákoně České republiky:
+
+### § 1
+
+Postižení občané nebo jejich vdovy, vdovci a sirotci za podmínek stanovených tímto zákonem mají právo na poskytnutí jednorázové peněžní částky podle tohoto zákona, pokud jsou v době vzniku nároku občany České republiky.
+
+### § 2
+
+Postiženým občanem je pro účely tohoto zákona občan, který je československým politickým vězněm podle zvláštního zákona.<sup>1</sup>)
+
+### § 3
+
+(1) Nárok na poskytnutí jednorázové peněžní částky vzniká:
+
+a) postiženým občanům, kterým nebylo poskytnuto odškodnění za jejich postižení jiným státem,
+
+b) vdovám a vdovcům po postižených občanech, jejichž manželství s postiženým občanem existovalo v době jeho postižení,
+
+c) vdovám a vdovcům po postižených občanech popravených nebo zemřelých ve vyšetřovací vazbě, vězeních, koncentračních a internačních táborech nebo násilně usmrcených v souvislosti se zatýkáním,
+
+d) stejným dílem sirotkům po postižených občanech popravených nebo zemřelých ve vyšetřovací vazbě, vězeních, koncentračních a internačních táborech nebo násilně usmrcených v souvislosti se zatýkáním, kteří ke dni jejich úmrtí nedosáhli věku 18 let.
+
+(2) Včas uplatněný nárok na poskytnutí jednorázové peněžní částky, pokud o něm nebylo rozhodnuto nebo pokud jednorázová peněžní částka nebyla vyplacena, přechází v případě úmrtí osoby uvedené v odstavci 1 na její dědice.
+
+### § 4
+
+(1) Osoby uvedené v § 3 písm. a) a b) mají nárok na poskytnutí jednorázové peněžní částky ve výši 2300 Kč za každý i jen započatý měsíc věznění nebo internace.
+
+(2) Byl-li postižený občan vězněn nebo internován opakovaně, kalendářní dny věznění nebo internace se sčítají; měsícem věznění nebo internace se rozumí 30 kalendářních dnů.
+
+(3) Osoby uvedené v § 3 písm. c) mají dále nárok na poskytnutí jednorázové peněžní částky ve výši 100 000 Kč.
+
+(4) Osoby uvedené v § 3 písm. d) mají nárok na poskytnutí jednorázové peněžní částky ve výši 100 000 Kč. Neuplatní-li některá z těchto osob svůj nárok na poskytnutí podílu z jednorázové peněžní částky ve lhůtě stanovené tímto zákonem, nabývají tento podíl rovným dílem ostatní osoby, které nárok na poskytnutí podílu z jednorázové peněžní částky ve lhůtě stanovené tímto zákonem uplatnily.
+
+(5) Úhrada bude provedena ze státních finančních aktiv.
+
+### § 5
+
+(1) O poskytnutí jednorázové peněžní částky rozhoduje a jednorázovou peněžní částku vyplácí Česká správa sociálního zabezpečení, a v případech, kdy postižený občan je nebo byl poživatelem důchodu nebo osoba uvedená v § 3 je nebo byla poživatelem pozůstalostního důchodu z důchodového zabezpečení, který vyplácí orgán sociálního zabezpečení příslušníků ozbrojených sil,<sup>2</sup>) tento orgán.
+
+(2) Nárok na poskytnutí jednorázové peněžní částky uplatní osoba uvedená v § 3 u orgánu příslušného k rozhodnutí podle odstavce 1 do devíti měsíců ode dne účinnosti tohoto zákona písemným návrhem, jinak právo na poskytnutí jednorázové peněžní částky zaniká.
+
+(3) Osoby uvedené v § 3 předloží ověřený opis dokladu vydaného podle zákona č. 255/1946 Sb., který se týká postiženého občana, případně další doklady osvědčující nárok na poskytnutí jednorázové peněžní částky, jestliže je k tomu orgán příslušný k rozhodnutí podle odstavce 1 vyzve.
+
+### § 6
+
+(1) Řízení o poskytnutí jednorázové peněžní částky (dále jen „řízení“) se zahájí pouze na návrh osoby uvedené v § 3. Řízení zahájené na návrh osoby uvedené v § 3 písm. d) se do doby skončení lhůty podle § 5 odst. 2 přerušuje.
+
+(2) Nestanoví-li tento zákon jinak, použije se na řízení správní řád.<sup>3</sup>)
+
+(3) Proti rozhodnutí orgánu uvedeného v § 5 odst. 1 lze podat opravný prostředek k vrchnímu soudu.<sup>4</sup>)
+
+### § 7
+
+Řízení podle tohoto zákona je osvobozeno od poplatků.
+
+### § 9
+
+Tímto zákonem nejsou dotčeny nároky oprávněných osob z přijatých mezinárodně právních závazků.
+
+### § 10
+
+Tento zákon nabývá účinnosti dnem 1. prosince 1994.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.
+
+---
+
+<sup>1</sup>) § 2 odst. 1 bod 5 zákona č. 255/1946 Sb., o příslušnících československé armády v zahraničí a o některých jiných účastnících národního boje za osvobození.
+
+<sup>2</sup>) § 9 zákona ČNR č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění zákona č. 307/1993 Sb.
+
+<sup>3</sup>) Zákon č. 71/1967 Sb., o správním řízení (správní řád).
+
+<sup>4</sup>) § 250l a násl. občanského soudního řádu.

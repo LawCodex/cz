@@ -1,0 +1,48 @@
+---
+title: "Vyhláška č. 393/2003 Sb., kterou se mění vyhláška č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, ve znění vyhlášky č. 97/1982 Sb., vyhlášky č. 551/1990 Sb., nařízení vlády č. 352/2000 Sb. a vyhlášky č. 118/2003 Sb."
+identifier: "393/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/393/2004-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2003-09-09
+effective: 2004-01-01
+last_amended: 2004-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/393"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 393/2003 Sb., kterou se mění vyhláška č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, ve znění vyhlášky č. 97/1982 Sb., vyhlášky č. 551/1990 Sb., nařízení vlády č. 352/2000 Sb. a vyhlášky č. 118/2003 Sb.
+
+393
+
+VYHLÁŠKA
+
+ze dne 9. září 2003,
+
+kterou se mění vyhláška č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, ve znění vyhlášky č. 97/1982 Sb., vyhlášky č. 551/1990 Sb., nařízení vlády č. 352/2000 Sb. a vyhlášky č. 118/2003 Sb.
+
+Ministerstvo práce a sociálních věcí podle § 7b odst. 1 zákona č. 174/1968 Sb., o státním odborném dozoru nad bezpečností práce, ve znění zákona č. 124/2000 Sb., a Český báňský úřad podle § 8a odst. 8 zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona č. 124/2000 Sb., stanoví:
+
+## Čl. I
+
+Vyhláška č. 18/1979 Sb., kterou se určují vyhrazená tlaková zařízení a stanoví některé podmínky k zajištění jejich bezpečnosti, ve znění vyhlášky č. 97/1982 Sb., vyhlášky č. 551/1990 Sb., nařízení vlády č. 352/2000 Sb. a vyhlášky č. 118/2003 Sb., se mění takto:
+
+1\. V § 1 odst. 1 se slova „pro organizace, které provádějí činnost podléhající vrchnímu dozoru orgánů státní báňské správy“ včetně poznámky pod čarou č. 2) zrušují.
+
+2\. V § 1 odst. 2 se za slova „v § 3 odst. 2 písm.“ vkládají slova „a) a“.
+
+3\. V § 4 odst. 2 se slova „, popřípadě obvodní báňský úřad“ včetně čárky zrušují.
+
+## Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2004.
+
+Ministr práce a sociálních věcí:
+
+Ing. Škromach v. r.
+
+Předseda Českého báňského úřadu:
+
+prof. JUDr. Ing. Makarius, CSc. v. r.

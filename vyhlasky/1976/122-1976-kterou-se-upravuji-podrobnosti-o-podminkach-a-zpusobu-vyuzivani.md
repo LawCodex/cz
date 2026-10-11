@@ -159,7 +159,7 @@ Ing. Lazar v. r.
 
 #### ![sbcr1976c023z0122_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/779873/NAHLED/ZOBRAZ/sbcr1976c023z0122_o_1) ![sbcr1976c023z0122_o_1.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/779873/NAHLED/ZOBRAZ/sbcr1976c023z0122_o_1)
 
-#### **ZÁZNAMY O PŘEDLOŽENÍ A VRÁCENÍ ARCHIVNÍCH DOKUMENTŮ**
+#### ZÁZNAMY O PŘEDLOŽENÍ A VRÁCENÍ ARCHIVNÍCH DOKUMENTŮ
 
 | Poř.<br> č. | Značka (název) souboru — dokumentu | Předloženo<br> dne | Podpis<br> badatele | Vráceno<br> dne | Poznámky |
 |---|---|---|---|---|---|

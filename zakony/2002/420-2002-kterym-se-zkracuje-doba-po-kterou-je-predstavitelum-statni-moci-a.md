@@ -1,0 +1,71 @@
+---
+title: "Zákon č. 420/2002 Sb., kterým se zkracuje doba, po kterou je představitelům státní moci a některých státních orgánů, soudcům a státním zástupcům poskytován plat při dočasné neschopnosti k výkonu funkce, a kterým se stanoví některá opatření v nemocenském pojištění (péči) a v důchodovém pojištění"
+identifier: "420/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/420/2009-01-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2002-09-18
+effective: 2002-09-27
+last_amended: 2009-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/420"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 420/2002 Sb., kterým se zkracuje doba, po kterou je představitelům státní moci a některých státních orgánů, soudcům a státním zástupcům poskytován plat při dočasné neschopnosti k výkonu funkce, a kterým se stanoví některá opatření v nemocenském pojištění (péči) a v důchodovém pojištění ve znění zákona č. 189/2006 Sb."
+---
+
+# Zákon č. 420/2002 Sb., kterým se zkracuje doba, po kterou je představitelům státní moci a některých státních orgánů, soudcům a státním zástupcům poskytován plat při dočasné neschopnosti k výkonu funkce, a kterým se stanoví některá opatření v nemocenském pojištění (péči) a v důchodovém pojištění
+
+420
+
+ZÁKON
+
+ze dne 18. září 2002,
+
+kterým se zkracuje doba, po kterou je představitelům státní moci a některých státních orgánů, soudcům a státním zástupcům poskytován plat při dočasné neschopnosti k výkonu funkce, a kterým se stanoví některá opatření v nemocenském pojištění (péči) a v důchodovém pojištění
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST PRVNÍ – Změna zákona o platu a dalších náležitostech spojených s výkonem funkce představitelů státní moci a některých státních orgánů a soudců
+
+### Čl. I
+
+Zákon č. 236/1995 Sb., o platu a dalších náležitostech spojených s výkonem funkce představitelů státní moci a některých státních orgánů a soudců, ve znění zákona č. 138/1996 Sb., zákona č. 287/1997 Sb., zákona č. 155/2000 Sb., zákona č. 231/2001 Sb. a zákona č. 309/2002 Sb., se mění takto:
+
+1\. V § 34 odstavec 3 včetně poznámek pod čarou č. 9) a 10) zní:
+
+> „(3) Představiteli, jehož výkon funkce se řídí zvláštním právním předpisem a zákoníkem práce,<sup>9</sup>) a soudci nenáleží, pokud se dále nestanoví jinak, plat za dobu, po kterou dočasně nevykonává funkci z důvodů, pro které se podle zákoníku práce zaměstnancům neposkytuje náhrada mzdy,<sup>10</sup>) pokud se dále nestanoví jinak.
+
+> <sup>9</sup>) Například zákon č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů, zákon č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů.
+
+> <sup>10</sup>) § 127 a 128 zákoníku práce.“.
+
+2\. V § 34 se za odstavec 3 vkládá nový odstavec 4, který zní:
+
+> „(4) Představiteli, jehož výkon funkce se řídí zvláštním právním předpisem a zákoníkem práce,<sup>9</sup>) a soudci, který byl uznán dočasně neschopným k výkonu funkce, přísluší plat nejdéle po dobu 20 pracovních dnů při téže dočasné neschopnosti k výkonu funkce nebo při více dočasných neschopnostech k výkonu funkce vzniklých v jednom kalendářním roce po tutéž dobu. Ostatním představitelům náleží z důvodů a za podmínek stanovených ve větě první plat nejdéle po dobu 30 kalendářních dnů. Při posuzování dočasné neschopnosti k výkonu funkce se postupuje obdobně podle předpisů o posuzování dočasné pracovní neschopnosti.“.
+
+Dosavadní odstavce 4 až 6 se označují jako odstavce 5 až 7.
+
+## ČÁST DRUHÁ – Změna zákona o platu a některých dalších náležitostech státních zástupců
+
+### Čl. II
+
+V § 9a větě první zákona č. 201/1997 Sb., o platu a některých dalších náležitostech státních zástupců a o změně a doplnění zákona č. 143/1992 Sb., o platu a odměně za pracovní pohotovost v rozpočtových a v některých dalších organizacích a orgánech, ve znění pozdějších předpisů, ve znění zákona č. 279/2002 Sb., se slova „60 pracovních dnů“ nahrazují slovy „20 pracovních dnů“.
+
+## ČÁST ČTVRTÁ – OPATŘENÍ V DŮCHODOVÉM POJIŠTĚNÍ
+
+### Čl. IV
+
+Výši přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2001 pro účely důchodového pojištění stanoví vláda nařízením do 30. listopadu 2002. Ustanovení § 17 odst. 4 věty druhé zákona č. 155/1995 Sb., o důchodovém pojištění, se pro stanovení koeficientu uvedeného ve větě první nepoužije.
+
+## ČÁST PÁTÁ – ÚČINNOST
+
+### Čl. V
+
+Tento zákon nabývá účinnosti dnem jeho vyhlášení, s výjimkou čl. I a II, které nabývají účinnosti dnem 1. ledna 2003.
+
+Zaorálek v. r.
+
+Havel v. r.
+
+Špidla v. r.

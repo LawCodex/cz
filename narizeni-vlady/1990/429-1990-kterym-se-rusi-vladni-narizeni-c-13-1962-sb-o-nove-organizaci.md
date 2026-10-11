@@ -1,0 +1,50 @@
+---
+title: "Nařízení vlády České a Slovenské Federativní Republiky č. 429/1990 Sb., kterým se ruší vládní nařízení č. 13/1962 Sb., o nové organizaci Československého filmu"
+identifier: "429/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/429/1990-12-31"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1990-08-02
+effective: 1990-12-31
+last_amended: 1990-12-31
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/429"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády České a Slovenské Federativní Republiky č. 429/1990 Sb., kterým se ruší vládní nařízení č. 13/1962 Sb., o nové organizaci Československého filmu
+
+429
+
+NAŘÍZENÍ VLÁDY
+
+České a Slovenské Federativní Republiky
+
+ze dne 2. srpna 1990,
+
+kterým se ruší vládní nařízení č. 13/1962 Sb., o nové organizaci Československého filmu
+
+Vláda České a Slovenské Federativní Republiky podle § 1 odst. 3 dekretu prezidenta republiky č. 50/1945 Sb., o opatřeních v oblasti filmu, nařizuje:
+
+## § 1
+
+(1) Ústřední ředitelství Československého filmu (dále jen „Ústřední ředitelství“) se dnem 31. prosince 1990 ruší a vstupuje do likvidace.
+
+(2) Pro likvidaci se přiměřeně použijí ustanovení hospodářského zákoníku o likvidaci státního podniku.<sup>1</sup>)
+
+(3) Ústřední ředitelství provedením likvidace zaniká.
+
+## § 2
+
+Vládní nařízení č. 13/1962 Sb., o nové organizaci Československého filmu, se ruší.
+
+## § 3
+
+Toto nařízení vlády nabývá účinnosti dnem 31. prosince 1990.
+
+Čalfa v. r.
+
+---
+
+<sup>1</sup>) § 27a až 27e hospodářského zákoníku.

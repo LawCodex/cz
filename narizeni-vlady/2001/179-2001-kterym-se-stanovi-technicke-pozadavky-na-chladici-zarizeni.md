@@ -1,0 +1,184 @@
+---
+title: "Nařízení vlády č. 179/2001 Sb., kterým se stanoví technické požadavky na chladicí zařízení"
+identifier: "179/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/179/2004-05-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2001-04-25
+effective: 2002-07-01
+last_amended: 2004-05-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/179"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády č. 179/2001 Sb., kterým se stanoví technické požadavky na chladicí zařízení ve znění nařízení vlády č. 179/2001 Sb."
+---
+
+# Nařízení vlády č. 179/2001 Sb., kterým se stanoví technické požadavky na chladicí zařízení
+
+179
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. dubna 2001,
+
+kterým se stanoví technické požadavky na chladicí zařízení
+
+Vláda nařizuje podle § 22 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 71/2000 Sb., (dále jen „zákon“) k provedení § 12 odst. 1 a 4 a § 13 odst. 2, 4 a 8 zákona:
+
+## § 1
+
+(1) Tímto nařízením se v souladu s právem Evropských společenství<sup>1</sup>) stanoví technické požadavky na chladicí zařízení.
+
+(2) Chladicím zařízením se pro účely tohoto nařízení rozumí chladničky, konzervátory zmrazených potravin, mrazničky na potraviny a jejich kombinace určené pro domácnost, napájené z elektrické sítě. Jejich kategorie jsou stanoveny v bodu 1 přílohy k tomuto nařízení.
+
+(3) Toto nařízení se nevztahuje na chladicí zařízení, která mohou využívat i jiný druh energie, zvláště akumulátory, chladicí zařízení pro domácnost pracující na absorpčním principu a chladicí zařízení vyrobená podle zvláštních individuálních požadavků.
+
+(4) Stanovenými výrobky podle § 12 odst. 1 zákona jsou chladicí zařízení.
+
+## § 2
+
+(1) Technické požadavky na chladicí zařízení (dále jen „základní požadavky“) jsou uvedeny v bodu 2 přílohy k tomuto nařízení.
+
+(2) Pokud jsou základní požadavky na chladicí zařízení konkretizovány harmonizovanými normami a chladicí zařízení jsou s nimi v souladu, má se za to, že jsou základní požadavky splněny.
+
+## § 4
+
+(1) Činnosti výrobce, pokud je tak dále stanoveno tímto nařízením, může zajistit jím zplnomocněná osoba se sídlem, místem podnikání nebo trvalým pobytem v členských státech Evropského společenství (dále jen „zplnomocněný zástupce“).
+
+(2) Před uvedením chladicího zařízení na trh výrobce nebo zplnomocněný zástupce provádí nebo zajišťuje posouzení shody chladicích zařízení se základními požadavky postupy podle bodu 3 přílohy k tomuto nařízení a umisťuje na chladicí zařízení označení CE,<sup>2</sup>) které vyjadřuje shodu s požadavky tohoto nařízení, a vydá o tom písemné prohlášení o shodě.
+
+(3) Označení CE musí být na chladicím zařízení umístěno viditelně, čitelně a nesmazatelně. Na chladicích zařízeních, jejich obalu, návodu k použití nebo jiných dokumentech může být umístěno i jiné označení, pokud tím nebude snížena viditelnost nebo čitelnost označení CE.
+
+(4) Podléhají-li chladící zařízení též jiným nařízením vlády, která rovněž stanoví umístění označení CE, vyjadřuje toto označení shodu i s požadavky a ustanoveními těchto jiných nařízení vlády.
+
+(5) Jestliže však jedno nebo několik nařízení vlády po přechodnou dobu připouští, aby výrobce zvolil, kterým ustanovením se bude řídit, pak označení CE znamená shodu pouze s těmi nařízeními vlády, která výrobce použil. V tomto případě musí být v průvodní dokumentaci, upozorněních nebo návodech, požadovaných těmito nařízeními vlády a přiložených ke chladicímu zařízení, uveden seznam použitých nařízení vlády.
+
+## § 5
+
+(1) Doklady o provedeném posouzení shody pořizované výrobcem nebo dovozcem zahrnují technickou dokumentaci, která obsahuje
+
+a) informace včetně výkresů, hlavní konstrukční charakteristiky vzoru, zvláště prvků, které mají významný vliv na spotřebu elektrické energie, jako jsou rozměry, objemy, charakteristiky kompresoru, zvláštní vlastnosti,
+
+b) výsledky měření spotřeby elektrické energie,
+
+c) porovnání výsledků měření s požadavky na spotřebu elektrické energie stanovenými v příloze k tomuto nařízení,
+
+d) návod k obsluze, je-li vzhledem k povaze výrobku účelný.
+
+(2) Technická dokumentace podle odstavce 1 musí být uchována výrobcem nebo dovozcem, nebo v případě uvedeném v § 4 odst. 1 též zplnomocněným zástupcem, pro potřeby orgánů dozoru 3 roky od ukončení výroby, dovozu nebo uvádění na trh chladicího zařízení.
+
+(3) V případech vyplývajících z § 13 odst. 8 zákona dovozce předkládá orgánu dozoru dokumentaci v úředním jazyce státu, ve kterém má výrobek původ, nebo v jazyce, který s orgánem dozoru dohodne.
+
+## § 6
+
+(1) Toto nařízení nabývá účinnosti dnem 1. července 2002, s výjimkou § 4 a § 5 odst. 3, které nabývají účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+(2) Dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost pozbývá § 3 platnosti.
+
+Předseda vlády:
+
+Ing. Zeman v. r.
+
+Ministr průmyslu a obchodu:
+
+doc. Ing. Grégr v. r.
+
+### Příloha k nařízení vlády č. 179/2001 Sb.
+
+1\. KATEGORIE CHLADICÍCH ZAŘÍZENÍ
+
+Pro výpočet maximální dovolené spotřeby elektrické energie daného chladicího zařízení se toto zařízení zařazuje do příslušné kategorie podle následujícího seznamu:
+
+| **Kategorie** | **Popis** |
+|---|---|
+| 1 | Chladnička bez prostoru s nízkou teplotou <sup>1</sup>) |
+| 2 | Chladnička/chladič potravin s prostorem na 5 °C a/nebo 12 °C |
+| 3 | Chladnička s prostorem s nízkou teplotou bez hvězdičky |
+| 4 | Chladnička s prostorem s nízkou teplotou ( \* ) |
+| 5 | Chladnička s prostorem s nízkou teplotou ( \* \* ) |
+| 6 | Chladnička s prostorem s nízkou teplotou ( \* \* \* ) |
+| 7 | Chladnička/mraznička s prostorem mrazničky ( \* \* \* \* ) |
+| 8 | Skříňová mraznička potravin |
+| 9 | Pultová mraznička potravin |
+| 10 | Chladnička/mraznička s více než dvěma dvířky nebo jiná, výše neuvedená, zařízení |
+
+<sup>1</sup>) Jakýkoliv prostor s teplotou nižší a nebo rovnou -6 °C
+
+2\. ZÁKLADNÍ POŽADAVKY NA MAXIMÁLNÍ DOVOLENOU SPOTŘEBU ELEKTRICKÉ ENERGIE
+
+Spotřeba elektrické energie chladicího zařízení (kterou je možno vyjádřit v kWh za 24 hodin) je funkcí kategorie zařízení, do které předmětné zařízení patří (například chladnička označená jednou hvězdičkou, mrazicí pult), jeho objemu a energetické účinnosti jeho konstrukce (například tloušťky izolace, účinnosti kompresoru) a rozdílu mezi teplotou okolí a teplotou uvnitř zařízení. Při stanovování energetické spotřeby se proto musí počítat s tolerancemi nejdůležitějších vnitřních faktorů, které mají vliv na spotřebu energie (kategorie zařízení a jeho objemu). Z tohoto důvodu je maximální dovolená spotřeba elektrické energie chladicího zařízení definována lineární rovnicí, která je funkcí objemu zařízení, přičemž pro každou kategorii zařízení platí jiná rovnice.
+
+Vzhledem k tomu, že chladicí zařízení obsahuje různé prostory, v nichž jsou udržovány různé teploty (které významně ovlivňují spotřebu elektrické energie), je maximální dovolená spotřeba elektrické energie pro praxi definovaná jako funkce korigovaného objemu, který je váhovým součtem objemů jednotlivých prostorů.
+
+Proto pro účely tohoto nařízení je korigovaný objem (V<sub>adj</sub>) chladicího zařízení definován jako:
+
+V<sub>adj</sub> = ∑ V<sub>c</sub> × W<sub>c</sub> × F<sub>c</sub> × C<sub>c</sub>
+
+W<sub>c</sub> = (25 - T<sub>c</sub>)/20,
+
+kde T<sub>c</sub> je určená teplota v každém prostoru (ve °C),
+
+kde V<sub>c</sub> je užitný objem prostoru daného typu v zařízení a F<sub>c</sub> je faktor rovný 1.2 pro beznámrazové prostory a 1 pro ostatní prostory,
+
+C<sub>c</sub> = 1 pro chladicí zařízení, která patří do normální (N) a subnormální (SN) klimatické třídy,
+
+C<sub>c</sub> = X<sub>c</sub> pro chladicí zařízení, která patří do subtropické (ST) klimatické třídy,
+
+C<sub>c</sub> = Y<sub>c</sub> pro chladicí zařízení, která patří do tropické (T) klimatické třídy.
+
+Váhové součinitele X<sub>c</sub> a Y<sub>c</sub> pro jednotlivé typy prostorů jsou:
+
+###### Tabulka váhových součinitelů X<sub>c</sub> a Y<sub>c</sub> podle teploty prostoru
+
+| | X<sub>c</sub> | Y<sub>c</sub> |
+|---|---|---|
+| Prostor s mírnou teplotou | 1,25 | 1,35 |
+| Prostor pro uchovávání čerstvých potravin | 1,20 | 1,30 |
+| Prostor s teplotou 0 °C | 1,15 | 1,25 |
+| Prostor neoznačený hvězdičkou | 1,15 | 1,25 |
+| Prostor označený jednou hvězdičkou ( \* ) | 1,12 | 1,20 |
+| Prostor označený dvěma hvězdičkami ( \* \* ) | 1,08 | 1,15 |
+| Prostor označený třemi ( \* \* \* ) a čtyřmi hvězdičkami ( \* \* \* \* ) | 1,05 | 1,10 |
+
+Jak korigovaný, tak využitelný objem jsou udány v litrech.
+
+Maximální dovolená spotřeba elektrické energie (E<sub>max</sub> udávaná v kWh za 24 hodin vypočítaná na dvě desetinná místa) pro typ zařízení s korigovaným objemem V<sub>adj</sub> je definována pro každou kategorii zařízení těmito rovnicemi:
+
+| **Kategorie** | **Popis** | **E<sub>max</sub> (kWh/24 hod.)** |
+|---|---|---|
+| 1 | Chladnička bez prostoru s nízkou teplotou | (0,207 × V<sub>adj</sub> + 218) / 365 |
+| 2 | Chladnička/chladič potravin s prostorem na 5 °C a/nebo 12 °C | (0,207 × V<sub>adj</sub> + 218) / 365 |
+| 3 | Chladnička s prostorem s nízkou teplotou bez hvězdičky | (0,207 × V<sub>adj</sub> + 218) / 365 |
+| 4 | Chladnička s prostorem s nízkou teplotou (\*) | (0,557 × V<sub>adj</sub> + 166) / 365 |
+| 5 | Chladnička s prostorem s nízkou teplotou (\*\*) | (0,402 × V<sub>adj</sub>+ 219) / 365 |
+| 6 | Chladnička s prostorem s nízkou teplotou (\*\*\*) | (0,573 × V<sub>adj</sub> + 206) / 365 |
+| 7 | Chladnička/mraznička s prostorem mrazničky (\*\*\*\*) | (0,697 × V<sub>adj</sub> + 272) / 365 |
+| 8 | Skříňová mraznička potravin | (0,434 × V<sub>adj</sub> + 262) / 365 |
+| 9 | Pultová mraznička potravin | (0,480 × V<sub>adj</sub> + 195) / 365 |
+
+Pro chladničky/mrazničky s více než dvěma dvířky nebo pro jiná, výše neuvedená zařízení je maximální dovolená spotřeba elektrické energie (E<sub>max</sub>) určena teplotou a počtem hvězdiček, podle něhož je zařazen prostor s nejnižší teplotou, jak je uvedeno níže:
+
+| **Teplota nejchladnějšího<br> prostoru** | **Kategorie** | **E<sub>max</sub> (kWh/24 hod.)** |
+|---|---|---|
+| &gt; - 6 °C | 1/2/3 | (0,207 × V<sub>adj</sub> + 218) / 365 |
+| ≤ - 6 °C (\*) | 4 | (0,557 × V<sub>adj</sub> + 166) / 365 |
+| ≤ -12 °C (\*\*) | 5 | (0,402 × V<sub>adj</sub> + 219) / 365 |
+| ≤ -18 °C (\*\*\*) | 6 | (0,573 × V<sub>adj</sub> + 206) / 365 |
+| ≤ -18 °C (\*\*\*\*) | 7 | (0,697 × V<sub>adj</sub> + 272) / 365 |
+
+3\. POSTUP ZKOUŠEK PRO OVĚŘENÍ POŽADAVKU NA MAXIMÁLNÍ SPOTŘEBU ELEKTRICKÉ ENERGIE
+
+Výrobce přijme všechna opatření nezbytná k tomu, aby výrobní postup zajišťoval shodu vyráběných chladicích zařízení s technickou dokumentací podle § 5 tohoto nařízení.
+
+3.1 Pokud spotřeba elektrické energie chladicího zařízení podrobeného ověření je menší nebo rovna E<sub>max</sub> (maximální dovolené spotřebě elektrické energie pro svou kategorii) zvýšené o 15 %, chladicí zařízení splňuje požadavky na spotřebu elektrické energie podle tohoto nařízení.
+
+3.2 Jestliže je spotřeba elektrické energie větší než E<sub>max</sub> zvýšené o 15 %, musí se provést opětovné měření spotřeby elektrické energie a to na vzorku tří identických chladicích zařízení. V případě, že aritmetický průměr spotřeby elektrické energie zjištěné na tomto vzorku je nižší nebo roven E<sub>max</sub> zvýšené o 10 %, chladicí zařízení splňuje požadavky na spotřebu elektrické energie podle tohoto nařízení.
+
+3.3 Jestliže aritmetický průměr spotřeby elektrické energie zjištěné na vzorku tří identických chladicích zařízení překročí E<sub>max</sub> zvýšené o 10 %, chladicí zařízení nevyhovuje požadavkům na spotřebu elektrické energie podle tohoto nařízení.
+
+---
+
+<sup>1</sup>) Směrnice Evropského parlamentu a Rady 96/57/ES ze dne 3. září 1996 o požadavcích na energetickou účinnost elektrických chladniček, mrazniček a jejich kombinací, které jsou určeny pro domácnost.
+
+<sup>2</sup>) Nařízení vlády č. 291/2000 Sb., kterým se stanoví grafická podoba označení CE.

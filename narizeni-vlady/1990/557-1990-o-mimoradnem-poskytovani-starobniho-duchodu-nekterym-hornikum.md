@@ -1,0 +1,91 @@
+---
+title: "Nařízení vlády České a Slovenské Federativní Republiky č. 557/1990 Sb., o mimořádném poskytování starobního důchodu některým horníkům"
+identifier: "557/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/557/1998-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1990-11-30
+effective: 1991-01-01
+last_amended: 1998-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/557"
+retrieved: 2026-10-11
+citation_with_amendments: "Nařízení vlády České a Slovenské Federativní Republiky č. 557/1990 Sb., o mimořádném poskytování starobního důchodu některým horníkům ve znění zákona č. 578/1991 Sb. a zákona č. 134/1997 Sb."
+---
+
+# Nařízení vlády České a Slovenské Federativní Republiky č. 557/1990 Sb., o mimořádném poskytování starobního důchodu některým horníkům
+
+557
+
+NAŘÍZENÍ VLÁDY
+
+České a Slovenské Federativní Republiky
+
+ze dne 30. listopadu 1990
+
+o mimořádném poskytování starobního důchodu některým horníkům
+
+Vláda České a Slovenské Federativní Republiky nařizuje podle § 176 písm. a) a b) zákona č. 100/1988 Sb., o sociálním zabezpečení (dále jen „zákon“):
+
+## § 1
+
+(1) Toto nařízení upravuje podmínky mimořádného poskytování starobního důchodu občanům, kteří vykonávali vybraná zaměstnání v hornictví, byli zaměstnáni nejméně 25 roků a dosáhli věku 50 let do 31. prosince 2000.
+
+(2) Vybranými zaměstnáními v hornictví se pro účely tohoto nařízení rozumějí zaměstnání I. pracovní kategorie v hornictví se stálým pracovištěm pod zemí v hlubinných dolech<sup>1</sup>) uvedená pod č. 1 až 7 a 11 v příloze č. 2 nařízení vlády Československé socialistické republiky č. 117/1988 Sb., o zařazování zaměstnání do I. a II. pracovní kategorie pro účely důchodového zabezpečení.
+
+(3) Za dobu zaměstnání I. pracovní kategorie v hornictví se stálým pracovištěm pod zemí v hlubinných dolech se pro účely tohoto nařízení považují
+
+a) doba výkonu zaměstnání uvedeného v odstavci 2 a
+
+b) doby uvedené v § 18 odst. 3 zákona a v § 5 odst. 1 písm. a) až f) nařízení vlády Československé socialistické republiky č. 117/1988 Sb., jestliže jsou obklopeny dobou výkonu zaměstnání uvedeného v odstavci 2.
+
+## § 2
+
+(1) Občan uvedený v § 1 odst. 1 má nárok na starobní důchod, jestliže
+
+a) byl zaměstnán nejméně 15 roků ve vybraných zaměstnáních v hornictví,
+
+b) dosáhl nejvyšší přípustné expozice<sup>2</sup>) a
+
+c) skončil výkon vybraného zaměstnání v hornictví do 31. března 1991.
+
+(2) Občan uvedený v § 1 odst. 1 má nárok na starobní důchod též, jestliže
+
+a) byl zaměstnán nejméně 10 roků ve vybraných zaměstnáních v hornictví v uranových dolech,
+
+b) překročil nejvyšší přípustnou expozici<sup>2</sup>) a
+
+c) skončil výkon vybraného zaměstnání v hornictví v uranových dolech do 31. prosince 1990 v souvislosti se snížením nejvyšší přípustné expozice.<sup>2</sup>)
+
+## § 3
+
+Občan uvedený v § 1 odst. 1, který do 31. března 1991 nesplnil podmínku stanovenou v § 2 odst. 1 písm. a) nebo b), má nárok na starobní důchod, jestliže splnil chybějící podmínku a skončil výkon vybraného zaměstnání v hornictví do 31. prosince 1992.
+
+## § 4
+
+Začne-li občan uvedený v § 1 odst. 1 po splnění podmínek uvedených v § 2 nebo v § 3 znovu vykonávat vybrané zaměstnání v hornictví, nárok na starobní důchod podle tohoto nařízení mu nevznikne, popřípadě zanikne, a to od prvního dne výkonu takového zaměstnání.
+
+## § 5
+
+Pro výši starobního důchodu podle tohoto nařízení se přičítá k získané době zaměstnání doba ode dne přiznání důchodu do dosažení věku 55 let jako doba zaměstnání III. pracovní kategorie.
+
+## § 7
+
+Splnil-li občan podmínky stanovené pro nárok na starobní důchod podle tohoto nařízení před 1. lednem 1991, vznikne mu nárok na tento důchod dnem 1. ledna 1991.
+
+## § 8
+
+Organizace, které zaměstnávají nebo zaměstnávaly pracovníky ve vybraných zaměstnáních v hornictví, jsou povinny zabezpečit vedení a předkládání záznamů o skutečnostech rozhodných pro nárok na starobní důchod podle tohoto nařízení na předepsaném tiskopise; jde-li o starobní důchod, na který vznikl nárok podle tohoto nařízení dnem 1. ledna 1991, je organizace povinna tak učinit nejpozději do 31. ledna 1991.
+
+## § 9
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 1991.
+
+Čalfa v. r.
+
+---
+
+<sup>1</sup>) § 14 odst. 2 písm. a) zákona č. 100/1988 Sb., o sociálním zabezpečení.
+
+<sup>2</sup>) § 4 odst. 1 zákona č. 98/1987 Sb., o zvláštním příspěvku horníkům, ve znění zákona č. 160/1989 Sb.

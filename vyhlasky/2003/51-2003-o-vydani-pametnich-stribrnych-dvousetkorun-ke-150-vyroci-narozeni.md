@@ -1,0 +1,52 @@
+---
+title: "Vyhláška č. 51/2003 Sb., o vydání pamětních stříbrných dvousetkorun ke 150. výročí narození Josefa Thomayera"
+identifier: "51/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/51/2003-03-19"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2003-01-30
+effective: 2003-03-19
+last_amended: 2003-03-19
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/51"
+retrieved: 2026-10-11
+---
+
+# Vyhláška č. 51/2003 Sb., o vydání pamětních stříbrných dvousetkorun ke 150. výročí narození Josefa Thomayera
+
+51
+
+VYHLÁŠKA
+
+ze dne 30. ledna 2003
+
+o vydání pamětních stříbrných dvousetkorun ke 150. výročí narození Josefa Thomayera
+
+Česká národní banka stanoví podle § 22 písm. a) zákona č. 6/1993 Sb., o České národní bance:
+
+## § 1
+
+(1) Ke 150. výročí narození významného českého lékaře a spisovatele MUDr. Josefa Thomayera se vydávají pamětní stříbrné dvousetkoruny (dále jen „dvousetkoruna“).
+
+(2) Dvousetkoruna se vydává v běžném provedení a ve zvláštním provedení určeném pro sběratelské účely s leštěným polem mince a matovým reliéfem (dále jen „zvláštní provedení“).
+
+(3) Dvousetkoruna v běžném i zvláštním provedení se razí ze slitiny obsahující 900 dílů stříbra a 100 dílů mědi. Hmotnost dvousetkoruny je 13 g, její průměr 31 mm a síla 2,40 mm. Hrana dvousetkoruny v běžném provedení je vroubkovaná, hrana dvousetkoruny ve zvláštním provedení je hladká s vlysem „ČESKÁ NÁRODNÍ BANKA \* Ag 0.900 \* 13 g \*". Při ražbě dvousetkoruny v běžném i zvláštním provedení je povolená odchylka v průměru 0,1 mm a v síle 0,15 mm. V hmotnosti je povolená odchylka nahoru 0,26 g a v obsahu stříbra odchylka nahoru 1 %.
+
+## § 2
+
+(1) Na líci dvousetkoruny je v horní polovině umístěn český lev v obdélníkovém štítu a pod ním je v řádku název státu „ČESKÁ REPUBLIKA“. Uprostřed pod názvem státu je označení nominální hodnoty mince se zkratkou peněžní jednotky „200 Kč“ a pod ním lékařský symbol – číše ovinutá hadem. V pozadí číše je vavřínová snítka symbolizující literární tvorbu J. Thomayera. Autorem lícní strany dvousetkoruny je akademický sochař Ladislav Kozák, jehož iniciály „L•K“ jsou umístěny pod vavřínovou snítkou vpravo od číše, symetricky vlevo od číše je značka mincovny, která dvousetkorunu razila.
+
+(2) Na rubu dvousetkoruny je portrét Josefa Thomayera, který zaplňuje téměř celou mincovní plochu. Při spodním okraji dvousetkoruny jsou přes portrét umístěny ve dvou řádcích text „JOSEF THOMAYER“ a letopočty „1853 – 2003“. Autorem návrhu rubové strany dvousetkoruny je Josef Oplištil. Iniciály jeho jména, propojená písmena „OJ“, jsou umístěny při pravém spodním okraji dvousetkoruny.
+
+## § 3
+
+Tato vyhláška nabývá účinnosti dnem 19. března 2003.
+
+Guvernér:
+
+doc. Ing. Tůma, CSc. v. r.
+
+### ![sbcr2003c019z0051o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/829657/NAHLED/ZOBRAZ/sbcr2003c019z0051o001)
+
+### ![sbcr2003c019z0051o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/829659/NAHLED/ZOBRAZ/sbcr2003c019z0051o002)

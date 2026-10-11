@@ -1,0 +1,54 @@
+---
+title: "Zákon č. 223/2003 Sb., kterým se mění zákon č. 167/1998 Sb., o návykových látkách a o změně některých dalších zákonů, ve znění pozdějších předpisů"
+identifier: "223/2003 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2003/223/2003-08-30"
+type: act
+jurisdiction: cz
+language: cs
+date: 2003-06-26
+effective: 2003-08-30
+last_amended: 2003-08-30
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2003/223"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 223/2003 Sb., kterým se mění zákon č. 167/1998 Sb., o návykových látkách a o změně některých dalších zákonů, ve znění pozdějších předpisů
+
+223
+
+ZÁKON
+
+ze dne 26. června 2003,
+
+kterým se mění zákon č. 167/1998 Sb., o návykových látkách a o změně některých dalších zákonů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 167/1998 Sb., o návykových látkách a o změně některých dalších zákonů, ve znění zákona č. 354/1999 Sb., zákona č. 117/2000 Sb., zákona č. 132/2000 Sb., zákona č. 57/2001 Sb., zákona č. 185/2001 Sb., zákona č. 407/2001 Sb. a zákona č. 320/2002 Sb., se mění takto:
+
+1\. V § 13 se doplňuje odstavec 11, který zní:
+
+> „(11) Ministerstvo obrany a Ministerstvo financí vydávají pro zdravotnická a veterinární zařízení patřící do jejich působnosti tiskopisy receptů a žádanek s modrým pruhem s uvedením kódu příslušného ministerstva. Pro nakládání s těmito tiskopisy platí obdobně ustanovení odstavců 2 až 8 s tím, že místo obecního úřadu obce s rozšířenou působností zajišťuje stanovené činnosti Ministerstvo obrany nebo Ministerstvo financí.“.
+
+2\. V příloze č. 4 se za položku „Para-methoxyamfetamin“ vkládá do sloupce „Mezinárodní nechráněný název (INN) v českém jazyce“ slovo „Para-methoxymetamfetamin“, do sloupce „Další mezinárodní nechráněný název nebo obecný název“ slovo „PMMA“ a do sloupce „Chemický název“ se vkládají slova „1-(4-methoxyfenyl)-2-(methylamino)propan“.
+
+3\. V příloze č. 5 se za položku „Amfetamin“ vkládá do sloupce „Mezinárodní nechráněný název (INN) v českém jazyce“ slovo „Buprenorfin“ a do sloupce „Chemický název“ se vkládají slova „21-cyklopropyl-7-α-[(S)-1-hydro-1,2,2-trimethylpropyl]-6,14-endo-ethano-6,7,8,14-tetrahydrooripavin“.
+
+4\. V příloze č. 5 se za položku „Fenmetrazin“ vkládá do sloupce „Mezinárodní nechráněný název (INN) v českém jazyce“ slovo „Flunitrazepam“ a do sloupce „Chemický název“ se vkládají slova „1,3-dihydro-5-(o-fluorfenyl)-1-methyl-7-nitro-2H-1,4-benzo-diazepin-2-on“.
+
+5\. V příloze č. 6 se ve sloupci „Mezinárodní nechráněný název (INN) v českém jazyce“ slovo „Buprenorfin“ zrušuje a ve sloupci „Chemický název“ se slova „21-cyklopropyl-7-α-[(S)-1-hydro-1,2,2-trimethylpropyl]-6,14-endo-ethano-6,7,8,14-tetrahydrooripavin“ zrušují.
+
+6\. V příloze č. 6 se ve sloupci „Mezinárodní nechráněný název (INN) v českém jazyce“ slovo „Flunitrazepam“ zrušuje a ve sloupci „Chemický název“ se slova „1,3-dihydro-5-(o-fluorfenyl)-1-methyl-7-nitro-2H-1,4-benzodiazepin-2-on“ zrušují.
+
+## Čl. II – Účinnost
+
+Tento zákon nabývá účinnosti třicátým dnem po dni jeho vyhlášení.
+
+Zaorálek v. r.
+
+Klaus v. r.
+
+Špidla v. r.

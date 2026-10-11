@@ -1,0 +1,117 @@
+---
+title: "Zákon č. 152/1994 Sb., o volbách do zastupitelstev v obcích a o změně a doplnění některých dalších zákonů"
+identifier: "152/1994 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1994/152/2004-02-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 1994-06-22
+effective: 1994-07-20
+last_amended: 2004-02-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1994/152"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 152/1994 Sb., o volbách do zastupitelstev v obcích a o změně a doplnění některých dalších zákonů ve znění zákona č. 247/1995 Sb., zákona č. 273/2001 Sb., zákona č. 491/2001 Sb. a zákona č. 22/2004 Sb."
+---
+
+# Zákon č. 152/1994 Sb., o volbách do zastupitelstev v obcích a o změně a doplnění některých dalších zákonů
+
+152
+
+ZÁKON
+
+ze dne 22. června 1994
+
+o volbách do zastupitelstev v obcích a o změně a doplnění některých dalších zákonů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## ČÁST DRUHÁ – Doplnění zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů
+
+### § 61
+
+Zákon č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 36/1967 Sb., zákona č. 158/1969 Sb., zákona č. 49/1973 Sb, zákona č. 20/1975 Sb., zákona č. 133/1982 Sb., zákona č. 180/1990 Sb., zákona č. 328/1991 Sb., zákona č. 519/1991 Sb., zákona č. 263/1992 Sb., zákona České národní rady č. 24/1993 Sb., zákona č. 171/1993 Sb. a zákona č. 117/1994 Sb., se doplňuje takto:
+
+Za § 200i se připojují nové § 200j, 200k a 200l, které včetně poznámek č. 34b) a č. 34c) znějí:
+
+> **„§ 200j**
+
+> (1) Jestliže příslušný orgán státní správy sám neodstraní chyby nebo nedostatky ve stálém seznamu voličů, může se občan tím dotčený obrátit na soud příslušný podle volebního okrsku s návrhem na vydání rozhodnutí o provedení opravy nebo doplnění tohoto seznamu.
+
+> (2) Účastníky řízení jsou navrhovatel a obec.
+
+> (3) Soud rozhodne bez jednání usnesením, a to do tří dnů.
+
+> (4) K řízení ve věcech chyb nebo nedostatků ve stálých seznamech voličů do zastupitelstev v obcích je příslušný okresní soud.
+
+> **§ 200k**
+
+> (1) Jestliže volební komise, příslušná podle zvláštního zákona<sup>34b</sup>) vydat konečné rozhodnutí, rozhodla o
+
+> a) odmítnutí kandidátní listiny pro volby do zastupitelstva v obci, může se volební strana obrátit na soud s návrhem na vydání rozhodnutí o zaregistrování této kandidátní listiny,
+
+> b) škrtnutí na kandidátní listině pro volby do zastupitelstva v obci, může se volební strana, jakož i kandidát, obrátit na soud s návrhem na vydání rozhodnutí o ponechání kandidáta na kandidátní listině.
+
+> (2) Účastníkem řízení je navrhovatel a okresní, městská nebo Ústřední volební komise.
+
+> (3) Soud rozhodne bez jednání usnesením, a to do tří dnů.
+
+> (4) Proti rozhodnutí soudu nejsou přípustné opravné prostředky.
+
+> **§ 200l**
+
+> (1) O stížnosti proti vydání osvědčení o zvolení členem zastupitelstva v obci<sup>34c</sup>) rozhodne soud bez jednání usnesením, a to do sedmi dnů.
+
+> (2) Účastníkem řízení je navrhovatel.
+
+> (3) Proti rozhodnutí soudu nejsou přípustné opravné prostředky.
+
+> <sup>34b</sup>) Zákon č. 152/1994 Sb., o volbách do zastupitelstev v obcích a o změně a doplnění některých dalších zákonů.
+
+> <sup>34c</sup>) § 59 zákona č. 152/1994 Sb.“.
+
+> **§ 76 – Účinnost zákona**
+
+> Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.
+
+---
+
+<sup>1</sup>) § 27 zákona ČNR č. 367/1990 Sb., o obcích (obecní zřízení), ve znění zákona ČNR č. 302/1992 Sb.
+
+<sup>2</sup>) Čl. 102 ústavního zákona ČNR č. 1/1993 Sb., Ústava České republiky.
+
+<sup>3</sup>) Zákon č. 135/1982 Sb., o hlášení a evidenci pobytu občanů.
+
+<sup>4</sup>) § 27 odst. 2 písm. c) a e) zákona ČNR č. 367/1990 Sb., ve znění zákona ČNR č. 302/1992 Sb.
+
+<sup>5</sup>) § 10 a 855 občanského zákoníku č. 40/1964 Sb., ve znění pozdějších předpisů.
+
+<sup>6</sup>) § 5 odst. 2 písm. b) a § 9 odst. 4 písm. a) zákona č. 20/1966 Sb., o péči o zdraví lidu, ve znění zákona ČNR č. 548/1991 Sb.
+
+<sup>7</sup>) Zákon č. 92/1949 Sb., branný zákon, ve znění pozdějších předpisů.
+
+<sup>8</sup>) § 60 zákona ČNR č. 367/1990 Sb., ve znění zákona ČNR č. 302/1992 Sb.
+
+<sup>8a</sup>) Zákon č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů.
+
+<sup>9</sup>) Zákon č. 424/ 1991 Sb., o sdružování v politických stranách a v politických hnutích, ve znění zákona č. 468/1991 Sb., zákona č. 68/1993 Sb., zákona č. 189/1993 Sb. a zákona č. 117/1994 Sb.
+
+<sup>10</sup>) § 58 a 200k zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů.
+
+<sup>10a</sup>) § 117 odst. 3 zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění zákona č. 273/2001 Sb.
+
+<sup>11</sup>) Zákon ČNR č. 3/1993 Sb., o státních symbolech České republiky.
+
+<sup>12</sup>) § 20 zákona ČNR č. 40/1993 Sb., o nabývání a pozbývání státního občanství České republiky.
+
+<sup>13</sup>) § 200j občanského soudního řádu.
+
+<sup>14</sup>) § 200k občanského soudního řádu.
+
+<sup>15</sup>) § 200l občanského soudního řádu.

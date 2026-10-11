@@ -1,0 +1,74 @@
+---
+title: "Vyhláška České národní banky č. 110/1993 Sb., o vydání mincí po 10 Kč vzoru 1993, o ukončení platnosti mincí po 10 Kčs a bankovek po 10 Kčs a jejich výměně"
+identifier: "110/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/110/1995-11-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1993-03-26
+effective: 1993-05-01
+last_amended: 1995-11-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/110"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška České národní banky č. 110/1993 Sb., o vydání mincí po 10 Kč vzoru 1993, o ukončení platnosti mincí po 10 Kčs a bankovek po 10 Kčs a jejich výměně ve znění vyhlášky č. 232/1995 Sb."
+---
+
+# Vyhláška České národní banky č. 110/1993 Sb., o vydání mincí po 10 Kč vzoru 1993, o ukončení platnosti mincí po 10 Kčs a bankovek po 10 Kčs a jejich výměně
+
+110
+
+VYHLÁŠKA
+
+České národní banky
+
+ze dne 26. března 1993
+
+o vydání mincí po 10 Kč vzoru 1993, o ukončení platnosti mincí po 10 Kčs a bankovek po 10 Kčs a jejich výměně
+
+Česká národní banka podle § 22 písm. a) a d) zákona České národní rady č. 6/1993 Sb., o České národní bance, stanoví:
+
+## § 1
+
+Dnem 12. května 1993 se vydávají do oběhu mince po 10 Kč vzoru 1993 (dále jen „desetikoruna“).
+
+## § 2
+
+(1) Desetikoruna se razí z ocelového jádra, které je po obou stranách potaženo plátkem mědi. Měděné plátky i hrana desetikoruny jsou galvanicky pokoveny mědí. Hmotnost desetikoruny je 7,62 g, její průměr 24,5 mm a síla 2,55 mm. Hrana desetikoruny je vroubkovaná.
+
+(2) Při ražbě desetikoruny je povolena odchylka směrem nahoru i dolů v hmotnosti 0,25 g, v průměru 0,1 mm a v síle 0,05 mm. V obsahu mědi při plátování i při galvanickém pokovení je při ražbě povolena odchylka směrem dolů 1 %.
+
+## § 3
+
+(1) Na líci desetikoruny je jako symbol české státnosti český lev. V opise je název státu „ČESKÁ REPUBLIKA“ a při spodním okraji mince letopočet ražby, který je od názvu státu oddělen tečkami. Nad letopočtem ražby je mezi zadníma nohama lva umístěna značka mincovny, která desetikorunu razila.
+
+(2) Na rubu desetikoruny je v pravé spodní části označení hodnoty mince číslem „10“. Zkratka peněžní jednotky „Kč“ je vlevo od hodnotového čísla. V pozadí je národní kulturní památka Petrov se stylizovanými střechami přilehlých domů a korunami stromů. Při levém okraji mince je v opise název vyobrazeného města „BRNO“. Autorem návrhu desetikoruny je akademický sochař Ladislav Kozák, iniciály jeho jména „LK“ jsou mezi pravým okrajem mince a číslicí „0“; u desetikorun vydaných do oběhu po 1. listopadu 1995 jsou u spodního okraje mince pod číslicí „1“.
+
+## § 4
+
+(1) Platnost mincí po 10 Kčs<sup>1</sup>) a bankovek po 10 Kčs<sup>2</sup>) se ukončuje dnem 31. července 1993.
+
+(2) Mince a bankovky uvedené v odstavci 1 vyměňuje v době od 1. srpna do 30. listopadu 1993 Česká národní banka a banky.<sup>3</sup>)
+
+## § 5
+
+Tato vyhláška nabývá účinnosti dnem 1. května 1993.
+
+Guvernér:
+
+Ing. Tošovský v. r.
+
+### ![sbcr1993c030z0110o001.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/787093/NAHLED/ZOBRAZ/sbcr1993c030z0110o001)
+
+### ![sbcr1993c030z0110o002.tif](https://e-sbirka.gov.cz/sbr-externi/souborove-dokumenty/787095/NAHLED/ZOBRAZ/sbcr1993c030z0110o002)
+
+---
+
+<sup>1</sup>) Vyhláška Státní banky československé č. 410/1990 Sb., o vydání mincí po 10 Kčs s letopočtem 1990. 
+ Vyhláška Státní banky československé č. 329/1991 Sb., o vydání mincí po 10 Kčs s letopočtem 1991. 
+ Vyhláška Státní banky československé č. 130/1992 Sb., o vydání mincí po 10 Kčs s letopočtem 1992. 
+ Vyhláška Státní banky československé č. 463/1992 Sb., o dalším vydávání mincí po 10 Kčs.
+
+<sup>2</sup>) Vyhláška federálního ministerstva financí č. 36/1986 Sb., o vydání bankovek po 10 Kčs.
+
+<sup>3</sup>) § 1 odst. 1 zákona č. 21/1992 Sb., o bankách.

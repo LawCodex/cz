@@ -1,0 +1,42 @@
+---
+title: "Nařízení vlády č. 489/2002 Sb., kterým se pro účely důchodového pojištění stanoví výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2001"
+identifier: "489/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/489/2003-01-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 2002-11-06
+effective: 2003-01-01
+last_amended: 2003-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/489"
+retrieved: 2026-10-11
+---
+
+# Nařízení vlády č. 489/2002 Sb., kterým se pro účely důchodového pojištění stanoví výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2001
+
+489
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 6. listopadu 2002,
+
+kterým se pro účely důchodového pojištění stanoví výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2001
+
+Vláda nařizuje podle § 17 odst. 4 zákona č. 155/1995 Sb., o důchodovém pojištění, a čl. IV zákona č. 420/2002 Sb., kterým se zkracuje doba, po kterou je představitelům státní moci a některých státních orgánů, soudcům a státním zástupcům poskytován plat při dočasné neschopnosti k výkonu funkce, a kterým se stanoví některá opatření v nemocenském pojištění (péči) a v důchodovém pojištění:
+
+## § 1
+
+Výše přepočítacího koeficientu pro úpravu všeobecného vyměřovacího základu za rok 2001 činí 1,0693.
+
+## § 2
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2003.
+
+Předseda vlády:
+
+PhDr. Špidla v. r.
+
+Ministr práce a sociálních věcí:
+
+Ing. Škromach v. r.

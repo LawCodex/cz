@@ -1,0 +1,101 @@
+---
+title: "Zákon č. 114/1993 Sb., o Kanceláři prezidenta republiky"
+identifier: "114/1993 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1993/114/2025-04-04"
+type: act
+jurisdiction: cz
+language: cs
+date: 1993-03-24
+effective: 1993-04-08
+last_amended: 2025-04-04
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1993/114"
+retrieved: 2026-10-11
+citation_with_amendments: "Zákon č. 114/1993 Sb., o Kanceláři prezidenta republiky ve znění zákona č. 224/1999 Sb., zákona č. 220/2000 Sb., zákona č. 49/2004 Sb., zákona č. 281/2004 Sb. a zákona č. 72/2025 Sb."
+---
+
+# Zákon č. 114/1993 Sb., o Kanceláři prezidenta republiky
+
+114
+
+ZÁKON
+
+ze dne 24. března 1993
+
+o Kanceláři prezidenta republiky
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## § 1
+
+(1) Zřizuje se Kancelář prezidenta republiky (dále jen „Kancelář“).
+
+(2) Kancelář je organizační složkou státu se samostatnou kapitolou ve státním rozpočtu České republiky.
+
+## § 2
+
+(1) Kancelář zajišťuje obstarávání věcí spojených
+
+a) s výkonem pravomocí prezidenta republiky stanovených Ústavou České republiky, ústavními zákony a zákony,
+
+b) s protokolárními povinnostmi a veřejnou činností prezidenta republiky a jeho manžela nebo partnera.
+
+(2) Kancelář ze svého rozpočtu vyplácí rentu a víceúčelovou paušální náhradu bývalému prezidentu republiky a zajišťuje vozidlo s řidičem i bez něho k osobní dispozici, a to v rozsahu a za podmínek stanovených zvláštním právním předpisem.<sup>1</sup>)
+
+(3) Kancelář dále zajišťuje obstarávání věcí spojených s přípravou zvoleného prezidenta republiky na výkon úřadu a s jeho související veřejnou činností od jeho zvolení do složení slibu.
+
+## § 3
+
+(1) Kancelář vykonává právo hospodaření k nemovitému majetku České republiky tvořícímu areál Pražského hradu, k zámku Lány a k ostatním nemovitostem tvořícím s nimi jeden funkční celek a pečuje o ně jako o sídlo prezidenta republiky; vykonává též právo hospodaření k movitým věcem, které souvisejí s těmito nemovitými věcmi historicky nebo funkčně anebo souvisejí s činností Kanceláře. Ustanovením tohoto odstavce nejsou dotčeny zvláštní zákony o úpravě vlastnických vztahů.<sup>1a</sup>)
+
+(2) Kancelář si k plnění úkolů podle odstavce 1 může zřizovat příspěvkové organizace.<sup>2</sup>)
+
+## § 4
+
+(1) V čele Kanceláře je vedoucí Kanceláře, kterého jmenuje a odvolává prezident republiky.
+
+(2) Prezident stanoví vnitřní organizaci Kanceláře a okruh vedoucích pracovníků, které jmenuje a odvolává.
+
+(3) Plat a odměna za pracovní pohotovost zaměstnanců Kanceláře se řídí zvláštním právním předpisem<sup>2a</sup>) a Platovým řádem Kanceláře.
+
+(4) Platový řád Kanceláře vydává vedoucí Kanceláře po vyslovení souhlasu prezidentem republiky.
+
+## § 5
+
+Vojenská kancelář prezidenta republiky je vojenským útvarem ozbrojených sil České republiky. Úkoly Vojenské kanceláře prezidenta republiky, jmenování a odvolávání náčelníka Vojenské kanceláře prezidenta republiky a jeho pravomoci upravuje zvláštní právní předpis.<sup>3</sup>)
+
+## § 6
+
+(1) Práva a povinnosti z pracovněprávních a jiných vztahů Kanceláře prezidenta České republiky přecházejí dnem nabytí účinnosti tohoto zákona na Kancelář.
+
+(2) Příspěvkové organizace zřízené Kanceláří prezidenta České republiky podle čl. III odst. 2 zákona České národní rady č. 548/1992 Sb. se považují za příspěvkové organizace zřízené Kanceláří podle tohoto zákona.
+
+## § 7
+
+Zrušují se:
+
+1\. zákon č. 135/1991 Sb., o Kanceláři prezidenta České a Slovenské Federativní Republiky,
+
+2\. čl. III zákona ČNR č. 548/1992 Sb., o některých dalších opatřeních v soustavě ústředních orgánů státní správy České republiky a o zřízení Kanceláře prezidenta České republiky.
+
+## § 8
+
+Tento zákon nabývá účinnosti dnem vyhlášení.
+
+Uhde v. r.
+
+Havel v. r.
+
+Klaus v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 48/2004 Sb., o zabezpečení prezidenta republiky po skončení funkce.
+
+<sup>1a</sup>) Například zákon č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění pozdějších předpisů, zákon č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů, a zákon č. 92/1991 Sb., o podmínkách převodu majetku státu na jiné osoby, ve znění pozdějších předpisů.
+
+<sup>2</sup>) § 31 a 32 zákona ČNR č. 576/1990 Sb., o pravidlech hospodaření s rozpočtovými prostředky České republiky a obcí v České republice (rozpočtová pravidla).
+
+<sup>2a</sup>) Zákon č. 143/1992 Sb., o platu a odměně za pracovní pohotovost v rozpočtových a v některých dalších organizacích a orgánech, ve znění pozdějších předpisů.
+
+<sup>3</sup>) Zákon č. 219/1999 Sb., o ozbrojených silách České republiky.

@@ -1,0 +1,109 @@
+---
+title: "Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 106/1992 Sb., o spôsobe kontroly posudzovania spôsobilosti na prácu"
+identifier: "106/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/106/1992-04-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1992-02-21
+effective: 1992-04-01
+last_amended: 1992-04-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/106"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Ministerstva práce a sociálnych vecí Slovenskej republiky č. 106/1992 Sb., o spôsobe kontroly posudzovania spôsobilosti na prácu
+
+106
+
+VYHLÁŠKA
+
+Ministerstva práce a sociálnych vecí Slovenskej republiky
+
+z 21. februára 1992
+
+o spôsobe kontroly posudzovania spôsobilosti na prácu
+
+Ministerstvo práce a sociálnych vecí Slovenskej republiky podľa § 39 písm. i) č. 3 zákona Slovenskej národnej rady č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia po dohode s Ministerstvom zdravotníctva Slovenskej republiky ustanovuje:
+
+**Všeobecné ustanovenia**
+
+## § 1
+
+(1) Táto vyhláška upravuje spôsob kontroly posudzovania spôsobilosti na prácu so zreteľom na účelné vynakladanie prostriedkov na sociálne zabezpečenie (ďalej len „kontrola“).<sup>1</sup>)
+
+(2) Kontrola tvorí súčasť posudkovej činnosti sociálneho zabezpečenia.<sup>2</sup>)
+
+## § 2
+
+(1) Kontrolu vykonáva správa sociálneho zabezpečenia<sup>3</sup>) (ďalej len „správa“), v obvode ktorej je miesto výkonu práce príslušného ošetrujúceho lekára opráveného na posudzovanie spôsobilosti na prácu (ďalej len „ošetrujúci lekár“).<sup>4</sup>)
+
+(2) Kontrolu vykonáva pracovník kontroly, ktorým sa na účely tejto vyhlášky rozumie posudkový lekár sociálneho zabezpečenia.
+
+**Postup pri kontrole**
+
+## § 3
+
+(1) Kontrolu vykonáva pracovník kontroly v úzkej súčinnosti s ošetrujúcim lekárom v rámci lekárskej posudkovej činnosti.<sup>4</sup>)
+
+(2) Súčinnosť podľa odseku 1 zahŕňa najmä predkladanie prvotných dokladov o posudzovaní spôsobilosti na prácu<sup>5</sup>) ošetrujúcim lekárom, predkladanie zdravotnej dokumentácie na základe osobitného vyžiadania, dojednávanie termínu vykonania kontroly a konzultovanie jednotlivých vybraných prípadov posudzovania spôsobilosti na prácu.
+
+(3) So zreteľom na účel kontroly pracovník kontroly môže požadovať od ošetrujúceho lekára doplnenie vyšetrenia alebo ústavného liečenia občana, ktorého spôsobilosť na prácu sa posudzuje (ďalej len „posudzovaný občan“). Ošetrujúci lekár týmto žiadostiam pracovníka kontroly vyhovie, ak tomu nebránia závažné dôvody.
+
+## § 4
+
+(1) Kontrola sa vykonáva v lehotách určených správou, najmenej raz za štyri týždne trvania dočasnej pracovnej neschopnosti posudzovaného občana.
+
+(2) Termín vykonania kontroly určuje pracovník kontroly; pritom prihliada na okolnosti, za ktorých sa má kontrola vykonať. Ošetrujúci lekár umožní vykonanie kontroly a poskytne potrebnú súčinnosť (§ 3 ods. 2).
+
+## § 5
+
+Kontrola sa vykonáva na pracovisku ošetrujúceho lekára. V odôvodnených prípadoch sa môže vykonať na inom mieste určenom pracovníkom kontroly po dohode s ošetrujúcim lekárom.
+
+## § 6
+
+(1) Kontrola sa vykonáva za osobnej účasti posudzovaného občana. Za tým účelom ošetrujúci lekár zabezpečí učasť posudzovaného občana na kontrole.
+
+(2) Pracovník kontroly môže určiť, v ktorých prípadoch nie je prítomnosť posudzovaného občana pri kontrole potrebná.
+
+## § 7
+
+(1) V súvislosti s kontrolou správa vedie evidenciu posudzovaných občanov (ďalej len „evidencia“).
+
+(2) Na účely evidencie ošetrujúci lekár bez zbytočného odkladu predkladá správe (§ 2 ods. 1) prvotné doklady<sup>5</sup>) o posudzovaní spôsobilosti na prácu.
+
+**Postup pri ukončení dočasnej pracovnej neschopnosti**
+
+## § 8
+
+(1) Pracovník kontroly požiada ošetrujúceho lekára o ukončenie dočasnej pracovnej neschopnosti alebo o udelenie súhlasu na jej ukončenie, ak pri kontrole zistí, že dočasná pracovná neschopnosť posudzovaného občana je neodôvodnená. Súčasne ošetrujúcemu lekárovi oznámi dôvody, pre ktoré má byť dočasná pracovná neschopnosť ukončená.
+
+(2) Ošetrujúci lekár zaznamená svoj nesúhlas a jeho dôvody do zdravotnej dokumentácie posudzovaného občana v prípade, že požiadavke podľa odseku 1 nevyhovie.
+
+## § 9
+
+Ustanovenia § 8 platia primerane pre ukončenie potreby ošetrovania člena rodiny, prevedenia na inú prácu z dôvodu tehotenstva a materstva a neschopnosti pripravovať sa na budúce povolanie pre chorobu.<sup>6</sup>)
+
+## § 10 – Účinnosť
+
+Táto vyhláška nadobúda účinnosť 1. aprílom 1992.
+
+Ministerka:
+
+PhDr. Woleková CSc. v. r.
+
+---
+
+<sup>1</sup>) § 77 ods. 5 zákona č. 20/1966 Zb. o starostlivosti o zdravie ľudu v znení zákona SNR č. 419/1991 Zb.
+
+<sup>2</sup>) § 1 ods. 4 zákona SNR č. 543/1990 Zb. o štátnej správe sociálneho zabezpečenia.
+
+<sup>3</sup>) § 15 písm. g) č. 3 zákona SNR č. 543/1990 Zb.
+
+<sup>4</sup>) § 21 ods. 1 zákona č. 20/1966 Zb. v znení zákona SNR č. 419/1991 Zb.
+
+<sup>5</sup>) Tlačivo ŠEVT č. 14 506, 14 525 0, 14 525 1.
+
+<sup>6</sup>) § 21 ods. 1 zákona č. 20/1966 Zb. v znení zákona SNR č. 419/1991 Zb. 
+ § 20 a nasl. vyhlášky MZ č. 42/1966 Zb. o poskytovaní liečebno-preventívnej starostlivosti.

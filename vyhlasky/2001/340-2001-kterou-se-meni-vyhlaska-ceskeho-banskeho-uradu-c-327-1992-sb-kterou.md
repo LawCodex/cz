@@ -1,0 +1,63 @@
+---
+title: "Vyhláška Českého báňského úřadu č. 340/2001 Sb., kterou se mění vyhláška Českého báňského úřadu č. 327/1992 Sb., kterou se stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při výrobě zpracování výbušnin a odborné způsobilosti pracovníků pro tuto činnost"
+identifier: "340/2001 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2001/340/2002-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2001-09-05
+effective: 2002-01-01
+last_amended: 2002-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2001/340"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Českého báňského úřadu č. 340/2001 Sb., kterou se mění vyhláška Českého báňského úřadu č. 327/1992 Sb., kterou se stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při výrobě zpracování výbušnin a odborné způsobilosti pracovníků pro tuto činnost
+
+340
+
+VYHLÁŠKA
+
+Českého báňského úřadu
+
+ze dne 5. září 2001,
+
+kterou se mění vyhláška Českého báňského úřadu č. 327/1992 Sb., kterou se stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při výrobě a zpracování výbušnin a odborné způsobilosti pracovníků pro tuto činnost
+
+Český báňský úřad stanoví v dohodě s Ministerstvem průmyslu a obchodu podle § 23 odst. 7 a podle § 24 odst. 4 zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění zákona č. 542/1991 Sb. a zákona č. 315/2001 Sb.:
+
+## Čl. I
+
+Vyhláška č. 327/1992 Sb., kterou se stanoví požadavky k zajištění bezpečnosti a ochrany zdraví při práci a bezpečnosti provozu při výrobě a zpracování výbušnin a odborné způsobilosti pracovníků pro tuto činnost, se mění takto:
+
+1\. § 23 zní:
+
+> **„§ 23 – Společná ustanovení**
+
+> Organizace může vyrábět jen takové plastické trhaviny, které jsou značkované pro účely detekce. Detekční látkou je kterákoliv z látek, které jsou uvedeny v příloze č. 4 této vyhlášky.“.
+
+2\. Příloha č. 4 zní:
+
+> **„Příloha č. 4 k vyhlášce č. 327/1992 Sb.**
+
+> **DETEKČNÍ LÁTKY PRO ÚČELY ZNAČKOVÁNÍ PLASTICKÝCH TRHAVIN**
+
+> 1\. Detekční látky, které jsou uvedeny v následující tabulce, jsou určeny k použití pro účely lepší detekce trhavin pomocí prostředků pro zjišťování jejich par. Detekční látka se přidá do trhaviny takovým způsobem, aby byla homogenně rozptýlena v hotovém výrobku. Minimální koncentrace detekční látky v hotovém výrobku v okamžiku výroby odpovídá hodnotě v níže uvedené tabulce.
+
+> 2\. Tabulka detekčních látek
+
+> | Název detekční látky | molekulární vzorec | relativní<br> molekulová<br> hmotnost | minimální koncentrace ve hmotě trhaviny |
+> |---|---|---|---|
+> | Ethylen glykol dinitrát (EGDN) | C<sub>2</sub>H<sub>4</sub>(NO<sub>2</sub>)<sub>2</sub> | 152 | 0,2 % |
+> | 2,3-Dimethyl-2,3-dinitrobutan (DMNB) | C<sub>4</sub>H<sub>12</sub>(NO<sub>2</sub>)<sub>2</sub> | 176 | 0,1% |
+> | para-Mononitrotoluen (p-MNT) | C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub> | 137 | 0,5 % |
+> | ortho-Mononitrotoluen (o-MNT) | C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub> | 137 | 0,5 %“. |
+
+## Čl. II – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2002.
+
+Předseda:
+
+prof. JUDr. Ing. Makarius, CSc. v. r.

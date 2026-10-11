@@ -1,0 +1,164 @@
+---
+title: "Nariadenie vlády Slovenskej republiky č. 469/1991 Sb., ktorým sa vykonáva zákon Slovenskej národnej rady č. 198/1990 Zb. o telesnej kultúre"
+identifier: "469/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/469/1991-12-01"
+type: government_regulation
+jurisdiction: cz
+language: cs
+date: 1991-10-22
+effective: 1991-12-01
+last_amended: 1991-12-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/469"
+retrieved: 2026-10-11
+---
+
+# Nariadenie vlády Slovenskej republiky č. 469/1991 Sb., ktorým sa vykonáva zákon Slovenskej národnej rady č. 198/1990 Zb. o telesnej kultúre
+
+469
+
+NARIADENIE VLÁDY
+
+Slovenskej Republiky
+
+z 22. októbra 1991,
+
+ktorým sa vykonáva zákon Slovenskej národnej rady č. 198/1990 Zb. o telesnej kultúre
+
+Vláda Slovenskej republiky na vykonanie zákona Slovenskej národnej rady č. 198/1990 Zb. o telesnej kultúre nariaďuje:
+
+## § 1 – Úvodné ustanovenie
+
+Toto nariadenie upravuje činnosť telovýchovných, športových a turistických združení, štátnych podnikov, družstiev a iných organizácií a podnikateľov,<sup>1</sup>) pri príprave odborníkov na výkon špecializovaných profesionálnych činností v oblasti telesnej kultúry určených Ministerstvom školstva, mládeže a športu Slovenskej republiky (ďalej len „ministerstvo“).<sup>2</sup>)
+
+## § 2 – Príprava na výkon špecializovaných profesionálnych činností v oblasti telesnej kultúry
+
+(1) Právnické a fyzické osoby uvedené v § 1 pripravujú týchto odborníkov na výkon špecializovaných profesionálnych činností v oblasti telesnej kultúry
+
+a) tréner
+
+1\. tréner III. triedy
+
+2\. tréner II. triedy
+
+3\. tréner I. triedy
+
+4\. diplomovaný tréner
+
+5\. diplomovaný tréner pre rekreačný šport
+
+b) cvičiteľ
+
+1\. cvičiteľ III. triedy
+
+2\. cvičiteľ II. triedy
+
+3\. cvičiteľ I. triedy
+
+c) rozhodca
+
+1\. rozhodca III. triedy
+
+2\. rozhodca II. triedy
+
+3\. rozhodca I. triedy
+
+d) iný odborník (masér, regeneračný pracovník, vodný záchranár a pod.), ktorý zabezpečuje prípravnú a regeneračnú činnosť v oblasti telesnej kultúry.
+
+(2) Právnické a fyzické osoby uvedené v § 1 pripravujú na výkon špecializovaných profesionálnych činností v oblasti telesnej kultúry odborníkov formou
+
+a) štúdia na Fakulte telesnej výchovy a športu Univerzity Komenského v Bratislave (ďalej len „fakulta telesnej výchovy a športu“),
+
+b) štúdia na pedagogických fakultách so zameraním na školskú telesnú výchovu so zvoleným športom,
+
+c) štúdia na športových školách,
+
+d) vzdelávania v telovýchovných vzdelávacích zariadeniach, ktoré majú na to oprávnenie,
+
+e) vzdelávania v špecializovaných kurzoch.
+
+(3) Prípravu špecializovaných profesionálnych činností v oblasti telesnej kultúry formou vzdelávania v telovýchovných vzdelávacích zariadeniach a v špecializovaných kurzoch podla odseku 2 písm. d) a e) môže vykonávať ten, kto preukáže
+
+a) personálne zabezpečenie tejto prípravy kvalifikovanými pracovníkmi,
+
+b) materiálno-technické vybavenie zodpovedajúce najnovším vedecko-technickým poznatkom,
+
+c) vzdelávací program, zodpovedajúci rozsahom a náročnosťou príslušnej špecializovanej profesionálnej činnosti.
+
+(4) Splnenie podmienok podľa odseku 3 osvedčuje a osvedčenie odníma ministerstvo.
+
+**Spôsobilosť na vykonávanie práce odborníka v oblasti telesnej kultúry**
+
+## § 3
+
+(1) Kvalifikačnou podmienkou na výkon príslušnej špecializovanej profesionálnej činnosti v oblasti telesnej kulúry
+
+a) trénera III. triedy je absolvovanie kvalifikačného kurzu príslušného telovýchovného a športového zväzu, ukončeného záverečnou skúškou,
+
+b) trénera II. triedy je absolvovanie aspoň úplného stredného vzdelania,<sup>3</sup>) kvalifikácia trénera III. triedy a absolvovanie kurzu, ktorý organizuje príslušný telovýchovný a športový zväz v spolupráci s fakultou telesnej výchovy a športu alebo pedagogickými fakultami. Štúdium sa ukončuje obhajobou záverečnej práce a skúškou pred komisiou príslušného telovýchovného a športového zväzu a zástupcom špecializovanej katedry fakulty telesnej výchovy a športu alebo pedagogických fakúlt,
+
+c) trénera I. triedy je absolvovanie aspoň úplného stredného vzdelania, kvalifikácia trénera II. triedy a absolvovanie diaľkového štúdia trénera s príslušnou špecializáciou na fakulte telesnej výchovy a športu. Štúdium sa ukončuje obhajobou záverečnej práce a skúškou pred komisiou zloženou zo zástupcov špecializovanej katedry fakulty telesnej výchovy a športu a príslušného telovýchovného a športového zväzu,
+
+d) diplomovaného trénera je ukončenie štvorročného jednoodborového štúdia so špecializáciou na fakulte telesnej výchovy a športu,
+
+e) diplomovaného trénera pre rekreačný šport je ukončenie štvorročného jednoodborového štúdia so špecializáciou tréner rekreačného športu na fakulte telesnej výchovy a športu.
+
+(2) Telovýchovnú kvalifikáciu
+
+a) tréner III. triedy získavajú
+
+1\. absolventi bakalárskeho štúdia učiteľského smeru so zvoleným športom na fakulte telesnej výchovy a športu alebo pedagogických fakultách so skúškou zo zvoleného športu,
+
+2\. absolventi stredných, športových škôl, ktorí absolvujú špecifickú prípravu formou voliteľného predmetu,
+
+3\. aktívni športovci po dosiahnutí výkonnostnej úrovne, určenej príslušným telovýchovným a športovým zväzom a po úspešnom absolvovaní záverečných skúšok,
+
+b) tréner II. triedy získavajú
+
+1\. absolventi dvojodborového štúdia na fakulte telesnej výchovy a športu alebo pedagogických fakultách v športových odvetviach, ktoré sa ukončili skúškou,
+
+2\. absolventi bakalárskeho jednoodborového štúdia so špecializáciou na fakulte telesnej výchovy a športu,
+
+c) tréner I. triedy získavajú absolventi dvojodborového štúdia so zvoleným športom na fakulte telesnej výchovy a športu alebo pedagogických fakultách s obhájenou diplomovou prácou z príslušného športového odvetvia a so skúškou zo zvoleného športu.
+
+(3) Absolventom zahraničných trénerských a cvičiteľských kurzov priznáva odbornú kvalifikáciu na základe vyjadrenia príslušného telovýchovného a športového zväzu fakulta telesnej výchovy a športu.
+
+## § 4
+
+(1) Rozsah a obsah prípravy, ako aj kvalifikáciu cvičiteľov a rozhodcov určuje príslušný telovýchovný a športový zväz.
+
+(2) Rozsah a obsah prípravy, ako aj kvalifikáciu iných odborníkov v oblasti telesnej kultúry určuje ten, kto je na to podľa tohto nariadenia oprávnený.
+
+## § 5 – Podnikanie v oblasti telesnej kultúry
+
+Podnikať<sup>4</sup>) v oblasti telesnej kultúry možno najmä
+
+a) organizovaním a zabezpečovaním činnosti cvičebných a tréningových jednotiek a kurzov, organizovaním a riadením telovýchovného procesu v telovýchovných a športových školách a kurzoch a poskytovaním ďalších služieb, ktoré súvisia s priamym vedením a riadením telovýchovného procesu,
+
+b) poskytovaním služieb súvisiacich so zabezpečovaním kondičnej, relaxačnej a regeneračnej činnosti (Fitnes centrá), zapožičiavaním a výrobou telovýchovného náradia, náčinia a rôznych pomôcok, poskytovaním ubytovacích služieb pre turistiku a šport, zriaďovaním a prevádzkovaním sáun a pod.
+
+## § 6 – Spoločné a záverečné ustanovenia
+
+(1) Vzdelávacie programy na prípravu špecializovaných profesionálnych činností v oblasti telesnej kultúry obsahujú najmä vymedzenie rozsahu jej teoretickej a praktickej časti potrebnej na výkon jednotlivých špecializovaných profesionálnych činností.
+
+(2) Právnické a fyzické osoby sú oprávnené vydávať účastníkom vzdelávania špecializovaných profesionálnych činností osvedčenia o overení vedomostí a odborných schopností získaných pri vzdelávaní pracovníkov, s uvedením doby platnosti. Jej uplynutím stráca osvedčenie platnosť, ak nedôjde k jeho obnoveniu. Osvedčenia sú dokladom o požadovanej kvalifikácii na vykonávanie špecializovanej profesionálnej činnosti.
+
+## § 7 – Zrušovacie ustanovenie
+
+Zrušuje sa vyhláška Štátneho úradu pre telesnú výchovu a šport č. 334/1951 Ú. v. o plavčíkoch.
+
+## § 8
+
+Toto nariadenie nadobúda účinnosť 1. decembrom 1991.
+
+Čarnogurský v. r.
+
+---
+
+<sup>1</sup>) § 4 ods. 1 písm. c) a ods. 2 písm. a) až c) zákona Slovenskej národnej rady č. 198/1990 Zb. o telesnej kultúre.
+
+<sup>2</sup>) § 5 ods. 1 písm. h) zákona Slovenskej národnej rady č. 198/1990 Zb.
+
+<sup>3</sup>) § 7 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov.
+
+<sup>4</sup>) Napr. zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon), zákon č. 104/1990 Zb. o akciových spoločnostiach.

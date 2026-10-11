@@ -1,0 +1,60 @@
+---
+title: "Zákon č. 279/2002 Sb., kterým se mění zákon č. 201/1997 Sb., o platu a některých dalších náležitostech státních zástupců a o změně a doplnění zákona č. 143/1992 Sb., o platu a odměně za pracovní pohotovost v rozpočtových a v některých dalších organizacích a orgánech, ve znění pozdějších předpisů, ve znění pozdějších předpisů"
+identifier: "279/2002 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2002/279/2002-07-01"
+type: act
+jurisdiction: cz
+language: cs
+date: 2002-05-30
+effective: 2002-07-01
+last_amended: 2002-07-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2002/279"
+retrieved: 2026-10-11
+---
+
+# Zákon č. 279/2002 Sb., kterým se mění zákon č. 201/1997 Sb., o platu a některých dalších náležitostech státních zástupců a o změně a doplnění zákona č. 143/1992 Sb., o platu a odměně za pracovní pohotovost v rozpočtových a v některých dalších organizacích a orgánech, ve znění pozdějších předpisů, ve znění pozdějších předpisů
+
+279
+
+ZÁKON
+
+ze dne 30. května 2002,
+
+kterým se mění zákon č. 201/1997 Sb., o platu a některých dalších náležitostech státních zástupců a o změně a doplnění zákona č. 143/1992 Sb., o platu a odměně za pracovní pohotovost v rozpočtových a v některých dalších organizacích a orgánech, ve znění pozdějších předpisů, ve znění pozdějších předpisů
+
+Parlament se usnesl na tomto zákoně České republiky:
+
+## Čl. I
+
+Zákon č. 201/1997 Sb., o platu a některých dalších náležitostech státních zástupců a o změně a doplnění zákona č. 143/1992 Sb., o platu a odměně za pracovní pohotovost v rozpočtových a v některých dalších organizacích a orgánech, ve znění pozdějších předpisů, ve znění zákona č. 155/2000 Sb. a zákona č. 14/2002 Sb., se mění takto:
+
+1\. § 6 včetně poznámek pod čarou č. 5) až 5b) zní:
+
+> **„§ 6**
+
+> (1) Státnímu zástupci je plat stanoven s přihlédnutím k případné práci přesčas.<sup>5</sup>) To neplatí o práci přesčas konané v noci<sup>5a</sup>) a v den pracovního klidu.<sup>5b</sup>)
+
+> (2) Za hodinu práce přesčas uvedené v odstavci 1 větě druhé náleží státnímu zástupci část platu stanoveného podle § 3 připadající na jednu hodinu práce bez práce přesčas v kalendářním měsíci, ve kterém práci přesčas konal, zvýšená o 50 % průměrného hodinového výdělku, pokud se státní zástupce s vedoucím státním zástupcem příslušného státního zastupitelství nedohodli na poskytnutí náhradního volna místo platu za práci přesčas. Za dobu čerpání náhradního volna se plat nekrátí. Neposkytne-li příslušný vedoucí státní zástupce státnímu zástupci náhradní volno v době tří po sobě jdoucích kalendářních měsíců po výkonu práce přesčas nebo v jinak dohodnuté době, náleží státnímu zástupci část platu a její zvýšení podle věty první.
+
+> <sup>5</sup>) § 96 zákoníku práce.
+
+> <sup>5a</sup>) § 99 odst. 1 zákoníku práce.
+
+> <sup>5b</sup>) § 91 odst. 1 zákoníku práce.“.
+
+2\. Za § 9 se vkládá nový § 9a, který zní:
+
+> **„§ 9a – Plat při dočasné neschopnosti k výkonu funkce**
+
+> Státnímu zástupci, který byl uznán dočasně neschopným k výkonu funkce, přísluší plat nejdéle po dobu 60 pracovních dnů při téže dočasné neschopnosti k výkonu funkce nebo při více dočasných neschopnostech k výkonu funkce vzniklých v jednom kalendářním roce po tutéž dobu. Při posuzování dočasné neschopnosti k výkonu funkce se postupuje obdobně podle předpisů o posuzování dočasné pracovní neschopnosti.“.
+
+## Čl. II
+
+Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po vyhlášení.
+
+Klaus v. r.
+
+Havel v. r.
+
+v z. Rychetský v. r.

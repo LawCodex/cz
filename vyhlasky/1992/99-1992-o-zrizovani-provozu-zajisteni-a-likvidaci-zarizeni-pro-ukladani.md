@@ -1,0 +1,206 @@
+---
+title: "Vyhláška Českého báňského úřadu č. 99/1992 Sb., o zřizování, provozu, zajištění a likvidaci zařízení pro ukládání odpadů v podzemních prostorech"
+identifier: "99/1992 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1992/99/2005-08-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1992-02-20
+effective: 1992-03-24
+last_amended: 2005-08-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1992/99"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Českého báňského úřadu č. 99/1992 Sb., o zřizování, provozu, zajištění a likvidaci zařízení pro ukládání odpadů v podzemních prostorech ve znění vyhlášky č. 300/2005 Sb."
+---
+
+# Vyhláška Českého báňského úřadu č. 99/1992 Sb., o zřizování, provozu, zajištění a likvidaci zařízení pro ukládání odpadů v podzemních prostorech
+
+99
+
+VYHLÁŠKA
+
+Českého báňského úřadu
+
+ze dne 20. února 1992
+
+o zřizování, provozu, zajištění a likvidaci zařízení pro ukládání odpadů v podzemních prostorech
+
+Český báňský úřad podle § 34 odst. 4 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění zákona České národní rady č. 541/1991 Sb., stanoví:
+
+## ČÁST PRVNÍ – OBECNÁ USTANOVENÍ
+
+### § 1 – Předmět úpravy
+
+Tato vyhláška zapracovává příslušné předpisy Evropských společenství<sup>1</sup>) a upravuje bližší podrobnosti pro zřizování, provoz, zajištění a likvidaci zařízení pro ukládání odpadů v podzemních prostorech (dále jen „úložiště“) jako zvláštního zásahu do zemské kůry<sup>2</sup>).
+
+### § 2 – Vymezení pojmů
+
+Pro účely této vyhlášky se považují za
+
+a) úložiště odpadů - podzemní prostory vzniklé přírodními vlivy nebo hornickou činností či činností prováděnou hornickým způsobem, do kterých se ukládají odpady,
+
+b) zřizování úložišť - činnost vedoucí ke vzniku úložiště odpadů, tj. projektování, výstavba nebo rekonstrukce podzemních prostor vhodných jako úložiště odpadů, včetně jejich vyhledávání a průzkumu,
+
+c) provoz úložišť - činnosti při ukládání odpadů v podzemních prostorech na základě provozního řádu,
+
+d) zajištění úložišť - provedení nezbytných opatření při dočasném zastavení provozu úložiště odpadů,
+
+e) likvidace úložišť - provedení nezbytných opatření směřujících k trvalému zastavení provozu úložiště odpadů.
+
+### § 3 – Ukládání odpadů
+
+(1) Ukládat odpady do podzemí mohou právnické a fyzické osoby jen na základě získaného oprávnění<sup>3</sup>) a povolení<sup>4</sup>). K úložišti se vyjadřuje příslušný orgán státní správy podle zvláštního právního předpisu<sup>5</sup>).
+
+(2) Předpokladem pro vydání povolení je předchozí stanovení chráněného území podle zvláštních předpisů.<sup>6</sup>)
+
+(3) Do úložiště odpadů nelze přijmout odpad uvedený v příloze (dále jen „vyloučený odpad“).
+
+(4) Do úložiště odpadů lze přijmout pouze odpad, který splňuje požadavky stanovené zvláštním právním předpisem<sup>6a</sup>) na odpad ukládaný na skládky stejné skupiny, do které bylo úložiště zařazeno podle výsledků integrovaného hodnocení úložiště<sup>6b</sup>). Odpady, které by mohly vzájemně reagovat, musí být definovány v základním popisu odpadu producentem a rozděleny do skupin podle vzájemné slučitelnosti; jednotlivé skupiny musí být na úložišti prostorově odděleny.
+
+## ČÁST DRUHÁ – ZŘIZOVÁNÍ ÚLOŽIŠŤ ODPADŮ
+
+### § 4 – Vyhledávání a průzkum úložišť odpadů
+
+(1) Vyhledávání a průzkum úložišť odpadů může být prováděn pouze na základě povolení vydaného podle zvláštních předpisů.<sup>7</sup>)
+
+(2) Při vyhledávání a průzkumu jsou právnické a fyzické osoby povinny:
+
+a) ověřovat zájmové území tak, aby zjistily a vyhodnotily komplexně geologické poměry,
+
+b) ověřit vývoj a úložné poměry zájmového území tak, aby se projektování a výstavba podzemního úložiště mohla uskutečnit podle zásad báňské technologie a bylo přitom využito všech příznivých vlastností horninového prostředí,
+
+c) používat takové metody a postupy, aby nedošlo k znemožnění nebo ztížení následného využití horninového prostředí pro účely podzemního úložiště odpadů,
+
+d) zjistit skutečnosti potřebné k posouzení možných vlivů úložiště odpadů na ložiska nerostů, vodní zdroje, životní prostředí a další důležité veřejné zájmy,
+
+e) při přerušení vyhledávání a průzkumu provést opatření, aby se nezmařila důlní díla a neztížilo provádění dalšího průzkumu.
+
+### § 5 – Projektování a výstavba úložišť odpadů
+
+(1) Na projektování, výstavbu, popřípadě rekonstrukci úložišť odpadů se vztahují stavební předpisy,<sup>8</sup>) pokud tato vyhláška nebo jiné právní předpisy<sup>9</sup>) nestanoví jinak.
+
+(2) Dokumentace staveb uvedených v odstavci 1 musí kromě náležitostí stanovených jinými obecnými předpisy zajišťovat
+
+a) optimální rozmístění povrchových a podzemních staveb, zařízení a důlních děl,
+
+b) bezpečnost provozu a bezpečnost a ochranu zdraví při práci, zajištění důlních děl, větrání, čerpání a odvádění důlních vod, ochranu proti výbuchům, průvalům, požárům a otřesům, jakož i proti průtržím hornin a plynů,
+
+c) řešení vztahů k jiným národohospodářským odvětvím a veřejným zájmům chráněným zvláštními předpisy,<sup>10</sup>) a to nejen z hlediska přímých následků připravované investiční akce, nýbrž i z hlediska následků spojených s ukládáním odpadů do podzemí.
+
+(3) Bezpečnost a ochrana zdraví při práci a bezpečnost provozu při zřizování podzemních úložišť odpadů včetně bezpečnosti používaných technických zařízení a požární ochrany se v plném rozsahu řídí zvláštním předpisem.<sup>11</sup>)
+
+## ČÁST TŘETÍ
+
+### § 6 – Provoz úložišť odpadů
+
+(1) Obvodní báňský úřad v rozhodnutí o povolení činnosti stanoví podmínky pro ukládání a manipulaci s odpadem v podzemním úložišti, a to v souladu s podmínkami stanovenými příslušnými orgány státní správy<sup>5</sup>) na základě kategorizace a vlastností ukládaného odpadu podle zvláštních předpisů.<sup>12</sup>)
+
+(2) Provozovatel je povinen zejména:
+
+a) nakládat s odpady podle zpracovaného provozního řádu, který byl odsouhlasen příslušným orgánem státní správy,<sup>5</sup>)
+
+b) vést evidenci o množství, druhu a původu odpadu převzatého k uložení.<sup>13</sup>) V předepsané mapové dokumentaci<sup>4</sup>) vyznačit místo uložení odpadu,
+
+c) zpracovat havarijní plán ke zdolávání závažných provozních nehod a havárií,<sup>14</sup>)
+
+d) v případě, že je možno využít ukládaný odpad jako zdroj druhotných surovin nebo energie, zajistit takový způsob ukládání odpadu, který by neznemožnil jeho budoucí využití,
+
+e) provádět pravidelný odběr vzorků vzdušin a vod a podle výsledků jejich rozboru kontrolovat, zda nedochází k nežádoucí změně vlastností odpadu a jeho ekologické nebezpečnosti,
+
+f) přijímat operativní opatření k odstraňování a nápravě zjištěných nedostatků a vytvářet podmínky provozu nezbytné z hlediska péče o zdraví lidí a životního prostředí,
+
+g) umožnit kontrolním orgánům přístup do objektů, prostorů a zařízení a na vyžádání předložit dokumentaci a poskytnout pravdivé a úplné informace o skutečnostech souvisejících s provozem podzemního úložiště odpadů,
+
+h) činnosti související s provozem podzemních úložišť odpadů vykonávat prostřednictvím pracovníků, u nichž byla ověřena jejich odborná způsobilost,<sup>15</sup>)
+
+ch) soustavně seznamovat všechny své pracovníky s právními a ostatními předpisy souvisejícími s provozem úložiště odpadů včetně bezpečnosti a ochrany zdraví při práci, pravidelně ověřovat jejich znalosti těchto předpisů a soustavně vyžadovat a kontrolovat jejich dodržování.
+
+### § 7 – Bezpečnost práce a provozu
+
+(1) Bezpečnost a ochrana zdraví při práci a bezpečnost provozu podzemních úložišť odpadů včetně bezpečnosti používaných technických zařízení a požární ochrany se řídí zvláštním předpisem.<sup>11</sup>)
+
+(2) Probíhá-li ukládání odpadů do podzemních prostor souběžně s těžbou užitkového nerostu, platí zvláštní předpis<sup>11</sup>) v celém rozsahu.
+
+(3) Pokud není prováděna souběžně těžba užitkového nerostu a pokud obvodní báňský úřad nestanoví jinak, vztahuje se na tuto činnost zvláštní předpis<sup>11</sup>) s výjimkou ustanovení:
+
+<table><tbody><tr><td rowspan="3">část první, díl druhý</td><td>§ 7 Prohlídky pravovišť</td></tr><tr><td>§ 8 Předběžné prohlídky důlních děl</td></tr><tr><td>§ 10 Inspekční služba</td></tr><tr><td>díl třetí</td><td>§ 16 Obsazení pracovišť</td></tr><tr><td>část třetí, díl první</td><td>§ 33 Východy z dolu</td></tr><tr><td rowspan="2"></td><td>§ 34 Spojení východů z dolu</td></tr><tr><td>§ 35 Východy z pracovišť</td></tr><tr><td>část čtvrtá, díl první</td><td>Větrání plynujících a uhelných dolů</td></tr><tr><td rowspan="3">díl druhý, oddíl první</td><td>Větrání neplynujících neuhelných dolů</td></tr><tr><td>§ 117 Větrní spoje dolu s povrchem</td></tr><tr><td>§ 118 Způsoby větrání</td></tr><tr><td rowspan="2">oddíl druhý</td><td>Důlní větry a větrní cesty</td></tr><tr><td>§ 122 Rychlost důlních větrů</td></tr><tr><td>oddíl třetí</td><td>Hlavní a výpomocné ventilátory</td></tr><tr><td>oddíl čtvrtý</td><td>Rozvádění důlních větrů</td></tr><tr><td>oddíl pátý</td><td>Pomocné větrání</td></tr><tr><td>oddíl šestý</td><td>Větrání důlních provozoven</td></tr><tr><td>oddíl sedmý</td><td>Větrání dočasně neobsazených a opuštěných důlních děl</td></tr><tr><td rowspan="3">oddíl osmý</td><td>Kontrola větrání a přístroje k měření koncentrace plynů a plynných škodlivin</td></tr><tr><td>§ 149 Větrní rozvaha</td></tr><tr><td>§ 150 Vedoucí větrání</td></tr><tr><td>část pátá</td><td>Ochrana dolů proti výbuchu uhelného prachu</td></tr><tr><td rowspan="7">část šestá, díl druhý</td><td>Požární ochrana, opatření proti vzniku důlních požárů</td></tr><tr><td>§ 172 Důlně požární vodovod</td></tr><tr><td>§ 173 Kontrola a opravy důlního požárního vodovodu</td></tr><tr><td>§ 174 Požární nádrž</td></tr><tr><td>§ 183 Dopravníky</td></tr><tr><td>§ 186 Přípravné protipožární hráze v plynujících a uhelných dolech</td></tr><tr><td>§ 187 Samovznícení</td></tr><tr><td>část sedmá, díl druhý</td><td>Odvodňování dolů, čerpání důlních vod.</td></tr></tbody></table>
+
+(4) Bezpečnost a ochrana zdraví při práci a bezpečnost provozu při ukládání odpadů do podzemních prostor vrty se řídí dílem I a II zvláštního předpisu.<sup>16</sup>)
+
+## ČÁST ČTVRTÁ
+
+### § 8 – Zajištění a likvidace úložišť odpadů
+
+Dočasné nebo trvalé zastavení provozu podzemního úložiště je přípustné jen na základě povolení podle zvláštního předpisu.<sup>4</sup>)
+
+### § 9 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem vyhlášení.
+
+Předseda Českého báňského úřadu:
+
+Ing. Bartoš v. r.
+
+### Příloha k vyhlášce č. 99/1992 Sb.
+
+#### VYLOUČENÉ ODPADY
+
+a) odpady vyjmenované v příloze č. 5 vyhlášky č. 294/2005 Sb.,
+
+b) odpady a jejich obaly, které by mohly za skladovacích podmínek reagovat s vodou nebo s horninovým prostředím a vést ke:
+
+1\. změně objemu,
+
+2\. vytváření samozápalných, toxických nebo výbušných látek nebo plynů,
+
+3\. jiné reakci, která by mohla ohrozit provozní bezpečnost nebo celistvost bariéry horninového prostředí,
+
+c) odpady, které jsou biologicky rozložitelné,
+
+d) odpady, které mohou vytvářet směs plynu a vzduchu, která je toxická nebo výbušná. To se vztahuje především na odpady, které:
+
+1\. způsobují koncentraci toxických plynů v důsledku parciálního tlaku jejich složek,
+
+2\. vytvářejí při nasycení uvnitř kontejneru koncentrace, které jsou vyšší než 10 % koncentrace odpovídající spodní mezi výbušnosti,
+
+e) odpady, které nejsou dostatečně stabilní, aby odpovídaly geomechanickým podmínkám úložiště.
+
+---
+
+<sup>1</sup>) Směrnice Rady 1999/31/ES ze dne 26. 4. 1999 o skládkách. 
+ Rozhodnutí Rady 2003/33/ES ze dne 19. 12. 2002, kterým se stanoví kritéria a postupy pro přijímání odpadů na skládky podle článku 16 a přílohy II směrnice 1999/31/ES.
+
+<sup>2</sup>) § 34 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění pozdějších předpisů.
+
+<sup>3</sup>) § 5 odst. 2 zákona č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů.
+
+<sup>4</sup>) Vyhláška č. 104/1988 Sb., o hospodárném využívání výhradních ložisek, o povolování a ohlašování hornické činnosti a ohlašování činnosti prováděné hornickým způsobem, ve znění pozdějších předpisů.
+
+<sup>5</sup>) § 79 zákona č. 185/2001 Sb., o odpadech a o změně některých dalších zákonů, ve znění pozdějších předpisů.
+
+<sup>6</sup>) Vyhláška ČBÚ č. 78/1988 Sb., o chráněných ložiskových územích a dobývacích prostorech.
+
+<sup>6a</sup>) Vyhláška č. 294/2005 Sb., o podmínkách ukládání odpadů na skládky a jejich využívání na povrchu terénu a změně vyhlášky č. 383/2001 Sb., o podrobnostech nakládání s odpady.
+
+<sup>6b</sup>) Příloha č. 12 vyhlášky č. 299/2005 Sb., kterou se mění vyhláška Českého báňského úřadu č. 104/1988 Sb., o hospodárném využívání výhradních ložisek, o povolování a ohlašování hornické činnosti a ohlašování činnosti prováděné hornickým způsobem, ve znění pozdějších předpisů.
+
+<sup>7</sup>) Zákon ČNR č. 62/1988 Sb., o geologických pracích a o Českém geologickém úřadu, ve znění zákona ČNR č. 543/1991 Sb.
+
+<sup>8</sup>) Zákon č. 50/1976 Sb., stavební zákon, a předpisy související.
+
+<sup>9</sup>) Např. zákon č. 44/1988 Sb., ve znění zákona ČNR č. 541/1991 Sb., zákon č. 238/1991 Sb.
+
+<sup>10</sup>) Např. zákon č. 367/1990 Sb., o obcích (obecní zřízení), zákon č. 51/1964 Sb., o dráhách, vyhláška ministerstva dopravy a Ústředního báňského úřadu č. 28/1967 Sb., kterou se stanoví pravidla pro styk drah s hornickou činností, zákon č. 110/1964 Sb., o telekomunikacích, zákon č. 53/1966 Sb., o ochraně zemědělského půdního fondu (úplné znění č. 124/1976 Sb.), zákon č. 138/1973 Sb., o vodách (vodní zákon), zákon č. 61/1977 Sb., o lesích, zákon č. 17/1992 Sb., o životním prostředí.
+
+<sup>11</sup>) Vyhláška ČBÚ č. 22/1989 Sb., o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu při hornické činnosti a při činnosti prováděné hornickým způsobem v podzemí.
+
+<sup>12</sup>) Opatření Federálního výboru pro životní prostředí ze dne 1. 8. 1991, kterým se vyhlašuje Kategorizace a katalog odpadů (uveřejněno v částce 69/1991 Sb.).
+
+<sup>13</sup>) Nařízení vlády ČR č. 521/1991 Sb., o vedení evidence odpadů, včetně evidence skládek založených před účinností zákona č. 238/1991 Sb.
+
+<sup>14</sup>) Výnos ČBÚ č. 8/1987 Sb., o plánech zdolávání závažných provozních nehod v hlubinných dolech.
+
+<sup>15</sup>) Vyhláška ČBÚ č. 103/1989 Sb., o požadavcích na kvalifikaci a odbornou způsobilost a o ověřování odborné způsobilosti pracovníků k hornické činnosti a činnosti prováděné hornickým způsobem.
+
+<sup>16</sup>) Výnos ČBÚ č. 17/1981 Ú. v. ČSR o bezpečnosti a ochraně zdraví při práci a bezpečnosti provozu pro vrtné a geofyzikální práce a pro těžbu, úpravu a podzemní skladování kapalných nerostů a plynů v přírodních horninových strukturách, ve znění výnosu ČBÚ č. 18/1986 Ú. v. ČSR.

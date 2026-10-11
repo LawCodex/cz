@@ -1,0 +1,102 @@
+---
+title: "Vyhláška Ministerstva spravedlnosti č. 485/2000 Sb., o výši odměny správce obchodního závodu a správce nemovité věci, způsobu jejího určení a určení náhrady jejich hotových výdajů a o paušálně stanovené náhradě nákladů plátce mzdy nebo jiného příjmu"
+identifier: "485/2000 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/2000/485/2022-01-01"
+type: decree
+jurisdiction: cz
+language: cs
+date: 2000-12-18
+effective: 2001-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/2000/485"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva spravedlnosti č. 485/2000 Sb., o výši odměny správců podniku, způsobu jejího určení a určení náhrady jejich hotových výdajů ve znění vyhlášky č. 329/2009 Sb. a vyhlášky č. 517/2021 Sb."
+---
+
+# Vyhláška Ministerstva spravedlnosti č. 485/2000 Sb., o výši odměny správce obchodního závodu a správce nemovité věci, způsobu jejího určení a určení náhrady jejich hotových výdajů a o paušálně stanovené náhradě nákladů plátce mzdy nebo jiného příjmu
+
+485
+
+VYHLÁŠKA
+
+Ministerstva spravedlnosti
+
+ze dne 18. prosince 2000
+
+o výši odměny správce obchodního závodu a správce nemovité věci, způsobu jejího určení a určení náhrady jejich hotových výdajů a o paušálně stanovené náhradě nákladů plátce mzdy nebo jiného příjmu
+
+Ministerstvo spravedlnosti stanoví podle § 374a písm. d) zákona č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 263/1992 Sb., zákona č. 24/1993 Sb. a zákona č. 30/2000 Sb., (dále jen „zákon“):
+
+## Odměna a náhrada hotových výdajů správce závodu
+
+### § 2
+
+(1) Rozhodne-li soud ve výkonu rozhodnutí postižením závodu, že bude nařízen prodej závodu v dražbě, základem pro určení odměny správce závodu je zjištěná cena závodu (§ 338n odst. 1 a 2 zákona). Odměna činí z částky
+
+| do 1 000 000 Kč | 10 %, |
+|---|---|
+| z přebývající částky <br> až do 10 000 000 Kč | 5 %, |
+| z přebývající částky <br> až do 50 000 000 Kč | 2 %, |
+| z přebývající částky <br> až do 100 000 000 Kč | 1 %, |
+| z přebývající částky <br> nad 100 000 000 Kč | 0,5 %. |
+
+(2) Rozhodne-li soud, že výkon rozhodnutí postižením závodu bude pokračovat správou závodu, použije se na odměnu správce závodu § 4a odst. 1 a 2 obdobně.
+
+(3) Odměna správce závodu činí nejméně 45 000 Kč.
+
+### § 3
+
+Pokud v řízení o výkon rozhodnutí prodejem závodu bylo činno několik správců závodu, náleží každému z nich podíl odměny odpovídající rozsahu a délce doby jeho činnosti.
+
+### § 4
+
+(1) Správce závodu má vedle nároku na odměnu také nárok na náhradu hotových výdajů účelně vynaložených v souvislosti s výkonem své funkce, zejména na cestovní výdaje, poštovné, znalecké posudky, překlady, opisy a fotokopie.
+
+(2) Výše náhrady cestovních výdajů se řídí výší této náhrady stanovené zvláštními právními předpisy o cestovních náhradách.<sup>1</sup>)
+
+(3) Náhrada nákladů vynaložených na znalecké posudky se řídí zvláštními právními předpisy o odměnách znalců a tlumočníků.<sup>2</sup>)
+
+(4) Účelně vynaložené náklady na poštovné, překlady, opisy a fotokopie se hradí v prokázané výši.
+
+**Odměna a náhrada hotových výdajů správce nemovité věci**
+
+## § 4a
+
+(1) Základem pro určení měsíční odměny správce nemovité věci je jedna třetina výše příjmů, které soud získal správou nemovité věci v průběhu 3 po sobě jdoucích měsíců. Netrvala-li správa celé 3 po sobě jdoucí měsíce, je základem pro určení měsíční odměny výše příjmů získaných správou nemovité věci za celé měsíce dělená počtem těchto měsíců. Netrvala-li správa ani celý měsíc, je základem pro určení odměny výše příjmů získaných správou nemovité věci.
+
+(2) Odměna správce nemovité věci činí 10 % ze základu.
+
+(3) Odměna správce nemovité věci činí nejméně 5 000 Kč.
+
+## § 4b
+
+Pokud v řízení o výkon rozhodnutí správou nemovité věci bylo činno několik správců, použije se § 3 obdobně.
+
+## § 4c
+
+Na náhradu hotových výdajů správce nemovité věci se § 4 použije obdobně.
+
+**Paušálně stanovená náhrada nákladů plátce mzdy nebo jiného příjmu**
+
+## § 4d
+
+Paušálně stanovená náhrada nákladů plátce mzdy nebo jiného příjmu činí za 1 kalendářní měsíc, v němž plátce mzdy nebo jiného příjmu provádí srážky ze mzdy nebo jiného příjmu vypláceného jednomu povinnému, 50 Kč; to platí i v případě, že plátce mzdy nebo jiného příjmu provádí srážky z více mezd nebo jiných příjmů, které vyplácí povinnému.
+
+## § 4e
+
+Výše paušálně stanovené náhrady nákladů plátce mzdy nebo jiného příjmu nesmí přesáhnout třetinu částky sražené ze mzdy nebo jiného příjmu povinného zaokrouhlenou na celé koruny nahoru.
+
+## § 5 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2001.
+
+Ministr:
+
+JUDr. Rychetský v. r.
+
+---
+
+<sup>1</sup>) Zákon č. 119/1992 Sb., o cestovních náhradách, ve znění pozdějších předpisů.
+
+<sup>2</sup>) Vyhláška č. 37/1967 Sb., k provedení zákona o znalcích a tlumočnících, ve znění pozdějších předpisů.

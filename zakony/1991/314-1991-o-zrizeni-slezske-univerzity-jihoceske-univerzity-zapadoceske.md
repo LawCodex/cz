@@ -1,0 +1,72 @@
+---
+title: "Zákon České národní rady č. 314/1991 Sb., o zřízení Slezské univerzity, Jihočeské univerzity, Západočeské univerzity, Univerzity Jana Evangelisty Purkyně a Ostravské univerzity"
+identifier: "314/1991 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1991/314/1991-09-28"
+type: act
+jurisdiction: cz
+language: cs
+date: 1991-07-09
+effective: 1991-09-28
+last_amended: 1991-09-28
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1991/314"
+retrieved: 2026-10-11
+---
+
+# Zákon České národní rady č. 314/1991 Sb., o zřízení Slezské univerzity, Jihočeské univerzity, Západočeské univerzity, Univerzity Jana Evangelisty Purkyně a Ostravské univerzity
+
+314
+
+ZÁKON
+
+České národní rady
+
+ze dne 9. července 1991
+
+o zřízení Slezské univerzity, Jihočeské univerzity, Západočeské univerzity, Univerzity Jana Evangelisty Purkyně a Ostravské univerzity
+
+Česká národní rada se usnesla na tomto zákoně:
+
+## § 1
+
+Zřizuje se:
+
+a) vysoká škola s názvem Slezská univerzita, se sídlem v Opavě,
+
+b) vysoká škola s názvem Jihočeská univerzita, se sídlem v Českých Budějovicích,
+
+c) vysoká škola s názvem Západočeská univerzita, se sídlem v Plzni,
+
+d) vysoká škola s názvem Univerzita Jana Evangelisty Purkyně, se sídlem v Ústí nad Labem,
+
+e) vysoká škola s názvem Ostravská univerzita, se sídlem v Ostravě.
+
+## § 2
+
+Od Masarykovy univerzity v Brně se oddělují filozofická fakulta Masarykovy univerzity v Brně se sídlem v Opavě a obchodně podnikatelská fakulta Masarykovy univerzity v Brně se sídlem v Karviné a slučují se ve Slezskou univerzitu v Opavě.
+
+## § 3
+
+(1) Jihočeská univerzita v Českých Budějovicích se slučuje s Pedagogickou fakultou v Českých Budějovicích.
+
+(2) Z vysoké školy zemědělské v Praze se odděluje fakulta agronomická v Českých Budějovicích a slučuje se s Jihočeskou univerzitou v Českých Budějovicích.
+
+## § 4
+
+Se Západočeskou univerzitou se slučují Vysoká škola strojní a elektrotechnická v Plzni a Pedagogická fakulta v Plzni.
+
+## § 5
+
+Univerzita Jana Evangelisty Purkyně v Ústí nad Labem se slučuje s Pedagogickou fakultou v Ústí nad Labem.
+
+## § 6
+
+Ostravská univerzita v Ostravě se slučuje s Pedagogickou fakultou v Ostravě.
+
+## § 7
+
+Tento zákon nabývá účinnosti dnem 28. září 1991.
+
+Burešová v. r.
+
+Pithart v. r.

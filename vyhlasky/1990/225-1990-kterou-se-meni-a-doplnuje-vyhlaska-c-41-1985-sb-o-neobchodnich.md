@@ -1,0 +1,53 @@
+---
+title: "Vyhláška Federálního ministerstva zahraničního obchodu č. 225/1990 Sb., kterou se mění a doplňuje vyhláška č. 41/1985 Sb., o neobchodních vývozech a dovozech věcí, ve znění vyhlášek č. 179/1988 Sb., č. 118/1989 Sb. č. 4/1990 Sb. a č. 52/1990 Sb."
+identifier: "225/1990 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1990/225/1990-06-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1990-06-06
+effective: 1990-06-15
+last_amended: 1990-06-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1990/225"
+retrieved: 2026-10-11
+---
+
+# Vyhláška Federálního ministerstva zahraničního obchodu č. 225/1990 Sb., kterou se mění a doplňuje vyhláška č. 41/1985 Sb., o neobchodních vývozech a dovozech věcí, ve znění vyhlášek č. 179/1988 Sb., č. 118/1989 Sb. č. 4/1990 Sb. a č. 52/1990 Sb.
+
+225
+
+VYHLÁŠKA
+
+federálního ministerstva zahraničního obchodu
+
+ze dne 6. června 1990,
+
+kterou se mění a doplňuje vyhláška č. 41/1985 Sb., o neobchodních vývozech a dovozech věcí, ve znění vyhlášek č. 179/1988 Sb., č. 118/1989 Sb. č. 4/1990 Sb., a č. 52/1990 Sb.
+
+Federální ministerstvo zahraničního obchodu stanoví podle § 54 zákona č. 42/1980 Sb., o hospodářských stycích se zahraničím, ve znění zákona č. 102/1988 Sb. a č. 113/1990 Sb.:
+
+## Článek I
+
+Vyhláška federálního ministerstva zahraničního obchodu o neobchodních vývozech a dovozech věcí č. 41/1985 Sb., ve znění vyhlášek č. 179/1988 Sb., č. 118/1989 Sb., č. 4/1990 Sb. a č. 52/1990 Sb., se mění a doplňuje takto:
+
+1\. Příloha č. 4 vyhlášky se doplňuje o položku č. 3, která zní:
+
+> „3. osobní automobily starší 6 let (počítáno včetně roku výroby, případně modelového roku).<sup>\*</sup>)“.
+
+## Článek II
+
+Ustanovení této vyhlášky se nevztahuje na osobní automobily, které byly dopraveny na československé území do 14. června 1990 včetně.
+
+## Článek III
+
+Tato vyhláška nabývá účinnosti dnem 15. června 1990.
+
+Ministr:
+
+Ing. Barčák v. r.
+
+---
+
+<sup>\*</sup>) Rok výroby nebo modelový rok je uveden na výrobním štítku nebo zakódován v čísle VIN na desátém místě pod mezinárodně stanoveným kódem (např. rok 1985 je označen písmenem F, rok 1986 písmenem G atd.). 
+ V roce 1990 lze dovážet osobní automobily rok výroby nebo modelový rok 1985 značené na výrobním štítku v čísle VIN (Vehicle identification number) písmenem F a mladší.

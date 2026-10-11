@@ -1,0 +1,95 @@
+---
+title: "Vyhláška Ministerstva vnitra č. 368/1999 Sb., kterou se stanoví náležitosti a počty fotografií vyžadovaných podle zákona o pobytu cizinců"
+identifier: "368/1999 Sb."
+eli: "https://e-sbirka.gov.cz/eli/cz/sb/1999/368/2017-08-15"
+type: decree
+jurisdiction: cz
+language: cs
+date: 1999-12-22
+effective: 2000-01-01
+last_amended: 2017-08-15
+status: in_force
+source: "https://e-sbirka.gov.cz/sb/1999/368"
+retrieved: 2026-10-11
+citation_with_amendments: "Vyhláška Ministerstva vnitra č. 368/1999 Sb., kterou se stanoví náležitosti a počty fotografií vyžadovaných podle zákona o pobytu cizinců ve znění vyhlášky č. 363/2001 Sb., vyhlášky č. 198/2004 Sb., vyhlášky č. 164/2006 Sb., vyhlášky č. 416/2006 Sb. a vyhlášky č. 224/2017 Sb."
+---
+
+# Vyhláška Ministerstva vnitra č. 368/1999 Sb., kterou se stanoví náležitosti a počty fotografií vyžadovaných podle zákona o pobytu cizinců
+
+368
+
+VYHLÁŠKA
+
+Ministerstva vnitra
+
+ze dne 22. prosince 1999,
+
+kterou se stanoví náležitosti a počty fotografií vyžadovaných podle zákona o pobytu cizinců
+
+Ministerstvo vnitra stanoví podle § 182 odst. 1 písm. a), o pobytu cizinců na území České republiky a o změně některých zákonů:
+
+## § 1 – Náležitosti fotografií
+
+(1) Fotografie nebo obdobný obrazový záznam (dále jen „fotografie“) má hladký povrch, musí vyhovovat testům dlouhodobé obrazové stálosti a je v černobílém nebo barevném provedení. Fotografie je obdélníkového tvaru o rozměrech 35 mm x 45 mm, postavená na kratší stranu, s rovnými nebo zaoblenými rohy s poloměrem r = 3 mm +/- 0,5 mm, o tloušťce od 0,13 mm do 0,27 mm.
+
+(2) Fotografie ukazuje hlavu a horní část ramen zobrazované osoby, a to v předním čelném pohledu tak, aby středová vertikální rovina obličeje byla prodloužením vertikální roviny objektivu snímací soustavy a horizontální rovina obličeje tvořená očima byla prodloužením horizontální roviny objektivu snímací soustavy. Pohled zobrazované osoby směřuje do objektivu.
+
+(3) Fotografie musí odpovídat podobě zobrazované osoby v době podání žádosti. Pohled přes rameno, pootočená nebo nakloněná hlava nejsou přípustné. Zobrazovaná osoba musí mít neutrální výraz a zavřená ústa, oči musí být otevřené a nesmí být překryté vlasy. Zobrazovaná osoba musí být na fotografii bez brýlí s tmavými skly, s výjimkou nevidomých, a bez pokrývky hlavy, s výjimkou případu, kdy ji osoba používá ze zdravotních nebo náboženských důvodů. Brýle osoby na fotografii nesmí zakrývat oči a vytvářet odlesky; pokrývka hlavy nesmí zakrývat obličejovou část způsobem znemožňujícím nebo znesnadňujícím identifikaci osoby a na obličeji vytvářet stíny.
+
+(4) Mezi horním okrajem hlavy a horním okrajem fotografie je vzdálenost minimálně 2 mm. Výška obličejové části hlavy, která je tvořena vzdáleností od očí k bradě, je minimálně 13 mm.
+
+(5) Pozadí za zobrazovanou osobou je bílé až světlemodré, popřípadě světlešedé barvy, přičemž je přípustný plynulý přechod těchto barev. Fotografie je bez odlesků, které by skryly nebo výrazně změnily charakteristické identifikační znaky osoby, jimiž jsou zejména tvar a umístění obočí, očí, nosu, úst, brady a celkový tvar obličeje. Nelze provádět retuše ani jiné úpravy negativu ani pozitivu fotografie, popřípadě digitálního zpracování zobrazení podoby zobrazované osoby a jeho tisku.
+
+## § 2 – Počet fotografií
+
+Cizinec předloží
+
+a) jednu fotografii k žádosti o
+
+1\. udělení víza k pobytu nad 90 dnů,
+
+2\. vydání povolení k dlouhodobému pobytu nebo povolení k trvalému pobytu,
+
+3\. prodloužení platnosti povolení k dlouhodobému pobytu,
+
+4\. vydání průkazu o povolení k pobytu v případě změny podoby držitele průkazu,
+
+5\. vydání průkazu o povolení k pobytu náhradou za průkaz ztracený, zničený, odcizený nebo poškozený,
+
+6\. vydání průkazu o povolení k pobytu cizinci, který před dovršením 15 let věku získal oprávnění k trvalému pobytu na území,
+
+7\. vydání cestovního dokladu, nebo
+
+8\. vydání potvrzení o přechodném pobytu na území,
+
+b) dvě fotografie k žádosti o
+
+1\. vydání povolení k přechodnému pobytu rodinného příslušníka občana Evropské unie, občana státu, který je vázán mezinárodní smlouvou sjednanou s Evropskou unií<sup>1</sup>), z níž mu vyplývá právo na volný pohyb rovnocenné takovému právu občanů Evropské unie, nebo občana státu, který je vázán Dohodou o Evropském hospodářském prostoru<sup>2</sup>), který sám není občanem takového státu,
+
+2\. vydání povolení k trvalému pobytu, jde-li o občana Evropské unie, občana státu, který je vázán mezinárodní smlouvou sjednanou s Evropskou unií<sup>1</sup>), z níž mu vyplývá právo na volný pohyb rovnocenné takovému právu občanů Evropské unie, občana státu, který je vázán Dohodou o Evropském hospodářském prostoru<sup>2</sup>), nebo rodinného příslušníka občana takového státu,
+
+3\. vydání pobytové karty, průkazu o povolení k pobytu pro cizince nebo průkazu o povolení k trvalému pobytu, pokud jejich platnost již nelze prodloužit nebo v případě změny podoby držitele tohoto dokladu, jde-li o občana Evropské unie, občana státu, který je vázán mezinárodní smlouvou sjednanou s Evropskou unií<sup>1</sup>), z níž mu vyplývá právo na volný pohyb rovnocenné takovému právu občanů Evropské unie, občana státu, který je vázán Dohodou o Evropském hospodářském prostoru<sup>2</sup>), nebo rodinného příslušníka občana takového státu, nebo
+
+4\. vydání pobytové karty, průkazu o povolení k pobytu pro cizince nebo průkazu o povolení k trvalému pobytu, náhradou za doklad ztracený, zničený, odcizený nebo poškozený, jde-li o občana Evropské unie, občana státu, který je vázán mezinárodní smlouvou sjednanou s Evropskou unií<sup>1</sup>), z níž mu vyplývá právo na volný pohyb rovnocenné takovému právu občanů Evropské unie, občana státu, který je vázán Dohodou o Evropském hospodářském prostoru<sup>2</sup>), nebo rodinného příslušníka občana takového státu.
+
+## § 3 – Zrušovací ustanovení
+
+Zrušují se:
+
+1\. Vyhláška č. 228/1995 Sb., kterou se stanoví peněžní částka nezbytná k hrazení nákladů na pobyt cizince na území České republiky a na jeho vycestování.
+
+2\. Vyhláška č. 116/1999 Sb., kterou se mění vyhláška Ministerstva vnitra č. 228/1995 Sb., kterou se stanoví peněžní částka nezbytná k hrazení nákladů na pobyt cizince na území České republiky a na jeho vycestování.
+
+## § 4 – Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2000.
+
+Ministr:
+
+PhDr. Grulich v. r.
+
+---
+
+<sup>1</sup>) Například Dohoda mezi Evropským společenstvím a jeho členskými státy na straně jedné a Švýcarskou konfederací na straně druhé o volném pohybu osob.
+
+<sup>2</sup>) Přílohy V a VIII Dohody o Evropském hospodářském prostoru a rozhodnutí Smíšeného výboru EHP č. 158/2007 ze dne 7. prosince 2007, kterým se mění příloha V (Volný pohyb pracovníků) a příloha VIII (Právo usazování) Dohody o EHP.
